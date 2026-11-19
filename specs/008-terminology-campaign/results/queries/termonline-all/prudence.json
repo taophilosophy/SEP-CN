@@ -1,0 +1,232 @@
+{
+ "key": "prudence",
+ "term": "prudence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:25:10+00:00",
+ "status": "ok",
+ "note": "variant=prudence; 审定公布名词库=14; 海峡两岸名词对照库=5; 其他来源数据库=3; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "存在度",
+   "en": "presence",
+   "source": "植物学名词",
+   "wordNumber": "13.0279",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "某物种(或分类单位)在属于同一群落类型但空间上彼此分隔的各个群落地段中所出现的百分率。"
+  },
+  {
+   "cn": "存在度",
+   "en": "presence",
+   "source": "生态学名词",
+   "wordNumber": "06.037",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某种生物在属于同一群落类型且空间上彼此分隔的各个群落中出现的百分率。"
+  },
+  {
+   "cn": "社交在场感",
+   "en": "social presence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.075",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通类型",
+   "subjectName": "人际沟通类型",
+   "publishYear": "2022",
+   "definition": "一般经由计算机技术作为中介的交流显露出沟通者之间对存在状态的一种主观体验与感受。"
+  },
+  {
+   "cn": "车辆存在监测器",
+   "en": "presence monitor",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0408",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "预后慎重",
+   "en": "prudent prognosis",
+   "source": "兽医学名词",
+   "wordNumber": "13.326",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "预后的好坏依病情的轻重、诊疗是否得当及个体条件和环境因素的变化而有明显不同的预后。"
+  },
+  {
+   "cn": "精明捕食者",
+   "en": "prudent predator",
+   "source": "生态学名词",
+   "wordNumber": "05.193",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "捕食者在进化过程中能够形成自我约束能力，对猎物不造成过捕，能保持其食物源。"
+  },
+  {
+   "cn": "社交在场论",
+   "en": "social presence theory",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.135",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通模式与理论",
+   "subjectName": "人际沟通模式与理论",
+   "publishYear": "2022",
+   "definition": "一种通过社交在场感与社交情境线索等解释网络人际沟通与面对面人际沟通形成差异的假说。1976年，由英国学者约翰.肖特(John Short)、埃德林.威廉姆斯(Ederyn Williams)和布鲁斯·"
+  },
+  {
+   "cn": "模拟存在治疗",
+   "en": "simulated presence therapy",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.160",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "通过磁带、电话谈话的方式将患者与家人在一起时的某些回忆展现给患者，模仿亲属存在的治疗方式。"
+  },
+  {
+   "cn": "太阳出现敏感器",
+   "en": "sun presence sensor",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.437",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "存在型车辆检测器",
+   "en": "presence vehicle detector",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.292",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "精明捕食假说",
+   "en": "prudent predation hypothesis",
+   "source": "生态学名词",
+   "wordNumber": "03.135",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "有些动物个体通过占有领域而排他性地独占一部分资源，并为了长远需要而节省食物资源，因此成为精明的捕食者。"
+  },
+  {
+   "cn": "因特网接入点",
+   "en": "point of presence,POP",
+   "source": "通信科学技术名词",
+   "wordNumber": "02.099",
+   "subjectFullName": "通信科学技术_通信网络",
+   "subjectName": "通信网络",
+   "publishYear": "2007",
+   "definition": "在因特网内，由因特网服务提供商为用户接入因特网而提供的点。一般它是一个物理实体。"
+  },
+  {
+   "cn": "高压带电显示装置",
+   "en": "high voltage presence indicating device",
+   "source": "电力名词",
+   "wordNumber": "19.328",
+   "subjectFullName": "电力_变电",
+   "subjectName": "变电",
+   "publishYear": "2020",
+   "definition": "能将高压带电体带电与否的信号传递到发光或音响元件上,显示或同时闭锁高压开关设备的装置。包括传感器和显示器两个部件。"
+  },
+  {
+   "cn": "有无对比分析法",
+   "en": "presence and absence comparative analysis method",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.158",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目咨询",
+   "subjectName": "项目咨询",
+   "publishYear": "2021",
+   "definition": "对有项目情况和无项目情况的综合影响对比分析。有项目情况减去同一时刻的无项目情况，就是由项目建设引起的综合影响。"
+  },
+  {
+   "cn": "存在度",
+   "en": "presence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "到场有效性",
+   "en": "presence availability",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "精明捕食者",
+   "en": "prudent predator",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "精明捕食假说",
+   "en": "prudent predation hypothesis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "因特网平台提供者",
+   "en": "Internet presence provider\",\"IPP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存在索引",
+   "en": "presence index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟在场",
+   "en": "virtual presence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "狂狷",
+   "en": "Proactive Versus Prudent",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

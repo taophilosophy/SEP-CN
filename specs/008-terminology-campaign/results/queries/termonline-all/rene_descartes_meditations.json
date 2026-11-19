@@ -1,0 +1,692 @@
+{
+ "key": "rene descartes meditations",
+ "term": "René Descartes Meditations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:49:37+00:00",
+ "status": "ok",
+ "note": "variant=René Descartes Meditations; 审定公布名词库=172; 海峡两岸名词对照库=22; 其他来源数据库=9; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "冥想",
+   "en": "meditation",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.007",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_认知行为治疗",
+   "subjectName": "认知行为治疗",
+   "publishYear": "2022",
+   "definition": "瑜伽实现入定的一项技法和途径。把心、意、灵完全专注于原始之初，最终目的在于把人引导至解脱的境界。瑜伽者通过冥想来制服心灵，并超脱物质欲念，感受到和原始动因直接沟通。"
+  },
+  {
+   "cn": "冥想",
+   "en": "meditation",
+   "source": "精神医学名词",
+   "wordNumber": "04.037",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "宗教修炼、民间疗病术中常见的心身调节方法。在经过一段时间他人指导后进行自我催眠，诱导出生理心理性的放松反应，包括意识改变状态。需要安静的环境，以意念、想象或呼吸等作为注意对象，态度被动、自然，采取舒服"
+  },
+  {
+   "cn": "冥想",
+   "en": "meditation",
+   "source": "心理学名词",
+   "wordNumber": "15.038",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "起于印度的一种宗教修炼形式。通过调整身体和注意而达到深度放松、宁静的意识状态。"
+  },
+  {
+   "cn": "气功",
+   "en": "qigong,meditation",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0201",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "超觉静坐",
+   "en": "transcendental meditation",
+   "source": "运动医学名词",
+   "wordNumber": "08.036",
+   "subjectFullName": "运动医学_中医药应用",
+   "subjectName": "中医药应用",
+   "publishYear": "2019",
+   "definition": "一种以静为主进行气功锻炼的改良瑜伽术。"
+  },
+  {
+   "cn": "集中性沉思",
+   "en": "concentrative meditation",
+   "source": "心理学名词",
+   "wordNumber": "02.673",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "通过长时间把注意力集中于单一事物，来训练自己形成一个总焦点或单一注意点的方法。"
+  },
+  {
+   "cn": "冥想术",
+   "en": "skill of meditation",
+   "source": "行为医学名词",
+   "wordNumber": "20.067",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "在幽静不受干扰的环境中集中注意力，以舒适的姿势让自己平静下来进入冥想状态的方法。"
+  },
+  {
+   "cn": "打坐",
+   "en": "sitting in meditation,dazuo",
+   "source": "老年医学名词",
+   "wordNumber": "08.007",
+   "subjectFullName": "老年医学_传统老年医学",
+   "subjectName": "传统老年医学",
+   "publishYear": "2017",
+   "definition": "气功术语。炼静功的一种基本姿势。《道藏·重阳立教十五论》：“第七论打坐，凡打坐者，非言形体端然、瞑目兮眼，此是假坐也。真坐者，须要时辰，住行坐卧一切动静，中间心如泰山，不动不摇，把断四门，眼耳口鼻，不"
+  },
+  {
+   "cn": "中介化",
+   "en": "mediation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.076",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "通过媒介将两个相区分的元素、成分、事物或个体进行连接的传播过程。与媒介化不同，中介化关注的是媒介参与传播，参与意义传递的过程。"
+  },
+  {
+   "cn": "调解",
+   "en": "mediation",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0539",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "将争端委托给调解员并提供证据，最终由双方或多方达成有约束力的协议的程序。"
+  },
+  {
+   "cn": "调解",
+   "en": "mediation",
+   "source": "心理学名词",
+   "wordNumber": "07.109",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "通过第三方促使纠纷双方达成一致的过程。"
+  },
+  {
+   "cn": "药历",
+   "en": "medication profile,medication record",
+   "source": "药学名词",
+   "wordNumber": "08.103",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "为保证用药安全有效，由药师建立的患者治疗或预防疾病进行药物治疗过程的记录。包括为影响患者预后结果的专业活动(方案制定，实施，疗效、不良反应观察，评价、调整，患者教育)等内容。有纸质和电子两种形式。"
+  },
+  {
+   "cn": "地租",
+   "en": "rent; ground rent; land rent",
+   "source": "农学名词",
+   "wordNumber": "19.232",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "土地所有者凭借土地所有权向土地使用者收取的转让使用费。"
+  },
+  {
+   "cn": "租金",
+   "en": "rent",
+   "source": "经济学名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "供给数量固定不变的一般资源的服务价格。即价格的提高不会增加其市场供给量，而价格的降低也不会减少其市场供给量。"
+  },
+  {
+   "cn": "用药错误",
+   "en": "medication error",
+   "source": "急救医学名词",
+   "wordNumber": "01.062",
+   "subjectFullName": "急救医学_急救概论_医疗急救_医患关系",
+   "subjectName": "医患关系",
+   "publishYear": "2025",
+   "definition": "在临床药品使用过程中出现的任何可以防范的用药不当。"
+  },
+  {
+   "cn": "麻醉前给药",
+   "en": "preanesthetic medication",
+   "source": "兽医学名词",
+   "wordNumber": "17.179",
+   "subjectFullName": "兽医学_兽医药理学",
+   "subjectName": "兽医药理学",
+   "publishYear": "2023",
+   "definition": "在应用全身麻醉药之前，用以纠正麻醉药的缺点或增强麻醉效果的一种或几种其他药物。如麻醉前用氯丙嗪可减少全麻药的用量。"
+  },
+  {
+   "cn": "促眠药物治疗",
+   "en": "hypnotic medication",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.15",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_药物治疗",
+   "subjectName": "药物治疗",
+   "publishYear": "2022",
+   "definition": "使用抑制大脑皮质、减轻中枢神经兴奋性的药物，对整个大脑皮质产生弥散性抑制作用以达到促眠效果的治疗方法。"
+  },
+  {
+   "cn": "自服药",
+   "en": "self medication",
+   "source": "结核病学名词",
+   "wordNumber": "04.110",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_治疗管理",
+   "subjectName": "治疗管理",
+   "publishYear": "2019",
+   "definition": "患者治疗管理方式之一。由结核病患者自己服药。这种方式缺乏有效治疗监督。"
+  },
+  {
+   "cn": "自我药疗",
+   "en": "self-medication",
+   "source": "药学名词",
+   "wordNumber": "08.137",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "大众自我选择和使用药品，处理自我判断的症状和疾病。"
+  },
+  {
+   "cn": "用药过度",
+   "en": "over-medication",
+   "source": "药学名词",
+   "wordNumber": "08.122",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "治疗方案中，所用药物的品种、剂量、疗程等严重超过常规或通常需要的情况。均属不合理用药。"
+  },
+  {
+   "cn": "冥想",
+   "en": "meditation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集中性沉思",
+   "en": "concentrative meditation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "中间句",
+   "en": "mediation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "调解",
+   "en": "mediation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "精神药物",
+   "en": "psychoactive medication",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "安全用药",
+   "en": "safe medication",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "用药不足",
+   "en": "under-medication",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "用药过度",
+   "en": "over-medication",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中介主体",
+   "en": "mediation agent",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "海事调解",
+   "en": "maritime mediation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "莱博维茲",
+   "en": "Leibowitz\",\"René(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "科洛",
+   "en": "Kollo\",\"René(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公平租金",
+   "en": "fair rent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应付租金",
+   "en": "rent payable",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应收租费",
+   "en": "rent receivable",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地租梯度",
+   "en": "rent gradient",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位地租",
+   "en": "location rent",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "勒内王的烟",
+   "en": "Cheminée du roi René\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Milhaud, Darius"
+  },
+  {
+   "cn": "竞租曲线",
+   "en": "bid-rent curve",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "服务远程化",
+   "en": "tele-mediation of services",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "调解",
+   "en": "mediation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧调解",
+   "en": "smart mediation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线调解平台",
+   "en": "online mediation platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以租代买",
+   "en": "rent-to-own",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网上调解仲裁",
+   "en": "online mediation and arbitration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "仁",
+   "en": "Ren (Benevolence)<br /><br />",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四抗二平衡：“四抗”，第一是抗病毒；第二是抗休克；第三是抗低氧血症；第四是抗继发感染。",
+   "en": "combined use of anti-viral, anti-shock, anti-hypoxemia medication, and measures to prevent secondary infections",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“二平衡”，即维持水电解质、酸碱平衡以及维持微生态平衡。",
+   "en": "combined use of anti-viral, anti-shock, anti-hypoxemia medication, and measures to prevent secondary infections",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冥想训练",
+   "en": "meditation",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.2.1.4",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原医学",
+   "subjectName": "高原医学",
+   "publishYear": "2025",
+   "definition": "通过对主题深刻连续思考与想象，以心性训练实现放松的手段。经常冥想静坐，能减轻生活压力、增强身体抗病能力、缓解精神紧张，还对呼吸道、头痛、胃痛、神经系统等相关疾病有良好改善作用。"
+  },
+  {
+   "cn": "用药指南",
+   "en": "medication guide",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.2.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "综合运用已有医药学知识和科学证据，指导医师和药师合理使用药物的规则或推荐。"
+  },
+  {
+   "cn": "自我医疗",
+   "en": "self-medication",
+   "source": "社会医学名词",
+   "wordNumber": "8.6.3",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务利用",
+   "publishYear": "2025",
+   "definition": "个人或家庭在没有医生指导下，使用药物或其他措施进行保健、预防、治疗和康复，以改善或管理健康状况的过程。"
+  },
+  {
+   "cn": "地租",
+   "en": "land rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0270",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地所有者凭借土地出租获得的收入，是土地所有权在经济上的实现。地租是劳动产品扣除生产投入维持劳动者生活必需后的余额，其实质是剩余劳动的产物和剩余价值的真正形态。"
+  },
+  {
+   "cn": "货币地租",
+   "en": "money rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0276",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "农民以货币形式缴纳的地租，是封建地租的一种形式。货币地租下，直接生产者的产品的一部分必须当作商品来出售，农民对市场的依赖增加。货币地租促进了自然经济的瓦解和商品经济的发展，是封建地租的最后形式和解体形"
+  },
+  {
+   "cn": "农业地租",
+   "en": "agricultural rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0277",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由农业生产获得的地租，相对于建筑地段的地租、矿山地租而区分。建筑地段地租的基础由农业地租规定，矿山地租的决定方法和农业地租一样。"
+  },
+  {
+   "cn": "谷物地租",
+   "en": "corn rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0278",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以谷物缴纳的地租。在《资本论》中谷物地租主要出现在对级差地租的分析中，谷物地租与货币地租相对应，二者有不同的变化率。"
+  },
+  {
+   "cn": "工役地租",
+   "en": "labor rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0300",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "农民因耕种地主的土地而被迫在规定的时间内，用自己的生产工具在地主直接经营的土地上为其进行无偿劳动的一种封建地租形式。是封建社会初期在生产力水平较低和以原始的劳动方式为基础的条件下出现的最简单的地租形式"
+  },
+  {
+   "cn": "寻租",
+   "en": "rent seeking",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府部门及其管理者以其拥有的特权向服务对象谋取非正当利益的行为。"
+  },
+  {
+   "cn": "信息租金",
+   "en": "information rent",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "在一项交易活动中，交易一方凭借其信息优势而获得的、高于市场平均收益的超额回报金额。"
+  },
+  {
+   "cn": "孕期用药",
+   "en": "medication during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "孕期使用药物的医疗行为。孕期使用药物可能对母体、胎儿和新生儿造成影响，必须有指征，并在医师的指导下合理用药。"
+  },
+  {
+   "cn": "披甲人",
+   "en": "Pijia ren",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0012",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "清朝八旗旗丁之一类，降人出身，民族不一，多戍守边疆。"
+  },
+  {
+   "cn": "廉租房制度",
+   "en": "low-rent housing",
+   "source": "社会学名词",
+   "wordNumber": "4.3.8.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_住房保障服务",
+   "subjectName": "住房保障服务",
+   "publishYear": "2025",
+   "definition": "为保障城镇居民住有所居的基本社会权利，政府通过租赁补贴、实物配租和租金减免等方式，通过市场为住房有困难的低收入家庭提供的住房救助的一种住房保障制度。"
+  },
+  {
+   "cn": "绝对地租",
+   "en": "absolute ground rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0272",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由土地所有权的垄断产生、租种任何土地都必须缴纳的地租形式。农业资本有机构成低于工业，农产品价值高于生产价格。土地所有权的垄断限制了资本的自由投入，使农产品价值高于生产价格的部分不参加利润的平均化，超过"
+  },
+  {
+   "cn": "级差地租",
+   "en": "differential land rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0273",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由于耕种的土地优劣等级不同而形成的地租，经营较优土地获得的由土地所有者占有的超额利润。级差地租是投在不同等级土地上的等量资本所具有的不同生产率的结果。由于优、中土地数量有限带来土地经营的垄断，而农产品"
+  },
+  {
+   "cn": "垄断地租",
+   "en": "monopolistic land rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0274",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "从具有独特自然条件的土地上所获得的超额利润转化而来的地租，超过绝对地租和级差地租的地租。它可以来源于租佃农场中对工资的扣除或者同这种具有垄断价格的商品进行交换的其他商品的剩余价值的一部分。"
+  },
+  {
+   "cn": "实物地租",
+   "en": "rent in kind",
+   "source": "马克思主义",
+   "wordNumber": "02.0275",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "农民以实物形式缴纳的地租，是封建地租的一种形式。这种形态下，农民不再在地主土地上直接提供剩余劳动，而是直接以剩余产品形式作地租。"
+  },
+  {
+   "cn": "信息寻租",
+   "en": "information rent-seeking",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息拥有者凭借自己所掌握的信息以谋取和维护个人或团体利益最大化的行为或过程。"
+  },
+  {
+   "cn": "孕期用药指导",
+   "en": "recommendation for medication during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.5.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "从疾病控制效果以及对孕产妇、胎儿和新生儿健康影响等方面权衡利弊，提供合理用药保障母婴安全的咨询服务。"
+  },
+  {
+   "cn": "减租减息",
+   "en": "reduction of rent and interest",
+   "source": "马克思主义",
+   "wordNumber": "02.0337",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在抗日战争时期实行的经济政策。当时为团结各阶层人民一致抗日，减轻农民的地租负担和所受高利贷的剥削，由土地革命时期的没收地主土地、实行耕者有其田的政策，改为减租减息政策。地租，一般以实行二五减"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,792 @@
+{
+ "key": "evaluative decision",
+ "term": "evaluative decision",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:13:55+00:00",
+ "status": "ok",
+ "note": "variant=evaluative decision; 审定公布名词库=1752; 海峡两岸名词对照库=334; 其他来源数据库=107; 预公布名词数据库=166; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "评价",
+   "en": "evaluation ",
+   "source": "草学名词",
+   "wordNumber": "4.0659",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "评审",
+   "en": "evaluation",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0709",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "为确定主题事项达到规定目标的适宜性、充分性和有效性所进行的活动。"
+  },
+  {
+   "cn": "评估",
+   "en": "evaluation",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0135",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_管理阶段与模式",
+   "subjectName": "管理阶段与模式",
+   "publishYear": "2016",
+   "definition": "在设施使用的各个阶段，对管理工作进行的评价。"
+  },
+  {
+   "cn": "评价",
+   "en": "evaluation",
+   "source": "语言学名词",
+   "wordNumber": "12.082",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "对语言变异影响语言结构、语言交际功效的价值估量。"
+  },
+  {
+   "cn": "综合评价决策支持系统",
+   "en": "comprehensive evaluation decision support system",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0491",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "以决策支持系统的理论方法为基础，综合运用系统工程、管理科学、信息科学、计算机技术、数据库技术、人工智能、专家系统、决策科学、模糊集理论、评价方法等先进技术，建立的功能强大、实用性能良好的支持综合评价的"
+  },
+  {
+   "cn": "型式评价",
+   "en": "pattern evaluation,type evaluation",
+   "source": "计量学名词",
+   "wordNumber": "01.166",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "根据文件要求对测量仪器指定型式的一个或多个样品的性能所进行的系统检查和试验，并将其结果写入报告中，以确定是否可对该型式予以批准。"
+  },
+  {
+   "cn": "油藏评价",
+   "en": "reservoir evaluation,pool evaluation",
+   "source": "石油名词",
+   "wordNumber": "02.0743",
+   "subjectFullName": "石油_油气地质勘探_油气聚集",
+   "subjectName": "油气聚集",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "CIRO培训评估方法",
+   "en": "context evaluation,input evaluation,reaction evaluation and output evaluation method",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0565",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "按照背景评估(context evaluation)、输入评估(input evaluation)、反应评估(reaction evaluation)、输出评估(output evaluation)四"
+  },
+  {
+   "cn": "评价性阅读",
+   "en": "evaluative reading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.07.033",
+   "subjectFullName": "编辑与出版学_编辑_阅读与评论",
+   "subjectName": "阅读与评论",
+   "publishYear": "2022",
+   "definition": "以评价为目标的阅读。"
+  },
+  {
+   "cn": "评论性文摘",
+   "en": "evaluative abstract",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.857",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_文摘",
+   "subjectName": "文摘",
+   "publishYear": "2019",
+   "definition": "将文摘员个人对所摘文献内容的观点或分析加入其中的文摘类型。现较少采用。"
+  },
+  {
+   "cn": "评估",
+   "en": "evaluation,stratification",
+   "source": "核医学名词",
+   "wordNumber": "04.0289",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤诊疗相关技术",
+   "subjectName": "肿瘤诊疗相关技术",
+   "publishYear": "2018",
+   "definition": "按一定指标对某一方案、过程或结果进行评价和认证的方法和过程。"
+  },
+  {
+   "cn": "评价",
+   "en": "evaluation,assessment",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0430",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "根据确定的目的来测定对象系统的属性，并将这种属性变为客观定量的计值或者主观效用的行为。"
+  },
+  {
+   "cn": "评估",
+   "en": "evaluation,assessment",
+   "source": "化学工程名词",
+   "wordNumber": "01.063",
+   "subjectFullName": "化学工程_化学工程通类",
+   "subjectName": "化学工程通类",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "术前评估",
+   "en": "preoperative evaluation",
+   "source": "普通外科学名词",
+   "wordNumber": "13.015",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "在手术前对患者进行机体功能、心理状态、营养状况等多维度客观评价的加速康复的外科策略。以判定患者对麻醉和手术的耐受力及存在的风险，并对患者的术前准备提出建议，旨在降低围手术期并发症和死亡风险。"
+  },
+  {
+   "cn": "语音评定",
+   "en": "speech evaluation",
+   "source": "整形外科名词",
+   "wordNumber": "13.1",
+   "subjectFullName": "整形外科_唇腭裂修复_腭裂",
+   "subjectName": "腭裂",
+   "publishYear": "2026",
+   "definition": "对语言发音功能的基本评价。可侧面反映腭咽闭合功能。通常由具有一定资历的语言学家进行评价，包括标准化发音测试和判断是否存在腭咽闭合不全导致的异常语音，如过度鼻音或鼻漏气等。"
+  },
+  {
+   "cn": "滑坡评价",
+   "en": "landslide evaluation",
+   "source": "地质学名词",
+   "wordNumber": "17.04.125",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "对可能发生滑坡的斜(边)坡和可能复活的已有滑坡体的稳定性和发展趋势等进行的分析评价。"
+  },
+  {
+   "cn": "质量评估",
+   "en": "quality evaluation",
+   "source": "风景园林名词",
+   "wordNumber": "03.0223",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "对一个工程的质量进行评价的过程，评估内容包括工程的具体情况、主要设计变更、主要质量控制措施、质量评估的主要依据、工程质量评估以及存在的主要问题等。"
+  },
+  {
+   "cn": "农业气候评价",
+   "en": "agroclimatic evaluation",
+   "source": "农学名词",
+   "wordNumber": "13.146",
+   "subjectFullName": "农业气象_农业气候",
+   "subjectName": "农业气候",
+   "publishYear": "2025",
+   "definition": "根据农业气候指标，评价气候条件影响农业生产的利弊程度。"
+  },
+  {
+   "cn": "安全性评价",
+   "en": "safety evaluation",
+   "source": "精细化工名词",
+   "wordNumber": "03.0221",
+   "subjectFullName": "精细化工_农药_毒性与毒理",
+   "subjectName": "毒性与毒理",
+   "publishYear": "2025",
+   "definition": "综合运用安全系统工程学的理论方法，对系统存在的危险性进行定性分析和定量分析，确认系统发生危险的可能性及严重程度，提出必要的控制措施，以寻求最低的事故率、最小的事故损失和最优的安全效益。"
+  },
+  {
+   "cn": "项目评估",
+   "en": "project evaluation",
+   "source": "风景园林名词",
+   "wordNumber": "03.0155",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "在直接投资活动中，在对投资项目进行可行性研究的基础上，从企业整体的角度对拟投资建设项目的计划、设计、实施方案进行全面的技术经济论证和评价，从而确定投资项目未来发展前景的过程。是决策者作出正确、合适决策"
+  },
+  {
+   "cn": "评估",
+   "en": "evaluation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "求值程序",
+   "en": "evaluator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "遗传评估",
+   "en": "genetic evaluation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "农业气候评价",
+   "en": "agroclimatic evaluation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候评估",
+   "en": "climatic evaluation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "危险性评估",
+   "en": "hazard evaluation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "过程评价",
+   "en": "process evaluation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "技术评估",
+   "en": "technical evaluation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "更换评估",
+   "en": "replacement evaluation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经济评价",
+   "en": "economic evaluation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "岗位评价",
+   "en": "job evaluation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "安全评价",
+   "en": "safety evaluation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "景观评估",
+   "en": "landscape evaluation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "土地评价",
+   "en": "land evaluation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "遗传评估",
+   "en": "genetic evaluation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图评价",
+   "en": "cartographic evaluation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性评价",
+   "en": "reliability evaluation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "评测规则",
+   "en": "evaluation rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "评价函数",
+   "en": "evaluation function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "软件评测",
+   "en": "software evaluation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "评分",
+   "en": "evaluate\",\"evaluation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "评分",
+   "en": "evaluate\",\"judge\",\"evaluation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等级测评",
+   "en": "classification evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "评分表",
+   "en": "evaluation table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判决",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机性能评估",
+   "en": "computer performance evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化过程评估",
+   "en": "standardization process evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "RPO评价标准",
+   "en": "RPO evaluation criteria",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "决策论",
+   "en": "decision theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "判定！",
+   "en": "Decision! Hantei!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多数裁判员判定",
+   "en": "majority decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判灯",
+   "en": "decision light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决定性打击",
+   "en": "decisive blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜剑",
+   "en": "decisive hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据质量评价",
+   "en": "scientific data quality evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "银行绿色评价机制",
+   "en": "green bank evaluation mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "评估",
+   "en": "evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "运用科学的研究方法和技术，系统地评价社会工作的介入结果。通过总结整个介入过程，以考察社会工作是否有效，是否达到了预期目的、目标。"
+  },
+  {
+   "cn": "可靠性评价",
+   "en": "reliability evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.33",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价检测报告或发表论文的内在质量的方法。仅与试验过程以及所产生的结果有关。"
+  },
+  {
+   "cn": "道德评价",
+   "en": "moral evaluation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.028",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "依据一定的道德标准对人们的道德行为和各种道德现象所作的善恶是非判断。包括自我评价和他人评价。其评价依据是动机与效果、目的与手段的辩证统一。"
+  },
+  {
+   "cn": "心理评价",
+   "en": "psychological evaluation",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.3.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用心理指标评价环境热舒适程度的过程。"
+  },
+  {
+   "cn": "现状评价",
+   "en": "status evaluation",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.6",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "对用人单位工作场所职业病危害因素及其接触水平、职业病防护设施及其他职业病防护措施与效果、职业病危害因素对劳动者的健康影响情况等进行的综合评价。"
+  },
+  {
+   "cn": "评估研究",
+   "en": "evaluation research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "为确定一项计划、一种产品、一个组织、一种干预或变革努力的效果而进行的系统的、以数据为基础的研究。"
+  },
+  {
+   "cn": "过程评估",
+   "en": "process evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "监测整个介入过程，对工作过程的每一步骤、每一个阶段分别作出评估。其关心的重点是工作中的各种步骤和程序怎样促成了最终的介入结果，方法是通过了解和描述介入活动的内容来回答服务过程中发生了什么，以及为什么发"
+  },
+  {
+   "cn": "结果评估",
+   "en": "outcome evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "在社会工作服务过程的最终阶段进行的评估，以考察服务的实际结果达成的情况，其主要检视计划介入目标实际实现的程度及其影响因素。"
+  },
+  {
+   "cn": "评估的方式方法",
+   "en": "evaluation method",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.21",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "对社会工作服务进行评估所采用的主要方式和具体方法。一般来说，个案工作者有以下几种可能的评估方式：1.与案主一起对服务的效果和效率进行评估；2.与同事一起对服务提供联合评估；3.利用原定计划表进行评估。"
+  },
+  {
+   "cn": "诊断性评估",
+   "en": "diagnostic evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.11.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实习",
+   "subjectName": "社会工作实习",
+   "publishYear": "2025",
+   "definition": "了解学生实习的起点、特点及实习上的困难，以便有针对性地进行实习教学，通常在实习开始前与有实习困难时进行的活动。"
+  },
+  {
+   "cn": "总结性评估",
+   "en": "summative evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.11.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实习",
+   "subjectName": "社会工作实习",
+   "publishYear": "2025",
+   "definition": "按照一定的价值及技术标准对一个行动方案或具体行动的结果所做出判断。在社会工作中即是对实习效果的评估。"
+  },
+  {
+   "cn": "自我评价",
+   "en": "self-evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对自己的想法、期望、行为及人格特征的判断与评估。"
+  },
+  {
+   "cn": "事件事后评估",
+   "en": "post evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.8.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "在突发公共卫生事件结束后，卫生行政部门按照一定的标准和程序,对学校突发公共卫生事件现场调查处理、患者救治、所采取的措施效果进行综合评估的活动。"
+  },
+  {
+   "cn": "形成评价",
+   "en": "formative evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "在项目实施前对项目方案进行可行性评判的过程。包括对项目执行学校的组织能力，人力和物力资源、信息管理水平等进行评估，及时发现问题，解决问题，保证干预方案能顺利实施。"
+  },
+  {
+   "cn": "过程评价",
+   "en": "process evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "在项目实施中对其进展、问题和风险进行监控和评估的过程。目的是找出偏差，发现问题，及时改进和调整。"
+  },
+  {
+   "cn": "效果评价",
+   "en": "effectiveness evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "在实施系列健康教育计划后，对学校在创建健康促进学校的近、中、远期工作目标达成程度方面进行测评的过程。"
+  },
+  {
+   "cn": "影响评价",
+   "en": "impact evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "通过成本效益分析的方法，从社会效益和经济效益方面分析项目对社会疾病负担产生的影响。"
+  },
+  {
+   "cn": "质量评价",
+   "en": "quality evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测质量评价”。又称“妇幼健康监测质量评价”。应用数据质量指标对妇幼健康数据资料的真实性、完整性、准确性等进行评审和鉴定的过程。"
+  },
+  {
+   "cn": "监测评价",
+   "en": "surveillance evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测评价”。又称“妇幼健康监测评价”。根据监测信息，系统、有效的评估监测目标进展、干预措施效果等，并不断优化监测系统，以确保完成监测目标的过程。"
+  },
+  {
+   "cn": "内部评价",
+   "en": "internal evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.4.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "由系统或组织内部实施的评估活动，以获得可信和实用的证据，为计划改进、政策实施和决策提供支撑，并影响组织的学习和决策行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

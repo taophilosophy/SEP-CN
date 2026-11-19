@@ -1,0 +1,612 @@
+{
+ "key": "personalists",
+ "term": "Personalists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:52:21+00:00",
+ "status": "ok",
+ "note": "variant=Personalists; 审定公布名词库=149; 海峡两岸名词对照库=68; 其他来源数据库=13; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.198",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体内在的心理生理系统的动力组织和由此决定的独特的思维、情感和行为模式。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "行为医学名词",
+   "wordNumber": "4.104",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体内在生理心理系统的动力组织和由此决定的独特的思维、情感和行为模式。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "精神医学名词",
+   "wordNumber": "03.294",
+   "subjectFullName": "精神医学_诊断分类_人格与性心理障碍",
+   "subjectName": "人格与性心理障碍",
+   "publishYear": "2019",
+   "definition": "一个人独特生活风格和适应模式的、根深蒂固的思维、认知、情感和行为模式。是体质因素、发育和社会经验的结果。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.027",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "一个人所具有的总的性格特点，各种精神状态和特征的总和。"
+  },
+  {
+   "cn": "个性",
+   "en": "personality",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0056",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "一组在不同环境中显现并影响个体的外显和内隐行为模式与相对稳定心理特征的总和。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.005",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "个体固有的、稳定的、特有的各种心理内容的综合体。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "心理学名词",
+   "wordNumber": "08.008",
+   "subjectFullName": "心理学_人格心理学",
+   "subjectName": "人格心理学",
+   "publishYear": "2014",
+   "definition": "个体内在的心理生理系统的动力组织和由此决定的独特的思维、情感和行为模式。"
+  },
+  {
+   "cn": "人格类型",
+   "en": "personality style;personality type",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.2",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "综合人格不同层面的表现对人格进行的分类。依据不同的人格理论所做的人格类型区分也是不同的，且由于人格表现的复杂性，不同层面特征的描述和区分界限并非截然而绝对，人格类型的划分更重要的意义是有助于理解人格的"
+  },
+  {
+   "cn": "人格改变",
+   "en": "personality change",
+   "source": "急救医学名词",
+   "wordNumber": "03.945",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "在脑部疾病或损伤、严重的精神障碍、严重的或持久的应激、极度的环境剥夺之后发生的人格特征的改变。呈渐进性发展，开始只是原有性格缺陷的日益显著。随着记忆、智力障碍的加重，人格改变更为突出，使患者变得与病前"
+  },
+  {
+   "cn": "人格障碍",
+   "en": "personality disorder",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.066",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "内心体验和行为模式明显偏离所处的社会文化环境，社会功能受损，但往往不能自我认识的异常人格模式。"
+  },
+  {
+   "cn": "坚韧人格",
+   "en": "hardy personality",
+   "source": "行为医学名词",
+   "wordNumber": "4.126",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "一种抗压力刺激的品性和人格。表现为吃苦耐劳、勇敢果断，性格愉快，很少烦恼。"
+  },
+  {
+   "cn": "权威人格",
+   "en": "authoritarian personality",
+   "source": "行为医学名词",
+   "wordNumber": "4.127",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "一种人格类型。表现为对上级过度防御、对下级严格要求，执着于坚持自己的价值观。"
+  },
+  {
+   "cn": "自虐型人格",
+   "en": "masochistic personality",
+   "source": "行为医学名词",
+   "wordNumber": "13.018",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自伤行为",
+   "subjectName": "自伤行为",
+   "publishYear": "2022",
+   "definition": "以通过持久恒定地伤害自己引起他人的关注和爱，并且享受这一过程，从中获得乐趣和满足为特征的心理倾向。"
+  },
+  {
+   "cn": "双重人格",
+   "en": "double personality",
+   "source": "行为医学名词",
+   "wordNumber": "16.13",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "在不同的时间体验到两种完全不同的心理活动，有着两种截然不同精神生活的一种精神病理状态。是自我单一性的障碍。"
+  },
+  {
+   "cn": "多重人格",
+   "en": "multiple personality",
+   "source": "行为医学名词",
+   "wordNumber": "16.131",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "在一个人身上明确地存在两个或多个彼此不同或独立人格的精神病理状态。在某一时间这些人格中只有一个显现出来。"
+  },
+  {
+   "cn": "癫痫[性]人格",
+   "en": "epileptoid personality",
+   "source": "行为医学名词",
+   "wordNumber": "17.096",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_癫痫",
+   "subjectName": "癫痫",
+   "publishYear": "2022",
+   "definition": "癫痫患者经过长期、反复的癫痫发作以后，引起的进行性人格改变。表现为思维黏滞、言语啰唆、行为刻板、难以适应新环境等。"
+  },
+  {
+   "cn": "人格测验",
+   "en": "personality test",
+   "source": "行为医学名词",
+   "wordNumber": "19.056",
+   "subjectFullName": "行为医学_行为心理评估_心理评估_人格测验",
+   "subjectName": "人格测验",
+   "publishYear": "2022",
+   "definition": "采用心理学方法测量个体在一定情境下经常表现出来的典型行为与反应方式，预测个体将来可能的行为反应的测验。是心理测验中的一大门类。"
+  },
+  {
+   "cn": "不成熟人格",
+   "en": "immature personality",
+   "source": "精神医学名词",
+   "wordNumber": "03.296",
+   "subjectFullName": "精神医学_诊断分类_人格与性心理障碍",
+   "subjectName": "人格与性心理障碍",
+   "publishYear": "2019",
+   "definition": "行为和情绪反应提示心理生物学发育不足、延迟或失败的一种人格类型。"
+  },
+  {
+   "cn": "古怪人格",
+   "en": "eccentric personality",
+   "source": "精神医学名词",
+   "wordNumber": "03.295",
+   "subjectFullName": "精神医学_诊断分类_人格与性心理障碍",
+   "subjectName": "人格与性心理障碍",
+   "publishYear": "2019",
+   "definition": "以信念或习惯上过分自负为特征的一种人格类型。其信念或习惯按性质是过分的，有时是幻想性的，并以狂热的坚信予以固守。"
+  },
+  {
+   "cn": "神经症人格",
+   "en": "neurotic personality",
+   "source": "精神医学名词",
+   "wordNumber": "03.297",
+   "subjectFullName": "精神医学_诊断分类_人格与性心理障碍",
+   "subjectName": "人格与性心理障碍",
+   "publishYear": "2019",
+   "definition": "(1)具有易发展为神经症性障碍特征的一种人格类型。(2)各种人格特征的混合。其中没有一种类型占临床主导地位。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格结构，人格架构",
+   "en": "personality structure\",\"personality architecture",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格理论",
+   "en": "personality theory\",\"theory of personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "犯罪性人格",
+   "en": "criminal personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肛门性人格",
+   "en": "anal personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避型人格",
+   "en": "avoidant personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双重人格",
+   "en": "dual personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "品牌人格",
+   "en": "brand personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格研究",
+   "en": "personality research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不成熟人格",
+   "en": "immature personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "攻击性人格",
+   "en": "aggressive personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "权威人格",
+   "en": "authoritarian personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格改变",
+   "en": "personality change",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格问卷",
+   "en": "Personality Questionnaire",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成瘾人格",
+   "en": "addictive personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格发展",
+   "en": "personality development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格调查",
+   "en": "personality survey",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格维度",
+   "en": "personality dimension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格心理学",
+   "en": "personality psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格类型",
+   "en": "personality type",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人特点",
+   "en": "personality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟人格",
+   "en": "virtual personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格数据化",
+   "en": "personality datamation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律人格",
+   "en": "legal personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格权",
+   "en": "personality right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化人格",
+   "en": "digital personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子人格",
+   "en": "e-personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有限法律人格",
+   "en": "finite legal personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据人格权",
+   "en": "data personality right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格主义伦理学",
+   "en": "personalist ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.138",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为人格是第一性的实在，是一种精神性的道德品格，是支配、控制或调整自我的“欲望”“意志”和“感情”的精神或道德主体的伦理学理论。"
+  },
+  {
+   "cn": "个性",
+   "en": "personality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "一组在不同环境中显现并影响个体的外显和内隐行为模式与相对稳定心理特征的总和。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0069999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "个体内在生理心理系统的动力组织和由此决定的独特的思维、情感和行为模式。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.10",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "个体稳定表现的心理特质，由遗传与环境因素共同决定。"
+  },
+  {
+   "cn": "身份人格",
+   "en": "status personality",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "与个体所在的特定身份群体相联系的人格型态。不同的人既共享该社会或文化所塑造的“基本人格”，也因为各自所属的身份群体的价值差异，而呈现出行为模式上的差异。美国人类学家拉尔夫·林顿（Ralph Linto"
+  },
+  {
+   "cn": "权威人格",
+   "en": "authoritarian personality",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.1",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "一种人格类型，包含如下特征：在性格上极为保守，思想封闭，观念狭窄；崇尚权威，重视权力和地位，对上低声下气，卑躬屈膝；对下作威作福，盛气凌人；对同僚刚愎自用，绝不容忍通融。"
+  },
+  {
+   "cn": "个性发展",
+   "en": "personality development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体的人格特征和经验积累随年龄增长的发展变化过程。"
+  },
+  {
+   "cn": "基本人格",
+   "en": "basic personality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0556",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家卡迪纳（Abram Kandiner）提出的概念。他认为，养育儿童的方式在任何一特定社会中，都是相当固定而且标准化的。虽然在某方面有个别差异，但就整体而言，母亲喂奶的时间大致和邻居一样长，"
+  },
+  {
+   "cn": "个人崇拜",
+   "en": "cult of personality",
+   "source": "马克思主义",
+   "wordNumber": "04.0012",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "夸大领袖个人的作用，不适当地推崇领袖人物，并使其神化和当作偶像来崇拜的一种社会现象。这是唯心主义历史观在人民群众和个人关系上的一种表现。个人崇拜颠倒了个人和人民群众的关系，使领袖处于组织之上，不是要求"
+  },
+  {
+   "cn": "儿童人格测验",
+   "en": "child personality test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "测定儿童在社会实践活动中所形成的对人、对事、对自己的态度、需要、动机、兴趣，情绪和行为发生的速度、强度、灵活性和持久性，以及与之相应的习惯化行为方式的测验。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "schrodinger's cat",
+ "term": "Schrödinger’s Cat",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:45:00+00:00",
+ "status": "ok",
+ "note": "variant=Schrödinger’s Cat; 审定公布名词库=1403; 海峡两岸名词对照库=348; 其他来源数据库=115; 预公布名词数据库=65; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "CAT框",
+   "en": "CAT box",
+   "source": "遗传学名词",
+   "wordNumber": "03.524",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "真核结构基因上游的顺式作用元件，其共有序列为CAAT。"
+  },
+  {
+   "cn": "猫",
+   "en": "cat",
+   "source": "兽医学名词",
+   "wordNumber": "09.228",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "食肉目猫科猫属( Felis )动物。善捕捉，视力好。舌上有倒钩状丝状突，便于舔食。实验多用短毛猫，主要用于生理学、药理学及某些疾病研究中，适合于做急性试验。"
+  },
+  {
+   "cn": "过氧化氢酶",
+   "en": "catalase,CAT",
+   "source": "植物学名词",
+   "wordNumber": "11.0313",
+   "subjectFullName": "植物学_植物生理学_植物呼吸作用",
+   "subjectName": "植物呼吸作用",
+   "publishYear": "2019",
+   "definition": "催化过氧化氢分解成氧气和水的酶。主要存在于细胞的过氧化物酶体内，清除体内的过氧化氢(<img src='/root/syzx/static/spz/zhiwu2.11.0714.4.png'/>)，从"
+  },
+  {
+   "cn": "过氧化氢酶",
+   "en": "catalase,CAT",
+   "source": "生物物理学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "生物物理学_自由基生物学_氧化应激与抗氧化酶系",
+   "subjectName": "氧化应激与抗氧化酶系",
+   "publishYear": "2018",
+   "definition": "可催化过氧化氢分解成分子氧和水的酶。是需氧生物中常见的抗氧化酶，其催化效率极高，每个酶分子每秒可催化数以百万的过氧化氢分子转化为氧和水分子。存在于细胞的过氧化物体内。"
+  },
+  {
+   "cn": "过氧化氢酶",
+   "en": "catalase; CAT",
+   "source": "农学名词",
+   "wordNumber": "07.219",
+   "subjectFullName": "作物生理生态_逆境生理与生态",
+   "subjectName": "逆境生理与生态",
+   "publishYear": "2025",
+   "definition": "以铁卟啉为辅基，催化过氧化氢分解成氧和水的一类氧化还原酶。与植物的抗逆性密切相关。"
+  },
+  {
+   "cn": "“猫论”",
+   "en": "“Cat Theory”",
+   "source": "经济学名词",
+   "wordNumber": "15.002",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "中国经济体制改革思维的集中体现，它来自“不管白猫黑（黄）猫，抓住老鼠就是好猫”的谚语。该理论的核心内容是邓小平关于判断改革开放得失成败的“三个有利于”标准，即“是否有利于发展社会主义社会的生产力，是否"
+  },
+  {
+   "cn": "鲇鱼",
+   "en": "cat fish",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1056",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2020",
+   "definition": "学名Silurus asotus，体表多黏液，没有鱼鳞，头扁口阔，上下颌各有2根胡须。味道鲜美浓郁，刺少，开胃，易消化，特别适合老人和儿童食用。"
+  },
+  {
+   "cn": "触须",
+   "en": "cat whisker",
+   "source": "物理学名词",
+   "wordNumber": "08.1790",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "塔顶",
+   "en": "cat head",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "01.0571",
+   "subjectFullName": "机械工程_物料搬运机械_起重机械_塔式起重机",
+   "subjectName": "塔式起重机",
+   "publishYear": "2013",
+   "definition": "位于塔身的顶部，主要用以支承臂架及平衡臂的拉索等的结构件。"
+  },
+  {
+   "cn": "吊锚索具",
+   "en": "cat tackle",
+   "source": "船舶工程名词",
+   "wordNumber": "05.242",
+   "subjectFullName": "船舶工程_船舶舾装",
+   "subjectName": "船舶舾装",
+   "publishYear": "1998",
+   "definition": "用于吊放锚的滑车和绳索等的统称。"
+  },
+  {
+   "cn": "猫眼",
+   "en": "cat eyes",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.477",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "薛定谔的猫",
+   "en": "Schroedinger’s cat",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.375",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "在一个封闭的容器中关了一只猫，容器里面用盖革计数器一端连着一个盛有剧毒氰化物的封闭玻璃瓶，另一端连着盛有美味食物的瓶子。盖革计数器中有一小块辐射物质，假定一小时内只有一个原子衰变。当有一个原子衰变，就"
+  },
+  {
+   "cn": "氯霉素乙酰转移酶",
+   "en": "chloramphenicol acetyltransferase,CAT",
+   "source": "遗传学名词",
+   "wordNumber": "03.687",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "通过乙酰化作用使氯霉素失活的酶。现已广泛用作报道基因。"
+  },
+  {
+   "cn": "肉碱乙酰转移酶",
+   "en": "carnitine acetyltransferase;CAT",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0244",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_转移酶",
+   "subjectName": "转移酶",
+   "publishYear": "2024",
+   "definition": "存在于线粒体内膜上参与乙酰辅酶A转运进入线粒体的酶。编号：EC 2.3.1.7。"
+  },
+  {
+   "cn": "氯霉素乙酰转移酶",
+   "en": "chloramphenicol acetyltransferase;CAT",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0254",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_转移酶",
+   "subjectName": "转移酶",
+   "publishYear": "2024",
+   "definition": "催化氯霉素乙酰化生成氯霉素-3-乙酸酯的酶。因氯霉素-3-乙酸酯不能与细菌核糖体结合，且不是肽酰转移酶的抑制剂，因此氯霉素乙酰基转移酶与细菌中自然产生的氯霉素耐药性直接相关。抗氯霉素的革兰氏阳性及阴性"
+  },
+  {
+   "cn": "氯霉素乙酰转移酶",
+   "en": "chloramphenicol acetyltransferase;CAT",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.005",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "通过乙酰化作用使氯霉素失活的酶。现已广泛用作报告基因。"
+  },
+  {
+   "cn": "洛凯特工艺",
+   "en": "LO-CAT process",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.191",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "由美国GTP公司开发的一种在液相系统中进行的硫磺回收工艺。在常温、低压条件下操作，依靠螯合铁溶液将硫化氢转化成单质硫，硫回收率能够达到99.9%以上，被广泛应用于多种工业酸性气体的硫化氢脱除。"
+  },
+  {
+   "cn": "猫抓病",
+   "en": "cat-scratch disease",
+   "source": "病理学名词",
+   "wordNumber": "01.292",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "由汉赛巴通体引起的淋巴增殖性病变。患者发病前通常有被猫抓伤或与猫密切接触史，也可经犬、鼠、猴等传播给人。镜下淋巴滤泡反应性增生，窦内外组织细胞增生，边缘窦内单核细胞样B细胞增生等，可见一些转化的大淋巴"
+  },
+  {
+   "cn": "猫抓病",
+   "en": "cat-scratch disease",
+   "source": "感染病学名词",
+   "wordNumber": "03.0680",
+   "subjectFullName": "感染病学_病原体感染_立克次体和埃立克体感染",
+   "subjectName": "立克次体和埃立克体感染",
+   "publishYear": "2019",
+   "definition": "由汉赛巴尔通体感染所致的疾病。患者早期淋巴结增大、网状细胞肥大，晚期成纤维细胞形成瘢痕的症状。多数患者发病前有被猫咬、猫抓或猫舔的接触史。"
+  },
+  {
+   "cn": "猫抓病",
+   "en": "cat-scratch disease",
+   "source": "医学名词 第七分册",
+   "wordNumber": "03.0194",
+   "subjectFullName": "医学_皮肤病学",
+   "subjectName": "皮肤病学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "吊锚",
+   "en": "cat",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "吊锚索具",
+   "en": "cat-chain\",\"cat tackle",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "过氧化氢酶",
+   "en": "catalase\",\"CAT",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "氯霉素乙酰转移酶[活性]测定",
+   "en": "CAT assay",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "步桥",
+   "en": "cat walk",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "吊锚滑车",
+   "en": "cat block",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "氯霉素乙酰转移酶",
+   "en": "chloramphenicol acetyltransferase\",\"CAT",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "英国猫",
+   "en": "English Cat\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Henze, Hans Werner"
+  },
+  {
+   "cn": "氯霉素乙酰转移酶",
+   "en": "chloramphenicol acetyltransferase\",\"CAT",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "氯霉素乙酰转移酶",
+   "en": "chloramphenicol acetyltransferase\",\"CAT",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "猫爪结",
+   "en": "cats paw",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "吊锚杆",
+   "en": "anchor davit\",\"anchor crane\",\"cat davit\",\"cat head",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "晴空湍流",
+   "en": "clear air turbulence\",\"CAT",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "计算机化适应性测验",
+   "en": "computerized adaptive test\",\"CAT",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "加州成就测验",
+   "en": "California Achievement Test\",\"CAT",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "吊锚杆",
+   "en": "cat davit\",\"anchor davit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "天桥",
+   "en": "connecting bridge\",\"cat walk",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "计算机辅助测试",
+   "en": "computer-aided testing，CAT",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金绿宝石猫眼",
+   "en": "chrysoberyl cat's eye",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "儿童统觉测验",
+   "en": "Children’s Apperception Test\",\"CAT",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "猫步",
+   "en": "cat walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单桅帆船",
+   "en": "cat boat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "薛定谔的猫",
+   "en": "Schrodinger’s cat",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "球帽",
+   "en": "ball cap\",\"cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蝙蝠",
+   "en": "bat ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水球帽",
+   "en": "cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帽子",
+   "en": "cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帽子",
+   "en": "cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球棒",
+   "en": "bat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "皮毛",
+   "en": "coat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球童",
+   "en": "bat boy\",\"bat girl",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "施瓦贝恩屈伸",
+   "en": "cast\",\"Schwabenkippe",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球",
+   "en": "bat\",\"hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "火帽",
+   "en": "percussion cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白色球帽",
+   "en": "white cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "猫论",
+   "en": "Cat Theory",
+   "source": "马克思主义",
+   "wordNumber": "04.0136",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平所赞同和主张的如下观点：不管白猫黑猫,抓到老鼠就是好猫。“猫论”突破了固定的思维模式，是发动经济改革，实行对外开放的先声，对中国社会具有巨大的进步意义。"
+  },
+  {
+   "cn": "模仿理论",
+   "en": "copy-cat theory",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.8",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "一种有关个体或群体仿效他人的行为、习惯等的理论。在大众传媒研究中，该理论主要用以分析大众媒体对受众的影响，解释大众传媒影响下的群体或个体行为的发生动机和相似性现象。"
+  },
+  {
+   "cn": "计算机自适应测试",
+   "en": "computer-adaptive test, CAT",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.3.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "交互计算机基于个体对条目的反应继续或结束测量的自适应测试形式。"
+  },
+  {
+   "cn": "腕管综合征",
+   "en": "carpal tunnel syndrome，CATS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.18",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "任何原因引起腕管内压力增高而导致通过腕管的正中神经受压所产生的神经功能障碍综合征。其特征为腕管内正中神经受压。典型症状包括手指夜间感觉异常，拇指、食指、中指感觉异常或感觉减退，手无力或运动不灵活。"
+  },
+  {
+   "cn": "果冻及果酱类水果罐头",
+   "en": "jam can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.4.7",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "以新鲜、冷藏、冷冻或速冻的一种或几种水果为原料，经压榨或打浆等处理后，加入（或不加）白砂糖、柠檬酸和果胶等配料制成的罐藏食品。"
+  },
+  {
+   "cn": "藻类罐头",
+   "en": "algae can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.3.4",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "选用新鲜、冷藏或干燥良好的藻类，经加工处理、预煮或不预煮，分选装罐后调味或不调味而制成的罐藏食品。"
+  },
+  {
+   "cn": "工作帽",
+   "en": "working cap",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "防御头部脏污、擦伤、长发被绞碾等伤害的防护装备。"
+  },
+  {
+   "cn": "卖淫法",
+   "en": "prostitution act",
+   "source": "社会学名词",
+   "wordNumber": "3.3.4.3",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性法律",
+   "subjectName": "性法律",
+   "publishYear": "2025",
+   "definition": "有关卖淫行为的法律规定。在卖淫问题的立法上，世界上有三种不同的做法：卖淫非法化、卖淫合法化和卖淫非罪化。"
+  },
+  {
+   "cn": "行动",
+   "en": "the act",
+   "source": "马克思主义",
+   "wordNumber": "05.0091",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "齐泽克受拉康驱力思想的启发而形成的概念，指突破资本主义体制的激进行为，对资本主义现存的一切都说“不”，在现存体制下做不可能之事。"
+  },
+  {
+   "cn": "支出上限制",
+   "en": "expenditure cap",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.14.1",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "卫生服务购买者预先依据医疗服务成本及其服务量的增长，设定医疗保险支出的年度预算总额，以该预算总额作为支付的最高限度。"
+  },
+  {
+   "cn": "宫颈帽",
+   "en": "cervical cap",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.8.1.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一种女用物理屏障避孕方法。为小型帽状硅橡胶制品，性交时紧套在子宫颈上，并产生负压，阻挡阴道内精子进入子宫腔。"
+  },
+  {
+   "cn": "畜肉类罐头",
+   "en": "meat can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.1",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "以处理后的猪、牛、羊等畜肉及其内脏为原料制成的罐藏食品。"
+  },
+  {
+   "cn": "香肠类畜肉罐头",
+   "en": "sausage can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.1.5",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "处理后原料经腌制、加香辛料斩拌成肉糜装入肠衣，再经烟熏（烘烤）等工序制成的罐藏食品。"
+  },
+  {
+   "cn": "禽类罐头",
+   "en": "poultry can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.2",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "以处理后的鸡、鸭等禽肉及禽蛋为原料制成的罐藏食品。"
+  },
+  {
+   "cn": "蛋类罐头",
+   "en": "egg can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.2.4",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "以禽蛋为主要原料，经加工制成的罐藏食品。"
+  },
+  {
+   "cn": "行为功利论",
+   "en": "act utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.01",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为行为的道德价值、道德判断必须根据其特定条件下的个人行为的经验效果为标准，而不应以其是否符合某种道德准则为标准的理论。也就是说，某一行为是道德的，当且仅当该行为所产生的效用比任何其他行为能够获得更多"
+  },
+  {
+   "cn": "水果类罐头",
+   "en": "fruit can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.4",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "以处理后的水果为原料制成的罐藏食品。"
+  },
+  {
+   "cn": "果汁类罐头",
+   "en": "juice can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.4.8",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将符合要求的果实经破碎、榨汁、筛滤或浸取提汁等处理后制成的罐藏食品。"
+  },
+  {
+   "cn": "酱类罐头",
+   "en": "paste can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.6.5",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "以一种或几种植物性或动物性食品为原料，经处理、调配、装罐、密封、杀菌、冷却等制成的罐藏食品。"
+  },
+  {
+   "cn": "冷却帽",
+   "en": "cooling cap",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.11.3.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境卫生防护",
+   "subjectName": "热环境卫生防护",
+   "publishYear": "2025",
+   "definition": "利用某些介质的热交换作用，具有使头部温度降低作用的专用帽子。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

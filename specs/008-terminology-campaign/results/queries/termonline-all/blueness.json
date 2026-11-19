@@ -1,0 +1,632 @@
+{
+ "key": "blueness",
+ "term": "blueness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:46:56+00:00",
+ "status": "ok",
+ "note": "variant=blueness; 审定公布名词库=181; 海峡两岸名词对照库=96; 其他来源数据库=26; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "蓝色",
+   "en": "blue",
+   "source": "光学名词",
+   "wordNumber": "05.030",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "波长在450～480 nm范围内的可见光区的颜色。它是相加色的三原色之一。"
+  },
+  {
+   "cn": "木材蓝变",
+   "en": "blue stain,log blue",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0618",
+   "subjectFullName": "材料科学技术_天然材料_木材_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "边材变色中最常见的一种，由长啄壳属等蓝变菌所形成，多见于松木、橡胶木等木材。主要影响木材外观，一般不影响木材力学性质。"
+  },
+  {
+   "cn": "亚甲蓝",
+   "en": "methylene blue",
+   "source": "神经外科学名词",
+   "wordNumber": "16.343",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科治疗技术",
+   "subjectName": "神经外科治疗技术",
+   "publishYear": "2026",
+   "definition": "一种噻嗪类碱性蓝色生物染料。被用作化学指示剂、染料、生物染色剂和药物，常用于特殊部位手术时的指示性定位，如脊柱手术的椎体定位。"
+  },
+  {
+   "cn": "蓝痣",
+   "en": "blue nevus",
+   "source": "整形外科名词",
+   "wordNumber": "11.096",
+   "subjectFullName": "整形外科_体表肿瘤_色素痣",
+   "subjectName": "色素痣",
+   "publishYear": "2026",
+   "definition": "真皮黑色素细胞局限性增生所形成的良性肿瘤。分为普通蓝痣和细胞蓝痣。普通蓝痣通常较小，为单个结节斑丘疹或结节，边界明显，呈圆形或卵圆形。直径为1～3cm或更大的蓝灰色结节，较少见，最常发生于臀部与骶尾区"
+  },
+  {
+   "cn": "蓝片岩",
+   "en": "blue schist",
+   "source": "地质学名词",
+   "wordNumber": "06.05.014",
+   "subjectFullName": "地质学_变质岩岩石学_变质岩岩石类型",
+   "subjectName": "变质岩岩石类型",
+   "publishYear": "2026",
+   "definition": "低温高压变质岩。以出现蓝闪石、硬柱石、硬玉、文石等高压低温变质矿物为特征，细粒鳞片变晶结构或纤状变晶结构，片状构造。"
+  },
+  {
+   "cn": "蓝石棉",
+   "en": "blue asbestos",
+   "source": "地质学名词",
+   "wordNumber": "03.05.114",
+   "subjectFullName": "地质学_矿物学_硅酸盐矿物",
+   "subjectName": "硅酸盐矿物",
+   "publishYear": "2026",
+   "definition": "钠闪石的纤维状变种。区域变质成因。通常呈脉状产于铁质和硅质的沉积变质岩及某些碱性变质岩中。"
+  },
+  {
+   "cn": "青石",
+   "en": "blue stone",
+   "source": "风景园林名词",
+   "wordNumber": "08.1042",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "地壳中分布最广的在湖海盆地生成的灰色或灰白色沉积岩。耐磨，耐风化，无辐射，常用于建筑、装潢、石雕。"
+  },
+  {
+   "cn": "蓝色农业",
+   "en": "blue agriculture",
+   "source": "农学名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "总论_农业类型",
+   "subjectName": "农业类型",
+   "publishYear": "2025",
+   "definition": "利用沿海滩涂和海洋资源，以发展种植业、近海养殖业和海洋捕捞业等为基本特征的农业类型。"
+  },
+  {
+   "cn": "溴酚蓝",
+   "en": "bromophenol blue",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0999",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_常用试剂_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "系统命名为3,3′,5,5′-四溴苯酚磺酞。一种pH指示剂，在pH 3.0～4.6范围，颜色由黄变蓝。常用做电泳指示染料，凝胶中电泳迁移速度在小分子核酸或蛋白质区域。"
+  },
+  {
+   "cn": "锥虫蓝",
+   "en": "trypan blue",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.1003",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_常用试剂_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "含硫酸基和氨基的一种二偶氮酸性染料。其电荷使其不能通过活细胞的质膜，但能被死细胞或膜受损伤细胞吸收，染成深蓝色，可用以鉴别细胞的存活状态，因能杀死锥虫而得名。"
+  },
+  {
+   "cn": "蓝色革命",
+   "en": "blue revolution",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.307",
+   "subjectFullName": "自然辩证法_技术哲学_农业哲学",
+   "subjectName": "农业哲学",
+   "publishYear": "2024",
+   "definition": "海洋渔业由海洋生物的单纯捕捞向农牧化生产的转变。用科学方法人工调控海洋生物的繁殖、生长到收获的全过程。"
+  },
+  {
+   "cn": "蓝色农业",
+   "en": "blue agriculture",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.325",
+   "subjectFullName": "自然辩证法_技术哲学_农业哲学",
+   "subjectName": "农业哲学",
+   "publishYear": "2024",
+   "definition": "海洋水生生物的农牧化生产。海洋水生生物的人工养殖，包括海洋种植业和海洋养殖业。"
+  },
+  {
+   "cn": "蓝离散星",
+   "en": "blue straggler",
+   "source": "天文学名词",
+   "wordNumber": "08.177",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "出现在恒星系统赫罗图上的主序延伸线附近，且比主序折向点恒星显然更亮的一类恒星。"
+  },
+  {
+   "cn": "蓝移",
+   "en": "blue shift",
+   "source": "光学名词",
+   "wordNumber": "01.125",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "光波因某种原因(例如光学线性、非线性效应以及多普勒效应等)发生光波的能量转向其高频端、波长变短的现象。如在紫外与可见光区域呈现特征吸收的原子团(即发色团)结构变化而使其摩尔分子消光系数减小(称为减色效"
+  },
+  {
+   "cn": "蓝光激光器",
+   "en": "blue laser",
+   "source": "光学名词",
+   "wordNumber": "10.162",
+   "subjectFullName": "光学_光源",
+   "subjectName": "光源",
+   "publishYear": "2021",
+   "definition": "发射激光在蓝光波段的激光器。波长范围为400～500 nm。"
+  },
+  {
+   "cn": "蓝色静脉曲张",
+   "en": "blue varices",
+   "source": "消化内镜学名词",
+   "wordNumber": "19.009",
+   "subjectFullName": "消化内镜学_肝脏疾病_门静脉高压症",
+   "subjectName": "门静脉高压症",
+   "publishYear": "2021",
+   "definition": "基本色调为蓝色的静脉曲张。"
+  },
+  {
+   "cn": "蓝痣",
+   "en": "blue naevus",
+   "source": "病理学名词",
+   "wordNumber": "11.037",
+   "subjectFullName": "病理学_感觉系统_皮肤",
+   "subjectName": "皮肤",
+   "publishYear": "2020",
+   "definition": "真皮黑色素细胞局限性增生所形成的良性肿瘤。临床可分为普通蓝痣和细胞蓝痣。损害常为单个，为蓝色、灰蓝色、蓝黑色丘疹、结节或斑片。直径为数毫米至数厘米。女性多见，常自幼发生。好发于面部、四肢伸侧及腰、臀部"
+  },
+  {
+   "cn": "栀子蓝",
+   "en": "gardenia blue",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0667",
+   "subjectFullName": "食品科学技术_食品科学_食品添加剂与配料_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2020",
+   "definition": "以栀子为基本原料，经微生物酶的作用制得的天然色素。"
+  },
+  {
+   "cn": "钼蓝",
+   "en": "blue molybdyl",
+   "source": "冶金学名词",
+   "wordNumber": "06.1080",
+   "subjectFullName": "冶金学_有色金属冶金_稀有金属冶金",
+   "subjectName": "稀有金属冶金",
+   "publishYear": "2019",
+   "definition": "在钼酸或钼酸盐溶液中，添加还原剂形成的低价化合物。成分大致相当于<img src='/root/syzx/static/spz/yejin2.06.1080.01.png'/>或<img src='/"
+  },
+  {
+   "cn": "蓝皮书",
+   "en": "blue book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.069",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "专家或专业机构就某领域、某专题撰写的年度研究报告。因出版社认为蓝色能代表学术的严谨而使用蓝色作封面而得名。"
+  },
+  {
+   "cn": "蓝调",
+   "en": "blues",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "布鲁斯",
+   "en": "blues",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "木材蓝变",
+   "en": "log blue\",\"blue stain",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "苯胺蓝",
+   "en": "water blue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "靛酚蓝",
+   "en": "indophenol blue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "靛蓝",
+   "en": "indigo blue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "甲苯胺蓝",
+   "en": "toluidine blue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "甲苯蓝",
+   "en": "toluene blue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "甲酚蓝",
+   "en": "cresol blue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "甲基蓝",
+   "en": "methyl blue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "美蓝（=亚甲蓝）",
+   "en": "methylene blue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "萘蓝",
+   "en": "naphthalene blue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "台盼蓝（=锥虫蓝）",
+   "en": "trypan blue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "亚甲蓝，美蓝",
+   "en": "methylene blue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "锥虫蓝，台盼蓝",
+   "en": "trypan blue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "碧空",
+   "en": "blue sky",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蓝冰",
+   "en": "blue ice",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蓝[放电]急流",
+   "en": "blue jets",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蓝噪声",
+   "en": "blue noise",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "酞菁蓝",
+   "en": "phthalocyanine blue",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "蓝区",
+   "en": "blue band\",\"blue mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "深蓝计算机",
+   "en": "Deep Blue",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色腰带",
+   "en": "blue sash",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝方",
+   "en": "blue corner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色腰带",
+   "en": "blue belt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝旗",
+   "en": "blue flag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色内环区",
+   "en": "inner blue",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色外环区",
+   "en": "outer blue",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝环",
+   "en": "blue area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色摔跤服",
+   "en": "blue uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝方",
+   "en": "blue corner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色袖套",
+   "en": "blue sleeve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色牌",
+   "en": "blue paddle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝方：开始！",
+   "en": "Blue: action!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝旗",
+   "en": "blue flag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色球帽",
+   "en": "blue cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色腰带",
+   "en": "blue belt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝方位置",
+   "en": "blue mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色战剂",
+   "en": "blue agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.12.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "二甲胂酸钠和二甲胂酸组成的混合物。由美军在越南战争时期使用，因装运容器标识为蓝色得名。"
+  },
+  {
+   "cn": "栀子蓝",
+   "en": "gardenia blue",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.11.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "以茜草科植物栀子果实为原料，通过微生物发酵或酶促反应得到的一种蓝色色素，主要着色物质为藏花素、藏花酸。可用作食品着色剂。"
+  },
+  {
+   "cn": "蓝光试验",
+   "en": "blue ray test",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.12",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "利用血液中过氧化物酶，在有过氧化氢时，催化隐色化合物氧化发生颜色改变，通过颜色变蓝显示残留血液程度，检测残留在医疗器械上血渍清洗效果的试验。"
+  },
+  {
+   "cn": "蓝领工人",
+   "en": "blue-collar worker",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "从事体力性劳动的受雇者，工业化社会职业分层的一个基本类别，与“白领工人”相对。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

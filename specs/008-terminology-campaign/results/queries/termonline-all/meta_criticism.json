@@ -1,0 +1,702 @@
+{
+ "key": "meta-criticism",
+ "term": "meta-criticism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:29:25+00:00",
+ "status": "ok",
+ "note": "variant=meta-criticism; 审定公布名词库=1692; 海峡两岸名词对照库=632; 其他来源数据库=43; 预公布名词数据库=90; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "meta回归",
+   "en": "meta regression",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0558",
+   "subjectFullName": "食品科学技术_食品营养_荟萃分析和系统综述",
+   "subjectName": "荟萃分析和系统综述",
+   "publishYear": "2020",
+   "definition": "分析研究间异质性来源及大小，并进一步阐述或解释异质性对荟萃分析中合并效应量的影响的分析方法。"
+  },
+  {
+   "cn": "元-元模型",
+   "en": "meta-meta model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0097",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "元模型体系结构的基础，定义了说明元模型的语言。"
+  },
+  {
+   "cn": "变角闪岩",
+   "en": "meta-hornblendite",
+   "source": "地质学名词",
+   "wordNumber": "06.05.047",
+   "subjectFullName": "地质学_变质岩岩石学_变质岩岩石类型",
+   "subjectName": "变质岩岩石类型",
+   "publishYear": "2026",
+   "definition": "普通角闪石含量＞90％的变质岩。可含少量辉石、石榴子石、斜长石、石英等。一般具中粗粒柱状变晶结构，块状构造，有时呈片状构造。"
+  },
+  {
+   "cn": "变辉石岩",
+   "en": "meta-pyroxenolite",
+   "source": "地质学名词",
+   "wordNumber": "06.05.048",
+   "subjectFullName": "地质学_变质岩岩石学_变质岩岩石类型",
+   "subjectName": "变质岩岩石类型",
+   "publishYear": "2026",
+   "definition": "辉石含量＞90％的变质岩。主要由透辉石和紫苏辉石组成。可含少量角闪石、石榴子石、斜长石、石英、磁铁矿等。一般具中粗粒变晶结构，块状构造。"
+  },
+  {
+   "cn": "宏代谢组",
+   "en": "meta-metabolome",
+   "source": "农学名词",
+   "wordNumber": "15.257",
+   "subjectFullName": "农业生物技术_微生物组工程",
+   "subjectName": "微生物组工程",
+   "publishYear": "2025",
+   "definition": "一个特定环境或者生态系统中所有代谢产物的总和。"
+  },
+  {
+   "cn": "元话语",
+   "en": "meta-discourse",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_后现代主义科学哲学",
+   "subjectName": "后现代主义科学哲学",
+   "publishYear": "2024",
+   "definition": "对话语的元层次上的研究与反思。与基础话语（primary discourse）相对。讨论话语的组织与功能以及话语发出者与接受者的各种特征。"
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.034",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "描述知识集的知识。"
+  },
+  {
+   "cn": "元沟通",
+   "en": "meta communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.034",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "能给交往者个体带来暗示的、引申的、重要的，也是最初的对关系讯息及其意义产生理解的沟通现象与行为。常用于判断相互关系及其属性。被概括为一种“有关沟通的沟通”。"
+  },
+  {
+   "cn": "元讯息",
+   "en": "meta message",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.097",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "附加在讯息之上的讯息。沟通者通过对讯息的编码与解码，将沟通行为自身也视作一种沟通的讯息。"
+  },
+  {
+   "cn": "变形球建模",
+   "en": "meta modeling",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.118",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "利用一些具有“黏性”的球体相互堆积塑造模型的方便直观的建模方法。"
+  },
+  {
+   "cn": "荟萃分析",
+   "en": "meta-analysis",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0533",
+   "subjectFullName": "食品科学技术_食品营养_荟萃分析和系统综述",
+   "subjectName": "荟萃分析和系统综述",
+   "publishYear": "2020",
+   "definition": "采用统计方法，将多个独立、针对同一临床问题、可以合成的临床研究综合起来进行定量分析。"
+  },
+  {
+   "cn": "元索引",
+   "en": "meta-index",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.852",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "为便于用户对站点进行检索，提高检索速度而编制的关于网站站点索引的索引。"
+  },
+  {
+   "cn": "元本体",
+   "en": "meta-ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.117",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "在各领域中通用的，定义了各部分之间的关系及其属性的本体。是绝对抽象事物。认识元本体必须认识抽象事物，掌握抽象事物的本质和特征。"
+  },
+  {
+   "cn": "元概念",
+   "en": "meta-concept",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.118",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "一种抽象的概念，即概念的概念。用来组织某些领域的概念的属性和类，完成或添加具体的概念等。"
+  },
+  {
+   "cn": "荟萃分析",
+   "en": "meta-analysis",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "针对某一具体问题，收集相关研究，获取其研究结果并进行统计合并，获取定量分析研究结果的过程。"
+  },
+  {
+   "cn": "元数据库",
+   "en": "meta database",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0080",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "含有元数据的数据库。"
+  },
+  {
+   "cn": "元知识",
+   "en": "meta knowledge",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0669",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "关于知识的知识。例如如何根据领域特征选择和利用解决有关该领域问题的知识。"
+  },
+  {
+   "cn": "元数据",
+   "en": "meta data",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0125",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "关于某数据的名字、意义、描述、来源、职责、格式、用途以及与其他数据的联系等的信息。它提供了数据的描述信息或逻辑观点，因此亦有关于数据的数据之称。"
+  },
+  {
+   "cn": "间位",
+   "en": "meta position",
+   "source": "核医学名词",
+   "wordNumber": "02.0239",
+   "subjectFullName": "核医学_核医学相关基础学科_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2018",
+   "definition": "在苯环上取代基与主取代基相差一个碳原子的位置。"
+  },
+  {
+   "cn": "元类",
+   "en": "meta class",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0329",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）以类作为其实例的类。（2）在统一建模语言（UML）和其他相关的对象管理组织（OMG）规范中，由元模型定义的每个建模元素。"
+  },
+  {
+   "cn": "元分析",
+   "en": "meta analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "间位",
+   "en": "meta position",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "整合分析",
+   "en": "meta-analysis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "元信令",
+   "en": "meta-signaling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "媒介人兽互通病",
+   "en": "meta-zoonosis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "关键程度",
+   "en": "criticality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间位定位基",
+   "en": "meta directing group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "临界期",
+   "en": "critical phase\",\"critical period",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "临界区",
+   "en": "critical region\",\"critical section",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增强型图像文件",
+   "en": "enhanced meta file\",\"EMF",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "元信令协议实体",
+   "en": "meta-signaling protocol entity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自我批评",
+   "en": "self criticism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "临界光周期",
+   "en": "critical photoperiod",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界期",
+   "en": "critical period",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界质壁分离",
+   "en": "critical plasmolysis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界波长",
+   "en": "critical wavelength",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界层",
+   "en": "critical layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界高度",
+   "en": "critical height",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界流量",
+   "en": "critical discharge",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界速度",
+   "en": "critical velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据结构元备份",
+   "en": "data structure meta backup",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关键信息基础设施",
+   "en": "critical information infrastructure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "美刺",
+   "en": "Extolment and Satirical Criticism",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关键信息基础设施安全",
+   "en": "critical information infrastructure security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兴观群怨",
+   "en": "Stimulation, Contemplation, Communication, and Criticism",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "劝百风一",
+   "en": "Much Blandishment and Little Criticism",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网关键资源管理体系",
+   "en": "Internet critical resource management system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关键信息基础设施保护机制",
+   "en": "critical information infrastructure protection mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Meta分析",
+   "en": "meta analysis",
+   "source": "社会医学名词",
+   "wordNumber": "4.7.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "文献研究",
+   "publishYear": "2025",
+   "definition": "针对某一具体问题，系统、全面收集已经发表的相关文献或未发表的相关研究数据，进行定量整合，得出综合性结论的研究方法。是一种对许多独立研究结果进行整合的统计分析方法。"
+  },
+  {
+   "cn": "荟萃分析",
+   "en": "meta-analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.158",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将对同一个主题的若干分析结果作为数据以综合研究发现，得出更精确的参数估计的统计分析技术。"
+  },
+  {
+   "cn": "元学习",
+   "en": "meta-learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.13",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "学习者对学习过程的认知和控制。元认知的一个分支，即元认知在学习领域的拓展应用。"
+  },
+  {
+   "cn": "原型批评",
+   "en": "archetypal criticism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0233",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "20 世纪五六十年代流行于西方的一个十分重要的批评流派，主要创始人是加拿大文学批评家弗莱（Northrop Frye）。原型批评从人类学立场出发，把文学作为文明的一种象征形式，作为人类整体技艺活动中的"
+  },
+  {
+   "cn": "文化批评",
+   "en": "cultural criticism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.062",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "西方人类学在20 世纪60 年代以后已开始出现对本土社会文化的研究，出现了“后现代人类学”和文化批评的研究倾向。文化批评的两种基本类型：一是哲学上的认识论批评；二是经验主义色彩的研究，对社会构造、文化"
+  },
+  {
+   "cn": "高度危险性物品",
+   "en": "critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "进入人体无菌组织、器官、脉管系统，或有无菌体液从中流过的物品或接触破损皮肤、破损黏膜的物品。"
+  },
+  {
+   "cn": "临界事故",
+   "en": "critical accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.2.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件类型",
+   "subjectName": "核或辐射突发事件类型",
+   "publishYear": "2025",
+   "definition": "意外发生的自持或发散的中子链式反应所造成的能量和放射性释放事件。"
+  },
+  {
+   "cn": "关键人群组",
+   "en": "critical group",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.17",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在某一给定的辐射源和给定的照射途径所涉及的各受照人群组中，其受照水平基本均匀并预期为最高的人群组。其接受的有效剂量或当量剂量可用以度量该给定辐射源和该给定照射途径所产生的个人剂量的上限。"
+  },
+  {
+   "cn": "批判实务",
+   "en": "critical practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "在服务过程中重视语言、社会文化环境、意识形态、价值观念、宗教信仰和权力关系对实际工作开展的影响，并通过重构权力和话语以实现助人解放目标的社会工作实务。"
+  },
+  {
+   "cn": "批判主义方法论",
+   "en": "critical methodology",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "起源于马克思主义的研究方法论。其主张明确的价值立场，站在受压迫或弱势群体的立场上进行研究，并将研究活动本身作为促成人们解放及社会公平进步的过程。"
+  },
+  {
+   "cn": "批判理性主义",
+   "en": "critical rationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为科学方法就是猜测—反驳方法。科学沿着“问题（P1）—假说（TT）—证伪（EE）—问题（P2）”四段图式不断演进，逐渐向高证伪度和高逼真度接近。"
+  },
+  {
+   "cn": "严重缺陷",
+   "en": "critical defect",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.17",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "可导致食品安全卫生危害的缺陷。如霉烂、腐败、变质、农兽药残留超标、被有毒有害物质污染等。"
+  },
+  {
+   "cn": "临界事故",
+   "en": "critical accident",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.7",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "含易裂变材料的系统由于某种意外原因引起的非预计的能量和放射性释放事件。"
+  },
+  {
+   "cn": "极期",
+   "en": "critical phase",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.2.4.1.3",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器杀伤效应",
+   "subjectName": "核武器杀伤效应",
+   "publishYear": "2025",
+   "definition": "急性放射病各种临床表现明显出现并达到顶峰的阶段。治疗不力者多死亡于此期，主要死亡原因是造血功能衰竭引起的感染和出血。在此期，急性放射病的典型症状均可出现，如患者全身状况变差、严重的出血和感染，等。"
+  },
+  {
+   "cn": "关键限值",
+   "en": "critical limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.7",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "区分食品安全可接受或不可接受的判定标准。该值的确定应该合理、适宜、可操作性强、实用。如果确定过严，会造成即使没有发生影响食品安全的危害，也要采取纠偏措施；如果过松，又会产生不安全的食品。"
+  },
+  {
+   "cn": "批评和自我批评",
+   "en": "criticism and selfcriticism",
+   "source": "马克思主义",
+   "wordNumber": "03.0491",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党的三大作风之一。批评是指对别人的缺点或错误提出意见，自我批评是指政党或个人对自己的缺点或错误进行的自我揭露和剖析。党内批评是解决党内矛盾，坚持真理，修正错误的基本方法。"
+  },
+  {
+   "cn": "中度危险性物品",
+   "en": "semi-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整黏膜相接触，而不进入人体无菌组织、器官和血流，也不接触破损皮肤、破损黏膜的物品。"
+  },
+  {
+   "cn": "低度危险性物品",
+   "en": "non-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整皮肤接触而不与黏膜接触的物品。"
+  },
+  {
+   "cn": "关键控制点",
+   "en": "critical control point",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.7",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "能够控制并使某一影响消毒产品质量的因素得到预防、消除或降低到可接受的水平的某一点、某一步骤或程序。"
+  },
+  {
+   "cn": "反应堆临界",
+   "en": "criticality of reactor",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.13",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "在没有外源的情况下，反应堆在任意时间段内由裂变产生的中子数正好等于由吸收和从系统中泄漏而损失的中子数，从而使链式反应以恒定速率持续进行下去的状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

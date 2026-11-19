@@ -1,0 +1,572 @@
+{
+ "key": "retentions",
+ "term": "retentions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:41:32+00:00",
+ "status": "ok",
+ "note": "variant=retentions; 审定公布名词库=287; 海峡两岸名词对照库=51; 其他来源数据库=1; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "保留",
+   "en": "retention",
+   "source": "核科学技术名词",
+   "wordNumber": "2.232",
+   "subjectFullName": "核科学技术_核化学与放射化学_核化学",
+   "subjectName": "核化学",
+   "publishYear": "2024",
+   "definition": "在核转变过程中，一部分放射性同位素未能从靶子化合物中分离出来的现象。"
+  },
+  {
+   "cn": "保持",
+   "en": "retention",
+   "source": "行为医学名词",
+   "wordNumber": "4.032",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "个体把识记过后形成的知识、经验以一定形式存储在头脑中的过程。"
+  },
+  {
+   "cn": "截留",
+   "en": "retention",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.310",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_酶催化反应_酶",
+   "subjectName": "酶",
+   "publishYear": "2021",
+   "definition": "通过一定手段使目标物被截住从而将其分离出来的方法。如果目标物是酶，则是将酶同其他小分子分开的一种酶纯化方法。"
+  },
+  {
+   "cn": "滞留",
+   "en": "retention",
+   "source": "核医学名词",
+   "wordNumber": "02.0559",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "摄入放射性物质后的给定时间内，放射性物质在某一器官或全身内的沉积状态及动态变化过程。"
+  },
+  {
+   "cn": "助留",
+   "en": "retention",
+   "source": "林学名词",
+   "wordNumber": "12.244",
+   "subjectFullName": "林学_林产化学加工_木材制浆造纸",
+   "subjectName": "木材制浆造纸",
+   "publishYear": "2016",
+   "definition": "在纸料中加入聚电介质，促使填料、细小纤维及纤维之间聚集或絮聚成较大尺寸的颗粒而留在成型网上的工艺。"
+  },
+  {
+   "cn": "药剂保持量",
+   "en": "retention",
+   "source": "林学名词",
+   "wordNumber": "11.154",
+   "subjectFullName": "林学_木材科学与技术_木材保护与功能性改良",
+   "subjectName": "木材保护与功能性改良",
+   "publishYear": "2016",
+   "definition": "防腐木材检验样品的分析区域中要求保留的防腐剂最低数量。通常指防腐剂的活性成分，以千克/立方米(kg/m³)表示。"
+  },
+  {
+   "cn": "保留",
+   "en": "retention",
+   "source": "化学名词",
+   "wordNumber": "06.0096",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "在经历了核转变的原子中，仍处于起始的化学状态，或经历热原子反应及后继的反应后又回到起始的化学状态的原子所占的份额。"
+  },
+  {
+   "cn": "保持",
+   "en": "retention",
+   "source": "心理学名词",
+   "wordNumber": "02.593",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对事物识记后形成的知识经验在头脑中的存储过程。"
+  },
+  {
+   "cn": "滞留",
+   "en": "retention",
+   "source": "放射医学与防护名词",
+   "wordNumber": "08.046",
+   "subjectFullName": "放射医学与防护_放射毒理学_代谢",
+   "subjectName": "代谢",
+   "publishYear": "2014",
+   "definition": "放射性核素进入体内后在组织或器官内放射性活度的动态变化过程。"
+  },
+  {
+   "cn": "截留",
+   "en": "retention",
+   "source": "化学工程名词",
+   "wordNumber": "06.133",
+   "subjectFullName": "化学工程_生物化学工程_生化反应工程_酶催化反应",
+   "subjectName": "酶催化反应",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "固位",
+   "en": "retention",
+   "source": "医学名词 第二分册",
+   "wordNumber": "08.036",
+   "subjectFullName": "医学_口腔医学_固定义齿修复学",
+   "subjectName": "固定义齿修复学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "渗余物",
+   "en": "retentate",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0961",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "在膜分离过程中，未透过膜而被截留的物质。"
+  },
+  {
+   "cn": "渗余物",
+   "en": "retentate",
+   "source": "化学工程名词",
+   "wordNumber": "03.614",
+   "subjectFullName": "化学工程_传递过程与单元操作_传质分离过程_膜分离",
+   "subjectName": "膜分离",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "持水度",
+   "en": "specific retention",
+   "source": "地质学名词",
+   "wordNumber": "17.02.207",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "饱水岩石在重力释水后仍能保持的水体积与岩石体积之比。"
+  },
+  {
+   "cn": "保光性",
+   "en": "gloss retention",
+   "source": "精细化工名词",
+   "wordNumber": "05.0405",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "漆膜保持其原来光泽的能力。"
+  },
+  {
+   "cn": "尿潴留",
+   "en": "urinary retention",
+   "source": "急救医学名词",
+   "wordNumber": "03.403",
+   "subjectFullName": "急救医学_日常医学急救_外科学_泌尿系统疾病",
+   "subjectName": "泌尿系统疾病",
+   "publishYear": "2025",
+   "definition": "由排尿困难导致膀胱内充满尿液而不能排出的现象。分为急性尿潴留和慢性尿潴留，前者发病突然，胀痛难忍，需积极解除病因尽快恢复排尿；后者起病缓慢，可排尿但残余尿较多，可伴尿频、尿细、尿不尽感。病因分为机械性"
+  },
+  {
+   "cn": "保留体积",
+   "en": "retention volume",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0174",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "在规定条件下从加上样品到出现分离物峰，流动相流经层析柱的体积。是层析分离技术的一个参数。"
+  },
+  {
+   "cn": "保留系数",
+   "en": "retention coefficient",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0178",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "层析柱外水体积与某物质洗脱体积之比。"
+  },
+  {
+   "cn": "保留时间",
+   "en": "retention time",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0179",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "样品组分在层析柱中滞留的时间，即从进样到层析峰最大值出现所需要的时间。"
+  },
+  {
+   "cn": "保管期限项",
+   "en": "retention period",
+   "source": "档案学名词",
+   "wordNumber": "03.04.013",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "著录项目之一。对档案划定的留存年限的著录项目。"
+  },
+  {
+   "cn": "截留，保留",
+   "en": "retention",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保持",
+   "en": "retention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保留",
+   "en": "retention",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "滞留",
+   "en": "retention",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "渗余物",
+   "en": "retentate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "持水量",
+   "en": "retention storage",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保留周期",
+   "en": "retention period",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保留体积",
+   "en": "retention volume",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保留时间",
+   "en": "retention time",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "选择性记忆",
+   "en": "selective retention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保持曲线",
+   "en": "retention curve",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保留间隙",
+   "en": "retention gap",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保留时间",
+   "en": "retention time",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保留体积",
+   "en": "retention volume",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保留温度",
+   "en": "retention temperature",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保留因子",
+   "en": "retention factor",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保留指数",
+   "en": "retention index",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "假保留",
+   "en": "pseudo-retention",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "留存比率",
+   "en": "retention ratio",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最低保留额",
+   "en": "minimum retention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "《紧急通信与互联网数据保留法案》（英国）",
+   "en": "Emergency Communications and Internet Data Retention Act (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "滞留",
+   "en": "retention",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "摄入放射性物质后的给定时间内，放射性物质在某一器官或全身内的沉积状态及动态变化过程。"
+  },
+  {
+   "cn": "滞留份额",
+   "en": "retention fraction",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.36",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素在组织或器官内滞留量占了该放射性核素初始进入量的份额。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "尿潴留",
+   "en": "urinary retention",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.22",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "膀胱充满尿液不能排出，导致膀胱过度膨胀、膀胱内压力增高的状态。分为急性和慢性。常见于良性前列腺增生、尿道损伤和狭窄、神经源性膀胱、脊髓或颅脑疾病或损伤的患者。"
+  },
+  {
+   "cn": "胎盘滞留",
+   "en": "placenta retention",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.39",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "胎盘在胎儿娩出30分钟后仍未排出的现象。"
+  },
+  {
+   "cn": "风险自留",
+   "en": "risk retention",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.15",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "企业主动承担风险，即一个企业以其内部的资源来弥补损失。"
+  },
+  {
+   "cn": "终点保存期",
+   "en": "endpoint retention period",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当指示物暴露于灭菌过程期间所有变量均已达到或者超过产生可视变化，渐进反应以及终点的水平时，这些变化按照指示物制造商的规定贮存条件，能保持不变的时间。"
+  },
+  {
+   "cn": "食品留样",
+   "en": "food retention sample",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "依据相关规定留存食品样品的过程，每个品种留样量应当满足检验需要，并记录留样食品名称、留样量、留样时间、留样人员等。留样食品应当由专柜冷藏保存48小时以上。"
+  },
+  {
+   "cn": "产后体重滞留",
+   "en": "postpartum weight retention",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.8",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "由妊娠引起的产后一段时间内（一般指产后一年）体重高于孕前的状态（体重差值在2.5千克以上）。"
+  },
+  {
+   "cn": "本顿视觉保留",
+   "en": "Benton visual retention",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.6",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "一种短时视觉记忆测验，只利用其几何图形识别部分而省去运动反应分，评价受试者视感知/记忆能力。"
+  },
+  {
+   "cn": "室温留样法",
+   "en": "room temperature retention method",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.7.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒剂在温度25℃±2℃的保存条件下存放后，测定其稳定性的方法。"
+  },
+  {
+   "cn": "半滞留期",
+   "en": "half time of retention",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.38",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "某一组织或器官内滞留的放射性核素活度减少一半所需的时间。"
+  },
+  {
+   "cn": "产后尿潴留",
+   "en": "puerperal retention of urine",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.4.5.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "产后排空膀胱不完全或排尿障碍的现象。"
+  },
+  {
+   "cn": "隔热型冷习服",
+   "en": "heat retention type cold-acclimation",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.5.2",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷习服",
+   "subjectName": "冷习服",
+   "publishYear": "2025",
+   "definition": "体表隔热性能增强，减少散热，表现为皮下脂肪增多或者隔热值增强、体表血流量减少，末梢皮肤温度降低，但氧耗量增加不明显的习服类型。"
+  },
+  {
+   "cn": "滞留抑菌效果鉴定试验",
+   "en": "evaluation test of retention bacteriostasis effect",
+   "source": "消毒学",
+   "wordNumber": "6.2.35.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过模拟适合细菌生长、繁殖和可能产生感染的皮肤条件，将实验菌涂于经过抗（抑）菌产品处理后一定时间的前臂皮肤，以检测抑菌样品在规定时间内在皮肤上持续抑菌效果的试验方法。主要用于抗（抑）菌香皂和抗菌沐浴露"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

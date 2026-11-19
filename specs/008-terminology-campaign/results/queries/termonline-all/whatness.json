@@ -1,0 +1,572 @@
+{
+ "key": "whatness",
+ "term": "whatness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:20:23+00:00",
+ "status": "ok",
+ "note": "variant=whatness; 审定公布名词库=80; 海峡两岸名词对照库=18; 其他来源数据库=18; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "事实知识",
+   "en": "know-what",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0713",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "关于事物是什么和怎么样的知识。"
+  },
+  {
+   "cn": "所见即所得",
+   "en": "what you see is what you get;WYSIWYG",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.125",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "预览效果与所获实物一致。"
+  },
+  {
+   "cn": "你见即我见",
+   "en": "what you see is what I see,WYSIWIS",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0428",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "群组协同工作中的可视工作区域的多用户交互接口。其中一个用户的编辑结果能够立即反映在其他所有用户的视图上。"
+  },
+  {
+   "cn": "有闻必录",
+   "en": "recording what has been heard",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.198",
+   "subjectFullName": "新闻学与传播学_新闻史_新闻史研究",
+   "subjectName": "新闻史研究",
+   "publishYear": "2022",
+   "definition": "①中国新闻事业早期，新闻媒体对各方消息一律照登，对其来源和真实性概不负责。此种态度被称为有闻必录。②中国早期商业报纸招徕读者的一种广告词。以之标榜自己耳目灵通，无所不登，百无禁忌。"
+  },
+  {
+   "cn": "暮食朝吐",
+   "en": "vomit in the morning what eaten at last night",
+   "source": "中医药学名词",
+   "wordNumber": "04.436",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "晚餐吃的东西，至次晨吐出的表现。"
+  },
+  {
+   "cn": "先天象数之学",
+   "en": "xian tian xiang shu zhi xue;doctrine of what antecedes Heaven",
+   "source": "中国古代史名词",
+   "wordNumber": "6.319",
+   "subjectFullName": "中国古代史_两宋_文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "据伏羲先天八卦上推《易》理和解释万物的《易》学派别。与相传由孔子整理的文王后天八卦相对，其学由北宋邵雍在宋初道士陈抟所出《太极先天图》基础上创立，南宋朱熹以理学对之注解，对后世《易》学有较大影响。"
+  },
+  {
+   "cn": "虚弱",
+   "en": "weakness",
+   "source": "兽医学名词",
+   "wordNumber": "15.014",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "如倦怠无力、疲劳、全身肌肉虚弱、晕厥、癫痫发作和意识状态改变的统称。"
+  },
+  {
+   "cn": "软弱性",
+   "en": "weakness",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0269",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "物体在外力作用下比较容易变形的性质。"
+  },
+  {
+   "cn": "白度",
+   "en": "whiteness",
+   "source": "光学名词",
+   "wordNumber": "05.077",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "表征物体表面呈白色的程度。它与物体表面的光谱反射比有关。物体表面对可见光谱内所有波长的反射比都在80%以上时所呈现的颜色为白色。"
+  },
+  {
+   "cn": "平面度",
+   "en": "flatness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0298",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "限制被测实际表面对其理想平面的变动量。"
+  },
+  {
+   "cn": "精白度",
+   "en": "whiteness",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1402",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_酒",
+   "subjectName": "酒",
+   "publishYear": "2020",
+   "definition": "大米精碾处理后精米量与原料大米量之比。"
+  },
+  {
+   "cn": "实音",
+   "en": "flatness",
+   "source": "结核病学名词",
+   "wordNumber": "03.445",
+   "subjectFullName": "结核病学_结核病诊断_症状和体征",
+   "subjectName": "症状和体征",
+   "publishYear": "2019",
+   "definition": "一种音调较浊音更高、音响更弱、振动持续时间更短的非乐性音。如叩击心脏和肝脏等实质脏器所产生的音响。在病理状态下可见于大量胸腔积液或肺实变等。"
+  },
+  {
+   "cn": "平直度",
+   "en": "flatness",
+   "source": "冶金学名词",
+   "wordNumber": "09.0685",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "衡量带材几何形状偏差的量度。有波长波高比(I值)、翘曲度(S)、平直度(f)等标示。"
+  },
+  {
+   "cn": "实音",
+   "en": "flatness",
+   "source": "呼吸病学名词",
+   "wordNumber": "06.056",
+   "subjectFullName": "呼吸病学_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2018",
+   "definition": "一种音调较浊音更高、音响更弱、振动持续时间更短的一种非乐性音。如叩击心脏和肝脏等实质脏器体表所产生的叩诊音。在病理状态下可见于大量胸腔积液或肺实变等。"
+  },
+  {
+   "cn": "白度",
+   "en": "whiteness",
+   "source": "计量学名词",
+   "wordNumber": "13.216",
+   "subjectFullName": "计量学_光学_色度",
+   "subjectName": "色度",
+   "publishYear": "2015",
+   "definition": "对高反射比和低色纯度的漫射表面色特性的度量。符号为 W。"
+  },
+  {
+   "cn": "均整度",
+   "en": "flatness",
+   "source": "计量学名词",
+   "wordNumber": "14.191",
+   "subjectFullName": "计量学_光学_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2015",
+   "definition": "在一个辐射野的限定部分内，最高与最低的吸收剂量之比。标准体模入射面与辐射束轴垂直，并在其特定深度上与规定的辐射条件下测量吸收剂量。"
+  },
+  {
+   "cn": "平整度",
+   "en": "flatness",
+   "source": "材料科学技术名词",
+   "wordNumber": "06.0145",
+   "subjectFullName": "材料科学技术_半导体材料_元素半导体材料",
+   "subjectName": "元素半导体材料",
+   "publishYear": "2011",
+   "definition": "晶片表面与基准平面之间最高点和最低点的差值。"
+  },
+  {
+   "cn": "白度",
+   "en": "whiteness",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0608",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料性能",
+   "subjectName": "材料性能",
+   "publishYear": "2011",
+   "definition": "材料颜色接近白色的程度。通常以试样漫反射的光量对入射光量的百分比来表示。"
+  },
+  {
+   "cn": "乏力",
+   "en": "weakness",
+   "source": "中医药学名词",
+   "wordNumber": "04.385",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "自觉肢体懈怠，软弱无力的表现。"
+  },
+  {
+   "cn": "脂肪丰度",
+   "en": "fatness",
+   "source": "畜牧学名词",
+   "wordNumber": "06.084",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_胴体及其品质",
+   "subjectName": "胴体及其品质",
+   "publishYear": "2020",
+   "definition": "胴体外表脂肪分布与肌肉断面所呈现的脂肪沉积丰富程度。"
+  },
+  {
+   "cn": "你见即我见",
+   "en": "what-you-see-is-what-I-see\",\"WYSIWIS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "所见即所得",
+   "en": "what-you-see-is-what-you-get\",\"WYSIWYG",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抓到就打住",
+   "en": "hold what youve got",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "白度",
+   "en": "whiteness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "平整度",
+   "en": "flatness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "铠甲",
+   "en": "harness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参考标石",
+   "en": "witness monument\",\"witness mark\",\"witness corner",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "杂种劣势",
+   "en": "hybrid weakness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "塑料白度",
+   "en": "plastic whiteness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "局部平整度",
+   "en": "site flatness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "叶面湿润度",
+   "en": "surface wetness",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "甲板淹湿",
+   "en": "deck wetness",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "本质失效",
+   "en": "inherent weakness failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "叶面湿润期",
+   "en": "surface wetness duration",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "目击证言,视觉证言",
+   "en": "eye witness testimony",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肥满度系数",
+   "en": "coefficient of fatness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "燥湿化痰",
+   "en": "drying the wetness-evil and eliminating phlegm",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "芳香化浊",
+   "en": "eliminating wetness-evil with drugs of fra-grant flavour",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "信以传信，疑以传疑",
+   "en": "Pass Down both What Is Credible and What Is Unverifiable",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "形而上",
+   "en": "What Is Above Form / The Metaphysical",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "形而下",
+   "en": "What Is Under Form / The Physical",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法生于义",
+   "en": "Laws Come from What Is Appropriate.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "岂因祸福避趋之",
+   "en": "What then is risk to me?",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "素位而行",
+   "en": "Do What Is Proper for Your Situation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "我手写我口",
+   "en": "I Write What I Want to Say.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "立主脑",
+   "en": "Focus on What Is Central to a Drama",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "见微知著",
+   "en": "Learning About What Is Forthcoming by Observing Tiny Clues",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "己所不欲，勿施于人",
+   "en": "Do Not Do to Others What You Do Not Want Others to Do to You.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "顺无不行，果无不彻",
+   "en": "When What You Say Is Justified, There Is Nothing You Cannot Accomplish. When You Act Decisively, You Will Succeed.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "未来三部曲（《必然》《失控》《科技想要什么》）（〔美〕凯文·凯利）",
+   "en": "The Future Trilogy — The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future; Out of Control: The New Biology of Machines, Social Systems, and the Economic World; What Technology Wants (Kevin Kelly, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弱点",
+   "en": "weakness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全索具",
+   "en": "harness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马具工",
+   "en": "harness maker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离坚白",
+   "en": "Separate Hardness from Whiteness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坚白相盈",
+   "en": "Solidity and Whiteness Fulfill Each Other.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共同抓好大保护，协同推进大治理",
+   "en": "to work together to protect and harness the Yellow River",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

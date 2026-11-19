@@ -1,0 +1,712 @@
+{
+ "key": "opinion function",
+ "term": "opinion function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:35:21+00:00",
+ "status": "ok",
+ "note": "variant=opinion function; 审定公布名词库=3315; 海峡两岸名词对照库=802; 其他来源数据库=120; 预公布名词数据库=111; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "意见",
+   "en": "opinions",
+   "source": "档案学名词",
+   "wordNumber": "02.01.066",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "兼具领导指导性、报请性、商洽性的特殊文件。适用于对重要问题提出见解和处理办法。可以根据具体情况和工作需要分别用作上行文、下行文和平行文。作为上行文,应按请示性公文的程序和要求办理。所提意见如涉及其他部"
+  },
+  {
+   "cn": "言论版",
+   "en": "opinion pages",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.257",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "由社论、读者来信、专栏文章等多种评论性文章汇聚成的专门刊载言论观点的报纸版面。"
+  },
+  {
+   "cn": "民意测验",
+   "en": "opinion poll",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.065",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "利用一定的统计技术测定个人和集团的习惯和爱好,显示一个群体或地区的态度和选择，以协助各级政府、政治和经济机构作出决策和决定的一种手段。西方从事民意测验的机构在政治经济关系上可分为三大类：独立的准公共公"
+  },
+  {
+   "cn": "意见领袖",
+   "en": "opinion leaders",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.016",
+   "subjectFullName": "新闻学与传播学_广告_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "活跃在人际沟通网络中，经常为他人提供信息、观点或建议，并对他人施加个人影响的人物。"
+  },
+  {
+   "cn": "舆论",
+   "en": "public opinion",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.116",
+   "subjectFullName": "新闻学与传播学_新闻理论_舆论学",
+   "subjectName": "舆论学",
+   "publishYear": "2022",
+   "definition": "公众关于现实社会以及社会中的各种现象、问题所表达的信念、态度、意见和情绪的总和。具有相对的一致性、强烈程度和持续性，对社会发展及有关事态的进程产生影响，其中混杂着理智和非理智的成分。"
+  },
+  {
+   "cn": "鉴定意见",
+   "en": "identification opinion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.214",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "鉴定人对案件中需要解决的专门性问题进行鉴定后做出的结论。"
+  },
+  {
+   "cn": "观点挖掘",
+   "en": "opinion mining",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0466",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "利用信息检索和自然语言处理技术判定文档中观点或者倾向的一种挖掘任务。"
+  },
+  {
+   "cn": "意见领袖",
+   "en": "opinion leader",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0210",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "在公共领域居于优势地位且所发表的意见对一般人或某些特定对象具有相当影响力的个人。"
+  },
+  {
+   "cn": "否定意见",
+   "en": "adverse opinion",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0427",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "在获取充分、适当的审计证据后，如果认为错报单独或汇总起来对财务报表的影响重大且具有广泛性时，审计师所发表的审计意见。"
+  },
+  {
+   "cn": "保留意见",
+   "en": "qualified opinion",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0426",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "当存在下列情形之一时，审计师所发表的审计意见：①在获取充分、适当的审计证据后，审计师认为错报单独或汇总起来对财务报表影响重大，但不具有广泛性；②审计师无法获取充分、适当的审计证据以作为形成审计意见的基"
+  },
+  {
+   "cn": "审计意见",
+   "en": "audit opinion",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0421",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师针对财务报表是否按照适用的会计准则和相关会计制度的规定编制，是否在重大方面公允反映了被审计单位的财务状况、经营成果和现金流量发表的专业意见。"
+  },
+  {
+   "cn": "非无保留意见",
+   "en": "modified opinion",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0425",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "保留意见、否定意见或无法表示意见的总称。"
+  },
+  {
+   "cn": "无保留意见",
+   "en": "unmodified opinion",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0422",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "当审计师认为财务报表在所有重大方面按照适用的财务报告编制基础进行编制并实现公允反映时发表的审计意见。"
+  },
+  {
+   "cn": "舆论",
+   "en": "public opinion",
+   "source": "心理学名词",
+   "wordNumber": "07.145",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "公众对某种普遍关注的社会事件或社会问题公开表达的一致意见。"
+  },
+  {
+   "cn": "社会舆论",
+   "en": "public opinion",
+   "source": "教育学名词",
+   "wordNumber": "01.206",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "在一定社会生活范围内，公众针对某种事物、现象和行为形成的看法、情绪和态度。"
+  },
+  {
+   "cn": "国际舆论",
+   "en": "world opinion",
+   "source": "世界历史名词",
+   "wordNumber": "01.0817",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "针对某具体问题引发的世界性官方或非官方的反响。"
+  },
+  {
+   "cn": "舆论的功能表现",
+   "en": "functional performance of public opinion",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.124",
+   "subjectFullName": "新闻学与传播学_新闻理论_舆论学",
+   "subjectName": "舆论学",
+   "publishYear": "2022",
+   "definition": "舆论以自在的方式，直接或间接地、明显或隐蔽地对舆论客体产生的影响。这种影响表现为各种舆论对客体相互作用的过程。"
+  },
+  {
+   "cn": "舆论领袖",
+   "en": "public opinion leader",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.051",
+   "subjectFullName": "新闻学与传播学_大众传播_受众",
+   "subjectName": "受众",
+   "publishYear": "2022",
+   "definition": "将大众传媒上的信息或个人掌握的材料、观点通过各种人际沟通的方式传递给其他社会成员的个体。对于大众传播而言，他们通常是活跃的受众，往往更多地接触大众传媒的信息；而对于那些不太活跃的受众而言，他们则通常是"
+  },
+  {
+   "cn": "舆论导向",
+   "en": "public opinion guidance",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.005",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "运用舆论影响人们的传播行为。"
+  },
+  {
+   "cn": "网络舆情",
+   "en": "internet public opinion",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.234",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "基于互联网为传播载体的社会公众对现实生活中某些热点、焦点问题所持的有较强影响力、倾向性的言论和观点。"
+  },
+  {
+   "cn": "民意,舆论",
+   "en": "public opinions",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "民意调查",
+   "en": "public opinion poll",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "平均评定评分",
+   "en": "mean opinion score",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "函数",
+   "en": "function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "函数",
+   "en": "function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功能主义，机能主义",
+   "en": "functionalism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "官能度",
+   "en": "functionality",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "官能度",
+   "en": "functionality",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "功能性",
+   "en": "functionality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功能基因组学",
+   "en": "functional genomics\",\"function genomics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲函数",
+   "en": "impulse function\",\"pulse function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "景观功能",
+   "en": "landscape function",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "群落功能",
+   "en": "community function",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统功能",
+   "en": "ecosystem function",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "贝塞尔函数",
+   "en": "Bessel function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "裁判意见",
+   "en": "opinion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舆论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "观点挖掘",
+   "en": "opinion mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共舆情监测",
+   "en": "public opinion monitoring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络意见领袖",
+   "en": "Internet opinion leader",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络舆情引导",
+   "en": "network public opinion guidance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "达人经济",
+   "en": "key opinion leader (KOL) economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可计算函数",
+   "en": "computable function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会舆论",
+   "en": "public opinion",
+   "source": "马克思主义",
+   "wordNumber": "03.0168",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会中多数成员基于一定需要和利益，通过言语、非言语形式，对社会生活中有争议的事件公开表达的态度、意见、要求、情绪，通过一定的传播途径，进行交流、碰撞、感染，整合而成的、具有强烈实践意向的表层集合意识，"
+  },
+  {
+   "cn": "意见领袖",
+   "en": "opinion leaders",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "活跃在人际沟通网络中，经常为他人提供信息、观点或建议，并对他人施加个人影响的人物。"
+  },
+  {
+   "cn": "民意测验",
+   "en": "public opinion poll",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "使用抽样调查方法了解公众舆论趋向的一种社会调查。"
+  },
+  {
+   "cn": "大众意见领袖理论",
+   "en": "popular opinion leader theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.9.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "假设受众行为通常受到通过社会网络传播的意见领袖选择的影响的理论，通常认为信息传播模式为两步模式，即大众传播到意见领袖，再到般受众的过程。"
+  },
+  {
+   "cn": "婚前医学检查意见",
+   "en": "premarital medical checkup opinion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "医疗机构基于综合检查结果，向服务对象提出的有关结婚和生育的建议。"
+  },
+  {
+   "cn": "食品安全舆情",
+   "en": "public opinions on food safety",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.18",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "对可能影响消费者健康的各类食品相关问题，在各种传播形态里呈现的意见、情绪、倾向等有可能形成舆论的苗头。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  },
+  {
+   "cn": "链接函数",
+   "en": "link function",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.101",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在广义线性模型中，将相应的预期值与模型中的线性预测变量相关联的函数。"
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "各种社会因素、成分以及由它们组成的各类社会构成物（各种社会结构、社会体制和机制），按其自身特定的性质及组合方式，对人与社会所发挥的种种可满足其需要的、有利的作用或功效。"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导最重要的功能。督导的过程是一个教育的过程，督导并不是简单地告诉被督导者做什么，而是要根据社会工作学习者的学习需要，通过教与学的互动，有计划、按步骤地引导被督导者的学习。"
+  },
+  {
+   "cn": "行政功能",
+   "en": "administrative function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于社会工作服务机构的行政运作所发挥的功能作用。在社会工作服务机构中，督导承担一定的行政职能，负责督促检查被督导对象的工作表现，从而保证机构的管理更为有效。"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于被督导对象在情绪和精神上所起的支持作用。督导员对于被督导者持接纳的态度，即承认被督导者的优点与限制，乐于见到被督导者的进步，并为这种发展进步创造一切必要的条件，是促进被督导者成长和有更"
+  },
+  {
+   "cn": "生产函数",
+   "en": "production function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在时间和技术条件一定的情况下，生产某种产品时投入的生产要素数量与生产出该产品的数量间的关系。"
+  },
+  {
+   "cn": "成本函数",
+   "en": "cost function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "用来表明生产给定产量与最低成本之间关系的函数"
+  },
+  {
+   "cn": "心肺功能",
+   "en": "cardiopulmonary function",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "心、肺及其所代表的循环系统、呼吸系统为身体活动提供足够氧气和养分的能力。"
+  },
+  {
+   "cn": "家庭功能",
+   "en": "family functions",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.21",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭对人类生存和社会生活所起的作用。一般认为家庭具有生产、消费、人口再生产、抚育和赡养等功能。"
+  },
+  {
+   "cn": "职能分离",
+   "en": "functional separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "为保证风险评估在科学上的独立性，将风险评估的职能活动与风险管理活动分开的工作原则。"
+  },
+  {
+   "cn": "功能显像",
+   "en": "functional imaging",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.7",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "利用显像方法获得机体或器官血流、生理或生化等功能状态图像的技术。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,802 @@
+{
+ "key": "certain zigzag quality",
+ "term": "certain zigzag quality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:33:02+00:00",
+ "status": "ok",
+ "note": "variant=certain zigzag quality; 审定公布名词库=1393; 海峡两岸名词对照库=300; 其他来源数据库=73; 预公布名词数据库=109; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "盘山曲线",
+   "en": "zigzag",
+   "source": "林学名词",
+   "wordNumber": "10.192",
+   "subjectFullName": "林学_森林工程_林区道路与桥涵",
+   "subjectName": "林区道路与桥涵",
+   "publishYear": "2016",
+   "definition": "之字形曲折盘绕上下的山区道路曲线。"
+  },
+  {
+   "cn": "必然事件",
+   "en": "certain event",
+   "source": "数学名词",
+   "wordNumber": "09.0012",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "曲桥",
+   "en": "zigzag bridge",
+   "source": "风景园林名词",
+   "wordNumber": "07.0061",
+   "subjectFullName": "风景园林_风景园林建筑_类型与结构选型",
+   "subjectName": "类型与结构选型",
+   "publishYear": "2025",
+   "definition": "从平面上来看，桥身与水面平行，但多有曲折，呈多段弯折形式的桥。一般有三曲、四曲、五曲乃至九曲之分，大多架设在园林水池之上，以分隔水面使之不显得单调，又是园林一景，同时也让游园的人能够更亲近池水。"
+  },
+  {
+   "cn": "锯齿形螺旋",
+   "en": "zigzag screw",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1827",
+   "subjectFullName": "化工（八）_化工设备_固体物料输送设备",
+   "subjectName": "固体物料输送设备",
+   "publishYear": "2021",
+   "definition": "螺旋叶片边缘为锯齿状的螺旋。"
+  },
+  {
+   "cn": "锯齿型位错",
+   "en": "zigzag dislocation",
+   "source": "物理学名词",
+   "wordNumber": "08.0493",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "锯齿型纳米管",
+   "en": "zigzag nanotube",
+   "source": "物理学名词",
+   "wordNumber": "08.2965",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "锯齿链",
+   "en": "zigzag chain",
+   "source": "化学名词",
+   "wordNumber": "05.0826",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "空间构型的平面投影为锯齿状弯曲的链。"
+  },
+  {
+   "cn": "锯齿形投影式",
+   "en": "zigzag projection",
+   "source": "化学名词",
+   "wordNumber": "02.0678",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机立体化学",
+   "subjectName": "有机立体化学",
+   "publishYear": "2016",
+   "definition": "主链画成锯齿形在纸平面上，在纸平面的上方或下方表示取代基的表达1个无环分子的立体化学投影式。<img src='/root/syzx/static/spz/huaxue2.02.0678.1.png'"
+  },
+  {
+   "cn": "锯齿扫描",
+   "en": "zigzag scanning",
+   "source": "药学名词",
+   "wordNumber": "06.399",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "双波长薄层扫描仪的一种扫描方式，展开后的薄层斑点经锯齿扫描能够消除斑点形状不规则引起的误差，从而获得满意的定量结果。"
+  },
+  {
+   "cn": "锯齿状切口",
+   "en": "zigzag incision",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0091",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "锯齿形飞行",
+   "en": "zigzag flight",
+   "source": "昆虫学名词",
+   "wordNumber": "07.062",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "成虫在逃避天敌或对性信息素作出反应时的不断急转弯飞行。"
+  },
+  {
+   "cn": "Z形[操纵]试验",
+   "en": "zigzag test",
+   "source": "船舶工程名词",
+   "wordNumber": "03.470",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "操舵舵角随艏向角的改变而变化使船舶的航线近似Ｚ形的操纵性试验。主要用以评估船的航向改变性能。"
+  },
+  {
+   "cn": "曲折形联结",
+   "en": "zigzag connection",
+   "source": "电气工程名词",
+   "wordNumber": "01.628",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "折冲水流",
+   "en": "zigzag current",
+   "source": "水利科学技术名词",
+   "wordNumber": "03.136",
+   "subjectFullName": "水利科学技术_水力学、河流动力学、海岸动力学_水力学（水利）",
+   "subjectName": "水力学（水利）",
+   "publishYear": "1997",
+   "definition": "天然河道或过水建筑物下游河渠断面上流量分布极不均匀，主流偏离原流向、左右摇摆、冲击两岸的水流。"
+  },
+  {
+   "cn": "折返坑线",
+   "en": "zigzag ramp",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.396",
+   "subjectFullName": "煤炭科学技术_煤矿开采_露天开采",
+   "subjectName": "露天开采",
+   "publishYear": "1996",
+   "definition": "运输设备运行中按“之”字形改变运行方向的坑线。"
+  },
+  {
+   "cn": "曲折机动",
+   "en": "zigzag manoeuvre",
+   "source": "航海科技名词",
+   "wordNumber": "05.0013",
+   "subjectFullName": "航海科学技术_军事航海",
+   "subjectName": "军事航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "曲折滤波器",
+   "en": "zigzag filter",
+   "source": "电子学名词",
+   "wordNumber": "03.416",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "特定常规武器",
+   "en": "certain conventional weapon",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.369",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "具有过分伤害力或滥杀滥伤作用的常规武器。"
+  },
+  {
+   "cn": "折返式井底车场",
+   "en": "zigzag-type pitbottom",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.026",
+   "subjectFullName": "煤炭科学技术_矿井建设_井巷工程设计",
+   "subjectName": "井巷工程设计",
+   "publishYear": "1996",
+   "definition": "矿车列车在同一条巷道的两条或两条以上轨道折返运行的井底车场。"
+  },
+  {
+   "cn": "几乎必然",
+   "en": "almost sure,almost certain",
+   "source": "数学名词",
+   "wordNumber": "09.0049",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "锯齿链",
+   "en": "zigzag chain",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "锯齿形投影式",
+   "en": "zigzag projection",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "之字形线路",
+   "en": "zigzag route",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "锯齿形天线",
+   "en": "zigzag antenna",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "曲折滤波器",
+   "en": "zigzag filter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "之形带,Z形带",
+   "en": "zigzag ribbon",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "曲折机动",
+   "en": "zigzag maneuvre",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "Z形[操纵]试验",
+   "en": "zigzag test",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "锯齿扫描",
+   "en": "zigzag scanning",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "锯齿形飞行",
+   "en": "zigzag flight",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "变Z形试验",
+   "en": "modified zigzag maneuver test",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "污染物达标排放",
+   "en": "pollutant discharge under certain standard",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "Z型DNA",
+   "en": "Z-form DNA\",\"zigzag DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Z型DNA",
+   "en": "Z-form DNA\",\"zigzag DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "出票后若干日付款的汇票",
+   "en": "bill drawn payable at certain time after date",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "见票后若干日付款的汇票",
+   "en": "bill drawn payable at certain time after sight",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "曲折线慢波线",
+   "en": "folded slow wave line\",\"zigzag slow wave line",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "品质",
+   "en": "quality\",\"Q",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空气质量",
+   "en": "air quality",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量",
+   "en": "data quality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空气质量指数",
+   "en": "Air Quality Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量标准",
+   "en": "data quality standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量模型定义",
+   "en": "quality model definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高质量发展",
+   "en": "high-quality development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据质量评价",
+   "en": "scientific data quality evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST R 55387-2012 互联网接入服务质量 质量指标》",
+   "en": "GOST R 55387-2012 Quality of the Internet access service — Quality indices",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球质量溯源体系",
+   "en": "global quality tracking system (GQTS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "提高脱贫质量",
+   "en": "enhancing the quality of poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全国高质量发展样板区",
+   "en": "national pacesetter of high-quality development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "程器",
+   "en": "Assessment of One's Overall Qualities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情兼雅怨",
+   "en": "A Mixed Quality of Grace and Sorrow",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境质量管理公共服务系统",
+   "en": "public service system for environmental quality management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人才强国战略",
+   "en": "the Strategy on Developing a Quality Workforce",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提高救治水平",
+   "en": "to improve the quality of medical treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《LY/T 2921-2017 林业数据质量 基本要素》",
+   "en": "LY/T 2921-2017 Forestry data quality — Base elements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 25000.12-2017 系统与软件工程 系统与软件质量要求和评价（SQuaRE） 第12部分：数据质量模型》",
+   "en": "GB/T 25000.12-2017 Systems and software engineering — Systems and software quality requirement and evaluation (SQuaRE) — Part 12: Data quality model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 36344-2018 信息技术 数据质量评价指标》",
+   "en": "GB/T 36344-2018 Information technology — Evaluation indicators for data quality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质",
+   "en": "quality",
+   "source": "马克思主义",
+   "wordNumber": "01.0076",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“量”相对。一事物与其他事物相区别的内在规定性。事物的质是由事物内部的特殊矛盾决定的。质是认识事物的基础。"
+  },
+  {
+   "cn": "品质因数",
+   "en": "quality factor",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "依据授予物质能量的带电粒子的相对生物学效应，对特定位置上软组织吸收剂量施加修正的一个权重。"
+  },
+  {
+   "cn": "品质指数",
+   "en": "quality index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.34",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "X辐射中，对10 cm×10 cm的辐射野，在体模内沿辐射束轴于20 cm深度处和10 cm深度处所测量的吸收剂量之比值。"
+  },
+  {
+   "cn": "质量管理",
+   "en": "quality management",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "在质量方面的指挥和控制活动，通常包括制定质量方针和质量目标以及质量策划、质量控制、质量保证和质量改进。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "质量管理的一部分，为满足质量要求所必需的计划和系统措施。"
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "质量管理的一部分，为满足规定的质量要求所采取的技术措施和活动。"
+  },
+  {
+   "cn": "社会质量",
+   "en": "social quality",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "测量公民日常生活是否达到一个社会可接受水准的指标及标准，民众在提升福祉和个人潜能的条件下，能够参与社区经济社会生活的程度。"
+  },
+  {
+   "cn": "质量规制",
+   "en": "quality regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府对医疗卫生服务的可靠性、遵照标准的程度及其结果的一种约束或限制。一般通过许可证制度、合格鉴定和审查制度等形式完成。"
+  },
+  {
+   "cn": "睡眠质量",
+   "en": "sleep quality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "评定睡眠过程及其效果的综合指标。主要包括睡眠时间、睡眠过程干扰、睡眠效果、对睡眠质量的整体感受等方面。"
+  },
+  {
+   "cn": "质量管理",
+   "en": "quality management",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测质量管理”。又称“妇幼健康监测质量管理”。确定妇幼卫生监测、服务或项目的质量方针、目标和职责，并通过明确的质量控制和评价方法来实现对服务或流程中涉及效率、效果、绩效、问责、结果和其他"
+  },
+  {
+   "cn": "质量评价",
+   "en": "quality evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测质量评价”。又称“妇幼健康监测质量评价”。应用数据质量指标对妇幼健康数据资料的真实性、完整性、准确性等进行评审和鉴定的过程。"
+  },
+  {
+   "cn": "职业素养",
+   "en": "professional quality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "从业人员所具有的职业品质，是从业人员对于职业活动的知、情、意、信和行的统一。包括职业知识和技能、职业思想道德、职业行为习惯等方面。"
+  },
+  {
+   "cn": "食品质量",
+   "en": "food quality",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.2",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品的一组固有特性满足要求的程度。固有特性为顾客合法期望与生产经营者须履行的，如感官和营养等；满足要求为明示的（食品标签和说明书）、隐含的（无缺陷、欺诈和掺假）和必须履行的（法律法规及强制性标准）。"
+  },
+  {
+   "cn": "产品质量",
+   "en": "product quality",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.32",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "产品本身具有的满足顾客要求或技术要求的固有特征和特性"
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.3.3",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "在健康教育/健康促进计划实施的过程中，采用特定的方法和手段对健康教育/健康促进的实施过程进行监督，了解实施过程，保证实施效果等的活动。"
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control, QC",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.70",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "用统计的方法对产品进行抽样检验，根据抽检产品质量的检验结果，对产品质量及其变化趋势做出统计判断和估计，及时发现存在的或隐含的问题，采取有效改进措施使生产过程始终处于统计控制状态。"
+  },
+  {
+   "cn": "质量控制人员",
+   "en": "quality control personnel",
+   "source": "消毒学",
+   "wordNumber": "5.1.10.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业中从事质量控制的人员。"
+  },
+  {
+   "cn": "质量控制人员",
+   "en": "quality control people",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.4",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "经机构授权，从事质量控制的规划、质量管理体系的建立、实施和保持、质量改进和质量评价的专业技术和管理人员。"
+  },
+  {
+   "cn": "质量控制负责人",
+   "en": "quality control manager",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "由放射卫生技术服务机构任命，负责质量管理体系的建立、实施和维护，并组织对技术服务全过程质量控制和管理的人员。"
+  },
+  {
+   "cn": "素质教育",
+   "en": "quality-oriented education",
+   "source": "社会学名词",
+   "wordNumber": "3.16.4.4",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年政策",
+   "subjectName": "青少年政策",
+   "publishYear": "2025",
+   "definition": "注重学生素质的全面发展，不局限于考试成绩优劣，以让学生能发挥个人潜能为目标的教育制度。与“应试教育”相对。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

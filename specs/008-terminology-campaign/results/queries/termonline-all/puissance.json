@@ -1,0 +1,122 @@
+{
+ "key": "puissance",
+ "term": "puissance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:46:34+00:00",
+ "status": "ok",
+ "note": "variant=puissance; 审定公布名词库=6; 海峡两岸名词对照库=4; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "公害",
+   "en": "public nuisance",
+   "source": "地理学名词",
+   "wordNumber": "09.089",
+   "subjectFullName": "地理学_环境地理学",
+   "subjectName": "环境地理学",
+   "publishYear": "2006",
+   "definition": "因环境污染造成公众生活环境恶化并引起人群大量发病或死亡的事件。"
+  },
+  {
+   "cn": "隔离障碍",
+   "en": "sovereignty nuisance",
+   "source": "公路交通科技名词",
+   "wordNumber": "10.088",
+   "subjectFullName": "公路交通科学技术_公路环境保护",
+   "subjectName": "公路环境保护",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "冗余参数",
+   "en": "nuisance parameter",
+   "source": "数学名词",
+   "wordNumber": "09.0461",
+   "subjectFullName": "数学_概率论_数理统计_样本·统计量",
+   "subjectName": "样本?统计量",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "公路交通公害",
+   "en": "highway traffic nuisance",
+   "source": "公路交通科技名词",
+   "wordNumber": "10.004",
+   "subjectFullName": "公路交通科学技术_公路环境保护",
+   "subjectName": "公路环境保护",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "公害",
+   "en": "public disaster,public nuisance",
+   "source": "水产名词",
+   "wordNumber": "11.007",
+   "subjectFullName": "水产_渔业环境保护",
+   "subjectName": "渔业环境保护",
+   "publishYear": "2002",
+   "definition": "由于人类活动引起的环境污染和破坏对公众安全、健康、生命和生活造成的危害。"
+  },
+  {
+   "cn": "爆破公害",
+   "en": "public nuisance from blasting",
+   "source": "冶金学名词",
+   "wordNumber": "02.0494",
+   "subjectFullName": "冶金学_采矿_凿岩爆破",
+   "subjectName": "凿岩爆破",
+   "publishYear": "2019",
+   "definition": "矿山爆破所造成的地表振动、空气冲击波、飞石和噪声等对社会形成的公害。"
+  },
+  {
+   "cn": "低率关税",
+   "en": "nuisance tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "污染公害",
+   "en": "pollution nuisance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公害",
+   "en": "public nuisance",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "公害动物防治",
+   "en": "nuisance animal control",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "公害",
+   "en": "public nuisance",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.4",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "由于人类活动污染和破坏环境，对公众的健康、安全、生命、公私财产及生活舒适性等造成的危害。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

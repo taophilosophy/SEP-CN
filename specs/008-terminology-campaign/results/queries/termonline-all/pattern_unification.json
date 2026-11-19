@@ -1,0 +1,682 @@
+{
+ "key": "pattern unification",
+ "term": "Pattern unification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:15:53+00:00",
+ "status": "ok",
+ "note": "variant=Pattern unification; 审定公布名词库=2225; 海峡两岸名词对照库=429; 其他来源数据库=64; 预公布名词数据库=44; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "合一",
+   "en": "unification",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0472",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "（1）在符号运算中通过变量置换（称为合一子）将两个或两组逻辑原子表达式置换成相同的形式。（2）在合一文法中表征语言对象的特征结构间的一种运算，用来检查特征结构中属性是否匹配以及在属性匹配的前提下进行特"
+  },
+  {
+   "cn": "合一算法",
+   "en": "unification algorithm,unification",
+   "source": "语言学名词",
+   "wordNumber": "11.135",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "在语言单位的复杂特征集之间进行的一种运算。常用来检查复杂特征集中的属性是否匹配，或进行特征归并。"
+  },
+  {
+   "cn": "大统一",
+   "en": "grand unification",
+   "source": "物理学名词",
+   "wordNumber": "09.1224",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "意大利统一运动",
+   "en": "Italian Unification",
+   "source": "世界历史名词",
+   "wordNumber": "03.0681",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_意大利",
+   "subjectName": "意大利",
+   "publishYear": "2012",
+   "definition": "19世纪，把意大利半岛上各个政权合并成一个统一的意大利国家的政治和社会运动。"
+  },
+  {
+   "cn": "统一名词术语",
+   "en": "unification of terminology",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.020",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对稿件的名词术语进行核对，使之符合规范的编辑加工活动。"
+  },
+  {
+   "cn": "基于合一的文法",
+   "en": "unification-based grammar",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0467",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一类以自然语言为描述对象的形式文法系统。以特征结构作为语言知识的描述手段，以合一作为语言知识的运算手段，如功能合一文法、词汇功能文法以及中心词驱动的短语结构文法等。"
+  },
+  {
+   "cn": "德国统一",
+   "en": "Unification of Germany",
+   "source": "世界历史名词",
+   "wordNumber": "01.0786",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "1864-1871年，普鲁士经过三次王朝战争，最终将德意志诸邦联合成一个统一国家的过程。"
+  },
+  {
+   "cn": "基于合一的语法",
+   "en": "unification based grammar",
+   "source": "语言学名词",
+   "wordNumber": "11.182",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "一类语法理论的合称。在语言描写、分析机制和操作原则上以合一的思想为基础，语句分析的过程是对递归定义的特征结构进行合一运算的过程。广泛应用于自然语言处理。包括功能合一语法、范畴合一语法等。"
+  },
+  {
+   "cn": "功能合一语法",
+   "en": "functional unification grammar",
+   "source": "语言学名词",
+   "wordNumber": "11.181",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "一种用于自然语言处理的语法理论。其中词项、句法规则、语义信息以及句子的结构和功能都采用复杂特征集来表示，使用合一的方法对复杂特征集进行运算。"
+  },
+  {
+   "cn": "区域联盟化模型",
+   "en": "regional unification model",
+   "source": "地理学名词",
+   "wordNumber": "25.168",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "阐述区域各专业化亚区形成一体化经济体系和政治体系的经济地理模型及学说。"
+  },
+  {
+   "cn": "功能合一文法",
+   "en": "functional unification grammar,FUG",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0468",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "合一文法的一种。采用统一的特征描述机制描述不同粒度的语言对象，包括词法、句法、语义等信息及它们之间的组合规律。"
+  },
+  {
+   "cn": "说明的统一模型",
+   "en": "unification model of explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.109",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "由M. 弗里德曼（M. Friedman）和P. 基切尔（P. Kitcher）提出。认为科学说明是通过科学理论把不同的现象统一起来的。"
+  },
+  {
+   "cn": "四种相互作用的统一",
+   "en": "unification of four interactions",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.350",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "在电弱理论、量子色动力学以及包括希格斯子在内的探测的基础上，基于粒子物理标准模型的电弱统一与强、弱、电大统一取得了一定的进展，但以超对称性统一四种相互作用的超弦理论等万有理论的构建则任重道远。"
+  },
+  {
+   "cn": "模[样]",
+   "en": "pattern",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.167",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_铸造工艺设计及工艺装备",
+   "subjectName": "铸造工艺设计及工艺装备",
+   "publishYear": "2021",
+   "definition": "由木材、金属或其他材料制成，用来形成铸型型腔的工艺装备。"
+  },
+  {
+   "cn": "斑图",
+   "en": "pattern",
+   "source": "物理学名词",
+   "wordNumber": "11.0707",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "模式",
+   "en": "pattern",
+   "source": "物理学名词",
+   "wordNumber": "01.0292",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "模式",
+   "en": "pattern",
+   "source": "药学名词",
+   "wordNumber": "06.156",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "对某些感兴趣的客体的定量或结构的描述。"
+  },
+  {
+   "cn": "图样",
+   "en": "pattern",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.647",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "用于填充某一图形区域的内部，或者用来表示点或者线的一种图形样式。"
+  },
+  {
+   "cn": "模式",
+   "en": "pattern",
+   "source": "语言学名词",
+   "wordNumber": "11.099",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "用计算机处理的物体、图像、语音、字符串等信息的抽象形式。"
+  },
+  {
+   "cn": "卍字纹",
+   "en": "卍 pattern",
+   "source": "风景园林名词",
+   "wordNumber": "11.0317",
+   "subjectFullName": "风景园林_风景园林艺术_装饰纹样",
+   "subjectName": "装饰纹样",
+   "publishYear": "2025",
+   "definition": "中国古代吉祥纹样。以“卍”字及其变形图案组合而成。卍原为古代的一种符咒、护符或宗教标志，通常被认为是太阳或火的象征。后来卍运用于佛教，象征慧根开启、觉悟光明和吉祥如意的护符，代表功德圆满。卍字纹有左旋"
+  },
+  {
+   "cn": "合一",
+   "en": "unification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "泛合一",
+   "en": "universal unification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合一部件",
+   "en": "unification unit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义合一",
+   "en": "semantic unification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区域联盟化模型",
+   "en": "regional unification model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "基于合一[的]语法",
+   "en": "unification-based grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "依存关系合一语法",
+   "en": "dependency unification grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "型[式]",
+   "en": "pattern",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模式",
+   "en": "pattern",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "图样",
+   "en": "pattern",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "模样",
+   "en": "pattern",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "模式",
+   "en": "pattern",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "带型",
+   "en": "banding pattern",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "模式形成，图式形成",
+   "en": "pattern formation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "染色体组型",
+   "en": "chromosome pattern",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "图式形成（=模式形成）",
+   "en": "pattern formation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分布格局",
+   "en": "distribution pattern",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "格局分析",
+   "en": "pattern analysis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "景观格局",
+   "en": "landscape pattern",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间格局",
+   "en": "spatial pattern",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "队形",
+   "en": "pattern",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "池中队形",
+   "en": "pool pattern",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "漂浮队形",
+   "en": "floating pattern",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单套比赛",
+   "en": "competition III\",\"pattern competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "声律",
+   "en": "Tonal and Rhythmical Patterns",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国土空间开发格局",
+   "en": "the national spatial development pattern",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气流流型",
+   "en": "air pattern",
+   "source": "消毒学",
+   "wordNumber": "1.8.22",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "对室内空气的流动形态和分布进行的合理设计。"
+  },
+  {
+   "cn": "行为模式",
+   "en": "behavior pattern",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "多数人公认和遵守的楷模行为指标和规则化的行为体系，是一种社会制约手段。"
+  },
+  {
+   "cn": "生长模式",
+   "en": "growth pattern",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "不同器官、系统生长变化类型。"
+  },
+  {
+   "cn": "膳食模式",
+   "en": "dietary pattern",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.1.4.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "以整体膳食成分组合，而不是以单一食物和营养物质的方式对膳食进行评估描述的方式。"
+  },
+  {
+   "cn": "婚姻形态",
+   "en": "marriage pattern",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0249",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "婚姻的缔结和成立由于风俗、伦理道德和法律的不同而有多种形式，从古到今主要有：掠夺婚、买卖婚、服役婚、表亲婚、转房婚、交换婚、指腹婚、童养媳、同意婚等。"
+  },
+  {
+   "cn": "行为模式",
+   "en": "behavior pattern",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.7",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "个体或群体在有动机、有目标的活动中表现出的有规律和有特点的日常活动结构、内容和行为系列。是行为内容、方式的定型化，在行动时遵循一系列方法。"
+  },
+  {
+   "cn": "教养方式",
+   "en": "parenting patterns",
+   "source": "社会学名词",
+   "wordNumber": "3.16.5.10",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_代际",
+   "subjectName": "代际",
+   "publishYear": "2025",
+   "definition": "父母在促进和支持孩子心理成长、情绪发展、社会适应、智力发展等实践活动中体现出来的理念、策略和方法的总称。"
+  },
+  {
+   "cn": "定位模板",
+   "en": "fixed pattern plate",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.27",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "保证粒籽源在植入孔内注入方向不改变的模板。"
+  },
+  {
+   "cn": "差序格局",
+   "en": "differential order pattern",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会中以“已”为中心，根据亲属关系的原则外推而形成的关系网络。犹如石子入水引起的波纹一样。这是费孝通提出的描述中国传统社会结构特征的概念，与“团体格局”相对。这种关系网络因远近亲疏而有不同适用"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.38",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "识别病原体(或某些内源性成分)相关分子模式的一类受体分子，介导固有免疫应答。"
+  },
+  {
+   "cn": "卫生筹资模式",
+   "en": "health financing pattern",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.2",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "卫生资金筹集的不同来源，主要包括税收筹资、社会健康保险筹资、私立健康保险筹资、使用者付费筹资、社区卫生筹资。"
+  },
+  {
+   "cn": "平衡膳食模式",
+   "en": "balanced dietary pattern",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "根据居民膳食营养素参考摄入量、居民营养与健康状况所推荐的食物种类和比例，能最大限度地满足不同年龄阶段健康人群的生理和营养健康需要而设计的膳食。"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.15",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "识别固有分子模式，即病原体相关分子模式和损伤相关分子模式的专一性受体，包括Toll 样受体(TLR)、NOD 样受体(NLR)、RIG 样受体(RLR)和C 型凝集素受体(CLR)，以及甘露糖受体、清"
+  },
+  {
+   "cn": "文化模式",
+   "en": "patterns of culture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0557",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家家本尼迪克特（Ruth Benedict）在《文化模式》一书中提出的概念，指一套内部要素相互关联的价值母体，这个价值母体对于外来文化特质有选择、驯化和整合能力，整合的形式就是该文化的模式。"
+  },
+  {
+   "cn": "文化模式",
+   "en": "patterns of culture",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.8",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "组成一个特定文化的文化丛和文化特质的体制，也是一种独特文化体系的统称，由研究北美区域文化和印第安部落文化的美国人类学家博厄斯(F.Boas）提出。"
+  },
+  {
+   "cn": "生长轨迹模式",
+   "en": "growth trajectory patterns",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "用统计学方法区分不同个体或群体儿童少年生长发育速率的方式。"
+  },
+  {
+   "cn": "斯卡蒙生长模式",
+   "en": "Scammon's growth pattern",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "美国解剖学家理查德·斯卡蒙提出的人体器官、系统的四种生长水平曲线类型。包括一般型、淋巴系统型、神经系统型和生殖系统型。"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "民族国家或世界某一地区根据自己的基本国情（或地区情况）和文化传统形成的具有自身历史和文明特色的社会发展道路、社会运行机制和社会管理的一定式样。"
+  },
+  {
+   "cn": "人口再生产类型",
+   "en": "pattern of population reproduction",
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "与一定生产力的发展阶段相适应的人口出生率和人口死亡率，以及人口自然增长率三者相结合而形成的人口再生产的特征，依据这些特征人口再生产区分为不同类型。"
+  },
+  {
+   "cn": "胃肠型",
+   "en": "gastric and intestinal pattern",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.10",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "胃肠道发生梗阻时，梗阻近端的胃或肠段饱满而隆起，可显出各自轮廓的体征。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

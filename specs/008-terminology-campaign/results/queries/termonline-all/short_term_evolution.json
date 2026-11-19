@@ -1,0 +1,762 @@
+{
+ "key": "short-term evolution",
+ "term": "short-term evolution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:18:12+00:00",
+ "status": "ok",
+ "note": "variant=short-term evolution; 审定公布名词库=3215; 海峡两岸名词对照库=1132; 其他来源数据库=487; 预公布名词数据库=261; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "短时授精",
+   "en": "short-term insemination",
+   "source": "生殖医学名词",
+   "wordNumber": "6.031",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "将精子和卵母细胞共同孵育较短时间（一般为4～6h）的一种体外受精方式。主要目的是减少与精子共孵育的不良影响，或尽早发现受精失败的卵母细胞，以进行补救性卵胞质内单精子注射。"
+  },
+  {
+   "cn": "短期均匀性",
+   "en": "short term uniformity",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.02.046",
+   "subjectFullName": "编辑与出版学_音像复制_磁带复制",
+   "subjectName": "磁带复制",
+   "publishYear": "2022",
+   "definition": "重放磁带上已录规定信号时，持续时间在0.04～1秒的放音输出电平的连续重现性变化。"
+  },
+  {
+   "cn": "短期订阅",
+   "en": "short term subscription",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.082",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "订阅时间较短的订购出版物的行为。"
+  },
+  {
+   "cn": "短期放牧",
+   "en": "short term grazing ",
+   "source": "草学名词",
+   "wordNumber": "2.0516",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "短时程记忆",
+   "en": "short-term memory",
+   "source": "行为医学名词",
+   "wordNumber": "3.116",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "外界信息短暂地进入脑内，在大脑感觉区储存时间很短的记忆形式。包括感觉记忆和第一级记忆。"
+  },
+  {
+   "cn": "近期疗效",
+   "en": "short-term effect",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.334",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科肿瘤治疗后随访",
+   "subjectName": "妇科肿瘤治疗后随访",
+   "publishYear": "2022",
+   "definition": "接受某种治疗的患者或某病患者中，接受治疗30天内的疗效。"
+  },
+  {
+   "cn": "短期规划",
+   "en": "short-term planning",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.011",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_发展规划",
+   "subjectName": "发展规划",
+   "publishYear": "2021",
+   "definition": "对较短时期内的经济、社会活动进行有目标的事先协调与控制的形式。通常指为期1年的年度计划。"
+  },
+  {
+   "cn": "短时程记忆",
+   "en": "short-term memory",
+   "source": "生理学名词",
+   "wordNumber": "03.710",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近期预后",
+   "en": "short-term prognosis",
+   "source": "器官移植学名词",
+   "wordNumber": "04.011",
+   "subjectFullName": "器官移植学_供器官的获取与保存",
+   "subjectName": "供器官的获取与保存",
+   "publishYear": "2020",
+   "definition": "疾病演变近期可能产生的预后。"
+  },
+  {
+   "cn": "近期并发症",
+   "en": "short-term complication",
+   "source": "器官移植学名词",
+   "wordNumber": "04.014",
+   "subjectFullName": "器官移植学_供器官的获取与保存",
+   "subjectName": "供器官的获取与保存",
+   "publishYear": "2020",
+   "definition": "疾病演变近期可能产生的并发症。"
+  },
+  {
+   "cn": "短时记忆",
+   "en": "short-term memory",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.064",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "信息呈现后保持1 min以内的记忆过程。为信息进入长时记忆的过渡阶段，容量有限，编码、提取皆有其特点。"
+  },
+  {
+   "cn": "近期疗效",
+   "en": "short-term effect",
+   "source": "核医学名词",
+   "wordNumber": "05.0078",
+   "subjectFullName": "核医学_核医学治疗_内照射治疗",
+   "subjectName": "内照射治疗",
+   "publishYear": "2018",
+   "definition": "接受治疗后30天内的疗效。"
+  },
+  {
+   "cn": "短期计划",
+   "en": "short-term plan",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0063",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "通常指时限为1年或1年以内的计划。"
+  },
+  {
+   "cn": "短程心理治疗",
+   "en": "short-term psychotherapy",
+   "source": "心理学名词",
+   "wordNumber": "15.101",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "治疗时间一到四周或与短于长程心理治疗的咨询形式。"
+  },
+  {
+   "cn": "短期毒性",
+   "en": "short term toxicity",
+   "source": "药学名词",
+   "wordNumber": "07.273",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "一次或24小时内多次接触外源化学物后，在短期内所产生的毒性效应。"
+  },
+  {
+   "cn": "短期计划",
+   "en": "short-term plan",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "一般指年度计划，是中期计划的具体实施计 划。"
+  },
+  {
+   "cn": "短期记忆",
+   "en": "short-term memory",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.190",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "对信息的储存时间较短，信息储存的容量有限的记忆类型。是大脑前额叶皮质功能的体现。"
+  },
+  {
+   "cn": "短期刚度",
+   "en": "short-term stiffness",
+   "source": "土木工程名词",
+   "wordNumber": "04.147",
+   "subjectFullName": "土木工程_结构工程_混凝土结构",
+   "subjectName": "混凝土结构",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "短期培养",
+   "en": "short term culture",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.269",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "短期计划",
+   "en": "short term planning",
+   "source": "自动化名词",
+   "wordNumber": "06.058",
+   "subjectFullName": "自动化科学技术_经济控制与生物控制论_经济控制",
+   "subjectName": "经济控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "短期存储",
+   "en": "short term storage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "短期保险",
+   "en": "short-term insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期贷款",
+   "en": "short-term loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期负债",
+   "en": "short-term liability",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期公债",
+   "en": "short-term bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期合同",
+   "en": "short-term contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期汇票",
+   "en": "short-term bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期借款",
+   "en": "short-term borrowing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期票据",
+   "en": "short-term note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期收益率",
+   "en": "short-term yield",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期投资",
+   "en": "short-term investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期信贷",
+   "en": "short-term credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期有价证券",
+   "en": "short-term security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期债权",
+   "en": "short-term claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期债务",
+   "en": "short-term debt",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期资本",
+   "en": "short-term capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期资产",
+   "en": "short-term asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期资金融通",
+   "en": "short-term financing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期调度",
+   "en": "short-term scheduling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短期毒性",
+   "en": "short term toxicity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "长短期记忆",
+   "en": "long short-term memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体操短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短时记忆",
+   "en": "short-term memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑对外界信息进行加工、编码、短暂保持（1分钟以内）的记忆过程。"
+  },
+  {
+   "cn": "短期暴露",
+   "en": "short-term exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.19",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "人或实验动物对某种因素短期内多次或连续暴露的情形"
+  },
+  {
+   "cn": "短期生产函数",
+   "en": "short-term production function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在生产既定产品时，技术条件和固定投入（通常是资本）一定时，一种可变投入（通常是劳动）与可能生产的最大产量间的关系。"
+  },
+  {
+   "cn": "短期多次摄入",
+   "en": "multiple intake in short term",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.14",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在一个控制周期内（如一个季度）发生多次摄入同一放射性核素的情况。此时期吸收率呈不连续的骤升速止状态，在组织内放射性核素含量连续地速升缓降。"
+  },
+  {
+   "cn": "人工流产近期并发症",
+   "en": "short-term complication of abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.8.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "由于人工流产操作或受术对象的特殊身体状况，在人工流产手术过程中或术后1个月内发生人工流产不全、出血、感染、脏器损伤或继续妊娠等病症。"
+  },
+  {
+   "cn": "天演",
+   "en": "evolution",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "通过自由竞争，社会和群体进一步适应环境，产生有利于物种、智力和精神的变异，发展出更高阶段的现象。严复译自赫胥黎《进化论与伦理学》中的evolution，但是综合了斯宾塞的社会进化论和儒家的体用、气、神"
+  },
+  {
+   "cn": "国际估计短期摄入量",
+   "en": "international estimated short-term intake, IESTI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "用来预测农残的短期摄入量，基本假设是每人每天的食物消费量较高，食品中的农残量是田间监管试验的最大残留值，同时考虑了食品可食部分的残留量以及JMPR 确定的用于估计膳食摄入量的残留物成分。"
+  },
+  {
+   "cn": "社会演化",
+   "en": "social evolution",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会被认为是像生物有机体那样合乎规律地由简单到复杂、由低级向高级发展。一种把生物进化概念应用于社会研究，进而解释社会变迁与发展的社会学概念。"
+  },
+  {
+   "cn": "单线进化论",
+   "en": "unilateral evolution",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "认为人类所有文化基于单一的发展路线，并以同样的发展模式划分不同的发展阶段进行排序的理论。这一理论的代表有拉伯克(J.Lubbock）、马瑞特(Robert R.Marett）等。"
+  },
+  {
+   "cn": "普遍进化",
+   "en": "general evolution",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "人类文化发展为特点的总体变化模式。表现为由简单到复杂的趋向，强调演进的动因在于技术进步和人类摄取能量的不断提高而发展的模式。与“单线进化”、“多线进化”相对。"
+  },
+  {
+   "cn": "一般进化",
+   "en": "general evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0581",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "“特殊进化”的对称。由美国人类学家、新进化主义学派的代表人物塞维斯（Elman RogersService）和塞林斯（Marshall Sahlins）提出的概念。一般进化即人类文化依据某种绝对尺度从"
+  },
+  {
+   "cn": "单线进化论",
+   "en": "unilineal evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0499",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪的古典进化论学派所持主要观点。该观点认为，文化进化的动因是单一的，过程是由一阶段到另一阶段的单一发展，由简单到复杂、由原始到高级的直线进化，同文化的发展基本上都经历相同的顺序。"
+  },
+  {
+   "cn": "特殊进化",
+   "en": "special evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0582",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "“一般进化”的对称。由美国人类学家、新进化主义学派的代表人物塞维斯（Elman RogersService）和塞林斯（Marshall Sahlins）提出的概念。特殊进化即各个具体文化的具体进化，或"
+  },
+  {
+   "cn": "文化进化",
+   "en": "cultural evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0036",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类文化由简单到复杂、由低级到高级逐渐演变进化的过程。"
+  },
+  {
+   "cn": "多线进化论",
+   "en": "multiline evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0577",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家斯图尔德（Julian Haynes Steward）提出“多线进化”来解释文化间的差异和相似的问题，目的是寻求文化变迁的原因。该观点认为由于世界上的多种生态环境，形成了世界多种文化形态及"
+  },
+  {
+   "cn": "生物进化论",
+   "en": "biological evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0065",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种物种起源假说，由法国博物学家布封（Georges Louis Leclere de Buffon）和生物学家拉马克（Jean-Baptiste Lamarck）最早提出，英国生物学家达尔文（Cha"
+  },
+  {
+   "cn": "足月分娩",
+   "en": "term delivery",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.25",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "妊娠达到37周至41+6周（259-293日）期间的分娩。"
+  },
+  {
+   "cn": "称谓语",
+   "en": "addressing term",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0355",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "说话人在称呼或指代某人时根据双方之间的关系以及对方的身份、职业等因素而对他使用的指称用语，其类别有亲属称谓、人名称谓、职务称谓等。"
+  },
+  {
+   "cn": "亲属称谓",
+   "en": "kinship terms",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0402",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对亲属的称呼，或具有亲属关系者的互称。"
+  },
+  {
+   "cn": "矮身材",
+   "en": "short stature",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.26",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童身高（长）小于同年龄、同性别儿童身高（长）正常均值减2个标准差（<-2SD)或小于等于第3百分位（≤P3rd）的状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

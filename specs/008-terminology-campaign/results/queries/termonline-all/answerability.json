@@ -1,0 +1,302 @@
+{
+ "key": "answerability",
+ "term": "answerability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:59:35+00:00",
+ "status": "ok",
+ "note": "variant=answerability; 审定公布名词库=18; 海峡两岸名词对照库=10; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "答案抽取",
+   "en": "answer extraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0645",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "根据用户查询，问答系统利用信息检索和自然语言处理技术从知识源中获得答案的过程。"
+  },
+  {
+   "cn": "自动应答",
+   "en": "automatic answering",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0812",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "回答旗",
+   "en": "answering pendant",
+   "source": "航海科技名词",
+   "wordNumber": "14.0042",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "问答系统",
+   "en": "question answering system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0692",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "能用准确的自然语言形式回答用户用自然语言提出问题的系统。"
+  },
+  {
+   "cn": "回答集编程",
+   "en": "answer set programming",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0057",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "目前最重要的非单调逻辑程序模式之一。其理论基础是稳定模型语义。"
+  },
+  {
+   "cn": "问答系统",
+   "en": "question answering system",
+   "source": "语言学名词",
+   "wordNumber": "11.209",
+   "subjectFullName": "语言学_计算语言学_应用系统",
+   "subjectName": "应用系统",
+   "publishYear": "2011",
+   "definition": "根据用户的自然语言提问，从文本库或数据库中提取相关信息并用自然语言输出答案的计算机应用程序。"
+  },
+  {
+   "cn": "电话应答器",
+   "en": "telephone answering set",
+   "source": "通信科学技术名词",
+   "wordNumber": "14.024",
+   "subjectFullName": "通信科学技术_通信终端",
+   "subjectName": "通信终端",
+   "publishYear": "2007",
+   "definition": "与电话机组合在一起，可以用于先录制的语句自动应答呼叫的器件。"
+  },
+  {
+   "cn": "近似回答综合征",
+   "en": "symptom of approximate answer",
+   "source": "行为医学名词",
+   "wordNumber": "16.021",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "对简单问题给予近似的、不确切回答的精神综合征。回答虽不确切但反映出能理解问题的本质。"
+  },
+  {
+   "cn": "问答式检索系统",
+   "en": "question answering retrieval system",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.198",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索系统",
+   "subjectName": "检索系统",
+   "publishYear": "2019",
+   "definition": "信息检索系统的一种高级形式。用户能够以自然语言的形式提出查询请求，系统则直接返回给用户准确、简洁的答案而非一组可能包含答案的相关文档，是一种事实检索系统。"
+  },
+  {
+   "cn": "智能答疑系统",
+   "en": "intelligent question-answering system",
+   "source": "教育学名词",
+   "wordNumber": "13.104",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "对用自然语言提出的问题自动给出正确答案或解决方法的计算机问题解答系统。"
+  },
+  {
+   "cn": "问答式",
+   "en": "question and answer mode",
+   "source": "自动化名词",
+   "wordNumber": "04.305",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "电话应答记录器",
+   "en": "telephone answering and recording set",
+   "source": "通信科学技术名词",
+   "wordNumber": "14.025",
+   "subjectFullName": "通信科学技术_通信终端",
+   "subjectName": "通信终端",
+   "publishYear": "2007",
+   "definition": "带有信息记录器件的电话应答器。"
+  },
+  {
+   "cn": "社区式问答",
+   "en": "community-based question and answer,cQA",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1277",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "区别于传统的一问一答，是利用一个人类公共的知识平台(互联网、媒体)，从人类集体智慧产生的高质量经验中找到问题答案的方式。"
+  },
+  {
+   "cn": "反问",
+   "en": "rhetorical question with a negative answer implied",
+   "source": "语言学名词",
+   "wordNumber": "08.161",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "与“正问”相对。修辞格的一种。用疑问形式表达确定的意思，以加强语气。无疑而问，无须回答，答案寓于问话的反面。例如，“克服困难不也是一种享受吗？”"
+  },
+  {
+   "cn": "正问",
+   "en": "rhetorical question with a positive answer implied",
+   "source": "语言学名词",
+   "wordNumber": "08.162",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "与“反问”相对。修辞格的一种。明知故问，无须回答，答案寓于问话的正面。例如，“莫非他造塔的时候，竟没有想到塔终究是要倒的么？”"
+  },
+  {
+   "cn": "设问",
+   "en": "rhetorical question with or without an answer",
+   "source": "语言学名词",
+   "wordNumber": "08.211",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。说写者先提出问题，然后自己作出回答；或问而不答，让听读者去思索体会。例如，“谁是我们的敌人，谁是我们的朋友，这个问题是革命的首要问题。”"
+  },
+  {
+   "cn": "问答服务",
+   "en": "question-and-answer service,Q and A service",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.191",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_文献传递与馆际互借",
+   "subjectName": "文献传递与馆际互借",
+   "publishYear": "2019",
+   "definition": "根据用户的提问直接提供所需信息的咨询服务。根据服务内容，可分为下列三种情况：①按照已知用户地址，发送其所需的文献或文献副本；②根据用户用自然语言提出的专题要求选择文献；③向用户提供具体的事实和数据。问"
+  },
+  {
+   "cn": "对策",
+   "en": "dui ce;answering policy ques-tions put forth by the emperor",
+   "source": "中国古代史名词",
+   "wordNumber": "3.116",
+   "subjectFullName": "中国古代史_秦汉_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "皇帝以策书提出问题，应试者以奏对方式予以解答的考试方法。始于公元前178年汉文帝特举贤良方正科，后多用于制举，所试常关时势、政策，重要对策可影响朝野。隋唐以来制举仍用此法，常由辅政大臣协助皇帝定其优者"
+  },
+  {
+   "cn": "应答",
+   "en": "answering\",\"answer back",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回答模式",
+   "en": "answer schema",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解答抽取",
+   "en": "answer extraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回答旗",
+   "en": "answering pendant",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "赋格答题",
+   "en": "answer in fugue",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "问题回答系统",
+   "en": "question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动应答中继线",
+   "en": "automatic answer trunk",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动应答器",
+   "en": "automatic-answer back unit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基于知识的问答系统",
+   "en": "knowledge-based question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动呼叫应答设备",
+   "en": "automatic calling and answering equipment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳出历史周期率的第二个答案",
+   "en": "the second answer to the question of how to escape the historical cycle of rise and fall",
+   "source": "马克思主义",
+   "wordNumber": "03.0831",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平在党的二十大报告中强调，“经过不懈努力，党找到了自我革命这一跳出治乱兴衰历史周期率的第二个答案，自我净化、自我完善、自我革新、自我提高能力显著增强，管党治党宽松软状况得到根本扭转，风清气正的党内"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

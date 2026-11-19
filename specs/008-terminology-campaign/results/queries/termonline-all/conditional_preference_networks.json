@@ -1,0 +1,712 @@
+{
+ "key": "conditional preference networks",
+ "term": "conditional preference networks",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:17:34+00:00",
+ "status": "ok",
+ "note": "variant=conditional preference networks; 审定公布名词库=2922; 海峡两岸名词对照库=949; 其他来源数据库=314; 预公布名词数据库=105; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "条件性位置偏爱",
+   "en": "conditioned place preference,CPP",
+   "source": "心理学名词",
+   "wordNumber": "05.117",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "通过条件反射性学习，动物偏向于待在与奖赏物呈现有连接线索的环境或位置的行为。该行为模型常用于药物成瘾的研究。"
+  },
+  {
+   "cn": "条件性位置偏爱",
+   "en": "conditioned place preference;CPP",
+   "source": "麻醉学名词",
+   "wordNumber": "02.107",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "通过条件反射性学习，动物偏向于待在与奖赏物呈现有连接线索的环境或位置的行为。该行为模型常用于药物成瘾的研究。"
+  },
+  {
+   "cn": "嗜食性",
+   "en": "preference ",
+   "source": "草学名词",
+   "wordNumber": "2.0427",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0086",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "按照自己的意愿对可供选择的方案进行的排列(或提供判断值)。"
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "source": "药学名词",
+   "wordNumber": "10.066",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "对某种健康状态的意愿或倾向。通常体现为效用或价值。"
+  },
+  {
+   "cn": "肉适意性",
+   "en": "preferability",
+   "source": "畜牧学名词",
+   "wordNumber": "06.035",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_肉的品质特性",
+   "subjectName": "肉的品质特性",
+   "publishYear": "2020",
+   "definition": "消费者对肉类品质的满意程度。"
+  },
+  {
+   "cn": "条件性位置偏爱实验",
+   "en": "conditioned place preference test,CPP test",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.253",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_动物实验",
+   "subjectName": "动物实验",
+   "publishYear": "2019",
+   "definition": "将动物置于条件性位置偏爱箱的白色观察区，并给予精神依赖性药物，然后观察动物在条件性位置偏爱箱的黑色区和白色区的活动情况，用于评价药物精神依赖性的实验。可测试动物对特定药物的选择性摄取，或对特定药物存在"
+  },
+  {
+   "cn": "条件性位置偏爱实验",
+   "en": "conditioned place preference test;CPP test",
+   "source": "行为医学名词",
+   "wordNumber": "6.072",
+   "subjectFullName": "行为医学_行为学动物实验技术_动物行为实验技术",
+   "subjectName": "动物行为实验技术",
+   "publishYear": "2022",
+   "definition": "将实验动物置于条件性位置偏爱箱的白色观察区，并给予精神依赖性药物，观察实验动物在条件性位置偏爱箱黑色区和白色区活动情况的实验。多用于精神依赖性药物研究和筛选。"
+  },
+  {
+   "cn": "景观偏好",
+   "en": "landscape preference",
+   "source": "风景园林名词",
+   "wordNumber": "06.0034",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "是一连串人与环境交互作用的结果，观赏者经过一连串知觉、认知的心理评估过程后对经过产生的偏好。"
+  },
+  {
+   "cn": "消费者偏好",
+   "en": "consumer preference",
+   "source": "农学名词",
+   "wordNumber": "19.035",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "消费者对特定的商品和场所等产生特殊偏爱的行为。"
+  },
+  {
+   "cn": "嗜食性分级",
+   "en": "preference ranking ",
+   "source": "草学名词",
+   "wordNumber": "2.0283",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "嗜食性指数",
+   "en": "preference index ",
+   "source": "草学名词",
+   "wordNumber": "2.0492",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "品牌偏好",
+   "en": "brand preference",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.154",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "某一市场中消费者对该品牌的喜好程度，是对消费者的品牌选择意愿的了解。"
+  },
+  {
+   "cn": "性偏好",
+   "en": "sexual preference",
+   "source": "行为医学名词",
+   "wordNumber": "12.009",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "个体在性行为中对于特定类型的人、物、行为或情境的喜爱。"
+  },
+  {
+   "cn": "不选择性",
+   "en": "non preference ",
+   "source": "草学名词",
+   "wordNumber": "7.0125",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "消费者偏好",
+   "en": "consumer preference",
+   "source": "经济学名词",
+   "wordNumber": "03.051",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "消费者在不考虑预算约束的情况下完全按照自己的意愿对可供选择的商品组合做出的排序。消费者偏好满足三个基本假设：第一，完备性（completeness）假设，即对于任意两组商品组合 X和Y ，消费者都可以"
+  },
+  {
+   "cn": "伦理偏好",
+   "en": "ethic preference",
+   "source": "经济学名词",
+   "wordNumber": "05.024",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "与“私人偏好”相对。个人必须权衡某一既定的决策对其他人的后果时所使用的偏好。一般而言，可以把经济利他主义看作是个人的“伦理偏好”。而制度的实施则必须以经济人的伦理偏好（相当于“人性善”之说）为根基。"
+  },
+  {
+   "cn": "私人偏好",
+   "en": "private preference",
+   "source": "经济学名词",
+   "wordNumber": "05.025",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "与“伦理偏好”相对。个人用于作出日常决策的偏好。"
+  },
+  {
+   "cn": "个人偏好",
+   "en": "personal preference",
+   "source": "经济学名词",
+   "wordNumber": "10.188",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "决策中决策者个人对各种可选方案或各种结果中某一方案或结果的偏爱。"
+  },
+  {
+   "cn": "挖掘偏好",
+   "en": "mining preference",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0460",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "以用户偏好为目标的数据挖掘。"
+  },
+  {
+   "cn": "条件性位置偏爱",
+   "en": "conditioned place preference\",\"CPP",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "颜色爱好",
+   "en": "color preference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生境偏爱,生境适应性",
+   "en": "habitat preference",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "草食偏好性",
+   "en": "grazing preference",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "环境取向",
+   "en": "environmental preference",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反向优惠",
+   "en": "reverse preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易优先权",
+   "en": "trade preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特惠",
+   "en": "special preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "英联邦特惠税制",
+   "en": "Imperial Preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先债券",
+   "en": "bond preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先债券",
+   "en": "preference bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先资本",
+   "en": "preference capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空间偏好",
+   "en": "spatial preference",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "文化偏好",
+   "en": "cultural preference",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "嗜食性",
+   "en": "food preference",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "偏爱密码子",
+   "en": "preferred codon",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优势周期",
+   "en": "preferred period",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "择优溶解",
+   "en": "preferred dissolution",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "优先股票",
+   "en": "preferred stock",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "偏好管理",
+   "en": "preference management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络身份",
+   "en": "network identity (network ID)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "复杂网络",
+   "en": "complex network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机网",
+   "en": "Computer Network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络时延",
+   "en": "network delay",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络拥塞",
+   "en": "network congestion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络协议",
+   "en": "network protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络工程",
+   "en": "network engineering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性别偏好",
+   "en": "gender preference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "对于不同性别重此轻彼的选择性对待。可以发生在职场中，如服务性行业和岗位对女性的偏好。也可以发生在生育养育过程中，如常见的男孩偏好，即认定男婴或男孩的价值大于女婴或女孩。怀孕和生育过程中的性别偏好选择会"
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险较为偏爱的一种态度。与能够获得某一数额的确定性收益相比，消费者更愿意选择存在风险但是能够获得同样数额的风险收益"
+  },
+  {
+   "cn": "时间偏好",
+   "en": "time preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体愿意用当前的效用去交换未来效用的偏好。是当前和未来效用的边际替代率。"
+  },
+  {
+   "cn": "陈述偏好法",
+   "en": "stated preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "采用调查的方式，让被调查人表达疾病治疗方案所带来的效益，以此对偏好进行估算的一种分析方法。"
+  },
+  {
+   "cn": "显示偏好法",
+   "en": "revealed preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在实际购买决策行为中观察个人的偏好强度的一种分析方法。"
+  },
+  {
+   "cn": "时间不一致偏好",
+   "en": "time-inconsistent preference ",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.4",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体对商品和服务的偏好在不同时期有所变化。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "互动网络",
+   "en": "interaction network",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体之间互动所形成的网络结构。每个个体都是网络中的一个节点，每两个节点之间相互联系构成整个网络。"
+  },
+  {
+   "cn": "网络组织",
+   "en": "network organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.11",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "在现代信息通信技术的支撑下，由基于共同的目标、价值、兴趣或利益的企业实体自发联合而成，通过正式契约或非正式契约聚合起来的互相依赖、共担风险的长期合作、相对稳定的组织形式。"
+  },
+  {
+   "cn": "组织网络",
+   "en": "organizational network",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.8",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "广义指一些相关企业借助于现代信息技术，通过长期契约和股权的形式，为达到共享技术，分摊费用以及满足市场需求等目标而联结起来的一种合作性企业组织群体。狭义指企业中的多个部门组合成相互合作的网络，各网络结点"
+  },
+  {
+   "cn": "沟通网",
+   "en": "communication network",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.10",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部各种可利用的人际沟通渠道所结成的构架。人际沟通常常受到可利用的沟通渠道的限制，这些渠道所构成的不同结构和不同性质的沟通网络，决定着信息交流的取向和质量。"
+  },
+  {
+   "cn": "网络边界",
+   "en": "network boundary",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "研究者基于分析的方便对社会网络的范围做出的人为限定。有些社会网络本身具有明显的边界，比如与世隔绝的村落中的人际关系网；然而绝大部分现实生活中的社会网络不具有明确边界，研究者一般根据关系类型、交往内容、"
+  },
+  {
+   "cn": "个人网",
+   "en": "personal network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "或称自我中心网(egocentric network）。是以个人为中心的社会关系的总和。小到局限在直接交往范围里的家庭成员网，大到通过直接和间接纽带联系着的数以千计的社交关系网。个人网是与整体网相对的"
+  },
+  {
+   "cn": "整体网",
+   "en": "whole network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "一定网络边界内的社会关系的总和。多用于分析具有相对明确范围的社会网络，比如村落共同体、工作组织，或学校班级内的关系网络。整体网是与个体网相对的概念，是以网络内全体成员间关系为分析对象，其结构形态是分析"
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.4",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "由许多节点连接起来构成的一种社会结构。节点通常是指个人或组织，社会网络代表各种社会关系，经由这些社会关系，把各种人或组织连接起来。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

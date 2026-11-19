@@ -1,0 +1,782 @@
+{
+ "key": "naturalism and value",
+ "term": "Naturalism and Value",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:22:29+00:00",
+ "status": "ok",
+ "note": "variant=Naturalism and Value; 审定公布名词库=10000; 海峡两岸名词对照库=2667; 其他来源数据库=1378; 预公布名词数据库=1221; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "性味",
+   "en": "nature and flavour",
+   "source": "兽医学名词",
+   "wordNumber": "19.288",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "中药四气和五味的统称。"
+  },
+  {
+   "cn": "性味",
+   "en": "nature and flavour",
+   "source": "中医药学名词",
+   "wordNumber": "06.050",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "中药四气五味的统称。"
+  },
+  {
+   "cn": "天然水pH",
+   "en": "pH value of natural water",
+   "source": "地质学名词",
+   "wordNumber": "13.02.076",
+   "subjectFullName": "地质学_地球化学_元素地球化学",
+   "subjectName": "元素地球化学",
+   "publishYear": "2026",
+   "definition": "水溶液中氢离子浓度常用对数的负对数值。是天然水溶液酸碱度的度量。一般pH=7的水为中性水，pH ＞７时为碱性水，pH ＜７时则为酸性水。"
+  },
+  {
+   "cn": "资源使用价值",
+   "en": "use value of natural resources",
+   "source": "地理学名词",
+   "wordNumber": "20.039",
+   "subjectFullName": "地理学_资源地理学",
+   "subjectName": "资源地理学",
+   "publishYear": "2006",
+   "definition": "自然资源的产品有用性、生态功能效益的测度。"
+  },
+  {
+   "cn": "资源潜在价值",
+   "en": "potential value of natural resources",
+   "source": "地理学名词",
+   "wordNumber": "20.041",
+   "subjectFullName": "地理学_资源地理学",
+   "subjectName": "资源地理学",
+   "publishYear": "2006",
+   "definition": "自然资源所固有的、但由于诸多原因而尚未发挥出来的使用价值。"
+  },
+  {
+   "cn": "资源存在价值",
+   "en": "existence value of natural resources",
+   "source": "地理学名词",
+   "wordNumber": "20.040",
+   "subjectFullName": "地理学_资源地理学",
+   "subjectName": "资源地理学",
+   "publishYear": "2006",
+   "definition": "为了确保某种自然资源继续存在而自愿支付的费用。"
+  },
+  {
+   "cn": "天然气[燃烧]热值",
+   "en": "heating value of natural gas",
+   "source": "石油名词",
+   "wordNumber": "01.0068",
+   "subjectFullName": "石油_石油学总类",
+   "subjectName": "石油学总类",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "天然自然",
+   "en": "natural nature",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "自然辩证法_自然哲学_自然概论",
+   "subjectName": "自然概论",
+   "publishYear": "2024",
+   "definition": "还没有受到人类实践活动影响或者改造的那部分自然界。与“人工自然”相对。随着人类认识和实践能力的提高，人工自然的范围不断扩大，天然自然的范围不断缩小。"
+  },
+  {
+   "cn": "科学、技术与价值",
+   "en": "science, technology, and value",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.012",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "研究科学、技术与价值之间内在关系的交叉领域。首先，价值可以渗透到科学技术中，约束科学技术的活动；其次，科学技术不仅具有物质价值（亦即工具价值或生产力价值和经济价值），而且具有精神价值（包括认识论价值、"
+  },
+  {
+   "cn": "目标与价值观子系统",
+   "en": "goal and value subsystem",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0451",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "系统理论模式中的一个子系统，包括由社会环境决定的组织目标体系与价值观。"
+  },
+  {
+   "cn": "自然与文化遗产",
+   "en": "natural and cultural heritage",
+   "source": "风景园林名词",
+   "wordNumber": "04.0358",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "同时部分满足或完全满足《世界遗产公约》第1条和第2条关于文化和自然遗产定义的遗产。"
+  },
+  {
+   "cn": "自然性",
+   "en": "naturality",
+   "source": "数学名词",
+   "wordNumber": "08.0814",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "经济学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "凝结在商品中一般的、无差别的人类劳动。是商品的二因素之一，是商品交换的基础，体现商品的社会属性和商品生产者之间的关系，是商品经济的特有范畴。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0701",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "功能与实现功能所发生成本之间关系的定性或定量表示。"
+  },
+  {
+   "cn": "价值观",
+   "en": "value",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0101",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "人们对事物的意义和重要性的总体价值评价。"
+  },
+  {
+   "cn": "明度",
+   "en": "value",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "医学美学与美容医学_美容牙科学",
+   "subjectName": "美容牙科学",
+   "publishYear": "2015",
+   "definition": "色彩的明亮度。由物体对光的反射强弱而定。"
+  },
+  {
+   "cn": "价值观",
+   "en": "value",
+   "source": "心理学名词",
+   "wordNumber": "07.156",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "人们对事物进行评判和选择的重要性标准。"
+  },
+  {
+   "cn": "价值观",
+   "en": "value",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.091",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "人们认为最重要的信念和标准。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "药学名词",
+   "wordNumber": "10.040",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "对特定健康水平或健康产出偏好的衡量。"
+  },
+  {
+   "cn": "价值观",
+   "en": "value",
+   "source": "教育学名词",
+   "wordNumber": "01.188",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "人们对客观事物的意义、重要性的看法和态度。"
+  },
+  {
+   "cn": "先天与后天",
+   "en": "nature and nurture",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性味",
+   "en": "nature and flavour",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "资源存在价值",
+   "en": "existence value of natural resources",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "资源潜在价值",
+   "en": "potential value of natural resources",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "资源使用价值",
+   "en": "use value of natural resources",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "自然界、生命与爱情",
+   "en": "Nature\",\"Life and Love",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Dvořák, Antonín"
+  },
+  {
+   "cn": "价值观",
+   "en": "value",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "值",
+   "en": "value",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "δ值",
+   "en": "δ-value",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "τ值",
+   "en": "τ-value",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本质",
+   "en": "nature",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本位记号",
+   "en": "natural",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "还原记号",
+   "en": "natural",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归化,自然化",
+   "en": "naturalization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "自然化",
+   "en": "naturalization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "进出口贸易额",
+   "en": "value of import and export",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "热值",
+   "en": "heat value\",\"thermal value\",\"heating value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护区",
+   "en": "nature reserve\",\"nature preserve\",\"nature sanctuary",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护区",
+   "en": "nature reserve\",\"nature preserve\",\"nature sanctuary",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天经地义",
+   "en": "Natural Rules and Orderliness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人与自然和谐共生",
+   "en": "harmony between man and nature",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共享价值观",
+   "en": "shared value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值交换",
+   "en": "value exchange",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据价值",
+   "en": "data value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户价值",
+   "en": "user value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缺失值",
+   "en": "missing value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享价值",
+   "en": "Shared Value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值创造",
+   "en": "value creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值分配",
+   "en": "value distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "剩余价值",
+   "en": "surplus value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织价值",
+   "en": "organization value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "杂凑值",
+   "en": "hash value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创新分",
+   "en": "new value",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳马分值",
+   "en": "vault value",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自在自然",
+   "en": "free and natural",
+   "source": "马克思主义",
+   "wordNumber": "01.0144",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类尚未认识和改造的那部分自然，不依赖于人类意识而独立存在，处于永恒发展和变化之中。自在自然是人类生存的前提，随着实践的发展和人类认识能力的提高，自在自然终将被认识。"
+  },
+  {
+   "cn": "自然崇拜",
+   "en": "naturalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.16",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "以自然现象（如日、月、水、火）等为对象的信仰，原被理解为“原始宗教”的标志。研究表明，它只是人与自然建立的关系的一种表现形式。"
+  },
+  {
+   "cn": "自然性",
+   "en": "naturality",
+   "source": "马克思主义",
+   "wordNumber": "01.0138",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物在自然环境中遵循自然规律的自然属性和行为。自在的自然具有自然性，人化的自然不仅具有自然性，还具有社会性。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "马克思主义",
+   "wordNumber": "02.0036",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "凝结在商品中无差别的人类劳动，包括脑力劳动和体力劳动。价值是商品所特有的属性，作为商品的社会属性，它反映的是商品生产者之间的社会关系。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1159999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "客体对主体需要的效用。作为元伦理范畴，价值是客体具有的满足主体需要、实现主体欲望、符合主体目的的效用性。"
+  },
+  {
+   "cn": "价值观",
+   "en": "values",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.7",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "人们对事物及意义的评价体系，是人们采取行动或行为取向的评价尺度和选择标准。"
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0137",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“自然”与“物质”是同一层次或者同等程度的范畴，但自然范畴的内涵更丰富、更具体。从具体层次讲，自然较多的是作为人类活动环境的意义而被使用，是与社会、历史、文化等概念相对应的范畴。"
+  },
+  {
+   "cn": "人与自然和谐相处",
+   "en": "harmony between man and nature",
+   "source": "马克思主义",
+   "wordNumber": "04.0208",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "生产发展，生活富裕，生态良好。"
+  },
+  {
+   "cn": "自然主义伦理学",
+   "en": "ethical naturalism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.148",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "从自然规律和人的生理、心理特征中引申出道德要求，在人的自然本性中寻找决定人的行为目的、动机和原则，并依据自然科学的材料和方法加以论证而建立起来的伦理学理论。试图从自然科学角度研究人类社会面临的道德问题"
+  },
+  {
+   "cn": "S值",
+   "en": "S value, ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.23",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对于男性参考人和女性参考人，源区rS中给定放射性核素的每次核转变（核反应或衰变）到靶区rT的当量剂量，Sv(Bq·s)-1。"
+  },
+  {
+   "cn": "D值",
+   "en": "D value",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.115",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定的处理环境中和在一定的热力致死温度条件下，某细菌数群中每杀死90%原有残存活菌数时所需要的时间。"
+  },
+  {
+   "cn": "A0值",
+   "en": "A0 value",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "生物体在80℃时达到特定Z值所用的等效时间，是评价湿热消毒效果的指标之一，单位以秒（S）表示。A0值为600时实现低水平消毒，A0值为3000时实现中水平消毒。"
+  },
+  {
+   "cn": "标定值",
+   "en": "stated value",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当指示物变化达到指示物制造商定义的终点时，过程关键变量的值或值的范围。"
+  },
+  {
+   "cn": "D值",
+   "en": "D-value",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，杀灭试验微生物总数的90%所需的时间或剂量。"
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "溶液中氢离子浓度的负对数值。"
+  },
+  {
+   "cn": "Q值",
+   "en": "Q value",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒作用温度每升高1℃消毒速度加快的倍数的温度系数。"
+  },
+  {
+   "cn": "Q10值",
+   "en": "Q10 value",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.1.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒作用温度每升高10℃消毒速度加快倍数的一种温度系数。"
+  },
+  {
+   "cn": "G值",
+   "en": "G value",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.35",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "表示辐射化学产额，物质每吸收100 eV电离辐射能量所形成的分子或基团数。其值大小，常与射线的能量和种类有关。"
+  },
+  {
+   "cn": "基线值",
+   "en": "baseline value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.22",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "设备性能参数的参考值。通常在验收检测合格后，由最初的性能检测得到，或者由相应的标准给定。"
+  },
+  {
+   "cn": "指导值",
+   "en": "guidance value",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "指定量的一个水平，高于该水平时应考虑采取适当的行动。某些情况下，在指定量实际上低于该水平时，亦可能需要考虑采取某些行动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

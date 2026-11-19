@@ -1,0 +1,492 @@
+{
+ "key": "sociology",
+ "term": "sociology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:42:33+00:00",
+ "status": "ok",
+ "note": "variant=sociology; 审定公布名词库=33; 海峡两岸名词对照库=8; 其他来源数据库=9; 预公布名词数据库=35; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "农村社会学",
+   "en": "rural sociology",
+   "source": "农学名词",
+   "wordNumber": "01.143",
+   "subjectFullName": "总论_农业科学",
+   "subjectName": "农业科学",
+   "publishYear": "2025",
+   "definition": "研究农村社会结构、社会关系及社会发展规律和有效治理的学科。"
+  },
+  {
+   "cn": "乡村社会学",
+   "en": "rural sociology",
+   "source": "风景园林名词",
+   "wordNumber": "05.0255",
+   "subjectFullName": "风景园林_风景园林规划_乡村景观规划",
+   "subjectName": "乡村景观规划",
+   "publishYear": "2025",
+   "definition": "研究以农业或相关产业为主要经济活动、居住在农村地区的人们组成的农村社区为对象，以乡村人民的社会行为与群体关系为研究目的的社会学分支学科。"
+  },
+  {
+   "cn": "工程社会学",
+   "en": "engineering sociology",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.176",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "社会学的一个分支。研究起步较晚，在21世纪初由李伯聪首次倡导，提出工程共同体是工程社会学特有的理论范畴，不仅给出了工程共同体的性质、结构及其构成分析，区分了共同体的类型，说明了工程共同体的维系机制及社"
+  },
+  {
+   "cn": "媒介社会学",
+   "en": "media sociology",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.155",
+   "subjectFullName": "新闻学与传播学_传播总论_学科与学派",
+   "subjectName": "学科与学派",
+   "publishYear": "2022",
+   "definition": "对各种传媒生产过程的社会学考察。广义指运用社会学的理论和方法对传媒整个生产过程及其社会影响所进行的系统科学的研究。"
+  },
+  {
+   "cn": "动物社会学",
+   "en": "animal sociology",
+   "source": "动物学名词",
+   "wordNumber": "1.0018",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "研究动物社会行为的科学。"
+  },
+  {
+   "cn": "城市社会学",
+   "en": "urban sociology",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.200",
+   "subjectFullName": "城乡规划学_城乡规划总述_相关学科",
+   "subjectName": "相关学科",
+   "publishYear": "2021",
+   "definition": "应用社会学的理论和方法，研究城市的社会生活、社会现象、社会关系以及城市社会结构、社区组织、城市发展方向和发展规律等问题的一门学科。"
+  },
+  {
+   "cn": "情报社会学",
+   "en": "information sociology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.171",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "从情报学角度研究情报与各种社会因素（如政治、经济、文化、教育、宗教、民族、科学技术等）相互作用、相互影响的理论，并探究情报的社会效果的学科。"
+  },
+  {
+   "cn": "阅读社会学",
+   "en": "reading sociology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.124",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "从社会学角度分析阅读活动特别是图书馆阅读活动的社会特点、社会结构及社会功能规律的交叉学科。诞生于20世纪30年代的美国，主要研究内容包括出版物的社会功能和社会属性、社会大众阅读行为、个体阅读需要及其在"
+  },
+  {
+   "cn": "图书馆社会学",
+   "en": "library sociology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.123",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "运用社会学的理论方法研究图书馆活动中的社会关系和社会行为的一门学科。由德国图书馆学家卡尔斯泰特（P.Karstedt）于20世纪50年代首次提出。图书馆社会学有两项基本任务：探讨图书馆活动中的社会关系"
+  },
+  {
+   "cn": "教师社会学",
+   "en": "teacher sociology",
+   "source": "教育学名词",
+   "wordNumber": "09.074",
+   "subjectFullName": "教育学_教师教育_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2013",
+   "definition": "运用社会学的观点分析教育工作者的专业性质，探讨教师职业声望以及社会地位的学科。"
+  },
+  {
+   "cn": "细胞社会学",
+   "en": "cell sociology",
+   "source": "细胞生物学名词",
+   "wordNumber": "01.021",
+   "subjectFullName": "细胞生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "以系统论观点研究细胞和细胞群体中细胞间的社会行为，如细胞间识别、通信、集合和相互作用，以及整体和细胞群对细胞的生长、分化和死亡等活动的调控机制的学科。"
+  },
+  {
+   "cn": "城市社会学",
+   "en": "urban sociology",
+   "source": "地理学名词",
+   "wordNumber": "19.063",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "探讨城市的社会结构、社会组织、社会管理和生活方式等问题的社会学分支学科。"
+  },
+  {
+   "cn": "社会应激源",
+   "en": "sociological stressor",
+   "source": "行为医学名词",
+   "wordNumber": "10.022",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "导致个人生活风格变化，并要求人们对其做出调整或适应的社会性因素或事件。"
+  },
+  {
+   "cn": "老年社会学",
+   "en": "sociology of aging",
+   "source": "急救医学名词",
+   "wordNumber": "03.827",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年学概论",
+   "subjectName": "老年学概论",
+   "publishYear": "2025",
+   "definition": "研究与老年人健康有关的政治、经济、文化、教育、娱乐和环境，以及社会制度、家庭结构和风俗习惯等相关问题的学科。侧重于研究老年人的心理、智力和行为，以及老年人的社会福利、教育、保健护理、环境保护、合法权益"
+  },
+  {
+   "cn": "知识社会学",
+   "en": "sociology of knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.073",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "认为知识或思想必定受到社会、历史和文化条件的影响，专门研究知识的获取、辨明、变化的社会条件及其影响因素。德国社会学家M. 舍勒（M. Scheler）1924年在《知识社会学的尝试》中最早使用这一名称"
+  },
+  {
+   "cn": "科学社会学",
+   "en": "sociology of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.044",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "由罗伯特·默顿（Robert Merton）开创的社会学分支学科。把科学看作具有独特精神特质的社会制度，并对其进行功能分析。"
+  },
+  {
+   "cn": "技术社会学",
+   "en": "sociology of technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.104",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "前期以奥格本学派为主，使用统计学与历史研究的方法研究技术发明与社会之间的关系。T. J. 平齐（T. J. Pinch）和W. E. 比克（W. E. Bijker）提出了新技术社会学，使用社会建构方"
+  },
+  {
+   "cn": "发明社会学",
+   "en": "sociology of invention",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.125",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "首次出现在肖恩·吉尔菲兰（Sean Gilfillan）的博士论文中。是奥格本学派的主要研究领域。研究发明与社会变迁之间的相互作用，否定发明的英雄理论。提出了发明的组合累积模式，强调发明过程以及发明与"
+  },
+  {
+   "cn": "性社会学",
+   "en": "sociology of sex",
+   "source": "计划生育名词",
+   "wordNumber": "08.004",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "运用社会学的理论和方法来研究人类性现象中所反映的社会因素，以及研究人类性现象与人类社会之间的关系、作用和运行机制的学科。是性科学与社会学的交叉学科。"
+  },
+  {
+   "cn": "老年社会学",
+   "en": "sociology of aging",
+   "source": "老年医学名词",
+   "wordNumber": "01.002",
+   "subjectFullName": "老年医学_老年医学概论",
+   "subjectName": "老年医学概论",
+   "publishYear": "2017",
+   "definition": "研究与老年人健康有关的政治、经济、文化、教育、娱乐和环境，以及社会制度、家庭结构和风俗习惯等相关问题的学科。重点侧重于研究老年人的心理、智能和行为，以及老年人的社会福利、教育、保健护理、环境保护、合法"
+  },
+  {
+   "cn": "城市社会学",
+   "en": "urban sociology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "政治社会学",
+   "en": "political sociology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "细胞社会学",
+   "en": "cell sociology",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "动物社会学",
+   "en": "animal sociology",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "后马克思主义社会学",
+   "en": "post-marxist sociology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "植物社会学（=植物群落学）",
+   "en": "plant sociology\",\"phytosociology (=phytocoenology)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地图符号学",
+   "en": "map semiology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地图符号学",
+   "en": "cartographic semiology",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "社会学",
+   "en": "sociology",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "伴随19世纪末社会的现代化而兴起的、一门通过研究人们的社会关系和社会活动来揭示社会的结构及其运行规律的学科。社会科学的一个分支。"
+  },
+  {
+   "cn": "社会学",
+   "en": "sociology",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.1",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "一门研究人类社会行为、社会关系、社会结构及其变迁规律的学科，是社会科学的主要学科之一。"
+  },
+  {
+   "cn": "社会学主义",
+   "en": "sociologism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.17",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "一种认为“社会事实”具有独立于人的（即不能还原于个体层面来解释的）客观性、自主性、普遍性和强制性，社会整体优先于局部而不能化约为各组成部分之和，因此必须从整个社会生活的背景上对社会现象做综合考察的理论"
+  },
+  {
+   "cn": "应用社会学",
+   "en": "applied sociology",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "运用社会学理论和方法所揭示的原理、原则、观点和方法对具体社会现象和问题进行定性或定量研究，以获得具体的局部规律性认识和并提出相应对策的社会学研究。与“社会理论”或“理论社会学”相对。"
+  },
+  {
+   "cn": "宏观社会学",
+   "en": "macro-sociology",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "从宏观角度对社会整体或某种大、中型社会现象进行研究的社会学分支学科。涉及社会系统、社会结构、社会制度、社区和组织、社会分层与流动、以及社会变迁等领域的研究。与“微观社会学”相对。"
+  },
+  {
+   "cn": "微观社会学",
+   "en": "micro-sociology",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "对微观或小型社会现象以及个体行为进行研究的社会学分支学科。涉及社会基本单位（群体）、社会角色、人际关系和互动、人的社会化等领域的研究。与“宏观社会学”相对。"
+  },
+  {
+   "cn": "组织社会学",
+   "en": "organizational sociology",
+   "source": "社会学名词",
+   "wordNumber": "2.5.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织",
+   "subjectName": "群体和组织",
+   "publishYear": "2025",
+   "definition": "研究社会组织自身的建立、运行、变迁、发展及其规律，以及个人与组织、组织与社会相互关系及其规律的一门社会学分支学科。"
+  },
+  {
+   "cn": "女性主义社会学",
+   "en": "feminist sociology",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.3",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性研究与社会学专业的融合，倡导从社会性别视角和女性经验立场出发，检讨传统社会学中的性别盲点和误区，对其男性中心的理论框架和方法论原则进行批判，并建构具有女性主义意识的社会学知识和方法论体系。"
+  },
+  {
+   "cn": "经济社会学",
+   "en": "economic sociology",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.1",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "将社会学的概念、变量、框架用于解释经济现象的分支社会学。主要关注社会中经济现象与非经济现象的相互关系，考察特定社会中非经济现象如人际互动、群体、社会结构（制度）、社会控制等对经济现象，如产品和服务的生"
+  },
+  {
+   "cn": "政治社会学",
+   "en": "political sociology",
+   "source": "社会学名词",
+   "wordNumber": "3.6.1.1",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_政治社会学",
+   "subjectName": "政治社会学",
+   "publishYear": "2025",
+   "definition": "用社会学的观点和方法研究政治现象的一门综合性学科。着重研究政治系统与社会环境的相互关系，探讨政治系统在社会结构中的存在条件等。"
+  },
+  {
+   "cn": "医学社会学",
+   "en": "medical sociology",
+   "source": "社会学名词",
+   "wordNumber": "3.11.1.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_医学社会学学科界定",
+   "subjectName": "医学社会学学科界定",
+   "publishYear": "2025",
+   "definition": "社会学的一个分支，用社会学的方法研究医疗健康领域的问题，包括医生、病人等医学领域的角色规范和角色关系，健康、疾病、就医行为等医学现象的社会学解释，对健康和疾病的各类文化反映，以及对各类医疗机构的组织研"
+  },
+  {
+   "cn": "环境社会学",
+   "en": "environmental sociology",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.1",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "对社会—环境相互关系的社会学研究，通过研究最大可能意义上的群落，分析现实的社会与生态冲突的成因，并提出解决方案。"
+  },
+  {
+   "cn": "医学社会学",
+   "en": "medical sociology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.2009999999999998",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "医学与社会学的交叉学科。运用社会学的理论和方法，研究医疗卫生领域中的社会角色、角色关系、角色行为、角色流动、医疗社会组织的交互作用以及医疗活动与整个社会生活的互动及其变化规律的科学。"
+  },
+  {
+   "cn": "社会学有限论",
+   "en": "sociological finitism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.9",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "科学社会学爱丁堡学派的社会建构论取向的一种方法论。认为一个概念的先前使用并不能决定其后继使用，亦即每一次的概念应用行为都是全新的和创造性的过程。"
+  },
+  {
+   "cn": "家庭社会学",
+   "en": "sociology of family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.2",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "运用社会学理论和方法研究家庭的社会学分支学科，研究家庭的起源、演变、结构、功能、婚姻家庭变化规律和意义以及家庭与社会的相互关系和相互作用的机制等问题。"
+  },
+  {
+   "cn": "性别社会学",
+   "en": "sociology of gender",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.2",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "以性别以及性别相关议题为研究对象的社会学分支学科，强调性别立场和性别视角的重要性。"
+  },
+  {
+   "cn": "性社会学",
+   "en": "sociology of sex",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.2",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "一门运用社会学理论与方法研究人类性现象中所反映的社会因素，以及人类性现象与人类社会之间的关系、作用和运行机制的学科。主要研究对象是性的社会属性、社会观念、社会态度、社会规范、社会行为、社会角色、社会结"
+  },
+  {
+   "cn": "消费社会学",
+   "en": "sociology of consumption",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.41",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "研究个人、群体和社会的生活消费行为、消费模式，以及消费行为与经济、政治、社会、文化诸因素相互关系的社会学分支学科。"
+  },
+  {
+   "cn": "市场社会学",
+   "en": "sociology of markets",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.58",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "主要致力于探索市场结构、秩序的形成和变迁，以及市场顺畅运转的社会条件和动力机制问题的社会学研究。当前的市场社会学主要包括市场即网络、市场即制度和市场即文化三种研究范式。"
+  },
+  {
+   "cn": "货币社会学",
+   "en": "sociology of money",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.59",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "从社会学的视角去解读货币的研究。主要形成了结构视角和文化视角，前者主要考察货币对社会关系、角色的影响及货币如何展现社会中的关系格局，后者主要考察货币的社会定义、解释和意义。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

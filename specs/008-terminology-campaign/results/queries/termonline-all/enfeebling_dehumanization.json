@@ -1,0 +1,32 @@
+{
+ "key": "enfeebling dehumanization",
+ "term": "enfeebling dehumanization",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:46:07+00:00",
+ "status": "ok",
+ "note": "variant=enfeebling dehumanization; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "人化",
+   "en": "humanization",
+   "source": "马克思主义",
+   "wordNumber": "01.0132",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人通过劳动把自己的本质力量凝聚和体现在对象上，使对象对人而言不再是异己的、对立的，而成为人的世界的一部分。"
+  },
+  {
+   "cn": "自然的人化",
+   "en": "humanization of nature",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.12",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "人们的实践活动引起实践中自然因素、自然关系的变化，自然在实践中不断地变为属人的存在，是人的存在使“人的本质力量对象化”的明证。马克思在《1844年经济学手稿》中提出。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

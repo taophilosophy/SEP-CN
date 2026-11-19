@@ -1,0 +1,742 @@
+{
+ "key": "encyclopaedia of philosophical sciences",
+ "term": "Encyclopaedia of Philosophical Sciences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:02:59+00:00",
+ "status": "ok",
+ "note": "variant=Encyclopaedia of Philosophical Sciences; 审定公布名词库=10000; 海峡两岸名词对照库=7428; 其他来源数据库=1861; 预公布名词数据库=2711; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "百科全书",
+   "en": "encyclopaedia;encyclopedia",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.081",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "以条目为单元，系统概述各种知识或某一方面完备知识的大型工具书。"
+  },
+  {
+   "cn": "《自然科学哲学问题（丛刊）》",
+   "en": "Philosophical Problems in Natural Science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.091",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "讨论自然科学领域哲学问题的季刊杂志。以译介国外科学哲学为主，对中国自然辩证法学界了解国外研究，推动理论和实践研究有重要影响与作用。1979年创建，1989年停刊。"
+  },
+  {
+   "cn": "自然科学哲学问题",
+   "en": "philosophical problems in natural science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.092",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "包括三个方面：历史范畴，指源自苏联传统的对自然科学领域的哲学问题研究；研究范式，指以辩证法方式对自然科学中的哲学问题的研究；研究领域，指专门自然科学领域的哲学问题研究。"
+  },
+  {
+   "cn": "《哲学书简》",
+   "en": "Philosophical Letters",
+   "source": "世界历史名词",
+   "wordNumber": "05.0115",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1826-1831年，俄国哲学家恰达耶夫写的作品，对俄国在世界历史和政治中起的作用做了严厉的批评，认为俄国远远落后于西方国家，对世界历史进程毫无贡献。"
+  },
+  {
+   "cn": "哲学语义学",
+   "en": "philosophical semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.010",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "语义学的一个分支。对语言中的意义进行哲理研究。"
+  },
+  {
+   "cn": "哲理语言学",
+   "en": "philosophical linguistics",
+   "source": "语言学名词",
+   "wordNumber": "01.013",
+   "subjectFullName": "语言学_理论语言学_学科",
+   "subjectName": "学科",
+   "publishYear": "2011",
+   "definition": "语言学的一个分支。一方面研究语言对理解和阐明哲学概念的作用，一方面研究语言学理论、方法以及观察结果的哲学地位。主要包括语言本体论和语言研究方法论。"
+  },
+  {
+   "cn": "科学技术中的哲学问题",
+   "en": "philosophical problems in science and technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "泛指在各门自然科学和工程技术中的哲学问题研究。包括两大类：自然科学哲学问题和工程技术哲学问题研究。这种研究是中国自然辩证法早期研究传统，也是联系科学技术界与哲学家的研究桥梁。"
+  },
+  {
+   "cn": "哲学王",
+   "en": "philosopher king",
+   "source": "教育学名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古希腊哲学家柏拉图在其著作《理想国》中构想的理想国家统治者的形象。其核心在于利用哲学领悟的原理对国家进行治理。"
+  },
+  {
+   "cn": "哲学家之船",
+   "en": "Philosophers Ships",
+   "source": "世界历史名词",
+   "wordNumber": "05.0405",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1922年9月和11月，苏俄政府用船只遣送一批知识分子离境，其中有别尔嘉耶夫、洛斯基等著名哲学家。史称“哲学家之船”。"
+  },
+  {
+   "cn": "哲学的计算机建模",
+   "en": "philosophical computer modeling",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.691",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "将计算机建模用于哲学研究的一种重要的哲学研究手段。已在逻辑学、认识论、科学哲学（科学发现及评价）、心灵哲学、语言哲学、生物哲学（人工生命）、伦理学以及政治哲学等领域展现出广阔的发展前景。"
+  },
+  {
+   "cn": "美洲哲学学会",
+   "en": "American Philosophical Society",
+   "source": "世界历史名词",
+   "wordNumber": "03.0010",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1769年，在费城建立的学术团体，领导人为富兰克林，宗旨为“推动一切能够洞察事物本质的哲学研究”。"
+  },
+  {
+   "cn": "量子力学的哲学诠释",
+   "en": "philosophical interpretation of quantum mechanics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.364",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "关于量子力学的形式体系所描述的微观世界究竟是或应该是什么样的以及这种描述是否完备与客观的各种理解。主要包括哥本哈根解释、系综解释、隐变量解释、多世界解释以及模态解释等。"
+  },
+  {
+   "cn": "水产养殖学",
+   "en": "science of aquiculture,aquaculture science",
+   "source": "水产名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "水产_水产养殖学",
+   "subjectName": "水产养殖学",
+   "publishYear": "2002",
+   "definition": "研究水产经济动植物养殖原理与技术的学科。"
+  },
+  {
+   "cn": "科学",
+   "en": "science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "在社会实践中产生和发展的关于自然、社会和思维知识的体系，是实践经验的总结和精神文明的重要内容，其功能在于揭示规律，指导人们的行动。可分为自然科学、社会科学、思维科学。"
+  },
+  {
+   "cn": "科学",
+   "en": "science",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0001",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "正确反映客观事实的本质和规律的系统化、理论化的知识体系，以及一系列相关的认识和研究活动。"
+  },
+  {
+   "cn": "理科",
+   "en": "science",
+   "source": "教育学名词",
+   "wordNumber": "08.074",
+   "subjectFullName": "教育学_高等教育_系科、学科",
+   "subjectName": "系科、学科",
+   "publishYear": "2013",
+   "definition": "学科分类之一。（1）广义的理科泛指理、工、农、医等学科。与广义的文科相对应。（2）狭义的理科指数学、物理、化学、天文、地学、生物等自然科学领域的基础理论学科。"
+  },
+  {
+   "cn": "科研2.0",
+   "en": "science 2.0",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1318",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "科学家利用维基百科、博客等协作技术分享新发现，包括原始数据以及一些初期理论的研究方式。"
+  },
+  {
+   "cn": "科学体系学",
+   "en": "systems of sciences",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.123",
+   "subjectFullName": "自然辩证法_总论_历史上的重要流派和思想",
+   "subjectName": "历史上的重要流派和思想",
+   "publishYear": "2024",
+   "definition": "著名科学家钱学森提出的一种构造安排各类科学的体系理论。包括11个科学技术部门、3个知识层次。"
+  },
+  {
+   "cn": "科学观",
+   "en": "view of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.027",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "对科学的基本的总体看法。通过把科学作为探究和反思的对象，概括科学的性质、特征，提出关于科学的总体性的、基础性的观念。"
+  },
+  {
+   "cn": "科学哲学",
+   "en": "philosophy of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.001",
+   "subjectFullName": "自然辩证法_科学哲学_主要学派",
+   "subjectName": "主要学派",
+   "publishYear": "2024",
+   "definition": "以科学为分析和研究对象的哲学学科。其特点是对科学活动和科学理论从认识论、方法论以及本体论、价值论角度进行考察和分析，旨在提供关于科学认识及其发展的逻辑性、历史性和社会制约性的模型。主要探讨科学知识的本"
+  },
+  {
+   "cn": "哲学家",
+   "en": "philosopher",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "哲学心理学",
+   "en": "philosophical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "爱奥尼亚哲学家",
+   "en": "Ionian philosophers",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "海洋科学",
+   "en": "marine science\",\"ocean science",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地理学体系",
+   "en": "system of geographical sciences",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "海洋资源学",
+   "en": "science of marine resources",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共相科学",
+   "en": "nomothetic sciences",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "大气科学",
+   "en": "atmospheric science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息[科学]",
+   "en": "information science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境科学",
+   "en": "environmental science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表面科学",
+   "en": "surface science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "材料科学",
+   "en": "materials science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "能源科学",
+   "en": "energy science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为科学",
+   "en": "behavioral science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "材料科学",
+   "en": "materials science",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "空间科学",
+   "en": "space science",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "河口学",
+   "en": "estuarine science",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "极地科学",
+   "en": "polar science",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大[型]科学",
+   "en": "big science",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "吉利德科学公司",
+   "en": "Gilead Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学",
+   "en": "Data Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公民科学",
+   "en": "citizen science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放科学",
+   "en": "open science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国人民解放军军事医学科学院",
+   "en": "Academy of Military Medical Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "计算社会科学",
+   "en": "computational social science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑科学",
+   "en": "Brain-Inspired Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学素养",
+   "en": "data science literacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学加速器",
+   "en": "data science accelerator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大科学时代",
+   "en": "big science age",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子信息科学",
+   "en": "Quantum Information Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学学",
+   "en": "science of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "20世纪30、40年代兴起的一门以科学本身为研究对象的跨学科研究，目的在于认识科学的性质特点、关系结构、运动规律和社会功能，并在认识的基础上研究促进科学发展的一般原理、原则和方法。"
+  },
+  {
+   "cn": "哲学的党性",
+   "en": "philosophical party spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0198",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "（1）哲学的派别性，即基于哲学基本问题的不同回答而形成的唯物主义和唯心主义这两条基本路线、两个基本派别。（2）哲学的阶级性。哲学作为一种社会意识形态，同其他社会意识形态一样，其性质也不能不为社会存在所"
+  },
+  {
+   "cn": "毛泽东哲学思想",
+   "en": "philosophical thought of Mao Zedong",
+   "source": "马克思主义",
+   "wordNumber": "01.0227",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东为代表的中国共产党人把马克思列宁主义哲学思想与中国革命和建设的具体实践相结合的产物，以《矛盾论》《实践论》为代表作，是马克思列宁主义哲学思想的中国化理论。"
+  },
+  {
+   "cn": "科学史",
+   "en": "history of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "研究人类对自然界和社会的科学理解和认知发展过程的一门学问。科学史利用了思想史和社会史两个面向的历史研究方法，可分为内部史和外部史研究。"
+  },
+  {
+   "cn": "科学哲学",
+   "en": "philosophy of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从哲学角度考察科学的一门学科，是自然科学与社会科学的交叉学科。它以整个科学活动和科学理论为研究对象，主要探讨科学的本质、科学知识的获得和检验、科学的逻辑结构等有关科学认识论和科学方法论方面的基本问题。"
+  },
+  {
+   "cn": "科学社会学",
+   "en": "sociology of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "以科学活动的内部社会关系、科学和社会之间的相互关系、科学和其他社会建制之间的相互作用以及科学活动中的人为研究对象的一门分支社会学。"
+  },
+  {
+   "cn": "科学文化",
+   "en": "culture of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家或“科学共同体”成员关于应当如何去从事相关研究的共同信念或观念。"
+  },
+  {
+   "cn": "科学的精神气质",
+   "en": "ethos of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.3",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "默顿提出的概念，指约束科学家的有情感色彩的价值观和规范综合体。这些规范以规定、禁止、偏好和许可的方式表达，借助制度性价值予以合法化。其现代形式由四组体制上的规则构成：普遍性、公有性、无私利性和有条理的"
+  },
+  {
+   "cn": "科学的制度化",
+   "en": "institutionalization of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.5",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "借助制度性价值，将科学的精神特质即约束科学家的有情感色彩的价值观和规范综合体合法化，其目的在于扩展被证实了的知识。"
+  },
+  {
+   "cn": "科学的自主性",
+   "en": "autonomy of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.8",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家奉行的一种观点，即认为科学是一项独特的事业，来自外界的规定会损害科学共同体，只有允许科学家按照自己的标准和判断行事，才能获得正确的知识并进而得到有效的实际应用。"
+  },
+  {
+   "cn": "科学的适应",
+   "en": "“accommodation” of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.22",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学对社会需求的满足。科学家除了专门的科学研究外，还需要把科学知识与具体科学技术等社会需求和问题结合起来，了解社会大众对该知识的重要性和有效性评价，也即科学知识要承担一定的社会功能。"
+  },
+  {
+   "cn": "科学中的不连续性",
+   "en": "science of discontinuity",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.24",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学中的一些社会反常现象。默顿认为是规范系统与奖励系统之间特有的不连续状况的结果；库恩则认为反常是科学发现的先兆，是科学革命的本质和必然。"
+  },
+  {
+   "cn": "科学的世俗化",
+   "en": "secularization of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.25",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "新教伦理对科学发展所产生的效应，主要表现在科学家对其科学工作的态度上的变化，即从证明、发现和赞颂上帝的自然杰作到逐渐摆脱宗教而转向独立，更多关注世俗生活的转变过程。"
+  },
+  {
+   "cn": "科学的效用",
+   "en": "utility of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.26",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学在现实生活中，包括宗教、经济、技术、军事、乃至自我发展等方面所能产生的功用。"
+  },
+  {
+   "cn": "自然哲学医学模式",
+   "en": "natural philosophical medical model",
+   "source": "社会医学名词",
+   "wordNumber": "2.2",
+   "subjectFullName": "医学模式",
+   "subjectName": "自然哲学医学模式",
+   "publishYear": "2025",
+   "definition": "将健康、疾病与人类生活的自然环境和社会环境相联系的朴素、辩证和整体的医学观和方法论。其核心思想认为人体与自然界存在内在统一性，均由特定成分构成，这些成分之间保持平衡就是健康状态，平衡被打破则导致疾病。"
+  },
+  {
+   "cn": "科学的社会研究",
+   "en": "social studies of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "一个多学科交叉的领域，依其历史脉络，可以分为以实证主义传统为准则的科学社会学、以“强纲领”为核心的科学知识社会学和以常人方法论为基础的田野式科学研究。"
+  },
+  {
+   "cn": "科学的社会功能",
+   "en": "social functions of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学",
+   "subjectName": "科学社会学",
+   "publishYear": "2025",
+   "definition": "3.10.4.1  科学的规范结构  normative structure of science"
+  },
+  {
+   "cn": "科学的规范结构",
+   "en": "normative structure of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.1",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "规定科学家在试图收集和解释自然的客观证据时应该以超然的、非迷信的、非个人性的、自我批评的和思想开放的态度予以对待的诸规范之间的结构。"
+  },
+  {
+   "cn": "科学界的社会分层",
+   "en": "social stratification of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.2",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "在科学3.10.4.这个高度分层的社会体制中，科学家因为占有或者所得的多寡而显现出的地位上的差别，具体表现在产出率、知名度和声望等方面。"
+  },
+  {
+   "cn": "科学的制度规范",
+   "en": "institutional norms of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.4",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学作为一种制度与它存在于其中的社会之间的关系，即社会对科学家群体有着一定的角色要求和行为规则，具体包括学术诚实、正直、有组织的怀疑、无私利性和非个人性等内容。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

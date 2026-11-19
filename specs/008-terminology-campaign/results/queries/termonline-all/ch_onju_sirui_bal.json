@@ -1,0 +1,672 @@
+{
+ "key": "ch'onju sirui-bal",
+ "term": "Ch’ŏnju sirŭi-bal",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:11:11+00:00",
+ "status": "ok",
+ "note": "variant=Ch’ŏnju sirŭi-bal; 审定公布名词库=1624; 海峡两岸名词对照库=443; 其他来源数据库=209; 预公布名词数据库=65; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "支气管肺泡灌洗",
+   "en": "bronchoalveolar lavage,BAL",
+   "source": "器官移植学名词",
+   "wordNumber": "11.090",
+   "subjectFullName": "器官移植学_肾移植_肾移植术后感染并发症",
+   "subjectName": "肾移植术后感染并发症",
+   "publishYear": "2020",
+   "definition": "通过纤维支气管镜对支气管以下肺段或亚肺段水平，反复以无菌生理盐水灌洗、回收，并对其进行一系列的检测和分析。从而获得下呼吸道病变的性质特点和活动程度，有助于确立诊断。"
+  },
+  {
+   "cn": "支气管肺泡灌洗",
+   "en": "bronchoalveolar lavage,BAL",
+   "source": "结核病学名词",
+   "wordNumber": "03.716",
+   "subjectFullName": "结核病学_结核病诊断_诊断方法_内镜及介入诊断",
+   "subjectName": "内镜及介入诊断",
+   "publishYear": "2019",
+   "definition": "通过支气管镜对肺段或肺亚段支气管及肺泡灌以无菌生理盐水，回收肺泡表面被覆液与灌入生理盐水混合液的一种方法。依据灌洗部位、灌洗液量及操作时间等差异分为全肺灌洗和肺段、亚肺段灌洗。"
+  },
+  {
+   "cn": "支气管肺泡灌洗[术]",
+   "en": "bronchoalveolar lavage,BAL",
+   "source": "呼吸病学名词",
+   "wordNumber": "07.021",
+   "subjectFullName": "呼吸病学_诊断与治疗_诊断技术",
+   "subjectName": "诊断技术",
+   "publishYear": "2018",
+   "definition": "通过支气管镜，对支气管以下的肺段或肺亚段水平反复以无菌生理盐水灌洗、回收的技术。可对回收液进行细胞学、生化学、酶学和免疫学等一系列检测和分析。分为全肺灌洗和肺段、亚肺段灌洗两种形式，前者主要用于硅肺及"
+  },
+  {
+   "cn": "B7-1分子",
+   "en": "B7-1",
+   "source": "免疫学名词",
+   "wordNumber": "2.655",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "即CD80，属B7家族成员，可提供T细胞活化的协同刺激信号。"
+  },
+  {
+   "cn": "B7-2分子",
+   "en": "B7-2",
+   "source": "免疫学名词",
+   "wordNumber": "2.656",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "即CD86。属B7家族成员，主要表达于某些抗原提呈细胞表面，能与CD28结合，可提供T细胞活化的协同刺激信号，与细胞毒性T淋巴细胞抗原4(CTLA-4)结合，可启动抑制性信号，对T细胞活化有负反馈作用"
+  },
+  {
+   "cn": "8位/10位编码",
+   "en": "8b/10b encoding",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0358",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "在光纤通道和千兆以太网中把8位数据字节序列转换成10位传输字序列的过程。"
+  },
+  {
+   "cn": "企业对企业",
+   "en": "business to business,B to B,B2B",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0173",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "企业与企业间依托互联网进行的电子商务活动。是电子商务的主流。"
+  },
+  {
+   "cn": "企业对企业广告网络",
+   "en": "b2b advertising network",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.218",
+   "subjectFullName": "新闻学与传播学_广告_广告作品",
+   "subjectName": "广告作品",
+   "publishYear": "2022",
+   "definition": "针对商用产品市场营销人员和广告代理公司媒介人员提供的品牌效果合一的互动营销体验。通常，结合精准广告展示、时事通讯、网络研讨会等传播手段深度影响目标行业受众。"
+  },
+  {
+   "cn": "B[淋巴]细胞",
+   "en": "B lymphocyte;B cell",
+   "source": "动物学名词",
+   "wordNumber": "3.0596",
+   "subjectFullName": "动物学_动物组织学_主要器官组织_淋巴器官组织结构",
+   "subjectName": "淋巴器官组织结构",
+   "publishYear": "2021",
+   "definition": "其发育分化和成熟在骨髓内完成的淋巴细胞。约占外周血淋巴细胞总数的10%～15%，受抗原刺激后，可转化为浆细胞，产生抗体，参与体液免疫。鸟类中的B细胞由腔上囊分化。"
+  },
+  {
+   "cn": "B显示器",
+   "en": "B-scope,B-display",
+   "source": "大气科学名词",
+   "wordNumber": "02.262",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "以方位角和距离为坐标的矩形雷达显示器。目标回波在此坐标上以强度调制的影像出现。"
+  },
+  {
+   "cn": "B7同源物2",
+   "en": "B7 homologue 2,B7-H2",
+   "source": "免疫学名词",
+   "wordNumber": "2.658",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "即CD275，B7家族成员，受体为诱导性共刺激分子，能促进活化T细胞增殖、黏附分子表达和多种细胞因子产生。"
+  },
+  {
+   "cn": "B7同源物3",
+   "en": "B7 homologue 3,B7-H3",
+   "source": "免疫学名词",
+   "wordNumber": "2.659",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "即CD276，B7家族成员。在初始B细胞和树突状细胞表面表达水平较高，其受体尚不清楚，刺激T细胞增殖和产生γ干扰素，促进细胞毒性T细胞分化。"
+  },
+  {
+   "cn": "B7同源物1",
+   "en": "B7 homologue 1,B7-H1",
+   "source": "免疫学名词",
+   "wordNumber": "2.657",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "即CD274，B7家族成员。主要表达于活化的抗原提呈细胞表面，受体为T细胞表面的PD-1，能抑制T细胞增殖和产生细胞因子，对免疫应答起负调控作用，可能参与维持外周自身免疫耐受。"
+  },
+  {
+   "cn": "B[淋巴]细胞",
+   "en": "B lymphocyte,B cell",
+   "source": "免疫学名词",
+   "wordNumber": "2.12",
+   "subjectFullName": "免疫学_免疫系统_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2007",
+   "definition": "其特征性表面标志是膜免疫球蛋白(即B细胞受体)，经抗原激活后可分化为浆细胞，产生与其所表达B细胞受体具有相同特异性的抗体，介导体液免疫。"
+  },
+  {
+   "cn": "b[型]线理",
+   "en": "b lineation",
+   "source": "地质学名词",
+   "wordNumber": "09.05.058",
+   "subjectFullName": "地质学_构造地质学_中、小尺度面状、线状构造",
+   "subjectName": "中、小尺度面状、线状构造",
+   "publishYear": "2026",
+   "definition": "与物质运动(或流线)方向垂直的线理。方向平行于中间应变主轴y轴，如石香肠构造、窗棂构造等。"
+  },
+  {
+   "cn": "激活素B",
+   "en": "activin B",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.028",
+   "subjectFullName": "性腺疾病_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "由两个βʙ亚基通过二硫键连接组成的一种激活素。"
+  },
+  {
+   "cn": "B阶段",
+   "en": "B-stage",
+   "source": "精细化工名词",
+   "wordNumber": "07.0122",
+   "subjectFullName": "精细化工_胶黏剂",
+   "subjectName": "胶黏剂",
+   "publishYear": "2025",
+   "definition": "热固性树脂反应的中期阶段。此时树脂可被加热软化，在某些液体中也可溶胀，但不能完全溶解和熔融。"
+  },
+  {
+   "cn": "维生素B₁",
+   "en": "vitamin B1",
+   "source": "精细化工名词",
+   "wordNumber": "08.0842",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为C₁₂H₁₇ClN₄₀S·HCl，白色结晶或结晶性粉末。以丙烯腈合成或由米糠或酵母水解而得。用于补充维生素B1。"
+  },
+  {
+   "cn": "维生素B₆",
+   "en": "vitamin B6",
+   "source": "精细化工名词",
+   "wordNumber": "08.0843",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为C₈H₁₁NO₃·HCl，白色至微黄色结晶性粉末，由丙氨酸合成。用于补充维生素B6。"
+  },
+  {
+   "cn": "维生素B₁₂",
+   "en": "vitamin B12",
+   "source": "精细化工名词",
+   "wordNumber": "08.0844",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为C₆₃H₈₈CON₁₄O₁₄P，浅红色至棕色细粉末，通过发酵法制得。用于补充维生素B12，起调节钙、磷代谢的作用。"
+  },
+  {
+   "cn": "宽吸收线类星体",
+   "en": "broad absorption-line quasar\",\"BAL quasar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "B7-1分子",
+   "en": "B7-1",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "B7-2分子",
+   "en": "B7-2",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "CH星",
+   "en": "CH star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "B[淋巴]细胞",
+   "en": "B lymphocyte， B cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "B7同源物1",
+   "en": "B7 homologue-1， B7-H1",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "B7同源物2",
+   "en": "B7 homologue-2， B7-H2",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "B7同源物3",
+   "en": "B7 homologue-3， B7-H3",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "B[淋巴]细胞",
+   "en": "B lymphocyte\",\"B cell",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "碱性玫瑰精（=罗丹明B）",
+   "en": "rhodamine B",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "罗丹明B，玫瑰红B，碱性玫瑰精",
+   "en": "rhodamine B",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "玫瑰红B（=罗丹明B）",
+   "en": "rhodamine B",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "B细胞",
+   "en": "B cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "B染色体",
+   "en": "B chromosome",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "B显示器",
+   "en": "B-display",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "B2相",
+   "en": "B2 phase",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "B波段",
+   "en": "B band",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "B星等",
+   "en": "B-magnitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "B型超巨星",
+   "en": "B supergiant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "B型星",
+   "en": "B star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "足",
+   "en": "bal\",\"foot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "B树",
+   "en": "B-tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "B组难度",
+   "en": "B difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "B组裁判",
+   "en": "B-jury",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "B 阶段",
+   "en": "phase B",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "B分",
+   "en": "‘B’ type mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支气管肺泡灌洗",
+   "en": "bronchoalveolar lavage,BAL",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.38",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "通过支气管镜对肺段或肺亚段支气管及肺泡灌以无菌生理盐水，然后回收肺泡表面被覆液与灌入生理盐水混合液的一种方法。依据灌洗部位、灌洗液量及操作时间等差异分为全肺灌洗和肺段、亚肺段灌洗。"
+  },
+  {
+   "cn": "B波段紫外线",
+   "en": "ultraviolet B, UV-B",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.2",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "波长范围为280nm～315nm的紫外线。"
+  },
+  {
+   "cn": "B淋巴细胞",
+   "en": "B lymphocyte",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.2.6",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "其特征性表面标志是膜免疫球蛋白（即B细胞受体），经抗原激活后可分化为浆细胞，产生与其所表达的B细胞受体具有相同特异性的抗体，介导体液免疫的一类淋巴细胞。部分B细胞还可以提呈抗原并分泌细胞因子。"
+  },
+  {
+   "cn": "初始B细胞",
+   "en": "naive B cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.2.7",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "未接触过抗原的成熟B细胞。"
+  },
+  {
+   "cn": "调节性B细胞",
+   "en": "regulatory B cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.2.8",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "具有免疫负调节作用的B细胞功能亚群。可通过分泌IL-10等免疫负调节因子抑制免疫介导的炎症反应发展和(或)加快炎症的恢复。"
+  },
+  {
+   "cn": "维生素B",
+   "en": "vitamin B family",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.5.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "维生素B₁、维生素B₂、泛酸、烟酸、维生素B₆、生物素、叶酸、维生素B₁₂等的统称。一类水溶性维生素，大多数作为辅酶的成分参与人体各种生理功能，在食品发酵工艺中用作发酵用营养物质"
+  },
+  {
+   "cn": "葡萄球菌肠毒素B",
+   "en": "staphylococcal enterotoxin B",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1.1.6.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "金黄色葡萄球产生的B 型毒素，可作为毒素类生物战剂。"
+  },
+  {
+   "cn": "B",
+   "en": "B cell epitope",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.28",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "抗原分子表面存在的能够和BCR/抗体结合的部位"
+  },
+  {
+   "cn": "B细胞受体",
+   "en": "B cell receptor, BCR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.2.9",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "B 细胞表面特异性识别抗原的受体，其本质是一种膜表面免疫球蛋白"
+  },
+  {
+   "cn": "HLA-B27基因",
+   "en": "human leukocyte antigen-B27",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.4.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_诊断基因",
+   "subjectName": "诊断基因",
+   "publishYear": "2025",
+   "definition": "一种MHC-I类分子等位基因，是SpA的主要遗传学因素。HLA-B27基因阳性见于90%以上的AS患者和50%~75%的其他类型SpA患者，而普通人群中HLA-B27基因的阳性率仅5%~15%，且不同"
+  },
+  {
+   "cn": "HLA-B51基因",
+   "en": "human leukocyte antigen-B51",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.4.2",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_诊断基因",
+   "subjectName": "诊断基因",
+   "publishYear": "2025",
+   "definition": "MHC-I类分子基因，几乎表达于所有的有核细胞上，尤其淋巴细胞表达丰富。HLA-B51基因是HLA-B5裂解产物，与白塞病（Behçet's Disease）发病有很大相关性，患者更易出现色素膜炎、结"
+  },
+  {
+   "cn": "HLA-B5801基因",
+   "en": "human leukocyte antigen-B5801",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.4.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_诊断基因",
+   "subjectName": "诊断基因",
+   "publishYear": "2025",
+   "definition": "与别嘌醇过敏密切相关的一种MHC-I类分子，在亚裔人群阳性率较高，阴性患者可排除严重过敏反应的可能。"
+  },
+  {
+   "cn": "微小病毒B相关性血管炎",
+   "en": "parvovirus B19-associated vasculitis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.2.18",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种与细小病毒B19感染相关的血管炎性自身免疫病。 表现为包括巨细胞动脉炎、结节性多动脉炎、过敏性血管炎及肉芽肿性多动脉炎等多种类型，血清抗B19抗体可阳性，组织病理学表现复杂多样。"
+  },
+  {
+   "cn": "乙型肝炎相关性血管炎",
+   "en": "hepatitis B-associated vasculitis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.2.19",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种与乙肝病毒感染相关，由免疫复合物介导的累及中小动脉的血管炎。临床表现与多动脉炎（PAN）相似。血清中可检出乙肝病毒、病毒DNA、多聚酶和乙肝抗原，组织病理学显示小动脉和或中动脉血管周围单核或混合细"
+  },
+  {
+   "cn": "乙类传染病",
+   "en": "category B infectious disease",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "依据《中华人民共和国传染病防治法》，按国务院卫生行政部门规定，需严格管理的传染病。国务院卫生行政部门根据传染病暴发、流行情况和危害程度对该类型所属传染病病种进行增加、减少或调整。"
+  },
+  {
+   "cn": "乙肝疫苗",
+   "en": "hepatitis B vaccine, HepB",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.5.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "预防乙型肝炎的免疫接种生物制剂，借助基因工程技术使酵母细胞表达重组的乙型肝炎病毒表面抗原(HbsAg)经纯化并加佐剂吸附而制成。"
+  },
+  {
+   "cn": "B2",
+   "en": "class B2 food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.27.10",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "联合国粮农组织和世界卫生组织食品添加剂联合专家委员会未进行过安全性评价的食品添加剂"
+  },
+  {
+   "cn": "B1",
+   "en": "class B1 food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.27.9",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "联合国粮农组织和世界卫生组织食品添加剂联合专家委员会曾进行过安全性评价，但因毒理学资料不足未制定每日允许摄入量的食品添加剂"
+  },
+  {
+   "cn": "B",
+   "en": "class B food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.27.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "联合国粮农组织和世界卫生组织食品添加剂联合专家委员会曾进行过安全性评价，但未制定每日允许摄入量，或者未进行过安全性评价的食品添加剂"
+  },
+  {
+   "cn": "B细胞活化因子",
+   "en": "B cell-activating factor, BAF",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.10",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "属肿瘤坏死因子超家族成员，主要由单核细胞、树突状细胞及T细胞产生，可促进B细胞成熟和分化，在免疫应答中起重要作用，并与自身免疫密切相关。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,682 @@
+{
+ "key": "adjustment",
+ "term": "adjustment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:47:46+00:00",
+ "status": "ok",
+ "note": "variant=adjustment; 审定公布名词库=293; 海峡两岸名词对照库=145; 其他来源数据库=11; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "调剂",
+   "en": "adjustment",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.133",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "发行组织成员单位之间相互调配余缺出版物的活动。"
+  },
+  {
+   "cn": "平差",
+   "en": "adjustment",
+   "source": "测绘学名词",
+   "wordNumber": "01.041",
+   "subjectFullName": "测绘学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "采用一定的估算原则处理各种测量数据，求得待定量最佳估值并进行精度估计的理论和方法。"
+  },
+  {
+   "cn": "[仪器仪表]调整",
+   "en": "adjustment",
+   "source": "电力名词",
+   "wordNumber": "02.127",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "对仪器仪表的某些可调部分进行调节,以使其达到正常工作状态和规定准确度要求的一组操作。"
+  },
+  {
+   "cn": "调节",
+   "en": "adjustment",
+   "source": "物理学名词",
+   "wordNumber": "01.0181",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "心理学名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "个体主动运用技巧以增加自己与环境的和谐关系。比适应更主动。"
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.013",
+   "subjectFullName": "放射医学与防护_放射流行病学_概述、设计与实施",
+   "subjectName": "概述、设计与实施",
+   "publishYear": "2014",
+   "definition": "流行病学统计分析中对效应量度的一种综合性的统计方法。目的是将要比较的人群在构成方面不同(比如两人群的年龄结构不同)的影响最小化。常见的方法有回归分析和直接或间接标化。主要用于率和相对危险的统计分析。"
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.050",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "电气工程名词",
+   "wordNumber": "26.132",
+   "subjectFullName": "电气工程_电磁测量和电离辐射测量",
+   "subjectName": "电磁测量和电离辐射测量",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "电子学名词",
+   "wordNumber": "17.011",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "adjusting",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.337",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_金属切削机床_机床运转与操作",
+   "subjectName": "机床运转与操作",
+   "publishYear": "2021",
+   "definition": "使机床各部分达到能进入正常工作状态的操作。"
+  },
+  {
+   "cn": "调节",
+   "en": "adjust",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.107",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "通过反馈改变机体的状态，使机体适应内外环境改变的过程。"
+  },
+  {
+   "cn": "调整",
+   "en": "adjusting",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0199",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "将发动机的可变控制机构调定到正确规范的程序。"
+  },
+  {
+   "cn": "调整机构",
+   "en": "adjuster",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.073",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "车身上具调整功能的装置。"
+  },
+  {
+   "cn": "冲转",
+   "en": "adjustment bookkeeping",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.057",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "将一个数额从一个账户转入另一个账户，以调整有关账户的发生额或全额的过程。每笔冲转业务都必须有合法的依据。"
+  },
+  {
+   "cn": "适应障碍",
+   "en": "adjustment disorder",
+   "source": "行为医学名词",
+   "wordNumber": "10.101",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激相关障碍",
+   "subjectName": "应激相关障碍",
+   "publishYear": "2022",
+   "definition": "一种出现在明显的生活改变或应激性事件之后，产生以烦恼、抑郁等为主的情绪障碍，适应不良的行为障碍或生理功能障碍，常同时伴社会功能受损的异常状态。"
+  },
+  {
+   "cn": "适应障碍",
+   "en": "adjustment disorder",
+   "source": "精神医学名词",
+   "wordNumber": "03.199",
+   "subjectFullName": "精神医学_诊断分类_应激与神经症性障碍",
+   "subjectName": "应激与神经症性障碍",
+   "publishYear": "2019",
+   "definition": "个体在日常生活中无法根据情境的要求做出应变，而陷入一种主观痛苦和情绪紊乱的精神病理状态。通常妨碍社会功能和操作，出现在对明显生活改变或应激性生活事件的适应期。个体素质或易感性在这种障碍发生的危险性及表"
+  },
+  {
+   "cn": "调整账户",
+   "en": "adjustment account",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0035",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "为调整某个账户的余额，以表示被调整账户的实际余额而开设的账户。"
+  },
+  {
+   "cn": "适应障碍",
+   "en": "adjustment disorder",
+   "source": "心理学名词",
+   "wordNumber": "10.129",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "个体在日常生活中无法根据情境的要求做出应变，而陷入主观痛苦和情绪紊乱的心理障碍。"
+  },
+  {
+   "cn": "适应性障碍",
+   "en": "adjustment disorder",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.220",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "调版",
+   "en": "page adjustment",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.143",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "上版稿件因报道需求的变化而发生的版面位置变化。"
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直方图调整",
+   "en": "histogram adjust\",\"histogram adjustment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "平差值",
+   "en": "adjusted value\",\"adjusted  quantity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "调整时间",
+   "en": "adjustment time",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适应障碍",
+   "en": "adjustment disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "调整成本",
+   "en": "adjustment cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "平差改正",
+   "en": "adjustment correction",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "地转适应",
+   "en": "geostrophic adjustment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对流调整",
+   "en": "convective adjustment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环流调整",
+   "en": "circulation adjustment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "季节调整",
+   "en": "seasonal adjustment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "通量调整",
+   "en": "flux adjustment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社会适应",
+   "en": "social adjustment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "海损理算",
+   "en": "average adjustment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "价格调整",
+   "en": "price adjustment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "支付调整",
+   "en": "payment adjustment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空间调整",
+   "en": "spatial adjustment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地图接边",
+   "en": "map adjustment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "空间纠正",
+   "en": "spatial adjustment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "adjust\",\"tune\",\"adjustment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "adjust\",\"adjustment\",\"correction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调桨",
+   "en": "adjust\",\"adjustment\",\"oaring\",\"rigging adjustability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "整理柔道服",
+   "en": "adjustment of judogi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表尺调整",
+   "en": "rear sight adjustment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调桨器",
+   "en": "oar inclination adjuster",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调整球",
+   "en": "adjust a poor pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因地制宜",
+   "en": "adjusting measures to local conditions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调整应急响应等级",
+   "en": "to adjust the emergency response level",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适时下调响应级别并实行动态调整",
+   "en": "to downgrade the emergency response level in due course and make dynamic adjustments",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "三期叠加",
+   "en": "simultaneously deal with the slowdown in economic growth, make difficult structural adjustments, and absorb the effects of previous economic stimulus policies",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "社会调适",
+   "en": "social adjustment",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "通过种种经济、政治、文化和社会手段、机制和条件对社会成员或群体的行为和心理进行调整，以适应变化着的社会生活和社会环境。"
+  },
+  {
+   "cn": "风险调整",
+   "en": "risk adjustment",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "医保部门通过分析不同区域、不同基金的参保人群健康风险和疾病经济负担，在进行基金分配、支付和管理时进行优化，以调节不同区域、人群、医疗机构面临的风险差异。"
+  },
+  {
+   "cn": "政策调整",
+   "en": "policy adjustment",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1.7",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "根据实际运行效果、环境变动或政策反馈，对原有政策内容、工具或目标进行修订、补充或优化，以提升政策适应性和有效性。"
+  },
+  {
+   "cn": "调节生产",
+   "en": "adjust production",
+   "source": "马克思主义",
+   "wordNumber": "03.0181",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以市场需求为主按照供求关系安排生产的经济活动。在资本主义社会，资本家为了攫取利润，在企业内部的经济管理上往往按照市场需求和供需变化关系调节生产，有计划地生产。但同样为了攫取利润，在市场上，各个企业则为"
+  },
+  {
+   "cn": "修正r方",
+   "en": "adjusted r-squared",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.92",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在多元线性回归分析中，考虑到新加入的自变量所解释的因变量的变异比例和自由度，而进行调整的复决定系数。"
+  },
+  {
+   "cn": "儿童起居调摄",
+   "en": "living adjustment for child",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.8.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "通过科学合理的生活方式来达到促进健康、治疗疾病目的的一种中医调养方法。具体包括合理安排儿童起居作息，做到起居有常、劳逸适度。"
+  },
+  {
+   "cn": "质量调整寿命天",
+   "en": "quality adjusted life day",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.13",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一种健康状况和寿命质量的正向综合测量指标，即将一个人的实际生存年数换算成相当于完全健康的人生存的天数。一个质量调整寿命天反映一个健康生存天。"
+  },
+  {
+   "cn": "质量调整寿命年",
+   "en": "quality adjusted life year",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一种健康状况和寿命质量的正向综合测量指标，即将一个人的实际生存年数换算成相当于完全健康的人生存的年数。一个质量调整寿命年反映一个健康生存年，完全健康为1，死亡为0。"
+  },
+  {
+   "cn": "健康调整期望寿命",
+   "en": "healthy adjusted life expectancy",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.10",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "有良好健康状态的生命年以及个体可在比较舒适的状态下生活的平均预期年数。"
+  },
+  {
+   "cn": "健康调整寿命年",
+   "en": "healthy adjusted life year",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.8",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "用生存质量来调整生存年数而得到的与健康人等同状态的生存年数。"
+  },
+  {
+   "cn": "伤残调整寿命年",
+   "en": "disability adjusted life year",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "从发病到死亡所损失的全部健康寿命年，包括因早死所致的寿命损失年和疾病所致伤残引起的健康寿命损失年。"
+  },
+  {
+   "cn": "质量调整生命年",
+   "en": "quality-adjusted life years,QALYs",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "全面考虑健康的生理、心理和社会适应各方面，把生命质量和生命数量相结合以时间为测量单位反映个体健康状况的综合评价指标"
+  },
+  {
+   "cn": "失能调整生命年",
+   "en": "disability-adjusted life years,DALYs",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.3.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "因疾病死亡和失能而损失的健康生命年的综合评价指标，可以评价疾病对人群危害程度，准确描述死亡和失能状态下损失的健康生命年。"
+  },
+  {
+   "cn": "伤残调整生命年",
+   "en": "disability adjusted life year, DALY",
+   "source": "社会医学名词",
+   "wordNumber": "9.28",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "伤残调整生命年",
+   "publishYear": "2025",
+   "definition": "从发病到死亡所损失的全部健康年，包括因早亡所致的寿命损失年和疾病所致伤残引起的寿命损失年两部分，是生命数量和生命质量以时间为单位的综合度量。综合反映疾病负担。"
+  },
+  {
+   "cn": "质量调整生命年",
+   "en": "quality-adjusted life years, QALYs",
+   "source": "社会医学名词",
+   "wordNumber": "5.5",
+   "subjectFullName": "生命质量",
+   "subjectName": "质量调整生命年",
+   "publishYear": "2025",
+   "definition": "用生命质量对生存时间进行加权累加得到的健康生存时间。生命质量的权重以0～1 之间的值来评价，完全健康的价值定为1，死亡的价值定为0。其综合反映了个体或群体生命质量和生存时间。"
+  },
+  {
+   "cn": "医保药品目录动态调整机制",
+   "en": "dynamic adjustment mechanism of reimbursement drug list",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.1.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "综合考虑药品临床需求、医保基金承受能力和新药上市情况，周期性调整医保药品目录的政策规定。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

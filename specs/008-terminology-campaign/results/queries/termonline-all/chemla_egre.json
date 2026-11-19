@@ -1,0 +1,462 @@
+{
+ "key": "chemla egre",
+ "term": "Chemla Égré",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:03:48+00:00",
+ "status": "ok",
+ "note": "variant=Chemla Égré; 审定公布名词库=81; 海峡两岸名词对照库=58; 其他来源数据库=1; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "爪状骨针",
+   "en": "chela",
+   "source": "动物学名词",
+   "wordNumber": "5.0606",
+   "subjectFullName": "动物学_无脊椎动物学_多孔动物门",
+   "subjectName": "多孔动物门",
+   "publishYear": "2021",
+   "definition": "中间杆弯曲，两端的翼反向弯曲的一种小骨针。包含异爪状骨针、等爪状骨针、掌形爪状骨针等。"
+  },
+  {
+   "cn": "螯",
+   "en": "chela",
+   "source": "动物学名词",
+   "wordNumber": "5.2023",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门",
+   "subjectName": "甲壳动物亚门",
+   "publishYear": "2021",
+   "definition": "螯肢可活动的爪。呈钳状。"
+  },
+  {
+   "cn": "螯钳",
+   "en": "chela",
+   "source": "昆虫学名词",
+   "wordNumber": "11.054",
+   "subjectFullName": "昆虫学_蜱螨学",
+   "subjectName": "蜱螨学",
+   "publishYear": "2000",
+   "definition": "螯肢的端节，呈钳状。"
+  },
+  {
+   "cn": "掌形爪状骨针",
+   "en": "palmate chela",
+   "source": "动物学名词",
+   "wordNumber": "5.0609",
+   "subjectFullName": "动物学_无脊椎动物学_多孔动物门",
+   "subjectName": "多孔动物门",
+   "publishYear": "2021",
+   "definition": "等爪状骨针或异爪状骨针的侧翼与中间杆融合，单翼、中翼和前翼的末端游离，并逐渐变宽的一种爪状骨针。"
+  },
+  {
+   "cn": "锚爪状骨针",
+   "en": "anchorate chela",
+   "source": "动物学名词",
+   "wordNumber": "5.061",
+   "subjectFullName": "动物学_无脊椎动物学_多孔动物门",
+   "subjectName": "多孔动物门",
+   "publishYear": "2021",
+   "definition": "末端有多个游离的爪状瓣，向内弯曲形如倒置的锚钩或锚片，两个侧瓣微微弯曲，整个与主杆融合的一种等爪状骨针。"
+  },
+  {
+   "cn": "定趾",
+   "en": "fixed chela",
+   "source": "昆虫学名词",
+   "wordNumber": "11.061",
+   "subjectFullName": "昆虫学_蜱螨学",
+   "subjectName": "蜱螨学",
+   "publishYear": "2000",
+   "definition": "螯肢末端内侧或背侧不能活动的趾，上生锯齿，用以切割食物。"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "行为医学名词",
+   "wordNumber": "13.044",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "一种特殊的心理结构。是帮助人知觉、组织、获得和利用信息的认知结构。"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0007",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据库中数据的结构与特征的具体表示与描述。其反映了数据内在结构与数据间的关系。"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "心理学名词",
+   "wordNumber": "06.008",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "皮亚杰认为图式指一种特殊的心理结构，或一种组织起来的理解经验的方式。"
+  },
+  {
+   "cn": "朱罗",
+   "en": "Chola",
+   "source": "世界历史名词",
+   "wordNumber": "02.1103",
+   "subjectFullName": "世界历史_古代中世纪_南亚次大陆",
+   "subjectName": "南亚次大陆",
+   "publishYear": "2012",
+   "definition": "中国史籍称“注辇”、“珠利耶”，古代和中世纪印度泰米尔三王国之一。"
+  },
+  {
+   "cn": "多齿爪状骨针",
+   "en": "unguiferous anchorate chela",
+   "source": "动物学名词",
+   "wordNumber": "5.0612",
+   "subjectFullName": "动物学_无脊椎动物学_多孔动物门",
+   "subjectName": "多孔动物门",
+   "publishYear": "2021",
+   "definition": "中间杆的两端反向弯曲，具多个游离的齿状结构，呈倒钩状或镰刀状的一种爪状骨针。"
+  },
+  {
+   "cn": "元数据方案",
+   "en": "metadata schema",
+   "source": "档案学名词",
+   "wordNumber": "06.02.009",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "表示元数据元素之间关系的逻辑架构。规定元数据的使用及管理规则，尤其是关于语义、语法及赋值的规则。"
+  },
+  {
+   "cn": "身体图式",
+   "en": "body schema",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.539",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在与环境交互的认知过程中，一系列以自己的身体为意向对象的意向状态。如知觉、心理表征及信念等的复合。"
+  },
+  {
+   "cn": "元数据方案",
+   "en": "metadata schema",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.897",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_元数据",
+   "subjectName": "元数据",
+   "publishYear": "2019",
+   "definition": "包括描述、管理、服务、保存等各种元数据规范，以及元数据著录、置标、映射交换等应用规范在内的完整的元数据解决方案。"
+  },
+  {
+   "cn": "外模式",
+   "en": "external schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0015",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据库用户的数据视图。即与某一应用有关的数据的逻辑表示。"
+  },
+  {
+   "cn": "模式调优",
+   "en": "schema tuning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0323",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "通过调整模式设计来改善数据库的查询和修改性能。"
+  },
+  {
+   "cn": "模式定理",
+   "en": "schema theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0291",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "遗传算法中，一个部分位置上的基因已经确定，而其他位置上的基因视作空缺参数的染色体模板称为模式。具有阶数低、长度短，并且适应值高的模式将按指数级增长。"
+  },
+  {
+   "cn": "模式演化",
+   "en": "schema evolution",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0491",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "数据模式随时间、环境的变化。"
+  },
+  {
+   "cn": "工作流模式",
+   "en": "workflow schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0163",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "用工作流模型中的概念对一个实际业务处理流程进行的抽象描述。"
+  },
+  {
+   "cn": "内模式",
+   "en": "internal schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0016",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据的物理结构和存储方式的描述。"
+  },
+  {
+   "cn": "爪状骨针",
+   "en": "chela",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "螯",
+   "en": "chela",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "螯钳",
+   "en": "chela",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "亚螯",
+   "en": "sub-chela",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "掌形爪状骨针",
+   "en": "palmate chela\",\"palmate",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "认知图式",
+   "en": "cognitive schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外向图式",
+   "en": "extravert schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抑郁图式",
+   "en": "depressive schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图式理论",
+   "en": "schema theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "事件图式",
+   "en": "event schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "家庭图式",
+   "en": "family schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我图式",
+   "en": "self schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别图式",
+   "en": "gender schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念圖示",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "编码模式",
+   "en": "encoding schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "采样模式，抽样模式",
+   "en": "sampling schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分类模式",
+   "en": "classification schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自我图式",
+   "en": "self-schema",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "个体在已有经验基础上所形成的有关“自我”的结构化的心理表征，它既包括以具体的事件和情境为基础的认知表征(如“我昨天在会上发言时犹豫不决”) ，也包括较为概括的、来自本人或他人评价的认知表征(如“我为人"
+  },
+  {
+   "cn": "比转换能",
+   "en": "cema",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.1",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位质量的物质中重带电粒子在电离、激发过程中损失的能量。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "无症状高尿酸血症",
+   "en": "asymptomatic hyperuri-cemia",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.9.1.9",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_晶体性关节病",
+   "subjectName": "晶体性关节病",
+   "publishYear": "2025",
+   "definition": "血清尿酸水平升高，但没有出现单钠尿酸盐沉积病的临床表现。15%-25%的无症状高尿酸血症患者具有无症状性MSU晶体沉积，血尿酸升高是痛风的发病基础。"
+  },
+  {
+   "cn": "受约束的比转换能",
+   "en": "restricted cema",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位质量物质中，电子产生电离、激发过程中，扣除释出的动能大于特定值的δ粒子动能后，其他能量损失的总和。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "比转换能率",
+   "en": "cema rate",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位时间内单位质量的物质中重带电粒子碰撞而损失的能量。SI单位为焦耳每千克每秒，专有名称是戈瑞每秒，记作Gy·s-1。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

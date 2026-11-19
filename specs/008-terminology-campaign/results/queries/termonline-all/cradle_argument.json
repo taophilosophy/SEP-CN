@@ -1,0 +1,762 @@
+{
+ "key": "cradle argument",
+ "term": "cradle argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:53:09+00:00",
+ "status": "ok",
+ "note": "variant=cradle argument; 审定公布名词库=1864; 海峡两岸名词对照库=659; 其他来源数据库=84; 预公布名词数据库=72; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "铲斗架",
+   "en": "cradle",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "14.0117",
+   "subjectFullName": "机械工程_工程机械_土方机械_装载机",
+   "subjectName": "装载机",
+   "publishYear": "2013",
+   "definition": "固定铲斗，并使其按一定轨迹运动的臂型构件。"
+  },
+  {
+   "cn": "挂篮",
+   "en": "cradle",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.708",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "下水车",
+   "en": "launching cradle",
+   "source": "船舶工程名词",
+   "wordNumber": "12.029",
+   "subjectFullName": "船舶工程_船舶工艺",
+   "subjectName": "船舶工艺",
+   "publishYear": "1998",
+   "definition": "在滑道上承载船舶进行上墩、下水作业用的载重车。"
+  },
+  {
+   "cn": "根拱小土墩",
+   "en": "cradle knoll",
+   "source": "土壤学名词",
+   "wordNumber": "07.134",
+   "subjectFullName": "土壤学_土壤生态与土壤肥力",
+   "subjectName": "土壤生态与土壤肥力",
+   "publishYear": "1998",
+   "definition": "被树根拱起而使地面抬高形成的土丘。"
+  },
+  {
+   "cn": "倾炉架",
+   "en": "tilting cradle",
+   "source": "电气工程名词",
+   "wordNumber": "17.175",
+   "subjectFullName": "电气工程_工业电热设备",
+   "subjectName": "工业电热设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "活动吊篮",
+   "en": "travelling cradle",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0542",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "立管支架",
+   "en": "riser cradle",
+   "source": "石油名词",
+   "wordNumber": "08.0600",
+   "subjectFullName": "石油_海洋石油技术_海上油田建设与生产设施",
+   "subjectName": "海上油田建设与生产设施",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "滑道摇架",
+   "en": "slipway turn cradle",
+   "source": "船舶工程名词",
+   "wordNumber": "12.027",
+   "subjectFullName": "船舶工程_船舶工艺",
+   "subjectName": "船舶工艺",
+   "publishYear": "1998",
+   "definition": "设于倾斜滑道和水平船台之间，承载船舶使其在纵向垂直面内转动以改变船舶搁置坡度的支承架。"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "斜船架",
+   "en": "wedge type launching cradle",
+   "source": "船舶工程名词",
+   "wordNumber": "12.030",
+   "subjectFullName": "船舶工程_船舶工艺",
+   "subjectName": "船舶工艺",
+   "publishYear": "1998",
+   "definition": "沿其移动方向车身剖面成楔形，两端的高度差和滑道首端坡度相配合，以承载船舶上墩或下水的整体架形下水车。"
+  },
+  {
+   "cn": "弧形底安装式喷油泵",
+   "en": "cradle- mounted fuel injection pump",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.1051",
+   "subjectFullName": "机械工程_动力机械_内燃机_喷油泵",
+   "subjectName": "喷油泵",
+   "publishYear": "2013",
+   "definition": "底部外圆安装面为弧面，且与驱动轴同轴，以弧形托架和柴油机连接的合成式喷油泵。"
+  },
+  {
+   "cn": "弧形底安装式喷油泵",
+   "en": "cradle-mounted fuel injection pump",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.381",
+   "subjectFullName": "机械工程_汽车_发动机_燃料供给系",
+   "subjectName": "燃料供给系",
+   "publishYear": "2013",
+   "definition": "安装在发动机机体上，而安装结合面为其底部的两段以凸轮轴轴线为中心线的弧形表面的合成式直列喷油泵或V型喷油泵。"
+  },
+  {
+   "cn": "自行式桥梁检测架",
+   "en": "self-propelled bridge inspection cradle",
+   "source": "公路交通科技名词",
+   "wordNumber": "09.199",
+   "subjectFullName": "公路交通科学技术_材料与结构试验及设备",
+   "subjectName": "材料与结构试验及设备",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "不可或缺性论证",
+   "en": "indispensability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由蒯因、普特南等人提出的一个数学实在论论证。该论证认为，如果作为关于世界之最佳理论的自然科学无法避免对数学对象的指称，那么就应当接受数学对象的客观实在性。"
+  },
+  {
+   "cn": "僵尸论证",
+   "en": "zombie argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.514",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "D. 查莫斯（D. Chalmers）给出的一种“可设想性论证”的思想实验。如果一种在物理行为层面和人类完全一样，但却没有意识经验或感受性的僵尸的存在是可设想的，那么就可以推论出僵尸的存在是可能的。因"
+  },
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.518",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "笛卡儿在《第六沉思》中最早提出这类论证：由某情形是可设想的，推导出它也是可能存在的。D. 查莫斯（D. Chalmers）的僵尸论证是典型的可设想性论证。"
+  },
+  {
+   "cn": "知识论证",
+   "en": "knowledge argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.578",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "哲学家F. 杰克逊（F. Jackson）等人提出的一个反驳物理主义的论证类型。试图指出所有相关的物理事实的知识并不能揭示经验的主观特征。例如，一直生活在黑白房间中的视觉科学家玛丽知道关于视知觉的一切"
+  },
+  {
+   "cn": "叉簧",
+   "en": "cradle",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船架",
+   "en": "cradle",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "托架",
+   "en": "cradle",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "摇饲机",
+   "en": "cradle feeder",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吊杆架",
+   "en": "boom cradle",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "下水车",
+   "en": "launching cradle",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "滑道摇架",
+   "en": "slipway turn cradle\",\"slipway cradle",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类推论证",
+   "en": "argument by analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近地点辐角",
+   "en": "argument of perigee",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近点辐角",
+   "en": "argument of periapsis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近心点辐角",
+   "en": "argument of pericenter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "升交角距",
+   "en": "argument of latitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本国产业论，本国产业保护论",
+   "en": "home industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "产业多样化论",
+   "en": "diversified industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工业保护论",
+   "en": "industry protection argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国内市场论",
+   "en": "home market argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "近地点引数",
+   "en": "argument of perigee",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "转体180度",
+   "en": "cradle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "马缰",
+   "en": "bridle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马勒",
+   "en": "bridle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双缰",
+   "en": "complete bridle\",\"double bridle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "副弦",
+   "en": "cable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由泳",
+   "en": "crawl",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锚链缆",
+   "en": "cable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鹤立式",
+   "en": "crane",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络爬虫",
+   "en": "web crawler",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自由泳",
+   "en": "freestyle\",\"crawl",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由泳",
+   "en": "crawl\",\"freestyle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字贸易",
+   "en": "digital trade",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商业秘密",
+   "en": "trade secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "爆裂音",
+   "en": "inspiratory crackle，velcro rale",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.6",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "吸气后期出现的细湿啰音。其音调高，近耳颇似撕开尼龙扣带时发出的声音，常见于慢性肺间质纤维化患者。"
+  },
+  {
+   "cn": "克里奥尔语",
+   "en": "creole",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.014",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "由皮钦语发展而成的一种语言。与皮钦语的不同在于更加稳定，在一定条件下可取得母语地位。在有些国家是官方语言。"
+  },
+  {
+   "cn": "交易",
+   "en": "trade",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.23",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "交换具有人文价值和使用价值的事与物，与基于公平原则进行的商品交换相比较，多了一层以社会资本或文化资本为媒介的交换，不一定是等价物的交换，但其交换的意义却相通。"
+  },
+  {
+   "cn": "交易",
+   "en": "trade",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.016",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种双边交换行为。通常有两种交换类型：（1）通过某种货币为媒介，买卖行为是关键因素。（2）物物交换，即两种物品或服务之间不通过任何媒介或货币进行的交换。"
+  },
+  {
+   "cn": "管道爬行器",
+   "en": "pipe crawler",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.7",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "一种在管道内安装的移动式管道探伤装置，探伤装置机架安装在管道内，源在动力驱动下随同机架在管道内平移（前进或后退），对管道焊缝进行射线探伤。"
+  },
+  {
+   "cn": "边境贸易",
+   "en": "frontier trade",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0046",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "毗邻国家边境地区和边民之间进行的商品交换和贸易活动，包括边民互市贸易、边境小额贸易以及边境地区经济技术合作贸易等形式。边境贸易对增强民族团结，繁荣、稳定边疆，巩固和发展我国同周边国家的睦邻友好关系，起"
+  },
+  {
+   "cn": "无言交易",
+   "en": "silent trade",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0183",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "物物交换的一种形式，即从事交换的双方互不见面、以易有无的货物交换形式。"
+  },
+  {
+   "cn": "工业级",
+   "en": "industrial grade",
+   "source": "消毒学",
+   "wordNumber": "6.1.4.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "符合工业有关质量标准，用此级别原料经过加工制造可以成为工业产品。"
+  },
+  {
+   "cn": "医用级",
+   "en": "medical grade",
+   "source": "消毒学",
+   "wordNumber": "6.1.4.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "符合医药相关的法律法规和质量安全标准，用此级别原料加工制造的医药产品有效成分纯度达到治疗和预防疾病的要求。"
+  },
+  {
+   "cn": "食品级",
+   "en": "food grade",
+   "source": "消毒学",
+   "wordNumber": "6.1.4.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "符合食品安全相关的法律法规和质量安全标准，用此级别原料加工制造的食品对人体无毒无害。"
+  },
+  {
+   "cn": "自由贸易",
+   "en": "free trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0176",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家权力不加干涉的商品和服务自由交换的经济活动。"
+  },
+  {
+   "cn": "国内贸易",
+   "en": "domestic trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0280",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一国内部的商品流通。分工的发展带来了直接以交换为目的的生产即商品生产，产生了贸易。"
+  },
+  {
+   "cn": "对外贸易",
+   "en": "external trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0282",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一个国家（地区）与另一个国家（地区）之间的商品、劳务和技术的交换活动。这种贸易由进口和出口两个部分组成。对运进商品或劳务的国家（地区）来说，就是进口；对运出商品或劳务的国家（地区）来说，就是出口。"
+  },
+  {
+   "cn": "世界贸易",
+   "en": "world trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0283",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由世界各国对外贸易构成的国际间的商品流通。世界贸易中，商品的国际价格是商品的国际价值为基础，随供求的变化而变动。"
+  },
+  {
+   "cn": "奴隶买卖",
+   "en": "slave trade",
+   "source": "马克思主义",
+   "wordNumber": "03.0130",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "奴隶买卖指一切俘获、置有或处理个人，使其沦为奴隶的行为；一切以出卖或交换为目的而置有奴隶的行为；一切通过出卖或交换，处理为出卖或交换的目的而置有的奴隶的行为，以及买卖或运输奴隶的每一种行为。古代奴隶社"
+  },
+  {
+   "cn": "鸦片贸易",
+   "en": "opium trade",
+   "source": "马克思主义",
+   "wordNumber": "04.0128",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "18世纪后半叶开始的西方殖民主义者为掠夺中国人民的财富把鸦片作为毒品向中国贩运的贸易。鸦片贸易给英美资产阶级带来了巨额利润，给中国带来了深重的灾难。"
+  },
+  {
+   "cn": "工联主义",
+   "en": "trade unionism",
+   "source": "马克思主义",
+   "wordNumber": "04.0311",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪五、六十年代英国工人联合会领导集团所执行的机会主义路线和政策的总称。工联主义反对革命斗争，反对推翻资本主义制度，鼓吹劳资合作，提出“做一天公平的工作，得一天公平的工资”的口号，主张进行所谓纯经"
+  },
+  {
+   "cn": "商号",
+   "en": "trade name",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.018",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "商事主体在其营业活动中为表征其身份以区别其他主体而使用的名称。"
+  },
+  {
+   "cn": "粗蛋白质",
+   "en": "crude protein",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.63",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "蛋白质与非蛋白含氮物质之和，一般根据凯氏定氮法测得的全氮结果乘以6.25 计算出的含量"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

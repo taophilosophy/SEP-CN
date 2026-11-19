@@ -1,0 +1,32 @@
+{
+ "key": "akrates",
+ "term": "akratês",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:27:06+00:00",
+ "status": "ok",
+ "note": "variant=akratês; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "无饰环腰式",
+   "en": "akrate",
+   "source": "古生物学名词",
+   "wordNumber": "04.0103",
+   "subjectFullName": "古生物学_古植物学_藻类",
+   "subjectName": "藻类",
+   "publishYear": "2009",
+   "definition": "腰带处纹饰缺乏或强烈退化。"
+  },
+  {
+   "cn": "叙利亚仓鼠",
+   "en": "Mesocricetus auratus",
+   "source": "兽医学名词",
+   "wordNumber": "09.169",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "仓鼠科中仓鼠属动物。被毛呈金黄色，是实验用主要仓鼠品系。主要用于肿瘤学、生理学、遗传学、传染病、牙医学、组织培养和组织移植等研究。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

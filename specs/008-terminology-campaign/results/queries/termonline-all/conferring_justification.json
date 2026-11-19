@@ -1,0 +1,762 @@
+{
+ "key": "conferring justification",
+ "term": "conferring justification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:11:58+00:00",
+ "status": "ok",
+ "note": "variant=conferring justification; 审定公布名词库=194; 海峡两岸名词对照库=28; 其他来源数据库=36; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "辩护",
+   "en": "justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.123",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "用以证明或维护某个理论或行为的根据。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.050",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "核医学名词",
+   "wordNumber": "02.0434",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "放射防护三原则之一。除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得进行辐射相关实践的原则。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "放射医学与防护_放射防护_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害(包括辐射危害)。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "码速调整",
+   "en": "justification",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.262",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以受控方式改变数字信号的数字速率的处理过程。这种过程不丢失或损伤信息。其目的是使与复用设备不同步的各支路得到复用。"
+  },
+  {
+   "cn": "论证",
+   "en": "justification",
+   "source": "数学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "justification,justify",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1317",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "为适应规定文件格式的要求，对数位、文字或符号位置向左或向右进行调整、排列或移位的动作。"
+  },
+  {
+   "cn": "归纳辩护",
+   "en": "inductive justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.085",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "为归纳推理的合理性和有效性提供的辩护。"
+  },
+  {
+   "cn": "新闻发布会",
+   "en": "news conference;press conference",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.156",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "社会组织或个人根据自身的某种需要，邀请有关新闻单位的记者、主持人及社会听众，宣布某一消息，并接受参加者提问的一种特殊会议。"
+  },
+  {
+   "cn": "辩护的语境",
+   "en": "context of justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "分析实验观察如何支持理论假说的情境条件。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "[辐射照射]实践的正当性",
+   "en": "justification of practice",
+   "source": "化学名词",
+   "wordNumber": "06.0392",
+   "subjectFullName": "化学_放射化学_辐射化学与辐射防护",
+   "subjectName": "辐射化学与辐射防护",
+   "publishYear": "2016",
+   "definition": "国际放射防护委员会(ICRP)提出的辐射防护三原则之一。即辐射照射的实践，除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得采取此种实践。"
+  },
+  {
+   "cn": "不充分理由效应",
+   "en": "insufficient justification effect",
+   "source": "心理学名词",
+   "wordNumber": "07.087",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "当外部理由不足以支持行为时，人们用主观理由做行为理由补充，以寻求心理平衡的现象。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.244",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "码速调整",
+   "en": "code rate justification",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0378",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "学位授予",
+   "en": "degree conferring",
+   "source": "教育学名词",
+   "wordNumber": "08.247",
+   "subjectFullName": "教育学_高等教育_学位与研究生教育",
+   "subjectName": "学位与研究生教育",
+   "publishYear": "2013",
+   "definition": "学位授予单位按照规定的要求和程序对大学生、研究生及具有同等学力者授予某一级学位。"
+  },
+  {
+   "cn": "会议文件",
+   "en": "conference records",
+   "source": "档案学名词",
+   "wordNumber": "02.01.031",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "在会议中形成和使用的文件材料。"
+  },
+  {
+   "cn": "全国科学大会（1978）",
+   "en": "Science Conference（1978）",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.132",
+   "subjectFullName": "自然辩证法_总论_历史上的重要流派和思想",
+   "subjectName": "历史上的重要流派和思想",
+   "publishYear": "2024",
+   "definition": "1978年3月18—31日中共中央、国务院在北京人民大会堂召开的全国科学大会。在有6000人参加的开幕会上，时任国务院副总理邓小平发表重要讲话，明确指出现代化的关键是科学技术现代化，知识分子是工人阶级"
+  },
+  {
+   "cn": "记者招待会",
+   "en": "press conference",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.062",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "由有关机构、社会组织或个人集中回答新闻界问题的一种信息传播方式。记者招待会上由政府官员或权威人士回答记者提问。与新闻发布会不同的是，记者招待会一般不直接发布新闻。"
+  },
+  {
+   "cn": "新闻发布会",
+   "en": "news conference",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.063",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "有关机构、社会组织或个人根据自身需要或针对某一突发情况，邀请有关新闻记者，集中发布新闻信息的一种信息传播方式。新闻发布会一般先由新闻发言人发布新闻，然后回答记者提问。也有的只发布信息，不接受记者提问。"
+  },
+  {
+   "cn": "不充分理由，理由不足",
+   "en": "insufficient justification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "线确认",
+   "en": "line justification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "○1justification○2 adjustment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电视会议",
+   "en": "video-conference",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "多点会议",
+   "en": "multipoint conference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "会议电话",
+   "en": "conference call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "会议连接",
+   "en": "conference connection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "班轮公会",
+   "en": "liner conference",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "国际货币会议",
+   "en": "International Monetary Conference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "世界无线电行政大会",
+   "en": "World administrative radio conference",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "国际经济合作会议",
+   "en": "International Economic Co-operation Conference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "伦敦货币经济会议",
+   "en": "London Monetary and Economic Conference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "班轮公会行动守则公约約",
+   "en": "Convention on a Code of Conduct for Liner Conference",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保兑银行",
+   "en": "confirming bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保付商行",
+   "en": "confirming house",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保付书",
+   "en": "confirming order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "一致性实现",
+   "en": "conforming implementation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "共形插值",
+   "en": "conforming interpolation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内斜轴系",
+   "en": "converging shafting",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "缩扩喷嘴",
+   "en": "converging-diverging nozzle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "协议定价",
+   "en": "conference pricing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术会议",
+   "en": "technical conference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "IEEE第8届国际可视化学术会议",
+   "en": "IEEE Visualization’97 Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "黑帽安全技术大会",
+   "en": "Black Hat Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界互联网大会",
+   "en": "World Internet Conference",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世界互联网大会（中国）",
+   "en": "World Internet Conference (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化会议基地",
+   "en": "International Standardization Conference Base",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "师出有名",
+   "en": "Fighting a War with a Moral Justification",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界人工智能大会（中国）",
+   "en": "World Artificial Intelligence Conference (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化联席会议机制",
+   "en": "joint conference mechanism for standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗量子计算密码学国际会议",
+   "en": "International Conference on Post Quantum Cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国—南亚标准化合作会议",
+   "en": "China-South Asia Standardization Cooperation Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国贸易和发展会议",
+   "en": "United Nations Conference on Trade and Development",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第424次香山科学会议（中国）",
+   "en": "The 424th Session of Xiangshan Science Conferences (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中非合作论坛—减贫与发展会议",
+   "en": "FOCAC Africa-China Poverty Reduction and Development Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚信会议",
+   "en": "Conference on Interaction and Confidence-building Measures in Asia",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "伦理辩护",
+   "en": "ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.062",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对某些现象、行为或观点的合理性进行道德论证的行为。"
+  },
+  {
+   "cn": "医学伦理辩护",
+   "en": "medical ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.2229999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "依据医学伦理学理论、原则和规范，对某一医学行为或医疗活动的合理性进行解释、说明的活动。"
+  },
+  {
+   "cn": "庐山会议",
+   "en": "Lushan Conference",
+   "source": "马克思主义",
+   "wordNumber": "04.0539",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "庐山会议包括两次重要会议：1959年７月２日至８月１日党中央在江西庐山召开的政治局扩大会议和８月２日至1６日举行的党的八届八中全会。第一次会议的原定议题是总结1958年以来工作中的经验教训，纠正“大跃"
+  },
+  {
+   "cn": "德黑兰会议",
+   "en": "Tehran Conference",
+   "source": "马克思主义",
+   "wordNumber": "05.0202",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1943年11月28日—12月1日，苏、美、英三国政府首脑斯大林、罗斯福、丘吉尔在伊朗首都德黑兰举行的会议。会议讨论了盟军消灭德国武装力量的各项计划以及安排战后和平与合作等问题。三方达成协议，建立欧洲"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiation practice",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护三原则",
+   "subjectName": "放射防护三原则",
+   "publishYear": "2025",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程，即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射或现存照射情况下，确定一个建议的防护行动或补救行"
+  },
+  {
+   "cn": "医疗照射正当性",
+   "en": "justification of medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.7.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "医疗照射的实践，对受照个人或社会带来的利益足以弥补其可能引起的辐射危害（包括健康与非健康危害），才可以实施该实践。"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiological practice",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.18",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "开展医疗照射、工业探伤、核设施运行等涉电离辐射活动前，须确保实践总体利益大于辐射危害及其他社会、经济风险。仅当该实践能为个人或社会带来净利益时，才属“正当的”，反之则不应开展。"
+  },
+  {
+   "cn": "八七会议",
+   "en": "August th Conference",
+   "source": "马克思主义",
+   "wordNumber": "04.0528",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1927年8月7日中共中央在湖北汉口召开的紧急会议。会议总结了大革命失败的经验教训，着重批判了大革命后期陈独秀为代表的右倾机会主义错误，确立了实行土地革命和武装起义的方针，开始了从大革命失败到土地革命"
+  },
+  {
+   "cn": "世界社会主义学者大会",
+   "en": "world socialist scholars conference",
+   "source": "马克思主义",
+   "wordNumber": "05.0278",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "由美国左派人士发起、“美国民主社会主义者”主办、全球任何左翼团体都可参加的会议，是左翼学者最大规模的年度集会。从20世纪80年代到2004年，每年春天都在美国纽约召开，是激进主义者、社会主义者、女权主"
+  },
+  {
+   "cn": "全国边防工作会议",
+   "en": "National Border Defense Work Conference",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0056",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央1979 年4 月25 至5 月10 日于北京召开的讨论改革开放时期民族工作任务的重要会议。会议讨论了这一时期边防和民族工作任务、认真落实党的民族政策、加速边疆民族地区的社会主义建设等内容。会"
+  },
+  {
+   "cn": "2014年中央民族工作会议",
+   "en": "Central Work Conference on Ethnic Affairs 2014",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0061",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央2014年9月27至28日召开的、旨在准确把握新形势下民族问题、民族工作的特点和规律的重要会议。习近平总书记指出，党的民族工作取得的最大成就，就是走出了一条解决民族问题的正确道路，其内涵可概括"
+  },
+  {
+   "cn": "全国城市民族工作会议（2016）",
+   "en": "National Conference on Urban Ethnic Work",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0058",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "（2016）党的民族工作史中第一次全国城市民族工作会议，2016 年1 月5 至6 日在北京召开。会议确立了贯彻中央民族工作会议关于城市民族工作的精神，着重对以少数民族流动人口服务管理重点的城市民族工"
+  },
+  {
+   "cn": "2021年中央民族工作会议",
+   "en": "Central Work Conference on Ethnic Affairs 2021",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0062",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央2021年8月27至28日召开的、全面回顾党的民族工作百年历程和历史成就、深入分析民族工作新形势的重要会议。会议取得的最大成就是习近平总书记提出了党关于加强和改进民族工作的重要思想，其内容可概"
+  },
+  {
+   "cn": "中央民族工作会议",
+   "en": "Central Work Conference on Ethnic Affairs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.006",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央从战略和全局高度部署民族工作的重要会议。改革开放以来，每当民族工作出现新情况新问题时，中央总会及时召开会议，统一全党思想，对民族工作进行研究部署。迄今为止，分别于1992、1999、2005、"
+  },
+  {
+   "cn": "中央（全国）统战工作会议",
+   "en": "Central （National） Work Conference on United Front",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0059",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "党的各个时期对包括民族工作在内的统战工作做全面部署的会议统称，1950年3月至2006年7月先后召开20次全国统战工作会议，2015年、2022年先后召开两次中央统战工作会议。其中对民族工作有重要影响"
+  },
+  {
+   "cn": "全德工人联合会成立大会",
+   "en": "Founding Conference of the All German Workers Federation",
+   "source": "马克思主义",
+   "wordNumber": "04.0479",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1863年5月23日，全德工人联合会成立大会在莱比锡成立。来自德国11个城市的12名代表以 及200多名莱比锡工人参加大会。会上斐迪南 ·拉萨尔(1825—1864)被选为联合会主席，瓦希泰尔为联合会"
+  },
+  {
+   "cn": "全国民族团结进步表彰大会",
+   "en": "National Commendation Conference on Ethnic Unity and Progress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0065",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央与国务院为巩固发展平等团结互助和谐的社会主义民族关系,对各民族、各地区、各行业、各条战线上为民族团结进步做出突出贡献的先进集体和先进个人进行表彰的大会，一般与中央民族工作会议同期举行，自198"
+  },
+  {
+   "cn": "中国人民政治协商会议第一届全体会议",
+   "en": "First Plenary Session of the Chinese Peoples Political Consultative Conference",
+   "source": "马克思主义",
+   "wordNumber": "04.0536",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1949年9月21日至9月30日在北京举行。中国共产党及各民主党派、人民团体和无党派民主人士等单位的代表（含候补代表）共662人参加了会议。中国人民政协筹备会主任、中国共产党中央委员会主席毛泽东向大会"
+  },
+  {
+   "cn": "老龄工作",
+   "en": "work concerning the aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.8",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "为解决人口老龄化带来的经济社会发展问题、满足老年人的特殊需要的所有工作。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

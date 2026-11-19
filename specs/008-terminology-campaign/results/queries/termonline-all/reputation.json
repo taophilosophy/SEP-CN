@@ -1,0 +1,802 @@
+{
+ "key": "reputation",
+ "term": "reputation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:31:57+00:00",
+ "status": "ok",
+ "note": "variant=reputation; 审定公布名词库=586; 海峡两岸名词对照库=125; 其他来源数据库=56; 预公布名词数据库=49; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "名誉",
+   "en": "reputation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.101",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻传播与人格权",
+   "subjectName": "新闻传播与人格权",
+   "publishYear": "2022",
+   "definition": "特定人(包括自然人和法人)获得的品质、操守、才能及其他素质的社会评价。"
+  },
+  {
+   "cn": "美誉度",
+   "en": "reputation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.086",
+   "subjectFullName": "新闻学与传播学_公共关系_公关关系实务",
+   "subjectName": "公关关系实务",
+   "publishYear": "2022",
+   "definition": "组织获得公众信任、好感、接纳和欢迎的程度。是评价组织声誉好坏的社会指标，侧重于“质”的评价，即公众对组织及其社会影响之善恶、美丑、好坏方面的主观感受，反映了公众对组织的信任和赞美程度。"
+  },
+  {
+   "cn": "信誉",
+   "en": "reputation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0385",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "基于实体（如软件）过去行为的信息对其当前行为及其服务质量等的期望。"
+  },
+  {
+   "cn": "信誉系统",
+   "en": "reputation system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0210",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "含有信任模型、评定信息传播、信任评价机制的系统。"
+  },
+  {
+   "cn": "组织声誉",
+   "en": "organizational reputation",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0265",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织结构与文化",
+   "subjectName": "组织结构与文化",
+   "publishYear": "2016",
+   "definition": "组织的过去行为结果和将来前景对其所有利益相关者的整体吸引力。"
+  },
+  {
+   "cn": "名誉权",
+   "en": "right of reputation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.102",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻传播与人格权",
+   "subjectName": "新闻传播与人格权",
+   "publishYear": "2022",
+   "definition": "公民、法人、非法人组织等享有应该受到社会公正评价和要求他人不得非法损害这种公正评价的权利，名誉权的主体不仅包括自然人，还包括法人、非法人组织、死者等。"
+  },
+  {
+   "cn": "记名",
+   "en": "ji ming;name recording: re­cords of good reputation",
+   "source": "中国古代史名词",
+   "wordNumber": "8.199",
+   "subjectFullName": "中国古代史_明清_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "清朝考绩优异及有功官员可由吏部、军机处等存记其名，以备优先奏请补缺的制度。"
+  },
+  {
+   "cn": "清望官",
+   "en": "qing wang guan;official of a pure and noble reputation",
+   "source": "中国古代史名词",
+   "wordNumber": "5.093",
+   "subjectFullName": "中国古代史_隋唐五代_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "职掌重要且声望清贵的官职。自魏晋以来士族所任官职发展而来，唐指三品以上及三省侍郎、尚书左右丞、太常少卿、秘书少监、太子少詹事、左右庶子、左右率府率及国子司业等官，吏员、伎术官等非正途出身之人一般不得担"
+  },
+  {
+   "cn": "反驳",
+   "en": "refutation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.159",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "驳斥他人论证的一种逻辑方式。运用已知的真实性判断确定要反驳的判断的虚假性的思维方式。"
+  },
+  {
+   "cn": "证伪",
+   "en": "refutation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0063",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "证明一个命题的否定成立的过程。"
+  },
+  {
+   "cn": "截肢术",
+   "en": "amputation",
+   "source": "普通外科学名词",
+   "wordNumber": "25.546",
+   "subjectFullName": "医学_普通外科学_血管外科",
+   "subjectName": "血管外科",
+   "publishYear": "2026",
+   "definition": "经骨或关节将已丧失生存能力、没有生理功能的肢体截除的手术。"
+  },
+  {
+   "cn": "截肢术",
+   "en": "amputation",
+   "source": "兽医学名词",
+   "wordNumber": "18.143",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "将已丧失生存能力、危害病畜生命和没有生理功能的肢体截除的手术。"
+  },
+  {
+   "cn": "前突变",
+   "en": "premutation",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.221",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "通常指某些动态突变导致的遗传病中，三核苷酸串联重复拷贝数处于正常与异常之间的不致病动态突变阶段。最常见于脆性X染色体综合征。为脆性X基因的CGG三核苷酸串联重复序列的拷贝数处在60~200时不致病的动"
+  },
+  {
+   "cn": "截肢/指术",
+   "en": "amputation",
+   "source": "手外科学名词",
+   "wordNumber": "04.0062",
+   "subjectFullName": "手外科学_上肢损伤",
+   "subjectName": "上肢损伤",
+   "publishYear": "2020",
+   "definition": "将已失去生命能力、危害患者生命和没有生理功能的肢/指体截除的手术。是因伤情所迫，在肢体损伤或感染严重，应用目前技术无法修复的一种治疗方法。目的是便于控制感染，利于伤口尽快闭合。"
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "生理学名词",
+   "wordNumber": "01.039",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "规制",
+   "en": "regulation",
+   "source": "经济学名词",
+   "wordNumber": "05.066",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "作为具体的制度安排，是政府对经济行为的管理或制约，是在市场经济体制下，以矫正和改善市场机制内在的问题为目的，政府依据有关法规制定并执行的直接干预市场配置机制或间接改变企业或消费者的供需决策的一般规则或"
+  },
+  {
+   "cn": "管制",
+   "en": "regulation",
+   "source": "经济学名词",
+   "wordNumber": "09.032",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "政府通过制定条列和设计市场激励机制，以控制厂商的价格、销售或生产等决策。"
+  },
+  {
+   "cn": "规制",
+   "en": "regulation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0024",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "公共部门依据法律法规对经济活动、社会行为进行干预的行为。包括经济性规制和社会性规制两类。"
+  },
+  {
+   "cn": "离断",
+   "en": "amputation",
+   "source": "显微外科学名词",
+   "wordNumber": "02.167",
+   "subjectFullName": "显微外科学_再植与再造_再植",
+   "subjectName": "再植",
+   "publishYear": "2016",
+   "definition": "肢(指、趾)体大部分组织的连续性中断的现象。须同时具备四个条件：有骨折或关节脱位；主要血管断裂或受损不通；相连有活力软组织少于断肢断面的1/4，或残留皮肤小于断指周径的1/8；不吻合血管则断面以远组织"
+  },
+  {
+   "cn": "归责",
+   "en": "imputation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.059",
+   "subjectFullName": "放射医学与防护_法规与条约_核损害民事责任与赔偿",
+   "subjectName": "核损害民事责任与赔偿",
+   "publishYear": "2014",
+   "definition": "法律责任的归结，是指国家机关或者其他社会组织根据法律规定，依照法定程序判断、认定、归结和执行法律责任的汇总。"
+  },
+  {
+   "cn": "反驳",
+   "en": "refutation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证伪",
+   "en": "refutation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抵赖",
+   "en": "repudiation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "神经体液调节",
+   "en": "neurohumoral regulation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "调节因子",
+   "en": "regulation factor",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "自[我]调节",
+   "en": "self-regulation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传调节",
+   "en": "epigenetic regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代谢调节",
+   "en": "metabolic regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反馈调节",
+   "en": "feedback regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因调节",
+   "en": "gene regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "克隆内调节",
+   "en": "intraclonal regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气孔调节",
+   "en": "stomatal regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种群调节",
+   "en": "population regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转录调节",
+   "en": "transcription regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自调整",
+   "en": "self regulation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "情绪调节",
+   "en": "emotion regulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我调节",
+   "en": "self regulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "Web信誉服务",
+   "en": "web reputation service (WRS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链监管",
+   "en": "Blockchain Regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技监管",
+   "en": "Fintech Regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用监管",
+   "en": "credit regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可抵赖性",
+   "en": "non-repudiation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法规制",
+   "en": "algorithm regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重复灯",
+   "en": "repetition lamp",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛时间",
+   "en": "regulation time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重复灯",
+   "en": "repetition lamp",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "淡中心化",
+   "en": "less-centralized regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技行政监管",
+   "en": "Fintech administrative regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技国际监管",
+   "en": "Fintech International Regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可否认性服务",
+   "en": "non-repudiation service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权规制",
+   "en": "Data Rights Regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据脱敏规制",
+   "en": "data masking regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动作重复",
+   "en": "repetition of elements",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术规则",
+   "en": "technical regulation\",\"technical rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulation\",\"rule-book\",\"rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跨国银行监管",
+   "en": "regulation for transnational banks",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社区名誉保护原则",
+   "en": "principle of preserving the reputation of the community",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.043",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在疫情防控过程中，为避免将种族、地域等社区特征与传染性疾病相联系，造成对某些社区及其人群的歧视而制定的避免社区名誉受到不正当损害的行为准则。"
+  },
+  {
+   "cn": "规章",
+   "en": "regulation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.18",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "各级领导机关及其职能部门、社会团体、企事业单位，为实施管理，规范工作、活动和有关人员行为，在其职权范围内制定并发布实施的、具有行政约束力和道德行为准则的规范性文书的总称。"
+  },
+  {
+   "cn": "产品监管",
+   "en": "product regulation",
+   "source": "消毒学",
+   "wordNumber": "5.2",
+   "subjectFullName": "消毒学_监督管理",
+   "subjectName": "监督管理",
+   "publishYear": "2025",
+   "definition": "行政机关依据相关法律法规和标准对消毒产品开展监督和管理的行政执法行为。"
+  },
+  {
+   "cn": "地方性法规",
+   "en": "local regulation",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规",
+   "subjectName": "放射卫生法规",
+   "publishYear": "2025",
+   "definition": "法定的地方国家权力机关依照法定的权限，在不与宪法、法律和行政法规相抵触的前提下，制定和颁布的在本行政区域范围内实施的管理规定。"
+  },
+  {
+   "cn": "智慧型规范",
+   "en": "smart regulation",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.8",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一系列特定的环境管理理论认为管理环境行动的最好方式就是将各种各样的方法和行动者聚集在一起，从而培养对“可持续发展”目标的遵从。"
+  },
+  {
+   "cn": "自我调节",
+   "en": "self-regulation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.6.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我发展",
+   "subjectName": "自我发展",
+   "publishYear": "2025",
+   "definition": "广义指人们给自己制定行为标准，用自己能够控制的奖赏或惩罚来加强、维护或改变自己行为的过程。狭义指自我强化，即当人们达到了自己制定的标准时，用自己能够控制的奖赏来加强和维持自己的行为的过程。"
+  },
+  {
+   "cn": "调节学派",
+   "en": "regulation school",
+   "source": "马克思主义",
+   "wordNumber": "05.0155",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪70年代在法国兴起强调资本主义须由国家调节的理论。认为无调节的积累和制度之间矛盾的激化导致了资本主义的危机，福特主义积累体制是美国战后扩张的中心环节，而70年代的滞涨是福特主义发展潜力被耗尽的"
+  },
+  {
+   "cn": "免疫调节",
+   "en": "immune regulation",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.7.1",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫调节",
+   "subjectName": "免疫调节",
+   "publishYear": "2025",
+   "definition": "机体对免疫应答进行的调控。免疫系统中的免疫细胞和免疫分子之间，以及与其他系统如神经内分泌系统之间的相互作用，使得免疫应答以最恰当的形式维持在最适当的水平。"
+  },
+  {
+   "cn": "价格管制",
+   "en": "price regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.3.2.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "政府利用法律法规规定价格水平，比如对高端医疗服务和贵重药品实行最高限价。"
+  },
+  {
+   "cn": "医疗规制",
+   "en": "medical regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府从资源有效配置和服务的公平供给出发，确定医疗服务机构的产品或服务价格标准，并对个人或保险机构支付给医疗机构费用进行调节与控制的方法。主要包括准入规制、质量规制和信息规制等。"
+  },
+  {
+   "cn": "准入规制",
+   "en": "access regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府对进入卫生服务市场需要达到的条件或标准以及进入市场后需要遵守的相关规范所制定的相关制度。"
+  },
+  {
+   "cn": "质量规制",
+   "en": "quality regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府对医疗卫生服务的可靠性、遵照标准的程度及其结果的一种约束或限制。一般通过许可证制度、合格鉴定和审查制度等形式完成。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "政府规制",
+   "en": "government regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "作为对外部竞争约束的替代，政府必须对公共卫生机构提供公共产品的行为加以约束或规定，做出关于安全标准、价格规范、药品供应和废弃物监管等方面的制度安排。"
+  },
+  {
+   "cn": "经济规制",
+   "en": "economic regulation ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府为防止垄断行业滥用市场力量，对商品价格、种类、市场进入和退出条件以及投资、财务、会计等方面的经济活动所进行的规制。"
+  },
+  {
+   "cn": "社会规制",
+   "en": "social regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府为了民众健康或安全，针对某些经济活动所引起的各种副作用和外部影响而制定的规章制度，并对实施情况予以监督。"
+  },
+  {
+   "cn": "信用监管",
+   "en": "credit regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1.8",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "医疗保障行政部门依据医疗保障信用管理制度，通过信用承诺、信用评价、信息共享、结果公开、结果应用、信用修复等对有关单位和个人进行监督、规范、控制和调节等一系列活动的总称。"
+  },
+  {
+   "cn": "功能型监管",
+   "en": "functional regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "依照医疗服务的功能划分监管机构的模式，如按照病种设立的医疗服务监管机构。"
+  },
+  {
+   "cn": "机构型监管",
+   "en": "institutional regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "按照被监管机构的类型、监管主体的机构职能设立监管机构、分配监管职能的模式，如由审计部门监管财务，由卫生行政部门负责服务质量。"
+  },
+  {
+   "cn": "表观遗传调控",
+   "en": "epigenetic regulation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "通过表观遗传修饰方式对细胞内核酸或蛋白质的含量与功能进行调节的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

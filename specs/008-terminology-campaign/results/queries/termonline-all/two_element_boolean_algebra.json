@@ -1,0 +1,722 @@
+{
+ "key": "two-element boolean algebra",
+ "term": "two-element Boolean algebra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:17:24+00:00",
+ "status": "ok",
+ "note": "variant=two-element Boolean algebra; 审定公布名词库=4548; 海峡两岸名词对照库=1042; 其他来源数据库=637; 预公布名词数据库=274; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0132",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个有序的四元组( B ,∧,∨, ┐)，其中∧，∨和 ┐是布尔运算，定义在非空集合 B 的元素上，构成一个代数。"
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "source": "数学名词",
+   "wordNumber": "03.0284",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "广义布尔代数",
+   "en": "generalized Boolean algebra",
+   "source": "数学名词",
+   "wordNumber": "03.0290",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数元",
+   "en": "algebraic element",
+   "source": "数学名词",
+   "wordNumber": "04.0398",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "二维元",
+   "en": "two-dimensional element",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "交流二元二位继电器",
+   "en": "AC two element two position relay",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0595",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "布尔检索",
+   "en": "Boolean retrieval",
+   "source": "档案学名词",
+   "wordNumber": "06.03.020",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "利用布尔逻辑运算符［与（AND）、或（OR）、非（NOT）等］进行检索词语或代码的逻辑组配。"
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.595",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一种用代数刻画逻辑关系的方法。变量为真值，主要操作为析取、合取以及否定。"
+  },
+  {
+   "cn": "布尔网络",
+   "en": "Boolean networks",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.596",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "由一组离散的布尔变量组成的网络。每个布尔变量都由一个布尔函数赋值，每个节点布尔函数的输入都是相邻节点的变量值。"
+  },
+  {
+   "cn": "布尔检索",
+   "en": "Boolean retrieval",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.075",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "通过“与（and）”“或（or）”“非（not）”三个逻辑算子达到特定目的的检索。"
+  },
+  {
+   "cn": "布尔运算",
+   "en": "Boolean operation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0263",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_三维制图",
+   "subjectName": "三维制图",
+   "publishYear": "2021",
+   "definition": "两个或两个以上物体通过并集、差集、交集运算得到新实体的运算。"
+  },
+  {
+   "cn": "布尔算符",
+   "en": "Boolean operator",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.019",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用来表示多个检索词之间逻辑关系的运算符号。"
+  },
+  {
+   "cn": "布尔公式",
+   "en": "Boolean formula",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0134",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种布尔表达式，可以表示为一个布尔线路使得其中每个门的出度都是1。"
+  },
+  {
+   "cn": "布尔运算",
+   "en": "Boolean operation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0131",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "逻辑演算中的二元运算∧，∨，和一元运算 ┐，分别表示and（与），or（或）和not（非）。"
+  },
+  {
+   "cn": "布尔搜索",
+   "en": "Boolean search",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0189",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "一种基于布尔逻辑和集合理论的搜索模型。"
+  },
+  {
+   "cn": "布尔线路",
+   "en": "Boolean circuit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0147",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种有向无环图 G=(V,E)，G 的结点集 V ={1,2,…, n }为线路的门、输入和输出的集合。所有结点都有入度和出度，或为0，或1，或2。每一个门 i 有一个类，记为 s(i) ，分别表示常"
+  },
+  {
+   "cn": "布尔表达式",
+   "en": "Boolean expression",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0133",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "包含0,1和一阶变量<img src='/root/syzx/static/spz/jsjkx3.02.0133.001.png'/>, 在布尔运算下归纳地构造出来的表达式。"
+  },
+  {
+   "cn": "布尔函数",
+   "en": "Boolean function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0135",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个 n 元布尔函数指从<img src='/root/syzx/static/spz/jsjkx3.02.0135.001.png'/>(2)到GF(2)上的一个映射，这里GF(2)是二元域。"
+  },
+  {
+   "cn": "布尔逻辑检索",
+   "en": "Boolean search",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0535",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "以集合论与布尔逻辑为理论基础，采用布尔逻辑表达式表示用户检索需求并通过一定的算法和实现手段进行检索。"
+  },
+  {
+   "cn": "布尔运算符",
+   "en": "Boolean operators",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "一种逻辑运算符，主要包括 “与”、“或”、“非”、“异或”，其取值与运算结果只有“真”、“假”两种之一。"
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔表达式",
+   "en": "Boolean expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "布尔运算符",
+   "en": "Boolean operators",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "布尔表达式",
+   "en": "Boolean expression",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔查找，布尔搜索",
+   "en": "Boolean search",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔过程",
+   "en": "Boolean process",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔函数",
+   "en": "Boolean function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔加法器",
+   "en": "Boolean adder",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔算子",
+   "en": "Boolean operator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔运算",
+   "en": "Boolean operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双组空气抽逐器",
+   "en": "two-element air ejector",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "时变布尔函数",
+   "en": "timed Boolean function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地理代数",
+   "en": "geo-algebra",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图代数",
+   "en": "map algebra",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "程序代数",
+   "en": "program algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数模型",
+   "en": "algebraic model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代数规约",
+   "en": "algebraic specification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人赛艇",
+   "en": "two",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数值代数",
+   "en": "numerical algebra",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进程代数",
+   "en": "process algebra",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两仪",
+   "en": "Two Modes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二柄",
+   "en": "Two Handles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二级上诉",
+   "en": "level two",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两次黄牌警告",
+   "en": "two warnings",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两次转移",
+   "en": "one-two",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二分球",
+   "en": "two-point shot\",\"two-pointer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Boolean标准",
+   "en": "Boolean criteria",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.10",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "用于判定类风湿关节炎获得缓解的一个标准。其定义为：任何时间点，患者需满足下列要求：1.疼痛关节数≤1；2.肿帐关节数≤1；3. CRP<1mg/dl；4.患者总体评估≤1（0-10标尺）"
+  },
+  {
+   "cn": "两个坚定不移和两个不能含糊",
+   "en": "two immovabilityand two unambiguity",
+   "source": "马克思主义",
+   "wordNumber": "03.0635",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "科学对待马克思主义的基本要求。一是必须坚持马克思主义的立场、观点、方法，坚持马克思主义的基本原理，这一点要坚定不移，不能含糊。二是一定要贯彻解放思想、实事求是的思想路线，坚持勇于追求真理和探索真理的革"
+  },
+  {
+   "cn": "两个开放",
+   "en": "two openings",
+   "source": "马克思主义",
+   "wordNumber": "03.0569",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即对内开放和对外开放。对内开放是指通过经济、政治、科技、教育等各行各业的全面改革对内搞活经济。对外开放是指通过加强国际交往，引进发达国家的先进经验、先进科学技术和资金。"
+  },
+  {
+   "cn": "两个先锋队",
+   "en": "two vanguards",
+   "source": "马克思主义",
+   "wordNumber": "03.0646",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在2001年7月1日庆祝中国共产党成立80周年大会上的讲话中指出：“面对我们肩负的历史重任，面对国际国内各种复杂因素的影响和各种风险的考验，我们党要始终成为中国工人阶级先锋队，同时成为中国人民和"
+  },
+  {
+   "cn": "两个确立",
+   "en": "Two establishment",
+   "source": "马克思主义",
+   "wordNumber": "03.0810",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "确立习近平同志党中央的核心、全党的核心地位，确立习近平新时代中国特色社会主义思想的指导地位。"
+  },
+  {
+   "cn": "两个维护",
+   "en": "Two Upholds",
+   "source": "马克思主义",
+   "wordNumber": "03.0811",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚决维护习近平总书记党中央的核心、全党的核心地位，坚决维护以习近平同志为核心的党中央权威和集中统一领导。"
+  },
+  {
+   "cn": "两案",
+   "en": "two protocols",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "传染病疫情及相关突发公共卫生事件防控工作方案和应急处置预案。在传染病疫情流行期间，特别是新冠肺炎流行期间被广泛应用。"
+  },
+  {
+   "cn": "两个必然与两个绝不会",
+   "en": "two inevitabilities and two impossibilities",
+   "source": "马克思主义",
+   "wordNumber": "03.0022",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思恩格斯关于社会主义必然代替资本主义及社会革命的时间和条件等思想理论。马克思恩格斯在《共产党宣言》中立足于历史唯物主义原理，依据人类历史发展的客观规律，在分析资本主义社会基本矛盾的基础上认为，资本"
+  },
+  {
+   "cn": "两规两指",
+   "en": "two regulation and two design",
+   "source": "马克思主义",
+   "wordNumber": "03.0784",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“两规”是指《中国共产党纪律检查机关案件检查工作条例》第二十八条第（三）项规定的“要求有关人员在规定的时间、地点就案件所涉及的问题作出说明”。“两指”是指《中华人民共和国行政监察法》第二十条第（三）项"
+  },
+  {
+   "cn": "燃料元件",
+   "en": "fuel element",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.2.1",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料",
+   "subjectName": "核燃料与乏燃料",
+   "publishYear": "2025",
+   "definition": "核反应堆内具有独立结构的燃料使用单元。包括从单一的圆柱状短棒到结构复杂的大组件。通常指由燃料芯体和包壳组成的燃料单元，如燃料棒、燃料板和燃料球。"
+  },
+  {
+   "cn": "附加要素",
+   "en": "additional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "包括在规范性文件中而不影响其实质内容的信息。就标准而言，主要指封面、目次、前言、引言、资料性附录、参考文献、索引和注等。"
+  },
+  {
+   "cn": "规范性要素",
+   "en": "normative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中界定标准范围或设定条款的要素。"
+  },
+  {
+   "cn": "资料性要素",
+   "en": "informative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "提供有助于理解或使用标准的附加信息的要素。"
+  },
+  {
+   "cn": "必备要素",
+   "en": "required element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中必不可少的要素。"
+  },
+  {
+   "cn": "可选要素",
+   "en": "optional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.5",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中存在与否取决于标准具体需求的要素。"
+  },
+  {
+   "cn": "沟通要素",
+   "en": "communication element",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.087",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "心理学家海因以系统论的传播模式为背景提出人际沟通过程的6 个基本要素：信息环境、信息发出者、信息、传递途径、信息接收者、反馈。在医患沟通中，信息发出者既可以是医方，也可以是患方。"
+  },
+  {
+   "cn": "杂质元素",
+   "en": "impurity element",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.43",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "残留在金属中的非有意添加的元素。"
+  },
+  {
+   "cn": "动力单元",
+   "en": "kinetic element",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.5.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在神经系统支配下，通过肌肉收缩，牵动骨骼以关节为支点产生位置变化，完成运动过程，包括关节在内的某些解剖结构结合在一起可以完成以关节为轴的运动。由肌肉、骨骼、神经、血管组成。"
+  },
+  {
+   "cn": "合金元素",
+   "en": "alloying element",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.44",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "冶炼金属时，为达到某些性能要求（如拉伸强度、硬度、耐磨性、耐腐蚀性、电导率等）而有意添加的一种或多种金属或非金属元素。"
+  },
+  {
+   "cn": "双向方差分析",
+   "en": "two-way anova",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.67",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "含有两个或多个因子以及因子间交互项的方差分析。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

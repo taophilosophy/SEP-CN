@@ -1,0 +1,712 @@
+{
+ "key": "minimal mechanism",
+ "term": "minimal mechanism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:33:46+00:00",
+ "status": "ok",
+ "note": "variant=minimal mechanism; 审定公布名词库=2935; 海峡两岸名词对照库=583; 其他来源数据库=120; 预公布名词数据库=94; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "极简主义",
+   "en": "minimalism",
+   "source": "风景园林名词",
+   "wordNumber": "06.0008",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "生活及艺术的一种风格，本意在于极力追求简约，并且拒绝违反这一形态的任何事物。其特色是将设计的元素、色彩、照明、原材料简化到最少的程度，对色彩、材料的质感要求很高。简约的空间设计通常非常含蓄，往往能达到"
+  },
+  {
+   "cn": "极少主义",
+   "en": "minimalism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0368",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "产生于20世纪90年代的，继承和发展早期现代建筑“简约”特征的思潮。该潮流信奉密斯“少就是多”的口号，去繁从简，以获得建筑最本质的元素和简洁明快的空间。它重在追求空间质量和表现材料，在其简洁的表面下往"
+  },
+  {
+   "cn": "极小化",
+   "en": "minimization",
+   "source": "数学名词",
+   "wordNumber": "011.0018",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "求极小[值]",
+   "en": "minimizing",
+   "source": "数学名词",
+   "wordNumber": "011.0023",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "基本培养基",
+   "en": "minimal medium ",
+   "source": "草学名词",
+   "wordNumber": "5.0059",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "必需基因组",
+   "en": "minimal genome",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.382",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一个生物能在某一特定环境下生存所需要的最少的基因集合。"
+  },
+  {
+   "cn": "最小干预",
+   "en": "minimal intervention",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.087",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "以保证文物古迹安全为前提，避免过度干预影响文物古迹价值及历史文化信息的保护方式。"
+  },
+  {
+   "cn": "轻度镇静",
+   "en": "minimal sedation",
+   "source": "消化内镜学名词",
+   "wordNumber": "10.012",
+   "subjectFullName": "消化内镜学_消化内镜麻醉技术_麻醉方式",
+   "subjectName": "麻醉方式",
+   "publishYear": "2021",
+   "definition": "镇静后患者对口头指令可做出正常反应，认知功能和身体协调能力可能受损，但气道反射、通气和心血管功能不受影响的状态。"
+  },
+  {
+   "cn": "最小基因组",
+   "en": "minimal genome",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.095",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "能维持一个生物体独立生活所需的最少基因个数的基因组。"
+  },
+  {
+   "cn": "极小度",
+   "en": "minimal degree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0229",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如果一个图灵度 a ＞0，而且(0, a )=<img src='/root/syzx/static/spz/jsjkx3.02.0189.001.png'/>，即不存在 x 使得0＜ x ＜ a ，"
+  },
+  {
+   "cn": "极小对",
+   "en": "minimal pair",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0241",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个图灵度的对( a,b )使得 a≠0,b≠0 ，但 a∧b =0。 "
+  },
+  {
+   "cn": "极小熵",
+   "en": "minimal entropy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0399",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个随机变量中所包含的纯随机比特数。令 X 是一个随机变量。 X 的极小熵，记为<img src='/root/syzx/static/spz/jsjkx3.02.0399.001.png'/>(X)"
+  },
+  {
+   "cn": "最低保护",
+   "en": "minimal protection",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0221",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "美国可信计算机系统评估准则中最低安全等级的名称。对计算机系统进行的保护措施没有达到更高级别。"
+  },
+  {
+   "cn": "最小母群",
+   "en": "minimal supergroup",
+   "source": "化学名词",
+   "wordNumber": "04.1838",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "当1个母群G的最大子群是群g，那么这个母群G相对于最大子群g，称为最小母群。"
+  },
+  {
+   "cn": "基本培养基",
+   "en": "minimal medium",
+   "source": "药学名词",
+   "wordNumber": "04.213",
+   "subjectFullName": "药学_微生物药学",
+   "subjectName": "微生物药学",
+   "publishYear": "2014",
+   "definition": "仅能满足某微生物的野生型菌株生长需要的最低成分组合的培养基。"
+  },
+  {
+   "cn": "基本培养基",
+   "en": "minimal medium",
+   "source": "微生物学名词",
+   "wordNumber": "09.096",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "含有某些微生物野生型菌株生长所需基本营养物质的培养基。"
+  },
+  {
+   "cn": "最小对立体",
+   "en": "minimal pair",
+   "source": "语言学名词",
+   "wordNumber": "03.253",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "两个仅靠一个音系成分的对立来区别意义的语音片段。"
+  },
+  {
+   "cn": "最小覆盖",
+   "en": "minimal covering",
+   "source": "数学名词",
+   "wordNumber": "03.0037",
+   "subjectFullName": "数学_组合学·一般数学系统_组合学",
+   "subjectName": "组合学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "极小模型",
+   "en": "minimal model",
+   "source": "数学名词",
+   "wordNumber": "02.0108",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "极小对",
+   "en": "minimal pair",
+   "source": "数学名词",
+   "wordNumber": "02.0282",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "简约主义",
+   "en": "minimalism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "最小回路",
+   "en": "minimal tour",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最低保护",
+   "en": "minimal protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本培养基，合成培养基",
+   "en": "minimal medium",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "废物最小化",
+   "en": "waste minimization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "机制",
+   "en": "mechanism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "力学",
+   "en": "mechanics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最低血凝剂量",
+   "en": "minimal hemagglutinating dose",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最小溶血量",
+   "en": "minimal hemolytic dose",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最小生成树",
+   "en": "minimal spanning tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本培养基",
+   "en": "MM （=minimal medium）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "机械气阀传动机构",
+   "en": "mechanically actuated valve mechanism",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "机械通风",
+   "en": "mechanical draft\",\"mechanical ventilation",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "发育机制",
+   "en": "developmental mechanism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "捕虫环",
+   "en": "lasso mechanism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反馈机制",
+   "en": "feedback mechanism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隔离机制",
+   "en": "isolating mechanism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "贝吉龙机制",
+   "en": "Bergeron mechanism",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "查普曼机制",
+   "en": "Chapman mechanism",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "触发机制",
+   "en": "trigger mechanism",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共识机制",
+   "en": "consensus mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注意力机制",
+   "en": "attention mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信任机制",
+   "en": "trust mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全机制",
+   "en": "Security Mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "加密机制",
+   "en": "encryption mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "举国机制",
+   "en": "nationwide mechanism",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子力学",
+   "en": "quantum mechanics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消毒机理",
+   "en": "disinfection mechanism",
+   "source": "消毒学",
+   "wordNumber": "1.1.7",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "消毒因子对微生物在细胞和分子层面作用的原理。"
+  },
+  {
+   "cn": "社会机制",
+   "en": "social mechanism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会运行中各部分之间的相互关系及其相互作用的方式。包括社会的层次机制、社会的形式机制、社会的功能机制三种基本类型，以及社会动力机制、社会整合机制、社会控制机制、社会激励机制和社会保障机制等具体类型。"
+  },
+  {
+   "cn": "规范机制",
+   "en": "normative mechanism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.19",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在专业性很强和专业要求很高的组织领域，如大学和医院，不成文的专业规范规范通过专业教育进入从业人员的大脑，进而影响组织的制度结构的过程。保罗·迪马吉奥（Paul J.DiMaggio）和沃尔特•鲍威尔（"
+  },
+  {
+   "cn": "市场机制",
+   "en": "market mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "市场上供求、价格、竞争、风险等各种要素相互作用、相互制约所构成的经济运行的内在机理。是商品经济条件下，社会经济运行和资源配置的基础性调节机制，是商品经济的普遍规律即价值规律的具体表现和作用形式。规律即"
+  },
+  {
+   "cn": "价格机制",
+   "en": "price mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "在市场运行过程中，市场上某种商品或服务的价格变动与该商品或服务供求变动的关系，是市场机制的核心。"
+  },
+  {
+   "cn": "风险机制",
+   "en": "risk mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1.4",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "在利益的诱惑下，风险作为一种外在压力与竞争及供求共同作用于市场主体，共同调节市场运行的一种约束机制。"
+  },
+  {
+   "cn": "预先支付机制",
+   "en": "prepayment mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "在医疗费用发生之前，政府或保险方按一定的标准将医疗费用预先支付给医疗服务提供方的一种卫生资金筹集机制，支付标准在一定时期内是固定的，一段时期后按实际情况的变化再做相应的调整。"
+  },
+  {
+   "cn": "泌乳机理",
+   "en": "lactation mechanism",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.4",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "母亲分娩后体内雌激素及黄体酮迅速下降，催乳素上升，婴儿吸吮乳头和乳晕，通过神经至脑垂体，促进催乳素和催产素分泌，刺激乳腺细胞分泌乳汁，腺泡和乳腺导管周围平滑肌收缩引起射乳的生物学现象。"
+  },
+  {
+   "cn": "最小杀菌浓度",
+   "en": "minimal bactericidal concentration, MBC",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.7.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在一定时间内，消毒剂杀灭试验菌达到消毒合格所需的最低浓度。"
+  },
+  {
+   "cn": "最小致死剂量",
+   "en": "minimal lethal dose, MLD",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "仅引起一组受试实验动物中个别动物死亡的最小剂量，从理论上讲，低于此剂量即不能引起死亡。"
+  },
+  {
+   "cn": "最小重要变化",
+   "en": "minimal important change, MIC",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "患者角度认为有治疗或护理效果的最小分数变化。"
+  },
+  {
+   "cn": "机械通风",
+   "en": "mechanical ventilation",
+   "source": "消毒学",
+   "wordNumber": "1.8.17",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "依靠风机提供的风压、风量，有效地将室内外空气交换的通风换气方式。"
+  },
+  {
+   "cn": "机械排风",
+   "en": "mechanical exhaust",
+   "source": "消毒学",
+   "wordNumber": "1.8.17.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "依靠风机提供的风压、风量，将室内空气排出室外的过程。在密闭条件下，室内一般处于相对负压状态。"
+  },
+  {
+   "cn": "机械传播",
+   "en": "mechanical transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.3",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "病原体仅通过节肢动物的携带传递到人的传播方式。"
+  },
+  {
+   "cn": "机械清洗",
+   "en": "mechanical cleaning",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过清洗机清洗的方式对医疗器械和相关物品进行的清洗。"
+  },
+  {
+   "cn": "机械唯物主义",
+   "en": "mechanical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0108",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "唯物主义发展的第二种形态。以孤立的、静止的、片面的观点解释自然界的一切现象和过程及认识论问题的唯物主义哲学。它具有以下局限性：机械性、形而上学性、不彻底性。主要代表人物有霍布斯（Thomas Hobb"
+  },
+  {
+   "cn": "机械决定论",
+   "en": "mechanical determinism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.163",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "在古典力学基础上建立起来的，盛行于17 至18 世纪，认为一切事物具有必然性、因果制约性和客观规律性，否认偶然性和人的主观能动性的哲学理论。"
+  },
+  {
+   "cn": "机械学模式",
+   "en": "mechanical model",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0568",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-斯特劳斯（Claude Levi-Strauss）研究社会结构的四种模式之一，模式的成分与现象的模样相同，称为机械学模式；我们可以将其理解为应该怎么做。"
+  },
+  {
+   "cn": "物理再生",
+   "en": "mechanical recycling",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.25",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "再生过程中，回收塑料的基础聚合物分子不会发生改变的再生技术。"
+  },
+  {
+   "cn": "机械团结",
+   "en": "mechanical solidarity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0522",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念之一，与有机团结相对，指建立在社会成员同质性基础上的社会结合方式，主要体现在不发达社会或初民社会中。机械团结社会的特点是：①个体间同质性较强"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

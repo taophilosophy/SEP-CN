@@ -1,0 +1,652 @@
+{
+ "key": "compensation",
+ "term": "compensation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:31:05+00:00",
+ "status": "ok",
+ "note": "variant=compensation; 审定公布名词库=508; 海峡两岸名词对照库=215; 其他来源数据库=10; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "补偿",
+   "en": "compensation",
+   "source": "行为医学名词",
+   "wordNumber": "10.069",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "当个体因自身生理或心理缺陷不能达到目的时，用其他方式来补救这些缺陷，以减轻焦虑、建立自尊心的方式。"
+  },
+  {
+   "cn": "补偿作用",
+   "en": "compensation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0378",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_润滑",
+   "subjectName": "润滑",
+   "publishYear": "2021",
+   "definition": "恒压式流体静压轴承中，利用轴承供油口或供气泵出口与进油口之间的流动阻力(节流器)来保持其工作能力的作用。"
+  },
+  {
+   "cn": "薪酬",
+   "en": "compensation",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0660",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_薪酬管理",
+   "subjectName": "薪酬管理",
+   "publishYear": "2016",
+   "definition": "支付给员工的对其付出的时间、努力和劳动的回报。"
+  },
+  {
+   "cn": "补偿",
+   "en": "compensation",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0487",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "为提供或收到的产品、服务或成果而给予或接受的现金或实物。"
+  },
+  {
+   "cn": "补偿",
+   "en": "compensation",
+   "source": "计量学名词",
+   "wordNumber": "04.067",
+   "subjectFullName": "计量学_力值、硬度_负荷传感器",
+   "subjectName": "负荷传感器",
+   "publishYear": "2015",
+   "definition": "为减少和消除传感器的已知系统误差所采取的措施。包括所使用的辅助装置、特殊材料或工艺。"
+  },
+  {
+   "cn": "测量端口补偿",
+   "en": "compensation",
+   "source": "计量学名词",
+   "wordNumber": "11.129",
+   "subjectFullName": "计量学_无线电_集总参数阻抗",
+   "subjectName": "集总参数阻抗",
+   "publishYear": "2015",
+   "definition": "在被测件测试夹具接入端进行规定形式的阻抗测量和参量修正的一组操作。常用的补偿有开路、短路、负载补偿和夹具的电长度补偿。"
+  },
+  {
+   "cn": "代偿",
+   "en": "compensation",
+   "source": "心理学名词",
+   "wordNumber": "05.115",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "体内平衡失调后，机体通过调整器官组织的功能、结构及代谢建立新的平衡的过程。"
+  },
+  {
+   "cn": "补偿",
+   "en": "compensation",
+   "source": "材料科学技术名词",
+   "wordNumber": "06.0059",
+   "subjectFullName": "材料科学技术_半导体材料_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "半导体内同时存在施主杂质和受主杂质，施主杂质施放的电子为受主杂质接受。"
+  },
+  {
+   "cn": "补偿",
+   "en": "compensation",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.301",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "代偿",
+   "en": "compensation",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.181",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "补偿",
+   "en": "compensation",
+   "source": "地质学名词",
+   "wordNumber": "03.393",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "补偿",
+   "en": "compensation",
+   "source": "自动化名词",
+   "wordNumber": "02.156",
+   "subjectFullName": "自动化科学技术_控制理论_经典控制论",
+   "subjectName": "经典控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "加工补偿",
+   "en": "compensating",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.326",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_金属切削机床_机床的运动",
+   "subjectName": "机床的运动",
+   "publishYear": "2021",
+   "definition": "在加工过程中，把加工工具与工件矫正到正确的相对位置，而引入的微量位移。"
+  },
+  {
+   "cn": "[静压轴承]补偿器",
+   "en": "compensator",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0561",
+   "subjectFullName": "机械工程（一）_机械零件_滑动轴承_滑动轴承组件的结构要素",
+   "subjectName": "滑动轴承组件的结构要素",
+   "publishYear": "2021",
+   "definition": "流体静压轴承和动静压轴承中，利用节流器或恒流量阀使压力得到自动调节以适应载荷及其变化的器件。"
+  },
+  {
+   "cn": "补偿器",
+   "en": "compensator",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0107",
+   "subjectFullName": "化工（八）_管道_管道组成件及管道支承件",
+   "subjectName": "管道组成件及管道支承件",
+   "publishYear": "2021",
+   "definition": "设置在管道上吸收管道热胀、冷缩及其他位移的元件。"
+  },
+  {
+   "cn": "补偿器",
+   "en": "compensator",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0293",
+   "subjectFullName": "机械工程（一）_机械动力学_平衡与平衡装备",
+   "subjectName": "平衡与平衡装备",
+   "publishYear": "2021",
+   "definition": "安装在平衡机内，可使转子的初始不平衡为零(通常以电气方式)，以加快平面设定和标定过程的装置。"
+  },
+  {
+   "cn": "补偿器",
+   "en": "compensator",
+   "source": "测绘学名词",
+   "wordNumber": "02.454",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "在仪器中用于补偿相位差、光程差、偏振差、光强度或机械位移等变量的部件。"
+  },
+  {
+   "cn": "补偿器",
+   "en": "compensator",
+   "source": "物理学名词",
+   "wordNumber": "03.1101",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "补偿器",
+   "en": "compensator",
+   "source": "建筑学名词",
+   "wordNumber": "14.0246",
+   "subjectFullName": "建筑学_建筑设备与系统_暖通空调系统与设备部件",
+   "subjectName": "暖通空调系统与设备部件",
+   "publishYear": "2014",
+   "definition": "系统中用于补偿管道长度热胀冷缩量的装置。有方形补偿器、套筒补偿器和球形补偿器等。"
+  },
+  {
+   "cn": "补偿器",
+   "en": "compensator",
+   "source": "航天科学技术名词",
+   "wordNumber": "02.199",
+   "subjectFullName": "航天科学技术_航天运载器",
+   "subjectName": "航天运载器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "补偿",
+   "en": "compensation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "代偿,补偿",
+   "en": "compensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "补偿",
+   "en": "compensation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "补偿作用",
+   "en": "compensation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "补偿",
+   "en": "compensation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "补偿作用",
+   "en": "compensation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "补偿",
+   "en": "compensation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "补偿",
+   "en": "compensation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "补偿器",
+   "en": "compensator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "补偿器",
+   "en": "compensator",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "补偿器",
+   "en": "compensator",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "补偿器补偿误差",
+   "en": "compensating error of compensator",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "补偿电线",
+   "en": "compensating wire\",\"compensating winding",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "补偿点",
+   "en": "compensation point",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "补偿流",
+   "en": "compensation current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "补偿效应",
+   "en": "compensation effect",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "薪酬制度",
+   "en": "compensation system",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "补偿掺杂",
+   "en": "compensation doping",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "补偿层",
+   "en": "compensation level",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "补偿光谱",
+   "en": "compensation spectrum",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "国家赔偿",
+   "en": "state compensation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弓震吸收器",
+   "en": "flight compensator\",\"torque",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "科技信贷风险补偿资金",
+   "en": "Fintech credit risk compensation fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天使投资风险补偿政策",
+   "en": "angel investment risk compensation policy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态补偿制度",
+   "en": "the system of ecological compensation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然资源有偿使用制度",
+   "en": "the compensation system for the use of natural resources",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "做好工伤认定和待遇保障",
+   "en": "(to streamline/implement procedures) to identify and facilitate compensation for work-related infections",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“五个一批,，",
+   "en": "the “Five-pronged Poverty Alleviation Measures” (developing production, relocation, ecological compensation, development of education, securing basic needs through social security)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "颂赞",
+   "en": "Extolment and Commendation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "补偿器",
+   "en": "compensator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.8",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "根据辐射束各部分穿过等效厚度的差异，选择合适的材料制成特定的形状，置于治疗头和患者之间，用于调节有用线束的强度分布，使得患者体内某一特定深度处的剂量相对均匀的装置。"
+  },
+  {
+   "cn": "宗教补偿",
+   "en": "religious compensator",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.20",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "宗教社会学中理性选择学派提出的基本概念，认为个体的宗教行为是理性的选择，在此前提下，认为宗教对个人提供了某种奖励或报偿。"
+  },
+  {
+   "cn": "实际补偿比",
+   "en": "actual compensation ratio，real compensation ratio",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "参保人在各级定点医疗服务机构就医后所得到实际补偿的医药费用占应支付医药费用的比例。"
+  },
+  {
+   "cn": "政策补偿比",
+   "en": "policy compensation ratio",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.4.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "在规定的政策范围内，即规定的服务包（包括药品、检查等）范围内，以及规定的起付线、封顶线等限制下，参保人应获得补偿的医疗费用占应支付医药费用的比例。"
+  },
+  {
+   "cn": "生育代价及补偿",
+   "en": "bearing cost and compensating",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.11",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "国内女性主义者在20世纪80年代提出的解决妇女就业难的一个对策建议。强调妇女生育抚育后代的社会价值，认为其代价应由社会来承担，倡导建立妇女生育基金进行统筹，以减少企事业单位的压力。继不少省市建立妇女生"
+  },
+  {
+   "cn": "高空代偿服",
+   "en": "high altitude compensating suit",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.3.1.4",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "防止高空气压差对飞行人员的损伤和提高飞行人员承受正向过载能力的特种服装。"
+  },
+  {
+   "cn": "尸体器官捐献补偿",
+   "en": "compensation for cadaveric organ donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.056000000000001",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "基于公正原则，对自愿无偿捐献尸体器官的行为给予一定的精神与物质嘉奖，体现对其高尚行为的肯定与激励。"
+  },
+  {
+   "cn": "医院薪酬制度改革",
+   "en": "hospital's compensation system reform",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.4",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "根据医疗行业特点，旨在建立体现医务人员技术劳务价值的工资、薪金和福利待遇的标准、规定、程序和管理实践的管理体制的改革。"
+  },
+  {
+   "cn": "赔偿的病因概率限值",
+   "en": "probability of causation limit for compensation",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "在职业性放射性肿瘤赔偿中，由管理部门审定的可给予法定赔偿的病因概率的最低限值。"
+  },
+  {
+   "cn": "预防接种异常反应补偿制度",
+   "en": "compensation system for abnormal reaction to vaccination",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.5.4.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_疫苗经济学",
+   "subjectName": "疫苗经济学",
+   "publishYear": "2025",
+   "definition": "实施预防接种过程中或者实施预防接种后出现受种者死亡、严重残疾、器官组织损伤等损害，属于预防接种异常反应或者不能排除的，应当给予补偿。补偿范围实行目录管理，并根据实际情况进行动态调整。接种免疫规划疫苗所"
+  },
+  {
+   "cn": "核损害补充赔偿公约",
+   "en": "Convention on Supplementary Compensation for Nuclear Damage",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.14",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1997年12月举行的国际原子能机构第41届大会上获得通过的全球性法律文件。其主要目的是建立一个独立的、全球性的核损害补充赔偿机制，规定了一个额外的资金筹集制度，补充有关缔约国国内法规定可获得的赔偿。"
+  },
+  {
+   "cn": "以药补医",
+   "en": "compensating hospitals using revenue from pharmaceutical sale",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.5.1.1.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "医院以药品加成收入来弥补医疗服务亏损的机制。"
+  },
+  {
+   "cn": "自愿无偿原则",
+   "en": "principle of voluntariness consent to donation without compensation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.073",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "要求器官捐献应当由捐献者及其亲属完全自主决定并坚持无偿捐献的伦理原则。是保障人的基本权利和人格尊严的具体体现。"
+  },
+  {
+   "cn": "早熟染色体凝集",
+   "en": "premature chromosome condensation，PCC",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.3.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "一种使间期淋巴细胞染色质提前凝集成染色体形态的现象。利用化学或生物的方法，间期淋巴细胞核被诱导提前进入有丝分裂期，使间期淋巴细胞核内极度分散状态的染色质凝缩成细纤维状的染色体样结构。"
+  },
+  {
+   "cn": "全国民族团结进步表彰大会",
+   "en": "National Commendation Conference on Ethnic Unity and Progress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0065",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央与国务院为巩固发展平等团结互助和谐的社会主义民族关系,对各民族、各地区、各行业、各条战线上为民族团结进步做出突出贡献的先进集体和先进个人进行表彰的大会，一般与中央民族工作会议同期举行，自198"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

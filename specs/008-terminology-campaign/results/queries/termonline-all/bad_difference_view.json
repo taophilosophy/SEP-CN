@@ -1,0 +1,792 @@
+{
+ "key": "bad difference view",
+ "term": "Bad Difference View",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:49:00+00:00",
+ "status": "ok",
+ "note": "variant=Bad Difference View; 审定公布名词库=2644; 海峡两岸名词对照库=922; 其他来源数据库=104; 预公布名词数据库=87; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "负商品",
+   "en": "bads",
+   "source": "经济学名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "能够带来负效用（disutility）或产生不舒适感的商品叫作负商品。例如，对于大多数人而言，污染是一种负商品。对于负商品，消费者倾向于选择更少而不是更多。"
+  },
+  {
+   "cn": "坏账",
+   "en": "bad account",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.056",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "企业因某种原因造成的各种无法收回的应收账款。"
+  },
+  {
+   "cn": "材质不良",
+   "en": "bad material",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0696",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "绝缘不良",
+   "en": "bad insulation",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0697",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "接触不良",
+   "en": "bad contact",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0699",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "坏约化",
+   "en": "bad reduction",
+   "source": "数学名词",
+   "wordNumber": "04.0362",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "视景",
+   "en": "view",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.349",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "从一个给定观察点所见的客观画面。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0217",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "根据有关标准和规定，用正投影法将机件向投影面投影所得到的图形。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0009",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "供用户和数据库管理员了解和使用的数据库的逻辑结构。每个视图抽象地描述了整个数据库的一个侧面。"
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "航海科技名词",
+   "wordNumber": "07.0293",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "差异",
+   "en": "difference",
+   "source": "教育学名词",
+   "wordNumber": "10.009",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "以哲学表征事物相互区别和自身区别的范畴来表示身心障碍的不同类别和程度。"
+  },
+  {
+   "cn": "差",
+   "en": "difference",
+   "source": "数学名词",
+   "wordNumber": "04.0015",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "差积",
+   "en": "different",
+   "source": "数学名词",
+   "wordNumber": "04.0238",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不良接触试验",
+   "en": "bad contact test",
+   "source": "电气工程名词",
+   "wordNumber": "23.221",
+   "subjectFullName": "电气工程_日用电器",
+   "subjectName": "日用电器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "钢轨绝缘不良",
+   "en": "bad rail insulation",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0698",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "[有限]差分",
+   "en": "difference,finite difference",
+   "source": "数学名词",
+   "wordNumber": "010.0198",
+   "subjectFullName": "数学_数值分析_数值微分·数值积分",
+   "subjectName": "数值微分?数值积分",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全景",
+   "en": "full view,panoramic view",
+   "source": "物理学名词",
+   "wordNumber": "04.0476",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "障景",
+   "en": "blocking view",
+   "source": "风景园林名词",
+   "wordNumber": "02.0096",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "通过视线遮挡、屏障景物，从而增加空间层次，或遮住干扰景观的事物的造景手法。"
+  },
+  {
+   "cn": "公认观点",
+   "en": "received view",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.027",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "通常指的是20世纪30～60年代的逻辑经验论。因其当时在科学哲学界广为流传，其哲学主张被大家普遍接受。"
+  },
+  {
+   "cn": "因子",
+   "en": "view factor",
+   "source": "核科学技术名词",
+   "wordNumber": "3.416",
+   "subjectFullName": "核科学技术_核聚变_惯性约束聚变",
+   "subjectName": "惯性约束聚变",
+   "publishYear": "2024",
+   "definition": "真空中收光面接收到的辐射能与发光面发射出的辐射能之‍比。"
+  },
+  {
+   "cn": "不良债权",
+   "en": "bad claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "呆账",
+   "en": "bad debt",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "坏块",
+   "en": "bad block",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "坏扇区法",
+   "en": "bad sectoring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "差",
+   "en": "difference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "坏块表",
+   "en": "bad block table",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赤道面观",
+   "en": "equatorial view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "极面观",
+   "en": "polar view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "壳环面观",
+   "en": "girdle view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "壳面观",
+   "en": "valve view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视因数",
+   "en": "view factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海底观光",
+   "en": "submarine view",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "版面视图",
+   "en": "layout view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表视图",
+   "en": "table view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反视立体图",
+   "en": "pseudoscopic view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实现视点",
+   "en": "implementation view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据视图",
+   "en": "data view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "二次触球",
+   "en": "bad ball handing\",\"bad catching\",\"bad reception\",\"double touch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高度差",
+   "en": "landing difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全视角传输",
+   "en": "full view transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同异",
+   "en": "Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "视场",
+   "en": "field of view (FOV)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球治理观",
+   "en": "views on global governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大同异/小同异",
+   "en": "Major Commonality and Difference / Minor Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合同异",
+   "en": "Unify Similarity and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "过犹不及",
+   "en": "Going Too Far Is as Bad as Falling Short.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "求同存异",
+   "en": "Seek Common Ground While Setting Aside Differences",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以国为国，以天下为天下",
+   "en": "Rule a State or a Country with Different Methods",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奏启",
+   "en": "Memorial or Statement to Present One’s View to the Emperor",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坐忘",
+   "en": "Forget the Difference and Opposition Between Self and the Universe",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因地因企因人分类帮扶",
+   "en": "to provide assistance specifically designed to suit different regions, enterprises and people",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "突出重点、统筹兼顾、分类指导、分区施策",
+   "en": "to focus on key issues, strengthen coordination, give sector-specific guidance, and apply targeted policies to different areas ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顽固性不良习惯",
+   "en": "stubborn bad habits",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "在童年某阶段身心不良诱因作用下，出现的某些刻板性的习惯动作和行为，表现为多次重复，持续较长时间，无法靠主观意志改变、纠正；虽表现形式多样，但绝大多数无特殊性精神异常。"
+  },
+  {
+   "cn": "历史观",
+   "en": "historical view",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0138",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对历史发展演变规律的认知，包括对自身国家、民族、文化发展历史的认同和认知，以及自身国家、民族、文化同他者交往历史的认知。在中国，核心是对中华人民共和国、中华民族发展历史的认同。"
+  },
+  {
+   "cn": "健康观",
+   "en": "health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "人类对健康与疾病的本质认识，建立在特定医学模式基础上，并随着医学模式的演变而改变。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference, sex difference",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "男性和女性在生理、心理、行为及社会文化层面表现出的群体性差异。生物学因素（如基因、激素）奠定生理分化基础（如生殖系统、疾病倾向），而社会文化建构（如性别角色、教育机会、刻板印象）影响行为模式、认知能力"
+  },
+  {
+   "cn": "有害健康产品征税",
+   "en": "excise taxes on bads",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.2.3",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策",
+   "subjectName": "健康危害行为公共政策",
+   "publishYear": "2025",
+   "definition": "对危害健康产品进行征税，以提高其价格，减少其需求和消费的行为。"
+  },
+  {
+   "cn": "压差",
+   "en": "pressure difference",
+   "source": "消毒学",
+   "wordNumber": "4.6.18.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过工程技术使房间内外产生的气压之差，使空气得以定向流动，防止病原体扩散。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural difference",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "广义指世界不同地域、不同社会的文化之间所存在的差别，狭义指人类信仰与行为层面的差别。一般取其广义。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别之间的差异。存在于生理结构和遗传因素中，也存在于社会环境和文化氛围中。女性主义认为它不是性别歧视的理由，不应导致性别不平等。"
+  },
+  {
+   "cn": "阶级差别",
+   "en": "class difference",
+   "source": "马克思主义",
+   "wordNumber": "03.0090",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不同阶级之间在经济利益、政治地位、社会地位和思想观念等方面存在的不同。"
+  },
+  {
+   "cn": "差别检验",
+   "en": "difference test",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.11",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对比较的产品的总体感官差异或特定感官性质差异进行的感官评价。要求评价员回答两个或两个以上的样品中是否存在感官差异，以得出两个或更多的样品间是否存在差异的结论。差别检验的结果分析是以每一类别的评价员数量"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0091",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "不同性别由于社会心理差异所呈现的不同的言语特征。"
+  },
+  {
+   "cn": "年龄差异",
+   "en": "age differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0093",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一言语社区内不同年龄段的人在使用语言变体上的差别。通常老年人的语言变体比较传统和保守，年轻人的语言变体比较简化和创新。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0046",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "不同地区、民族的人们所持有的文化的差别。"
+  },
+  {
+   "cn": "代别",
+   "en": "generation differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0092",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一个言语社区内不同代际之间的言语差别。"
+  },
+  {
+   "cn": "消极健康观",
+   "en": "negative health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.3",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "生物医学模式下基于疾病的发生、发展和转归关系为依据的健康疾病观，以疾病为中心，“健康即无病”。"
+  },
+  {
+   "cn": "健康观",
+   "en": "view of health",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.03",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对健康的根本观点和态度。传统的健康观认为“无病即健康”，世界卫生组织提出：“健康不仅指一个人身体有没有出现疾病或虚弱现象，而是指一个人生理、心理和社会适应能力的完好状态”。人的健康应是综合性的、全"
+  },
+  {
+   "cn": "积极健康观",
+   "en": "positive health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.2",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "现代医学模式下从生物学、心理学和社会学多个维度改善和控制健康影响因素的健康观。"
+  },
+  {
+   "cn": "死亡观",
+   "en": "view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.026",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对死亡的根本观点。不同文化、不同宗教有着不同的死亡态度。"
+  },
+  {
+   "cn": "生命观",
+   "en": "view of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对生命的本质、价值等诸方面的根本看法和总的观点。统摄和支配着人们对待生命的态度、情感、意志和行为选择。"
+  },
+  {
+   "cn": "健康差异指数",
+   "en": "health difference index",
+   "source": "社会医学名词",
+   "wordNumber": "9.12",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "健康差异指数",
+   "publishYear": "2025",
+   "definition": "应用差异指数计算原理，综合某个社会经济特征（如收入、教育、职业等）的人口比重和患病比重指标，衡量不同社会经济特征人群的健康状况分布差异。测量健康公平性的指标，取值在0～1 之间，值越小表示公平性越好。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

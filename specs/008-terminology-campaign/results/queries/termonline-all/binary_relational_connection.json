@@ -1,0 +1,762 @@
+{
+ "key": "binary relational connection",
+ "term": "binary relational connection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:40:08+00:00",
+ "status": "ok",
+ "note": "variant=binary relational connection; 审定公布名词库=3352; 海峡两岸名词对照库=930; 其他来源数据库=135; 预公布名词数据库=151; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "二进制",
+   "en": "binary",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.185",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "使用数码0和1，以及基数2的固定基数数制。"
+  },
+  {
+   "cn": "二进制[的]",
+   "en": "binary",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.167",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以2为基数的计数制。其中只有两个可能的不同值或状态的选择、机会或状况。"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "建筑学名词",
+   "wordNumber": "13.0056",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "构件间以某种方式的结合。能传递竖向力和水平力而不能传递弯矩的构件相互连接方式称为铰接；能传递竖向力和水平力，又能传递弯矩的构件相互连接方式称为刚接；能传递竖向力、水平力和部分弯矩且容许有一定变形的构件"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在通信系统中，为传送信号在功能单元之间建立的关联。"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "土木工程名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "土木工程_建筑结构_连接与构造",
+   "subjectName": "连接与构造",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "联结",
+   "en": "connection",
+   "source": "电气工程名词",
+   "wordNumber": "01.622",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "联络",
+   "en": "connection",
+   "source": "数学名词",
+   "wordNumber": "08.1014",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "电子学名词",
+   "wordNumber": "21.093",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "联号",
+   "en": "connective",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.298",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "表示不同标引词之间在同一文献中联系程度强弱的一种专用标引符号。它揭示标引词之间是否具有逻辑组配关系，防止出现假联系和错误组配，提高系统的查准率。使用联号的结果类似于标引词分组。"
+  },
+  {
+   "cn": "药隔",
+   "en": "connective",
+   "source": "植物学名词",
+   "wordNumber": "03.0406",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "雄蕊中介于花粉囊之间花药的部分。"
+  },
+  {
+   "cn": "联结词",
+   "en": "connective",
+   "source": "数学名词",
+   "wordNumber": "02.0026",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连",
+   "en": "connect",
+   "source": "风景园林名词",
+   "wordNumber": "08.0731",
+   "subjectFullName": "风景园林_风景园林工程_风景园林假山",
+   "subjectName": "风景园林假山",
+   "publishYear": "2025",
+   "definition": "山石与山石之间水平方向的相互搭接。连石要根据山石的自然轮廓、并注意连石之间的大小同、连缝或紧或疏以形成岩石自然风化后的节理。"
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.724",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "拓扑学中的基本概念。若X中除了空集和X本身外没有别的既开又闭的子集，则称拓扑空间X具有连通性。"
+  },
+  {
+   "cn": "连接度",
+   "en": "connectivity",
+   "source": "植物学名词",
+   "wordNumber": "13.0587",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "从生态功能和过程上描述景观中各单元之间相互联系的程度。是测定景观的功能特征。"
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0776",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "给定一个图 G，若对于G 中任意两个节点 s,t ，在 G 中有从 s 到 t 的路径，则称 G 是连通的。"
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.344",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "衡量网络复杂性的量度，常用γ指数和α指数计算。其中，γ指数等于给定空间网络体节点连线数与可能存在的所有连线数之比,α指数用于衡量环路，节点被交替路径连接的程度，等于当前存在的环路数与可能存在的最大环路"
+  },
+  {
+   "cn": "连接度",
+   "en": "connectivity",
+   "source": "生态学名词",
+   "wordNumber": "08.052",
+   "subjectFullName": "生态学_景观生态学",
+   "subjectName": "景观生态学",
+   "publishYear": "2006",
+   "definition": "从生态功能上描述景观中各单元之间相互联系的程度。"
+  },
+  {
+   "cn": "连通度",
+   "en": "connectivity",
+   "source": "数学名词",
+   "wordNumber": "03.0122",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "数学名词",
+   "wordNumber": "08.0497",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "二元关系",
+   "en": "binary relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二进制[的]",
+   "en": "binary",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二进制",
+   "en": "binary",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "二进制[的]",
+   "en": "binary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "药隔",
+   "en": "connective",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "联系性",
+   "en": "connectivity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二元性状",
+   "en": "binary character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双名",
+   "en": "binary name",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双名组合",
+   "en": "binary combination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二叉树",
+   "en": "binary tree",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双气旋",
+   "en": "binary cyclones",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双台风",
+   "en": "binary typhoons",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二元催化剂",
+   "en": "binary catalyst",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双循环",
+   "en": "binary cycle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二元共沸液",
+   "en": "binary azeotrope",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二元蒸馏",
+   "en": "binary distillation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二元系［统］",
+   "en": "binary system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "衔接",
+   "en": "connect\",\"connecting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情感连接",
+   "en": "emotional connection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技巧连接动作",
+   "en": "acrobatic connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接连接",
+   "en": "indirect connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接动作",
+   "en": "connecting move",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接电缆",
+   "en": "connecting cable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接导线",
+   "en": "connecting wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接电缆",
+   "en": "connecting wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《连通2020目标议程》",
+   "en": "Connect 2020 Agenda",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧互通",
+   "en": "Intelligent Connectivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础设施互联互通",
+   "en": "infrastructure connectivity",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二分型",
+   "en": "binary",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.37",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "仅使用两个类别去测量一个性质或属性的测量方式。"
+  },
+  {
+   "cn": "关系",
+   "en": "connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0062",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义哲学语境下，“关系”同“联系”。关系反映事物与事物、本质与本质、现象与现象、本质与现象之间相互联系的哲学范畴，是事物相互联系的必要因素。辩证唯物主义认为，关系是客观的，它存在于事物之间。"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "二元对立",
+   "en": "binary opposition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0571",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一组意义相反的概念，彼此相互排斥、形成对比，但并非是一种矛盾关系，而是结构的、互为补充的关系。在瑞士语言学家索绪尔开创的结构语言学中，通过二元对立可建立语言单位的意义，每一个单位通过与其他词汇的对等划"
+  },
+  {
+   "cn": "辩证关系",
+   "en": "dialectical connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0039",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种事物内部要素之间以及不同事物之间既对立又统一的矛盾关系。从世界观角度看，辩证关系是客观事物存在的状态，从方法论角度看，辩证关系是我们认识事物的普遍方法。"
+  },
+  {
+   "cn": "本质联系",
+   "en": "essential connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0061",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物内部符合规律性的固有的、稳定的、必然的、深刻的联系，对事物的性质及其发展方向起着主要的决定性作用。"
+  },
+  {
+   "cn": "外在联系",
+   "en": "external connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0072",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内在联系”相对。这种关系不是原有的，属于非本质、非必然关系，对事物性质没有决定性的影响。"
+  },
+  {
+   "cn": "内在联系",
+   "en": "internal connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0075",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在联系”相对。是事物之间存在固有的、本质的、必然性的关联，对事物性质具有决定作用。"
+  },
+  {
+   "cn": "结缔组织",
+   "en": "connective tissue",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.1.1",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_基本组织",
+   "subjectName": "基本组织",
+   "publishYear": "2025",
+   "definition": "由细胞和大量细胞外基质构成的一种基本组织。不同类型结缔组织所含细胞数量、形态结构和功能不同。狭义上指固有结缔组织，包括疏松结缔组织、致密结缔组织、脂肪组织和网状组织。广义上还包括血液、淋巴、软骨和骨组"
+  },
+  {
+   "cn": "二元化学武器",
+   "en": "binary chemical weapon",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.2.4",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器",
+   "subjectName": "化学武器",
+   "publishYear": "2025",
+   "definition": "将两种无毒或低毒性前体化学物质分隔装填在同一弹体不同隔室内，在弹药发射或爆炸过程中，两种前体化学物质混合并相互作用，生成一种新的剧毒化学物质的化学武器。"
+  },
+  {
+   "cn": "二元过氧乙酸",
+   "en": "binary peroxyacetic acid",
+   "source": "消毒学",
+   "wordNumber": "2.1.14.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "过氧乙酸性质不稳定，一般需要在使用前由A剂（过氧化氢）与B剂（乙酸、硫酸或盐酸）按一定比例混合生成。商品态的A、B剂称为二元过氧乙酸。"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "二元包装消毒产品",
+   "en": "binary packaging disinfection product",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "原料分为两个最小包装，使用时应混合的消毒产品。"
+  },
+  {
+   "cn": "关系合同理论",
+   "en": "relational contract theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.60",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "从交易的社会关系嵌入性出发而提出的合同理论。该理论认为交易各方在长期合作中可以不追求对契约的所有细节达成一致，而仅订立一个具有灵活性和适应性的契约。与正式契约依赖法律执行不同，关系契约的执行依赖于契约"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

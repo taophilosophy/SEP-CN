@@ -1,0 +1,782 @@
+{
+ "key": "portion",
+ "term": "portion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:06:36+00:00",
+ "status": "ok",
+ "note": "variant=portion; 审定公布名词库=1757; 海峡两岸名词对照库=570; 其他来源数据库=170; 预公布名词数据库=53; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "人丁份地",
+   "en": "Portion",
+   "source": "世界历史名词",
+   "wordNumber": "02.0803",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "俄国在份地土地制时期分给每个登记的农奴的土地。1861年，农民改革后只给每一个男性农民(不论年龄)分配份地。"
+  },
+  {
+   "cn": "分量",
+   "en": "portion size",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0162",
+   "subjectFullName": "食品科学技术_食品营养_基础营养_食物成分表",
+   "subjectName": "食物成分表",
+   "publishYear": "2020",
+   "definition": "单位包装内含有食品的量。"
+  },
+  {
+   "cn": "腔静脉旁部",
+   "en": "paracaval portion",
+   "source": "普通外科学名词",
+   "wordNumber": "20.019",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "位于下腔静脉腹侧、头侧紧邻肝中静脉与肝右静脉的部分尾状叶。"
+  },
+  {
+   "cn": "分泌部",
+   "en": "secretory portion",
+   "source": "动物学名词",
+   "wordNumber": "3.0044",
+   "subjectFullName": "动物学_动物组织学_上皮组织",
+   "subjectName": "上皮组织",
+   "publishYear": "2021",
+   "definition": "由单层外分泌腺细胞围成的囊泡结构。中央有腔，其形状为管状、泡状或管泡状。具有合成并释放分泌物的功能。"
+  },
+  {
+   "cn": "分泌部",
+   "en": "secretory portion ",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "03.079",
+   "subjectFullName": "组织学与胚胎学_组织学_上皮组织",
+   "subjectName": "上皮组织",
+   "publishYear": "2014",
+   "definition": "由单层外分泌细胞围成的囊泡结构。具有合成并释放分泌物的功能。"
+  },
+  {
+   "cn": "试份",
+   "en": "test portion",
+   "source": "水产名词",
+   "wordNumber": "11.072",
+   "subjectFullName": "水产_渔业环境保护",
+   "subjectName": "渔业环境保护",
+   "publishYear": "2002",
+   "definition": "根据不同监测指标测定的需要，将一个水样分成若干份，或在同一采样点用不同采样方法采集的水样。"
+  },
+  {
+   "cn": "紧急部",
+   "en": "emergency portion",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0293",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "缓解部",
+   "en": "release portion",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0294",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "作用部",
+   "en": "service portion",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0292",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "高端摄入量",
+   "en": "large portion intake",
+   "source": "农学名词",
+   "wordNumber": "18.158",
+   "subjectFullName": "农产品质量安全_农产品质量安全管理",
+   "subjectName": "农产品质量安全管理",
+   "publishYear": "2025",
+   "definition": "能够代表一种食品消费量的第97.5百分位数(仅食用者)的食物消费量。来自食物消费调查中的个人消费日高端消费量，用于计算急性膳食暴露量。"
+  },
+  {
+   "cn": "高端消费量",
+   "en": "large portion size",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0322",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "能够代表某一种食品消费量的第97.5百分位数（仅食用者）的食品消费量。用于计算极端膳食暴露量。"
+  },
+  {
+   "cn": "加速制动阀部",
+   "en": "accelerated application valve portion",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0295",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "颞骨鳞部",
+   "en": "squamous portion of temporal bone",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.1.5.1",
+   "subjectFullName": "耳科_耳解剖",
+   "subjectName": "耳解剖",
+   "publishYear": "2025",
+   "definition": "颞骨前上部形似鱼鳞的部分。前接蝶骨大翼，上为顶骨，后连颞骨乳突部，内连颞骨岩部；分内、外两面，上、前、下三缘。"
+  },
+  {
+   "cn": "颞骨乳突部",
+   "en": "mastoid portion of temporal bone",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.1.5.2",
+   "subjectFullName": "耳科_耳解剖",
+   "subjectName": "耳解剖",
+   "publishYear": "2025",
+   "definition": "颞骨鳞部后下方的锥状突起。"
+  },
+  {
+   "cn": "颞骨鼓部",
+   "en": "tympanic portion of temporal bone",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.1.5.3",
+   "subjectFullName": "耳科_耳解剖",
+   "subjectName": "耳解剖",
+   "publishYear": "2025",
+   "definition": "位于颞骨鳞部之下、岩部之外、乳突部之前的扁曲的“U”形骨板。构成骨性外耳道的前壁、下壁和部分后壁。"
+  },
+  {
+   "cn": "颞骨岩部",
+   "en": "petrous portion of temporal bone",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.1.5.4",
+   "subjectFullName": "耳科_耳解剖",
+   "subjectName": "耳解剖",
+   "publishYear": "2025",
+   "definition": "位于颅底蝶骨和枕骨之间，向上和前内侧倾斜，颞骨呈三棱锥形的部分。分为一底，一尖，三面，即前面、后面和下面，包括上缘、后缘和前缘。尖向前内，底向后外。内有内耳迷路等结构。"
+  },
+  {
+   "cn": "声带过渡部",
+   "en": "transition portion of vocal fold",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.1.2.26.2.5",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈解剖与组织胚胎",
+   "subjectName": "咽喉–头颈解剖与组织胚胎",
+   "publishYear": "2025",
+   "definition": "声带的固有层中层（弹力纤维层）和固有层深层（胶原纤维层）。"
+  },
+  {
+   "cn": "输卵管间质部",
+   "en": "interstitial portion of fallopian tube",
+   "source": "生殖医学名词",
+   "wordNumber": "2.051",
+   "subjectFullName": "生殖医学_生殖系统解剖_女性生殖系统解剖",
+   "subjectName": "女性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "走行于子宫壁内的输卵管部分。在子宫角处穿入子宫壁，短而窄，长约1cm。"
+  },
+  {
+   "cn": "输卵管峡部",
+   "en": "isthmic portion of fallopian tube",
+   "source": "生殖医学名词",
+   "wordNumber": "2.052",
+   "subjectFullName": "生殖医学_生殖系统解剖_女性生殖系统解剖",
+   "subjectName": "女性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "子宫外侧角水平向外延伸的管腔狭窄的一段结构。长2～3cm，短而直，壁较厚，血管较少，水平向外移行为壶腹部，是输卵管结扎术的常选部位。"
+  },
+  {
+   "cn": "输卵管壶腹部",
+   "en": "ampulla portion of fallopian tube",
+   "source": "生殖医学名词",
+   "wordNumber": "2.053",
+   "subjectFullName": "生殖医学_生殖系统解剖_女性生殖系统解剖",
+   "subjectName": "女性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "输卵管最长、最粗的一段。约占输卵管全长的2/3，粗而弯曲，壁薄腔大，血管丰富，卵子通常在此部位与精子结合成受精卵。"
+  },
+  {
+   "cn": "导气部",
+   "en": "conducting portion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分泌部",
+   "en": "secretory portion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "前庭部",
+   "en": "vestibular portion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "球状部",
+   "en": "saccular portion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外分泌部",
+   "en": "exocrine portion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "子宫阴道部",
+   "en": "uterovaginal portion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "国际转接区段",
+   "en": "international transit portion\",\"ITP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近端小管直部",
+   "en": "straight portion of proximal tubule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "亨勒袢粗段（=髓袢粗段）",
+   "en": "thick portion of Henle’s loop",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "亨勒袢细段（=髓袢细段）",
+   "en": "thin portion of Henle’s loop",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "髓袢粗段，亨勒袢粗段",
+   "en": "thick portion of Henle’s loop",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "髓袢细段，亨勒袢细段",
+   "en": "thin portion of Henle’s loop",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "子宫颈阴道部",
+   "en": "vaginal part of cervix\",\"vaginal portion of cervix neck",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "港口",
+   "en": "port",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "端口",
+   "en": "port",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "驳门",
+   "en": "port",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "港界",
+   "en": "port boundary\",\"port limit",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "便携式管风琴",
+   "en": "portative organ",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保税港",
+   "en": "bonded port",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "港口费",
+   "en": "port charge",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "左舷",
+   "en": "port",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "左舷",
+   "en": "port",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "左舷",
+   "en": "port",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子口岸",
+   "en": "electronic port",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧港口",
+   "en": "smart port",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "端口扫描",
+   "en": "port scanning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "左舷受风",
+   "en": "port tack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "科伦坡港口城",
+   "en": "Port City Colombo",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "入境口岸",
+   "en": "port of entry",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海南自由贸易港",
+   "en": "Hainan Free Trade Port",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瓜达尔港自由区",
+   "en": "Gwadar Port Free Zone",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色自由贸易港",
+   "en": "free trade port with distinctive Chinese features",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "浮码头",
+   "en": "pontoon",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发台",
+   "en": "pontoon",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准份额",
+   "en": "standard portion",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.57",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "分配给个人的食物数量（重量）（如一杯果汁、饼干和香蕉），代表通常消费量，可作为食物消费调查和计算膳食暴露的默认值。"
+  },
+  {
+   "cn": "大份额",
+   "en": "large portion, LP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.58",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "能够代表一种食物消费量的第97.5 百分位数（仅食用者）的食物消费量，来自食物消费调查中的个人消费日。"
+  },
+  {
+   "cn": "双份饭研究",
+   "en": "duplicate portion study",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.43",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "收集调查对象在调查期间所摄入的全部食物样品进行实验室测定从而估计膳食摄入量的方法。收集调查对象在调查期间的全部入口食物，留等质等量另1 份进行称重、记录和混匀，并测定目标物质含量。"
+  },
+  {
+   "cn": "口岸消毒",
+   "en": "port disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.7",
+   "subjectFullName": "消毒学_消毒应用",
+   "subjectName": "消毒应用",
+   "publishYear": "2025",
+   "definition": "将可能染疫的口岸内环境、物品及其装载运输工具内污染的病原微生物杀灭的过程。"
+  },
+  {
+   "cn": "军港检疫",
+   "en": "military port quarantine",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.7.4",
+   "subjectFullName": "军事预防医学_军队流行病学_军队疾病监测与检疫",
+   "subjectName": "军队疾病监测与检疫",
+   "publishYear": "2025",
+   "definition": "在军用港口对有疾病传播嫌疑的个人或物品采取限制和（或）隔离，以防止感染或污染的卫生学措施。"
+  },
+  {
+   "cn": "口岸医学排查室消毒",
+   "en": "disinfection of port medical screening room",
+   "source": "消毒学",
+   "wordNumber": "4.7.1",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "在口岸医学排查室内对医学排查疑似感染病例接触的物品、环境等，为杀灭病原微生物而采取的消毒措施。"
+  },
+  {
+   "cn": "前窗操作口高度",
+   "en": "height of operation port of front window",
+   "source": "消毒学",
+   "wordNumber": "1.8.24.8",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "前窗操作口上沿前窗玻璃到前栅格栏的垂直距离。"
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.7",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "原子核的基本成分之一，带正电荷。也是化学元素氢的最轻的同位素的原子核。其电荷量为1.602×10-19C，静止质量为1.673×10-27kg。"
+  },
+  {
+   "cn": "运动",
+   "en": "motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0021",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质的存在方式及其固有属性，包括一切物质形态的一切变化，从简单的位置变动到复杂的人类思维，都是运动形式。运动与物质不可分割，没有不运动的物质，也没有离开物质的运动。运动是永恒的、绝对的。物质运动的源泉"
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.5",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "构成原子核的基本粒子之一。带正电荷。"
+  },
+  {
+   "cn": "朊病毒",
+   "en": "prion",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.122",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "主要由不含核酸的、高度抵抗理化灭活的传染性蛋白质PrPSc 组成。可引起人或动物致死性神经系统退行性病变。"
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "特定阶级在社会分层系统中所处的位置，主要由市场状态、工作状态和身份状态所决定。是新韦伯主义阶级理论中的一个重要概念，由英国社会学家洛克伍德(David Lockwood）提出，是新韦伯主义阶级理论家进"
+  },
+  {
+   "cn": "人工流产",
+   "en": "induced abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "通过手术或药物等终止妊娠的方法。可在妊娠早期和中期作为避孕失败的补救措施或治疗性终止妊娠的手段。"
+  },
+  {
+   "cn": "药物流产",
+   "en": "medical abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.3.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "应用药物促使16周以内的妊娠终止的一种人工流产方法。最常用是米非司酮与前列腺素配伍。"
+  },
+  {
+   "cn": "不安全流产",
+   "en": "unsafe abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "由没有相关资质和技能的人员实施、和/或应用危险的终止妊娠的方法、和/或在缺乏最基本的医疗条件(如清洁、消毒、无菌）的环境下实施的人工流产手术操作。此类流产操作可能导致严重的并发症，甚至威胁受术者生命。"
+  },
+  {
+   "cn": "重复流产",
+   "en": "repeated abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.6",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "妇女有过多于一次流产（包括自然流产和人工流产）的经历。其中有近期人工流产史、多次人工流产史（3次及3次以上人工流产）的对象再次手术风险更大，容易导致流产并发症和继发的生殖健康问题。"
+  },
+  {
+   "cn": "人流率",
+   "en": "abortion rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.9",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "在一定时期（如1年）内，某一地区15-49岁育龄妇女中接受过人工流产的例数，一般以%或‰表示。反映该地区在一定时期内因避孕失败或其他原因而导致人工流产的状况。"
+  },
+  {
+   "cn": "自然流产",
+   "en": "spontaneous abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_自然流产",
+   "subjectName": "自然流产",
+   "publishYear": "2025",
+   "definition": "28周内、胎儿体重小于1000g妊娠的自然终止。"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  },
+  {
+   "cn": "抗菌洗液",
+   "en": "antibacterial lotion",
+   "source": "消毒学",
+   "wordNumber": "3.1.13.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "通过冲洗、清洗等方式专用于人体的抗菌剂。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

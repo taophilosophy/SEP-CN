@@ -1,0 +1,702 @@
+{
+ "key": "causal imperialists",
+ "term": "Causal imperialists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:34:46+00:00",
+ "status": "ok",
+ "note": "variant=Causal imperialists; 审定公布名词库=1520; 海峡两岸名词对照库=513; 其他来源数据库=32; 预公布名词数据库=49; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物之间具有某种确定的生成关系。作为生成条件的事物称为前因，作为生成结果的事物称为后果。前因可分为内因（事物内部原因）和外因（事物外部原因）。"
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1634",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "前后发生的事件之间具有因果关系的性质。 "
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "物理学名词",
+   "wordNumber": "06.0074",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "生物物理学名词",
+   "wordNumber": "07.150",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "描述两个事件之间的关系，其中一个事件为另一个事件的结果。"
+  },
+  {
+   "cn": "因果律",
+   "en": "causality",
+   "source": "电子学名词",
+   "wordNumber": "05.193",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "反帝国主义同盟",
+   "en": "Anti-Imperialist League",
+   "source": "世界历史名词",
+   "wordNumber": "01.0479",
+   "subjectFullName": "世界历史_综合_国家集团、国际组织",
+   "subjectName": "国家集团、国际组织",
+   "publishYear": "2012",
+   "definition": "1927年2月，来自29个国家的代表在布鲁塞尔成立的国际保卫和平组织。"
+  },
+  {
+   "cn": "因果相关性",
+   "en": "causal relevance",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.070",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "两个事件之间的相关不仅仅是统计上的，而且具有内在的因果机制。"
+  },
+  {
+   "cn": "因果分析",
+   "en": "causal analysis",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.130",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "为了确定某一现象的变化原因，在研究对象的先行情况中，把与其变化相关的现象和其他非相关现象进行区分，或在研究对象的后行情况中，把与之变化结果相关的现象和其他的现象区分，并进行分析的过程。"
+  },
+  {
+   "cn": "因果信号",
+   "en": "causal signal",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1635",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在脉冲信号未输入前没有输出的信号。 "
+  },
+  {
+   "cn": "因果函数",
+   "en": "causal function",
+   "source": "物理学名词",
+   "wordNumber": "05.0895",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果变换",
+   "en": "causal transform",
+   "source": "物理学名词",
+   "wordNumber": "05.0896",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果推理",
+   "en": "causal reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0105",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "研究因果关系及其推理规则的一类推理方法的统称。"
+  },
+  {
+   "cn": "因果逻辑",
+   "en": "causal logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0042",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "研究事件之间因果依赖关系的逻辑。"
+  },
+  {
+   "cn": "因果性归因",
+   "en": "causal attribution",
+   "source": "心理学名词",
+   "wordNumber": "07.031",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "对于行为、事件的因果解释和推论。"
+  },
+  {
+   "cn": "因果推论",
+   "en": "causal inference",
+   "source": "心理学名词",
+   "wordNumber": "03.203",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "根据实验设计中关于自变量、因变量的界定，采用统计方法对变量间的因果关系进行分析的过程。"
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "地理学名词",
+   "wordNumber": "21.021",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "反映x和y两个变量之间非对应关系的一种数学模型，在旅游学中有比较广泛的运用。如旅游者行为研究、目的地选择、居民对旅游发展的态度和旅游者目的地服务的感知等。"
+  },
+  {
+   "cn": "因果子波",
+   "en": "causal wavelet",
+   "source": "石油名词",
+   "wordNumber": "03.0696",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "因果系统",
+   "en": "causal system",
+   "source": "电子学名词",
+   "wordNumber": "05.194",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "冗余因果性",
+   "en": "redundant causality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.071",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "某事件的发生存在多个原因，但其中某些原因即使不发生，该事件也可能发生。"
+  },
+  {
+   "cn": "格兰杰因果关系",
+   "en": "Granger causality",
+   "source": "生物物理学名词",
+   "wordNumber": "07.151",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "英国经济学家，2003年诺贝尔经济学奖获得者格兰杰(C. Granger)提出的一种确定某一时间序列是否能预测另一时间序列的统计假设检验。即如果时间序列X与时间序列Y之间存在格兰杰因果关系，那么X值可"
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "因果律，因果性",
+   "en": "causality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果性研究",
+   "en": "causal research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "因果逻辑",
+   "en": "causal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果推理",
+   "en": "causal reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果系统",
+   "en": "causal system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果启发法",
+   "en": "causality heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果性归因",
+   "en": "causal attribution\",\"attribution of causality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果分析系统",
+   "en": "causal analysis system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果消息日志",
+   "en": "causal message logging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果批判",
+   "en": "criticism of causality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "cause and effect relationship\",\"causality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causality\",\"law of causation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "帝国主义",
+   "en": "imperialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "腕管",
+   "en": "carpal canal\",\"carpal tunnel",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腕尺侧管",
+   "en": "ulnar carpal canal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腕桡侧管",
+   "en": "radial carpal canal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "尾侧[的]",
+   "en": "caudal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "RCM模型",
+   "en": "Rubin causal model (RCM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故",
+   "en": "Cause",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大故",
+   "en": "Major Cause",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小故",
+   "en": "Minor Cause",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "漂流水道",
+   "en": "wildwater canal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水道",
+   "en": "lane\",\"starlane\",\"canal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水道",
+   "en": "canal\",\"course\",\"lane",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "静水水道",
+   "en": "still water canal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帝国主义战争",
+   "en": "imperialist war",
+   "source": "马克思主义",
+   "wordNumber": "03.0267",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "帝国主义国家之间，帝国主义军事集团之间为瓜分世界、争夺霸权而进行的战争。19世纪末20世纪初，由于资本主义经济、政治发展的不平衡性，资本主义各国之间的力量对比不断发生变化，发展速度较快的国家要求按实力"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "变量之间非对称的影响和效应关系。其中，因是一组因素或先决条件的函数，果是一组可能的结果。"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "马克思主义",
+   "wordNumber": "01.0050",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "客观事物普遍联系相互作用的形式之一。有因必有果；有果必有因。原因与结果的这种必然联系，就是因果关系。但前后相继的现象并不一定都是因果联系；因果关系具有多种多样的形式。"
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.119",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "基于因果关系理论，描述变量间因果关系的模型。"
+  },
+  {
+   "cn": "因果关系判定原则",
+   "en": "principle of causality",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "判定接触电离辐射与所患疾病之间的因果关系，应满足时序性原则、生物学合理性原则及生物学梯度原则。"
+  },
+  {
+   "cn": "儿童死因链",
+   "en": "causal chain of child mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "时间上先后发生的互为因果的5岁以下儿童死因之间，以及这些死因与5岁以下儿童死亡事件之间的关系。"
+  },
+  {
+   "cn": "孕产妇死因链",
+   "en": "causal chain of maternal mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "时间上先后发生的互为因果的孕产妇死因之间，以及这些死因与孕产妇死亡事件之间的关系。"
+  },
+  {
+   "cn": "帝国主义",
+   "en": "imperialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0265",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "它是资本主义发展的最高和最后阶段,其特征是:(1)在生产和资本高度集中发展的基础上形成的垄断统治是它的基本特征；(2)银行资本和工业资本融合成金融资本,出现了金融寡头；(3)对外由输出商品为主转为以输"
+  },
+  {
+   "cn": "文化帝国主义",
+   "en": "cultural imperialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0271",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "形成于20世纪60年代，系西方激进学者用于分析西方大国文化全球性扩张的基本范式。泛指西方发达国家凭借先进的科学技术和发达的国民教育，大力拓展和占领世界文化市场，通过文化思想的渗透重塑他国人民的价值观、"
+  },
+  {
+   "cn": "帝国主义的主要矛盾",
+   "en": "main contradictions of imperialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0266",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "帝国主义时期，资本主义世界的主要矛盾有：帝国主义国家内部无产阶级和资产阶级的矛盾；殖民地、半殖民地和附属国与帝国主义国家之间的矛盾；帝国主义国家之间的矛盾。这些矛盾是由垄断这一帝国主义的经济基础决定的"
+  },
+  {
+   "cn": "帝国主义和一切反动派都是纸老虎",
+   "en": "imperialism and all reactionaries are paper tigers",
+   "source": "马克思主义",
+   "wordNumber": "03.0445",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东剖析帝国主义本质的著名论断。帝国主义和一切反动派具有真老虎和纸老虎的两重性。从本质上看，从长期上看，从战略上看，它是纸老虎，从这点上建立我们的战略思想。另一方面它又是活的铁的真的会吃人的老虎，从"
+  },
+  {
+   "cn": "内因和外因",
+   "en": "internal cause and external cause",
+   "source": "马克思主义",
+   "wordNumber": "01.0233",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法关于事物发展原因和动力来源的一对范畴。内因是事物发展变化的内在原因，即内部矛盾。外因是事物发展变化的外部原因，即此事物与它事物的联系、互相作用，即外部矛盾。在事物发展过程中的地位不同，所起的"
+  },
+  {
+   "cn": "原因与结果",
+   "en": "cause and effect",
+   "source": "马克思主义",
+   "wordNumber": "01.0049",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原因是引起某种现象的现象，结果是被某种现象所引起的现象。原因与结果在一定条件下可以互相转化。"
+  },
+  {
+   "cn": "马尾综合征",
+   "en": "cauda equina syndrome",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.22",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "各种原因导致的多数腰骶段神经根损伤的综合征。表现为鞍区或小腿为主的根性疼痛与感觉障碍，以及下肢的下运动神经元性瘫痪，症状可为单侧或不对称。"
+  },
+  {
+   "cn": "鼻窦气压伤",
+   "en": "nasal sinus barotrauma",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.3.4",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "潜水或飞行时，外界气压急剧变化，鼻窦内的气压与外界气压不能取得平衡，以致鼻窦粘膜充血肿胀，甚至粘膜或粘膜下出血、水肿等一系列变化的疾病。"
+  },
+  {
+   "cn": "鼻入式供氧",
+   "en": "nasal oxygen inhalation",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.3.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "通过鼻塞、鼻导管或面罩等将氧气直接注入使用者鼻腔的供氧方式。"
+  },
+  {
+   "cn": "腕管综合征",
+   "en": "carpal tunnel syndrome，CATS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.18",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "任何原因引起腕管内压力增高而导致通过腕管的正中神经受压所产生的神经功能障碍综合征。其特征为腕管内正中神经受压。典型症状包括手指夜间感觉异常，拇指、食指、中指感觉异常或感觉减退，手无力或运动不灵活。"
+  },
+  {
+   "cn": "跗管综合征",
+   "en": "tarsal tunnel syndrome，TATS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.20",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "由位于踝关节内侧屈肌支持带覆盖的纤维骨性隧道内的胫后神经或其末梢分支（足内侧、足外侧和跟骨神经）受卡压后，导致的一系列足趾部症状的综合征。其临床主要表现为该部位的疼痛或感觉异常，一般存在于踝内侧及足底"
+  },
+  {
+   "cn": "性功能异常性不育",
+   "en": "sexual dysfunction caused infertility",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.6.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_男性不育",
+   "subjectName": "男性不育",
+   "publishYear": "2025",
+   "definition": "由性欲障碍、勃起功能障碍、插入障碍和射精障碍等等性功能障碍导致的生育障碍。"
+  },
+  {
+   "cn": "孕产妇死因",
+   "en": "cause of maternal mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "引起一系列直接导致孕产妇死亡的、与妊娠或妊娠处理有关的疾病或损伤事件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

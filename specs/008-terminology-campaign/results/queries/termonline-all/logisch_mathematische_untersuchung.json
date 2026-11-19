@@ -1,0 +1,512 @@
+{
+ "key": "logisch mathematische untersuchung",
+ "term": "logisch mathematische Untersuchung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:49:52+00:00",
+ "status": "ok",
+ "note": "variant=logisch mathematische Untersuchung; 审定公布名词库=180; 海峡两岸名词对照库=117; 其他来源数据库=18; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "莫利希试验",
+   "en": "Molisch test",
+   "source": "药学名词",
+   "wordNumber": "06.230",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "适用于检验糖类，包括单糖、寡糖、多糖和苷类化合物的一种鉴别显色试验。供试品以稀乙醇或水溶解，加入α-萘酚乙醇液数滴，沿管壁滴加浓硫酸；界面呈现红色环，提示样品中含有糖类或苷类化合物。"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "通常指人们思考问题，从某些已知条件出发，推出合理的结论的规律。"
+  },
+  {
+   "cn": "信念逻辑",
+   "en": "belief logic,doxastic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0023",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "关于信念推理的逻辑。"
+  },
+  {
+   "cn": "空间逻辑",
+   "en": "spatial logics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0035",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "对空间位置进行推理的一类模态逻辑。"
+  },
+  {
+   "cn": "洛氏病",
+   "en": "Lorsch disease",
+   "source": "昆虫学名词",
+   "wordNumber": "10.067",
+   "subjectFullName": "昆虫学_昆虫病理学",
+   "subjectName": "昆虫病理学",
+   "publishYear": "2000",
+   "definition": "五月鳃角金龟子 (Melolontha)与六月鳃角金龟子 (Amphimallon)的立克次氏体病，其病原为鳃角金龟立克次氏体(Rickettsiella melolonthae)。"
+  },
+  {
+   "cn": "多值逻辑",
+   "en": "multivalue logic,many-valued logic,multiple-value logic",
+   "source": "数学名词",
+   "wordNumber": "02.0313",
+   "subjectFullName": "数学_数理逻辑·数学基础_非经典逻辑",
+   "subjectName": "非经典逻辑",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "归纳逻辑",
+   "en": "inductive logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.082",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "以具体事实和经验支持为前提，扩展演绎逻辑方法得出更少必然性结论的逻辑系统。通常研究前提对结论的支持程度，用概率来表示。"
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.595",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一种用代数刻画逻辑关系的方法。变量为真值，主要操作为析取、合取以及否定。"
+  },
+  {
+   "cn": "非单调逻辑",
+   "en": "nonmonotonic logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.607",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一种后承关系具有非单调性的数理逻辑分支。主要用于人工智能研究中的可废止推理，即可基于更多的前提来修正原来结论的推理方式。"
+  },
+  {
+   "cn": "缺省逻辑",
+   "en": "default logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.641",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一种通过缺省假设对推理进行形式化的非单调逻辑。即当缺乏足够的知识信息时，通过表示和使用缺省的信息进行猜测，是对人类常识推理形式化的重要手段。"
+  },
+  {
+   "cn": "技术逻辑",
+   "en": "technical logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.131",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "运用逻辑理论研究各种技术系统特别是自动化机器（如计算机、自动翻译机等）结构及其运行规律的一种应用逻辑。"
+  },
+  {
+   "cn": "模糊逻辑",
+   "en": "fuzzy logic",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.080",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "建立在多值逻辑基础上，运用模糊集的方法来研究模糊性思维、语言形式及其规律的科学。"
+  },
+  {
+   "cn": "逻辑门",
+   "en": "logic gate",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.019",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "合成生物学中的逻辑门是生命系统中基因线路上的基本组件。特指具有与当前计算机所用电路逻辑门类似信息处理能力的基因线路组件。"
+  },
+  {
+   "cn": "逻辑图",
+   "en": "logic diagram",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0185",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "主要用二进制逻辑单元图形符号所绘制的电路简图。"
+  },
+  {
+   "cn": "光学逻辑",
+   "en": "optical logic",
+   "source": "物理学名词",
+   "wordNumber": "04.1555",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量子逻辑",
+   "en": "quantum logic",
+   "source": "物理学名词",
+   "wordNumber": "06.0815",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "次协调逻辑",
+   "en": "paraconsistent logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0045",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "非经典逻辑的一个重要分支，是能够容纳矛盾，但是从矛盾却不能推出一切命题的逻辑。"
+  },
+  {
+   "cn": "逻辑故障",
+   "en": "logic fault",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1125",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机维护",
+   "subjectName": "计算机维护",
+   "publishYear": "2018",
+   "definition": "系统中的逻辑电路功能出错引起的故障。"
+  },
+  {
+   "cn": "霍尔逻辑",
+   "en": "Hoare logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0926",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "由英国计算机科学家托尼·霍尔（Tony Hoare）提出的用于验证程序正确性的推理系统。"
+  },
+  {
+   "cn": "亚结构逻辑",
+   "en": "substructural logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0044",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "泛指通过对经典逻辑的根岑（Gentzen）型系统中的结构推理规则进行约束或拒绝而建立起来的非经典逻辑系统，著名的亚结构逻辑系统包括直觉主义逻辑、相干逻辑、BCK逻辑、线性逻辑以及拉姆贝克（Lambek"
+  },
+  {
+   "cn": "莫利希试验",
+   "en": "Molisch test",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "洛氏病",
+   "en": "Lorsch disease",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "模糊逻辑",
+   "en": "fuzzy logic",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "比例尺逻辑（＝尺度逻辑）",
+   "en": "scale logic",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯逻辑",
+   "en": "Bayesian logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序设计逻辑",
+   "en": "programming logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数逻辑",
+   "en": "algebraic logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等式逻辑",
+   "en": "equational logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "恶意逻辑",
+   "en": "malicious logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "符号逻辑",
+   "en": "symbolic logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概率逻辑",
+   "en": "probabilistic logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系逻辑",
+   "en": "relational logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光逻辑",
+   "en": "optical logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳逻辑",
+   "en": "inductive logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程逻辑",
+   "en": "process logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "霍尔逻辑",
+   "en": "Hoare logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算逻辑",
+   "en": "computational logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经典逻辑",
+   "en": "classical logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议逻辑",
+   "en": "protocol logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Bieber逻辑",
+   "en": "Bieber logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程语言",
+   "en": "logic programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "BAN类逻辑",
+   "en": "Burrows-Abadi-Needham (BAN) logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 5271.2-1988 数据处理词汇 第2部分：算术和逻辑运算》",
+   "en": "GB/T 5271.2-1988 Data processing — Vocabulary — Section 2: Arithmetic and logic operations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不涉理路，不落言筌",
+   "en": "Dispense with Theory and Logic, Take Care Not to Fall into Traps of Language.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "source": "马克思主义",
+   "wordNumber": "01.0101",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类辩证思维的科学，是关于辩证思维的形式、规律和方法的科学。它把概念的辩证运动以及如何通过概念反映现实矛盾的问题作为自己的主要研究对象。原初含义专指黑格尔思辨哲学的逻辑形态。恩格斯最早明确地把这种"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,392 @@
+{
+ "key": "vacuity",
+ "term": "vacuity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:35:16+00:00",
+ "status": "ok",
+ "note": "variant=vacuity; 审定公布名词库=46; 海峡两岸名词对照库=11; 其他来源数据库=0; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "眶前窝",
+   "en": "antorbital vacuity",
+   "source": "古生物学名词",
+   "wordNumber": "03.0442",
+   "subjectFullName": "古生物学_古脊椎动物学与古人类学_哺乳动物",
+   "subjectName": "哺乳动物",
+   "publishYear": "2009",
+   "definition": "眼眶前面部的一个凹陷区域，容纳眶前腺，在羚羊和三趾马等种类中相当发达。"
+  },
+  {
+   "cn": "吸上真空度",
+   "en": "degree of suction vacu-um",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "06.292",
+   "subjectFullName": "煤炭科学技术_矿山机械工程_排水机械",
+   "subjectName": "排水机械",
+   "publishYear": "1996",
+   "definition": "大气压能与泵吸入口处压能之差。为确保不发生汽蚀，可由发生断流时的最大吸上真空度减去安全量0.3m，作为泵的允许吸上真空度。"
+  },
+  {
+   "cn": "敏度",
+   "en": "acuity",
+   "source": "生物物理学名词",
+   "wordNumber": "04.156",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "分辨对象细节的精细程度。如在视觉和触觉中能区分的两点之间的最短距离。"
+  },
+  {
+   "cn": "学部",
+   "en": "faculty",
+   "source": "教育学名词",
+   "wordNumber": "08.066",
+   "subjectFullName": "教育学_高等教育_系科、学科",
+   "subjectName": "系科、学科",
+   "publishYear": "2013",
+   "definition": "一些国家高等学校中校以下一级组织，通常由相关学科组成，可下设院或系等学术机构。其种类有文、法、经济、商、理、医、工、农等。"
+  },
+  {
+   "cn": "学院",
+   "en": "college,school,faculty,institute",
+   "source": "教育学名词",
+   "wordNumber": "08.035",
+   "subjectFullName": "教育学_高等教育_院校组织",
+   "subjectName": "院校组织",
+   "publishYear": "2013",
+   "definition": "（1）大学内部的二级教学和学术管理单位。例如文学院、理学院、工学院等。（2）独立设置的高等学校。例如某某师范学院、某某职业技术学院、某某理工学院等。"
+  },
+  {
+   "cn": "听觉敏度",
+   "en": "auditory acuity",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.45",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "辨别声音频率、声强的能力。"
+  },
+  {
+   "cn": "视敏度",
+   "en": "visual acuity",
+   "source": "行为医学名词",
+   "wordNumber": "3.253",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "眼对物体细小结构的分辨能力。"
+  },
+  {
+   "cn": "味觉敏感",
+   "en": "taste acuity",
+   "source": "行为医学名词",
+   "wordNumber": "17.185",
+   "subjectFullName": "行为医学_相关行为疾病_口腔科相关行为疾病",
+   "subjectName": "口腔科相关行为疾病",
+   "publishYear": "2022",
+   "definition": "味蕾对不同味道的敏感程度增强的现象。"
+  },
+  {
+   "cn": "视觉敏锐度",
+   "en": "visual acuity",
+   "source": "光学名词",
+   "wordNumber": "28.044",
+   "subjectFullName": "光学_生物光学与激光医疗",
+   "subjectName": "生物光学与激光医疗",
+   "publishYear": "2021",
+   "definition": "人眼分辨物体精细结构的能力。它定义为人眼恰能分辨出的两点对眼所张的视角(以分为单位)的倒数。"
+  },
+  {
+   "cn": "视觉分辨敏锐度",
+   "en": "resolution acuity",
+   "source": "测绘学名词",
+   "wordNumber": "04.104",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "在标准视力情况下，分辨观察对象细微差别的能力。"
+  },
+  {
+   "cn": "能见敏锐度",
+   "en": "visibility acuity",
+   "source": "测绘学名词",
+   "wordNumber": "04.105",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "在标准视力情况下，感知最小对象的能力。"
+  },
+  {
+   "cn": "嗅敏度",
+   "en": "olfactory acuity",
+   "source": "生理学名词",
+   "wordNumber": "03.290",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视敏度",
+   "en": "visual acuity",
+   "source": "生理学名词",
+   "wordNumber": "03.342",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视觉敏锐度",
+   "en": "visual acuity",
+   "source": "物理学名词",
+   "wordNumber": "04.0697",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "视力",
+   "en": "visual acuity",
+   "source": "老年医学名词",
+   "wordNumber": "04.919",
+   "subjectFullName": "老年医学_老年临床医学_老年眼科疾病",
+   "subjectName": "老年眼科疾病",
+   "publishYear": "2017",
+   "definition": "指视网膜分辨影像的能力，反映黄斑区的视功能。可分为远、近视力，后者为阅读视力。"
+  },
+  {
+   "cn": "视觉敏锐度",
+   "en": "visual acuity",
+   "source": "计量学名词",
+   "wordNumber": "13.219",
+   "subjectFullName": "计量学_光学_色度",
+   "subjectName": "色度",
+   "publishYear": "2015",
+   "definition": "清晰观看分离角很小的细节的能力。如可用观察者刚可感知分离的两相邻物体(点或线或其他特定刺激)以弧分为单位的角分离值的倒数定量表示。"
+  },
+  {
+   "cn": "视觉敏锐度",
+   "en": "visual acuity",
+   "source": "建筑学名词",
+   "wordNumber": "10.0016",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "清晰观看分离角很小的细部的能力。观察者刚可感知分离的两相邻物体(点、线或其他特定刺激)，以弧分为单位的视角的倒数。"
+  },
+  {
+   "cn": "视敏度",
+   "en": "visual acuity",
+   "source": "心理学名词",
+   "wordNumber": "02.238",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "眼辨别物体形态细节的能力。"
+  },
+  {
+   "cn": "听觉敏度",
+   "en": "auditory acuity",
+   "source": "心理学名词",
+   "wordNumber": "02.276",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "辨别不同频率或不同声强声音的能力。通常用听觉阈限的倒数表示。"
+  },
+  {
+   "cn": "味觉敏度",
+   "en": "taste acuity",
+   "source": "心理学名词",
+   "wordNumber": "02.319",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对最低刺激量能够产生味觉的指标。"
+  },
+  {
+   "cn": "窝",
+   "en": "fossa\",\"vacuity\",\"pit",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "敏度",
+   "en": "acuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "触敏度",
+   "en": "tactile acuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视敏度",
+   "en": "visual acuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "味觉敏度",
+   "en": "taste acuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "立体视晰度",
+   "en": "stereoscopic acuity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "能见敏锐度",
+   "en": "visibility acuity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "视觉分辨敏锐度",
+   "en": "resolution acuity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "视敏度",
+   "en": "visual acuity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "视敏度",
+   "en": "visual acuity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "官能心理学",
+   "en": "faculty psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视力",
+   "en": "visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "眼睛所能够分辨的外界两个点间的最小距离的能力，通常以视角的倒数来表示。视角越小，表示分辨能力越好。"
+  },
+  {
+   "cn": "裸眼视力",
+   "en": "uncorrected visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "未矫正视力，未经任何光学镜片矫正所测得的视力，包括裸眼远视力和裸眼近视力。"
+  },
+  {
+   "cn": "日常生活视力",
+   "en": "presenting visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在日常屈光状态下的视力。平时未戴眼镜者，为裸眼视力；平时戴眼镜者，则为戴眼镜状态下所测得视力；如已配眼镜但日常生活中并不戴用，则仍以裸眼视力反映。"
+  },
+  {
+   "cn": "视敏度残疾",
+   "en": "visual acuity disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视敏度损失，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "理解力",
+   "en": "comprehension faculty",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "领会知识、他人言语及行为等的能力。"
+  },
+  {
+   "cn": "最佳矫正视力",
+   "en": "best corrected visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以最适当镜片进行屈光矫正后所能达到的最佳视力。"
+  },
+  {
+   "cn": "标准对数视力表",
+   "en": "standard logarithmic visual acuity chart",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "根据韦伯-费希纳定律设计的对数视力表，视标大小按几何级数增减，而视力记录按算数级数增减。1990年起被定为国家强制标准，2017年改为推荐性标准。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

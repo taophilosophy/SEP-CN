@@ -1,0 +1,762 @@
+{
+ "key": "accessibility internalism",
+ "term": "accessibility internalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:53:52+00:00",
+ "status": "ok",
+ "note": "variant=accessibility internalism; 审定公布名词库=1882; 海峡两岸名词对照库=954; 其他来源数据库=251; 预公布名词数据库=135; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "内部沟",
+   "en": "internal access",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.387",
+   "subjectFullName": "煤炭科学技术_煤矿开采_露天开采",
+   "subjectName": "露天开采",
+   "publishYear": "1996",
+   "definition": "露天采场以内的出入沟。"
+  },
+  {
+   "cn": "内索引",
+   "en": "internal access,inner access",
+   "source": "语言学名词",
+   "wordNumber": "06.119",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "指微观结构中的索引体系。包括义项序号、引导词、语用标签、标志符号、着重字体、区别色彩以及各种提示语等。"
+  },
+  {
+   "cn": "通达性",
+   "en": "accessibility",
+   "source": "经济学名词",
+   "wordNumber": "08.016",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "某特定位置的交通运输条件。包括移动的距离、时间及所涉及的费用。它是衡量区域交通运输发达程度及通达性能的重要指标。"
+  },
+  {
+   "cn": "可获取性",
+   "en": "accessibility",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.058",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "在条件允许的情况下，用户能够从资源供给方获取信息资源或信息线索，以满足其信息需求的程度。"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "建筑学名词",
+   "wordNumber": "07.0338",
+   "subjectFullName": "建筑学_城乡规划_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2014",
+   "definition": "场地可到达的便捷程度。"
+  },
+  {
+   "cn": "可访问性",
+   "en": "accessibility",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.314",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "信息或数据的可读取和可浏览性。通常指Web信息的可访问性，一般用存储时间来衡量。"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.011",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "用户可访问数据库和所有授权访问的数据的特性。"
+  },
+  {
+   "cn": "可接入性",
+   "en": "accessibility",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.073",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "普遍服务的原则。电话用户在价格、服务和质量方面受同等对待，而与地理位置、种族、性别、宗教等无关。"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "地理学名词",
+   "wordNumber": "18.188",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "到达一个地区或一个城市的难易程度。以时间距离表达。"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.251",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "数学名词",
+   "wordNumber": "02.0213",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "电子学名词",
+   "wordNumber": "18.094",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可及性",
+   "en": "accessibility",
+   "source": "自动化名词",
+   "wordNumber": "03.348",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "入藏",
+   "en": "accessioning",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.462",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "对新到馆的文献资料进行接收、登记、加工、管理，使其成为图书馆馆藏的工作。"
+  },
+  {
+   "cn": "入藏新书",
+   "en": "accession",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.470",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "经采访、编目等一系列流程，被图书馆收藏的新到馆的最新图书资料。"
+  },
+  {
+   "cn": "引道",
+   "en": "access",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.057",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "客车车身内由通道至乘客门和安全门间的过道。"
+  },
+  {
+   "cn": "访问",
+   "en": "access",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.146",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "对磁盘或数据库表中的文件进行读、写、删除、更新等操作。"
+  },
+  {
+   "cn": "接入",
+   "en": "access",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.367",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "接近、进入或使用某一资源的手段、能力或许可。"
+  },
+  {
+   "cn": "访问",
+   "en": "access",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0749",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "接入",
+   "en": "access",
+   "source": "电子学名词",
+   "wordNumber": "21.368",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可达性,可存取性",
+   "en": "accessibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "可访问性，可存取性",
+   "en": "accessibility",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "存取，访问",
+   "en": "access",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "访问，存取",
+   "en": "access",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接入",
+   "en": "access",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序存取",
+   "en": "sequence access\",\"sequential accessing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "易获得性启发法",
+   "en": "accessibility heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可达性指数",
+   "en": "accessibility index",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据可访问性",
+   "en": "data accessibility",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "启动子可及性",
+   "en": "promoter accessibility",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据可访问性，数据可存取性",
+   "en": "data accessibility",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内［部］构件",
+   "en": "internals",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内控者",
+   "en": "internals",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "词汇通达",
+   "en": "lexical access",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存取安全性",
+   "en": "access security",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存取方法",
+   "en": "access method",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存取分组",
+   "en": "access group",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存取级，访问级",
+   "en": "access level",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "入口",
+   "en": "access",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统一访问",
+   "en": "unified access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放获取",
+   "en": "open access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无差别式开放",
+   "en": "undifferentiated access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "契约式开放",
+   "en": "contractual access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网接入",
+   "en": "Internet access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无条件开放",
+   "en": "unconditional access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普遍开放",
+   "en": "universal access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "授权开放",
+   "en": "authorized access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准入原则",
+   "en": "access principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随机存取存储器",
+   "en": "Random Access Memory",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宽带接入网",
+   "en": "broadband access network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放获取目录数据知识库",
+   "en": "open-access network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据接入标准",
+   "en": "data access standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无障碍数字技术",
+   "en": "accessible digital technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术可及性",
+   "en": "technical accessibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，对医疗卫生服务技术可及的机会和条件是均等的特性。"
+  },
+  {
+   "cn": "地理可及性",
+   "en": "geographic accessibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.4.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，获得医疗卫生服务的地理距离是均等的特性。"
+  },
+  {
+   "cn": "经济可及性",
+   "en": "economical accessibility",
+   "source": "社会医学名词",
+   "wordNumber": "8.7.2",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务可及性",
+   "publishYear": "2025",
+   "definition": "从居民对医疗卫生服务的支付角度，衡量居民是否能够获得所需的医疗卫生服务的能力。"
+  },
+  {
+   "cn": "地理可及性",
+   "en": "geographical accessibility",
+   "source": "社会医学名词",
+   "wordNumber": "8.7.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务可及性",
+   "publishYear": "2025",
+   "definition": "从医疗卫生机构地理位置的角度，以距离、交通方式和路程时间来衡量居民能否方便利用医疗卫生服务的能力。"
+  },
+  {
+   "cn": "准入规制",
+   "en": "access regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府对进入卫生服务市场需要达到的条件或标准以及进入市场后需要遵守的相关规范所制定的相关制度。"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "个体经过一定形式的学习，将某些社会意识、道德规范等观念体系转化为个体心理结构的过程。是个体对外界文化的一种适应过程。法国社会学家涂尔干(Emile Durkheim)最早提出，指社会意识向个体意识的转"
+  },
+  {
+   "cn": "卫生服务可及性",
+   "en": "health service accessibility",
+   "source": "社会医学名词",
+   "wordNumber": "8.7",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务可及性",
+   "publishYear": "2025",
+   "definition": "人们能够及时、方便、经济、有效地获得所需卫生服务的能力和机会。"
+  },
+  {
+   "cn": "设施获得权",
+   "en": "facility access right",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.01",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医务人员在医疗活动中拥有的符合国家规定标准的执业基本条件和职业防护装备的权利。卫生健康主管部门和医疗、预防、保健机构应依法为医师提供基本的设施条件。"
+  },
+  {
+   "cn": "内照射",
+   "en": "internal exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.4.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_途径分类",
+   "subjectName": "途径分类",
+   "publishYear": "2025",
+   "definition": "放射性核素进入机体内，对机体组织产生的照射。"
+  },
+  {
+   "cn": "国际标准",
+   "en": "international standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "国际标准化组织（ISO）、国际电工委员会（IEC）和国际电信联盟（ITU）制定的标准，以及国际标准化组织确认并公布的其他国际组织制定的标准。"
+  },
+  {
+   "cn": "内在效度",
+   "en": "internal validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.81",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "研究者从某一经验研究的结果中进行因果推论的信心。"
+  },
+  {
+   "cn": "内在本质",
+   "en": "internal essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0063",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在表现”相对。事物因内部矛盾的决定作用在发生、发展、变化过程中所表现的内部联系性和客观形式。"
+  },
+  {
+   "cn": "内在联系",
+   "en": "internal connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0075",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在联系”相对。是事物之间存在固有的、本质的、必然性的关联，对事物性质具有决定作用。"
+  },
+  {
+   "cn": "内在对立",
+   "en": "internal opposition",
+   "source": "马克思主义",
+   "wordNumber": "01.0085",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "处于同一体中的矛盾双方相互排斥、相互反对、相互否定的属性。它体现着矛盾双方相互分离的趋势。"
+  },
+  {
+   "cn": "国际价值",
+   "en": "international value",
+   "source": "马克思主义",
+   "wordNumber": "02.0286",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界市场上商品的价格以国际价值为基础。商品的国际价值本质上也是无差别的人类劳动的凝结，商品的国际价值量是由世界范围的平均必要劳动决定的。"
+  },
+  {
+   "cn": "第一国际",
+   "en": "First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0398",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "第一个无产阶级国际联合组织。1964年9月28日,为了抗议沙皇俄国对波兰人民起义的血腥镇压,英、法、德、意、波兰等国工人代表在伦敦圣马丁会堂举行国际工人会议，马克思应邀出席会议。第一国际当时的名称是国"
+  },
+  {
+   "cn": "第二国际",
+   "en": "Second International",
+   "source": "马克思主义",
+   "wordNumber": "04.0401",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继第一国际之后建立的第二个世界无产阶级国际组织，是在19世纪80年代工人运动新高涨、马克思主义广泛传播和各国无产阶级政党普遍建立的形势下于1889年在巴黎建立的。第二国际成立初期与各国党内和国际内的无"
+  },
+  {
+   "cn": "第三国际",
+   "en": "Third International",
+   "source": "马克思主义",
+   "wordNumber": "04.0414",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第一次世界大战后出现了新的国际形势，需要建立一个新的国际来领导无产阶级革命。1919年3月2—6日，共产国际（第三国际）在莫斯科举行了第一次代表（成立）大会，大会通过了列宁起草的《共产国际宣言》、《共"
+  },
+  {
+   "cn": "第二半国际",
+   "en": "TwoandaHalf International",
+   "source": "马克思主义",
+   "wordNumber": "04.0416",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1919年伯尔尼国际和第三国际相继成立，未加入上述两个国际组织的英国独立工党、法国社会党、德国独立社会民主党等13个“中派”政党和集团于1921年2月22—27日在奥地利首都维也纳召开了国际社会党代表"
+  },
+  {
+   "cn": "第四国际",
+   "en": "Fourth international",
+   "source": "马克思主义",
+   "wordNumber": "04.0423",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1938年9月在列夫·托洛茨基亲自筹划下建立的托派国际性联合组织。主张实行“不断革命”和“世界革命”，建立“世界社会主义联邦”。“二战”期间曾遭受镇压，面临瓦解。20世纪60年代末70年代初达到鼎盛时"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

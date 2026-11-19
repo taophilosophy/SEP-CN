@@ -1,0 +1,632 @@
+{
+ "key": "partialism",
+ "term": "partialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:06:37+00:00",
+ "status": "ok",
+ "note": "variant=partialism; 审定公布名词库=600; 海峡两岸名词对照库=126; 其他来源数据库=12; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "部分体恋症",
+   "en": "partialism",
+   "source": "精神医学名词",
+   "wordNumber": "03.351",
+   "subjectFullName": "精神医学_诊断分类_人格与性心理障碍",
+   "subjectName": "人格与性心理障碍",
+   "publishYear": "2019",
+   "definition": "以异性身体的部分如手指、足趾等作为性恋对象，与之接触可引起性兴奋，而对异性本人及身体其他部分包括性敏感部位却毫无兴趣的一种性偏好障碍。"
+  },
+  {
+   "cn": "分音",
+   "en": "partial",
+   "source": "语言学名词",
+   "wordNumber": "03.199",
+   "subjectFullName": "语言学_语音学_声学语音学",
+   "subjectName": "声学语音学",
+   "publishYear": "2011",
+   "definition": "通过傅立叶分析的方法，从一个周期性复合音里分解出来若干具有一定频率和振幅的纯音，这些分解出来的纯音被称为复合音的“分音”。"
+  },
+  {
+   "cn": "部分单亲源同二[倍]体",
+   "en": "partial isodisomy;partial isoUPD",
+   "source": "生殖医学名词",
+   "wordNumber": "10.197",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "来自父母一方的染色体片段被另一方的同源部分取代的个体。由发生交叉后的减数分裂Ⅰ期或减数分裂Ⅱ期中的同源染色体不分离引起，从而导致单亲二体染色体上的等距异位。"
+  },
+  {
+   "cn": "阴茎部分切除术",
+   "en": "partial penectomy,partial phallectomy",
+   "source": "泌尿外科学名词",
+   "wordNumber": "11.401",
+   "subjectFullName": "泌尿外科学_泌尿、男性生殖系统手术",
+   "subjectName": "泌尿、男性生殖系统手术",
+   "publishYear": "2014",
+   "definition": "切除阴茎肿瘤及2cm以上的正常阴茎组织后，残留阴茎在2cm以上，行尿道重建防止尿道外口狭窄，可保留患者部分性功能和直立排尿的手术操作。"
+  },
+  {
+   "cn": "部分和",
+   "en": "partial sum",
+   "source": "数学名词",
+   "wordNumber": "05.0233",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "部分熔融作用",
+   "en": "partial melting",
+   "source": "地质学名词",
+   "wordNumber": "04.01.029",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "上地幔和地壳深部的热能使其中相对低熔点的组分发生熔融生成岩浆，而高熔点的难熔组分未发生熔融的现象。"
+  },
+  {
+   "cn": "甲状腺部分切除术",
+   "en": "partial thyroidectomy",
+   "source": "普通外科学名词",
+   "wordNumber": "14.224",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "切除包含病变的部分甲状腺组织的手术。"
+  },
+  {
+   "cn": "部分平衡",
+   "en": "partial equilibrium",
+   "source": "地质学名词",
+   "wordNumber": "13.05.029",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "某些地球化学作用过程中，子系统内部处于平衡，而系统整体未达平衡的状态。如当岩石尺度内的同位素未达扩散平衡时，常选择同位素已达扩散平衡的单矿物进行同位素测年，用于确定岩石变质、变形作用发生的时间。"
+  },
+  {
+   "cn": "部分脾切除术",
+   "en": "partial splenectomy",
+   "source": "普通外科学名词",
+   "wordNumber": "24.147",
+   "subjectFullName": "医学_普通外科学_脾外科",
+   "subjectName": "脾外科",
+   "publishYear": "2026",
+   "definition": "规则性或不规则性切除部分脾组织的手术。"
+  },
+  {
+   "cn": "卵巢部分切除术",
+   "en": "partial oophorectomy",
+   "source": "妇产科学名词",
+   "wordNumber": "6.031",
+   "subjectFullName": "妇科急慢性腹痛_滋养细胞疾病",
+   "subjectName": "滋养细胞疾病",
+   "publishYear": "2025",
+   "definition": "去除卵巢妊娠物及孕囊或去除卵巢病变，保留卵巢的手术方式。"
+  },
+  {
+   "cn": "不全重振",
+   "en": "partial recruitment",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.42.1",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "对听力损失耳给予高强度纯音刺激时，患耳纯音响度接近但仍低于正常听力耳同声强纯音响度的现象。"
+  },
+  {
+   "cn": "喉部分切除术",
+   "en": "partial laryngectomy",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.10.38.1",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈治疗",
+   "subjectName": "咽喉–头颈治疗",
+   "publishYear": "2025",
+   "definition": "切除部分喉组织的手术方式。"
+  },
+  {
+   "cn": "下咽部分切除术",
+   "en": "partial hypopharyngectomy",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.10.39",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈治疗",
+   "subjectName": "咽喉–头颈治疗",
+   "publishYear": "2025",
+   "definition": "切除部分喉咽组织的手术方式。"
+  },
+  {
+   "cn": "局部均衡",
+   "en": "partial equilibrium",
+   "source": "农学名词",
+   "wordNumber": "19.041",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "经济学常用的分析方法，即假定整个经济系统内的一部分因素在系统其余因素保持不变的条件下所处的一种平衡状态。"
+  },
+  {
+   "cn": "部分激动剂",
+   "en": "partial agonist",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0348",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "在饱和状态下对受体的刺激活性低于正常激动剂的配体。"
+  },
+  {
+   "cn": "部分爆发",
+   "en": "partial eruption",
+   "source": "天文学名词",
+   "wordNumber": "09.335",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "暗条或日珥部分物质爆发的现象。"
+  },
+  {
+   "cn": "部分解释",
+   "en": "partial interpretation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.121",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "在对一个理论的解释中，并非理论的每一个基本陈述都有对应的主题。"
+  },
+  {
+   "cn": "偏食",
+   "en": "partial eclipse",
+   "source": "天文学名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "天体视面的一部分被另一天体的影子遮掩的现象。"
+  },
+  {
+   "cn": "阴茎部分切除术",
+   "en": "partial penectomy",
+   "source": "男科及性医学名词",
+   "wordNumber": "23.024",
+   "subjectFullName": "男科及性医学_男科及性医学相关手术",
+   "subjectName": "男科及性医学相关手术",
+   "publishYear": "2023",
+   "definition": "在距肿瘤近端 2cm 以上处横断阴茎海绵体，于此切口远端 1～1.5cm 处横断尿道，再行阴茎海绵体白膜缝合、尿道口成形的手术方法。适用于早期阴茎癌，可保留患者部分性功能和直立排尿功能。"
+  },
+  {
+   "cn": "阴囊部分切除术",
+   "en": "partial scrotectomy",
+   "source": "男科及性医学名词",
+   "wordNumber": "23.042",
+   "subjectFullName": "男科及性医学_男科及性医学相关手术",
+   "subjectName": "男科及性医学相关手术",
+   "publishYear": "2023",
+   "definition": "切除部分阴囊壁并重建阴囊皮肤连续性的手术方法。用于治疗阴囊较为局限的良恶性病变、炎症（如富尼埃坏疽）等。"
+  },
+  {
+   "cn": "分叶柄",
+   "en": "partial petiole",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "部分干旱",
+   "en": "partial drought",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "部分同调",
+   "en": "partial coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分压[力]",
+   "en": "partial pressure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏微商",
+   "en": "partial derivative",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏相关",
+   "en": "partial correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "部分回流",
+   "en": "partial reflux",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "部分分解",
+   "en": "partial decomposition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "部分互溶",
+   "en": "partial miscibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "部分冷凝",
+   "en": "partial condensation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分压力",
+   "en": "partial pressure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "部分反应",
+   "en": "partial reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "部分分式",
+   "en": "partial fraction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "部分氧化",
+   "en": "partial oxidation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "部分甲基化",
+   "en": "partial methylation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "部分解耦",
+   "en": "partial decoupling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "部分游离",
+   "en": "partial ionization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "部分分离",
+   "en": "partial separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "部分燃烧",
+   "en": "partial combustion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "部分真空",
+   "en": "partial vacuum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分段用时",
+   "en": "partial time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段时间",
+   "en": "partial time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段平均成绩",
+   "en": "partial average time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段平均时间",
+   "en": "partial average time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段成绩",
+   "en": "intermediate time\",\"partial time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "片面抗战",
+   "en": "partial resistance against Japanese aggression",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "半污染区",
+   "en": "partially contaminated area; semi-contaminated area",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO/IEC 29191-2012 信息技术 安全技术 部分匿名、部分不可链接的身份验证要求》",
+   "en": "ISO/IEC 29191:2012 Information technology — Security techniques — Requirements for partially anonymous, partially unlinkable authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "偏相关",
+   "en": "partial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.77",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在多元线性回归中，用以表示当其他自变量保持恒定，某一自变量与因变量之间的相关关系。"
+  },
+  {
+   "cn": "部分母乳喂养",
+   "en": "partial breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.3.3",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "在母乳喂养过程中，除母乳外，以补充营养为目的给婴儿喂食含有能量和营养素的液体（婴儿配方奶等食物）的喂养方式。"
+  },
+  {
+   "cn": "水蒸气分压",
+   "en": "partial vapor pressure",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.2.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "在一定温度下，湿空气中水蒸气部分所产生的压力。"
+  },
+  {
+   "cn": "部分阴性分析法",
+   "en": "partial negative analysis",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.11",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "通过直接观察指示微生物在液体培养基中的生长情况，来间接确定试验菌的存活情况计算D值的方法。"
+  },
+  {
+   "cn": "部分隔离屏障",
+   "en": "partial isolated barrier",
+   "source": "消毒学",
+   "wordNumber": "7.4.4.1.2",
+   "subjectFullName": "消毒学_其他_消毒服务机构",
+   "subjectName": "消毒服务机构",
+   "publishYear": "2025",
+   "definition": "在医用织物洗涤作业场所清洁区内设置的高度与宽度适应操作需要，空间空气可以对流的非完全封闭的物理隔断。"
+  },
+  {
+   "cn": "局部照射",
+   "en": "partial body irradiation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.5.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_部位分类",
+   "subjectName": "部位分类",
+   "publishYear": "2025",
+   "definition": "机体的部分组织或器官受到电离辐射照射。"
+  },
+  {
+   "cn": "部分积累制",
+   "en": "partially funded system",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.9",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "结合近期横向与远期纵向收支平衡原则、现收现付与完全积累制、社会统筹与个人账户的社保基金筹集。在满足现时支付的前提下，预留部分基金用于满足未来一定时段内的支付需求。"
+  },
+  {
+   "cn": "部分缓解",
+   "en": "partial response，PR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.6.2.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的疾病评估_预后与转归",
+   "subjectName": "预后与转归",
+   "publishYear": "2025",
+   "definition": "治疗后疾病部分控制，症状、体征、检查异常部分消失的状态。"
+  },
+  {
+   "cn": "部分积累制",
+   "en": "partial accumulation system",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "将近期横向收支平衡原则与长期纵向收支平衡原则结合起来，在满足现时一定支出需要的基础上，留有一定的积累以应付未来需要的一种保险制度"
+  },
+  {
+   "cn": "部分水解乳蛋白",
+   "en": "partially hydrolyzed milk proteins",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.65",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "被蛋白酶水解后，水解度为10~20、平均分子量为3000Da~10000Da、成分为小分子蛋白、短肽和氨基酸，且存在少量抗原的乳蛋白水解产物。"
+  },
+  {
+   "cn": "乳蛋白部分水解配方",
+   "en": "lactoprotein partially-hydrolyzed formula",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.10",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "配方中的乳蛋白经加工分解成小分子乳蛋白、肽段和氨基酸、乳糖可由其他碳水化合物完全或部分替代的，适用于乳蛋白过敏高风险婴儿的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "部分水解蛋白配方乳",
+   "en": "partially hydrolyzed protein formula milk",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.9.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "牛乳乳清蛋白被水解的乳配方制品，分子量在2000～10000，口感较好。"
+  },
+  {
+   "cn": "动脉血氧分压",
+   "en": "arterial oxygen partial pressure, PaO2",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.1.6",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "动脉血中物理溶解的氧分子所产生的张力，反映机体缺氧敏感指标，主要是判断机体是否缺氧及其程度。"
+  },
+  {
+   "cn": "部分完全信息期望值",
+   "en": "expected value of partial perfect information,EVPPI",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.2.2.2.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "针对一个随机变量若所收集的信息为不完全信息，则在拥有不完全信息后的最大期望值（即不完全信息期望值）与未拥有此不完全信息时的最大期望值之差。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

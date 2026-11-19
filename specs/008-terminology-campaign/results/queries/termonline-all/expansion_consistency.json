@@ -1,0 +1,762 @@
+{
+ "key": "expansion consistency",
+ "term": "Expansion consistency",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:22:23+00:00",
+ "status": "ok",
+ "note": "variant=Expansion consistency; 审定公布名词库=911; 海峡两岸名词对照库=229; 其他来源数据库=34; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "稠度",
+   "en": "consistency,consistence",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.1140",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "表征当剪切应力作用于材料时，材料抵抗流动(永久变形)的性质。是材料内部摩擦的一种表现。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "地质学名词",
+   "wordNumber": "17.02.117",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "黏性土随着含水量不同而表现的不同物理状态。如固态、半固态、塑态、流态等。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.217",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "在逻辑上没有矛盾。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0323",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_润滑",
+   "subjectName": "润滑",
+   "publishYear": "2021",
+   "definition": "润滑脂在规定的剪切力或剪切速度下变形的程度。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "冶金学名词",
+   "wordNumber": "05.0208",
+   "subjectFullName": "冶金学_钢铁冶金_耐火材料",
+   "subjectName": "耐火材料",
+   "publishYear": "2019",
+   "definition": "不定形耐火材料加水或其他液态结合剂后，在自重和外力作用下流动性能的度量。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "物理学名词",
+   "wordNumber": "01.0395",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0262",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "事务执行的结果必须是使数据库从一个一致性状态变到另一个一致性状态。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0574",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "服务提供者在任何时候、任何地方都保持同样的优良服务水平的质量特性。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0574",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "所有被影响的数据都是一致的。"
+  },
+  {
+   "cn": "一贯性",
+   "en": "consistency",
+   "source": "心理学名词",
+   "wordNumber": "07.040",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "凯利归因理论中进行归因时所利用的一类信息，即归因对象的行为是否一致或经常出现。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "土木工程名词",
+   "wordNumber": "01.015",
+   "subjectFullName": "土木工程_工程材料_材料性质",
+   "subjectName": "材料性质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "电气工程名词",
+   "wordNumber": "14.226",
+   "subjectFullName": "电气工程_继电器及继电保护装置",
+   "subjectName": "继电器及继电保护装置",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "航海科技名词",
+   "wordNumber": "15.0870",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "相容性",
+   "en": "consistency",
+   "source": "数学名词",
+   "wordNumber": "02.0078",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "地质学名词",
+   "wordNumber": "09.069",
+   "subjectFullName": "地质学_工程地质学和环境地质学",
+   "subjectName": "工程地质学和环境地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "自动化名词",
+   "wordNumber": "03.233",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "ω相容性",
+   "en": "ω-consistency,omega- consistency",
+   "source": "数学名词",
+   "wordNumber": "02.0133",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "密度组成",
+   "en": "densimetric consist,density consist",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.019",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_选煤",
+   "subjectName": "选煤",
+   "publishYear": "1996",
+   "definition": "各密度级产物的质量分布。"
+  },
+  {
+   "cn": "膨胀",
+   "en": "expansion",
+   "source": "物理学名词",
+   "wordNumber": "05.0087",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一贯性",
+   "en": "consistency",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "一致性，相容性",
+   "en": "consistency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "扩口",
+   "en": "expansion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency\",\"thickness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "conformance\",\"consistency",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "一致性检验",
+   "en": "consistency check",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "标准稠度",
+   "en": "standard consistency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稠度试验",
+   "en": "consistency test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热力学一致性",
+   "en": "thermodynamic consistency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "量纲一致性",
+   "en": "dimensional consistency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一致性试验",
+   "en": "consistency test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内部一致性",
+   "en": "internal consistency",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别一致性",
+   "en": "gender consistency",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知一致性",
+   "en": "cognitive consistency",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "土壤结持度",
+   "en": "soil consistency",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑一致性",
+   "en": "logical consistency",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据一致性",
+   "en": "data consistency",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扩展比",
+   "en": "expansion ratio",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高度的一致性",
+   "en": "consistency of height",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "政贵有恒",
+   "en": "Consistency is valuable in governance.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "多副本一致性管理规则",
+   "en": "management rule for consistency of replications",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "睦内图外",
+   "en": "Unity Within and Expansion Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CAP原则",
+   "en": "CAP (consistency, availability and partition resistance) principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "BASE理论",
+   "en": "BASE (basically available, soft state, eventual consistency) theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三元世界",
+   "en": "ternary world (consisted of physical space, human space and information space)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展度",
+   "en": "extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加时赛",
+   "en": "extension\",\"overtime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expel\",\"expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据爆炸",
+   "en": "data explosion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.30",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "不同研究结果的方向和程度彼此差异不大，得到相同或类似的结论的特性。"
+  },
+  {
+   "cn": "内部一致性信度",
+   "en": "internal consistency",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "量表中测量同一个概念的多个计量指标的一致性程度，目前普遍使用克朗巴赫a 系数(Cronbach’s a coefficient)来检验量表的一致性程度。"
+  },
+  {
+   "cn": "一致性评价",
+   "en": "consistency evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.35",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在不同研究、不同生物学层面（如分子、细胞、组织/器官、动物、人群）及不同测试系统中，评价反复观察到某一化学物引起的不良效应的一致性的过程。包括评价毒理学一致性、方法学一致性、统计学一致性和结论一致性"
+  },
+  {
+   "cn": "胸廓活动度",
+   "en": "chest expansion",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "用于检查胸廓的活动程度的指标。患者双手处于休息位或置于脑后；于前面第4肋间隙为测量部位；记录尽可能深吸气和深呼气时胸围的差距，以cm为单位（如4.2cm）；取两次测量的均值。"
+  },
+  {
+   "cn": "防爆",
+   "en": "anti-explosion",
+   "source": "消毒学",
+   "wordNumber": "5.1.9.3",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在消毒产品的生产和存储过程中，有效控制易燃易爆因素，防止爆炸发生的措施。如预防易燃易爆物质的泄露，尽量减少使用电火花的元器件等措施。"
+  },
+  {
+   "cn": "核爆炸",
+   "en": "nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.40",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "利用核裂变或核聚变反应，瞬时释放巨大能量的爆炸现象。核武器以这种方式实现其杀伤破坏效果。在不同介质和不同高度处爆炸，其杀伤破坏效应差别很大。其方式的选择取决于作战任务、攻击目标、地形地貌等因素。"
+  },
+  {
+   "cn": "大气层核爆炸",
+   "en": "atmospheric nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "地面以上的核爆炸。包括地（水）面核爆炸和爆炸高度在海拔30km以下的空中核爆炸。有利于对核爆炸产生的力学、光学、核辐射、电磁脉冲和放射性沾染等效应进行观测和研究，为核防护和核武器使用提供数据。"
+  },
+  {
+   "cn": "地下核爆炸",
+   "en": "underground nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "地面以下一定深度的核爆炸。按比深不同可分为浅层地下核爆炸和封闭式地下核爆炸。"
+  },
+  {
+   "cn": "水下核爆炸",
+   "en": "underwater nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "核武器在水面以下的爆炸。用于破坏水下、水面舰艇和水中设施。爆炸会造成局部水域严重放射性污染。水下核爆炸火球比空爆小，爆心附近水域被火球照亮，形成明亮发光区；爆心上面的水被掀起可形成不同高度的中空水柱，"
+  },
+  {
+   "cn": "核爆炸装置",
+   "en": "nuclear explosion device",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.8",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "具有核爆炸功能的裂变装置或聚变装置，是原子弹或氢弹的核心组成部分。核装置用于各种目的的核试验时，可以只是一种物理装置，而不是武器。按照核武器作战使用目的而设计制造的核装置，加上引爆控制系统和相应的结构"
+  },
+  {
+   "cn": "核爆炸方式",
+   "en": "types of nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "核武器或核装置在不同介质、不同高度爆炸的类型。分为高空核爆炸、大气层核爆炸、地下核爆炸和水下核爆炸四类。"
+  },
+  {
+   "cn": "高空核爆炸",
+   "en": "high-altitude nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "高度在海拔30km以上的核爆炸。包括外层空间核爆炸。爆心海拔80km以下的高空核爆炸与空中核爆炸特征相似；爆心距地面60km～80km处，可能形成厚度10 km～15km的饼状火球。80km以上高空核"
+  },
+  {
+   "cn": "宫内节育器脱落",
+   "en": "expulsion of intrauterine device",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "宫内节育器置入宫腔后，逐渐移位到宫颈管或宫颈外口的（部分脱落），或移位到阴道或体外（完全脱落）的现象。根据脱落程度会引起出血、腹痛，带器妊娠或意外妊娠。"
+  },
+  {
+   "cn": "核爆炸景象",
+   "en": "view of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.45",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸时，产生特异的外观景象。除地下（水下）爆炸外，其共同的特点是依次出现闪光、火球、蘑菇状烟云，并发出巨大响声。"
+  },
+  {
+   "cn": "核爆炸复合伤",
+   "en": "combined injury from nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "核武器爆炸时人体同时或相继遭受两种或两种以上不同性质致伤因素的共同作用而引起的复合损伤。核爆炸光辐射、冲击波、早期核辐射和放射性沾染可同时对人体造成烧伤、冲击伤和放射性损伤等多种损伤。"
+  },
+  {
+   "cn": "和平利用地下核爆炸条约",
+   "en": "Peaceful Nuclear Explosion Treaty，PNET",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1974年《限制地下核武器试验条约》规定在缔约国管辖的任何地方禁止进行超过150kt的地下核试验。为了区分试验的目的，1974年10月美、苏开始《和平利用地下核爆炸条约》的谈判，1976年5月签署了该"
+  },
+  {
+   "cn": "核爆炸复合伤",
+   "en": "combined injury of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.2.6",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器杀伤效应",
+   "subjectName": "核武器杀伤效应",
+   "publishYear": "2025",
+   "definition": "核爆炸时人员同时或相继受到光辐射、冲击波、早期核辐射和放射性沾染4种杀伤因素中的两种或两种以上杀伤因素共同作用引起的损伤。"
+  },
+  {
+   "cn": "核爆炸光辐射",
+   "en": "optical radiation of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.52",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸瞬间产生的几千万度的高温火球，向四周辐射的光和热。"
+  },
+  {
+   "cn": "核爆炸放射性沾染",
+   "en": "radioactive contamination of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.59",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸产生的放射性物质对人、物和环境所造成的污染。"
+  },
+  {
+   "cn": "核爆炸冲击波",
+   "en": "shock wave of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.48",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核武器爆炸形成的高温高压气团,猛烈压缩和推动周围介质所产生的高压脉冲波。是核爆炸主要的杀伤破坏因素之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

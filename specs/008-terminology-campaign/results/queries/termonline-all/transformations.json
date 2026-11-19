@@ -1,0 +1,732 @@
+{
+ "key": "transformations",
+ "term": "transformations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:38:41+00:00",
+ "status": "ok",
+ "note": "variant=transformations; 审定公布名词库=992; 海峡两岸名词对照库=297; 其他来源数据库=24; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "农学名词",
+   "wordNumber": "15.211",
+   "subjectFullName": "农业生物技术_蛋白质工程",
+   "subjectName": "蛋白质工程",
+   "publishYear": "2025",
+   "definition": "外源遗传物质转入受体细胞并在受体细胞中复制保存的过程。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0767",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "（1）外源遗传物质（如质粒DNA等）进入细菌，引起细菌遗传变化的过程。外源DNA并不整合到宿主基因组中。（2）细胞在病毒、化学致癌物或X射线等多种因素作用下发生遗传变异，产生丧失接触抑制等恶性行为的过"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "兽医学名词",
+   "wordNumber": "16.082",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "受体菌直接摄取周围环境中游离的DNA片段或质粒，获得新性状的过程。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.056",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "（1）外源遗传物质（如质粒DNA等）进入细菌，引起细菌遗传变化的现象。但外源DNA并不整合到宿主染色体DNA上，这是其与“转导”概念不同之处。（2）用病毒、化学致癌物或X线诱发培养的细胞发生遗传变异的"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.244",
+   "subjectFullName": "畜牧学_遗传育种_生物技术",
+   "subjectName": "生物技术",
+   "publishYear": "2020",
+   "definition": "将质粒或以其为载体构建的重组DNA导入处于感受态的宿主细胞，并使其获得新表型的过程。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0504",
+   "subjectFullName": "食品科学技术_食品科学_食品生物技术_食品微生物基因工程",
+   "subjectName": "食品微生物基因工程",
+   "publishYear": "2020",
+   "definition": "外源遗传物质（如质粒、DNA等）进入受体细胞，使后者遗传物质变化的现象。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "植物学名词",
+   "wordNumber": "16.0297",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "外源遗传物质转入受体细胞并在受体细胞中复制保存的过程。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "核医学名词",
+   "wordNumber": "06.0141",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "将外源DNA整合到某一细胞基因组中的过程。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "药学名词",
+   "wordNumber": "05.355",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "细菌接纳外源DNA而引入新的基因标记。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "微生物学名词",
+   "wordNumber": "06.099",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "某一基因型的受体细胞从外界摄入另一基因型的DNA并使其遗传特性发生相应改变的过程。"
+  },
+  {
+   "cn": "变易",
+   "en": "transformation",
+   "source": "语言学名词",
+   "wordNumber": "10.048",
+   "subjectFullName": "语言学_训诂学_训诂所见字、词、句音义关系",
+   "subjectName": "训诂所见字、词、句音义关系",
+   "publishYear": "2011",
+   "definition": "意义不变而字形变化的同词异字现象。例如“厷”写为“肱”。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "细胞生物学名词",
+   "wordNumber": "010.181",
+   "subjectFullName": "细胞生物学_细胞培养与细胞工程",
+   "subjectName": "细胞培养与细胞工程",
+   "publishYear": "2009",
+   "definition": "通常指正常细胞经各种致癌剂处理后成为癌细胞的过程。也可指因外源基因导入使基因型和表型发生永久性遗传改变的现象。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "遗传学名词",
+   "wordNumber": "03.670",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "体外培养的真核细胞转变为生长失控状态，类似于肿瘤细胞的生长。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.695",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "转化体",
+   "en": "transformant",
+   "source": "农学名词",
+   "wordNumber": "15.355",
+   "subjectFullName": "农业生物技术_转基因安全",
+   "subjectName": "转基因安全",
+   "publishYear": "2025",
+   "definition": "外源遗传物质的导入使其遗传特性发生了改变的生物体。"
+  },
+  {
+   "cn": "转化体",
+   "en": "transformant",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0771",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "接受了外源遗传物质（如质粒DNA等）使遗传特性发生了改变的细菌。可以通过选择培养基等方法鉴定获得。"
+  },
+  {
+   "cn": "转化体",
+   "en": "transformant",
+   "source": "医学遗传学名词",
+   "wordNumber": "8.034",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "被异源DNA转化的受体细胞。"
+  },
+  {
+   "cn": "变压器",
+   "en": "transformer",
+   "source": "物理学名词",
+   "wordNumber": "03.0855",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "转化体",
+   "en": "transformant",
+   "source": "植物学名词",
+   "wordNumber": "16.0300",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "(1)接受了外源遗传物质(如质粒DNA等)使遗传特性发生改变的细菌。(2)接受了外源基因并使其得到表达的受体细胞。"
+  },
+  {
+   "cn": "变压器",
+   "en": "transformer",
+   "source": "建筑学名词",
+   "wordNumber": "14.0516",
+   "subjectFullName": "建筑学_建筑设备与系统_强电系统与设备部件",
+   "subjectName": "强电系统与设备部件",
+   "publishYear": "2014",
+   "definition": "利用电磁感应原理变换交流电压、不改变电源频率的电能转换器。用做升、降电压、转换电能，或作系统隔离、匹配阻抗等功能的装置设备。主要构件是初级线圈、次级线圈和铁芯。"
+  },
+  {
+   "cn": "变换",
+   "en": "transform\",\"transformation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "换算",
+   "en": "transformation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "转化体",
+   "en": "transformant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "变换",
+   "en": "transform",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "变压器",
+   "en": "transformer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "转化体, 转化子",
+   "en": "transformant",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化体",
+   "en": "transformant",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化体",
+   "en": "transformant",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "变量器",
+   "en": "transformer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转化子",
+   "en": "transformant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "叶绿体转化",
+   "en": "chloroplast transformation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诱导转化",
+   "en": "induced transformation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转化率",
+   "en": "transformation efficiency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "台风变性",
+   "en": "typhoon transformation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据变换",
+   "en": "data transformation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化转型",
+   "en": "Digital Transformation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物化",
+   "en": "Transformation of Things",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逆变换采样法",
+   "en": "inverse transform sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转变政府职能",
+   "en": "transforming government functions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转变政府职能",
+   "en": "transform government functions",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "量子傅里叶变换",
+   "en": "quantum Fourier transform (QFT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "ETL工具",
+   "en": "ETL (extraction transformation loading) tools",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传统产业数字化转型",
+   "en": "digital transformation of traditional industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "2025政府数字转型战略（澳大利亚）",
+   "en": "2025 Government Digital Transformation Strategy (Australia)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "变换域隐秘技术",
+   "en": "transform-domain techniques for steganography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "制造业数字化转型",
+   "en": "digital transformation in the manufacturing industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "细胞转化",
+   "en": "cell transformation",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "具有正常生长特性的细胞转变为具有无限分裂恶性肿瘤生长特性细胞的过程。正常细胞在体外经辐射、病毒或化学致癌物等处理以及长期的体外培养，均有可能向恶性转化。"
+  },
+  {
+   "cn": "社会转型",
+   "en": "social transformation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "伴随着经济和政治体制、社会结构、社会形态、文化价值系统、行为方式、生活方式等发生深刻变化，社会系统由一种类型向另一种类型过渡。"
+  },
+  {
+   "cn": "社会主义改造",
+   "en": "socialist transformation",
+   "source": "马克思主义",
+   "wordNumber": "02.0335",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1953年至1956年中国共产党领导的在全国范围内变生产资料私有制为社会主义公有制的社会主义革命。包括农业社会主义改造、手工业社会主义改造和资本主义工商业社会主义改造。社会主义改造的完成标志社会着主义"
+  },
+  {
+   "cn": "文化转型",
+   "en": "culture transformation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0051",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "因内部或外部力量推动而导致某个族群文化发生改变和适应的过程。"
+  },
+  {
+   "cn": "价值转形问题",
+   "en": "value transformation problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0122",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在马克思的劳动价值论中，价值转化为生产价格被学术界称为价值转形理论。"
+  },
+  {
+   "cn": "大转型理论",
+   "en": "theory of great transformation",
+   "source": "社会学名词",
+   "wordNumber": "2.9.4.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_其他发展理论",
+   "subjectName": "其他发展理论",
+   "publishYear": "2025",
+   "definition": "卡尔·波兰尼（Karl Polanyi）提出的一种用来描述和解释现代社会转型的理论。这种理论将人类社会从以“再分配”为特征的前市场社会向市场社会的转变描述为现代社会转型的核心内容，并认为，在19世纪资"
+  },
+  {
+   "cn": "农业的社会主义改造",
+   "en": "socialist transformation of agriculture",
+   "source": "马克思主义",
+   "wordNumber": "03.0285",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级取得政权后，通过各种互助合作的形式，把农民个体经济逐步改造成为社会主义集体经济。农业的社会主义改造是对生产资料私有制改造的关键，是经济方面社会主义革命的重要内容之一，是进一步解放农业生产力，全"
+  },
+  {
+   "cn": "森岛通夫的转形模型",
+   "en": "Michio Morishimas transformation model",
+   "source": "马克思主义",
+   "wordNumber": "05.0124",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "森岛通夫（Michio Morishima）通过数学模型证明了马克思的“生产价格总额等于价值总额”和“利润总额等于剩余价值总额”这两个命题同时成立，其模型是接近马克思原意的模型。他还运用马尔科夫过程,"
+  },
+  {
+   "cn": "转化生长因子",
+   "en": "transforming growth factor， TGF",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.24",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "最初从转化细胞培养液分离得到的可作用于细胞生长、转化等的生长因子。包括转化生长因子-α和转化生长因子-β两类。"
+  },
+  {
+   "cn": "移风易俗",
+   "en": "transform outmoded habits and customs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0467",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "泛指转移风气，改变习俗。"
+  },
+  {
+   "cn": "农业社会主义改造理论",
+   "en": "theory of socialist transformation of agriculture",
+   "source": "马克思主义",
+   "wordNumber": "02.0362",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于社会主义改造理论的组成部分。主要内容是：遵循自愿互利、典型示范和国家援助的原则，采用农业生产互助组、初级农业生产合作社、高级农业生产合作社等三个互相衔接的形式，从而把以生产资料私有制为基础的"
+  },
+  {
+   "cn": "公共领域的结构转型",
+   "en": "structure transformation of the public sphere",
+   "source": "马克思主义",
+   "wordNumber": "05.0116",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯在《公共领域的结构转型》中认为，在资产阶级国家建立的初期，一个相对独立于国家和市民社会的公共领域逐步形成和发展起来，但是在后来的发展中，这个领域失去了其独立性。"
+  },
+  {
+   "cn": "学派的转形理论",
+   "en": "TSS  transformation theory of TSS school",
+   "source": "马克思主义",
+   "wordNumber": "05.0123",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代至21世纪初兴起的TSS学派（The School of Temporal Single System），提出的对价值转形问题的新解答。该学派认为只要正确理解价值概念，马克思体系中的基"
+  },
+  {
+   "cn": "制度改造和人的改造相结合",
+   "en": "combination of transforming systems and people",
+   "source": "马克思主义",
+   "wordNumber": "03.0387",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在社会主义改造中提出的重要方针。即一方面把资本主义所有制和个体所有制改造成为社会主义全民所有制和劳动者集体所有制；另一方面把资产阶级分子改造成为自食其力的劳动者，把个体劳动者改造成为集体劳动者。"
+  },
+  {
+   "cn": "手工业社会主义改造理论",
+   "en": "theory of socialist transformation of handicraft industry",
+   "source": "马克思主义",
+   "wordNumber": "02.0366",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东社会主义改造理论的重要组成部分。其要点是：实行统筹兼顾、全面安排、积极领导的方针；遵循自愿互利的原则，利用采用说服教育、典型示范和国家帮助的办法，采用手工业生产小组、手工业供销生产合作社、手工业"
+  },
+  {
+   "cn": "团结教育改造民族资产阶级",
+   "en": "unite educate and transform the national bourgeoisie",
+   "source": "马克思主义",
+   "wordNumber": "03.0386",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东根据民族资产阶级的两面性特点，在《论人民民主专政》等文中提出的，在人民民主专政条件下中国共产党对民族资产阶级的基本政策，是中国共产党统一战线工作的主要任务。毛泽东还提出改造企业和改造人相结合的具"
+  },
+  {
+   "cn": "农业社会主义改造中的阶级路线",
+   "en": "class line for the socialist transformation of agriculture",
+   "source": "马克思主义",
+   "wordNumber": "03.0388",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在农业合作化运动中，根据土改后农村阶级关系的变化，毛泽东和党中央提出的依靠贫下中农、团结中农、限制和逐步消灭富农的阶级路线。"
+  },
+  {
+   "cn": "利用限制改造资本主义工商业",
+   "en": "utilizing restricting and transforming capitalist industry and commerce",
+   "source": "马克思主义",
+   "wordNumber": "02.0356",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国资本主义工商业社会主义改造的基本政策。即：通过国家行政机关的管理、国营经济的领导和工人群众的监督，利用资本主义工商业的有利于国计民生的积极作用，限制它们的不利于国计民生的消极作用，鼓励和指导它们转"
+  },
+  {
+   "cn": "社会主义工业化和社会主义改造同时并举",
+   "en": "carried out simultaneously in socialist industrialization and socialist transformation",
+   "source": "马克思主义",
+   "wordNumber": "03.0385",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在过渡时期总路线中完整提出的建设社会主义的根本方针，即生产力方面从农业国向工业国的转变，生产关系方面从资本主义所有制、个体所有制向社会主义全民所有制、集体所有制的转变，两者紧密结合、同时并举的方"
+  },
+  {
+   "cn": "生产资料私有制的社会主义改造理论",
+   "en": "theory of socialist transformation of private owership of means of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0355",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的实现对农业、手工业和资本主义工商业社会主义改造的方针、政策、原则、形式、方法等的总称。我国从1953年至1956年底实施了这一私有制的改造。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

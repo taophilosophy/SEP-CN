@@ -1,0 +1,792 @@
+{
+ "key": "securities against misrule",
+ "term": "Securities Against Misrule",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:30:09+00:00",
+ "status": "ok",
+ "note": "variant=Securities Against Misrule; 审定公布名词库=464; 海峡两岸名词对照库=248; 其他来源数据库=419; 预公布名词数据库=46; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "逆动",
+   "en": "against movement",
+   "source": "医学名词 第五分册",
+   "wordNumber": "03.253",
+   "subjectFullName": "医学_眼科学_眼科检查",
+   "subjectName": "眼科检查",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "保障",
+   "en": "security",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人类在创造人工自然的过程中，对采取、加工和控制活动提供支持、保护和服务的过程及结果。在技术上主要涉及信息的交流（通信）和物质的流通（输运）等领域。"
+  },
+  {
+   "cn": "证券",
+   "en": "security",
+   "source": "经济学名词",
+   "wordNumber": "12.098",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "用来证明持有人享有的某种特定权益的凭证。"
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "电力名词",
+   "wordNumber": "06.103",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "远动系统避免被控系统处在潜在危险或不稳定状态的能力。这种能力是针对因设备误动和未检出的信息差错而产生故障的后果。"
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0560",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "顾客使用产品时保证人身和环境免遭危害的能力。"
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0560",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "信息系统不受来自系统外部的自然灾害和人为的破坏，防止非法使用者对系统资源，特别是信息的非法使用的特性。"
+  },
+  {
+   "cn": "安全",
+   "en": "security",
+   "source": "航海科技名词",
+   "wordNumber": "14.0033",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "电子学名词",
+   "wordNumber": "21.117",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对校",
+   "en": "proofreading against copy",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.05.004",
+   "subjectFullName": "编辑与出版学_编辑_校对",
+   "subjectName": "校对",
+   "publishYear": "2022",
+   "definition": "以原稿对照校样进行校对的方式。"
+  },
+  {
+   "cn": "事故对策",
+   "en": "countermeasures against accidents",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.294",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护管理",
+   "subjectName": "放射防护管理",
+   "publishYear": "2014",
+   "definition": "旨在缓解事故后果的一种行动。"
+  },
+  {
+   "cn": "抗滑稳定性",
+   "en": "stability against sliding",
+   "source": "船舶工程名词",
+   "wordNumber": "13.155",
+   "subjectFullName": "船舶工程_海洋油气开发工程设施与设备",
+   "subjectName": "海洋油气开发工程设施与设备",
+   "publishYear": "1998",
+   "definition": "海洋工程结构物抵抗水平力作用所造成滑移的能力。"
+  },
+  {
+   "cn": "抗倾稳定性",
+   "en": "stability against overturning",
+   "source": "船舶工程名词",
+   "wordNumber": "13.153",
+   "subjectFullName": "船舶工程_海洋油气开发工程设施与设备",
+   "subjectName": "海洋油气开发工程设施与设备",
+   "publishYear": "1998",
+   "definition": "海洋工程结构物抵抗外力矩倾覆作用的能力。"
+  },
+  {
+   "cn": "防水林",
+   "en": "forestation against flood",
+   "source": "铁道科学技术名词",
+   "wordNumber": "03.0587",
+   "subjectFullName": "铁道科学技术_铁道工务",
+   "subjectName": "铁道工务",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "抗倾覆稳定性",
+   "en": "stability against overturning",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0854",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "抗脱轨稳定性",
+   "en": "stability against derailment",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0855",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "抗震稳定",
+   "en": "stability against earthquake",
+   "source": "水利科学技术名词",
+   "wordNumber": "08.061",
+   "subjectFullName": "水利科学技术_水工建筑_水工建筑物",
+   "subjectName": "水工建筑物",
+   "publishYear": "1997",
+   "definition": "建筑物在地震时的稳定性。"
+  },
+  {
+   "cn": "抗浮稳定",
+   "en": "stability against floating",
+   "source": "水利科学技术名词",
+   "wordNumber": "08.058",
+   "subjectFullName": "水利科学技术_水工建筑_水工建筑物",
+   "subjectName": "水工建筑物",
+   "publishYear": "1997",
+   "definition": "建筑物在外力作用下不上浮，并保持稳定。"
+  },
+  {
+   "cn": "逆规性散光",
+   "en": "astigmatism against rule",
+   "source": "医学名词 第五分册",
+   "wordNumber": "05.079",
+   "subjectFullName": "医学_眼科学_眼屈光学",
+   "subjectName": "眼屈光学",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "抗滑稳性",
+   "en": "stability against sliding",
+   "source": "石油名词",
+   "wordNumber": "08.0646",
+   "subjectFullName": "石油_海洋石油技术_海上油田建设与生产设施",
+   "subjectName": "海上油田建设与生产设施",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "证券",
+   "en": "securities,bond",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0026",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "各种符合法律法规规范的财产所有权或债权凭证。"
+  },
+  {
+   "cn": "证券担保贷款",
+   "en": "advance against security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "安全[性]",
+   "en": "security",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全",
+   "en": "security",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保全损险",
+   "en": "insurance against TLO",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保水渍险",
+   "en": "insurance against WPA",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "避免通货膨胀损失的保值措施",
+   "en": "hedge against inflation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "承兑交单",
+   "en": "acceptance against document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "承兑交单",
+   "en": "document against acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "承兑交货",
+   "en": "delivery against acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "担保贷款",
+   "en": "loan against collateral",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "发行钞票准备金",
+   "en": "reserve against note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款交单",
+   "en": "document against payment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款交单",
+   "en": "document against presentation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款交货",
+   "en": "delivery against payment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付现交单",
+   "en": "document against cash",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货到付款",
+   "en": "payment against arrival",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "凭单付款",
+   "en": "payment against document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "凭单付现",
+   "en": "cash against document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "需要担保的贷款",
+   "en": "advance against collateral",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "要求赔偿损失",
+   "en": "claim against damage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "稳妥性",
+   "en": "security",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违反规则",
+   "en": "against the rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赢得反腐败斗争压倒性胜利",
+   "en": "securing a sweeping victory in the fight against corruption",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "安全芯片",
+   "en": "security chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能安防",
+   "en": "Smart Security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网安全",
+   "en": "IoT security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全标准",
+   "en": "Security Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全基础",
+   "en": "Security Foundation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全建设",
+   "en": "security improvement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防范认知",
+   "en": "Security Awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全虚拟化",
+   "en": "security virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全管理",
+   "en": "Security Management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全技术",
+   "en": "Security Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全机制",
+   "en": "Security Mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全中心",
+   "en": "Security Center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全体系",
+   "en": "Security System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全框架",
+   "en": "Security Framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据库安全",
+   "en": "database security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防干预装置",
+   "en": "guard-against device",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.12",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "有一些装有核材料的设施上安装的能对非法操作或侵袭有显示或报警的装置。"
+  },
+  {
+   "cn": "针对儿童的暴力",
+   "en": "violence against child",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.3",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力",
+   "subjectName": "针对儿童的暴力",
+   "publishYear": "2025",
+   "definition": "对未满18周岁的未成年人造成或可能造成身体、性和精神伤害或痛苦的行为，导致儿童的健康、生存、发展以及尊严受到实际或潜在的伤害。"
+  },
+  {
+   "cn": "针对妇女的暴力",
+   "en": "violence against woman",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "无论在公共场合还是私人生活中，任何基于性别的，对妇女造成或可能造成身体、性和精神伤害或痛苦的行为，包括威胁、强迫或任意剥夺自由。形式有躯体攻击、精神虐待、强迫性行为和其他形式的性胁迫、管制监控行为。"
+  },
+  {
+   "cn": "核安保",
+   "en": "nuclear security",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.1.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词",
+   "subjectName": "核或辐射突发事件基础名词",
+   "publishYear": "2025",
+   "definition": "预防、侦查涉及或直接针对核材料与其他放射性物质、相关设施或活动的犯罪行为或故意的未经授权行为并对之做出响应的措施。主要包括法律法规体系、设计基准威胁、实物保护、放射性物质运输安保、技术和设备研发、核安"
+  },
+  {
+   "cn": "社会保障",
+   "en": "social security",
+   "source": "社会学名词",
+   "wordNumber": "3.18.1.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "广义指社会成员在年老、疾病、伤残、失业、生育及遭遇灾害之时，国家依法向其提供一定的资金、实物或服务以保障其基本生活的支持制度。狭义指收入保障体系，特别是社会保险及社会救助体系。国家为维护社会公平和促进"
+  },
+  {
+   "cn": "补充保障",
+   "en": "supplemental security",
+   "source": "社会学名词",
+   "wordNumber": "4.3.12.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_补充保障",
+   "subjectName": "补充保障",
+   "publishYear": "2025",
+   "definition": "社会保障体系中非政府强制的个人、企业自愿参与的保障部分，是我国社会保障体系中一个重要组成。涉及商业保险以及员工福利等。"
+  },
+  {
+   "cn": "医疗保障",
+   "en": "medical security",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "通过立法规定国家、企业和个人的权利与义务，动员全社会的力量,通过筹集和支付资金、组织卫生服务和医疗物资的提供,分担社会成员的疾病风险,保障人群健康的一种社会保障制度安排。"
+  },
+  {
+   "cn": "健康保障",
+   "en": "health security",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "国家、社会、个人为化解健康风险所采取的一系列行为的总和。包括为维护人民健康的各类医疗卫生服务提供、各种医疗卫生资源筹集分配和使用方法等制度安排。"
+  },
+  {
+   "cn": "信息安全",
+   "en": "information security",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "为卫生信息数据处理系统建立和采用的技术，保护医疗卫生系统中的数据信息等免受偶然和恶意的原因而遭到破坏、更改和泄露。"
+  },
+  {
+   "cn": "安全型依恋",
+   "en": "secure attachment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "良好、积极的依恋行为。与母亲一起时可安逸地玩耍，母亲离开时表现哭闹和分离焦虑，但容易受安抚并安静下来。"
+  },
+  {
+   "cn": "粮食安全",
+   "en": "food security",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.6",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通常为食品数量的安全，是否有足够得到或提供足够食物，为一项重要国策。所有人在任何时间都能在物质、经济和社会层面上获取数量充足、安全并富含营养的食物，满足对健康饮食及不同食物偏好。"
+  },
+  {
+   "cn": "社会保障法",
+   "en": "social security law",
+   "source": "社会学名词",
+   "wordNumber": "3.18.1.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "国家为维护社会稳定和促进经济发展而制定的、旨在保障国民基本生活需要以及增进社会福祉的各种法律规范的总称。社会保障法律规范可以确保社会保障制度真正得到贯彻实施。"
+  },
+  {
+   "cn": "社会保障管理",
+   "en": "social security management",
+   "source": "社会学名词",
+   "wordNumber": "3.18.1.3",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "为实现社会保障目标，由国家成立专门的社会保障管理机构，对各项社会保障事务进行计划、组织、协调、实施、控制的过程以及行为。"
+  },
+  {
+   "cn": "社会保障体系",
+   "en": "social security system",
+   "source": "社会学名词",
+   "wordNumber": "3.18.1.4",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "作为为社会成员提供基本生活保障的制度，由一系列相互联系、相辅相成的子系统构成有机整体。主要包括：由失业、养老、医疗、工伤、生育等社会保险和住房公积金、社会救助以及其他收入补充保障等不同形式的有机子系统"
+  },
+  {
+   "cn": "住房保障制度",
+   "en": "housing security system",
+   "source": "社会学名词",
+   "wordNumber": "4.3.8.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_住房保障服务",
+   "subjectName": "住房保障服务",
+   "publishYear": "2025",
+   "definition": "国家以及社会为保障每个社会成员都有房居住，保障国民住有所居的基本社会权利而实施的一系列制度与政策的总称。目前我国住房保障制度主要包括经济适用房、廉租房以及住房公积金制度。"
+  },
+  {
+   "cn": "新安全观",
+   "en": "new security concept",
+   "source": "马克思主义",
+   "wordNumber": "04.0194",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对“冷战”后期开始出现的一些不同于“旧安全观”即“传统安全观”的新安全观念的统称，指与“旧安全观”即“传统安全观”相对的各种新型的安全观。中国政府自20世纪90年代中期以来提出的“互信、互利、平等、协"
+  },
+  {
+   "cn": "社会保障税",
+   "en": "social security tax",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "以纳税人的工资和薪金所得作为课税对象的一种税收"
+  },
+  {
+   "cn": "安全保障",
+   "en": "security and safety",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.5.2.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童早期发展",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "为婴幼儿提供干净、安全、对身心健康没有任何危害的照护环境。"
+  },
+  {
+   "cn": "社会保障体系",
+   "en": "social security system",
+   "source": "社会医学名词",
+   "wordNumber": "3.11",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会保障体系",
+   "publishYear": "2025",
+   "definition": "作为为社会成员提供基本生活保障的制度，由一系列相互联系、相辅相成的子系统构成的有机整体。主要包括：由失业、养老、医疗、工伤、生育等社会保险和住房公积金、社会救助以及其他收入补充保障等不同形式的子系统。"
+  },
+  {
+   "cn": "全球健康安全",
+   "en": "global heath security",
+   "source": "社会医学名词",
+   "wordNumber": "3.7.1.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "通过规则化、法制化的卫生治理体系，监测、预防措施以应对全球范围内的公共卫生威胁，保障人类健康和福祉。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

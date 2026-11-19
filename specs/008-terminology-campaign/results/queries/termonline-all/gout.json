@@ -1,0 +1,312 @@
+{
+ "key": "gout",
+ "term": "goût",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:43:17+00:00",
+ "status": "ok",
+ "note": "variant=goût; 审定公布名词库=53; 海峡两岸名词对照库=2; 其他来源数据库=8; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "10.009",
+   "subjectFullName": "蛋白质与氨基酸及非产能物质代谢性疾病_脂质代谢异常及相关疾病",
+   "subjectName": "脂质代谢异常及相关疾病",
+   "publishYear": "2025",
+   "definition": "血尿酸水平过高导致尿酸结晶沉积的关节炎性疾病。以高尿酸血症为生化基础，以反复发作性急性关节炎甚至关节畸形为主要临床表现。"
+  },
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "肝病学名词",
+   "wordNumber": "4.1.5.3.1",
+   "subjectFullName": "肝病学_脂肪性肝病_非酒精性脂肪性肝病",
+   "subjectName": "非酒精性脂肪性肝病",
+   "publishYear": "2024",
+   "definition": "血尿酸水平过高导致尿酸结晶沉积的关节炎性疾病。以高尿酸血症为生化基础，以反复发作性急性关节炎甚至关节畸形为主要临床表现。"
+  },
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "兽医学名词",
+   "wordNumber": "10.137",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "血液中尿酸浓度升高，以尿酸盐形式沉积在体内一些器官组织（特别是关节和浆膜）的病理现象。多见于家禽。"
+  },
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "行为医学名词",
+   "wordNumber": "17.142",
+   "subjectFullName": "行为医学_相关行为疾病_内科相关行为疾病",
+   "subjectName": "内科相关行为疾病",
+   "publishYear": "2022",
+   "definition": "嘌呤代谢障碍，血清尿酸过多，尿酸盐结晶沉积在关节和脏器引起的常见病。"
+  },
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "医学遗传学名词",
+   "wordNumber": "6.095",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "长期嘌呤代谢障碍、血尿酸增高引起组织损伤导致的一组多基因遗传病。临床特点为高尿酸血症、急性关节炎反复发作、痛风石形成、慢性关节炎和关节畸形，以及在病程后期出现肾尿酸结石和痛风性肾实质病变。"
+  },
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "病理学名词",
+   "wordNumber": "08.197",
+   "subjectFullName": "病理学_运动系统_骨及关节",
+   "subjectName": "骨及关节",
+   "publishYear": "2020",
+   "definition": "嘌呤代谢障碍，血清尿酸过多，尿酸盐结晶沉积在关节和脏器引起的疾病。"
+  },
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0442",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_人体测量",
+   "subjectName": "人体测量",
+   "publishYear": "2020",
+   "definition": "由于嘌呤代谢障碍及（或）尿酸排泄减少，其代谢产物尿酸在血液中积聚，因血浆尿酸浓度超过饱和限度而引起组织损伤的一组疾病。"
+  },
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "老年医学名词",
+   "wordNumber": "04.484",
+   "subjectFullName": "老年医学_老年临床医学_老年内分泌系统疾病",
+   "subjectName": "老年内分泌系统疾病",
+   "publishYear": "2017",
+   "definition": "嘌呤核苷酸代谢异常引起的高尿酸血症，即尿酸盐或尿酸结晶从超饱和的细胞外液沉积于组织或器官所引起的一组临床综合征。主要表现为急性痛风性关节炎、痛风石形成、痛风石性慢性关节炎、痛风性肾病及尿酸性尿路结石。"
+  },
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.206",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "高尿酸血症患者因尿酸盐沉积，导致反复发作的急性关节炎、痛风石沉积、痛风性慢性关节炎和关节畸形。痛风累及肾脏可引起慢性间质性肾炎和尿酸性肾结石。"
+  },
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.1265",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "以◎(造字：左足右母)趾、跖趾关节、足背、足跟、踝、指、腕等小关节红肿剧痛，反复发作，关节畸形，形成痛风石为主要表现的疾病。"
+  },
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "中医药学名词",
+   "wordNumber": "010.182",
+   "subjectFullName": "中医药学_内科疾病_经络肢体病",
+   "subjectName": "经络肢体病",
+   "publishYear": "2004",
+   "definition": "以"
+  },
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.058",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "医学名词 第一分册",
+   "wordNumber": "03.061",
+   "subjectFullName": "医学_风湿病学",
+   "subjectName": "风湿病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "绒用山羊",
+   "en": "cashmere goat",
+   "source": "畜牧学名词",
+   "wordNumber": "02.230",
+   "subjectFullName": "畜牧学_饲养管理_羊饲养",
+   "subjectName": "羊饲养",
+   "publishYear": "2020",
+   "definition": "主要用于生产山羊绒的山羊。"
+  },
+  {
+   "cn": "奶用山羊",
+   "en": "dairy goat",
+   "source": "畜牧学名词",
+   "wordNumber": "02.232",
+   "subjectFullName": "畜牧学_饲养管理_羊饲养",
+   "subjectName": "羊饲养",
+   "publishYear": "2020",
+   "definition": "主要用于生产羊奶的山羊。"
+  },
+  {
+   "cn": "中卫山羊",
+   "en": "Zhongwei goat",
+   "source": "畜牧学名词",
+   "wordNumber": "03.395",
+   "subjectFullName": "畜牧学_家畜家禽品种_山羊品种_地方山羊品种",
+   "subjectName": "地方山羊品种",
+   "publishYear": "2020",
+   "definition": "属皮肉兼用型。公羊角大，呈半螺旋形的捻状弯曲，向上向后外方伸展。母羊角小，呈镰刀形。被毛以白色为主。主要分布于宁夏回族自治区中卫市和甘肃省景泰县等地。"
+  },
+  {
+   "cn": "雷州山羊",
+   "en": "Leizhou goat",
+   "source": "畜牧学名词",
+   "wordNumber": "03.400",
+   "subjectFullName": "畜牧学_家畜家禽品种_山羊品种_地方山羊品种",
+   "subjectName": "地方山羊品种",
+   "publishYear": "2020",
+   "definition": "肉皮兼用型。公羊、母羊均有角。毛色多为黑色，角、蹄为褐黑色，是适应热带地区的优良地方山羊品种。主要分布于雷州半岛和海南省。"
+  },
+  {
+   "cn": "马头山羊",
+   "en": "Matou goat",
+   "source": "畜牧学名词",
+   "wordNumber": "03.401",
+   "subjectFullName": "畜牧学_家畜家禽品种_山羊品种_地方山羊品种",
+   "subjectName": "地方山羊品种",
+   "publishYear": "2020",
+   "definition": "皮肉兼用型。公羊、母羊均无角，但有退化的角痕，颌下有髯。被毛以白色为主，其他为黑色、麻色和杂色。主要产于湖北省恩施市和湖南省常德市等地区。"
+  },
+  {
+   "cn": "隆林山羊",
+   "en": "Longlin goat",
+   "source": "畜牧学名词",
+   "wordNumber": "03.402",
+   "subjectFullName": "畜牧学_家畜家禽品种_山羊品种_地方山羊品种",
+   "subjectName": "地方山羊品种",
+   "publishYear": "2020",
+   "definition": "公羊、母羊均有角和髯，角呈扁形，向上向后外呈半螺旋状弯曲。毛色较杂，有白色、黑白花色、褐色和黑色。主要产于广西壮族自治区西北部山区，隆林各族自治县为中心产区。"
+  },
+  {
+   "cn": "太行山羊",
+   "en": "Taihang goat",
+   "source": "畜牧学名词",
+   "wordNumber": "03.407",
+   "subjectFullName": "畜牧学_家畜家禽品种_山羊品种_地方山羊品种",
+   "subjectName": "地方山羊品种",
+   "publishYear": "2020",
+   "definition": "属绒肉兼用型。公羊、母羊大多数有角，少数无角或有角基。被毛呈黑色，少数为褐色、青色、灰色、白色。原产于太行山东西侧的河北省、山西省、河南省等有关县市。"
+  },
+  {
+   "cn": "谷草转氨酶",
+   "en": "glutamic-oxaloacetic transaminase\",\"GOT",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抓到就打住",
+   "en": "hold what youve got",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "Go语言",
+   "en": "Go language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST ISO/IEC 17788-2016 信息技术 云计算 综述和词汇》",
+   "en": "GOST ISO/IEC 17788:2016 Information technology — Cloud computing — Overview and vocabulary",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST R 55387-2012 互联网接入服务质量 质量指标》",
+   "en": "GOST R 55387-2012 Quality of the Internet access service — Quality indices",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST R 53632-2009 互联网接入服务的质量参数 一般要求》",
+   "en": "GOST R 53632-2009 Parameters of quality of the Internet access service — General requirements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST R 43.0.8-2017 设备和操作活动的信息保障 人与信息交互的人工智能 通用原则》",
+   "en": "GOST R 43.0.8-2017 Information assurance for equipment and operational activity ― Artificial intelligence of human-information interaction ― General principles",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST ISO/IEC 15424-2018 信息技术 自动识别和数据捕获技术 数据载体标识符（包括符号系统标识符）》",
+   "en": "GOST ISO/IEC 15424:2018 Information technology — Automatic identification and data capture techniques — Data carrier identifiers (including symbology identifiers)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST ISO/IEC 15419-2018 信息技术 自动识别和数据捕获技术 条形码数字成像和打印性能测试》",
+   "en": "GOST ISO/IEC 15419:2018 Information technology — Automatic identification and data capture techniques — Bar code digital imaging and printing performance testing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "痛风",
+   "en": "gout",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.9.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_晶体性关节病",
+   "subjectName": "晶体性关节病",
+   "publishYear": "2025",
+   "definition": "嘌呤代谢紊乱和（ 或） 尿酸排泄减少所引起的一组疾病。临床特点为高尿酸血症（ hyperuricemia） 、反复发作的单一关节炎、尿酸钠盐沉积形成痛风石、痛风石性慢性关节炎。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

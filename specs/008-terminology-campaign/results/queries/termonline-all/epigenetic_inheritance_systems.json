@@ -1,0 +1,782 @@
+{
+ "key": "epigenetic inheritance systems",
+ "term": "epigenetic inheritance systems",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:59:37+00:00",
+ "status": "ok",
+ "note": "variant=epigenetic inheritance systems; 审定公布名词库=7709; 海峡两岸名词对照库=2242; 其他来源数据库=513; 预公布名词数据库=363; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "表观遗传",
+   "en": "epigenetic inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.129",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "基因DNA序列（基因型）未发生变化，基因表达（表型）却发生了可遗传改变的现象。是一种DNA序列外的遗传方式。"
+  },
+  {
+   "cn": "表观遗传",
+   "en": "epigenetic inheritance",
+   "source": "行为医学名词",
+   "wordNumber": "3.367",
+   "subjectFullName": "行为医学_行为的生物学基础_生物化学基础_遗传信息的传递",
+   "subjectName": "遗传信息的传递",
+   "publishYear": "2022",
+   "definition": "在基因的脱氧核糖核酸序列没有发生改变的情况下，基因功能发生了可遗传的变化，并最终导致表型变化的现象。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "生殖医学名词",
+   "wordNumber": "10.187",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "研究在DNA序列不发生改变的情况下，生物表型或基因表达出现稳定的可遗传变化的学科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics ",
+   "source": "草学名词",
+   "wordNumber": "5.0252",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.455",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "研究非DNA序列变化情况下，相关性状的遗传信息通过DNA甲基化、染色质构象改变等途径保存并传递给子代的机制的学 科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "畜牧学名词",
+   "wordNumber": "04.046",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "研究生物体或细胞表观遗传变异的遗传学分支学科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0525",
+   "subjectFullName": "食品科学技术_食品营养_营养遗传学和营养基因组学",
+   "subjectName": "营养遗传学和营养基因组学",
+   "publishYear": "2020",
+   "definition": "研究不改变DNA序列的基因或蛋白质表达的修饰，并使其在发育和细胞增殖过程中稳定传递的遗传学分支学科。主要包括DNA甲基化、组蛋白共价修饰、染色质重塑、基因沉默和RNA编辑等。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "生物物理学名词",
+   "wordNumber": "06.112",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "研究不改变DNA序列而引起基因表达或细胞表型改变的现象与机制的学科。研究对象包括DNA与RNA甲基化、核小体定位、染色质重塑、组蛋白修饰等。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0205",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_生物信息学",
+   "subjectName": "生物信息学",
+   "publishYear": "2018",
+   "definition": "研究在其核苷酸序列不发生改变的情况下，基因表达的可遗传变化的一门遗传学分支学科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "老年医学名词",
+   "wordNumber": "03.013",
+   "subjectFullName": "老年医学_老年基础医学",
+   "subjectName": "老年基础医学",
+   "publishYear": "2017",
+   "definition": "研究基因的核苷酸序列不发生改变的情况下，基因表达可遗传的变化的一门遗传学分支学科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.301",
+   "subjectFullName": "放射医学与防护_放射生物学_放射分子生物学",
+   "subjectName": "放射分子生物学",
+   "publishYear": "2014",
+   "definition": "研究生物体或细胞表观遗传变异的遗传学分支学科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "遗传学名词",
+   "wordNumber": "01.034",
+   "subjectFullName": "遗传学_总论",
+   "subjectName": "总论",
+   "publishYear": "2007",
+   "definition": "研究生物体或细胞表观遗传变异的遗传学分支学科。"
+  },
+  {
+   "cn": "表观遗传调控",
+   "en": "epigenetic regulation;epigenetic control",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0488",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "可遗传的、与核酸序列没有直接关系的控制基因活性的调控方式。是生物体调节基因表达及染色体行为的重要机制之一，对基因表达调控、转座子沉默、基因组稳定性以及生物体生长发育有着重要的调控作用。根据方式不同，可"
+  },
+  {
+   "cn": "遗传",
+   "en": "inheritance",
+   "source": "植物学名词",
+   "wordNumber": "10.0001",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "亲代与子代在同一性状上的相似性。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0315",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "超类与子类之间的一个关系。表明子类自动地拥有其超类的全部属性和操作。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0229",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "特殊类的对象拥有其一般类的全部属性和服务。"
+  },
+  {
+   "cn": "表皮构造",
+   "en": "epigenetic structure",
+   "source": "地质学名词",
+   "wordNumber": "05.03.078",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "冰川运动的推挤力作用于冰前地层，使之产生的褶皱、断裂等构造现象。仅发生于表层，向深处很快消失，且与冰川运动方向呈一定关系，是冰川运动的有力证据之一。"
+  },
+  {
+   "cn": "后生白云岩",
+   "en": "epigenetic dolomite",
+   "source": "地质学名词",
+   "wordNumber": "05.04.093",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩岩石类型",
+   "subjectName": "沉积岩岩石类型",
+   "publishYear": "2026",
+   "definition": "在后生作用阶段，灰岩中的方解石被白云石交代而形成的白云岩。交代作用由于富含镁的深部地下水在灰岩裂隙中不断循环而发生。岩石中的白云石多呈自形菱面体，晶体粗大而且比较干净、透明，不具环带，不含泥晶方解石和"
+  },
+  {
+   "cn": "后生异常",
+   "en": "epigenetic anomaly",
+   "source": "地质学名词",
+   "wordNumber": "13.08.033",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "异常物质是在所依附的介质形成之后形成的异常。"
+  },
+  {
+   "cn": "表观遗传修饰",
+   "en": "epigenetic modification",
+   "source": "农学名词",
+   "wordNumber": "15.023",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "在细胞核DNA序列不发生改变的情况下，基因功能可逆的且可遗传的改变。包括DNA甲基化修饰、RNA甲基化修饰和组蛋白修饰等。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics\",\"epigenetic inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "inheritance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传变异",
+   "en": "epigenetic variation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传调节",
+   "en": "epigenetic regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传修饰",
+   "en": "epigenetic modification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传学效应，渐成效应，后生效应",
+   "en": "epigenetic effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后生效应（=表观遗传学效应）",
+   "en": "epigenetic effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渐成效应（=表观遗传学效应）",
+   "en": "epigenetic effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后生多年冻土",
+   "en": "epigenetic permafrost",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传变异",
+   "en": "epigenetic variation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传信息,外遗传基因信息",
+   "en": "epigenetic information",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传调节",
+   "en": "epigenetic regulation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传信息",
+   "en": "epigenetic information",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表观改变",
+   "en": "epigenetic change",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "外遗传致癌物",
+   "en": "epigenetic carcinogens",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "后成期",
+   "en": "epigenetic period",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "多基因遗传",
+   "en": "multigenic inheritance\",\"polygenic inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "因",
+   "en": "Inherit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因革",
+   "en": "Inheritance and Innovation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "5-1阵型",
+   "en": "5-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-4-3阵型",
+   "en": "3-4-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-3-3阵型",
+   "en": "4-3-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-5-2阵型",
+   "en": "3-5-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-4-2阵型",
+   "en": "4-4-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "5-3-2阵型",
+   "en": "5-3-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-2-4阵型",
+   "en": "4-2-4 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-1-1阵型",
+   "en": "4-1-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-1-2阵型",
+   "en": "3-1-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-2-1阵型",
+   "en": "3-2-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "5-3-1-1阵型",
+   "en": "5-3-1-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "1-4-3-2阵型",
+   "en": "1-4-3-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-3-1-2阵型",
+   "en": "4-3-1-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "1-3-3-3阵型",
+   "en": "1-3-3-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "2-3-5阵型",
+   "en": "2-3-5 system\",\"pyramidal system\",\"pyramide",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "研究非DNA序列变化情况下，相关性状的遗传信息通过DNA甲基化、染色质构象改变等途径保存并传递给子代的机制的学科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "研究不改变DNA序列而引起基因表达或细胞表型改变的现象与机制的学科。研究对象包括DNA与RNA甲基化、核小体定位、染色质重塑、组蛋白修饰等。"
+  },
+  {
+   "cn": "继承制度",
+   "en": "succession system/inheritance system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.34",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "某一个体在其死亡或退位之时将其作为社会之人所具有的权利、义务的总体，也即地位或财产转移给他人的社会制度。包括地位继承与财产继承。"
+  },
+  {
+   "cn": "女子继承制",
+   "en": "female inheritance system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0407",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "母系氏族时期通行的继承制度。母系氏族早期和中期，实行外婚制群婚，子女只知其母不知其父，致使世系只能按母系计算。于是，财产、职业、职位等均按照母系继承。母系氏族晚期，实行对偶婚，但居住方式是从妻居，遂仍"
+  },
+  {
+   "cn": "表观遗传影响",
+   "en": "epigenetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "环境因素和细胞内的遗传物质之间发生交互作用，使生物在环境不断变化的情况下，能够维持遗传序列稳定特征的过程。"
+  },
+  {
+   "cn": "表观遗传调控",
+   "en": "epigenetic regulation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "通过表观遗传修饰方式对细胞内核酸或蛋白质的含量与功能进行调节的过程。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance，succession",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.28",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "个体作为社会人所具有的权利、义务的总体，即地位或财产在其死亡或退位之时根据该社会公认的规则由特定的人所承继的行为。"
+  },
+  {
+   "cn": "活态传承",
+   "en": "living inheritance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0165",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在现今传统村落文化遗产延续与发展的环境中，以人为主体，在保存其文化精髓和风格的前提下，在民众的生产生活过程中延续其文化形态的一种传承方式；与“静态保护”相对。"
+  },
+  {
+   "cn": "继承权",
+   "en": "right of inheritance",
+   "source": "马克思主义",
+   "wordNumber": "04.0014",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继承人依法取得被继承人遗产的权利。包括两种含义：（1）客观意义上的继承权。它是指继承开始前，公民依照法律的规定或者遗嘱的指定而接受被继承人遗产的资格，即继承人所具有的继承遗产的权利能力。（2）主观意义"
+  },
+  {
+   "cn": "民俗传承",
+   "en": "inheritance of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0512",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民众在日常生活中把他们累积的日常生活的知识和经验、意愿和文化心理传递给后人的过程，它在历时性的向度上使得民俗文化保持稳定并不断延伸的运动过程；传承是一种文化行为，广大民众传承民俗文化而不使文化传统发生"
+  },
+  {
+   "cn": "民俗传承论",
+   "en": "inheritance theory of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0464",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "探索充满俗民生活中的传承习俗及其观念，并通过这种研究阐释民俗的历史意义及现代意义。主要包括两个方面：一个是以传承资料为基础，研究俗民从古至今传递下来的人类生活方式、思想观念，以总结并追寻俗民的日常心态"
+  },
+  {
+   "cn": "社会继替",
+   "en": "social inherit and supersede",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "与人类代际更迭相关的，各种社会位置、身份、角色既有替换（出缺与填补）又有继承（承传）的方式或过程。"
+  },
+  {
+   "cn": "系统思维",
+   "en": "systems thinking",
+   "source": "马克思主义",
+   "wordNumber": "01.0254",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以系统论的原理和观点为指导，对事物进行分析和认识的思维方式。在党的二十大报告中，习近平指出：“必须坚持系统观念。”认为系统观念是具有基础性的思想和工作方法。"
+  },
+  {
+   "cn": "山官制",
+   "en": "shanguan system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0295",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中华人民共和国成立前景颇族实行的一种政治制度。山官是当地汉族的称呼，景颇语是贡萨统、杜、杜瓦之意。山官作为统治者在当地的一定辖区内有独立的行使权，他们以山岭、河流等自然标志为界限，山官有大中小三类，大"
+  },
+  {
+   "cn": "系统性风险",
+   "en": "system risk",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.9",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "对整个系统或市场造成广泛影响和损失的风险。在食品安全领域着重于由结构缺陷、管理漏洞或外部冲击引起的广泛性、连锁性危害，可能导致重大公共卫生事件、经济冲击和社会信任危机。这类风险具有跨区域、跨环节、跨主"
+  },
+  {
+   "cn": "剂量测定系统",
+   "en": "dosimetry system",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.3.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_工作场所监测",
+   "subjectName": "工作场所监测",
+   "publishYear": "2025",
+   "definition": "在辐射研究工作中，用来测定剂量准确性的系统，从而得到正确的辐射化学产额。"
+  },
+  {
+   "cn": "安全系统",
+   "en": "safety system",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.6",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "在核设施预计运行事件及事故工况情况下，发挥安全功能，保证反应堆安全停堆、从堆芯排出余热和限制放射性后果的系统。包括保护系统、安全执行系统和安全系统辅助设施。"
+  },
+  {
+   "cn": "标准体系",
+   "en": "standard system",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "一定范围内的标准按其内在联系形成的科学的有机整体。"
+  },
+  {
+   "cn": "社会系统",
+   "en": "social system",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会相互联系的同类事物或（要素）按一定关系和规则有序组成的整合性的有机整体。"
+  },
+  {
+   "cn": "文化系统",
+   "en": "cultural system",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "由物质文化、制度文化和精神文化三个子系统有机结合而成的更大的系统，即各种文化活动的统一体。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

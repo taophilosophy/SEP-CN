@@ -1,0 +1,772 @@
+{
+ "key": "homogeneous reductions",
+ "term": "homogeneous reductions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:27:39+00:00",
+ "status": "ok",
+ "note": "variant=homogeneous reductions; 审定公布名词库=848; 海峡两岸名词对照库=256; 其他来源数据库=38; 预公布名词数据库=27; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "均质",
+   "en": "homogeneous",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.333",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "使污水水质（浓度、水温等指标）实现稳定和均衡的过程。"
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "农学名词",
+   "wordNumber": "06.133",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "一个群体中的不同个体具有相同特性的现象。"
+  },
+  {
+   "cn": "均质",
+   "en": "homogenization",
+   "source": "农学名词",
+   "wordNumber": "17.165",
+   "subjectFullName": "农产品贮运与加工_果蔬加工",
+   "subjectName": "果蔬加工",
+   "publishYear": "2025",
+   "definition": "将果蔬浊汁中的悬浮颗粒物进行微粒化和均匀化，以提高果蔬汁悬浮液稳定性的操作。"
+  },
+  {
+   "cn": "匀浆器",
+   "en": "homogenizer",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0005",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_分散与简单分离",
+   "subjectName": "分散与简单分离",
+   "publishYear": "2024",
+   "definition": "可使组织、细胞或细胞组分等破裂分散成小颗粒，成为比较均匀的悬浮液的装置。用于使样品均匀化，常由精细加工的研棒、管子和电动搅拌器构成。"
+  },
+  {
+   "cn": "均一性",
+   "en": "homogeneity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0221",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）一种生物大分子制品中，其体积、电荷或结构或所有其他性质方面是相同的状态。（2）在体系中仅存一相的状态。"
+  },
+  {
+   "cn": "均化",
+   "en": "homogenize",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0422",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "通过采用一定的工艺措施，达到降低物料化学成分的波动振幅，使物料的化学成分均匀一致的过程。"
+  },
+  {
+   "cn": "均匀性",
+   "en": "homogeneity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0735",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "物质的一种或几种物理性质不随空间坐标变化的特性。 "
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "动物学名词",
+   "wordNumber": "7.05",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "群落环境或生态系统的均匀性。"
+  },
+  {
+   "cn": "均质",
+   "en": "homogenization",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0158",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_乳化与均质",
+   "subjectName": "乳化与均质",
+   "publishYear": "2020",
+   "definition": "使悬浮液(或乳化液)体系中的分散物微粒化、均匀化的处理过程。"
+  },
+  {
+   "cn": "均匀化处理",
+   "en": "homogenizing",
+   "source": "冶金学名词",
+   "wordNumber": "07.0304",
+   "subjectFullName": "冶金学_金属学_热处理",
+   "subjectName": "热处理",
+   "publishYear": "2019",
+   "definition": "以减少工件化学成分和组织的不均匀性为主要目的，将其加热到固相线下某较高温度并长时间保温，然后缓慢冷却的退火处理。"
+  },
+  {
+   "cn": "均匀性",
+   "en": "homogeneity",
+   "source": "物理学名词",
+   "wordNumber": "08.0029",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "匀化",
+   "en": "homogenization",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0215",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "通过搅拌，将一种物质分散在另外一种物质中，使浓度发生改变并最终达到所要求的均匀程度的过程。"
+  },
+  {
+   "cn": "匀化器",
+   "en": "homogenizer",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0216",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "使一种物料在另外一种物料中匀化的混合设备。"
+  },
+  {
+   "cn": "同质",
+   "en": "homogeneity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0492",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "系统具有统一的组成或者特点。一般场景下是指多个计算系统采用了相同的平台和技术。"
+  },
+  {
+   "cn": "均化",
+   "en": "homogenization",
+   "source": "化学名词",
+   "wordNumber": "04.1512",
+   "subjectFullName": "化学_物理化学_胶体化学",
+   "subjectName": "胶体化学",
+   "publishYear": "2016",
+   "definition": "利用分散装置将分散系统的粒子尺寸减小和粒度分布均匀化的过程。"
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "心理学名词",
+   "wordNumber": "03.022",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "几个变量之间的相似程度。"
+  },
+  {
+   "cn": "匀浆",
+   "en": "homogenate",
+   "source": "药学名词",
+   "wordNumber": "05.170",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "均匀化的物质，尤指粉碎得很细(如用研磨器)并经过充分混匀的生物组织。"
+  },
+  {
+   "cn": "匀浆器",
+   "en": "homogenizer",
+   "source": "药学名词",
+   "wordNumber": "05.198",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "用于均化作用的一种装置。"
+  },
+  {
+   "cn": "匀浆化",
+   "en": "homogenization",
+   "source": "药学名词",
+   "wordNumber": "05.279",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "使组织、细胞或细胞组分破裂并使它们成为均匀的小颗粒悬浮液的过程。"
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.096",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "研究对象具有的相同状况或属性等的共性。"
+  },
+  {
+   "cn": "均一性",
+   "en": "homogeneity\",\"homogenicity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "均质的",
+   "en": "homogeneous",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "均匀性",
+   "en": "homogeneity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "匀化器",
+   "en": "homogenizer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "匀浆",
+   "en": "homogenate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "匀化",
+   "en": "homogenization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "均匀化(退火)",
+   "en": "homogenizing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "均一化作用",
+   "en": "homogenization",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "匀浆器",
+   "en": "homogenizer",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "匀浆器",
+   "en": "homogenizer",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "均质器",
+   "en": "homogenizer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "匀浆",
+   "en": "homogenate",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "匀浆化",
+   "en": "homogenization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "匀浆器，匀化器",
+   "en": "homogenizer",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热点减量化",
+   "en": "hotspot reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据归约",
+   "en": "data reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "降体重",
+   "en": "bodyweight reduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "减贫项目援助",
+   "en": "poverty reduction aid",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区域减贫",
+   "en": "regional poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减贫合作",
+   "en": "Cooperation in Poverty Reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发式减贫",
+   "en": "development-oriented poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作减贫框架",
+   "en": "cooperative poverty reduction framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字减贫",
+   "en": "Poverty Reduction Through Digital Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国扶贫国际论坛",
+   "en": "China Poverty Reduction International Forum",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减贫援外培训",
+   "en": "foreign aid training for poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减贫交流合作平台",
+   "en": "exchange and cooperation platform for poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中非合作论坛—减贫与发展会议",
+   "en": "FOCAC Africa-China Poverty Reduction and Development Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国—东盟社会发展与减贫论坛",
+   "en": "China-ASEAN Forum on Social Development and Poverty Reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构性减税和普遍性降费",
+   "en": "make structural tax reductions and cut fees across the board",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "“一带一路”减贫国际合作论坛",
+   "en": "Belt and Road Forum for International Cooperation in Poverty Reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "均质",
+   "en": "homogeneous",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.21",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "在强机械力作用下，将乳中大的脂肪球破碎成小的脂肪球并均匀地分布在乳中的工艺。"
+  },
+  {
+   "cn": "均匀性",
+   "en": "homogeneity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.61",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准物质各指定部分中某个特定特性值的一致性"
+  },
+  {
+   "cn": "均匀照射",
+   "en": "homogeneity exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.6.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_均匀性分类",
+   "subjectName": "均匀性分类",
+   "publishYear": "2025",
+   "definition": "机体各组织和器官吸收剂量相差不大的照射。"
+  },
+  {
+   "cn": "文化同质性",
+   "en": "cultural homogeneity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.003",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与文化异质性相对应，指随着互动、借鉴和融合不断加强，不同国家、民族、地区或群体的文化在其特质和内涵上逐渐出现某种相似或相同的特征。"
+  },
+  {
+   "cn": "非均匀照射",
+   "en": "non-homogeneity exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.6.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_均匀性分类",
+   "subjectName": "均匀性分类",
+   "publishYear": "2025",
+   "definition": "机体各组织和器官吸收剂量相差较大（剂量差别3倍及以上）的照射。"
+  },
+  {
+   "cn": "氧化还原电位",
+   "en": "oxidation reduction potential",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在电解过程中，氧化物质和还原物质同处于离子状态时，在电极和溶液之间产生电位差时的电极电位。"
+  },
+  {
+   "cn": "伤亡减员率",
+   "en": "casualty reduction rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.7",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "因战伤和阵亡减员人数与平均参战人数之比，反映战伤和阵亡减员的程度。"
+  },
+  {
+   "cn": "还原型漂白剂",
+   "en": "reductive bleaching agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.8.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "利用还原性化学发应破坏或抑制食品的发色基团，使食品褪色或免于褐变的物质。"
+  },
+  {
+   "cn": "氧化还原滴定法",
+   "en": "oxidation-reduction titration method",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "基于氧化还原反应的滴定分析法。"
+  },
+  {
+   "cn": "间接劳动还原法",
+   "en": "indirect labor reduction method",
+   "source": "马克思主义",
+   "wordNumber": "05.0121",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "德国社会民主党和第二国际的首领之一，“奥地利马克思主义”的著名的经济学家希法亭认为，熟练工人创造的价值可分为两个部分：非熟练工人创造的价值和转移的物化在技术中的价值。后者又可以分解为前一时期的非熟练劳"
+  },
+  {
+   "cn": "脂肪校正因子",
+   "en": "fat consumption reduction factor, FRF",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.65",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "指对亲脂性物质的特定迁移量进行校正的因子，适用于脂肪含量在20%以上的食品，其计算公式为FRF=（5*食品中的脂肪含量）/100。"
+  },
+  {
+   "cn": "减租减息",
+   "en": "reduction of rent and interest",
+   "source": "马克思主义",
+   "wordNumber": "02.0337",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在抗日战争时期实行的经济政策。当时为团结各阶层人民一致抗日，减轻农民的地租负担和所受高利贷的剥削，由土地革命时期的没收地主土地、实行耕者有其田的政策，改为减租减息政策。地租，一般以实行二五减"
+  },
+  {
+   "cn": "舰艇部队战斗减员",
+   "en": "personnel reduction from sea warfare",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.2.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "海上作战中，舰艇成员阵亡（直接战斗行动死于战位、溺死或负伤后在到达医院船、码头救护所以前死亡）、失踪、被俘、投敌或因伤病失战斗执勤能力，经舰救护所救治仍无法返岗，需送医院船等上级救护机构治疗的情况。"
+  },
+  {
+   "cn": "二五减租",
+   "en": "reduction of land rent by  per cent",
+   "source": "马克思主义",
+   "wordNumber": "02.0338",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "减租减息的主要内容。第一次国内革命战争时期，中国共产党曾促使国民政府在其“政纲”中作出了“减轻佃农田租百分之二十五”的规定。但为地主阶级所反对，未能实行。抗日战争时期，中国共产党在抗日根据地实行了二五"
+  },
+  {
+   "cn": "舰艇部队疾病减员",
+   "en": "personnel reduction from sickness in the naval force",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.2.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "舰艇部队在海上执行任务时，舰艇成员患病、非战斗外伤和意外死亡导致不能参战的情况。"
+  },
+  {
+   "cn": "复杂劳动向简单劳动还原问题",
+   "en": "issue of reduction of complex labor to simple labor",
+   "source": "马克思主义",
+   "wordNumber": "05.0120",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "西方一些学者曾质疑马克思《资本论》“比较复杂的劳动只是自乘的或不如说多倍的简单劳动”的观点，认为这是马克思劳动价值论中应该解决却未能解决好的问题，甚至认为马克思对复杂劳动向简单劳动还原问题的处理是零碎"
+  },
+  {
+   "cn": "肥胖、减脂手术全营养配方食品",
+   "en": "nutritionally complete formula foods for obesity and fat reduction surgery",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.28",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "为适应肥胖、减脂手术病人因代谢紊乱导致的蛋白质和微量营养素摄入不足的情况，在保证较低能量摄入配方的基础上调整蛋白质和微量营养素的比例，使其能作为单一营养来源满足肥胖、减脂手术患者营养需求的配方食品。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

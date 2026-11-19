@@ -1,0 +1,732 @@
+{
+ "key": "status group inequalities",
+ "term": "status group inequalities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:00:37+00:00",
+ "status": "ok",
+ "note": "variant=status group inequalities; 审定公布名词库=2751; 海峡两岸名词对照库=612; 其他来源数据库=144; 预公布名词数据库=190; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "不等式",
+   "en": "inequality",
+   "source": "数学名词",
+   "wordNumber": "01.0048",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不等方程",
+   "en": "inequation",
+   "source": "数学名词",
+   "wordNumber": "01.0050",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地位",
+   "en": "status",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "个体在群体内部所占据的威望等级、阶层、职位。"
+  },
+  {
+   "cn": "不等式约束条件",
+   "en": "inequality constraint",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "优化问题需要满足的不等式形式的约束条件。"
+  },
+  {
+   "cn": "月角差",
+   "en": "parallactic inequality",
+   "source": "天文学名词",
+   "wordNumber": "03.164",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "月球运动里因太阳引力作用而产生的周期为一个朔望月的小摄动项。"
+  },
+  {
+   "cn": "信息不平等",
+   "en": "information inequality",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.064",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "不同国家、阶级、地域、种族、性别等背景的人获取与使用信息资源的机会和能力存在差异的现象。在数字化时代突出表现为“数字鸿沟”的形成。"
+  },
+  {
+   "cn": "施瓦茨不等式",
+   "en": "Schwarz inequality",
+   "source": "物理学名词",
+   "wordNumber": "01.0455",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "贝尔不等式",
+   "en": "Bell inequality",
+   "source": "物理学名词",
+   "wordNumber": "06.0769",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0063",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "热力学第二定律的另一种表达形式，可以表述为：过程的熵变大于或等于热温商。"
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "物理学名词",
+   "wordNumber": "05.0267",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化学名词",
+   "wordNumber": "04.0206",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "系统在相同的始、终态间经历可逆变化与不可逆变化时存在下述关系：<img src='/root/syzx/static/spz/huaxue2.04.0206.1.png'/>，式中dS、δQ分别为系统"
+  },
+  {
+   "cn": "日不等[现象]",
+   "en": "diurnal inequality",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "天文潮潮差变化逐日不等的现象。其周期为27.3216天。"
+  },
+  {
+   "cn": "空间不均衡性",
+   "en": "spatial inequality",
+   "source": "地理学名词",
+   "wordNumber": "24.019",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "人、资源、生活品的不均衡空间分布或空间关系。"
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化学工程名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "化学工程_化工热力学_化工热力学基本概念",
+   "subjectName": "化工热力学基本概念",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "不等式约束",
+   "en": "inequality constraint",
+   "source": "化学工程名词",
+   "wordNumber": "05.141",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "熵不等式",
+   "en": "entropy inequality",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "变分不等式",
+   "en": "variational inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0688",
+   "subjectFullName": "数学_分析学_变分法",
+   "subjectName": "变分法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "变分不等方程",
+   "en": "variational inequation",
+   "source": "数学名词",
+   "wordNumber": "05.0689",
+   "subjectFullName": "数学_分析学_变分法",
+   "subjectName": "变分法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "加权不等式",
+   "en": "weighted inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0306",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "条件不等式",
+   "en": "conditional inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0066",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "均差",
+   "en": "inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "status",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地位",
+   "en": "status",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日不等[现象]",
+   "en": "diurnal inequality",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空间不均衡性",
+   "en": "spatial inequality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "日潮不等",
+   "en": "diurnal inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "月角差",
+   "en": "parallactic inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "日潮不等",
+   "en": "diurnal inequality",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "配置状态",
+   "en": "configuration status",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "系统状况",
+   "en": "system status",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "状态询问",
+   "en": "status enquiry",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "低潮不等",
+   "en": "low water inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "高潮不等",
+   "en": "high water inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "月行差",
+   "en": "lunar inequality\",\"evection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "优惠国待遇",
+   "en": "favoured nation status",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "状态－压力－响应",
+   "en": "status-pressure-response",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "错误状态字",
+   "en": "error status word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配置状态报告",
+   "en": "configuration status accounting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "状态感知",
+   "en": "status awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "Group",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "团体",
+   "en": "group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大集团",
+   "en": "group\",\"main group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "grouping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大部队",
+   "en": "bunch\",\"group\",\"main group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据标准现状调研",
+   "en": "data standard status investigation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康申报",
+   "en": "declaration of health status    ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不患寡而患不均",
+   "en": "Fear Not Scarcity, but Inequality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集团",
+   "en": "bunch\",\"group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集团",
+   "en": "bunch\",\"group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身份群体",
+   "en": "status group",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "依据声望地位（社会主观评价）指标区分的社会群体。一些韦伯派分层理论家、功能主义分层理论家和后现代分层理论家认为，在当代社会已取代阶级成为社会分化的基本群体分类。"
+  },
+  {
+   "cn": "身份",
+   "en": "status",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "人与人之间相互区分、相互认同的社会属性符号。"
+  },
+  {
+   "cn": "个体化的不平等",
+   "en": "individualized inequality/inequality individualization",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "后现代社会一个最突出的特征是“个体化”，人们越来越强烈地要求按照自己的意愿构建生活，这导致一种新的不平等形式，取代传统的以阶级或阶层为基础的不平等。由德国理论家贝克(Ulrich Beck）等人提出，"
+  },
+  {
+   "cn": "社会不平等",
+   "en": "social inequality",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "某一社会不同群体之间或同一群体内部不同个体之间存在资源或机会的不平等分配。这种不平等主要表现为两大类：机会不平等（获取资源的机会不平等）和结果不平等（实际拥有的资源不平等）。"
+  },
+  {
+   "cn": "收入不平等",
+   "en": "income inequality",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "某一社会中人们之间的收入水平差异。通常有两种方式测量收入不平等程度：一种是基尼系数（基于收入获得者百分比与收入百分比之间的回归线来计算），另一种是高低收入组之比（如收入最高的10％的人口的平均收入与收"
+  },
+  {
+   "cn": "健康不平等",
+   "en": "health inequality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "各类经济特征人群之间健康水平的差异。"
+  },
+  {
+   "cn": "健康不公平",
+   "en": "health inequity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "人们获得良好健康状态的机会、条件的差异。"
+  },
+  {
+   "cn": "状态检测",
+   "en": "status test",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.4.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管_放射诊疗设备",
+   "subjectName": "放射诊疗设备",
+   "publishYear": "2025",
+   "definition": "对运行中的放射诊疗设备，为评价其防护和性能指标是否符合标准要求而定期进行的质量控制检测，该检测应由具有资质的放射卫生技术服务机构开展。"
+  },
+  {
+   "cn": "现状评价",
+   "en": "status evaluation",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.6",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "对用人单位工作场所职业病危害因素及其接触水平、职业病防护设施及其他职业病防护措施与效果、职业病危害因素对劳动者的健康影响情况等进行的综合评价。"
+  },
+  {
+   "cn": "身份人格",
+   "en": "status personality",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "与个体所在的特定身份群体相联系的人格型态。不同的人既共享该社会或文化所塑造的“基本人格”，也因为各自所属的身份群体的价值差异，而呈现出行为模式上的差异。美国人类学家拉尔夫·林顿（Ralph Linto"
+  },
+  {
+   "cn": "身份社会",
+   "en": "status society",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "以血缘、宗法等先赋性关系为纽带而建立的等级制社会，与贵族制、身份等级制、人身依附关系等有着密切的联系。与之相对的是建立在平等、契约基础之上的“契约社会”。"
+  },
+  {
+   "cn": "社会地位",
+   "en": "social status",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "在特定分层系统中由法律、政治和文化标准确定的身份或地位，通常按高低等级排列。"
+  },
+  {
+   "cn": "身份制",
+   "en": "status system",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "针对中国1960和1970年代社会分层特殊性提出的概念。李强等人认为，当时的中国社会分层表现出一种以国家行政制度（户籍制度、单位制和行政档案分类）为基础的制度，依据个人在这些制度中的地位状况区分出社会"
+  },
+  {
+   "cn": "地位结晶化",
+   "en": "status crystallization",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "个人或群体在多维分层指标（如收入、职业、教育等）中保持一致性的位置。比如，高教育水平的人获得高声望的职业和高收入。由美国社会学家伦斯基(Gerhard Lenski）提出。与“地位不一致性 ”相对。"
+  },
+  {
+   "cn": "地位获得",
+   "en": "status attainment",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "个人通过某些方式和途径达到一定的社会经济地位（如职业地位、声望地位和经济地位等）。社会学家通过其考查社会分层的机制，即哪些个人因素和结构因素决定人们的社会经济地位。"
+  },
+  {
+   "cn": "先赋性身份",
+   "en": "ascribed status",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "个人出生时即被赋予的身份特征。比如，性别、民族、种族、父辈的财富以及其他家庭背景等，影响个人后续的社会经济地位。在中国社会的典型体现是户口身份。与“自致性身份”相对。"
+  },
+  {
+   "cn": "自致性身份",
+   "en": "achieved status",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "靠个人后天努力而获得的身份。比如，学历或专业技能资格等，以及基于学历和专业技能通过与他人竞争而获得的身份地位。与“先赋性身份”相对。"
+  },
+  {
+   "cn": "健康状况",
+   "en": "health status",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.7",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "反映某个人或某个人群整体健康状况的指标，现有的健康状况指标有健康结果指标（发病率、死亡率等）、医疗服务利用指标（门诊数、住院天数等）、主观健康评价指标等。"
+  },
+  {
+   "cn": "社会经济状况",
+   "en": "socioeconomic status",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "根据个体或家庭能够获取或者控制的社会资源数量对其进行社会层级划分的综合性指标。通常由职业、受教育程度和收入这三个维度的指标构建而成。"
+  },
+  {
+   "cn": "疾病状态",
+   "en": "sick status",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.2",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "个体表现出来的、能够被个人感知或他人观察到/测量到的异常状态，即个体功能的不正常状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

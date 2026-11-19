@@ -1,0 +1,642 @@
+{
+ "key": "recursion schemes",
+ "term": "recursion schemes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:31:31+00:00",
+ "status": "ok",
+ "note": "variant=recursion schemes; 审定公布名词库=393; 海峡两岸名词对照库=132; 其他来源数据库=14; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "α递归性",
+   "en": "α-recursion,alpha-recursion",
+   "source": "数学名词",
+   "wordNumber": "02.0294",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "递归性",
+   "en": "recursiveness",
+   "source": "数学名词",
+   "wordNumber": "02.0241",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "莱文森递归",
+   "en": "Levinson recursion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2705",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "在矩阵方程 Ra=r的求解计算中有效地利用了 R和 r的对称性，递归计算方程的解，核心是运用产生随机数 (更多的是伪随机数 )的数学方法。该方法典型地用于随机地求解难于实施的高维空间。 "
+  },
+  {
+   "cn": "递推法",
+   "en": "recursion method",
+   "source": "物理学名词",
+   "wordNumber": "01.0507",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "递归定理",
+   "en": "recursion theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0159",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "可计算函数的不动点定理。"
+  },
+  {
+   "cn": "原始递归",
+   "en": "primitive recursion",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0116",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "原始递归算子。给定函数 f(x),g(x,y,z) ，该算子定义函数 h 如下：① h(x,0)=f(x) ；② h(x,y+1)=g(x,y,h(x,y)) 。 "
+  },
+  {
+   "cn": "回归保持",
+   "en": "recursion keeping",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.034",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "莱文森递推",
+   "en": "Levinson recursion",
+   "source": "石油名词",
+   "wordNumber": "03.0711",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "递归论",
+   "en": "recursion theory",
+   "source": "数学名词",
+   "wordNumber": "02.0220",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原始递归式",
+   "en": "primitive recursion",
+   "source": "数学名词",
+   "wordNumber": "02.0236",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "递归技术",
+   "en": "recursive technique",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1923",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "基于递归公式的计算技术。递归公式将某些系数的 (如滤波器的 )第 n阶与第 (n.1)阶联系在一起。希望得到的第 n阶系数便可从第 0阶的初始值开始，迭代运用该公式求得。 "
+  },
+  {
+   "cn": "递归滤波",
+   "en": "recursive filter",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2557",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "其输出既依赖于输入及滤波响应函数，又依赖于以前的输出的滤波器。 "
+  },
+  {
+   "cn": "递归算法",
+   "en": "recursive algorithm",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0753",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "把问题分解为规模缩小了的同类问题的子问题，然后采用递归调用函数（或过程）来求得原问题的解。"
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0124",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个部分递归函数还是全函数，则称其为递归函数。"
+  },
+  {
+   "cn": "递归规则",
+   "en": "recursive rule",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0237",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "对规则左部的非终极符号进行递归定义。如： U → xUy ，即为递归规则。"
+  },
+  {
+   "cn": "递归查询",
+   "en": "recursive query",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0195",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "一种用递归的逻辑程序定义或涉及递归规则求值的查询。"
+  },
+  {
+   "cn": "递归谓词",
+   "en": "recursive predicate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0127",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个谓词所确定的集合为递归集，则称它是一个递归谓词。"
+  },
+  {
+   "cn": "递归关系",
+   "en": "recursive relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0128",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个关系所对应的函数是递归函数，则称它为一个递归关系。"
+  },
+  {
+   "cn": "递归语言",
+   "en": "recursive language",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0545",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "能被一个对任何输入都停机的图灵机接受的语言。"
+  },
+  {
+   "cn": "递归置换",
+   "en": "recursive permutation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0174",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定自然数集N上的置换 f ，如果 f 和<img src='/root/syzx/static/spz/jsjkx3.02.0154.001.png'/>都是可计算的，则称它是一个递归置换。 "
+  },
+  {
+   "cn": "循环",
+   "en": "recursion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "递推公式",
+   "en": "recursion formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归定理",
+   "en": "recursion theorem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尾递归",
+   "en": "tail recursion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递推关系式",
+   "en": "recursive relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归模型",
+   "en": "recursive model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "递归查询",
+   "en": "recursive query",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归估计",
+   "en": "recursive estimation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归计算",
+   "en": "recursive computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归例程",
+   "en": "recursive routine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归算法",
+   "en": "recursive algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归文法",
+   "en": "recursive grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归语言",
+   "en": "recursive language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尾递归删除",
+   "en": "tail recursion elimination",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归块编码",
+   "en": "recursive block coding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归适应性算法",
+   "en": "recursive adaptation algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归论",
+   "en": "recursion theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归法",
+   "en": "recursion method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证人机制",
+   "en": "notary scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "庞氏骗局",
+   "en": "Ponzi scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型庞氏骗局",
+   "en": "new Ponzi scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络传销",
+   "en": "online pyramid scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全评估方案",
+   "en": "security assessment scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多强度诱骗态调制方案（中国）",
+   "en": "Multi-intensity Decoy State Modulation Scheme (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新技术金融应用风险保险计划",
+   "en": "insurance scheme for use of new technology in financial sector",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "卫生筹资方案",
+   "en": "health financing schemes",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.5.1",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "针对卫生筹资制定的工作或行动计划。它是卫生筹资安排的主要形式，通过方案对人群获得的卫生服务进行支付。"
+  },
+  {
+   "cn": "赖特阶级分类",
+   "en": "Wright class scheme",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "在马克思原有阶级分类基础上，依据生产资料、组织和技术文凭三种资产数量，划分出的美国社会的12个阶级，特别提出了中产阶级的划分标准。该阶级分类由美国新马克思主义阶级理论家赖特(Erik Olin Wri"
+  },
+  {
+   "cn": "戈德索普阶级分类",
+   "en": "Goldthorpe class scheme",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "依据职业分类，划分出高低排列的7个阶级：服务阶级（专业人员和管理人员）、办事人员阶级（低层白领）、小资产阶级（小业主和自雇手工业者）、农场主、技术工人和非技术体力工人。该阶级分类由英国社会学家戈德索普"
+  },
+  {
+   "cn": "二级采样方案",
+   "en": "secondary sampling scheme",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.75",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "一种在食品安全和品质监控中常用的抽样检验方法。为某个微生物指标设定两个阈值限值，并根据样本的检测结果，在“接受”和“拒绝”两个判定之外，引入了一个“中间待定区”，需通过加大抽样来做出最终判定。"
+  },
+  {
+   "cn": "新型农村合作医疗",
+   "en": "new cooperative medical scheme",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.11",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "由政府组织、引导、支持，农民自愿参加，个人、集体和政府多方筹资，以大病统筹为主的农村医疗保障制度。是中国农村特有的医疗保障制度，从2003年开始实施，区别于中国计划经济时期实施的以村为统筹单位的合作医"
+  },
+  {
+   "cn": "养老金制度",
+   "en": "pensions scheme，annuity system",
+   "source": "社会学名词",
+   "wordNumber": "3.15.8.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障",
+   "subjectName": "老年社会保障",
+   "publishYear": "2025",
+   "definition": "按照法律规定实施，劳动者个人以劳动时间或货币贡献为计量单位进行参与，在做出一定贡献或达到一定资格后，依法享受应有待遇的制度体系。一般包括加入体系、做出贡献、计发待遇、享受待遇等几个基本程序。"
+  },
+  {
+   "cn": "监测方案",
+   "en": "monitoring and surveillance scheme",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.10",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "各省根据国家监测计划，针对本省食品安全特点指定的省级检测内容"
+  },
+  {
+   "cn": "三级采样方案",
+   "en": "three stage sampling scheme",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.76",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "一种在食品安全和品质监控中常用的抽样检验方法。为某个微生物指标设定三个阈值限值，根据样本的检测结果，将产品批次判定为“接受”、“条件接受”或“拒绝”三个等级。"
+  },
+  {
+   "cn": "卫生筹资来源",
+   "en": "revenues of health financing schemes",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.5.3",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "卫生资金的筹集渠道与筹集方式。"
+  },
+  {
+   "cn": "新型农村合作医疗",
+   "en": "new cooperative medical scheme，NCMS",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.2.2.7",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险类型",
+   "subjectName": "健康保险类型",
+   "publishYear": "2025",
+   "definition": "由政府组织、引导、支持，农民自愿参加，个人、集体和政府多方筹资，以大病统筹为主的农民医疗互助共济的制度。其目的是为了解决农民的就医问题，减轻农民因疾病带来的经济负担，提高农民健康水平"
+  },
+  {
+   "cn": "中央集中解决法的计划经济模式",
+   "en": "model of planned economy with centralist scheme",
+   "source": "马克思主义",
+   "wordNumber": "05.0184",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "二十世纪上半期，在西方关于社会主义经济核算问题的论战中，英国共产党主要理论家、马克思主义史学派主要代表人物莫里斯·多布（Maurice H.Dobb）参与同奥地利学派的论战。他既反对米塞斯、哈耶克等人"
+  },
+  {
+   "cn": "高原衰退症",
+   "en": "high altitude recession disease",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.3.2.5",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原病",
+   "subjectName": "高原病",
+   "publishYear": "2025",
+   "definition": "长期居住高原，因习服不良或丧失适应而发生的以脑力和/或体力衰退为主要特征的临床综合征。主要表现为疲劳、食欲减退、体重减轻、失眠、记忆力下降、工作能力降低等。"
+  },
+  {
+   "cn": "自我图式",
+   "en": "self-schema",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "个体在已有经验基础上所形成的有关“自我”的结构化的心理表征，它既包括以具体的事件和情境为基础的认知表征(如“我昨天在会上发言时犹豫不决”) ，也包括较为概括的、来自本人或他人评价的认知表征(如“我为人"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

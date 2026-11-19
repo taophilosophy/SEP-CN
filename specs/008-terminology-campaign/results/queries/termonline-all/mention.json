@@ -1,0 +1,682 @@
+{
+ "key": "mention",
+ "term": "mention",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:36:08+00:00",
+ "status": "ok",
+ "note": "variant=mention; 审定公布名词库=1601; 海峡两岸名词对照库=398; 其他来源数据库=23; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "明引",
+   "en": "explicit quotation mentioning its author or origin",
+   "source": "语言学名词",
+   "wordNumber": "08.244",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "与“暗引”相对。引用的一种。直接引用原文，并用引号标明，多注明作者或出处。例如，“我们中国有句农谚：‘不行春风，难得秋雨’。”"
+  },
+  {
+   "cn": "暗引",
+   "en": "implicit quotation without mentioning its author or origin",
+   "source": "语言学名词",
+   "wordNumber": "08.245",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "与“明引”相对。引用的一种。引用原文，用或不用引号，但不注明作者及出处。例如，“唉，回忆，不敢言回忆！古来万事东流水，别君去兮何时还。”暗引李白诗句。"
+  },
+  {
+   "cn": "[大地]构造运动",
+   "en": "tectonic move-ment",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0227",
+   "subjectFullName": "地球物理学_地球动力学_大陆构造演化",
+   "subjectName": "大陆构造演化",
+   "publishYear": "2022",
+   "definition": "地球内力引起地壳乃至岩石层的变位、变形及洋底的增生、消亡的机械作用和相伴随的地震活动、岩浆活动和变质作用。 "
+  },
+  {
+   "cn": "电磁仪器",
+   "en": "electromagnetic instru-ment",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0012",
+   "subjectFullName": "地球物理学_地球电磁学_地球电磁学总论",
+   "subjectName": "地球电磁学总论",
+   "publishYear": "2022",
+   "definition": "通过独立测量电场、磁场或联合测量电场和磁场，探测研究地下介质的电磁性质如电导率、极化率或由其产生的其他物性的分布，用于矿床资源和地球结构探测的地球物理测量仪器。依据探测原理的不同或者探测频率的不同，其"
+  },
+  {
+   "cn": "宇航空间环境",
+   "en": "aerospace environ-ment",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0275",
+   "subjectFullName": "地球物理学_空间物理学_空间环境与探测",
+   "subjectName": "空间环境与探测",
+   "publishYear": "2022",
+   "definition": "对航天活动有重要影响的空间环境。特别强调高真空、微重力和强辐射等特点。 "
+  },
+  {
+   "cn": "反符合测量",
+   "en": "anticoincidence measure- ment",
+   "source": "核医学名词",
+   "wordNumber": "03.0156",
+   "subjectFullName": "核医学_核医学设备与操作_探测设备",
+   "subjectName": "探测设备",
+   "publishYear": "2018",
+   "definition": "为配合单道或多道脉冲高度分析器而设计的电子学线路，利用上、下两个甄别器，分别调节甄别阈电压，只允许低于上甄别阈、高于下甄别阈的电脉冲通过的测量技术。"
+  },
+  {
+   "cn": "强震仪器",
+   "en": "strong-motion instru-ment",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2110",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "用于观测记录强地面运动的仪器。 "
+  },
+  {
+   "cn": "应变-位移关系",
+   "en": "strain-displace-ment relationship",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0520",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "应变分量与位移矢量之间所满足的关系。 "
+  },
+  {
+   "cn": "n的平方根改进",
+   "en": "root n improve-ment",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1114",
+   "subjectFullName": "地球物理学_地震科学_地震学与地球内部构造",
+   "subjectName": "地震学与地球内部构造",
+   "publishYear": "2022",
+   "definition": "由具有均与功率大噪声额 n个独立记录的延时与叠加处理所预期的信噪比改进。 "
+  },
+  {
+   "cn": "各向同性矩张量",
+   "en": "isotropic mo-ment tensor",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1343",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "由 3个相互垂直、大小相等的矢量偶极组成的矩张量。 "
+  },
+  {
+   "cn": "冲积层",
+   "en": "alluvion; waterborne sedi-ment",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0243",
+   "subjectFullName": "地球物理学_地球动力学_大陆构造演化",
+   "subjectName": "大陆构造演化",
+   "publishYear": "2022",
+   "definition": "冲积物在河床上的堆积，主要含有卵石、砂粒或黏土。 "
+  },
+  {
+   "cn": "酸性水预处理",
+   "en": "sour water pretreat-ment",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0795",
+   "subjectFullName": "化工（一）_加工工艺_酸性水",
+   "subjectName": "酸性水",
+   "publishYear": "2017",
+   "definition": "在进入汽提塔前，脱除酸性水中气态烃、油或焦粉的预处理过程。"
+  },
+  {
+   "cn": "回肠代输尿管术",
+   "en": "ileal ureteric replace- ment",
+   "source": "泌尿外科学名词",
+   "wordNumber": "11.145",
+   "subjectFullName": "泌尿外科学_泌尿、男性生殖系统手术",
+   "subjectName": "泌尿、男性生殖系统手术",
+   "publishYear": "2014",
+   "definition": "因外伤、炎症、肿瘤等引起输尿管全部或长段病变，当病变段输尿管切除后，不能行输尿管端端吻合术恢复输尿管连续性时，选用带血管蒂的回肠段连接肾盂和膀胱的手术方式。"
+  },
+  {
+   "cn": "电磁计量室",
+   "en": "electromagnetic measure- ment room",
+   "source": "建筑学名词",
+   "wordNumber": "11.0256",
+   "subjectFullName": "建筑学_建筑防护_防电磁辐射",
+   "subjectName": "防电磁辐射",
+   "publishYear": "2014",
+   "definition": "对电学和磁学单位量值进行基准保存、传递、校准的房间。"
+  },
+  {
+   "cn": "电子通信设备",
+   "en": "electronic communication equip- ment",
+   "source": "电气工程名词",
+   "wordNumber": "30.002",
+   "subjectFullName": "电气工程_电磁干扰和电磁兼容",
+   "subjectName": "电磁干扰和电磁兼容",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "积算[测量]仪表",
+   "en": "integrating [measuring] instru- ment",
+   "source": "电气工程名词",
+   "wordNumber": "26.026",
+   "subjectFullName": "电气工程_电磁测量和电离辐射测量",
+   "subjectName": "电磁测量和电离辐射测量",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "微差[测量]仪表",
+   "en": "differential [measuring] instru- ment",
+   "source": "电气工程名词",
+   "wordNumber": "26.027",
+   "subjectFullName": "电气工程_电磁测量和电离辐射测量",
+   "subjectName": "电磁测量和电离辐射测量",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "总和[测量]仪表",
+   "en": "summation [measuring] instru- ment",
+   "source": "电气工程名词",
+   "wordNumber": "26.028",
+   "subjectFullName": "电气工程_电磁测量和电离辐射测量",
+   "subjectName": "电磁测量和电离辐射测量",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "主排水设备",
+   "en": "main pumping equip-ment",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "06.274",
+   "subjectFullName": "煤炭科学技术_矿山机械工程_排水机械",
+   "subjectName": "排水机械",
+   "publishYear": "1996",
+   "definition": "安装在主排水泵硐室内，排出全矿涌水的设备。主要包括主排水泵、管道、电动机和控制设备等。"
+  },
+  {
+   "cn": "露天矿开拓",
+   "en": "surface mine develop-ment",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.384",
+   "subjectFullName": "煤炭科学技术_煤矿开采_露天开采",
+   "subjectName": "露天开采",
+   "publishYear": "1996",
+   "definition": "建立地表至露天采场各台阶的运输通道。"
+  },
+  {
+   "cn": "迪布瓦，弗朗索瓦",
+   "en": "Dubois\",\"François Clément Théodore(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不灵敏核极化转移增益法",
+   "en": "INEPT （=insensitive nucleus enhance-ment by polarization transfer）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "薄荷醇",
+   "en": "menthol",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "突起",
+   "en": "enation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "张力",
+   "en": "tension",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组",
+   "en": "section",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "张力",
+   "en": "tension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "薄荷醇",
+   "en": "menthol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "张力",
+   "en": "tension",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "薄荷醇",
+   "en": "menthol",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "节",
+   "en": "section",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "派",
+   "en": "section",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "段",
+   "en": "section",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "颏后点，颏棘点",
+   "en": "genion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏棘点（=颏后点）",
+   "en": "genion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "运动",
+   "en": "motion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "运动",
+   "en": "motion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "切片",
+   "en": "section\",\"section cutting\",\"sectioning",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "横切面",
+   "en": "cross section\",\"transverse section",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区段裁判员",
+   "en": "section judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网绳",
+   "en": "tension cord",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运动检测",
+   "en": "motion detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反者道之动",
+   "en": "The Only Motion Is Returning.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情教",
+   "en": "Moral Instruction Carried Out with Emotion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国（上海）自由贸易试验区临港新片区",
+   "en": "Lingang section of Shanghai Pilot Free Trade Zone",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "音情顿挫",
+   "en": "Achieving Rhythm of Speech and Emotion and Cadence of Speech",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体感知外界事物后所产生的一种体验。包括正向体验如愉快、兴奋、满足和自豪等，负向体验如恐惧、抑郁、焦虑和紧张等。"
+  },
+  {
+   "cn": "运动",
+   "en": "motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0021",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质的存在方式及其固有属性，包括一切物质形态的一切变化，从简单的位置变动到复杂的人类思维，都是运动形式。运动与物质不可分割，没有不运动的物质，也没有离开物质的运动。运动是永恒的、绝对的。物质运动的源泉"
+  },
+  {
+   "cn": "会同馆",
+   "en": "Huitong Mansion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0253",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "元、明、清三朝主管接待边疆少数民族及外国使臣的机构。初设于元至元九年（1272）。乾隆十三年（1748），将四译馆并入，更名为“会同四译馆”，由礼部管辖。"
+  },
+  {
+   "cn": "退休费",
+   "en": "pension expense",
+   "source": "社会学名词",
+   "wordNumber": "3.15.8.4",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障",
+   "subjectName": "老年社会保障",
+   "publishYear": "2025",
+   "definition": "职工退休后，根据国家退休制度规定，以货币形式领取的生活费用。"
+  },
+  {
+   "cn": "伤残抚恤",
+   "en": "disability pension",
+   "source": "社会学名词",
+   "wordNumber": "4.3.11.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会优抚",
+   "subjectName": "社会优抚",
+   "publishYear": "2025",
+   "definition": "国家或政府依法对伤残军人及其家属提供保障其基本生活的现金或服务的社会优抚项目。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "消极情绪",
+   "en": "negative emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不能使人感到满足，使人与人之间的关系趋于紧张的情绪状态。如恐惧、痛苦、愤怒、忧虑等。"
+  },
+  {
+   "cn": "初级情绪",
+   "en": "primary emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "在出生后第1年的早期出现的情绪。如快乐、厌恶、惊奇、悲伤、愤怒、恐惧。"
+  },
+  {
+   "cn": "次级情绪",
+   "en": "secondary emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "2岁时出现的自我意识和自我评价的情绪。与认知发展有关，如尴尬、害羞、内疚、嫉妒和骄傲。"
+  },
+  {
+   "cn": "剖宫产术",
+   "en": "cesarean section",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.17.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经腹部和子宫切口娩出胎儿的一种外科手术方式。按手术时机分为择期剖宫产和急诊剖宫产两种。"
+  },
+  {
+   "cn": "道德情感",
+   "en": "moral emotion",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.016",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们基于一定的道德认识，对道德行为产生的爱憎或好恶的内心感受。对符合道德准则的行为感到满意、愉快、光荣，对不符合道德准则的行为感到义愤、内疚、羞耻。"
+  },
+  {
+   "cn": "绝对运动",
+   "en": "absolute motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0024",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "运动是物质的固有属性和根本存在方式，运动是普遍的、永恒的、无条件的，因而是绝对的。世界是永恒运动着的物质世界。"
+  },
+  {
+   "cn": "相对运动",
+   "en": "relative motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0025",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物体对特定参考系而言的相对位置的连续变动，运动是绝对的；但从不同的参考系观察运动的情况是不一样的。"
+  },
+  {
+   "cn": "反应截面",
+   "en": "reaction cross section",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.35",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "入射粒子和靶核之间发生特定核反应的概率。"
+  },
+  {
+   "cn": "四分体系",
+   "en": "four-section system",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "在部落社会两半族间平代通婚的基本制度（被称为“二分法”）的基础上，再加代际区分后所构成的四个类别。是对二分法更加精致的表述形式。以亲属制度为择偶规范，其中包含一整套类别间通婚和继嗣规则。"
+  },
+  {
+   "cn": "八分体系",
+   "en": "eight-section system",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "在四分法原有区分基础上再加一层亚半族区分（半族、亚半族和代别），由此构成部落社会外婚规则的八个类别，其中包含一整套类别间通婚和继嗣规则。用以协调和指导部落内半族和亚半族间的平代通婚。"
+  },
+  {
+   "cn": "剖宫产率",
+   "en": "cesarean section rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区采用剖宫产手术分娩的活产数，与同期当地活产数之比。"
+  },
+  {
+   "cn": "紧急剖宫产",
+   "en": "emergency cesarean section",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.10",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "产妇在发生先兆临产前、后进行的计划外剖宫产术，是快速终止妊娠、挽救孕产妇和胎儿生命的有效手段。"
+  },
+  {
+   "cn": "经前期紧张综合征",
+   "en": "premenstrual tension syndrome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女精神障碍",
+   "subjectName": "妇女精神障碍",
+   "publishYear": "2025",
+   "definition": "一种影响女性的常见的特发性综合征，特征是发生在月经周期黄体期的某些环境、代谢或行为因素，导致周期性的情绪、身体或行为症状，干扰个体生活方式。"
+  },
+  {
+   "cn": "航天运动病",
+   "en": "space motion sickness",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.3",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "航天员在太空飞行初期可能发生的眩晕、恶心、呕吐等类似于地面运动病的症状。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

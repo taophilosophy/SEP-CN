@@ -1,0 +1,422 @@
+{
+ "key": "prior plausibilities",
+ "term": "prior plausibilities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:16:36+00:00",
+ "status": "ok",
+ "note": "variant=prior plausibilities; 审定公布名词库=59; 海峡两岸名词对照库=19; 其他来源数据库=1; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "似真推理",
+   "en": "plausible inference",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.255",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于不确定的信念的推理理论。用信念测度（而非古典逻辑的真与假）来建立科学工作中诸如相反证据所导致的不确定信念的推理模式和形式模型。"
+  },
+  {
+   "cn": "似然推理",
+   "en": "plausible inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.045",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "根据模糊输入和模糊规则，按照确定好的推理方法进行推理，得到模糊输出量的过程。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "动物学名词",
+   "wordNumber": "2.0203",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "根据以往经验和分析得到的概率。"
+  },
+  {
+   "cn": "先验估计",
+   "en": "prior estimation",
+   "source": "物理学名词",
+   "wordNumber": "01.0112",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "先验信息",
+   "en": "prior information",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0208",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在决策分析中，尚未通过试验收集状态信息时所具有的信息。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0188",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在试验进行以前，根据已经知道的，试验结果的各种“原因”所发生的概率。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "语言学名词",
+   "wordNumber": "11.156",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "根据训练集样本直接得出的概率。是后验概率的基础。"
+  },
+  {
+   "cn": "前概率",
+   "en": "prior probability",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.448",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "预估值",
+   "en": "prior estimate",
+   "source": "化学工程名词",
+   "wordNumber": "05.224",
+   "subjectFullName": "化学工程_过程系统工程_过程操作",
+   "subjectName": "过程操作",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "数学名词",
+   "wordNumber": "09.0047",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "先验分布",
+   "en": "prior distribution",
+   "source": "数学名词",
+   "wordNumber": "09.0532",
+   "subjectFullName": "数学_概率论_数理统计_统计决策论",
+   "subjectName": "统计决策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "预防制",
+   "en": "prior restraint system",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.047",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻从业者的权利_义务与责任",
+   "subjectName": "义务与责任",
+   "publishYear": "2022",
+   "definition": "出版物在出版之前，受政府有关部门的检查、批准、登记或履行其他法定手续，而且不排除事后追惩的制度。"
+  },
+  {
+   "cn": "广义先验分布",
+   "en": "generalized prior distribution",
+   "source": "数学名词",
+   "wordNumber": "09.0536",
+   "subjectFullName": "数学_概率论_数理统计_统计决策论",
+   "subjectName": "统计决策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "τ前σ域",
+   "en": "σ-field prior to τ,sigma-field prior to τ",
+   "source": "数学名词",
+   "wordNumber": "09.0213",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原始粉末颗粒边界",
+   "en": "prior particle boundary,PPB",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0848",
+   "subjectFullName": "材料科学技术_金属材料_特殊用途金属材料_高温合金",
+   "subjectName": "高温合金",
+   "publishYear": "2011",
+   "definition": "在粉末高温合金材料中出现的、保留原始粉末颗粒边界某些特征的显微组织。"
+  },
+  {
+   "cn": "使用前大纲",
+   "en": "prior-to-service program",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.091",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "在新航空器投入使用之前，为其制定的各项预定维修工作和工作周期。"
+  },
+  {
+   "cn": "最不利先验分布",
+   "en": "least favorable prior distribution",
+   "source": "数学名词",
+   "wordNumber": "09.0533",
+   "subjectFullName": "数学_概率论_数理统计_统计决策论",
+   "subjectName": "统计决策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无信息先验分布",
+   "en": "non-informative prior distribution",
+   "source": "数学名词",
+   "wordNumber": "09.0534",
+   "subjectFullName": "数学_概率论_数理统计_统计决策论",
+   "subjectName": "统计决策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "严格τ前σ域",
+   "en": "σ-field strictly prior to τ,sigma- -field strictly prior to τ",
+   "source": "数学名词",
+   "wordNumber": "09.0214",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对先前学习的认可",
+   "en": "recognition of prior learning,RPL,accreditation of prior learning,APL",
+   "source": "教育学名词",
+   "wordNumber": "11.177",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "承认某人通过先前的学习、工作及生活经验获得的知识和技能，并将其转化为某学科或培训模块相应学分的做法。"
+  },
+  {
+   "cn": "似真推理",
+   "en": "plausible reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "似真性排序",
+   "en": "plausibility ordering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先留置权",
+   "en": "prior lien",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先索赔权",
+   "en": "prior claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先债权",
+   "en": "prior charge",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率,前概率",
+   "en": "prior probability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "预交进口保证金",
+   "en": "prior import deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预先颁发许可证制度",
+   "en": "prior licensing system",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "原始粉末颗粒边界",
+   "en": "prior particle boundary\",\"PPB",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "先入律",
+   "en": "law of prior entry",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有权先售的发盘",
+   "en": "offer subject to prior sale",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "朊病毒，普里昂",
+   "en": "prion",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "朊病毒, 普里昂",
+   "en": "prion",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "priori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "事前比较",
+   "en": "priori comparison",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "普里昂,朊病毒,蛋白感染粒",
+   "en": "prion\",\"proteinaceous infectious particle",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "蛋白感染粒，朊病毒，普里昂",
+   "en": "prion\",\"proteinaceous infectious particle",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "先验中误差",
+   "en": "a priori mean square error",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "前次剖宫产",
+   "en": "prior cesarean delivery",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.7.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在本次妊娠前有子宫切开的分娩经历。"
+  },
+  {
+   "cn": "朊病毒",
+   "en": "prion",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.122",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "主要由不含核酸的、高度抵抗理化灭活的传染性蛋白质PrPSc 组成。可引起人或动物致死性神经系统退行性病变。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,742 @@
+{
+ "key": "software-intensive science",
+ "term": "software-intensive science",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:33:37+00:00",
+ "status": "ok",
+ "note": "variant=software-intensive science; 审定公布名词库=1421; 海峡两岸名词对照库=353; 其他来源数据库=121; 预公布名词数据库=78; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "软件",
+   "en": "software",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.040",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "用于控制计算机运算过程的程序。包括管理程序、数据采集程序、数据处理程序及显示程序等。"
+  },
+  {
+   "cn": "软件",
+   "en": "software",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0004",
+   "subjectFullName": "计算机科学技术_通论_计算机系统组成",
+   "subjectName": "计算机系统组成",
+   "publishYear": "2018",
+   "definition": "计算机系统包含的各种程序及其文档。软件通常较易改动。"
+  },
+  {
+   "cn": "集约度",
+   "en": "intensity",
+   "source": "农学名词",
+   "wordNumber": "19.214",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "单位生产面积上所投入的生产要素数量。该值越高，则集约度越高；反之越低。"
+  },
+  {
+   "cn": "光强",
+   "en": "intensity",
+   "source": "光学名词",
+   "wordNumber": "01.161",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述发光体(或反射体)/接收体的发射(或反射)/接收光能量特性的物理量。数值为在给定方向上单位面积、单位立体角内所发射(或反射)/接收的光能量，单位是坎德拉/米²(cd/m²)或尼特(nit)。"
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0030",
+   "subjectFullName": "机械工程（一）_机械强度_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "(1)零件承受载荷后抵抗发生断裂或超过容许限度的残余变形的能力。(2)阻止失效发生的任何因素。"
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "心理学名词",
+   "wordNumber": "02.178",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "光、声、电流等的强弱。"
+  },
+  {
+   "cn": "亮度",
+   "en": "intensity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.349",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "色彩的明亮程度，即色彩对光照的反射程度。"
+  },
+  {
+   "cn": "音强",
+   "en": "intensity",
+   "source": "语言学名词",
+   "wordNumber": "03.187",
+   "subjectFullName": "语言学_语音学_声学语音学",
+   "subjectName": "声学语音学",
+   "publishYear": "2011",
+   "definition": "语音的强弱。主要取决于发音时声门下压力的大小，也跟声腔共鸣特性有关。"
+  },
+  {
+   "cn": "地震烈度",
+   "en": "intensity;earthquake intensity;seismic intensity",
+   "source": "地质学名词",
+   "wordNumber": "11.02.036",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "地震时某一地区的地面遭受影响的强弱程度。是地震破坏作用大小的一种量度，受地震破坏越大的地区，地震烈度越高。一个地区地震烈度的大小与震源深度、震中距、方位角、地质构造以及土壤性质等许多因素有关。"
+  },
+  {
+   "cn": "软件错误",
+   "en": "software error,software bug",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0523",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一个通用的术语，用于表达造成不正确或者非预期结果和行为的软件故障（fault）、漏洞（flaw）和失效（failure）等。"
+  },
+  {
+   "cn": "可信软件",
+   "en": "dependable software,trustworthy software",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0009",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "其可信性能够符合用户期望的软件。即在特定应用环境中，其实际服务质量能够满足用户主观所期望服务质量的软件。"
+  },
+  {
+   "cn": "软件可信性",
+   "en": "software trustworthiness,software dependability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0488",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "用户基于对软件的观察而获得的一种主观感受，反映软件实际行为对用户主观期望的满足程度。可信性也是一种软件质量属性，关注软件产品用于特定使用环境和条件时实际服务质量及其综合。"
+  },
+  {
+   "cn": "发光强度",
+   "en": "luminescence intensity,luminous intensity",
+   "source": "光学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "表示光源在一定方向范围内发出的可见光辐射强度的物理量。单位为坎德拉(cd)。"
+  },
+  {
+   "cn": "火[线]强度",
+   "en": "fire intensity,fireline intensity",
+   "source": "林学名词",
+   "wordNumber": "07.299",
+   "subjectFullName": "林学_森林保护_森林防火",
+   "subjectName": "森林防火",
+   "publishYear": "2016",
+   "definition": "在单位时间内、单位火线长度释放的热量。目前一般采用美国人拜拉姆(Byram)提出的火线强度，计算公式：<img src='/root/syzx/static/spz/linxue2.07.299.1."
+  },
+  {
+   "cn": "辐射强度",
+   "en": "radiation intensity,radiant intensity",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0381",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋物理学",
+   "subjectName": "海洋物理学",
+   "publishYear": "2007",
+   "definition": "在给定方向的立体角元内，单位立体角离开点辐射源的辐射功率。"
+  },
+  {
+   "cn": "基本烈度",
+   "en": "basic intensity,zoning intensity",
+   "source": "土木工程名词",
+   "wordNumber": "16.011",
+   "subjectFullName": "土木工程_地震工程与防震工程",
+   "subjectName": "地震工程与防震工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地震烈度",
+   "en": "earthquake intensity,seismic intensity",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "组态软件",
+   "en": "configuration software",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.223",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "一种数据采集与过程控制的专用软件。是通过灵活的组态方式，为用户提供快速构建工业自动控制系统监控功能的、通用层次的软件工具。"
+  },
+  {
+   "cn": "软件工程",
+   "en": "software engineering",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.263",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "研究用工程化方法构建和维护有效、实用及高质量软件的一门学科。涉及程序设计语言、数据库、软件开发工具、系统平台、标准、设计模式等方面。"
+  },
+  {
+   "cn": "软件工具",
+   "en": "software tool",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.266",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "（1）为支持计算机软件的开发、维护、模拟、移植或管理而研制的程序系统。（2）独立运行且规模相对较小的应用程序。"
+  },
+  {
+   "cn": "软件",
+   "en": "software",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "软件",
+   "en": "software",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软件",
+   "en": "software",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "软件",
+   "en": "software",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集约的",
+   "en": "intensive",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意向",
+   "en": "intension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "光亮度",
+   "en": "intensity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光强度",
+   "en": "light intensity\",\"luminous intensity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "辐射强度",
+   "en": "radiation intensity\",\"radiant intensity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "软件包",
+   "en": "package software",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模块化软件",
+   "en": "modular software",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "软件包",
+   "en": "software package",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "软件工程",
+   "en": "software engineering",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形软件",
+   "en": "graphics software",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用软件",
+   "en": "application software",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "用户软件",
+   "en": "customer software",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图制图软件",
+   "en": "cartographic software",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "恶意软件",
+   "en": "malicious software",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据密集型科学",
+   "en": "Data-Intensive Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机软件",
+   "en": "Computer Software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件工程",
+   "en": "software engineering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件生命周期",
+   "en": "software lifecycle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件测试",
+   "en": "software testing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件维护",
+   "en": "software maintenance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件系统",
+   "en": "software system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Wireshark软件",
+   "en": "Wireshark software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Sniffer软件",
+   "en": "Sniffer software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "嵌入式软件",
+   "en": "embedded software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件闭锁",
+   "en": "software hoarding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流氓软件",
+   "en": "rogue software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精耕农业",
+   "en": "intensive farming",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.017",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在一定面积的土地上，投入较多的生产资料、劳动和技术，进行细致的土地耕作方式，最大限度提高单位面积产量，充分发挥土地潜力的农业经营方式。"
+  },
+  {
+   "cn": "紫外线强度",
+   "en": "ultraviolet intensity",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.8",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "单位时间内与紫外线传播方向垂直的单位面积上接收到的紫外线能量。单位以微瓦每平方厘米（μW/cm2）、瓦每平方米（W/m2）表示。"
+  },
+  {
+   "cn": "劳动强度",
+   "en": "labor intensity",
+   "source": "马克思主义",
+   "wordNumber": "02.0138",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工作日的长度表示劳动力支出的外延的量，而劳动强度则表示其内含的量。它是一定时间内所进行的劳动的密度，反映单位劳动时间内实际耗费的劳动的数量指标。"
+  },
+  {
+   "cn": "运动强度",
+   "en": "exercise intensity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "反映机体在运动过程中用力的大小和机体紧张度的一个指标。是决定运动量的主要因素，是运动处方的核心部分。"
+  },
+  {
+   "cn": "危险强度",
+   "en": "risk intensity",
+   "source": "社会医学名词",
+   "wordNumber": "7.4.1",
+   "subjectFullName": "健康管理",
+   "subjectName": "群体健康评价",
+   "publishYear": "2025",
+   "definition": "计算某一单项危险因素去除后，人群增长年龄与评价年龄之差的平均数，反映了某一危险因素对人群健康影响的严重程度。"
+  },
+  {
+   "cn": "文化强度",
+   "en": "culture intensity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0549",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家克罗伯（Alfred L. Kroeber）提出的概念。它指的是文化达到并维持文化水平的程度，强度较大的文化是那些文化特征清楚、制度和关系明确的文化。一种文化的高峰是该文化区内的中心，这个"
+  },
+  {
+   "cn": "强光照射试验",
+   "en": "intense light test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "测定消毒剂经规定光照条件后稳定性的试验。一般新有效成分消毒剂应进行此项试验。"
+  },
+  {
+   "cn": "科学学",
+   "en": "science of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "20世纪30、40年代兴起的一门以科学本身为研究对象的跨学科研究，目的在于认识科学的性质特点、关系结构、运动规律和社会功能，并在认识的基础上研究促进科学发展的一般原理、原则和方法。"
+  },
+  {
+   "cn": "紫外线强度指示卡",
+   "en": "ultraviolet intensity indicator card",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.9",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "现场监测紫外线强度的由卡片纸、紫外线感光色块和标准色组成的化学指示物。在紫外线照射下，指示卡上的特殊材料会发生化学反应，产生颜色变化，颜色的深浅程度与紫外线辐照的总剂量具有强相关性。"
+  },
+  {
+   "cn": "低强度身体活动",
+   "en": "low-intensity physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "相当于1.5～4个代谢当量，即能量消耗为个体静态能量消耗1.5～4倍的活动，包括步行、洗澡、洗碗、熨衣服、做饭等和伏案工作等。"
+  },
+  {
+   "cn": "中等强度身体活动",
+   "en": "moderate-intensity physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "代谢当量在3～6左右的体力活动，包括快速健步走、骑自行车、打球、游泳、跳舞、扫地、拖地、搬运和割草等。"
+  },
+  {
+   "cn": "高强度身体活动",
+   "en": "vigorous-intensity physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "代谢当量大于等于6的体力活动，包括非常快速的健步走、在陡峭的路上徒步旅行、慢跑、铲沙、搬重物、做农活、铲土、挖沟等。"
+  },
+  {
+   "cn": "高强度间歇运动",
+   "en": "high intensity interval training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.11",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "一种多次短时间的高强度运动与以低强度运动或休息形式形成的间歇期交替进行的运动训练方式。"
+  },
+  {
+   "cn": "中等强度持续运动",
+   "en": "moderate intensity continuous training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.12",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "40-59%储备心率、46-63%最大摄氧量或64-76%最大心率的运动强度下进行的长时间持续运动。是有氧运动的一种。"
+  },
+  {
+   "cn": "军事体力劳动强度",
+   "en": "military physical labor intensity",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.4",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军人在军事活动中的体力消耗及体力劳动紧张的程度。能量消耗、最大耗氧量、心率、肺通气量是评价体力劳动强度的重要指标。"
+  },
+  {
+   "cn": "劳动强度分级",
+   "en": "grading of labor intensity",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.5.6",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "根据劳动时间、耗能值等情况对劳动强度进行区分的过程。可以认定为轻劳动、中等强度、重强度等劳动强度。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "用科学的方法，研究人类社会种种现象或事物的构成、本质及其变化规律的学科总和。"
+  },
+  {
+   "cn": "科学伦理学",
+   "en": "ethicsof science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从伦理学角度考察科学的一门学科。主要研究科学技术活动领域道德规范之形成和变化规律，分析科学技术与社会道德的相互关系和相互作用，跨越科学学和伦理学，处于哲学、科学社会学、伦理学、科学心理学、科学经济学和"
+  },
+  {
+   "cn": "大科学",
+   "en": "big science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要指具有投资强度大、多学科交叉、研究目标宏大、需要昂贵且复杂的实验设备等特征的规模比较大的科学研究，既包括巨额投资的“工程式”研究，也包括跨学科合作的大规模、大尺度的前沿性科学研究项目。"
+  },
+  {
+   "cn": "小科学",
+   "en": "little science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要以科学家个人或科学小团体的兴趣为主，凭借个人或小团体努力来追求科学真理的科学研究，这种研究往往集中在某个学科内部，是比较典型的传统的科学研究模式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,32 @@
+{
+ "key": "physicalist",
+ "term": "physicalist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:34:08+00:00",
+ "status": "ok",
+ "note": "variant=physicalist; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "医学物理师",
+   "en": "medical physicist",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.117",
+   "subjectFullName": "医学影像技术学_X射线防护_常用的辐射量及其单位",
+   "subjectName": "常用的辐射量及其单位",
+   "publishYear": "2020",
+   "definition": "接受过医学应用物理概念、技术教育和专门培训，在医学物理的至少一个分支领域内能独立开展工作的专业人员。其能力通常是按正式的机制由国家对其进行评估，包括登记、委任认证或不同专业（如放射诊断、放射治疗、核医"
+  },
+  {
+   "cn": "医学物理师",
+   "en": "medical physicist",
+   "source": "放射医学与防护名词",
+   "wordNumber": "06.012",
+   "subjectFullName": "放射医学与防护_医用放射防护_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "接受过医学应用物理概念、技术的教育和专门培训，在医学物理的至少一个分支领域内能独立开展工作的专业人员。他们的能力通常是按正式的机制由国家对其进行评估，包括登记、委任认证或不同专业(例如，诊断放射学、放"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,732 @@
+{
+ "key": "neural correlates of consciousness",
+ "term": "neural correlates of consciousness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:40:36+00:00",
+ "status": "ok",
+ "note": "variant=neural correlates of consciousness; 审定公布名词库=10000; 海峡两岸名词对照库=8043; 其他来源数据库=1905; 预公布名词数据库=2817; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "意识的神经相关集合",
+   "en": "neural correlate of consciousness,NCC",
+   "source": "生物物理学名词",
+   "wordNumber": "07.134",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "足以产生某个特定知觉或体验所需要的神经机制或事件的最小集合。"
+  },
+  {
+   "cn": "联系数",
+   "en": "correlate",
+   "source": "测绘学名词",
+   "wordNumber": "02.386",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "条件平差中为求条件极值而引入的一系列不定乘数。"
+  },
+  {
+   "cn": "相关器",
+   "en": "correlator",
+   "source": "石油名词",
+   "wordNumber": "03.0575",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "关联",
+   "en": "correlation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0005",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "对测得的多组实验数据，代入根据某种经验模型或理论模型所建立的数学方程式中，以确定模型中的未知参数的方法。"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "化学名词",
+   "wordNumber": "04.1438",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "由于体系中组成的粒子之间存在相互作用，所以在不同空间位置的粒子的几种性质之间存在相互联系；同样，同一粒子在不同时间前后的几种性质之间也可以存在相互联系，这些都称之为相关。前者称为空间相关，后者为时间相"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "心理学名词",
+   "wordNumber": "03.122",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "变量间相互关系的测度。"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.134",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "分析两个对称或“平等”的指标之间关联程度的方法。侧重定性分析变量间的伴随关 系。"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "大气科学名词",
+   "wordNumber": "07.209",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "指两个不同气象要素或同一气象要素在不同时间和空间的相互关联。"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "遗传学名词",
+   "wordNumber": "06.232",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "用相关系数来计量的两个或几个随机变量协同变化的程度。当变量间呈现同一方向的变化趋势时称为正相关，反之则称为负相关。"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "地理学名词",
+   "wordNumber": "25.089",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "存在于两个或两个以上变量的统计联系。"
+  },
+  {
+   "cn": "关联",
+   "en": "correlation",
+   "source": "化学工程名词",
+   "wordNumber": "07.005",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "对射变换",
+   "en": "correlation",
+   "source": "数学名词",
+   "wordNumber": "08.0362",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural net,neural network",
+   "source": "电子学名词",
+   "wordNumber": "03.449",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "相关性原理",
+   "en": "principle of correlation",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0366",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "某一事物及其周围的其他事物的发展相互联系、相互影响、相互作用、相互制约的规律。"
+  },
+  {
+   "cn": "相关系数",
+   "en": "coefficient of correlation",
+   "source": "心理学名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "用来反映变量之间相关关系密切程度和方向的统计指标。"
+  },
+  {
+   "cn": "相关系数",
+   "en": "coefficient of correlation",
+   "source": "遗传学名词",
+   "wordNumber": "06.233",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "度量两个随机变量间关联程度的量。相关系数的取值范围为(-1，+1)。当相关系数小于0时，称为负相关；大于0时，称为正相关；等于0时，称为零相关。"
+  },
+  {
+   "cn": "意识障碍",
+   "en": "disturbance of consciousness,consciousness disorder",
+   "source": "精神医学名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "精神医学_症状与体征_意识障碍症状",
+   "subjectName": "意识障碍症状",
+   "publishYear": "2019",
+   "definition": "对周围环境及自身处境的觉察能力出现紊乱，乃至完全丧失觉察能力的精神病理状态。按意识不清由轻到重的程度可分为嗜睡(能唤醒)、意识混浊、昏睡(不能唤醒)和昏迷等；按内容异常可分为梦样状态、朦胧状态和谵妄等"
+  },
+  {
+   "cn": "意识障碍",
+   "en": "disturbance of consciousness;consciousness disorder",
+   "source": "麻醉学名词",
+   "wordNumber": "01.292",
+   "subjectFullName": "麻醉学_麻醉学基础_神经系统_意识和认知功能",
+   "subjectName": "意识和认知功能",
+   "publishYear": "2024",
+   "definition": "对周围环境及自身处境的觉察能力出现紊乱，乃至完全丧失觉察能力的精神病理状态。按意识障碍由轻到重的程度可分为嗜睡（能唤醒）、意识混浊、昏睡（不能唤醒）和昏迷等。"
+  },
+  {
+   "cn": "应激神经机制",
+   "en": "neural mechanism of stress",
+   "source": "行为医学名词",
+   "wordNumber": "10.044",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "应激状态下，中枢神经接收、加工和整合应激信息，通过下丘脑-垂体-肾上腺皮质轴系统，调控机体出现的非特异性反应过程。"
+  },
+  {
+   "cn": "神经纤维脂肪瘤",
+   "en": "neural fibrolipoma",
+   "source": "神经外科学名词",
+   "wordNumber": "6.233",
+   "subjectFullName": "医学_神经外科学_中枢神经系统肿瘤",
+   "subjectName": "中枢神经系统肿瘤",
+   "publishYear": "2026",
+   "definition": "一种由神经外膜、脂肪和纤维组织过度增生引起的肿瘤。多发生于掌、腕和前臂屈侧。也可发生于足部，颅内少见。好发于儿童和青年人。"
+  },
+  {
+   "cn": "相关系数",
+   "en": "coefficient of correlation\",\"correlation coefficient",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "联系数",
+   "en": "correlate",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "相关器",
+   "en": "correlator",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "关联",
+   "en": "correlation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "相关，相关性",
+   "en": "correlation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "神经管",
+   "en": "neural tube\",\"neural canal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经嵴",
+   "en": "neural crest\",\"neural ridge",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural net\",\"neural network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经褶",
+   "en": "neural fold\",\"neural ridge",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "联系数法",
+   "en": "method of correlates",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "相关系数",
+   "en": "coefficient of correlation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相关系数",
+   "en": "coefficient of correlation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "神经板",
+   "en": "neural plate",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经沟",
+   "en": "neural groove",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经计算",
+   "en": "neural computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经微电路",
+   "en": "neural microcircuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "相关分析",
+   "en": "correlation analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "相关系数",
+   "en": "correlation coefficient",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络芯片",
+   "en": "neural network chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络算法",
+   "en": "neural network algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络学习",
+   "en": "neural network learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模糊神经网络",
+   "en": "fuzzy neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "霍普菲尔德神经网络",
+   "en": "Hopfield neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自适应神经网络",
+   "en": "adaptive neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反向传播神经网络",
+   "en": "backpropagation neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个定距或定比尺度变量的统计关联。"
+  },
+  {
+   "cn": "对象意识",
+   "en": "consciousness of object",
+   "source": "马克思主义",
+   "wordNumber": "01.0130",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人以主体之外的客体世界为对象的意识，是主体关于对象世界的状态、属性、结构、规律等的认知和把握。对象意识不是与主体无关的意识，恰恰相反，它是主客体相互作用的产物，总是存在于主体大脑中，为主体自我所意识。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "马克思主义",
+   "wordNumber": "01.0011",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质世界长期发展的产物，是人脑的机能，是物质世界在人脑中的主观映像。意识也是社会的产物。意识由物质决定，又具有相对独立性和能动性，能够能动地反映和改造世界。"
+  },
+  {
+   "cn": "虚假相关",
+   "en": "spurious correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.28",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "不存在因果关联的两个或多个变量间的相关关系。"
+  },
+  {
+   "cn": "半偏相关",
+   "en": "semipartial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.73",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以量度一个受到其他预测变量控制的被调节的自变量对因变量的关系的统计量。"
+  },
+  {
+   "cn": "双列相关",
+   "en": "biserial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.74",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以估计一个人为的两分变量和一个连续变量的关联强度的相关指标。"
+  },
+  {
+   "cn": "多元相关",
+   "en": "multiple correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在多元线性回归中，反映多于两个变量的变量间的线性关系的量度。用多元判定系数r2表示。"
+  },
+  {
+   "cn": "偏相关",
+   "en": "partial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.77",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在多元线性回归中，用以表示当其他自变量保持恒定，某一自变量与因变量之间的相关关系。"
+  },
+  {
+   "cn": "序列相关",
+   "en": "serial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.155",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个时间序列过程的接续的值有非零的协方差时的相关关系。"
+  },
+  {
+   "cn": "关联性分析",
+   "en": "correlation analysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.22.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "用于评估两个或多个变量之间关系的强度和方向的一种统计方法。相关系数范围为-1 到1。"
+  },
+  {
+   "cn": "相关性评价",
+   "en": "correlation evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.34",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价数据和/或试验对于特定危害识别或风险评估的适合程度，主要考虑暴露相关性、生物学相关性、效应相关性以及人类相关性四大要素，从而评价毒理学数据是否与特定目的的食品安全风险评估有关的过程。"
+  },
+  {
+   "cn": "神经管缺陷患病率",
+   "en": "prevalence of neural tube defects",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.5.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某年某地区检出神经管缺陷的围产儿数，与同期该地区围产儿数之比。围产儿数包括孕28周至产后7天正常和缺陷的活产、死胎和死产数。"
+  },
+  {
+   "cn": "道德意识现象",
+   "en": "phenomenon of moral consciousness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.013",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德活动中形成并影响道德活动的具有善恶价值的社会心理和个人心理，以及各种道德思想、观点和理论体系。"
+  },
+  {
+   "cn": "性意识发展",
+   "en": "development of sex consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "青少年性认识及性反应的发展，是形成性意识和性别意识的阶段。"
+  },
+  {
+   "cn": "文化自觉",
+   "en": "cultural consciousness",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.45",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "生活在一定文化中的人对其文化有“自知之明”，明白其来历、形成过程、所具有的特色和发展趋势的状态。这个文化自觉的历程概括起来即“各美其美，美人之美，美美与共，和而不同”。 费孝通晚年针对不同文化如何相互"
+  },
+  {
+   "cn": "社会意识",
+   "en": "social consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "人们在社会互动和心灵交往中形成的、对社会存在（即社会物质生活及其过程）的总体反映。人类社会生活的精神方面总和。包括各种社会意识形式和社会心理。历史唯物主义最基本的范畴之一。也是社会理论的重要范畴。"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "某一阶级（主要是指无产阶级或工人阶级）认识到其共同的阶级利益并为追求其阶级利益而采取阶级行动，是马克思阶级理论的一个重要概念。"
+  },
+  {
+   "cn": "性别意识",
+   "en": "gender consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "儿童伴随整个成长过程形成的关于自身性别的自我意识以及性别观念上的认知和预期，也指成人对于性别的自我认知和敏感度。在女性主义看来，也可以是人们对于社会性别概念的认识和理解。"
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们关于法和法律现象的观点和态度。"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同但又有所关联的含义：一是指个体对自己身心活动的觉察，指向内在的心理过程、不为人知的私密性特征或经验以及能够为人所观察、知晓的公开性特征或经验；二是指个体在特定社会情境下过于从他人角度关注自我"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

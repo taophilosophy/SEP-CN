@@ -1,0 +1,712 @@
+{
+ "key": "productivity",
+ "term": "productivity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:29:55+00:00",
+ "status": "ok",
+ "note": "variant=productivity; 审定公布名词库=1846; 海峡两岸名词对照库=382; 其他来源数据库=85; 预公布名词数据库=245; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "生产力",
+   "en": "productivity ",
+   "source": "草学名词",
+   "wordNumber": "2.0437",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity",
+   "source": "经济学名词",
+   "wordNumber": "02.003",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "生产主体利用生产工具对劳动对象进行加工的能力。表现为人与自然界之间的关系，或者人类征服和改造自然的物质力量。"
+  },
+  {
+   "cn": "生产率",
+   "en": "productivity",
+   "source": "经济学名词",
+   "wordNumber": "04.121",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "对一个国家、行业、商业单位使用其资源（或生产要素）的效率的一种常用衡量标准，等于产出与投入比率。如果相同数量的投入生产了更多的产出，则生产率就增长了。"
+  },
+  {
+   "cn": "生产率",
+   "en": "productivity",
+   "source": "冶金学名词",
+   "wordNumber": "01.0066",
+   "subjectFullName": "冶金学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "生产设备在生产过程中的效率。通常指单位时间内的产量。"
+  },
+  {
+   "cn": "生产率",
+   "en": "productivity",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0019",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "产出与投入的比率。"
+  },
+  {
+   "cn": "生产率",
+   "en": "productivity",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "09.069",
+   "subjectFullName": "机械工程_拖拉机_整机_整机性能及参数",
+   "subjectName": "整机性能及参数",
+   "publishYear": "2013",
+   "definition": "单位时间内拖拉机或机组完成的作业量。"
+  },
+  {
+   "cn": "能产性",
+   "en": "productivity",
+   "source": "语言学名词",
+   "wordNumber": "01.105",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "①语言使用者能够使用并且理解无穷多的句子的创造性能力。是人类语言区别于其他动物交际系统的一个显著特征。②某一成分或模式造词、造句或构形多少（有时指多）的性能。与之相区别的有“非能产性”“半能产性”。"
+  },
+  {
+   "cn": "生产量",
+   "en": "production",
+   "source": "动物学名词",
+   "wordNumber": "7.0544",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "一定时间内某个种群或生态系统新生产出的有机体的数量、重量或能量。通常以P表示。"
+  },
+  {
+   "cn": "产品",
+   "en": "product",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.001",
+   "subjectFullName": "化工（五）_研发与工程化_研发项目管理",
+   "subjectName": "研发项目管理",
+   "publishYear": "2021",
+   "definition": "生产出来的可提供给市场的符合一定要求的物品。"
+  },
+  {
+   "cn": "产品",
+   "en": "product",
+   "source": "经济学名词",
+   "wordNumber": "01.005",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "人们有目的的生产劳动创造的能满足人们某种需要的物品。包括生产资料和消费资料。"
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "经济学名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "人们通过改造自然，创造物质资料的过程。生产在任何社会条件下都是社会的生产，包括生产力和生产关系两个方面，生产同分配、交换、消费共同构成社会生产总过程。生产的社会性质因生产资料所有制的不同而不同。"
+  },
+  {
+   "cn": "产生式",
+   "en": "production",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0541",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "文法的核心成分，是一个二元组(α, β)（通常写成α→β），其中α和β是由变量和终极符组成的串，且α中必须含有变量。文法推导时，若句型中有一个子串α，那么可以用β替换这个子串。"
+  },
+  {
+   "cn": "产品",
+   "en": "product",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0009",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "可提供给一个市场以供关注、获取、使用或消费，从而满足一定需要的事物。"
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0001",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "将原材料、能源和信息等各种输入转化为有形产品的过程。"
+  },
+  {
+   "cn": "积",
+   "en": "product",
+   "source": "数学名词",
+   "wordNumber": "04.0021",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "新生产力",
+   "en": "new productivity,new production",
+   "source": "生态学名词",
+   "wordNumber": "16.434",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "由真光层之外提供的新生氮源支持的那一部分初级生产力。"
+  },
+  {
+   "cn": "正规[乘]积",
+   "en": "normal product,N product",
+   "source": "物理学名词",
+   "wordNumber": "05.0946",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "生产速率",
+   "en": "production rate,production level",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0171",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "单位时间(小时、班次、天、周)的产出(台、件、箱等)。"
+  },
+  {
+   "cn": "利用系数",
+   "en": "productivity coefficient",
+   "source": "冶金学名词",
+   "wordNumber": "01.0067",
+   "subjectFullName": "冶金学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "(1)单位时间内，设备的单位面积或容积的产品产量；(2)设备实际产量与设计值的比例。是评价生产设备的生产效率的指标。"
+  },
+  {
+   "cn": "生产力学说",
+   "en": "productivity theory",
+   "source": "植物学名词",
+   "wordNumber": "13.0354",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "1964年美国动物学家康奈尔(J. H. Connell)和美国学者奥里恩斯(E. Orians)提出的一种学说。认为群落的多样性高低决定于通过食物网的能流量，通过食物网的能流量越大，物种的多样性就越"
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "生产量",
+   "en": "production",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生产量",
+   "en": "production",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生成物",
+   "en": "product",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生产力学说",
+   "en": "productivity theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生产力假说",
+   "en": "productivity hypothesis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生产力理论",
+   "en": "productivity theory",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "初级生产力",
+   "en": "primary productivity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "次级生产力",
+   "en": "secondary productivity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候生产力",
+   "en": "climatic productivity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "再生生产力",
+   "en": "regenerated productivity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "初级生产力,第一性生产力",
+   "en": "primary productivity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "土壤生产力",
+   "en": "soil productivity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "次级生产力,第二性生产力",
+   "en": "secondary productivity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "信息生产力",
+   "en": "information productivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据生产力",
+   "en": "Data Productivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "极致生产力",
+   "en": "extreme productivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能化生产",
+   "en": "intelligent production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据商品",
+   "en": "data product",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "服务产品化",
+   "en": "service productization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对等共创生产",
+   "en": "peer production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络产品",
+   "en": "network product",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国内生产总值",
+   "en": "gross domestic product",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国民生产总值",
+   "en": "Gross National Product",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生产率",
+   "en": "productivity",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.6",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "个人、团队或组织在一定时间内完成的工作量。"
+  },
+  {
+   "cn": "能产性",
+   "en": "productivity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0041",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "①语言使用者能够使用并且理解无穷多的句子的创造性能力。是人类语言区别于其他动物交际系统的一个显著特征。②某一成分或模式构成新的词汇、形态和句法格式的性能。"
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "马克思主义",
+   "wordNumber": "02.0002",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以一定的劳动方式、一定的生产资料所有制为基础的劳动者与生产资料结合的形式，从而结合起来的人们改造自然及生产物质资料的过程。广义的生产除了物质财富之外，还包括精神财富的创造和人类自身生产等。"
+  },
+  {
+   "cn": "生产力损失",
+   "en": "productivity loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "计算生产过程中由于发病、伤残（失能）、过早死亡导致生产力损失的间接成本。"
+  },
+  {
+   "cn": "科学生产率",
+   "en": "scientific productivity",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "描述科学家的科学成果的产出率的指标。"
+  },
+  {
+   "cn": "社会生产力",
+   "en": "social productivity",
+   "source": "马克思主义",
+   "wordNumber": "02.0006",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类社会从事社会生产劳动的整体效率，用以区别于劳动生产力、自然生产力。它是人的劳动能力的集中体现，具体体现在生产技术水平、劳动技能、生产工具等方面。"
+  },
+  {
+   "cn": "劳动生产率",
+   "en": "labor productivity",
+   "source": "社会医学名词",
+   "wordNumber": "9.6",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "劳动生产率",
+   "publishYear": "2025",
+   "definition": "劳动者在一定时期内创造的劳动成果与其相适应的劳动消耗量的比值。反映单位劳动的产出水平。按其计算范围可分为个别劳动生产率和社会劳动生产率。"
+  },
+  {
+   "cn": "成品粮",
+   "en": "product grain",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.2",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "原粮经机械等方式加工的初级产品,如大米、小麦粉等。"
+  },
+  {
+   "cn": "消毒产品",
+   "en": "disinfection product",
+   "source": "消毒学",
+   "wordNumber": "3.1",
+   "subjectFullName": "消毒学_消毒用品",
+   "subjectName": "消毒用品",
+   "publishYear": "2025",
+   "definition": "纳入《消毒产品分类目录》的消毒剂、消毒器械、灭菌指示物和卫生用品等与人体健康相关的产品。"
+  },
+  {
+   "cn": "氯产量",
+   "en": "chlorine production",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.4.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "二氧化氯与氯混合消毒剂发生器在正常额定工作状态下，单位时间产生氯的质量，单位以克每小时（g/h）或千克每小时（kg/h）表示。"
+  },
+  {
+   "cn": "抗菌产品",
+   "en": "antibacterial product",
+   "source": "消毒学",
+   "wordNumber": "3.1.13",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "具有抗菌作用的抗菌剂、抗菌材料和设备。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "生产区",
+   "en": "production area",
+   "source": "消毒学",
+   "wordNumber": "5.1.6.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "由仓储库、生产车间和辅助生产车间等组成的区域。"
+  },
+  {
+   "cn": "生产用水",
+   "en": "production water",
+   "source": "消毒学",
+   "wordNumber": "5.1.6.4",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产工艺中使用的水，包括生活饮用水、纯化水等。"
+  },
+  {
+   "cn": "生产过程",
+   "en": "production process",
+   "source": "消毒学",
+   "wordNumber": "5.1.7",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品的过程。"
+  },
+  {
+   "cn": "生产批次",
+   "en": "production batch",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "能追溯产品生产过程、生产班次等信息的标识，消毒产品的同一生产批次应为同一次投料、同一条生产线、同一班次生产的同种产品。"
+  },
+  {
+   "cn": "产品检验",
+   "en": "production test",
+   "source": "消毒学",
+   "wordNumber": "5.1.11",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "对消毒产品质量进行检验的过程。"
+  },
+  {
+   "cn": "产品监管",
+   "en": "product regulation",
+   "source": "消毒学",
+   "wordNumber": "5.2",
+   "subjectFullName": "消毒学_监督管理",
+   "subjectName": "监督管理",
+   "publishYear": "2025",
+   "definition": "行政机关依据相关法律法规和标准对消毒产品开展监督和管理的行政执法行为。"
+  },
+  {
+   "cn": "产品确认",
+   "en": "product validation",
+   "source": "消毒学",
+   "wordNumber": "5.2.14.2",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "对于抽检的消毒产品，组织抽检的卫生行政部门对产品的生产企业、经销商等产品来源信息进行核实的过程。"
+  },
+  {
+   "cn": "生产反应堆",
+   "en": "production reactor",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.7",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "一般指用来生产裂变燃料钚的核反应堆。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

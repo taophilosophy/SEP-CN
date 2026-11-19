@@ -1,0 +1,762 @@
+{
+ "key": "joint impressions",
+ "term": "joint impressions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:02:41+00:00",
+ "status": "ok",
+ "note": "variant=joint impressions; 审定公布名词库=2989; 海峡两岸名词对照库=942; 其他来源数据库=142; 预公布名词数据库=69; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "印次",
+   "en": "impression",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.067",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "同一版本的图书印刷的次序。"
+  },
+  {
+   "cn": "模膛",
+   "en": "impression",
+   "source": "冶金学名词",
+   "wordNumber": "09.1535",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "在锻模上加工成的使锻件形成所需外形和尺寸的空腔。有制坯模腔、预锻模腔、终锻模腔。"
+  },
+  {
+   "cn": "印痕化石",
+   "en": "impression",
+   "source": "植物学名词",
+   "wordNumber": "14.0022",
+   "subjectFullName": "植物学_古植物学",
+   "subjectName": "古植物学",
+   "publishYear": "2019",
+   "definition": "沉积层中留下的植物印迹形成的化石。"
+  },
+  {
+   "cn": "印痕化石",
+   "en": "impression",
+   "source": "古生物学名词",
+   "wordNumber": "01.0129",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "生物遗体被完全埋葬前在沉积物中留下的印迹，由于埋葬时遗体业已消失，岩层中并未留下除印痕外的其他痕迹。"
+  },
+  {
+   "cn": "印模",
+   "en": "impression",
+   "source": "医学名词 第二分册",
+   "wordNumber": "09.202",
+   "subjectFullName": "医学_口腔医学_可摘局部义齿修复学、全口义齿修复学",
+   "subjectName": "可摘局部义齿修复学、全口义齿修复学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "初印模",
+   "en": "preliminary impression,primary impression",
+   "source": "医学名词 第二分册",
+   "wordNumber": "09.203",
+   "subjectFullName": "医学_口腔医学_可摘局部义齿修复学、全口义齿修复学",
+   "subjectName": "可摘局部义齿修复学、全口义齿修复学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "肝压迹",
+   "en": "impression hepatica;hepatic impression",
+   "source": "普通外科学名词",
+   "wordNumber": "20.049",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "受周围脏器的挤压，肝表面形成的凹陷。"
+  },
+  {
+   "cn": "胃压迹",
+   "en": "impression gastrica;gastric impression",
+   "source": "普通外科学名词",
+   "wordNumber": "20.050",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "位于肝左叶脏面，胃底和胃体上部挤压肝形成的压迹。"
+  },
+  {
+   "cn": "结肠压迹",
+   "en": "impression colica;colic impression",
+   "source": "普通外科学名词",
+   "wordNumber": "20.051",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "位于肝右叶脏面，结肠肝曲和横结肠起始部挤压肝形成的压迹。"
+  },
+  {
+   "cn": "肾压迹",
+   "en": "impression renalis;renal impression",
+   "source": "普通外科学名词",
+   "wordNumber": "20.052",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "位于肝右叶脏面，右肾挤压肝形成的压迹。"
+  },
+  {
+   "cn": "食管压迹",
+   "en": "impression oesophagea;esophageal impression",
+   "source": "普通外科学名词",
+   "wordNumber": "20.053",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "位于肝左叶脏面，食管挤压肝形成的压迹。"
+  },
+  {
+   "cn": "总接触人次",
+   "en": "gross impressions",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.162",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "个人或家庭在一段特定时间内接触某一媒介的总次数。"
+  },
+  {
+   "cn": "广告印象",
+   "en": "advertising impressions",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.267",
+   "subjectFullName": "新闻学与传播学_广告_广告作品",
+   "subjectName": "广告作品",
+   "publishYear": "2022",
+   "definition": "广告信息接触受众成员的一次机会。总印象数(或称接触人次)指媒介计划中整个媒介投放的亮相总次数，或指一个媒介排期计划所接触的总人次。"
+  },
+  {
+   "cn": "脊状印模",
+   "en": "ridge impression",
+   "source": "地质学名词",
+   "wordNumber": "05.03.067",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "泥裂形成的裂缝被上覆沉积物填充，填充物的底面形成的底面脊状印模。其尖端指向岩层底面。"
+  },
+  {
+   "cn": "三叉神经压迹",
+   "en": "trigeminal impression",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.1.5.4.1",
+   "subjectFullName": "耳科_耳解剖",
+   "subjectName": "耳解剖",
+   "publishYear": "2025",
+   "definition": "颞骨岩部前面近岩尖处容纳三叉神经半月神经节的凹陷。"
+  },
+  {
+   "cn": "印象管理",
+   "en": "impression management",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.169",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "有意识通过观察自己与他人态度，有时也是潜意识地，判断和期待获得良好的自我与他人的形象感知，包括影响他人及其对事物看法的一种把握沟通效果的行为。一般通过调整与控制社会互动中的信息来实现。有时该词与“自我"
+  },
+  {
+   "cn": "压印滚筒",
+   "en": "impression cylinder",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.005",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "承印物的圆柱形支承体。"
+  },
+  {
+   "cn": "总印象数",
+   "en": "gross impression",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.291",
+   "subjectFullName": "新闻学与传播学_广告_广告效果",
+   "subjectName": "广告效果",
+   "publishYear": "2022",
+   "definition": "在一个既定的时段内媒体排期所产生的印象的总数。"
+  },
+  {
+   "cn": "制坯模膛",
+   "en": "blanking impression",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.288",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_锻造工模具",
+   "subjectName": "锻造工模具",
+   "publishYear": "2021",
+   "definition": "根据锻件的变形要求，对坯料体积进行合理分配的模膛。分为滚压模膛、拔长模膛、卡压模膛、弯曲模膛、压扁台、镦粗台等。"
+  },
+  {
+   "cn": "预锻模膛",
+   "en": "blocking impression",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.289",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_锻造工模具",
+   "subjectName": "锻造工模具",
+   "publishYear": "2021",
+   "definition": "使锻坯最终成形前获得接近终锻件形状的锻模模膛。它可以改善终锻时金属的流动条件，避免产生充填不满或折叠等缺陷，还可提高终锻模膛的寿命。"
+  },
+  {
+   "cn": "印痕化石",
+   "en": "impression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "食管压迹",
+   "en": "esophageal impression\",\"oesophageal impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "结肠压迹",
+   "en": "colic impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "三叉神经压迹",
+   "en": "trigeminal impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肾上腺压迹",
+   "en": "suprarenal impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肾压迹",
+   "en": "renal impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "十二指肠压迹",
+   "en": "duodenal impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胃压迹",
+   "en": "gastric impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "心压迹",
+   "en": "cardiac impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "印象管理,印象整饰",
+   "en": "impression management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "印象形成",
+   "en": "impression formation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "印模膏",
+   "en": "impression compound",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "蜡版",
+   "en": "wax impression",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "腹痕",
+   "en": "ventral impression",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "外加电流",
+   "en": "impressed current",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "接头",
+   "en": "coupling joint\",\"joint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单型腔模",
+   "en": "single impression mold",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "踏板足印",
+   "en": "impression\",\"mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总印象",
+   "en": "general impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艺术印象分",
+   "en": "artistic impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球节",
+   "en": "fetlock joint",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共商共治",
+   "en": "joint governance through consultation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合成作战指挥系统",
+   "en": "joint operations command system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "英国联合信息系统委员会",
+   "en": "Joint Information Systems Committee (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多元共治",
+   "en": "joint governance with multiple participants",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共建共享",
+   "en": "joint contribution and shared benefits",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《欧盟标准化联合倡议》",
+   "en": "Joint Initiative on Standardization (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化联席会议机制",
+   "en": "joint conference mechanism for standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "但见性情，不睹文字",
+   "en": "To Impress Readers with True Feelings Oblivious of Its Wording",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险联防联控机制",
+   "en": "joint prevention and control mechanism for financial risks",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国-世卫组织联合考察专家组",
+   "en": "China-WHO Joint Mission on Coronavirus Disease 2019 (COVID-19) ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国务院联防联控机制",
+   "en": "Joint Prevention and Control Mechanism of the State Council ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "印象形成",
+   "en": "impression formation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "通过对自身所掌握的各种信息进行加工、整理从而形成对他人印象的过程。"
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "人们在初次交往时所形成对彼此的最初印象。这种最初印象并非总是正确，但却总是最鲜明、最牢固的，并且在很大程度上影响着双方后续的交往。"
+  },
+  {
+   "cn": "印象管理",
+   "en": "impression management",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "个体通过一定的方式影响别人形成的对自己的印象的过程，是自我调节的一个重要方面。其中隐含了一种基本动机，即人们渴望被别人积极看待，避免被别人消极看待。"
+  },
+  {
+   "cn": "联合分布",
+   "en": "joint distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个或两个以上随机变量的概率分布函数。"
+  },
+  {
+   "cn": "联合家庭",
+   "en": "joint family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.11",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭中任何一代含有两对以上夫妻的家庭。例如父母和两对或两对以上已婚子女组成的家庭。"
+  },
+  {
+   "cn": "联合劳动",
+   "en": "joint labor",
+   "source": "马克思主义",
+   "wordNumber": "03.0108",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思依据人类社会发展的客观规律提出的关于未来共产主义社会劳动的基本形式。其特点是：全社会劳动者在生产资料共同占有的基础上，自由地结合起来，自主地进行创造性的劳动。"
+  },
+  {
+   "cn": "寰枢关节",
+   "en": "atlantoaxial joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.5",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由 2 个由寰枕侧块的下关节面和枢椎的上关节面，以及l 个由枢椎齿突的前关节面和寰椎前弓后面的齿凹共同构成的关节。关节囊薄而松弛。是只有1个运动轴的车轴关节，寰椎与颅一同绕垂直轴做左右回旋运动。"
+  },
+  {
+   "cn": "胸肋关节",
+   "en": "sternocostal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.6",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "肋骨借肋软骨与胸骨连结的关节。由第1- 7 肋的内侧端与胸骨的肋切迹构成。关节囊薄而松弛，关节腔为一窄隙。有胸肋轴状韧带、 肋剑突韧带加固。属于微动关节。"
+  },
+  {
+   "cn": "胸锁关节",
+   "en": "sternoclavicular joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.7",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由锁骨的胸骨端关节面和胸骨柄的锁骨切迹组成的关节。上肢与躯干之间连结的唯一关节。关节腔内有关节盘。关节囊坚韧，周围有韧带加固。有3个运动轴，绕矢状轴可 做上下运动；绕垂直轴可做前后运动；绕冠状轴可做回"
+  },
+  {
+   "cn": "肩关节",
+   "en": "shoulder joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.8",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由肩胛骨的关节盂和肱骨头组成的关节。相连两骨关节面大小相差较大。关节窝周缘有关节唇加深关节盂。关节囊薄弱且松弛，附着在关节盂周缘和肱骨解剖颈之间，关节囊 壁内有由滑膜包裹的肱二头肌长头腱通过， 此腱有"
+  },
+  {
+   "cn": "肘关节",
+   "en": "elbow joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.9",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由肱骨远侧端和桡尺骨近端关节面组成的关节。包括3个小关节：肱尺关节、肱桡关 节及桡尺近侧关节，它们共同包裹在一个关节囊内。"
+  },
+  {
+   "cn": "腕关节",
+   "en": "wrist joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.10",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由手的舟骨、月骨和三角骨的近侧关节面作为关节头，桡骨的腕关节面和尺骨头下方的关节盘作为关节窝而构成的关节。"
+  },
+  {
+   "cn": "掌指关节",
+   "en": "metacarpophalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.11",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由掌骨小头与第1节指骨底构成的关节。共 有5个，在形态上近似球窝关节，但机能上因受两侧韧带的限制，第 2- 5 掌指关节能 做屈、伸、内收、外展及环转运动；第 1 掌指关节仅能做屈伸运动，当关节微屈时"
+  },
+  {
+   "cn": "指间关节",
+   "en": "interphalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.12",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由各指相邻两节指骨的底和滑车构成的关节。"
+  },
+  {
+   "cn": "骶髂关节",
+   "en": "sacroiliac joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.15",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由髂骨的耳状面与骶骨的耳状面构成的关节。关节面扁平，彼此对合非常紧密，属平面关节。关节囊紧张，紧贴于关节面周缘。周围有许多强韧的韧带加强，关节腔狭小， 呈裂隙状，活动性很小，有利于支持体重和传递重力。"
+  },
+  {
+   "cn": "髋关节",
+   "en": "hip joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.16",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由髋骨的髋臼和股骨头的关节面构成的关节。是典型的球窝关节。"
+  },
+  {
+   "cn": "膝关节",
+   "en": "knee joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.17",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由股骨的内、外侧髁与胫骨的内、外侧髁的关节面组成的股胫关节，以及股骨的髌面与髌骨的关节面组成的髌股关节两部分构成的关节。人体内结构最复杂的关节。关节囊广阔松弛，各部厚薄不一，附着于各关节面 的周缘，其"
+  },
+  {
+   "cn": "跖趾关节",
+   "en": "metatarsophalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.18",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由跖骨头与近节趾骨底构成的关节。"
+  },
+  {
+   "cn": "趾间关节",
+   "en": "interphalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.19",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "趾骨与趾骨之间构成的关节。"
+  },
+  {
+   "cn": "关节畸形",
+   "en": "joint deformity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.3",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "由于各种原因使关节脱离正常形态和结构的状态，可见于关节炎。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

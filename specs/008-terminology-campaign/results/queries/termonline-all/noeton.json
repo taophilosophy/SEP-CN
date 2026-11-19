@@ -1,0 +1,472 @@
+{
+ "key": "noeton",
+ "term": "noêton",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:20:39+00:00",
+ "status": "ok",
+ "note": "variant=noêton; 审定公布名词库=136; 海峡两岸名词对照库=36; 其他来源数据库=2; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "游泳生物",
+   "en": "nekton,necton",
+   "source": "生态学名词",
+   "wordNumber": "16.293",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "生活在水层中、具有抗逆流的自由游动能力的动物。包括真游泳生物、浮游游泳生物、底栖游泳生物和陆缘游泳生物4类。"
+  },
+  {
+   "cn": "棉花",
+   "en": "cotton",
+   "source": "农学名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "锦葵科棉属的种子纤维作物。包括陆地棉、海岛棉、亚洲棉、草棉四个栽培种。喜温好光，无限生长。抗逆性强，耐旱耐盐碱，耐涝耐瘠。主产品纤维用，可作纺织原料；副产品棉籽富含脂肪和蛋白质，食饲兼用。"
+  },
+  {
+   "cn": "牛[顿]",
+   "en": "newton",
+   "source": "电力名词",
+   "wordNumber": "01.398",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "力的SI单位。使1kg质量产生1m/s²加速度的力。符号“N”。"
+  },
+  {
+   "cn": "游泳生物",
+   "en": "nekton",
+   "source": "古生物学名词",
+   "wordNumber": "05.0048",
+   "subjectFullName": "古生物学_古生态学、埋藏学、遗迹学_古生态学",
+   "subjectName": "古生态学",
+   "publishYear": "2009",
+   "definition": "可在水体中自主游泳的生物。"
+  },
+  {
+   "cn": "游泳生物",
+   "en": "nekton",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0614",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "生活在水层中、具有抗逆流的自由游动能力的动物。包括真游泳生物、浮游游泳生物、底栖游泳生物和陆缘游泳生物四类。"
+  },
+  {
+   "cn": "馄饨",
+   "en": "Huntun,Wonton",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0516",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_蒸煮",
+   "subjectName": "蒸煮",
+   "publishYear": "2020",
+   "definition": "中国传统面食，用薄面片包馅儿，通常煮熟后带汤食用。"
+  },
+  {
+   "cn": "牛[顿]",
+   "en": "newton,N",
+   "source": "电气工程名词",
+   "wordNumber": "01.876",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "旋子",
+   "en": "roton",
+   "source": "物理学名词",
+   "wordNumber": "08.3030",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "科顿-穆顿效应",
+   "en": "Cotton-Mouton effect",
+   "source": "物理学名词",
+   "wordNumber": "04.2361",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "诺顿定理",
+   "en": "Norton theorem",
+   "source": "计量学名词",
+   "wordNumber": "10.110",
+   "subjectFullName": "计量学_电磁_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "任一含源线性时不变一端口网络对外可用一电流源和一导纳的并联组合来等效置换，此电流源的电流等于端口的短路电流，此导纳等于一端口网络内全部独立电源置零后的输入导纳。"
+  },
+  {
+   "cn": "莫顿数",
+   "en": "Morton number,Morton key,Morton index",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.324",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "IBM公司的计算机科学家莫顿(G.M.Morton)1966年提出的一种二维行列标识一维映射的方法，是一种索引棋盘式空间基元(tiles)的数值体系。在建立莫顿码序列时，由于子象限的标识以‘N’形或‘"
+  },
+  {
+   "cn": "博尔顿平面",
+   "en": "Bolton plane",
+   "source": "整形外科名词",
+   "wordNumber": "12.209",
+   "subjectFullName": "整形外科_颅颌面整形_头影测量",
+   "subjectName": "头影测量",
+   "publishYear": "2026",
+   "definition": "头影测量分析中常用的参考平面。由枕骨髁突后切迹最凹点与鼻根点连接线组成。用作重叠头影图的基准平面。"
+  },
+  {
+   "cn": "棉铃",
+   "en": "cotton boll",
+   "source": "农学名词",
+   "wordNumber": "04.009",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "棉花的果实。属蒴果，由铃尖、铃肩和铃基部组成。陆地棉每铃4～5室（瓣），每瓣种子9～11粒，铃重约5g。海岛棉每铃3室（瓣），每瓣种子6～8粒，铃重约3g。"
+  },
+  {
+   "cn": "籽棉",
+   "en": "seed cotton",
+   "source": "农学名词",
+   "wordNumber": "04.011",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "从棉铃采收所得的带有种子及附着纤维的棉花。"
+  },
+  {
+   "cn": "原棉",
+   "en": "raw cotton",
+   "source": "农学名词",
+   "wordNumber": "04.015",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "皮棉按规格包装且每包一定重量，供工厂纺纱使用的商品棉花纤维。"
+  },
+  {
+   "cn": "棉籽",
+   "en": "cotton seed",
+   "source": "农学名词",
+   "wordNumber": "04.017",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "棉花的种子。包括棉短绒、棉籽壳和棉籽仁部分，由胚珠受精后发育而成。棉短绒可纺织用，棉籽壳可作为食用菌培养基原料，棉籽仁可作为食饲原料。"
+  },
+  {
+   "cn": "棉短绒",
+   "en": "cotton linter",
+   "source": "农学名词",
+   "wordNumber": "04.018",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "籽棉轧花后残留在棉花种子表面的短纤维。"
+  },
+  {
+   "cn": "棉花品级",
+   "en": "cotton grade",
+   "source": "农学名词",
+   "wordNumber": "04.037",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "根据棉花的成熟程度、色泽特征和轧工质量对皮辊棉划分的等级。共分为7个品级，三级为品级标准级。"
+  },
+  {
+   "cn": "棉纤维成熟度",
+   "en": "cotton maturity",
+   "source": "农学名词",
+   "wordNumber": "04.045",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "棉纤维胞壁相对发育程度。"
+  },
+  {
+   "cn": "棉花期货",
+   "en": "cotton futures",
+   "source": "农学名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "棉花作为标的物的期货交易品种。中国有郑州商品交易所生成的中国棉花期货和价格，美国有洲际交易所生成的棉花期货和价格。"
+  },
+  {
+   "cn": "游泳生物",
+   "en": "nekton",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "游泳生物",
+   "en": "nekton",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "游泳生物,自游生物",
+   "en": "nekton\",\"necton",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "终扣",
+   "en": "terminal bouton",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "丝光棉",
+   "en": "mercerized cotton",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "棉纸",
+   "en": "cotton paper",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "籽棉",
+   "en": "seed cotton",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硝棉",
+   "en": "gun cotton",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "棉纤维",
+   "en": "cotton fiber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "科顿效应",
+   "en": "Cotton effect",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "莫顿排序",
+   "en": "Morton order",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "莫顿数",
+   "en": "Morton number",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "浮箱",
+   "en": "buoyancy tank\",\"ponton",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "牛顿应力公式",
+   "en": "Newton stress formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "棉籽油",
+   "en": "cotton-seed oil",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海岛型棉",
+   "en": "sea island cotton",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "牛顿-拉弗森法",
+   "en": "Newton-Raphson method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "棉型纤维",
+   "en": "cotton type fiber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "牛顿环",
+   "en": "Newtons rings",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "突触扣结",
+   "en": "synaptic bouton\",\"synaptic knob",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "棉布包装",
+   "en": "cotton baling",
+   "source": "消毒学",
+   "wordNumber": "3.1.10",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "符合灭菌包装材料要求的可重复使用的纺织品，通常是用棉纱织成的布。"
+  },
+  {
+   "cn": "棉柔巾",
+   "en": "cotton towel",
+   "source": "消毒学",
+   "wordNumber": "3.1.8.10",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "以纺织纤维为原料，经非织造工艺加工而成的用于清洁人体皮肤的干态擦拭巾。"
+  },
+  {
+   "cn": "消毒棉球",
+   "en": "sterile cotton ball",
+   "source": "消毒学",
+   "wordNumber": "2.1.17.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "消毒液与医用棉球结合形成的载体消毒剂，一般用于皮肤的消毒处理。"
+  },
+  {
+   "cn": "棉布载体",
+   "en": "cotton cloth carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以经过脱脂处理的棉布作为试验微生物的支持物。棉布可选用40织纱的白平纹布，抽去四周的经纱和纬纱，制成10mm×10mm大小的正方形，根据特定用途也可用其他尺寸。常用于消毒对象为物体表面、手、皮肤黏膜、"
+  },
+  {
+   "cn": "棉拭子采样法",
+   "en": "cotton swab sampling method",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "使用无菌棉拭子在稀释液的试管中浸湿，对一区块涂抹采集微生物的方法。"
+  },
+  {
+   "cn": "晨午检",
+   "en": "morning and noon health check",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "班主任每日早自习或早晨第一节课前通过观察和询问等手段对学生出勤和健康状况进行检查，调查学生缺勤原因；传染病流行期间，则在下午第一节课前增加一次检查（午检）；住校学生晚自习前进行一次检查（晚检）。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

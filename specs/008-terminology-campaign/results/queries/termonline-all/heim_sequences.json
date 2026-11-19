@@ -1,0 +1,542 @@
+{
+ "key": "heim sequences",
+ "term": "Heim sequences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:43:35+00:00",
+ "status": "ok",
+ "note": "variant=Heim sequences; 审定公布名词库=672; 海峡两岸名词对照库=380; 其他来源数据库=16; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "海姆假说",
+   "en": "Heim's hypothesis",
+   "source": "地质学名词",
+   "wordNumber": "17.03.046",
+   "subjectFullName": "地质学_工程地质学_工程地质力学",
+   "subjectName": "工程地质力学",
+   "publishYear": "2026",
+   "definition": "解释岩体中初始应力状态的一种假说。由瑞士地质学家海姆1878 年提出。认为深隧洞岩体在各方面具有很大的应力，这些应力大小与上覆岩石质量有关，且在各方向近于相等，即岩体深处的应力分布符合静水压力状态。经"
+  },
+  {
+   "cn": "海姆假说",
+   "en": "Heim's hypothesis",
+   "source": "水利科学技术名词",
+   "wordNumber": "05.224",
+   "subjectFullName": "水利科学技术_岩石力学、土力学、岩土工程_岩土工程（水利）",
+   "subjectName": "岩土工程（水利）",
+   "publishYear": "1997",
+   "definition": "假定岩体深部的应力状态符合于静水压力的学说。"
+  },
+  {
+   "cn": "序列分析仪",
+   "en": "sequencer",
+   "source": "药学名词",
+   "wordNumber": "05.200",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "自动测定多肽链中氨基酸序列的一种仪器。其工作原理是基于埃德曼降解法的重复应用。"
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "地质学名词",
+   "wordNumber": "07.02.016",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "一套相对整合的、成因上有联系的、其顶和底以不整合面或与这些不整合面可以对比的整合面为界的地层单元。"
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0138",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "多聚体中单体的线性排列顺序。如多肽链中氨基酸残基的排列顺序及多核苷酸链中核苷酸的排列顺序。"
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "药学名词",
+   "wordNumber": "05.014",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "构成生物大分子结构单元的排列次序。如DNA分子是由4种核苷酸(A，T，G，C)排列组成，DNA序列就是组成某一DNA分子的核苷酸的排列次序。"
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0208",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋矿产资源开发技术",
+   "subjectName": "海洋矿产资源开发技术",
+   "publishYear": "2007",
+   "definition": "相对整合的成因上有联系的地层序列。"
+  },
+  {
+   "cn": "序列征",
+   "en": "sequence",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.496",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "石油名词",
+   "wordNumber": "02.0861",
+   "subjectFullName": "石油_油气地质勘探_石油地震地层学",
+   "subjectName": "石油地震地层学",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "数学名词",
+   "wordNumber": "05.0026",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "地质学名词",
+   "wordNumber": "02.033",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "δ序列",
+   "en": "δ sequence",
+   "source": "遗传学名词",
+   "wordNumber": "03.581",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "Ty转座子两端长约300bp的正向重复序列。"
+  },
+  {
+   "cn": "chi序列",
+   "en": "chi sequence,χsequence",
+   "source": "遗传学名词",
+   "wordNumber": "03.430",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "大肠杆菌中与同源重组活性较高有关的一段序列，即GCTGGTGG，既是recBC的识别序列，又是其激活序列。"
+  },
+  {
+   "cn": "测序",
+   "en": "sequencing",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0582",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_测序技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "对多聚体中单体排列顺序进行测定的方法。如测定DNA、多肽、多糖链基本组成单位残基（核苷酸、氨基酸、单糖等）的排列顺序。"
+  },
+  {
+   "cn": "编序",
+   "en": "sequencing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.024",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对全书稿件按大流水号进行编号。编辑发稿前最后一道程序。"
+  },
+  {
+   "cn": "测序法",
+   "en": "sequencing",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "4.061",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤预防学_二级预防",
+   "subjectName": "二级预防",
+   "publishYear": "2022",
+   "definition": "一种在单链DNA 5′端做放射性标记，用几组与碱基发生专一性反应的化学试剂分别修饰碱基，在修饰碱基特异部位随机断裂DNA链，通过凝胶电泳将DNA链按长短分开，放射自显影显示电泳区带，直接读出核苷酸序列"
+  },
+  {
+   "cn": "测序",
+   "en": "sequencing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0128",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_生物信息学",
+   "subjectName": "生物信息学",
+   "publishYear": "2018",
+   "definition": "测定核酸中碱基或多肽、蛋白质中氨基酸的排列顺序。"
+  },
+  {
+   "cn": "测序",
+   "en": "sequencing",
+   "source": "核医学名词",
+   "wordNumber": "06.0056",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "确定DNA或RNA分子上的碱基排列的顺序，或确定蛋白质的氨基酸序列的过程和技术。"
+  },
+  {
+   "cn": "排序",
+   "en": "sequencing",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0406",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "确定不同工件在机器上的加工先后顺序的过程。"
+  },
+  {
+   "cn": "序列测定",
+   "en": "sequencing",
+   "source": "遗传学名词",
+   "wordNumber": "08.097",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "确定DNA分子或RNA分子中核苷酸的排列顺序，或确定多肽链中氨基酸的排列顺序。"
+  },
+  {
+   "cn": "序列器",
+   "en": "sequencer",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模进",
+   "en": "sequence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "继叙咏",
+   "en": "sequence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "chi序列",
+   "en": "chi sequence\",\"χ sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "δ序列",
+   "en": "delta sequence\",\"δ sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "测序",
+   "en": "sequencing",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列测定，测序",
+   "en": "sequencing",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列测定,测序",
+   "en": "sequencing",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "前导序列",
+   "en": "leading sequence\",\"leader sequence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "着丝粒序列",
+   "en": "centromeric sequence\",\"CEN sequence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重复序列",
+   "en": "repetitive sequence\",\"repeated sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "着丝粒序列,中心粒序列",
+   "en": "centromeric sequence\",\"CEN sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因组测序",
+   "en": "genome sequencing\",\"genomic sequencing",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "序列分析仪, 测序仪",
+   "en": "sequencer\",\"sequenator",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模式微生物基因组测序、数据挖掘及功能解析全球合作计划",
+   "en": "Global Catalogue of Microorganisms 10K Type Strain Sequencing Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 12054-1989 数据处理 转义序列的登记规程》",
+   "en": "GB/T 12054-1989 Data processing — Procedure for registration of escape sequences",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "DeepVariant（可将基因组信息转换成图像进行分析）",
+   "en": "DeepVariant (an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "靶向测序",
+   "en": "targeted sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "利用多重聚合酶链反应或杂交捕获的方法对目标基因 组区域进行富集并测序的一种技术。优 势在于有效降低成本、获得更深的覆盖度。"
+  },
+  {
+   "cn": "测序技术",
+   "en": "sequencing techniques",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.70",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对多聚体中单体排列顺序进行测定的方法。如测定DNA、寡肽、多糖链基本组成单位残基(核苷酸、氨基酸、单糖等)的排列顺序。"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "二代测序",
+   "en": "next-generation sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一次可以对几十万至数亿条DNA模板同时进行序列测定的技术。是对传统桑格 （Sanger）测序革命性的改变， 核心思想是边合成边测序。"
+  },
+  {
+   "cn": "单分子测序",
+   "en": "\"single molecule sequencing\"",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "“第三代测序技术 (third generation sequencing technique)”。在DNA测序时，不需要经过PCR扩增，对每一条DNA分子进行单独测序的技术。为单分子实时DNA测序。"
+  },
+  {
+   "cn": "氨基酸同源序列",
+   "en": "homologous animo acid sequence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "享有进化上共同祖先的两个氨基酸序列，具有同源性。"
+  },
+  {
+   "cn": "生长发育序贯设计",
+   "en": "sequence design of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "对不同年龄组的儿童少年进行横向调查，然后在间隔一定的时间后，对同一批儿童少年进行一次或多次重复调查，从而构成追踪性调查设计的一种方法。该方法可克服追踪调查所需年限太长、样本易流失等缺点。"
+  },
+  {
+   "cn": "黑爨",
+   "en": "Hei Cuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0138",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "元代一般以乌蛮为黑爨。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

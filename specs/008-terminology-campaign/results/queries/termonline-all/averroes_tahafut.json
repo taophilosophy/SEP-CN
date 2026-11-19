@@ -1,0 +1,22 @@
+{
+ "key": "averroes tahafut",
+ "term": "Averroes Tahāfut",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:47:37+00:00",
+ "status": "ok",
+ "note": "variant=Averroes Tahāfut; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "指数加权移动平均模型",
+   "en": "exponentially weighted moving averages model,EWMA model",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0419",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "对时间序列中的数据采取不同权重，根据历史数据距当前时刻的远近，分别赋予不同的权重，距现在越近，赋予的权重越大的模型。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

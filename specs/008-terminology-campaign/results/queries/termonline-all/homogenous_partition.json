@@ -1,0 +1,542 @@
+{
+ "key": "homogenous partition",
+ "term": "homogenous partition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:33:52+00:00",
+ "status": "ok",
+ "note": "variant=homogenous partition; 审定公布名词库=376; 海峡两岸名词对照库=165; 其他来源数据库=10; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "隔断",
+   "en": "partition",
+   "source": "风景园林名词",
+   "wordNumber": "07.0343",
+   "subjectFullName": "风景园林_风景园林建筑_小木作",
+   "subjectName": "小木作",
+   "publishYear": "2025",
+   "definition": "古建筑室内部分构件。（1）房屋内分割平面布局的木制物体，一般为镂空雕花，也有做成博古架形式，属于小木作范围。（2）在前后檐柱间砌筑与两山墙平行的内墙，属瓦作范围。"
+  },
+  {
+   "cn": "深裂片",
+   "en": "partition",
+   "source": "植物学名词",
+   "wordNumber": "03.0134",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "深裂叶的每个裂片。"
+  },
+  {
+   "cn": "分区",
+   "en": "partition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0463",
+   "subjectFullName": "计算机科学技术_计算机硬件_存储设备",
+   "subjectName": "存储设备",
+   "publishYear": "2018",
+   "definition": "对物理磁盘进行区域划分后得到的可以像独立磁盘一样工作的区域。"
+  },
+  {
+   "cn": "间壁",
+   "en": "partition",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0790",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "划分",
+   "en": "partition",
+   "source": "数学名词",
+   "wordNumber": "01.0124",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分离",
+   "en": "partitioning",
+   "source": "电力名词",
+   "wordNumber": "17.393",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "采用化学方法,将高放废物中的次锕系元素和长寿命裂变产物分离出来,以便嬗变处理的过程。"
+  },
+  {
+   "cn": "分配",
+   "en": "partitioning",
+   "source": "植物学名词",
+   "wordNumber": "11.0349",
+   "subjectFullName": "植物学_植物生理学_植物同化物运输与分配",
+   "subjectName": "植物同化物运输与分配",
+   "publishYear": "2019",
+   "definition": "光合产物有规律地向各个库器官的输送。"
+  },
+  {
+   "cn": "分隔",
+   "en": "partitioning",
+   "source": "化学工程名词",
+   "wordNumber": "05.052",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "分块",
+   "en": "partitioning",
+   "source": "数学名词",
+   "wordNumber": "010.0433",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "均质",
+   "en": "homogeneous",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.333",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "使污水水质（浓度、水温等指标）实现稳定和均衡的过程。"
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "农学名词",
+   "wordNumber": "06.133",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "一个群体中的不同个体具有相同特性的现象。"
+  },
+  {
+   "cn": "均质",
+   "en": "homogenization",
+   "source": "农学名词",
+   "wordNumber": "17.165",
+   "subjectFullName": "农产品贮运与加工_果蔬加工",
+   "subjectName": "果蔬加工",
+   "publishYear": "2025",
+   "definition": "将果蔬浊汁中的悬浮颗粒物进行微粒化和均匀化，以提高果蔬汁悬浮液稳定性的操作。"
+  },
+  {
+   "cn": "匀浆器",
+   "en": "homogenizer",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0005",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_分散与简单分离",
+   "subjectName": "分散与简单分离",
+   "publishYear": "2024",
+   "definition": "可使组织、细胞或细胞组分等破裂分散成小颗粒，成为比较均匀的悬浮液的装置。用于使样品均匀化，常由精细加工的研棒、管子和电动搅拌器构成。"
+  },
+  {
+   "cn": "均一性",
+   "en": "homogeneity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0221",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）一种生物大分子制品中，其体积、电荷或结构或所有其他性质方面是相同的状态。（2）在体系中仅存一相的状态。"
+  },
+  {
+   "cn": "均化",
+   "en": "homogenize",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0422",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "通过采用一定的工艺措施，达到降低物料化学成分的波动振幅，使物料的化学成分均匀一致的过程。"
+  },
+  {
+   "cn": "均匀性",
+   "en": "homogeneity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0735",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "物质的一种或几种物理性质不随空间坐标变化的特性。 "
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "动物学名词",
+   "wordNumber": "7.05",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "群落环境或生态系统的均匀性。"
+  },
+  {
+   "cn": "均质",
+   "en": "homogenization",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0158",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_乳化与均质",
+   "subjectName": "乳化与均质",
+   "publishYear": "2020",
+   "definition": "使悬浮液(或乳化液)体系中的分散物微粒化、均匀化的处理过程。"
+  },
+  {
+   "cn": "均匀化处理",
+   "en": "homogenizing",
+   "source": "冶金学名词",
+   "wordNumber": "07.0304",
+   "subjectFullName": "冶金学_金属学_热处理",
+   "subjectName": "热处理",
+   "publishYear": "2019",
+   "definition": "以减少工件化学成分和组织的不均匀性为主要目的，将其加热到固相线下某较高温度并长时间保温，然后缓慢冷却的退火处理。"
+  },
+  {
+   "cn": "均匀性",
+   "en": "homogeneity",
+   "source": "物理学名词",
+   "wordNumber": "08.0029",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "均一性",
+   "en": "homogeneity\",\"homogenicity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分配",
+   "en": "partition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分割",
+   "en": "partition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分区",
+   "en": "partition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分配",
+   "en": "partitioning",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分隔",
+   "en": "partitioning",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均质的",
+   "en": "homogeneous",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "均匀性",
+   "en": "homogeneity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "匀化器",
+   "en": "homogenizer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "匀浆",
+   "en": "homogenate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "匀化",
+   "en": "homogenization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "均匀化(退火)",
+   "en": "homogenizing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "均一化作用",
+   "en": "homogenization",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "匀浆器",
+   "en": "homogenizer",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "匀浆器",
+   "en": "homogenizer",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同质性",
+   "en": "homogeneity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "图划分",
+   "en": "graph partition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络划分",
+   "en": "network partition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CAP原则",
+   "en": "CAP (consistency, availability and partition resistance) principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网上信访",
+   "en": "online petition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "章表",
+   "en": "Memorial of Gratitude or Petition",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分隔",
+   "en": "partition",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.13",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "通过设置物理阻断如墙壁、卫生屏障、遮罩或独立房间等进行隔离。"
+  },
+  {
+   "cn": "均质",
+   "en": "homogeneous",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.21",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "在强机械力作用下，将乳中大的脂肪球破碎成小的脂肪球并均匀地分布在乳中的工艺。"
+  },
+  {
+   "cn": "均匀性",
+   "en": "homogeneity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.61",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准物质各指定部分中某个特定特性值的一致性"
+  },
+  {
+   "cn": "均匀照射",
+   "en": "homogeneity exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.6.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_均匀性分类",
+   "subjectName": "均匀性分类",
+   "publishYear": "2025",
+   "definition": "机体各组织和器官吸收剂量相差不大的照射。"
+  },
+  {
+   "cn": "文化同质性",
+   "en": "cultural homogeneity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.003",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与文化异质性相对应，指随着互动、借鉴和融合不断加强，不同国家、民族、地区或群体的文化在其特质和内涵上逐渐出现某种相似或相同的特征。"
+  },
+  {
+   "cn": "非均匀照射",
+   "en": "non-homogeneity exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.6.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_均匀性分类",
+   "subjectName": "均匀性分类",
+   "publishYear": "2025",
+   "definition": "机体各组织和器官吸收剂量相差较大（剂量差别3倍及以上）的照射。"
+  },
+  {
+   "cn": "血气分配系数",
+   "en": "blood air partition coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.6.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_放射毒理学",
+   "subjectName": "放射毒理学",
+   "publishYear": "2025",
+   "definition": "当血液中放射性核素浓度与肺泡内气态放射性核素浓度平衡时两者之比。该系数越大吸收率越高。"
+  },
+  {
+   "cn": "分区生存模型",
+   "en": "partitioned survival model,PSM",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种模拟生命周期的决策分析模型。通过临床研究中的生存数据，模拟研究时限内各时点上无进展、疾病进展与死亡的个体数量或比例，拟合无进展、进展与死亡的曲线。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

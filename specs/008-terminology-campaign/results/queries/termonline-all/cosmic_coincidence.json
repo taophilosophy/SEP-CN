@@ -1,0 +1,702 @@
+{
+ "key": "cosmic coincidence",
+ "term": "cosmic coincidence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:22:33+00:00",
+ "status": "ok",
+ "note": "variant=cosmic coincidence; 审定公布名词库=724; 海峡两岸名词对照库=209; 其他来源数据库=16; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "符合",
+   "en": "coincidence",
+   "source": "化学名词",
+   "wordNumber": "06.0136",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "N个同时发生或在短时间间隔内发生，并有内在因果联系的相关事件。N=2为二重符合，余类推。与“偶然符合”是一种假符合相反，这是一种真符合。"
+  },
+  {
+   "cn": "偶然符合",
+   "en": "random coincidence,accidental coincidence",
+   "source": "化学名词",
+   "wordNumber": "06.0138",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "N个彼此无内在联系的事件偶然同时(在观测仪器的分辨时间之内)发生。"
+  },
+  {
+   "cn": "宇宙尘",
+   "en": "cosmic dust; cosmic spherule",
+   "source": "天文学名词",
+   "wordNumber": "10.266",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "来自星际和行星际空间的尘埃物质。"
+  },
+  {
+   "cn": "并发检测",
+   "en": "coincidence detection",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0182",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_概述",
+   "subjectName": "概述",
+   "publishYear": "2024",
+   "definition": "对共同发生的两个生物化学反应或过程的检测。如信号转导中须确定两个通路同时激活才能产生效应，其确定过程。"
+  },
+  {
+   "cn": "巧合问题",
+   "en": "coincidence problem",
+   "source": "天文学名词",
+   "wordNumber": "07.526",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "指为什么暗能量与物质密度在今天恰好具有同一数量级的问题。"
+  },
+  {
+   "cn": "符合计数",
+   "en": "coincidence count",
+   "source": "光学名词",
+   "wordNumber": "02.110",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "多个探测器分别探测粒子是否到达，到达事件作为信号送入同一个符合判别装置，当某些探测器的探测事件都发生时，作为一个信号计数的一种光场探测方法。"
+  },
+  {
+   "cn": "一致性因数",
+   "en": "coincidence factor",
+   "source": "电力名词",
+   "wordNumber": "23.106",
+   "subjectFullName": "电力_配电与用电",
+   "subjectName": "配电与用电",
+   "publishYear": "2020",
+   "definition": "同类用电负荷在同一时间开机用电的概率。"
+  },
+  {
+   "cn": "符合电路",
+   "en": "coincidence circuit",
+   "source": "物理学名词",
+   "wordNumber": "09.0732",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "符合光谱术",
+   "en": "coincidence spectroscopy",
+   "source": "物理学名词",
+   "wordNumber": "04.1843",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "符合光谱",
+   "en": "coincidence spectrum",
+   "source": "物理学名词",
+   "wordNumber": "04.1825",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "延时符合",
+   "en": "delayed coincidence",
+   "source": "物理学名词",
+   "wordNumber": "09.0731",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "光子符合",
+   "en": "photon coincidence",
+   "source": "物理学名词",
+   "wordNumber": "04.2523",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "叠像棱镜",
+   "en": "coincidence prism",
+   "source": "物理学名词",
+   "wordNumber": "04.0175",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "符合法",
+   "en": "coincidence method",
+   "source": "物理学名词",
+   "wordNumber": "09.0729",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "偶然符合",
+   "en": "accidental coincidence",
+   "source": "物理学名词",
+   "wordNumber": "01.0258",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "符合计数",
+   "en": "coincidence counting",
+   "source": "物理学名词",
+   "wordNumber": "04.2524",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "符合结构",
+   "en": "coincidence structure",
+   "source": "物理学名词",
+   "wordNumber": "08.2724",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "符合率",
+   "en": "coincidence rate",
+   "source": "物理学名词",
+   "wordNumber": "04.2525",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "符合检测",
+   "en": "coincidence detection",
+   "source": "生物物理学名词",
+   "wordNumber": "07.061",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "单个神经元或神经元集群通过检测是否在很短的一小段时间间隔内同时有来自不同空间部位的输入，以决定是否发放神经脉冲的一种神经信息处理方式。"
+  },
+  {
+   "cn": "符合事件",
+   "en": "coincidence event",
+   "source": "核医学名词",
+   "wordNumber": "03.0306",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "利用符合探测技术探测到两个同时出现的关联事件。作为一个符合计数。"
+  },
+  {
+   "cn": "符合",
+   "en": "coincidence",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "一致",
+   "en": "coincident",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "偶然符合",
+   "en": "random coincidence\",\"accidental coincidence",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反符合",
+   "en": "anti-coincidence",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "符合测量",
+   "en": "coincidence measurement",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "符合电路",
+   "en": "coincidence circuit",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "几何一致性",
+   "en": "geometric coincidence",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "双像[符合]测距",
+   "en": "coincidence rangefinding",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "符[合]门",
+   "en": "coincidence gate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统一几何空间",
+   "en": "coincident geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重[合]码",
+   "en": "coincident code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙尘",
+   "en": "cosmic dust",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙线",
+   "en": "cosmic ray",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙尘",
+   "en": "cosmic dust",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙丰度",
+   "en": "cosmic abundance",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙年",
+   "en": "cosmic year",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙年龄",
+   "en": "cosmic age",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙弦",
+   "en": "cosmic string",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙尘",
+   "en": "cosmic dust",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙制图",
+   "en": "cosmic mapping",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "信心",
+   "en": "confidence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发病率",
+   "en": "incidence rate",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙",
+   "en": "Universe / Cosmos",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“四个自信”",
+   "en": "the “Four Matters of Confidence” (Confidence in the path, theory, system, and culture of socialism with Chinese characteristics)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "亚信会议",
+   "en": "Conference on Interaction and Confidence-building Measures in Asia",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "坚定信心、同舟共济、科学防治、精准施策",
+   "en": "to strengthen confidence and solidarity and take science-based and targeted measures",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "扶贫同扶志扶智结合",
+   "en": "the combination of poverty alleviation and increasing people's confidence and enriching their knowledge",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 4087-2009 数据的统计处理和解释 二项分布可靠度单侧置信下限》",
+   "en": "GB/T 4087-2009 Statistical interpretation of data — One-sided confidence lower limit of reliability for binomial distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“我将无我，不负人民。”",
+   "en": "I will work selflessly and live up to the expectations of the people. I will fully commit to my people and never fail the people. I am ready to set aside my own interests in service of the people. I will never seek my own good and never fail the people.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "符合效率",
+   "en": "coincidence efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "同时发生的彼此有关的事件被符合装置记录并产生一次符合计数的概率，是符合测量和符合装置设计的重要参数。"
+  },
+  {
+   "cn": "符合法",
+   "en": "coincidence method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "利用核衰变时能发射两个或两个以上级联辐射的特性来测量放射性核素活度的一种方法。"
+  },
+  {
+   "cn": "宇宙辐射",
+   "en": "cosmic radiation",
+   "source": "放射卫生学",
+   "wordNumber": "2.3",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "来自外太空的各种高能次原子粒子流构成的电离辐射。"
+  },
+  {
+   "cn": "反符合法",
+   "en": "anti-coincidence method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "一种用反符合选择器（或反符合探测-电路单元）来剔除在时间上和待测量具有相关性的干扰事件或同时发生的无关事件对测量结果影响的方法。"
+  },
+  {
+   "cn": "初级宇宙射线",
+   "en": "primary cosmic rays",
+   "source": "放射卫生学",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "由初级银河系宇宙辐射和初级太阳系宇宙辐射所构成的高能电离辐射，主要是高能质子、氦原子核和重带电粒子。"
+  },
+  {
+   "cn": "次级宇宙射线",
+   "en": "secondary cosmic rays",
+   "source": "放射卫生学",
+   "wordNumber": "2.3.2",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "初级宇宙射线进入大气层与空气中原子核发生反应产生的次级电离辐射，包括中子、质子、π介子和K介子等。"
+  },
+  {
+   "cn": "银河宇宙辐射",
+   "en": "galactic cosmic radiation",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.4.1",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "来自银河系内部和外部的电磁辐射，包括射电波、红外线、可见光、紫外线、X 射线和伽马射线等。"
+  },
+  {
+   "cn": "发病率",
+   "en": "incidence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "在一定期间内，一定范围人群中某病新病例出现的频率。"
+  },
+  {
+   "cn": "四个自信",
+   "en": "Foursphere Confidence",
+   "source": "马克思主义",
+   "wordNumber": "03.0802",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2016年7月1日，习近平在庆祝中国共产党成立95周年大会上明确提出：中国共产党人“坚持不忘初心、继续前进”，就要坚持“四个自信”即“中国特色社会主义道路自信、理论自信、制度自信、文化自信”。"
+  },
+  {
+   "cn": "发病率",
+   "en": "incidence rate",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.10.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "健康人群（学生）中在一个限定时期中将要发生某病的概率，分子为该时限内新发病例数，分母为该时期内此健康人群的人数。"
+  },
+  {
+   "cn": "发病曲线",
+   "en": "incidence curve",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "为反映疾病的时间分布特征，以横坐标为时间尺度，纵坐标为病例数，将各单位时间内（小时、日、周、月或年）发生的病例数标记在相应的位置上，所构成的直方图或线图"
+  },
+  {
+   "cn": "发病率",
+   "en": "incidence rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.17",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "发病率",
+   "publishYear": "2025",
+   "definition": "一定期间内，一定人群中某病新发生病例出现的频率。反映疾病对人群健康影响和描述疾病分布状态的指标。"
+  },
+  {
+   "cn": "发病率",
+   "en": "incidence rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.1.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_平时卫生统计",
+   "subjectName": "平时卫生统计",
+   "publishYear": "2025",
+   "definition": "在一定期间内特定人群中某病新发生的病例出现的频率。"
+  },
+  {
+   "cn": "受益归属分析",
+   "en": "benefit incidence analysis",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.15",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "测算公共支出在不同社会经济分组的受益分布,用来判断政府财政政策目标实现程度的分析方法。"
+  },
+  {
+   "cn": "基于发病率方法",
+   "en": "incidence-based approach",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "基于发病率计算疾病负担（多指伤残损失寿命年）的方法。将所有健康结局归因于初始事件（发病），反映当前事件造成的未来疾病负担。"
+  },
+  {
+   "cn": "疾病构成比",
+   "en": "proportion of incidence",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.1.2.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_平时卫生统计",
+   "subjectName": "平时卫生统计",
+   "publishYear": "2025",
+   "definition": "某事物内部各组成部分在整体中所占的比重。"
+  },
+  {
+   "cn": "全腹泻发病率",
+   "en": "overall diarrheal incidence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.15",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "在一定期间内，一定范围人群中因各种病因导致的腹泻疾病新发生病例出现的频率。"
+  },
+  {
+   "cn": "年龄相关发病率",
+   "en": "age-specific incidence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.16",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "某年某地区某年龄段人口中患某类疾病的人数所占比例。"
+  },
+  {
+   "cn": "休克发生率",
+   "en": "incidence of shock",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.7",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战时救治机构每通过百名伤员中发生休克的人数，反映伤员休克发生的普遍程度和伤员伤势严重程度。"
+  },
+  {
+   "cn": "占语支",
+   "en": "Chamic branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0354",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "南岛语系印度尼西亚语族的一个语支。分布在越南、柬埔寨等国，中国海南省三亚市回族使用的回辉语属于这个语支。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

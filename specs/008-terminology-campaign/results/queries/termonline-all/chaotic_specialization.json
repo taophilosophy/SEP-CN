@@ -1,0 +1,762 @@
+{
+ "key": "chaotic specialization",
+ "term": "chaotic specialization",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:04:22+00:00",
+ "status": "ok",
+ "note": "variant=chaotic specialization; 审定公布名词库=1246; 海峡两岸名词对照库=176; 其他来源数据库=34; 预公布名词数据库=113; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "混沌系统",
+   "en": "chaotic system",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.105",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "如果一个系统的演变过程对初态非常敏感，人们就称它为混沌系统。"
+  },
+  {
+   "cn": "混沌运动",
+   "en": "chaotic motion",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.106",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "混乱而没有秩序的状态。在哲学中，混沌指虚空，或者没有结构的均匀状态。"
+  },
+  {
+   "cn": "混沌暴胀",
+   "en": "chaotic inflation",
+   "source": "天文学名词",
+   "wordNumber": "07.554",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "一种假设暴胀场在初始时刻在空间不同点随机取值，随后以不同速度和持续时间暴胀的理论。"
+  },
+  {
+   "cn": "混沌噪声",
+   "en": "chaotic noise",
+   "source": "物理学名词",
+   "wordNumber": "11.0619",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "混沌测度",
+   "en": "chaotic measure",
+   "source": "物理学名词",
+   "wordNumber": "11.0616",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "混沌吸引子",
+   "en": "chaotic attractor",
+   "source": "物理学名词",
+   "wordNumber": "11.0585",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "混沌运动",
+   "en": "chaotic motion",
+   "source": "物理学名词",
+   "wordNumber": "11.0554",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "混沌混合",
+   "en": "chaotic mixing",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0211",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "通过诱发流体的混沌流动，使物料分散并达到一定均匀度的过程。"
+  },
+  {
+   "cn": "混沌流",
+   "en": "chaotic flow",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "04.0140",
+   "subjectFullName": "化工（三）_化学反应工程",
+   "subjectName": "化学反应工程",
+   "publishYear": "2019",
+   "definition": "特指由守恒律描述的流动系统中出现的、没有确定周期、对初始条件和扰动很灵敏、看似无序的流动。"
+  },
+  {
+   "cn": "混沌通信",
+   "en": "chaotic communication",
+   "source": "物理学名词",
+   "wordNumber": "11.0618",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "混乱天空",
+   "en": "chaotic sky",
+   "source": "大气科学名词",
+   "wordNumber": "01.174",
+   "subjectFullName": "大气科学_大气",
+   "subjectName": "大气",
+   "publishYear": "2009",
+   "definition": "同时在几个高度上出现形状不定的各种对流云(特别是高积云)的天气状况。"
+  },
+  {
+   "cn": "杂乱结构",
+   "en": "chaotic configuration",
+   "source": "石油名词",
+   "wordNumber": "02.0895",
+   "subjectFullName": "石油_油气地质勘探_石油地震地层学",
+   "subjectName": "石油地震地层学",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "杂乱胶结",
+   "en": "chaotic cement",
+   "source": "石油名词",
+   "wordNumber": "02.0539",
+   "subjectFullName": "石油_油气地质勘探_油气储集层",
+   "subjectName": "油气储集层",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "混沌运动",
+   "en": "chaotic motion",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "混沌吸引子",
+   "en": "chaotic attractor",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "混沌激光",
+   "en": "chaotic laser light",
+   "source": "物理学名词",
+   "wordNumber": "04.2273",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "杂乱前积结构",
+   "en": "chaotic progradation configuration",
+   "source": "石油名词",
+   "wordNumber": "02.0885",
+   "subjectFullName": "石油_油气地质勘探_石油地震地层学",
+   "subjectName": "石油地震地层学",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "杂乱地震反射结构",
+   "en": "chaotic seismic reflection configuration",
+   "source": "地质学名词",
+   "wordNumber": "07.05.020",
+   "subjectFullName": "地质学_地史学与地层学_地震地层学",
+   "subjectName": "地震地层学",
+   "publishYear": "2026",
+   "definition": "不连续的、紊乱的地震反射结构。可以是变化激烈、能量较高条件下的沉积，也可以是本来连续性很好的地层在重力滑塌情况下变形的反射结构。"
+  },
+  {
+   "cn": "特化",
+   "en": "specialization",
+   "source": "动物学名词",
+   "wordNumber": "2.0255",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "物种或其结构非常专门化、专一化和特殊化，仅适应某一特别用途或特定生态位的过程。"
+  },
+  {
+   "cn": "专业化",
+   "en": "specialization",
+   "source": "经济学名词",
+   "wordNumber": "08.032",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "把各种产业活动集中在那些最具优势的地点，它可以获取规模经济效益，从而有利于降低成本。"
+  },
+  {
+   "cn": "混沌吸引子",
+   "en": "chaotic attractor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混乱天空",
+   "en": "chaotic sky",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混沌宇宙论",
+   "en": "chaotic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混沌动力学",
+   "en": "chaotic dynamics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混沌动力系统",
+   "en": "chaotic dynamical system",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混沌轨道",
+   "en": "chaotic orbit\",\"irregular orbit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "特化，专化",
+   "en": "specialization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "专化（=特化）",
+   "en": "specialization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特化",
+   "en": "specialization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "专业化",
+   "en": "specialization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "特化",
+   "en": "specialization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "工作专业化",
+   "en": "job specialization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "国际专业化",
+   "en": "international specialization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地域专业化",
+   "en": "areal specialization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "柔性专业化",
+   "en": "flexible specialization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "营养性特化",
+   "en": "nutritional specialization",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "特殊函数",
+   "en": "special function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特种黏合剂",
+   "en": "special adhesive",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "专用化学品",
+   "en": "speciality chemical",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "特殊性能高分子",
+   "en": "speciality polymer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混沌数据",
+   "en": "chaotic data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "特别提款权",
+   "en": "Special Drawing Rights",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "专用计算机",
+   "en": "special-purpose computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "  特殊报销政策",
+   "en": "special reimbursement rules",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "赛马特别大奖赛",
+   "en": "Grand Prix Special",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分工型金融监管体制",
+   "en": "specialized financial regulatory system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全扩展要求",
+   "en": "special requirement for security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科技信贷专业化标准",
+   "en": "specialized standard for Fintech credit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "专业化社会工作技术",
+   "en": "technology facilitating specialized social work",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "专项扶贫",
+   "en": "poverty alleviation by special programs",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复工人员专列",
+   "en": "special train for returning workers ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提供专项信贷额度",
+   "en": "to provide special credit lines",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据联盟专项交换机制",
+   "en": "data alliance’s special exchange mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "特区精神",
+   "en": "the spirit of Special Economic Zones",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重症病区",
+   "en": "special ward (for patients with severe conditions)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反对特殊化",
+   "en": "opposing specialization",
+   "source": "马克思主义",
+   "wordNumber": "04.0154",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "反对干部生活待遇特殊化。干部搞特殊化必然脱离群众。邓小平认为，干部如果对个人的、家庭的利益关心得太多了，就没有多大的心思和精力去关心群众了。"
+  },
+  {
+   "cn": "特殊场所",
+   "en": "special place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "与传染病疫情、突发公共卫生事件处置或重大活动卫生保障相关，有特殊管理要求的场所。"
+  },
+  {
+   "cn": "特殊监测",
+   "en": "special monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "旨在调查工作场所中某一特定情况进行的监测。当现有信息不足以证明对该情况有充分控制时，通过监测为阐明存在的问题和确定未来的操作程序提供更详细的信息。通常应在新设施运行阶段、设施或程序发生了重大变更后，或"
+  },
+  {
+   "cn": "特殊染色检查",
+   "en": "special stain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.30",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "显示与确定组织或细胞中的正常结构或病理过程中出现的异常物质、病变及病原体等的多种染色技术的总称。"
+  },
+  {
+   "cn": "专科医院",
+   "en": "specialized hospital ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.4.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "为诊治各类专科疾病设置的医院，如妇产医院、儿童医院、口腔医院、传染病医院等。"
+  },
+  {
+   "cn": "专项预案",
+   "en": "special plan",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "针对学校某一类突发公共卫生事件的预防和控制而制定的、包含具体工作程序和措施的计划和实施方案的文件。"
+  },
+  {
+   "cn": "特殊儿童",
+   "en": "special child",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "需要给予特殊帮助、特殊教育才能发展的儿童。"
+  },
+  {
+   "cn": "特殊喂养",
+   "en": "Special feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "早产儿、低出生体重儿和其他患病婴儿，或哺乳母亲患病，以及在自然的或人为的紧急情况(如地震、海啸、洪水、干旱、风暴、工业事故、恐怖暴力事件等)时的喂养。"
+  },
+  {
+   "cn": "专科医院",
+   "en": "specialized hospital",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.1.2",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "专门针对某一类疾病或特定人群提供诊疗服务的医疗机构，如口腔医院、眼耳鼻喉科医院、肿瘤医院、精神病医院等。"
+  },
+  {
+   "cn": "特殊食品",
+   "en": "special food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "依据《中国人民共和国食品安全法》规定需要进行特殊监督管理的食品，包括保健食品、特殊医学用途配方食品和婴幼儿配方食品。"
+  },
+  {
+   "cn": "专间",
+   "en": "special room",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "为防止食品受到污染，以分隔方式设置的清洁程度要求较高的加工直接入口食品的专用操作间。"
+  },
+  {
+   "cn": "特殊进化",
+   "en": "special evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0582",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "“一般进化”的对称。由美国人类学家、新进化主义学派的代表人物塞维斯（Elman RogersService）和塞林斯（Marshall Sahlins）提出的概念。特殊进化即各个具体文化的具体进化，或"
+  },
+  {
+   "cn": "特殊检查",
+   "en": "special inspection",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.026",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "相对于常规检查而言，针对某个器官或者某种功能进行的专项检查。因可能具有一定危险性或产生不良后果，通常需要在专业医师对疾病的严格评估后，进行常规检查的筛查及特殊病情或脏器功能损伤的程度评估。"
+  },
+  {
+   "cn": "民族特需商品",
+   "en": "ethnic special products/ethnic special commodities/ethnic special goods",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0054",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中央和地方政府设立少数民族用品生产基地，在资金、设备、原材料等方面予以积极支持，实行就地取材，就地生产，就地供应。对少数民族地区没条件生产或暂时不能生产的产品，由政府组织其它地区的工厂、企业定点定量生"
+  },
+  {
+   "cn": "特殊医学检查",
+   "en": "special medical examination",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "一般指细胞遗传学检查和眼科检查等，其中细胞遗传学检查包括外周血淋巴细胞染色体畸变分析和淋巴细胞微核试验；眼科检查包括视力、色觉、眼底和裂隙灯检查。"
+  },
+  {
+   "cn": "特种可裂变材料",
+   "en": "special fissionable material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.2",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "含239Pu、233U、富集了同位素235U或233U的铀或有上述一种或几种物质的任何材料。"
+  },
+  {
+   "cn": "特殊居民群体",
+   "en": "special population group",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.18",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为了在发生核或辐射突发事件时采取有效的防护措施，需要做出特殊安排的公众成员。例如包括孕妇、儿童、残疾人、住院病人和囚犯等。"
+  },
+  {
+   "cn": "社会优抚",
+   "en": "social special care",
+   "source": "社会学名词",
+   "wordNumber": "4.3.11.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会优抚",
+   "subjectName": "社会优抚",
+   "publishYear": "2025",
+   "definition": "国家依法向现、退役军人及其家属提供优待、抚恤和安置，以确保其生活水平不低于所在地平均生活水平的一种褒扬性以及优待性的特殊社会保障制度。"
+  },
+  {
+   "cn": "专业化服务模式",
+   "en": "specialized service model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.32",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "由不同的社会服务机构按照专业化分工来分别提供不同服务的服务提供模式。"
+  },
+  {
+   "cn": "经济特区",
+   "en": "special economic zone",
+   "source": "马克思主义",
+   "wordNumber": "03.0519",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "允许外国企业或个人以及华侨、港澳同胞进行投资活动并实行特殊政策的地区。经济特区是我国改革开放和现代化建设的窗口、排头兵和试验场，也是建设中国特色社会主义的示范区。1979年4月30日邓小平提出创建，1"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

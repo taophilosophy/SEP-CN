@@ -1,0 +1,792 @@
+{
+ "key": "dike justice",
+ "term": "Dikē Justice",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:24:22+00:00",
+ "status": "ok",
+ "note": "variant=Dikē Justice; 审定公布名词库=152; 海峡两岸名词对照库=25; 其他来源数据库=19; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "公正",
+   "en": "justice",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.109",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "公平、正直，没有偏私。包括两个层次内容，即形式的公正与内容的公正。前者指同样的人给予相同的待遇，不同的人给予不同的待遇。后者指依据个人的地位、能力、贡献、需要等分配相应的负担和收益。"
+  },
+  {
+   "cn": "公平",
+   "en": "justice",
+   "source": "经济学名词",
+   "wordNumber": "09.034",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "在经济学的研究中，公平主要研究的是收入和财富的分配公平。包括经济公平和分配公平，经济公平指经济待遇方面的公平，分配公平指收入的公平分配状态。"
+  },
+  {
+   "cn": "生态正义",
+   "en": "ecological justice",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.209",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "在20世纪80年代以来的全球生态危机背景下，人们反思人与自然之间矛盾关系的观念，更新、探寻人与自然协调发展的解决途径时所提炼的正义理论的一种模式。侧重于指个人或社会集团的行为符合生态平衡原理、符合保护"
+  },
+  {
+   "cn": "代际正义",
+   "en": "intergenerational justice",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.210",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "既要满足当代人的发展需要，也要满足子孙后代的生存和发展需要（不可对后代人满足需要的能力构成危害）的正义实现模式。即当代人与后代人公平地享有地球资源与生态环境的分配正义理念在不同代际的落实。其实质是地球"
+  },
+  {
+   "cn": "环境正义",
+   "en": "environmental justice",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.248",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "20世纪80年代在美国兴起的一种旨在促进环境善物与抵消环境恶物进行公平处置的环境运动。其主张当代人之间、当代人与后代人之间在环境权利享有和环境不利后果承担方面应受到同等公正的对待。"
+  },
+  {
+   "cn": "技术正义",
+   "en": "technology justice",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.132",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "对技术中的价值、理性准则及技术的应用、发展走向的判断。"
+  },
+  {
+   "cn": "工程正义",
+   "en": "engineering justice",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.172",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "在进行工程行动的过程中，工程共同体要对自然环境负责，对社会公众负责，对消费者负责；同时还要对子孙后代负责，确保人类社会的可持续发展。此外，在工程共同体内部还要处理好责、权、利以及风险担当的分配关系。从"
+  },
+  {
+   "cn": "认知正义",
+   "en": "cognitive justice",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.015",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "认为不同知识体系应当平等共存的学术伦理判断。印度学者维斯瓦纳坦(Shiv Visvanathan)在其1997年的著作《科学嘉年华》(A Carnival for Science)中首先提出这一概念，"
+  },
+  {
+   "cn": "罗尔斯正义观",
+   "en": "Rawlsian justice",
+   "source": "经济学名词",
+   "wordNumber": "05.064",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "罗尔斯（John Bordley Rawls）把正义作为衡量社会制度的根本标准，其正义论的理论基础是新契约论。罗尔斯在坚决维护个人自由权利和机会平等的基础上，通过“差别原则”尽量限制社会不平等，改善社"
+  },
+  {
+   "cn": "行政司法",
+   "en": "administrative justice",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0380",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "行政机关在职责范围内，依照法定程序所进行的行政调解、行政裁决、行政仲裁和行政复议等准司法活动。"
+  },
+  {
+   "cn": "程序公平",
+   "en": "procedural justice",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0108",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "员工对用于做报酬决策的方法与程序是否公平的感受。"
+  },
+  {
+   "cn": "感知公正",
+   "en": "perceived justice",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0422",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "在形成服务补救评价时顾客衡量其投入产出的过程。包括程序公正、分配公正、交互公正。"
+  },
+  {
+   "cn": "互动公平",
+   "en": "interactional justice",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0109",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "个人对人际交往关系是否公平的感受。"
+  },
+  {
+   "cn": "程序公平",
+   "en": "procedural justice",
+   "source": "心理学名词",
+   "wordNumber": "12.040",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "管理决策及资源分配过程公平性的知觉。"
+  },
+  {
+   "cn": "互动公平",
+   "en": "interactional justice",
+   "source": "心理学名词",
+   "wordNumber": "12.041",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "员工在组织中获得的人际公平和信息公平待遇的知觉。"
+  },
+  {
+   "cn": "分配公平",
+   "en": "distributive justice",
+   "source": "心理学名词",
+   "wordNumber": "12.042",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "员工对工作所获得的各种结果及资源分配是否正当的判断知觉。"
+  },
+  {
+   "cn": "司法管辖权",
+   "en": "justice jurisdiction",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.066",
+   "subjectFullName": "放射医学与防护_法规与条约_核损害民事责任与赔偿",
+   "subjectName": "核损害民事责任与赔偿",
+   "publishYear": "2014",
+   "definition": "法院或司法机构对诉讼进行聆讯和司法审判的权利。既有属地管辖(不管是何人违法)，也有属人管辖(不管是何地违法)。司法管辖不限于刑事，还有行政的和民事的，大量的是民事的。"
+  },
+  {
+   "cn": "正义者同盟",
+   "en": "Justice League",
+   "source": "世界历史名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "1836年，从流亡者同盟中分化出来的革命者在巴黎成立的秘密组织，后转移到伦敦，成为国际性的工人组织。1847年，马克思和恩格斯参加同盟。"
+  },
+  {
+   "cn": "总主教法规集",
+   "en": "Mitropolitan Justice",
+   "source": "世界历史名词",
+   "wordNumber": "02.0739",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "古罗斯法律文献，为教会法庭的指南，编于13世纪至16世纪初，采用了《雅罗斯拉夫法典》、《罗斯法典》、《德维纳领地管理法规》。"
+  },
+  {
+   "cn": "社会公正",
+   "en": "social justice",
+   "source": "地理学名词",
+   "wordNumber": "24.012",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "对社会福利与负担的分配以及这种分配的产生方式的评价。"
+  },
+  {
+   "cn": "公正",
+   "en": "justice",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内在公正",
+   "en": "immanent justice",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "互动公平",
+   "en": "interactional justice",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分配公平",
+   "en": "distributive justice",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "程序公平",
+   "en": "procedural justice",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "区域公正",
+   "en": "territorial justice",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "社会公正",
+   "en": "social justice",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地理学与公正",
+   "en": "geography and justice",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "[联合国]国际法院",
+   "en": "International Court of Justice",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "岩脉",
+   "en": "dike",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "顺坝",
+   "en": "longitudinal dike\",\"parallel dike",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潜堤",
+   "en": "submerged dike",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基塘系统",
+   "en": "dike-pond system",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "风流寡妇",
+   "en": "Die lustige Witwe",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Lehár, Franz"
+  },
+  {
+   "cn": "海堤",
+   "en": "sea wall\",\"sea dike",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "肠液",
+   "en": "intestinal juice",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "消化液",
+   "en": "digestive juice",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "澄清汁",
+   "en": "defecated juice",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合计",
+   "en": "mixed juice",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "原汁",
+   "en": "absolute juice",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分配正义",
+   "en": "distributive justice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "代际正义",
+   "en": "intergenerational justice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字正义",
+   "en": "digital justice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧司法",
+   "en": "Smart Justice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "司法鸿沟",
+   "en": "justice gap",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正义",
+   "en": "Correct Meaning / Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正义论",
+   "en": "theory of justice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "义兵",
+   "en": "Army of Justice / Just War",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "司法行政科技",
+   "en": "technology for administration of justice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国国际法院",
+   "en": "United Nations International Court of Justice",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "义以生利，利以丰民",
+   "en": "Justice Brings Wealth, and Wealth Enriches People.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以义制事",
+   "en": "Handle Matters According to Morality and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正确义利观",
+   "en": "the correct concept of justice and interests",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "道济天下",
+   "en": "Support All People by Upholding Truth and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《治安和刑事审判机构数据保护指令》（欧盟）",
+   "en": "Data Protection Directive for Police and Criminal Justice Authorities (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学立法、严格执法、公正司法、全民守法",
+   "en": "take a well-conceived approach to law-making, and ensure that law is strictly enforced, justice is administered impartially, and the law is observed by all",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "DIKI链",
+   "en": "DIKI chain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不平则鸣",
+   "en": "Cry Out Against Injustice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公正",
+   "en": "justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.124",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "公平正直，没有偏私。包含两个方面的含义：①按同一原则或标准对待处于相同情况的人与事，即“一视同仁”，包含平等的意义；②所得的与所付出的相称或相适应，即“所得当得”。医疗公正的实质是医学发展成果的公平合"
+  },
+  {
+   "cn": "公正",
+   "en": "justice",
+   "source": "社会医学名词",
+   "wordNumber": "3.2.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "社会公平与正义，以实现人的解放和自由平等权利为前提，是国家和社会应遵循的基本价值理念。"
+  },
+  {
+   "cn": "社会公正",
+   "en": "social justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0269999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "社会行为层面的公正。政府在分配社会资源时公而不偏，根据基本需求人人平等，非基本需求合理差等原则进行宏观卫生资源的分配。"
+  },
+  {
+   "cn": "环境正义",
+   "en": "environmental justice",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.4",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "人们处理与自然生态环境关系时应当遵守的最基本的行为准则，它要求所有人（不论种族、肤色、国籍或收入）在处理有关环境法律、规则和政策的制定与执行时都能得到公平的对待和切实的参与。"
+  },
+  {
+   "cn": "社会正义",
+   "en": "social justice",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "社会政策理想的标准，社会中的资源根据人的需要公平分配以及机会均等。其目的不是要最终结果的完全平均和填平差别，而是承认个人的能力差异，保证人的潜能充分发展的平等机会和公正的回报。"
+  },
+  {
+   "cn": "社会正义",
+   "en": "social justice",
+   "source": "社会医学名词",
+   "wordNumber": "3.2.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "社会中的资源根据人的需要公平分配以及机会均等。其目的不是要最终结果的完全平均和填平差别，而是承认个人的能力差异，保证人的潜能充分发展的平等机会和公正的回报。"
+  },
+  {
+   "cn": "制度公正",
+   "en": "institutional justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0590000000000002",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "以权利义务关系为核心的人与人之间关系的合理状态，反映了规范化、定型化了的正式行为方式与交往关系结构的公正性。有助于维护稳定的社会秩序，构建融洽的社会关系，营造和谐的社会环境和生活环境，进而为人的自由全"
+  },
+  {
+   "cn": "程序公正",
+   "en": "procedural justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.058",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "过程和规则的公正。强调处事不仅要结果公平合理，处理过程也要符合公正的要求。"
+  },
+  {
+   "cn": "形式公正",
+   "en": "formal justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.029",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "手段和程序的公正。指在达成公正结果的过程中，采取的手段、程序应该是合理的。"
+  },
+  {
+   "cn": "实质公正",
+   "en": "substantial justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.028",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "内容和结果的公正。基本权利应该完全平等，非基本权利可以差别，但差别应该合理。"
+  },
+  {
+   "cn": "生产性正义与分配性正义",
+   "en": "production justice and distributive justice",
+   "source": "马克思主义",
+   "wordNumber": "05.0085",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "詹姆斯·奥康纳（James O'Connor）在《自然的理由：生态社会主义研究》中指出，生产性正义是生产过程的正当性与合理性，分配性正义就是交换方式与比例的合理性。资产阶级社会追求的是分配性正义。但是"
+  },
+  {
+   "cn": "正义论",
+   "en": "theory of justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.161",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "关于社会资源分配的公正问题的伦理学理论，主要代表人物是美国的约翰·罗尔斯（ John Bordley Rawls）。认为权利优先于善，公正（正义）是社会的首要价值。社会基本结构主要是用来分配公民的基本"
+  },
+  {
+   "cn": "公正原则",
+   "en": "principle of justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0260000000000002",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "平等地对待每一个人，不偏不倚。医疗公正指在医学活动中，每一个患者或研究参与者都应享有平等对待的权利，有权利获得所需要卫生资源的机会。"
+  },
+  {
+   "cn": "环境正义范式",
+   "en": "environmental justice paradigm ,EJP",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.4",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "响应全球绿色运动而产生的研究范式，认为所有人，不分世代、国籍、民族、种族、性别、教育、区域、地位、贫富等，都平等享有秩序、整洁及可持续性环境的自由以及免受环境破坏的危害之权利。"
+  },
+  {
+   "cn": "社会公正原则",
+   "en": "principle of social justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.037",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在社会资源、权利、机会和责任的分配中，遵循公平、合理和包容性的理念，以减少不平等、保障弱势群体权益，并促进全体成员共同福祉的伦理原则。"
+  },
+  {
+   "cn": "公平公正原则",
+   "en": "principle of fairness and justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.075",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "在医疗资源分配、健康服务提供以及医学决策中，确保所有个体或群体享有平等的机会和应有的待遇，避免歧视、偏见或不合理优先获得的伦理原则。"
+  },
+  {
+   "cn": "果汁",
+   "en": "fruit juice",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.3",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "以水果为原料，采用物理方法（机械方法、水浸提法等）制成的未发酵汁液、浆液制品，或在浓缩果浆中加入其加工过程中除去的等量水分复原制成的汁液制品。"
+  },
+  {
+   "cn": "果汁类罐头",
+   "en": "juice can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.4.8",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将符合要求的果实经破碎、榨汁、筛滤或浸取提汁等处理后制成的罐藏食品。"
+  },
+  {
+   "cn": "蔬菜汁罐头",
+   "en": "vegetable juice can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.5.5",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将一种或几种符合要求的新鲜蔬菜榨成汁（或制酱），并经调配、装罐等工序制成的罐藏食品。"
+  },
+  {
+   "cn": "果汁茶饮料",
+   "en": "fruit juice tea beverage",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.6.5",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "以茶叶的水提取液或其浓缩液、茶粉等为原料，加入果汁、食糖和（或）甜味剂等的一种或几种调制而成的液体饮料。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

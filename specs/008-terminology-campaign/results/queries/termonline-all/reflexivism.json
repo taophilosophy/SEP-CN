@@ -1,0 +1,42 @@
+{
+ "key": "reflexivism",
+ "term": "reflexivism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:36:33+00:00",
+ "status": "ok",
+ "note": "variant=reflexivism; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "自反性",
+   "en": "reflexivity",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0088",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "≤为Y上的二元关系，若对y∈Y，y≤y，则称≤满足自反性。"
+  },
+  {
+   "cn": "自反性",
+   "en": "reflexivity",
+   "source": "数学名词",
+   "wordNumber": "01.0121",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "反身性",
+   "en": "reflexivity",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义方法论的一个基本原则，是对研究过程和主体的一种批判性的自我反思，强调研究主体的对象性和研究对象的主体性，以减少研究过程中的偏见，打破主客体之间的僵化分离，建立与被研究者之间平等而非控制的关系。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

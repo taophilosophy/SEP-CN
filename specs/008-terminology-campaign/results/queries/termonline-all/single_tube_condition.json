@@ -1,0 +1,752 @@
+{
+ "key": "single tube condition",
+ "term": "single tube condition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:52:40+00:00",
+ "status": "ok",
+ "note": "variant=single tube condition; 审定公布名词库=5651; 海峡两岸名词对照库=1463; 其他来源数据库=130; 预公布名词数据库=110; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "单管压力计",
+   "en": "single tube manometer",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.718",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "单管压力计",
+   "en": "single-tube manometer",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "02.102",
+   "subjectFullName": "机械工程_仪器仪表_工业自动化仪表与系统_压力测量仪表_压力仪表名称",
+   "subjectName": "压力仪表名称",
+   "publishYear": "2003",
+   "definition": "由一垂直管和与其连通并与其内径成一定比例的容器组成的液柱压力计。"
+  },
+  {
+   "cn": "单油管采油井口",
+   "en": "single tubing wellhead",
+   "source": "石油名词",
+   "wordNumber": "12.0392",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "单腔营养管",
+   "en": "single-lumen feeding tube",
+   "source": "消化内镜学名词",
+   "wordNumber": "2.167",
+   "subjectFullName": "消化内镜学_消化内镜设备_附件和器械",
+   "subjectName": "附件和器械",
+   "publishYear": "2021",
+   "definition": "只有一个管腔提供肠内营养的导管。"
+  },
+  {
+   "cn": "单管水银压力表",
+   "en": "single tube mercury manometer",
+   "source": "计量学名词",
+   "wordNumber": "07.083",
+   "subjectFullName": "计量学_压力、真空_气压表",
+   "subjectName": "气压表",
+   "publishYear": "2015",
+   "definition": "利用玻璃管中水银柱的高度随压力变化而变化规律制成的测量压力的仪表。"
+  },
+  {
+   "cn": "单腔支气管导管",
+   "en": "single lumen endobronchial tube",
+   "source": "医学名词 第六分册",
+   "wordNumber": "11.116",
+   "subjectFullName": "医学_麻醉学",
+   "subjectName": "麻醉学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "单管荧光灯",
+   "en": "single tube fluorescent lamp",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0687",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "单管排",
+   "en": "single bank of tubes",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0679",
+   "subjectFullName": "化工（八）_化工设备_化工炉窑",
+   "subjectName": "化工炉窑",
+   "publishYear": "2021",
+   "definition": "沿炉墙呈单行排列的管排。"
+  },
+  {
+   "cn": "单口型压出机",
+   "en": "single-die tubing machine",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0757",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "用于制造和硫化小规格的模型橡胶制品的一种综合机械设备。由螺杆压出机、卧式水平压力机和装有电热器的压模等构成。"
+  },
+  {
+   "cn": "单套管式废热锅炉",
+   "en": "single tube waste heat boiler",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0372",
+   "subjectFullName": "化工（八）_化工设备_换热设备",
+   "subjectName": "换热设备",
+   "publishYear": "2021",
+   "definition": "由一组直立的且同轴线的内外套管组成，高温气体走内管，内外管环隙走循环水的废热锅炉。"
+  },
+  {
+   "cn": "单管单孔逆流撞击流混合器",
+   "en": "single tube single hole countercurrent impinging stream mixer",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.222",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "由喷嘴高速喷出的气体与通过多孔分布板的另一股气体逆向碰撞实现高效混合的气气混合装置。"
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0693",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "基本网系统中，条件集 B 的元素称为条件。条件类似于一般佩特里网中的库所，不过它的容量值为1。"
+  },
+  {
+   "cn": "即位条件",
+   "en": "Conditions",
+   "source": "世界历史名词",
+   "wordNumber": "05.0037",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄国最高枢密院为限制君主制，于1730年对安娜女皇登基所提出的条件。安娜表示应允，后又拒绝，并解散了最高枢密院。"
+  },
+  {
+   "cn": "调质",
+   "en": "conditioning",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0696",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "粉状物料或料坯经水、热处理，特性产生明显变化的工序。可使淀粉部分糊化、蛋白质变性、有害病菌灭活、有害因子钝化及物料软化，提高制粒质量和效能。"
+  },
+  {
+   "cn": "调浆",
+   "en": "conditioning",
+   "source": "冶金学名词",
+   "wordNumber": "03.0070",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "将矿粉或矿浆调节成所需要的矿浆浓度或使矿浆与药剂充分混合的过程。"
+  },
+  {
+   "cn": "调温调湿",
+   "en": "conditioning",
+   "source": "林学名词",
+   "wordNumber": "11.163",
+   "subjectFullName": "林学_木材科学与技术_木材保护与功能性改良",
+   "subjectName": "木材保护与功能性改良",
+   "publishYear": "2016",
+   "definition": "对木材或其他材料的含水量调整，使其达到符合使用要求的水平。"
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "化学名词",
+   "wordNumber": "06.0661",
+   "subjectFullName": "化学_放射化学_核燃料循环化学",
+   "subjectName": "核燃料循环化学",
+   "publishYear": "2016",
+   "definition": "在高放废物储存或地质处置之前，将其中的某些元素转化为适合于安全储存的化学形态的操作。如将易挥发的放射性碘转化为稳定的碘化银。"
+  },
+  {
+   "cn": "老化",
+   "en": "conditioning",
+   "source": "化学名词",
+   "wordNumber": "03.2126",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "色谱柱或分离通道的预处理过程。在气相色谱中一般是在升高温度的同时给色谱柱通载气，以除去色谱柱中的残留溶剂和易挥发性杂质，并使固定相分布更均匀，性能更稳定；在液相色谱中，常常是用流动相通过色谱柱，在毛细"
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0485",
+   "subjectFullName": "材料科学技术_天然材料_皮革",
+   "subjectName": "皮革",
+   "publishYear": "2011",
+   "definition": "使干燥后的皮革重新吸收一定量的水分，从而使皮革中的水分分布均匀并使其水分含量符合后续的机械做软需要的操作。"
+  },
+  {
+   "cn": "吐沙",
+   "en": "conditioning",
+   "source": "水产名词",
+   "wordNumber": "08.472",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "将活的贝类放在盛有清洁海水的容器中，以除去其体内的沙子和泥土。"
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "输液管",
+   "en": "tubing",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "角条件",
+   "en": "angle condition\",\"angular  condition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "最终条件",
+   "en": "final condition\",\"terminal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "耳咽管（=咽鼓管）",
+   "en": "pharyngotympanic tube\",\"auditory tube\",\"Eustachian tube",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "欧氏管（=咽鼓管）",
+   "en": "pharyngotympanic tube\",\"auditory tube\",\"Eustachian tube",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "心管",
+   "en": "cardiac tube\",\"heart tube\",\"cardial tube",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "咽鼓管，耳咽管",
+   "en": "pharyngotympanic tube\",\"auditory tube\",\"Eustachian tube",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "冷凝管",
+   "en": "condensation tube\",\"condensing tube",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摄像管",
+   "en": "camera tube\",\"pickup tube",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "咽鼓管，欧氏管",
+   "en": "pharyngotympanic tube\",\"Eustachian tube",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "单交换",
+   "en": "single crossover\",\"single exchange",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育条件",
+   "en": "developmental condition",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遍历条件",
+   "en": "ergodic condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不稳定条件",
+   "en": "unstable condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单人艇",
+   "en": "single",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打",
+   "en": "singles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打",
+   "en": "singles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内胎",
+   "en": "inner tube\",\"tube",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打比赛",
+   "en": "singles\",\"singles match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单人双桨队员",
+   "en": "single rower\",\"single sculler",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打比赛",
+   "en": "singles game\",\"singles match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单靶",
+   "en": "single target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接决赛",
+   "en": "single round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单周空翻",
+   "en": "single somersault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单结",
+   "en": "single knot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打球网",
+   "en": "singles net",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "计数管",
+   "en": "counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.1.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_α、β粒子辐射监测设备",
+   "subjectName": "α、β粒子辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种充有适当气体和加适当电场能产生气体放大并能将电离辐射在灵敏体积内产生的离子和电子收集在电极上的脉冲式气体电离探测器。"
+  },
+  {
+   "cn": "中子管",
+   "en": "neutron tube",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.13",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "将离子源、加速系统、靶以及气压调节系统密封在一支玻璃、陶瓷、不锈钢等管内，构成一支结构紧凑的真空器件。"
+  },
+  {
+   "cn": "输卵管结扎术",
+   "en": "tube ligation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.2.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "将输卵管切断或不切断后结扎，阻断输卵管，阻断卵子运送和精卵相遇结合，达到永久性避孕目的的一种手术方法。有多种手术方式，包括经腹、经阴道、腹腔镜下手术等。"
+  },
+  {
+   "cn": "光电倍增管",
+   "en": "photomultiplier tube",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.10",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "对光电流具有放大作用的光电管。它具有多个倍增极(或称打拿极)，各极之间有很高的电势差。它的倍增极愈多，达到的放大倍数愈高。"
+  },
+  {
+   "cn": "单次摄入",
+   "en": "single intake",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.13",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性物质的非持续性、一次性的摄入，其吸收率骤增速止，组织内放射性活度迅速上升而后随时间延长而逐渐降低。当不溶性铀、钍或钚的氧化物在肺内沉积，或非转移性亲骨性放射性核素在伤口沉积时，该部位的核素呈递减"
+  },
+  {
+   "cn": "单身母亲",
+   "en": "single mother",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "只有子女，无法定配偶的女性，包括未婚妈妈，离异妈妈，丧偶妈妈。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "毛细管色谱法",
+   "en": "capillary tube chromatography",
+   "source": "消毒学",
+   "wordNumber": "6.1.13.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "以毛细管柱代替填充柱作为色谱柱进行样品中混合组分分离的气相色谱法。"
+  },
+  {
+   "cn": "菌种保藏管",
+   "en": "strain storage tube",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.9.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "使通过适宜方法将代谢速率降至最低的微生物长期存活、不被污染、不易衰退、原有生物学特性稳定且方便较长时间反复使用的菌种储存装置。"
+  },
+  {
+   "cn": "聚四氟乙烯管载体",
+   "en": "teflon tube carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以经过脱脂处理的聚四氟乙烯管作为试验微生物的支持物。多制成外径6mm、内径4mm、长度20-40mm，根据特定用途也可用其他尺寸。常用于消毒对象为非金属管腔医疗器械的消毒试验。"
+  },
+  {
+   "cn": "乳糖发酵管",
+   "en": "lactose fermentation tube",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.6.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "用乳糖发酵培养基制成的生化鉴定管，其原理是某些细菌能分解乳糖产酸使培养基中的溴甲酚紫指示剂显黄色，同时产气可在小倒管中观察到气泡，常用于大肠菌群的生化鉴定。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

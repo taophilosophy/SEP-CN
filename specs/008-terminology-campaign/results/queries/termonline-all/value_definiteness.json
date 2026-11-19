@@ -1,0 +1,762 @@
+{
+ "key": "value definiteness",
+ "term": "value definiteness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:01:16+00:00",
+ "status": "ok",
+ "note": "variant=value definiteness; 审定公布名词库=2467; 海峡两岸名词对照库=679; 其他来源数据库=77; 预公布名词数据库=123; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "医学影像技术学名词",
+   "wordNumber": "02.035",
+   "subjectFullName": "医学影像技术学_普通X射线成像技术_普通X射线成像基础",
+   "subjectName": "普通X射线成像基础",
+   "publishYear": "2020",
+   "definition": "影像能够反映被测物体微细结构的综合能力。受分辨力、模糊度、颗粒程度及再现性等影响。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "物理学名词",
+   "wordNumber": "01.0272",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定义",
+   "en": "definition",
+   "source": "物理学名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0690",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "影像上各细部影纹及其边界的清晰程度。"
+  },
+  {
+   "cn": "有定",
+   "en": "definite",
+   "source": "语言学名词",
+   "wordNumber": "04.098",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“无定”相对。语法和语义学术语。名词的语法性质之一，指说话人认为听说双方都能识别确认的对象。例如“客人来了”里的“客人”就是有定的。"
+  },
+  {
+   "cn": "义界",
+   "en": "definition",
+   "source": "语言学名词",
+   "wordNumber": "10.030",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用定义来表述词义内容的训释方式。典型的义界结构是“义值差+主训词”。例如“观，谛视也”，其中“谛”为义值差，“视”为主训词。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.257",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "定义",
+   "en": "definition",
+   "source": "数学名词",
+   "wordNumber": "01.0012",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "电子学名词",
+   "wordNumber": "10.261",
+   "subjectFullName": "电子学_真空电子学",
+   "subjectName": "真空电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "定解条件",
+   "en": "definite condition",
+   "source": "地质学名词",
+   "wordNumber": "16.05.112",
+   "subjectFullName": "地质学_水文地质学_水文地质调查",
+   "subjectName": "水文地质调查",
+   "publishYear": "2026",
+   "definition": "微分方程的初始条件和边界条件的统称。"
+  },
+  {
+   "cn": "显定义",
+   "en": "explicit definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.039",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对一个概念给出了完整与准确意义的定义。"
+  },
+  {
+   "cn": "隐定义",
+   "en": "implicit definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.040",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对一个概念的定义中出现的其他概念所作的定义。"
+  },
+  {
+   "cn": "操作定义",
+   "en": "operational definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.041",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "可以通过一系列操作性陈述来给出定义。"
+  },
+  {
+   "cn": "实指定义",
+   "en": "ostensive definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.042",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "当概念的意义难以用语言定义时，可以通过举出例证的方法来给出。"
+  },
+  {
+   "cn": "非直谓定义",
+   "en": "impredicative definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.267",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "违反恶性循环原则的定义或刻画。常见于古典数学（如有界实数集的“上确界”的定义）和日常表达（如对“这个屋子里个子最高的人”的刻画）。"
+  },
+  {
+   "cn": "内含子界定",
+   "en": "intron definition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0261",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "由剪接因子同时识别内含子5′剪接位点、分支点及3′剪接位点的过程。多见于小内含子（100～300个核苷酸）的剪接，如酿酒酵母含内含子的基因。"
+  },
+  {
+   "cn": "外显子界定",
+   "en": "exon definition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0262",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "由剪接因子识别3′剪接位点和下一个内含子5′剪接位点，形成一个跨外显子复合物、进而将其转换为跨内含子复合物的过程。"
+  },
+  {
+   "cn": "终末宿主",
+   "en": "definitive host",
+   "source": "兽医学名词",
+   "wordNumber": "12.016",
+   "subjectFullName": "兽医学_兽医寄生虫学",
+   "subjectName": "兽医寄生虫学",
+   "publishYear": "2023",
+   "definition": "寄生虫成虫(性成熟阶段)或有性生殖阶段虫体所寄生的宿主。"
+  },
+  {
+   "cn": "定义不确定度",
+   "en": "definitional uncertainty",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0201",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "被测量定义中细节量有限所引起的测量不确定度分量。"
+  },
+  {
+   "cn": "有限花序",
+   "en": "definite inflorescence",
+   "source": "植物学名词",
+   "wordNumber": "03.0492",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "花序的一种。花序轴顶端的花先开，故花序轴受到限制而不能继续向上生长、延伸。而由侧枝顶端产生花芽，开花的顺序为花序轴顶端和中央的花先开，下部或外边的花后开。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有限花序",
+   "en": "definite inflorescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "操作性定义",
+   "en": "operational definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念定义",
+   "en": "conceptual definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "既定轨道",
+   "en": "definitive orbit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "确定时",
+   "en": "definitive time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "正式命名",
+   "en": "definite designation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "确定保险",
+   "en": "definite insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定价格",
+   "en": "definite price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定使用货币",
+   "en": "definitive money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定询价",
+   "en": "definite inquiry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确切订单",
+   "en": "definite order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "正式债券",
+   "en": "definitive bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "属性定义",
+   "en": "attribute definition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据定义",
+   "en": "data definition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "弧定义",
+   "en": "arc definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "弦定义",
+   "en": "chord definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定义阶段",
+   "en": "definition phase",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定义性出现",
+   "en": "definitional occurrence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超高清",
+   "en": "Ultra High Definition",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量模型定义",
+   "en": "quality model definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公益界定",
+   "en": "public interest definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享价值观",
+   "en": "shared value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值交换",
+   "en": "value exchange",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据价值",
+   "en": "data value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户价值",
+   "en": "user value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缺失值",
+   "en": "missing value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享价值",
+   "en": "Shared Value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值创造",
+   "en": "value creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值分配",
+   "en": "value distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "剩余价值",
+   "en": "surplus value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织价值",
+   "en": "organization value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "杂凑值",
+   "en": "hash value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病例定义",
+   "en": "case definition",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "通过明确的临床诊断标准及对时间、空间和人群的限值确定的标准化条件，用于确定某个体是否处于某种健康相关状况。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "马克思主义",
+   "wordNumber": "02.0036",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "凝结在商品中无差别的人类劳动，包括脑力劳动和体力劳动。价值是商品所特有的属性，作为商品的社会属性，它反映的是商品生产者之间的社会关系。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1159999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "客体对主体需要的效用。作为元伦理范畴，价值是客体具有的满足主体需要、实现主体欲望、符合主体目的的效用性。"
+  },
+  {
+   "cn": "价值观",
+   "en": "values",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.7",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "人们对事物及意义的评价体系，是人们采取行动或行为取向的评价尺度和选择标准。"
+  },
+  {
+   "cn": "S值",
+   "en": "S value, ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.23",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对于男性参考人和女性参考人，源区rS中给定放射性核素的每次核转变（核反应或衰变）到靶区rT的当量剂量，Sv(Bq·s)-1。"
+  },
+  {
+   "cn": "D值",
+   "en": "D value",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.115",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定的处理环境中和在一定的热力致死温度条件下，某细菌数群中每杀死90%原有残存活菌数时所需要的时间。"
+  },
+  {
+   "cn": "A0值",
+   "en": "A0 value",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "生物体在80℃时达到特定Z值所用的等效时间，是评价湿热消毒效果的指标之一，单位以秒（S）表示。A0值为600时实现低水平消毒，A0值为3000时实现中水平消毒。"
+  },
+  {
+   "cn": "标定值",
+   "en": "stated value",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当指示物变化达到指示物制造商定义的终点时，过程关键变量的值或值的范围。"
+  },
+  {
+   "cn": "D值",
+   "en": "D-value",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，杀灭试验微生物总数的90%所需的时间或剂量。"
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "溶液中氢离子浓度的负对数值。"
+  },
+  {
+   "cn": "Q值",
+   "en": "Q value",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒作用温度每升高1℃消毒速度加快的倍数的温度系数。"
+  },
+  {
+   "cn": "Q10值",
+   "en": "Q10 value",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.1.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒作用温度每升高10℃消毒速度加快倍数的一种温度系数。"
+  },
+  {
+   "cn": "G值",
+   "en": "G value",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.35",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "表示辐射化学产额，物质每吸收100 eV电离辐射能量所形成的分子或基团数。其值大小，常与射线的能量和种类有关。"
+  },
+  {
+   "cn": "基线值",
+   "en": "baseline value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.22",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "设备性能参数的参考值。通常在验收检测合格后，由最初的性能检测得到，或者由相应的标准给定。"
+  },
+  {
+   "cn": "指导值",
+   "en": "guidance value",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "指定量的一个水平，高于该水平时应考虑采取适当的行动。某些情况下，在指定量实际上低于该水平时，亦可能需要考虑采取某些行动。"
+  },
+  {
+   "cn": "价值中立",
+   "en": "value free",
+   "source": "社会学名词",
+   "wordNumber": "1.2.2.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则",
+   "subjectName": "伦理准则",
+   "publishYear": "2025",
+   "definition": "在研究过程中，只客观地陈述事实而不做价值判断的研究方式。"
+  },
+  {
+   "cn": "社会价值观",
+   "en": "social value",
+   "source": "社会学名词",
+   "wordNumber": "2.8.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度",
+   "subjectName": "社会制度",
+   "publishYear": "2025",
+   "definition": "普遍存在的社会成员对客观事物的观念和评价。社会价值观的形成受到人与自然、社会之间关系的影响，反映了社会主体对客体对象的功利性认知。"
+  },
+  {
+   "cn": "价值理性",
+   "en": "value rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.6",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动者相信特定的行为无条件地具有价值，行动者强调追求动机的纯正和选择正确的手段去实现目的，而不管其结果如何的行动取向。"
+  },
+  {
+   "cn": "文化价值",
+   "en": "cultural value",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "被特定的生活习性和观念所界定，伴随道德伦理的表达系统。对内它对个体成员具有绝对性，即同质性；对外表现出价值的相对性，即异质性。"
+  },
+  {
+   "cn": "社会价值",
+   "en": "social value",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "社会中的人们所持有的价值观，尤其是主流的价值观。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

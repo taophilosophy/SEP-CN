@@ -1,0 +1,42 @@
+{
+ "key": "irada",
+ "term": "irāda",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:46:04+00:00",
+ "status": "ok",
+ "note": "variant=irāda; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "间歇性节律性δ活动",
+   "en": "intermittent rhythmic delta activity,IRDA",
+   "source": "神经病学名词",
+   "wordNumber": "05.366",
+   "subjectFullName": "神经病学_神经病诊断技术_临床脑电图学",
+   "subjectName": "临床脑电图学",
+   "publishYear": "2020",
+   "definition": "间断的成串出现的节律 δ 波，双侧同步但可不对称。此种放电可能以额部或枕部为主。多见于皮质下深部损伤，也可见于代谢性或缺氧性脑病。"
+  },
+  {
+   "cn": "红外线数据协会",
+   "en": "the infrared data association,IrDA",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0483",
+   "subjectFullName": "计算机科学技术_网络与数据通信_无线网络",
+   "subjectName": "无线网络",
+   "publishYear": "2018",
+   "definition": "一个设备制造商组织。它为通过红外线传输数据研制标准。"
+  },
+  {
+   "cn": "红外线标准端口",
+   "en": "IrDA port",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0482",
+   "subjectFullName": "计算机科学技术_网络与数据通信_无线网络",
+   "subjectName": "无线网络",
+   "publishYear": "2018",
+   "definition": "一种允许无线键盘与个人计算机通信的端口。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

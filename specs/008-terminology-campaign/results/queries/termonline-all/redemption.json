@@ -1,0 +1,592 @@
+{
+ "key": "redemption",
+ "term": "redemption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:12:48+00:00",
+ "status": "ok",
+ "note": "variant=redemption; 审定公布名词库=42; 海峡两岸名词对照库=31; 其他来源数据库=11; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "赎地手续",
+   "en": "Redemption Operation",
+   "source": "世界历史名词",
+   "wordNumber": "05.0165",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1861-1906年间，俄国农民从地主手里赎回1861年农民改革规定的份地，由政府付给地主赎地金总额，农民须在49年内偿还，年息6％。"
+  },
+  {
+   "cn": "赠券抵用率",
+   "en": "coupon redemption rate",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0104",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "跟踪并评价赠券使用情况的一个指标。由抵用的赠券数量除以派发的赠券数量的百分比计算而得。"
+  },
+  {
+   "cn": "中断",
+   "en": "preemption",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0152",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "机器故障使得工件加工的停止。"
+  },
+  {
+   "cn": "豁免",
+   "en": "exemption",
+   "source": "核医学名词",
+   "wordNumber": "02.0529",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "根据实践和理论上的风险水平，符合有关规定的要求，并经主管部门同意后，对特定辐射安全防护管理方面所确认的免除特定监管措施的状态和过程。"
+  },
+  {
+   "cn": "豁免",
+   "en": "exemption",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.046",
+   "subjectFullName": "放射医学与防护_法规与条约_管理",
+   "subjectName": "管理",
+   "publishYear": "2014",
+   "definition": "实践和实践中的源经确认符合规定的豁免要求或水平并经监管部门同意后，不采取许可、注册的方式进行管理。"
+  },
+  {
+   "cn": "豁免",
+   "en": "exemption",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.224",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "由于源或实践太小，不需要对其应用授权，或已是防护的优化选择而不需考虑其剂量或风险的实际水平，基于其产生的照射(包括潜在照射)的水平或可能性，经审管部门同意免除对其部分或全部的审管控制。"
+  },
+  {
+   "cn": "免修",
+   "en": "exemption",
+   "source": "教育学名词",
+   "wordNumber": "08.188",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "在一定条件下学生免于修习一般应修读的有关课程的教学制度。"
+  },
+  {
+   "cn": "豁免",
+   "en": "exemption",
+   "source": "航海科技名词",
+   "wordNumber": "09.0254",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "复刊号",
+   "en": "resumption issue",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.03.031",
+   "subjectFullName": "编辑与出版学_出版物_报纸期刊",
+   "subjectName": "报纸期刊",
+   "publishYear": "2022",
+   "definition": "已经停止出版的报刊又以原名称恢复出版后的首期。"
+  },
+  {
+   "cn": "验收量规",
+   "en": "reception gage",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "10.066",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_量具与量仪_量具",
+   "subjectName": "量具",
+   "publishYear": "2021",
+   "definition": "验收成品用的量规。"
+  },
+  {
+   "cn": "免责条款",
+   "en": "exemption clause",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0231",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "当事人约定的用以免除或逃避其未来合同责任的条款。"
+  },
+  {
+   "cn": "接受学习",
+   "en": "reception learning",
+   "source": "心理学名词",
+   "wordNumber": "09.008",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "通过经验传递系统，掌握或占有他人经验的一种学习方式。"
+  },
+  {
+   "cn": "豁免水平",
+   "en": "exemption level",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.225",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "审管部门规定的一个数值，通常用活度浓度、总活度、剂量率或辐射能量来表示，在这个数值及其以下，辐射源可获得法规控制的豁免。"
+  },
+  {
+   "cn": "接待室",
+   "en": "reception room",
+   "source": "建筑学名词",
+   "wordNumber": "02.0036",
+   "subjectFullName": "建筑学_建筑类型及组成_通用建筑类型及组成",
+   "subjectName": "通用建筑类型及组成",
+   "publishYear": "2014",
+   "definition": "接见、会见、招待来访者的房间。"
+  },
+  {
+   "cn": "服务台",
+   "en": "reception desk",
+   "source": "建筑学名词",
+   "wordNumber": "02.0031",
+   "subjectFullName": "建筑学_建筑类型及组成_通用建筑类型及组成",
+   "subjectName": "通用建筑类型及组成",
+   "publishYear": "2014",
+   "definition": "提供咨询、办理相关手续等综合服务的柜台。"
+  },
+  {
+   "cn": "免除证书",
+   "en": "Exemption Certificate",
+   "source": "水产名词",
+   "wordNumber": "09.248",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "根据安全公约的规定，船旗国政府主管机关在特殊情况下，对从事国际航行的某些船舶所签发的准予免除公约附则的部分或全部要求的证书。"
+  },
+  {
+   "cn": "免除证书",
+   "en": "Exemption Certificate",
+   "source": "船舶工程名词",
+   "wordNumber": "01.169",
+   "subjectFullName": "船舶工程_船舶种类及船舶检验、国际公约和证书",
+   "subjectName": "船舶种类及船舶检验、国际公约和证书",
+   "publishYear": "1998",
+   "definition": "根据“国际海上人命安全公约”的规定，船旗国政府主管机关在特殊情况下，对从事国际航行的某些船舶所签发的准予免除遵守公约附则某些条文或全部条文要求的证书。"
+  },
+  {
+   "cn": "接收设备",
+   "en": "reception facilities",
+   "source": "船舶工程名词",
+   "wordNumber": "06.506",
+   "subjectFullName": "船舶工程_船舶机械",
+   "subjectName": "船舶机械",
+   "publishYear": "1998",
+   "definition": "接收船上留存的或不能排放入海的残油或油性混合物用的专门设施。"
+  },
+  {
+   "cn": "分集接收",
+   "en": "diversity reception",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0577",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "分离多径接收",
+   "en": "Rake reception",
+   "source": "电子学名词",
+   "wordNumber": "21.244",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "偿债收益",
+   "en": "redemption yield",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "清算银行",
+   "en": "redemption agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[证券]偿还条款",
+   "en": "redemption provision",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股份赎回",
+   "en": "stock redemption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自愿兑换",
+   "en": "voluntary redemption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "债券偿还",
+   "en": "redemption of bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股票偿还盈余",
+   "en": "surplus from stock redemption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "资本偿还准备基金",
+   "en": "capital redemption reserve fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抢先",
+   "en": "preemption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "豁免",
+   "en": "exemption",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "定向接收",
+   "en": "directional reception\",\"beam reception",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "免征关税",
+   "en": "duty exemption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "税收减免",
+   "en": "tax exemption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "接收二极管",
+   "en": "reception diode",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "差拍[频]接收",
+   "en": "beat reception",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多径接收",
+   "en": "multipath reception",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分离多径接收",
+   "en": "Rake reception",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自差式接收",
+   "en": "autodyne reception",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "除外条款",
+   "en": "exemption clause",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "豁免证书",
+   "en": "exemption certificate",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "接发球",
+   "en": "reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receive\",\"reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receive\",\"reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远程接访",
+   "en": "remote reception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "接发球",
+   "en": "service reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球",
+   "en": "service reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垫球",
+   "en": "bump reception\",\"dig",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球队员",
+   "en": "receiver\",\"reception specialist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "catch\",\"receive\",\"catching\",\"reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二次触球",
+   "en": "bad ball handing\",\"bad catching\",\"bad reception\",\"double touch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "灵活复工",
+   "en": "to apply a flexible approach to the resumption of work",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "和平赎买",
+   "en": "peaceful redemption",
+   "source": "马克思主义",
+   "wordNumber": "02.0357",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取政权后,采取有偿办法把资产阶级的生产资料逐步收归国有的政策。马克思和列宁都提出过这一设想，以毛泽东为代表的中国共产党人创造性地实践了这一设想。通过国家资本主义方式，在相当一段时期内让资本家"
+  },
+  {
+   "cn": "豁免",
+   "en": "exemption",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.8.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_豁免与解控",
+   "subjectName": "豁免与解控",
+   "publishYear": "2025",
+   "definition": "经监管部门决定对某个源或某项实践免于部分或全部的监管控制，其依据是该源或实践所造成的照射或潜在照射太弱，没必要对其应用此等监管控制，而且无论剂量或危险的实际水平如何，这都是最佳防护选择。"
+  },
+  {
+   "cn": "豁免水平",
+   "en": "exemption level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.8.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_豁免与解控",
+   "subjectName": "豁免与解控",
+   "publishYear": "2025",
+   "definition": "由审管部门确定并以活度浓度、总活度、剂量率或辐射能量表示的值，在此值或以下辐射源的某些或所有方面无需接受审管控制。"
+  },
+  {
+   "cn": "接受理论",
+   "en": "reception theory",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.3",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "文学理论中关于读者反应的一种学说，强调读者对文学作品的接受程度，讨论文学作品与读者之间的关系。德国美学家姚斯(H.R.Jauss）在20世纪60年代最先提出该理论。"
+  },
+  {
+   "cn": "复课管理",
+   "en": "class resumption management",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.3.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "师生员工病愈或隔离期满后，持出院小结或解除隔离告知书等材料到学校卫生室（保健室）复核确认登记，持有校医（保健老师）出具复课/复工证明后上课/上岗的过程。"
+  },
+  {
+   "cn": "医疗废物豁免",
+   "en": "exemption for medical waste",
+   "source": "消毒学",
+   "wordNumber": "7.2.2.1",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "符合医疗废物定义，但是无风险或者风险较低，在满足相关条件时，在部分环节或全部环节可不按照医疗废物进行管理的废弃物。"
+  },
+  {
+   "cn": "农药豁免残留限量",
+   "en": "pesticide exemption residue limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.18",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "根据科学评估，某些农药在特定农产品中的残留被认定为对人类健康和环境风险极低，因此无需设定最大残留限量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

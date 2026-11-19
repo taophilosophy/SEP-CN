@@ -1,0 +1,752 @@
+{
+ "key": "moderate internalism",
+ "term": "moderate internalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:42:47+00:00",
+ "status": "ok",
+ "note": "variant=moderate internalism; 审定公布名词库=1605; 海峡两岸名词对照库=805; 其他来源数据库=185; 预公布名词数据库=134; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "慢化剂",
+   "en": "moderator",
+   "source": "电力名词",
+   "wordNumber": "17.062",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "热中子堆内用以降低快中子能量的材料。对其主要要求是:慢化能力强、中子吸收弱、与冷却剂和燃料棒包壳以及其他结构材料的相容性好、热和辐照稳定性好、易获取、价格便宜等。常用慢化剂材料有水、重水、石墨和铍等。"
+  },
+  {
+   "cn": "慢化剂",
+   "en": "moderator",
+   "source": "物理学名词",
+   "wordNumber": "09.0610",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "会议监管人",
+   "en": "moderator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0776",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "在计算机会议中，对提交的文章可以做出接收、修改或拒绝接收决定的人。"
+  },
+  {
+   "cn": "慢化剂",
+   "en": "moderator",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.364",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "反应堆中用于降低中子能量的材料。高能中子通过与慢化剂原子核发生散射作用使其慢化，而无明显的中子俘获吸收。通常选用石墨、重水、轻水和铍作为反应堆的慢化剂材料。"
+  },
+  {
+   "cn": "半腐殖质",
+   "en": "moder",
+   "source": "林学名词",
+   "wordNumber": "02.200",
+   "subjectFullName": "林学_林学基础_森林土壤",
+   "subjectName": "森林土壤",
+   "publishYear": "2016",
+   "definition": "粗腐殖质和细腐殖质的过渡类型。森林土壤表层同时具有未分解和细碎半分解的凋落物层的腐殖质组型。"
+  },
+  {
+   "cn": "半腐殖质",
+   "en": "moder",
+   "source": "土壤学名词",
+   "wordNumber": "02.498",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "弱腐殖化的植物残体。"
+  },
+  {
+   "cn": "中震",
+   "en": "moderate earthquake",
+   "source": "地质学名词",
+   "wordNumber": "11.02.021",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "里氏震级≥5级且＜7级的地震。这类地震可造成不同程度破坏。"
+  },
+  {
+   "cn": "中度烧伤",
+   "en": "moderate burn",
+   "source": "整形外科名词",
+   "wordNumber": "2.019",
+   "subjectFullName": "整形外科_创伤修复_急性创伤",
+   "subjectName": "急性创伤",
+   "publishYear": "2026",
+   "definition": "成人烧伤面积在11%～30%（小儿在5%～15%）或Ⅲ度烧伤面积在10%以下（小儿在5%以下），并且无吸入性损伤或者严重并发症的烧伤。"
+  },
+  {
+   "cn": "中坡",
+   "en": "moderate slope",
+   "source": "风景园林名词",
+   "wordNumber": "08.0052",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程地形整理",
+   "subjectName": "风景园林工程地形整理",
+   "publishYear": "2025",
+   "definition": "地形中坡度在10%～25%的用地。"
+  },
+  {
+   "cn": "中度脱水",
+   "en": "moderate dehydration",
+   "source": "急救医学名词",
+   "wordNumber": "03.272",
+   "subjectFullName": "急救医学_日常医学急救_外科学_体液平衡失调",
+   "subjectName": "体液平衡失调",
+   "publishYear": "2025",
+   "definition": "体液总量的减少（失水量）占5%～10%的体重或相当于体液丢失50～100ml/kg的脱水类型。临床表现为精神萎靡、烦躁，眼泪少，口渴明显，尿量减少，皮肤干燥、苍白、弹性差，黏膜干燥，眼窝凹陷，前囟下陷"
+  },
+  {
+   "cn": "中等热",
+   "en": "moderate heat",
+   "source": "兽医学名词",
+   "wordNumber": "13.030",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "升高1.0~2.0℃的体温。见于呼吸系统、消化系统的一般炎症以及某些亚急性、慢性传染病。"
+  },
+  {
+   "cn": "中度少精子症",
+   "en": "moderate oligozoospermia",
+   "source": "生殖医学名词",
+   "wordNumber": "4.24",
+   "subjectFullName": "生殖医学_生殖系统疾病_男性生殖系统疾病",
+   "subjectName": "男性生殖系统疾病",
+   "publishYear": "2022",
+   "definition": "射出精液的精子浓度≥5×106/ml，但＜10× 106/ml。"
+  },
+  {
+   "cn": "中度放牧",
+   "en": "moderate grazing ",
+   "source": "草学名词",
+   "wordNumber": "2.0455",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "中度退化",
+   "en": "moderate degradation ",
+   "source": "草学名词",
+   "wordNumber": "2.0583",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "中雨",
+   "en": "moderate rain ",
+   "source": "草学名词",
+   "wordNumber": "3.066",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "中速促进剂",
+   "en": "moderate accelerator",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0686",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "基于胍类化合物的促进剂。国际上习惯以噻唑类化合物对天然橡胶的硫化速率为准超速，硫化速率低于此比较基准的则属于慢速或中速促进剂，胍类化合物属于中速促进剂。"
+  },
+  {
+   "cn": "中昏迷",
+   "en": "moderate coma",
+   "source": "行为医学名词",
+   "wordNumber": "17.015",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "程度较重的昏迷状态。意识完全丧失，对外界的正常刺激全无反应，自发动作很少。对强刺激的防御反射、角膜反射和瞳孔对光反射减弱，大小便潴留或失禁。生命体征已有改变。"
+  },
+  {
+   "cn": "中度镇静",
+   "en": "moderate sedation",
+   "source": "消化内镜学名词",
+   "wordNumber": "10.013",
+   "subjectFullName": "消化内镜学_消化内镜麻醉技术_麻醉方式",
+   "subjectName": "麻醉方式",
+   "publishYear": "2021",
+   "definition": "镇静后患者神志淡漠、有意识，对语言和触觉刺激有反应，无须气道干预，心血管功能可维持的状态。"
+  },
+  {
+   "cn": "中度低温",
+   "en": "moderate hypothermia",
+   "source": "器官移植学名词",
+   "wordNumber": "14.012",
+   "subjectFullName": "器官移植学_心脏移植_心脏移植",
+   "subjectName": "心脏移植",
+   "publishYear": "2020",
+   "definition": "体外循环过程中维持26～31℃的体温。"
+  },
+  {
+   "cn": "中昏迷",
+   "en": "moderate coma",
+   "source": "神经病学名词",
+   "wordNumber": "04.007",
+   "subjectFullName": "神经病学_神经病学症状与体征",
+   "subjectName": "神经病学症状与体征",
+   "publishYear": "2020",
+   "definition": "程度较重的昏迷状态。对周围事物及各种刺激无反应，剧痛刺激偶可引起防御反应，吞咽、咳嗽、对光反射迟钝，腱反射减弱。"
+  },
+  {
+   "cn": "调节变量",
+   "en": "moderator",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "仲裁员",
+   "en": "moderator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半腐殖质",
+   "en": "moder",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "4级风，和风",
+   "en": "moderate breeze",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中雨",
+   "en": "moderate rain",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中度衰落",
+   "en": "moderate fading",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4级风",
+   "en": "moderate breeze",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "轻雾",
+   "en": "moderate fog",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中浪",
+   "en": "moderate sea",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中能见度（6级）",
+   "en": "visibility moderate",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中涌",
+   "en": "moderate swell",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有仲裁的新闻组",
+   "en": "moderated newsgroup",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "节制索",
+   "en": "moderator band",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "慢化剂材料",
+   "en": "moderator materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "调节效果",
+   "en": "moderation effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冬干温和[气候]",
+   "en": "winter dry moderate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冬温气候类",
+   "en": "winter moderate climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中温封孔",
+   "en": "moderate temperature sealing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "中等重复序列",
+   "en": "moderately repetitive sequence",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "中度重复DNA",
+   "en": "moderately repetitive DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "中浪",
+   "en": "moderate sea",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4级风",
+   "en": "moderate breeze",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内部创业",
+   "en": "internal entrepreneurship",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准",
+   "en": "International Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际仲裁委员会",
+   "en": "international jury",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际级",
+   "en": "international class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际劳工组织",
+   "en": "International Labour Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际电信联盟",
+   "en": "International Telecommunication Union",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际金融公司",
+   "en": "International Finance Corporation",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际开发协会",
+   "en": "International Development Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际货币基金 组织",
+   "en": "International Monetary Fund",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际奥林匹克 委员会",
+   "en": "International Olympic Committee",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际能源署",
+   "en": "International Energy Agency",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "温和派",
+   "en": "moderates",
+   "source": "马克思主义",
+   "wordNumber": "04.0337",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "20世纪初，俄国社会民主工党内出现的一个政治派别。1903年俄国社会民主工党第二次代表大会后，党内分裂为两派，一派以列宁为代表，称为布尔什维克，另一派以马尔托夫为代表，称孟什维克，孟什维克自称“温和派"
+  },
+  {
+   "cn": "慢化剂",
+   "en": "moderator",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.4.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理",
+   "subjectName": "中子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "用于降低中子能量的材料。高能中子通过与慢化剂原子核发生散射作用使其慢化，而无明显的中子俘获吸收。对反应堆，通常选用石墨、重水、轻水和铍作为该材料。"
+  },
+  {
+   "cn": "中度近视",
+   "en": "moderate myopia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "屈光度（等效球镜）>-6.00D 且≤-3.00D的近视程度。"
+  },
+  {
+   "cn": "中等毒",
+   "en": "moderately toxic",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.9.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "50mg/kg<经口LD50≤500mg/kg。"
+  },
+  {
+   "cn": "中子慢化",
+   "en": "neutron moderation",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.32",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "中子与介质原子核碰撞，引起中子能量减少而减速的现象。是热中子反应堆内中子运动的基本过程之一。"
+  },
+  {
+   "cn": "调节变量",
+   "en": "moderating variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.29",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "能够改变自变量对因变量的影响的变量。"
+  },
+  {
+   "cn": "小康社会",
+   "en": "moderately prosperous society",
+   "source": "马克思主义",
+   "wordNumber": "03.0604",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "20世纪70年代末80年代初，邓小平在规划中国经济社会发展蓝图时提出“小康社会”的战略构想。“小康”是一个具有中国特色的概念，“小康社会”是介于温饱与富裕之间的一个特定发展阶段。"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "个体经过一定形式的学习，将某些社会意识、道德规范等观念体系转化为个体心理结构的过程。是个体对外界文化的一种适应过程。法国社会学家涂尔干(Emile Durkheim)最早提出，指社会意识向个体意识的转"
+  },
+  {
+   "cn": "中等强度身体活动",
+   "en": "moderate-intensity physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "代谢当量在3～6左右的体力活动，包括快速健步走、骑自行车、打球、游泳、跳舞、扫地、拖地、搬运和割草等。"
+  },
+  {
+   "cn": "中等强度持续运动",
+   "en": "moderate intensity continuous training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.12",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "40-59%储备心率、46-63%最大摄氧量或64-76%最大心率的运动强度下进行的长时间持续运动。是有氧运动的一种。"
+  },
+  {
+   "cn": "内照射",
+   "en": "internal exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.4.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_途径分类",
+   "subjectName": "途径分类",
+   "publishYear": "2025",
+   "definition": "放射性核素进入机体内，对机体组织产生的照射。"
+  },
+  {
+   "cn": "国际标准",
+   "en": "international standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "国际标准化组织（ISO）、国际电工委员会（IEC）和国际电信联盟（ITU）制定的标准，以及国际标准化组织确认并公布的其他国际组织制定的标准。"
+  },
+  {
+   "cn": "内在效度",
+   "en": "internal validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.81",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "研究者从某一经验研究的结果中进行因果推论的信心。"
+  },
+  {
+   "cn": "内在本质",
+   "en": "internal essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0063",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在表现”相对。事物因内部矛盾的决定作用在发生、发展、变化过程中所表现的内部联系性和客观形式。"
+  },
+  {
+   "cn": "内在联系",
+   "en": "internal connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0075",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在联系”相对。是事物之间存在固有的、本质的、必然性的关联，对事物性质具有决定作用。"
+  },
+  {
+   "cn": "内在对立",
+   "en": "internal opposition",
+   "source": "马克思主义",
+   "wordNumber": "01.0085",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "处于同一体中的矛盾双方相互排斥、相互反对、相互否定的属性。它体现着矛盾双方相互分离的趋势。"
+  },
+  {
+   "cn": "国际价值",
+   "en": "international value",
+   "source": "马克思主义",
+   "wordNumber": "02.0286",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界市场上商品的价格以国际价值为基础。商品的国际价值本质上也是无差别的人类劳动的凝结，商品的国际价值量是由世界范围的平均必要劳动决定的。"
+  },
+  {
+   "cn": "第一国际",
+   "en": "First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0398",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "第一个无产阶级国际联合组织。1964年9月28日,为了抗议沙皇俄国对波兰人民起义的血腥镇压,英、法、德、意、波兰等国工人代表在伦敦圣马丁会堂举行国际工人会议，马克思应邀出席会议。第一国际当时的名称是国"
+  },
+  {
+   "cn": "第二国际",
+   "en": "Second International",
+   "source": "马克思主义",
+   "wordNumber": "04.0401",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继第一国际之后建立的第二个世界无产阶级国际组织，是在19世纪80年代工人运动新高涨、马克思主义广泛传播和各国无产阶级政党普遍建立的形势下于1889年在巴黎建立的。第二国际成立初期与各国党内和国际内的无"
+  },
+  {
+   "cn": "第三国际",
+   "en": "Third International",
+   "source": "马克思主义",
+   "wordNumber": "04.0414",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第一次世界大战后出现了新的国际形势，需要建立一个新的国际来领导无产阶级革命。1919年3月2—6日，共产国际（第三国际）在莫斯科举行了第一次代表（成立）大会，大会通过了列宁起草的《共产国际宣言》、《共"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

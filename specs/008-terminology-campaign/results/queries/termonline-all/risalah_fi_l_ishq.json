@@ -1,0 +1,482 @@
+{
+ "key": "risalah fi'l-'ishq",
+ "term": "Risālah fi’l-‘ishq",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:26:06+00:00",
+ "status": "ok",
+ "note": "variant=Risālah fi’l-‘ishq; 审定公布名词库=142; 海峡两岸名词对照库=20; 其他来源数据库=5; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "L-肉碱",
+   "en": "L-carnitine",
+   "source": "精细化工名词",
+   "wordNumber": "08.0860",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为C₇H₁₅NO₃，白色晶体状或白色透明细粉。由化学合成法制备或发酵制得。含量≥97%。用于促进脂肪的消化。"
+  },
+  {
+   "cn": "L-苏氨酸",
+   "en": "L-threonine",
+   "source": "精细化工名词",
+   "wordNumber": "08.0829",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为CH₃CH(OH)CH(NH₂)COOH，白色结晶。常用淀粉水解糖发酵提取制得。用于补充苏氨酸。"
+  },
+  {
+   "cn": "L-精氨酸",
+   "en": "L-arginine",
+   "source": "精细化工名词",
+   "wordNumber": "08.0831",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为 C₆H₁₄N₄O₂，白色斜方晶系或白色结晶性粉末。由蛋白质水解而得。用于补充精氨酸。"
+  },
+  {
+   "cn": "L-酪氨酸",
+   "en": "L-tyrosine",
+   "source": "精细化工名词",
+   "wordNumber": "08.0833",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为C₉H₁₁NO₃，丝光细针状结晶或结晶性粉末。以葡萄糖为原料发酵而得。用于补充酪氨酸。"
+  },
+  {
+   "cn": "L-亮氨酸",
+   "en": "L-leucine",
+   "source": "精细化工名词",
+   "wordNumber": "08.0835",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为CH₃CH(CH₃)CH₂CH(NH₂)COOH，白色有光泽六面体晶体或白色结晶性粉末。常用葡萄糖发酵而得。用于补充亮氨酸。"
+  },
+  {
+   "cn": "L-组氨酸",
+   "en": "L-histidine",
+   "source": "精细化工名词",
+   "wordNumber": "08.0837",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为C₆H₉N₃O₂，白色晶体或结晶性粉末，无臭。以糖类发酵或蛋白质水解法制得。用于补充组氨酸。"
+  },
+  {
+   "cn": "L-亮氨酸",
+   "en": "leucine",
+   "source": "化学名词",
+   "wordNumber": "02.1337",
+   "subjectFullName": "化学_有机化学_生物有机化学",
+   "subjectName": "生物有机化学",
+   "publishYear": "2016",
+   "definition": "系统命名为(2S)-氨基-4-甲基戊酸。是编码氨基酸。是哺乳动物的必需氨基酸。符号：L,Leu。其结构式为：<img src='/root/syzx/static/spz/huaxue2.02.133"
+  },
+  {
+   "cn": "L-酪氨酸",
+   "en": "tyrosine",
+   "source": "化学名词",
+   "wordNumber": "02.1344",
+   "subjectFullName": "化学_有机化学_生物有机化学",
+   "subjectName": "生物有机化学",
+   "publishYear": "2016",
+   "definition": "系统命名为(2S)-氨基-3-(4-羟基苯基)丙酸。是编码氨基酸。符号：Y,Tyr。其结构式为：<img src='/root/syzx/static/spz/huaxue2.02.1344.1.pn"
+  },
+  {
+   "cn": "L-精氨酸",
+   "en": "arginine",
+   "source": "化学名词",
+   "wordNumber": "02.1348",
+   "subjectFullName": "化学_有机化学_生物有机化学",
+   "subjectName": "生物有机化学",
+   "publishYear": "2016",
+   "definition": "系统命名为(2S)-氨基-5-胍基戊酸。在生理条件下带正电荷，为编码氨基酸。是幼小哺乳动物的必需氨基酸。符号：R,Arg。其结构式为：<img src='/root/syzx/static/spz/h"
+  },
+  {
+   "cn": "L-缬氨酸",
+   "en": "valine",
+   "source": "化学名词",
+   "wordNumber": "02.1345",
+   "subjectFullName": "化学_有机化学_生物有机化学",
+   "subjectName": "生物有机化学",
+   "publishYear": "2016",
+   "definition": "系统命名为(2S)-氨基-3-甲基丁酸。是编码氨基酸。是哺乳动物的必需氨基酸。符号：V,Val。其结构式为：<img src='/root/syzx/static/spz/huaxue2.02.134"
+  },
+  {
+   "cn": "L-组氨酸",
+   "en": "histidine",
+   "source": "化学名词",
+   "wordNumber": "02.1349",
+   "subjectFullName": "化学_有机化学_生物有机化学",
+   "subjectName": "生物有机化学",
+   "publishYear": "2016",
+   "definition": "系统命名为(2S)-氨基-3-(4-咪唑基)丙酸。其侧链带有弱碱性的咪唑基，为编码氨基酸。是幼小哺乳动物的必需氨基酸。符号：H,His。其结构式为：<img src='/root/syzx/stati"
+  },
+  {
+   "cn": "L-甲硫氨酸",
+   "en": "methionine",
+   "source": "化学名词",
+   "wordNumber": "02.1338",
+   "subjectFullName": "化学_有机化学_生物有机化学",
+   "subjectName": "生物有机化学",
+   "publishYear": "2016",
+   "definition": "系统命名为(2S)-氨基-4-甲硫基丁酸。是编码氨基酸。是哺乳动物的必需氨基酸。符号：M,Met。其结构式为：<img src='/root/syzx/static/spz/huaxue2.02.13"
+  },
+  {
+   "cn": "L-赖氨酸",
+   "en": "lysine",
+   "source": "化学名词",
+   "wordNumber": "02.1350",
+   "subjectFullName": "化学_有机化学_生物有机化学",
+   "subjectName": "生物有机化学",
+   "publishYear": "2016",
+   "definition": "系统命名为(2S)-6-二氨基己酸。是编码氨基酸中的碱性氨基酸，哺乳动物的必需氨基酸。在蛋白质中的赖氨酸可以被修饰为多种形式的衍生物。符号：K,Lys。其结构式为：<img src='/root/sy"
+  },
+  {
+   "cn": "L-苏氨酸",
+   "en": "threonine",
+   "source": "化学名词",
+   "wordNumber": "02.1342",
+   "subjectFullName": "化学_有机化学_生物有机化学",
+   "subjectName": "生物有机化学",
+   "publishYear": "2016",
+   "definition": "系统命名为(2S)-氨基-(3R)-羟基丁酸。有两个手性中心，是编码氨基酸。是哺乳动物的必需氨基酸。符号：T,Thr。其结构式为：<img src='/root/syzx/static/spz/hua"
+  },
+  {
+   "cn": "L-色氨酸",
+   "en": "L-tryptophan",
+   "source": "精细化工名词",
+   "wordNumber": "08.0830",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为(C₈H₅NH)CH₂CH(NH₂)COOH，白色或微黄色结晶性粉末。以葡萄糖、甘蔗糖蜜发酵制得。用于补充色氨酸。"
+  },
+  {
+   "cn": "L-半胱氨酸",
+   "en": "L-cysteine",
+   "source": "精细化工名词",
+   "wordNumber": "08.0836",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为HSCH₂CH(NH₂)COOH，白色结晶性粉末，有异臭。由毛发提取再经电解还原制得。用于补充半胱氨酸。"
+  },
+  {
+   "cn": "盐酸乙酰L-肉碱",
+   "en": "acetyl L-carnitine hydrochloride,ALCAR",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.024",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_临床与治疗",
+   "subjectName": "临床与治疗",
+   "publishYear": "2019",
+   "definition": "乙酰基的前体。是脑中乙酰胆碱合成的内源性底物。具有神经保护作用和线粒体保护作用。参与线粒体的能量代谢，增加脑内乙酰胆碱的合成。"
+  },
+  {
+   "cn": "L-谷氨酰胺",
+   "en": "glutamine",
+   "source": "化学名词",
+   "wordNumber": "02.1334",
+   "subjectFullName": "化学_有机化学_生物有机化学",
+   "subjectName": "生物有机化学",
+   "publishYear": "2016",
+   "definition": "系统命名为(2S)-氨基-4-氨酰基丁酸，是编码氨基酸。符号：Gln,Q。其结构式为：<img src='/root/syzx/static/spz/huaxue2.02.1334.1.png'/>"
+  },
+  {
+   "cn": "L-脯氨酸",
+   "en": "proline",
+   "source": "化学名词",
+   "wordNumber": "02.1340",
+   "subjectFullName": "化学_有机化学_生物有机化学",
+   "subjectName": "生物有机化学",
+   "publishYear": "2016",
+   "definition": "系统命名为吡咯烷-(2S)-羧酸。为亚氨基酸。是编码氨基酸。在肽链中有特殊作用，如易形成顺式的肽键等。符号：P,Pro。其结构式为：<img src='/root/syzx/static/spz/hu"
+  },
+  {
+   "cn": "L-色氨酸",
+   "en": "tryptophan[e]",
+   "source": "化学名词",
+   "wordNumber": "02.1343",
+   "subjectFullName": "化学_有机化学_生物有机化学",
+   "subjectName": "生物有机化学",
+   "publishYear": "2016",
+   "definition": "系统命名为(2S)-氨基-3-(3-吲哚基)丙酸。是编码氨基酸，哺乳动物的必需氨基酸。符号：W,Trp。其结构式为：<img src='/root/syzx/static/spz/huaxue2.02"
+  },
+  {
+   "cn": "L-多巴",
+   "en": "L-dopa",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "l-波段紧急无线电示位标",
+   "en": "l-band EPIRB",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "l-波段紧急无线电示位标系统",
+   "en": "l-band EPIRB system",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "填充",
+   "en": "fill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "填充",
+   "en": "fill",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "填充",
+   "en": "fill\",\"filling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "装填系数",
+   "en": "fill factor",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "峡谷淤积",
+   "en": "canyon fill",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "填充图像",
+   "en": "picture fill",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "道路填方",
+   "en": "road fill",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "填充区",
+   "en": "fill area",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "填充因数",
+   "en": "fill factor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最低装量",
+   "en": "minimum fill",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "冲淤",
+   "en": "cut-and-fill",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "填方收缩",
+   "en": "shrinkage of fill",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "帧间时间填充",
+   "en": "interframe time fill",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "种子填充算法",
+   "en": "seed fill algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原位杂交组织化学法",
+   "en": "in situ hybridization histochemistry method\",\"ISHH method",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "半挖半填斜坡",
+   "en": "cut and fill slop",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "毛卷层云",
+   "en": "cirrostratus filosus\",\"Cs fil",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "使满帆",
+   "en": "fill",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "填写分数",
+   "en": "fill the score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "补位",
+   "en": "cover a position\",\"fill a gap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效地填补供需缺口",
+   "en": "to effectively fill the gap between supply and demand  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "L-谷氨酸钠",
+   "en": "monosodium L-glutamate",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.16.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "1 个钠离子与1 个谷氨酸根离子结合形成的有机盐，系统命名为（2S）-2-氨基戊二酸钠。国内外应用最为广泛的氨基酸类增味剂。"
+  },
+  {
+   "cn": "L-半胱氨酸盐酸盐",
+   "en": "L-cysteine and its hydrochlorides sodium and potassium salts",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.17.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "1 分子L-半胱氨酸与1 分子盐酸结合形成的衍生物，系统命名为L-2-氨基-3-巯基丙酸盐酸盐。可作为面粉处理剂用于生湿面制品、发酵面制品和冷冻米面制品。"
+  },
+  {
+   "cn": "原位杂交",
+   "en": "in situ hybridization，ISH",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.32",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "以标记的已知顺序的特定核酸为探针与细 胞或组织切片中核酸进行杂交，从而对特定 核酸顺序进行精确定量、定位的技术。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

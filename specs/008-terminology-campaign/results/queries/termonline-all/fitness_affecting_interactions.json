@@ -1,0 +1,772 @@
+{
+ "key": "fitness-affecting interactions",
+ "term": "fitness-affecting interactions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:14:03+00:00",
+ "status": "ok",
+ "note": "variant=fitness-affecting interactions; 审定公布名词库=946; 海峡两岸名词对照库=304; 其他来源数据库=46; 预公布名词数据库=66; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.191",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人对客观事物是否满足自己的需要而产生的态度体验。是与人的社会性需要相联系的主观体验。具有较大的稳定性、深刻性和持久性。"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "行为医学名词",
+   "wordNumber": "4.067",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "一种和人的社会需要相联系的主观体验。具有较大的稳定性、深刻性和持续性。"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "精神医学名词",
+   "wordNumber": "02.205",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "与人的社会性需要相联系的主观体验。是较短暂的一种心理状态。具有较大的稳定性、深刻性和持久性。"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "心理学名词",
+   "wordNumber": "02.727",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "与人的社会性需要相联系的主观体验。具有较大的稳定性、深刻性和持久性。"
+  },
+  {
+   "cn": "情感",
+   "en": "affect",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.191",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "个体对客观事物态度的体验，与态度中的内向感受、意向具有协调一致性。态度在生理上是一种较复杂而又稳定的生理评价和体验。包括道德感和价值感两个方面。具体表现为爱情、幸福、仇恨、厌恶、美感等。情绪倾向于个体"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "农学名词",
+   "wordNumber": "10.101",
+   "subjectFullName": "植物保护_作物虫害",
+   "subjectName": "作物虫害",
+   "publishYear": "2025",
+   "definition": "衡量单个昆虫种群存活和繁殖成功概率的一种尺度。包括生存能力、繁殖能力和子代生存能力。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.435",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "在某种环境条件下，某已知基因型的个体将其基因传递到其后代基因库中的相对能力。是衡量个体存活和生殖机会的尺度。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "动物学名词",
+   "wordNumber": "2.0285",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "某个基因型的个体与其他基因型个体相比时，能够存活并保留下后代的能力。是衡量某一基因型个体后代衍续能力的常用指标。适合度越高，生物对环境的适应能力越强。"
+  },
+  {
+   "cn": "密合性",
+   "en": "fitness",
+   "source": "结核病学名词",
+   "wordNumber": "05.108",
+   "subjectFullName": "结核病学_结核病预防与控制_感染控制",
+   "subjectName": "感染控制",
+   "publishYear": "2019",
+   "definition": "口罩周边与佩戴者面部的密合程度。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "植物学名词",
+   "wordNumber": "02.0317",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "某个基因型的个体与其他基因型个体相比时，能够存活并保留下后代的能力。是衡量某一基因型个体后代衍续能力的常用指标。适合度越高，生物对环境的适应能力越强。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "遗传学名词",
+   "wordNumber": "06.045",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "在某种环境条件下，某已知基因型的个体将其基因传递到其后代基因库中的相对能力。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "生态学名词",
+   "wordNumber": "04.095",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "在某种环境条件下，某已知基因型的个体将其基因传递到其后代基因库中的相对能力，是衡量个体存活和生殖机会的尺度。适合度越大，存活和生殖机会越高。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.854",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "配合",
+   "en": "fit",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0339",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "基本尺寸相同的，相互结合的孔和轴公差带之间的关系，用以表达结合松紧程度的功能要求。"
+  },
+  {
+   "cn": "金具",
+   "en": "fitting",
+   "source": "电力名词",
+   "wordNumber": "22.171",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "连接和组合电力系统中各类装置,以传递机械、电气负荷或起某种防护作用的金属附件。"
+  },
+  {
+   "cn": "拟合",
+   "en": "fitting",
+   "source": "生物物理学名词",
+   "wordNumber": "02.421",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "将高分辨的密度分布图与低分辨的密度分布图进行匹配的操作。常用于在低分辨的密度分布图中获取高分辨信息。"
+  },
+  {
+   "cn": "拟合",
+   "en": "fitting",
+   "source": "数学名词",
+   "wordNumber": "010.0138",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "情感失禁",
+   "en": "affective incontinence",
+   "source": "神经外科学名词",
+   "wordNumber": "4.03",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_症状",
+   "subjectName": "症状",
+   "publishYear": "2026",
+   "definition": "情绪和表情完全失去控制能力的表现。情绪不稳，激惹性增高，微不足道的诱因会引发哭泣或大笑。"
+  },
+  {
+   "cn": "情感需求",
+   "en": "affection needs",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.098",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "人际沟通的动机之一。沟通者对自我与他人的态度与价值体验的需要或缺乏。"
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "source": "行为医学名词",
+   "wordNumber": "16.107",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "情感活动异常，波动幅度过长、时间过长，反应与刺激的性质不协调的现象。可分为情感性质改变、情感波动性改变和情感协调性改变。"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "非特",
+   "en": "fit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拟合",
+   "en": "fitting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情感神经科学",
+   "en": "affective neuroscience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性精神病",
+   "en": "affective psychosis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性预测",
+   "en": "affective forecasting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性特质",
+   "en": "affective trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感成分",
+   "en": "affective component",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性承诺",
+   "en": "affective commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情意测验",
+   "en": "affective test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正向情感",
+   "en": "positive affect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "负面情感",
+   "en": "negative affect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相互作用",
+   "en": "interaction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相互作用",
+   "en": "interaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "交互作用",
+   "en": "interaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "疫区",
+   "en": "affected area",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多感官交互",
+   "en": "multisensory interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多模态交互",
+   "en": "multimodal interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语音交互",
+   "en": "voice interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "核心交互",
+   "en": "core interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弹幕互动",
+   "en": "danmaku interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交互式处理",
+   "en": "interactive processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交互式学习",
+   "en": "interactive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互动群落",
+   "en": "interactive community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交互式传播",
+   "en": "interactive communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "套缰绳",
+   "en": "fit the bridle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感知交互",
+   "en": "perception and interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "手势交互",
+   "en": "hand gesture interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚实交互",
+   "en": "virtual reality interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络社交",
+   "en": "networked social interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互动仪式链",
+   "en": "Interaction ritual chain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "以显著而持久的情感和心境异常改变为基本临床特征，并伴有相应的思维和行为改变的一组精神障碍。临床上，有躁狂和抑郁两种基本表现形式，分别以心境的持续性高涨或低落为主要表现。"
+  },
+  {
+   "cn": "情感反应",
+   "en": "affection reflection",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，咨询者把求咨者表现出来的言语与体语情感信息以言语或体语方式反馈给对方的一种咨询技术。"
+  },
+  {
+   "cn": "体能",
+   "en": "physical fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体具备的能胜任日常工作和学习而不感到疲劳，同时有余力能充分享受休闲娱乐生活，又可应付突发紧急状况的能力。"
+  },
+  {
+   "cn": "代谢适能",
+   "en": "metabolism fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "人体有效地通过新陈代谢从食物和环境中获得营养供应，满足生物合成需求以及为生命活动提供能量，不出现代谢异常的能力。"
+  },
+  {
+   "cn": "体力适度",
+   "en": "physical fitness",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体在日常活动中表现出的疲劳感、无力和虚弱感。"
+  },
+  {
+   "cn": "适合性检验",
+   "en": "fit test",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.15",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "对于能罩住口和鼻、与面部密合的防护口罩，或能罩住眼睛、口和鼻、与头面部密合的面罩，确定其对使用者适合程度的检验。"
+  },
+  {
+   "cn": "交互效应",
+   "en": "interaction effect",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.96",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个或多个自变量对因变量产生的共同影响。也就是说，一个自变量对因变量的影响效应会因另一个自变量的水平不同而有所不同。"
+  },
+  {
+   "cn": "社会互动",
+   "en": "social interaction",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会互动",
+   "subjectName": "社会互动",
+   "publishYear": "2025",
+   "definition": "个体之间、群体之间，或个体与群体之间相互采取社会行动的过程，通常是一方对另一方采取社会行动，另一方相应作出反应性社会行动。人类存在的重要方式，是社会发展的动力所在。"
+  },
+  {
+   "cn": "符号互动",
+   "en": "symbolic interaction",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体运用语言符号，理解自我与他人的行为与态度，从而在赋予行动以意义的基础上彼此互动的过程。此概念最先由美国社会学家库利、米德等人提出，后经一些学者补充、发展为“符号互动论”，进一步强调了符号交流在社会"
+  },
+  {
+   "cn": "焦点互动",
+   "en": "focused interaction",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在面对面相遇时，互相积极有效地将感觉和视觉都注意于某一焦点而发生的互动行为。这一互动过程具有开始、结束、进入、退出的正式标识和仪式，有利于产生团结感。美国社会学家戈夫曼最早提出这一概念，与“非焦点"
+  },
+  {
+   "cn": "互动网络",
+   "en": "interaction network",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体之间互动所形成的网络结构。每个个体都是网络中的一个节点，每两个节点之间相互联系构成整个网络。"
+  },
+  {
+   "cn": "互动仪式",
+   "en": "interaction ritual",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "在焦点互动中，个体有意或无意地按照一定规范与秩序表现出来的行为举止，如眼神、动作、站立位置和语言等等。通过这种方式，个体感知并表达某种情感与意识，使互动在社会行为与个体心理方面都产生影响。"
+  },
+  {
+   "cn": "社会交往",
+   "en": "social interaction",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体参与社会活动并与他人互动的过程。"
+  },
+  {
+   "cn": "互动式游戏",
+   "en": "interactive game",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "将健康教育的内容融入游戏之中，生动形象地让其通过游戏的方式学习，获得知识、培养良好生活习惯的教育活动。"
+  },
+  {
+   "cn": "体能发育",
+   "en": "physical fitness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体生理功能和运动能力随年龄而发生的变化。"
+  },
+  {
+   "cn": "体能测试",
+   "en": "physical fitness test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "采用医学手段对机体日常体力活动或运动中的功能进行测试。一般包括身体成分、心肺耐力、肌力肌耐力和柔韧性四个方面的测试。"
+  },
+  {
+   "cn": "体质健康",
+   "en": "physical fitness health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "一种完好的身体、心理和社会适应的状态，而不仅仅是没有疾病或虚弱。包括身体形态、感觉敏锐度、对疾病的易感性、身体机能、恢复能力和执行某些任务的能力。"
+  },
+  {
+   "cn": "骨骼肌肉适能",
+   "en": "muscular-skeletal fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "由骨骼强韧度、肌肉力量、肌肉耐力、爆发力和柔韧性所反映的体质健康状态。"
+  },
+  {
+   "cn": "体质监测",
+   "en": "physical fitness surveillance",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.12",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "为系统掌握国民体质状况，以抽样调查的方式，在全国范围内对监测对象进行统一体质测试和对监测数据进行分析研究的工作。"
+  },
+  {
+   "cn": "体能训练",
+   "en": "physical fitness training",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.10",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "为促进身体发育、增强力量和耐力、提高速度和灵敏性、增加柔韧性、促进各部位协调等人体的运动能力而进行的训练活动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "thinking observation",
+ "term": "thinking observation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:22:22+00:00",
+ "status": "ok",
+ "note": "variant=thinking observation; 审定公布名词库=1111; 海峡两岸名词对照库=414; 其他来源数据库=47; 预公布名词数据库=80; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "思维",
+   "en": "thinking",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.187",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人脑将感觉和知觉获得的映像进行分析、综合、比较、抽象和概括等感知觉信息加工，形成概念的整个过程。是以记忆中的知识为媒介，反映事物的本质和内部联系。"
+  },
+  {
+   "cn": "思维",
+   "en": "thinking",
+   "source": "行为医学名词",
+   "wordNumber": "4.036",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "运用分析和综合、抽象和概括等智力操作对感觉信息的加工。以记忆中的知识为媒介，反映事物的本质和内部联系。是认识过程的高级阶段。"
+  },
+  {
+   "cn": "思维",
+   "en": "thinking",
+   "source": "精神医学名词",
+   "wordNumber": "02.069",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "人脑将感觉和知觉获得的映像借助词的作用(如进行分析、综合、比较、抽象和概括等)对感知觉信息加工，形成概念的整个过程。是以记忆中的知识为媒介，反映事物的本质和内部联系。"
+  },
+  {
+   "cn": "思维",
+   "en": "thinking",
+   "source": "计划生育名词",
+   "wordNumber": "04.022",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "大脑对现实概括的、间接的反映，即把经过感性认识获得的大量材料，通过整理和改造，形成概念、判断和推理，以反映事物全体的本质的属性。"
+  },
+  {
+   "cn": "思维",
+   "en": "thinking",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "人脑对客观现实的概括和间接反映。反映事物的本质和事物间规律性的联系。"
+  },
+  {
+   "cn": "思维",
+   "en": "thinking",
+   "source": "心理学名词",
+   "wordNumber": "02.652",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "运用分析和综合、抽象和概括等智力操作对感觉信息的加工。以记忆中的知识为媒介，反映事物的本质和内部联系。"
+  },
+  {
+   "cn": "技术思维",
+   "en": "technological thinking; technical thinking",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.126",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "在技术活动中，思维主体通过接受、存储并处理信息的方式，运用现代技术知识、技能、技术思想和方法等对各种技术信息进行加工进而达到技术目的的过程及其结果。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.051",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "通过感官（包括使用仪器获得的信息）收集经验证据的过程。"
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "物理学名词",
+   "wordNumber": "01.0105",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.138",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "细察事物的现象、动向，是一种有目的、有计划、比较持久的活动。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "物理学名词",
+   "wordNumber": "01.0106",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "留验",
+   "en": "observation",
+   "source": "航海科技名词",
+   "wordNumber": "13.0344",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "工程思维",
+   "en": "engineering thinking",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.139",
+   "subjectFullName": "自然辩证法_工程哲学_工程知识论",
+   "subjectName": "工程知识论",
+   "publishYear": "2024",
+   "definition": "一种以造物问题为导向，以图像符号为关键思维单元，根据特定初始条件和约束条件，统筹各类可得的工程要素，协调各种利益关系和利益冲突，以求得具有可操作性的工程问题解决方案的思维方式和过程。"
+  },
+  {
+   "cn": "思维模型",
+   "en": "thinking model",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.176",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "对所需研究的客体，经过科学的分析而抽象出其本质属性和特征，从而建构出的一种思维形式的模拟物。"
+  },
+  {
+   "cn": "创造性思维",
+   "en": "creative thinking",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.204",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "人们在实践活动中提出新见解、新发现、新创造、新方法与新成果的思维活动方式。"
+  },
+  {
+   "cn": "抽象思维",
+   "en": "abstraction thinking",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.206",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "在感性认识的基础上，以概念、判断和推理为基本形式，以分析、综合、比较、分类和概括为基本过程，旨在反映事物的本质和规律的思维方式。具有间接性的特点。"
+  },
+  {
+   "cn": "形象思维",
+   "en": "image thinking",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.207",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "以感性经验为直接材料，凭借感觉、知觉和表象，以具体经验形式而非逻辑形式为手段的思维方式。具有直接性的特点。与“抽象思维”相对。"
+  },
+  {
+   "cn": "收敛性思维",
+   "en": "convergent thinking",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.208",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "针对问题，综合相关知识和信息，通过分析、综合、比较、判断和推理缩小解答范围，选择最佳解决方案的思维方法。与“发散性思维”相对。"
+  },
+  {
+   "cn": "发散性思维",
+   "en": "divergent thinking",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.209",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "从一个目标出发，围绕问题展开思考，广泛搜集相关资料，尽可能地拓展思路，多种途径探求解答的思维方法。与“收敛性思维”相对。"
+  },
+  {
+   "cn": "纵向思维",
+   "en": "vertical thinking",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.210",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "利用知识之间的联系，将事物放在过去、现在和将来的历时性的对比分析中，寻找不同阶段的特点和前后联系，遵循逻辑规则，借助已有的原理、观念克服问题解决障碍，找到问题答案的思维方法。与“横向思维”相对。"
+  },
+  {
+   "cn": "创造［性］思维,产生式思维",
+   "en": "creative thinking\",\"productive thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "思维，思考",
+   "en": "thinking\",\"thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理论思维",
+   "en": "theoretical thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "形象思维",
+   "en": "imagery thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "具体思维",
+   "en": "concrete thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "导向思维",
+   "en": "directive thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反事实思维",
+   "en": "counterfactual thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性思考",
+   "en": "rational thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "思维型",
+   "en": "thinking type",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "再造思维",
+   "en": "reproductive thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "愿望思维",
+   "en": "wishful thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "辐合思维",
+   "en": "convergent thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "联想思维",
+   "en": "associative thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "算法性思维,定程式思维",
+   "en": "algorithmic thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "我向思维",
+   "en": "autistic thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑思维",
+   "en": "logical thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直觉思维",
+   "en": "intuitive thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象思维",
+   "en": "abstract thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "观",
+   "en": "Observation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思",
+   "en": "Reflecting / Thinking",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算思维",
+   "en": "Computational Thinking",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据思维",
+   "en": "data thinking",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政务互联网思维",
+   "en": "e-government thinking",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "观看台",
+   "en": "observation terrace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "观象",
+   "en": "Observing Images",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧检务智库",
+   "en": "smart procuratorate think tank",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "综合地球观测系统",
+   "en": "integrated earth observation system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "两周观察期",
+   "en": "two-week observation period",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医学观察",
+   "en": "medical watch; medical observation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地球观测组织",
+   "en": "Group on Earth Observations",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "美国国家生态观测网络",
+   "en": "National Ecological Observation Network (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "迁想妙得",
+   "en": "Inspirational Creation Based on Association in Thinking",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智圆行方",
+   "en": "Be Wise in Thinking and Act Properly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三思而行",
+   "en": "<div> Think Carefully Before Taking Action</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天—空—地多尺度观测技术",
+   "en": "space-air-ground multiscale observation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思维",
+   "en": "thinking",
+   "source": "马克思主义",
+   "wordNumber": "01.0013",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）指理性认识活动的过程及其结果（即思想），是人脑对客观事物的间接反映，揭示事物的本质与规律。思维的基本形式是概念、判断和推理，基本方法是归纳和演绎、分析和综合、抽象和概括等。（2）相对于唯物论的存"
+  },
+  {
+   "cn": "思维",
+   "en": "thinking",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.10",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "运用分析和综合、抽象和概括等智力操作对感觉信息的加工过程。以记忆中的知识为媒介，反映事物的本质和内部联系。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.17",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "观察者根据研究课题，利用眼睛、耳朵等感觉器官和其他科学手段，有目的地对研究对象进行考察，以取得研究所需资料的一种资料收集方法。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "观察者根据研究课题，利用眼睛、耳朵等感觉器官和其他科学手段，有目的地对研究对象进行考察，以取得研究所需资料的一种资料收集方法。"
+  },
+  {
+   "cn": "群体思维",
+   "en": "group thinking",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "在一个高凝聚力的群体内部，群体成员因在决策时过分追求一致，而导致成员对群体做出的决策难以做出客观理性的评价、与该决策背道而驰的信息和观点被忽视和被抑制的一种思维模式"
+  },
+  {
+   "cn": "辩证思维",
+   "en": "dialectical thinking",
+   "source": "马克思主义",
+   "wordNumber": "01.0041",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以变化发展视角认识事物的思维方式。在唯物辩证法中，辩证思维是指人们对客观事物辩证发展过程进行正确反映的思维方法。实质就是按照唯物辩证法的原则，在联系和发展中把握认识对象，在对立统一中认识事物。"
+  },
+  {
+   "cn": "系统思维",
+   "en": "systems thinking",
+   "source": "马克思主义",
+   "wordNumber": "01.0254",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以系统论的原理和观点为指导，对事物进行分析和认识的思维方式。在党的二十大报告中，习近平指出：“必须坚持系统观念。”认为系统观念是具有基础性的思想和工作方法。"
+  },
+  {
+   "cn": "新思维",
+   "en": "new thinking",
+   "source": "马克思主义",
+   "wordNumber": "05.0226",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "戈尔巴乔夫提出的先是在对外政策、后扩大到政治等领域的一系列改革思想。戈尔巴乔夫认为以往对资本主义总危机理论和向社会主义过渡的规律和速度的认识都应纠正。基于这一判断，提出要对国际形势进行“重新思考和全面"
+  },
+  {
+   "cn": "思维能力发展",
+   "en": "thinking development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑对客观事物间接、概括的反映能力随年龄增长的发展变化过程。能够认识事物的本质和事物之间的内在联系。"
+  },
+  {
+   "cn": "思维能力",
+   "en": "thinking ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "运用分析和综合、抽象和概括等智力操作对感觉信息的加工的能力。"
+  },
+  {
+   "cn": "临床思维",
+   "en": "clinical thinking",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.178",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "运用医学、人文社会科学和现代科技等手段，以患者为中心，经病史采集、体格检查和必要的实验室检查等，结合患者的主诉及其他可利用的证据信息，根据患者的症状和社会背景等因素，批判性地分析、综合、推理和鉴别，形"
+  },
+  {
+   "cn": "原始思维",
+   "en": "primitive thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0533",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）认为，并不存在一成不变的、普遍的思维（或心智）。社会的类型不同，思维的类型也不同。而与亚洲、非洲、大洋洲和南北美洲的“原始社会”相应的思维"
+  },
+  {
+   "cn": "直观行动思维",
+   "en": "intuitive action thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "根据对事物现象及其变化的直接感触而做出判断的思维方式。"
+  },
+  {
+   "cn": "具体形象思维",
+   "en": "concrete image thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "依靠对事物具体信息的表征解决问题的思维方式。"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "创造性思维能力",
+   "en": "creative thinking skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "思考问题时抛开经验束缚，积极探索其他可能的途径和方式，找到更多、更好的解决问题的方法的能力。有助于个体灵活地应对日常生活中的问题。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "批判性思维能力",
+   "en": "critical thinking skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "开拓思路，以批判的眼光分析信息和以往经验的能力。有助于个体全面、深入地考虑问题，作出合理决定。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0534",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。他认为原始人的思维是前逻辑思维，本质上不同于文明人的逻辑思维，后者能够进行抽象、概括和分类。前逻辑思维在我们看来很荒谬，但在原"
+  },
+  {
+   "cn": "实验室观察",
+   "en": "laboratory observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.18",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在实验室中对研究对象、观察情景与条件进行严密控制的情况下进行的观察。"
+  },
+  {
+   "cn": "结构观察",
+   "en": "structured observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一组预先确定的规则和程序而实施的非参与观察。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

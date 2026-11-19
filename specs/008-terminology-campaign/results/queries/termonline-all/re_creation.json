@@ -1,0 +1,792 @@
+{
+ "key": "re-creation",
+ "term": "re-creation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:44:24+00:00",
+ "status": "ok",
+ "note": "variant=re-creation; 审定公布名词库=2092; 海峡两岸名词对照库=809; 其他来源数据库=54; 预公布名词数据库=68; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "re面",
+   "en": "re-face",
+   "source": "化学名词",
+   "wordNumber": "02.0730",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机立体化学",
+   "subjectName": "有机立体化学",
+   "publishYear": "2016",
+   "definition": "表达加成至1个立体异位面(羰基或双键)的方向。按照顺序规则，如顺时钟方向则为re面。"
+  },
+  {
+   "cn": "再上皮化",
+   "en": "re-epithelialization",
+   "source": "普通外科学名词",
+   "wordNumber": "10.009",
+   "subjectFullName": "医学_普通外科学_修复",
+   "subjectName": "修复",
+   "publishYear": "2026",
+   "definition": "上皮细胞经过有丝分裂增生并开始从伤口缘向伤口中心移行的过程。受损伤以后12小时内即可开始上皮形成以防止脱水及感染。"
+  },
+  {
+   "cn": "惹草",
+   "en": "re cao",
+   "source": "风景园林名词",
+   "wordNumber": "07.0344",
+   "subjectFullName": "风景园林_风景园林建筑_小木作",
+   "subjectName": "小木作",
+   "publishYear": "2025",
+   "definition": "宋式建筑小木作构件名称，根据宋《营造法式》表述，惹草应当是处在博风板之下，与博头无关的构件，具有装饰作用，其三角形木板上，雕刻为卷草纹样，故名曰惹草，其长三尺至七尺，宽为长的十分之七。"
+  },
+  {
+   "cn": "复火",
+   "en": "re-firing",
+   "source": "农学名词",
+   "wordNumber": "17.272",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "茶叶补火前的干燥。使茶叶适度失水的同时茶条收紧，在筛分时易于通过筛网。"
+  },
+  {
+   "cn": "再贷款",
+   "en": "re-lending",
+   "source": "农学名词",
+   "wordNumber": "19.262",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "中央银行为实现货币政策目标而对金融机构发放的贷款。狭义的指中央银行对金融机构贷款的总称。广义的指再融资的概念，包含票据再贴现。"
+  },
+  {
+   "cn": "再沉积",
+   "en": "re-deposition",
+   "source": "核科学技术名词",
+   "wordNumber": "3.316",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "磁约束装置中，由等离子体与壁相互作用释放出的壁材料原子，被电离后在等离子体作用下返回到壁上的杂质迁移过‍程。"
+  },
+  {
+   "cn": "再社会化",
+   "en": "re-socialization",
+   "source": "行为医学名词",
+   "wordNumber": "5.005",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体迁移到与以往生活的社会文化差别很大的环境中时，接受全新社会文化与行为方式的过程。"
+  },
+  {
+   "cn": "再体验",
+   "en": "re-experiencing",
+   "source": "行为医学名词",
+   "wordNumber": "10.093",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激相关障碍",
+   "subjectName": "应激相关障碍",
+   "publishYear": "2022",
+   "definition": "遭受创伤后，个体出现思维、记忆或梦中反复、不自主地涌现与创伤有关的情境或内容，或出现严重的触景生情反应，甚至感觉创伤性事件好像再次发生一样的感受。"
+  },
+  {
+   "cn": "二次辐射",
+   "en": "re-emission",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0566",
+   "subjectFullName": "地球物理学_勘探地球物理学_井筒_放射性勘探",
+   "subjectName": "放射性勘探",
+   "publishYear": "2022",
+   "definition": "利用初级粒子或射线辐照物质时产生的中子、.射线或 X射线等的统称。 "
+  },
+  {
+   "cn": "复烧",
+   "en": "re-sintering",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.125",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_烧结",
+   "subjectName": "烧结",
+   "publishYear": "2021",
+   "definition": "通常为了提高性能，将烧结过或复压过的半成品再烧结。"
+  },
+  {
+   "cn": "复压",
+   "en": "re-pressing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.153",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_烧结后处理",
+   "subjectName": "烧结后处理",
+   "publishYear": "2021",
+   "definition": "对烧结体再加压，以提高制品密度和尺寸精度的工艺。"
+  },
+  {
+   "cn": "重规划",
+   "en": "re-engineering",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.143",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统相关技术",
+   "subjectName": "医学影像信息系统相关技术",
+   "publishYear": "2020",
+   "definition": "要求将眼光投向实际工作业务的进行过程（即工作流程），并应用工作流的概念和方法去分析、构造或者再造工作流程。即将工作流程变成解析的、技术的、可控制和预测的工程化过程。"
+  },
+  {
+   "cn": "再贷款",
+   "en": "re-lending",
+   "source": "经济学名词",
+   "wordNumber": "15.133",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "中央银行以给定的利率对商业银行等金融机构发放贷款的形式。它构成中央银行投放基础货币的渠道之一。再贷款利率也是中国宏观调控的一种政策工具。"
+  },
+  {
+   "cn": "二次灌装",
+   "en": "re-filling",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1323",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_软饮料",
+   "subjectName": "软饮料",
+   "publishYear": "2020",
+   "definition": "将糖浆定量注入容器中，然后加入碳酸水至规定量，容器密封后再混合均匀，然后灌入包装容器的罐装方法。"
+  },
+  {
+   "cn": "再感染",
+   "en": "re infection",
+   "source": "感染病学名词",
+   "wordNumber": "01.0019",
+   "subjectFullName": "感染病学_总论_概述",
+   "subjectName": "概述",
+   "publishYear": "2019",
+   "definition": "机体已被某种病原体感染后，再次被同一种病原体感染的现象。"
+  },
+  {
+   "cn": "再生育",
+   "en": "re-birth",
+   "source": "计划生育名词",
+   "wordNumber": "01.037",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_计划生育国策",
+   "subjectName": "计划生育国策",
+   "publishYear": "2019",
+   "definition": "有两种含义。（1）狭义的是指已生育子女后再次生育子女。（2）我国生育政策中的再生育是指再婚家庭、病残儿家庭、特定人群、特定地区，生育多于国家政策提倡子女数量。由地方性法规作出规定。"
+  },
+  {
+   "cn": "重新分类",
+   "en": "re-classification",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.230",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "将已分类的文献再行分类的工作。一般在图书馆出现分类体系变更、分类法修改、分类错误等情况时，须对全部或部分藏书进行重新分类。"
+  },
+  {
+   "cn": "补吹",
+   "en": "re-blow",
+   "source": "冶金学名词",
+   "wordNumber": "05.1051",
+   "subjectFullName": "冶金学_钢铁冶金_炼钢",
+   "subjectName": "炼钢",
+   "publishYear": "2019",
+   "definition": "接近终点停止供氧后，发现熔池成分或温度不满足要求，再一次进行短时间的吹炼操作。"
+  },
+  {
+   "cn": "二次夹带",
+   "en": "re-entrainment",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "04.0244",
+   "subjectFullName": "化工（三）_化学反应工程",
+   "subjectName": "化学反应工程",
+   "publishYear": "2019",
+   "definition": "在气-液反应器、分离塔或流化床中，气流从床内带出的液滴或颗粒升到一定高度后因重力作用而沉降，但其间一部分遇到上升气流又再被带出的现象。"
+  },
+  {
+   "cn": "再发射",
+   "en": "re-emission",
+   "source": "物理学名词",
+   "wordNumber": "04.1584",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "re面",
+   "en": "re face",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "二次夹带",
+   "en": "re-entrainment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "再城市化",
+   "en": "re-urbanizaiton",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "再工程",
+   "en": "re-engineering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重选路由",
+   "en": "re-route",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二次辐射",
+   "en": "re-radiation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "再摄取",
+   "en": "re-uptake",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "创造论上帝创造的天地",
+   "en": "Creation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "鹿王",
+   "en": "Re cervo\",\"Il",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Henze, Hans Werner"
+  },
+  {
+   "cn": "退回汇票",
+   "en": "re-exchange bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "再出口货",
+   "en": "goods re-exported",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "疾病再扩散",
+   "en": "disease re-diffusion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "自动重选路由",
+   "en": "automatic re-routing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女武神",
+   "en": "Die Walküre",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Wagner, Richard"
+  },
+  {
+   "cn": "网状内皮系统",
+   "en": "reticuloendothelial system (RES)",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "电子偶产生",
+   "en": "pair creation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "贸易开拓",
+   "en": "trade creation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生成日期",
+   "en": "creation date",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生成时间",
+   "en": "creation time",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据库创建",
+   "en": "database creation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "再上场",
+   "en": "re-entrance\",\"re-entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回上旋球",
+   "en": "re-topspin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无体物",
+   "en": "res incorporales",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容制作",
+   "en": "content creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值创造",
+   "en": "value creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用创造",
+   "en": "credit creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器创作",
+   "en": "machine creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景力",
+   "en": "scenario creation capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络二次创作",
+   "en": "online secondary creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转移就业扶贫",
+   "en": "poverty alleviation through re-employment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流赛并重赛信号",
+   "en": "abandonment and re-sailed signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "政务服务流程再造",
+   "en": "re-engineering of government services process",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗家三昧",
+   "en": "The Key to Poetic Creation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "迁想妙得",
+   "en": "Inspirational Creation Based on Association in Thinking",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外防输入、内防反弹",
+   "en": "to prevent the coronavirus from re-entering the country to cause a new epidemic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拓宽就地就近就业渠道",
+   "en": "to create more jobs locally   ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自铸伟辞",
+   "en": "Create Masterpieces of Greatness and Originality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公生明,廉生威",
+   "en": "Fairness Fosters Discernment and Integrity Creates Authority.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重新进入",
+   "en": "re-entry",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.14.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在受控条件下，允许部分或全部撤离人员返回受辐射影响的原先居住区域的措施。"
+  },
+  {
+   "cn": "再评估",
+   "en": "re-assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.9",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在初步评估之后重新对风险进行评估的过程，包括重新评估风险的概率和影响，考虑新的风险因素，以及评估已实施的风险控制措施是否足够有效。"
+  },
+  {
+   "cn": "造神说",
+   "en": "Creationism",
+   "source": "马克思主义",
+   "wordNumber": "04.0334",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄国宗教哲学思潮。产生和传播于1907—1910年斯托雷平时期的社会民主派知识分子中。旨在创立一种没有神的社会主义的“新宗教”。代表人物有卢那察尔斯基、巴扎罗夫等。造神说认为宗教是人类精神所必须的，具"
+  },
+  {
+   "cn": "烧热病",
+   "en": "shao-re disease",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.5.8",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "棉酚慢性中毒的典型表现之一，主要表现为热季日光下劳动时发生少汗、无汗以及全身难以忍受的灼热感。"
+  },
+  {
+   "cn": "再评估原则",
+   "en": "re-evaluation principle",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.27.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂安全性评价适用原则之一。当食品添加剂的一个或多个安全性评价要素，如生产工艺、质量规格、生物学特性、杂质、消费方式或使用量、化学或毒理学资料等发生变化时，必须对其安全性进行重新评估。"
+  },
+  {
+   "cn": "纽扣花畸形",
+   "en": "boutonnière deformity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.1.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "发生于手指部位的一种关节畸形。表现为近端指间关节屈曲，远端指关节过伸，呈“纽扣花”样。可见于外伤、类风湿关节炎等炎症性疾病和Ehlers-Danlos 综合征等遗传性疾病。"
+  },
+  {
+   "cn": "创世神话",
+   "en": "creation myth",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0335",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "关于天地开辟、人类和万物起源的神话；是人类幼年时期用幻想的形式对自然、宇宙所作的幼稚解释与描述，反映出古代人对天地宇宙和人类由来的原始观念。这类神话大体可以分为由神来开辟天地、由巨人化生万物和自然演化"
+  },
+  {
+   "cn": "创世史诗",
+   "en": "creation epic",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0341",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以创世神话为基本内容，以天地、万物、人类、社会、文化之起源、演变、发展为内容的史诗。如彝族的《梅葛》、《查姆》、《阿细的先基》和《勒俄特依》，纳西族的《创世纪》，白族的《创世纪》，哈尼族的《十二奴局》"
+  },
+  {
+   "cn": "高原再适应",
+   "en": "high altitude re-adaptation",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.5.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原适应",
+   "subjectName": "高原适应",
+   "publishYear": "2025",
+   "definition": "在高原生活过的人们离开高原一段时间后，再次进入高原后所获得适应的过程。与初次适应相比，再适应需要的时长通常会缩短，但同样必不可少。"
+  },
+  {
+   "cn": "食品复检机构",
+   "en": "food re-testing agency",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.34",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "通过食品复检机构名录管理专家组审核列入公开发布的复检机构名录的检验机构。"
+  },
+  {
+   "cn": "艾卡尔迪-古蒂埃综合征",
+   "en": "Aicardi-Goutières syndrome，AGS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.12.14",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_自身炎症性疾病",
+   "subjectName": "自身炎症性疾病",
+   "publishYear": "2025",
+   "definition": "一种罕见的以脑白质受累为主的遗传性脑病，其典型的临床表现包括严重的智力运动发育落后或倒退、锥体束及锥体外系症状和体征、癫痫、小头畸形及冻疮样皮疹，还可出现血细胞减少、肝酶升高、甲状腺功能异常等多种临床"
+  },
+  {
+   "cn": "民族团结进步创建",
+   "en": "Creation of Ethnic Unity and Progress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0101",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "在中国共产党领导下，由政府主导、各民族群众广泛参与、创造性地推进民族团结和各民族共同进步的社会活动。中国的民族团结进步创建，始于上世纪50 年代吉林省延边朝鲜族自治州的民族团结宣传月活动，现已成为中国"
+  },
+  {
+   "cn": "自创性危险因素型",
+   "en": "self-created risk type",
+   "source": "社会医学名词",
+   "wordNumber": "7.3.2",
+   "subjectFullName": "健康管理",
+   "subjectName": "个体健康评价",
+   "publishYear": "2025",
+   "definition": "个体的评价年龄大于实际年龄，并且评价年龄与增长年龄的差值较大的类型。表明个体危险因素高于平均水平，且这些危险因素多是自创性的，可以通过自身行为改变降低或去除，可较大程度地延长寿命。"
+  },
+  {
+   "cn": "创造社交互动机会",
+   "en": "creating opportunities for social interaction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.1.1.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "为增加国际学生与国内学生分享与交流共同话题而设计的形式多样的活动。"
+  },
+  {
+   "cn": "火葬",
+   "en": "cremation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0267",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "葬式之一，以火焚尸安葬死者，源于灵魂不灭而尸体必毁的宗教信念，或战争和游牧民族流动生活方式的需要。尸体焚烧后的骨灰通常放在坛、缸、瓮、盒等容器中，有的置于或撒在特定的地方。"
+  },
+  {
+   "cn": "火葬",
+   "en": "cremation",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.028",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "依照传统习俗用火焚尸并对骨灰加以处置的丧葬方式。"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "克罗地亚人",
+   "en": "Croatian",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0262",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "欧洲现代民族，拥有克罗地亚共和国国籍和公民身份的人们共同体。使用克罗地亚-塞尔维亚语。多信奉天主教，部分人信仰伊斯兰教。"
+  },
+  {
+   "cn": "交叉反应",
+   "en": "cross reaction",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.9",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "抗体或活化淋巴细胞不仅与其诱生抗原发生特异性结合，也可与其他非诱生抗原中相同或相似的表位发生特异性结合的现象。"
+  },
+  {
+   "cn": "光触媒反应",
+   "en": "photocatalytic reaction",
+   "source": "消毒学",
+   "wordNumber": "2.2.6.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "在光催化剂作用下进行的化学反应。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

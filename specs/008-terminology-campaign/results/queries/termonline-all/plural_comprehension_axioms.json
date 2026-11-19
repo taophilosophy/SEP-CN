@@ -1,0 +1,782 @@
+{
+ "key": "plural comprehension axioms",
+ "term": "plural comprehension axioms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:10:05+00:00",
+ "status": "ok",
+ "note": "variant=plural comprehension axioms; 审定公布名词库=1179; 海峡两岸名词对照库=351; 其他来源数据库=78; 预公布名词数据库=72; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "概括公理",
+   "en": "comprehension axiom",
+   "source": "数学名词",
+   "wordNumber": "02.0165",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "多样性",
+   "en": "pluralism",
+   "source": "物理学名词",
+   "wordNumber": "01.0167",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多元主义",
+   "en": "pluralism",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0587",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "一种社会对抗国家的政治模式，强调社会先于或外在于国家，认为社会是一个区别于国家建制的、自主的活动领域，是一种与国家对等的力量。"
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "地理学名词",
+   "wordNumber": "17.054",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "有时表示一个社会中的文化多样性，有时表示现代社会中权力得到扩散和均衡的组织多元化。"
+  },
+  {
+   "cn": "公理",
+   "en": "axiom",
+   "source": "物理学名词",
+   "wordNumber": "01.0151",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "公理",
+   "en": "axiom",
+   "source": "数学名词",
+   "wordNumber": "01.0008",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "多元社会",
+   "en": "plural society",
+   "source": "地理学名词",
+   "wordNumber": "24.025",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "共存在同一政治单元中但宗教、文化、语言、思想方式却并不同的人类团体。"
+  },
+  {
+   "cn": "逻辑多元主义",
+   "en": "logical pluralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.280",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于有多少个正确的逻辑的一种哲学立场。认为正确的逻辑不止一个。相对的立场是逻辑一元主义。"
+  },
+  {
+   "cn": "传媒多元化",
+   "en": "media pluralism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.143",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "在政治学中，“多元化”一词强调权力的竞争、分散、参与与相互制衡。媒介多元化主张发挥民主、公共的特色以达成多元认同主体间的相互尊重，抗拒媒体单一化与集中化，为民众提供更多选择，反映社会差异，落实言论自由"
+  },
+  {
+   "cn": "阿姆斯特朗公理",
+   "en": "Armstrong axioms",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0044",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "函数依赖推理的公理体系，包括自反律、增广律和传递律。设 U为关系模式R的属性集总体，F是U上的一组函数依赖。则对于关系模式R<U, F>是否为F所蕴含，推理规则如下：①自反律。若Y⊆X⊆U，则X→Y为"
+  },
+  {
+   "cn": "独立公理",
+   "en": "independent axiom",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0048",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "保持功能要求独立性的基本公理。"
+  },
+  {
+   "cn": "信息公理",
+   "en": "information axiom",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0049",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "力求使设计信息量最小的基本公理。"
+  },
+  {
+   "cn": "安全性公理",
+   "en": "security axiom",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0227",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "经过人们长期反复实践的考验，不需要再加以证明的有关安全性的命题。"
+  },
+  {
+   "cn": "佩亚诺公理",
+   "en": "Peano axiom",
+   "source": "数学名词",
+   "wordNumber": "02.0128",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正则公理",
+   "en": "regularity axiom",
+   "source": "数学名词",
+   "wordNumber": "02.0166",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分离公理",
+   "en": "separating axiom",
+   "source": "数学名词",
+   "wordNumber": "05.0787",
+   "subjectFullName": "数学_分析学_凸分析",
+   "subjectName": "凸分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "公理A",
+   "en": "axiom A",
+   "source": "数学名词",
+   "wordNumber": "06.0162",
+   "subjectFullName": "数学_微分方程_积分方程_动力系统（数学）",
+   "subjectName": "动力系统（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "切除公理",
+   "en": "excision axiom",
+   "source": "数学名词",
+   "wordNumber": "08.0706",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "阿基米德公理",
+   "en": "Archimedean axiom",
+   "source": "数学名词",
+   "wordNumber": "08.0011",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分离性公理",
+   "en": "separation axiom",
+   "source": "数学名词",
+   "wordNumber": "08.0510",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "多元社会",
+   "en": "plural society",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "阿姆斯特朗公理",
+   "en": "Armstrong axioms",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发公理",
+   "en": "concurrency axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳公理",
+   "en": "induction axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情态公理",
+   "en": "case axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数学公理",
+   "en": "mathematical axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外延公理",
+   "en": "extension axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局部确定[性]公理",
+   "en": "local-deterministic axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理解",
+   "en": "comprehension\",\"understanding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语言理解",
+   "en": "language comprehension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阅读理解",
+   "en": "reading comprehension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理解策略",
+   "en": "comprehension strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "言语理解",
+   "en": "speech comprehension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "综合地图",
+   "en": "comprehensive map",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "综合地图集",
+   "en": "comprehensive atlas",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "综合成就测验",
+   "en": "comprehensive achievement test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模糊综合评判",
+   "en": "fuzzy comprehensive evaluation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "海水综合利用",
+   "en": "seawater comprehensive utilization",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全面深化改革",
+   "en": "comprehensively deepening reform",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区域全面经济伙伴关系协定",
+   "en": "Regional Comprehensive Economic Partnership",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多部门综合扶贫",
+   "en": "multisectoral comprehensive poverty alleviation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "综合性非药物性干预措施",
+   "en": "comprehensive non-pharmaceutical interventions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“四个全面”战略布局",
+   "en": "Four-Pronged Comprehensive Strategy",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": "全面建成小康社会、全面深化改革、全面依法治国、全面从严治党。（The Four-Pronged Comprehensive Strategy is to make comprehensive move"
+  },
+  {
+   "cn": "“四个全面”战略布局",
+   "en": "the Four-pronged Comprehensive Strategy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "资源全面节约制度",
+   "en": "the comprehensive resource conservation system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计监测与综合评价",
+   "en": "statistical monitoring and comprehensive evaluation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全面增强执政本领",
+   "en": "comprehensively strengthening the governance ability",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《信息安全综合战略》（日本）",
+   "en": "Comprehensive Strategy for Information Security (Japan)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《国家网络安全综合计划》（韩国）",
+   "en": "Comprehensive National Cybersecurity Initiative (South Korea)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中非全面战略合作伙伴关系",
+   "en": "China-Africa comprehensive strategic cooperative partnership",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国家大数据（贵州）综合试验区",
+   "en": "National Big Data (Guizhou) Comprehensive Pilot Zone",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家大数据综合试验区（中国）",
+   "en": "national big data comprehensive pilot zone (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务进农村综合示范",
+   "en": "comprehensive demonstration of e-commerce in rural areas",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全面建成多层次社会保障体系",
+   "en": "comprehensively building a multi-tiered social security system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "文化多元主义",
+   "en": "cultural pluralism",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.11",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "提倡不同文化之间的并存与相互尊重，反对文化同化、文化侵略、文化渗透等可能导致某种文化消失的任何文化过程。"
+  },
+  {
+   "cn": "性的多元论",
+   "en": "sexual pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "主张人类性行为有多种方式的观点。提倡社会容许多种性行为的方式同时存在，占主流地位的性规范不应该强行把自己的标准加在不适合这种行为的人身上，应该容许多元的生活方式。"
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "一国之内或不同国家间多种法律制度、法律文化的共存。日本学者千叶正士提出的概念。为了分析多元法律，千叶正士提出法律的三重二分法，即法律规则与法律原理、官方法与非官方法、固有法与移植法。"
+  },
+  {
+   "cn": "宗教多元论",
+   "en": "religious pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "认为不同信仰体系可以和谐并存、共同发挥其作用的理论。强调不同宗教有相通的方面，承认多样性，提倡宗教宽容。"
+  },
+  {
+   "cn": "福利多元主义",
+   "en": "welfare Pluralism",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "社会福利投资主体由公共、社会、私有、志愿以及家庭等部门共同参与提供，满足社会成员在医疗、教育、住房、社会服务等各方面的社会福利需求，即赞成福利的混合经济政策。"
+  },
+  {
+   "cn": "道德多元化",
+   "en": "moral pluralism",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.033",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "人类社会交往中呈现出的道德理论、道德原则、道德规范、道德选择的多样性。"
+  },
+  {
+   "cn": "医学多样性",
+   "en": "medical pluralism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0247",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对一个社会或文化中多种医学体系并存现象的描述。在采集渔猎等小型部落社会，对疾病的病因解释及治疗常常是单一的；而在大规模的农业社会或工业化国家，医学体系则多呈现多元并存的现象。"
+  },
+  {
+   "cn": "法律多元论",
+   "en": "legal pluralism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0128",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与法律一元论相对应的概念，即两种或者多种法律规范，法律体系或法律秩序共存于同一社会领域中的现象。"
+  },
+  {
+   "cn": "理解力",
+   "en": "comprehension faculty",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "领会知识、他人言语及行为等的能力。"
+  },
+  {
+   "cn": "综合性能",
+   "en": "comprehensive performance",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对全部照射组的剂量系统性能的综合判定指标，为全部照射组的平均偏离与标准偏差的平方和。"
+  },
+  {
+   "cn": "综合介入",
+   "en": "comprehensive intervention",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "关注“人与环境”两者间的互动关系与介入策略，体现社会综合治理理念，包含直接服务和间接服务在内的介入行动。"
+  },
+  {
+   "cn": "全面的改革",
+   "en": "Comprehensive reform",
+   "source": "马克思主义",
+   "wordNumber": "03.0518",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "包括经济体制改革、政治体制改革和相应的其他各个领域的改革。首先需要进行经济体制改革，进而改革政治体制及其他方面的体制。邓小平最早提出此观点。"
+  },
+  {
+   "cn": "四个全面",
+   "en": "FourPronged Comprehensive Strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0793",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“四个全面”战略布局是以习近平同志为核心的党中央治国理政战略思想的重要内容。其主要内容包括：全面建成小康社会、全面深化改革、全面依法治国、全面从严治党。“四个全面”战略布局集中体现了时代和实践发展对党"
+  },
+  {
+   "cn": "综合国力",
+   "en": "comprehensive national power",
+   "source": "马克思主义",
+   "wordNumber": "04.0181",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一个国家所拥有的全部实力和潜力（即物质力和精神力） 及其在国际社会中的影响力的综合。它是一个国家基于自然环境、人口、资源、经济、科技、政治、军事、文化、教育、外交等方面所具有的综合实力的统称，是从整体"
+  },
+  {
+   "cn": "全面性教育",
+   "en": "comprehensive sexuality education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "基于课程的关于性的认知、情感、身体和社会层面的意义的教学过程。旨在使儿童和年轻人具备一定的知识、技能、态度和价值观，确保其健康、福祉和尊严。"
+  },
+  {
+   "cn": "微波综合效应",
+   "en": "comprehensive effect of microwave",
+   "source": "消毒学",
+   "wordNumber": "2.2.4.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "微波辐射引起微生物细胞膜的破坏和细胞核的变性，以及引起微生物DNA、RNA和蛋白质的变性和降解达到消毒的现象。"
+  },
+  {
+   "cn": "大健康观",
+   "en": "comprehensive view on health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.1",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "以大健康为基础，强调从“以治病为中心”转向“以健康为中心”，涵盖了生理、心理、社会适应和道德健康等多维度的健康观。"
+  },
+  {
+   "cn": "综合健康医学模式",
+   "en": "comprehensive health medical model",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.2",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "认为健康受环境、遗传、行为生活方式及医疗服务四类因素影响的理论。由加拿大学者拉隆达（Lalonde）和美国学者德威尔（Dever）于20 世纪70 年代提出。"
+  },
+  {
+   "cn": "医院综合效益统计",
+   "en": "hospital comprehensive benefit statistics",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.2.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_医院卫生统计",
+   "subjectName": "医院卫生统计",
+   "publishYear": "2025",
+   "definition": "针对医院医疗工作数质量完成情况的统计信息进行综合分析，包括社会效益统计和经济效益统计。"
+  },
+  {
+   "cn": "整合实务中的角色",
+   "en": "several roles in comprehensive practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.17",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "综合介入中社会工作者所承担的、相对于服务对象而言的功能角色。社会工作者在整合的社会工作过程中，通常会视情况承担服务提供者、支持者、管理者、咨商者、辅导者、保护者、经纪人、调解者等不同角色。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

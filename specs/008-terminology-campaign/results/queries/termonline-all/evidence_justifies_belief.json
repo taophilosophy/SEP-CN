@@ -1,0 +1,792 @@
+{
+ "key": "evidence justifies belief",
+ "term": "Evidence justifies belief",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:12:37+00:00",
+ "status": "ok",
+ "note": "variant=Evidence justifies belief; 审定公布名词库=318; 海峡两岸名词对照库=125; 其他来源数据库=33; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "齐脚",
+   "en": "foot justified",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.034",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "竖排表示齐版心下；横排单面表示齐版心右，双面表示齐版心左。"
+  },
+  {
+   "cn": "边缘对齐",
+   "en": "justified margin",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1318",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "使数据或符号在所有行的左端或（与）右端对齐的一种打印页面格式。"
+  },
+  {
+   "cn": "调整",
+   "en": "justification,justify",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1317",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "为适应规定文件格式的要求，对数位、文字或符号位置向左或向右进行调整、排列或移位的动作。"
+  },
+  {
+   "cn": "证据",
+   "en": "evidence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.067",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "能够支撑假说可靠性的事实。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "行为医学名词",
+   "wordNumber": "4.084",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体对某种思想或准则坚信不疑的看法或心理状态。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0155",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "人们对未来不确定状态发生可能性的判断。广义的信念类似于预期；狭义的信念具体化为人们对事件发生的主观概率的估计。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "心理学名词",
+   "wordNumber": "07.100",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体对某种思想或准则坚信不移的心理状态。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.089",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "对某一现象或某一事物的存在或其合理性确信无疑的看法。"
+  },
+  {
+   "cn": "电子证据",
+   "en": "electronic evidence",
+   "source": "档案学名词",
+   "wordNumber": "06.01.014",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "案件发生过程中形成的，以数字化形式存储、处理、传输的，能够证明案件事实的数据。经过科学管理的电子文件可以充当电子证据。"
+  },
+  {
+   "cn": "证据的污染",
+   "en": "evidence contaminated",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "经验证据受到理论或非理论（如文化、社会、经济、政治）因素的干扰，而减弱甚至丧失其认识论上的权威性。"
+  },
+  {
+   "cn": "经验证据",
+   "en": "empirical evidence",
+   "source": "行为医学名词",
+   "wordNumber": "3.301",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "通过感官的感觉（如触觉、视觉、听觉、嗅觉和味觉）所获得的结果和证据。"
+  },
+  {
+   "cn": "证据生成者",
+   "en": "evidence creator",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.067",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医疗信息系统集成规范中，创建已完成检查的附加影像、关键影像和相关文档，并发送至归档服务器的应用程序。"
+  },
+  {
+   "cn": "证据理论",
+   "en": "evidence theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0114",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "它是一种不精确推理理论，满足比贝叶斯概率论更弱的条件，具有直接表达“不确定”和“不知道”的能力，以处理不确定信息。"
+  },
+  {
+   "cn": "审核证据",
+   "en": "audit evidence",
+   "source": "林学名词",
+   "wordNumber": "06.386",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "与审核准则有关的并且能够证实的记录、事实陈述或其他信息。"
+  },
+  {
+   "cn": "客观证据",
+   "en": "objective evidence",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0711",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "支持事物存在或其真实性的数据，可通过观察、测量、试验或其他手段获得。"
+  },
+  {
+   "cn": "审计证据",
+   "en": "audit evidence",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0388",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师为了得出审计结论和形成审计意见而使用的信息，包括构成财务报表基础的会计记录所含有的信息和其他信息。"
+  },
+  {
+   "cn": "故障迹象",
+   "en": "fault evidence",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.044",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "一种可以鉴别的偏差，通过它可以识别出功能故障或隐患故障的发生。"
+  },
+  {
+   "cn": "规范信念",
+   "en": "normative belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.082",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "个体感知到的重要他人（包括配偶、家人、同伴等）对其行为改变的认可和倾向程度。由标准信念和遵从动机两个成分构成。"
+  },
+  {
+   "cn": "标准信念",
+   "en": "standard belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.083",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "个体感知到的重要他人对其行为改变的支持和期望程度。"
+  },
+  {
+   "cn": "不合理信念",
+   "en": "irrational belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.1",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "个体内心不现实、不合逻辑、站不住脚的信念。是绝对化、过分概括化、极端化的思想认识。"
+  },
+  {
+   "cn": "边缘调整",
+   "en": "justified margin",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "古气候证据",
+   "en": "paleoclimate evidence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轶事型证据",
+   "en": "anecdotal evidence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不确定证据",
+   "en": "uncertain evidence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证据理论",
+   "en": "evidence theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确定证据",
+   "en": "conclusive evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非理性信念",
+   "en": "irrational belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "消费者信念",
+   "en": "consumer belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不良适应信念",
+   "en": "maladaptive belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信念坚持",
+   "en": "belief perseverance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可信度函数",
+   "en": "belief function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相信逻辑",
+   "en": "belief logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信念修正",
+   "en": "belief revision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "效标关联证据",
+   "en": "criterion related evidence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "初步证据",
+   "en": "prima facie evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自我挫败信念",
+   "en": "self defeating belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别角色信念",
+   "en": "gender role belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "描述性消费者信念",
+   "en": "descriptive consumer belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "鼠患检查",
+   "en": "inspection of rat evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电子证据",
+   "en": "e-evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字证据",
+   "en": "digital evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机证据",
+   "en": "computer evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链证据",
+   "en": "blockchain evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能证据摘录",
+   "en": "intelligent evidence excerpt",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据电文证据",
+   "en": "data message evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深度置信网络",
+   "en": "deep belief network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术性证据审查",
+   "en": "review of technical evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多媒体示证",
+   "en": "multimedia demonstration of evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息取证",
+   "en": "information collection for evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以明显优势获胜",
+   "en": "win by evident superiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "商业区块链存证",
+   "en": "blockchain-based evidence for business",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证取证技术",
+   "en": "technology for taking notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证证据保全技术",
+   "en": "technology for preserving notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证证据交换技术",
+   "en": "technology for exchanging notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐秀",
+   "en": "Latent Sentiment and Evident Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子合同区块链存证",
+   "en": "blockchain-based evidence for e-contract",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "顺无不行，果无不彻",
+   "en": "When What You Say Is Justified, There Is Nothing You Cannot Accomplish. When You Act Decisively, You Will Succeed.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信仰",
+   "en": "belief",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "关于某一或某些存在、意义、价值等的认识及认可。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "社会学名词",
+   "wordNumber": "4.1.15.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会态度",
+   "subjectName": "社会态度",
+   "publishYear": "2025",
+   "definition": "人们对自身、他人、社会以及世界的心理表征体系中信以为真的成份。在很大程度上与个人早期经验有关，由个体所处的社会文化环境塑造而成。"
+  },
+  {
+   "cn": "信仰",
+   "en": "belief",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.03",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对某种思想或宗教，或者对某人、某物的信奉和敬仰，并把这些奉为自己的行为准则。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1079999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对事实或可能成为事实的理论、理想或目标的内在确信。在道德品质的构成中，道德信念居于基本的和核心的地位，是人们的道德认识、道德情感和道德意志反映在道德实践基础上的有机统一，具有稳定性和持久性的特点。"
+  },
+  {
+   "cn": "证据的污染",
+   "en": "evidence contaminated",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "经验证据受到理论或非理论（如文化、社会、经济、政治）因素的干扰，而减弱甚至丧失其认识论上的权威性。"
+  },
+  {
+   "cn": "超凡信仰",
+   "en": "paranormal belief",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.12",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "相信在日常经验和科学解释之外的某些现象的存在，例如神秘物质或能量、外太空生命、UFO等。"
+  },
+  {
+   "cn": "民间信仰",
+   "en": "folk-belief",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.17",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "不具有明确的传人、严格的教义、严密的组织，同时又有内在体系和自身运作规则的一种信仰形态。具备日常生活和草根性的基本特征。"
+  },
+  {
+   "cn": "信仰圈",
+   "en": "belief circles",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.064",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国台湾人类学家林美容提出的概念，指以一个神（或他的分身）的信仰为中心的区域性信徒所形成的志愿性信徒组织。"
+  },
+  {
+   "cn": "道德信念",
+   "en": "moral belief",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0170000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "个体对道德理想和道德要求等深刻而有根据的坚信，以及由此而产生的对履行道德义务的强烈责任感。它是道德认识、道德情感和道德意志的有机统一，具有稳定性和持久性。"
+  },
+  {
+   "cn": "民俗信仰",
+   "en": "folk belief",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0277",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在长期的历史发展过程中，在民众中产生和传承的一套神灵崇拜观念、行为习惯和相应的仪式制度。"
+  },
+  {
+   "cn": "健康信念",
+   "en": "health belief",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.5.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "个体对健康、疾病、风险和预防措施的主观认知与态度。"
+  },
+  {
+   "cn": "四信",
+   "en": "four beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0647",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在建党80周年讲话中强调：坚定对马克思主义的信仰、坚定对社会主义的信念、增强对改革开放和现代化建设的信心、增强对党和政府的信任，简称“四信”。这是针对改革开放过程中人们思想观念发生的变化而提出需"
+  },
+  {
+   "cn": "渔民信仰",
+   "en": "fishermen beliefs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0056",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "渔民自发对某种思想或宗教或追求的信奉敬仰，具有很强的实际需求导向和禳灾祈福意象。渔民信仰对象繁多，如沿海渔民信仰海神龙王爷、妈祖、鱼神、潮神、港神、船神、礁神等；在中国比较常见的有妈祖信仰、龙王信仰和"
+  },
+  {
+   "cn": "证据规则",
+   "en": "rules of evidence",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.21",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "理性学科的一个特征，其主要作用在于为评价某种特定研究或理性工作是否具有有效性和价值提供理性标准和依据。"
+  },
+  {
+   "cn": "四重证据法",
+   "en": "quadruple evidence method",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0236",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文学人类学研究的“四重证据法”以王国维提出的“二重证据法”为发端，经历了20 世纪“三重证据法”的探索，于21 世纪初形成“四重证据法”方法论。第一重证据指传世文献，第二重证据指地下文献（包括甲骨文、"
+  },
+  {
+   "cn": "健康信念模型",
+   "en": "health belief model",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.9.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "运用于解释个体健康行为的理论模型。"
+  },
+  {
+   "cn": "农业信仰习俗",
+   "en": "agricultural beliefs customs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0041",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在农业生产活动中形成并传承的一系列与自然崇拜、祖先崇拜及地方神灵崇拜相关的信仰和习俗，体现了农民对自然规律的认识、对丰收的期盼以及对生活的美好祝愿。这些习俗通常包括祭祀仪式、节日庆典、特定的耕作仪式等"
+  },
+  {
+   "cn": "犹太教-基督教信仰",
+   "en": "Judeo-Christian beliefs",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "诞生于巴勒斯坦耶路撒冷圣城的同源宗教犹太教和基督教的信仰体系，主要强调爱人、利他、奉献等。"
+  },
+  {
+   "cn": "证据权重",
+   "en": "weight of evidence, WOE",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.32",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对获得的反映某一因素或状况引起生物、系统或（亚）人群健康不良作用的所有证据进行评估和加权的一种方法。"
+  },
+  {
+   "cn": "调查取证",
+   "en": "investigation and evidence collection",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "有管辖权的行政机关对决定立案处理的违法案件，为查明案件的违法事实而依法进行的专门调查、获取证据和采取强制措施的活动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

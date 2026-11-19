@@ -1,0 +1,162 @@
+{
+ "key": "assertions",
+ "term": "assertions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:27:22+00:00",
+ "status": "ok",
+ "note": "variant=assertions; 审定公布名词库=8; 海峡两岸名词对照库=6; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "断言",
+   "en": "assertion",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0118",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "断定一个特定前提为真的陈述。"
+  },
+  {
+   "cn": "论断",
+   "en": "assertion",
+   "source": "数学名词",
+   "wordNumber": "01.0011",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "管理层认定",
+   "en": "management assertion",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0411",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "管理层在财务报表中对财务报表组成要素的确认、计量、报告所做出的明确或隐含的表达。"
+  },
+  {
+   "cn": "角色主张",
+   "en": "role assertion",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0943",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "创业者基于公司利益至上的思想，以新创企业的名义所做出的对公司有利的不道德的事。"
+  },
+  {
+   "cn": "决断力训练",
+   "en": "assertiveness training",
+   "source": "精神医学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "一种用于增强社交技能的行为治疗方法。运用人际关系的情景，训练受检者正确地和适当地与他人交往，顺畅自如地表达自己的情绪、情感，主张自己的权益，实现自己的目的，有勇气拒绝别人的不合理要求。"
+  },
+  {
+   "cn": "自信训练",
+   "en": "assertiveness training",
+   "source": "心理学名词",
+   "wordNumber": "15.039",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "帮助退缩或被动的人学习以适时、适当的方式表达他们所想、所需的一种训练方法。"
+  },
+  {
+   "cn": "安全断言置标语言",
+   "en": "security assertion markup language,SAML",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.051",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "一种实现Web服务安全产品之间互操作，保证端到端、机构内部以及从企业到企业的安全性的建议标准。"
+  },
+  {
+   "cn": "消费资本资产定价模型",
+   "en": "consumption-based capital assert pricing model,consumption-based CAPM,CCAPM",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0092",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "投资者在最优化其跨期消费的总效用实现均衡时，所用的资本资产定价模型。"
+  },
+  {
+   "cn": "断言",
+   "en": "assertion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳断言",
+   "en": "inductive assertion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "输出断言",
+   "en": "output assertion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "输入断言",
+   "en": "input assertion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳断言法",
+   "en": "inductive assertion method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自信训练",
+   "en": "assertiveness training\",\"self confidence trai ning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无为者帝",
+   "en": "Taking a Non-assertive Action Makes a Good Emperor.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

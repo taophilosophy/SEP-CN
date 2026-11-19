@@ -1,0 +1,32 @@
+{
+ "key": "whorfianism",
+ "term": "Whorfianism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:02:47+00:00",
+ "status": "ok",
+ "note": "variant=Whorfianism; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "沃夫假设",
+   "en": "Whorfian hypothesis",
+   "source": "心理学名词",
+   "wordNumber": "02.639",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "由沃夫(B. L. Whorf)提出的假设。认为不同语言在结构上对世界上不同事物的描述有所偏重，这种偏重对说话的人如何认知世界有一定影响。"
+  },
+  {
+   "cn": "沃夫假设",
+   "en": "Whorfian hypothesis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

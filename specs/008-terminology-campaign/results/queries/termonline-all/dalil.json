@@ -1,0 +1,22 @@
+{
+ "key": "dalil",
+ "term": "dalīl",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:05:48+00:00",
+ "status": "ok",
+ "note": "variant=dalīl; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "D-K式卡塞格林望远镜",
+   "en": "Dall-Kirkham Cassegrain telescope",
+   "source": "天文学名词",
+   "wordNumber": "06.074",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "由凹椭球面主镜和凸球面副镜组成的卡塞格林望远镜变型。彗差较大，主要在天文爱好者中使用，以两位发明者命名。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

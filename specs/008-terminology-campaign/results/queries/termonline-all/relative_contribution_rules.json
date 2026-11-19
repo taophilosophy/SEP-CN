@@ -1,0 +1,772 @@
+{
+ "key": "relative contribution rules",
+ "term": "relative contribution rules",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:35:39+00:00",
+ "status": "ok",
+ "note": "variant=relative contribution rules; 审定公布名词库=1801; 海峡两岸名词对照库=670; 其他来源数据库=124; 预公布名词数据库=103; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "自来稿",
+   "en": "contributions",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.181",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "读者自行向编辑部投送的稿件。这部分稿件需经认真鉴别审定后才能使用。"
+  },
+  {
+   "cn": "污染后果",
+   "en": "pollution contribution",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0044",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_环境",
+   "subjectName": "环境",
+   "publishYear": "2022",
+   "definition": "由于污染所引起事物变化的结果。 "
+  },
+  {
+   "cn": "剩余贡献",
+   "en": "residual contribution",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0233",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "剩余项对活度系数的贡献。"
+  },
+  {
+   "cn": "贡献率",
+   "en": "contribution rate",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0460",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "分析经济效益的一个指标，是指有效或有用成果数量与资源消耗及占用量之比，即产出量与投入量之比，或所得量与所费量之比。"
+  },
+  {
+   "cn": "边际贡献",
+   "en": "contribution margin",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0302",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "销售收入减去变动成本后的余额。"
+  },
+  {
+   "cn": "残余贡献",
+   "en": "residual contribution",
+   "source": "化学工程名词",
+   "wordNumber": "02.234",
+   "subjectFullName": "化学工程_化工热力学_相平衡与化学平衡",
+   "subjectName": "相平衡与化学平衡",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "特约编辑",
+   "en": "contributing editor",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.018",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "编辑部门约请担任编辑工作的编外专业人员的职务名称。"
+  },
+  {
+   "cn": "相对性",
+   "en": "relativity",
+   "source": "物理学名词",
+   "wordNumber": "06.0001",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "基团贡献法",
+   "en": "group contribution method",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.160",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "把单质和化合物的物理化学性质看成是构成它们的基团对物理化学性质贡献的加和，通过基团的体积参数、表面积参数以及基团之间的交互作用参数来计算活度系数。"
+  },
+  {
+   "cn": "国有资产出资",
+   "en": "national assets contribution",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.226",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目决策",
+   "subjectName": "项目决策",
+   "publishYear": "2021",
+   "definition": "国有资产管理单位代表国家将部分国有资产作为股金投入企业的设立或运营的行为。包括机器、厂房和资金等。"
+  },
+  {
+   "cn": "固定缴款计划",
+   "en": "defined contribution plan",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0367",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "根据某一固定公式对类资产进行配置来安排雇主出资份额的养老金计划。"
+  },
+  {
+   "cn": "确定供款型养老金计划",
+   "en": "defined-contribution plan",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0732",
+   "subjectFullName": "管理科学技术_金融工程_金融市场与机构",
+   "subjectName": "金融市场与机构",
+   "publishYear": "2016",
+   "definition": "一种养老金计划，雇员或是其雇主单独或共同向雇员的独立的退休账户以确定方式按期缴款，雇员从该账户中提取退休后的收益，收益水平取决于账户投资绩效。一般而言，雇员对账户投资具有一定的控制权，但是雇主不保证雇"
+  },
+  {
+   "cn": "共同海损分摊",
+   "en": "general average contribution",
+   "source": "航海科技名词",
+   "wordNumber": "13.0221",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "稿源",
+   "en": "source of contributions",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.02.005",
+   "subjectFullName": "编辑与出版学_编辑_组稿",
+   "subjectName": "组稿",
+   "publishYear": "2022",
+   "definition": "出版单位的稿件来源。"
+  },
+  {
+   "cn": "贡献源",
+   "en": "contributing source,CSRC",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0833",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "贡献于由一个实时传输协议（RTP）混合器产生的结合流的一个RTP分组流的源。在RTP分组头的贡献源列表中用其同步源标识符表示。"
+  },
+  {
+   "cn": "色贡献指数",
+   "en": "color contribution index,CCI",
+   "source": "计量学名词",
+   "wordNumber": "13.436",
+   "subjectFullName": "计量学_光学_光学元器件",
+   "subjectName": "光学元器件",
+   "publishYear": "2015",
+   "definition": "表征物镜相对于无物镜时预期改变摄影影像颜色程度的由三个正整数组成的数组。"
+  },
+  {
+   "cn": "组织稿",
+   "en": "commissioned manuscript;solicited contribution",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.02.009",
+   "subjectFullName": "编辑与出版学_编辑_组稿",
+   "subjectName": "组稿",
+   "publishYear": "2022",
+   "definition": "出版单位依据列选选题物色作者获取的稿件。"
+  },
+  {
+   "cn": "土地使用权出资",
+   "en": "land use rights contribution",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.228",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目决策",
+   "subjectName": "项目决策",
+   "publishYear": "2021",
+   "definition": "以国有土地使用权作价出资、与企业合作创办或经营企业并按投资比例进行利润分配的一种融资形式。"
+  },
+  {
+   "cn": "养老金确定缴费制",
+   "en": "defined contribution pension plan",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0504",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "先预测缴费水平并据以筹集养老保险金，待劳动者退休后，以此时缴费和投资收益的积累额为基础发放养老金。"
+  },
+  {
+   "cn": "累计方差贡献率",
+   "en": "cumulative variance contribution rate",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0461",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "贡献率波动情况的累计。"
+  },
+  {
+   "cn": "残余贡献",
+   "en": "residual contribution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "共同出资",
+   "en": "joint contribution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信托投资",
+   "en": "fiduciary contribution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反射区",
+   "en": "contributing region",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "关系调",
+   "en": "relative",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "共同海损分摊",
+   "en": "general average contribution",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相对紧张度，相对挺胀度",
+   "en": "relative turgidity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对挺胀度（=相对紧张度）",
+   "en": "relative turgidity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "厚度型",
+   "en": "relative topography",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对日照",
+   "en": "relative sunshine",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对涡度",
+   "en": "relative vorticity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对丰度",
+   "en": "relative abundance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对黑度",
+   "en": "relative blackness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对饱和度",
+   "en": "relative saturation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对吸收率",
+   "en": "relative absorptivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对增益",
+   "en": "relative gain",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对黏度",
+   "en": "relative viscosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对挥发度",
+   "en": "relative volatility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对误差",
+   "en": "relative error",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共建共享",
+   "en": "joint contribution and shared benefits",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "则",
+   "en": "Rules",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社保延缴",
+   "en": "(to allow) deferred social security contributions  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulation\",\"rule-book\",\"rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关联规则",
+   "en": "association rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "启发式规则",
+   "en": "heuristic rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别规则",
+   "en": "class rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缴费率",
+   "en": "contribution rate",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.6",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "雇员和雇主所缴纳各项社会保险总额占个人工资或用人单位工资总额的比例。"
+  },
+  {
+   "cn": "食物贡献率",
+   "en": "food contribution rate",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.65",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "摄入某一种食物对某种特定物质（营养素、污染物等）的摄入量的贡献程度。"
+  },
+  {
+   "cn": "五个共同",
+   "en": "five common contributions",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0147",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华民族历史观的集中体现。我国各民族共同开拓了祖国的辽阔疆域，共同缔造了统一的多民族国家，共同书写了辉煌的中国历史，共同创造了灿烂的中华文化，共同培育了伟大的民族精神。"
+  },
+  {
+   "cn": "社会健康保险筹资",
+   "en": "social health insurance contribution",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "国家通过立法强制要求雇主和雇员按一定的收入比例缴纳社会医疗保险费形成基金池，用于雇员及其家属就医补偿的一种卫生筹资模式。"
+  },
+  {
+   "cn": "商业健康保险筹资",
+   "en": "private health insurance contribution",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.2.3",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "由保险公司提供，消费者自愿参加和选择最适合自己偏好的保险项目，根据个体疾病风险特征缴纳保险费形成基金池的一种卫生筹资模式。"
+  },
+  {
+   "cn": "毌丘俭纪功碑",
+   "en": "Guanqiu Jian Contribution Inscription",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.031",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "曹魏时期安邑侯毌丘俭平定高句丽反叛所立的纪功碑。由赭红色含石英粒岩石凿刻而成。1906 年，发现于吉林集安。仅碑之左上角残存。"
+  },
+  {
+   "cn": "科学贡献的知名度",
+   "en": "visibility of scientific contributions",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.20",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家的科学成果受到同行关注和社会承认的程度。"
+  },
+  {
+   "cn": "相对剥夺",
+   "en": "relative deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "缺乏某种事物的人与拥有这种事物的人相比较，感觉自己应该拥有的东西被剥夺的一种主观感受。由社会心理学家斯托福尔(Samuel Stouffer）等人提出。被广泛应用于社会不平等和社会公正问题讨论。与“绝"
+  },
+  {
+   "cn": "相对剥夺感",
+   "en": "relative deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "人们对自己的现实处境与某种预期或者某种参照物相比较时，对两者之间的差异产生的不满足的消极感受。"
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "社会成员基本生存需求得到满足，没有机会或能力体验当地一定经济社会条件下所公认的生活水准的状态。世界银行《1981年世界发展报告》的描述是：“当某些人、某些家庭或某些群体没有足够的资源去获取他们那个社会"
+  },
+  {
+   "cn": "相对运动",
+   "en": "relative motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0025",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物体对特定参考系而言的相对位置的连续变动，运动是绝对的；但从不同的参考系观察运动的情况是不一样的。"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0210",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的相对性。(1)从整个物质世界来说，任何真理只是对无限宇宙的一个部分、一个方面的正确认识。世界上尚有许多事物、方面没有被认识或未被完全认识。(2)从某一特定事物来说，任何真理性认识，只是对它的某些"
+  },
+  {
+   "cn": "相对工资",
+   "en": "relative wage",
+   "source": "马克思主义",
+   "wordNumber": "02.0148",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“绝对工资”相对应。一国工人单位时间的工资与外国工人单位时间工资的比值。在国际贸易理论中，决定各国之间诸类贸易问题的多是各国的相对工资水平，而非绝对工资水平。同样，在说明一国工资水平对国际贸易的影响"
+  },
+  {
+   "cn": "相对贫困化",
+   "en": "relative pauperization",
+   "source": "马克思主义",
+   "wordNumber": "02.0171",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义社会中无产阶级在社会国民收入中所得份额相对下降的趋势。随着劳动生产率的提高，使工人工作日中的必要劳动时间缩短，剩余劳动时间延长，因而剩余价值率和剩余价值量不断提高，无产阶级的收入在整个国民收入"
+  },
+  {
+   "cn": "相对危险度",
+   "en": "relative risk",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.39",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "一种反映暴露与发病（死亡）关联强度的指标，表明暴露组发病（死亡）的危险是对照组的多少倍，通常包括率比和危险度比。"
+  },
+  {
+   "cn": "相对密度",
+   "en": "relative density",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "一定温度下，一定体积的香料或香精的质量与相同温度下同样体积的蒸馏水的质量之比。是香料或香精的主要理化指标之一。"
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "在一定温度下，空气中实际水汽压与同温度下的饱和水汽压的百分比。"
+  },
+  {
+   "cn": "相对静止",
+   "en": "relatively static",
+   "source": "马克思主义",
+   "wordNumber": "01.0026",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质运动的一种特殊状态，标志物质的绝对运动在一定条件下、一定范围内出现的暂时稳定与平衡的状态。"
+  },
+  {
+   "cn": "文化相对性",
+   "en": "cultural relativity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "一个判断文化差异之价值的概念和观念。强调特定的社会、自然环境产生特定的文化。在不同文化中，其行为准则、行为模式之价值必须以该文化系统自身之标准来衡量。"
+  },
+  {
+   "cn": "相对危险",
+   "en": "relative risk，RR",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "反映暴露与发病（死亡）关联强度的指标。表明暴露组发病（死亡）的危险是对照组的倍数，通常包括率比和危险度比。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,792 @@
+{
+ "key": "will-less contemplation",
+ "term": "will-less contemplation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:18:42+00:00",
+ "status": "ok",
+ "note": "variant=will-less contemplation; 审定公布名词库=3082; 海峡两岸名词对照库=1067; 其他来源数据库=130; 预公布名词数据库=68; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "意向阶段",
+   "en": "contemplation stage",
+   "source": "行为医学名词",
+   "wordNumber": "2.068",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "行为分阶段转变理论的第二阶段。个体已经意识到问题的重要性，开始认真地思考改变自己行为的阶段。个体能够意识到改变行为的益处，同时也会意识到改变行为的代价。"
+  },
+  {
+   "cn": "打算阶段",
+   "en": "contemplation stage",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.040",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "行为改变阶段理论的第二阶段。在最近6个月内，人们开始意识到问题的存在及其严重性，意识到改变行为可能带来的益处，也知道改变行为需要代价，因此在益处和代价之间权衡，处于犹豫不决的矛盾状态。"
+  },
+  {
+   "cn": "神劳",
+   "en": "over contemplation",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0663",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "以神疲，失眠，健忘，头晕痛等为主要表现的疾病。"
+  },
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "行为医学名词",
+   "wordNumber": "4.096",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体有选择性地在自己的活动中设置一定目的，并为达到目的而自觉决定和组织自己行为的心理状态。"
+  },
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "精神医学名词",
+   "wordNumber": "02.181",
+   "subjectFullName": "精神医学_症状与体征_意志行为障碍症状",
+   "subjectName": "意志行为障碍症状",
+   "publishYear": "2019",
+   "definition": "推动人们采取各种行动以达到某种预定目标的心理活动。"
+  },
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "计划生育名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "人们自觉地确定目标，并克服困难，用自己的行动去实现目标的心理过程。"
+  },
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "心理学名词",
+   "wordNumber": "02.745",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体有选择性地在自己的活动中设置一定目的，并为达到该目的而自觉决定和组织自己的行为的心理过程。"
+  },
+  {
+   "cn": "志",
+   "en": "will",
+   "source": "中医药学名词",
+   "wordNumber": "03.402",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "志向。"
+  },
+  {
+   "cn": "任性",
+   "en": "willful",
+   "source": "行为医学名词",
+   "wordNumber": "18.017",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为障碍",
+   "subjectName": "儿童行为障碍",
+   "publishYear": "2022",
+   "definition": "为满足自己的欲望或达到不正当目的，听凭秉性行事，无所顾忌、恣意放纵的行为。"
+  },
+  {
+   "cn": "无打算阶段",
+   "en": "pre-contemplation stage",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.039",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "行为改变阶段理论的第一阶段。在最近6个月内，没有考虑改变自己的行为，或者有意坚持不改变的状态。"
+  },
+  {
+   "cn": "流滴性",
+   "en": "drop-less",
+   "source": "农学名词",
+   "wordNumber": "14.183",
+   "subjectFullName": "农业工程_农业生物环境与设施设备",
+   "subjectName": "农业生物环境与设施设备",
+   "publishYear": "2025",
+   "definition": "温室透光覆盖材料将其内表面上凝结水滴铺展成水膜状的能力。"
+  },
+  {
+   "cn": "勒辛环",
+   "en": "Lessing ring",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0871",
+   "subjectFullName": "化工（八）_化工设备_塔设备",
+   "subjectName": "塔设备",
+   "publishYear": "2021",
+   "definition": "在拉西环中增加一隔板的填料。"
+  },
+  {
+   "cn": "自由意志",
+   "en": "free will",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.587",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "人们依照其拥有的条件去决定是否做一件事情的能力。它拥有对人自身的最高管理权限。在伦理学中，自由意志意味着个人在道义上要对自己的行为负责；在科学领域，自由意志意味着身体的动作，包括大脑在内，不全由物理因"
+  },
+  {
+   "cn": "生前预嘱",
+   "en": "living will",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.149",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "人们在健康或意识清楚时签署的，用于说明在不可治愈的伤病末期或临终时要求或不要求使用哪些医疗护理的具有法律效力的指示文件。"
+  },
+  {
+   "cn": "意志",
+   "en": "will;volition",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.195",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体依靠主观能动性有计划、有目标地完成一项活动的能力。"
+  },
+  {
+   "cn": "性意志",
+   "en": "sex will",
+   "source": "行为医学名词",
+   "wordNumber": "12.001",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "自我意识调节性行为的能力。"
+  },
+  {
+   "cn": "意志训练",
+   "en": "will training",
+   "source": "心理学名词",
+   "wordNumber": "14.070",
+   "subjectFullName": "心理学_运动心理学",
+   "subjectName": "运动心理学",
+   "publishYear": "2014",
+   "definition": "旨在提高自觉性、独立性、果断性、坚韧性等意志品质的训练。"
+  },
+  {
+   "cn": "道德意志",
+   "en": "moral will",
+   "source": "教育学名词",
+   "wordNumber": "01.214",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "个体在道德实践过程中，为达成预定道德目的，自觉地克服困难和障碍，坚持或改变道德行为方式而产生的心理状态。"
+  },
+  {
+   "cn": "樱会",
+   "en": "Sakura Will",
+   "source": "世界历史名词",
+   "wordNumber": "04.0111",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东北亚",
+   "subjectName": "东北亚",
+   "publishYear": "2012",
+   "definition": "1930年秋，日本建立的以陆军省、参谋本部部分年轻军官为主的法西斯秘密团体。"
+  },
+  {
+   "cn": "无TATA框启动子",
+   "en": "TATA-less promoter",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.288",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "缺少TATA框的启动子。"
+  },
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自由意志",
+   "en": "free will",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无溶剂漆",
+   "en": "solvent-less paint",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "低盐水",
+   "en": "less saline water",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "零担货物",
+   "en": "less-than-carload cargo",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "稀有金属",
+   "en": "rare metal\",\"less common metal",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "少耕法",
+   "en": "less-tillage system\",\"reducedtillage system",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拼车货",
+   "en": "less than truck load\",\"LTL",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拼箱货",
+   "en": "less than container load\",\"LCL",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "黄土峁",
+   "en": "mao\",\"loess hill",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "晶状体",
+   "en": "lens\",\"crystalline lens",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "填充",
+   "en": "fill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "壁宿",
+   "en": "Wall",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "沟纹",
+   "en": "rill",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "井宿",
+   "en": "Well",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "海槛",
+   "en": "sill",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "冰碛物",
+   "en": "till",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "丘陵",
+   "en": "hill",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "细沟",
+   "en": "rill",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "岩床",
+   "en": "sill",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "神思",
+   "en": "Imaginative  Contemplation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "意志学说",
+   "en": "will theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玄览",
+   "en": "Xuanlan ( Pure-minded Contemplation )",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "淡中心化",
+   "en": "less-centralized regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兴观群怨",
+   "en": "Stimulation, Contemplation, Communication, and Criticism",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民心",
+   "en": "Will of the People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天志",
+   "en": "The Will of Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人生自古谁无死，",
+   "en": "Everyone will one day die;",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "客户身份意愿真实性",
+   "en": "authenticity of customer identity and will",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链遗嘱",
+   "en": "wills and testaments on the blockchain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "恃德者昌，恃力者亡",
+   "en": "Those Who Rely on Virtue Will Thrive; Those Who Rely on Force Will Perish.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "好战必亡，忘战必危",
+   "en": "Those Who Like to Go to War Will Perish; Those Who Forget War Will Be in Danger.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民无信不立",
+   "en": "Without People’s Trust the State Will Not Survive.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "师直为壮",
+   "en": "Troops Will Be Powerful When Fighting a Just Cause.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哀兵必胜",
+   "en": "An Endangered Army Filled with Indignation Will Be Victorious.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "唇亡齿寒",
+   "en": "Once the Lips Are Gone, the Teeth Will Feel Cold.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "黄河安澜",
+   "en": "When the Yellow River is harnessed, China will enjoy tranquility.",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "心同理同",
+   "en": "People of Similar Natures and Emotions Will Have Similar Understanding.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公意",
+   "en": "general will",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "全体公民，即主权者的共同利益的表达。卢梭借此去定义有别于单个人的特殊意志的、指向所有人的共同利益的那种意志。"
+  },
+  {
+   "cn": "国家意志",
+   "en": "state will",
+   "source": "马克思主义",
+   "wordNumber": "03.0082",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反映统治阶级的经济统治和政治统治的利益诉求。在阶级社会中，统治阶级将自己的根本利益和集体诉求上升为国家意志，并通过国家这一统治阶级的联合力量和强制机关加以实现。"
+  },
+  {
+   "cn": "人民意志",
+   "en": "peoples will",
+   "source": "马克思主义",
+   "wordNumber": "03.0147",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "广大人民群众的利益、愿望和要求。民主是人民意志的一种实现形式。但在奴隶社会、封建社会和资本主义社会生产资料私有制占统治地位和少数人成为统治阶级的时代，人民的意志并无法以“真正民主”或“实质民主”的形态"
+  },
+  {
+   "cn": "生前预嘱",
+   "en": "living will",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.041",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "属于遗嘱的一种特殊形式。具有完全民事行为能力的患者，在其意识清楚时，为自己在丧失意识或行为能力时，预先安排临终前后有关事宜所表达的指示性意愿或签署的指示性文件。"
+  },
+  {
+   "cn": "道德意志",
+   "en": "moral will",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0190000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在做出伦理决策和实施伦理行为过程中，自觉克服内部困难和外部障碍的顽强坚持精神。作为构成个体道德品质的因素之一，是道德认识向道德行为转化的关键。"
+  },
+  {
+   "cn": "中国不允许乱",
+   "en": "China will tolerate no disturbances",
+   "source": "马克思主义",
+   "wordNumber": "04.0151",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平1989年3月4日在同中央负责同志谈话时提出的论断。“中国不允许乱”，是我党执政的重要历史经验，是中国人民的根本利益所在，是坚持人民民主专政的应有之义，对于我们治国理政具有重要的现实意义和深远的"
+  },
+  {
+   "cn": "人不犯我我不犯人人若犯我我必犯人",
+   "en": "we will not attack unless we are attacked if we are attacked we will certainly counterattack",
+   "source": "马克思主义",
+   "wordNumber": "03.0443",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东总结抗日战争期间中国共产党同国民党顽固派斗争的经验提出的军事自卫原则。我们决不打第一枪，也决不可在被人家进攻时不予还击。对于顽固派的军事攻击，必须坚决、彻底、干净、全部消灭之。抗日战争胜利后，为"
+  },
+  {
+   "cn": "库恩损失",
+   "en": "Kuhnean loss; Kuhn loss",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.186",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "在库恩的科学革命中，新范式通常会具有比旧范式更强的解谜能力，但也有少部分可能是旧范式能解决但新范式解决不了的。"
+  },
+  {
+   "cn": "铀水冶厂",
+   "en": "uranium mill",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.6",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "以铀矿石为原料，采用湿法冶金工艺，生产铀化学浓缩物或核纯铀化合物的生产企业，以及以铀化学浓缩物为原料进行铀的纯化和精制，最后获得核纯铀化合物的企业。"
+  },
+  {
+   "cn": "柏林墙",
+   "en": "Berlin wall",
+   "source": "马克思主义",
+   "wordNumber": "05.0213",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "柏林墙的正式名称为反法西斯防卫墙（德文为Antifaschistischer Schutzwall），是德意志民主共和国（或东德）在己方领土上建立的隔绝与西柏林往来的围墙，目的是阻止东德居民逃往西柏林"
+  },
+  {
+   "cn": "窗台",
+   "en": "window-sill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "建筑物的窗户内侧下部的台面。"
+  },
+  {
+   "cn": "福祉",
+   "en": "well-being",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.3.9.1",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力",
+   "subjectName": "针对儿童的暴力",
+   "publishYear": "2025",
+   "definition": "个人和社会体验到的一种积极状态。与健康类似，是日常生活的一种资源，由社会和环境条件决定。儿童福祉是指获得支持、信心和资源，在安全、健康的人际关系中茁壮成长，并充分发挥自身的潜力和权利。"
+  },
+  {
+   "cn": "希尔模型",
+   "en": "Hill model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.81",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一类经典的响应变量模型。常用于描述剂量-反应关系。"
+  },
+  {
+   "cn": "野生蔬菜",
+   "en": "wild vegetable",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.3.17",
+   "subjectFullName": "食品卫生学_食品_蔬菜",
+   "subjectName": "蔬菜",
+   "publishYear": "2025",
+   "definition": "自然分布的、未经人工栽培而被食用的一类蔬菜。"
+  },
+  {
+   "cn": "复合损失",
+   "en": "recombination loss",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "电离室中由于电离辐射作用而产生的正负离子重新结合成原子或分子而损失的电荷量。"
+  },
+  {
+   "cn": "生产力损失",
+   "en": "productivity loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "计算生产过程中由于发病、伤残（失能）、过早死亡导致生产力损失的间接成本。"
+  },
+  {
+   "cn": "失水",
+   "en": "moisture loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.18",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "在处理、贮藏、运输或市场销售过程中，水果和蔬莱产品的水分蒸发的过程。"
+  },
+  {
+   "cn": "语言丧失",
+   "en": "language loss",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0153",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "群体或个人逐渐丧失使用一种语言的能力的现象。"
+  },
+  {
+   "cn": "角色减退",
+   "en": "role loss",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.048",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "个体在承担病人角色过程中，因各种原因无法完全或持续履行该角色行为规范的现象。"
+  },
+  {
+   "cn": "存活-杀灭区间",
+   "en": "survival-kill window",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下进行灭菌处理时，生物指示物从全部存活微生物（存活时间）过渡到全部杀灭微生物（杀灭时间）的阶段。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

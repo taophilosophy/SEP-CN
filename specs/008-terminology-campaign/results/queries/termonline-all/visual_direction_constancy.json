@@ -1,0 +1,762 @@
+{
+ "key": "visual direction constancy",
+ "term": "visual direction constancy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:18:05+00:00",
+ "status": "ok",
+ "note": "variant=visual direction constancy; 审定公布名词库=3835; 海峡两岸名词对照库=1210; 其他来源数据库=182; 预公布名词数据库=126; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "永久性",
+   "en": "constancy ",
+   "source": "草学名词",
+   "wordNumber": "2.036",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "恒定性",
+   "en": "constancy",
+   "source": "动物学名词",
+   "wordNumber": "7.0577",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "在特定时间内，生态系统的物种数量、结构、群落配置或环境的物理特征等参数没有发生变化的特性。"
+  },
+  {
+   "cn": "恒定性",
+   "en": "constancy",
+   "source": "植物学名词",
+   "wordNumber": "13.0558",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "在特定时间内，生态系统的物种数量、结构、群落配置或环境的物理特征等参数没有发生变化的特性。"
+  },
+  {
+   "cn": "恒定性",
+   "en": "constancy",
+   "source": "林学名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "在特定时间内生态系统的物种数量、结构群落配置或环境的物理特征等参数没有发生变化的特性。"
+  },
+  {
+   "cn": "恒定性",
+   "en": "constancy",
+   "source": "生态学名词",
+   "wordNumber": "07.312",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "在特定时间内，生态系统的物种数量、结构、群落配置或环境的物理特征等参数没有发生变化的特性。"
+  },
+  {
+   "cn": "恒有度",
+   "en": "constance",
+   "source": "植物学名词",
+   "wordNumber": "13.0280",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "某物种(或分类单位)在属于同一群落类型但空间上彼此分隔的各个群落片段上同等面积调查范围出现的百分率。"
+  },
+  {
+   "cn": "恒有度",
+   "en": "constance",
+   "source": "生态学名词",
+   "wordNumber": "06.038",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "在样地面积大小相同时某一种出现的样地占全部样地的百分率。"
+  },
+  {
+   "cn": "知觉恒常性",
+   "en": "perceptual constancy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.576",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在距离、方位、光照等因素发生变化时，人和动物将事物感知为具有恒常的大小、形状、颜色等属性的现象。是人和动物在变化的知觉情境中对某些环境特征的稳定感知。"
+  },
+  {
+   "cn": "色觉恒常",
+   "en": "color constancy",
+   "source": "光学名词",
+   "wordNumber": "28.080",
+   "subjectFullName": "光学_生物光学与激光医疗",
+   "subjectName": "生物光学与激光医疗",
+   "publishYear": "2021",
+   "definition": "不管照明光的光谱组分如何变化，人们通常能像在白光下一样来分辨物体颜色的现象。"
+  },
+  {
+   "cn": "知觉恒常性",
+   "en": "perceptual constancy",
+   "source": "测绘学名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "知觉的稳定不变性。即当客观条件在一定范围内改变时，知觉映象在相当程度上倾向于保持其原样不变的心理作用。"
+  },
+  {
+   "cn": "稳定性检测",
+   "en": "constancy test",
+   "source": "医学影像技术学名词",
+   "wordNumber": "01.024",
+   "subjectFullName": "医学影像技术学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "为确定影像设备或在给定条件下形成的影像相对初始状态的变化是否仍符合控制标准而进行的检测。"
+  },
+  {
+   "cn": "距离恒常性",
+   "en": "distance constancy",
+   "source": "心理学名词",
+   "wordNumber": "02.386",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在不同观察情况下，对同一段距离的知觉保持相对不变的特性。"
+  },
+  {
+   "cn": "速度恒常性",
+   "en": "velocity constancy",
+   "source": "心理学名词",
+   "wordNumber": "02.387",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在不同观察情况下，对相同速度的知觉保持相对不变的特性。"
+  },
+  {
+   "cn": "大小恒常性",
+   "en": "size constancy",
+   "source": "心理学名词",
+   "wordNumber": "02.388",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "当观察物体的距离(视网膜像)改变时，知觉到的物体大小保持不变的特性。"
+  },
+  {
+   "cn": "知觉恒常性",
+   "en": "perceptual constancy",
+   "source": "心理学名词",
+   "wordNumber": "02.381",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对物理刺激变化而保持稳定知觉的特性。主要包括颜色恒常性、形状恒常性、大小恒常性等。"
+  },
+  {
+   "cn": "颜色恒常性",
+   "en": "color constancy",
+   "source": "心理学名词",
+   "wordNumber": "02.382",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "照明条件在一定范围内变化时，一个表面或目标仍被知觉为同一种颜色的特性。"
+  },
+  {
+   "cn": "明度恒常性",
+   "en": "brightness constancy",
+   "source": "心理学名词",
+   "wordNumber": "02.383",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "即使照明条件发生变化，一个物体的明度仍然保持相对稳定的特性。"
+  },
+  {
+   "cn": "形状恒常性",
+   "en": "shape constancy",
+   "source": "心理学名词",
+   "wordNumber": "02.384",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对于从不同距离和不同角度观察同一个物体导致的视网膜上成像的不同，依然将其知觉为同一个物体的特性。"
+  },
+  {
+   "cn": "物体恒常性",
+   "en": "object constancy",
+   "source": "心理学名词",
+   "wordNumber": "02.385",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在不同情况下对于同一物体的知觉保持相对稳定的特性。"
+  },
+  {
+   "cn": "稳定性检测",
+   "en": "constancy test",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.066",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护监测",
+   "subjectName": "放射防护监测",
+   "publishYear": "2014",
+   "definition": "为确定使用中的设备性能参数相对于一个初始状态(基线值)的变化是否符合控制标准而进行的常规质量控制检测。"
+  },
+  {
+   "cn": "恒定性，稳定性",
+   "en": "constancy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性（=恒定性）",
+   "en": "constancy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "恒常性",
+   "en": "constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "恒定性",
+   "en": "constancy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "恒定性",
+   "en": "constancy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "恒有度",
+   "en": "constance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "恒有度",
+   "en": "constance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大小恒常性",
+   "en": "size constancy\",\"magnitude constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "明度恒常性",
+   "en": "brightness constancy\",\"lightness constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "形状恒常性",
+   "en": "shape constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉恒常性",
+   "en": "perceptual constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "物体恒常性",
+   "en": "object constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "重量恒常性",
+   "en": "weight constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "颜色恒常性",
+   "en": "color constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "位置恒常性",
+   "en": "location constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别恒常性",
+   "en": "gender constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "距离恒常性",
+   "en": "distance constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "速度恒常性",
+   "en": "velocity constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可视化分析",
+   "en": "visual analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "视觉编码",
+   "en": "visual coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可视密码",
+   "en": "visual cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "视觉信号",
+   "en": "visual signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据可视化",
+   "en": "data visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学可视化",
+   "en": "scientific visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息可视化",
+   "en": "information visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流场可视化",
+   "en": "flow visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体可视化",
+   "en": "volume visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "改变方向",
+   "en": "change direction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方向旗",
+   "en": "direction flag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "IEEE第8届国际可视化学术会议",
+   "en": "IEEE Visualization’97 Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据可视化分析",
+   "en": "Data Visualization Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络态势可视化",
+   "en": "network situation visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市画像",
+   "en": "visualized urban data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性检测",
+   "en": "constancy test",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.4.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管_放射诊疗设备",
+   "subjectName": "放射诊疗设备",
+   "publishYear": "2025",
+   "definition": "为确定放射诊疗设备在给定条件下获得的数值相对于一个初始状态的变化是否符合控制标准而定期进行的质量控制检测。"
+  },
+  {
+   "cn": "影像民族志",
+   "en": "visual ethnography",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "一种以视觉符号为主要表现手段的人类学文本及话语形式。影视民族志以人类学田野工作和电影语言作为两翼，致力于有人类学田野及伦理支撑的影视作品的生产。"
+  },
+  {
+   "cn": "视觉发育",
+   "en": "visual development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "将视觉信息传入大脑，理解周围世界，获取周围环境的信息能力随年龄增长的发展变化过程。视觉系统功能出生后3年内基本发育成熟。"
+  },
+  {
+   "cn": "视力",
+   "en": "visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "眼睛所能够分辨的外界两个点间的最小距离的能力，通常以视角的倒数来表示。视角越小，表示分辨能力越好。"
+  },
+  {
+   "cn": "视力残疾",
+   "en": "visual disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视力损失或视野缩小，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "视觉测评",
+   "en": "visual assessment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.24",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "应用视觉心理物理学检查（如视力、视野、色觉、暗适应、立体视觉、对比敏感度等）及视觉电生理检查进行评估的过程。"
+  },
+  {
+   "cn": "影视民族志",
+   "en": "visual ethnography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0268",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以影视人类学为学科基础的田野作业与文化表达体系。影视民族志不仅能形象地展示社会文化群体的整体性文化样貌，对于其政治结构、经济体系、亲属制度、宗教信仰等人类学研究的传统分支领域进行深度描述，还可运用视听"
+  },
+  {
+   "cn": "影视人类学",
+   "en": "visual anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0265",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以影像和影视手段表现文化人类学（民族学）原理，记录、展示和诠释一个民族或族群的文化或尝试建立跨文化比较的交叉学科。"
+  },
+  {
+   "cn": "裸眼视力",
+   "en": "uncorrected visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "未矫正视力，未经任何光学镜片矫正所测得的视力，包括裸眼远视力和裸眼近视力。"
+  },
+  {
+   "cn": "日常生活视力",
+   "en": "presenting visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在日常屈光状态下的视力。平时未戴眼镜者，为裸眼视力；平时戴眼镜者，则为戴眼镜状态下所测得视力；如已配眼镜但日常生活中并不戴用，则仍以裸眼视力反映。"
+  },
+  {
+   "cn": "视力残疾鉴定",
+   "en": "visual disability identification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "确定视力残疾的原因、类型、程度的活动。"
+  },
+  {
+   "cn": "视敏度残疾",
+   "en": "visual acuity disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视敏度损失，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "视觉残疾",
+   "en": "visual sense disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的形觉、色觉、光觉、调节和辐辏等视觉损失，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "视野残疾",
+   "en": "visual field disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视野缩小，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "视力残疾分类",
+   "en": "visual disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按导致视力残疾的原因以及视力残疾的程度对视力残疾类型的划分。"
+  },
+  {
+   "cn": "视力残疾分级",
+   "en": "visual disability grade",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "根据视力损伤程度和视野大小，对视力残疾划分的等级。"
+  },
+  {
+   "cn": "本顿视觉保留",
+   "en": "Benton visual retention",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.6",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "一种短时视觉记忆测验，只利用其几何图形识别部分而省去运动反应分，评价受试者视感知/记忆能力。"
+  },
+  {
+   "cn": "视力残疾一级",
+   "en": "visual disability grade Ⅰ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "双眼无光感，或最佳校正视力<0.02，或视野半径<5度。"
+  },
+  {
+   "cn": "视力残疾二级",
+   "en": "visual disability grade Ⅱ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "0.02≤双眼最佳校正视力<0.05,或视野半径<10度。"
+  },
+  {
+   "cn": "视力残疾三级",
+   "en": "visual disability grade Ⅲ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "0.05≤双眼最佳校正视力<0.1。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

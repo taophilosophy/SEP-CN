@@ -1,0 +1,762 @@
+{
+ "key": "preferred extension",
+ "term": "preferred extension",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:31:12+00:00",
+ "status": "ok",
+ "note": "variant=preferred extension; 审定公布名词库=1403; 海峡两岸名词对照库=421; 其他来源数据库=40; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "嗜食性",
+   "en": "preference ",
+   "source": "草学名词",
+   "wordNumber": "2.0427",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "肉适意性",
+   "en": "preferability",
+   "source": "畜牧学名词",
+   "wordNumber": "06.035",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_肉的品质特性",
+   "subjectName": "肉的品质特性",
+   "publishYear": "2020",
+   "definition": "消费者对肉类品质的满意程度。"
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0086",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "按照自己的意愿对可供选择的方案进行的排列(或提供判断值)。"
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "source": "药学名词",
+   "wordNumber": "10.066",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "对某种健康状态的意愿或倾向。通常体现为效用或价值。"
+  },
+  {
+   "cn": "优选",
+   "en": "preferred orientation",
+   "source": "地质学名词",
+   "wordNumber": "09.06.109",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "岩石构造要素(矿物或几何要素)的形态定向或结晶学方向的定向趋势。"
+  },
+  {
+   "cn": "优先溶解",
+   "en": "preferred dissolution",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.0029",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀原理及类型",
+   "subjectName": "腐蚀原理及类型",
+   "publishYear": "2021",
+   "definition": "多元合金在腐蚀过程中，只有电位较低的金属或相发生腐蚀或其腐蚀速率较大的现象。"
+  },
+  {
+   "cn": "优先股",
+   "en": "preferred stock",
+   "source": "经济学名词",
+   "wordNumber": "12.114",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "公司在分配股息时或者当公司解散、分配剩余财产时，较普通股有优先分配特权的股票。"
+  },
+  {
+   "cn": "择优取向",
+   "en": "preferred orientation",
+   "source": "冶金学名词",
+   "wordNumber": "09.0209",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "多晶体中的晶粒取向是任意的，在某些情况(如加工、热处理)下，晶粒围绕某些特殊的取向排列的现象。有形变织构和再结晶织构。"
+  },
+  {
+   "cn": "偏爱密码子",
+   "en": "preferred codon",
+   "source": "植物学名词",
+   "wordNumber": "10.0013",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "生物细胞类群中被最频繁利用的密码子。"
+  },
+  {
+   "cn": "择优取向",
+   "en": "preferred orientation",
+   "source": "物理学名词",
+   "wordNumber": "08.0917",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "从优参考系",
+   "en": "preferred frame",
+   "source": "物理学名词",
+   "wordNumber": "06.0252",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "择优取向",
+   "en": "preferred orientation",
+   "source": "化学名词",
+   "wordNumber": "04.1932",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "大量具有取向性个体组成体系，每一个体的特定方位相对集中于空间某一方向上的现象；或者1个取向性个体，有多种可能的空间取向，然而优选在某方向取向的现象。"
+  },
+  {
+   "cn": "优先股",
+   "en": "preferred stock",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0530",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "在企业利润分红和剩余资产分配时的权利优先于普通股，但对于企业经营管理投票方面则没有权利的股份。"
+  },
+  {
+   "cn": "优势构象",
+   "en": "preferred conformation",
+   "source": "药学名词",
+   "wordNumber": "03.098",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "在一个分子的所有构象中，能量较低，出现概率较高的构象。"
+  },
+  {
+   "cn": "择优溶解",
+   "en": "preferred dissolution",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0763",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料环境行为",
+   "subjectName": "材料环境行为",
+   "publishYear": "2011",
+   "definition": "多元合金在腐蚀过程中，合金中电势较低的金属或相发生优先溶解而被破坏的现象。"
+  },
+  {
+   "cn": "择优取向",
+   "en": "preferred orientation",
+   "source": "电子学名词",
+   "wordNumber": "15.158",
+   "subjectFullName": "电子学_电子元器件工艺与分析技术",
+   "subjectName": "电子元器件工艺与分析技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "平装优先",
+   "en": "paper preferred,paperback book preferred,paper-cover preferred",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.342",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "一种采购书刊的原则。如果同种书刊以精装本和平装本同时出版发行，则优先选购平装本。在以使用为目的的采购协议中，大多采用此原则。"
+  },
+  {
+   "cn": "景观偏好",
+   "en": "landscape preference",
+   "source": "风景园林名词",
+   "wordNumber": "06.0034",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "是一连串人与环境交互作用的结果，观赏者经过一连串知觉、认知的心理评估过程后对经过产生的偏好。"
+  },
+  {
+   "cn": "消费者偏好",
+   "en": "consumer preference",
+   "source": "农学名词",
+   "wordNumber": "19.035",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "消费者对特定的商品和场所等产生特殊偏爱的行为。"
+  },
+  {
+   "cn": "嗜食性分级",
+   "en": "preference ranking ",
+   "source": "草学名词",
+   "wordNumber": "2.0283",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "偏爱密码子",
+   "en": "preferred codon",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优势周期",
+   "en": "preferred period",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "择优溶解",
+   "en": "preferred dissolution",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "优先股票",
+   "en": "preferred stock",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先汇率",
+   "en": "preferred rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先通货",
+   "en": "preferred currency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先资本",
+   "en": "capital preferred",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "统一基准",
+   "en": "preferred datum",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "择优取向",
+   "en": "preferred orientation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优势构象",
+   "en": "preferred conformation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "颜色爱好",
+   "en": "color preference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生境偏爱,生境适应性",
+   "en": "habitat preference",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "草食偏好性",
+   "en": "grazing preference",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "环境取向",
+   "en": "environmental preference",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反向优惠",
+   "en": "reverse preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易优先权",
+   "en": "trade preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特惠",
+   "en": "special preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "英联邦特惠税制",
+   "en": "Imperial Preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先债券",
+   "en": "bond preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "偏好管理",
+   "en": "preference management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伸展度",
+   "en": "extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加时赛",
+   "en": "extension\",\"overtime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪托延伸部",
+   "en": "butt extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展不完全",
+   "en": "uneven extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后退区域",
+   "en": "extension\",\"retreat zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "车把手杆",
+   "en": "handlebar extension\",\"stem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "副舵柄",
+   "en": "stick\",\"tiller extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "服务化延伸",
+   "en": "service-oriented extension",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准扩展性需求",
+   "en": "extensibility requirement of standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《隐私法扩展令》（加拿大）",
+   "en": "Privacy Act Extension Order (Canada)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "延长期",
+   "en": "extension\",\"extra period\",\"extra-time\",\"overtime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "博爱",
+   "en": "Extensive Love to Benefit All People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《获取信息法扩展令》（加拿大）",
+   "en": "Access to Information Act Extension Order (Canada)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "延期",
+   "en": "extend",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谷歌机器学习产业化",
+   "en": "extensive application of machine learning in Google products",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性别偏好",
+   "en": "gender preference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "对于不同性别重此轻彼的选择性对待。可以发生在职场中，如服务性行业和岗位对女性的偏好。也可以发生在生育养育过程中，如常见的男孩偏好，即认定男婴或男孩的价值大于女婴或女孩。怀孕和生育过程中的性别偏好选择会"
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险较为偏爱的一种态度。与能够获得某一数额的确定性收益相比，消费者更愿意选择存在风险但是能够获得同样数额的风险收益"
+  },
+  {
+   "cn": "时间偏好",
+   "en": "time preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体愿意用当前的效用去交换未来效用的偏好。是当前和未来效用的边际替代率。"
+  },
+  {
+   "cn": "陈述偏好法",
+   "en": "stated preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "采用调查的方式，让被调查人表达疾病治疗方案所带来的效益，以此对偏好进行估算的一种分析方法。"
+  },
+  {
+   "cn": "显示偏好法",
+   "en": "revealed preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在实际购买决策行为中观察个人的偏好强度的一种分析方法。"
+  },
+  {
+   "cn": "时间不一致偏好",
+   "en": "time-inconsistent preference ",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.4",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体对商品和服务的偏好在不同时期有所变化。"
+  },
+  {
+   "cn": "粗放农业",
+   "en": "extensive agriculture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0169",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "单位面积土地上，相对于集约农业而言，投入较低的劳力、资本的农业经营方式。"
+  },
+  {
+   "cn": "深度水解乳蛋白",
+   "en": "extensively hydrolyzed milk proteins",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.64",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "容易引起过敏反应的95%以上的乳蛋白被水解成分子量小于3kDa 的二肽、三肽和少量游离氨基酸的终产物。"
+  },
+  {
+   "cn": "深度水解配方乳",
+   "en": "extensively hydrolyzed formula milk",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.9.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "水解牛乳酪蛋白或乳清蛋白后的乳配方制品，其中氮以游离氨基酸以及分子量<1500的肽的形式存在，少量分子量 >3500。在不同的配方奶中，水解蛋白的程度和广度均不同。"
+  },
+  {
+   "cn": "扩大家庭",
+   "en": "extended family",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0379",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "家庭结构分类中的一种家庭形式，指由有共同血缘关系的父母和已婚子女，或已婚兄弟姐妹的多个核心家庭组成的家庭模式。"
+  },
+  {
+   "cn": "扩展个案法",
+   "en": "extended case study",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从宏观权力的视角观察具体的日常生活、由具体个案反观宏观因素、从而实现理论改进的个案研究方法。由美国社会学家麦可·布洛维提出。"
+  },
+  {
+   "cn": "扩展计划距离",
+   "en": "extended planning distance，EPD",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.11.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "设施周围做好应急安排的区域，以便在宣布总体应急（场外应急）后进行放射性状况监测，并在出现大量放射性释放后的一段时间内确定需要在厂外采取应急响应行动的区域，从而有效地降低公众成员中的随机效应风险。对压水"
+  },
+  {
+   "cn": "卫生费用核算扩展维度",
+   "en": "extended health accounting framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.4",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "卫生费用核算时基于卫生费用核算核心维度的向外伸展。包括筹资环节、生产环节和消费环节三个维度。"
+  },
+  {
+   "cn": "皮蛋",
+   "en": "preserved egg",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.8",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "以鲜蛋为原料，经用氢氧化钠（烧碱）、食盐、茶叶（添加或不添加）、水等辅料和食品添加剂（含食品加工助剂硫酸铜等）配成的料液或料泥腌制、包装等工艺制成的产品。"
+  },
+  {
+   "cn": "果脯",
+   "en": "preserved fruit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.8",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "以果蔬等为主要原料，添加（或不添加）食品添加剂和其他辅料，经糖或蜂蜜或盐腌制（或不腌制）等工艺制成的食品。"
+  },
+  {
+   "cn": "胸廓活动度",
+   "en": "chest expansion",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "用于检查胸廓的活动程度的指标。患者双手处于休息位或置于脑后；于前面第4肋间隙为测量部位；记录尽可能深吸气和深呼气时胸围的差距，以cm为单位（如4.2cm）；取两次测量的均值。"
+  },
+  {
+   "cn": "糟蛋",
+   "en": "egg preserved in rice wine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.11",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "用优质鲜蛋在糯米酒糟中糟制而成的一类再制蛋。"
+  },
+  {
+   "cn": "经前期紧张综合征",
+   "en": "premenstrual tension syndrome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女精神障碍",
+   "subjectName": "妇女精神障碍",
+   "publishYear": "2025",
+   "definition": "一种影响女性的常见的特发性综合征，特征是发生在月经周期黄体期的某些环境、代谢或行为因素，导致周期性的情绪、身体或行为症状，干扰个体生活方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

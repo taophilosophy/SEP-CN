@@ -1,0 +1,812 @@
+{
+ "key": "insurance",
+ "term": "insurance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:30:33+00:00",
+ "status": "ok",
+ "note": "variant=insurance; 审定公布名词库=204; 海峡两岸名词对照库=171; 其他来源数据库=35; 预公布名词数据库=100; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "保险",
+   "en": "insurance",
+   "source": "农学名词",
+   "wordNumber": "19.285",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "降低风险损失的经济行为。投保人根据合同约定，向承险人支付一定费用（即保险费），换取约定时期内出现约定风险时的依约赔偿。"
+  },
+  {
+   "cn": "保险",
+   "en": "insurance",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0445",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "以契约形式确立双方经济关系，对合同规定范围内的灾害事故所造成的损失，进行经济补偿或给付的一种经济形式。"
+  },
+  {
+   "cn": "保险",
+   "en": "insurance",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.118",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "通过保险人与被保险人(即投保人)签订保险合同，或依据有关法令收取保险费，建立保险基金，对风险所造成的意外损失，给予经济补偿的制度和方法。"
+  },
+  {
+   "cn": "养老保险",
+   "en": "endowment insurance,pension insurance",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0495",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "对法定范围内的劳动者因年老而退出社会劳动后，提供能保障其基本生活且稳定可靠的经济来源的社会保险项目。"
+  },
+  {
+   "cn": "保险公司",
+   "en": "insurance company",
+   "source": "经济学名词",
+   "wordNumber": "12.087",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "依照中国保险法和公司法设立的经营商业保险业务的金融机构。"
+  },
+  {
+   "cn": "保险标",
+   "en": "insurance tender",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0471",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "投标人在对可预见的情况从技术、设备、资金等重大问题都有解决的对策之后，再参加投标的投标行为。"
+  },
+  {
+   "cn": "保险市场",
+   "en": "insurance market",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0670",
+   "subjectFullName": "管理科学技术_金融工程_金融市场与机构",
+   "subjectName": "金融市场与机构",
+   "publishYear": "2016",
+   "definition": "保险商品进行交易活动的场所以及保险商品交换关系的总和。"
+  },
+  {
+   "cn": "保险公司",
+   "en": "insurance company",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0721",
+   "subjectFullName": "管理科学技术_金融工程_金融市场与机构",
+   "subjectName": "金融市场与机构",
+   "publishYear": "2016",
+   "definition": "以盈利为目的，销售保险合约，经营各种保险业务以提供风险保障的公司。"
+  },
+  {
+   "cn": "保险公司",
+   "en": "insurance company",
+   "source": "建筑学名词",
+   "wordNumber": "02.0629",
+   "subjectFullName": "建筑学_建筑类型及组成_商业服务建筑",
+   "subjectName": "商业服务建筑",
+   "publishYear": "2014",
+   "definition": "销售保险合约、提供风险保障的公司所在建筑或场所。"
+  },
+  {
+   "cn": "保用期",
+   "en": "insurance period",
+   "source": "电气工程名词",
+   "wordNumber": "28.039",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "保险费",
+   "en": "insurance charge",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0733",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "保险费",
+   "en": "insurance expense",
+   "source": "水利科学技术名词",
+   "wordNumber": "16.007",
+   "subjectFullName": "水利科学技术_水利经济_水利工程费用",
+   "subjectName": "水利工程费用",
+   "publishYear": "1997",
+   "definition": "向保险公司为风险项目投保所交纳的费用。"
+  },
+  {
+   "cn": "保险费率",
+   "en": "insurance rate",
+   "source": "水利科学技术名词",
+   "wordNumber": "16.128",
+   "subjectFullName": "水利科学技术_水利经济_水利建设资金筹集",
+   "subjectName": "水利建设资金筹集",
+   "publishYear": "1997",
+   "definition": "投保人向保险公司每年交纳的保险费除以所投保的财产金额所得的比值，以百分数计。"
+  },
+  {
+   "cn": "保险赔偿",
+   "en": "insurance compensation",
+   "source": "水利科学技术名词",
+   "wordNumber": "16.129",
+   "subjectFullName": "水利科学技术_水利经济_水利建设资金筹集",
+   "subjectName": "水利建设资金筹集",
+   "publishYear": "1997",
+   "definition": "投保人受灾后，保险公司按合同经勘查落实后，给予投保人一定金额用以补偿其所受损失的行为。"
+  },
+  {
+   "cn": "保险索赔",
+   "en": "insurance claim",
+   "source": "航海科技名词",
+   "wordNumber": "13.0188",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "保险期",
+   "en": "insurance period",
+   "source": "电子学名词",
+   "wordNumber": "18.074",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "农业保险学",
+   "en": "agricultural insurance",
+   "source": "农学名词",
+   "wordNumber": "01.148",
+   "subjectFullName": "总论_农业科学",
+   "subjectName": "农业科学",
+   "publishYear": "2025",
+   "definition": "研究农业生产经营中因遭遇自然灾害、意外事故、市场波动等因素造成的损失评估补偿机制和方法的学科。"
+  },
+  {
+   "cn": "原保险",
+   "en": "primary insurance",
+   "source": "农学名词",
+   "wordNumber": "19.286",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "保险人向投保人收取保费，对约定风险发生时所造成的财产损失直接承担原始赔偿责任的保险。"
+  },
+  {
+   "cn": "农作物保险",
+   "en": "crop insurance",
+   "source": "农学名词",
+   "wordNumber": "19.288",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "以人工种植的各种农作物为标的物的保险。"
+  },
+  {
+   "cn": "收入保险",
+   "en": "income insurance",
+   "source": "农学名词",
+   "wordNumber": "19.290",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "对农产品生产经营中因自然灾害、意外事件和市场风险等导致的收入损失进行赔付的保险。"
+  },
+  {
+   "cn": "保险",
+   "en": "insurance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "被保险人",
+   "en": "insured",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保险承诺书",
+   "en": "insurance binder",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险代理人",
+   "en": "insurance agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险公司",
+   "en": "insurance company",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险价值",
+   "en": "insurance value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险凭证",
+   "en": "insurance certificate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险市场",
+   "en": "insurance market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险索赔",
+   "en": "insurance claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险信托",
+   "en": "insurance trust",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险期",
+   "en": "insurance period",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保险索赔",
+   "en": "insurance claim",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "标签保险",
+   "en": "label insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "部分保险",
+   "en": "partial insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "出口保险",
+   "en": "export insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抵押保险",
+   "en": "mortgage insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分期缴费保险",
+   "en": "installment insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "更换保险",
+   "en": "replacement insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共同保险",
+   "en": "co-insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共同保险，互助保险",
+   "en": "participating insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保证保险",
+   "en": "guaranteed insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网保险",
+   "en": "IoT insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网保险",
+   "en": "Internet insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色保险",
+   "en": "green insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "巨灾保险",
+   "en": "catastrophe insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科技保险",
+   "en": "technology insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网上参保证明",
+   "en": "online insurance certificate",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网上社会保险服务",
+   "en": "online social insurance service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医保智能监控",
+   "en": "intelligent monitoring for medical insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际保险监督官协会",
+   "en": "International Association of Insurance Supervisors (IAIS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社保制度",
+   "en": "social insurance system; social security system",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全民参保精准识别",
+   "en": "accurate identification for universal social insurance coverage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医疗保险和医疗救助脱贫",
+   "en": "poverty alleviation by providing medical insurance and aid",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "减免企业社会保险费",
+   "en": "to reduce or remit corporate social insurance premiums",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新技术金融应用风险保险计划",
+   "en": "insurance scheme for use of new technology in financial sector",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线上登记失业和申领失业保险金",
+   "en": "online registration of unemployment and application for unemployment security insurance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《中国保监会关于保险业服务“一带一路”建设的指导意见》",
+   "en": "Guidelines of the China Insurance Regulatory Commission on Promoting the Development of Insurance Industry for the Building of the Belt and Road",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减免养老、失业以及工伤这三项社会保险单位的缴费",
+   "en": "to reduce or remit required premiums to be paid by employers for their employees’ old-age, unemployment and work-related injury insurances  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐力",
+   "en": "endurance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐力",
+   "en": "endurance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "被保险人",
+   "en": "insurant",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "其财产或者人身受保险合同保障，享有保险金请求权的人"
+  },
+  {
+   "cn": "承保人",
+   "en": "insurer",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "与投保人订立保险合同，并承担赔偿或者给付保险金责任的保险机构"
+  },
+  {
+   "cn": "保险垄断",
+   "en": "insurance monopoly",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.3.4",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "卫生服务市场中保险机构作为服务供方通过药物目录、支付方式、定点政策等手段和控制权所形成的垄断性。"
+  },
+  {
+   "cn": "保险因子",
+   "en": "insurance factor",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "健康保险赔付率（补偿比）对医疗服务利用、医疗费用变化的影响程度。"
+  },
+  {
+   "cn": "保险欺诈",
+   "en": "insurance fraud",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "假借保险名义或利用保险合同谋取非法利益的行为，主要包括保险金诈骗类欺诈行为、非法经营保险业务类欺诈行为和保险合同诈骗类欺诈行为等。"
+  },
+  {
+   "cn": "社会保险",
+   "en": "social insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "一般由政府依法主办，国家、社会、雇主和个人共同承担责任的一种社会和经济保障制度。强制将被保险人的部分收入按比例作为社会保险税（费）形成社会保险基金。在满足一定条件下，被保险人可获得固定收入或损失补偿。"
+  },
+  {
+   "cn": "养老保险",
+   "en": "endowment insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.3.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_养老保险",
+   "subjectName": "养老保险",
+   "publishYear": "2025",
+   "definition": "国家或政府通过立法，以权利与义务一致性为原则，在社会成员在因年老而丧失劳动能力或达到法定解除劳动义务的劳动年龄界限后，保障其基本生活需求的一种社会经济制度安排。社会保险五大险种中最重要的险种之一。"
+  },
+  {
+   "cn": "医疗保险",
+   "en": "health insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.4.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_医疗保险",
+   "subjectName": "医疗保险",
+   "publishYear": "2025",
+   "definition": "国家通过立法建立医疗保险基金，在社会成员患病需要医治时，根据疾病类型为其提供基本医疗费用补偿的一种社会保险制度。按照强制性社会保险原则，基本医疗保险费应由用人单位和职工个人按时足额缴纳。"
+  },
+  {
+   "cn": "失业保险",
+   "en": "unemployment insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.5.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_失业保险",
+   "subjectName": "失业保险",
+   "publishYear": "2025",
+   "definition": "依据国家法规，在劳动者非自愿失业时给予失业金支付以保障其基本生活，并提供相关再就业服务的一种社会保险制度。通过国家、企事业单位和个人等渠道筹资建立失业保险基金。"
+  },
+  {
+   "cn": "生育保险",
+   "en": "maternity insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.7",
+   "subjectFullName": "社会学名词_分支社会学_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "国家立法为处在怀孕或分娩期间的职业妇女提供物质帮助、生育津贴、医疗服务以及产假，以保障其基本生活，恢复其健康以及劳动能力的一项社会保险制度。"
+  },
+  {
+   "cn": "商业保险",
+   "en": "commercial insurance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.12.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_补充保障",
+   "subjectName": "补充保障",
+   "publishYear": "2025",
+   "definition": "保险机构依合同约定，向投保人收取保险费，建立保险基金，在被保险人死亡、伤残、患病、或达到约定的年龄期限以及其他合同约定的事故造成损失时，承担给付保险金责任的一种保险制度。是补充保障的重要组成部分。"
+  },
+  {
+   "cn": "医疗社会保险",
+   "en": "medical insurance",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.84",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "国家通过立法方式强制性地向法定范围的劳动者及其他社会成员征缴医疗保险基金，在劳动者（或公民）因患病、负伤、年老、生育、失业或其他原因收入中断需要医疗费用时，由国家或企业提供医疗和物质保障的一种社会保险"
+  },
+  {
+   "cn": "医疗保险",
+   "en": "medical insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "通过多方筹集资金建立基金池，对被保险人在因疾病或意外伤害所发生的医疗费用给予偿付的制度安排"
+  },
+  {
+   "cn": "共付保险",
+   "en": "co-insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "保险机构和被保险人按照一定比例共同支付医疗费用"
+  },
+  {
+   "cn": "强制参保",
+   "en": "mandatory insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "按照强制性社会保险原则，医疗保险通过国家立法提出符合条件的单位和个人必须参加医疗保险的条款。"
+  },
+  {
+   "cn": "自愿参保",
+   "en": "voluntary insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "投保人和保险公司在平等互利、等价有偿的原则基础上，通过协商一致，双方完全自愿订立保险合同建立保险关系的行为。"
+  },
+  {
+   "cn": "生育保险",
+   "en": "maternity insurance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.4.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生筹资",
+   "subjectName": "妇幼卫生筹资",
+   "publishYear": "2025",
+   "definition": "为保障女性劳动者在生育期间的基本生活和医疗需求，维护劳动力再生产，国家和社会通过立法为怀孕、分娩的女性劳动者提供医疗费用补偿、生育津贴及产假保障的社会保险制度。"
+  },
+  {
+   "cn": "健康保险",
+   "en": "health insurance",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.06",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "以人的身体为对象，保证被保险人在疾病或意外事故所致伤害时的费用或损失获得补偿的一种保险。包括疾病保险、医疗保险、失能收入损失保险、护理保险及医疗意外保险等。"
+  },
+  {
+   "cn": "社会保险",
+   "en": "social insurance",
+   "source": "社会医学名词",
+   "wordNumber": "3.11.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会保障体系",
+   "publishYear": "2025",
+   "definition": "一般由政府依法主办，国家、社会、雇主和个人共同承担责任的一种社会和经济保障制度。强制将被保险人的部分收入按比例作为社会保险税（费）。在满足一定条件下，被保险人可获得固定收入或损失补偿。"
+  },
+  {
+   "cn": "多级健康保险",
+   "en": "multilevel healthcare insurance",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.09",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "一个国家或地区在医疗保险方面，为了满足不同人群的医疗保障需求，提供全方位的医疗保障，设置涵盖基本医疗保险、补充医疗保险以及商业健康保险等多层次的医疗保障制度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

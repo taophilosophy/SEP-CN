@@ -1,0 +1,672 @@
+{
+ "key": "vital teleology",
+ "term": "vital teleology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:21:16+00:00",
+ "status": "ok",
+ "note": "variant=vital teleology; 审定公布名词库=248; 海峡两岸名词对照库=48; 其他来源数据库=22; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "目的论",
+   "en": "teleology",
+   "source": "心理学名词",
+   "wordNumber": "04.154",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "主张人由自我导引、能对自己行为或命运负责的观点。"
+  },
+  {
+   "cn": "目的论",
+   "en": "teleology",
+   "source": "生态学名词",
+   "wordNumber": "04.021",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "认为生物的适应是绝对完善的，生物体的结构与功能严格对应，生物体的结构是为一定的功能目的而设计的，各部分的结构又是按最合理的方式组合成整体的一种理论。"
+  },
+  {
+   "cn": "目的论",
+   "en": "teleology",
+   "source": "自动化名词",
+   "wordNumber": "03.258",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "目的系统",
+   "en": "teleological system",
+   "source": "自动化名词",
+   "wordNumber": "03.257",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "生活力",
+   "en": "vitality",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.148",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "生物体正常生长发育的能力。"
+  },
+  {
+   "cn": "[生]活力",
+   "en": "vitality",
+   "source": "植物学名词",
+   "wordNumber": "11.0646",
+   "subjectFullName": "植物学_植物生理学_植物成熟与衰老生理",
+   "subjectName": "植物成熟与衰老生理",
+   "publishYear": "2019",
+   "definition": "植物在一定的外界环境条件下的生存能力。表现在新陈代谢的能力、生长势、抗逆性和适应性等方面，其强弱是育种时所依据的主要标准。"
+  },
+  {
+   "cn": "生活力",
+   "en": "vitality",
+   "source": "遗传学名词",
+   "wordNumber": "02.409",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "生物体正常生长发育的能力。"
+  },
+  {
+   "cn": "生活力",
+   "en": "vitality",
+   "source": "水产名词",
+   "wordNumber": "05.194",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "生物群落中，各种生物的生长发育兴衰程度。"
+  },
+  {
+   "cn": "活体染料",
+   "en": "vital stain,vital dye",
+   "source": "细胞生物学名词",
+   "wordNumber": "011.114",
+   "subjectFullName": "细胞生物学_细胞生物学技术",
+   "subjectName": "细胞生物学技术",
+   "publishYear": "2009",
+   "definition": "可使活细胞呈染色反应的物质。如中性红、尼罗兰。某些染色剂对细胞器染色的具有选择性，如詹纳斯绿可专一性地使线粒体着色。"
+  },
+  {
+   "cn": "生命体征",
+   "en": "vital sign",
+   "source": "急救医学名词",
+   "wordNumber": "07.026",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救设备与检查项目_急救检查项目",
+   "subjectName": "急救检查项目",
+   "publishYear": "2025",
+   "definition": "维持生命存在的最基础的体征。通常指呼吸、脉搏、血压、体温、血氧饱和度等。"
+  },
+  {
+   "cn": "生命冲动",
+   "en": "lan vital",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.119",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "作为精神性本原的生命意志的观点。由柏格森提出和描述。认为生命是带有强烈行动意志色彩的精神力量即意识和“创造需要”。其不受任何原因和条件限制，是完全偶然、盲目的冲动。这种冲动是一切有机体的本质和生物进化"
+  },
+  {
+   "cn": "正气",
+   "en": "vital qi",
+   "source": "兽医学名词",
+   "wordNumber": "19.102",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "动物体各脏腑组织器官的功能活动，对致病因素的抵抗能力以及对外界环境的适应能力。"
+  },
+  {
+   "cn": "要害部位",
+   "en": "vital site",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.035",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "包括以下场所或区域：①多工种联合作业、频繁拆卸、搬迁、安装的部位，生产过程中不安全因素多的野外施工现场；②相对集中的油气生产与处理装置区；③制造、储存、运输和销售易燃易爆、剧毒等危险化学品的场所，以及"
+  },
+  {
+   "cn": "生命消沉",
+   "en": "vital depression",
+   "source": "精神医学名词",
+   "wordNumber": "03.174",
+   "subjectFullName": "精神医学_诊断分类_情感障碍",
+   "subjectName": "情感障碍",
+   "publishYear": "2019",
+   "definition": "生命感受呈低迷停滞的特征性病态改变现象。没有其他躯体疾病情况下，受检者在心境消沉同时有体温下降、心率减慢、胃肠蠕动减慢等表现。"
+  },
+  {
+   "cn": "生命体征",
+   "en": "vital sign",
+   "source": "烧伤学名词",
+   "wordNumber": "08.014",
+   "subjectFullName": "烧伤学_烧伤护理",
+   "subjectName": "烧伤护理",
+   "publishYear": "2019",
+   "definition": "用来判断患者的病情轻重和危急程度的指征。主要有心率、脉搏、血压、呼吸、瞳孔反射和角膜反射等。"
+  },
+  {
+   "cn": "生命统计",
+   "en": "vital statistic",
+   "source": "计划生育名词",
+   "wordNumber": "01.123",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "对出生、死亡、死产、结婚、离婚、同居、分居、计划生育、领养等与人的生命现象有关事件的记载、分析和研究。"
+  },
+  {
+   "cn": "生命体征",
+   "en": "vital sign",
+   "source": "计划生育名词",
+   "wordNumber": "03.137",
+   "subjectFullName": "计划生育_计划生育临床_诊断_女性部分",
+   "subjectName": "女性部分",
+   "publishYear": "2019",
+   "definition": "能观测到的维持人体生存的基本体征。即心率或脉搏、血压、呼吸、体温。检查这四项体征，对于识别患者疾病和疾病的严重程度非常重要。"
+  },
+  {
+   "cn": "生命体征",
+   "en": "vital sign",
+   "source": "核医学名词",
+   "wordNumber": "06.0188",
+   "subjectFullName": "核医学_核医学研究_实验动物学基础",
+   "subjectName": "实验动物学基础",
+   "publishYear": "2018",
+   "definition": "反映生物基本生存状态的一些机体特征。如意识状态、呼吸(次数、深度)、血压、脉搏、体温、瞳孔和角膜反射等。"
+  },
+  {
+   "cn": "生命体征",
+   "en": "vital sign",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "评价生命活动存在与否及其状况的指标。包括体温、脉搏、血压和呼吸等。"
+  },
+  {
+   "cn": "正气",
+   "en": "vital qi",
+   "source": "中医药学名词",
+   "wordNumber": "03.502",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "人体正常功能活动的统称，即人体正常功能及所产生的各种维护健康的能力，包括自我调节能力、适应环境能力、抗邪防病能力和康复自愈能力等。"
+  },
+  {
+   "cn": "目的论",
+   "en": "teleology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "极重要",
+   "en": "vital",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "[生]活力",
+   "en": "vitality\",\"vital force",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生活力，生命力",
+   "en": "vital capacity\",\"vitality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生机论",
+   "en": "vital theory\",\"vitalism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生活力",
+   "en": "vitality",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "活体染料",
+   "en": "vital stain\",\"vital dye",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "活染红",
+   "en": "vital red",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活体染料",
+   "en": "vital dye",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生命最适度",
+   "en": "vital optimum",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生命指数",
+   "en": "vital index",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "活体囊",
+   "en": "vital gacs",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生命统计",
+   "en": "vital statistics",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生命过程",
+   "en": "vital process",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "局部活体染色",
+   "en": "localized vital staining",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "同位素生理效应",
+   "en": "isotopic vital effect",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "奈伏泰斯紧急警告",
+   "en": "NAVTEX vital warnings",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "补气",
+   "en": "invigorating vital energy",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "理气",
+   "en": "regulating vital energy",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "益气",
+   "en": "benefiting vital energy",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "血气",
+   "en": "Vitality / Vital Force",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精气",
+   "en": "Vital Energy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "要害部位",
+   "en": "vital point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "要害部位",
+   "en": "vital point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气",
+   "en": "Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元气",
+   "en": "Yuanqi / Fundamental Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气骨",
+   "en": "Qigu (Emotional Vitality and Forcefulness)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气质之性",
+   "en": "Character Endowed by Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "六气",
+   "en": "Six Forms of Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用政府权力的“减法”，换取市场活力的“乘法”",
+   "en": "cut government powers to boost market vitality",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "天地之气",
+   "en": "The Qi (Vital Force) of Heaven and Earth",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "阴阳之气",
+   "en": "The Qi (Vital Force) of Yin and Yang",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生命安全和生物安全领域的重大科技成果是国之重器。",
+   "en": "Major scientific and technological achievements in the fields of life safety and biosecurity are of vital importance to our country.  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态神学",
+   "en": "ecological theology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病毒性肺炎",
+   "en": "viral pneumonia",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "语言活力",
+   "en": "language vitality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0172",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言社会交际的领域、状态、频率和程度。通过既定的指标和权重加以计量和分级。"
+  },
+  {
+   "cn": "充满活力",
+   "en": "full of vitality",
+   "source": "马克思主义",
+   "wordNumber": "04.0200",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "能够使一切有利于社会进步的创造愿望得到尊重，创造活动得到支持，创造才能得到发挥，创造成果得到肯定。"
+  },
+  {
+   "cn": "增强企业活力",
+   "en": "enhance the vitality of enterprises",
+   "source": "马克思主义",
+   "wordNumber": "02.0408",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "企业作为自主经营、自负盈亏的商品生产者和经营者，遵循客观经济规律要求，使各种生产要素充分发挥作用，使企业自身在市场竞争中呈现出良好的自我发展状态。"
+  },
+  {
+   "cn": "神学",
+   "en": "theology",
+   "source": "马克思主义",
+   "wordNumber": "04.0053",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "意为“关于神的学问”。基督教论证上帝（也称天主）的存在、本质和研究教义、教规的学问。也泛指各宗教的宗教学说或一种宗教教义的系统化阐释。公元前3世纪，希腊的一些哲学家已使用，后为基督教所沿用，故常专指基"
+  },
+  {
+   "cn": "思辨神学",
+   "en": "speculative theology",
+   "source": "马克思主义",
+   "wordNumber": "01.0103",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以超验之物和整个实在为对象，运用各种科学成果、宗教体验、伦理经验来引出对信仰的理解，但又不限制对任何所给出的资源（如圣经、教义等）做历史性的调查。"
+  },
+  {
+   "cn": "生态女性主义信仰",
+   "en": "eco-feminist theology",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.7",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种产生于基督教内部的思想，要求收回《圣经》中有关女人和自然被歧视被虐待的形象，试图跳出父权的和不关心现世的传统基督教的束缚。"
+  },
+  {
+   "cn": "基督教神学伦理学",
+   "en": "christian theology ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.137",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "基督教各教派神学关于宗教道德的学说。"
+  },
+  {
+   "cn": "病毒性关节炎",
+   "en": "viral arthritis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.16.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_感染性关节炎",
+   "subjectName": "感染性关节炎",
+   "publishYear": "2025",
+   "definition": "一种非侵蚀性、非进展性关节炎症。表现为关节肿胀，腱鞘炎等，可引起关节炎的病毒有：乙型肝炎和丙型肝炎，人类免疫缺陷病毒、人类细小病毒B19､肠病毒登革病毒、甲型肝炎、流行性腮腺炎、风疹病毒、巨细胞病毒、"
+  },
+  {
+   "cn": "病毒性腹泻",
+   "en": "viral diarrhea",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热带",
+   "subjectName": "热带",
+   "publishYear": "2025",
+   "definition": "一组由多种病毒引起的，以恶心、呕吐、腹痛、腹泻、水样便为主要表现的急性胃肠道感染性疾病。"
+  },
+  {
+   "cn": "解放神学的马克思主义",
+   "en": "Marxism of liberation theology",
+   "source": "马克思主义",
+   "wordNumber": "05.0097",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代在拉丁美洲产生的一种试图把神学理论同马克思主义“结合”起来的社会思潮，批判资本主义，在马克思主义中寻求救赎。主要代表人物有秘鲁的古铁雷斯（Gutiérrez）、巴西的博夫（Boff）、"
+  },
+  {
+   "cn": "病毒性生物战剂",
+   "en": "viral biological warfare agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1.1.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "在战争中用来伤害人、畜或毁坏农作物的由病毒类致病微生物制成的生物战剂。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

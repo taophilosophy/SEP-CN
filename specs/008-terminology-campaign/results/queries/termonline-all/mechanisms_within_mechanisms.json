@@ -1,0 +1,712 @@
+{
+ "key": "mechanisms-within-mechanisms",
+ "term": "mechanisms-within-mechanisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:24:35+00:00",
+ "status": "ok",
+ "note": "variant=mechanisms-within-mechanisms; 审定公布名词库=5732; 海峡两岸名词对照库=492; 其他来源数据库=276; 预公布名词数据库=185; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "机构",
+   "en": "mechanism",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0004",
+   "subjectFullName": "机械工程（一）_机构与机器人学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "由两个或两个以上构件通过活动联接形成的构件系统。"
+  },
+  {
+   "cn": "机理",
+   "en": "mechanism",
+   "source": "物理学名词",
+   "wordNumber": "09.1257",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力学",
+   "en": "mechanics",
+   "source": "物理学名词",
+   "wordNumber": "02.0001",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力学",
+   "en": "mechanics",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "机械式操纵机构",
+   "en": "mechanical operation mechanism",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.013",
+   "subjectFullName": "机械工程_汽车_底盘_离合器",
+   "subjectName": "离合器",
+   "publishYear": "2013",
+   "definition": "用机械方式传力的操纵机构。"
+  },
+  {
+   "cn": "机械化",
+   "en": "mechanization",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.029",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "运用工业能源驱动各种机械设备高效进行生产活动的产业状态。21世纪后与高新技术结合，呈现柔性化、敏捷化、智能化和信息化等特点。"
+  },
+  {
+   "cn": "槽轮机构",
+   "en": "geneva mechanism,maltese mechanism",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0179",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器与机构构成",
+   "subjectName": "机器与机构构成",
+   "publishYear": "2021",
+   "definition": "由槽轮、装有圆销的曲柄和机架组成的步进运动机构。"
+  },
+  {
+   "cn": "机械变桨机构",
+   "en": "mechanical pitch control mechanism",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "26.0180",
+   "subjectFullName": "机械工程_动力机械_风力机_结构部件",
+   "subjectName": "结构部件",
+   "publishYear": "2013",
+   "definition": "运用机械的办法实现叶片桨距改变的机构(多用于300kW以下的风力机组)。"
+  },
+  {
+   "cn": "机械式气阀传动机构",
+   "en": "mechanically actuated valve mechanism",
+   "source": "航海科技名词",
+   "wordNumber": "15.0095",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "震源机制",
+   "en": "focal mechanism",
+   "source": "地质学名词",
+   "wordNumber": "11.01.010",
+   "subjectFullName": "地质学_地震地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "震源区地震断层在地震发生时的力学过程和性质。通常依据地震波纵波的初动方向的分布状况来推断。"
+  },
+  {
+   "cn": "分馏机理",
+   "en": "fractionation mechanism",
+   "source": "地质学名词",
+   "wordNumber": "13.03.148",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "分子振动频率与原子质量成反比，含有轻同位素的分子比含有重同位素的分子有更高的零点能和更强的活动性，从而使轻、重同位素在物理化学作用过程中发生分馏。"
+  },
+  {
+   "cn": "变形机制",
+   "en": "deformation mechanism",
+   "source": "地质学名词",
+   "wordNumber": "09.01.027",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "泛指在应力作用下岩石变形而形成不同尺度构造的过程，以及力的作用方式和形成条件。"
+  },
+  {
+   "cn": "机理［性］模型",
+   "en": "mechanism model",
+   "source": "农学名词",
+   "wordNumber": "16.169",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "动态描述农业对象变化过程的内部机制或物质流与信息流的传递机理的定量化表达。"
+  },
+  {
+   "cn": "企业机制",
+   "en": "enterprises mechanism",
+   "source": "风景园林名词",
+   "wordNumber": "03.0341",
+   "subjectFullName": "风景园林_风景园林管理_企业管理",
+   "subjectName": "企业管理",
+   "publishYear": "2025",
+   "definition": "企业组织、制度、文化的集合，是各种管理行为有机合成的结果。"
+  },
+  {
+   "cn": "机理模型",
+   "en": "mechanism model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.024",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "由过程机理推导而得到的模型。其特点是模型反映了化学反应或传输现象的机理。通常要借助在被研究的体系内微元体的物质衡算或能量衡算而导出的代数方程、微分方程或积分方程。"
+  },
+  {
+   "cn": "希格斯机制",
+   "en": "Higgs mechanism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.341",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "在粒子物理学标准模型中，用于解释规范玻色子“质量”属性通过自发对称性破缺产生的机制。费米子也通过跟希格斯场作用获得质量。"
+  },
+  {
+   "cn": "社会机制",
+   "en": "social mechanism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.820",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "科学哲学中的机制概念与基于机制的科学说明在社会科学中的直接应用。主张社会中存在着一系列被组织起来的实体和活动，有规律地产生特定的结果，通过确定生成现象的机制就能够说明这一现象。"
+  },
+  {
+   "cn": "转仪装置",
+   "en": "driving mechanism",
+   "source": "天文学名词",
+   "wordNumber": "06.111",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "用以驱动赤道式天文望远镜做跟星运动的机电装置。"
+  },
+  {
+   "cn": "基布尔机制",
+   "en": "Kibble mechanism",
+   "source": "天文学名词",
+   "wordNumber": "07.564",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "极早期宇宙中形成拓扑缺陷的一种机制。"
+  },
+  {
+   "cn": "作用机制",
+   "en": "action mechanism",
+   "source": "兽医学名词",
+   "wordNumber": "17.056",
+   "subjectFullName": "兽医学_兽医药理学",
+   "subjectName": "兽医药理学",
+   "publishYear": "2023",
+   "definition": "药物作用的原理，是药效学的重要理论基础。主要研究药物产生的具体作用、起作用的机体组织部位及如何起作用等问题。"
+  },
+  {
+   "cn": "机制",
+   "en": "mechanism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "力学",
+   "en": "mechanics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "机械气阀传动机构",
+   "en": "mechanically actuated valve mechanism",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "机械通风",
+   "en": "mechanical draft\",\"mechanical ventilation",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反馈机制",
+   "en": "feedback mechanisms",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "发育机制",
+   "en": "developmental mechanism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "捕虫环",
+   "en": "lasso mechanism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反馈机制",
+   "en": "feedback mechanism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隔离机制",
+   "en": "isolating mechanism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "贝吉龙机制",
+   "en": "Bergeron mechanism",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "查普曼机制",
+   "en": "Chapman mechanism",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "触发机制",
+   "en": "trigger mechanism",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "降水机制",
+   "en": "precipitation mechanism",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "絮凝机理",
+   "en": "flocculating mechanism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "伺服机构",
+   "en": "servo mechanism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "燃烧机理",
+   "en": "combustion mechanism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "气动机理",
+   "en": "pneumatic mechanism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反馈机理",
+   "en": "feedback mechanism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可逆机理",
+   "en": "reversible mechanism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "控制器机理",
+   "en": "controller mechanism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共识机制",
+   "en": "consensus mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注意力机制",
+   "en": "attention mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信任机制",
+   "en": "trust mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全机制",
+   "en": "Security Mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "加密机制",
+   "en": "encryption mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "举国机制",
+   "en": "nationwide mechanism",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子力学",
+   "en": "quantum mechanics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消毒机理",
+   "en": "disinfection mechanism",
+   "source": "消毒学",
+   "wordNumber": "1.1.7",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "消毒因子对微生物在细胞和分子层面作用的原理。"
+  },
+  {
+   "cn": "社会机制",
+   "en": "social mechanism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会运行中各部分之间的相互关系及其相互作用的方式。包括社会的层次机制、社会的形式机制、社会的功能机制三种基本类型，以及社会动力机制、社会整合机制、社会控制机制、社会激励机制和社会保障机制等具体类型。"
+  },
+  {
+   "cn": "规范机制",
+   "en": "normative mechanism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.19",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在专业性很强和专业要求很高的组织领域，如大学和医院，不成文的专业规范规范通过专业教育进入从业人员的大脑，进而影响组织的制度结构的过程。保罗·迪马吉奥（Paul J.DiMaggio）和沃尔特•鲍威尔（"
+  },
+  {
+   "cn": "市场机制",
+   "en": "market mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "市场上供求、价格、竞争、风险等各种要素相互作用、相互制约所构成的经济运行的内在机理。是商品经济条件下，社会经济运行和资源配置的基础性调节机制，是商品经济的普遍规律即价值规律的具体表现和作用形式。规律即"
+  },
+  {
+   "cn": "价格机制",
+   "en": "price mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "在市场运行过程中，市场上某种商品或服务的价格变动与该商品或服务供求变动的关系，是市场机制的核心。"
+  },
+  {
+   "cn": "风险机制",
+   "en": "risk mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1.4",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "在利益的诱惑下，风险作为一种外在压力与竞争及供求共同作用于市场主体，共同调节市场运行的一种约束机制。"
+  },
+  {
+   "cn": "预先支付机制",
+   "en": "prepayment mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "在医疗费用发生之前，政府或保险方按一定的标准将医疗费用预先支付给医疗服务提供方的一种卫生资金筹集机制，支付标准在一定时期内是固定的，一段时期后按实际情况的变化再做相应的调整。"
+  },
+  {
+   "cn": "泌乳机理",
+   "en": "lactation mechanism",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.4",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "母亲分娩后体内雌激素及黄体酮迅速下降，催乳素上升，婴儿吸吮乳头和乳晕，通过神经至脑垂体，促进催乳素和催产素分泌，刺激乳腺细胞分泌乳汁，腺泡和乳腺导管周围平滑肌收缩引起射乳的生物学现象。"
+  },
+  {
+   "cn": "机械通风",
+   "en": "mechanical ventilation",
+   "source": "消毒学",
+   "wordNumber": "1.8.17",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "依靠风机提供的风压、风量，有效地将室内外空气交换的通风换气方式。"
+  },
+  {
+   "cn": "机械排风",
+   "en": "mechanical exhaust",
+   "source": "消毒学",
+   "wordNumber": "1.8.17.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "依靠风机提供的风压、风量，将室内空气排出室外的过程。在密闭条件下，室内一般处于相对负压状态。"
+  },
+  {
+   "cn": "机械传播",
+   "en": "mechanical transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.3",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "病原体仅通过节肢动物的携带传递到人的传播方式。"
+  },
+  {
+   "cn": "机械清洗",
+   "en": "mechanical cleaning",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过清洗机清洗的方式对医疗器械和相关物品进行的清洗。"
+  },
+  {
+   "cn": "机械唯物主义",
+   "en": "mechanical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0108",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "唯物主义发展的第二种形态。以孤立的、静止的、片面的观点解释自然界的一切现象和过程及认识论问题的唯物主义哲学。它具有以下局限性：机械性、形而上学性、不彻底性。主要代表人物有霍布斯（Thomas Hobb"
+  },
+  {
+   "cn": "机械决定论",
+   "en": "mechanical determinism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.163",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "在古典力学基础上建立起来的，盛行于17 至18 世纪，认为一切事物具有必然性、因果制约性和客观规律性，否认偶然性和人的主观能动性的哲学理论。"
+  },
+  {
+   "cn": "机械学模式",
+   "en": "mechanical model",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0568",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-斯特劳斯（Claude Levi-Strauss）研究社会结构的四种模式之一，模式的成分与现象的模样相同，称为机械学模式；我们可以将其理解为应该怎么做。"
+  },
+  {
+   "cn": "物理再生",
+   "en": "mechanical recycling",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.25",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "再生过程中，回收塑料的基础聚合物分子不会发生改变的再生技术。"
+  },
+  {
+   "cn": "机械团结",
+   "en": "mechanical solidarity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0522",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念之一，与有机团结相对，指建立在社会成员同质性基础上的社会结合方式，主要体现在不发达社会或初民社会中。机械团结社会的特点是：①个体间同质性较强"
+  },
+  {
+   "cn": "压抑性心理机制",
+   "en": "repressed psychological mechanisms",
+   "source": "马克思主义",
+   "wordNumber": "05.0051",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞在《爱欲与文明》中指出，伴随着科学技术与消费社会为特征的现代社会的发展，人的异化主要不是外在力量的统治与压抑，而是更多地表现为人的“自我异化”，即压抑性的心理机制。"
+  },
+  {
+   "cn": "技工手",
+   "en": "mechanic’s hand",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.1.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "手指远端两侧或掌面的皮肤皲裂、角化的体征，与抗合成酶综合征有关，可以见于多发性肌炎和皮肌炎。"
+  },
+  {
+   "cn": "健康治理机制",
+   "en": "health governance mechanism",
+   "source": "社会医学名词",
+   "wordNumber": "6.2.3",
+   "subjectFullName": "健康治理",
+   "subjectName": "健康治理体系",
+   "publishYear": "2025",
+   "definition": "健康治理体系内多元治理主体，通过一系列制度化的规则、流程与责权划分所确立的彼此角色关系定位、互动流程、协作模式及运作方式总和。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

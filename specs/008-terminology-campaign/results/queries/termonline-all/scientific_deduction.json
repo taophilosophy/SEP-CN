@@ -1,0 +1,772 @@
+{
+ "key": "scientific deduction",
+ "term": "scientific deduction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:27:39+00:00",
+ "status": "ok",
+ "note": "variant=scientific deduction; 审定公布名词库=2171; 海峡两岸名词对照库=347; 其他来源数据库=130; 预公布名词数据库=239; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "扣除",
+   "en": "deduction",
+   "source": "核医学名词",
+   "wordNumber": "03.0602",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "按设定原则和标准去除待处理数据中部分与分析目标无关数据的图像运算方法。如图像本底扣除。"
+  },
+  {
+   "cn": "免赔额",
+   "en": "deductible",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0433",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "保险合同有的规定损失在一定限度内不予理赔，免赔额是保险人不负赔偿责任的最高损失额度。"
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "source": "航海科技名词",
+   "wordNumber": "13.0192",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0051",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "将问题的所有子问题分层罗列，从最高层开始，并逐步向下扩展的一种逻辑分析方法。"
+  },
+  {
+   "cn": "推力减额",
+   "en": "thrust deduction",
+   "source": "船舶工程名词",
+   "wordNumber": "03.113",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "在一定航速下，船后螺旋桨发出的推力(T)与船被拖曳时的总阻力(RT)之差额。一般以ΔT表示：ΔT=T－RT"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.150",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "一种由一般到个别的论证方法。由一般原理出发推导出关于个别情况的结论，其前提和结论之间有必然联系。"
+  },
+  {
+   "cn": "论证诊断［法］",
+   "en": "deductive diagnosis",
+   "source": "兽医学名词",
+   "wordNumber": "13.329",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "在检查患病动物所搜集的症状中分出主要症状和次要症状，所设想的疾病能够解释主要症状且又和多数次要症状不相矛盾时建立的诊断。"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0102",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "从前提出发，运用逻辑规则推出结论的一种推理方法。"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "心理学名词",
+   "wordNumber": "02.644",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从一般原则得出关于具体事例的结论。其主要形式为三段论。"
+  },
+  {
+   "cn": "科学归纳",
+   "en": "scientific induction",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.142",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "在科学研究中，对科学观察或科学实验的结果进行抽象和概括，得出事物之间关系的推理方法。"
+  },
+  {
+   "cn": "坐支",
+   "en": "payment by deduction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.059",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "企业脱离银行监督，直接支用业务收入（如门市销售收入）的现金的行为。按照国家现金管理的有关规定，企业一般不得坐支，如有特殊情况，须报经开户银行同意后，在规定的用途和金额范围内坐支，并应在“现金日记账”上"
+  },
+  {
+   "cn": "根岑式演绎",
+   "en": "Gentzen-style deduction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0052",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "根岑（Gentzen）于1934年提出的证明论中一族用于形式证明的系统，区别于希尔伯特演绎系统，它们对每个联接或量词都有简单明了的推理规则。"
+  },
+  {
+   "cn": "线性归结演绎",
+   "en": "linear resolution deduction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0084",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一种归结策略。初始子句为原始子句集中子句，其余每步归结中的一个子句是刚生成的归结式，另一个子句或者是原始子句集中的子句，或者是之前生成的归结式。"
+  },
+  {
+   "cn": "地图演绎法",
+   "en": "cartographic deduction method",
+   "source": "地理学名词",
+   "wordNumber": "27.155",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "通过由综合性地图、演绎派生单要素地图形成对制图对象各组成部分质量与数量特征及其分布规律的认识。"
+  },
+  {
+   "cn": "推力减额分数",
+   "en": "thrust deduction fraction",
+   "source": "船舶工程名词",
+   "wordNumber": "03.114",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "推力减额(ΔT)与螺旋桨推力(T)的比值。一般以t表示：t=ΔT/T"
+  },
+  {
+   "cn": "推力减额因数",
+   "en": "thrust deduction factor",
+   "source": "船舶工程名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "船的总阻力(RT)与螺旋桨推力(T)的比值。一般以1-t表示:1－t=RT/T"
+  },
+  {
+   "cn": "假说-演绎法",
+   "en": "hypothetical-deductive method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.151",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "提出可以解释问题的假说，以假说为前提进行演绎推理得出结论，再通过实验检验这一结论，并在此基础上决定接受或拒绝假说。"
+  },
+  {
+   "cn": "演绎建模法",
+   "en": "deductive modeling method",
+   "source": "自动化名词",
+   "wordNumber": "04.575",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "可抵扣暂时性差异",
+   "en": "deductible temporary difference",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0158",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "在确定未来收回资产或清偿负债期间的应纳税所得额时，将导致产生可抵扣金额的暂时性差异。"
+  },
+  {
+   "cn": "科学规划",
+   "en": "scientific planning",
+   "source": "风景园林名词",
+   "wordNumber": "04.0352",
+   "subjectFullName": "风景园林_风景名胜_风景名胜区管理",
+   "subjectName": "风景名胜区管理",
+   "publishYear": "2025",
+   "definition": "以科学的思维方式，科学的分析手段与方法，按照科学的规划程序进行的符合客观实际的规划活动。"
+  },
+  {
+   "cn": "演绎",
+   "en": "deduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "本原演绎",
+   "en": "primitive deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锁演绎",
+   "en": "lock deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性演绎",
+   "en": "linear deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎规则",
+   "en": "deduction rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动演绎",
+   "en": "automatic deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "假设─演绎",
+   "en": "hypothetico-deductive",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "演绎模拟",
+   "en": "deductive simulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数据",
+   "en": "deductive data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数据库",
+   "en": "deductive database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数学",
+   "en": "deductive mathematics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地图演绎法",
+   "en": "cartographic deduction method",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "推力减额因数",
+   "en": "thrust deduction factor",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "假说-演绎推理",
+   "en": "hypothetico deductive reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演绎综合方法",
+   "en": "deductive synthesis method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前科学",
+   "en": "pre-scientific",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总扣分",
+   "en": "general deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分判罚",
+   "en": "deduction penalty\",\"deduction point\",\"gamjeom\",\"sanction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "科学可视化",
+   "en": "scientific visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据",
+   "en": "scientific data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学发现",
+   "en": "scientific discovery",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学共同体",
+   "en": "scientific community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学计算",
+   "en": "scientific computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据库",
+   "en": "scientific databases",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduce\",\"penalize\",\"deduction\",\"penalty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "科学大数据",
+   "en": "Scientific Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科研众筹",
+   "en": "scientific research crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国科学数据》",
+   "en": "China Scientific Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据行动",
+   "en": "Scientific Data Movement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "起付线",
+   "en": "deductible",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "被保险人在发生医疗费用后，先自付一定额度的医疗费用，其余费用全部或部分由医疗保险机构支付的保险设计"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从一般的概念或给定的规则中得出更具体的结论的推理程序。"
+  },
+  {
+   "cn": "学会",
+   "en": "scientific society",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "从事某一学科的人组成的、便于进行学术交流，开展学术活动和进行友好交往的群众性学术研究团体。"
+  },
+  {
+   "cn": "科学争论",
+   "en": "scientific debate",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.13",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "因概念、方法、解释和应用等方面出现分歧而发生的论争，是科学知识集体生产的一个重要组成部分，也是科学发展最重要的创造性因素之一。"
+  },
+  {
+   "cn": "科学激励",
+   "en": "scientific inspiration",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.16",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "促成科学的兴起与发展的重要因素之一，分为外在因素和内在因素：前者包括社会经济、军事等实用的需要以及宗教、文化等价值因素；后者指科学的内在激励方式，比如对科学发现优先权的竞争。"
+  },
+  {
+   "cn": "科学范式",
+   "en": "scientific paradigm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "某一段时期内公认的科学模型或模式，并在此期间为实践共同体提供了典型问题和解答。通常表现为处于该模型或模式下的研究者都承诺同样的规则和标准来从事科学实践。"
+  },
+  {
+   "cn": "科学生产率",
+   "en": "scientific productivity",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "描述科学家的科学成果的产出率的指标。"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "科学共同体做出的一系列新的承诺或共识，并建立一个科学实践的新基础，即科学共同体专业承诺发生了转移，打破了传统的活动，实现从一个范式到另一个范式的转变过程。"
+  },
+  {
+   "cn": "科学必然性",
+   "en": "scientific inevitability",
+   "source": "马克思主义",
+   "wordNumber": "01.0054",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与哲学必然性相区别。是科学研究的对象。是指事物内部、现象背后的不依赖于人的意识而存在的事物联系与发展过程的本质，是自然、社会和人类思维所固有的客观规律性。科学的任务就是要透过复杂的偶然现象来揭露事物发"
+  },
+  {
+   "cn": "科学社会主义",
+   "en": "scientific socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0003",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由马克思、恩格斯为无产阶级和全人类解放而创立和不断发展的科学，是由资本主义社会转向社会主义社会和社会主义、共产主义社会发展规律的科学。科学社会主义有广义和狭义两种理解∶广义上，科学社会主义即共产主义学"
+  },
+  {
+   "cn": "科学执政",
+   "en": "scientific governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0678",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "结合中国实际不断探索和遵循共产党执政规律、社会主义建设规律、人类社会发展规律，以科学的理论、科学的思想、科学的制度、科学的方式组织和带领人民共同建设中国特色社会主义。"
+  },
+  {
+   "cn": "科学辩证法",
+   "en": "scientific dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0076",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代德拉·沃尔佩（Galvano DellaVolpe）提出“新实证主义的马克思主义”，认为马克思的辩证法，其本质是“科学的辩证法”，是对客观事物本质和规律的揭示，是一种实证的逻辑，而非抽"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "大多数科学家们放弃旧范式而接受新方案时，实现范式转换的过程。在这一过程中，往往社会性因素起主要作用，而非遵守普遍适用的合理性规则。"
+  },
+  {
+   "cn": "科学研究纲领",
+   "en": "scientific research program",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "典型的描述重大科学成就的单位，由硬核、与之相关的由辅助假说构成的“保护带”和启发法构成。"
+  },
+  {
+   "cn": "非洲科学社会主义",
+   "en": "African scientific socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0259",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "非洲社会主义的一个重要流派，宣称奉行马克思主义的科学社会主义，是一种自称的“科学社会主义”。该模式认为马克思主义普遍适用于非洲地区，提出以社会主义、共产主义为最终目标，并在执政时期实行了一系列激进措施"
+  },
+  {
+   "cn": "科学知识社会学",
+   "en": "sociology of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "一种以科学知识本身作为学术考察对象而形成的包括科学哲学、科学史、科学社会学和科学文化的批判性研究领域，认为科学知识的构成完全是社会性的，主张将科学知识纳入到社会学分析之中，探讨社会因素对科学知识形成的"
+  },
+  {
+   "cn": "科学知识的体系化",
+   "en": "systematic of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "把科学知识加以整理，转变为简洁的和相互关联的系统的理论阐述。"
+  },
+  {
+   "cn": "科学知识的积累",
+   "en": "accumulation of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "在科学领域中，经验—实证性知识和理论知识逐步累积和增长的过程。科学社会学认为，科学知识是经过社会与文化环境诸因素的影响，选择性积累的结果。"
+  },
+  {
+   "cn": "科学发现的优先权",
+   "en": "priorities in scientific discovery",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.14",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家在科学研究中对某一重大科学发现或发明所起到的首要作用，往往表现为某（些）科学家率先发现或发明了某项科学知识或技术，开创了某种新的研究领域等。"
+  },
+  {
+   "cn": "科学贡献的知名度",
+   "en": "visibility of scientific contributions",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.20",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家的科学成果受到同行关注和社会承认的程度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,812 @@
+{
+ "key": "framework dependence",
+ "term": "framework dependence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:38:12+00:00",
+ "status": "ok",
+ "note": "variant=framework dependence; 审定公布名词库=437; 海峡两岸名词对照库=207; 其他来源数据库=78; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "框架",
+   "en": "framework",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0555",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种可复用软件。其中提供了可复用的软件体系结构实现，以及若干可复用的构件或模块，同时提供了一系列扩展点，可由开发者扩展和定制以产生具体的系统。"
+  },
+  {
+   "cn": "框架",
+   "en": "framework",
+   "source": "自动化名词",
+   "wordNumber": "05.051",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "依赖",
+   "en": "dependence",
+   "source": "精神医学名词",
+   "wordNumber": "03.077",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "强烈、迫切地要求服用某种物质以获得支持或行使功能或生存的一种状态。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0325",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "两个软件元素之间的一种关系。对其中一个元素（独立元素）的更改，将影响另一元素（依赖元素）。"
+  },
+  {
+   "cn": "依存",
+   "en": "dependency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0481",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "句子或短语中，从属词和中心词之间所具有的二元关系。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependency",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0237",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "有两个类X与Y，如果修改X的定义可能会导致对Y的定义的修改，或者Y的存在依赖于X的存在，则认为Y依赖于X。"
+  },
+  {
+   "cn": "相依[的]",
+   "en": "dependent",
+   "source": "数学名词",
+   "wordNumber": "09.0042",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0575",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "用于表述可用性及其影响因素(可靠性、维修性和保障性)的非定量术语。"
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.003",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "电子学名词",
+   "wordNumber": "18.058",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地层格架",
+   "en": "stratigraphic framework",
+   "source": "地质学名词",
+   "wordNumber": "07.02.007",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "地层序列中各类地层或岩石单位的区域性时空有序排列型式。"
+  },
+  {
+   "cn": "岩石地层格架",
+   "en": "lithostratigraphic framework",
+   "source": "地质学名词",
+   "wordNumber": "07.02.008",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "地层或岩石单位的空间排列型式。"
+  },
+  {
+   "cn": "年代地层格架",
+   "en": "chronostratigraphic framework",
+   "source": "地质学名词",
+   "wordNumber": "07.02.009",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "地层或岩石单位的时空排列型式。"
+  },
+  {
+   "cn": "耳支架",
+   "en": "auricular framework",
+   "source": "整形外科名词",
+   "wordNumber": "16.046",
+   "subjectFullName": "整形外科_外耳整形与再造_耳畸形手术治疗",
+   "subjectName": "耳畸形手术治疗",
+   "publishYear": "2026",
+   "definition": "耳廓再造术中能体现耳廓轮廓、结构的支撑物。主要支架材料为自体肋软骨，也可使用人工材料。"
+  },
+  {
+   "cn": "构造格架",
+   "en": "structural framework",
+   "source": "地质学名词",
+   "wordNumber": "09.01.069",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "控制一个地区各种地质体空间布局的构造骨架。在发生多期构造变形的地区，构成其基本构造格架的一般是主期构造。"
+  },
+  {
+   "cn": "技术框架",
+   "en": "technical framework",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.115",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "M. 海德格尔（M. Heidegger）把技术的本质理解为“框架”或“座架”（gestell）。新时代技术不是单纯的手段和人的行为，而是自然、世界和人的建构。简而言之，技术的本质即框架。海德格尔所谓"
+  },
+  {
+   "cn": "情报框架",
+   "en": "intelligence framework",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "用于指导情报工作的战略思想、规划方案等的框架。有时可细化为情报搜集与分析方案。它服从于相应组织的战略性的和战术性的需求、问题或现实挑战，服务于该组织的情报系统。"
+  },
+  {
+   "cn": "元数据框架",
+   "en": "metadata framework",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.899",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_元数据",
+   "subjectName": "元数据",
+   "publishYear": "2019",
+   "definition": "设计制定某类特定资源的元数据标准时需遵循的规则和方法。它是抽象化的元数据，从更高层次上规定了元数据的功能、数据结构、格式设计、方法语义、语法规则等多方面的内容。"
+  },
+  {
+   "cn": "骨架铝",
+   "en": "framework aluminum",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.165",
+   "subjectFullName": "化工（二）_反应与三剂_三剂",
+   "subjectName": "三剂",
+   "publishYear": "2019",
+   "definition": "以铝氧四面体结构形式存在于分子筛骨架结构中的铝原子。"
+  },
+  {
+   "cn": "框架模型",
+   "en": "framework model",
+   "source": "生物物理学名词",
+   "wordNumber": "02.082",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质折叠",
+   "subjectName": "蛋白质折叠",
+   "publishYear": "2018",
+   "definition": "蛋白质折叠机制的一种理论模型。认为蛋白质折叠初期先快速形成各二级结构单元，随后二级结构单元相互拼接形成三级结构直至最终形成天然态结构。"
+  },
+  {
+   "cn": "框架",
+   "en": "framework",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "框架",
+   "en": "framework",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "框架",
+   "en": "framework",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "依赖性",
+   "en": "dependence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "依赖",
+   "en": "dependency",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "依存[关系]",
+   "en": "dependency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "框架区，骨架区",
+   "en": "framework region",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "框架数据",
+   "en": "framework data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体系框架",
+   "en": "architectural framework",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "依存关系树",
+   "en": "dependency tree\",\"dependent tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "架状硅酸盐结构",
+   "en": "framework silicate structure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "金属有机骨架",
+   "en": "metal-organic framework",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "密度制约",
+   "en": "density dependence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计关联",
+   "en": "statistical dependence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间关连",
+   "en": "time dependence",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "酒精依赖",
+   "en": "alcohol dependence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "场依存性",
+   "en": "field dependence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "物质依赖",
+   "en": "substance dependence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "工具性依赖",
+   "en": "instrumental dependence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "支架",
+   "en": "frame\",\"framework",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Scrapy框架",
+   "en": "Scrapy framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "处理框架",
+   "en": "Processing Framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Hadoop框架",
+   "en": "Hadoop framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "MapReduce框架",
+   "en": "MapReduce framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Hama框架",
+   "en": "Hama framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Samza框架",
+   "en": "Samza framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Percolator框架",
+   "en": "Percolator framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Kineograph框架",
+   "en": "Kineograph framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Galaxy框架",
+   "en": "Galaxy framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Spark框架",
+   "en": "Spark framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Flink框架",
+   "en": "Flink framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础设施框架",
+   "en": "infrastructure framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全框架",
+   "en": "Security Framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Tez计算框架",
+   "en": "Tez computing framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Pregel计算框架",
+   "en": "Pregel computing framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Giraph计算框架",
+   "en": "Giraph computing framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "PowerGraph计算框架",
+   "en": "PowerGraph computing framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Storm计算框架",
+   "en": "Storm computing framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Storm Trident方式框架",
+   "en": "Storm Trident framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "依赖",
+   "en": "dependence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "经常使用非法药物或某些处方药时可能出现的一种强烈、迫切地要求服用某种物质以获得支持或行使功能或生存的一种状态。"
+  },
+  {
+   "cn": "组织架构",
+   "en": "organizational framework",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.7",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部根据一定的目标，对职务或岗位进行划分而形成的管理部门间的设置及其运作方式。"
+  },
+  {
+   "cn": "评价框架",
+   "en": "evaluation framework",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.4.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "依据某评价理论或模型，按照时间顺序分阶段、分步骤呈现的评价者完成评价工作需遵循的标准化流程和评价要点。"
+  },
+  {
+   "cn": "价值评估框架",
+   "en": "value assessment framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.4.5",
+   "subjectFullName": "卫生经济学名词_药物经济学_药物经济学评价",
+   "subjectName": "药物经济学评价",
+   "publishYear": "2025",
+   "definition": "根据卫生技术的特性构建的评价体系，旨在评估卫生技术对卫生系统和患者带来的多维度价值。"
+  },
+  {
+   "cn": "风险分析框架",
+   "en": "risk analysis framework",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "由风险评估、风险管理和风险交流三个相互关联的内容组成，指引生物性、物理性和化学性因素风险管理的一个科学框架。"
+  },
+  {
+   "cn": "依附性发展",
+   "en": "dependence development",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "新依附理论提出的发展中国家发展的方案。认为依附与发展并不是一个相互矛盾的现象，依附性的发展是可能的，发展中国家可以通过与中心经济的新型联系而受益。"
+  },
+  {
+   "cn": "路径依赖",
+   "en": "path-dependence",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.35",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "诺斯(Douglas North）用于解释人类经济制度的变迁的概念，意指社会一旦选择了某种制度或某个制度系统，由于制度设置的初始成本固定、社会的学习效应、社会的协调效应、适应性效应以及随之产生的收益递"
+  },
+  {
+   "cn": "酒精依赖",
+   "en": "alcohol dependence",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2.4",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "对酒精产生生理和心理上的依赖，无法停止饮酒或控制饮酒量的现象。"
+  },
+  {
+   "cn": "尼古丁依赖",
+   "en": "nicotine dependence",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2.3",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "无法克制的烟碱（尼古丁）觅求冲动，强迫地、连续地使用烟碱，以体验其带来的欣快感和愉悦感，并避免可能产生戒断症状的行为。"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪60年代后期的一种发展理论，以弗兰克（Andre Frank）、多斯桑托斯（Theotonio Dos Santos）、阿明（Samir Amin）等人为代表，认为发达国家和发展中国家之"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "马克思主义",
+   "wordNumber": "05.0094",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代中期以后出现于拉丁美洲的一种社会理论，运用马克思主义观点寻找发展中国家经济落后的根源，其心观点是外围国家（即发展中国家）的资源和财富经过不平等交换等机制流向中心国家（发达国家），并导致"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0125",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "20 世纪60 年代晚期提出的一套国际关系与发展经济学理论，它将世界划分为先进的中心国家与较落后的边陲国家，后者在世界体系中的地位使之受到中心国的盘剥，故得不到发展，或产生腐败等弊病。"
+  },
+  {
+   "cn": "因变量",
+   "en": "dependent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "任意一个被认为受到其他变量（自变量）的因果影响的变量。"
+  },
+  {
+   "cn": "卫生费用核算核心维度",
+   "en": "core health accounting framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.3",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "卫生费用核算时所采用的最关键分析方向或角度。包括服务功能、服务提供机构和筹资方案三个维度。"
+  },
+  {
+   "cn": "卫生费用核算扩展维度",
+   "en": "extended health accounting framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.4",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "卫生费用核算时基于卫生费用核算核心维度的向外伸展。包括筹资环节、生产环节和消费环节三个维度。"
+  },
+  {
+   "cn": "药品供应保障制度",
+   "en": "Pharmaceutical Supply Assurance Framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.6",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "根据国家法律法规，制定生产、流通、招采、使用和评审等各环节的制度，旨在保障药品安全有效、价格合理、供应充分。"
+  },
+  {
+   "cn": "文化适应性规划模型",
+   "en": "PEN-3 model cultural framework",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "由三个相互关联和相互依赖的维度组成、每个维度都有个体（P）、整个家庭（E）、邻居（N）的首字母缩略词的一种追求文化适宜性的规划模型。"
+  },
+  {
+   "cn": "资源依附理论",
+   "en": "resource dependence theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.20",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "强调组织与环境之间的资源关系的理论。认为一个组织最重要的存活目标是要想办法减低对外部关键资源供应组织的依赖程度，并寻求可以稳定影响这些供应组织的关键资源的方法。"
+  },
+  {
+   "cn": "胸腺依赖区",
+   "en": "thymus dependent area",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.2.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫器官",
+   "subjectName": "免疫器官",
+   "publishYear": "2025",
+   "definition": "淋巴组织和淋巴器官中的T细胞聚集区。其发育受胸腺的影响。"
+  },
+  {
+   "cn": "卫生费用核算框架",
+   "en": "framework of health expenditure accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.5",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "按照卫生资金的流动过程，综合利用基本统计法和平衡推算法对资金来源、分配、使用分别进行核算，其核算结果可通过矩阵平衡法进行综合分析。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

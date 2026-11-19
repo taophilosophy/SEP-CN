@@ -1,0 +1,42 @@
+{
+ "key": "kavyalankara",
+ "term": "Kāvyālaṅkāra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:14:34+00:00",
+ "status": "ok",
+ "note": "variant=Kāvyālaṅkāra; 审定公布名词库=0; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "抗La抗体(=抗SSB抗体)",
+   "en": "[]",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗SSB抗体，抗La抗体",
+   "en": "anti-SSB antibody， anti-Sjogren syndrome B antibody",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗SSB/La抗体",
+   "en": "anti-SSB antibody, anti-SSB",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.12",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "抗核抗体的一种，其靶抗原SSB/La蛋白是一种核糖核蛋白。抗SSB抗体是诊断干燥综合征的血清学标志物，并与腺体外受累密切相关；母源性的抗SSB/La抗体与新生儿狼疮、永久性窦性心动过缓、先天性心脏传导"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

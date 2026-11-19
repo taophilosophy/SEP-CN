@@ -1,0 +1,752 @@
+{
+ "key": "transaction cost",
+ "term": "transaction cost",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:00:06+00:00",
+ "status": "ok",
+ "note": "variant=transaction cost; 审定公布名词库=3244; 海峡两岸名词对照库=986; 其他来源数据库=134; 预公布名词数据库=141; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "交易成本",
+   "en": "transaction cost",
+   "source": "经济学名词",
+   "wordNumber": "05.074",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "在一定的社会关系中，人们自愿交往、彼此合作达成交易所支付的成本。从本质上说，有人类交往互换活动，就会有交易成本，它是人类社会生活中一个不可分割的组成部分。"
+  },
+  {
+   "cn": "交易费用",
+   "en": "transaction cost",
+   "source": "经济学名词",
+   "wordNumber": "06.138",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "人们在形成一项制度安排时所花费的收集信息的费用、谈判的费用、签约的费用以及制度达成后在执行过程中带来的执行费用和监督费用。"
+  },
+  {
+   "cn": "交易成本",
+   "en": "transaction cost",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1055",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "伴随交易发生的成本，取决于交易的性质和组织的形式。"
+  },
+  {
+   "cn": "交易成本经济学",
+   "en": "transaction cost economics",
+   "source": "经济学名词",
+   "wordNumber": "05.075",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "融法学、经济学和组织学为一体的、新颖的边缘学科。以威廉姆森为代表的交易成本经济学是新制度经济学当中唯一在实证检验方面成功的领域。他们认为，市场运行及资源配置有效与否，关键取决于两个因素：一是交易的自由"
+  },
+  {
+   "cn": "交易成本理论",
+   "en": "transaction cost theory",
+   "source": "地理学名词",
+   "wordNumber": "18.125",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "用来分析企业空间组织和对外直接投资的理论。交易成本指产品或服务从一个单位转移到另一个单位过程中产生的所有成本和代价。一般认为，市场不完善会导致交易成本升高，而这会使大公司倾向于采取垂直一体化的组织方式"
+  },
+  {
+   "cn": "事务[元]",
+   "en": "transaction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.194",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "访问并可能更新数据库中各种数据项的一个程序执行单元。主要是描述数据属性的信息，用来支持如指示存储位置和历史数据、资源查找、文件记录等功能。"
+  },
+  {
+   "cn": "事务",
+   "en": "transaction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0247",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "为完成一项特定任务而可单独执行的一个数据库操作序列。"
+  },
+  {
+   "cn": "交易",
+   "en": "transaction",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0040",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "参与市场活动者资产所有权在一定条件下的经济转移行为。"
+  },
+  {
+   "cn": "事务",
+   "en": "transaction",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0180",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "访问并可能更新数据库中各种数据项的一个程序执行单元。"
+  },
+  {
+   "cn": "事务处理",
+   "en": "transaction",
+   "source": "电子学名词",
+   "wordNumber": "21.058",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "成本",
+   "en": "cost",
+   "source": "农学名词",
+   "wordNumber": "19.077",
+   "subjectFullName": "农业经济与管理_农业产业经济",
+   "subjectName": "农业产业经济",
+   "publishYear": "2025",
+   "definition": "为达到某种目的而为此付出的代价。"
+  },
+  {
+   "cn": "成本",
+   "en": "cost",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0261",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "为了获得能给企业带来当前或未来利益所需商品或劳务而牺牲的现金或现金等价物的金额。"
+  },
+  {
+   "cn": "成本",
+   "en": "cost",
+   "source": "药学名词",
+   "wordNumber": "10.006",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "为达到一种目的而放弃另一种目的所牺牲的经济价值。"
+  },
+  {
+   "cn": "分布式事务",
+   "en": "distributed transaction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.210",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "事务的参与者、支持事务的服务器、资源服务器以及事务管理器分别位于不同分布式系统的不同节点之上。"
+  },
+  {
+   "cn": "数字版权交易",
+   "en": "copyright transaction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.225",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "数字权利所有者或其合法代理人，按照一定交易条件，将其数字产品中的全部或部分经济权利，通过版权许可或版权转让的方式赋予版权受让者，并获取相应经济收入的交易行为。"
+  },
+  {
+   "cn": "交易性需求",
+   "en": "transaction demand",
+   "source": "经济学名词",
+   "wordNumber": "04.152",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "由于收入与支出在时间上并不同步，个人和企业为了应付经常性支出的需求。需要在收入与支出之间保持一定数量的货币，这种对货币的需求叫作货币的交易性需求，它数量的大小受到收入和利率的影响。"
+  },
+  {
+   "cn": "全局事务",
+   "en": "global transaction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0308",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "控制和协调各计算机结点上的子事务的执行，从而完成该事务处理任务的事务。一个分布式事务在执行时将被分解为若干在各计算机节点上的数据库系统中执行的操作序列（子事务）。"
+  },
+  {
+   "cn": "分拆事务",
+   "en": "split transaction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0314",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "包括分拆和连接两个事务管理原语的一种事务模型，分拆原语将指定事务分拆成两个可串行化的事务。"
+  },
+  {
+   "cn": "事务处理吞吐量",
+   "en": "transaction throughput",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0401",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "单位时间里系统处理的事务总量。"
+  },
+  {
+   "cn": "分布式事务",
+   "en": "distributed transaction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0307",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "在分布式数据库系统中运行的事务。事务的参与者、支持事务的服务器、资源服务器以及事务管理器分别位于分布式系统的不同节点之上。"
+  },
+  {
+   "cn": "交易费用",
+   "en": "transaction cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "交易成本理论",
+   "en": "transaction cost theory",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "事务处理",
+   "en": "transaction",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "事务[元]",
+   "en": "transaction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成本",
+   "en": "cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不付条件交易",
+   "en": "outright transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "场外交易",
+   "en": "kerb transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "筹融资业务",
+   "en": "financing transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大批交易",
+   "en": "extensive transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单一交易",
+   "en": "simple transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "担保交易",
+   "en": "secured transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "掉期交易",
+   "en": "swap transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "多头交易",
+   "en": "bull transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[股票的]普通交易",
+   "en": "regular transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际交易",
+   "en": "international transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国家交易",
+   "en": "state transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "交易差额",
+   "en": "transaction balance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "交易风险",
+   "en": "transaction risk",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "交易货币",
+   "en": "transaction currency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "交易价格",
+   "en": "transaction price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "局部事务",
+   "en": "local transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全局事务",
+   "en": "global transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "事务管理器",
+   "en": "transaction manager",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "事务协调器",
+   "en": "transaction coordinator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云交易",
+   "en": "cloud transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非人格化交易",
+   "en": "impersonal transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非法交易",
+   "en": "illegal transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成交信息",
+   "en": "transaction information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子交易单据",
+   "en": "electronic transaction document",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨运营商交易",
+   "en": "cross-operator transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络商品交易",
+   "en": "online commodity transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大宗商品仓单交易",
+   "en": "commodity warehouse receipt transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交易数据资产安全",
+   "en": "transaction data asset security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第三方交易平台",
+   "en": "third-party transaction platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交易成本",
+   "en": "transaction cost",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.23",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "完成一笔交易时，交易双方在买卖前后所产生的各种与此交易相关的成本。通常包括协调成本和激励成本两大类。由科斯(R.H.Coase）于1937年提出。"
+  },
+  {
+   "cn": "成本",
+   "en": "cost",
+   "source": "马克思主义",
+   "wordNumber": "02.0217",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品经营生产中消耗的生产资料价值和相当于工资的价值部分之和。是产品价值的一部分。预付成本需从其经营收入中取得补偿，以保证再生产的正常进行。"
+  },
+  {
+   "cn": "成本价格",
+   "en": "cost price",
+   "source": "马克思主义",
+   "wordNumber": "02.0218",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品价值中，用以补偿消耗的生产资料价值和劳动力价值的部分。它由资本家企业生产商品所耗费的不变资本的价值和可变资本的价值构成。成本价格是历史范畴。在资本主义商品经济中，成本价格是商品销售价格的最低界限，"
+  },
+  {
+   "cn": "固定成本",
+   "en": "fixed cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "成本总额在一定时期和一定业务范围内，服务量增减变动时保持一定的成本。"
+  },
+  {
+   "cn": "可变成本",
+   "en": "variable cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "成本总额与服务量的总数成正比例增减变动的成本。"
+  },
+  {
+   "cn": "混合成本",
+   "en": "mixed cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "同时具有固定成本和变动成本的特点，包含部分固定成本和部分变动成本的成本。"
+  },
+  {
+   "cn": "直接成本",
+   "en": "direct cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目而能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "间接成本",
+   "en": "indirect cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目，但不能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "无形成本",
+   "en": "intangible cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.6",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "难以用市场价格直接表现的成本。"
+  },
+  {
+   "cn": "平均成本",
+   "en": "average cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "一定范围和一定时期内成本耗费的平均水平。"
+  },
+  {
+   "cn": "边际成本",
+   "en": "marginal cost ",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "每一单位新增生产的产品（或者购买的产品）带来的总成本的增量。"
+  },
+  {
+   "cn": "显性成本",
+   "en": "explicit cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "通过成本会计计算得来的成本。"
+  },
+  {
+   "cn": "隐性成本",
+   "en": "implicit cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "易忽略的及难以测量的成本，包括作为成本项目的机器设备和厂房等固定资本折旧费、企业主自己投入的资本的利息、企业家才能应得的报酬等。"
+  },
+  {
+   "cn": "增量成本",
+   "en": "incremental cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "因某一项决策的实施所带来的成本的变化量。"
+  },
+  {
+   "cn": "可缩减成本",
+   "en": "avoidable cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "在正常经营运行情况下可降低的成本。"
+  },
+  {
+   "cn": "沉没成本",
+   "en": "sunk cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "前期已经发生，与后期是否投入无关的成本。"
+  },
+  {
+   "cn": "机会成本",
+   "en": "opportunity cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.6",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "将一项资源用于某一项目或方案时，其余项目或方案失去再使用这些资源的可能性，这些可能性的潜在收益。"
+  },
+  {
+   "cn": "成本函数",
+   "en": "cost function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "用来表明生产给定产量与最低成本之间关系的函数"
+  },
+  {
+   "cn": "筹资成本",
+   "en": "financing cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.6.2.7",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资系统评价",
+   "subjectName": "卫生筹资系统评价",
+   "publishYear": "2025",
+   "definition": "为获得卫生服务进行资金筹集时所付出的代价，即消耗的人力、物力、财力。"
+  },
+  {
+   "cn": "成本分析",
+   "en": "cost analysis",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "对两个或两个以上疾病治疗方案的成本进行比较，以及对各种治疗方案成本构成进行分析的方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

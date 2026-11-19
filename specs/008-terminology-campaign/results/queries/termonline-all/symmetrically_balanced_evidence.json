@@ -1,0 +1,762 @@
+{
+ "key": "symmetrically balanced evidence",
+ "term": "symmetrically balanced evidence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:28:51+00:00",
+ "status": "ok",
+ "note": "variant=symmetrically balanced evidence; 审定公布名词库=1120; 海峡两岸名词对照库=397; 其他来源数据库=49; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "对称平衡型压缩机",
+   "en": "symmetrically balanced compressor",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "10.0117",
+   "subjectFullName": "机械工程_流体机械_风机、压缩机_压缩机",
+   "subjectName": "压缩机",
+   "publishYear": "2013",
+   "definition": "气缸呈对置、曲拐相差180°的压缩机。"
+  },
+  {
+   "cn": "均衡对称层合板",
+   "en": "balanced symmetric laminate",
+   "source": "材料科学技术名词",
+   "wordNumber": "05.0362",
+   "subjectFullName": "材料科学技术_复合材料_复合材料结构设计及表征、测试",
+   "subjectName": "复合材料结构设计及表征、测试",
+   "publishYear": "2011",
+   "definition": "既均衡又对称的层合板。"
+  },
+  {
+   "cn": "证据",
+   "en": "evidence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.067",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "能够支撑假说可靠性的事实。"
+  },
+  {
+   "cn": "对称化子",
+   "en": "symmetrizer",
+   "source": "数学名词",
+   "wordNumber": "04.0854",
+   "subjectFullName": "数学_代数学_代数几何学_型",
+   "subjectName": "型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "电子证据",
+   "en": "electronic evidence",
+   "source": "档案学名词",
+   "wordNumber": "06.01.014",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "案件发生过程中形成的，以数字化形式存储、处理、传输的，能够证明案件事实的数据。经过科学管理的电子文件可以充当电子证据。"
+  },
+  {
+   "cn": "证据的污染",
+   "en": "evidence contaminated",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "经验证据受到理论或非理论（如文化、社会、经济、政治）因素的干扰，而减弱甚至丧失其认识论上的权威性。"
+  },
+  {
+   "cn": "经验证据",
+   "en": "empirical evidence",
+   "source": "行为医学名词",
+   "wordNumber": "3.301",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "通过感官的感觉（如触觉、视觉、听觉、嗅觉和味觉）所获得的结果和证据。"
+  },
+  {
+   "cn": "证据生成者",
+   "en": "evidence creator",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.067",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医疗信息系统集成规范中，创建已完成检查的附加影像、关键影像和相关文档，并发送至归档服务器的应用程序。"
+  },
+  {
+   "cn": "证据理论",
+   "en": "evidence theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0114",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "它是一种不精确推理理论，满足比贝叶斯概率论更弱的条件，具有直接表达“不确定”和“不知道”的能力，以处理不确定信息。"
+  },
+  {
+   "cn": "审核证据",
+   "en": "audit evidence",
+   "source": "林学名词",
+   "wordNumber": "06.386",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "与审核准则有关的并且能够证实的记录、事实陈述或其他信息。"
+  },
+  {
+   "cn": "客观证据",
+   "en": "objective evidence",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0711",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "支持事物存在或其真实性的数据，可通过观察、测量、试验或其他手段获得。"
+  },
+  {
+   "cn": "审计证据",
+   "en": "audit evidence",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0388",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师为了得出审计结论和形成审计意见而使用的信息，包括构成财务报表基础的会计记录所含有的信息和其他信息。"
+  },
+  {
+   "cn": "故障迹象",
+   "en": "fault evidence",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.044",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "一种可以鉴别的偏差，通过它可以识别出功能故障或隐患故障的发生。"
+  },
+  {
+   "cn": "对称碎斑系",
+   "en": "symmetrical porphyroclast",
+   "source": "地质学名词",
+   "wordNumber": "09.06.074",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "残斑尾部形态对称的碎斑系。包括θ型和型。"
+  },
+  {
+   "cn": "对称褶皱",
+   "en": "symmetrical fold",
+   "source": "地质学名词",
+   "wordNumber": "09.03.059",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "两翼夹角被轴面平分的褶皱。"
+  },
+  {
+   "cn": "对称压缩",
+   "en": "symmetrical compression",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.03.026",
+   "subjectFullName": "编辑与出版学_数字出版_电子出版",
+   "subjectName": "电子出版",
+   "publishYear": "2022",
+   "definition": "压缩和解压缩占用相同的计算处理能力和时间的压缩方法。适用于实时压缩和传输场合，如音视频会议系统。"
+  },
+  {
+   "cn": "[电阻率]对称剖面法",
+   "en": "symmetrical profiling",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0090",
+   "subjectFullName": "地球物理学_勘探地球物理学_重_磁_电勘探",
+   "subjectName": "电勘探",
+   "publishYear": "2022",
+   "definition": "工作时，供电和测量的 4 个电极对称于中点，布置在一条测线上，保持电极距离不变，沿剖面逐点观测，每个测点上只观测一个电阻率值。 "
+  },
+  {
+   "cn": "对称缸",
+   "en": "symmetrical cylinder",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1161",
+   "subjectFullName": "机械工程（一）_传动_液压传动_执行元件",
+   "subjectName": "执行元件",
+   "publishYear": "2021",
+   "definition": "两腔有效面积相同的液压缸。"
+  },
+  {
+   "cn": "对称膜系",
+   "en": "symmetrical multilayer",
+   "source": "光学名词",
+   "wordNumber": "07.025",
+   "subjectFullName": "光学_光学薄膜",
+   "subjectName": "光学薄膜",
+   "publishYear": "2021",
+   "definition": "具有对称结构(材料厚度相同)的膜系。"
+  },
+  {
+   "cn": "对称信息",
+   "en": "symmetrical information",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1040",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "在某种相互对应的经济人关系中，对应双方都掌握有对方所具备的信息度量，也即对应双方都了解对方所具备的知识和所处的环境。"
+  },
+  {
+   "cn": "均衡对称层合板",
+   "en": "balanced-symmetric laminate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "古气候证据",
+   "en": "paleoclimate evidence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轶事型证据",
+   "en": "anecdotal evidence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不确定证据",
+   "en": "uncertain evidence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证据理论",
+   "en": "evidence theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确定证据",
+   "en": "conclusive evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对称性突触",
+   "en": "symmetrical synapse",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "对称分布",
+   "en": "symmetrical distribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对称褶皱",
+   "en": "symmetrical fold",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "对称[列]表",
+   "en": "symmetrical list",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称天线",
+   "en": "symmetrical antenna",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称网络",
+   "en": "symmetrical network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称浸水",
+   "en": "symmetrical flooding",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对称不稳定",
+   "en": "symmetric instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对称膜",
+   "en": "symmetric membrane",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "高分子各向同性膜",
+   "en": "symmetric membrane",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "对称层合板",
+   "en": "symmetric laminate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "对称裂变",
+   "en": "symmetric fission",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对称[式]计算机",
+   "en": "symmetric computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称密码[学]",
+   "en": "symmetric cryptography",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子证据",
+   "en": "e-evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字证据",
+   "en": "digital evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机证据",
+   "en": "computer evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链证据",
+   "en": "blockchain evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对称密码",
+   "en": "symmetric cipher",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能证据摘录",
+   "en": "intelligent evidence excerpt",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据电文证据",
+   "en": "data message evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平衡",
+   "en": "balance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平衡",
+   "en": "balance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平衡",
+   "en": "balance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平衡",
+   "en": "balance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术性证据审查",
+   "en": "review of technical evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多媒体示证",
+   "en": "multimedia demonstration of evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息取证",
+   "en": "information collection for evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以明显优势获胜",
+   "en": "win by evident superiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证据的污染",
+   "en": "evidence contaminated",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "经验证据受到理论或非理论（如文化、社会、经济、政治）因素的干扰，而减弱甚至丧失其认识论上的权威性。"
+  },
+  {
+   "cn": "证据规则",
+   "en": "rules of evidence",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.21",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "理性学科的一个特征，其主要作用在于为评价某种特定研究或理性工作是否具有有效性和价值提供理性标准和依据。"
+  },
+  {
+   "cn": "四重证据法",
+   "en": "quadruple evidence method",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0236",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文学人类学研究的“四重证据法”以王国维提出的“二重证据法”为发端，经历了20 世纪“三重证据法”的探索，于21 世纪初形成“四重证据法”方法论。第一重证据指传世文献，第二重证据指地下文献（包括甲骨文、"
+  },
+  {
+   "cn": "平衡能力",
+   "en": "balance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "身体在运动或受到外力作用时，能够自动调整并维持一种姿态的能力。"
+  },
+  {
+   "cn": "证据权重",
+   "en": "weight of evidence, WOE",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.32",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对获得的反映某一因素或状况引起生物、系统或（亚）人群健康不良作用的所有证据进行评估和加权的一种方法。"
+  },
+  {
+   "cn": "调查取证",
+   "en": "investigation and evidence collection",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "有管辖权的行政机关对决定立案处理的违法案件，为查明案件的违法事实而依法进行的专门调查、获取证据和采取强制措施的活动。"
+  },
+  {
+   "cn": "二重证据法",
+   "en": "method of dual evidence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0071",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国近代学家王国维创立的一种文史研究方法，对20 世纪中国学术研究产生了巨大的影响，主要指“纸上之材料”与“地下之新材料”相互印证。"
+  },
+  {
+   "cn": "循征系统评价",
+   "en": "evidence-based systematic review",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.36",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "全面收集所有相关、可靠的高质量临床研究并进行科学的定量合成(荟萃分析)从而得出综合可靠结论的过程"
+  },
+  {
+   "cn": "匀称型小于胎龄儿",
+   "en": "symmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数>2.0（胎龄≤37周）或>2.2（胎龄>37周），身长/头围>1.36的小于胎龄儿。多始于胎儿早期，常与遗传因素和宫内感染等有关，胎儿体重、身长和头围受到同等程度的影响。往往脑发育受限。"
+  },
+  {
+   "cn": "平衡膳食",
+   "en": "balanced diet",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.1.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "摄入的各种营养素种类齐全，营养素之间比例适当，能够满足人体营养需要的合理膳食。"
+  },
+  {
+   "cn": "平衡方程",
+   "en": "balance equation",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "一个基本的人口统计公式，用来估算两个时点间总人口的变动，或是在其他条件已知的情况下用以估算未知的人口变动因素。平衡方程包括人口变动的所有因素：出生、死亡、国际迁入、国际迁出、国内迁入及国内迁出。"
+  },
+  {
+   "cn": "综合平衡",
+   "en": "overall balance",
+   "source": "马克思主义",
+   "wordNumber": "02.0380",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国民经济工作的根本问题，“一五计划”执行过程中总结实践经验提出的正确方针。整个国民经济是在工农业之间、工业内部之间、重工业和轻工业之间、农业内之间的比例关系相互协调、大体平衡基础上的综合平衡。陈云曾针"
+  },
+  {
+   "cn": "基金结余",
+   "en": "fund balance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "基金收支相抵后的期末余额"
+  },
+  {
+   "cn": "中和位育论",
+   "en": "East-Balance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0632",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国社会学家、优生学家、民族学家和教育学家潘光旦引用儒家经典《中庸》里的“致中和，天地位焉，万物育焉”之义提炼而成的核心研究概念，被视为其新人文思想的核心。“位育”为“安其所”“遂其生”，即天地万物各"
+  },
+  {
+   "cn": "体热平衡",
+   "en": "thermal balance",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.3.3",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷应激",
+   "subjectName": "冷应激",
+   "publishYear": "2025",
+   "definition": "人体散热和产热平衡的状态，该状态维持着正常体温。"
+  },
+  {
+   "cn": "热平衡",
+   "en": "heat balance",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.5.1.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业机体变化",
+   "subjectName": "高温作业机体变化",
+   "publishYear": "2025",
+   "definition": "人体在中枢神经系统和内分泌的调控下，通过心血管系统、皮肤、汗腺和内脏等组织器官的协同作用，维持着产热和散热动态平衡的状态。"
+  },
+  {
+   "cn": "平衡膳食模式",
+   "en": "balanced dietary pattern",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "根据居民膳食营养素参考摄入量、居民营养与健康状况所推荐的食物种类和比例，能最大限度地满足不同年龄阶段健康人群的生理和营养健康需要而设计的膳食。"
+  },
+  {
+   "cn": "物料平衡检查",
+   "en": "material balance inspection",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.70",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "在食品生产监管中借助专业手段，利用科学化和数据化的检查规则，在允许的偏差范围内，对比食品生产企业的实际产量或实际用量与理论产量或用量，分析企业存在差异原因的合理性。"
+  },
+  {
+   "cn": "食物平衡表法",
+   "en": "food balance sheet",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.52",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种食物消费量调查方法。根据一个国家的每年食物产量，加上进口量，再减去出口量，对国家人均可利用的食品进行粗略的估计。"
+  },
+  {
+   "cn": "核电厂配套设施",
+   "en": "balance of plant，BOP",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.4",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "核电厂中核岛和常规岛以外的配套建筑物、构筑物及其设施的统称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

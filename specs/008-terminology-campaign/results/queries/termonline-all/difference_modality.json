@@ -1,0 +1,772 @@
+{
+ "key": "difference modality",
+ "term": "difference modality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:17:45+00:00",
+ "status": "ok",
+ "note": "variant=difference modality; 审定公布名词库=832; 海峡两岸名词对照库=299; 其他来源数据库=27; 预公布名词数据库=102; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "生物物理学名词",
+   "wordNumber": "04.087",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "各类特异化感觉系统接收其适宜刺激的基本模式。"
+  },
+  {
+   "cn": "感觉模态",
+   "en": "sensory modality",
+   "source": "生理学名词",
+   "wordNumber": "03.210",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "透析模式",
+   "en": "dialysis modality",
+   "source": "器官移植学名词",
+   "wordNumber": "11.049",
+   "subjectFullName": "器官移植学_肾移植_肾移植受者评估",
+   "subjectName": "肾移植受者评估",
+   "publishYear": "2020",
+   "definition": "尿毒症患者透析治疗的具体方式。分为血液净化和腹膜透析两大类。"
+  },
+  {
+   "cn": "感觉[通]道",
+   "en": "sense modality",
+   "source": "心理学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体接受刺激和传入信息形成感觉经验的通道。"
+  },
+  {
+   "cn": "模式",
+   "en": "(1) modality (2) pattern",
+   "source": "核医学名词",
+   "wordNumber": "01.0033",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "(1)在影像学范畴内，特指对现实事件内在机制和事件之间关系进行直观、简洁描述的一类有特定工作方式、方法或技术的总称。(2)客观事物表现出来、能被主观感觉和识别的规律性或特征化形式。"
+  },
+  {
+   "cn": "模态结构主义",
+   "en": "modal structuralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.286",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由赫尔曼提出的一种数学结构主义立场。主张借助二阶模态逻辑重解数学，避免对结构或结构中的位置进行量化。"
+  },
+  {
+   "cn": "模态虚构主义",
+   "en": "modal fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "主张通过关于可能世界的虚构故事来理解模态。其最强版本关于模态陈述的真值条件是：P是可能的，当且仅当P在虚构故事F的语言中的翻译根据F成立；P是必然的，当且仅当P在虚构故事F的语言中的翻译总是成立。"
+  },
+  {
+   "cn": "众数",
+   "en": "modal number",
+   "source": "血液学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "细胞中的染色体数目。"
+  },
+  {
+   "cn": "模态分析",
+   "en": "modal analysis",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0091",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "将线性定常系统振动微分方程组中的物理坐标变换为模态坐标，使方程组解耦，成为一组以模态坐标及模态参数描述的独立方程。"
+  },
+  {
+   "cn": "模态参数",
+   "en": "modal parameter",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0092",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "模态的特征参数，即振动系统的各阶固有频率、振型、模态质量、模态刚度与模态阻尼。"
+  },
+  {
+   "cn": "模态刚度",
+   "en": "modal stiffness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0093",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "与特定的振动模态相关的刚度元素。"
+  },
+  {
+   "cn": "模态密度",
+   "en": "modal density",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0094",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "每单位带宽的模态数。"
+  },
+  {
+   "cn": "模态试验",
+   "en": "modal test",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0127",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "为确定系统模态参数所做的振动试验。通常先由激励和响应关系得出频率响应矩阵，再由曲线拟合等方法识别出各阶模态参数。"
+  },
+  {
+   "cn": "振型偏心距",
+   "en": "modal eccentricity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0222",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "第n阶振型不平衡量除以第n阶模态质量的值。"
+  },
+  {
+   "cn": "振型灵敏度",
+   "en": "modal sensitivity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0223",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "振型位移矢量的变化量与振型偏心距(振型不平衡量除以模态质量)的变化量的比值。"
+  },
+  {
+   "cn": "振型平衡",
+   "en": "modal balancing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0276",
+   "subjectFullName": "机械工程（一）_机械动力学_平衡与平衡装备",
+   "subjectName": "平衡与平衡装备",
+   "publishYear": "2021",
+   "definition": "平衡挠性转子的一种方法，分别在有影响的各阶挠曲主振型下进行不平衡校正，使振幅减小到规定范围之内。"
+  },
+  {
+   "cn": "模态算子",
+   "en": "modal operator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0010",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "作用于模态命题语句，表达“必然”“可能”“应当”“必须”“允许”“禁止”等意义的逻辑符号。"
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0932",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "逻辑的一个分支，它研究必然、可能及其相关概念的逻辑性质。"
+  },
+  {
+   "cn": "常态嗓音",
+   "en": "modal voice",
+   "source": "语言学名词",
+   "wordNumber": "03.143",
+   "subjectFullName": "语言学_语音学_发音语音学",
+   "subjectName": "发音语音学",
+   "publishYear": "2011",
+   "definition": "一种发声类型。发声时，声门作为一个单一的整体起作用，声带有规律地振动，并且每个周期都完全闭合，没有任何摩擦噪声。"
+  },
+  {
+   "cn": "能愿动词",
+   "en": "modal verb",
+   "source": "语言学名词",
+   "wordNumber": "04.065",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "表示行为或状况的可能、必要或意愿的动词。例如“能”“愿意”“应该”。用在动词、形容词前边。"
+  },
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调式的",
+   "en": "modal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙模型",
+   "en": "world modal",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模[式]色散",
+   "en": "modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模式噪声",
+   "en": "modal noise",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态双折射性",
+   "en": "modal birefringence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态展开",
+   "en": "modal expansion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "差",
+   "en": "difference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模间色散",
+   "en": "inter-modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模内色散",
+   "en": "intra-modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference\",\"sex difference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "差分法",
+   "en": "difference method",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "差分方程",
+   "en": "difference equation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "差分格式",
+   "en": "difference scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位相差",
+   "en": "phase difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "向后差分",
+   "en": "backward difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "向前差分",
+   "en": "forward difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "迎风差分",
+   "en": "upwind difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "势差",
+   "en": "potential difference",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分项",
+   "en": "discipline\",\"modality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高度差",
+   "en": "landing difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同异",
+   "en": "Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大同异/小同异",
+   "en": "Major Commonality and Difference / Minor Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合同异",
+   "en": "Unify Similarity and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "求同存异",
+   "en": "Seek Common Ground While Setting Aside Differences",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以国为国，以天下为天下",
+   "en": "Rule a State or a Country with Different Methods",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坐忘",
+   "en": "Forget the Difference and Opposition Between Self and the Universe",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因地因企因人分类帮扶",
+   "en": "to provide assistance specifically designed to suit different regions, enterprises and people",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "突出重点、统筹兼顾、分类指导、分区施策",
+   "en": "to focus on key issues, strengthen coordination, give sector-specific guidance, and apply targeted policies to different areas ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共享出行",
+   "en": "shared mobility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧出行",
+   "en": "smart mobility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality rate ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference, sex difference",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "男性和女性在生理、心理、行为及社会文化层面表现出的群体性差异。生物学因素（如基因、激素）奠定生理分化基础（如生殖系统、疾病倾向），而社会文化建构（如性别角色、教育机会、刻板印象）影响行为模式、认知能力"
+  },
+  {
+   "cn": "压差",
+   "en": "pressure difference",
+   "source": "消毒学",
+   "wordNumber": "4.6.18.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过工程技术使房间内外产生的气压之差，使空气得以定向流动，防止病原体扩散。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural difference",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "广义指世界不同地域、不同社会的文化之间所存在的差别，狭义指人类信仰与行为层面的差别。一般取其广义。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别之间的差异。存在于生理结构和遗传因素中，也存在于社会环境和文化氛围中。女性主义认为它不是性别歧视的理由，不应导致性别不平等。"
+  },
+  {
+   "cn": "阶级差别",
+   "en": "class difference",
+   "source": "马克思主义",
+   "wordNumber": "03.0090",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不同阶级之间在经济利益、政治地位、社会地位和思想观念等方面存在的不同。"
+  },
+  {
+   "cn": "差别检验",
+   "en": "difference test",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.11",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对比较的产品的总体感官差异或特定感官性质差异进行的感官评价。要求评价员回答两个或两个以上的样品中是否存在感官差异，以得出两个或更多的样品间是否存在差异的结论。差别检验的结果分析是以每一类别的评价员数量"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0091",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "不同性别由于社会心理差异所呈现的不同的言语特征。"
+  },
+  {
+   "cn": "年龄差异",
+   "en": "age differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0093",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一言语社区内不同年龄段的人在使用语言变体上的差别。通常老年人的语言变体比较传统和保守，年轻人的语言变体比较简化和创新。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0046",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "不同地区、民族的人们所持有的文化的差别。"
+  },
+  {
+   "cn": "代别",
+   "en": "generation differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0092",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一个言语社区内不同代际之间的言语差别。"
+  },
+  {
+   "cn": "健康差异指数",
+   "en": "health difference index",
+   "source": "社会医学名词",
+   "wordNumber": "9.12",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "健康差异指数",
+   "publishYear": "2025",
+   "definition": "应用差异指数计算原理，综合某个社会经济特征（如收入、教育、职业等）的人口比重和患病比重指标，衡量不同社会经济特征人群的健康状况分布差异。测量健康公平性的指标，取值在0～1 之间，值越小表示公平性越好。"
+  },
+  {
+   "cn": "密度差异干扰",
+   "en": "disturbance from density difference",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "待测样品与刻度源间的密度差异（如超过10%）对于待测物理量的干扰。"
+  },
+  {
+   "cn": "线性生长性别差异",
+   "en": "sex difference in linear growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "随着年龄增加和青春期发育，男女间身高水平和增长速度的差别"
+  },
+  {
+   "cn": "体成分发育种族差异",
+   "en": "ethnic difference in body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "不同遗传背景下的种族，其体成分发育存在差异性的现象。"
+  },
+  {
+   "cn": "体脂种族差异",
+   "en": "ethnic difference in body fat",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "体脂在不同种族间存在差别的现象。"
+  },
+  {
+   "cn": "消灭阶级和阶级差别",
+   "en": "eliminate class and class differences",
+   "source": "马克思主义",
+   "wordNumber": "03.0023",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会上不再存在任何阶级，人与人之间不再存在阶级关系。阶级是在社会生产力有了一定发展而又发展不足的条件下产生的。消灭阶级和阶级差别的物质前提是社会生产力的高度发展。阶级是否消亡是社会主义社会与共产主义社"
+  },
+  {
+   "cn": "药品差价比价",
+   "en": "price difference or ratio of drug",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.6.2.6",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "同种药品因剂型、规格或包装材料等方面存在差异而形成的价格之间的差额或比值。"
+  },
+  {
+   "cn": "生长发育性别差异",
+   "en": "sex difference in growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "不同性别儿童在生长发育表现上存在差异的生长发育特点。"
+  },
+  {
+   "cn": "生长发育地区差异",
+   "en": "regional difference in growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "不同地区儿童在生长发育表现上存在差异的生长发育特征。"
+  },
+  {
+   "cn": "生长发育种族差异",
+   "en": "ethnic difference in growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "不同种族儿童在生长发育表现上存在差异的生长发育特征。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

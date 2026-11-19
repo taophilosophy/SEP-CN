@@ -1,0 +1,772 @@
+{
+ "key": "classical frequentist approaches",
+ "term": "classical frequentist approaches",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:03:25+00:00",
+ "status": "ok",
+ "note": "variant=classical frequentist approaches; 审定公布名词库=557; 海峡两岸名词对照库=95; 其他来源数据库=41; 预公布名词数据库=44; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "古典学",
+   "en": "Classics",
+   "source": "世界历史名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "专门研究公元前2000年至6世纪希腊罗马文明的一门学问。"
+  },
+  {
+   "cn": "切入量",
+   "en": "approach",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.011",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "为完成切入过程必须附加的行程长度。"
+  },
+  {
+   "cn": "趋近",
+   "en": "approach",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.313",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_金属切削机床_机床的运动",
+   "subjectName": "机床的运动",
+   "publishYear": "2021",
+   "definition": "进给运动开始前，加工工具与工件相互接近的过程。"
+  },
+  {
+   "cn": "销售拜访",
+   "en": "approach",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0639",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "销售人员第一次与顾客进行的接触。是销售过程的一个阶段。"
+  },
+  {
+   "cn": "进场",
+   "en": "approach",
+   "source": "航天科学技术名词",
+   "wordNumber": "10.064",
+   "subjectFullName": "航天科学技术_航天发射试验与地面设备",
+   "subjectName": "航天发射试验与地面设备",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "湿球温差",
+   "en": "approach",
+   "source": "土木工程名词",
+   "wordNumber": "11.312",
+   "subjectFullName": "土木工程_给水与排水工程_水处理",
+   "subjectName": "水处理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "引道",
+   "en": "approach",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.255",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "新古典主义",
+   "en": "neo-classicism,classical revival",
+   "source": "建筑学名词",
+   "wordNumber": "03.0339",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "18世纪60年代到19世纪流行于欧美国家的一种学院派建筑思潮。其建筑形式的基本语言来自古代希腊、罗马的建筑范例，主要出现于国家大型公共建筑和纪念性建筑。代表建筑师有卡尔·弗里德里希·申克尔(Karl "
+  },
+  {
+   "cn": "趋-趋冲突",
+   "en": "approach-approach conflict",
+   "source": "行为医学名词",
+   "wordNumber": "4.098",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体同时面对两个具有同样吸引力的目标，只能从中抉择其一时发生的心理冲突。如“鱼和熊掌不可兼得”。"
+  },
+  {
+   "cn": "经典积分",
+   "en": "classical integral",
+   "source": "天文学名词",
+   "wordNumber": "03.022",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "表示动量守恒、角动量守恒和能量守恒定律的数学表达式。"
+  },
+  {
+   "cn": "经典输运",
+   "en": "classical transport",
+   "source": "核科学技术名词",
+   "wordNumber": "3.21",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "等离子体中以带电粒子间的库仑碰撞或带电粒子与中性粒子的碰撞为机制的输运过‍程。"
+  },
+  {
+   "cn": "经典造父变星",
+   "en": "classical cepheid",
+   "source": "天文学名词",
+   "wordNumber": "08.195",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "以仙王δ(中文名造父一)为典型星的脉动变星。光变周期大多在1～50天范围内，光变幅一般为1目视星等左右，存在周光关系，属于星族Ⅰ。"
+  },
+  {
+   "cn": "典型感染",
+   "en": "classical infection",
+   "source": "兽医学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "疫病发生时，表现出该病的特征性临床症状的感染。"
+  },
+  {
+   "cn": "经典途径",
+   "en": "classical pathway",
+   "source": "兽医学名词",
+   "wordNumber": "14.133",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "补体激活途径之一，激活剂主要为与抗原结合后的IgG或IgM类抗体，并由C1到C9连续发生级联反应，最终产生溶细胞效应的 过程。"
+  },
+  {
+   "cn": "经典分类学",
+   "en": "classical taxonomy",
+   "source": "动物学名词",
+   "wordNumber": "2.0001",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "主要基于模式标本的分类学。根据种形态、地理分布和生态等特征的异同来进行分类的研究方法，在不同特征间存在加权，没有统一分类原则的单纯分类学。"
+  },
+  {
+   "cn": "古典二分法",
+   "en": "classical dichotomy",
+   "source": "经济学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "古典经济学家把经济分为实际经济与货币两个互不相关部分的研究方法。经济理论研究实际经济中产量的决定，即产量是由制度、资源、技术等实际因素决定的，与货币无关。货币理论认为货币为名义变量，不能影响到实际产出"
+  },
+  {
+   "cn": "经典条件反射",
+   "en": "classical conditioning",
+   "source": "生理学名词",
+   "wordNumber": "03.678",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "古典自由主义",
+   "en": "classical liberalism",
+   "source": "经济学名词",
+   "wordNumber": "14.007",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "反对国家权力对个人自由干涉的一种政治思想。经济学意义上的古典自由主义思想首先由亚当·斯密在《国富论》中提出，功利学派边沁（Jeremy Bentham）、詹姆斯·穆勒(James Mill)和约翰·穆"
+  },
+  {
+   "cn": "古典生物型",
+   "en": "classical biotype",
+   "source": "感染病学名词",
+   "wordNumber": "03.0856",
+   "subjectFullName": "感染病学_病原体感染_细菌感染",
+   "subjectName": "细菌感染",
+   "publishYear": "2019",
+   "definition": "O1群霍乱弧菌根据表现型不同而分成的两种生物型之一。19世纪从患者粪便中分离出。为霍乱的主要致病菌之一。"
+  },
+  {
+   "cn": "经典集团化",
+   "en": "classical clustering",
+   "source": "物理学名词",
+   "wordNumber": "05.0672",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "古典",
+   "en": "classical",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "趋近",
+   "en": "approach",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "取向",
+   "en": "approach",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "传统分类学（=经典分类学）",
+   "en": "classical taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经典分类学，传统分类学",
+   "en": "classical taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "古典交响曲",
+   "en": "Classical Symphony",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Prokofiev, Sergey"
+  },
+  {
+   "cn": "前古典",
+   "en": "pre-classical",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经典性条件反射,经典条件作用",
+   "en": "classical conditioning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经典积分",
+   "en": "classical integral",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "经典天文学",
+   "en": "classical astronomy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "经典热力学",
+   "en": "classical thermodynamics",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "古典地方",
+   "en": "classical lands",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "经典假说",
+   "en": "classical hypothesis",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "经典逻辑",
+   "en": "classical logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经方",
+   "en": "classical prescriptions",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "人本主义取向",
+   "en": "humanistic approaches",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "共存分析",
+   "en": "coexistence approach",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统方法，生态系统途径",
+   "en": "ecosystem approach",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统途径（=生态系统方法）",
+   "en": "ecosystem approach",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "行近流速",
+   "en": "approach velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经典",
+   "en": "Classics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "书院",
+   "en": "Classical Academy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "典雅",
+   "en": "Classical Elegance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五经",
+   "en": "Five Classics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经学",
+   "en": "Classics Scholarship",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传统防守姿势",
+   "en": "classic guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精英赛",
+   "en": "classic event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "层次化方法",
+   "en": "hierarchical approach",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国方案",
+   "en": "Chinese approach",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "上网击球",
+   "en": "approach stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "古文运动",
+   "en": "Classical Prose Movement",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三玄",
+   "en": "Three Metaphysical Classics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "综合施策",
+   "en": "taking holistic approaches",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "助跑",
+   "en": "run\",\"running approach",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回应性监管方式",
+   "en": "responsive regulatory approach",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国方案",
+   "en": "the Chinese Approach",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发展路径",
+   "en": "developmental approach",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.9",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "从事物的发生、成长、变化做历时态的考察从而做出对比说明的方式，与从事物的组成、结构上考察的共时态解释是相对应的方式。"
+  },
+  {
+   "cn": "谱系学路径",
+   "en": "genealogical approach",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.31",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "米歇尔·福柯提出的，以分析权力的形态、技术、过程和效果等为对象的研究路径，侧重于考察权力与知识之间的密切关系，如何形塑出“驯顺的身体”。譬如，在《规训与惩罚》中，他考察了“话语实践”即现代刑法学、犯罪"
+  },
+  {
+   "cn": "监测方法",
+   "en": "surveillance approach",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测方法”。又称“妇幼健康监测方法”。可满足不同监测目标的一套监测思维和工作方法。主要包括主动、被动、人群和医院监测。"
+  },
+  {
+   "cn": "结构主义方法",
+   "en": "structuralism approach",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.057",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "结构主义试图为各门科学提供一种普遍有效的方法，依据这种方法，人们可以把自己所遇到的现象整理成系统的整体；它不仅要解决某一系统内现象之间的相互关系，而且要找出各个系统、各个领域现象之间的关系，打破这些现"
+  },
+  {
+   "cn": "客位法",
+   "en": "etic approach",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.067",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "使用文化外来者的视角对研究对象进行研究的人类学研究方法。客位法涵盖了研究立场，是研究者以文化外来观察者的身份和角度去表述文化，以客观的标准对其行为进行因果分析和解释。在客位研究中，研究者通过对所搜集的"
+  },
+  {
+   "cn": "主位法",
+   "en": "emic approach",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0671",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "使用被研究者的视角对其进行研究的人类学研究方法。主位法主要用于根据当地人（或文化的拥有者）的文化视角进行文化的个案研究，表明了研究者站在被研究者的立场上来看待所研究的文化的基本立场。主位法将报道人放在"
+  },
+  {
+   "cn": "自传调查法",
+   "en": "autobiographical approach",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0672",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "以个人为对象，全面记录其生平经历，不仅可以反映出一个人的全部历史，还可以反映出他的家族史、行业史，以及民族史的某一侧面。取得被调查者的信任，是这一方法取得成功的关键。同一类型的人，要选择多个对象。对同"
+  },
+  {
+   "cn": "临终",
+   "en": "approaching dying",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.037000000000001",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "生命临近终止。死亡前个体生命发生无法复原的衰减直至死亡的特殊生命阶段。"
+  },
+  {
+   "cn": "经典测验理论",
+   "en": "classical test theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.34",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "基于真值与误差之间的区分而提出的测量理论。认为测量工具所得到的结果是观察值，包括了测量对象的真值和误差值，并运用相应的统计技术评估一次测验中观测值的信度，计算观测值和真值间的关联强度。"
+  },
+  {
+   "cn": "德国古典哲学",
+   "en": "German classical philosophy",
+   "source": "马克思主义",
+   "wordNumber": "01.0111",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "主要代表人物是康德、费希特、谢林、黑格尔和费尔巴哈。它经历了从唯心主义到唯物主义两个发展阶段，是德国当时社会关系的必然产物，为德国1848年资产阶级政治革命作了先导。它是马克思主义哲学的理论来源。"
+  },
+  {
+   "cn": "健康需要法",
+   "en": "health need approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.2.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置标准",
+   "subjectName": "卫生资源配置标准",
+   "publishYear": "2025",
+   "definition": "以居民健康水平为目标，分析预测实现目标需要的卫生资源种类和数量的一种方法。是卫生资源需求预测的重要方法。"
+  },
+  {
+   "cn": "健康需求法",
+   "en": "health demand approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.2.2",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置标准",
+   "subjectName": "卫生资源配置标准",
+   "publishYear": "2025",
+   "definition": "以居民健康服务需求量为基础，分析预测需要的卫生资源种类和数量的一种方法。"
+  },
+  {
+   "cn": "陈述偏好法",
+   "en": "stated preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "采用调查的方式，让被调查人表达疾病治疗方案所带来的效益，以此对偏好进行估算的一种分析方法。"
+  },
+  {
+   "cn": "显示偏好法",
+   "en": "revealed preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在实际购买决策行为中观察个人的偏好强度的一种分析方法。"
+  },
+  {
+   "cn": "自下而上法",
+   "en": "bottom-up approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.5.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "根据疾病的平均治疗成本与疾病发病率（患病率）的乘积来计算疾病直接经济负担。"
+  },
+  {
+   "cn": "自上而下法",
+   "en": "top-down approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "测量归因于某个疾病或某危险因素暴露的疾病经济负担的方法"
+  },
+  {
+   "cn": "全校参与模式",
+   "en": "whole-school approach",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "一种超越课堂教学，渗透到学校生活各方面的方法，包括教学内容和方法、学校治理和学校合作、校园及设施管理。是学校社区用来改善学生学习、行为、福祉及支持他们的各种条件的一种具有凝聚力的、集体的、协作式方法。"
+  },
+  {
+   "cn": "同一健康同一个健康",
+   "en": "one health approach",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1.9",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "在局域、国家和全球层面控制多部门协同工作，获得人、动物和环境的最佳卫生。在实施项目、政策、法规和研究中设计的多部门沟通与一期工作以获得最佳公共卫生结果的策略。"
+  },
+  {
+   "cn": "基于危害方法",
+   "en": "hazard-based approach",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "计算与通过食物传播的危害因子有因果关联的疾病造成的疾病负担的方法。"
+  },
+  {
+   "cn": "基于发病率方法",
+   "en": "incidence-based approach",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "基于发病率计算疾病负担（多指伤残损失寿命年）的方法。将所有健康结局归因于初始事件（发病），反映当前事件造成的未来疾病负担。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

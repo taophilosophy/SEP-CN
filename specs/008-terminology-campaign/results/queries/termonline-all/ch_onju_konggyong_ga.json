@@ -1,0 +1,692 @@
+{
+ "key": "ch'onju konggyong-ga",
+ "term": "Ch’ŏnju konggyŏng-ga",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:11:07+00:00",
+ "status": "ok",
+ "note": "variant=Ch’ŏnju konggyŏng-ga; 审定公布名词库=2077; 海峡两岸名词对照库=416; 其他来源数据库=19; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "气体",
+   "en": "gas",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0244",
+   "subjectFullName": "地球物理学_地壳流体科学_气",
+   "subjectName": "气",
+   "publishYear": "2022",
+   "definition": "无固定形状的、可流动的气态物质。 "
+  },
+  {
+   "cn": "气体",
+   "en": "gas",
+   "source": "物理学名词",
+   "wordNumber": "05.0040",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "气体",
+   "en": "gas",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.003",
+   "subjectFullName": "呼吸病学_肺功能_相关的物理学概念",
+   "subjectName": "相关的物理学概念",
+   "publishYear": "2018",
+   "definition": "没有固定体积和形状、粒子之间有着相对大的距离的物质形态。"
+  },
+  {
+   "cn": "燃气",
+   "en": "gas",
+   "source": "土木工程名词",
+   "wordNumber": "12.001",
+   "subjectFullName": "土木工程_燃气与供热_燃气气源",
+   "subjectName": "燃气气源",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "气藏",
+   "en": "gas accumulation;gas pool; gas reservoir",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0370",
+   "subjectFullName": "地球物理学_地壳流体科学_石油与天然气",
+   "subjectName": "石油与天然气",
+   "publishYear": "2022",
+   "definition": "单一圈闭中，有统一压强系统、气水界面和商业价值的天然气聚集。 "
+  },
+  {
+   "cn": "气侵",
+   "en": "gas invasion,gas cut,gas cutting",
+   "source": "石油名词",
+   "wordNumber": "05.0210",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "惰性气体",
+   "en": "noble gas,inert gas,rare gas",
+   "source": "地质学名词",
+   "wordNumber": "06.011",
+   "subjectFullName": "地质学_地球化学",
+   "subjectName": "地球化学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "气田气",
+   "en": "gas in gas field",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0376",
+   "subjectFullName": "地球物理学_地壳流体科学_石油与天然气",
+   "subjectName": "石油与天然气",
+   "publishYear": "2022",
+   "definition": "从气田中产出的天然气。"
+  },
+  {
+   "cn": "烟道",
+   "en": "gas pass,gas flue",
+   "source": "电力名词",
+   "wordNumber": "09.291",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "用以引导烟气或布置受热面的烟气通道。"
+  },
+  {
+   "cn": "气-气加热器",
+   "en": "gas-gas heater,GGH",
+   "source": "电力名词",
+   "wordNumber": "24.070",
+   "subjectFullName": "电力_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "用脱硫前温度较高的烟气加热脱硫后温度较低的烟气的换热器。"
+  },
+  {
+   "cn": "理想气体",
+   "en": "ideal gas,perfect gas",
+   "source": "物理学名词",
+   "wordNumber": "05.0058",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "稀有气体",
+   "en": "noble gas,rare gas",
+   "source": "化学名词",
+   "wordNumber": "01.0091",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "元素周期表中第18列(0族或ⅧA族)元素氦、氖、氩、氪、氙、氡的总称。"
+  },
+  {
+   "cn": "城镇燃气",
+   "en": "city gas,town gas",
+   "source": "建筑学名词",
+   "wordNumber": "14.0899",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "符合国家规范规定的城镇公用燃气质量要求，供给城镇居民、工商企业、公共事业生活、生产使用的燃气。我国《城镇燃气分类和基本特性》GB/T 13611—2006将城镇燃气分为天然气、人工煤气、液化石油气三类"
+  },
+  {
+   "cn": "惰性气体",
+   "en": "inert gas,rare gas",
+   "source": "建筑学名词",
+   "wordNumber": "14.1085",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "氦、氖、氩、氪、氙、氡等六种气体，均属零族元素，单元子分子，无色无臭，化学性质极不活泼，不易与其他元素发生化学反应，故称惰性气体。除氡外，惰性气体在工业上都有重要用途。"
+  },
+  {
+   "cn": "城镇燃气",
+   "en": "city gas,town gas",
+   "source": "土木工程名词",
+   "wordNumber": "12.002",
+   "subjectFullName": "土木工程_燃气与供热_燃气气源",
+   "subjectName": "燃气气源",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "干馏煤气",
+   "en": "carbonization gas,carbureted gas",
+   "source": "土木工程名词",
+   "wordNumber": "12.014",
+   "subjectFullName": "土木工程_燃气与供热_燃气气源",
+   "subjectName": "燃气气源",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "燃气需用量",
+   "en": "gas demand,gas load",
+   "source": "土木工程名词",
+   "wordNumber": "12.049",
+   "subjectFullName": "土木工程_燃气与供热_燃气输配",
+   "subjectName": "燃气输配",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "供气",
+   "en": "gas delivery,gas supply",
+   "source": "土木工程名词",
+   "wordNumber": "12.050",
+   "subjectFullName": "土木工程_燃气与供热_燃气输配",
+   "subjectName": "燃气输配",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "燃气管道",
+   "en": "gas pipeline,gas line",
+   "source": "土木工程名词",
+   "wordNumber": "07.265",
+   "subjectFullName": "土木工程_燃气与供热_燃气输配",
+   "subjectName": "燃气输配",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "瓦斯浓度",
+   "en": "gas density,gas consistency",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0996",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "气［体］",
+   "en": "gas",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想气体",
+   "en": "ideal gas\",\"perfect gas",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想气体",
+   "en": "ideal gas\",\"perfect gas",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "尾气",
+   "en": "end gas\",\"tail gas",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "烟道气",
+   "en": "stack gas\",\"flue gas",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "水煤气",
+   "en": "blue gas\",\"water gas",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "惰性气体",
+   "en": "noble gas\",\"inert gas",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "理想气体",
+   "en": "perfect gas\",\"ideal gas",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "赤霉素",
+   "en": "gibberellin\",\"GA",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "神经节苷脂",
+   "en": "ganglioside\",\"GA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "气相色谱法",
+   "en": "gas chromatography",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "伪空胞",
+   "en": "gas vacuole",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "恒定气体",
+   "en": "permanent gas",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气体常数",
+   "en": "gas constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气体温度表",
+   "en": "gas thermometer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气相色谱仪",
+   "en": "gas chromagraph",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "烟气",
+   "en": "flue gas",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沼气",
+   "en": "marsh gas",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气体温度计",
+   "en": "gas thermometer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有害气体",
+   "en": "noxious gas",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "智能水气",
+   "en": "smart water and gas supply",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GA/T 1545-2019 信息安全技术 智能密码钥匙安全技术要求》",
+   "en": "GA/T 1545-2019 Information security technology — Security technical requirement for smart tokens",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GA/T 1139-2014 信息安全技术 数据库扫描产品安全技术要求》",
+   "en": "GA/T 1139-2014 Information security technology — Security technical requirements for database scanning products",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GA/T 913-2019 信息安全技术 数据库安全审计产品安全技术要求》",
+   "en": "GA/T 913-2019 Information security technology — Security technical requirements for database security auditing products",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GA/T 1143-2014 信息安全技术 数据销毁软件产品安全技术要求》",
+   "en": "GA/T 1143-2014 Information security technology — Security technical requirement for data destruction software products",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GA/T 754-2008 电子数据存储介质复制工具要求及检测方法》",
+   "en": "GA/T 754-2008 Requirement and testing method for clone tools for electronic data-storage media",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GA/T 1537-2018 信息安全技术 未成年人移动终端保护产品测评准则》",
+   "en": "GA/T 1537-2018 Information security technology — Testing and evaluation criteria for mobile terminal products for protecting minors",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GA/T 711-2007 信息安全技术 应用软件系统安全等级保护通用技术指南》",
+   "en": "GA/T 711-2007 Information security technology — Common technique guide of security classification protection for application software system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "戊二醛",
+   "en": "glutaraldehyde, GA",
+   "source": "消毒学",
+   "wordNumber": "2.1.8.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "为无色或淡黄色油状液体，含量为25%～50%，常用灭菌浓度为2%～2.5%，易溶于水、乙醇和其他有机溶剂，属于灭菌剂。"
+  },
+  {
+   "cn": "刺激性气体",
+   "en": "irritant gas",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.7.4",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "对眼、呼吸道黏膜和皮肤具有刺激作用，引起机体以急性炎症、肺水肿为主要病理改变的一类气态物质。军事作业环境中多来源于燃料燃烧和火炮发射时产生的废气。"
+  },
+  {
+   "cn": "洁净气体",
+   "en": "clean gas",
+   "source": "消毒学",
+   "wordNumber": "1.8.14",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "单位体积所含微粒的数量小于或等于使用此气体的洁净环境洁净度的常用气体。"
+  },
+  {
+   "cn": "气体消毒",
+   "en": "gas disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1.5",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "使用臭氧、二氧化氯等气态消毒剂对环境进行消毒的过程。"
+  },
+  {
+   "cn": "气体消毒剂",
+   "en": "gas disinfectant",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.19",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "以气体方式进行消毒的消毒剂，如臭氧、二氧化氯等。"
+  },
+  {
+   "cn": "废气",
+   "en": "waste gas",
+   "source": "消毒学",
+   "wordNumber": "7.2.9",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "生产生活中排出的无用的有毒有害气体。医疗机构污水处理过程中也会产生有害气体。"
+  },
+  {
+   "cn": "气体闪烁体",
+   "en": "gas scintillator",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.37",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种由气体作闪烁材料的无机闪烁体。它所用的气体大多是惰性气体，如氙、氪、氩、氦及氖等。"
+  },
+  {
+   "cn": "窒息性气体",
+   "en": "asphyxiant gas",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.7.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "经吸入而直接引起机体窒息作用的气体。按作用机制分为单纯窒息性气体和化学窒息性气体。"
+  },
+  {
+   "cn": "温室气体",
+   "en": "greenhouse gas",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.4.2.1.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "大气中能吸收地面反射的长波辐射，并重新发射辐射的一些气体，如水蒸气、二氧化碳、大部分制冷剂等。它们的作用是使地球表面变得更暖，类似于温室截留太阳辐射，并加热温室内空气的作用。"
+  },
+  {
+   "cn": "气流",
+   "en": "gas flow",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "流动的空气。"
+  },
+  {
+   "cn": "气相色谱法",
+   "en": "gas chromatography, GC",
+   "source": "消毒学",
+   "wordNumber": "6.1.13.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "以氮气、氢气或氦气等气体作为流动相，利用物质的沸点、极性及吸附性质的差异实现混合物分离的柱色谱方法。"
+  },
+  {
+   "cn": "气体电离探测器",
+   "en": "gas ionization detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.1.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_α、β粒子辐射监测设备",
+   "subjectName": "α、β粒子辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种以气体为工作介质的核辐射探测器。包括电离室、正比计数器和盖革-米勒计数器等。"
+  },
+  {
+   "cn": "流气式探测器",
+   "en": "gas-flow detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.49",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "通过气体在探测器中低速流动来维持其中有合适的工作气体的核辐射探测器。例如在放射性核素活度测量中所用的2π和4π流气式正比计数器。"
+  },
+  {
+   "cn": "有毒气体中毒",
+   "en": "toxic gas poisoning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.1.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "儿童因化工厂毒气泄漏，家用液化气、天然气、管道煤气设备泄露或操作失误而引起的中毒。"
+  },
+  {
+   "cn": "无上瑜伽部",
+   "en": "A ti yo ga",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0502",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。梵文Ati Yoga，是密宗金刚乘最高密法，修此法可“即身成佛”，重视心印、放光表示和口诀传承。主要经典有《集密根本续》等。此法分大瑜伽方便续部（嘛哈瑜伽）、大瑜伽智慧续部（阿努瑜伽）、"
+  },
+  {
+   "cn": "气液分离装置",
+   "en": "gas-liquid separation device",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.4.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在二氧化氯发生器中，为了去除生成二氧化氯时的副产物，对副产物实施分离的装置。"
+  },
+  {
+   "cn": "放射性废气净化",
+   "en": "radioactive off-gas cleaning",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.6.2",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "放射性废气在受控条件下排入大气之前、去除或降低废气中的放射性成分的过程。"
+  },
+  {
+   "cn": "放射性气体衰变箱",
+   "en": "radioactive gas decay tank",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.6.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "用于收集、贮存（或加压贮存）含有短半衰期放射性核素的气体的容器。"
+  },
+  {
+   "cn": "过氧化氢气体低温等离子体灭菌器",
+   "en": "hydrogen peroxide gas cryogenic plasma sterilizer",
+   "source": "消毒学",
+   "wordNumber": "2.2.9",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "在60℃下利用过氧化氢气体灭菌，用等离子体分解残留过氧化氢的灭菌装置。"
+  },
+  {
+   "cn": "高温气冷堆",
+   "en": "high temperature gas-cooled reactor，HTGR",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.5",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "采用包覆颗粒燃料、用氦作冷却剂、用石墨作慢化剂和结构材料、冷却剂出口温度可达750℃～950℃的核反应堆。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

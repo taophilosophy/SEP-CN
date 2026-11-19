@@ -1,0 +1,732 @@
+{
+ "key": "cyclic preferences",
+ "term": "cyclic preferences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:10:15+00:00",
+ "status": "ok",
+ "note": "variant=cyclic preferences; 审定公布名词库=1973; 海峡两岸名词对照库=700; 其他来源数据库=78; 预公布名词数据库=76; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "轮式双晶",
+   "en": "cyclic twin",
+   "source": "地质学名词",
+   "wordNumber": "02.00.120",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "两个以上的单体彼此以简单接触关系呈环状或轮辐状连生而成的双晶。按所连接的单晶数分为三连晶、四连晶、五连晶、六连晶、八连晶等。"
+  },
+  {
+   "cn": "环二核苷酸",
+   "en": "cyclic dinucleotide",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0212",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "在细菌及哺乳动物中先后发现的一类由相同或不同的两个核苷酸单体环化生成的重要第二信使分子。"
+  },
+  {
+   "cn": "循环光合磷酸化",
+   "en": "cyclic photophosphorylation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.0076",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_概述_水溶性维生素",
+   "subjectName": "水溶性维生素",
+   "publishYear": "2024",
+   "definition": "与光合作用中的循环电子传递相偶联产生ATP的一种光合磷酸化过程。合成ATP时，用吩嗪硫酸甲酯代替NADP+等递氢体，则ATP产生更多，不放氧。"
+  },
+  {
+   "cn": "环核苷酸",
+   "en": "cyclic nucleotide",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0119",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸化学组成_核苷酸",
+   "subjectName": "核苷酸",
+   "publishYear": "2024",
+   "definition": "一个核苷酸的一个磷酸基团在两个羟基氧原子之间形成的环形核苷一磷酸。根据连接部位不同，有2′,3′-环核苷酸、2′,5′-环核苷酸和3′,5′-环核苷酸。常见的有环腺苷酸（cAMP）和环鸟苷酸（cGMP"
+  },
+  {
+   "cn": "循环宇宙",
+   "en": "cyclic universe",
+   "source": "天文学名词",
+   "wordNumber": "07.435",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "膨胀和收缩循环发生的宇宙。"
+  },
+  {
+   "cn": "周期性［嗜］中性粒细胞减少症",
+   "en": "cyclic neutropenia",
+   "source": "兽医学名词",
+   "wordNumber": "15.140",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "以嗜中性粒细胞减少为主，所有血细胞成分周期性生成障碍为特征的疾病。"
+  },
+  {
+   "cn": "周期性中性粒细胞减少症",
+   "en": "cyclic neutropenia",
+   "source": "血液学名词",
+   "wordNumber": "6.006",
+   "subjectFullName": "血液学_白细胞数量及功能异常性疾病_白细胞数量异常性疾病_中性粒细胞数量异常性疾病",
+   "subjectName": "中性粒细胞数量异常性疾病",
+   "publishYear": "2022",
+   "definition": "一种病因尚未明确的以周期性发作性严重中性粒细胞减少为特征的良性血液病。发作周期平均为21（12～35）天。其中约1/3的患者有家族史，呈常染色体显性遗传。"
+  },
+  {
+   "cn": "周期性血小板减少症",
+   "en": "cyclic thrombocytopenia",
+   "source": "血液学名词",
+   "wordNumber": "9.017",
+   "subjectFullName": "血液学_出血与血栓性疾病_出血性疾病_血小板异常_血小板数量异常",
+   "subjectName": "血小板数量异常",
+   "publishYear": "2022",
+   "definition": "血小板周期性减少的疾病。伴有不同程度的出血症状，恢复期血小板数量正常，甚至发生血小板增多。"
+  },
+  {
+   "cn": "循环流动性",
+   "en": "cyclic mobility",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2195",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "因静态或动态载荷发生液化开始流动形变，但形变因中等至大的剪切应变下的膨胀而被制止的条件。 "
+  },
+  {
+   "cn": "循环蠕变",
+   "en": "cyclic creep",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0066",
+   "subjectFullName": "机械工程（一）_机械强度_结构疲劳",
+   "subjectName": "结构疲劳",
+   "publishYear": "2021",
+   "definition": "在常幅应力控制下，应变不断提升的现象。"
+  },
+  {
+   "cn": "循环松弛",
+   "en": "cyclic relaxation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0067",
+   "subjectFullName": "机械工程（一）_机械强度_结构疲劳",
+   "subjectName": "结构疲劳",
+   "publishYear": "2021",
+   "definition": "在常幅应力控制下，应变不断下滑的现象。"
+  },
+  {
+   "cn": "循环载荷",
+   "en": "cyclic loading",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0080",
+   "subjectFullName": "机械工程（一）_机械强度_结构疲劳",
+   "subjectName": "结构疲劳",
+   "publishYear": "2021",
+   "definition": "周期性或非周期性经一定时间后重复出现的动载荷。"
+  },
+  {
+   "cn": "循环硬化",
+   "en": "cyclic hardening",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0096",
+   "subjectFullName": "机械工程（一）_机械强度_结构疲劳",
+   "subjectName": "结构疲劳",
+   "publishYear": "2021",
+   "definition": "在低周疲劳试验中进行等应变(或等应力)控制的情况下，应力(或应变)随循环的增加而增加(或减小)，然后达到稳定的现象。"
+  },
+  {
+   "cn": "循环软化",
+   "en": "cyclic softening",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0097",
+   "subjectFullName": "机械工程（一）_机械强度_结构疲劳",
+   "subjectName": "结构疲劳",
+   "publishYear": "2021",
+   "definition": "在低周疲劳试验中进行等应变(或等应力)控制的情况下，应力(或应变)随循环的增加而减小(或增加)，然后达到稳定的现象。"
+  },
+  {
+   "cn": "周期募集",
+   "en": "cyclic recruitment",
+   "source": "畜牧学名词",
+   "wordNumber": "05.143",
+   "subjectFullName": "畜牧学_繁殖_繁殖生理",
+   "subjectName": "繁殖生理",
+   "publishYear": "2020",
+   "definition": "在每个发情周期中，都有部分启动募集后的卵泡(主要是有腔卵泡)对促性腺激素的变化做出应答反应，开始加快生长的过程。"
+  },
+  {
+   "cn": "循环传输",
+   "en": "cyclic transmission",
+   "source": "电力名词",
+   "wordNumber": "06.084",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "一种传输方法,按设定的顺序,报文源被循环地扫描,报文被循环地传输。"
+  },
+  {
+   "cn": "循环伏安法",
+   "en": "cyclic voltammetry",
+   "source": "冶金学名词",
+   "wordNumber": "04.0665",
+   "subjectFullName": "冶金学_冶金物理化学_冶金物理化学研究方法",
+   "subjectName": "冶金物理化学研究方法",
+   "publishYear": "2019",
+   "definition": "一种常用的电化学研究方法。控制电极电势以不同的速率，随时间以三角波形一次或多次反复扫描，使电极上交替发生不同的还原和氧化反应，根据所得的电流-电势曲线形状研究电极过程动力学的方法。"
+  },
+  {
+   "cn": "循环过程",
+   "en": "cyclic processes",
+   "source": "物理学名词",
+   "wordNumber": "05.0248",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "循环光合磷酸化",
+   "en": "cyclic photophosphorylation",
+   "source": "植物学名词",
+   "wordNumber": "11.0219",
+   "subjectFullName": "植物学_植物生理学_植物光合作用",
+   "subjectName": "植物光合作用",
+   "publishYear": "2019",
+   "definition": "与光合作用循环电子传递相偶联的腺苷三磷酸(ATP)形成过程。"
+  },
+  {
+   "cn": "循环群",
+   "en": "cyclic group",
+   "source": "物理学名词",
+   "wordNumber": "08.0188",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "环式光合磷酸化（=循环光合磷酸化）",
+   "en": "cyclic photophosphorylation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "循环光合磷酸化，环式光合磷酸化",
+   "en": "cyclic photophosphorylation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "周期顶极群落",
+   "en": "cyclic climax",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "周期反应",
+   "en": "cyclic reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "周期式反应器",
+   "en": "cyclic reactor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "周期性应力",
+   "en": "cyclic stress",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "循环操作",
+   "en": "cyclic operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "套曲形式",
+   "en": "cyclic form",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "环状单体",
+   "en": "cyclic monomer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "循环伏安图",
+   "en": "cyclic voltammogram",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "循环伏安仪",
+   "en": "cyclic voltammeter",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "循环过程",
+   "en": "cyclic process",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "周期顶极群落",
+   "en": "cyclic climax",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "旋回层序",
+   "en": "cyclic sequence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "旋回沉积作用",
+   "en": "cyclic sedimentation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "环核苷酸",
+   "en": "cyclic nucleotide",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "循环光合磷酸化",
+   "en": "cyclic photophosphorylation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "循环光合磷酸化",
+   "en": "cyclic photophosphorylation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定期修测",
+   "en": "cyclic revision",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "跳周",
+   "en": "cyclic skipping",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偏好管理",
+   "en": "preference management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自行车运动",
+   "en": "cycling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自行车赛场",
+   "en": "bicycle track\",\"cycle stadium\",\"cycling track\",\"velodrome",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子时间基准",
+   "en": "quantum time reference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网参考体系结构",
+   "en": "IoT reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据参考模型",
+   "en": "data reference model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "查询引用模式",
+   "en": "query reference mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自行车比赛",
+   "en": "cycle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自行车骑行裤",
+   "en": "cycling shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "骑行鞋",
+   "en": "cycling shoes",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公路自行车运动",
+   "en": "road cycling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大数据参考体系结构",
+   "en": "big data reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环亚胺",
+   "en": "cyclic imine",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.5.19",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "一类具有亚胺（碳氮双键）结构的大环毒素，急性毒性较高。"
+  },
+  {
+   "cn": "周期性节律",
+   "en": "cyclical rhythms",
+   "source": "社会学名词",
+   "wordNumber": "2.9.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_世界体系理论",
+   "subjectName": "世界体系理论",
+   "publishYear": "2025",
+   "definition": "资本主义世界体系的周期性变化规律。资本主义世界体系不断出现繁荣－稳定－上升－衰退这样的周期，即世界体系的“周期性律动”。世界体系理论关注40-60年的康德拉捷耶夫周期和150300年的“特长周期”。2"
+  },
+  {
+   "cn": "社会循环论",
+   "en": "social cyclical theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.5.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁理论",
+   "subjectName": "社会变迁理论",
+   "publishYear": "2025",
+   "definition": "认为社会变迁是社会周期性的循环往复的变化过程的理论。如中国古代的阴阳五行。德国历史学家斯宾格勒（O.Spengler）、英国历史学家汤因比（A.J.Toynbee）、美国社会学家索罗金（P.A.Sor"
+  },
+  {
+   "cn": "性别偏好",
+   "en": "gender preference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "对于不同性别重此轻彼的选择性对待。可以发生在职场中，如服务性行业和岗位对女性的偏好。也可以发生在生育养育过程中，如常见的男孩偏好，即认定男婴或男孩的价值大于女婴或女孩。怀孕和生育过程中的性别偏好选择会"
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险较为偏爱的一种态度。与能够获得某一数额的确定性收益相比，消费者更愿意选择存在风险但是能够获得同样数额的风险收益"
+  },
+  {
+   "cn": "时间偏好",
+   "en": "time preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体愿意用当前的效用去交换未来效用的偏好。是当前和未来效用的边际替代率。"
+  },
+  {
+   "cn": "陈述偏好法",
+   "en": "stated preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "采用调查的方式，让被调查人表达疾病治疗方案所带来的效益，以此对偏好进行估算的一种分析方法。"
+  },
+  {
+   "cn": "显示偏好法",
+   "en": "revealed preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在实际购买决策行为中观察个人的偏好强度的一种分析方法。"
+  },
+  {
+   "cn": "时间不一致偏好",
+   "en": "time-inconsistent preference ",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.4",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体对商品和服务的偏好在不同时期有所变化。"
+  },
+  {
+   "cn": "抗环瓜氨酸肽抗体",
+   "en": "anti-cyclic citrullinated peptide antibody, anti-CCP antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.22",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "类风湿关节炎患者血清中的自身抗体，具有较高特异性。环瓜氨酸肽（CCP）是抗瓜氨酸化蛋白抗体的共同抗原决定簇，抗CCP抗体阳性患者更易发生关节损伤且骨破坏较为严重，并与疾病活动性相关。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "参考条件下待测量参考值（Cr,0）的响应R0。      ，Gr,0是相应的指示值。"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.10",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "在应急照射情况或现存照射情况下，设定的一个剂量、危险或活度浓度水平。高于这个水平，允许照射的发生是不适当的；低于这个水平，防护和安全的最优化方案可继续执行。参考水平值的选择取决于所考虑的可能发生照射的"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，某一特定人群，具有典型的形态特性、组织特性、生理特性等的数据库，以便于对人群中不同个体能在同一生物学基础上统一对待，对不同群体间能用统一的标准进行比较。"
+  },
+  {
+   "cn": "男性参考人",
+   "en": "reference male",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的男性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "女性参考人",
+   "en": "reference female",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的女性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "参考体模",
+   "en": "reference phantom",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.13",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会第110号出版物（ICRP，2009）中定义的人体计算模型（基于医学成像数据的男性或女性体素模型）、第89号出版物（ICRP，2002）中定义了男性参考人和女性参考人的解剖和生理特征"
+  },
+  {
+   "cn": "参考工作人员",
+   "en": "reference worker",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.14",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "由全身生物动力学、人体呼吸道、人体消化道和剂量学等模型和参数组成的理想化成人。其生物动力学模型的结构和参数值，以参考男性的参数值为依据，未考虑性别、年龄、种族和其他个体特异性特征的变化。"
+  },
+  {
+   "cn": "参考平面",
+   "en": "reference plane",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.36",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在模体中吸收剂量最大值处或与辐射类型相对应的某一特定深度下垂直辐射束轴且平行于模体表面的平面。"
+  },
+  {
+   "cn": "参考点",
+   "en": "reference point",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.40",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "参考平面与辐射束轴相交处的点。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

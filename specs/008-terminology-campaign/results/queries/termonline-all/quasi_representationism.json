@@ -1,0 +1,492 @@
+{
+ "key": "quasi-representationism",
+ "term": "quasi-representationism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:41:28+00:00",
+ "status": "ok",
+ "note": "variant=quasi-representationism; 审定公布名词库=219; 海峡两岸名词对照库=68; 其他来源数据库=4; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "准晶体",
+   "en": "quasi crystal",
+   "source": "地质学名词",
+   "wordNumber": "02.00.010",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "内部质点的排列符合短程有序，有严格周期位置序和自相似分形结构，但不体现周期平移重复，即不存在格子构造的固体。准晶体的结构具有自相似特性，形成准晶格并具有晶体所不能有的5次对称轴。主要在人工合成的合金中"
+  },
+  {
+   "cn": "准裂变",
+   "en": "quasi-fission",
+   "source": "核科学技术名词",
+   "wordNumber": "1.348",
+   "subjectFullName": "核科学技术_核物理_核反应类",
+   "subjectName": "核反应类",
+   "publishYear": "2024",
+   "definition": "复核体系的质量、角动量等多个自由度尚未平衡而发生的裂‍变。"
+  },
+  {
+   "cn": "准中性",
+   "en": "quasi-neutrality",
+   "source": "核科学技术名词",
+   "wordNumber": "3.131",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "电子的总电荷近似等于离子的总电荷而使等离子体呈电中性的特‍性。"
+  },
+  {
+   "cn": "似大地水准面",
+   "en": "quasi-geoid",
+   "source": "测绘学名词",
+   "wordNumber": "02.212",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "从地面点沿正常重力线量取正常高所得端点构成的封闭曲面。"
+  },
+  {
+   "cn": "准租金",
+   "en": "quasi-rent",
+   "source": "经济学名词",
+   "wordNumber": "03.183",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "在短期内供给量不变，但在长期内却是可变的要素的价格。"
+  },
+  {
+   "cn": "准同步并列",
+   "en": "quasi-synchronization",
+   "source": "电力名词",
+   "wordNumber": "04.286",
+   "subjectFullName": "电力_电力系统",
+   "subjectName": "电力系统",
+   "publishYear": "2020",
+   "definition": "将同步发电机并入电网的一种方法。它将运转的发电机先加励磁并待其达到同步条件(电压的频率、相位、幅值与系统的接近)时进行并列操作。"
+  },
+  {
+   "cn": "准同义词",
+   "en": "quasi-synonym",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.267",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "在同一语言的部分语境中与某词概念相近的词。同义词和准同义词之间的划分具有主观性和很强的语境相关性。准同义词有时在某一特定的标引系统中会作为同义词使用。"
+  },
+  {
+   "cn": "准动量",
+   "en": "quasi-momentum",
+   "source": "物理学名词",
+   "wordNumber": "02.0259",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "准外延",
+   "en": "quasi-epitaxy",
+   "source": "物理学名词",
+   "wordNumber": "08.0969",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "准连续化",
+   "en": "quasi-continuation",
+   "source": "冶金学名词",
+   "wordNumber": "05.1631",
+   "subjectFullName": "冶金学_钢铁冶金_冶金流程工程学",
+   "subjectName": "冶金流程工程学",
+   "publishYear": "2019",
+   "definition": "高效率、快节奏的间歇操作和连续化操作在时间轴上耦合成为接近于连续的运转过程。"
+  },
+  {
+   "cn": "准平衡",
+   "en": "quasi-equilibrium",
+   "source": "物理学名词",
+   "wordNumber": "09.1383",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "准玻色子",
+   "en": "quasi-boson",
+   "source": "物理学名词",
+   "wordNumber": "09.1382",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "准裂变",
+   "en": "quasi-fission",
+   "source": "物理学名词",
+   "wordNumber": "09.0641",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "准周期振动",
+   "en": "quasi-oscillation",
+   "source": "物理学名词",
+   "wordNumber": "11.0497",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "准分子",
+   "en": "quasi-molecule",
+   "source": "物理学名词",
+   "wordNumber": "07.0274",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "准磁通量子",
+   "en": "quasi-fluxon",
+   "source": "物理学名词",
+   "wordNumber": "08.3224",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "准中性",
+   "en": "quasi-neutrality",
+   "source": "物理学名词",
+   "wordNumber": "10.0003",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "准击波",
+   "en": "quasi-shock",
+   "source": "物理学名词",
+   "wordNumber": "10.0255",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "准电子",
+   "en": "quasi-electron",
+   "source": "物理学名词",
+   "wordNumber": "05.0728",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "准模",
+   "en": "quasi-mode",
+   "source": "物理学名词",
+   "wordNumber": "10.0237",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "准地转",
+   "en": "quasi-geostrophic",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "准平衡",
+   "en": "quasi-equilibrium",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "准无辐散",
+   "en": "quasi-nondivergence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "准周期性",
+   "en": "quasi-periodic",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拟线性化",
+   "en": "quasi-linearization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "准实验",
+   "en": "quasi experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "似对映体",
+   "en": "quasi-enantiomer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "似外消旋体",
+   "en": "quasi racemate",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "准合同",
+   "en": "quasi-contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "准货币",
+   "en": "quasi-money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "准市场",
+   "en": "quasi-market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "准连锁,拟连锁",
+   "en": "quasi-linkage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "似大地水准面",
+   "en": "quasi-geoid",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "准静态",
+   "en": "quasi-static",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类药品",
+   "en": "quasi drugs",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "类星体",
+   "en": "quasar\",\"quasi-stellar",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "准地转方程",
+   "en": "quasi-geostrophic equations",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "准地转理论",
+   "en": "quasi-geostrophic theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "准地转流",
+   "en": "quasi-geostrophic current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "准地转平衡",
+   "en": "quasi-geostrophic equilibrium",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "准立法权",
+   "en": "quasi-legislative power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准司法权",
+   "en": "quasi-judicial power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准实验",
+   "en": "quasi-experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "研究者不随机地把实验单位分配到不同实验组的实验方法。"
+  },
+  {
+   "cn": "准市场机制",
+   "en": "quasi-market mechanism",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "供应方多元参与和相互竞争的公共服务提供机制。在政府的社会服务计划中，引入市场竞争机制，让多元服务提供者参与招标，让服务接受方有选择权，提高公共服务的质量与效率。"
+  },
+  {
+   "cn": "准公共产品",
+   "en": "quasi-public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上有限的非竞争性或受益上有限的非排他性的公共产品。"
+  },
+  {
+   "cn": "准清洁作业区",
+   "en": "quasi-cleaning working area",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.16",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "生产过程中根据食品加工工艺需要确定的清洁程度要求介于清洁作业区和一般作业区之间的食品生产作业区域。"
+  },
+  {
+   "cn": "准低温储藏",
+   "en": "quasi-low temperature storage",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.22",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "平均粮温保持在20℃及以下，局部最高粮温不超过25℃的储粮方式"
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representations",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "某一群体所共享的价值、观念及实践系统。作为一种社会共识性的知识体系，它具有双重功能，一是为个体在特定生活世界中的生存进行定向，二是提供可借以进行社会交流及对现实世界与个体、群体历史进行明晰分类的符号，"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

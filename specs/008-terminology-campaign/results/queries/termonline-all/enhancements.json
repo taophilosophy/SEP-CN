@@ -1,0 +1,632 @@
+{
+ "key": "enhancements",
+ "term": "enhancements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:52:17+00:00",
+ "status": "ok",
+ "note": "variant=enhancements; 审定公布名词库=293; 海峡两岸名词对照库=101; 其他来源数据库=10; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "农学名词",
+   "wordNumber": "06.419",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "在基因组中，结合转录因子后，可增强基因表达的DNA调控元件。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0533",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "存在于基因组中对基因表达有增强作用的DNA调控元件。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer ",
+   "source": "草学名词",
+   "wordNumber": "5.0136",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "畜牧学名词",
+   "wordNumber": "04.125",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "增加同它连锁的基因转录活性的DNA序列。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0511",
+   "subjectFullName": "食品科学技术_食品科学_食品生物技术_食品微生物基因工程",
+   "subjectName": "食品微生物基因工程",
+   "publishYear": "2020",
+   "definition": "一种能够提高转录效率的顺式调控元件。通常长度为100~200bp，也和启动子一样由若干组件构成，基本核心组件常为8~12bp，可以单拷贝或多拷贝串联形式存在。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "植物学名词",
+   "wordNumber": "16.0151",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "发现于真核生物和一些真核生物病毒中的一类调控序列。当位于某个基因上或下游几千碱基对时可以增强这个基因的转录。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "药学名词",
+   "wordNumber": "05.368",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "远离转录起始点(1~30kb)、决定基因的时间、空间特异性表达、增强启动子转录活性的DNA序列。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.141",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "存在于基因组中的对基因表达有调控作用的DNA调控元件。位置不定，结合转录因子后，可增强基因表达。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.714",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer;enhancer element",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.267",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "增强真核基因转录的一段DNA序列。与反式作用因子结合而起作用。能够在相对于启动子的任何方向和任何位置（上游或下游）上发挥作用。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer,enhancer element",
+   "source": "遗传学名词",
+   "wordNumber": "03.276",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "增强真核基因转录的一类调节序列。"
+  },
+  {
+   "cn": "种质创新",
+   "en": "germplasm enhancement",
+   "source": "农学名词",
+   "wordNumber": "06.062",
+   "subjectFullName": "作物基因组学与遗传育种_作物种质和基因资源",
+   "subjectName": "作物种质和基因资源",
+   "publishYear": "2025",
+   "definition": "通过杂交重组、远缘杂交、化学物理诱变、基因编辑创制等方法基本满足育种需求的育种方法。"
+  },
+  {
+   "cn": "种子强化",
+   "en": "seed enhancement",
+   "source": "农学名词",
+   "wordNumber": "06.571",
+   "subjectFullName": "作物基因组学与遗传育种_种子科学与种业",
+   "subjectName": "种子科学与种业",
+   "publishYear": "2025",
+   "definition": "提高种子生活力和生产力的方法与技术。包括种子引发和种子包衣等。"
+  },
+  {
+   "cn": "相使",
+   "en": "mutual enhancement",
+   "source": "兽医学名词",
+   "wordNumber": "19.299",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "性能功效有某种共性的不同类药物配合应用，而以一种药物为主，另一种药物为辅，能提高主药功效的配伍关系。"
+  },
+  {
+   "cn": "清晰度增强",
+   "en": "sharpness enhancement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.085",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "对图像细节边缘的对比度予以增强，使其清晰度得以提升的处理。"
+  },
+  {
+   "cn": "信号增强",
+   "en": "signal enhancement",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1096",
+   "subjectFullName": "地球物理学_地震科学_地震学与地球内部构造",
+   "subjectName": "地震学与地球内部构造",
+   "publishYear": "2022",
+   "definition": "通过信号处理技术，使关心的信号增强的方法。 "
+  },
+  {
+   "cn": "图像增强",
+   "en": "image enhancement",
+   "source": "光学名词",
+   "wordNumber": "17.107",
+   "subjectFullName": "光学_图像处理技术",
+   "subjectName": "图像处理技术",
+   "publishYear": "2021",
+   "definition": "通过算法改善图像的视觉效果，或将图像转换成一种更适合人或机器进行分析和处理的形式的过程。例如，采用一系列技术有选择地突出某些感兴趣的信息，同时抑制一些不需要的信息，提高图像的使用价值。"
+  },
+  {
+   "cn": "等增强",
+   "en": "equal enhancement",
+   "source": "消化内镜学名词",
+   "wordNumber": "6.153",
+   "subjectFullName": "消化内镜学_消化内镜表现",
+   "subjectName": "消化内镜表现",
+   "publishYear": "2021",
+   "definition": "病灶内造影增强信号等于周围组织的声像特征。"
+  },
+  {
+   "cn": "无增强",
+   "en": "non-enhancement",
+   "source": "消化内镜学名词",
+   "wordNumber": "6.154",
+   "subjectFullName": "消化内镜学_消化内镜表现",
+   "subjectName": "消化内镜表现",
+   "publishYear": "2021",
+   "definition": "病灶内未见造影增强信号的声像特征。"
+  },
+  {
+   "cn": "高增强",
+   "en": "high enhancement",
+   "source": "消化内镜学名词",
+   "wordNumber": "6.155",
+   "subjectFullName": "消化内镜学_消化内镜表现",
+   "subjectName": "消化内镜表现",
+   "publishYear": "2021",
+   "definition": "病灶内造影增强信号高于周围组织的声像特征。"
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "增强子",
+   "en": "enhancer\",\"enhancer element",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "增强因子",
+   "en": "enhancement factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自我提升",
+   "en": "self enhancement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "边缘增强， 边缘强化",
+   "en": "edge enhancement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反差增强",
+   "en": "contrast enhancement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "图像增强",
+   "en": "image enhancement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "资源增殖",
+   "en": "stock enhancement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "边缘增强",
+   "en": "edge enhancement",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "彩色增强",
+   "en": "color enhancement",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "反差增强",
+   "en": "contrast enhancement",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "图像增强",
+   "en": "image enhancement",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "促瘤生长",
+   "en": "tumor enhancement",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫增强",
+   "en": "immunological enhancement",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫促进",
+   "en": "immunological enhancement",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "边缘增强",
+   "en": "edge enhancement",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反差增强",
+   "en": "contrast enhancement",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人类增强",
+   "en": "human enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用增级机制",
+   "en": "credit enhancement mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强化口令管理",
+   "en": "enhanced password management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准维护增强",
+   "en": "standard maintenance and enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强型移动宽带",
+   "en": "enhanced mobile broadband (eMBB)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《网络安全加强法》（美国）",
+   "en": "Cyber Security Enhancement Act (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "提高脱贫质量",
+   "en": "enhancing the quality of poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加强国家间政策协调",
+   "en": "to enhance policy coordination between countries",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大连接物联网",
+   "en": "massive machine-type communication & enhanced machine-type communication (mMTC & eMTC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "促排",
+   "en": "elimination enhancement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.5",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "采用药物和其他物理、化学和生物方法阻止放射性核素的吸收和沉积，并促使已沉积于器官或组织内的放射性核素加速排出体外的过程与操作。"
+  },
+  {
+   "cn": "自我提升",
+   "en": "self-enhancement",
+   "source": "社会学名词",
+   "wordNumber": "4.1.6.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我发展",
+   "subjectName": "自我发展",
+   "publishYear": "2025",
+   "definition": "个体以一种有利于对自己做正面评价的方式收集和解释有关自我的信息，或者说选择性地关注、强调与夸大自我的积极特征，而不是缺点。既是一种促使人们选择性地针对与自我有关的积极信息做出反应的需要或动机，也是在涉"
+  },
+  {
+   "cn": "增味剂",
+   "en": "flavor enhancer",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.16",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "补充或增强食品原有风味的物质。"
+  },
+  {
+   "cn": "碘强化剂",
+   "en": "iodine enhancer",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.16",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "按规定可以在食用盐中加入的碘酸钾、碘化钾或海藻碘等碘营养强化剂，主要为碘酸钾。"
+  },
+  {
+   "cn": "氧增强比",
+   "en": "oxygen enhancement ratio",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.26",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "缺氧与有氧条件下受照射的生物体出现同等生物效应所需吸收剂量的比值。"
+  },
+  {
+   "cn": "超声造影",
+   "en": "contrast-enhanced ultrasound",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "利用一种影像对比增强剂和血流示踪剂来提高普通二维超声、三维超声的分辨率、影像特 征的敏感性和特异性的技术。可反映和观察正常组织和病变组织的血流灌注情况。"
+  },
+  {
+   "cn": "能力提升计划",
+   "en": "enhancing international student programs",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.1.1.1",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "通过培训、工作坊和课程资源，帮助学生建立社会、文化和交流能力的过程。"
+  },
+  {
+   "cn": "增强企业活力",
+   "en": "enhance the vitality of enterprises",
+   "source": "马克思主义",
+   "wordNumber": "02.0408",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "企业作为自主经营、自负盈亏的商品生产者和经营者，遵循客观经济规律要求，使各种生产要素充分发挥作用，使企业自身在市场竞争中呈现出良好的自我发展状态。"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "以光和声为直接刺激，结合语言指示的强化（如令受试者看到某种颜色时立刻按压电键，而看到另一种颜色光时则不要按压电键），形成手指或脚趾按压的运动效应，据此来评价脑力工作能力变化的方法。"
+  },
+  {
+   "cn": "代谢型冷习服",
+   "en": "enhanced metabolic type cold-acclimation",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.5.1",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷习服",
+   "subjectName": "冷习服",
+   "publishYear": "2025",
+   "definition": "机体为了抵御寒冷，保持体心温度恒定，出现代谢活动增强、氧耗增加，产热增加，以非寒战产热为主的习服类型。"
+  },
+  {
+   "cn": "人为活动增加的天然放射性物质",
+   "en": "technologically enhanced naturally occurring radioactive material, TENORM",
+   "source": "放射卫生学",
+   "wordNumber": "2.9",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "因人类工业活动而使放射性活度浓度明显增加的天然物质。活动主要包括稀土提取、钍萃取和应用、非铀矿开采、油气田开采、二氧化钛制造、磷酸盐加工、锆和氧化锆生产、金属生产、燃煤、水处理和建筑材料生产等。"
+  },
+  {
+   "cn": "两步移动搜寻法",
+   "en": "enhanced two-step floating catchment area method",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.14.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "将区域细分,减少区域内部差异，评价空间可及性的方法。"
+  },
+  {
+   "cn": "有机构成提高论",
+   "en": "theory of enhancement of organic composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "05.0138",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "有机构成提高论立足于马克思主义的价值理论和有机构成理论，来考察有机构成提高与利润率下降、经济危机产生之间的联系。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

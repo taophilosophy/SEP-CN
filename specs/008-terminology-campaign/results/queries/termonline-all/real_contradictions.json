@@ -1,0 +1,772 @@
+{
+ "key": "real contradictions",
+ "term": "real contradictions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:05:19+00:00",
+ "status": "ok",
+ "note": "variant=real contradictions; 审定公布名词库=1570; 海峡两岸名词对照库=346; 其他来源数据库=61; 预公布名词数据库=60; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "矛盾",
+   "en": "contradiction",
+   "source": "数学名词",
+   "wordNumber": "01.0023",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "政策抵触",
+   "en": "policy contradiction",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0220",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "在一个特殊的政策计划方案内或在一些政策计划方案间存在目标冲突、手段冲突及目标与手段不匹配的矛盾现象。"
+  },
+  {
+   "cn": "实际价格",
+   "en": "real price",
+   "source": "农学名词",
+   "wordNumber": "19.024",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "经过物价因素调整的价格。"
+  },
+  {
+   "cn": "真胶体",
+   "en": "real-colloid",
+   "source": "核科学技术名词",
+   "wordNumber": "2.003",
+   "subjectFullName": "核科学技术_核化学与放射化学_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2024",
+   "definition": "微量放射性核素和相对离子形成难溶化合物，但有时析出的颗粒太小，不足以形成沉淀，而形成的分散在溶液中的胶体(直径为1～100 nm)。"
+  },
+  {
+   "cn": "超真实",
+   "en": "hyper real",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.116",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "拟像摆脱真实存在的约束，导致传统的真实与虚假、幻觉与实在的二元世界消失，呈现一种比实在的真实更真实的状况。在超真实世界中，符号的间接存在再次让位于直接呈现，人们不能再主动追寻事物的本真存在。这一概念由"
+  },
+  {
+   "cn": "现实读者",
+   "en": "real reader",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.01.016",
+   "subjectFullName": "编辑与出版学_编辑_选题",
+   "subjectName": "选题",
+   "publishYear": "2022",
+   "definition": "具有一定阅读能力与购买能力并表现出购买行为和阅读意向的出版物消费者。"
+  },
+  {
+   "cn": "实在受众",
+   "en": "real audience",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.055",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "对大众传播媒介已经有受传行为的受众。"
+  },
+  {
+   "cn": "实时",
+   "en": "real-time",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2048",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "与进行过程中的事件同时。 "
+  },
+  {
+   "cn": "真实气体",
+   "en": "real gas",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0245",
+   "subjectFullName": "地球物理学_地壳流体科学_气",
+   "subjectName": "气",
+   "publishYear": "2022",
+   "definition": "气体分子本身占有容积，分子与分子间存在相互作用力的实际气体。 "
+  },
+  {
+   "cn": "实像",
+   "en": "real image",
+   "source": "光学名词",
+   "wordNumber": "14.002",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "由实际光线会聚而成的，可以形成在屏幕上的像。"
+  },
+  {
+   "cn": "实模式",
+   "en": "real mode",
+   "source": "光学名词",
+   "wordNumber": "16.037",
+   "subjectFullName": "光学_显示技术",
+   "subjectName": "显示技术",
+   "publishYear": "2021",
+   "definition": "微透镜阵列与微图像阵列的距离大于微透镜阵列焦距的一种集成成像显示模式。"
+  },
+  {
+   "cn": "实地图",
+   "en": "real map",
+   "source": "测绘学名词",
+   "wordNumber": "04.096",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "空间数据可视化的地图，包括纸质地图、屏幕地图、地球仪等。"
+  },
+  {
+   "cn": "真实余额",
+   "en": "real balance",
+   "source": "经济学名词",
+   "wordNumber": "04.125",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "指个人或整个经济所持有的货币余额的实际价值，等于货币余额除以物价指数之后所得到的数字。“真实”反映了人没有“货币幻觉”这一基本假设。任何完整规定的货币需求函数都有一个相应的特性，即其自变量是真实余额。"
+  },
+  {
+   "cn": "实际GDP",
+   "en": "real GDP",
+   "source": "经济学名词",
+   "wordNumber": "04.127",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "等于一年中按基年价格计算的国内生产产品的价值之和。"
+  },
+  {
+   "cn": "实际工资",
+   "en": "real wage",
+   "source": "经济学名词",
+   "wordNumber": "07.054",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "劳动者用一定数量的货币工资所能购买到的商品或服务数量。由于剔除了货币购买力或物价水平变动的影响，此时的工资能够确切反映工人的实际收入水平。"
+  },
+  {
+   "cn": "真实气体",
+   "en": "real gas",
+   "source": "电力名词",
+   "wordNumber": "01.441",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "不满足理想气体状态方程的实际气体。"
+  },
+  {
+   "cn": "真实溶液",
+   "en": "real solution",
+   "source": "冶金学名词",
+   "wordNumber": "04.0168",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "不具备任意组元在全浓度范围都符合拉乌尔定律等理想液态混合物性质的溶液。"
+  },
+  {
+   "cn": "实际气体",
+   "en": "real gas",
+   "source": "冶金学名词",
+   "wordNumber": "04.0101",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "由于实际存在的气体并不严格遵循理想气体定律。一般认为温度大于500K或者压强不高于100kPa时的气体为理想气体，不满足这些条件的实际存在的气体皆为实际气体。"
+  },
+  {
+   "cn": "真实气体",
+   "en": "real gas",
+   "source": "物理学名词",
+   "wordNumber": "05.0061",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "实时",
+   "en": "real time",
+   "source": "物理学名词",
+   "wordNumber": "06.0122",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "即时",
+   "en": "real time",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实际大气",
+   "en": "real atmosphere",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "真实组成",
+   "en": "real composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真实气体",
+   "en": "real gas",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实际阶段",
+   "en": "real stage",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真动",
+   "en": "real movement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实际成本",
+   "en": "real cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际负债",
+   "en": "real liability",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际汇率",
+   "en": "real rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际货币",
+   "en": "real money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际交易",
+   "en": "real transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际利息",
+   "en": "real interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际收入",
+   "en": "real income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际收益",
+   "en": "real earning",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际投资",
+   "en": "real investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际支出",
+   "en": "real expenditure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实物资本",
+   "en": "real capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实物资产",
+   "en": "real asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实时",
+   "en": "real time",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实像",
+   "en": "real image",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "物权",
+   "en": "real right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时映射",
+   "en": "real-time mapping",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时多媒体",
+   "en": "real-time multimedia",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时处理",
+   "en": "real-time processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新实体经济",
+   "en": "new real economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不动产众筹",
+   "en": "real estate crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实网演练",
+   "en": "real network drill",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时定价",
+   "en": "real-time pricing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时发布",
+   "en": "real-time updates",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实际比赛时间",
+   "en": "real contest time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据实时分析",
+   "en": "real-time data analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时远程复制",
+   "en": "real-time remote replication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "矛盾",
+   "en": "Paradox of the Spear and the Shield / Contradiction",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市全状态实时可视化",
+   "en": "real-time, full-state urban visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球海洋观测网",
+   "en": "Array for Real-time Geostrophic Oceanography (ARGO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实网攻防演练",
+   "en": "attack and defense drill on real network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "矛盾",
+   "en": "contradiction",
+   "source": "马克思主义",
+   "wordNumber": "01.0084",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在唯物辩证法中，对立面既对立又统一、既相互排斥又相互吸引的关系。黑格尔从唯心主义的角度阐释了矛盾即对立统一的思想。马克思、恩格斯批判地改造并吸收了黑格尔唯心辩证法合理内核，使矛盾即对立统一的思想具有了"
+  },
+  {
+   "cn": "社会矛盾",
+   "en": "social contradiction",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会内部各个对立面之间既相互依赖又相互排斥的对立统一关系或状态。存在于一切社会形态之中，规定社会的性质和基本结构，贯穿于人类社会发展始终，推动着人类社会由低级向高级发展，如生产力和生产关系的矛盾、经济"
+  },
+  {
+   "cn": "阶级矛盾",
+   "en": "class contradiction",
+   "source": "马克思主义",
+   "wordNumber": "03.0095",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中不同阶级之间因经济、政治及其他方面的利益和要求的差别而产生的矛盾，是阶级关系的基本内容之一。阶级矛盾依据矛盾的对立程度和解决方式不同，分为对抗性矛盾和非对抗性矛盾两种。"
+  },
+  {
+   "cn": "党内矛盾",
+   "en": "innerparty contradiction",
+   "source": "马克思主义",
+   "wordNumber": "03.0473",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "共产党内部不同思想观点的分歧和对立。本质是无产阶级思想和各种非无产阶级思想的矛盾，其中最主要的是无产阶级思想与农民、小资产阶级思想的矛盾。有些是社会上的阶级斗争的反映，大量的是思想认识上的先进与落后、"
+  },
+  {
+   "cn": "民族矛盾",
+   "en": "ethnic contradiction",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0042",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间因政治经济利益不同而产生的矛盾。阶级社会的民族矛盾包括多民族国家内部压迫民族的统治阶级与被压迫民族之间的矛盾，帝国主义与殖民地、半殖民地人民之间的矛盾，是对抗性的。社会主义社会消灭了民族压迫和"
+  },
+  {
+   "cn": "主要矛盾与次要矛盾",
+   "en": "principal contradiction and secondary contradiction",
+   "source": "马克思主义",
+   "wordNumber": "01.0086",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法认为，在复杂事物之中，存在着许多矛盾，其中规定事物和发展阶段、过程的本质并决定着其他矛盾存在和发展的矛盾称为主要矛盾，而被决定的其他矛盾则被称为次要矛盾。次要矛盾为主要矛盾所支配,也反过来对"
+  },
+  {
+   "cn": "资本主义矛盾",
+   "en": "contradictions of capitalism",
+   "source": "马克思主义",
+   "wordNumber": "02.0179",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义制度中存在的各种矛盾和冲突。其中起决定作用的为资本主义基本矛盾，即生产社会化与生产资料资本主义私有制之间的矛盾。"
+  },
+  {
+   "cn": "资本主义文化矛盾",
+   "en": "cultural contradictions of capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.64",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "现代资本主义社会中社会结构、政治与文化三个独立领域及其运行原则之间的对立。贝尔(Daniel Bell）认为掌管经济的是效益原则，决定政治运转的是平等原则，而引导文化的是自我实现或自我满足原则。这三个"
+  },
+  {
+   "cn": "对抗性矛盾和非对抗性矛盾",
+   "en": "antagonistic and nonantagonitic contradictions",
+   "source": "马克思主义",
+   "wordNumber": "01.0234",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对抗性矛盾是指矛盾双方在根本性质和根本利益上互相敌对、不可调和的矛盾，其斗争形式一般表现为剧烈的外部冲突。非对抗性矛盾是指矛盾双方在根本利益一致基础上的矛盾，一般不表现为剧烈的外部冲突，即不表现为对抗"
+  },
+  {
+   "cn": "人民内部矛盾",
+   "en": "contradictions among the people",
+   "source": "马克思主义",
+   "wordNumber": "01.0238",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在人民根本利益一致基础上的矛盾。它的范围随着“人民”这一概念内涵的变化而发生变化，因而在不同国家和各个国家不同的历史时期，人民内部矛盾的内容是不同的。中华人民共和国成立以后，人民内部矛盾包括工人阶级内"
+  },
+  {
+   "cn": "帝国主义的主要矛盾",
+   "en": "main contradictions of imperialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0266",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "帝国主义时期，资本主义世界的主要矛盾有：帝国主义国家内部无产阶级和资产阶级的矛盾；殖民地、半殖民地和附属国与帝国主义国家之间的矛盾；帝国主义国家之间的矛盾。这些矛盾是由垄断这一帝国主义的经济基础决定的"
+  },
+  {
+   "cn": "资本主义文化矛盾",
+   "en": "cultural contradictions of capitalism",
+   "source": "马克思主义",
+   "wordNumber": "05.0100",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于丹尼尔·贝尔（Daniel Bell）《资本主义文化矛盾》。指资本主义的经济政治和文化各自拥有相互矛盾的轴心原则——分别是效益原则、平等原则与自我实现原则，它们之间的悖论，产生机制断裂，造成了资"
+  },
+  {
+   "cn": "实在规则",
+   "en": "real rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.17",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "被实际适用的规则。美国现实主义法学的代表人物卡尔·卢埃林提出的概念，与纸面规则相对应。"
+  },
+  {
+   "cn": "现实的个人",
+   "en": "real individual",
+   "source": "马克思主义",
+   "wordNumber": "01.0135",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“抽象的个人”相对。指处于现实历史条件和社会关系中的人类个体。马克思以之作为历史的现实前提。认为以一定的方式进行生产活动的一定的个人之间必然会发生一定的社会关系。这种个人不是他们自己或别人想像中的抽"
+  },
+  {
+   "cn": "实际工资",
+   "en": "real wage",
+   "source": "马克思主义",
+   "wordNumber": "02.0146",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“名义工资”相对应。指工人用货币工资所能买到的生活资料和服务的数量。实际工资和名义工资存在着密切的联系。其它条件不变时，工人所得的名义工资越高，所能购买的生活资料和服务数量就越多，因而实际工资也就越"
+  },
+  {
+   "cn": "实体整合",
+   "en": "real integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.7",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "卫生服务提供者以资产和所有权整合为基础，形成一个独立法人机构对机构内资源统一管理和调配的资源整合形式。"
+  },
+  {
+   "cn": "主要矛盾和次要矛盾",
+   "en": "primary and the secondary contradictions",
+   "source": "马克思主义",
+   "wordNumber": "01.0231",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "矛盾特殊性的一种情形，表明诸种矛盾在矛盾体系中所处地位和作用的哲学范畴。主要矛盾是处于支配地位的、对事物的发展过程起决定作用的矛盾，规定或影响着事物复杂矛盾体系中其他矛盾的存在和发展；次要矛盾则是处于"
+  },
+  {
+   "cn": "社会主义社会的基本矛盾",
+   "en": "basic contradictions of socialist society",
+   "source": "马克思主义",
+   "wordNumber": "01.0235",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "生产力和生产关系之间、经济基础和上层建筑之间的矛盾，毛泽东1957年在《关于正确处理人民内部矛盾的问题》一文中首次提出。"
+  },
+  {
+   "cn": "矛盾的普遍性和特殊性",
+   "en": "universality and particularity of contradiction",
+   "source": "马克思主义",
+   "wordNumber": "01.0229",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "矛盾的普遍性是指矛盾存在于一切事物的发展过程之中，矛盾存在于一切事物发展过程的始终。矛盾的特殊性是指具体事物的矛盾以及每一矛盾的各个方面都有其特点。矛盾的普遍性与特殊性的关系是共性和个性、一般和个别的"
+  },
+  {
+   "cn": "矛盾的同一性和斗争性",
+   "en": "identity and struggle of contradiction",
+   "source": "马克思主义",
+   "wordNumber": "01.0230",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一切矛盾着的东西，互相联系着，不但在一定条件之下共处于一个统一体中，而且在一定条件之下互相转化，这就是矛盾的同一性的全部意义。矛盾的斗争性，是指矛盾着的对立面之间相互排斥、相互对立的性质。同一性和斗争"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

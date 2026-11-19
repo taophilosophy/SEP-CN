@@ -1,0 +1,782 @@
+{
+ "key": "desert pragmatist",
+ "term": "desert pragmatist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:11:15+00:00",
+ "status": "ok",
+ "note": "variant=desert pragmatist; 审定公布名词库=646; 海峡两岸名词对照库=164; 其他来源数据库=27; 预公布名词数据库=42; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "实用主义教育学",
+   "en": "pragmatist pedagogy",
+   "source": "教育学名词",
+   "wordNumber": "01.007",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "19世纪末产生于美国，以杜威（John Dewey）为代表，以实用主义哲学为理论基础的教育学说。主张“教育即生活”、“学校即社会”、“儿童中心”以及“做中学”等观点。"
+  },
+  {
+   "cn": "荒漠",
+   "en": "desert",
+   "source": "植物学名词",
+   "wordNumber": "13.0436",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "干旱和极干旱气候条件下以稀疏分布的超旱生植物为建群种或几乎缺少高等植物的植被类型或自然地理景观类型。"
+  },
+  {
+   "cn": "荒漠",
+   "en": "desert",
+   "source": "林学名词",
+   "wordNumber": "08.163",
+   "subjectFullName": "林学_水土保持与荒漠化防治_荒漠化防治",
+   "subjectName": "荒漠化防治",
+   "publishYear": "2016",
+   "definition": "降水量少而蒸发量大、具强烈大陆性气候特征、植被稀疏而地面组成物质粗瘠的地区。按地貌形态和地表物质组成分为沙漠、岩漠、泥漠、盐漠、砾漠等。"
+  },
+  {
+   "cn": "荒漠",
+   "en": "desert",
+   "source": "地理学名词",
+   "wordNumber": "02.051",
+   "subjectFullName": "地理学_自然地理学",
+   "subjectName": "自然地理学",
+   "publishYear": "2006",
+   "definition": "干旱气候条件下形成的植被稀疏的地理景观。"
+  },
+  {
+   "cn": "沙漠",
+   "en": "desert",
+   "source": "土壤学名词",
+   "wordNumber": "08.030",
+   "subjectFullName": "土壤学_土壤侵蚀与水土保持",
+   "subjectName": "土壤侵蚀与水土保持",
+   "publishYear": "1998",
+   "definition": "为流沙、沙丘所覆盖的地区。"
+  },
+  {
+   "cn": "沙漠",
+   "en": "desert",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.268",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "沙漠地貌",
+   "en": "desert landform,desert geomorphology",
+   "source": "地理学名词",
+   "wordNumber": "13.082",
+   "subjectFullName": "地理学_沙漠学",
+   "subjectName": "沙漠学",
+   "publishYear": "2006",
+   "definition": "狭义的沙漠地貌即风积地貌，广义的沙漠地貌除各种风成地貌还包括：沙漠中的干河床、干湖盆、边缘的干燥剥蚀山地等。"
+  },
+  {
+   "cn": "沙漠漆",
+   "en": "desert varnish",
+   "source": "地质学名词",
+   "wordNumber": "05.03.135",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "在颗粒表面沉淀的一种玻璃状或者釉状的薄膜。属于化学成因，其成分常为硅质、氧化铁或氧化锰。"
+  },
+  {
+   "cn": "沙漠相",
+   "en": "desert facies",
+   "source": "地质学名词",
+   "wordNumber": "05.05.026",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "在沙漠沉积环境中形成的沉积。按成因可划分为岩漠沉积、戈壁沉积、风成沙沉积、旱谷沉积、沙漠湖及内陆盐碱滩沉积等。风成沙是沙漠沉积环境的最主要沉积物，其特征是分选好，风成交错层理(巨型板状或槽状交错层理)"
+  },
+  {
+   "cn": "荒漠草原",
+   "en": "desert grassland",
+   "source": "风景园林名词",
+   "wordNumber": "04.0152",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "温带干旱气候条件下，旱生、丛生小禾草和小半灌木占优势的植被类型。"
+  },
+  {
+   "cn": "荒漠草原",
+   "en": "desert steppe ",
+   "source": "草学名词",
+   "wordNumber": "2.0022",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "热带荒漠",
+   "en": "hot desert ",
+   "source": "草学名词",
+   "wordNumber": "2.0166",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "荒漠草地",
+   "en": "desert grassland ",
+   "source": "草学名词",
+   "wordNumber": "2.0179",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "高寒荒漠",
+   "en": "alpine desert ",
+   "source": "草学名词",
+   "wordNumber": "3.0051",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "温性荒漠",
+   "en": "temperate desert ",
+   "source": "草学名词",
+   "wordNumber": "3.0053",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "荒漠草原",
+   "en": "desert steppe",
+   "source": "畜牧学名词",
+   "wordNumber": "10.005",
+   "subjectFullName": "畜牧学_常用牧草_草原与牧草综合",
+   "subjectName": "草原与牧草综合",
+   "publishYear": "2020",
+   "definition": "以温性强旱生丛生禾草和半灌木为主的草地。是温带草原中旱生程度最强的类型，也是草原和荒漠的过渡类型。"
+  },
+  {
+   "cn": "荒漠草原",
+   "en": "desert steppe",
+   "source": "植物学名词",
+   "wordNumber": "13.0422",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "分布于草原向荒漠过渡的地带，温带干旱气候条件下，旱生、丛生小禾草和小半灌木占优势的植被类型。"
+  },
+  {
+   "cn": "荒漠地衣",
+   "en": "desert lichen",
+   "source": "植物学名词",
+   "wordNumber": "06.0075",
+   "subjectFullName": "植物学_地衣学",
+   "subjectName": "地衣学",
+   "publishYear": "2019",
+   "definition": "生长在寒漠、石漠、干旱沙漠地区的地衣。其抗逆境功能极强。"
+  },
+  {
+   "cn": "荒漠植被",
+   "en": "desert vegetation",
+   "source": "林学名词",
+   "wordNumber": "03.127",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "极端大陆性干旱地区的地带性植被类型。"
+  },
+  {
+   "cn": "盐漠",
+   "en": "salty desert",
+   "source": "林学名词",
+   "wordNumber": "08.167",
+   "subjectFullName": "林学_水土保持与荒漠化防治_荒漠化防治",
+   "subjectName": "荒漠化防治",
+   "publishYear": "2016",
+   "definition": "盐水浸渍的泥漠。分布于荒漠的低洼部分，干涸时可形成龟裂地。仅能生长少数盐生植物，土壤贫瘠。"
+  },
+  {
+   "cn": "荒漠",
+   "en": "desert",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "荒漠",
+   "en": "desert",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "[自然]荒漠化，[自然]沙漠化",
+   "en": "desertization",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沙漠地貌",
+   "en": "desert landform\",\"desert geomorphology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "荒漠草原",
+   "en": "desert steppe",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "荒漠地衣",
+   "en": "desert lichen",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "荒漠灌丛",
+   "en": "desert scrub",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "半荒漠",
+   "en": "semi-desert",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沙漠草原",
+   "en": "desert steppe",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沙漠风",
+   "en": "desert wind",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沙漠气候",
+   "en": "desert climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沿海沙漠",
+   "en": "coastal desert",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "寒漠",
+   "en": "cold desert",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "沙漠气候",
+   "en": "desert climate",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "灌木荒漠",
+   "en": "shrub desert",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "半荒漠",
+   "en": "semi-desert",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "荒漠灌丛",
+   "en": "desert scrub",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "沙漠沉积",
+   "en": "desert deposit",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "荒漠土壤",
+   "en": "desert soil",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "盐漠",
+   "en": "salt desert",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "欲",
+   "en": "Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "下坡",
+   "en": "descent",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose\",\"defeat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双败",
+   "en": "double defeat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双败",
+   "en": "double defeat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss\",\"lose",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose\",\"defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打败",
+   "en": "beat\",\"defeat\",\"overcome",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在线梯度下降",
+   "en": "online gradient descent",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose\",\"defeat\",\"loss\",\"make",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无欲",
+   "en": "Having No Excessive Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "淡泊",
+   "en": "Quiet Living with No Worldly Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "沙漠环境",
+   "en": "desert environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "极端干旱缺水、地温高、温差大、日照强、多大风和多尘土的一种特殊自然环境形态。"
+  },
+  {
+   "cn": "热带沙漠气候",
+   "en": "tropical desert climate",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.1.1.4",
+   "subjectFullName": "军事预防医学_热区军事卫生_热带",
+   "subjectName": "热带",
+   "publishYear": "2025",
+   "definition": "分布在南北回归线至南北纬30°之间的大陆内部或大陆西岸，年平均气温高，年温差和日温差均较大，降水稀少的气候。"
+  },
+  {
+   "cn": "沙漠戈壁给水",
+   "en": "water supply in desert",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.1.8.5",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时饮水卫生",
+   "subjectName": "战时饮水卫生",
+   "publishYear": "2025",
+   "definition": "军队在战争或平时野外军事作业、非战争军事行动时，针对沙漠戈壁等极端干旱环境，利用饮用水净化消毒措施，保障军人饮用水安全的措施。"
+  },
+  {
+   "cn": "荒漠军事作业卫生",
+   "en": "military operation hygiene in desert",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "针对荒漠环境特点，研究各种有害因素对官兵健康与军事作业能力的影响，所采取的使官兵免受或减轻其影响与伤害的卫生保障措施。"
+  },
+  {
+   "cn": "戈壁沙漠军人健康教育",
+   "en": "health education for military personnel in gobi desert region",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.6.5",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "针对戈壁沙漠干热区的特点，如气温高、昼夜温差大、日照时间长、风沙大、水源食物稀少等，对进驻或驻守戈壁沙漠官兵进行的健康教育，包括饮水卫生教育、科学着装教育、心理健康和应对教育等。"
+  },
+  {
+   "cn": "实用主义",
+   "en": "pragmatism",
+   "source": "马克思主义",
+   "wordNumber": "01.0176",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪末产生于美国的一个属于唯心主义经验论哲学的流派，其根本原则是把真理等同于工具，把效果、功用作为判定真理的标准，否定外部世界和客观规律。代表人物有詹姆士（William James）、杜威（Jo"
+  },
+  {
+   "cn": "实用主义",
+   "en": "pragmatism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.143",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为思想的功能不是描述、表征或反映实在，而是预测、行动和解决实际问题。"
+  },
+  {
+   "cn": "语用学",
+   "en": "pragmatics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0008",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。主要指从语言使用者和语言使用环境的角度来研究语言。例如词句的字面意义如何在具体语境中表达说话者的隐含意义，在语言交际中预设的使用会对其他人产生怎样的效果等。"
+  },
+  {
+   "cn": "实用主义伦理学",
+   "en": "pragmatism ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.141",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "关注行动是否能带来某种实际的效果，即关注行动的直接效用、利益的伦理学学说。宣称有用即真理。产生于19 世纪70 年代的美国，20 世纪初开始在资本主义各国广泛流行。"
+  },
+  {
+   "cn": "实用的市场社会主义模式",
+   "en": "pragmatic market socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0178",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "美国经济学家詹姆斯·扬克（James A．Yunker）在《自由市场中的社会主义》和《修正的现代资本主义：实用的市场社会主义方案》中提出。认为实行生产资本公有制，消除私人资本所有权收入，在保存当代资本"
+  },
+  {
+   "cn": "求真务实",
+   "en": "be realistic and pragmatic",
+   "source": "马克思主义",
+   "wordNumber": "03.0681",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "追求真理，把握规律，真抓实干，务求实效，是党的思想路线的核心内容，也是党的优良传统和共产党人应该具备的政治品格。"
+  },
+  {
+   "cn": "继嗣",
+   "en": "descent",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.041",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "从文化意义上把某人通过其父或其中一方与一群亲属联系起来的关系，确立这一关系的作用在于规定个人在亲属集团中的地位、权利、义务和继承关系等。"
+  },
+  {
+   "cn": "继嗣",
+   "en": "descent",
+   "source": "社会学名词",
+   "wordNumber": "3.1.2.2",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_世系",
+   "subjectName": "世系",
+   "publishYear": "2025",
+   "definition": "被社会所承认的逝者后代对逝者的继承，既包括了对宗祧义务的继承（承祀），又包括对财产的继承（承业）。是一个群体赖以延续的基础，在社会生活中扮演着重要的角色。"
+  },
+  {
+   "cn": "两可继嗣",
+   "en": "ambilineal descent",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0415",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "个人计算其世系或血缘，既可以依据父系，也可以依据母系。在某种情况下，一个人可以选择他所愿意发生联系的继嗣群，在另一种情况下，一个人可以从父系继嗣群转移到母系继嗣群，也可以从母系继嗣群转移到父系继嗣群，"
+  },
+  {
+   "cn": "性欲",
+   "en": "sexual desire",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "推动人对异性（有时是同性）发生兴趣、进行求偶和性行为活动的一种内在力量。当人的身体发育到某种程度时，由于性机能的成熟与作用，在性激素的刺激下产生对性的需求及性行为活动。"
+  },
+  {
+   "cn": "继嗣群体",
+   "en": "descent group",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.15",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "以一个现实或虚构的祖先的直系后裔为界定成员资格标准的社会统一体。最典型且普遍的成员资格界定标准是单系继嗣，包括父系和母系继嗣。"
+  },
+  {
+   "cn": "家族",
+   "en": " descent group",
+   "source": "社会学名词",
+   "wordNumber": "4.2.6.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会组织",
+   "subjectName": "社会组织",
+   "publishYear": "2025",
+   "definition": "由若干个具有共同社会血缘的家庭组成的集团。作为包含了多个家庭的更高一级的社会血缘亲属的集团，其成员也不一定共同居住。在传统社会中，此类比家庭更高一级的血缘集团相当常见。"
+  },
+  {
+   "cn": "严重缺陷",
+   "en": "critical defect",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.17",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "可导致食品安全卫生危害的缺陷。如霉烂、腐败、变质、农兽药残留超标、被有毒有害物质污染等。"
+  },
+  {
+   "cn": "体面工作",
+   "en": "decent employment",
+   "source": "社会医学名词",
+   "wordNumber": "3.13.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "就业",
+   "publishYear": "2025",
+   "definition": "个人在自由、公正、安全及有尊严的条件下获得的体面且富有成效的工作。"
+  },
+  {
+   "cn": "双系继嗣",
+   "en": "bilatcral descent",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0414",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "同时可从父系和母系两种方向推算的继嗣制度，例如两可继嗣、双边继嗣。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

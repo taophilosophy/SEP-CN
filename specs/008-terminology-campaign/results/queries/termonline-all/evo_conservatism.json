@@ -1,0 +1,592 @@
+{
+ "key": "evo-conservatism",
+ "term": "evo-conservatism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:29:03+00:00",
+ "status": "ok",
+ "note": "variant=evo-conservatism; 审定公布名词库=461; 海峡两岸名词对照库=152; 其他来源数据库=12; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "新保守主义",
+   "en": "Neo-conservatism",
+   "source": "世界历史名词",
+   "wordNumber": "03.0269",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "20世纪80年代开始形成的一种美国政治哲学，主张使用美国的经济和军事力量在其他国家推行美式自由、民主和人权。"
+  },
+  {
+   "cn": "会计稳健性",
+   "en": "accounting conservatism",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0250",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业在财务报告中确认好消息比确认坏消息时需要更高可靠性的程度。"
+  },
+  {
+   "cn": "保守性偏差",
+   "en": "conservatism bias",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0154",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "进行贝叶斯推断时出现的一种偏误。具有保守性偏差特点的投资者对先验概率(先验信念或旧数据)赋予过高权重，低估新信息的权重，因而修正原有观点的速度比较慢。"
+  },
+  {
+   "cn": "大地构造演化",
+   "en": "geotectonic evo-lution",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0244",
+   "subjectFullName": "地球物理学_地球动力学_大陆构造演化",
+   "subjectName": "大陆构造演化",
+   "publishYear": "2022",
+   "definition": "地壳构造的发生发展、分布组合、形成机制和地壳运动。 "
+  },
+  {
+   "cn": "构造热演化",
+   "en": "tectono-thermal evo-lution",
+   "source": "地球物理学名词",
+   "wordNumber": "06.0054",
+   "subjectFullName": "地球物理学_地热学_理论地热学",
+   "subjectName": "理论地热学",
+   "publishYear": "2022",
+   "definition": "一般指岩石层构造 –热演化。作为一项追溯演变历史的动态特征，既考虑深部热对流是与垂向重力、浮力和侧向挤压、拉张等共同起作用的块体运动的驱动力，又特别强调不同层次和不同规模地质构造运动所诱发的生热、耗热"
+  },
+  {
+   "cn": "有机质演化",
+   "en": "organic matter evo-lution",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0407",
+   "subjectFullName": "地球物理学_地壳流体科学_石油与天然气",
+   "subjectName": "石油与天然气",
+   "publishYear": "2022",
+   "definition": "沉积岩中的有机质在埋藏过程中不断发生的物理、化学变化。"
+  },
+  {
+   "cn": "进化发育生物学",
+   "en": "evolutionary developmental biology,evo-devo",
+   "source": "植物学名词",
+   "wordNumber": "01.0020",
+   "subjectFullName": "植物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "研究生物表型遗传变化、发育机制的学科。目的在于揭示发育过程和机制在进化中是如何被修饰，以及曾有或现有的多样性是如何从这些变化中产生的。"
+  },
+  {
+   "cn": "演化发育生物学",
+   "en": "evolutionary developmental biology,evo-devo",
+   "source": "古生物学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "研究发育和演化相互关系的学科。胚胎发育是一个从祖先基因到新近基因的依次表达过程，个体发育不可能完全重演系统发育的进程，却能显示其中的某些特征。"
+  },
+  {
+   "cn": "油气生成和演化",
+   "en": "origin and evo-lution of oil and gas",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0415",
+   "subjectFullName": "地球物理学_地壳流体科学_石油与天然气",
+   "subjectName": "石油与天然气",
+   "publishYear": "2022",
+   "definition": "沉积有机质随温压升高产生石油和天然气以及油气生成以后发生物理、化学性质改变的地质过程。"
+  },
+  {
+   "cn": "自我",
+   "en": "ego",
+   "source": "心理学名词",
+   "wordNumber": "08.044",
+   "subjectFullName": "心理学_人格心理学",
+   "subjectName": "人格心理学",
+   "publishYear": "2014",
+   "definition": "人格结构中，在现实环境作用下出现、从本我中分化出来、处于本我和超我之间的意识结构部分。"
+  },
+  {
+   "cn": "保育",
+   "en": "conservation",
+   "source": "风景园林名词",
+   "wordNumber": "12.0137",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "人类社会采取措施，保护和改善人类生活于其中的自然环境的过程。"
+  },
+  {
+   "cn": "保护",
+   "en": "conservation",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.078",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "对保护项目及其环境进行的科学的调查、勘测、评估、登录、修缮、维修、改善、利用的过程。"
+  },
+  {
+   "cn": "守恒",
+   "en": "conservation",
+   "source": "物理学名词",
+   "wordNumber": "01.0052",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "守恒",
+   "en": "conservation",
+   "source": "心理学名词",
+   "wordNumber": "06.011",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "皮亚杰认为守恒是指当物体的外观发生改变时仍认识到其某种物理属性保持不变的能力。"
+  },
+  {
+   "cn": "保育",
+   "en": "conservation",
+   "source": "昆虫学名词",
+   "wordNumber": "06.226",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "对益虫和其他有经济或观赏价值的稀有昆虫进行保种护育管理。"
+  },
+  {
+   "cn": "保守的",
+   "en": "conservative",
+   "source": "数学名词",
+   "wordNumber": "07.0421",
+   "subjectFullName": "数学_泛函分析_遍历理论",
+   "subjectName": "遍历理论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "德川幕府",
+   "en": "Edo Bakufu,Edo Shogunate",
+   "source": "世界历史名词",
+   "wordNumber": "02.1094",
+   "subjectFullName": "世界历史_古代中世纪_东北亚",
+   "subjectName": "东北亚",
+   "publishYear": "2012",
+   "definition": "1603年，德川家康就任征夷大将军，在江户建立的幕府(1603-1867)。"
+  },
+  {
+   "cn": "生态动力学",
+   "en": "eco dynamics;eco kinetics ",
+   "source": "草学名词",
+   "wordNumber": "2.0207",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "[促]红细胞生成素",
+   "en": "erythropoietin,EPO",
+   "source": "运动医学名词",
+   "wordNumber": "04.166",
+   "subjectFullName": "运动医学_运动生化_激素、免疫、细胞因子与运动",
+   "subjectName": "激素、免疫、细胞因子与运动",
+   "publishYear": "2019",
+   "definition": "一种由肾脏分泌的、对调节红细胞生成有较强特异性的激素。含165个肽结合糖基，分子量为45kDa。可促进骨髓对铁的摄取和利用，加速血红蛋白生成，增加红细胞数量，有助于提高有氧运动能力。缺氧可使其分泌增加"
+  },
+  {
+   "cn": "[促]红细胞生成素",
+   "en": "erythropoietin,EPO",
+   "source": "细胞生物学名词",
+   "wordNumber": "09.130",
+   "subjectFullName": "细胞生物学_细胞免疫",
+   "subjectName": "细胞免疫",
+   "publishYear": "2009",
+   "definition": "由肾脏分泌的调节红系祖细胞生长的细胞因子。"
+  },
+  {
+   "cn": "保守性",
+   "en": "conservatism",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化发育生物学",
+   "en": "evolutionary developmental biology\",\"evo-devo",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化发生生物学",
+   "en": "evolutionary developmental biology\",\"Evo-Devo",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外",
+   "en": "exo",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态",
+   "en": "eco-",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "延长作用振荡器",
+   "en": "EIO",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保护，保育",
+   "en": "conservation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保育（=保护）",
+   "en": "conservation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "守恒，保守",
+   "en": "conservation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "守恒",
+   "en": "conservation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保护,保育",
+   "en": "conservation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保育",
+   "en": "conservation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "自我整合",
+   "en": "ego integration\",\"ego integrity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我",
+   "en": "ego\",\"self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "[促]红细胞生成素",
+   "en": "erythropoietin\",\"EPO",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护，自然保育",
+   "en": "conservation of nature\",\"nature conservation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然保育（=自然保护）",
+   "en": "conservation of nature\",\"nature conservation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护,自然保育",
+   "en": "conservation of nature\",\"nature conservation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "圣诞夜",
+   "en": "Christmas Eve",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Rimsky-Korsakov, Nikolay  "
+  },
+  {
+   "cn": "自我强度，自我力量",
+   "en": "ego strength",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生态城市",
+   "en": "eco-cities",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态经济体系",
+   "en": "eco-economic system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态扶贫",
+   "en": "poverty alleviation through ecological conservation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源全面节约制度",
+   "en": "the comprehensive resource conservation system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "预期价值",
+   "en": "expected value (EV)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色生活方式和绿色消费",
+   "en": "eco-friendly lifestyle and green consumption",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "节能环保产业",
+   "en": "energy conservation and environmental protection industry",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国家生态文明试验区",
+   "en": "national pilot zone for ecological conservation",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绿色生态宜居新城区",
+   "en": "new, green, eco-friendly and livable urban area",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黄河流域生态保护和高质量发展",
+   "en": "ecological conservation and high-quality development of the Yellow River Basin",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共抓大保护，不搞大开发",
+   "en": "to step up conservation of the Yangtze River and stop its over development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "文化保守主义",
+   "en": "cultural conservatism",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.12",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "伴随着现代化过程而产生的文化思潮，在形式上拒斥现代化、崇尚民族传统文化，而在实际上是有选择地吸纳现代化成果、促成民族文化发展。"
+  },
+  {
+   "cn": "红细胞生成素",
+   "en": "erythropoietin，EPO",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.17",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "一种在红系造血中发挥重要作用的细胞因子。主要由肾脏间质细胞合成分泌。能特异性调节红系祖细胞的存活、增殖和分化，刺激红细胞生成，还在多种脏器的缺血缺氧损伤中具有保护作用。"
+  },
+  {
+   "cn": "保守估计",
+   "en": "conservative estimation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.38",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种为解决数据缺乏或为提高效率而出于慎重尽可能过高估计暴露量的方法。例如，在膳食暴露中，用食品中化学物浓度和（或）食品消费量的最大值来估计食品中化学物质的暴露（或者在评价营养素缺乏时，对营养素进行最低"
+  },
+  {
+   "cn": "生态女性主义信仰",
+   "en": "eco-feminist theology",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.7",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种产生于基督教内部的思想，要求收回《圣经》中有关女人和自然被歧视被虐待的形象，试图跳出父权的和不关心现世的传统基督教的束缚。"
+  },
+  {
+   "cn": "生态系统理论",
+   "en": "eco-systemic theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "以一般系统论和结构功能主义等为基础形成和发展起来的一种社会工作理论。它把人与生活环境看作是由功能上相互依赖的各种元素所组成的系统整体，当该系统无法协调均衡地运行与维持时，个体的生存与发展就会出现问题。"
+  },
+  {
+   "cn": "除夕",
+   "en": "Lunar New Year’s Eve",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0229",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国传统节日，节期在农历十二月廿九或三十，源自上古时代岁末除旧布新、祭祀祖先风俗。除夕主要有贴年红、年夜饭、压岁钱、辞岁、守岁等习俗。除夕，全家人在一起吃“团圆饭”，有一家人团聚过年的味道；守岁的民俗"
+  },
+  {
+   "cn": "环氧乙烷",
+   "en": "ethylene oxide, EO",
+   "source": "消毒学",
+   "wordNumber": "2.1.11.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "在低温下为无色液体，具有芳香醚味，易燃易爆，最低燃烧浓度为3%。环氧乙烷气体穿透力强，对金属无腐蚀性。多用于不耐湿热物品和医疗器械的消毒灭菌。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

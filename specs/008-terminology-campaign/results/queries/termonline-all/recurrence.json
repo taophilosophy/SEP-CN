@@ -1,0 +1,472 @@
+{
+ "key": "recurrence",
+ "term": "recurrence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:14:10+00:00",
+ "status": "ok",
+ "note": "variant=recurrence; 审定公布名词库=261; 海峡两岸名词对照库=43; 其他来源数据库=3; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "复现[性]",
+   "en": "recurrence",
+   "source": "物理学名词",
+   "wordNumber": "01.0308",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "复发",
+   "en": "relapse,recurrence",
+   "source": "手外科学名词",
+   "wordNumber": "05.1094",
+   "subjectFullName": "手外科学_手外科学分论_上肢肿瘤",
+   "subjectName": "上肢肿瘤",
+   "publishYear": "2020",
+   "definition": "已经好转的疾病或已经消失的症状，经过一段时间后再度发生的现象。"
+  },
+  {
+   "cn": "复发",
+   "en": "relapse,recurrence",
+   "source": "核医学名词",
+   "wordNumber": "04.0291",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤诊疗相关技术",
+   "subjectName": "肿瘤诊疗相关技术",
+   "publishYear": "2018",
+   "definition": "曾经治愈的疾病再度出现临床表现的现象。"
+  },
+  {
+   "cn": "返回的",
+   "en": "recurrent",
+   "source": "数学名词",
+   "wordNumber": "07.0418",
+   "subjectFullName": "数学_泛函分析_遍历理论",
+   "subjectName": "遍历理论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "重现期",
+   "en": "recurrence interval",
+   "source": "风景园林名词",
+   "wordNumber": "08.0924",
+   "subjectFullName": "风景园林_风景园林工程_风景园林排水",
+   "subjectName": "风景园林排水",
+   "publishYear": "2025",
+   "definition": "在一定年代的雨量记录资料统计期间内，等于或大于某暴雨强度的降雨出现一次的平均间隔时间。"
+  },
+  {
+   "cn": "复发时间",
+   "en": "recurrence time",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1774",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在同一构造或区域，两次同类事件发生的时间间隔。 "
+  },
+  {
+   "cn": "重现期",
+   "en": "recurrence interval",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.559",
+   "subjectFullName": "城乡规划学_城乡规划与设计_工程规划",
+   "subjectName": "工程规划",
+   "publishYear": "2021",
+   "definition": "在一定长的统计期间内，等于或大于某统计对象出现一次的平均间隔时间。"
+  },
+  {
+   "cn": "重现期",
+   "en": "recurrence interval",
+   "source": "电力名词",
+   "wordNumber": "01.692",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "不小于或不大于一定量级的水文要素出现一次的平均间隔年数。以该量级水文要素出现频率的倒数表示。"
+  },
+  {
+   "cn": "递推公式",
+   "en": "recurrence formula",
+   "source": "物理学名词",
+   "wordNumber": "01.0506",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "递推关系",
+   "en": "recurrence relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0728",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "给定一个数的序列 H(0),H(1),…,H(n),…,若存在整数<img src='/root/syzx/static/spz/jsjkx3.02.0728.001.png'/>,使得当n≥<img"
+  },
+  {
+   "cn": "重现期",
+   "en": "recurrence interval",
+   "source": "建筑学名词",
+   "wordNumber": "14.0089",
+   "subjectFullName": "建筑学_建筑设备与系统_给水排水系统与设备部件",
+   "subjectName": "给水排水系统与设备部件",
+   "publishYear": "2014",
+   "definition": "在一定年代的雨量记录资料统计期间内，等于或大于某暴雨强度的降雨出现一次的平均间隔时间。"
+  },
+  {
+   "cn": "重现期",
+   "en": "recurrence interval",
+   "source": "土木工程名词",
+   "wordNumber": "11.050",
+   "subjectFullName": "土木工程_给水与排水工程_给水系统与排水系统",
+   "subjectName": "给水系统与排水系统",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "重现期",
+   "en": "recurrence period",
+   "source": "船舶工程名词",
+   "wordNumber": "13.091",
+   "subjectFullName": "船舶工程_海洋油气开发工程设施与设备",
+   "subjectName": "海洋油气开发工程设施与设备",
+   "publishYear": "1998",
+   "definition": "再次出现比给定的波高、风速、流速等更为严重的情况所需的概率平均年数。"
+  },
+  {
+   "cn": "再现风险",
+   "en": "recurrence risk",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.425",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "重现间隔",
+   "en": "recurrence interval",
+   "source": "地质学名词",
+   "wordNumber": "09.141",
+   "subjectFullName": "地质学_工程地质学和环境地质学",
+   "subjectName": "工程地质学和环境地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "复胖",
+   "en": "weight recurrence",
+   "source": "普通外科学名词",
+   "wordNumber": "26.049",
+   "subjectFullName": "医学_普通外科学_减重代谢外科",
+   "subjectName": "减重代谢外科",
+   "publishYear": "2026",
+   "definition": "经减重代谢手术体重达到最低点后，体重增长大于首次体重减少的15%的现象。"
+  },
+  {
+   "cn": "气管造瘘口复发癌",
+   "en": "stomal recurrence",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.9.4",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈恶性肿瘤",
+   "subjectName": "咽喉–头颈恶性肿瘤",
+   "publishYear": "2025",
+   "definition": "咽、喉癌术后气管造口周围复发的恶性肿瘤。"
+  },
+  {
+   "cn": "生化复发",
+   "en": "biochemical recurrence",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.363",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤转移和复发_妇科恶性肿瘤复发",
+   "subjectName": "妇科恶性肿瘤复发",
+   "publishYear": "2022",
+   "definition": "对肿瘤经过系统规范治疗后达到临床完全缓解，而在定期常规的监测和随访中发现肿瘤相关标志物生化指标水平升高，但无妇科恶性肿瘤症状，查体阴性，而且无影像学和体征证据的现象。"
+  },
+  {
+   "cn": "影像学复发",
+   "en": "imaging recurrence",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.364",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤转移和复发_妇科恶性肿瘤复发",
+   "subjectName": "妇科恶性肿瘤复发",
+   "publishYear": "2022",
+   "definition": "对肿瘤经过系统规范治疗后达到临床完全缓解，定期常规的监测和随访时仅出现恶性肿瘤影像学复发证据的现象。"
+  },
+  {
+   "cn": "临床复发",
+   "en": "clinical recurrence",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.365",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤转移和复发_妇科恶性肿瘤复发",
+   "subjectName": "妇科恶性肿瘤复发",
+   "publishYear": "2022",
+   "definition": "对肿瘤经过系统规范治疗后达到临床完全缓解，定期常规的监测和随访时出现临床症状和体征，有影像学证据的现象。"
+  },
+  {
+   "cn": "递推公式，循环公式",
+   "en": "recurrence formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "再现风险,复发风险",
+   "en": "recurrence risk",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "递推关系",
+   "en": "recurrence relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "返动脉",
+   "en": "recurrent artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "轮回亲本",
+   "en": "recurrent parent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复现暴",
+   "en": "recurrent burst",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "再发新星",
+   "en": "recurrent nova",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "再现耀斑",
+   "en": "recurrent flare",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "经常性支出",
+   "en": "recurrent expenditure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "轮回亲本,回归亲本",
+   "en": "recurrent parent",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "连环码",
+   "en": "recurrent code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后向鞭毛",
+   "en": "recurrent flagellum",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "回神经",
+   "en": "recurrent nerve",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "洪水重现期",
+   "en": "flood recurrence interval",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "尺侧返动脉",
+   "en": "ulnar recurrent artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "骨间返动脉",
+   "en": "recurrent interosseous artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "喉返神经",
+   "en": "recurrent laryngeal nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑膜返支",
+   "en": "recurrent meningeal branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "桡侧返动脉",
+   "en": "radial recurrent artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "非回归亲本（=非轮回亲本）",
+   "en": "non-recurrent parent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "递推法",
+   "en": "recurrence method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归神经网络",
+   "en": "recurrent neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "复发性流产",
+   "en": "recurrent abortion, RA",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.4.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_自然流产",
+   "subjectName": "自然流产",
+   "publishYear": "2025",
+   "definition": "“反复流产”。24周前两次或两次以上临床确认的妊娠失败，包括胚胎和胎儿丢失。"
+  },
+  {
+   "cn": "再发传染病",
+   "en": "recurrent infectious disease",
+   "source": "消毒学",
+   "wordNumber": "7.1.6",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "那些早就为人们所知，并已得到良好控制，发病率已降到极低水平，但现在又重新流行、再度威胁人类健康的传染病。"
+  },
+  {
+   "cn": "慢性复发性多灶性骨髓炎",
+   "en": "chronic recurrent multifocal osteomyelitis, CRMO",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.7.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_遗传性疾病",
+   "subjectName": "遗传性疾病",
+   "publishYear": "2025",
+   "definition": "主要表现为反复发作的无菌性、多灶性骨髓炎的疾病，主要发病部位为长骨骨骺及干骺端、骨盆、脊柱。多伴发银屑病、克罗恩病、痤疮、骶髂关节炎。影像学程亚急性、慢性骨髓炎改变。"
+  },
+  {
+   "cn": "患病概率",
+   "en": "probability of disease occurrence",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.73",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定时间内，一个人或者一个群体发生某种疾病的可能性。在微生物学中，多用于某种疾病微生物致使生物体发生某种疾病的可能性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

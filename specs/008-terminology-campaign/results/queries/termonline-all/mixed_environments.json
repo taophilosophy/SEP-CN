@@ -1,0 +1,792 @@
+{
+ "key": "mixed environments",
+ "term": "mixed environments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:52:24+00:00",
+ "status": "ok",
+ "note": "variant=mixed environments; 审定公布名词库=2868; 海峡两岸名词对照库=769; 其他来源数据库=64; 预公布名词数据库=176; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.008",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以人类为主体的外部世界，即人类赖以生存和发展的外部条件的总和。是人类生存发展的基础，也是人类开发利用的对象。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0017",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_环境",
+   "subjectName": "环境",
+   "publishYear": "2022",
+   "definition": "影响人类生存和发展的各种天然的和经过人工改造的自然因素总体。包括大气、水、海洋、土地、矿藏、森林、草原、野生动物、自然古迹、人文遗迹、自然保护区、风景名胜区、城市和乡村等。 "
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "动物学名词",
+   "wordNumber": "7.0018",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物生存的空间以及空间中直接或间接影响生物生活和发展的外部条件的总和。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "电力名词",
+   "wordNumber": "24.124",
+   "subjectFullName": "电力_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "影响人类生存和发展的各种天然的和经过人工改造的自然因素的总体。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "植物学名词",
+   "wordNumber": "13.0001",
+   "subjectFullName": "植物学_植物生态学_植物个体生态学",
+   "subjectName": "植物个体生态学",
+   "publishYear": "2019",
+   "definition": "植物周围所有要素的总和。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0648",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "组织运行的外部存在。包括空气、水、土地、自然资源、植物、动物、人，以及它们之间的相互关系。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.260",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "人群周围的境况及其中可以直接、间接影响人类生活和发展的各种自然因素和社会因素的总体。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.251",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "电气工程名词",
+   "wordNumber": "27.001",
+   "subjectFullName": "电气工程_环境技术（电工学）",
+   "subjectName": "环境技术（电工学）",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "陆地环境",
+   "en": "continental environment,land environment,terrestrial environment",
+   "source": "地质学名词",
+   "wordNumber": "06.151",
+   "subjectFullName": "地质学_地球化学",
+   "subjectName": "地球化学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.116",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "用机械的或流体动力的方法，使两种或两种以上物料相互扩散而达到一定均匀程度的过程。"
+  },
+  {
+   "cn": "混匀",
+   "en": "mixing",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0269",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "用机械或人工的方法使两种以上的物料均匀混合的作业。"
+  },
+  {
+   "cn": "密炼",
+   "en": "mixing",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0912",
+   "subjectFullName": "化工（七）_合成树脂_合成树脂加工及助剂",
+   "subjectName": "合成树脂加工及助剂",
+   "publishYear": "2022",
+   "definition": "由具有螺旋棱、有速度比并相对回转的转子和室壁，以及上、下顶栓组成的一种物料混炼系统。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.159",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "使两种或多种物料相互分散而达到一定均匀程度的单元操作。"
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.191",
+   "subjectFullName": "化工（八）_化工设备_橡胶机械",
+   "subjectName": "橡胶机械",
+   "publishYear": "2021",
+   "definition": "利用机械力将生胶或塑炼生胶与配合剂、填充物等混合、分散均匀的过程。本质来说是配合剂在生胶中均匀分散的过程，粒状配合剂呈分散相，生胶呈连续相。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.080",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_粉末性能及其测试",
+   "subjectName": "粉末性能及其测试",
+   "publishYear": "2021",
+   "definition": "两种或多种不同材料的粉末的均匀掺合。"
+  },
+  {
+   "cn": "交混",
+   "en": "mixing",
+   "source": "电力名词",
+   "wordNumber": "17.196",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "反应堆燃料组件内各子通道之间流体横向流动使温度(单相)或含汽率(两相)均匀化的现象。"
+  },
+  {
+   "cn": "拌和",
+   "en": "mixing",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1231",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "通过拌混原料，将各种不同的食用色素、香料和调味料均匀地分散到硬糖基体中的过程。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0208",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "使两种或多种物料相互分散而达到一定均匀程度的单元操作。"
+  },
+  {
+   "cn": "混合性",
+   "en": "mixing",
+   "source": "物理学名词",
+   "wordNumber": "05.0495",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": "遍历理论中的。"
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "环境",
+   "en": "environment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混频",
+   "en": "mixing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "混声合唱队",
+   "en": "mixed chorus\",\"mixed voices",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自然环境",
+   "en": "natural environments",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "全混",
+   "en": "complete mixing\",\"perfect mixing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "半深海环境",
+   "en": "bathyal environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大气环境",
+   "en": "atmospheric environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境气候",
+   "en": "environment climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境气候学",
+   "en": "environment climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境容量",
+   "en": "environment capacity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候环境",
+   "en": "climatic environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "深海环境",
+   "en": "bathyal environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "结构化环境",
+   "en": "structured environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化环境",
+   "en": "unstructured environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合防守",
+   "en": "mixed defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正反握",
+   "en": "mixed grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合双打",
+   "en": "mixed doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合双打",
+   "en": "mixed doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合区",
+   "en": "mixed zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合赛制",
+   "en": "mixed system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合双打",
+   "en": "mixed doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合旋转",
+   "en": "mixed spin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络文明",
+   "en": "sound cyberspace environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水环境改善",
+   "en": "water environment improvement",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水生态修复",
+   "en": "water environment restoration",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合现实",
+   "en": "mixed reality (MR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字生态环境",
+   "en": "digital ecology and environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境大数据",
+   "en": "big data of environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云计算环境管理",
+   "en": "cloud computing environment management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "海洋生态环境与保护",
+   "en": "marine ecological environment protection",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "米赛人",
+   "en": "Mixe",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0388",
+   "subjectFullName": "民族学与文化学_世界民族_美洲地区",
+   "subjectName": "美洲地区",
+   "publishYear": "2025",
+   "definition": "北美洲墨西哥境内的土著人，分布在特万特地峡中部和南部，人口约9 万，属奥托曼格语族。"
+  },
+  {
+   "cn": "寒区",
+   "en": "cold environments",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.1",
+   "subjectFullName": "军事预防医学_寒区军事卫生_寒区",
+   "subjectName": "寒区",
+   "publishYear": "2025",
+   "definition": "从南极圈（南纬66º34'）至南极和北极圈（北纬66º34'）至北极的区域内，无太阳直射，导致地面获得的太阳辐射量极少、气候非常寒冷的地区。其特点为冬季漫长，寒潮侵袭频繁、降雪期长、积雪深、结冰期长、"
+  },
+  {
+   "cn": "组织环境",
+   "en": "organization environment",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.9",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "存在于组织界限以外的能够影响组织及其成员行为的所有因素的总和，包括自然环境与社会环境两大类。其中社会环境包括组织所必须应对的各种社会力量和制度设施。"
+  },
+  {
+   "cn": "制度环境",
+   "en": "institutional environment",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.16",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "组织生存于其中的社会的法律制度、文化观念和社会规范等因素。组织学的制度学派关注的主要是社会的共享观念及规范因素，即支撑社会生活稳定化和秩序化的、被普遍接受的符号体系及其共同意义。"
+  },
+  {
+   "cn": "物质环境因素",
+   "en": "physical environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "人类赖以生存的物质基础。其与社会环境、生产生活方式共同决定儿童青少年生长发育的可实现性。"
+  },
+  {
+   "cn": "家庭环境",
+   "en": "family environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "家庭为其成员的成长和发展所提供的物质和精神条件。"
+  },
+  {
+   "cn": "校园环境",
+   "en": "campus environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "学校周围的境况及其中可以直接、间接影响学生学习和发展的各种自然因素和社会因素的总体。"
+  },
+  {
+   "cn": "学习环境",
+   "en": "learning environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "促进学习的各种支持性条件的总称。包括情境、活动、资源、工具、学习支架、学习伙伴和学业评价等。"
+  },
+  {
+   "cn": "高山环境",
+   "en": "alpine environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.4",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "海拔3000m 以上的高原和高山自然环境形态，具有缺氧、寒冷、干燥、温差大、辐射强和气候多变等特点。"
+  },
+  {
+   "cn": "高气压环境",
+   "en": "hyperbaric environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "压力高于海平面大气压力的特殊环境，人体暴露时会引起机体一系列复杂的功能改变。"
+  },
+  {
+   "cn": "健康环境",
+   "en": "healthy environment",
+   "source": "社会医学名词",
+   "wordNumber": "3.10.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "城市化",
+   "publishYear": "2025",
+   "definition": "有助于维护和促进人体健康的自然和社会环境。"
+  },
+  {
+   "cn": "阵地环境",
+   "en": "battlefield environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "军队在战斗中的兵力兵器部署、工事构筑区域的自然地理条件，以及由人工活动、战斗等影响而形成的所有物理、化学、生物因素的总和。"
+  },
+  {
+   "cn": "航海环境",
+   "en": "navigational environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "舰船在海上航行时所处的内部和外部环境，包括舰船内的物理、化学及生物学因素，以及海洋气象条件和海上风浪等外部环境。"
+  },
+  {
+   "cn": "海上环境",
+   "en": "marine environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "海水淹没的地球海洋水域自然环境形态，具有低温、高盐、温差小、湿度大等特点。"
+  },
+  {
+   "cn": "沙漠环境",
+   "en": "desert environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.10.6.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "极端干旱缺水、地温高、温差大、日照强、多大风和多尘土的一种特殊自然环境形态。"
+  },
+  {
+   "cn": "水下环境",
+   "en": "underwater environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "水面以下作用于人体的各种客观条件的总称。"
+  },
+  {
+   "cn": "热环境",
+   "en": "thermal environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "由太阳辐射、气温、周围物体表面温度、相对湿度与气流速度等物理因素组成的作用于人、影响人的冷热感和健康的环境。"
+  },
+  {
+   "cn": "混合流",
+   "en": "mixed flow",
+   "source": "消毒学",
+   "wordNumber": "1.8.22.3",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "单向流和非单向流组合的气流。"
+  },
+  {
+   "cn": "混合设计",
+   "en": "mixed designs",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.159",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "既包含非重复测量因素，又包含重复测量因素的实验设计。"
+  },
+  {
+   "cn": "混合所有制",
+   "en": "mixed ownership",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.51",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "组织的财产权分属于不同性质所有者的经济形式即不同所有制性质的投资主体共同出资组建的企业的财产关系，比如股份制企业。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

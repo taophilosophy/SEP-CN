@@ -1,0 +1,802 @@
+{
+ "key": "being-of-that-ness",
+ "term": "being-of-that-ness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:36:30+00:00",
+ "status": "ok",
+ "note": "variant=being-of-that-ness; 审定公布名词库=10000; 海峡两岸名词对照库=7462; 其他来源数据库=1934; 预公布名词数据库=2711; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "存在",
+   "en": "being",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.032",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "一个哲学本体论范畴。指与“无”相对的“有”，即存在着的各种物质性的和精神性的东西，又指与思维相对的人们意识之外的一切具体物质的客观实在。"
+  },
+  {
+   "cn": "命题知识",
+   "en": "knowing-that",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.521",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "可用命题表达所知内容或对象的知识。"
+  },
+  {
+   "cn": "存在之链",
+   "en": "chain of beings",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.125",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "说明整个生命界是一个发展与联系的自然阶梯的观点。由亚里士多德提出。认为生命的演化途径为：非生命→植物→动物→人。相信生物从植物到人类按照一个完美的等级进行排列。大致符合达尔文进化论等现代科学的观点。"
+  },
+  {
+   "cn": "磨砺性系数",
+   "en": "coefficient of abrasive-ness",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "06.037",
+   "subjectFullName": "煤炭科学技术_矿山机械工程_采煤机械",
+   "subjectName": "采煤机械",
+   "publishYear": "1996",
+   "definition": "煤或岩石磨损刀具或其他物体能力的一种指标。"
+  },
+  {
+   "cn": "钟情妄想",
+   "en": "delusion of being loved",
+   "source": "行为医学名词",
+   "wordNumber": "16.088",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "在缺乏事实根据的情况下坚信别人深爱着自己的精神病理状态。"
+  },
+  {
+   "cn": "被控制感",
+   "en": "feeling of being controlled",
+   "source": "精神医学名词",
+   "wordNumber": "02.124",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者觉得思想不受自己控制，因而无法自主控制，常伴有与被控制体验相应行为的一种精神病理状态。多见于精神分裂症受检 者。"
+  },
+  {
+   "cn": "被监视感",
+   "en": "feeling of being watched",
+   "source": "精神医学名词",
+   "wordNumber": "02.123",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者认为被某些人或某些机构监视，进行监视的人或机构多不是具体明确的，经常以被害或牵连妄想为基础，但也可以思维障碍或其他被动性体验或幻觉为基础的一种精神病理状态。"
+  },
+  {
+   "cn": "被窃妄想",
+   "en": "delusion of being stolen",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.052",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "无端认为自己的东西被他人偷窃了的病理性精神状态。多见于脑器质性精神障碍、老年期痴呆等。"
+  },
+  {
+   "cn": "钟情妄想",
+   "en": "delusion of being loved",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.078",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "被窃妄想",
+   "en": "delusion of being stolen",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.079",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "被影响体验",
+   "en": "experience of being influenced",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.098",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "被控制感",
+   "en": "feeling of being controlled",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.097",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "仙人",
+   "en": "immortal being",
+   "source": "风景园林名词",
+   "wordNumber": "07.0402",
+   "subjectFullName": "风景园林_风景园林建筑_瓦作",
+   "subjectName": "瓦作",
+   "publishYear": "2025",
+   "definition": "垂脊屋角最下端的雕饰。"
+  },
+  {
+   "cn": "所胜",
+   "en": "being restrained",
+   "source": "中医药学名词",
+   "wordNumber": "03.050",
+   "subjectFullName": "中医药学_中医基础理论_中医基础理论总论",
+   "subjectName": "中医基础理论总论",
+   "publishYear": "2004",
+   "definition": "在五行相克关系中，“我克”者为“我所胜”。如“木克土”，木为“我”，木之“所胜”是土。"
+  },
+  {
+   "cn": "Be星",
+   "en": "Be star",
+   "source": "天文学名词",
+   "wordNumber": "08.167",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "光谱中出现(或曾出现)氢的巴耳末发射线，光度级为Ⅱ～Ⅴ，主要为B型的恒星。"
+  },
+  {
+   "cn": "生物等效",
+   "en": "bioequivalence,BE",
+   "source": "核医学名词",
+   "wordNumber": "06.0323",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "以生物利用度和生物学作用为观察指标反映试验新药(制剂)与其参比制剂的相似程度。"
+  },
+  {
+   "cn": "鉴定合格",
+   "en": "be qualified",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.043",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "健康质量量表",
+   "en": "quality of well-being,QWB",
+   "source": "药学名词",
+   "wordNumber": "10.060",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "用行动能力、躯体活动能力、社交能力及疾病症状四个维度测量健康状态的一种方法。"
+  },
+  {
+   "cn": "妄想性读心症",
+   "en": "delusion of thought being read",
+   "source": "行为医学名词",
+   "wordNumber": "16.05",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "解释性妄想的一种表现。当受检者认为别人洞悉自己的活动和思维时，可能出现的精神病理状态。常伴发于关系妄想。"
+  },
+  {
+   "cn": "疑似感染动物",
+   "en": "animal suspected of being infected",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0216",
+   "subjectFullName": "食品科学技术_食品安全_食品安全检测与检疫_检验检疫",
+   "subjectName": "检验检疫",
+   "publishYear": "2020",
+   "definition": "与患病动物处于同一传染环境中，有可能感染该疫病的易感动物。如与患病动物同舍饲养、同车运输或位于患病动物临近下风的易感动物。"
+  },
+  {
+   "cn": "存在",
+   "en": "being",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在取向",
+   "en": "being orientation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在动机",
+   "en": "being motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "幸福感",
+   "en": "well being",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "博普爵士乐",
+   "en": "be-bop",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "Be矮星",
+   "en": "Be dwarf",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "Be星",
+   "en": "Be star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "主观幸福感",
+   "en": "subjective well being",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会福祉",
+   "en": "social well-being",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "广播星历",
+   "en": "broadcast ephemeris\",\"BE",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存在性需要",
+   "en": "being need\",\"B need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在的爱",
+   "en": "being love\",\"B love",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "讲授学习",
+   "en": "learning by being told",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赫比格Ae/Be型星",
+   "en": "Herbig Ae/Be star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "Be／X射线双星",
+   "en": "Be／X-ray binary",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "镭-铍中子源",
+   "en": "Ra-Be neutron source",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "镅-铍中子源",
+   "en": "Am-Be neutron source",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "以未出售为有效的发盘",
+   "en": "offer subject to being unsold",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "依约照付",
+   "en": "pay as may be paid",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "以获得出口许可证为条件",
+   "en": "subject to export license being obtained",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "违背比赛连续性原则",
+   "en": "violation of the principle that play shall be continuous",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "应汇尽汇原则",
+   "en": "principle of collecting all data that ought to be collected",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泄露不应公开的案件信息罪",
+   "en": "crime of divulging case information that should not be made public",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疫情可防、可控、可治",
+   "en": "an epidemic that can be prevented, controlled and stopped",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "站立不稳",
+   "en": "be unbalanced",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "披露、报道不应公开的案件信息罪",
+   "en": "crime of disclosing and reporting case information that should not be disclosed",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "君子一言，驷马难追",
+   "en": "A word spoken is a word that must be honored.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "恕",
+   "en": "Being Considerate / Forgiveness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人",
+   "en": "Human Being; Humanity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "当然",
+   "en": "Should Be So",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "竞技状态良好",
+   "en": "be in form",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "住院",
+   "en": "to be hospitalized/be admitted to hospital",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "言必信，行必果",
+   "en": "Promises Must Be Kept; Actions Must Be Resolute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "师克在和",
+   "en": "To Be Victorious, an Army Must Be United.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随物赋形",
+   "en": "Writing That Flows like Water",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结束！",
+   "en": "Sore-made! That is all!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "静因之道",
+   "en": "Governance by Being Aloof",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "本无",
+   "en": "Benwu（Original Non-being）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玄默之表",
+   "en": "Being Quiet and Reticent",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会存在",
+   "en": "social being",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "不以人的意识为转移的社会客观实在。与“社会意识”相对。"
+  },
+  {
+   "cn": "存在",
+   "en": "being existence",
+   "source": "马克思主义",
+   "wordNumber": "01.0012",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在不同派别的哲学中，“存在”这一范畴在不同意义上被使用。在马克思主义哲学中，存在是物质的同义语。"
+  },
+  {
+   "cn": "福祉",
+   "en": "well-being",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.3.9.1",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力",
+   "subjectName": "针对儿童的暴力",
+   "publishYear": "2025",
+   "definition": "个人和社会体验到的一种积极状态。与健康类似，是日常生活的一种资源，由社会和环境条件决定。儿童福祉是指获得支持、信心和资源，在安全、健康的人际关系中茁壮成长，并充分发挥自身的潜力和权利。"
+  },
+  {
+   "cn": "生物监测当量",
+   "en": "biomonitoring equivalent, BE",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.31",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "生物介质（血液、尿液等）中化学物或其代谢物的浓度或浓度范围，与现有的健康指导值（如每日耐受或允许摄入量）或与癌症可接受风险相当的量。"
+  },
+  {
+   "cn": "良好适应状态质量评估量表",
+   "en": "quality of well-being scale,QWB",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.4.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "由卡普尔首次提出的测量健康相关生命质量的标准化量表，包括移动、生理活动、社会活动、疾病症状四个维度，测量结果经转换可以得到健康效用值。"
+  },
+  {
+   "cn": "良好适应状态指数",
+   "en": "quality of well being index, QWB",
+   "source": "社会医学名词",
+   "wordNumber": "5.4.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "一个生命质量通用型量表。量表包括两个部分，第一部分是有关患者移动、生理活动和社会活动的内容；第二部分是症状及健康问题综合描述。由卡普尔（Kaplan）等研制。"
+  },
+  {
+   "cn": "求真务实",
+   "en": "be realistic and pragmatic",
+   "source": "马克思主义",
+   "wordNumber": "03.0681",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "追求真理，把握规律，真抓实干，务求实效，是党的思想路线的核心内容，也是党的优良传统和共产党人应该具备的政治品格。"
+  },
+  {
+   "cn": "指腹婚",
+   "en": "be betrothed in fetus",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0366",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "子女尚在娘腹中，父母亲就指腹为媒，若所生为一男一女，即结为夫妻。属于中国旧时包办婚姻的一种形式，通过婚姻互相制约，以延续门第之间的平等关系。"
+  },
+  {
+   "cn": "假愈期",
+   "en": "latent phase，period of apparent well-being",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "急性放射病病程的第二阶段。临床症状缓解或基本消失，但机体内部病理过程仍在继续发展。此阶段有无或长短是判断急性放射病严重程度的重要标志之一。"
+  },
+  {
+   "cn": "每个人的全面自由发展",
+   "en": "allround and free development of human being",
+   "source": "马克思主义",
+   "wordNumber": "03.0019",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义的目的。指每个人的体力、智力及一切能力最大限度的发展和改善，人的各种潜能素质的充分发挥。马克思主义认为，只有在共产主义社会，每个人的全面自由发展的理想才能实现，其基础和主要表现是劳动性质的改变"
+  },
+  {
+   "cn": "一切经过试验",
+   "en": "all things should be experimented",
+   "source": "马克思主义",
+   "wordNumber": "04.0175",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在不同类型的客观事物中选择不同的典型进行试验，从而总结概括出该类事物中带有一般规律性的东西，把经过试验后取得的经验再普遍推广，借以指导各项工作顺利开展的一种工作方法。中国共产党提出的“放手发动群众，一"
+  },
+  {
+   "cn": "食用历史",
+   "en": "history to be eat as food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.33",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "某种食品在省辖区域内有30年以上作为定型或者非定型包装食品生产经营的历史，并且未载入《中华人民共和国药典》。"
+  },
+  {
+   "cn": "学习型服务型创新型马克思主义政党",
+   "en": "Marxist party that learnsinnovates and serves the people",
+   "source": "马克思主义",
+   "wordNumber": "03.0792",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2012年党的十八大报告明确提出的党的建设新目标。学习型政党，就是能够形成重视学习、善于学习的理念，建立持续学习的保障机制，形成符合时代要求的学习方法，使学习成为内在需求，主动地运用学习的理念去处理和"
+  },
+  {
+   "cn": "小道理服从大道理",
+   "en": "minor principles should be subordinated to major ones",
+   "source": "马克思主义",
+   "wordNumber": "04.0139",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志提出的处理和解决全局与局部、大局与小局矛盾的基本原则。1979年3月，邓小平在党的理论工作务虚会上指出：“在社会主义制度之下，个人利益要服从集体利益，局部利益要服从整体利益，暂时利益要服从长"
+  },
+  {
+   "cn": "可用于食品的菌种",
+   "en": "strains can be legally used in food ingredients",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.3",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "可用于食品中的一种或多种活的微生物（包括细菌、真菌和酵母），经发酵培养、分离、干燥或不干燥等工序制成的产品。"
+  },
+  {
+   "cn": "老祖宗不能丢又要讲新话",
+   "en": "our forefathers cannot be forgotten and develop new theories",
+   "source": "马克思主义",
+   "wordNumber": "04.0165",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对待马克思主义的一种科学、实事求是、与时俱进的态度。即必须坚持马克思主义的基本原理，同时马克思主义不是静止的封闭的教条，而是一个开放发展的体系，要在坚持中发展马克思主义和在发展中坚持马克思主义，不断根"
+  },
+  {
+   "cn": "公立医院政事分开",
+   "en": "government functions be separated from institution functions in public hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "将政府作为出资人的举办监督职责和公立医院作为事业单位的自主运营管理权限分开的管理体制。"
+  },
+  {
+   "cn": "公立医院医药分开",
+   "en": "health service be separated from drug sales in public hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "将公立医院的医治和用药分开，取消药品在公立医院加成的管理体制。"
+  },
+  {
+   "cn": "公立医院管办分开",
+   "en": "supervision be separated from day-to-day operations in public hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "将政府对公立医院的监督管理职责与公立医院的经营管理职能分开的管理体制。"
+  },
+  {
+   "cn": "可用于婴幼儿食品的菌种",
+   "en": "strains can be legally used in food for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.4",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "可用于婴幼儿食品中的一种或多种微生物（包括细菌、真菌和酵母），经发酵培养、分离、干燥或不干燥等工序制成的产品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

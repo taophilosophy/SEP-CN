@@ -1,0 +1,632 @@
+{
+ "key": "harmless taboo violations",
+ "term": "harmless taboo violations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:22:15+00:00",
+ "status": "ok",
+ "note": "variant=harmless taboo violations; 审定公布名词库=197; 海峡两岸名词对照库=48; 其他来源数据库=15; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "无害化",
+   "en": "harmlessness",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.276",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "以物理、化学或生物的方法，对被污染的事物进行适当的处理，防止不合格产品和不符合质量安全标准的产品流入市场和消费领域，确保其对人类健康、动植物和微生物安全、环境不构成危害或潜在危害。"
+  },
+  {
+   "cn": "无害化",
+   "en": "harmlessness",
+   "source": "生态学名词",
+   "wordNumber": "17.137",
+   "subjectFullName": "生态学_城市生态学、生态工程学和产业生态学",
+   "subjectName": "城市生态学、生态工程学和产业生态学",
+   "publishYear": "2006",
+   "definition": "在生态工程或生态产业中，改变某些原对人体或生态环境有害的生产、消费过程中的环节、产品、废物为无害的工艺或措施及产品。"
+  },
+  {
+   "cn": "禁忌语",
+   "en": "taboo",
+   "source": "语言学名词",
+   "wordNumber": "05.235",
+   "subjectFullName": "语言学_语义学、词汇学_熟语",
+   "subjectName": "熟语",
+   "publishYear": "2011",
+   "definition": "人们在社会特定的价值观、伦理观或文化习俗、宗教信仰影响下，认为不宜于使用的词语。"
+  },
+  {
+   "cn": "违章行为",
+   "en": "violation",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.411",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "无害化处理",
+   "en": "harmless treatment",
+   "source": "农学名词",
+   "wordNumber": "11.093",
+   "subjectFullName": "农业环境保护_生态循环农业",
+   "subjectName": "生态循环农业",
+   "publishYear": "2025",
+   "definition": "将农牧业生产和初加工产生的各类有机废弃物通过发酵工程处理，达到不存在环境卫生问题、不损害人体健康和不污染周围环境的过程。"
+  },
+  {
+   "cn": "无害地段",
+   "en": "harmless district",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0190",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "社会禁忌",
+   "en": "social taboo",
+   "source": "心理学名词",
+   "wordNumber": "04.171",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "一定社会对某些社会行为的禁忌。以道德或宗教为基础，制约着人类行为。如乱伦禁忌、丧葬禁忌等。"
+  },
+  {
+   "cn": "避讳字",
+   "en": "taboo character",
+   "source": "语言学名词",
+   "wordNumber": "02.175",
+   "subjectFullName": "语言学_文字学_汉字系统内部关系",
+   "subjectName": "汉字系统内部关系",
+   "publishYear": "2011",
+   "definition": "历史上为了避尊者名讳，将某字的笔画故意省缺一部分所形成的特殊异体字。例如，唐代为了避太宗李世民讳，将“世”写成“”，将“民”写成“”。"
+  },
+  {
+   "cn": "广告违法行为",
+   "en": "advertising violations",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.316",
+   "subjectFullName": "新闻学与传播学_广告_广告法律法规",
+   "subjectName": "广告法律法规",
+   "publishYear": "2022",
+   "definition": "广告主、广告经营者、广告发布者在广告活动中违反广告管理法律法规和其他法律法规的规定，造成某种危害社会或国家行政管理秩序的有过错的行为。"
+  },
+  {
+   "cn": "程序违法",
+   "en": "procedural violation",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.076",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划监督检查与评估",
+   "subjectName": "城乡规划监督检查与评估",
+   "publishYear": "2021",
+   "definition": "（1）行政机关或者法律、法规授权的组织在进行具体城乡规划管理过程中，违反城乡规划相关法律、法规、规章规定的程序规则。（2）公民、法人或者其他组织在进行具体城乡规划建设过程中，未履行相关程序性义务、获取"
+  },
+  {
+   "cn": "实体违法",
+   "en": "entity violation",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.077",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划监督检查与评估",
+   "subjectName": "城乡规划监督检查与评估",
+   "publishYear": "2021",
+   "definition": "公民、法人或者其他组织的建设行为，违反城乡规划及相关法律法规或者规划许可规定的相关实体要件。"
+  },
+  {
+   "cn": "宇称破坏",
+   "en": "parity violation",
+   "source": "物理学名词",
+   "wordNumber": "09.1380",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "CP 破坏",
+   "en": "CP violation",
+   "source": "物理学名词",
+   "wordNumber": "09.1308",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "标度无关性破坏",
+   "en": "scaling violation",
+   "source": "物理学名词",
+   "wordNumber": "09.1234",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "访问违例",
+   "en": "access violation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0547",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种程序访问内存时发生的访问无效现象。该内存单元已被释放或者内存指针尚未指到对应的对象。"
+  },
+  {
+   "cn": "交通违章",
+   "en": "traffic violation",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "交通违章者",
+   "en": "traffic violator",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.210",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "避讳",
+   "en": "avoidance of taboo",
+   "source": "语言学名词",
+   "wordNumber": "08.126",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。遇有犯忌触讳的事物，不便直接说出，而改用他语来回避掩盖或装饰美化。例如，“鲁迅先生就像他平日一样，工作完了，他休息了。”用“休息”避讳说“死亡”。"
+  },
+  {
+   "cn": "编码违例",
+   "en": "coded violation,CV",
+   "source": "通信科学技术名词",
+   "wordNumber": "09.095",
+   "subjectFullName": "通信科学技术_光纤传输与接入",
+   "subjectName": "光纤传输与接入",
+   "publishYear": "2007",
+   "definition": "实际的数字组合规律与规定的标准规律不一致的现象。"
+  },
+  {
+   "cn": "避讳考订",
+   "en": "examining and correcting taboo",
+   "source": "档案学名词",
+   "wordNumber": "04.03.063",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "利用历史档案中为尊者、圣者、长者避讳的特征来辨别档案形成时间与真伪的考订方法。"
+  },
+  {
+   "cn": "违反",
+   "en": "violation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "违章者",
+   "en": "violator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会禁忌",
+   "en": "social taboo",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存取违例",
+   "en": "access violation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奇偶违例",
+   "en": "parity violation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事故变迁",
+   "en": "violation transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违背协议",
+   "en": "violation of agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "破堤效应",
+   "en": "abstinence violation effect\",\"AVE",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反预期法",
+   "en": "violation of expectation method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "违章排放",
+   "en": "discharge in violation of regulations",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "塔波鼓",
+   "en": "tabor",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "degree of hardness\",\"hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "铠甲",
+   "en": "harness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水质硬度",
+   "en": "water hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬度标度",
+   "en": "hardness scale",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "violation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "violation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回场违例",
+   "en": "backcourt violation\",\"over and back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数码警察",
+   "en": "automatic e-camera for traffic violations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "违背比赛连续性原则",
+   "en": "violation of the principle that play shall be continuous",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法立，有犯而必施；令出，唯行而不返",
+   "en": "Once enacted, a law must be enforced and anyone who violates it must be held to account.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "有法可依，有法必依，执法必严，违法必究",
+   "en": "ensure that laws are put in place, observed, and strictly enforced and that anyone who violates the law is held to account",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "安全索具",
+   "en": "harness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马具工",
+   "en": "harness maker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离坚白",
+   "en": "Separate Hardness from Whiteness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共同抓好大保护，协同推进大治理",
+   "en": "to work together to protect and harness the Yellow River",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "禁忌",
+   "en": "taboo",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.18",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "对特定的物、人或行为在道德、宗教上被限制或禁止的清规戒律。"
+  },
+  {
+   "cn": "禁忌",
+   "en": "taboo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0304",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "出于宗教、道德、社会规范或传统信仰等的考虑，被规定不得触犯的行为、言语或事物。这些禁忌通常与神圣或不祥的概念相关联，违反禁忌可能被认为会带来恶运、灾害或神灵的惩罚。"
+  },
+  {
+   "cn": "乱伦禁忌",
+   "en": "incest taboo",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.13",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "禁止在特定的亲属之间发生性行为。"
+  },
+  {
+   "cn": "乱伦禁忌",
+   "en": "incest taboo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0369",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "禁止存在直系血缘关系及血缘关系很近的男女发生性行为或结婚的规则。"
+  },
+  {
+   "cn": "服饰禁忌",
+   "en": "clothing taboo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0124",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "最早出自民间，同人们原始的鬼魂神灵信仰相关。它将超出人力所限的许多不可知现象同服饰联系起来，并逐渐成为约定俗成的风习；有用色禁忌、形制禁忌、生活禁忌等。"
+  },
+  {
+   "cn": "狩猎讳俗",
+   "en": "hunting taboo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0046",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在一些以狩猎为生的民族（如印第安人、因纽特人）中，存在着对猎取对象的敬畏，因此在部分狩猎民族中有狩猎活动的讳俗。这些民族认为，要取得狩猎成功，就需要对狩猎者的行为加以制约。"
+  },
+  {
+   "cn": "忌讳语",
+   "en": "taboo language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0362",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "由于风习、俗信或个人缘由，某些言语被认为不吉祥或不体面，而代之以别的话语，经久成习，便为忌讳语。它包括两方面的内容：一是禁止说出的词语，二是替代性说法，即委婉语。"
+  },
+  {
+   "cn": "语言禁忌",
+   "en": "language taboos",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0349",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人们对于语言灵物崇拜所产生的一种意识，在交际活动中故意避免使用禁忌词语而另择代称的语言文字应用现象。通常使用涉及死亡、性、生育、排泄等的词语，被认为粗俗或不雅，往往须禁忌。"
+  },
+  {
+   "cn": "垃圾无害化处理",
+   "en": "harmless disposal of garbage",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.2.5",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "使垃圾发生生物、物理、化学变化，分解有机物，达到无害化要求的处理过程，主要有填埋、焚烧和堆肥三种处理方法。"
+  },
+  {
+   "cn": "出海禁忌",
+   "en": "taboo on the sea",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0057",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人们离开大陆来到海洋之后，在生活和生产上的限制和禁止。出海禁忌要求人们出海之后对神圣的或可能带来灾难的人、事、神灵，采取一种避讳态度或禁止性的行为准则；这些禁忌贯穿在衣食住行等方方面面，不同地区渔民的"
+  },
+  {
+   "cn": "无害化处理",
+   "en": "harmless treatment, non-hazardous treatment",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.18",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "用物理、化学等方法处理病死及病害动物和相关动物产品，消灭其所携带的病原体，消除危害的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

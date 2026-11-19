@@ -1,0 +1,772 @@
+{
+ "key": "continuous maintenance",
+ "term": "continuous maintenance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:25:23+00:00",
+ "status": "ok",
+ "note": "variant=continuous maintenance; 审定公布名词库=1295; 海峡两岸名词对照库=287; 其他来源数据库=36; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "维护",
+   "en": "maintenance",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.215",
+   "subjectFullName": "自然辩证法_工程哲学_工程方法论",
+   "subjectName": "工程方法论",
+   "publishYear": "2024",
+   "definition": "对工程系统或相关设备正常运行的维持、防护、保护工作。使其免于故障或遭受破坏。"
+  },
+  {
+   "cn": "维持",
+   "en": "maintenance ",
+   "source": "草学名词",
+   "wordNumber": "2.0313",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "电力名词",
+   "wordNumber": "25.005",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "为保持或恢复元件处于能执行规定功能的状态所进行的包括监督活动在内的一切技术和管理活动。"
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0198",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "用以确保发动机使用寿命的任何手段和活动。"
+  },
+  {
+   "cn": "维护",
+   "en": "maintenance",
+   "source": "通信科学技术名词",
+   "wordNumber": "06.003",
+   "subjectFullName": "通信科学技术_运行、维护与管理",
+   "subjectName": "运行、维护与管理",
+   "publishYear": "2007",
+   "definition": "为在规定范围内，使参与建立通信连接的任何部件完成建立和保持连接所需的全部操作。如安装调测、编制维护流程、例行维护测量、对故障进行定位并清除故障。"
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.229",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.001",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "为航空器保持或恢复到能执行所需功能的状态所进行的全部技术措施和管理活动。"
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "电气工程名词",
+   "wordNumber": "28.093",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "电子学名词",
+   "wordNumber": "18.098",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "维修性",
+   "en": "maintenability",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.003",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "根据设计要求，航空器通过维修所能保持和恢复其在使用中的可靠性程度。"
+  },
+  {
+   "cn": "维护费用",
+   "en": "maintenance cost,maintenance charge",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1092",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机维护",
+   "subjectName": "计算机维护",
+   "publishYear": "2018",
+   "definition": "日常用于系统所包含设备的维修检测等各种费用。其中还包括备品备件占用机时及人工等费用。"
+  },
+  {
+   "cn": "定期维修",
+   "en": "periodic maintenance,routine maintenance",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.005",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "为保证航空器经常处于良好状态，按时间周期执行的计划维修。"
+  },
+  {
+   "cn": "连续[的]",
+   "en": "continuous",
+   "source": "数学名词",
+   "wordNumber": "01.0069",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地层连续",
+   "en": "continuity",
+   "source": "地质学名词",
+   "wordNumber": "07.01.054",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "上、下两组岩层之间没有出现沉积间断或地层缺失。"
+  },
+  {
+   "cn": "续编",
+   "en": "continuation",
+   "source": "档案学名词",
+   "wordNumber": "04.03.028",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献编纂中，指对已有定名的档案文献出版物的时间断限加以延伸且沿用原名的档案文献出版物。"
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.070",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物元素、结构、功能、变化具有的稳定性和延续性。是因果关系的前设，与时空和事物的发展过程相关联。是人类可以运用“规律”做出事物特征性描述的基础。"
+  },
+  {
+   "cn": "连续化",
+   "en": "continuation",
+   "source": "冶金学名词",
+   "wordNumber": "05.1630",
+   "subjectFullName": "冶金学_钢铁冶金_冶金流程工程学",
+   "subjectName": "冶金流程工程学",
+   "publishYear": "2019",
+   "definition": "生产过程的各种参量沿时间轴均匀地、协调地向目标值演变的过程。"
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "物理学名词",
+   "wordNumber": "01.0161",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0088",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "当流体在密闭管中作稳定流动且无流体的增减时，单位时间通过每一截面的流体质量均相等。"
+  },
+  {
+   "cn": "继续",
+   "en": "continuation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0885",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "剑桥学派指称语义中表示从程序某点开始直至运行结束的全部语义。"
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "维修，维护",
+   "en": "maintenance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "维护，保养",
+   "en": "maintenance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "维护费用",
+   "en": "maintenance cost\",\"maintenance charge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "停修时间",
+   "en": "maintenance downtime",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "维修管理",
+   "en": "maintenance management",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "维修费",
+   "en": "maintenance cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保持性复述",
+   "en": "maintenance rehearsal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "维持价格",
+   "en": "maintenance price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海滩养护",
+   "en": "beach maintenance",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "保持甲基化酶",
+   "en": "maintenance methylase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "维护更新",
+   "en": "maintenance renewal",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "维护许可",
+   "en": "maintenance license",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "养路测量",
+   "en": "maintenance survey",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定期维护",
+   "en": "schedule maintenance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非预定维修",
+   "en": "unscheduled maintenance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "继续比赛!",
+   "en": "Continue!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "软件维护",
+   "en": "software maintenance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连续数据",
+   "en": "continuous data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连续转移",
+   "en": "continuous transfer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连续控球",
+   "en": "continuous possession",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续旋转",
+   "en": "continuous spin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续动作",
+   "en": "continuous movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保持高度",
+   "en": "maintenance of height",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "穷则变，变则通，通则久",
+   "en": "Extreme –Change –Continuity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础平台连续性",
+   "en": "basic platform continuity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "业务连续性管理",
+   "en": "business continuity management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准维护增强",
+   "en": "standard maintenance and enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时空连续性",
+   "en": "time and space continuity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自强不息",
+   "en": "Strive Continuously to Strengthen Oneself",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "继续！",
+   "en": "Carry on! Continue! Gyesok! Kyesok!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运维管控域",
+   "en": "operations and maintenance (O&M) control domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赡养协议",
+   "en": "maintenance agreement",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.12",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "赡养人与被赡养人之间或者赡养人之间，依照法律规定或相互间的约定，就承担赡养义务的有关事宜，平等、自愿签订的履行赡养义务的协议。赡养协议分两大类：一类是赡养人与被赡养人签订的赡养协议；另一类是赡养人之间"
+  },
+  {
+   "cn": "语言保持",
+   "en": "language maintenance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.015",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言社区特别是在多语地区继续使用语言群体母语的现象，属于比较积极的语言保护措施。现代社会保持非主体通用语言的使用和发展，特别需要在与语言文字有关的教育、文化、媒体、信息及管理等方面促进和支持语言的使用"
+  },
+  {
+   "cn": "连续监测",
+   "en": "continuous monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.5.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测",
+   "subjectName": "流出物监测",
+   "publishYear": "2025",
+   "definition": "在所关心的时期内的不间断的放射性监测。"
+  },
+  {
+   "cn": "连续方式",
+   "en": "continuous mode",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.56",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线发生装置中电能以连续形式施加于X射线管的加载方式。"
+  },
+  {
+   "cn": "连续变量",
+   "en": "continuous variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.42",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在某界限内连续作微量变化的变量。"
+  },
+  {
+   "cn": "连续性生长",
+   "en": "continuous growth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "体格生长的连续过程。即从受精卵到长大成人的过程中，体格生长在不断进行。"
+  },
+  {
+   "cn": "连续性服务",
+   "en": "continuous service",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.4",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "通过全生命周期覆盖、服务流程无缝衔接、健康信息动态追踪，为社区居民提供从出生到死亡、从健康到疾病、从急性干预到慢性管理的全程化、不间断的健康服务。其目标是确保居民在不同健康阶段、不同服务场景中都能获得"
+  },
+  {
+   "cn": "持续治疗",
+   "en": "continuous treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.038",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "相对于传统固定周期治疗而言的、延长治疗时间的治疗模式。"
+  },
+  {
+   "cn": "文化连续性",
+   "en": "cultural continuity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "文化在长时段历史中所呈现的“层叠性”特征，即文化的发展依靠积累、凝结与积淀，必然呈现为连续渐进的形态。即使是文化衰退，也具有递减的连续性。与文化断层、文化突变相对。"
+  },
+  {
+   "cn": "连续性理论",
+   "en": "continuity theory",
+   "source": "社会学名词",
+   "wordNumber": "3.15.4.3",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年与老龄化相关理论",
+   "subjectName": "老年与老龄化相关理论",
+   "publishYear": "2025",
+   "definition": "解释老年人晚年生活差异性的理论。认为人在成长过程中既有变化又有连续性，随着年龄的增长，主要的个性特点更为明显或终身变化不大；如果人们一生始中维持自己喜爱的角色、保持适应的技巧，那他们就可以成功地老龄化"
+  },
+  {
+   "cn": "继续母乳喂养",
+   "en": "continued breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.10",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "6个月以后的婴幼儿在添加其他食物的基础上仍进行的母乳喂养。"
+  },
+  {
+   "cn": "灭菌维持时间",
+   "en": "sterilization maintenance time",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "灭菌室内参考测量点的主要灭菌因子连续保持在规定范围内的时间。"
+  },
+  {
+   "cn": "无菌性保持试验",
+   "en": "sterility maintenance test",
+   "source": "消毒学",
+   "wordNumber": "6.2.32",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "测定包装完整的灭菌医疗用品在规定的条件下贮存是否保持无菌，来确定灭菌医疗用品包装材料的无菌有效期的测试方法。"
+  },
+  {
+   "cn": "健康维护组织",
+   "en": "health maintenance organizations",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.072000000000001",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "通过预付费用（保费）的方式，为参保成员提供综合、协调、预防性服务的管理式医疗模式。"
+  },
+  {
+   "cn": "热带健康维护",
+   "en": "tropical health maintenance",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.1.2.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热带",
+   "subjectName": "热带",
+   "publishYear": "2025",
+   "definition": "在热带环境中，为维持人体理想的健康状态所采取的措施。"
+  },
+  {
+   "cn": "连续使用稳定性",
+   "en": "continuous application stability",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒剂反复多次使用至规定时间和次数后，仍满足消毒要求的能力。"
+  },
+  {
+   "cn": "持续消毒作用",
+   "en": "continuous disinfection action",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.27",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒剂在较长时间（>24h）对物体表面的微生物仍具有杀菌能力的现象。"
+  },
+  {
+   "cn": "连续性服务",
+   "en": "continuity of care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.5.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "一种以孕产妇为中心的助产服务提供方式，强调关注孕产妇健康需求，从初诊预约至产后阶段在服务计划、组织管理和服务提供方面给予持续的支持。"
+  },
+  {
+   "cn": "继续医学教育",
+   "en": "continuing medical education",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1.6.7",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "医疗卫生专业人员在完成基础医学教育和毕业后医学教育后，为了更新知识、提高专业技能、适应医学科学发展及满足职业需求而进行的系统性、终身学习过程。"
+  },
+  {
+   "cn": "细胞维持液",
+   "en": "cell culture maintenance medium",
+   "source": "消毒学",
+   "wordNumber": "6.2.14.16",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "血清含量低且可以使细胞缓慢生长的同时维持代谢稳定状态的细胞培养液。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

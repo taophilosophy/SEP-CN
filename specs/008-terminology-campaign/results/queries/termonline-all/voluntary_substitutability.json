@@ -1,0 +1,792 @@
+{
+ "key": "voluntary substitutability",
+ "term": "voluntary substitutability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:32:32+00:00",
+ "status": "ok",
+ "note": "variant=voluntary substitutability; 审定公布名词库=215; 海峡两岸名词对照库=95; 其他来源数据库=38; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "随意呼吸",
+   "en": "voluntary respiration,voluntary breathing",
+   "source": "生理学名词",
+   "wordNumber": "06.027",
+   "subjectFullName": "生理学_呼吸生理学",
+   "subjectName": "呼吸生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代换",
+   "en": "substitution",
+   "source": "农学名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在DNA碱基序列中一个嘌呤被另一个嘌呤，或一个嘧啶被另一个嘧啶替代，或供体的染色体或染色体片段取代受体相应染色体或染色体片段而引起遗传信息突变的现象。"
+  },
+  {
+   "cn": "替代",
+   "en": "substitution",
+   "source": "行为医学名词",
+   "wordNumber": "10.076",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "个体在确立的目标与社会要求相矛盾或目标达成受阻时，改换目标或行为方式的一种自我防御机制。"
+  },
+  {
+   "cn": "替代",
+   "en": "substitution",
+   "source": "畜牧学名词",
+   "wordNumber": "07.362",
+   "subjectFullName": "畜牧学_饲料与营养_营养生理与生化_消化吸收",
+   "subjectName": "消化吸收",
+   "publishYear": "2020",
+   "definition": "用功能作用相同或相似的某一类物质取代另一类物质的方法。"
+  },
+  {
+   "cn": "替代",
+   "en": "substitution",
+   "source": "心理学名词",
+   "wordNumber": "15.018",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "个体在确立的目标与社会要求相矛盾或目标达成受阻时，改换目标或行为方式的一种心理防御机制。"
+  },
+  {
+   "cn": "替代药",
+   "en": "substitute",
+   "source": "药学名词",
+   "wordNumber": "08.035",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "由于某种原因不能选用首选药用于治疗时，可供选用的药物品种。"
+  },
+  {
+   "cn": "替换",
+   "en": "substitution",
+   "source": "语言学名词",
+   "wordNumber": "04.255",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "结构主义语法分析术语。在一个语法结构内某一位置上，用一个语法单位替换另一个语法单位的过程或结果，替换发生于其中的结构称为替换框架（substitution frame）。替换包括等量替换和不等量替换："
+  },
+  {
+   "cn": "置换",
+   "en": "substitution",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0081",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "代入",
+   "en": "substitution",
+   "source": "数学名词",
+   "wordNumber": "02.0068",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自投稿",
+   "en": "voluntary submission",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.02.007",
+   "subjectFullName": "编辑与出版学_编辑_组稿",
+   "subjectName": "组稿",
+   "publishYear": "2022",
+   "definition": "作者主动投给编辑部的稿件。"
+  },
+  {
+   "cn": "自由采食量",
+   "en": "voluntary intake ",
+   "source": "草学名词",
+   "wordNumber": "2.0469",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "随意注意",
+   "en": "voluntary attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.013",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "自觉的、有预定目的、需要一定意志努力的注意。"
+  },
+  {
+   "cn": "随意运动",
+   "en": "voluntary movement",
+   "source": "生理学名词",
+   "wordNumber": "03.469",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随意通气量",
+   "en": "voluntary ventilation",
+   "source": "生理学名词",
+   "wordNumber": "06.094",
+   "subjectFullName": "生理学_呼吸生理学",
+   "subjectName": "呼吸生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随意呼吸",
+   "en": "voluntary breathing",
+   "source": "呼吸病学名词",
+   "wordNumber": "04.064",
+   "subjectFullName": "呼吸病学_呼吸运动调节_呼吸调节",
+   "subjectName": "呼吸调节",
+   "publishYear": "2018",
+   "definition": "人可有意识地控制呼吸的深度和频率，使呼吸运动在一定范围内可以随意进行的现象。如屏气、说话、进食等活动都必须靠呼吸运动配合，这些活动和呼吸运动的协调变化都是在大脑皮质的严密控制和协调下完成的。"
+  },
+  {
+   "cn": "志愿组织",
+   "en": "voluntary organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0553",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "组织志愿者参与提供公共服务的社会公益组织。"
+  },
+  {
+   "cn": "自愿服务",
+   "en": "voluntary service",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0580",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "主动寻求并自愿采纳的服务。"
+  },
+  {
+   "cn": "志愿失灵",
+   "en": "voluntary failure",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0590",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "志愿组织因管理方式不善、供给不足等原因导致的服务不足。"
+  },
+  {
+   "cn": "自愿性认证",
+   "en": "voluntary certification",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0839",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "企业可针对强制性产品认证制度管理范围之外的产品或产品技术要求自愿向认证机构提出认证申请的程序。"
+  },
+  {
+   "cn": "自愿性标准",
+   "en": "voluntary standard",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0886",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "在生产、交换、使用等方面，通过经济手段或市场调节而自愿采用的一类标准。"
+  },
+  {
+   "cn": "替代",
+   "en": "substitution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "取代",
+   "en": "substitution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "置换,取代",
+   "en": "substitution",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代入",
+   "en": "substitution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "①代用品 ②替代药",
+   "en": "substitute",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "随意肌",
+   "en": "voluntary muscle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "随意肌",
+   "en": "voluntary muscle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "随意运动",
+   "en": "voluntary movement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有意注意,随意注意",
+   "en": "voluntary attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自动清算",
+   "en": "voluntary liquidation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自愿兑换",
+   "en": "voluntary redemption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自愿拍卖",
+   "en": "voluntary auction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自愿支付",
+   "en": "voluntary payment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自愿仲裁",
+   "en": "voluntary arbitration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "随意肌",
+   "en": "voluntary muscle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "有意搁浅",
+   "en": "voluntary stranding",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自动出口配额",
+   "en": "voluntary export quota",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自动限制措施",
+   "en": "voluntary restrictive measure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "随意肌松弛药",
+   "en": "voluntary muscle relaxant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "基因置换",
+   "en": "gene substitution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"change\",\"substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动弃权",
+   "en": "voluntary forfeit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "reserve\",\"substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "substitute shooter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员",
+   "en": "reserve\",\"substitute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不合法替换",
+   "en": "illegal substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替换",
+   "en": "substitution",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.25",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "故意用另一来源的成分换掉产品声明成分的食品欺诈行为。通常用一种成分或较低价值产品一部分换掉另一种成分或高价值产品一部分，如使用矿物油部分换掉葵花油、在牛奶中添加水解皮革蛋白质。"
+  },
+  {
+   "cn": "推荐性标准",
+   "en": "voluntary standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.9",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "在生产、交换、使用等方面，通过经济手段或市场调节而自愿采用的标准。"
+  },
+  {
+   "cn": "志愿团体",
+   "en": "voluntary agency",
+   "source": "社会学名词",
+   "wordNumber": "2.5.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织化群体",
+   "subjectName": "组织化群体",
+   "publishYear": "2025",
+   "definition": "由志愿者在不谋求任何物质、金钱及相关利益回报的前提下，合理运用社会现有的资源，志愿奉献个人可以奉献的东西，在帮助弱者、消除贫困、保护环境、维护社会秩序和世界和平等方面，开展力所能及的、切合实际的，具一"
+  },
+  {
+   "cn": "自愿参保",
+   "en": "voluntary insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "投保人和保险公司在平等互利、等价有偿的原则基础上，通过协商一致，双方完全自愿订立保险合同建立保险关系的行为。"
+  },
+  {
+   "cn": "有意注意",
+   "en": "voluntary attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "自觉的、因预定目的产生的，经过意志努力保持的注意。"
+  },
+  {
+   "cn": "有意想象",
+   "en": "voluntary imagination",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.6.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "有预定目的、主动地进行想象的过程。"
+  },
+  {
+   "cn": "推荐性标准",
+   "en": "voluntary standards",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.2",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "不强制食品生产者采用，而是通过经济手段或市场调节促使他们自愿采用的标准，一般是对各有关行业起引领作用等需要的技术要求。"
+  },
+  {
+   "cn": "自愿安乐死",
+   "en": "voluntary euthanasia",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.018",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "患者在意识清醒状态下或以生前预嘱的形式，主动明确要求采取医学手段或拒绝医疗干预措施而结束痛苦且治疗无望生命的行为。"
+  },
+  {
+   "cn": "自愿服务机构",
+   "en": "voluntary service agency",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "由社会力量、包括个人在人道主义信念下自发成立的服务机构，具有非官方性与非营利性，主要依靠社会捐助、政府购买和收费服务支持。"
+  },
+  {
+   "cn": "替代效应",
+   "en": "substitution effect",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.1.5.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求",
+   "subjectName": "卫生服务需求",
+   "publishYear": "2025",
+   "definition": "一种服务或商品的价格上涨，消费者可以用其他服务或商品来替代变得更贵的该种服务或商品，而减少该服务或商品的需求量的现象。"
+  },
+  {
+   "cn": "替代喂养",
+   "en": "substitute feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "6个月以内的婴儿由于各种原因不能进行母乳喂养时，完全采用配方奶或其它兽乳等的喂哺方法。"
+  },
+  {
+   "cn": "母乳代用品",
+   "en": "breast-milk substitutes",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.8",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "任何指明为喂养三岁及以下婴幼儿而销售的奶（或可用于替代奶的产品），包括高段配方奶和成长奶。"
+  },
+  {
+   "cn": "母乳代用品",
+   "en": "breast milk substitute",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.20",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "利用牛奶、大豆等制品加工成的婴幼儿配方食品(奶粉)，并参照母乳成分调整营养素含量，添加多种微量营养素，如矿物质和维生素。"
+  },
+  {
+   "cn": "代可可脂",
+   "en": "cocoa butter substitute",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.3.9",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "来源于可可之外的植物油脂，可全部或部分代替可可脂。"
+  },
+  {
+   "cn": "自愿性标识",
+   "en": "voluntary labelling, non-mandatary labelling",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.62",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "食品生产商可以根据自身情况决定是否标注的信息。"
+  },
+  {
+   "cn": "共产主义星期六义务劳动",
+   "en": "communist voluntary labor on Saturday",
+   "source": "马克思主义",
+   "wordNumber": "03.0271",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏俄国内战争期间劳动者为公共利益而进行的一种自愿无报酬的劳动形式。最先发起这一行动的是莫斯科—喀山铁路编组站的党支部。1919年4月12日(星期六)晚,该支部的15名共产党员响应列宁关于改进铁路运输的"
+  },
+  {
+   "cn": "艾滋病自愿咨询检测",
+   "en": "aids voluntary counseling and testing",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.031",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "个体主动咨询并自愿接受艾滋病病毒检测，以尽早发现、及时治疗和预防感染，促使受检者减少危险行为，预防艾滋病病毒传播的行为或过程。"
+  },
+  {
+   "cn": "边际替代率",
+   "en": "marginal rate of substitution",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "消费者在保持同等满足程度时增加一种商品的数量与该消费者必须放弃的另一种商品的数量之比。"
+  },
+  {
+   "cn": "卫生人力要素替代",
+   "en": "human resource factor substitution",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.5",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "当一种卫生人力的价格上升，其需求量会下降，医疗机构可以通过提高另一种卫生人力的需求量来达到预定的产出量，不同类型卫生人力之间以及人力与设备等之间具有的替代性。"
+  },
+  {
+   "cn": "边际技术替代率",
+   "en": "marginal rate of technical substitution",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在产量保持一定的前提条件下，增加一单位某种生产要素可以代替的另外一种要素的数量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

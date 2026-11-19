@@ -1,0 +1,612 @@
+{
+ "key": "dysfunction",
+ "term": "dysfunction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:33:30+00:00",
+ "status": "ok",
+ "note": "variant=dysfunction; 审定公布名词库=390; 海峡两岸名词对照库=20; 其他来源数据库=8; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "功能障碍",
+   "en": "dysfunction",
+   "source": "手外科学名词",
+   "wordNumber": "06.0015",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "身体、心理不能发挥正常功能的状态。可以是潜在的或现在的，可逆的或不可逆的，部分的或完全的，可以与疾病并存或为后遗 症。"
+  },
+  {
+   "cn": "功能障碍",
+   "en": "dysfunction",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "物理医学与康复_总论_物理医学与康复概论",
+   "subjectName": "物理医学与康复概论",
+   "publishYear": "2014",
+   "definition": "本应具有的生理功能不能正常发挥的状态。"
+  },
+  {
+   "cn": "功能障碍",
+   "en": "dysfunction",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0241",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "肝功能障碍",
+   "en": "liver dysfunction,hepatic dysfunction,hepatic function dysfunction",
+   "source": "烧伤学名词",
+   "wordNumber": "03.230",
+   "subjectFullName": "烧伤学_烧伤并发症_烧伤后脑、肠道损伤及其他脏器和系统损伤",
+   "subjectName": "烧伤后脑、肠道损伤及其他脏器和系统损伤",
+   "publishYear": "2019",
+   "definition": "肝脏受到某些致病因素的损害引起的肝脏形态结构的破坏（变性、坏死、肝硬化）和肝功能异常。但由于肝脏具有强大的储备能力和再生能力，轻度的损害一般不会使之发生明显的功能异常。"
+  },
+  {
+   "cn": "功能失调性假设",
+   "en": "dysfunctional hypothesis",
+   "source": "行为医学名词",
+   "wordNumber": "2.107",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "个体自童年开始建立起来的一种相对稳定地看待世界（人、事件、环境），倾向于采用消极、失调性认知事物的方式、态度、信念和假设。处于人格深层，不易被个体察觉，在特定事件触发下会被激活。"
+  },
+  {
+   "cn": "功能不良冲突",
+   "en": "dysfunctional conflict",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0247",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_领导与权力",
+   "subjectName": "领导与权力",
+   "publishYear": "2016",
+   "definition": "多职能相互对立且阻碍目标实现的冲突。"
+  },
+  {
+   "cn": "器官功能不全",
+   "en": "organ dysfunction",
+   "source": "普通外科学名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "医学_普通外科学_危重疾病",
+   "subjectName": "危重疾病",
+   "publishYear": "2026",
+   "definition": "在创伤、感染或其他各种打击下使机体稳态受到破坏而发生的器官功能改变，需要依靠临床干预才能维持器官功能的临床状态。严重者称为器官功能衰竭。"
+  },
+  {
+   "cn": "肠功能障碍",
+   "en": "intestinal dysfunction",
+   "source": "普通外科学名词",
+   "wordNumber": "07.015",
+   "subjectFullName": "医学_普通外科学_危重疾病",
+   "subjectName": "危重疾病",
+   "publishYear": "2026",
+   "definition": "肠实质和（或）功能的损害导致消化、营养吸收和（或）屏障功能发生障碍。可分为三类：①功能性小肠长度绝对减少，如短肠综合征；②小肠实质广泛损伤，如放射性肠损伤、炎症性肠病、假性肠梗阻、肠外瘘、肠梗阻等；③"
+  },
+  {
+   "cn": "前庭功能障碍",
+   "en": "vestibular dysfunction",
+   "source": "神经外科学名词",
+   "wordNumber": "4.01",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_症状",
+   "subjectName": "症状",
+   "publishYear": "2026",
+   "definition": "人体平衡系统的紊乱。可分为外周性病因和中枢性病因，外周和中枢性前庭功能障碍的症状可能重叠。通常表现为急性发病，出现眩晕、恶心、呕吐、头部运动不耐受、眼球震颤、步态不稳和姿势不稳。"
+  },
+  {
+   "cn": "肢体功能障碍",
+   "en": "limb dysfunction",
+   "source": "神经外科学名词",
+   "wordNumber": "7.095",
+   "subjectFullName": "医学_神经外科学_创伤性脑损伤_创伤性脑损伤相关并发症",
+   "subjectName": "创伤性脑损伤相关并发症",
+   "publishYear": "2026",
+   "definition": "病理性因素导致的肢体原有的运动和（或）感觉功能减弱或者丧失的状态。可表现为肢体不受思维控制运动，或受思维控制但不能完全按照思维控制行动；一侧肢体感觉异常或者感觉缺失，对疼痛、温度、位置等不能正确分辨等"
+  },
+  {
+   "cn": "甲状腺功能异常",
+   "en": "thyroid dysfunction",
+   "source": "神经外科学名词",
+   "wordNumber": "17.079",
+   "subjectFullName": "医学_神经外科学_神经外科重症监护_神经外科重症常见并发症及结局",
+   "subjectName": "神经外科重症常见并发症及结局",
+   "publishYear": "2026",
+   "definition": "甲状腺本身或下丘脑垂体病变导致的甲状腺激素分泌异常。如生成甲状腺激素过少，使机体代谢减慢，就会导致甲状腺功能不全。如生成甲状腺激素过多，可使机体代谢增快，引起甲状腺功能亢进。"
+  },
+  {
+   "cn": "微循环功能异常",
+   "en": "microcirculation dysfunction",
+   "source": "普通外科学名词",
+   "wordNumber": "25.132",
+   "subjectFullName": "医学_普通外科学_血管外科",
+   "subjectName": "血管外科",
+   "publishYear": "2026",
+   "definition": "微动脉和微静脉之间的血液循环，即血液与组织细胞进行物质交换功能的异常。"
+  },
+  {
+   "cn": "淋巴管功能障碍",
+   "en": "lymphatic dysfunction",
+   "source": "整形外科名词",
+   "wordNumber": "19.13",
+   "subjectFullName": "整形外科_躯干及四肢整形_淋巴水肿修复",
+   "subjectName": "淋巴水肿修复",
+   "publishYear": "2026",
+   "definition": "淋巴管生成淋巴液或输送淋巴液的功能丧失或减弱的异常现象。"
+  },
+  {
+   "cn": "感觉障碍",
+   "en": "sensory dysfunction",
+   "source": "急救医学名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "感觉传导通路受损导致的感觉异常。感觉传导通路不同部位受损时其临床症状不同，为定位诊断提供了重要的线索。"
+  },
+  {
+   "cn": "嗅觉障碍",
+   "en": "olfactory dysfunction",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "2.3.7",
+   "subjectFullName": "鼻科_鼻症状",
+   "subjectName": "鼻症状",
+   "publishYear": "2025",
+   "definition": "部分或全部嗅觉功能下降、丧失或异常的表现。临床以嗅觉减退和嗅觉丧失常见，而嗅觉过敏、嗅觉倒错和幻嗅则较为少见。"
+  },
+  {
+   "cn": "共鸣障碍",
+   "en": "resonance dysfunction",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "2.3.8",
+   "subjectFullName": "鼻科_鼻症状",
+   "subjectName": "鼻症状",
+   "publishYear": "2025",
+   "definition": "鼻腔鼻窦的解剖变异或病变导致的闭塞性鼻音或开放性鼻音。"
+  },
+  {
+   "cn": "肝功能不全",
+   "en": "hepatic dysfunction",
+   "source": "麻醉学名词",
+   "wordNumber": "05.201",
+   "subjectFullName": "麻醉学_重症监护与治疗_休克",
+   "subjectName": "休克",
+   "publishYear": "2024",
+   "definition": "任何原因引起肝细胞坏死、变性或萎缩，肝细胞数量减少所导致的肝功能异常。有明显的物质代谢障碍、解毒功能降低、胆汁形成和排泄障碍及出血倾向等病理现象。"
+  },
+  {
+   "cn": "生精功能障碍",
+   "en": "spermatogenic dysfunction",
+   "source": "男科及性医学名词",
+   "wordNumber": "14.030",
+   "subjectFullName": "男科及性医学_男性不育与辅助生殖",
+   "subjectName": "男性不育与辅助生殖",
+   "publishYear": "2023",
+   "definition": "因先天性或后天性因素导致下丘脑、垂体、睾丸病变，使睾丸精子发生受损，出现精子数量和（或）质量异常的病理表现。组织病理学表现主要为生精功能低下、生精成熟阻滞、唯支持细胞综合征、终末期睾丸。血清睾酮水平可"
+  },
+  {
+   "cn": "性功能障碍",
+   "en": "sexual dysfunction",
+   "source": "男科及性医学名词",
+   "wordNumber": "18.052",
+   "subjectFullName": "男科及性医学_性反应与性功能",
+   "subjectName": "性反应与性功能",
+   "publishYear": "2023",
+   "definition": "因器质性和（或）心理性因素，个体或其伴侣在性行为的各个方面，如性欲、性唤起、性高潮等性反应周期中任何一个或多个环节出现障碍，以致不能完成满意性活动的疾病。"
+  },
+  {
+   "cn": "射精功能障碍",
+   "en": "ejaculatory dysfunction",
+   "source": "男科及性医学名词",
+   "wordNumber": "20.047",
+   "subjectFullName": "男科及性医学_男性性功能障碍",
+   "subjectName": "男性性功能障碍",
+   "publishYear": "2023",
+   "definition": "由心因性和（或）器质性病因导致的射精功能异常。包括早泄、延迟射精或不射精、逆向射精、射精痛等。"
+  },
+  {
+   "cn": "功能障碍",
+   "en": "dysfunction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "功能失调性态度量表",
+   "en": "Dysfunctional Attitude Scale\",\"DAS",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "岛状间断分布",
+   "en": "island disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泛北极间断分布",
+   "en": "holarctic disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泛南极间断分布",
+   "en": "holantarctic disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "古热带间断分布",
+   "en": "paleotropical disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环极间断分布",
+   "en": "circumpolar disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "洲际间断分布",
+   "en": "intercontinental disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分布区间断",
+   "en": "areal disjunction",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "染色体分离",
+   "en": "chromosome disjunction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "间断分布",
+   "en": "disjunction\",\"discontinuous distribution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "染色体不分离",
+   "en": "chromosome non-disjunction",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不连续分布区（=间断分布区）",
+   "en": "areal disjunction\",\"discontinuous areal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "间断分布区，不连续分布区",
+   "en": "areal disjunction\",\"discontinuous areal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性功能障碍",
+   "en": "sexual dysfunction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "性活动中的某一环节发生障碍，从而影响正常性功能的现象。男性可表现为性欲障碍、勃起功能障碍、早泄、不射精和逆行射精等。女性可表现为性欲障碍、性唤起障碍、性高潮障碍等。"
+  },
+  {
+   "cn": "性功能异常性不育",
+   "en": "sexual dysfunction caused infertility",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.6.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_男性不育",
+   "subjectName": "男性不育",
+   "publishYear": "2025",
+   "definition": "由性欲障碍、勃起功能障碍、插入障碍和射精障碍等等性功能障碍导致的生育障碍。"
+  },
+  {
+   "cn": "老年人性功能障碍",
+   "en": "sexual dysfunction in the elderly",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.8.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_老年期保健",
+   "subjectName": "老年期保健",
+   "publishYear": "2025",
+   "definition": "老年人因性功能减退，无法参与到性互动活动中的一种障碍。"
+  },
+  {
+   "cn": "盆底功能障碍性疾病筛查",
+   "en": "pelvic floor dysfunction screening, PFD screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "对适龄妇女开展盆底肌肉压力、张力等检测，以筛查盆腔器官脱垂、尿失禁等盆底功能障碍性疾病，并对筛查异常者进行相应的诊断和治疗的措施。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

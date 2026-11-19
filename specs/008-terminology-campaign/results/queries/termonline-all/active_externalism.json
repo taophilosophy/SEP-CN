@@ -1,0 +1,762 @@
+{
+ "key": "active externalism",
+ "term": "active externalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:42:33+00:00",
+ "status": "ok",
+ "note": "variant=active externalism; 审定公布名词库=3454; 海峡两岸名词对照库=1139; 其他来源数据库=140; 预公布名词数据库=272; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "外部性",
+   "en": "externality",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.153",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "个人或组织的行为导致其他人或组织受损或受益的情况。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externality",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1006",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "某个企业的经济行为(或者某个人的消费行为)，经过非价格手段，直接地、不可避免地影响到其他企业的生产(或者其他人的效用)，并且成为后者自己所不能加以控制的情况。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externality",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.196",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "一个经济主体的经济活动对另一个经济主体所产生的有害或有益的影响。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externalities",
+   "source": "经济学名词",
+   "wordNumber": "03.206",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "对他人产生的有利或者不利的影响，但不需要他人为此支付报酬或进行补偿性活动。当私人成本或收益不等于社会成本或收益时，就会产生外部性问题。"
+  },
+  {
+   "cn": "外化",
+   "en": "externalization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0740",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "阐释和发展包含于隐性知识中的概念，将隐性知识转化成显性知识的过程。"
+  },
+  {
+   "cn": "外",
+   "en": "external",
+   "source": "人体解剖学名词",
+   "wordNumber": "01.0021",
+   "subjectFullName": "人体解剖学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "对人体的空腔脏器而言，远离内腔者为外。"
+  },
+  {
+   "cn": "有源的",
+   "en": "active",
+   "source": "电力名词",
+   "wordNumber": "01.182",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "描述不是无源的电路元件或电路。"
+  },
+  {
+   "cn": "外睑腺炎",
+   "en": "external hordeolum,external sty",
+   "source": "老年医学名词",
+   "wordNumber": "04.930",
+   "subjectFullName": "老年医学_老年临床医学_老年眼科疾病",
+   "subjectName": "老年眼科疾病",
+   "publishYear": "2017",
+   "definition": "眼睑皮脂腺或汗腺的化脓性感染。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "地质学名词",
+   "wordNumber": "13.01.107",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "为使理想溶液(或极稀溶液)的热力学公式适用于实际溶液，用来代替浓度的一种物理量。在电解质溶液中指实际发挥作用的有效浓度。有效浓度与实际浓度的比值称为“活度系数（activity coefficient"
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "农学名词",
+   "wordNumber": "10.224",
+   "subjectFullName": "植物保护_农药",
+   "subjectName": "农药",
+   "publishYear": "2025",
+   "definition": "能增加其他物质活化作用的助剂。"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0174",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）某种物质的化学或物理反应能力。如某种酶、药物、激素或其他物质的效能。 （2）某种放射活性物质的强度。"
+  },
+  {
+   "cn": "激活[作用]",
+   "en": "activation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0224",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）生物分子或信号转导途径从无活性或低活性转变为有活性或高活性的过程。如无活性的酶原转变成有活性的酶的过程。（2）受体经与激素结合后而产生生物学效应的过程。"
+  },
+  {
+   "cn": "激活物",
+   "en": "activator",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0225",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "能激活其他物质或加速生化反应或信号转导过程的分子。如能提高特定酶活性的离子或简单的有机化合物；对酶原起激活作用的大分子物质；能与基因上游的调节性DNA序列相结合从而激活基因转录的一类蛋白质等。"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.084",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "对于生物反应，是表示酶、细胞等促进反应的能力。"
+  },
+  {
+   "cn": "活化",
+   "en": "activation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.118",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "粒子（如原子或离子）从外界获得足够能量后，其电子由较低的基态能级跃迁到较高能级的过程。"
+  },
+  {
+   "cn": "行动主义",
+   "en": "activism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.013",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "一种强调直接行动以支持或反对某一争议性议题的学说或实践。其目的是推动社会变革。行动主义首先是一种行动，无论是社会行动还是个人行动，均会以各种各样的行动或运动形式呈现出来；其次是积极介入广泛的社会议题，"
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "行为医学名词",
+   "wordNumber": "1.012",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "（1）机体运动或为某种目的而行动。（2）一切物体（事物）的动态变化。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.054",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_电镀与化学镀",
+   "subjectName": "电镀与化学镀",
+   "publishYear": "2021",
+   "definition": "在标准状态下，溶液中组分的热力学浓度。即矫正真实溶液与理想溶液性质的偏差。"
+  },
+  {
+   "cn": "活化",
+   "en": "activation",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.0011",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀原理及类型",
+   "subjectName": "腐蚀原理及类型",
+   "publishYear": "2021",
+   "definition": "钝态金属由于其钝化膜的全部或局部去除而引起腐蚀速率增加的现象。"
+  },
+  {
+   "cn": "激活剂",
+   "en": "activator",
+   "source": "光学名词",
+   "wordNumber": "04.127",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "将某种杂质离子或基团掺入基质，使之成为高效的发光中心的物质。例如稀土离子、过渡族金属离子等。"
+  },
+  {
+   "cn": "外[的]",
+   "en": "external",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外化",
+   "en": "externalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "活化，激活",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂，激活剂",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活（=活化）",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活剂（=活化剂）",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活化",
+   "en": "activation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活化［作用］",
+   "en": "activation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "激活作用",
+   "en": "activation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "激活",
+   "en": "activation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "激活",
+   "en": "activation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活化",
+   "en": "activation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络外部性",
+   "en": "network externality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感物",
+   "en": "Sensed Externalities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场外区域",
+   "en": "external space",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外力干扰",
+   "en": "external interference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动进攻",
+   "en": "active wrestling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加力推挡",
+   "en": "active block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主动反击",
+   "en": "active counterattack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活数据学",
+   "en": "Activation Dataology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景激活",
+   "en": "scenario activation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据活动",
+   "en": "data activity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自动体外除颤器",
+   "en": "Automated External Defibrillator",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外存储子系统",
+   "en": "external storage subsystem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外在性",
+   "en": "externality",
+   "source": "马克思主义",
+   "wordNumber": "01.0070",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物显露在外的性质与特征。"
+  },
+  {
+   "cn": "外化",
+   "en": "externalization",
+   "source": "马克思主义",
+   "wordNumber": "01.0068",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "内在的、精神性的东西转化为物质性的东西。德国哲学家黑格尔常用的哲学术语，主要指物质由绝对精神外化而来。马克思主义哲学中，外化是指通过人类社会实践将主体的人的思想、观念的力量转化为对象性的物质存在形式。"
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且有益的影响。"
+  },
+  {
+   "cn": "负外部效应",
+   "en": "negative externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且不利的影响。"
+  },
+  {
+   "cn": "外照射",
+   "en": "external exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.4.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_途径分类",
+   "subjectName": "途径分类",
+   "publishYear": "2025",
+   "definition": "存在于体外的电离辐射源对机体的照射。"
+  },
+  {
+   "cn": "外在效度",
+   "en": "external validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.79",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以判断研究发现能否推论到更广泛的总体的量度。"
+  },
+  {
+   "cn": "外在表现",
+   "en": "external performance",
+   "source": "马克思主义",
+   "wordNumber": "01.0071",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内在本质”相对。事物在发生、发展、变化过程中所表现的外部联系性和客观形式。"
+  },
+  {
+   "cn": "外在联系",
+   "en": "external connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0072",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内在联系”相对。这种关系不是原有的，属于非本质、非必然关系，对事物性质没有决定性的影响。"
+  },
+  {
+   "cn": "外在尺度",
+   "en": "external scale",
+   "source": "马克思主义",
+   "wordNumber": "01.0170",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思在《1844年经济学哲学手稿》中提出的哲学范畴。指客体对象的尺度，即由对象的性质、属性、规律所规定的尺度，是一种客观性尺度，是客观对象所固有的本性和规律的表现。内在尺度要运用到对象上去，必须遵循"
+  },
+  {
+   "cn": "对外贸易",
+   "en": "external trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0282",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一个国家（地区）与另一个国家（地区）之间的商品、劳务和技术的交换活动。这种贸易由进口和出口两个部分组成。对运进商品或劳务的国家（地区）来说，就是进口；对运出商品或劳务的国家（地区）来说，就是出口。"
+  },
+  {
+   "cn": "网络外部性",
+   "en": "network externalities",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.3",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "使用网络产品不仅使消费者受益或受损，还能使其他消费者或非消费者受益或受损的一种特性。"
+  },
+  {
+   "cn": "外部评价",
+   "en": "external evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.4.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "由系统或组织外部第三方以受委托或独立的方式对特定妇幼卫生服务或项目开展基于标准评估的活动，涵盖认可、认证、许可等。"
+  },
+  {
+   "cn": "外部审计",
+   "en": "external audit",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.3.5",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "健康教育活动过程中，由与该活动不相关的外部人员对是否按项目要求投入资金、分配是否符合需要进行判断的活动。"
+  },
+  {
+   "cn": "外剂量",
+   "en": "external dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.15",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一种受控试验条件下，按特定途径以特定频率给予实验动物或人体某种试剂或化学物质的剂量。"
+  },
+  {
+   "cn": "外照射",
+   "en": "external exposure",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.32",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "来自体外辐射源对人体造成的照射。"
+  },
+  {
+   "cn": "外暴露量",
+   "en": "external exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.15",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "生物、系统或（亚）人群接触环境介质中的某种因素的浓度或含量"
+  },
+  {
+   "cn": "有效成分",
+   "en": "active ingredient",
+   "source": "消毒学",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在消毒剂配方中，对微生物具有杀灭作用的物质。"
+  },
+  {
+   "cn": "活性氯",
+   "en": "active chlorine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.8",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有氧化性的氯离子，是消毒的主要有效成分。"
+  },
+  {
+   "cn": "积极老龄化",
+   "en": "active aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "世界卫生组织在20世纪90年代后期提出的理念。人到老年时，为提高生活质量，使健康、参与和保障的机会最优化的过程。既适用于个体，也适用于人群。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

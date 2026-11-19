@@ -1,0 +1,672 @@
+{
+ "key": "incompatibility range",
+ "term": "incompatibility range",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:09:53+00:00",
+ "status": "ok",
+ "note": "variant=incompatibility range; 审定公布名词库=802; 海峡两岸名词对照库=350; 其他来源数据库=36; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "不亲和性",
+   "en": "incompatibility",
+   "source": "农学名词",
+   "wordNumber": "06.233",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "花粉和胚囊具有完整功能，但由于遗传或生理的原因雌雄配子不能进行受精的现象。"
+  },
+  {
+   "cn": "相畏",
+   "en": "incompatibility",
+   "source": "兽医学名词",
+   "wordNumber": "19.300",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "一种药物的毒性或副作用，能被另一种药物减轻或消除的配伍关系。"
+  },
+  {
+   "cn": "配伍禁忌",
+   "en": "incompatibility",
+   "source": "感染病学名词",
+   "wordNumber": "01.0648",
+   "subjectFullName": "感染病学_总论_抗感染治疗",
+   "subjectName": "抗感染治疗",
+   "publishYear": "2019",
+   "definition": "两种或两种以上药物混合在一起时，可发生物理或化学作用，使药物失去效应或出现毒副作用的现象。"
+  },
+  {
+   "cn": "配伍禁忌",
+   "en": "incompatibility",
+   "source": "结核病学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_药物代谢",
+   "subjectName": "药物代谢",
+   "publishYear": "2019",
+   "definition": "药物在体外配伍直接发生物理性或化学性的相互作用而影响药物疗效或引起毒性反应的现象。"
+  },
+  {
+   "cn": "不亲和性",
+   "en": "incompatibility",
+   "source": "植物学名词",
+   "wordNumber": "08.0268",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "(1)如果用有活力的可育花粉给具功能雌配子的雌蕊授粉后不能结实，但能与另一个雌蕊实现受精，则称该花粉与前一个雌蕊之间为不亲和性。(2)遗传性相近且有活力的、可育雌雄配子之间不能受精的现象。"
+  },
+  {
+   "cn": "不相容性",
+   "en": "incompatibility",
+   "source": "物理学名词",
+   "wordNumber": "07.0084",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "配伍禁忌",
+   "en": "incompatibility",
+   "source": "老年医学名词",
+   "wordNumber": "05.079",
+   "subjectFullName": "老年医学_老年人合理用药",
+   "subjectName": "老年人合理用药",
+   "publishYear": "2017",
+   "definition": "药物在体外配伍直接发生物理性或化学性的相互作用而影响药物疗效或引起毒性反应的现象。"
+  },
+  {
+   "cn": "不亲和性",
+   "en": "incompatibility",
+   "source": "林学名词",
+   "wordNumber": "04.120",
+   "subjectFullName": "林学_林木遗传育种_杂交育种",
+   "subjectName": "杂交育种",
+   "publishYear": "2016",
+   "definition": "亲本间杂交，因组织、细胞(染色体组)或分子水平上的不协调而花粉不能在雌蕊(或胚珠)上萌发，或萌发后花粉管不能正常达到胚囊受精，或是受精后胚胎不能正常发育形成种子的现象。多发生在远缘杂交时。"
+  },
+  {
+   "cn": "不相容性",
+   "en": "incompatibility",
+   "source": "化学名词",
+   "wordNumber": "05.0884",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "在不相溶高分子共混物或高分子复合物中，各组分表现的界面分离能力。"
+  },
+  {
+   "cn": "配伍禁忌",
+   "en": "incompatibility",
+   "source": "药学名词",
+   "wordNumber": "08.061",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "在一定条件下，产生的不利于应用和治疗的合用药物之间的配伍变化。"
+  },
+  {
+   "cn": "相畏",
+   "en": "incompatibility",
+   "source": "中医药学名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "一药毒性反应或副作用，能被合用的另一药减轻或消除的配伍关系。"
+  },
+  {
+   "cn": "自交不亲和",
+   "en": "self-incompatibility",
+   "source": "风景园林名词",
+   "wordNumber": "09.0182",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "具有完全花并可以形成正常雌、雄配子，但缺乏自花授粉结实能力的一种自交不育现象。"
+  },
+  {
+   "cn": "自交不亲和性",
+   "en": "self-incompatibility",
+   "source": "农学名词",
+   "wordNumber": "06.235",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "具有完全花并可形成正常的雌雄配子，但当具有相同基因型的雌雄配子授粉时，花粉不能萌发或萌发后不能受精，从而导致自交不结实的特性。"
+  },
+  {
+   "cn": "杂交不亲和性",
+   "en": "cross-incompatibility",
+   "source": "农学名词",
+   "wordNumber": "06.237",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "远缘的雌雄配子不能结合形成合子，或合子胚不发育，不能形成幼苗的现象。"
+  },
+  {
+   "cn": "细胞质不亲和性",
+   "en": "cytoplasmic incompatibility",
+   "source": "农学名词",
+   "wordNumber": "06.238",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由两个配子的细胞质不兼容导致合子死亡的现象。"
+  },
+  {
+   "cn": "质粒不相容性",
+   "en": "plasmid incompatibility",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0161",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "在无选择压力的条件下，亲缘关系密切的不同质粒或同一不相容群的质粒不能稳定共存于同一宿主细胞，在细胞增殖过程中将有一种被排斥的现象。是细菌质粒分类的一种标准。"
+  },
+  {
+   "cn": "配子不亲和性",
+   "en": "gametic incompatibility",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.298",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "雌配子与雄配子不能融合形成正常合子的特性。"
+  },
+  {
+   "cn": "种内不亲和性",
+   "en": "intraspecific incompatibility",
+   "source": "植物学名词",
+   "wordNumber": "08.0277",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "发生在同一物种植物个体之间的不亲和性。"
+  },
+  {
+   "cn": "自交不亲和性",
+   "en": "self-incompatibility",
+   "source": "植物学名词",
+   "wordNumber": "08.0271",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "植物雌蕊的柱头或花柱通过识别自体或异体花粉，并抑制自体花粉的萌发或生长，导致自体受精不能产生合子的现象。"
+  },
+  {
+   "cn": "种间不亲和性",
+   "en": "interspecific incompatibility",
+   "source": "植物学名词",
+   "wordNumber": "08.0276",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "发生在不同物种植物个体之间的不亲和性。"
+  },
+  {
+   "cn": "不亲和性",
+   "en": "incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不相容性",
+   "en": "incompatibility",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不相容性,不亲和性",
+   "en": "incompatibility",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "①相畏 ②配伍禁忌",
+   "en": "incompatibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "单倍体不亲和性",
+   "en": "haploid incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "配子不亲和性",
+   "en": "gametic incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种间不亲和性",
+   "en": "interspecific incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种内不亲和性",
+   "en": "intraspecific incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自交不亲和性",
+   "en": "self-incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自交不亲和性",
+   "en": "self-incompatibility",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "质粒不相容性,质粒不亲和性",
+   "en": "plasmid incompatibility",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "质粒不相容性",
+   "en": "plasmid incompatibility",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自交不亲和性",
+   "en": "self-incompatibility",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "配子不亲和性",
+   "en": "gametic incompatibility",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "化学配伍禁忌",
+   "en": "chemical incompatibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "物理学配伍禁忌",
+   "en": "physical incompatibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "药理学配伍禁忌",
+   "en": "pharmacological incompatibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "治疗性配伍禁忌",
+   "en": "therapeutic incompatibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不相容反应",
+   "en": "incompatible response",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不相容群",
+   "en": "incompatible group",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "射程",
+   "en": "range",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据靶场",
+   "en": "Data Range",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络战靶场",
+   "en": "cyberwar range",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "靶场测量",
+   "en": "range gauging",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶场记录",
+   "en": "range register",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效射程",
+   "en": "effective range",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击馆",
+   "en": "shooting range",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击场",
+   "en": "shooting range",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地线裁判员",
+   "en": "range officer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不兼容分时系统",
+   "en": "Incompatible Timesharing System (ITS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新兴网络靶场",
+   "en": "emerging cyber range",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多级靶标系统",
+   "en": "multistage range system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络安全靶场实验室",
+   "en": "Cybersecurity Range Laboratory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中距离击打",
+   "en": "medium range fighting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多向飞碟靶场",
+   "en": "trap shooting range",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实际射程",
+   "en": "practical range",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.35",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "对电子束辐射，模体表面位于正常治疗距离，辐射束轴上吸收剂量分布下降最陡段（斜率最大处）切线的外推与深度吸收剂量分布曲线末端的外推线相交点处所对应的深度。"
+  },
+  {
+   "cn": "极差法",
+   "en": "range method",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "一组数据中最大值减去最小值的计算方法。"
+  },
+  {
+   "cn": "大撒网式检查",
+   "en": "wide range inspection",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.029",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "临床诊断中盲目使用或扩大辅助检查手段及范围的违背诊疗道德规范的行为。"
+  },
+  {
+   "cn": "中程理论",
+   "en": "middle range theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0073",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国考古学家路易斯·宾福德（Lewis Binford）提出的一种理论体系，他将这种理论比作材料解读的罗塞达碑，通过采用民族考古学和实验考古学等方法，试图在残缺不全的考古遗存与现代民族考古学观察和实验"
+  },
+  {
+   "cn": "连续慢化近似距离",
+   "en": "continuous slowing down approximation range，CSDA range",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.12",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "带电粒子减速到静止所穿行的平均路径长度的近似值。"
+  },
+  {
+   "cn": "关节活动度",
+   "en": "range of motion， ROM",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.6.1.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的疾病评估_活动度评估",
+   "subjectName": "活动度评估",
+   "publishYear": "2025",
+   "definition": "关节运动时所通过的运动弧或转动角度。评定肢体运动功能的最基本指标之一。"
+  },
+  {
+   "cn": "生物相容性",
+   "en": "biological compatibility",
+   "source": "消毒学",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "各种材料（如消毒剂、包材、生物材料等）与宿主直接或间接接触时所产生相互反应的能力。"
+  },
+  {
+   "cn": "环境相容性",
+   "en": "environmental compatibility",
+   "source": "消毒学",
+   "wordNumber": "6.3.2",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "使用的消毒方法对环境造成的伤害（损害）在可以接受范围内的能力。"
+  },
+  {
+   "cn": "材料相容性",
+   "en": "material compatibility",
+   "source": "消毒学",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "材料在受到消毒因子作用后对材料造成的伤害（损害）在可以接受的范围内的能力。"
+  },
+  {
+   "cn": "激励相容约束",
+   "en": "incentive compatibility constraint",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "在委托–代理理论中关于委托人在进行激励机制的设计时所面临的一个约束条件。在委托人不知道代理人的类型(不能完全观测到代理人所选择的行动)的情况下，代理人在所设计的机制下必须有积极性选择委托人希望他选择的"
+  },
+  {
+   "cn": "橙色战剂",
+   "en": "orange agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.12.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "由大致等量的2,4-二氯苯氧乙酸（2,4-D）和2,4,5-三氯苯氧乙酸（2,4,5-T）组成的混合物，并含有少量剧毒的二噁英。由美军在越南战争时期使用，因装运容器标识为橙色得名。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

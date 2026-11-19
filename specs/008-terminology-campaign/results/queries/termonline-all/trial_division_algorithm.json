@@ -1,0 +1,762 @@
+{
+ "key": "trial division algorithm",
+ "term": "trial division algorithm",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:37:52+00:00",
+ "status": "ok",
+ "note": "variant=trial division algorithm; 审定公布名词库=1551; 海峡两岸名词对照库=449; 其他来源数据库=136; 预公布名词数据库=49; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "带余除法",
+   "en": "division with remainder,division algorithm",
+   "source": "数学名词",
+   "wordNumber": "04.0029",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.092",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "解决某一问题（或一类问题）的程序化方法。其是在有限步骤内，用一组完全确定的程序规则来求解问题。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.659",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "能够使目标计算机完成特定任务或目标的一系列自控制逻辑指令。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.083",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "指导计算机完成特定命令的指令集，目的是用来解决特定的问题。目前算法在新闻传播业的应用主要包括两个方面：运用算法实现的自动化写作，以及对海量信息的筛选与分发。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "生物物理学名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "在数学和计算机科学中按设定的步骤进行计算、数据处理和逻辑推理的操作流程。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0720",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "解决给定问题的确定的计算机指令序列，用以系统地描述解决问题的步骤。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "心理学名词",
+   "wordNumber": "02.686",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "解决某个特定问题的一种方法或程序。保证最终解决问题。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.613",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "对特定问题求解步骤的一种描述，它是指令的有限序列，其中每一条指令表示一个或多个操作。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "地理学名词",
+   "wordNumber": "25.006",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "模型分析的一组可行的、确定的和有穷的规则。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "化学工程名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "化学工程_过程系统工程_过程系统工程",
+   "subjectName": "过程系统工程",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "数学名词",
+   "wordNumber": "02.0261",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "数学名词",
+   "wordNumber": "02.0261",
+   "subjectFullName": "数学_数值分析_数值分析基本概念",
+   "subjectName": "数值分析基本概念",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分割",
+   "en": "division",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0427",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_焙烤",
+   "subjectName": "焙烤",
+   "publishYear": "2020",
+   "definition": "根据制品要求，通过称量将面团分割成一定质量的小面团或用模具、刀具切割成型的过程。分割质量通常为成品质量的110%。"
+  },
+  {
+   "cn": "关系除法",
+   "en": "division",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0127",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "设关系 R除以关系S的结果为关系T，则T包含所有在R中但不在S中的属性及其值，且T的元组与S的元组的所有组合都在R 中。"
+  },
+  {
+   "cn": "除法",
+   "en": "division",
+   "source": "数学名词",
+   "wordNumber": "04.0027",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "ε算法",
+   "en": "ε-algorithm,epsilon-algorithm",
+   "source": "数学名词",
+   "wordNumber": "010.0341",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "η算法",
+   "en": "η-algorithm,eta-algorithm",
+   "source": "数学名词",
+   "wordNumber": "010.0342",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可分性",
+   "en": "divisibility",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.074",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物本身具有内在结构可以区分为组成部分或子系统的属性。是事物的结构性与结构层次性的基础。其侧重于能被区分，而“可分离性”侧重于能被分离。"
+  },
+  {
+   "cn": "整除性",
+   "en": "divisibility",
+   "source": "数学名词",
+   "wordNumber": "04.0948",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "整除",
+   "en": "divisible",
+   "source": "数学名词",
+   "wordNumber": "04.0949",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "试次",
+   "en": "trial",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "系泊试验",
+   "en": "dock trial\",\"mooring trial",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分裂",
+   "en": "division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "除法",
+   "en": "division",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "部",
+   "en": "division",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "临床试验",
+   "en": "clinical trial",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "试验法",
+   "en": "trial method",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "试验场",
+   "en": "trial field",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "[雷达避碰]试操纵",
+   "en": "trial maneuvering",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测速",
+   "en": "speed trial",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "倒车试验",
+   "en": "astern trial",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "惯性试验",
+   "en": "inertial trial",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航行试验",
+   "en": "sea trial",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "试车",
+   "en": "engine trial",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "试跳（投、掷）",
+   "en": "trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "试跳（投、掷）有效",
+   "en": "cleared trial\",\"successful trial\",\"valid trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "试跳（投、掷）失败",
+   "en": "failed trial\",\"invalid trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在线庭审",
+   "en": "online trial",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧审判",
+   "en": "smart trial",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最后一跳（投、掷）",
+   "en": "last trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "附加试跳（投、掷）",
+   "en": "additional trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一次试跳（投、掷）",
+   "en": "first trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "临床试验",
+   "en": "clinical trials",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近似算法",
+   "en": "approximation algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行算法",
+   "en": "parallel algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概率算法",
+   "en": "probabilistic algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组合算法",
+   "en": "combinatorial algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "试婚",
+   "en": "trial marriage",
+   "source": "社会学名词",
+   "wordNumber": "3.1.3.10",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_婚姻制度",
+   "subjectName": "婚姻制度",
+   "publishYear": "2025",
+   "definition": "世界上在某些民族中存在的一种婚俗，即在男女正式结婚前，可在一起生活一个阶段，以求彼此相互熟悉、相互适应，在此期间允许自由发生性关系。通过这个阶段，如果彼此感情融洽、性生活和谐，都有正式结合的愿望，可以"
+  },
+  {
+   "cn": "职业分立",
+   "en": "division ofoccupation",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "用于描述中国传统社会中，分工与身份的结合主要基于经济和伦理特点，而非基于血统和种姓的概念。梁漱溟指出，其表现为生产者自有其生产工具，可以自行生产。各行各业的从业者之间主要是职业差别，没有形成西方社会中"
+  },
+  {
+   "cn": "社会划分",
+   "en": "social division",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员的阶级、阶层或代际区分。人们依据一定的标准被分为不同的阶级阶层或不同年龄段的群体。"
+  },
+  {
+   "cn": "分家",
+   "en": "household division",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "因家庭内部的人口增加所引发的家庭生活空间的重新组合，往往伴随家庭成员的财产和责权的移动。"
+  },
+  {
+   "cn": "社区干预试验",
+   "en": "community intervention trial",
+   "source": "社会医学名词",
+   "wordNumber": "4.3.1.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定量研究",
+   "publishYear": "2025",
+   "definition": "借鉴实验医学的基本原理在社区人群中开展的带有实验性质的人群研究，以确定某些危险因素与健康的因果关系及社会卫生措施的有效性。"
+  },
+  {
+   "cn": "物理去除法",
+   "en": "physical division method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过稀释、过滤、吸附或离心沉淀等物理方式去除消毒体系中残余消毒剂的方法。"
+  },
+  {
+   "cn": "分工",
+   "en": "division of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0050",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由于自然或社会原因导致的劳动的划分及独立化，表现为生产不同种类产品的不同种类的劳动的并存。分工可以区分为社会分工、不同部门的分工、企业内部的分工等。"
+  },
+  {
+   "cn": "科隆共产党人案件",
+   "en": "communist trial in Cologne",
+   "source": "马克思主义",
+   "wordNumber": "04.0214",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1851-1852年普鲁士政府策划的迫害共产主义者同盟组织和成员的案件。1851年5-6月，普鲁士政府在科隆和莱比锡逮捕了共产主义者同盟的11名成员，经过罗织罪名，制造伪证，于1852年10月在科隆以"
+  },
+  {
+   "cn": "社会分工",
+   "en": "social division of labor",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "人类从事各种劳动的社会划分及其独立化和专业化。人类文明的标志之一。社会发展，尤其是商品经济发展和社会形式差别的基础。平均社会劳动时间大为缩短、生产效率显著提高的体现。"
+  },
+  {
+   "cn": "国际分工",
+   "en": "international division of labour",
+   "source": "社会学名词",
+   "wordNumber": "2.9.8.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_殖民化",
+   "subjectName": "殖民化",
+   "publishYear": "2025",
+   "definition": "世界各国间的劳动分工。劳动分工从一国之内向世界范围延伸的结果。国际生产关系决定了国际分工的性质，各国生产力的水平决定了其在国际分工中的地位。"
+  },
+  {
+   "cn": "劳动的性别分工",
+   "en": "gender division of labor",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.3",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "依据性别进行的劳动分工，是一种强制性的分工规则。在男性中心主导的社会中，这一分工基本为男外女内、男主女从的模式。"
+  },
+  {
+   "cn": "社会分工",
+   "en": "social division of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0051",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“自然分工”不同，社会劳动超越一个经济单位在整个社会范围内的独立划分和专业化过程，包括部门分工和部门内部分工。"
+  },
+  {
+   "cn": "基于实效性临床试验的经济学评价",
+   "en": "economic evaluation based on pragmatic clinical trial",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.4.1.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药物经济学评价",
+   "subjectName": "药物经济学评价",
+   "publishYear": "2025",
+   "definition": "一种在药物的日常实际应用环境中开展研究的药物经济学评价方法，旨在对不同临床治疗方案进行评价与选择。研究药物的选择通常采用已上市的有效药物作为对照而非安慰剂。"
+  },
+  {
+   "cn": "基于随机对照临床试验的经济学评价",
+   "en": "economic evaluation based on randomized controlled clinical trial",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.4.1.3",
+   "subjectFullName": "卫生经济学名词_药物经济学_药物经济学评价",
+   "subjectName": "药物经济学评价",
+   "publishYear": "2025",
+   "definition": "将基于随机、盲法和对照原则的药物临床试验与药物经济学研究相结合的经济学评价方法。"
+  },
+  {
+   "cn": "特殊医学用途配方食品临床试验",
+   "en": "clinical trials of food for special medical purposes",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.4",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在人体（病人或健康志愿者）进行特殊医学用途配方食品的系统性研究，以证实或揭示试验用特殊医学用途配方食品的安全性、营养充足性和特殊医学用途临床效果，确定试验用特殊医学用途配方食品的营养作用与安全性。"
+  },
+  {
+   "cn": "部族",
+   "en": "tribal",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0275",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族共同体发展中的一种历史类型。指氏族和部落之后、民族以前的处于原始公社制、奴隶社会或奴隶社会向封建制过渡时期的民族共同体。部族与氏族和部落不同，部族已不再以血缘为联系，而是以地域为联系并建立在私有制"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "视觉系统的外周感觉器官(眼)接受一定波长范围的光刺激，经中枢编码加工和分析后获得的感觉。"
+  },
+  {
+   "cn": "知情决策",
+   "en": "informed decision",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "在了解全面信息后做出决策的过程"
+  },
+  {
+   "cn": "决策阈",
+   "en": "decision threshold",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "被测量的估计量值，在用于量化物理效应的被测量的给定测量程序，实际测量值超过该值时，可判定该物理效应存在。"
+  },
+  {
+   "cn": "决策模型",
+   "en": "decision modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现一个事件中研究对象所做出的各个具体选择，以及选择间的逻辑次序的图表。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

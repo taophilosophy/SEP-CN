@@ -1,0 +1,722 @@
+{
+ "key": "existence axiom schema",
+ "term": "Existence Axiom Schema",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:28:19+00:00",
+ "status": "ok",
+ "note": "variant=Existence Axiom Schema; 审定公布名词库=517; 海峡两岸名词对照库=132; 其他来源数据库=17; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "公理",
+   "en": "axiom",
+   "source": "物理学名词",
+   "wordNumber": "01.0151",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "公理",
+   "en": "axiom",
+   "source": "数学名词",
+   "wordNumber": "01.0008",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "存在[性]",
+   "en": "existence",
+   "source": "数学名词",
+   "wordNumber": "01.0032",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "行为医学名词",
+   "wordNumber": "13.044",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "一种特殊的心理结构。是帮助人知觉、组织、获得和利用信息的认知结构。"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0007",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据库中数据的结构与特征的具体表示与描述。其反映了数据内在结构与数据间的关系。"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "心理学名词",
+   "wordNumber": "06.008",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "皮亚杰认为图式指一种特殊的心理结构，或一种组织起来的理解经验的方式。"
+  },
+  {
+   "cn": "独立公理",
+   "en": "independent axiom",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0048",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "保持功能要求独立性的基本公理。"
+  },
+  {
+   "cn": "信息公理",
+   "en": "information axiom",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0049",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "力求使设计信息量最小的基本公理。"
+  },
+  {
+   "cn": "安全性公理",
+   "en": "security axiom",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0227",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "经过人们长期反复实践的考验，不需要再加以证明的有关安全性的命题。"
+  },
+  {
+   "cn": "佩亚诺公理",
+   "en": "Peano axiom",
+   "source": "数学名词",
+   "wordNumber": "02.0128",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "概括公理",
+   "en": "comprehension axiom",
+   "source": "数学名词",
+   "wordNumber": "02.0165",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正则公理",
+   "en": "regularity axiom",
+   "source": "数学名词",
+   "wordNumber": "02.0166",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分离公理",
+   "en": "separating axiom",
+   "source": "数学名词",
+   "wordNumber": "05.0787",
+   "subjectFullName": "数学_分析学_凸分析",
+   "subjectName": "凸分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "公理A",
+   "en": "axiom A",
+   "source": "数学名词",
+   "wordNumber": "06.0162",
+   "subjectFullName": "数学_微分方程_积分方程_动力系统（数学）",
+   "subjectName": "动力系统（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "切除公理",
+   "en": "excision axiom",
+   "source": "数学名词",
+   "wordNumber": "08.0706",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "阿基米德公理",
+   "en": "Archimedean axiom",
+   "source": "数学名词",
+   "wordNumber": "08.0011",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分离性公理",
+   "en": "separation axiom",
+   "source": "数学名词",
+   "wordNumber": "08.0510",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "阿姆斯特朗公理",
+   "en": "Armstrong axioms",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0044",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "函数依赖推理的公理体系，包括自反律、增广律和传递律。设 U为关系模式R的属性集总体，F是U上的一组函数依赖。则对于关系模式R<U, F>是否为F所蕴含，推理规则如下：①自反律。若Y⊆X⊆U，则X→Y为"
+  },
+  {
+   "cn": "关联公理",
+   "en": "incidence axioms,axiom of connection",
+   "source": "数学名词",
+   "wordNumber": "08.0005",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "存在空间",
+   "en": "existence space",
+   "source": "建筑学名词",
+   "wordNumber": "01.0098",
+   "subjectFullName": "建筑学_总论_建筑空间及建筑形式美学基础",
+   "subjectName": "建筑空间及建筑形式美学基础",
+   "publishYear": "2014",
+   "definition": "取决于人及其群体在其中的实际存在状况或存在方式的客观性空间。挪威建筑师诺伯格–舒尔茨(C.?Norberg-Schulz)所提出的关于存在空间的要素，以及从宏观到微观不同阶段的知觉图式体系等概念，丰富"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "并发公理",
+   "en": "concurrency axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳公理",
+   "en": "induction axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情态公理",
+   "en": "case axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数学公理",
+   "en": "mathematical axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外延公理",
+   "en": "extension axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阿姆斯特朗公理",
+   "en": "Armstrong axioms",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "疑存",
+   "en": "existence doubtful",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "现行抵押",
+   "en": "existing mortgage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现有数据",
+   "en": "existing data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "现有船",
+   "en": "existing ship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "认知图式",
+   "en": "cognitive schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外向图式",
+   "en": "extravert schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抑郁图式",
+   "en": "depressive schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图式理论",
+   "en": "schema theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "事件图式",
+   "en": "event schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "家庭图式",
+   "en": "family schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我图式",
+   "en": "self schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别图式",
+   "en": "gender schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念圖示",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "恍惚",
+   "en": "Intangible Existence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三界",
+   "en": "Traidhātuka / Three Realms of Existence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理一分殊",
+   "en": "There Is But One Li (Universal Principle), Which Exists in Diverse Forms.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证人机制",
+   "en": "notary scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "庞氏骗局",
+   "en": "Ponzi scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型庞氏骗局",
+   "en": "new Ponzi scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络传销",
+   "en": "online pyramid scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全评估方案",
+   "en": "security assessment scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协和万邦",
+   "en": "Coexistence of All in Harmony",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多强度诱骗态调制方案（中国）",
+   "en": "Multi-intensity Decoy State Modulation Scheme (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新技术金融应用风险保险计划",
+   "en": "insurance scheme for use of new technology in financial sector",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "存在",
+   "en": "being existence",
+   "source": "马克思主义",
+   "wordNumber": "01.0012",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在不同派别的哲学中，“存在”这一范畴在不同意义上被使用。在马克思主义哲学中，存在是物质的同义语。"
+  },
+  {
+   "cn": "自我图式",
+   "en": "self-schema",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "个体在已有经验基础上所形成的有关“自我”的结构化的心理表征，它既包括以具体的事件和情境为基础的认知表征(如“我昨天在会上发言时犹豫不决”) ，也包括较为概括的、来自本人或他人评价的认知表征(如“我为人"
+  },
+  {
+   "cn": "非压抑性生存",
+   "en": "non  repressive existence",
+   "source": "马克思主义",
+   "wordNumber": "05.0052",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞在《爱欲与文明》中指出，真正人道的文明可以使人从压抑性生存转变为非压抑性生存，主要表现在两个方面，即异化劳动转变为消遣，性欲升华为爱欲。"
+  },
+  {
+   "cn": "现存照射情况",
+   "en": "existing exposure situation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.1.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射情况分类",
+   "subjectName": "照射情况分类",
+   "publishYear": "2025",
+   "definition": "在需要做出采取控制措施的决定时已经存在的照射情况。包括应控制的天然本底辐射的照射；放射性残留物质的照射，这些放射性残留物质来自过去实践（它未曾受到过审管控制）或来自已宣布应急照射情况结束后的核或放射应"
+  },
+  {
+   "cn": "物质存在的基本形式",
+   "en": "basic forms of material existence",
+   "source": "马克思主义",
+   "wordNumber": "01.0020",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "时间是物质运动的持续性、间隔性和顺序性。空间是物质运动的广延性、伸张性。时间和空间是与运动着的物质不可分离的基本存在形式，不存在与物质分离的绝对时空。"
+  },
+  {
+   "cn": "和平共处",
+   "en": "peaceful coexistence",
+   "source": "马克思主义",
+   "wordNumber": "03.0274",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1919年底列宁提出的社会主义国家处理与不同社会制度国家间关系的原则。其主要内容是：社会主义国家在忠实履行无产阶级国际主义义务的前提下，除了对帝国主义发动侵略战争进行必要自卫外，争取用和平方式解决彼此"
+  },
+  {
+   "cn": "赖特阶级分类",
+   "en": "Wright class scheme",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "在马克思原有阶级分类基础上，依据生产资料、组织和技术文凭三种资产数量，划分出的美国社会的12个阶级，特别提出了中产阶级的划分标准。该阶级分类由美国新马克思主义阶级理论家赖特(Erik Olin Wri"
+  },
+  {
+   "cn": "戈德索普阶级分类",
+   "en": "Goldthorpe class scheme",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "依据职业分类，划分出高低排列的7个阶级：服务阶级（专业人员和管理人员）、办事人员阶级（低层白领）、小资产阶级（小业主和自雇手工业者）、农场主、技术工人和非技术体力工人。该阶级分类由英国社会学家戈德索普"
+  },
+  {
+   "cn": "二级采样方案",
+   "en": "secondary sampling scheme",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.75",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "一种在食品安全和品质监控中常用的抽样检验方法。为某个微生物指标设定两个阈值限值，并根据样本的检测结果，在“接受”和“拒绝”两个判定之外，引入了一个“中间待定区”，需通过加大抽样来做出最终判定。"
+  },
+  {
+   "cn": "阴囊湿疹",
+   "en": "scrotum eczema",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.1.3.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热带",
+   "subjectName": "热带",
+   "publishYear": "2025",
+   "definition": "在湿热环境条件下，人体发汗且不能及时洗浴造成的会阴部、大腿根部湿疹。"
+  },
+  {
+   "cn": "长期共存互相监督",
+   "en": "longterm coexistence and mutual supervision",
+   "source": "马克思主义",
+   "wordNumber": "03.0396",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1956年4月，毛泽东在《论十大关系》中提出的正确处理中国共产党与各民主党派关系的方针。“长期共存”指坚持在共同政治基础上的多党派长期合作；“互相监督”需坚持中国共产党领导和社会主义道路等六项政治标准"
+  },
+  {
+   "cn": "和平共处五项原则",
+   "en": "Five Principles of Peaceful Coexistence",
+   "source": "马克思主义",
+   "wordNumber": "03.0503",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党和中华人民共和国处理国家之间关系的基本原则，这五项原则是：互相尊重主权和领土完整、互不侵犯、互不干涉内政、平等互利、和平共处。该原则最早是由周恩来于1953年12月31日在中国和印度两国政府"
+  },
+  {
+   "cn": "新型农村合作医疗",
+   "en": "new cooperative medical scheme",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.11",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "由政府组织、引导、支持，农民自愿参加，个人、集体和政府多方筹资，以大病统筹为主的农村医疗保障制度。是中国农村特有的医疗保障制度，从2003年开始实施，区别于中国计划经济时期实施的以村为统筹单位的合作医"
+  },
+  {
+   "cn": "养老金制度",
+   "en": "pensions scheme，annuity system",
+   "source": "社会学名词",
+   "wordNumber": "3.15.8.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障",
+   "subjectName": "老年社会保障",
+   "publishYear": "2025",
+   "definition": "按照法律规定实施，劳动者个人以劳动时间或货币贡献为计量单位进行参与，在做出一定贡献或达到一定资格后，依法享受应有待遇的制度体系。一般包括加入体系、做出贡献、计发待遇、享受待遇等几个基本程序。"
+  },
+  {
+   "cn": "监测方案",
+   "en": "monitoring and surveillance scheme",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.10",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "各省根据国家监测计划，针对本省食品安全特点指定的省级检测内容"
+  },
+  {
+   "cn": "三级采样方案",
+   "en": "three stage sampling scheme",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.76",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "一种在食品安全和品质监控中常用的抽样检验方法。为某个微生物指标设定三个阈值限值，根据样本的检测结果，将产品批次判定为“接受”、“条件接受”或“拒绝”三个等级。"
+  },
+  {
+   "cn": "比转换能",
+   "en": "cema",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.1",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位质量的物质中重带电粒子在电离、激发过程中损失的能量。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "卫生筹资方案",
+   "en": "health financing schemes",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.5.1",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "针对卫生筹资制定的工作或行动计划。它是卫生筹资安排的主要形式，通过方案对人群获得的卫生服务进行支付。"
+  },
+  {
+   "cn": "新型农村合作医疗",
+   "en": "new cooperative medical scheme，NCMS",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.2.2.7",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险类型",
+   "subjectName": "健康保险类型",
+   "publishYear": "2025",
+   "definition": "由政府组织、引导、支持，农民自愿参加，个人、集体和政府多方筹资，以大病统筹为主的农民医疗互助共济的制度。其目的是为了解决农民的就医问题，减轻农民因疾病带来的经济负担，提高农民健康水平"
+  },
+  {
+   "cn": "急性肠系膜缺血综合征",
+   "en": "acute mesenteric ischemia，AMI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.27",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "肠系膜供血障碍导致缺血进而引起肠壁坏死的一种综合征，一种非常凶险的腹部急症，包括动脉和静脉栓塞、血栓形成，以及继发于低血流状态的血管收缩，其病理生理的终点为肠坏死，预后极差。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

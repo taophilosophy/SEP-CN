@@ -1,0 +1,772 @@
+{
+ "key": "dynamical reduction program",
+ "term": "Dynamical Reduction Program",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:29:58+00:00",
+ "status": "ok",
+ "note": "variant=Dynamical Reduction Program; 审定公布名词库=5611; 海峡两岸名词对照库=1617; 其他来源数据库=193; 预公布名词数据库=386; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "source": "经济学名词",
+   "wordNumber": "10.153",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "运筹学的一个分支。求解决策过程最优化的数学方法。最优化原理，把多阶段过程转化为一系列单阶段问题，逐个求解。动态规划是解决过程优化问题的新方法。"
+  },
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "source": "冶金学名词",
+   "wordNumber": "04.0746",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "研究多阶段组成的过程系统的决策和策略问题所用的依次递推求解的最优化方法。"
+  },
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0751",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "利用问题的最优子结构性，将待求解问题分解成若干个子问题求解，从这些子问题的解得到原问题的解。在此过程中，需记录已经解决的子问题的解，以避免重复计算。"
+  },
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "把多阶段决策过程转化为一系列相互联系的单阶段决策过程，逐个求解，从而使整个过程达到最优的一种方法。"
+  },
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "source": "化学工程名词",
+   "wordNumber": "05.132",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "source": "数学名词",
+   "wordNumber": "011.0328",
+   "subjectFullName": "数学_运筹学_动态规划",
+   "subjectName": "动态规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "source": "自动化名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "动态规划算法",
+   "en": "dynamic programming algorithm",
+   "source": "生物物理学名词",
+   "wordNumber": "06.038",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "一种综合运用分级决策方法和最优化原理而形成的数学方法。是将一个复杂问题划分为若干个关联的子问题，找出子问题的最优解，进而得出原来复杂问题的最优解。"
+  },
+  {
+   "cn": "微分动态规划",
+   "en": "differential dynamic programming",
+   "source": "数学名词",
+   "wordNumber": "011.0329",
+   "subjectFullName": "数学_运筹学_动态规划",
+   "subjectName": "动态规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "动态规划算法",
+   "en": "dynamic programming algorithm",
+   "source": "数学名词",
+   "wordNumber": "011.0335",
+   "subjectFullName": "数学_运筹学_动态规划",
+   "subjectName": "动态规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "程序升温还原",
+   "en": "temperature-programmed reduction,TPR",
+   "source": "化学名词",
+   "wordNumber": "04.0811",
+   "subjectFullName": "化学_物理化学_催化",
+   "subjectName": "催化",
+   "publishYear": "2016",
+   "definition": "随温度程序升高氧化物催化剂逐渐被还原为金属的现象。"
+  },
+  {
+   "cn": "程序升温还原",
+   "en": "temperature programmed reduction;TPR",
+   "source": "精细化工名词",
+   "wordNumber": "08.0378",
+   "subjectFullName": "精细化工_其他精细化学品_催化剂",
+   "subjectName": "催化剂",
+   "publishYear": "2025",
+   "definition": "使还原气通过催化剂层，按一定升温程序使催化剂还原，根据热导检测器或质谱检测器给出氢气浓度随温度变化的信号，研究催化剂还原的方法。"
+  },
+  {
+   "cn": "氧化还原动力学",
+   "en": "dynamics of oxidation-reduction",
+   "source": "土壤学名词",
+   "wordNumber": "04.185",
+   "subjectFullName": "土壤学_土壤化学",
+   "subjectName": "土壤化学",
+   "publishYear": "1998",
+   "definition": "研究氧化还原反应的速率、影响因素和控制方法，以揭示氧化还原反应的机理。"
+  },
+  {
+   "cn": "多指标动态规划",
+   "en": "multicriteria dynamic program- ming",
+   "source": "数学名词",
+   "wordNumber": "011.0330",
+   "subjectFullName": "数学_运筹学_动态规划",
+   "subjectName": "动态规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "动态规划切割法",
+   "en": "dynamic programming tearing approach",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.047",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "不可分割子系统切割的方法之一。系统存在初始状态和所有简单回路均被切割的终止状态，以及很多中间状态，每个状态都对应一种或多种切割物流组合方案，且切割物流组合存在从初始状态到终止状态的递进关系。在满足一定"
+  },
+  {
+   "cn": "动态规划嵌入原理",
+   "en": "dynamic programming embedding principle",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0248",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "把研究动态决策过程的单一的最优化问题嵌入到具有结构与特征不变的一族最优化问题中去的原理。"
+  },
+  {
+   "cn": "动态规划流程图",
+   "en": "dynamic programming flow chart",
+   "source": "数学名词",
+   "wordNumber": "011.0336",
+   "subjectFullName": "数学_运筹学_动态规划",
+   "subjectName": "动态规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.115",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "物质（分子、原子或离子）得到电子或电子对的反应过程。"
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.2.1.2",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "1个或多个电子转移到1个分子实体（元素氧化态降低）的过程。"
+  },
+  {
+   "cn": "减少",
+   "en": "reduction",
+   "source": "兽医学名词",
+   "wordNumber": "09.115",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "在动物实验中，以尽可能减少动物使用数量为基本原则，并达到预想或更多试验结果的动物实验方法。"
+  },
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "动态规划[法]",
+   "en": "dynamic programming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序",
+   "en": "program",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "程序",
+   "en": "program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "编程",
+   "en": "programming",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "编程",
+   "en": "programming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动力学",
+   "en": "dynamics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "目标程序",
+   "en": "target program\",\"object program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "还原反应",
+   "en": "reduction reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "疝复位",
+   "en": "hernia reduction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "双减数分裂",
+   "en": "double reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "硝酸盐还原作用",
+   "en": "nitrate reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "亚硝酸盐还原作用",
+   "en": "nitrite reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "订正因子",
+   "en": "reduction factor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "方差降低",
+   "en": "variance reduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[海平面]气压换算",
+   "en": "pressure reduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程序",
+   "en": "program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精神动力",
+   "en": "dynamism",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "热点减量化",
+   "en": "hotspot reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据归约",
+   "en": "data reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "降体重",
+   "en": "bodyweight reduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序编码",
+   "en": "program coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "任务程序",
+   "en": "task program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "控制程序",
+   "en": "control program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "后门程序",
+   "en": "backdoor program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性规划",
+   "en": "linear programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非线性规划",
+   "en": "nonlinear programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "整数规划",
+   "en": "integer programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多目标规划",
+   "en": "multiobjective programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程序设计语言",
+   "en": "programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "编程模型",
+   "en": "Programming Model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学知识社会学的强纲领",
+   "en": "“strong program”",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.11",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "爱丁堡学派代表人物布鲁尔(David Bloor）提出的科学知识社会学研究纲领。主张所有人类知识都是处于一定的社会建构过程中的信念，这些信念都是相对的、由社会因素决定的。科学知识的社会学研究应遵循四个"
+  },
+  {
+   "cn": "婚礼程式",
+   "en": "wedding program",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.025",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "一男一女婚姻缔结的必经程序。"
+  },
+  {
+   "cn": "免疫规划",
+   "en": "immunization program",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.15",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "根据疫情监测和人群免疫状况分析，按照规定的免疫程序，有计划、有组织地利用疫苗进行预防接种，以提高人群的免疫水平，达到控制乃至最终消灭相应传染病目的的方法。与计划免疫相比，免疫规划更强调国家免疫策略的制"
+  },
+  {
+   "cn": "基础计划",
+   "en": "prerequisite programs",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.18",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "包括良好操作规范在内的，为危害分析与关键控制点（HACCP）体系提供基础操作条件的各项程序。"
+  },
+  {
+   "cn": "胎儿编程",
+   "en": "fetal programming",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "在生长发育的宫内关键期,不良的宫内环境改变胎儿生长发育，从而影响子代远期健康的过程。"
+  },
+  {
+   "cn": "发育编程",
+   "en": "developmental programming",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "在生长发育关键期，暴露于应激源对个体器官系统发育及其功能造成永久性改变的过程。"
+  },
+  {
+   "cn": "束流动力学",
+   "en": "beam dynamics",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.11",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "研究带电粒子束流在传输线和加速器的电磁场作用下运动规律的学科。"
+  },
+  {
+   "cn": "群体动力学",
+   "en": "group dynamics",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "由德裔美国心理学家勒温(Kurt Lewin）等人在对群体现象进行动态分析与研究的基础上提出，试图通过对群体现象的动态分析发现其一般规律的理论。认为个体的行为是由个性特征和环境的影响相互作用的结果。"
+  },
+  {
+   "cn": "社会动力学",
+   "en": "social dynamics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0519",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国哲学家孔德（Auguste Comte）社会学理论的一个部分，与社会静力学相对。社会动力学从纵的方面研究社会的变迁和进化，认为进步意味沿上升路线发展，提出三阶段定律，即神学阶段、形而上学阶段和实证"
+  },
+  {
+   "cn": "动态",
+   "en": "dynamic state",
+   "source": "消毒学",
+   "wordNumber": "1.8.9",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "设施以规定的方式运行，有规定的人员在场并在商定的条件工作的状态。"
+  },
+  {
+   "cn": "动力定型",
+   "en": "dynamic stereotype",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "人长期生活、劳动、反复重演某种活动后，逐渐在大脑皮质高级神经系统中建立的巩固的条件反射活动模式，其外在表现即为动作习惯。"
+  },
+  {
+   "cn": "动力试验",
+   "en": "dynamic test",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.62",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "通过试验的方法对结构振动进行研究，借以观察和分析结构的基本动力特性以及在各种环境下的动态稳定性和耐受能力的过程。是验证结构动态性能和动力分析的重要手段。"
+  },
+  {
+   "cn": "动力定型",
+   "en": "dynamic stereotype",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.1.2.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "长期在同样劳动环境中从事某一作业活动而逐渐在大脑皮质高级神经系统中建立的巩固的条件反射活动模式。其外在表现为从事该作业时各器官系统相互配合得更为协调、反应更加迅速、能耗较少，作业更轻松自如。"
+  },
+  {
+   "cn": "氧化还原电位",
+   "en": "oxidation reduction potential",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在电解过程中，氧化物质和还原物质同处于离子状态时，在电极和溶液之间产生电位差时的电极电位。"
+  },
+  {
+   "cn": "伤亡减员率",
+   "en": "casualty reduction rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.7",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "因战伤和阵亡减员人数与平均参战人数之比，反映战伤和阵亡减员的程度。"
+  },
+  {
+   "cn": "还原型漂白剂",
+   "en": "reductive bleaching agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.8.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "利用还原性化学发应破坏或抑制食品的发色基团，使食品褪色或免于褐变的物质。"
+  },
+  {
+   "cn": "科学研究纲领",
+   "en": "scientific research program",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "典型的描述重大科学成就的单位，由硬核、与之相关的由辅助假说构成的“保护带”和启发法构成。"
+  },
+  {
+   "cn": "员工协助方案",
+   "en": "employee assistance program",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.110",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "西方工业社会工作中所推行的一种系统的、长期的员工援助和福利计划。通过整合个人、家庭、组织和社会等多方资源，运用专业人员对组织进行诊断、建议和对员工及其直系亲属提供专业指导、培训和咨询，旨在全方位帮助与"
+  },
+  {
+   "cn": "最高纲领派",
+   "en": "maximalist program fraction",
+   "source": "马克思主义",
+   "wordNumber": "04.0352",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1904年在俄国社会革命党内部形成的一个小资产阶级半无政府主义的恐怖集团。最高纲领派无视资产阶级民主革命这一阶段，坚持立即实行社会革命党的最高纲领，即在实行土地社会化的同时实行工厂社会化；认为劳动农民"
+  },
+  {
+   "cn": "学生饮用奶计划",
+   "en": "student milk program",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "以改善中小学生营养状况、促进中小学生发育成长、提高中小学生健康水平为宗旨，为中小学生提供中国奶业协会许可使用中国学生饮用奶标志的专供中小学生在校饮用的牛奶制品的学生营养改善专项计划。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,22 @@
+{
+ "key": "trivialist",
+ "term": "trivialist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:33:20+00:00",
+ "status": "ok",
+ "note": "variant=trivialist; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "普通早熟禾",
+   "en": "rough bluegrass,Poa trivialis",
+   "source": "畜牧学名词",
+   "wordNumber": "10.126",
+   "subjectFullName": "畜牧学_常用牧草_禾本科牧草",
+   "subjectName": "禾本科牧草",
+   "publishYear": "2020",
+   "definition": "早熟禾属的一个种。多年生草本。具匍匐茎。茎直立，单生或丛生。叶狭线形，蓝绿色。圆锥花序。小穗密生顶端。颖果纺锤形，具三棱。原产于欧洲、亚洲温带和北非地区。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

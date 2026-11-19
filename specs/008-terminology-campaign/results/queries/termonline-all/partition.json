@@ -1,0 +1,492 @@
+{
+ "key": "partition",
+ "term": "partition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:37:11+00:00",
+ "status": "ok",
+ "note": "variant=partition; 审定公布名词库=166; 海峡两岸名词对照库=67; 其他来源数据库=7; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "隔断",
+   "en": "partition",
+   "source": "风景园林名词",
+   "wordNumber": "07.0343",
+   "subjectFullName": "风景园林_风景园林建筑_小木作",
+   "subjectName": "小木作",
+   "publishYear": "2025",
+   "definition": "古建筑室内部分构件。（1）房屋内分割平面布局的木制物体，一般为镂空雕花，也有做成博古架形式，属于小木作范围。（2）在前后檐柱间砌筑与两山墙平行的内墙，属瓦作范围。"
+  },
+  {
+   "cn": "深裂片",
+   "en": "partition",
+   "source": "植物学名词",
+   "wordNumber": "03.0134",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "深裂叶的每个裂片。"
+  },
+  {
+   "cn": "分区",
+   "en": "partition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0463",
+   "subjectFullName": "计算机科学技术_计算机硬件_存储设备",
+   "subjectName": "存储设备",
+   "publishYear": "2018",
+   "definition": "对物理磁盘进行区域划分后得到的可以像独立磁盘一样工作的区域。"
+  },
+  {
+   "cn": "间壁",
+   "en": "partition",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0790",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "划分",
+   "en": "partition",
+   "source": "数学名词",
+   "wordNumber": "01.0124",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分离",
+   "en": "partitioning",
+   "source": "电力名词",
+   "wordNumber": "17.393",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "采用化学方法,将高放废物中的次锕系元素和长寿命裂变产物分离出来,以便嬗变处理的过程。"
+  },
+  {
+   "cn": "分配",
+   "en": "partitioning",
+   "source": "植物学名词",
+   "wordNumber": "11.0349",
+   "subjectFullName": "植物学_植物生理学_植物同化物运输与分配",
+   "subjectName": "植物同化物运输与分配",
+   "publishYear": "2019",
+   "definition": "光合产物有规律地向各个库器官的输送。"
+  },
+  {
+   "cn": "分隔",
+   "en": "partitioning",
+   "source": "化学工程名词",
+   "wordNumber": "05.052",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "分块",
+   "en": "partitioning",
+   "source": "数学名词",
+   "wordNumber": "010.0433",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分配系数",
+   "en": "partition coefficient",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0163",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "物质在两种不相溶的溶剂中平衡时的浓度比。不同的物质在同一对溶剂中的分配系数不同，可利用该原理对物质分离纯化。"
+  },
+  {
+   "cn": "分配层析",
+   "en": "partition chromatography",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0212",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "根据样品各组分在固定相和流动相之间分配系数的差异进行分离的一种层析方法。"
+  },
+  {
+   "cn": "配分函数",
+   "en": "partition function",
+   "source": "冶金学名词",
+   "wordNumber": "04.0202",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "对体系中的一个粒子所有可能状态的玻尔兹曼因子求和的函数，即<img src='/root/syzx/static/spz/yejin2.04.0202.01.png'/>。体系的各种热力学性质都可以用"
+  },
+  {
+   "cn": "配分泛函",
+   "en": "partition functional",
+   "source": "物理学名词",
+   "wordNumber": "05.0866",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "配分函数",
+   "en": "partition function",
+   "source": "物理学名词",
+   "wordNumber": "05.0549",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "配分函数",
+   "en": "partition function",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0301",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "在统计力学计算中，系统内微观粒子按能量的指数分布进行加和。"
+  },
+  {
+   "cn": "分配系数",
+   "en": "partition coefficient",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.211",
+   "subjectFullName": "呼吸病学_肺功能_换气功能",
+   "subjectName": "换气功能",
+   "publishYear": "2018",
+   "definition": "一定温度下，处于平衡状态时，溶质在固定相中的浓度和在流动相中的浓度之比。反映了溶质在两相中的迁移能力及分离效能，是描述物质在两相中行为的重要物理化学特征参数。"
+  },
+  {
+   "cn": "分区表",
+   "en": "partition table",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0661",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "用于管理文件系统外存空间的数据结构。记录磁盘分区数目、位置等信息，通常保存在引导盘的零扇区。"
+  },
+  {
+   "cn": "配分函数",
+   "en": "partition function",
+   "source": "化学名词",
+   "wordNumber": "04.1414",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "系综里所有可能微观状态的加权和，或系综的有效微观状态之和。每个微观状态的权重是它在系综里面出现的概率。"
+  },
+  {
+   "cn": "分配系数",
+   "en": "partition coefficient",
+   "source": "化学名词",
+   "wordNumber": "03.0059",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "在分析化学不同的学科领域，具体含义有所不同。在色谱分析中，指一定温度下，处于平衡状态时，组分在固定相中的浓度和在流动相中的浓度之比，以K表示，是分配色谱中的重要参数。在萃取分离中，指一定温度和压力下，"
+  },
+  {
+   "cn": "分配色谱法",
+   "en": "partition chromatography",
+   "source": "化学名词",
+   "wordNumber": "03.1749",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "根据样品组分在固定相中的溶解能力差异(气相色谱)，或者是在流动相和固定相中溶解能力的差异(液相色谱)而实现分离的一类色谱法。"
+  },
+  {
+   "cn": "分配",
+   "en": "partition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分割",
+   "en": "partition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分区",
+   "en": "partition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分配",
+   "en": "partitioning",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分隔",
+   "en": "partitioning",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分配色谱法",
+   "en": "partition chromatography",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分配常数",
+   "en": "partition constant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分配色谱法",
+   "en": "partition chromatography",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分配系数",
+   "en": "partition coefficient",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分配系数",
+   "en": "partition coefficient",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分配系数",
+   "en": "partition coefficient",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分配层析",
+   "en": "partition chromatography",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分配系数",
+   "en": "partition coefficient",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分区表",
+   "en": "partition table",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分配系数",
+   "en": "partition coefficient",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不透性隔板",
+   "en": "impermeable partition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "质粒分配",
+   "en": "plasmid partition",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "质粒分配",
+   "en": "plasmid partition",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "后台分区",
+   "en": "background partition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "活动分区",
+   "en": "active partition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图划分",
+   "en": "graph partition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络划分",
+   "en": "network partition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CAP原则",
+   "en": "CAP (consistency, availability and partition resistance) principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网上信访",
+   "en": "online petition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "章表",
+   "en": "Memorial of Gratitude or Petition",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分隔",
+   "en": "partition",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.13",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "通过设置物理阻断如墙壁、卫生屏障、遮罩或独立房间等进行隔离。"
+  },
+  {
+   "cn": "分区生存模型",
+   "en": "partitioned survival model,PSM",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种模拟生命周期的决策分析模型。通过临床研究中的生存数据，模拟研究时限内各时点上无进展、疾病进展与死亡的个体数量或比例，拟合无进展、进展与死亡的曲线。"
+  },
+  {
+   "cn": "血气分配系数",
+   "en": "blood air partition coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.6.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_放射毒理学",
+   "subjectName": "放射毒理学",
+   "publishYear": "2025",
+   "definition": "当血液中放射性核素浓度与肺泡内气态放射性核素浓度平衡时两者之比。该系数越大吸收率越高。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

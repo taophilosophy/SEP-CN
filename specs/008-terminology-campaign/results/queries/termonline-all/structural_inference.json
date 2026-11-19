@@ -1,0 +1,722 @@
+{
+ "key": "structural inference",
+ "term": "structural inference",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:21:09+00:00",
+ "status": "ok",
+ "note": "variant=structural inference; 审定公布名词库=3496; 海峡两岸名词对照库=848; 其他来源数据库=131; 预公布名词数据库=167; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "推理",
+   "en": "inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.043",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "由一个或几个已知的判断（前提），推导出一个未知的结论的思维过程。"
+  },
+  {
+   "cn": "推论",
+   "en": "inference",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.049",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "根据研究证据推导出的结论，是基于证据的判断。"
+  },
+  {
+   "cn": "推理",
+   "en": "inference,reasoning",
+   "source": "心理学名词",
+   "wordNumber": "02.643",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从若干已知的判断得出新判断的思维形式。是借助已有的知识对事物进行间接的认识。"
+  },
+  {
+   "cn": "似真推理",
+   "en": "plausible inference",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.255",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于不确定的信念的推理理论。用信念测度（而非古典逻辑的真与假）来建立科学工作中诸如相反证据所导致的不确定信念的推理模式和形式模型。"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.006",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "在经典的统计归纳、推理、估计和假设检验的基础上发展起来的一种推理方法。推理时不仅要根据当前所观察到的样本信息，而且还要根据推理者过去有关的经验和知识。"
+  },
+  {
+   "cn": "似然推理",
+   "en": "plausible inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.045",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "根据模糊输入和模糊规则，按照确定好的推理方法进行推理，得到模糊输出量的过程。"
+  },
+  {
+   "cn": "定性推理",
+   "en": "qualitative inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.046",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "从物理系统、生命系统的结构描述出发，导出行为描述，以便预测系统行为并给出原因解释。"
+  },
+  {
+   "cn": "正向推理",
+   "en": "forward inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.049",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "按照由条件推出结论的方向进行的推理方式，它从一组事实出发，使用一定的推理规则，来证明目标事实或命题的成立。"
+  },
+  {
+   "cn": "反向推理",
+   "en": "backward inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.050",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "由结论出发，为验证该结论的正确性去知识库中查找证据。"
+  },
+  {
+   "cn": "双向推理",
+   "en": "bidirectional inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.051",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "既自顶向下，又自底向上的推理，直至某个中间界面上两方向结果相符便成功结束。"
+  },
+  {
+   "cn": "任意推断",
+   "en": "arbitrary inference",
+   "source": "行为医学名词",
+   "wordNumber": "2.109",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "不经严格推理，在缺乏事实依据的情况下，草率地得出结论。"
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "经济学名词",
+   "wordNumber": "10.118",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "根据带随机性的观测数据（样本）以及问题的条件和假定（模型），而对未知事物做出的、以概率形式表述的推断。"
+  },
+  {
+   "cn": "推理方法",
+   "en": "inference method",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0070",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "从已知条件，通过推理规则获得新知识的各种逻辑方法。"
+  },
+  {
+   "cn": "启发式推理",
+   "en": "heuristic inference",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0104",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "通过问题领域或者结构的启发式知识指导推导的过程。"
+  },
+  {
+   "cn": "推理机",
+   "en": "inference engine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0069",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "计算机推理程序。在一定的推理机制下，根据知识库中的知识和动态数据库中的实时数据进行推理判断，同时把中间结果送入动态数据库，直到达到预期目标。"
+  },
+  {
+   "cn": "推理攻击",
+   "en": "inference attack",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0344",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "从非敏感的数据推理得出敏感信息的攻击。包括直接攻击、间接攻击和统计推理攻击等。"
+  },
+  {
+   "cn": "统计推理",
+   "en": "statistical inference",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0239",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "根据统计数据建立推理通道，推导出隐含数据的推理方法。"
+  },
+  {
+   "cn": "推理控制",
+   "en": "inference control",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0233",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "对推理通道的控制，防止非法访问通过推理通道变成合法访问。"
+  },
+  {
+   "cn": "推理结点",
+   "en": "inference node",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0132",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "在归结语义树中，如果某结点本身不是失效结点，但其两个子结点是失效结点，则称该结点为推理结点。"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayes inference",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0111",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一种统计推断方法。使用当前所观察到的样本信息和先验知识，更新或重新推断后验概率。"
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "武断推论",
+   "en": "arbitrary inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意识推理",
+   "en": "unconscious inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直接推理",
+   "en": "direct inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应推论",
+   "en": "correspondent inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归纳推理",
+   "en": "inductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性推理",
+   "en": "uncertain inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多路推理",
+   "en": "multiline inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模拟推理",
+   "en": "analogical inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "启发式推理",
+   "en": "heuristic inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统计推理",
+   "en": "statistic inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推理步",
+   "en": "inference step",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推理策略",
+   "en": "inference strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "Structure",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构洞",
+   "en": "structural hole",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化方法",
+   "en": "structured method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化数据",
+   "en": "structured data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化环境",
+   "en": "structured environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据结构",
+   "en": "Data Structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "存储结构",
+   "en": "storage structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化",
+   "en": "structuration",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.21",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "主张社会结构与行动具有相互构成的性质，而居于二者之间的个人则成为克服这种对立的一种手段。"
+  },
+  {
+   "cn": "结构主义",
+   "en": "structuralism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "由法国人类学家列维-斯特劳斯(C.Lévi-Strauss）在乔姆斯基(A.N.Chomsky）语言学的基础上发展并加以运用的结构分析理论及方法。这一流派认为，一旦文化的各个不同方面被还原成它们的结构"
+  },
+  {
+   "cn": "结构过程",
+   "en": "structuring",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0211",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家萧凤霞（Helen Siu）、中国历史学家刘志伟提出的概念，即个人透过他们有目的的行动，织造了关系和意义（结构）的网络，这一网络又进一步帮助或限制他们作出某些行动，这是一个永无止境的过程。"
+  },
+  {
+   "cn": "结构屏蔽",
+   "en": "structural shield",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.9",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "能达到辐射防护目的，纳入建筑结构整体设计的一种屏蔽方式。"
+  },
+  {
+   "cn": "结构洞",
+   "en": "structural hole",
+   "source": "社会学名词",
+   "wordNumber": "2.7.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2025",
+   "definition": "由美国学者伯特(Burt)提出的概念，意指社会网络中将两个原本无连接的节点连接起来的独特位置。该连接位置就像网络结构中的洞穴，可以给居于此位置的行动者带来巨大的竞争优势。"
+  },
+  {
+   "cn": "结构洞",
+   "en": "structural holes",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.7",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "社会网络中的某个或某些个体与有些个体有直接联系，但与其他个体无直接联系或关系中断的现象，从网络整体看就好像网络结构中出现了洞穴。"
+  },
+  {
+   "cn": "结构功能论",
+   "en": "structural functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "强调结构与功能相互界定的理论范式。认为社会是具有一定结构或组织化手段的系统，社会的各组成部分以有序的方式相互联系，在整体平衡维系中对社会整体发挥功能性作用。"
+  },
+  {
+   "cn": "结构性决定因素",
+   "en": "structural determinants",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.7.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼健康决定因素",
+   "subjectName": "妇幼健康决定因素",
+   "publishYear": "2025",
+   "definition": "影响健康的植根于社会经济和政治背景下的关键因素，体现为权利、财富和资源的分配方式。个体层面包括社会地位、教育、职业、收入、性别、种族和民族，宏观层面包括政治、社会政策和文化、社会规范和价值观。"
+  },
+  {
+   "cn": "结构马克思主义",
+   "en": "Structural Marxism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0588",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪60 年代法国结构主义的马克思主义民族学的出现，在西方被认为是“发生在马克思主义人类学领域的一场革命”。该派把战后兴起的结构主义人类学思想与马克思主义的辩证唯物主义与历史唯物主义思想捏合起来"
+  },
+  {
+   "cn": "结构-功能论",
+   "en": "structural functionalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0536",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪20 年代在英国出现的理论，它对古典进化论学派、传播学派和历史特殊论学派都持批评的态度，认为人类学研究的主要任务是把文化作为一个有机的统一体来考察，弄清这个有机统一体中各个组成部分对整体所做"
+  },
+  {
+   "cn": "结构语言学",
+   "en": "structural linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0022",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个重要流派。20 世纪30 年代在欧洲兴起，基本理论源于索绪尔（Ferdinand deSaussure）的《普通语言学教程》。认为语言是一个符号系统，反对对语言现象进行孤立的分析，主张系统"
+  },
+  {
+   "cn": "结构性暴力",
+   "en": "structural violence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0245",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由美国人类学家方马尔（Paul Edward Farmer）提出的医学人类学概念，认为政治、经济的不平等在处于社会边缘的人群身上可能体现为大规模的暴力性疾病。"
+  },
+  {
+   "cn": "结构式访谈",
+   "en": "structured interview",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在访谈前已经设计好访谈中访谈员将要提出的问题和回答人将要使用的回答选项类别的访谈方法。"
+  },
+  {
+   "cn": "结构观察",
+   "en": "structured observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一组预先确定的规则和程序而实施的非参与观察。"
+  },
+  {
+   "cn": "结构型问卷",
+   "en": "structured questionnaire",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.61",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "对问题的措词方式以及它们在问卷中被问及的顺序都做了明确规定的问卷。"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会整体或社会系统各组成部分或构成要素之间比较持久、相对稳定的相互关联模式或存在方式，即社会构成要素之间的相互关系按照一定的秩序形成相对稳定的网络格局。具有复杂性、整体性、层次性、相对稳定性等重要特点"
+  },
+  {
+   "cn": "组织结构",
+   "en": "organizational structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部各组成部分之间关系的稳定形态及结合方式，可达成组织职能和权力的配置，主要包括职位、目标、权威和角色等四大要素。可分为正式结构和非正式结构。"
+  },
+  {
+   "cn": "垂直结构",
+   "en": "vertical structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.14",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "某种集权组织结构形式，自上而下形成垂直的易于控制的领导系统，信息纵向流通快，管理成本低，效率较高，但下级的权限和自主性较低。"
+  },
+  {
+   "cn": "扁平结构",
+   "en": "flat structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.15",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "管理层次少而管理幅度大的一种组织结构形态，有利于缩短上下级距离，被管理者有较大的自主性、积极性和满足感，但由于管理幅度较宽，权力分散，不易实施严密控制，加重了对下属组织及人员进行协调的负担。"
+  },
+  {
+   "cn": "家庭结构",
+   "en": "family structure",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.7",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭成员的构成及其相互关系状态形成的稳定模式。包含家庭的代数结构和人口结构两个方面，涉及家庭成员及其数量、家庭成员间的代际和亲属关系等内容。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

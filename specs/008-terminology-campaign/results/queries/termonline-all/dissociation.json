@@ -1,0 +1,762 @@
+{
+ "key": "dissociation",
+ "term": "dissociation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:50:06+00:00",
+ "status": "ok",
+ "note": "variant=dissociation; 审定公布名词库=680; 海峡两岸名词对照库=177; 其他来源数据库=33; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "解离",
+   "en": "dissociation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0121",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）含有两个以上分子的复合物分离成组分分子的过程。（2）分子分离为更简单的原子团、单个原子或离子的化学过程。如酸解离成质子和阴离子。"
+  },
+  {
+   "cn": "游离",
+   "en": "dissociation",
+   "source": "精神医学名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "精神医学_诊断分类_游离转换障碍",
+   "subjectName": "游离转换障碍",
+   "publishYear": "2019",
+   "definition": "完全或者部分地丧失对过去的记忆和对自我身份识别的一种精神病理表现。"
+  },
+  {
+   "cn": "离解",
+   "en": "dissociation",
+   "source": "物理学名词",
+   "wordNumber": "05.0412",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "离解",
+   "en": "dissociation",
+   "source": "化学名词",
+   "wordNumber": "01.0415",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "在温度、溶剂等条件下，分子分离为更简单的原子团、单个原子或离子的化学过程。"
+  },
+  {
+   "cn": "解离",
+   "en": "dissociation",
+   "source": "药学名词",
+   "wordNumber": "03.181",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "物质分子分离成两个或两个以上部分的过程。"
+  },
+  {
+   "cn": "分离变异",
+   "en": "dissociation",
+   "source": "微生物学名词",
+   "wordNumber": "06.065",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "特定细菌菌株子代细胞中出现的表型改变。"
+  },
+  {
+   "cn": "离解",
+   "en": "dissociation",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.085",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "离解",
+   "en": "dissociation",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "解离因子",
+   "en": "dissociator,Ds",
+   "source": "遗传学名词",
+   "wordNumber": "02.401",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "激活-解离系统中非自主转座的受体因子。"
+  },
+  {
+   "cn": "解离常数",
+   "en": "dissociation constant",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0127",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "复合物或化合物可逆地分解为两个或两个以上较为简单组分时可逆分解反应的平衡常数。为缔合常数的倒数，用符号“Kd”表示。"
+  },
+  {
+   "cn": "离解萃取",
+   "en": "dissociation extraction",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0899",
+   "subjectFullName": "化工（八）_化工设备_萃取设备",
+   "subjectName": "萃取设备",
+   "publishYear": "2021",
+   "definition": "根据混合物组分间分配系数与离解常数的不同，利用化学反应促进溶质从一种液相传递到另一液相的过程。"
+  },
+  {
+   "cn": "离解平衡",
+   "en": "dissociation equilibrium",
+   "source": "冶金学名词",
+   "wordNumber": "06.0352",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "电解质分子分解为正负离子达到平衡时的状态。"
+  },
+  {
+   "cn": "离解度",
+   "en": "dissociation degree",
+   "source": "冶金学名词",
+   "wordNumber": "06.0353",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "电解质分子分解为正负离子达到平衡时，已解离的分子数和原有分子数之比。"
+  },
+  {
+   "cn": "离解能",
+   "en": "dissociation energy",
+   "source": "物理学名词",
+   "wordNumber": "07.0281",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "解离常数",
+   "en": "dissociation constant",
+   "source": "核医学名词",
+   "wordNumber": "02.0237",
+   "subjectFullName": "核医学_核医学相关基础学科_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2018",
+   "definition": "复合体或化合物可逆地分解为两个或两个以上较为简单组分时可逆分解反应的平衡常数。系亲和常数的倒数，符号“<img src='/root/syzx/static/spz/heyixue1.02.0237."
+  },
+  {
+   "cn": "解离法",
+   "en": "dissociation method",
+   "source": "核医学名词",
+   "wordNumber": "03.0656",
+   "subjectFullName": "核医学_核医学设备与操作_非显像核医学技术_核医学体外分析",
+   "subjectName": "核医学体外分析",
+   "publishYear": "2018",
+   "definition": "抗原分离纯化的方法。对抗原和特异性抗体结合形成复合物离心后取复合物沉淀，再用化学试剂解离，最后用葡聚糖凝胶分离抗原抗体。"
+  },
+  {
+   "cn": "解离阈值",
+   "en": "dissociation threshold",
+   "source": "化学名词",
+   "wordNumber": "04.1097",
+   "subjectFullName": "化学_物理化学_光化学",
+   "subjectName": "光化学",
+   "publishYear": "2016",
+   "definition": "发生多光子解离时所需的最小红外光子数。"
+  },
+  {
+   "cn": "解离常数",
+   "en": "dissociation constant",
+   "source": "化学名词",
+   "wordNumber": "03.0754",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "在温度和其他相关条件恒定下，离解反应达到平衡时，生成物浓(活)度乘积与反应物浓(活)度乘积之比。"
+  },
+  {
+   "cn": "解离能",
+   "en": "dissociation energy",
+   "source": "化学名词",
+   "wordNumber": "03.0994",
+   "subjectFullName": "化学_分析化学_仪器分析_原子光谱分析",
+   "subjectName": "原子光谱分析",
+   "publishYear": "2016",
+   "definition": "使1个电子从原子离去成为自由电子所需的能量。"
+  },
+  {
+   "cn": "离解极限",
+   "en": "dissociation limit",
+   "source": "化学名词",
+   "wordNumber": "04.1301",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "当分子被激发到电子激发态时，只要没加入足够的能量分子不会分解，分子只是处于电子激发态的高振动能级；但是当加入的能量超过一定的极限，电子激发态的振动能级结构消失，分子发生离解。这个限度称为离解极限。"
+  },
+  {
+   "cn": "离解",
+   "en": "dissociation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "解离",
+   "en": "dissociation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "解离",
+   "en": "dissociation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "解离温度",
+   "en": "dissociation temperature",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "解离常数",
+   "en": "dissociation constant",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "解离能",
+   "en": "dissociation energy",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "离解常数",
+   "en": "dissociation constant",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "解离常数",
+   "en": "dissociation constant",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "解离常数",
+   "en": "dissociation constant",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "热解离［反应］",
+   "en": "thermal dissociation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "功能分离",
+   "en": "function dissociation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "离子解离",
+   "en": "ionic dissociation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逐级解离",
+   "en": "stepwise dissociation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "水离解",
+   "en": "hydrolytic dissociation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生殖滋养分离",
+   "en": "gonotrophic dissociation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "解离因子",
+   "en": "dissociator\",\"Ds",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "离解光致电离",
+   "en": "dissociative photoionization",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "解离吸附",
+   "en": "dissociative adsorption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "游离团体",
+   "en": "dissociative group",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分离性障碍，游离障碍",
+   "en": "dissociative disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关联规则",
+   "en": "association rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "两次后转肩",
+   "en": "double dislocation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别协会",
+   "en": "class association",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际开发协会",
+   "en": "International Development Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际女子职业网球协会",
+   "en": "Women's Tennis Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关联融合",
+   "en": "association and fusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赋比兴",
+   "en": "Narrative, Analogy, and Association",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际业余拳击协会",
+   "en": "International Boxing Association\",\"AIBA",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际男子职业网球协会",
+   "en": "Association of Tennis Professionals",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人视觉自联想",
+   "en": "robot visual auto-association",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国小额信贷机构联席会",
+   "en": "China Microfinance Institution Association",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "日本规格协会",
+   "en": "Japanese Standards Association (JSA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法国标准化协会",
+   "en": "French Standardization Association (AFNOR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "日本标准化组织相关标准",
+   "en": "Japanese Standards Association Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兴寄",
+   "en": "Xingji (Association and Inner Sustenance)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解析",
+   "en": "dissociative adsorption",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "采用化学灭菌因子灭菌后去除残留消毒剂的过程。"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体因在政治、经济、文化、宗教、种族或阶级等方面存在巨大差异而彼此分开并处于相互矛盾甚至敌视的状态。"
+  },
+  {
+   "cn": "解析水",
+   "en": "water for dissociative adsorption",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "环氧乙烷灭菌过程中，对排出的环氧乙烷吸收、解析，排出环氧乙烷气体的水溶液。应用解析水处理环氧乙烷效果较分解器和焚烧法差，需要水量大且需作为化学废物处理，实际应用较少。"
+  },
+  {
+   "cn": "结社",
+   "en": "association",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0281",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以自愿方式联结而成的人群，联结的纽带是地缘、业缘，经历、兴趣等等，使成员为着共同的目的，形成稳定的社会关系，并且用成文或者不成文的章程加以规定。"
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.69",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个测量的量之间的统计依存关系。"
+  },
+  {
+   "cn": "协会",
+   "en": "association",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "由个人、单个组织或机构为达到某种共同目标，通过签署协议，自愿组成的社会团体或组织。"
+  },
+  {
+   "cn": "团体标准",
+   "en": "association standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "依法成立的社会团体为满足市场和创新需要，协调相关市场主体共同制定的、供团体成员或社会自愿采用的标准。"
+  },
+  {
+   "cn": "同乡会",
+   "en": "hometown association",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "由同籍贯的人共同组成的联络、交流、互助、非盈利性、不结盟的民间团体。通常存在于移民中，又称“老乡会”。"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一组用以拟合交叉分类表格的观测频次，从而度量两个或多个有序的类别变量的联系强度的统计模型。"
+  },
+  {
+   "cn": "社会脱节",
+   "en": "social dislocation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会快速发展、变迁或转型过程中，社会要素（社会中的人或单位）与社会结构（系统、关系网络）或社会诸子系统在一定时期难以协调同步运行，彼此失掉原有的有机联系，发生错位现象。"
+  },
+  {
+   "cn": "自由人联合体",
+   "en": "community association",
+   "source": "马克思主义",
+   "wordNumber": "03.0018",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯设想的在未来无产阶级国家自行消亡之后，将会产生的一个以生产者自由平等的联合体为基础，按新方式来组织的共产主义社会组织形式。马克思在1848年的《共产党宣言》和1867年的《资本论》中都明"
+  },
+  {
+   "cn": "自由联合",
+   "en": "free association",
+   "source": "马克思主义",
+   "wordNumber": "03.0239",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义社会人类在全面而自由发展的基础上实行联合劳动的方式。在有阶级社会，社会分工的存在和生产资料掌握在少数人手里，使劳动者只有出卖劳动力才能生存，工作性质既狭隘片面又不自由。当共产主义实现时，代替那"
+  },
+  {
+   "cn": "寰枢椎脱位",
+   "en": "atlantoaxial dislocation",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "颈椎的第一节（寰椎）、第二节（枢椎）之间的关节失去正常的对合关系。可以引起延髓、高位颈脊髓受压，严重者致四肢瘫痪、甚至呼吸衰竭而死亡。可见于类风湿关节炎患者。"
+  },
+  {
+   "cn": "关联强度",
+   "en": "strength of association",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.72",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以反应两个变量共变趋势和自变量影响因变量程度的量。"
+  },
+  {
+   "cn": "出生缺陷联合征",
+   "en": "birth defect association",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.10",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，两个或以上的出生缺陷组合以高于随机水平的频率同时出现在同一个体，且病因或因果关系未明。"
+  },
+  {
+   "cn": "差异交往理论",
+   "en": "theory of differential association",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "“不同接触理论”。解释社会越轨行为的一种理论。认为在与犯罪行为人或者违法团伙的交往和互动中，人们可能会学会越轨或者犯罪行为以及行为背后的价值观，从而对越轨或者犯罪行为予以认可，并加以模仿。由美国社会学"
+  },
+  {
+   "cn": "马克思学说研究会",
+   "en": "Marx Theory Research Association",
+   "source": "马克思主义",
+   "wordNumber": "04.0446",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "五四运动时期传播马克思主义的重要学术团体。1920年3月，由李大钊主持成立了北京大学马克思学说研究会。它是中国最早学习和研究马克思主义的团体，为中国共产党的建立作了准备。"
+  },
+  {
+   "cn": "少数民族联谊会",
+   "en": "ethnic minority friendship association",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0096",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "由多民族成员共同组成，以开展民族团结和联谊为功能的社会团体，是民族工作开展的对象和主体之一，政府与各民族群众联系的桥梁和纽带。"
+  },
+  {
+   "cn": "国际卫生经济学会",
+   "en": "international Health Economics Association,iHEA",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.5.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学组织",
+   "subjectName": "卫生经济学组织",
+   "publishYear": "2025",
+   "definition": "从事卫生经济学研究、教育和管理等工作的会员组成的国际学术组织。"
+  },
+  {
+   "cn": "中国民主建国会",
+   "en": "China Democratic National Construction Association",
+   "source": "马克思主义",
+   "wordNumber": "04.0452",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "新中国八个民主党派之一，1945年12月成立于重庆，创始人为黄炎培、胡厥文等，重要特点是同经济界紧密联系。民建成员以大中城市为主，以中上层人士为主，以经济界人士为主。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,22 @@
+{
+ "key": "fenxi",
+ "term": "fēnxī",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:50:05+00:00",
+ "status": "ok",
+ "note": "variant=fēnxī; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "风溪",
+   "en": "fēngxī,SF1、2i,wind stream",
+   "source": "中医药学名词",
+   "wordNumber": "08.461",
+   "subjectFullName": "中医药学_针灸学_耳穴名称和头皮穴线名称",
+   "subjectName": "耳穴名称和头皮穴线名称",
+   "publishYear": "2004",
+   "definition": "耳穴。在耳轮结节前方，指区与腕区之间。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

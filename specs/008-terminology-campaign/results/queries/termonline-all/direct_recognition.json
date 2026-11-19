@@ -1,0 +1,772 @@
+{
+ "key": "direct recognition",
+ "term": "direct recognition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:10:32+00:00",
+ "status": "ok",
+ "note": "variant=direct recognition; 审定公布名词库=2547; 海峡两岸名词对照库=694; 其他来源数据库=102; 预公布名词数据库=110; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "直接识别",
+   "en": "direct recognition",
+   "source": "免疫学名词",
+   "wordNumber": "3.272",
+   "subjectFullName": "免疫学_免疫病理、临床免疫_移植免疫及其他",
+   "subjectName": "移植免疫及其他",
+   "publishYear": "2007",
+   "definition": "移植免疫应答中，受者T细胞直接识别供者抗原提呈细胞(或靶细胞)所提呈的同种异型移植抗原。该识别途径可快速、大量激活T细胞，介导急性排斥反应。"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0249",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）分子间特异结合的相互作用。如，转运RNA（tRNA）分子与氨基酰tRNA合成酶的相互作用。（2）免疫细胞与抗原之间的相互作用。"
+  },
+  {
+   "cn": "再认",
+   "en": "recognition",
+   "source": "行为医学名词",
+   "wordNumber": "4.034",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "过去的经验或识记过的事物再次呈现时的辨认过程。"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "生理学名词",
+   "wordNumber": "02.166",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "再认",
+   "en": "recognition",
+   "source": "心理学名词",
+   "wordNumber": "02.559",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "过去的经验或识记过的事物再次呈现时的辨认过程。"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "药学名词",
+   "wordNumber": "05.346",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "大分子间特异结合的相互作用。"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "电子学名词",
+   "wordNumber": "05.154",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语音识别",
+   "en": "voice recognition,speech recognition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0433",
+   "subjectFullName": "计算机科学技术_人工智能_模式识别",
+   "subjectName": "模式识别",
+   "publishYear": "2018",
+   "definition": "让机器通过识别和理解，将人的语音信号转换为相应的文本或命令的过程。"
+  },
+  {
+   "cn": "语音识别",
+   "en": "voice recognition; speech recognition",
+   "source": "农学名词",
+   "wordNumber": "16.221",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "将语音信号转换为相应的文本等相关数据的过程。"
+  },
+  {
+   "cn": "间接识别",
+   "en": "indirect recognition",
+   "source": "免疫学名词",
+   "wordNumber": "3.273",
+   "subjectFullName": "免疫学_免疫病理、临床免疫_移植免疫及其他",
+   "subjectName": "移植免疫及其他",
+   "publishYear": "2007",
+   "definition": "移植免疫应答中，受者T细胞识别由受者抗原提呈细胞所提呈的供者同种异型抗原或异种抗原。间接识别途径激活T细胞速度较慢、数量较少。"
+  },
+  {
+   "cn": "智能识别",
+   "en": "intelligent recognition",
+   "source": "农学名词",
+   "wordNumber": "16.218",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "利用人工智能等方法进行的模式识别。"
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "source": "农学名词",
+   "wordNumber": "16.219",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "根据特征、属性或结构，确定一个物体、行为或现象属于某个模式类别或模式个体的过程。"
+  },
+  {
+   "cn": "图像识别",
+   "en": "image recognition",
+   "source": "农学名词",
+   "wordNumber": "16.222",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "对图像进行处理、分析和理解，以识别各种不同模式的目标和对象的过程。"
+  },
+  {
+   "cn": "文字辨识",
+   "en": "character recognition",
+   "source": "档案学名词",
+   "wordNumber": "04.03.075",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献编纂中，对档案材料中错别字、古体字、通假字、避讳字、贬写字、帖写字、异体字、草书以及勾改符号等难以辨识的文字符号加以准确释读辨认的工作。"
+  },
+  {
+   "cn": "身份识别",
+   "en": "identity recognition",
+   "source": "档案学名词",
+   "wordNumber": "06.02.016",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "用于区分操作者角色和权限的技术方法。"
+  },
+  {
+   "cn": "身份识别",
+   "en": "identity recognition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.081",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "利用密码技术（尤其是公钥密码技术）设计出安全性高的协议的一种技术方法。"
+  },
+  {
+   "cn": "同种异型识别",
+   "en": "allogeneic recognition",
+   "source": "兽医学名词",
+   "wordNumber": "14.263",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "对同种异型抗原的识别，主要指识别非己MHC分子。"
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "source": "兽医学名词",
+   "wordNumber": "14.265",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "模式识别受体对病原体相关分子模式的 识别。"
+  },
+  {
+   "cn": "语音辨识",
+   "en": "voice recognition",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.045",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "用计算机把指定语音的背景杂音过滤掉后进行声波分析，据其特色进行识别的过程。"
+  },
+  {
+   "cn": "字符识别",
+   "en": "character recognition",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.092",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "一种利用计算机自动识别字符的技术。"
+  },
+  {
+   "cn": "直接识别",
+   "en": "direct recognition",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "再认",
+   "en": "recognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "面孔识别，人脸识别，面部识别",
+   "en": "face recognition\",\"facial recognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "轮廓识别",
+   "en": "contour recognition\",\"outline recognition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接识别",
+   "en": "indirect recognition",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞识别",
+   "en": "cell recognition",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "识别蛋白",
+   "en": "recognition protein",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "识别反应",
+   "en": "recognition reaction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "识别序列",
+   "en": "recognition sequence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "图形识别",
+   "en": "pattern recognition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "再认阈限",
+   "en": "recognition threshold",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我认识",
+   "en": "self recognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "再认广度",
+   "en": "recognition span",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分子识别",
+   "en": "molecular recognition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物特征识别",
+   "en": "biometric recognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人脸识别",
+   "en": "face recognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子目标识别",
+   "en": "quantum target recognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人脸识别支付",
+   "en": "face recognition payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人像识别技术",
+   "en": "facial recognition technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直接融资",
+   "en": "direct financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接射门",
+   "en": "direct shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct preliminary",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接还击",
+   "en": "direct riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "探头球",
+   "en": "direct spike",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会承认",
+   "en": "social recognition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会或社会群体通过正式或非正式方式对人们某种身份地位、行为、观念、活动表示肯定、同意和认可。"
+  },
+  {
+   "cn": "生物识别",
+   "en": "biological recognition",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.57",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通过计算机与光学、声学、生物传感器和生物统计学原理等高科技手段密切结合，利用动物固有的生理特性（如指纹、脸像、虹膜等）和行为特征（如笔迹、声音、步态等）来进行食品身份鉴定的技术。"
+  },
+  {
+   "cn": "承认政治",
+   "en": "politics of recognition",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.7",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "在自由主义取向的国家所出现的以族群、性别、文化等为内容的政治正义诉求，及其所带来的对经典自由主义理念的挑战；其哲学根基是黑格尔所阐述的“相互承认的法权”，美国政治哲学家泰勒认为，承认的政治是多元文化社"
+  },
+  {
+   "cn": "承认理论",
+   "en": "theory of recognition",
+   "source": "马克思主义",
+   "wordNumber": "05.0044",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "法兰克福学派第三代社会批判理论集大成者霍耐特（Axel Honneth）用米德（George Herbert Mead）的社会心理学改造青年黑格尔的相互承认理论，进一步明确了承认关系结构，并阐发了承认"
+  },
+  {
+   "cn": "抗原识别受体",
+   "en": "antigen recognition receptor",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.8",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "T细胞、B细胞表面的T细胞受体和B细胞受体。前者可特异性识别抗原肽-MHC分子复合物，后者可特异性识别抗原的B细胞表位。"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.38",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "识别病原体(或某些内源性成分)相关分子模式的一类受体分子，介导固有免疫应答。"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.15",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "识别固有分子模式，即病原体相关分子模式和损伤相关分子模式的专一性受体，包括Toll 样受体(TLR)、NOD 样受体(NLR)、RIG 样受体(RLR)和C 型凝集素受体(CLR)，以及甘露糖受体、清"
+  },
+  {
+   "cn": "直接测量",
+   "en": "direct measurement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "直接在体外使用全身计数器或器官测量装置（肺、甲状腺等）开展的放射性核素测量。"
+  },
+  {
+   "cn": "直接服务",
+   "en": "direct service",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "以个人、家庭和群体为关注对象，针对个人、家庭和群体采取的服务行动。其重点在于改变家庭或群体内的人际交往，或改变个人、家庭和小群体与其环境中的个人或社会系统的关系和互动方式。"
+  },
+  {
+   "cn": "直接成本",
+   "en": "direct cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目而能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "直接效益",
+   "en": "direct benefit",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "可直接观察和测量的实行某项干预措施带来的卫生服务利用和成本减少等。"
+  },
+  {
+   "cn": "直接观察法",
+   "en": "direct observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过教学现场对靶行为的观察记录，直接评价、比较和分析学习负荷的方法。“靶行为”可事先根据疲劳常见的客观表现确定，事先根据疲劳常见的客观表现确定“靶行为”，如交头接耳、做小动作、打呵欠、瞌睡等，并可对靶"
+  },
+  {
+   "cn": "直接致癌物",
+   "en": "direct carcinogen",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.1.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "不经过体内代谢活化就具有致癌作用的化学物。"
+  },
+  {
+   "cn": "直接过渡",
+   "en": "direct transition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0596",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取革命胜利后，可以通过国家各方面的帮助，尤其是引导人民对原始公有制进行根本改造，就能使残存着原始公社的民族，跨越资本主义，直接过渡到社会主义。马克思主义创始人关于“直接过渡”的英明预见，在社"
+  },
+  {
+   "cn": "定向抽样",
+   "en": "directed sampling",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "针对目标样品群体（如商品类型或地理区域）对于在监测项目中提示具有潜在健康风险中可疑问题开展调查或者证实过程"
+  },
+  {
+   "cn": "风向",
+   "en": "wind direction",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.3.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "风的来向。"
+  },
+  {
+   "cn": "直接接触传播",
+   "en": "direct contact transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.3.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "易感者与传染者直接接触而导致病原体传播的过程。"
+  },
+  {
+   "cn": "直接冲击伤",
+   "en": "direct blast injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "冲击波直接作用于人体引起的损伤。"
+  },
+  {
+   "cn": "人民直接管理",
+   "en": "peoples direct management",
+   "source": "马克思主义",
+   "wordNumber": "03.0149",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人民直接组织政府来管理国家和社会，是人民当家作主的一种管理形式。马克思和恩格斯认为，巴黎公社的组织原则就是人民直接管理。在共产主义社会，阶级、政党或其他政治组织消亡后，人民直接管理社会公共事务。"
+  },
+  {
+   "cn": "直接抗球蛋白试验",
+   "en": "direct antiglobulin test",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.25",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "用于诊断胎儿有核红细胞增多症、新生儿溶血病和自身免疫性溶血性贫血症的试验。依据某些患者红细胞表面含不完全抗体，滴加抗人球蛋白血清后可出现凝集现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

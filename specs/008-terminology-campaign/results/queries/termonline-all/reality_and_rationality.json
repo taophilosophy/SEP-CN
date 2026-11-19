@@ -1,0 +1,742 @@
+{
+ "key": "reality and rationality",
+ "term": "Reality and Rationality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:39:53+00:00",
+ "status": "ok",
+ "note": "variant=Reality and Rationality; 审定公布名词库=10000; 海峡两岸名词对照库=1991; 其他来源数据库=1298; 预公布名词数据库=1157; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "实在",
+   "en": "reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "实存的与可能存在的东西。古代唯物主义认为这种东西是水、无定限体、气、火、种子、原子。唯心主义认为这种东西是感觉、观念、精神实体、绝对理念的世界。"
+  },
+  {
+   "cn": "实在",
+   "en": "reality",
+   "source": "心理学名词",
+   "wordNumber": "04.160",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "哲学中指客观存在的实体。现代心理学曾认为情绪、人格等均为实在，但受到后现代心理学的挑战。"
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "心理学名词",
+   "wordNumber": "04.068",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "与经验主义相对。强调主体先天固有的能动性，夸大理智、智慧和意志的主导作用。"
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0356",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "理性主义思想在不同时期的建筑思潮中广泛存在，但狭义的理性主义指20世纪20年代兴起于意大利的一种现代建筑思潮。试图综合理性几何学和结构逻辑学，注重建筑目的、建造过程与建筑使用的逻辑性。代表作品有特拉尼"
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "语言学名词",
+   "wordNumber": "01.185",
+   "subjectFullName": "语言学_理论语言学_交叉学科术语",
+   "subjectName": "交叉学科术语",
+   "publishYear": "2011",
+   "definition": "与“经验主义”相对。一种哲学方法。认为人的推理可以作为知识来源的理论基础。一般认为随着笛卡尔的理论而产生，17—18世纪期间主要在欧洲大陆传播。"
+  },
+  {
+   "cn": "合理化",
+   "en": "rationalization",
+   "source": "行为医学名词",
+   "wordNumber": "10.078",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "个体以个人需要为理由解释自己不能改变的事实，或为自己辩解，用自我能接受、能宽恕的理由代替自己行为的真实动机或理由的一种自我防御机制。"
+  },
+  {
+   "cn": "配给",
+   "en": "rationing",
+   "source": "经济学名词",
+   "wordNumber": "09.031",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "一切经济活动，包括整个国民经济的决策，企业的产供销等日常经济活动决策，以及家庭和个人的经济活动如职业的选择、消费品的购买及选择等方面的决策，都集中于国家手中。"
+  },
+  {
+   "cn": "合理化",
+   "en": "rationalization",
+   "source": "心理学名词",
+   "wordNumber": "08.090",
+   "subjectFullName": "心理学_人格心理学",
+   "subjectName": "人格心理学",
+   "publishYear": "2014",
+   "definition": "用自我能接受、超我能宽恕的理由来代替自己行为的真实动机或理由的一种自我防御机制。"
+  },
+  {
+   "cn": "日粮",
+   "en": "ration",
+   "source": "水产名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "水产_饲料和肥料",
+   "subjectName": "饲料和肥料",
+   "publishYear": "2002",
+   "definition": "一只饲养动物一昼夜采食的、能满足其营养需要的饲料量。"
+  },
+  {
+   "cn": "日粮",
+   "en": "ration",
+   "source": "水产名词",
+   "wordNumber": "12.005",
+   "subjectFullName": "水产_水产饲料与肥料",
+   "subjectName": "水产饲料与肥料",
+   "publishYear": "2002",
+   "definition": "一只饲养动物一昼夜采食的、能满足其营养需要的饲料量。"
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "整形外科名词",
+   "wordNumber": "10.022",
+   "subjectFullName": "整形外科_整形外科数字化技术_手术导航",
+   "subjectName": "手术导航",
+   "publishYear": "2026",
+   "definition": "利用计算机模拟产生一个虚拟的三维空间的技术。让使用者的感官置身于一个现实中不存在的三维世界之中。"
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality",
+   "source": "整形外科名词",
+   "wordNumber": "10.023",
+   "subjectFullName": "整形外科_整形外科数字化技术_手术导航",
+   "subjectName": "手术导航",
+   "publishYear": "2026",
+   "definition": "一种将虚拟信息实时投射在现实影像中的技术。将真实世界信息和虚拟世界信息“无缝”集成并实现互动。"
+  },
+  {
+   "cn": "客观实在",
+   "en": "objective reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "独立于人的意识，不以人的意识为转移又能为人的意识所反映的、具有多样性的客观物质世界或自然界。认为客观实在性是物质的唯一特性，是物质确实存在着的客观标志。"
+  },
+  {
+   "cn": "社会实在",
+   "en": "social reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.821",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "个体之间的社会互动而形成的现象，超越于个人的动机与行动。通常包含共同体所接受的社会规范、相对确定的规律和社会标准等，即任何能够影响个人行为选择的社会整体性存在。"
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "创建和体验虚拟世界的计算机仿真系统。它利用计算机生成一种模拟环境，是一种多源信息融合的交互式的三维动态视景和实体行为的系统仿真，使用户沉浸到该环境中。"
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.031",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "在显示屏幕上将虚拟世界实时叠加在现实世界，并进行互动的一种技术。"
+  },
+  {
+   "cn": "真人秀",
+   "en": "reality show",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.054",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻总论",
+   "subjectName": "广播电视新闻总论",
+   "publishYear": "2022",
+   "definition": "一种强调实时的现场直播，不用角色扮演，百分之百由真人表现的电视节目。通常以记录普通人或名人在看似脱稿的环境里的真实生活为内容，将关注重点放在戏剧冲突及个人矛盾上，以突出娱乐价值。"
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.064",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "将含有字母、数字、符号或图形的信息叠加或融合到用户看到的真实世界中，具有虚实融合和实时交互的特点。"
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.065",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "一种可以创建和体验虚拟世界的计算机仿真系统，它利用3D计算机模型或模拟技术生成一种模拟环境，使用户完全沉浸到该环境中。"
+  },
+  {
+   "cn": "真实性检验",
+   "en": "reality testing",
+   "source": "行为医学名词",
+   "wordNumber": "20.057",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "通过列出支持和反对认知真实性的证据，评估、检验并诘难错误的信念，从而改变错误的信念。"
+  },
+  {
+   "cn": "现实",
+   "en": "reality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "合理化,文饰［作用］",
+   "en": "rationalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性",
+   "en": "ration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理性化",
+   "en": "rationalization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现实疗法",
+   "en": "reality therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实原则",
+   "en": "reality principle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会现实",
+   "en": "social reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据真实性",
+   "en": "data reality",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人工现实",
+   "en": "artificial reality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augment reality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有理函数",
+   "en": "rational function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "振幅比",
+   "en": "amplitude ration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有理数",
+   "en": "rational number",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理性思考",
+   "en": "rational thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体合理化",
+   "en": "collective rationalizing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性知识",
+   "en": "rational knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "审虚实",
+   "en": "Balance Fiction and Reality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "Augmented Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安时处顺",
+   "en": "Face Reality Calmly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality (AR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合现实",
+   "en": "mixed reality (MR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚实交互",
+   "en": "virtual reality interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实智能建模技术",
+   "en": "intelligent modeling technology of virtual reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 38247-2019 信息技术 增强现实 术语》",
+   "en": "GB/T 38247-2019 Information technology — Augmented reality — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传切",
+   "en": "give and go\",\"pass and cut",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "干城",
+   "en": "Shield and Fortress / Dukes and Princes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多元协作制衡",
+   "en": "multiparty collaboration and check-and-balance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "source": "马克思主义",
+   "wordNumber": "01.0172",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）思维发展的高级阶段，与“感性”相对，指形成概念，进行判断、分析、综合、比较、推理、计算等方面的能力和活动。（2）与感觉、知觉、情感和欲望相对的性格特征，指按照事物存在的真实状况和发展的内在规律处"
+  },
+  {
+   "cn": "唯理论",
+   "en": "rationalism",
+   "source": "马克思主义",
+   "wordNumber": "01.0175",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）与经验主义相对，认为具有普遍必然性的可靠知识不是、也不可能来自经验，而是从先天的、不可否认的“自明之理”出发，经过严密的逻辑推理得到的。（2）轻视感性经验的作用，仅从概念出发，用逻辑推理和理性思"
+  },
+  {
+   "cn": "社会实在",
+   "en": "social reality",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "以物质实在为基础的、依赖于人类共同的风俗、习惯、制度和活动而存在和维系的事实。"
+  },
+  {
+   "cn": "客观实在性",
+   "en": "objective reality",
+   "source": "马克思主义",
+   "wordNumber": "01.0196",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "独立于人的意识之外，不依赖于意识的物质世界。唯心主义认为，唯一的客观实在是感觉、意识、理念和绝对精神等。唯物主义则认为客观实在性是物质唯一的“特性”，它不依赖于人的意识而存在，但又为人的意识所感知和反"
+  },
+  {
+   "cn": "名实分离",
+   "en": "separation of name and reality",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.44",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "因社会变迁产生的经学理想社会与现实之间的分立，以及由此产生的社会心理上的不适应状态。费孝通提出的概念。具体而言，自诸子百家定于一尊之后，要解释社会变迁，往往通过注释的方式来使经典与社会变动相适应。乡土"
+  },
+  {
+   "cn": "价值理性",
+   "en": "value rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.6",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动者相信特定的行为无条件地具有价值，行动者强调追求动机的纯正和选择正确的手段去实现目的，而不管其结果如何的行动取向。"
+  },
+  {
+   "cn": "工具理性",
+   "en": "instrumental rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.7",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动只由追求功利的动机所驱使，行动者纯粹从效用最大化的角度考虑，在行动中漠视人的情感和精神价值，借助理性算计达到预期目的的行动取向。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.21",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "一种关注所有生命形态和谐共生的理性形式。它把人类视为生态系统中的一个有机组成部分，与其他生命系统相互联系、相互影响，共同构建生物共同体的和谐、健康、稳定、完整与统一。行为决策以保护经济资源、促进生态系"
+  },
+  {
+   "cn": "社会理性",
+   "en": "social rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "社会中的个体以整个社会或群体的利益为目标，使社会或群体利益最大化的思维倾向和行动动力。"
+  },
+  {
+   "cn": "法律的理性化",
+   "en": "legal rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.7.4.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的理性化",
+   "subjectName": "法律的理性化",
+   "publishYear": "2025",
+   "definition": "法律从实质理性逐渐转变形式理性的过程。马克斯·韦伯提出的概念，主要体现为法律是由规则构成的体系，通过逻辑推理能够从普遍规则推导出适用于个案的决定。"
+  },
+  {
+   "cn": "合理性规范",
+   "en": "rationality norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.12",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "用批评的眼光看待所有人类存在的现象，旨在使它们更加有序一致，并获得普遍的理解。该规范主要强调科学的逻辑性和真理性，即科学知识应当符合逻辑规则，并且符合具体经验事实。"
+  },
+  {
+   "cn": "交往理性",
+   "en": "communicative rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0037",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯重建历史唯物主义的哲学用语，强调在交往中，不同的参与者克服掉了他们最初的那些纯粹主观的观念，同时，为了共同的合理信念而确立起了客观世界的同一性及其生活语境的主体间性，从而实现文明理性的重建。"
+  },
+  {
+   "cn": "经济理性",
+   "en": "economic rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0083",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "安德列·高兹（Andre Gorz）认为，经济理性指资本主义生产方式被商品交换所支配，以利润为尺度、以效率为标准，遵循可计算性和效率原则。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0084",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "安德列·高兹用语。生态理性指以满足人的基本需要为根本出发点，遵循最低限度的、最大使用价值原则，以达到最优化利用劳动、资本和自然资源的目的。"
+  },
+  {
+   "cn": "有限理性",
+   "en": "bounded rationality",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.7",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体虽然主观上希望做出理性选择，但是因为其认知限制而无法做出使自己效用最大化的理性选择。"
+  },
+  {
+   "cn": "批判理性主义",
+   "en": "critical rationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为科学方法就是猜测—反驳方法。科学沿着“问题（P1）—假说（TT）—证伪（EE）—问题（P2）”四段图式不断演进，逐渐向高证伪度和高逼真度接近。"
+  },
+  {
+   "cn": "通用食品",
+   "en": "general rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产，供应平时和战时部队生鲜食物供应困难时食用的食物总称，包括各类军用罐头、软罐头、脱水蔬菜等。"
+  },
+  {
+   "cn": "理性资本主义",
+   "en": "rational capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.9",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "现代社会以理性原则建立的资本主义贸易、生产和金融模式。存在的前提条件包括市场的交易自由、发达的货币经济、劳动力的商品化、诸如簿记制度等理性技术的运用，经营组织与家产分离或产权的明晰化、法律保障、经济生"
+  },
+  {
+   "cn": "理性认识",
+   "en": "rational cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0241",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "认识过程的高级阶段，是人们在感性认识的基础上，凭借抽象思维把握到的关于事物的本质、内部联系和规律的认识，具有抽象性、间接性、普遍性等特点，表现形式是概念、判断、推理。"
+  },
+  {
+   "cn": "理性选择",
+   "en": "rational choice",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.2.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "理性人目标最优化或效用最大化，即理性人趋向于采取最优策略，以最小成本获得最大收益。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,802 @@
+{
+ "key": "commentary on epistemology",
+ "term": "Commentary on Epistemology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:50:44+00:00",
+ "status": "ok",
+ "note": "variant=Commentary on Epistemology; 审定公布名词库=1765; 海峡两岸名词对照库=527; 其他来源数据库=363; 预公布名词数据库=193; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "研究知识的本质、知识的辩护以及信念的合理性的哲学分支。"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "心理学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "研究认识的本质及其发展过程的哲学理论。对心理学研究者的科学观与方法论都有重要影响。"
+  },
+  {
+   "cn": "新闻评论",
+   "en": "news commentary",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.252",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "通过新闻媒体发表的，针对新近发生的事件或社会现象进行分析解释并阐明观点立场的新闻文体。"
+  },
+  {
+   "cn": "评论部",
+   "en": "commentary department",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.253",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "在报刊中负责评论性内容生产的组织机构。"
+  },
+  {
+   "cn": "政论",
+   "en": "political commentary",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.26",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "报刊上登载的从政治角度阐述和评论当时重大事件和社会问题的议论文。"
+  },
+  {
+   "cn": "配评论",
+   "en": "pairing commentary",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.268",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "编辑为准备刊发的新闻报道或文章撰写针对性的评论并与新闻报道或文章共同发表。"
+  },
+  {
+   "cn": "评论播音",
+   "en": "broadcasting commentary",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.128",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视播音主持",
+   "subjectName": "广播电视播音主持",
+   "publishYear": "2022",
+   "definition": "播音员在节目中对某些事物进行评论，发表看法。"
+  },
+  {
+   "cn": "评论",
+   "en": "news commentary",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.103",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "论及当前社会最须关注和解决的问题的文章。包括社论、短评、署名评论等。"
+  },
+  {
+   "cn": "思想被评论",
+   "en": "thought commentary",
+   "source": "精神医学名词",
+   "wordNumber": "02.138",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者报告头脑中出现一种以上思路的精神病理状态。有的思想是异己的、侵入进来的，会评论受检者的思想或者评论受检者所做、所读、所写。与评论性幻听不同，评论性幻听可以作为思想被评论的前体。"
+  },
+  {
+   "cn": "进化认识论",
+   "en": "evolutionary epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认识论的一种自然主义进路，即强调自然选择在感知和认知机制的适应性形成中的作用。"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.501",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "瑞士心理学家J. 皮亚杰（J. Piaget）提出的一种研究认识（知识）的结构、发生、发展过程及其心理起源的学说。主张把建构主义与结构主义统一起来，将认识论作为目标和起点，采用发生学的方法，以儿童心智"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.818",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "通过社会互动来为集体知识提供理性证成的认识论观点。也指从社会维度对知识和信息的评价，或更简单地理解为社会互动的维度可以提供认知辩护。"
+  },
+  {
+   "cn": "科学认识",
+   "en": "scientific epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.012",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由认识主体、认识客体和实现主客体相互作用的中介三个要素组成的，以认识世界、创新知识为目标的动态过程。"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.135",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "美国著名图书馆学家谢拉（J.H.Shera）在20世纪60年代提出的图书馆学理论，是谢拉图书馆学思想体系的理论基础。该理论揭示了社会文化交流的基本规律，明确了社会文化与图书馆学的关系，确定图书馆学的职"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "心理学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "皮亚杰(J. Piaget)创立的理论。强调用发生学的方法来研究认识发生发展的过程、结构及其心理起源。"
+  },
+  {
+   "cn": "九评",
+   "en": "Nine Commentaries",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.173",
+   "subjectFullName": "新闻学与传播学_新闻史_新闻事件",
+   "subjectName": "新闻事件",
+   "publishYear": "2022",
+   "definition": "1963年9月6日至1964年7月14日，中共中央以《人民日报》和《红旗》杂志编辑部名义，连续发表九篇评论《给苏联各级党组织和全体共产党员的公开信》文章。史称“九评”。"
+  },
+  {
+   "cn": "认识整体论",
+   "en": "epistemological holism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.014",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由W. V. 蒯因（W. V. Quine）提出。认为必须将科学理论作为整体加以检测，无法孤立地对某一科学假说加以检测。"
+  },
+  {
+   "cn": "专栏评论",
+   "en": "columnist's commentary",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.265",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "由一定知名度的专栏作者或作者群在固定栏目或版面上长期、稳定地提供独到见解的评论性文章。专栏评论是受约请的专栏作者发表的个人观点和见解，不同于以编辑部名义做出的新闻评论和反映一般读者观点的来信、评论。"
+  },
+  {
+   "cn": "广播新闻评论",
+   "en": "radio news commentary",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.026",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻总论",
+   "subjectName": "广播电视新闻总论",
+   "publishYear": "2022",
+   "definition": "新闻评论在广播媒介上的具体运用。"
+  },
+  {
+   "cn": "新闻评论节目",
+   "en": "news commentary program",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.051",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻总论",
+   "subjectName": "广播电视新闻总论",
+   "publishYear": "2022",
+   "definition": "运用广播电视传播手段，对新近或正在发生的重大事件或重大社会问题发表意见、进行分析和评述的一种节目形态。"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "认识学",
+   "en": "epistemology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "新实证主义认识论",
+   "en": "neo-positivist epistemology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "通",
+   "en": "on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一对一联系",
+   "en": "one to one relationship",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on line",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on-line",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正轴",
+   "en": "on-axis",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "见票即付",
+   "en": "on demand",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on-line",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "锤测航行区",
+   "en": "on soundings",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "登录",
+   "en": "sign-on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回送开放",
+   "en": "echo on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接通",
+   "en": "switch on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对遇",
+   "en": "end on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "红套",
+   "en": "shrink-on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "继续",
+   "en": "carry on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "系住",
+   "en": "bend on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "议对",
+   "en": "Commentary and Proposal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常州词派",
+   "en": "The Changzhou School of Commentary on Ci Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球",
+   "en": "one-and-one shot\",\"one-plus-one shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球规则",
+   "en": "one-and-one rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！(击剑)",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一",
+   "en": "The One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一级上诉",
+   "en": "level one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "备用品",
+   "en": "spare one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两次转移",
+   "en": "one-two",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备姿势",
+   "en": "placing on guard\",\"putting on guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射门",
+   "en": "shoot on goal\",\"shot on goal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大一/小一",
+   "en": "The Largest One / The Smallest One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "净资产收益率",
+   "en": "Return on Equity",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "咏史诗",
+   "en": "Poetry on History",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无待",
+   "en": "Depend on Nothing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "链上治理",
+   "en": "on-chain governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电视支付",
+   "en": "payment on TV",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随需调度",
+   "en": "on-demand scheduling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0156",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类认识的来源、本质、过程、方法、检验标准和发展规律的哲学理论，是哲学体系的一个重要组成部分。马克思主义哲学坚持以实践为基础，把辩证法应用于认识论，创立了革命的能动的反映论。"
+  },
+  {
+   "cn": "以兴趣为导向的认识论",
+   "en": "interestoriented epistemology",
+   "source": "马克思主义",
+   "wordNumber": "05.0042",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯以弗洛伊德的心理分析为出发点，认为“兴趣”是人类认识的根本内驱力，指出认识兴趣是多样的，包括技术的认识兴趣、实践的认识兴趣和解放的认识兴趣，只有在“兴趣”的引导下人们才不断产生新的认识领域。"
+  },
+  {
+   "cn": "医学认识论",
+   "en": "medical epistemology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.179",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "运用认识论的基本观点，研究医学认识的对象、来源、本质、发展过程和规律，以及医学认识与医学实践的关系的理论。"
+  },
+  {
+   "cn": "认识论断裂",
+   "en": "epistemological rupture",
+   "source": "马克思主义",
+   "wordNumber": "05.0067",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》。指理论总问题的转换。阿尔都塞认为马克思以1845年为标志，从早期人道主义的意识形态立场转向了科学的立场。"
+  },
+  {
+   "cn": "哲学就是认识论",
+   "en": "philosophy is epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0249",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1964年8月24日就日本物理学家坂田昌一的文章的谈话中提出的哲学命题。这一概括是将哲学作为世界观和方法论的广义认识论来看待的，是对列宁关于哲学是“伟大的认识工具”的科学论断的继承和发挥。"
+  },
+  {
+   "cn": "同一健康",
+   "en": "one health",
+   "source": "社会医学名词",
+   "wordNumber": "6.6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "整合健康治理",
+   "publishYear": "2025",
+   "definition": "基于人类与生态环境一体化健康视角，通过跨部门、跨领域、跨学科综合、统一的理念和方法，旨在实现人类、动物与生态系统健康的可持续平衡与优化。"
+  },
+  {
+   "cn": "现场消毒",
+   "en": "disinfection on site",
+   "source": "消毒学",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "发生传染病流行、突发公共卫生事件或重大活动卫生保障时对现场环境和物品等进行的消毒。"
+  },
+  {
+   "cn": "就地监测",
+   "en": "on-site monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测",
+   "subjectName": "流出物监测",
+   "publishYear": "2025",
+   "definition": "在现场直接进行的辐射监测。可用于测量辐射场的特性，如辐射场的照射量率、剂量率及随时间与空间的变化规律等。也可用于鉴别放射性核素并确定其大致的体积活度或表面活度。"
+  },
+  {
+   "cn": "现场笔录",
+   "en": "on-site transcripts",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.7",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "卫生监督员在现场监督时，对现场勘验的结果如实进行记录的文书。"
+  },
+  {
+   "cn": "青年话语",
+   "en": "discourse on youth",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.5",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "在特定社会语境中基于文本进行的有关青年问题讨论活动的总称，包括说话人、受话人、文本、沟通、语境等要素。"
+  },
+  {
+   "cn": "老龄协会",
+   "en": "committee on aging",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.52",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国民政部门主管的老年人社会团体。主要职责是对我国老龄事业发展的方针、政策、规划等问题进行调查研究，提出建议，开展信息交流、咨询服务等与老龄问题有关的社会活动，承办政府交办的其他事项和有关部门委托的工"
+  },
+  {
+   "cn": "一心一意搞建设",
+   "en": "concentrate on development",
+   "source": "马克思主义",
+   "wordNumber": "03.0611",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "根据历史上的经验教训，从时代的要求出发，邓小平提出：“一心一意搞建设”应当成为工作的中心。除了爆发大规模战争外，全党同志必须贯彻始终地集中力量进行经济建设，一步一步地实现中国的战略目标。"
+  },
+  {
+   "cn": "和平法令",
+   "en": "decree on peace",
+   "source": "马克思主义",
+   "wordNumber": "04.0073",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "由列宁起草，于1917年11月8日（俄历10月26日）经全俄第二次苏维埃代表大会通过的苏维埃政府颁布的第一个法令。该法令呼吁参加第一次世界大战的各交战国政府和人民，立即缔结停战协定，缔造正义与民主的和"
+  },
+  {
+   "cn": "土地法令",
+   "en": "decree on land",
+   "source": "马克思主义",
+   "wordNumber": "04.0074",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄国十月社会主义革命胜利后，苏维埃政府关于土地问题的第一个立法文件。于1917年11月8日（俄历10月26日）全俄苏维埃第二次代表大会上通过。《土地法令》宣布废除地主土地私有制。附有农民土地问题委托书"
+  },
+  {
+   "cn": "斯大林论民主",
+   "en": "Stalin on democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0102",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林在《和一个美国工人代表团的谈话》《在苏联列宁共产主义青年团第八次代表大会上的演说》等著作中谈到民主问题。①社会主义民主是最高类型的民主。无产阶级专政是阶级社会中的最高类型，是代表多数人利益的无产"
+  },
+  {
+   "cn": "斯大林论语言",
+   "en": "Stalin on language",
+   "source": "马克思主义",
+   "wordNumber": "04.0103",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林在许多著作中论及语言学，并著有专门著作《马克思主义和语言学问题》。在马克思、恩格斯、列宁语言学的理论基础上，对当时语言学的几乎全部重大的基本理论问题都进行了系统阐述。对苏联和中国的普通语言学起了"
+  },
+  {
+   "cn": "传帮带",
+   "en": "passing on experience",
+   "source": "马克思主义",
+   "wordNumber": "04.0145",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "前辈对晚辈在文化知识、技术技能、工作经验等方面给予传授、帮助和带动。改革之初，邓小平深刻认识到中国共产党内部干部老化问题以及选好接班人的重要性和紧迫性，强调老干部用实际行动抓紧搞好“传帮带”。"
+  },
+  {
+   "cn": "现场咨询",
+   "en": "on-site counseling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "由专业机构的学生心理健康咨询者深入到学校、社区或家庭，对学生进行心理评估和指导，着力解决学生的适应问题。"
+  },
+  {
+   "cn": "宗教观",
+   "en": "outlook on religion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0141",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对宗教现象的认知，包括对宗教现象自身的认知，以及宗教与国家、民族关系的认知。在中国，重点是要坚持宗教中国化方针，坚持中国宗教与社会主义社会相适应。"
+  },
+  {
+   "cn": "文化观",
+   "en": "outlook on culture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.014",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对文化现象的认知，包括对国家民族文化的认同和认知，对国家文化事业制度和道路的认同和认知，以及对各民族文化与国家民族文化关系、各亚文化与主流文化关系的认知。在中国，核心是对中华文化的认同，对中华文化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,692 @@
+{
+ "key": "absolute negation",
+ "term": "absolute negation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:01:46+00:00",
+ "status": "ok",
+ "note": "variant=absolute negation; 审定公布名词库=1241; 海峡两岸名词对照库=479; 其他来源数据库=32; 预公布名词数据库=77; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "否定[词]",
+   "en": "negation",
+   "source": "数学名词",
+   "wordNumber": "02.0034",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑差",
+   "en": "logical negation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.022",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "A和B两个检索项之间的布尔逻辑关系为“非”的运算。即从原检索范围A减去一部分B，以缩小检索范围，通常用算符“非”或“NOT”表示两个文件集逻辑差的关系。"
+  },
+  {
+   "cn": "否定要素",
+   "en": "negation element",
+   "source": "建筑学名词",
+   "wordNumber": "09.0437",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "否定图形符号原含义的符号要素。通常包括直杠和叉形两种形式。"
+  },
+  {
+   "cn": "否定副词",
+   "en": "negation adverb",
+   "source": "语言学名词",
+   "wordNumber": "04.090",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "表示否定的副词。例如“不”“没”“未必”。"
+  },
+  {
+   "cn": "失败即否定",
+   "en": "negation as failure",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0059",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "为了消解不允许推出否定信息的限制，基思·克拉克（Keith Clark）于1978年提出的一种对原子公式的否定的非经典解释：对原子公式 p ,若缺少充分的条件证明 p ，则可以推得not（ p ），即"
+  },
+  {
+   "cn": "否定妄想",
+   "en": "delusion of negation",
+   "source": "心理学名词",
+   "wordNumber": "10.150",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "患者坚信本人、其他人及某些物体已不复存在的妄想。常伴有心境极度低落。"
+  },
+  {
+   "cn": "绝对",
+   "en": "absolute",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.042",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "指无条件、永恒和无限的主体，独立自在、唯一的实在。从狭义角度看，既指上帝、自我、绝对精神和无限精神，又指超越主客体之上的绝对同一性。"
+  },
+  {
+   "cn": "独立语",
+   "en": "absolute",
+   "source": "语言学名词",
+   "wordNumber": "04.219",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句中的一个成分。与其他成分之间不存在主谓、偏正、述宾、述补等句法关系，位置比较灵活,前后都有停顿。可以表示感叹、称呼等意义。例如，“哎呀，真冷”“老王，你好”。"
+  },
+  {
+   "cn": "绝对形",
+   "en": "absolute",
+   "source": "数学名词",
+   "wordNumber": "08.0423",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "绝对[的]",
+   "en": "absolute",
+   "source": "数学名词",
+   "wordNumber": "01.0065",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "绝对主义",
+   "en": "absolutism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.139",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "认为存在一种关于事物的真理和适用规则，从而实现一成不变的绝对真理。"
+  },
+  {
+   "cn": "绝对性",
+   "en": "absoluteness",
+   "source": "数学名词",
+   "wordNumber": "02.0206",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "非门",
+   "en": "negation gate,NOT gate",
+   "source": "电子学名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对象的否定",
+   "en": "negation of a referent",
+   "source": "建筑学名词",
+   "wordNumber": "09.0441",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "通过在图形符号上添加否定要素来否定图形符号的含义。"
+  },
+  {
+   "cn": "绝对丰度",
+   "en": "absolute abundance",
+   "source": "地质学名词",
+   "wordNumber": "13.02.049",
+   "subjectFullName": "地质学_地球化学_元素地球化学",
+   "subjectName": "元素地球化学",
+   "publishYear": "2026",
+   "definition": "元素在自然体中的质量。"
+  },
+  {
+   "cn": "绝对湿度",
+   "en": "absolute humidity",
+   "source": "农学名词",
+   "wordNumber": "13.061",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "单位体积湿空气中所含水蒸气的质量。"
+  },
+  {
+   "cn": "绝对白色",
+   "en": "absolute white",
+   "source": "精细化工名词",
+   "wordNumber": "05.0380",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "物体明度为10的理想白色。"
+  },
+  {
+   "cn": "绝对黑色",
+   "en": "absolute black",
+   "source": "精细化工名词",
+   "wordNumber": "05.0381",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "物体明度为0的理想黑色。"
+  },
+  {
+   "cn": "净油",
+   "en": "absolute oil",
+   "source": "精细化工名词",
+   "wordNumber": "08.0736",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "用乙醇萃取浸膏、香脂或香树脂所得到的提取液，经过冷冻处理，滤去不溶物，再蒸去乙醇，得到的香料制品。"
+  },
+  {
+   "cn": "无水乙醇",
+   "en": "absolute ethanol",
+   "source": "精细化工名词",
+   "wordNumber": "08.1196",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "化学式为C₂H₅OH，无色澄清液体，极易从空气中吸收水分，能与水、氯仿和乙醚等多种有机溶剂以任意比例互溶。"
+  },
+  {
+   "cn": "否定妄想",
+   "en": "delusion of negation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非门",
+   "en": "negation gate\",\"NOT gate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绝对变率",
+   "en": "absolute variability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对不稳定",
+   "en": "absolute instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对高度",
+   "en": "absolute altitude",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对高度表",
+   "en": "absolute altimeter",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对极值",
+   "en": "absolute extreme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对频率",
+   "en": "absolute frequency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对湿度",
+   "en": "absolute humidity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对速度",
+   "en": "absolute velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对温度",
+   "en": "absolute temperature",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对稳定度",
+   "en": "absolute stability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对涡度",
+   "en": "absolute vorticity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对误差",
+   "en": "absolute error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对值",
+   "en": "absolute value",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对压力",
+   "en": "absolute pressure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绝对浊度",
+   "en": "absolute turbidity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绝对零度",
+   "en": "absolute zero",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绝对稳定性",
+   "en": "absolute stability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绝对黏度",
+   "en": "absolute viscosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绝对贫困",
+   "en": "absolute poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "整体消除绝对贫困现象",
+   "en": "eradicating absolute poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "假阴性",
+   "en": "false negative",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "刚毅",
+   "en": "Firm and Resolute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "工尺谱",
+   "en": "Gong-che Notation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "负压救护车",
+   "en": "negative pressure ambulance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负压房间",
+   "en": "negative pressure room",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "市场准入负面清单",
+   "en": "market access negative list",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "否定",
+   "en": "negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0089",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物内部所包含促使事物发展和转化的方面，也指事物通过它转化为另一事物的关节点。唯物辩证法认为，否定是由事物内部矛盾运动引起的质变。"
+  },
+  {
+   "cn": "辩证否定",
+   "en": "dialectical negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0093",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“抽象否定”相对。是事物的自我否定，是事物发展和相互联系的环节，其实质是“扬弃”。辩证的否定是辩证法的批判的革命的实质所在。"
+  },
+  {
+   "cn": "抽象否定",
+   "en": "abstract negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0094",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“辩证否定”相对，是完全否定的形而上学观点。它割裂肯定和否定之间的辩证关系，在绝对不相容的对立中思维，把肯定和否定对立起来，也就是否定中完全不存在肯定。认为否定就是否定一切，或宣布某一物不存在，或用"
+  },
+  {
+   "cn": "否定之否定规律",
+   "en": "law of the negation of negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0222",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法的基本规律之一。揭示了事物在发展的过程中，由肯定到否定，再由否定到否定之否定，经过两次否定达到更高阶段的规律。表明事物由于内部矛盾所引起的发展是螺旋式上升、波浪式前进。它指明新事物代替旧事物"
+  },
+  {
+   "cn": "净油",
+   "en": "absolute",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.3.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "植物来源的浸膏、香脂、香树脂或超临界流体提取物用乙醇提取所得产物，经冷却和过滤去除蜡质，再用蒸馏法去除乙醇后得到的液体"
+  },
+  {
+   "cn": "绝对主义",
+   "en": "absolutism",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.12",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "在认识或伦理的意义上，主张真与假、正确与错误之间有唯一、绝对的标准。除此之外，在政治上通常还用它来指称17-18世纪那些宣称君权神授并以极权国家为后盾的欧洲君主专制政体。在这个意义上，它是专制主义的同"
+  },
+  {
+   "cn": "绝对主义",
+   "en": "absolutism",
+   "source": "马克思主义",
+   "wordNumber": "01.0207",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "与“相对主义”相对。一种把事物及认识绝对化的唯心主义和形而上学观点。绝对主义割裂绝对与相对的辩证关系，只承认绝对性，否认相对性。绝对主义者不承认一切过程都有始有终，不承认一过程必然转化为他过程，否认绝"
+  },
+  {
+   "cn": "绝对主义",
+   "en": "absolutism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.139",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为存在一种关于事物的真理和适用规则，从而实现一成不变的绝对真理。"
+  },
+  {
+   "cn": "绝对否定",
+   "en": "absolute negative",
+   "source": "马克思主义",
+   "wordNumber": "05.0029",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿多诺提出的概念。他认为从柏拉图到黑格尔的辩证法都服务于形而上学的目的，即把辩证法禁锢在主体的肯定性目的中。他用绝对否定代替否定之否定，声称否定一个否定，并不导致肯定，这只能证明否定得不够彻底，真正的"
+  },
+  {
+   "cn": "绝对危险",
+   "en": "absolute risk",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "研究人群中某事件的观察或计算得出的发生概率。偶指归因分数、超额危险、率差等。"
+  },
+  {
+   "cn": "绝对剥夺",
+   "en": "absolute deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "失去或缺乏满足基本生存需求（如食物、衣物或栖身之所）的手段。与“相对剥夺”相对。"
+  },
+  {
+   "cn": "绝对权力",
+   "en": "absolute power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.3",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "没有被加以任何限制或制衡的权力，一种绝对的支配意志，一种专断的权力。英国思想史家阿克顿勋爵认为“权力导致腐败，绝对权力绝对导致腐败”。"
+  },
+  {
+   "cn": "绝对贫困",
+   "en": "absolute poverty",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "社会成员获得的实际收入、拥有的消费资料及服务不能满足其基本生存需要的状态。目前我国城乡居民最低生活保障依据各地物价水平划定的绝对贫困线。"
+  },
+  {
+   "cn": "绝对运动",
+   "en": "absolute motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0024",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "运动是物质的固有属性和根本存在方式，运动是普遍的、永恒的、无条件的，因而是绝对的。世界是永恒运动着的物质世界。"
+  },
+  {
+   "cn": "绝对精神",
+   "en": "absolute spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0114",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "黑格尔哲学用语。绝对精神与广义的绝对理念互用，指万物的本原与本质。绝对理念经过逻辑学、自然哲学、精神哲学的否定之否定发展，最后返回自身达到绝对精神，即思与在的绝对同一。"
+  },
+  {
+   "cn": "绝对真理",
+   "en": "absolute truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0211",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的绝对性。(1)任何真理都是人脑对客观事物及其规律的正确反映，包含有不以人的意志为转移的客观内容，同谬误有原则区别，在它所反映的范围和限度内是不能被推翻的。这一点是无条件的、绝对的。在这个意义上，"
+  },
+  {
+   "cn": "绝对工资",
+   "en": "absolute wage",
+   "source": "马克思主义",
+   "wordNumber": "02.0147",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“相对工资”相对应。一国工人单位时间的工资水平。"
+  },
+  {
+   "cn": "绝对贫困化",
+   "en": "absolute pauperization",
+   "source": "马克思主义",
+   "wordNumber": "02.0172",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本主义条件下，无产阶级的生活状况会随着各种经济危机、滞胀或战争而出现不断恶化的现象。通常表现为工人失业、生活费上涨、税捐增加、实际工资下降、居住条件恶化等，而使工人阶级的生存条件绝对地恶化。"
+  },
+  {
+   "cn": "绝对优势方案",
+   "en": "absolute dominance",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.7.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "相比于其他方案，成本较低且效果较好的方案。"
+  },
+  {
+   "cn": "绝对共性",
+   "en": "absolute universals",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0057",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "所有的语言都会具有的特征。例如任何语言语音都分元音和辅音，词类都有名词、动词等。参见“分布共性”。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,682 @@
+{
+ "key": "metric apartness",
+ "term": "metric apartness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:19:21+00:00",
+ "status": "ok",
+ "note": "variant=metric apartness; 审定公布名词库=1017; 海峡两岸名词对照库=308; 其他来源数据库=37; 预公布名词数据库=38; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "公寓",
+   "en": "apartment",
+   "source": "建筑学名词",
+   "wordNumber": "02.0091",
+   "subjectFullName": "建筑学_建筑类型及组成_居住建筑",
+   "subjectName": "居住建筑",
+   "publishYear": "2014",
+   "definition": "有完整的居住和厨卫设施布置，有统一的专人管理，以家庭使用为主的住宅。"
+  },
+  {
+   "cn": "度规",
+   "en": "metric",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.352",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "在n维空间中，无限靠近的两点间距离的平方表示为ds2=gμνdμdν，其中微元ds表达式的系数gμν就是度规。在时空理论中度规决定时空曲率及相关物理性质。"
+  },
+  {
+   "cn": "度规",
+   "en": "metric",
+   "source": "天文学名词",
+   "wordNumber": "07.609",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "时空中相邻两点的距离度量。"
+  },
+  {
+   "cn": "度规",
+   "en": "metric",
+   "source": "物理学名词",
+   "wordNumber": "09.1258",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "度量",
+   "en": "metric",
+   "source": "数学名词",
+   "wordNumber": "08.0538",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "公寓",
+   "en": "condominium,apartment",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.207",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市（镇）详细规划",
+   "subjectName": "城市（镇）详细规划",
+   "publishYear": "2021",
+   "definition": "在一幢建筑内以一个出入口并使用公共走廊和楼梯、电梯连接多个居住单元、供多户居住的住宅建筑。"
+  },
+  {
+   "cn": "单元式住宅",
+   "en": "apartment building",
+   "source": "建筑学名词",
+   "wordNumber": "02.0085",
+   "subjectFullName": "建筑学_建筑类型及组成_居住建筑",
+   "subjectName": "居住建筑",
+   "publishYear": "2014",
+   "definition": "由几个住宅单元组合而成，每一个单元均设有楼梯或楼梯与电梯的住宅。"
+  },
+  {
+   "cn": "跃层住宅",
+   "en": "duplex apartment",
+   "source": "建筑学名词",
+   "wordNumber": "02.0086",
+   "subjectFullName": "建筑学_建筑类型及组成_居住建筑",
+   "subjectName": "居住建筑",
+   "publishYear": "2014",
+   "definition": "套内空间跨越两楼层及以上的住宅。"
+  },
+  {
+   "cn": "小套公寓",
+   "en": "efficiency apartment",
+   "source": "建筑学名词",
+   "wordNumber": "02.0092",
+   "subjectFullName": "建筑学_建筑类型及组成_居住建筑",
+   "subjectName": "居住建筑",
+   "publishYear": "2014",
+   "definition": "平均建筑面积25~45m²的公寓。"
+  },
+  {
+   "cn": "旅馆式公寓",
+   "en": "service apartment",
+   "source": "建筑学名词",
+   "wordNumber": "02.0093",
+   "subjectFullName": "建筑学_建筑类型及组成_居住建筑",
+   "subjectName": "居住建筑",
+   "publishYear": "2014",
+   "definition": "提供旅馆式管理服务的住宅。"
+  },
+  {
+   "cn": "拉分",
+   "en": "pull-apart",
+   "source": "地质学名词",
+   "wordNumber": "03.308",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "米制轴承",
+   "en": "metric bearing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0628",
+   "subjectFullName": "机械工程（一）_机械零件_滚动轴承_各种滚动轴承",
+   "subjectName": "各种滚动轴承",
+   "publishYear": "2021",
+   "definition": "外形尺寸及公差用米制计量单位表示的滚动轴承。"
+  },
+  {
+   "cn": "量测摄像机",
+   "en": "metric camera",
+   "source": "光学名词",
+   "wordNumber": "15.137",
+   "subjectFullName": "光学_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2021",
+   "definition": "一种内方位元素已知的、摄影物镜的畸变经过严格校正的摄像机。习惯上将具有框标的摄影机称为量测摄影机。"
+  },
+  {
+   "cn": "量测摄影机",
+   "en": "metric camera",
+   "source": "测绘学名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "内方位元素已知，带有框标，物镜畸变差经过严格校正的专为摄影测量目的而设计制造的摄影机。"
+  },
+  {
+   "cn": "度量关系",
+   "en": "metric relation",
+   "source": "测绘学名词",
+   "wordNumber": "05.009",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "一般指距离关系，用某种空间中的距离来描述对象间的关系。"
+  },
+  {
+   "cn": "欧几里得度规",
+   "en": "Euclidean metric",
+   "source": "物理学名词",
+   "wordNumber": "01.0503",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "测度熵",
+   "en": "metric entropy",
+   "source": "物理学名词",
+   "wordNumber": "05.1119",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "度规场",
+   "en": "metric field",
+   "source": "物理学名词",
+   "wordNumber": "06.0216",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "度规传递性",
+   "en": "metric transitivity",
+   "source": "物理学名词",
+   "wordNumber": "05.0497",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "度规张量",
+   "en": "metric tensor",
+   "source": "物理学名词",
+   "wordNumber": "06.0130",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "住宅微气候",
+   "en": "apartment microclimate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "公制",
+   "en": "metric system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "韵律变换",
+   "en": "metric modulation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "度量性状",
+   "en": "metric trait",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "品质属性",
+   "en": "metric attribute",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "软件量度",
+   "en": "software metric",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公吨",
+   "en": "metric ton",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "软件度量学",
+   "en": "software metrics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "质量度量学",
+   "en": "quality metrics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "韵律诗篇歌",
+   "en": "metrical psalm",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "度量摄影测量",
+   "en": "metrical photogrammetry",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "拉张盆地",
+   "en": "pull-apart basin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "将船撑开",
+   "en": "breasting the ship apart",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "罗伯逊-沃克度规",
+   "en": "Robertson-Walker metric",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "非量测摄影机",
+   "en": "non-metric camera",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "公制粗牙螺纹",
+   "en": "metric coarse thread",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量检测结果表",
+   "en": "data quality metrics",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "量测摄影机",
+   "en": "surveying camera\",\"metric camera",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "景观指数",
+   "en": "landscape index\",\"landscape metrics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "景观指数",
+   "en": "landscape index\",\"landscape metrics",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "标准系统有序性度量",
+   "en": "order metric for the standard system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "山川异域，风月同天。",
+   "en": "While mountains and rivers separate us, we enjoy the same moonlight under the same sky.或Miles apart but close at heart.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "状态感知",
+   "en": "status awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "态势感知",
+   "en": "situation awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防范认知",
+   "en": "Security Awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络安全防护意识与能力",
+   "en": "cybersecurity awareness and ability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融网络安全态势感知平台",
+   "en": "financial network security situation awareness platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "老年公寓",
+   "en": "apartment for the aged",
+   "source": "社会学名词",
+   "wordNumber": "3.15.7.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会服务",
+   "subjectName": "老年社会服务",
+   "publishYear": "2025",
+   "definition": "专供老年人集中居住，符合老年体能心态特征的公寓式住宅，具备餐饮、清洁卫生、文化娱乐、医疗保健服务体系，是综合管理的住宅类型。"
+  },
+  {
+   "cn": "自我觉察",
+   "en": "self-awareness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同含义：一是指个体对作为观察与分析客体的自我的知觉，包括身体感觉、动作及心理过程等；二是指个体对自己作为一个与他人相区隔，拥有一己知觉、情绪、情感、思想的独立个体的理解。"
+  },
+  {
+   "cn": "自我认知",
+   "en": "self-awareness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "理解自己的情绪、思想和价值观，及其如何在不同环境中影响自身行为的能力。"
+  },
+  {
+   "cn": "社会认知",
+   "en": "social awareness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "理解来自不同文化和背景的人及其观点的能力。"
+  },
+  {
+   "cn": "性意识",
+   "en": "sex awareness",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.2.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "对性的感觉、作用和地位的自我认识，是性心理活动的基础。"
+  },
+  {
+   "cn": "风险意识",
+   "en": "risk awareness",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.20",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "对食品安全风险的感受、认识及由利益与风险之间的关系而产生的对风险的态度。"
+  },
+  {
+   "cn": "自我认知能力",
+   "en": "self-awareness skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "对自己的个性、优缺点和喜恶作出客观评价的能力。有助于个体建立自信心，与他人保持和发展良好的人际关系。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "性伴侣数量",
+   "en": "number of sexual partners",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "有过性交关系的人数。"
+  },
+  {
+   "cn": "易受孕期知晓法",
+   "en": "fertility awareness-based method, FAB",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.9.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一系列通过女性使用者自行观察月经周期中变化特点，判断何时为易受孕期或不易受孕期，并在易受孕期避免阴道性交的自然避孕方法。"
+  },
+  {
+   "cn": "催吐剂",
+   "en": "emetic",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.13",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "引发呕吐促使胃里放射性核素排除体外的制剂。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人相处的各种道德准则及规范的理论或道理。"
+  },
+  {
+   "cn": "柠檬酸",
+   "en": "citric acid",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.4.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "三羧酸循环中由草酰乙酸与乙酰辅酶A 缩合成的三羧酸化合物，系统命名为2-羟基-1,2,3-丙烷三羧酸，有强酸性。可作为酸度调节剂用于婴幼儿配方食品、浓缩果蔬汁等食品中。"
+  },
+  {
+   "cn": "清单矩阵",
+   "en": "checklist matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以分析某个主要的变量或通常感兴趣的领域的田野数据的一种表格形式。矩阵表格中包含了某个单一的、一致的变量的几个组成部分。"
+  },
+  {
+   "cn": "社会母体",
+   "en": "social matrix",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "孕育社会新生事物的社会基体或本原。"
+  },
+  {
+   "cn": "学科基质",
+   "en": "disciplinary matrix",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.179",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "在库恩的理论中，学科基质由六个部分组成：①公式和符号表征；②仪器；③正误标准和实验可重复性；④形而上学预设；⑤问题研究域；⑥范例。"
+  },
+  {
+   "cn": "食品基质",
+   "en": "food matrix",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.62",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "待测食品样品中除被分析物质之外的所有物质的总和"
+  },
+  {
+   "cn": "风险矩阵",
+   "en": "risk matrix",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.23",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "表示各方案在不同自然状态下最终收益或损失结果的矩阵。"
+  },
+  {
+   "cn": "人伦",
+   "en": "human ethic",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.37",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "人们在社会中按年龄、智力、职业等分工而建立的社会秩序以及由此产生的彼此关系以及对关系的道德准则。也指父子、君臣、长幼、夫妇、朋友等“五伦”，为中国传统社会包含了血缘、文化、政治关系的总括和道德准则。"
+  },
+  {
+   "cn": "土地伦理",
+   "en": "land ethic",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.13",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "一种处理人与土地，以及人与土地上生长的动物和植物之间关系的伦理观，当一个事物有助于保护生物共同体的和谐、稳定和美丽的时候，它就是正确的，当它走向反面时，就是错误的。目的是要把人类在共同体中以征服者面目"
+  },
+  {
+   "cn": "程序伦理",
+   "en": "procedural ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.054",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "关注道德决策的过程、方法和程序的正当性，探讨“如何公正地做出道德决定？”的伦理学理论。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

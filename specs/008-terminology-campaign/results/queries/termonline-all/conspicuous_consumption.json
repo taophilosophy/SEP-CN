@@ -1,0 +1,722 @@
+{
+ "key": "conspicuous consumption",
+ "term": "conspicuous consumption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:29:11+00:00",
+ "status": "ok",
+ "note": "variant=conspicuous consumption; 审定公布名词库=369; 海峡两岸名词对照库=50; 其他来源数据库=12; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "醒目性",
+   "en": "conspicuity",
+   "source": "电气工程名词",
+   "wordNumber": "22.119",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "消费",
+   "en": "consumption",
+   "source": "农学名词",
+   "wordNumber": "19.033",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "将生产出来的物质产品或精神产品用于满足个人生活需要的行为和过程。是社会再生产过程中的一个重要环节。"
+  },
+  {
+   "cn": "消费",
+   "en": "consumption ",
+   "source": "草学名词",
+   "wordNumber": "2.0449",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "消耗",
+   "en": "consumption",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0210",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "因使用或受损失而逐渐减少。 "
+  },
+  {
+   "cn": "消费",
+   "en": "consumption",
+   "source": "经济学名词",
+   "wordNumber": "01.009",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "社会再生产过程的环节之一，人们使用物质资料满足生产和生活需要的过程。包括生产消费和生活消费。前者指生产过程中工具、原料、燃料等的消耗，后者指人们为满足其生活需要而耗费各种物质资料和精神产品。"
+  },
+  {
+   "cn": "消耗量",
+   "en": "consumption",
+   "source": "生态学名词",
+   "wordNumber": "07.181",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "被食者被消费者所取食的部分。"
+  },
+  {
+   "cn": "用水量",
+   "en": "water consumption",
+   "source": "风景园林名词",
+   "wordNumber": "08.0867",
+   "subjectFullName": "风景园林_风景园林工程_风景园林给水",
+   "subjectName": "风景园林给水",
+   "publishYear": "2025",
+   "definition": "用水对象消耗的水量。"
+  },
+  {
+   "cn": "消费结构",
+   "en": "consumption structure",
+   "source": "农学名词",
+   "wordNumber": "19.034",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "各类消费支出在总消费支出中所占的比重结构。"
+  },
+  {
+   "cn": "消费倾向",
+   "en": "consumption tendency",
+   "source": "农学名词",
+   "wordNumber": "19.036",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "消费随着收入的增加而增加，但消费增加量一般小于收入增加量的现象。常用消费支出占收入的比例表示。"
+  },
+  {
+   "cn": "消费支出",
+   "en": "consumption expenditure",
+   "source": "农学名词",
+   "wordNumber": "19.039",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "消费者购买最终产品和服务的支出。"
+  },
+  {
+   "cn": "绿色消费",
+   "en": "green consumption",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.216",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "国际消费者联盟于1963年正式提出的概念。指消费者以崇尚自然、保护生态和避免环境破坏为目的，以有益人类健康、满足自然界生态平衡需要为基本内涵，有意识地选择符合人的健康和环境保护标准的绿色产品或服务的消"
+  },
+  {
+   "cn": "消耗预测",
+   "en": "consumption prediction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.128",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "基于多维度统计数据，对单位的能耗/物耗的年度生产规划进行预测，把握消耗趋势，控制存储量，减少浪费，降低生产成本的活动。"
+  },
+  {
+   "cn": "氧耗",
+   "en": "oxygen consumption",
+   "source": "麻醉学名词",
+   "wordNumber": "03.379",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_血流动力学监测",
+   "subjectName": "血流动力学监测",
+   "publishYear": "2024",
+   "definition": "机体单位时间内通过有氧代谢等消耗氧的量。反映组织摄取氧和利用氧的能力。因为机体摄取的氧绝大部分用于消耗，因此用测定的摄取氧量来代表氧耗量。一般用每分钟消耗氧的毫升数表示。取决于机体组织的功能代谢状态。"
+  },
+  {
+   "cn": "油墨消耗量",
+   "en": "ink consumption",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.085",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "使用某一印版印刷时所需要的油墨的湿体积。"
+  },
+  {
+   "cn": "可持续消费",
+   "en": "sustainable consumption ",
+   "source": "草学名词",
+   "wordNumber": "3.0259",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生态消费",
+   "en": "ecological consumption ",
+   "source": "草学名词",
+   "wordNumber": "3.026",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "绿色消费",
+   "en": "green consumption ",
+   "source": "草学名词",
+   "wordNumber": "3.0261",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "消费效率",
+   "en": "consumption efficiency",
+   "source": "动物学名词",
+   "wordNumber": "7.0556",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "一个营养级所消费的能量占前一个营养级的净生产能量的百分比。"
+  },
+  {
+   "cn": "功率消耗",
+   "en": "power consumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0893",
+   "subjectFullName": "机械工程（一）_机械零件_机械密封_机械密封性能参数",
+   "subjectName": "机械密封性能参数",
+   "publishYear": "2021",
+   "definition": "机械密封工作时由端面摩擦和旋转组件搅拌作用等各种因素所引起的总的功率消耗。"
+  },
+  {
+   "cn": "耗气量",
+   "en": "air consumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1393",
+   "subjectFullName": "机械工程（一）_传动_气压传动",
+   "subjectName": "气压传动",
+   "publishYear": "2021",
+   "definition": "气动元件或装置为完成规定的动作或在规定的时间内所消耗的标准状态空气量。"
+  },
+  {
+   "cn": "炫耀性消费",
+   "en": "conspicuous consumption",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "雷达明显目标",
+   "en": "radar conspicuous object",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "消耗量",
+   "en": "consumption",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "消耗量",
+   "en": "consumption",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "消费",
+   "en": "consumption",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "能量损耗",
+   "en": "energy consumption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "功率消耗",
+   "en": "power consumption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "氧耗量,耗氧量",
+   "en": "oxygen consumption",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "食物消费量",
+   "en": "food consumption",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸消费量",
+   "en": "respiratory consumption",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大量消费",
+   "en": "heavy consumption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共消费",
+   "en": "public consumption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "消费基金",
+   "en": "consumption fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "耗氧量",
+   "en": "oxygen consumption",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大众消费",
+   "en": "mass consumption",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "消耗试验",
+   "en": "consumption test",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "耗氧量",
+   "en": "oxygen-consumption",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "燃油消耗量",
+   "en": "fuel consumption",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "汽耗量",
+   "en": "steam consumption",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "燃料消耗量",
+   "en": "fuel consumption",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "消费多元化",
+   "en": "diversified consumption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协同消费",
+   "en": "collaborative consumption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动消费",
+   "en": "mobile consumption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧用能",
+   "en": "intelligent energy consumption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "服务消费",
+   "en": "consumption of services",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实物消费",
+   "en": "consumption of products ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "消费扶贫",
+   "en": "poverty alleviation through consumption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际旅游消费中心",
+   "en": "international tourism and consumption destination",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "消费扶贫体验活动",
+   "en": "experience of poverty alleviation through consumption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色生活方式和绿色消费",
+   "en": "eco-friendly lifestyle and green consumption",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "把被抑制、被冻结的消费释放出来",
+   "en": "to stimulate consumption stifled by the outbreak  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "炫耀性消费",
+   "en": "conspicuous consumption",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.28",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "富裕的上层阶级对物品超出实用和生存所必需的浪费性、奢侈性消费。这种消费用来向他人炫耀和展示自己的金钱财力和社会地位，并享受这种地位所带来的荣耀、声望和名誉。由凡勃伦(Thorstein Bunde V"
+  },
+  {
+   "cn": "消费",
+   "en": "consumption",
+   "source": "马克思主义",
+   "wordNumber": "02.0024",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们为满足物质、文化精神生活等各种需要而对物品和服务的消耗与花费的行为和过程。是社会再生产过程中的一个重要环节，是恢复人们劳动力和劳动力再生产必不可少的条件。消费又分为生产消费和个人消费。"
+  },
+  {
+   "cn": "符号消费",
+   "en": "symbolic consumption",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.42",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "指向消费品所象征和代表的审美、品质、情调和气氛等符号意义的消费。消费的过程也是消费者进行意义建构、趣味区分、文化分类和社会关系再生产的过程。在这种消费中，消费的主体地位被取消了，商品所对应的外在符号体"
+  },
+  {
+   "cn": "文化消费",
+   "en": "cultural consumption",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.28",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "以文化产品为对象的消费活动。"
+  },
+  {
+   "cn": "个人消费",
+   "en": "individual consumption",
+   "source": "马克思主义",
+   "wordNumber": "02.0157",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "本来意义上的消费，是有别于生产消费的个人生活消费，即人们为了满足个人物质和文化生活需要而对各种产品和劳务的使用。"
+  },
+  {
+   "cn": "生产消费",
+   "en": "productive consumption",
+   "source": "马克思主义",
+   "wordNumber": "02.0158",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质资料生产过程中生产资料和劳动力的消费。人们生产产品，必须消耗某些原料、燃料和辅助材料，机器、工具和厂房也会磨损，这是生产资料的消费；与此同时，劳动者还要支出脑力和体力，这是劳动力的消费。"
+  },
+  {
+   "cn": "消费异化",
+   "en": "consumption alienation",
+   "source": "马克思主义",
+   "wordNumber": "05.0080",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "当代资本主义社会普遍发生的人与消费品的异化现象，虚假需要的出现，消费由日常生活消费走向炫耀性消费。"
+  },
+  {
+   "cn": "健康消费",
+   "en": "health consumption",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.1.3.2",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求",
+   "subjectName": "健康需求",
+   "publishYear": "2025",
+   "definition": "健康可以使个体感到舒适，个体可以从健康直接获得效用的行为。"
+  },
+  {
+   "cn": "食物消费量",
+   "en": "food consumption",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.47",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "个体或群体消费固体食物、饮料（包括饮水）、膳食补充剂的量"
+  },
+  {
+   "cn": "消费频次",
+   "en": "consumption frequency",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.68",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "个体或群体在一定时间内食用某种食品的频率。可以用每年食用该食物的天数、一年中的用餐次数、年度进食的次数、一年内食用该食物的次数，或者一年内食用的100 克食物的份数等表示。"
+  },
+  {
+   "cn": "消费系数",
+   "en": "consumption index",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.63",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某种特定食品接触材料包装的食品重量占所有食品接触材料包装的食品重量的比例。"
+  },
+  {
+   "cn": "消费社会学",
+   "en": "sociology of consumption",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.41",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "研究个人、群体和社会的生活消费行为、消费模式，以及消费行为与经济、政治、社会、文化诸因素相互关系的社会学分支学科。"
+  },
+  {
+   "cn": "消费文化",
+   "en": "culture of consumption",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.44",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在一定的历史阶段中，人们在物质生产与精神生产、社会生活以及消费活动中所表现出来的消费理念、消费方式、消费行为和消费环境的总和。"
+  },
+  {
+   "cn": "消费无损耗性",
+   "en": "consumption loss-free",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.6",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息可以为多个信息消费者同时拥有和使用，而不影响信息完整性，且使用后价值不衰减的特征。"
+  },
+  {
+   "cn": "高锰酸钾消耗量",
+   "en": "potassium permanganate consumption",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.54",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "从材料迁移到水中可被高锰酸钾氧化的物质总量。"
+  },
+  {
+   "cn": "食物消费量调查",
+   "en": "food consumption survey",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.48",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "记录个体或群体消费固体食物、饮料（包括饮水）、膳食补充剂的量的调查。包括记录/日志，食物频率问卷法，膳食回顾法和总膳食研究。"
+  },
+  {
+   "cn": "卫生消费弹性系数",
+   "en": "elasticity of health consumption",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.4.3.3",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生总费用分析",
+   "subjectName": "卫生总费用分析",
+   "publishYear": "2025",
+   "definition": "卫生总费用增长速度与国内生产总值增长速度之间的比例关系，是世界各国用来衡量卫生发展与国民经济增长是否协调的重要评价指标。"
+  },
+  {
+   "cn": "脂肪校正因子",
+   "en": "fat consumption reduction factor, FRF",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.65",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "指对亲脂性物质的特定迁移量进行校正的因子，适用于脂肪含量在20%以上的食品，其计算公式为FRF=（5*食品中的脂肪含量）/100。"
+  },
+  {
+   "cn": "消费受控的官僚社会",
+   "en": "bureaucratic society of controlled consumption",
+   "source": "马克思主义",
+   "wordNumber": "05.0113",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "列斐伏尔认为，现代工业社会的官僚组织从根本上来讲是单调的、操纵的和极权的，人的需求由官僚社会界定并由官僚社会满足，所谓消费的“自由选择”实际上是在资本给定的范围内受官僚社会控制的消费过程，因此后现代社"
+  },
+  {
+   "cn": "战时军人饮水需要量",
+   "en": "soldier water consumption in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.1.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时饮水卫生",
+   "subjectName": "战时饮水卫生",
+   "publishYear": "2025",
+   "definition": "军队在战争或平时野外军事作业、非战争军事行动时，军人每日最低饮水需要量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

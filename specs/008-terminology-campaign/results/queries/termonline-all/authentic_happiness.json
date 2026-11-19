@@ -1,0 +1,662 @@
+{
+ "key": "authentic happiness",
+ "term": "authentic happiness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:02:27+00:00",
+ "status": "ok",
+ "note": "variant=authentic happiness; 审定公布名词库=62; 海峡两岸名词对照库=27; 其他来源数据库=32; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "高兴",
+   "en": "happy",
+   "source": "行为医学名词",
+   "wordNumber": "3.126",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "令人感到快乐、愉快而兴奋的情绪。"
+  },
+  {
+   "cn": "真实性",
+   "en": "authenticity",
+   "source": "档案学名词",
+   "wordNumber": "06.01.019",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件内容、结构和背景与形成时的原始状况相一致的性质。真实的文件满足以下条件：第一，文件用意与其制文目的相符；第二，文件的形成者和发送者与其既定的形成者和发送者相吻合；第三，文件的形成或发送时间与其既定"
+  },
+  {
+   "cn": "认证鉴别",
+   "en": "authentication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.103",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "验证实体是否具有其宣称的身份的过程和行为。"
+  },
+  {
+   "cn": "真实性",
+   "en": "authenticity",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.072",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "遗产价值的信息来源真实可靠。对这些与文化遗产的最初与后续特征有关的信息来源及其意义的认识与了解是全面评估真实性的必备基础。这些来源可包括形式与设计、材料与物质、用途与功能、传统与技术、地点与背景、精神"
+  },
+  {
+   "cn": "认证",
+   "en": "authentication",
+   "source": "电力名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "任何专用于确定传输消息或发信方的有效性的安全措施,或者对接受特定的信息类别的个人授权进行验证的手段。"
+  },
+  {
+   "cn": "鉴别",
+   "en": "authentication",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0104",
+   "subjectFullName": "计算机科学技术_信息安全_安全协议与分析技术",
+   "subjectName": "安全协议与分析技术",
+   "publishYear": "2018",
+   "definition": "判别真伪的证明。"
+  },
+  {
+   "cn": "真实性",
+   "en": "authenticity",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0061",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "在虚拟市场中确定交易者的实际身份。"
+  },
+  {
+   "cn": "认证",
+   "en": "authentication",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0066",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "公证机关或专职部门对某事物审查属实后给予的证明。"
+  },
+  {
+   "cn": "可信签名",
+   "en": "authentic signature",
+   "source": "电力名词",
+   "wordNumber": "06.154",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "能够信赖的签名(特别是数字签名),因为能对该签名进行核查。"
+  },
+  {
+   "cn": "真实性评价",
+   "en": "authentic assessment",
+   "source": "心理学名词",
+   "wordNumber": "09.117",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "对学生在真实情境中的学习能力及其表现进行的评价。"
+  },
+  {
+   "cn": "权威物质",
+   "en": "authentic substance",
+   "source": "药学名词",
+   "wordNumber": "06.026",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "由药品标准物质研制机构提供的高纯度非标准物质。"
+  },
+  {
+   "cn": "真实性学习",
+   "en": "authentic learning",
+   "source": "教育学名词",
+   "wordNumber": "11.156",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "让学员在真实的环境中，通过自己的努力，解决现实问题，从而获得知识和技能的教学方法。"
+  },
+  {
+   "cn": "真实性",
+   "en": "truth authenticity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0364",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "依据文化遗产类别及其文化背景，如果遗产的文化价值的外形和设计，材料和实质，用途和功能，传统、技术和管理体系，位置和环境，语言和其他形式的非物质遗产，精神和感觉，其他内外因素等特征真实可信，则被认为具有"
+  },
+  {
+   "cn": "真实性鉴别",
+   "en": "authenticity identification",
+   "source": "农学名词",
+   "wordNumber": "18.038",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "依据科学系统的方法，对产品的组成性质等进行分析，验证其是否符合标称成分与营养等信息的过程。"
+  },
+  {
+   "cn": "身份认证",
+   "en": "identity authentication",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.111",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "在计算机及计算机网络系统中确认操作者身份的过程。用于确定该用户是否具有对某种资源的访问和使用权限，保证系统和数据的安全，以及授权访问者的合法利益。"
+  },
+  {
+   "cn": "数字认证",
+   "en": "digital authentication",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.297",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "以数字证书为核心的加密技术，可以对网络上传输的信息进行加密、解密、数字签名和签名验证，确保网上传递信息的安全性、完整性。"
+  },
+  {
+   "cn": "新闻真实性",
+   "en": "journalistic authenticity",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.029",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "新闻报道与客观事实的一致性。"
+  },
+  {
+   "cn": "鉴别信息",
+   "en": "authentication information",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0152",
+   "subjectFullName": "计算机科学技术_信息安全_安全协议与分析技术",
+   "subjectName": "安全协议与分析技术",
+   "publishYear": "2018",
+   "definition": "用于验证一个实体所宣称拥有或实际拥有身份的信息。"
+  },
+  {
+   "cn": "生物鉴别",
+   "en": "biometric authentication",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0194",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "通过对某人的物理特征（如指纹、手形、视网膜图形、语音或笔迹等）进行数字化测量，从而生成身份验证信息的一种方法。"
+  },
+  {
+   "cn": "消息鉴别",
+   "en": "message authentication",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0115",
+   "subjectFullName": "计算机科学技术_信息安全_安全协议与分析技术",
+   "subjectName": "安全协议与分析技术",
+   "publishYear": "2018",
+   "definition": "验证消息由声明的始发者发给预期的接收者，并且该消息在转移中未被更改。"
+  },
+  {
+   "cn": "真实性",
+   "en": "authenticity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别",
+   "en": "authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别码，鉴定符",
+   "en": "authenticator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身份验证者",
+   "en": "authenticator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正调式",
+   "en": "authentic mode",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "真实性评价",
+   "en": "authentic assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "报文鉴别",
+   "en": "message authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标识鉴别",
+   "en": "identity authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别交换",
+   "en": "authentication exchange",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别数据",
+   "en": "authentication data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别头",
+   "en": "authentication header",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别信息",
+   "en": "authentication information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实体鉴别",
+   "en": "entity authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证书鉴别",
+   "en": "certificate authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对照生药",
+   "en": "authentic crude drug",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别逻辑",
+   "en": "logic of authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原数据鉴别",
+   "en": "origin data authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报文鉴别码",
+   "en": "message authentication code\",\"MAC",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证实",
+   "en": "○1authentication\",\"verification○2 confirm\",\"certify",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness\",\"frost hardiness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "区块链鉴证",
+   "en": "blockchain authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份鉴别",
+   "en": "identity authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "报文认证",
+   "en": "message authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认证服务",
+   "en": "authentication service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认证协议",
+   "en": "authentication protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认证加密",
+   "en": "Authenticated Encryption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全认证",
+   "en": "security authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "至乐无乐",
+   "en": "Utmost Happiness Lies in Not Aware of the Happiness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份认证管理",
+   "en": "identity authentication management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认证测试方法",
+   "en": "authentication testing method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哀景写乐",
+   "en": "Depict Sorrowful Scenery to Express Happiness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络身份认证体系",
+   "en": "network identity authentication system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多元化身份认证体系",
+   "en": "diversified identity authentication system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认证授权技术",
+   "en": "authentication and authorization technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "密制消息验证码",
+   "en": "encrypted message authentication code",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消息鉴别码",
+   "en": "message authentication code (MAC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "孔颜之乐",
+   "en": "The Happiness of Confucius and Yan Hui",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全可控身份认证",
+   "en": "secure and controllable identity authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全方位信息保证认证",
+   "en": "overall information assurance and authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "幸福",
+   "en": "happiness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.107",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在物质生活和精神生活中，因期望、理想或目标的实现而使其获得精神满足，表现为称心如意而感到心情舒畅的精神状态。"
+  },
+  {
+   "cn": "真实",
+   "en": "authentic",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.11",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品产品的各类实际特征与声称相符"
+  },
+  {
+   "cn": "国民幸福指数",
+   "en": "national happiness index",
+   "source": "社会医学名词",
+   "wordNumber": "9.15",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "国民幸福指数",
+   "publishYear": "2025",
+   "definition": "由社会健康指数、社会福利指数、社会文明指数、生态环境指数等四级指标体系构成，每一级指标体系中都由若干个指标构成,指数的计算采用加权平均法。衡量国民生活质量和幸福程度的综合性指标，对于转变发展观念具有重"
+  },
+  {
+   "cn": "食品真实性",
+   "en": "food authenticity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.1",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在性质、来源、特征和声称方面真实，并满足预期属性的状态。食品欺诈的反义词。"
+  },
+  {
+   "cn": "食品真实属性确认",
+   "en": "food authenticity identification",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.13",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通过提供客观证据对食品固有的本质特征已得到满足的认定。"
+  },
+  {
+   "cn": "食品真实属性声称",
+   "en": "food authenticity claim",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.12",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "在食品标签或销售包装上，对食品的原料、配料、品种、规格、质量、等级、产地等可以判断真假的属性进行的声明和公示。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

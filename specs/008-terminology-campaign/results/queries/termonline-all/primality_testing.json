@@ -1,0 +1,682 @@
+{
+ "key": "primality testing",
+ "term": "primality testing",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:37:48+00:00",
+ "status": "ok",
+ "note": "variant=primality testing; 审定公布名词库=5667; 海峡两岸名词对照库=1146; 其他来源数据库=102; 预公布名词数据库=266; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "概率素数检测",
+   "en": "probabilistic primality testing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0357",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "判定一个数是否素数的概率算法。其中由米勒（Miller） 和拉宾（Rabin）在1980年完成的首个概率素数检测算法称为Miller-Rabin素数检测。由阿格拉沃尔（Agrawal）、卡亚勒（Kay"
+  },
+  {
+   "cn": "主协调",
+   "en": "primal coordination",
+   "source": "自动化名词",
+   "wordNumber": "03.035",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "原始对偶法",
+   "en": "primal-dual method,primal-dual algorithm",
+   "source": "数学名词",
+   "wordNumber": "011.0146",
+   "subjectFullName": "数学_运筹学_线性规划",
+   "subjectName": "线性规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原始聚落遗址",
+   "en": "primal settlement site",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.104",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "史前人类居住的洞窟、地穴和原始房舍。"
+  },
+  {
+   "cn": "原始对偶单纯形法",
+   "en": "primal-dual simplex method",
+   "source": "数学名词",
+   "wordNumber": "011.0145",
+   "subjectFullName": "数学_运筹学_线性规划",
+   "subjectName": "线性规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原始对偶内点算法",
+   "en": "primal-dual interior-point algorithm",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0026",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "在迭代过程中同时修正原始变量和对偶变量，并保持原始变量和对偶变量对于相关的不等式严格可行的牛顿型迭代算法。"
+  },
+  {
+   "cn": "测试",
+   "en": "test,testing",
+   "source": "电子学名词",
+   "wordNumber": "17.007",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "检查",
+   "en": "testing",
+   "source": "运动医学名词",
+   "wordNumber": "09.042",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "兴奋剂管制过程的组成部分。包括兴奋剂检查分布计划的制订、样本采集、样本收存，以及将样本运送至实验室。"
+  },
+  {
+   "cn": "测试",
+   "en": "testing",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.221",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "试验",
+   "en": "test",
+   "source": "农学名词",
+   "wordNumber": "18.004",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "采用测试的手段来获取或验证某一结果的行为。"
+  },
+  {
+   "cn": "壳",
+   "en": "test",
+   "source": "动物学名词",
+   "wordNumber": "5.022",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "由原生质分泌物或由分泌物胶结其他外来颗粒而成，用于包裹并保护软体的部分。"
+  },
+  {
+   "cn": "测试",
+   "en": "test",
+   "source": "电力名词",
+   "wordNumber": "02.117",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "一系列完整的操作过程。通常包括预处理、初始检测、条件试验、恢复、最后检测。"
+  },
+  {
+   "cn": "测试",
+   "en": "test",
+   "source": "核医学名词",
+   "wordNumber": "01.0030",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "通过将测量结果与已知状态或理论假设相比较，从而对事物状态、功能做出判断的过程。"
+  },
+  {
+   "cn": "壳",
+   "en": "test",
+   "source": "古生物学名词",
+   "wordNumber": "02.0003",
+   "subjectFullName": "古生物学_古无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2009",
+   "definition": "由分泌物或由分泌物胶结其他外来颗粒而成，用于包裹并保护软体部分。"
+  },
+  {
+   "cn": "测试",
+   "en": "test",
+   "source": "通信科学技术名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "通信科学技术_运行、维护与管理",
+   "subjectName": "运行、维护与管理",
+   "publishYear": "2007",
+   "definition": "用任何一种可能采取的方法进行的直接实际实验。"
+  },
+  {
+   "cn": "试验",
+   "en": "test",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.222",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "测试",
+   "en": "test",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.030",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "对在受控条件下运动的装备，进行其功能和性能的检测。"
+  },
+  {
+   "cn": "试验",
+   "en": "test",
+   "source": "电气工程名词",
+   "wordNumber": "28.053",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "检验",
+   "en": "test",
+   "source": "数学名词",
+   "wordNumber": "09.0603",
+   "subjectFullName": "数学_概率论_数理统计_假设检验",
+   "subjectName": "假设检验",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "台架试验",
+   "en": "testing-bed test,shop test",
+   "source": "航海科技名词",
+   "wordNumber": "15.0205",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "测试",
+   "en": "test\",\"testing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测试",
+   "en": "testing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "台架试验",
+   "en": "testing-bed test",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "心理测验",
+   "en": "mental test\",\"psychological test\",\"psychological testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "团体测验",
+   "en": "group test\",\"group testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "检漏试验",
+   "en": "leak testing （=leak test）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "黏附试验",
+   "en": "adhesion test\",\"adhesive test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对照试验",
+   "en": "contrast test\",\"control test",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "测试台",
+   "en": "test desk\",\"test bench",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳步测试",
+   "en": "galloping test\",\"leapfrog test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性试验",
+   "en": "destructive test\",\"destruction test",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "卡方检验，χ2 检验",
+   "en": "chi-square test（=χ2-test）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "安全性试验",
+   "en": "safety testing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "人事测验",
+   "en": "personnel testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "教育测验",
+   "en": "educational testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "适应测验",
+   "en": "adaptive testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "假设检验",
+   "en": "hypothesis testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "盲测验",
+   "en": "blind testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算机化测验",
+   "en": "computerized testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "渗透检测",
+   "en": "penetrate testing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "兴奋剂检测",
+   "en": "dope test\",\"doping test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "假设检验",
+   "en": "hypothesis testing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件测试",
+   "en": "software testing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动物试验",
+   "en": "animal testing",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "  毒性试验",
+   "en": "toxicity testing",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "渗透测试",
+   "en": "Penetration Test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏感性检验",
+   "en": "sensitivity testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.10",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "按预先设定的评价基准，对样品的特性进行评定。用于选择或培训评价员，包括阈检验和稀释检验。"
+  },
+  {
+   "cn": "检验参与者",
+   "en": "testing participator",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "接受检验组织对其所用个人剂量监测系统等实施性能检验的机构。"
+  },
+  {
+   "cn": "检验组织",
+   "en": "testing organization",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "组织实施个人剂量监测系统性能检验活动的组织或机构。"
+  },
+  {
+   "cn": "假设检验",
+   "en": "hypothesis testing",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "根据客观规则确定研究者的假设是否为数据所支持的一种推论方法。其假设是总体的特征描述或总体参数，数据是能够代表总体的可信样本。"
+  },
+  {
+   "cn": "显著性检验",
+   "en": "significance testing",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.31",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从总体中得到的样本统计量的概率或似然估计客观地评判研究假设能否为数据所支持的统计方法。"
+  },
+  {
+   "cn": "合格评定",
+   "en": "compliance testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.25",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "对于食品销售和流通过程中怀疑不符合特定法规和准则的特定样品的检验过程。"
+  },
+  {
+   "cn": "复检",
+   "en": "repeat testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.2",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "对食品安全风险监测中抽样检验结果有异议的样品，按照程序进行再次检验以确定检验结果的过程。"
+  },
+  {
+   "cn": "出厂检验",
+   "en": "delivery testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.37",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "生产企业对正式生产的食品在出厂(入库)前所进行的常规检验。旨在确保产品质量合格，防止不符合标准产品流入市场。"
+  },
+  {
+   "cn": "食品检测",
+   "en": "food testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.16",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "运用一系列科学分析技术和方法，对食品进行评估，以确保其安全、质量和真实性的过程"
+  },
+  {
+   "cn": "能力验证",
+   "en": "proficiency testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.77",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "利用实验室间比对，按照预先制定的准则评价参加者的能力"
+  },
+  {
+   "cn": "食品型式检验",
+   "en": "routine testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.38",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "根据产品标准对产品各项指标进行的全面检验，检测项目是产品执行标准中的全部指标，以评定产品质量是否全面符合标准。目前生产企业基本不用再进行型式检验。"
+  },
+  {
+   "cn": "加热试验",
+   "en": "heating test",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.19",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "油样加热至280 度时，观察有无析出物和油色变化情况的试验。"
+  },
+  {
+   "cn": "适合性检验",
+   "en": "fit test",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.15",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "对于能罩住口和鼻、与面部密合的防护口罩，或能罩住眼睛、口和鼻、与头面部密合的面罩，确定其对使用者适合程度的检验。"
+  },
+  {
+   "cn": "泄露测试",
+   "en": "leak test",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.13",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于检测封闭腔体的密闭情况，以确保灭菌器能够正常运行并防止可能危险的测试方法。通常应用于消毒灭菌过程的开始阶段，以确保消毒灭菌过程中的蒸汽、环氧乙烷气体、蒸汽甲醛等气体不会发生泄漏。"
+  },
+  {
+   "cn": "产品检验",
+   "en": "production test",
+   "source": "消毒学",
+   "wordNumber": "5.1.11",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "对消毒产品质量进行检验的过程。"
+  },
+  {
+   "cn": "崩解试验",
+   "en": "disintegration test",
+   "source": "消毒学",
+   "wordNumber": "6.1.14",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "采用升降式崩解仪，在一定条件下测得的固体消毒剂全部崩解并通过筛网所需时间的试验。"
+  },
+  {
+   "cn": "稳定性试验",
+   "en": "stability test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "通过比较长期试验和加速试验前后有效成分的含量或杀灭微生物能力的变化来评价其稳定性，测定消毒剂有效期的试验。"
+  },
+  {
+   "cn": "消毒学试验",
+   "en": "disinfectionology test",
+   "source": "消毒学",
+   "wordNumber": "6.2",
+   "subjectFullName": "消毒学_检测与评价",
+   "subjectName": "检测与评价",
+   "publishYear": "2025",
+   "definition": "评价消毒产品杀灭、清除和抑制有害微生物效果和影响因素的试验，通常包括实验室试验、模拟现场试验和现场试验三个阶段。"
+  },
+  {
+   "cn": "试验微生物",
+   "en": "test microorganism",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒试验中使用的微生物，如铜绿假单胞菌、枯草杆菌黑色变种芽孢、脊髓灰质炎病毒Ⅰ型疫苗株。"
+  },
+  {
+   "cn": "定量试验",
+   "en": "quantitative test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以活菌计数或病毒滴度测量值为结果判定标准的试验方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

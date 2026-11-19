@@ -1,0 +1,802 @@
+{
+ "key": "die philosophische bedeutung",
+ "term": "Die philosophische Bedeutung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:12:11+00:00",
+ "status": "ok",
+ "note": "variant=Die philosophische Bedeutung; 审定公布名词库=742; 海峡两岸名词对照库=172; 其他来源数据库=60; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "牒",
+   "en": "die",
+   "source": "档案学名词",
+   "wordNumber": "07.01.118",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "中国古代官府往来文书。牒原指短小的木片，魏晋南北朝时作为文书，用途渐广，各不相统属的官府往来文书多用牒。唐代牒文作为法定文种广泛使用。宋代牒文用于不相统属的各官府之间，上行、下行、平行皆可。元代沿用，"
+  },
+  {
+   "cn": "阴模",
+   "en": "die",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.103",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_压制及成形",
+   "subjectName": "压制及成形",
+   "publishYear": "2021",
+   "definition": "形成压件外侧形状的压模零件。"
+  },
+  {
+   "cn": "模具",
+   "en": "die",
+   "source": "冶金学名词",
+   "wordNumber": "09.0967",
+   "subjectFullName": "冶金学_金属加工_锻造、冲压及其他",
+   "subjectName": "锻造、冲压及其他",
+   "publishYear": "2019",
+   "definition": "一种通常具有型腔的工具，主要因为工具的本身形状，用以限定生产对象的形状和尺寸，它使固体金属、液体或粉末金属成形。"
+  },
+  {
+   "cn": "管芯",
+   "en": "die",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0043",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机集成电路",
+   "subjectName": "计算机集成电路",
+   "publishYear": "2018",
+   "definition": "圆片上已经制造了特定电路功能的一个小方块。管芯从圆片上切下后，经封装成为独立的芯片。"
+  },
+  {
+   "cn": "模圈",
+   "en": "die",
+   "source": "药学名词",
+   "wordNumber": "02.059",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "压片机冲模的一部分，可有不同的模孔大小，用于填充待压的固体物料。"
+  },
+  {
+   "cn": "管芯",
+   "en": "die",
+   "source": "电气工程名词",
+   "wordNumber": "15.080",
+   "subjectFullName": "电气工程_电力电子技术",
+   "subjectName": "电力电子技术",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "管芯",
+   "en": "die",
+   "source": "电子学名词",
+   "wordNumber": "15.246",
+   "subjectFullName": "电子学_电子元器件工艺与分析技术",
+   "subjectName": "电子元器件工艺与分析技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代型",
+   "en": "die",
+   "source": "医学名词 第二分册",
+   "wordNumber": "08.095",
+   "subjectFullName": "医学_口腔医学_固定义齿修复学",
+   "subjectName": "固定义齿修复学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "压铸型",
+   "en": "die casting die",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.366",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_特种铸造",
+   "subjectName": "特种铸造",
+   "publishYear": "2021",
+   "definition": "由定型、动型及金属芯组成的压力铸造用金属型。"
+  },
+  {
+   "cn": "压力铸造模具",
+   "en": "die casting die",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "15.080",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_模具",
+   "subjectName": "模具",
+   "publishYear": "2021",
+   "definition": "压力铸造成型工艺中，用以成型铸件所使用的金属模具。"
+  },
+  {
+   "cn": "冲裁模",
+   "en": "blanking die,punching die",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "15.046",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_模具",
+   "subjectName": "模具",
+   "publishYear": "2021",
+   "definition": "使板材分离，得到所需形状和尺寸的平片毛坯或制件的冲模。"
+  },
+  {
+   "cn": "缩口模",
+   "en": "necking die,reducing die",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "15.065",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_模具",
+   "subjectName": "模具",
+   "publishYear": "2021",
+   "definition": "使空心毛坯或管状毛坯端部的径向尺寸缩小的冲模。"
+  },
+  {
+   "cn": "矫平模",
+   "en": "planishing die,flattening die",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "15.069",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_模具",
+   "subjectName": "模具",
+   "publishYear": "2021",
+   "definition": "由平面的上模和下模组成的用于完成矫正工序的模具。"
+  },
+  {
+   "cn": "定模",
+   "en": "fixed die,cover die",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "15.081",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_模具",
+   "subjectName": "模具",
+   "publishYear": "2021",
+   "definition": "固定在压铸机上不动的那一半模具。"
+  },
+  {
+   "cn": "动模",
+   "en": "moving die,ejector die",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "15.082",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_模具",
+   "subjectName": "模具",
+   "publishYear": "2021",
+   "definition": "随压铸机滑台作开合移动的那一半模具。"
+  },
+  {
+   "cn": "模具",
+   "en": "mold,die",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1093",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_凝固与铸造技术",
+   "subjectName": "凝固与铸造技术",
+   "publishYear": "2011",
+   "definition": "使液态金属、冷或热态金属合金、塑料等成形的工艺装置。"
+  },
+  {
+   "cn": "压模地坪",
+   "en": "die floor",
+   "source": "风景园林名词",
+   "wordNumber": "08.1089",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "在原本普通的新旧混凝土表层创造出各种天然大理石、花岗岩、砖块、木地板等铺设效果的一种地坪。"
+  },
+  {
+   "cn": "敕牒",
+   "en": "chi die",
+   "source": "档案学名词",
+   "wordNumber": "07.01.039",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "（1）唐代皇帝专用文种，用于“随事承旨，不易旧典”。宋代沿用。（2）元代用于除授和封赠六品以下官员的皇帝专用文种，不钤盖皇帝玺印，而由中书省宰相签押。"
+  },
+  {
+   "cn": "平牒",
+   "en": "ping die",
+   "source": "档案学名词",
+   "wordNumber": "07.01.119",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "中国古代官府往来文书平行文种。平牒从牒文分化而来，唐、宋、元时就用于平行官文书。明清沿用，但程式不同。"
+  },
+  {
+   "cn": "牒上",
+   "en": "die shang",
+   "source": "档案学名词",
+   "wordNumber": "07.01.120",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "中国古代官府往来文书上行文种。牒上从牒文分化而来，元代沿袭。明代守御千户所、兵马指挥司于直隶各府用牒上。清代取消。"
+  },
+  {
+   "cn": "模［具］",
+   "en": "die",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压模",
+   "en": "die",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "管芯",
+   "en": "die",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模圈",
+   "en": "die",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "仙女",
+   "en": "Feen\",\"Die",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Wagner, Richard"
+  },
+  {
+   "cn": "贝尔瑙琳",
+   "en": "Bernauerin\",\"Die",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Orff, Carl"
+  },
+  {
+   "cn": "三分钱歌剧",
+   "en": "Dreigroschenoper\",\"Die",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Weill, von Kurt "
+  },
+  {
+   "cn": "T字模",
+   "en": "T-die",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模口膨胀",
+   "en": "die swell",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压铸",
+   "en": "die casting",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "聪明人",
+   "en": "Die Kluge",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Orff, Carl"
+  },
+  {
+   "cn": "士兵们",
+   "en": "Die Soldaten",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Zimmermann,Bernd Alois"
+  },
+  {
+   "cn": "四季",
+   "en": "Die Jahreszeiten",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Haydn, Franz Joseph"
+  },
+  {
+   "cn": "蝙蝠",
+   "en": "Die Fledermaus",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Strauss Jr., Johann (Ⅱ)"
+  },
+  {
+   "cn": "拉拔模具",
+   "en": "drawing die",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "模锻件",
+   "en": "die forging",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "挤压模",
+   "en": "extrusion die",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "硬质合金模具",
+   "en": "carbide die",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "模口膨胀",
+   "en": "die swell",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "锻造模具",
+   "en": "forging die",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "人生自古谁无死，",
+   "en": "Everyone will one day die;",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "宁为玉碎，不为瓦全",
+   "en": "Rather Be a Broken Jade Vessel Than a Whole Clay Pot / Rather Die with Honor Than Live in Shame",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃",
+   "en": "dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垫球",
+   "en": "dig",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水",
+   "en": "dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃救球",
+   "en": "dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向后跳水",
+   "en": "back dive\",\"backward dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自选动作",
+   "en": "dive without limit\",\"voluntary dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规定动作",
+   "en": "compulsory dive\",\"dive with limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "悲慨",
+   "en": "<div> Depressed and Enraged</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃",
+   "en": "fish dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败动作",
+   "en": "failed dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体跳水",
+   "en": "twist dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水动作代码",
+   "en": "dive number",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "臂立跳水",
+   "en": "armstand dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向内跳水",
+   "en": "inward dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向前跳水",
+   "en": "forward dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身跳水",
+   "en": "reverse dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发入水",
+   "en": "starting dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "死亡权利",
+   "en": "right to die",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.14",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "人在到达生命终点之前，主动选择死亡方式、死亡时间和地点等的权利。对这一权利的争议颇多，目前尚未达成共识。"
+  },
+  {
+   "cn": "死亡权",
+   "en": "right to die",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.0329999999999995",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人在到达生命终点之前，主动选择死亡的时间、地点和方式，决定自己死亡的权利。是人格权特别是生命权的重要内容，其实施不仅与人的生存权利相关联，也与人的社会义务相关联。"
+  },
+  {
+   "cn": "格贵",
+   "en": "Dge bskos",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0452",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教僧职名，主要掌管各个寺院或扎仓僧众的名册和纪律。所以又名为纠察僧官、掌堂师。实际上，格贵是负责维持僧团清规戒律的寺院执事，历史上藏传佛教各大寺院的纠察僧官巡视僧纪时，常随身携带铁杖，故有“铁棒"
+  },
+  {
+   "cn": "平衡膳食",
+   "en": "balanced diet",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.1.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "摄入的各种营养素种类齐全，营养素之间比例适当，能够满足人体营养需要的合理膳食。"
+  },
+  {
+   "cn": "合理膳食",
+   "en": "rational diet",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "通过合理的膳食组成和科学的烹调加工，使从膳食中摄入的能量和各种营养素与机体需要保持平衡，既能满足人体生长发育、生理及身体活动的需要，又不存在营养相关健康问题的膳食。"
+  },
+  {
+   "cn": "产后饮食",
+   "en": "postpartum diet",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.4.5.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "产后妇女合理摄入的营养膳食，以促进产后躯体恢复、伤口愈合、形体复原及促进乳汁分泌。"
+  },
+  {
+   "cn": "饮食民俗",
+   "en": "diet customs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.01",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "传统的饮食行为和习惯，包括饮食品种、饮食方式、饮食特性、饮食礼仪、饮食名称、饮食保存和饮食禁忌，以及在加工、制作和食用过程中形成的风俗习惯及礼仪常规。"
+  },
+  {
+   "cn": "饮食歌谣",
+   "en": "diet ballad",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0107",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "与饮食有关的民歌短篇诗歌，包括与饮食有关的民歌与民谣。饮食民歌节奏明快，情境性强，内容简单明了；饮食民谣主题明确，容易记忆，朗朗上口。"
+  },
+  {
+   "cn": "格西",
+   "en": "Dge bshes",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0454",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "系藏传佛教格鲁派学位。格西为藏语译音，意为“善知识”。藏传佛教格鲁派寺院的学位，是读经僧人经过数十年学习《五部大论》等佛教经籍后，通过层层严格的辩经考核后取得。格西学位分寺院一级的、传小召一级的和传大"
+  },
+  {
+   "cn": "浸染法",
+   "en": "dip inoculating method",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验载体浸泡于配制好的菌悬液中，制成染菌载体的染菌方法。"
+  },
+  {
+   "cn": "双着丝粒染色体",
+   "en": "dicentric chromosome，dic",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.2.3.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "有两个着丝粒的染色体。常伴有一对无着丝粒断片。"
+  },
+  {
+   "cn": "按床日支付",
+   "en": "per diem payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.17.1",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "卫生服务购买者按照覆盖一个住院日所发生的所有费用进行支付的方式。一般应用于对住院服务的支付，以床日为支付单元。"
+  },
+  {
+   "cn": "苯丙酮尿症特殊饮食",
+   "en": "phenylketonuria special diet",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.2.1.3.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "苯丙酮尿症患儿所进食的无或低苯丙氨酸饮食，以避免苯丙氨酸堆积在患儿血液中，引起大脑损伤和神经系统发育迟缓。"
+  },
+  {
+   "cn": "格鲁派",
+   "en": "Dge lugs pa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0453",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教教派之一。十五世纪初，宗喀巴主要依据噶当派的教义创立格鲁派。达赖、班禅为该派两大活佛转世系统，1542 年始采用活佛转世制度，清代格鲁派成为西藏地方的执政教派。该派有甘丹寺、哲蚌寺、色拉寺、扎"
+  },
+  {
+   "cn": "高糖饮食",
+   "en": "high sugar diet",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "摄取的食物中含碳水化合物含量较高的饮食。此类饮食有利于适应高原代谢变化。"
+  },
+  {
+   "cn": "低苯丙氨酸饮食",
+   "en": "low-phenylalanine diet",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.6.3",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "一种限制苯丙氨酸摄入的饮食。婴儿期喂养低（无）苯丙氨酸配方奶粉。儿童或成人通过食物选择，限制饮食中的苯丙氨酸摄入，但保证其它必需氨基酸的摄入。"
+  },
+  {
+   "cn": "盘状红斑狼疮",
+   "en": "discoid lupus erythematosus, DLE",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.2.3.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性红斑狼疮_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "最多见的一种皮肤红斑狼疮表现，50%可检出自身抗体，约5%发展为SLE。皮损常见于头皮、面部、耳朵和口唇，表现为境界清楚的红斑、斑块，表面有粘附性鳞屑，可导致疤痕形成、脱发和色素沉着。"
+  },
+  {
+   "cn": "药物诱导的狼疮",
+   "en": "drug-induced lupus, DIL",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.2.3.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性红斑狼疮_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "长期使用某些药物治疗非风湿免疫病性原发病而引起的类似SLE的综合征。以发热、关节症状、心脏损害及皮损、血中抗核抗体、抗组蛋白抗体等为特征，与SLE有所不同，停用致病药物后，多数病人的自觉症状及客观体征"
+  },
+  {
+   "cn": "离散选择实验",
+   "en": "discrete choice experiment,DCE",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "通过对受访者提供一系列不同属性水平的健康产品或服务的假设方案组合，询问受访者对方案的选择，测量其对方案的偏好的方法。"
+  },
+  {
+   "cn": "高蛋白饮食",
+   "en": "high protein diet, HPD",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.4.3",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "每日蛋白质摄入量超过每日总能量的20%或1.5 g/（kg•d），但一般不超过每日总能量的30%或＞2.0 g/（kg•d）的饮食模式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,632 @@
+{
+ "key": "agentism",
+ "term": "agentism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:34:21+00:00",
+ "status": "ok",
+ "note": "variant=agentism; 审定公布名词库=892; 海峡两岸名词对照库=349; 其他来源数据库=7; 预公布名词数据库=86; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "行动者",
+   "en": "agent",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.698",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "指那些能够被看成通过感受器来感知它的环境，并通过效应器作用于该环境的一切事物。行动具有自主性、反应性、目的定向性、历史延续性的特征。"
+  },
+  {
+   "cn": "主体",
+   "en": "agent",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.045",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "在复杂适应系统中，具有适应性、可以自主决策的个体对象。"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "经济学名词",
+   "wordNumber": "05.004",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "受委托人雇用并按照签订的合同来完成委托人目标的行为主体。代理人必须具备一定的资格和相关的技能。按照代理对象的多寡，代理人一般可以分为专属代理人和普通代理人。"
+  },
+  {
+   "cn": "智能体",
+   "en": "agent",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0146",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "在一定的环境中体现出自治性、反应性、社会性、预动性、思辨性（慎思性）、认知性等一种或多种智能特征的软件或硬件实体。"
+  },
+  {
+   "cn": "代理商",
+   "en": "agent",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0570",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "在较长远的基础上代表买方或卖方的一类批发商。通常包括制造商代理人、销售代理人、采购代理人、代销商等。"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1016",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "在一个契约关系中接受要约的一方或被动缔约的一方。"
+  },
+  {
+   "cn": "施事",
+   "en": "agent",
+   "source": "语言学名词",
+   "wordNumber": "04.220",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "语义成分的一种。用来指明某一动作行为得以产生或实现的施动者或动力。例如，“李四吃完了饭”中的“李四”。"
+  },
+  {
+   "cn": "自主体",
+   "en": "agent",
+   "source": "地理学名词",
+   "wordNumber": "25.029",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "具有各自可识别的一定独特性特征的多单元系统的个体。"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.104",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "发泡剂",
+   "en": "blowing agent,foaming agent",
+   "source": "石油名词",
+   "wordNumber": "07.0409",
+   "subjectFullName": "石油_石油化工_石油化工催化剂、添加剂和助剂",
+   "subjectName": "石油化工催化剂、添加剂和助剂",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "施事宾语",
+   "en": "agentive object",
+   "source": "语言学名词",
+   "wordNumber": "04.193",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "宾语的一种。在语义上是述语动词所表示的动作的发出者，即施事成分。例如，“来客人了”。"
+  },
+  {
+   "cn": "施事主语",
+   "en": "agentive subject",
+   "source": "语言学名词",
+   "wordNumber": "04.182",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "主语的一种。在语义上是谓语动词所表示的动作的发出者，即施事成分。例如，“我看见了”。"
+  },
+  {
+   "cn": "化学治疗药",
+   "en": "chemotherapeutic agents",
+   "source": "兽医学名词",
+   "wordNumber": "17.012",
+   "subjectFullName": "兽医学_兽医药理学",
+   "subjectName": "兽医药理学",
+   "publishYear": "2023",
+   "definition": "对病原体具有较高的选择性作用，而对机体（宿主）没有或只有轻度不良反应的一类药物。一般包括抗微生物药、抗寄生虫药和抗癌药。"
+  },
+  {
+   "cn": "渗剂",
+   "en": "penetrate agents",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.432",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_热处理工艺材料_渗剂",
+   "subjectName": "渗剂",
+   "publishYear": "2021",
+   "definition": "指渗碳或渗氮时的碳源或氮源。"
+  },
+  {
+   "cn": "抗毒蕈碱药",
+   "en": "antimuscarinic agents",
+   "source": "药学名词",
+   "wordNumber": "11.042",
+   "subjectFullName": "药学_药品类名",
+   "subjectName": "药品类名",
+   "publishYear": "2014",
+   "definition": "抑制毒蕈碱所激动的受体，主要作用是减少腺体分泌，松弛内脏平滑肌，对眼引起扩瞳、升高眼内压、调节麻痹，解除迷走神经对心脏的抑制、扩张小血管，大剂量时尚可兴奋中枢神经系统的药物。如阿托品及其类似物。哌仑西"
+  },
+  {
+   "cn": "抗变态反应药",
+   "en": "antiallergic agents",
+   "source": "药学名词",
+   "wordNumber": "11.096",
+   "subjectFullName": "药学_药品类名",
+   "subjectName": "药品类名",
+   "publishYear": "2014",
+   "definition": "防治变态反应性疾病的药物。包括抗组胺药，如苯海拉明；过敏反应介质阻释剂，如赛庚定；其他抗变态反应药，如钙盐、脱敏制剂、糖皮质激素等。"
+  },
+  {
+   "cn": "缩瞳药",
+   "en": "miotic agents",
+   "source": "药学名词",
+   "wordNumber": "11.138",
+   "subjectFullName": "药学_药品类名",
+   "subjectName": "药品类名",
+   "publishYear": "2014",
+   "definition": "局部滴眼应用后能使瞳孔缩小、眼压下降的药，多为拟副交感受神经药。包括M受体激动药及胆碱酯酶抑制药，如毛果芸香碱、毒扁豆碱等，用于青光眼。"
+  },
+  {
+   "cn": "诊断用药",
+   "en": "diagnostic agents",
+   "source": "药学名词",
+   "wordNumber": "11.134",
+   "subjectFullName": "药学_药品类名",
+   "subjectName": "药品类名",
+   "publishYear": "2014",
+   "definition": "可辅助诊断疾病的药物。此类药有助于医生对各种疾病做出比较精确的诊断，或对生理病理情况做出正确判断。诊断用药主要有X射线造影剂和器官功能检查用药两大类。"
+  },
+  {
+   "cn": "抗震颤麻痹药",
+   "en": "antiparkinsonian agents",
+   "source": "药学名词",
+   "wordNumber": "11.032",
+   "subjectFullName": "药学_药品类名",
+   "subjectName": "药品类名",
+   "publishYear": "2014",
+   "definition": "治疗帕金森综合征或药物引起的锥体外系反应的药物。主要有两类：拟多巴胺类药物和抗胆碱药。"
+  },
+  {
+   "cn": "抗风湿药",
+   "en": "antirheumatic agents",
+   "source": "药学名词",
+   "wordNumber": "11.026",
+   "subjectFullName": "药学_药品类名",
+   "subjectName": "药品类名",
+   "publishYear": "2014",
+   "definition": "治疗全身性或局部性风湿病的药物。抗风湿药有甾体激素类、非甾体消炎药类和免疫抑制药三大类。甾体激素类药物如氢化可的松、泼尼松龙、去炎松和地塞米松等糖皮质激素类；非甾体类药物包括解热镇痛药如阿司匹林等；免"
+  },
+  {
+   "cn": "代理",
+   "en": "agent",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "主体",
+   "en": "agent",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "发泡剂",
+   "en": "blowing agent\",\"foam agent\",\"inflating agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "络合剂",
+   "en": "complex agent\",\"complexing agent",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "脱模剂",
+   "en": "mold-release agent\",\"parting agent\",\"release agent\",\"stripping agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "代理人状态",
+   "en": "agentic state",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "解偶联剂",
+   "en": "uncoupling agents",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "抗胆碱酯酶剂",
+   "en": "anticholinesterase agents",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "多倍体诱变剂",
+   "en": "polyploid agent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "萎蔫剂",
+   "en": "wilting agent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "云催化剂",
+   "en": "seeding agent",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "螯合剂",
+   "en": "chelating agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "终止剂",
+   "en": "termination agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "上胶剂",
+   "en": "sizing agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "中和剂",
+   "en": "neutralizing agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "褪色剂",
+   "en": "stripping agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "烟雾剂",
+   "en": "smoke agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抗静电剂",
+   "en": "antistatic agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "漂白剂",
+   "en": "bleaching agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "行为智能体",
+   "en": "behavioral agent",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基于智能体的建模",
+   "en": "agent-based modeling (ABM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.0569999999999995",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "基于法律规定、法院指定或者当事人的委托授权，在一定权限内代替被代理人为其进行有一定法律意义的活动的人，其可以是自然人也可以是法人。包括法定代理人、指定代理人、委托代理人。某些失去行为能力或病情危重的病"
+  },
+  {
+   "cn": "全身中毒性毒剂",
+   "en": "systemic agents",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.7",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "分子中含有氰根离子，进入机体可抑制细胞色素氧化酶，使细胞不能利用氧，供能失调，迅速导致机体功能障碍，进而出现一系列全身中毒症状的一类速杀性毒剂。"
+  },
+  {
+   "cn": "免疫抑制剂",
+   "en": "immunosuppressive agents",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "对机体的免疫反应具有抑制作用的药物。通过抑制机体免疫细胞（T细胞、B细胞、巨噬细胞等）的增殖和功能，进而降低抗体免疫反应，主要用于器官移植抗排斥反应和自身免疫性疾病的治疗。"
+  },
+  {
+   "cn": "刺激剂",
+   "en": "irritant agents",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.3.4.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军用化学物质毒理安全评价",
+   "subjectName": "军用化学物质毒理安全评价",
+   "publishYear": "2025",
+   "definition": "对眼、皮肤、呼吸道和消化道黏膜有强烈刺激作用的化学毒物，中毒人员因强烈眼灼痛、流泪、咳嗽、喷嚏、胸痛等症状而暂时失去作战能力的一类化学物质。"
+  },
+  {
+   "cn": "结晶剂",
+   "en": "crystallizing agents",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.13",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "能够促进固体物质以晶体形态从溶液中析出的食品工业用加工助剂"
+  },
+  {
+   "cn": "脱皮剂",
+   "en": "peeling agents",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.22",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "能够分解果蔬外皮起固定作用的果胶类成分，从而使果蔬脱皮的一类食品工业用加工助剂。"
+  },
+  {
+   "cn": "脱毛剂",
+   "en": "depilatory agents",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.23",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "禽畜屠宰加工过程中，用于去除禽畜体表残毛的由松香甘油酯、石蜡、食用动物油脂等组成的单体或复配加工助剂"
+  },
+  {
+   "cn": "抗寄生虫剂",
+   "en": "antiparasitic agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.2.4",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "能够驱除或杀灭畜禽体内外寄生虫的药物。"
+  },
+  {
+   "cn": "食用胶",
+   "en": "gelatinizing agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.27",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "可在糖果中形成质地柔软的凝胶状可食用性胶凝剂，如明胶、琼脂、果胶、卡拉胶等。"
+  },
+  {
+   "cn": "灭菌剂",
+   "en": "sterilizing agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.11",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够杀灭所有微生物，达到灭菌要求的消毒剂。"
+  },
+  {
+   "cn": "抗菌剂",
+   "en": "antibacterial agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.13.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够杀灭和抑制细菌生长繁殖的制剂。"
+  },
+  {
+   "cn": "抑菌剂",
+   "en": "bacteriostatic agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.14",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够在一定时间内，使某些微生物的生长或繁殖保持在一定水平以下的化学物质。"
+  },
+  {
+   "cn": "清洁剂",
+   "en": "cleaning agent",
+   "source": "消毒学",
+   "wordNumber": "3.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "用于增强水的去污能力的化学制剂。"
+  },
+  {
+   "cn": "崩解剂",
+   "en": "disintegrating agent",
+   "source": "消毒学",
+   "wordNumber": "6.1.14.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "能使固体消毒剂在溶液中迅速裂碎成细小颗粒，增加消毒因子溶出的辅料。"
+  },
+  {
+   "cn": "抗泡沫剂",
+   "en": "antifoam agent",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.22",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在采样液中加入的能够降低采样冲击时产生的泡沫，提高微生物采集效率的试剂。常用辛醇或橄榄油等。"
+  },
+  {
+   "cn": "络合剂",
+   "en": "complexing agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.6",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "能提供电子对的配位基，并能与金属离子形成络合物的化合物。如果配位基中有两个或以上提供电子对的键合原子，而且在其间相隔2个或3个其他原子时，结构上常成环状或螯环。"
+  },
+  {
+   "cn": "螯合剂",
+   "en": "chelating agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.7",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "能与金属离子结合形成螯合物，用于放射性药物标记，从而增加药物稳定性的交联剂。"
+  },
+  {
+   "cn": "动员剂",
+   "en": "mobile agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "能增加自然转换速率而使放射性核素从体内排除的一类化合物。"
+  },
+  {
+   "cn": "阻断剂",
+   "en": "blocking agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "使特定组织中的稳定元素代谢饱和后，降低相应的放射性核素进入该组织的制剂。"
+  },
+  {
+   "cn": "稀释剂",
+   "en": "diluting agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "与所摄入放射性核素的代谢特性相似的稳定性元素或化合物。它对摄入放射性核素起稀释作用，从而降低放射性核素沉积量的一种制剂。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

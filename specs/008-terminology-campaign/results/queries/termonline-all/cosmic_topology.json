@@ -1,0 +1,622 @@
+{
+ "key": "cosmic topology",
+ "term": "cosmic topology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:07:03+00:00",
+ "status": "ok",
+ "note": "variant=cosmic topology; 审定公布名词库=783; 海峡两岸名词对照库=248; 其他来源数据库=14; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "source": "物理学名词",
+   "wordNumber": "08.0514",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑",
+   "en": "topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0127",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "在网络中结点和通信介质的连接与分布形式。"
+  },
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.649",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "近代发展起来的一个研究连续性现象的数学分支。研究拓扑空间在拓扑变换下的不变性质和不变量。"
+  },
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "source": "数学名词",
+   "wordNumber": "08.0440",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙尘",
+   "en": "cosmic dust; cosmic spherule",
+   "source": "天文学名词",
+   "wordNumber": "10.266",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "来自星际和行星际空间的尘埃物质。"
+  },
+  {
+   "cn": "拓扑地图",
+   "en": "topologic map,topological map",
+   "source": "地理学名词",
+   "wordNumber": "27.030",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "以结点、弧段和多边形表示制图对象之间连通、邻接、关联、包含等图形拓扑关系及数量对比的一种简单图形，不涉及其地图量度。"
+  },
+  {
+   "cn": "宇宙丰度",
+   "en": "cosmic abundance",
+   "source": "地质学名词",
+   "wordNumber": "13.07.001",
+   "subjectFullName": "地质学_地球化学_天体与宇宙化学",
+   "subjectName": "天体与宇宙化学",
+   "publishYear": "2026",
+   "definition": "元素及其同位素在整个宇宙中的平均含量。它是研究元素起源和各类天体演化过程的重要依据和基础。"
+  },
+  {
+   "cn": "宇宙颗粒",
+   "en": "cosmic particle",
+   "source": "地质学名词",
+   "wordNumber": "01.00.049",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "源自地球之外的微小固态颗粒。包括飘浮于宇宙间的微小颗粒物质和陨星粒进入地球大气层因摩擦烧蚀而融化成的小滴所凝成的小圆粒。落在地球上的宇宙尘大致有3种类型：一种外表颜色呈黑色或褐黑色，外表光亮耀眼，极像"
+  },
+  {
+   "cn": "宇宙射线",
+   "en": "cosmic ray",
+   "source": "农学名词",
+   "wordNumber": "15.123",
+   "subjectFullName": "农业生物技术_细胞工程",
+   "subjectName": "细胞工程",
+   "publishYear": "2025",
+   "definition": "来自于宇宙中的一种极高能量的带电粒子流。包括太阳宇宙射线和来自于太阳系以外的宇宙射线。"
+  },
+  {
+   "cn": "宇宙丰度",
+   "en": "cosmic abundance",
+   "source": "天文学名词",
+   "wordNumber": "04.117",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "宇宙中每种元素的原子数目或质量的相对含量。"
+  },
+  {
+   "cn": "巨洞",
+   "en": "cosmic void",
+   "source": "天文学名词",
+   "wordNumber": "07.236",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "超星系团内部或超星系团之间的星系低密度区。"
+  },
+  {
+   "cn": "宇宙网",
+   "en": "cosmic web",
+   "source": "天文学名词",
+   "wordNumber": "07.238",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙大尺度结构形成的网状分布。"
+  },
+  {
+   "cn": "宇宙切变",
+   "en": "cosmic shear",
+   "source": "天文学名词",
+   "wordNumber": "07.347",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙大尺度结构产生的弱引力透镜切变场。"
+  },
+  {
+   "cn": "宇宙弦",
+   "en": "cosmic string",
+   "source": "天文学名词",
+   "wordNumber": "07.362",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙早期相变中可能形成的一维时空拓扑缺陷。曾被作为宇宙结构形成的一种可能的种源，现在这种可能性已被观测排除，但仍有可能在早期宇宙中少量形成。与弦论中的基本弦是不同的概念。"
+  },
+  {
+   "cn": "宇宙线",
+   "en": "cosmic-ray",
+   "source": "天文学名词",
+   "wordNumber": "07.380",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "来自太空的高能粒子，低能部分主要来自太阳风，高能部分来自太阳系以外。"
+  },
+  {
+   "cn": "宇宙方差",
+   "en": "cosmic variance",
+   "source": "天文学名词",
+   "wordNumber": "07.399",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "在宇宙微波背景辐射和大尺度结构观测中，对随机场进行测量时由于样本的体积有限而造成的统计误差。由于可观测宇宙作为被研究的唯一样本无法扩展而得名。"
+  },
+  {
+   "cn": "宇宙加速度",
+   "en": "cosmic acceleration",
+   "source": "天文学名词",
+   "wordNumber": "07.456",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙膨胀速率的加速度。"
+  },
+  {
+   "cn": "宇宙射线",
+   "en": "cosmic ray",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0243",
+   "subjectFullName": "地球物理学_空间物理学_行星际与太阳",
+   "subjectName": "行星际与太阳",
+   "publishYear": "2022",
+   "definition": "银河宇宙线、太阳宇宙线和异常宇宙线的统称。一般指来自于宇宙空间的各种高能带电粒子、中子，也包括极少量的 X射线、γ射线、中微子、 .介子及反物质。 "
+  },
+  {
+   "cn": "宇宙常量",
+   "en": "cosmic constant",
+   "source": "物理学名词",
+   "wordNumber": "06.0357",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙中微子",
+   "en": "cosmic neutrino",
+   "source": "物理学名词",
+   "wordNumber": "09.1673",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑",
+   "en": "topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑地图",
+   "en": "topologic map\",\"topological map",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙尘",
+   "en": "cosmic dust",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙线",
+   "en": "cosmic ray",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙尘",
+   "en": "cosmic dust",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙丰度",
+   "en": "cosmic abundance",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙年",
+   "en": "cosmic year",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙年龄",
+   "en": "cosmic age",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙弦",
+   "en": "cosmic string",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙尘",
+   "en": "cosmic dust",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙制图",
+   "en": "cosmic mapping",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "网络拓扑[结构]",
+   "en": "network topology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "膜拓扑学",
+   "en": "membrane topology",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA拓扑学",
+   "en": "DNA topology",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "初始拓扑",
+   "en": "preliminary topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图拓扑",
+   "en": "map topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "交互式拓扑处理",
+   "en": "interactive topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "矢量拓扑",
+   "en": "vector topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑方位",
+   "en": "topology fix",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topology structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑量子计算",
+   "en": "topological quantum computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据中心网络拓扑",
+   "en": "data center network topology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑量子场论",
+   "en": "topological quantum field theory (TQFT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态神学",
+   "en": "ecological theology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙",
+   "en": "Universe / Cosmos",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“我将无我，不负人民。”",
+   "en": "I will work selflessly and live up to the expectations of the people. I will fully commit to my people and never fail the people. I am ready to set aside my own interests in service of the people. I will never seek my own good and never fail the people.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙辐射",
+   "en": "cosmic radiation",
+   "source": "放射卫生学",
+   "wordNumber": "2.3",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "来自外太空的各种高能次原子粒子流构成的电离辐射。"
+  },
+  {
+   "cn": "初级宇宙射线",
+   "en": "primary cosmic rays",
+   "source": "放射卫生学",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "由初级银河系宇宙辐射和初级太阳系宇宙辐射所构成的高能电离辐射，主要是高能质子、氦原子核和重带电粒子。"
+  },
+  {
+   "cn": "次级宇宙射线",
+   "en": "secondary cosmic rays",
+   "source": "放射卫生学",
+   "wordNumber": "2.3.2",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "初级宇宙射线进入大气层与空气中原子核发生反应产生的次级电离辐射，包括中子、质子、π介子和K介子等。"
+  },
+  {
+   "cn": "银河宇宙辐射",
+   "en": "galactic cosmic radiation",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.4.1",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "来自银河系内部和外部的电磁辐射，包括射电波、红外线、可见光、紫外线、X 射线和伽马射线等。"
+  },
+  {
+   "cn": "神学",
+   "en": "theology",
+   "source": "马克思主义",
+   "wordNumber": "04.0053",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "意为“关于神的学问”。基督教论证上帝（也称天主）的存在、本质和研究教义、教规的学问。也泛指各宗教的宗教学说或一种宗教教义的系统化阐释。公元前3世纪，希腊的一些哲学家已使用，后为基督教所沿用，故常专指基"
+  },
+  {
+   "cn": "思辨神学",
+   "en": "speculative theology",
+   "source": "马克思主义",
+   "wordNumber": "01.0103",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以超验之物和整个实在为对象，运用各种科学成果、宗教体验、伦理经验来引出对信仰的理解，但又不限制对任何所给出的资源（如圣经、教义等）做历史性的调查。"
+  },
+  {
+   "cn": "生态女性主义信仰",
+   "en": "eco-feminist theology",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.7",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种产生于基督教内部的思想，要求收回《圣经》中有关女人和自然被歧视被虐待的形象，试图跳出父权的和不关心现世的传统基督教的束缚。"
+  },
+  {
+   "cn": "基督教神学伦理学",
+   "en": "christian theology ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.137",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "基督教各教派神学关于宗教道德的学说。"
+  },
+  {
+   "cn": "占语支",
+   "en": "Chamic branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0354",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "南岛语系印度尼西亚语族的一个语支。分布在越南、柬埔寨等国，中国海南省三亚市回族使用的回辉语属于这个语支。"
+  },
+  {
+   "cn": "马赛克灌注",
+   "en": "mosaic attenuation",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.8",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "在高分辨率计算机体层扫描上，由于气道疾病或肺血管性疾病引起相邻肺区的肺密度衰减存在局部差异，形成不均匀的肺密度，在分布上呈斑片状或马赛克样，与邻近肺区有不同的衰减。最常见于引起局部空气潴留或肺实质通气"
+  },
+  {
+   "cn": "囊状气腔",
+   "en": "cystic airspace",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.12",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "肺内增大的气腔，腔壁厚度不同。可见于肺气肿、淋巴管肌瘤病、肺大泡、囊肿或蜂窝状囊肿等。"
+  },
+  {
+   "cn": "镶嵌式活动",
+   "en": "mosaic situation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "学习时大脑皮层部分区域为兴奋（工作）状态，另一部分为抑制（休息）状态的劳逸结合工作原则。随着学习性质的改变，皮层上的兴奋区与抑制区，工作区与休息区发生相互轮换。"
+  },
+  {
+   "cn": "解放神学的马克思主义",
+   "en": "Marxism of liberation theology",
+   "source": "马克思主义",
+   "wordNumber": "05.0097",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代在拉丁美洲产生的一种试图把神学理论同马克思主义“结合”起来的社会思潮，批判资本主义，在马克思主义中寻求救赎。主要代表人物有秘鲁的古铁雷斯（Gutiérrez）、巴西的博夫（Boff）、"
+  },
+  {
+   "cn": "文化区系类型理论",
+   "en": "theory of regional typology of archaeological cultures",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0072",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国考古学家苏秉琦于1975 年提出、1981 年完善的中国新石器时代考古学文化谱系总体框架理论。该理论将全国分为六大区：以燕山南北长城地带为中心的北方，以山东为中心的东方，以关中（陕西）、晋南、豫西"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

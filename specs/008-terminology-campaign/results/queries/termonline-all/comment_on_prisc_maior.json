@@ -1,0 +1,812 @@
+{
+ "key": "comment on prisc maior",
+ "term": "Comment on Prisc Maior",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:34:48+00:00",
+ "status": "ok",
+ "note": "variant=Comment on Prisc Maior; 审定公布名词库=3848; 海峡两岸名词对照库=1105; 其他来源数据库=460; 预公布名词数据库=275; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "评述",
+   "en": "comment",
+   "source": "语言学名词",
+   "wordNumber": "04.228",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“话题”相对。语用学术语。句子中对充当话题的实体作出说明的部分。例如，“这件事，我和老王知道得很早”中的“我和老王知道得很早”。"
+  },
+  {
+   "cn": "评论员",
+   "en": "commentator",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.254",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "在报刊上专职或受邀发表评论的人。他们的观点通常代表着媒体的观点。"
+  },
+  {
+   "cn": "评论员",
+   "en": "commentator",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.019",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "撰写新闻评论的人员。"
+  },
+  {
+   "cn": "正论",
+   "en": "endorsing comment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.275",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "从正面直接阐述作者论点的评论。"
+  },
+  {
+   "cn": "反论",
+   "en": "antithetical comment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.276",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "用论据或逻辑推理来确定某一论点的论据虚假或论证方式无效，从而驳斥这一论点的评论。"
+  },
+  {
+   "cn": "网络评论",
+   "en": "online comment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.157",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "在网络载体上的网民意见表达。“人人都有麦克风，个个都是评论员”打破了传统媒体少数评论员独享发言权的格局，一些突发事件能在数小时内引爆网络舆论。评论方式包括文字、音频、视频、图片、漫画以及表情包等；载体"
+  },
+  {
+   "cn": "评论性幻听",
+   "en": "comment hallucination",
+   "source": "精神医学名词",
+   "wordNumber": "02.037",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "听到的声音是对受检者的思想、行为、人品等进行评论的一种言语性幻听。"
+  },
+  {
+   "cn": "审查意见书",
+   "en": "review comment",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.032",
+   "subjectFullName": "放射医学与防护_法规与条约_管理",
+   "subjectName": "管理",
+   "publishYear": "2014",
+   "definition": "被授权的机构、组织或个人依照有关规定对放射防护评价报告或其他技术文件审查后出具的书面文件。"
+  },
+  {
+   "cn": "综论本",
+   "en": "commented text",
+   "source": "档案学名词",
+   "wordNumber": "04.03.036",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "包含政治、经济、文化、社会等方面主题内容的综合性汇编。"
+  },
+  {
+   "cn": "网络评论员",
+   "en": "internet commentator",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.158",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "受雇在网上发表评论的人员。他们通常以普通网民身份，在流行的社交媒体上发表意见，试图达到影响、引导和制造网络舆论的目的。"
+  },
+  {
+   "cn": "人物评述注释",
+   "en": "comment and note on historic figures",
+   "source": "档案学名词",
+   "wordNumber": "04.03.111",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献汇编中，对档案材料涉及的某些重要人物的生平经历、职任身份、思想观点等所作的介绍和评论。"
+  },
+  {
+   "cn": "题解",
+   "en": "introduction and comment on archival materials",
+   "source": "档案学名词",
+   "wordNumber": "04.03.114",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献汇编中，围绕档案标题介绍文件来源、原有标题、产生背景、流程公布情况及其材料价值等所作的注释。"
+  },
+  {
+   "cn": "新闻跟帖",
+   "en": "thread comment on a news story",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.16",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "门户新闻术语。网民在附设于新闻报道后的公告板内专门就所报道事件发表的回复性评论，构成网络论坛的一种形式。跟帖的价值在于：(1)简单的情绪表达，满足用户看新闻时的情感需求。(2)表明自己在讨论某个新闻时"
+  },
+  {
+   "cn": "议论",
+   "en": "analyze and comment",
+   "source": "档案学名词",
+   "wordNumber": "02.04.033",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "表达方式中的一种。对客观事物进行分析和评论，以直接表明观点和态度。"
+  },
+  {
+   "cn": "书目题解",
+   "en": "bibliography and introduction and comment on archival materials",
+   "source": "档案学名词",
+   "wordNumber": "04.03.124",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "与档案文献汇编题目有关的图书、文献资料等的书目，并对其作者、内容和史料价值等作出介绍、评价。一般由书目和题解两部分构成。"
+  },
+  {
+   "cn": "征求意见稿",
+   "en": "request for comments,RFC",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0541",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "由IETF（互联网工程任务组）颁布的一系列备忘录。包括标准类文档、信息类文档、最佳实践类文档、试验类文档等，以公开征求意见，部分可能成为今后的标准。"
+  },
+  {
+   "cn": "训诂",
+   "en": "xun gu;instructive comments",
+   "source": "中国古代史名词",
+   "wordNumber": "1.38",
+   "subjectFullName": "中国古代史_通论_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "解释古书字、词、句意义的学问。发端于先秦，兴起于汉以来，盛行于清中叶，主要针对汉魏以前典籍中文字的形、音、义，通其词例，释其语义，分析相关语法、修辞之类，为传统小学的一个分支。"
+  },
+  {
+   "cn": "本报评论员文章",
+   "en": "the commentator's article",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.258",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "署名为本报评论员的言论，通常代表编辑部的观点。与社论相比，本报评论员文章的议题更加灵活、多元，常配发于某些具有重要意义的新闻。"
+  },
+  {
+   "cn": "特约评论员文章",
+   "en": "special commentator's article",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.259",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "由编辑部之外的权威人士撰写，对当前重大问题进行系统全面分析的评论文章。一般篇幅较长。冠以“特约”二字，表明编辑部对文章的重视。"
+  },
+  {
+   "cn": "通",
+   "en": "on",
+   "source": "电子学名词",
+   "wordNumber": "08.041",
+   "subjectFullName": "电子学_机电元及其他电子元件",
+   "subjectName": "机电元及其他电子元件",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "注释",
+   "en": "comment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "注释",
+   "en": "remark\",\"comment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "请求评论[文档]， RFC[文档]",
+   "en": "request for comment\",\"RFC",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通",
+   "en": "on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一对一联系",
+   "en": "one to one relationship",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on line",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on-line",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正轴",
+   "en": "on-axis",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "见票即付",
+   "en": "on demand",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on-line",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "锤测航行区",
+   "en": "on soundings",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "登录",
+   "en": "sign-on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回送开放",
+   "en": "echo on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接通",
+   "en": "switch on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对遇",
+   "en": "end on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "红套",
+   "en": "shrink-on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "继续",
+   "en": "carry on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "系住",
+   "en": "bend on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "一步舞曲",
+   "en": "one-step",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "1-氧杂环戊-2-酮",
+   "en": "1-oxacyclopentan-2-one",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "commentator\",\"speaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体育评论员",
+   "en": "sports commentator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准文件投票和评议",
+   "en": "voting and commenting on international standardization documents",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球",
+   "en": "one-and-one shot\",\"one-plus-one shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球规则",
+   "en": "one-and-one rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！(击剑)",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一",
+   "en": "The One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一级上诉",
+   "en": "level one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "备用品",
+   "en": "spare one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两次转移",
+   "en": "one-two",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备姿势",
+   "en": "placing on guard\",\"putting on guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射门",
+   "en": "shoot on goal\",\"shot on goal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大一/小一",
+   "en": "The Largest One / The Smallest One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "净资产收益率",
+   "en": "Return on Equity",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "咏史诗",
+   "en": "Poetry on History",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无待",
+   "en": "Depend on Nothing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "链上治理",
+   "en": "on-chain governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电视支付",
+   "en": "payment on TV",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随需调度",
+   "en": "on-demand scheduling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同一健康",
+   "en": "one health",
+   "source": "社会医学名词",
+   "wordNumber": "6.6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "整合健康治理",
+   "publishYear": "2025",
+   "definition": "基于人类与生态环境一体化健康视角，通过跨部门、跨领域、跨学科综合、统一的理念和方法，旨在实现人类、动物与生态系统健康的可持续平衡与优化。"
+  },
+  {
+   "cn": "现场消毒",
+   "en": "disinfection on site",
+   "source": "消毒学",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "发生传染病流行、突发公共卫生事件或重大活动卫生保障时对现场环境和物品等进行的消毒。"
+  },
+  {
+   "cn": "就地监测",
+   "en": "on-site monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测",
+   "subjectName": "流出物监测",
+   "publishYear": "2025",
+   "definition": "在现场直接进行的辐射监测。可用于测量辐射场的特性，如辐射场的照射量率、剂量率及随时间与空间的变化规律等。也可用于鉴别放射性核素并确定其大致的体积活度或表面活度。"
+  },
+  {
+   "cn": "现场笔录",
+   "en": "on-site transcripts",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.7",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "卫生监督员在现场监督时，对现场勘验的结果如实进行记录的文书。"
+  },
+  {
+   "cn": "青年话语",
+   "en": "discourse on youth",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.5",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "在特定社会语境中基于文本进行的有关青年问题讨论活动的总称，包括说话人、受话人、文本、沟通、语境等要素。"
+  },
+  {
+   "cn": "老龄协会",
+   "en": "committee on aging",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.52",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国民政部门主管的老年人社会团体。主要职责是对我国老龄事业发展的方针、政策、规划等问题进行调查研究，提出建议，开展信息交流、咨询服务等与老龄问题有关的社会活动，承办政府交办的其他事项和有关部门委托的工"
+  },
+  {
+   "cn": "一心一意搞建设",
+   "en": "concentrate on development",
+   "source": "马克思主义",
+   "wordNumber": "03.0611",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "根据历史上的经验教训，从时代的要求出发，邓小平提出：“一心一意搞建设”应当成为工作的中心。除了爆发大规模战争外，全党同志必须贯彻始终地集中力量进行经济建设，一步一步地实现中国的战略目标。"
+  },
+  {
+   "cn": "和平法令",
+   "en": "decree on peace",
+   "source": "马克思主义",
+   "wordNumber": "04.0073",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "由列宁起草，于1917年11月8日（俄历10月26日）经全俄第二次苏维埃代表大会通过的苏维埃政府颁布的第一个法令。该法令呼吁参加第一次世界大战的各交战国政府和人民，立即缔结停战协定，缔造正义与民主的和"
+  },
+  {
+   "cn": "土地法令",
+   "en": "decree on land",
+   "source": "马克思主义",
+   "wordNumber": "04.0074",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄国十月社会主义革命胜利后，苏维埃政府关于土地问题的第一个立法文件。于1917年11月8日（俄历10月26日）全俄苏维埃第二次代表大会上通过。《土地法令》宣布废除地主土地私有制。附有农民土地问题委托书"
+  },
+  {
+   "cn": "斯大林论民主",
+   "en": "Stalin on democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0102",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林在《和一个美国工人代表团的谈话》《在苏联列宁共产主义青年团第八次代表大会上的演说》等著作中谈到民主问题。①社会主义民主是最高类型的民主。无产阶级专政是阶级社会中的最高类型，是代表多数人利益的无产"
+  },
+  {
+   "cn": "斯大林论语言",
+   "en": "Stalin on language",
+   "source": "马克思主义",
+   "wordNumber": "04.0103",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林在许多著作中论及语言学，并著有专门著作《马克思主义和语言学问题》。在马克思、恩格斯、列宁语言学的理论基础上，对当时语言学的几乎全部重大的基本理论问题都进行了系统阐述。对苏联和中国的普通语言学起了"
+  },
+  {
+   "cn": "传帮带",
+   "en": "passing on experience",
+   "source": "马克思主义",
+   "wordNumber": "04.0145",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "前辈对晚辈在文化知识、技术技能、工作经验等方面给予传授、帮助和带动。改革之初，邓小平深刻认识到中国共产党内部干部老化问题以及选好接班人的重要性和紧迫性，强调老干部用实际行动抓紧搞好“传帮带”。"
+  },
+  {
+   "cn": "现场咨询",
+   "en": "on-site counseling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "由专业机构的学生心理健康咨询者深入到学校、社区或家庭，对学生进行心理评估和指导，着力解决学生的适应问题。"
+  },
+  {
+   "cn": "宗教观",
+   "en": "outlook on religion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0141",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对宗教现象的认知，包括对宗教现象自身的认知，以及宗教与国家、民族关系的认知。在中国，重点是要坚持宗教中国化方针，坚持中国宗教与社会主义社会相适应。"
+  },
+  {
+   "cn": "文化观",
+   "en": "outlook on culture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.014",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对文化现象的认知，包括对国家民族文化的认同和认知，对国家文化事业制度和道路的认同和认知，以及对各民族文化与国家民族文化关系、各亚文化与主流文化关系的认知。在中国，核心是对中华文化的认同，对中华文化"
+  },
+  {
+   "cn": "单向方差分析",
+   "en": "one-way anova",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.66",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "只含有一个自变量或因子的方差分析。"
+  },
+  {
+   "cn": "同一健康同一个健康",
+   "en": "one health approach",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1.9",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "在局域、国家和全球层面控制多部门协同工作，获得人、动物和环境的最佳卫生。在实施项目、政策、法规和研究中设计的多部门沟通与一期工作以获得最佳公共卫生结果的策略。"
+  },
+  {
+   "cn": "十二木卡姆",
+   "en": "Uyghur on lkki Muqam",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0633",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "维吾尔族在传统音乐基础上发展形成的十二套大型乐曲，广泛流传于新疆地区。内容主要包括套曲和歇曲以及地方音乐，运用音乐、文学、舞蹈、戏剧等各种语言和艺术形式，表现了维吾尔族人民的生活和情操，反映了他们的理"
+  },
+  {
+   "cn": "适任性评价",
+   "en": "judgment on worker fitness",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.19",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据放射工作人员健康要求对健康检查结果进行综合分析，并对其是否适任拟承担或所承担的放射工作做出评价和签发。"
+  },
+  {
+   "cn": "现场医学救援",
+   "en": "on-site medical rescue",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.15",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "承担院前医疗急救任务的医疗机构或医学救援队伍按照统一指挥调度，在患者送达医院救治前，在医院外开展的以现场抢救和转运途中救治、监护等为主的医学处置。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

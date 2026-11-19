@@ -1,0 +1,332 @@
+{
+ "key": "reproducibility",
+ "term": "reproducibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:30:05+00:00",
+ "status": "ok",
+ "note": "variant=reproducibility; 审定公布名词库=36; 海峡两岸名词对照库=11; 其他来源数据库=2; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "再现性",
+   "en": "reproducibility",
+   "source": "农学名词",
+   "wordNumber": "18.087",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "在再现性测量条件下获得的测量精密度。"
+  },
+  {
+   "cn": "再现性",
+   "en": "reproducibility",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.591",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计",
+   "subjectName": "环境监测与统计",
+   "publishYear": "2020",
+   "definition": "在不同的实验室，使用同一方法由不同的操作者对同一被测对象使用相同的仪器和设备，在相同的测试条件下，所得测试结果之间的一致程度。"
+  },
+  {
+   "cn": "再现性",
+   "en": "reproducibility",
+   "source": "运动医学名词",
+   "wordNumber": "09.064",
+   "subjectFullName": "运动医学_反兴奋剂_国际标准",
+   "subjectName": "国际标准",
+   "publishYear": "2019",
+   "definition": "由不同实验室分析同一样品时检测结果的变异。用<img src='/root/syzx/static/spz/yundongyixue1.09.064.01.png'/>表示。"
+  },
+  {
+   "cn": "再现性",
+   "en": "reproducibility",
+   "source": "冶金学名词",
+   "wordNumber": "04.0682",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "在改变了的测量条件下，对同一被测量的测量结果之间的一致性。"
+  },
+  {
+   "cn": "可重复性",
+   "en": "reproducibility",
+   "source": "物理学名词",
+   "wordNumber": "05.0507",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "再现性",
+   "en": "reproducibility",
+   "source": "化学名词",
+   "wordNumber": "03.0370",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "不同分析人员、不同仪器，在不同或相同的时间内，用同一分析方法对同一量进行多次测定时，所得到的各测定量值之间的一致性。"
+  },
+  {
+   "cn": "再现性",
+   "en": "reproducibility",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0764",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "用以衡量由不同的评价人，采用相同的测量仪器，测量同一零件的同一特性时测量平均值的变差。"
+  },
+  {
+   "cn": "再现性",
+   "en": "reproducibility",
+   "source": "药学名词",
+   "wordNumber": "06.054",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "在不同的实验室，由不同的操作员，使用不同设备，按相同的测试方法，对同一被测对象相互独立进行的测试条件下，测定结果的精密度。"
+  },
+  {
+   "cn": "再现性",
+   "en": "reproducibility",
+   "source": "电气工程名词",
+   "wordNumber": "28.037",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "复现性",
+   "en": "reproducibility",
+   "source": "电子学名词",
+   "wordNumber": "17.035",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "再现性",
+   "en": "reproducibility",
+   "source": "自动化名词",
+   "wordNumber": "03.192",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "再现性限",
+   "en": "reproducibility limit",
+   "source": "农学名词",
+   "wordNumber": "18.013",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "在再现性条件下，一个数值，两次测试结果的绝对差值不超过此数的概率为95%。"
+  },
+  {
+   "cn": "复现性测量条件",
+   "en": "reproducibility condition",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0208",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "不同地点、不同操作者、不同测量系统，对同一或相类似被测对象重复测量的一组测量条件。"
+  },
+  {
+   "cn": "再现性限",
+   "en": "reproducibility limit",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.592",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计",
+   "subjectName": "环境监测与统计",
+   "publishYear": "2020",
+   "definition": "一个数值，在再现性条件下，两次测试结果的绝对差值不超过此数的概率为95%。"
+  },
+  {
+   "cn": "再现性误差",
+   "en": "reproducibility error",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "01.033",
+   "subjectFullName": "机械工程_仪器仪表_总论_仪器仪表基本名词",
+   "subjectName": "仪器仪表基本名词",
+   "publishYear": "2003",
+   "definition": "在相同的工作条件下，用不同测量方法，在一段时间内对同一个输入值多次重复测量输出所获得的极限值之间的代数差。"
+  },
+  {
+   "cn": "牧草再生",
+   "en": "forage reproducibility ",
+   "source": "草学名词",
+   "wordNumber": "2.013",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "测量复现性",
+   "en": "measurement reproducibility",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0169",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "在完全一样的测量条件下的测量精密度。"
+  },
+  {
+   "cn": "测量复现性",
+   "en": "measurement reproducibility",
+   "source": "计量学名词",
+   "wordNumber": "01.082",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "在复现性测量条件下的测量精密度。"
+  },
+  {
+   "cn": "频率复制性",
+   "en": "frequency reproducibility",
+   "source": "计量学名词",
+   "wordNumber": "12.083",
+   "subjectFullName": "计量学_时间、频率_频率",
+   "subjectName": "频率",
+   "publishYear": "2015",
+   "definition": "按同样设计制造出的一批频标，产生同一频率值的能力。用多台频标频率值的标准偏差表征。"
+  },
+  {
+   "cn": "自复制",
+   "en": "self-reproduce",
+   "source": "冶金学名词",
+   "wordNumber": "05.1644",
+   "subjectFullName": "冶金学_钢铁冶金_冶金流程工程学",
+   "subjectName": "冶金流程工程学",
+   "publishYear": "2019",
+   "definition": "流程系统各组元呈现周期性地重复变化，而流程整体保持稳定的运行状态的现象。"
+  },
+  {
+   "cn": "再现性",
+   "en": "reproducibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "再现性，重现性",
+   "en": "reproducibility",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "复现性，再现性",
+   "en": "reproducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可重生标识",
+   "en": "reproducible markings",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纸带复制机",
+   "en": "tape reproducer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重放头",
+   "en": "reproducing head",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "再现度",
+   "en": "degree of reproducibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自动钢琴",
+   "en": "pianola\",\"reproducing piano",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "放像头",
+   "en": "video reproducing head",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "韦尔特-米格农钢琴",
+   "en": "Welte-Mignon reproducing piano",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "烟雾生成性",
+   "en": "smoke producibility",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "女性性器官发育",
+   "en": "female reproducive organ development",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.2.2.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_青春期保健",
+   "subjectName": "青春期保健",
+   "publishYear": "2025",
+   "definition": "女性内外生殖器的表型特征，包括卵巢、输卵管、子宫、阴道和阴唇等，是女性区别于男性的最基本标志，是与生俱来的。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

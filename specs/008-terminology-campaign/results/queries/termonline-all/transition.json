@@ -1,0 +1,752 @@
+{
+ "key": "transition",
+ "term": "transition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:41:44+00:00",
+ "status": "ok",
+ "note": "variant=transition; 审定公布名词库=896; 海峡两岸名词对照库=440; 其他来源数据库=38; 预公布名词数据库=27; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "农学名词",
+   "wordNumber": "06.106",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在DNA序列中一个嘧啶（或嘌呤）被另一个嘧啶（或嘌呤）替代而引起遗传信息突变的现象。"
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "生殖医学名词",
+   "wordNumber": "10.086",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "不同嘌呤间或嘧啶间的相互置换。"
+  },
+  {
+   "cn": "过渡",
+   "en": "transition",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.139",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "在新闻写作中,把新闻导语、新闻主体、新闻主体部分的各项新闻事实连接起来，从而帮助实现各项内容间的叙述转换。"
+  },
+  {
+   "cn": "跃迁",
+   "en": "transition",
+   "source": "光学名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "粒子从一个能级变化到另一个能级的过程。"
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.204",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "核酸序列中一种嘌呤/嘧啶被另一种嘌呤/嘧啶置换的突变。是点突变的一种形式。"
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "畜牧学名词",
+   "wordNumber": "04.099",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "DNA序列中一种嘌呤(或嘧啶)被另一种嘌呤(或嘧啶)置换。"
+  },
+  {
+   "cn": "跃迁",
+   "en": "transition",
+   "source": "物理学名词",
+   "wordNumber": "06.0635",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "跃迁",
+   "en": "transition",
+   "source": "核医学名词",
+   "wordNumber": "02.0035",
+   "subjectFullName": "核医学_核医学相关基础学科_原子物理与核物理",
+   "subjectName": "原子物理与核物理",
+   "publishYear": "2018",
+   "definition": "原子和原子核等微观体系从一种能量状态过渡到另一种能量状态的过程。"
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "核医学名词",
+   "wordNumber": "03.0147",
+   "subjectFullName": "核医学_核医学设备与操作_探测设备",
+   "subjectName": "探测设备",
+   "publishYear": "2018",
+   "definition": "将一种模式的信号转变为另一种模式信号的过程。"
+  },
+  {
+   "cn": "变迁",
+   "en": "transition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0671",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在佩特里网Σ= ( S,T;F,<img src='/root/syzx/static/spz/jsjkx3.02.0635.001.png'/>)中，T 的元素称为变迁。"
+  },
+  {
+   "cn": "过渡阶段",
+   "en": "transition",
+   "source": "语言学名词",
+   "wordNumber": "12.080",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "语言从一种形式演变成另一种形式所经过的阶段。"
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "遗传学名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "核酸序列中一种嘌呤(或嘧啶)被另一种嘌呤(或嘧啶)置换。"
+  },
+  {
+   "cn": "转捩",
+   "en": "transition",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.050",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": "指从层流到湍流的过渡"
+  },
+  {
+   "cn": "转捩",
+   "en": "transition",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.040",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "层流到湍流的过渡。"
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.656",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "凌",
+   "en": "transit",
+   "source": "天文学名词",
+   "wordNumber": "03.145",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "较小天体围绕大天体运行时其圆面投影在大天体表面的现象。"
+  },
+  {
+   "cn": "传输性",
+   "en": "transitivity",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0131",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "信息通过各种传输介质可以转移其载体的时间和空间特性。"
+  },
+  {
+   "cn": "传递性",
+   "en": "transitivity",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0089",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "≤为Y上的二元关系，若对x，y，z∈Y，x≤y，y≤z，有x≤z，则称≤满足传递性。"
+  },
+  {
+   "cn": "转接",
+   "en": "transit",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.105",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "其生成点和终止点都位于本网络外的电信业务。"
+  },
+  {
+   "cn": "凌日",
+   "en": "transit",
+   "source": "航天科学技术名词",
+   "wordNumber": "03.235",
+   "subjectFullName": "航天科学技术_航天器",
+   "subjectName": "航天器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "变迁",
+   "en": "transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过渡",
+   "en": "transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "凌",
+   "en": "transit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "子午卫星系统",
+   "en": "transit",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "传递性",
+   "en": "transitivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过渡元素",
+   "en": "transition element\",\"transitional element",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "过渡带",
+   "en": "transitional zone\",\"transition zone",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "中位沼泽",
+   "en": "transitional fen\",\"transitional fen",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "容许跃迁",
+   "en": "permitted transition\",\"allowed transition",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "受迫跃迁",
+   "en": "forced transition\",\"induced transition",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "转运肽",
+   "en": "transit peptide\",\"transit sequence",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "过渡区",
+   "en": "transition zone",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "过渡区",
+   "en": "transition zone",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "过渡季节",
+   "en": "transition season",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "过渡期",
+   "en": "transition period",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "过渡金属",
+   "en": "transition metal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "转变点",
+   "en": "transition point",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "过渡长度",
+   "en": "transition length",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "攻防转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子跃迁",
+   "en": "quantum transition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子相变",
+   "en": "quantum phase transition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "快速公交系统",
+   "en": "bus rapid transit",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进入转换区",
+   "en": "check-in to the transition area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机器翻译",
+   "en": "machine translation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "局部事务",
+   "en": "local transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全局事务",
+   "en": "global transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "事务管理器",
+   "en": "transaction manager",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "事务协调器",
+   "en": "transaction coordinator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云交易",
+   "en": "cloud transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非人格化交易",
+   "en": "impersonal transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跃迁",
+   "en": "transition",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.12",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "原子和原子核等微观体系从一种能量状态过渡到另一种能量状态的过程。"
+  },
+  {
+   "cn": "过渡时期",
+   "en": "transition period",
+   "source": "马克思主义",
+   "wordNumber": "03.0255",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "从无产阶级取得政权到进入共产主义社会低级阶段之前的这一特殊历史阶段。1875年马克思在《哥达纲领批判》中第一次提出过渡时期这一著名论断。他指出: “在资本主义社会和共产主义社会之间,有一个从前者变为后"
+  },
+  {
+   "cn": "过渡仪式",
+   "en": "transition ceremony",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0532",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国民族学家和民俗学家范·盖内普（Arnold Van Gennep）在《过渡礼仪》一书中提出的观点，即个人或群体在不同阶段的转换中所采取的仪式过程。过渡礼仪的完整模式在理论上包括分隔礼仪、聚合礼仪和"
+  },
+  {
+   "cn": "市场转型",
+   "en": "market transition",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.25",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "主要由美国社会学家倪志伟(Victor Nee）提出。认为20世纪80年代以来，中国、俄罗斯和东欧等社会由再分配经济向市场经济转型，导致社会分层机制发生根本性改变，市场分配机制（主要指人力资本）取代再"
+  },
+  {
+   "cn": "人口转变",
+   "en": "demographic transition",
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.6",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "人口出生率与死亡率从高至低的历史过程。死亡率的下降往往先于生育率，因此在人口转变期间，人口往往会快速增长。"
+  },
+  {
+   "cn": "和平过渡",
+   "en": "peaceful transition",
+   "source": "马克思主义",
+   "wordNumber": "03.0250",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级在特定历史条件下，通过不流血的和平方式，把政权从反动统治阶级手中夺过来，实现资本主义向社会主义的过渡。暴力革命是无产阶级夺取政权的一般规律。但是，并不排斥非暴力的和平手段。在当代，我们不反对西"
+  },
+  {
+   "cn": "直接过渡",
+   "en": "direct transition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0596",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取革命胜利后，可以通过国家各方面的帮助，尤其是引导人民对原始公有制进行根本改造，就能使残存着原始公社的民族，跨越资本主义，直接过渡到社会主义。马克思主义创始人关于“直接过渡”的英明预见，在社"
+  },
+  {
+   "cn": "同质异能跃迁",
+   "en": "isometric transition, IT",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.37",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "处于高能态的同质异能素退激发时所发生的γ跃迁现象。"
+  },
+  {
+   "cn": "市场转型理论",
+   "en": "market transition theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.24",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "由美国社会学家倪志伟(Victor Nee）等人针对20世纪80年代以来俄罗斯、东欧等前社会主义国家以及中国的社会分层变迁提出的一种理论。主要观点是：市场化转型导致这些社会的分层机制发生根本改变，即原"
+  },
+  {
+   "cn": "市场转型研究",
+   "en": "market transition study",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.34",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "关注社会主义国家从国家再分配计划经济转向以市场为导向的经济过程中所发生的社会结构变迁和利益格局再调整，以及该过程对社会主义国家的分层结构的影响的研究。"
+  },
+  {
+   "cn": "社会主义过渡时期",
+   "en": "period of transition to socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0241",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "越南共产党根据马克思主义唯物史观和经济社会发展形态的观点而对本国当前发展阶段的定位。其含义是越南已经跨越了资本主义发展阶段，但是还未进入马克思所定义的社会主义社会发展阶段，仅是朝着社会主义的目标在发展"
+  },
+  {
+   "cn": "新民主主义向社会主义转变",
+   "en": "transition from new democracy to socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0332",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "近代中国半殖民地半封建的社会性质，决定了中国革命必须分两步走：第一步，改变半殖民地半封建的社会形态，使中国成为一个独立的新民主主义国家；第二步，实现新民主主义向社会主义的转变,为建立一个社会主义社会而"
+  },
+  {
+   "cn": "过渡时期的总路线",
+   "en": "general line for the transition period",
+   "source": "马克思主义",
+   "wordNumber": "03.0384",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出并于1954年写入中国人民宪法。指明了过渡时期的任务、途径和步骤。核心是社会主义建设和社会主义改造同时并举，简称“一化三改”，包括两方面内容，即逐步实现社会主义工业化，逐步实现对农业、手工业"
+  },
+  {
+   "cn": "过渡时期的初级阶段",
+   "en": "primary stage of the transition period",
+   "source": "马克思主义",
+   "wordNumber": "05.0242",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "老挝对本国当前发展阶段的定位。其含义是老挝未经过资本主义发展阶段，建设社会主义必然要经历一个过渡时期，目前处于向社会主义过渡的初级阶段，以后还要经过若干阶段和相当长的时间才能过渡到社会主义，当前的迫切"
+  },
+  {
+   "cn": "从资本主义到共产主义革命转变的过渡时期",
+   "en": "period of the transition from capitalism to communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0016",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思在1875年所写的《哥达纲领批判》中提出了完整的过渡时期理论。他指出：“在资本主义社会和共产主义社会之间，有一个从前者变为后者的革命转变时期。同这个时期相适应的也有一个政治上的过渡时期”。意即从"
+  },
+  {
+   "cn": "三和路线",
+   "en": "Peaceful coexistence peace contests and peaceful transition lines",
+   "source": "马克思主义",
+   "wordNumber": "05.0220",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "赫鲁晓夫在苏共20大提出的和平共处、和平竞赛、和平过渡的统称。是赫鲁晓夫时期苏联对外战略的主要内容。1956年在苏共二十大上，赫鲁晓夫全面系统地阐述了其对外政策主张：与西方国家和平共处，在和平竞赛中超"
+  },
+  {
+   "cn": "传统",
+   "en": "tradition",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "在现代化理论中与“现代”相对的一种农业的、乡村的、专制的、落后的社会状态。"
+  },
+  {
+   "cn": "交易成本",
+   "en": "transaction cost",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.23",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "完成一笔交易时，交易双方在买卖前后所产生的各种与此交易相关的成本。通常包括协调成本和激励成本两大类。由科斯(R.H.Coase）于1937年提出。"
+  },
+  {
+   "cn": "大传统与小传统",
+   "en": "great tradition and small tradition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0553",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家雷德菲尔德（Robert Redfield）提出的一种二元分析框架，用来说明在复杂社会中存在的两个不同文化层次的传统。大传统是指以城市为中心，社会中少数上层人士、知识分子所代表的文化；小传"
+  },
+  {
+   "cn": "大传统",
+   "en": "great tradition",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "一个社会中占优势的文化模式，尤其是指带有强烈而正统的历史意识的都市生活方式或复合式生活方式。由美国人类学家雷德菲尔德(R.Redfield）首先创用。与“小传统”相对。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

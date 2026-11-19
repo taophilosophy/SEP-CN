@@ -1,0 +1,642 @@
+{
+ "key": "theistic personalists",
+ "term": "theistic personalists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:01:36+00:00",
+ "status": "ok",
+ "note": "variant=theistic personalists; 审定公布名词库=200; 海峡两岸名词对照库=98; 其他来源数据库=14; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.198",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体内在的心理生理系统的动力组织和由此决定的独特的思维、情感和行为模式。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "行为医学名词",
+   "wordNumber": "4.104",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体内在生理心理系统的动力组织和由此决定的独特的思维、情感和行为模式。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "精神医学名词",
+   "wordNumber": "03.294",
+   "subjectFullName": "精神医学_诊断分类_人格与性心理障碍",
+   "subjectName": "人格与性心理障碍",
+   "publishYear": "2019",
+   "definition": "一个人独特生活风格和适应模式的、根深蒂固的思维、认知、情感和行为模式。是体质因素、发育和社会经验的结果。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.027",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "一个人所具有的总的性格特点，各种精神状态和特征的总和。"
+  },
+  {
+   "cn": "个性",
+   "en": "personality",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0056",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "一组在不同环境中显现并影响个体的外显和内隐行为模式与相对稳定心理特征的总和。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.005",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "个体固有的、稳定的、特有的各种心理内容的综合体。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "心理学名词",
+   "wordNumber": "08.008",
+   "subjectFullName": "心理学_人格心理学",
+   "subjectName": "人格心理学",
+   "publishYear": "2014",
+   "definition": "个体内在的心理生理系统的动力组织和由此决定的独特的思维、情感和行为模式。"
+  },
+  {
+   "cn": "人格类型",
+   "en": "personality style;personality type",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.2",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "综合人格不同层面的表现对人格进行的分类。依据不同的人格理论所做的人格类型区分也是不同的，且由于人格表现的复杂性，不同层面特征的描述和区分界限并非截然而绝对，人格类型的划分更重要的意义是有助于理解人格的"
+  },
+  {
+   "cn": "主题性雕塑",
+   "en": "thematic sculpture",
+   "source": "风景园林名词",
+   "wordNumber": "11.0213",
+   "subjectFullName": "风景园林_风景园林艺术_雕刻艺术",
+   "subjectName": "雕刻艺术",
+   "publishYear": "2025",
+   "definition": "与周围环境有机结合，能展示、揭示甚至升华某个特定地点、环境、建筑主题，使观者能明显地感到这一环境特点的雕塑。"
+  },
+  {
+   "cn": "专题概要",
+   "en": "thematic summary",
+   "source": "档案学名词",
+   "wordNumber": "03.05.018",
+   "subjectFullName": "档案学_档案管理_档案利用与编研",
+   "subjectName": "档案利用与编研",
+   "publishYear": "2024",
+   "definition": "简要记述某一特定的社会事物或自然现象产生、发展、变化情况的一种档案参考资料。"
+  },
+  {
+   "cn": "主题词",
+   "en": "thematic word",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.054",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "由受控词表规范地用于标引文献主题以便于检索的词。"
+  },
+  {
+   "cn": "专题地图",
+   "en": "thematic map",
+   "source": "测绘学名词",
+   "wordNumber": "04.003",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "着重表示自然地理和社会经济文化现象中的某一种或几种要素，集中表现某种主题内容的地图。"
+  },
+  {
+   "cn": "专题地图集",
+   "en": "thematic atlas",
+   "source": "测绘学名词",
+   "wordNumber": "04.069",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "以反映某类专题内容为主的地图集。"
+  },
+  {
+   "cn": "专题海图",
+   "en": "thematic chart",
+   "source": "测绘学名词",
+   "wordNumber": "07.235",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "突出表示一种或几种海洋要素，集中表现某种主题内容的海图。"
+  },
+  {
+   "cn": "专题制图",
+   "en": "thematic mapping",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.648",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "描述与某个或多个特定主题相关的选定信息的地图，以符号来表现其分布的一种制图方式。"
+  },
+  {
+   "cn": "专题[地]图",
+   "en": "thematic map",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.786",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "根据不同专业的需求，突出而深入的表示制图区域某一自然或社会经济主题的地图。"
+  },
+  {
+   "cn": "专题属性",
+   "en": "thematic attribute",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.787",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在地理数据库中由用户定义的实体的某一个方面特征。用户可以通过数据库名称、要素类型、要素属性以及要素分类表等多种方法来定义一个专题的属性。"
+  },
+  {
+   "cn": "分类词典",
+   "en": "thematic dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.218",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。把一种语言、语言变体或学科领域的词汇按语义类或主题进行编排的词典，有的附有释义。"
+  },
+  {
+   "cn": "专题海图",
+   "en": "thematic chart",
+   "source": "海洋科技名词",
+   "wordNumber": "03.1108",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋信息技术",
+   "subjectName": "海洋信息技术",
+   "publishYear": "2007",
+   "definition": "表示海洋专题要素(海底地貌、海洋底质、海洋水文，海洋气象、海洋重力异常等)的图件。"
+  },
+  {
+   "cn": "专题判读",
+   "en": "thematic interpretation",
+   "source": "地理学名词",
+   "wordNumber": "29.131",
+   "subjectFullName": "地理学_遥感应用",
+   "subjectName": "遥感应用",
+   "publishYear": "2006",
+   "definition": "在遥感图像上进行专题或专业性的识别。如耕地或农作物、林地与森林类型的识别等。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "专题，主题",
+   "en": "thematic\",\"theme",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人格结构，人格架构",
+   "en": "personality structure\",\"personality architecture",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主题材料",
+   "en": "thematic material",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "专题地图",
+   "en": "thematic map",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "专题地图集",
+   "en": "thematic atlas",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "专题地图学",
+   "en": "thematic cartography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "专题判读",
+   "en": "thematic interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "专题属性",
+   "en": "thematic attribute",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "专题制图",
+   "en": "thematic mapping",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "专题地图学",
+   "en": "thematic cartography",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "专题属性",
+   "en": "thematic attribute",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "专题数据",
+   "en": "thematic data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "专题图",
+   "en": "thematic map",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "专题制图",
+   "en": "thematic mapping",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "专题层",
+   "en": "thematic overlap",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "专题地图集",
+   "en": "thematic atlas",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "专题地图学",
+   "en": "thematic cartography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "专题海图",
+   "en": "thematic chart",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "专题判读",
+   "en": "thematic interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人特点",
+   "en": "personality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟人格",
+   "en": "virtual personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格数据化",
+   "en": "personality datamation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律人格",
+   "en": "legal personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格权",
+   "en": "personality right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化人格",
+   "en": "digital personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子人格",
+   "en": "e-personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有限法律人格",
+   "en": "finite legal personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据人格权",
+   "en": "data personality right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格主义伦理学",
+   "en": "personalist ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.138",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为人格是第一性的实在，是一种精神性的道德品格，是支配、控制或调整自我的“欲望”“意志”和“感情”的精神或道德主体的伦理学理论。"
+  },
+  {
+   "cn": "个性",
+   "en": "personality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "一组在不同环境中显现并影响个体的外显和内隐行为模式与相对稳定心理特征的总和。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0069999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "个体内在生理心理系统的动力组织和由此决定的独特的思维、情感和行为模式。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.10",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "个体稳定表现的心理特质，由遗传与环境因素共同决定。"
+  },
+  {
+   "cn": "主题分析",
+   "en": "thematic analysis",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.3.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "对定性调查所获取的所有信息资料进行分析，从中提取主题概念的一种定性研究分析方法。"
+  },
+  {
+   "cn": "身份人格",
+   "en": "status personality",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "与个体所在的特定身份群体相联系的人格型态。不同的人既共享该社会或文化所塑造的“基本人格”，也因为各自所属的身份群体的价值差异，而呈现出行为模式上的差异。美国人类学家拉尔夫·林顿（Ralph Linto"
+  },
+  {
+   "cn": "权威人格",
+   "en": "authoritarian personality",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.1",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "一种人格类型，包含如下特征：在性格上极为保守，思想封闭，观念狭窄；崇尚权威，重视权力和地位，对上低声下气，卑躬屈膝；对下作威作福，盛气凌人；对同僚刚愎自用，绝不容忍通融。"
+  },
+  {
+   "cn": "个性发展",
+   "en": "personality development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体的人格特征和经验积累随年龄增长的发展变化过程。"
+  },
+  {
+   "cn": "基本人格",
+   "en": "basic personality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0556",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家卡迪纳（Abram Kandiner）提出的概念。他认为，养育儿童的方式在任何一特定社会中，都是相当固定而且标准化的。虽然在某方面有个别差异，但就整体而言，母亲喂奶的时间大致和邻居一样长，"
+  },
+  {
+   "cn": "主题概念阵",
+   "en": "thematic conceptual matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据一个研究主题，列出所有相关概念的行列交叉表格。"
+  },
+  {
+   "cn": "健康专题教育",
+   "en": "thematic health education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "围绕某一健康主题，通过多种形式教学活动开展的综合性健康教育。常见健康主题包括预防艾滋病、预防毒品、环境教育、预防烟草、心理健康等。"
+  },
+  {
+   "cn": "个人崇拜",
+   "en": "cult of personality",
+   "source": "马克思主义",
+   "wordNumber": "04.0012",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "夸大领袖个人的作用，不适当地推崇领袖人物，并使其神化和当作偶像来崇拜的一种社会现象。这是唯心主义历史观在人民群众和个人关系上的一种表现。个人崇拜颠倒了个人和人民群众的关系，使领袖处于组织之上，不是要求"
+  },
+  {
+   "cn": "儿童人格测验",
+   "en": "child personality test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "测定儿童在社会实践活动中所形成的对人、对事、对自己的态度、需要、动机、兴趣，情绪和行为发生的速度、强度、灵活性和持久性，以及与之相应的习惯化行为方式的测验。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

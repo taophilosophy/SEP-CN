@@ -1,0 +1,542 @@
+{
+ "key": "occurrence probabilities",
+ "term": "Occurrence probabilities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:50:44+00:00",
+ "status": "ok",
+ "note": "variant=Occurrence probabilities; 审定公布名词库=362; 海峡两岸名词对照库=115; 其他来源数据库=6; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "矿床产出概率模型",
+   "en": "occurrence probability model",
+   "source": "地质学名词",
+   "wordNumber": "14.02.070",
+   "subjectFullName": "地质学_矿床学_成矿作用与成矿控制因素",
+   "subjectName": "成矿作用与成矿控制因素",
+   "publishYear": "2026",
+   "definition": "以岩性、构造地质背景和成矿地质要素为依据统计得出的，预测某一地区某种矿床的产出概率的数学统计模型。矿床成因认识越清楚，地质要素信息越多，作用程度越明晰，建立的概率模型可信度就越大。"
+  },
+  {
+   "cn": "地震[发生]概率",
+   "en": "probability of earthquake occurrence",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1785",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "未来特定时段内，某一地区发生某一震级范围地震的概率。 "
+  },
+  {
+   "cn": "发生",
+   "en": "occurrence",
+   "source": "林学名词",
+   "wordNumber": "07.210",
+   "subjectFullName": "林学_森林保护_林业有害生物管理",
+   "subjectName": "林业有害生物管理",
+   "publishYear": "2016",
+   "definition": "确认某地区存在某种本土或传入的有害生物，或官方没有报道上述有害生物已经根 除的现象。"
+  },
+  {
+   "cn": "产状",
+   "en": "occurrence",
+   "source": "资源科学技术名词",
+   "wordNumber": "04.067",
+   "subjectFullName": "资源科学技术_资源地学",
+   "subjectName": "资源地学",
+   "publishYear": "2008",
+   "definition": "岩层在地壳中的空间方位。"
+  },
+  {
+   "cn": "出现",
+   "en": "occurrence",
+   "source": "数学名词",
+   "wordNumber": "02.0009",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "产状",
+   "en": "occurrence",
+   "source": "地质学名词",
+   "wordNumber": "03.060",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "火成岩产状",
+   "en": "igneous occurrence",
+   "source": "地质学名词",
+   "wordNumber": "04.02.010",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "火成岩体的形态、大小及其与围岩之间关系、形成深度、地质构造背景等。"
+  },
+  {
+   "cn": "侵入岩产状",
+   "en": "intrusive occurrence",
+   "source": "地质学名词",
+   "wordNumber": "04.02.012",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "侵入体的形态、大小及其与围岩之间关系、形成深度、构造背景的总和。"
+  },
+  {
+   "cn": "火山岩产状",
+   "en": "volcanic occurrence",
+   "source": "地质学名词",
+   "wordNumber": "04.02.037",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "火山岩体的形态、规模及其空间关系的总和。根据其形态和空间位置划分为熔岩(包括熔岩流、熔岩台地、熔岩丘、岩钟、火山颈等)、次火山岩、盾状火山、火山锥、火山碎屑平原等。"
+  },
+  {
+   "cn": "事件矩阵",
+   "en": "occurrence matrix",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.031",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "描述方程组中变量与方程的关系的矩阵。每一行代表一个方程，每一列代表一个变量。如果某变量在方程中出现，则对应的矩阵元素为1，否则为0。"
+  },
+  {
+   "cn": "随机发生",
+   "en": "random occurrence",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2688",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "偶然而没有规律性的发生。 "
+  },
+  {
+   "cn": "定义性出现",
+   "en": "definitional occurrence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0239",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "变量在声明语句中出现，编译时应为该变量分配存储空间。"
+  },
+  {
+   "cn": "顺序发生",
+   "en": "sequential occurrence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0626",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在一个基本网系统( B,E;F,<img src='/root/syzx/static/spz/jsjkx3.02.0626.001.png'/>)中，设<img src='/root/syzx/st"
+  },
+  {
+   "cn": "出现网",
+   "en": "occurrence net",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0664",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "如下一种网：网中每个 S 元的前集和后集都最多有一个元素，且网的图形表示中不存在有向回路。出现网是偏序结构的网模型。"
+  },
+  {
+   "cn": "事件矩阵",
+   "en": "occurrence matrix",
+   "source": "化学工程名词",
+   "wordNumber": "05.056",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "约束出现",
+   "en": "bound occurrence",
+   "source": "数学名词",
+   "wordNumber": "02.0060",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "石油产状",
+   "en": "oil occurrence",
+   "source": "地质学名词",
+   "wordNumber": "07.491",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "矿点",
+   "en": "ore occurrence",
+   "source": "地质学名词",
+   "wordNumber": "07.022",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "冶金学名词",
+   "wordNumber": "04.0675",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "表示随机事件发生可能性大小的量，是在0到1之间的实数。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "表征随机事件发生可能性大小的一个度量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "事件矩阵",
+   "en": "occurrence matrix",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "出现网",
+   "en": "occurrence net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出现序列",
+   "en": "occurrence sequence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定义性出现",
+   "en": "definitional occurrence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序发生",
+   "en": "sequential occurrence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "系值",
+   "en": "set occurrence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共生矩阵",
+   "en": "co-occurrence matrix",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后验概率",
+   "en": "posteriori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "priori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率分布",
+   "en": "probability distribution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率函数",
+   "en": "probability function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率论",
+   "en": "probability theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率模式",
+   "en": "probability model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率评分",
+   "en": "probability score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率预报",
+   "en": "probability forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递推法",
+   "en": "recurrence method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "患病概率",
+   "en": "probability of disease occurrence",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.73",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定时间内，一个人或者一个群体发生某种疾病的可能性。在微生物学中，多用于某种疾病微生物致使生物体发生某种疾病的可能性。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "保证总体中的所有单位有相同被选取的概率或机会的抽样方式。"
+  },
+  {
+   "cn": "死亡概率",
+   "en": "mortality probability",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "活到某一确切年龄x岁的一批人在满x+n岁之前可能死亡的比例。即在确切年龄x岁与x+n岁之间死亡人数(ndx）与活到确切年龄x岁的尚存人数(lx）之比，一般记作nqx。"
+  },
+  {
+   "cn": "暴露概率",
+   "en": "exposure probability",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.71",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "受个体行为、环境条件和病原体传播途径等因素影响，个体或群体接触到某种病原体的可能性。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "遵循随机原则，按照某种特定的概率抽取样本的方法。获得的样本信息可以通过统计学方法推论总体。"
+  },
+  {
+   "cn": "感染概率",
+   "en": "probability of infection",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.72",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定条件下，受个体易感性、病原体传播途径和环境因素等多种因素影响，个体或群体感染某种病原体的可能性。"
+  },
+  {
+   "cn": "非概率抽样",
+   "en": "non-probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "不遵循随机原则抽取样本的方法。样本的选择往往受到研究者的主观判断、方便性或其他非随机因素的影响。获得的样本信息一般不能通过统计学方法推论总体。"
+  },
+  {
+   "cn": "标称危险[概率]系数",
+   "en": "nominal risk [probability] coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "对代表性人群（上海、大阪、广岛、长崎、瑞典、英国和美国）性别平均和受照年龄平均的终生危险估计，单位是10-2Sv-1。其含义是某人群受1Sv剂量照射以后该人群相对于未受照射人群癌症终生危险增加的百分数"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/(ERR+1)。"
+  },
+  {
+   "cn": "最大可能数",
+   "en": "most probable number, MPN",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.111",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "结合微生物学与统计学的检测数值表示法，由统计模型，推算实际菌数最可能落在信赖区间的位置，即该样品最可能有多少细菌的估测值。"
+  },
+  {
+   "cn": "赔偿的病因概率限值",
+   "en": "probability of causation limit for compensation",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "在职业性放射性肿瘤赔偿中，由管理部门审定的可给予法定赔偿的病因概率的最低限值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

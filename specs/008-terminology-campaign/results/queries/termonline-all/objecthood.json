@@ -1,0 +1,432 @@
+{
+ "key": "objecthood",
+ "term": "objecthood",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:53:11+00:00",
+ "status": "ok",
+ "note": "variant=objecthood; 审定公布名词库=178; 海峡两岸名词对照库=6; 其他来源数据库=8; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "螺旋CT",
+   "en": "spiral computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "X射线管和探测器围绕被检者连续旋转，检查床以一定的速度纵向连续移动，X射线连续曝光并采集数据，扫描轨迹呈螺旋状的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.055",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像基础知识",
+   "subjectName": "计算机体层成像基础知识",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "造影CT",
+   "en": "angiogram computed tomography,angiogram CT",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "利用阳性或阴性对比剂使被检查器官或结构与周围形成密度差，然后再行CT扫描的检查方法。分为血管造影CT、非血管造影CT和CT血管成像三种。"
+  },
+  {
+   "cn": "CT透视",
+   "en": "CT fluoroscopy",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.185",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "结合快速扫描、快速重建和快速显示技术，实现CT影像实时显示的一种扫描方法。主要用于CT引导下的穿刺活检或介入治疗。"
+  },
+  {
+   "cn": "C臂CT",
+   "en": "C-arm computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.070",
+   "subjectFullName": "医学影像技术学_介入放射学技术_设备与原理",
+   "subjectName": "设备与原理",
+   "publishYear": "2020",
+   "definition": "利用C臂带动X射线管和平板探测器围绕人体做旋转运动，探测器进行旋转采集，获得容积扫描数据，经计算机重建获得类似CT影像的一种技术。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "器官移植学名词",
+   "wordNumber": "07.015",
+   "subjectFullName": "器官移植学_器官移植影像学",
+   "subjectName": "器官移植影像学",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减的值。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "神经病学名词",
+   "wordNumber": "05.049",
+   "subjectFullName": "神经病学_神经病诊断技术_神经影像学",
+   "subjectName": "神经影像学",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是 Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。脑灰质的CT值为（36 ±4）Hu，脑"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "放射医学与防护名词",
+   "wordNumber": "06.096",
+   "subjectFullName": "放射医学与防护_医用放射防护_放射诊断",
+   "subjectName": "放射诊断",
+   "publishYear": "2014",
+   "definition": "用来表示与X射线CT影像每个像素对应区域相关的X射线衰减平均值的量。通常以Hu为单位。某物质CT值的表达式为：<img src='/root/syzx/static/spz/fangshefanghu"
+  },
+  {
+   "cn": "螺旋CT",
+   "en": "spiral CT",
+   "source": "放射医学与防护名词",
+   "wordNumber": "06.080",
+   "subjectFullName": "放射医学与防护_医用放射防护_放射诊断",
+   "subjectName": "放射诊断",
+   "publishYear": "2014",
+   "definition": "扫描轨迹呈螺旋状前进，可快速、不间断地完成容积扫描的装置。分为单层螺旋CT、双层螺旋CT和多层螺旋CT。"
+  },
+  {
+   "cn": "大孔径CT",
+   "en": "big aperture computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.008",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像设备",
+   "subjectName": "计算机体层成像设备",
+   "publishYear": "2020",
+   "definition": "扫描机架孔径尺寸较大的（一般大于70cm），主要用于放疗定位的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "非螺旋CT",
+   "en": "non-spiral computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.040",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "每一层面扫描时检查床不动，X射线管和探测器围绕被检者旋转一周，完成一次数据采集，然后移动检查床，进行下一层面的数据采集，直至所需检查部位全部扫描完成，扫描轨迹呈不连续的环形的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "双源CT",
+   "en": "dual source computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.042",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "在扫描机架内安装有两套X射线管和两套探测器系统的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "单排螺旋CT",
+   "en": "single row spiral computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.045",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "在机架Z轴方向上只有一排探测器的螺旋 CT。"
+  },
+  {
+   "cn": "CT值线性",
+   "en": "CT number linearity",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.056",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像基础知识",
+   "subjectName": "计算机体层成像基础知识",
+   "publishYear": "2020",
+   "definition": "物质的X射线衰减系数与影像学上所表现的CT值之间的线性关系。"
+  },
+  {
+   "cn": "CT层厚",
+   "en": "CT slice thickness",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.084",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像基础知识",
+   "subjectName": "计算机体层成像基础知识",
+   "publishYear": "2020",
+   "definition": "计算机体层成像断面图像在垂直于被照体或检查床方向上覆盖的长度。"
+  },
+  {
+   "cn": "CT层间距",
+   "en": "slice interval",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.089",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像基础知识",
+   "subjectName": "计算机体层成像基础知识",
+   "publishYear": "2020",
+   "definition": "相邻两个层面中心之间的距离。"
+  },
+  {
+   "cn": "定量CT",
+   "en": "quantitative computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.187",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "利用计算机体层成像来测定某一感兴趣区内特殊组织的某一化学成分含量的方法。"
+  },
+  {
+   "cn": "小肠CT造影",
+   "en": "computed tomography enterography,CTE",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.244",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "采用口服法或插管法将对比剂注入小肠的计算机体层成像检查技术。常用于小肠病变的检查，常规螺旋横断扫描，扫描范围为膈顶至耻骨联合下缘，或根据病变确定扫描范围。呼吸方式要求吸气后屏气。扫描延迟时间采用经验值"
+  },
+  {
+   "cn": "CT脊髓造影",
+   "en": "CT myelography",
+   "source": "显微外科学名词",
+   "wordNumber": "05.244",
+   "subjectFullName": "显微外科学_周围神经_周围神经损伤诊断_周围神经损伤其他检查",
+   "subjectName": "周围神经损伤其他检查",
+   "publishYear": "2016",
+   "definition": "经过腰椎穿刺将造影剂注入脊髓蛛网膜下腔后，再进行CT扫描的诊断方法。臂丛根性撕脱伤时可显示伤侧神经根鞘膜囊被充满造影剂的片状高密度灶取代。"
+  },
+  {
+   "cn": "CT螺距因子",
+   "en": "CT pitch factor",
+   "source": "计量学名词",
+   "wordNumber": "14.209",
+   "subjectFullName": "计量学_光学_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2015",
+   "definition": "在 X 射线管每转时的患者支架水平方向上的行程 Δd 除以通过 X 射线管辐射时产生的体层切片的数目 N 与标称体层切片厚度 T 的积，即 CT 螺距因子= Δd/(N× T) 。式中：Δd为患者支架"
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

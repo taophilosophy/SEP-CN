@@ -1,0 +1,782 @@
+{
+ "key": "equivalence result",
+ "term": "equivalence result",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:36:05+00:00",
+ "status": "ok",
+ "note": "variant=equivalence result; 审定公布名词库=697; 海峡两岸名词对照库=196; 其他来源数据库=44; 预公布名词数据库=57; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "结式",
+   "en": "resultant",
+   "source": "数学名词",
+   "wordNumber": "04.0553",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实验结果",
+   "en": "experimental result",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.081",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "实验过程中观察和记录得到的各种实验现象、实验数据等。"
+  },
+  {
+   "cn": "测量结果",
+   "en": "measurement result",
+   "source": "电力名词",
+   "wordNumber": "02.131",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "与其他有用的相关信息一起赋予被测量的一组量值。测量结果通常包含这组量值的相关信息。测量结果通常表示为单个被测量的量值和一个测量不确定度。"
+  },
+  {
+   "cn": "检索结果",
+   "en": "search result",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.149",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "检索工具或检索系统在执行检索过程后，用户得到的满足检索要求的查找结果。"
+  },
+  {
+   "cn": "零结果",
+   "en": "zero result",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.178",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "整个查找程序结束后未得到任何成效或满足需求的结果的现象。"
+  },
+  {
+   "cn": "未修正结果",
+   "en": "uncorrected result",
+   "source": "计量学名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "系统误差修正前的测量结果。"
+  },
+  {
+   "cn": "已修正结果",
+   "en": "corrected result",
+   "source": "计量学名词",
+   "wordNumber": "01.091",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "系统误差修正后的测量结果。"
+  },
+  {
+   "cn": "结果激励",
+   "en": "result encourage",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.239",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "该激励包括在完全激励之中，它表示对一项工作的期望值与任务完成后导致的外在奖励的期望值以及外在奖励的效价综合的奖励评价。"
+  },
+  {
+   "cn": "已修正结果",
+   "en": "corrected result",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.135",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "未修正结果",
+   "en": "uncorrected result",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.134",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "显著性结果",
+   "en": "significant result",
+   "source": "电子学名词",
+   "wordNumber": "18.012",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "仿真结果",
+   "en": "simulation result",
+   "source": "自动化名词",
+   "wordNumber": "04.652",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "测量结果",
+   "en": "measurement result,result of measurement",
+   "source": "计量学名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "与其他有用的相关信息一起赋予被测量的一组量值。"
+  },
+  {
+   "cn": "合成不平衡",
+   "en": "resultant unbalance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0238",
+   "subjectFullName": "机械工程（一）_机械动力学_平衡与平衡装备",
+   "subjectName": "平衡与平衡装备",
+   "publishYear": "2021",
+   "definition": "沿转子分布的所有不平衡矢量的矢量和。"
+  },
+  {
+   "cn": "合力偶",
+   "en": "resultant couple",
+   "source": "物理学名词",
+   "wordNumber": "02.0563",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "合速度",
+   "en": "resultant velocity",
+   "source": "物理学名词",
+   "wordNumber": "02.0325",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "合力",
+   "en": "resultant force",
+   "source": "物理学名词",
+   "wordNumber": "02.0332",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "合力",
+   "en": "resultant force",
+   "source": "建筑学名词",
+   "wordNumber": "13.0003",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "两个及两个以上力交会时形成的力。两个以上的分力的合力，可用“力的多边形法”求出。"
+  },
+  {
+   "cn": "结果补语",
+   "en": "resultive complement",
+   "source": "语言学名词",
+   "wordNumber": "04.209",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "补语的一种。由单个动词或形容词充当，而且直接与述语动词相连接，表示动作行为的结果。例如，“洗〈干净〉”“学〈会〉”。"
+  },
+  {
+   "cn": "结果宾语",
+   "en": "resultive object",
+   "source": "语言学名词",
+   "wordNumber": "04.195",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "宾语的一种。在语义上是述语动词所表示的动作的结果。例如，“盖房子”“写信”。"
+  },
+  {
+   "cn": "生成物",
+   "en": "resultant",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合力",
+   "en": "resultant",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "显著性结果",
+   "en": "significant result",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合成风",
+   "en": "resultant wind",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合成音",
+   "en": "resultant tone",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "等效",
+   "en": "equivalent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "当量",
+   "en": "equivalent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等效",
+   "en": "equivalent",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "等值",
+   "en": "equivalent",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量评价结果",
+   "en": "data quality result",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生态等价，生态等值",
+   "en": "ecological equivalence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态等值（=生态等价）",
+   "en": "ecological equivalence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "化学全同",
+   "en": "chemical equivalence",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "几何等效",
+   "en": "geometrical equivalence",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态等价",
+   "en": "ecological equivalence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等价电位",
+   "en": "equivalence potential",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基因组等价",
+   "en": "genomic equivalence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实质等同性",
+   "en": "substantial equivalence",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "等价关系",
+   "en": "equivalence relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等价问题",
+   "en": "equivalence problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛结果",
+   "en": "result",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "results card\",\"results sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩表",
+   "en": "result sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "result card",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "results sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩",
+   "en": "performance\",\"result\",\"score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确认比赛结果",
+   "en": "verify the results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最终成绩单",
+   "en": "final results list",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比赛成绩",
+   "en": "final time\",\"final result",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "官方结果",
+   "en": "official result\",\"official score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定级结果组合",
+   "en": "combination of classification results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宣告结果",
+   "en": "announcement of the results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "result sheet\",\"score- list\",\"scoresheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩表",
+   "en": "table of results\",\"tournament table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对计时和成绩的抗议",
+   "en": "protest concerning timing and results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有线等效加密",
+   "en": "wired equivalent privacy (WEP)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "等价物",
+   "en": "equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0059",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在价值表现中处于等价形式上的商品。等价物随着价值形式的发展而发展。比如，20码麻布=1件上衣，麻布的价值相对地表现出来，处于相对价值形式，上衣则起等价物的作用或说处于等价形式。"
+  },
+  {
+   "cn": "抽检结果",
+   "en": "sampling inspection result",
+   "source": "消毒学",
+   "wordNumber": "5.2.14.5",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品抽样、检验后产生的数据和检验结论。"
+  },
+  {
+   "cn": "检查结果处理",
+   "en": "examination result processing",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.22",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "针对职业健康检查结果给出的处理意见，包括复查或其他处理意见。"
+  },
+  {
+   "cn": "监测结果报告",
+   "en": "monitoring results report",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生健康体检机构在结束检查后，反馈学生个体和群体体检项目的客观结果、健康评价结果并给出健康指导建议的资料。"
+  },
+  {
+   "cn": "实质等同性",
+   "en": "substantial equivalence",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.34",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "基于比较相对安全的风险评估原则，若某个新食品或食品成分与现有的食品或食品成分大体相同，则可认为具有相同的安全性。最早由经济合作与发展组织（OECD)提出用于转基因食品，作为预防风险的补充；现已扩展到食"
+  },
+  {
+   "cn": "当量剂量",
+   "en": "equivalent dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "辐射R在器官或组织T中产生的平均吸收剂量DT,R与辐射R的辐射权重因数wR的乘积。符号为HT,R。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "dose equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "组织内某一点的吸收剂量（D）与该点特定辐射的品质因数（Q）的乘积。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "衰减当量",
+   "en": "attenuation equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.30",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "相对于参考物质的厚度。即在规定的辐射线束和几何条件下以该厚度的参考物质代替所考虑的物质时，具有相同的衰减程度。"
+  },
+  {
+   "cn": "铅当量",
+   "en": "lead equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.31",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "用铅作为参考物质时，用铅的厚度来表示的某种物质衰减当量。单位为毫米铅（mm Pb）。"
+  },
+  {
+   "cn": "铝当量",
+   "en": "aluminum equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.19",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "用铝作为参考物质时，用铝的厚度来表示的某种物质衰减当量。单位为毫米铝（mm Al）。"
+  },
+  {
+   "cn": "等效能量",
+   "en": "equivalent energy",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.20",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "与所考虑的多能量辐射有相当特性的单能量辐射的能量。"
+  },
+  {
+   "cn": "等价交换",
+   "en": "equivalent exchange",
+   "source": "马克思主义",
+   "wordNumber": "02.0035",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不同使用价值按照由社会必要劳动时间决定的价值量进行等量互换的交易行为，是商品经济的基础法则。市场价格围绕市场价值的运动，使价格在趋势上与价值趋于一致，是等价交换原则的表现形式。"
+  },
+  {
+   "cn": "一般等价物",
+   "en": "universal equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0065",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展到一般价值形式时的表现形式，是从商品界分离出来表现其他一切商品价值的商品。随着商品交换的发展，经常出现并成为人们普遍乐意接受的某种商品便逐渐自发地从商品界分离出来，成为一般等价物。"
+  },
+  {
+   "cn": "特殊等价物",
+   "en": "particular equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0066",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在扩大的相对价值形式中，处于等价形式上的一切商品。即在“20码麻布=1件上衣，或=10磅茶叶，或=40磅咖啡，或=其他”这一总和的或扩大的价值形式中，除20码麻布以外的一切商品就都获得了特殊等价物的形"
+  },
+  {
+   "cn": "个别等价物",
+   "en": "individual equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0067",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与个别的简单相对价值形式相对应并表现其它价值的另一个商品，即处于个别等价形式的商品。如在“20码麻布=1件上衣”这一简单相对价值形式中，麻布则是作为个别等价物起作用。"
+  },
+  {
+   "cn": "等效球镜",
+   "en": "spherical equivalent",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "“柱镜度数/2+球镜度数”的计算结果。"
+  },
+  {
+   "cn": "当量剂量",
+   "en": "equivalent dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.25",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "辐射在器官或组织内产生的平均吸收剂量与辐射权重因数的乘积，符号为希沃特（Sv），单位是J/kg。代表低水平电离辐射对人体（包括辐照食品工作人员）的随机健康影响的剂量学量。"
+  },
+  {
+   "cn": "梯恩梯当量",
+   "en": "TNT equivalent",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.42",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "用常规化学炸药梯恩梯(TNT)爆炸威力表示的核爆炸释放的能量威力。"
+  },
+  {
+   "cn": "相当温度",
+   "en": "equivalent temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.2.5",
+   "subjectFullName": "军事预防医学_寒区军事卫生_环境冷强度",
+   "subjectName": "环境冷强度",
+   "publishYear": "2025",
+   "definition": "表示与某一有风环境的寒冷程度相当的无风环境的气温。"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "dose equivalent",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.26",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "组织内某一点的吸收剂量D 与该点特定辐射的品质因子的乘积，符号为希沃特（Sv），单位是J/kg。衡量电离辐射时人体（包括辐照食品工作人员）危害程度的一个物理量。只限于在辐射防护中使用，而不能用于高水平"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,722 @@
+{
+ "key": "emergent evolution",
+ "term": "emergent evolution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:22:26+00:00",
+ "status": "ok",
+ "note": "variant=emergent evolution; 审定公布名词库=2420; 海峡两岸名词对照库=692; 其他来源数据库=133; 预公布名词数据库=341; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "突生进化",
+   "en": "emergent evolution",
+   "source": "生态学名词",
+   "wordNumber": "04.012",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "在进化的过程中，新的性状或者特征以更复杂的组织水平出现的现象。"
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.070",
+   "subjectFullName": "自然辩证法_总论_自然图景",
+   "subjectName": "自然图景",
+   "publishYear": "2024",
+   "definition": "事物朝向预期的目标演变或发展，从一种状态过渡到另一种状态的过程。19世纪以后，通常用来指生物进化，即一切生命形态发生、发展的演变过程。生物进化论正是基于这一观念而产生。"
+  },
+  {
+   "cn": "进化",
+   "en": "evolution ",
+   "source": "草学名词",
+   "wordNumber": "2.0093",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "动物学名词",
+   "wordNumber": "2.0211",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "动物从低级向高级、由简单到复杂、由水生到陆生等的演变过程。"
+  },
+  {
+   "cn": "演化",
+   "en": "evolution",
+   "source": "物理学名词",
+   "wordNumber": "09.1286",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "植物学名词",
+   "wordNumber": "02.0151",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "生物物种为了适应时间和空间的改变，在形态结构和遗传组成上与祖先有所差异的现象。"
+  },
+  {
+   "cn": "演化",
+   "en": "evolution",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0058",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "由于投资者学习而使其在不同的投资期内表现出不同的投资偏好、信念等特征渐进的变化和发展过程。"
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "遗传学名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "在选择压力下，生物群体的遗传组成随时间而发生优胜劣汰的改变，并导致相应的表型的改变。在大多数情况下，这种改变使生物适应其生存环境。"
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "生态学名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "生物的演化过程。生物与其生存环境相互作用，其遗传结构发生改变，并产生相应的表型。"
+  },
+  {
+   "cn": "露旋",
+   "en": "evolute",
+   "source": "动物学名词",
+   "wordNumber": "5.0261",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "有孔虫房室平旋式壳生成的一种方式。彼此不包裹，可见所有房室，所有旋圈在两侧外露，可从两侧看到初房。"
+  },
+  {
+   "cn": "渐屈线",
+   "en": "evolute",
+   "source": "数学名词",
+   "wordNumber": "08.0957",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "量子式进化",
+   "en": "quantum evolution,tachytelic evolution",
+   "source": "遗传学名词",
+   "wordNumber": "07.007",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "处于不平衡状态的生物群体较快地变到明显不同于其祖先的平衡状态，在短时间内迅速完成一些重大的进化。"
+  },
+  {
+   "cn": "星系演化",
+   "en": "galaxy evolution; galactic evolution",
+   "source": "天文学名词",
+   "wordNumber": "07.246",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "在宇宙时标上，星系的密度、光度和其他特征量变化的过程。"
+  },
+  {
+   "cn": "急救",
+   "en": "emergency",
+   "source": "急救医学名词",
+   "wordNumber": "01.002",
+   "subjectFullName": "急救医学_急救概论_急救基本概念_通用概念",
+   "subjectName": "通用概念",
+   "publishYear": "2025",
+   "definition": "对突发疾病或受到意外伤害的需要医疗干预的人员进行紧急医疗处置的过程。"
+  },
+  {
+   "cn": "突现",
+   "en": "emergence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.735",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "在复杂系统演变与发展过程中，在宏观层次上突然出现的在结构和性能方面的质变的特性或现象。美国圣菲研究所提出，复杂性实际上就是一门关于“突现”的科学。"
+  },
+  {
+   "cn": "浮现",
+   "en": "emergence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.232",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "在哲学、系统论、科学和艺术中，更大的实体通过更小或更简单的实体之间的相互作用而生成的现象。更大的实体由此展现出更小或更简单的实体不具备的属性。"
+  },
+  {
+   "cn": "应急",
+   "en": "emergency",
+   "source": "行为医学名词",
+   "wordNumber": "4.065",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "机体应对出乎意料的突发事件、迫切需要或紧急情况的反应。"
+  },
+  {
+   "cn": "应急",
+   "en": "emergency",
+   "source": "核医学名词",
+   "wordNumber": "02.0550",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "为避免事故发生或减轻事故后果而立即采取的某些超出正常工作程序的行动。"
+  },
+  {
+   "cn": "涌现",
+   "en": "emergence",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0051",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "因局部组成部分之间的交互而产生系统全局行为，或缘起于微观的宏观效应。"
+  },
+  {
+   "cn": "突发事件",
+   "en": "emergency",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0668",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "突然发生，造成或者可能造成严重社会危害，需要采取应急处置措施予以应对的自然灾害、事故灾难、公共卫生事件和社会安全事件。"
+  },
+  {
+   "cn": "突生进化",
+   "en": "emergent evolution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "进化，演化",
+   "en": "evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演化（=进化）",
+   "en": "evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演变",
+   "en": "evolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化,演化",
+   "en": "evolution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "进化， 演化",
+   "en": "evolution",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进化,演化",
+   "en": "evolution",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进化",
+   "en": "evolution",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "发展",
+   "en": "evolution",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "爆发式进化",
+   "en": "explosive evolution\",\"eruptive evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "退行进化,退行演化",
+   "en": "regressive evolution\",\"retrogressive evolution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "爆发式进化",
+   "en": "explosive evolution\",\"eruptive evolution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子式进化",
+   "en": "quantum evolution\",\"tachytelic evolution",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "跳跃式进化（=量子[式]进化）",
+   "en": "saltational evolution (=quantum evolution)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "羽化",
+   "en": "emergence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "出现，露出",
+   "en": "emergence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分子进化",
+   "en": "molecular evolution",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分子进化",
+   "en": "molecular evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "间断进化",
+   "en": "punctuated evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "涌现",
+   "en": "emergence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关键时刻",
+   "en": "emergency",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合进化",
+   "en": "combinatorial evolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "演化学习",
+   "en": "evolutional learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "紧急救治",
+   "en": "emergency treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "出水",
+   "en": "emerge\",\"emersion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据进化论",
+   "en": "data evolution theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能新兴产业",
+   "en": "emerging AI industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融突发事件应急预案",
+   "en": "financial emergency plan",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新兴网络靶场",
+   "en": "emerging cyber range",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "突发公共卫生事件",
+   "en": "public health emergency",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天演",
+   "en": "evolution",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "通过自由竞争，社会和群体进一步适应环境，产生有利于物种、智力和精神的变异，发展出更高阶段的现象。严复译自赫胥黎《进化论与伦理学》中的evolution，但是综合了斯宾塞的社会进化论和儒家的体用、气、神"
+  },
+  {
+   "cn": "应急",
+   "en": "emergency",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "需要立即采取某些超出正常工作程序的行动以避免核或辐射事故发生或减轻核或辐射事故后果的状态；也泛指立即采取超出正常工作程序的行动。"
+  },
+  {
+   "cn": "社会演化",
+   "en": "social evolution",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会被认为是像生物有机体那样合乎规律地由简单到复杂、由低级向高级发展。一种把生物进化概念应用于社会研究，进而解释社会变迁与发展的社会学概念。"
+  },
+  {
+   "cn": "单线进化论",
+   "en": "unilateral evolution",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "认为人类所有文化基于单一的发展路线，并以同样的发展模式划分不同的发展阶段进行排序的理论。这一理论的代表有拉伯克(J.Lubbock）、马瑞特(Robert R.Marett）等。"
+  },
+  {
+   "cn": "普遍进化",
+   "en": "general evolution",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "人类文化发展为特点的总体变化模式。表现为由简单到复杂的趋向，强调演进的动因在于技术进步和人类摄取能量的不断提高而发展的模式。与“单线进化”、“多线进化”相对。"
+  },
+  {
+   "cn": "一般进化",
+   "en": "general evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0581",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "“特殊进化”的对称。由美国人类学家、新进化主义学派的代表人物塞维斯（Elman RogersService）和塞林斯（Marshall Sahlins）提出的概念。一般进化即人类文化依据某种绝对尺度从"
+  },
+  {
+   "cn": "单线进化论",
+   "en": "unilineal evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0499",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪的古典进化论学派所持主要观点。该观点认为，文化进化的动因是单一的，过程是由一阶段到另一阶段的单一发展，由简单到复杂、由原始到高级的直线进化，同文化的发展基本上都经历相同的顺序。"
+  },
+  {
+   "cn": "特殊进化",
+   "en": "special evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0582",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "“一般进化”的对称。由美国人类学家、新进化主义学派的代表人物塞维斯（Elman RogersService）和塞林斯（Marshall Sahlins）提出的概念。特殊进化即各个具体文化的具体进化，或"
+  },
+  {
+   "cn": "文化进化",
+   "en": "cultural evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0036",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类文化由简单到复杂、由低级到高级逐渐演变进化的过程。"
+  },
+  {
+   "cn": "多线进化论",
+   "en": "multiline evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0577",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家斯图尔德（Julian Haynes Steward）提出“多线进化”来解释文化间的差异和相似的问题，目的是寻求文化变迁的原因。该观点认为由于世界上的多种生态环境，形成了世界多种文化形态及"
+  },
+  {
+   "cn": "生物进化论",
+   "en": "biological evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0065",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种物种起源假说，由法国博物学家布封（Georges Louis Leclere de Buffon）和生物学家拉马克（Jean-Baptiste Lamarck）最早提出，英国生物学家达尔文（Cha"
+  },
+  {
+   "cn": "应急照射",
+   "en": "emergency exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在紧急情况下受到的照射。包括紧急情况直接导致的非计划照射以及为减轻紧急情况后果而采取行动的人员受到的有计划的照射。"
+  },
+  {
+   "cn": "应急准备",
+   "en": "emergency preparedness",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为应对核或辐射紧急情况而进行的准备工作。包括制定应急计划，建立应急组织，准备必要的应急设施、设备与物资，以及进行人员培训与演习等。"
+  },
+  {
+   "cn": "应急计划",
+   "en": "emergency plan",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.8",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为应对核或辐射紧急情况所制定并实施的一种经审批的文件或一组程序。它描述了该文件的编制与实施单位的应急响应功能、组织、设施和设备，以及和外部应急组织间的协调和相互支持关系。该文件还必须有专门的执行程序加"
+  },
+  {
+   "cn": "应急程序",
+   "en": "emergency procedure",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.9",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "详细描述应急响应人员在核或辐射紧急情况下需要采取的行动的一系列指示。"
+  },
+  {
+   "cn": "应急安排",
+   "en": "emergency arrangement",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在应急准备阶段落实的一组规则，以提供为执行响应核或辐射应急所要求的规定职能或任务的能力。可以包括管理机构和责任、组织、协调、人员、计划、程序、设施、设备或培训。"
+  },
+  {
+   "cn": "应急等级",
+   "en": "emergency class",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.12",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "有必要立即做出相似应急响应的一系列状态。用来向响应部门和公众通报所需的响应水平。针对每个应急等级，预先规定了响应部门的初始行动。"
+  },
+  {
+   "cn": "应急状态分级",
+   "en": "emergency classification",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.13",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "对某种应急状态进行分级以便宣布适用的应急等级的过程。应急等级一经宣布，响应部门就要启动适合这一应急等级的预先规定的响应行动。"
+  },
+  {
+   "cn": "应急待命",
+   "en": "emergency standby",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.13.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "出现可能危及核设施安全的工况或事件时的应急状态。需要迅速采取应急措施和进行评价，加强运营单位的响应准备，并视情况加强地方政府的响应准备。"
+  },
+  {
+   "cn": "厂房应急",
+   "en": "plant emergency",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.13.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "放射性物质的释放已经或者可能即将发生，但实际的或者预期的辐射后果仅限于场区局部区域的状态。需要迅速采取行动缓解事故后果和保护现场人员。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

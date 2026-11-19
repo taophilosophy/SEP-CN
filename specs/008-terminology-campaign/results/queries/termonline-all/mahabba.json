@@ -1,0 +1,42 @@
+{
+ "key": "mahabba",
+ "term": "maḥabba",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:21:43+00:00",
+ "status": "ok",
+ "note": "variant=maḥabba; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "MA型显示",
+   "en": "MA-display",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "06.205",
+   "subjectFullName": "机械工程_仪器仪表_试验机_无损检测仪器_超声检测仪",
+   "subjectName": "超声检测仪",
+   "publishYear": "2003",
+   "definition": "在探头扫查过程中，把所得到的A型显示图形连续叠加的显示。"
+  },
+  {
+   "cn": "ABBA平衡法",
+   "en": "ABBA counterbalan- cing",
+   "source": "心理学名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "将不同实验处理以正反两种顺序呈现给被试以平衡顺序效应的实验设计方法。"
+  },
+  {
+   "cn": "ABBA平衡法",
+   "en": "ABBA counterbalancing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

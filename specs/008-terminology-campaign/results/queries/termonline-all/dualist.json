@@ -1,0 +1,362 @@
+{
+ "key": "dualist",
+ "term": "dualist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:59:56+00:00",
+ "status": "ok",
+ "note": "variant=dualist; 审定公布名词库=44; 海峡两岸名词对照库=7; 其他来源数据库=2; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "卵巢癌二元论模型",
+   "en": "dualistic model of ovarian carcinoma",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "2.185",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤学基础_妇科肿瘤分子生物学",
+   "subjectName": "妇科肿瘤分子生物学",
+   "publishYear": "2022",
+   "definition": "根据形态学、分子遗传学和临床特征将上皮性卵巢癌分为Ⅰ、Ⅱ两种不同亚型的发病模式。2004年由施益民（Ie-Ming Shih）和库尔曼（R. J. Kurman）教授提出。"
+  },
+  {
+   "cn": "城乡二元结构",
+   "en": "dualism",
+   "source": "经济学名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "刘易斯假定发展中国家由两个部门组成：一个是传统的、人口众多的、仅仅能够维持基本生存的农业部门，这个部门的主要特征是边际劳动生产率为零；第二个部门是城市中的现代工业部门，这个部门具有很高的劳动生产率，工"
+  },
+  {
+   "cn": "二元论",
+   "en": "dualism",
+   "source": "心理学名词",
+   "wordNumber": "04.009",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "主张世界有精神和物质两个独立本原的哲学学说。在心理学上表现为身心或心物的对立。"
+  },
+  {
+   "cn": "对偶性",
+   "en": "duality",
+   "source": "经济学名词",
+   "wordNumber": "10.152",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "线性规划中存在的一种特性，即任何一个求解极大化的线性规划问题都有一个与之匹配的求解极小化的线性规划问题。例如，求解利润最大化问题与求解成本最小化问题对偶。Min{b′y∣A′y≤c, y≥0}称为问题"
+  },
+  {
+   "cn": "对偶性",
+   "en": "duality",
+   "source": "物理学名词",
+   "wordNumber": "05.1060",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对偶[性]",
+   "en": "duality",
+   "source": "化学工程名词",
+   "wordNumber": "05.147",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "对偶性",
+   "en": "duality",
+   "source": "数学名词",
+   "wordNumber": "011.0110",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶[性]",
+   "en": "duality",
+   "source": "电子学名词",
+   "wordNumber": "03.329",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "波粒二象性",
+   "en": "wave-particle duality,wave-particle dualism",
+   "source": "物理学名词",
+   "wordNumber": "06.0459",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "核二型性",
+   "en": "nuclear dualism",
+   "source": "动物学名词",
+   "wordNumber": "5.0475",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "纤毛虫或某些有孔虫中出现或存在两种不同类型核的现象。"
+  },
+  {
+   "cn": "地理学二元论",
+   "en": "geographical dualism",
+   "source": "地理学名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "将地理学区分为自然地理学和人文地理学的学术观点。"
+  },
+  {
+   "cn": "自对偶性",
+   "en": "self-duality",
+   "source": "物理学名词",
+   "wordNumber": "11.0716",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "斯通对偶",
+   "en": "Stone duality",
+   "source": "数学名词",
+   "wordNumber": "03.0302",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "塞尔对偶",
+   "en": "Serre duality",
+   "source": "数学名词",
+   "wordNumber": "04.1158",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "亚历山大对偶",
+   "en": "Alexander duality",
+   "source": "数学名词",
+   "wordNumber": "08.0758",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶[性]映射",
+   "en": "duality mapping",
+   "source": "数学名词",
+   "wordNumber": "07.0329",
+   "subjectFullName": "数学_泛函分析_非线性泛函分析",
+   "subjectName": "非线性泛函分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶原理",
+   "en": "duality principle",
+   "source": "数学名词",
+   "wordNumber": "08.0344",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶定理",
+   "en": "duality theorem",
+   "source": "数学名词",
+   "wordNumber": "011.0117",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "凸对偶",
+   "en": "convex duality",
+   "source": "数学名词",
+   "wordNumber": "011.0115",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶间隙",
+   "en": "duality gap",
+   "source": "数学名词",
+   "wordNumber": "011.0116",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "二元论",
+   "en": "dualism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对偶［性］",
+   "en": "duality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对偶[性]",
+   "en": "duality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地理学二元论",
+   "en": "geographical dualism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "社会二元论",
+   "en": "social dualism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "核二型性",
+   "en": "nuclear dualism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "对偶原理",
+   "en": "duality principle",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不二",
+   "en": "Advaya / Non-duality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二元社会结构",
+   "en": "dualistic social structure",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0649",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "新古典“结构-功能论”在“社会结构”研究领域的概念。为观察中国的经济社会结构转型提出的两个（一对）新概念：“伞式社会”用于观察“官方”主导的资源配置和经济社会发展，“蜂窝式社会”用于观察“普通老百姓”"
+  },
+  {
+   "cn": "二元论死亡观",
+   "en": "dualistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.029",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "一种混合着唯心主义和唯物主义的死亡观念。认为灵魂和身体是两个独立的实体，死亡是灵魂与身体的分离，身体消亡而灵魂不灭。"
+  },
+  {
+   "cn": "二元论",
+   "en": "dualism",
+   "source": "马克思主义",
+   "wordNumber": "01.0088",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "认为世界有两种各自独立、性质不同的本原，即思维和物质两个实体的哲学学说。它坚持意识离开物质而独立存在，其实质是唯心主义哲学观。。哲学史上二元论的著名代表人物之一是法国笛卡儿。"
+  },
+  {
+   "cn": "二元论",
+   "en": "dualism",
+   "source": "社会医学名词",
+   "wordNumber": "2.4.2",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物医学模式",
+   "publishYear": "2025",
+   "definition": "将事物划分为两种具有独立性且相互对立的根本属性的理论或方法。通常用于解释物质与精神、身体与意识等不同层面之间的关系。"
+  },
+  {
+   "cn": "性别二元论",
+   "en": "dualism of gender",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "以男人和女人以及相应的分野为隐喻的一种思维模式，对应于西方认知传统中的二元结构，即理性和情感、心智和肉体、客观和主观、主体和客体、公共和私人等范畴之间的对立和等级关系，由此形成一种等级制的统治逻辑。"
+  },
+  {
+   "cn": "人类—自然二元论",
+   "en": "human-nature dualism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.9",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种认为人类属于一个较高等级，与其他处于较低等级的动物界和非人类是相互分离的观点。"
+  },
+  {
+   "cn": "劳动二重性",
+   "en": "duality of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0043",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "生产商品的同一劳动同时具有的具体劳动和抽象劳动的属性或规定性。具体劳动生产商品的使用价值，抽象劳动生产商品的价值，是同一劳动过程形成的相互联系又对立的两个方面。马克思创立的劳动二重性学说，批判地继承了"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,602 @@
+{
+ "key": "malkhut kingdom's crown",
+ "term": "Malkhût Kingdom's Crown",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:05:41+00:00",
+ "status": "ok",
+ "note": "variant=Malkhût Kingdom's Crown; 审定公布名词库=445; 海峡两岸名词对照库=124; 其他来源数据库=10; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "齿尖",
+   "en": "crown",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0383",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_锥齿轮传动",
+   "subjectName": "锥齿轮传动",
+   "publishYear": "2021",
+   "definition": "齿轮的轴向剖面内顶锥与背锥的交点。"
+  },
+  {
+   "cn": "冠[部]",
+   "en": "crown",
+   "source": "动物学名词",
+   "wordNumber": "5.2926",
+   "subjectFullName": "动物学_无脊椎动物学_棘皮动物门",
+   "subjectName": "棘皮动物门",
+   "publishYear": "2021",
+   "definition": "柄海百合类棘皮动物的成体形似植物，由冠部和柄部组成，其放射状排列的部分。是口所在区域，由萼和腕两部分组成。"
+  },
+  {
+   "cn": "头顶",
+   "en": "crown",
+   "source": "动物学名词",
+   "wordNumber": "6.032",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_哺乳纲",
+   "subjectName": "哺乳纲",
+   "publishYear": "2021",
+   "definition": "哺乳动物额后的头背面正中部。"
+  },
+  {
+   "cn": "上冠",
+   "en": "crown",
+   "source": "电力名词",
+   "wordNumber": "16.049",
+   "subjectFullName": "电力_水电站机电设备",
+   "subjectName": "水电站机电设备",
+   "publishYear": "2020",
+   "definition": "混流式水轮机转轮上部用于固定叶片上端并与主轴进行机械连接的结构部件。"
+  },
+  {
+   "cn": "凸度",
+   "en": "crown",
+   "source": "冶金学名词",
+   "wordNumber": "09.0679",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "板材产品横断面形状中间厚度较大的部分，用其表示偏差。"
+  },
+  {
+   "cn": "路拱",
+   "en": "crown",
+   "source": "建筑学名词",
+   "wordNumber": "09.0055",
+   "subjectFullName": "建筑学_建筑设计_总图与场地",
+   "subjectName": "总图与场地",
+   "publishYear": "2014",
+   "definition": "路面横断面的两端与中间形成一定坡度的拱起形状。"
+  },
+  {
+   "cn": "上冠",
+   "en": "crown",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "25.0098",
+   "subjectFullName": "机械工程_动力机械_水轮机",
+   "subjectName": "水轮机",
+   "publishYear": "2013",
+   "definition": "固定混流式水轮机叶片上端并与主轴连接的环形构件。"
+  },
+  {
+   "cn": "胎冠",
+   "en": "crown",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.245",
+   "subjectFullName": "机械工程_汽车_底盘_车轮和轮胎",
+   "subjectName": "车轮和轮胎",
+   "publishYear": "2013",
+   "definition": "外胎两胎肩之间的整个部位。它包括胎面、缓冲层(或带束层)和帘布层等。"
+  },
+  {
+   "cn": "冠部",
+   "en": "crown",
+   "source": "古生物学名词",
+   "wordNumber": "02.0941",
+   "subjectFullName": "古生物学_古无脊椎动物学_棘皮动物门",
+   "subjectName": "棘皮动物门",
+   "publishYear": "2009",
+   "definition": "口所在区域，由萼和腕两部分组成。"
+  },
+  {
+   "cn": "齿冠",
+   "en": "crown",
+   "source": "古生物学名词",
+   "wordNumber": "02.1168",
+   "subjectFullName": "古生物学_古无脊椎动物学_分类位置未定",
+   "subjectName": "分类位置未定",
+   "publishYear": "2009",
+   "definition": "同牙形刺本体，即全牙形刺去掉底板和底锥的部分。"
+  },
+  {
+   "cn": "[隧道]拱顶",
+   "en": "crown",
+   "source": "土木工程名词",
+   "wordNumber": "09.140",
+   "subjectFullName": "土木工程_隧道与地下工程_隧道施工方法",
+   "subjectName": "隧道施工方法",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拱顶",
+   "en": "crown",
+   "source": "土木工程名词",
+   "wordNumber": "05.145",
+   "subjectFullName": "土木工程_建筑结构_构件及部件",
+   "subjectName": "构件及部件",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "路拱",
+   "en": "crown",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.135",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "鼓形修整",
+   "en": "crowning",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0136",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "采用齿向修形的办法，使轮齿的齿宽中部向外凸出。"
+  },
+  {
+   "cn": "路拱",
+   "en": "road crown,[subgrade] crown",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0235",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "树冠",
+   "en": "crown,canopy",
+   "source": "林学名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "树木地上部主干以上枝与叶集聚的部分。"
+  },
+  {
+   "cn": "倾伏端",
+   "en": "plunging crown",
+   "source": "地质学名词",
+   "wordNumber": "09.03.033",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "倾伏背斜的转折端在地表的表现，即褶皱两翼在平面上过渡闭合处。背斜褶皱面环绕倾伏端向外倾斜。"
+  },
+  {
+   "cn": "冠幅",
+   "en": "crown breadth",
+   "source": "风景园林名词",
+   "wordNumber": "08.0213",
+   "subjectFullName": "风景园林_风景园林工程_风景园林种植",
+   "subjectName": "风景园林种植",
+   "publishYear": "2025",
+   "definition": "苗木的南北和东西方向宽度的平均值。"
+  },
+  {
+   "cn": "冠径",
+   "en": "crown diameter",
+   "source": "风景园林名词",
+   "wordNumber": "08.0214",
+   "subjectFullName": "风景园林_风景园林工程_风景园林种植",
+   "subjectName": "风景园林种植",
+   "publishYear": "2025",
+   "definition": "苗木冠丛的最大幅度之间的距离。"
+  },
+  {
+   "cn": "郁闭度",
+   "en": "crown density",
+   "source": "风景园林名词",
+   "wordNumber": "12.0032",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "森林中乔木树冠投影面积占森林面积的比值。用十分法表示，以完全覆盖地面的程度为1，分为十个等级，依次为1.0、0.9、0.8、……、0.1。"
+  },
+  {
+   "cn": "冠骨针",
+   "en": "crown",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "树冠",
+   "en": "crown\",\"tree crown",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "树冠层",
+   "en": "crown canopy\",\"crown cover",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "头顶",
+   "en": "crown\",\"vertex",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "冠群",
+   "en": "crown group",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冠瘿",
+   "en": "crown gall",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "树冠",
+   "en": "tree crown",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "树冠比",
+   "en": "crown ratio",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "树冠厚度",
+   "en": "crown depth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "树冠火",
+   "en": "crown fire",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "子囊冠",
+   "en": "ascus crown",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "日冕",
+   "en": "solar crown",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "至尊的皇冠",
+   "en": "Crown Imperial",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Walton, William"
+  },
+  {
+   "cn": "人造冠",
+   "en": "artificial crown",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "边缘凸起",
+   "en": "edge crown",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "树冠厚度",
+   "en": "crown depth",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "冕牌玻璃",
+   "en": "crown glass",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "冠醚",
+   "en": "crown ether",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "冠状构象",
+   "en": "crown conformation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "树冠级",
+   "en": "crown class",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "桂冠",
+   "en": "crown",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "羽毛冠",
+   "en": "feather crown\",\"feathers",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "群智开放",
+   "en": "Crowd Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "褐色腰带",
+   "en": "brown belt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "褐色腰带",
+   "en": "brown belt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丑",
+   "en": "Ugliness/ Chou (Role of Clown in a Traditional Chinese Opera)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文不灭质，博不溺心",
+   "en": "Graceful Wording Should Not Conceal Content, and Intricate Rhetoric Should Not Drown Out the Author’s Feelings and Thoughts.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "顶臀长",
+   "en": "crown-rump length",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童仰卧位时头顶部最高点至臀部最低点的长度，主要反映脊柱的生长。"
+  },
+  {
+   "cn": "齿突加冠综合征",
+   "en": "crowned dens syndrome, CDS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.43",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "钙盐晶体在枢椎齿突周围软组织沉积的综合征，影像学征象犹如齿突戴上一项皇冠而得名。临床特征为急性发作颈椎疼痛和僵硬感，可伴发热和炎症标志物升高，甚至出现颈髓压迫征象。"
+  },
+  {
+   "cn": "褐心病",
+   "en": "brown core",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.10",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "水果（主要是苹果和梨）由不适宜的气体调节、急冷、水果衰老等原因造成核心区域褐变的症状。"
+  },
+  {
+   "cn": "糙米",
+   "en": "brown rice",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "稻谷脱去颖壳后的颖果。由皮层、胚乳和胚组成,质量一般占稻谷的78%~82%。"
+  },
+  {
+   "cn": "夜郎国",
+   "en": "Yelang Kingdom",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0177",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古政权名。战国至汉时，在今贵州西部、北部，以及云南东北、四川南部与广西北部部分地区。主要从事农业。汉初与南越、巴、蜀有贸易关系。汉武帝元鼎六年（-111）于其地置牂牁郡。"
+  },
+  {
+   "cn": "高昌国",
+   "en": "Gaochang Kingdom",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.018",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古政权名。公元五世纪中叶立国。辖境在今新疆吐鲁番地区。贞观十四年（640）为唐所灭，置高昌县。凡历阚氏高昌、张氏高昌、马氏高昌、麹氏高昌等四世。其居民以汉族为主，俗奉天神，流行佛教，兼信祆教、道教。"
+  },
+  {
+   "cn": "渤海国",
+   "en": "Bohai Kingdom",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0179",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古地方政权名。698 年，粟末靺鞨首领大祚荣称“震国王”（震一作“振”），建立政权。713年，唐玄宗册封大祚荣为“渤海郡王”，并加授忽汗州都督，始以“渤海”为号。926 年为契丹所灭。"
+  },
+  {
+   "cn": "南诏国",
+   "en": "Nanzhao Kingdom",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0178",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古政权名，在今云南一带，洱海地区；以大厘城（今大理）为中心的十睑（赕）是南诏政治、社会、经济、文化中心。由蒙舍部落首领皮罗阁于唐玄宗开元二十六年（738）建立。昭宗天复二年（902），汉人权臣郑买嗣灭"
+  },
+  {
+   "cn": "大气棕色云团",
+   "en": "atmospheric brown clouds, ABC",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.4.2.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "空气污染中的微粒飘浮在大气中与云交互作用后形成的混浊云团。"
+  },
+  {
+   "cn": "绝对平等王国",
+   "en": "absolute equality kingdom",
+   "source": "马克思主义",
+   "wordNumber": "04.0284",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "空想社会主义和小资产阶级社会主义关于未来社会经济、政治等各个方面都绝对平等主义的设想。在批判资本主义剥削和不平等方面具有积极意义，但它是超阶级、超历史的空想，受到马克思和恩格斯的批判。"
+  },
+  {
+   "cn": "南越国",
+   "en": "Nan Yue Kingdom",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0176",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古政权名。由秦末南海郡守将赵佗建立。汉高祖时，遣使封赵佗为南越王，赵佗向汉朝称臣纳贡；国人主要为越人。元嘉年间，汉武帝灭其国。共存93 年，历经5 任君主。"
+  },
+  {
+   "cn": "《华阳国志》",
+   "en": "Records of Huayang Kingdom",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0265",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "又名《华阳国记》。是一部专门记述古代中国西南地方历史、地理、人物等内容的地方志，东晋常璩所作，记录了从远古到东晋永和三年巴蜀史事，以及这些地方特产与历史人物。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

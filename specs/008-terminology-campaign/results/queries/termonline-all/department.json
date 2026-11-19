@@ -1,0 +1,512 @@
+{
+ "key": "department",
+ "term": "department",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:41:56+00:00",
+ "status": "ok",
+ "note": "variant=department; 审定公布名词库=135; 海峡两岸名词对照库=3; 其他来源数据库=8; 预公布名词数据库=27; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "部门预算",
+   "en": "department budget",
+   "source": "经济学名词",
+   "wordNumber": "11.028",
+   "subjectFullName": "经济学_财政与税收经济学",
+   "subjectName": "财政与税收经济学",
+   "publishYear": "2020",
+   "definition": "与财政部门直接发生缴拨款关系的一级预算单位的预算。由本部门所属各单位的预算组成。编制部门预算，就是要使各部门的工作根据预算走，认真落实政府的政策和方针，统一规划，合理配置资源；要严格按照政府的要求和政"
+  },
+  {
+   "cn": "部门审核",
+   "en": "department audit",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0815",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "以部门为中心涉及多个过程的审核。"
+  },
+  {
+   "cn": "百货商店",
+   "en": "department store",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0543",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "经营多种类型的产品线(通常包括服装、居家饰品和家庭用品等)、每条产品线作为一个单独的部门由采购专员或商家运作的一类零售组织。"
+  },
+  {
+   "cn": "百货商店",
+   "en": "department store",
+   "source": "建筑学名词",
+   "wordNumber": "02.0597",
+   "subjectFullName": "建筑学_建筑类型及组成_商业服务建筑",
+   "subjectName": "商业服务建筑",
+   "publishYear": "2014",
+   "definition": "有共同的营业大厅的、销售多种类型商品的综合商店。"
+  },
+  {
+   "cn": "职官学校",
+   "en": "department school",
+   "source": "教育学名词",
+   "wordNumber": "04.007",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古埃及中王国时期为培养能够从事专门职业工作的官吏而创设的具有职业教育性质的学校。"
+  },
+  {
+   "cn": "转系",
+   "en": "department transfer",
+   "source": "教育学名词",
+   "wordNumber": "08.195",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "高等学校学生由原注册系转入其他系注册学习的情况。通常由学生本人提出申请，经转出和转入系审查同意，报学校教务部门批准或备案。"
+  },
+  {
+   "cn": "销售部",
+   "en": "sales department",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.108",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "企业满足市场需求以产品销售为主要工作的部门。负责总体的营销活动，决定公司的营销策略和措施，并对营销工作进行评估和监控，包括公共关系、销售、客户服务等。"
+  },
+  {
+   "cn": "采访部",
+   "en": "interview department",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.029",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "新闻单位中专门负责新闻采访报道事务的机构。"
+  },
+  {
+   "cn": "编辑部",
+   "en": "editorial department",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.158",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "广义指新闻媒体内负责内容生产的组织机构；狭义指专门负责对稿件和版面进行后期编辑加工的组织机构，与采访部、评论部等并列。"
+  },
+  {
+   "cn": "评论部",
+   "en": "commentary department",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.253",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "在报刊中负责评论性内容生产的组织机构。"
+  },
+  {
+   "cn": "宣传部",
+   "en": "publicity department",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.134",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "由列宁创造的一种从事意识形态工作、大众信息、文化和艺术管理方面策略和政策制定及贯彻的苏联共产党的机构。中国共产党模仿苏联成立类似机构，负责在文艺工作和新闻工作中执行党的政策。进行宣传工作的工具包括“宣"
+  },
+  {
+   "cn": "媒介部",
+   "en": "media department",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.042",
+   "subjectFullName": "新闻学与传播学_广告_广告行业",
+   "subjectName": "广告行业",
+   "publishYear": "2022",
+   "definition": "广告公司的部门之一。主要包括媒介策划(或分析)和媒介购买两部分。媒介部门的主要任务是选择媒体、安排时间、购买媒体以及核实发布。"
+  },
+  {
+   "cn": "制作部",
+   "en": "production department",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.043",
+   "subjectFullName": "新闻学与传播学_广告_广告行业",
+   "subjectName": "广告行业",
+   "publishYear": "2022",
+   "definition": "广告公司的部门之一。包括完稿人员、流程监控人员。完稿人员负责将创意部门交付的广告原稿制作成在媒体上刊播的完稿形式；流程监控人员负责监督广告制作的进度，以及与外界协作厂商(如印刷厂等)的沟通协调工作。"
+  },
+  {
+   "cn": "市场部",
+   "en": "market department",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.044",
+   "subjectFullName": "新闻学与传播学_广告_广告行业",
+   "subjectName": "广告行业",
+   "publishYear": "2022",
+   "definition": "广告公司的部门之一。该部门主要由市场分析人员、市调设计人员、统计人员、访员、资料处理人员等组成。其主要工作分为事前测定、事中测定、事后测定三个部分。"
+  },
+  {
+   "cn": "创意部",
+   "en": "creative department",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.046",
+   "subjectFullName": "新闻学与传播学_广告_广告行业",
+   "subjectName": "广告行业",
+   "publishYear": "2022",
+   "definition": "广告公司的部门之一。创意部门的工作涵盖文案与设计两个方面，由创意总监统一督导。"
+  },
+  {
+   "cn": "广告部",
+   "en": "advertising department",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0604",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "公司内部处理与公司广告活动有关事务的特定部门。"
+  },
+  {
+   "cn": "职能部门",
+   "en": "functional department",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0428",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_职位分析与设计",
+   "subjectName": "职位分析与设计",
+   "publishYear": "2016",
+   "definition": "组织中从事计划、组织、指挥职能的行政管理部门。"
+  },
+  {
+   "cn": "借出处",
+   "en": "lending department",
+   "source": "建筑学名词",
+   "wordNumber": "02.0304",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "供办理借书、还书和读者登记的地方。设在书库与目录室的连接处。在借出台里还陈放着读者的借书档案。是图书馆中的藏书、阅览和服务三大工作内容的总枢纽。"
+  },
+  {
+   "cn": "理疗科",
+   "en": "physiotherapy department",
+   "source": "建筑学名词",
+   "wordNumber": "02.0555",
+   "subjectFullName": "建筑学_建筑类型及组成_医疗卫生建筑",
+   "subjectName": "医疗卫生建筑",
+   "publishYear": "2014",
+   "definition": "应用各种物理手段如力、电、光、热、声等来为病人进行物理治疗的医疗区域。光疗、电疗、水疗、蜡疗、体疗和针灸等都属于理疗的范畴。"
+  },
+  {
+   "cn": "急诊科",
+   "en": "emergency department",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "03.057",
+   "subjectFullName": "全科医学与社区卫生_社区急诊",
+   "subjectName": "社区急诊",
+   "publishYear": "2014",
+   "definition": "医院内从事急诊医学的科室。"
+  },
+  {
+   "cn": "地图制图专业",
+   "en": "cartography department",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "甲板部",
+   "en": "deck department",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "住宅微气候",
+   "en": "apartment microclimate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": " 联合国管理事务部",
+   "en": "Department of Management",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国外勤支助部",
+   "en": "Department of Field Support",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国维持和平行动部",
+   "en": "Department of Peacekeeping Operations",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国政治事务部",
+   "en": "Department of Political Affairs",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实施大部门制",
+   "en": "merge and streamline government departments",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "感染控制、检验、特诊、放射诊断科室",
+   "en": "infection control, clinical laboratory, special service and radiodiagnosis departments",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "富贵不能淫，贫贱不能移，威武不能屈",
+   "en": "never be corrupted by wealth or status, depart from principle due to poverty or humble position, or bow down to power or force",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "洁净手术部",
+   "en": "clean operating department",
+   "source": "消毒学",
+   "wordNumber": "4.6.14",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "由洁净手术室，洁净辅助用房和非洁净辅助用房等一部分或全部组成的有洁净度要求的区域。"
+  },
+  {
+   "cn": "普通手术部",
+   "en": "general operation department",
+   "source": "消毒学",
+   "wordNumber": "4.6.15",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "由非洁净手术室、非洁净辅助用房等一部分或全部组成的独立的功能区域。"
+  },
+  {
+   "cn": "民政部门",
+   "en": "civil affairs department",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.89",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国政府管理民政事务的职能部门。"
+  },
+  {
+   "cn": "急诊科伦理",
+   "en": "emergency department ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.065",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "对病情重、危、急、险或病情不可逆的患者进行诊治时涉及的伦理问题及应遵循的伦理规范。包括争分夺秒，积极抢救；勇担风险，团结协作；严谨周密，知情同意；满腔热忱，重视心理治疗；全面考虑，维护社会公益；加强业"
+  },
+  {
+   "cn": "民族工作部门",
+   "en": "department for ethnic work",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0051",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "党和国家管理和协调民族事务的工作机构，主要包括党委、政府、人大、政协等设立的相关机构。"
+  },
+  {
+   "cn": "医疗保险部门",
+   "en": "department of health insurance",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.4",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "根据相关法律法规，负责管理医疗保险基金的筹集与支付，并对医疗机构的服务费用和质量进行监督的部门。"
+  },
+  {
+   "cn": "麻醉科伦理",
+   "en": "ethics of anesthesia department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.07",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "围麻醉期和手术麻醉时涉及的伦理问题及应遵循的伦理规范。包括常规检查麻醉机和监护仪器的性能；术前选择最佳的麻醉方法，取得患者知情同意；麻醉期间坚守岗位，做好麻醉记录；术中冷静处理麻醉意外，术后做好交接与"
+  },
+  {
+   "cn": "老年病科伦理",
+   "en": "ethics of geriatric department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.072",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在诊治老年患者的过程中涉及的伦理问题及应遵循的伦理规范。包括尊重老人，服务周到；诊疗细心，格外重视；关注心理，加强沟通等。"
+  },
+  {
+   "cn": "特殊科室伦理",
+   "en": "ethics in special department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.063",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "针对特定人群或特殊疾病患者诊疗工作中涉及的伦理问题及其伦理规范。"
+  },
+  {
+   "cn": "精神科伦理",
+   "en": "ethics of psychiatry department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.067",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "预防和诊治精神疾患过程涉及的伦理问题及应遵循的伦理规范。包括尊重患者，极端负责；正直无私，恪守审慎；规范强迫性治疗，严防滥施强制性措施；恰当对待异性患者等。"
+  },
+  {
+   "cn": "放射科伦理",
+   "en": "ethics of radiology department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.071000000000001",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "运用放射技术为患者进行诊疗时涉及的伦理问题及应遵循的伦理规范。包括一丝不苟，防止遗漏；加强防护，降低损伤；举止端庄，尊重人格；加强设备管理，保护环境等。"
+  },
+  {
+   "cn": "烧伤科伦理",
+   "en": "ethics of burn department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.069",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在诊治烧伤患者的过程中涉及的伦理问题及医务人员应遵循的伦理规范。包括及时抢救的使命感和责任感；注重环境卫生，预防交叉感染；严格执行无菌操作，重视消毒隔离制度；重视重度烧伤患者的早期整形等。"
+  },
+  {
+   "cn": "孕产保健部",
+   "en": "department of maternal health care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.3.2.1.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼健康体系",
+   "subjectName": "妇幼健康体系",
+   "publishYear": "2025",
+   "definition": "妇幼保健机构设置的一级业务部门，是围绕孕产妇人群健康问题设置医疗保健服务的组织形式。主要为妇女提供婚前、孕前、孕期、医学遗传与产前筛查、分娩和产后保健等服务，同时负责对基层进行孕产保健技术指导，并开展"
+  },
+  {
+   "cn": "卫生服务管理部门",
+   "en": "department of health care administration",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.3",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "依据法律法规及相关规定，负责对各级卫生服务机构、卫生专业技术人员及其提供的卫生服务进行监督和管理的部门，主要为政府卫生行政部门。"
+  },
+  {
+   "cn": "消毒供应中心",
+   "en": "central sterile supply department, CSSD",
+   "source": "消毒学",
+   "wordNumber": "4.6.19",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "在医院内承担各科室重复使用诊疗器械、器具和物品清洗、消毒、灭菌以及无菌物品供应的部门。"
+  },
+  {
+   "cn": "应急反应部门职责",
+   "en": "responsibility of emergency response department",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "学校突发公共卫生事件应急反应的主体部门，根据法律法规、规范性文件和预案的要求在应急反应中应履行的责任和承担的任务。"
+  },
+  {
+   "cn": "整形科伦理",
+   "en": "ethics of plastic surgery department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.0680000000000005",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "实施再造整形的过程中涉及的伦理问题及应遵循的伦理规范。包括认真做好患者的心理治疗与心理护理；尊重患者的人格和生理缺陷等。"
+  },
+  {
+   "cn": "传染病科伦理",
+   "en": "ethics of infectious diseases department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.073",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在传染病防治过程中涉及的伦理问题及应遵循的伦理规范。包括重视消毒隔离，严防疾病扩散；加强预防保健意识，开展卫生保健教育；不畏传染危险，真情无私奉献；加强心理疏导，减轻心理压力等。"
+  },
+  {
+   "cn": "妇女保健部",
+   "en": "department of women's health care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.3.2.1.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼健康体系",
+   "subjectName": "妇幼健康体系",
+   "publishYear": "2025",
+   "definition": "妇幼保健机构设置的一级业务部门，是围绕非孕期妇女人群健康问题设置医疗保健服务的组织形式。主要提供群体保健、青春期保健、更老年期保健、乳腺保健、妇科常见病防治以及中医妇科等服务，同时负责对基层进行妇女保"
+  },
+  {
+   "cn": "儿童保健部",
+   "en": "department of children's health care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.3.2.1.4.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼健康体系",
+   "subjectName": "妇幼健康体系",
+   "publishYear": "2025",
+   "definition": "妇幼保健机构设置的一级业务部门，是围绕儿童人群健康问题设置医疗保健服务的组织形式。主要提供儿童群体保健、新生儿疾病筛查、生长发育、营养与喂养、心理卫生、眼和口腔保健、耳鼻喉保健及高危儿管理等服务，同时"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

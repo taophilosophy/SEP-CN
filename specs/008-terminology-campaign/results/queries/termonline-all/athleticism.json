@@ -1,0 +1,62 @@
+{
+ "key": "athleticism",
+ "term": "athleticism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:29:28+00:00",
+ "status": "ok",
+ "note": "variant=athleticism; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=2; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "田径场",
+   "en": "athletics,track field",
+   "source": "建筑学名词",
+   "wordNumber": "02.0461",
+   "subjectFullName": "建筑学_建筑类型及组成_体育建筑",
+   "subjectName": "体育建筑",
+   "publishYear": "2014",
+   "definition": "用于田径运动比赛或训练的场地。标准比赛场地为环形跑道，由两个平行的直道和两个半径相等的弯道组成，并设有田径比赛场地。"
+  },
+  {
+   "cn": "体育公园",
+   "en": "athletics park",
+   "source": "林学名词",
+   "wordNumber": "09.082",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "以突出开展体育活动为主题的公园。"
+  },
+  {
+   "cn": "田径馆",
+   "en": "indoor athletics stadium",
+   "source": "建筑学名词",
+   "wordNumber": "02.0460",
+   "subjectFullName": "建筑学_建筑类型及组成_体育建筑",
+   "subjectName": "体育建筑",
+   "publishYear": "2014",
+   "definition": "泛指设有田径运动场地的室内田径比赛馆和田径练习馆。"
+  },
+  {
+   "cn": "竞技体育",
+   "en": "athletics\",\"performance sport",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "田径运动",
+   "en": "athletics\",\"track and field",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

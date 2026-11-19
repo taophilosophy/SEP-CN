@@ -1,0 +1,812 @@
+{
+ "key": "positive discrimination",
+ "term": "positive discrimination",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:53:55+00:00",
+ "status": "ok",
+ "note": "variant=positive discrimination; 审定公布名词库=1374; 海峡两岸名词对照库=459; 其他来源数据库=142; 预公布名词数据库=42; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "16.036",
+   "subjectFullName": "新闻学与传播学_媒体与传播伦理_职业道德与报道伦理",
+   "subjectName": "职业道德与报道伦理",
+   "publishYear": "2022",
+   "definition": "不公正、不公平地对待某类个人或群体的态度、行为、规定和政策。"
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "经济学名词",
+   "wordNumber": "04.037",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "仅仅由于种族、宗教集团、性别、年龄或其他个人特征的不同，其他条件相似的个人会得到不同机会的现象。"
+  },
+  {
+   "cn": "鉴别",
+   "en": "discrimination",
+   "source": "物理学名词",
+   "wordNumber": "01.0130",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分辨",
+   "en": "discrimination",
+   "source": "心理学名词",
+   "wordNumber": "02.239",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "感知觉中对于刺激与刺激之间差别的区分能力。"
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "心理学名词",
+   "wordNumber": "07.120",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体对不属于自身群体成员的消极态度与行为。"
+  },
+  {
+   "cn": "甄别器",
+   "en": "discriminator",
+   "source": "核医学名词",
+   "wordNumber": "03.0261",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "设置一种甄别电压，只允许超过一定高度的电脉冲通过，而将低于该高度的电脉冲“甄别”出去(不予记录)的仪器。可用来消除若干低能量的本底信号干扰提高信噪比。"
+  },
+  {
+   "cn": "判别标识",
+   "en": "discriminant",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2335",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "可用于识别判定不同类型事件的地震信号的特征性标识。 "
+  },
+  {
+   "cn": "判别式",
+   "en": "discriminant",
+   "source": "数学名词",
+   "wordNumber": "04.0232",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "辨音",
+   "en": "tonal discrimination",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.32",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "区分不同声音的感知过程。"
+  },
+  {
+   "cn": "价格歧视",
+   "en": "price discrimination",
+   "source": "农学名词",
+   "wordNumber": "19.120",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "厂商在同一时间内在同一种物品和服务上对不同消费者制定不同价格的行为。"
+  },
+  {
+   "cn": "模型识别",
+   "en": "model discrimination",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.057",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "对于一个具体的化工过程，从不同的假定条件出发，可以得出两个或两个以上的“竞争”模型。根据实验所得数据，将不合适的模型剔除掉的过程。"
+  },
+  {
+   "cn": "分化",
+   "en": "discrimination;differentiation",
+   "source": "行为医学名词",
+   "wordNumber": "2.019",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "通过选择性强化和消退习得对条件刺激及其相近（或类似）刺激做出不同反应的过程。"
+  },
+  {
+   "cn": "震相辨别",
+   "en": "phase discrimination",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0935",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "根据震相应具备的特征，从地震图中辨别震相的工作。 "
+  },
+  {
+   "cn": "地震鉴别",
+   "en": "seismic discrimination",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0098",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_安全",
+   "subjectName": "安全",
+   "publishYear": "2022",
+   "definition": "对地震产生的类型、规模大小进行区分与识别的工作。 "
+  },
+  {
+   "cn": "模型筛选",
+   "en": "model discrimination",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.062",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "从候选模型中鉴别出能反映实际反应过程的变化规律的最适宜的模型的过程。"
+  },
+  {
+   "cn": "价格歧视",
+   "en": "price discrimination",
+   "source": "经济学名词",
+   "wordNumber": "03.133",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "厂商在同一时间内在同一种物品和服务上对不同消费者制定不同价格的行为。厂商只有在能够分离或者区分不同的市场、不同市场具有不同需求价格弹性以及消费者不能在市场之间转售商品等条件下，才能有效地实施价格歧视。"
+  },
+  {
+   "cn": "工资歧视",
+   "en": "wage discrimination",
+   "source": "经济学名词",
+   "wordNumber": "07.107",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "劳动力市场歧视的一种表现形式，指在生产率特征完全相同的情况下，某个群体的劳动者只是由于身份或特征（如性别、种族、年龄、身体健康状况、国籍、户籍等）的不同而遭受到歧视性的工资待遇。"
+  },
+  {
+   "cn": "就业歧视",
+   "en": "employment discrimination",
+   "source": "经济学名词",
+   "wordNumber": "07.108",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "劳动力市场歧视的一种表现形式，指在生产率特征完全相同的情况下，某个群体的劳动者只是由于身份或特征（如性别、种族、年龄、身体健康状况、国籍、户籍等）的不同而难以获得就业机会或者容易遭到解雇。"
+  },
+  {
+   "cn": "职业歧视",
+   "en": "occupational discrimination",
+   "source": "经济学名词",
+   "wordNumber": "07.109",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "劳动力市场歧视的一种表现形式，指在生产率特征完全相同的情况下，某个群体的劳动者只是由于身份或特征（如性别、种族、年龄、身体健康状况、国籍、户籍等）的不同而被限制或禁止进入某些行业，相反，这些劳动者经常"
+  },
+  {
+   "cn": "雇主歧视",
+   "en": "employer discrimination",
+   "source": "经济学名词",
+   "wordNumber": "07.112",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "在劳动力市场上，即使某个群体的劳动力与其他群体的劳动力具有相同的生产率特征，但由于雇主假定该群体劳动力生产率偏低，在进行雇佣和工资决策时，使该群体劳动力遭受歧视性待遇。"
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分辨",
+   "en": "discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "识别子",
+   "en": "discriminator",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "［可］区辨性",
+   "en": "discriminability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "差别关税",
+   "en": "discriminating tariff (=discriminating duty)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "歧视性关税",
+   "en": "discriminating tariff (=discriminating duty)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "性别歧视",
+   "en": "sex discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "项目区分度,项目鉴别力",
+   "en": "item discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件性辨别",
+   "en": "conditioned discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同时性辨别",
+   "en": "simultaneous discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "辨别刺激,分辨刺激",
+   "en": "discrimination stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别指数",
+   "en": "discrimination index",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "辨别学习",
+   "en": "discrimination learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "亲缘辨别",
+   "en": "kin discrimination",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "辨别学习",
+   "en": "discrimination learning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "质量歧视效应",
+   "en": "mass discrimination",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "费率差别区别对待",
+   "en": "rate discrimination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "价格歧视",
+   "en": "price discrimination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易歧视",
+   "en": "trade discrimination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "完全歧视",
+   "en": "perfect discrimination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "算法歧视",
+   "en": "algorithm discrimination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融歧视",
+   "en": "financial discrimination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跪撑开始姿势!",
+   "en": "Position!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站姿",
+   "en": "standing position\",\"upright position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蹲踞姿势",
+   "en": "squat position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "extended position\",\"stretched position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团身姿势",
+   "en": "C position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "屈体姿势",
+   "en": "B position\",\"pike position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "A position\",\"straight position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意姿势",
+   "en": "D position\",\"free position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开始姿势",
+   "en": "initial position\",\"ready position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "社会学名词",
+   "wordNumber": "4.1.19.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群际关系",
+   "subjectName": "群际关系",
+   "publishYear": "2025",
+   "definition": "由于具有某些个人特征（如年龄、性别、身体素质、地域、国籍、种族、宗教信仰），人们在社会生活的某些方面（如教育、就业、婚姻）受到外界（如某些机构、某方面政策）不同于他人、他群体的不平等、不公正的对待的现"
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.115",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "不平等地、差别对待个体或群体、组织的行为。"
+  },
+  {
+   "cn": "文化歧视",
+   "en": "cultural discrimination",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.10",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "不公正或不平等地对待与自身文化基本上处于平等地位的文化（但从某一角度进行比较时，某一文化会显出某些缺陷与劣势）。通常建立在文化偏见的态度或情感之上。"
+  },
+  {
+   "cn": "性别歧视",
+   "en": "gender discrimination",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.17",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "基于性别差异而导致的对不同性别群体的差异性和不平等对待，包括带有等级偏见的言论、制度和行为等。最常体现为全社会对女性以及同性恋等性少数群体的差别对待甚至压制和排斥。"
+  },
+  {
+   "cn": "社会歧视",
+   "en": "social discrimination",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.45",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "基于与肤色、国籍、宗教、政治、文化、阶级、性别、年龄等相关联的刻板印象以及种族主义、男性中心主义等观念，在个体和群体间借用权力不公正地对待他者的社会区隔现象。"
+  },
+  {
+   "cn": "民族歧视",
+   "en": "ethnic discrimination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0043",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "按照民族成分划分人们的社会地位和法律地位，限制和侵犯某些民族的基本权利的现象。民族歧视对民族团结、社会稳定和人类的文明进步都极其有害，受到大多数国家法律的禁止和人民的反对，只有消灭剥削制度和民族压迫制"
+  },
+  {
+   "cn": "语言歧视",
+   "en": "language discrimination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0169",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "因所使用的语言与主流社会不一致而在社会生活中受到不公正对待的现象。"
+  },
+  {
+   "cn": "社会歧视",
+   "en": "social discrimination",
+   "source": "社会医学名词",
+   "wordNumber": "3.5.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会支持",
+   "publishYear": "2025",
+   "definition": "基于与肤色、国籍、宗教、政治、文化、阶级、性别、年龄等相关联的刻板印象以及种族主义、男性中心主义等观念，在个体和群体间借用权力不公正地对待他者的社会区隔现象。"
+  },
+  {
+   "cn": "辨别效度",
+   "en": "discriminant validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.78",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "“分歧效度”。基于多重指标所测量的概念或特质的不相关关系，通过计算指标之间的不相关关系而测量其效度的方法。"
+  },
+  {
+   "cn": "劳动力市场歧视",
+   "en": "labor market discrimination",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.56",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在劳动力市场上雇主因为某种社会价值观念、风俗习惯以及个人偏好等非效率、非经济因素，而对具有相同生产率、但具有诸如宗教、种族、区域、性别、年龄等不同个人特征的劳动力进行区别定价、区别的现象。"
+  },
+  {
+   "cn": "歧视与不平等",
+   "en": "discrimination and inequality",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "出于各种原因对他人做出贬低的评价和对待，使他人不能得到平等待遇。在社会工作者与案主或其他专业人员沟通时，应避免不当的负面评论与歧视。社会工作者应以一种关怀与尊重的态度对待每个人，关注个别差异和文化及种"
+  },
+  {
+   "cn": "一级价格歧视",
+   "en": "first-degree price discrimination",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "按照消费者愿意为每一单位商品支付的最高价格来定价的策略。"
+  },
+  {
+   "cn": "二级价格歧视",
+   "en": "second-degree price discrimination",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "根据消费者购买的商品量来确定价格的定价策略。"
+  },
+  {
+   "cn": "三级价格歧视",
+   "en": "third-degree price discrimination",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "根据消费者的不同类型来确定价格的定价策略。"
+  },
+  {
+   "cn": "正面启发法",
+   "en": "positive heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家通过研究纲领发展理论与设计实验，主动解决问题或预测现象。"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且有益的影响。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "阳性偏差",
+   "en": "positive deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阴性结果，而可替代方法却得出未经证实的阳性结果，如果后者被证明为阴性，这种偏离便是一个假阳性"
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "特定阶级在社会分层系统中所处的位置，主要由市场状态、工作状态和身份状态所决定。是新韦伯主义阶级理论中的一个重要概念，由英国社会学家洛克伍德(David Lockwood）提出，是新韦伯主义阶级理论家进"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

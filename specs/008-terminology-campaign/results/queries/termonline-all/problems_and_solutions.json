@@ -1,0 +1,692 @@
+{
+ "key": "problems and solutions",
+ "term": "Problems and Solutions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:47:59+00:00",
+ "status": "ok",
+ "note": "variant=Problems and Solutions; 审定公布名词库=10000; 海峡两岸名词对照库=2061; 其他来源数据库=1288; 预公布名词数据库=1066; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "定解问题",
+   "en": "definite solution problem",
+   "source": "地质学名词",
+   "wordNumber": "16.05.111",
+   "subjectFullName": "地质学_水文地质学_水文地质调查",
+   "subjectName": "水文地质调查",
+   "publishYear": "2026",
+   "definition": "研究由偏微分方程描述某种物理过程或现象,并根据系统的状态变量的某些特定条件(包括初始条件、边界条件等)来确定整个系统的状态变量的变化规律，即研究状态的数学表达式。"
+  },
+  {
+   "cn": "大地主题正解",
+   "en": "direct solution of geodetic problem",
+   "source": "测绘学名词",
+   "wordNumber": "02.344",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "已知一点的大地经度、大地纬度以及该点至待求点的大地线长度和大地方位角，计算待求点的大地经度、大地纬度和待求点至已知点的大地方位角的解算。"
+  },
+  {
+   "cn": "大地主题反解",
+   "en": "inverse solution of geodetic problem",
+   "source": "测绘学名词",
+   "wordNumber": "02.345",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "已知两点的大地经度和大地纬度，计算这两点间的大地线长度和正反大地方位角的解算。"
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.108",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "时间和空间问题",
+   "en": "time and space problem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0352",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "多项式时间复杂性类是否等于多项式空间复杂性类的问题，即是否P = PSPACE的问题。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "地质学名词",
+   "wordNumber": "05.01.051",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由至少两种物质组成的均一、稳定的混合物。被分散的物质(溶质)以分子或更小的质点分散于另一物质(溶剂)中。根据溶液状态，可分为气体溶液、固体溶液和液体溶液，一般的溶液都专指液体溶液。"
+  },
+  {
+   "cn": "解决方案",
+   "en": "solution",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.246",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "针对某些已经体现出的或者预期出现的问题、需求等，所提出的一个解决整体问题的方案，同时能够确保加以有效地执行。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "冶金学名词",
+   "wordNumber": "04.0152",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "两种或两种以上的物质均匀混合，彼此以分子(或原子)大小的数量级均匀分布而构成的连续相物质。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "化学名词",
+   "wordNumber": "01.0031",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "由两种或两种以上物质组成的均匀、稳定的分散体系。溶液由溶质和溶剂组成。固体状态的溶液，如某些合金。液态溶液如盐水、糖水。气态溶液如纯净空气。通常所指的溶液是液态溶液。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "药学名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "一种或几种物质分散到另一种物质里，形成的均一的、稳定的混合物。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "02.036",
+   "subjectFullName": "中医药学_皮肤科学_治疗",
+   "subjectName": "治疗",
+   "publishYear": "2013",
+   "definition": "将单味药或复方加水煎熬或溶解到一定浓度，过滤所得的液体制剂。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0061",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷剂和载冷剂",
+   "subjectName": "制冷剂和载冷剂",
+   "publishYear": "2013",
+   "definition": "由溶质和溶剂组成的均匀液体。未指明溶剂时一般指水溶液。"
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "化学工程名词",
+   "wordNumber": "03.408",
+   "subjectFullName": "化学工程_传递过程与单元操作_传质分离过程_吸收",
+   "subjectName": "吸收",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "解",
+   "en": "solution",
+   "source": "数学名词",
+   "wordNumber": "01.0051",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "溶解[作用]",
+   "en": "solution",
+   "source": "地质学名词",
+   "wordNumber": "05.224",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "冶金学名词",
+   "wordNumber": "04.0154",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "溶解于溶液中而且量较少的物质。"
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0690",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "溶液中被溶解的物质。溶质可以是固体，也可以是液体或气体。两种物质互溶时，一般把量少的一种叫溶质。这里指溶解于液体溶剂中的气体。"
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "化学名词",
+   "wordNumber": "01.0033",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "溶液中被溶解的物质。溶质被溶剂所分隔，往往不能保持本身的连续状态。通常固体或气体物质溶于液体时，固体或气体物质是溶质。液态物质溶于液态物质时，量少者为溶质。"
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "化学工程名词",
+   "wordNumber": "03.409",
+   "subjectFullName": "化学工程_传递过程与单元操作_传质分离过程_吸收",
+   "subjectName": "吸收",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "报童问题",
+   "en": "newsboy problem,newsvendor problem",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0565",
+   "subjectFullName": "管理科学技术_运筹与管理_物流与供应链管理",
+   "subjectName": "物流与供应链管理",
+   "publishYear": "2016",
+   "definition": "为了满足单周期随机需求以最大化收益或者最小化费用的一次订货策略问题。"
+  },
+  {
+   "cn": "大地主题反解",
+   "en": "inverse solution of geodetic problem",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "大地主题正解",
+   "en": "direct solution of geodetic problem",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "溶解",
+   "en": "solution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "方案",
+   "en": "solution",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "溶液",
+   "en": "solution",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶质",
+   "en": "solute",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贝塞尔大地主题解算公式",
+   "en": "Bessel formula for solution of  geodetic problem",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "等渗溶液",
+   "en": "isotonic solution\",\"isoosmotic solution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution\",\"perfect solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摩尔溶液",
+   "en": "molal solution\",\"molar solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反[演]问题",
+   "en": "inverse problem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "问题解决",
+   "en": "problem solving",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应问题",
+   "en": "correspondence problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内倾问题",
+   "en": "internalizing problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运输问题",
+   "en": "transportation problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无约束问题",
+   "en": "unconstrained problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "背包问题",
+   "en": "knapsack problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "停机问题",
+   "en": "halting problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题求解",
+   "en": "problem solving",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题导向",
+   "en": "problem-oriented",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "解空间",
+   "en": "solution space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题界定与分析解释",
+   "en": "problem definition, analysis and explanation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "通过对服务对象自身、外部环境以及服务对象的系统进行详细描述，以确定服务对象问题的发生原因与现状，并鉴定服务对象的优势与资源的专业活动。"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problems",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "社会成员普遍认为不符合社会预期，违反社会价值，扰乱社会秩序的社会现象。对社会稳定有负面影响，需要运用社会力量对社会结构进行调整和干预，对社会制度进行修正。"
+  },
+  {
+   "cn": "环境问题",
+   "en": "environmental problem",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.3",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "由于人类活动作用于周围环境所引起的环境质量变化，以及这种变化对人类的生产、生活和健康造成的影响。"
+  },
+  {
+   "cn": "妇女问题",
+   "en": "female problem",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.54",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "妇女因其性别而在经济、政治、社会和家庭省会中遇到的各种特殊障碍，导致她们在个人和家庭生活质量，以及在教育、就业、收入和社会政治参与等方面普遍存在劣势的问题。"
+  },
+  {
+   "cn": "民族问题",
+   "en": "national problem",
+   "source": "马克思主义",
+   "wordNumber": "03.0118",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在民族发展和交往过程中产生的民族与民族之间的各种矛盾和问题，如民族歧视、民族纠纷、民族压迫等。民族问题是一个历史问题和社会政治问题，它在历史发展的不同时期表现出不同的性质和特点。解决民族问题，核心是实"
+  },
+  {
+   "cn": "农民问题",
+   "en": "peasants problem",
+   "source": "马克思主义",
+   "wordNumber": "04.0080",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁于1921年2月8日俄共（布）中央政治局会议上写了《农民问题提纲初稿》，这是一篇表明苏维埃俄国农业政策、甚至整个经济政策重大变化的文献。列宁开始考虑用粮食税代替余粮征集。这篇文献奠定了新经济政策的"
+  },
+  {
+   "cn": "总问题",
+   "en": "General problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0069",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》，指文本的深层结构，即一种思想产生和发展时所处的意识形态环境与这一思想的内在整体。"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "社会中存在的人与自然、人与社会以及人与人之间关系的严重失调或冲突现象，影响社会的正常运转，阻碍社会的协调发展。例如，人口问题、环境污染问题、腐败问题、贫困问题、就业问题等。"
+  },
+  {
+   "cn": "问题识别",
+   "en": "problem identification",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "通过对社会现象的分析、公众意见的收集或专家判断，将某一具体情况明确为需要政策干预的公共问题的过程，是整个政策过程的起点。"
+  },
+  {
+   "cn": "儿童少年行为问题",
+   "en": "behavioral problem of child and adolescent",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "发生在儿童少年时期行为偏倚在严重程度、持续时间上都超过相应年龄段允许范围的异常行为。"
+  },
+  {
+   "cn": "标准溶液",
+   "en": "standard solution",
+   "source": "消毒学",
+   "wordNumber": "6.1.7",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "已知其主体成分准确浓度或其他特性量值的溶液。"
+  },
+  {
+   "cn": "储存溶液",
+   "en": "storage solution",
+   "source": "消毒学",
+   "wordNumber": "6.1.8",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "比使用浓度高，使用前需要稀释的浓标准溶液。"
+  },
+  {
+   "cn": "染色液",
+   "en": "staining solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.11",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "能使生物体着色的化学物质。"
+  },
+  {
+   "cn": "脱色液",
+   "en": "destaining solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.12",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "能够除去染色后的细菌菌体上的染色剂，从而对细菌进行鉴别的试剂。"
+  },
+  {
+   "cn": "采样液",
+   "en": "sampling solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "空气微生物采样时，收集和保存所采集微生物的液体，如含中和剂的磷酸盐缓冲液、生理盐水等。"
+  },
+  {
+   "cn": "儿童少年心理卫生问题",
+   "en": "mental health problem of child and adolescent",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "儿童少年在心理健康方面存在的偏倚。"
+  },
+  {
+   "cn": "搭便车问题",
+   "en": "free rider problem",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "因为公共物品具有非竞争性和非排他性特征，使得具有理性自利特征的行动者不会积极主动地发起集体行动、提供集体物品以满足所属集团或组织的需要，而是采取不付成本或少付成本，坐享他人付出之利的行动策略。这反过来"
+  },
+  {
+   "cn": "价值转形问题",
+   "en": "value transformation problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0122",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在马克思的劳动价值论中，价值转化为生产价格被学术界称为价值转形理论。"
+  },
+  {
+   "cn": "都留重人问题",
+   "en": "Shigeto Tsuru problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0154",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "日本都留重人针对我国对外开放中出现的弊端曾指出“对外开放应该有节制”。事实上，我国经济在对外开放的牵引下取得了高速的增长，但也带来了过分依靠外资和外国技术的弊端，这种弊端现在也无法完全克服。"
+  },
+  {
+   "cn": "问题行为理论",
+   "en": "problem-behavior theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "杰瑟尔（Jessor）提出的基于行为由人与环境相互作用产生的前提来阐述青少年问题行为的性质及发生发展过程的社会心理学框架。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

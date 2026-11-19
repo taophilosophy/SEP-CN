@@ -1,0 +1,772 @@
+{
+ "key": "general model organisms",
+ "term": "general model organisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:30:47+00:00",
+ "status": "ok",
+ "note": "variant=general model organisms; 审定公布名词库=7791; 海峡两岸名词对照库=2454; 其他来源数据库=408; 预公布名词数据库=514; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "模式生物",
+   "en": "model organism",
+   "source": "兽医学名词",
+   "wordNumber": "09.089",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "作为实验模型以研究特定生物学现象的动物、植物和微生物。从研究模式生物得到的结论，通常可适用于其他生物。"
+  },
+  {
+   "cn": "模式生物",
+   "en": "model organism",
+   "source": "植物学名词",
+   "wordNumber": "10.0093",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "作为实验模型以研究特定生物学现象的动物、植物和微生物。从研究模式生物得到的结论，通常可适用于其他同类生物。"
+  },
+  {
+   "cn": "模式生物",
+   "en": "model organism",
+   "source": "遗传学名词",
+   "wordNumber": "05.039",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "作为实验模型以研究特定生物学现象的动物、植物和微生物。从研究模式生物得到的结论，通常可适用于其他生物。"
+  },
+  {
+   "cn": "生成模型",
+   "en": "generative model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0598",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "统计自然语言处理中常用的一类统计机器学习模型，对随机生成观察数据的过程进行建模。一般包含隐变量，形式上是观察变量和隐藏变量的联合概率分布，典型的生成模型包括隐马尔可夫模型、概率上下文无关模型等。"
+  },
+  {
+   "cn": "模型生成",
+   "en": "model generation",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0337",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "在系统内形成一组能反映实体运动形态的模型的生成过程。"
+  },
+  {
+   "cn": "模型生成器",
+   "en": "model generator",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.323",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "生成、编辑、集成分析模型的软件工具。"
+  },
+  {
+   "cn": "广义建模",
+   "en": "generalized modeling",
+   "source": "自动化名词",
+   "wordNumber": "06.030",
+   "subjectFullName": "自动化科学技术_经济控制与生物控制论_经济控制",
+   "subjectName": "经济控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "串行组织模式",
+   "en": "serial organization model",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0255",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_技术管理",
+   "subjectName": "技术管理",
+   "publishYear": "2016",
+   "definition": "按照技术创新过程的不同阶段，循序渐进地依次安排技术创新活动的模式。"
+  },
+  {
+   "cn": "一般均衡模型",
+   "en": "general equilibrium model",
+   "source": "自动化名词",
+   "wordNumber": "06.065",
+   "subjectFullName": "自动化科学技术_经济控制与生物控制论_经济控制",
+   "subjectName": "经济控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "制图综合模型",
+   "en": "cartographic generalization model",
+   "source": "测绘学名词",
+   "wordNumber": "04.215",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "描述制图综合中某些关系的数学表达式，即制图综合规律以数学方法表达的数学关系式。"
+  },
+  {
+   "cn": "广义线性模型",
+   "en": "generalized linear model",
+   "source": "数学名词",
+   "wordNumber": "09.0665",
+   "subjectFullName": "数学_概率论_数理统计_线性模型",
+   "subjectName": "线性模型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "格布纳模式",
+   "en": "Gerbner model;Gerbner's general model",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.177",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "由传播学者乔治·格布纳(George Gerbner)提出的一种模式。它包括文字模式和图解模式。其文字模式包括(1)某人；(2)感知到某事；(3)并做出反应；(4)在某种场合下；(5)借助某种工具；("
+  },
+  {
+   "cn": "可计算一般均衡模型",
+   "en": "computable general equilibrium model,CGE model",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0769",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "同时考虑所有市场之间、具有行为最优化的多个经济主体之间以及经济主体和市场之间相互联系的数值模拟模型，用于与经济相关的政策分析和经济评价。"
+  },
+  {
+   "cn": "大气环流模式",
+   "en": "general circulation model,GCM",
+   "source": "林学名词",
+   "wordNumber": "02.018",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "描写地–气系统各种物理过程和大气环流演变与性状的数学模式。用以模拟和预测全球和大区域大气环流与气候的变化。"
+  },
+  {
+   "cn": "大气环流模式",
+   "en": "general circulation model,GCM",
+   "source": "大气科学名词",
+   "wordNumber": "05.539",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "描写大气环流演变过程和性状的大气模式。一般含有对其有重要影响的辐射、凝结加热、地形、海—气或地—气热量交换和边界层作用等。"
+  },
+  {
+   "cn": "大气环流模型",
+   "en": "general circulation model,GCM",
+   "source": "生态学名词",
+   "wordNumber": "09.103",
+   "subjectFullName": "生态学_全球生态学",
+   "subjectName": "全球生态学",
+   "publishYear": "2006",
+   "definition": "模拟全球和大区域气候变化过程的一种大气动力学模型。"
+  },
+  {
+   "cn": "大气环流模式",
+   "en": "general circulation model,GCM",
+   "source": "地理学名词",
+   "wordNumber": "04.135",
+   "subjectFullName": "地理学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2006",
+   "definition": "描写地-气系统各种物理过程和大气环流演变与性状的数学模式。用以模拟和预测大气环流与气候的变化。"
+  },
+  {
+   "cn": "一般气候模型",
+   "en": "general climate model,GCM",
+   "source": "地理学名词",
+   "wordNumber": "25.129",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "关于气候过程的一组方程，涉及大气的流体力学特征和热力学特征，被用于模拟气候变化。"
+  },
+  {
+   "cn": "可计算一般均衡模型",
+   "en": "computable general equilibrium model",
+   "source": "自动化名词",
+   "wordNumber": "06.066",
+   "subjectFullName": "自动化科学技术_经济控制与生物控制论_经济控制",
+   "subjectName": "经济控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "有机式组织",
+   "en": "organic organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "松散、灵活的具有高度适应性的组织形式。具有低复杂性、低正规化和分权化的特点。"
+  },
+  {
+   "cn": "模式生物",
+   "en": "model organism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模式生物",
+   "en": "model organism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "通用模型",
+   "en": "general models",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "模型生成器",
+   "en": "model generator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "管风琴大键盘",
+   "en": "general organ\",\"GO",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一般线性模型",
+   "en": "general linear model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一般气候模型",
+   "en": "general climate model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "通用要素模型",
+   "en": "general feature model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "广义线性模型",
+   "en": "generalized linear model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大气环流模式",
+   "en": "general circulation model\",\"GCM",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大气环流模型",
+   "en": "general circulation model\",\"GCM",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大气环流模式",
+   "en": "general circulation model\",\"GCM",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "海洋环流模式",
+   "en": "oceanic general circulation model\",\"OGCM",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物",
+   "en": "organism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有机体",
+   "en": "organism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "器官",
+   "en": "organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "器官",
+   "en": "organ",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "管风琴",
+   "en": "organ",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "用户生产内容模式",
+   "en": "user-generated content (UGC) model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比赛组织者",
+   "en": "organizer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生",
+   "en": "Generate",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "专业生产内容盈利模式",
+   "en": "professionally generated content (PGC) profit model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据组织",
+   "en": "Data Organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扁平化组织",
+   "en": "flat organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型组织",
+   "en": "sharing organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态型组织",
+   "en": "ecotype organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能组织",
+   "en": "intelligent organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无边界组织",
+   "en": "boundaryless organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷组织",
+   "en": "agile organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云组织",
+   "en": "cloud organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织价值",
+   "en": "organization value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化组织",
+   "en": "Standardization Organizations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸器官",
+   "en": "respiratory organs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组委会",
+   "en": "organizing committee",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广义线性模型",
+   "en": "generalized linear models (glm)",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.81",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "基于线性模型的结构，容纳了非正态和定类以及定序因变量的单一的统一的模型理论形式。"
+  },
+  {
+   "cn": "他组织",
+   "en": "organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "在外部因素的控制、管理和引导下，个人被纳入和吸收进组织或群体，并能从中获得某中特定的“组织人”身份，受到各种组织安排的组织化过程。与“自组织”相对。"
+  },
+  {
+   "cn": "概括",
+   "en": "generalization",
+   "source": "马克思主义",
+   "wordNumber": "01.0017",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们形成和深化对客体本质认识的一种思维过程和思维方法，即在思维活动中，把关于具有相同特征和属性的若干客观事物的初步认识，提炼和升华为更具普遍性或深刻性的范畴和结论，以拓展认识的广度和深度。概括是以实践"
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.04",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "出自同一祖先关系的人，不论其年龄的差别，只要是世数或辈份相同的人，即为一世代。一个世代通常包括同父、同母或父母均同的一代后裔。"
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "source": "消毒学",
+   "wordNumber": "5.2.8",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "用来区别不同消毒器械的编号。"
+  },
+  {
+   "cn": "有机杂质",
+   "en": "organic impurity",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "食品中所含有的非食品正常组分的外来有机物。如粮食、油料中的根、茎、叶、颖壳、野生植物种子、昆虫、异种粮油粒及病斑变质粮油粒等。"
+  },
+  {
+   "cn": "器官剂量",
+   "en": "organ dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.1",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "人体某一特定器官或组织T的平均吸收剂量，符号为DT。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "有机闪烁体",
+   "en": "organic scintillator",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.34",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种由有机物质组成的闪烁体。"
+  },
+  {
+   "cn": "检验组织",
+   "en": "testing organization",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "组织实施个人剂量监测系统性能检验活动的组织或机构。"
+  },
+  {
+   "cn": "有机玻璃",
+   "en": "organic glass",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.20",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "聚甲基丙烯酸甲酯。可作为β射线屏蔽材料，密度为1.18g·cm-3。"
+  },
+  {
+   "cn": "源器官",
+   "en": "source organ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.4",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中含有一定量放射性核素、发出射线的机体器官。"
+  },
+  {
+   "cn": "靶器官",
+   "en": "target organ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.7",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中吸收辐射能量的机体器官。"
+  },
+  {
+   "cn": "正式组织",
+   "en": "formal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们为了达到某种共同目标，将其行为彼此协调与联合起来所形成的具有一定结构和特定功能的社会团体，具有正式、公开的组织目标、组织结构、组织规范和组织活动，其成员间的关系由正式的规章制度加以规定和约束。与“"
+  },
+  {
+   "cn": "非正式组织",
+   "en": "informal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们在正式组织所安排的共同工作和相互接触中自然形成的以感情、爱好等情绪为基础的松散的、没有正式规定的群体。最早由美国管理学家埃尔顿·梅奥(Elton Mayo）通过“霍桑实验”提出。与“正式组织”相对"
+  },
+  {
+   "cn": "组织系统",
+   "en": "organization system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "既指为达成某个特定目标，组织内部各要素按一定的秩序和相互关联组合而成的有机整体，亦指组织作为开放系统与其环境中相关的若干组织之间，按照一定的秩序互动而形成的有机集合体。"
+  },
+  {
+   "cn": "合作组织",
+   "en": "cooperation organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "个人与群体或群体与群体之间为达到共同目标，遵循自愿、互利、合作、民主等组织原则，彼此相互配合协作、联合行动而结合成的组织形式，按其功能可分为政治性、经济性或其他性质的，按其范围可分为区域性、国际性或国"
+  },
+  {
+   "cn": "功能组织",
+   "en": "functional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "基于功能或任务建立的一种组织结构类型。在这类组织中，由代表组织的专门人员或单位负责组织程序或目标的实施、评价和控制。"
+  },
+  {
+   "cn": "专业性组织",
+   "en": "professional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "为了增进某种特殊专业知识，或为增进从事该专业人士的利益和公众利益而组成的非营利性的组织。"
+  },
+  {
+   "cn": "联盟组织",
+   "en": "union organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.7",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "由两个以上自然人、公司、组织或政府（或任何以上之组合）以共享彼此资源为目标，通过参与共同活动、推动共同成果而形成的专业团体。"
+  },
+  {
+   "cn": "公益组织",
+   "en": "commonwealth organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.8",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "一种非政府的、不把利润最大化当作首要目标，实行自主管理的民间志愿性的社会中介组织，其主要活动是致力于社会公众的福祉和利益以及解决各种社会性问题等。如基金会、协会、慈善信托、社团等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

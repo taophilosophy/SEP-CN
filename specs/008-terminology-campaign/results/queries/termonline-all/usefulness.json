@@ -1,0 +1,782 @@
+{
+ "key": "usefulness",
+ "term": "usefulness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:44:16+00:00",
+ "status": "ok",
+ "note": "variant=usefulness; 审定公布名词库=464; 海峡两岸名词对照库=75; 其他来源数据库=62; 预公布名词数据库=61; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "使用",
+   "en": "use",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.035",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人们根据器物的性能和用途，不损毁其形式或者不变更其性质，利用它实现其目的的过程。"
+  },
+  {
+   "cn": "利用",
+   "en": "use",
+   "source": "行为医学名词",
+   "wordNumber": "2.097",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "（1）使事物或人发挥作用。（2）使人或事物为自己服务，发挥效用。"
+  },
+  {
+   "cn": "使用",
+   "en": "use",
+   "source": "运动医学名词",
+   "wordNumber": "09.044",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "通过任何方式利用、应用、摄取、注射或消费任何禁用物质或禁用方法的行为。"
+  },
+  {
+   "cn": "用",
+   "en": "use",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.290",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "叙词指引词。只在非叙词下使用，其后所列的词是与款目词等同的叙词。"
+  },
+  {
+   "cn": "使用",
+   "en": "use",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1025",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "利用器具或装置所做的动作。从控制工具进行工作的瞬间开始，到工具使用完毕的瞬间结束。"
+  },
+  {
+   "cn": "使用有效率",
+   "en": "use effectiveness,use efficiency",
+   "source": "计划生育名词",
+   "wordNumber": "05.040",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "实际使用过程中所出现的效果。"
+  },
+  {
+   "cn": "有用组分",
+   "en": "useful component",
+   "source": "地质学名词",
+   "wordNumber": "14.03.044",
+   "subjectFullName": "地质学_矿床学_矿体形态与矿石结构构造",
+   "subjectName": "矿体形态与矿石结构构造",
+   "publishYear": "2026",
+   "definition": "矿石中具有经济价值，在当前经济技术条件下能被提取利用的组分。包括元素、化合物、矿物等。当矿石中含有多种有用组分时，按其在矿石中含量和工业意义，可分为主要有用组分、共生有用组分、伴生有用组分等。是评价矿"
+  },
+  {
+   "cn": "永续利用",
+   "en": "sustainable use",
+   "source": "风景园林名词",
+   "wordNumber": "04.0355",
+   "subjectFullName": "风景园林_风景名胜_风景名胜区管理",
+   "subjectName": "风景名胜区管理",
+   "publishYear": "2025",
+   "definition": "通过对风景名胜区科学规划、统一管理以及严格保护等手段，以实现风景名胜资源得以持续地被人类利用，既要满足当代人的利用需要，又不对后代人满足其需要的能力构成危害。"
+  },
+  {
+   "cn": "学术利用",
+   "en": "academic use",
+   "source": "档案学名词",
+   "wordNumber": "03.05.003",
+   "subjectFullName": "档案学_档案管理_档案利用与编研",
+   "subjectName": "档案利用与编研",
+   "publishYear": "2024",
+   "definition": "利用者利用档案进行学术研究，通过查找和选择馆藏资料来获取和传播知识。"
+  },
+  {
+   "cn": "实际利用",
+   "en": "practical use",
+   "source": "档案学名词",
+   "wordNumber": "03.05.004",
+   "subjectFullName": "档案学_档案管理_档案利用与编研",
+   "subjectName": "档案利用与编研",
+   "publishYear": "2024",
+   "definition": "利用者利用档案为实际工作服务，通过查找和选择馆藏资料来直接帮助工作决策。"
+  },
+  {
+   "cn": "普遍利用",
+   "en": "general use",
+   "source": "档案学名词",
+   "wordNumber": "03.05.005",
+   "subjectFullName": "档案学_档案管理_档案利用与编研",
+   "subjectName": "档案利用与编研",
+   "publishYear": "2024",
+   "definition": "档案馆向普通公民宣传档案或是提供主动服务。"
+  },
+  {
+   "cn": "使用片",
+   "en": "used film",
+   "source": "档案学名词",
+   "wordNumber": "05.04.021",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "专供使用的缩微拷贝片。多以中间片为母片制作。"
+  },
+  {
+   "cn": "保护性利用",
+   "en": "conservative use ",
+   "source": "草学名词",
+   "wordNumber": "2.0621",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "许可使用",
+   "en": "licenced use",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.05.003",
+   "subjectFullName": "编辑与出版学_著作权_著作权利用和转移",
+   "subjectName": "著作权利用和转移",
+   "publishYear": "2022",
+   "definition": "著作权人授权他人以一定的方式，在一定的时期和一定的地域范围内商业性使用其作品并收取报酬的行为。著作权许可使用并不改变著作权的归属。通过著作权许可使用合同，被许可人所获得的仅仅是在一定期间、在约定的范围"
+  },
+  {
+   "cn": "专有使用权",
+   "en": "exclusive use",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.05.005",
+   "subjectFullName": "编辑与出版学_著作权_著作权利用和转移",
+   "subjectName": "著作权利用和转移",
+   "publishYear": "2022",
+   "definition": "使用者经著作权人许可，在一定期间取得独占或排他形式使用作品的权利。专有使用权的内容由合同约定，合同没有约定或者约定不明的，视为被许可人有权排除包括著作权人在内的任何人以同样的方式使用作品；除合同另有约"
+  },
+  {
+   "cn": "合理使用",
+   "en": "fair use",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.06.001",
+   "subjectFullName": "编辑与出版学_著作权_著作权限制与著作权保护",
+   "subjectName": "著作权限制与著作权保护",
+   "publishYear": "2022",
+   "definition": "在法律规定或作者无保留相关权利的条件下，直接无偿使用已发表的享有著作权的作品，而无须经著作权人许可的著作财产权限制制度。合理使用所限制的是著作财产权，不影响著作人身权，即使用时应当指明作者姓名、作品名"
+  },
+  {
+   "cn": "物质使用",
+   "en": "substance use",
+   "source": "行为医学名词",
+   "wordNumber": "15.02",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾",
+   "subjectName": "成瘾",
+   "publishYear": "2022",
+   "definition": "使用一种或多种特定精神活性物质的状况。特定物质包括阿片类、大麻类、可卡因、致幻剂、烟草和挥发性吸入剂等。"
+  },
+  {
+   "cn": "酒精使用",
+   "en": "alcohol use",
+   "source": "行为医学名词",
+   "wordNumber": "15.038",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾",
+   "subjectName": "成瘾",
+   "publishYear": "2022",
+   "definition": "个体或社会群体饮用酒精饮品的状况。"
+  },
+  {
+   "cn": "土地使用",
+   "en": "land use",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.133",
+   "subjectFullName": "城乡规划学_城乡规划总述_用地",
+   "subjectName": "用地",
+   "publishYear": "2021",
+   "definition": "（1）人类占有土地并用以实现特定需求的方式。（2）在城乡规划中特指土地的用途。"
+  },
+  {
+   "cn": "有效螺纹",
+   "en": "useful thread",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0026",
+   "subjectFullName": "机械工程（一）_机械零件_紧固件_螺纹",
+   "subjectName": "螺纹",
+   "publishYear": "2021",
+   "definition": "由完整螺纹和不完整螺纹组成的螺纹，不包括螺尾。"
+  },
+  {
+   "cn": "有效的",
+   "en": "useful",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有用的",
+   "en": "useful",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "判定使用",
+   "en": "predicate use\",\"p-use",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "联合利用",
+   "en": "conjunctive use",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可持续利用",
+   "en": "sustainable use",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可持续利用",
+   "en": "sustainable use",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地图利用",
+   "en": "map use",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "土地利用",
+   "en": "land use",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "并行应用",
+   "en": "concurrent use",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单个使用",
+   "en": "single use",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图利用",
+   "en": "map use",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "计算使用",
+   "en": "computation use",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "使用寿命",
+   "en": "useful life",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "使用寿命",
+   "en": "useful life",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有用昆虫",
+   "en": "useful insect",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "补偿性资源利用",
+   "en": "complementary resource use",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耗水比",
+   "en": "water use ratio",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "工业用洗涤剂",
+   "en": "industrial-use detergent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "里德尔",
+   "en": "Riedl\",\"Bartholomäus(奥地利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "土地利用规划",
+   "en": "land-use planning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可感知有用性",
+   "en": "perceived usefulness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非法使用",
+   "en": "illegal use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "许可使用",
+   "en": "licensed use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "特许使用",
+   "en": "franchised use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自由使用",
+   "en": "free use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "使用价值",
+   "en": "value of use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "使用权共享",
+   "en": "use right sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据使用价值",
+   "en": "use value of data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "使用权共享市场",
+   "en": "use right sharing market",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据使用权",
+   "en": "right to data use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据恶意使用",
+   "en": "malicious use of data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协调扶助",
+   "en": "harmonious use of aids",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "以战止战",
+   "en": "Use War to Stop War",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "假象见意",
+   "en": "Use Imagery to Express Meaning",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源公用化",
+   "en": "data resource for public use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同情用药",
+   "en": "compassionate use of a drug (to use a drug not yet approved under the compassionate use program)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "院本",
+   "en": "Jin Opera / Scripts Used by Courtesans",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "使用寿命",
+   "en": "useful life",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "消毒设备的有效使用期限。"
+  },
+  {
+   "cn": "使用因子",
+   "en": "use factor",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.28",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "放射防护屏蔽计算中的一个因子，指辐射源入射到某一屏蔽墙的时间占辐射源总照射时间的份额。"
+  },
+  {
+   "cn": "有用射束",
+   "en": "useful beam",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "由准直器限定的直接用于照射或测量目的的辐射束。"
+  },
+  {
+   "cn": "使用价值",
+   "en": "use value",
+   "source": "马克思主义",
+   "wordNumber": "02.0032",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "对人类生存和发展有用的自然物品或人造物品，是构成财富的物质内容，也用来表示物和人之间的自然关系。使用价值是价值的物质承担者。"
+  },
+  {
+   "cn": "有用劳动",
+   "en": "useful labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0048",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "满足一定社会需要的有目的的生产使用价值的具体活动。"
+  },
+  {
+   "cn": "烟草使用",
+   "en": "tobacco use",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "吸烟者抽吸、吸吮、咀嚼或鼻吸各类烟草制品的行为，烟草制品包括卷烟、雪茄烟、吸用烟丝和无烟气烟草制品。"
+  },
+  {
+   "cn": "注射吸毒",
+   "en": "injection drug use",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过注射给药的方式使用毒品的行为。"
+  },
+  {
+   "cn": "食品添加剂超限量使用",
+   "en": "food additive use exceeded maximum use level",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品添加剂使用标准所允许的特定食品中超出使用限量添加食品添加剂"
+  },
+  {
+   "cn": "使用点预处理",
+   "en": "point-of-use preparation",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.4",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "在使用点对使用后的诊疗器械、器具和物品的分类、去除表面及管腔内明显污物、根据需要保湿等处理。"
+  },
+  {
+   "cn": "特殊医用清洗剂",
+   "en": "detergent for special use",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.10.5",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "具有抗抑菌、去除生物膜、除垢除锈等专门作用的医用清洗剂。"
+  },
+  {
+   "cn": "电离辐射医学应用",
+   "en": "medical uses of radiation",
+   "source": "放射卫生学",
+   "wordNumber": "2.11",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "利用或借助于放射性同位素或射线装置产生各类射线进行医学诊断、疾病治疗或生物医学研究等活动的统称。主要包括X射线诊断、核医学诊疗、放射治疗和介入放射诊疗。"
+  },
+  {
+   "cn": "电离辐射工业应用",
+   "en": "industrial uses of radiation",
+   "source": "放射卫生学",
+   "wordNumber": "2.12",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "利用电离辐射的穿透特性以及通过不同物质会被不同程度吸收或散射等原理来开展探伤、辐照加工、测厚、称重、料位检测等工业应用的统称。这些应用不仅提高工业生产的效率和安全性，还可促进相关技术的发展和创新。"
+  },
+  {
+   "cn": "探测器使用寿命",
+   "en": "useful life of detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.31",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "辐射探测器的效率在无明显下降时所能预期达到的总计数时间。"
+  },
+  {
+   "cn": "直接使用核材料",
+   "en": "direct-use nuclear material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "不需要经过转变或进一步富集，可直接用于制造核爆炸装置部件的核材料，如238Pu含量低于80%的钚、高浓缩铀和233U。"
+  },
+  {
+   "cn": "间接使用核材料",
+   "en": "indirect-use nuclear material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.4",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "除直接使用的核材料以外的所有核材料。"
+  },
+  {
+   "cn": "尝试吸烟",
+   "en": "life time cigarette use",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "具有曾吸过烟的行为，包括只吸一两口。"
+  },
+  {
+   "cn": "电脑使用卫生要求",
+   "en": "hygiene of computer use",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "为舒适使用电脑工作，电脑布置、使用电脑的姿势和使用环境所需要达到的要求。"
+  },
+  {
+   "cn": "限制性会阴切开",
+   "en": "restrictive use of episiotomy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.15",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "分娩过程对产妇不进行常规会阴切开，当出现会阴过紧或胎儿过大、估计分娩时会阴撕裂难以避免，或母儿有病理情况急需结束分娩等情况时才考虑实施会阴切开的策略。"
+  },
+  {
+   "cn": "避孕方法续用率",
+   "en": "continuous use of contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "在某一时点（一般以满某年而计），在同时启用某种避孕方法的所有使用者中，持续使用该方法的使用者所占的百分比。本指标在一定程度上反映该避孕方法使用者的依从性。"
+  },
+  {
+   "cn": "避孕方法正确使用",
+   "en": "correct use of contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "使用者规范的避孕行为。为确保某种避孕方法最大程度地发挥避孕效果，始终严格按照产品或技术的使用说明，坚持和正确地使用该方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

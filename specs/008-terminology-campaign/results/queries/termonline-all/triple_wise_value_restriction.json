@@ -1,0 +1,772 @@
+{
+ "key": "triple-wise value-restriction",
+ "term": "triple-wise value-restriction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:35:28+00:00",
+ "status": "ok",
+ "note": "variant=triple-wise value-restriction; 审定公布名词库=4164; 海峡两岸名词对照库=1097; 其他来源数据库=175; 预公布名词数据库=173; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "三元组",
+   "en": "triple",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0150",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "编译常用的中间语言形式之一。由操作码、源操作数和目的操作数三部分组成，结果由三元式编号表示。"
+  },
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "source": "数学名词",
+   "wordNumber": "01.0061",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "湿地合理利用",
+   "en": "wetland wise use",
+   "source": "林学名词",
+   "wordNumber": "03.255",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_湿地",
+   "subjectName": "湿地",
+   "publishYear": "2016",
+   "definition": "在维持湿地生态系统自然属性的前提下，使湿地能够可持续地为人类提供福利的利用方式。"
+  },
+  {
+   "cn": "逐步回归",
+   "en": "step-wise regression",
+   "source": "数学名词",
+   "wordNumber": "09.0704",
+   "subjectFullName": "数学_概率论_数理统计_线性模型",
+   "subjectName": "线性模型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "三通阀",
+   "en": "triple valve",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0306",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "三结点",
+   "en": "triple junction",
+   "source": "地质学名词",
+   "wordNumber": "09.06.070",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "动态或静态重结晶使颗粒边界交汇处形成的三个角近于相等(约120°)的三连点。"
+  },
+  {
+   "cn": "三联点",
+   "en": "triple junction",
+   "source": "地质学名词",
+   "wordNumber": "10.01.032",
+   "subjectFullName": "地质学_大地构造学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "板块构造图上分割三个板块的边界交汇点。板块边界包括洋中脊、海沟和转换断层三种类型，而三联点可由任意类型的三个边界组合而成，因此,理论上板块三联点的组合形式可有10种。板块三联点的稳定性差异甚大，取决于"
+  },
+  {
+   "cn": "三次气",
+   "en": "triple air",
+   "source": "精细化工名词",
+   "wordNumber": "05.0321",
+   "subjectFullName": "精细化工_涂料_涂装处理工艺",
+   "subjectName": "涂装处理工艺",
+   "publishYear": "2025",
+   "definition": "用于喷枪尖端清扫的气体。"
+  },
+  {
+   "cn": "三合星",
+   "en": "triple star",
+   "source": "天文学名词",
+   "wordNumber": "08.673",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "由3颗恒星组成的聚星。"
+  },
+  {
+   "cn": "三体碰撞",
+   "en": "triple collision",
+   "source": "天文学名词",
+   "wordNumber": "03.027",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "多体问题中的三个质点同时在同一地点相碰的现象。"
+  },
+  {
+   "cn": "三螺旋",
+   "en": "triple helix",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.141",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "政府、企业与大学是知识经济社会内部创新制度环境的三大要素，它们根据市场要求而联结起来，形成了三种力量交叉影响的三螺旋关系。"
+  },
+  {
+   "cn": "三股螺旋",
+   "en": "triple helix",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.016",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸结构_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "由3条多核苷酸链绞在一起形成的特殊的螺旋结构。"
+  },
+  {
+   "cn": "重过磷酸钙",
+   "en": "triple superphosphate",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0096",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "由磷酸与磷矿粉反应生成的，以磷酸一钙为主要成分的高浓度磷肥产品。"
+  },
+  {
+   "cn": "三合胶",
+   "en": "triple glue",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0988",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "由三种橡胶混合并用时形成的共混体系。"
+  },
+  {
+   "cn": "三联点",
+   "en": "triple junction",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0126",
+   "subjectFullName": "地球物理学_地球动力学_板块构造",
+   "subjectName": "板块构造",
+   "publishYear": "2022",
+   "definition": "3个板块汇合的交点及其交汇方式的总称。因有三类板块边界 ﹕洋中脊(A)、转换断层(T)与俯冲带 (C)，包括如下 10种可能的组合方式： AAA、CCC、TTT、 AAC、AAT、CCT、CCA、TT"
+  },
+  {
+   "cn": "三波",
+   "en": "triple wave",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0398",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_谐波齿轮传动",
+   "subjectName": "谐波齿轮传动",
+   "publishYear": "2021",
+   "definition": "当波发生器每转360°，柔轮齿圈壁厚中性层任一点上产生变形波的循环次数为三。"
+  },
+  {
+   "cn": "三相点",
+   "en": "triple point",
+   "source": "电力名词",
+   "wordNumber": "01.575",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "相图中气液平衡曲线、固液平衡曲线和固气平衡曲线相汇处,即固、液、气三相共存的点。水的三相点的压力为611.71Pa,温度为0.01°C。"
+  },
+  {
+   "cn": "三重放电",
+   "en": "triple discharge",
+   "source": "神经病学名词",
+   "wordNumber": "05.249",
+   "subjectFullName": "神经病学_神经病诊断技术_临床肌电图学",
+   "subjectName": "临床肌电图学",
+   "publishYear": "2020",
+   "definition": "由同一个运动单位产生的三个形态和波幅几乎相同的运动单位电位以恒定的关系持续发放的现象。第二个和第三个波之间的时间间隔通常大于第一个和第二个波之间的时间间隔，两个波之间的时间间隔通常为2～20ms。"
+  },
+  {
+   "cn": "三联筛查",
+   "en": "triple test",
+   "source": "计划生育名词",
+   "wordNumber": "03.698",
+   "subjectFullName": "计划生育_计划生育临床_优生优育",
+   "subjectName": "优生优育",
+   "publishYear": "2019",
+   "definition": "在唐氏综合征的产前筛查中，以妊娠14~20周血清AFP加HCG或β-HCG加游离雌三醇（<img src='/root/syzx/static/spz/jihuashengyu1.03.698.01."
+  },
+  {
+   "cn": "三相点",
+   "en": "triple point",
+   "source": "物理学名词",
+   "wordNumber": "05.0032",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "三元组",
+   "en": "triple",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相克",
+   "en": "restriction",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "逐步求精",
+   "en": "step-wise refinement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内部级",
+   "en": "restricted",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三重反应",
+   "en": "triple response",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "三核并合",
+   "en": "triple fusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "三相点",
+   "en": "triple point",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "三合盐",
+   "en": "triple salt",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "三相点",
+   "en": "triple point",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "三重协奏曲",
+   "en": "triple concerto",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "三拍子",
+   "en": "triple time",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "三重对位",
+   "en": "triple counterpoint",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "三重星系",
+   "en": "triple galaxy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "三合星",
+   "en": "triple star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "三相点",
+   "en": "triple point",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "三联点",
+   "en": "triple junction",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "碱基三联体",
+   "en": "base triple",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "三股螺旋",
+   "en": "triple helix",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "三股螺旋",
+   "en": "triple helix",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "三重障碍",
+   "en": "triple combination\",\"triple obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空翻三周",
+   "en": "triple salto",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三级跳远",
+   "en": "triple jump",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三杀",
+   "en": "triple play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空翻三周",
+   "en": "triple somersault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体1080度",
+   "en": "triple twist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三横木",
+   "en": "triple bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三重障碍",
+   "en": "triple obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旅行限制",
+   "en": "travel restrictions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限定空间",
+   "en": "restricted space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三级跳远运动员",
+   "en": "triple jumper\",\"tripler",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三网融合",
+   "en": "triple-network convergence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三级跳远区",
+   "en": "triple jump facility",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三倍奥运会竞赛距离",
+   "en": "“triple Olympic” distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三垒安打",
+   "en": "three-base hit\",\"triple",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "明医",
+   "en": "wise doctor",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.016",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "精通医学理论、具备高超医疗技术的好医生。出自明代徐春甫《古今医统大全》“精于医者曰明医”。"
+  },
+  {
+   "cn": "权力制约",
+   "en": "power restriction",
+   "source": "马克思主义",
+   "wordNumber": "03.0772",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了防治权力的滥用和腐败，而对权力进行制衡与约束。它既包括公民权利对国家权力的制约，也包括国家权力之间的分权制约，如西方的三权分立。中国共产党借鉴但不照搬西方国家在权力制约的经验，正在探索建立、健全决"
+  },
+  {
+   "cn": "职业限制",
+   "en": "occupational restriction",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "保险公司为了控制风险，对一些高风险职业进行限制或者不承保的现象。"
+  },
+  {
+   "cn": "广告限制",
+   "en": "advertising restriction ",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.2.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策",
+   "subjectName": "健康危害行为公共政策",
+   "publishYear": "2025",
+   "definition": "对危害健康产品的广告加以限制，例如禁止香烟广告。"
+  },
+  {
+   "cn": "限用物质",
+   "en": "restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在限定条件下可作为消毒剂原料的物质，在一定限定值以下使用。"
+  },
+  {
+   "cn": "受约束的比转换能",
+   "en": "restricted cema",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位质量物质中，电子产生电离、激发过程中，扣除释出的动能大于特定值的δ粒子动能后，其他能量损失的总和。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "限制口粮",
+   "en": "restricted rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "要求携带最少装备、短期（少于10 天）内完成特殊任务时食用的单兵口粮，由于携带物品体积和重量的限制，其体积和重量均小于作战口粮。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "马克思主义",
+   "wordNumber": "02.0036",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "凝结在商品中无差别的人类劳动，包括脑力劳动和体力劳动。价值是商品所特有的属性，作为商品的社会属性，它反映的是商品生产者之间的社会关系。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1159999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "客体对主体需要的效用。作为元伦理范畴，价值是客体具有的满足主体需要、实现主体欲望、符合主体目的的效用性。"
+  },
+  {
+   "cn": "价值观",
+   "en": "values",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.7",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "人们对事物及意义的评价体系，是人们采取行动或行为取向的评价尺度和选择标准。"
+  },
+  {
+   "cn": "匀称型小于胎龄儿",
+   "en": "symmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数>2.0（胎龄≤37周）或>2.2（胎龄>37周），身长/头围>1.36的小于胎龄儿。多始于胎儿早期，常与遗传因素和宫内感染等有关，胎儿体重、身长和头围受到同等程度的影响。往往脑发育受限。"
+  },
+  {
+   "cn": "非匀称型小于胎龄儿",
+   "en": "asymmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数<2.0（胎龄≤37周）或<2.2（胎龄>37周），身长/头围<1.36的小于胎龄儿。多发生于胎儿晚期，常与母亲营养不良或高血压等有关，出生体重明显低于正常，身长和头围尚与胎龄一致。"
+  },
+  {
+   "cn": "青春期节食",
+   "en": "adolescent restrictive eating",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.1.2.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "儿童青少年尤其是青春期女孩为了获得或保持苗条身材、惧怕体重增加而采取控制食物量或限制食物品种的饮食行为。"
+  },
+  {
+   "cn": "S值",
+   "en": "S value, ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.23",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对于男性参考人和女性参考人，源区rS中给定放射性核素的每次核转变（核反应或衰变）到靶区rT的当量剂量，Sv(Bq·s)-1。"
+  },
+  {
+   "cn": "D值",
+   "en": "D value",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.115",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定的处理环境中和在一定的热力致死温度条件下，某细菌数群中每杀死90%原有残存活菌数时所需要的时间。"
+  },
+  {
+   "cn": "A0值",
+   "en": "A0 value",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "生物体在80℃时达到特定Z值所用的等效时间，是评价湿热消毒效果的指标之一，单位以秒（S）表示。A0值为600时实现低水平消毒，A0值为3000时实现中水平消毒。"
+  },
+  {
+   "cn": "标定值",
+   "en": "stated value",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当指示物变化达到指示物制造商定义的终点时，过程关键变量的值或值的范围。"
+  },
+  {
+   "cn": "D值",
+   "en": "D-value",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，杀灭试验微生物总数的90%所需的时间或剂量。"
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "溶液中氢离子浓度的负对数值。"
+  },
+  {
+   "cn": "Q值",
+   "en": "Q value",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒作用温度每升高1℃消毒速度加快的倍数的温度系数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

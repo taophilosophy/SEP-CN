@@ -1,0 +1,32 @@
+{
+ "key": "falsifiability",
+ "term": "falsifiability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:38:48+00:00",
+ "status": "ok",
+ "note": "variant=falsifiability; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "可证伪性",
+   "en": "falsifiability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.149",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "一个陈述、假说或者理论在逻辑上可以被证明为错的可能性。K. 波普尔（K. Popper）认为可证伪性是科学理论的本质属性，也是科学与伪科学之间划界的标准。"
+  },
+  {
+   "cn": "可证伪性",
+   "en": "falsifiability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.149",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "一个陈述、假说或者理论在逻辑上可以被证明为错的可能性。K. 波普尔（K. Popper）认为可证伪性是科学理论的本质属性，也是科学与伪科学之间划界的标准。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

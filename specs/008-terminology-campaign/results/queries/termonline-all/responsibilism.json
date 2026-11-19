@@ -1,0 +1,542 @@
+{
+ "key": "responsibilism",
+ "term": "responsibilism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:51:32+00:00",
+ "status": "ok",
+ "note": "variant=responsibilism; 审定公布名词库=83; 海峡两岸名词对照库=7; 其他来源数据库=7; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "责任",
+   "en": "responsibility",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "16.014",
+   "subjectFullName": "新闻学与传播学_媒体与传播伦理_媒体与传播伦理总论",
+   "subjectName": "媒体与传播伦理总论",
+   "publishYear": "2022",
+   "definition": "①与一定社会角色或机构相联系的应尽职分、应有的作为和担当。②没有做好分内之事而应承担某种否定乃至惩罚性质的后果。在新闻学与传播学的语境中，该术语常被用于指涉国家、党团、民意社群等各种公共主体对媒体及其"
+  },
+  {
+   "cn": "责任者",
+   "en": "responsibility",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.526",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "对文献的知识内容或艺术内容负责或做出贡献的个人或机关团体。例如著者、编纂者等。"
+  },
+  {
+   "cn": "响应度",
+   "en": "responsibility",
+   "source": "物理学名词",
+   "wordNumber": "05.0874",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "响应率",
+   "en": "responsibility",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.404",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "设计义务",
+   "en": "design responsibility",
+   "source": "风景园林名词",
+   "wordNumber": "03.0308",
+   "subjectFullName": "风景园林_风景园林管理_规划设计管理",
+   "subjectName": "规划设计管理",
+   "publishYear": "2025",
+   "definition": "在设计合同中所明确的设计方应完成的任务和承担的责任。"
+  },
+  {
+   "cn": "[公共部门]个人职责",
+   "en": "personal responsibility",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0026",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "公共部门管理者及其工作人员以最高效率实现目标并对结果所应负有的责任。"
+  },
+  {
+   "cn": "责任中心",
+   "en": "responsibility center",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0317",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "在分散经营的方式下，由专人承担一定的经济责任，并拥有相应管理权限的企业内部经营单位。"
+  },
+  {
+   "cn": "社会责任",
+   "en": "social responsibility",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0026",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "一般泛指组织的运营达到或超越道德、法律及公众要求的标准，在考虑组织自身发展的同时考虑利益相关者，对社会有责任做出贡献。"
+  },
+  {
+   "cn": "政府责任",
+   "en": "governmental responsibility",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0079",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "(1)广义上指政府积极回应社会公众的需求，并采取积极的措施，公正、高效地实现公众的需求和利益的职责。(2)狭义上指政府机关及其工作人员因违反法律规定的义务、违法行使职权时所承担的否定性法律后果。"
+  },
+  {
+   "cn": "责任成本",
+   "en": "responsibility cost",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0315",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "以责任中心为对象而归集的成本。"
+  },
+  {
+   "cn": "审计责任",
+   "en": "auditing responsibility",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0392",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师执行审计业务、出具审计报告所应负的职业责任。"
+  },
+  {
+   "cn": "责任分析",
+   "en": "responsibility analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0667",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "确定事故直接责任者和领导责任者，根据其在事故发生过程中的作用、地位确定主要责任者。"
+  },
+  {
+   "cn": "会计责任",
+   "en": "accounting responsibility",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0391",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "被审计单位的管理层和治理层对其会计行为及其结果所应承担的责任。"
+  },
+  {
+   "cn": "道德责任",
+   "en": "moral responsibility",
+   "source": "教育学名词",
+   "wordNumber": "01.193",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "人们在一定的社会关系中所应选择的道德行为和对社会或他人应履行的道德义务。"
+  },
+  {
+   "cn": "教师职责",
+   "en": "teacher responsibility",
+   "source": "教育学名词",
+   "wordNumber": "09.035",
+   "subjectFullName": "教育学_教师教育_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2013",
+   "definition": "根据教师职务而规定的工作要求。"
+  },
+  {
+   "cn": "刑事责任能力",
+   "en": "criminal responsibility",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.017",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "限定责任能力",
+   "en": "delimited responsibility",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.016",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "首调负责制",
+   "en": "first-dispatch responsibility",
+   "source": "急救医学名词",
+   "wordNumber": "02.043",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度受理与指导",
+   "subjectName": "调度受理与指导",
+   "publishYear": "2025",
+   "definition": "首位接听急救电话的调度员负责从摘机接听急救电话开始到受理派车、现场处置、送达医院等全过程的一种管理制度。"
+  },
+  {
+   "cn": "延伸生产者责任",
+   "en": "extended producer responsibility",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.069",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "生产者必须承担产品使用完毕后的回收、再生和处理的责任。"
+  },
+  {
+   "cn": "责任律令",
+   "en": "imperative of responsibility",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.028",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "汉斯·尤纳斯（Hans Jonas）提出的责任伦理概念。强调前瞻性的责任意识，对技术应用中可能出现的违背伦理原则和道德规范的行为要预先觉察并采取相应预防措施。"
+  },
+  {
+   "cn": "社会责任",
+   "en": "social responsibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双方责任",
+   "en": "dual responsibility",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "责任归因",
+   "en": "attribution of responsibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "责任扩散",
+   "en": "diffusion of responsibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "责任级",
+   "en": "level of responsibility",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "社会责任规范",
+   "en": "norm of social responsibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "承运人责任期间",
+   "en": "period of responsibility of carrier",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全责任",
+   "en": "big data security responsibility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "责任共同体",
+   "en": "the community of shared responsibility",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "风险防控主体责任",
+   "en": "primary responsibility for risk prevention and control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天下兴亡,匹夫有责",
+   "en": "Survival of a Nation Is the Responsibility of Every Individual.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强化党政一把手负总责（脱贫）",
+   "en": "strengthening the responsibility of the principal leader of the Party and government (in poverty alleviation)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中央统筹、省总负责、市县抓落实",
+   "en": "a working mechanism whereby the central leadership makes overall plans, provincial authorities take overall responsibility, and city and county authorities ensure implementation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“七个强化”",
+   "en": "the “Seven Strengthening” (strengthening theoretical competence, the sense of mission, responsibility, work in poverty alleviation, the awareness of development, honesty and self-discipline, and organizational construction)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "健康责任",
+   "en": "health responsibility",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.064",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "政府、社区及个人对个体和群体健康所承担的义务。政府和社区应制定有助于促进个体和群体健康的政策，提供健康的环境；个人应保持健康的生活方式，为自身、他人及群体健康提供支持。"
+  },
+  {
+   "cn": "职业责任",
+   "en": "professional responsibility",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.052",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "与职业或岗位相应的义务，包括法定职业责任和道德职业责任。"
+  },
+  {
+   "cn": "道德责任",
+   "en": "moral responsibility",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.04",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们对自己自主行为的后果所应承担的道德义务。是个人道德信念对社会道德要求的反映和对外在道德义务的认同。"
+  },
+  {
+   "cn": "责任扩散",
+   "en": "diffusion of responsibility",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.12",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "个人采取行为的责任感因意识到有其他人在场而减弱。"
+  },
+  {
+   "cn": "企业社会责任",
+   "en": "corporate social responsibility",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.019",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "企业在追求经济效益、实现自身利润目标之外担负起对社会利益的普遍维护与增进的责任。"
+  },
+  {
+   "cn": "对服务对象的伦理责任",
+   "en": "ethical responsibility for clients",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "社会工作者在从事服务活动时，对服务对象应承担的道德责任和相应遵循的行为准则。一般包括：首要责任是对服务对象负责，并做出一切努力来最大限度地培养代表服务对象的自我决定权利，尊重当事人的隐私，并且要保守在"
+  },
+  {
+   "cn": "对同事的伦理责任",
+   "en": "ethical responsibility for colleague",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "社会工作者对待同事应承担的道德责任和相应遵循的行为准则。一般要求社会工作者应以尊重、礼貌、公平和充分信任的方式来对待同事，并且有责任用全部的专业知识来处理同事的服务对象。"
+  },
+  {
+   "cn": "农业生产责任制",
+   "en": "agricultural production responsibility system",
+   "source": "马克思主义",
+   "wordNumber": "02.0400",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "将农业生产报酬与完成任务和产量相挂钩的责任制形式。改革初期，广大农村从实际出发建立了包括“小段包工，定额计酬”和“包工包产，联产计酬”在内的多种生产责任制形式。"
+  },
+  {
+   "cn": "消毒产品责任单位",
+   "en": "responsibility entity for disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.1.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "依法承担因消毒产品缺陷而致他人人身伤害或财产损失的赔偿责任的个人、法人及其他组织。消毒产品委托生产加工时，特指委托方，进口消毒产品的责任单位为在华责任单位。"
+  },
+  {
+   "cn": "对服务机构的伦理责任",
+   "en": "ethical responsibility for service agency",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "社会组织对所供职的服务机构应承担的道德责任和相应遵守的行为准则，通常包括：交代，建设性贡献等要求。"
+  },
+  {
+   "cn": "对专业的伦理责任",
+   "en": "ethical responsibility for the profession",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "社会工作者对于所属的整个社会工作专业应承担的道德责任和相应行为准则，包括维持专业正直、社区服务、发展知识的责任。"
+  },
+  {
+   "cn": "承包经营责任制",
+   "en": "managerial responsibility system of contracting",
+   "source": "马克思主义",
+   "wordNumber": "02.0390",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国经济体制改革中社会主义企业采取的一种生产经营责任制形式。具体是指在坚持社会主义公有制基础上，按照所有权与经营权分离的原则，通过签订承包经营合同，确定国家与企业的责、权、利关系，使企业做到自主经营、"
+  },
+  {
+   "cn": "干部岗位责任制",
+   "en": "post responsibility system of cadres",
+   "source": "马克思主义",
+   "wordNumber": "03.0513",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "确定每个工作岗位上的工作人员应履行的职责、所担负的责任、行使的权限和完成任务的标准，并按照规定的内容和方法进行考核、给予奖惩。1978年3月18日，邓小平在全国科学大会开幕式上的讲话中提出：要从上到下"
+  },
+  {
+   "cn": "应急反应部门职责",
+   "en": "responsibility of emergency response department",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "学校突发公共卫生事件应急反应的主体部门，根据法律法规、规范性文件和预案的要求在应急反应中应履行的责任和承担的任务。"
+  },
+  {
+   "cn": "大众传媒的自由和责任",
+   "en": "freedom and responsibility of mass media",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.8",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "大众传媒在媒体活动中的限度，即可采取行为的范围和所应承担的义务。"
+  },
+  {
+   "cn": "对公众的伦理责任",
+   "en": "the ethical responsibility for the public",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "社会工作者对公众和社会应承担的道德责任和相应遵循的行为准则，包括促进社会公众普遍福利的责任、积极参与的责任等。"
+  },
+  {
+   "cn": "对自己的伦理责任",
+   "en": "the ethical responsibility for the self",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "社会工作者对待自身应承担的道德责任和相应行为准则。社会工作者作为专业人员应有较高的自我要求、具备较全面的综合素质和较强的自我约束力，对专业忠诚，保持诚实严谨的态度。"
+  },
+  {
+   "cn": "食品安全监督管理责任制",
+   "en": "food safety supervision and management responsibility system",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.26",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "上级政府对下级政府，本级政府对各监督管理部门，通过评议、考核等方式，监督其落实所承担的食品安全工作职责的制度。"
+  },
+  {
+   "cn": "家庭联产承包责任制",
+   "en": "household contract responsibility system with remuneration linked to output",
+   "source": "马克思主义",
+   "wordNumber": "02.0397",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "农户以家庭为单位向农村集体经济组织承包土地等基本生产资料，自主进行生产经营活动，并按照承包合同向国家和集体上交一定的粮款的农业责任制形式。是改革初期，在中国农村推行的一项重要改革。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

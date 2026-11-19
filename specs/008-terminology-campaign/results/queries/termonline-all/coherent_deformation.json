@@ -1,0 +1,672 @@
+{
+ "key": "coherent deformation",
+ "term": "coherent deformation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:19:00+00:00",
+ "status": "ok",
+ "note": "variant=coherent deformation; 审定公布名词库=3480; 海峡两岸名词对照库=636; 其他来源数据库=552; 预公布名词数据库=91; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "相干",
+   "en": "coherent",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.557",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2648",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "两个波场同相的程度。波场与自身、波场与其他波场之间对于某种内秉物理量的关联性质。数学上表示为两个归一化的互功率谱，是时间域的相关性在频率域的对应。 "
+  },
+  {
+   "cn": "相干",
+   "en": "coherence",
+   "source": "光学名词",
+   "wordNumber": "01.524",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "频率相同、偏振态相同、相位差恒定的两列光波相遇时在时域或者空间会产生局部光强增大或减小的现象。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherency",
+   "source": "光学名词",
+   "wordNumber": "01.525",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "①描述两束光波产生干涉能力的一个物理量。②描述一个波列在同一时间不同位置或者在同一位置不同时间的振动间有恒定相位关系的特性。它分为空间相干性、时间相干性和部分相干性三种。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "物理学名词",
+   "wordNumber": "04.1258",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "生物物理学名词",
+   "wordNumber": "02.337",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "对电子波干涉现象显著程度的描述。理想的相干性电子波应具有单一的波长，或者说所有电子具有相同的能量；此外，不同空间位置发射的电子除了具有相同的能量外还需要有同步变化的相位，即具有稳定的相位差。良好的相干"
+  },
+  {
+   "cn": "连贯性",
+   "en": "coherence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0600",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "对连续的函数进行离散采样时，其相邻位置的采样值具有某种相似性。"
+  },
+  {
+   "cn": "连贯",
+   "en": "coherence",
+   "source": "语言学名词",
+   "wordNumber": "04.265",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "话语分析术语。指一篇口头或书面话语（语篇）前后内容、文气的一致性或功能联系。它是话语组织的一个假设原则，即我们首先假设话语组织是连贯的，在此基础上来研究话语中体现一致性的各种手段。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "大气科学名词",
+   "wordNumber": "02.225",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "使两个或多个波动具有能够产生干涉效应的相位关联的属性。包括时间相干性和空间相干性，前者指空间同一点在不同时刻的波之间存在稳定的相位关联，后者指同一时刻空间不同点的波之间存在着稳定的相位关联。"
+  },
+  {
+   "cn": "相干",
+   "en": "coherence",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.354",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在电磁辐射中，使所有波前同相的条件。相干将能量高度集中，使红外、可见光和紫外有可能长距离传输，原因是这些射线几乎完全平行。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.145",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_显微镜_显微镜一般名词",
+   "subjectName": "显微镜一般名词",
+   "publishYear": "2003",
+   "definition": "光波能相互干涉的性质。相干光相干系数值接近1,非相干光相干系数值为零,部分相干光相干系数处于大于零和小于1之间。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "石油名词",
+   "wordNumber": "03.0354",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "变形[作用]",
+   "en": "deformation",
+   "source": "地质学名词",
+   "wordNumber": "09.02.086",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "物体因受力其内部质点间相对位置发生改变所导致的形状、方位或体积的变化。岩石变形的基本方式有压缩、拉伸、剪切、弯曲和扭转5种。力学中一般不把破裂归入变形的范畴，但在地质学中，习惯把断裂和褶皱等构造形迹都"
+  },
+  {
+   "cn": "形变",
+   "en": "deformation",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0317",
+   "subjectFullName": "食品科学技术_食品科学_食品物理_食品流变学特性",
+   "subjectName": "食品流变学特性",
+   "publishYear": "2020",
+   "definition": "在应力作用下，形状发生变化的现象。"
+  },
+  {
+   "cn": "形变",
+   "en": "deformation",
+   "source": "冶金学名词",
+   "wordNumber": "09.0143",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "加工时，物体各点发生位移后，改变了各点间的初始相对距离，发生形状的变化。"
+  },
+  {
+   "cn": "变形",
+   "en": "deformation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.096",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2019",
+   "definition": "脑结构形态发生异常改变的状态。"
+  },
+  {
+   "cn": "形变",
+   "en": "deformation",
+   "source": "物理学名词",
+   "wordNumber": "02.0616",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "变形",
+   "en": "deformation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0771",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "把单个几何对象的形状作某种改变，使其变化到动画师所需的形状。"
+  },
+  {
+   "cn": "形变",
+   "en": "deformation",
+   "source": "化学名词",
+   "wordNumber": "04.1876",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "固体在外力作用下，所发生的形状及尺寸的变化。若取消外力，形状与尺寸复原，即形变可逆，称为弹性形变；若外力超过一定限度，取消外力作用，变形物质的形状与尺寸不能完全复原，发生了永久性的变化，称为塑性形变。"
+  },
+  {
+   "cn": "变形",
+   "en": "deformation",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0454",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料性能",
+   "subjectName": "材料性能",
+   "publishYear": "2011",
+   "definition": "固体在外力作用下发生形状及尺寸的变化。"
+  },
+  {
+   "cn": "同调",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "凝聚",
+   "en": "coherence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "连贯性",
+   "en": "coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变形",
+   "en": "deformation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "变形",
+   "en": "deformation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "变形",
+   "en": "deformation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "变形",
+   "en": "deformation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "变形",
+   "en": "deformation",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "变形性",
+   "en": "deformability",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "相干辐射",
+   "en": "coherent radiation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干回波",
+   "en": "coherent echo",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干积分",
+   "en": "coherent integration",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干检测",
+   "en": "coherent detection",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干结构",
+   "en": "coherent structures",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干雷达",
+   "en": "coherent radar",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干目标",
+   "en": "coherent target",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共格硬化",
+   "en": "coherent hardening",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "共格脱溶",
+   "en": "coherent precipitation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "量子相干性",
+   "en": "quantum coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缓存一致性",
+   "en": "cache coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "编排",
+   "en": "formation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站位",
+   "en": "formation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息技术",
+   "en": "information technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "变形",
+   "en": "deformation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "宫内发育过程中受异常机械力作用引起的组织器官的形状或位置异常。"
+  },
+  {
+   "cn": "关节畸形",
+   "en": "joint deformity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.3",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "由于各种原因使关节脱离正常形态和结构的状态，可见于关节炎。"
+  },
+  {
+   "cn": "槌状趾畸形",
+   "en": "mallet toe deformity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.20",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "跖趾关节和近侧趾间关节中立位而远侧趾间关节屈曲，造成的足趾末端屈曲畸形的症状，外观类似槌子。"
+  },
+  {
+   "cn": "纽扣花畸形",
+   "en": "boutonnière deformity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.1.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "发生于手指部位的一种关节畸形。表现为近端指间关节屈曲，远端指关节过伸，呈“纽扣花”样。可见于外伤、类风湿关节炎等炎症性疾病和Ehlers-Danlos 综合征等遗传性疾病。"
+  },
+  {
+   "cn": "天鹅颈畸形",
+   "en": "swan neck deformity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "发生于手指部位的一种关节畸形。表现为掌指关节屈曲，近端指间关节过伸，远端指间关节屈曲，从侧面看呈天鹅颈样。可见于外伤、类风湿关节炎等炎症性疾病和Ehlers-Danlos 综合征等遗传性疾病。"
+  },
+  {
+   "cn": "固有过滤",
+   "en": "inherent filtration",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.29",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "辐射束从X射线源组件或其部件射出之前通过不可移开的物质时，该物质产生的等效过滤。"
+  },
+  {
+   "cn": "固有安全",
+   "en": "inherent safety",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.24",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "核反应堆在运行参数偏离正常时能依靠自然物理规律趋向安全状态的性能。"
+  },
+  {
+   "cn": "宗教改革",
+   "en": "reformation",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.20",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "发生于16世纪西欧的宗教运动，以基督教会内部革新为始，最终瓦解了天主教会主导的政教体系，建立了带有民族色彩的新教教会，对启蒙运动、资本主义和民族主义的兴起有重要影响。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  },
+  {
+   "cn": "卫生信息",
+   "en": "health information",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "首要目的用于维持和改善健康而收集、传输、处理、存贮、分配和分析利用的各种信息。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "信息租金",
+   "en": "information rent",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "在一项交易活动中，交易一方凭借其信息优势而获得的、高于市场平均收益的超额回报金额。"
+  },
+  {
+   "cn": "信息可见性",
+   "en": "information visibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "一种对信息存在特性的描述。"
+  },
+  {
+   "cn": "信息时效性",
+   "en": "information timeliness",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.5",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息发挥作用是有时间限度的，在恰当的时刻得以利用才会发挥其最大效能的特性。"
+  },
+  {
+   "cn": "信息过载",
+   "en": "information overload",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.7",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "卫生信息超过了医护人员患者等个人或医疗系统所能接受、处理或有效利用的范围的一种状态。"
+  },
+  {
+   "cn": "信息安全",
+   "en": "information security",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "为卫生信息数据处理系统建立和采用的技术，保护医疗卫生系统中的数据信息等免受偶然和恶意的原因而遭到破坏、更改和泄露。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,732 @@
+{
+ "key": "virtuous humility",
+ "term": "virtuous humility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:47:25+00:00",
+ "status": "ok",
+ "note": "variant=virtuous humility; 审定公布名词库=315; 海峡两岸名词对照库=97; 其他来源数据库=17; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "兽医学名词",
+   "wordNumber": "09.065",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "表示空气潮湿程度的物理量。由空气中含水汽的多少决定。实验动物设施中最重要的湿度指标是“相对湿度（relative humidity，RH）”，是指空气中实际水蒸气分压与同温度下饱和水蒸气分压之比，国家"
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.163",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_睡眠环境与睡眠卫生",
+   "subjectName": "睡眠环境与睡眠卫生",
+   "publishYear": "2022",
+   "definition": "表示气体中水蒸气含量的物理量。一般指空气的湿度。是影响睡眠的因素之一。"
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "电力名词",
+   "wordNumber": "01.678",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "表示空气中水汽含量的数值。"
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "物理学名词",
+   "wordNumber": "05.0418",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "呼吸病学名词",
+   "wordNumber": "05.022",
+   "subjectFullName": "呼吸病学_病因",
+   "subjectName": "病因",
+   "publishYear": "2018",
+   "definition": "表示气体中水蒸气的含量。一般指空气的湿度。"
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "林学名词",
+   "wordNumber": "02.064",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "表征空气中水汽含量的物理量。"
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "计量学名词",
+   "wordNumber": "15.062",
+   "subjectFullName": "计量学_化学_化学测量的量",
+   "subjectName": "化学测量的量",
+   "publishYear": "2015",
+   "definition": "表征气体中水蒸气含量的参数。"
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "药学名词",
+   "wordNumber": "02.161",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "空气干燥程度的物理量。在一定温度下单位体积空气中含有的水分子越少则空气越干燥，反之则越潮湿。"
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "大气科学名词",
+   "wordNumber": "01.093",
+   "subjectFullName": "大气科学_大气",
+   "subjectName": "大气",
+   "publishYear": "2009",
+   "definition": "表征空气中水汽含量的物理量。"
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "水产名词",
+   "wordNumber": "01.440",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "表征空气中水汽含量的物理量。"
+  },
+  {
+   "cn": "侵权行为",
+   "en": "tortuous",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.056",
+   "subjectFullName": "放射医学与防护_法规与条约_核损害民事责任与赔偿",
+   "subjectName": "核损害民事责任与赔偿",
+   "publishYear": "2014",
+   "definition": "民事主体违反民事义务，侵害他人合法权益，依法应当承担民事责任的行为。"
+  },
+  {
+   "cn": "上玻璃釉法",
+   "en": "vitreous",
+   "source": "航天科学技术名词",
+   "wordNumber": "13.224",
+   "subjectFullName": "航天科学技术_航天制造工艺",
+   "subjectName": "航天制造工艺",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "玻璃质",
+   "en": "vitreous",
+   "source": "地质学名词",
+   "wordNumber": "05.074",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "腐植组",
+   "en": "huminite",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "02.074",
+   "subjectFullName": "煤炭科学技术_煤田地质与勘探_煤岩",
+   "subjectName": "煤岩",
+   "publishYear": "1996",
+   "definition": "主要由植物的木质-纤维组织经凝胶化作用转化而成的褐煤的显微组分组。 与硬煤的镜质组相当，可细分为结构腐植体、无结构腐植体、碎屑腐植体。"
+  },
+  {
+   "cn": "腐植煤",
+   "en": "humulite",
+   "source": "地质学名词",
+   "wordNumber": "07.368",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "腐植组",
+   "en": "huminite",
+   "source": "地质学名词",
+   "wordNumber": "07.423",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "地质学名词",
+   "wordNumber": "18.03.016",
+   "subjectFullName": "地质学_环境地质学_农业生态地质环境",
+   "subjectName": "农业生态地质环境",
+   "publishYear": "2026",
+   "definition": "空气中水汽压与相同温度下饱和水汽压的百分比；或湿空气的绝对湿度与相同温度下可能达到的最大绝对湿度之比；也可表示为湿空气中水蒸气分压力与相同温度下水的饱和压力之比。"
+  },
+  {
+   "cn": "绝对湿度",
+   "en": "absolute humidity",
+   "source": "农学名词",
+   "wordNumber": "13.061",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "单位体积湿空气中所含水蒸气的质量。"
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "农学名词",
+   "wordNumber": "13.062",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "空气中实际水汽压与同温度下饱和水汽压之比。用于表征空气中水汽多少的物理量，用百分率表示。"
+  },
+  {
+   "cn": "饱和湿度",
+   "en": "saturated humidity",
+   "source": "农学名词",
+   "wordNumber": "13.063",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "一定温度和大气压力下，空气中水汽质量的最大值。"
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "实用程序",
+   "en": "utility program\",\"utility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "比湿",
+   "en": "specific humidity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大气湿度",
+   "en": "atmospheric humidity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对湿度",
+   "en": "absolute humidity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "摩尔湿度",
+   "en": "molar humidity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "百分湿度",
+   "en": "percentage humidity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "湿度比",
+   "en": "humidity ratio",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比湿",
+   "en": "specific humidity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "饱和湿度",
+   "en": "saturated humidity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "临界湿度",
+   "en": "critical humidity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绝对湿度",
+   "en": "absolute humidity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "比湿",
+   "en": "specific humidity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "尊德性",
+   "en": "Revere One’s Virtuous Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性",
+   "en": "Virtuous Nature / Morals as Human Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有德者必有言",
+   "en": "Virtuous People Are Sure to Produce Fine Writing.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安贫乐道",
+   "en": "Be Content with a Simple but Virtuous Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "仁者乐山，智者乐水",
+   "en": "The Virtuous Love Mountains and the Wise Love Water.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "温湿度控制",
+   "en": "temperature and humidity control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人",
+   "en": "Human Being; Humanity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "边际效用价值论",
+   "en": "marginal utility theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人副天数",
+   "en": "Humanity Should Be Aligned with Nature.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "爱而知其恶，憎而知其善",
+   "en": "In Love, Acknowledge Faults; in Hatred, Recognize Virtues.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "构建人类命运共同体",
+   "en": "building a community with a shared future for humanity",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "公共卫生安全是人类面临的共同挑战",
+   "en": "Public health security is a common challenge for humanity.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "谦逊规范",
+   "en": "humility norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.10",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "指科学家对自身研究所表现出的谦恭态度，主要有两种形式：一是承认受惠于前人留下的知识遗产，二是强调自身的局限性和科学知识的局限性。"
+  },
+  {
+   "cn": "湿度",
+   "en": "humidity",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "表征空气中水汽含量的物理量。通常以相对湿度表示，30%以下为低湿度，80%以上为高湿度。"
+  },
+  {
+   "cn": "气湿测定",
+   "en": "humidity measurement",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.2.2.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用干湿球温度计、通风温湿度计等仪器，测定环境湿度的过程。"
+  },
+  {
+   "cn": "含湿量",
+   "en": "humidity ratio",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.2.4",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "湿空气中，所含水蒸气的质量与干空气质量之比。"
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "在一定温度下，空气中实际水汽压与同温度下的饱和水汽压的百分比。"
+  },
+  {
+   "cn": "绝对湿度",
+   "en": "absolute humidity",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.2.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "在一定温度下，单位体积湿空气中含有的水汽质量。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "物品或服务满足人们需要的能力，或消费者消费一定数量的商品所得到的满足程度。"
+  },
+  {
+   "cn": "湿度作用温度",
+   "en": "humidity action temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.1.1.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "环境在相对湿度为百分之百时对人体的热作用温度。"
+  },
+  {
+   "cn": "公共工程",
+   "en": "public utility",
+   "source": "马克思主义",
+   "wordNumber": "03.0058",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为促进就业和经济社会发展而主要由国家兴办的建设项目。如在亚洲，气候和土地条件需要中央集权的政府兴办水利灌溉等公共工程，以履行行政之外的经济职能。而在法国路易·拿破仑·波拿巴（Louis-Napoléo"
+  },
+  {
+   "cn": "总效用",
+   "en": "total utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "在一定时间内，消费者消费某种商品或服务总的满足程度之和"
+  },
+  {
+   "cn": "边际效用",
+   "en": "marginal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "消费者从增加一单位某种商品的消费所获得满足程度的增加。"
+  },
+  {
+   "cn": "基数效用论",
+   "en": "cardinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用基数词来表示消费者效用数量的理论。该理论认为，效用是消费者在消费商品时所得到的满足，可以用数值来衡量和相加。消费者均衡的条件是花在每一种商品上的最后一单位货币所带来的边际效用都相等，每一种商品所"
+  },
+  {
+   "cn": "效用最大化",
+   "en": "utility maximization",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "消费者通过采用最佳方法和进行精确计算来使得自身的效用水平达到最大的行为。效用最大化是消费者的理性行为。"
+  },
+  {
+   "cn": "序数效用论",
+   "en": "ordinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用序数词来表示消费者偏好次序的理论，主要分析工具是无差异曲线和预算线。"
+  },
+  {
+   "cn": "预期效用",
+   "en": "expected utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.3.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "按风险发生概率为权重进行加权计算所得出的效用值"
+  },
+  {
+   "cn": "健康效用",
+   "en": "health utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "人们对特定健康水平或生命质量的满意或偏好程度。"
+  },
+  {
+   "cn": "五常",
+   "en": "five constant virtues",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.071",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "儒家提倡的人与人之间的道德标准。指五种道德意识和道德规范，即仁、义、礼、智、信。"
+  },
+  {
+   "cn": "科学的效用",
+   "en": "utility of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.26",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学在现实生活中，包括宗教、经济、技术、军事、乃至自我发展等方面所能产生的功用。"
+  },
+  {
+   "cn": "边际效用曲线",
+   "en": "marginal utility curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "用图表示不同条件下每增加一单位商品的数量的边际效用的变化情况的曲线。"
+  },
+  {
+   "cn": "效用最大化模型",
+   "en": "utility maximization model",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "假定医院决策者追求服务数量与质量两个目标最大化的模型"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,732 @@
+{
+ "key": "science of art",
+ "term": "science of art",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:43:37+00:00",
+ "status": "ok",
+ "note": "variant=science of art; 审定公布名词库=10000; 海峡两岸名词对照库=7792; 其他来源数据库=1975; 预公布名词数据库=2741; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "文理学院",
+   "en": "liberal arts college,college of arts and sciences",
+   "source": "教育学名词",
+   "wordNumber": "05.036",
+   "subjectFullName": "教育学_比较教育_美国教育",
+   "subjectName": "美国教育",
+   "publishYear": "2013",
+   "definition": "美国仅设文、理学科的一种高等学校类型。以实施“博雅”教育为主，主要授予学士学位，少数学校在某些基础学科领域亦可授硕士学位或博士学位。亦指综合大学中仅设文理系科的学院。"
+  },
+  {
+   "cn": "文科",
+   "en": "arts,social sciences and humanities",
+   "source": "教育学名词",
+   "wordNumber": "08.073",
+   "subjectFullName": "教育学_高等教育_系科、学科",
+   "subjectName": "系科、学科",
+   "publishYear": "2013",
+   "definition": "学科分类之一。（1）广义的文科与广义的理科相对应，泛指人文、社会科学领域的学科。（2）狭义的文科指文学、历史、哲学等人文学科。"
+  },
+  {
+   "cn": "艺术学科",
+   "en": "art",
+   "source": "教育学名词",
+   "wordNumber": "08.083",
+   "subjectFullName": "教育学_高等教育_系科、学科",
+   "subjectName": "系科、学科",
+   "publishYear": "2013",
+   "definition": "学科分类之一。包括音乐、舞蹈、艺术设计等学科。"
+  },
+  {
+   "cn": "艺术",
+   "en": "art",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.186",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "反映当地社会生活，满足人们精神需求的意识形态。"
+  },
+  {
+   "cn": "艺术美",
+   "en": "beauty of art",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.230",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "一方面是指人工物或经过人工改造的自然物所呈现的美，是通过人工的形式所呈现的美；另一方面虽然也可以指自然物所直接呈现的某种特定的美，但是这种美必须在特定的文化、传统、习俗的教育熏陶下才能为人所感知。与“"
+  },
+  {
+   "cn": "领导艺术",
+   "en": "art of leadership",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0174",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "领导者在个人素质修养基础上，在领导过程中体现出来的创造性和有效性。"
+  },
+  {
+   "cn": "教学艺术",
+   "en": "art of teaching",
+   "source": "教育学名词",
+   "wordNumber": "02.227",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师为达到最佳教学效果而使用的知识、方法、技巧和创造力的综合表现。"
+  },
+  {
+   "cn": "领导艺术",
+   "en": "art of leadership",
+   "source": "教育学名词",
+   "wordNumber": "15.009",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "领导者的智慧、学识、胆略、经验和各种能力的创造性组合与发挥，并体现一定的美学价值。"
+  },
+  {
+   "cn": "关系",
+   "en": "art of relation",
+   "source": "语言学名词",
+   "wordNumber": "11.068",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "语义网络中概念之间的一种关系。用“part of”连接的两个概念结点具有部件—整体的关系"
+  },
+  {
+   "cn": "水产养殖学",
+   "en": "science of aquiculture,aquaculture science",
+   "source": "水产名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "水产_水产养殖学",
+   "subjectName": "水产养殖学",
+   "publishYear": "2002",
+   "definition": "研究水产经济动植物养殖原理与技术的学科。"
+  },
+  {
+   "cn": "医疗艺术",
+   "en": "medical treatment art,art of medical treatment",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0013",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "雕刻艺术",
+   "en": "sculpture art",
+   "source": "风景园林名词",
+   "wordNumber": "11.0205",
+   "subjectFullName": "风景园林_风景园林艺术_雕刻艺术",
+   "subjectName": "雕刻艺术",
+   "publishYear": "2025",
+   "definition": "用石膏、树脂、黏土等可塑材料或木材、石料、金属等可雕、可刻的硬质材料，通过雕、刻、塑技法，创造出具有一定空间的可视、可触的艺术形象，借以装饰环境、建筑，反映社会生活，表达主人情感、崇尚理念和追求的造型"
+  },
+  {
+   "cn": "大地艺术",
+   "en": "land art",
+   "source": "风景园林名词",
+   "wordNumber": "06.0004",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "20世纪60～70年代始发于美国的一种以大自然为媒介和展现场景的艺术创作形式，艺术与大自然有机结合，富有艺术整体性情景。"
+  },
+  {
+   "cn": "艺术涂料",
+   "en": "art coating",
+   "source": "精细化工名词",
+   "wordNumber": "05.0126",
+   "subjectFullName": "精细化工_涂料_通用涂料",
+   "subjectName": "通用涂料",
+   "publishYear": "2025",
+   "definition": "通过颜色、质感和光泽三要素组合，使涂膜具有艺术性装饰效果的一类墙面装饰性涂料。主要有泥巴涂料、墙艺漆、板岩漆、真石漆、壁纸漆、浮雕漆等类型。"
+  },
+  {
+   "cn": "民间文艺",
+   "en": "folk art",
+   "source": "风景园林名词",
+   "wordNumber": "04.0200",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "劳动者为满足自己的生活和审美需求而创造的文化和艺术，包括工艺美术、音乐、舞蹈和戏曲等多种形式。"
+  },
+  {
+   "cn": "文艺生态学",
+   "en": "art ecology",
+   "source": "风景园林名词",
+   "wordNumber": "12.0105",
+   "subjectFullName": "风景园林_风景园林生态_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2025",
+   "definition": "从人、自然、社会、文化等各种变量关系中，研究文艺的产生、分布以及发展规律的一门学科。"
+  },
+  {
+   "cn": "艺术地坪",
+   "en": "art floor",
+   "source": "风景园林名词",
+   "wordNumber": "08.1091",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "使用在混凝土表面上，产生丰富多彩的高强度、高耐磨性彩色装饰面的一种高分子聚合物彩色干粉。"
+  },
+  {
+   "cn": "美术写生",
+   "en": "art sketch",
+   "source": "风景园林名词",
+   "wordNumber": "10.0055",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学本科学位教育课程之一，讲授内容包括风景速写、色彩表达、植物白描等。"
+  },
+  {
+   "cn": "数字艺术",
+   "en": "digital art",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.657",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "在创作过程当中将计算机、多媒体、虚拟现实等数字技术作为基本工具的艺术作品或艺术实践。发端于20世纪70年代，先后被冠以计算机艺术、多媒体艺术等，可归为新媒体艺术。"
+  },
+  {
+   "cn": "机械艺术",
+   "en": "mechanical art",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.053",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "在机器的设计、制造和操作过程中充分考虑审美因素，提高操作者和使用者的审美效果，更好地实现机器与人和谐的艺术追求。"
+  },
+  {
+   "cn": "艺术疗法",
+   "en": "art therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视觉艺术",
+   "en": "visual art",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艺术心理学",
+   "en": "art psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "铜版纸",
+   "en": "art paper",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "计算机艺术",
+   "en": "computer art",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绘图术",
+   "en": "graphic arts",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "海洋科学",
+   "en": "marine science\",\"ocean science",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "艺术之子，来吧",
+   "en": "Come ye Sons of Art",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Purcell, Henry"
+  },
+  {
+   "cn": "海洋资源学",
+   "en": "science of marine resources",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地理学体系",
+   "en": "system of geographical sciences",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "艺术印刷纸",
+   "en": "art-printing paper",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "涂布美术印刷纸",
+   "en": "coated art paper",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "制版照相",
+   "en": "graphic arts photography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "大气科学",
+   "en": "atmospheric science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息[科学]",
+   "en": "information science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境科学",
+   "en": "environmental science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表面科学",
+   "en": "surface science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "材料科学",
+   "en": "materials science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "能源科学",
+   "en": "energy science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艺术",
+   "en": "Art",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "武术",
+   "en": "martial arts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "心术",
+   "en": "The Art of the Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "化境",
+   "en": "Sublimity in Art",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "六艺",
+   "en": "The Six Arts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学",
+   "en": "Data Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公民科学",
+   "en": "citizen science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放科学",
+   "en": "open science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吉利德科学公司",
+   "en": "Gilead Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国人民解放军军事医学科学院",
+   "en": "Academy of Military Medical Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科学学",
+   "en": "science of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "20世纪30、40年代兴起的一门以科学本身为研究对象的跨学科研究，目的在于认识科学的性质特点、关系结构、运动规律和社会功能，并在认识的基础上研究促进科学发展的一般原理、原则和方法。"
+  },
+  {
+   "cn": "艺术",
+   "en": "art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0249",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以“美”的范畴统摄各门类，指绘画、雕刻、建筑、诗歌、音乐、舞蹈等活动。"
+  },
+  {
+   "cn": "艺术社会学",
+   "en": "sociology of art",
+   "source": "社会学名词",
+   "wordNumber": "3.8.1.3",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化社会学",
+   "subjectName": "文化社会学",
+   "publishYear": "2025",
+   "definition": "社会学分支学科之一，有广义、狭义之分。广义上探讨一切艺术作品或艺术形式产生的社会历史条件、过程及其承担的社会功能；狭义上研究艺术作品和艺术创作者与特定历史时期的文化和社会诸因素之间的关系，从审美的角度"
+  },
+  {
+   "cn": "原始艺术",
+   "en": "primitive art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.025",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "发生在原始社会，由古人类所创造的，不同于人类进入文明社会之后所产生的艺术，其中也包括了现在仍残存的某些原始部落的艺术。"
+  },
+  {
+   "cn": "通俗艺术",
+   "en": "popular art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0251",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由大众文艺创作家创作、在民众中广泛传播的艺术，旨在表达具有民众共同特征的审美愿望和审美趣味。"
+  },
+  {
+   "cn": "茶艺",
+   "en": "tea art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0109",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "茶的品饮技艺，主要通过择茶、选水、配具和烹煮沏泡技艺、环境空间经营，呈现技艺之美，是茶文化的重要组成部分。"
+  },
+  {
+   "cn": "艺术治疗",
+   "en": "art therapy",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.045",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "借助艺术素材、艺术活动等方式，让患者产生自由联想以稳定和调节其情感，消除负面情绪的治疗方式。与此相关的其他疗法如音乐疗法、绘画疗法、诗歌疗法、舞蹈疗法等。"
+  },
+  {
+   "cn": "精英艺术",
+   "en": "elite art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0252",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由知识分子精英群体创造的艺术，表达最具个性化的情感，传达个体与现实冲突的无法消解的内在体验，注重艺术形式的探索与实验。"
+  },
+  {
+   "cn": "民间美术",
+   "en": "folk art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0368",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人民群众创作的用以表达审美理想、美化环境、丰富民间风俗活动和在日常生活中应用及流行的美术。民间美术是伴随民俗活动而发展的；在民间的节日庆典、婚丧嫁娶、生子祝寿、迎神赛会等活动中，民间美术创作也最为活跃"
+  },
+  {
+   "cn": "艺术人类学",
+   "en": "art anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0248",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "运用文化人类学（民族学）理论和方法，对人类社会的艺术现象、学术活动、艺术作品进行分析解释的学科。"
+  },
+  {
+   "cn": "科学史",
+   "en": "history of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "研究人类对自然界和社会的科学理解和认知发展过程的一门学问。科学史利用了思想史和社会史两个面向的历史研究方法，可分为内部史和外部史研究。"
+  },
+  {
+   "cn": "科学哲学",
+   "en": "philosophy of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从哲学角度考察科学的一门学科，是自然科学与社会科学的交叉学科。它以整个科学活动和科学理论为研究对象，主要探讨科学的本质、科学知识的获得和检验、科学的逻辑结构等有关科学认识论和科学方法论方面的基本问题。"
+  },
+  {
+   "cn": "科学社会学",
+   "en": "sociology of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "以科学活动的内部社会关系、科学和社会之间的相互关系、科学和其他社会建制之间的相互作用以及科学活动中的人为研究对象的一门分支社会学。"
+  },
+  {
+   "cn": "科学文化",
+   "en": "culture of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家或“科学共同体”成员关于应当如何去从事相关研究的共同信念或观念。"
+  },
+  {
+   "cn": "科学的精神气质",
+   "en": "ethos of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.3",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "默顿提出的概念，指约束科学家的有情感色彩的价值观和规范综合体。这些规范以规定、禁止、偏好和许可的方式表达，借助制度性价值予以合法化。其现代形式由四组体制上的规则构成：普遍性、公有性、无私利性和有条理的"
+  },
+  {
+   "cn": "科学的制度化",
+   "en": "institutionalization of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.5",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "借助制度性价值，将科学的精神特质即约束科学家的有情感色彩的价值观和规范综合体合法化，其目的在于扩展被证实了的知识。"
+  },
+  {
+   "cn": "科学的自主性",
+   "en": "autonomy of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.8",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家奉行的一种观点，即认为科学是一项独特的事业，来自外界的规定会损害科学共同体，只有允许科学家按照自己的标准和判断行事，才能获得正确的知识并进而得到有效的实际应用。"
+  },
+  {
+   "cn": "科学的适应",
+   "en": "“accommodation” of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.22",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学对社会需求的满足。科学家除了专门的科学研究外，还需要把科学知识与具体科学技术等社会需求和问题结合起来，了解社会大众对该知识的重要性和有效性评价，也即科学知识要承担一定的社会功能。"
+  },
+  {
+   "cn": "科学中的不连续性",
+   "en": "science of discontinuity",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.24",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学中的一些社会反常现象。默顿认为是规范系统与奖励系统之间特有的不连续状况的结果；库恩则认为反常是科学发现的先兆，是科学革命的本质和必然。"
+  },
+  {
+   "cn": "科学的世俗化",
+   "en": "secularization of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.25",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "新教伦理对科学发展所产生的效应，主要表现在科学家对其科学工作的态度上的变化，即从证明、发现和赞颂上帝的自然杰作到逐渐摆脱宗教而转向独立，更多关注世俗生活的转变过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

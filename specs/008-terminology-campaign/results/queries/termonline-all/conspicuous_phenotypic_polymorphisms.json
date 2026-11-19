@@ -1,0 +1,452 @@
+{
+ "key": "conspicuous phenotypic polymorphisms",
+ "term": "conspicuous phenotypic polymorphisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:51:05+00:00",
+ "status": "ok",
+ "note": "variant=conspicuous phenotypic polymorphisms; 审定公布名词库=279; 海峡两岸名词对照库=160; 其他来源数据库=0; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "表型多态",
+   "en": "phenotypic polymorphism",
+   "source": "生态学名词",
+   "wordNumber": "04.139",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "同一种群中存在着两个或者多个生活型或者表型的现象。"
+  },
+  {
+   "cn": "醒目性",
+   "en": "conspicuity",
+   "source": "电气工程名词",
+   "wordNumber": "22.119",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "表型鉴定",
+   "en": "phenotyping",
+   "source": "农学名词",
+   "wordNumber": "15.309",
+   "subjectFullName": "农业生物技术_生物大数据和人工智能",
+   "subjectName": "生物大数据和人工智能",
+   "publishYear": "2025",
+   "definition": "分析生物个体或群体中由基因型产生的，可以观察的或鉴定的特征。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "风景园林名词",
+   "wordNumber": "09.0139",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "有机体可被观察到的结构和功能方面的特性，如形态和行为方面的特征。是基因型和环境交互作用的产物，即特定的基因型在一定环境条件下的表现形式。"
+  },
+  {
+   "cn": "表［现］型",
+   "en": "phenotype",
+   "source": "农学名词",
+   "wordNumber": "06.124",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在特定环境中，一个生物个体所表现的生理、形态和行为等所有特征的总和。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0027",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因及其功能_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "由构成基因型的等位基因的优势关系以及与环境相互作用使机体所产生的、可观察或测定的特征。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.073",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "基因型与环境相互作用，形成生物体可观察到的性状。在不同的环境条件下，相同的基因型可以出现不同的表型，不同的基因型也可能出现相同的表型。"
+  },
+  {
+   "cn": "表［现］型",
+   "en": "phenotype",
+   "source": "兽医学名词",
+   "wordNumber": "09.156",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "基因型决定的性状表现。"
+  },
+  {
+   "cn": "表［现］型",
+   "en": "phenotype ",
+   "source": "草学名词",
+   "wordNumber": "5.0014",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.073",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由基因型与发育环境相互作用而产生的个体可观察到的性状。狭义指某个或某些基因所表现出来的性状。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "畜牧学名词",
+   "wordNumber": "04.015",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "生物个体的性状在一定环境下的表现。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0515",
+   "subjectFullName": "食品科学技术_食品营养_营养遗传学和营养基因组学",
+   "subjectName": "营养遗传学和营养基因组学",
+   "publishYear": "2020",
+   "definition": "一个生物体可观察到的特征或性状的总和。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "植物学名词",
+   "wordNumber": "10.0016",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "一个生命体可以观察到或分辨的性状或特征的总和。是特定的基因型和环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "核医学名词",
+   "wordNumber": "04.0041",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤学基础",
+   "subjectName": "肿瘤学基础",
+   "publishYear": "2018",
+   "definition": "生物体可观察到的结构和功能特性的总和。为基因型与环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "林学名词",
+   "wordNumber": "04.010",
+   "subjectFullName": "林学_林木遗传育种_林木遗传",
+   "subjectName": "林木遗传",
+   "publishYear": "2016",
+   "definition": "林木个体上所观察到或可度量的外在性状的总和。受到遗传和环境两个因素的影响。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "微生物学名词",
+   "wordNumber": "06.017",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "可被观察到的生物体或细胞的性状或特征，是特定的基因型和环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "古生物学名词",
+   "wordNumber": "01.0091",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "在特定环境中，一个生物个体所表现的生理、形态和行为等所有特征的总和。相同基因型的个体在不同环境中可显示不同的表型。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "免疫学名词",
+   "wordNumber": "1.101",
+   "subjectFullName": "免疫学_概论_免疫学相关名词",
+   "subjectName": "免疫学相关名词",
+   "publishYear": "2007",
+   "definition": "(1)在免疫遗传学范畴，指个体有核细胞所表达的HLA抗原型别。(2)在细胞免疫学范畴，指各类免疫细胞表面所表达的(特征性)膜分子。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "遗传学名词",
+   "wordNumber": "02.008",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "一个生物体(或细胞)可以观察到的性状或特征，是特定的基因型和环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "生态学名词",
+   "wordNumber": "12.061",
+   "subjectFullName": "生态学_分子生态学",
+   "subjectName": "分子生态学",
+   "publishYear": "2006",
+   "definition": "生物体可观察到的结构和功能特性的总和，是基因型与环境相互作用的结果。"
+  },
+  {
+   "cn": "表型多态性",
+   "en": "phenotypic polymorphism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "炫耀性消费",
+   "en": "conspicuous consumption",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雷达明显目标",
+   "en": "radar conspicuous object",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "多形性",
+   "en": "polymorphism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "多态现象（=多态性）",
+   "en": "polymorphism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多态性，多态现象",
+   "en": "polymorphism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多态［现象］",
+   "en": "polymorphism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "多态性,多态现象",
+   "en": "polymorphism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "多态现象",
+   "en": "polymorphism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "同质多象",
+   "en": "polymorphism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "多态性",
+   "en": "polymorphism",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多态性",
+   "en": "polymorphism",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "炫耀性消费",
+   "en": "conspicuous consumption",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.28",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "富裕的上层阶级对物品超出实用和生存所必需的浪费性、奢侈性消费。这种消费用来向他人炫耀和展示自己的金钱财力和社会地位，并享受这种地位所带来的荣耀、声望和名誉。由凡勃伦(Thorstein Bunde V"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.9.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫遗传",
+   "subjectName": "免疫遗传",
+   "publishYear": "2025",
+   "definition": "在细胞免疫学范畴，指各类免疫细胞表面所表达的(特征性)膜分子。"
+  },
+  {
+   "cn": "发育表型",
+   "en": "developmental phenotype",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "生命体在基因和环境共同作用下，在发育过程中表现出的一系列形态和功能特征。"
+  },
+  {
+   "cn": "单核苷酸多态性",
+   "en": "single nucleotide polymorphism,SNP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.9.2",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫遗传",
+   "subjectName": "免疫遗传",
+   "publishYear": "2025",
+   "definition": "在基因组水平上由单个核苷酸的变异所引起的DNA序列多态性。是人类可遗传的变异中最常见的一种，占所有已知多态性的80%以上。SNP是一种二态的标记，由单个碱基的转换或颠换所引起，也可由碱基的插入或缺失所"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

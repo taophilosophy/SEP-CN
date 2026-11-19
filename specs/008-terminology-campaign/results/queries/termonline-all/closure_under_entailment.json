@@ -1,0 +1,802 @@
+{
+ "key": "closure under entailment",
+ "term": "Closure under entailment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:37:04+00:00",
+ "status": "ok",
+ "note": "variant=Closure under entailment; 审定公布名词库=511; 海峡两岸名词对照库=131; 其他来源数据库=49; 预公布名词数据库=48; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "蕴涵",
+   "en": "entailment",
+   "source": "语言学名词",
+   "wordNumber": "01.158",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "在语义学中，指两个命题之间的一种语义关系：若第一个命题为真，那么第二个命题肯定为真，而且不可能同时肯定第一个命题又否定第二个命题。例如“我看到一只猫”和“我看见了一个动物”两个命题之间就是一种蕴涵关系"
+  },
+  {
+   "cn": "文本蕴含识别",
+   "en": "textual entailment recognition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0589",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "判断一个文本所含信息是否可以推演出另一个文本所含信息的过程、技术和方法。"
+  },
+  {
+   "cn": "闭合度",
+   "en": "closure",
+   "source": "地质学名词",
+   "wordNumber": "09.03.035",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "背斜层面的最高点与此面最低闭合的构造等高线之间的高差。"
+  },
+  {
+   "cn": "创面闭合",
+   "en": "closure",
+   "source": "手外科学名词",
+   "wordNumber": "04.0069",
+   "subjectFullName": "手外科学_上肢损伤",
+   "subjectName": "上肢损伤",
+   "publishYear": "2020",
+   "definition": "开放创口采用直接缝合、植皮、皮瓣或新型负压封闭引流技术的护创材料封闭，使其与外界隔绝的手术。"
+  },
+  {
+   "cn": "合龙",
+   "en": "closure",
+   "source": "电力名词",
+   "wordNumber": "15.062",
+   "subjectFullName": "电力_水电站施工",
+   "subjectName": "水电站施工",
+   "publishYear": "2020",
+   "definition": "截流或堵口时,达到最终闭合龙口,截断水流的施工。"
+  },
+  {
+   "cn": "闭包",
+   "en": "closure",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0475",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "语言的一种运算。一个语言 L 的闭包是 L 的各次幂的并集。当给定一组语言操作（例如语句的逆、同态映射）时，也理解为在这组操作下封闭的语句集合。"
+  },
+  {
+   "cn": "闭包",
+   "en": "closure",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0053",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "当一个集合S在某个运算下的时候不闭合，通常可以找到的包含S的最小的闭合集合。"
+  },
+  {
+   "cn": "合龙",
+   "en": "closure",
+   "source": "土木工程名词",
+   "wordNumber": "06.227",
+   "subjectFullName": "土木工程_桥梁工程_桥梁施工",
+   "subjectName": "桥梁施工",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "桥梁合龙",
+   "en": "closure",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0540",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "闭合度",
+   "en": "closure",
+   "source": "石油名词",
+   "wordNumber": "02.0724",
+   "subjectFullName": "石油_油气地质勘探_油气聚集",
+   "subjectName": "油气聚集",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "闭包",
+   "en": "closure",
+   "source": "数学名词",
+   "wordNumber": "08.0461",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "闭合",
+   "en": "closure",
+   "source": "地质学名词",
+   "wordNumber": "03.314",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "持阻",
+   "en": "hold,closure",
+   "source": "语言学名词",
+   "wordNumber": "03.086",
+   "subjectFullName": "语言学_语音学_发音语音学",
+   "subjectName": "发音语音学",
+   "publishYear": "2011",
+   "definition": "辅音（特别指塞音和塞擦音）发音过程的中间阶段。在此阶段，主动发音器官和被动发音器官的阻塞或阻碍状态保持不变。"
+  },
+  {
+   "cn": "内倾性收敛",
+   "en": "introspective closure",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.638",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "形式化模型通常将内倾性和收敛原则视为认知代理（主体）的整体性质。"
+  },
+  {
+   "cn": "闭合幅度",
+   "en": "closure amplitude",
+   "source": "天文学名词",
+   "wordNumber": "06.367",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "综合孔径阵任意四个单元组成的基线闭合四边形之上，四个可见度幅度的测量值与各单元增益无关的比值。可用于定标补偿增益变化。"
+  },
+  {
+   "cn": "闭合相位",
+   "en": "closure phase",
+   "source": "天文学名词",
+   "wordNumber": "06.368",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "综合孔径阵任意三个单元组成的基线闭合三角形之上，三个相位测量值的顺序求和值。不随单元或大气造成的相位移动而变，是定标的重要基础。"
+  },
+  {
+   "cn": "感知关闭",
+   "en": "sense closure",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "14.045",
+   "subjectFullName": "新闻学与传播学_媒介环境_媒介影响研究与人类环境",
+   "subjectName": "媒介影响研究与人类环境",
+   "publishYear": "2022",
+   "definition": "感知比率失调时神经系统的保护性机制。麦克卢汉认为，新媒介使一种感官单兵突进，并使感知比率失调，打破感知平衡。为了恢复感知平衡，神经系统就被“关闭”，相关的肢体就“自动截除”(autoamputatio"
+  },
+  {
+   "cn": "截流",
+   "en": "river closure",
+   "source": "电力名词",
+   "wordNumber": "15.057",
+   "subjectFullName": "电力_水电站施工",
+   "subjectName": "水电站施工",
+   "publishYear": "2020",
+   "definition": "施工导流时截断河道,迫使河水流向预留导流通道的施工方法。"
+  },
+  {
+   "cn": "龙口",
+   "en": "closure gap",
+   "source": "电力名词",
+   "wordNumber": "15.063",
+   "subjectFullName": "电力_水电站施工",
+   "subjectName": "水电站施工",
+   "publishYear": "2020",
+   "definition": "施工导流截流时和防洪抢险堵口时过流的口门。"
+  },
+  {
+   "cn": "壳层封闭",
+   "en": "shell closure",
+   "source": "物理学名词",
+   "wordNumber": "07.0045",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "闭包",
+   "en": "closure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "被动脱水关闭",
+   "en": "dehydropassive closure",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主动脱水关闭",
+   "en": "dehydroactive closure",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "闭合假设",
+   "en": "closure assumptions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非局地闭合",
+   "en": "nonlocal closure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环合",
+   "en": "ring closure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "郁闭",
+   "en": "crown closure",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "闭合差",
+   "en": "closure error",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "环线闭合差",
+   "en": "circuit closure",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "传递闭包",
+   "en": "transitive closure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "克林闭包",
+   "en": "Kleene closure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "属性闭包",
+   "en": "attribute closure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正闭包",
+   "en": "positive closure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "橡皮塞",
+   "en": "rubber closure",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "欠硫",
+   "en": "under cure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "欠硫",
+   "en": "under cure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "出口不足",
+   "en": "under exporting",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资不足",
+   "en": "under investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "低度城市化",
+   "en": "under-urbanization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "欠会聚",
+   "en": "under-convergence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反握",
+   "en": "under grasp\",\"under grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网底绳",
+   "en": "under rope",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在下面的摔跤手",
+   "en": "under man",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男子58公斤以下级",
+   "en": "under 58kg men",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子49公斤以下级",
+   "en": "under 49kg women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男子80公斤以下级",
+   "en": "under 80kg men",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男子68公斤以下级",
+   "en": "under 68kg men",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子67公斤以下级",
+   "en": "under 67kg women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子57公斤以下级",
+   "en": "under 57kg women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "23岁以下铁人三项世界锦标赛",
+   "en": "Under 23 World Championship",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高球",
+   "en": "lob\",\"up and under",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天下",
+   "en": "Tianxia (All Under Heaven)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "立式双管猎枪",
+   "en": "over and under shotgun",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形而下",
+   "en": "What Is Under Form / The Physical",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国内信用证项下打包贷款",
+   "en": "packing loan under domestic L/C",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "将球压入水下",
+   "en": "take the ball under the water",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天下乃天下之天下",
+   "en": "All Under Heaven Belongs to the People.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天下一家",
+   "en": "All Under Heaven Are of One Family",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色社会主义文化发展道路",
+   "en": "cultural development under socialism with Chinese characteristics",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社会封闭",
+   "en": "social closure",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "居于优势地位的阶级或身份群体通过垄断资源和机会使自身利益最大化。最初由韦伯提出，是韦伯学派阶级理论的重要概念之一，后经帕金(Frank Parkin）的进一步发展，成为解释当代社会不平等现象的一个重要"
+  },
+  {
+   "cn": "天下",
+   "en": "all-under-heaven",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "古代中国人基于经验和想象建构的世界图式。认为自己所在的地方是世界的中心也即文明的中心，由此中心向四边层层扩展，形成一个以王城为中心，其外为诸夏，再往外为夷狄的地理和政治格局。这一格局的基础和核心是“夷"
+  },
+  {
+   "cn": "未成年人",
+   "en": "under-age child",
+   "source": "社会学名词",
+   "wordNumber": "3.16.1.3",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年",
+   "subjectName": "青少年",
+   "publishYear": "2025",
+   "definition": "未满法定成年年龄的人，必须达到当地的法定年龄才能进行饮酒、投票、结婚等活动。一般指未满十八周岁的公民，但是在某些国家（如日本）指未满二十周岁的公民。"
+  },
+  {
+   "cn": "5岁以下儿童死亡",
+   "en": "under-five mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "死亡时实足年龄小于5岁的儿童死亡。"
+  },
+  {
+   "cn": "计划性市场的经济模式",
+   "en": "planned market under socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0172",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "捷克经济学家奥塔·锡克（Ota Sik）提出。主张将指令性计划改为宏观分配计划，解决第I部类和第II部类生产的不平衡，以市场解决微观不平衡；企业在市场上独立承担经营责任和风险；以市场定价取代国家指令性"
+  },
+  {
+   "cn": "屈光未充分矫正",
+   "en": "under-correction of refraction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.7",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在屈光矫正情形下当平行光线经调节静止的屈光系统后成像落在视网膜黄斑中心凹处的前面或后面的状态。成像在视网膜前为近视欠矫，成像在视网膜后为远视欠矫。"
+  },
+  {
+   "cn": "5岁以下儿童死亡监测",
+   "en": "under-five mortality surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "在具有代表性的地区或全国范围内对5岁以下儿童的生存状态进行长期、持续的动态观察，收集5岁以下儿童死亡率、死亡原因及影响因素等资料，并进行分析、解释、反馈和应用的过程。"
+  },
+  {
+   "cn": "5岁以下儿童死亡率",
+   "en": "under five mortality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.3",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "某年某地每1000活产儿中5 岁以下儿童的死亡数量。反映居民健康水平和社会经济发展水平。"
+  },
+  {
+   "cn": "3岁以下儿童数",
+   "en": "number of children under 3",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某国家或地区在某统计年度内实足年龄未满三岁的婴幼儿总数。"
+  },
+  {
+   "cn": "5岁以下儿童数",
+   "en": "number of children under 5",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某国家或地区在某统计年度内实足年龄未满五岁的婴幼儿总数。"
+  },
+  {
+   "cn": "7岁以下儿童数",
+   "en": "number of children under 7",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某国家或地区在某统计年度内实足年龄未满七岁的儿童总数。"
+  },
+  {
+   "cn": "前囟早闭",
+   "en": "premature closure of anterior fontanelle",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.3.1.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童前囟在1周岁之内过早闭合的表现。一般可以分为生理性和病理性。"
+  },
+  {
+   "cn": "前囟闭合延迟",
+   "en": "late closure of anterior fontanelle",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.3.1.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童的前囟在3岁后闭合的异常。正常儿童前囟一般在4～26月龄间闭合。"
+  },
+  {
+   "cn": "封山育林",
+   "en": "mountain closure for forest restoration",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0087",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以封禁为基本手段，利用林木自然更新能力，把疏林、灌丛或散生树木的林地封禁起来，逐渐培育成林的措施；是传统的培育森林、扩大森林资源的方法。"
+  },
+  {
+   "cn": "电脑桌下空区",
+   "en": "empty space under computer desk",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑桌下，能够满足使用者腿部自由活动的空间。"
+  },
+  {
+   "cn": "桌下空区",
+   "en": "empty space under the table",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.4.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_课桌椅卫生",
+   "subjectName": "课桌椅卫生",
+   "publishYear": "2025",
+   "definition": "课桌屉箱下的空间。"
+  },
+  {
+   "cn": "5岁以下儿童死因",
+   "en": "causes of under-five mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "导致5岁以下儿童死亡的根本原因。"
+  },
+  {
+   "cn": "6个月内婴儿母乳喂养率",
+   "en": "breastfeeding under 6 months of age",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.4.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某国家或地区在某统计年度内调查时采用母乳喂养的0-5月龄婴儿数占接受调查的该月龄段婴儿总数的百分比。"
+  },
+  {
+   "cn": "5岁以下儿童死亡率",
+   "en": "under-five mortality rate, U5MR",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某年某国家或地区出生的活产新生儿在5岁以前死亡的概率，表示为当年5岁以下儿童死亡数与活产数的千分比例。"
+  },
+  {
+   "cn": "5岁以下儿童死因别死亡率",
+   "en": "cause-specific under-five mortality rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "按照根本死因分类统计的5岁以下儿童死亡率。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

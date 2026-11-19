@@ -1,0 +1,562 @@
+{
+ "key": "codana",
+ "term": "codanā",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:11:54+00:00",
+ "status": "ok",
+ "note": "variant=codanā; 审定公布名词库=280; 海峡两岸名词对照库=199; 其他来源数据库=22; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.589",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "信息从一种形式或格式转换为另一种形式的过程。即用预先规定的方法将文字、数字或其他对象编成数码，或将信息、数据转换为规定的电脉冲信号。它与解码过程相反。"
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0366",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_蛋白质合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "通常指在基因（DNA或RNA）编码区的密码子排列顺序。"
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.099",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "根据一定的协议或格式把某种模拟信息转换成二进制数码流的过程。"
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.213",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "特指按照RNA指令，编排特定蛋白质中氨基酸序列的过程。"
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "畜牧学名词",
+   "wordNumber": "04.081",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "按照密码子将DNA序列转变为特定氨基酸残基序列的过程。"
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0213",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_领导与权力",
+   "subjectName": "领导与权力",
+   "publishYear": "2016",
+   "definition": "将信息以相应的语言、文字、符号、图形或其他形式表达出来的过程。"
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "心理学名词",
+   "wordNumber": "02.542",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对获得的信息进行表征，使其能被有效的加工和传递的心理过程。"
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "药学名词",
+   "wordNumber": "05.372",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "按照指令编排特定蛋白质的氨基酸残基序列的过程。"
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "遗传学名词",
+   "wordNumber": "03.384",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "按照指令编排特定蛋白质的氨基酸残基序列的过程。"
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0016",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "数学名词",
+   "wordNumber": "012.0102",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "编码",
+   "en": "coding,encoding",
+   "source": "物理学名词",
+   "wordNumber": "04.1515",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "编码",
+   "en": "coding,encoding",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.027",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "将信息分类的结果用一种易于被计算机或人识别的符号体系表示的过程。"
+  },
+  {
+   "cn": "编码",
+   "en": "coding,encoding",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.441",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "用代码表示信息的过程。"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "source": "农学名词",
+   "wordNumber": "15.018",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "存在于mRNA开放阅读框架区三联体核苷酸序列的统称。每3个相邻的核苷酸为一组，代表一种氨基酸。"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0333",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_蛋白质合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "在翻译过程中mRNA可读框内被连续阅读的3个相邻核苷酸。有64种密码子，构成一套遗传密码。其中有61个氨基酸密码子（包括起始密码子）和3个终止密码子，决定多肽链的组成以及翻译的起始和终止。"
+  },
+  {
+   "cn": "CODEN码",
+   "en": "coden",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.065",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "一种应用于计算机文献检索的连续出版物的6位代码，前5位为英文字母，最后一位是校验码。"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.161",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由3个相邻的核苷酸组成的mRNA基本编码单位。有64种密码子，其中有61种氨基酸密码子（包括起始密码子）和3种终止密码子。决定多肽链的氨基酸种类和排列顺序及翻译的起始和终止。"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "source": "畜牧学名词",
+   "wordNumber": "04.142",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "mRNA分子中以三个核苷酸为一组，决定一种氨基酸及多肽链合成起始与终止的信号。"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "source": "运动医学名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "运动医学_运动生化_核酸与运动",
+   "subjectName": "核酸与运动",
+   "publishYear": "2019",
+   "definition": "mRNA(或DNA)上的三联体核苷酸残基序列。编码着指定的氨基酸，tRNA的反密码子与mRNA的密码子互补。"
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "编码三联体(=密码子)",
+   "en": "coding triplet(=codon)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拼音编码",
+   "en": "Pinyin coding\",\"phonological coding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "编码",
+   "en": "coding\",\"encoding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "编码序列(=编码区)",
+   "en": "coding sequence(=coding region)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "编码",
+   "en": "coding\",\"encoding",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "编码",
+   "en": "coding\",\"encoding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汉字编码",
+   "en": "Hanzi coding\",\"Chinese character coding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "密码子偏爱性（=密码子偏倚）",
+   "en": "codon bias\",\"codon preference",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "密码子偏倚，密码子偏爱性",
+   "en": "codon bias\",\"codon preference",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "起始密码子",
+   "en": "initiation codon\",\"start codon",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "终止密码子",
+   "en": "termination codon\",\"stop codon",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "密码子偏倚",
+   "en": "codon bias\",\"codon preference",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "起始密码子",
+   "en": "initiation codon\",\"start codon",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "程序编码",
+   "en": "program coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子编码",
+   "en": "quantum coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信源编码",
+   "en": "source coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "视觉编码",
+   "en": "visual coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子密集编码",
+   "en": "quantum dense coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "差错控制编码",
+   "en": "error control coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超密编码协议",
+   "en": "super-dense coding protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛美技术标准委员会",
+   "en": "Pan American Standards Commission (COPANT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息分类编码标准",
+   "en": "standard for information classifying and coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故障检测及信息编码技术",
+   "en": "fault detection and information coding technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际科技数据委员会",
+   "en": "Committee on Data for Science and Technology (CODATA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "赋予一个问题及其答案一个数字作为代码的研究行动。"
+  },
+  {
+   "cn": "科根综合征",
+   "en": "Cogan syndrome，CS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.2.12",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种病因未明、以眼部炎症和前庭听觉障碍为特征的系统性血管炎。患者通常表现为非梅毒性基质性角膜炎、前庭功能障碍、突发听力下降以及系统性血管炎等。诊断主要依赖于临床特征，其血管病变表现为急慢性混合炎症，通"
+  },
+  {
+   "cn": "N",
+   "en": "N-level coding theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0237",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国文学人类学家叶舒宪提出的理论。该理论强调运用历史性的动态视野去看待文学文本的生成，将文物与图像构成的大传统编码视作一级编码，将象形字汉字的小传统萌发视作二级编码，早期用汉字书写而成的文本经典则被视"
+  },
+  {
+   "cn": "儿童死因编码",
+   "en": "coding of causes of under-five mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.4.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "采用一定体系或原则标准化编码5岁以下儿童死亡个案的死因诊断，使其成为一个有序的组合，以便于数据的储存、检索、分析和应用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

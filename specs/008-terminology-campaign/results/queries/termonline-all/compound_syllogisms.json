@@ -1,0 +1,672 @@
+{
+ "key": "compound syllogisms",
+ "term": "compound syllogisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:20:19+00:00",
+ "status": "ok",
+ "note": "variant=compound syllogisms; 审定公布名词库=576; 海峡两岸名词对照库=250; 其他来源数据库=9; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "三段论",
+   "en": "syllogism",
+   "source": "心理学名词",
+   "wordNumber": "02.645",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在传统逻辑中，一个命题(结论)必然是从另外两个命题(前提)中得出的一种推论方法。包括大前提、小前提和结论法。"
+  },
+  {
+   "cn": "化合物",
+   "en": "compound",
+   "source": "物理学名词",
+   "wordNumber": "08.2585",
+   "subjectFullName": "物理学_凝聚态物理学_软物质物理",
+   "subjectName": "软物质物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "化合物",
+   "en": "compound",
+   "source": "化学名词",
+   "wordNumber": "01.0062",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "两种或两种以上元素形成的单一的、具有特定性质的纯净物。如<img src='/root/syzx/static/spz/huaxue2.01.0007.1.png'/>、<img src='/root"
+  },
+  {
+   "cn": "复合",
+   "en": "compounding",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.1230",
+   "subjectFullName": "材料科学技术_高分子材料_高分子加工_加工成型工艺",
+   "subjectName": "加工成型工艺",
+   "publishYear": "2011",
+   "definition": "将两种或两种以上物理或化学性质不同的材料组合成新材料的一种方法。"
+  },
+  {
+   "cn": "调剂",
+   "en": "compounding",
+   "source": "中医药学名词",
+   "wordNumber": "06.019",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "按照医师处方为患者配制的、并注明其用法、用量的药剂调配操作技术。"
+  },
+  {
+   "cn": "复合性溃疡",
+   "en": "compound ulcer",
+   "source": "普通外科学名词",
+   "wordNumber": "17.147",
+   "subjectFullName": "医学_普通外科学_胃与十二指肠外科",
+   "subjectName": "胃与十二指肠外科",
+   "publishYear": "2026",
+   "definition": "胃溃疡和十二指肠溃疡同时存在的消化性溃疡。多见于男性，幽门狭窄或梗阻的发生率较高。"
+  },
+  {
+   "cn": "生源物",
+   "en": "precursor compound",
+   "source": "地质学名词",
+   "wordNumber": "13.06.011",
+   "subjectFullName": "地质学_地球化学_有机地球化学",
+   "subjectName": "有机地球化学",
+   "publishYear": "2026",
+   "definition": "泛指生成石油和天然气的物质。研究表明石油和天然气的主要生源物是动物和植物，但也有证据显示存在无机成因的天然气。"
+  },
+  {
+   "cn": "混合痣",
+   "en": "compound nevus",
+   "source": "整形外科名词",
+   "wordNumber": "11.1",
+   "subjectFullName": "整形外科_体表肿瘤_色素痣",
+   "subjectName": "色素痣",
+   "publishYear": "2026",
+   "definition": "皮内痣和交界痣的混合形式。由痣细胞进入真皮过程中同时出现的皮内痣与残留的交界痣形成。"
+  },
+  {
+   "cn": "复合双晶",
+   "en": "compound twin",
+   "source": "地质学名词",
+   "wordNumber": "02.00.121",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "由两个以上的单体彼此间按不同的双晶律所组成的双晶。"
+  },
+  {
+   "cn": "复合型尿道上裂",
+   "en": "compound epispadias",
+   "source": "整形外科名词",
+   "wordNumber": "20.028",
+   "subjectFullName": "整形外科_会阴部整形_男性会阴与外生殖器畸形",
+   "subjectName": "男性会阴与外生殖器畸形",
+   "publishYear": "2026",
+   "definition": "并发膀胱外翻的尿道上裂类型。可伴有耻骨联合分离。"
+  },
+  {
+   "cn": "隐色体",
+   "en": "leuco compound",
+   "source": "精细化工名词",
+   "wordNumber": "04.0026",
+   "subjectFullName": "精细化工_染料与颜料",
+   "subjectName": "染料与颜料",
+   "publishYear": "2025",
+   "definition": "某些染料，尤其是还原染料，在合成或染色过程中形成的稳定无色（浅色）化合物。"
+  },
+  {
+   "cn": "宅院",
+   "en": "residential compound",
+   "source": "风景园林名词",
+   "wordNumber": "02.0022",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "（1）带院落的房子。（2）泛指住宅，常用于指代大户人家的豪宅。"
+  },
+  {
+   "cn": "金属间化合物",
+   "en": "intermetallic compound",
+   "source": "精细化工名词",
+   "wordNumber": "08.0350",
+   "subjectFullName": "精细化工_其他精细化学品_催化剂",
+   "subjectName": "催化剂",
+   "publishYear": "2025",
+   "definition": "由两种或两种以上的金属按简单整数比例结合而成的化合物。有一定的熔点，对合成氨、烯烃加氢、异构化等具有良好的催化活性。"
+  },
+  {
+   "cn": "蛋白质类化合物",
+   "en": "protein compound",
+   "source": "精细化工名词",
+   "wordNumber": "08.0657",
+   "subjectFullName": "精细化工_其他精细化学品_化学试剂",
+   "subjectName": "化学试剂",
+   "publishYear": "2025",
+   "definition": "细胞组成的基本物质，为各种α-氨基酸借助酰胺键（即肽键）连接起来形成的一类高分子量化合物。分子量很大，可以达到数百万，甚至在千万以上，结构复杂，官能团性质多样，产品有胰岛素等。"
+  },
+  {
+   "cn": "日用香精",
+   "en": "fragrance compound",
+   "source": "精细化工名词",
+   "wordNumber": "08.0743",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "由日用香料和辅料组成的香精。"
+  },
+  {
+   "cn": "复合预混合饲料",
+   "en": "compound premix",
+   "source": "精细化工名词",
+   "wordNumber": "08.0816",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "由微量元素、维生素、氨基酸中任何两类或两类以上的组分与其他饲料添加剂及载体和（或）稀释剂按一定比例配制的均匀混合物。"
+  },
+  {
+   "cn": "复合先露",
+   "en": "compound presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎先露部伴有胎儿肢体同时进入骨盆入口。临床以一手或一前臂沿胎头脱出最常见，多发生于早产者。"
+  },
+  {
+   "cn": "光敏剂",
+   "en": "photoactive compound",
+   "source": "精细化工名词",
+   "wordNumber": "08.1153",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "光照后能够加速光刻胶胶膜溶于稀碱水溶液，而对未曝光区没有加速作用的化合物。"
+  },
+  {
+   "cn": "双叠氮化合物",
+   "en": "bisazide compound",
+   "source": "精细化工名词",
+   "wordNumber": "08.1164",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "分子结构中含有两个叠氮基团的化合物。在工业上，常作为化合物合成的中间体或作为交联剂使用。"
+  },
+  {
+   "cn": "复合加脂剂",
+   "en": "compound fatliquor",
+   "source": "精细化工名词",
+   "wordNumber": "08.1357",
+   "subjectFullName": "精细化工_其他精细化学品_皮革化学品",
+   "subjectName": "皮革化学品",
+   "publishYear": "2025",
+   "definition": "两种或两种以上皮革用加脂剂的复合物。"
+  },
+  {
+   "cn": "三段论",
+   "en": "syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "三段论",
+   "en": "syllogism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定言三段论,直言三段论",
+   "en": "categorical syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "线性三段论",
+   "en": "linear syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "化合物",
+   "en": "compound",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "化合物",
+   "en": "compound",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "化合物",
+   "en": "compound",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "复合",
+   "en": "compounding",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "复头状花序",
+   "en": "compound capitulum\",\"compound head",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复腺",
+   "en": "compound gland",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "芳香化合物",
+   "en": "aromatic compound",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复孢子叶球",
+   "en": "compound strobilus",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复雌蕊",
+   "en": "compound pistil",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复合花",
+   "en": "compound flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复[合]花序",
+   "en": "compound inflorescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复花柱",
+   "en": "compound style",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复聚伞花序",
+   "en": "compound cyme",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复球果",
+   "en": "compound strobilus",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复伞房花序",
+   "en": "compound corymb",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复伞形花序",
+   "en": "compound umbel",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复合弓",
+   "en": "compound bow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复杂防守",
+   "en": "composed parry\",\"compound parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复杂还击",
+   "en": "composed riposte\",\"compound riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复杂进攻",
+   "en": "composed attack\",\"compound attack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "综合胜",
+   "en": "compound win\",\"sogo-gachi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参赛队员区",
+   "en": "competitors’ compound\",\"riders’ quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复杂动作",
+   "en": "composed action",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "烷基化合物",
+   "en": "alkylated compound",
+   "source": "消毒学",
+   "wordNumber": "2.1.11",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "含有由碳和氢组成的链状或支链状的烷基基团，在化学反应中具有稳定性和惰性的有机化合物。"
+  },
+  {
+   "cn": "复方消毒剂",
+   "en": "compound disinfectant",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.21",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由两种或两种以上有效成分制成的消毒剂，如醇类、氯己定和季铵盐类复配，戊二醛和季铵盐类复配的消毒剂。"
+  },
+  {
+   "cn": "复合调味品",
+   "en": "compound seasoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.4",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "由两种或两种以上的调味品复合配制、特殊加工的方便调味品。"
+  },
+  {
+   "cn": "复合调味酱",
+   "en": "compound paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.43",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以两种或两种以的调味品为主要原料，添加或不添加其他调味品加工而成的复合酱类调味品。"
+  },
+  {
+   "cn": "复合含碘消毒剂",
+   "en": "compound iodine disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.2.5",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以有效碘为主要杀菌成分，复配氯已定、季铵盐、醇等其他消毒因子组成的消毒剂。"
+  },
+  {
+   "cn": "烷基化合物消毒剂",
+   "en": "alkylated compound disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.11.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以烷基化合物为主要有效成分，通过破坏微生物细胞膜发挥杀菌作用的消毒剂。"
+  },
+  {
+   "cn": "复方化学消毒剂",
+   "en": "compound chemical disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.18",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "由两种或两种以上化学消毒因子复配而成的消毒剂。"
+  },
+  {
+   "cn": "复合二氧化氯",
+   "en": "compound chlorine dioxide",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.4.7",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "二氧化氯发生器通过氯酸盐（亚氯酸盐）制备的，有效成分是氯气与二氧化氯混合物及未反应的氯酸钠杂质的二氧化氯。"
+  },
+  {
+   "cn": "放射性核素标记化合物",
+   "en": "radionuclide labeled compound",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.3",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "用放射性核素取代化合物分子中的一种或几种原子的化学合成物质。"
+  },
+  {
+   "cn": "固态复合调味品",
+   "en": "solid compound seasoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.6",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "由两种或两种以上的调味品为主要原料，添加或不添加辅料，复合配制而成的固态方便调味品。"
+  },
+  {
+   "cn": "N-亚硝基化合物",
+   "en": "N-nitroso compound",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.9.2.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品污染",
+   "subjectName": "军队食品污染",
+   "publishYear": "2025",
+   "definition": "一类含有>N-N=O 基的有机化合物,按其结构分为N-亚硝胺和N-亚硝酰胺两大类。"
+  },
+  {
+   "cn": "液态复合调味品",
+   "en": "liquid compound seasoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.5",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "由两种或两种以上的调味品为主要原料，添加或不添加辅料，复合配制而成的液态方便调味品。"
+  },
+  {
+   "cn": "复合型香辛料调味品",
+   "en": "compound spice condiment",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.12",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "由两种或两种以上的香辛料配制而成的调味品。"
+  },
+  {
+   "cn": "N-亚硝基化合物",
+   "en": "N-nitroso compound",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.4.10",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "由亚硝酸酸盐和胺类物质在适宜条件下形成的具有N-N=O 结构的化合物，分为亚硝胺和亚硝酰胺，食品中的蛋白质、脂肪在腌制、烘焙等加工过程中会产生，具有致癌作用。"
+  },
+  {
+   "cn": "富含氮化合物",
+   "en": "nitrogen-rich compounds",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.6.2",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "分子结构中氮元素含量丰富的化合物，通常氮含量占分子量的30%以上。利用这些化合物中含氮量高的特性，来虚假提高食品或饲料的“蛋白质”检测含量，以牟取暴利。如，三聚氰胺和三聚氰酸等。"
+  },
+  {
+   "cn": "复方醇类消毒剂",
+   "en": "compound alcohol-based disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.7.4",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "醇与其他消毒剂复配而成，复方醇的总含量一般不低于60%（v/v）的消毒剂。"
+  },
+  {
+   "cn": "复合季铵盐消毒剂",
+   "en": "compound quaternary ammonium salt disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.12.4",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "含有两种以上季铵盐的消毒剂，可用于物体表面、手和皮肤的消毒。"
+  },
+  {
+   "cn": "代可可脂巧克力",
+   "en": "chocolate with cocoa butter alternatives, compound chocolate",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.17",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "以代可可脂为主要原料（超过5%），添加或不添加可可制品（可可液块、可可粉、可可脂）、食糖和或甜味剂、乳制品及食品添加剂，经特定工艺制成的固态、半固态并具有巧克力风味和性状的食品。"
+  },
+  {
+   "cn": "三结合的武装力量",
+   "en": "armed forces composed of three troops",
+   "source": "马克思主义",
+   "wordNumber": "03.0413",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出野战军、地方军、民兵要三结合。野战军是骨干，地方军是重要部分，民兵是基础。它是实行人民战争的最好形式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

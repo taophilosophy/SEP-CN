@@ -1,0 +1,442 @@
+{
+ "key": "legislative conscience",
+ "term": "legislative conscience",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:40:19+00:00",
+ "status": "ok",
+ "note": "variant=legislative conscience; 审定公布名词库=20; 海峡两岸名词对照库=7; 其他来源数据库=8; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "法定荷载",
+   "en": "legislative load",
+   "source": "电力名词",
+   "wordNumber": "22.044",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "在国家法规或地方法规中所规定的荷载。"
+  },
+  {
+   "cn": "立法议会",
+   "en": "Legislative Assembly",
+   "source": "世界历史名词",
+   "wordNumber": "03.0468",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "1791年10月1日成立的法国议会，由斐扬派、雅各宾派组成。"
+  },
+  {
+   "cn": "法典委员会",
+   "en": "Legislative Commission",
+   "source": "世界历史名词",
+   "wordNumber": "05.0052",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "18世纪俄国临时召集的合议机构，目的在于编纂、规范1649年法典之后实行的一些律法。委员会先后共有7个，其中最大的一个是1767-1769年的全俄罗斯阶层代表会议，由叶卡捷琳娜二世召集。"
+  },
+  {
+   "cn": "新闻立法",
+   "en": "journalism legislation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.015",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "由国家立法机关针对新闻传播主体及其新闻传播行为制定(包括修改、废止)单行法律或相关法律规范的活动，以及这种活动结果的文本呈现。具体指对报纸、通讯社、广播、电视、新闻摄影、新闻电影等新闻媒体的资格、职能"
+  },
+  {
+   "cn": "图书馆立法",
+   "en": "library legislation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.150",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "特定立法主体依据一定职权和程序，运用一定技术，制定或修改图书馆法律规范的活动。"
+  },
+  {
+   "cn": "植物检疫立法",
+   "en": "phytosanitary legislation",
+   "source": "林学名词",
+   "wordNumber": "07.229",
+   "subjectFullName": "林学_森林保护_林业有害生物管理",
+   "subjectName": "林业有害生物管理",
+   "publishYear": "2016",
+   "definition": "授权国家植物保护机构起草植物检疫法规的法律。"
+  },
+  {
+   "cn": "行政立法",
+   "en": "administrative legislation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0379",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "行政机关依照法定程序，在职权范围内制定并颁布用于规范行政管理实践的法规规章的活动。"
+  },
+  {
+   "cn": "教育立法",
+   "en": "educational legislation",
+   "source": "教育学名词",
+   "wordNumber": "15.082",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "具有立法权的国家机关依照法定权限和程序，制定、修改或废止教育法律规范的活动。"
+  },
+  {
+   "cn": "血腥立法",
+   "en": "Bloody Legislation",
+   "source": "世界历史名词",
+   "wordNumber": "03.0305",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "英国国王从1530年起颁布的一系列迫使在圈地运动中失去土地的租佃农受雇于新贵族和资本家的法令。"
+  },
+  {
+   "cn": "资源立法",
+   "en": "resource legislation",
+   "source": "资源科学技术名词",
+   "wordNumber": "07.004",
+   "subjectFullName": "资源科学技术_资源法学",
+   "subjectName": "资源法学",
+   "publishYear": "2008",
+   "definition": "国家机关依照法定权限及一定程序，制定、修改和废除与资源相关的法律规范的活动。这里所说的国家机关是指依法有立法权的机关，包括中央机关和地方机关。"
+  },
+  {
+   "cn": "环境法规",
+   "en": "environmental legislation",
+   "source": "地理学名词",
+   "wordNumber": "09.024",
+   "subjectFullName": "地理学_环境地理学",
+   "subjectName": "环境地理学",
+   "publishYear": "2006",
+   "definition": "国家制定或认可，并由国家强制保证执行的关于保护环境和自然资源，防治污染和其他公害的法律规范的总称。"
+  },
+  {
+   "cn": "“福利国家”立法",
+   "en": "Welfare State Legislation",
+   "source": "世界历史名词",
+   "wordNumber": "03.0419",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "第二次世界大战后艾德礼工党政府民主社会主义改革的一个重要组成部分。"
+  },
+  {
+   "cn": "水行政立法",
+   "en": "administrative legislation of water",
+   "source": "水利科学技术名词",
+   "wordNumber": "17.009",
+   "subjectFullName": "水利科学技术_水利管理_水法（水利）",
+   "subjectName": "水法（水利）",
+   "publishYear": "1997",
+   "definition": "国家有关行政机关依照法定权限和程序提出水法律草案，制定水行政管理方面的法规、规章以及其他规范性文件的抽象行政行为。"
+  },
+  {
+   "cn": "报纸的良心",
+   "en": "conscience of the newspaper",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "马克思用于阐述新闻职业道德的术语。他认为，一家报纸应当以自己恒定的信念取信于读者，不因利益诱惑而无原则地改变观点。报纸应当有自己的理智、见解和良心。后来他进一步谈到不能为了利益而随时准备为任何政体效劳"
+  },
+  {
+   "cn": "档案与信息立法数据库",
+   "en": "Database on Archival and Information Legislation",
+   "source": "档案学名词",
+   "wordNumber": "09.04.010",
+   "subjectFullName": "档案学_外国档案事业史_国际档案组织与活动",
+   "subjectName": "国际档案组织与活动",
+   "publishYear": "2024",
+   "definition": "依托互联网的数据库，收入所有欧洲国家以及欧洲委员会的档案与信息法规。该项目由国际档案理事会欧洲地区分会主持开展。数据库包含基本的地理政治信息（即各国人口、语言、政府机构设置等），各国档案系统的概要说明"
+  },
+  {
+   "cn": "城乡规划立法",
+   "en": "legislation on urban and rural planning",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划法律法规",
+   "subjectName": "城乡规划法律法规",
+   "publishYear": "2021",
+   "definition": "根据《中华人民共和国立法法》的有关规定，制定、修改和废止与城乡规划制定和实施有关的法律、行政法规、地方性法规、部门规章和地方政府规章的行为和过程。"
+  },
+  {
+   "cn": "计划生育法律法规",
+   "en": "law and legislation of family planning",
+   "source": "计划生育名词",
+   "wordNumber": "01.004",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_计划生育国策",
+   "subjectName": "计划生育国策",
+   "publishYear": "2019",
+   "definition": "我国颁布实施的与计划生育有关的法律法规。有《中华人民共和国人口与计划生育法》《中华人民共和国婚姻法》《中华人民共和国母婴保健法》《计划生育技术服务管理条例》《中华人民共和国母婴保健法实施办法》《流动人"
+  },
+  {
+   "cn": "城乡规划法规",
+   "en": "legislation on urban and rural planning",
+   "source": "建筑学名词",
+   "wordNumber": "07.0347",
+   "subjectFullName": "建筑学_城乡规划_城乡规划管理",
+   "subjectName": "城乡规划管理",
+   "publishYear": "2014",
+   "definition": "按照国家立法程序所制定的关于城乡规划编制、审批和实施管理的法律、行政法规、部门规章、地方法规和地方规章的总称。"
+  },
+  {
+   "cn": "海洋环境保护法律制度",
+   "en": "legislation system for marine environmental protection",
+   "source": "海洋科技名词",
+   "wordNumber": "04.0035",
+   "subjectFullName": "海洋科学技术_其他_海洋管理",
+   "subjectName": "海洋管理",
+   "publishYear": "2007",
+   "definition": "调整海洋开发和环境保护的社会关系的法律、规章、规范等的总称。"
+  },
+  {
+   "cn": "非科学",
+   "en": "nonscience",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.051",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "无法运用自然科学方法进行检验或评价的领域。如哲学、宗教信仰、艺术、神话传说等。在科学哲学中，通常把不满足精确性和可检验性的问题或理论统称为非科学。"
+  },
+  {
+   "cn": "良心",
+   "en": "conscience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保护贸易法规",
+   "en": "protectionist legislation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易保护法",
+   "en": "protective legislation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "专利权立法",
+   "en": "patent legislation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "环境法规",
+   "en": "environmental legislation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "环境噪声法规",
+   "en": "environmental noise legislation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "水污染控制法规",
+   "en": "water pollution control legislation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "立法比较",
+   "en": "Legislation Comparison",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准立法权",
+   "en": "quasi-legislative power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权立法",
+   "en": "Data Rights Legislation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "良知",
+   "en": "Liangzhi (Conscience)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据开放立法",
+   "en": "Legislation on Open Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据交易立法",
+   "en": "Legislation on Data Trading",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全立法",
+   "en": "Legislation on Data Security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权法定",
+   "en": "Legislative Confirmation of Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "良心",
+   "en": "conscience",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.105",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们对他人、集体和社会履行义务的道德责任感，是个人意识中各种道德心理因素的有机结合。能够在行为前对行为动机进行自我检查并自我纠正，在行为中进行自我控制，在行为后能够对行为的后果和影响做出自我评价。"
+  },
+  {
+   "cn": "立法权",
+   "en": "legislative power",
+   "source": "马克思主义",
+   "wordNumber": "04.0017",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家制定、修改和废除法律的权力。统治阶级通过国家的立法活动把自己的意志用法律的形式表现出来，使之具有普遍遵守的效力。"
+  },
+  {
+   "cn": "宗教立法",
+   "en": "religious legislation",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "体现出现代国家的宗教立场、宗教政策的相关立法的总称。"
+  },
+  {
+   "cn": "社会立法",
+   "en": "social legislation",
+   "source": "马克思主义",
+   "wordNumber": "03.0162",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "西方法学家对具有普遍社会意义的立法的统称。如涉及教育、居住、租金的控制、健康福利设施、抚恤金以及其他社会保障方面的立法。而按照马克思主义理论，在资产阶级国家，希望通过国家立法和行政手段消除或适当地改善"
+  },
+  {
+   "cn": "工厂立法",
+   "en": "factory legislation",
+   "source": "马克思主义",
+   "wordNumber": "04.0004",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义工业革命后，资本主义国家为了巩固资本主义生产关系而颁布的一系列有关调整劳动关系的法律。1802年英国议会通过的《学徒健康与道德法》被认为是资产阶级工厂立法的开端，也被认为是现代劳动法的开端。"
+  },
+  {
+   "cn": "安乐死立法",
+   "en": "euthanasia legislation",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.021",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "由国家特定机关依据一定职权和程序，制定、认可、修改、补充和废止安乐死相关法律规范的活动。"
+  },
+  {
+   "cn": "集体意识",
+   "en": "collective conscience",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0524",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指同一个社会中所具有的共同信仰和情感。有别于个体观念，集体观念不是从个人自身的生活经验中所吸取的，而是通过社会环境，即教育、社会舆论、习俗"
+  },
+  {
+   "cn": "职业良心",
+   "en": "professional conscience",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.048",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在职业活动中形成的职业责任感和自我评价能力。是从业人员道德认知、情感和意志的综合体现，在职业行为前具有选择检查作用，在行为中具有监督调整作用，在行为后具有评价作用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

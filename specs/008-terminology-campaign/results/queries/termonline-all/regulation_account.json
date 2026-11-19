@@ -1,0 +1,782 @@
+{
+ "key": "regulation account",
+ "term": "regulation account",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:12:23+00:00",
+ "status": "ok",
+ "note": "variant=regulation account; 审定公布名词库=1373; 海峡两岸名词对照库=489; 其他来源数据库=102; 预公布名词数据库=118; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "账户",
+   "en": "account",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0032",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "根据会计科目在账簿中对各项经济业务进行分类、系统、连续记录的记账单元。"
+  },
+  {
+   "cn": "账号",
+   "en": "account",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.761",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在安全或多用户计算机系统中，为实现用户访问系统和资源时的权限控制而建立的一种方法。"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.017",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "以货币为主要计量尺度，对会计主体已经发生或已经完成的经济活动进行记账、算账和报账的程序。包括对会计对象（会计要素）进行完整的、连续的、系统的反映和监督。"
+  },
+  {
+   "cn": "问责",
+   "en": "accountability",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.125",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_媒体责任与公共服务",
+   "subjectName": "媒体责任与公共服务",
+   "publishYear": "2022",
+   "definition": "发生在社会责任论基础上，传媒为其产品的品质和效果而向社会做出回应的所有自愿和非自愿的过程。"
+  },
+  {
+   "cn": "会计",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0001",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "通过确认、计量和传递经济信息，以帮助信息使用者做出合理判断和决策的程序。"
+  },
+  {
+   "cn": "会计学",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0002",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "研究会计的产生、发展、对象、任务、理论和方法及其运用的一门学科。"
+  },
+  {
+   "cn": "责任性",
+   "en": "accountability",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0023",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织与行为管理",
+   "subjectName": "组织与行为管理",
+   "publishYear": "2016",
+   "definition": "对自我职责的期望与感知。"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0003",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "以货币为主要计量尺度，对经济活动进行确认、计量、记录和报告的程序。"
+  },
+  {
+   "cn": "问责",
+   "en": "accountability",
+   "source": "教育学名词",
+   "wordNumber": "14.182",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "组织或管理者所承担的责任。包括接受外界监督和质询，向公众解释其决策或行为的合理性、有效性等。"
+  },
+  {
+   "cn": "可审核性",
+   "en": "accountability",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.009",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "在通信系统安全中，当可能发生扰乱或有企图扰乱系统安全的情况时，能够跟踪到某一个可能负有责任的特定人的特性。"
+  },
+  {
+   "cn": "会计基本假设",
+   "en": "accounting postulate,accounting assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0013",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "对会计核算所处时间、空间环境、所运用的货币单位等所作的合理设定。会计基本假设包括会计主体假设、持续经营假设、会计期间假设和货币计量假设。"
+  },
+  {
+   "cn": "管理会计",
+   "en": "management accounting,managerial accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0260",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "为企业内部管理者制定决策以实现企业目标而提供财务和非财务信息的一门学科。"
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "生理学名词",
+   "wordNumber": "01.039",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "规制",
+   "en": "regulation",
+   "source": "经济学名词",
+   "wordNumber": "05.066",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "作为具体的制度安排，是政府对经济行为的管理或制约，是在市场经济体制下，以矫正和改善市场机制内在的问题为目的，政府依据有关法规制定并执行的直接干预市场配置机制或间接改变企业或消费者的供需决策的一般规则或"
+  },
+  {
+   "cn": "管制",
+   "en": "regulation",
+   "source": "经济学名词",
+   "wordNumber": "09.032",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "政府通过制定条列和设计市场激励机制，以控制厂商的价格、销售或生产等决策。"
+  },
+  {
+   "cn": "规制",
+   "en": "regulation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0024",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "公共部门依据法律法规对经济活动、社会行为进行干预的行为。包括经济性规制和社会性规制两类。"
+  },
+  {
+   "cn": "法规",
+   "en": "regulation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.002",
+   "subjectFullName": "放射医学与防护_法规与条约_法规与标准",
+   "subjectName": "法规与标准",
+   "publishYear": "2014",
+   "definition": "一般指国家行政法规。国家行政法规是由国务院制定的有关行政管理事项的规范性文件的总称，其名称一般为“条例”；其立项、起草、审查、决定、公布、解释均适用《行政法规制定程序暂行条例》(国务院令第321号，2"
+  },
+  {
+   "cn": "管制",
+   "en": "regulation",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.001",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "由政府机构制定并执行，直接干预市场配置机制，或间接改变企业和消费者的供需决策的一般规则或特殊行为。"
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "生态学名词",
+   "wordNumber": "05.137",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "种群离开其平衡密度后又返回到这一平衡密度的过程。"
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "土木工程名词",
+   "wordNumber": "12.293",
+   "subjectFullName": "土木工程_燃气与供热_燃气与供热调节与控制",
+   "subjectName": "燃气与供热调节与控制",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "账号",
+   "en": "account",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "心理账户",
+   "en": "mental account\",\"mental accounting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "调节器",
+   "en": "regulator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "调节物, 调节剂",
+   "en": "regulator",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "调整器",
+   "en": "regulator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保证金账户",
+   "en": "margin account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "备忘账户，备查账户",
+   "en": "memorandum account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "出口账户",
+   "en": "export account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "储蓄账户",
+   "en": "savings account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贷款账户",
+   "en": "loan account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单边账户",
+   "en": "single account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "担保账户",
+   "en": "secured account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抵押账户",
+   "en": "hypothecated account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "第二账户",
+   "en": "second account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "对外账户",
+   "en": "outward account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "负债账户",
+   "en": "liability account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股金账户",
+   "en": "share account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可追责",
+   "en": "accountability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "账户支付",
+   "en": "account payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公众号",
+   "en": "official account",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链监管",
+   "en": "Blockchain Regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技监管",
+   "en": "Fintech Regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用监管",
+   "en": "credit regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法规制",
+   "en": "algorithm regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比赛时间",
+   "en": "regulation time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交通规则",
+   "en": "traffic regulations",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交通规则",
+   "en": "traffic regulations",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远程开户",
+   "en": "remote account opening",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技监管机构",
+   "en": "Fintech regulator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款融资",
+   "en": "accounts receivable financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款质押",
+   "en": "accounts receivable pledging",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.5",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "依据《会计法》等有关法规，以货币为主要计量尺度，对医疗机构经济活动进行确认、计量、记录和报告的程序。"
+  },
+  {
+   "cn": "规章",
+   "en": "regulation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.18",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "各级领导机关及其职能部门、社会团体、企事业单位，为实施管理，规范工作、活动和有关人员行为，在其职权范围内制定并发布实施的、具有行政约束力和道德行为准则的规范性文书的总称。"
+  },
+  {
+   "cn": "基金决算",
+   "en": "final accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.8",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "一定时间（通常指一年）后，健康保险经办机构根据财政部门规定的表式、时间和要求，对健康保险基金的收支情况进行清算汇总，并编制年度健康保险基金财务报告的行为"
+  },
+  {
+   "cn": "经济核算",
+   "en": "economic accounting",
+   "source": "马克思主义",
+   "wordNumber": "02.0303",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在对经济项目的估价和保证最佳利用资源的情况下，完成这些项目所需费用的估价。经济核算的目的是节约或最有效的利用资源和产品。"
+  },
+  {
+   "cn": "成本核算",
+   "en": "cost accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "医院将其业务活动中所发生的各种耗费按照核算对象进行归集和分配，计算出总成本和单位成本的过程。"
+  },
+  {
+   "cn": "总会计师",
+   "en": "chief accountant",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "领导医疗机构经济核算和财务会计工作，参与医疗机构重要经济问题的分析和决策的负责人。"
+  },
+  {
+   "cn": "产品监管",
+   "en": "product regulation",
+   "source": "消毒学",
+   "wordNumber": "5.2",
+   "subjectFullName": "消毒学_监督管理",
+   "subjectName": "监督管理",
+   "publishYear": "2025",
+   "definition": "行政机关依据相关法律法规和标准对消毒产品开展监督和管理的行政执法行为。"
+  },
+  {
+   "cn": "地方性法规",
+   "en": "local regulation",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规",
+   "subjectName": "放射卫生法规",
+   "publishYear": "2025",
+   "definition": "法定的地方国家权力机关依照法定的权限，在不与宪法、法律和行政法规相抵触的前提下，制定和颁布的在本行政区域范围内实施的管理规定。"
+  },
+  {
+   "cn": "智慧型规范",
+   "en": "smart regulation",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.8",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一系列特定的环境管理理论认为管理环境行动的最好方式就是将各种各样的方法和行动者聚集在一起，从而培养对“可持续发展”目标的遵从。"
+  },
+  {
+   "cn": "自我调节",
+   "en": "self-regulation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.6.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我发展",
+   "subjectName": "自我发展",
+   "publishYear": "2025",
+   "definition": "广义指人们给自己制定行为标准，用自己能够控制的奖赏或惩罚来加强、维护或改变自己行为的过程。狭义指自我强化，即当人们达到了自己制定的标准时，用自己能够控制的奖赏来加强和维持自己的行为的过程。"
+  },
+  {
+   "cn": "调节学派",
+   "en": "regulation school",
+   "source": "马克思主义",
+   "wordNumber": "05.0155",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪70年代在法国兴起强调资本主义须由国家调节的理论。认为无调节的积累和制度之间矛盾的激化导致了资本主义的危机，福特主义积累体制是美国战后扩张的中心环节，而70年代的滞涨是福特主义发展潜力被耗尽的"
+  },
+  {
+   "cn": "免疫调节",
+   "en": "immune regulation",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.7.1",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫调节",
+   "subjectName": "免疫调节",
+   "publishYear": "2025",
+   "definition": "机体对免疫应答进行的调控。免疫系统中的免疫细胞和免疫分子之间，以及与其他系统如神经内分泌系统之间的相互作用，使得免疫应答以最恰当的形式维持在最适当的水平。"
+  },
+  {
+   "cn": "价格管制",
+   "en": "price regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.3.2.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "政府利用法律法规规定价格水平，比如对高端医疗服务和贵重药品实行最高限价。"
+  },
+  {
+   "cn": "医疗规制",
+   "en": "medical regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府从资源有效配置和服务的公平供给出发，确定医疗服务机构的产品或服务价格标准，并对个人或保险机构支付给医疗机构费用进行调节与控制的方法。主要包括准入规制、质量规制和信息规制等。"
+  },
+  {
+   "cn": "准入规制",
+   "en": "access regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府对进入卫生服务市场需要达到的条件或标准以及进入市场后需要遵守的相关规范所制定的相关制度。"
+  },
+  {
+   "cn": "质量规制",
+   "en": "quality regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府对医疗卫生服务的可靠性、遵照标准的程度及其结果的一种约束或限制。一般通过许可证制度、合格鉴定和审查制度等形式完成。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "政府规制",
+   "en": "government regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "作为对外部竞争约束的替代，政府必须对公共卫生机构提供公共产品的行为加以约束或规定，做出关于安全标准、价格规范、药品供应和废弃物监管等方面的制度安排。"
+  },
+  {
+   "cn": "经济规制",
+   "en": "economic regulation ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府为防止垄断行业滥用市场力量，对商品价格、种类、市场进入和退出条件以及投资、财务、会计等方面的经济活动所进行的规制。"
+  },
+  {
+   "cn": "社会规制",
+   "en": "social regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府为了民众健康或安全，针对某些经济活动所引起的各种副作用和外部影响而制定的规章制度，并对实施情况予以监督。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

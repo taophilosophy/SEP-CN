@@ -1,0 +1,552 @@
+{
+ "key": "mao",
+ "term": "mào",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:06:39+00:00",
+ "status": "ok",
+ "note": "variant=mào; 审定公布名词库=107; 海峡两岸名词对照库=13; 其他来源数据库=1; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "甲基铝氧烷",
+   "en": "methylaluminoxane,MAO",
+   "source": "化学名词",
+   "wordNumber": "05.0551",
+   "subjectFullName": "化学_高分子化学_聚合与高分子化学反应",
+   "subjectName": "聚合与高分子化学反应",
+   "publishYear": "2016",
+   "definition": "三甲基铝部分水解形成的线形或环状低聚物。"
+  },
+  {
+   "cn": "甲基铝氧烷",
+   "en": "methylaluminoxane,MAO",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0099",
+   "subjectFullName": "材料科学技术_高分子材料_高分子科学",
+   "subjectName": "高分子科学",
+   "publishYear": "2011",
+   "definition": "由三甲基铝与水反应而得的线型及环型的产物。"
+  },
+  {
+   "cn": "髓过氧化物酶",
+   "en": "myeloperoxidase,MPO",
+   "source": "细胞生物学名词",
+   "wordNumber": "02.281",
+   "subjectFullName": "细胞生物学_细胞化学",
+   "subjectName": "细胞化学",
+   "publishYear": "2009",
+   "definition": "存在于中性粒细胞嗜天青颗粒中的一种过氧化物酶。通过把H₂O₂和Cl⁻变为次氯酸破坏外来物质。该系统具有强大的抗细菌、真菌和病毒作用。"
+  },
+  {
+   "cn": "髓过氧化物酶",
+   "en": "myeloperoxidase,MPO",
+   "source": "免疫学名词",
+   "wordNumber": "1.22",
+   "subjectFullName": "免疫学_概论_固有免疫",
+   "subjectName": "固有免疫",
+   "publishYear": "2007",
+   "definition": "一种催化过氧化物还原的酶，是中性粒细胞和单核细胞氧依赖性杀菌系统的重要组分。"
+  },
+  {
+   "cn": "微弧氧化",
+   "en": "microarc oxidation,MAO",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.326",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_表面处理及复合热处理",
+   "subjectName": "表面处理及复合热处理",
+   "publishYear": "2021",
+   "definition": "一种通过电解液与相应电参数的组合，在铝、镁、钛及其合金表面依靠弧光放电产生的瞬时高温高压作用，原位生长出以基体金属氧化物为主的陶瓷膜技术。"
+  },
+  {
+   "cn": "单胺氧化酶",
+   "en": "monoamine oxidase,MAO",
+   "source": "老年医学名词",
+   "wordNumber": "03.174",
+   "subjectFullName": "老年医学_老年基础医学",
+   "subjectName": "老年基础医学",
+   "publishYear": "2017",
+   "definition": "在细胞内存在于线粒体外膜上，具有催化单胺氧化脱氨作用，使儿茶酚胺类神经递质失活的酶。见于脊椎动物的各种器官，特别是分泌腺、脑和肝脏。"
+  },
+  {
+   "cn": "管理层收购",
+   "en": "management buyout,MBO",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0612",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "目标公司的管理者或经理层利用借款资本购买本公司的股份，从而改变本公司所有权结构、控制权结构和资产结构，进而达到重组本公司目的并获得预期收益的一种收购行为。"
+  },
+  {
+   "cn": "黄土峁",
+   "en": "mao,loess hill",
+   "source": "地理学名词",
+   "wordNumber": "03.171",
+   "subjectFullName": "地理学_地貌学",
+   "subjectName": "地貌学",
+   "publishYear": "2006",
+   "definition": "黄土地貌中的一种形态类型。外形呈穹隆状或馒头状的黄土丘陵。“峁”是中国西北地区群众的一个俗称。"
+  },
+  {
+   "cn": "单胺氧化酶",
+   "en": "monoamine oxidase,MAO",
+   "source": "昆虫学名词",
+   "wordNumber": "09.115",
+   "subjectFullName": "昆虫学_昆虫毒理与药理",
+   "subjectName": "昆虫毒理与药理",
+   "publishYear": "2000",
+   "definition": "一种黄素蛋白酶，存在于许多组织的细胞线粒体外膜上，催化单胺的氧化脱氨作用，是生物体内自行产生的生物胺的氧化酶。"
+  },
+  {
+   "cn": "材料统计",
+   "en": "material take-off,MTO",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.564",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "工程设计过程中根据设计图纸和文件对各类散装材料分类进行的数量统计。"
+  },
+  {
+   "cn": "中圆地球轨道",
+   "en": "medium earth orbit,MEO",
+   "source": "测绘学名词",
+   "wordNumber": "02.518",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "轨道高度在2000～35000km的近圆形的卫星轨道。"
+  },
+  {
+   "cn": "目标管理",
+   "en": "management by object,MBO",
+   "source": "经济学名词",
+   "wordNumber": "15.095",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "以企业绩效和员工工作成效为导向而建立的一种企业经营管理方式。它由美国学者德鲁克最先提出。与传统的控制管理方式不同，目标管理强调员工的自主创新精神和自我管理意识，旨在实现组织目标和个人要求相统一的有效状"
+  },
+  {
+   "cn": "中地球轨道",
+   "en": "medium earth orbit,MEO",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0479",
+   "subjectFullName": "计算机科学技术_网络与数据通信_无线网络",
+   "subjectName": "无线网络",
+   "publishYear": "2018",
+   "definition": "高于低地球轨道低于同步轨道的卫星轨道。"
+  },
+  {
+   "cn": "订货型生产",
+   "en": "make to order,MTO",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0040",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "按用户订单进行生产的模式。"
+  },
+  {
+   "cn": "膜源寡糖",
+   "en": "membrane-derived oligosaccharide,MDO",
+   "source": "微生物学名词",
+   "wordNumber": "05.019",
+   "subjectFullName": "微生物学_微生物生理生化",
+   "subjectName": "微生物生理生化",
+   "publishYear": "2012",
+   "definition": "革兰氏阴性菌中一类十分相似、高度分支、仅含葡萄糖的寡聚糖，其合成和积累与环境渗透压呈负相关。"
+  },
+  {
+   "cn": "中轨道地球卫星",
+   "en": "middle earth orbit,MEO",
+   "source": "通信科学技术名词",
+   "wordNumber": "11.009",
+   "subjectFullName": "通信科学技术_卫星通信",
+   "subjectName": "卫星通信",
+   "publishYear": "2007",
+   "definition": "运行轨道在2000km以上同步轨道以下范围里的卫星。"
+  },
+  {
+   "cn": "冒纳罗亚观测站",
+   "en": "Mauna Loa Observatory,MLO",
+   "source": "生态学名词",
+   "wordNumber": "09.099",
+   "subjectFullName": "生态学_全球生态学",
+   "subjectName": "全球生态学",
+   "publishYear": "2006",
+   "definition": "全球最早建立的大气基准观测站之一，设于美国夏威夷的冒纳罗亚(Mauna Loa)火山(海拔3397 m)。因最早于1958年以来连续观测大气二氧化碳浓度而闻名。"
+  },
+  {
+   "cn": "最经济观测",
+   "en": "most economic observing,MEO",
+   "source": "自动化名词",
+   "wordNumber": "02.294",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "单胺氧化酶抑制剂",
+   "en": "monoamine oxi-dase inhibitor,MAO",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.063",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_临床与治疗",
+   "subjectName": "临床与治疗",
+   "publishYear": "2019",
+   "definition": "主要通过抑制单胺氧化酶的活性，使突触间介质浓度升高而发挥作用的抑制剂。选择性抑制机体内单胺氧化酶的活性，分为A型单胺氧化酶抑制剂 （MAO-A）和B型单胺氧化酶抑制剂（MAO- B）。"
+  },
+  {
+   "cn": "微粒体多功能氧化酶系",
+   "en": "microsomal mixed function oxidases,MFO",
+   "source": "昆虫学名词",
+   "wordNumber": "09.114",
+   "subjectFullName": "昆虫学_昆虫毒理与药理",
+   "subjectName": "昆虫毒理与药理",
+   "publishYear": "2000",
+   "definition": "存在于某些细胞的光滑内质网上的一种氧化酶系。在还原辅酶Ⅱ (NADPH)和分子氧存在的情况下，催化各种内源和外源化合物的氧化。如甾体激素、脂肪酸、药物、杀虫剂及环境污染物。它的主要组分有细胞色素P45"
+  },
+  {
+   "cn": "甲基铝氧烷",
+   "en": "methylaluminoxane\",\"MAO",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "髓过氧化物酶",
+   "en": "myeloperoxidase\",\"MPO",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "肌-肌醇",
+   "en": "myo-inositol",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "髓过氧化物酶",
+   "en": "myeloperoxidase， MPO",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单氨氧化酶",
+   "en": "monoamine oxidase\",\"MAO",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "黄土峁",
+   "en": "mao\",\"loess hill",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "单胺氧化酶",
+   "en": "monoamine oxidase\",\"MAO",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单胺氧化酶",
+   "en": "monoamine oxidase\",\"MAO",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "目标管理",
+   "en": "management by objectives\",\"MBO",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冒纳罗亚观测站",
+   "en": "Mauna Loa Observatory\",\"MLO",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "Mo细胞",
+   "en": "Mo cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "主振荡器",
+   "en": "master oscillator\",\"MO",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗髓过氧化物酶抗体",
+   "en": "anti-myeloperoxidase antibody， anti-MPO antibody",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "本末",
+   "en": "Ben and Mo (The Fundamental and the Incidental)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安多",
+   "en": "A mdo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0544",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "地名，藏语音译，指今天青海巴颜喀拉山以东，包括甘肃和四川阿坝藏族自治州北部在内的广大地区。安多又特指青海与甘肃省南部等地的藏族聚居区。居住在这一带的藏族自称“安多哇”，讲藏语安多方言"
+  },
+  {
+   "cn": "朵甘思",
+   "en": "Mdo khams",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0331",
+   "subjectFullName": "民族学与文化学_民族史_民族经济与地理",
+   "subjectName": "民族经济与地理",
+   "publishYear": "2025",
+   "definition": "地名。元代史籍中对藏族聚居地区的译称。包括今西藏自治区昌都地区东部及甘肃、青海、四川、云南等省藏族地区。"
+  },
+  {
+   "cn": "毛泽东思想",
+   "en": "Mao Zedong Thought",
+   "source": "马克思主义",
+   "wordNumber": "03.0321",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东同志为主要代表的中国共产党人，把马克思列宁主义的基本原理同中国革命的具体实践结合起来，创立了毛泽东思想。毛泽东思想是马克思列宁主义在中国的运用和发展，是被实践证明了的关于中国革命和建设的正确的"
+  },
+  {
+   "cn": "《安多政教史》",
+   "en": "A mdo chos vbyung",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0373",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族历史名著，札贡巴·贡却丹巴饶杰（1801 一？）著，成书于1865 年，专门叙述了安多地区佛教发展历史、政治、文化、经济、教育等，本书序论中录有600 余条藏文史传总目。"
+  },
+  {
+   "cn": "多康六区",
+   "en": "Mdo kams sgang drug",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0545",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "古代地区名称。古代藏文典籍中将西康、青海、西藏为上中下三区。下区青康一带，依水流和山势起伏情形，又分色莫岗、擦瓦岗、玛康岗、绷波岗、马杂岗和木雅热岗，通称下部多康六岗。"
+  },
+  {
+   "cn": "莫徭",
+   "en": "Mo Yao",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0126",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。南朝时期生活于零陵、衡阳、长沙等郡，依山险而居，以烧山种畲与鱼猎为生，不归属于中原王朝统治，不服徭役、不纳赋。信仰盘瓠。湖南南部、广西与广东北部，均有分布。为瑶族与苗族之先民。"
+  },
+  {
+   "cn": "昆莫",
+   "en": "Kum-mo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0248",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "汉时西域乌孙国王的名号，犹如匈奴之单于。"
+  },
+  {
+   "cn": "莫语",
+   "en": "Mo language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0275",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "自称“爱莫”他称“莫家”的布依族使用的语言。属汉藏语系侗台语族侗水语支。分布在贵州的荔波县阳凤等4 乡，使用人口约1 万人。"
+  },
+  {
+   "cn": "毛泽东哲学思想",
+   "en": "philosophical thought of Mao Zedong",
+   "source": "马克思主义",
+   "wordNumber": "01.0227",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东为代表的中国共产党人把马克思列宁主义哲学思想与中国革命和建设的具体实践相结合的产物，以《矛盾论》《实践论》为代表作，是马克思列宁主义哲学思想的中国化理论。"
+  },
+  {
+   "cn": "豆莫娄",
+   "en": "Dou Mo Lou",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.003",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。《魏书》有传。为夫余人后裔。夫余亡后，其北部遗民渡那河（今嫩江）而居。自北魏至唐，多次遣使朝贡。分布于今黑龙江﹑嫩江以东，哈尔滨以北之呼兰河流域。"
+  },
+  {
+   "cn": "毛泽东思想活的灵魂",
+   "en": "living soul of Mao Zedong thought",
+   "source": "马克思主义",
+   "wordNumber": "01.0244",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东为代表的中国共产党人把马克思主义的世界观和方法论，运用于中国革命和建设的实践，形成了毛泽东思想活的灵魂，包括实事求是、群众路线、独立自主三个基本方面。"
+  },
+  {
+   "cn": "毛泽东思想的科学体系",
+   "en": "scientific system of Mao Zedong thought",
+   "source": "马克思主义",
+   "wordNumber": "03.0322",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "由毛泽东思想的主要内容和它的活的灵魂构成的理论体系。主要包括：关于新民主主义革命理论；关于社会主义革命和社会主义建设理论；关于革命军队的建设和军事战略理论；关于政策和策略理论；关于思想政治工作和文化工"
+  },
+  {
+   "cn": "《密宗道次第广论》",
+   "en": "Sngags rim chen mo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0352",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教经典名著，宗喀巴（1357 年—1419 年）著，详述了四续密法的修行次第、仪轨、方法等，全文分两大部分。一，如何修习佛法得到解脱的方法，阐述了大、小乘教法与金刚乘密法及其彼此间的关系。二，事"
+  },
+  {
+   "cn": "仲译钦莫",
+   "en": "Drung yig chen mo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0539",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "行政官职名称，原西藏地方政府官职，藏语音译，意为大秘书，系“译仓”官员，由四人组成,均系四品僧官,掌管除班禅系统外的西藏地方宗教事务,并负责达赖喇嘛的印信、文书、命令等一应事务,同时也管理僧官培养、任"
+  },
+  {
+   "cn": "吉祥天母",
+   "en": "Dpal ldan lha mo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0456",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教密宗中一个女性护法神。梵文 Lakşmī，藏语称“班丹拉姆”。她是古印度神话中的人物，传说是天神和仇敌阿修罗搅动乳海时诞生的，后来她成了藏传佛教的重要护法神。其形象有两种：文静型和忿怒型，文静"
+  },
+  {
+   "cn": "《菩提道次第广论》",
+   "en": "Sngags rim chen mo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0353",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教经典名著。宗喀巴（1357 年—1419 年）著，是依照阿底峡的《菩提道炬论》、卓隆巴的《道次第论》和《圣教次第论》以及莲花戒的《修道次第论》的思想内容所著成的一部阐述佛教教义和修法的巨著。从"
+  },
+  {
+   "cn": "完整准确理解毛泽东思想",
+   "en": "understand Mao Zedong thought completely and accurately",
+   "source": "马克思主义",
+   "wordNumber": "03.0510",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平在中共十届三中全会上对毛泽东思想的阐述。邓小平指出，毛泽东同志在不同的时间、条件对同样的问题讲的话，有时分寸不同，着重点不同，甚至一些提法也不同。不能够只从个别词句来理解毛泽东思想，而必须从毛泽"
+  },
+  {
+   "cn": "顶果钦哲仁波切",
+   "en": "Dil mgo mkhyen brtse rin po che",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.039",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教著名人物，生于四川德格，著名的宁玛派传承上师，集圣者、学者和诗人于一身。成为藏传佛教四个主要教派诸多上师的教师，是藏传佛教不分教派运动的主要人物。其著作共有25 册，共有5 大卷伏藏文献，并有"
+  },
+  {
+   "cn": "小昭寺",
+   "en": "Rgya stag ra mo che",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0571",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教寺院，藏语称“甲达绕木切”，位于拉萨，公元641 年由文成公主奠基建成。现有建筑面积4000 平方米，主要供奉释迦牟尼8 岁等身像，另有诸多珍贵文物。2001 年被列为全国重点文物保护单位。"
+  },
+  {
+   "cn": "大祈愿法会",
+   "en": "Cho vphrul smon lam chen mo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0441",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教格鲁派重要宗教活动，一般在藏历年正月里举行，为期21 天，历史上格鲁派三大寺僧人及卫藏、安多和康区各地僧俗群众皆汇聚拉萨大昭寺举行辩经、祈祷、诵经等各种宗教活动。公元1409 年正月初一宗喀巴"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

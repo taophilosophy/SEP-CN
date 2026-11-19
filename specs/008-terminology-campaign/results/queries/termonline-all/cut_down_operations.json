@@ -1,0 +1,782 @@
+{
+ "key": "cut-down operations",
+ "term": "cut-down operations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:38:08+00:00",
+ "status": "ok",
+ "note": "variant=cut-down operations; 审定公布名词库=3646; 海峡两岸名词对照库=870; 其他来源数据库=297; 预公布名词数据库=143; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "下切[作用]",
+   "en": "down-cutting",
+   "source": "地质学名词",
+   "wordNumber": "01.057",
+   "subjectFullName": "地质学_地质学总论",
+   "subjectName": "地质学总论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "上切式剪切机",
+   "en": "down cut shears",
+   "source": "冶金学名词",
+   "wordNumber": "09.1369",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "剪切轧件时，下刀片固定不动，上刀片向下运动进行剪切的剪切机。"
+  },
+  {
+   "cn": "下切侵蚀",
+   "en": "down-cutting erosion",
+   "source": "土壤学名词",
+   "wordNumber": "08.083",
+   "subjectFullName": "土壤学_土壤侵蚀与水土保持",
+   "subjectName": "土壤侵蚀与水土保持",
+   "publishYear": "1998",
+   "definition": "沟谷沟床在流水作用下向深度发展的侵蚀过程。"
+  },
+  {
+   "cn": "下降算子",
+   "en": "slip down operator,down-ladder operator",
+   "source": "数学名词",
+   "wordNumber": "06.0644",
+   "subjectFullName": "数学_微分方程_积分方程_特殊函数",
+   "subjectName": "特殊函数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "激光切割术",
+   "en": "laser cutting operation",
+   "source": "光学名词",
+   "wordNumber": "28.132",
+   "subjectFullName": "光学_生物光学与激光医疗",
+   "subjectName": "生物光学与激光医疗",
+   "publishYear": "2021",
+   "definition": "激光束聚焦(激光刀)在生物组织上移动，通过燃烧切开生物组织的激光手术。此时切口两侧的生物组织形成了热凝固区，封闭了血管，手术失血较少。"
+  },
+  {
+   "cn": "配料",
+   "en": "rough cutting,break-down",
+   "source": "林学名词",
+   "wordNumber": "11.580",
+   "subjectFullName": "林学_木材科学与技术_家具与木制品",
+   "subjectName": "家具与木制品",
+   "publishYear": "2016",
+   "definition": "按照产品零部件的尺寸、规格和质量要求，将锯材锯制成各种规格和形状的毛料的加工过程。"
+  },
+  {
+   "cn": "削坡放缓",
+   "en": "slow down slope cutting",
+   "source": "农学名词",
+   "wordNumber": "12.248",
+   "subjectFullName": "农业水利_农业水管理",
+   "subjectName": "农业水管理",
+   "publishYear": "2025",
+   "definition": "根据当地土壤质地及地下水位情况，适当减小排水沟道坡度以提高边坡的稳定性，防止坍塌的措施。"
+  },
+  {
+   "cn": "胎毛",
+   "en": "down",
+   "source": "人体解剖学名词",
+   "wordNumber": "07.0393",
+   "subjectFullName": "人体解剖学_感觉器_其他感觉器、皮肤及其衍生结构",
+   "subjectName": "其他感觉器、皮肤及其衍生结构",
+   "publishYear": "2014",
+   "definition": "胎儿身体表面无色的细毛。"
+  },
+  {
+   "cn": "挖方",
+   "en": "cut",
+   "source": "风景园林名词",
+   "wordNumber": "08.0070",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程地形整理",
+   "subjectName": "风景园林工程地形整理",
+   "publishYear": "2025",
+   "definition": "施工中设计标高低于原地形标高时，从原地面挖土至完成面标高去除的土石方体积。"
+  },
+  {
+   "cn": "茬次",
+   "en": "cut ",
+   "source": "草学名词",
+   "wordNumber": "6.0257",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "粒度级",
+   "en": "cut",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.072",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_粉末性能及其测试",
+   "subjectName": "粉末性能及其测试",
+   "publishYear": "2021",
+   "definition": "介于两种名义粒度界限内的粉末的粒度等级。"
+  },
+  {
+   "cn": "切",
+   "en": "cut",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0631",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "设 C是一个偏序结构的子结构，如果C中的任意两个元素都不存在序关系，对C外的任一个元素x，C中都存在元素与x构成序关系，就称C 为这个偏序结构中的一个切。"
+  },
+  {
+   "cn": "掏槽",
+   "en": "cut",
+   "source": "土木工程名词",
+   "wordNumber": "09.106",
+   "subjectFullName": "土木工程_隧道与地下工程_隧道施工方法",
+   "subjectName": "隧道施工方法",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "路堑",
+   "en": "cut",
+   "source": "土木工程名词",
+   "wordNumber": "08.286",
+   "subjectFullName": "土木工程_铁路工程_铁路路基",
+   "subjectName": "铁路路基",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "采掘带",
+   "en": "cut",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.420",
+   "subjectFullName": "煤炭科学技术_煤矿开采_露天开采",
+   "subjectName": "露天开采",
+   "publishYear": "1996",
+   "definition": "台阶上按顺序开采的条带。"
+  },
+  {
+   "cn": "路堑",
+   "en": "cut,road cutting",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0239",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "接地引下线",
+   "en": "down conductor,down lead",
+   "source": "电力名词",
+   "wordNumber": "20.235",
+   "subjectFullName": "电力_高电压技术",
+   "subjectName": "高电压技术",
+   "publishYear": "2020",
+   "definition": "连接电气设备与接地体的金属导体,如防雷接地引流线。"
+  },
+  {
+   "cn": "切口",
+   "en": "cut;cutting edges",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.05.035",
+   "subjectFullName": "编辑与出版学_印刷_印后加工",
+   "subjectName": "印后加工",
+   "publishYear": "2022",
+   "definition": "书刊的上、下和一侧三面切光之处。"
+  },
+  {
+   "cn": "插穗",
+   "en": "cutting",
+   "source": "风景园林名词",
+   "wordNumber": "09.0231",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物繁殖生产与栽培养护",
+   "subjectName": "风景园林植物繁殖生产与栽培养护",
+   "publishYear": "2025",
+   "definition": "扦插用的一段植物枝条（有时是一段根、芽或其他营养器官）。"
+  },
+  {
+   "cn": "切分",
+   "en": "cutting",
+   "source": "农学名词",
+   "wordNumber": "17.146",
+   "subjectFullName": "农产品贮运与加工_果蔬加工",
+   "subjectName": "果蔬加工",
+   "publishYear": "2025",
+   "definition": "采用机械或人工等方法将大块果蔬物料切分成一定大小和形状的操作。"
+  },
+  {
+   "cn": "截除",
+   "en": "cut",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "切割",
+   "en": "cutting",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "切割",
+   "en": "cutting",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "①切 ②咀",
+   "en": "cutting",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "尺度下推",
+   "en": "scaling down",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "缩小",
+   "en": "scale down",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "由上而下",
+   "en": "top down",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "下拍",
+   "en": "down-beat",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "强拍",
+   "en": "down-beat",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "唐氏综合征",
+   "en": "Down syndrome",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "减效突变",
+   "en": "down mutation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "下调",
+   "en": "down regulation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "下调物",
+   "en": "down regulator",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "减量调节,下调",
+   "en": "down regulation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "减量调节物,下调物",
+   "en": "down regulator",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "下行链路",
+   "en": "down link",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "按比例缩小",
+   "en": "scaling-down",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不能工作时间",
+   "en": "down time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关机",
+   "en": "shut down",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下变频",
+   "en": "down-conversion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "放下！",
+   "en": "Down!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "削球",
+   "en": "cut",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "移位",
+   "en": "cutting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记录",
+   "en": "writing down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扑倒",
+   "en": "take down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "碰倒",
+   "en": "knock down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "减速",
+   "en": "slow down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋转下降",
+   "en": "spin-down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击倒",
+   "en": "knock down fall\",\"knock down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "工作人员",
+   "en": "operator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "突破",
+   "en": "break\",\"cut",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横转向切入",
+   "en": "cut around",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "切球",
+   "en": "cut stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "劈击武器",
+   "en": "cutting weapon",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "压倒",
+   "en": "hold-down\",\"immobilization",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "喝倒彩",
+   "en": "boo\",\"shout down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "降帆",
+   "en": "haul down\",\"lower",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "唐氏综合征",
+   "en": "down syndrome",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "一种由染色体畸变造成的智力落后。"
+  },
+  {
+   "cn": "剪纸",
+   "en": "paper cuts",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0375",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以纸张为材料，通过剪、刻塑造形象的平面造型艺术；包括窗花、礼花、刺绣花样、挂笺等；多用于年节或喜庆盛典等民俗活动中，贴在窗户上或室内墙壁上，装点环境，渲染气氛。"
+  },
+  {
+   "cn": "自上而下法",
+   "en": "top-down approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "测量归因于某个疾病或某危险因素暴露的疾病经济负担的方法"
+  },
+  {
+   "cn": "“自上而下”路径",
+   "en": "top-down approach",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.20",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "从疾病结局向下推导暴露风险的食源性疾病负担评估的一种路径"
+  },
+  {
+   "cn": "唐氏综合征",
+   "en": "Down's syndrome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.2.3.6",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "生殖细胞在减数分裂过程中，受精卵在有丝分裂时第21号染色体未分离，致使胚胎体细胞内存在一条额外的21 号染色体，导致先天性智力发育障碍的染色体病。"
+  },
+  {
+   "cn": "鲜切水果",
+   "en": "fresh-cut fruit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.1",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "以新鲜水果为原料，在清洁环境下经预处理、清洗、切分、消毒、去除表面水、包装等处理，改变其形状仍保持新鲜状态，经冷藏运输而进入冷柜销售的定型包装的水果产品。"
+  },
+  {
+   "cn": "无菌操作",
+   "en": "sterile operation",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.4",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "杜绝微生物污染特定环境或物品的操作过程。"
+  },
+  {
+   "cn": "手术率",
+   "en": "operation rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "救治机构对每百名伤员经手术治疗的人数，反映各救治机构的手术工作量以及伤员得到手术救治的普遍程度，为组织调配手术力量提供依据。"
+  },
+  {
+   "cn": "变性手术",
+   "en": "transsexual operation",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.051",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "通过整形外科技术（组织移植和器官再造），使易性癖患者的生物学性别与其心理性别相符的手术。"
+  },
+  {
+   "cn": "操作限值",
+   "en": "operation limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用来减少偏离关键限值风险的指标或参数。"
+  },
+  {
+   "cn": "战时洗消",
+   "en": "operational decontamination",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.8.7",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂消除",
+   "subjectName": "化学战剂消除",
+   "publishYear": "2025",
+   "definition": "对作战行动必需的器材、物资、人员及区域进行的洗消，以最大限度地减少核生化有害物的接触和扩散，保证作战行动的顺利进行。"
+  },
+  {
+   "cn": "工作区",
+   "en": "operating area",
+   "source": "消毒学",
+   "wordNumber": "1.8.24.4",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "指安全柜内从左侧到右侧、从后侧到前窗内侧，高于前窗玻璃下沿约5cm到工作台面进行操作的区域。"
+  },
+  {
+   "cn": "肘管综合征",
+   "en": "cubital tunnel syndrome，CUTS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.19",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "由尺神经在肘部内上髁后方通过肘管时受压迫引起的综合征，最常见症状为感觉和活动障碍，可伴疼痛。临床上患者常出现手背尺侧、小鱼际、小指及环指尺侧感觉异常、减退或消失伴有肘、前臂及手内侧疼痛，可向小指和环指"
+  },
+  {
+   "cn": "普通手术部",
+   "en": "general operation department",
+   "source": "消毒学",
+   "wordNumber": "4.6.15",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "由非洁净手术室、非洁净辅助用房等一部分或全部组成的独立的功能区域。"
+  },
+  {
+   "cn": "在役去污",
+   "en": "decontamination in operation",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "对处于在役状态的受污染系统、部件和设备等去污过程。"
+  },
+  {
+   "cn": "操作学习理论",
+   "en": "operation reinforcement theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.32",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "以斯金纳(B.F.Skinner）为代表人物提出的关于人类行为习得的理论。其重视环境对行为的影响，提出人的行为B=f(E）（环境）的公式，认为人们的一生都处在学习的环境之中，获得满足的行为会得到增强，"
+  },
+  {
+   "cn": "巴巴罗萨作战计划",
+   "en": "Barbarossa Operation Plan",
+   "source": "马克思主义",
+   "wordNumber": "04.0120",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "法西斯德国侵略苏联的战争计划。以神圣罗马帝国皇帝腓特烈一世的绰号“巴巴罗萨”为代号得名。1940年7月下旬希特勒下令秘密制定该计划，11月底由陆军总司令勃劳希契呈报希特勒，12月18日，以“巴巴罗萨”"
+  },
+  {
+   "cn": "健康保险运行",
+   "en": "health insurance operation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "以健康结果为目的的健康经济风险分担和健康维护、风险干预和战略购买的治理、筹资、购买和服务包设计等运行环节的总和"
+  },
+  {
+   "cn": "医院运营管理",
+   "en": "hospital operation management ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "对医院提供医疗服务的直接资源进行有效的整合利用，以实现投入产出效率、效益和效能的最优化过程。"
+  },
+  {
+   "cn": "剂量作业试验",
+   "en": "dose operation test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "在限定时间内让被试完成指定的作业，根据其完成作业的数量和产生的错误来判断其高级神经功能状态的方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

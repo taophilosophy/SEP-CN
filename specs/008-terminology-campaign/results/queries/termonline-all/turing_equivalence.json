@@ -1,0 +1,752 @@
+{
+ "key": "turing equivalence",
+ "term": "Turing equivalence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:07:50+00:00",
+ "status": "ok",
+ "note": "variant=Turing equivalence; 审定公布名词库=1490; 海峡两岸名词对照库=347; 其他来源数据库=40; 预公布名词数据库=88; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.665",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "图灵于1950年提出的一个关于判断机器是否能够思考的著名思想实验。测试某机器是否能表现出与人等价或无法区分的智能，测试的谈话仅限于使用唯一的文本管道。"
+  },
+  {
+   "cn": "图灵斑图",
+   "en": "Turing pattern",
+   "source": "物理学名词",
+   "wordNumber": "11.0708",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "生物物理学名词",
+   "wordNumber": "07.147",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "英国数学家、密码专家和数字计算机的奠基人图灵(A. Turing)提出的一种检验某个对象是否有智能的测试方法。向对象提出各种各样的问题，如果提问的人从对象的答复中无法区别对象究竟是一个人还是一台机器时"
+  },
+  {
+   "cn": "图灵可定义性",
+   "en": "Turing definability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0253",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "图灵度结构中可定义的特殊子集。例如一切计算可枚举度在整个图灵度结构中是否可定义就是一个重要未解决问题。"
+  },
+  {
+   "cn": "图灵归约",
+   "en": "Turing reducibility",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0202",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定自然数集合 A,B ，如果存在一个图灵机 Φ 使得 A=<img src='/root/syzx/static/spz/jsjkx3.02.0202.001.png'/>，则称 A 图灵归约于 B"
+  },
+  {
+   "cn": "图灵度",
+   "en": "Turing degree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0235",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "利用图灵归约，记为<img src='/root/syzx/static/spz/jsjkx3.02.0224.001.png'/>，可以定义一个等价关系<img src='/root/syzx/st"
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0564",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "计算能力最强的自动机，由一个有限控制器和一条可以无限延伸的读写带组成。在当前状态下读到一个带符号（分为输入符号、输出符号、空白符号和边界符号四类）时，实现状态转换，在当前格写上新的符号，读写头向左或向"
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "数学名词",
+   "wordNumber": "02.0254",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "图灵归约",
+   "en": "Turing reduction",
+   "source": "数学名词",
+   "wordNumber": "02.0299",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "自动化名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "图灵实验",
+   "en": "Turing test",
+   "source": "自动化名词",
+   "wordNumber": "05.002",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "丘奇-图灵论题",
+   "en": "Church-Turing thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.640",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "自然数上的一个函数如果是可以根据一个算法进行人工计算的，那么也一定是在图灵机上可计算的。"
+  },
+  {
+   "cn": "量子图灵机",
+   "en": "quantum Turing machine",
+   "source": "物理学名词",
+   "wordNumber": "06.0812",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多维图灵机",
+   "en": "multimensional Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0525",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "一种变型图灵机，它的读写“带”不是一维，而是多维的。以二维图灵机为例，其“带”是一个平面，可向右、向下无限延伸。读写头在当前格工作完后，可向左、向右、向上或向下移一格。"
+  },
+  {
+   "cn": "图灵完全集",
+   "en": "Turing complete set",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0203",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定自然数集合 A ，如果 A 是计算可枚举的，而且对任何计算可枚举集 X，均有 X<img src='/root/syzx/static/spz/jsjkx3.02.0202.002.png'/>A"
+  },
+  {
+   "cn": "概率图灵机",
+   "en": "probabilistic Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0355",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种非确定型图灵机，每走一步在两个转移函数<img src='/root/syzx/static/spz/jsjkx3.02.0355.001.png'/>之间随机地选取一个。 "
+  },
+  {
+   "cn": "交替图灵机",
+   "en": "alternating Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0332",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "类似于非确定型图灵机。按如下方式定义的计算模型：每一个转移函数有两个选择，每一个内部状态有一个标签<img src='/root/syzx/static/spz/jsjkx3.02.0180.001."
+  },
+  {
+   "cn": "通用图灵机",
+   "en": "universal Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0580",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "接受通用语言 <img src='/root/syzx/static/spz/jsjkx3.02.0579.001.png'/>，且只有0,1，B（空白符）三个带符号的单向无限的单带图灵机。"
+  },
+  {
+   "cn": "量子图灵机",
+   "en": "quantum Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0120",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "一个表示量子计算机能力的抽象机器。1985年由大卫·多伊奇（David Deutsch）提出，是经典图灵机的推广。它的数据带、读写头和状态表都能够记载和处理量子信息，并且使用叠加态作为量子计算的基本数"
+  },
+  {
+   "cn": "谕示图灵机",
+   "en": "oracle Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0207",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "安装了只读的谕示带的图灵机。"
+  },
+  {
+   "cn": "图灵测验",
+   "en": "Turing test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵可归约性",
+   "en": "Turing reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多带图灵机",
+   "en": "multitape Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多头图灵机",
+   "en": "multihead Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多维图灵机",
+   "en": "multidimensional Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非确定型图灵机",
+   "en": "nondeterministic Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离线图灵机",
+   "en": "offline Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确定型图灵机",
+   "en": "deterministic Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通用图灵机",
+   "en": "universal Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间有界图灵机",
+   "en": "space-bounded Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间有界图灵机",
+   "en": "time-bounded Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双带图灵机",
+   "en": "two-tape Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等效",
+   "en": "equivalent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "当量",
+   "en": "equivalent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等效",
+   "en": "equivalent",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "等值",
+   "en": "equivalent",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "朗斯特隆",
+   "en": "Rangström\",\"Anders Johan Ture(瑞典)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生态等价，生态等值",
+   "en": "ecological equivalence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图灵完备",
+   "en": "Turing completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "丘奇—图灵论题",
+   "en": "Church-Turing thesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有线等效加密",
+   "en": "wired equivalent privacy (WEP)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拐点",
+   "en": "turning point",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "旋转靶",
+   "en": "turning target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转身池壁",
+   "en": "turning wall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转身池壁",
+   "en": "turning wall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳起转身踢",
+   "en": "flying turning kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳起轮踢",
+   "en": "flying turning kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规定转弯处",
+   "en": "compulsory turning point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转弯处裁判员",
+   "en": "turning point umpire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等价物",
+   "en": "equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0059",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在价值表现中处于等价形式上的商品。等价物随着价值形式的发展而发展。比如，20码麻布=1件上衣，麻布的价值相对地表现出来，处于相对价值形式，上衣则起等价物的作用或说处于等价形式。"
+  },
+  {
+   "cn": "实质等同性",
+   "en": "substantial equivalence",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.34",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "基于比较相对安全的风险评估原则，若某个新食品或食品成分与现有的食品或食品成分大体相同，则可认为具有相同的安全性。最早由经济合作与发展组织（OECD)提出用于转基因食品，作为预防风险的补充；现已扩展到食"
+  },
+  {
+   "cn": "当量剂量",
+   "en": "equivalent dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "辐射R在器官或组织T中产生的平均吸收剂量DT,R与辐射R的辐射权重因数wR的乘积。符号为HT,R。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "dose equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "组织内某一点的吸收剂量（D）与该点特定辐射的品质因数（Q）的乘积。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "衰减当量",
+   "en": "attenuation equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.30",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "相对于参考物质的厚度。即在规定的辐射线束和几何条件下以该厚度的参考物质代替所考虑的物质时，具有相同的衰减程度。"
+  },
+  {
+   "cn": "铅当量",
+   "en": "lead equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.31",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "用铅作为参考物质时，用铅的厚度来表示的某种物质衰减当量。单位为毫米铅（mm Pb）。"
+  },
+  {
+   "cn": "铝当量",
+   "en": "aluminum equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.19",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "用铝作为参考物质时，用铝的厚度来表示的某种物质衰减当量。单位为毫米铝（mm Al）。"
+  },
+  {
+   "cn": "等效能量",
+   "en": "equivalent energy",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.20",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "与所考虑的多能量辐射有相当特性的单能量辐射的能量。"
+  },
+  {
+   "cn": "等价交换",
+   "en": "equivalent exchange",
+   "source": "马克思主义",
+   "wordNumber": "02.0035",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不同使用价值按照由社会必要劳动时间决定的价值量进行等量互换的交易行为，是商品经济的基础法则。市场价格围绕市场价值的运动，使价格在趋势上与价值趋于一致，是等价交换原则的表现形式。"
+  },
+  {
+   "cn": "一般等价物",
+   "en": "universal equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0065",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展到一般价值形式时的表现形式，是从商品界分离出来表现其他一切商品价值的商品。随着商品交换的发展，经常出现并成为人们普遍乐意接受的某种商品便逐渐自发地从商品界分离出来，成为一般等价物。"
+  },
+  {
+   "cn": "特殊等价物",
+   "en": "particular equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0066",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在扩大的相对价值形式中，处于等价形式上的一切商品。即在“20码麻布=1件上衣，或=10磅茶叶，或=40磅咖啡，或=其他”这一总和的或扩大的价值形式中，除20码麻布以外的一切商品就都获得了特殊等价物的形"
+  },
+  {
+   "cn": "个别等价物",
+   "en": "individual equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0067",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与个别的简单相对价值形式相对应并表现其它价值的另一个商品，即处于个别等价形式的商品。如在“20码麻布=1件上衣”这一简单相对价值形式中，麻布则是作为个别等价物起作用。"
+  },
+  {
+   "cn": "等效球镜",
+   "en": "spherical equivalent",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "“柱镜度数/2+球镜度数”的计算结果。"
+  },
+  {
+   "cn": "当量剂量",
+   "en": "equivalent dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.25",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "辐射在器官或组织内产生的平均吸收剂量与辐射权重因数的乘积，符号为希沃特（Sv），单位是J/kg。代表低水平电离辐射对人体（包括辐照食品工作人员）的随机健康影响的剂量学量。"
+  },
+  {
+   "cn": "梯恩梯当量",
+   "en": "TNT equivalent",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.42",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "用常规化学炸药梯恩梯(TNT)爆炸威力表示的核爆炸释放的能量威力。"
+  },
+  {
+   "cn": "相当温度",
+   "en": "equivalent temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.2.5",
+   "subjectFullName": "军事预防医学_寒区军事卫生_环境冷强度",
+   "subjectName": "环境冷强度",
+   "publishYear": "2025",
+   "definition": "表示与某一有风环境的寒冷程度相当的无风环境的气温。"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "dose equivalent",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.26",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "组织内某一点的吸收剂量D 与该点特定辐射的品质因子的乘积，符号为希沃特（Sv），单位是J/kg。衡量电离辐射时人体（包括辐照食品工作人员）危害程度的一个物理量。只限于在辐射防护中使用，而不能用于高水平"
+  },
+  {
+   "cn": "当量剂量",
+   "en": "equivalent dose",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.24",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "某一组织或器官的平均吸收剂量按辐射权重因子加权的量。"
+  },
+  {
+   "cn": "毒性当量",
+   "en": "toxicity equivalent",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.29",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价某个化合物异构体的相对毒性强度或健康影响程度的计算和指标"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "dose equivalent",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.23",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "组织中某点处的吸收剂量、辐射品质因素和其他修正因数的乘积。单位是希沃特(Sv)。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

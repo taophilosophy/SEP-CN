@@ -1,0 +1,772 @@
+{
+ "key": "industrialism",
+ "term": "industrialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:42:29+00:00",
+ "status": "ok",
+ "note": "variant=industrialism; 审定公布名词库=681; 海峡两岸名词对照库=165; 其他来源数据库=116; 预公布名词数据库=62; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "工业化",
+   "en": "industrialization",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.080",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "在经济结构中工业所占的比重越来越大，农业所占比重逐渐减小，通常用工业产值在国内生产总值中比重和工业人口在劳动就业总人口中比重来表示。人类历史上第一次工业革命是指18世纪60年代英国发起的产业革命，工业"
+  },
+  {
+   "cn": "工业4.0",
+   "en": "industry 4.0",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.252",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "将现代自动化技术、物联网技术和软件技术应用于工业制造过程的总称。源于2011年汉诺威工业博览会，类似于工业物联网。"
+  },
+  {
+   "cn": "工业",
+   "en": "industry",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.204",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "采集原料并把它们加工成产品的工作和过程。是社会分工发展的产物，经过手工业、机器大工业、现代工业几个发展阶段。经历了三次工业革命，第一次工业革命以机械化为目标，第二次以电气化为目标，第三次以自动化为目标"
+  },
+  {
+   "cn": "工业化",
+   "en": "industrialization",
+   "source": "经济学名词",
+   "wordNumber": "06.123",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "狭义的工业化是指机器大工业在国民经济中发展并达到占统治地位的过程，即国民经济结构发生了以农业占统治地位向工业占统治地位的转变，它使一个国家由传统的农业国变为现代的工业国。广义的工业化是指发展或现代化。"
+  },
+  {
+   "cn": "产业",
+   "en": "industry",
+   "source": "教育学名词",
+   "wordNumber": "11.080",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "在社会分工条件下，从事生产、服务的经济活动实体的集合。"
+  },
+  {
+   "cn": "工业化",
+   "en": "industrialization",
+   "source": "地理学名词",
+   "wordNumber": "18.158",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "一个国家和地区国民经济中，工业生产活动逐步取得主导地位的发展过程。"
+  },
+  {
+   "cn": "工业园区",
+   "en": "industrial park，industrial estate",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.073",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "划定一定范围的土地，并先行予以规划，以专供工业设施设置、使用的地区。通常为了促进地方经济发展而设立。"
+  },
+  {
+   "cn": "产业集群",
+   "en": "industrial cluster,industry cluster",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_区域规划理论和方法",
+   "subjectName": "区域规划理论和方法",
+   "publishYear": "2021",
+   "definition": "以某一主导产业为核心，大量与之联系密切的企业及相关支撑机构在空间上集聚的现象。"
+  },
+  {
+   "cn": "养羊业",
+   "en": "sheep industry,goat industry",
+   "source": "畜牧学名词",
+   "wordNumber": "01.004",
+   "subjectFullName": "畜牧学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "以羊为生产资料，进行动物性生产的产业。"
+  },
+  {
+   "cn": "海洋产业",
+   "en": "marine industry,ocean industry",
+   "source": "海洋科技名词",
+   "wordNumber": "04.0154",
+   "subjectFullName": "海洋科学技术_其他_海洋经济",
+   "subjectName": "海洋经济",
+   "publishYear": "2007",
+   "definition": "人类开发、利用和保护海洋资源所形成的生产和服务部门。按其产业属性可分为海洋第一产业、海洋第二产业和海洋第三产业，按其形成的时间可分为传统海洋产业、新兴海洋产业和未来海洋产业。"
+  },
+  {
+   "cn": "工业矿物",
+   "en": "industrial mineral",
+   "source": "地质学名词",
+   "wordNumber": "14.03.043",
+   "subjectFullName": "地质学_矿床学_矿体形态与矿石结构构造",
+   "subjectName": "矿体形态与矿石结构构造",
+   "publishYear": "2026",
+   "definition": "非金属矿产中能被经济利用的矿物。"
+  },
+  {
+   "cn": "地热工业",
+   "en": "geothermal industry",
+   "source": "地质学名词",
+   "wordNumber": "15.03.090",
+   "subjectFullName": "地质学_地热地质学_地热资源勘查与利用",
+   "subjectName": "地热资源勘查与利用",
+   "publishYear": "2026",
+   "definition": "地热资源的工业化开采和利用。"
+  },
+  {
+   "cn": "工业原料作物",
+   "en": "industrial crop",
+   "source": "农学名词",
+   "wordNumber": "01.064",
+   "subjectFullName": "总论_作物种类",
+   "subjectName": "作物种类",
+   "publishYear": "2025",
+   "definition": "收获物经济价值较高，主要用作工业原料的作物。"
+  },
+  {
+   "cn": "农业产业化",
+   "en": "agricultural industrialization",
+   "source": "农学名词",
+   "wordNumber": "01.209",
+   "subjectFullName": "总论_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "以市场为导向，以专业化、规模化、系列化方式优化各种生产要素，实现农业产前、产中、产后各环节协同化发展的过程。"
+  },
+  {
+   "cn": "工业大麻",
+   "en": "industrial hemp",
+   "source": "农学名词",
+   "wordNumber": "04.070",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "植株中四氢大麻酚（tetrahydrocannabinol,THC）干物质百分比含量小于0.3％的大麻品种。"
+  },
+  {
+   "cn": "工业涂料",
+   "en": "industrial coating",
+   "source": "精细化工名词",
+   "wordNumber": "05.0130",
+   "subjectFullName": "精细化工_涂料_通用涂料",
+   "subjectName": "通用涂料",
+   "publishYear": "2025",
+   "definition": "应用于工业企业生产的设备、船舶、集装箱、桥梁、煤气柜、港口机械、铁路罐车、电力机械、储罐、管道内壁、各种钢结构、混凝土等防护与装饰涂装的涂料。"
+  },
+  {
+   "cn": "工业洗涤剂",
+   "en": "industrial detergent",
+   "source": "精细化工名词",
+   "wordNumber": "06.0077",
+   "subjectFullName": "精细化工_表面活性剂",
+   "subjectName": "表面活性剂",
+   "publishYear": "2025",
+   "definition": "在工业上用来去除污垢的化学或生物制剂的统称。"
+  },
+  {
+   "cn": "工业建筑",
+   "en": "industry building",
+   "source": "风景园林名词",
+   "wordNumber": "04.0180",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "为进行工业生产而建造的建筑物和构筑物的统称。"
+  },
+  {
+   "cn": "种业",
+   "en": "seed industry",
+   "source": "农学名词",
+   "wordNumber": "06.568",
+   "subjectFullName": "作物基因组学与遗传育种_种子科学与种业",
+   "subjectName": "种子科学与种业",
+   "publishYear": "2025",
+   "definition": "全称“种子产业”。进行农作物种子与种苗培育、生产和销售的行业。"
+  },
+  {
+   "cn": "行业规范",
+   "en": "industry norm",
+   "source": "风景园林名词",
+   "wordNumber": "03.0392",
+   "subjectFullName": "风景园林_风景园林管理_法律法规与标准规范",
+   "subjectName": "法律法规与标准规范",
+   "publishYear": "2025",
+   "definition": "通常由行业协会的会员单位共同制订的、规范和指导行业内行为的规范和标准。"
+  },
+  {
+   "cn": "工业",
+   "en": "industry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工业化",
+   "en": "industrialization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "海洋产业",
+   "en": "marine industry\",\"ocean industry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工业气候",
+   "en": "industrial climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "工业废水",
+   "en": "industrial wastewater",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "制药工业",
+   "en": "pharmaceutical industry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电镀工业",
+   "en": "plating industry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工业化学",
+   "en": "industrial chemistry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工业酒精",
+   "en": "industrial alcohol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工业废料",
+   "en": "industrial waste",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "过程工业",
+   "en": "process industry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电解工业",
+   "en": "electrolytic industry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工业用水",
+   "en": "industrial water",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "低温工业",
+   "en": "cryogenic industry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工业煤气",
+   "en": "industrial gas",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "加工工业",
+   "en": "processing industry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工业过程",
+   "en": "industrial process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "石油化学工业",
+   "en": "petrochemical industry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工业反应器",
+   "en": "industrial reactor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "燃料工业",
+   "en": "fuel industry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工业4.0",
+   "en": "Industry 4.0",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识产业",
+   "en": "knowledge industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "产业数字化",
+   "en": "Industrial Digitalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "产业互联网",
+   "en": "industrial Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "显示产业",
+   "en": "display industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "半导体产业",
+   "en": "semiconductor industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字产业化",
+   "en": "Digital Industrialization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电信业",
+   "en": "telecommunications industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字产业",
+   "en": "digital industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息产业化",
+   "en": "information industrialization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "工业互联网",
+   "en": "Industrial Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景产业化",
+   "en": "Scenario Industrialization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字重组产业",
+   "en": "digitally restructured industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能产业链",
+   "en": "AI industry chain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能新兴产业",
+   "en": "emerging AI industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "产业数字化联盟",
+   "en": "Industrial Digitization Alliance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "工业化",
+   "en": "industrialization",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.18",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "狭义指从农业占主导的经济向工业产品在总产量和出口中所占比重日益增长的经济转变的过程。广义则指现代化的一般过程。"
+  },
+  {
+   "cn": "工业",
+   "en": "industry",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.105",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "从自然界取得物质资源和对原材料进行加工、再加工的社会物质生产部门。按劳动对象的不同，可划分为采掘工业和加工工业；按劳动产品在社会再生产中的作用，可划分为重工业和轻工业；按劳动产品的名称和用途，可划分为"
+  },
+  {
+   "cn": "工业",
+   "en": "industry",
+   "source": "马克思主义",
+   "wordNumber": "02.0018",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "采掘、收集自然物质资料和对各种原材料按社会需要进行加工的物质生产部门，其历史演进经历了手工业、机器大工业和现代工业等发展阶段。它是第二产业的主要组成部分，并且是国民经济的主导产业。"
+  },
+  {
+   "cn": "工业化",
+   "en": "industrialization",
+   "source": "马克思主义",
+   "wordNumber": "03.0666",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工业（特别是其中的制造业）或第二产业产值（或收入）在国民生产总值（或国民收入）中比重不断上升的过程，以及工业就业人数在总就业人数中比重不断上升的过程。"
+  },
+  {
+   "cn": "工业级",
+   "en": "industrial grade",
+   "source": "消毒学",
+   "wordNumber": "6.1.4.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "符合工业有关质量标准，用此级别原料经过加工制造可以成为工业产品。"
+  },
+  {
+   "cn": "[工业]射线探伤",
+   "en": "industrial radiography",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.2.2",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用",
+   "subjectName": "工业探伤应用",
+   "publishYear": "2025",
+   "definition": "使透过物体后的射线在感光底片上产生影像，来检查分析物体内部缺陷的种类、大小、分布等的一种无损检测方法。"
+  },
+  {
+   "cn": "[工业]射线显像探伤",
+   "en": "industrial radioimaging",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.2.3",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用",
+   "subjectName": "工业探伤应用",
+   "publishYear": "2025",
+   "definition": "利用射线显像装置，使透过物体的射线在屏幕上显示出被检物体的内部结构和缺陷的一种无损检测方法。"
+  },
+  {
+   "cn": "工业社会",
+   "en": "industrial society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "以近现代科技为引领，以大机器工业和社会化生产为经济主导成分的社会。处于农业社会之后的社会发展阶段。"
+  },
+  {
+   "cn": "工业革命",
+   "en": "industrial revolution",
+   "source": "社会学名词",
+   "wordNumber": "2.9.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁",
+   "subjectName": "社会变迁",
+   "publishYear": "2025",
+   "definition": "从18世纪中期至20世纪初，西方资本主义生产从工场手工业形态向机器大工业形态的大转变过程。"
+  },
+  {
+   "cn": "工业城市",
+   "en": "industrial city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.2.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市的变迁",
+   "subjectName": "城市的变迁",
+   "publishYear": "2025",
+   "definition": "产业发展和资本主义的载体。早期呈现出的特征包括：有一定规模的工业生活，科技高速发展，人口大量聚集于城市、分工相对发达。因贫富差距所引起的社会问题如贫穷、犯罪、住房等深刻地影响了城市的空间特征，后来还出"
+  },
+  {
+   "cn": "文化工业",
+   "en": "culture industry",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.8",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "法兰克福学派早期代表人物阿多诺(T.L.W.Adorno）和霍克海姆(M.Horkheimer）提出的概念，用以批判资本主义社会下文化产品的商品化及标准化，即文艺创作以科学技术的机械化和自动化生产为前"
+  },
+  {
+   "cn": "出版产业",
+   "en": "publishing industry",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.10",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "生产、传播信息过程中的以及其他相关的经营活动，包括策划、编辑、印制和发行等环节，是一个综合性的行业。由加入该过程的不同部门、企业和单位组成，旨在为公众提供出版产品和出版服务，满足公众对各类信息的需求。"
+  },
+  {
+   "cn": "资本主义大工业",
+   "en": "capitalist industry",
+   "source": "马克思主义",
+   "wordNumber": "02.0132",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指广泛使用机器生产代替手工劳动的资本主义工业，它随着资本主义工场手工业的发展而产生，是第一次产业革命的产物。马克思把机器大工业看成是继简单协作、分工和工场手工业之后，资本主义生产方式发展的第三个阶段。"
+  },
+  {
+   "cn": "运输业",
+   "en": "transportation industry",
+   "source": "马克思主义",
+   "wordNumber": "02.0197",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“交通运输业”。专门从事运送商品的物质生产部门。它主要运用各种工具设备，实现商品空间位置的变换。其过程不创造新的物质产品，不改变物质形态，也不增加其数量，只改变空间位置和增加产品价值。"
+  },
+  {
+   "cn": "产业利润",
+   "en": "industrial profit",
+   "source": "马克思主义",
+   "wordNumber": "02.0216",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在产业部门从事商品生产所获得的利润，是在物质生产过程中直接从工人身上获取的剩余价值的现象形态。"
+  },
+  {
+   "cn": "工业危机",
+   "en": "industrial crisis",
+   "source": "马克思主义",
+   "wordNumber": "02.0291",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义工业部门所发生的生产过剩的危机。由于工业在资本主义国民经济中位置的重要性，工业危机对社会经济的影响最大。"
+  },
+  {
+   "cn": "社会主义工业化",
+   "en": "socialist industrialization",
+   "source": "马克思主义",
+   "wordNumber": "02.0332",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "关于社会主义国家由农业国发展为工业国的趋势和运动。苏联于1925—1937年开展的变落后的农业国为先进的社会主义工业国的运动。"
+  },
+  {
+   "cn": "文化产业",
+   "en": "cultural industry",
+   "source": "马克思主义",
+   "wordNumber": "02.0430",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以文化商品和文化服务的生产和交换为企业经营活动的经济部门。它应以文化发展的社会效益为先，并结合经济效益。"
+  },
+  {
+   "cn": "产业革命",
+   "en": "industrial revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0040",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "18世纪中叶，以机器取代人力，以大规模工厂化生产取代个体工场手工生产的一场生产与科技革命。属于资本主义生产方式从工场手工业向机器大工业过渡的阶段。由于英国人瓦特改良了蒸汽机，推动技术从手工劳动向机器大"
+  },
+  {
+   "cn": "工业文明",
+   "en": "industrial civilization",
+   "source": "马克思主义",
+   "wordNumber": "03.0066",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "建立在工业经济基础之上，以工业发展为特征的人类社会进步形态。其主要特点是工业化、城市化，非农业人口比例大幅度增长等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

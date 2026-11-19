@@ -1,0 +1,522 @@
+{
+ "key": "topology",
+ "term": "topology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:15:15+00:00",
+ "status": "ok",
+ "note": "variant=topology; 审定公布名词库=265; 海峡两岸名词对照库=102; 其他来源数据库=8; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "source": "物理学名词",
+   "wordNumber": "08.0514",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑",
+   "en": "topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0127",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "在网络中结点和通信介质的连接与分布形式。"
+  },
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.649",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "近代发展起来的一个研究连续性现象的数学分支。研究拓扑空间在拓扑变换下的不变性质和不变量。"
+  },
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "source": "数学名词",
+   "wordNumber": "08.0440",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑地图",
+   "en": "topologic map,topological map",
+   "source": "地理学名词",
+   "wordNumber": "27.030",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "以结点、弧段和多边形表示制图对象之间连通、邻接、关联、包含等图形拓扑关系及数量对比的一种简单图形，不涉及其地图量度。"
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topology structure",
+   "source": "电力名词",
+   "wordNumber": "12.183",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "网络的物理构型。通常可分为总线型、星型、环型及自由拓扑结构(任意组合)。网络拓扑结构需要有对应的物理媒体和物理层通信协议的支持。"
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topology structure",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0128",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "网络结点通过信道连接起来所具有的结构形式。"
+  },
+  {
+   "cn": "膜拓扑学",
+   "en": "membrane topology",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0066",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜流动性",
+   "subjectName": "膜流动性",
+   "publishYear": "2024",
+   "definition": "研究膜蛋白质在膜内外排列分布的学科领域。主要研究哪一部分氨基酸序列位于包围其脂双层的平面内，而哪一部分突出于脂双层两侧的水相环境中。"
+  },
+  {
+   "cn": "流程拓扑",
+   "en": "flowsheet topology",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.018",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "将过程中的各设备单元及其关系抽象成节点与节点间的关系，形成有向图表示的流程网络结构。"
+  },
+  {
+   "cn": "DNA拓扑学",
+   "en": "DNA topology",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0174",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸结构_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "研究DNA在变形后仍然保留下来的结构特征，涉及DNA可能的缠绕或变形及从属于其数学问题的学科领域。其研究对复制、转录和重组，包括对许多病毒生活周期非常重要的重组事件都很重要。拓扑异构酶可以改变DNA的"
+  },
+  {
+   "cn": "网络拓扑",
+   "en": "network topology",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.102",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统",
+   "subjectName": "医学影像信息系统",
+   "publishYear": "2020",
+   "definition": "对网络的分支和节点的系统性进行安排。可以是物理的或逻辑的。"
+  },
+  {
+   "cn": "环形拓扑",
+   "en": "ring topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0131",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "由传输链路把一系列结点彼此连接起来建立一个封闭环所形成的拓扑。"
+  },
+  {
+   "cn": "网拓扑",
+   "en": "net topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0612",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "通用网论的一个分支。把拓扑结构引入网系统，建立适用于网系统的拓扑概念并讨论相关性质。"
+  },
+  {
+   "cn": "网状拓扑",
+   "en": "mesh topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0132",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "各个结点通过信道互相连接并且每个结点至少有两条信道与其他结点相连所形成的状如具有可变大小的孔洞的渔网的拓扑。"
+  },
+  {
+   "cn": "树状拓扑",
+   "en": "tree topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0133",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "互连多个LAN所形成的带有分支但没有回路的树形LAN拓扑。"
+  },
+  {
+   "cn": "总线拓扑",
+   "en": "bus topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0129",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "不使用中间连接设备由单个线缆连接网络上的所有结点的拓扑。"
+  },
+  {
+   "cn": "星形拓扑",
+   "en": "star topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0130",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "网络上的每个结点都连接到一个中心设备的拓扑。"
+  },
+  {
+   "cn": "分子拓扑",
+   "en": "molecular topology",
+   "source": "药学名词",
+   "wordNumber": "03.294",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "蕴含在分子图形中的全部信息。"
+  },
+  {
+   "cn": "网络拓扑",
+   "en": "network topology",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.666",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "构成网络的成员间特定的物理、或者逻辑排列方式。两个网络的连接结构相同意味着它们的网络拓扑相同，尽管它们各自内部的物理连接、节点间距离可能会有不同。"
+  },
+  {
+   "cn": "网络拓扑",
+   "en": "network topology",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.027",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "对网络的分支和节点的系统性安排。拓扑可以是物理的或逻辑的。"
+  },
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑",
+   "en": "topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑地图",
+   "en": "topologic map\",\"topological map",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑方位",
+   "en": "topology fix",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑规则",
+   "en": "topology rule",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑缓存",
+   "en": "topology cache",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "网络拓扑[结构]",
+   "en": "network topology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "膜拓扑学",
+   "en": "membrane topology",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA拓扑学",
+   "en": "DNA topology",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "初始拓扑",
+   "en": "preliminary topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图拓扑",
+   "en": "map topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "交互式拓扑处理",
+   "en": "interactive topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "矢量拓扑",
+   "en": "vector topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "网络拓扑",
+   "en": "network topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "电路拓扑[学]",
+   "en": "circuit topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辐射式拓扑",
+   "en": "hub topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "环形拓扑",
+   "en": "ring topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络拓扑",
+   "en": "network topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网拓扑",
+   "en": "net topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网状拓扑",
+   "en": "mesh topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topology structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑量子计算",
+   "en": "topological quantum computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据中心网络拓扑",
+   "en": "data center network topology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑量子场论",
+   "en": "topological quantum field theory (TQFT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态神学",
+   "en": "ecological theology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神学",
+   "en": "theology",
+   "source": "马克思主义",
+   "wordNumber": "04.0053",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "意为“关于神的学问”。基督教论证上帝（也称天主）的存在、本质和研究教义、教规的学问。也泛指各宗教的宗教学说或一种宗教教义的系统化阐释。公元前3世纪，希腊的一些哲学家已使用，后为基督教所沿用，故常专指基"
+  },
+  {
+   "cn": "思辨神学",
+   "en": "speculative theology",
+   "source": "马克思主义",
+   "wordNumber": "01.0103",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以超验之物和整个实在为对象，运用各种科学成果、宗教体验、伦理经验来引出对信仰的理解，但又不限制对任何所给出的资源（如圣经、教义等）做历史性的调查。"
+  },
+  {
+   "cn": "生态女性主义信仰",
+   "en": "eco-feminist theology",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.7",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种产生于基督教内部的思想，要求收回《圣经》中有关女人和自然被歧视被虐待的形象，试图跳出父权的和不关心现世的传统基督教的束缚。"
+  },
+  {
+   "cn": "基督教神学伦理学",
+   "en": "christian theology ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.137",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "基督教各教派神学关于宗教道德的学说。"
+  },
+  {
+   "cn": "解放神学的马克思主义",
+   "en": "Marxism of liberation theology",
+   "source": "马克思主义",
+   "wordNumber": "05.0097",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代在拉丁美洲产生的一种试图把神学理论同马克思主义“结合”起来的社会思潮，批判资本主义，在马克思主义中寻求救赎。主要代表人物有秘鲁的古铁雷斯（Gutiérrez）、巴西的博夫（Boff）、"
+  },
+  {
+   "cn": "文化区系类型理论",
+   "en": "theory of regional typology of archaeological cultures",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0072",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国考古学家苏秉琦于1975 年提出、1981 年完善的中国新石器时代考古学文化谱系总体框架理论。该理论将全国分为六大区：以燕山南北长城地带为中心的北方，以山东为中心的东方，以关中（陕西）、晋南、豫西"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

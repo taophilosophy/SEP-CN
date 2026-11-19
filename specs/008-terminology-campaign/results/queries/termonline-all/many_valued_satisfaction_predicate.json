@@ -1,0 +1,772 @@
+{
+ "key": "many-valued satisfaction predicate",
+ "term": "many-valued satisfaction predicate",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:17:20+00:00",
+ "status": "ok",
+ "note": "variant=many-valued satisfaction predicate; 审定公布名词库=3014; 海峡两岸名词对照库=792; 其他来源数据库=145; 预公布名词数据库=164; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "多种类谓词演算",
+   "en": "many sorted predicate calculus",
+   "source": "数学名词",
+   "wordNumber": "02.0072",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "MV代数",
+   "en": "many-valued algebra",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0064",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "多值逻辑的代数模型，也是一种不分明量子逻辑的代数模型。"
+  },
+  {
+   "cn": "QMV代数",
+   "en": "quantum many-valued algebra",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0065",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "不分明量子逻辑的代数模型之一。是MV代数的一种非格序推广。但是格序QMV代数是MV代数的非分配推广。"
+  },
+  {
+   "cn": "谓语",
+   "en": "predicate",
+   "source": "语言学名词",
+   "wordNumber": "04.188",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“主语”相对。句法成分之一。通常由谓词性成分充当，少数情况下也可由体词性成分充当。通常位于主语的后边，是对主语作出的陈述。例如，“花开了”“今天星期一”。"
+  },
+  {
+   "cn": "谓词",
+   "en": "predicate",
+   "source": "数学名词",
+   "wordNumber": "02.0048",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "述语",
+   "en": "predicative",
+   "source": "语言学名词",
+   "wordNumber": "04.190",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句法成分之一。可以指述宾短语的组成成分，由动词性成分充当，在述宾短语的前部，例如，“吃饭”；也可以指述补短语的组成成分，由动词或形容词性成分充当，在述补短语的前部，例如，“吃完”“好极了”。"
+  },
+  {
+   "cn": "谓词",
+   "en": "predicative",
+   "source": "语言学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“体词”相对。指主要充当谓语的词。动词、形容词等属于谓词。"
+  },
+  {
+   "cn": "直谓[的]",
+   "en": "predicative",
+   "source": "数学名词",
+   "wordNumber": "02.0307",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "多对多",
+   "en": "many-to-many",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.177",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "一个集合中的两个或两个以上的元素与另一个集合中的两个或两个以上的元素相互对应。"
+  },
+  {
+   "cn": "顾客满意度",
+   "en": "customer satisfaction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.138",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "顾客在比较其对产品服务品质的期望与实际感受后，所感觉的一种愉悦或失望的程度。反映的是顾客的一种心理状态。"
+  },
+  {
+   "cn": "约束满足",
+   "en": "constrained satisfaction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.025",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "变量集合中所有变量的取值使得约束集中的每个约束都成立，或更进一步，并使目标函数最大化。"
+  },
+  {
+   "cn": "工作满意度",
+   "en": "work satisfaction",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.094",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "组织成员对自己的工作能够获得最好结果评估的情绪和情感期待。它源自对个体的工作或者工作经历评估的一种快乐或积极的情绪状态。五个维度代表组织成员情感反应的重要特征：(1)工作为个体提供有趣的任务、学习的机"
+  },
+  {
+   "cn": "性满足",
+   "en": "sexual satisfaction",
+   "source": "行为医学名词",
+   "wordNumber": "12.011",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "由性快感趋于性高潮的极度快慰、舒畅、惬意的反应。"
+  },
+  {
+   "cn": "性满足",
+   "en": "sex satisfaction",
+   "source": "计划生育名词",
+   "wordNumber": "08.044",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "由性快感趋于性高潮的极度愉悦、舒畅、惬意的反应。"
+  },
+  {
+   "cn": "读者满意度",
+   "en": "reader satisfaction",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.301",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "读者在接受图书馆一次或多次服务之后的内心感受和主观评价，是其接受服务的可感知效果与其期望值比较的程度。"
+  },
+  {
+   "cn": "用户满意度",
+   "en": "user satisfaction",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.264",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "用户在接受图书情报机构一次或多次服务之后的内心感受和主观评价，是其接受服务的可感知效果与其期望值比较的程度。"
+  },
+  {
+   "cn": "顾客满意度",
+   "en": "customer satisfaction",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0017",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "一项产品或服务被感知到的绩效表现达成购买者期望的程度。"
+  },
+  {
+   "cn": "工作满意度",
+   "en": "job satisfaction",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0103",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "人们对工作的信念、评价和情感反应。"
+  },
+  {
+   "cn": "满意度",
+   "en": "satisfaction degree",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0444",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "衡量“满意”这一心理状态的指标。例如社会保障满意度，是指社会保障服务对象对政府及其社会保障服务机构提供社会保障资金和服务的供给能力、服务方式和客观效果的满意程度。"
+  },
+  {
+   "cn": "术后满意度",
+   "en": "postoperative satisfaction",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.062",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对手术效果的满意程度。"
+  },
+  {
+   "cn": "谓词",
+   "en": "predicate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多对多",
+   "en": "many-to-many",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多对多关系",
+   "en": "many-to-many-relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多对多联系",
+   "en": "many-to-many relationship",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "工作满意感",
+   "en": "job satisfaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯满意度",
+   "en": "career satisfaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "顾客满意度",
+   "en": "customer satisfaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "赎回价格",
+   "en": "satisfaction price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "约束满足",
+   "en": "constraint satisfaction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词演算",
+   "en": "predicate calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词变量",
+   "en": "predicate variable",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词符号",
+   "en": "predicate symbol",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词逻辑",
+   "en": "predicate logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词转换器",
+   "en": "predicate converter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "清偿债务备忘录",
+   "en": "memorandum of satisfaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "谓词-变迁系统",
+   "en": "predicate/transition system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多体问题",
+   "en": "many body problem",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "多对一",
+   "en": "many-to-one",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "一对多",
+   "en": "one-to-many",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多类逻辑",
+   "en": "many-sorted logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融消费满意度",
+   "en": "financial consumer satisfaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享价值观",
+   "en": "shared value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值交换",
+   "en": "value exchange",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据价值",
+   "en": "data value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户价值",
+   "en": "user value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缺失值",
+   "en": "missing value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享价值",
+   "en": "Shared Value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值创造",
+   "en": "value creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值分配",
+   "en": "value distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "剩余价值",
+   "en": "surplus value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织价值",
+   "en": "organization value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "杂凑值",
+   "en": "hash value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创新分",
+   "en": "new value",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳马分值",
+   "en": "vault value",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "满足的极限",
+   "en": "limits to satisfaction",
+   "source": "马克思主义",
+   "wordNumber": "05.0082",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "威廉·莱斯（William Leiss）《满足的极限》从需要、商品和消费的关系出发，研究了发达工业社会中人的需要问题，他认为工业社会将人的需要的满足完全导向于对商品的最大限度的消费与满足。他提出人们应"
+  },
+  {
+   "cn": "卫生服务满意度",
+   "en": "health service satisfaction",
+   "source": "社会医学名词",
+   "wordNumber": "8.12.12",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务评价",
+   "publishYear": "2025",
+   "definition": "居民在卫生服务需求被满足后产生的愉悦感，是对卫生服务期望与实际体验之间关系的反映，即是在接受预防、医疗、康复、健康促进等卫生服务后，对其所获得服务的体验、过程和结果的主观感受的满意程度。"
+  },
+  {
+   "cn": "价值观",
+   "en": "values",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.7",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "人们对事物及意义的评价体系，是人们采取行动或行为取向的评价尺度和选择标准。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "马克思主义",
+   "wordNumber": "02.0036",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "凝结在商品中无差别的人类劳动，包括脑力劳动和体力劳动。价值是商品所特有的属性，作为商品的社会属性，它反映的是商品生产者之间的社会关系。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1159999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "客体对主体需要的效用。作为元伦理范畴，价值是客体具有的满足主体需要、实现主体欲望、符合主体目的的效用性。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "S值",
+   "en": "S value, ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.23",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对于男性参考人和女性参考人，源区rS中给定放射性核素的每次核转变（核反应或衰变）到靶区rT的当量剂量，Sv(Bq·s)-1。"
+  },
+  {
+   "cn": "反价值",
+   "en": "anti-values",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.17",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "与社会工作专业价值取向相抵触的消极价值取向。其既可存在于社会工作者与案主的关系之中，又可存在于社会工作者与机构的关系之中，还可存在于社会工作者的相互关系之间。从理论形态而言，社会工作的反价值包括操纵和"
+  },
+  {
+   "cn": "教育价值观",
+   "en": "educational values",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0141",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们对整个教育核心价值或基础价值的看法或观念，以及对其他的教育观念有直接或间接的影响作用，与其他的教育观念一起规范着、指导着或调节着人们的教育行为。"
+  },
+  {
+   "cn": "D值",
+   "en": "D value",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.115",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定的处理环境中和在一定的热力致死温度条件下，某细菌数群中每杀死90%原有残存活菌数时所需要的时间。"
+  },
+  {
+   "cn": "A0值",
+   "en": "A0 value",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "生物体在80℃时达到特定Z值所用的等效时间，是评价湿热消毒效果的指标之一，单位以秒（S）表示。A0值为600时实现低水平消毒，A0值为3000时实现中水平消毒。"
+  },
+  {
+   "cn": "标定值",
+   "en": "stated value",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当指示物变化达到指示物制造商定义的终点时，过程关键变量的值或值的范围。"
+  },
+  {
+   "cn": "D值",
+   "en": "D-value",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，杀灭试验微生物总数的90%所需的时间或剂量。"
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "溶液中氢离子浓度的负对数值。"
+  },
+  {
+   "cn": "Q值",
+   "en": "Q value",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒作用温度每升高1℃消毒速度加快的倍数的温度系数。"
+  },
+  {
+   "cn": "Q10值",
+   "en": "Q10 value",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.1.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒作用温度每升高10℃消毒速度加快倍数的一种温度系数。"
+  },
+  {
+   "cn": "G值",
+   "en": "G value",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.35",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "表示辐射化学产额，物质每吸收100 eV电离辐射能量所形成的分子或基团数。其值大小，常与射线的能量和种类有关。"
+  },
+  {
+   "cn": "基线值",
+   "en": "baseline value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.22",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "设备性能参数的参考值。通常在验收检测合格后，由最初的性能检测得到，或者由相应的标准给定。"
+  },
+  {
+   "cn": "指导值",
+   "en": "guidance value",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "指定量的一个水平，高于该水平时应考虑采取适当的行动。某些情况下，在指定量实际上低于该水平时，亦可能需要考虑采取某些行动。"
+  },
+  {
+   "cn": "价值中立",
+   "en": "value free",
+   "source": "社会学名词",
+   "wordNumber": "1.2.2.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则",
+   "subjectName": "伦理准则",
+   "publishYear": "2025",
+   "definition": "在研究过程中，只客观地陈述事实而不做价值判断的研究方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

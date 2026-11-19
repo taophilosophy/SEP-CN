@@ -1,0 +1,662 @@
+{
+ "key": "stillness",
+ "term": "stillness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:00:04+00:00",
+ "status": "ok",
+ "note": "variant=stillness; 审定公布名词库=171; 海峡两岸名词对照库=44; 其他来源数据库=5; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "消力池",
+   "en": "stilling pool,stilling basin",
+   "source": "电力名词",
+   "wordNumber": "14.217",
+   "subjectFullName": "电力_水工与金属结构",
+   "subjectName": "水工与金属结构",
+   "publishYear": "2020",
+   "definition": "设于泄水槽末端有一定水垫深度的池塘,对过坝急流进行底流水跃消能的建筑物。"
+  },
+  {
+   "cn": "死胎",
+   "en": "still birth",
+   "source": "妇产科学名词",
+   "wordNumber": "15.019",
+   "subjectFullName": "胎儿异常与多胎妊娠_死胎",
+   "subjectName": "死胎",
+   "publishYear": "2025",
+   "definition": "妊娠20周后在子宫内死亡的胎儿。包括临产前胎死宫内和分娩过程中的死亡。"
+  },
+  {
+   "cn": "静水",
+   "en": "still water",
+   "source": "风景园林名词",
+   "wordNumber": "08.0590",
+   "subjectFullName": "风景园林_风景园林工程_风景园林水景",
+   "subjectName": "风景园林水景",
+   "publishYear": "2025",
+   "definition": "（1）水在风平浪静中的状态。（2）在园林中指静止或水流缓慢无法察觉状态的水体。"
+  },
+  {
+   "cn": "静设备",
+   "en": "still equipment",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.484",
+   "subjectFullName": "化工（五）_工厂系统与储运_换热站",
+   "subjectName": "换热站",
+   "publishYear": "2021",
+   "definition": "自身不做任何机械运动的设备。"
+  },
+  {
+   "cn": "平衡釜",
+   "en": "equilibrium still",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0268",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "用于测定混合物相平衡数据的一种实验装置。可分为气液平衡釜和液液平衡釜等。"
+  },
+  {
+   "cn": "消力池",
+   "en": "stilling basin",
+   "source": "计量学名词",
+   "wordNumber": "06.197",
+   "subjectFullName": "计量学_容量、流量_流量",
+   "subjectName": "流量",
+   "publishYear": "2015",
+   "definition": "测流建筑物下游的水池。消耗快速水流的能量，并防护对河床和堤岸的冲蚀。"
+  },
+  {
+   "cn": "平潮",
+   "en": "still tide",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0247",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "潮汐涨落过程中高潮时出现的水位短时间不动现象。"
+  },
+  {
+   "cn": "平潮",
+   "en": "still tide",
+   "source": "水产名词",
+   "wordNumber": "01.428",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "当潮位达到高潮或低潮后，海面在一段时间内既不上升也不下降的状况。"
+  },
+  {
+   "cn": "消力池",
+   "en": "stilling basin",
+   "source": "水利科学技术名词",
+   "wordNumber": "08.213",
+   "subjectFullName": "水利科学技术_水工建筑_泄水建筑物",
+   "subjectName": "泄水建筑物",
+   "publishYear": "1997",
+   "definition": "建在泄水建筑物末端使水流形成水跃消能的设施。"
+  },
+  {
+   "cn": "船闸消能室",
+   "en": "stilling chamber",
+   "source": "水利科学技术名词",
+   "wordNumber": "13.099",
+   "subjectFullName": "水利科学技术_航道与港口_船闸与升船机（水利）",
+   "subjectName": "船闸与升船机（水利）",
+   "publishYear": "1997",
+   "definition": "船闸输水系统中利用闸首帷墙的空间或将闸底部分挖空并在其中设置消能构件而构成的一个消能空间。"
+  },
+  {
+   "cn": "平衡釜",
+   "en": "equilibrium still",
+   "source": "化学工程名词",
+   "wordNumber": "02.270",
+   "subjectFullName": "化学工程_化工热力学_相平衡与化学平衡",
+   "subjectName": "相平衡与化学平衡",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "泥浆蒸馏器",
+   "en": "mud still",
+   "source": "石油名词",
+   "wordNumber": "05.0238",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "焦化釜",
+   "en": "coking still",
+   "source": "石油名词",
+   "wordNumber": "06.0390",
+   "subjectFullName": "石油_石油炼制_石油炼制专用设备及仪器",
+   "subjectName": "石油炼制专用设备及仪器",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "斯蒂尔病",
+   "en": "Still disease",
+   "source": "医学名词 第一分册",
+   "wordNumber": "03.007",
+   "subjectFullName": "医学_风湿病学",
+   "subjectName": "风湿病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "气压式蒸馏水器",
+   "en": "vapor compression still",
+   "source": "药学名词",
+   "wordNumber": "02.384",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "主要由自动进水器、热交换器、加热室、蒸发室、冷凝室及蒸汽压缩机等组成的用于制备注射用水的设备。"
+  },
+  {
+   "cn": "多效蒸馏水器",
+   "en": "multiple-effect still",
+   "source": "药学名词",
+   "wordNumber": "02.385",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "由圆柱型蒸馏塔、冷凝器、控制元件等组成的制备注射用水的重要设备，主要特点是耗能低、产量高、质量优，并有自动控制系统，是近年发展起来制备注射用水的主要设备。"
+  },
+  {
+   "cn": "静止图像可视电话",
+   "en": "still picture videophone",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0066",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "静止图像广播",
+   "en": "still picture broadcasting",
+   "source": "电子学名词",
+   "wordNumber": "22.007",
+   "subjectFullName": "电子学_广播电视",
+   "subjectName": "广播电视",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "静水弯矩",
+   "en": "still water bending moment",
+   "source": "船舶工程名词",
+   "wordNumber": "04.230",
+   "subjectFullName": "船舶工程_船体结构、强度及振动",
+   "subjectName": "船体结构、强度及振动",
+   "publishYear": "1998",
+   "definition": "静水中，由于重力和浮力的作用而在船体横剖面上产生的弯矩。"
+  },
+  {
+   "cn": "静波浪弯矩",
+   "en": "still wave bending moment",
+   "source": "船舶工程名词",
+   "wordNumber": "04.232",
+   "subjectFullName": "船舶工程_船体结构、强度及振动",
+   "subjectName": "船体结构、强度及振动",
+   "publishYear": "1998",
+   "definition": "船舶静置于波浪上，由于波面下的浮力分布相对于原静水面下的浮力分布的变化而产生的弯矩。"
+  },
+  {
+   "cn": "蒸馏釜",
+   "en": "still\",\"distillation still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "管式蒸馏釜",
+   "en": "tube still\",\"tubular still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "柱式蒸馏器",
+   "en": "column still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "焦化蒸馏器",
+   "en": "coke still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "简单［壳式］蒸馏釜",
+   "en": "shell still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "间歇蒸馏器",
+   "en": "batch still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "管式蒸馏器",
+   "en": "pipe still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "汽提器",
+   "en": "stripping still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "精馏釜",
+   "en": "rectifying still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平衡釜",
+   "en": "equilibrium still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "蒸氨塔",
+   "en": "ammonia still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真空蒸馏釜",
+   "en": "vacuum still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "夹套蒸馏器",
+   "en": "jacketed still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平潮",
+   "en": "still tide",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "静止图像",
+   "en": "still image",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间歇釜式蒸馏",
+   "en": "batch still distillation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "间歇焦化蒸馏器",
+   "en": "batch coke still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "连续汽提器",
+   "en": "continuous stripping still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "静止图像广播",
+   "en": "still picture broadcasting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多效蒸馏水器",
+   "en": "multiple-effect still",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "动静",
+   "en": "Movement and Stillness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "静水水道",
+   "en": "still water canal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "治病救人",
+   "en": "Treat the Illness and Save the Patient",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "上工治未病",
+   "en": "Great Physicians Treat Before the Outbreak of an Illness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有病不治，常得中医",
+   "en": "Self-treating an Illness Can Usually Get a Good Result.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "静阴温度",
+   "en": "still-shade temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.2.6",
+   "subjectFullName": "军事预防医学_寒区军事卫生_环境冷强度",
+   "subjectName": "环境冷强度",
+   "publishYear": "2025",
+   "definition": "与在一定环境条件下散热速度相同的温度相对比，当限定为无风、无辐射热交换环境条件时的气温。"
+  },
+  {
+   "cn": "成人斯蒂尔病",
+   "en": "adult onset still’s disease",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.9.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "发生于成年人的与斯蒂尔病相似的疾病。临床主要特征为发热、关节痛和/或关节炎、皮疹，实验室指标显示血白细胞增多，铁蛋白显著增高，以及类风湿因子和抗核抗体通常阴性。需排除感染、肿瘤和其他风湿免疫病。"
+  },
+  {
+   "cn": "晨僵",
+   "en": "morning stiffness",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.2.6",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "病变关节在长期静止不动后出现关节部位发紧、僵硬、活动不便或受限。尤以晨起时明显，活动后减轻。"
+  },
+  {
+   "cn": "患病行为",
+   "en": "illness behavior",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.3",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "当一个人感到生病时，为了达到确认疾病存在和寻求减轻疾病痛苦的目的而主动采取的行动。它受到内在的对躯体状况的主观感受，以及外在的社会文化、医疗服务体系等多种因素的复杂影响。"
+  },
+  {
+   "cn": "病痛叙述",
+   "en": "illness narrative",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0242",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "病人把他们的病痛体验组织成个人叙述。医学人类学认为，病痛叙述既受到个体因素的影响，也由于受文化的塑造而具有结构化的特点，它不仅反映患者的病痛体验，还有助于形成体验，认识并控制病痛。作为研究者，医学人类"
+  },
+  {
+   "cn": "患病",
+   "en": "disease/illness/sickness",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.2",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "在社会学语境中，患病有三层涵义：一是医学上可鉴别的生理功能失调(disease），二是病人感受到某些症状的心理感受(illness），三是病人被社会认可，无法正常扮演社会角色的社会状态(sicknes"
+  },
+  {
+   "cn": "疾病成本",
+   "en": "cost of illness",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由疾病的发病、导致的伤残（失能）以及过早死亡带来的经济损失或资源消耗。"
+  },
+  {
+   "cn": "因病致贫",
+   "en": "poverty due to illness",
+   "source": "社会医学名词",
+   "wordNumber": "12.4.2",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "贫困人口卫生保健",
+   "publishYear": "2025",
+   "definition": "个人或家庭成员因罹患重大疾病、慢性病或其他严重健康问题，导致高额医疗支出、劳动力丧失或收入下降，从而使家庭经济状况明显恶化，最终陷入贫困状态的现象。该问题广泛存在于缺乏完善医疗保障和社会支持机制的地区"
+  },
+  {
+   "cn": "疾病的文化解释",
+   "en": "cultural context of illness",
+   "source": "社会学名词",
+   "wordNumber": "3.11.5.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康与社会",
+   "subjectName": "健康与社会",
+   "publishYear": "2025",
+   "definition": "影响健康和疾病定义的具体的社会文化因素。现有的研究显示，文化差异会造成对疼痛、饥饿等客观生理现象的不同主观体验，也会造成对疾病的不同解释，以及对身体各个器官的重视程度的不同等。"
+  },
+  {
+   "cn": "因病致贫",
+   "en": "poverty due to illness",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "因疾病费用支出导致的贫困。"
+  },
+  {
+   "cn": "因病缺课",
+   "en": "absence due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康监测指标",
+   "subjectName": "学生健康监测指标",
+   "publishYear": "2025",
+   "definition": "学生因为患病不能参加学校正常的学习和生活的现象。是反映学校群体性疾病流行情况的敏感指标，也是反映学生健康状况和学校预防保健水平的重要指标。"
+  },
+  {
+   "cn": "因病休学",
+   "en": "dropout due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康监测指标",
+   "subjectName": "学生健康监测指标",
+   "publishYear": "2025",
+   "definition": "学生因病不能继续学习，经学校同意，暂停学习但保留学籍的现象。"
+  },
+  {
+   "cn": "因病缺课率",
+   "en": "absence rate due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康监测指标",
+   "subjectName": "学生健康监测指标",
+   "publishYear": "2025",
+   "definition": "常以月、周为单位，计算因病缺课的人时数或人日数占授课总人时数或总人日数的比率。为适应学校教学日历，以四周代替一月来登记和统计时，又称月病假率。计算人日数时，通常因病缺课3个学时记为半天；超过3个学时，"
+  },
+  {
+   "cn": "因病休学率",
+   "en": "dropout rate due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康监测指标",
+   "subjectName": "学生健康监测指标",
+   "publishYear": "2025",
+   "definition": "全校学生一学期内因病休学的概率，是反映学生健康状况的指标。公式为全学期因病休学人数／该学期全校学生平均人数*100%"
+  },
+  {
+   "cn": "两周患病率",
+   "en": "two-week prevalence of illness",
+   "source": "社会医学名词",
+   "wordNumber": "8.2.1.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务需要",
+   "publishYear": "2025",
+   "definition": "在调查日前的两周内患病的居民人数或人次数占被调查居民的比例，是反映卫生服务需要的常见指标。"
+  },
+  {
+   "cn": "儿童疾病综合管理",
+   "en": "integrated management of childhood illness, IMCI",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.6",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童疾病综合管理",
+   "subjectName": "儿童疾病综合管理",
+   "publishYear": "2025",
+   "definition": "由世界卫生组织和联合国儿童基金会联合提出，1998年引入中国，其综合管理原则包括：医疗保健人员对所有患儿检查一般危险体征，同时评估营养状况、免疫接种等潜在问题，对患儿进行分类（而非诊断），使用规定的基"
+  },
+  {
+   "cn": "疾病负担",
+   "en": "burden of disease，burden of illness",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "疾病、伤残（失能）和过早死亡对健康和社会造成的总损失。"
+  },
+  {
+   "cn": "因病缺课缺勤管理",
+   "en": "management of absence due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校卫生工作人员对师生员工因病缺课/缺勤情况及诊疗信息，进行登记并按规定上报的过程。"
+  },
+  {
+   "cn": "因病缺课缺勤登记",
+   "en": "registration of absence due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校（含托幼机构）发现师生员工有传染病早期症状、疑似传染病病人及其他因病缺课/缺勤等情况，及时报告给学校传染病疫情报告人，学校传染病疫情报告人立即开展排查，并对排查情况详细记录的过程。"
+  },
+  {
+   "cn": "因病缺课缺勤追踪",
+   "en": "tracing of absenteeism due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校卫生工作人员每日对因病缺课/缺勤的师生员工进行登记，追查其主要症状、发病时间、就诊信息、诊断结果、家庭共同生活人员相似症状等，对其病情和转归进行追踪并记录的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

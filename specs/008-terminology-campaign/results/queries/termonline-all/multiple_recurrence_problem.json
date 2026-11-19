@@ -1,0 +1,742 @@
+{
+ "key": "multiple recurrence problem",
+ "term": "multiple recurrence problem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:29:21+00:00",
+ "status": "ok",
+ "note": "variant=multiple recurrence problem; 审定公布名词库=1694; 海峡两岸名词对照库=503; 其他来源数据库=54; 预公布名词数据库=64; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "多重尺度问题",
+   "en": "multiple scale problem",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "多重尺度问题",
+   "en": "multiple scale problem",
+   "source": "数学名词",
+   "wordNumber": "010.0584",
+   "subjectFullName": "数学_数值分析_偏微分方程数值解",
+   "subjectName": "偏微分方程数值解",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "复现[性]",
+   "en": "recurrence",
+   "source": "物理学名词",
+   "wordNumber": "01.0308",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "返回的",
+   "en": "recurrent",
+   "source": "数学名词",
+   "wordNumber": "07.0418",
+   "subjectFullName": "数学_泛函分析_遍历理论",
+   "subjectName": "遍历理论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.108",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "复发",
+   "en": "relapse,recurrence",
+   "source": "手外科学名词",
+   "wordNumber": "05.1094",
+   "subjectFullName": "手外科学_手外科学分论_上肢肿瘤",
+   "subjectName": "上肢肿瘤",
+   "publishYear": "2020",
+   "definition": "已经好转的疾病或已经消失的症状，经过一段时间后再度发生的现象。"
+  },
+  {
+   "cn": "复发",
+   "en": "relapse,recurrence",
+   "source": "核医学名词",
+   "wordNumber": "04.0291",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤诊疗相关技术",
+   "subjectName": "肿瘤诊疗相关技术",
+   "publishYear": "2018",
+   "definition": "曾经治愈的疾病再度出现临床表现的现象。"
+  },
+  {
+   "cn": "复胖",
+   "en": "weight recurrence",
+   "source": "普通外科学名词",
+   "wordNumber": "26.049",
+   "subjectFullName": "医学_普通外科学_减重代谢外科",
+   "subjectName": "减重代谢外科",
+   "publishYear": "2026",
+   "definition": "经减重代谢手术体重达到最低点后，体重增长大于首次体重减少的15%的现象。"
+  },
+  {
+   "cn": "重现期",
+   "en": "recurrence interval",
+   "source": "风景园林名词",
+   "wordNumber": "08.0924",
+   "subjectFullName": "风景园林_风景园林工程_风景园林排水",
+   "subjectName": "风景园林排水",
+   "publishYear": "2025",
+   "definition": "在一定年代的雨量记录资料统计期间内，等于或大于某暴雨强度的降雨出现一次的平均间隔时间。"
+  },
+  {
+   "cn": "气管造瘘口复发癌",
+   "en": "stomal recurrence",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.9.4",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈恶性肿瘤",
+   "subjectName": "咽喉–头颈恶性肿瘤",
+   "publishYear": "2025",
+   "definition": "咽、喉癌术后气管造口周围复发的恶性肿瘤。"
+  },
+  {
+   "cn": "复发时间",
+   "en": "recurrence time",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1774",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在同一构造或区域，两次同类事件发生的时间间隔。 "
+  },
+  {
+   "cn": "生化复发",
+   "en": "biochemical recurrence",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.363",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤转移和复发_妇科恶性肿瘤复发",
+   "subjectName": "妇科恶性肿瘤复发",
+   "publishYear": "2022",
+   "definition": "对肿瘤经过系统规范治疗后达到临床完全缓解，而在定期常规的监测和随访中发现肿瘤相关标志物生化指标水平升高，但无妇科恶性肿瘤症状，查体阴性，而且无影像学和体征证据的现象。"
+  },
+  {
+   "cn": "影像学复发",
+   "en": "imaging recurrence",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.364",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤转移和复发_妇科恶性肿瘤复发",
+   "subjectName": "妇科恶性肿瘤复发",
+   "publishYear": "2022",
+   "definition": "对肿瘤经过系统规范治疗后达到临床完全缓解，定期常规的监测和随访时仅出现恶性肿瘤影像学复发证据的现象。"
+  },
+  {
+   "cn": "临床复发",
+   "en": "clinical recurrence",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.365",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤转移和复发_妇科恶性肿瘤复发",
+   "subjectName": "妇科恶性肿瘤复发",
+   "publishYear": "2022",
+   "definition": "对肿瘤经过系统规范治疗后达到临床完全缓解，定期常规的监测和随访时出现临床症状和体征，有影像学证据的现象。"
+  },
+  {
+   "cn": "局部复发",
+   "en": "local recurrence",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.368",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤转移和复发_妇科恶性肿瘤复发",
+   "subjectName": "妇科恶性肿瘤复发",
+   "publishYear": "2022",
+   "definition": "在原发病灶周围复发的现象。不同妇科恶性肿瘤容易出现的局部复发部位不同，如宫颈癌最易出现在阴道断端和盆腔及骨盆韧带等处。"
+  },
+  {
+   "cn": "盆腔内复发",
+   "en": "pelvic recurrence",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.369",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤转移和复发_妇科恶性肿瘤复发",
+   "subjectName": "妇科恶性肿瘤复发",
+   "publishYear": "2022",
+   "definition": "在盆腔内邻近器官（如膀胱、结直肠、输尿管）复发的现象。也可在盆腔腹膜、盆壁，以及盆腔淋巴结等部位复发，多见于宫颈癌。"
+  },
+  {
+   "cn": "远处复发",
+   "en": "distant recurrence",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.371",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤转移和复发_妇科恶性肿瘤复发",
+   "subjectName": "妇科恶性肿瘤复发",
+   "publishYear": "2022",
+   "definition": "在原发病灶远处[如骨骼、脏器（肝、肺、胸膜）或淋巴结（如锁骨上淋巴结、腹股沟淋巴结等）]生出肿瘤的现象。"
+  },
+  {
+   "cn": "腹腔内复发",
+   "en": "intraperitoneal recurrence",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.372",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤转移和复发_妇科恶性肿瘤复发",
+   "subjectName": "妇科恶性肿瘤复发",
+   "publishYear": "2022",
+   "definition": "在腹腔脏器（如肝、小肠、脾、胃、胰腺等）或腹膜生出肿瘤的现象。多见于卵巢癌复发。"
+  },
+  {
+   "cn": "重现期",
+   "en": "recurrence interval",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.559",
+   "subjectFullName": "城乡规划学_城乡规划与设计_工程规划",
+   "subjectName": "工程规划",
+   "publishYear": "2021",
+   "definition": "在一定长的统计期间内，等于或大于某统计对象出现一次的平均间隔时间。"
+  },
+  {
+   "cn": "比价复归",
+   "en": "parity recurrence",
+   "source": "经济学名词",
+   "wordNumber": "15.038",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "经过一定时期的变动之后，商品的比价关系又重新回到调整之前原有状态的现象。在中国计划经济时期，通常出现矿产品和农产品对于加工品比价较低的情况。当程度严重时，国家不得已对这种比价关系进行调整。但由于体制固"
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递推公式，循环公式",
+   "en": "recurrence formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "再现风险,复发风险",
+   "en": "recurrence risk",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "递推关系",
+   "en": "recurrence relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "返动脉",
+   "en": "recurrent artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "轮回亲本",
+   "en": "recurrent parent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复现暴",
+   "en": "recurrent burst",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "再发新星",
+   "en": "recurrent nova",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "再现耀斑",
+   "en": "recurrent flare",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "经常性支出",
+   "en": "recurrent expenditure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "轮回亲本,回归亲本",
+   "en": "recurrent parent",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "连环码",
+   "en": "recurrent code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后向鞭毛",
+   "en": "recurrent flagellum",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "回神经",
+   "en": "recurrent nerve",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "增殖",
+   "en": "multiplication",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "反[演]问题",
+   "en": "inverse problem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "问题解决",
+   "en": "problem solving",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应问题",
+   "en": "correspondence problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内倾问题",
+   "en": "internalizing problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "递推法",
+   "en": "recurrence method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运输问题",
+   "en": "transportation problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无约束问题",
+   "en": "unconstrained problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "背包问题",
+   "en": "knapsack problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "停机问题",
+   "en": "halting problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题求解",
+   "en": "problem solving",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题导向",
+   "en": "problem-oriented",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "递归神经网络",
+   "en": "recurrent neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多利益攸关方",
+   "en": "multiple stakeholders",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多周空翻",
+   "en": "multiple smersault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多次犯规",
+   "en": "multiple foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多输入多输出",
+   "en": "multiple-input multiple-output (MIMO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境问题",
+   "en": "environmental problem",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.3",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "由于人类活动作用于周围环境所引起的环境质量变化，以及这种变化对人类的生产、生活和健康造成的影响。"
+  },
+  {
+   "cn": "妇女问题",
+   "en": "female problem",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.54",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "妇女因其性别而在经济、政治、社会和家庭省会中遇到的各种特殊障碍，导致她们在个人和家庭生活质量，以及在教育、就业、收入和社会政治参与等方面普遍存在劣势的问题。"
+  },
+  {
+   "cn": "民族问题",
+   "en": "national problem",
+   "source": "马克思主义",
+   "wordNumber": "03.0118",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在民族发展和交往过程中产生的民族与民族之间的各种矛盾和问题，如民族歧视、民族纠纷、民族压迫等。民族问题是一个历史问题和社会政治问题，它在历史发展的不同时期表现出不同的性质和特点。解决民族问题，核心是实"
+  },
+  {
+   "cn": "农民问题",
+   "en": "peasants problem",
+   "source": "马克思主义",
+   "wordNumber": "04.0080",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁于1921年2月8日俄共（布）中央政治局会议上写了《农民问题提纲初稿》，这是一篇表明苏维埃俄国农业政策、甚至整个经济政策重大变化的文献。列宁开始考虑用粮食税代替余粮征集。这篇文献奠定了新经济政策的"
+  },
+  {
+   "cn": "总问题",
+   "en": "General problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0069",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》，指文本的深层结构，即一种思想产生和发展时所处的意识形态环境与这一思想的内在整体。"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "社会中存在的人与自然、人与社会以及人与人之间关系的严重失调或冲突现象，影响社会的正常运转，阻碍社会的协调发展。例如，人口问题、环境污染问题、腐败问题、贫困问题、就业问题等。"
+  },
+  {
+   "cn": "问题识别",
+   "en": "problem identification",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "通过对社会现象的分析、公众意见的收集或专家判断，将某一具体情况明确为需要政策干预的公共问题的过程，是整个政策过程的起点。"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problems",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "社会成员普遍认为不符合社会预期，违反社会价值，扰乱社会秩序的社会现象。对社会稳定有负面影响，需要运用社会力量对社会结构进行调整和干预，对社会制度进行修正。"
+  },
+  {
+   "cn": "复发性流产",
+   "en": "recurrent abortion, RA",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.4.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_自然流产",
+   "subjectName": "自然流产",
+   "publishYear": "2025",
+   "definition": "“反复流产”。24周前两次或两次以上临床确认的妊娠失败，包括胚胎和胎儿丢失。"
+  },
+  {
+   "cn": "再发传染病",
+   "en": "recurrent infectious disease",
+   "source": "消毒学",
+   "wordNumber": "7.1.6",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "那些早就为人们所知，并已得到良好控制，发病率已降到极低水平，但现在又重新流行、再度威胁人类健康的传染病。"
+  },
+  {
+   "cn": "多重残疾",
+   "en": "multiple disabilities",
+   "source": "社会医学名词",
+   "wordNumber": "12.5.3",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "残疾人卫生保健",
+   "publishYear": "2025",
+   "definition": "同时存在两种或两种以上残疾的情况。"
+  },
+  {
+   "cn": "衰减倍数",
+   "en": "attenuation multiple",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.23",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "设置屏蔽之前某关心点处的周围剂量当量与设置屏蔽之后该点周围剂量当量的比值。"
+  },
+  {
+   "cn": "多元相关",
+   "en": "multiple correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在多元线性回归中，反映多于两个变量的变量间的线性关系的量度。用多元判定系数r2表示。"
+  },
+  {
+   "cn": "多元回归",
+   "en": "multiple regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.84",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现一组自变量同单一因变量间关系的一组广泛的统计分析方法。"
+  },
+  {
+   "cn": "多元市场",
+   "en": "multiple market",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.38",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "因为社会生活的经济方面受到非经济方面的深刻影响，从特定的市场到具体的经济活动都呈现出的高度异质化、多元化的特征。泽利泽指出，并不存在一个一般化的市场，只有一个市场谱系，该谱系上的每一点所代表的市场都由"
+  },
+  {
+   "cn": "多重残疾",
+   "en": "multiple disabilities",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "存在两种或两种以上残疾。"
+  },
+  {
+   "cn": "多胎妊娠",
+   "en": "multiple pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.7.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "一次妊娠宫腔内同时有两个及以上胎儿的妊娠。"
+  },
+  {
+   "cn": "乘积系数",
+   "en": "multiplication factor",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.10",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "在金字塔模型中，多个层级低估系数的累积系数。"
+  },
+  {
+   "cn": "搭便车问题",
+   "en": "free rider problem",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "因为公共物品具有非竞争性和非排他性特征，使得具有理性自利特征的行动者不会积极主动地发起集体行动、提供集体物品以满足所属集团或组织的需要，而是采取不付成本或少付成本，坐享他人付出之利的行动策略。这反过来"
+  },
+  {
+   "cn": "价值转形问题",
+   "en": "value transformation problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0122",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在马克思的劳动价值论中，价值转化为生产价格被学术界称为价值转形理论。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

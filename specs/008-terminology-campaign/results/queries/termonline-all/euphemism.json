@@ -1,0 +1,52 @@
+{
+ "key": "euphemism",
+ "term": "euphemism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:04:36+00:00",
+ "status": "ok",
+ "note": "variant=euphemism; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "委婉语",
+   "en": "euphemism",
+   "source": "语言学名词",
+   "wordNumber": "05.234",
+   "subjectFullName": "语言学_语义学、词汇学_熟语",
+   "subjectName": "熟语",
+   "publishYear": "2011",
+   "definition": "为了把话说得文雅而采用的间接、婉转的词语。"
+  },
+  {
+   "cn": "曲语",
+   "en": "euphemism in periphrasis",
+   "source": "语言学名词",
+   "wordNumber": "08.224",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "婉曲的一种。不直接说出本意，而是通过描述与本意相关的事物来烘托、暗示本意。例如，“他走着，走着，路灯一盏一盏地亮了。他走着，走着，路灯又一盏一盏地灭了。”"
+  },
+  {
+   "cn": "婉言",
+   "en": "euphemism in an implicit expression",
+   "source": "语言学名词",
+   "wordNumber": "08.223",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "婉曲的一种。不直接说出本意，故意换一种含蓄的说法。例如，“你当然不怕，吃饱了，连屋里的小板凳都不饿。他可是一大家子人哩。”"
+  },
+  {
+   "cn": "婉曲",
+   "en": "euphemism in an implicit expression or in periphrasis",
+   "source": "语言学名词",
+   "wordNumber": "08.222",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。运用委婉、含蓄、曲折的话语暗示、烘托本意。又可分为婉言和曲语两种。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

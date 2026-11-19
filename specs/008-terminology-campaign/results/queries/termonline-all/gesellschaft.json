@@ -1,0 +1,42 @@
+{
+ "key": "gesellschaft",
+ "term": "Gesellschaft",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:32:52+00:00",
+ "status": "ok",
+ "note": "variant=Gesellschaft; 审定公布名词库=0; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "AGK星表",
+   "en": "Astronomische Gesellschaft Katalog\",\"AGK",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社会体",
+   "en": "Gesellschaft",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.23",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "大量的、异质的、匿名的、追逐各自利益的人们的行动所构成的，以法律、规范、规章或契约联系起来的一种社会关系。在此，人们的行动以达到某种目的而有意识地选择与之相适应的有利手段为取向。在德国社会学家滕尼斯那"
+  },
+  {
+   "cn": "共同体与社会",
+   "en": "Gemeinschaft and Gesellschaft",
+   "source": "社会学名词",
+   "wordNumber": "3.4.1.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "德国社会学家滕尼斯(Ferdinand Tὂnnies）提出的两个概念。分别指人类的两种聚合形态以及与之相联的思维与行为方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

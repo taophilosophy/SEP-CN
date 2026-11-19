@@ -1,0 +1,782 @@
+{
+ "key": "pacific-ism",
+ "term": "pacific-ism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:08:09+00:00",
+ "status": "ok",
+ "note": "variant=pacific-ism; 审定公布名词库=919; 海峡两岸名词对照库=371; 其他来源数据库=114; 预公布名词数据库=56; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "太平洋板块",
+   "en": "Pacific plate",
+   "source": "地质学名词",
+   "wordNumber": "10.02.007",
+   "subjectFullName": "地质学_大地构造学_主要大地构造单元",
+   "subjectName": "主要大地构造单元",
+   "publishYear": "2026",
+   "definition": "囊括太平洋海域的板块。东以夏洛特皇后岛转换断层-胡安·德富卡脊-圣安德烈斯转换断层-东太平洋洋隆为界，向南隔太平洋-南极洋中脊与南极洲板块为邻，西、南界为西太平洋和西南太平洋复杂沟-弧-盆系的海沟(日"
+  },
+  {
+   "cn": "太平洋板块",
+   "en": "Pacific Plate",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0214",
+   "subjectFullName": "地球物理学_地球动力学_板块构造",
+   "subjectName": "板块构造",
+   "publishYear": "2022",
+   "definition": "覆盖太平洋大部区域的海洋板块。北、西、西南部都为深海沟构造，分别与阿留申岛弧、日本岛弧、菲律宾海板块和印澳板块邻接，南部以海岭同南极板块邻接。东北边界的北段为离散边界，分别形成探险家海岭、胡安德富卡海"
+  },
+  {
+   "cn": "太平洋战争",
+   "en": "Pacific War",
+   "source": "世界历史名词",
+   "wordNumber": "01.0303",
+   "subjectFullName": "世界历史_综合_第二次世界大战",
+   "subjectName": "第二次世界大战",
+   "publishYear": "2012",
+   "definition": "以1941年12月7日偷袭珍珠港为标志的日本在亚洲太平洋地区的侵略战争和反法西斯同盟国的反侵略战争。"
+  },
+  {
+   "cn": "太平洋高压",
+   "en": "Pacific high",
+   "source": "大气科学名词",
+   "wordNumber": "06.181",
+   "subjectFullName": "大气科学_天气学",
+   "subjectName": "天气学",
+   "publishYear": "2009",
+   "definition": "中心位于南、北太平洋副热带地区上空的高压系统。"
+  },
+  {
+   "cn": "太平洋",
+   "en": "Pacific Ocean",
+   "source": "海洋科技名词",
+   "wordNumber": "01.0031",
+   "subjectFullName": "海洋科学技术_总论_公用名词",
+   "subjectName": "公用名词",
+   "publishYear": "2007",
+   "definition": "位于亚洲、大洋洲、美洲和南极洲之间的世界上最大、最深、边缘海和岛屿最多的大洋。"
+  },
+  {
+   "cn": "太平洋高压",
+   "en": "Pacific high",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0453",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋气象学",
+   "subjectName": "海洋气象学",
+   "publishYear": "2007",
+   "definition": "中心位于南、北太平洋副热带地区的暖性高压。"
+  },
+  {
+   "cn": "太平洋板块",
+   "en": "Pacific Plate",
+   "source": "海洋科技名词",
+   "wordNumber": "02.1347",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "subjectName": "海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "publishYear": "2007",
+   "definition": "东以太平洋海隆为界，北、西、西南都为深海沟，与阿留申岛弧、日本岛弧、菲律宾板块和印度板块接界，南部以海岭同南极洲板块相接的板块。"
+  },
+  {
+   "cn": "社会和平主义",
+   "en": "Social-Pacifism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0097",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "第一次世界大战期间，第二国际所属社会民主党内的一种机会主义思潮，打着社会主义的旗号，宣扬抽象和平，反对一切战争。"
+  },
+  {
+   "cn": "联合中央太平洋铁路",
+   "en": "Union Pacific-Central Pacific Railroad",
+   "source": "世界历史名词",
+   "wordNumber": "03.0106",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1869年建成的美国第一条横贯美洲大陆的铁路线。"
+  },
+  {
+   "cn": "带业务监测",
+   "en": "in-service monitoring,ISM",
+   "source": "通信科学技术名词",
+   "wordNumber": "06.048",
+   "subjectFullName": "通信科学技术_运行、维护与管理",
+   "subjectName": "运行、维护与管理",
+   "publishYear": "2007",
+   "definition": "在网络运行和维护过程中对正在传输的业务的流量、延时、帧抖动以及突发故障进行实时的网络监测。"
+  },
+  {
+   "cn": "解释结构建模[法]",
+   "en": "interpretive structure modeling,ISM",
+   "source": "自动化名词",
+   "wordNumber": "03.362",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "东太平洋海隆",
+   "en": "East Pacific Rise",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0065",
+   "subjectFullName": "地球物理学_地球动力学_板块构造",
+   "subjectName": "板块构造",
+   "publishYear": "2022",
+   "definition": "太平洋海底位于离散边界的洋脊，从北到南将其西面的太平洋板块与东面的北美板块、里韦拉板块、科科斯板块、纳斯卡板块和南极板块分隔。海洋地壳以每年约 70mm移离东太平洋海隆，东面的科科斯板块和纳斯卡板块向"
+  },
+  {
+   "cn": "环太平洋岩区",
+   "en": "circum-Pacific province",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0418",
+   "subjectFullName": "地球物理学_地球动力学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "环太平洋火山带的火山岩主要是中性岩浆喷发的产物，形成了钙碱性系列的岩石，最常见的火山岩类型是安山岩，距海沟轴 150～300km的陆地内，安山岩平行于海沟呈弧形分布，形成安山岩线。自海沟向陆地方向岩石"
+  },
+  {
+   "cn": "加拿大太平洋铁路",
+   "en": "Canadian Pacific Railway",
+   "source": "世界历史名词",
+   "wordNumber": "03.0299",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_加拿大",
+   "subjectName": "加拿大",
+   "publishYear": "2012",
+   "definition": "加拿大19世纪80年代修筑的第一条横贯大陆的重要铁路干线。"
+  },
+  {
+   "cn": "北太平洋涛动",
+   "en": "North Pacific Oscillation",
+   "source": "大气科学名词",
+   "wordNumber": "06.318",
+   "subjectFullName": "大气科学_天气学",
+   "subjectName": "天气学",
+   "publishYear": "2009",
+   "definition": "北太平洋地区海平面气压场上南北方向的持续反振动。"
+  },
+  {
+   "cn": "太平洋赤道潜流",
+   "en": "Pacific Equatorial Undercurrent",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0105",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "在太平洋南赤道流下方的温跃层内与其方向相反的东向海流。"
+  },
+  {
+   "cn": "太平洋型海岸",
+   "en": "Pacific-type coast",
+   "source": "海洋科技名词",
+   "wordNumber": "02.1133",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "subjectName": "海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "publishYear": "2007",
+   "definition": "海岸线延伸方向与沿岸构造线略呈一致的海岸。"
+  },
+  {
+   "cn": "东太平洋海隆",
+   "en": "East Pacific Rise",
+   "source": "海洋科技名词",
+   "wordNumber": "02.1367",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "subjectName": "海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "publishYear": "2007",
+   "definition": "位于太平洋东南部，两坡平缓，相对高度较小，并呈快速扩张的海隆。"
+  },
+  {
+   "cn": "太平洋两岸分布",
+   "en": "amphi-Pacific distribution",
+   "source": "生态学名词",
+   "wordNumber": "16.193",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "某些海洋底栖生物同时在北温带太平洋东西两岸水域出现的分布现象。只能在北温带太平洋两岸分布，不能跨越热带太平洋深海盆在两岸分布。"
+  },
+  {
+   "cn": "根特协定",
+   "en": "Pacification of Ghent",
+   "source": "世界历史名词",
+   "wordNumber": "03.0727",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_荷兰、比利时、卢森堡",
+   "subjectName": "荷兰、比利时、卢森堡",
+   "publishYear": "2012",
+   "definition": "1576年11月8日，尼德兰的天主教各省与新教各省签订的协定，决定暂时搁置宗教分歧，一致反抗西班牙的统治。"
+  },
+  {
+   "cn": "太平洋231号",
+   "en": "Pacific 231",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Honegger, Arthur"
+  },
+  {
+   "cn": "太平洋高压",
+   "en": "Pacific high",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋",
+   "en": "Pacific Ocean",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋板块",
+   "en": "Pacific Plate",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋边缘",
+   "en": "Pacific margin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋高压",
+   "en": "Pacific high",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋卫星",
+   "en": "Pacific Satellite",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "北太平洋流",
+   "en": "North Pacific Current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "北太平洋涛动",
+   "en": "North Pacific Oscillation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋副北极海流",
+   "en": "Pacific subarctic current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋深层水",
+   "en": "Pacific deep water",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋两岸分布",
+   "en": "amphi-Pacific distribution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋经济共同体",
+   "en": "Pacific Economic Community",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "东北太平洋海盆",
+   "en": "Northeast Pacific Basin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "东太平洋海隆",
+   "en": "East Pacific Rise",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "环太平洋岩区",
+   "en": "Circum-Pacific province",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "南太平洋海盆",
+   "en": "South Pacific Basin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "南太平洋群岛",
+   "en": "South Pacific Islands",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋赤道潜流",
+   "en": "Pacific Equatorial Undercurrent",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋型海岸",
+   "en": "Pacific-type coast",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋战场",
+   "en": "Pacific theater",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "“清乡”",
+   "en": "“pacification” operation",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全管理体系",
+   "en": "information security management system (ISMS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚太经济合作 组织",
+   "en": "Asia-Pacific Economic Cooperation",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨太平洋伙伴关系协定",
+   "en": "Trans-Pacific Partnership Agreement",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚太经济合作组织",
+   "en": "Asia-Pacific Economic Cooperation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全管理体系认证",
+   "en": "information security management system (ISMS) certification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全管理体系审核",
+   "en": "information security management system (ISMS) auditing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋地区标准大会",
+   "en": "Pacific Area Standards Congress (PASC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数字APEC战略》（亚太经济合作组织）",
+   "en": "E-APEC Strategy (Asia-Pacific Economic Cooperation)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "APEC跨境隐私规则体系",
+   "en": "Cross-Border Privacy Rules (Asia-Pacific Economic Cooperation)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共建面向未来的亚太伙伴关系",
+   "en": "jointly building the future-oriented Asia-Pacific partnership",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化组织大会",
+   "en": "ISO meeting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化组织相关标准",
+   "en": "ISO Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "ASM存储镜像",
+   "en": "ASM mirroring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能准则（IBM）",
+   "en": "AI Ethics (IBM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "IgM抗体检测",
+   "en": "IgM antibody test",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "专业（性）",
+   "en": "professional(ism)",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "从事一项活动体现出的系统知识和专精品质。在社会工作实践中指具有系统的理论、专业权威、社会认可、道德行为守则和专业文化。"
+  },
+  {
+   "cn": "和平主义",
+   "en": "pacifism",
+   "source": "马克思主义",
+   "wordNumber": "04.0289",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种抽象地、无原则地拥护和鼓吹和平的资产阶级机会主义政治思潮。广义包括非暴力运动和不抵抗运动等；狭义指不区别战争的正义性与非正义性,笼统地反对一切战争、祈求人类永久和平的思想。近代的和平主义始于19世"
+  },
+  {
+   "cn": "社会和平主义",
+   "en": "social pacifism",
+   "source": "马克思主义",
+   "wordNumber": "04.0370",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第一次世界大战期间在第二国际各国社会民主党内流行的一种机会主义思潮，用社会主义词句装扮起来的资产阶级和平主义，以考茨基等人为主要代表。社会和平主义反对任何军事化和战争，主张通过“废除武装”，缔结“民主"
+  },
+  {
+   "cn": "《平定准噶尔方略》",
+   "en": "Strategy for the pacification of Junggar",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0609",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "乾隆三十七年（1772）傅恒等奉敕编纂。分前、正、续三遍。书以事为纲，以年月日编次。凡有关策妄阿喇布坦、噶尔丹策零、策妄多尔济那木扎勒、喇嘛达尔扎、达瓦齐、阿睦尔撒纳、大小和卓等人情况的奏疏、训谕，均"
+  },
+  {
+   "cn": "平定准噶尔勒铭伊犁之碑",
+   "en": "Stele of the pacification of the Junggar on Ili",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0616",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清代纪念性碑刻。清乾隆撰，约500 字。记乾隆二十年（1755）清朝出兵征伐准噶尔部达瓦齐缘由、经过及意义。二十七年用汉、满、蒙、藏四种文字镌刻两方，一立于伊犁宁远城（今伊宁市）东，已毁；一立于承德避"
+  },
+  {
+   "cn": "免疫球蛋白M",
+   "en": "immunoglobulin M， IgM",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.31",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "重链为μ的免疫球蛋白。是分子量最大的免疫球蛋白。与B细胞表面结合的是单体，参与构成B细胞受体；分泌于血清中的是五聚体，具有强大的杀菌、激活补体、免疫调理和凝集作用，也参与某些自身免疫病及超敏反应。"
+  },
+  {
+   "cn": "比活度",
+   "en": "specific activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位质量的放射性活度。SI单位为贝可每千克，记作Bq·kg-1。"
+  },
+  {
+   "cn": "比能",
+   "en": "specific energy",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.15",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "在一小体积元中单次或多次能量沉积事件的授予能与该体积元质量的比值。是属于微剂量学的随机量。符号为z。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "特异性抗原",
+   "en": "specific antigen",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.6",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "被淋巴细胞抗原受体所识别的特定抗原。"
+  },
+  {
+   "cn": "钙化性关节周围炎",
+   "en": "calcific perarthritis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.1.18",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_骨及关节疾病",
+   "subjectName": "骨及关节疾病",
+   "publishYear": "2025",
+   "definition": "一种由羟磷灰石钙沉积引起的关节周围炎症。多数患者无症状，X线偶然发现。女性多于男性，发病高峰年龄为31-40岁。急性发作时可表现为急性单关节疼痛，肩关节多见。"
+  },
+  {
+   "cn": "特异性中毒",
+   "en": "specific poisoning",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.4.1.2.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "机体暴露于特定毒物后，因毒物本身的化学结构、代谢特性或作用机制，对特定靶器官、组织或细胞产生选择性损伤，进而引发具有特征性临床表现或病理改变的毒性效应。"
+  },
+  {
+   "cn": "分区生存模型",
+   "en": "partitioned survival model,PSM",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种模拟生命周期的决策分析模型。通过临床研究中的生存数据，模拟研究时限内各时点上无进展、疾病进展与死亡的个体数量或比例，拟合无进展、进展与死亡的曲线。"
+  },
+  {
+   "cn": "酸性食品",
+   "en": "acidic food",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.63",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "pH＜5 的食品。"
+  },
+  {
+   "cn": "酸性防腐剂",
+   "en": "acidic preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "一类在酸性条件下发挥防腐作用的食品添加剂。"
+  },
+  {
+   "cn": "原位杂交",
+   "en": "in situ hybridization，ISH",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.32",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "以标记的已知顺序的特定核酸为探针与细 胞或组织切片中核酸进行杂交，从而对特定 核酸顺序进行精确定量、定位的技术。"
+  },
+  {
+   "cn": "包涵体肌炎",
+   "en": "inclusion body myositis，IBM",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.3.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "以肌细胞中存在包涵体为主要病理特征的慢性肌病，分散发性包涵体肌炎和遗传性包涵体肌炎两种类型。"
+  },
+  {
+   "cn": "乙酸异丁酸蔗糖酯",
+   "en": "sucrose acetate iso-butyrate",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.2.11",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "蔗糖分子中8个羟基被乙酰基和异丁酰基取代而形成的酯类混合物，其中乙酸酯和异丁酸酯的比例约为2:6。通常为无色至淡黄色粘稠液体，可用作食品用香精乳化剂"
+  },
+  {
+   "cn": "专题咨询",
+   "en": "subject specific counseling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "由专业心理健康机构，针对公众所关心的、较为普遍的学生心理健康问题，在报刊、电台、互联网等大众传播媒介进行专题讲座和答疑。"
+  },
+  {
+   "cn": "专项监测",
+   "en": "specific project monitoring",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "针对我国近期发生的某些重大食品安全事件机器对我国某些特殊低质结构区域、污染区域中指示性食品开展的监测"
+  },
+  {
+   "cn": "比生长速率",
+   "en": "specific growth rate",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.104",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "单位质量菌体在单位时间内所增加的菌体量，是表征微生物生长速率的一个参数。可以通过微生物生长曲线拐点所画的切线斜率来估计。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

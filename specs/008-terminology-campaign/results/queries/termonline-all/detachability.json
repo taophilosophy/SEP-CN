@@ -1,0 +1,412 @@
+{
+ "key": "detachability",
+ "term": "detachability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:40:44+00:00",
+ "status": "ok",
+ "note": "variant=detachability; 审定公布名词库=92; 海峡两岸名词对照库=19; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "脱渣性",
+   "en": "detachability",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.187",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_电弧焊",
+   "subjectName": "电弧焊",
+   "publishYear": "2021",
+   "definition": "渣壳从焊缝表面脱落的难易程度。"
+  },
+  {
+   "cn": "脱开",
+   "en": "detachment",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "02.0319",
+   "subjectFullName": "机械工程_物料搬运机械_输送机械_索道",
+   "subjectName": "索道",
+   "publishYear": "2013",
+   "definition": "脱挂抱索器与牵引索或运载索相分离的过程。"
+  },
+  {
+   "cn": "不接双星",
+   "en": "detached binary; detached system",
+   "source": "天文学名词",
+   "wordNumber": "08.218",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "两子星都不充满其临界等势面的物理双星。"
+  },
+  {
+   "cn": "滑脱层",
+   "en": "detachment layer",
+   "source": "地质学名词",
+   "wordNumber": "09.01.050",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在滑脱构造中，起润滑作用使上盘得以滑动的弱岩层。如膏盐层、煤层、黏土岩等。滑脱层上、下构造具有各自独立的样式。"
+  },
+  {
+   "cn": "拆离断层",
+   "en": "detachment fault",
+   "source": "地质学名词",
+   "wordNumber": "09.04.084",
+   "subjectFullName": "地质学_构造地质学_断裂构造",
+   "subjectName": "断裂构造",
+   "publishYear": "2026",
+   "definition": "在区域伸展作用下，形成的大型低角度正断层。上盘由盖层组成，发育阶梯式或多米诺骨牌式正断层组合；下盘由基底组成，沿断层面发育了碎裂岩-糜棱岩系。"
+  },
+  {
+   "cn": "断滑褶皱",
+   "en": "detachment fold",
+   "source": "地质学名词",
+   "wordNumber": "09.04.127",
+   "subjectFullName": "地质学_构造地质学_断裂构造",
+   "subjectName": "断裂构造",
+   "publishYear": "2026",
+   "definition": "沿着断层发生顺层滑脱，为协调断层位移，其上盘岩层发生弯曲而形成的褶皱构造。"
+  },
+  {
+   "cn": "独立天体",
+   "en": "detached objects",
+   "source": "天文学名词",
+   "wordNumber": "10.031",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "海王星外天体的类别之一。轨道近日点距离一般超过40AU。其轨道极其扁长，半长轴可高达数百个天文单位，而且基本上不受海王星的影响。其中最大、最遥远、最著名的是塞德娜小行星(小行星90377号)。"
+  },
+  {
+   "cn": "脱靶状态",
+   "en": "detached regime",
+   "source": "核科学技术名词",
+   "wordNumber": "3.225",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "高密度放电中偏滤器的运行状态。靶板处等离子体密度和温度都降至很低的水平，当温度足够低时，体复合及作用在平行等离子体流上的离子−中性粒子摩擦拖曳力变得重要，降低了密度，使偏滤器等离子体与靶板脱‍离。"
+  },
+  {
+   "cn": "可拆链",
+   "en": "detachable chain",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0667",
+   "subjectFullName": "机械工程（一）_传动_链传动_链条",
+   "subjectName": "链条",
+   "publishYear": "2021",
+   "definition": "由开式钩头与尾杆组成整体链节框架，并靠钩头套住尾杆连接起来的容易拆装链节的链条。"
+  },
+  {
+   "cn": "独立式低层住宅",
+   "en": "detached house",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.203",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市（镇）详细规划",
+   "subjectName": "城市（镇）详细规划",
+   "publishYear": "2021",
+   "definition": "由一个家庭居住、建筑四边临空的独门独院的住房。"
+  },
+  {
+   "cn": "皮瓣断蒂",
+   "en": "flap detachment",
+   "source": "手外科学名词",
+   "wordNumber": "05.0290",
+   "subjectFullName": "手外科学_手外科学分论_组织移植",
+   "subjectName": "组织移植",
+   "publishYear": "2020",
+   "definition": "在远位带蒂皮瓣与受区建立可靠血液循环后，切断连接皮瓣供区与受区之间血管蒂的操作。"
+  },
+  {
+   "cn": "视网膜脱离",
+   "en": "retinal detachment",
+   "source": "运动医学名词",
+   "wordNumber": "03.529",
+   "subjectFullName": "运动医学_运动创伤_运动创伤各论_其他",
+   "subjectName": "其他",
+   "publishYear": "2019",
+   "definition": "视网膜内层(神经层)与其本身的色素上皮层分离的现象，而非视网膜与脉络膜的分离。"
+  },
+  {
+   "cn": "旋转导向钻头",
+   "en": "detachable bit",
+   "source": "冶金学名词",
+   "wordNumber": "02.0344",
+   "subjectFullName": "冶金学_采矿_凿岩爆破",
+   "subjectName": "凿岩爆破",
+   "publishYear": "2019",
+   "definition": "旋转导向钻进系统使用的钻头。旋转导向钻进系统是随钻进机构的旋转实时完成钻进方向控制功能的一种钻井系统。"
+  },
+  {
+   "cn": "分离过程",
+   "en": "detachment process",
+   "source": "物理学名词",
+   "wordNumber": "07.0242",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "视网膜脱离",
+   "en": "retina detachment",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "04.396",
+   "subjectFullName": "中医药学_眼科学_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2013",
+   "definition": "视网膜神经上皮质与其色素上皮质之间分离所致视功能障碍的眼病。"
+  },
+  {
+   "cn": "脱挂抱索器式拖牵索道",
+   "en": "detachable draglift",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "02.0286",
+   "subjectFullName": "机械工程_物料搬运机械_输送机械_索道",
+   "subjectName": "索道",
+   "publishYear": "2013",
+   "definition": "拖牵器可以和拖牵索脱开或挂接的拖牵索道。"
+  },
+  {
+   "cn": "脱挂抱索器",
+   "en": "detachable grip",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "02.0309",
+   "subjectFullName": "机械工程_物料搬运机械_输送机械_索道",
+   "subjectName": "索道",
+   "publishYear": "2013",
+   "definition": "到达索道站内时，能够与牵引索或运载索脱开的抱索器。"
+  },
+  {
+   "cn": "冲锋队",
+   "en": "Storm Detachment",
+   "source": "世界历史名词",
+   "wordNumber": "03.0631",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "1921年8月，由希特勒创建的德国纳粹党的法西斯武装恐怖组织。"
+  },
+  {
+   "cn": "分开表示法",
+   "en": "detached representation",
+   "source": "电气工程名词",
+   "wordNumber": "01.943",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "可拆件",
+   "en": "detachable part",
+   "source": "电气工程名词",
+   "wordNumber": "19.080",
+   "subjectFullName": "电气工程_电动工具",
+   "subjectName": "电动工具",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "滑脱",
+   "en": "detachment",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不接双星",
+   "en": "detached binary，detached system",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分离演奏台",
+   "en": "detached console",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "孤立型人格",
+   "en": "detached personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可拆链环",
+   "en": "detachable link",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "半接双星",
+   "en": "semi-detached binary",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "先天性视网膜剥离",
+   "en": "congenital detachment of retina",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "岛式防波堤",
+   "en": "detached breakwater\",\"isolated breakwater",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "岛式码头",
+   "en": "detached wharf\",\"offshore terminal",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可检测性",
+   "en": "detectability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检测限",
+   "en": "detectability",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可达性",
+   "en": "reachability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可及矩阵",
+   "en": "reachability matrix",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可达树",
+   "en": "reachability tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可达图",
+   "en": "reachability graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可达性关系",
+   "en": "reachability relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向后可达性",
+   "en": "backward reachability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向前可达性",
+   "en": "forward reachability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "步可达性",
+   "en": "reachability by step",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不黏不脱，不即不离",
+   "en": "Neither Obsessed with nor Detached from the Objects Depicted",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

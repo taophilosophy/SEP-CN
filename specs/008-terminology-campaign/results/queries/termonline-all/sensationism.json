@@ -1,0 +1,42 @@
+{
+ "key": "sensationism",
+ "term": "sensationism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:39:39+00:00",
+ "status": "ok",
+ "note": "variant=sensationism; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "煽情主义",
+   "en": "sensationalism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.095",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻真实",
+   "subjectName": "新闻真实",
+   "publishYear": "2022",
+   "definition": "以激起人们心理和生理直接反应为目的而撰写新闻的主张。起源于19世纪末美国的“黄色新闻潮”。"
+  },
+  {
+   "cn": "感觉主义",
+   "en": "sensationalism",
+   "source": "心理学名词",
+   "wordNumber": "04.135",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "近代经验心理学思想的表现形式，受笛卡儿与洛克(J. Locke)影响，强调感觉经验在认识中的作用。"
+  },
+  {
+   "cn": "感觉主义",
+   "en": "sensationalism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

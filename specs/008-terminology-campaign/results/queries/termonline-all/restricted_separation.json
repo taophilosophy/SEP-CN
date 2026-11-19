@@ -1,0 +1,762 @@
+{
+ "key": "restricted separation",
+ "term": "restricted separation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:13:35+00:00",
+ "status": "ok",
+ "note": "variant=restricted separation; 审定公布名词库=1388; 海峡两岸名词对照库=335; 其他来源数据库=36; 预公布名词数据库=57; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "source": "数学名词",
+   "wordNumber": "01.0061",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "限制性内切酶",
+   "en": "restriction enzyme,restriction endonuclease",
+   "source": "核医学名词",
+   "wordNumber": "06.0123",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "能够识别DNA上特定碱基序列，并在这个位点将DNA剪切的酶。"
+  },
+  {
+   "cn": "限制性内切核酸酶",
+   "en": "restriction endonuclease,restriction nuclease",
+   "source": "遗传学名词",
+   "wordNumber": "03.725",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "特异性识别短的DNA序列并且切割靶位点或别处的DNA双链酶。主要分I型、II型、III型等三类：I型限制酶结合在特定的识别序列上，但在近乎随机的位置上切割DNA；II型限制酶的结合和切割都在同一识别序"
+  },
+  {
+   "cn": "地层断距",
+   "en": "separation",
+   "source": "地质学名词",
+   "wordNumber": "09.04.023",
+   "subjectFullName": "地质学_构造地质学_断裂构造",
+   "subjectName": "断裂构造",
+   "publishYear": "2026",
+   "definition": "断层两盘相当层之间的垂直距离。在垂直于被错断岩层走向的剖面上测量。"
+  },
+  {
+   "cn": "间距",
+   "en": "separation",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0282",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "在参考平面 (如沉积床或地表 )测量的、被断层错开的参考平面任意两部分之间的距离。间距是断层的视位移，几乎总是小于实际位移。 "
+  },
+  {
+   "cn": "分选",
+   "en": "separation",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.2413",
+   "subjectFullName": "化工（八）_化工设备_工业废物处理设备",
+   "subjectName": "工业废物处理设备",
+   "publishYear": "2021",
+   "definition": "按固体物料品种、大小、粒径、形状、密度、磁性、电性、摩擦性等的差别，利用一定方式将其分离、分类的过程。可分为筛分、重力分选、磁力分选、电力分选、摩擦及弹性分选以及浮选。"
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0073",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_浓缩与分离",
+   "subjectName": "浓缩与分离",
+   "publishYear": "2020",
+   "definition": "利用混合物中各组分在物理性质或化学性质上的差异，通过适当的装置或方法，使各组分分配至不同的空间区域或在不同的时间一次分配至同一空间区域的过程。"
+  },
+  {
+   "cn": "分选",
+   "en": "separation",
+   "source": "冶金学名词",
+   "wordNumber": "03.0062",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "用某种选矿方法将混合颗粒或块矿中的有用矿物与废石或其他有用矿物分离的作业。每一分选作业的产品为精矿和尾矿或精矿中矿和尾矿。"
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "计量学名词",
+   "wordNumber": "15.275",
+   "subjectFullName": "计量学_化学_化学测量过程",
+   "subjectName": "化学测量过程",
+   "publishYear": "2015",
+   "definition": "将试样中的某组分与其他组分分开的过程。"
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "药学名词",
+   "wordNumber": "05.183",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "根据物质的分子大小、溶解度、电荷、吸附性质、对配体分子的生物学亲和力等不同，将其彼此分开的过程。"
+  },
+  {
+   "cn": "分隔",
+   "en": "separation",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.523",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "分隔",
+   "en": "separation",
+   "source": "电气工程名词",
+   "wordNumber": "09.004",
+   "subjectFullName": "电气工程_开关设备和控制设备",
+   "subjectName": "开关设备和控制设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.265",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "水利科学技术名词",
+   "wordNumber": "03.075",
+   "subjectFullName": "水利科学技术_水力学、河流动力学、海岸动力学_水力学（水利）",
+   "subjectName": "水力学（水利）",
+   "publishYear": "1997",
+   "definition": "边界层脱离绕流物体壁面的现象。"
+  },
+  {
+   "cn": "离析物",
+   "en": "separations",
+   "source": "土壤学名词",
+   "wordNumber": "02.461",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "细粒物质在土壤基质内重新排列形成的物质。"
+  },
+  {
+   "cn": "分卷",
+   "en": "separating",
+   "source": "冶金学名词",
+   "wordNumber": "09.0695",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "将1个带卷分成数卷以备进一步加工的过程。"
+  },
+  {
+   "cn": "[磁拓扑]界线",
+   "en": "separator",
+   "source": "天文学名词",
+   "wordNumber": "09.259",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "不同[磁拓扑]界面的交线。"
+  },
+  {
+   "cn": "分离器",
+   "en": "separator",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1226",
+   "subjectFullName": "机械工程（一）_传动_液压传动_检测及辅助元件",
+   "subjectName": "检测及辅助元件",
+   "publishYear": "2021",
+   "definition": "把混合的物质分离成两种或两种以上不同的物质的装置。"
+  },
+  {
+   "cn": "分离机",
+   "en": "separator",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1167",
+   "subjectFullName": "化工（八）_化工设备_分离设备",
+   "subjectName": "分离设备",
+   "publishYear": "2021",
+   "definition": "用于分离乳浊液或含少量固体微粒的悬浮液的立式沉降离心机。分离因数一般大于5000。"
+  },
+  {
+   "cn": "分选机",
+   "en": "separator",
+   "source": "冶金学名词",
+   "wordNumber": "03.0013",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "用某种选矿方法将有用矿物与脉石或不同的有用矿物分离出来的机械。"
+  },
+  {
+   "cn": "内部级",
+   "en": "restricted",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相克",
+   "en": "restriction",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "限制性酶(=限制性内切核酸酶)",
+   "en": "restriction enzyme(=restriction endonuclease)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "限制性内切核酸酶,限制酶",
+   "en": "restriction endonuclease\",\"restriction enzyme",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "隔票",
+   "en": "separation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "隔板",
+   "en": "separator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制性问题",
+   "en": "restricted problem",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "限制信用证",
+   "en": "restricted credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "限制性取用",
+   "en": "restricted usage",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "约束选择",
+   "en": "restricted selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "限航区",
+   "en": "restricted area",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "隔离剂",
+   "en": "separant",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "限制性[酶切]片段",
+   "en": "restriction fragment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限制[性酶切]位点",
+   "en": "restriction site",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限制性内切核酸酶",
+   "en": "restriction endonuclease",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间障碍",
+   "en": "steric restriction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "限制酶",
+   "en": "restriction enzyme",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "限定空间",
+   "en": "restricted space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "旅行限制",
+   "en": "travel restrictions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限制处理权",
+   "en": "right to restrict processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分业监管模式",
+   "en": "separate regulatory model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "FAIR化有限开放数据",
+   "en": "FAIR data with restricted access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据限制处理权",
+   "en": "right to restrict data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "横分",
+   "en": "side separation\",\"yoko-wakare",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离坚白",
+   "en": "Separate Hardness from Whiteness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件采购使用限制策略",
+   "en": "software purchase and use restriction policy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网业分离（英国）",
+   "en": "separation of telecommunication networks (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权能分离",
+   "en": "separation of property ownership and control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绝地天通",
+   "en": "Keep Earthly and Heavenly Affairs Separate",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "证照分离",
+   "en": "reform to separate all operating permits from the business license",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "武汉市以外地区解除离鄂通道管控",
+   "en": "Areas in Hubei, with the exception of Wuhan City, lifted outbound transport restrictions.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "道不远人，人无异国。（援助韩国，源自新罗旅唐学者崔致远）",
+   "en": "   Great distance cannot separate us;We all live in a united world.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.12",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "通过在物品、设施、区域之间留有一定空间，而非通过设置物理阻断的方式进行隔离。"
+  },
+  {
+   "cn": "限用物质",
+   "en": "restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在限定条件下可作为消毒剂原料的物质，在一定限定值以下使用。"
+  },
+  {
+   "cn": "受约束的比转换能",
+   "en": "restricted cema",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位质量物质中，电子产生电离、激发过程中，扣除释出的动能大于特定值的δ粒子动能后，其他能量损失的总和。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "限制口粮",
+   "en": "restricted rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "要求携带最少装备、短期（少于10 天）内完成特殊任务时食用的单兵口粮，由于携带物品体积和重量的限制，其体积和重量均小于作战口粮。"
+  },
+  {
+   "cn": "权力制约",
+   "en": "power restriction",
+   "source": "马克思主义",
+   "wordNumber": "03.0772",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了防治权力的滥用和腐败，而对权力进行制衡与约束。它既包括公民权利对国家权力的制约，也包括国家权力之间的分权制约，如西方的三权分立。中国共产党借鉴但不照搬西方国家在权力制约的经验，正在探索建立、健全决"
+  },
+  {
+   "cn": "职业限制",
+   "en": "occupational restriction",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "保险公司为了控制风险，对一些高风险职业进行限制或者不承保的现象。"
+  },
+  {
+   "cn": "广告限制",
+   "en": "advertising restriction ",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.2.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策",
+   "subjectName": "健康危害行为公共政策",
+   "publishYear": "2025",
+   "definition": "对危害健康产品的广告加以限制，例如禁止香烟广告。"
+  },
+  {
+   "cn": "职能分离",
+   "en": "functional separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "为保证风险评估在科学上的独立性，将风险评估的职能活动与风险管理活动分开的工作原则。"
+  },
+  {
+   "cn": "免疫磁分离技术",
+   "en": "immunomagnetic Separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.73",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "一种将免疫学反应的高度特异性与磁珠的磁响应性相结合的分离技术。利用抗体与磁珠的结合能力，将目标分子（如蛋白质、细胞或微生物等）从混合物中分离出来。"
+  },
+  {
+   "cn": "磁选",
+   "en": "magnetic separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.15",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "根据磁性的不同，利用磁力分离混入食品中的磁性金属杂质的方法。常用于清除谷物、豆类、玉米、小麦、砂糖等食品中的铁杂质。"
+  },
+  {
+   "cn": "匀称型小于胎龄儿",
+   "en": "symmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数>2.0（胎龄≤37周）或>2.2（胎龄>37周），身长/头围>1.36的小于胎龄儿。多始于胎儿早期，常与遗传因素和宫内感染等有关，胎儿体重、身长和头围受到同等程度的影响。往往脑发育受限。"
+  },
+  {
+   "cn": "非匀称型小于胎龄儿",
+   "en": "asymmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数<2.0（胎龄≤37周）或<2.2（胎龄>37周），身长/头围<1.36的小于胎龄儿。多发生于胎儿晚期，常与母亲营养不良或高血压等有关，出生体重明显低于正常，身长和头围尚与胎龄一致。"
+  },
+  {
+   "cn": "青春期节食",
+   "en": "adolescent restrictive eating",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.1.2.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "儿童青少年尤其是青春期女孩为了获得或保持苗条身材、惧怕体重增加而采取控制食物量或限制食物品种的饮食行为。"
+  },
+  {
+   "cn": "磁选机",
+   "en": "magnetic separator",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.16",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "根据不同物质导磁性的差异，借助于磁力将磁性物质从食品中分离开来的设备。"
+  },
+  {
+   "cn": "禁用物质",
+   "en": "prohibited and restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "不能作为消毒剂原料使用的物质。"
+  },
+  {
+   "cn": "胎儿生长受限",
+   "en": "fetal growth restriction, FGR",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "胎儿在宫内生长发育指标未达到预期值的状态。一般表现为胎儿的估测体重或腹围小于相应胎龄的第10百分位数。"
+  },
+  {
+   "cn": "限制性会阴切开",
+   "en": "restrictive use of episiotomy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.15",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "分娩过程对产妇不进行常规会阴切开，当出现会阴过紧或胎儿过大、估计分娩时会阴撕裂难以避免，或母儿有病理情况急需结束分娩等情况时才考虑实施会阴切开的策略。"
+  },
+  {
+   "cn": "铀同位素分离",
+   "en": "uranium isotope separation",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.16",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "采用特殊工艺方法提高铀元素中丰度的生产过程。同位素分离的方法主要有气体扩散法、离心分离法和激光分离法等。"
+  },
+  {
+   "cn": "分餐制度",
+   "en": "meal separation system",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "支持餐饮过程中，餐具、菜（饮）品等的不交叉、无混用的餐饮方式实现的活动安排。"
+  },
+  {
+   "cn": "气液分离装置",
+   "en": "gas-liquid separation device",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.4.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在二氧化氯发生器中，为了去除生成二氧化氯时的副产物，对副产物实施分离的装置。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

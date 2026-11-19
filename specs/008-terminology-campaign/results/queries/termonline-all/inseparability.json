@@ -1,0 +1,142 @@
+{
+ "key": "inseparability",
+ "term": "inseparability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:27:53+00:00",
+ "status": "ok",
+ "note": "variant=inseparability; 审定公布名词库=12; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "不可分离性",
+   "en": "inseparability",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.077",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "一组对象具有无法按照特征进行分离的性质。如果这组对象能够按照特征进行分离，则会丧失原有特征。"
+  },
+  {
+   "cn": "服务不可分性",
+   "en": "service inseparability",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0399",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "服务的生产与消费在同一时点，并且不能与服务提供者分离，是服务的主要特点之一。"
+  },
+  {
+   "cn": "不可分扩张",
+   "en": "inseparable extension",
+   "source": "数学名词",
+   "wordNumber": "04.0423",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不可分态射",
+   "en": "inseparable morphism",
+   "source": "数学名词",
+   "wordNumber": "04.1218",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不可分次数",
+   "en": "inseparable degree",
+   "source": "数学名词",
+   "wordNumber": "04.0421",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "纯不可分扩张",
+   "en": "pure inseparable extension",
+   "source": "数学名词",
+   "wordNumber": "04.0424",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "纯不可分态射",
+   "en": "purely inseparable morphism",
+   "source": "数学名词",
+   "wordNumber": "04.1219",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可分离性",
+   "en": "separability",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.076",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "一组对象具有可以按照特征相似程度进行分离的性质。聚类分析中，依此性质进行距离度量，即两个特征之间距离的统计度量（相似度越小，则距离越大），按距离最小逐次合并成一类。"
+  },
+  {
+   "cn": "可分离性",
+   "en": "separability",
+   "source": "物理学名词",
+   "wordNumber": "06.0757",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分离性",
+   "en": "separability",
+   "source": "数学名词",
+   "wordNumber": "08.0509",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可分性",
+   "en": "separability,divisibility",
+   "source": "自动化名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "可分离判据",
+   "en": "separability criterion",
+   "source": "物理学名词",
+   "wordNumber": "06.0758",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "“三个离不开”",
+   "en": "Three Inseparables",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0126",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "“汉族离不开少数民族，少数民族离不开汉族，各少数民族之间也相互离不开”，体现了中国共产党坚持民族平等，加强民族团结的一贯主张。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

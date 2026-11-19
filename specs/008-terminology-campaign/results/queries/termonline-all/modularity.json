@@ -1,0 +1,462 @@
+{
+ "key": "modularity",
+ "term": "modularity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:34:38+00:00",
+ "status": "ok",
+ "note": "variant=modularity; 审定公布名词库=91; 海峡两岸名词对照库=22; 其他来源数据库=5; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "构件性",
+   "en": "modularity",
+   "source": "植物学名词",
+   "wordNumber": "13.0062",
+   "subjectFullName": "植物学_植物生态学_克隆植物生态学",
+   "subjectName": "克隆植物生态学",
+   "publishYear": "2019",
+   "definition": "在自然条件下，生物自发地产生多个遗传结构相同、形态相似的结构单元(即构件)的能力或习性。通常构件本身的体积和生物量的增长能力是有限的，而构件数量增加的能力很大。"
+  },
+  {
+   "cn": "模块性",
+   "en": "modularity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0485",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "系统的模块化程度。系统中的模块内聚程度越高，模块之间耦合度越低，系统的模块性越好。"
+  },
+  {
+   "cn": "模块化",
+   "en": "modularization",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.006",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "将生命系统分解为在结构上和功能上具有相对独立的组成单元的过程。解决一个复杂问题时自顶向下逐层把系统划分成若干模块的过程。从大脑到基因调控网络，许多生物实体被组织成模块，是生物进化的基本方式。此外，合成"
+  },
+  {
+   "cn": "模块化",
+   "en": "modularization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0976",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "解决一个复杂问题时把系统划分成若干模块的过程。每个模块完成一个特定的子功能，所有的模块按某种方法组装起来，成为一个整体，完成整个系统所要求的功能。"
+  },
+  {
+   "cn": "模块化",
+   "en": "modularization",
+   "source": "自动化名词",
+   "wordNumber": "04.292",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "模块创新",
+   "en": "modularity innovation",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0343",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "通过模块制造企业与模块体系化企业等多类型企业并行创新，并通过标准界面实现企业间合作的创新模式。"
+  },
+  {
+   "cn": "模块论",
+   "en": "modularity theory",
+   "source": "心理学名词",
+   "wordNumber": "02.463",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为进化而来的人脑具有先天的结构或预置功能，能够执行特定的任务或处理某一特定领域问题的理论主张。"
+  },
+  {
+   "cn": "产品模块化",
+   "en": "product modularity",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0110",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "在产品设计中，尽可能多地采用标准化的模块来构成产品。"
+  },
+  {
+   "cn": "模数体系",
+   "en": "modular system",
+   "source": "风景园林名词",
+   "wordNumber": "07.0093",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "基于选定的尺寸单位及其增值体系，用于协调整体尺度。"
+  },
+  {
+   "cn": "积木式螺杆",
+   "en": "modular screw",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1427",
+   "subjectFullName": "化工（八）_化工设备_造粒及成型设备",
+   "subjectName": "造粒及成型设备",
+   "publishYear": "2021",
+   "definition": "由螺杆元件安装在螺杆芯轴上，根据功能要求组合成的螺杆。"
+  },
+  {
+   "cn": "组合夹具",
+   "en": "modular fixture",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "13.004",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_夹具",
+   "subjectName": "夹具",
+   "publishYear": "2021",
+   "definition": "由可反复使用的标准夹具零部件(或专用零部件)组装成易于连接和拆卸的夹具。"
+  },
+  {
+   "cn": "轴线车",
+   "en": "modular trailer",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.640",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "大型设备从码头卸载后到现场途中的装载和运输工具。"
+  },
+  {
+   "cn": "模块化设计",
+   "en": "modular design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0106",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "将系统划分为若干具有不同用途(或性能)并可互换的模块，经不同的组合，以满足不同需要的设计方法。"
+  },
+  {
+   "cn": "模块式文摘",
+   "en": "modular abstract",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.862",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_文摘",
+   "subjectName": "文摘",
+   "publishYear": "2019",
+   "definition": "根据原文内容所做的包括注释、报道性文摘、指示性文摘和评论性文摘各一篇的文摘，可供各种文摘刊物选用其中一篇。由美国情报学家兰开斯特（F.W.Lancaster）等于1964年设计提出，由于摘录工作量过大"
+  },
+  {
+   "cn": "构件型",
+   "en": "modular form",
+   "source": "植物学名词",
+   "wordNumber": "13.0064",
+   "subjectFullName": "植物学_植物生态学_克隆植物生态学",
+   "subjectName": "克隆植物生态学",
+   "publishYear": "2019",
+   "definition": "构件的不同类型。包括叶构件、根构件和芽构件等。"
+  },
+  {
+   "cn": "构件生长",
+   "en": "modular growth",
+   "source": "植物学名词",
+   "wordNumber": "13.0065",
+   "subjectFullName": "植物学_植物生态学_克隆植物生态学",
+   "subjectName": "克隆植物生态学",
+   "publishYear": "2019",
+   "definition": "产生构件的能力或过程。"
+  },
+  {
+   "cn": "构件种群",
+   "en": "modular population",
+   "source": "植物学名词",
+   "wordNumber": "13.0123",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "同一植物体的某类构件的集合。"
+  },
+  {
+   "cn": "构件植物",
+   "en": "modular plant",
+   "source": "植物学名词",
+   "wordNumber": "13.0063",
+   "subjectFullName": "植物学_植物生态学_克隆植物生态学",
+   "subjectName": "克隆植物生态学",
+   "publishYear": "2019",
+   "definition": "具有构件性的植物。其生长主要通过构件数量的增加来实现。"
+  },
+  {
+   "cn": "模块化程序设计",
+   "en": "modular programming",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0241",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种程序设计技术。它把一个系统分解成多个模块，然后对各个模块分别进行编程，从而实现整个系统的功能。"
+  },
+  {
+   "cn": "模块化方法",
+   "en": "modular method",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0161",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种软件开发方法。它把一个待开发的软件分解成若干功能相对独立的模块，每一个模块都能独立地开发、测试，最后再组装出整个软件。"
+  },
+  {
+   "cn": "构件性",
+   "en": "modularity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模块性",
+   "en": "modularity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模块化",
+   "en": "modularization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模块论",
+   "en": "modularity theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "构件生长",
+   "en": "modular growth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "构件型",
+   "en": "modular form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "构件植物",
+   "en": "modular plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "构件种群",
+   "en": "modular population",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "构件生物",
+   "en": "modular organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模块化软件",
+   "en": "modular software",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "模块分解",
+   "en": "modular decomposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模块化程序设计",
+   "en": "modular programming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模块化方法",
+   "en": "modular method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模块化交换机体系结构",
+   "en": "modular switch architecture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扇出模块",
+   "en": "fan-out modular",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "N模冗余",
+   "en": "N-modular redundancy\",\"NMR",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三模冗余",
+   "en": "triple modular redundancy\",\"TMR",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模件式脉冲转换增压",
+   "en": "modular pulse converter supercharging",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "透明质酸和凝集素结合的调制蛋白聚糖(=透凝蛋白聚糖)",
+   "en": "hyaluronan-and lectin-binding modular proteoglycan\",\"HLPG(=hyalectan)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "摩尔浓度",
+   "en": "molarity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模块化数据中心",
+   "en": "modular data center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模组化中台",
+   "en": "modular middle office",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融模块化",
+   "en": "modularization of financial service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共服务模块化供给",
+   "en": "modular provision of public services",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模块式过程风险模型",
+   "en": "modular process risk model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.26",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于风险评估中暴露评估的结构化方法。它将整个过程划分为不同的模块，通过对每个模块进行风险评估，可以识别和分析可能存在的隐患和风险，并采取相应的控制措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

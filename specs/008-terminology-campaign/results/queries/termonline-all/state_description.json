@@ -1,10 +1,10 @@
 {
- "key": "state description",
- "term": "state description",
+ "key": "state-description",
+ "term": "state-description",
  "provider": "termonline-all",
- "queried_at": "2026-11-18T20:29:29+00:00",
+ "queried_at": "2026-11-19T00:34:01+00:00",
  "status": "ok",
- "note": "variant=state description; 审定公布名词库=2811; 海峡两岸名词对照库=710; 其他来源数据库=113; 预公布名词数据库=120; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "note": "variant=state-description; 审定公布名词库=2811; 海峡两岸名词对照库=710; 其他来源数据库=113; 预公布名词数据库=120; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
  "hits": [
   {
    "cn": "状态空间描述",
@@ -107,16 +107,6 @@
    "definition": ""
   },
   {
-   "cn": "林况调查",
-   "en": "stand description",
-   "source": "林学名词",
-   "wordNumber": "06.255",
-   "subjectFullName": "林学_森林经理_森林作业与资源调查",
-   "subjectName": "森林作业与资源调查",
-   "publishYear": "2016",
-   "definition": "查明森林的现状如森林植物区系、森林结构和成林状态等，作为施业法和收获调整的基础，同时也是作为将来决定树种、作业法、轮伐期的资料。"
-  },
-  {
    "cn": "矿床描述模式",
    "en": "description model",
    "source": "地质学名词",
@@ -207,6 +197,16 @@
    "definition": "基于所选择的图像表示来描述图像的方法。例如，区域可由其边界表示，边界可用特征对其进行描述，如长度、连接端点的直线的方向，以及边界上凹陷的数量。"
   },
   {
+   "cn": "一般描述",
+   "en": "general description",
+   "source": "动物学名词",
+   "wordNumber": "2.0074",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "对某一分类单元的分类性状比较全面的描述。不单独找出与其他分类单元相区别的性状。"
+  },
+  {
    "cn": "描述",
    "en": "description",
    "source": "海峡两岸植物学名词",
@@ -214,16 +214,6 @@
    "subjectFullName": "植物学",
    "subjectName": "植物学",
    "publishYear": "2020",
-   "definition": ""
-  },
-  {
-   "cn": "形状描述",
-   "en": "shape description",
-   "source": "海峡两岸信息科学技术名词",
-   "wordNumber": null,
-   "subjectFullName": "信息科学技术",
-   "subjectName": "信息科学技术",
-   "publishYear": "2008",
    "definition": ""
   },
   {
@@ -329,6 +319,16 @@
   {
    "cn": "形式描述",
    "en": "formal description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形状描述",
+   "en": "shape description",
    "source": "海峡两岸信息科学技术名词",
    "wordNumber": null,
    "subjectFullName": "信息科学技术",

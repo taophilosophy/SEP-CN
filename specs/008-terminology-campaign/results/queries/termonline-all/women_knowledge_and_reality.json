@@ -1,0 +1,812 @@
+{
+ "key": "women knowledge and reality",
+ "term": "Women Knowledge and Reality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:57:56+00:00",
+ "status": "ok",
+ "note": "variant=Women Knowledge and Reality; 审定公布名词库=10000; 海峡两岸名词对照库=2193; 其他来源数据库=1407; 预公布名词数据库=1202; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "与使用者的能力和经验结合在一起的信息，或通过学习、实践或探索所获得的认识、判断或技能。用以解决某个问题或创造新的知识。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0617",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "问题求解所需的信息的总和。其中信息是经过整理的、结构化的。知识具有产生或者有助于产生新信息的能力。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0712",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "人们通过实践和学习对客观事物及其运动过程和规律的认识结果。包括事实、信念、观点、观念、概念、判断、方法和技术诀窍等。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.088",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "人对世界的认识和经验的总和。"
+  },
+  {
+   "cn": "妇女教育",
+   "en": "women education",
+   "source": "教育学名词",
+   "wordNumber": "12.041",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "以女性尤其是成年女性为对象，根据其身心特点和发展需要而进行的教育活动。旨在提升妇女素质以及她们的社会地位。"
+  },
+  {
+   "cn": "实在",
+   "en": "reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "实存的与可能存在的东西。古代唯物主义认为这种东西是水、无定限体、气、火、种子、原子。唯心主义认为这种东西是感觉、观念、精神实体、绝对理念的世界。"
+  },
+  {
+   "cn": "实在",
+   "en": "reality",
+   "source": "心理学名词",
+   "wordNumber": "04.160",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "哲学中指客观存在的实体。现代心理学曾认为情绪、人格等均为实在，但受到后现代心理学的挑战。"
+  },
+  {
+   "cn": "知识鸿沟",
+   "en": "knowledge divide,knowledge gap",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.046",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "由于接触媒介和学习知识的经济条件、传播技能及其他方面的差异，获得较多信息及知识的群体与获得较少信息及知识的群体之间的差异不断增大的现象。是美国传播学家在实证研究基础上提出并验证的一个假设。"
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge mapping,mapping knowledge",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.239",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_文献计量学",
+   "subjectName": "文献计量学",
+   "publishYear": "2019",
+   "definition": "显示知识发展进程与结构关系的一系列各种不同的图形。用可视化技术描述知识资源及其载体，挖掘、分析、构建、绘制和显示知识及它们之间的相互联系。"
+  },
+  {
+   "cn": "知识组织",
+   "en": "knowledge construction,knowledge organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0768",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "人们通过对知识的加工、分类、建构等，使无序的知识形成有序结构的知识体系的过程。"
+  },
+  {
+   "cn": "知识检索",
+   "en": "knowledge retrieval,knowledge search",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0769",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "从知识资源或知识库中，按照一定的方式和技术，并根据用户的需求找出相关知识的过程。"
+  },
+  {
+   "cn": "知行合一",
+   "en": "unity of knowledge and action",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.076",
+   "subjectFullName": "自然辩证法_科技伦理_中国传统科技伦理",
+   "subjectName": "中国传统科技伦理",
+   "publishYear": "2024",
+   "definition": "在中国传统科技伦理中特指在科技活动中道德观念、道德知识与道德情感、道德行为的有机统一。王阳明针对社会上有些人空谈道德知识和道德观念，却不能身体力行付诸实践的现象，提出只有把“知”和“行”统一起来，才能"
+  },
+  {
+   "cn": "妇女读物",
+   "en": "reader for women",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.01.044",
+   "subjectFullName": "编辑与出版学_出版物_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "为适应妇女阅读需要而出版的各类出版物。"
+  },
+  {
+   "cn": "妇女保健",
+   "en": "women health care",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "08.027",
+   "subjectFullName": "全科医学与社区卫生_社区健康管理",
+   "subjectName": "社区健康管理",
+   "publishYear": "2014",
+   "definition": "针对妇女不同的生命周期所釆取的综合性保健服务。"
+  },
+  {
+   "cn": "妇女期刊",
+   "en": "women's periodical",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.03.066",
+   "subjectFullName": "编辑与出版学_出版物_报纸期刊",
+   "subjectName": "报纸期刊",
+   "publishYear": "2022",
+   "definition": "面向妇女的期刊。"
+  },
+  {
+   "cn": "知识经济",
+   "en": "knowledge economy",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.083",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "由经济合作与发展组织（Organization for Economic Cooperation and Development，OECD）于1996年正式提出。指以知识和信息资源的拥有、配置、产出和"
+  },
+  {
+   "cn": "知识工程",
+   "en": "knowledge engineering",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.107",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "采用计算机和信息技术，并依托理论和技术来实现知识表示、处理和使用的过程与方法。知识系统中的知识需要从领域专家那里获取，主要方式为传授式、交互式和示例式，此外还可通过聚类、解释及类比进行学习并总结成知识"
+  },
+  {
+   "cn": "默会知识",
+   "en": "tacit knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.523",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "由M. 波兰尼（M. Polanyi）最早引入。指一类难以用命题系统或语言符号系统传递和理解的知识。G. 赖尔（G. Ryle）进一步将其定义为技能知识（knowing-how）。"
+  },
+  {
+   "cn": "外显知识",
+   "en": "explicit knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.546",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "可通过媒介被明确表述、记载、传递的知识。"
+  },
+  {
+   "cn": "知识论证",
+   "en": "knowledge argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.578",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "哲学家F. 杰克逊（F. Jackson）等人提出的一个反驳物理主义的论证类型。试图指出所有相关的物理事实的知识并不能揭示经验的主观特征。例如，一直生活在黑白房间中的视觉科学家玛丽知道关于视知觉的一切"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "现实",
+   "en": "reality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程",
+   "en": "knowledge engineering",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非陈述性知识",
+   "en": "nondeclarative knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知识管理",
+   "en": "knowledge management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "陈述性知识,描述性知识",
+   "en": "declarative knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "隐性知识,意会知识",
+   "en": "tacit knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我知识",
+   "en": "self knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "程序性知识",
+   "en": "procedural knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外显知识",
+   "en": "explicit knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义知识",
+   "en": "semantic knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性知识",
+   "en": "rational knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件性知识",
+   "en": "conditional knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不确定知识",
+   "en": "uncertain knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "陈述性知识",
+   "en": "declarative knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程性知识",
+   "en": "procedural knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "静态知识",
+   "en": "static knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间知识",
+   "en": "spatial knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知行",
+   "en": "Knowledge and Application",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "男子和女子青少年组",
+   "en": "junior men and women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男子和女子23岁以下组",
+   "en": "U23 men and Women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男子和女子优秀组",
+   "en": "elite men and women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "“慰安妇”",
+   "en": "“comfort women”",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "女子58公斤级",
+   "en": "58kg Women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子69公斤级",
+   "en": "69kg Women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子75公斤以上级",
+   "en": "+75kg Women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子75公斤级",
+   "en": "75kg Women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子48公斤级",
+   "en": "48kg Women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子63公斤级",
+   "en": "63kg Women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子53公斤级",
+   "en": "53kg Women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子78公斤以上级",
+   "en": "over 78kg women heavyweight women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子57公斤级",
+   "en": "52 to 57kg women\",\"lightweight women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子70公斤级",
+   "en": "63 to 70kg women\",\"middleweight women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男子和女子分龄组",
+   "en": "age group men and women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识计算引擎与知识服务技术",
+   "en": "knowledge computing engine and knowledge service technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "审虚实",
+   "en": "Balance Fiction and Reality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "女子63公斤级",
+   "en": "57 to 63kg women\",\"half-middleweight women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子78公斤级",
+   "en": "70 to 78kg women\",\"half-heavyweight women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "妇女和儿童劳动",
+   "en": "women and childrens labor",
+   "source": "马克思主义",
+   "wordNumber": "04.0066",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "当机器使手工业工人固有的技能、熟练程度以及肌肉力成为多余的东西时，没有肌肉力或身体发育不成熟的工人在机器的帮助下也能够进行平均化的劳动。资本主义生产由于雇用了妇女和儿童劳动，机器的使用扩大了剥削对象，"
+  },
+  {
+   "cn": "女性增权",
+   "en": "women empowerment",
+   "source": "社会医学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "性别平等",
+   "publishYear": "2025",
+   "definition": "妇女通过获取权力和资源，掌控自身生活并获得做出战略选择能力的过程。"
+  },
+  {
+   "cn": "妇幼保健机构",
+   "en": "women and children's health institution",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.3.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼健康体系",
+   "subjectName": "妇幼健康体系",
+   "publishYear": "2025",
+   "definition": "由政府举办，不以营利为目的，具有公共卫生性质的公益性事业单位，按照全生命周期和三级预防理念，以一、二级预防为重点，为妇女儿童提供公共卫生和从出生到老年、涵盖从生理到心理的主动、连续医疗服务的专业机构。"
+  },
+  {
+   "cn": "妇幼保健院",
+   "en": "women and children's health hospital",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.3.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼健康体系",
+   "subjectName": "妇幼健康体系",
+   "publishYear": "2025",
+   "definition": "既提供妇女儿童生殖健康相关个体医疗保健门诊、住院服务，又负责辖区妇幼健康服务业务管理和技术支持的妇幼保健机构。"
+  },
+  {
+   "cn": "妇幼保健所",
+   "en": "women and children's health institute",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.3.2.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼健康体系",
+   "subjectName": "妇幼健康体系",
+   "publishYear": "2025",
+   "definition": "既提供妇女儿童生殖健康相关的个体医疗保健门诊服务，又负责辖区妇幼健康服务业务管理和技术支持的妇幼保健机构。"
+  },
+  {
+   "cn": "妇幼保健站",
+   "en": "women and children's health station",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.3.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼健康体系",
+   "subjectName": "妇幼健康体系",
+   "publishYear": "2025",
+   "definition": "仅负责辖区妇幼健康服务业务管理和技术支持，不提供或很少提供个体医疗保健门诊服务的妇幼保健机构。已经逐渐淘汰的一种形式，规模很小，多见于县区级机构。"
+  },
+  {
+   "cn": "妇幼健康知识",
+   "en": "woman and child health knowledge",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "针对妇女儿童个体和群体与健康和疾病有关的知识与信息。通常掌握的知识越广越深，采纳妇幼健康相关行为的倾向性越强。"
+  },
+  {
+   "cn": "营养健康知识讲座",
+   "en": "nutrition and health knowledge lecture",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "授课老师借助教学工具，运用教学的方式向教育对象传播营养健康知识和技能的一种活动形式。"
+  },
+  {
+   "cn": "打工妹",
+   "en": "rural migrant women",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "最早用来称呼20世纪90年代市场经济兴起之后受雇于东南沿海地区三资企业的外地农村未婚女性劳动力，后扩展为对所有从农村到城市打工的流动女性、尤其是青年女性劳动力的统称。"
+  },
+  {
+   "cn": "妇女社会工作",
+   "en": "women social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.53",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "针对妇女在自我成长过程中，在参与政治、经济、社会、文化和家庭生活过程中遇到的个体或群体问题而开展的社会工作服务。其目的是为妇女的全面发展创造有利的社会条件和社会环境。"
+  },
+  {
+   "cn": "妇女解放",
+   "en": "emancipation of women",
+   "source": "马克思主义",
+   "wordNumber": "04.0010",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "妇女在社会上和家庭中与男子有平等地位和权力。废除妇女在家庭和社会生活中无权的、不平等的、附属的地位，使妇女从被奴役、被压迫、被统治中解放出来。妇女不平等的社会地位，根源于私有制和男子占有财产。"
+  },
+  {
+   "cn": "妇女解放",
+   "en": "women’s liberation",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.8",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "妇女摆脱受压迫处境和从属地位，实现性别平等的过程和结果。"
+  },
+  {
+   "cn": "女性研究",
+   "en": "women’s studies",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "诞生于20世纪70年代西方女性主义运动的一个跨学科研究领域，倡导女性的主体地位以及社会性别视角。最初旨在揭示女性受压迫状况和性别不平等的根源，后转为批判学术界以及知识领域的性别主义倾向，试图建构女性主"
+  },
+  {
+   "cn": "女性经验",
+   "en": "women’s experiences",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "来源于女性日常生活、却被歪曲或排斥在主流知识及知识传承体系之外的经验。女性主义认为它与男性经验之间是不可互为替代的。这种被边缘化的经验具有主流经验所不具备的批判性优势，可证明主流知识并非具有客观性和普"
+  },
+  {
+   "cn": "妇女赋权",
+   "en": "women’s empowerment",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.2",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "性别与发展理论中的一个重要概念。指通过赋予妇女在政治、经济和社会参与等方面与男子同等的权利和机会，转变那些存在性别歧视和不平等的结构和制度，提高妇女的社会、政治和经济地位，让妇女成为发展的主体。"
+  },
+  {
+   "cn": "妇女地位",
+   "en": "women’s status",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "妇女相对于男人而言的社会位置，是对妇女在政治、经济、劳动就业、教育、健康、家庭等不同领域所处位置的综合评价，可以用复杂的指标体系来衡量，是衡量性别平等程度和社会人权状况的一个重要指标。在男性中心社会中"
+  },
+  {
+   "cn": "妇联",
+   "en": "women’s federation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.56",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "在中国共产党领导下代表妇女的人民团体。其基本职能是团结、动员广大妇女参与经济建设和社会发展，代表和维护妇女利益，促进男女平等。"
+  },
+  {
+   "cn": "知识社会",
+   "en": "knowledge society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "知识成为生产力及其发展的重要特征、知识和智力开发在社会发展中日益具有突出作用的社会。"
+  },
+  {
+   "cn": "法律知识",
+   "en": "legal knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们有关法和法律现象的知识。"
+  },
+  {
+   "cn": "默会知识",
+   "en": "tacit knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要相对于显性知识而言，是一种只可意会不可言传的知识，一种经常使用却又不能通过语言文字符号予以清晰表达或直接传递的知识。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

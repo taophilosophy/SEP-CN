@@ -1,0 +1,792 @@
+{
+ "key": "instruction",
+ "term": "Instruction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:48:22+00:00",
+ "status": "ok",
+ "note": "variant=Instruction; 审定公布名词库=1159; 海峡两岸名词对照库=143; 其他来源数据库=61; 预公布名词数据库=54; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "指令",
+   "en": "instruction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0252",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "指示计算机执行某种操作的命令。由一串二进制代码组成。"
+  },
+  {
+   "cn": "指令",
+   "en": "instruction",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0864",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "表达应执行的行动的条款。"
+  },
+  {
+   "cn": "指导语",
+   "en": "instruction",
+   "source": "心理学名词",
+   "wordNumber": "03.266",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "为测验主试者或被试所编写的测验实施说明。包括测试目的、完成测验的方法、要求和注意事项等。"
+  },
+  {
+   "cn": "指令",
+   "en": "instruction",
+   "source": "电气工程名词",
+   "wordNumber": "16.083",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "指导性",
+   "en": "instructiveness",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.068",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻价值",
+   "subjectName": "新闻价值",
+   "publishYear": "2022",
+   "definition": "中国新闻传播事业的一项基本原则。主要指运用马克思主义的立场、观点与思想方法，通过新闻渠道宣传党的方针政策与奋斗目标，以之影响民众的思想与行动。"
+  },
+  {
+   "cn": "指令系统",
+   "en": "instruction system",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.025",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "计算机硬件的语言系统，指机器所具有的全部指令的集合，描述了计算机内全部的控制信息和“逻辑判断”能力。"
+  },
+  {
+   "cn": "指令栈",
+   "en": "instruction stack",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0293",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "在指令处理部件中设置的一组寄存器。用于存放预取的或经过预处理的指令。"
+  },
+  {
+   "cn": "指令预取",
+   "en": "instruction prefetch",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0237",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "处理器在实际执行一条指令之前，先把该指令取出来存放到指令缓存器中，以此减少等待时间，加速程序执行的技术。"
+  },
+  {
+   "cn": "指令寄存器",
+   "en": "instruction register",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0243",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "保存正在执行或即将执行的指令的寄存器。"
+  },
+  {
+   "cn": "指令重试",
+   "en": "instruction retry",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0966",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程设计",
+   "subjectName": "计算机工程设计",
+   "publishYear": "2018",
+   "definition": "指令执行失败后重新执行该指令的过程。"
+  },
+  {
+   "cn": "指令格式",
+   "en": "instruction format",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0236",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "指令中操作码、地址码和其他信息的编码及其排列方式。"
+  },
+  {
+   "cn": "指令译码器",
+   "en": "instruction decoder",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0276",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "中央处理机的一个部件。它把以二进制形式表示的程序指令翻译成运算器、寄存器和总线等所需要的控制信号。"
+  },
+  {
+   "cn": "指令停机",
+   "en": "instruction stop",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0972",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程设计",
+   "subjectName": "计算机工程设计",
+   "publishYear": "2018",
+   "definition": "通过指令控制计算机停机的方法。"
+  },
+  {
+   "cn": "指令计数器",
+   "en": "instruction counter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0248",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "指出下一条将要执行的指令所在的存储单元地址的计数器。"
+  },
+  {
+   "cn": "指令相关性",
+   "en": "instruction dependency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0314",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "在程序运行中，如果必须等前一条指令执行完成后，才能执行后一条指令，那么这两条指令是相关的。"
+  },
+  {
+   "cn": "指令周期",
+   "en": "instruction cycle",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0235",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "完成一条指令执行所需要的时间。"
+  },
+  {
+   "cn": "指令发射",
+   "en": "instruction issue",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0308",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "在流水线处理器中，指令从译码阶段进入执行阶段的过程。"
+  },
+  {
+   "cn": "指令步进",
+   "en": "instruction step",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0968",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程设计",
+   "subjectName": "计算机工程设计",
+   "publishYear": "2018",
+   "definition": "一种计算机程序的逐步执行方法。即每次启动执行一条指令，这种方法有助于判断指令执行的正确性。"
+  },
+  {
+   "cn": "指令跟踪",
+   "en": "instruction trace",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0566",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "对正在执行的程序指令进行跟踪的活动。"
+  },
+  {
+   "cn": "指令流水线",
+   "en": "instruction pipeline",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0250",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "在指令执行过程中，使多条指令的取指、译码、执行和结果保存等阶段依次重叠执行的一种技术。"
+  },
+  {
+   "cn": "指令学说",
+   "en": "instruction theory",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "指令码",
+   "en": "instruction code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令步进",
+   "en": "instruction step",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令队列",
+   "en": "instruction queue",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令高速缓存",
+   "en": "instruction cache",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令格式",
+   "en": "instruction format",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令跟踪",
+   "en": "instruction trace",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令集，指令系统",
+   "en": "instruction set",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令计数器",
+   "en": "instruction counter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令寄存器",
+   "en": "instruction register",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令类型",
+   "en": "instruction type",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令流",
+   "en": "instruction stream",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令流水线",
+   "en": "instruction pipeline",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令调度程序",
+   "en": "instruction scheduler",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令停机",
+   "en": "instruction stop",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令相关性",
+   "en": "instruction dependency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令预取",
+   "en": "instruction prefetch",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令栈",
+   "en": "instruction stack",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令重试",
+   "en": "instruction retry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令周期",
+   "en": "instruction cycle",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令集",
+   "en": "instruction set",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "指令流",
+   "en": "instruction flow",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "易用性说明",
+   "en": "usability instruction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "战术指导",
+   "en": "tactical instructions",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "航行细则",
+   "en": "sailing instructions",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预警指令",
+   "en": "early warning instruction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情教",
+   "en": "Moral Instruction Carried Out with Emotion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不愤不启，不悱不发",
+   "en": "Instruct Only Who Is Anxious to Learn; Teach Only Who Wants to  Express Himself but Does Not Know How.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "障碍物",
+   "en": "obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "指导语",
+   "en": "instruction",
+   "source": "社会医学名词",
+   "wordNumber": "4.8.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "问卷",
+   "publishYear": "2025",
+   "definition": "对填写问卷的说明，即对如何回答问题或选择答案做出明确的说明，对问题中的一些概念和名词给予通俗易懂的解释，有时甚至可以举例说明填答方法。"
+  },
+  {
+   "cn": "作业指导书",
+   "en": "work instruction, WI",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.4",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业为了完成某一项或同一类型工作而根据设计图纸、制造厂说明书、相关的验评标准、编写人员现场所积累的施工经验以及成熟实用的施工工艺专门编写的指导性文件。"
+  },
+  {
+   "cn": "学校健康教育",
+   "en": "school health instruction",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.5.1.2",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "学校系统教育的重要组成部分。是在学校中，通过健康教育课程、健康活动和健康咨询等方式实施的健康教育工作，基本架构包括教学、服务和环境三个相互依赖的、相互促进的要素。"
+  },
+  {
+   "cn": "消毒产品说明书",
+   "en": "instruction book of disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.4",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "应用文字、数字、符号、图案、表格等方式，对某一消毒产品性能、使用范围、使用方法、注意事项等内容进行具体介绍的文件。"
+  },
+  {
+   "cn": "中央人民政府政务院关于处理带有歧视或侮辱少数民族性质的称谓、地名、碑碣、匾联的指示",
+   "en": "Instructions on Handling Titles, Place Names, Steles and Plaques Discriminating \nor Insulting Ethnic Minorities",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0091",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华人民共和国第一部禁止民族歧视的规范性文件。1951 年5 月16 日由中央人民政府政务院发布。规定各省市县人民政府应将历史上遗留下来的对于少数民族的称谓及有关少数民族地区的地名、碑碣、匾联等作全面"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "乡村建设",
+   "en": "rural construction",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "20世纪30年代由知识分子和政界人士共同参与的中国乡村现代化改造运动。1931年，梁漱溟在山东邹平从事乡治实践时首次使用该词，但此前类似的改造运动已经展开。20世纪20年代，在国民党地方政权和军阀势力"
+  },
+  {
+   "cn": "社会建构",
+   "en": "social construction",
+   "source": "社会学名词",
+   "wordNumber": "2.1.8.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会建设",
+   "subjectName": "社会建设",
+   "publishYear": "2025",
+   "definition": "一种认为社会实在或社会事物并非自然形成或被发现的，而是人为建构和界定的后现代建构论概念。与自然主义、实证主义的立场相反，它强调相关人群的互动和协商在建构中的决定性意义，从而认为被建构的社会或社会事物会"
+  },
+  {
+   "cn": "社会主义建设",
+   "en": "socialist construction",
+   "source": "马克思主义",
+   "wordNumber": "03.0288",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "比较落后国家的无产阶级掌握政权之后，领导人民建设社会主义新型制度和发展生产力的实践。社会主义建设包括社会主义经济、政治和思想文化建设，有时也专指经济建设。列宁在《怎样组织竞赛》一文中，第一次使用“社会"
+  },
+  {
+   "cn": "制度体系建设",
+   "en": "system construction",
+   "source": "马克思主义",
+   "wordNumber": "03.0782",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党为了提高党建科学化水平、加强党的自身建设，实现依法治国、依法执政，对党内生活的各个方面的行为准则加以制度化、规范化、体系化的活动。"
+  },
+  {
+   "cn": "建筑要求",
+   "en": "construction requirement",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "为满足生产、生活的良好环境条件，对建设用地上的建筑物布置和建筑物之间的群体关系做出的技术规定。"
+  },
+  {
+   "cn": "经济建设和国防建设的关系",
+   "en": "relationship between economic construction and defense construction",
+   "source": "马克思主义",
+   "wordNumber": "02.0376",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的实现国防现代化的关系和方式。加强国防的可靠办法是降低军政费用的比重，多搞经济建设，增加经济建设费用。只有经济建设发展得更快了，国防建设才能够有更大的进步。"
+  },
+  {
+   "cn": "放射建设项目",
+   "en": "radiation construction project",
+   "source": "放射卫生学",
+   "wordNumber": "8.3",
+   "subjectFullName": "放射卫生学_放射卫生监管",
+   "subjectName": "放射卫生监管",
+   "publishYear": "2025",
+   "definition": "可能产生放射性职业病危害的新建、扩建、改建、技术改造和技术引进项目。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

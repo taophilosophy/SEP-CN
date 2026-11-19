@@ -1,0 +1,72 @@
+{
+ "key": "pheneticism",
+ "term": "pheneticism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:09:20+00:00",
+ "status": "ok",
+ "note": "variant=pheneticism; 审定公布名词库=2; 海峡两岸名词对照库=4; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "表型系统学",
+   "en": "phenetics",
+   "source": "植物学名词",
+   "wordNumber": "02.0006",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "基于生物表型特征，即对其相似性和相异性的总和进行分析，然后进行生物分类的学科。"
+  },
+  {
+   "cn": "表型系统学",
+   "en": "phenetics",
+   "source": "遗传学名词",
+   "wordNumber": "01.040",
+   "subjectFullName": "遗传学_总论",
+   "subjectName": "总论",
+   "publishYear": "2007",
+   "definition": "不是基于进化关系而是基于生物表型特征进行生物分类的学科。"
+  },
+  {
+   "cn": "表型系统学，表征分类学",
+   "en": "phenetics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表征分类学（=表型系统学）",
+   "en": "phenetics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型系统学",
+   "en": "phenetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型系统学，表型分类学",
+   "en": "phenetics",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,772 @@
+{
+ "key": "crimes against humanity",
+ "term": "crimes against humanity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:57:05+00:00",
+ "status": "ok",
+ "note": "variant=crimes against humanity; 审定公布名词库=1342; 海峡两岸名词对照库=317; 其他来源数据库=190; 预公布名词数据库=161; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "暴力犯罪",
+   "en": "violent crime",
+   "source": "行为医学名词",
+   "wordNumber": "14.011",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "行为人以暴力或者以暴力胁迫手段侵害国家或人民生命、财产安全，造成严重后果，触犯刑法且应当受到刑罚处罚的犯罪行为。"
+  },
+  {
+   "cn": "计算机犯罪",
+   "en": "computer crime",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0298",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "利用计算机知识和技能进行的违法活动。"
+  },
+  {
+   "cn": "激情犯罪",
+   "en": "passionate crime",
+   "source": "心理学名词",
+   "wordNumber": "13.023",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "行为人在强烈、短暂、爆发式的情绪激昂、理智失控状态下所实施的犯罪。"
+  },
+  {
+   "cn": "资源犯罪",
+   "en": "resource crime",
+   "source": "资源科学技术名词",
+   "wordNumber": "07.018",
+   "subjectFullName": "资源科学技术_资源法学",
+   "subjectName": "资源法学",
+   "publishYear": "2008",
+   "definition": "行为主体在资源活动中危害社会的、违反刑法的，应受刑罚惩罚的行为。资源犯罪具有三个要件：一是社会危害性；二是刑事违法性；三是应受刑罚惩罚性。我国《刑法》规定了破坏环境资源保护罪，共用九个条文，设置十二个"
+  },
+  {
+   "cn": "逆动",
+   "en": "against movement",
+   "source": "医学名词 第五分册",
+   "wordNumber": "03.253",
+   "subjectFullName": "医学_眼科学_眼科检查",
+   "subjectName": "眼科检查",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "人文主义",
+   "en": "humanism",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.310",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "狭义为专业术语。广义是对文艺复兴时期出现的文化思想、文化理想的一种概括性总结。作为一种新思想理念，是对中世纪基督教会强权统治的一种反动，核心内容是“人”，亦称人本主义。主要内容包括：主张人性、人权，否"
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "心理学名词",
+   "wordNumber": "04.057",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "倾向于人文关怀价值取向的哲学思潮与流派。"
+  },
+  {
+   "cn": "人文主义",
+   "en": "Humanism",
+   "source": "世界历史名词",
+   "wordNumber": "02.1193",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "中世纪后期出现的，社会价值取向倾向于对人的个性的关怀，注重强调维护人性尊严，提倡宽容，反对暴力，主张自由平等和自我价值体现的一种哲学思潮与世界观。"
+  },
+  {
+   "cn": "人文学科",
+   "en": "humanities",
+   "source": "教育学名词",
+   "wordNumber": "04.079",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "拉丁文原意为“人性、教养”，欧洲14—15世纪文艺复兴运动中指以人和自然为对象的世俗学问。同“神学学科”相对。"
+  },
+  {
+   "cn": "人力资源生活性",
+   "en": "human resource humanism",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.044",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "人力资源以人身作为天然载体，蕴藏在生命个体之中，是一种活的资源，并与人的自然生理特征相联系，具有生活性。要维持发展现有的人力资源，就必须保证人力资源拥有者的生活条件与费用。"
+  },
+  {
+   "cn": "诽谤罪",
+   "en": "crime of defamation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.064",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "公然捏造并散布虚构的事实，以之贬损他人人格，破坏他人名誉，情节严重的涉罪行为。根据中国刑法的规定，触犯本罪的，告诉的才处理，但是严重危害社会秩序和国家利益的除外。在美国，1964年的“《纽约时报》诉沙"
+  },
+  {
+   "cn": "侮辱罪",
+   "en": "crime of insult",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.066",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "以暴力或者其他方法公然侮辱他人，情节严重的犯罪行为。新闻传播行为中的侮辱性言辞不包含事实，纯属谩骂。"
+  },
+  {
+   "cn": "犯罪合理化",
+   "en": "rationalization of crime",
+   "source": "心理学名词",
+   "wordNumber": "13.034",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "犯罪人对实施的犯罪行为给予一种合理性解释以避免他人谴责和自责，以及解除心理紧张的心理防御机制。"
+  },
+  {
+   "cn": "犯罪地理学",
+   "en": "geography of crime",
+   "source": "地理学名词",
+   "wordNumber": "17.023",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "研究犯罪活动与地理环境的相互关系，揭示犯罪现象的空间分布规律、区域差异及其历史演变的一门人文地理学分支学科。"
+  },
+  {
+   "cn": "交通肇事罪",
+   "en": "traffic accident crime",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.216",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "人文地图",
+   "en": "humanities human map",
+   "source": "测绘学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "反映社会和上层建筑各个领域的事物和现象，即人文现象的各种地图。"
+  },
+  {
+   "cn": "人与人之间传播",
+   "en": "human-to-human transmission",
+   "source": "感染病学名词",
+   "wordNumber": "01.0316",
+   "subjectFullName": "感染病学_总论_感染病流行病学",
+   "subjectName": "感染病流行病学",
+   "publishYear": "2019",
+   "definition": "传染病的病原体以感染的人作为传染源，通过适当的传播途径传给易感者，并导致易感人群被感染的传播方式。"
+  },
+  {
+   "cn": "人居环境",
+   "en": "human settlement,human habitat",
+   "source": "建筑学名词",
+   "wordNumber": "07.0043",
+   "subjectFullName": "建筑学_城乡规划_城乡规划总论",
+   "subjectName": "城乡规划总论",
+   "publishYear": "2014",
+   "definition": "人类集聚或居住的生存环境，特别是指建筑、城市、风景园林等整合的人工建成环境。"
+  },
+  {
+   "cn": "对校",
+   "en": "proofreading against copy",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.05.004",
+   "subjectFullName": "编辑与出版学_编辑_校对",
+   "subjectName": "校对",
+   "publishYear": "2022",
+   "definition": "以原稿对照校样进行校对的方式。"
+  },
+  {
+   "cn": "事故对策",
+   "en": "countermeasures against accidents",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.294",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护管理",
+   "subjectName": "放射防护管理",
+   "publishYear": "2014",
+   "definition": "旨在缓解事故后果的一种行动。"
+  },
+  {
+   "cn": "计算机犯罪",
+   "en": "computer crime",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智力犯罪",
+   "en": "intellectual crime",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "犯罪地理学",
+   "en": "geography of crime",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "白领犯罪",
+   "en": "white-collar crime",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保全损险",
+   "en": "insurance against TLO",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保水渍险",
+   "en": "insurance against WPA",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "避免通货膨胀损失的保值措施",
+   "en": "hedge against inflation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "承兑交单",
+   "en": "acceptance against document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "承兑交单",
+   "en": "document against acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "承兑交货",
+   "en": "delivery against acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "担保贷款",
+   "en": "loan against collateral",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "发行钞票准备金",
+   "en": "reserve against note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款交单",
+   "en": "document against payment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款交单",
+   "en": "document against presentation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款交货",
+   "en": "delivery against payment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付现交单",
+   "en": "document against cash",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货到付款",
+   "en": "payment against arrival",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "凭单付款",
+   "en": "payment against document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "凭单付现",
+   "en": "cash against document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "  严厉打击涉疫违法犯罪",
+   "en": "to take firm action against epidemic-related crimes",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人",
+   "en": "Human Being; Humanity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非接触性犯罪",
+   "en": "non-contact crime",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人心",
+   "en": "Human Heart / Human Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "违反规则",
+   "en": "against the rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "犯罪热点图",
+   "en": "heat map of crimes",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人力资源",
+   "en": "Human Resources",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人乳头（状）瘤病毒",
+   "en": "human papillomavirus",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人本计算",
+   "en": "human computation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类增强",
+   "en": "human enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不平则鸣",
+   "en": "Cry Out Against Injustice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脱贫攻坚战",
+   "en": "the fight against poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "污染防治攻坚战",
+   "en": "the battle against pollution",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性犯罪",
+   "en": "sex crimes",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "违反刑法的性活动，其本质是通过对他人身体的伤害，侵犯他人的权益和社会秩序。"
+  },
+  {
+   "cn": "职务犯罪",
+   "en": "duty crime",
+   "source": "马克思主义",
+   "wordNumber": "03.0779",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国家公务人员利用职权，贪污、贿赂、徇私舞弊、滥用职权、玩忽职守，侵犯公民人身权利、民主权利，破坏国家对公务活动的规章规范，依照刑法应当予以刑事处罚的犯罪。职务犯罪的本质特征是以权谋私、权钱交易，是腐败"
+  },
+  {
+   "cn": "完美的罪行",
+   "en": "perfect crime",
+   "source": "马克思主义",
+   "wordNumber": "05.0190",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国哲学家让·鲍德里亚（Jean Baudrillard）在《完美的罪行》（1996年)中对符号所统治的世界进行了深层次剖析，提出了大胆的假说：科学技术不但扩展了“人的形象”，它还将进一步驱逐“人类的"
+  },
+  {
+   "cn": "食品犯罪",
+   "en": "food crime",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.69",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "在食品生产、销售过程中，违反国家有关食品安全法律法规，危害食品安全，侵害不特定多数人的身体健康和生命安全的行为。包括生产有毒、有害食品罪和生产不符合食品安全标准罪。"
+  },
+  {
+   "cn": "人道主义",
+   "en": "humanism",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "起源于欧洲15世纪文艺复兴运动以来的思想体系，核心是尊重人性，维护人的尊严与价值。"
+  },
+  {
+   "cn": "人化",
+   "en": "humanization",
+   "source": "马克思主义",
+   "wordNumber": "01.0132",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人通过劳动把自己的本质力量凝聚和体现在对象上，使对象对人而言不再是异己的、对立的，而成为人的世界的一部分。"
+  },
+  {
+   "cn": "打击经济犯罪",
+   "en": "striking economic crimes",
+   "source": "马克思主义",
+   "wordNumber": "04.0146",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "打击经济领域的犯罪活动，是坚持社会主义道路和实现四个现代化的一个重要保证，是一个长期的经常的斗争。邓小平把它提高到与改革开放和对内搞活同等重要的高度形成了“两手抓”思想，即一手坚持对外开放和对内搞活经"
+  },
+  {
+   "cn": "防干预装置",
+   "en": "guard-against device",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.12",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "有一些装有核材料的设施上安装的能对非法操作或侵袭有显示或报警的装置。"
+  },
+  {
+   "cn": "针对儿童的暴力",
+   "en": "violence against child",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.3",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力",
+   "subjectName": "针对儿童的暴力",
+   "publishYear": "2025",
+   "definition": "对未满18周岁的未成年人造成或可能造成身体、性和精神伤害或痛苦的行为，导致儿童的健康、生存、发展以及尊严受到实际或潜在的伤害。"
+  },
+  {
+   "cn": "针对妇女的暴力",
+   "en": "violence against woman",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "无论在公共场合还是私人生活中，任何基于性别的，对妇女造成或可能造成身体、性和精神伤害或痛苦的行为，包括威胁、强迫或任意剥夺自由。形式有躯体攻击、精神虐待、强迫性行为和其他形式的性胁迫、管制监控行为。"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人的存在方式和根本属性。是人之所以为人的基础，是种生命和类生命、自然生命和社会生命的统一。"
+  },
+  {
+   "cn": "人伦",
+   "en": "human ethic",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.37",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "人们在社会中按年龄、智力、职业等分工而建立的社会秩序以及由此产生的彼此关系以及对关系的道德准则。也指父子、君臣、长幼、夫妇、朋友等“五伦”，为中国传统社会包含了血缘、文化、政治关系的总括和道德准则。"
+  },
+  {
+   "cn": "人类生态学",
+   "en": "human ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "研究城市环境的空间分布以及人与环境关系的学说。由以派克(Robert E.Park）、伯吉斯（Ernest W.Burgess）等社会学者为代表的芝加哥学派于20世纪20年代创立，强调城市的物质环境对"
+  },
+  {
+   "cn": "人的需要",
+   "en": "human needs",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "人感受到自身内在的物质或者精神上的缺乏，为了维持生存和发展，而对于外界事物的摄取欲望和要求。"
+  },
+  {
+   "cn": "人的本质",
+   "en": "human essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0134",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人区别于其他物的本质规定性。马克思指出：“人的本质并不是单个人所固有的抽象物。在其现实性上，它是一切社会关系的总和。”人的本质是人作为实践的存在、自我创造的主体性存在和社会历史性存在所体现的特性。"
+  },
+  {
+   "cn": "人化自然",
+   "en": "humanized nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0143",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思在《1844年经济学哲学手稿》中提出的一个重要概念，指人通过活动，把自己的本质力量对象化在客体中，使客观自然不再与人相对立，成为人的创造物的过程。这一过程就客体而言，就是人化的自然。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0150",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人享有的人身自由和各种民主权利。资产阶级在其革命时期提出人权要求，反对封建特权和神权。人权是生产力发展到一定阶段的产物，资产阶级的“天赋人权”本质上是资产阶级的阶级特权。消灭了生产资料私有制和阶级，才"
+  },
+  {
+   "cn": "人源化抗体",
+   "en": "humanized antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.20",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "将鼠源性抗体 V 区中的互补决定区（CDR）序列移植到人抗体 V 区框架中，构成既具有鼠源性抗体特异性，又保留人抗体亲和力的 CDR 移植抗体"
+  },
+  {
+   "cn": "人力资本",
+   "en": "human capital",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.1.2",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求",
+   "subjectName": "健康需求",
+   "publishYear": "2025",
+   "definition": "人内在的生产能力和知识，通过包括教育、培训、健康、经验、技巧等投资而获得的人力资产的经济价值总和。"
+  },
+  {
+   "cn": "人类地理学",
+   "en": "human geography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0508",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪，德国民族学家拉采尔（Friedrich Ratzel）创用了“人类地理学”一词，探讨环境对人类活动及演化的影响，认为存在着协调的人地关系。拉策尔在强调地理环境对人的决定性意义的同时，也考虑"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

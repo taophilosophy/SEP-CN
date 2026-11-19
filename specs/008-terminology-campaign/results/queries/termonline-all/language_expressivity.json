@@ -1,0 +1,722 @@
+{
+ "key": "language expressivity",
+ "term": "language expressivity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:50:41+00:00",
+ "status": "ok",
+ "note": "variant=language expressivity; 审定公布名词库=808; 海峡两岸名词对照库=339; 其他来源数据库=81; 预公布名词数据库=230; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "语言表达障碍",
+   "en": "expressive language disorder",
+   "source": "行为医学名词",
+   "wordNumber": "17.042",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "发音、语言理解或语言表达能力发育的延迟和异常。"
+  },
+  {
+   "cn": "表达性语言障碍",
+   "en": "expressive language disorder",
+   "source": "精神医学名词",
+   "wordNumber": "03.374",
+   "subjectFullName": "精神医学_诊断分类_心理发育障碍",
+   "subjectName": "心理发育障碍",
+   "publishYear": "2019",
+   "definition": "儿童使用表达性口头语言的能力明显低于适合其智力年龄水平的一种特定发育障碍。但对语言的理解仍在正常限度内，可以伴有构音障碍。"
+  },
+  {
+   "cn": "表达性语言障碍",
+   "en": "expressive language disorder",
+   "source": "心理学名词",
+   "wordNumber": "10.053",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "表达语言能力发育明显落后于非言语智力和语言理解能力的交流障碍。"
+  },
+  {
+   "cn": "惯用语",
+   "en": "formulaic expression,routine,prefabricated language",
+   "source": "语言学名词",
+   "wordNumber": "05.230",
+   "subjectFullName": "语言学_语义学、词汇学_熟语",
+   "subjectName": "熟语",
+   "publishYear": "2011",
+   "definition": "熟语的一种。口语中短小定型、意义完整的习惯用语。形式以三音节为主，内部结构多为动宾式，意义不是各构成成分意义的简单相加，而是通过比喻等手段形成的一种修辞意义。例如“炒冷饭”“开倒车”等。"
+  },
+  {
+   "cn": "表达性和感受性语言技能",
+   "en": "expressive and receptive language skill",
+   "source": "精神医学名词",
+   "wordNumber": "03.373",
+   "subjectFullName": "精神医学_诊断分类_心理发育障碍",
+   "subjectName": "心理发育障碍",
+   "publishYear": "2019",
+   "definition": "按照适宜个体智力年龄水平使用和理解口头语言的能力。"
+  },
+  {
+   "cn": "表现度",
+   "en": "expressivity",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.35",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "具有相同基因型的不同个体间性状或遗传病表现的程度。"
+  },
+  {
+   "cn": "表现度",
+   "en": "expressivity",
+   "source": "遗传学名词",
+   "wordNumber": "02.085",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "具相同基因型的个体间基因表达的变化程度。"
+  },
+  {
+   "cn": "表现度",
+   "en": "expressivity",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.053",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "表达",
+   "en": "expression",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.011",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "运用语言符号或非语言符号进行的意义呈现。"
+  },
+  {
+   "cn": "表达能力",
+   "en": "expressiveness",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.163",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "善于运用语言和非语言讯息，通过让他人容易理解与倾听的方式，展示出来的沟通表现力。"
+  },
+  {
+   "cn": "表情",
+   "en": "expression",
+   "source": "行为医学名词",
+   "wordNumber": "4.076",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "情绪情感产生时身体各部分的动作量化形式。包括面部表情、姿态表情和语调表情等。"
+  },
+  {
+   "cn": "内容表达",
+   "en": "expression",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.362",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "通过数字、文字、音乐、声音、图像、动作等或这些形式的组合对智慧或艺术作品的展现。例如用文字方式体现一个作品时所用的那些词语、句子、段落等就是一种内容表达。"
+  },
+  {
+   "cn": "压榨",
+   "en": "expression",
+   "source": "化学工程名词",
+   "wordNumber": "03.758",
+   "subjectFullName": "化学工程_传递过程与单元操作_固体过程_固液分离（化工）",
+   "subjectName": "固液分离（化工）",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "[表达]式",
+   "en": "expression",
+   "source": "数学名词",
+   "wordNumber": "01.0041",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.039",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "用来表达思想与情感的，可共享的言语和非言语符号系统。"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "行为医学名词",
+   "wordNumber": "4.042",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "是由语音、词汇和语法规则组成的符号系统。是人类思维和交际的工具。"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0512",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "在形式语言理论中，语言是指某字母表上满足某些特定条件的字符串的集合。"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.130",
+   "subjectFullName": "物理医学与康复_康复功能评定_言语障碍评定",
+   "subjectName": "言语障碍评定",
+   "publishYear": "2014",
+   "definition": "以语音为物质外壳，由词汇和语法两部分组成并能表达出人类思想的符号系统。人们通过应用这些符号达到交流的目的，包括对符号的运用(表达和接受(理解的能力，也包括对文字语言符号的的运用(书写、接受(阅读以及姿"
+  },
+  {
+   "cn": "表现变异性",
+   "en": "variable expressivity",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.054",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "詈词",
+   "en": "abusive expression,swear word,curse,abusive language",
+   "source": "语言学名词",
+   "wordNumber": "05.242",
+   "subjectFullName": "语言学_语义学、词汇学_熟语",
+   "subjectName": "熟语",
+   "publishYear": "2011",
+   "definition": "骂人的话。"
+  },
+  {
+   "cn": "表达性语言障碍",
+   "en": "expressive language disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表现度,表达度",
+   "en": "expressivity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达度, 表现度",
+   "en": "expressivity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "压榨",
+   "en": "expression",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表达能力",
+   "en": "expressiveness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表情",
+   "en": "expression",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表达式",
+   "en": "expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达",
+   "en": "expression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语言描述语言",
+   "en": "language-description language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可变表现度",
+   "en": "variable expressivity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "表达盒（=表达组件）",
+   "en": "expression cassette",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表达载体",
+   "en": "expression vector",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表达组件，表达盒",
+   "en": "expression cassette",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "短暂表达（=瞬时表达）",
+   "en": "transient expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瞬时表达，短暂表达",
+   "en": "transient expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诱导型表达",
+   "en": "inducible expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "整合表达",
+   "en": "integrant expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "辞达",
+   "en": "Expressiveness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "表现力",
+   "en": "expressiveness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "言",
+   "en": "Language",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程序设计语言",
+   "en": "programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器语言",
+   "en": "machine language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正则语言",
+   "en": "regular language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "汇编语言",
+   "en": "assembly language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "编程语言",
+   "en": "programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "R语言",
+   "en": "R language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Python语言",
+   "en": "Python language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "马克思主义",
+   "wordNumber": "01.0015",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在人类生产劳动基础上产生和发展的、按照一定规则表达和交流思想的工具，是具有一定音、形、义的符号系统，是思维、意识的物质载体。除自然语言外，还存在人工语言。"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.14",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "用来表达思想与情感的，可共享的言语和非言语符号系统。"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0035",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "索绪尔提出语言研究要注意区分语言（langue）和言语（parole）。语言指说话者共同使用的语言系统或结构，是社会集团为了使个人有可能行使语言机能而采取的必不可少的规约，为社会成员所共同遵守。后来的"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "使基因所携带的遗传信息表现为表型的过程。包括基因转录成互补的RNA序列。对于结构基因，信使核糖核酸(mRNA)继而翻译成多肽链，并装配加工成最终的蛋白质产物。"
+  },
+  {
+   "cn": "表意性角色",
+   "en": "expressive role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "结构功能主义学派塔尔科特帕森斯提出的概念，用来描述现代工业社会中妻子或妇女在家庭中承担的角色，主要指向家庭内部事务，作为情感支撑者起到调节家庭关系、辅助丈夫、抚育儿童并照顾家庭成员的作用。"
+  },
+  {
+   "cn": "自我表达",
+   "en": "self-expression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们试图通过采用相应的策略，向他人展示自己所认为的“真我”形象的行为。其中能够反映出其现实我（我实际上是怎样一个人）与理想我（我想成为怎样一个人）。"
+  },
+  {
+   "cn": "明示同意",
+   "en": "express consent",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.051",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "实际上的、明确表示了的同意。就器官捐献而言，指器官供体或器官受体应该在充分知情的条件下，经深思熟虑后，自愿明确表达愿意捐献其器官或者接受器官移植手术。"
+  },
+  {
+   "cn": "纳木依语",
+   "en": "Namuyi language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0241",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "自称“纳木依”“纳木兹”的藏族使用的语言。属汉藏语系藏缅语族羌语支。分布在四川省凉山彝族自治州冕宁、西昌、盐源、木里和甘孜藏族自治州九龙等县市。使用人口约5000人。"
+  },
+  {
+   "cn": "语言活力",
+   "en": "language vitality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0172",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言社会交际的领域、状态、频率和程度。通过既定的指标和权重加以计量和分级。"
+  },
+  {
+   "cn": "桑孔语",
+   "en": "Sangkong language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0249",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "自称“桑孔”的哈尼族使用的语言。属汉藏语系藏缅语族彝语支。分布在云南省景洪市小街乡和勐龙镇。使用人口约2000 人。"
+  },
+  {
+   "cn": "羌语",
+   "en": "Qiang language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0245",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国羌族使用的语言。属汉藏语系藏缅语族羌语支。分布在四川茂县以及汶川、理县、松潘等县，使用人口约10 万；黑水县约4 万多藏族也使用羌语。分南、北两个方言。20 世纪90 年代初，创制了拉丁字母形式的"
+  },
+  {
+   "cn": "赛德克语",
+   "en": "Seediq language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0349",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国台湾省赛德克（Seediq）人使用的语言。属南岛语系印度尼西亚语族台湾语支泰雅语群。分布在台湾南投县和花莲县等地。使用人口约14000 人。分为雾社、春阳、太鲁阁3个方言。"
+  },
+  {
+   "cn": "鄂伦春语",
+   "en": "Oroqen language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0316",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "鄂伦春族使用的语言。属阿尔泰语系满-通古斯语族通古斯语支。分布在内蒙古自治区和黑龙江省。鄂伦春族人口有9000 多人，仅老年人还能使用。"
+  },
+  {
+   "cn": "语言联盟",
+   "en": "language union",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0158",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "没有亲属关系的语言，由于长期共处于一个地区而在语言结构上产生共同区域特征的现象。语言联盟中的诸语言在经济、文化、人口比例上相差不大，因此还能保持各自的本体结构。"
+  },
+  {
+   "cn": "炯奈语",
+   "en": "Jiongnai language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0289",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "自称“炯奈”、他称“花蓝瑶”的瑶族使用的语言。属汉藏语系苗瑶语族苗语支。分布在广西金秀瑶族自治县的六巷、长垌、罗香3 个乡镇。可分为长垌、六巷两个方言，方言差别不大。使用人口有1000 多人。"
+  },
+  {
+   "cn": "噶玛兰语",
+   "en": "Kavalan language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0356",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国台湾省噶玛兰人使用的语言。属南岛语系印度尼西亚语族台湾语支排湾语群。部分噶玛兰人从台湾东北部的兰阳平原南迁至花莲县，至今只有极少数老人使用。"
+  },
+  {
+   "cn": "语言冲突",
+   "en": "language conflict",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0174",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "由语言问题而引发的社会、政治冲突。"
+  },
+  {
+   "cn": "语言崇拜",
+   "en": "language worship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0348",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "起源于语言巫术的崇拜；原始人类赋予语言一种神秘的力量，认为它可以改变自然、社会和人的命运，对他奉若神明。"
+  },
+  {
+   "cn": "贵琼语",
+   "en": "Guiqiong language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0225",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "四川省甘孜藏族自治州康定市和泸定县自称“贵琼”的藏族使用的语言。属汉藏语系藏缅语族羌语支。使用人口约6000 人。"
+  },
+  {
+   "cn": "黎语",
+   "en": "Li language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0271",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国黎族使用的语言。属汉藏语系侗台语族黎语支。分布在海南省。分侾、杞、本地、美孚、加茂5 个方言。使用人口约100 万。1957 年设计了拉丁字母形式的《黎语文字方案》。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,412 @@
+{
+ "key": "geocentrism",
+ "term": "geocentrism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:48:10+00:00",
+ "status": "ok",
+ "note": "variant=geocentrism; 审定公布名词库=26; 海峡两岸名词对照库=31; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "地心坐标",
+   "en": "geocentric coordinate",
+   "source": "天文学名词",
+   "wordNumber": "02.066",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "以地心为原点或天球中心的天体坐标。"
+  },
+  {
+   "cn": "地心纬度",
+   "en": "geocentric latitude",
+   "source": "天文学名词",
+   "wordNumber": "02.281",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "连接地球上一点和地球质心的直线与相对于地球平极的赤道平面之间的交角。"
+  },
+  {
+   "cn": "地心经度",
+   "en": "geocentric longitude",
+   "source": "天文学名词",
+   "wordNumber": "02.282",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "过地球上一点，地球质心和地球平极形成的子午线与格林尼治子午线所交的球面角。"
+  },
+  {
+   "cn": "地心历表",
+   "en": "geocentric ephemeris",
+   "source": "天文学名词",
+   "wordNumber": "03.102",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "列出天体地心坐标的历表。"
+  },
+  {
+   "cn": "地心说",
+   "en": "geocentric theory",
+   "source": "天文学名词",
+   "wordNumber": "05.173",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "认为地球静止不动并位于宇宙中心，太阳、月亮和行星都围绕地球运行的宇宙模型。早期文明一般都接受这个宇宙模型。"
+  },
+  {
+   "cn": "地心体系",
+   "en": "geocentric system",
+   "source": "天文学名词",
+   "wordNumber": "05.174",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "认为地球位于宇宙中心的宇宙体系。西方的地心体系在公元前4世纪由古希腊哲学家亚里士多德给以哲学和物理学上的论证，公元2世纪希腊天文学家托勒玫加以发展，提出了完备的几何模型。"
+  },
+  {
+   "cn": "地心纬度",
+   "en": "geocentric latitude",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0374",
+   "subjectFullName": "地球物理学_地球电磁学_探测磁性的方法_仪器和应用",
+   "subjectName": "仪器和应用",
+   "publishYear": "2022",
+   "definition": "地球纬度的一种。地面上的点到地心的连线(地球半径 )同地球赤道面的交角。"
+  },
+  {
+   "cn": "地心经度",
+   "en": "geocentric longitude",
+   "source": "测绘学名词",
+   "wordNumber": "02.333",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "地心坐标系中本初子午面到过某点的子午面的夹角。"
+  },
+  {
+   "cn": "地心纬度",
+   "en": "geocentric latitude",
+   "source": "测绘学名词",
+   "wordNumber": "02.334",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "地心坐标系中某点的向径与赤道面的夹角。"
+  },
+  {
+   "cn": "地心纬度",
+   "en": "geocentric latitude",
+   "source": "船舶工程名词",
+   "wordNumber": "08.006",
+   "subjectFullName": "船舶工程_船舶通信导航",
+   "subjectName": "船舶通信导航",
+   "publishYear": "1998",
+   "definition": "参考椭球面上某点与地球几何中心的连线与赤道平面的夹角。"
+  },
+  {
+   "cn": "地心纬度",
+   "en": "geocentric latitude",
+   "source": "航海科技名词",
+   "wordNumber": "02.0025",
+   "subjectFullName": "航海科学技术_地文航海",
+   "subjectName": "地文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "地心引力常数",
+   "en": "geocentric gravitational constant",
+   "source": "天文学名词",
+   "wordNumber": "02.280",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "天文常数之一，地球质量与牛顿引力常数的乘积。"
+  },
+  {
+   "cn": "地心偶极场",
+   "en": "geocentric dipole field",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0074",
+   "subjectFullName": "地球物理学_地球电磁学_地磁学",
+   "subjectName": "地磁学",
+   "publishYear": "2022",
+   "definition": "地球基本磁场中相当于一个位于地心的磁偶极子所产生的磁场。占地球基本磁场的 80%左右。 "
+  },
+  {
+   "cn": "地心坐标系",
+   "en": "geocentric coordinate system",
+   "source": "测绘学名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "测绘学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "以地球质心为原点建立的大地坐标系。其原点O与地球质心重合，Z轴指向地球北极，X轴指向格林尼治平子午面与地球赤道的交点E，Y轴垂直于XOZ的平面构成右手坐标系。"
+  },
+  {
+   "cn": "地心引力常数",
+   "en": "geocentric gravitational constant",
+   "source": "测绘学名词",
+   "wordNumber": "02.124",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "万有引力常数和地球总质量的乘积。"
+  },
+  {
+   "cn": "地心坐标系",
+   "en": "geocentric coordinate system",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.051",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "地心坐标系",
+   "en": "geocentric coordinate system",
+   "source": "航空科学技术名词",
+   "wordNumber": "07.101",
+   "subjectFullName": "航空科学技术_航空电子与机载计算机系统",
+   "subjectName": "航空电子与机载计算机系统",
+   "publishYear": "2003",
+   "definition": "将地球视作圆球，地心为原点，赤道平面为基本面，一条轴垂直此基本面，基本面内地心与格林尼治天文台所在点连线为另一条轴，按右手定则形成第三条轴的坐标系。"
+  },
+  {
+   "cn": "地心坐标系",
+   "en": "geocentric coordinate system",
+   "source": "船舶工程名词",
+   "wordNumber": "08.099",
+   "subjectFullName": "船舶工程_船舶通信导航",
+   "subjectName": "船舶通信导航",
+   "publishYear": "1998",
+   "definition": "原点位于地心，其中一轴与地心垂线重合的右手直角坐标系。"
+  },
+  {
+   "cn": "地心坐标系",
+   "en": "geocentric coordinate system",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地心坐标时",
+   "en": "geocentric coordinate time; TCG",
+   "source": "天文学名词",
+   "wordNumber": "02.171",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "IAU决议推荐使用的地心天球参考系的时间变量。"
+  },
+  {
+   "cn": "地心辐射点",
+   "en": "geocentric radiant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心轨道",
+   "en": "geocentric orbit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心合",
+   "en": "geocentric conjunction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心经度",
+   "en": "geocentric longitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心距离",
+   "en": "geocentric distance",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心历表",
+   "en": "geocentric ephemeris",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心视差",
+   "en": "geocentric parallax",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心体系",
+   "en": "geocentric system",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心天顶",
+   "en": "geocentric zenith",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心纬度",
+   "en": "geocentric latitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心位置",
+   "en": "geocentric position",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心余纬",
+   "en": "geocentric colatitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心坐标",
+   "en": "geocentric coordinate",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心基准",
+   "en": "geocentric datum",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地心基准",
+   "en": "geocentric datum",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "地心经度",
+   "en": "geocentric longitude",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "地心距",
+   "en": "geocentric distance",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "地心视差",
+   "en": "geocentric parallax",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "地心天顶",
+   "en": "geocentric zenith",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "地心纬度",
+   "en": "geocentric latitude",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

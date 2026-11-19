@@ -1,0 +1,52 @@
+{
+ "key": "weismannism",
+ "term": "Weismannism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:04:25+00:00",
+ "status": "ok",
+ "note": "variant=Weismannism; 审定公布名词库=1; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "环腺",
+   "en": "ring gland,Weismann's ring",
+   "source": "昆虫学名词",
+   "wordNumber": "04.078",
+   "subjectFullName": "昆虫学_昆虫内部构造",
+   "subjectName": "昆虫内部构造",
+   "publishYear": "2000",
+   "definition": "在双翅目环裂类幼虫中，由咽侧体、心侧体、胸腺等在脑后围绕大血管形成的环状腺体。"
+  },
+  {
+   "cn": "魏氏腺(=环腺)",
+   "en": "Weismanns ring(=ring gland)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "魏斯曼学说",
+   "en": "Weissmannism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "魏斯曼学说",
+   "en": "Weismanism",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

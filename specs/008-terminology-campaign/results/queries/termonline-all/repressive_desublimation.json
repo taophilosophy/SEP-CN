@@ -1,0 +1,492 @@
+{
+ "key": "repressive desublimation",
+ "term": "repressive desublimation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:44:05+00:00",
+ "status": "ok",
+ "note": "variant=repressive desublimation; 审定公布名词库=165; 海峡两岸名词对照库=76; 其他来源数据库=5; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.047",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "阻遏物或阻遏物-辅阻遏物复合物与基因的调控序列结合而将其封闭，从而阻止基因表达的过程。"
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.098",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "基因的表达在mRNA合成（转录）阶段为特异的调节因子（阻遏物）所抑制的过程。"
+  },
+  {
+   "cn": "复压",
+   "en": "repressing",
+   "source": "冶金学名词",
+   "wordNumber": "08.0256",
+   "subjectFullName": "冶金学_金属材料_粉末冶金",
+   "subjectName": "粉末冶金",
+   "publishYear": "2019",
+   "definition": "为了提高物理和(或)力学性能，对烧结制品进行再压制的过程。"
+  },
+  {
+   "cn": "压抑",
+   "en": "repression",
+   "source": "心理学名词",
+   "wordNumber": "15.012",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "个体无意识地把不能接受的冲动、情感和记忆排除在意识之外的一种防御机制。"
+  },
+  {
+   "cn": "压抑",
+   "en": "repression",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.263",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "心理防御机制的一种。个体将意识不能接受的欲念、情感、冲动经验和记忆放逐到潜意识中去，使之不为意识所觉知，以避免产生焦虑、恐惧、愧疚的过程。"
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "遗传学名词",
+   "wordNumber": "03.509",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "基因转录受阻。"
+  },
+  {
+   "cn": "可阻遏基因",
+   "en": "repressible gene",
+   "source": "农学名词",
+   "wordNumber": "06.410",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "随环境条件变化表达水平降低的基因。"
+  },
+  {
+   "cn": "金融抑制",
+   "en": "financial repression",
+   "source": "农学名词",
+   "wordNumber": "19.255",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "政府过多干预金融体系和活动，抑制金融体系发展和金融市场的行为。"
+  },
+  {
+   "cn": "协同阻遏",
+   "en": "coordinate repression",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0031",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "在催化反应上连续或相关的一组酶同时被抑制的现象。"
+  },
+  {
+   "cn": "可阻遏基因",
+   "en": "repressible gene",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0469",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "在应答环境信号刺激时其表达被抑制的基因。"
+  },
+  {
+   "cn": "反式阻遏",
+   "en": "trans-repression",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0481",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "在基因表达调控过程中通过蛋白质-蛋白质相互作用，一种蛋白质抑制另一种蛋白质活性的过程。被抑制的蛋白质通常是转录因子，抑制的结果导致基因表达改变。"
+  },
+  {
+   "cn": "分解代谢物阻遏",
+   "en": "catabolite repression",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0486",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "细胞内具有一优先利用的营养物（通常是，但并不总是葡萄糖）时，其分解产物对分解利用其他（难利用）营养物质所需的酶系合成起抑制作用的现象。是微生物中广泛存在的一种全局调控。最常见的是葡萄糖代谢物阻遏。"
+  },
+  {
+   "cn": "转录阻遏",
+   "en": "transcription repression",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0491",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "转录抑制因子（包括蛋白质因子等）通过直接结合基因顺式元件或间接相互作用，多方式、可选择地抑制目标基因表达的一种调控作用。"
+  },
+  {
+   "cn": "翻译阻遏",
+   "en": "translation repression",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0562",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "翻译抑制因子（如蛋白质因子、微RNA等）与mRNA特定区域结合，或直接、间接地改变核糖体结构以阻碍其与mRNA的相互作用，从而引起蛋白质翻译受到抑制的现象。是一种翻译水平的调节机制。有些mRNA的翻译"
+  },
+  {
+   "cn": "转录阻遏",
+   "en": "transcription repression",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.142",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由DNA甲基化、形成特殊结构或转录阻遏物的作用等导致基因转录受阻的现象。"
+  },
+  {
+   "cn": "翻译阻遏",
+   "en": "translation repression",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.185",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "mRNA翻译产物过量而反馈抑制RNA进一步翻译的一种负调控方式。"
+  },
+  {
+   "cn": "代谢物阻遏",
+   "en": "catabolite repression",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.146",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_代谢工程_弗兰克-沃尔夫法",
+   "subjectName": "弗兰克-沃尔夫法",
+   "publishYear": "2021",
+   "definition": "微生物中广泛存在的一种全局调控，是指一种代谢物或其降解产物对一个基因或操纵子的阻遏作用。最常见的为葡萄糖代谢物阻遏。"
+  },
+  {
+   "cn": "酶阻遏",
+   "en": "enzyme repression",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.133",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "细胞中受反应最终产物的影响而中止特定酶合成的作用。如乳糖操纵子模型是最典型的酶阻遏模型。"
+  },
+  {
+   "cn": "金融抑制",
+   "en": "financial repression",
+   "source": "经济学名词",
+   "wordNumber": "06.160",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "由R .I .麦金农(Ronald I. Mckinnon)在1973年出版的《经济发展中的货币与资本》一书中提出。指发展中国家可能出现的一些现象：整个经济中非货币经济比重很大，金融关联比率小，货币数"
+  },
+  {
+   "cn": "分解代谢阻遏",
+   "en": "catabolic repression",
+   "source": "药学名词",
+   "wordNumber": "04.018",
+   "subjectFullName": "药学_微生物药学",
+   "subjectName": "微生物药学",
+   "publishYear": "2014",
+   "definition": "细胞内同时存在两种底物时，易利用底物及其分解产物会阻遏难利用底物分解酶系合成的过程。"
+  },
+  {
+   "cn": "凝华作用",
+   "en": "desublimation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压抑",
+   "en": "repression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "复压",
+   "en": "repressing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "金融压制",
+   "en": "financial repression",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反式阻遏[作用]",
+   "en": "trans-repression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译阻遏",
+   "en": "translation repression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译阻遏",
+   "en": "translation repression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反式阻遏",
+   "en": "trans-repression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分解代谢物阻遏",
+   "en": "catabolite repression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转录阻遏",
+   "en": "transcription repression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏酶",
+   "en": "repressible enzyme",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏型操纵子",
+   "en": "repressible operon",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协同阻遏,协同抑制",
+   "en": "coordinate repression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转录阻遏",
+   "en": "transcription repression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反馈阻遏",
+   "en": "feedback repression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分解代谢阻遏",
+   "en": "catabolic repression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "压抑应对方式",
+   "en": "repressive coping style",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "压制性法律",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3.1",
+   "subjectFullName": "社会学名词_分支社会学法律社会学",
+   "subjectName": "分支社会学法律社会学",
+   "publishYear": "2025",
+   "definition": "制裁方式是惩罚性的法律。其目的是要损害当事人的财产、名誉、生命和自由，或者剥夺当事人所享用的某些事物，如刑法。"
+  },
+  {
+   "cn": "压制型法",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.8",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "反映居支配地位的道德，以维护权威为首要目的，法律机构容易直接受到政治权力影响的一种法律。P.诺内特和P.塞尔兹尼克将社会中的法律现象分为三种类型，即压制型法、自治型法和回应型法。"
+  },
+  {
+   "cn": "非压抑性生存",
+   "en": "non  repressive existence",
+   "source": "马克思主义",
+   "wordNumber": "05.0052",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞在《爱欲与文明》中指出，真正人道的文明可以使人从压抑性生存转变为非压抑性生存，主要表现在两个方面，即异化劳动转变为消遣，性欲升华为爱欲。"
+  },
+  {
+   "cn": "压抑性心理机制",
+   "en": "repressed psychological mechanisms",
+   "source": "马克思主义",
+   "wordNumber": "05.0051",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞在《爱欲与文明》中指出，伴随着科学技术与消费社会为特征的现代社会的发展，人的异化主要不是外在力量的统治与压抑，而是更多地表现为人的“自我异化”，即压抑性的心理机制。"
+  },
+  {
+   "cn": "表意性角色",
+   "en": "expressive role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "结构功能主义学派塔尔科特帕森斯提出的概念，用来描述现代工业社会中妻子或妇女在家庭中承担的角色，主要指向家庭内部事务，作为情感支撑者起到调节家庭关系、辅助丈夫、抚育儿童并照顾家庭成员的作用。"
+  },
+  {
+   "cn": "儿童抑郁症",
+   "en": "depressive disorders in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "发生在儿童期，以情绪显著而持久的低落为基本临床表现，并伴随躯体和认知改变，显著影响到儿童功能的一种精神障碍。有反复发作倾向。"
+  },
+  {
+   "cn": "儿童重性抑郁障碍",
+   "en": "major depressive disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "至少持续2周的发作（尽管绝大多数的发作持续更久），涉及情感、认知和植物神经功能的明显变化和发作间缓解的一种精神疾病。发作时核心症状是抑郁心境，或对几乎所有活动丧失兴趣或愉悦。儿童可能表现为情绪易激惹。"
+  },
+  {
+   "cn": "儿童持续性抑郁障碍",
+   "en": "persistent depressive disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "一种常见的抑郁障碍。至少在2年的多数日子里，一天中的多数时间出现抑郁心境，既可以是主观体验也可以是他人观察到的，儿童、青少年可以表现为易激惹，且持续至少1年。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

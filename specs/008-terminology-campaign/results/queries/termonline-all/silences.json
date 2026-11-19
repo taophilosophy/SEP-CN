@@ -1,0 +1,492 @@
+{
+ "key": "silences",
+ "term": "silences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:19:58+00:00",
+ "status": "ok",
+ "note": "variant=silences; 审定公布名词库=88; 海峡两岸名词对照库=35; 其他来源数据库=6; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "沉默子",
+   "en": "silencer",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0535",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "能够被负性调控因子识别并结合，使邻近基因的表达水平降低的一段短的DNA序列。"
+  },
+  {
+   "cn": "沉默子",
+   "en": "silencer",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.261",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "降低或关闭邻近基因表达活性的一段DNA序列。"
+  },
+  {
+   "cn": "沉默子",
+   "en": "silencer",
+   "source": "植物学名词",
+   "wordNumber": "16.0152",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "帮助降低或关闭邻近基因表达活性的一段DNA序列。"
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer",
+   "source": "建筑学名词",
+   "wordNumber": "10.0315",
+   "subjectFullName": "建筑学_建筑物理_建筑声学",
+   "subjectName": "建筑声学",
+   "publishYear": "2014",
+   "definition": "具有吸声衬里或特殊形状的气流管道，可有效地降低气流中的噪声。"
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0448",
+   "subjectFullName": "机械工程_流体机械_气体分离设备_单元设备_净化设备与其他",
+   "subjectName": "净化设备与其他",
+   "publishYear": "2013",
+   "definition": "用以降低气流噪声的设备。其壳体多为钢材。"
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0448",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_结构和辅机",
+   "subjectName": "结构和辅机",
+   "publishYear": "2013",
+   "definition": "衰减燃气轮机噪声的装置。"
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.348",
+   "subjectFullName": "机械工程_汽车_发动机_进排气系",
+   "subjectName": "进排气系",
+   "publishYear": "2013",
+   "definition": "装在发动机整个排气管系的尾端，通常是接在一些排气净化装置(如催化转化器、颗粒捕集器等)之后，用以降低发动机排气噪声的装置。"
+  },
+  {
+   "cn": "沉默子",
+   "en": "silencer",
+   "source": "遗传学名词",
+   "wordNumber": "03.498",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "帮助降低或关闭邻近基因表达活性的一段DNA顺式元件序列。"
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.531",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "沉默",
+   "en": "silence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.032",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "一种不使用语言说话的沟通方式。"
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer,muffler",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0448",
+   "subjectFullName": "机械工程_动力机械_内燃机_增压及进排气管系统",
+   "subjectName": "增压及进排气管系统",
+   "publishYear": "2013",
+   "definition": "用以降低发动机进排气口噪声级的装置。"
+  },
+  {
+   "cn": "气动消声器",
+   "en": "pneumatic silencer",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1425",
+   "subjectFullName": "机械工程（一）_传动_气压传动",
+   "subjectName": "气压传动",
+   "publishYear": "2021",
+   "definition": "用于降低排气噪声的装置。"
+  },
+  {
+   "cn": "沉默子序列",
+   "en": "silencer sequence",
+   "source": "遗传学名词",
+   "wordNumber": "03.277",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "抑制基因转录的DNA序列。"
+  },
+  {
+   "cn": "电静息",
+   "en": "electrical silence",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.3.44.3",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈症状与检查",
+   "subjectName": "咽喉–头颈症状与检查",
+   "publishYear": "2025",
+   "definition": "由于生物学或非生物学原因，在电生理测定过程中无法记录到电活动的现象。"
+  },
+  {
+   "cn": "精神静默",
+   "en": "mental silence",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.006",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_认知行为治疗",
+   "subjectName": "认知行为治疗",
+   "publishYear": "2022",
+   "definition": "一种简单易行、自然且不费力的静坐技术。练习者体验到思想过程越来越宁静，直到一种完全静止的精神状态。在这种状态中，注意力超越了日常思想水平。"
+  },
+  {
+   "cn": "有偿不闻",
+   "en": "paid silence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "16.031",
+   "subjectFullName": "新闻学与传播学_媒体与传播伦理_职业道德与报道伦理",
+   "subjectName": "职业道德与报道伦理",
+   "publishYear": "2022",
+   "definition": "新闻从业者以不予曝光负面新闻为交换条件，收受他人、他方的钱财或其他好处的违规违法行为。"
+  },
+  {
+   "cn": "电静息",
+   "en": "electric silence",
+   "source": "手外科学名词",
+   "wordNumber": "02.0274",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "肌肉完全放松时在肌电图上的表现。肌肉完全放松时，没有兴奋过程，不出现肌电位，视波屏上呈一条直线。"
+  },
+  {
+   "cn": "电静息",
+   "en": "electric silence",
+   "source": "神经病学名词",
+   "wordNumber": "05.144",
+   "subjectFullName": "神经病学_神经病诊断技术_临床肌电图学",
+   "subjectName": "临床肌电图学",
+   "publishYear": "2020",
+   "definition": "由于生物学或非生物学原因，在电生理测定过程中，无法记录到电活动的现象。"
+  },
+  {
+   "cn": "电静息",
+   "en": "electrical silence",
+   "source": "显微外科学名词",
+   "wordNumber": "05.196",
+   "subjectFullName": "显微外科学_周围神经_周围神经损伤诊断_周围神经损伤电生理检查",
+   "subjectName": "周围神经损伤电生理检查",
+   "publishYear": "2016",
+   "definition": "当电极插入完全松弛状态下的肌肉内，电极下的肌纤维无动作电位出现，荧光屏上表现为一条直线的现象。"
+  },
+  {
+   "cn": "基因沉默",
+   "en": "gene silence",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.296",
+   "subjectFullName": "放射医学与防护_放射生物学_放射分子生物学",
+   "subjectName": "放射分子生物学",
+   "publishYear": "2014",
+   "definition": "生物体中特定基因由于种种原因不表达的现象。真核生物细胞基因表达调节的一种重要手段。"
+  },
+  {
+   "cn": "沉默子",
+   "en": "silencer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沉默子",
+   "en": "silencer",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "消声器",
+   "en": "silencer",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "沉默",
+   "en": "silence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沉默子序列",
+   "en": "silencer sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "沉默子元件",
+   "en": "silencer element",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "进气消音器",
+   "en": "intake silencer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "无线电寂静",
+   "en": "radio silence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "RNA沉默",
+   "en": "RNA silencing",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因沉默",
+   "en": "gene silencing",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转基因沉默",
+   "en": "transgene silencing",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因沉默",
+   "en": "gene silencing",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "RNA沉默",
+   "en": "RNA silencing",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转座子沉默",
+   "en": "transposon silencing",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转录沉默",
+   "en": "transcription silencing",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "RNA沉默",
+   "en": "RNA silencing",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因沉默",
+   "en": "gene silencing",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因沉默",
+   "en": "gene silencing",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "沉默子,沉默基因",
+   "en": "silencer\",\"silent gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "静默时间",
+   "en": "silence period\",\"SP",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "默哀三分钟",
+   "en": "to observe three minutes of silence to mourn the deceased",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "防民之口，甚于防川",
+   "en": "To Silence the People Is More Harmful than Blocking a River.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民各有心，勿壅惟口",
+   "en": "The People Have Their Own Thoughts; Their Voices Should Not Be Silenced.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吉利德科学公司",
+   "en": "Gilead Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国人民解放军军事医学科学院",
+   "en": "Academy of Military Medical Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沉默",
+   "en": "silence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，求咨者在接受心理咨询时少言寡语，对咨询者的提问无反应的表现。需要咨询者运用真诚和技巧来打破僵局，使咨询顺利进行。"
+  },
+  {
+   "cn": "文化科学",
+   "en": "cultural sciences",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "理解、诠释而非寻找或证实文化的或社会的一种超越实体的一整套理论与方法，它的研究对象是某文化的价值表达系统及由此表现的独特历史观，涉及观念、信仰、意义、价值，与象征主义、符号学和认知哲学在知识谱系中相辅"
+  },
+  {
+   "cn": "延安自然科学院",
+   "en": "Yan’an Academy of Natural Sciences",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.133",
+   "subjectFullName": "自然辩证法_总论_历史上的重要流派和思想",
+   "subjectName": "历史上的重要流派和思想",
+   "publishYear": "2025",
+   "definition": "延安自然科学院是中国共产党领导的第一所理工科高等学校。前身是成立于1939年5月的延安自然科学研究院，1940年1月中共中央决定将延安自然科学研究院改为延安自然科学院，并于1940年9月正式成立，设有"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

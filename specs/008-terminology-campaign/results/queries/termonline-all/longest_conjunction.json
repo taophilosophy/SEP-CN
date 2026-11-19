@@ -1,0 +1,712 @@
+{
+ "key": "longest conjunction",
+ "term": "longest conjunction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:06:33+00:00",
+ "status": "ok",
+ "note": "variant=longest conjunction; 审定公布名词库=583; 海峡两岸名词对照库=127; 其他来源数据库=31; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "合",
+   "en": "conjunction",
+   "source": "天文学名词",
+   "wordNumber": "03.103",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "由地球上看到太阳系里两个天体(常是太阳和行星)的赤经或黄经相等的现象。也指此现象发生的时刻。"
+  },
+  {
+   "cn": "连词",
+   "en": "conjunction",
+   "source": "语言学名词",
+   "wordNumber": "04.053",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "用于连接词、短语、分句或句子的词。例如“和”“况且”“虽然”“但是”“因此”。"
+  },
+  {
+   "cn": "合取",
+   "en": "conjunction",
+   "source": "语言学名词",
+   "wordNumber": "11.137",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "一种逻辑联结词。通常记作∧。设P、Q为两个命题，复合命题“P∧Q”称作P与Q的合取式，该合取式表达的逻辑关系是P与Q两个命题同时成立。"
+  },
+  {
+   "cn": "合取[词]",
+   "en": "conjunction",
+   "source": "数学名词",
+   "wordNumber": "02.0028",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "结膜炎",
+   "en": "conjunctivitis",
+   "source": "兽医学名词",
+   "wordNumber": "18.172",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "眼结膜受到外界刺激和感染而引起的炎症。有卡他性、化脓性、滤泡性、伪膜性及水泡性结膜炎等。"
+  },
+  {
+   "cn": "结膜炎",
+   "en": "conjunctivitis",
+   "source": "消化病学名词",
+   "wordNumber": "15.022",
+   "subjectFullName": "消化病_炎症性肠病_炎症性肠病肠外表现",
+   "subjectName": "炎症性肠病肠外表现",
+   "publishYear": "2022",
+   "definition": "结膜组织的炎症反应。特征是血管扩张、渗出和炎症细胞浸润。"
+  },
+  {
+   "cn": "结膜炎",
+   "en": "conjunctivitis",
+   "source": "感染病学名词",
+   "wordNumber": "02.0350",
+   "subjectFullName": "感染病学_系统感染_神经系统感染",
+   "subjectName": "神经系统感染",
+   "publishYear": "2019",
+   "definition": "结膜组织在外界或机体自身因素的作用下而发生的炎性反应的统称。分为感染性和非感染性两类，前者由病原微生物感染所致，后者以局部或全身变态反应引起的过敏性炎症最常见。外界的理化因素，如光、各种化学物质也可成"
+  },
+  {
+   "cn": "结膜炎",
+   "en": "conjunctivitis",
+   "source": "老年医学名词",
+   "wordNumber": "04.893",
+   "subjectFullName": "老年医学_老年临床医学_老年眼科疾病",
+   "subjectName": "老年眼科疾病",
+   "publishYear": "2017",
+   "definition": "结膜的防御能力减弱或外界致病因素增强时，引起结膜组织血管扩张、渗出和细胞浸润等的炎症。"
+  },
+  {
+   "cn": "结膜炎",
+   "en": "conjunctivitis",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.257",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "由各种原因引起的结膜组织的炎症。以结膜充血、分泌物增多、怕光、流泪为常见症状。"
+  },
+  {
+   "cn": "结膜炎",
+   "en": "conjunctivitis",
+   "source": "医学名词 第五分册",
+   "wordNumber": "04.097",
+   "subjectFullName": "医学_眼科学_眼科疾病",
+   "subjectName": "眼科疾病",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "合取项",
+   "en": "conjunct",
+   "source": "数学名词",
+   "wordNumber": "02.0029",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[胃食管]反流最长持续时间",
+   "en": "longest reflux episode",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.413",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "一种睡眠监测中记录胃食管反流的指标。为反流持续的最长时间，有直立位和仰卧位之分。"
+  },
+  {
+   "cn": "最长前缀匹配",
+   "en": "longest prefix match",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0629",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "IP路由器用以在路由表中选择转发所依据的表项的一个算法。在一个目的地址与多个表项匹配的情况下，选用与目的地址的高序位匹配长度最大的表项。"
+  },
+  {
+   "cn": "最远视距",
+   "en": "longest sight distance",
+   "source": "建筑学名词",
+   "wordNumber": "02.0346",
+   "subjectFullName": "建筑学_建筑类型及组成_观演建筑",
+   "subjectName": "观演建筑",
+   "publishYear": "2014",
+   "definition": "设计视点至中轴剖面最远观众席排距分格线高出建筑地面1.1m处点的连线直线距离。传统上“最远视距”一般指“设计视点至最后排观众席(以椅背线为准)的水平距离”，其一般作为观演舒适的一个参考性控制指标，世界"
+  },
+  {
+   "cn": "上合",
+   "en": "superior conjunction",
+   "source": "天文学名词",
+   "wordNumber": "03.104",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "内行星和地球位于太阳两侧发生的合。"
+  },
+  {
+   "cn": "下合",
+   "en": "inferior conjunction",
+   "source": "天文学名词",
+   "wordNumber": "03.105",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "内行星位于地球与太阳之间发生的合。"
+  },
+  {
+   "cn": "错觉结合",
+   "en": "illusory conjunction",
+   "source": "生物物理学名词",
+   "wordNumber": "04.178",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "在注意分散或图像呈现时间很短时，把两个不同对象的不同特性错误地组合成一个新对象的现象。"
+  },
+  {
+   "cn": "连接组织",
+   "en": "conjunctive tissue",
+   "source": "植物学名词",
+   "wordNumber": "03.1014",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "(1)具异常生长的双子叶植物中与内函韧皮部相结合，并联结成同心带状的薄壁组织。如海榄雌属植物。(2)具次生加厚的单子叶植物中，存在于次生维管束之间的薄壁组织。如马钱子属植物。"
+  },
+  {
+   "cn": "合取查询",
+   "en": "conjunctive query",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0194",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "由基本查询项和命题连接词的合取构成的查询。可看成是受限的一阶谓词逻辑查询，关系数据库中的大部分查询均可用合取查询描述。"
+  },
+  {
+   "cn": "合取概念",
+   "en": "conjunctive concept",
+   "source": "心理学名词",
+   "wordNumber": "02.618",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据一类事物中单个或多个相同属性而形成的概念。这些属性在概念中必须同时存在。"
+  },
+  {
+   "cn": "合",
+   "en": "conjunction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合",
+   "en": "conjunction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最长肌",
+   "en": "longissimus\",\"longest muscle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "错觉结合",
+   "en": "illusory conjunction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地心合",
+   "en": "geocentric conjunction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近日点合",
+   "en": "perihelic conjunction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "上合",
+   "en": "superior conjunction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "下合",
+   "en": "inferior conjunction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "结合薄壁组织（=连接薄壁组织）",
+   "en": "conjunctive parenchyma",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连接薄壁组织，结合薄壁组织",
+   "en": "conjunctive parenchyma",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "联合利用",
+   "en": "conjunctive use",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合取概念",
+   "en": "conjunctive concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合取查询",
+   "en": "conjunctive query",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结膜",
+   "en": "conjunctiva\",\"conjunctive tunic",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "合取范式",
+   "en": "conjunctive normal form",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腱间结合",
+   "en": "intertendinous connection\",\"intertendinous conjunction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "结膜环",
+   "en": "conjunctival ring\",\"conjunctive ring",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颈最长肌",
+   "en": "longest muscle of neck\",\"longissimus cervicis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "头最长肌",
+   "en": "longissimus capitis\",\"longest muscle of head",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胸最长肌",
+   "en": "longissimus thoracis\",\"longest muscle of thorax",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "结膜炎",
+   "en": "conjunctivitis; pink eye",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无效比赛",
+   "en": "no contest",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛区",
+   "en": "contest area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛垫",
+   "en": "contest mat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停止比赛",
+   "en": "stop contest",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛时间",
+   "en": "contest time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最低分",
+   "en": "lowest mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实际比赛时间",
+   "en": "real contest time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "场",
+   "en": "bout\",\"contest\",\"fight\",\"match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结膜炎",
+   "en": "conjunctivitis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.4.1",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "由各种原因引起的结膜组织的炎症。以结膜充血、分泌物增多、怕光、流泪为常见症状。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "竞争性流动",
+   "en": "contest mobility",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.13",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "描述科学界地位流动的概念。科学界的精英地位是由有抱负的科学研究者通过自身努力、公开竞争获得的；竞争者之间是一种公平竞争的关系，并且竞争获得的精英地位也不是由原来精英所能够决定的。"
+  },
+  {
+   "cn": "传音性耳聋",
+   "en": "sound conduction deafness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于与传送声音振动有关的听觉器官结构的异常而产生的一种耳聋。"
+  },
+  {
+   "cn": "观察到有害作用最低水平",
+   "en": "lowest observed adverse effect level，LOAEL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.23",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在规定的试验条件下，外源化学物引起实验动物某种可观察到的损害作用的最低剂量或浓度。"
+  },
+  {
+   "cn": "战时陆勤部队日膳食最低能量及营养素供给量",
+   "en": "recommended lowest dietary allowance for ground force in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.2.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军人营养需要",
+   "subjectName": "军人营养需要",
+   "publishYear": "2025",
+   "definition": "在战时短时间内机体不产生不可逆变化，维持陆勤部队军人健康和基本作战能力所需提供的最低能量和营养素的数量，包括3 天和7 天作战时间的供给量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

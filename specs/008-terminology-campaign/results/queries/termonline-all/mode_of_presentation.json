@@ -1,0 +1,772 @@
+{
+ "key": "mode of presentation",
+ "term": "mode of presentation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:07:24+00:00",
+ "status": "ok",
+ "note": "variant=mode of presentation; 审定公布名词库=10000; 海峡两岸名词对照库=9036; 其他来源数据库=2040; 预公布名词数据库=2878; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "胎向",
+   "en": "presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.052",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿的方向。即胎儿在母体中身体纵轴与母体纵轴的关系。"
+  },
+  {
+   "cn": "产品展示",
+   "en": "presentation",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0640",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "销售人员将产品的详情讲述给买家，并着重阐述其顾客利益以及展示该产品如何解决顾客问题。是销售过程的一个阶段。"
+  },
+  {
+   "cn": "现在",
+   "en": "present",
+   "source": "物理学名词",
+   "wordNumber": "06.0076",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "胎先露",
+   "en": "fetal presentation",
+   "source": "急救医学名词",
+   "wordNumber": "03.626",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_妊娠",
+   "subjectName": "妊娠",
+   "publishYear": "2025",
+   "definition": "最先进入母体骨盆入口的胎儿部分。头最为常见，另有臀、肩，偶见复合先露。"
+  },
+  {
+   "cn": "胎先露",
+   "en": "fetal presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.01",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "最先进入母体骨盆入口的胎儿部分。"
+  },
+  {
+   "cn": "头先露",
+   "en": "cephalic presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.011",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿头部最先进入母体骨盆入口。"
+  },
+  {
+   "cn": "枕先露",
+   "en": "occipital presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.012",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿枕骨最先进入母体骨盆入口。胎头俯屈使下颏接近胸部。"
+  },
+  {
+   "cn": "面先露",
+   "en": "face presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.013",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿面部最先进入母体骨盆入口。胎头极度仰伸，胎儿枕部与胎背接触。多在临产后发现，经产妇多见。"
+  },
+  {
+   "cn": "额先露",
+   "en": "brow presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.014",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿额骨最先进入母体骨盆入口。胎头部分仰伸。"
+  },
+  {
+   "cn": "臀先露",
+   "en": "breech presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.015",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿臀部或胎儿足部最先进入母体骨盆入口。是最常见的异常胎位。可分为单臀先露、完全臀先露、不完全臀先露。以骶骨为指示点，有骶左前、骶左横、骶左后、骶右前、骶右横、骶右后6种胎方位。"
+  },
+  {
+   "cn": "肩先露",
+   "en": "shoulder presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.019",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿横产式，胎儿肩部最先进入母体骨盆入口。"
+  },
+  {
+   "cn": "复合先露",
+   "en": "compound presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎先露部伴有胎儿肢体同时进入骨盆入口。临床以一手或一前臂沿胎头脱出最常见，多发生于早产者。"
+  },
+  {
+   "cn": "高直位",
+   "en": "sincipital presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "18.04",
+   "subjectFullName": "异常分娩_胎位异常",
+   "subjectName": "胎位异常",
+   "publishYear": "2025",
+   "definition": "胎头以不屈不伸的姿势位于骨盆入口，其矢状缝与骨盆入口平面前后径一致的一种胎位异常。"
+  },
+  {
+   "cn": "配体提呈",
+   "en": "ligand presentation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.034",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "通过细胞表面的分子与特异性配体结合而使配体浓缩富集，然后提呈给同一细胞或其他细胞上受体的现象。如在脂代谢中蛋白聚糖提呈脂蛋白相关蛋白质的配体载脂蛋白E等。"
+  },
+  {
+   "cn": "抗原提呈",
+   "en": "antigen presentation",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.3.1.5",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "表达于细胞表面的抗原肽-主要组织相容性复合体分子复合物被T细胞识别，从而将抗原肽提呈给T细胞，诱导T细胞活化的过程。"
+  },
+  {
+   "cn": "横向",
+   "en": "transverse presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.057",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿纵轴与母体纵轴呈水平垂直的 胎向。"
+  },
+  {
+   "cn": "纵向",
+   "en": "longitudinal presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.058",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "在子宫内胎儿身体纵轴与母体身体纵轴平行的胎向。"
+  },
+  {
+   "cn": "竖向",
+   "en": "vertical presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.059",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿纵轴与母体纵轴呈上下垂直的 胎向。"
+  },
+  {
+   "cn": "背横向",
+   "en": "dorsotransverse presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.060",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿横卧于子宫内,背部朝着母体骨盆入口的胎向。"
+  },
+  {
+   "cn": "背竖向",
+   "en": "dorsovertical presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.061",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿竖立于子宫中,背部向着母体骨盆入口,头部在上,头和四肢呈屈曲状态的胎向。"
+  },
+  {
+   "cn": "求爱行为",
+   "en": "presenting",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "提示汇票",
+   "en": "presentation of bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现值",
+   "en": "present value\",\"present worth",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双耳呈现",
+   "en": "binaural presentation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我呈现",
+   "en": "self presentation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "样品预处理",
+   "en": "sample presentation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "交叉提呈",
+   "en": "cross-presentation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗原提呈",
+   "en": "antigen presentation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "配体提呈",
+   "en": "ligand presentation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据表达",
+   "en": "data presentation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形表示[法]",
+   "en": "graphic presentation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图表示法",
+   "en": "cartographic presentation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "互补色立体显示",
+   "en": "anaglyphic presentation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "表示层",
+   "en": "presentation layer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "书写方向",
+   "en": "presentation direction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "办理许可证",
+   "en": "presentation of license document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现代气候",
+   "en": "present climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "现在天气",
+   "en": "present weather",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提示银行",
+   "en": "presenting bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现价",
+   "en": "present price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "传播方式",
+   "en": "mode of transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可扩展模式",
+   "en": "scalable mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "担保模式",
+   "en": "guarantee mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "两仪",
+   "en": "Two Modes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "颁奖台",
+   "en": "presentation pontoon\",\"victory dais",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纯线上模式",
+   "en": "pure online mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "纯平台模式",
+   "en": "pure platform mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据更新模式",
+   "en": "data update mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "查询引用模式",
+   "en": "query reference mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "批量复制模式",
+   "en": "bulk copy mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宫调",
+   "en": "Gongdiao (Musical Modes)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经世致用",
+   "en": "Study of Ancient Classics Should Meet Present Needs.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "债权转让模式",
+   "en": "creditors’ right transfer mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小贷平台模式",
+   "en": "small loan platform mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比对验证模式",
+   "en": "comparison and verification mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自觉接受医学观察",
+   "en": "to present yourself to medical observation ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自我呈现",
+   "en": "self-presentation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "任何旨在制造、保持、修改他人对自己的印象的行为，系社会互动的一个重要方面。由美国社会学家戈夫曼(Erving Goffman）提出的相关理论认为，人们总是倾向于通过根据当下的社会情景或人际背景，有意识"
+  },
+  {
+   "cn": "存在死亡危险",
+   "en": "present risk of death",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.5",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "在某一种组合危险分数下，因某种疾病死亡的可能危险性。其计算公式为疾病别平均死亡率乘以该疾病危险分数。"
+  },
+  {
+   "cn": "现状",
+   "en": "present situation",
+   "source": "马克思主义",
+   "wordNumber": "03.0205",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "目前的状况，是现有的自然界和社会现象所揭示的事物有规则的存在方式。"
+  },
+  {
+   "cn": "法律形态",
+   "en": "mode of law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学",
+   "subjectName": "法律社会学",
+   "publishYear": "2025",
+   "definition": "涂尔干根据制裁形式的不同将法律分为不同的形态。"
+  },
+  {
+   "cn": "生产方式",
+   "en": "mode of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0003",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在谋取社会生活所必需的物质资料的生产过程中形成的人和自然界之间以及人与人之间的相互关系的体系，生产力是其物质内容，生产关系是其社会形式。生产方式是生产力和生产关系在物质资料生产过程中的统一，是社会劳动"
+  },
+  {
+   "cn": "分娩方式",
+   "en": "mode of delivery",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.17",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "妊娠达到及超过28周，胎儿及附属物从临产开始至全部从母体娩出的方式，包括阴道分娩及剖宫产两大类。"
+  },
+  {
+   "cn": "传播方式",
+   "en": "mode of transmission",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "从传染源至侵入新的易感宿主前，在外环境中所经历的全部过程"
+  },
+  {
+   "cn": "日常生活视力",
+   "en": "presenting visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在日常屈光状态下的视力。平时未戴眼镜者，为裸眼视力；平时戴眼镜者，则为戴眼镜状态下所测得视力；如已配眼镜但日常生活中并不戴用，则仍以裸眼视力反映。"
+  },
+  {
+   "cn": "作用模式",
+   "en": "mode of action, MOA",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.51",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物在机体不同层次生物学水平发生作用的关键事件和过程，包括外源化学物进入机体与细胞生物分子交互作用开始、由证据权重支持可能导致毒性终点的一组事件。"
+  },
+  {
+   "cn": "资本主义生产方式",
+   "en": "capitalist mode of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0174",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "私有资本剥削雇佣劳动的生产方式。资本主义生产方式一开始就具有两个特征：第一，商品生产占统治地位，连工人的劳动力也变成了商品。第二，剩余价值的生产是生产的直接目的和决定动机。"
+  },
+  {
+   "cn": "亚细亚生产方式",
+   "en": "Asian mode of production",
+   "source": "马克思主义",
+   "wordNumber": "03.0209",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思于1859年在《〈政治经济学批判〉序言》中讲到的一种生产方式。他说：“大体说来，亚细亚的、古代的、封建的和现代资产阶级的生产方式可以看作是社会经济形态演进的几个时代。”70年代后不再使用。我国多"
+  },
+  {
+   "cn": "亚细亚生产方式",
+   "en": "asiatic mode of production",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0595",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "马克思在1859 年发表的《政治经济学批判·序言》中首次提出的。其中写道：“大体说来，亚细亚的、古代的、封建的和现代资产阶级的生产方式可以看作是社会经济形态演进的几个时代。”在这里，马克思研究的是整个"
+  },
+  {
+   "cn": "作用方式",
+   "en": "action mode",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.7.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒因子对消毒对象的作用形式，包括浸泡、擦拭、喷雾、冲洗等。"
+  },
+  {
+   "cn": "连续方式",
+   "en": "continuous mode",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.56",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线发生装置中电能以连续形式施加于X射线管的加载方式。"
+  },
+  {
+   "cn": "间歇方式",
+   "en": "intermittent mode",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.57",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线发生装置中电能以单次、间歇或脉冲形式施加于X射线管的加载方式。"
+  },
+  {
+   "cn": "钟摆模式",
+   "en": "pendulum mode",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0607",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "英国人类学家埃德蒙·利奇（Edmund Ronald Leach）在《缅甸高地的政治制度》一书中的概念。本书是通过对缅甸境内靠近中国云南省的克钦人社会制度的描述，重点介绍了克钦人和掸人的社会组织模式，"
+  },
+  {
+   "cn": "题材模式",
+   "en": "topic mode",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0445",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "科隆父子对民间创作按情节类型进行分类，做出索引，“题材模式”即是一种“固定不变的情节组合”。"
+  },
+  {
+   "cn": "工人自治的经济模式",
+   "en": "economic mode of workers autonomy",
+   "source": "马克思主义",
+   "wordNumber": "05.0175",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "南斯拉夫探索符合本国情况和社会主义本质的具体体制模式。1950年南斯拉夫联邦国民议会颁制《关于劳动集体管理国营经济企业和高级经济联合组织的基本法》，规定一切国营企业作为公共财产，由劳动集体代表社会，根"
+  },
+  {
+   "cn": "抗原提呈细胞",
+   "en": "antigen presenting cell, APC",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.25",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "一类参与适应性免疫应答的重要性细胞类型。其功能为：①摄取和加工抗原，并使抗原肽与MHC分子形成复合物而呈现于细胞表面，共T细胞识别；②组成性或诱导性表达多种共刺激分子，通过对T细胞表面相应配体结合而提"
+  },
+  {
+   "cn": "非专职性抗原提呈细胞",
+   "en": "non-professional antigen presenting cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.26",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "仅在炎症因子刺激下才诱导性表达MHCII类分子和共刺激分子,并因此具有抗原提呈功能的细胞。包括内皮细胞、上皮细胞、成纤维细胞等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

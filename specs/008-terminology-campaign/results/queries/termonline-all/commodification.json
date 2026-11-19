@@ -1,0 +1,32 @@
+{
+ "key": "commodification",
+ "term": "commodification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:28:37+00:00",
+ "status": "ok",
+ "note": "variant=commodification; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "媒体商品化",
+   "en": "media commodification",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.021",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "将媒体信息或者其他文化内容作为商品进行售卖的趋势。这一概念将媒体和文化当作资本主义生产和再生产系统的一个组成部分来分析，是传播政治经济研究的主要切入点之一。"
+  },
+  {
+   "cn": "商品化",
+   "en": "commodification",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.30",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "原本不属于买卖流通和通过货币实行交换的事物，在市场经济条件下已经转化或变异为可以进行买卖和货币等价交换的商品的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

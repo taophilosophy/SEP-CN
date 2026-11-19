@@ -1,0 +1,742 @@
+{
+ "key": "grand-canonical distribution",
+ "term": "grand-canonical distribution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:54:06+00:00",
+ "status": "ok",
+ "note": "variant=grand-canonical distribution; 审定公布名词库=2355; 海峡两岸名词对照库=918; 其他来源数据库=78; 预公布名词数据库=60; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "巨正则分布",
+   "en": "grand canonical distribution",
+   "source": "物理学名词",
+   "wordNumber": "05.0543",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "巨正则系综",
+   "en": "grand canonical ensemble",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.106",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "表示具有确定的化学位（μ）、体积（V）、温度（T）的系综。"
+  },
+  {
+   "cn": "巨正则系综",
+   "en": "grand canonical ensemble",
+   "source": "物理学名词",
+   "wordNumber": "05.0541",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "巨正则系综",
+   "en": "grand canonical ensemble",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0318",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "系综内各体系的体积相同，每个体系都可以和其他体系交换能量和粒子，但系综的能量总和以及粒子数总和是固定的。系综内各个体系有相同的温度和化学势。"
+  },
+  {
+   "cn": "巨正则系综",
+   "en": "grand-canonical ensemble",
+   "source": "化学工程名词",
+   "wordNumber": "02.319",
+   "subjectFullName": "化学工程_化工热力学_分子间力、溶液理论与统计热力学",
+   "subjectName": "分子间力、溶液理论与统计热力学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "正则分布",
+   "en": "canonical distribution",
+   "source": "物理学名词",
+   "wordNumber": "05.0540",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "半巨正则系综",
+   "en": "semi-grand canonical ensemble",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.107",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "正则系综与巨正则系综的杂和，是在模拟混合物体系时所采用的一种系综。体系的总粒子数恒定，但每一种组分的粒子数则是变化的。"
+  },
+  {
+   "cn": "巨正则配分函数",
+   "en": "grand canonical partition function",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0319",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "巨正则系综中系统的配分函数。能描述巨正则系综中系统所有可能的状态的统计和。"
+  },
+  {
+   "cn": "巨正则配分函数",
+   "en": "grand canonical partition function",
+   "source": "化学名词",
+   "wordNumber": "04.0246",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "巨正则系综的配分函数。"
+  },
+  {
+   "cn": "巨正则配分函数",
+   "en": "grand-canonical partition function",
+   "source": "化学工程名词",
+   "wordNumber": "02.320",
+   "subjectFullName": "化学工程_化工热力学_分子间力、溶液理论与统计热力学",
+   "subjectName": "分子间力、溶液理论与统计热力学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "曾祖代",
+   "en": "grand-grand parents,GGP",
+   "source": "畜牧学名词",
+   "wordNumber": "04.565",
+   "subjectFullName": "畜牧学_遗传育种_品系繁育",
+   "subjectName": "品系繁育",
+   "publishYear": "2020",
+   "definition": "通常指杂交体系中终端个体的曾祖代亲本。"
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.104",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "系综里每个体系的粒子数和体积是固定且相同的，每个体系都可以和其他体系交换能量，但是系综里所有体系的能量总和是固定的，系综内各体系有相同的温度。"
+  },
+  {
+   "cn": "正则方程",
+   "en": "canonical equation",
+   "source": "物理学名词",
+   "wordNumber": "02.0601",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则量子化",
+   "en": "canonical quantization",
+   "source": "物理学名词",
+   "wordNumber": "09.0914",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则坐标",
+   "en": "canonical coordinate",
+   "source": "物理学名词",
+   "wordNumber": "02.0599",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "物理学名词",
+   "wordNumber": "05.0539",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0316",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "系综里的每个体系的粒子数和体积是固定且相同的，每个体系都可以和其他体系交换能量，但是系综里所有体系的能量总和是固定的，系综内各体系有相同的温度。"
+  },
+  {
+   "cn": "正则动量",
+   "en": "canonical momentum",
+   "source": "物理学名词",
+   "wordNumber": "02.0600",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则对易子",
+   "en": "canonical commutator",
+   "source": "物理学名词",
+   "wordNumber": "06.0458",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则变换",
+   "en": "canonical transformation",
+   "source": "物理学名词",
+   "wordNumber": "02.0605",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "巨正则系综",
+   "en": "grand canonical ensemble",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "巨正则系综",
+   "en": "grand canonical ensemble",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "巨正则配分函数",
+   "en": "grand canonical partition function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "巨正则配分函数",
+   "en": "grand canonical partition function",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "卡农",
+   "en": "canon",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无终卡农",
+   "en": "infinite canon\",\"perpetual canon",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "典范矩阵",
+   "en": "canonical matrix",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "典型变数",
+   "en": "canonical variable",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "典型方程",
+   "en": "canonical equation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "典型回归",
+   "en": "canonical regression",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "典型相关",
+   "en": "canonical correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正则变换",
+   "en": "canonical transformation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正则方程",
+   "en": "canonical equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "典范矩阵",
+   "en": "canonical matrix",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正则坐标",
+   "en": "canonical coordinate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正则形式",
+   "en": "canonical form",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "典范相关,典型相关",
+   "en": "canonical correlation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "典范相关",
+   "en": "canonical correlation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "全垒打",
+   "en": "grand slam\",\"grand slammer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛马大奖赛",
+   "en": "Grand Prix",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "洪范",
+   "en": "The Grand Rules",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大收煞",
+   "en": "The Grand Finale",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际箭联淘汰赛",
+   "en": "grand FITA round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛马特别大奖赛",
+   "en": "Grand Prix Special",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统计分布",
+   "en": "statistical distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正态分布",
+   "en": "normal distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分配公平化",
+   "en": "fair distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值分配",
+   "en": "value distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分配正义",
+   "en": "distributive justice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式数据库",
+   "en": "distributed database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式查询",
+   "en": "distributed query",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教会法",
+   "en": "canon law",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.5",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "包括罗马天主教、东正教和新教的圣公会等在内的基督教会在不同时期制订的各种法律和规则的总和，限定了教会本身的组织、制度，规定了教徒的生活准则，例如财产、婚姻与家庭、继承、犯罪、刑法与诉讼等。"
+  },
+  {
+   "cn": "典型相关分析",
+   "en": "canonical correlation analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.71",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "利用两个综合变量之间的相关关系反映两组指标之间的整体相关性的多元统计分析方法。由美国数理统计学家荷泰林首先提出。"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.30",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素进入体内后沉积到组织或器官内的过程。"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "变量的各个取值上研究单位的出现次数所形成的总体状况。"
+  },
+  {
+   "cn": "分配",
+   "en": "distribution",
+   "source": "马克思主义",
+   "wordNumber": "02.0007",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会再生产过程的一个环节。分为生产要素的分配和消费资料的分配。前者属所有制范畴，后者属个人或经济群体之间的分配范畴。"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.2.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "外源化学物被吸收后，随血液或淋巴液分散到全身组织细胞的过程。"
+  },
+  {
+   "cn": "累积分布",
+   "en": "cumulative distribution cumulative distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.24",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "按照变量值的大小、顺序排列出累加的观测数的分布形态。"
+  },
+  {
+   "cn": "剂量分布",
+   "en": "dose distribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.21.6",
+   "subjectFullName": "食品卫生学_食品_辐照食品",
+   "subjectName": "辐照食品",
+   "publishYear": "2025",
+   "definition": "最高吸收剂量的极限值和最低吸收剂量在整个批量产品中吸收剂量的空间分布。"
+  },
+  {
+   "cn": "分配系数",
+   "en": "distribution coefficient",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.70",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "一个组分在两个互不相溶的相态中的浓度的比值。"
+  },
+  {
+   "cn": "选择性分布",
+   "en": "selective distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.32",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素选择在某些特定器官或组织分布的现象。"
+  },
+  {
+   "cn": "正态分布",
+   "en": "normal distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "概率密度函数为的统计分布。该分布由两个参数——平均值（）和方差（）决定。其概率密度函数曲线以均值为对称中线单峰统计分布，曲线的高峰位于中央；方差越小，分布越集中在均值附近。"
+  },
+  {
+   "cn": "二项分布",
+   "en": "binomial distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "n个独立的“是/非”试验中成功的次数的离散概率分布。二项分布的概率函数为，表示在n次试验中有x次成功的概率，其中每次试验的成功概率为p。"
+  },
+  {
+   "cn": "t分布",
+   "en": "t distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "具有不同自由度的一组以均值为对称中线的单峰统计分布。假设X服从标准正态分布N（0,1），Y服从，的分布则称为自由度为n的t分布，记为。"
+  },
+  {
+   "cn": "频次分布",
+   "en": "frequency distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个变量所有取值上或类别上的观测数的分布形态。"
+  },
+  {
+   "cn": "f分布",
+   "en": "f distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个服从卡方分布的独立随机变量各除以其自由度后的比值的抽样分布。"
+  },
+  {
+   "cn": "联合分布",
+   "en": "joint distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个或两个以上随机变量的概率分布函数。"
+  },
+  {
+   "cn": "多项分布",
+   "en": "multinomial distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.27",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在每次试验具有多个可能结局的情况下，n次试验独立试验中各种可能结局出现次数的离散概率分布。二项分布的概率函数为，其中为可能结局的出现次数，为每次试验中各个结局出现的概率。"
+  },
+  {
+   "cn": "泊松分布",
+   "en": "Poisson distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.29",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "描述单位时间（或单位面积）内随机事件发生次数的离散概率分布。其概率密度函数为，其中λ为单位时间（或单位面积）内随机事件的平均发生率。"
+  },
+  {
+   "cn": "抽样分布",
+   "en": "sampling distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.30",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在既定统计设计条件下，所有可能得到的样本的特定统计值的概率分布。"
+  },
+  {
+   "cn": "人口分布",
+   "en": "population distribution",
+   "source": "社会学名词",
+   "wordNumber": "4.5.9.1",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口分布",
+   "subjectName": "人口分布",
+   "publishYear": "2025",
+   "definition": "人口居住与分布的模式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,442 @@
+{
+ "key": "bilateralism",
+ "term": "bilateralism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:29:11+00:00",
+ "status": "ok",
+ "note": "variant=bilateralism; 审定公布名词库=72; 海峡两岸名词对照库=35; 其他来源数据库=1; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "双向[性]",
+   "en": "bilateral",
+   "source": "电子学名词",
+   "wordNumber": "03.328",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "双边贸易",
+   "en": "bilateral trade",
+   "source": "农学名词",
+   "wordNumber": "19.136",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "两国（地区）之间的贸易。"
+  },
+  {
+   "cn": "双侧破裂",
+   "en": "bilateral faulting",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1485",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "破裂区域前缘朝相反的两个方向扩展的地震破裂方式。 "
+  },
+  {
+   "cn": "双方契约",
+   "en": "bilateral contract",
+   "source": "行为医学名词",
+   "wordNumber": "20.039",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "为改变双方的靶行为，双方签订契约，确定期待对方改变的靶行为，以及将要实施的强化或惩罚措施。"
+  },
+  {
+   "cn": "两侧对称卵裂",
+   "en": "bilateral cleavage",
+   "source": "动物学名词",
+   "wordNumber": "4.0228",
+   "subjectFullName": "动物学_动物胚胎学_胚胎卵裂",
+   "subjectName": "胚胎卵裂",
+   "publishYear": "2021",
+   "definition": "主要为被囊动物（如海鞘）所特有的一种卵裂方式。第一次卵裂的卵裂面是胚胎唯一的对称面，该裂面把受精卵分为左右两半。在随后的卵裂过程中，左侧的一半形成的半个胚胎恰好是右侧的一半形成的半个胚胎的镜像。"
+  },
+  {
+   "cn": "双边垄断",
+   "en": "bilateral monopoly",
+   "source": "经济学名词",
+   "wordNumber": "03.140",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "只存在一个买方和一个卖方的市场结构。双边垄断市场中的商品没有相似的替代品，卖方没有其他潜在的买者，买方也没有其他潜在的卖者。一般而言，双边垄断市场中商品和要素的价格及数量是由买卖双方通过谈判等讨价还价"
+  },
+  {
+   "cn": "双边贸易",
+   "en": "bilateral trade",
+   "source": "经济学名词",
+   "wordNumber": "13.097",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "两个国家或地区之间采用双边支付结算的方式进行的贸易。"
+  },
+  {
+   "cn": "双边协定",
+   "en": "bilateral agreement",
+   "source": "电力名词",
+   "wordNumber": "06.192",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "两个控制中心之间的协定。该协定标识可访问的数据元素和对象以及允许访问的程度。"
+  },
+  {
+   "cn": "双边表",
+   "en": "bilateral table",
+   "source": "电力名词",
+   "wordNumber": "06.193",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "双边协定的一种计算机表示法。所使用的具体表示方法由当地确定。"
+  },
+  {
+   "cn": "双边交易",
+   "en": "bilateral trading",
+   "source": "电力名词",
+   "wordNumber": "06.239",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "买卖双方(或其代理机构)本着自愿、互利原则,通过双方协商,签订双边合同(包括交易量及其价格等)的交易方式。"
+  },
+  {
+   "cn": "双侧约束",
+   "en": "bilateral constraint",
+   "source": "物理学名词",
+   "wordNumber": "02.0573",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "双边滤波",
+   "en": "bilateral filter",
+   "source": "生物物理学名词",
+   "wordNumber": "02.381",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "一种图像的保边降噪平滑的计算方法。能够有效去除电镜图像中的噪声并同时保留图像中的边界信息。每个像素点在处理后的数值不仅与周边的像素点数值有关，还与该像素点同周边像素点的相似程度有关，相似程度高则平滑效"
+  },
+  {
+   "cn": "双侧睾丸切除术",
+   "en": "bilateral orchiectomy",
+   "source": "泌尿外科学名词",
+   "wordNumber": "11.342",
+   "subjectFullName": "泌尿外科学_泌尿、男性生殖系统手术",
+   "subjectName": "泌尿、男性生殖系统手术",
+   "publishYear": "2014",
+   "definition": "通常采用经阴囊正中切口，于壁层鞘膜外分离并切除睾丸、附睾、精索等阴囊内容物的手术方式。多用于双侧睾丸坏死、萎缩、严重损伤者或局部晚期及转移性前列腺癌需去势治疗者。"
+  },
+  {
+   "cn": "两侧对称",
+   "en": "bilateral symmetry",
+   "source": "古生物学名词",
+   "wordNumber": "02.0513",
+   "subjectFullName": "古生物学_古无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2009",
+   "definition": "壳体左右对称。"
+  },
+  {
+   "cn": "双侧齿轮机构",
+   "en": "bilateral gearing",
+   "source": "电气工程名词",
+   "wordNumber": "20.107",
+   "subjectFullName": "电气工程_电力牵引",
+   "subjectName": "电力牵引",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "双侧传动",
+   "en": "bilateral transmission",
+   "source": "电气工程名词",
+   "wordNumber": "20.217",
+   "subjectFullName": "电气工程_电力牵引",
+   "subjectName": "电力牵引",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "双侧约束",
+   "en": "bilateral constraint",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "双侧平衡",
+   "en": "bilateral equilibration",
+   "source": "医学名词 第二分册",
+   "wordNumber": "09.072",
+   "subjectFullName": "医学_口腔医学_可摘局部义齿修复学、全口义齿修复学",
+   "subjectName": "可摘局部义齿修复学、全口义齿修复学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "双侧断裂",
+   "en": "bilateral faulting",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "双侧唇裂",
+   "en": "bilateral cleft lip,bilateral harelip",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0671",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "双向[性]",
+   "en": "bilateral",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称卵裂",
+   "en": "bilateral cleavage",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "双向狭缝",
+   "en": "bilateral slit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双边合伙人",
+   "en": "bilateral partner",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边合同",
+   "en": "bilateral contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边价格",
+   "en": "bilateral price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边交易",
+   "en": "bilateral transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边贸易",
+   "en": "bilateral trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边清算",
+   "en": "bilateral clearing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边税率",
+   "en": "bilateral tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边谈判",
+   "en": "bilateral negotiation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边套利",
+   "en": "bilateral arbitrage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边条约",
+   "en": "bilateral treaty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边协定",
+   "en": "bilateral convention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边协商",
+   "en": "bilateral consultation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边协议配额",
+   "en": "bilateral quota",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边援助",
+   "en": "bilateral assistance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边支付",
+   "en": "bilateral payment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "两侧对称",
+   "en": "bilateral symmetry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "对称卵裂",
+   "en": "bilateral cleavage",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "两侧呼吸",
+   "en": "bilateral breathing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双系亲属关系",
+   "en": "bilateral kinship",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.39",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "承认父母双方的血缘，同等地沿着父母双方的家系扩展亲属网络，亲属间相互的正式权利和职责均双系计算的亲属关系。 与单系亲属关系相对。"
+  },
+  {
+   "cn": "双系家庭",
+   "en": "bilateral family",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0373",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由母系氏族制向父系氏族制过渡时期的家庭形式。在双系家庭中，包括母系和父系血统的成员，大家处于平等的地位，世系和财产按母系和父系两系继承。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

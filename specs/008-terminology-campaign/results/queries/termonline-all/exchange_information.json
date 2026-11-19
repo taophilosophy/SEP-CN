@@ -1,0 +1,692 @@
+{
+ "key": "exchange information",
+ "term": "exchange information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:19:47+00:00",
+ "status": "ok",
+ "note": "variant=exchange information; 审定公布名词库=4203; 海峡两岸名词对照库=1386; 其他来源数据库=676; 预公布名词数据库=151; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "信息交换",
+   "en": "information exchange",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0039",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "不改变信息内容或含义的信息发送或接收。"
+  },
+  {
+   "cn": "信息交换",
+   "en": "information exchange",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0150",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "各类信息组织之间相互提供彼此所需信息的过程。"
+  },
+  {
+   "cn": "信息交换",
+   "en": "information exchange",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.109",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "信息交换",
+   "en": "information exchange,information interchange",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.236",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "信息占有者向对方提供信息的交互过程，即各方将自身所拥有的信息提供给对方，同时从对方获取相关信息的过程。通过信息交换，各方可以实现信息共享。"
+  },
+  {
+   "cn": "ONIX",
+   "en": "online information exchange",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.074",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "一种描述、传递和交换丰富出版物元数据的国际标准，用于图书、连续出版物及各种媒体电子出版物信息的基础标准和贸易标准。目前已开发了面向不同类型出版物信息交换标准，如ONIX for Books、 ONIX"
+  },
+  {
+   "cn": "金融信息交换",
+   "en": "financial information exchange",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1406",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "为证券交易市场提供的国际实时电子通信协议。"
+  },
+  {
+   "cn": "情报交换小组",
+   "en": "information exchange group",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0522",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "利用看不见的学院，试图把某一学科领域的科学家之间的情报交流传递正规化的组织。"
+  },
+  {
+   "cn": "信息交换格式",
+   "en": "information exchange format,format for information exchange",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.295",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_现代图书情报技术",
+   "subjectName": "现代图书情报技术",
+   "publishYear": "2019",
+   "definition": "用户将电子数据在系统之间进行传输和数据交换时共同遵循和使用的标准记录格式，如图书馆进行书目信息交换的格式是“机读目录通信格式”。"
+  },
+  {
+   "cn": "信息交换中心",
+   "en": "information clearing house,information exchange center",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2019",
+   "definition": "数据或信息的交换机构。负责收集、保存和向其他机构或个人提供某个领域的数据、信息。原为金融术语，指银行的票据交换所，后借用到情报学领域。"
+  },
+  {
+   "cn": "交换",
+   "en": "exchange",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.003",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "人与人之间发生的短暂的意见交流、争论或为加强相互联系而建立的某种特定类型的互换活动。"
+  },
+  {
+   "cn": "交换",
+   "en": "exchange",
+   "source": "经济学名词",
+   "wordNumber": "01.008",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "连接生产及由生产决定的分配和消费的中间环节，是社会再生产过程的不可缺少的重要组成部分。在社会再生产过程中，交换的性质、深度、广度和方式都是由生产的性质、发展水平和结构决定的。交换对生产也具有反作用，它"
+  },
+  {
+   "cn": "交易所",
+   "en": "exchange",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0192",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "金融资产按照标准化的程序进行集中交易的场所。"
+  },
+  {
+   "cn": "交换",
+   "en": "exchange",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0012",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "通过提供回报之物而从他人处获取所欲之物的过程。"
+  },
+  {
+   "cn": "交换局",
+   "en": "exchange",
+   "source": "电子学名词",
+   "wordNumber": "21.327",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可交换[的]",
+   "en": "exchangeable",
+   "source": "数学名词",
+   "wordNumber": "09.0043",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数字地理信息交换标准",
+   "en": "digital geographic information exchange standard,DIGEST",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.471",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "由数字地理信息工作小组(DGIWG)制定的空间数据交换标准，用以实现全国或国际间以及用户间的互操作与兼容性。该标准涵盖所有的数据形态，如栅格、矩阵、矢量(以及相关的文本数据)数据等。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.09",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "①与物质、能量一起构成基本的存在形式。按照信息论的定义, 信息就是不确定性的消除。②以文字、图像、音视频、姿态、纪念物等符号或空间布局、位置排序等为载体的表现形式，可以被人或其他接收端所采集、感知和识"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "经济学名词",
+   "wordNumber": "10.181",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "世界上一切事物的状态和特征的反映。它普遍存在于自然界、人类社会、人们的认识及思维过程中。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.017",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "广义指客观事物存在、运动和变化的方式、特征、规律及其表现形式。狭义指用来消除随机不确定性的东西。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0029",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "处理后的数据。可用于人们对管理和决策的支持。"
+  },
+  {
+   "cn": "交换剂",
+   "en": "exchanger",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "交换器",
+   "en": "exchanger",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数字地理信息交换标准",
+   "en": "digital geographic information exchange standard\",\"DIGEST",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同位素交换",
+   "en": "isotopic exchange\",\"isotope exchange",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "国际海洋数据及信息交换",
+   "en": "International Oceanographic Data and Information Exchange\",\"IODE",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "交换局",
+   "en": "exchange\",\"EX",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离子交换",
+   "en": "ion exchange",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阳离子置换",
+   "en": "cation exchange",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阴离子交换",
+   "en": "anion exchange",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动量交换",
+   "en": "momentum exchange",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "离子交换",
+   "en": "ion exchange",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湍流交换",
+   "en": "turbulent exchange",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "交换吸附",
+   "en": "exchange adsorption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "换热",
+   "en": "heat exchange",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "军地信息交流平台",
+   "en": "military-civilian information exchange platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用信息共享交换平台",
+   "en": "credit information sharing and exchange platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息交换用汉字编码字符集",
+   "en": "Chinese coded character set for information exchange",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《网络安全信息交换框架》（国际电信联盟）",
+   "en": "Cybersecurity Information Exchange Framework (International Telecommunication Union)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值交换",
+   "en": "value exchange",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "汇率风险",
+   "en": "exchange risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据交换",
+   "en": "data exchange",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "卫生信息共享",
+   "en": "health information exchange",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "为了充分发挥卫生信息的潜在价值，在一定范围内的组织和成员共同分享信息，力求最大限度利用信息的行为。"
+  },
+  {
+   "cn": "交换",
+   "en": "exchange",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "个人或集团之间围绕人或物的互换行为。一般伴随着严格的互换规则，并由此形成相对稳定的互惠关系。"
+  },
+  {
+   "cn": "交换",
+   "en": "exchange",
+   "source": "马克思主义",
+   "wordNumber": "02.0034",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们以自己的活动和劳动产品换取他人的活动和劳动产品的过程，是一定历史时期社会再生产的要素之一。通过交换，劳动产品进入消费过程，以满足人们的某种需要。包括生产中的劳动交换、商品交换、产品交换等。"
+  },
+  {
+   "cn": "交换",
+   "en": "exchange",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0159",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们相互交换活动或交换劳动产品的过程，主要包括人们在生产中发生的各种活动和能力的交换，以及一般产品和商品的交换。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "交换市场",
+   "en": "exchange market",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.13",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "生产者与消费者以价格和货币为中介进行物品交易的产品和服务的需求总和。建立在“获利”这一动机上、经由价格决定的市场进行物品分配。"
+  },
+  {
+   "cn": "代际交换",
+   "en": "intergenerational exchange",
+   "source": "社会学名词",
+   "wordNumber": "3.16.5.8",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_代际",
+   "subjectName": "代际",
+   "publishYear": "2025",
+   "definition": "家庭、社区乃至更大范围内的不同代人群之间增强沟通、相互协作，从而实现增强自我价值、减少孤立和无助感、促进学业成绩、发展新的友谊和社会联系的活动。最早兴起于欧洲和美国，在中文语境中，也指代与代之间交换产"
+  },
+  {
+   "cn": "商品交换",
+   "en": "commodity exchange",
+   "source": "马克思主义",
+   "wordNumber": "02.0030",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品所有者按照等价交换原则，在自愿基础上相互让渡商品所有权的经济行为和过程。"
+  },
+  {
+   "cn": "等价交换",
+   "en": "equivalent exchange",
+   "source": "马克思主义",
+   "wordNumber": "02.0035",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不同使用价值按照由社会必要劳动时间决定的价值量进行等量互换的交易行为，是商品经济的基础法则。市场价格围绕市场价值的运动，使价格在趋势上与价值趋于一致，是等价交换原则的表现形式。"
+  },
+  {
+   "cn": "交换价值",
+   "en": "exchange value",
+   "source": "马克思主义",
+   "wordNumber": "02.0037",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "交换价值是商品所具有的可用于交换的属性，是价值的表现形式，表现为一种商品与另一种商品交换的一定比例关系。"
+  },
+  {
+   "cn": "社会交换",
+   "en": "social exchange",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0089",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "社会中人与人、人与组织之间的利益“提供”与“接受”的关系。在一定的条件下，人人都是“提供”方，也都是“接受”方，可用来交换的资源有感情、时间、技术、努力、服务、物质、金钱、信息和地位。"
+  },
+  {
+   "cn": "热交换",
+   "en": "heat exchange",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.6.1.1",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷损伤",
+   "subjectName": "冷损伤",
+   "publishYear": "2025",
+   "definition": "人体与外环境之间以热能形式进行的能量交换。"
+  },
+  {
+   "cn": "交换婚",
+   "en": "exchange marriage",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0362",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "古代氏族外婚的一种古俗形式，是两个氏族的男方协议互换其姊妹为妻，或互换其女儿为媳的做法，是一种几乎完全对等的交换议婚形式。"
+  },
+  {
+   "cn": "民族交往",
+   "en": "ethnic exchanges",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0085",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "不同的民族或不同民族身份的个人、家庭、组织等，在一定规范约束下做出的有目的的互动性实践。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

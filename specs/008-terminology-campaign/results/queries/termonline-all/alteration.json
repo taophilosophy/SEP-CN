@@ -1,0 +1,592 @@
+{
+ "key": "alteration",
+ "term": "alteration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:25:13+00:00",
+ "status": "ok",
+ "note": "variant=alteration; 审定公布名词库=255; 海峡两岸名词对照库=57; 其他来源数据库=4; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "蚀变作用",
+   "en": "alteration",
+   "source": "地质学名词",
+   "wordNumber": "14.04.002",
+   "subjectFullName": "地质学_矿床学_围岩蚀变",
+   "subjectName": "围岩蚀变",
+   "publishYear": "2026",
+   "definition": "岩石、矿物受到热液、地表水、海水及其他作用，物理化学条件发生改变，使原岩的结构、构造以及成分发生改变，生成新的矿物或矿物组合的过程。围岩蚀变、化学风化和变质交代作用都属于蚀变作用的范畴。"
+  },
+  {
+   "cn": "变质",
+   "en": "alteration",
+   "source": "兽医学名词",
+   "wordNumber": "10.241",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "炎症局部组织细胞发生的变性和坏死变化。"
+  },
+  {
+   "cn": "蚀变",
+   "en": "alteration",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0064",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_安全",
+   "subjectName": "安全",
+   "publishYear": "2022",
+   "definition": "岩石、矿物受到热液作用，产生新的物理化学条件，使原岩的结构、构造以及成分相应地发生改变生成新的矿物组合的过程。"
+  },
+  {
+   "cn": "变质",
+   "en": "alteration",
+   "source": "病理学名词",
+   "wordNumber": "01.170",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "炎症局部组织发生的变性和坏死现象。可发生于实质细胞，也可发生于间质细胞。"
+  },
+  {
+   "cn": "热液蚀变",
+   "en": "hydrothermal alteration",
+   "source": "地质学名词",
+   "wordNumber": "14.04.004",
+   "subjectFullName": "地质学_矿床学_围岩蚀变",
+   "subjectName": "围岩蚀变",
+   "publishYear": "2026",
+   "definition": "因热液活动引起的岩石矿物成分、化学成分、物理化学特性等的各种变化。热液主要来自地球内部，包括岩浆热液、变质热液、封存在沉积物中的建造水、部分大气降水等。根据蚀变时的热液温度可分为高温、中温和低温热液蚀"
+  },
+  {
+   "cn": "水热蚀变",
+   "en": "hydrothermal alteration",
+   "source": "地质学名词",
+   "wordNumber": "15.01.080",
+   "subjectFullName": "地质学_地热地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "高温地热区内，围岩与地热流体发生反应所发生的一系列复杂的脱玻、重结晶、溶解和沉淀，形成新物质组分的过程。"
+  },
+  {
+   "cn": "设计变更",
+   "en": "design alteration",
+   "source": "风景园林名词",
+   "wordNumber": "03.0316",
+   "subjectFullName": "风景园林_风景园林管理_规划设计管理",
+   "subjectName": "规划设计管理",
+   "publishYear": "2025",
+   "definition": "项目自初步设计批准之日起至通过竣工验收正式交付使用之日止，对已批准的初步设计文件、技术设计文件或施工图设计文件所进行的修改、完善、优化等活动。设计变更应以图纸或设计变更通知单的形式发出。"
+  },
+  {
+   "cn": "水热蚀变",
+   "en": "hydrothermal alteration",
+   "source": "地球物理学名词",
+   "wordNumber": "06.0279",
+   "subjectFullName": "地球物理学_地热学_地热资源",
+   "subjectName": "地热资源",
+   "publishYear": "2022",
+   "definition": "高温地热区内，热液 (热水或蒸气 )与围岩所发生的一系列复杂的交代变质作用 (脱玻、重结晶、溶解和沉淀)。 "
+  },
+  {
+   "cn": "物理变更",
+   "en": "physical alteration",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0508",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "机械系统的变更。"
+  },
+  {
+   "cn": "石棉样变",
+   "en": "amianthoid alteration",
+   "source": "地方病学名词",
+   "wordNumber": "03.035",
+   "subjectFullName": "地方病学_大骨节病_病理学",
+   "subjectName": "病理学",
+   "publishYear": "2016",
+   "definition": "细胞外基质在原纤维显现的基础上，进一步崩解、坏死，呈细颗粒状样的一种病理改变。是大骨节病软骨损害发生发展的常见表现。"
+  },
+  {
+   "cn": "热液蚀变",
+   "en": "hydrothermal alteration",
+   "source": "海洋科技名词",
+   "wordNumber": "02.1279",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "subjectName": "海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "publishYear": "2007",
+   "definition": "因热液活动引起岩石矿物成分、化学成分及物理化学特性的变化过程。"
+  },
+  {
+   "cn": "水热蚀变",
+   "en": "hydrothermal alteration",
+   "source": "地质学名词",
+   "wordNumber": "07.082",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "围岩蚀变",
+   "en": "wallrock alteration",
+   "source": "地质学名词",
+   "wordNumber": "07.083",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "水热蚀变",
+   "en": "hydrothermal alteration",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "蚀变矿物",
+   "en": "altered mineral",
+   "source": "地质学名词",
+   "wordNumber": "04.01.094",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "一种次生矿物。岩浆期后流体及残余挥发分交代原生矿物和成岩矿物所形成的新矿物。交代作用主要为水化和碳酸盐化。如斜长石经交代作用形成钠长石、方解石和黝帘石(钠黝帘石化)；橄榄石被交代形成蛇纹石(蛇纹石化)"
+  },
+  {
+   "cn": "蚀变矿物",
+   "en": "altered mineral",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0065",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_安全",
+   "subjectName": "安全",
+   "publishYear": "2022",
+   "definition": "经蚀变作用形成的矿物。 "
+  },
+  {
+   "cn": "异常密码子",
+   "en": "altered codon",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.165",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "线粒体、叶绿体基因组或个别核基因中不同于通用密码的密码子。"
+  },
+  {
+   "cn": "异常密码子",
+   "en": "altered codon",
+   "source": "遗传学名词",
+   "wordNumber": "03.405",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "线粒体、叶绿体基因组或个别核基因中不同于通用密码的密码子。"
+  },
+  {
+   "cn": "变更设计",
+   "en": "altered design",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0018",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "蚀变岩石",
+   "en": "altered rock",
+   "source": "水利科学技术名词",
+   "wordNumber": "05.006",
+   "subjectFullName": "水利科学技术_岩石力学、土力学、岩土工程_岩石力学（水利）",
+   "subjectName": "岩石力学（水利）",
+   "publishYear": "1997",
+   "definition": "岩石受到岩浆侵入时，由于高温在接触带使原岩发生物理、化学变化后形成的新矿物和岩体。"
+  },
+  {
+   "cn": "替代性",
+   "en": "alterity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "变更",
+   "en": "altering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汇率更改",
+   "en": "exchange alteration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "热液蚀变",
+   "en": "hydrothermal alteration",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "变化和弦",
+   "en": "altered chord",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蚀变矿物",
+   "en": "altered mineral",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "异常密码子",
+   "en": "altered codon",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "修改方式，更改方式",
+   "en": "alter mode",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变更登记",
+   "en": "registration of alteration",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自身修饰假说",
+   "en": "altered-self hypothesis",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "股份资本变更",
+   "en": "alteration of share capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "卸货港费用变更",
+   "en": "alteration of destination fee",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投影变换",
+   "en": "projection change\",\"projection alteration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "舰艇编队转向",
+   "en": "ship formation course alteration",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "变构肽配体",
+   "en": "altered peptide ligand， APL",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转向",
+   "en": "alter course\",\"a/c",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "意识变异状态",
+   "en": "altered state of consciousness\",\"ASC",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "两半角[转向]法",
+   "en": "method of altering course by two halfangles",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "交替",
+   "en": "alternation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "迭代",
+   "en": "iteration",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "改装枪支",
+   "en": "alter a firearm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "权利让渡",
+   "en": "alienation of rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一阴一阳之谓道",
+   "en": "The Alternation of Yin and Yang Constitutes the Way.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "放射诊疗许可变更",
+   "en": "radiodiagnosis and radiotherapy license alteration",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.2.4",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "根据医疗机构的申请，卫生行政机关对放射诊疗许可的具体内容在许可被批准后加以变更的行为。"
+  },
+  {
+   "cn": "放射卫生技术服务机构资质变更",
+   "en": "qualification alteration of radiological health technical service institution",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.1.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "根据放射卫生技术服务机构的申请，卫生行政部门对放射卫生技术服务的具体内容在许可批准后加以变更的行为。"
+  },
+  {
+   "cn": "异化",
+   "en": "alienation",
+   "source": "马克思主义",
+   "wordNumber": "01.0097",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "异化观念可追溯到基督教的原罪说和卢梭的社会契约论。黑格尔、费尔巴哈把它引进哲学著作。马克思批判地改造了他们的异化概念。异化是指在特定历史条件下，主体或劳动者所创造出来的劳动成果成为与其相对立的，反过来"
+  },
+  {
+   "cn": "掺杂掺假",
+   "en": "adulteration",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.15",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "在食品中添加外观、物理性状或形态相似的非同种类或虽属同种类但为非固有或标签未标注成分的行为，通常包括替代、稀释、隐瞒、未经许可的强化等类型。"
+  },
+  {
+   "cn": "消费异化",
+   "en": "consumption alienation",
+   "source": "马克思主义",
+   "wordNumber": "05.0080",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "当代资本主义社会普遍发生的人与消费品的异化现象，虚假需要的出现，消费由日常生活消费走向炫耀性消费。"
+  },
+  {
+   "cn": "外阴裂伤",
+   "en": "vulval laceration",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.1.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_女童期保健",
+   "subjectName": "女童期保健",
+   "publishYear": "2025",
+   "definition": "女童在游戏、活动中骑跨过度，从高处跌下或者外阴直接触及硬物时造成的阴部损伤。"
+  },
+  {
+   "cn": "处女膜裂伤",
+   "en": "hymenal laceration",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.1.6.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_女童期保健",
+   "subjectName": "女童期保健",
+   "publishYear": "2025",
+   "definition": "女童由于外阴直接触及硬物或者剧烈活动造成的处女膜损伤，使处女膜的完整性受到破坏。"
+  },
+  {
+   "cn": "非蓄意掺假",
+   "en": "unintentional adulteration",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.16",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "在进行食品生产、加工、运输、销售等过程中，因操作不当、设备故障、环境污染等因素导致食品中出现非固有或标签未标注成分。"
+  },
+  {
+   "cn": "食品掺假",
+   "en": "food adulteration",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.14",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "向食品中非法掺入欺骗身份鉴定、质量评价中的非食用物质以及外观、物理性状或形态相似的非食品固有组分的行为。"
+  },
+  {
+   "cn": "蜂蜜掺假",
+   "en": "honey adulteration",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.30",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "天然蜂蜜中加入淀粉类糖浆（大米糖浆、玉米糖浆、羧甲基纤维素）等替代材料或劣质蜂蜜及色素、香精等，达到以次充好、掺杂使假的目的。"
+  },
+  {
+   "cn": "蓄意掺假",
+   "en": "intentional adulteration",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.17",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在生产、加工、运输、销售等过程中有意造假的行为。包括替代、稀释、隐瞒、未经许可的强化等，以降低成本或提升产品等级，从中获取不正当利益。"
+  },
+  {
+   "cn": "人道主义和异化",
+   "en": "humanitarianism and alienation",
+   "source": "马克思主义",
+   "wordNumber": "03.0582",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义的人道主义与资本主义的人道主义在阶级性上有着本质的不同。后者所谓以人为中心，主张自由、平等、博爱的历史观，是同唯物史观对立的。作为主张平等待人的人道原则，异化是指是人生产的产品变成异己力量，反"
+  },
+  {
+   "cn": "物化与异化",
+   "en": "materialization and alienation",
+   "source": "马克思主义",
+   "wordNumber": "05.0002",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "源于卢卡奇《历史与阶级意识》，对人的活动的一种对象化、客观化、物化过程的分析，试图揭示出人类自身的存在困境和资本主义社会的非人性。马尔库塞和弗洛姆也有相关论述。"
+  },
+  {
+   "cn": "匮乏与异化",
+   "en": "scarcity and alienation",
+   "source": "马克思主义",
+   "wordNumber": "05.0062",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特《辩证理性批判》认为， 人的生活需要永远不可能完全满足，匮乏使实践成为一种必然的历史性活动，而这一过程会形成人与自然、人与人之间的相互作用，且这两种关系以异化的形式呈现。匮乏—实践—异化构成历史的"
+  },
+  {
+   "cn": "经济利益驱动掺假",
+   "en": "economic motivated adulteration，EMA",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.18",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "卖方以欺诈手段添加虚假物质，去除或替代真实物质，但不告知买方，以谋取经济利益的行为。即为了增加食品产品的表观价值或降低生产成本而在产品中欺骗性地、故意替代或添加物质。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

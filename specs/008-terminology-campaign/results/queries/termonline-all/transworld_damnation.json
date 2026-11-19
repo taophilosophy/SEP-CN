@@ -1,0 +1,632 @@
+{
+ "key": "transworld damnation",
+ "term": "transworld damnation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:02:48+00:00",
+ "status": "ok",
+ "note": "variant=transworld damnation; 审定公布名词库=62; 海峡两岸名词对照库=23; 其他来源数据库=2; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "跨界同一性",
+   "en": "transworld identity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.277",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "跨越可能世界的同一性，即相同对象存在于不同的可能世界中。"
+  },
+  {
+   "cn": "氨基化",
+   "en": "amination",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.0228",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_蛋白质降解与氨基酸代谢_磷脂代谢",
+   "subjectName": "磷脂代谢",
+   "publishYear": "2024",
+   "definition": "在反应底物分子中加入氨基的反应。"
+  },
+  {
+   "cn": "脱氨[基]作用",
+   "en": "deamination",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.023",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_蛋白质降解与氨基酸代谢_磷脂代谢",
+   "subjectName": "磷脂代谢",
+   "publishYear": "2024",
+   "definition": "从氨基化合物（如氨基酸）脱去其氨基的过程。"
+  },
+  {
+   "cn": "包酥",
+   "en": "lamination",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0430",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_焙烤",
+   "subjectName": "焙烤",
+   "publishYear": "2020",
+   "definition": "皮料包入油酥后，用折叠的方法，使面团形成层次分明的多层次结构的过程。皮料的主要原料为小麦粉、水和油脂，油酥的主要原料为油脂和小麦粉。"
+  },
+  {
+   "cn": "层压",
+   "en": "lamination",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.588",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献保护",
+   "subjectName": "文献保护",
+   "publishYear": "2019",
+   "definition": "文献保护的一种方法。为加固和保护书页将透明材料粘合到纸张的一面或两面。"
+  },
+  {
+   "cn": "成层",
+   "en": "lamination",
+   "source": "冶金学名词",
+   "wordNumber": "09.0841",
+   "subjectFullName": "冶金学_金属加工_挤压、拉拔",
+   "subjectName": "挤压、拉拔",
+   "publishYear": "2019",
+   "definition": "挤压制品断面上出现的与木纹相似的片状组织。"
+  },
+  {
+   "cn": "分层",
+   "en": "lamination",
+   "source": "冶金学名词",
+   "wordNumber": "08.0261",
+   "subjectFullName": "冶金学_金属材料_粉末冶金",
+   "subjectName": "粉末冶金",
+   "publishYear": "2019",
+   "definition": "在压坯或烧结体中形成层状结构缺陷的现象。"
+  },
+  {
+   "cn": "脱氨作用",
+   "en": "deamination",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_基础研究",
+   "subjectName": "基础研究",
+   "publishYear": "2019",
+   "definition": "从氨基化合物(如氨基酸)脱去其氨基的过 程。"
+  },
+  {
+   "cn": "氨基化",
+   "en": "amination",
+   "source": "化学名词",
+   "wordNumber": "02.1036",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "在反应底物分子中引入1个氨基(<img src='/root/syzx/static/spz/huaxue2.02.1036.1.png'/>,R可为H)的反应。"
+  },
+  {
+   "cn": "脱氨基",
+   "en": "deamination",
+   "source": "化学名词",
+   "wordNumber": "02.1094",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "从反应底物失去1个氨基(<img src='/root/syzx/static/spz/huaxue2.02.1094.1.png'/>)的反应。"
+  },
+  {
+   "cn": "射气",
+   "en": "emanation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.048",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护监测",
+   "subjectName": "放射防护监测",
+   "publishYear": "2014",
+   "definition": "三个天然放射系中镭(Ra)的子体放射性气体氡(Rn)。铀系是镭射气<img src='/root/syzx/static/spz/fangshefanghu1.05.048.1.png'/>，钍系是钍"
+  },
+  {
+   "cn": "成层",
+   "en": "lamination",
+   "source": "电气工程名词",
+   "wordNumber": "02.113",
+   "subjectFullName": "电气工程_导电材料及半导体材料",
+   "subjectName": "导电材料及半导体材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "纹理",
+   "en": "lamination",
+   "source": "地质学名词",
+   "wordNumber": "05.315",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "图书捐赠",
+   "en": "donation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.483",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "个人或社会团体将其出版、收集、珍藏或不公开发行的文献资料，包括所拥有的合法权利和文献的保管责任，一并无偿赠送给图书馆的行为。捐赠的主要来源包括：①知名人士或藏书家，在晚年或去世后，由自己或亲属将其著述"
+  },
+  {
+   "cn": "捐赠",
+   "en": "donation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0601",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "为公益或慈善目的，自愿地将原属私人或机构的财物无偿地赠与他人或其他机构。"
+  },
+  {
+   "cn": "“萨纳奇”运动",
+   "en": "Sanation",
+   "source": "世界历史名词",
+   "wordNumber": "05.0586",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "1926年，波兰五月政变前出现的政治运动，其成员基础是毕苏茨基身边的亲信。该运动鼓吹国家利益至上，反对议会民主制，支持独裁政府。“萨纳奇”是音译，波兰语“健全化”的意思。1926年5月毕苏茨基举行五月"
+  },
+  {
+   "cn": "片理",
+   "en": "lamination,schistosity",
+   "source": "电力名词",
+   "wordNumber": "01.744",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "在变质岩区,由强烈变形和变质作用,使片状或板状矿物成定向排列而形成的一种面状构造。是变质岩中特有的构造。"
+  },
+  {
+   "cn": "射气",
+   "en": "emanation,Em",
+   "source": "化学名词",
+   "wordNumber": "06.0319",
+   "subjectFullName": "化学_放射化学_放射性元素化学",
+   "subjectName": "放射性元素化学",
+   "publishYear": "2016",
+   "definition": "3个天然放射系中镭的子体氡。包括镭射气<img src='/root/syzx/static/spz/huaxue2.06.0319.1.png'/>、钍射气<img src='/root/syzx/"
+  },
+  {
+   "cn": "氧化脱氨[基]作用",
+   "en": "oxidative deamination",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.0233",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_蛋白质降解与氨基酸代谢_磷脂代谢",
+   "subjectName": "磷脂代谢",
+   "publishYear": "2024",
+   "definition": "机体内氨基酸代谢脱氨的主要方式。可通过氨基酸氧化酶或转氨酶与谷氨酸脱氢酶的联合脱氨基作用完成。产物是与氨基酸相应的α-酮酸。"
+  },
+  {
+   "cn": "氧化脱氨作用",
+   "en": "oxidative deamination",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.1.3.1",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "氨基酸先经脱氨生成不稳定的亚氨基酸，然后水解产生α-酮酸和氨的过程。"
+  },
+  {
+   "cn": "浮士德的天谴",
+   "en": "Damnation de Faust\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Berlioz, Hector"
+  },
+  {
+   "cn": "层状结构",
+   "en": "lamination",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脱氨基",
+   "en": "deamination",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "层压",
+   "en": "lamination",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "胺化［作用］",
+   "en": "amination",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动物群",
+   "en": "faunation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "氨基化",
+   "en": "amination",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "层压",
+   "en": "lamination",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "射气",
+   "en": "emanation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "脱氨基",
+   "en": "deamination",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "脱氨作用",
+   "en": "deamination",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "脱氨作用",
+   "en": "deamination",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "氨基化, 胺化",
+   "en": "amination",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "脱氨作用",
+   "en": "deamination",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "贴生",
+   "en": "adnation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "溶剂复合",
+   "en": "solvent lamination",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "层压压制机",
+   "en": "lamination press",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "挤出层压复合",
+   "en": "extrusion lamination",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "氧化脱氨作用",
+   "en": "oxidative deamination",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "泄密发射",
+   "en": "compromising emanation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "层压板",
+   "en": "lamination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "捐赠型众筹",
+   "en": "donation-based crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "支配",
+   "en": "domination",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.9",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "权力行使的一种方式，指能够使特定人群服从命令的可能性。马克斯•韦伯按照服从的动机和基础将其分为法理型、传统型与卡理斯马型等三种。"
+  },
+  {
+   "cn": "公益捐赠",
+   "en": "charity donation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.29",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "自然人、法人或其他组织基于自愿原则，为支持社会公益事业而将自己有权处分的合法财产向相应的社会组织进行捐赠的活动。"
+  },
+  {
+   "cn": "配子赠送",
+   "en": "gamete donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "自愿捐赠精子或者卵子的做法。我国相关法规规定，禁止以任何形式买卖精子、卵子和胚胎，严格禁止各种代孕行为。"
+  },
+  {
+   "cn": "卵子赠送",
+   "en": "oocyte donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "育龄妇女将卵子赠与不育夫妇的做法。"
+  },
+  {
+   "cn": "精子赠送",
+   "en": "sperm donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "由人类精子库采集健康志愿供精者的精液，冻存并通过检疫后提供给男方患不可逆无精子症或有严重遗传疾病的不孕夫妇，以达到治疗不孕或优生的目的的做法。"
+  },
+  {
+   "cn": "胚胎赠送",
+   "en": "embryo donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "接受体外受精胚胎移植技术助孕的夫妇将胚胎赠与不育夫妇的做法。"
+  },
+  {
+   "cn": "器官捐献",
+   "en": "organ donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.045",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "依据自然人生前意愿或死后其家属的共同意愿，将其部分或全部器官捐献给他人或医学科学事业的行为。"
+  },
+  {
+   "cn": "氡射气系数",
+   "en": "radon emanation coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.5.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_氡及其子体测量",
+   "subjectName": "氡及其子体测量",
+   "publishYear": "2025",
+   "definition": "单位时间间隔内，从建材中放出的氡浓度量与同一时间在建材里所形成的氡浓度总量的比值，常用符号e表示，其数值在0～1之间变化。"
+  },
+  {
+   "cn": "遗体器官捐献准则",
+   "en": "deceased donation rule",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.054",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "自然人生前自愿表示或未明确反对，在其死亡后进行捐献时应遵循的伦理规范和道德要求。包括自愿、无偿，禁止商业化等原则。"
+  },
+  {
+   "cn": "器官捐献协调员",
+   "en": "organ donation coordinator",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.052999999999999",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "参与人体器官捐献的宣传动员、现场见证、信息采集报告等工作并协助完成人体器官捐献其他相关事务的专职或兼职人员。"
+  },
+  {
+   "cn": "器官捐献准则",
+   "en": "organ donation criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.048",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "用于评估和筛选潜在的活体或遗体器官捐献者的医学、伦理及法律标准。"
+  },
+  {
+   "cn": "器官捐献伦理",
+   "en": "organ donation ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.046",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "器官捐献中涉及的伦理问题与道德要求。包括捐献的同意模式、补偿与激励机制等。尊重、有利、不伤害、公正是器官捐献应遵循的基本伦理原则。"
+  },
+  {
+   "cn": "器官捐献法",
+   "en": "organ donation law",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.047",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "规范器官捐献及其相关行为的法律文件。旨在规范人体器官捐献行为，保障捐受双方的合法权益，倡导捐献人体器官挽救生命的人道主义精神，推动社会文明进步。"
+  },
+  {
+   "cn": "交叉换肾",
+   "en": "kidney paired donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.023",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "活体肾脏器官移植中，器官受体与家庭内有捐献意愿的供体间配型不符合，但分别与另一家庭中同样情况的受体与供体配型相符，两个家庭亲属间肾源配对互换，进行肾脏器官移植的特定情形，以此扩大肾脏来源，提高配型成功"
+  },
+  {
+   "cn": "遗体器官捐献系统",
+   "en": "deceased organ donation system",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.055",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "由国家或地区建立的，用于规范和管理遗体器官捐献及移植的法律、医疗、伦理及行政机制。一般由 5 部分构成：人体器官捐献志愿登记系统、人体器官获取组织（opo）与人体器官协调员系统、器官捐献人登记及器官匹"
+  },
+  {
+   "cn": "中国人体器官捐献委员会",
+   "en": "china human organ donation committee",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.062000000000001",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "对全国人体器官捐献和移植的管理工作进行顶层设计，并拟定有关政策措施的组织。2010 年9 月，中国人体器官捐献工作委员会和中国人体器官捐献办公室成立。 2014 年3 月1 日，中国人体器官捐献与移植"
+  },
+  {
+   "cn": "省级人体器官捐献委员会",
+   "en": "provincial human organ donation committee",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.067",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "由省级红十字会、卫生行政主管部门和其他相关部门人员组成的人体器官捐献和分配管理组织。从属于中国人体器官捐献体系，下设省级人体器官捐献办公室、省级人体器官捐献专家组和省级人体器官获取组织等，负责管理本行"
+  },
+  {
+   "cn": "尸体器官捐献补偿",
+   "en": "compensation for cadaveric organ donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.056000000000001",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "基于公正原则，对自愿无偿捐献尸体器官的行为给予一定的精神与物质嘉奖，体现对其高尚行为的肯定与激励。"
+  },
+  {
+   "cn": "中国人体器官捐献体系",
+   "en": "china's human organ donation system",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.061",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "规范公民逝世后自愿捐献、公正分配的器官捐献与分配共享体系。其标志是2013 年1 月中国人体器官捐献管理中心的正式组建，该体系的主要职责包括：负责参与人体器官捐献的宣传动员、报名登记、捐献见证、公平分"
+  },
+  {
+   "cn": "省级人体器官捐献办公室",
+   "en": "provincial human organ donation office",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.068",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "负责所在省级行政区域内的器官捐献有关事务的机构。具体业务包括：器官捐献宣传，招募管理志愿者队伍，开展培训与评估，登记相关信息，对器官获取分配过程进行监督，接收政府拨款与社会捐赠，协调省级人体器官捐献专"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

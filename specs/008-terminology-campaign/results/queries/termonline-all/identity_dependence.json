@@ -1,0 +1,792 @@
+{
+ "key": "identity-dependence",
+ "term": "identity-dependence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:46:51+00:00",
+ "status": "ok",
+ "note": "variant=identity-dependence; 审定公布名词库=1476; 海峡两岸名词对照库=561; 其他来源数据库=42; 预公布名词数据库=52; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "认同",
+   "en": "identity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.086",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "人在沟通时产生的一种意义感、身份感和归属感。可以将认同区分为自我认同和社会认同。前者指个体内向的自我确认，对自我存在的状态、方式和意义的反思性理解；后者指个体向外的对特定群体、集体或社群的靠近、认可程"
+  },
+  {
+   "cn": "一致性",
+   "en": "identity",
+   "source": "生物物理学名词",
+   "wordNumber": "06.078",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "两条序列做对位排列比对时，在同一位置上出现相同的核苷酸或氨基酸的特性。其一致性程度用两条比对好的DNA、RNA或蛋白质序列之间相同核苷酸碱基或氨基酸残基占整个比对区域的百分比表示。"
+  },
+  {
+   "cn": "恒等[式]",
+   "en": "identity",
+   "source": "数学名词",
+   "wordNumber": "01.0038",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "性别认同",
+   "en": "gender identity,sex identity",
+   "source": "精神医学名词",
+   "wordNumber": "03.335",
+   "subjectFullName": "精神医学_诊断分类_人格与性心理障碍",
+   "subjectName": "人格与性心理障碍",
+   "publishYear": "2019",
+   "definition": "由于生物学因素和心理社会因素综合影响而产生的对自己是男性或女性的内在信念。"
+  },
+  {
+   "cn": "性别认同",
+   "en": "gender identity,sex identity",
+   "source": "心理学名词",
+   "wordNumber": "07.083",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体经过学习模仿而逐渐习得的对自我性别的认识、理解和概念。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependence",
+   "source": "精神医学名词",
+   "wordNumber": "03.077",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "强烈、迫切地要求服用某种物质以获得支持或行使功能或生存的一种状态。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0325",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "两个软件元素之间的一种关系。对其中一个元素（独立元素）的更改，将影响另一元素（依赖元素）。"
+  },
+  {
+   "cn": "依存",
+   "en": "dependency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0481",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "句子或短语中，从属词和中心词之间所具有的二元关系。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependency",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0237",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "有两个类X与Y，如果修改X的定义可能会导致对Y的定义的修改，或者Y的存在依赖于X的存在，则认为Y依赖于X。"
+  },
+  {
+   "cn": "相依[的]",
+   "en": "dependent",
+   "source": "数学名词",
+   "wordNumber": "09.0042",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0575",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "用于表述可用性及其影响因素(可靠性、维修性和保障性)的非定量术语。"
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.003",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "电子学名词",
+   "wordNumber": "18.058",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "认同",
+   "en": "identity,identification",
+   "source": "心理学名词",
+   "wordNumber": "06.016",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "(1)一种建构良好的自我概念，是个体庄重做出的关于价值、信仰和人生目标的自我承诺。(2)弗洛伊德精神分析中的一种防御机制。即个体有意或无意地将他人或群体的行为、观点等归属于自己的过程。"
+  },
+  {
+   "cn": "身份识别",
+   "en": "identity recognition",
+   "source": "档案学名词",
+   "wordNumber": "06.02.016",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "用于区分操作者角色和权限的技术方法。"
+  },
+  {
+   "cn": "跨界同一性",
+   "en": "transworld identity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.277",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "跨越可能世界的同一性，即相同对象存在于不同的可能世界中。"
+  },
+  {
+   "cn": "人格同一性",
+   "en": "personal identity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.532",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "用于解释某人为何能够成为自己的那些特性。某人会随着时间流逝、空间转移、相貌或性格改变等情况与之前的自己产生一些差异。然而，其具有的一些特性或人格，使得某人在上述物理与心理条件改变的情况下，还能够被认定"
+  },
+  {
+   "cn": "虚拟同一性",
+   "en": "virtual identity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.680",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "在网络、虚拟社区、网络社交媒体及虚拟现实等虚拟环境中，人有可能获得不同于其现实社会身份的虚拟的自我身份认同。它使自我认同具有某种流动性，但其限度及对现实身份认同的影响有待深入研究。"
+  },
+  {
+   "cn": "身份识别",
+   "en": "identity recognition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.081",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "利用密码技术（尤其是公钥密码技术）设计出安全性高的协议的一种技术方法。"
+  },
+  {
+   "cn": "身份认证",
+   "en": "identity authentication",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.111",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "在计算机及计算机网络系统中确认操作者身份的过程。用于确定该用户是否具有对某种资源的访问和使用权限，保证系统和数据的安全，以及授权访问者的合法利益。"
+  },
+  {
+   "cn": "认同",
+   "en": "identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同",
+   "en": "identity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "身份",
+   "en": "identity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性别认同",
+   "en": "gender identity\",\"sex identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "依赖性",
+   "en": "dependence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "依赖",
+   "en": "dependency",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "依存[关系]",
+   "en": "dependency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基因一致性",
+   "en": "gene identity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反向认同",
+   "en": "negative identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯认同",
+   "en": "career identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同危机",
+   "en": "identity crisis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同混淆",
+   "en": "identity confusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "男性认同",
+   "en": "masculine identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同发展",
+   "en": "identity development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色认同",
+   "en": "role identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同形成",
+   "en": "identity formation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同迷失",
+   "en": "identity diffusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同需要",
+   "en": "identity need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实体标识",
+   "en": "entity identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字身份",
+   "en": "digital identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份盗窃",
+   "en": "identity theft",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份鉴别",
+   "en": "identity authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟主体",
+   "en": "virtual identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缘起",
+   "en": "Dependent Origination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标识解析技术",
+   "en": "identity resolution technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份认证管理",
+   "en": "identity authentication management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奥运会身份卡",
+   "en": "Olympic identity card",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络身份认证体系",
+   "en": "network identity authentication system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份数据资产安全",
+   "en": "identity data asset security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多元化身份认证体系",
+   "en": "diversified identity authentication system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络身份",
+   "en": "network identity (network ID)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无待",
+   "en": "Depend on Nothing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全可控身份认证",
+   "en": "secure and controllable identity authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "客户身份意愿真实性",
+   "en": "authenticity of customer identity and will",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有待",
+   "en": "Having Something to Depend on",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 2127.3-2010 移动Web服务网络身份认证技术要求 第3部分：网络身份联合框架》",
+   "en": "YD/T 2127.3-2010 Technical requirement for mobile web services network identity authentication — Part 3: Network identity federation framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同一性",
+   "en": "identity",
+   "source": "马克思主义",
+   "wordNumber": "01.0079",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在辩证法中，指“辩证同一性”，与“形而上学同一性”相对。矛盾的同一性是指矛盾双方相互依存、相互贯通、相互转化的一种联系和趋势。具体表现为：矛盾对立面之间的相互依赖，各自以对方为自己存在和发展的条件，任"
+  },
+  {
+   "cn": "身份鉴定",
+   "en": "identity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.9",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品固有本质特征等同程度的检验，确保食品和食品组分的身份和纯度符合安全标准。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "经常使用非法药物或某些处方药时可能出现的一种强烈、迫切地要求服用某种物质以获得支持或行使功能或生存的一种状态。"
+  },
+  {
+   "cn": "民俗认同",
+   "en": "folkloric identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0026",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以民俗为核心来构建与维系认同和传承传统的意识与行为，尤其强调一个民俗传统的传承是基于所有认同和实践该传统的不同群体的成员来维系的。"
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0087",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "个体认识到他属于特定的社会群体，同时也认识到作为群体成员带给他的情感和价值意义。"
+  },
+  {
+   "cn": "文化认同",
+   "en": "cultural identity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.8",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "对一种文化具有某种亲近感或归属感，或者是对一种文化表示基本的赞同。"
+  },
+  {
+   "cn": "角色认同",
+   "en": "role identity",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色具有某种亲近感或有扮演的愿望，或者仅指对该角色的社会行为规范表示基本的赞同。角色认同是扮演角色、克服角色距离的重要心理基础。"
+  },
+  {
+   "cn": "阶级认同",
+   "en": "class identity",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "同一阶级的成员通过身份标签、价值认同或行为模式等方式承认他们是同一类人。非马克思主义理论家采用这一概念取代马克思所说的“阶级意识”概念。"
+  },
+  {
+   "cn": "性别认同",
+   "en": "gender identity",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "一个人对于社会所规定的自己所属性别的归属感和相应性别规范的接纳，以及对于共享性别标签的同类人群的认同。最典型的就是对于什么是男人和女人、以及自己是男人或女人中的一员的接受和认同。"
+  },
+  {
+   "cn": "宗教认同",
+   "en": "religious identity",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.22",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "用宗教的归属、边界、关联来定义自我的特征。有集体认同、社会认同和自我认同三个层次。"
+  },
+  {
+   "cn": "自我认同",
+   "en": "self identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "美国心理学家埃里克森(Erik Homburger Erikson）等人在青少年群体心理发展研究中提出的概念，常用于发展心理学领域，指青少年因其需要、情感、能力、目标、价值观等特质被整合为统一的人格框"
+  },
+  {
+   "cn": "个人认同",
+   "en": "personal identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个体对其所拥有的，能够将其与他人区分开来的独特特征与品质的确认。"
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "人们对他/她属于某些社会群体的知识，同时对他/她的群体成员身份赋予某些情感和价值上的重要性的过程。由英国社会心理学家泰弗尔(Henri Tajfel）提出。"
+  },
+  {
+   "cn": "群体认同",
+   "en": "group identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "人们对于自己所属群体赋予某些情感和价值上的重要性的现象。在社会生活中，每个人都同时属于不同的群体，对所属群体所赋予的情感和价值的重要性是不一样的；同时，同一群体中不同成员对于该群体所赋予的情感和价值上"
+  },
+  {
+   "cn": "国族认同",
+   "en": "national identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0027",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "人们对国家民族的认同。在中国，国族认同就是中华民族认同，即各民族对数千年的中华优秀传统文化、历史记忆及国民身份等方面的认可与共识。"
+  },
+  {
+   "cn": "文化认同",
+   "en": "cultural identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0035",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对某特定群体的认同感和归属感，是基于各种不同文化类别，包括国籍、种族、民族、性别和宗教信仰等。文化认同通过分享传统、遗产、语言、美学、规范和习俗等集体知识的过程得以构建和维护。由于个人通常隶属于不止一"
+  },
+  {
+   "cn": "语言认同",
+   "en": "language identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.017",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言使用人通过语言来显示或识别其身份归属。"
+  },
+  {
+   "cn": "民族认同",
+   "en": "ethnic identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0088",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "社会成员个体对民族集体的归属感和自觉认知，一般是对共同祖先、共同文化、共同历史的认同，但不同民族成员也有可能由于各种原因逐渐产生对另一民族认同的现象，即民族认同可超越民族、种族、文化、区域而产生。"
+  },
+  {
+   "cn": "依附性发展",
+   "en": "dependence development",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "新依附理论提出的发展中国家发展的方案。认为依附与发展并不是一个相互矛盾的现象，依附性的发展是可能的，发展中国家可以通过与中心经济的新型联系而受益。"
+  },
+  {
+   "cn": "路径依赖",
+   "en": "path-dependence",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.35",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "诺斯(Douglas North）用于解释人类经济制度的变迁的概念，意指社会一旦选择了某种制度或某个制度系统，由于制度设置的初始成本固定、社会的学习效应、社会的协调效应、适应性效应以及随之产生的收益递"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

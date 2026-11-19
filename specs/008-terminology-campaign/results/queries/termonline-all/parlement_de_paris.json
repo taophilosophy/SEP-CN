@@ -1,0 +1,702 @@
+{
+ "key": "parlement de paris",
+ "term": "Parlement de Paris",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:48:26+00:00",
+ "status": "ok",
+ "note": "variant=Parlement de Paris; 审定公布名词库=487; 海峡两岸名词对照库=196; 其他来源数据库=24; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "壁板",
+   "en": "paries",
+   "source": "动物学名词",
+   "wordNumber": "5.2061",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门",
+   "subjectName": "甲壳动物亚门",
+   "publishYear": "2021",
+   "definition": "蔓足类甲壳动物壳板的中间部分。"
+  },
+  {
+   "cn": "巴黎绿",
+   "en": "Paris green",
+   "source": "风景园林名词",
+   "wordNumber": "08.1082",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "用砷和铜的化合物制成的颜料。具有翡翠绿颜色的结晶粉末。于空气中对光和热都稳定，对酸和碱不稳定，遇硫化氢变黑。可做杀虫剂、木材防腐剂和颜料。"
+  },
+  {
+   "cn": "巴黎分型",
+   "en": "Paris classification",
+   "source": "消化内镜学名词",
+   "wordNumber": "14.076",
+   "subjectFullName": "消化内镜学_食管疾病_食管肿瘤和肿瘤样病变",
+   "subjectName": "食管肿瘤和肿瘤样病变",
+   "publishYear": "2021",
+   "definition": "消化道早期癌形态学经典分型方法。早期食管癌内镜下主要分为隆起型（0-Ⅰ型）、平坦型（0-Ⅱ型）和凹陷型（0-Ⅲ型）。用于初步评估病变的浸润深度和内镜下的可切除性。"
+  },
+  {
+   "cn": "巴黎原则",
+   "en": "Paris Principles",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.354",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "1961年10月9日至18日国际图书馆协会联合会（IFLA）主持的在巴黎召开的会议上通过的“原则声明”的统称。规定了目录的职能与结构、款目的种类、各种款目的职能与使用、标目的选择等。"
+  },
+  {
+   "cn": "巴黎学派",
+   "en": "Paris school",
+   "source": "心理学名词",
+   "wordNumber": "04.121",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "强调催眠等心理现象的生理、病理原因的学派。以沙尔科(J. M. Charcot)、雅内(P. Janet)为代表。"
+  },
+  {
+   "cn": "巴黎协定",
+   "en": "Paris Agreement",
+   "source": "世界历史名词",
+   "wordNumber": "01.0457",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "1973年1月，美国同越南三方在巴黎签订的协议。"
+  },
+  {
+   "cn": "巴黎公社",
+   "en": "Paris Commune",
+   "source": "世界历史名词",
+   "wordNumber": "01.0139",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "1871年普法战争期间，巴黎工人阶级于3月18日革命后建立的政权。是世界上第一个工人阶级政权。"
+  },
+  {
+   "cn": "重楼",
+   "en": "paris root",
+   "source": "中医药学名词",
+   "wordNumber": "06.477",
+   "subjectFullName": "中医药学_中药学_中药",
+   "subjectName": "中药",
+   "publishYear": "2004",
+   "definition": "百合科植物云南重楼"
+  },
+  {
+   "cn": "帕里斯公式",
+   "en": "Paris formula",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "伦敦—巴黎协定",
+   "en": "London-Paris Agreement",
+   "source": "世界历史名词",
+   "wordNumber": "01.0451",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "1954年10月，美英等国为重新武装德国接纳其加入北约而签订的协定。"
+  },
+  {
+   "cn": "巴黎和约",
+   "en": "Treaties of Paris",
+   "source": "世界历史名词",
+   "wordNumber": "01.0392",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "法国与反法联盟成员国于1814年、1815年两次签订的和平条约。"
+  },
+  {
+   "cn": "巴黎条约",
+   "en": "Treaty of Paris",
+   "source": "世界历史名词",
+   "wordNumber": "01.0396",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1783年9月3日，北美殖民地与英国在巴黎签署的结束美国独立战争的和平条约，英国承认美国的独立。"
+  },
+  {
+   "cn": "巴黎和会",
+   "en": "Paris Peace Conference",
+   "source": "世界历史名词",
+   "wordNumber": "01.0569",
+   "subjectFullName": "世界历史_综合_国际会议、宣言",
+   "subjectName": "国际会议、宣言",
+   "publishYear": "2012",
+   "definition": "①第一次世界大战结束后胜负双方于1919年1月在巴黎举行的和平会议。②1946年7月反法西斯同盟国为同德国的盟国签署和约在巴黎召开的国际会议。"
+  },
+  {
+   "cn": "巴黎条约",
+   "en": "Treaties of Paris",
+   "source": "世界历史名词",
+   "wordNumber": "01.0396",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_欧洲联盟",
+   "subjectName": "欧洲联盟",
+   "publishYear": "2012",
+   "definition": "1951年4月18日，法国、西德、意大利、荷兰、卢森堡、比利时在巴黎签署的建立欧洲煤钢共同体的条约。"
+  },
+  {
+   "cn": "巴黎条约",
+   "en": "Treaty of Paris",
+   "source": "世界历史名词",
+   "wordNumber": "01.0396",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "1856年2月为结束克里米亚战争签署的条约。"
+  },
+  {
+   "cn": "巴黎起义",
+   "en": "Paris Uprising of 1944",
+   "source": "世界历史名词",
+   "wordNumber": "03.0558",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "1944年7月，巴黎人民解放首都的武装起义。"
+  },
+  {
+   "cn": "词对轮排",
+   "en": "paried keyword permutation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.785",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "将标引语句中的入口词进行两两组合构成词对，将每个词对进行有序排列，轮流作为主标题和副标题的一种索引款目排列方法。"
+  },
+  {
+   "cn": "萘并[1,8-de]嘧啶",
+   "en": "naphtho[1,8-de] pyrimidine",
+   "source": "化学名词",
+   "wordNumber": "02.0383",
+   "subjectFullName": "化学_有机化学_有机化合物_杂环化合物类名",
+   "subjectName": "杂环化合物类名",
+   "publishYear": "2016",
+   "definition": "萘环的两个边和嘧啶环的两个碳碳边键并合，通过共用3个环节碳原子的并杂环类化合物。如1H-萘并[1,8-de]嘧啶，其结构式为：<img src='/root/syzx/static/spz/huaxu"
+  },
+  {
+   "cn": "脱脂",
+   "en": "de-grease",
+   "source": "精细化工名词",
+   "wordNumber": "05.0242",
+   "subjectFullName": "精细化工_涂料_涂装处理工艺",
+   "subjectName": "涂装处理工艺",
+   "publishYear": "2025",
+   "definition": "清除掉工件表面的油脂、油污的工艺。包括喷砂之类的机械法和酸、碱清洗之类的化学法。"
+  },
+  {
+   "cn": "去驯化",
+   "en": "de-domestication",
+   "source": "农学名词",
+   "wordNumber": "06.012",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "栽培植物或家养动物从人工环境返回自然环境，驯化基因发生恢复突变，重新获得野生特性的过程。如西藏半野生小麦即由普通小麦去驯化而来。"
+  },
+  {
+   "cn": "巴黎天文台",
+   "en": "Observatoire de Paris",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "壁板",
+   "en": "paries",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "巴黎交响曲集",
+   "en": "Paris Symphonies",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Haydn, Franz Joseph"
+  },
+  {
+   "cn": "巴黎俱乐部[即十国集团]",
+   "en": "Paris Club",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "巴黎证券交易所",
+   "en": "Paris Bourse",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "加兰-帕里斯-谢韦视唱体系",
+   "en": "Galin-Paris-Chevé",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "去黄化，脱黄化",
+   "en": "de-etiolation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "脱黄化（=去黄化）",
+   "en": "de-etiolation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天气汇报",
+   "en": "de-briefing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "废纸脱墨",
+   "en": "de-inking",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "脱鞣",
+   "en": "de-tanning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "解扩",
+   "en": "de-spread",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "去油",
+   "en": "de-fatting",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "乙菧酚, 二乙基己烯雌酚",
+   "en": "diethylstilbestrol\",\"DES",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "三重数据加密标准",
+   "en": "triple-DES",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双重数据加密标准",
+   "en": "double-DES",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一个美国人在巴黎",
+   "en": "American in Paris\",\"An",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Gershwin, George"
+  },
+  {
+   "cn": "萘并[1,8-de]嘧啶",
+   "en": "naphtho[1\",\"8-de]pyrimidine\",\"perimidine",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "延迟引出",
+   "en": "delayed extraction\",\"DE",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "来自信号，我是……",
+   "en": "Delta Echo\",\"DE",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "德",
+   "en": "De（Virtue）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "去匿名化",
+   "en": "de-anonymization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "去标识化技术",
+   "en": "de-identification technique",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "出足扫",
+   "en": "advanced foot sweep\",\"de-ashi-barai",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缠剑",
+   "en": "take the blade\",\"prise-de-fer\",\"taking of blade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 37964-2019 信息安全技术 个人信息去标识化指南》",
+   "en": "GB/T 37964-2019 Information security technology — Guide for de-identifying personal information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际足球联合会",
+   "en": "International Federation of Association Football（英语）；Fédération Internationale de Football Association（法语）",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双人单桨",
+   "en": "pairs",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人单桨无舵手赛艇",
+   "en": "coxless pairs\",\"coxswainless pair-oars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "巴黎公社",
+   "en": "Paris Commune",
+   "source": "马克思主义",
+   "wordNumber": "04.0400",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年3月法国巴黎的无产阶级和革命群众举行反对资产阶级统治的武装起义并建立的无产阶级政府。1871年3月28日巴黎公社宣告成立。它是无产阶级专政的第一次尝试，实施了一系列带有社会主义性质的措施，但"
+  },
+  {
+   "cn": "巴黎公社革命",
+   "en": "Paris Commune Revolution",
+   "source": "马克思主义",
+   "wordNumber": "04.0217",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年3月18日法国巴黎无产阶级推翻资产阶级、建立工人政权的第一次伟大尝试。起义者选举产生了巴黎公社委员会，采取了一系列社会主义性质的措施。由于种种原因革命失败。马克思在《法兰西内战》一书中系统地"
+  },
+  {
+   "cn": "去个人化",
+   "en": "de-individualization",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在群体情境当中，人们更容易失去自我觉察的能力和对自己行为的责任感，自我控制系统的作用减弱甚至丧失，从而做出一些个体单独时不会做出的反向(或另类)行为的现象。在无组织群体和集群行为中，个体处于匿名感受中"
+  },
+  {
+   "cn": "巴黎公社原则",
+   "en": "Principles of the Paris Commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0252",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年巴黎公社革命中工人阶级创造的、反映无产阶级革命运动中带有普遍意义的基本经验。马克思认为，巴黎公社的基本原则是无产阶级必须打碎资产阶级的国家机器，建立自己的革命专政。工人阶级不能简单地掌握现成"
+  },
+  {
+   "cn": "嫩杀",
+   "en": "light de-enzyme",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.18",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "轻度杀青，青叶失水少，减重率为30%，杀青叶含水率为62%~64%。"
+  },
+  {
+   "cn": "老杀",
+   "en": "deep de-enzyme",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.19",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "重度杀青，青叶失水多，减重率为40%，杀青叶含水率为58%~60%。"
+  },
+  {
+   "cn": "德昂语",
+   "en": "De’ang language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0328",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "德昂族使用的语言。属南亚语系孟-高棉语族佤-德昂语支。主要分布在云南省德宏傣族景颇族自治州等地；缅甸也有分布。人口约2 万。分布雷、若买、纳昂3 个方言。"
+  },
+  {
+   "cn": "巴黎国际社会主义者代表大会",
+   "en": "International Socialist Workers Congress  in Paris",
+   "source": "马克思主义",
+   "wordNumber": "04.0485",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1889年7月14日(法国大革命攻占巴士底监狱一百周年纪念日)在巴黎举行的国际社会主义者代表大会。出席大会的有22个国家的393名代表，其中很多人是各国工人运动的活动家和领导人。恩格斯因为忙于《资本论"
+  },
+  {
+   "cn": "高原脱习服",
+   "en": "high altitude de-acclimatization",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.1",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "已适应高原环境的机体，脱离高原环境后，为适应常规环境而产生的一系列适应性改变。"
+  },
+  {
+   "cn": "高原脱适应",
+   "en": "high altitude de-adaptation",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.5.1",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原适应",
+   "subjectName": "高原适应",
+   "publishYear": "2025",
+   "definition": "世居高原者到平原后，会出现不适应平原环境的临床症状。而平原人长期在高原生活，机体会发生机能与结构改变以适应环境，当他们返回平原，需逐渐消除对高原低氧的适应性，重新适应平原环境的相关变化过程。"
+  },
+  {
+   "cn": "第新谢巴",
+   "en": "De bzhin gshegs pa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0389",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1384 年—1415 年）藏传佛教著名人物。为噶举牌黑帽系第五世活佛，法名却贝桑波。1406 年受邀前往南京，并受命总纂永乐版《甘珠尔》刻本。明成祖封其为“万行足十方最胜圆觉妙智慧善普应佑国演教如"
+  },
+  {
+   "cn": "佤-德昂语支",
+   "en": "Va-De'ang branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0332",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "南亚语系孟-高棉语族的一个语支，包括佤语、布朗语和德昂语等。"
+  },
+  {
+   "cn": "巴黎公社一周年纪念大会",
+   "en": "First Anniversary Commemoration of the Paris Commune",
+   "source": "马克思主义",
+   "wordNumber": "04.0475",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1872年3月18日，“国际”会员和前公社社员以及前来参会的工人群众聚集在巴黎公社流亡者协会住所，隆重地举行了纪念巴黎公社革命一周年大会。会议通过了马克思在1872年3月13—18日起草的《巴黎公社一"
+  },
+  {
+   "cn": "[法国]核安全与辐射防护研究院",
+   "en": "L'Institut de Radioprotection et de Sûreté Nucléaire，IRSN",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.10",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "2001年法国成立的专门从事核与辐射风险评估和研究的公共事业机构，受国防部、环境部、能源部、科技部、卫生部共同监督，院长由总理任命。目前有1700余名工作人员，包括董事会在内六个部门组成。"
+  },
+  {
+   "cn": "社会学年刊学派",
+   "en": "L'école de L'année Sociologique",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0515",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（ÉmileDurkheim）于1897 年在巴黎创办《社会学年刊》后形成的学派。该学派的社会学理论继承了法国哲学家孔德的实证主义和古典进化论。他们认为，社会现象不同于心理现象和生物"
+  },
+  {
+   "cn": "核能领域第三方责任布鲁塞尔补充公约",
+   "en": "Brussels Convention Supplementary to the Paris Convention on Third Party Liability in the Field of Nuclear Energy",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.8",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "该公约通过由所有缔约国分摊的基金统筹机制，在运营者的责任限额之外提供附加的国家公共基金，提高了《1960年巴黎公约》规定的赔偿限额。该公约于2004年修订。"
+  },
+  {
+   "cn": "帕西人",
+   "en": "Parsee，Parsis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0046",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "印度民族之一。 人口约为6 万（2014 年）。集中生活在印度孟买市及周边地带，班加罗尔和巴基斯坦的喀拉蚩也有分布。属欧罗巴人种印度地中海类型。操古吉拉特语，属印欧语系印度语族。帕西人信拜火教。为波斯"
+  },
+  {
+   "cn": "成品库",
+   "en": "finished-parts storage",
+   "source": "消毒学",
+   "wordNumber": "5.1.9.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "储存消毒产品成品的仓库。"
+  },
+  {
+   "cn": "四对关系",
+   "en": "four pairs of relationships",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0149",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "正确把握共同性与差异性的关系，正确把握中华民族共同体意识和各民族意识的关系，正确把握中华文化和各民族文化的关系，正确把握物质与精神的关系。"
+  },
+  {
+   "cn": "合群立会",
+   "en": "uniting groups and forming parliament",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "通过知识分子开学会，引导社会团体形成，进而启发人民政治参与的做法。晚清学者在从日文引进“社会”这个词的时候，包含了 “共同体”与“社会”双重含义。梁启超等人接触欧美之后，认为中国的“群”的程度不够，其"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

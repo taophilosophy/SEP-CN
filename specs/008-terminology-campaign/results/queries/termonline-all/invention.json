@@ -1,0 +1,682 @@
+{
+ "key": "invention",
+ "term": "Invention",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:23:53+00:00",
+ "status": "ok",
+ "note": "variant=Invention; 审定公布名词库=1591; 海峡两岸名词对照库=368; 其他来源数据库=41; 预公布名词数据库=69; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "发明",
+   "en": "invention",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.006",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "对产品、方法或者其改进所提出的新的技术方案。"
+  },
+  {
+   "cn": "发明",
+   "en": "invention",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0075",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_研发管理",
+   "subjectName": "研发管理",
+   "publishYear": "2016",
+   "definition": "有史以来第一次提出某种技术的新概念、新思想、新原理和新装置。"
+  },
+  {
+   "cn": "发明专利",
+   "en": "invention patent",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.189",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "对产品、方法或其改进所提出的新的技术方案。"
+  },
+  {
+   "cn": "技术发明",
+   "en": "technical invention",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.110",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "应用自然规律解决技术领域中特有问题而提出创新性方案、措施的过程和成果。"
+  },
+  {
+   "cn": "产品创造",
+   "en": "product invention",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0326",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "为外国市场创造新产品或服务的一种国际营销策略。"
+  },
+  {
+   "cn": "发明创造",
+   "en": "invention and creation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.187",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "运用现有的科学知识和科学技术，首创出先进、新颖、独特的具有社会意义的事物及方法，来有效地解决某一实际需要。"
+  },
+  {
+   "cn": "发明哲学",
+   "en": "philosophy of invention",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.188",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "研究发明的概念与类型、本质与方法、机制与模式、性质与价值问题等的学问。"
+  },
+  {
+   "cn": "发明社会学",
+   "en": "sociology of invention",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.125",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "首次出现在肖恩·吉尔菲兰（Sean Gilfillan）的博士论文中。是奥格本学派的主要研究领域。研究发明与社会变迁之间的相互作用，否定发明的英雄理论。提出了发明的组合累积模式，强调发明过程以及发明与"
+  },
+  {
+   "cn": "发明妄想",
+   "en": "delusion of invention",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.083",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "职务发明创造",
+   "en": "job-related invention creation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.240",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "执行本单位的任务或者主要是利用本单位的物质技术条件所完成的发明创造。"
+  },
+  {
+   "cn": "反求法",
+   "en": "method of counter invention",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0085",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_研发管理",
+   "subjectName": "研发管理",
+   "publishYear": "2016",
+   "definition": "一种遵循与常规思维程序相反的途径来探求新知识、做出新发明的科学方法。"
+  },
+  {
+   "cn": "非本地发明",
+   "en": "not invented here,NIH",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0333",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "技术不是在组织内部被创造或发明出来而被排斥的现象。泛指只采用内部开发的技术而排斥外来技术的现象。"
+  },
+  {
+   "cn": "发明问题解决理论",
+   "en": "theory of inventive problem solving",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0935",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "研究人类进行发明创造、解决技术难题过程中所遵循的科学原理和法则，并运用这些原理指导人们发明创造的方法学。"
+  },
+  {
+   "cn": "萃智方法",
+   "en": "theory of inventive problem solving;TRIZ",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.237",
+   "subjectFullName": "自然辩证法_科学技术方法论_系统与发明",
+   "subjectName": "系统与发明",
+   "publishYear": "2024",
+   "definition": "苏联发明家根里奇·阿奇舒勒（Genrich Altshuler）及其团队，基于大量专利和创新案例总结的，应用于技术创新的系统化方法体系。它包括技术系统进化法则、发明原理、矛盾矩阵、分离原理、物-场分析"
+  },
+  {
+   "cn": "萃智",
+   "en": "theory of inventive problem solving,teoriya resheniya izobreatatelskikh zadatch,TRIZ",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0039",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "前苏联发明家阿利特舒列尔(G. S. Altshuller)创立的一种理论，提供了解决发明问题的一种方法，包括矛盾、资源、理想度、进化模式和创新原理等核心概念。"
+  },
+  {
+   "cn": "意图",
+   "en": "intention",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.572",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在做某事之前出现于人的意识中的将要做此事的心理观念与计划，意向确定了行动的目的与类型。"
+  },
+  {
+   "cn": "意向",
+   "en": "intention",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.042",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "技术设计者或使用者针对技术人工物的结构和功能所产生的某种目的预测或行为意图。它以技术人工物作为中介，调节人与世界的关系。"
+  },
+  {
+   "cn": "感染",
+   "en": "infection",
+   "source": "普通外科学名词",
+   "wordNumber": "11.001",
+   "subjectFullName": "医学_普通外科学_外科感染",
+   "subjectName": "外科感染",
+   "publishYear": "2026",
+   "definition": "细菌、病毒、寄生虫等病原微生物侵入机体并生长繁殖引起的病理反应及对机体造成的损害。"
+  },
+  {
+   "cn": "注入作用",
+   "en": "injection",
+   "source": "地质学名词",
+   "wordNumber": "06.02.039",
+   "subjectFullName": "地质学_变质岩岩石学_变质作用",
+   "subjectName": "变质作用",
+   "publishYear": "2026",
+   "definition": "深熔熔体沿变质岩的片理或裂隙注入、形成眼球状、条带状、树枝状的长英质脉体的过程。"
+  },
+  {
+   "cn": "侵染",
+   "en": "infection",
+   "source": "农学名词",
+   "wordNumber": "10.031",
+   "subjectFullName": "植物保护_作物病害",
+   "subjectName": "作物病害",
+   "publishYear": "2025",
+   "definition": "病原物侵入寄主植物并引起寄主病理反应的过程。"
+  },
+  {
+   "cn": "二声部创意曲",
+   "en": "Invention",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bach, Johann Sebastian"
+  },
+  {
+   "cn": "发明",
+   "en": "invention",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "①技术发明 ②技术创新",
+   "en": "technical invention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "发明专利权",
+   "en": "patent for invention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "意向，意图",
+   "en": "intention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "翻转[作用]",
+   "en": "inversion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆转",
+   "en": "inversion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "摄取",
+   "en": "ingestion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "转位",
+   "en": "inversion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意向",
+   "en": "intension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反向",
+   "en": "inversion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "摄食",
+   "en": "ingestion",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "约定",
+   "en": "convention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图",
+   "en": "second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医院/院内感染",
+   "en": "nosocomial infection; hospital-acquired infection",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "SQL注入",
+   "en": "SQL injection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交叉感染",
+   "en": "cross infection",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外源性感染",
+   "en": "exogenous infection",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图进攻",
+   "en": "attack on second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "行走的传染源",
+   "en": "mobile source of infection ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发明",
+   "en": "invention",
+   "source": "马克思主义",
+   "wordNumber": "04.0041",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类创造新的、前所未有的产品（包括物质的和精神的）的创造性探索活动。各国有关法律对发明都有明确的限定。发明既指人们的首创性活动（包括创造性的思维活动和能动的实践活动），也指这种首创性活动所获得的成果。"
+  },
+  {
+   "cn": "独立发明说",
+   "en": "theory of independent invention",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪的古典进化论学派所持主要观点。该观点认为，世界各民族的文化都是由简到繁、独自发展而来的，各民族、各地相似或相同的文化现象都是“独立发明”的。"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "劳伦斯发明粒子加速器",
+   "en": "The invention of particle accelerator by Ernest O. Lawrence",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.4",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1932年美国物理学家劳伦斯（Ernest Orlando Lawrence）利用带电粒子在磁场中的运动特点，发明了回旋加速器，解决了粒子的加速问题，并获得1939年的诺贝尔物理学奖。"
+  },
+  {
+   "cn": "感染",
+   "en": "infection",
+   "source": "消毒学",
+   "wordNumber": "1.8.1",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "细菌、病毒、寄生虫等病原微生物侵入机体并生长繁殖引起的局部组织或全身性的炎症反应。"
+  },
+  {
+   "cn": "感染",
+   "en": "infection",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "病原体侵入人体后与人体相互作用、相互斗争的病理过程。"
+  },
+  {
+   "cn": "习俗惯制",
+   "en": "convention",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0459",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "所有俗民都遵守的风俗和被俗民普遍接受的行为模式和规范，它总是按一种常规的程序循环不已地支配着俗民的生活实践，养育出一代又一代负载民俗文化的群体。"
+  },
+  {
+   "cn": "变形杆菌病",
+   "en": "proteus infection",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.1.1.6",
+   "subjectFullName": "食品卫生学_食源性疾病_感染型食源性疾病",
+   "subjectName": "感染型食源性疾病",
+   "publishYear": "2025",
+   "definition": "由变形杆菌、雷氏普罗威登斯菌、摩氏摩根菌等感染引起的以急性胃肠炎症状为主要临床表现的食源性疾病。"
+  },
+  {
+   "cn": "皮肤感染",
+   "en": "skin infection",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.3.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "皮肤有脓性分泌物、脓疱、疖肿等表现，并有局部红肿热痛等炎症性反应的疾病。"
+  },
+  {
+   "cn": "内源性感染",
+   "en": "endogenous infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.5.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者自身携带的菌群引发的感染。"
+  },
+  {
+   "cn": "外源性感染",
+   "en": "exogenous infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.5.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者由他人或环境等体外微生物引发的感染。"
+  },
+  {
+   "cn": "手术部位感染",
+   "en": "incision infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.20",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在手术后一定时间段内发生在切口或手术深部器官或腔隙的感染，包括表浅切口感染、深部切口感染和器官（或腔隙）感染。"
+  },
+  {
+   "cn": "血流感染",
+   "en": "bloodstream infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.21",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "细菌、病毒或其他微生物进入血液循环系统后繁殖形成的全身性感染。包括原发性血流感染和继发性血流感染。"
+  },
+  {
+   "cn": "感染免疫",
+   "en": "infection immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.8",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体在不清除体内感染的情况下而具备的抵抗大量病原体的免疫能力。宿主的免疫力随病原微生物在体内存在而存在，一旦离开此环境或病原微生物消失，免疫力也随之消失。"
+  },
+  {
+   "cn": "国际检疫类传染病",
+   "en": "quarantinable infection",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.2.10",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "在中华人民共和国国际通航的港口、机场及陆地边境和国界江河的口岸，依照《中华人民共和国国境卫生检疫法》规定进行国境卫生检疫的传染病，包括鼠疫、霍乱、黄热病等国务院确定和公布的传染病，防止传染病跨国传播。"
+  },
+  {
+   "cn": "细菌感染类传染病",
+   "en": "bacterial infection",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.2.12",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "携带者或者患者携带致病菌或条件致病菌，通过接触、呼吸道、消化道等多种途径侵入易感者，造成人际间传播的疾病。"
+  },
+  {
+   "cn": "有症状感染",
+   "en": "symptomatic infection",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.23",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "细菌、真菌、病毒、寄生菌等病原体侵入人体后，机体表现出某种病原体感染后特定的临床症状/体征的现象。"
+  },
+  {
+   "cn": "逆温",
+   "en": "temperature inversion",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.3.4",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "在大气对流层中，气温随高度增加而升高的反常现象。"
+  },
+  {
+   "cn": "无症状感染",
+   "en": "asymptomatic infection",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.22",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "细菌、真菌、病毒、寄生菌等病原体侵入人体后，机体不表现出某种病原体感染后特定的临床症状/体征的现象。"
+  },
+  {
+   "cn": "感染率",
+   "en": "prevalence of infection",
+   "source": "社会医学名词",
+   "wordNumber": "9.19",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "感染率",
+   "publishYear": "2025",
+   "definition": "某特定时间内能检查的整个人群样本中，某病现有感染者人数所占的比例。反映人群健康状况以及某病感染水平的指标."
+  }
+ ],
+ "error": null,
+ "raw": null
+}

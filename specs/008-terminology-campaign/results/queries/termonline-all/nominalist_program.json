@@ -1,0 +1,772 @@
+{
+ "key": "nominalist program",
+ "term": "nominalist program",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:25:26+00:00",
+ "status": "ok",
+ "note": "variant=nominalist program; 审定公布名词库=612; 海峡两岸名词对照库=269; 其他来源数据库=66; 预公布名词数据库=48; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "节目",
+   "en": "program",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.043",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻总论",
+   "subjectName": "广播电视新闻总论",
+   "publishYear": "2022",
+   "definition": "广播电台、电视台所有播出内容的基本组织形式和播出单元。"
+  },
+  {
+   "cn": "项目集",
+   "en": "program",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "01.004",
+   "subjectFullName": "化工（五）_通类",
+   "subjectName": "通类",
+   "publishYear": "2021",
+   "definition": "由一组相互关联且被协调管理的项目组成，通过协调好项目间的依赖关系，获得分别管理所无法获得的利益和控制。"
+  },
+  {
+   "cn": "程序",
+   "en": "program",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0002",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "描述计算任务的处理对象和处理规则的计算机语言代码。此处计算任务指任何以计算机为处理工具的任务，处理对象指数据或信息，处理规则一般指处理动作和步骤。"
+  },
+  {
+   "cn": "程序",
+   "en": "program",
+   "source": "电气工程名词",
+   "wordNumber": "16.059",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "四三方案",
+   "en": "4-3 program",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.241",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "中华人民共和国20世纪70年代初向美国、联邦德国、法国、日本、荷兰、瑞士、意大利等西方国家大规模引进成套技术设备的计划统称。"
+  },
+  {
+   "cn": "节目编排",
+   "en": "programming",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.136",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视节目编排播出",
+   "subjectName": "广播电视节目编排播出",
+   "publishYear": "2022",
+   "definition": "根据节目内容、时段、目标受众等因素，对一段时间内节目播出流程的安排和设计。是对节目播出架构的综合规划，也是影响收视的重要因素之一。"
+  },
+  {
+   "cn": "程序设计",
+   "en": "programing",
+   "source": "物理学名词",
+   "wordNumber": "01.0536",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "程序设计",
+   "en": "programming",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0228",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "设计、编制和调试程序的方法与过程。"
+  },
+  {
+   "cn": "训练方案",
+   "en": "training program,exercise program",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0172",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "建设程序",
+   "en": "construction program",
+   "source": "风景园林名词",
+   "wordNumber": "03.0166",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "建设项目从设想、选择、评估、决策、设计、施工到竣工验收，投入使用整个建设过程和先后次序。"
+  },
+  {
+   "cn": "洗涤程序",
+   "en": "washing program",
+   "source": "精细化工名词",
+   "wordNumber": "08.0724",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "一组指令，包含漂洗和脱水步骤的先后顺序，以及相关过程中温度、洗涤液体积、电机输出功率及运行时间等设定参数。"
+  },
+  {
+   "cn": "设计程序",
+   "en": "design program",
+   "source": "风景园林名词",
+   "wordNumber": "03.0313",
+   "subjectFullName": "风景园林_风景园林管理_规划设计管理",
+   "subjectName": "规划设计管理",
+   "publishYear": "2025",
+   "definition": "为完成工程项目的设计，而明确其先后次序所规定的途径。工程设计项目设计程序一般包括：设计和开发策划、设计输入、设计输出、设计评审、设计验证、设计确认、设计更改的控制、设计分包等。"
+  },
+  {
+   "cn": "调试程序",
+   "en": "debugging program",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.661",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "在集成开发环境中判定被编译代码是否有执行错误的程序。"
+  },
+  {
+   "cn": "程序模块",
+   "en": "program module",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.253",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "可由汇编程序、编译程序、装入程序或翻译程序作为一个整体来处理的、一级独立的、可识别的程序指令。"
+  },
+  {
+   "cn": "强纲领",
+   "en": "strong program",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.091",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "由爱丁堡学派较为系统地阐发的科学知识社会学主张。相关研究不仅仅是要求重视社会因素对科学的影响，而且声称社会因素是首要的和决定性的。"
+  },
+  {
+   "cn": "免疫程序",
+   "en": "vaccination program",
+   "source": "兽医学名词",
+   "wordNumber": "02.068",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "根据一定地区或养殖场内不同传染病的流行状况及疫苗特性，为特定动物群制定的疫苗接种类型、次数、途径及间隔时间。"
+  },
+  {
+   "cn": "新闻节目",
+   "en": "news program",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.044",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻总论",
+   "subjectName": "广播电视新闻总论",
+   "publishYear": "2022",
+   "definition": "以报道和评论新近发生的事实为主要内容的广播电视播出单元。"
+  },
+  {
+   "cn": "节目播出",
+   "en": "program broadcasting",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.146",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视节目编排播出",
+   "subjectName": "广播电视节目编排播出",
+   "publishYear": "2022",
+   "definition": "将制作好的节目根据播放日程通过电视、广播等媒介向观众播放。"
+  },
+  {
+   "cn": "应用程序",
+   "en": "application program",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.239",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "一种可以由用户下载、在移动终端设备上加载使用的软件程序。"
+  },
+  {
+   "cn": "方案评价",
+   "en": "program evaluation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.175",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_规划及项目的评估",
+   "subjectName": "规划及项目的评估",
+   "publishYear": "2021",
+   "definition": "运用特定的方法，通过分析资料、搜集证据，客观判断方案的服务成效。"
+  },
+  {
+   "cn": "程序",
+   "en": "program",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "程序",
+   "en": "program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "编程",
+   "en": "programming",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "编程",
+   "en": "programming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "目标程序",
+   "en": "target program\",\"object program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机程序",
+   "en": "computer program",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纲要星",
+   "en": "program star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贷款方案",
+   "en": "lending program",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资规划",
+   "en": "investment program",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "城市计划",
+   "en": "urban program",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "互操作程序",
+   "en": "interoperability program",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "目标程序",
+   "en": "object program",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "外部程序",
+   "en": "external program",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用程序",
+   "en": "application program",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转换程序",
+   "en": "transformation program",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "程序跟踪",
+   "en": "program tracking",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "测试程序",
+   "en": "test program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序保护",
+   "en": "program protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序变异",
+   "en": "program mutation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序代数",
+   "en": "program algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序",
+   "en": "program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程序编码",
+   "en": "program coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "任务程序",
+   "en": "task program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "控制程序",
+   "en": "control program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "后门程序",
+   "en": "backdoor program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性规划",
+   "en": "linear programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非线性规划",
+   "en": "nonlinear programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "整数规划",
+   "en": "integer programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多目标规划",
+   "en": "multiobjective programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程序设计语言",
+   "en": "programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "编程模型",
+   "en": "Programming Model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "命令式编程",
+   "en": "imperative programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "声明式编程",
+   "en": "declarative programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "函数式编程",
+   "en": "functional programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学知识社会学的强纲领",
+   "en": "“strong program”",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.11",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "爱丁堡学派代表人物布鲁尔(David Bloor）提出的科学知识社会学研究纲领。主张所有人类知识都是处于一定的社会建构过程中的信念，这些信念都是相对的、由社会因素决定的。科学知识的社会学研究应遵循四个"
+  },
+  {
+   "cn": "婚礼程式",
+   "en": "wedding program",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.025",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "一男一女婚姻缔结的必经程序。"
+  },
+  {
+   "cn": "免疫规划",
+   "en": "immunization program",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.15",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "根据疫情监测和人群免疫状况分析，按照规定的免疫程序，有计划、有组织地利用疫苗进行预防接种，以提高人群的免疫水平，达到控制乃至最终消灭相应传染病目的的方法。与计划免疫相比，免疫规划更强调国家免疫策略的制"
+  },
+  {
+   "cn": "基础计划",
+   "en": "prerequisite programs",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.18",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "包括良好操作规范在内的，为危害分析与关键控制点（HACCP）体系提供基础操作条件的各项程序。"
+  },
+  {
+   "cn": "胎儿编程",
+   "en": "fetal programming",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "在生长发育的宫内关键期,不良的宫内环境改变胎儿生长发育，从而影响子代远期健康的过程。"
+  },
+  {
+   "cn": "发育编程",
+   "en": "developmental programming",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "在生长发育关键期，暴露于应激源对个体器官系统发育及其功能造成永久性改变的过程。"
+  },
+  {
+   "cn": "科学研究纲领",
+   "en": "scientific research program",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "典型的描述重大科学成就的单位，由硬核、与之相关的由辅助假说构成的“保护带”和启发法构成。"
+  },
+  {
+   "cn": "员工协助方案",
+   "en": "employee assistance program",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.110",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "西方工业社会工作中所推行的一种系统的、长期的员工援助和福利计划。通过整合个人、家庭、组织和社会等多方资源，运用专业人员对组织进行诊断、建议和对员工及其直系亲属提供专业指导、培训和咨询，旨在全方位帮助与"
+  },
+  {
+   "cn": "最高纲领派",
+   "en": "maximalist program fraction",
+   "source": "马克思主义",
+   "wordNumber": "04.0352",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1904年在俄国社会革命党内部形成的一个小资产阶级半无政府主义的恐怖集团。最高纲领派无视资产阶级民主革命这一阶段，坚持立即实行社会革命党的最高纲领，即在实行土地社会化的同时实行工厂社会化；认为劳动农民"
+  },
+  {
+   "cn": "学生饮用奶计划",
+   "en": "student milk program",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "以改善中小学生营养状况、促进中小学生发育成长、提高中小学生健康水平为宗旨，为中小学生提供中国奶业协会许可使用中国学生饮用奶标志的专供中小学生在校饮用的牛奶制品的学生营养改善专项计划。"
+  },
+  {
+   "cn": "操作性前提方案",
+   "en": "operational prerequisite program",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.19",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "为控制食品安全危害在产品或产品加工环境中引入、污染或扩散的可能性，通过危害分析确定的必不可少的前提方案。"
+  },
+  {
+   "cn": "患者援助项目",
+   "en": "patient assistance program,PAP",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.5.2.3",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "由药企向第三方组织捐赠药品，并由受赠组织发起的向特定条件患者提供药品以提高患者用药可及性的项目。"
+  },
+  {
+   "cn": "国家免疫规划",
+   "en": "national immunization program, NIP",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "根据疫情监测和人群免疫状况分析，按照规定的免疫程序，有计划、有组织地利用疫苗为人群进行免费预防接种，以提高人群的免疫水平，达到控制乃至最终消灭相应传染病目的的策略。"
+  },
+  {
+   "cn": "美国国家毒理学计划",
+   "en": "national toxicology program, NTP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.47",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "由美国卫生与公众服务部运行的一个机构间计划，旨在协调、评估和报告公共机构内的毒理学。该计划为促进健康或预防疾病的计划、活动和政策提供了科学依据。"
+  },
+  {
+   "cn": "社会服务项目",
+   "en": "social service program/project",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.24",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "有明确时间期限和任务目标，面向特定人群社会生活需要方面的服务项目，其可由不同主体在一定时间内实施。"
+  },
+  {
+   "cn": "新民主主义经济纲领",
+   "en": "new democratic economic program",
+   "source": "马克思主义",
+   "wordNumber": "02.0336",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在新民主主义革命时期的经济主张和斗争目标。主要包括：没收官僚资本的大银行、大工业、大商业归新民主主义国家所有；没收封建地主阶级的土地，分配给无地和少地的农民，实行“耕者有其田”，发展各种具有"
+  },
+  {
+   "cn": "学生营养改善计划",
+   "en": "student nutrition improvement program",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "2011年11月由国务院启动，以改善我国贫困农村儿童营养健康状况为目的的计划，即为中西部集中连片特殊困难地区的义务教育阶段中小学生提供膳食营养补助。"
+  },
+  {
+   "cn": "国际学生迎新计划",
+   "en": "international student orientation program",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.1.1.2",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "提供有关文化适应过程的信息，并考虑评估学生的文化适应类型，以提供持续支持的过程。"
+  },
+  {
+   "cn": "国家免疫规划疫苗",
+   "en": "national immunization program vaccine",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "国家有计划的为应免疫人群进行常规预防接种、提高人群免疫水平的生物制剂，以达到控制乃至最终消灭相应传染病的目的。"
+  },
+  {
+   "cn": "能力提升计划",
+   "en": "enhancing international student programs",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.1.1.1",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "通过培训、工作坊和课程资源，帮助学生建立社会、文化和交流能力的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,792 @@
+{
+ "key": "monitoring consciousness",
+ "term": "monitoring consciousness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:41:03+00:00",
+ "status": "ok",
+ "note": "variant=monitoring consciousness; 审定公布名词库=821; 海峡两岸名词对照库=143; 其他来源数据库=48; 预公布名词数据库=106; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "监视",
+   "en": "monitoring",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.141",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "在过程操作、过程动态模拟或仿真培训系统中，对于有价值的必要信息通过某种方式实时地显示给用户的过程。可通过监视窗口或监控软件进行监视。"
+  },
+  {
+   "cn": "监听",
+   "en": "monitoring",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.040",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "使用优质电声设备试听和检查录音全过程中各个环节的声音质量的行为。监听设备包括大功率和多功能补偿的优质放大器、扬声器、耳机及房间均衡器等。"
+  },
+  {
+   "cn": "监督",
+   "en": "monitoring",
+   "source": "经济学名词",
+   "wordNumber": "05.044",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "最一般的解释就是监视督促。指对现场或某一特定环节、过程进行监视、督促和管理，使其结果能达到预定的目标。它既是公民的一种权利，也是一种义务。从系统观点来看，监督是行为方式，也是制度规定。监督是一个有机的"
+  },
+  {
+   "cn": "监察",
+   "en": "monitoring",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.119",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "检查研究进行情况的过程。包括进度与质量，并核实数据。"
+  },
+  {
+   "cn": "监测",
+   "en": "monitoring",
+   "source": "林学名词",
+   "wordNumber": "07.176",
+   "subjectFullName": "林学_森林保护_林业有害生物管理",
+   "subjectName": "林业有害生物管理",
+   "publishYear": "2016",
+   "definition": "应用不同尺度的监测技术，获取有害生物发生动态，指导现时的防治实践，并为预警积累相关信息。"
+  },
+  {
+   "cn": "监测",
+   "en": "monitoring",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0598",
+   "subjectFullName": "机械工程_动力机械_内燃机_监控系统",
+   "subjectName": "监控系统",
+   "publishYear": "2013",
+   "definition": "对系统或系统零件的运行所做的观察，以便通过检测不正确的功能来检验正确功能。可以通过测量系统的一个或多个变量并将实测值与规定值进行比较来达到。"
+  },
+  {
+   "cn": "监控",
+   "en": "monitoring",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.032",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "对装备及系统的工作状态不间断地实时监测，并根据反馈信息自动对系统中异常部位实施相应措施的闭合自动控制作用。"
+  },
+  {
+   "cn": "监视",
+   "en": "monitoring",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "02.308",
+   "subjectFullName": "机械工程_仪器仪表_工业自动化仪表与系统_自动控制器及系统_自动控制器及系统一般名词",
+   "subjectName": "自动控制器及系统一般名词",
+   "publishYear": "2003",
+   "definition": "观察系统或系统一部分的工作，确认正确的运行和检出不正确的运行。"
+  },
+  {
+   "cn": "监视",
+   "en": "monitoring",
+   "source": "电气工程名词",
+   "wordNumber": "16.048",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "监测",
+   "en": "monitoring",
+   "source": "医学名词 第六分册",
+   "wordNumber": "11.141",
+   "subjectFullName": "医学_麻醉学",
+   "subjectName": "麻醉学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "监听",
+   "en": "monitoring",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0126",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "监视器",
+   "en": "monitor",
+   "source": "风景园林名词",
+   "wordNumber": "08.0841",
+   "subjectFullName": "风景园林_风景园林工程_风景园林弱电",
+   "subjectName": "风景园林弱电",
+   "publishYear": "2025",
+   "definition": "把摄像机输出的视频信号转换成图像显示在屏幕上的设备。常用阴极射线显像管，根据屏幕对角线距离大小，分为小屏幕（≤37cm）、中屏幕（＜56cm）、大屏幕（≥56cm）。"
+  },
+  {
+   "cn": "水枪",
+   "en": "monitor",
+   "source": "冶金学名词",
+   "wordNumber": "02.1169",
+   "subjectFullName": "冶金学_采矿_矿山机电",
+   "subjectName": "矿山机电",
+   "publishYear": "2019",
+   "definition": "以压力水形成的射流冲击破碎岩土的水力采矿机械。"
+  },
+  {
+   "cn": "监视器",
+   "en": "monitor",
+   "source": "物理学名词",
+   "wordNumber": "03.0889",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "监查员",
+   "en": "monitor",
+   "source": "核医学名词",
+   "wordNumber": "06.0225",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "由申办者任命并对申办者负责的具备相关知识的人员。其任务是监查和报告试验的进行情况和核实数据。"
+  },
+  {
+   "cn": "监视器",
+   "en": "monitor",
+   "source": "核医学名词",
+   "wordNumber": "03.0274",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "监视系统输出结果可视化显示的装置。"
+  },
+  {
+   "cn": "监视器",
+   "en": "monitor",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0680",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "一种用于监控的显示器。"
+  },
+  {
+   "cn": "信息接受者",
+   "en": "monitor",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0541",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "寻求和获取各种内部和外部的信息的人员。"
+  },
+  {
+   "cn": "监测",
+   "en": "monitor",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.031",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "对装备、系统或其一部分的工作正常性进行实时监视而采取的任何在线测试手段。"
+  },
+  {
+   "cn": "水枪",
+   "en": "monitor",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.289",
+   "subjectFullName": "煤炭科学技术_煤矿开采_水力采煤",
+   "subjectName": "水力采煤",
+   "publishYear": "1996",
+   "definition": "将压力水转化为水射流并进行冲采煤炭或剥离物的机械。"
+  },
+  {
+   "cn": "监测",
+   "en": "monitoring",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "监视",
+   "en": "monitoring",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "监测",
+   "en": "monitoring",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "监控",
+   "en": "monitoring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "监测",
+   "en": "monitoring",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "监视器",
+   "en": "monitor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "监测器",
+   "en": "monitor",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "监控程序",
+   "en": "monitor\",\"monitor program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性监测",
+   "en": "biodiversity monitoring",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本底监测",
+   "en": "baseline monitoring",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候监测",
+   "en": "climatic monitoring",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "监测站",
+   "en": "monitoring station",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自我监控",
+   "en": "self monitoring",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "污染监测",
+   "en": "pollution monitoring",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "环境监测",
+   "en": "environmental monitoring",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "环境监测",
+   "en": "environmental monitoring",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "监测网",
+   "en": "monitoring network",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "近海监测",
+   "en": "coastal monitoring",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "物联网监控",
+   "en": "IoT monitoring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据监听",
+   "en": "data monitoring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疫情监测",
+   "en": "epidemic monitoring",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "公共舆情监测",
+   "en": "public opinion monitoring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康监控器具",
+   "en": "health monitoring device",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "告警日志监控",
+   "en": "alarm log monitoring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟机监视器",
+   "en": "virtual machine monitor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教练员",
+   "en": "coach\",\"trainer\",\"monitor",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "识",
+   "en": "Vijñāna / Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险监控平台",
+   "en": "financial risk monitoring platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子警察",
+   "en": "intelligent traffic monitoring system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "便携式健康监测设备",
+   "en": "portable health monitoring equipment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“梯队”全球监控系统",
+   "en": "ECHELON Global Monitoring System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "监测体温",
+   "en": "to monitor body temperature ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融安全监测防护",
+   "en": "financial security monitoring and protection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态环境监测网络",
+   "en": "ecological and environmental monitoring network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医保智能监控",
+   "en": "intelligent monitoring for medical insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "监控",
+   "en": "monitoring",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.10",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "为了评估关键控制点是否处于控制之中，对被控制参数按计划进行观察和测量的活动。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "马克思主义",
+   "wordNumber": "01.0011",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质世界长期发展的产物，是人脑的机能，是物质世界在人脑中的主观映像。意识也是社会的产物。意识由物质决定，又具有相对独立性和能动性，能够能动地反映和改造世界。"
+  },
+  {
+   "cn": "物理监测",
+   "en": "physical monitoring",
+   "source": "消毒学",
+   "wordNumber": "1.2.3.1",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "使用内置或外配记录仪对灭菌器压力、温度等物理参数进行的监测。"
+  },
+  {
+   "cn": "化学监测",
+   "en": "chemical monitoring",
+   "source": "消毒学",
+   "wordNumber": "1.2.3.2",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "使用化学指示物对灭菌过程或灭菌效果进行的监测。"
+  },
+  {
+   "cn": "工艺监测",
+   "en": "process monitoring",
+   "source": "消毒学",
+   "wordNumber": "1.2.3.4",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "对灭菌全过程操作环节和各种因素进行检查和记录的过程。"
+  },
+  {
+   "cn": "辐射监测",
+   "en": "radiation monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为了评估和控制辐射源或放射性物质的照射水平，对其产生的辐射剂量或活度所做的测量及对测量结果的解释。"
+  },
+  {
+   "cn": "个人监测",
+   "en": "personal monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为提供工作人员个人所接受的辐射水平而进行的辐射监测。"
+  },
+  {
+   "cn": "常规监测",
+   "en": "routine monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为确定工作条件是否适合继续进行操作，在规定场所按预先规定的时间间隔所进行的监测。"
+  },
+  {
+   "cn": "特殊监测",
+   "en": "special monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "旨在调查工作场所中某一特定情况进行的监测。当现有信息不足以证明对该情况有充分控制时，通过监测为阐明存在的问题和确定未来的操作程序提供更详细的信息。通常应在新设施运行阶段、设施或程序发生了重大变更后，或"
+  },
+  {
+   "cn": "呼出气监测",
+   "en": "expiration monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "全称“呼出气放射性活度测量（measurement of activity in expiration）”。测量呼出气中放射性活度的方法。对疑有摄入过量钍或镭的人员，测量呼出气中232Th和226Ra"
+  },
+  {
+   "cn": "实验室监测",
+   "en": "laboratory monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.3.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_工作场所监测",
+   "subjectName": "工作场所监测",
+   "publishYear": "2025",
+   "definition": "在实验室按照相关规定、标准或准则对放射性样品进行的一系列检测和分析的过程。"
+  },
+  {
+   "cn": "连续监测",
+   "en": "continuous monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.5.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测",
+   "subjectName": "流出物监测",
+   "publishYear": "2025",
+   "definition": "在所关心的时期内的不间断的放射性监测。"
+  },
+  {
+   "cn": "退役监测",
+   "en": "decommissioning monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.6.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_其他类型监测",
+   "subjectName": "其他类型监测",
+   "publishYear": "2025",
+   "definition": "在放射性同位素与射线装置设施退役过程及退役后某一段时间内所进行的环境监测，其主要目的在于对设施退役过程中和完成退役处置工程之后所可能产生的环境影响进行监测。"
+  },
+  {
+   "cn": "清洁解控监测",
+   "en": "clearance monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.6.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_其他类型监测",
+   "subjectName": "其他类型监测",
+   "publishYear": "2025",
+   "definition": "为了证明能达到清洁解控水平对已通知或已获准实践中的源（包括物质、材料和物品）进行的监测。"
+  },
+  {
+   "cn": "监测率",
+   "en": "monitoring rate",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "受监测人员总数与应监测人员总数之比。"
+  },
+  {
+   "cn": "自我监控",
+   "en": "self-monitoring",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们依据社会情境需要而采取相应行动，从而敏感而灵活地表现出相应的自我形象。"
+  },
+  {
+   "cn": "健康状况监测",
+   "en": "health monitoring",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.8.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "通过持续的系统性措施，收集、分析和评估与健康相关的数据和信息的过程。该过程旨在掌握健康现状和规律，为政府有关部门决策、制定干预项目提供信息，促进学生身体健康状况的有效监控与改善。"
+  },
+  {
+   "cn": "胎儿监护",
+   "en": "fetal monitoring",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "采用生物物理和生物化学等技术监测胎儿宫内健康状况的一些列措施。包括胎心电子监护、胎儿生物物理评分和胎肺成熟度等方法。"
+  },
+  {
+   "cn": "应急监测",
+   "en": "emergency monitoring",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.14",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "根据应对突发事件、回应舆情和百姓关注等开展的监测"
+  },
+  {
+   "cn": "常规监测",
+   "en": "routine monitoring",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.12",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "根据以往检测的食品类型和项目在全国范围内开展的全局性调查，以了解省级和国家级的污染水平，掌握基线值"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

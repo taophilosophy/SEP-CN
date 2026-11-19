@@ -1,0 +1,762 @@
+{
+ "key": "kinship intensity",
+ "term": "kinship intensity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:29:32+00:00",
+ "status": "ok",
+ "note": "variant=kinship intensity; 审定公布名词库=600; 海峡两岸名词对照库=155; 其他来源数据库=29; 预公布名词数据库=37; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "亲缘关系",
+   "en": "kinship",
+   "source": "农学名词",
+   "wordNumber": "15.322",
+   "subjectFullName": "农业生物技术_生物大数据和人工智能",
+   "subjectName": "生物大数据和人工智能",
+   "publishYear": "2025",
+   "definition": "生物类群在系统发生上所显示的某种血缘关系。"
+  },
+  {
+   "cn": "血缘",
+   "en": "kinship",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.297",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "由生育而自然形成的血统关系。"
+  },
+  {
+   "cn": "亲缘关系矩阵",
+   "en": "kinship matrix",
+   "source": "农学名词",
+   "wordNumber": "15.323",
+   "subjectFullName": "农业生物技术_生物大数据和人工智能",
+   "subjectName": "生物大数据和人工智能",
+   "publishYear": "2025",
+   "definition": "群体中两两个体之间的基因型相似度组成的矩阵。"
+  },
+  {
+   "cn": "亲缘关系",
+   "en": "kinship;relationship",
+   "source": "动物学名词",
+   "wordNumber": "2.0268",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "生物类群在系统发生上所显示的某种血缘关系。"
+  },
+  {
+   "cn": "集约度",
+   "en": "intensity",
+   "source": "农学名词",
+   "wordNumber": "19.214",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "单位生产面积上所投入的生产要素数量。该值越高，则集约度越高；反之越低。"
+  },
+  {
+   "cn": "光强",
+   "en": "intensity",
+   "source": "光学名词",
+   "wordNumber": "01.161",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述发光体(或反射体)/接收体的发射(或反射)/接收光能量特性的物理量。数值为在给定方向上单位面积、单位立体角内所发射(或反射)/接收的光能量，单位是坎德拉/米²(cd/m²)或尼特(nit)。"
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0030",
+   "subjectFullName": "机械工程（一）_机械强度_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "(1)零件承受载荷后抵抗发生断裂或超过容许限度的残余变形的能力。(2)阻止失效发生的任何因素。"
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "心理学名词",
+   "wordNumber": "02.178",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "光、声、电流等的强弱。"
+  },
+  {
+   "cn": "亮度",
+   "en": "intensity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.349",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "色彩的明亮程度，即色彩对光照的反射程度。"
+  },
+  {
+   "cn": "音强",
+   "en": "intensity",
+   "source": "语言学名词",
+   "wordNumber": "03.187",
+   "subjectFullName": "语言学_语音学_声学语音学",
+   "subjectName": "声学语音学",
+   "publishYear": "2011",
+   "definition": "语音的强弱。主要取决于发音时声门下压力的大小，也跟声腔共鸣特性有关。"
+  },
+  {
+   "cn": "地震烈度",
+   "en": "intensity;earthquake intensity;seismic intensity",
+   "source": "地质学名词",
+   "wordNumber": "11.02.036",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "地震时某一地区的地面遭受影响的强弱程度。是地震破坏作用大小的一种量度，受地震破坏越大的地区，地震烈度越高。一个地区地震烈度的大小与震源深度、震中距、方位角、地质构造以及土壤性质等许多因素有关。"
+  },
+  {
+   "cn": "三党",
+   "en": "san dang;three kinships",
+   "source": "中国古代史名词",
+   "wordNumber": "1.299",
+   "subjectFullName": "中国古代史_通论_社会经济_身份户丁",
+   "subjectName": "身份户丁",
+   "publishYear": "2022",
+   "definition": "父党、母党、妻党。始于先秦，党指亲族，可指全部同宗，亦可只指五服之内的同宗。父、母、妻之同宗合为全部亲戚关系，按其远近亲疏在社会生活中起重要作用。"
+  },
+  {
+   "cn": "发光强度",
+   "en": "luminescence intensity,luminous intensity",
+   "source": "光学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "表示光源在一定方向范围内发出的可见光辐射强度的物理量。单位为坎德拉(cd)。"
+  },
+  {
+   "cn": "火[线]强度",
+   "en": "fire intensity,fireline intensity",
+   "source": "林学名词",
+   "wordNumber": "07.299",
+   "subjectFullName": "林学_森林保护_森林防火",
+   "subjectName": "森林防火",
+   "publishYear": "2016",
+   "definition": "在单位时间内、单位火线长度释放的热量。目前一般采用美国人拜拉姆(Byram)提出的火线强度，计算公式：<img src='/root/syzx/static/spz/linxue2.07.299.1."
+  },
+  {
+   "cn": "辐射强度",
+   "en": "radiation intensity,radiant intensity",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0381",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋物理学",
+   "subjectName": "海洋物理学",
+   "publishYear": "2007",
+   "definition": "在给定方向的立体角元内，单位立体角离开点辐射源的辐射功率。"
+  },
+  {
+   "cn": "基本烈度",
+   "en": "basic intensity,zoning intensity",
+   "source": "土木工程名词",
+   "wordNumber": "16.011",
+   "subjectFullName": "土木工程_地震工程与防震工程",
+   "subjectName": "地震工程与防震工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地震烈度",
+   "en": "earthquake intensity,seismic intensity",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity,strength",
+   "source": "物理学名词",
+   "wordNumber": "01.0273",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "光亮度",
+   "en": "illuminance,intensity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0691",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "沿给定方向表面的单位投影面积朝单位立体角内所发出的光通量。"
+  },
+  {
+   "cn": "震中烈度",
+   "en": "epicenter intensity",
+   "source": "地质学名词",
+   "wordNumber": "11.02.037",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "震中区的烈度。通常是一次地震中的最高烈度。"
+  },
+  {
+   "cn": "亲缘关系",
+   "en": "kinship",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亲缘关系",
+   "en": "kinship",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "亲属研究",
+   "en": "kinship study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "光亮度",
+   "en": "intensity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意向",
+   "en": "intension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集约的",
+   "en": "intensive",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "光强度",
+   "en": "light intensity\",\"luminous intensity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "辐射强度",
+   "en": "radiation intensity\",\"radiant intensity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity\",\"strength",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "照度",
+   "en": "illumination\",\"intensity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity\",\"strength",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分枝强度",
+   "en": "branching intensity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光强度",
+   "en": "light intensity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种群强度",
+   "en": "population intensity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光照强度",
+   "en": "light intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "降水强度",
+   "en": "precipitation intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "降雨强度",
+   "en": "rainfall intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强度等级",
+   "en": "intensity level",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "集约文化",
+   "en": "intensive culture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症监护室",
+   "en": "intensive care unit",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据密集型科学",
+   "en": "Data-Intensive Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贸易服务集约",
+   "en": "intensive trade service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据密集型科学范式",
+   "en": "data-intensive scientific paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症监护病房/重症监护病区",
+   "en": "intensive care unit (ICU)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发纤秾于简古，寄至味于淡泊",
+   "en": "Intricacy Within Plainness, and Intensity Beneath Quietude",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多强度诱骗态调制方案（中国）",
+   "en": "Multi-intensity Decoy State Modulation Scheme (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主肋骨",
+   "en": "main frame\",\"midship",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络化诚信",
+   "en": "networked integrity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据完整性",
+   "en": "data integrity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完整性服务",
+   "en": "integrity service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完整性原则",
+   "en": "integrity principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲属关系",
+   "en": "kinship",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.36",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "基于婚姻、血缘和法律拟制形成的社会关系。一般分为血亲和姻亲。"
+  },
+  {
+   "cn": "亲属",
+   "en": "kinship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0388",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "因婚姻血缘和收养而产生的人际关系，例如，夫妻、父母子女、兄弟姐妹、养父母、养子女等。亲属有血亲和姻亲之分，又有直系和旁系之别。"
+  },
+  {
+   "cn": "双系亲属关系",
+   "en": "bilateral kinship",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.39",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "承认父母双方的血缘，同等地沿着父母双方的家系扩展亲属网络，亲属间相互的正式权利和职责均双系计算的亲属关系。 与单系亲属关系相对。"
+  },
+  {
+   "cn": "亲属制度",
+   "en": "kinship system",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "反映人们的亲属关系以及代表这些亲属关系的称谓的一种社会规范，是生育活动的社会组织，是得到社会认可的，包括血亲和姻亲在内的谱系关系。包括血统制度、婚姻制度、称谓制度、居住制度和财产继承制度等。"
+  },
+  {
+   "cn": "亲属称谓",
+   "en": "kinship terminology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "用于指称各类亲属的称谓制度。在一些民族中有对称和引称的区分。"
+  },
+  {
+   "cn": "亲属称谓",
+   "en": "kinship terms",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0402",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对亲属的称呼，或具有亲属关系者的互称。"
+  },
+  {
+   "cn": "亲属制度",
+   "en": "kinship system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0401",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种以血缘或者姻缘为体系的，以婚姻家庭为中心的包括家族亲属和族外亲属在内的社会关系秩序化规范制度。"
+  },
+  {
+   "cn": "拟亲属关系",
+   "en": "pseudo kinship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0406",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对亲缘关系的模仿、复制与扩展，关系双方使用亲属称谓，维系着亲属般的亲密关系，履行相互帮扶的义务。在中国，拟亲属关系主要有两种表现形式：①通过某种文化仪式将非亲属关系转变为亲属或拟亲属关系，包括平辈关系"
+  },
+  {
+   "cn": "默多克亲属制度分类法",
+   "en": "Murdock kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0405",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家默多克（George Peter Murdock）将世界所有的亲属称谓制度归纳为六类。①夏威夷式：夏威夷型的称谓只用性别和辈份来区分亲属，即同性别同辈分是一种称谓，同性别不同辈分或同辈分不"
+  },
+  {
+   "cn": "摩尔根亲属制度",
+   "en": "Morgan kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0403",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国民族学家摩尔根（Lewis Henry Morgan）是亲属制度的创始者，他先后在《人类家庭的血亲和姻亲制度》《古代社会》等名著中介绍和阐述了人类历史上存在过的三种亲属制度：马来亚式、图兰尼亚式和"
+  },
+  {
+   "cn": "罗维亲属制度",
+   "en": "Lowio kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0404",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家（Robert Lowie）以尊一辈的血亲为基础，辅以支系、旁系之别，提出“四分法”。①行辈型：把旁系的亲属称谓依辈分全部纳入直系的亲属称谓体系中。②二分合并式：把旁系的亲属称谓一分为二，"
+  },
+  {
+   "cn": "亲等",
+   "en": "degree of kinship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0399",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "衡量亲属关系亲疏远近的尺度，亲等少则关系近，亲等多则关系远。根据世界各国亲属法的规定，亲等制度分为世代亲等制度和等级亲等制度。世代亲等制度是以一世代为一亲等的计算制度。等级亲等制度是以世代的远近，参酌"
+  },
+  {
+   "cn": "紫外线强度",
+   "en": "ultraviolet intensity",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.8",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "单位时间内与紫外线传播方向垂直的单位面积上接收到的紫外线能量。单位以微瓦每平方厘米（μW/cm2）、瓦每平方米（W/m2）表示。"
+  },
+  {
+   "cn": "劳动强度",
+   "en": "labor intensity",
+   "source": "马克思主义",
+   "wordNumber": "02.0138",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工作日的长度表示劳动力支出的外延的量，而劳动强度则表示其内含的量。它是一定时间内所进行的劳动的密度，反映单位劳动时间内实际耗费的劳动的数量指标。"
+  },
+  {
+   "cn": "运动强度",
+   "en": "exercise intensity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "反映机体在运动过程中用力的大小和机体紧张度的一个指标。是决定运动量的主要因素，是运动处方的核心部分。"
+  },
+  {
+   "cn": "危险强度",
+   "en": "risk intensity",
+   "source": "社会医学名词",
+   "wordNumber": "7.4.1",
+   "subjectFullName": "健康管理",
+   "subjectName": "群体健康评价",
+   "publishYear": "2025",
+   "definition": "计算某一单项危险因素去除后，人群增长年龄与评价年龄之差的平均数，反映了某一危险因素对人群健康影响的严重程度。"
+  },
+  {
+   "cn": "文化强度",
+   "en": "culture intensity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0549",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家克罗伯（Alfred L. Kroeber）提出的概念。它指的是文化达到并维持文化水平的程度，强度较大的文化是那些文化特征清楚、制度和关系明确的文化。一种文化的高峰是该文化区内的中心，这个"
+  },
+  {
+   "cn": "精耕农业",
+   "en": "intensive farming",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.017",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在一定面积的土地上，投入较多的生产资料、劳动和技术，进行细致的土地耕作方式，最大限度提高单位面积产量，充分发挥土地潜力的农业经营方式。"
+  },
+  {
+   "cn": "强光照射试验",
+   "en": "intense light test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "测定消毒剂经规定光照条件后稳定性的试验。一般新有效成分消毒剂应进行此项试验。"
+  },
+  {
+   "cn": "紫外线强度指示卡",
+   "en": "ultraviolet intensity indicator card",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.9",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "现场监测紫外线强度的由卡片纸、紫外线感光色块和标准色组成的化学指示物。在紫外线照射下，指示卡上的特殊材料会发生化学反应，产生颜色变化，颜色的深浅程度与紫外线辐照的总剂量具有强相关性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

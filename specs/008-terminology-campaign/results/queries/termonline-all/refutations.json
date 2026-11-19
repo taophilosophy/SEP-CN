@@ -1,0 +1,602 @@
+{
+ "key": "refutations",
+ "term": "refutations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:01:53+00:00",
+ "status": "ok",
+ "note": "variant=refutations; 审定公布名词库=79; 海峡两岸名词对照库=9; 其他来源数据库=16; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "反驳",
+   "en": "refutation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.159",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "驳斥他人论证的一种逻辑方式。运用已知的真实性判断确定要反驳的判断的虚假性的思维方式。"
+  },
+  {
+   "cn": "证伪",
+   "en": "refutation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0063",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "证明一个命题的否定成立的过程。"
+  },
+  {
+   "cn": "可驳[的]",
+   "en": "refutable",
+   "source": "数学名词",
+   "wordNumber": "02.0132",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "反驳树",
+   "en": "refutation tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0091",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "反驳证明过程的树表示法。"
+  },
+  {
+   "cn": "名誉",
+   "en": "reputation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.101",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻传播与人格权",
+   "subjectName": "新闻传播与人格权",
+   "publishYear": "2022",
+   "definition": "特定人(包括自然人和法人)获得的品质、操守、才能及其他素质的社会评价。"
+  },
+  {
+   "cn": "美誉度",
+   "en": "reputation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.086",
+   "subjectFullName": "新闻学与传播学_公共关系_公关关系实务",
+   "subjectName": "公关关系实务",
+   "publishYear": "2022",
+   "definition": "组织获得公众信任、好感、接纳和欢迎的程度。是评价组织声誉好坏的社会指标，侧重于“质”的评价，即公众对组织及其社会影响之善恶、美丑、好坏方面的主观感受，反映了公众对组织的信任和赞美程度。"
+  },
+  {
+   "cn": "信誉",
+   "en": "reputation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0385",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "基于实体（如软件）过去行为的信息对其当前行为及其服务质量等的期望。"
+  },
+  {
+   "cn": "条例",
+   "en": "rules; regulations",
+   "source": "档案学名词",
+   "wordNumber": "02.01.049",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "规范性文件的一种，适用于对某一方面的工作作比较全面、系统的规定。对于党的领导机关而言,条例可作为党内规章的名称；对于国家权力机关而言,条例可作为国家法律、地方性法规、民族自治地方有关法规文件的名称；对"
+  },
+  {
+   "cn": "市政自治条例",
+   "en": "City Regulations",
+   "source": "世界历史名词",
+   "wordNumber": "05.0063",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄罗斯帝国的城市治理法规：1785年实行社会各阶层自治；1846年在彼得堡，1862年在莫斯科用全市所有阶层的市杜马代替六议员杜马；1870年实行资产阶级市政改革；1892年把市杜马变成政府处理地方经"
+  },
+  {
+   "cn": "港章",
+   "en": "port regulations",
+   "source": "水产名词",
+   "wordNumber": "10.097",
+   "subjectFullName": "水产_渔业工程与渔港",
+   "subjectName": "渔业工程与渔港",
+   "publishYear": "2002",
+   "definition": "主管部门制定的港口管理规章制度。"
+  },
+  {
+   "cn": "港章",
+   "en": "port regulations",
+   "source": "航海科技名词",
+   "wordNumber": "13.0287",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "信誉系统",
+   "en": "reputation system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0210",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "含有信任模型、评定信息传播、信任评价机制的系统。"
+  },
+  {
+   "cn": "组织声誉",
+   "en": "organizational reputation",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0265",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织结构与文化",
+   "subjectName": "组织结构与文化",
+   "publishYear": "2016",
+   "definition": "组织的过去行为结果和将来前景对其所有利益相关者的整体吸引力。"
+  },
+  {
+   "cn": "文件处置办法",
+   "en": "Records Disposition Regulations",
+   "source": "档案学名词",
+   "wordNumber": "08.02.038",
+   "subjectFullName": "档案学_中国档案事业史_档案工作制度",
+   "subjectName": "档案工作制度",
+   "publishYear": "2024",
+   "definition": "档案管理办法之一。中国共产党于1931年制定的第一个档案管理办法。具体做法：将中央文件分成四大类，每一大类内的文件按十进位的方式分成政治、苏维埃、组织、宣传、妇女、军事、农民、职工、青年、党务十个小类"
+  },
+  {
+   "cn": "兴奋剂检查规则",
+   "en": "doping testing regulations",
+   "source": "运动医学名词",
+   "wordNumber": "09.088",
+   "subjectFullName": "运动医学_反兴奋剂_中华人民共和国《反兴奋剂条例》",
+   "subjectName": "中华人民共和国《反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "国务院体育主管部门或体育组织按照实际工作程序和要求制定的有关兴奋剂检查工作的一系列规章制度。"
+  },
+  {
+   "cn": "标准化条例",
+   "en": "regulations for standardization",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.207",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "由国家或行业颁布的标准化实施章程。"
+  },
+  {
+   "cn": "名誉权",
+   "en": "right of reputation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.102",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻传播与人格权",
+   "subjectName": "新闻传播与人格权",
+   "publishYear": "2022",
+   "definition": "公民、法人、非法人组织等享有应该受到社会公正评价和要求他人不得非法损害这种公正评价的权利，名誉权的主体不仅包括自然人，还包括法人、非法人组织、死者等。"
+  },
+  {
+   "cn": "里彭土地条例",
+   "en": "Ripon Land Regulations,1831",
+   "source": "世界历史名词",
+   "wordNumber": "04.0793",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_澳洲和大洋洲",
+   "subjectName": "澳洲和大洋洲",
+   "publishYear": "2012",
+   "definition": "1831年，由英国殖民大臣戈德里奇颁布的条例，详细规定了澳大利亚公共土地出租及出售的方式、价格、付款办法。"
+  },
+  {
+   "cn": "交通规则",
+   "en": "traffic rules,traffic regulations",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.208",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "清档制度",
+   "en": "regulations of archival coping",
+   "source": "档案学名词",
+   "wordNumber": "08.02.011",
+   "subjectFullName": "档案学_中国档案事业史_档案工作制度",
+   "subjectName": "档案工作制度",
+   "publishYear": "2024",
+   "definition": "清代管理档案的一项制度。军机处替皇帝撰拟谕旨和办理奏折，每日由值日章京将所拟之各项谕旨、所递送之片单，按类依次登抄于簿；各项草拟稿件，由值日章京会同领班章京检齐销毁，时称“清档”。"
+  },
+  {
+   "cn": "反驳",
+   "en": "refutation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证伪",
+   "en": "refutation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "港章",
+   "en": "port regulations",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航海法规",
+   "en": "maritime rules and regulations",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "渔港规章",
+   "en": "regulations of fishery harbor",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "渔业法规",
+   "en": "fishery rules and regulations",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "舰艇编队运动规则",
+   "en": "regulations for ship formation movement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "违章排放",
+   "en": "discharge in violation of regulations",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "国际海上避碰规则",
+   "en": "International Regulations for Preventing Collisions at Sea GSE\",\"COLREGS",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交通规则",
+   "en": "traffic regulations",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交通规则",
+   "en": "traffic regulations",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际卫生条例",
+   "en": "International Health Regulations (IHR)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "Web信誉服务",
+   "en": "web reputation service (WRS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网信息服务管理办法》（中国）",
+   "en": "Regulations on Internet Information Service (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《贵州省大数据安全保障条例》",
+   "en": "Regulations of Guizhou Province on Big Data Security Control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《贵阳市大数据安全管理条例》",
+   "en": "Regulations of Guiyang City on Big Data Security Management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《贵阳市政府数据共享开放条例》",
+   "en": "Regulations of Guiyang City on Open and Shared Government Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中华人民共和国政府信息公开条例》",
+   "en": "Regulations of the People’s Republic of China on Open Government Information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《天津市促进大数据发展应用条例》",
+   "en": "Regulations of Tianjin Municipality on Promoting the Development and Application of Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《贵州省大数据发展应用促进条例》",
+   "en": "Regulations of Guizhou Province on Promoting the Development and Application of Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中华人民共和国计算机信息系统安全保护条例》",
+   "en": "Regulations of the People’s Republic of China for Safety Protection of Computer Information Systems",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《信息网络传播权保护条例》（中国）",
+   "en": "Regulations on the Protection of the Right to Communicate Works to the Public over Information Networks (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "九制",
+   "en": "nine regulations",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "传染病报告制度、师生员工晨午检制度、师生员工因病缺课/缺勤登记及追踪制度、复课/复工证明查验制度、健康管理制度、免疫接种证查验制度、传染病防控健康教育制度、通风消毒制度和环境卫生检查通报制度的总称。在"
+  },
+  {
+   "cn": "族规",
+   "en": "regulations of the clan",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.8",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "家族或宗族用以约束和规定族内成员的行为规范和道德公约。宋明以来随着宗族势力的成长，作为团体组织原则而得以推行。特点是维护宗法，维护等级制度和奉行儒家伦常，并由此衍生出了“族权”、”族长”等一套权力体系"
+  },
+  {
+   "cn": "乡规民约",
+   "en": "rural rules and regulations",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0167",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国民间社会长期以来自发形成的依靠习惯和道德力量发挥约束力的行为规范和行为模式，流行于全国各地。"
+  },
+  {
+   "cn": "民族工作法律法规体系",
+   "en": "ethnic laws and regulations system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0079",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "解决民族问题、处理民族事务所制定的法律和法规体系，是中国特色社会主义法制体系的重要组成部分。该体系以宪法的相关规定为根本，以民族区域自治法为主干，包括其他关于民族方面的法律规定，国务院及其各部门制定的"
+  },
+  {
+   "cn": "《中俄伊塔通商章程》",
+   "en": "trade regulations of lli Tarbehtei",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0611",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "1851 年清政府与沙俄签订的不平等条约，主要内容涉及通商、纳税、领事设置、贸易圈的设置等。《中俄伊塔通商章程》使俄国第一次取得在华设置领事及领事裁判权，是近代中俄关系发生性质变化的标志。"
+  },
+  {
+   "cn": "工伤保险条例",
+   "en": "regulations for insurance of work-related injury",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.3.5",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关行政法规",
+   "subjectName": "放射卫生相关行政法规",
+   "publishYear": "2025",
+   "definition": "为了保障因工作遭受事故伤害或者患职业病的职工获得医疗救治和经济补偿，促进工伤预防和职业康复，分散用人单位的工伤风险而制定的行政法规。2003年4月27日以国务院令第375号公布，2010年修订。自20"
+  },
+  {
+   "cn": "中国人体器官捐献和移植条例",
+   "en": "chinese human organ donation and transplantation regulations",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.06",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "为了规范人体器官捐献和移植，保证医疗质量，保障人体健康，维护公民的合法权益，弘扬社会主义核心价值观，2023 年10 月20 日国务院第17 次常务会议通过，并于2024年5 月1 日起施行的行政法规"
+  },
+  {
+   "cn": "中国共产党纪律处分条例",
+   "en": "discipline regulations of the Communist Party of China",
+   "source": "马克思主义",
+   "wordNumber": "03.0756",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为维护党的章程和其他党内法规，严肃党的纪律，纯洁党的组织，保障党员民主权利，教育党员遵纪守法，维护党的团结统一，保证党的路线、方针、政策、决议和国家法律、法规的贯彻执行，依据党章和宪法、法律，结合党的"
+  },
+  {
+   "cn": "社区名誉保护原则",
+   "en": "principle of preserving the reputation of the community",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.043",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在疫情防控过程中，为避免将种族、地域等社区特征与传染性疾病相联系，造成对某些社区及其人群的歧视而制定的避免社区名誉受到不正当损害的行为准则。"
+  },
+  {
+   "cn": "职业病诊断与鉴定管理办法",
+   "en": "administration regulations for diagnosis and judge of occupational diseases",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.5.1.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关规章_放射卫生相关部门规章",
+   "subjectName": "放射卫生相关部门规章",
+   "publishYear": "2025",
+   "definition": "为了规范职业病诊断与鉴定工作，加强职业病诊断与鉴定管理而制定的部门规章。2021 年1月4日以国家卫生健康委员会令第6号公布，自公布之日起施行。"
+  },
+  {
+   "cn": "中国共产党党内监督条例",
+   "en": "intraparty oversight regulations of the communist party of China",
+   "source": "马克思主义",
+   "wordNumber": "03.0755",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "根据党章而制定的专门条例。《条例（试行）》共5章、47条，于2004年2月17日由中共中央发布并试行。2016年10月27日，中国共产党第十八届中央委员会第六次全体会议审议通过了《中国共产党党内监督条"
+  },
+  {
+   "cn": "放射性同位素与射线装置安全和防护条例",
+   "en": "regulations on the safety and protection of radioisotope and radiation devices",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.3.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关行政法规",
+   "subjectName": "放射卫生相关行政法规",
+   "publishYear": "2025",
+   "definition": "为了加强对放射性同位素、射线装置安全和防护的监督管理，促进放射性同位素、射线装置的安全应用，保障人体健康，保护环境而制定的行政法规。2005年9月14日以国务院令第449号公布。2014年和2019年"
+  },
+  {
+   "cn": "军队传染病防治条例",
+   "en": "regulations on the prevention and treatment of infectious diseases in military forces",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.6.1",
+   "subjectFullName": "军事预防医学_军队流行病学_军队传染病预防与控制",
+   "subjectName": "军队传染病预防与控制",
+   "publishYear": "2025",
+   "definition": "中国军队发布的针对传染病防治的军事法规。是中国军队传染病防治的基本法律依据。"
+  },
+  {
+   "cn": "中国共产党党员权利保障条例",
+   "en": "regulations on the protection of the rights of members of the Communist Party of China",
+   "source": "马克思主义",
+   "wordNumber": "03.0757",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了发展党内民主，健全党内生活，坚持民主集中制原则，增强党的生机活力，保障党员权利的正常行使和不受侵犯，根据党章而制定的专门条例。作为党员权利保障的基础性法规，早在1995年党中央就印发了试行《条例》"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

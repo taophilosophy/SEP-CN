@@ -1,0 +1,792 @@
+{
+ "key": "virtual extension",
+ "term": "virtual extension",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:25:30+00:00",
+ "status": "ok",
+ "note": "variant=virtual extension; 审定公布名词库=2121; 海峡两岸名词对照库=635; 其他来源数据库=131; 预公布名词数据库=61; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "虚拟",
+   "en": "virtual",
+   "source": "核医学名词",
+   "wordNumber": "03.0573",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "按照特定规律建立的非真实性、与实物有明确映射关联的图像技术。"
+  },
+  {
+   "cn": "虚拟化",
+   "en": "virtualization",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.068",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "将计算机的各种实体资源在抽象、转换后呈现出来，打破实体结构间的不可切割的障碍，使用户可以比原本的配置更好的方式来应用这些资源的一种资源管理技术。"
+  },
+  {
+   "cn": "虚拟化",
+   "en": "virtualization",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.110",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统",
+   "subjectName": "医学影像信息系统",
+   "publishYear": "2020",
+   "definition": "将一台或多台计算机虚拟为一台或多台逻辑计算机的技术。每个逻辑计算机可运行不同的操作系统，并且应用程序都可以在相互独立的空间内运行而互不影响，从而显著提高计算机的工作效率。"
+  },
+  {
+   "cn": "虚拟化",
+   "en": "virtualization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1224",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "将计算机的物理资源（如处理器、网络、内存及外存等）予以抽象、转换后呈现出来的技术。其不受原始物理资源在数量、组态等方面的限制，使用户可以更好地使用这些资源。"
+  },
+  {
+   "cn": "可扩展性",
+   "en": "extendability,extensibility",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0475",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "系统或部件可以通过修订而增加其功能或存储与处理能力的程度。"
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "整形外科名词",
+   "wordNumber": "10.022",
+   "subjectFullName": "整形外科_整形外科数字化技术_手术导航",
+   "subjectName": "手术导航",
+   "publishYear": "2026",
+   "definition": "利用计算机模拟产生一个虚拟的三维空间的技术。让使用者的感官置身于一个现实中不存在的三维世界之中。"
+  },
+  {
+   "cn": "虚拟筛选",
+   "en": "virtual screening",
+   "source": "精细化工名词",
+   "wordNumber": "03.0094",
+   "subjectFullName": "精细化工_农药_生产工艺",
+   "subjectName": "生产工艺",
+   "publishYear": "2025",
+   "definition": "利用计算机上的分子对接软件模拟目标靶点与候选药物之间的相互作用，计算两者之间的亲和力大小，从而预测可能的潜在药物的方法。"
+  },
+  {
+   "cn": "虚拟园林",
+   "en": "virtual garden",
+   "source": "风景园林名词",
+   "wordNumber": "02.0040",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "泛指得到文学记录但并未实际建造的园林。分几种情况：一是准备建造而预先通过文字记录下营造构思，但后来因种种情况并未建成的园林；二是无力建造，但在文学中想象出的作者渴望拥有的园林；三是小说中虚构的园林。"
+  },
+  {
+   "cn": "虚拟植物",
+   "en": "virtual plant",
+   "source": "农学名词",
+   "wordNumber": "07.266",
+   "subjectFullName": "作物生理生态_作物系统生理与模拟",
+   "subjectName": "作物系统生理与模拟",
+   "publishYear": "2025",
+   "definition": "应用计算机以可视化方式模拟演示的三维空间中植物形态结构和生长发育动态。"
+  },
+  {
+   "cn": "虚拟同一性",
+   "en": "virtual identity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.680",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "在网络、虚拟社区、网络社交媒体及虚拟现实等虚拟环境中，人有可能获得不同于其现实社会身份的虚拟的自我身份认同。它使自我认同具有某种流动性，但其限度及对现实身份认同的影响有待深入研究。"
+  },
+  {
+   "cn": "虚拟形而上学",
+   "en": "virtual metaphysics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.681",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "从虚拟现实的角度，在由计算机所生成的虚拟现实新世界中，重新阐述形而上学的各种概念和争论。包括理性主义、经验主义、实在论、唯心论、唯物论、唯名论、现象学、可能世界、随附性、空间和时间的争论等。"
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "创建和体验虚拟世界的计算机仿真系统。它利用计算机生成一种模拟环境，是一种多源信息融合的交互式的三维动态视景和实体行为的系统仿真，使用户沉浸到该环境中。"
+  },
+  {
+   "cn": "虚拟库存",
+   "en": "virtual inventory",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.030",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "物料投入产出平衡分析中，考虑各类业务处理时差（如已售未提、已提未售、寄售等）、计量仪表误差等因素而导致的物料平衡差异，推测出合理的库存量。"
+  },
+  {
+   "cn": "虚拟仓库",
+   "en": "virtual warehouse",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.169",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "利用计算机和网络通信技术，对地理上分散的、属于不同所有者物品储存、保管和远程控制的物流设施进行整合，形成的具有统一目标、统一任务、统一流程的暂时性物资存储与控制组织。"
+  },
+  {
+   "cn": "虚拟演练",
+   "en": "virtual training",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.287",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "基于计算机虚拟现实技术，开发应用软件，实现虚拟化的应急演练的过程。"
+  },
+  {
+   "cn": "虚拟自我",
+   "en": "virtual self",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.018",
+   "subjectFullName": "自然辩证法_科技伦理_高技术伦理",
+   "subjectName": "高技术伦理",
+   "publishYear": "2024",
+   "definition": "人们在网络环境提供的虚拟空间中对自我的存在方式和状态的体验。与现实世界中的“自我”同样都是人们自我意识的组成部分，相互影响、相互补充。如果处于非理性状态，可能带来多重人格、网络依赖、网恋、网瘾等问题，"
+  },
+  {
+   "cn": "虚拟天文台",
+   "en": "virtual observatory",
+   "source": "天文学名词",
+   "wordNumber": "06.021",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "通过先进的信息技术将全球范围内的研究资源无缝透明连接，以此形成的数据密集型、网络化的天文学研究与科普教育平台。"
+  },
+  {
+   "cn": "虚拟演播室",
+   "en": "virtual studio",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.104",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻采访编辑制作",
+   "subjectName": "广播电视新闻采访编辑制作",
+   "publishYear": "2022",
+   "definition": "以虚拟场景为主体的电视演播室。虚拟演播室技术包括摄像机跟踪技术、计算机虚拟场景设计、色键技术、灯光技术等。"
+  },
+  {
+   "cn": "虚拟组织",
+   "en": "virtual organization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.004",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "基于网络传播技术，通过密集的信息沟通和平等交流，开放性地整合跨越组织边界人员的智慧，以实现组织特定目标的人才集合系统。与“传统组织”相对应。"
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.065",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "一种可以创建和体验虚拟世界的计算机仿真系统，它利用3D计算机模型或模拟技术生成一种模拟环境，使用户完全沉浸到该环境中。"
+  },
+  {
+   "cn": "虚拟[的]",
+   "en": "virtual",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚高",
+   "en": "virtual height",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟冲击器",
+   "en": "virtual impactor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "虚温",
+   "en": "virtual temperature",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟团队",
+   "en": "virtual team",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "虚焦点",
+   "en": "virtual focus",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "虚粒子",
+   "en": "virtual particle",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "虚像",
+   "en": "virtual image",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟资本",
+   "en": "virtual capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟地图",
+   "en": "virtual map",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟表",
+   "en": "virtual table",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟地图",
+   "en": "virtual map",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟路径",
+   "en": "virtual directory",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟内存",
+   "en": "virtual memory",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟页",
+   "en": "virtual page",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟终端机",
+   "en": "virtual terminal",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟地景",
+   "en": "virtual landscape",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟地图",
+   "en": "virtual map",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟桩",
+   "en": "virtual stake",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟实验室",
+   "en": "virtual laboratory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟人格",
+   "en": "virtual personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟生物",
+   "en": "virtual creature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟场景",
+   "en": "virtual scenario",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟政府",
+   "en": "virtual government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟人物",
+   "en": "virtual character",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟法庭",
+   "en": "virtual court",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟在场",
+   "en": "virtual presence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟补丁",
+   "en": "virtual patch",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟世界",
+   "en": "virtual world",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟主体",
+   "en": "virtual identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟财产",
+   "en": "virtual property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络虚拟化",
+   "en": "network virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织虚拟化",
+   "en": "organizational virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "本地虚拟化",
+   "en": "native virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主机虚拟化",
+   "en": "host virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟组织",
+   "en": "virtual organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.10",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "一种区别于传统组织、以信息技术为支撑的人机一体化组织，其特征是以现代通讯技术、信息存储技术、机器智能产品为依托，虚拟出无等级组织结构，其成员可以通过不受时空限制的计算机体系，通过高度自律和共同的价值取"
+  },
+  {
+   "cn": "虚拟整合",
+   "en": "virtual integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.8",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "以技术和管理等卫生系统要素为纽带，卫生服务提供者通过签订契约或组建集团的方式形成联合体的资源整合形式，可以在没有共同持有资产和所有权下分享资源。是一种没有财务责任、易解散的松散型整合。"
+  },
+  {
+   "cn": "虚拟社区",
+   "en": "virtual community",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0322",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在互联网技术中介下，建立于共同情感，兴趣，利益与目标基础上的社群集合体，其成员身份可与线下的日常生活身份相符，也可是虚构的角色扮演，或两者兼有。与传统社区一样，虚拟社区为其成员提供信息、情感与社交支持"
+  },
+  {
+   "cn": "粗放农业",
+   "en": "extensive agriculture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0169",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "单位面积土地上，相对于集约农业而言，投入较低的劳力、资本的农业经营方式。"
+  },
+  {
+   "cn": "深度水解乳蛋白",
+   "en": "extensively hydrolyzed milk proteins",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.64",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "容易引起过敏反应的95%以上的乳蛋白被水解成分子量小于3kDa 的二肽、三肽和少量游离氨基酸的终产物。"
+  },
+  {
+   "cn": "深度水解配方乳",
+   "en": "extensively hydrolyzed formula milk",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.9.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "水解牛乳酪蛋白或乳清蛋白后的乳配方制品，其中氮以游离氨基酸以及分子量<1500的肽的形式存在，少量分子量 >3500。在不同的配方奶中，水解蛋白的程度和广度均不同。"
+  },
+  {
+   "cn": "扩大家庭",
+   "en": "extended family",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0379",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "家庭结构分类中的一种家庭形式，指由有共同血缘关系的父母和已婚子女，或已婚兄弟姐妹的多个核心家庭组成的家庭模式。"
+  },
+  {
+   "cn": "扩展个案法",
+   "en": "extended case study",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从宏观权力的视角观察具体的日常生活、由具体个案反观宏观因素、从而实现理论改进的个案研究方法。由美国社会学家麦可·布洛维提出。"
+  },
+  {
+   "cn": "扩展计划距离",
+   "en": "extended planning distance，EPD",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.11.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "设施周围做好应急安排的区域，以便在宣布总体应急（场外应急）后进行放射性状况监测，并在出现大量放射性释放后的一段时间内确定需要在厂外采取应急响应行动的区域，从而有效地降低公众成员中的随机效应风险。对压水"
+  },
+  {
+   "cn": "卫生费用核算扩展维度",
+   "en": "extended health accounting framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.4",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "卫生费用核算时基于卫生费用核算核心维度的向外伸展。包括筹资环节、生产环节和消费环节三个维度。"
+  },
+  {
+   "cn": "仪式",
+   "en": "ritual",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.12",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "相对固定、定期举行、且具有集体共享的象征意义的一套程序化活动。以仪礼的形式直接影响个体的社会生活，通过人们的言谈举止表达群体的价值观。通常依宗教、传统或特殊知识而传承，并因传播和社会变迁而发生再造甚至"
+  },
+  {
+   "cn": "仪式",
+   "en": "ritual",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0302",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学中主要指反映宗教和神论观念的操演活动。仪式一般由多人完成，涉及特定的动作、词汇、象征、场所。仪式具有异于日常生活的目的，承载某种被认为不变的传统，因此具有一定神圣性。"
+  },
+  {
+   "cn": "胸廓活动度",
+   "en": "chest expansion",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "用于检查胸廓的活动程度的指标。患者双手处于休息位或置于脑后；于前面第4肋间隙为测量部位；记录尽可能深吸气和深呼气时胸围的差距，以cm为单位（如4.2cm）；取两次测量的均值。"
+  },
+  {
+   "cn": "美德伦理学",
+   "en": "virtue ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.131",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "将“美德”视为伦理学的基本范畴、把品格判断作为最基本的道德判断，强调人应当过一种有德性的生活的伦理学理论。"
+  },
+  {
+   "cn": "互动仪式",
+   "en": "interaction ritual",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "在焦点互动中，个体有意或无意地按照一定规范与秩序表现出来的行为举止，如眼神、动作、站立位置和语言等等。通过这种方式，个体感知并表达某种情感与意识，使互动在社会行为与个体心理方面都产生影响。"
+  },
+  {
+   "cn": "贞操",
+   "en": "virtue/chastity",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "传统社会用于束缚妇女身体和性行为的一种道德禁忌，规定女性在婚前要远离异性交往，保持处女膜完整，婚后则要从一而终，丈夫去世后也只能守寡、不能改嫁等，否则就被视为“不贞”、“不洁”，受到相关民俗规约的惩罚"
+  },
+  {
+   "cn": "影像民族志",
+   "en": "visual ethnography",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "一种以视觉符号为主要表现手段的人类学文本及话语形式。影视民族志以人类学田野工作和电影语言作为两翼，致力于有人类学田野及伦理支撑的影视作品的生产。"
+  },
+  {
+   "cn": "死亡仪式",
+   "en": "death ritual",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.21",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "超度亡灵的仪式。宗教形式居多。"
+  },
+  {
+   "cn": "视觉发育",
+   "en": "visual development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "将视觉信息传入大脑，理解周围世界，获取周围环境的信息能力随年龄增长的发展变化过程。视觉系统功能出生后3年内基本发育成熟。"
+  },
+  {
+   "cn": "视力",
+   "en": "visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "眼睛所能够分辨的外界两个点间的最小距离的能力，通常以视角的倒数来表示。视角越小，表示分辨能力越好。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

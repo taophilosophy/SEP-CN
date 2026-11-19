@@ -1,0 +1,22 @@
+{
+ "key": "eikon",
+ "term": "eikôn",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:27:14+00:00",
+ "status": "ok",
+ "note": "variant=eikôn; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "程函",
+   "en": "eikon",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0843",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "布鲁恩斯(H. Bruns)于 1895年引入的函数，可以写为 A(x)expit(x)的波动解中的相函数或走时。其为常数表示等相位面。 "
+  }
+ ],
+ "error": null,
+ "raw": null
+}

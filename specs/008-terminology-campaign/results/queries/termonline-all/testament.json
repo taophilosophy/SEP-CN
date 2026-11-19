@@ -1,0 +1,62 @@
+{
+ "key": "testament",
+ "term": "Testament",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:04:11+00:00",
+ "status": "ok",
+ "note": "variant=Testament; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "列宁遗嘱",
+   "en": "Lenin's Testament",
+   "source": "世界历史名词",
+   "wordNumber": "05.0407",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1922年末至1923年年初，列宁口授的几篇文件的总称。其中有列宁对党内几位最重要的政治领导人的评价和解除斯大林总书记职务的建议。"
+  },
+  {
+   "cn": "种皮",
+   "en": "seed coat,testa",
+   "source": "植物学名词",
+   "wordNumber": "03.0625",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "种子的外保护层。由胚珠的珠被发育而来。"
+  },
+  {
+   "cn": "种皮",
+   "en": "seed coat\",\"spermoderm\",\"testa",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区块链遗嘱",
+   "en": "wills and testaments on the blockchain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "遗嘱监护人",
+   "en": "testamentary guardian",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.056",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "父母为保护被监护人的权益，通过遗嘱的方式为未成年子女或其他无民事行为能力人、限制民事行为能力人委任的监护人。既可以是自然人，也可以是组织。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

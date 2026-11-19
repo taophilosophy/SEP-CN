@@ -1,0 +1,772 @@
+{
+ "key": "compassion",
+ "term": "compassion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:24:36+00:00",
+ "status": "ok",
+ "note": "variant=compassion; 审定公布名词库=688; 海峡两岸名词对照库=289; 其他来源数据库=41; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "罗盘仪",
+   "en": "compass",
+   "source": "风景园林名词",
+   "wordNumber": "08.0017",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程测量",
+   "subjectName": "风景园林工程测量",
+   "publishYear": "2025",
+   "definition": "利用磁针确定磁方位的简便仪器。"
+  },
+  {
+   "cn": "弧骨",
+   "en": "compass",
+   "source": "动物学名词",
+   "wordNumber": "5.2848",
+   "subjectFullName": "动物学_无脊椎动物学_棘皮动物门",
+   "subjectName": "棘皮动物门",
+   "publishYear": "2021",
+   "definition": "海胆亚氏提灯的反口面，即锥形体的基部，从食道向辐部分出的5个细的弯曲形骨板。"
+  },
+  {
+   "cn": "罗盘仪",
+   "en": "compass",
+   "source": "测绘学名词",
+   "wordNumber": "02.420",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "利用磁针确定磁方位的简便仪器。"
+  },
+  {
+   "cn": "罗盘",
+   "en": "compass",
+   "source": "航空科学技术名词",
+   "wordNumber": "06.158",
+   "subjectFullName": "航空科学技术_飞行控制、导航、显示、控制和记录系统",
+   "subjectName": "飞行控制、导航、显示、控制和记录系统",
+   "publishYear": "2003",
+   "definition": "提供方向基准、指示飞机航向的仪表。"
+  },
+  {
+   "cn": "罗盘仪",
+   "en": "compass",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.256",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_大地测量仪器_平板仪和罗盘仪",
+   "subjectName": "平板仪和罗盘仪",
+   "publishYear": "2003",
+   "definition": "利用磁针确定方向角的仪器。"
+  },
+  {
+   "cn": "罗经",
+   "en": "compass",
+   "source": "船舶工程名词",
+   "wordNumber": "08.072",
+   "subjectFullName": "船舶工程_船舶通信导航",
+   "subjectName": "船舶通信导航",
+   "publishYear": "1998",
+   "definition": "指示船舶在水平面内相对地球基准方向的仪表。"
+  },
+  {
+   "cn": "罗经",
+   "en": "compass",
+   "source": "航海科技名词",
+   "wordNumber": "06.0001",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "太阳罗盘",
+   "en": "sun compass",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0126",
+   "subjectFullName": "地球物理学_地球电磁学_古地磁学",
+   "subjectName": "古地磁学",
+   "publishYear": "2022",
+   "definition": "利用太阳影子角、采样时间和采样点的地理位置等进行样品精确定位的装置。 "
+  },
+  {
+   "cn": "磁罗盘",
+   "en": "magnetic compass",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0394",
+   "subjectFullName": "地球物理学_地球电磁学_探测磁性的方法_仪器和应用",
+   "subjectName": "仪器和应用",
+   "publishYear": "2022",
+   "definition": "利用地磁场固有的指向性测量空间姿态角度，用于指示方位的仪器。 "
+  },
+  {
+   "cn": "划规",
+   "en": "scribing compass",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "16.025",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_钳工及装配工具_手工工具",
+   "subjectName": "手工工具",
+   "publishYear": "2021",
+   "definition": "圆规式划线工具。"
+  },
+  {
+   "cn": "罗盘经纬仪",
+   "en": "compass theodolite",
+   "source": "测绘学名词",
+   "wordNumber": "02.413",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "带有测定磁方向角罗盘的经纬仪。"
+  },
+  {
+   "cn": "方位圈",
+   "en": "compass rose",
+   "source": "测绘学名词",
+   "wordNumber": "07.304",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "航海图上标出圆周刻度分划的图形。"
+  },
+  {
+   "cn": "矿用挂罗盘",
+   "en": "hanging compass",
+   "source": "冶金学名词",
+   "wordNumber": "02.0211",
+   "subjectFullName": "冶金学_采矿_矿山测量",
+   "subjectName": "矿山测量",
+   "publishYear": "2019",
+   "definition": "便于悬挂的用于矿山低等级测量的一种罗盘仪。"
+  },
+  {
+   "cn": "触摸式指南针",
+   "en": "touch compass",
+   "source": "物理医学与康复名词",
+   "wordNumber": "05.235",
+   "subjectFullName": "物理医学与康复_物理治疗与康复器具设备_视力康复器具设备",
+   "subjectName": "视力康复器具设备",
+   "publishYear": "2014",
+   "definition": "开启后即固定指针方向，可通过触摸确定方位的指南针。适用于盲人。"
+  },
+  {
+   "cn": "罗方位",
+   "en": "compass bearing",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.019",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "天文罗盘",
+   "en": "celestial compass",
+   "source": "航空科学技术名词",
+   "wordNumber": "06.124",
+   "subjectFullName": "航空科学技术_飞行控制、导航、显示、控制和记录系统",
+   "subjectName": "飞行控制、导航、显示、控制和记录系统",
+   "publishYear": "2003",
+   "definition": "以太阳或星体定向而获得航空器真航向的导航装置。按其测量方式分为地平式和赤道式两种天文罗盘。"
+  },
+  {
+   "cn": "罗差",
+   "en": "compass deviation",
+   "source": "航空科学技术名词",
+   "wordNumber": "06.139",
+   "subjectFullName": "航空科学技术_飞行控制、导航、显示、控制和记录系统",
+   "subjectName": "飞行控制、导航、显示、控制和记录系统",
+   "publishYear": "2003",
+   "definition": "罗盘子午线与磁子午线间的夹角，是机载磁罗盘受飞机磁场影响偏离当地地磁子午线所产生的指示误差。"
+  },
+  {
+   "cn": "罗航向",
+   "en": "compass heading",
+   "source": "航空科学技术名词",
+   "wordNumber": "06.141",
+   "subjectFullName": "航空科学技术_飞行控制、导航、显示、控制和记录系统",
+   "subjectName": "飞行控制、导航、显示、控制和记录系统",
+   "publishYear": "2003",
+   "definition": "从罗盘子午线沿顺时针方向至航空器纵轴在水平面上的投影间的夹角。"
+  },
+  {
+   "cn": "罗盘经纬仪",
+   "en": "compass theodolite",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.230",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_大地测量仪器_经纬仪",
+   "subjectName": "经纬仪",
+   "publishYear": "2003",
+   "definition": "带有测定磁方向角罗盘的经纬仪。"
+  },
+  {
+   "cn": "矿山罗盘仪",
+   "en": "mining compass",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.257",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_大地测量仪器_平板仪和罗盘仪",
+   "subjectName": "平板仪和罗盘仪",
+   "publishYear": "2003",
+   "definition": "用于矿山测量的罗盘仪。"
+  },
+  {
+   "cn": "罗盘，指南针",
+   "en": "compass",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "音域",
+   "en": "compass",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "罗盘[仪]",
+   "en": "compass",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "罗盘仪，罗经",
+   "en": "compass",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "指北针",
+   "en": "compass",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "弧骨",
+   "en": "compass",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "罗经",
+   "en": "compass",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "罗经，罗盘",
+   "en": "compass",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "方框罗针",
+   "en": "trough compass\",\"box compass",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "[磁]罗经航向",
+   "en": "compass course",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "指向植物",
+   "en": "compass plant",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "测斜罗经",
+   "en": "clinometer compass",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "反光罗经",
+   "en": "mirror compass",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "方位圈",
+   "en": "compass rose",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "干罗经",
+   "en": "dry compass",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "管式罗针",
+   "en": "tubular compass",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "棱镜罗盘仪",
+   "en": "prismatic compass",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "罗经导线",
+   "en": "compass traverse",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "罗经法则",
+   "en": "compass rule",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "罗盘经纬仪",
+   "en": "compass theodolite",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "罗盘",
+   "en": "compass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罗航向",
+   "en": "compass course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "悲悯",
+   "en": "Mercy and Compassion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "仁人志士",
+   "en": "A Person with Compassion, Integrity and Resolve",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "搭档",
+   "en": "partner\",\"companion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比德",
+   "en": "Virtue Comparison",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据压缩",
+   "en": "data compression",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "立法比较",
+   "en": "Legislation Comparison",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检查委员会",
+   "en": "control commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "doctor’s commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纪律委员会",
+   "en": "disciplinary commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "兽医委员会",
+   "en": "veterinary commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际食品法典委员会",
+   "en": "Codex Alimentarius Commission",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "恻隐",
+   "en": "compassion",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.088",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对弱者、落难者的同情和怜悯。"
+  },
+  {
+   "cn": "社会比较",
+   "en": "social comparison",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "费斯汀格(Leon Festinger）系统提出的观点，认为一个人只有“在社会的脉络中”，通过与他人进行比较，才能真正认识自己和他人，对自己作出正确的评价。"
+  },
+  {
+   "cn": "跨文化比较",
+   "en": "crosscultural comparison",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.11",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "在统一理论指导下所进行的不同文化之间的比较研究。摩尔根(L.H.Morgan）和泰勒(E.D.Tylor）等于19世纪后半期发展出来的一种研究方法。在进化论的框架下，利用详实的田野资料和历史文献，比较"
+  },
+  {
+   "cn": "压缩性骨折",
+   "en": "compression fracture",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.1.11",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_骨及关节疾病",
+   "subjectName": "骨及关节疾病",
+   "publishYear": "2025",
+   "definition": "多由垂直压缩的间接暴力所致，骨松质因压缩而变形的骨折。常发生在下胸椎、上腰椎，椎体呈楔状。"
+  },
+  {
+   "cn": "实验室间比对",
+   "en": "interlaboratory comparison",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.75",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "按照预先规定的条件，由两个或多个实验室对相同或类似的物品进行测量或检测的组织、实施和评价"
+  },
+  {
+   "cn": "类型比较法",
+   "en": "typological comparison",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0664",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国社会学家、人类学家、民族学家费孝通提出了“类型比较法”，意指在研究中国社会的问题中，找到一个具体的标本，观察其循环运行的流程，有如解剖麻雀一般，知晓其生理构造，并以此为出发点，将相同、相近的归在一"
+  },
+  {
+   "cn": "实验室内比对",
+   "en": "intralaboratory comparison",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.76",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "按照预先规定的条件，在同一实验室内部对相同或类似的物品进行测量或检测的的组织、实施和评价"
+  },
+  {
+   "cn": "控制比较法",
+   "en": "control comparison method",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.052",
+   "subjectFullName": "民族学与文化学_民俗学_民俗学方法",
+   "subjectName": "民俗学方法",
+   "publishYear": "2025",
+   "definition": "研究者先要先分析不同民俗的构成，然后再去了解这一民俗的全部内容和形成过程（历史），如此对某一民俗的结构和历史的前后关系在研究中都可以照顾到。"
+  },
+  {
+   "cn": "区域比较法",
+   "en": "regional comparison method",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0519",
+   "subjectFullName": "民族学与文化学_民俗学_民俗学方法",
+   "subjectName": "民俗学方法",
+   "publishYear": "2025",
+   "definition": "为了使比较深入而采用的方法。它将比较的范围限制在一定的区域内，由此出发将这一区域的特殊民俗事象加以比较，区别类型，然后再和民俗学总的分类发生联系，进行比较。"
+  },
+  {
+   "cn": "时空压缩",
+   "en": "time-space compression",
+   "source": "社会学名词",
+   "wordNumber": "2.9.9.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_全球化",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "因现代科技的进步以及资本积累追求减少周转时间和以时间消灭空间的历史发展。使得时间越来越具有加速的特征，空间上的各种障碍被克服，从而给人们带来的一种时间和空间显得被压缩了的感觉或体验。由戴维·哈维（D."
+  },
+  {
+   "cn": "总制院",
+   "en": "Supreme Control Commission",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0235",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "元代中央机构名。元至元元年（1264）始置，管理全国佛教事务及吐蕃地方军政事务。至元二十五年（1288），改称宣政院。"
+  },
+  {
+   "cn": "长官司",
+   "en": "Senior Officer Commission",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0207",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "地方政权机构名。元代始于西南少数民族地区置，处理军民事务，长官多任土人。明清沿元制，土官世袭。"
+  },
+  {
+   "cn": "跨文化比较",
+   "en": "cross-culture comparison",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0662",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "对两种或两种以上不同的社会文化进行比较研究的方法，旨在回答关于文化差异和文化共性的复杂问题。"
+  },
+  {
+   "cn": "国际食品法典委员会",
+   "en": "Codex Alimentarius Commission, CAC",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.10",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "联合国粮农组织(FAO)和世界卫生组织(WHO)于1963 年联合设立，以保障消费者的健康和确保食品贸易公平为宗旨的一个制定国际食品标准的政府间组织。"
+  },
+  {
+   "cn": "国际电工委员会",
+   "en": "International Electrotechnical Commission ，IEC",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.6",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "从事制订和出版有关电工和电子工程的国际标准的权威组织。成立于1906年，它通过其标准和一致性评估，为国际市场和社会提供服务，对促进有关世界贸易和经济发展起到重要作用。"
+  },
+  {
+   "cn": "[美国]核管理委员会",
+   "en": "Nuclear Regulatory Commission，NRC",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.11",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "美国政府的一个机构，1974年根据能源重组法案设立，负责监督反应堆的安全和安保以及许可证颁发、放射性材料的许可证颁发、放射性核素安全许可证颁发和乏燃料管理包括贮存、安全，回收和处置等。"
+  },
+  {
+   "cn": "国际放射防护委员会",
+   "en": "International Commission on Radiological Protection，ICRP",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.4",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "非政府间的国际学术机构，成立于1928年，当时名称为国际X射线和镭防护委员会，1950年改称现名。它提出、维护和详细解释在世界范围内应用的国际放射防护体系，以作为放射防护标准、立法、导则、计划和实践的"
+  },
+  {
+   "cn": "经销代销",
+   "en": "sell on commission sale by proxy",
+   "source": "马克思主义",
+   "wordNumber": "02.0359",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义改造中对私营商业实行国家资本主义的初级形式。经销是指私营商业对国营商业全部或大部分掌握货源的商品，根据国营商业的供应计划用现款进货，按照规定的供应办法和零售牌价出售，从批零差价中获得收入。代销"
+  },
+  {
+   "cn": "中共中央顾问委员会",
+   "en": "central advisory commission of the cpc",
+   "source": "马克思主义",
+   "wordNumber": "04.0461",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "成立于1982年的中共十二大。当时是作为解决中央领导机构新老交替的一种组织形式，目的是使中国共产党中央委员会年轻化，同时让一些老同志在退出第一线后继续发挥一定作用。1992年中共十四大决定不再设立中央"
+  },
+  {
+   "cn": "苏联国家计划委员会",
+   "en": "National Planning Commission of the Soviet Union",
+   "source": "马克思主义",
+   "wordNumber": "04.0417",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "根据列宁的倡议于1921年建立。当时的俄罗斯国家电气化委员会并入这个新的机构。最初，国家计划委员会只是一个咨询和协作机构，负责制定和调整计划草案和控制数字，但是在第一个五年计划开始以后，它的权力大为增"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,792 @@
+{
+ "key": "non-categorial existence statements",
+ "term": "non-categorial existence statements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:35:49+00:00",
+ "status": "ok",
+ "note": "variant=non-categorial existence statements; 审定公布名词库=3117; 海峡两岸名词对照库=1016; 其他来源数据库=177; 预公布名词数据库=148; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "存在[性]",
+   "en": "existence",
+   "source": "数学名词",
+   "wordNumber": "01.0032",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语句",
+   "en": "statement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0221",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "根据文法从开始符号推导出的终极符号串。即程序设计语言中符合语法的、具有一定功能的字符组合。"
+  },
+  {
+   "cn": "陈述",
+   "en": "statement",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0863",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "表达信息的条款。"
+  },
+  {
+   "cn": "存在空间",
+   "en": "existence space",
+   "source": "建筑学名词",
+   "wordNumber": "01.0098",
+   "subjectFullName": "建筑学_总论_建筑空间及建筑形式美学基础",
+   "subjectName": "建筑空间及建筑形式美学基础",
+   "publishYear": "2014",
+   "definition": "取决于人及其群体在其中的实际存在状况或存在方式的客观性空间。挪威建筑师诺伯格–舒尔茨(C.?Norberg-Schulz)所提出的关于存在空间的要素，以及从宏观到微观不同阶段的知觉图式体系等概念，丰富"
+  },
+  {
+   "cn": "实际胶质",
+   "en": "existent gum",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.1194",
+   "subjectFullName": "化工（一）_分析、化验、评定",
+   "subjectName": "分析、化验、评定",
+   "publishYear": "2017",
+   "definition": "在规定试验条件下，测得燃料的蒸发残留物。是判断油品安定性的指标，用mg/100mL表示。"
+  },
+  {
+   "cn": "实际胶质",
+   "en": "existent gum",
+   "source": "石油名词",
+   "wordNumber": "06.0331",
+   "subjectFullName": "石油_石油炼制_石油炼制产品性质及评价",
+   "subjectName": "石油炼制产品性质及评价",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "[分类]阶元",
+   "en": "category",
+   "source": "动物学名词",
+   "wordNumber": "2.0021",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "由各分类单元按等级排列的阶梯式系统。有7个主要级别，由高到低依次为：界、门、纲、目、科、属、种。有时，为了更精确地表达种的分类地位，可将原有的阶元进一步细分，常在原有阶元名称之前或之后加上总（supe"
+  },
+  {
+   "cn": "[分类]阶元",
+   "en": "category",
+   "source": "植物学名词",
+   "wordNumber": "02.0023",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "阶元系统中的任何一个层次等级。有7个主要级别，由高到低依次为：界、门、纲、目、科、属、种。在各阶元之下可加入亚门、亚纲、亚目、亚科、亚属、亚种等；在各阶元之上又可加入超纲、超目、超科等。另外，在科以下"
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category",
+   "source": "微生物学名词",
+   "wordNumber": "02.045",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "将每个分类单元纳入到一个连续、依次排列的等级之中而形成的阶梯式系统。"
+  },
+  {
+   "cn": "词性",
+   "en": "category",
+   "source": "语言学名词",
+   "wordNumber": "04.036",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "词的词类性质。例如“科学”，在“生命科学”中是名词性的，在“这样做很科学”中是形容词性的。"
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category",
+   "source": "古生物学名词",
+   "wordNumber": "01.0111",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "在级序分类系统中，每个分类单元都被确定为其中某个级别的分类阶元。例如，物种和属都是生物界最基本的分类阶元之一。"
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category",
+   "source": "昆虫学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "由各分类单元按等级排列的分类系统。"
+  },
+  {
+   "cn": "范畴",
+   "en": "category",
+   "source": "数学名词",
+   "wordNumber": "04.1556",
+   "subjectFullName": "数学_代数学_代数几何学_范畴论",
+   "subjectName": "范畴论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原地形标高",
+   "en": "existing elevation",
+   "source": "风景园林名词",
+   "wordNumber": "08.0065",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程地形整理",
+   "subjectName": "风景园林工程地形整理",
+   "publishYear": "2025",
+   "definition": "原有地面的相对或绝对高度。"
+  },
+  {
+   "cn": "存在约束",
+   "en": "existing constraint",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0217",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "键属性的值不能为空的一种约束。"
+  },
+  {
+   "cn": "现有竞争者",
+   "en": "existing rivalry",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0614",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "同行业中，已经存在的服务于同一目标市场的企业竞争对手。"
+  },
+  {
+   "cn": "既有线",
+   "en": "existing line",
+   "source": "土木工程名词",
+   "wordNumber": "08.141",
+   "subjectFullName": "土木工程_铁路工程_铁路设计",
+   "subjectName": "铁路设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "既有铁路",
+   "en": "existing railway",
+   "source": "铁道科学技术名词",
+   "wordNumber": "01.0032",
+   "subjectFullName": "铁道科学技术_铁道工程总类",
+   "subjectName": "铁道工程总类",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "现有公路",
+   "en": "existing highway",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.029",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "旧桥",
+   "en": "existing bridge",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "语句",
+   "en": "statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "疑存",
+   "en": "existence doubtful",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "范畴",
+   "en": "category",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阶元",
+   "en": "category",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "现行抵押",
+   "en": "existing mortgage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现有数据",
+   "en": "existing data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "现有船",
+   "en": "existing ship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category\",\"taxonomic category",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "报表表头",
+   "en": "statement heading",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "报表格式",
+   "en": "statement form",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款凭单",
+   "en": "payment statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海损理算书",
+   "en": "average statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "清算表",
+   "en": "liquidation statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "条件声明",
+   "en": "conditional statement",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[分]情况语句",
+   "en": "CASE statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赋值语句",
+   "en": "assignment statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制语句",
+   "en": "control statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "海损理算书",
+   "en": "average statement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "恍惚",
+   "en": "Intangible Existence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类",
+   "en": "Category",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "种类",
+   "en": "category",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无差别级",
+   "en": "all categories\",\"open category",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知言",
+   "en": "Discerning Statements",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "范畴论",
+   "en": "category theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比赛组别",
+   "en": "competition category",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "bodyweight category\",\"weight category\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无效动作！",
+   "en": "Non!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "甲类传染病",
+   "en": "Category A infectious diseases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "乙类传染病",
+   "en": "Category B infectious diseases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二类规定动作",
+   "en": "Category II of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三类规定动作",
+   "en": "Category III of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一类规定动作",
+   "en": "Category I of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第四类规定动作",
+   "en": "Category IV of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变体重级别",
+   "en": "change the weight category",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非压抑性生存",
+   "en": "non  repressive existence",
+   "source": "马克思主义",
+   "wordNumber": "05.0052",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞在《爱欲与文明》中指出，真正人道的文明可以使人从压抑性生存转变为非压抑性生存，主要表现在两个方面，即异化劳动转变为消遣，性欲升华为爱欲。"
+  },
+  {
+   "cn": "存在",
+   "en": "being existence",
+   "source": "马克思主义",
+   "wordNumber": "01.0012",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在不同派别的哲学中，“存在”这一范畴在不同意义上被使用。在马克思主义哲学中，存在是物质的同义语。"
+  },
+  {
+   "cn": "范畴",
+   "en": "category",
+   "source": "马克思主义",
+   "wordNumber": "01.0204",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "古希腊哲学家亚里士多德最早对范畴做了系统研究，康德、黑格尔均对范畴作重要论述。马克思主义哲学中，范畴是反映客观事物的本质属性和普遍联系的思维形式。它具有高度概括性、结构稳定性特点。"
+  },
+  {
+   "cn": "范畴",
+   "en": "category",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.002",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "具有高度概括性和广泛适用性的基本概念。"
+  },
+  {
+   "cn": "莫斯科声明",
+   "en": "Moscow statement",
+   "source": "马克思主义",
+   "wordNumber": "05.0210",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1960年11月在莫斯科举行的81个世界共产党和工人党第二次代表会议上通过，标题为《各国共产党和工人党代表会议声明》。声明肯定《莫斯科宣言》，指出世界社会主义体系的威力超过世界资本主义体系，资本主义总"
+  },
+  {
+   "cn": "现存照射情况",
+   "en": "existing exposure situation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.1.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射情况分类",
+   "subjectName": "照射情况分类",
+   "publishYear": "2025",
+   "definition": "在需要做出采取控制措施的决定时已经存在的照射情况。包括应控制的天然本底辐射的照射；放射性残留物质的照射，这些放射性残留物质来自过去实践（它未曾受到过审管控制）或来自已宣布应急照射情况结束后的核或放射应"
+  },
+  {
+   "cn": "类别匹配",
+   "en": "category matching",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.2.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "要求某因素的分布或特征在病例组/研究组和对照组之间相同或相似的匹配。比如都在某一年龄段内，或均属于某一职业组别。"
+  },
+  {
+   "cn": "经济范畴",
+   "en": "economic category",
+   "source": "马克思主义",
+   "wordNumber": "02.0151",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指人们在社会实践所取得的大量社会经济材料的基础上，经过抽象思维，从现象深入到本质，由感性认识上升为理性认识而形成的逻辑概念，是一定社会生产关系的理论表现。"
+  },
+  {
+   "cn": "分类归因",
+   "en": "category attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将某种特定疾病病例按不同类别危害因素导致的病例分类溯源分析。"
+  },
+  {
+   "cn": "医院分类",
+   "en": "categories of hospitals",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": ""
+  },
+  {
+   "cn": "物质存在的基本形式",
+   "en": "basic forms of material existence",
+   "source": "马克思主义",
+   "wordNumber": "01.0020",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "时间是物质运动的持续性、间隔性和顺序性。空间是物质运动的广延性、伸张性。时间和空间是与运动着的物质不可分离的基本存在形式，不存在与物质分离的绝对时空。"
+  },
+  {
+   "cn": "生产类别分类目录",
+   "en": "catalogue of production categories",
+   "source": "消毒学",
+   "wordNumber": "5.1.5",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "《消毒产品生产企业卫生许可规定》中明确规定的消毒产品分类目录。"
+  },
+  {
+   "cn": "主诊断分类",
+   "en": "major diagnostic categories，MDCs",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.16.5",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "主要诊断按解剖系统及其他大类目进行的分类。"
+  },
+  {
+   "cn": "经济范畴人格化",
+   "en": "economic category is personified",
+   "source": "马克思主义",
+   "wordNumber": "02.0152",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "把一定经济关系中的人看做是一定的阶级关系和利益的承担者。也就是说，不是把人看作抽象的人，而是把人看作体现一定经济关系的经济范畴的化身。马克思指出，《资本论》中涉及到的人只是经济范畴的人格化，是一定的阶"
+  },
+  {
+   "cn": "甲类传染病",
+   "en": "category A infectious disease",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "依据《中华人民共和国传染病防治法》规定需强制管理的一类传染病，包括鼠疫和霍乱。"
+  },
+  {
+   "cn": "乙类传染病",
+   "en": "category B infectious disease",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "依据《中华人民共和国传染病防治法》，按国务院卫生行政部门规定，需严格管理的传染病。国务院卫生行政部门根据传染病暴发、流行情况和危害程度对该类型所属传染病病种进行增加、减少或调整。"
+  },
+  {
+   "cn": "丙类传染病",
+   "en": "category C infectious disease",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "依据《中华人民共和国传染病防治法》，按国务院卫生行政部门规定的监测管理方法进行管理的传染病。国务院卫生行政部门根据传染病暴发、流行情况和危害程度对该类型所属传染病病种进行增加、减少或调整。"
+  },
+  {
+   "cn": "心理咨询类别",
+   "en": "category of psychological counseling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "学校心理咨询的种类。主要包括门诊心理咨询、信函咨询、电话心理咨询、线上心理咨询、专题心理咨询和现场心理咨询。"
+  },
+  {
+   "cn": "民办非企业单位",
+   "en": "non-governmental non-enterprise units",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "企业、事业单位、社会团体和其他社会力量以及公民个人利用非国有资产创办的、从事非营利性社会服务活动的社会组织，如民办学校、民办研究所、民办博物馆等。"
+  },
+  {
+   "cn": "卫生服务供给类别",
+   "en": "category of health service supply",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "按照卫生服务生产的内容对供给进行的分类。主要包括医疗服务供给、预防服务供给、康复服务供给、保健服务供给、健康教育服务供给等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,462 @@
+{
+ "key": "childhood",
+ "term": "childhood",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:22:07+00:00",
+ "status": "ok",
+ "note": "variant=childhood; 审定公布名词库=117; 海峡两岸名词对照库=5; 其他来源数据库=1; 预公布名词数据库=47; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "儿童期",
+   "en": "childhood",
+   "source": "生殖医学名词",
+   "wordNumber": "3.003",
+   "subjectFullName": "生殖医学_生殖生理与内分泌_生理期",
+   "subjectName": "生理期",
+   "publishYear": "2022",
+   "definition": "出生后4周至12岁左右的时期。"
+  },
+  {
+   "cn": "儿童期",
+   "en": "childhood",
+   "source": "计划生育名词",
+   "wordNumber": "02.138",
+   "subjectFullName": "计划生育_生殖医学基础_女性",
+   "subjectName": "女性",
+   "publishYear": "2019",
+   "definition": "出生4周后到12岁的时期。生殖器为幼稚型。在儿童后期受垂体促性腺激素的影响，卵巢内的卵泡有一定发育并分泌激素，但仍达不到成熟阶段。"
+  },
+  {
+   "cn": "儿童肥胖",
+   "en": "childhood obesity",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "09.057",
+   "subjectFullName": "脂质代谢性疾病_肥胖_肥胖及相关疾病",
+   "subjectName": "肥胖及相关疾病",
+   "publishYear": "2025",
+   "definition": "儿童体内脂肪组织积聚过多，体重超过同性别、同年龄健康儿童或同身高健康儿童平均体重的2个标准差，或超过同年龄、同性别儿童平均体重20%的现象。"
+  },
+  {
+   "cn": "儿童期保健",
+   "en": "childhood care",
+   "source": "生殖医学名词",
+   "wordNumber": "11.002",
+   "subjectFullName": "生殖医学_生殖保健",
+   "subjectName": "生殖保健",
+   "publishYear": "2022",
+   "definition": "以实现儿童生存、保护和发展为基本目标的一系列保健措施。包括围生期保健、新生儿疾病和遗传代谢病筛查、儿童营养和生长发育、儿童疾病预防和治疗、儿童心理和行为发育、环境与儿童健康、儿童早期发展和育儿学等。"
+  },
+  {
+   "cn": "儿童行为",
+   "en": "childhood behavior",
+   "source": "行为医学名词",
+   "wordNumber": "18.001",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为",
+   "subjectName": "儿童行为",
+   "publishYear": "2022",
+   "definition": "在自身生长发育成熟的基础上，儿童接受外来刺激不断习得、发展的行为。发生和发展具有连续性、阶段性和依赖性等特征。"
+  },
+  {
+   "cn": "儿童肥胖",
+   "en": "childhood obesity",
+   "source": "行为医学名词",
+   "wordNumber": "18.039",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为障碍",
+   "subjectName": "儿童行为障碍",
+   "publishYear": "2022",
+   "definition": "儿童体内脂肪组织积聚过多，体重超过同性别、同年龄健康儿童或同身高健康儿童平均体重的2个标准差，或超过同年龄、同性别儿童平均体重20%的现象。"
+  },
+  {
+   "cn": "儿童异食癖",
+   "en": "childhood pica",
+   "source": "行为医学名词",
+   "wordNumber": "18.04",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为障碍",
+   "subjectName": "儿童行为障碍",
+   "publishYear": "2022",
+   "definition": "婴幼儿和童年期的一种进食障碍。是由味觉异常或饮食管理不当引起的代谢性疾病综合征。特点为进食不可作为食物的物质。"
+  },
+  {
+   "cn": "儿童梦魇",
+   "en": "childhood nightmare",
+   "source": "行为医学名词",
+   "wordNumber": "18.047",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为障碍",
+   "subjectName": "儿童行为障碍",
+   "publishYear": "2022",
+   "definition": "儿童睡眠时，因梦中受惊吓而喊叫，或感觉有东西压在身上，不能活动。"
+  },
+  {
+   "cn": "儿童拔毛癖",
+   "en": "childhood trichotillomania",
+   "source": "行为医学名词",
+   "wordNumber": "18.06",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为障碍",
+   "subjectName": "儿童行为障碍",
+   "publishYear": "2022",
+   "definition": "儿童反复地、不能克制地拔除自己毛发的冲动行为。"
+  },
+  {
+   "cn": "儿童湿疹",
+   "en": "childhood eczema",
+   "source": "医学名词 第七分册",
+   "wordNumber": "03.0394",
+   "subjectFullName": "医学_皮肤病学",
+   "subjectName": "皮肤病学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "童年早期",
+   "en": "early childhood",
+   "source": "心理学名词",
+   "wordNumber": "06.033",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "3～6岁的时期。"
+  },
+  {
+   "cn": "童年中期",
+   "en": "middle childhood",
+   "source": "心理学名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "6～11岁的时期。"
+  },
+  {
+   "cn": "儿童失神癫痫",
+   "en": "childhood absence epilepsy",
+   "source": "神经外科学名词",
+   "wordNumber": "10.075",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_疼痛",
+   "subjectName": "疼痛",
+   "publishYear": "2026",
+   "definition": "以频繁典型失神发作为临床特征的癫痫综合征类型。脑电图背景正常，发作期为双侧广泛、同步、对称性3Hz棘慢复合波。一般于4～10岁起病，体格、智力发育正常，常在12岁前缓解，预后良好。是儿童期常见的特发性"
+  },
+  {
+   "cn": "儿童枕叶癫痫",
+   "en": "childhood occipital epilepsy",
+   "source": "睡眠医学名词",
+   "wordNumber": "3.104",
+   "subjectFullName": "睡眠医学_睡眠疾病分类_睡眠相关其他疾病",
+   "subjectName": "睡眠相关其他疾病",
+   "publishYear": "2022",
+   "definition": "儿童伴有枕叶暴发性发作的良性癫痫。分为早发型和晚发型两种。"
+  },
+  {
+   "cn": "儿童社交行为",
+   "en": "childhood social behavior",
+   "source": "行为医学名词",
+   "wordNumber": "18.002",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为",
+   "subjectName": "儿童行为",
+   "publishYear": "2022",
+   "definition": "儿童个体之间相互交流、往来进行精神或物质交往的社会活动。包括受欢迎型、一般型、被拒绝型和被忽视型等。"
+  },
+  {
+   "cn": "儿童习惯性行为",
+   "en": "childhood habitual behavior",
+   "source": "行为医学名词",
+   "wordNumber": "18.003",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为",
+   "subjectName": "儿童行为",
+   "publishYear": "2022",
+   "definition": "儿童特有的自动化的行为方式。如吸吮拇指、撞头、憋气发作等是婴儿时期最常见的习惯性行为。儿童通过习惯性行为来缓解压力或焦虑，也可借此表达愤怒、挫折或无聊。"
+  },
+  {
+   "cn": "儿童亲社会行为",
+   "en": "childhood prosocial behavior",
+   "source": "行为医学名词",
+   "wordNumber": "18.004",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为",
+   "subjectName": "儿童行为",
+   "publishYear": "2022",
+   "definition": "儿童符合社会期待的积极行为。"
+  },
+  {
+   "cn": "儿童适应性行为",
+   "en": "childhood adaptive behavior",
+   "source": "行为医学名词",
+   "wordNumber": "18.005",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为",
+   "subjectName": "儿童行为",
+   "publishYear": "2022",
+   "definition": "儿童适应生长、学习等外界环境的能力和行为反应。"
+  },
+  {
+   "cn": "儿童依恋行为",
+   "en": "childhood attachment behavior",
+   "source": "行为医学名词",
+   "wordNumber": "18.006",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为",
+   "subjectName": "儿童行为",
+   "publishYear": "2022",
+   "definition": "儿童与对其有重要影响的人（如抚养者）之间情感联系相关的各种行为。"
+  },
+  {
+   "cn": "儿童竞争性行为",
+   "en": "childhood competitive behavior",
+   "source": "行为医学名词",
+   "wordNumber": "18.007",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为",
+   "subjectName": "儿童行为",
+   "publishYear": "2022",
+   "definition": "儿童为获得更多利益产生的一种心理需要和竞争性活动。"
+  },
+  {
+   "cn": "儿童期，童年期",
+   "en": "childhood",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "童年失忆症",
+   "en": "childhood amnesia",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "童年早期",
+   "en": "early childhood",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "童年中期",
+   "en": "middle childhood",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "儿童崩解症，儿童期整合障碍症",
+   "en": "childhood disintegrative disorder\",\"CDD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "儿童肥胖",
+   "en": "childhood obesity",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.10",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "儿童体内脂肪组织积聚过多，体重超过同性别、同年龄健康儿童或同身高健康儿童平均体重的2个标准差，或超过同年龄、同性别儿童平均体重20%的现象。"
+  },
+  {
+   "cn": "女童期",
+   "en": "female childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_女童期保健",
+   "subjectName": "女童期保健",
+   "publishYear": "2025",
+   "definition": "女性从出生到青春期前的生命阶段。世界卫生组织定义为0至9岁。"
+  },
+  {
+   "cn": "儿童习惯性擦腿综合征",
+   "en": "childhood masturbation, CM",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.1.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童反复用手或其他物件摩擦自己外生殖器的行为。1～3 岁多见，女孩多于男孩。"
+  },
+  {
+   "cn": "儿童适应性行为",
+   "en": "childhood adaptive behavior",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.3.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童适应生长、学习等外界环境的能力和行为反应。"
+  },
+  {
+   "cn": "儿童期不良经历",
+   "en": "childhood adverse experience",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.3.9",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力",
+   "subjectName": "针对儿童的暴力",
+   "publishYear": "2025",
+   "definition": "18岁以下儿童经历的创伤性事件，包括受到暴力或虐待，被忽视或遗弃，失去至亲，在父母有精神疾病、父母有药物滥用或酒精成瘾、父母坐牢、父母离异家庭中成长等。这些事件会对儿童身心健康和福祉产生持续不良影响。"
+  },
+  {
+   "cn": "儿童氟中毒",
+   "en": "fluorosis in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.8.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "因地质中含氟量高，儿童在摄入水及食物后，所致体内氟的负荷达到明显危害其生长发育水平的一种地方性、全身性、慢性中毒性疾病。"
+  },
+  {
+   "cn": "儿童遗尿症",
+   "en": "enuresis in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "5岁后儿童不自主或有意识地反复在不恰当地方排尿（例如在衣服上和床上）的行为。昼间和夜间均可能发生。此行为不能归因于其他躯体疾病或者某种药物的生理效应。"
+  },
+  {
+   "cn": "儿童遗粪症",
+   "en": "encopresis in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "4周岁以上的儿童不自主或有意识地反复在不恰当的地方排粪（如衣服上、地板上）的行为。此行为不能归因于某种物质（如泻药）的生理效应或其他躯体疾病，除非涉及便秘的机制。"
+  },
+  {
+   "cn": "儿童拔毛癖",
+   "en": "trichotillomania in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童反复地、不能克制地拔除自己毛发的冲动行为。"
+  },
+  {
+   "cn": "儿童睡行症",
+   "en": "walking in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.4.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童期反复发作的睡觉时从床上起来和走动的一种睡眠障碍。走动时，个体面无表情、目不转睛；对于他人的沟通无反应；唤醒困难；醒来对发作的回忆有限。通常出现在非快速眼动睡眠期。"
+  },
+  {
+   "cn": "儿童异食症",
+   "en": "pica in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "个体已达到能区分可食用和不可食用物质的发育年龄（约 2 岁），但仍持续性进食一种或多种非营养性、非食用性的物质，严重到需要临床关注的一类进食障碍。"
+  },
+  {
+   "cn": "儿童早期营养",
+   "en": "early childhood nutrition",
+   "source": "社会医学名词",
+   "wordNumber": "3.9.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "三岁以内儿童的营养状况，直接影响其生长发育、免疫功能及长期健康。"
+  },
+  {
+   "cn": "儿童早期发展",
+   "en": "early childhood development",
+   "source": "社会医学名词",
+   "wordNumber": "3.9",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "从孕期到出生后8 年，通过对儿童的营养、健康、早期学习、回应性照护和安全保障方面开展科学综合干预，以发挥儿童潜能，使儿童的体格、心理、认知、情感和社会适应性达到健康完美状态的理念，0-3 岁这一时期尤"
+  },
+  {
+   "cn": "儿童缺铁性贫血",
+   "en": "iron deficiency anemia in childhood, IDA in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.8.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "6月龄～6岁时血红蛋白含量低于110g/L，或红细胞比积降低，出现不同程度低色素性贫血的疾病。"
+  },
+  {
+   "cn": "童年期发生言语流畅障碍",
+   "en": "childhood-onset fluency disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "发育早期发生的言语正常流利程度和停顿模式的紊乱，不符合儿童年龄和发育阶段的预期，且长期持续存在的一种交流障碍，会造成说话焦虑，或妨碍学业、职业成绩或社交交流。"
+  },
+  {
+   "cn": "儿童早期发展",
+   "en": "early childhood development, ECD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童早期发展",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "从受孕到出生后8年期间，儿童的认知、身体、语言、气质、社会情感及运动的发育过程。此期间的科学综合干预有助于改善儿童发育的潜能，0-3岁这一时期尤为重要。"
+  },
+  {
+   "cn": "儿童排泄障碍",
+   "en": "elimination disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童在缺乏器质性病变基础上出现的，表现与年龄不相称的反复把尿液或粪便排在不恰当地方的行为，包括遗尿症和遗粪症。遗尿症诊断要求个体至少达到5岁，遗粪症诊断要求个体至少达到4岁。通常于童年期或青春期首次诊"
+  },
+  {
+   "cn": "儿童情绪障碍",
+   "en": "emotional disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "发生于儿童期，以焦虑、恐怖、抑郁、强迫等症状为主要表现的一组精神疾病，包括焦虑障碍、恐怖症、抑郁障碍、强迫障碍等。与成年期精神障碍间不存在必然的连续性。"
+  },
+  {
+   "cn": "儿童选择性缄默症",
+   "en": "selective mutism in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "具有正常或接近正常言语或语言能力的儿童经常在被期待发言的社交场合（如学校）无法发言的一种精神疾病，多见于年幼儿童。"
+  },
+  {
+   "cn": "儿童特定性恐惧",
+   "en": "specific phobic in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童对特定的物体、情境产生的恐惧、焦虑或回避达到持续的、与真实风险不相符的程度，并对其日常生活造成干扰和/或严重痛苦的一种精神疾病。特定恐惧对象通常为动物、自然环境、血液-注射-损伤情境等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

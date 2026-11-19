@@ -1,0 +1,292 @@
+{
+ "key": "kalpana",
+ "term": "kalpanā",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:12:01+00:00",
+ "status": "ok",
+ "note": "variant=kalpanā; 审定公布名词库=21; 海峡两岸名词对照库=8; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "卡尔曼滤波",
+   "en": "Kalman filter",
+   "source": "测绘学名词",
+   "wordNumber": "02.724",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "由数学家卡尔曼（Kalman）将状态空间模型引入滤波理论，以均方误差最小为准则导出的一种状态向量递推算法。"
+  },
+  {
+   "cn": "卡尔曼滤波",
+   "en": "Kalman filtering",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0937",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "一种以状态变量的线性最小方差递推估算的方法。"
+  },
+  {
+   "cn": "卡尔曼滤波",
+   "en": "Kalman filter",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0665",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "由卡尔曼(R. E. Kalman)提出的一种高效率的递归滤波方法，能够从一系列的不完全包含噪声的测量中，估计动态系统的状态。"
+  },
+  {
+   "cn": "卡尔曼滤波",
+   "en": "Kalman filtering",
+   "source": "大气科学名词",
+   "wordNumber": "05.251",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "当输入由白噪声产生的随机信号时，使期望输出和实际输出之间的均方根误差达到最小的线性系统。"
+  },
+  {
+   "cn": "卡尔曼滤波器",
+   "en": "Kalman filter",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.365",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔曼滤波",
+   "en": "Kalman filtering",
+   "source": "航空科学技术名词",
+   "wordNumber": "06.088",
+   "subjectFullName": "航空科学技术_飞行控制、导航、显示、控制和记录系统",
+   "subjectName": "飞行控制、导航、显示、控制和记录系统",
+   "publishYear": "2003",
+   "definition": "一种以状态变量的线性最小方差递推估算的方法。"
+  },
+  {
+   "cn": "卡尔曼滤波",
+   "en": "Kalman filtering",
+   "source": "数学名词",
+   "wordNumber": "09.0425",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔曼滤波器",
+   "en": "Kalman filter",
+   "source": "数学名词",
+   "wordNumber": "012.0497",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔曼滤波器",
+   "en": "Kalman filter",
+   "source": "电子学名词",
+   "wordNumber": "05.235",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔曼滤波",
+   "en": "Kalman filtering",
+   "source": "自动化名词",
+   "wordNumber": "02.314",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔曼滤波器",
+   "en": "Kalman filter",
+   "source": "自动化名词",
+   "wordNumber": "02.315",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "自适应卡尔曼滤波",
+   "en": "adaptive Kalman filter",
+   "source": "测绘学名词",
+   "wordNumber": "02.725",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "针对量测信息和状态信息特性，自适应调整系统模型预报信息和观测信息对状态参考估计的贡献，从而实现卡尔曼滤波最优性能的一种滤波算法。"
+  },
+  {
+   "cn": "斜流转桨式水轮机",
+   "en": "diagonal Kaplan hydroturbine",
+   "source": "电力名词",
+   "wordNumber": "16.019",
+   "subjectFullName": "电力_水电站机电设备",
+   "subjectName": "水电站机电设备",
+   "publishYear": "2020",
+   "definition": "叶片可以转动调节的斜流式水轮机。"
+  },
+  {
+   "cn": "卡普兰-约克猜想",
+   "en": "Kaplan-Yorke conjecture",
+   "source": "物理学名词",
+   "wordNumber": "11.0586",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔曼滤波法",
+   "en": "Kalman filtering method",
+   "source": "化学名词",
+   "wordNumber": "03.0312",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "基于状态空间描述对混有噪声的信号进行处理的一种线性递推滤波方法。"
+  },
+  {
+   "cn": "卡尔曼滤波法",
+   "en": "Kalman filtering method",
+   "source": "药学名词",
+   "wordNumber": "06.174",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "一种滤波方法，可从受噪声干扰的观测信号中对被观测系统的状态进行统计估值。"
+  },
+  {
+   "cn": "卡普兰-约克猜想",
+   "en": "Kaplan-Yorke conjecture",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔曼-布西滤波器",
+   "en": "Kalman-Bucy filter",
+   "source": "数学名词",
+   "wordNumber": "012.0498",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔曼-布西滤波器",
+   "en": "Kalman-Bucy filter",
+   "source": "自动化名词",
+   "wordNumber": "02.316",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "轴流转桨式水轮机",
+   "en": "Kaplan turbine,axial-flow adjustable-blade turbine",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "25.0011",
+   "subjectFullName": "机械工程_动力机械_水轮机",
+   "subjectName": "水轮机",
+   "publishYear": "2013",
+   "definition": "导叶和转轮叶片均可调的双调式水轮机。"
+  },
+  {
+   "cn": "卡尔曼滤波",
+   "en": "Kalman filtering",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔曼滤波",
+   "en": "Kalman filtering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔曼滤波器",
+   "en": "Kalman filter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔曼增益",
+   "en": "Kalman gain",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔曼滤波法",
+   "en": "Kalman filtering method",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "快速卡尔曼算法",
+   "en": "fast Kalman algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡尔曼滤波法",
+   "en": "Kalman filtering method",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "适应卡尔曼滤波法",
+   "en": "adaptive Kalman filtering method",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,792 @@
+{
+ "key": "minimal abnormality strategy",
+ "term": "minimal abnormality strategy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:03:55+00:00",
+ "status": "ok",
+ "note": "variant=minimal abnormality strategy; 审定公布名词库=2306; 海峡两岸名词对照库=431; 其他来源数据库=121; 预公布名词数据库=129; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "极简主义",
+   "en": "minimalism",
+   "source": "风景园林名词",
+   "wordNumber": "06.0008",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "生活及艺术的一种风格，本意在于极力追求简约，并且拒绝违反这一形态的任何事物。其特色是将设计的元素、色彩、照明、原材料简化到最少的程度，对色彩、材料的质感要求很高。简约的空间设计通常非常含蓄，往往能达到"
+  },
+  {
+   "cn": "极少主义",
+   "en": "minimalism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0368",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "产生于20世纪90年代的，继承和发展早期现代建筑“简约”特征的思潮。该潮流信奉密斯“少就是多”的口号，去繁从简，以获得建筑最本质的元素和简洁明快的空间。它重在追求空间质量和表现材料，在其简洁的表面下往"
+  },
+  {
+   "cn": "极小化",
+   "en": "minimization",
+   "source": "数学名词",
+   "wordNumber": "011.0018",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "求极小[值]",
+   "en": "minimizing",
+   "source": "数学名词",
+   "wordNumber": "011.0023",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "异常",
+   "en": "abnormal",
+   "source": "人体解剖学名词",
+   "wordNumber": "01.0040",
+   "subjectFullName": "人体解剖学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "人体结构如超出变异范围，统计学上出现率极低，甚至影响正常生理功能者。"
+  },
+  {
+   "cn": "战略",
+   "en": "strategy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.099",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播战略",
+   "subjectName": "组织传播战略",
+   "publishYear": "2022",
+   "definition": "制定一个组织的长期目标，以及为达到这些目标所采取的行动与资源的分配。广义上，它涉及理性确定组织的重大利益及其目标。狭义上，指通过对资源的利用和劳动效率的合理调配，来实现组织目标并获得竞争优势。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "经济学名词",
+   "wordNumber": "03.160",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人在给定信息集情况下的行动规则。参与人的策略规定了参与人在何种条件下采取何种行动，是一种相机抉择的行动方案。与参与人的行动不同，策略是一种完备的行动规则。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0231",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "为满足一个需求而设计的能行过程，它是一个算法过程，但可能需要无穷次做动作才能满足所对应的需求。"
+  },
+  {
+   "cn": "战略",
+   "en": "strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0591",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "组织为求得长期生存和不断发展，为创造和保持竞争优势，对组织的发展目标、达到目标的途径和手段的总体规划。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0284",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "局中人在对策中采用的一个可行的自始至终通盘筹划的行动方案。"
+  },
+  {
+   "cn": "基本培养基",
+   "en": "minimal medium ",
+   "source": "草学名词",
+   "wordNumber": "5.0059",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "必需基因组",
+   "en": "minimal genome",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.382",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一个生物能在某一特定环境下生存所需要的最少的基因集合。"
+  },
+  {
+   "cn": "最小干预",
+   "en": "minimal intervention",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.087",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "以保证文物古迹安全为前提，避免过度干预影响文物古迹价值及历史文化信息的保护方式。"
+  },
+  {
+   "cn": "轻度镇静",
+   "en": "minimal sedation",
+   "source": "消化内镜学名词",
+   "wordNumber": "10.012",
+   "subjectFullName": "消化内镜学_消化内镜麻醉技术_麻醉方式",
+   "subjectName": "麻醉方式",
+   "publishYear": "2021",
+   "definition": "镇静后患者对口头指令可做出正常反应，认知功能和身体协调能力可能受损，但气道反射、通气和心血管功能不受影响的状态。"
+  },
+  {
+   "cn": "最小基因组",
+   "en": "minimal genome",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.095",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "能维持一个生物体独立生活所需的最少基因个数的基因组。"
+  },
+  {
+   "cn": "极小度",
+   "en": "minimal degree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0229",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如果一个图灵度 a ＞0，而且(0, a )=<img src='/root/syzx/static/spz/jsjkx3.02.0189.001.png'/>，即不存在 x 使得0＜ x ＜ a ，"
+  },
+  {
+   "cn": "极小对",
+   "en": "minimal pair",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0241",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个图灵度的对( a,b )使得 a≠0,b≠0 ，但 a∧b =0。 "
+  },
+  {
+   "cn": "极小熵",
+   "en": "minimal entropy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0399",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个随机变量中所包含的纯随机比特数。令 X 是一个随机变量。 X 的极小熵，记为<img src='/root/syzx/static/spz/jsjkx3.02.0399.001.png'/>(X)"
+  },
+  {
+   "cn": "最低保护",
+   "en": "minimal protection",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0221",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "美国可信计算机系统评估准则中最低安全等级的名称。对计算机系统进行的保护措施没有达到更高级别。"
+  },
+  {
+   "cn": "最小母群",
+   "en": "minimal supergroup",
+   "source": "化学名词",
+   "wordNumber": "04.1838",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "当1个母群G的最大子群是群g，那么这个母群G相对于最大子群g，称为最小母群。"
+  },
+  {
+   "cn": "异常",
+   "en": "abnormality\",\"abnormal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "畸形",
+   "en": "abnormality",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "异常度",
+   "en": "abnormality",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "异常",
+   "en": "abnormality",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "简约主义",
+   "en": "minimalism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "异常",
+   "en": "abnormality\",\"deformation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "最小回路",
+   "en": "minimal tour",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最低保护",
+   "en": "minimal protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本培养基，合成培养基",
+   "en": "minimal medium",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "气候反常",
+   "en": "climate abnormality",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境异常",
+   "en": "environmental abnormality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "废物最小化",
+   "en": "waste minimization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "异常反应",
+   "en": "abnormal reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "异常心理学",
+   "en": "abnormal psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "异常行为",
+   "en": "abnormal behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反常偏析",
+   "en": "abnormal segregation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "反常组织",
+   "en": "abnormal structure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "反常红移",
+   "en": "abnormal redshift",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "异常血红蛋白",
+   "en": "abnormal hemoglobin",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平台战略",
+   "en": "platform strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化战略",
+   "en": "Standardization Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学习策略",
+   "en": "learning strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全战略",
+   "en": "Security Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO 2016–2020战略规划》",
+   "en": "ISO Strategy 2016–2020",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技战略",
+   "en": "Fintech Strategies",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "异常行为标识器",
+   "en": "abnormal behavior identifier",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据战略",
+   "en": "Big Data Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宽带中国战略",
+   "en": "Broadband China Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主可控战略",
+   "en": "self-reliance strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容战略",
+   "en": "Digital Inclusion Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元数据管理策略",
+   "en": "metadata management strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字政府战略",
+   "en": "Digital Government Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动政务策略",
+   "en": "mobile government strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "i-Japan战略",
+   "en": "i-Japan Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化战略",
+   "en": "international standardization strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据使用策略",
+   "en": "data usage strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "为实现卫生目标制定的总体行动方针与实施路径，强调系统性和可操作性，是政策落实的实践框架。"
+  },
+  {
+   "cn": "角色异常",
+   "en": "role abnormality",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.051",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者受病痛折磨及悲观、失望等不良心境的影响而出现的攻击、逃避或自残自虐等行为，甚至以自杀寻求解脱。对于这类病人应当加强心理疏导。"
+  },
+  {
+   "cn": "异常温度",
+   "en": "abnormal temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "高于或低于正常环境的温度，我国大多数地区的常年温度范围-30℃～50℃。"
+  },
+  {
+   "cn": "异常乳",
+   "en": "abnormal milk",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.20",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "组成、特性等与常乳不同的乳。由于奶牛生理、病理的原因以及其他包含人为的原因，造成牛乳的成分和性质与常乳相异。"
+  },
+  {
+   "cn": "异常气压",
+   "en": "abnormal pressure",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "高于或低于正常环境的气压，正常环境大气压的范围101.3kPa～103.3kPa。"
+  },
+  {
+   "cn": "家庭策略",
+   "en": "family strategy",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.6",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭面临新的外部环境时，家庭及其成员的决策过程和决策时机。例如何时让孩子离家谋生，何时更换住所，何时控制家庭规模等。"
+  },
+  {
+   "cn": "适应策略",
+   "en": "adaptive strategy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.46",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "社会群体在一定时期为了调整和解决来自其内部和外部的压力所采取的行动计划。"
+  },
+  {
+   "cn": "两步走战略",
+   "en": "twostep strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0803",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九大对实现“两个一百年”奋斗目标做出的两步走的战略安排：即从2020年到2035年，在全面建成小康社会的基础上，再奋斗15年，基本实现社会主义现代化；从2035年到本世纪中叶，在基本实现现代化的"
+  },
+  {
+   "cn": "劳工战略",
+   "en": "workforce strategy",
+   "source": "马克思主义",
+   "wordNumber": "05.0195",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国左翼思想家、《新观察家》周刊的创始人安德列·高兹（Andre Gorz）在“新工人阶级论”的基础上提出的一种反资本主义的结构改革战略，即反对劳工运动的传统领导形式，提倡以“新工人阶级”为变革的主要"
+  },
+  {
+   "cn": "沟通策略",
+   "en": "communication strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "根据国家健康促进政策和战略，通过宣传、教育和促进健康的生活方式和负责任的行为，改变导致青少年处于持续不良健康状态的潜在行为模式和态度的行动方案。"
+  },
+  {
+   "cn": "学习策略",
+   "en": "study strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "学生在学习过程中对信息的操纵和加工的能力，也是提高学习效率的关键。"
+  },
+  {
+   "cn": "卫生策略",
+   "en": "health strategy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "为实现卫生目标而制定的中长期行动框架，涵盖体系建设、疾病防控与健康促进，强调协调与可持续。"
+  },
+  {
+   "cn": "5T策略",
+   "en": "5 T strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.5.4",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "采用谈话(talking)，培训(training)，教学(teaching)，工具(tools)和照顾(taking care)的方式，以促进和支持学生心理健康的策略。"
+  },
+  {
+   "cn": "脊柱弯曲异常",
+   "en": "spinal curvature abnormality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.7",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "脊柱弯曲超出了正常生理范围。按成因和性质可分为先天性和后天性，后天性又分为姿势性和病理性两类；儿童少年主要表现有脊柱侧弯、后凸、前凸、平背等，绝大多数属于姿势性。"
+  },
+  {
+   "cn": "异常外来水分",
+   "en": "abnormal external moisture",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.13",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "由于自然因素（例如下雨）或人工处理（例如冲洗）而残存于水果或蔬菜表面的水分。但是不包括从冷藏库中取出后，产品表面出现的冷凝水。"
+  },
+  {
+   "cn": "三步走战略",
+   "en": "Threestep Development Strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0583",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1987年10月党的十三大提出的中国经济建设分的总体战略部署：第一步从1981年到1990年，国民生产总值翻一番，解决人民的温饱问题；第二步从1991年到20世纪末，国民生产总值再翻一番，人民生活达到"
+  },
+  {
+   "cn": "可持续发展战略",
+   "en": "sustainable development strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0632",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "可持续发展是20世纪80年代提出的一种新发展观，指实现可持续发展的行动计划和纲领，是国家在多个领域实现可持续发展的总称。其核心思想是：经济发展、保护资源和保护生态环境协调一致。它包含两个基本要素即“需"
+  },
+  {
+   "cn": "四个全面",
+   "en": "FourPronged Comprehensive Strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0793",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“四个全面”战略布局是以习近平同志为核心的党中央治国理政战略思想的重要内容。其主要内容包括：全面建成小康社会、全面深化改革、全面依法治国、全面从严治党。“四个全面”战略布局集中体现了时代和实践发展对党"
+  },
+  {
+   "cn": "战略和策略",
+   "en": "strategy and tactic",
+   "source": "马克思主义",
+   "wordNumber": "04.0082",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "战略是对战争全局的筹划和指导，泛指对全局性、高层次的重大问题的筹划和指导。策略指在政治斗争中，为实现一定的战略任务，根据形势的发展而制定的行动准则和斗争方式。泛指善于灵活运用适合当时情况的斗争方式和方"
+  },
+  {
+   "cn": "走出去战略",
+   "en": "going global strategy",
+   "source": "马克思主义",
+   "wordNumber": "04.0186",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国政府大力支持的海外投资战略，指中国企业充分利用国内和国外“两个市场、两种资源”，通过对外直接投资、对外工程承包、对外劳务合作等形式积极参与国际竞争与合作，实现我国经济可持续发展的现代化强国战略。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

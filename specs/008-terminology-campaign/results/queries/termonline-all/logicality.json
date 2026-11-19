@@ -1,0 +1,542 @@
+{
+ "key": "logicality",
+ "term": "logicality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:34:11+00:00",
+ "status": "ok",
+ "note": "variant=logicality; 审定公布名词库=281; 海峡两岸名词对照库=184; 其他来源数据库=24; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "通常指人们思考问题，从某些已知条件出发，推出合理的结论的规律。"
+  },
+  {
+   "cn": "逻辑主义",
+   "en": "logicism",
+   "source": "数学名词",
+   "wordNumber": "02.0304",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑归档",
+   "en": "logical filing；logical archiving",
+   "source": "档案学名词",
+   "wordNumber": "06.03.012",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "具有档案价值的电子文件在归档之后仍然存储在业务系统中的归档方式。通常要求将其元数据移交到电子文件管理系统中，档案部门也可以委托业务部门对这些归档文件进行保管和提供利用，并对其管理工作进行指导和监督。"
+  },
+  {
+   "cn": "逻辑和",
+   "en": "logical disjunction,logical sum",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "A和B两个检索项之间的布尔逻辑关系为“和”的运算。表示一篇文献只要含有A、B两项中的任何一项即可命中，通常用算符“或”或“OR”表示多个文件集并列的关系。"
+  },
+  {
+   "cn": "逻辑积",
+   "en": "logical product,logical multiplication",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.020",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "A和B两个检索项之间的布尔逻辑关系为“乘”的运算。表示一篇文献既含有检索项A，又含有检索项B才能命中，通常用算符“与”或“AND”表示其文件集相交的关系。"
+  },
+  {
+   "cn": "信念逻辑",
+   "en": "belief logic,doxastic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0023",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "关于信念推理的逻辑。"
+  },
+  {
+   "cn": "逻辑等值",
+   "en": "logically equivalent",
+   "source": "数学名词",
+   "wordNumber": "02.0035",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.022",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为仅有那些可经由经验观测加以证实的陈述才具有认知意义。与逻辑经验论有一定重合。"
+  },
+  {
+   "cn": "逻辑经验论",
+   "en": "logical empiricism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.023",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "主张逻辑与经验是人类知识的来源。主要代表是维也纳学派与柏林学派。"
+  },
+  {
+   "cn": "逻辑原子论",
+   "en": "logical atomism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.080",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "由罗素、维特根斯坦提出的哲学体系。认为世界由大量原子事实以及其关系组成；复杂命题可由原子命题和逻辑连词组成。"
+  },
+  {
+   "cn": "归纳逻辑",
+   "en": "inductive logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.082",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "以具体事实和经验支持为前提，扩展演绎逻辑方法得出更少必然性结论的逻辑系统。通常研究前提对结论的支持程度，用概率来表示。"
+  },
+  {
+   "cn": "逻辑案卷",
+   "en": "logical file",
+   "source": "档案学名词",
+   "wordNumber": "06.03.017",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "计算机系统中一组互有联系的文件集合体，在逻辑上被作为一个案卷来处理，无论这些文件的物理存储位置如何。"
+  },
+  {
+   "cn": "逻辑多元主义",
+   "en": "logical pluralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.280",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于有多少个正确的逻辑的一种哲学立场。认为正确的逻辑不止一个。相对的立场是逻辑一元主义。"
+  },
+  {
+   "cn": "逻辑一元主义",
+   "en": "logical monism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.282",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于有多少个正确的逻辑的一种哲学立场。认为正确的逻辑只有一个。相对的立场是逻辑多元主义。"
+  },
+  {
+   "cn": "逻辑真理",
+   "en": "logical truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.284",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "通常被界定为在所有解释下都真的句子。有时逻辑真理也局限为某个逻辑系统的内定理。"
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.595",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一种用代数刻画逻辑关系的方法。变量为真值，主要操作为析取、合取以及否定。"
+  },
+  {
+   "cn": "非单调逻辑",
+   "en": "nonmonotonic logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.607",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一种后承关系具有非单调性的数理逻辑分支。主要用于人工智能研究中的可废止推理，即可基于更多的前提来修正原来结论的推理方式。"
+  },
+  {
+   "cn": "缺省逻辑",
+   "en": "default logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.641",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一种通过缺省假设对推理进行形式化的非单调逻辑。即当缺乏足够的知识信息时，通过表示和使用缺省的信息进行猜测，是对人类常识推理形式化的重要手段。"
+  },
+  {
+   "cn": "逻辑信道",
+   "en": "logical channel",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.173",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "通过统计复用的方式按需分配信道带宽，只有用户有数据要传送时才为之生成一个分组，并复用到信道中，从而形成逻辑信道。"
+  },
+  {
+   "cn": "技术逻辑",
+   "en": "technical logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.131",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "运用逻辑理论研究各种技术系统特别是自动化机器（如计算机、自动翻译机等）结构及其运行规律的一种应用逻辑。"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record\",\"logic record",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模糊逻辑",
+   "en": "fuzzy logic",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑效度",
+   "en": "logical validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑思维",
+   "en": "logical thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "比例尺逻辑（＝尺度逻辑）",
+   "en": "scale logic",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑经验论",
+   "en": "logical empiricism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑表达",
+   "en": "logical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑查询",
+   "en": "logical query",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑单元",
+   "en": "logical unit",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑关系",
+   "en": "logical relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑设计",
+   "en": "logical design",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑算子",
+   "en": "logical operator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑网络",
+   "en": "logical network",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑一致性",
+   "en": "logical consistency",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑运算",
+   "en": "logical operation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑指令",
+   "en": "logical order",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议逻辑",
+   "en": "protocol logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Bieber逻辑",
+   "en": "Bieber logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程语言",
+   "en": "logic programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑数据模型",
+   "en": "logical data model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "BAN类逻辑",
+   "en": "Burrows-Abadi-Needham (BAN) logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "边界控制强逻辑隔离",
+   "en": "strong logical isolation for boundary control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "source": "马克思主义",
+   "wordNumber": "01.0101",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类辩证思维的科学，是关于辩证思维的形式、规律和方法的科学。它把概念的辩证运动以及如何通过概念反映现实矛盾的问题作为自己的主要研究对象。原初含义专指黑格尔思辨哲学的逻辑形态。恩格斯最早明确地把这种"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0534",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。他认为原始人的思维是前逻辑思维，本质上不同于文明人的逻辑思维，后者能够进行抽象、概括和分类。前逻辑思维在我们看来很荒谬，但在原"
+  },
+  {
+   "cn": "地区发展模式",
+   "en": "locality development model",
+   "source": "社会学名词",
+   "wordNumber": "2.9.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_发展模式",
+   "subjectName": "发展模式",
+   "publishYear": "2025",
+   "definition": "以地区，或地理社区为基础的经济、社会、文化等实质内容的发展；强调地区居民的合作与参与，从地区居民自身的需求和当地的资源、环境、人口等因素出发，解决地区问题，增进地区福利的发展模式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

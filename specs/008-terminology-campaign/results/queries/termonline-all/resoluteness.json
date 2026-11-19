@@ -1,0 +1,612 @@
+{
+ "key": "resoluteness",
+ "term": "resoluteness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:29:04+00:00",
+ "status": "ok",
+ "note": "variant=resoluteness; 审定公布名词库=303; 海峡两岸名词对照库=135; 其他来源数据库=17; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "决议",
+   "en": "resolution",
+   "source": "档案学名词",
+   "wordNumber": "02.01.057",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "领导指导性文件的一种。适用于会议讨论通过的重大决策事项。"
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0165",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "在层析中定量描述两相邻组分在层析柱中分离情况的指标。等于两相邻组分保留值之差与两组分层析峰基线宽度总和之半的比值。用R表示。"
+  },
+  {
+   "cn": "解像力",
+   "en": "resolution",
+   "source": "档案学名词",
+   "wordNumber": "05.04.014",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "光学系统或摄影系统解像极限的数值表达，该数值用测试图测量，且大小为测试图影像在1毫米内可分辨的线对数。"
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution ",
+   "source": "草学名词",
+   "wordNumber": "3.0445",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2675",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "量测或显示系统对两种相近特征分辨能力的量。通常以能区分的最小尺度来度量，数值越小代表分辨能力越强。 "
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0500",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "机器人每轴或关节所能达到的最小位移增量。"
+  },
+  {
+   "cn": "分辨力",
+   "en": "resolution",
+   "source": "医学影像技术学名词",
+   "wordNumber": "02.036",
+   "subjectFullName": "医学影像技术学_普通X射线成像技术_普通X射线成像基础",
+   "subjectName": "普通X射线成像基础",
+   "publishYear": "2020",
+   "definition": "某种成像介质（如胶片、成像板、增感屏、影像增强器、平板探测器等）区分两个相邻组织结构影像的能力。"
+  },
+  {
+   "cn": "分辨力",
+   "en": "resolution",
+   "source": "电力名词",
+   "wordNumber": "02.139",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "导致标示值发生可观察到的被测量或供给量的最小变化。"
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "物理学名词",
+   "wordNumber": "01.0284",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分解",
+   "en": "resolution",
+   "source": "物理学名词",
+   "wordNumber": "01.0285",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0027",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "测量或显示系统对细节的分辨能力。"
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "生物物理学名词",
+   "wordNumber": "02.211",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质晶体学",
+   "subjectName": "蛋白质晶体学",
+   "publishYear": "2018",
+   "definition": "能清楚区分被检物体细微结构最小间隔的能力。即相邻两个物点间最小距离的能力。在衍射中指在收集衍射强度数据时，所有记录的衍射点反映的最小平面间距(dm)。由分辨率较高的晶体所得到的电子密度图中，一般包含较"
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0240",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "对图像的精密度的一种度量。既指显示器所能显示的像素的数量，也指印刷图像中单位尺寸或面积包含的像素个数。"
+  },
+  {
+   "cn": "归结",
+   "en": "resolution",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0074",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一种用于定理证明的逻辑操作。由罗宾逊（J.A.Robinson）在1965年提出。其基本原理是把待证定理的条件和结论的否定式转换为一组子句，然后不断对两个子句消去互补对，直到最终推出空子句即矛盾。使用"
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "化学名词",
+   "wordNumber": "03.0050",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "半峰宽度与峰高的比值。表征相邻两峰分离程度的参数。"
+  },
+  {
+   "cn": "拆分",
+   "en": "resolution",
+   "source": "化学名词",
+   "wordNumber": "02.0796",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机立体化学",
+   "subjectName": "有机立体化学",
+   "publishYear": "2016",
+   "definition": "部分或完全分离外消旋体为单一对映体的过程。"
+  },
+  {
+   "cn": "分辨力",
+   "en": "resolution",
+   "source": "计量学名词",
+   "wordNumber": "15.439",
+   "subjectFullName": "计量学_化学_化学测量仪器",
+   "subjectName": "化学测量仪器",
+   "publishYear": "2015",
+   "definition": "在色谱中定量描述两相邻组分在色谱柱中分离情况的指标。等于两相邻组分保留值之差与两组分色谱峰基线宽度总和之半的比值。用 R 表示。"
+  },
+  {
+   "cn": "分辨力",
+   "en": "resolution",
+   "source": "计量学名词",
+   "wordNumber": "01.123",
+   "subjectFullName": "计量学_计量学通用名词_测量仪器特性",
+   "subjectName": "测量仪器特性",
+   "publishYear": "2015",
+   "definition": "引起相应示值产生可觉察到变化的被测量的最小变化。"
+  },
+  {
+   "cn": "拆分",
+   "en": "resolution",
+   "source": "药学名词",
+   "wordNumber": "03.109",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "用适当的方法将外消旋体里包含的两种对映体彼此分开，得到纯净的d体和l体的过程。"
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0944",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机排放_试验和标准",
+   "subjectName": "试验和标准",
+   "publishYear": "2013",
+   "definition": "使仪器输出产生明显变化而需要的最小输入浓度。"
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分解",
+   "en": "resolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分离度",
+   "en": "resolution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "解决",
+   "en": "resolution",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拆分",
+   "en": "resolution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "分辨力",
+   "en": "resolution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拆分",
+   "en": "resolution",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "图像分辨率",
+   "en": "image resolution\",\"imagery resolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "方位角分辨率",
+   "en": "azimuth resolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分辨能力",
+   "en": "resolution power",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "距离分辨率",
+   "en": "range resolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间分辨率",
+   "en": "spatial resolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "角分辨率",
+   "en": "angular resolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "刚毅",
+   "en": "Firm and Resolute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标识解析技术",
+   "en": "identity resolution technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "DNS解析故障",
+   "en": "DNS resolution failure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线争议解决",
+   "en": "online dispute resolution (ODR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务争议解决",
+   "en": "e-commerce dispute resolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "替代性纠纷解决机制",
+   "en": "alternative dispute resolution mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络域名解析主导权",
+   "en": "ownership of domain name resolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坚决打赢脱贫攻坚战",
+   "en": "Resolutely win the battle against poverty.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非诉第三方纠纷解决机制",
+   "en": "non-litigation third-party dispute resolution mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言必信，行必果",
+   "en": "Promises Must Be Kept; Actions Must Be Resolute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关于联合国与全球经济治理的决议",
+   "en": "Resolution  on the United Nations in Global Economic Governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《关于建立欧洲网络信息安全文化的决议》（欧盟）",
+   "en": "Resolution on the Establishment of European Network Information Security Culture (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《关于建立欧洲信息社会安全战略的决议》（欧盟）",
+   "en": "Resolution on the Establishment of European Information Society Security Strategy (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《关于建立“一带一路”国际商事争端解决机制和机构的意见》",
+   "en": "Opinion Concerning the Establishment of the Belt and Road International Commercial Dispute Resolution Mechanism and Institutions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时间分辨率",
+   "en": "temporal resolution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "探测设备区分两个相邻入射事件所需的最小时间间隔。时间间隔大，时间分辨率低，反之时间分辨率高。"
+  },
+  {
+   "cn": "能量分辨率",
+   "en": "energy resolution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "能分辨的两个粒子能量之间的最小相对差值ΔE的量度。它可用全能峰的半高宽或相对半高宽表示。"
+  },
+  {
+   "cn": "空间分辨率",
+   "en": "spatial resolution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "仪器分辨空间物体最小细节的能力。在X射线诊断中，用每毫米多少条线来衡量，即单位为线/毫米（1/mm或mm-1）或者线对/毫米（lp/mm）。在核医学中，指成像系统分辨互相靠近的两个相邻点间的最小距离，"
+  },
+  {
+   "cn": "低对比度分辨力",
+   "en": "low contrast resolution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "从一均匀背景中分辨出特定形状和面积的低对比度微小目标的能力。"
+  },
+  {
+   "cn": "性消退期",
+   "en": "sexual resolution phase",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.2.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "性高潮后性紧张逐步松弛并恢复到性唤起前状态的阶段。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

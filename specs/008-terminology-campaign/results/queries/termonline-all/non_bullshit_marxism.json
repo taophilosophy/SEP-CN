@@ -1,0 +1,792 @@
+{
+ "key": "non-bullshit marxism",
+ "term": "non-bullshit Marxism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:18:56+00:00",
+ "status": "ok",
+ "note": "variant=non-bullshit Marxism; 审定公布名词库=2820; 海峡两岸名词对照库=878; 其他来源数据库=145; 预公布名词数据库=158; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "马克思主义",
+   "en": "Marxism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0058",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "马克思和恩格斯创立的思想理论体系，无产阶级政党指导思想的理论基础。"
+  },
+  {
+   "cn": "生态马克思主义",
+   "en": "ecological Marxism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.243",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "20世纪70年代全球绿色运动下的一种思潮。将生态学与马克思主义相结合，批判资本主义是人与自然关系的异化及其危机的根源，提出建立生态社会主义社会取代资本主义社会，是当代国外马克思主义的主要流派之一。"
+  },
+  {
+   "cn": "赛博马克思主义",
+   "en": "cyber Marxism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.086",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "侧重于分析并阐释互联网时代的新趋势、新情况、新问题的马克思主义理论。戴尔威瑟夫德(Nick DyerWitheford)用自治主义马克思主义(autonomist Marxism)的理论视角来分析2"
+  },
+  {
+   "cn": "合法马克思主义",
+   "en": "Legal Marxism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0088",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "19世纪末，打着马克思主义旗号的资产阶级自由主义派别，因其代表人物俄国的司徒卢威而得名。"
+  },
+  {
+   "cn": "新马克思主义",
+   "en": "New-Marxism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0111",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "20世纪50年代，东欧社会主义国家在“非斯大林化”过程中出现的一种资产阶级自由化思潮和政治力量，否定马克思主义基本原理，反对马克思主义“制度化”，对后来东欧巨变有直接影响。"
+  },
+  {
+   "cn": "西方马克思主义",
+   "en": "Western Marxism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0110",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "20世纪20年代，一批西方知识分子从哲学的角度试图重新解读和建构马克思主义，现已成为具有一定国际性影响的、非马克思主义的西方社会思潮。"
+  },
+  {
+   "cn": "生态学马克思主义",
+   "en": "the ecological Marxism",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.125",
+   "subjectFullName": "自然辩证法_总论_历史上的重要流派和思想",
+   "subjectName": "历史上的重要流派和思想",
+   "publishYear": "2024",
+   "definition": "试图将马克思主义原理及批判功能与当前生态问题结合，以解决生态及人类自身发展的西方马克思主义理念。有多种学说和观点。"
+  },
+  {
+   "cn": "马克思主义政治经济学",
+   "en": "Marxism political economics",
+   "source": "经济学名词",
+   "wordNumber": "14.029",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "马克思和恩格斯在19世纪中期创立的、以社会生产关系为研究对象的经济学科。它阐明了人类社会发展过程中生产、交换和分配的一般规律。其基本思想如下：①以生产关系为主要研究对象；②创立了劳动价值论和剩余价值理"
+  },
+  {
+   "cn": "马克思主义中国化",
+   "en": "Marxism in China",
+   "source": "世界历史名词",
+   "wordNumber": "01.0112",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "中国共产党第十七次全国代表大会报告中提出的、并经第十八次全国代表大会进一步确认的精确论断。其实质就是将马克思主义的基本原理和中国革命与建设的实际情况相结合，从而走出适合中国国情的社会主义革命和建设道路"
+  },
+  {
+   "cn": "马克思主义的三个组成部分",
+   "en": "Three Parts of Marxism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0061",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "马克思主义的辩证唯物主义和历史唯物主义、政治经济学、科学社会主义。"
+  },
+  {
+   "cn": "西方马克思主义史学",
+   "en": "History of Western Marxism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0029",
+   "subjectFullName": "世界历史_综合_世界历史学派、分支学科",
+   "subjectName": "世界历史学派、分支学科",
+   "publishYear": "2012",
+   "definition": "西方历史学研究中的马克思主义流派，主张回到青年马克思、人道的马克思，重新解释马克思。尽管其代表人物声称用马克思主义观点研究历史，但都在某些方面对马克思主义作了修正。"
+  },
+  {
+   "cn": "急性非甲非乙非丙非丁非戊型肝炎",
+   "en": "acute non-A, non-B, non-C, non-D, non-E hepatitis，non-A–E hepatitis",
+   "source": "感染病学名词",
+   "wordNumber": "03.0407",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "病毒性肝炎的一种。但病原学检查无甲、乙、丙、丁、戊型病毒性肝炎血清学及分子生物学标志存在。"
+  },
+  {
+   "cn": "非晶体",
+   "en": "non-crystal",
+   "source": "地质学名词",
+   "wordNumber": "02.00.009",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "组成物质的内部质点在三维空间不呈规律性排列，不具有格子状构造的固体。因内部不具格子结构，不能自发成长为几何多面体，故又称为无定形体。"
+  },
+  {
+   "cn": "不盖底",
+   "en": "non-hiding",
+   "source": "精细化工名词",
+   "wordNumber": "05.0420",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "已将色漆涂于底面（无论已涂漆与否）上，但干燥后仍透露出底面颜色的现象。"
+  },
+  {
+   "cn": "非势[场]性",
+   "en": "non-potentiality",
+   "source": "天文学名词",
+   "wordNumber": "09.250",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "磁场偏离势场的程度。"
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.235",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "以自然的利益、权利和内在价值为价值原点和道德评价的依据，把自然的利益作为人类行为的终极目的和根本尺度的学说。非人类中心主义把道德义务和伦理关怀的范围从人类依次扩展到了动物、植物、无机物和整个自然界，分"
+  },
+  {
+   "cn": "非高斯性",
+   "en": "non-Gaussianity",
+   "source": "天文学名词",
+   "wordNumber": "07.403",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "偏离高斯分布的分布性质，天文学上一般指物质密度分布偏离高斯分布的现象。"
+  },
+  {
+   "cn": "非等位基因",
+   "en": "non-allele",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.071",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "位于同源染色体的不同位置或非同源染色体上的基因。"
+  },
+  {
+   "cn": "非公众",
+   "en": "non publics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.065",
+   "subjectFullName": "新闻学与传播学_公共关系_公共关系构成",
+   "subjectName": "公共关系构成",
+   "publishYear": "2022",
+   "definition": "处在某组织的影响范围中，却与组织无关，其观点、态度和行为不受组织的影响，也不对组织产生作用的公众群体。"
+  },
+  {
+   "cn": "不选择性",
+   "en": "non preference ",
+   "source": "草学名词",
+   "wordNumber": "7.0125",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "马克思主义意识形态",
+   "en": "ideology of Marxism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "非等位基因",
+   "en": "non-allele",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不太快",
+   "en": "non presto",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不太多",
+   "en": "non molto",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不过分",
+   "en": "non tanto",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非势[场]性",
+   "en": "non-potentiality",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "非金属",
+   "en": "non-metal",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不完全支付",
+   "en": "non-payout",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "拒绝承兑",
+   "en": "non-acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不均匀",
+   "en": "non-uniform",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "非电解质",
+   "en": "non-electrolyte",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无腐蚀性",
+   "en": "non-corrosiveness",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "非分泌者",
+   "en": "non-secretor",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非不变性",
+   "en": "non-stationarity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不外显",
+   "en": "non-penetrance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非等位基因",
+   "en": "non-allele",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不可拆卸的",
+   "en": "non-removable",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非线性非平衡态热力学",
+   "en": "non-linear non-equilibrium thermodynamics",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "无地方社区",
+   "en": "non-place community\",\"non-place realm",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "不透明",
+   "en": "non-transparent\",\"opaque",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无效动作！",
+   "en": "Non!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无为",
+   "en": "Non-action",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可抵赖性",
+   "en": "non-repudiation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非消耗性",
+   "en": "non-consumability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性",
+   "en": "non-excludability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无战意",
+   "en": "non-combativity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不二",
+   "en": "Advaya / Non-duality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非易失性内存",
+   "en": "non-volatile memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非关系数据库",
+   "en": "non-relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性复用",
+   "en": "non-exclusive multiplexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非现金化收付",
+   "en": "non-cash payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非公共数据",
+   "en": "non-public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无介入看护",
+   "en": "non-interventional care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非接触性犯罪",
+   "en": "non-contact crime",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可否认性服务",
+   "en": "non-repudiation service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非盲对抗",
+   "en": "non-blind confrontation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非国家行为体",
+   "en": "non-state actor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "马克思主义",
+   "en": "Marxism",
+   "source": "马克思主义",
+   "wordNumber": "00.0001",
+   "subjectFullName": "马克思主义_总论",
+   "subjectName": "总论",
+   "publishYear": "2025",
+   "definition": "国际无产阶级革命导师马克思恩格斯创立、并由他们的后继者不断丰富和发展的科学理论体系，是以资本主义为批判对象，以通过革命变革，建设社会主义和实现共产主义为目标的科学。马克思主义的理论体系十分完备而严整，"
+  },
+  {
+   "cn": "生态马克思主义",
+   "en": "ecological Marxism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.8",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "将人文理念、生态意识和对资本主义的分析批判结合起来，重新认识资本主义和生态的冲突的理论。是面对日趋严重的全球生态危机，思考生态问题产生原因和寻求人类自身发展出路的的重要理论之一。"
+  },
+  {
+   "cn": "合法马克思主义",
+   "en": "legal Marxism",
+   "source": "马克思主义",
+   "wordNumber": "04.0340",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "19世纪末产生于俄国的一种打着马克思主义旗号的资产阶级改良主义思潮，它把马克思主义哲学歪曲为经济唯物主义，反对马克思的劳动价值论和剩余价值学说，抹杀阶级矛盾，否认社会主义代替资本主义的必然性，反对无产"
+  },
+  {
+   "cn": "西方马克思主义",
+   "en": "Western Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0001",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "产生于20世纪20、30年代，60年代末到70年代初在西欧、美国等发达资本主义国家理论界中较为盛行。其理论和现实指向，是既批判列宁主义和苏联社会主义，也批评西方发达资本主义社会的一些弊病。其特点往往是"
+  },
+  {
+   "cn": "弗洛伊德的马克思主义",
+   "en": "Freudian Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0013",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "试图把马克思主义与弗洛伊德的精神分析学说“综合”起来，用精神分析学补充和改造马克思主义的一个学派。主张运用心理分析的工具方法来分析并解释社会现象。"
+  },
+  {
+   "cn": "存在主义的马克思主义",
+   "en": "Existentialistic Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0014",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "主张把存在主义和马克思主义“综合”起来，按照存在主义的精神去“解释”和“补充”马克思主义的一个流派。其内部有两种倾向：一种以列斐伏尔为代表，从马克思主义走向存在主义；另一种是以梅洛·庞蒂（Mauric"
+  },
+  {
+   "cn": "结构主义的马克思主义",
+   "en": "structuralistic Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0015",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代出现的一种西方马克思主义流派，主要代表人物是法国著名哲学家路易·阿尔都塞。重视事物内部结构，反对把马克思主义黑格尔主义化、人道主义化，强调马克思主义的科学性，否定人的历史主体地位，强调"
+  },
+  {
+   "cn": "新实证主义的马克思主义",
+   "en": "Neopositivist Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0016",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "主要代表是意大利共产党员德拉·沃尔佩（Della Volpe）及其学生卢西奥·科莱蒂（Lucio Colletti）。强调把马克思辩证法与黑格尔的辩证法对立起来，主张用实证主义来说明和补充马克思主义。"
+  },
+  {
+   "cn": "分析的马克思主义",
+   "en": "analytical Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0078",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪70年代在英美等国兴起的具有较大影响的马克思主义研究学派。其特点是将现代数学、数理逻辑和模型分析等分析哲学的研究方法与研究路向应用到重新理解与解读马克思主义。"
+  },
+  {
+   "cn": "生态马克思主义",
+   "en": "ecological Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0079",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪70年代末从西方马克思主义研究内部分化出来的一种流派，主要特点是把生态学纳入马克思主义视野中，运用马克思主义立场、观点和方法去分析资本主义的生态危机，探索解决危机的途径，用生态学补充马克思主义"
+  },
+  {
+   "cn": "女权主义的马克思主义",
+   "en": "feminist Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0087",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "产生于20世纪70年代初，把马克思主义的历史分析法和阶级分析法运用于女权主义运动中，分析妇女受压迫与剥削的根源，进而寻求妇女反抗与解放的具体路径而兴起的一个女权主义流派。"
+  },
+  {
+   "cn": "文化马克思主义",
+   "en": "cultural Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0088",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "不同于前苏联马列主义的西方马克思主义的一个分支。诞生于20世纪二三十年代，基本主张是反对苏联教条的马克思主义，反对经济决定论，强调文化在社会生活与反抗资本主义斗争中的重要作用。在英国得到发展壮大，影响"
+  },
+  {
+   "cn": "后现代主义的马克思主义",
+   "en": "postmodern Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0098",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "泛指在后现代主义思潮影响下，批判性地采用马克思主义理论对资本主义经济、社会和文化进行批判的一种社会文化思潮，主要代表人物有弗雷德里克·詹姆逊（Fredric Jameson）、让·鲍德里亚（Jean "
+  },
+  {
+   "cn": "结构马克思主义",
+   "en": "Structural Marxism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0588",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪60 年代法国结构主义的马克思主义民族学的出现，在西方被认为是“发生在马克思主义人类学领域的一场革命”。该派把战后兴起的结构主义人类学思想与马克思主义的辩证唯物主义与历史唯物主义思想捏合起来"
+  },
+  {
+   "cn": "马克思阶级理论",
+   "en": "Marxism class theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "由马克思提出的社会分层理论。主要有以下观点：阶级由生产关系所决定，不同阶级之间存在着利益冲突，阶级地位决定个人的思想意识，资本主义社会的两个主要阶级是无产阶级和资产阶级。"
+  },
+  {
+   "cn": "马克思主义中国化",
+   "en": "Sinicization of Marxism",
+   "source": "马克思主义",
+   "wordNumber": "03.0323",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "把马克思主义基本原理同中国具体实际相结合，使马克思主义在中国具体化，赋予马克思主义以鲜明的中国实践特色、民族特色和时代特色。毛泽东1938年在党的六届六中全会上作的题为《抗日民族战争与抗日民族统一战线"
+  },
+  {
+   "cn": "结构马克思主义学派",
+   "en": "structural Marxism school",
+   "source": "马克思主义",
+   "wordNumber": "05.0012",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "起源于20世纪60年代法国的强调结构主义的马克思主义思潮。吕西安·塞巴格（Lucien Sebbag）在1963年发表《马克思主义与结构主义》正式论及结构主义与马克思主义的关系问题。之后，阿尔都塞、列"
+  },
+  {
+   "cn": "新马克思主义阶级理论",
+   "en": "Neo-Marxism class theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "当代社会分层理论的一个重要流派。该派关注工人阶级的异化和新中间阶级的形成问题，对马克思阶级理论进行了一系列的修正，试图使其适应当代社会的新发展状况。其中一个典型代表是赖特(Eric Olin Wrig"
+  },
+  {
+   "cn": "解放神学的马克思主义",
+   "en": "Marxism of liberation theology",
+   "source": "马克思主义",
+   "wordNumber": "05.0097",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代在拉丁美洲产生的一种试图把神学理论同马克思主义“结合”起来的社会思潮，批判资本主义，在马克思主义中寻求救赎。主要代表人物有秘鲁的古铁雷斯（Gutiérrez）、巴西的博夫（Boff）、"
+  },
+  {
+   "cn": "马克思主义发展三阶段论",
+   "en": "theory of threestage evolution of Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0005",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "科尔施（Korsch）在《马克思主义和哲学》中依据理论与实践的关系将马克思主义的发展分为：马克思主义理论原初形式的第一阶段（1843—1848）、马克思主义理论与实践分离的第二阶段（1848—1990"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

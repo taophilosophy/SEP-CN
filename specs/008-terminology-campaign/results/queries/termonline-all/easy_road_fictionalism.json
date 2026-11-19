@@ -1,0 +1,782 @@
+{
+ "key": "easy-road fictionalism",
+ "term": "easy-road fictionalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:58:22+00:00",
+ "status": "ok",
+ "note": "variant=easy-road fictionalism; 审定公布名词库=2020; 海峡两岸名词对照库=390; 其他来源数据库=118; 预公布名词数据库=59; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "虚构主义",
+   "en": "fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.310",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一种数学反实在论的形式。由菲尔德等人提出。主张数学对象是一种虚构物，数学理论不具有客观真理性。"
+  },
+  {
+   "cn": "模态虚构主义",
+   "en": "modal fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "主张通过关于可能世界的虚构故事来理解模态。其最强版本关于模态陈述的真值条件是：P是可能的，当且仅当P在虚构故事F的语言中的翻译根据F成立；P是必然的，当且仅当P在虚构故事F的语言中的翻译总是成立。"
+  },
+  {
+   "cn": "安乐椅",
+   "en": "easy chair",
+   "source": "风景园林名词",
+   "wordNumber": "11.0292",
+   "subjectFullName": "风景园林_风景园林艺术_陈设艺术",
+   "subjectName": "陈设艺术",
+   "publishYear": "2025",
+   "definition": "古代指靠背长可容身且大角度后倾，足下有弯轨，能前后摇动的扶手椅。后无论足下是否弯轨，只要适于躺靠，依靠感较强的扶手椅或靠背椅，通称安乐椅。"
+  },
+  {
+   "cn": "缓沟",
+   "en": "easy access",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.390",
+   "subjectFullName": "煤炭科学技术_煤矿开采_露天开采",
+   "subjectName": "露天开采",
+   "publishYear": "1996",
+   "definition": "适用于铁道和公路运输，坡度小的沟道。"
+  },
+  {
+   "cn": "道路",
+   "en": "road",
+   "source": "建筑学名词",
+   "wordNumber": "09.0045",
+   "subjectFullName": "建筑学_建筑设计_总图与场地",
+   "subjectName": "总图与场地",
+   "publishYear": "2014",
+   "definition": "供各种车辆和行人等通行的工程设施。按其使用特点分为公路、城市道路、厂矿道路、林区道路及乡村道路等。"
+  },
+  {
+   "cn": "道路",
+   "en": "road",
+   "source": "土木工程名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "土木工程_城市道路工程_道路类别",
+   "subjectName": "道路类别",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "道路",
+   "en": "road",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "易行车",
+   "en": "easy rolling car",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0491",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "易行线",
+   "en": "easy running track",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0430",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "宅间路",
+   "en": "access road,service road",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市（镇）详细规划",
+   "subjectName": "城市（镇）详细规划",
+   "publishYear": "2021",
+   "definition": "住宅建筑之间连接多个住宅出入口的道路。"
+  },
+  {
+   "cn": "雪橇道",
+   "en": "sled road,sledge road",
+   "source": "林学名词",
+   "wordNumber": "10.227",
+   "subjectFullName": "林学_森林工程_林区道路与桥涵",
+   "subjectName": "林区道路与桥涵",
+   "publishYear": "2016",
+   "definition": "供牛马雪橇拖拉木材的冰雪道。"
+  },
+  {
+   "cn": "辅路",
+   "en": "auxiliary road,relief road",
+   "source": "土木工程名词",
+   "wordNumber": "07.010",
+   "subjectFullName": "土木工程_城市道路工程_道路类别",
+   "subjectName": "道路类别",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "道路沥青",
+   "en": "road asphalt,road bitumen",
+   "source": "石油名词",
+   "wordNumber": "06.0238",
+   "subjectFullName": "石油_石油炼制_石油炼制产品",
+   "subjectName": "石油炼制产品",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "易[磁化方]向",
+   "en": "easy direction of magnetization",
+   "source": "物理学名词",
+   "wordNumber": "08.1973",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "易[磁化]轴",
+   "en": "easy axis [of magnetization]",
+   "source": "物理学名词",
+   "wordNumber": "08.1974",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "加速缓坡",
+   "en": "easy gradient for acceleration",
+   "source": "土木工程名词",
+   "wordNumber": "08.111",
+   "subjectFullName": "土木工程_铁路工程_铁路设计",
+   "subjectName": "铁路设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "汽车操纵轻便性",
+   "en": "easiness of vehicle control",
+   "source": "公路交通科技名词",
+   "wordNumber": "05.147",
+   "subjectFullName": "公路交通科学技术_汽车运用工程",
+   "subjectName": "汽车运用工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "辅路",
+   "en": "side road",
+   "source": "风景园林名词",
+   "wordNumber": "05.0311",
+   "subjectFullName": "风景园林_风景园林规划_交通规划",
+   "subjectName": "交通规划",
+   "publishYear": "2025",
+   "definition": "集散快速路或主干路交通，设置于主路两侧或一侧，单向或双向行驶交通，可间断或连续设置的道路。"
+  },
+  {
+   "cn": "城市道路",
+   "en": "urban road",
+   "source": "风景园林名词",
+   "wordNumber": "05.0288",
+   "subjectFullName": "风景园林_风景园林规划_交通规划",
+   "subjectName": "交通规划",
+   "publishYear": "2025",
+   "definition": "城市供车辆、行人通行的，具备一定技术条件的道路、桥梁及其附属设施。"
+  },
+  {
+   "cn": "乡道",
+   "en": "township road",
+   "source": "风景园林名词",
+   "wordNumber": "05.0305",
+   "subjectFullName": "风景园林_风景园林规划_交通规划",
+   "subjectName": "交通规划",
+   "publishYear": "2025",
+   "definition": "为乡村内部经济、文化、行政服务以及与外部联系的公路，包括乡、村之间的公路和与国道、省道、县道相联结而等级低于县道的公路。"
+  },
+  {
+   "cn": "低息资金",
+   "en": "easy money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "放松信贷条件",
+   "en": "easy credit terms",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "放松信贷政策",
+   "en": "easy credit policy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "放松银根政策",
+   "en": "easy money policy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "轻滑配合",
+   "en": "easy slide fit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "轻转配合",
+   "en": "easy running fit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "市场银根松动",
+   "en": "easiness of money market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "林道",
+   "en": "forest road",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "道路网络／公路网",
+   "en": "road networks",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "驿道",
+   "en": "post road",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "御路",
+   "en": "imperial road",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "道路绘制器",
+   "en": "road gauge",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "道路勘察",
+   "en": "road reconnaissance",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "道路填方",
+   "en": "road fill",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "道路图",
+   "en": "road map",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "公路编号",
+   "en": "road marker",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "泊船处",
+   "en": "road stead",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "路基",
+   "en": "subgrade\",\"road bed",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "低阶迁移",
+   "en": "low road transfer",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "城市道路等级",
+   "en": "urban road hierarchy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "小说",
+   "en": "Fiction",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律拟制",
+   "en": "legal fiction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公路",
+   "en": "road",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "审虚实",
+   "en": "Balance Fiction and Reality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公路赛",
+   "en": "road event\",\"road race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公路自行车赛",
+   "en": "road race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公路自行车运动",
+   "en": "road cycling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公路自行车服",
+   "en": "road jersey",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "路标",
+   "en": "road signpost",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公路自行车轮胎",
+   "en": "road tire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公路自行车赛用车",
+   "en": "road cycle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公路自行车运动员",
+   "en": "road racer\",\"roadman",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字丝绸之路",
+   "en": "Digital Silk Road",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息丝绸之路",
+   "en": "information Silk Road",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网上丝绸之路",
+   "en": "electronic Silk Road",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "丝路基金",
+   "en": "Silk Road Fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道路传感系统",
+   "en": "road sensor system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "容易型气质",
+   "en": "easy temperament",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "吃、喝、睡等生理功能都很规律，节奏明显，易适应环境，情绪愉快而稳定，易接受新事物和不熟悉人的人格特征。"
+  },
+  {
+   "cn": "第三条道路",
+   "en": "third road",
+   "source": "马克思主义",
+   "wordNumber": "04.0383",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "解放战争初期，上层小资产阶级、民族资产阶级及其知识分子中的一些人提出的政治主张。他们既反对国民党大地主大资产阶级专政，又反对共产党领导的人民民主专政，幻想在中国建立英美式的资产阶级专政。"
+  },
+  {
+   "cn": "那林道",
+   "en": "Narin Road",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0661",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "地理名称。清代前期伊犁驻军前往喀什噶尔换防经过那林草地，这条路也是清军前往特穆尔图卓尔（伊塞克湖）、纳林地区的巡边之路，称为“那林道”。"
+  },
+  {
+   "cn": "丝绸之路",
+   "en": "Silk Road",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0329",
+   "subjectFullName": "民族学与文化学_民族史_民族经济与地理",
+   "subjectName": "民族经济与地理",
+   "publishYear": "2025",
+   "definition": "中国古代经中亚通往南亚、西亚以及欧洲、北非的陆上贸易通道。因大量中国丝和丝织品多经此路西运，故称丝绸之路，简称丝路。名称最早提出者为19 世纪德国地理学家费迪南·冯·李希霍芬。"
+  },
+  {
+   "cn": "道路用地",
+   "en": "land for road",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.1.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生",
+   "subjectName": "学校选址与用地卫生",
+   "publishYear": "2025",
+   "definition": "消防车道、机动车道、步行道的用地。"
+  },
+  {
+   "cn": "五尺道",
+   "en": "Wuchi Ancient Road",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0332",
+   "subjectFullName": "民族学与文化学_民族史_民族经济与地理",
+   "subjectName": "民族经济与地理",
+   "publishYear": "2025",
+   "definition": "古道路名。秦统一中国后，秦始皇派遣将军常頞率军修筑此道，旨在有效控制夜郎、滇等地所置郡县。其线路自蜀南下，经僰道（今四川宜宾）、朱提（今云南昭通）直至滇池（昆明）。沿途山势陡峭，因道宽仅五尺，故名。"
+  },
+  {
+   "cn": "南夷道",
+   "en": "Nanyi Ancient Road",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0333",
+   "subjectFullName": "民族学与文化学_民族史_民族经济与地理",
+   "subjectName": "民族经济与地理",
+   "publishYear": "2025",
+   "definition": "古道路名。为加强对西南民族地区之统治，汉武帝采纳唐蒙建议，修筑从僰道（今四川宜宾）南行至夜郎牂牁江（今北盘江）之道路。夜郎在今贵州西部；由此再往南，沿江可至南越地区（今广东南海）。"
+  },
+  {
+   "cn": "道路交通伤害",
+   "en": "road traffic injury",
+   "source": "社会医学名词",
+   "wordNumber": "13.2.2",
+   "subjectFullName": "社会病",
+   "subjectName": "意外伤害",
+   "publishYear": "2025",
+   "definition": "发生在公共道路（或涉及公共道路）上，由至少一辆移动车辆的碰撞事件导致的致死或非致死性损伤"
+  },
+  {
+   "cn": "中国式的现代化道路",
+   "en": "road to Chinesestyle modernization",
+   "source": "马克思主义",
+   "wordNumber": "03.0512",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十一届三中全会以来确定的一条适合中国国情、具有中国特色的社会主义现代化建设的正确道路。邓小平在1979年3月30日党的理论工作务虚会上讲话中正式使用了这一概念。中国式的现代化，必须从中国的特点出发"
+  },
+  {
+   "cn": "新型工业化道路",
+   "en": "new road to industrialization",
+   "source": "马克思主义",
+   "wordNumber": "03.0655",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "特指中国特色的工业化道路，中共十六大提出我国实现工业化的新道路是坚持以信息化带动工业化，以工业化促进信息化，走出一条科技含量高、经济效益好、资源消耗低、环境污染少、人力资源优势得到充分发挥的新型工业化"
+  },
+  {
+   "cn": "一带一路倡议",
+   "en": "Belt and Road Initiative",
+   "source": "马克思主义",
+   "wordNumber": "03.0798",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以习近平同志为核心的党中央做出的创造更全面、更深入、更多元的对外开放格局的重大决策。2013年9月和10月，中国国家主席习近平在出访中亚和东南亚国家期间，先后提出共建“丝绸之路经济带”和“21世纪海上"
+  },
+  {
+   "cn": "儿童道路交通伤害",
+   "en": "child road traffic injury",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_儿童伤害",
+   "subjectName": "儿童伤害",
+   "publishYear": "2025",
+   "definition": "因驾驶过错、车辆故障或者其他意外原因导致车辆碰撞，造成的车内儿童乘客或儿童行人发生受伤或死亡的事件。"
+  },
+  {
+   "cn": "栈道",
+   "en": "plank road alongside cliffs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0092",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "沿悬崖峭壁修建的一种道路；主要形式有：①在悬崖峭壁上凿孔，支架木排柱来支承的简支梁桥，上覆土石。②在陡壁上凿孔插入木梁，梁的另一端以柱支承或仅为悬臂梁，梁上铺木面或再覆土石。③在石崖上凿成台级，攀缘上"
+  },
+  {
+   "cn": "茶马古道",
+   "en": "Tea and Horse Road",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0335",
+   "subjectFullName": "民族学与文化学_民族史_民族经济与地理",
+   "subjectName": "民族经济与地理",
+   "publishYear": "2025",
+   "definition": "茶马古道是指存在于中国西南地区以马帮为主要交通工具的民间国际商贸通道，是中国西南民族经济文化交流的走廊。茶马古道源于古代西南边疆的茶马互市，兴于唐宋，盛于明清，二战中后期，最为兴盛。"
+  },
+  {
+   "cn": "中国式现代化新道路",
+   "en": "New Road to Chinesestyle modernization",
+   "source": "马克思主义",
+   "wordNumber": "03.0820",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2021年7月1日，习近平在庆祝中国共产党成立100周年大会上，提出了“中国式现代化新道路”的重要论断。，并在党的十九届五中全会上作了明确阐述，此后他在省部级主要领导干部学习贯彻党的十九届五中全会精神"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

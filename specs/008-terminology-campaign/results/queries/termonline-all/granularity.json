@@ -1,0 +1,432 @@
+{
+ "key": "granularity",
+ "term": "granularity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:09:45+00:00",
+ "status": "ok",
+ "note": "variant=granularity; 审定公布名词库=132; 海峡两岸名词对照库=42; 其他来源数据库=2; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "粒度",
+   "en": "granularity",
+   "source": "光学名词",
+   "wordNumber": "22.151",
+   "subjectFullName": "光学_光通信技术",
+   "subjectName": "光通信技术",
+   "publishYear": "2021",
+   "definition": "光传输和交换的基本信息单元。比如比特、分组、帧(信元)、时隙、波长、波带、偏振、模式、纤芯以及光纤等。"
+  },
+  {
+   "cn": "颗粒度",
+   "en": "granularity",
+   "source": "医学影像技术学名词",
+   "wordNumber": "02.046",
+   "subjectFullName": "医学影像技术学_普通X射线成像技术_普通X射线成像基础",
+   "subjectName": "普通X射线成像基础",
+   "publishYear": "2020",
+   "definition": "通过检测、计算，将颗粒性量化的评价指标。"
+  },
+  {
+   "cn": "颗粒性",
+   "en": "granularity",
+   "source": "物理学名词",
+   "wordNumber": "08.2986",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "粒度",
+   "en": "granularity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0554",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一个系统、一个软件、一组数据、一组操作需要按其组成成分分别描述或分别处理时，这些成分被分解的粗细程度。"
+  },
+  {
+   "cn": "颗粒度",
+   "en": "granularity",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.369",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "它形粒状",
+   "en": "xenomorphic granular,allotriomorphic granular",
+   "source": "地质学名词",
+   "wordNumber": "05.080",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "颗粒度",
+   "en": "graininess;granularity",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.129",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "所有方向上空间频率大于0.4周期/毫米的非周期性密度或反射系数的波动。"
+  },
+  {
+   "cn": "饲草粒度",
+   "en": "forage granularity ",
+   "source": "草学名词",
+   "wordNumber": "6.0354",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "锁粒度",
+   "en": "lock granularity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0256",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "被封锁的对象的粒度。例如数据项、记录、文件或整个数据库，锁粒度越小事务的并行度越高。"
+  },
+  {
+   "cn": "服务粒度",
+   "en": "service granularity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1218",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "服务操作的最小单元。粗粒度的服务，操作的内容广而杂；细粒度的服务，操作的内容细而简。"
+  },
+  {
+   "cn": "时间粒度",
+   "en": "time granularity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.438",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "时间离散化程度的度量。"
+  },
+  {
+   "cn": "数据粒度",
+   "en": "data granularity",
+   "source": "地理学名词",
+   "wordNumber": "30.088",
+   "subjectFullName": "地理学_地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2006",
+   "definition": "包含在数据单元中的细节级别。越细节的数据粒度级越低，越综合的数据粒度级越高。"
+  },
+  {
+   "cn": "粒状结构",
+   "en": "granular texture",
+   "source": "地质学名词",
+   "wordNumber": "04.03.034",
+   "subjectFullName": "地质学_火成岩岩石学_岩石结构、构造",
+   "subjectName": "岩石结构、构造",
+   "publishYear": "2026",
+   "definition": "由粒状晶体矿物组成的岩石结构。根据岩石中同类主要矿物的粒径大小相近与否，分为等粒结构(粒径大小相近)和不等粒结构(粒径大小不等)。据矿物颗粒的自形程度，还可分为自形粒状结构、半自形粒状结构和他形粒状结"
+  },
+  {
+   "cn": "肉芽性鼓膜炎",
+   "en": "granular myringitis",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.7.1.2",
+   "subjectFullName": "耳科_中耳疾病",
+   "subjectName": "中耳疾病",
+   "publishYear": "2025",
+   "definition": "以鼓膜表面的肉芽性损害为特点的鼓膜慢性炎性疾病。"
+  },
+  {
+   "cn": "颗粒肥料",
+   "en": "granular fertilizer",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0056",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "按要求平均粒径成粒的固体肥料。"
+  },
+  {
+   "cn": "颗粒细胞",
+   "en": "granular cell",
+   "source": "兽医学名词",
+   "wordNumber": "08.188",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "大脑皮质的神经元。胞体较小，呈颗粒状。树突短，有许多分支和树突棘，轴突短而分支多。包括星形细胞、篮状细胞、水平细胞、马丁诺蒂细胞等。"
+  },
+  {
+   "cn": "颗粒变性",
+   "en": "granular degeneration",
+   "source": "兽医学名词",
+   "wordNumber": "10.100",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "为一轻度细胞变性。变性细胞因水分增多体积肿大，细胞质中出现大量微细颗粒。"
+  },
+  {
+   "cn": "颗粒管型",
+   "en": "granular cast",
+   "source": "兽医学名词",
+   "wordNumber": "13.209",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "由变性的肾上皮细胞残渣或由蛋白质及其他物质直接凝集于肾小管分泌的糖蛋白管型基质中形成的，超过管型1/3时的颗粒。见于急性肾炎、慢性肾炎、肾变性等肾器质性疾患。"
+  },
+  {
+   "cn": "粒状树脂",
+   "en": "granular resin",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0009",
+   "subjectFullName": "化工（七）_合成树脂_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "通过聚合反应直接得到或者后续加工造粒形成的粒状树脂材料。"
+  },
+  {
+   "cn": "粒状贝氏体",
+   "en": "granular bainite",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.029",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "奥氏体被过冷到贝氏体转变温度区间的最上部转变而成的大块状或条状铁素体(其内有较高密度的位错)内分布着众多小岛的复相组织。"
+  },
+  {
+   "cn": "粒度",
+   "en": "granularity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "粒度",
+   "en": "granularity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据粒度",
+   "en": "data granularity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据粒度",
+   "en": "data granularity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "封锁粒度",
+   "en": "lock granularity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "颗粒囊泡",
+   "en": "granular vesicle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颗粒细胞",
+   "en": "granular cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颗粒小凹",
+   "en": "granular foveola",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颗粒型巨核细胞",
+   "en": "granular megakaryocyte",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颗粒组分",
+   "en": "granular component",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "颗粒材料",
+   "en": "granular materials",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "粒状粉",
+   "en": "granular powder",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "颗粒状多晶硅",
+   "en": "granular polysilicon",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "粒状贝氏体",
+   "en": "granular bainite",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "粒状珠光体",
+   "en": "granular pearlite",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "粒化崩解",
+   "en": "granular disintegration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "粒状结构",
+   "en": "granular texture",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "颗粒噪声",
+   "en": "granular noise",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "颗粒细胞层",
+   "en": "granular cell layer\",\"granular layer",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "基底颗粒细胞",
+   "en": "basal granular cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "粒计算",
+   "en": "granular computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "粒度",
+   "en": "granularity",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.4",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "物料颗粒的大小，通常以球形颗粒的直径或非球形颗粒的面积、体积或质量为基准的各种名义粒度表示。是乳化香精和胶囊型固体（粉末）香精的主要理化指标之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

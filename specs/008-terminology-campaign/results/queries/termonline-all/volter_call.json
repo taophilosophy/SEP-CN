@@ -1,0 +1,802 @@
+{
+ "key": "volter call",
+ "term": "Völter Call",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:24:59+00:00",
+ "status": "ok",
+ "note": "variant=Völter Call; 审定公布名词库=5789; 海峡两岸名词对照库=2468; 其他来源数据库=336; 预公布名词数据库=150; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "呼叫",
+   "en": "call",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.375",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在通信中用户请求接续并得到响应。"
+  },
+  {
+   "cn": "召唤",
+   "en": "calling",
+   "source": "昆虫学名词",
+   "wordNumber": "07.241",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "(1)某些昆虫在召集同类或求偶时的发声行为。(2)某些雌性蛾类求偶时伸出尾尖引诱异性的动作。"
+  },
+  {
+   "cn": "主叫",
+   "en": "calling",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0817",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "被叫",
+   "en": "called",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0818",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫",
+   "en": "calling",
+   "source": "航海科技名词",
+   "wordNumber": "14.0025",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "预约呼叫",
+   "en": "booked call,reserved call",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.060",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "用户可以要求网络在指定时间内呼叫其终端设备的一种业务。"
+  },
+  {
+   "cn": "全呼",
+   "en": "all call",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "07.160",
+   "subjectFullName": "煤炭科学技术_矿山电气工程_煤矿通信",
+   "subjectName": "煤矿通信",
+   "publishYear": "1996",
+   "definition": "调度对全体被调度对象的呼叫。"
+  },
+  {
+   "cn": "急救电话",
+   "en": "emergency call",
+   "source": "急救医学名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "急救医学_急救概论_急救基本概念_通用概念",
+   "subjectName": "通用概念",
+   "publishYear": "2025",
+   "definition": "用于医疗急救呼叫的电话号码。例如，中国大陆医疗急救电话号码为120，日本和韩国等国家医疗急救电话号码为119，美国医疗急救电话号码为911，英国医疗急救电话号码为999，法国医疗急救电话号码为15。"
+  },
+  {
+   "cn": "电话分类",
+   "en": "call classification",
+   "source": "急救医学名词",
+   "wordNumber": "02.052",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度任务",
+   "subjectName": "调度任务",
+   "publishYear": "2025",
+   "definition": "调度员受理完成急救电话后将呼救电话进行分类的过程。"
+  },
+  {
+   "cn": "呼叫时刻",
+   "en": "call time",
+   "source": "急救医学名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度相关时间",
+   "subjectName": "调度相关时间",
+   "publishYear": "2025",
+   "definition": "呼救者拨打急救电话的时间点。"
+  },
+  {
+   "cn": "遇险呼叫",
+   "en": "distress call",
+   "source": "急救医学名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "急救医学_海上医学救援_基本概念_通用概念",
+   "subjectName": "通用概念",
+   "publishYear": "2025",
+   "definition": "遭遇危险事件时向他人发出请求立即援助信息的行为。可以通过无线通信、惯用的声光及图形等方式进行。遇险信号享有绝对的通信优先权，如有通信设备，则应使用遇险通信的频率或频道。"
+  },
+  {
+   "cn": "呼叫中心",
+   "en": "call center",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.146",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "利用电话、手机、传真、Web等多种信息方式接入，以人工、自动语音、Web等多种方式为客户提供各类售前、售后服务，建立起来的企业与客户沟通的组织平台。"
+  },
+  {
+   "cn": "报警鸣叫",
+   "en": "alarm call",
+   "source": "动物学名词",
+   "wordNumber": "7.0253",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "当捕食动物接近一个鸟类和哺乳动物的群体时，群体中首先发现捕食者的个体所发出的叫声。对其功能存在各种解释，一般认为报警鸣叫是一种利他行为。"
+  },
+  {
+   "cn": "索书单",
+   "en": "call slip",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.139",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_外借服务",
+   "subjectName": "外借服务",
+   "publishYear": "2019",
+   "definition": "在采用闭架式借阅的图书馆中，读者借阅馆藏时填写的以供馆员了解其所需馆藏并作为进入书库提取文献依据的单据。通常印有索书号、书名、著者、借书人姓名及借书证号等项目。"
+  },
+  {
+   "cn": "索书号",
+   "en": "call number",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.543",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "代表每种图书在图书馆整个藏书体系中特有位置的号码。根据藏书组织方式的不同，可分为分类索书号及固定排架索书号等种类。"
+  },
+  {
+   "cn": "系统调用",
+   "en": "system call",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0425",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "操作系统提供给应用程序的一种接口。用来调用内核提供的服务和功能。"
+  },
+  {
+   "cn": "函数调用",
+   "en": "function call",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0202",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "通过执行一个函数体来完成某种功能。"
+  },
+  {
+   "cn": "递归调用",
+   "en": "recursive call",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0238",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "软件模块直接或间接调用它自己的过程。"
+  },
+  {
+   "cn": "有担值的看涨期权",
+   "en": "covered call",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0591",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "由一份看涨期权空头和一份股票多头构成的期权组合。"
+  },
+  {
+   "cn": "集合竞价",
+   "en": "call auction",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0174",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "对一段时间内所接受的买卖申报一次性集中撮合的竞价方式。即证券买卖分时段进行，即投资者做出买卖委托后，不能立即按照有关规则执行并成交，而是在某一规定时间，由有关机构将在不同时点收到的订单集中起来，进行匹"
+  },
+  {
+   "cn": "调用",
+   "en": "call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鸣叫",
+   "en": "call",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "通话",
+   "en": "call",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫",
+   "en": "calling",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "召唤",
+   "en": "calling",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "紧急呼叫",
+   "en": "emergency call\",\"urgency call",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "报警鸣叫,告警声",
+   "en": "alarm call",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "鸣叫计数",
+   "en": "call count",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拆借市场，短期货款市场",
+   "en": "call market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "承购权",
+   "en": "call option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "第一期保费",
+   "en": "initial call",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "活期贷款",
+   "en": "call loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "通知放款",
+   "en": "call loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "被叫方付费呼叫",
+   "en": "collect call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "本地电话",
+   "en": "local call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拨号呼叫",
+   "en": "dialing call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电话呼叫",
+   "en": "telephone call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "放弃呼叫，呼叫失败",
+   "en": "abandoned call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "付费电话",
+   "en": "pay call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "管理程序调用",
+   "en": "supervisor call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报分",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "口令",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "calling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报分",
+   "en": "announce\",\"call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主观判断",
+   "en": "judgment call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最后一次检录",
+   "en": "final call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中止比赛",
+   "en": "called game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报分",
+   "en": "call the score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报分",
+   "en": "call the score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出场顺序",
+   "en": "order of calling\",\"order of lifting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "呼吁采取紧急的、积极的行动",
+   "en": "to call for urgent and aggressive action",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "闻令即动、勇挑重担",
+   "en": "to respond promptly when called upon and assume great responsibilities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "儿童优先",
+   "en": "first call for children",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_儿童健康",
+   "subjectName": "儿童健康",
+   "publishYear": "2025",
+   "definition": "在资源分配上儿童基本需求应得到高度优先满足的理念与行动。"
+  },
+  {
+   "cn": "儿童优先原则",
+   "en": "principle of first call for children",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.3.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_儿童健康",
+   "subjectName": "儿童健康",
+   "publishYear": "2025",
+   "definition": "1990年世界儿童问题首脑会议上首次提出的，一切为了儿童，向所有儿童的生存和正常发展提供基本保护的行为准则。"
+  },
+  {
+   "cn": "《蒙古诸汗源流黄金史纲》",
+   "en": "Short History of the Origins of the Qaghans Called the Golden Button",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0291",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "蒙古文历史文献。作者佚名，约成书于17 世纪初。该书从古老年代写起，至林丹汗继位止，重点记述14 世纪初的蒙古历史，史料真实，是研究明代蒙古，特别是明代蒙古汗系和贵族谱系的重要史料。"
+  },
+  {
+   "cn": "过滤器",
+   "en": "filter",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.7",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "放射治疗设备中用来对有用射束进行预期过滤的材料或装置。"
+  },
+  {
+   "cn": "咸味剂",
+   "en": "salter",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.13",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以氯化钠及氯化钾、氯化镁等中性盐味感特征为主，呈现强烈咸味的调味品。"
+  },
+  {
+   "cn": "过滤介质",
+   "en": "filter medium",
+   "source": "消毒学",
+   "wordNumber": "2.2.3.1.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "过滤操作中用以拦截液体、空气等介质所含微生物的各种多孔性材料。"
+  },
+  {
+   "cn": "均整器",
+   "en": "flattening filter",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.4",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "为了使电子束打靶产生的X射线束流在照射野内各点吸收剂量率尽可能均匀而安装在加速器机头内的装置。常采用铜、铁、铅、钨等金属材料制作。"
+  },
+  {
+   "cn": "楔形过滤器",
+   "en": "wedge filter",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "能把有用射束的全部或一部分连续衰减的附加过滤器。包括物理楔形过滤器和动态楔形过滤器两类。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  },
+  {
+   "cn": "自然杀伤细胞",
+   "en": "natural killer cell, NK cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "属淋巴细胞谱系，不表达T细胞受体、B细胞受体的一类固有免疫免疫细胞，无须预先接触抗原即可杀伤靶细胞(如病毒感染的宿主细胞和某些肿瘤细胞)，且其杀伤效应无MHC限制性。"
+  },
+  {
+   "cn": "微孔滤膜滤器",
+   "en": "microporous membrane filter",
+   "source": "消毒学",
+   "wordNumber": "2.2.3.2.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "能阻挡液体中直径大于0.2μm颗粒的滤器。"
+  },
+  {
+   "cn": "高氧膜",
+   "en": "high oxygen filter",
+   "source": "消毒学",
+   "wordNumber": "2.2.3.2.2",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "吸收有二氧化氯等强氧化剂的复合型过滤材料。能吸附分解空气中的挥发性有机物，过滤空气中的颗粒物并杀灭有害微生物，具有强氧化作用。"
+  },
+  {
+   "cn": "滤纸载体",
+   "en": "filter paper carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以滤纸作为试验微生物的支持物。多制成10mm×10mm大小的正方形，根据特定用途也可用其他尺寸，常用于消毒对象为纸质物品的消毒试验。"
+  },
+  {
+   "cn": "过滤膜法",
+   "en": "filter membrane method",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.3.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将适宜孔径的微孔滤膜安装在空气采样器中进行采样，将空气中粒径大于滤膜孔径的携带微生物的粒子阻留在滤膜上，滤膜经实验室洗脱和菌落计数，测定空气中微生物浓度的采样方法。"
+  },
+  {
+   "cn": "电解槽",
+   "en": "electrolytic cell",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.3.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由槽体、阳极和阴极组成，能发生电解反应的装置。可分为有隔膜和无隔膜两种。"
+  },
+  {
+   "cn": "小牛血清",
+   "en": "calf serum",
+   "source": "消毒学",
+   "wordNumber": "6.2.13.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "采自刚出生小牛的血清，消毒学试验中作为有机干扰物质使用。"
+  },
+  {
+   "cn": "宿主细胞",
+   "en": "host cell",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "能被病毒进入胞内并使其增殖的细胞。被病毒感染的细胞会发生病变甚至死亡。"
+  },
+  {
+   "cn": "细胞培养",
+   "en": "cell culture",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.8",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在适宜的体外条件下，用培养液维持细胞生长与增殖的技术。"
+  },
+  {
+   "cn": "细胞杂交",
+   "en": "cell hybrid",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "在体外条件下，通过人工培养和诱导将不同种生物或同种生物不同类型的两个或多个细胞合并成一个双核或多核细胞的过程。"
+  },
+  {
+   "cn": "细胞转化",
+   "en": "cell transformation",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "具有正常生长特性的细胞转变为具有无限分裂恶性肿瘤生长特性细胞的过程。正常细胞在体外经辐射、病毒或化学致癌物等处理以及长期的体外培养，均有可能向恶性转化。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,102 @@
+{
+ "key": "authorship",
+ "term": "authorship",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:40:40+00:00",
+ "status": "ok",
+ "note": "variant=authorship; 审定公布名词库=9; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "主体感",
+   "en": "authorship",
+   "source": "生物物理学名词",
+   "wordNumber": "04.209",
+   "subjectFullName": "生物物理学_神经生物物理学_运动神经机制",
+   "subjectName": "运动神经机制",
+   "publishYear": "2018",
+   "definition": "知觉自己的身体为自己所有的主观感觉。"
+  },
+  {
+   "cn": "集体作者",
+   "en": "collective authorship",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.03.003",
+   "subjectFullName": "编辑与出版学_著作权_著作权主体",
+   "subjectName": "著作权主体",
+   "publishYear": "2022",
+   "definition": "出于共同的目的和要求，共同进行创作的作者集合体。"
+  },
+  {
+   "cn": "个人著作",
+   "en": "personal authorship",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.059",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "个人撰写、署名并对其内容负责的作品。"
+  },
+  {
+   "cn": "署名权",
+   "en": "right of authorship",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.023",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "表明作者身份，在作品上署名的权利。"
+  },
+  {
+   "cn": "作者署名推定",
+   "en": "presumption of authorship",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.03.006",
+   "subjectFullName": "编辑与出版学_著作权_著作权主体",
+   "subjectName": "著作权主体",
+   "publishYear": "2022",
+   "definition": "推断判定作者的情形。在无相反证明的情况下，通常推定在作品上署名的自然人、法人或者其他组织为作者。"
+  },
+  {
+   "cn": "署名权",
+   "en": "right of authorship",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.08",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "根据著作权法的规定，著作权人决定是否表明其作者身份以及如何表明作者身份的权利。"
+  },
+  {
+   "cn": "分担责任者",
+   "en": "shared responsibility,shared authorship",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.537",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "在创作同一作品时，以相同的责任方式进行活动的两个或两个以上的责任者。每个责任者的劳动成果可能形成独立的部分，也可能融为一体，共同对文献的知识内容或艺术内容负责。"
+  },
+  {
+   "cn": "合作作品",
+   "en": "work of joint authorship",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.03.011",
+   "subjectFullName": "编辑与出版学_著作权_著作权主体",
+   "subjectName": "著作权主体",
+   "publishYear": "2022",
+   "definition": "两个以上的自然人，或者自然人与法人、其他组织，或者两个以上的法人、其他组织共同创作的作品。"
+  },
+  {
+   "cn": "合作作品的著作权归属",
+   "en": "ownership of copyright of work of joint authorship",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.03.012",
+   "subjectFullName": "编辑与出版学_著作权_著作权主体",
+   "subjectName": "著作权主体",
+   "publishYear": "2022",
+   "definition": "如何确定两人以上创作作品的著作权归属的情形。合作作品的著作权由合作作者共同享有。没有参加创作的人，不能成为合作作者。合作作品可以分割使用的，作者对各自创作的部分可以单独享有著作权，但行使著作权时不得侵"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,722 @@
+{
+ "key": "reason and revolution",
+ "term": "Reason and Revolution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:18:33+00:00",
+ "status": "ok",
+ "note": "variant=Reason and Revolution; 审定公布名词库=10000; 海峡两岸名词对照库=2868; 其他来源数据库=1350; 预公布名词数据库=1195; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "《国家与革命》",
+   "en": "State and Revolution",
+   "source": "世界历史名词",
+   "wordNumber": "05.0312",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "列宁关于马克思主义国家学说的专著。"
+  },
+  {
+   "cn": "论证",
+   "en": "reasoning",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.278",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中使用论据阐明论点的方法。"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "行为医学名词",
+   "wordNumber": "2.091",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "由若干已知的判断得出另一个新判断的思维形式。是借助已有的知识对事物进行间接认识的过程。所根据的判断是前提，根据前提所得到的判断是结论。"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "物理学名词",
+   "wordNumber": "01.0132",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.174",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "一种思维形式。人根据已有判断，经过分析与综合，引出新判断的过程。"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0066",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "寻找理由、信念、结论或动作的认知过程。形式主要包括演绎、溯因、归纳、类比、谬误推理等。"
+  },
+  {
+   "cn": "公转",
+   "en": "revolution",
+   "source": "天文学名词",
+   "wordNumber": "02.084",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "天体绕天体系统的主天体或质心的轨道运动。"
+  },
+  {
+   "cn": "公转",
+   "en": "revolution",
+   "source": "物理学名词",
+   "wordNumber": "11.0210",
+   "subjectFullName": "物理学_交叉学科_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "旋转",
+   "en": "revolution",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1029",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "以前臂为轴的手或手指(无论空手与否)的旋转动作，受旋转角度和目标重量或阻力的影响。"
+  },
+  {
+   "cn": "[主机]转速",
+   "en": "revolution",
+   "source": "水产名词",
+   "wordNumber": "09.134",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "发动机曲轴在单位时间内所旋转的圈数。"
+  },
+  {
+   "cn": "时空推理",
+   "en": "spatial and temporal reasoning,spatio-temporal reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0125",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "对占据空间并随时间变化的对象所进行的推理，用于描述人类对时空的认知。"
+  },
+  {
+   "cn": "科学技术革命",
+   "en": "scientific and technological revolution",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.028",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "狭义指某一学科领域和某一技术领域内或技术体系中的重大变革或突破；广义指一个历史时期的科学活动中和改变社会生产技术基础的整个技术体系中发生的重大变革或根本性变革。"
+  },
+  {
+   "cn": "科学技术革命",
+   "en": "Scientific and Technical Revolution",
+   "source": "世界历史名词",
+   "wordNumber": "01.0826",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "社会发展过程中，科学技术出现的重大突破，促进了社会生产力发生质的飞跃。"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.815",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "决定如何行动的推理。与纯粹认识论维度的理论理性相对立，强调要以行动改变世界，而要实现行动者的意图就必须考虑实践情境的具体差异，而不能仅考虑普遍的理论原则。这种推理的结论就是行动本身。"
+  },
+  {
+   "cn": "公共理性",
+   "en": "public reason",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.198",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "民主社会“公共性”的最高表现，也是现代民主国家的基本特征之一。公共理性具有两个最基本的特点：它对全体公民和社会的根本政治问题具有某种强制性；它非但不限制个人的理性和诸如教会、大学一类的社群对社会政治问"
+  },
+  {
+   "cn": "原因分析",
+   "en": "reason analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0666",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "确定造成事故发生的原因。"
+  },
+  {
+   "cn": "有理回应",
+   "en": "reasonable reply",
+   "source": "急救医学名词",
+   "wordNumber": "02.063",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度任务",
+   "subjectName": "调度任务",
+   "publishYear": "2025",
+   "definition": "调度员对错打、骚扰等与急救服务无关的电话采取适当拒绝的回应措施。"
+  },
+  {
+   "cn": "科学推理",
+   "en": "scientific reasoning",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.076",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "科学家在科学实践中通过概括与抽象得出规律。"
+  },
+  {
+   "cn": "类比推理",
+   "en": "analogical reasoning",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.077",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "基于比较A与B两事物之间的共同点，推论出B也应具有A具有的某种属性。"
+  },
+  {
+   "cn": "可废止推理",
+   "en": "defeasible reasoning",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.629",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "当推理是合理地可信的，但却不是演绎地有效的时，此时的推理就是可废止的。一个好的可废止推理其前提的真为其结论提供了支持，即使有可能前提为真而结论为假。"
+  },
+  {
+   "cn": "公转",
+   "en": "revolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绕转",
+   "en": "revolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "公转",
+   "en": "revolution",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "公转",
+   "en": "revolution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "道德推理",
+   "en": "moral reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件推理",
+   "en": "conditional reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "矩阵推理",
+   "en": "matrix reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "前向推论",
+   "en": "forward reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合理价值",
+   "en": "reasonable value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合理利润",
+   "en": "reasonable profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不精确推理",
+   "en": "inexact reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不确定推理",
+   "en": "uncertain reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "常识推理",
+   "en": "commonsense reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单调推理",
+   "en": "monotonic reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定性推理",
+   "en": "qualitative reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多主体推理",
+   "en": "multiagent reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二难推理",
+   "en": "dilemma reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反绎推理",
+   "en": "abductive reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非单调推理",
+   "en": "nonmonotonic reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "肌理",
+   "en": "Reasoning and Structure",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "5G革命",
+   "en": "5G revolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "能源革命",
+   "en": "energy revolution",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "跨媒体分析推理技术",
+   "en": "cross-media analysis and reasoning technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "3C革命",
+   "en": "3C revolution: computer, control and communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新贸易革命",
+   "en": "New Trade Revolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "革命",
+   "en": "Changing the Mandate / Revolution",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "3A革命",
+   "en": "3A revolution: factory automation, office automation and home automation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文界革命",
+   "en": "The Revolution in the Literati Circle",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《大数据》（〔中〕涂子沛）",
+   "en": "The Big Data Revolution (Tu Zipei, China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗界革命",
+   "en": "The Revolution in the Circle of Poets",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "革命",
+   "en": "revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0026",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以激烈或暴力乃至流血的方式进行社会制度根本变革的方式或手段。迄今的一切革命，都是为了建立一种新的所有制以反对另一种所有制的革命。政权要从一个阶级手里转到另一个阶级手里。"
+  },
+  {
+   "cn": "思辨理性",
+   "en": "speculative reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0099",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“纯粹思辨理性”。康德哲学批判考察的对象。按照康德观点，思辨理性构成科学知识的基础，是人类认识的先验性条件，它与“经验理性”相对照。同时，思辨理性也是沃尔弗（Christian Wolff）追随者"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0100",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“纯粹实践理性”，又称“实践之知”。与“思辨理性”相对。德国古典唯心主义哲学家康德用语，指纯粹理性的实践能力，即给人的行为规定先天道德准则的先验理性。"
+  },
+  {
+   "cn": "辩证理性",
+   "en": "dialectical reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0173",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德哲学把理性分为知性和辩证理性两个层次，知性是运用概念、范畴整理感性材料以获得规律性认识，辩证理性则是进一步综合知性规律为一般性原理。马克思进一步阐述了辩证理性的逻辑进程，即抽象的规定在思维行程中上"
+  },
+  {
+   "cn": "纯粹理性",
+   "en": "pure reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0174",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德的用语。是纯粹的认识能力，包括感性直观、知性和理性，它在经验之前、独立于经验，不依赖于任何经验内容而存在。否定感性经验的纯理性必走向理性主义、唯心主义认识论。"
+  },
+  {
+   "cn": "民粹主义理性",
+   "en": "populist reason",
+   "source": "马克思主义",
+   "wordNumber": "05.0090",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于拉克劳（Ernesto Laclau）《民粹主义理性》。描述了政治对抗中异质性因素是如何从特殊性上升为普遍性的，这种异质性因素受到拉康对象思想的启示，是实现霸权链接的主要因素和动力，是霸权建构的"
+  },
+  {
+   "cn": "公共理性",
+   "en": "public reason",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.055",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "围绕公共利益的决策和管理所应具有的公共性、民意性、正当性和合法性。"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0623",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "最早出现在美国人类学家萨林斯的《文化与实践理性》一书中，指在生活者的世界中对其有意义的思维模式和行为习惯。萨林斯批判古典政治经济学中的英国式“上层建筑和经济基础”理论，及功能主义的功利论中过分强调的理"
+  },
+  {
+   "cn": "管理革命",
+   "en": "managerial revolution",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "随着财产所有权和控制的逐渐分离，职业经理人取代公司所有者（资本家）成为决策者和控制者。由伯纳姆(James Burnham）在《管理革命》一书中提出。伯纳姆等人注意到资本主义社会一个重要变化，认为这一"
+  },
+  {
+   "cn": "社会革命",
+   "en": "social revolution",
+   "source": "社会学名词",
+   "wordNumber": "2.9.6.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁",
+   "subjectName": "社会变迁",
+   "publishYear": "2025",
+   "definition": "一个社会的国家政权、阶级结构、社会结构和支配性意识形态迅速而根本的变革。"
+  },
+  {
+   "cn": "工业革命",
+   "en": "industrial revolution",
+   "source": "社会学名词",
+   "wordNumber": "2.9.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁",
+   "subjectName": "社会变迁",
+   "publishYear": "2025",
+   "definition": "从18世纪中期至20世纪初，西方资本主义生产从工场手工业形态向机器大工业形态的大转变过程。"
+  },
+  {
+   "cn": "技术革命",
+   "en": "technological revolution",
+   "source": "社会学名词",
+   "wordNumber": "2.9.6.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁",
+   "subjectName": "社会变迁",
+   "publishYear": "2025",
+   "definition": "人类在改造客观世界的生产工具、工艺流程等方面的根本性变革。人类迄今为止经历了三次大的技术革命：始于18世纪60年代的蒸汽动力革命，始于19世纪70年代的电力革命，始于20世纪40、50年代的信息技术革"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "科学共同体做出的一系列新的承诺或共识，并建立一个科学实践的新基础，即科学共同体专业承诺发生了转移，打破了传统的活动，实现从一个范式到另一个范式的转变过程。"
+  },
+  {
+   "cn": "精神革命",
+   "en": "spiritual revolution",
+   "source": "马克思主义",
+   "wordNumber": "01.0188",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们思想观念、思维方式、价值观念、认知模式等的变革，摒除旧的僵化的保守的思想观念、思维方式，确立新的积极进取、充满活力和创新精神的新观念、新思想。"
+  },
+  {
+   "cn": "经济革命",
+   "en": "economic revolution",
+   "source": "马克思主义",
+   "wordNumber": "02.0015",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "本质上是社会生产方式的变革。它是基于社会生产力的大发展，社会生产关系发生全面调整或根本性变革。"
+  },
+  {
+   "cn": "共产主义革命",
+   "en": "communist revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0021",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级以马克思主义为指导、为实现共产主义而在世界范围内开展反对资产阶级、消灭私有制的阶级斗争。工人革命的第一步是使无产阶级上升为统治阶级，争得民主，一步一步地夺取资产阶级的全部资本，把一切生产工具集"
+  },
+  {
+   "cn": "不断革命",
+   "en": "permanent revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0029",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义向社会主义转变的途径和方式。马克思总结了1848年欧洲革命的经验，指出无产阶级的战斗口号应该是不断革命。无产阶级的社会主义就是宣布不断革命，就是无产阶级的阶级专政，这种专政是达到消灭一切阶级差"
+  },
+  {
+   "cn": "暴力革命",
+   "en": "violent revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0032",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "革命阶级用来夺取政权实现社会形态变革的方式。在阶级社会，统治阶级无不运用暴力维护其统治。暴力是每一个孕育着新社会的旧社会的助产婆。资本主义社会中的被统治阶级——无产阶级一般都要通过暴力革命推翻资产阶级"
+  },
+  {
+   "cn": "产业革命",
+   "en": "industrial revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0040",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "18世纪中叶，以机器取代人力，以大规模工厂化生产取代个体工场手工生产的一场生产与科技革命。属于资本主义生产方式从工场手工业向机器大工业过渡的阶段。由于英国人瓦特改良了蒸汽机，推动技术从手工劳动向机器大"
+  },
+  {
+   "cn": "人民革命",
+   "en": "peoples revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0144",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以广大人民群众为主体的，旨在推翻旧的、落后的社会制度，建立新的、适合生产力发展要求的社会制度的社会运动。在资本主义社会，人民革命指无产阶级领导的、旨在推翻资产阶级统治的革命运动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

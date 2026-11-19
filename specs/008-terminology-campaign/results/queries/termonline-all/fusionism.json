@@ -1,0 +1,562 @@
+{
+ "key": "fusionism",
+ "term": "fusionism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:26:14+00:00",
+ "status": "ok",
+ "note": "variant=fusionism; 审定公布名词库=305; 海峡两岸名词对照库=106; 其他来源数据库=13; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "熔融",
+   "en": "fusion",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0661",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "温度升高时，分子的热运动能增大，导致结晶破坏，物质由晶相变为液相的过程。"
+  },
+  {
+   "cn": "聚变",
+   "en": "fusion",
+   "source": "物理学名词",
+   "wordNumber": "09.0551",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "聚变",
+   "en": "fusion",
+   "source": "化学名词",
+   "wordNumber": "06.0279",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "两个较轻的原子核熔合成1个较重的原子核同时释放巨大能量的核反应。"
+  },
+  {
+   "cn": "熔融",
+   "en": "fusion",
+   "source": "化学名词",
+   "wordNumber": "03.0078",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "常压下使固体物质在达到一定温度后熔化，成为液态。"
+  },
+  {
+   "cn": "熔融",
+   "en": "fusion",
+   "source": "计量学名词",
+   "wordNumber": "15.297",
+   "subjectFullName": "计量学_化学_化学测量过程",
+   "subjectName": "化学测量过程",
+   "publishYear": "2015",
+   "definition": "试样与适当的熔剂一起在高温下加热而被分解的过程。"
+  },
+  {
+   "cn": "合音",
+   "en": "fusion",
+   "source": "语言学名词",
+   "wordNumber": "07.070",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "两个或者两个以上音节缩合为一个音节的语音现象。例如北京话“甭”是“不用”两个音节合音而成的。"
+  },
+  {
+   "cn": "融合",
+   "en": "fusion",
+   "source": "医学名词 第五分册",
+   "wordNumber": "06.011",
+   "subjectFullName": "医学_眼科学_斜视与弱视",
+   "subjectName": "斜视与弱视",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "椎体融合",
+   "en": "vertebral fusion",
+   "source": "神经外科学名词",
+   "wordNumber": "12.039",
+   "subjectFullName": "医学_神经外科学_中枢神经系统先天性疾病_脊柱先天性疾病",
+   "subjectName": "脊柱先天性疾病",
+   "publishYear": "2026",
+   "definition": "胚胎发育过程中，脊椎发育发生变异，相邻的两个椎体融合在一起的异常改变。最常见的部位是腰椎和颈椎。当发生于颈椎时，表现为颈椎数目减少，颈项缩短，头颈部运动受限，并常伴有其他部位的畸形，少数患者可伴有神经"
+  },
+  {
+   "cn": "熔壳",
+   "en": "fusion crust",
+   "source": "地质学名词",
+   "wordNumber": "13.07.046",
+   "subjectFullName": "地质学_地球化学_天体与宇宙化学",
+   "subjectName": "天体与宇宙化学",
+   "publishYear": "2026",
+   "definition": "陨石表面黑色光亮的厚度不超过几毫米的玻璃质皮壳。是陨石与大气摩擦生热而熔蚀并随即冷凝而成。"
+  },
+  {
+   "cn": "脊柱融合术",
+   "en": "spinal fusion",
+   "source": "神经外科学名词",
+   "wordNumber": "16.292",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科治疗技术",
+   "subjectName": "神经外科治疗技术",
+   "publishYear": "2026",
+   "definition": "把相邻的脊柱融合、固定在一起，以稳定脊柱、减轻脊髓神经根受压的治疗方法。"
+  },
+  {
+   "cn": "腰椎融合术",
+   "en": "lumbar fusion",
+   "source": "神经外科学名词",
+   "wordNumber": "16.297",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科治疗技术",
+   "subjectName": "神经外科治疗技术",
+   "publishYear": "2026",
+   "definition": "通过对相邻腰椎进行骨性融合达到稳定腰椎目的的手术。"
+  },
+  {
+   "cn": "寰枢椎融合术",
+   "en": "atlantoaxial fusion",
+   "source": "神经外科学名词",
+   "wordNumber": "16.31",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科治疗技术",
+   "subjectName": "神经外科治疗技术",
+   "publishYear": "2026",
+   "definition": "通过将枕骨和颈椎固定起到减压和永久性稳定寰枢椎目的的一种手术。"
+  },
+  {
+   "cn": "脾性腺融合症",
+   "en": "splenogonadal fusion",
+   "source": "普通外科学名词",
+   "wordNumber": "24.068",
+   "subjectFullName": "医学_普通外科学_脾外科",
+   "subjectName": "脾外科",
+   "publishYear": "2026",
+   "definition": "胚胎发育过程中脾和性腺粘连融合，未能分开，在各自部位发育的先天性疾病。多发生于男性。脾与左侧阴囊内的睾丸或盆腔中的卵巢以结缔组织条索相连，此纤维条索可压迫结肠引起肠梗阻。"
+  },
+  {
+   "cn": "撞击熔化",
+   "en": "impact fusion",
+   "source": "精细化工名词",
+   "wordNumber": "05.0432",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "在喷涂过程中，分散良好的粉末在施涂设备中与其他颗粒高速碰撞接触而导致的熔融倾向。"
+  },
+  {
+   "cn": "细胞融合",
+   "en": "cell fusion",
+   "source": "农学名词",
+   "wordNumber": "15.195",
+   "subjectFullName": "农业生物技术_细胞工程",
+   "subjectName": "细胞工程",
+   "publishYear": "2025",
+   "definition": "人工的或自然发生的细胞合并形成多核细胞的现象。"
+  },
+  {
+   "cn": "原生质体融合",
+   "en": "protoplast fusion",
+   "source": "农学名词",
+   "wordNumber": "15.198",
+   "subjectFullName": "农业生物技术_细胞工程",
+   "subjectName": "细胞工程",
+   "publishYear": "2025",
+   "definition": "植物体细胞的两个或多个原生质体通过物理或化学等因子的诱导，合并在一起形成融合细胞的过程。"
+  },
+  {
+   "cn": "数据融合",
+   "en": "data fusion",
+   "source": "农学名词",
+   "wordNumber": "16.090",
+   "subjectFullName": "农业信息_农业数据与信息",
+   "subjectName": "农业数据与信息",
+   "publishYear": "2025",
+   "definition": "对不同来源的，描述同一对象的数据进行结合的过程。"
+  },
+  {
+   "cn": "膜融合",
+   "en": "membrane fusion",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0054",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜流动性",
+   "subjectName": "膜流动性",
+   "publishYear": "2024",
+   "definition": "两个脂双分子层膜通过接近、锚定、局部亲水面的脱水和双分子层结构的不稳定，导致两个疏水内核并合形成一个连续脂质双分子层膜结构的过程。胞吞、胞吐、囊泡转运、卵子受精、病原体的侵入等重要生物学过程都有膜融合"
+  },
+  {
+   "cn": "融合基因",
+   "en": "fusion gene",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0715",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "（1）利用重组DNA技术构建的两个或两个以上基因的部分或全部序列组合组成的一个新杂合基因。用于融合的基因或片段可以是报告基因、功能基因、标签基因等。（2）机体内因染色体易位等各种因素导致的位于不同座位"
+  },
+  {
+   "cn": "融合蛋白质",
+   "en": "fusion protein",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0716",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "（1）融合基因的表达产物。或通过生物学和化学方法融合的两个或两个以上蛋白质。（2）机体内因染色体易位等各种因素导致产生的突变融合基因的蛋白质产物。"
+  },
+  {
+   "cn": "熔融",
+   "en": "fusion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "聚变",
+   "en": "fusion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "熔合",
+   "en": "fusion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "融合",
+   "en": "fusion",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "融合",
+   "en": "fusion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "融合",
+   "en": "fusion",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "细胞融合",
+   "en": "cell fusion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "基因融合",
+   "en": "gene fusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "染色体融合",
+   "en": "chromosome fusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "融合蛋白",
+   "en": "fusion protein",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "融合基因",
+   "en": "fusion gene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "三核并合",
+   "en": "triple fusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原生质体融合",
+   "en": "protoplast fusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "熔化曲线",
+   "en": "fusion curve",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "细胞融合",
+   "en": "cell fusion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "核聚变",
+   "en": "nuclear fusion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双眼视像融合",
+   "en": "binocular fusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "聚变核燃料",
+   "en": "fusion fuel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "熔合区",
+   "en": "fusion zone",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "聚变堆",
+   "en": "fusion reactor",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "数据融合",
+   "en": "data fusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传感器融合",
+   "en": "sensor fusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关联融合",
+   "en": "association and fusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多传感器信息融合",
+   "en": "multisensor information fusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多源数据融合",
+   "en": "multisource data fusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据融合处理",
+   "en": "data fusion processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据融合开放",
+   "en": "data fusion and open access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "核聚变",
+   "en": "nuclear fusion",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.44",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "轻原子核在特定条件下结合生成较重原子核，同时放出巨大能量的一类核反应。"
+  },
+  {
+   "cn": "文化融合",
+   "en": "culture fusion",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.5",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "不同的文化系统通过长期的相互接触和相互影响，彼此接近、接纳并融为一体的过程。文化融合会产生新的文化系统，后者是在融合过程中不断扬弃旧文化，并加入新文化要素而产生的，因而有利于文化的发展与进步。"
+  },
+  {
+   "cn": "融合蛋白",
+   "en": "fusion protein",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.26",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "通过基因工程方法将编码不同蛋白质的基因片段按照正确的读框进行重组，将其表达后获得的新蛋白质。"
+  },
+  {
+   "cn": "民族融合",
+   "en": "ethnic fusion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0014",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "两个或更多民族在文化和人口上的相互吸收和融会，由此形成新的民族的历史现象，是马克思主义民族理论的基本主题之一，是民族演进过程的必然结果和进步现象。马克思主义民族观认为，民族融合是指各民族随着社会高度发"
+  },
+  {
+   "cn": "核聚变",
+   "en": "nuclear fusion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.11",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "轻原子核在特定条件下结合生成较重的原子核，同时放出巨大能量的一类核反应。"
+  },
+  {
+   "cn": "文化融合",
+   "en": "cultural fusion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0042",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "两种比较接近的文化体系接触后，原来的文化体系随之消失或改变其形貌，从而产生出一种新的文化体系的过程。"
+  },
+  {
+   "cn": "核聚变材料",
+   "en": "nuclear fusion material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.14",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "在特定条件下可发生核反应使各自的轻的原子核结合生成较重原子核，同时放出巨大能量的两种材料。"
+  },
+  {
+   "cn": "工联主义",
+   "en": "trade unionism",
+   "source": "马克思主义",
+   "wordNumber": "04.0311",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪五、六十年代英国工人联合会领导集团所执行的机会主义路线和政策的总称。工联主义反对革命斗争，反对推翻资本主义制度，鼓吹劳资合作，提出“做一天公平的工作，得一天公平的工资”的口号，主张进行所谓纯经"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

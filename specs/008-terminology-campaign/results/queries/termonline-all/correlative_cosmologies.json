@@ -1,0 +1,592 @@
+{
+ "key": "correlative cosmologies",
+ "term": "correlative cosmologies",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:35:42+00:00",
+ "status": "ok",
+ "note": "variant=correlative cosmologies; 审定公布名词库=359; 海峡两岸名词对照库=200; 其他来源数据库=8; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "宇宙论",
+   "en": "cosmology",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.082",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "关于宇宙的本原、存在、结构和运行以及人类在宇宙中地位的理论观点。最早由德国C. 沃尔弗（C. Wolff）使用，并进一步被黑格尔、马克思沿袭。"
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.322",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "研究宇宙的结构、起源和演化的科学理论。它的主要研究对象为整个可观测时空范围内的大尺度特征和规律。"
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.007",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "从整体上研究宇宙的结构和演化，以及研究河外天体在宇宙年龄时标上演化的学科。"
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "物理学名词",
+   "wordNumber": "09.0911",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "物理学名词",
+   "wordNumber": "09.0911",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学原理",
+   "en": "cosmological principle",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.323",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "假设宇宙中物质是均匀、各向同性分布的，从而宇宙空间的特性也是均匀和各向同性的。这一假说得到了观测宇宙学一定程度的支持。"
+  },
+  {
+   "cn": "宇宙奇点",
+   "en": "cosmological singularity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.335",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "时空曲率无限大的时空点。奇点被认为存在于黑洞中央，大爆炸之前宇宙的存在状态也被认为是奇点。"
+  },
+  {
+   "cn": "牛顿宇宙学",
+   "en": "Newtonian cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.008",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "(1)牛顿提出或在其基本概念框架内建立的宇宙学理论。(2)使用牛顿力学或其推广形式分析宇宙动力学的理论。"
+  },
+  {
+   "cn": "量子宇宙学",
+   "en": "quantum cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.009",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "研究当量子力学效应在整个宇宙尺度上都很重要时的宇宙的理论。"
+  },
+  {
+   "cn": "相对论宇宙学",
+   "en": "relativistic cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.010",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "使用广义相对论研究宇宙学的理论。"
+  },
+  {
+   "cn": "观测宇宙学",
+   "en": "observational cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.012",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "研究宇宙学观测基础及其推论的宇宙学分支。"
+  },
+  {
+   "cn": "宇宙学红移",
+   "en": "cosmological redshift",
+   "source": "天文学名词",
+   "wordNumber": "07.269",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙膨胀引起的天体谱线红移。"
+  },
+  {
+   "cn": "宇宙学原理",
+   "en": "cosmological principle",
+   "source": "天文学名词",
+   "wordNumber": "07.418",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙在大尺度上保持均匀各向同性的假设。"
+  },
+  {
+   "cn": "宇宙学模型",
+   "en": "cosmological model",
+   "source": "天文学名词",
+   "wordNumber": "07.427",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "描述宇宙大尺度性质、起源和演化的模型。"
+  },
+  {
+   "cn": "宇宙学参数",
+   "en": "cosmological parameter",
+   "source": "天文学名词",
+   "wordNumber": "07.441",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙学模型中一些需由观测确定的参数，如哈勃常数、各种成分的相对密度等。"
+  },
+  {
+   "cn": "宇宙学模拟",
+   "en": "cosmological simulation",
+   "source": "天文学名词",
+   "wordNumber": "07.443",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "为研究宇宙学演化进行的数值模拟。"
+  },
+  {
+   "cn": "比安基宇宙论",
+   "en": "Bianchi cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.459",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "空间均匀但各向异性的宇宙学模型。"
+  },
+  {
+   "cn": "宇宙项",
+   "en": "cosmological term",
+   "source": "物理学名词",
+   "wordNumber": "06.0327",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量子宇宙学",
+   "en": "quantum cosmology",
+   "source": "物理学名词",
+   "wordNumber": "06.0328",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学原理",
+   "en": "cosmological principle",
+   "source": "物理学名词",
+   "wordNumber": "06.0344",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙论[观]",
+   "en": "cosmology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "等级式宇宙论",
+   "en": "hierarchic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "动力学宇宙学",
+   "en": "dynamical cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反物质宇宙论",
+   "en": "antimatter cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "各向异性宇宙论",
+   "en": "anisotropic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "观测宇宙学",
+   "en": "observational cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混沌宇宙论",
+   "en": "chaotic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子宇宙论",
+   "en": "quantum cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "牛顿宇宙论",
+   "en": "Newtonian cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数值宇宙学",
+   "en": "numerical cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "相对论宇宙论",
+   "en": "relativistic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙[学]常数",
+   "en": "cosmological constant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学红移",
+   "en": "cosmological redshift",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学距离",
+   "en": "cosmological distance",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学模型",
+   "en": "cosmological model",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学原理",
+   "en": "cosmological principle",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "运动学宇宙学",
+   "en": "kinematic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相关分析",
+   "en": "correlation analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "相关系数",
+   "en": "correlation coefficient",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "距离相关系数",
+   "en": "distance correlation coefficient",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙观",
+   "en": "cosmology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.15",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "在社会制度和人的行动中，体现与整个宇宙的关系及宇宙本身的构成和变化规律相关的认识论和信仰体系。不同文化大都基于对世间和超世间世界的关系来呈现其对整个存在的基本看法。"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个定距或定比尺度变量的统计关联。"
+  },
+  {
+   "cn": "虚假相关",
+   "en": "spurious correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.28",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "不存在因果关联的两个或多个变量间的相关关系。"
+  },
+  {
+   "cn": "半偏相关",
+   "en": "semipartial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.73",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以量度一个受到其他预测变量控制的被调节的自变量对因变量的关系的统计量。"
+  },
+  {
+   "cn": "双列相关",
+   "en": "biserial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.74",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以估计一个人为的两分变量和一个连续变量的关联强度的相关指标。"
+  },
+  {
+   "cn": "多元相关",
+   "en": "multiple correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在多元线性回归中，反映多于两个变量的变量间的线性关系的量度。用多元判定系数r2表示。"
+  },
+  {
+   "cn": "偏相关",
+   "en": "partial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.77",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在多元线性回归中，用以表示当其他自变量保持恒定，某一自变量与因变量之间的相关关系。"
+  },
+  {
+   "cn": "序列相关",
+   "en": "serial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.155",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个时间序列过程的接续的值有非零的协方差时的相关关系。"
+  },
+  {
+   "cn": "关联性分析",
+   "en": "correlation analysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.22.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "用于评估两个或多个变量之间关系的强度和方向的一种统计方法。相关系数范围为-1 到1。"
+  },
+  {
+   "cn": "相关性评价",
+   "en": "correlation evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.34",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价数据和/或试验对于特定危害识别或风险评估的适合程度，主要考虑暴露相关性、生物学相关性、效应相关性以及人类相关性四大要素，从而评价毒理学数据是否与特定目的的食品安全风险评估有关的过程。"
+  },
+  {
+   "cn": "典型相关分析",
+   "en": "canonical correlation analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.71",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "利用两个综合变量之间的相关关系反映两组指标之间的整体相关性的多元统计分析方法。由美国数理统计学家荷泰林首先提出。"
+  },
+  {
+   "cn": "组内相关系数",
+   "en": "intraclass correlation coefficient",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.75",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "组内有某种特定联系的多组数据两两之间的平均相关系数。等于组间方差与总方差之比。"
+  },
+  {
+   "cn": "斯皮尔曼相关系数",
+   "en": "Spearman correlation coefficient",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.80",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将两个随机变量的样本值按数据的⼤⼩顺序排列位次而得出变量的秩，并根据变量的秩而计算的积矩相关系数。由英国心理学家、统计学家斯皮尔曼（Charles Spearman）根据积差相关的概念推导而来。"
+  },
+  {
+   "cn": "皮尔逊相关系数",
+   "en": "Pearson's correlation coefficient",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.79",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "估计两个变量的线性相关关系的方向和强度的系数。"
+  },
+  {
+   "cn": "纠正措施",
+   "en": "corrective action",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.3",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "分析关键控制点产生偏离的原因并进行改正和消除，使其回到受控状态，以防止再次发生而制定的措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

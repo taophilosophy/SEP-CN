@@ -1,0 +1,492 @@
+{
+ "key": "locations",
+ "term": "locations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:27:29+00:00",
+ "status": "ok",
+ "note": "variant=locations; 审定公布名词库=264; 海峡两岸名词对照库=112; 其他来源数据库=4; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "选址",
+   "en": "location",
+   "source": "风景园林名词",
+   "wordNumber": "07.0073",
+   "subjectFullName": "风景园林_风景园林建筑_设计内容",
+   "subjectName": "设计内容",
+   "publishYear": "2025",
+   "definition": "建筑物或建筑群的建造地点的选择。景观环境中的选址既要考虑与地形地貌相结合，也要考虑人文背景，应通过对环境影响综合评估进行判断。"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "经济学名词",
+   "wordNumber": "08.007",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "某一经济主体为其社会经济活动所占有的场所（如工业区位、居住区位、城市区位等）。经济区位的实质是反映不同的地理坐标（空间位置）所标识的经济利益差别。"
+  },
+  {
+   "cn": "选址",
+   "en": "location",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0671",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "对应对突发事件的资源等的地址进行论证和决策的过程。"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "建筑学名词",
+   "wordNumber": "07.0199",
+   "subjectFullName": "建筑学_城乡规划_详细规划",
+   "subjectName": "详细规划",
+   "publishYear": "2014",
+   "definition": "城市或建设项目、设施的位置与其他城市、建设项目、设施等空间要素的关系。是影响城市和区域发展的基础性因素。"
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "source": "建筑学名词",
+   "wordNumber": "09.0006",
+   "subjectFullName": "建筑学_建筑设计_总图与场地",
+   "subjectName": "总图与场地",
+   "publishYear": "2014",
+   "definition": "场地或建筑物、构筑物等所在或所占的地方。"
+  },
+  {
+   "cn": "寻位",
+   "en": "locating",
+   "source": "航海科技名词",
+   "wordNumber": "14.0168",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "定域子",
+   "en": "locator",
+   "source": "物理学名词",
+   "wordNumber": "08.0685",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0621",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "用于确定位置的一种点的输入设备。"
+  },
+  {
+   "cn": "归字",
+   "en": "locate",
+   "source": "语言学名词",
+   "wordNumber": "09.113",
+   "subjectFullName": "语言学_音韵学_音类分析和等韵学",
+   "subjectName": "音类分析和等韵学",
+   "publishYear": "2011",
+   "definition": "根据反切上下字确定被切字在切韵图上的音韵地位。"
+  },
+  {
+   "cn": "公司总部区位",
+   "en": "headquarter location,HQ location",
+   "source": "地理学名词",
+   "wordNumber": "18.131",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "公司总部所在地。在公司空间结构和治理中起关键作用。"
+  },
+  {
+   "cn": "震中位置",
+   "en": "epicentral location; epicenter location",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0416",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "震源在地面投影的位置。 "
+  },
+  {
+   "cn": "定位",
+   "en": "spotting,locating",
+   "source": "电力名词",
+   "wordNumber": "22.388",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "根据已经选好并审定通过的线路路径进行定线和断面测绘,并合理地配置杆塔的位置。"
+  },
+  {
+   "cn": "故障定位",
+   "en": "fault locations",
+   "source": "电力名词",
+   "wordNumber": "06.143",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "基于所获得的故障信息估算故障发生位置的方法,如用距离继电器得到的阻值计算故障位置。"
+  },
+  {
+   "cn": "现场地址",
+   "en": "current location",
+   "source": "急救医学名词",
+   "wordNumber": "02.056",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度任务",
+   "subjectName": "调度任务",
+   "publishYear": "2025",
+   "definition": "呼叫救护车时患者所在的地理位置。"
+  },
+  {
+   "cn": "定位时刻",
+   "en": "location time",
+   "source": "急救医学名词",
+   "wordNumber": "02.073",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度相关时间",
+   "subjectName": "调度相关时间",
+   "publishYear": "2025",
+   "definition": "调度员受理急救电话时在电子地图进行呼叫定位的时间点。"
+  },
+  {
+   "cn": "区位分析",
+   "en": "location analysis",
+   "source": "风景园林名词",
+   "wordNumber": "06.0093",
+   "subjectFullName": "风景园林_风景园林设计_设计分析",
+   "subjectName": "设计分析",
+   "publishYear": "2025",
+   "definition": "对城市的位置、所属地区、人文环境、气候条件、城市规模和与城市之间的距离等信息的分析。"
+  },
+  {
+   "cn": "档案库位管理",
+   "en": "location management",
+   "source": "档案学名词",
+   "wordNumber": "03.03.023",
+   "subjectFullName": "档案学_档案管理_档案统计与保管",
+   "subjectName": "档案统计与保管",
+   "publishYear": "2024",
+   "definition": "规划档案库房的使用面积和柜架数量、合理布局，便于档案定位的管理活动。"
+  },
+  {
+   "cn": "货位",
+   "en": "stock location",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.111",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "用于存储出版物的有编号的位置。"
+  },
+  {
+   "cn": "地震定位",
+   "en": "earthquake location",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0388",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "运用宏观资料和 (或)地震波到时资料所确定的地震事件 (地震、爆炸等 )的经纬度、震源深度、发震时刻 (起爆时刻)与震级(大小)的工作。 "
+  },
+  {
+   "cn": "震源位置",
+   "en": "hypocentral location",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0408",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "爆炸、矿山坍塌或任何一种激发地震波的地震震源在空间的位置。包括震中位置(震中经、纬度 )和震源深度。 "
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "[存储]位置",
+   "en": "location",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "寻位",
+   "en": "locating",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "locating",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总部区位",
+   "en": "headquarter location\",\"HQ location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position\",\"location",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "厂址",
+   "en": "plant location",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "位置恒常性",
+   "en": "location constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "工业区位",
+   "en": "industrial location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "交通区位",
+   "en": "traffic location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "经济区位",
+   "en": "economic location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "居住区位",
+   "en": "residential location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "绝对区位",
+   "en": "absolute location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "农业区位",
+   "en": "agricultural location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位比",
+   "en": "location rate",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位地租",
+   "en": "location rent",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位论",
+   "en": "location theory",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "基于位置的社交网络",
+   "en": "location-based social network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "箭着位置",
+   "en": "location of the arrows",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统一资源定位符",
+   "en": "uniform resource locator (URL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "局灶性硬皮病",
+   "en": "located scleroderma",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.6.3.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性硬化症_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "表现为局灶性皮肤肿胀并逐渐硬化、萎缩而不伴脏器受累。主要分为硬斑病和线状硬皮病两种类型。该病无雷诺现象，无脏器受累，甲褶微循环检查正常，自身抗体阳性率低，一般不进展为系统性硬化症。"
+  },
+  {
+   "cn": "矛盾性阶级位置",
+   "en": "contradictory class location",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "中产阶级处于资产阶级与无产阶级之间的位置。由美国新马克思主义阶级分析理论家赖特提出，是新马克思主义中产阶级理论的一个核心概念。"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员受伤部位划分的各部位伤伤员数占伤员总数的百分比。受伤部位常分为颇脑、颌面、颈、胸背、腰腹、阴臀、上肢、下肢、多部位、其他。可用以分析战术动作及工事情况等，为改进卫生装备提供依据。"
+  },
+  {
+   "cn": "燃料破损检测系统",
+   "en": "fuel rupture detection [location] system",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.2.4",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料",
+   "subjectName": "核燃料与乏燃料",
+   "publishYear": "2025",
+   "definition": "监测反应堆燃料元件破损的系统。"
+  },
+  {
+   "cn": "伤部伤类双向构成比",
+   "en": "bidirectional proportion for locations and types of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员负伤部位和种类交叉观察，某部位和某种伤类伤员数占伤员总数的百分比，用以深入分析伤员负伤部位和伤类情况，为军政指挥员和卫勤领导改进装备、组织救治提供依据。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,542 @@
+{
+ "key": "nuxing",
+ "term": "nüxing",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:39:56+00:00",
+ "status": "ok",
+ "note": "variant=nüxing; 审定公布名词库=479; 海峡两岸名词对照库=117; 其他来源数据库=10; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "问名",
+   "en": "naming",
+   "source": "风景园林名词",
+   "wordNumber": "06.0045",
+   "subjectFullName": "风景园林_风景园林设计_中国传统园林设计",
+   "subjectName": "中国传统园林设计",
+   "publishYear": "2025",
+   "definition": "思度、揣摩风景的名称。对设计者而言是构想名称，对游览者而言是望文生义、见景生情，借名解景。"
+  },
+  {
+   "cn": "定位",
+   "en": "fixing",
+   "source": "精细化工名词",
+   "wordNumber": "07.0108",
+   "subjectFullName": "精细化工_胶黏剂",
+   "subjectName": "胶黏剂",
+   "publishYear": "2025",
+   "definition": "胶接时，被粘物固定在理想位置上的过程。"
+  },
+  {
+   "cn": "涂蜡",
+   "en": "waxing",
+   "source": "农学名词",
+   "wordNumber": "17.035",
+   "subjectFullName": "农产品贮运与加工_农产品贮运",
+   "subjectName": "农产品贮运",
+   "publishYear": "2025",
+   "definition": "在农产品表面涂一层蜡质的过程。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.116",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "用机械的或流体动力的方法，使两种或两种以上物料相互扩散而达到一定均匀程度的过程。"
+  },
+  {
+   "cn": "混匀",
+   "en": "mixing",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0269",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "用机械或人工的方法使两种以上的物料均匀混合的作业。"
+  },
+  {
+   "cn": "定影",
+   "en": "fixing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.109",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "通过加热或其他方法使色粉熔化并固着到承印物上的过程。"
+  },
+  {
+   "cn": "密炼",
+   "en": "mixing",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0912",
+   "subjectFullName": "化工（七）_合成树脂_合成树脂加工及助剂",
+   "subjectName": "合成树脂加工及助剂",
+   "publishYear": "2022",
+   "definition": "由具有螺旋棱、有速度比并相对回转的转子和室壁，以及上、下顶栓组成的一种物料混炼系统。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.159",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "使两种或多种物料相互分散而达到一定均匀程度的单元操作。"
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.191",
+   "subjectFullName": "化工（八）_化工设备_橡胶机械",
+   "subjectName": "橡胶机械",
+   "publishYear": "2021",
+   "definition": "利用机械力将生胶或塑炼生胶与配合剂、填充物等混合、分散均匀的过程。本质来说是配合剂在生胶中均匀分散的过程，粒状配合剂呈分散相，生胶呈连续相。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.080",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_粉末性能及其测试",
+   "subjectName": "粉末性能及其测试",
+   "publishYear": "2021",
+   "definition": "两种或多种不同材料的粉末的均匀掺合。"
+  },
+  {
+   "cn": "定影",
+   "en": "fixing",
+   "source": "测绘学名词",
+   "wordNumber": "03.058",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "摄影处理中去除未感光或感光后未还原的银盐，使显出的影像得以稳定的过程。"
+  },
+  {
+   "cn": "交混",
+   "en": "mixing",
+   "source": "电力名词",
+   "wordNumber": "17.196",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "反应堆燃料组件内各子通道之间流体横向流动使温度(单相)或含汽率(两相)均匀化的现象。"
+  },
+  {
+   "cn": "打蜡",
+   "en": "waxing",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0587",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_贮藏保鲜",
+   "subjectName": "贮藏保鲜",
+   "publishYear": "2020",
+   "definition": "人为地在园艺产品表面涂一层蜡质的过程。打蜡的方法主要有起泡法、浸泡法及涂刷法等。"
+  },
+  {
+   "cn": "拌和",
+   "en": "mixing",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1231",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "通过拌混原料，将各种不同的食用色素、香料和调味料均匀地分散到硬糖基体中的过程。"
+  },
+  {
+   "cn": "定影",
+   "en": "fixing",
+   "source": "物理学名词",
+   "wordNumber": "04.0806",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0208",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "使两种或多种物料相互分散而达到一定均匀程度的单元操作。"
+  },
+  {
+   "cn": "混合性",
+   "en": "mixing",
+   "source": "物理学名词",
+   "wordNumber": "05.0495",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": "遍历理论中的。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "药学名词",
+   "wordNumber": "02.089",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "用机械方法使两种或多种物料相互分散而达到均匀状态的操作。"
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0648",
+   "subjectFullName": "材料科学技术_高分子材料_橡胶",
+   "subjectName": "橡胶",
+   "publishYear": "2011",
+   "definition": "生胶(经过或未经过塑炼)和各种配合剂经过机械混合翻炼达到均化和分散的加工工艺过程。"
+  },
+  {
+   "cn": "外壁内层",
+   "en": "nexine",
+   "source": "古生物学名词",
+   "wordNumber": "04.0208",
+   "subjectFullName": "古生物学_古植物学_孢粉和植硅体",
+   "subjectName": "孢粉和植硅体",
+   "publishYear": "2009",
+   "definition": "外壁内部无纹饰部分，位于外壁外层之内、内壁之外。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "定影",
+   "en": "fixing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "混频",
+   "en": "mixing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "微管连接蛋白",
+   "en": "nexin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "微管连接蛋白",
+   "en": "nexin",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "全混",
+   "en": "complete mixing\",\"perfect mixing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "边界混合",
+   "en": "boundary mixing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "侧向混合",
+   "en": "lateral mixing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等密度混合",
+   "en": "isopycnal mixing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非局地混合",
+   "en": "nonlocal mixing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合比",
+   "en": "mixing ratio",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合层",
+   "en": "mixing layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合长",
+   "en": "mixing length",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合深度",
+   "en": "mixing depth",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合雾",
+   "en": "mixing fog",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合效率",
+   "en": "mixing efficiency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水平混合",
+   "en": "horizontal mixing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "五行",
+   "en": "Wuxing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拳击运动",
+   "en": "pugilism\",\"boxing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空拳",
+   "en": "shadow boxing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拳击短裤",
+   "en": "boxing trunks\",\"shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际拳击联合会",
+   "en": "International Boxing Federation",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际业余拳击协会",
+   "en": "International Boxing Association\",\"AIBA",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性",
+   "en": "Xing (Nature)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "李宁",
+   "en": "Li Ning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打蜡",
+   "en": "waxing",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.27",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "人为在园艺产品表面涂一层蜡质的过程。主要方法有起泡法、浸泡法及涂刷法等。"
+  },
+  {
+   "cn": "语码混合",
+   "en": "code-mixing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.011",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "一个语句含有两种或多种语码的现象。"
+  },
+  {
+   "cn": "布兴语",
+   "en": "Buxing language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0327",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "布兴人使用的语言。属南亚语系孟-高棉语族佤-德昂语支。中国的布兴人约有540 人，主要分布在云南省西双版纳傣族自治州勐腊县，部分划归为哈尼族；在老挝、泰国、柬埔寨、越南等国也有分布。"
+  },
+  {
+   "cn": "气水混合装置",
+   "en": "ozone-water mixing equipment",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.1.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "将臭氧气体和水混合并使臭氧气体充分溶于水的装置。"
+  },
+  {
+   "cn": "包产到户",
+   "en": "fixing output quota for individual household",
+   "source": "马克思主义",
+   "wordNumber": "02.0389",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在土地等基本生产资料集体所有的前提下，农户以家庭为单位进行承包，包工、包产、包费用，并根据产量获得相应报酬的农业生产责任制形式，是家庭承包经营的一种形式。随着农村改革的逐步深入和发展，包产到户逐步演变"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

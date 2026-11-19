@@ -1,0 +1,792 @@
+{
+ "key": "alternate issuance",
+ "term": "alternate issuance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:01:28+00:00",
+ "status": "ok",
+ "note": "variant=alternate issuance; 审定公布名词库=514; 海峡两岸名词对照库=302; 其他来源数据库=49; 预公布名词数据库=125; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "方案",
+   "en": "alternative",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0434",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "进行工作的具体计划或对某一问题制定的规划。"
+  },
+  {
+   "cn": "比较方案",
+   "en": "alternative",
+   "source": "水利科学技术名词",
+   "wordNumber": "16.074",
+   "subjectFullName": "水利科学技术_水利经济_经济评价（水利）",
+   "subjectName": "经济评价（水利）",
+   "publishYear": "1997",
+   "definition": "为达到指定的经济发展目标，可供决策者比较选择的、具有同等研究深度的各种工程方案。"
+  },
+  {
+   "cn": "备选方案",
+   "en": "alternative",
+   "source": "自动化名词",
+   "wordNumber": "03.244",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "穿插",
+   "en": "alternating",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.229",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "将稿件以多边形互相交错结合的排版方式。"
+  },
+  {
+   "cn": "供选方案",
+   "en": "alternatives",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0236",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "可供决策选择的对象。"
+  },
+  {
+   "cn": "交错化子",
+   "en": "alternizer",
+   "source": "数学名词",
+   "wordNumber": "04.0855",
+   "subjectFullName": "数学_代数学_代数几何学_型",
+   "subjectName": "型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "供选方案",
+   "en": "alternatives",
+   "source": "数学名词",
+   "wordNumber": "011.0033",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "替代标准",
+   "en": "alternate standard,alternative standard",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.197",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "经批准发布，用于取代被废止的标准的新标准。由于科技的发展和标准体系本身需要不断调整完善，标准需要进行定期复审、修订并颁布新版标准，代替旧版标准。如果新版标准又经复审并进行了修订，则最后的新版标准为替代"
+  },
+  {
+   "cn": "交替类目",
+   "en": "alternative class,alternative location",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.202",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "分类法中为可以隶属于两个或更多个上位类的主题概念设立的内容相同的供选择使用的类目。在体系分类表中，是分类号带有中括号，并有“宜入×××”注释的类目。其中“宜入”所指的类目，是该分类表带倾向性的正式类目"
+  },
+  {
+   "cn": "交替性偏瘫",
+   "en": "alternate hemiplegia",
+   "source": "神经外科学名词",
+   "wordNumber": "4.026",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_症状",
+   "subjectName": "症状",
+   "publishYear": "2026",
+   "definition": "一种罕见的综合征。特点是交替性偏瘫频繁发作，常伴有短暂的眼肌麻痹、眼球震颤，不完全瘫痪的肢体伴有舞蹈样缓慢动作及自主神经功能障碍。"
+  },
+  {
+   "cn": "迎茬",
+   "en": "alternate cropping",
+   "source": "农学名词",
+   "wordNumber": "08.034",
+   "subjectFullName": "作物栽培与耕作_种植制度",
+   "subjectName": "种植制度",
+   "publishYear": "2025",
+   "definition": "同一田地上隔季种植相同的作物。"
+  },
+  {
+   "cn": "大小年",
+   "en": "alternate yield",
+   "source": "农学名词",
+   "wordNumber": "08.105",
+   "subjectFullName": "作物栽培与耕作_作物栽培",
+   "subjectName": "作物栽培",
+   "publishYear": "2025",
+   "definition": "果树开花结果在不同年份之间差异较大的现象。"
+  },
+  {
+   "cn": "交替放牧",
+   "en": "alternate grazing ",
+   "source": "草学名词",
+   "wordNumber": "2.0493",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "转主寄主",
+   "en": "alternate host ",
+   "source": "草学名词",
+   "wordNumber": "7.0348",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "轮切式拉削",
+   "en": "alternate broaching",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.108",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_切削加工工艺_切削加工方法",
+   "subjectName": "切削加工方法",
+   "publishYear": "2021",
+   "definition": "分块拉削方式之一。"
+  },
+  {
+   "cn": "交替分齿",
+   "en": "alternate set",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "11.110",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_刀具_刀具要素",
+   "subjectName": "刀具要素",
+   "publishYear": "2021",
+   "definition": "逐个锯齿交替向左右分的横向分齿。"
+  },
+  {
+   "cn": "相间分离",
+   "en": "alternate segregation",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.482",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "相互易位杂合子减数分裂过程中形成了具双环“8”形染色体的结构，两条非邻近染色体走向一极，另两条非邻近染色体走向另一极，也就是两条正常染色体走向一极，两条易位的染色体走向另一极的分离过程。所形成的配子都"
+  },
+  {
+   "cn": "替换羽",
+   "en": "alternate plumage",
+   "source": "动物学名词",
+   "wordNumber": "6.0286",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鸟纲",
+   "subjectName": "鸟纲",
+   "publishYear": "2021",
+   "definition": "鸟类在经历一次部分羽毛脱换后形成的羽衣。常出现于冬季和春季繁殖期前。"
+  },
+  {
+   "cn": "轮替动作",
+   "en": "alternate motion",
+   "source": "神经病学名词",
+   "wordNumber": "04.137",
+   "subjectFullName": "神经病学_神经病学症状与体征",
+   "subjectName": "神经病学症状与体征",
+   "publishYear": "2020",
+   "definition": "一种共济运动的检查方法，观察患者做快速、反复的往复动作的情况，如前臂旋前和旋后，或以一侧手的手掌、手背交替快速拍打对侧手掌。"
+  },
+  {
+   "cn": "相间分离",
+   "en": "alternate segregation",
+   "source": "植物学名词",
+   "wordNumber": "10.0218",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "相互易位杂合子减数分裂过程中形成的具双环“8”形染色体的细胞中，两条正常染色体走向一极，两条易位的染色体走向另一极的分离过程。这样所形成的配子都具有完整的染色体组，是可育的。"
+  },
+  {
+   "cn": "互生",
+   "en": "alternate",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "替代",
+   "en": "alternative",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "交替",
+   "en": "alternation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "替代宿主,转主寄主",
+   "en": "alternative host\",\"alternate host",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "迂回路由",
+   "en": "alternate route\",\"alternative route",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "迂回选路",
+   "en": "alternate routing\",\"alternative routing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互生叶序",
+   "en": "alternate phyllotaxy\",\"alternate phyllotaxis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "互列纹孔式",
+   "en": "alternate pitting",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "互生叶",
+   "en": "alternate leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相间分离",
+   "en": "alternate segregation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相间分离",
+   "en": "alternate segregation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "交替码",
+   "en": "alternate code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮流传输",
+   "en": "alternate transmission",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替换磁道",
+   "en": "alternate track",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替换频率",
+   "en": "alternate frequency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替代宿主",
+   "en": "alternate host",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "互用名[称]",
+   "en": "alternative names",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "交替呼吸作用",
+   "en": "alternative respiration",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "交替途径",
+   "en": "alternative pathway",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "交替投资",
+   "en": "alternative investment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "替代金融",
+   "en": "alternative finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "替代支付",
+   "en": "alternative payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "替代处罚",
+   "en": "alternative penalty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交替芭蕾腿",
+   "en": "ballet leg alternate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类金融业务",
+   "en": "alternative financial services",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "替代信用模式",
+   "en": "alternative credit model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "替代性法律服务",
+   "en": "alternative legal service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "替代性纠纷解决机制",
+   "en": "alternative dispute resolution mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一阴一阳之谓道",
+   "en": "The Alternation of Yin and Yang Constitutes the Way.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扩大地方政府专项债券发行规模",
+   "en": "to scale up the issuance of special bonds by local governments",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "议题网络",
+   "en": "issue network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "硬骨头",
+   "en": "tough issue",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "“四个问题，，",
+   "en": "the “four key issues” (in poverty alleviation)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全投诉举报制度",
+   "en": "complaining and reporting system for big data security issues",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“三农”问题",
+   "en": "issues relating to agriculture, rural areas and the wellbeing of farmers",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《关于推进公安信息化发展若干问题的意见》（中国）",
+   "en": "Opinions on Several Issues Concerning IT-Based Development of the Police (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "突出重点、统筹兼顾、分类指导、分区施策",
+   "en": "to focus on key issues, strengthen coordination, give sector-specific guidance, and apply targeted policies to different areas ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《关于互联网法院审理案件若干问题的规定》（中国）",
+   "en": "Provisions of the Supreme People’s Court on Several Issues Concerning the Adjudication of Cases by Internet Courts (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "替代法",
+   "en": "alternative method",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.34",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "替代传统动物的试验方法，如体外细胞培养、一种在研究中使用非侵入性方法或替代方法来替代传统动物试验的方法。"
+  },
+  {
+   "cn": "复本信度",
+   "en": "alternate-form reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.71",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在问卷调查中，设计两个功能等价但措辞不同的问题，或改变问卷中问题的提问次序，以评估同一回答人对两种问题（或问卷）反应的稳定性的量度。"
+  },
+  {
+   "cn": "替代医疗",
+   "en": "alternative health care",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.2",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "没有医生执照的从业者所提供的健康服务，这些服务大部分是合法的，但是并非由受过西医专业教育的人提供。服务提供者包括按摩师、针灸师等。"
+  },
+  {
+   "cn": "可替代方法",
+   "en": "alternative testing method",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.48",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "用来检测某一特定产品中某种目标微生物的与相关标准方法等效的方法"
+  },
+  {
+   "cn": "代可可脂",
+   "en": "cocoa butter alternatives",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.31",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "能部分模拟天然可可脂特点并加以部分或全部替代的硬化油脂。如氧化植物油，但其脂肪酸组成与构型不同于可可脂，可能含有反式脂肪酸，且缺少多晶型特性。"
+  },
+  {
+   "cn": "发酵替代蛋白",
+   "en": "alternative proteins from fermentation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.32",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "通过微生物发酵技术，以植物基材料为主要原料，生产出的具有与动物蛋白相似营养价值和口感的蛋白。"
+  },
+  {
+   "cn": "化学溶剂替代试验",
+   "en": "alternative test using chemical solvent",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.58",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在规定条件下进行的、采用化学溶剂替代油脂类食品模拟物的迁移试验。"
+  },
+  {
+   "cn": "治乱说",
+   "en": "alternate cycle of chaos and order",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "解释王朝历史兴衰更替的中国传统史观。由孟子最早提出的一种学说，认为“天下之生久矣，一治一乱”，是对春秋战国历史演变的总结。后世演变成中国传统史观，用以考察历史上朝代更迭形成的一治一乱的循环进程。这种史"
+  },
+  {
+   "cn": "替代蛋白",
+   "en": "alternative proteins for conventional animal products",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.23",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "非传统畜牧或渔业生产，能提供蛋白质来源的食物，以满足人类的蛋白质的需求，从新加工方式的工艺上包括植物基蛋白、发酵蛋白和细胞培育蛋白，从新食品资源上可以包括昆虫、藻类、酵母与真菌等。"
+  },
+  {
+   "cn": "素肉",
+   "en": "artificial meat from vegetable alternative protein, man-made meat from vegetable alternative protein",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.27",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "不包含任何肉类产品、禽类产品或水产品但具有肉类产品外观的食品。"
+  },
+  {
+   "cn": "代可可脂巧克力制品",
+   "en": "chocolate products with cocoa butter alternatives",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.18",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "以代可可脂为主要原料（质量分数≥25%），与其他食品按一定比例混合，经特定工艺制成的固态、半固态食品。"
+  },
+  {
+   "cn": "出生医学证明首次签发率",
+   "en": "initial issuance rate of medical certificate of birth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.9.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区第一次为新生儿出具《出生医学证明》的数量与需开具证明的新生儿人数之比。"
+  },
+  {
+   "cn": "代可可脂巧克力",
+   "en": "chocolate with cocoa butter alternatives, compound chocolate",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.17",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "以代可可脂为主要原料（超过5%），添加或不添加可可制品（可可液块、可可粉、可可脂）、食糖和或甜味剂、乳制品及食品添加剂，经特定工艺制成的固态、半固态并具有巧克力风味和性状的食品。"
+  },
+  {
+   "cn": "无糖代可可脂巧克力及代可可脂巧克力制品",
+   "en": "sugar-free chocolate and chocolate products with cocoa butter alternatives",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.22",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "含糖量（以单糖和双糖计）≤0.5g/100g（固体）或0.5g/100ml（液体）的代可可脂巧克力制品。"
+  },
+  {
+   "cn": "民族问题",
+   "en": "ethnic issue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0003",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族形成、发展直到消亡之前的各个历史阶段里，不同民族和民族集团间在社会生活的各个领域发生的各种矛盾与冲突的总称，是社会总问题的一部分。民族问题具有普遍性、长期性、复杂性、国际性和重要性。"
+  },
+  {
+   "cn": "医学伦理问题",
+   "en": "medical ethical issue",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.218",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "涉及医学道德问题的界定、本质、规律和应然性等。"
+  },
+  {
+   "cn": "老年问题",
+   "en": "aging problem， aging issue",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.38",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "老年人由于自身老化和外界环境的影响所带来的个人问题、家庭问题和社会问题，尤其是老年人个人需求的照顾满足问题。"
+  },
+  {
+   "cn": "围绝经期健康问题",
+   "en": "health issue in perimenopause",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "妇女进入围绝经期后面临的生理、心理及社会适应等方面的疾病或不适状态。"
+  },
+  {
+   "cn": "食品安全隐患",
+   "en": "potential food safety issue",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.27",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "食品中存在的可能对人体健康造成危害的因素。常见的食品安全隐患包括食品中的有害物质、微生物污染、添加剂超标、不合格食品等。"
+  },
+  {
+   "cn": "证明出具权",
+   "en": "right to issue certificate",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.008",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医务人员在注册的执业范围内根据诊查结果，依法享有的出具与患者的出生、死亡、疾病诊断等有关医学文书的权利。医师出具医学文书必须亲自诊查、调查，应当反映患者真实的疾病及健康状况，按照规定及时填写医学文书，"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

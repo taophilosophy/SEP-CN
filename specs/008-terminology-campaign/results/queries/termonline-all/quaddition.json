@@ -1,0 +1,502 @@
+{
+ "key": "quaddition",
+ "term": "quaddition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:05:37+00:00",
+ "status": "ok",
+ "note": "variant=quaddition; 审定公布名词库=72; 海峡两岸名词对照库=42; 其他来源数据库=1; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "累加作用",
+   "en": "addition",
+   "source": "结核病学名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_药物代谢",
+   "subjectName": "药物代谢",
+   "publishYear": "2019",
+   "definition": "两种药物联合使用时，产生的效应等于或接近分别使用单药效应之和。"
+  },
+  {
+   "cn": "相加",
+   "en": "addition",
+   "source": "核医学名词",
+   "wordNumber": "03.0601",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "两组可比性数据(如两幅大小一致的灰度图像)相加，获得两者算数和的图像运算方法。"
+  },
+  {
+   "cn": "相加",
+   "en": "addition",
+   "source": "药学名词",
+   "wordNumber": "07.134",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "两种以上药物作用等于每一种化合物质单独作用的总和。"
+  },
+  {
+   "cn": "加和作用",
+   "en": "addition",
+   "source": "生态学名词",
+   "wordNumber": "14.248",
+   "subjectFullName": "生态学_污染生态学",
+   "subjectName": "污染生态学",
+   "publishYear": "2006",
+   "definition": "两种或两种以上污染物共存时的毒性是其单独存在时毒性之和的现象。"
+  },
+  {
+   "cn": "掺合料",
+   "en": "addition",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.205",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_建筑材料（水利）",
+   "subjectName": "建筑材料（水利）",
+   "publishYear": "1997",
+   "definition": "制造水泥或拌制混凝土和砂浆时，为改善性能、节省水泥、降低成本而掺加的矿物质粉状材料。"
+  },
+  {
+   "cn": "加法",
+   "en": "addition",
+   "source": "数学名词",
+   "wordNumber": "04.0009",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "1,4-加成",
+   "en": "1,4-addition",
+   "source": "化学名词",
+   "wordNumber": "02.1062",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "在单键和重键交替出现的共轭体系的1位和4位上发生的加成反应。同时在2位和3位间形成新的重键。"
+  },
+  {
+   "cn": "附加系",
+   "en": "addition line",
+   "source": "农学名词",
+   "wordNumber": "06.075",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在某品种或物种染色体组的基础上，增加一条或多条其他物种的染色体而形成的稳定遗传品系。"
+  },
+  {
+   "cn": "相加作用",
+   "en": "addition effect",
+   "source": "兽医学名词",
+   "wordNumber": "11.055",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "2种或2种以上的化学毒物的联合作用等于各个单独化学毒物作用之和。"
+  },
+  {
+   "cn": "加成聚合",
+   "en": "addition polymerization",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "1.0006",
+   "subjectFullName": "化工（七）_通类",
+   "subjectName": "通类",
+   "publishYear": "2022",
+   "definition": "具有不饱和键的单体经过自由基聚合或配位聚合等方式，彼此相互连接加合形成高分子链的聚合反应。"
+  },
+  {
+   "cn": "染色体附加",
+   "en": "chromosome addition ",
+   "source": "草学名词",
+   "wordNumber": "5.0106",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "附加系",
+   "en": "addition line",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.44",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "比正常染色体组增加了一条或多条染色体的品系。"
+  },
+  {
+   "cn": "加常数",
+   "en": "addition constant",
+   "source": "测绘学名词",
+   "wordNumber": "02.491",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "由于测距仪中光路调整的剩余误差、信号延迟等因素的影响，使仪器测得的距离值与实际距离之间存在的固定差值，但在测量时必须改正的差值常数。"
+  },
+  {
+   "cn": "相干叠加",
+   "en": "coherent addition",
+   "source": "物理学名词",
+   "wordNumber": "04.1277",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": "激光束叠加,以增加功率。"
+  },
+  {
+   "cn": "速度合成",
+   "en": "velocity addition",
+   "source": "物理学名词",
+   "wordNumber": "02.0096",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "附加单倍体",
+   "en": "addition haploid",
+   "source": "植物学名词",
+   "wordNumber": "10.0230",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "其体细胞中除了一组配子染色体外，还具有来自不同种物种的一条染色体的个体。表示为n+1。"
+  },
+  {
+   "cn": "附加系",
+   "en": "addition line",
+   "source": "植物学名词",
+   "wordNumber": "10.0078",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "一个比正常染色体组添加了一条或多条亲缘种染色体的品系。"
+  },
+  {
+   "cn": "串行加法",
+   "en": "serial addition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0209",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "两个数从最低位开始逐位相加的操作。"
+  },
+  {
+   "cn": "加成反应",
+   "en": "addition reaction",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "01.0039",
+   "subjectFullName": "化工（一）_总论_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2017",
+   "definition": "有机物不饱和键与其他原子或原子团直接作用、结合生成一种新的加成产物的反应。是一种重要的有机反应。"
+  },
+  {
+   "cn": "等瓣加成",
+   "en": "isolobal addition",
+   "source": "化学名词",
+   "wordNumber": "02.1507",
+   "subjectFullName": "化学_有机化学_金属有机化学",
+   "subjectName": "金属有机化学",
+   "publishYear": "2016",
+   "definition": "等瓣碎片之间的偶联或加合反应。例如<img src='/root/syzx/static/spz/huaxue2.02.0800.2.png'/>与<img src='/root/syzx/stati"
+  },
+  {
+   "cn": "相加",
+   "en": "addition",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "氧化加成[反应]",
+   "en": "oxidation addition\",\"oxidative addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "附加单倍体",
+   "en": "addition haploid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "附加系",
+   "en": "addition line",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加成聚合",
+   "en": "addition polymerization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "间周立构加成",
+   "en": "syndiotactic addition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "加成反应",
+   "en": "addition reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反式加成",
+   "en": "trans addition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等瓣加成",
+   "en": "isolobal addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "共轭加成",
+   "en": "conjugate addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "加[成]聚[合]",
+   "en": "addition polymerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "加[成]聚[合]物",
+   "en": "addition polymer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亲电加成",
+   "en": "electrophilic addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "双竖键加成",
+   "en": "diaxial addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "消除-加成",
+   "en": "elimination-addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "附加单倍体",
+   "en": "addition haploid",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "附加系",
+   "en": "addition line",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "加常数",
+   "en": "addition constant",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "并行加法",
+   "en": "parallel addition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "补充项，增添项",
+   "en": "addition item",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违规添加",
+   "en": "illegal addition",
+   "source": "消毒学",
+   "wordNumber": "5.2.16",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "违反相关法律法规的规定，在消毒产品中添加禁用物质或限用物质超量的行为。"
+  },
+  {
+   "cn": "非法添加",
+   "en": "illegal addition",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.19",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为提高食品的质量属性，故意在食品中添加未经批准或未进行申报成分的行为。不属于传统上认为的或不属于相关法律法规和标准允许的食品生产活动，如添加三聚氰胺提高蛋白质的检测值。"
+  },
+  {
+   "cn": "药物成瘾",
+   "en": "drug addition",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2.2",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "因长期或反复应用某种药物（物质）而产生精神或躯体上的依赖性，持续地或周期性渴望重复应用该种药物的现象。"
+  },
+  {
+   "cn": "标准加入法",
+   "en": "standard addition method",
+   "source": "消毒学",
+   "wordNumber": "6.1.9.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在未知样品中定量加入待测物的标准品，然后根据信号的增加量来进行定量分析的方法。"
+  },
+  {
+   "cn": "成瘾模型",
+   "en": "model of addition",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.8",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "解释个体成瘾的心理学、医学和经济学模型，包括不完全理性成瘾模型、短视成瘾模型、理性成瘾模型"
+  },
+  {
+   "cn": "短视成瘾模型",
+   "en": "myopic addition model",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.8.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体对于成瘾物品的性质和危害存在认知不足，进而导致消费成瘾物品，以致上瘾。"
+  },
+  {
+   "cn": "理性成瘾模型",
+   "en": "rational addition model",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.8.3",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "研究理性个体选择消费成瘾产品的模型。成瘾行为使个体感到愉快，之前对于成瘾物品的消费能够增加现在对于成瘾物品消费的边际效用，个体对于成瘾物品的消费是理性的。"
+  },
+  {
+   "cn": "药品加成",
+   "en": "drug price addition",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.096",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医院或药店向药品售价中添加额外的费用，加成费用通常涵盖了药品的成本、管理成本以及可能的利润。"
+  },
+  {
+   "cn": "不完全理性成瘾模型",
+   "en": "imperfectly rational addition model",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.8.1",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体对于成瘾物品有稳定的偏好，但在短期和长期其偏好却有较大变化，表现为两个不同的个体一样，一个希望戒除成瘾物品的消费，另外一个却非常喜爱成瘾物品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

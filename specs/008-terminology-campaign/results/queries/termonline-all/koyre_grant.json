@@ -1,0 +1,652 @@
+{
+ "key": "koyre grant",
+ "term": "Koyré Grant",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:03:38+00:00",
+ "status": "ok",
+ "note": "variant=Koyré Grant; 审定公布名词库=560; 海峡两岸名词对照库=111; 其他来源数据库=18; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "授权",
+   "en": "grant",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0224",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "为了维护数据库中数据的安全，防止缺乏权利的用户操作有关数据而对操作给出权限规定。"
+  },
+  {
+   "cn": "回授",
+   "en": "grant-back",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.198",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "被许可人将基于某专利而做出的改进或发明专利，授权给许可人。"
+  },
+  {
+   "cn": "政府拨款",
+   "en": "government's grant",
+   "source": "水利科学技术名词",
+   "wordNumber": "16.114",
+   "subjectFullName": "水利科学技术_水利经济_水利建设资金筹集",
+   "subjectName": "水利建设资金筹集",
+   "publishYear": "1997",
+   "definition": "对防洪等公益性水利工程由国家财政部门无偿拨款用作建设的资金。"
+  },
+  {
+   "cn": "赠地学院",
+   "en": "land grant college",
+   "source": "教育学名词",
+   "wordNumber": "04.169",
+   "subjectFullName": "教育学_外国教育史_近现代",
+   "subjectName": "近现代",
+   "publishYear": "2013",
+   "definition": "美国各州利用1862年和1890年两次《莫雷尔法》所获得的联邦政府捐赠土地和资助经费而设立发展起来的新型高等学校。注重实施农业、工艺军事教育以培养各类实用技术人才。"
+  },
+  {
+   "cn": "直接拨款学校",
+   "en": "grant-maintained school",
+   "source": "教育学名词",
+   "wordNumber": "05.088",
+   "subjectFullName": "教育学_比较教育_英国教育",
+   "subjectName": "英国教育",
+   "publishYear": "2013",
+   "definition": "英国直接从中央教育机构接受办学经费的学校。任何郡办或民办学校都可以申请成为直接拨款学校，直接接受教育大臣从中央下拨的办学经费，独立经办学校，独立承担学校在招生、处置学校所有的合法财产、签订教职员雇用合"
+  },
+  {
+   "cn": "基本教育机会助学金",
+   "en": "basic educational opportunity grant",
+   "source": "教育学名词",
+   "wordNumber": "05.051",
+   "subjectFullName": "教育学_比较教育_美国教育",
+   "subjectName": "美国教育",
+   "publishYear": "2013",
+   "definition": "美国联邦政府根据1972年通过的《高等教育法修正案》于1973年开始向大学本科生提供的助学金。颁发的依据是学生的家庭经济状况而非学习成绩。为美国历史上第一次向所有经济困难的大学生提供助学金。1980年"
+  },
+  {
+   "cn": "想当然的世界",
+   "en": "taken-for-granted world",
+   "source": "地理学名词",
+   "wordNumber": "24.032",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "以自身日常经验为基准的世界观。"
+  },
+  {
+   "cn": "投下",
+   "en": "tou xia;land grants;appanages",
+   "source": "中国古代史名词",
+   "wordNumber": "7.256",
+   "subjectFullName": "中国古代史_辽金元_社会经济_身份户丁",
+   "subjectName": "身份户丁",
+   "publishYear": "2022",
+   "definition": "契丹、蒙古宗王、驸马、勋臣所属人户。又称“投项” “头下”，蒙古语称“爱马”。多由征战俘掠而来，世代隶属本主，平时纳赋服役，战时随主出征。"
+  },
+  {
+   "cn": "诏授",
+   "en": "zhao shou;title granted by edict",
+   "source": "中国古代史名词",
+   "wordNumber": "4.173",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "皇帝专门下诏除授官职。又称“制授”，始于汉代，魏晋以来范围扩大，规格低于策授，高于敕授，至唐适用于三品以下、五品以上官员的任命，部分五品以下要职如监察御史的任命亦用之。"
+  },
+  {
+   "cn": "白版官",
+   "en": "bai ban guan;the official title granted by means of a white plank",
+   "source": "中国古代史名词",
+   "wordNumber": "4.175",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "权宜任命而非皇帝诏、敕所授的官职。又称“白板官”，秦汉以来重要官员皆由皇帝诏敕任命，因特定需要以板书任命者，即称“版授”，由此为官者多无印信，权摄其事，及于封号，有“白板郡县”“白版侯”等。魏晋以来仍"
+  },
+  {
+   "cn": "不更",
+   "en": "bu geng;a rank that grants the holder the exemption from night watch service",
+   "source": "中国古代史名词",
+   "wordNumber": "2.178",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "春秋至汉的一种低级官爵。因可不服更卒之役得名，春秋秦国为车右之职，后为20等军功爵的第4级。"
+  },
+  {
+   "cn": "移植物",
+   "en": "graft",
+   "source": "血液学名词",
+   "wordNumber": "10.015",
+   "subjectFullName": "血液学_特殊治疗_造血干细胞移植相关",
+   "subjectName": "造血干细胞移植相关",
+   "publishYear": "2022",
+   "definition": "造血干细胞移植时注入患者体内的正常供者或自体造血细胞。可来自骨髓、动员后采集的外周血或脐带血。"
+  },
+  {
+   "cn": "移植物",
+   "en": "graft",
+   "source": "器官移植学名词",
+   "wordNumber": "01.017",
+   "subjectFullName": "器官移植学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "被移植的细胞、组织或器官的总称。"
+  },
+  {
+   "cn": "移植物",
+   "en": "graft",
+   "source": "烧伤学名词",
+   "wordNumber": "05.029",
+   "subjectFullName": "烧伤学_烧伤创面修复_自体皮肤及其他组织移植",
+   "subjectName": "自体皮肤及其他组织移植",
+   "publishYear": "2019",
+   "definition": "用手术方法切取，用来修复组织缺损、难愈合创伤或恢复组织结构和功能的组织或器官。可以来源于同体或异体相同或相近的组织和/或器官，分为自体移植和异体移植。"
+  },
+  {
+   "cn": "移植物",
+   "en": "graft",
+   "source": "材料科学技术名词",
+   "wordNumber": "08.0023",
+   "subjectFullName": "材料科学技术_生物材料_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "从供体移植到受体的活体组织或活体细胞群。如取自供体的一片皮肤、一块骨、一段血管等，可用于重建受体某一部位。"
+  },
+  {
+   "cn": "移植物",
+   "en": "graft",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0159",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "移植片",
+   "en": "graft",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0160",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "曾祖代",
+   "en": "grand-grand parents,GGP",
+   "source": "畜牧学名词",
+   "wordNumber": "04.565",
+   "subjectFullName": "畜牧学_遗传育种_品系繁育",
+   "subjectName": "品系繁育",
+   "publishYear": "2020",
+   "definition": "通常指杂交体系中终端个体的曾祖代亲本。"
+  },
+  {
+   "cn": "巨大皱襞",
+   "en": "giant folds,giant ruga",
+   "source": "医学名词 第四分册",
+   "wordNumber": "04.111",
+   "subjectFullName": "医学_消化内镜学",
+   "subjectName": "消化内镜学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "亮巨星",
+   "en": "bright giant; luminous giant",
+   "source": "天文学名词",
+   "wordNumber": "08.178",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "光谱分类中具有次高光度级的恒星，其光度级用罗马数字Ⅱ表示。"
+  },
+  {
+   "cn": "授权",
+   "en": "grant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "附条件财政补助金",
+   "en": "conditional grant",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资补助金",
+   "en": "investment grant",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "专利许可",
+   "en": "patent grant",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "约翰内森",
+   "en": "Johannesen\",\"Grant(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "给予特许权",
+   "en": "grant of franchise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "授信",
+   "en": "grant of credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "视为当然之世界",
+   "en": "world taken for granted",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "想当然的世界",
+   "en": "taken-for-granted world",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "芳香化浊",
+   "en": "eliminating wetness-evil with drugs of fra-grant flavour",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "移植物",
+   "en": "graft",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "石榴号[高能天文卫星]",
+   "en": "Granat",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "兰特舞曲",
+   "en": "rant",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "亮巨星",
+   "en": "bright giant，luminous giant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "巨细胞",
+   "en": "giant cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "接枝共聚物",
+   "en": "graft copolymer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "接枝聚合物",
+   "en": "graft polymer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "接枝聚合",
+   "en": "graft polymerization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "大联音栓",
+   "en": "grand choeur",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "颅骨修复体",
+   "en": "cranial graft",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "明确权限授予",
+   "en": "explicit permission grant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "允许再次试举",
+   "en": "grant another attempt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大回环",
+   "en": "giant circle\",\"giant swing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全垒打",
+   "en": "grand slam\",\"grand slammer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛马大奖赛",
+   "en": "Grand Prix",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "洪范",
+   "en": "The Grand Rules",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大收煞",
+   "en": "The Grand Finale",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际箭联淘汰赛",
+   "en": "grand FITA round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "捷克式大回环",
+   "en": "Czech giant swing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "俄式大回环",
+   "en": "Russian giant swing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斯考曼大回环",
+   "en": "Skoumal giant swing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛马特别大奖赛",
+   "en": "Grand Prix Special",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大乐与天地同和",
+   "en": "Grand Music Reflects Harmony Between Heaven and Earth.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“一笔过”拨款",
+   "en": "lump sum grant",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.28",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "香港地区政府在二十世纪末所采取的对社会服务机构的一种资助做法，即根据服务机构的服务预算，按一定标准将所需经费一次性拨付给服务机构的资助方式。它不同于此前按照服务机构人员等级标准分别核算经费或实报实销的"
+  },
+  {
+   "cn": "移植物排斥反应",
+   "en": "graft rejection",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.6.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_移植免疫",
+   "subjectName": "移植免疫",
+   "publishYear": "2025",
+   "definition": "受者免疫系统对同种异体、异种组织和器官移植物所产生的特异性免疫应答，导致移植物发生炎症、损伤和损毁的现象。"
+  },
+  {
+   "cn": "皮肤移植",
+   "en": "skin graft",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.038",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过游离植皮或皮瓣移植修复皮肤的外科技术。游离植皮是切取部分皮肤或全层皮肤，从身体的供皮区分离，移植到身体另一处受皮区，重新建立血液循环并继续保持活力以达到整形修复的目的。皮瓣移植是将由皮肤和皮下组织"
+  },
+  {
+   "cn": "巨细胞动脉炎",
+   "en": "giant cell arteritis，GCA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.2.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种原因不明以侵犯大动脉为主并以血管内层弹性蛋白为中心的坏死性动脉炎，伴肉芽肿形成，可导致组织缺血。病变呈节段性、多灶性或广泛性损害。典型的临床表现为颞部头痛、间歇性下颌运动障碍和失明三联征。"
+  },
+  {
+   "cn": "移植物抗宿主病",
+   "en": "graft-versus-host disease, GVHD",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.1.11",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "在异基因造血干细胞移植物植入后，来自不相合供者的免疫细胞对宿主细胞产生免疫反应，引起宿主组织脏器损伤所导致的疾病。"
+  },
+  {
+   "cn": "移植物抗宿主反应",
+   "en": "graft versus host reaction, GVHR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.6.2",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_移植免疫",
+   "subjectName": "移植免疫",
+   "publishYear": "2025",
+   "definition": "移植物中的免疫细胞对宿主的组织抗原产生免疫应答并引起组织损伤的反应。其发生需要一些特定的条件：①宿主与移植物之间的组织相容性不合；②移植物中必须含有足够数量的免疫细胞；③宿主处于免疫无能或免疫功能严重"
+  },
+  {
+   "cn": "移植物抗宿主病",
+   "en": "graft-versus-host disease GVHD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.29",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "异基因造血干细胞移植后出现的多系统损害（皮肤、食管、胃肠、肝脏等）的全身性疾病。由于供受体之间存在着免疫遗传学差异，移植骨髓中的免疫活性细胞识别了受体的不同组织相容性抗原而增生分化，在受体内增生到一定"
+  },
+  {
+   "cn": "驻藏大臣",
+   "en": "Grang Minister Resident of Tibet",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0234",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "全称“钦差驻藏办事大臣”。又称“钦命总理西藏事务大臣”。清廷派驻西藏地方之最高行政长官。雍正五年（1727）始置。"
+  },
+  {
+   "cn": "急性移植物抗宿主病",
+   "en": "acute graft-versus-host disease aGVHD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.30",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "造血干细胞移植术后100天内，由于移植物抗宿主反应而引起的免疫性疾病。主要累及皮肤、胃肠道及肝脏，少数情况下也可累及其他脏器。皮肤是最常受累的器官，胃肠道受累主要表现为顽固性腹泻，伴厌食、恶心、呕吐等"
+  },
+  {
+   "cn": "慢性移植物抗宿主病",
+   "en": "chronic graft-versus-host disease cGVHD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.31",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "造血干细胞移植术100天后，由于移植物抗宿主反应而引起的慢性免疫性疾病，是最严重、最常见的异基因造血干细胞移植术后的远期并发症。其特征类似于自身免疫及其他免疫疾病的症状，如硬皮病、干燥综合征、原发性胆"
+  },
+  {
+   "cn": "腱鞘巨细胞瘤",
+   "en": "giant cell tumor of tendon sheath,GCTS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.2.15",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_皮肤、软组织疾病",
+   "subjectName": "皮肤、软组织疾病",
+   "publishYear": "2025",
+   "definition": "一种起源于关节、滑囊和腱鞘滑膜的肿瘤,多见于青年人，女多于男。表现为手部坚实性无痛性椭圆形结节，肿块可侵袭邻近骨骼，足趾部少见。病理呈分叶状，小叶由致密、透明化胶原围绕。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

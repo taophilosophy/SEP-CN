@@ -1,0 +1,752 @@
+{
+ "key": "recombination fraction",
+ "term": "recombination fraction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:28:12+00:00",
+ "status": "ok",
+ "note": "variant=recombination fraction; 审定公布名词库=4827; 海峡两岸名词对照库=1456; 其他来源数据库=173; 预公布名词数据库=168; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "重组率",
+   "en": "recombination fraction",
+   "source": "畜牧学名词",
+   "wordNumber": "04.437",
+   "subjectFullName": "畜牧学_遗传育种_分子数量遗传学",
+   "subjectName": "分子数量遗传学",
+   "publishYear": "2020",
+   "definition": "两个基因座之间发生重组的概率，在亲本产生的由2个基因座的等位基因构成的单倍型中，重组型单倍型所占的比例。"
+  },
+  {
+   "cn": "重组率",
+   "en": "recombination fraction",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.607",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "农学名词",
+   "wordNumber": "15.240",
+   "subjectFullName": "农业生物技术_微生物组工程",
+   "subjectName": "微生物组工程",
+   "publishYear": "2025",
+   "definition": "由于基因的自由组合或交换产生新的基因组合的过程。"
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0665",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "（1）通过基因工程手段对核酸序列进行的重新组合或改造。（2）在细胞减数分裂过程中，染色体交换导致配子中的基因组合与亲本基因连锁相不同的现象。"
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "畜牧学名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "在减数分裂过程中，染色体交换导致配子中的基因组合与亲本基因连锁相不同的现象。"
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "植物学名词",
+   "wordNumber": "10.0121",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "(1)生命活动中各种事件(包括染色体分离、交换、易位、接合、基因交换、转化、转导等)导致的基因排布或核酸序列的重新组合及改变。(2)基因工程中用人工手段对核酸序列的重新组合或改造。"
+  },
+  {
+   "cn": "复合",
+   "en": "recombination",
+   "source": "物理学名词",
+   "wordNumber": "10.0067",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "药学名词",
+   "wordNumber": "05.350",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "产生出部分基因来自一个亲本、部分基因来自遗传性不同的另一个亲本的后代的现象。重组后代的基因组合不同于双亲中的任何一个。高等生物可以用自由结合或者交换的方法进行重组。低等生物可以用转化、接合或者转导的方"
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "微生物学名词",
+   "wordNumber": "06.030",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "通过基因的转化、接合转移、转导或基因工程手段产生新的基因组合的过程。"
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "遗传学名词",
+   "wordNumber": "02.164",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "由于基因的自由组合或交换产生新的基因组合的过程。"
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.124",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "化学工程名词",
+   "wordNumber": "06.054",
+   "subjectFullName": "化学工程_生物化学工程_生物化学工程",
+   "subjectName": "生物化学工程",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "复合",
+   "en": "recombination",
+   "source": "电子学名词",
+   "wordNumber": "13.085",
+   "subjectFullName": "电子学_半导体物理与半导体材料",
+   "subjectName": "半导体物理与半导体材料",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "重组工程",
+   "en": "recombineering",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0957",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "基于核酸同源重组原理而设计改变生物基因组的一种生物技术。能用于基因敲除、定位的基因转移或基因敲入等。"
+  },
+  {
+   "cn": "重组体",
+   "en": "recombinant",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0093",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因及其功能_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "通过重组作用产生的不同基因型的子代。"
+  },
+  {
+   "cn": "重组体",
+   "en": "recombinant",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.302",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "与亲代有不同基因型的子代。即通过重组作用所产生的、具有与双亲中任一方都不同的基因型的子代。"
+  },
+  {
+   "cn": "重组体",
+   "en": "recombinant",
+   "source": "药学名词",
+   "wordNumber": "04.199",
+   "subjectFullName": "药学_微生物药学",
+   "subjectName": "微生物药学",
+   "publishYear": "2014",
+   "definition": "经脱氧核糖核酸(DNA)重组技术(基因工程技术)产生的新细胞或新个体。"
+  },
+  {
+   "cn": "重组体",
+   "en": "recombinant",
+   "source": "微生物学名词",
+   "wordNumber": "06.031",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "通过重组方式所产生的与双亲中任一方都不同的基因型的子代。"
+  },
+  {
+   "cn": "重组体",
+   "en": "recombinant",
+   "source": "遗传学名词",
+   "wordNumber": "03.554",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "不同来源的DNA组合成的分子。"
+  },
+  {
+   "cn": "重组体",
+   "en": "recombinant",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.300",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "重组片段",
+   "en": "recombination fraction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复合",
+   "en": "recombination",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复合",
+   "en": "recombination",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重组",
+   "en": "recombination",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "重组体",
+   "en": "recombinant",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重组工程",
+   "en": "recombineering",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重组体",
+   "en": "recombinant",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重组体",
+   "en": "recombinant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "重组值（=重组[频]率）",
+   "en": "recombination value (=recombination frequency)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重组[频]率",
+   "en": "recombination frequency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因重组",
+   "en": "gene recombination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因间重组",
+   "en": "intergenic recombination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复合中心",
+   "en": "recombination center",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "辐射复合",
+   "en": "radiative recombination",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分段赛",
+   "en": "fractional lap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组合拳",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配合",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重组修复",
+   "en": "recombination repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "必须通过DNA复制过程中两条DNA链的重组交换来完成的DNA修复过程。"
+  },
+  {
+   "cn": "同源重组",
+   "en": "homologous recombination",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "发生在姐妹染色单体之间或同一染色体上含有同源序列的DNA分子之间或分子之内的互相交换和重组。参加重组的两段双链DNA在相当长的范围内顺序相同（≥200bp），这样能保证重组后生成的新区段顺序正确。"
+  },
+  {
+   "cn": "复合损失",
+   "en": "recombination loss",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "电离室中由于电离辐射作用而产生的正负离子重新结合成原子或分子而损失的电荷量。"
+  },
+  {
+   "cn": "重组疫苗",
+   "en": "recombined vaccine",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.4.8",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫预防",
+   "subjectName": "免疫预防",
+   "publishYear": "2025",
+   "definition": "借助基因重组技术而制备的疫苗。"
+  },
+  {
+   "cn": "复合醇类消毒剂",
+   "en": "recombination alcohol-based disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.7.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "两种及两种以上醇复配而成，复合醇的总含量一般不低于60%（v/v）或50%（w/w）的消毒剂。"
+  },
+  {
+   "cn": "存活分数",
+   "en": "survival fraction",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "某一剂量照射后存活的细胞数占未照射时细胞数的份额。"
+  },
+  {
+   "cn": "吸收分数",
+   "en": "absorbed fraction",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.6.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_放射毒理学",
+   "subjectName": "放射毒理学",
+   "publishYear": "2025",
+   "definition": "在某一源部位内某种辐射类型发射的能量被特定靶组织吸收的分数。"
+  },
+  {
+   "cn": "滞留份额",
+   "en": "retention fraction",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.36",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素在组织或器官内滞留量占了该放射性核素初始进入量的份额。"
+  },
+  {
+   "cn": "排除份额",
+   "en": "excretion fraction",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.44",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便等排泄途径的排出量占初始进入量的比例。"
+  },
+  {
+   "cn": "同位素分馏",
+   "en": "isotope fractionation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.61",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "由物理、化学以及生物作用所造成的某一元素同位素在两种物质或两种物相间分配上的差异现象。利用葡萄与水中C、H、O 同位素差异可判断葡萄酒是否加水和不同海拨和经纬度下葡萄同位素差异数据库进行葡萄酒原产地溯"
+  },
+  {
+   "cn": "最高纲领派",
+   "en": "maximalist program fraction",
+   "source": "马克思主义",
+   "wordNumber": "04.0352",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1904年在俄国社会革命党内部形成的一个小资产阶级半无政府主义的恐怖集团。最高纲领派无视资产阶级民主革命这一阶段，坚持立即实行社会革命党的最高纲领，即在实行土地社会化的同时实行工厂社会化；认为劳动农民"
+  },
+  {
+   "cn": "人群归因分数",
+   "en": "population attributable fraction",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.17",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "人群中因特定暴露而导致特定疾病或其他不良状况的所有病例的比例。"
+  },
+  {
+   "cn": "归因分值",
+   "en": "source attribution fraction",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "某危险因素或某来源导致特定疾病的负担占该疾病总负担的比例。"
+  },
+  {
+   "cn": "比吸收分数",
+   "en": "specific absorbed fraction ，SAF",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.22",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "源部位内特定辐射类型发射的能量被1kg靶组织吸收的能量份额。"
+  },
+  {
+   "cn": "有效成分体积分数",
+   "en": "volume fraction of active ingredient",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "液体消毒剂有效成分的体积与全部溶液体积之比，单位以百分数（％）表示。"
+  },
+  {
+   "cn": "暴露组归因分数",
+   "en": "attributable fraction in exposed group，AFE",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.11",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组超额危险可归因于某一危险因素暴露的百分数，是衡量危险因素潜在影响的指标之一。"
+  },
+  {
+   "cn": "胃肠道吸收分数",
+   "en": "fractional absorption in the gastrointestinal tract，f1",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "核素经胃肠道吸收入血液部分占摄入总量的比例，用于国际放射防护委员会出版物30（ICRP，1979年）的胃肠道模型。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

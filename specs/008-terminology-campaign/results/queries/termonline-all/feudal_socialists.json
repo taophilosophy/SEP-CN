@@ -1,0 +1,782 @@
+{
+ "key": "feudal socialists",
+ "term": "feudal socialists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:41:59+00:00",
+ "status": "ok",
+ "note": "variant=feudal socialists; 审定公布名词库=563; 海峡两岸名词对照库=170; 其他来源数据库=69; 预公布名词数据库=185; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "封建社会主义",
+   "en": "Feudal Socialism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0063",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "19世纪上半叶，打着社会主义的幌子反对资产阶级，实际上代表欧洲没落封建贵族利益的社会反动思潮。"
+  },
+  {
+   "cn": "封建社会",
+   "en": "feudal society",
+   "source": "世界历史名词",
+   "wordNumber": "01.0016",
+   "subjectFullName": "世界历史_综合_总论、社会经济形态",
+   "subjectName": "总论、社会经济形态",
+   "publishYear": "2012",
+   "definition": "奴隶占有制社会瓦解后人类进入的一个新的社会经济形态。封建土地所有制是封建社会的基础，以封建主占有大部分土地享有地租剥削为主要标志，作为直接生产者的农民被迫人身依附封建主。"
+  },
+  {
+   "cn": "封建等级制度",
+   "en": "Feudal Hierarchy",
+   "source": "世界历史名词",
+   "wordNumber": "02.0517",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "通过行臣服礼和封采邑等手段，两个自由人之间结成领主附属关系，在上的称封君，在下的称封臣，后者可能又成为另一个人的封君，由此形成欧洲特点的等级制度。"
+  },
+  {
+   "cn": "军事封建帝国主义",
+   "en": "military-feudal imperialism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0662",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "第一次世界大战前，具有浓厚封建制残余与军事扩张政策相结合特征的帝国主义，德国、俄国和日本最为典型。"
+  },
+  {
+   "cn": "李嘉图社会主义者",
+   "en": "Ricardian socialists",
+   "source": "经济学名词",
+   "wordNumber": "14.091",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "19世纪20年代至40年代出现的一批以李嘉图的劳动价值论为依据，批评资本主义，主张社会主义的经济学家。主要代表人物有霍吉斯金（Thomas Hodgskin）、格雷(John Gray)等。该学派的主"
+  },
+  {
+   "cn": "社会主义再生产",
+   "en": "socialist reproduction",
+   "source": "经济学名词",
+   "wordNumber": "02.142",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "社会主义社会不断重复和更新的生产过程。包括生产、分配、交换、消费四个环节。按其规模可分为简单再生产和扩大再生产，其特征是扩大再生产。从内容上看，是物质资料再生产、劳动力再生产和社会主义生产关系再生产的"
+  },
+  {
+   "cn": "“社会主义”经济学",
+   "en": "“Socialist” economics",
+   "source": "经济学名词",
+   "wordNumber": "14.068",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "起源于19世纪后期的西方福利经济学中关于社会主义经济的一般论述。主要代表人物有谢费尔（A.Shaffle）、卡塞尔(G.Cassel)、帕累托、熊彼特、勒纳等。早期的“社会主义”经济学主要探讨社会主义"
+  },
+  {
+   "cn": "社会党国际",
+   "en": "Socialist International",
+   "source": "世界历史名词",
+   "wordNumber": "01.0131",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "1951年6月法兰克福国际社会党第一次代表大会上，与会各国社会党、社会民主党和工党宣布成立的国际联合组织。自称是第一国际、第二国际和社会主义工人国际的继承者。"
+  },
+  {
+   "cn": "社会主义现实主义",
+   "en": "Socialist Realism",
+   "source": "世界历史名词",
+   "wordNumber": "05.0437",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "20世纪苏联文学和艺术重要流派，从1932年起得到苏联官方支持，成为唯一的创作方法。"
+  },
+  {
+   "cn": "社会主义社会",
+   "en": "socialist society",
+   "source": "世界历史名词",
+   "wordNumber": "01.0018",
+   "subjectFullName": "世界历史_综合_总论、社会经济形态",
+   "subjectName": "总论、社会经济形态",
+   "publishYear": "2012",
+   "definition": "资本主义社会瓦解后人类进入的一个崭新的社会经济形态。广义上理解，它与共产主义社会同一个含义，但由于它的特殊性和长期性，它又是共产主义社会的初级阶段。在这个阶段，社会生产力得到极大发展，生产资料公有制占"
+  },
+  {
+   "cn": "封建",
+   "en": "feng jian;feudal system",
+   "source": "中国古代史名词",
+   "wordNumber": "2.138",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "天子分封子弟宗亲、异姓贵族的制度。商朝有之，周初以来盛行，天子及诸侯皆封赐领地、采邑予各等贵族，使其各领有其土其民，按其等级承担相应的权利义务，以为藩屏，其制至春秋战国瓦解。秦汉确立郡县制后，某些时期"
+  },
+  {
+   "cn": "俄国封建战争",
+   "en": "Feudal War in Muscovy",
+   "source": "世界历史名词",
+   "wordNumber": "02.0770",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "1425-1453年，瓦西里二世与其他王公争夺莫斯科大公国的战争。瓦西里二世获胜，巩固了莫斯科大公国的内部统一，加强了他在统一东北罗斯中的主导作用。"
+  },
+  {
+   "cn": "社会主义新农村",
+   "en": "new socialist countryside",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.212",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "按照生产发展、生活宽裕、乡村文明、村容整洁、管理民主等方针进行综合建设的村庄。"
+  },
+  {
+   "cn": "社会主义经济制度",
+   "en": "socialist economic institution",
+   "source": "经济学名词",
+   "wordNumber": "02.107",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "社会主义经济关系的总和。它以公有制为基础，劳动者成为生产要素的主人，实行按劳分配，消灭剥削、消除两极分化，最终实现共同富裕。"
+  },
+  {
+   "cn": "社会主义公有制",
+   "en": "socialist public ownership",
+   "source": "经济学名词",
+   "wordNumber": "02.108",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "生产资料属于全体人民或劳动者集体所有的形式。无产阶级夺取政权后，通过社会主义国有化、社会主义改造和社会主义建设而产生和发展起来。有社会主义全民所有制、社会主义集体所有制和混合所有制等形式。是社会主义经"
+  },
+  {
+   "cn": "社会主义市场经济",
+   "en": "socialist market economy",
+   "source": "经济学名词",
+   "wordNumber": "02.139",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "把市场经济与社会主义制度相结合的，不仅具有市场经济的一般规定和特征，同时又与社会主义基本制度相结合的市场经济。社会主义市场经济是在积极有效的国家宏观调控下，市场对资源配置起决定性作用，能够实现效率与公"
+  },
+  {
+   "cn": "社会主义商品流通",
+   "en": "socialist commodity circulation",
+   "source": "经济学名词",
+   "wordNumber": "02.140",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "在社会主义商品经济活动过程中，以货币为媒介的商品交换, 是社会主义再生产过程的重要环节。对于加强各部门的联系，促进生产的发展等方面都起着十分重要的作用。可区分为生产资料流通和生活资料流通。与现阶段存在"
+  },
+  {
+   "cn": "社会主义国民收入",
+   "en": "socialist national income",
+   "source": "经济学名词",
+   "wordNumber": "02.141",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "社会主义国家物质生产部门的劳动者在一定时期内（通常为一年）新创造出来的价值。其实物形式是社会总产品中扣除用于补偿已经消耗掉的那部分生产资料后的剩余部分。主要由物质生产部门的劳动者创造。其增长取决于多种"
+  },
+  {
+   "cn": "比利时社会党",
+   "en": "Belgian Socialist Party",
+   "source": "世界历史名词",
+   "wordNumber": "03.0746",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_荷兰、比利时、卢森堡",
+   "subjectName": "荷兰、比利时、卢森堡",
+   "publishYear": "2012",
+   "definition": "1885年4月成立的比利时工人政党。"
+  },
+  {
+   "cn": "社会主义工人国际",
+   "en": "Socialist Workers International",
+   "source": "世界历史名词",
+   "wordNumber": "01.0129",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "1923年5月，第二半国际与伯尔尼国际在德国汉堡召开合并大会，宣布建立的国际组织。"
+  },
+  {
+   "cn": "封建主义",
+   "en": "feudalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "国家社会主义",
+   "en": "national-socialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "细胞社会性",
+   "en": "cell sociality",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "尾侧[的]",
+   "en": "caudal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经管",
+   "en": "neural tube\",\"neural canal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经嵴",
+   "en": "neural crest\",\"neural ridge",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural net\",\"neural network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经褶",
+   "en": "neural fold\",\"neural ridge",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "臀足",
+   "en": "caudal leg\",\"caudal proleg",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "踏板",
+   "en": "pedal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "弱音踏板",
+   "en": "left pedal\",\"soft pedal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "左踏板",
+   "en": "left pedal\",\"soft pedal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "中踏板",
+   "en": "sostenuto pedal\",\"sustaining pedal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择延音踏板",
+   "en": "sostenuto pedal\",\"sustaining pedal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "神经板",
+   "en": "neural plate",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经沟",
+   "en": "neural groove",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经回路",
+   "en": "neural circuit",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经棘",
+   "en": "neural spine",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "封建",
+   "en": "Feudal System / Feudalism",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息封建主义",
+   "en": "information feudalism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宗法",
+   "en": "Feudal Clan System",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会主义协商民主",
+   "en": "the socialist consultative democracy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社会主义市场经济体制",
+   "en": "the socialist market economy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "坚持社会主义核心价值体系",
+   "en": "upholding the core socialist values",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社会主义核心价值体系",
+   "en": "the system of core socialist values",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社会主义生态文明观",
+   "en": "the socialist approach to ecological civilization",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社会主义法治国家",
+   "en": "socialist rule of law country;\nsocialist country built on the rule of law",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "社会主义法治体系",
+   "en": "the system of socialist rule of law",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全面建设社会主义现代化强国",
+   "en": "building a great modem socialist country in all respects",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加快完善社会主义市场经济体制",
+   "en": "speeding up the improvement of the socialist market economy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色社会主义政治发展道路",
+   "en": "the socialist path of making political advance with Chinese characteristics",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "脚蹬",
+   "en": "pedal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蹬车",
+   "en": "pedal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奖牌",
+   "en": "medal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蹬车",
+   "en": "pedal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分封制度",
+   "en": "feudalism",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.12",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "封建君主对其臣下和附庸授民授疆土的封邑及臣属制度。周代时建立，天子是所有人民和土地的主人，他将王畿之外的土地分封给同姓及异姓诸侯，由他们各自治理其封地。天子有时会直接任命诸侯的卿大夫，辅助并监察他们的"
+  },
+  {
+   "cn": "封建主义",
+   "en": "feudalism",
+   "source": "马克思主义",
+   "wordNumber": "03.0057",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以生产资料的封建地主所有制为基础建立起来的经济政治组织架构。在欧洲，从9世纪到大约15世纪左右，国王和贵族以封地采邑的形式占有全部土地，并以此形成领主与封臣的隶属和赋税关系。各封建领主在封地内雇佣农奴"
+  },
+  {
+   "cn": "封建的社会主义",
+   "en": "feudal socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0300",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "法国和英国的封建贵族抨击现代资产阶级社会的思潮，是马克思、恩格斯在《共产党宣言》中批判的一种反动的社会主义思潮。"
+  },
+  {
+   "cn": "封建社会",
+   "en": "feudal society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "狭义指经济上以农奴制或领主制为基础的（即以农奴主或领主占有土地和部分占有农奴人身并以此剥削农奴剩余劳动为基础的）、社会政治上以等级分封为特征的社会；广义指以（包括农奴主或领主在内的）所有类型的封建地主"
+  },
+  {
+   "cn": "封建社会",
+   "en": "feudal society",
+   "source": "马克思主义",
+   "wordNumber": "03.0056",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类社会形态演进中的一种制度，是阶级社会的一个历史阶段。封建社会生产资料的所有制形态是地主所有制，政治统治形式主要是封建君主专制制度，由此产生了主要的统治阶级（地主阶级）和被统治阶级（农民阶级）的阶级"
+  },
+  {
+   "cn": "封建社会",
+   "en": "feudal society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0342",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "封建制生产方式占统治地位的社会，继奴隶社会之后人类社会发展中所经历的第二个人剥削人的社会。它一般是在奴隶社会瓦解过程中形成的，也有的是在村社或氏族公社瓦解的基础上形成的。"
+  },
+  {
+   "cn": "社会主义社会",
+   "en": "socialist society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "以生产资料社会主义公有制为基础的、实行按劳分配原则的社会形态。共产主义社会初级阶段的社会组织形式。"
+  },
+  {
+   "cn": "社会主义所有制",
+   "en": "socialist ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0312",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "生产资料属于全体人民或部分劳动者集体所有的形式。社会主义全民所有制采取社会主义国家所有制的形式。社会主义公有制是社会主义经济制度的基础，它决定劳动者在生产中的互助合作关系和按劳分配关系，是社会主义社会"
+  },
+  {
+   "cn": "社会主义再生产",
+   "en": "socialist reproduction",
+   "source": "马克思主义",
+   "wordNumber": "02.0321",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "社会主义条件下社会生产不断重复，不断更新的过程，是物质资料的再生产、劳动力的再生产和生产关系的再生产的统一，包括生产（直接生产过程）、分配、交换、消费四个环节。"
+  },
+  {
+   "cn": "社会主义工业化",
+   "en": "socialist industrialization",
+   "source": "马克思主义",
+   "wordNumber": "02.0332",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "关于社会主义国家由农业国发展为工业国的趋势和运动。苏联于1925—1937年开展的变落后的农业国为先进的社会主义工业国的运动。"
+  },
+  {
+   "cn": "社会主义积累",
+   "en": "socialist accumulation",
+   "source": "马克思主义",
+   "wordNumber": "02.0333",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在社会主义制度下，有计划地将国民收入的一部分用于扩大再生产。社会主义积累包括价值形态和实物形态的积累，其源泉是劳动者创造的剩余产品及其价值。"
+  },
+  {
+   "cn": "社会主义改造",
+   "en": "socialist transformation",
+   "source": "马克思主义",
+   "wordNumber": "02.0335",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1953年至1956年中国共产党领导的在全国范围内变生产资料私有制为社会主义公有制的社会主义革命。包括农业社会主义改造、手工业社会主义改造和资本主义工商业社会主义改造。社会主义改造的完成标志社会着主义"
+  },
+  {
+   "cn": "社会主义社会",
+   "en": "socialist society",
+   "source": "马克思主义",
+   "wordNumber": "03.0286",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "马克思在《哥达纲领批判》中，根据发展成熟程度的不同，把共产主义社会划分为第一阶段和高级阶段。列宁在《国际与革命》一书中在说明马克思关于共产主义社会分为两个阶段的思想时，将第一阶段称为“社会主义”它是无"
+  },
+  {
+   "cn": "社会主义建设",
+   "en": "socialist construction",
+   "source": "马克思主义",
+   "wordNumber": "03.0288",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "比较落后国家的无产阶级掌握政权之后，领导人民建设社会主义新型制度和发展生产力的实践。社会主义建设包括社会主义经济、政治和思想文化建设，有时也专指经济建设。列宁在《怎样组织竞赛》一文中，第一次使用“社会"
+  },
+  {
+   "cn": "社会主义竞赛",
+   "en": "socialist competition",
+   "source": "马克思主义",
+   "wordNumber": "03.0289",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "社会主义国家的群众运动。通过激发工人的理想信念和情操、社会荣誉感、职业自豪感、爱国主义、赶超资本主义国家愿望等精神动力，运用奖状、工厂奖旗、光荣榜、各种称号、奖章和勋章等奖励，激励工人更好地劳动。社会"
+  },
+  {
+   "cn": "社会主义国家",
+   "en": "socialist country",
+   "source": "马克思主义",
+   "wordNumber": "03.0316",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级通过暴力革命，打碎资产阶级国家机器后建立起来的无产阶级专政国家。是以工人阶级为领导、以工农联盟为基础的新型民主和新型专政国家。它与剥削阶级国家的性质根本不同，人民是国家的主人，是按照民主集中制"
+  },
+  {
+   "cn": "社会主义阵营",
+   "en": "socialist camp",
+   "source": "马克思主义",
+   "wordNumber": "03.0319",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第二次世界大战后，欧亚各社会主义国家结成的统一的阵线和营垒，同帝国主义阵营相对峙。60年代初，国际上出现大动荡、大分化、大改组，中苏关系破裂，60年代中期，统一的社会主义阵营不复存在。"
+  },
+  {
+   "cn": "社会主义民主",
+   "en": "socialist democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0590",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义国家最广大人民群众的民主，包括对人民民主和对敌人专政两方面，是人类历史上最新、最广泛和最高类型的民主。社会主义民主必须同法制相结合。建设高度的社会主义民主是社会主义建设的根本目标之一。"
+  },
+  {
+   "cn": "社会主义现代化",
+   "en": "socialist modernization",
+   "source": "马克思主义",
+   "wordNumber": "03.0594",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "集中力量进行社会主义现代化建设是宪法规定的国家根本任务。中国共产党领导全国各族人民，在中国特色社会主义理论指引下，发展社会主义市场经济，发展社会主义民主，健全社会主义法制，自力更生，艰苦奋斗，逐步实现"
+  },
+  {
+   "cn": "社会主义国有化",
+   "en": "socialist nationalization",
+   "source": "马克思主义",
+   "wordNumber": "04.0076",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级革命胜利后，凭借国家政权的力量，把资产阶级的工厂、矿山、铁路、银行等资本主义私有企业变为社会主义公有企业，把资本家个人所有的生产资料通过没收或赎买的办法变为社会主义全民所有，这一过程称为社会主"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "real fictions",
+ "term": "real fictions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:16:03+00:00",
+ "status": "ok",
+ "note": "variant=real fictions; 审定公布名词库=1943; 海峡两岸名词对照库=409; 其他来源数据库=86; 预公布名词数据库=57; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "虚构主义",
+   "en": "fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.310",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一种数学反实在论的形式。由菲尔德等人提出。主张数学对象是一种虚构物，数学理论不具有客观真理性。"
+  },
+  {
+   "cn": "模态虚构主义",
+   "en": "modal fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "主张通过关于可能世界的虚构故事来理解模态。其最强版本关于模态陈述的真值条件是：P是可能的，当且仅当P在虚构故事F的语言中的翻译根据F成立；P是必然的，当且仅当P在虚构故事F的语言中的翻译总是成立。"
+  },
+  {
+   "cn": "实际价格",
+   "en": "real price",
+   "source": "农学名词",
+   "wordNumber": "19.024",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "经过物价因素调整的价格。"
+  },
+  {
+   "cn": "真胶体",
+   "en": "real-colloid",
+   "source": "核科学技术名词",
+   "wordNumber": "2.003",
+   "subjectFullName": "核科学技术_核化学与放射化学_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2024",
+   "definition": "微量放射性核素和相对离子形成难溶化合物，但有时析出的颗粒太小，不足以形成沉淀，而形成的分散在溶液中的胶体(直径为1～100 nm)。"
+  },
+  {
+   "cn": "超真实",
+   "en": "hyper real",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.116",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "拟像摆脱真实存在的约束，导致传统的真实与虚假、幻觉与实在的二元世界消失，呈现一种比实在的真实更真实的状况。在超真实世界中，符号的间接存在再次让位于直接呈现，人们不能再主动追寻事物的本真存在。这一概念由"
+  },
+  {
+   "cn": "现实读者",
+   "en": "real reader",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.01.016",
+   "subjectFullName": "编辑与出版学_编辑_选题",
+   "subjectName": "选题",
+   "publishYear": "2022",
+   "definition": "具有一定阅读能力与购买能力并表现出购买行为和阅读意向的出版物消费者。"
+  },
+  {
+   "cn": "实在受众",
+   "en": "real audience",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.055",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "对大众传播媒介已经有受传行为的受众。"
+  },
+  {
+   "cn": "实时",
+   "en": "real-time",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2048",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "与进行过程中的事件同时。 "
+  },
+  {
+   "cn": "真实气体",
+   "en": "real gas",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0245",
+   "subjectFullName": "地球物理学_地壳流体科学_气",
+   "subjectName": "气",
+   "publishYear": "2022",
+   "definition": "气体分子本身占有容积，分子与分子间存在相互作用力的实际气体。 "
+  },
+  {
+   "cn": "实像",
+   "en": "real image",
+   "source": "光学名词",
+   "wordNumber": "14.002",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "由实际光线会聚而成的，可以形成在屏幕上的像。"
+  },
+  {
+   "cn": "实模式",
+   "en": "real mode",
+   "source": "光学名词",
+   "wordNumber": "16.037",
+   "subjectFullName": "光学_显示技术",
+   "subjectName": "显示技术",
+   "publishYear": "2021",
+   "definition": "微透镜阵列与微图像阵列的距离大于微透镜阵列焦距的一种集成成像显示模式。"
+  },
+  {
+   "cn": "实地图",
+   "en": "real map",
+   "source": "测绘学名词",
+   "wordNumber": "04.096",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "空间数据可视化的地图，包括纸质地图、屏幕地图、地球仪等。"
+  },
+  {
+   "cn": "真实余额",
+   "en": "real balance",
+   "source": "经济学名词",
+   "wordNumber": "04.125",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "指个人或整个经济所持有的货币余额的实际价值，等于货币余额除以物价指数之后所得到的数字。“真实”反映了人没有“货币幻觉”这一基本假设。任何完整规定的货币需求函数都有一个相应的特性，即其自变量是真实余额。"
+  },
+  {
+   "cn": "实际GDP",
+   "en": "real GDP",
+   "source": "经济学名词",
+   "wordNumber": "04.127",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "等于一年中按基年价格计算的国内生产产品的价值之和。"
+  },
+  {
+   "cn": "实际工资",
+   "en": "real wage",
+   "source": "经济学名词",
+   "wordNumber": "07.054",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "劳动者用一定数量的货币工资所能购买到的商品或服务数量。由于剔除了货币购买力或物价水平变动的影响，此时的工资能够确切反映工人的实际收入水平。"
+  },
+  {
+   "cn": "真实气体",
+   "en": "real gas",
+   "source": "电力名词",
+   "wordNumber": "01.441",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "不满足理想气体状态方程的实际气体。"
+  },
+  {
+   "cn": "真实溶液",
+   "en": "real solution",
+   "source": "冶金学名词",
+   "wordNumber": "04.0168",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "不具备任意组元在全浓度范围都符合拉乌尔定律等理想液态混合物性质的溶液。"
+  },
+  {
+   "cn": "实际气体",
+   "en": "real gas",
+   "source": "冶金学名词",
+   "wordNumber": "04.0101",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "由于实际存在的气体并不严格遵循理想气体定律。一般认为温度大于500K或者压强不高于100kPa时的气体为理想气体，不满足这些条件的实际存在的气体皆为实际气体。"
+  },
+  {
+   "cn": "真实气体",
+   "en": "real gas",
+   "source": "物理学名词",
+   "wordNumber": "05.0061",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "实时",
+   "en": "real time",
+   "source": "物理学名词",
+   "wordNumber": "06.0122",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "即时",
+   "en": "real time",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实际大气",
+   "en": "real atmosphere",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "真实组成",
+   "en": "real composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真实气体",
+   "en": "real gas",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实际阶段",
+   "en": "real stage",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真动",
+   "en": "real movement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实际成本",
+   "en": "real cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际负债",
+   "en": "real liability",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际汇率",
+   "en": "real rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际货币",
+   "en": "real money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际交易",
+   "en": "real transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际利息",
+   "en": "real interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际收入",
+   "en": "real income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际收益",
+   "en": "real earning",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际投资",
+   "en": "real investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际支出",
+   "en": "real expenditure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实物资本",
+   "en": "real capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实物资产",
+   "en": "real asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实时",
+   "en": "real time",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实像",
+   "en": "real image",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "小说",
+   "en": "Fiction",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律拟制",
+   "en": "legal fiction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "审虚实",
+   "en": "Balance Fiction and Reality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物权",
+   "en": "real right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时映射",
+   "en": "real-time mapping",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时多媒体",
+   "en": "real-time multimedia",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时处理",
+   "en": "real-time processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新实体经济",
+   "en": "new real economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不动产众筹",
+   "en": "real estate crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实网演练",
+   "en": "real network drill",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时定价",
+   "en": "real-time pricing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时发布",
+   "en": "real-time updates",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实际比赛时间",
+   "en": "real contest time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据实时分析",
+   "en": "real-time data analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时远程复制",
+   "en": "real-time remote replication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市全状态实时可视化",
+   "en": "real-time, full-state urban visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球海洋观测网",
+   "en": "Array for Real-time Geostrophic Oceanography (ARGO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实在规则",
+   "en": "real rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.17",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "被实际适用的规则。美国现实主义法学的代表人物卡尔·卢埃林提出的概念，与纸面规则相对应。"
+  },
+  {
+   "cn": "现实的个人",
+   "en": "real individual",
+   "source": "马克思主义",
+   "wordNumber": "01.0135",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“抽象的个人”相对。指处于现实历史条件和社会关系中的人类个体。马克思以之作为历史的现实前提。认为以一定的方式进行生产活动的一定的个人之间必然会发生一定的社会关系。这种个人不是他们自己或别人想像中的抽"
+  },
+  {
+   "cn": "实际工资",
+   "en": "real wage",
+   "source": "马克思主义",
+   "wordNumber": "02.0146",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“名义工资”相对应。指工人用货币工资所能买到的生活资料和服务的数量。实际工资和名义工资存在着密切的联系。其它条件不变时，工人所得的名义工资越高，所能购买的生活资料和服务数量就越多，因而实际工资也就越"
+  },
+  {
+   "cn": "实体整合",
+   "en": "real integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.7",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "卫生服务提供者以资产和所有权整合为基础，形成一个独立法人机构对机构内资源统一管理和调配的资源整合形式。"
+  },
+  {
+   "cn": "实时荧光聚合酶链反应",
+   "en": "real-time polymerase chain reaction, real-time qPCR",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.69",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "在PCR反应体系中加入荧光基团，利用荧光信号积累实时检测整个PCR进程，最后通过标准曲线对未知模板进行定量的方法。"
+  },
+  {
+   "cn": "实时荧光聚合酶链反应",
+   "en": "real-time fluorescence PCR",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "在聚合酶链反应体系中加入含有荧光基团的底物，通过对扩增反应中每一个循环产物荧光信号的实时检测，从而实现对起始模板定量及定性的分析方法。"
+  },
+  {
+   "cn": "卫生总费用实际值",
+   "en": "real value of total health expenditure",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.1.5",
+   "subjectFullName": "",
+   "subjectName": "卫生总费用",
+   "publishYear": "2025",
+   "definition": "消除价格影响因素后，各个时期的卫生总费用均采用基期的不变价格水平，或者一个特定时期的可比价格水平来计算。"
+  },
+  {
+   "cn": "实际补偿比",
+   "en": "actual compensation ratio，real compensation ratio",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "参保人在各级定点医疗服务机构就医后所得到实际补偿的医药费用占应支付医药费用的比例。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "家庭功能",
+   "en": "family functions",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.21",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭对人类生存和社会生活所起的作用。一般认为家庭具有生产、消费、人口再生产、抚育和赡养等功能。"
+  },
+  {
+   "cn": "盖得派",
+   "en": "Guesde faction",
+   "source": "马克思主义",
+   "wordNumber": "04.0326",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪70—90年代，法国工人运动中以茹尔·盖得（Jules Guesde）和保尔·拉法格（Paul Lafargue）为首的革命派。该派坚持阶级斗争的观点，主张工人用革命方式夺取生产资料。80年代"
+  },
+  {
+   "cn": "拉萨尔派",
+   "en": "LaSalle faction",
+   "source": "马克思主义",
+   "wordNumber": "04.0397",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪60—70年代德国工人运动中的一个机会主义派别。1863年5月23日在莱比锡各工人团体代表大会上成立的德国工人的第一个全国性组织。创始人斐迪南·拉萨尔当选为联合会首任主席。该组织从成立之日起,"
+  },
+  {
+   "cn": "学生餐",
+   "en": "school meal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.7.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校食品安全监督",
+   "subjectName": "学校食品安全监督",
+   "publishYear": "2025",
+   "definition": "由学校食堂或供餐单位为在校学生提供的早餐、午餐或晚餐。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

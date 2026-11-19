@@ -1,0 +1,782 @@
+{
+ "key": "derivation reduction system",
+ "term": "derivation reduction system",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:29:07+00:00",
+ "status": "ok",
+ "note": "variant=derivation reduction system; 审定公布名词库=10000; 海峡两岸名词对照库=3529; 其他来源数据库=638; 预公布名词数据库=709; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "心磨系统",
+   "en": "reduction system",
+   "source": "农学名词",
+   "wordNumber": "17.098",
+   "subjectFullName": "农产品贮运与加工_粮食加工",
+   "subjectName": "粮食加工",
+   "publishYear": "2025",
+   "definition": "将皮渣、渣磨及清粉系统所取得的麦渣、麦心和粗粉，逐道磨细成粉的研磨系统。"
+  },
+  {
+   "cn": "心磨系统",
+   "en": "reduction system",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0720",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "将皮渣、渣磨及清粉系统所取得的麦渣、麦心和粗粉，逐道磨细成粉的研磨系统。"
+  },
+  {
+   "cn": "[睡眠监测]导联",
+   "en": "derivation",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.129",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "实现睡眠监测过程中传感器采集的某一信号经放大器整合并显示记录数据的整个系统。"
+  },
+  {
+   "cn": "推导",
+   "en": "derivation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0484",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "根据文法 G的产生式，从G的一个句型推演出另一个句型，称为G的一步推导。对文法G 的一个推导过程是从初始句型S（初始符）推导出一个全部由终极符组成的串（即句子）。"
+  },
+  {
+   "cn": "孳乳",
+   "en": "derivation",
+   "source": "语言学名词",
+   "wordNumber": "10.047",
+   "subjectFullName": "语言学_训诂学_训诂所见字、词、句音义关系",
+   "subjectName": "训诂所见字、词、句音义关系",
+   "publishYear": "2011",
+   "definition": "在词的派生推动下，由记录源词的字分化出新字的现象。例如“正”孳乳出“政”。"
+  },
+  {
+   "cn": "推导",
+   "en": "derivation",
+   "source": "语言学名词",
+   "wordNumber": "03.273",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "经过一系列合乎逻辑的运算步骤，从一个结果到达另一个结果的过程。推导也指根据短语结构语法，应用重写规则替换一个语法符号串中的某些（某个）语法符号，产生新的语法符号串的过程。"
+  },
+  {
+   "cn": "推导",
+   "en": "derivation",
+   "source": "语言学名词",
+   "wordNumber": "03.273",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "生成音系学中，施用一系列音系规则将一个相对比较抽象的音系表达式转换成一个相对比较具体、更加接近语音实际的音系表达式的过程。"
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.013",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "母体化合物的基本骨架不变，只是其分子中侧链、官能团中的原子或原子团被其他原子或原子团取代所形成的一类新化合物。"
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "化学名词",
+   "wordNumber": "02.0004",
+   "subjectFullName": "化学_有机化学_有机化合物_有机化合物及其类名",
+   "subjectName": "有机化合物及其类名",
+   "publishYear": "2016",
+   "definition": "保留了母体化合物的基本骨架，只在侧链、官能团或取代基上发生变化的一类新化合物称为原母体化合物的衍生物。"
+  },
+  {
+   "cn": "派生词",
+   "en": "derivative",
+   "source": "语言学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "由词根和词缀构成的合成词。例如“第一”“老鼠”“帽子”“巴不得”。"
+  },
+  {
+   "cn": "派生词",
+   "en": "derivative",
+   "source": "语言学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "语言学_语义学、词汇学_构词法、构词单位、造词法",
+   "subjectName": "构词法、构词单位、造词法",
+   "publishYear": "2011",
+   "definition": "与“原形词”相对。由词根词素和词缀词素组合而成的词。"
+  },
+  {
+   "cn": "导数",
+   "en": "derivative",
+   "source": "数学名词",
+   "wordNumber": "05.0072",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可导的",
+   "en": "derivable",
+   "source": "数学名词",
+   "wordNumber": "05.0073",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.115",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "物质（分子、原子或离子）得到电子或电子对的反应过程。"
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.2.1.2",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "1个或多个电子转移到1个分子实体（元素氧化态降低）的过程。"
+  },
+  {
+   "cn": "减少",
+   "en": "reduction",
+   "source": "兽医学名词",
+   "wordNumber": "09.115",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "在动物实验中，以尽可能减少动物使用数量为基本原则，并达到预想或更多试验结果的动物实验方法。"
+  },
+  {
+   "cn": "压缩量",
+   "en": "reduction",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.082",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_锻造",
+   "subjectName": "锻造",
+   "publishYear": "2021",
+   "definition": "压缩前后坯料高度的差值。即高度方向被压缩而减小的尺寸。"
+  },
+  {
+   "cn": "约化",
+   "en": "reduction",
+   "source": "物理学名词",
+   "wordNumber": "01.0200",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "物理学名词",
+   "wordNumber": "01.0199",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "核医学名词",
+   "wordNumber": "02.0242",
+   "subjectFullName": "核医学_核医学相关基础学科_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2018",
+   "definition": "物质得到电子、还原剂失去电子的过程。"
+  },
+  {
+   "cn": "衍生细胞",
+   "en": "derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "导数",
+   "en": "derivative",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "导数",
+   "en": "derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微分",
+   "en": "derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "派生产品",
+   "en": "derivatives",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最右派生",
+   "en": "rightmost derivation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最左派生",
+   "en": "leftmost derivation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推导树",
+   "en": "derivation tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外胚层衍生物",
+   "en": "ectodermal derivative",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "葑烷衍生物",
+   "en": "fenchane derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "莰烷衍生物",
+   "en": "camphane derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蒎烷衍生物",
+   "en": "pinane derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "异莰烷衍生物",
+   "en": "isocamphane derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "局部导数",
+   "en": "local derivative",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天气衍生品",
+   "en": "weather derivatives",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "热点减量化",
+   "en": "hotspot reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据归约",
+   "en": "data reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "降体重",
+   "en": "bodyweight reduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "减贫项目援助",
+   "en": "poverty reduction aid",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区域减贫",
+   "en": "regional poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融衍生工具监管",
+   "en": "supervision on financial derivatives",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减贫合作",
+   "en": "Cooperation in Poverty Reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发式减贫",
+   "en": "development-oriented poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作减贫框架",
+   "en": "cooperative poverty reduction framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "5-1阵型",
+   "en": "5-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-4-3阵型",
+   "en": "3-4-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-3-3阵型",
+   "en": "4-3-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-5-2阵型",
+   "en": "3-5-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-4-2阵型",
+   "en": "4-4-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "5-3-2阵型",
+   "en": "5-3-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-2-4阵型",
+   "en": "4-2-4 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "导出限值",
+   "en": "derived limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.9",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "为放射防护工作实际需要，根据实用与特定情况的一定模型，由初级限值确定的限制值。例如，空气污染、表面污染、环境介质污染等的限值。"
+  },
+  {
+   "cn": "导出干预水平",
+   "en": "derived intervention level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.7.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_干预准则与水平",
+   "subjectName": "干预准则与水平",
+   "publishYear": "2025",
+   "definition": "与干预水平相对应的环境中放射性活度水平或剂量率，可直接与实际监测结果相比较的量。"
+  },
+  {
+   "cn": "氧化还原电位",
+   "en": "oxidation reduction potential",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在电解过程中，氧化物质和还原物质同处于离子状态时，在电极和溶液之间产生电位差时的电极电位。"
+  },
+  {
+   "cn": "伤亡减员率",
+   "en": "casualty reduction rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.7",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "因战伤和阵亡减员人数与平均参战人数之比，反映战伤和阵亡减员的程度。"
+  },
+  {
+   "cn": "还原型漂白剂",
+   "en": "reductive bleaching agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.8.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "利用还原性化学发应破坏或抑制食品的发色基团，使食品褪色或免于褐变的物质。"
+  },
+  {
+   "cn": "导出空气浓度",
+   "en": "derived air concentration，DAC",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.2",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "年摄入量限值除以参考人在一年工作或生活时间中吸入的空气体积所得的商。"
+  },
+  {
+   "cn": "植物源酶制剂",
+   "en": "plant-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由植物的可食或非可食部分直接提取的，用于食品加工，具有特殊催化功能的生物制品。"
+  },
+  {
+   "cn": "动物源酶制剂",
+   "en": "animal-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由动物的可食或非可食部分直接提取的，用于食品加工，具有特殊催化功能的生物制品。"
+  },
+  {
+   "cn": "微生物源酶制剂",
+   "en": "microorganism-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由传统或通过基因修饰的微生物（包括但不限于细菌、放线菌、真菌菌种）发酵、提取制得，用于食品加工，具有特殊催化功能的生物制品"
+  },
+  {
+   "cn": "氧化还原滴定法",
+   "en": "oxidation-reduction titration method",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "基于氧化还原反应的滴定分析法。"
+  },
+  {
+   "cn": "间接劳动还原法",
+   "en": "indirect labor reduction method",
+   "source": "马克思主义",
+   "wordNumber": "05.0121",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "德国社会民主党和第二国际的首领之一，“奥地利马克思主义”的著名的经济学家希法亭认为，熟练工人创造的价值可分为两个部分：非熟练工人创造的价值和转移的物化在技术中的价值。后者又可以分解为前一时期的非熟练劳"
+  },
+  {
+   "cn": "动物源性饲料消毒",
+   "en": "disinfection of animal-derived feed",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.3.5",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对用动物及其副产品为原料加工制成的饲料可能携带的病原体所进行的消毒措施。"
+  },
+  {
+   "cn": "脂肪校正因子",
+   "en": "fat consumption reduction factor, FRF",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.65",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "指对亲脂性物质的特定迁移量进行校正的因子，适用于脂肪含量在20%以上的食品，其计算公式为FRF=（5*食品中的脂肪含量）/100。"
+  },
+  {
+   "cn": "减租减息",
+   "en": "reduction of rent and interest",
+   "source": "马克思主义",
+   "wordNumber": "02.0337",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在抗日战争时期实行的经济政策。当时为团结各阶层人民一致抗日，减轻农民的地租负担和所受高利贷的剥削，由土地革命时期的没收地主土地、实行耕者有其田的政策，改为减租减息政策。地租，一般以实行二五减"
+  },
+  {
+   "cn": "舰艇部队战斗减员",
+   "en": "personnel reduction from sea warfare",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.2.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "海上作战中，舰艇成员阵亡（直接战斗行动死于战位、溺死或负伤后在到达医院船、码头救护所以前死亡）、失踪、被俘、投敌或因伤病失战斗执勤能力，经舰救护所救治仍无法返岗，需送医院船等上级救护机构治疗的情况。"
+  },
+  {
+   "cn": "继承制度",
+   "en": "succession system/inheritance system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.34",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "某一个体在其死亡或退位之时将其作为社会之人所具有的权利、义务的总体，也即地位或财产转移给他人的社会制度。包括地位继承与财产继承。"
+  },
+  {
+   "cn": "化学武器源食品污染",
+   "en": "chemical weapon-derived contamination of food",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.12.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队战时食品安全",
+   "subjectName": "军队战时食品安全",
+   "publishYear": "2025",
+   "definition": "军用化学毒剂的使用对食品造成的化学性污染。"
+  },
+  {
+   "cn": "生物武器源食品污染",
+   "en": "biological weapon-derived contamination of food",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.12.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队战时食品安全",
+   "subjectName": "军队战时食品安全",
+   "publishYear": "2025",
+   "definition": "生物战剂的应用对食品造成的生物性污染。"
+  },
+  {
+   "cn": "核武器源食品污染",
+   "en": "nuclear weapon-derived contamination of food",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.12.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队战时食品安全",
+   "subjectName": "军队战时食品安全",
+   "publishYear": "2025",
+   "definition": "由于各类核武器使用而对食品造成的放射性污染。"
+  },
+  {
+   "cn": "山官制",
+   "en": "shanguan system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0295",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中华人民共和国成立前景颇族实行的一种政治制度。山官是当地汉族的称呼，景颇语是贡萨统、杜、杜瓦之意。山官作为统治者在当地的一定辖区内有独立的行使权，他们以山岭、河流等自然标志为界限，山官有大中小三类，大"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

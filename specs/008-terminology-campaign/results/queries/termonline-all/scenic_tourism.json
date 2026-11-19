@@ -1,0 +1,672 @@
+{
+ "key": "scenic tourism",
+ "term": "scenic tourism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:52:28+00:00",
+ "status": "ok",
+ "note": "variant=scenic tourism; 审定公布名词库=671; 海峡两岸名词对照库=202; 其他来源数据库=15; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "旅游",
+   "en": "tourism",
+   "source": "风景园林名词",
+   "wordNumber": "05.0267",
+   "subjectFullName": "风景园林_风景园林规划_旅游规划",
+   "subjectName": "旅游规划",
+   "publishYear": "2025",
+   "definition": "为了休闲、商务或其他目的离开其惯常环境，到某些地方并停留在那里，但连续不超过一年的活动。旅游目的包括：休闲、娱乐、度假，探亲访友，商务、专业访问等。"
+  },
+  {
+   "cn": "风景游憩",
+   "en": "scenic recreation",
+   "source": "风景园林名词",
+   "wordNumber": "01.0067",
+   "subjectFullName": "风景园林_总论_风景名胜",
+   "subjectName": "风景名胜",
+   "publishYear": "2025",
+   "definition": "在良好的自然环境中进行休闲游憩、旅游观光、娱乐健身、科学考察等活动。"
+  },
+  {
+   "cn": "风景道",
+   "en": "scenic byway",
+   "source": "风景园林名词",
+   "wordNumber": "05.0279",
+   "subjectFullName": "风景园林_风景园林规划_旅游规划",
+   "subjectName": "旅游规划",
+   "publishYear": "2025",
+   "definition": "（1）广义指兼具交通运输和景观欣赏双重功能的通道。（2）狭义指拥有自然风景和文化保存价值的景观道路，包括风景公路、绿道和公园道、风景路、遗产廊道和文化线路等。"
+  },
+  {
+   "cn": "景点",
+   "en": "scenic spot",
+   "source": "风景园林名词",
+   "wordNumber": "04.0238",
+   "subjectFullName": "风景园林_风景名胜_风景名胜保护和规划",
+   "subjectName": "风景名胜保护和规划",
+   "publishYear": "2025",
+   "definition": "由若干相互关联的景物所构成、具有相对独立性和完整性、并具有审美特征的基本境域单位。"
+  },
+  {
+   "cn": "风景建筑",
+   "en": "scenic architecture",
+   "source": "风景园林名词",
+   "wordNumber": "04.0171",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "风景中供人游览、观赏、休憩等，并构成景观的建筑物或构筑物的统称。"
+  },
+  {
+   "cn": "风景名胜公园",
+   "en": "scenic park",
+   "source": "风景园林名词",
+   "wordNumber": "05.0076",
+   "subjectFullName": "风景园林_风景园林规划_城乡绿地系统分类",
+   "subjectName": "城乡绿地系统分类",
+   "publishYear": "2025",
+   "definition": "位于城市建设用地范围内，以文物古迹、风景名胜点（区）为主形成的具有城市公园功能的公园绿地。"
+  },
+  {
+   "cn": "景区",
+   "en": "scenic area",
+   "source": "风景园林名词",
+   "wordNumber": "04.0240",
+   "subjectFullName": "风景园林_风景名胜_风景名胜保护和规划",
+   "subjectName": "风景名胜保护和规划",
+   "publishYear": "2025",
+   "definition": "在风景区总体规划中，根据景源类型、景观特征或游赏需求划分的一定范围，包含有较多的景物和景点或若干景群，形成相对独立分区特征的空间区域。"
+  },
+  {
+   "cn": "风景区",
+   "en": "scenic area",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.084",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市（镇）总体规划",
+   "subjectName": "城市（镇）总体规划",
+   "publishYear": "2021",
+   "definition": "风景资源集中、环境优美、具有一定规模和游览条件，可供人们游览欣赏、休憩娱乐或进行科学文化活动的地区。"
+  },
+  {
+   "cn": "景区",
+   "en": "scenic zone",
+   "source": "林学名词",
+   "wordNumber": "09.115",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "在风景区规划中，根据风景资源类型、景观特征或游人观赏需求而将风景区划分成的一定用地范围。"
+  },
+  {
+   "cn": "景物",
+   "en": "scenic feature",
+   "source": "建筑学名词",
+   "wordNumber": "08.0172",
+   "subjectFullName": "建筑学_风景园林_风景名胜区",
+   "subjectName": "风景名胜区",
+   "publishYear": "2014",
+   "definition": "具有独立欣赏价值的风景素材的个体。"
+  },
+  {
+   "cn": "景区",
+   "en": "scenic zone",
+   "source": "建筑学名词",
+   "wordNumber": "08.0174",
+   "subjectFullName": "建筑学_风景园林_风景名胜区",
+   "subjectName": "风景名胜区",
+   "publishYear": "2014",
+   "definition": "根据风景资源类型、景观特征或游人观赏需求而将风景区划分成的一定用地范围。"
+  },
+  {
+   "cn": "风景名胜区",
+   "en": "scenic area",
+   "source": "建筑学名词",
+   "wordNumber": "07.0184",
+   "subjectFullName": "建筑学_城乡规划_总体规划",
+   "subjectName": "总体规划",
+   "publishYear": "2014",
+   "definition": "风景资源集中、环境优美、具有一定规模和游览条件，可供人们游览欣赏、休憩娱乐或进行科学文化活动的地域。"
+  },
+  {
+   "cn": "风景林地",
+   "en": "scenic forest",
+   "source": "生态学名词",
+   "wordNumber": "17.062",
+   "subjectFullName": "生态学_城市生态学、生态工程学和产业生态学",
+   "subjectName": "城市生态学、生态工程学和产业生态学",
+   "publishYear": "2006",
+   "definition": "具有一定景观价值，对于城市整体风貌和环境有改善作用，又没有完善的游览、休息、娱乐等设施的林地。"
+  },
+  {
+   "cn": "体育旅游",
+   "en": "sports tourism",
+   "source": "风景园林名词",
+   "wordNumber": "05.0283",
+   "subjectFullName": "风景园林_风景园林规划_旅游规划",
+   "subjectName": "旅游规划",
+   "publishYear": "2025",
+   "definition": "旅游者以旁观者的身份观看或积极参与体育赛事的旅游体验，体育赛事一般涉及商业性和非商业性的竞争性质的活动。是旅游活动的一种类型。"
+  },
+  {
+   "cn": "旅游服务设施",
+   "en": "tourism facility",
+   "source": "风景园林名词",
+   "wordNumber": "04.0287",
+   "subjectFullName": "风景园林_风景名胜_风景名胜保护和规划",
+   "subjectName": "风景名胜保护和规划",
+   "publishYear": "2025",
+   "definition": "风景区内因旅行、游览、餐饮、住宿、购物、娱乐、文化、休养及其他服务需要而设置的各项设施的统称。"
+  },
+  {
+   "cn": "乡村旅游",
+   "en": "rural tourism",
+   "source": "风景园林名词",
+   "wordNumber": "05.0251",
+   "subjectFullName": "风景园林_风景园林规划_乡村景观规划",
+   "subjectName": "乡村景观规划",
+   "publishYear": "2025",
+   "definition": "以都市居民为目标市场，以领略农村田野风光、体验农事生产劳作、了解风土民俗和回归自然为旅游目的，以具有乡村性的自然和人文客体为旅游吸引物，依托农村区域的优美景观、自然环境、建筑和文化等资源，在传统农村休"
+  },
+  {
+   "cn": "研学旅游",
+   "en": "study tourism",
+   "source": "风景园林名词",
+   "wordNumber": "05.0285",
+   "subjectFullName": "风景园林_风景园林规划_旅游规划",
+   "subjectName": "旅游规划",
+   "publishYear": "2025",
+   "definition": "由学校根据区域特色、学生年龄特点和各学科教学内容需要，组织学生通过集体旅行、集中食宿的方式走出校园或家长带孩子，在与平常不同的生活中拓展视野、丰富知识，加深与自然和文化的亲近感，增加对集体生活方式和社"
+  },
+  {
+   "cn": "旅游产品",
+   "en": "tourism product",
+   "source": "风景园林名词",
+   "wordNumber": "05.0280",
+   "subjectFullName": "风景园林_风景园林规划_旅游规划",
+   "subjectName": "旅游规划",
+   "publishYear": "2025",
+   "definition": "可向旅游市场提供，能够满足旅游消费者的某种需要或能够创造市场需求的产品。"
+  },
+  {
+   "cn": "旅游规划",
+   "en": "tourism planning",
+   "source": "风景园林名词",
+   "wordNumber": "05.0275",
+   "subjectFullName": "风景园林_风景园林规划_旅游规划",
+   "subjectName": "旅游规划",
+   "publishYear": "2025",
+   "definition": "一个地域综合体内一定阶段旅游系统的发展目标和实现方式的整体部署过程。"
+  },
+  {
+   "cn": "旅游策划",
+   "en": "tourism programming",
+   "source": "风景园林名词",
+   "wordNumber": "05.0274",
+   "subjectFullName": "风景园林_风景园林规划_旅游规划",
+   "subjectName": "旅游规划",
+   "publishYear": "2025",
+   "definition": "在对旅游地内部和外部因素客观分析的基础上，为实现旅游地阶段性目标，谋划旅游地旅游市场和旅游产品及其相配套的战略、策略和实施方案的过程。"
+  },
+  {
+   "cn": "景物分析",
+   "en": "scenic analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旅游心理学",
+   "en": "tourism psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "滨海旅游",
+   "en": "coastal tourism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海岛观光旅游",
+   "en": "island tourism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海洋旅游业",
+   "en": "marine tourism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "近海旅游",
+   "en": "nearshore tourism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "旅游潜水",
+   "en": "diving tourism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "包价旅游",
+   "en": "package tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市旅游",
+   "en": "urban tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "出境旅游",
+   "en": "outbound tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "創意旅游",
+   "en": "creative tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "丛林旅游",
+   "en": "jungle tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "仿古旅游",
+   "en": "antique tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "访古旅游",
+   "en": "historical tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "封闭式旅游",
+   "en": "enclave tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "负责任旅游",
+   "en": "responsible tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "高尔夫旅游",
+   "en": "golf tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "工业旅游",
+   "en": "industrial tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国际旅游",
+   "en": "international tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国内旅游",
+   "en": "domestic tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "关闭景点",
+   "en": "to close scenic spots",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世界旅游组织",
+   "en": "United Nations World Tourism Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际旅游消费中心",
+   "en": "international tourism and consumption destination",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "博鳌乐城国际医疗旅游先行区",
+   "en": "Boao Lecheng pilot zone of international medical tourism",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《“一带一路”体育旅游发展行动方案（2017–2020年）》",
+   "en": "On Development of Belt and Road Sports Tourism (2017–2020)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有我之境，无我之境",
+   "en": "Scene Involving the Self / Scene Not Involving the Self",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "象外之象，景外之景",
+   "en": "The Image Beyond an Image, the Scene Beyond a Scene",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "暂停海外团队旅行",
+   "en": "to suspend overseas group tours",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "旅游",
+   "en": "tourism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0194",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以生活中剩余的财政计划为前提，以自愿为原则，以休闲或积累不同经验为主要目标，到异地或“异文化”人群中去体验的旅游行为。"
+  },
+  {
+   "cn": "文化旅游",
+   "en": "cultural tourism",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.35",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "人们受到不同文化的吸引，以某地区或国家的历史、艺术、建筑、节日、风俗习惯或其他独有的生活特色满足人们对新文化形式需求为主要目的的旅游活动。"
+  },
+  {
+   "cn": "旅游媒介",
+   "en": "tourism medium",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0197",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "即旅游业，是旅游主体和客体联系的纽带。旅游业是直接为旅游活动提供便利条件和服务的综合性产业，由旅行社、饭店、交通运输、观赏娱乐等行业复合而成，在这些行业中，旅行社集中体现了旅游业的媒介作用。旅行社是组"
+  },
+  {
+   "cn": "旅游主体",
+   "en": "tourism subject",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0195",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "即旅游者，旅游者把旅游动机转变为旅游行为是与旅游相关的一切社会现象和关系发生的基础，因而旅游者在旅游活动中处于中心地位。"
+  },
+  {
+   "cn": "旅游客体",
+   "en": "tourism object",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0196",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "即旅游对象，由旅游设施和旅游资源两部分构成。它和旅游主体一起构成同一事物的两个方面，缺少任何一个条件都不会有旅游行为的发生。"
+  },
+  {
+   "cn": "旅游人类学",
+   "en": "tourism anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0193",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的一个分支学科，以与旅游相关的文化事项未研究对象，主要从旅游地的居民和游客之间人际关系的角度来研究旅游地的文化现象和演变，以及这种文化现象对旅游地社会的影响。"
+  },
+  {
+   "cn": "民族旅游",
+   "en": "ethnic tourism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0202",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以观赏、领略、感悟、探索民族文化、民族社区或民族共同体为主要目的的旅游形式，是诸多旅游形式中的一种，其旅游目的地居民所属群体在文化、社会或政治上与他们所居住国或地区的主体民族有较大差异，这些表现在自然"
+  },
+  {
+   "cn": "文化旅游",
+   "en": "cultural tourism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0199",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "通过旅游实现感知、了解、体察人类文化具体内容之目的的行为过程，泛指以鉴赏异国异地传统文化、追寻文化名人遗踪或参加当地举办的各种文化活动为目的的旅游。"
+  },
+  {
+   "cn": "民俗旅游",
+   "en": "folk tourism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0203",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们离开惯常住地，到异地去体验当地民俗的文化旅游行程。民俗旅游的内容主要包括生活文化、婚姻家庭和人生礼仪文化、口头传承文化、民间歌舞娱乐文化、节日文化、信仰文化等。"
+  },
+  {
+   "cn": "文旅融合",
+   "en": "integration of culture and tourism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.02",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化、旅游产业及相关要素之间相互渗透、交叉汇合重组，逐步突破原有的产业边界或要素领域，彼此交融而形成新的共生体的现象与过程。"
+  },
+  {
+   "cn": "跨国旅游器官移植",
+   "en": "cross border tourism organ transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.024",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "患者为了获得器官移植服务，以旅游为名跨国前往其他国家或地区进行手术的行为。"
+  },
+  {
+   "cn": "旅游文化",
+   "en": "tourist culture",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.11",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "以调适人地关系为主轴、通过增加主客互动和沟通交流所形成的生活方式。这里的主客互动，包括了本土/异乡、土著/外人、接待者/参访团以及当地人/旅游者等类型的双向互动。"
+  },
+  {
+   "cn": "旅游文化",
+   "en": "tourist culture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0198",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类固有文化在旅游活动中的具体体现，是与旅游活动有关的文化现象的总和。"
+  },
+  {
+   "cn": "游客凝视",
+   "en": "tourist gaze",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0204",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "旅游人类学中用以探讨旅游过程中包括游客、旅游地社会、当地人等在内的各主体及其相互间关系的概念。“游客凝视”这一概念出自英国社会学家厄利（John Urry）1990 年出版的《游客凝视》一书。厄利认为"
+  },
+  {
+   "cn": "声波武器",
+   "en": "sonic weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.4",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "利用声波实现对目标对象打击的武器，可以分为两类，一类是针对有生目标，主要是对有生目标造成心理或生理打击；另一类是针对装备，一般是通过声波打击来干扰精密装备的正常运转。"
+  },
+  {
+   "cn": "卤代乙酸",
+   "en": "halogenated acetic acid",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.8.6",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "由含氯消毒剂与水中的某些化合物反应生成的可致癌致畸的消毒副产物。"
+  },
+  {
+   "cn": "声波武器损伤",
+   "en": "injuries of sonic weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.1.3",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "利用声波和声音发生装置，产生并定向发射高频率声束，使人的神经、内分泌、心血管等系统功能发生障碍的损伤。"
+  },
+  {
+   "cn": "醋酸染色裸眼观察",
+   "en": "visual inspection with acetic acid, VIA",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "为宫颈癌筛查的初筛方法之一。通过在子宫颈表面涂抹5%醋酸溶液，观察子宫颈有无醋白反应，来判断子宫颈有无病变及病变程度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

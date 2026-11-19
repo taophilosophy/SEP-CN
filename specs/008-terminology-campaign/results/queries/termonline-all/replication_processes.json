@@ -1,0 +1,662 @@
+{
+ "key": "replication processes",
+ "term": "Replication processes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:08:04+00:00",
+ "status": "ok",
+ "note": "variant=Replication processes; 审定公布名词库=3029; 海峡两岸名词对照库=1267; 其他来源数据库=194; 预公布名词数据库=85; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "农学名词",
+   "wordNumber": "06.110",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "以亲代遗传物质（DNA或RNA）为模板按照碱基配对原则合成子代分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0098",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "DNA或RNA基因组以亲代核酸链作为合成模板，按照碱基互补配对原则合成子代核酸链进行扩增的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "兽医学名词",
+   "wordNumber": "16.177",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "病毒吸附并侵入易感细胞内，以其核酸为模板合成子代病毒核酸和蛋白质等组分，装配子代病毒粒子，最后释放到细胞外的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.044",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由核酸模板链复制出相同核酸链的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "畜牧学名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "在DNA聚合酶的催化作用下，以亲代DNA分子为模板合成子代DNA分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "植物学名词",
+   "wordNumber": "16.0174",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "以亲代DNA分子为模板按照碱基配对原则合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0347",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "证券产品的一种设计方法。某种证券运作业绩良好，可以将其作为参照标准，再设计一只新证券，在同样的方式、方法下运作，以期望能够取得与原证券具有相同的风险特性和收益率，给投资者创造出更多的获取收益的机会。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "药学名词",
+   "wordNumber": "05.334",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "用亲代分子作为合成的模板，由一个亲代DNA或一个亲代RNA合成一个新的子代分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "微生物学名词",
+   "wordNumber": "04.073",
+   "subjectFullName": "微生物学_病毒学",
+   "subjectName": "病毒学",
+   "publishYear": "2012",
+   "definition": "以病毒粒子的基因组为模板，产生与其完全一致的一定数量的子代病毒粒子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.161",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "以亲代DNA分子为模板按照碱基配对原则合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "遗传学名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "以亲代DNA分子为模板合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.617",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.013",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "含有一个复制起点并能促进质粒DNA分子在宿主细胞中复制的一段DNA序列。"
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "畜牧学名词",
+   "wordNumber": "04.104",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "有一个复制起始点并能促进DNA分子复制的DNA序列。"
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "遗传学名词",
+   "wordNumber": "03.215",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "有一个复制起始点并能促进DNA分子复制的DNA序列。"
+  },
+  {
+   "cn": "复制聚合酶",
+   "en": "replication polymerase",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0317",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_转移酶",
+   "subjectName": "转移酶",
+   "publishYear": "2024",
+   "definition": "大肠埃希菌细胞内真正负责重新合成DNA的DNA聚合酶Ⅲ。编号：EC 2.7.7.7。"
+  },
+  {
+   "cn": "DNA复制",
+   "en": "DNA replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0099",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "DNA合成过程中，以亲代DNA两条链为模板合成两个子代DNA分子的过程。其中每一个子代DNA分子包含一条亲代链和一条新合成的链。具有高保真性。"
+  },
+  {
+   "cn": "复制叉",
+   "en": "replication fork",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.011",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "正在进行复制的双链DNA分子所形成的Y形叉状结构。其中已解旋的两条亲代单链以及正在进行合成的新链构成了Y形的头部，尚未解旋的亲代DNA双链构成了Y形的尾部。"
+  },
+  {
+   "cn": "复制泡",
+   "en": "replication bubble",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0111",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "DNA复制过程中，每个复制起点都产生两个复制叉，进入链的延长阶段后，两个复制叉向相反的方向移动，形成的空泡状结构。"
+  },
+  {
+   "cn": "半保留复制",
+   "en": "semiconservative replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0112",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "复制时亲代DNA分子两条链解开为两股单链，各自作为合成新链的模板，从而形成两个子代DNA分子，因重新合成的每一个双链DNA分子中各保留一条亲代DNA单链的复制方式而得名。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制叉",
+   "en": "replicating fork\",\"replication fork",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制滑移,复制跳格",
+   "en": "replication slipping\",\"replication slippage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制眼(=复制泡)",
+   "en": "replication eye(=replication bubble)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制叉",
+   "en": "replication fork",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "散乱复制",
+   "en": "dispersive replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半不连续复制",
+   "en": "semidiscontinuous replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制结合",
+   "en": "replication banding",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制带",
+   "en": "replication band",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "θ复制",
+   "en": "theta replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "保守性复制",
+   "en": "conservative replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单向复制",
+   "en": "unidirectional replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半保留复制",
+   "en": "semiconservative  replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半不连续复制",
+   "en": "semicontinuous replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "并行复制",
+   "en": "concurrent replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可复制性",
+   "en": "replicability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时远程复制",
+   "en": "real-time remote replication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随机过程",
+   "en": "stochastic process",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流程架构",
+   "en": "process architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进程代数",
+   "en": "process algebra",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "复制后修复",
+   "en": "post-replication repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA复制结束后对DNA损伤进行的修复。这类修复通常发生在细胞周期的G1期或G2期，包括DNA链断裂修复、错配修复和切除修复等不同的修复方式。"
+  },
+  {
+   "cn": "过程",
+   "en": "process",
+   "source": "马克思主义",
+   "wordNumber": "01.0092",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质运动在时间上的持续和在空间上的广延，是矛盾存在和发展的形式。唯物辩证法认为，过程是物质、运动和时间、空间的辩证统一。任何事物都是过程的集合体，都是作为过程而出现并向前发展的。"
+  },
+  {
+   "cn": "过程分析法",
+   "en": "process analysis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0604",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家特纳（Victor Turner）针对要如何去探索仪式象征意义而提出的研究方法，即任何有关象征的实证研究至少需要从三个不同层面来进行分析。（1）当地人（包括当地仪式专家和普通人）对仪式、象"
+  },
+  {
+   "cn": "民族过程",
+   "en": "ethnic process",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0011",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "20 世纪60 到70 年代，苏联民族学界提出的一种民族理论，强调民族是一种历史过程，我国民族理论界一般将其理解为民族的形成、发展和消亡过程。"
+  },
+  {
+   "cn": "政策过程",
+   "en": "policy process",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "政策从问题识别、议程设置、政策制定、政策采纳、政策执行到政策评估的连续阶段和活动序列，涵盖政策生命周期的主要环节。"
+  },
+  {
+   "cn": "杀菌偏差",
+   "en": "process deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.11",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "在热力杀菌过程中，凡是未能满足热力杀菌工艺规程的任何现象。"
+  },
+  {
+   "cn": "消毒过程",
+   "en": "disinfection process",
+   "source": "消毒学",
+   "wordNumber": "1.1.8",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "消毒的所有活动。"
+  },
+  {
+   "cn": "工艺监测",
+   "en": "process monitoring",
+   "source": "消毒学",
+   "wordNumber": "1.2.3.4",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "对灭菌全过程操作环节和各种因素进行检查和记录的过程。"
+  },
+  {
+   "cn": "灭菌程序",
+   "en": "sterilization process",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "包括产品预处理（如果需要），以及在规定的条件下暴露于相应灭菌因子和需要的后处理。广义的灭菌程序等同于灭菌周期，狭义的解释指灭菌阶段，如温度、压力、时间等主要参数达到灭菌规定所需的所有过程。"
+  },
+  {
+   "cn": "生产过程",
+   "en": "production process",
+   "source": "消毒学",
+   "wordNumber": "5.1.7",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品的过程。"
+  },
+  {
+   "cn": "过程检验",
+   "en": "process inspection",
+   "source": "消毒学",
+   "wordNumber": "5.1.11.4",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产过程中对各道工序进行检验的过程。"
+  },
+  {
+   "cn": "社会过程",
+   "en": "social process",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会有机体诸方面（系统、结构、群体、成员））伴随环境的变迁而不断分化、调试、重组、重整、更替的过程，以及彼此在连续互动中相互影响相互作用的动态过程。查尔斯·霍顿·库利使用的概念。通常表现为竞争、冲突、"
+  },
+  {
+   "cn": "过程评估",
+   "en": "process evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "监测整个介入过程，对工作过程的每一步骤、每一个阶段分别作出评估。其关心的重点是工作中的各种步骤和程序怎样促成了最终的介入结果，方法是通过了解和描述介入活动的内容来回答服务过程中发生了什么，以及为什么发"
+  },
+  {
+   "cn": "小组生命历程",
+   "en": "group process",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.21",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "任何一个小组从成立起都要经历的发展过程。一般认为分5个阶段：邂逅、试探小组中的界限及塑造角色、协调出小组中规范性的系统、生产和分离。"
+  },
+  {
+   "cn": "监测程序",
+   "en": "survey process",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "在全国学生体质与健康调研和监测工作中，为使监测工作更便捷、顺畅，在现场调查工作中按照一定程序对监测指标进行测量的规范要求。"
+  },
+  {
+   "cn": "过程评价",
+   "en": "process evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "在项目实施中对其进展、问题和风险进行监控和评估的过程。目的是找出偏差，发现问题，及时改进和调整。"
+  },
+  {
+   "cn": "过程评价",
+   "en": "process evaluation",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.4.2",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "在项目、计划或政策的实施过程中，对执行过程的完整性、规范性和资源分配合理性进行的系统性评估。其核心目的是监控健康教育活动是否按计划推进，并识别执行环节中存在的障碍或偏差，为实时调整提供依据。"
+  },
+  {
+   "cn": "死亡过程",
+   "en": "death process",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.0089999999999995",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "机体的生命活动和新陈代谢逐渐结束所持续的时间进程。包括濒死期、临床死亡期和生物学死亡期。"
+  },
+  {
+   "cn": "过程公平",
+   "en": "fair process",
+   "source": "社会医学名词",
+   "wordNumber": "3.2.4",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有社会成员在参与经济社会活动时，必须遵循公平的规则和程序，即确保规则公平与程序公正。"
+  },
+  {
+   "cn": "加工系数",
+   "en": "processing factor",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.59",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "加工后产品中的物质残留量与加工前的物质残留量之比。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

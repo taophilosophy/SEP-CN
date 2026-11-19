@@ -1,0 +1,72 @@
+{
+ "key": "armbruster boge",
+ "term": "Armbruster Böge",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:52:38+00:00",
+ "status": "ok",
+ "note": "variant=Armbruster Böge; 审定公布名词库=5; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "Si₁₋ₓGeₓ/Si异质结构材料",
+   "en": "Si₁₋ₓGeₓ/Si heterojunction materials",
+   "source": "材料科学技术名词",
+   "wordNumber": "06.0405",
+   "subjectFullName": "材料科学技术_半导体材料_硅基半导体材料",
+   "subjectName": "硅基半导体材料",
+   "publishYear": "2011",
+   "definition": "由硅 - 锗合金和硅构成的Si₁₋ₓGeₓ/Si异质结构的材料。其性能优异并具有重要的应用价值，被认为是“第二代硅”材料。"
+  },
+  {
+   "cn": "背景电解质",
+   "en": "background electrolyte,BGE",
+   "source": "化学名词",
+   "wordNumber": "03.1859",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "毛细管电泳中作为分离介质的电解质溶液。"
+  },
+  {
+   "cn": "山楂",
+   "en": "hawthorn; Crataegus pinnatifida Bge.",
+   "source": "农学名词",
+   "wordNumber": "05.017",
+   "subjectFullName": "园艺作物_果树作物",
+   "subjectName": "果树作物",
+   "publishYear": "2025",
+   "definition": "蔷薇科山楂属果树。染色体数2n=34。多年生落叶乔木。广泛分布于中国北方地区及俄罗斯和朝鲜。果实直径约1.5cm，可供鲜食、加工和入药。"
+  },
+  {
+   "cn": "杜梨",
+   "en": "brichleaf pear; Pyrus betulifolia Bge.",
+   "source": "农学名词",
+   "wordNumber": "05.010",
+   "subjectFullName": "园艺作物_果树作物",
+   "subjectName": "果树作物",
+   "publishYear": "2025",
+   "definition": "蔷薇科梨属野生种果树。染色体数2n=34。多年生落叶乔木。原产中国。耐干旱、耐寒凉、耐盐碱。果实不可食用。是中国普遍应用的梨砧木。"
+  },
+  {
+   "cn": "酸枣",
+   "en": "spine date; Ziziphus jujube var. spinosa (Bge.) Hu",
+   "source": "农学名词",
+   "wordNumber": "05.069",
+   "subjectFullName": "园艺作物_果树作物",
+   "subjectName": "果树作物",
+   "publishYear": "2025",
+   "definition": "鼠李科枣属果树。多为丛生灌木。枝弯曲度较大且节间较短，托叶刺发达，叶花果较小；外果皮较厚，干后不皱缩。多作为砧木应用，果实亦可鲜食或干制食用。"
+  },
+  {
+   "cn": "背景电解质",
+   "en": "background electrolyte\",\"BGE",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

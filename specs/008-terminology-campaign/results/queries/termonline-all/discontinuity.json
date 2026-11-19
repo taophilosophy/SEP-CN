@@ -1,0 +1,432 @@
+{
+ "key": "discontinuity",
+ "term": "discontinuity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:31:09+00:00",
+ "status": "ok",
+ "note": "variant=discontinuity; 审定公布名词库=85; 海峡两岸名词对照库=40; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "地层不连续",
+   "en": "discontinuity",
+   "source": "地质学名词",
+   "wordNumber": "07.01.055",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "上、下两组岩层之间出现沉积间断或地层缺失。"
+  },
+  {
+   "cn": "间断性",
+   "en": "discontinuity",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.071",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物的元素、结构、功能、变化的规律性发生突变的属性。原有的连续性出现破缺。是反映事物变化的规律性突变的属性，是一种因果关系链条的断裂。"
+  },
+  {
+   "cn": "间断性",
+   "en": "discontinuity",
+   "source": "植物学名词",
+   "wordNumber": "13.0560",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生态系统中一些特征的突然改变。"
+  },
+  {
+   "cn": "不连续[性]",
+   "en": "discontinuity",
+   "source": "物理学名词",
+   "wordNumber": "01.0162",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不连续[性]",
+   "en": "discontinuity",
+   "source": "大气科学名词",
+   "wordNumber": "05.086",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "气象学中指某一气象变量的数值在两个相邻点之间发生的突变或跳跃。"
+  },
+  {
+   "cn": "不连续",
+   "en": "discontinuity",
+   "source": "地质学名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "20°间断",
+   "en": "20° discontinuity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0913",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "地球内部 410km处的波速间断面致使在震中距 20°附近地震 P波走时曲线梯度发生突然变化的现象。 "
+  },
+  {
+   "cn": "20°间断",
+   "en": "20°discontinuity",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "停刊",
+   "en": "discontinuation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.164",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "报刊停止出版。"
+  },
+  {
+   "cn": "N界面",
+   "en": "N discontinuity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1124",
+   "subjectFullName": "地球物理学_地震科学_地震学与地球内部构造",
+   "subjectName": "地震学与地球内部构造",
+   "publishYear": "2022",
+   "definition": "黑尔斯(Heles)发现在大陆岩石层，特别是在欧洲大陆岩石层中，深度在 60～ 120km的地震波速度的间断面。 "
+  },
+  {
+   "cn": "莫霍[洛维契奇]界面",
+   "en": "Mohorovicic discontinuity,M discontinuity,Moho",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "间断分解",
+   "en": "discontinuity decomposition",
+   "source": "数学名词",
+   "wordNumber": "010.0539",
+   "subjectFullName": "数学_数值分析_偏微分方程数值解",
+   "subjectName": "偏微分方程数值解",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "古登堡[界]面",
+   "en": "Gutenberg discontinuity",
+   "source": "地质学名词",
+   "wordNumber": "01.00.012",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "距地表深度约2885km的地震波速间断面。由美国学者古登堡(Gutenberg) 1914年发现。被认为是地幔与地核的分界面。"
+  },
+  {
+   "cn": "莫霍面",
+   "en": "Moho discontinuity",
+   "source": "地质学名词",
+   "wordNumber": "01.00.019",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地壳与地幔的分界面。为地震波P波速度的突变面。由南斯拉夫地震学家莫霍洛维奇(Mohorovicic)1909年研究发现。"
+  },
+  {
+   "cn": "康拉德[间断]面",
+   "en": "Conrad discontinuity",
+   "source": "地质学名词",
+   "wordNumber": "01.00.023",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地壳内部的一个地震波速变化不连续面。相当于上、下地壳的分界面，该面之上为花岗岩质层(硅铝层)，其下为玄武岩层(硅镁层)。"
+  },
+  {
+   "cn": "莱曼界面",
+   "en": "Lehmann discontinuity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0747",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "以 1936年发现地球内核的莱曼(I. Lehmann)姓氏命名的地球外核和内核之间的界面。 "
+  },
+  {
+   "cn": "康拉德界面",
+   "en": "Conrad discontinuity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1122",
+   "subjectFullName": "地球物理学_地震科学_地震学与地球内部构造",
+   "subjectName": "地震学与地球内部构造",
+   "publishYear": "2022",
+   "definition": "康拉德(V. Conrad)于 1923年发现的上地壳和中地壳之间的地震波速度的间断面，地震波通过该界面时 P 波波速从 6.2～6.4km/s增大到 6.6～6.8 km/s。该界面在全球不具有普遍"
+  },
+  {
+   "cn": "地幔间断面",
+   "en": "mantle discontinuity",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0370",
+   "subjectFullName": "地球物理学_地球动力学_地幔地核动力学",
+   "subjectName": "地幔地核动力学",
+   "publishYear": "2022",
+   "definition": "地幔中地震波速或波速梯度不连续的界面。 "
+  },
+  {
+   "cn": "哈朗间断",
+   "en": "Harang discontinuity",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0210",
+   "subjectFullName": "地球物理学_空间物理学_电离层",
+   "subjectName": "电离层",
+   "publishYear": "2022",
+   "definition": "极光卵形带中东向电集流与西向电集流汇合的狭窄区域。 "
+  },
+  {
+   "cn": "过度不连续",
+   "en": "excessive discontinuity",
+   "source": "神经病学名词",
+   "wordNumber": "05.402",
+   "subjectFullName": "神经病学_神经病诊断技术_临床脑电图学",
+   "subjectName": "临床脑电图学",
+   "publishYear": "2020",
+   "definition": "新生儿期的一种异常脑电图形。表现为与受孕龄不符的持续不连续图形，暴发时间小于3s，暴发间隔不等，多在20s以上。在持续的不连续背景上伴发其他异常，如额区或颞区尖波、额区突出的慢活动等。可见于明显的脑病"
+  },
+  {
+   "cn": "不连续性（=间断性）",
+   "en": "discontinuity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "间断性，不连续性",
+   "en": "discontinuity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不连续[性]",
+   "en": "discontinuity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "间断性,不连续性",
+   "en": "discontinuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不连续性",
+   "en": "discontinuity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不连续面",
+   "en": "discontinuity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "不连续[性]",
+   "en": "discontinuity",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "间断性假说",
+   "en": "discontinuity hypothesis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "间断层",
+   "en": "discontinuity layer",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "气候不连续",
+   "en": "climatic discontinuity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吸收不连续性",
+   "en": "absorption discontinuity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "莫霍不连续面，莫霍面",
+   "en": "Moho discontinuity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "不连续毛细血管",
+   "en": "discontinuous capillary",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "不连续变异",
+   "en": "discontinuous variation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "间断分布带",
+   "en": "discontinuous zone",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "间断年轮",
+   "en": "discontinuous ring",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不连续湍流",
+   "en": "discontinuous turbulence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不连续加工",
+   "en": "discontinuous processing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不连续过程",
+   "en": "discontinuous process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不连续脱溶",
+   "en": "discontinuous precipitation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "两次运球",
+   "en": "discontinue\",\"double dribble\",\"doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "科学中的不连续性",
+   "en": "science of discontinuity",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.24",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学中的一些社会反常现象。默顿认为是规范系统与奖励系统之间特有的不连续状况的结果；库恩则认为反常是科学发现的先兆，是科学革命的本质和必然。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

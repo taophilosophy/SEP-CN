@@ -1,0 +1,92 @@
+{
+ "key": "pramana-sastra",
+ "term": "pramāṇa-śāstra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:50:20+00:00",
+ "status": "ok",
+ "note": "variant=pramāṇa-śāstra; 审定公布名词库=6; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "a-斑点",
+   "en": "a-spot",
+   "source": "电气工程名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "电气工程_导电材料及半导体材料",
+   "subjectName": "导电材料及半导体材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "辅酶A-谷胱甘肽还原酶",
+   "en": "CoA-glutathione reductase",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0161",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_氧化还原酶",
+   "subjectName": "氧化还原酶",
+   "publishYear": "2024",
+   "definition": "催化辅酶A和谷胱甘肽的巯基氧化，形成由二硫键连接的辅酶A和谷胱甘肽，或催化其逆反应的酶。该反应需要NADP+的参与，作为质子转移辅助底物。编号：EC 1.8.1.10。"
+  },
+  {
+   "cn": "辅酶A-二硫键还原酶",
+   "en": "CoA-disulfide reductase",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0164",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_氧化还原酶",
+   "subjectName": "氧化还原酶",
+   "publishYear": "2024",
+   "definition": "以NADH为氢的供体，催化一分子氧化型辅酶A还原成二分子还原型辅酶A及其逆反应的酶。编号：EC 1.8.1.14。"
+  },
+  {
+   "cn": "脂[肪]酰辅酶A-胆固醇酰基转移酶",
+   "en": "acyl-coenzyme A-cholesterol acyltransferase;ACAT",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0256",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_转移酶",
+   "subjectName": "转移酶",
+   "publishYear": "2024",
+   "definition": "分布于细胞内质网，能将脂肪酰辅酶A上的脂肪酰基转移至游离胆固醇/固醇的3位β-羟基上的酶。使胆固醇/固醇酯化储存在胞质溶胶中，在动脉硬化性损伤的发生中其重要作用。编号：EC 2.3.1."
+  },
+  {
+   "cn": "松软岩层",
+   "en": "weak stratum,soft stra-tum",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.176",
+   "subjectFullName": "煤炭科学技术_煤矿开采_矿山压力与岩层控制",
+   "subjectName": "矿山压力与岩层控制",
+   "publishYear": "1996",
+   "definition": "黏结力差、强度低、易风化、有时遇水膨胀、自稳能力差的岩层。"
+  },
+  {
+   "cn": "地层渗漏",
+   "en": "stratigraphic leak; stra-tigraphic leakage",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0465",
+   "subjectFullName": "地球物理学_地壳流体科学_石油与天然气",
+   "subjectName": "石油与天然气",
+   "publishYear": "2022",
+   "definition": "流体通过渗流方式进入或排出地下岩层的作用。"
+  },
+  {
+   "cn": "辅酶A-谷胱甘肽还原酶",
+   "en": "CoA-glutathione reductase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "辅酶A-二硫键还原酶",
+   "en": "CoA-disulfide reductase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

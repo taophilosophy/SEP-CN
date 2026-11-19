@@ -1,0 +1,22 @@
+{
+ "key": "repentance",
+ "term": "repentance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:17:29+00:00",
+ "status": "ok",
+ "note": "variant=repentance; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "位移导纳",
+   "en": "receptance",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.199",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

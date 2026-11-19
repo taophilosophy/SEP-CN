@@ -1,0 +1,702 @@
+{
+ "key": "capabilities",
+ "term": "capabilities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:33:42+00:00",
+ "status": "ok",
+ "note": "variant=capabilities; 审定公布名词库=86; 海峡两岸名词对照库=24; 其他来源数据库=27; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "能力",
+   "en": "capability",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0636",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "组织拥有资源和配置资源的知识和经验。体现在原料采集、产品开发、生产制造及市场营销的各项活动中。"
+  },
+  {
+   "cn": "固有能力",
+   "en": "capability",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.017",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "能动断层",
+   "en": "capable fault",
+   "source": "地质学名词",
+   "wordNumber": "09.07.073",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "距今10ka或35ka以来(美国原子能委员会1973年规定距今30ka或50ka内)有过错动或发生过蠕动，仪器记录到小震活动或有多次历史地震事件记录，而据资料判断在不久的将来仍有可能出现错动的断层。"
+  },
+  {
+   "cn": "实验室能力",
+   "en": "laboratory capability",
+   "source": "农学名词",
+   "wordNumber": "18.075",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "实验场所进行检验检测所需的信息资源、环境、物质、人员、技术和专业知识等方面的满足程度。"
+  },
+  {
+   "cn": "战斗力",
+   "en": "warfighting capability",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.376",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "武装力量遂行作战任务和非战争军事行动的能力。由人、武器装备和人与武器装备的结合等基本要素构成。其强弱取决于人员和武器装备的数量和质量、体制编制的科学化程度、组织指挥和管理的水平、各种保障的能力、军事理"
+  },
+  {
+   "cn": "工程能力",
+   "en": "engineering capability",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.227",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "从事工程活动所需要的一系列能力系统。包括拥有科学知识、技术技能、管理能力，资金筹措能力，信息处理能力，自然资源与人力资源的开发能力，规避风险的能力，攻克壁垒、躲避陷阱的能力，产品的推销与服务能力，解决"
+  },
+  {
+   "cn": "能震断层",
+   "en": "capable earthquake",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0248",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "在地图上标出的、被认为是未来发生震级大于某一特定阈值地震的可能场所的断层。 "
+  },
+  {
+   "cn": "生殖功能",
+   "en": "reproductive capability",
+   "source": "生殖医学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "生殖医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "生物繁衍后代的功能和效能。"
+  },
+  {
+   "cn": "落砂性",
+   "en": "knockout capability",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.130",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_造型材料",
+   "subjectName": "造型材料",
+   "publishYear": "2021",
+   "definition": "表示浇注后型(芯)砂在落砂和清理过程中脱离铸件表面难易程度的性能。"
+  },
+  {
+   "cn": "最大功率",
+   "en": "maximum capability",
+   "source": "电力名词",
+   "wordNumber": "10.039",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "汽轮机在规定的终端参数下,所有调节汽阀完全开启时,发电机出线端所输出的功率。"
+  },
+  {
+   "cn": "能力计算",
+   "en": "capability computing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0106",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "一类高性能计算应用，基于计算密集型或数据密集型需求，强调缩短解题时间，以期得到强大处理能力，主要针对重大挑战性课题。"
+  },
+  {
+   "cn": "实验室能力",
+   "en": "laboratory capability",
+   "source": "核医学名词",
+   "wordNumber": "03.0754",
+   "subjectFullName": "核医学_核医学设备与操作_非显像核医学技术_核医学体外分析",
+   "subjectName": "核医学体外分析",
+   "publishYear": "2018",
+   "definition": "进行检验所需的物质、环境、信息资源，以及人员、技术和专业知识的综合。还包括与其他实验室的比对、外部质量评价或检验程序验证实验的结果，以及测量的确定度、检出限等“软”指标。"
+  },
+  {
+   "cn": "能力表",
+   "en": "capability list",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0162",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "标识主体对所有客体访问权限的列表。"
+  },
+  {
+   "cn": "过程能力",
+   "en": "process capability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0447",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "过程的一组可度量的属性。用以表征其达到目标的能力。"
+  },
+  {
+   "cn": "恢复能力",
+   "en": "recovery capability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1398",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "在软件运行失效且需要重运行并恢复直接受影响数据时，与重建其性能级别和恢复直接受影响数据的能力有关的软件属性。"
+  },
+  {
+   "cn": "吸收能力",
+   "en": "assimilate capability",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0192",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_技术管理",
+   "subjectName": "技术管理",
+   "publishYear": "2016",
+   "definition": "组织识别、消化和应用新信息技术的能力。"
+  },
+  {
+   "cn": "过程能力",
+   "en": "process capability",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0627",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "加工过程(或工序)处于统计控制状态下产品质量特性波动的幅度。"
+  },
+  {
+   "cn": "创新能力",
+   "en": "innovation capability",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0317",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "组织在长期创新活动过程中积累的创新经验、知识、技能和相关资源等组合成的综合能力体系。"
+  },
+  {
+   "cn": "动态能力",
+   "en": "dynamic capability",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0319",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "组织用以整合、构建并重组内外部资源，在不断变化的环境中快速定位的能力。"
+  },
+  {
+   "cn": "感知能力",
+   "en": "perceptive capability",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.036",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "个体对采纳行为过程中的困难和难度的察觉能力。"
+  },
+  {
+   "cn": "能力",
+   "en": "capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "除垢能力",
+   "en": "descaling capability",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地基承载能力",
+   "en": "foundation capability",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "能力制约",
+   "en": "capability constraint",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "性能测试",
+   "en": "capability test",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "承载能力",
+   "en": "bearer capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后备能力",
+   "en": "backup capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "恢复能力",
+   "en": "recovery capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "能力表",
+   "en": "capability list",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "寻址能力",
+   "en": "addressing capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "栈容量",
+   "en": "stack capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "栖地承载力",
+   "en": "habitat capability",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "作战能力",
+   "en": "combat capability",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地力级",
+   "en": "land capability class",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数据管理能力",
+   "en": "data management capability",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "土地可用度",
+   "en": "land use capability",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "故障弱化能力",
+   "en": "fail-soft capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接接入能力",
+   "en": "direct access capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全运行能力",
+   "en": "full operation capability",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "ATM传送能力",
+   "en": "ATM transfer capability\",\"ATC",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "力",
+   "en": "Strength/Capability",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据能力",
+   "en": "data capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融能力",
+   "en": "financial capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云能力",
+   "en": "cloud capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "才",
+   "en": "Talent/Capability/ Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据应用能力",
+   "en": "data application capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景力",
+   "en": "scenario creation capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云应用能力",
+   "en": "cloud application capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云基础设施能力",
+   "en": "cloud infrastructure capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云平台能力",
+   "en": "cloud platform  capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全保护能力",
+   "en": "security protection capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全能力",
+   "en": "data security capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字技术能力建设",
+   "en": "digital technology capability building",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全能力成熟度",
+   "en": "data security capability maturity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府数字服务能力",
+   "en": "government capability for digital service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 36073-2018 数据管理能力成熟度评估模型》",
+   "en": "GB/T 36073-2018 Data management capability maturity assessment model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 37988-2019 信息安全技术 数据安全能力成熟度模型》",
+   "en": "GB/T 37988-2019 Information security technology — Data security capability maturity model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO/IEC 29190-2015 信息技术 安全技术 隐私保护能力评估模型》",
+   "en": "ISO/IEC 29190:2015 Information technology — Security techniques — Privacy capability assessment model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ITU-T Y.3600-2015 大数据 云计算为基础的要求和能力》",
+   "en": "ITU-T Y.3600:2015 Big data — Cloud computing based requirements and capabilities",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乳化能力",
+   "en": "emulsify capability",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.13.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "乳化剂促使乳液形成的能力。通常以配置100g 乳液与所耗用的乳化剂的最少克数之比表示。"
+  },
+  {
+   "cn": "健康治理能力",
+   "en": "health governance capability",
+   "source": "社会医学名词",
+   "wordNumber": "6.2.4",
+   "subjectFullName": "健康治理",
+   "subjectName": "健康治理体系",
+   "publishYear": "2025",
+   "definition": "多元健康治理主体，运用多种治理工具和手段，推动健康治理从理念到行动全过程协同所具备的知识、经验、技能等要素总称。"
+  },
+  {
+   "cn": "服务能力评价",
+   "en": "service capability evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "采用适宜指标集和方法，评价妇幼卫生服务体系或服务提供者能力水平的过程。"
+  },
+  {
+   "cn": "基层服务能力",
+   "en": "primary service capability",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.11",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "基层医疗卫生机构通过整合人力资源、技术设备、服务流程及管理机制，为居民提供安全、有效、便捷、经济的基本医疗和公共卫生服务的能力。其核心在于通过系统性能力建设，确保基层卫生服务在可及性、质量、效率和公平"
+  },
+  {
+   "cn": "军事作业能力",
+   "en": "military operational capability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军人在从事劳动过程中，完成特定工作的能力，或在不改变作业质量指标的条件下，尽可能长时间地维持一定作业水平的能力。"
+  },
+  {
+   "cn": "检测能力指导值",
+   "en": "detection capability guideline value",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.17",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "与科学、法律或其他要求相对应的有关检测能力的值，计划通过比较测量程序的检测限来评估。这个值可能基于实验室的历史数据、经验或行业标准确定，并用于指导实验室在特定条件下的测量工作。‌"
+  },
+  {
+   "cn": "资源和能力评估",
+   "en": "evaluation of resource and capability",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "对服务对象系统的优势与资源状况进行评估，包括服务对象参与解决问题的动机强度、学习能力、资源和时间等。"
+  },
+  {
+   "cn": "军事作业能力评价",
+   "en": "evaluation of military operational capability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "对军人的军事作业能力进行评定和分级。"
+  },
+  {
+   "cn": "军事脑力作业能力评价",
+   "en": "evaluation of military mental work capability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "对军人的军事脑力作业能力进行评定和分级。"
+  },
+  {
+   "cn": "军事体力作业能力评价",
+   "en": "evaluation of military physical work capability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "对军人的军事体力作业能力进行评定和分级。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

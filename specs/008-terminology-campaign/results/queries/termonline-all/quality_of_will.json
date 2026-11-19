@@ -1,0 +1,782 @@
+{
+ "key": "quality of will",
+ "term": "quality of will",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:52:20+00:00",
+ "status": "ok",
+ "note": "variant=quality of will; 审定公布名词库=10000; 海峡两岸名词对照库=8086; 其他来源数据库=1927; 预公布名词数据库=2778; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "行为医学名词",
+   "wordNumber": "4.096",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体有选择性地在自己的活动中设置一定目的，并为达到目的而自觉决定和组织自己行为的心理状态。"
+  },
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "精神医学名词",
+   "wordNumber": "02.181",
+   "subjectFullName": "精神医学_症状与体征_意志行为障碍症状",
+   "subjectName": "意志行为障碍症状",
+   "publishYear": "2019",
+   "definition": "推动人们采取各种行动以达到某种预定目标的心理活动。"
+  },
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "计划生育名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "人们自觉地确定目标，并克服困难，用自己的行动去实现目标的心理过程。"
+  },
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "心理学名词",
+   "wordNumber": "02.745",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体有选择性地在自己的活动中设置一定目的，并为达到该目的而自觉决定和组织自己的行为的心理过程。"
+  },
+  {
+   "cn": "志",
+   "en": "will",
+   "source": "中医药学名词",
+   "wordNumber": "03.402",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "志向。"
+  },
+  {
+   "cn": "任性",
+   "en": "willful",
+   "source": "行为医学名词",
+   "wordNumber": "18.017",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为障碍",
+   "subjectName": "儿童行为障碍",
+   "publishYear": "2022",
+   "definition": "为满足自己的欲望或达到不正当目的，听凭秉性行事，无所顾忌、恣意放纵的行为。"
+  },
+  {
+   "cn": "自由意志",
+   "en": "free will",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.587",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "人们依照其拥有的条件去决定是否做一件事情的能力。它拥有对人自身的最高管理权限。在伦理学中，自由意志意味着个人在道义上要对自己的行为负责；在科学领域，自由意志意味着身体的动作，包括大脑在内，不全由物理因"
+  },
+  {
+   "cn": "生前预嘱",
+   "en": "living will",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.149",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "人们在健康或意识清楚时签署的，用于说明在不可治愈的伤病末期或临终时要求或不要求使用哪些医疗护理的具有法律效力的指示文件。"
+  },
+  {
+   "cn": "意志",
+   "en": "will;volition",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.195",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体依靠主观能动性有计划、有目标地完成一项活动的能力。"
+  },
+  {
+   "cn": "性意志",
+   "en": "sex will",
+   "source": "行为医学名词",
+   "wordNumber": "12.001",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "自我意识调节性行为的能力。"
+  },
+  {
+   "cn": "意志训练",
+   "en": "will training",
+   "source": "心理学名词",
+   "wordNumber": "14.070",
+   "subjectFullName": "心理学_运动心理学",
+   "subjectName": "运动心理学",
+   "publishYear": "2014",
+   "definition": "旨在提高自觉性、独立性、果断性、坚韧性等意志品质的训练。"
+  },
+  {
+   "cn": "道德意志",
+   "en": "moral will",
+   "source": "教育学名词",
+   "wordNumber": "01.214",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "个体在道德实践过程中，为达成预定道德目的，自觉地克服困难和障碍，坚持或改变道德行为方式而产生的心理状态。"
+  },
+  {
+   "cn": "樱会",
+   "en": "Sakura Will",
+   "source": "世界历史名词",
+   "wordNumber": "04.0111",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东北亚",
+   "subjectName": "东北亚",
+   "publishYear": "2012",
+   "definition": "1930年秋，日本建立的以陆军省、参谋本部部分年轻军官为主的法西斯秘密团体。"
+  },
+  {
+   "cn": "意志被替代妄想",
+   "en": "delusion of replacement of will",
+   "source": "精神医学名词",
+   "wordNumber": "02.137",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者感到自己的意志被别的力量或机构有意替代的一种精神病理状态。这种体验是被动的，不受自己意识控制，但甚为憎恶。"
+  },
+  {
+   "cn": "村民意愿",
+   "en": "opinion of villagers,villagers’ will",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.303",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "村民对村庄集体事务及未来发展的看法、想法与愿望。"
+  },
+  {
+   "cn": "民意党",
+   "en": "People's Will",
+   "source": "世界历史名词",
+   "wordNumber": "05.0200",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄国革命民粹派组织，1879年8月在彼得堡成立。主张推翻专制制度。采取恐怖活动。1881年以后遭到大规模逮捕，思想上和组织上产生危机。"
+  },
+  {
+   "cn": "肾藏志",
+   "en": "kidney storing will",
+   "source": "中医药学名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "“志”指志向，属精神活动。志虽出于心，但其坚定不移，须依赖于人体精气的充盛。肾藏精，是一身精气之根。肾精充足，志方能坚。"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "急救医学名词",
+   "wordNumber": "03.868",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "不同文化体系和价值体系中的个人对于他们的目标、期望、标准及与其所关心的事情有关的生存状况的体验。"
+  },
+  {
+   "cn": "质量成本",
+   "en": "cost of quality",
+   "source": "风景园林名词",
+   "wordNumber": "03.0234",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "用于保证和提高工程质量、景观效果，防止工程成果低于合同标准而发生的各项措施费用的总和。"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.145",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "一个人的健康状况、舒适度以及其参与、享有生活所能够达到的程度。在卫生保健领域其被视为包括多个层面，即情感、身体、物质和社会幸福等。"
+  },
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自由意志",
+   "en": "free will",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生活质量",
+   "en": "quality of life",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生活质量",
+   "en": "quality of life",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "航摄质量",
+   "en": "quality of aerophotography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "工作生活质量",
+   "en": "quality of worklife\",\"QWL",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "服务质量",
+   "en": "quality of service\",\"QoS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "品质检验证书",
+   "en": "inspection certificate of quality",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "污水水质",
+   "en": "water quality of sewage",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "底质",
+   "en": "quality of the bottom",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耐波性衡准",
+   "en": "criteria of seakeeping qualities",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "品质",
+   "en": "quality\",\"Q",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空气质量",
+   "en": "air quality",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保证质量",
+   "en": "guaranteed quality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "产品质量",
+   "en": "product quality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "环境质量",
+   "en": "environmental quality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "大气质量",
+   "en": "air quality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "进料质量",
+   "en": "feed quality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "意志学说",
+   "en": "will theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民心",
+   "en": "Will of the People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天志",
+   "en": "The Will of Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "客户身份意愿真实性",
+   "en": "authenticity of customer identity and will",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量",
+   "en": "data quality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人生自古谁无死，",
+   "en": "Everyone will one day die;",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST R 55387-2012 互联网接入服务质量 质量指标》",
+   "en": "GOST R 55387-2012 Quality of the Internet access service — Quality indices",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链遗嘱",
+   "en": "wills and testaments on the blockchain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空气质量指数",
+   "en": "Air Quality Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量标准",
+   "en": "data quality standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量模型定义",
+   "en": "quality model definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高质量发展",
+   "en": "high-quality development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提高脱贫质量",
+   "en": "enhancing the quality of poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全国高质量发展样板区",
+   "en": "national pacesetter of high-quality development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "程器",
+   "en": "Assessment of One's Overall Qualities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "恃德者昌，恃力者亡",
+   "en": "Those Who Rely on Virtue Will Thrive; Those Who Rely on Force Will Perish.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公意",
+   "en": "general will",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "全体公民，即主权者的共同利益的表达。卢梭借此去定义有别于单个人的特殊意志的、指向所有人的共同利益的那种意志。"
+  },
+  {
+   "cn": "国家意志",
+   "en": "state will",
+   "source": "马克思主义",
+   "wordNumber": "03.0082",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反映统治阶级的经济统治和政治统治的利益诉求。在阶级社会中，统治阶级将自己的根本利益和集体诉求上升为国家意志，并通过国家这一统治阶级的联合力量和强制机关加以实现。"
+  },
+  {
+   "cn": "人民意志",
+   "en": "peoples will",
+   "source": "马克思主义",
+   "wordNumber": "03.0147",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "广大人民群众的利益、愿望和要求。民主是人民意志的一种实现形式。但在奴隶社会、封建社会和资本主义社会生产资料私有制占统治地位和少数人成为统治阶级的时代，人民的意志并无法以“真正民主”或“实质民主”的形态"
+  },
+  {
+   "cn": "生前预嘱",
+   "en": "living will",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.041",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "属于遗嘱的一种特殊形式。具有完全民事行为能力的患者，在其意识清楚时，为自己在丧失意识或行为能力时，预先安排临终前后有关事宜所表达的指示性意愿或签署的指示性文件。"
+  },
+  {
+   "cn": "道德意志",
+   "en": "moral will",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0190000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在做出伦理决策和实施伦理行为过程中，自觉克服内部困难和外部障碍的顽强坚持精神。作为构成个体道德品质的因素之一，是道德认识向道德行为转化的关键。"
+  },
+  {
+   "cn": "生存质量",
+   "en": "quality of life",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一种测量患者健康结果的指标。其测量范围超越了传统的死亡率和患病率，还包括生理、功能、社会活动、认知、情感、睡眠和休息、精力和活动、健康感知和总体生存满意度等多个维度的评估。"
+  },
+  {
+   "cn": "生存质量",
+   "en": "quality of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.045",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "全面评价个体或群体生存优劣、好坏的概念。主要侧重于对人的物质生活以及精神文化等需求满足程度和环境状况的评价。"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "社会医学名词",
+   "wordNumber": "5",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.9.6",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "个体在不同文化和价值体系中，对其生活目标、期望、标准及所关心事情有关的生活状态的主观体验。"
+  },
+  {
+   "cn": "质",
+   "en": "quality",
+   "source": "马克思主义",
+   "wordNumber": "01.0076",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“量”相对。一事物与其他事物相区别的内在规定性。事物的质是由事物内部的特殊矛盾决定的。质是认识事物的基础。"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life,QoL",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "生存质量（quality of life,QoL）”。包括不同的文化和价值体系中的个体对与他们的生活目标、期望、标准，以及所关心事情有关的生活状态的体验，包括生理状况、心理状况、独立能力、社会关系、生"
+  },
+  {
+   "cn": "生命质量测量工具",
+   "en": "quality of life instrument",
+   "source": "社会医学名词",
+   "wordNumber": "5.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "用来评价个体自报告生命质量的条目集合。"
+  },
+  {
+   "cn": "产品卫生质量",
+   "en": "hygienic quality of product",
+   "source": "消毒学",
+   "wordNumber": "5.2.6",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品质量中与卫生健康有关的部分，一般通过产品的理化指标、微生物指标和安全性指标来体现。"
+  },
+  {
+   "cn": "人际关系质量",
+   "en": "quality of interpersonal relationship",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校心理社会环境",
+   "subjectName": "学校心理社会环境",
+   "publishYear": "2025",
+   "definition": "学校中学生因交往而构成的相互联系的社会关系的总和。"
+  },
+  {
+   "cn": "生命质量论",
+   "en": "quality of life theory",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.024",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "主张根据人的健康程度、治愈希望、预期寿命、智力状况等自然素质的优劣、高低，对人的生命采取不同对待方式的理论。强调不应单纯追求生命的数量，而是应关注生命的生存质量。"
+  },
+  {
+   "cn": "卫生服务质量",
+   "en": "quality of health service",
+   "source": "社会医学名词",
+   "wordNumber": "8.5.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务提供",
+   "publishYear": "2025",
+   "definition": "卫生服务提供者所提供的服务在满足卫生服务利用者需要、期望和标准方面的程度，包括服务的安全性、有效性和满意度等方面。"
+  },
+  {
+   "cn": "生命质量评价",
+   "en": "quality of life assessment",
+   "source": "社会医学名词",
+   "wordNumber": "5.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量具有一定生命数量的人在一定时点上的生命质量表现。常见测量方法有访谈法、主观报告法、症状定式检查法、标准化量表测定。标准化量表测定是主流。"
+  },
+  {
+   "cn": "品质因数",
+   "en": "quality factor",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "依据授予物质能量的带电粒子的相对生物学效应，对特定位置上软组织吸收剂量施加修正的一个权重。"
+  },
+  {
+   "cn": "品质指数",
+   "en": "quality index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.34",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "X辐射中，对10 cm×10 cm的辐射野，在体模内沿辐射束轴于20 cm深度处和10 cm深度处所测量的吸收剂量之比值。"
+  },
+  {
+   "cn": "质量管理",
+   "en": "quality management",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "在质量方面的指挥和控制活动，通常包括制定质量方针和质量目标以及质量策划、质量控制、质量保证和质量改进。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

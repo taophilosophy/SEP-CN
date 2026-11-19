@@ -1,0 +1,792 @@
+{
+ "key": "parity weight monism",
+ "term": "Parity Weight Monism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:16:26+00:00",
+ "status": "ok",
+ "note": "variant=Parity Weight Monism; 审定公布名词库=5062; 海峡两岸名词对照库=1917; 其他来源数据库=460; 预公布名词数据库=393; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "source": "心理学名词",
+   "wordNumber": "04.008",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "认为世界只有一个本原的哲学学说。如唯心主义一元论认为世界的本原是精神，物质是派生的。"
+  },
+  {
+   "cn": "逻辑一元主义",
+   "en": "logical monism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.282",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于有多少个正确的逻辑的一种哲学立场。认为正确的逻辑只有一个。相对的立场是逻辑多元主义。"
+  },
+  {
+   "cn": "异常一元论",
+   "en": "anomalous monism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.568",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "由D. 戴维森（D. Davidson）提出。旨在调和三个全然不相容的原理（互为因果作用原理、因果性的规律性原理、精神现象的异常论），断言一切事件都是物理的，即心理事件与物理事件同一，心理事件不可还原"
+  },
+  {
+   "cn": "01.37宇称",
+   "en": "parity",
+   "source": "核科学技术名词",
+   "wordNumber": "1.037",
+   "subjectFullName": "核科学技术_核物理_核物理基础类",
+   "subjectName": "核物理基础类",
+   "publishYear": "2024",
+   "definition": "描述粒子在空间反演(r→−r)下变换性质的相乘性量子数。是粒子的内禀属性之一，常用P表示。如果描述某一粒子的波函数在空间反演变换下改变符号，则该粒子具有奇宇称(P=−1)；如果波函数在空间反演变换下保"
+  },
+  {
+   "cn": "宇称",
+   "en": "parity",
+   "source": "物理学名词",
+   "wordNumber": "06.0671",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "产次",
+   "en": "parity",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.055",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "C 宇称",
+   "en": "C-parity,charge-parity",
+   "source": "物理学名词",
+   "wordNumber": "09.1506",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "奇偶性",
+   "en": "parity,odevity",
+   "source": "数学名词",
+   "wordNumber": "04.1831",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "货币含金量",
+   "en": "gold parity",
+   "source": "经济学名词",
+   "wordNumber": "12.040",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "一个国家通过立法程序对主币规定的所含的纯金量。通常用“克”来表示。 总的来说就是以国际购买力来决定的，受到该货币发行国经济状况和所创造出来的财富与所发行货币多少的比例影响。"
+  },
+  {
+   "cn": "比价复归",
+   "en": "parity recurrence",
+   "source": "经济学名词",
+   "wordNumber": "15.038",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "经过一定时期的变动之后，商品的比价关系又重新回到调整之前原有状态的现象。在中国计划经济时期，通常出现矿产品和农产品对于加工品比价较低的情况。当程度严重时，国家不得已对这种比价关系进行调整。但由于体制固"
+  },
+  {
+   "cn": "奇宇称",
+   "en": "odd parity",
+   "source": "物理学名词",
+   "wordNumber": "06.0201",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "偶宇称",
+   "en": "even parity",
+   "source": "物理学名词",
+   "wordNumber": "06.0200",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇称守恒",
+   "en": "parity conservation",
+   "source": "物理学名词",
+   "wordNumber": "06.0672",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇称算符",
+   "en": "parity operator",
+   "source": "物理学名词",
+   "wordNumber": "06.0578",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电荷宇称",
+   "en": "charge parity",
+   "source": "物理学名词",
+   "wordNumber": "09.1345",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇称破坏",
+   "en": "parity violation",
+   "source": "物理学名词",
+   "wordNumber": "09.1380",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "组合宇称",
+   "en": "combined parity",
+   "source": "物理学名词",
+   "wordNumber": "09.1363",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇称不守恒",
+   "en": "parity nonconservation",
+   "source": "物理学名词",
+   "wordNumber": "06.0673",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "G 宇称",
+   "en": "G-parity",
+   "source": "物理学名词",
+   "wordNumber": "09.1507",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "内禀宇称",
+   "en": "intrinsic parity",
+   "source": "物理学名词",
+   "wordNumber": "09.0240",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "奇偶性",
+   "en": "parity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "奇偶性",
+   "en": "parity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "奇偶[性]",
+   "en": "parity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "品牌等同",
+   "en": "brand parity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "白银平价",
+   "en": "silver parity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "对等原则",
+   "en": "parity principle",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "固定平价",
+   "en": "fixed parity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际比价",
+   "en": "international parity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "滑动平价",
+   "en": "sliding parity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "黄金平价",
+   "en": "gold parity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币平价",
+   "en": "currency parity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币平价",
+   "en": "monetary parity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "间接平价",
+   "en": "indirect parity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "利息平价",
+   "en": "interest parity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "每日平价",
+   "en": "daily parity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "美元平价",
+   "en": "dollar parity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "平衡关税",
+   "en": "parity duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "平价",
+   "en": "parity price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "平价比率",
+   "en": "parity rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抗拉力",
+   "en": "weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight classification\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight classification\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight class\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加重",
+   "en": "load\",\"weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最轻量级",
+   "en": "bantam weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重限制",
+   "en": "weight limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拉力",
+   "en": "draw weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配重",
+   "en": "balancing weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重限制",
+   "en": "weight limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球棒重量",
+   "en": "bat weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起始重量",
+   "en": "starting weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举重运动员",
+   "en": "weight lifter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配重鞍褥",
+   "en": "weight cloth",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配重",
+   "en": "extra weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重级别",
+   "en": "bodyweight category\",\"weight category\",\"weight division",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法律一元论",
+   "en": "legal monism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与法律多元论相对应的概念，即以国家为根本立足点和基本价值取向来制定相应的法律，其核心判断是：法律是国家的附属物（或最多是伴生物），法产生于国家，法是实现国家职能的手段，没有国家就没有法。"
+  },
+  {
+   "cn": "产次",
+   "en": "parity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "妊娠≥28周的分娩次数，包括活产、死产或死胎分娩。"
+  },
+  {
+   "cn": "固形物重",
+   "en": "drained weight",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.4",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "罐头经杀菌处理后，去除液体介质后所剩余的全部固体内容物的质量。"
+  },
+  {
+   "cn": "片重",
+   "en": "tablet weight",
+   "source": "消毒学",
+   "wordNumber": "6.1.14.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "每片消毒剂片剂的质量。"
+  },
+  {
+   "cn": "称重法",
+   "en": "weight method",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.10",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过比较清洗前后污染物重量来评价清洗效果的方法。"
+  },
+  {
+   "cn": "胎儿体重",
+   "en": "fetal weight",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "胎儿的重量。通常通过测量孕妇子宫底高度和超声测量胎儿顶臀长度、双顶径、头围、腹围、股骨长度、肱骨长度等进行估算。"
+  },
+  {
+   "cn": "体重",
+   "en": "body weight",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "称量得到的身体重量。是营养状况评定中最简单又重要的指标。"
+  },
+  {
+   "cn": "出生体重",
+   "en": "birth weight",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "新生儿出生后1小时内的体重。"
+  },
+  {
+   "cn": "伤残权重",
+   "en": "disability weight",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.6",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "根据短暂性失能到永久残疾的不同程度将残疾/失能赋予不同的权重值，范围在0-1 之间，0 代表完全健康，1 代表死亡。"
+  },
+  {
+   "cn": "性别平等指数",
+   "en": "gender parity index，GPI",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "联合国开发计划署制定的人类发展指数中的一项，用来衡量社会经济发展中的性别平等状况，包括健康、教育、收入等方面，为妇女数值除以男子数值的比率。相关指标认为，这一比率越接近1，两性之间的性别平等程度就越高"
+  },
+  {
+   "cn": "失重率",
+   "en": "weight loss rate",
+   "source": "消毒学",
+   "wordNumber": "6.3.3.1.5",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "金属样片除去腐蚀产物并清洗干燥后损失的重量与对照样片的比率。"
+  },
+  {
+   "cn": "孕期增重",
+   "en": "gestational weight gain",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "孕妇体重在孕前体重基础上的增加值。"
+  },
+  {
+   "cn": "孕期体重管理",
+   "en": "pregnancy weight management",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.1.7",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "整个怀孕期间根据每位孕妇的身高、体重、职业及孕期产检的状况，通过医师进行营养评估、饮食和运动等生活方式指导、定期孕期检查及心理干预等各种方法来制定孕妇个体化体重增长曲线的服务过程。"
+  },
+  {
+   "cn": "体型匀称",
+   "en": "weight by stature",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.19",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "体形（形态）发育的比例关系，即一定身高的相应体重增长范围。"
+  },
+  {
+   "cn": "生理性体重下降",
+   "en": "physiological weight loss",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "婴儿出生后未能立即进食，或进食量少，加上胎粪排出，尿液、汗液等的水分丧失等因素，造成的暂时性体重下降。"
+  },
+  {
+   "cn": "产后体重滞留",
+   "en": "postpartum weight retention",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.8",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "由妊娠引起的产后一段时间内（一般指产后一年）体重高于孕前的状态（体重差值在2.5千克以上）。"
+  },
+  {
+   "cn": "严重性权重因子",
+   "en": "severity weight factor",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "在疾病负担评估中根据疾病的严重性赋予不同的权重值，范围在0-1 之间。"
+  },
+  {
+   "cn": "辐射权重因数",
+   "en": "radiation weighting factor",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "在放射防护中，表示不同类型辐射的随机效应的因数。符号为wR。"
+  },
+  {
+   "cn": "组织权重因数",
+   "en": "tissue weighting factor",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.6",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "在放射防护中，用于考量不同器官或组织对发生辐射随机效应的不同敏感性的因数。符号为wT。"
+  },
+  {
+   "cn": "组织权重因子",
+   "en": "tissue weighting factor",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.17",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "对组织或器官的当量剂量进行修正的因子，用WT 表示。每个WT 均小于1，对射线越敏感的组织，WT越大，所有组织的权重因子的总和为1。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

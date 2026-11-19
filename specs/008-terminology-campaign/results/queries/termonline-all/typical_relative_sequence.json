@@ -1,0 +1,672 @@
+{
+ "key": "typical relative sequence",
+ "term": "typical relative sequence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:11:08+00:00",
+ "status": "ok",
+ "note": "variant=typical relative sequence; 审定公布名词库=2295; 海峡两岸名词对照库=972; 其他来源数据库=42; 预公布名词数据库=88; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "典型景观",
+   "en": "typical landscape",
+   "source": "风景园林名词",
+   "wordNumber": "04.0286",
+   "subjectFullName": "风景园林_风景名胜_风景名胜保护和规划",
+   "subjectName": "风景名胜保护和规划",
+   "publishYear": "2025",
+   "definition": "最能代表风景区景观特征的风景资源。"
+  },
+  {
+   "cn": "典型症状",
+   "en": "typical symptom",
+   "source": "兽医学名词",
+   "wordNumber": "13.309",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "能反映疾病临床特征的症状。"
+  },
+  {
+   "cn": "典型报道",
+   "en": "typical coverage",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.097",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "对具有代表性的，有普遍意义的人物、事件等所作的新闻报道。"
+  },
+  {
+   "cn": "典型草原",
+   "en": "typical steppe ",
+   "source": "草学名词",
+   "wordNumber": "2.0021",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "典型调查",
+   "en": "typical investigation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.018",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "出版部门根据特定的调查提纲，选择某类读者对象，了解读者对出版物的反应和需要的出版活动。"
+  },
+  {
+   "cn": "典型水痘",
+   "en": "typical varicella",
+   "source": "感染病学名词",
+   "wordNumber": "03.0253",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "水痘-带状疱疹病毒感染所致的急性传染病。多在接触后10～20天发病。发疹迅速，分批出现，向心性分布，各期皮疹同时存在，包括红色斑丘疹、疱疹、痂疹和脱痂，脱痂后一般不留瘢痕。"
+  },
+  {
+   "cn": "典型调查",
+   "en": "typical survey",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.106",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "在对某事物做全面分析的基础上，根据调查目的选择有代表性的典型，进行深入细致调查的方法。是一种非随机抽样的方法。"
+  },
+  {
+   "cn": "标准层",
+   "en": "typical floor",
+   "source": "建筑学名词",
+   "wordNumber": "02.0013",
+   "subjectFullName": "建筑学_建筑类型及组成_通用建筑类型及组成",
+   "subjectName": "通用建筑类型及组成",
+   "publishYear": "2014",
+   "definition": "平面布置相同的楼层。"
+  },
+  {
+   "cn": "典型例证",
+   "en": "typical example",
+   "source": "语言学名词",
+   "wordNumber": "06.082",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "辞书中能体现作为词头的字、词、短语的意义、搭配、句法、语用等各方面典型特征的语例。"
+  },
+  {
+   "cn": "正水",
+   "en": "typical anasarca",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0950",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "以全身浮肿，尿少，腹满而喘等呈进行性发展为主要表现的水肿病。"
+  },
+  {
+   "cn": "典型寄主",
+   "en": "typical host",
+   "source": "生态学名词",
+   "wordNumber": "05.178",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "被另一种生物侵入体内或体表吸取营养而不被致死的生物。"
+  },
+  {
+   "cn": "典型草原",
+   "en": "typical steppe",
+   "source": "地理学名词",
+   "wordNumber": "06.170",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "温带寒冷、半干旱气候条件下，多年生、旱生丛生禾草和杂类草占优势的植被类型。"
+  },
+  {
+   "cn": "典型年",
+   "en": "typical year",
+   "source": "地理学名词",
+   "wordNumber": "05.072",
+   "subjectFullName": "地理学_水文学",
+   "subjectName": "水文学",
+   "publishYear": "2006",
+   "definition": "在有实测资料的年份中，选出水情特征具有代表性的某些年作为典型，概括长期的径流变化特征，并以此作为计算的依据。"
+  },
+  {
+   "cn": "正水",
+   "en": "typical anasarca",
+   "source": "中医药学名词",
+   "wordNumber": "010.114",
+   "subjectFullName": "中医药学_内科疾病_肾膀胱疾病",
+   "subjectName": "肾膀胱疾病",
+   "publishYear": "2004",
+   "definition": "以浮肿，尿少，血压高等呈进行性发展为主要表现的水肿病。"
+  },
+  {
+   "cn": "典型日光",
+   "en": "typical daylight",
+   "source": "电气工程名词",
+   "wordNumber": "22.061",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "典型年",
+   "en": "typic year",
+   "source": "电力名词",
+   "wordNumber": "01.702",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "在水文系列中,水文特征接近设计值,以其时空分布作为设计依据的年份。"
+  },
+  {
+   "cn": "典型失神发作",
+   "en": "typical absence seizure",
+   "source": "神经外科学名词",
+   "wordNumber": "10.051",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_疼痛",
+   "subjectName": "疼痛",
+   "publishYear": "2026",
+   "definition": "突发突止，表现为动作突然中止或明显变慢、意识障碍，伴或不伴轻微运动症状的癫痫发作类型。发作通常持续5～20秒（＜30秒）。约90%的典型失神患者可被过度换气诱发，主要见于儿童和青少年。"
+  },
+  {
+   "cn": "典型地质构造",
+   "en": "typical geological structure",
+   "source": "风景园林名词",
+   "wordNumber": "04.0101",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "构造变动在岩层和岩体中遗留下来的典型构造形迹。"
+  },
+  {
+   "cn": "温性典型草原",
+   "en": "temperate typical steppe ",
+   "source": "草学名词",
+   "wordNumber": "3.0045",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "高寒典型草原",
+   "en": "alpine typical steppe ",
+   "source": "草学名词",
+   "wordNumber": "3.0049",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "典型新星",
+   "en": "typical nova",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "典型草原",
+   "en": "typical steppe",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "典型年",
+   "en": "typical year",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "典型性效应",
+   "en": "typicality effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关系调",
+   "en": "relative",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "典型图形平差",
+   "en": "adjustment of typical figures",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "标准绝缘法兰接头",
+   "en": "typical insulating flange joint",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相对紧张度，相对挺胀度",
+   "en": "relative turgidity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对挺胀度（=相对紧张度）",
+   "en": "relative turgidity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "厚度型",
+   "en": "relative topography",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对日照",
+   "en": "relative sunshine",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对涡度",
+   "en": "relative vorticity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对丰度",
+   "en": "relative abundance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对黑度",
+   "en": "relative blackness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对饱和度",
+   "en": "relative saturation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对吸收率",
+   "en": "relative absorptivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对增益",
+   "en": "relative gain",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对黏度",
+   "en": "relative viscosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对挥发度",
+   "en": "relative volatility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模式微生物基因组测序、数据挖掘及功能解析全球合作计划",
+   "en": "Global Catalogue of Microorganisms 10K Type Strain Sequencing Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 12054-1989 数据处理 转义序列的登记规程》",
+   "en": "GB/T 12054-1989 Data processing — Procedure for registration of escape sequences",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "DeepVariant（可将基因组信息转换成图像进行分析）",
+   "en": "DeepVariant (an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "避孕方法日常使用",
+   "en": "typical use of contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.5",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "使用者通常的避孕行为。基本按照产品或技术的使用说明使用某种避孕方法，但并非每一次都严格遵守，可能因此发生避孕方法使用失误或失败，影响该方法实际的避孕效果。"
+  },
+  {
+   "cn": "相对剥夺",
+   "en": "relative deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "缺乏某种事物的人与拥有这种事物的人相比较，感觉自己应该拥有的东西被剥夺的一种主观感受。由社会心理学家斯托福尔(Samuel Stouffer）等人提出。被广泛应用于社会不平等和社会公正问题讨论。与“绝"
+  },
+  {
+   "cn": "相对剥夺感",
+   "en": "relative deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "人们对自己的现实处境与某种预期或者某种参照物相比较时，对两者之间的差异产生的不满足的消极感受。"
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "社会成员基本生存需求得到满足，没有机会或能力体验当地一定经济社会条件下所公认的生活水准的状态。世界银行《1981年世界发展报告》的描述是：“当某些人、某些家庭或某些群体没有足够的资源去获取他们那个社会"
+  },
+  {
+   "cn": "相对运动",
+   "en": "relative motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0025",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物体对特定参考系而言的相对位置的连续变动，运动是绝对的；但从不同的参考系观察运动的情况是不一样的。"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0210",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的相对性。(1)从整个物质世界来说，任何真理只是对无限宇宙的一个部分、一个方面的正确认识。世界上尚有许多事物、方面没有被认识或未被完全认识。(2)从某一特定事物来说，任何真理性认识，只是对它的某些"
+  },
+  {
+   "cn": "相对工资",
+   "en": "relative wage",
+   "source": "马克思主义",
+   "wordNumber": "02.0148",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“绝对工资”相对应。一国工人单位时间的工资与外国工人单位时间工资的比值。在国际贸易理论中，决定各国之间诸类贸易问题的多是各国的相对工资水平，而非绝对工资水平。同样，在说明一国工资水平对国际贸易的影响"
+  },
+  {
+   "cn": "相对贫困化",
+   "en": "relative pauperization",
+   "source": "马克思主义",
+   "wordNumber": "02.0171",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义社会中无产阶级在社会国民收入中所得份额相对下降的趋势。随着劳动生产率的提高，使工人工作日中的必要劳动时间缩短，剩余劳动时间延长，因而剩余价值率和剩余价值量不断提高，无产阶级的收入在整个国民收入"
+  },
+  {
+   "cn": "相对危险度",
+   "en": "relative risk",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.39",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "一种反映暴露与发病（死亡）关联强度的指标，表明暴露组发病（死亡）的危险是对照组的多少倍，通常包括率比和危险度比。"
+  },
+  {
+   "cn": "相对密度",
+   "en": "relative density",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "一定温度下，一定体积的香料或香精的质量与相同温度下同样体积的蒸馏水的质量之比。是香料或香精的主要理化指标之一。"
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "在一定温度下，空气中实际水汽压与同温度下的饱和水汽压的百分比。"
+  },
+  {
+   "cn": "相对静止",
+   "en": "relatively static",
+   "source": "马克思主义",
+   "wordNumber": "01.0026",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质运动的一种特殊状态，标志物质的绝对运动在一定条件下、一定范围内出现的暂时稳定与平衡的状态。"
+  },
+  {
+   "cn": "文化相对性",
+   "en": "cultural relativity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "一个判断文化差异之价值的概念和观念。强调特定的社会、自然环境产生特定的文化。在不同文化中，其行为准则、行为模式之价值必须以该文化系统自身之标准来衡量。"
+  },
+  {
+   "cn": "相对危险",
+   "en": "relative risk，RR",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "反映暴露与发病（死亡）关联强度的指标。表明暴露组发病（死亡）的危险是对照组的倍数，通常包括率比和危险度比。"
+  },
+  {
+   "cn": "相对探测效率",
+   "en": "relative detection efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "在探测器探头前表面距离为25cm处，HPGe探测器与标准的圆柱形NaI（Tl）闪烁晶体（Φ×h：7.62cm×7.62cm）探测器测量60Co源1332.49keVγ射线的全能峰峰面积的比值。"
+  },
+  {
+   "cn": "相对扩展不确定度",
+   "en": "relative expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.28",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "扩展不确定度除以测量结果的百分率。"
+  },
+  {
+   "cn": "相对均匀分布",
+   "en": "relative uniform distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.31",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素在全身各组织或器官内相对平均的分布。"
+  },
+  {
+   "cn": "相对表面剂量",
+   "en": "relative surface dose",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.41",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "模体表面处于一特定距离时，在模体中辐射束轴上0.5 mm深度处的吸收剂量与最大吸收剂量的比值。"
+  },
+  {
+   "cn": "相对剩余价值",
+   "en": "relative surplus value",
+   "source": "马克思主义",
+   "wordNumber": "02.0123",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在工作日长度不变的条件下，要获取更多的剩余价值就只能通过缩短必要劳动时间，从而相应延长剩余劳动时间的办法来实现。这种通过缩短必要劳动时间，相应地延长剩余劳动时间而生产的剩余价值，叫做相对剩余价值。"
+  },
+  {
+   "cn": "相对过剩人口",
+   "en": "relative surplus population",
+   "source": "马克思主义",
+   "wordNumber": "02.0167",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义社会中相对于资本增值需要而过剩的处于失业、半失业状态的人口。劳动力的供给超过资本对它的需要的相对过剩人口有三种形式：流动过剩人口指短期内失业的工人，主要存在于城市和工业中心；潜在过剩人口指农业"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

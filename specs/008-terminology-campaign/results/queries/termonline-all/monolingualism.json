@@ -1,0 +1,62 @@
+{
+ "key": "monolingualism",
+ "term": "Monolingualism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:47:09+00:00",
+ "status": "ok",
+ "note": "variant=Monolingualism; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "单语人",
+   "en": "monolingual",
+   "source": "语言学名词",
+   "wordNumber": "12.140",
+   "subjectFullName": "语言学_社会语言学_语言接触与双语",
+   "subjectName": "语言接触与双语",
+   "publishYear": "2011",
+   "definition": "只能够使用一种语言的人。"
+  },
+  {
+   "cn": "单语种叙词表",
+   "en": "monolingual thesaurus",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.323",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "只用一种语言标引词的叙词表。"
+  },
+  {
+   "cn": "单语词典学",
+   "en": "monolingual lexicography",
+   "source": "语言学名词",
+   "wordNumber": "06.010",
+   "subjectFullName": "语言学_辞书学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "与“双语词典学”相对。词典学的一个分支。研究单语词典编纂理论以及词典的设计、编纂、使用、评论和历史等。"
+  },
+  {
+   "cn": "单语词典",
+   "en": "monolingual dictionary,monoglot dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.191",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "与“双语词典”相对。词典的一种类型。其词目与释义、例证等都用同一种语言表述。"
+  },
+  {
+   "cn": "单语人",
+   "en": "monolingual",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0124",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "只能够使用一种语言的人。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

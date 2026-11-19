@@ -1,0 +1,82 @@
+{
+ "key": "anthropomorphisms",
+ "term": "anthropomorphisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:28:48+00:00",
+ "status": "ok",
+ "note": "variant=anthropomorphisms; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "拟人论",
+   "en": "anthropomorphism",
+   "source": "心理学名词",
+   "wordNumber": "04.157",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "将非人的事物比拟作人，赋予它们人类特征(包括心理特征)的理论。"
+  },
+  {
+   "cn": "拟人主义",
+   "en": "anthropomorphism",
+   "source": "生态学名词",
+   "wordNumber": "04.040",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "用人类的特征或属性来描述、理解非人类(如动物等)的特征或属性。"
+  },
+  {
+   "cn": "拟人模型",
+   "en": "anthropomorphic model",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.156",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护监测",
+   "subjectName": "放射防护监测",
+   "publishYear": "2014",
+   "definition": "用于计算人体吸收剂量分布的人体数学模型。在这种模型中，人体组织或器官的几何形状用数学式表示。"
+  },
+  {
+   "cn": "假人",
+   "en": "dummy,anthropomorphic dummy",
+   "source": "航空科学技术名词",
+   "wordNumber": "10.083",
+   "subjectFullName": "航空科学技术_航空安全、生命保障系统与航空医学",
+   "subjectName": "航空安全、生命保障系统与航空医学",
+   "publishYear": "2003",
+   "definition": "模拟人体外形、重量、机械特性、生物动力学特性等条件，并装有各类传感器及数据采集存储系统的专供试验用的特制设备。"
+  },
+  {
+   "cn": "拟人论",
+   "en": "anthropomorphism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拟人主义",
+   "en": "anthropomorphism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拟人体模",
+   "en": "anthropomorphic phantom",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.8",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "用于计算人体吸收剂量分布的人体数学模型。在这种模型中，人体组织或器官的几何形状用数学式表示。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

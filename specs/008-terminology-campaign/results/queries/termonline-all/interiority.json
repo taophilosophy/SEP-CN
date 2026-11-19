@@ -1,0 +1,432 @@
+{
+ "key": "interiority",
+ "term": "interiority",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:48:37+00:00",
+ "status": "ok",
+ "note": "variant=interiority; 审定公布名词库=115; 海峡两岸名词对照库=22; 其他来源数据库=5; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "内部",
+   "en": "interior",
+   "source": "数学名词",
+   "wordNumber": "08.0451",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "内纵梁",
+   "en": "interior beam,interior stringer",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.273",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "内部空间",
+   "en": "interior space",
+   "source": "风景园林名词",
+   "wordNumber": "07.0032",
+   "subjectFullName": "风景园林_风景园林建筑_基础知识",
+   "subjectName": "基础知识",
+   "publishYear": "2025",
+   "definition": "建筑物的外围限定性围护实体围合起来的空间。其特点是内向、收敛和向心的。"
+  },
+  {
+   "cn": "太阳内部",
+   "en": "solar interior",
+   "source": "天文学名词",
+   "wordNumber": "09.011",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "太阳对流层及其以下层次，因其辐射被外层吸收，不能直接观测，只能用理论间接研究。"
+  },
+  {
+   "cn": "里证",
+   "en": "interior syndrome",
+   "source": "兽医学名词",
+   "wordNumber": "19.156",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "病邪深入于脏腑、气血、骨髓所致的，病位深、病情重、病程长的证候。"
+  },
+  {
+   "cn": "内壁",
+   "en": "interior wall",
+   "source": "动物学名词",
+   "wordNumber": "5.2597",
+   "subjectFullName": "动物学_无脊椎动物学_苔藓动物门",
+   "subjectName": "苔藓动物门",
+   "publishYear": "2021",
+   "definition": "将先前存在的体腔分隔成个虫、个虫的组成部分或个虫外结构的体壁。"
+  },
+  {
+   "cn": "内部定向",
+   "en": "interior orientation",
+   "source": "测绘学名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "恢复或确定像片内方位元素的作业过程。"
+  },
+  {
+   "cn": "内部[生境]种",
+   "en": "interior species",
+   "source": "植物学名词",
+   "wordNumber": "13.0538",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生活在生境斑块中心区的物种。"
+  },
+  {
+   "cn": "内调焦",
+   "en": "interior focusing",
+   "source": "物理学名词",
+   "wordNumber": "04.0463",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "内切",
+   "en": "interior contact",
+   "source": "物理学名词",
+   "wordNumber": "02.0179",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "内噪声",
+   "en": "interior noise",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0669",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "产品在储存或使用过程中，随着时间的推移，发生材料变质等老化、劣化现象，引起产品质量特性值波动的因素。"
+  },
+  {
+   "cn": "内设计",
+   "en": "interior design",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0667",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "将可控因素与标示因素安排在同一正交表内进行试验的稳健设计。"
+  },
+  {
+   "cn": "室内陈设",
+   "en": "interior display",
+   "source": "建筑学名词",
+   "wordNumber": "09.0368",
+   "subjectFullName": "建筑学_建筑设计_室内设计",
+   "subjectName": "室内设计",
+   "publishYear": "2014",
+   "definition": "运用艺术品、工艺品、书画、盆景、古玩、玩具，家具、灯光、装饰织物、家用电器、日用器皿、插花等装饰，赋予室内空间艺术氛围。"
+  },
+  {
+   "cn": "室内装饰",
+   "en": "interior decoration",
+   "source": "建筑学名词",
+   "wordNumber": "09.0369",
+   "subjectFullName": "建筑学_建筑设计_室内设计",
+   "subjectName": "室内设计",
+   "publishYear": "2014",
+   "definition": "环境艺术的一个门类。运用室内陈设对室内进行美化，满足人们生理和心理需求的工作。"
+  },
+  {
+   "cn": "室内设计",
+   "en": "interior design",
+   "source": "建筑学名词",
+   "wordNumber": "01.0018",
+   "subjectFullName": "建筑学_总论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2014",
+   "definition": "为满足并优化建筑室内使用和审美要求，对室内空间及其界面的造型进行材质选择、色彩搭配、构造处理，以及对家具、陈设、灯具和标识等进行布置和艺术处理的设计。"
+  },
+  {
+   "cn": "室内设计师",
+   "en": "interior designer",
+   "source": "建筑学名词",
+   "wordNumber": "01.0029",
+   "subjectFullName": "建筑学_总论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2014",
+   "definition": "受过相关的专业教育和训练，以室内设计为主要职业的专业人员。"
+  },
+  {
+   "cn": "车身内部",
+   "en": "body interior",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.047",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "车身舱室内的空间。"
+  },
+  {
+   "cn": "内饰件",
+   "en": "interior trim",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.070",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "车身内部的装饰件。"
+  },
+  {
+   "cn": "内墙涂料",
+   "en": "interior coating",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0944",
+   "subjectFullName": "材料科学技术_高分子材料_胶黏剂与涂料_涂料",
+   "subjectName": "涂料",
+   "publishYear": "2011",
+   "definition": "用于建筑物室内装修的涂料的总称。"
+  },
+  {
+   "cn": "内部查看",
+   "en": "interior examination",
+   "source": "航天科学技术名词",
+   "wordNumber": "10.070",
+   "subjectFullName": "航天科学技术_航天发射试验与地面设备",
+   "subjectName": "航天发射试验与地面设备",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "内墙涂料",
+   "en": "interior coating",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "恒星内部",
+   "en": "stellar interior",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "太阳内部",
+   "en": "solar interior",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "内陆水系",
+   "en": "interior drainage",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "内部区域",
+   "en": "interior area",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内部定向",
+   "en": "interior orientation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "内角",
+   "en": "interior angle",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "内部转发",
+   "en": "interior forwarding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内裁剪",
+   "en": "interior clipping",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内环",
+   "en": "interior ring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内像素",
+   "en": "interior pixel",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舱室布置",
+   "en": "interior arrangement",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "内部要素权重",
+   "en": "interior feature weight",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内透视中心",
+   "en": "interior perspective  center",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "像片内方位元素",
+   "en": "elements of interior orientation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "内部网关协议",
+   "en": "interior gateway protocol\",\"IGP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内调焦望远镜",
+   "en": "interfocusing telescope\",\"interior focusing telescope",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "内角或外角法",
+   "en": "interior angle or exterior angle  method",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "自卑感",
+   "en": "inferiority feeling",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自卑情结",
+   "en": "inferiority complex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人数劣势",
+   "en": "numerical inferiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人数劣势",
+   "en": "numerical inferiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

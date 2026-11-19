@@ -1,0 +1,42 @@
+{
+ "key": "misrepresentation",
+ "term": "misrepresentation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:40:33+00:00",
+ "status": "ok",
+ "note": "variant=misrepresentation; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "误表征",
+   "en": "misrepresentation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.668",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "内容理论中一种被主体错误认知的表征。"
+  },
+  {
+   "cn": "招标文件描述现场条件失误",
+   "en": "mispresentation of site condition",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0416",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "在招标文件中对施工现场存在的不利条件虽然已经提出，但严重失实，或其位置差异极大，或其严重程度差异极大而使承包商误入歧途的施工现场条件。"
+  },
+  {
+   "cn": "李代数的诣零表示",
+   "en": "nilrepresentation of a Lie algebra",
+   "source": "数学名词",
+   "wordNumber": "04.1525",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

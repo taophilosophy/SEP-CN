@@ -1,0 +1,482 @@
+{
+ "key": "incoherence al-ghazali",
+ "term": "Incoherence al-Ghazālī",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:21:17+00:00",
+ "status": "ok",
+ "note": "variant=Incoherence al-Ghazālī; 审定公布名词库=209; 海峡两岸名词对照库=42; 其他来源数据库=9; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "非相干性",
+   "en": "incoherence",
+   "source": "光学名词",
+   "wordNumber": "01.536",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "非相干光场或非相干光学系统的光学特性。它包括：光场或系统中各光波彼此独立、互不关联，它们的输入、输出像也是彼此不相干的，输出像是输入像的强度叠加。"
+  },
+  {
+   "cn": "非相干性",
+   "en": "incoherence",
+   "source": "物理学名词",
+   "wordNumber": "04.1284",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非相干",
+   "en": "incoherent",
+   "source": "光学名词",
+   "wordNumber": "01.528",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "两个或两个以上光波不满足相干条件相遇时的光场特性。它包括振幅、相位、强度和偏振态等特性，其各自的振幅、相位和偏振态是各自独立、互不关联的，其光强为各波光强的线性叠加。"
+  },
+  {
+   "cn": "非相干光",
+   "en": "incoherent light",
+   "source": "光学名词",
+   "wordNumber": "01.219",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "不满足相干条件、不能产生干涉现象的光波。例如，基于自发发射机理的发光二极管(LED)所发出的光。"
+  },
+  {
+   "cn": "非相干叠加",
+   "en": "incoherent superposition",
+   "source": "光学名词",
+   "wordNumber": "01.521",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "两个或两个以上光束不满足相干条件相遇时按照光强叠加的现象。它说明在叠加区域总光波的光强为各波单独存在时的线性相加。"
+  },
+  {
+   "cn": "非相干合成",
+   "en": "incoherent synthesis",
+   "source": "光学名词",
+   "wordNumber": "01.523",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "将多个非相干激光束在近场或远场进行合束，获得能量(或功率)累加的过程。"
+  },
+  {
+   "cn": "非相干成像",
+   "en": "incoherent imaging",
+   "source": "光学名词",
+   "wordNumber": "14.045",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "采用非相干光进行照明的成像过程。光学系统传输和处理的基本物理量是光场的强度分布，非相干成像系统是强度的线性系统，满足强度叠加原理。"
+  },
+  {
+   "cn": "非相干叠加",
+   "en": "incoherent superposition",
+   "source": "物理学名词",
+   "wordNumber": "04.1285",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非相干发射",
+   "en": "incoherent emission",
+   "source": "物理学名词",
+   "wordNumber": "04.1281",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非共格界面",
+   "en": "incoherent interface",
+   "source": "冶金学名词",
+   "wordNumber": "07.0137",
+   "subjectFullName": "冶金学_金属学_晶体缺陷",
+   "subjectName": "晶体缺陷",
+   "publishYear": "2019",
+   "definition": "界面两侧的晶体点阵完全不存在连续性的界面。"
+  },
+  {
+   "cn": "非相干产生",
+   "en": "incoherent production",
+   "source": "物理学名词",
+   "wordNumber": "09.1071",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非相干散射",
+   "en": "incoherent scattering",
+   "source": "物理学名词",
+   "wordNumber": "04.0877",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非相干成像",
+   "en": "incoherent imaging",
+   "source": "物理学名词",
+   "wordNumber": "04.1245",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非相干照明",
+   "en": "incoherent illumination",
+   "source": "物理学名词",
+   "wordNumber": "04.1283",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非相干辐射",
+   "en": "incoherent radiation",
+   "source": "物理学名词",
+   "wordNumber": "04.1282",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非相干隧穿",
+   "en": "incoherent tunneling",
+   "source": "物理学名词",
+   "wordNumber": "08.1808",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非共格界面",
+   "en": "incoherent interface",
+   "source": "物理学名词",
+   "wordNumber": "08.0919",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非相干光",
+   "en": "incoherent light",
+   "source": "物理学名词",
+   "wordNumber": "04.1279",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非共格界面",
+   "en": "incoherent interface",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0330",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料组织结构",
+   "subjectName": "材料组织结构",
+   "publishYear": "2011",
+   "definition": "界面两侧的晶体点阵完全不存在连续性的界面。"
+  },
+  {
+   "cn": "非相干雷达",
+   "en": "incoherent radar",
+   "source": "大气科学名词",
+   "wordNumber": "02.240",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "没有采用相干技术(多普勒技术)的雷达的泛称。"
+  },
+  {
+   "cn": "非相干回波",
+   "en": "incoherent echo",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非相干雷达",
+   "en": "incoherent radar",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非共格界面",
+   "en": "incoherent interface",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "非共格析出物",
+   "en": "incoherent precipitate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "非相干检测",
+   "en": "incoherent detection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "思考不连贯",
+   "en": "incoherence of thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非共格晶界",
+   "en": "incoherent grain boundary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阿梅利亚赴舞会",
+   "en": "Amelia al Ballo",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Menotti, Gian Carlo"
+  },
+  {
+   "cn": "几何天平动",
+   "en": "geometric[al] libration",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "章动常数",
+   "en": "nutation[al] constant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "章动椭圆",
+   "en": "nutation[al] ellipse",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "及其他作者，等作者",
+   "en": "et alii\",\"et al.",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "原子层外延",
+   "en": "atomic layer epitaxy\",\"ALE",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "抗淋巴细胞血清",
+   "en": "anti-lymphocyte serum， ALS",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "原子层外延",
+   "en": "atomic layer epitaxy，ALE",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铝镍钴永磁体",
+   "en": "Al-Ni-Co permanent magnet",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铝硅炭砖",
+   "en": "corundum-silicon carbide brick\",\"Al-Si carbon brick",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "金属-氧化铝-氧化物-半导体场效晶体管",
+   "en": "metal-Al2O3-oxide-semiconductor field effect transistor，MAOSFET",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同调",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《计算机科学概论》（〔美〕J.格伦·布鲁克希尔 等）",
+   "en": "Computer Science: An Overview (J. Glenn Brookshear et al., USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《人工智能：一种现代的方法》（〔美〕斯图尔特·罗素 等）",
+   "en": "Artificial Intelligence: A Modern Approach (Stuart J. Rossell et al., USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《大数据时代的国家治理》（〔中〕陈潭 等）",
+   "en": "State Governance in the Big Data Age (Chen Tan et al., China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子相干性",
+   "en": "quantum coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缓存一致性",
+   "en": "cache coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "淀粉样变",
+   "en": "amyloidosis，AL",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.27",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "由多种原因引起的，以多糖蛋白复合体为特征的淀粉样蛋白物质沉积在局部或者全身组织，引起器官肿大及功能障碍为主要表现的综合征。常受侵犯的器官有肾、心、肝、胃肠、舌、脾、神经系统、皮肤等。病理以光镜下呈无定"
+  },
+  {
+   "cn": "大小和卓之乱",
+   "en": "rebellion of Burhan al-Din and Khwaja Jinan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0257",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "清乾隆二十二年（1757）至二十四年（1759）新疆回部伊斯兰教白山派首领波罗尼都、霍集占兄弟发动的叛乱。因兄弟二人为玛罕木特和卓之子，故其乱称为大小和卓之乱。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

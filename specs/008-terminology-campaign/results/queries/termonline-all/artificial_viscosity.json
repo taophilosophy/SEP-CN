@@ -1,0 +1,732 @@
+{
+ "key": "artificial viscosity",
+ "term": "artificial viscosity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:35:05+00:00",
+ "status": "ok",
+ "note": "variant=artificial viscosity; 审定公布名词库=841; 海峡两岸名词对照库=289; 其他来源数据库=41; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "人工黏性",
+   "en": "artificial viscosity",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.396",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "人工黏性",
+   "en": "artificial viscosity",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.187",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "对流场进行数值模拟时，在计算方程中人为地引入类似于黏性(耗散)作用的项，以提高数值计算稳定性和抑制非物理振荡。"
+  },
+  {
+   "cn": "人工黏性",
+   "en": "artificial viscosity",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "黏性",
+   "en": "viscosity",
+   "source": "地质学名词",
+   "wordNumber": "09.02.134",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "流体抵抗变形或阻止相邻流体层产生相对运动的性质。流体抵抗内部速度差扩大的分子内摩擦力。"
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "麻醉学名词",
+   "wordNumber": "01.218",
+   "subjectFullName": "麻醉学_麻醉学基础_循环系统_心血管系统解剖",
+   "subjectName": "心血管系统解剖",
+   "publishYear": "2024",
+   "definition": "液体受内部阻力作用表现出黏滞性的一种度量。在稳态液体中，黏度为剪[切]应力与剪切率的比值。"
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0393",
+   "subjectFullName": "地球物理学_地球动力学_地幔地核动力学",
+   "subjectName": "地幔地核动力学",
+   "publishYear": "2022",
+   "definition": "流体在受到外部剪切力作用时发生形变与流动，其内部以内摩擦的形式产生相应的变形抵抗，这种表征流体内部分子之间发生相对运动时产生的摩擦阻力大小的参量称为流体的黏度。 "
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0317",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_润滑",
+   "subjectName": "润滑",
+   "publishYear": "2021",
+   "definition": "量度流体黏滞性大小的物理量。液体、拟液体或拟固体物质抗流动的体积特性，即受外力作用流动时，分子间所呈现的内摩擦或流动内阻力。"
+  },
+  {
+   "cn": "黏性",
+   "en": "viscosity",
+   "source": "手外科学名词",
+   "wordNumber": "02.0031",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "物体具有的与变形程度成正比的阻止运动的能力。"
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "电力名词",
+   "wordNumber": "01.801",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "表征液体抵抗剪切变形特性的物理量。"
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0288",
+   "subjectFullName": "食品科学技术_食品科学_食品物理_食品流变学特性",
+   "subjectName": "食品流变学特性",
+   "publishYear": "2020",
+   "definition": "在剪切应力和拉伸应力的作用下，液体抗形变的能力。"
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "物理学名词",
+   "wordNumber": "02.0748",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "黏性",
+   "en": "viscosity",
+   "source": "物理学名词",
+   "wordNumber": "02.0751",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0077",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "流体的一种物性。衡量流体黏稠的程度。"
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "生物物理学名词",
+   "wordNumber": "08.029",
+   "subjectFullName": "生物物理学_生物力学与生物流变学_生物力学",
+   "subjectName": "生物力学",
+   "publishYear": "2018",
+   "definition": "对流体受内部阻力作用表现出黏滞性的一种度量。在稳态液体中黏度为剪应力与剪切率梯度之比值。"
+  },
+  {
+   "cn": "黏性",
+   "en": "viscosity",
+   "source": "生物物理学名词",
+   "wordNumber": "08.028",
+   "subjectFullName": "生物物理学_生物力学与生物流变学_生物力学",
+   "subjectName": "生物力学",
+   "publishYear": "2018",
+   "definition": "流体流动时，微团间出现相对运动，流层间产生相对运动内摩擦力的特性。"
+  },
+  {
+   "cn": "黏性",
+   "en": "viscosity",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.007",
+   "subjectFullName": "呼吸病学_肺功能_相关的物理学概念",
+   "subjectName": "相关的物理学概念",
+   "publishYear": "2018",
+   "definition": "流体各部分之间存在内摩擦力的特性。"
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "化学名词",
+   "wordNumber": "04.1716",
+   "subjectFullName": "化学_物理化学_胶体化学",
+   "subjectName": "胶体化学",
+   "publishYear": "2016",
+   "definition": "流体流动阻力的一种量度。对于牛顿流动，等于剪切强变与剪切速度的比值。"
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "计量学名词",
+   "wordNumber": "15.068",
+   "subjectFullName": "计量学_化学_化学测量的量",
+   "subjectName": "化学测量的量",
+   "publishYear": "2015",
+   "definition": "稳态流动中的剪切应力与剪切速率之比。单位是 Pa·s。"
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "建筑学名词",
+   "wordNumber": "14.0878",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "衡量流体内部分子阻滞其质点间相对滑移的内摩擦力(内聚力和附着力的综合作用)大小的物体量。是流体的流动性能指标，其大小取决于流体的性质、温度和压力。"
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "药学名词",
+   "wordNumber": "02.184",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "液体在外力作用下发生相对位移时，分子间力形成的阻力影响了液体的自由流动，这种力的大小称为黏度。"
+  },
+  {
+   "cn": "黏滞性",
+   "en": "viscosity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "黏度",
+   "en": "viscosity",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拉伸黏度",
+   "en": "elongational viscosity\",\"extensional viscosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对黏度",
+   "en": "relative viscosity\",\"viscosity ratio",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "比浓黏度",
+   "en": "reduced viscosity\",\"viscosity number",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "体积黏度",
+   "en": "volume viscosity\",\"volumetric viscosity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "黏胶纤维",
+   "en": "viscose fiber\",\"viscose rayon",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "分子黏性",
+   "en": "molecular viscosity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "涡动黏滞率",
+   "en": "eddy viscosity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动力黏度",
+   "en": "dynamic viscosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黏度数",
+   "en": "viscosity number",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黏度试验",
+   "en": "viscosity test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "剪切黏度",
+   "en": "shear viscosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黏度系数",
+   "en": "viscosity coefficient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "Artificial Intelligence",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工生命",
+   "en": "artificial life",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "Artificial Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工脑",
+   "en": "artificial brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工障碍",
+   "en": "artificial obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工障碍",
+   "en": "artificial obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能芯片",
+   "en": "artificial intelligence chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弱人工智能",
+   "en": "weak artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强人工智能",
+   "en": "strong artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超级人工智能",
+   "en": "super artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可解释的人工智能",
+   "en": "explainable artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "边缘人工智能",
+   "en": "edge artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能术语",
+   "en": "Artificial Intelligence Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能技术",
+   "en": "artificial intelligence (AI) technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欧盟人工智能战略",
+   "en": "Artificial Intelligence Strategy (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能实验室（谷歌）",
+   "en": "Artificial Intelligence Laboratory (Google)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工自然",
+   "en": "artificial nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0145",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类的实践活动改造过的自然，也称人化自然。它的出现是自然发展史的飞跃。人工自然一方面服从自然规律，另一方面凝结了人的本质力量，因而具有社会性，受社会规律的制约和影响。"
+  },
+  {
+   "cn": "人工免疫",
+   "en": "artificial immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.6",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "经人工接种而使机体主动或被动获得免疫力 。"
+  },
+  {
+   "cn": "人工换气",
+   "en": "artificial ventilation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.3.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "采用工具、机械设备等进行强制性对流通风，从而实现室内外空气交换的方式。"
+  },
+  {
+   "cn": "人工授精",
+   "en": "artificial insemination",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "用人工方式将精液注入女性体内以取代性交途径使其妊娠的一种方法。"
+  },
+  {
+   "cn": "人工放射性核素",
+   "en": "artificial radionuclide",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.31",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "不需人工干预，自然界中自然存在的具有放射性的不稳定原子核，能自发地放出射线（如α射线、β射线、γ射线等），通过衰变形成稳定的核素。常见的有²³⁸U、²³²Th 和²³⁵U 等，可通过空气、土壤、水等途"
+  },
+  {
+   "cn": "人工器官移植",
+   "en": "artificial organ transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.007",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过医疗手段，将人工制造的仿生器官、机械装置或生物工程器官植入患者体内，以替代或部分替代天然器官的功能，从而治疗器官衰竭或损伤的技术。"
+  },
+  {
+   "cn": "人工染菌",
+   "en": "artificial inoculating bacterium",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.20",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "实验人员按照试验要求，将一定量的试验微生物涂染于载体或试验对象表面，或直接加入到流体中的过程。"
+  },
+  {
+   "cn": "人工辐射源",
+   "en": "artificial radiation source",
+   "source": "放射卫生学",
+   "wordNumber": "2.2",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "通过人工方法制造和/或伴随带来的辐射源，包括各类放射性同位素和X射线、加速器以及中子发生器等射线装置。"
+  },
+  {
+   "cn": "人工破膜术",
+   "en": "artificial rupture of membrane",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.38",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "采用长针头刺破或钳子夹破胎膜，使羊水缓缓流出，造成子宫体积缩小和先露部位下降，压迫宫颈以反射性引起子宫收缩、加速分娩进程的一项技术，也是引产的一种手段。"
+  },
+  {
+   "cn": "药价虚高",
+   "en": "artificially high drug price",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.2.3.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品市场",
+   "subjectName": "药品市场",
+   "publishYear": "2025",
+   "definition": "全称“药品价格虚高”。药品售价没有遵循价值规律和正常的供求关系，远高于药品的生产制造和流通成本。"
+  },
+  {
+   "cn": "夫精人工授精",
+   "en": "artificial insemination by husband, AIH",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.1.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "用丈夫精液进行的人工授精。"
+  },
+  {
+   "cn": "供精人工授精",
+   "en": "artificial insemination by donor, AID",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.1.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "用供者精液进行的人工授精。"
+  },
+  {
+   "cn": "人工模拟污染物清洗试验",
+   "en": "artificial simulated pollutant cleaning test",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "清洗剂或清洗机对标准模拟污染物（脱色卡）的去除效果的试验方法。"
+  },
+  {
+   "cn": "人工终止妊娠方法",
+   "en": "ways of artificial termination of pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "各种在妊娠早期、中期终止妊娠的方法，包括手术、药物。"
+  },
+  {
+   "cn": "素肉",
+   "en": "artificial meat from vegetable alternative protein, man-made meat from vegetable alternative protein",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.27",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "不包含任何肉类产品、禽类产品或水产品但具有肉类产品外观的食品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

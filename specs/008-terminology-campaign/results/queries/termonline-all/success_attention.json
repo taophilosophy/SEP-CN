@@ -1,0 +1,782 @@
+{
+ "key": "success attention",
+ "term": "success attention",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:23:34+00:00",
+ "status": "ok",
+ "note": "variant=success attention; 审定公布名词库=1063; 海峡两岸名词对照库=445; 其他来源数据库=95; 预公布名词数据库=43; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.011",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "心理活动的指向性。心理活动或意识在某一时刻所处的状态，表现为对一定对象的指向和集中。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "生理学名词",
+   "wordNumber": "03.750",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "精神医学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "精神医学_症状与体征_注意障碍症状",
+   "subjectName": "注意障碍症状",
+   "publishYear": "2019",
+   "definition": "个体的精神活动集中地指向于一定对象的心理现象。不是一种独立的心理过程，与感知觉、记忆和思维等心理过程相互影响。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.212",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "约束认知或心理加工过程，使其指向和集中于有关信息，以增进这些信息加工速度和准确性的过程。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "心理学名词",
+   "wordNumber": "02.464",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "心理活动的指向性。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.181",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "从同时呈现的几个物体或思维序列中选择一个对象的过程。一般是指人们集中于某种特殊内、外环境刺激而不被其他刺激分散的能力。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "风景园林名词",
+   "wordNumber": "12.0036",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "某一地段上一种生物群落被另一种生物群落所取代的过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession ",
+   "source": "草学名词",
+   "wordNumber": "2.0349",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "动物学名词",
+   "wordNumber": "7.0482",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "某一地段上群落由一种类型演变为另一类型的有顺序的更替过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "植物学名词",
+   "wordNumber": "13.0310",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "一定地段上一个植物群落被另外一个植物群落替代的过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "林学名词",
+   "wordNumber": "03.083",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "某一地段上群落由一种类型自然演变为另一类型的有顺序的更替过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0744",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "某一生物群落被另一生物群落所替代的发展过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "生态学名词",
+   "wordNumber": "06.122",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某一地段上群落由一种类型自然演变为另一类型的有顺序的更替过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "地理学名词",
+   "wordNumber": "06.151",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "一个植物群落逐渐被另一个植物群落代替的过程。"
+  },
+  {
+   "cn": "眼球经济",
+   "en": "attention economy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.069",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济",
+   "subjectName": "传媒经济",
+   "publishYear": "2022",
+   "definition": "经营消费者的注意力，并把这种无形资产转换成有形的经济效益或广告价值、资本价值的配置过程。"
+  },
+  {
+   "cn": "不随意注意",
+   "en": "involuntary attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.012",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "由强烈、新颖或感兴趣的事物引发的无预定目的和意志努力的注意。"
+  },
+  {
+   "cn": "随意注意",
+   "en": "voluntary attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.013",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "自觉的、有预定目的、需要一定意志努力的注意。"
+  },
+  {
+   "cn": "选择性注意",
+   "en": "selective attention",
+   "source": "生理学名词",
+   "wordNumber": "03.751",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分配性注意",
+   "en": "divided attention",
+   "source": "生理学名词",
+   "wordNumber": "03.752",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意锁定",
+   "en": "engaging attention",
+   "source": "生理学名词",
+   "wordNumber": "03.753",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "注意广度",
+   "en": "attention span",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉注意",
+   "en": "auditory attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意力经济",
+   "en": "attention economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意注意,不随意注意",
+   "en": "involuntary attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分配性注意",
+   "en": "divided attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择性注意",
+   "en": "selective attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有意注意,随意注意",
+   "en": "voluntary attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择注意",
+   "en": "selective attention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "引起注意装置",
+   "en": "attention device",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意力聚焦",
+   "en": "attention focusing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意转移",
+   "en": "attentional shifting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意过程",
+   "en": "attentional process",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意阶段",
+   "en": "attentive stage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生态演替（=外因演替）",
+   "en": "ecological succession\",\"ecogenic succession (=exogenetic succession)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意力",
+   "en": "attention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意力机制",
+   "en": "attention mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注意：淘汰！",
+   "en": "Attention: elimination!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立正！",
+   "en": "Attention! Charyeot!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效攻击",
+   "en": "successful attack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备姿势",
+   "en": "attention\",\"guard position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停足",
+   "en": "stand to attention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续试举",
+   "en": "attempt in succession",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拦网成功",
+   "en": "successful block\",\"shut out",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备站姿",
+   "en": "attention stance\",\"ready stance\",\"pyeonhi seogi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "善胜兵者，先自修理",
+   "en": "Success in War Requires Good Organization.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型冠状病毒成功分离",
+   "en": "successful isolation of a novel coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "试跳（投、掷）有效",
+   "en": "cleared trial\",\"successful trial\",\"valid trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "满招损，谦受益",
+   "en": "Complacency Leads to Failure; Modesty to Success.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "食必常饱，然后求美",
+   "en": "Attention to Refined Taste Comes Only After the Stomach Is Sated.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "战法必本于政胜",
+   "en": "Methods of Warfare Must Be Based on the Success of Politics.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不获全胜决不轻言成功",
+   "en": "We will not proclaim success until we have secured the final victory over COVID-19.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "从同时呈现的几个物体或思维序列中选择一个对象的过程。一般是指人们集中于某种特殊内、外环境刺激而不被其他刺激分散的能力。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.12",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "个体的精神活动集中地指向于一定对象的心理现象。不是一种独立的心理过程，与感知觉、记忆和思维等心理过程相互影响。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.6",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "城市社区从一种原始的、不稳定的阶段向一种比较永久性或高峰期的有序发展的过程。个体以及整个社区系统会经历一系列清晰可辨的阶段——从取得平衡到平衡被打破到建立新的平衡的过程。"
+  },
+  {
+   "cn": "注意力发展",
+   "en": "attention development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "心理活动对一定对象有选择的集中能力随年龄增长的发展变化过程。注意力的发展与神经系统的发育以及心理活动的发展高度相关。"
+  },
+  {
+   "cn": "无意注意",
+   "en": "involuntary attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "由强烈的、新颖的或感兴趣的事物引发的无预定目的和意志努力的注意。"
+  },
+  {
+   "cn": "有意注意",
+   "en": "voluntary attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "自觉的、因预定目的产生的，经过意志努力保持的注意。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance，succession",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.28",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "个体作为社会人所具有的权利、义务的总体，即地位或财产在其死亡或退位之时根据该社会公认的规则由特定的人所承继的行为。"
+  },
+  {
+   "cn": "有意注意时间",
+   "en": "intentional attention to time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "有预定的目的，需要一定意志努力的注意所维持的时间。"
+  },
+  {
+   "cn": "抗休克成功率",
+   "en": "anti-shock success rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "每百名休克伤员经救治后解除休克的人数，反映各救治机构应急能力和救治水平。"
+  },
+  {
+   "cn": "继承制度",
+   "en": "succession system/inheritance system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.34",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "某一个体在其死亡或退位之时将其作为社会之人所具有的权利、义务的总体，也即地位或财产转移给他人的社会制度。包括地位继承与财产继承。"
+  },
+  {
+   "cn": "注意缺陷多动障碍",
+   "en": "attention deficit hyperactivity disorder, ADHD",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "多发生于儿童时期的神经和精神障碍。主要表现为明显的与年龄不相符的注意力分散、行为冲动、活动过度等特征，常伴学习困难和社会适应能力下降。"
+  },
+  {
+   "cn": "注意缺陷多动障碍",
+   "en": "attention deficit hyperactivity disorder, ADHD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "多发于儿童期的一种神经和精神障碍。主要表现为注意力集中困难、注意广度缩小、不分场合的活动过度和行为冲动等特点，常伴有认知障碍和学习困难，往往其智力基本正常。"
+  },
+  {
+   "cn": "重占有的生存方式",
+   "en": "Pay attention to the living way of possession",
+   "source": "马克思主义",
+   "wordNumber": "05.0055",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于弗洛姆《占有还是生存》，指注重对现存物的占有与消费，而不是基于人的生命活动的创造和自我创造，从而导致物化人格。现代社会以重占有的生存方式为主导。"
+  },
+  {
+   "cn": "三大纪律八项注意",
+   "en": "Three Main Rules of Discipline and Eight Points for Attention",
+   "source": "马克思主义",
+   "wordNumber": "03.0412",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在领导革命斗争实践中提出并不断得到充实的人民军队的优良传统和行动准则，是人民解放军统一的革命纪律。三大纪律是：一切行动听指挥，不拿群众一针一线，一切缴获要归公；八项注意是：说话和气，买卖公平，借"
+  },
+  {
+   "cn": "衰减",
+   "en": "attenuation",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.29",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "辐射在通过物质时与物质发生各种相互作用致使辐射强度减少的过程。"
+  },
+  {
+   "cn": "滞留",
+   "en": "retention",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "摄入放射性物质后的给定时间内，放射性物质在某一器官或全身内的沉积状态及动态变化过程。"
+  },
+  {
+   "cn": "注意力不集中",
+   "en": "inattention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "主动性注意不足，被动性注意相对亢进的现象。主要表现为听课、做作业或其他活动难以持久，易被无关刺激吸引、分心，维持注意力时间明显低于同龄正常儿童。"
+  },
+  {
+   "cn": "衰减倍数",
+   "en": "attenuation multiple",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.23",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "设置屏蔽之前某关心点处的周围剂量当量与设置屏蔽之后该点周围剂量当量的比值。"
+  },
+  {
+   "cn": "衰减当量",
+   "en": "attenuation equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.30",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "相对于参考物质的厚度。即在规定的辐射线束和几何条件下以该厚度的参考物质代替所考虑的物质时，具有相同的衰减程度。"
+  },
+  {
+   "cn": "滞留份额",
+   "en": "retention fraction",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.36",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素在组织或器官内滞留量占了该放射性核素初始进入量的份额。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

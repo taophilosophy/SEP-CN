@@ -1,0 +1,572 @@
+{
+ "key": "possibilist variant",
+ "term": "possibilist variant",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:42:26+00:00",
+ "status": "ok",
+ "note": "variant=possibilist variant; 审定公布名词库=833; 海峡两岸名词对照库=181; 其他来源数据库=6; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "变异体",
+   "en": "variant",
+   "source": "感染病学名词",
+   "wordNumber": "01.0581",
+   "subjectFullName": "感染病学_总论_感染病诊断技术",
+   "subjectName": "感染病诊断技术",
+   "publishYear": "2019",
+   "definition": "具有某一突变基因，从而表现某一表型的细胞或生物个体。在组织细胞培养中，未施加选择压力下筛选出来的原有变异细胞或个体。"
+  },
+  {
+   "cn": "群丛变型",
+   "en": "variant",
+   "source": "植物学名词",
+   "wordNumber": "13.0389",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "根据群丛中某些物种或种组数量特征上的变化划分的群丛以下的分类单位。"
+  },
+  {
+   "cn": "变异形式",
+   "en": "variant",
+   "source": "语言学名词",
+   "wordNumber": "12.012",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "语言变异的实际存在形式。"
+  },
+  {
+   "cn": "变异体",
+   "en": "variant",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.669",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "变体",
+   "en": "variant",
+   "source": "化学工程名词",
+   "wordNumber": "05.214",
+   "subjectFullName": "化学工程_过程系统工程_过程操作",
+   "subjectName": "过程操作",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "剪接变体",
+   "en": "splicing variant;splice variant",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0292",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "同一前体mRNA因不同剪接方式形成的不同mRNA。可翻译成不同蛋白质。"
+  },
+  {
+   "cn": "剪接变体",
+   "en": "splicing variant;splice variant",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.07",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "同一前体mRNA因不同剪接方式形成的不同的成熟mRNA，以及翻译成的不同蛋白质。"
+  },
+  {
+   "cn": "有害变异",
+   "en": "deleterious variant",
+   "source": "农学名词",
+   "wordNumber": "15.303",
+   "subjectFullName": "农业生物技术_生物大数据和人工智能",
+   "subjectName": "生物大数据和人工智能",
+   "publishYear": "2025",
+   "definition": "导致个体适合度降低的等位变异。包括点突变、小的插入缺失与结构变异。"
+  },
+  {
+   "cn": "克隆变异体",
+   "en": "clonal variant",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.048",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "无性繁殖过程中由突变产生的变异个体。"
+  },
+  {
+   "cn": "变型设计",
+   "en": "variant design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0096",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "为适应新的需要对已有的机械作部分的修改或增删而发展出不同于标准型的变型产品的设计方法。"
+  },
+  {
+   "cn": "变异题名",
+   "en": "variant title",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.493",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "著作题名规范检索点之外的其他题名。 "
+  },
+  {
+   "cn": "克隆变异体",
+   "en": "clonal variant",
+   "source": "植物学名词",
+   "wordNumber": "10.0085",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "无性繁殖过程中由突变产生的变异个体。"
+  },
+  {
+   "cn": "组蛋白变体",
+   "en": "histone variant",
+   "source": "生物物理学名词",
+   "wordNumber": "06.119",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "除了核心组蛋白(H2A、H2B、H3和H4)外的其他类型的组蛋白。与核心组蛋白具有序列同源性和主要结构的相似性，但具有独特的分布方式及功能。包括H2A.X、H2A.Z、macro H2A、CENP-A"
+  },
+  {
+   "cn": "时变性",
+   "en": "time-variant",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0352",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "数据的变动在数据仓库中能够被纪录和追踪的特性。"
+  },
+  {
+   "cn": "异读",
+   "en": "variant reading",
+   "source": "语言学名词",
+   "wordNumber": "07.092",
+   "subjectFullName": "",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "同一个汉字在同一个音系中存在两种或两种以上不同读音的现象。一般特指意义相同读音不同的一字多音现象，不包括那些音同义不同的同形词。例如北京话“柏”字有两个读音，一个是［pai²¹⁴］，一个是［po³⁵］"
+  },
+  {
+   "cn": "自由变体",
+   "en": "free variant",
+   "source": "语言学名词",
+   "wordNumber": "03.259",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "如果两个音素属于同一个音位且它们可以在相同的语音环境中互相替换，则称这两个音素为同一个音位的“自由变体”。"
+  },
+  {
+   "cn": "条件变体",
+   "en": "conditioned variant",
+   "source": "语言学名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "如果两个音素属于同一个音位且它们出现的语音环境呈互补分布，则称这两个音素为同一个音位的“条件变体”。"
+  },
+  {
+   "cn": "克隆变异体",
+   "en": "clonal variant",
+   "source": "细胞生物学名词",
+   "wordNumber": "010.202",
+   "subjectFullName": "细胞生物学_细胞培养与细胞工程",
+   "subjectName": "细胞培养与细胞工程",
+   "publishYear": "2009",
+   "definition": "无性繁殖过程中由突变产生的变异个体。"
+  },
+  {
+   "cn": "剪接变体",
+   "en": "splice variant",
+   "source": "遗传学名词",
+   "wordNumber": "03.350",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "同一前体mRNA因不同剪接方式形成不同mRNA，并翻译成不同蛋白质。"
+  },
+  {
+   "cn": "克隆变异体",
+   "en": "clonal variant",
+   "source": "遗传学名词",
+   "wordNumber": "04.387",
+   "subjectFullName": "遗传学_细胞遗传学",
+   "subjectName": "细胞遗传学",
+   "publishYear": "2007",
+   "definition": "无性繁殖过程中由突变产生的变异个体。"
+  },
+  {
+   "cn": "可能论",
+   "en": "possibilist",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "变体",
+   "en": "variant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "群丛变型",
+   "en": "variant",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "变异体",
+   "en": "variant",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "异体",
+   "en": "variant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "剪接变体",
+   "en": "splicing variant\",\"splice variant",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "变量",
+   "en": "variable\",\"variant",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "克隆变异体",
+   "en": "clonal variant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纯合变异型",
+   "en": "homozygous variant",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "克隆变异体",
+   "en": "clonal variant",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "克隆变异体",
+   "en": "clonal variant",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "剪接变体",
+   "en": "splice variant",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "异体字",
+   "en": "variant Hanzi\",\"variant Chinese character",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单细胞变异体",
+   "en": "single cell variant",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单细胞变异体",
+   "en": "single cell variant",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "时变参数",
+   "en": "time-variant parameter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "群丛地理变异",
+   "en": "geographical variant of association",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "富人与穷人变奏曲5首",
+   "en": "Dives and Lazarus\",\"5 Variants of",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Vaughan Williams, Ralph"
+  },
+  {
+   "cn": "时变系统",
+   "en": "time variant system\",\"time varying system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可能性界限",
+   "en": "possibility boundaries",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "DeepVariant（可将基因组信息转换成图像进行分析）",
+   "en": "DeepVariant (an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "方差分析",
+   "en": "analysis of variance (ANOVA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可能派",
+   "en": "Possibiliste",
+   "source": "马克思主义",
+   "wordNumber": "04.0330",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "法国社会主义运动中的机会主义派别，以布鲁斯、马隆等人为首；他们在1882年造成法国工人党的分裂，并成立新党“法国社会主义革命工人党”。这个派别的领袖们反对革命的策略，他们宣布改良主义的原则，即只争取“"
+  },
+  {
+   "cn": "可能性",
+   "en": "possibility",
+   "source": "马克思主义",
+   "wordNumber": "01.0064",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由事物内部矛盾引起的，包含在事物中的预示事物发展变化的种种趋势，或事物转化的潜在因素，是潜在的尚未实现的东西。"
+  },
+  {
+   "cn": "可能性与现实性",
+   "en": "possibility and actuality",
+   "source": "马克思主义",
+   "wordNumber": "01.0066",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "可能性与现实性是对立统一的关系。二者相互区别，不能等同。只有具备充分客观根据的可能性才能转化为现实性。二者又是统一的，它们相互依存、相互包含、相互转化。可能性作为潜在趋势存在于现实性之中，是还没有实现"
+  },
+  {
+   "cn": "生产可能性边界",
+   "en": "production possibility frontier，PPF",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "在既定资源和技术条件下所能生产或提供的各种商品或服务的最大数量组合。"
+  },
+  {
+   "cn": "辐照通量",
+   "en": "radiant flux",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.13",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "单位时间紫外线辐射总强度，单位以毫瓦（mW）、瓦（W）表示。"
+  },
+  {
+   "cn": "卵巢储备功能",
+   "en": "ovarian reserve",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.5.2.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_女性不孕",
+   "subjectName": "女性不孕",
+   "publishYear": "2025",
+   "definition": "卵巢皮质内含有的未生长或静息状态的原始卵泡数量，反映卵泡生长、发育、形成可受精卵母细胞的能力。"
+  },
+  {
+   "cn": "卵巢移植",
+   "en": "ovarian transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.019",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过外科手术，摘取器官供体具有生理功能的单侧或双侧卵巢，将其植入器官受体以代替其病损卵巢的技术。"
+  },
+  {
+   "cn": "卵巢功能衰退",
+   "en": "ovarian function decline",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "围绝经期妇女卵巢内卵泡数明显减少，且易发生卵泡发育不全的一种生理现象。临床以月经模式变化为主要衡量依据。"
+  },
+  {
+   "cn": "卵巢功能衰竭",
+   "en": "ovarian function failure",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "卵巢内卵泡自然耗竭或剩余的卵泡对垂体促性腺激素丧失反应造成的一种生理现象。"
+  },
+  {
+   "cn": "卵巢性排卵障碍",
+   "en": "ovarian ovulation disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.5.2.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_女性不孕",
+   "subjectName": "女性不孕",
+   "publishYear": "2025",
+   "definition": "卵巢出现器质性病变或功能失调，导致的排卵障碍。"
+  },
+  {
+   "cn": "平面辐射温度",
+   "en": "plane radiant temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.4.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "周围环境的某一平面对人体产生辐射作用的温度。"
+  },
+  {
+   "cn": "不对称辐射温度",
+   "en": "asymmetric radiant temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.4.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "同一温度下,物体表面不同方向的辐射能量不一致所致的温度差值。"
+  },
+  {
+   "cn": "平均辐射温度",
+   "en": "mean radiant temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.4.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "环境四周表面对人体辐射作用的平均温度。其数值可由各表面温度及人与表面位置关系的角系数确定或用黑球温度计算得到。"
+  },
+  {
+   "cn": "方差分析",
+   "en": "analysis of variance，anova",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以分析一个或多个类别变量对定距或定比尺度的因变量的影响的一组方法的统称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

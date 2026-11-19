@@ -1,0 +1,802 @@
+{
+ "key": "emotional commitment",
+ "term": "emotional commitment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:39:28+00:00",
+ "status": "ok",
+ "note": "variant=emotional commitment; 审定公布名词库=149; 海峡两岸名词对照库=55; 其他来源数据库=20; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.151",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "一种通过文字或口头方式，同意相互约定的条件，以提升人际关系与互动质量与效率的沟通行为。"
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.222",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "细胞或组织尽管在表型上与未限定细胞没有差别，但其发育命运已经受到限制的状态。"
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "遗传学名词",
+   "wordNumber": "05.017",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "限定细胞按某一特定命运发育的过程。包括特化和决定这两个阶段。"
+  },
+  {
+   "cn": "提交",
+   "en": "commit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0273",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "正常结束事务执行。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "兽医学名词",
+   "wordNumber": "04.547",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "人类和动物对客观环境刺激所表达的一种特殊的心理体验与某种固定形式的躯体行为表现。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.193",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人对内外信息的态度体验及相应的行为和身体反应。是伴有较明显的自主性神经反应的一种心理状态。以个体的愿望和需要为中介。狭义上是指需要是否被满足而产生的暂时、较剧烈的态度体验。基本形式包括快乐、恐惧、悲伤"
+  },
+  {
+   "cn": "情感",
+   "en": "emotion",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.033",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "一种有生理感觉与非言语行为反应的情绪表达与心理状态的沟通体验。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "行为医学名词",
+   "wordNumber": "4.061",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "对内外信息的态度体验及相应的行为和身体反应。以个体的愿望和需要为中介。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "生理学名词",
+   "wordNumber": "03.656",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "精神医学名词",
+   "wordNumber": "02.206",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "人对内外信息的态度体验以及相应的行为和身体反应。是伴有较明显的自主性神经反应的一种心理状态。以个体的愿望和需要为中介。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "计划生育名词",
+   "wordNumber": "04.025",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "人们对客观事物的态度或人接触客观事物时所引起的体验。情绪反应可伴有一定的机体变化。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.186",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对客观事物的态度体验。包括情感。狭义上是指因需要是否满足产生暂时、较剧烈的态度体验。基本形式包括快乐、恐惧、悲伤、厌恶 等。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0146",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "对人或物的强烈情感。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "心理学名词",
+   "wordNumber": "02.720",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "人对内外信息的态度体验以及相应的行为和身体反应。以个体的愿望和需要为中介。"
+  },
+  {
+   "cn": "本体论承诺",
+   "en": "ontological commitment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.258",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "蒯因提出的一个哲学概念。一个理论的本体论承诺就是该理论所指称和量化的对象的总体。用蒯因的话说，“存在就是约束变元的值”。"
+  },
+  {
+   "cn": "定向复合物",
+   "en": "commitment complex",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0283",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "含有细胞核前体mRNA和U1 snRNP的复合物。协助U1 snRNP将其结合的内含子剪掉。"
+  },
+  {
+   "cn": "职业承诺",
+   "en": "occupational commitment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.092",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "组织成员对组织制度和实践的知觉与组织契约之间的一种认同与接受。它包括情感承诺、留任承诺和规范承诺。情感承诺是组织成员对组织的情绪依恋、认同感和卷入程度；留任承诺是指基于相关组织成员离开组织带来损失的一"
+  },
+  {
+   "cn": "剂量负担",
+   "en": "dose commitment",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.173",
+   "subjectFullName": "医学影像技术学_X射线防护_常用的辐射量及其单位",
+   "subjectName": "常用的辐射量及其单位",
+   "publishYear": "2020",
+   "definition": "一个计算工具。用符号Ec表示。由于特定事件如一年计划排放的活度所致人均剂量率的无限时间积分。排放率在无限时间内为常数的情况下，特定人群将来人均所受最大年剂量率等于一年的实践剂量负担，不考虑居民人数的变"
+  },
+  {
+   "cn": "安全承诺",
+   "en": "safety commitment",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "01.032",
+   "subjectFullName": "化工（四）_通类",
+   "subjectName": "通类",
+   "publishYear": "2020",
+   "definition": "在关注安全和追求安全绩效方面，由企业代表全体员工公开做出的具有稳定意愿及实践行动的明确表示。"
+  },
+  {
+   "cn": "智能体的承诺",
+   "en": "agent commitment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0169",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "在某个状态下，一个智能体从多个愿望中选择一个作为意图，称该智能体对所选择的愿望做出了承诺。"
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "定型，限定",
+   "en": "commitment",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯承诺",
+   "en": "career commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性承诺",
+   "en": "affective commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "贷款承诺",
+   "en": "loan commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口承诺",
+   "en": "import commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资承诺，投资保证",
+   "en": "investment commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "束缚因子",
+   "en": "commitment factor",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "束缚因子",
+   "en": "commitment factor",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "输出提交",
+   "en": "output commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位提交",
+   "en": "bit commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定向细胞",
+   "en": "committed cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关键步骤",
+   "en": "committed step",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定型细胞",
+   "en": "committed cell",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "提交单元",
+   "en": "commit unit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情绪不稳定性",
+   "en": "emotional instability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情商",
+   "en": "Emotional Quotient",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情感连接",
+   "en": "emotional connection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "六志",
+   "en": "Six Emotions",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天情",
+   "en": "Innate Emotions",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗缘情",
+   "en": "Poetry Springs from Emotions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《全球数字合作承诺》",
+   "en": "Global Commitment for Digital Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气骨",
+   "en": "Qigu (Emotional Vitality and Forcefulness)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "七情六欲",
+   "en": "Seven Emotions and Six Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情教",
+   "en": "Moral Instruction Carried Out with Emotion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为情而造文 / 为文而造情",
+   "en": "Produce a Piece of Writing for Emotions / Produce Emotions for a Piece of Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《全球数字信任与安全承诺》",
+   "en": "Global Commitment on Digital Trust and Security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脱贫攻坚责任书",
+   "en": "the letter of commitment on poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "心同理同",
+   "en": "People of Similar Natures and Emotions Will Have Similar Understanding.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "音情顿挫",
+   "en": "Achieving Rhythm of Speech and Emotion and Cadence of Speech",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多行不义必自毙",
+   "en": "He Who Repeatedly Commits Wrongdoing Will Come to No Good End.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "决不能“新官不理旧账，，",
+   "en": "New officials must continue to meet the commitment undertaken by their predecessors.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诗穷而后工",
+   "en": "<div> A Good Poem Is the Product of Pent-up Emotions.</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“我将无我，不负人民。”",
+   "en": "I will work selflessly and live up to the expectations of the people. I will fully commit to my people and never fail the people. I am ready to set aside my own interests in service of the people. I will never seek my own good and never fail the people.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情往会悲，文来引泣",
+   "en": "An Author Who Invests Emotionally in a Lament Can Experience Grief. A Lament Written in This Way Can Move Readers to Tears.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.09",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "就某事做出肯定性的应允，并保证尽力执行或表示一定努力使其实现的一种不可无故变更的道德允诺。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体感知外界事物后所产生的一种体验。包括正向体验如愉快、兴奋、满足和自豪等，负向体验如恐惧、抑郁、焦虑和紧张等。"
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "个体认同并参与某个组织的强度，包括三大要素一是高度信任与接受组织的目标与价值；二是愿意为组织付出努力；三是希望能继续留在组织中，可视为个人对组织的主动关系，即个人愿意努力付出，以协助组织成功，而不仅是"
+  },
+  {
+   "cn": "十四个坚持",
+   "en": "fourteen commitment",
+   "source": "马克思主义",
+   "wordNumber": "03.0809",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九大报告提出，全党要深刻领会新时代中国特色社会主义思想的精神实质和丰富内涵，在各项工作中全面准确贯彻落实，做到十四个坚持，即：一、坚持党对一切工作的领导；二、坚持以人民为中心；三、坚持全面深化改"
+  },
+  {
+   "cn": "待积剂量",
+   "en": "committed dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.24",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "待积有效剂量和待积当量剂量的统称。评价人体（包括辐照食品工作人员）所受内照射剂量的大小。"
+  },
+  {
+   "cn": "情绪障碍",
+   "en": "emotional disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "以焦虑、抑郁、强迫等症状为主要表现的精神障碍。核心特征为情感反应的夸张、混乱和减退。"
+  },
+  {
+   "cn": "情绪指导",
+   "en": "emotional guidance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.4.1",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "引导学生做到以积极正向情绪为主、反应适度的过程。"
+  },
+  {
+   "cn": "情绪体验",
+   "en": "emotional experience",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "人在主观上感受或意识到的情绪状况。"
+  },
+  {
+   "cn": "情绪调节",
+   "en": "emotional regulation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.17",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对个体或群体的情绪进行控制和调节的过程。包括对情绪的认识、协调、引导、互动和控制。"
+  },
+  {
+   "cn": "情绪控制",
+   "en": "emotional control",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.18",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "主观上对自己的情绪进行有意识的制约或积极调节的过程。"
+  },
+  {
+   "cn": "社会情绪/情感",
+   "en": "social emotions",
+   "source": "社会学名词",
+   "wordNumber": "4.1.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2025",
+   "definition": "一种情绪类型，指人们因对某些具有社会重要性的因素进行社会评价后所诱发与之相应的情绪状态。常见的社会情绪有自豪、羞耻、内疚、窘迫、妒忌或羡慕等。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "消极情绪",
+   "en": "negative emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不能使人感到满足，使人与人之间的关系趋于紧张的情绪状态。如恐惧、痛苦、愤怒、忧虑等。"
+  },
+  {
+   "cn": "初级情绪",
+   "en": "primary emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "在出生后第1年的早期出现的情绪。如快乐、厌恶、惊奇、悲伤、愤怒、恐惧。"
+  },
+  {
+   "cn": "次级情绪",
+   "en": "secondary emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "2岁时出现的自我意识和自我评价的情绪。与认知发展有关，如尴尬、害羞、内疚、嫉妒和骄傲。"
+  },
+  {
+   "cn": "道德情感",
+   "en": "moral emotion",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.016",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们基于一定的道德认识，对道德行为产生的爱憎或好恶的内心感受。对符合道德准则的行为感到满意、愉快、光荣，对不符合道德准则的行为感到义愤、内疚、羞耻。"
+  },
+  {
+   "cn": "情绪和情感发育",
+   "en": "emotion and emotional feeling development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "对内外信息的态度体验以及相应的行为和身体反应，与人的社会性需要相联系的主观体验随年龄增长的发展变化过程。"
+  },
+  {
+   "cn": "有效剂量负担",
+   "en": "effective dose commitment",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.13",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "由于某一决策或实践使特定的群体受到持续照射时，平均每人受到的有效剂量率在无限长时间内的积分，单位是希沃特，记作Sv。"
+  },
+  {
+   "cn": "待积当量剂量",
+   "en": "committed equivalent dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.8",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "从摄入放射性物质的初始时刻（t0）开始在T时期内（未做特殊说明时，成年人取50年，儿童取70年）对t时刻器官或组织的当量剂量率的积分。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "待积有效剂量",
+   "en": "committed effective dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.9",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "从摄入放射性物质的初始时刻（t0）开始在T 时期内（未做特殊说明时，成年人取50年，儿童取70年）对t时刻有效剂量率的积分。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

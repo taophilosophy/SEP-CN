@@ -1,0 +1,812 @@
+{
+ "key": "axiomatic characterization results",
+ "term": "axiomatic characterization results",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:39:49+00:00",
+ "status": "ok",
+ "note": "variant=axiomatic characterization results; 审定公布名词库=914; 海峡两岸名词对照库=363; 其他来源数据库=61; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "公理学",
+   "en": "axiomatics",
+   "source": "数学名词",
+   "wordNumber": "02.0306",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "公理化",
+   "en": "axiomatization",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.251",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "将数学的某个领域形式化到一个公理系统中的方法。通常选取那些直观上显然的命题为公理，全体公理的集合要求是递归的。其他由这些公理经逻辑手段推出的命题为定理。公理化方法常伴随着一致性、完全性等问题。"
+  },
+  {
+   "cn": "特征化",
+   "en": "characterization",
+   "source": "核医学名词",
+   "wordNumber": "01.0028",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "对复杂生物系统或生物过程最具有特征的性状进行识别和表征的过程。"
+  },
+  {
+   "cn": "公理方法",
+   "en": "axiomatic method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.187",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "依靠尽可能少的基本概念、公理和公设，通过逻辑推理，演绎出一系列命题和原理从而构建完整体系的方法。"
+  },
+  {
+   "cn": "公理语义",
+   "en": "axiomatic semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0877",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "用逻辑断言及其推理系统来描述程序设计语言的语义, 其典型代表是由托尼·霍尔（Tony Hoare）提出的霍尔公理语义。"
+  },
+  {
+   "cn": "公理复杂性",
+   "en": "axiomatic complexity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0273",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "时间和空间只是计算的“复杂性测度”的两个例子，一般可定义复杂性测度为满足一定公理的函数（可以是部分函数），这样的复杂性称为公理复杂性。"
+  },
+  {
+   "cn": "公理化理论",
+   "en": "axiomatic theory",
+   "source": "数学名词",
+   "wordNumber": "02.0310",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "公理方法",
+   "en": "axiomatic method",
+   "source": "数学名词",
+   "wordNumber": "02.0311",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "非形式公理学",
+   "en": "informal axiomatics",
+   "source": "数学名词",
+   "wordNumber": "02.0312",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "结式",
+   "en": "resultant",
+   "source": "数学名词",
+   "wordNumber": "04.0553",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "特征化",
+   "en": "characterisation;characterization",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.106",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "用与设备无关的颜色值定义输入、显示、输出设备颜色值的过程。"
+  },
+  {
+   "cn": "危害特征描述",
+   "en": "hazard characterization",
+   "source": "农学名词",
+   "wordNumber": "18.145",
+   "subjectFullName": "农产品质量安全_农产品质量安全管理",
+   "subjectName": "农产品质量安全管理",
+   "publishYear": "2025",
+   "definition": "基于动物试验、流行病学调查、人体志愿者实验及结构活性关系等手段获取污染物引起机体毒性效应，对关注的毒性阈值终点进行分析，并对毒代毒效动力学过程进行定性和定量描述的过程。"
+  },
+  {
+   "cn": "风险［特征］描述",
+   "en": "risk characterization",
+   "source": "农学名词",
+   "wordNumber": "18.168",
+   "subjectFullName": "农产品质量安全_农产品质量安全管理",
+   "subjectName": "农产品质量安全管理",
+   "publishYear": "2025",
+   "definition": "在危害识别、危害描述和暴露评估的基础上，定性或定量估计(包括伴随的不确定性和变异性)在特定条件下相关人群产生不良作用的可能性和严重性。"
+  },
+  {
+   "cn": "风险表征",
+   "en": "risk characterization",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.155",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "对风险发生的概率、损失程度进行量化表述。主要包括事件的识别和后果的表征。"
+  },
+  {
+   "cn": "聚合物表征",
+   "en": "polymer characterization",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "1.0062",
+   "subjectFullName": "化工（七）_通类",
+   "subjectName": "通类",
+   "publishYear": "2022",
+   "definition": "通过各种分析技术及方法实现对聚合物多层次结构的认识和表达。"
+  },
+  {
+   "cn": "色度特性化",
+   "en": "colorimetric characterization",
+   "source": "光学名词",
+   "wordNumber": "05.078",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "对颜色输入及输出媒介的颜色进行某种特性处理的过程。它通常是以标准化测量手段对某种设备或媒介的颜色空间参数相对于标准化的颜色空间参数(如CIE1976LAB、CIE1976LAB)建立数学模型或转换关系"
+  },
+  {
+   "cn": "危害描述",
+   "en": "hazard characterization",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0281",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "对在食品中能对健康造成不良影响的生物、化学或物理性物质的性质进行定性和/或定量判断的过程。"
+  },
+  {
+   "cn": "风险描述",
+   "en": "risk characterization",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0324",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "在危害识别、危害描述和暴露评估的基础上，定性或定量估计(包括伴随的不确定性和变异性)在特定条件下相关人群产生不良作用的可能性和严重性。"
+  },
+  {
+   "cn": "特性因素",
+   "en": "characterization factor",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.059",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "用于评价催化裂化原料石蜡烃含量的指标。由密度和平均沸点计算得到，通常用K表示。"
+  },
+  {
+   "cn": "催化剂表征",
+   "en": "catalyst characterization",
+   "source": "化学名词",
+   "wordNumber": "04.0806",
+   "subjectFullName": "化学_物理化学_催化",
+   "subjectName": "催化",
+   "publishYear": "2016",
+   "definition": "用于揭示催化剂表面和本体组成结构和特性功能的所有一切的测量和试验。"
+  },
+  {
+   "cn": "特性化",
+   "en": "characterization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "公理复杂性",
+   "en": "axiomatic complexity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公理语义",
+   "en": "axiomatic semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生成物",
+   "en": "resultant",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合力",
+   "en": "resultant",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "热特性",
+   "en": "thermal characterization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "废水特性",
+   "en": "wastewater characterization",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "显著性结果",
+   "en": "significant result",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合成风",
+   "en": "resultant wind",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合成音",
+   "en": "resultant tone",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "柱特性因素",
+   "en": "column characterization factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自我特征描述",
+   "en": "self characterization sketch",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量评价结果",
+   "en": "data quality result",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "特性因数",
+   "en": "characteristic factor\",\"characterization factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合成低音音栓",
+   "en": "harmonic bass\",\"resultant bass",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "真[误]差，成果误差",
+   "en": "true error\",\"resultant error",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛结果",
+   "en": "result",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "results card\",\"results sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "results sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩表",
+   "en": "result sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "result card",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确认比赛结果",
+   "en": "verify the results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最终成绩单",
+   "en": "final results list",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩",
+   "en": "performance\",\"result\",\"score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定级结果组合",
+   "en": "combination of classification results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宣告结果",
+   "en": "announcement of the results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛成绩",
+   "en": "final time\",\"final result",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "官方结果",
+   "en": "official result\",\"official score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩表",
+   "en": "table of results\",\"tournament table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对计时和成绩的抗议",
+   "en": "protest concerning timing and results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "result sheet\",\"score- list\",\"scoresheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有病不治，常得中医",
+   "en": "Self-treating an Illness Can Usually Get a Good Result.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 10092-2009 数据的统计处理和解释 测试结果的多重比较》",
+   "en": "GB/T 10092-2009 Statistical interpretation of data — Multiple comparison for test results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“双随机一公开”监管平台",
+   "en": "platform for oversight through random selection of both inspectors and entities and public release of results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "境外输入关联病例",
+   "en": "cases resulting from virus carriers traveling from abroad; patients infected by virus carriers traveling from abroad",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "淡泊明志，宁静致远",
+   "en": "Indifference to Fame and Fortune Characterizes a High Aim in Life, and Leading a Quiet Life Helps One Accomplish Something Lasting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "定值",
+   "en": "characterization",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.64",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "作为研制（生产）程序的一部分，确定标准物质特性值的过程"
+  },
+  {
+   "cn": "危害特征描述",
+   "en": "hazard characterization",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.14.1.1.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品安全评价与保障",
+   "subjectName": "军队食品安全评价与保障",
+   "publishYear": "2025",
+   "definition": "对食品中生物、化学、物理因素所产生的不良健康影响进行的定性和（或）定量评估。"
+  },
+  {
+   "cn": "危害特征描述",
+   "en": "hazard characterization",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对在食品中能对健康造成不良影响的生物、化学或物理性物质的性质进行定性和/或定量判断的过程"
+  },
+  {
+   "cn": "风险特征描述",
+   "en": "risk characterization",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在危害识别、危害表征和暴露评估的基础上进行综合分析，对生物、系统或(亚)人群暴露于某种因素或状况所产生的已知或潜在的健康不良作用的可能性和程度，以及相关的不确定性进行定性或定量的描述。"
+  },
+  {
+   "cn": "风险特征描述",
+   "en": "risk characterization",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.14.1.1.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品安全评价与保障",
+   "subjectName": "军队食品安全评价与保障",
+   "publishYear": "2025",
+   "definition": "根据危害识别、危害特征描述和暴露评估，对产生健康影响的可能性与特定人群中已发生或可能发生不良健康影响的严重性进行定性和（或）定量评估以及不确定性进行的综合性描述。"
+  },
+  {
+   "cn": "定性风险特征描述",
+   "en": "qualitative risk characterization",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.12",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种因素对特定生物、系统或（亚人群）在确定的暴露情形下所产生的已知或潜在不良健康影响的可能性及其相关的不确定性进行定性的描述"
+  },
+  {
+   "cn": "定量风险特征描述",
+   "en": "quantitative risk characterization",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种因素对特定生物、系统或（亚人群）在确定的暴露情形下所产生的已知或潜在不良健康影响的可能性及其相关的不确定性进行定量的描述"
+  },
+  {
+   "cn": "监测结果报告",
+   "en": "monitoring results report",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生健康体检机构在结束检查后，反馈学生个体和群体体检项目的客观结果、健康评价结果并给出健康指导建议的资料。"
+  },
+  {
+   "cn": "抽检结果",
+   "en": "sampling inspection result",
+   "source": "消毒学",
+   "wordNumber": "5.2.14.5",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品抽样、检验后产生的数据和检验结论。"
+  },
+  {
+   "cn": "检查结果处理",
+   "en": "examination result processing",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.22",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "针对职业健康检查结果给出的处理意见，包括复查或其他处理意见。"
+  },
+  {
+   "cn": "异常结果调查",
+   "en": "investigation of abnormal result",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "当工作人员职业外照射个人监测结果超过调查水平时进行的调查。"
+  },
+  {
+   "cn": "妇女常见病筛查异常管理",
+   "en": "management of abnormal result of woman's common disease screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "对妇女常见病筛查中发现的异常或可疑患者进行追踪、随访、诊断或治疗的过程。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

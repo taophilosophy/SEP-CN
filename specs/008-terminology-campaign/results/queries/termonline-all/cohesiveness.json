@@ -1,0 +1,452 @@
+{
+ "key": "cohesiveness",
+ "term": "cohesiveness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:13:47+00:00",
+ "status": "ok",
+ "note": "variant=cohesiveness; 审定公布名词库=62; 海峡两岸名词对照库=21; 其他来源数据库=1; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "凝聚力",
+   "en": "cohesion,cohesiveness",
+   "source": "心理学名词",
+   "wordNumber": "07.058",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "群体成员相互吸引而期望留任群体的强烈程度。"
+  },
+  {
+   "cn": "凝聚力",
+   "en": "cohesiveness",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.113",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播权力与领导",
+   "subjectName": "组织传播权力与领导",
+   "publishYear": "2022",
+   "definition": "群体组织成员为实现群体活动目标相互团结协作的程度。"
+  },
+  {
+   "cn": "黏聚性",
+   "en": "cohesiveness",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0322",
+   "subjectFullName": "食品科学技术_食品科学_食品物理_食品流变学特性",
+   "subjectName": "食品流变学特性",
+   "publishYear": "2020",
+   "definition": "该值可模拟表示样品内部黏合力，当黏聚性大于黏着性，探头与样品充分接触时，探头仍可保持清洁而无样品黏着物。在曲线上表现为两次压缩所做正功之比。"
+  },
+  {
+   "cn": "黏着性",
+   "en": "cohesiveness",
+   "source": "药学名词",
+   "wordNumber": "02.064",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "固体物料压片时对冲模的黏着程度。"
+  },
+  {
+   "cn": "内聚力",
+   "en": "cohesion",
+   "source": "物理学名词",
+   "wordNumber": "05.0101",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "内聚力",
+   "en": "cohesion",
+   "source": "植物学名词",
+   "wordNumber": "11.0048",
+   "subjectFullName": "植物学_植物生理学_植物水分生理",
+   "subjectName": "植物水分生理",
+   "publishYear": "2019",
+   "definition": "由水分子间氢键形成的相互吸引力。"
+  },
+  {
+   "cn": "内聚性",
+   "en": "cohesion",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0486",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "程序模块中各个元素（类或方法）之间相互关联的程度。高内聚性是模块化设计的一个重要要求。"
+  },
+  {
+   "cn": "内聚",
+   "en": "cohesion",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0217",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "模块内各个部分彼此结合的紧密程度。最强内聚指一个模块只包含一个功能。"
+  },
+  {
+   "cn": "内聚",
+   "en": "cohesion",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.038",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "凝聚力",
+   "en": "cohesion",
+   "source": "土木工程名词",
+   "wordNumber": "03.111",
+   "subjectFullName": "土木工程_土力学与地基基础_土的物理性质",
+   "subjectName": "土的物理性质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "黏聚力",
+   "en": "cohesion",
+   "source": "水利科学技术名词",
+   "wordNumber": "05.172",
+   "subjectFullName": "水利科学技术_岩石力学、土力学、岩土工程_土力学（水利）",
+   "subjectName": "土力学（水利）",
+   "publishYear": "1997",
+   "definition": "由结构联结所产生的岩体、土体的抗剪强度。"
+  },
+  {
+   "cn": "黏结力",
+   "en": "cohesion",
+   "source": "公路交通科技名词",
+   "wordNumber": "08.237",
+   "subjectFullName": "公路交通科学技术_筑路用材料及性能",
+   "subjectName": "筑路用材料及性能",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "黏聚力",
+   "en": "cohesion",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "内聚性",
+   "en": "cohesion",
+   "source": "电子学名词",
+   "wordNumber": "21.119",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "内聚力",
+   "en": "cohesion; cohesive force",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1608",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "作用于裂纹内聚区的力，为断开跨平面上的原子键所需要的应力。 "
+  },
+  {
+   "cn": "肉黏结性",
+   "en": "meat cohesiveness",
+   "source": "畜牧学名词",
+   "wordNumber": "06.057",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_肉的品质特性",
+   "subjectName": "肉的品质特性",
+   "publishYear": "2020",
+   "definition": "肉在外力作用下黏结成团的能力。"
+  },
+  {
+   "cn": "群体凝聚力",
+   "en": "group cohesiveness",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0181",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_沟通与冲突",
+   "subjectName": "沟通与冲突",
+   "publishYear": "2016",
+   "definition": "群体成员对群体的认同程度，对群体目标的投入程度以及服从其他群体成员的程度。"
+  },
+  {
+   "cn": "黏性土",
+   "en": "cohesive soil",
+   "source": "地质学名词",
+   "wordNumber": "17.02.036",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "泛指物质组成中含较多黏粒和强亲水矿物，团聚结构，具一定的黏聚力，塑性指数＞10的土。"
+  },
+  {
+   "cn": "内聚力",
+   "en": "cohesive force",
+   "source": "地质学名词",
+   "wordNumber": "17.02.162",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "黏性土在不受压力作用时所具有的抗剪强度。"
+  },
+  {
+   "cn": "内聚破坏",
+   "en": "cohesive failure",
+   "source": "精细化工名词",
+   "wordNumber": "07.0076",
+   "subjectFullName": "精细化工_胶黏剂",
+   "subjectName": "胶黏剂",
+   "publishYear": "2025",
+   "definition": "胶黏剂或被粘物中发生的目视可见的破坏现象。"
+  },
+  {
+   "cn": "凝聚力",
+   "en": "cohesiveness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "黏着性",
+   "en": "cohesiveness",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "内聚力",
+   "en": "cohesion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内聚力",
+   "en": "cohesion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内聚力",
+   "en": "cohesion",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "内聚性",
+   "en": "cohesion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "群体凝聚力",
+   "en": "group cohesiveness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内聚功",
+   "en": "cohesion work",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内聚能密度",
+   "en": "cohesive density",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "社会凝聚力",
+   "en": "social cohesion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内聚破坏",
+   "en": "cohesive failure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "内聚力学说",
+   "en": "cohesion theory",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "凝聚",
+   "en": "coagulation\",\"cohesion",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "内聚力学说（=蒸腾-内聚力-张力学说）",
+   "en": "cohesion theory (=transpiration-cohesion-tension theory)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黏[性末]端",
+   "en": "cohesive end\",\"cohesive terminus\",\"sticky end",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黏端",
+   "en": "cohesive end\",\"cohesive terminus\",\"sticky end",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "黏性末端,黏端",
+   "en": "sticky end\",\"cohesive end\",\"cohesive terminus",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "结合律",
+   "en": "law of cohesion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蒸腾-内聚力-张力学说",
+   "en": "transpiration-cohesion-tension theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "晶体结合能",
+   "en": "cohesive energy of crystal",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "群体凝聚力",
+   "en": "group cohesiveness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "一个群体对其成员的吸引力，以及群体成员共同分担群体目标的程度。在一个具有凝聚力的群体中，成员之间密切配合、紧密团结，并拥有“我们”的感觉。由群体动力学家勒温(Kurt Lewin）在20世纪50年代提"
+  },
+  {
+   "cn": "社会凝聚力",
+   "en": "social cohesion",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.17",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会各主体因共同的利益和价值取向彼此具有吸引力、向心力，以及结为有机整体的聚合力。人们在利益、思想、观念、行动方面具有一致性、整体性和协同性的反映。也指社会公众趋同的精神心理和行动过程。具有社会动员与"
+  },
+  {
+   "cn": "学段衔接指导",
+   "en": "cohesion guidance of leaning period ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.2",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "为即将从一个教育阶段过渡到另一个教育阶段的学生所提供的各项教育或支持服务。"
+  },
+  {
+   "cn": "中华民族凝聚力",
+   "en": "cohesion of the Chinese Nation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0112",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "各民族在长期的历史发展中，逐步形成的以血缘、地缘为依托，以优秀文化为纽带，在维护共同利益过程中产生的中华民族的吸引力、向心力以及民族个体成员之间亲和力、聚合力的总称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,752 @@
+{
+ "key": "radical cognitive disability",
+ "term": "radical cognitive disability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:36:30+00:00",
+ "status": "ok",
+ "note": "variant=radical cognitive disability; 审定公布名词库=1554; 海峡两岸名词对照库=488; 其他来源数据库=76; 预公布名词数据库=396; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "失能",
+   "en": "disability",
+   "source": "急救医学名词",
+   "wordNumber": "06.025",
+   "subjectFullName": "急救医学_海上医学救援_基本概念_通用概念",
+   "subjectName": "通用概念",
+   "publishYear": "2025",
+   "definition": "按正常方式进行的日常独立生活活动和工作能力的受限或丧失。是个体或整体水平的障碍。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "手外科学名词",
+   "wordNumber": "06.0017",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "就健康范畴而言，是指由于病损造成以正常的方式或正常范围内进行活动的能力受限或缺失。在国际功能、残疾和健康分类中是对损伤、活动受限和参与局限性的一个概括性词语。表示在个体（有某种健康状况）和个体所处的情"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "运动医学名词",
+   "wordNumber": "07.012",
+   "subjectFullName": "运动医学_运动康复_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "由于各种躯体、身心、精神疾病或损伤、先天性异常及其他健康问题所致的解剖结构、生理功能的异常和/或丧失，造成机体的功能障碍状态。其结果是不同程度地影响身体活动、日常生活、工作、学习和社会交往活动能力。这"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "烧伤学名词",
+   "wordNumber": "06.004",
+   "subjectFullName": "烧伤学_烧伤康复与整形_烧伤康复治疗",
+   "subjectName": "烧伤康复治疗",
+   "publishYear": "2019",
+   "definition": "就健康范畴而言，是指由于病损造成以正常的方式或正常范围内进行活动的能力受限或缺失。在《国际功能、残疾和健康分类》中是对损伤、活动受限和参与局限性的一个概括性术语。表示在个体（有某种健康情况）和个体所处"
+  },
+  {
+   "cn": "失能",
+   "en": "disability",
+   "source": "老年医学名词",
+   "wordNumber": "07.009",
+   "subjectFullName": "老年医学_老年康复医学",
+   "subjectName": "老年康复医学",
+   "publishYear": "2017",
+   "definition": "按正常方式进行的日常独立生活活动和工作能力的受限或丧失。是个体或整体水平的障碍。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.038",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "各种躯体、身心、精神疾病或损伤以及先天性异常所致的解剖结构和生理功能的异常和(或)丧失，造成机体长期、持续或永久性的功能障碍，而不能被治愈的状态。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.017",
+   "subjectFullName": "物理医学与康复_总论_物理医学与康复概论",
+   "subjectName": "物理医学与康复概论",
+   "publishYear": "2014",
+   "definition": "就健康范畴而言，是指由于病损造成以正常的方式或正常范围内进行活动的能力受限或缺失。在国际功能、残疾和健康分类中是对损伤、活动受限和参与局限性的一个概括性词语。表示在个体(有某种健康情况和个体所处的情景"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "放射医学与防护名词",
+   "wordNumber": "11.206",
+   "subjectFullName": "放射医学与防护_放射性疾病诊断、治疗与健康监护_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2014",
+   "definition": "国家社会保险法规中所规定医疗期满时经鉴定确认系统或器官留有损伤或功能障碍的状态。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "教育学名词",
+   "wordNumber": "10.012",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "由于损伤而造成的活动能力受限或缺乏，以致不能按人类正常的功能模式进行活动。"
+  },
+  {
+   "cn": "失能",
+   "en": "disability",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0235",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": "个体水平的障碍。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0237",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": "系病损、失能、残障三者之总称。"
+  },
+  {
+   "cn": "失能",
+   "en": "disability",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.189",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "部首",
+   "en": "radical",
+   "source": "语言学名词",
+   "wordNumber": "02.062",
+   "subjectFullName": "语言学_文字学_汉字的结构",
+   "subjectName": "汉字的结构",
+   "publishYear": "2011",
+   "definition": "汉语辞书中，为含有相同形体部分的汉字依据规则分别归类而设立的字群标目。例如，《新华字典》中给汉字归类、分别统率一组字的“丿”“”“氵”“山”“日”等。"
+  },
+  {
+   "cn": "根式",
+   "en": "radical",
+   "source": "数学名词",
+   "wordNumber": "04.0104",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "根[基]",
+   "en": "radical",
+   "source": "数学名词",
+   "wordNumber": "04.1342",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "神经外科学名词",
+   "wordNumber": "3.028",
+   "subjectFullName": "医学_神经外科学_神经外科病理生理_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "人类获取、加工、存储和使用信息的心理过程的总称。包括学习、思考、推理、记忆、解决问题、决策和注意力。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.179",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人类获取、加工、存储和使用信息的心理过程的总称。包括感觉、知觉、注意、记忆和思维等过程。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "行为医学名词",
+   "wordNumber": "2.089",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "个体获取、加工、存储和使用信息过程的总称。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.099",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "人类获取、加工、储存和使用信息的心理过程的总称。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "核医学名词",
+   "wordNumber": "04.0769",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础",
+   "subjectName": "神经系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "人脑接受外界信息，经过加工处理，转换成内在的心理活动，从而获取知识或应用知识的过程。包括记忆、语言、视空间、执行、计算和理解判断等方面。"
+  },
+  {
+   "cn": "基",
+   "en": "radical",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "偏旁",
+   "en": "radical",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由基",
+   "en": "radical\",\"free radical",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "羟基",
+   "en": "OH [radical]，hydroxyl radical",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "失效要素",
+   "en": "disabled feature",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "禁止",
+   "en": "disable\",\"inhibition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "禁止中断",
+   "en": "interrupt disable",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超氧自由基",
+   "en": "superoxide radical",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "根生花序",
+   "en": "radical inflorescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "羟自由基",
+   "en": "hydroxyl radical",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物自由基",
+   "en": "biological radical",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由基",
+   "en": "free radical",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由基清除剂",
+   "en": "radical scavenger",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由基",
+   "en": "free radical",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由基捕获剂",
+   "en": "radical scavenger",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自由基",
+   "en": "free radical",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "根音低音",
+   "en": "radical bass",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "根音终止",
+   "en": "radical cadence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知计算",
+   "en": "cognitive computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知盈余",
+   "en": "cognitive surplus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心知",
+   "en": "Mind Cognition",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境认知",
+   "en": "environmental cognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知功能模拟",
+   "en": "cognitive function simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨媒体感知计算",
+   "en": "cross-media cognitive computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知与智能服务",
+   "en": "cognitive computing and intelligent service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电商助残扶贫行动",
+   "en": "poverty alleviation through e-commerce for people with disabilities",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "易用性说明",
+   "en": "usability instruction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贷款人环境法律责任",
+   "en": "lender’s environmental liability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激光镭迪尔级",
+   "en": "Laser Radial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医学观察",
+   "en": "medical watch; medical observation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "体检",
+   "en": "medical check-up\",\"medical control",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失能",
+   "en": "disability",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "由于意外伤害、疾病、或自然衰老导致身体或精神上的损伤，造成无法独立地正常生活的状态。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.0089999999999995",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "因身体、智力、精神或感官的损伤，导致个体长期、持续或永久性的功能障碍，而不能被治愈的状态。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "社会医学名词",
+   "wordNumber": "12.5.1",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "残疾人卫生保健",
+   "publishYear": "2025",
+   "definition": "心理、生理或人体结构方面存在某种组织、功能的丧失或异常，导致个体全部或部分丧失以正常方式从事某种活动的能力，通常包括视力残疾、听力残疾、言语残疾、肢体残疾、智力残疾、精神残疾、多重残疾和其他类型的残疾"
+  },
+  {
+   "cn": "认识",
+   "en": "cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0155",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人脑在实践基础上对客观事物的能动反映，体现了认识主体的能动性、选择性和创造性。包括感性认识和理性认识。从生动的直观到抽象的思维，从抽象的思维到实践，是认识的辩证发展过程。"
+  },
+  {
+   "cn": "激进主义",
+   "en": "Radicalism",
+   "source": "马克思主义",
+   "wordNumber": "04.0319",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "对现存社会秩序、社会组织原则和社会运行方式持强烈的批判态度，主张通过激烈的手段，实现社会快速的、根本性的变革的理论或社会运动。"
+  },
+  {
+   "cn": "伤残抚恤",
+   "en": "disability pension",
+   "source": "社会学名词",
+   "wordNumber": "4.3.11.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会优抚",
+   "subjectName": "社会优抚",
+   "publishYear": "2025",
+   "definition": "国家或政府依法对伤残军人及其家属提供保障其基本生活的现金或服务的社会优抚项目。"
+  },
+  {
+   "cn": "言语残疾",
+   "en": "speech disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致的不同程度的言语障碍，经治疗1年以上不愈或病程超过2年，而不能或难以进行正常的言语交往活动，以致影响其日常生活和社会参与（3岁以下不定残）。"
+  },
+  {
+   "cn": "智力残疾",
+   "en": "intellectual disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "智力明显低于一般人的水平，并伴有适应行为障碍者。包括在智力发育期间由各种有害因素导致精神发育迟滞或智力落后、智力发育成熟后由各种有害因素导致的智力损害及老年期智力的衰退。"
+  },
+  {
+   "cn": "视力残疾",
+   "en": "visual disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视力损失或视野缩小，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "听力残疾",
+   "en": "hearing disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双耳不同程度的永久性听力障碍，听不到或听不清周围环境声以及言语声，以致影响日常生活和社会参与。"
+  },
+  {
+   "cn": "肢体残疾",
+   "en": "physical disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "人体运动系统的结构、功能损伤造成四肢残缺或四肢、躯干麻痹（瘫痪）、畸形等而致人体运动功能不同程度的丧失以及活动受限或参与的局限。"
+  },
+  {
+   "cn": "精神残疾",
+   "en": "mental disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "各类精神障碍持续一年以上未痊愈，由于病人的认知、情感和行为障碍，影响其日常和社会参与。"
+  },
+  {
+   "cn": "永久残疾",
+   "en": "permanent disability",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.24",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由疾病或损伤造成的不可逆转的功能活动障碍。"
+  },
+  {
+   "cn": "先天性残疾",
+   "en": "congenital disability",
+   "source": "社会医学名词",
+   "wordNumber": "12.5.4",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "残疾人卫生保健",
+   "publishYear": "2025",
+   "definition": "出生前由遗传或非遗传因素所致的残疾。"
+  },
+  {
+   "cn": "残疾率",
+   "en": "disability rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.20",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "残疾率",
+   "publishYear": "2025",
+   "definition": "某一人群中，在特定期间内每百（或千、万、十万）人中实际存在的残疾人数，即通过询问调查或健康检查确诊的残疾人数与调查人数之比。反映残疾在人群中发生的频率，以及某个具体残疾对人群健康的影响程度。"
+  },
+  {
+   "cn": "残疾预防",
+   "en": "disability prevention",
+   "source": "社会医学名词",
+   "wordNumber": "12.5.5",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "残疾人卫生保健",
+   "publishYear": "2025",
+   "definition": "通过采取医学、教育、社会、环境等多种手段，防止或减少致残因素的发生与发展，最大限度降低残疾的发生率、减轻残疾程度、延缓残疾进程、减少残疾影响的综合性、系统性措施。通常包括三级预防：一级预防是预防疾病和"
+  },
+  {
+   "cn": "残疾率",
+   "en": "disability rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.4.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战时每百名伤员治疗结束后定为残疾的人数，也可分别计算各不同等级的此率，为政治部门和地方民政部门的后续工作提供依据。"
+  },
+  {
+   "cn": "伤残权重",
+   "en": "disability weight",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.6",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "根据短暂性失能到永久残疾的不同程度将残疾/失能赋予不同的权重值，范围在0-1 之间，0 代表完全健康，1 代表死亡。"
+  },
+  {
+   "cn": "多重残疾",
+   "en": "multiple disabilities",
+   "source": "社会医学名词",
+   "wordNumber": "12.5.3",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "残疾人卫生保健",
+   "publishYear": "2025",
+   "definition": "同时存在两种或两种以上残疾的情况。"
+  },
+  {
+   "cn": "多重残疾",
+   "en": "multiple disabilities",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "存在两种或两种以上残疾。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

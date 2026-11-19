@@ -1,0 +1,32 @@
+{
+ "key": "bioregionalism",
+ "term": "Bioregionalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:54:32+00:00",
+ "status": "ok",
+ "note": "variant=Bioregionalism; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "生物区",
+   "en": "bioregion",
+   "source": "生态学名词",
+   "wordNumber": "09.052",
+   "subjectFullName": "生态学_全球生态学",
+   "subjectName": "全球生态学",
+   "publishYear": "2006",
+   "definition": "依据动植物区系以及相关的气候、土壤、地貌等典型特征划分的生物分布的地域。"
+  },
+  {
+   "cn": "生物区",
+   "en": "biotic region\",\"bioregion",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

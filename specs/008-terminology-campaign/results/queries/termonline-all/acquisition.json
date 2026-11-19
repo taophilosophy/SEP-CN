@@ -1,0 +1,542 @@
+{
+ "key": "acquisition",
+ "term": "acquisition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:39:50+00:00",
+ "status": "ok",
+ "note": "variant=acquisition; 审定公布名词库=220; 海峡两岸名词对照库=53; 其他来源数据库=10; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "捕获",
+   "en": "acquisition",
+   "source": "光学名词",
+   "wordNumber": "22.177",
+   "subjectFullName": "光学_光通信技术",
+   "subjectName": "光通信技术",
+   "publishYear": "2021",
+   "definition": "在空间光通信系统激光链路建立前，两个光终端通过瞄准和扫描，探测(接收)到对方发射光束(光信号)的过程。捕获用于激光链路的建立和中断后的恢复，分为单向捕获和双向捕获两种方式：单向捕获指仅通过一个光终端粗"
+  },
+  {
+   "cn": "采集",
+   "en": "acquisition",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.025",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "信号数据的电子测定和获取记录过程。"
+  },
+  {
+   "cn": "习得",
+   "en": "acquisition",
+   "source": "生物物理学名词",
+   "wordNumber": "04.225",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "个体学习条件刺激与非条件刺激之间建立联系关系的过程。"
+  },
+  {
+   "cn": "收购",
+   "en": "acquisition",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0597",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "一家企业用现金或者有价证券购买另一家企业的股票或者资产，以获得对该企业的全部资产或者某项资产的所有权，或对该企业的控制权。"
+  },
+  {
+   "cn": "习得",
+   "en": "acquisition",
+   "source": "心理学名词",
+   "wordNumber": "02.126",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "通过使某种反应得到强化形成一种条件反射的过程。如经学习获得的新知识和行为等。"
+  },
+  {
+   "cn": "捕获",
+   "en": "acquisition",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.599",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在通信系统中，捕捉信号并实现锁定的过程。"
+  },
+  {
+   "cn": "捕获",
+   "en": "acquisition",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.404",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "截获",
+   "en": "acquisition",
+   "source": "航空科学技术名词",
+   "wordNumber": "07.195",
+   "subjectFullName": "航空科学技术_航空电子与机载计算机系统",
+   "subjectName": "航空电子与机载计算机系统",
+   "publishYear": "2003",
+   "definition": "机载火控雷达从搜索方式转入对目标跟踪的过程。"
+  },
+  {
+   "cn": "捕获",
+   "en": "acquisition",
+   "source": "航海科技名词",
+   "wordNumber": "06.0315",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "采访",
+   "en": "acquisition,purchase",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.321",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "图书馆根据各自的性质、任务、读者需求和经费状况，通过购买、交换、受赠等方式尽可能经济、迅速地补充馆藏资源的过程。一般可分为购入和非购入两种方式。采访可分为两个阶段，即文献选择和实际的购买过程，具体包括"
+  },
+  {
+   "cn": "导星相机",
+   "en": "acquisition camera",
+   "source": "天文学名词",
+   "wordNumber": "06.144",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "帮助望远镜和观测仪器获取并指向天体目标，并保证对目标精密跟踪的成像系统。"
+  },
+  {
+   "cn": "采集脚印",
+   "en": "acquisition footprint",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0225",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "由地震采集方法及参量引起的地震数据属性有规律的变化。 "
+  },
+  {
+   "cn": "采集链",
+   "en": "acquisition link",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0226",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "将采集站和数据传输电缆集成在一起形成链状结构的地面采集设备。"
+  },
+  {
+   "cn": "采集矩阵",
+   "en": "acquisition matrix",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "数字成像时所选择的矩阵，即每幅影像观察视野所包含的像素数目。"
+  },
+  {
+   "cn": "采集时间",
+   "en": "acquisition time",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.026",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "获取信号数据所需要的时间。"
+  },
+  {
+   "cn": "采集帧率",
+   "en": "acquisition rate",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.038",
+   "subjectFullName": "医学影像技术学_介入放射学技术_设备与原理",
+   "subjectName": "设备与原理",
+   "publishYear": "2020",
+   "definition": "单位时间内采集影像的数量。用帧/秒（f/s,fps）表示。根据不同血管、不同病情选择相应的采集帧率，如心脏、大血管采集帧率为15f/s或30f/s 。"
+  },
+  {
+   "cn": "采访状态",
+   "en": "acquisition status",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.331",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "关于馆藏采访订单和采购资金的当前状态，以及入藏要求的相关信息描述。"
+  },
+  {
+   "cn": "资源购置经费",
+   "en": "acquisition expenditure",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.029",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "图书馆为购买纸质文献、数字文献和其他类型的文献所支付的经费。主要来源包括政府财政部门直接拨款、上级主管部门拨款、私人与社会团体捐赠以及机构自筹等。"
+  },
+  {
+   "cn": "采访目录",
+   "en": "acquisition list",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.326",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "采访部门经过圈选、查重等工作后，为订购的文献编制的目录。一般包括所订购文献的题名、著者、出版社、国际标准书号等著录事项以及订购数量、日期、编号等，并按文献题名、出版社名称字顺或分类排列而成。"
+  },
+  {
+   "cn": "采访系统",
+   "en": "acquisition system",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.327",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "广义指由图书馆收集和获取所需文献过程中的各种信息、人员和工作流程所组成的一个整体。狭义指通过计算机和网络辅助采访人员进行采访工作的集成管理系统。它通常是图书馆集成管理系统中的一个子系统，通过模块化设计"
+  },
+  {
+   "cn": "习得",
+   "en": "acquisition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "获取",
+   "en": "acquisition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "捕获",
+   "en": "acquisition",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "采样时间",
+   "en": "acquisition time",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "购置成本",
+   "en": "acquisition cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "购置价格",
+   "en": "acquisition price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "获取范围，捕获范围",
+   "en": "acquisition range",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "获取过程",
+   "en": "acquisition process",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "收集时间",
+   "en": "acquisition time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "探测雷达",
+   "en": "acquisition radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "占用时间",
+   "en": "acquisition time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资料收集",
+   "en": "data acquisition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概念习得,概念获得",
+   "en": "concept acquisition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "碳获取",
+   "en": "carbon acquisition",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "技术引进",
+   "en": "technology acquisition",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "银行兼并",
+   "en": "banking acquisition",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "碳获取",
+   "en": "carbon acquisition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "震波收录",
+   "en": "seismic acquisition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "初始获取",
+   "en": "initial acquisition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念获取",
+   "en": "concept acquisition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全景声采集",
+   "en": "panoramic sound acquisition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据采集",
+   "en": "Big Data Acquisition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生物信号数据采集",
+   "en": "biosignal data acquisition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兼并收购",
+   "en": "Mergers and Acquisitions",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据采集卫星星座",
+   "en": "data acquisition satellite cluster",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据采集权",
+   "en": "right to data acquisition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据采集汇聚",
+   "en": "data acquisition and aggregation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 38888-2020 数据采集软件的性能及校准方法》",
+   "en": "GB/T 38888-2020 Performance and calibration methods for data acquisition software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 38619-2020 工业物联网 数据采集结构化描述规范》",
+   "en": "GB/T 38619-2020  Industrial Internet of Things — Specification of structured description for data acquisition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源获取模式",
+   "en": "resource acquisition model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.25",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "社会服务活动所需经费、物料等资源的来源途径与取得方式。"
+  },
+  {
+   "cn": "并购",
+   "en": "merger and acquisition",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.3",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "全称“兼并收购”。在卫生服务机构控制权变换过程中，各权利主体依据机构产权制度安排而进行的一种权利让渡行为（两个或多个卫生服务机构合并组成一个机构）。包括兼并和收购两种形式。"
+  },
+  {
+   "cn": "语言习得机制",
+   "en": "language acquisition device",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.005",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "乔姆斯基提出人先天有一种“语言习得机制”，这种机制存在于人脑中，使得人们能够学习语言。这种机制在语言习得关键期以后就会消失。"
+  },
+  {
+   "cn": "宗教裁判所",
+   "en": "Inquisition",
+   "source": "马克思主义",
+   "wordNumber": "04.0026",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "天主教会侦察和审判“异端分子”的机构。教皇洪诺留三世于1220年通令建立。裁判所以教皇为最高首脑，裁判官由教皇任命并直接控制，不受地方教会机构和世俗政权的监督制约。裁判所残酷迫害“异端分子”以及反对封"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

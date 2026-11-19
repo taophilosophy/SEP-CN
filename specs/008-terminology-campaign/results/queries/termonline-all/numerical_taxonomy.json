@@ -1,0 +1,512 @@
+{
+ "key": "numerical taxonomy",
+ "term": "numerical taxonomy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:27:26+00:00",
+ "status": "ok",
+ "note": "variant=numerical taxonomy; 审定公布名词库=199; 海峡两岸名词对照库=99; 其他来源数据库=25; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "数值分类学",
+   "en": "numerical taxonomy",
+   "source": "动物学名词",
+   "wordNumber": "2.0004",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "当今三大分类学派之一。根据性状的总体相似性程度进行分类和构建分类体系的分类学派。即借数值方法，根据其性状状态将分类单元归类成类元的一种方法。"
+  },
+  {
+   "cn": "数值分类学",
+   "en": "numerical taxonomy",
+   "source": "植物学名词",
+   "wordNumber": "02.0015",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "利用数学的方法对从各个领域获得的信息性状进行分析和综合，根据性状的总体相似性程度进行分类和构建分类体系的分类学派。"
+  },
+  {
+   "cn": "数值分类法",
+   "en": "numerical taxonomy",
+   "source": "药学名词",
+   "wordNumber": "06.168",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "1963年由索卡尔(R. R. Sokal)和斯尼思(P. H. A. Sneath)首先创立的一种生物学分类系统，该分类法采用聚类分析等数值分类法对相似关系进行分组。"
+  },
+  {
+   "cn": "数值分类法",
+   "en": "numerical taxonomy",
+   "source": "微生物学名词",
+   "wordNumber": "02.061",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "依据数值分析的原理，对拟分类的微生物的大量表型信息在等权处理的基础上进行统计与归类，确定其与模式分类单元相似程度的方法。"
+  },
+  {
+   "cn": "数值分类学",
+   "en": "numerical taxonomy",
+   "source": "昆虫学名词",
+   "wordNumber": "02.014",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "根据性状的总体相似性程度进行分类和构建分类体系的分类学派。"
+  },
+  {
+   "cn": "植物数值分类学",
+   "en": "plant numerical taxonomy",
+   "source": "植物学名词",
+   "wordNumber": "01.0010",
+   "subjectFullName": "植物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "基于数值分析的原理，对大量表型性状进行等权处理和统计分析，以解决植物分类问题的学科。"
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.455",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究活着的和已灭绝的动植物分类的学科。"
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "source": "植物学名词",
+   "wordNumber": "02.0008",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "研究生物分类、鉴定和命名的原理和方法的学科。"
+  },
+  {
+   "cn": "分类表",
+   "en": "taxonomy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0509",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "事物或者概念的分类，以及这种分类的机理。"
+  },
+  {
+   "cn": "概念树",
+   "en": "taxonomy",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0779",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "概念依据抽象程度不同而构成的一个层次结构。是概念属性的一种概括语义描述。"
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "source": "微生物学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "研究生物个体的鉴定、归类和定名的学科。"
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "source": "昆虫学名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "关于生物分类、鉴定和命名的原理和方法的学科。"
+  },
+  {
+   "cn": "数词",
+   "en": "numeral",
+   "source": "语言学名词",
+   "wordNumber": "04.046",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "表示数目或次序的词。例如“三”“千”“第五”。其语法特征是：一般不能直接修饰名词，通常跟量词组合成数量短语。"
+  },
+  {
+   "cn": "分子",
+   "en": "numerator",
+   "source": "数学名词",
+   "wordNumber": "04.0063",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "土壤系统分类",
+   "en": "soil taxonomy",
+   "source": "农学名词",
+   "wordNumber": "09.159",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "以土壤诊断层和诊断特性为基础拟定的土壤分类系统。"
+  },
+  {
+   "cn": "动物分类学",
+   "en": "animal taxonomy",
+   "source": "动物学名词",
+   "wordNumber": "1.0005",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "研究动物分类、鉴定和命名原理以及方法的学科。研究重点是动物各门类的分类特征与分类系统。"
+  },
+  {
+   "cn": "经典分类学",
+   "en": "classical taxonomy",
+   "source": "动物学名词",
+   "wordNumber": "2.0001",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "主要基于模式标本的分类学。根据种形态、地理分布和生态等特征的异同来进行分类的研究方法，在不同特征间存在加权，没有统一分类原则的单纯分类学。"
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "source": "动物学名词",
+   "wordNumber": "2.0003",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "当今三大分类学派之一。以生物进化原理为指导的分类学派。在近代分类学研究中，特指在建立分类系统时，同时考虑谱系关系和特征差异程度两种因素的学派。"
+  },
+  {
+   "cn": "综合分类学",
+   "en": "synthetic taxonomy",
+   "source": "动物学名词",
+   "wordNumber": "2.0005",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "由经典分类学派吸收适用的支序系统学和数值分类学的原理和方法形成的分类学派。强调亲缘关系由支系与共同祖先的远近程度决定，一个类群是否为单系亲缘可通过其具有的衍征来测定。"
+  },
+  {
+   "cn": "整合分类学",
+   "en": "integrative taxonomy",
+   "source": "动物学名词",
+   "wordNumber": "2.0006",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "利用多学科之间的互补性，将来自不同学科领域的新理论和方法整合为一体的一种分类方法。特别依据最能反映亲缘关系和系统进化的主要性状进行分类。"
+  },
+  {
+   "cn": "数值分类学",
+   "en": "numerical taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数值分类学",
+   "en": "numerical taxonomy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "数值分类法",
+   "en": "numerical taxonomy",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "数值分类学",
+   "en": "numerical taxonomy",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "植物数值分类学",
+   "en": "plant numerical taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分类法，分类学",
+   "en": "taxonomy",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "林奈分类学（=经典分类学）",
+   "en": "Linnaean taxonomy (=classical taxonomy)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "折中分类学（=综合分类学）",
+   "en": "eclectic taxonomy (=synthetic taxonomy)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正统分类学（=经典分类学）",
+   "en": "orthodox taxonomy (=classical taxonomy)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "丙级分类学（= g分类学）",
+   "en": "gamma taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "传统分类学（=经典分类学）",
+   "en": "classical taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "α分类学，甲级分类学",
+   "en": "alpha taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "β 分类学，乙级分类学",
+   "en": "beta taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "γ 分类学，丙级分类学",
+   "en": "gamma taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分子分类学",
+   "en": "molecular taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "甲级分类学（=α分类学）",
+   "en": "alpha taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数值代数",
+   "en": "numerical algebra",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数值型数据",
+   "en": "numerical data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人数劣势",
+   "en": "numerical inferiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人数劣势",
+   "en": "numerical inferiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人数优势",
+   "en": "numerical superiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人数优势",
+   "en": "numerical superiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数系",
+   "en": "numeral system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字控制系统",
+   "en": "numerical control system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "术语定义和分类工作组",
+   "en": "Definitions and Taxonomies Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大众分类法",
+   "en": "folk taxonomy",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以研究对象的分类方式为基础对信息进行分类的方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

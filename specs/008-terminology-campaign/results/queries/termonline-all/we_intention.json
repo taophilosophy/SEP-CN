@@ -1,0 +1,792 @@
+{
+ "key": "we-intention",
+ "term": "we-intention",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:36:37+00:00",
+ "status": "ok",
+ "note": "variant=we-intention; 审定公布名词库=1707; 海峡两岸名词对照库=293; 其他来源数据库=53; 预公布名词数据库=86; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "意图",
+   "en": "intention",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.572",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在做某事之前出现于人的意识中的将要做此事的心理观念与计划，意向确定了行动的目的与类型。"
+  },
+  {
+   "cn": "意向",
+   "en": "intention",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.042",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "技术设计者或使用者针对技术人工物的结构和功能所产生的某种目的预测或行为意图。它以技术人工物作为中介，调节人与世界的关系。"
+  },
+  {
+   "cn": "意图",
+   "en": "intent",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.208",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "比较清楚地意识到要争取实现的目标和方法的需要。通常以仅仅设想而未付诸行动的企图、愿望、幻想、理想等方式存在。是作为动机推动人去行动的现实力量。人在清醒的状态中，绝大部分的活动都是有意图的。常基于某个目"
+  },
+  {
+   "cn": "自媒体",
+   "en": "we media",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.204",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "由公众个人或团队独立运作，用以发布、分享具有一定公共价值的信息传播载体，包括但不限于博客、微博、微信等形式。"
+  },
+  {
+   "cn": "自媒体",
+   "en": "We Media",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.197",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体的社会影响及研究",
+   "subjectName": "新媒体的社会影响及研究",
+   "publishYear": "2022",
+   "definition": "在网络技术特别是Web 2.0技术环境下，不从属专业媒体的个体或组织通过各种网络手段进行自主的信息传播的方式。由美国专栏作家丹·吉尔莫(Dan Gillmor)提出。他将博客等称为“自媒体”，认为自媒"
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intention tremor",
+   "source": "肝病学名词",
+   "wordNumber": "8.8.2.4",
+   "subjectFullName": "肝病学_肝硬化及其并发症_肝硬化其他并发症",
+   "subjectName": "肝硬化其他并发症",
+   "publishYear": "2024",
+   "definition": "出现于随意运动时的震颤。特点是在随意运动中或将要接近目标时震颤最为明显，主要见于小脑及其传出通路病变时。"
+  },
+  {
+   "cn": "目的合理性",
+   "en": "intention rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.033",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "实现某种目的的工具、手段的合理性，是可以达到预期目的，可经验实证的合理性。"
+  },
+  {
+   "cn": "行为意向",
+   "en": "behavioral intention",
+   "source": "行为医学名词",
+   "wordNumber": "2.079",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "影响行为发生转变的动机和意愿。是行为改变的直接决定力量，决定是否采取行动。受到行为信念、行为态度、个人规范、他人规范信念和顺从动机等多因素影响。"
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intention tremor",
+   "source": "生理学名词",
+   "wordNumber": "03.622",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intention tremor",
+   "source": "神经病学名词",
+   "wordNumber": "09.043",
+   "subjectFullName": "神经病学_运动障碍性疾病",
+   "subjectName": "运动障碍性疾病",
+   "publishYear": "2020",
+   "definition": "肢体活动时出现，接近目标时更显著，频率和幅度通常不规则的震颤。常见于小脑及其联系纤维病变。"
+  },
+  {
+   "cn": "智能体的意图",
+   "en": "agent intention",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0165",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体的思维属性之一。表示智能体从多个愿望中选定的、经过承诺准备付诸实施的目标。"
+  },
+  {
+   "cn": "意向锁",
+   "en": "intention lock",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0254",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "在多层数据库结构中表示事务在较低层持有锁的一种标记。假设事务在数据库的某一层持有读锁，则其双亲层便具有意向读锁标记。"
+  },
+  {
+   "cn": "群体意图",
+   "en": "group intention",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0166",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "多个智能体在合作求解过程中通过一致的、成功的行为所表现出来的整体意图。"
+  },
+  {
+   "cn": "意图复议",
+   "en": "intention reconsideration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0168",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "当环境与智能体原意图出现偏差时，智能体更新和修改原意图，从而实现既定目标的一种策略。"
+  },
+  {
+   "cn": "联合意图",
+   "en": "joint intention",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0167",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "多个智能体为了实现共同目标的行为选择，这些行为保持可满足性、持续性和一致性。"
+  },
+  {
+   "cn": "故意纵火",
+   "en": "intention fire",
+   "source": "林学名词",
+   "wordNumber": "07.278",
+   "subjectFullName": "林学_森林保护_森林防火",
+   "subjectName": "森林防火",
+   "publishYear": "2016",
+   "definition": "有些人为了达到某种目的故意放火而引发森林着火的行为。"
+  },
+  {
+   "cn": "创业意向",
+   "en": "entrepreneurial intention",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0118",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "潜在创业者是否从事创业活动的主观态度倾向。"
+  },
+  {
+   "cn": "意向状态",
+   "en": "intentional state",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.574",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有意向性的心理状态，即指向世界中的对象的心理状态。如相信、认为、判断、意见、意欲、愿望、恐惧等。"
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intentional tremor",
+   "source": "麻醉学名词",
+   "wordNumber": "03.081",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_神经系统与神经肌肉疾病",
+   "subjectName": "神经系统与神经肌肉疾病",
+   "publishYear": "2024",
+   "definition": "当肢体有目的地接近某个目标时，在运动过程中出现的震颤。越接近目标，震颤越明显，达到目标并保持姿势时，震颤有时仍能持续存在。多见于小脑病变，丘脑、红核病变时也可出现。"
+  },
+  {
+   "cn": "有意漏气",
+   "en": "intentional leak",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.068",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_气道正压通气治疗",
+   "subjectName": "气道正压通气治疗",
+   "publishYear": "2022",
+   "definition": "通过呼吸机面罩上的排气孔把富含二氧化碳的呼出气排出，以减少二氧化碳重复吸入的过程。"
+  },
+  {
+   "cn": "意向，意图",
+   "en": "intention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预向动作",
+   "en": "intention movement",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "投资意向",
+   "en": "investment intention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "意向锁",
+   "en": "intention lock",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预期动作",
+   "en": "intention movement",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "有意识记",
+   "en": "intentional memorization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意向系统",
+   "en": "intentional system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意向书",
+   "en": "statement of intention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "意向书",
+   "en": "letter of intent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信念-期望-意图模型",
+   "en": "belief-desire-intention model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发明",
+   "en": "invention",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二声部创意曲",
+   "en": "Invention",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bach, Johann Sebastian"
+  },
+  {
+   "cn": "意向",
+   "en": "intension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "截留，保留",
+   "en": "retention",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保持",
+   "en": "retention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "摄取",
+   "en": "ingestion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "音准",
+   "en": "intonation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "素歌开始句",
+   "en": "intonation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自媒体",
+   "en": "We Media",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图",
+   "en": "second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "foul intentional",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "团结定能胜利。（援助法国，源自雨果）",
+   "en": "United we shall overcome. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图进攻",
+   "en": "attack on second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意四坏球上垒",
+   "en": "intentional base on balls",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不获全胜决不轻言成功",
+   "en": "We will not proclaim success until we have secured the final victory over COVID-19.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "道不远人，人无异国。（援助韩国，源自新罗旅唐学者崔致远）",
+   "en": "   Great distance cannot separate us;We all live in a united world.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "青山一道，共担风雨。（援助日本，源自王昌龄）",
+   "en": "Great distance cannot separate us;We all live in a united world.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《爆发：大数据时代预见未来的新思维》（〔美〕艾伯特–拉斯洛·巴拉巴西）",
+   "en": "Bursts: The Hidden Patterns Behind Everything We Do (Albert-László Barabási, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身若伏波，与子同海，若为落木，与子同枝，若为兰草，与子同室。（援助意大利，源自古罗马则学家塞涅卡）",
+   "en": "We are waves of the same sea, leaves of the same tree, flowers of the same garden.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "岂曰无衣，与子同裳。",
+   "en": "Fear not the want of armor, for mine is also yours to wear.或Together we stand, my armors thine.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《大数据时代》（〔英〕维克托·迈尔–舍恩伯格、〔英〕肯尼斯·库克耶）",
+   "en": "Big Data: A Revolution That Will Transform How We Live, Work, and Think (Viktor Mayer-Schönberger & Kenneth Cukier, UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "山川异域，风月同天。",
+   "en": "While mountains and rivers separate us, we enjoy the same moonlight under the same sky.或Miles apart but close at heart.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "故意污染",
+   "en": "intentional contamination",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.66",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为谋取不当利益，故意向原辅料或食品中添加非食用物质，故意超范围、超限量使用农兽药和食品（饲料）添加剂或采用其他不适合人类食用方法生产加工食品等的行为。"
+  },
+  {
+   "cn": "蓄意破坏",
+   "en": "intentional tampering",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.67",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为伤害他人或扰乱社会，通过生物、化学、物理等因素对食品和食品生产过程进行破坏的行为。"
+  },
+  {
+   "cn": "蓄意掺假",
+   "en": "intentional adulteration",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.17",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在生产、加工、运输、销售等过程中有意造假的行为。包括替代、稀释、隐瞒、未经许可的强化等，以降低成本或提升产品等级，从中获取不正当利益。"
+  },
+  {
+   "cn": "人不犯我我不犯人人若犯我我必犯人",
+   "en": "we will not attack unless we are attacked if we are attacked we will certainly counterattack",
+   "source": "马克思主义",
+   "wordNumber": "03.0443",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东总结抗日战争期间中国共产党同国民党顽固派斗争的经验提出的军事自卫原则。我们决不打第一枪，也决不可在被人家进攻时不予还击。对于顽固派的军事攻击，必须坚决、彻底、干净、全部消灭之。抗日战争胜利后，为"
+  },
+  {
+   "cn": "有意注意时间",
+   "en": "intentional attention to time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "有预定的目的，需要一定意志努力的注意所维持的时间。"
+  },
+  {
+   "cn": "儿童故意伤害",
+   "en": "intentional injury to children",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "有计划、有目的地加害儿童的伤害行为。主要包括自杀、自伤、虐待/疏忽、家庭/社会暴力、强奸以及与毒品/酒精有关的伤害等，对家庭、社会及受害者危害极大，严重影响经济发展和社会安全。"
+  },
+  {
+   "cn": "故意伤害行为",
+   "en": "behavior related to intentional injury",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "由携带枪支、刀具、凶器，校内外斗殴，各种自伤和自杀行为，校园欺负/暴力行为，离家出走，以及伤心欲绝、严重抑郁/失眠等内隐性心理-行为问题等所导致的伤害行为。"
+  },
+  {
+   "cn": "治国必先治党治党务必从严",
+   "en": "manage the country first we must well manage the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0653",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2000年1月，江泽民在中共中央纪律检查委员会第四次全体会议上，向全党提出了“治国必先治党，治党务必从严”的治国治党理念。这是党中央对我党70多年的历史和世界社会主义运动的曲折历程的经验与教训的总结和"
+  },
+  {
+   "cn": "发明",
+   "en": "invention",
+   "source": "马克思主义",
+   "wordNumber": "04.0041",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类创造新的、前所未有的产品（包括物质的和精神的）的创造性探索活动。各国有关法律对发明都有明确的限定。发明既指人们的首创性活动（包括创造性的思维活动和能动的实践活动），也指这种首创性活动所获得的成果。"
+  },
+  {
+   "cn": "感染",
+   "en": "infection",
+   "source": "消毒学",
+   "wordNumber": "1.8.1",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "细菌、病毒、寄生虫等病原微生物侵入机体并生长繁殖引起的局部组织或全身性的炎症反应。"
+  },
+  {
+   "cn": "滞留",
+   "en": "retention",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "摄入放射性物质后的给定时间内，放射性物质在某一器官或全身内的沉积状态及动态变化过程。"
+  },
+  {
+   "cn": "感染",
+   "en": "infection",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "病原体侵入人体后与人体相互作用、相互斗争的病理过程。"
+  },
+  {
+   "cn": "注意力不集中",
+   "en": "inattention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "主动性注意不足，被动性注意相对亢进的现象。主要表现为听课、做作业或其他活动难以持久，易被无关刺激吸引、分心，维持注意力时间明显低于同龄正常儿童。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "从同时呈现的几个物体或思维序列中选择一个对象的过程。一般是指人们集中于某种特殊内、外环境刺激而不被其他刺激分散的能力。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.12",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "个体的精神活动集中地指向于一定对象的心理现象。不是一种独立的心理过程，与感知觉、记忆和思维等心理过程相互影响。"
+  },
+  {
+   "cn": "变形杆菌病",
+   "en": "proteus infection",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.1.1.6",
+   "subjectFullName": "食品卫生学_食源性疾病_感染型食源性疾病",
+   "subjectName": "感染型食源性疾病",
+   "publishYear": "2025",
+   "definition": "由变形杆菌、雷氏普罗威登斯菌、摩氏摩根菌等感染引起的以急性胃肠炎症状为主要临床表现的食源性疾病。"
+  },
+  {
+   "cn": "皮肤感染",
+   "en": "skin infection",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.3.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "皮肤有脓性分泌物、脓疱、疖肿等表现，并有局部红肿热痛等炎症性反应的疾病。"
+  },
+  {
+   "cn": "内源性感染",
+   "en": "endogenous infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.5.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者自身携带的菌群引发的感染。"
+  },
+  {
+   "cn": "外源性感染",
+   "en": "exogenous infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.5.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者由他人或环境等体外微生物引发的感染。"
+  },
+  {
+   "cn": "手术部位感染",
+   "en": "incision infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.20",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在手术后一定时间段内发生在切口或手术深部器官或腔隙的感染，包括表浅切口感染、深部切口感染和器官（或腔隙）感染。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

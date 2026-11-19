@@ -1,0 +1,512 @@
+{
+ "key": "maleness",
+ "term": "maleness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:56:31+00:00",
+ "status": "ok",
+ "note": "variant=maleness; 审定公布名词库=198; 海峡两岸名词对照库=68; 其他来源数据库=3; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "雄性不育",
+   "en": "male sterility",
+   "source": "风景园林名词",
+   "wordNumber": "09.0184",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "两性花植物雄性细胞或生殖器官丧失生理机能的现象。"
+  },
+  {
+   "cn": "男性性腺功能减退症",
+   "en": "male hypogonadism",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.099",
+   "subjectFullName": "性腺疾病_男性内分泌及相关疾病_男性内分泌相关疾病",
+   "subjectName": "男性内分泌相关疾病",
+   "publishYear": "2025",
+   "definition": "一种与睾丸功能活性降低相关，伴有雄激素生成减少及生精功能受损的疾病。由于睾丸功能衰竭或下丘脑–垂体轴对睾丸的刺激不足而导致。"
+  },
+  {
+   "cn": "父本",
+   "en": "male parent",
+   "source": "农学名词",
+   "wordNumber": "06.148",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "杂交时提供雄配子的亲本。"
+  },
+  {
+   "cn": "雄性不育",
+   "en": "male sterility",
+   "source": "农学名词",
+   "wordNumber": "06.247",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "植物的雄性生殖系统不能正常发育，不能产生有功能的花粉粒，而其雌性生殖系统发育和营养生长完全正常，能接受正常植株的花粉受精结实的现象。"
+  },
+  {
+   "cn": "男性尿道",
+   "en": "male urethra",
+   "source": "男科及性医学名词",
+   "wordNumber": "02.125",
+   "subjectFullName": "男科及性医学_生殖系统解剖",
+   "subjectName": "生殖系统解剖",
+   "publishYear": "2023",
+   "definition": "起于膀胱内口、止于阴茎头尿道外口的一条细长管状器官。分为前列腺部、膜部和海绵体部 3 段，是男性排尿和射精的共同通道。"
+  },
+  {
+   "cn": "男性不育[症]",
+   "en": "male infertility",
+   "source": "男科及性医学名词",
+   "wordNumber": "14.001",
+   "subjectFullName": "男科及性医学_男性不育与辅助生殖",
+   "subjectName": "男性不育与辅助生殖",
+   "publishYear": "2023",
+   "definition": "育龄夫妻有正常性生活且未采取避孕措施，由男方因素导致女方在一年内未能自然受孕的疾病。"
+  },
+  {
+   "cn": "男性避孕",
+   "en": "male contraception",
+   "source": "男科及性医学名词",
+   "wordNumber": "15.006",
+   "subjectFullName": "男科及性医学_男性节育",
+   "subjectName": "男性节育",
+   "publishYear": "2023",
+   "definition": "针对男方生理特点所采取的避孕措施。包括器具、药物或者手术等方法。"
+  },
+  {
+   "cn": "男用避孕药",
+   "en": "male contraceptive",
+   "source": "男科及性医学名词",
+   "wordNumber": "15.013",
+   "subjectFullName": "男科及性医学_男性节育",
+   "subjectName": "男性节育",
+   "publishYear": "2023",
+   "definition": "通过直接或间接途径干扰精子发生、成熟或改变精液理化性质而降低精子的数量，造成少精子甚或无精子症，以有效达到避孕效果的药物。"
+  },
+  {
+   "cn": "男同性恋",
+   "en": "male homosexuality",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.019",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "只对同是男性的成员持续表现性爱的倾向。是性取向的一种。"
+  },
+  {
+   "cn": "雄原核",
+   "en": "male pronucleus",
+   "source": "兽医学名词",
+   "wordNumber": "07.050",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "减数分裂完成后的雄性生殖细胞的细胞核。只含有该物种染色体含量的一半遗传物质。"
+  },
+  {
+   "cn": "阳模成型",
+   "en": "male molding",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0957",
+   "subjectFullName": "化工（七）_合成树脂_合成树脂加工及助剂",
+   "subjectName": "合成树脂加工及助剂",
+   "publishYear": "2022",
+   "definition": "塑料片材用夹框夹紧并加热软化后，夹框下移或凸模上移使片材被拉伸，至夹框与凸模周边接触密封后，凸模抽真空使片材紧贴在凸模表面上成型的一种真空成型方法。"
+  },
+  {
+   "cn": "雄性不育",
+   "en": "male sterility ",
+   "source": "草学名词",
+   "wordNumber": "4.0512",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "男性尿道",
+   "en": "male urethra",
+   "source": "生殖医学名词",
+   "wordNumber": "2.234",
+   "subjectFullName": "生殖医学_生殖系统解剖_男性生殖系统解剖",
+   "subjectName": "男性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "起于膀胱尿道内口，终于阴茎头的尿道外口的一条细长管状器官。长18～22cm，分为尿道前列腺部、尿道膜部和尿道海绵体部。具有排尿和排精的功能。"
+  },
+  {
+   "cn": "阳转子",
+   "en": "male rotor",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "2.009",
+   "subjectFullName": "化工（八）_化工机器_压缩机",
+   "subjectName": "压缩机",
+   "publishYear": "2021",
+   "definition": "双螺杆压缩机具有一对互相啮合、相反旋向的螺旋形齿转子，其齿面凸起的转子。"
+  },
+  {
+   "cn": "雄配子",
+   "en": "male gamete",
+   "source": "动物学名词",
+   "wordNumber": "4.0037",
+   "subjectFullName": "动物学_动物胚胎学_精子发生",
+   "subjectName": "精子发生",
+   "publishYear": "2021",
+   "definition": "成熟的雄性个体产生的配子，即精子。"
+  },
+  {
+   "cn": "雄原核",
+   "en": "male pronucleus",
+   "source": "动物学名词",
+   "wordNumber": "4.0187",
+   "subjectFullName": "动物学_动物胚胎学_受精",
+   "subjectName": "受精",
+   "publishYear": "2021",
+   "definition": "精子细胞核进入卵子后，经历了一系列的变化（包括核膜破裂、染色质去浓缩、核膜重新形成等）后形成的单倍体细胞核。"
+  },
+  {
+   "cn": "雄性突起",
+   "en": "male process",
+   "source": "动物学名词",
+   "wordNumber": "5.2035",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门",
+   "subjectName": "甲壳动物亚门",
+   "publishYear": "2021",
+   "definition": "糠虾第一触角末节上的叶片状突起。上面有许多刚毛。"
+  },
+  {
+   "cn": "矮雄",
+   "en": "dwarf male",
+   "source": "动物学名词",
+   "wordNumber": "5.2078",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门",
+   "subjectName": "甲壳动物亚门",
+   "publishYear": "2021",
+   "definition": "在雌雄二态的动物中，比雌体特别矮小的雄体。"
+  },
+  {
+   "cn": "备雄",
+   "en": "complemental male",
+   "source": "动物学名词",
+   "wordNumber": "5.2079",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门",
+   "subjectName": "甲壳动物亚门",
+   "publishYear": "2021",
+   "definition": "蔓足类甲壳动物某些茗荷（如岛咀和铠茗荷等）除正常的雌雄同体大个体外，还具有的极其矮小的雄性个体。附着在大个体的外套腔内。"
+  },
+  {
+   "cn": "雄原核",
+   "en": "male pronucleus",
+   "source": "畜牧学名词",
+   "wordNumber": "05.311",
+   "subjectFullName": "畜牧学_繁殖_受精、妊娠、分娩",
+   "subjectName": "受精、妊娠、分娩",
+   "publishYear": "2020",
+   "definition": "当动物受精时，进入卵细胞内的尚未和雌性原核合为一体的精子核。"
+  },
+  {
+   "cn": "男性假两性畸形",
+   "en": "male pseudohermaphroditism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "男性尿道",
+   "en": "male urethra",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "男性乳房",
+   "en": "male mamma",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "雄配子",
+   "en": "male gamete",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "雄原核",
+   "en": "male pronucleus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "矮雄",
+   "en": "dwarf male",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "超雄性",
+   "en": "super-male",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "父本",
+   "en": "male parent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雄配子",
+   "en": "male gamete",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雄球果",
+   "en": "male cone",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雄性不育",
+   "en": "male sterility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雄枝",
+   "en": "male branch",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雄性投资",
+   "en": "male investment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "雄性不育",
+   "en": "male sterility",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雄性菌株",
+   "en": "male strain",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雄原核",
+   "en": "male pronucleus",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阳接触件",
+   "en": "male contact",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "矮雄",
+   "en": "dwarf male",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "雄原核",
+   "en": "male pronucleus",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "备雄",
+   "en": "complemental male",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "男运动员",
+   "en": "male competitor",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男运动员",
+   "en": "male gymnast",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "圣",
+   "en": "Sage / Sageness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "男性参考人",
+   "en": "reference male",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的男性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "男性霸权",
+   "en": "male-dominated",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.12",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "男权制社会中以男性为主导和中心的等级制统治模式，男性占据统治者和主导者的地位，拥有统治权和主导权，女性则处在被统治和被支配的地位。"
+  },
+  {
+   "cn": "男性参与",
+   "en": "male involvement",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.1.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_计划生育服务",
+   "subjectName": "计划生育服务",
+   "publishYear": "2025",
+   "definition": "强调男子在两性关系和家庭生育计划中的共同责任。具有负责任的性行为、生殖与避孕行为、预防性传播疾病的行为；承担母婴健康保护和促进的责任；对家庭收入、儿童教育、营养与健康的共同贡献；促进性别平等的责任等。"
+  },
+  {
+   "cn": "男用避孕套",
+   "en": "male condom",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.8.1.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由乳胶或聚氨酯等制成的、在性交时佩戴于男性阴茎上的套状隔膜，具有阻断精子和卵子结合，达到避孕和预防感染性传播疾病的双重保护作用。"
+  },
+  {
+   "cn": "男性绝育术",
+   "en": "male sterilization",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "采用切断、结扎、堵塞等方法阻断阴囊段输精管，以阻止精子排出，使射出的精液不含精子，以达到永久避孕目的的手术。"
+  },
+  {
+   "cn": "男性不育",
+   "en": "male infertility",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.6",
+   "subjectFullName": "妇幼卫生学名词_生育调节_男性不育",
+   "subjectName": "男性不育",
+   "publishYear": "2025",
+   "definition": "育龄夫妇有规律性生活且未采取规律避孕措施，由男方因素导致女方在一年内未能自然受孕的生育障碍。"
+  },
+  {
+   "cn": "窝工",
+   "en": "enforced idleness due to poor organization of work idleness",
+   "source": "马克思主义",
+   "wordNumber": "04.0172",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "非因工人责任造成的生产、工作中断或工时不能充分利用的现象。大多是由于计划安排不当或劳动组织不合理造成的。此外，由于机器设备突然发生故障，或因气候恶劣不能进行露天作业等原因，也会导致窝工。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

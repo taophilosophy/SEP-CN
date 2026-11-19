@@ -1,0 +1,722 @@
+{
+ "key": "expansion coefficients",
+ "term": "expansion coefficients",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:30:16+00:00",
+ "status": "ok",
+ "note": "variant=expansion coefficients; 审定公布名词库=2035; 海峡两岸名词对照库=621; 其他来源数据库=37; 预公布名词数据库=51; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "膨胀系数",
+   "en": "coefficient of expansion",
+   "source": "物理学名词",
+   "wordNumber": "05.0088",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "热膨胀系数",
+   "en": "thermal expansion coefficient",
+   "source": "计量学名词",
+   "wordNumber": "02.013",
+   "subjectFullName": "计量学_几何量_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "表征物体受热或受冷时长度或体积变化的程度。"
+  },
+  {
+   "cn": "热膨胀系数",
+   "en": "thermal expansion coefficient",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.355",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀系数",
+   "en": "coefficient of expansion",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.532",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "线膨胀系数",
+   "en": "linear expansion coefficient",
+   "source": "石油名词",
+   "wordNumber": "07.0348",
+   "subjectFullName": "石油_石油化工_石油化工性质及测试方法",
+   "subjectName": "石油化工性质及测试方法",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "侧膨胀系数",
+   "en": "coefficient of lateral expansion",
+   "source": "地质学名词",
+   "wordNumber": "17.02.156",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "岩土在无侧限条件下，单轴受压时，侧向应变与轴向应变的比值。"
+  },
+  {
+   "cn": "橡胶溶胀系数",
+   "en": "expansion coefficient of rubber",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0126",
+   "subjectFullName": "化工（七）_合成橡胶_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "将硫化胶试片浸入介质中，在规定温度下，经一定时间试片所增加的质量分数。"
+  },
+  {
+   "cn": "热膨胀系数",
+   "en": "coefficient of thermal expansion",
+   "source": "地球物理学名词",
+   "wordNumber": "06.0102",
+   "subjectFullName": "地球物理学_地热学_理论地热学",
+   "subjectName": "理论地热学",
+   "publishYear": "2022",
+   "definition": "表示物质在热胀冷缩效应作用下，几何特性随着温度的变化而发生变化的系数。 "
+  },
+  {
+   "cn": "湿胀系数",
+   "en": "coefficient of wet expansion",
+   "source": "冶金学名词",
+   "wordNumber": "04.0571",
+   "subjectFullName": "冶金学_冶金物理化学_冶金熔体",
+   "subjectName": "冶金熔体",
+   "publishYear": "2019",
+   "definition": "物质因吸收水分产生的体积膨胀与原体积的比值。"
+  },
+  {
+   "cn": "体胀系数",
+   "en": "coefficient of volume expansion",
+   "source": "物理学名词",
+   "wordNumber": "05.0089",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "等压膨胀系数",
+   "en": "coefficient of isobaric expansion",
+   "source": "物理学名词",
+   "wordNumber": "05.0091",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "热[膨]胀系数",
+   "en": "coefficient of thermal expansion",
+   "source": "物理学名词",
+   "wordNumber": "05.0090",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "液体视膨胀系数",
+   "en": "liquid visual expansion coefficient",
+   "source": "计量学名词",
+   "wordNumber": "09.085",
+   "subjectFullName": "计量学_温度_接触测温",
+   "subjectName": "接触测温",
+   "publishYear": "2015",
+   "definition": "玻璃液体温度计内液体测温介质的平均体膨胀系数与玻璃平均体膨胀系数之差。"
+  },
+  {
+   "cn": "体膨胀系数",
+   "en": "mean volume expansion coefficient",
+   "source": "计量学名词",
+   "wordNumber": "09.156",
+   "subjectFullName": "计量学_温度_热物理性质",
+   "subjectName": "热物理性质",
+   "publishYear": "2015",
+   "definition": "单位温度变化引起的物质体积的相对变化。由于膨胀系数在不同温度上存在着变化，故通常给出在使用温度范围内的平均值作为该使用温度范围的膨胀系数，对体膨胀系数则称“平均体膨胀系数”。平均体膨胀系数定义为<im"
+  },
+  {
+   "cn": "热膨胀系数",
+   "en": "coefficient of thermal expansion",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0531",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料性能",
+   "subjectName": "材料性能",
+   "publishYear": "2011",
+   "definition": "固体在温度每升高1K时长度或体积发生的相对变化量。分为线膨胀系数和体膨胀系数。"
+  },
+  {
+   "cn": "湿胀系数",
+   "en": "coefficient of wet expansion",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0602",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料性能",
+   "subjectName": "材料性能",
+   "publishYear": "2011",
+   "definition": "材料因吸收水分而产生的体积膨胀与原体积的比值。"
+  },
+  {
+   "cn": "线膨胀系数",
+   "en": "coefficient of linear expansion",
+   "source": "电气工程名词",
+   "wordNumber": "03.180",
+   "subjectFullName": "电气工程_绝缘材料",
+   "subjectName": "绝缘材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "木材热膨胀系数",
+   "en": "thermal expansion coefficient of wood",
+   "source": "林学名词",
+   "wordNumber": "11.068",
+   "subjectFullName": "林学_木材科学与技术_木材性质",
+   "subjectName": "木材性质",
+   "publishYear": "2016",
+   "definition": "在加热条件下，温度升高1℃时，木材单位长度或单位面积或单位体积的增加量与原有长度或面积或体积的比率。"
+  },
+  {
+   "cn": "复合材料湿膨胀系数",
+   "en": "moisture expansion coefficient of composite",
+   "source": "材料科学技术名词",
+   "wordNumber": "05.0408",
+   "subjectFullName": "材料科学技术_复合材料_复合材料结构设计及表征、测试",
+   "subjectName": "复合材料结构设计及表征、测试",
+   "publishYear": "2011",
+   "definition": "聚合物基复合材料吸入水分增加1%质量所引起的长度相对改变量。"
+  },
+  {
+   "cn": "膨胀",
+   "en": "expansion",
+   "source": "物理学名词",
+   "wordNumber": "05.0087",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀系数",
+   "en": "expansion coefficient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀系数",
+   "en": "expansion coefficient",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "立方膨胀系数",
+   "en": "cubical expansion coefficient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热膨胀系数",
+   "en": "thermal expansion coefficient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "湿膨胀系数",
+   "en": "moisture expansion coefficient",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "体[积膨]胀系数",
+   "en": "volume expansion coefficient",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀系数",
+   "en": "coefficient of expansion",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "湿胀系数",
+   "en": "coefficient of wet expansion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "热膨胀系数",
+   "en": "coefficient of thermal expansion",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "热膨胀系数",
+   "en": "coefficient of thermal expansion\",\"CTE",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "线膨胀系数",
+   "en": "linear coefficient of thermal expansion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "复合材料湿膨胀系数",
+   "en": "moisture expansion coefficient of composite",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "扩口",
+   "en": "expansion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "伸展组织",
+   "en": "expansion tissue",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渐近展开",
+   "en": "asymptotic expansion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝热膨胀",
+   "en": "adiabatic expansion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分步膨胀",
+   "en": "fractional expansion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀因子",
+   "en": "expansion factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等熵膨胀",
+   "en": "isentropic expansion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "多变膨胀",
+   "en": "polytropic expansion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "扩展比",
+   "en": "expansion ratio",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "相关系数",
+   "en": "correlation coefficient",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弹道系数",
+   "en": "ballistic coefficient",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离相关系数",
+   "en": "distance correlation coefficient",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "睦内图外",
+   "en": "Unity Within and Expansion Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最大信息系数",
+   "en": "maximal information coefficient (MIC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展度",
+   "en": "extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加时赛",
+   "en": "extension\",\"overtime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expel\",\"expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "胸廓活动度",
+   "en": "chest expansion",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "用于检查胸廓的活动程度的指标。患者双手处于休息位或置于脑后；于前面第4肋间隙为测量部位；记录尽可能深吸气和深呼气时胸围的差距，以cm为单位（如4.2cm）；取两次测量的均值。"
+  },
+  {
+   "cn": "分配系数",
+   "en": "distribution coefficient",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.70",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "一个组分在两个互不相溶的相态中的浓度的比值。"
+  },
+  {
+   "cn": "归一化系数",
+   "en": "normalized coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.12.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "早年X射线工作者在缺乏个人监测资料的情况下，某类工作条件与标准化工作条件下单位工作量的比值。"
+  },
+  {
+   "cn": "风险系数",
+   "en": "risk coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.5",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "假设的因暴露于单位当量剂量或有效剂量而导致的终生风险或辐射损害。"
+  },
+  {
+   "cn": "透射系数",
+   "en": "transmission coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.24",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "设置屏蔽之后某关心点处的射线量占初始射线的份额，是衰减倍数的倒数。"
+  },
+  {
+   "cn": "剂量系数",
+   "en": "dose coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.6",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对于成年人，定义为摄入单位活度在组织T中造成的待积当量剂量ht(50)或者摄入单位活度造成的待积有效剂量e(50)，其中50为以年为单位计算剂量的时间。"
+  },
+  {
+   "cn": "贝塔系数",
+   "en": "beta coefficient",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.94",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "标准化的回归系数。"
+  },
+  {
+   "cn": "效应系数",
+   "en": "effects coefficient",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.120",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在路径分析中，一个变量的总效应、直接效应和间接效应的量度。"
+  },
+  {
+   "cn": "基尼系数",
+   "en": "Gini coefficient",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "测量收入不平等的一个统计指标，由意大利统计学家基尼(C.Gini）于1912年从洛伦茨曲线（收入获得者百分比与收入百分比的回归线）中推导而出。数值分布在0至1之间，值越大代表收入分配越不平等。"
+  },
+  {
+   "cn": "基尼系数",
+   "en": "Gini Coefficient",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "取值在0-1之间，比值越大，表示差异越大。"
+  },
+  {
+   "cn": "恩格尔系数",
+   "en": "Engel coefficient",
+   "source": "社会医学名词",
+   "wordNumber": "9.10",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "恩格尔系数",
+   "publishYear": "2025",
+   "definition": "食品消费份额即食品消费支出占总消费支出的比重。反映居民生活水平状况。"
+  },
+  {
+   "cn": "扩散系数",
+   "en": "diffusion coefficient",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.69",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "扩散传质方程中的一个比例系数。即扩散传质通量与扩散推动力（浓度梯度）之比。"
+  },
+  {
+   "cn": "基尼系数",
+   "en": "Gini coefficient",
+   "source": "社会医学名词",
+   "wordNumber": "9.11",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "基尼系数",
+   "publishYear": "2025",
+   "definition": "测量收入不平等的指标，由意大利统计学家基尼(C.Gini）从洛伦茨曲线（收入获得者百分比与收入百分比的回归线）中推导而出。取值在0～1 之间，值越大代表收入分配越不平等。"
+  },
+  {
+   "cn": "石炭酸系数",
+   "en": "carbolic acid coefficient",
+   "source": "消毒学",
+   "wordNumber": "2.1.9.2.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "指定时间内消毒剂能杀死某标准数量的细菌的最高稀释度与达到同效的石炭酸最高稀释度之比。"
+  },
+  {
+   "cn": "线衰减系数",
+   "en": "linear attenuation coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.6",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，其光子注量减少的份额。SI单位为每米，记作m-1。"
+  },
+  {
+   "cn": "质量衰减系数",
+   "en": "mass attenuation coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.7",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位质量厚度时，其光子注量减少的份额。SI单位为平方米每千克，记作m2·kg-1。"
+  },
+  {
+   "cn": "氡射气系数",
+   "en": "radon emanation coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.5.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_氡及其子体测量",
+   "subjectName": "氡及其子体测量",
+   "publishYear": "2025",
+   "definition": "单位时间间隔内，从建材中放出的氡浓度量与同一时间在建材里所形成的氡浓度总量的比值，常用符号e表示，其数值在0～1之间变化。"
+  },
+  {
+   "cn": "组内相关系数",
+   "en": "intraclass correlation coefficient",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.75",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "组内有某种特定联系的多组数据两两之间的平均相关系数。等于组间方差与总方差之比。"
+  },
+  {
+   "cn": "斯皮尔曼相关系数",
+   "en": "Spearman correlation coefficient",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.80",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将两个随机变量的样本值按数据的⼤⼩顺序排列位次而得出变量的秩，并根据变量的秩而计算的积矩相关系数。由英国心理学家、统计学家斯皮尔曼（Charles Spearman）根据积差相关的概念推导而来。"
+  },
+  {
+   "cn": "决定系数",
+   "en": "coefficient of determination",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.85",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "运用普通最小二乘方法计算所得的回归线同实际数据拟合的优劣程度的量度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

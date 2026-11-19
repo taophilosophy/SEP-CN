@@ -1,0 +1,802 @@
+{
+ "key": "security",
+ "term": "security",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:22:53+00:00",
+ "status": "ok",
+ "note": "variant=security; 审定公布名词库=325; 海峡两岸名词对照库=189; 其他来源数据库=372; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "保障",
+   "en": "security",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人类在创造人工自然的过程中，对采取、加工和控制活动提供支持、保护和服务的过程及结果。在技术上主要涉及信息的交流（通信）和物质的流通（输运）等领域。"
+  },
+  {
+   "cn": "证券",
+   "en": "security",
+   "source": "经济学名词",
+   "wordNumber": "12.098",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "用来证明持有人享有的某种特定权益的凭证。"
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "电力名词",
+   "wordNumber": "06.103",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "远动系统避免被控系统处在潜在危险或不稳定状态的能力。这种能力是针对因设备误动和未检出的信息差错而产生故障的后果。"
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0560",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "顾客使用产品时保证人身和环境免遭危害的能力。"
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0560",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "信息系统不受来自系统外部的自然灾害和人为的破坏，防止非法使用者对系统资源，特别是信息的非法使用的特性。"
+  },
+  {
+   "cn": "安全",
+   "en": "security",
+   "source": "航海科技名词",
+   "wordNumber": "14.0033",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "电子学名词",
+   "wordNumber": "21.117",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "安全检查",
+   "en": "security check",
+   "source": "风景园林名词",
+   "wordNumber": "03.0278",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "为发现在项目施工中可能导致安全事故的危险因素而开展的检验、查看等活动。"
+  },
+  {
+   "cn": "安全防护",
+   "en": "security protection",
+   "source": "风景园林名词",
+   "wordNumber": "03.0277",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "为避免施工过程中发生安全事故而采取的预防措施。"
+  },
+  {
+   "cn": "安全整改",
+   "en": "security rectification",
+   "source": "风景园林名词",
+   "wordNumber": "03.0280",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "对在项目施工中可能导致安全事故的危险因素进行禁止、排除、调整、维修等活动。"
+  },
+  {
+   "cn": "安全管理",
+   "en": "security management",
+   "source": "风景园林名词",
+   "wordNumber": "03.0330",
+   "subjectFullName": "风景园林_风景园林管理_企业管理",
+   "subjectName": "企业管理",
+   "publishYear": "2025",
+   "definition": "为实现安全目标而进行的有关决策、计划、组织和控制等方面的活动。工作包括制定管理制度、分析和研究各种不安全因素，从技术上、组织上和管理上采取有力的措施，解决和消除各种不安全因素，防止事故的发生。"
+  },
+  {
+   "cn": "治安保卫管理",
+   "en": "security management",
+   "source": "风景园林名词",
+   "wordNumber": "03.0118",
+   "subjectFullName": "风景园林_风景园林管理_公园景区管理",
+   "subjectName": "公园景区管理",
+   "publishYear": "2025",
+   "definition": "根据相关法律法规，公园（景区）管理机构通过安全宣传、健全法规制度、组建联防体系等多种防控手段，维护公园（景区）治安秩序的行为。"
+  },
+  {
+   "cn": "安全审计",
+   "en": "security audit",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "由专业审计人员根据有关的法律法规、财产所有者的委托和管理当局的授权，对计算机网络环境下的有关活动或行为进行系统的、独立的检查验证，并做出相应评价。"
+  },
+  {
+   "cn": "安全网关",
+   "en": "security gateway",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.106",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "由路由器和处理机组成的、融合不同技术的一种多功能网络安全设备。可以提供协议、链路和应用级保护，具有过滤、防火墙、入侵检测和防病毒等功能。"
+  },
+  {
+   "cn": "安全策略",
+   "en": "security policy",
+   "source": "电力名词",
+   "wordNumber": "06.168",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "一组规则和准则,规定或管控了系统或组织如何提供安全服务以保护敏感且关键的系统资源。"
+  },
+  {
+   "cn": "安全管理",
+   "en": "security management",
+   "source": "电力名词",
+   "wordNumber": "06.169",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "网络管理中,安全管理是一组功能:①防护远程通信网和系统,防止未经授权的个人访问、未经授权的行动或影响;②包括许多子功能,比如对安全服务和机制进行创建、删除和控制,分发安全有关信息,报告安全有关事件,控"
+  },
+  {
+   "cn": "交易保证金",
+   "en": "security deposit",
+   "source": "电力名词",
+   "wordNumber": "06.333",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "为保证市场结算的顺利实现,有效地规避结算风险,根据市场规则,市场运营机构可以要求参与市场交易的市场主体在结算账户中存入的、并保持一定数量的资金。"
+  },
+  {
+   "cn": "安全隔离",
+   "en": "security isolation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0891",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络管理与安全",
+   "subjectName": "网络管理与安全",
+   "publishYear": "2018",
+   "definition": "在确保把有害攻击隔离在可信网络之外，并保证可信网络内部信息不外泄的前提下，完成网间信息的安全交换。"
+  },
+  {
+   "cn": "安全管理",
+   "en": "security management",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0849",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络管理与安全",
+   "subjectName": "网络管理与安全",
+   "publishYear": "2018",
+   "definition": "ISO定义的网络管理的一个方面。负责保证网络管理系统正确运行，保护被管理的目标免遭破坏。包括身份认证、密钥管理、病毒预防和灾难恢复等。"
+  },
+  {
+   "cn": "安全性模型",
+   "en": "security model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0228",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "实现访问控制策略的一种机制。不同的访问控制策略选用不同的模型。"
+  },
+  {
+   "cn": "安全[性]",
+   "en": "security",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全",
+   "en": "security",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保证金",
+   "en": "security money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "担保押金",
+   "en": "security deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "低风险资本",
+   "en": "security capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券贷款",
+   "en": "security loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券担保汇票",
+   "en": "security bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券选择",
+   "en": "security selection",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "安全标号",
+   "en": "security label",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全策略",
+   "en": "security policy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全措施",
+   "en": "security measure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全等级",
+   "en": "security level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全过滤器",
+   "en": "security filter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全检查",
+   "en": "security inspection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全控制",
+   "en": "security control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全类",
+   "en": "security class",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全模型",
+   "en": "security model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全审计",
+   "en": "security audit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全事件",
+   "en": "security event",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全许可",
+   "en": "security clearance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳妥性",
+   "en": "security",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全芯片",
+   "en": "security chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全建设",
+   "en": "security improvement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全虚拟化",
+   "en": "security virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全审计",
+   "en": "security audit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全熵",
+   "en": "security entropy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全认证",
+   "en": "security authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全保障",
+   "en": "security assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全原则",
+   "en": "security principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全区",
+   "en": "security area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全标记",
+   "en": "security mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全标准",
+   "en": "Security Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全基础",
+   "en": "Security Foundation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防范认知",
+   "en": "Security Awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全管理",
+   "en": "Security Management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全技术",
+   "en": "Security Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全机制",
+   "en": "Security Mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全中心",
+   "en": "Security Center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全体系",
+   "en": "Security System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "核安保",
+   "en": "nuclear security",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.1.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词",
+   "subjectName": "核或辐射突发事件基础名词",
+   "publishYear": "2025",
+   "definition": "预防、侦查涉及或直接针对核材料与其他放射性物质、相关设施或活动的犯罪行为或故意的未经授权行为并对之做出响应的措施。主要包括法律法规体系、设计基准威胁、实物保护、放射性物质运输安保、技术和设备研发、核安"
+  },
+  {
+   "cn": "社会保障",
+   "en": "social security",
+   "source": "社会学名词",
+   "wordNumber": "3.18.1.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "广义指社会成员在年老、疾病、伤残、失业、生育及遭遇灾害之时，国家依法向其提供一定的资金、实物或服务以保障其基本生活的支持制度。狭义指收入保障体系，特别是社会保险及社会救助体系。国家为维护社会公平和促进"
+  },
+  {
+   "cn": "补充保障",
+   "en": "supplemental security",
+   "source": "社会学名词",
+   "wordNumber": "4.3.12.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_补充保障",
+   "subjectName": "补充保障",
+   "publishYear": "2025",
+   "definition": "社会保障体系中非政府强制的个人、企业自愿参与的保障部分，是我国社会保障体系中一个重要组成。涉及商业保险以及员工福利等。"
+  },
+  {
+   "cn": "医疗保障",
+   "en": "medical security",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "通过立法规定国家、企业和个人的权利与义务，动员全社会的力量,通过筹集和支付资金、组织卫生服务和医疗物资的提供,分担社会成员的疾病风险,保障人群健康的一种社会保障制度安排。"
+  },
+  {
+   "cn": "健康保障",
+   "en": "health security",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "国家、社会、个人为化解健康风险所采取的一系列行为的总和。包括为维护人民健康的各类医疗卫生服务提供、各种医疗卫生资源筹集分配和使用方法等制度安排。"
+  },
+  {
+   "cn": "信息安全",
+   "en": "information security",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "为卫生信息数据处理系统建立和采用的技术，保护医疗卫生系统中的数据信息等免受偶然和恶意的原因而遭到破坏、更改和泄露。"
+  },
+  {
+   "cn": "粮食安全",
+   "en": "food security",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.6",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通常为食品数量的安全，是否有足够得到或提供足够食物，为一项重要国策。所有人在任何时间都能在物质、经济和社会层面上获取数量充足、安全并富含营养的食物，满足对健康饮食及不同食物偏好。"
+  },
+  {
+   "cn": "安全型依恋",
+   "en": "secure attachment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "良好、积极的依恋行为。与母亲一起时可安逸地玩耍，母亲离开时表现哭闹和分离焦虑，但容易受安抚并安静下来。"
+  },
+  {
+   "cn": "安全保障",
+   "en": "security and safety",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.5.2.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童早期发展",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "为婴幼儿提供干净、安全、对身心健康没有任何危害的照护环境。"
+  },
+  {
+   "cn": "社会保障法",
+   "en": "social security law",
+   "source": "社会学名词",
+   "wordNumber": "3.18.1.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "国家为维护社会稳定和促进经济发展而制定的、旨在保障国民基本生活需要以及增进社会福祉的各种法律规范的总称。社会保障法律规范可以确保社会保障制度真正得到贯彻实施。"
+  },
+  {
+   "cn": "社会保障管理",
+   "en": "social security management",
+   "source": "社会学名词",
+   "wordNumber": "3.18.1.3",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "为实现社会保障目标，由国家成立专门的社会保障管理机构，对各项社会保障事务进行计划、组织、协调、实施、控制的过程以及行为。"
+  },
+  {
+   "cn": "社会保障体系",
+   "en": "social security system",
+   "source": "社会学名词",
+   "wordNumber": "3.18.1.4",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "作为为社会成员提供基本生活保障的制度，由一系列相互联系、相辅相成的子系统构成有机整体。主要包括：由失业、养老、医疗、工伤、生育等社会保险和住房公积金、社会救助以及其他收入补充保障等不同形式的有机子系统"
+  },
+  {
+   "cn": "住房保障制度",
+   "en": "housing security system",
+   "source": "社会学名词",
+   "wordNumber": "4.3.8.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_住房保障服务",
+   "subjectName": "住房保障服务",
+   "publishYear": "2025",
+   "definition": "国家以及社会为保障每个社会成员都有房居住，保障国民住有所居的基本社会权利而实施的一系列制度与政策的总称。目前我国住房保障制度主要包括经济适用房、廉租房以及住房公积金制度。"
+  },
+  {
+   "cn": "新安全观",
+   "en": "new security concept",
+   "source": "马克思主义",
+   "wordNumber": "04.0194",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对“冷战”后期开始出现的一些不同于“旧安全观”即“传统安全观”的新安全观念的统称，指与“旧安全观”即“传统安全观”相对的各种新型的安全观。中国政府自20世纪90年代中期以来提出的“互信、互利、平等、协"
+  },
+  {
+   "cn": "社会保障税",
+   "en": "social security tax",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "以纳税人的工资和薪金所得作为课税对象的一种税收"
+  },
+  {
+   "cn": "社会保障体系",
+   "en": "social security system",
+   "source": "社会医学名词",
+   "wordNumber": "3.11",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会保障体系",
+   "publishYear": "2025",
+   "definition": "作为为社会成员提供基本生活保障的制度，由一系列相互联系、相辅相成的子系统构成的有机整体。主要包括：由失业、养老、医疗、工伤、生育等社会保险和住房公积金、社会救助以及其他收入补充保障等不同形式的子系统。"
+  },
+  {
+   "cn": "全球健康安全",
+   "en": "global heath security",
+   "source": "社会医学名词",
+   "wordNumber": "3.7.1.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "通过规则化、法制化的卫生治理体系，监测、预防措施以应对全球范围内的公共卫生威胁，保障人类健康和福祉。"
+  },
+  {
+   "cn": "军队食品安全保障",
+   "en": "security of military food",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.14.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品安全评价与保障",
+   "subjectName": "军队食品安全评价与保障",
+   "publishYear": "2025",
+   "definition": "为确保军队食品安全，避免有毒、有害物质通过食品对军人健康造成急性或慢性危害而采取的预防或处置措施。"
+  },
+  {
+   "cn": "辐射安保监测",
+   "en": "radiation monitoring for security",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.6.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_其他类型监测",
+   "subjectName": "其他类型监测",
+   "publishYear": "2025",
+   "definition": "提高对放射性物质及核材料的侦测技术，是防止核与辐射恐怖事件发生的有效手段，围绕放射性物质及核材料的侦测、确认、定位、识别等问题进行的监测。"
+  },
+  {
+   "cn": "全民医疗保障制度",
+   "en": "universal medical security system",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.5",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "在全民建立基本医保、大病保险、医疗救助、疾病应急救助、商业健康保险和慈善救助衔接互动、相互联通的医疗保障制度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

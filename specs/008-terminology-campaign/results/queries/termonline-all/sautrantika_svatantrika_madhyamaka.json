@@ -1,0 +1,72 @@
+{
+ "key": "sautrantika svatantrika madhyamaka",
+ "term": "Sautrāntika Svātantrika Madhyamaka",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:15:40+00:00",
+ "status": "ok",
+ "note": "variant=Sautrāntika Svātantrika Madhyamaka; 审定公布名词库=3; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "SV波",
+   "en": "SV wave",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0653",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "位移分量在入射面上的横波。 "
+  },
+  {
+   "cn": "SV型静态混合器",
+   "en": "SV type static mixer",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1674",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "圆柱体内部设置由波纹片组装而成的混合元件,使不同流体在三维空间内做Z字形流动，从而造成良好的径向混合效果的混合器。"
+  },
+  {
+   "cn": "1Sv剂量超额相对危险",
+   "en": "ERR at 1Sv",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.055",
+   "subjectFullName": "放射医学与防护_放射流行病学_危险指标",
+   "subjectName": "危险指标",
+   "publishYear": "2014",
+   "definition": "依据线性模型估算的剂量为1Sv时的超额相对危险。"
+  },
+  {
+   "cn": "SV40病毒(=猿猴空泡病毒40)",
+   "en": "[]",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "猿猴空泡病毒40，SV40病毒",
+   "en": "simian vacuolating virus 40\",\"SV40 virus",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "1Sv剂量超额相对危险",
+   "en": "ERR at 1Sv",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "依据线性或线性平方模型估算的剂量为1Sv时的超额相对危险。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

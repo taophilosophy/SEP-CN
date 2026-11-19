@@ -1,0 +1,512 @@
+{
+ "key": "badness",
+ "term": "badness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:54:28+00:00",
+ "status": "ok",
+ "note": "variant=badness; 审定公布名词库=208; 海峡两岸名词对照库=42; 其他来源数据库=10; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "负商品",
+   "en": "bads",
+   "source": "经济学名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "能够带来负效用（disutility）或产生不舒适感的商品叫作负商品。例如，对于大多数人而言，污染是一种负商品。对于负商品，消费者倾向于选择更少而不是更多。"
+  },
+  {
+   "cn": "坏账",
+   "en": "bad account",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.056",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "企业因某种原因造成的各种无法收回的应收账款。"
+  },
+  {
+   "cn": "材质不良",
+   "en": "bad material",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0696",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "绝缘不良",
+   "en": "bad insulation",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0697",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "接触不良",
+   "en": "bad contact",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0699",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "坏约化",
+   "en": "bad reduction",
+   "source": "数学名词",
+   "wordNumber": "04.0362",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不良接触试验",
+   "en": "bad contact test",
+   "source": "电气工程名词",
+   "wordNumber": "23.221",
+   "subjectFullName": "电气工程_日用电器",
+   "subjectName": "日用电器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "钢轨绝缘不良",
+   "en": "bad rail insulation",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0698",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "多层多道焊",
+   "en": "multi layers welding bad",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.850",
+   "subjectFullName": "化工（五）_工程建设_施工过程",
+   "subjectName": "施工过程",
+   "publishYear": "2021",
+   "definition": "由两条以上焊道完成整条焊缝所进行的焊接为多道焊，熔敷两层以上完成整条焊缝所进行的焊接为多层焊，两种方法的结合即为多层多道焊，是完成较厚试件焊接的一种工艺方法。"
+  },
+  {
+   "cn": "坏账损失",
+   "en": "loss on bad debt",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0131",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "由于应收款项无法收回而造成的损失。"
+  },
+  {
+   "cn": "坏账准备",
+   "en": "provision for bad debt",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0132",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "根据估计的预期无法收回的应收款项金额计提的，用以冲减应收款项账面价值的会计项目。"
+  },
+  {
+   "cn": "汽车不良技术状况",
+   "en": "bad condition of vehicle",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "08.006",
+   "subjectFullName": "机械工程_汽车_汽车维修_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "汽车不符合技术文件规定的任一要求的状况。"
+  },
+  {
+   "cn": "险性事故",
+   "en": "bad accident,dangerous accident",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0624",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "坏值3σ判断方法",
+   "en": "3σ judge method of bad value",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.430",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "一种数据取舍判断方法。对一组测量数据<img src='/root/syzx/static/spz/fangshefanghu1.04.430.1.png'/>的标准差为σ，均值为<img src='"
+  },
+  {
+   "cn": "残车率",
+   "en": "rate of bad order cars",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0975",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "汽车不良技术状况",
+   "en": "bad technical condition of vehicle",
+   "source": "公路交通科技名词",
+   "wordNumber": "05.164",
+   "subjectFullName": "公路交通科学技术_汽车运用工程",
+   "subjectName": "汽车运用工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "戒除不良嗜好行为",
+   "en": "behavior of abstaining from bad habit",
+   "source": "行为医学名词",
+   "wordNumber": "8.002",
+   "subjectFullName": "行为医学_预防保健行为_阻断和控制危害行为",
+   "subjectName": "阻断和控制危害行为",
+   "publishYear": "2022",
+   "definition": "戒除对健康有危害的个人偏好的行为。如戒烟、戒毒、不酗酒、不滥用药物等。"
+  },
+  {
+   "cn": "呆账准备金制度",
+   "en": "regulation on provisions for bad debt",
+   "source": "经济学名词",
+   "wordNumber": "12.173",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "中央银行为促进金融机构稳健经营而制定的准备金计提与使用措施和办法。"
+  },
+  {
+   "cn": "呆账准备金制度",
+   "en": "regulation on provision for bad debt",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0784",
+   "subjectFullName": "管理科学技术_金融工程_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "中央银行为促进金融机构稳健经营而制定的准备金计提与使用措施和办法。可分为两类：一是根据贷款总余额的一定百分比计提的普通呆账准备金；二是按贷款的风险状况计提的特别呆账准备金。"
+  },
+  {
+   "cn": "单面焊双面成型",
+   "en": "single side welding,double sides welding bad",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.849",
+   "subjectFullName": "化工（五）_工程建设_施工过程",
+   "subjectName": "施工过程",
+   "publishYear": "2021",
+   "definition": "仅在焊件的一面施焊，焊缝背面同时达到焊缝成型标准要求的焊接工艺方法。"
+  },
+  {
+   "cn": "不良债权",
+   "en": "bad claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "呆账",
+   "en": "bad debt",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "坏块",
+   "en": "bad block",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "坏扇区法",
+   "en": "bad sectoring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "坏块表",
+   "en": "bad block table",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "铠甲",
+   "en": "harness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "degree of hardness\",\"hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "水质硬度",
+   "en": "water hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬度标度",
+   "en": "hardness scale",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "永久硬度",
+   "en": "permanent hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总硬度",
+   "en": "total hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "刮痕硬度",
+   "en": "scratch hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "肖氏硬度",
+   "en": "Shore hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬度试验",
+   "en": "hardness test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压痕硬度",
+   "en": "indentation hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "二次触球",
+   "en": "bad ball handing\",\"bad catching\",\"bad reception\",\"double touch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过犹不及",
+   "en": "Going Too Far Is as Bad as Falling Short.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全索具",
+   "en": "harness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马具工",
+   "en": "harness maker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离坚白",
+   "en": "Separate Hardness from Whiteness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共同抓好大保护，协同推进大治理",
+   "en": "to work together to protect and harness the Yellow River",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顽固性不良习惯",
+   "en": "stubborn bad habits",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "在童年某阶段身心不良诱因作用下，出现的某些刻板性的习惯动作和行为，表现为多次重复，持续较长时间，无法靠主观意志改变、纠正；虽表现形式多样，但绝大多数无特殊性精神异常。"
+  },
+  {
+   "cn": "有害健康产品征税",
+   "en": "excise taxes on bads",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.2.3",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策",
+   "subjectName": "健康危害行为公共政策",
+   "publishYear": "2025",
+   "definition": "对危害健康产品进行征税，以提高其价格，减少其需求和消费的行为。"
+  },
+  {
+   "cn": "八旗制度",
+   "en": "Eight Banners system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0211",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "清代旗人的社会生活、军事组织形式。1601 年，努尔哈赤整顿编制。初编黄、白、红、蓝四旗。后增设镶黄、镶白、镶红、镶蓝四旗。满洲丁壮战时为兵，平时为民。后又编成蒙古八旗、汉军八旗。"
+  },
+  {
+   "cn": "《八旗满洲氏族通谱》",
+   "en": "Eight Banners of Manchu Clans' Book",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0274",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "清代弘昼、鄂尔泰等奉乾隆帝之敕而编纂。全书80 卷，辑录清皇室爱新觉罗氏以外之满洲姓氏，详细记述其归顺爱新觉罗氏氏之时间、原居地、官阶及勋绩情况；共辑录满洲姓氏1114 个，并为每个姓氏中勋业最显著者"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

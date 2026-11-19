@@ -1,0 +1,742 @@
+{
+ "key": "capitalism and freedom",
+ "term": "Capitalism and Freedom",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:33:53+00:00",
+ "status": "ok",
+ "note": "variant=Capitalism and Freedom; 审定公布名词库=9998; 海峡两岸名词对照库=2000; 其他来源数据库=1281; 预公布名词数据库=1134; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "自由",
+   "en": "freedom",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.119",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_媒体责任与公共服务",
+   "subjectName": "媒体责任与公共服务",
+   "publishYear": "2022",
+   "definition": "与公民表达自由相关的基本权利和法定权利。"
+  },
+  {
+   "cn": "科学自由",
+   "en": "scientific freedom",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.297",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "科学主体所拥有的不受妨碍地探求真理以及发表和讲授他们认为正确的东西的权利和义务。作为历史范畴，其形态随着知识生产方式的变化而变化。"
+  },
+  {
+   "cn": "渐近自由",
+   "en": "asymptotic freedom",
+   "source": "物理学名词",
+   "wordNumber": "09.1236",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "自由变量",
+   "en": "freedom variable",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0005",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "没有非负要求的变量。"
+  },
+  {
+   "cn": "学术自由",
+   "en": "academic freedom",
+   "source": "教育学名词",
+   "wordNumber": "08.258",
+   "subjectFullName": "教育学_高等教育_大学理念、教育思潮",
+   "subjectName": "大学理念、教育思潮",
+   "publishYear": "2013",
+   "definition": "保护学者的学术活动不受外界的限制和干扰而独立、自由地追求真理的原则或理念。"
+  },
+  {
+   "cn": "道德自由",
+   "en": "moral freedom",
+   "source": "教育学名词",
+   "wordNumber": "01.192",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "人们在道德活动中能够不受外界强制和干涉地做出自主选择并采取相应行动的状况。"
+  },
+  {
+   "cn": "《自由宪章》",
+   "en": "Freedom Charter",
+   "source": "世界历史名词",
+   "wordNumber": "04.0552",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_撒哈拉以南非洲",
+   "subjectName": "撒哈拉以南非洲",
+   "publishYear": "2012",
+   "definition": "南非“人民大会”1955年6月提出的反对种族主义、争取建立民主国家的纲领。"
+  },
+  {
+   "cn": "自由乘客运动",
+   "en": "Freedom Riders",
+   "source": "世界历史名词",
+   "wordNumber": "03.0208",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "20世纪60年代，美国黑人反种族歧视的非暴力抗议运动。"
+  },
+  {
+   "cn": "资本主义",
+   "en": "capitalism",
+   "source": "经济学名词",
+   "wordNumber": "02.020",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "以资本家占有生产资料为基础，剥削雇佣劳动为特征的社会经济制度及其上层建筑。它的主要特征是资产阶级占有生产资料，并用以剥削雇佣劳动；一切都以商品形式出现，劳动力也成为商品；生产的目的是剥削剩余价值；以社"
+  },
+  {
+   "cn": "资本主义",
+   "en": "capitalism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0657",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "以资本剥削雇佣劳动为特征的社会经济制度。"
+  },
+  {
+   "cn": "资本",
+   "en": "capital",
+   "source": "经济学名词",
+   "wordNumber": "01.017",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "能够带来剩余价值的价值。生产资料和货币本身不是资本，只有在一定历史条件下，劳动力成为商品，生产资料和货币被用作剥削雇佣工人的手段时，才成为资本。"
+  },
+  {
+   "cn": "资本化",
+   "en": "capitalization",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0211",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "将与购置或建造资产直接相关的费用计入该项资产成本，并纳入当期资产负债表进行反映的会计处理方法。"
+  },
+  {
+   "cn": "按人头付费",
+   "en": "capitation",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.132",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "根据合同规定的时间(年、季度或月)，由保险机构依据医疗服务提供者服务的人口数和规定的人均定额标准，预先向服务提供者支付的固定费用。许多国家对全科医疗服务多采用这种预付方法。"
+  },
+  {
+   "cn": "柱头",
+   "en": "capital",
+   "source": "建筑学名词",
+   "wordNumber": "03.0302",
+   "subjectFullName": "建筑学_中外建筑历史_外国19世纪末叶以前建筑",
+   "subjectName": "外国19世纪末叶以前建筑",
+   "publishYear": "2014",
+   "definition": "古典式柱或其他柱子上经过特殊处理的顶端结束部，冠于柱身之上并承受檐部或额枋的重量。"
+  },
+  {
+   "cn": "柱帽",
+   "en": "capital",
+   "source": "土木工程名词",
+   "wordNumber": "05.152",
+   "subjectFullName": "土木工程_建筑结构_连接与构造",
+   "subjectName": "连接与构造",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "新闻自由",
+   "en": "freedom of the press;press freedom",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.034",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "通过宪法或相关法律法规保障本国媒体和公民采访、写作、报道、发布及接受新闻、创办媒体、出版发行媒介产品等的自由权利。"
+  },
+  {
+   "cn": "自由民权运动",
+   "en": "Freedom and People's Rights Movement",
+   "source": "世界历史名词",
+   "wordNumber": "04.0071",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东北亚",
+   "subjectName": "东北亚",
+   "publishYear": "2012",
+   "definition": "日本明治初期反对专制政治、争取资产阶级民主自由权利的政治运动。其内容包括要求开设国会、制定宪法、减轻地税、确立地方自治和修改西方列强强加的不平等条约。"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "source": "农学名词",
+   "wordNumber": "18.018",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "和的项数减去和中逐项数的约束数。"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "系统独立变量的个数或系统的维数。是描述系统规模的重要指标。"
+  },
+  {
+   "cn": "言论自由",
+   "en": "freedom of speech",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.054",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "在法律保障下，公民不受干涉表达个人思想与观点的基本权利。广义的言论自由指公民在任何问题上有以口头、书面和印刷以及其他手段进行表达而不受干涉的自由；狭义的言论自由指公民有以口语发表意见、交流思想、抒发感"
+  },
+  {
+   "cn": "外汇自由兑换",
+   "en": "exchange freedom",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "区位自由",
+   "en": "locational freedom",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "资本负债比率",
+   "en": "capital and liability ratio",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "资本损益",
+   "en": "capital gain and loss",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "资本",
+   "en": "capital",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "资本信贷和货币市场",
+   "en": "capital credit and money market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "发达资本主义",
+   "en": "advanced capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "工业资本主义",
+   "en": "industrial capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "解组式资本主义",
+   "en": "disorganised capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "垄断资本主义",
+   "en": "monopoly capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "企业资本主义",
+   "en": "corporate capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "全球资本主义",
+   "en": "global capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "晚期资本主义",
+   "en": "late capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "自由",
+   "en": "freedom",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由",
+   "en": "Acting Freely / Freedom",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息自由",
+   "en": "freedom of information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资本论",
+   "en": "Data Capitalism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资本主义",
+   "en": "data capitalism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "都",
+   "en": "Capital/ Metropolis",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资本",
+   "en": "Data Capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资本化",
+   "en": "data capitalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态资本",
+   "en": "ecological capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风投创投网络",
+   "en": "venture capital network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资本充足性监管",
+   "en": "capital adequacy supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资本时代",
+   "en": "era of data capitalism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "京（京师）",
+   "en": "Capital of a Country",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自由",
+   "en": "freedom",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.103",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们对必然的认识和对客观世界的改造，任何规律一经被认识，人们便能自觉运用它来改造客观世界，就获得了一定的自由。道德行为主体能够对自然和社会现象、规律的认识，进行独立的判断和行动。它集中体现在个人的道德"
+  },
+  {
+   "cn": "土地与自由社",
+   "en": "land and freedom society",
+   "source": "马克思主义",
+   "wordNumber": "04.0405",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄国近代史上的革命民粹派组织，成立于1876年。成员主要有亚历山大·德米特里耶维奇·米哈伊洛夫（Alexander Dmitrijevic Mikhailov）、格奥尔吉·瓦连廷诺维奇·普列汉诺夫（G"
+  },
+  {
+   "cn": "资本主义",
+   "en": "capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.14",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "一种由私人占有生产资料、高度集中的资本用以创造和积累利润、雇佣为获取工资而出卖劳动力的自由劳动者的经济制度，引申为一种与社会主义相对的社会经济制度。"
+  },
+  {
+   "cn": "资本主义",
+   "en": "capitalism",
+   "source": "马克思主义",
+   "wordNumber": "03.0228",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类社会发展史上最后一个人剥削人的社会形态，是以社会化大生产为物质条件，以生产资料资本家私人占有制为基础、以资本剥削雇佣劳动为主要特征并由资产阶级掌握国家政权的社会经济制度及其上层建筑的社会制度。"
+  },
+  {
+   "cn": "资本",
+   "en": "capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0088",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "能够带来剩余价值的价值。资本可以表现为生产要素，而本质是经济活动中人与人之间的关系。私人企业的资本是靠剥削雇佣劳动而带来私人剩余价值的价值。社会主义国有资本和集体资本等公有资本则可以带来公有剩余价值，"
+  },
+  {
+   "cn": "资本化",
+   "en": "capitalization",
+   "source": "马克思主义",
+   "wordNumber": "02.0239",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "生息资本的形成造成每一个确定的和有规则的货币收入都比拟为一个资本的利息，而不论其是否由资本生出。资本化就是将这一收入算作是按平均利息率贷出的一个资本会提供的收益，这样这个收入就资本化了。"
+  },
+  {
+   "cn": "按人头付费",
+   "en": "capitation",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.11",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "根据合同规定的时间(年、季度或月)，由保险机构依据医疗服务提供者服务的人口数和规定的人均定额标准，预先向服务提供者支付的固定费用。许多国家对全科医疗服务多采用这种预付方法。"
+  },
+  {
+   "cn": "资本",
+   "en": "capital",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0624",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家布尔迪厄（Pierre Bourdieu）提出的概念。资本是指对自己和他人未来施加控制的能力，是一种权力的形式，包含四种形态：经济资本——以财产权的形式被制度化，文化资本——以教育资格的形"
+  },
+  {
+   "cn": "大众传媒的自由和责任",
+   "en": "freedom and responsibility of mass media",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.8",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "大众传媒在媒体活动中的限度，即可采取行为的范围和所应承担的义务。"
+  },
+  {
+   "cn": "理性资本主义",
+   "en": "rational capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.9",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "现代社会以理性原则建立的资本主义贸易、生产和金融模式。存在的前提条件包括市场的交易自由、发达的货币经济、劳动力的商品化、诸如簿记制度等理性技术的运用，经营组织与家产分离或产权的明晰化、法律保障、经济生"
+  },
+  {
+   "cn": "政治资本主义",
+   "en": "political capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.10",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "依赖于政治权威的支持，或以其他方式与政府相关联以实现私人经济利益的资本主义模式。马克斯•韦伯根据创造利益的关键因素的不同和赢利模式的不同提出的资本主义理想类型。"
+  },
+  {
+   "cn": "商业资本主义",
+   "en": "commercial capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.11",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "传统社会中存在的小规模的货币和商品贸易等资本主义模式。代表性活动包括传统贸易、通过贷款获得利息收入以及早期的银行等。马克斯•韦伯根据创造利益的关键因素的不同和赢利模式的不同的资本主义理想类型。"
+  },
+  {
+   "cn": "裙带资本主义",
+   "en": "crony capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.33",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "一种畸形的市场经济商界和政府成员因为特定的关系结成利益共同体，彼此借助关系网络通过政治权势寻租在市场上获取财富。"
+  },
+  {
+   "cn": "消费资本主义",
+   "en": "consumer capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.7",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "购买和消费成为大多数人生活中心的当代社会。一个人的地位更多是由他们所穿的衣服、吃的食物或驾驶的车来决定，而不是由他们购买什么、拥有什么工作或他们的家庭联系来决定。"
+  },
+  {
+   "cn": "国家资本主义",
+   "en": "state capitalism",
+   "source": "马克思主义",
+   "wordNumber": "03.0272",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "与国家政权相结合，由国家掌握和控制的一种资本主义经济。依据国家阶级属性的不同，分为资产阶级专政下的国家资本主义和无产阶级专政下的国家资本主义。在资本主义国家里，为资产阶级统治服务，是变相的私人资本主义"
+  },
+  {
+   "cn": "晚期资本主义",
+   "en": "late capitalism",
+   "source": "马克思主义",
+   "wordNumber": "05.0099",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自弗雷德里克·詹姆逊（Fredric Jameson）。指1945年以来的资本主义，意味着这是一个历史上有限的阶段而非人类社会的未来。"
+  },
+  {
+   "cn": "社会资本",
+   "en": "social capital",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.9",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "嵌入在社会网络中的实际的或潜在的结构性资源，包括信息网络、互惠性规则、信任等，是行动者投资在社会关系中、并希望在市场上得到回报的资源，可以被行动者激活借以实现工具性或情感性的目的。"
+  },
+  {
+   "cn": "不变资本",
+   "en": "constant capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0111",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“可变资本”相对。指在生产中用于生产资料上的那一部分资本。生产资料（即厂房、机器、设备、燃料、原材料和辅助材料等）在生产过程中不会增加价值，而只是把原有的价值转移到新的产品上，故称之为不变资本，用c"
+  },
+  {
+   "cn": "可变资本",
+   "en": "variable capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0112",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“不变资本”相对。指资本家在生产中用于劳动力的那一部分资本。这部分资本在商品的生产过程中发生了价值量的变化，会增殖自己本身的价值，因此称之为可变资本，用v来表示。"
+  },
+  {
+   "cn": "预付资本",
+   "en": "advanced capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0156",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "企业为获取工人创造的剩余价值，在开始经营时预先以货币或实物形式支付的价值。包括构成资本的全部生产资料和劳动力的价值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

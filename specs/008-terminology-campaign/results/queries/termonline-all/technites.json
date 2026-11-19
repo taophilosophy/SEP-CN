@@ -1,0 +1,32 @@
+{
+ "key": "technites",
+ "term": "technitês",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:26:56+00:00",
+ "status": "ok",
+ "note": "variant=technitês; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "单一技术",
+   "en": "mono technics",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.047",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "伴随着权力集中而产生的高度集中，以科学智力和定量化生产为前提，以发展经济、丰富物质财富、发展军事、强化当权者权力和统治为目的，丧失人的生活乐趣，违背人的愿望的技术。"
+  },
+  {
+   "cn": "声波探测技术",
+   "en": "technics of acoustic sounding",
+   "source": "地质学名词",
+   "wordNumber": "17.04.073",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "由于岩体的岩性、结构面情况、风化程度、应力状态、含水情况等地质因素都能直接引起声(超声)波波速、振幅和频率在岩体中的传播变化，根据这些变化，计算求得岩石(体)某些力学参数(泊松比、动弹性模量、抗压强度"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,622 @@
+{
+ "key": "analog magnitude representations",
+ "term": "analog magnitude representations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:24:50+00:00",
+ "status": "ok",
+ "note": "variant=analog magnitude representations; 审定公布名词库=883; 海峡两岸名词对照库=295; 其他来源数据库=39; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "原码",
+   "en": "sign magnitude,sign magnitude representation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0302",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "用数的符号及数值表示的数。"
+  },
+  {
+   "cn": "星等",
+   "en": "magnitude",
+   "source": "天文学名词",
+   "wordNumber": "01.071",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "对恒星和其他天体亮度的一种量度。在地球大气外，视目视星等mv= 0等的恒星，其照度为2.54×10-6勒克斯。"
+  },
+  {
+   "cn": "量值",
+   "en": "magnitude",
+   "source": "物理学名词",
+   "wordNumber": "01.0050",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "星等",
+   "en": "magnitude",
+   "source": "航海科技名词",
+   "wordNumber": "03.0005",
+   "subjectFullName": "航海科学技术_天文航海",
+   "subjectName": "天文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "震级",
+   "en": "earthquake magnitude,magnitude",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.009",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "用象征符号代替或再现事物，通过代替，引起我们对该事物的想象。"
+  },
+  {
+   "cn": "表象",
+   "en": "representation",
+   "source": "物理学名词",
+   "wordNumber": "06.0427",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.108",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "外界信息在系统内部的一种表达方式。"
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "心理学名词",
+   "wordNumber": "02.494",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "反映外部现实的内部认知符号。"
+  },
+  {
+   "cn": "可表示性",
+   "en": "representability",
+   "source": "数学名词",
+   "wordNumber": "02.0083",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "类似物",
+   "en": "analog",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "具有母体化合物核心结构特征的化合物。如核苷类似物、肽类似物等。"
+  },
+  {
+   "cn": "模拟",
+   "en": "analog",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.002",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "某种范畴的表达方式，如实地反映另一种范畴。"
+  },
+  {
+   "cn": "[结构]类似物",
+   "en": "analog",
+   "source": "药学名词",
+   "wordNumber": "03.267",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "与现有药物分子在化学结构上具有相似性的化合物。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.121",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "根据对象之间的某些相同或相似的性质，推断它们在其他性质上可能存在相同或相似的一种推理形式。类比是一种主观的不充分的似真推理。"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "动物学名词",
+   "wordNumber": "2.0266",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "不同生物类群的器官虽来源和结构不同，但功能相似的现象。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "物理学名词",
+   "wordNumber": "01.0128",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "植物学名词",
+   "wordNumber": "02.0207",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "不同生物类群的器官虽来源和结构不同，但功能相似的现象。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0020",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "动量、质量传递与简单的热量传递——导热有相同的分子动力学机理和相似的数学表达式，这种关系称为类比。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "心理学名词",
+   "wordNumber": "02.627",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据两种事物之间性质的异同，用一种特定事物的性质来说明另一种特定事物，即借助前者理解后者的认知过程。"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "古生物学名词",
+   "wordNumber": "01.0066",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "不同类群生物的器官虽来源和结构不同，却功能相似的现象。如蝙蝠和蝴蝶的翅膀。"
+  },
+  {
+   "cn": "模拟表示法",
+   "en": "analog representation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量级",
+   "en": "magnitude",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "星等",
+   "en": "magnitude",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表征[再现]",
+   "en": "representation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表示",
+   "en": "representation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analog",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类似物",
+   "en": "analog",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "[结构]类似物",
+   "en": "analog",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "星等",
+   "en": "magnitude\",\"mag，stellar magnitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "星等差",
+   "en": "magnitude difference\",\"magnitude equation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "平均星等",
+   "en": "mean magnitude，average magnitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模拟测图仪",
+   "en": "analog plotter\",\"analog bridging",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "振幅",
+   "en": "amplitude\",\"magnitude",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大小标度",
+   "en": "magnitude scaling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本表示",
+   "en": "text representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算机",
+   "en": "analog computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟电路",
+   "en": "analog circuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟信号",
+   "en": "analog signal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非数字配套机制",
+   "en": "analog complement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络表示学习",
+   "en": "network representation learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚符号表示",
+   "en": "sub-symbolic representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类比学习",
+   "en": "learning by analogy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据表示规范",
+   "en": "unstructured data representation specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representations",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "某一群体所共享的价值、观念及实践系统。作为一种社会共识性的知识体系，它具有双重功能，一是为个体在特定生活世界中的生存进行定向，二是提供可借以进行社会交流及对现实世界与个体、群体历史进行明晰分类的符号，"
+  },
+  {
+   "cn": "集体表象",
+   "en": "collective representation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0523",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指为某一特定社会的大多数人所接收的共同信仰和感觉，是社会强加给个人的观念，不是人从直接的经验中取得的。"
+  },
+  {
+   "cn": "价值量",
+   "en": "magnitude of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0038",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "用社会必要劳动时间反映的凝结在商品中无差别的人类劳动，其由生产商品所耗费的劳动时间来衡量。在其他条件不变的情况下，商品的价值量越大，价格越高；商品的价值量越小，价格越低。"
+  },
+  {
+   "cn": "剩余价值量",
+   "en": "magnitude of surplus value",
+   "source": "马克思主义",
+   "wordNumber": "02.0117",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工人的剩余劳动所创造的剩余价值的数量，它等于预付的可变资本量乘以剩余价值率，或者说，等于一个劳动力的价值乘以该劳动力受剥削的程度，再乘以同时使用的劳动力总数。剩余价值量取决于两个因素：即剩余价值率和同"
+  },
+  {
+   "cn": "性别参政比例制",
+   "en": "gender proportional representation in political participation",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.11",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "旨在保障不同性别平等参政的一种制度安排，通常以立法或决策的方式设定了弱势性别群体权力参与的最低比例。但这种制度安排究竟有利于还是不利于促进不同性别参政权和决策权的平等，甚至实质上是否是对妇女的一种保护"
+  },
+  {
+   "cn": "党代表制度",
+   "en": "system of Party representatives",
+   "source": "马克思主义",
+   "wordNumber": "03.0407",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党为确保对人民军队实行绝对领导的一项重要政治工作制度。1927年三湾改编时，毛泽东提出在营、连以上设立党代表，从此，在军队中设立党代表正式成为一项制度。"
+  },
+  {
+   "cn": "盎格鲁-萨克逊人",
+   "en": "Anglo-Saxon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0304",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "古日尔曼人盎格鲁、萨克逊、朱特等部落集团。分布在北欧日德兰半岛、丹麦诸岛及德国西北沿海一带。公元5-6 世纪大量移居大不列颠岛。经过长期战争、同化其他民族，逐渐形成近代英格兰民族。近代常被用来泛指英格"
+  },
+  {
+   "cn": "视觉模拟评分法",
+   "en": "visual analogue scale，VAS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.6.1.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的疾病评估_活动度评估",
+   "subjectName": "活动度评估",
+   "publishYear": "2025",
+   "definition": "一种疼痛强度的评定方法。通常采用10cm长的直线，两端分别标有“无疼痛（0）”和“最严重的疼痛（10）”。患者根据自己所感受的疼痛程度，在直线上某一点做一记号。从起点至记号处之间的距离长度即表示疼痛的"
+  },
+  {
+   "cn": "肛拭子",
+   "en": "anal swab",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.20.11",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "从肛门处取分泌物做细菌培养或病毒分离的样本。"
+  },
+  {
+   "cn": "视觉标尺法",
+   "en": "visual analogue scale method,VAS method",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "给受访者一个标尺，一端表示完全健康水平，另一端表示最差健康水平，让受访者在标尺上标记反映自己健康水平的位置，以该位置距最差健康水平端点的距离与整个标尺的长度的比例反映效用的一种效用测量方法。"
+  },
+  {
+   "cn": "全俄工兵代表苏维埃第二次代表大会",
+   "en": "Second Congress of the All Russian Soviet Union of Engineers and Soldiers Representatives",
+   "source": "马克思主义",
+   "wordNumber": "04.0500",
+   "subjectFullName": "马克思主义_其他部分_重要会议_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1917年11月7—9日(俄历10月25—27日)在彼得格勒举行。出席大会的布尔什维克党、社会革命党、孟什维克党及国际主义者等代表约600余人。大会分两次进行：7日晚至次日凌晨，大会宣告资产阶级临时政"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

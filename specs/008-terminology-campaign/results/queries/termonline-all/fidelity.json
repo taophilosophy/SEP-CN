@@ -1,0 +1,322 @@
+{
+ "key": "fidelity",
+ "term": "fidelity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:48:06+00:00",
+ "status": "ok",
+ "note": "variant=fidelity; 审定公布名词库=19; 海峡两岸名词对照库=11; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "保真度",
+   "en": "fidelity",
+   "source": "物理学名词",
+   "wordNumber": "01.0275",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "确限度",
+   "en": "fidelity",
+   "source": "植物学名词",
+   "wordNumber": "13.0281",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "指示物种分布局限于某个群落类型的程度。总是对应于某个群落类型而言的，分为5级，由其局限于某个群落类型的程度由高到低分别称为确限种、偏宜种、适宜种、随遇种、偶见种。"
+  },
+  {
+   "cn": "保真性",
+   "en": "fidelity",
+   "source": "物理学名词",
+   "wordNumber": "01.0276",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "保真度",
+   "en": "fidelity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0039",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "度量两个量子态（量子数据）相似程度的量。对于纯量子态，由两个量子态内积的模平方表示。"
+  },
+  {
+   "cn": "忠实度",
+   "en": "fidelity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0575",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "机器译文的评价准则之一。衡量机器译文表达原文信息的程度。"
+  },
+  {
+   "cn": "忠实度",
+   "en": "fidelity",
+   "source": "语言学名词",
+   "wordNumber": "11.267",
+   "subjectFullName": "语言学_计算语言学_机器翻译",
+   "subjectName": "机器翻译",
+   "publishYear": "2011",
+   "definition": "评价机器翻译译文的一个标准。表示译文和原文内容差异的程度。"
+  },
+  {
+   "cn": "确限度",
+   "en": "fidelity",
+   "source": "生态学名词",
+   "wordNumber": "06.039",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某个种局限于某一群落类型的局限性程度。"
+  },
+  {
+   "cn": "保真度",
+   "en": "fidelity",
+   "source": "电子学名词",
+   "wordNumber": "03.302",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "课程实施的忠实取向",
+   "en": "fidelity orientation",
+   "source": "教育学名词",
+   "wordNumber": "02.074",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "一种课程实施取向。在课程实施过程中忠实地执行课程方案，衡量课程实施成功与否的基本标准是课程实施过程实现预定的课程方案的程度。"
+  },
+  {
+   "cn": "转录保真性",
+   "en": "transcription fidelity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0241",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "转录产生的RNA与对应的DNA模板碱基序列配对的正确性。为准确传递遗传信息所必需。"
+  },
+  {
+   "cn": "声音逼真度",
+   "en": "acoustic fidelity",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0646",
+   "subjectFullName": "地球物理学_勘探地球物理学_井筒_放射性勘探",
+   "subjectName": "放射性勘探",
+   "publishYear": "2022",
+   "definition": "声音仿真对仿真对象某个侧面或整体的外部状态和行为的复现程度，用界于0和 1之间的小数表示， 0表示仿真与仿真对象之间没有任何相似的地方； 1表示仿真完全精确地复现了仿真对象。 "
+  },
+  {
+   "cn": "信息保真",
+   "en": "information fidelity",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.216",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "信息处理和传输中对原有实质内容的真实保存。"
+  },
+  {
+   "cn": "克隆保真度",
+   "en": "cloning fidelity",
+   "source": "物理学名词",
+   "wordNumber": "11.0367",
+   "subjectFullName": "物理学_交叉学科_生物物理学",
+   "subjectName": "生物物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "模型逼真度",
+   "en": "model fidelity",
+   "source": "自动化名词",
+   "wordNumber": "04.589",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "威发",
+   "en": "wireless fidelity,WiFi",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0403",
+   "subjectFullName": "计算机科学技术_网络与数据通信_无线网络",
+   "subjectName": "无线网络",
+   "publishYear": "2018",
+   "definition": "按照IEEE 802.11标准实现无线局域网的技术。"
+  },
+  {
+   "cn": "量子态保真度",
+   "en": "fidelity of quantum states",
+   "source": "物理学名词",
+   "wordNumber": "06.0850",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "无线保真",
+   "en": "wireless fidelity,Wi-Fi",
+   "source": "通信科学技术名词",
+   "wordNumber": "10.055",
+   "subjectFullName": "通信科学技术_无线传输与接入",
+   "subjectName": "无线传输与接入",
+   "publishYear": "2007",
+   "definition": "符合美国电气电子工程师学会(IEEE)802.11b标准、目前使用最广的一种无线局域网。"
+  },
+  {
+   "cn": "无线保真",
+   "en": "wireless fidelity;Wi Fi",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.068",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体传播技术基础",
+   "subjectName": "新媒体传播技术基础",
+   "publishYear": "2022",
+   "definition": "无线联网的一种技术。采用无线电波传输，可以实现短距离高速数据传输。WiFi本是一个无线网络通信技术的品牌，这个技术主要是为了改善基于IEEE 802.11标准的无线网络产品之间的互通性，使用IEEE"
+  },
+  {
+   "cn": "三代测序技术",
+   "en": "high fidelity reads; Hi-Fi reads",
+   "source": "农学名词",
+   "wordNumber": "06.403",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "基于环化共有序列CCS（circular consensus sequencing）模式测序，产生出既有较长的读长（10~20 kb的长度），又有很高的序列精度（约99.9%准确率）测序结果的技术。"
+  },
+  {
+   "cn": "确限度",
+   "en": "fidelity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保真度，逼真度",
+   "en": "fidelity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确限度",
+   "en": "fidelity\",\"exclusiveness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "确限度",
+   "en": "exclusiveness\",\"fidelity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "转录保真性",
+   "en": "transcription fidelity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转录保真性",
+   "en": "transcription fidelity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图像逼真[度]",
+   "en": "image fidelity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高保真",
+   "en": "high fidelity\",\"hi-fi",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高保真彩色印刷",
+   "en": "high fidelity color printing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "目的论",
+   "en": "finality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "费德里奥",
+   "en": "Fidelio\",\"oder Der Triumph der ehelichen Liebe",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Beethoven, Ludwig van"
+  },
+  {
+   "cn": "无线（局域）网",
+   "en": "wireless fidelity",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

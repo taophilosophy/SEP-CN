@@ -1,0 +1,742 @@
+{
+ "key": "tidal activity",
+ "term": "tidal activity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:40:05+00:00",
+ "status": "ok",
+ "note": "variant=tidal activity; 审定公布名词库=2010; 海峡两岸名词对照库=806; 其他来源数据库=33; 预公布名词数据库=153; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "分潮",
+   "en": "tidal component,tidal constituent",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0270",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "潮汐调和分析中的各个谐波分量。"
+  },
+  {
+   "cn": "潮汐通道",
+   "en": "tidal channel,tidal inlet",
+   "source": "地理学名词",
+   "wordNumber": "15.084",
+   "subjectFullName": "地理学_海洋地理学",
+   "subjectName": "海洋地理学",
+   "publishYear": "2006",
+   "definition": "连接海洋与潟湖的涨、落潮流进出的水道，是外海与潟湖的水体、沉积物、营养物、浮游生物和污染物不断进行交换的通道。"
+  },
+  {
+   "cn": "潮流",
+   "en": "tidal stream,tidal current",
+   "source": "航海科技名词",
+   "wordNumber": "07.0223",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "潮汐构造",
+   "en": "tidal structure",
+   "source": "地质学名词",
+   "wordNumber": "05.03.004",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "由周期性潮汐水流形成的原生沉积构造。如潮汐层理、再作用面等。"
+  },
+  {
+   "cn": "潮式呼吸",
+   "en": "tidal breathing",
+   "source": "神经外科学名词",
+   "wordNumber": "17.1",
+   "subjectFullName": "医学_神经外科学_神经外科重症监护_神经外科重症常见并发症及结局",
+   "subjectName": "神经外科重症常见并发症及结局",
+   "publishYear": "2026",
+   "definition": "由于呼吸中枢兴奋性降低，呼吸节律从呼吸暂停开始，逐渐由浅慢变深快，然后又由深快变浅慢，直至再次出现呼吸暂停，并重复上述循环的呼吸方式。常由心力衰竭、神经系统病变或药物所致。"
+  },
+  {
+   "cn": "挡潮闸",
+   "en": "tidal barrage",
+   "source": "风景园林名词",
+   "wordNumber": "13.0092",
+   "subjectFullName": "风景园林_其他_水利工程",
+   "subjectName": "水利工程",
+   "publishYear": "2025",
+   "definition": "建于河流入海河段防止海潮倒灌的水闸。"
+  },
+  {
+   "cn": "潮汐式灌溉",
+   "en": "tidal irrigation",
+   "source": "风景园林名词",
+   "wordNumber": "09.0272",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物繁殖生产与栽培养护",
+   "subjectName": "风景园林植物繁殖生产与栽培养护",
+   "publishYear": "2025",
+   "definition": "针对花盆、穴盘等容器或基质块设计的底部灌溉方式。灌溉水从栽培基质底部进入，通过栽培基质的毛细管作用，将灌溉水供给植物，保证植物单株和群体养分与水分均衡，能定时给水和施肥，包括植床式潮汐式灌溉和地面式潮"
+  },
+  {
+   "cn": "潮式呼吸",
+   "en": "tidal breathing",
+   "source": "急救医学名词",
+   "wordNumber": "03.194",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "一种呼吸节律改变，呼吸有节奏地由暂停—浅呼吸—深呼吸—浅呼吸—暂停，周而复始，周期为30秒至2分钟的呼吸形式。是呼吸中枢兴奋性降低的表现。临床多见于中枢神经系统疾病、严重的药物中毒、心力衰竭、糖尿病昏"
+  },
+  {
+   "cn": "潮式呼吸",
+   "en": "tidal breathing",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.3.4",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈症状与检查",
+   "subjectName": "咽喉–头颈症状与检查",
+   "publishYear": "2025",
+   "definition": "呼吸节律从呼吸暂停开始，逐渐由浅慢变深快，然后又由深快变浅慢，直至再次出现呼吸暂停，并重复上述循环的呼吸方式。"
+  },
+  {
+   "cn": "潮汐臂",
+   "en": "tidal arm",
+   "source": "天文学名词",
+   "wordNumber": "08.784",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "当两个星系彼此非常接近时，由于引力的潮汐作用，一个星系中的物质被另一个星系拽出，所形成的形如手臂的长条状结构。"
+  },
+  {
+   "cn": "潮汐假说",
+   "en": "tidal hypothesis",
+   "source": "天文学名词",
+   "wordNumber": "10.283",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "关于太阳系形成的一种学说。假定有一个恒星曾经接近过太阳，该恒星的潮汐力使太阳表面隆起，并使部分物质脱离太阳，这些物质后来就形成为行星。由英国天文学家J. H. 金斯(J. H. Jeans)于1916"
+  },
+  {
+   "cn": "潮汐形变",
+   "en": "tidal deformation",
+   "source": "天文学名词",
+   "wordNumber": "03.042",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "天体上各质点与天体质心所受外部天体引力有差别而引起的天体弹性形变现象。"
+  },
+  {
+   "cn": "潮汐摩擦",
+   "en": "tidal friction",
+   "source": "天文学名词",
+   "wordNumber": "03.043",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "天体发生潮汐形变时，天体物质因黏性或摩擦而产生的能量耗散现象。"
+  },
+  {
+   "cn": "潮滞",
+   "en": "tidal lag",
+   "source": "天文学名词",
+   "wordNumber": "03.189",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "因潮汐摩擦促使潮汐发生滞后的现象。"
+  },
+  {
+   "cn": "潮气量",
+   "en": "tidal volume",
+   "source": "麻醉学名词",
+   "wordNumber": "01.102",
+   "subjectFullName": "麻醉学_麻醉学基础_呼吸系统_呼吸系统生理学",
+   "subjectName": "呼吸系统生理学",
+   "publishYear": "2024",
+   "definition": "每次呼吸时吸入或者呼出的气量。平静呼吸时为400～600ml，运动时潮气量增大。与年龄、性别、体表面积、情绪等因素有关。"
+  },
+  {
+   "cn": "潮汐剥落",
+   "en": "tidal stripping",
+   "source": "天文学名词",
+   "wordNumber": "07.159",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "星系因其他星系的潮汐作用而失去气体或恒星的过程。"
+  },
+  {
+   "cn": "潮式呼吸",
+   "en": "tidal breathing",
+   "source": "兽医学名词",
+   "wordNumber": "13.071",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "呼吸由浅逐渐加强、加深、加快，当达到高峰后，又逐渐变弱、变浅、变慢，而后呼吸中断，经数秒至15~30s的短暂间隙，又以同样方式重复出现的呼吸方式。多是神经系统疾病导致脑循环障碍的结果，也是疾病危重表现"
+  },
+  {
+   "cn": "潮汐分析",
+   "en": "tidal analysis",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0183",
+   "subjectFullName": "地球物理学_地球重力学_重力固体潮",
+   "subjectName": "重力固体潮",
+   "publishYear": "2022",
+   "definition": "实际观测的潮汐数据包含不同频率的潮波信号，获取各潮波振幅因子、相位滞后以及相关误差估计的分析。 "
+  },
+  {
+   "cn": "潮汐校正",
+   "en": "tidal correction",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0184",
+   "subjectFullName": "地球物理学_地球重力学_重力固体潮",
+   "subjectName": "重力固体潮",
+   "publishYear": "2022",
+   "definition": "通常指在地球物理观测中扣除在地球表面或内部观测的几何或物理量中包含的潮汐信号的工作。 "
+  },
+  {
+   "cn": "潮汐形变",
+   "en": "tidal deformation",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0190",
+   "subjectFullName": "地球物理学_地球重力学_重力固体潮",
+   "subjectName": "重力固体潮",
+   "publishYear": "2022",
+   "definition": "在日、月等天体的引潮力作用下，地球产生的形变。通常包括重力变化、位移变化、倾斜变化和应变变化等。 "
+  },
+  {
+   "cn": "潮汐风",
+   "en": "tidal breeze\",\"tidal wind",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分潮",
+   "en": "tidal component\",\"tidal constituent",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潮汐通道",
+   "en": "tidal channel\",\"tidal inlet",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "潮差",
+   "en": "tidal range\",\"tidal difference",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "潮流",
+   "en": "tidal current\",\"tidal stream",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "潮流",
+   "en": "tidal stream\",\"tidal current",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "潮差",
+   "en": "tidal range",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "潮流",
+   "en": "tidal current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "潮日",
+   "en": "tidal day",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "潮汐波",
+   "en": "tidal wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "潮汐力",
+   "en": "tidal force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "涌潮",
+   "en": "tidal bore",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海潮林",
+   "en": "tidal forest",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "潮汐不稳定性",
+   "en": "tidal instability",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "潮汐俘获",
+   "en": "tidal capture",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "潮汐假说",
+   "en": "tidal hypothesis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "潮汐隆起",
+   "en": "tidal bulge",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "潮汐摩擦",
+   "en": "tidal friction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "潮汐扰动",
+   "en": "tidal disturbance",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "潮汐形变",
+   "en": "tidal deformation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据活动",
+   "en": "data activity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活数据学",
+   "en": "Activation Dataology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景激活",
+   "en": "scenario activation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动进攻",
+   "en": "active wrestling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加力推挡",
+   "en": "active block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主动反击",
+   "en": "active counterattack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据自激活",
+   "en": "data self-activation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化活动",
+   "en": "International Standardization Activities",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "春季农业生产",
+   "en": "spring-season agricultural activities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科学活动大数据",
+   "en": "big data on scientific activity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "脂肪酶活动度",
+   "en": "lipase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.7",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "一定量试样中的脂肪酶与纯油脂作用所生成的游离脂肪酸的量，用中和1 克试样（干基）中生成的游离脂肪酸所消耗的氢氧化钾的毫克数表示。"
+  },
+  {
+   "cn": "淀粉酶活性",
+   "en": "diastase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.25",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "淀粉酶催化淀粉水解成糖的能力，即1 克蜂蜜所含的淀粉酶在40℃、1 小时内转化1%淀粉溶液的毫升数。酶值的高低与蜂蜜的新鲜程度、成熟度、加工工艺、储藏时间有关。"
+  },
+  {
+   "cn": "酶活力",
+   "en": "enzyme activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "酶在一定条件下催化某一特定反应的能力，是表达酶制剂产品的一个特征性专属指标"
+  },
+  {
+   "cn": "放射性活度",
+   "en": "radioactive activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位时间内放射性核素发生核衰变的总数。符号为A。SI单位：贝可[勒尔]，记作Bq。"
+  },
+  {
+   "cn": "比活度",
+   "en": "specific activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位质量的放射性活度。SI单位为贝可每千克，记作Bq·kg-1。"
+  },
+  {
+   "cn": "活度浓度",
+   "en": "activity concentration",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.5",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位体积的放射性活度。SI单位为贝可每立方米，记作Bq·m-3；或贝可每升，记作Bq·L-1。"
+  },
+  {
+   "cn": "核活动",
+   "en": "nuclear activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词",
+   "subjectName": "核或辐射突发事件基础名词",
+   "publishYear": "2025",
+   "definition": "任何研究、生产、提取、加工、处理、应用、搬运、贮存或处置放射性物质或核材料的活动，以及在陆上、水上或空中交通线上运输放射性物质或核材料的活动，或任何其他转移或使用放射性物质或核材料的活动。"
+  },
+  {
+   "cn": "危险活度",
+   "en": "dangerous activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "特定放射源的核素在设定的多种照射情景条件下足以引起人体严重有害的组织反应的最小活度估算值。"
+  },
+  {
+   "cn": "验收活动",
+   "en": "acceptance activity",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.9",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "对可能产生职业病危害的建设项目在施工完成后，建设单位对职业病防护设施进行的自我评价，合格后该项目方可投入生产和使用。"
+  },
+  {
+   "cn": "活动记录",
+   "en": "activity record",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.8",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以分析一个行动中在时间和空间上各个动作发生顺序和关系的图表，例如一次手术的各个动作和环节。"
+  },
+  {
+   "cn": "社会活动",
+   "en": "social activity",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会成员彼此为对象，为了共同的利益、目标、或兴趣所从事的种种集体活动。"
+  },
+  {
+   "cn": "活动理论",
+   "en": "activity theory",
+   "source": "社会学名词",
+   "wordNumber": "3.15.4.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年与老龄化相关理论",
+   "subjectName": "老年与老龄化相关理论",
+   "publishYear": "2025",
+   "definition": "由美国学者哈韦格斯特(Robert Havighurst）提出的一种社会老年学领域的理论，是脱离理论的反命题，认为老年人应积极参与社会。只有参与，才能使老年人重新认识自我，保护生命的活力。"
+  },
+  {
+   "cn": "感性活动",
+   "en": "perceptual activity",
+   "source": "马克思主义",
+   "wordNumber": "01.0178",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质的、活生生的、现实的实践活动，它体现了实践的能动性、主体性。在人的感性活动中把握对象，是马克思主义哲学同旧唯物主义的根本区别。"
+  },
+  {
+   "cn": "身体活动",
+   "en": "physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "由骨骼肌收缩引起的，导致机体能量消耗增加的一切活动，包括职业性、交通性、日常生活体力活动及闲暇时的体育锻炼。"
+  },
+  {
+   "cn": "活动受限",
+   "en": "activity limitation",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "日常生活活动能力因为健康问题而受到的限制。包括躯体活动如屈体、弯腰等受限、迁移受限和自我照顾能力下降三个层次。"
+  },
+  {
+   "cn": "胆碱酯酶活性",
+   "en": "cholinesterase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.6.3",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "用于评价有机磷中毒的重要指标之一，轻度中毒时全血胆碱酯酶活性约为正常的50%~70%，中度中毒时约为正常的30~50%，重度中毒时低于30%。"
+  },
+  {
+   "cn": "戊二醛活化",
+   "en": "glutaraldehyde activation",
+   "source": "消毒学",
+   "wordNumber": "2.1.8.2.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "在灭菌前，戊二醛水溶液中加入碱或表面活性剂将其碱化的过程，以提高灭菌效果。"
+  },
+  {
+   "cn": "有效成分",
+   "en": "active ingredient",
+   "source": "消毒学",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在消毒剂配方中，对微生物具有杀灭作用的物质。"
+  },
+  {
+   "cn": "活性氯",
+   "en": "active chlorine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.8",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有氧化性的氯离子，是消毒的主要有效成分。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

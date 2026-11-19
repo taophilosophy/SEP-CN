@@ -1,0 +1,692 @@
+{
+ "key": "reversion",
+ "term": "reversion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:51:03+00:00",
+ "status": "ok",
+ "note": "variant=reversion; 审定公布名词库=1066; 海峡两岸名词对照库=379; 其他来源数据库=40; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "回归",
+   "en": "reversion",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.238",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_固溶和时效",
+   "subjectName": "固溶和时效",
+   "publishYear": "2021",
+   "definition": "经固溶热处理的合金时效硬化后，在稍高于时效(低于固溶热处理)温度，进行短时间加热而引起的性能复原的现象。"
+  },
+  {
+   "cn": "回归",
+   "en": "reversion",
+   "source": "冶金学名词",
+   "wordNumber": "07.0242",
+   "subjectFullName": "冶金学_金属学_相变",
+   "subjectName": "相变",
+   "publishYear": "2019",
+   "definition": "某些经固溶处理的铝合金自然时效硬化后，在低于固溶处理的温度(120~180℃)短时间加热后力学性能恢复到固溶热处理状态的现象。"
+  },
+  {
+   "cn": "回归",
+   "en": "reversion",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1439",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_热处理",
+   "subjectName": "热处理",
+   "publishYear": "2011",
+   "definition": "某些经固溶处理的铝合金自然时效硬化后，在低于固溶处理的温度(120~180℃)短时间加热后力学性能恢复到固溶热处理状态的现象。"
+  },
+  {
+   "cn": "返元",
+   "en": "reversion",
+   "source": "水产名词",
+   "wordNumber": "08.342",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "鱼糜或鱼糜制品已形成的凝胶崩析的现象。"
+  },
+  {
+   "cn": "换向",
+   "en": "reversing",
+   "source": "航海科技名词",
+   "wordNumber": "15.0139",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.078",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物变化具有在一定条件下向逆向进行的属性，即施加于事物的影响作用具有后果可取消的性质。"
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.088",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "对文物古迹所采取的必要干预和改变，由于历史信息和技术条件的不确定或局限性，宜采取在一定阶段后可以恢复到干预前状态的措施处理。"
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "物理学名词",
+   "wordNumber": "05.0201",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "逆转",
+   "en": "reversal",
+   "source": "植物学名词",
+   "wordNumber": "02.0217",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "衍生的性状状态变回为祖先性状状态的过程。"
+  },
+  {
+   "cn": "反向器",
+   "en": "reverser",
+   "source": "计量学名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "计量学_力值、硬度_力值和扭矩测量标准",
+   "subjectName": "力值和扭矩测量标准",
+   "publishYear": "2015",
+   "definition": "能使施加到测力仪(或称重传感器)上的负荷反向的装置。"
+  },
+  {
+   "cn": "极性变换",
+   "en": "reversal",
+   "source": "航天科学技术名词",
+   "wordNumber": "09.082",
+   "subjectFullName": "航天科学技术_航天能源",
+   "subjectName": "航天能源",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "反向器",
+   "en": "reverser",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "06.055",
+   "subjectFullName": "机械工程_仪器仪表_试验机_材料试验机_材料试验机零部件及附件",
+   "subjectName": "材料试验机零部件及附件",
+   "publishYear": "2003",
+   "definition": "使施加的试验力反向的装置。"
+  },
+  {
+   "cn": "反极",
+   "en": "reversal",
+   "source": "电气工程名词",
+   "wordNumber": "24.047",
+   "subjectFullName": "电气工程_电化学应用",
+   "subjectName": "电化学应用",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "反向器",
+   "en": "reverser",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0562",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "反磁化",
+   "en": "magnetic reversal,reversal magnetization",
+   "source": "物理学名词",
+   "wordNumber": "03.0471",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "反硫化",
+   "en": "anti-reversion",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0539",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "硫化橡胶在高温下放置过长后出现的软化现象。硫化工艺中或实际应用时，（一般通过硫键连接的）硫化胶网络结构因承受不起高热而出现的断链（即大分子降解）现象。"
+  },
+  {
+   "cn": "硫化返原",
+   "en": "cure reversion",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0572",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "在橡胶硫化过程中，硫化温度高、硫化时间过长而使硫化胶交联网出现裂解，继而硫化胶料的性能降低的现象。"
+  },
+  {
+   "cn": "返硫",
+   "en": "cure reversion",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0808",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "在模量达到最大值之后，继续在硫化温度下引起模量降低的现象。"
+  },
+  {
+   "cn": "返色",
+   "en": "color reversion",
+   "source": "林学名词",
+   "wordNumber": "12.201",
+   "subjectFullName": "林学_林产化学加工_木材制浆造纸",
+   "subjectName": "木材制浆造纸",
+   "publishYear": "2016",
+   "definition": "漂白纸浆和纸产品在储存和使用过程中白度降低的现象。"
+  },
+  {
+   "cn": "返硫",
+   "en": "cure reversion",
+   "source": "化学名词",
+   "wordNumber": "05.1025",
+   "subjectFullName": "化学_高分子化学_高分子加工技术和应用",
+   "subjectName": "高分子加工技术和应用",
+   "publishYear": "2016",
+   "definition": "由于硫化温度高、硫化时间过长而造成硫化胶交联网部分裂解，导致硫化胶性能降低的现象。"
+  },
+  {
+   "cn": "回归",
+   "en": "reversing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "换向",
+   "en": "reversing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "回复突变",
+   "en": "reversion （=reverse mutation）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "逆转",
+   "en": "reversal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反向",
+   "en": "reverse",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "回转式水准仪",
+   "en": "level reversible\",\"reversion level",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "回复突变,反突变",
+   "en": "back mutation\",\"reverse mutation\",\"reversion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "硫化返原",
+   "en": "cure reversion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "进化逆行",
+   "en": "evolutionary reversion",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "极性倒转",
+   "en": "polarity reversion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "基因内回复",
+   "en": "intragenic reversion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反变层",
+   "en": "reversing layer",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "颠倒温度表",
+   "en": "reversing thermometer",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "颠倒温度表",
+   "en": "reversing thermometer",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "反转时间",
+   "en": "reversing time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换向时间",
+   "en": "reversing time",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "换向联锁",
+   "en": "reversing interlock",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反身",
+   "en": "reverse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身射门",
+   "en": "reverse hit\",\"reverse shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反手射门",
+   "en": "reverse shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身跳水",
+   "en": "reverse dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆序",
+   "en": "reversed order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡塔利纳反身",
+   "en": "catalina reverse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "倒立鹤式",
+   "en": "reverse crane",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身转进",
+   "en": "reverse\",\"roll",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反棍传球",
+   "en": "reverse pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反抱腰",
+   "en": "reverse waist-hold\",\"reverse waist-lock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡塔利纳式倒转",
+   "en": "reverse catalina rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "倒划",
+   "en": "backpaddling\",\"reverse stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反",
+   "en": "Reversal to the Opposite",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反手传球",
+   "en": "backhand pass\",\"reverse pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反屈伸上",
+   "en": "rear kip\",\"reverse kip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发育可逆",
+   "en": "developmental reversibility",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "宫内或生命早期发育阶段畸变的表型被外源性因素修复的现象。"
+  },
+  {
+   "cn": "绝育术后再通",
+   "en": "sterilization reversal",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.11",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "将已经结扎、切断的输精管或输卵管重新端端吻合,形成一条通畅的可以输送精子、卵子或受精卵的管道的手术。用于帮助绝育对象恢复生育能力。"
+  },
+  {
+   "cn": "可逆毒性效应",
+   "en": "reversible toxic effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.11",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "机体停止接触引起毒性效应的外源化学物后已造成的损害可逐渐消失的效应"
+  },
+  {
+   "cn": "逆向毒代动力学",
+   "en": "reverse toxicokinetics, rTK",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.49",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "描述外源化学物在人体或其他动物体内的吸收、分布、代谢、排泄的速率，允许研究人员根据外部暴露浓度来估计内部剂量，或根据已知的内部剂量估计外部暴露浓度的学科。"
+  },
+  {
+   "cn": "细菌回复突变试验",
+   "en": "bacterial reverse mutation assay",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.5",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "利用突变体的测试菌株，观察受试物能否纠正或补偿突变体所携带的突变改变，判断其致突变性的试验。"
+  },
+  {
+   "cn": "可逆性脑血管收缩综合征",
+   "en": "reversible cerebral vasoconstriction syndrome，RCVS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.2.21",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种主要继发于使用血管活性药物及产后，以突发雷击样头痛为特征的短暂血管病变。主要表现为多灶性、可逆性、节段性脑血管收缩，雷击样头痛伴或不伴局灶神经功能缺损或癫痫发作。"
+  },
+  {
+   "cn": "长效可逆性避孕方法",
+   "en": "long-acting reversible contraception, LARC",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.4.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一旦使用，正常情况下避孕效果维持时间长于1个月，但停用后使用者的生育力可以恢复的避孕方法。包括宫内节育器、皮下埋植剂、长效避孕针"
+  },
+  {
+   "cn": "反转录聚合酶链反应",
+   "en": "reverse transcription-polymerase chain reaction, RT-PCR",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.123",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "以mRNA 为模板，采用oligo(dT)或随机引物，利用反转录酶反转录成互补DNA 链（cDNA），再以互补链为模板进行PCR 扩增获得目的基因的技术。"
+  },
+  {
+   "cn": "逆温",
+   "en": "temperature inversion",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.3.4",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "在大气对流层中，气温随高度增加而升高的反常现象。"
+  },
+  {
+   "cn": "风险规避",
+   "en": "risk aversion",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险较为厌恶的一种态度。与存在风险但是能够获得某一数额的期望收益相比，消费者更愿意选择一个同样数额的确定性收益"
+  },
+  {
+   "cn": "引水节",
+   "en": "Water Diversion Festival",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0192",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "流传于新疆塔什库尔干塔吉克自治县塔吉克族的农事节日，在塔吉克族春月（公历3 月22日至4 月22 日）间；是当春季来临之时，需要砸开冰块，引水入渠，灌溉耕地，为此而欢庆的节日。"
+  },
+  {
+   "cn": "核材料转用",
+   "en": "diversion of nuclear material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.5",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "将处于保障监督下的核材料在有关核保障协定禁止的范围内的使用。"
+  },
+  {
+   "cn": "高原衰退症",
+   "en": "high altitude recession disease",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.3.2.5",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原病",
+   "subjectName": "高原病",
+   "publishYear": "2025",
+   "definition": "长期居住高原，因习服不良或丧失适应而发生的以脑力和/或体力衰退为主要特征的临床综合征。主要表现为疲劳、食欲减退、体重减轻、失眠、记忆力下降、工作能力降低等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

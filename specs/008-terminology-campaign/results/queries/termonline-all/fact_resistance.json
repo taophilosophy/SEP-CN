@@ -1,0 +1,752 @@
+{
+ "key": "fact resistance",
+ "term": "fact resistance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:29:25+00:00",
+ "status": "ok",
+ "note": "variant=fact resistance; 审定公布名词库=2636; 海峡两岸名词对照库=649; 其他来源数据库=135; 预公布名词数据库=98; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0363",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "对所要考察实体的数据的一个数值度量。"
+  },
+  {
+   "cn": "科学事实",
+   "en": "scientific fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.031",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究中发现的真实可靠的现象或现象之间的关系。"
+  },
+  {
+   "cn": "经验事实",
+   "en": "experiential fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "人们通过知觉获得的具有可重复性或可检验性的现象或现象之间的关系。"
+  },
+  {
+   "cn": "理论事实",
+   "en": "theoretical fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.033",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由理论推导得出的具有可重复性或可检验性的现象或现象之间的关系。"
+  },
+  {
+   "cn": "人工事实",
+   "en": "artificial fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.089",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "来自“实验室研究”的一个重要概念。布鲁诺·拉图尔（Bruno Latour）和史蒂夫·伍尔加（Steve Woolgar）发现实验室就像一个庞大的“文学铭写”系统，实验室中到处都是“铭写装置”（ins"
+  },
+  {
+   "cn": "核对事实",
+   "en": "fact check",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.184",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "新闻记者和编辑对搜集到的新闻素材进行确认和修订，以确保写入新闻报道的事实准确无误。这是新闻生产流程中必不可少的一个环节。"
+  },
+  {
+   "cn": "事实检索",
+   "en": "fact retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.064",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "（1）以客观事实为检索对象，查找某一事件发生的时间、地点及过程的一种检索方法。其检索结果主要是客观事实或为说明事实而提供的相关资料。完成事实型信息检索主要借助于各种指南数据库和全文数据库。（2）对数据"
+  },
+  {
+   "cn": "事实表",
+   "en": "fact table",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0428",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "包含业务过程中的事实和度量信息的表。"
+  },
+  {
+   "cn": "事实表",
+   "en": "fact table",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0364",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "用来存储事实的度量值及指向各个维表的外键值的数据表。"
+  },
+  {
+   "cn": "事实库",
+   "en": "fact base",
+   "source": "自动化名词",
+   "wordNumber": "05.063",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "新闻事实",
+   "en": "newsworthy facts",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.042",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻与宣传",
+   "subjectName": "新闻与宣传",
+   "publishYear": "2022",
+   "definition": "①具备新闻价值的事实、事件和现象。②经由新闻报道呈现和描述的事实。"
+  },
+  {
+   "cn": "事实-价值区分",
+   "en": "fact-value distinction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "由D. 休谟（D. Hume）提出。讨论“应然”的价值判断与描述“实然”的经验事实分属不同范畴，前者不能由后者直接推论得出。"
+  },
+  {
+   "cn": "事实综合",
+   "en": "synthesis in fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.135",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "在对各项事实分析的基础上，综括各个事实使其连结为一个整体，从而达到对其认知的分析方法。"
+  },
+  {
+   "cn": "事实检索系统",
+   "en": "fact retrieval system",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.205",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索系统",
+   "subjectName": "检索系统",
+   "publishYear": "2019",
+   "definition": "信息检索系统的一种类型。不仅能够从事实集合中查询出原来存入的事实，还能够从已有事实中推导、演绎出新的事实，或寻求对某一问题的解答。问答式检索系统就是一种事实检索系统。"
+  },
+  {
+   "cn": "用事实说话",
+   "en": "speaking with facts",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.057",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻与宣传",
+   "subjectName": "新闻与宣传",
+   "publishYear": "2022",
+   "definition": "一种比较有效的宣传方式。其特点是以众多事实为论据，用归纳论证的方式说服人。"
+  },
+  {
+   "cn": "卡尔多程式化事实",
+   "en": "Kaldor stylized facts",
+   "source": "经济学名词",
+   "wordNumber": "04.073",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "1958年卡尔多提出的资本主义经济发展中的六个程式化事实，即：①产出和劳动生产率以稳定的比率持续增长；②每个工人的资本数量持续增长；③利润率水平从长期看是稳定的，但在短期是波动的并与投资的波动相联系；"
+  },
+  {
+   "cn": "营养成分表",
+   "en": "nutrition facts label",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0452",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "食品标签上标有食品中营养成分名称、含量和占营养素参考值（NRV）百分比的规范性表格。"
+  },
+  {
+   "cn": "法律事实",
+   "en": "legal matter,juristic fact",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0567",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "能够引起合同法律关系产生、变更和消灭的客观现象和事实。包括行为和事件。"
+  },
+  {
+   "cn": "因果性事实",
+   "en": "the fact of causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由现象之间的因果关系确立的现象之间的稳定关联。"
+  },
+  {
+   "cn": "装卸时间事实记录",
+   "en": "laytime statement of fact",
+   "source": "航海科技名词",
+   "wordNumber": "13.0119",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事实库",
+   "en": "fact base",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阻力",
+   "en": "resistance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "阻抗",
+   "en": "resistance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抵抗力,抗性",
+   "en": "resistance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐药性，抗药性",
+   "en": "resistance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "electric resistance\",\"resistance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "电阻率",
+   "en": "resistivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电阻率",
+   "en": "resistivity\",\"electric resistivity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "多基因抗[病]性",
+   "en": "multigenic resistance\",\"polygenic resistance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗药性",
+   "en": "insecticide resistance\",\"pesticide resistance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗寒性",
+   "en": "cold resistance\",\"winter resistance",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "剩余阻力",
+   "en": "residual resistance\",\"residuary resistance",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "抗菌性",
+   "en": "bacterial resistance\",\"fungus resistance\",\"micro-organism resistance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "阻力",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐力",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗日根据地",
+   "en": "resistance base",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒时间",
+   "en": "time of resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "东北抗日联军",
+   "en": "Northeast United Resistance Army",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "量子抗性密码系统",
+   "en": "quantum-resistant cryptography system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子抗性数字签名",
+   "en": "quantum-resistant code signing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "违规披露、不披露重要信息罪",
+   "en": "crime of submitting false reports or reports concealing important facts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "片面抗战",
+   "en": "partial resistance against Japanese aggression",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "中国人民抗日战争（简称：抗日战争、抗战）",
+   "en": "the Chinese People’s War of Resistance against Japanese Aggression (the War of Resistance)",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "CAP原则",
+   "en": "CAP (consistency, availability and partition resistance) principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.12",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "事情的真实情况。指已被正确认识到的客观事物、事件、现象、关系、属性、本质及规律性，是客观存在的事物、现象、关系被人的感觉和思维如实反映，并作为人们进一步认识和行动的依据。作为元伦理范畴，事实与价值对立"
+  },
+  {
+   "cn": "社会事实",
+   "en": "social fact",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "超越于个人并能从外部给予个人以约束的一切社会事物（社会文化环境、结构、关系等），或普遍存在于社会各处的富有意义和影响的社会现象，具有客观性、强制性和普遍性。由涂尔干提出。"
+  },
+  {
+   "cn": "事实婚姻",
+   "en": "fact marriage",
+   "source": "社会学名词",
+   "wordNumber": "3.1.3.9",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_婚姻制度",
+   "subjectName": "婚姻制度",
+   "publishYear": "2025",
+   "definition": "没有配偶的男女未进行结婚登记便以夫妻关系同居生活，社会也认为是夫妻关系的两性结合。"
+  },
+  {
+   "cn": "社会事实",
+   "en": "social fact",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0525",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）在《社会学方法的准则》中首次提出，指普遍存在于社会各处并具有其固有存在的行为方式。社会事实有三个特征：外在性、强制性、普遍性。"
+  },
+  {
+   "cn": "营养成分表",
+   "en": "nutrition facts",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.37",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "标有食品能量和营养成分名称、含量及其占营养素参考值百分比的规范性表格。"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "01.0245",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想活的灵魂之一，中国共产党的根本思想路线。实事求是一语，出自东汉班固所著《汉书·河间献王传》，原意是赞扬河间献王刘德的治学态度。1941年，毛泽东在《改造我们的学习》一文中，对实事求是作了马克"
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.66",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "机体对某种外源化学物产生的抵抗性，即使高剂量暴露也不会产生明显毒作用的现象。"
+  },
+  {
+   "cn": "抗力测试仪",
+   "en": "resistance tester",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于测定试验微生物抗力，鉴定生物指示物和化学指示物并对温度、浓度、压力及其作用时间均有严格规定的专用设备。如压力蒸汽灭菌指示物抗力测定仪、环氧乙烷灭菌指示物抗力测定仪和过氧化氢气体灭菌指示物抗力测定仪"
+  },
+  {
+   "cn": "心理阻抗",
+   "en": "psychological resistance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，求咨者在咨询中出现的各种下意识的自我保护现象。如每次咨询都迟到，交谈时注意力分散、态度消极、漠视对方或情绪急躁。多见于幼儿期有过创伤体验或受压抑的求咨者，也可能因咨询者因素导致。"
+  },
+  {
+   "cn": "抗阻运动",
+   "en": "resistance exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_儿童青少年身体活动指南",
+   "subjectName": "儿童青少年身体活动指南",
+   "publishYear": "2025",
+   "definition": "肌肉在收缩时人为地给予一定的外加阻力，使运动时肌肉张力达到较高的程度，以提高肌力和肌肉耐力的运动方式。"
+  },
+  {
+   "cn": "消毒剂耐受性",
+   "en": "disinfectant resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.68",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "微生物（尤为病原微生物）对消毒剂产生高度耐受的特性"
+  },
+  {
+   "cn": "交叉抗性",
+   "en": "cross resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.113",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某种微生物对多种抗生素具有抗性的现象。"
+  },
+  {
+   "cn": "呼吸阻力",
+   "en": "breathing resistance",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.6.1.1.1.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器损伤防护",
+   "subjectName": "化学武器损伤防护",
+   "publishYear": "2025",
+   "definition": "佩戴面具时呼吸气流通过面具所产生的摩擦力，包括呼气阻力和吸气阻力。"
+  },
+  {
+   "cn": "反抗型依恋",
+   "en": "resistant attachment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "痛苦、反抗的依恋行为。对母亲的离开过度敏感，表现非常痛苦和极度反抗，对母亲纠缠不休又抵抗母亲拥抱，既寻求接触又对接触表示反抗。"
+  },
+  {
+   "cn": "微生物抵抗力",
+   "en": "microbial resistibility",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在特定条件下，微生物对理化因子表现出的抵抗能力，常用D值表示。"
+  },
+  {
+   "cn": "解放思想实事求是",
+   "en": "emancipate the mind seek truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "03.0560",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在新时期重新确立的思想路线，也是邓小平理论的精髓和活的灵魂。邓小平指出，解放思想就是使思想和实际相符合，是主观和客观相符合，就是实事求是。解放思想与实事求是是一致的，就是在“马克思主义指导下"
+  },
+  {
+   "cn": "抗微生物耐药性",
+   "en": "antimicrobial resistance, AMR",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.67",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "耐药性（即抗药性）的一种。指部分微生物（尤为病原微生物）对原本敏感的抗生素产生高度耐受的特性。"
+  },
+  {
+   "cn": "表面抗湿性",
+   "en": "surface moisture resistance",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.19",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "织物表面抵抗被水润湿的能力。"
+  },
+  {
+   "cn": "抵制和平演变",
+   "en": "resist peaceful evolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0498",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "和平演变是20世纪50年代初美国的国务卿杜勒斯提出的对社会主义国家的一种“超越遏制战略”，以促使社会主义国家崩溃瓦解。毛泽东在1959年提出防止和平演变战略问题，并一直强调这个问题,号召共产党人同这种"
+  },
+  {
+   "cn": "反对资产阶级自由化",
+   "en": "resist bourgeois liberalization",
+   "source": "马克思主义",
+   "wordNumber": "03.0546",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党开展的对资产阶级自由化思潮的斗争。资产阶级自由化主要是指少数人借改革开放之机，宣扬一些怀疑和动摇党的四项基本原则的错误言论，在社会上造成人们的思想混乱，产生较大的影响。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

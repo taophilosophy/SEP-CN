@@ -1,0 +1,622 @@
+{
+ "key": "para",
+ "term": "parā",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:50:51+00:00",
+ "status": "ok",
+ "note": "variant=parā; 审定公布名词库=674; 海峡两岸名词对照库=377; 其他来源数据库=109; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "公园",
+   "en": "park",
+   "source": "风景园林名词",
+   "wordNumber": "05.0054",
+   "subjectFullName": "风景园林_风景园林规划_城乡绿地系统分类",
+   "subjectName": "城乡绿地系统分类",
+   "publishYear": "2025",
+   "definition": "具有良好的园林环境，向公众开放，以游憩为主要功能，具备相应游憩和服务设施的场所。"
+  },
+  {
+   "cn": "编",
+   "en": "part",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.032",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "书籍中大于章的结构单元。"
+  },
+  {
+   "cn": "零件",
+   "en": "part",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0274",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_三维制图",
+   "subjectName": "三维制图",
+   "publishYear": "2021",
+   "definition": "用于装配产品的基本组成单元。"
+  },
+  {
+   "cn": "公园",
+   "en": "park",
+   "source": "林学名词",
+   "wordNumber": "09.067",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "供公众游览、观赏、休憩、开展户外科普、文化及健身等活动，向全社会开放，有较完善的设施及良好生态环境的城市绿地。"
+  },
+  {
+   "cn": "零件",
+   "en": "part",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0004",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "有形产品的组成部分。"
+  },
+  {
+   "cn": "公园",
+   "en": "park",
+   "source": "建筑学名词",
+   "wordNumber": "08.0009",
+   "subjectFullName": "建筑学_风景园林_城市绿地",
+   "subjectName": "城市绿地",
+   "publishYear": "2014",
+   "definition": "供公众游览、观赏、休憩，开展户外科普，文体及健身等活动，向全社会开放，有完善的设施及良好生态环境的城市绿地。"
+  },
+  {
+   "cn": "幼鱼斑稚鱼",
+   "en": "parr",
+   "source": "水产名词",
+   "wordNumber": "04.322",
+   "subjectFullName": "水产_水产养殖学",
+   "subjectName": "水产养殖学",
+   "publishYear": "2002",
+   "definition": "鲑科鱼类的稚鱼体侧长有椭圆形深色斑的发育阶段。"
+  },
+  {
+   "cn": "部分无滞剩磁",
+   "en": "partial ARM,PARM",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "光声拉曼谱[学]",
+   "en": "photoacoustic Raman spectros-copy,PARS",
+   "source": "电子学名词",
+   "wordNumber": "15.309",
+   "subjectFullName": "电子学_电子元器件工艺与分析技术",
+   "subjectName": "电子元器件工艺与分析技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "光合有效辐射",
+   "en": "photosynthetically active radiation,PAR",
+   "source": "植物学名词",
+   "wordNumber": "11.0252",
+   "subjectFullName": "植物学_植物生理学_植物光合作用",
+   "subjectName": "植物光合作用",
+   "publishYear": "2019",
+   "definition": "太阳辐射光谱中对光合作用有效波长(400~700nm)的光。一般用单位叶面积在单位时间内得到的光能量表示。"
+  },
+  {
+   "cn": "光合有效辐射",
+   "en": "photosynthetically active radiation,PAR",
+   "source": "生物物理学名词",
+   "wordNumber": "05.143",
+   "subjectFullName": "生物物理学_光生物物理学_光合作用",
+   "subjectName": "光合作用",
+   "publishYear": "2018",
+   "definition": "太阳辐射光谱中对光合作用有效的波长(400~700 nm)的光。通常以单位叶面积在单位时间内获得的光能量表示，即用光合光量子通量密度(PPFD)来度量，单位为μmol光子/(m²·s)。"
+  },
+  {
+   "cn": "前接入路由器",
+   "en": "previous access router,PAR",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0656",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "移动结点在切换之前的默认接入路由器。"
+  },
+  {
+   "cn": "光合有效辐射",
+   "en": "photosynthetically active radiation,PAR",
+   "source": "林学名词",
+   "wordNumber": "02.033",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "太阳辐射中能被绿色植物用来进行光合作用的那部分波段的辐射能。单位为瓦特每平方米(W/m²)。"
+  },
+  {
+   "cn": "光合有效辐射",
+   "en": "photosynthetically active radiation,PAR",
+   "source": "大气科学名词",
+   "wordNumber": "08.052",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "太阳辐射光谱中可被绿色植物的质体色素吸收、转化并用于合成有机物质的一定波段的辐射能。"
+  },
+  {
+   "cn": "精密进近雷达",
+   "en": "precision approach radar,PAR",
+   "source": "航空科学技术名词",
+   "wordNumber": "07.186",
+   "subjectFullName": "航空科学技术_航空电子与机载计算机系统",
+   "subjectName": "航空电子与机载计算机系统",
+   "publishYear": "2003",
+   "definition": "装设在跑道附近，观测航空器相对规定下滑线的偏离，引导航空器进近、着陆的三坐标雷达。"
+  },
+  {
+   "cn": "精密进场雷达",
+   "en": "precision approach radar,PAR",
+   "source": "电子学名词",
+   "wordNumber": "19.141",
+   "subjectFullName": "电子学_雷达与电子对抗",
+   "subjectName": "雷达与电子对抗",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "4-(2-吡啶基偶氮)间苯二酚",
+   "en": "4-(2-pyridylazo)resorcinol,PAR",
+   "source": "化学名词",
+   "wordNumber": "03.0613",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "用作铋、钴、铜、镓、铟以及镧系元素等测定的金属指示剂。其结构简式为：<img src='/root/syzx/static/spz/huaxue2.03.0613.1.png'/>"
+  },
+  {
+   "cn": "纪念公园",
+   "en": "memorial park,commemorative park",
+   "source": "林学名词",
+   "wordNumber": "09.078",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "以纪念历史事件、缅怀名人和革命烈士为主题的公园。"
+  },
+  {
+   "cn": "[右上肺静脉后支]叶内部",
+   "en": "intralobar part,intersegmental part",
+   "source": "人体解剖学名词",
+   "wordNumber": "05.0818",
+   "subjectFullName": "人体解剖学_脉管学_静脉",
+   "subjectName": "静脉",
+   "publishYear": "2014",
+   "definition": "上叶中央部的深静脉。"
+  },
+  {
+   "cn": "修复件",
+   "en": "reconditioned part,reworked part",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0214",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "用机械加工方法修复的单个零件或部件。"
+  },
+  {
+   "cn": "分谱",
+   "en": "part",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多腺苷二磷酸核糖聚合酶",
+   "en": "poly(ADP-ribose) polymerase,PARP",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "贲门部",
+   "en": "cardial part\",\"pars cardiaca",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "海绵体部",
+   "en": "spongy part\",\"pars spongiosa",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "基底部",
+   "en": "basilar part\",\"pars basilaris",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "结节部",
+   "en": "tubercular part\",\"pars tuberalis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "膜部",
+   "en": "membranaceous part\",\"pars membranacea",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "前部",
+   "en": "anterior part\",\"pars anterior",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "前列腺部",
+   "en": "prostatic part\",\"pars prostatica",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "曲部",
+   "en": "convoluted part\",\"pars convoluta",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经部",
+   "en": "nervous part\",\"pars nervosa",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "尾部",
+   "en": "coccygeal part\",\"pars terminalis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "幽门部",
+   "en": "pyloric part\",\"pars pylorica",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "直部",
+   "en": "straight part\",\"pars recta",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间部",
+   "en": "intermediate part\",\"pars intermedia",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "前叶",
+   "en": "anterior lobe\",\"anterior part\",\"pars anterior",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视网膜虹膜部",
+   "en": "iridial part of retina\",\"pars iridica retinae",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视网膜睫状体部",
+   "en": "ciliary part of retina\",\"pars ciliaris retinae",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视网膜视部",
+   "en": "optic part of retina\",\"pars optica retinae",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "大角咽部",
+   "en": "ceratopharyngeal part\",\"keratopharyngeal part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "阶段",
+   "en": "part",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道不同，不相为谋",
+   "en": "Part Ways and Part Company",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "摆动部位",
+   "en": "swing part",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "力量动作",
+   "en": "force part\",\"strength part\",\"force element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停车换乘",
+   "en": "Park and Ride",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中段",
+   "en": "middle part\",\"momtong\",\"trunk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中白工业园",
+   "en": "China-Belarus Industrial Park",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "参加体育运动",
+   "en": "take part in sports",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "以国家公园为主的自然保护地",
+   "en": "natural reserves with national parks as the main part",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 5271.1-2000 信息技术 词汇 第1部分：基本术语》",
+   "en": "GB/T 5271.1-2000 Information technology — Vocabulary — Part 1: Fundamental terms",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20190810-T-469 信息技术 存储管理 第2部分：通用架构》",
+   "en": "20190810-T-469 Information technology — Storage management — Part 2: Common architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 24405.1-2009 信息技术 服务管理 第1部分：规范》",
+   "en": "GB/T 24405.1-2009 Information technology — Service management — Part 1: Specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB 4943.1-2011 信息技术设备 安全 第1部分：通用要求》",
+   "en": "GB 4943.1-2011 Information technology equipment — Safety — Part 1: General requirements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20182200-T-414 互动广告 第6部分：用户数据保护要求》",
+   "en": "20182200-T-414 Interactive advertising — Part 6: Audience data protection requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 33863.8-2017 OPC统一架构 第8部分：数据访问》",
+   "en": "GB/T 33863.8-2017 OPC unified architecture — Part 8: Data access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总论",
+   "en": "general part",
+   "source": "食品卫生学名词",
+   "wordNumber": "1",
+   "subjectFullName": "食品卫生学_总论",
+   "subjectName": "总论",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "可食用部分",
+   "en": "edible part",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.15",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "食品原料经过机械手段（如谷物碾磨、水果剥皮、坚果去壳、肉去骨、鱼去刺、贝去壳等）去除非食用部分后，所得到的用于食用的部分。"
+  },
+  {
+   "cn": "歇后语",
+   "en": "two-part allegorical saying",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0354",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "由喻体、解体连缀而成的较为定型的趣味性语句，说话时把一段常用词语故意少说一个字或半句而构成的带有幽默性的话。通用的有两种：①原始意义的歇后语，指把一句成语的末一个字省去不说，又称“缩脚语”。②扩大意义"
+  },
+  {
+   "cn": "整体与部分",
+   "en": "whole and the part",
+   "source": "马克思主义",
+   "wordNumber": "01.0043",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "整体是指事物的各内在要素相互联系构成有机统一体及其发展全过程；部分是指组成有机统一体的各个方面、要素及其发展全过程的某一个阶段。整体包含部分，部分从属于整体。两者在一定条件下可以互相影响，互相转化。整"
+  },
+  {
+   "cn": "德格印经院",
+   "en": "Sde dge par khang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0553",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教寺院。位于四川省德格县城东，1729 年由第四十二代德格土司登巴泽仁主持兴建。所印经书不仅以版本精良、印刷技术考究闻名全藏，而且以藏各类印版数量多、内容丰富而名扬中外。据统计，现保存21.7 "
+  },
+  {
+   "cn": "人群归因危险",
+   "en": "population attributable risk，PAR",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "总人群与非暴露组人群某病发病（死亡）率之差，为总人群发病（死亡）率中归因于暴露的部分。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

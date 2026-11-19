@@ -1,0 +1,472 @@
+{
+ "key": "unusual occurrence",
+ "term": "unusual occurrence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:31:39+00:00",
+ "status": "ok",
+ "note": "variant=unusual occurrence; 审定公布名词库=134; 海峡两岸名词对照库=26; 其他来源数据库=2; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "发生",
+   "en": "occurrence",
+   "source": "林学名词",
+   "wordNumber": "07.210",
+   "subjectFullName": "林学_森林保护_林业有害生物管理",
+   "subjectName": "林业有害生物管理",
+   "publishYear": "2016",
+   "definition": "确认某地区存在某种本土或传入的有害生物，或官方没有报道上述有害生物已经根 除的现象。"
+  },
+  {
+   "cn": "产状",
+   "en": "occurrence",
+   "source": "资源科学技术名词",
+   "wordNumber": "04.067",
+   "subjectFullName": "资源科学技术_资源地学",
+   "subjectName": "资源地学",
+   "publishYear": "2008",
+   "definition": "岩层在地壳中的空间方位。"
+  },
+  {
+   "cn": "出现",
+   "en": "occurrence",
+   "source": "数学名词",
+   "wordNumber": "02.0009",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "产状",
+   "en": "occurrence",
+   "source": "地质学名词",
+   "wordNumber": "03.060",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "火成岩产状",
+   "en": "igneous occurrence",
+   "source": "地质学名词",
+   "wordNumber": "04.02.010",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "火成岩体的形态、大小及其与围岩之间关系、形成深度、地质构造背景等。"
+  },
+  {
+   "cn": "侵入岩产状",
+   "en": "intrusive occurrence",
+   "source": "地质学名词",
+   "wordNumber": "04.02.012",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "侵入体的形态、大小及其与围岩之间关系、形成深度、构造背景的总和。"
+  },
+  {
+   "cn": "火山岩产状",
+   "en": "volcanic occurrence",
+   "source": "地质学名词",
+   "wordNumber": "04.02.037",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "火山岩体的形态、规模及其空间关系的总和。根据其形态和空间位置划分为熔岩(包括熔岩流、熔岩台地、熔岩丘、岩钟、火山颈等)、次火山岩、盾状火山、火山锥、火山碎屑平原等。"
+  },
+  {
+   "cn": "事件矩阵",
+   "en": "occurrence matrix",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.031",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "描述方程组中变量与方程的关系的矩阵。每一行代表一个方程，每一列代表一个变量。如果某变量在方程中出现，则对应的矩阵元素为1，否则为0。"
+  },
+  {
+   "cn": "随机发生",
+   "en": "random occurrence",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2688",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "偶然而没有规律性的发生。 "
+  },
+  {
+   "cn": "定义性出现",
+   "en": "definitional occurrence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0239",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "变量在声明语句中出现，编译时应为该变量分配存储空间。"
+  },
+  {
+   "cn": "顺序发生",
+   "en": "sequential occurrence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0626",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在一个基本网系统( B,E;F,<img src='/root/syzx/static/spz/jsjkx3.02.0626.001.png'/>)中，设<img src='/root/syzx/st"
+  },
+  {
+   "cn": "出现网",
+   "en": "occurrence net",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0664",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "如下一种网：网中每个 S 元的前集和后集都最多有一个元素，且网的图形表示中不存在有向回路。出现网是偏序结构的网模型。"
+  },
+  {
+   "cn": "事件矩阵",
+   "en": "occurrence matrix",
+   "source": "化学工程名词",
+   "wordNumber": "05.056",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "约束出现",
+   "en": "bound occurrence",
+   "source": "数学名词",
+   "wordNumber": "02.0060",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "石油产状",
+   "en": "oil occurrence",
+   "source": "地质学名词",
+   "wordNumber": "07.491",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "矿点",
+   "en": "ore occurrence",
+   "source": "地质学名词",
+   "wordNumber": "07.022",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "矿床产出概率模型",
+   "en": "occurrence probability model",
+   "source": "地质学名词",
+   "wordNumber": "14.02.070",
+   "subjectFullName": "地质学_矿床学_成矿作用与成矿控制因素",
+   "subjectName": "成矿作用与成矿控制因素",
+   "publishYear": "2026",
+   "definition": "以岩性、构造地质背景和成矿地质要素为依据统计得出的，预测某一地区某种矿床的产出概率的数学统计模型。矿床成因认识越清楚，地质要素信息越多，作用程度越明晰，建立的概率模型可信度就越大。"
+  },
+  {
+   "cn": "地下水赋存条件",
+   "en": "groundwater occurrence conditions",
+   "source": "地质学名词",
+   "wordNumber": "16.01.147",
+   "subjectFullName": "地质学_水文地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地下水埋藏和分布、含水介质和含水系统规模等条件的总称。主要包括：含水层的层数、分布的位置和深度，地下水的类型，以及含水层受何种构造控制等。"
+  },
+  {
+   "cn": "地震现场",
+   "en": "earthquake occurrence site",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2025",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "遭受地震破坏或影响的地点。 "
+  },
+  {
+   "cn": "共现分析",
+   "en": "co-occurrence analysis",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.228",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_文献计量学",
+   "subjectName": "文献计量学",
+   "publishYear": "2019",
+   "definition": "将各种信息载体中的共现信息定量化的分析方法。可揭示信息的内容关联和特征项所隐含的共现关系。共现分析方法的研究对象较广，包括对文本中词汇、标引词、分类号和其他编入文献和文献著录的有意义的字段等。"
+  },
+  {
+   "cn": "特殊性交易",
+   "en": "unusual transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "事件矩阵",
+   "en": "occurrence matrix",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "出现网",
+   "en": "occurrence net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出现序列",
+   "en": "occurrence sequence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定义性出现",
+   "en": "definitional occurrence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序发生",
+   "en": "sequential occurrence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "系值",
+   "en": "set occurrence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共生矩阵",
+   "en": "co-occurrence matrix",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稀有植物，珍稀植物",
+   "en": "rare plant\",\"unusual plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "珍稀植物（=稀有植物）",
+   "en": "rare plant\",\"unusual plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稀有碱基",
+   "en": "unusual base\",\"minor base",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不等交换",
+   "en": "unequal crossover\",\"unequal exchange",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不等交换,不等互换",
+   "en": "unequal crossover\",\"unequal exchange",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "递推公式，循环公式",
+   "en": "recurrence formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "再现风险,复发风险",
+   "en": "recurrence risk",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "递推关系",
+   "en": "recurrence relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偏腔囊胚",
+   "en": "unequal coeloblastula",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "不等分裂",
+   "en": "unequal division",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不等卵裂",
+   "en": "unequal cleavage",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "不等卵囊腔胚",
+   "en": "unequal coeloblastula",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "递推法",
+   "en": "recurrence method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不平等金融服务",
+   "en": "unequal financial services",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "患病概率",
+   "en": "probability of disease occurrence",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.73",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定时间内，一个人或者一个群体发生某种疾病的可能性。在微生物学中，多用于某种疾病微生物致使生物体发生某种疾病的可能性。"
+  },
+  {
+   "cn": "不等价交换",
+   "en": "unequal exchange in value",
+   "source": "马克思主义",
+   "wordNumber": "05.0152",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "不是按照价值相等的原则进行的商品交换，是垄断资本获取高额垄断利润的重要手段。法国经济学家阿吉里·伊曼纽尔（Arghiri Emmanuel）认为，不等价交换和资本积累是现代世界体系运行的动力。"
+  },
+  {
+   "cn": "寻常型间质性肺炎",
+   "en": "usual interstitial pneumonia， UIP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.3.15",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_器官特异性疾病",
+   "subjectName": "器官特异性疾病",
+   "publishYear": "2025",
+   "definition": "一种以肺间质纤维化为主要特征的肺炎，特发性间质性肺炎的基本组织学表现为低倍镜下表现为不均匀分布的正常肺组织、间质炎症、纤维化和蜂窝样改变，且在周边胸膜下明显。间质炎症呈片状分布，包括肺泡间隔淋巴细胞和"
+  },
+  {
+   "cn": "两下肢不等长",
+   "en": "unequal length of two lower limbs",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.6.1.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "各种原因导致个体下肢长度不等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

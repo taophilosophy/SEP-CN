@@ -1,0 +1,222 @@
+{
+ "key": "fecundity",
+ "term": "fecundity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:24:03+00:00",
+ "status": "ok",
+ "note": "variant=fecundity; 审定公布名词库=10; 海峡两岸名词对照库=11; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "生殖力",
+   "en": "fecundity",
+   "source": "农学名词",
+   "wordNumber": "10.095",
+   "subjectFullName": "植物保护_作物虫害",
+   "subjectName": "作物虫害",
+   "publishYear": "2025",
+   "definition": "昆虫繁殖后代的能力。如产卵和胎生等。"
+  },
+  {
+   "cn": "生殖力",
+   "en": "fecundity",
+   "source": "动物学名词",
+   "wordNumber": "7.0361",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "雌性动物产生后代多寡的能力。通常用单雌平均产卵量或产仔数表示。"
+  },
+  {
+   "cn": "生育力",
+   "en": "fecundity",
+   "source": "植物学名词",
+   "wordNumber": "13.0153",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "特定年龄植物个体产生的种子数目。"
+  },
+  {
+   "cn": "生殖力",
+   "en": "fecundity",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0823",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "即产卵繁殖的能力。"
+  },
+  {
+   "cn": "生殖力",
+   "en": "fecundity",
+   "source": "生态学名词",
+   "wordNumber": "16.215",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "即产卵繁殖的能力。一尾鱼在繁殖季节总产卵量称“绝对生殖力(absolute fecundity)”；按单位体长或体重算的产卵量称为“相对生殖力(relative fecundity)"
+  },
+  {
+   "cn": "繁殖力",
+   "en": "fecundity",
+   "source": "昆虫学名词",
+   "wordNumber": "06.095",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "雌性昆虫产生后代多寡的能力，通常用单雌平均产卵量（卵生）或产仔数（胎生）表示。"
+  },
+  {
+   "cn": "种群繁殖力",
+   "en": "population fecundity",
+   "source": "水产名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "水产_渔业资源学",
+   "subjectName": "渔业资源学",
+   "publishYear": "2002",
+   "definition": "以产卵群体中所有雌性个体的总产卵数来量度的鱼类群体的繁殖能力。"
+  },
+  {
+   "cn": "个体绝对繁殖力",
+   "en": "absolute fecundity",
+   "source": "水产名词",
+   "wordNumber": "02.125",
+   "subjectFullName": "水产_渔业资源学",
+   "subjectName": "渔业资源学",
+   "publishYear": "2002",
+   "definition": "雌性个体在一个生殖季节中的产卵数。"
+  },
+  {
+   "cn": "个体相对繁殖力",
+   "en": "relative fecundity",
+   "source": "水产名词",
+   "wordNumber": "02.126",
+   "subjectFullName": "水产_渔业资源学",
+   "subjectName": "渔业资源学",
+   "publishYear": "2002",
+   "definition": "一个生殖季节里雌性个体单位重量或单位体长的产卵数。"
+  },
+  {
+   "cn": "特定年龄出生率",
+   "en": "age-specific natality,age-specific fecundity",
+   "source": "生态学名词",
+   "wordNumber": "05.089",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "特定年龄组中平均每个雌体的产雌率。"
+  },
+  {
+   "cn": "生育力",
+   "en": "fecundity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生殖力",
+   "en": "fecundity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "产卵力",
+   "en": "fecundity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生殖力， 产卵量",
+   "en": "fecundity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生殖力",
+   "en": "fecundity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "产卵力",
+   "en": "fecundity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "产卵力",
+   "en": "fecundity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "生殖力",
+   "en": "fecundity\",\"fertility",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "特定年龄生殖力",
+   "en": "age-specific fecundity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "受精道",
+   "en": "canal of fecundation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "特定年龄生殖力",
+   "en": "age-specific fecundity\",\"age-specific fertility",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

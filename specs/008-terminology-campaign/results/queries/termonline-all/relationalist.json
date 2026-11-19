@@ -1,0 +1,22 @@
+{
+ "key": "relationalist",
+ "term": "relationalist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:41:17+00:00",
+ "status": "ok",
+ "note": "variant=relationalist; 审定公布名词库=0; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "理性主义者",
+   "en": "rationalist",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

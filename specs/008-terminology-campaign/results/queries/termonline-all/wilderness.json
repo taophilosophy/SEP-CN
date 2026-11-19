@@ -1,0 +1,82 @@
+{
+ "key": "wilderness",
+ "term": "wilderness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:51:14+00:00",
+ "status": "ok",
+ "note": "variant=wilderness; 审定公布名词库=6; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "荒野",
+   "en": "wilderness",
+   "source": "风景园林名词",
+   "wordNumber": "02.0206",
+   "subjectFullName": "风景园林_风景园林史_欧洲",
+   "subjectName": "欧洲",
+   "publishYear": "2025",
+   "definition": "在自然状态下的区域。19世纪英国自然风景式园林提倡荒野区域的美，强调园中要有富有野趣的荒原部分，使人们得到接近自然花园的纯粹荒野和乡土植被的感受。"
+  },
+  {
+   "cn": "荒野保护",
+   "en": "wilderness area protection",
+   "source": "风景园林名词",
+   "wordNumber": "01.0144",
+   "subjectFullName": "风景园林_总论_风景园林生态",
+   "subjectName": "风景园林生态",
+   "publishYear": "2025",
+   "definition": "对拥有大面积未经人类破坏或破坏较轻的陆地或海域，且没有永久性或大片人类聚居地的区域进行保护。"
+  },
+  {
+   "cn": "荒原保护区",
+   "en": "wilderness area,wildness area",
+   "source": "林学名词",
+   "wordNumber": "03.366",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_自然保护区",
+   "subjectName": "自然保护区",
+   "publishYear": "2016",
+   "definition": "拥有大面积未经人类破坏或破坏较轻的陆地或海域，且没有永久性或大片人类聚居地的保护区。其管理就是长期保存其自然特色，保护自然环境质量。属于世界自然保护联盟(IUCN)保护区分类体系的Ib类，属于严格管理"
+  },
+  {
+   "cn": "沙漠中的布道者",
+   "en": "preachers in the wilderness",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.049",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "马克思和恩格斯对没有接受者的宣传的一种喻证。他们多次使用这一喻证批评那些不切实际、没有受众的宣传，指出：我们已经不适于做沙漠中的布道者，我们对空想主义者研究得太清楚了。"
+  },
+  {
+   "cn": "城市野境",
+   "en": "urban wildness",
+   "source": "风景园林名词",
+   "wordNumber": "12.0186",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "城市内部或周边区域中自然过程占主导的土地，其中人类开发和控制程度相对较低，允许在一定程度上发生自然演替和生态过程，各类野生生物能够与人类繁荣共存。"
+  },
+  {
+   "cn": "荒野地",
+   "en": "wildness area",
+   "source": "生态学名词",
+   "wordNumber": "13.078",
+   "subjectFullName": "生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2006",
+   "definition": "未受人类活动影响的并受到保护的荒野自然区域。世界生物多样性保护监测中心承认的保护区之一。"
+  },
+  {
+   "cn": "冬性植物",
+   "en": "winterness plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

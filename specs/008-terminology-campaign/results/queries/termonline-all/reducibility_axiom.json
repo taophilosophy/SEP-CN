@@ -1,0 +1,562 @@
+{
+ "key": "reducibility axiom",
+ "term": "reducibility axiom",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:38:49+00:00",
+ "status": "ok",
+ "note": "variant=reducibility axiom; 审定公布名词库=373; 海峡两岸名词对照库=108; 其他来源数据库=13; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "还原公理",
+   "en": "axiom of reducibility",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.273",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "罗素的分支类型论中的一条公理。认为对于任何命题函项，都存在一个直谓的（或最低阶的）命题函项与其形式上等价。这条公理“纯粹为实用的目的”而引入，其内在根据与实际后果备受质疑。"
+  },
+  {
+   "cn": "公理",
+   "en": "axiom",
+   "source": "物理学名词",
+   "wordNumber": "01.0151",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "公理",
+   "en": "axiom",
+   "source": "数学名词",
+   "wordNumber": "01.0008",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "独立公理",
+   "en": "independent axiom",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0048",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "保持功能要求独立性的基本公理。"
+  },
+  {
+   "cn": "信息公理",
+   "en": "information axiom",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0049",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "力求使设计信息量最小的基本公理。"
+  },
+  {
+   "cn": "安全性公理",
+   "en": "security axiom",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0227",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "经过人们长期反复实践的考验，不需要再加以证明的有关安全性的命题。"
+  },
+  {
+   "cn": "佩亚诺公理",
+   "en": "Peano axiom",
+   "source": "数学名词",
+   "wordNumber": "02.0128",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "概括公理",
+   "en": "comprehension axiom",
+   "source": "数学名词",
+   "wordNumber": "02.0165",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正则公理",
+   "en": "regularity axiom",
+   "source": "数学名词",
+   "wordNumber": "02.0166",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分离公理",
+   "en": "separating axiom",
+   "source": "数学名词",
+   "wordNumber": "05.0787",
+   "subjectFullName": "数学_分析学_凸分析",
+   "subjectName": "凸分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "公理A",
+   "en": "axiom A",
+   "source": "数学名词",
+   "wordNumber": "06.0162",
+   "subjectFullName": "数学_微分方程_积分方程_动力系统（数学）",
+   "subjectName": "动力系统（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "切除公理",
+   "en": "excision axiom",
+   "source": "数学名词",
+   "wordNumber": "08.0706",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "阿基米德公理",
+   "en": "Archimedean axiom",
+   "source": "数学名词",
+   "wordNumber": "08.0011",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分离性公理",
+   "en": "separation axiom",
+   "source": "数学名词",
+   "wordNumber": "08.0510",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "关联公理",
+   "en": "incidence axioms,axiom of connection",
+   "source": "数学名词",
+   "wordNumber": "08.0005",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "阿姆斯特朗公理",
+   "en": "Armstrong axioms",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0044",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "函数依赖推理的公理体系，包括自反律、增广律和传递律。设 U为关系模式R的属性集总体，F是U上的一组函数依赖。则对于关系模式R<U, F>是否为F所蕴含，推理规则如下：①自反律。若Y⊆X⊆U，则X→Y为"
+  },
+  {
+   "cn": "还原度",
+   "en": "reducibility",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.149",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_代谢工程_弗兰克-沃尔夫法",
+   "subjectName": "弗兰克-沃尔夫法",
+   "publishYear": "2021",
+   "definition": "某化合物中每克碳原子的有效电子当量数。某些关键元素的还原度为：C （碳） 4，H（氢） 1，N（氮）  3，O（氧）  2。"
+  },
+  {
+   "cn": "减量化",
+   "en": "reduce",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.020",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "在生产、流通和消费等过程中减少资源消耗和废物产生。是循环经济活动基本原则之一。"
+  },
+  {
+   "cn": "变径段",
+   "en": "reducer",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0134",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "对于两个不同直径的圆筒体的连接采用锥形过渡所形成的结构。"
+  },
+  {
+   "cn": "可归约[的]",
+   "en": "reducible",
+   "source": "数学名词",
+   "wordNumber": "02.0277",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "并发公理",
+   "en": "concurrency axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳公理",
+   "en": "induction axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情态公理",
+   "en": "case axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数学公理",
+   "en": "mathematical axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外延公理",
+   "en": "extension axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阿姆斯特朗公理",
+   "en": "Armstrong axioms",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可归约性",
+   "en": "reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "异径管",
+   "en": "reducer\",\"pipe reducer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "局部确定[性]公理",
+   "en": "local-deterministic axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纯正可归约性",
+   "en": "honest reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡普可归约性",
+   "en": "Karp reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "库克可归约性",
+   "en": "Cook reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平均归约[性]",
+   "en": "average reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "随机归约[性]",
+   "en": "random reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵可归约性",
+   "en": "Turing reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "退化器官",
+   "en": "reduced organ",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "约化网格",
+   "en": "reduced grid",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "约化重力",
+   "en": "reduced gravity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "减速齿轮",
+   "en": "reducing gear",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "异径管件",
+   "en": "reducing fitting",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可归约性",
+   "en": "reducibility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减免企业社会保险费",
+   "en": "to reduce or remit corporate social insurance premiums",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“破、立、降”",
+   "en": "cutting ineffective supply, fostering new growth drivers, and reducing costs",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调减市内公交",
+   "en": "to reduce the frequency of bus services in the city",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "暂缓或减少留学人员等双向流动",
+   "en": "to postpone or reduce the two-way flow of overseas students ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提高收治率和治愈率、降低感染率和病亡率",
+   "en": "to improve the admission and cure rates and reduce the infection and fatality rates",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "减负、稳岗、扩就业并举",
+   "en": "to take multi-pronged measures, including reducing corporate burdens, keeping the payroll stable, and creating more jobs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "减免养老、失业以及工伤这三项社会保险单位的缴费",
+   "en": "to reduce or remit required premiums to be paid by employers for their employees’ old-age, unemployment and work-related injury insurances  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "还原糖",
+   "en": "reducing sugar",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.23",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "能直接还原裴林试剂，与过量苯肼反应生成脎的糖类，如葡萄糖、果糖等单糖和麦芽糖、乳糖等双糖，是蜂蜜主要甜味成分及主要质量指标。"
+  },
+  {
+   "cn": "还原糖",
+   "en": "reduced sugar",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.65",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "被测样品中具有还原性的糖（含有游离醛基或酮基还原性基团的葡萄糖、果糖、麦芽糖）的总和，一般以葡萄糖计。"
+  },
+  {
+   "cn": "表观还原糖",
+   "en": "apparent reducing sugar",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.22",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "能直接还原裴林试剂的含醛基或潜在醛基的糖类有机物。"
+  },
+  {
+   "cn": "碱性电解水",
+   "en": "alkaline electrolyzed-reducing water",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在电解生成酸性氧化电位水的同时，从电解槽阴极一侧生成的负氧化还原电位的碱性水溶液。"
+  },
+  {
+   "cn": "健康不平等改善策略",
+   "en": "strategy to reduce health inequality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "为实现健康公平，世界卫生组织基于健康社会决定因素理论给各国政府提供了一系列具体的政策建议。"
+  },
+  {
+   "cn": "降低孕产妇死亡率和消除新生儿破伤风项目",
+   "en": "project to reduce maternal mortality and eliminate neonatal tetanus",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.5.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生发展",
+   "subjectName": "妇幼卫生发展",
+   "publishYear": "2025",
+   "definition": "以降低孕产妇死亡率和消除新生儿破伤风为目的的卫生项目。由国家出资，国家卫生行政部门和国务院妇女儿童工作委员会共同于2000年至2013年间在中西部地区实施。"
+  },
+  {
+   "cn": "减压沸腾清洗机",
+   "en": "pressure reducing boiling type cleaning machine, decompression boiling cleaning machine",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.6.3.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "通过真空系统对清洗舱内抽真空使清洗液持续沸腾，再从液面以上注入空气，气压上升沸腾停止，使管腔器械内部的水蒸气进行液化，体积迅速变小，管腔外的清洗液迅速流入管腔进行冲刷的清洗设备。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

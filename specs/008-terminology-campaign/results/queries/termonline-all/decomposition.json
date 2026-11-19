@@ -1,0 +1,632 @@
+{
+ "key": "decomposition",
+ "term": "decomposition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:23:39+00:00",
+ "status": "ok",
+ "note": "variant=decomposition; 审定公布名词库=318; 海峡两岸名词对照库=126; 其他来源数据库=5; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "分解",
+   "en": "decomposition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.034",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "化工流程模拟的基本策略。对复杂的大系统，通过分解成一个个可独立求解的子系统，才能使系统的求解得以实现。"
+  },
+  {
+   "cn": "分解",
+   "en": "decomposition ",
+   "source": "草学名词",
+   "wordNumber": "2.0448",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "分解[作用]",
+   "en": "decomposition",
+   "source": "植物学名词",
+   "wordNumber": "13.0464",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "有机物质经过代谢降解变成简单的有机和无机物质的过程。"
+  },
+  {
+   "cn": "分解",
+   "en": "decomposition",
+   "source": "物理学名词",
+   "wordNumber": "08.0795",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分解作用",
+   "en": "decomposition",
+   "source": "林学名词",
+   "wordNumber": "03.148",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "有机物质经过代谢降解变成简单的有机和无机物质的过程。"
+  },
+  {
+   "cn": "分解",
+   "en": "decomposition",
+   "source": "化学名词",
+   "wordNumber": "01.0347",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "由一种化合物生成两种或两种以上物质的反应。"
+  },
+  {
+   "cn": "分解作用",
+   "en": "decomposition",
+   "source": "生态学名词",
+   "wordNumber": "07.141",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "有机物质经过代谢降解变成简单的有机和无机物质的过程。"
+  },
+  {
+   "cn": "分解",
+   "en": "decomposition",
+   "source": "化学工程名词",
+   "wordNumber": "05.051",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "分解",
+   "en": "decomposition",
+   "source": "自动化名词",
+   "wordNumber": "03.023",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "分解法",
+   "en": "decomposition method",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.017",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "将整个系统分解成容易处理的子系统的方法。"
+  },
+  {
+   "cn": "分解电压",
+   "en": "decomposition voltage",
+   "source": "冶金学名词",
+   "wordNumber": "04.0458",
+   "subjectFullName": "冶金学_冶金物理化学_冶金电化学",
+   "subjectName": "冶金电化学",
+   "publishYear": "2019",
+   "definition": "使给定电解过程持续稳定进行所必须施加的最小外加电压。"
+  },
+  {
+   "cn": "分解反应",
+   "en": "decomposition reaction",
+   "source": "冶金学名词",
+   "wordNumber": "04.0039",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "复杂化合物分解为单质或简单化合物反应。"
+  },
+  {
+   "cn": "分解常数",
+   "en": "decomposition constant",
+   "source": "植物学名词",
+   "wordNumber": "13.0465",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "描述凋落物指数式降解的常数。通常用字母k表示。"
+  },
+  {
+   "cn": "分解反应",
+   "en": "decomposition reaction",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.092",
+   "subjectFullName": "化工（二）_反应与三剂_反应",
+   "subjectName": "反应",
+   "publishYear": "2019",
+   "definition": "由一种化合物生成两种或两种以上化合物或单质的过程。"
+  },
+  {
+   "cn": "分解速率",
+   "en": "decomposition rate",
+   "source": "林学名词",
+   "wordNumber": "03.149",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "有机物质在单位时间内的分解速度。"
+  },
+  {
+   "cn": "分解电压",
+   "en": "decomposition voltage",
+   "source": "化学名词",
+   "wordNumber": "03.1724",
+   "subjectFullName": "化学_分析化学_仪器分析_电化学分析",
+   "subjectName": "电化学分析",
+   "publishYear": "2016",
+   "definition": "电解质溶液发生明显电解作用时所需的最小外加电压。"
+  },
+  {
+   "cn": "分解点",
+   "en": "decomposition point",
+   "source": "药学名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "物质开始呈现分解时的温度。"
+  },
+  {
+   "cn": "分解速率",
+   "en": "decomposition rate",
+   "source": "生态学名词",
+   "wordNumber": "07.142",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "有机物质在单位时间内的分解速度。"
+  },
+  {
+   "cn": "分解数",
+   "en": "decomposition numbers",
+   "source": "数学名词",
+   "wordNumber": "04.1964",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分解原理",
+   "en": "decomposition principle",
+   "source": "数学名词",
+   "wordNumber": "011.0154",
+   "subjectFullName": "数学_运筹学_线性规划",
+   "subjectName": "线性规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分解[作用]",
+   "en": "decomposition",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分解",
+   "en": "decomposition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分解",
+   "en": "decomposition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分解[作用]",
+   "en": "decomposition",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分解",
+   "en": "decomposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分解",
+   "en": "decomposition",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分解协调",
+   "en": "composition decomposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分解常数",
+   "en": "decomposition constant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分解速率",
+   "en": "decomposition rate",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分解压力",
+   "en": "decomposition pressure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分解电势",
+   "en": "decomposition potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分解效率",
+   "en": "decomposition efficiency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分解电压",
+   "en": "decomposition voltage",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分解电压",
+   "en": "decomposition voltage",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分解速率",
+   "en": "decomposition rate",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分解点",
+   "en": "decomposition point",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "微生物分解",
+   "en": "microorganism decomposition",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光化分解",
+   "en": "photochemical decomposition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "部分分解",
+   "en": "partial decomposition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热分解",
+   "en": "thermal decomposition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "矩阵分解",
+   "en": "matrix decomposition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奇异值分解",
+   "en": "singular value decomposition (SVD)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分解率",
+   "en": "decomposition rate",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.7",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "已分解物质的量占该物质总量的百分比。"
+  },
+  {
+   "cn": "碳水化合物分解",
+   "en": "carbohydrate decomposition",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.3",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "碳水化合物在微生物或动物组织中酶的作用下，产生双糖、单糖、有机酸、醇、醛等一系列变化，最后分解为二氧化碳和水的过程。此过程的主要变化是酸度增高，也可伴有其他产物所特有的气味。"
+  },
+  {
+   "cn": "蛋白质分解",
+   "en": "protein decomposition",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.2",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "食物中的蛋白质在细菌的蛋白酶和肽链内切酶的作用下，先后分解为胨、肽和氨基酸。氨基酸及其他含氮低分子化合物在相应酶的作用下进一步分解，产生有机胺类物质、氨气、吲哚和粪臭素等而使食品表现出腐败变质的过程。"
+  },
+  {
+   "cn": "资本解构",
+   "en": "decomposition of capital",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "当代西方发达社会中出现的生产资料所有权与管理权的分离过程。该过程导致资本主义社会阶级结构和权力结构的根本改变。达伦道夫(R.Dahrendorf）、加尔布雷斯(John Kenneth Galbrai"
+  },
+  {
+   "cn": "劳动解构",
+   "en": "decomposition of Labour",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "由于劳动技术分工的细化而导致的工人阶级内部的分化过程。由达伦道夫(R.Dahrendorf）在《工业社会的阶级和阶级冲突》一书中提出。他认为，工人阶级因此不再是一个同质性群体，而是分化为不同的部分。"
+  },
+  {
+   "cn": "集中指数分解法",
+   "en": "decomposition method of concentration index",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.11",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "将健康或卫生服务利用集中指数分解为各影响因素对不公平的贡献度。"
+  },
+  {
+   "cn": "身体成分",
+   "en": "body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "组成人体质量的各组成成分的含量，包括肌肉、骨骼、脂肪、水和矿物质等。"
+  },
+  {
+   "cn": "体成分发育",
+   "en": "body composition development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "身体成分在儿童青少年时期随时间不断变化和完善的过程。"
+  },
+  {
+   "cn": "乳成分标准化",
+   "en": "milk composition standardization",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.25",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "通过调整原料乳中脂肪、蛋白和非脂肪乳固体之间的比例关系，使其符合产品的要求，之后进行加工的方法。"
+  },
+  {
+   "cn": "资本价值构成",
+   "en": "value composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0160",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不变资本同可变资本之间的比例，即资本中用于生产资料的价值和用于劳动力的价值的比例。资本的价值构成的高低主要取决于资本的技术构成。"
+  },
+  {
+   "cn": "资本技术构成",
+   "en": "technical composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0161",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本总量中生产资料数量同劳动力数量之间的比例，这种比例的大小，取决于生产技术的发展水平，故称为资本技术构成。资本技术构成反映劳动生产率的水平，表现为与资本价值构成。"
+  },
+  {
+   "cn": "资本有机构成",
+   "en": "organic composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0162",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由资本技术构成决定并反映资本技术构成变化的资本价值构成，用不变资本同可变资本的百分比来表示。资本有机构成随着资本积累的增加和生产技术的发展而不断提高。"
+  },
+  {
+   "cn": "体成分模型",
+   "en": "model of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "反映人体内在结构成分特征的形式化表达。"
+  },
+  {
+   "cn": "体成分发育种族差异",
+   "en": "ethnic difference in body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "不同遗传背景下的种族，其体成分发育存在差异性的现象。"
+  },
+  {
+   "cn": "二成分模型",
+   "en": "two-component model of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "将人体内在结构分为体脂重和去脂体重这两种成分的形式化表达。"
+  },
+  {
+   "cn": "多成分模型",
+   "en": "multi-component model of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "在二成分模型基础上将人体内在结构进一步分为多种基本成分的形式化表达。有三成分、四成分、五成分等多种模型。"
+  },
+  {
+   "cn": "体成分发育年龄特征",
+   "en": "age characteristics of body composition development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "体成分发育在不同年龄儿童中所呈现的特征。"
+  },
+  {
+   "cn": "体成分发育性别特征",
+   "en": "sex difference in development of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "体成分发育在不同性别儿童中所呈现的特征。"
+  },
+  {
+   "cn": "有机构成提高论",
+   "en": "theory of enhancement of organic composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "05.0138",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "有机构成提高论立足于马克思主义的价值理论和有机构成理论，来考察有机构成提高与利润率下降、经济危机产生之间的联系。"
+  },
+  {
+   "cn": "中国公民民族成份登记管理办法",
+   "en": "Measures for the Administration of Ethnic Composition Registration of Chinese Citizens",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.009",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "规范公民民族成份的管理工作的部门规章。2015 年5 月20 日，国家民委委务会议审议通过，并经公安部同意，2015 年6 月16 日由国家民委和公安部联合发布，自2016 年1 月1 日起施行。规定"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

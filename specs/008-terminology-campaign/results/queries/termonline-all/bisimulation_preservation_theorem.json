@@ -1,0 +1,632 @@
+{
+ "key": "bisimulation preservation theorem",
+ "term": "Bisimulation Preservation Theorem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:50:33+00:00",
+ "status": "ok",
+ "note": "variant=Bisimulation Preservation Theorem; 审定公布名词库=2734; 海峡两岸名词对照库=833; 其他来源数据库=168; 预公布名词数据库=271; jwt-direct（JWT 直连，raw 略；已滤维基 18 条）",
+ "hits": [
+  {
+   "cn": "双模拟",
+   "en": "bisimulation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0950",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "在特定代数结构的所有运算下都能互相模拟的性质。"
+  },
+  {
+   "cn": "保存",
+   "en": "preservation ",
+   "source": "草学名词",
+   "wordNumber": "4.066",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "修缮",
+   "en": "preservation",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.082",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "对文物古迹的保护方式。包括日常保养、防护加固、现状修整、重点修复等。"
+  },
+  {
+   "cn": "保护",
+   "en": "preservation",
+   "source": "地理学名词",
+   "wordNumber": "24.114",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "对具有特殊价值(如历史价值、文化价值等)的人文景观或其遗迹的保护，特别是对建筑环境的保护。"
+  },
+  {
+   "cn": "保鲜剂",
+   "en": "preservative",
+   "source": "风景园林名词",
+   "wordNumber": "09.0281",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物繁殖生产与栽培养护",
+   "subjectName": "风景园林植物繁殖生产与栽培养护",
+   "publishYear": "2025",
+   "definition": "为保持园林植物采后的观赏品质、减少流通损失或者延长贮藏时间和观赏时间所使用的化学药剂。"
+  },
+  {
+   "cn": "保鲜剂",
+   "en": "preservative",
+   "source": "农学名词",
+   "wordNumber": "17.037",
+   "subjectFullName": "农产品贮运与加工_农产品贮运",
+   "subjectName": "农产品贮运",
+   "publishYear": "2025",
+   "definition": "能够延长农产品贮藏期及货架期的物质。"
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "微生物学名词",
+   "wordNumber": "08.295",
+   "subjectFullName": "微生物学_应用微生物学",
+   "subjectName": "应用微生物学",
+   "publishYear": "2012",
+   "definition": "抑制微生物生长繁殖，防止食品腐败变质的化合物。"
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "水产名词",
+   "wordNumber": "08.146",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "抑制微生物生长繁殖，防止食品腐败变质的添加剂。"
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "物理学名词",
+   "wordNumber": "01.0141",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "数学名词",
+   "wordNumber": "01.0013",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "Π-定理",
+   "en": "Πtheorem",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "任何一个由n个有量纲的物理量参与的物理过程中的函数关系都可以转换成由n-k个这些物理量组成的无量纲量Πi之间的函数关系，其中k是具有独立量纲的物理量的数。由于这些无量纲量是以不同的Πi数来表示的，"
+  },
+  {
+   "cn": "π定理",
+   "en": "π theorem",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π theorem",
+   "source": "土木工程名词",
+   "wordNumber": "15.070",
+   "subjectFullName": "土木工程_土木工程检测_土木工程检测实验力学",
+   "subjectName": "土木工程检测实验力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "pi theorem,Buckingham theorem",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "器官保存",
+   "en": "organ preservation",
+   "source": "普通外科学名词",
+   "wordNumber": "20.296",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "使待移植器官在离体无血状态下保持活力的措施。"
+  },
+  {
+   "cn": "档案保管",
+   "en": "archival preservation",
+   "source": "档案学名词",
+   "wordNumber": "03.03.006",
+   "subjectFullName": "档案学_档案管理_档案统计与保管",
+   "subjectName": "档案统计与保管",
+   "publishYear": "2024",
+   "definition": "维护档案完整、系统与安全的活动。"
+  },
+  {
+   "cn": "数字保存",
+   "en": "digital preservation",
+   "source": "档案学名词",
+   "wordNumber": "06.01.045",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "在同一代或不同代技术环境中长期维护数字信息可访问性、可用性和可理解性的过程。"
+  },
+  {
+   "cn": "生育力保存",
+   "en": "fertility preservation",
+   "source": "男科及性医学名词",
+   "wordNumber": "16.001",
+   "subjectFullName": "男科及性医学_男性生育力保存",
+   "subjectName": "男性生育力保存",
+   "publishYear": "2023",
+   "definition": "利用手术、药物或者实验室措施，为处于不孕或不育风险的成人或者儿童提供帮助，保护和保存其产生遗传学后代的技术和方法。这些不孕或不育风险主要包括医疗过程中或环境中的性腺毒性药物或物质，以及累及生殖器官的疾"
+  },
+  {
+   "cn": "生育力保存",
+   "en": "fertility preservation",
+   "source": "生殖医学名词",
+   "wordNumber": "6.092",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "为了保存生育力，推迟或延长生育期，将配子（精子和卵母细胞）、体外受精后的早期胚胎、卵巢或睾丸组织进行体外冷冻保存的技术。"
+  },
+  {
+   "cn": "保存方式",
+   "en": "preservation method ",
+   "source": "草学名词",
+   "wordNumber": "4.0661",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "保护",
+   "en": "preservation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "保存",
+   "en": "preservation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem\",\"pi-theorem",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "木材防腐",
+   "en": "wood preservation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "辐射保藏",
+   "en": "radiation preservation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "冷冻保存",
+   "en": "freeze preservation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自然保持",
+   "en": "natural preservation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "依赖保持",
+   "en": "dependence preservation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "木材防腐剂",
+   "en": "wood preservative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "维持关税",
+   "en": "preserving duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯定理",
+   "en": "Bayes theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环流定理",
+   "en": "circulation theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卡诺定理",
+   "en": "Carnot theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文定理",
+   "en": "Kelvin theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瑞利定理",
+   "en": "Rayleigh theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "斯托克斯定理",
+   "en": "Stokes theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全局逼近定理",
+   "en": "universal approximation theorem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子不可克隆定理",
+   "en": "quantum no-cloning theorem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "能防止或减缓由微生物引起的食品腐败变质、延长食品储存期的物质。"
+  },
+  {
+   "cn": "辐照保鲜",
+   "en": "irradiation preservation",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.4",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "利用γ射线、X射线、电子射线的辐射对食品进行辐照处理，经辐照可达到杀菌、杀虫、抑制蔬菜发芽、延迟果实后熟等目的，从而达到延长果蔬保鲜期的一种方法。"
+  },
+  {
+   "cn": "保温",
+   "en": "heat preservation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.10",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "新生儿生后即用预热的毛巾擦干，并采取各种保暖措施，使婴儿处于中性温度中。"
+  },
+  {
+   "cn": "酸性防腐剂",
+   "en": "acidic preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "一类在酸性条件下发挥防腐作用的食品添加剂。"
+  },
+  {
+   "cn": "天然防腐剂",
+   "en": "natural preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由生物体分泌或体内存在的具有抑菌作用的物质，其经人工提取或加工而成的食品防腐剂。"
+  },
+  {
+   "cn": "皮蛋",
+   "en": "preserved egg",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.8",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "以鲜蛋为原料，经用氢氧化钠（烧碱）、食盐、茶叶（添加或不添加）、水等辅料和食品添加剂（含食品加工助剂硫酸铜等）配成的料液或料泥腌制、包装等工艺制成的产品。"
+  },
+  {
+   "cn": "果脯",
+   "en": "preserved fruit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.8",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "以果蔬等为主要原料，添加（或不添加）食品添加剂和其他辅料，经糖或蜂蜜或盐腌制（或不腌制）等工艺制成的食品。"
+  },
+  {
+   "cn": "置盐定理",
+   "en": "Okishio theorem",
+   "source": "马克思主义",
+   "wordNumber": "05.0131",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "置盐信雄（Nobuo Okishio）在1961年发表《技术变更与利润率》的论文中提出。认为在现行价格下，削减成本的技术创新，并没有引起新形成的均衡利润率的下降，从而否定了马克思经济学中的“利润率趋于"
+  },
+  {
+   "cn": "基本的马克思定理",
+   "en": "fundamental Marxian theorem",
+   "source": "马克思主义",
+   "wordNumber": "05.0130",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "1955年由日本置盐信雄最早证明，并由森岛通夫命名而首次为世界所知。这一定理用数学证明了剥削率为正值时平均利润率才为正值，即剩余价值是正的利润的存在条件。"
+  },
+  {
+   "cn": "糟蛋",
+   "en": "egg preserved in rice wine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.11",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "用优质鲜蛋在糯米酒糟中糟制而成的一类再制蛋。"
+  },
+  {
+   "cn": "战时水样保存",
+   "en": "preservation of water sample in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.1.6.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时饮水卫生",
+   "subjectName": "战时饮水卫生",
+   "publishYear": "2025",
+   "definition": "军队在战争或平时野外军事作业、非战争军事行动时，通过化学、物理等手段提高水样稳定性的工作。"
+  },
+  {
+   "cn": "社区名誉保护原则",
+   "en": "principle of preserving the reputation of the community",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.043",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在疫情防控过程中，为避免将种族、地域等社区特征与传染性疾病相联系，造成对某些社区及其人群的歧视而制定的避免社区名誉受到不正当损害的行为准则。"
+  },
+  {
+   "cn": "自我呈现",
+   "en": "self-presentation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "任何旨在制造、保持、修改他人对自己的印象的行为，系社会互动的一个重要方面。由美国社会学家戈夫曼(Erving Goffman）提出的相关理论认为，人们总是倾向于通过根据当下的社会情景或人际背景，有意识"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "一种运用计算机技术，依据理论模型模仿系统的运作方式，以获取科学知识或建构虚拟世界的方法。"
+  },
+  {
+   "cn": "掩盖",
+   "en": "concealment, simulation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.34",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在加工过程中通过添加化学物质或其他手段，使原本含有的有害成分被隐蔽或降低的食品欺诈行为。"
+  },
+  {
+   "cn": "仿真体模",
+   "en": "simulation phantom",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.6",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "由人体组织等效（对电离辐射的吸收和/或散射作用与人体组织基本相同）材料构成的物体，既可代表整个人体，也可代表特定的人体局部。在各种辐射测量中，仿真体模可用于模拟人体实际情况。"
+  },
+  {
+   "cn": "蒙特卡洛模拟",
+   "en": "Monte carlo simulation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.85",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种以概率统计理论为指导的算法。该方法通过某种“实验”的方法，以这种事件出现的频率估计这一随机事件的概率，或者得到这个随机变量的某些数字特征，并将其作为问题的解。"
+  },
+  {
+   "cn": "微观仿真模型",
+   "en": "micro-simulation model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在卫生经济学评价中，一种利用计算机技术模拟政策对微观决策单元(如个人、家庭或企业)的影响及其产生的宏观效果,用于预测疾病发病或死亡趋势以及总医疗费用的决策分析模型。"
+  },
+  {
+   "cn": "消毒模拟现场试验",
+   "en": "disinfection simulation field test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学试验中，用于验证消毒剂或消毒器械对模拟消毒对象上人工污染微生物消毒效果的试验方法。"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

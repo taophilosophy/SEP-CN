@@ -1,0 +1,762 @@
+{
+ "key": "directed deceased donation",
+ "term": "Directed deceased donation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:25:53+00:00",
+ "status": "ok",
+ "note": "variant=Directed deceased donation; 审定公布名词库=2464; 海峡两岸名词对照库=687; 其他来源数据库=106; 预公布名词数据库=107; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "图书捐赠",
+   "en": "donation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.483",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "个人或社会团体将其出版、收集、珍藏或不公开发行的文献资料，包括所拥有的合法权利和文献的保管责任，一并无偿赠送给图书馆的行为。捐赠的主要来源包括：①知名人士或藏书家，在晚年或去世后，由自己或亲属将其著述"
+  },
+  {
+   "cn": "捐赠",
+   "en": "donation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0601",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "为公益或慈善目的，自愿地将原属私人或机构的财物无偿地赠与他人或其他机构。"
+  },
+  {
+   "cn": "档案捐赠",
+   "en": "archival donation",
+   "source": "档案学名词",
+   "wordNumber": "03.01.006",
+   "subjectFullName": "档案学_档案管理_档案收集与整理",
+   "subjectName": "档案收集与整理",
+   "publishYear": "2024",
+   "definition": "档案所有者将档案无偿赠送给档案管理机构的行为。"
+  },
+  {
+   "cn": "器官捐献",
+   "en": "organ donation",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.129",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "捐献者承诺生前或去世后将一个或其部分或多个器官、组织无偿给予特定或不特定的需要器官移植的他人的行为。"
+  },
+  {
+   "cn": "配子捐赠",
+   "en": "gamete donation",
+   "source": "生殖医学名词",
+   "wordNumber": "6.099",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "由健康志愿者捐献精子或卵母细胞的行为。用于对不孕不育夫妇进行治疗，以达到受孕目的。"
+  },
+  {
+   "cn": "精子捐赠",
+   "en": "sperm donation",
+   "source": "生殖医学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "健康志愿者把精子捐献至精子库的行为，用于严重男性不育或严重男性遗传性疾病夫妇的助孕治疗。"
+  },
+  {
+   "cn": "卵母细胞捐赠",
+   "en": "oocyte donation",
+   "source": "生殖医学名词",
+   "wordNumber": "6.103",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "志愿者把卵母细胞捐献给医疗机构，以帮助不孕不育夫妇实现生育目的的行为。"
+  },
+  {
+   "cn": "胚胎捐赠",
+   "en": "embryo donation",
+   "source": "生殖医学名词",
+   "wordNumber": "6.104",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "在经过体外受精-胚胎移植术治疗的不孕夫妇完成生育目的后，自愿将剩余的冻存胚胎捐献给其他有生育要求且不能得到自己的胚胎的夫妇，以实现生育目的的行为。"
+  },
+  {
+   "cn": "器官捐献",
+   "en": "organ donation",
+   "source": "器官移植学名词",
+   "wordNumber": "01.039",
+   "subjectFullName": "器官移植学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "自然人生前自愿表示或并未明确反对，并在其死亡后由家属或其权益代表，将其器官捐献给医学科学事业的行为。"
+  },
+  {
+   "cn": "精子捐献",
+   "en": "sperm donation",
+   "source": "计划生育名词",
+   "wordNumber": "07.006",
+   "subjectFullName": "计划生育_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2019",
+   "definition": "由人类精子库采集健康志愿供精者的精液，冻存并通过检疫后提供给男方患不可逆无精子症或有严重遗传疾病的不孕夫妇，以达到治疗不孕或优生的目的。"
+  },
+  {
+   "cn": "图书捐赠",
+   "en": "book donation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.483",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "机构或个人将图书作为赠品自愿捐赠给图书馆或其他文献收藏部门的行为。"
+  },
+  {
+   "cn": "反馈作用",
+   "en": "back donation",
+   "source": "化学名词",
+   "wordNumber": "01.0538",
+   "subjectFullName": "化学_无机化学_配位化学",
+   "subjectName": "配位化学",
+   "publishYear": "2016",
+   "definition": "金属的π对称性d电子反馈到配体的π型反键轨道的成键作用。"
+  },
+  {
+   "cn": "社会捐赠",
+   "en": "social donation",
+   "source": "教育学名词",
+   "wordNumber": "08.159",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "高校获得的社会各界捐助或赠送的资金与物资。"
+  },
+  {
+   "cn": "校友捐赠",
+   "en": "alumni donation",
+   "source": "教育学名词",
+   "wordNumber": "08.158",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "高校毕业生向母校捐助或赠送的资金或物资。是高校获得社会捐赠的主要来源。"
+  },
+  {
+   "cn": "供器官",
+   "en": "donated organ",
+   "source": "器官移植学名词",
+   "wordNumber": "03.020",
+   "subjectFullName": "器官移植学_供者与供器官的类型",
+   "subjectName": "供者与供器官的类型",
+   "publishYear": "2020",
+   "definition": "器官移植中由供者提供给受者的器官。"
+  },
+  {
+   "cn": "尸体供肝肝移植",
+   "en": "deceased donor liver transplantation",
+   "source": "普通外科学名词",
+   "wordNumber": "20.283",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "供肝来自已经死亡的个体的肝移植。"
+  },
+  {
+   "cn": "卵母细胞捐赠技术",
+   "en": "oocyte donation technique",
+   "source": "计划生育名词",
+   "wordNumber": "07.009",
+   "subjectFullName": "计划生育_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2019",
+   "definition": "采用健康的第三方（供者）自愿捐赠的卵子进行的辅助生育技术。适用于卵巢早衰、双卵巢切除后、绝经过渡期、绝经期、超排卵反应不良、严重遗传性疾病携带者等情况而又要求生育的女性。自身缺乏或没有足够的正常卵母细"
+  },
+  {
+   "cn": "捐赠展厅",
+   "en": "donation exhibition hall",
+   "source": "建筑学名词",
+   "wordNumber": "02.0274",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "展览捐赠物品的展厅。"
+  },
+  {
+   "cn": "反馈键",
+   "en": "back donating bonding",
+   "source": "化学名词",
+   "wordNumber": "01.0569",
+   "subjectFullName": "化学_无机化学_配位化学",
+   "subjectName": "配位化学",
+   "publishYear": "2016",
+   "definition": "具有σ和π双重成键作用的配位键。其中配体除给出孤对电子以形成σ键外，还接受中心金属原子反馈的电子形成π键。"
+  },
+  {
+   "cn": "给电子基团",
+   "en": "electron-donating group",
+   "source": "化学名词",
+   "wordNumber": "02.0989",
+   "subjectFullName": "化学_有机化学_物理有机化学_反应机理",
+   "subjectName": "反应机理",
+   "publishYear": "2016",
+   "definition": "能转移出电子至分子中其他部分的基团。"
+  },
+  {
+   "cn": "反馈作用",
+   "en": "back donation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反馈键",
+   "en": "back donating bonding",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "给电子基团",
+   "en": "electron-donating group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "提示记号",
+   "en": "direct",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方向性，指向性",
+   "en": "directivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定向测序",
+   "en": "directed sequencing",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "定向诱变",
+   "en": "directed mutagenesis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直接成种",
+   "en": "directed speciation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直接成种",
+   "en": "directed speciation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "定向诱变",
+   "en": "directed mutagenesis",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定向测序",
+   "en": "directed sequencing",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有向连接",
+   "en": "directed link",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "引导式干扰",
+   "en": "directed jamming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有向弧",
+   "en": "directed arc",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定向筛选",
+   "en": "directed screening",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同向重复[序列]",
+   "en": "direct repeat",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直接辐射",
+   "en": "direct radiation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直接环流",
+   "en": "direct circulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直接径流",
+   "en": "direct runoff",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直接流",
+   "en": "direct flow",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "捐赠型众筹",
+   "en": "donation-based crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直接融资",
+   "en": "direct financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接射门",
+   "en": "direct shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct preliminary",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接还击",
+   "en": "direct riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "探头球",
+   "en": "direct spike",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变方向",
+   "en": "change direction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方向旗",
+   "en": "direction flag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直刺",
+   "en": "direct hit\",\"direct thrust\",\"straight thrust",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "慎终追远",
+   "en": "Mourn the Deceased and Memorialize Those Long Gone",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "遗体器官捐献准则",
+   "en": "deceased donation rule",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.054",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "自然人生前自愿表示或未明确反对，在其死亡后进行捐献时应遵循的伦理规范和道德要求。包括自愿、无偿，禁止商业化等原则。"
+  },
+  {
+   "cn": "遗体器官捐献系统",
+   "en": "deceased organ donation system",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.055",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "由国家或地区建立的，用于规范和管理遗体器官捐献及移植的法律、医疗、伦理及行政机制。一般由 5 部分构成：人体器官捐献志愿登记系统、人体器官获取组织（opo）与人体器官协调员系统、器官捐献人登记及器官匹"
+  },
+  {
+   "cn": "公益捐赠",
+   "en": "charity donation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.29",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "自然人、法人或其他组织基于自愿原则，为支持社会公益事业而将自己有权处分的合法财产向相应的社会组织进行捐赠的活动。"
+  },
+  {
+   "cn": "配子赠送",
+   "en": "gamete donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "自愿捐赠精子或者卵子的做法。我国相关法规规定，禁止以任何形式买卖精子、卵子和胚胎，严格禁止各种代孕行为。"
+  },
+  {
+   "cn": "卵子赠送",
+   "en": "oocyte donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "育龄妇女将卵子赠与不育夫妇的做法。"
+  },
+  {
+   "cn": "精子赠送",
+   "en": "sperm donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "由人类精子库采集健康志愿供精者的精液，冻存并通过检疫后提供给男方患不可逆无精子症或有严重遗传疾病的不孕夫妇，以达到治疗不孕或优生的目的的做法。"
+  },
+  {
+   "cn": "胚胎赠送",
+   "en": "embryo donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "接受体外受精胚胎移植技术助孕的夫妇将胚胎赠与不育夫妇的做法。"
+  },
+  {
+   "cn": "器官捐献",
+   "en": "organ donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.045",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "依据自然人生前意愿或死后其家属的共同意愿，将其部分或全部器官捐献给他人或医学科学事业的行为。"
+  },
+  {
+   "cn": "器官捐献协调员",
+   "en": "organ donation coordinator",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.052999999999999",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "参与人体器官捐献的宣传动员、现场见证、信息采集报告等工作并协助完成人体器官捐献其他相关事务的专职或兼职人员。"
+  },
+  {
+   "cn": "器官捐献准则",
+   "en": "organ donation criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.048",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "用于评估和筛选潜在的活体或遗体器官捐献者的医学、伦理及法律标准。"
+  },
+  {
+   "cn": "器官捐献伦理",
+   "en": "organ donation ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.046",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "器官捐献中涉及的伦理问题与道德要求。包括捐献的同意模式、补偿与激励机制等。尊重、有利、不伤害、公正是器官捐献应遵循的基本伦理原则。"
+  },
+  {
+   "cn": "器官捐献法",
+   "en": "organ donation law",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.047",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "规范器官捐献及其相关行为的法律文件。旨在规范人体器官捐献行为，保障捐受双方的合法权益，倡导捐献人体器官挽救生命的人道主义精神，推动社会文明进步。"
+  },
+  {
+   "cn": "交叉换肾",
+   "en": "kidney paired donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.023",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "活体肾脏器官移植中，器官受体与家庭内有捐献意愿的供体间配型不符合，但分别与另一家庭中同样情况的受体与供体配型相符，两个家庭亲属间肾源配对互换，进行肾脏器官移植的特定情形，以此扩大肾脏来源，提高配型成功"
+  },
+  {
+   "cn": "定向抽样",
+   "en": "directed sampling",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "针对目标样品群体（如商品类型或地理区域）对于在监测项目中提示具有潜在健康风险中可疑问题开展调查或者证实过程"
+  },
+  {
+   "cn": "直接测量",
+   "en": "direct measurement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "直接在体外使用全身计数器或器官测量装置（肺、甲状腺等）开展的放射性核素测量。"
+  },
+  {
+   "cn": "直接服务",
+   "en": "direct service",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "以个人、家庭和群体为关注对象，针对个人、家庭和群体采取的服务行动。其重点在于改变家庭或群体内的人际交往，或改变个人、家庭和小群体与其环境中的个人或社会系统的关系和互动方式。"
+  },
+  {
+   "cn": "直接成本",
+   "en": "direct cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目而能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "直接效益",
+   "en": "direct benefit",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "可直接观察和测量的实行某项干预措施带来的卫生服务利用和成本减少等。"
+  },
+  {
+   "cn": "直接观察法",
+   "en": "direct observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过教学现场对靶行为的观察记录，直接评价、比较和分析学习负荷的方法。“靶行为”可事先根据疲劳常见的客观表现确定，事先根据疲劳常见的客观表现确定“靶行为”，如交头接耳、做小动作、打呵欠、瞌睡等，并可对靶"
+  },
+  {
+   "cn": "直接致癌物",
+   "en": "direct carcinogen",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.1.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "不经过体内代谢活化就具有致癌作用的化学物。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

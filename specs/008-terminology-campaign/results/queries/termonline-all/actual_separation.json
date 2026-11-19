@@ -1,0 +1,622 @@
+{
+ "key": "actual separation",
+ "term": "actual separation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:48:03+00:00",
+ "status": "ok",
+ "note": "variant=actual separation; 审定公布名词库=1623; 海峡两岸名词对照库=405; 其他来源数据库=62; 预公布名词数据库=87; jwt-direct（JWT 直连，raw 略；已滤维基 19 条）",
+ "hits": [
+  {
+   "cn": "现实论",
+   "en": "actualism",
+   "source": "地质学名词",
+   "wordNumber": "01.00.153",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "现代研究地球科学的理论。它接受均变论的基本前提，认为在整个地质历史时期，物理的和化学的规律是不变的，但是导致地质作用结果的速率和强度可能有很大的变化；有些重要的、普遍的地质事件实际上是灾变性的，例如地"
+  },
+  {
+   "cn": "现实",
+   "en": "actuality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.048",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "有关实体存在方式的概念。亚里士多德认为，其是和潜能相反的存在；黑格尔认为，其是理性、思维着的精神，是逻辑和思辨的精神；马克思认为，其是“异化了的现实”和“真正的人的现实”。"
+  },
+  {
+   "cn": "实无穷",
+   "en": "actual infinity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.292",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "认为可把无穷视作一个整体，是已经完成了构造的实体，与潜无穷的立场不同。"
+  },
+  {
+   "cn": "现存植被",
+   "en": "actual vegetation ",
+   "source": "草学名词",
+   "wordNumber": "2.0332",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "现实演替",
+   "en": "actual succession ",
+   "source": "草学名词",
+   "wordNumber": "2.0333",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "实际恶意",
+   "en": "actual malice",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.043",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻从业者的权利_义务与责任",
+   "subjectName": "义务与责任",
+   "publishYear": "2022",
+   "definition": "美国判例法首先启用的一个概念。特指媒体在刊登批评公职人员处理公众事务的报道时，明知其报道内容虚假或贸然不顾它是否虚假，仍然将其公开发表并导致侵权后果的一种可被依法归责的主观意图。根据美国判例法的规定，"
+  },
+  {
+   "cn": "实际尺寸",
+   "en": "actual size",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0329",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "通过测量所得的尺寸。"
+  },
+  {
+   "cn": "实际偏差",
+   "en": "actual deviation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0337",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "实际尺寸减其基本尺寸所得的代数差。"
+  },
+  {
+   "cn": "实际轮廓",
+   "en": "actual profile",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0313",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "平面与实际表面相交所得的轮廓线。"
+  },
+  {
+   "cn": "实际表面",
+   "en": "actual surface",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0312",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "与周围介质分隔的表面。"
+  },
+  {
+   "cn": "实供需量",
+   "en": "actual demand",
+   "source": "电力名词",
+   "wordNumber": "23.103",
+   "subjectFullName": "电力_配电与用电",
+   "subjectName": "配电与用电",
+   "publishYear": "2020",
+   "definition": "在一个特定时段内,用户实际使用的需量。"
+  },
+  {
+   "cn": "现实读者",
+   "en": "actual reader",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.284",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "当前实际利用图书馆服务的个人或团体。"
+  },
+  {
+   "cn": "现实用户",
+   "en": "actual user",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.242",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "有信息需求并正在利用信息系统或信息机构服务的个人或团体。"
+  },
+  {
+   "cn": "实际分株",
+   "en": "actual ramet",
+   "source": "植物学名词",
+   "wordNumber": "13.0068",
+   "subjectFullName": "植物学_植物生态学_克隆植物生态学",
+   "subjectName": "克隆植物生态学",
+   "publishYear": "2019",
+   "definition": "形体上完全独立的分株。通常具备完整的枝系和根系。"
+  },
+  {
+   "cn": "实际植被",
+   "en": "actual vegetation",
+   "source": "植物学名词",
+   "wordNumber": "13.0371",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "一定地段上现实存在的植被类型。"
+  },
+  {
+   "cn": "实际［塔］板",
+   "en": "actual plate",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0629",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "实际操作过程中，由于相际接触时间有限，离开塔板时两相并不能达到平衡状态的塔板。"
+  },
+  {
+   "cn": "实参",
+   "en": "actual parameter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0211",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "在调用子程序时，传输给该子程序形式参数的数值、变量或表达式。"
+  },
+  {
+   "cn": "实际蒸散",
+   "en": "actual evapotranspiration",
+   "source": "林学名词",
+   "wordNumber": "02.060",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "土壤在田间实际条件下的蒸发和蒸腾总和。"
+  },
+  {
+   "cn": "实际产品",
+   "en": "actual product",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0331",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "产品和服务的第二层次。包括产品和服务的特征、设计、质量水平、品牌名称、包装、风格等属性，用以传递核心利益。"
+  },
+  {
+   "cn": "实际密度",
+   "en": "actual density",
+   "source": "计量学名词",
+   "wordNumber": "03.046",
+   "subjectFullName": "计量学_质量、密度、衡器_密度",
+   "subjectName": "密度",
+   "publishYear": "2015",
+   "definition": "多孔固体材料质量与其体积(不包括“空隙”的体积)之比。"
+  },
+  {
+   "cn": "实际分株",
+   "en": "actual ramet",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实际植被",
+   "en": "actual vegetation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实际蒸发",
+   "en": "actual evaporation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实际上升",
+   "en": "actual lift",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实际塔板",
+   "en": "actual plate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实际孔径",
+   "en": "actual aperture",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "实际口径",
+   "en": "actual aperture",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "实测密度,现存密度",
+   "en": "actual density",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "实际价格",
+   "en": "actual price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际交货",
+   "en": "actual delivery",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际开价",
+   "en": "actual quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际利润",
+   "en": "actual profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现货",
+   "en": "actual goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现货交易",
+   "en": "actual transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现货市场",
+   "en": "actual market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际误差",
+   "en": "actual error",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "实参",
+   "en": "actual parameter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实际承运人",
+   "en": "actual carrier",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "实际航迹向",
+   "en": "actual track",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "实际循环",
+   "en": "actual cycle",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "实时比赛",
+   "en": "actual play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.12",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "通过在物品、设施、区域之间留有一定空间，而非通过设置物理阻断的方式进行隔离。"
+  },
+  {
+   "cn": "实际焦点",
+   "en": "actual focal spot",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.20",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "X射线管阳极靶面上阻拦截止加速粒子束的区域。"
+  },
+  {
+   "cn": "实际发酵度",
+   "en": "actual fermentation degree",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.4",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "啤酒在发酵过程中原麦汁浸出物被消耗的程度。其测定方法为：将被测发酵液中的酒精全部蒸出，用水补足至原体积，测定补足后液体的实际浓度进行计算。"
+  },
+  {
+   "cn": "可能性与现实性",
+   "en": "possibility and actuality",
+   "source": "马克思主义",
+   "wordNumber": "01.0066",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "可能性与现实性是对立统一的关系。二者相互区别，不能等同。只有具备充分客观根据的可能性才能转化为现实性。二者又是统一的，它们相互依存、相互包含、相互转化。可能性作为潜在趋势存在于现实性之中，是还没有实现"
+  },
+  {
+   "cn": "职能分离",
+   "en": "functional separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "为保证风险评估在科学上的独立性，将风险评估的职能活动与风险管理活动分开的工作原则。"
+  },
+  {
+   "cn": "免疫磁分离技术",
+   "en": "immunomagnetic Separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.73",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "一种将免疫学反应的高度特异性与磁珠的磁响应性相结合的分离技术。利用抗体与磁珠的结合能力，将目标分子（如蛋白质、细胞或微生物等）从混合物中分离出来。"
+  },
+  {
+   "cn": "磁选",
+   "en": "magnetic separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.15",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "根据磁性的不同，利用磁力分离混入食品中的磁性金属杂质的方法。常用于清除谷物、豆类、玉米、小麦、砂糖等食品中的铁杂质。"
+  },
+  {
+   "cn": "磁选机",
+   "en": "magnetic separator",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.16",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "根据不同物质导磁性的差异，借助于磁力将磁性物质从食品中分离开来的设备。"
+  },
+  {
+   "cn": "自我实现伦理学",
+   "en": "ethics of self-actualization",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1440000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "把道德活动的根本目的看作是个人实现自己的“内在自我”的伦理学理论。认为个人道德上的自我实现是真正的善，或者最高的善，是完善或者改变社会生活的基本途径。"
+  },
+  {
+   "cn": "铀同位素分离",
+   "en": "uranium isotope separation",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.16",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "采用特殊工艺方法提高铀元素中丰度的生产过程。同位素分离的方法主要有气体扩散法、离心分离法和激光分离法等。"
+  },
+  {
+   "cn": "分餐制度",
+   "en": "meal separation system",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "支持餐饮过程中，餐具、菜（饮）品等的不交叉、无混用的餐饮方式实现的活动安排。"
+  },
+  {
+   "cn": "实际补偿比",
+   "en": "actual compensation ratio，real compensation ratio",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "参保人在各级定点医疗服务机构就医后所得到实际补偿的医药费用占应支付医药费用的比例。"
+  },
+  {
+   "cn": "气液分离装置",
+   "en": "gas-liquid separation device",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.4.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在二氧化氯发生器中，为了去除生成二氧化氯时的副产物，对副产物实施分离的装置。"
+  },
+  {
+   "cn": "辅食制作",
+   "en": "separately making complementary food",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "不加盐、糖和其他调味品，可挑选优质食材在家庭中单独烹制的烹调过程，并注意制作过程的卫生，现做现吃，不喂存留的食物。"
+  },
+  {
+   "cn": "卫生人力资源实际短缺",
+   "en": "actual shortage of human resource for health",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.4.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "在一定时期内，某一地区的卫生人力资源供给量小于社会需求量的状况。可以分为暂时性短缺和长期短缺。"
+  },
+  {
+   "cn": "卫生人力资源实际过剩",
+   "en": "actual surplus of human resource for health",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "在一定时期内，从整个社会来看，卫生人力资源供给大于需求的状况。"
+  },
+  {
+   "cn": "名实分离",
+   "en": "separation of name and reality",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.44",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "因社会变迁产生的经学理想社会与现实之间的分立，以及由此产生的社会心理上的不适应状态。费孝通提出的概念。具体而言，自诸子百家定于一尊之后，要解释社会变迁，往往通过注释的方式来使经典与社会变动相适应。乡土"
+  },
+  {
+   "cn": "离别情绪及其处理",
+   "en": "separation mood and its treatment",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.24",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者在结案时对服务对象情绪的关注和疏导，有时也涉及对社会工作者自身相应情绪的处理。"
+  },
+  {
+   "cn": "儿童分离焦虑障碍",
+   "en": "separation anxiety disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童与其依恋对象分离时所表现出焦虑情绪的一种精神疾病，达到与其发育水平不符的程度，甚至出现做噩梦和痛苦的躯体症状。是儿童期最常见的焦虑障碍之一。"
+  },
+  {
+   "cn": "另起炉灶",
+   "en": "set up a separate kitchen",
+   "source": "马克思主义",
+   "wordNumber": "03.0500",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东于1949年春提出的一项外交方针。与“打扫干净屋子再请客”“一边倒”，共同构成新中国成立初期三大外交方针。周恩来在解释“另起炉灶”时说：“就是不承认国民党政府同各国建立的旧的外交关系,而要在新的"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

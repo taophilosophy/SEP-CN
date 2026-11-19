@@ -1,0 +1,52 @@
+{
+ "key": "organicist",
+ "term": "organicist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:34:49+00:00",
+ "status": "ok",
+ "note": "variant=organicist; 审定公布名词库=1; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "机体论",
+   "en": "organicism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.417",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "一种生命论或生物学的方法论。认为生命现象的基础在于部分过程的组织，从而有可能形成生物固有的平衡或发展的变化。"
+  },
+  {
+   "cn": "合成有机物",
+   "en": "synthetic organics",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "天然卤化有机物",
+   "en": "natural halogenated organics",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "社会有机论",
+   "en": "social organicism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0497",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "英国社会学家斯宾塞（Herbert Spencer）提出的理论。他认为社会和生物体一样，是一个有机体。这个有机体是由相互依存的部分构成的统一整体。社会有机体要比一切有机现象复杂得多，社会是一种超有机体"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

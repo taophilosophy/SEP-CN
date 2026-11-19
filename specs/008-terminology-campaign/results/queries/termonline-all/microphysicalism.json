@@ -1,0 +1,42 @@
+{
+ "key": "microphysicalism",
+ "term": "microphysicalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:09:49+00:00",
+ "status": "ok",
+ "note": "variant=microphysicalism; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "云微物理学",
+   "en": "cloud microphysics",
+   "source": "大气科学名词",
+   "wordNumber": "03.003",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "研究在单个气溶胶或降水粒子的尺度上发生的云过程的学科。"
+  },
+  {
+   "cn": "微观物理[学]",
+   "en": "microscopic physics,microphysics",
+   "source": "物理学名词",
+   "wordNumber": "01.0004",
+   "subjectFullName": "物理学_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "云微物理学",
+   "en": "cloud microphysics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

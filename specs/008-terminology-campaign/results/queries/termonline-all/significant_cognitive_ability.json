@@ -1,0 +1,802 @@
+{
+ "key": "significant cognitive ability",
+ "term": "significant cognitive ability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:39:24+00:00",
+ "status": "ok",
+ "note": "variant=significant cognitive ability; 审定公布名词库=1505; 海峡两岸名词对照库=585; 其他来源数据库=59; 预公布名词数据库=108; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "认知意义",
+   "en": "cognitive meaning; cognitive significance",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.037",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "能够提供知识性信息，在逻辑上有真假值。"
+  },
+  {
+   "cn": "认知能力",
+   "en": "cognitive ability",
+   "source": "行为医学名词",
+   "wordNumber": "4.108",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "人脑获取、加工、存储、提取和利用信息的能力。如观察力、想象力等。"
+  },
+  {
+   "cn": "认知能力",
+   "en": "cognitive ability",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "人脑加工、储存和提取信息的能力。即对事物的构成、性能、与它物的关系、发展的动力、发展方向及基本规律的把握能力。是人们成功地完成活动最重要的心理条件。知觉、记忆、注意、思维和想象的能力都被认为是认知能力"
+  },
+  {
+   "cn": "认知能力",
+   "en": "cognitive ability",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0129",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "人脑加工、储存和提取信息的能力。"
+  },
+  {
+   "cn": "认知能力",
+   "en": "cognitive ability",
+   "source": "心理学名词",
+   "wordNumber": "12.108",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "人类获取、存储、加工和利用信息的能力。"
+  },
+  {
+   "cn": "一般认知能力",
+   "en": "general cognitive ability",
+   "source": "行为医学名词",
+   "wordNumber": "3.194",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_认知能力遗传",
+   "subjectName": "认知能力遗传",
+   "publishYear": "2022",
+   "definition": "大脑反映客观事物的特性和联系、揭示事物对人的意义和作用的能力。"
+  },
+  {
+   "cn": "特殊认知能力",
+   "en": "special cognitive ability",
+   "source": "行为医学名词",
+   "wordNumber": "3.201",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_认知能力遗传",
+   "subjectName": "认知能力遗传",
+   "publishYear": "2022",
+   "definition": "完成某种特定或独特的专业活动所必需的能力。如空间能力、言语能力等。"
+  },
+  {
+   "cn": "认知能力测验",
+   "en": "cognitive ability test",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0480",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "对个人的语言理解能力、数字能力和推理能力等进行的测验。"
+  },
+  {
+   "cn": "有效数字",
+   "en": "significant digit,significant figure",
+   "source": "数学名词",
+   "wordNumber": "010.0062",
+   "subjectFullName": "数学_数值分析_误差论",
+   "subjectName": "误差论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "神经外科学名词",
+   "wordNumber": "3.028",
+   "subjectFullName": "医学_神经外科学_神经外科病理生理_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "人类获取、加工、存储和使用信息的心理过程的总称。包括学习、思考、推理、记忆、解决问题、决策和注意力。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.179",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人类获取、加工、存储和使用信息的心理过程的总称。包括感觉、知觉、注意、记忆和思维等过程。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "行为医学名词",
+   "wordNumber": "2.089",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "个体获取、加工、存储和使用信息过程的总称。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.099",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "人类获取、加工、储存和使用信息的心理过程的总称。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "核医学名词",
+   "wordNumber": "04.0769",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础",
+   "subjectName": "神经系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "人脑接受外界信息，经过加工处理，转换成内在的心理活动，从而获取知识或应用知识的过程。包括记忆、语言、视空间、执行、计算和理解判断等方面。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "心理学名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "人类获取、加工、存储和使用信息的心理过程的总称。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.020",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "人们获得和利用信息的全部过程和活动。包括接收到外界信息的刺激，对接收到的信息做出解释，对信息做出反应，采取适当行动。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.180",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "人们认识与知晓事物过程的总称。包括感知、识别、记忆、概念形成、思维、推理及表象过程。实际上认知是大脑为解决问题而摄取、储存、重整和处理信息的基本功能。"
+  },
+  {
+   "cn": "有意义异常",
+   "en": "significant anomaly",
+   "source": "地质学名词",
+   "wordNumber": "13.08.038",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "泛指对矿产勘查和地质研究有指示意义的异常。"
+  },
+  {
+   "cn": "重大地震",
+   "en": "significant earthquake",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0164",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "至少符合下列条件之一的地震：造成中等程度以上的破坏 (损失≥100万美元)；死亡人数≥10人；震级≥7.5；震中烈度≥X；引发海啸。 "
+  },
+  {
+   "cn": "有效数字",
+   "en": "significant figure",
+   "source": "冶金学名词",
+   "wordNumber": "04.0711",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "已知一个十进位的测量数据的可靠位数为N，在其最小的第N位后则为欠准数字。N+1位的数字。"
+  },
+  {
+   "cn": "认知能力",
+   "en": "cognitive ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显著性",
+   "en": "significance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显著性",
+   "en": "significance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知能力测验",
+   "en": "cognitive ability test\",\"CogAT",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特性层",
+   "en": "significant level",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有效波",
+   "en": "significant wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重要天气",
+   "en": "significant weather",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重要他人",
+   "en": "significant other",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显著性差异",
+   "en": "significant difference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显著性差异",
+   "en": "significant difference",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "有效数字",
+   "en": "significant figure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "显著性结果",
+   "en": "significant result",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效数字",
+   "en": "significant digit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效位",
+   "en": "significant bit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效字",
+   "en": "significant word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效字符",
+   "en": "significant character",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "显著性检验",
+   "en": "significance test",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实际显著性",
+   "en": "practical significance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知计算",
+   "en": "cognitive computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知盈余",
+   "en": "cognitive surplus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心知",
+   "en": "Mind Cognition",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境认知",
+   "en": "environmental cognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知功能模拟",
+   "en": "cognitive function simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨媒体感知计算",
+   "en": "cross-media cognitive computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "千年大计、国家大事",
+   "en": "national project of millennial significance",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "认知与智能服务",
+   "en": "cognitive computing and intelligent service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络安全防护意识与能力",
+   "en": "cybersecurity awareness and ability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全面增强执政本领",
+   "en": "comprehensively strengthening the governance ability",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加强国际传播能力建设",
+   "en": "improve our ability to communicate effectively with international audiences",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "加强领导能力、应对能力、组织动员能力、贯彻执行能力",
+   "en": "to strengthen the ability to lead, respond, mobilize, and to execute orders ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不学《诗》，无以言",
+   "en": "You Won’t Be Able to Talk Properly with Others Without Studying The Book of Songs.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷性",
+   "en": "agility",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "创新敏捷化",
+   "en": "innovation agility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性",
+   "en": "stability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性",
+   "en": "stability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性",
+   "en": "stability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "军事认知能力",
+   "en": "military cognitive ability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军事作业环境中军人对事物的构成、性能、发展、基本规律把握的能力，包括知觉、记忆、注意、思维、想象、反应和执行的能力。"
+  },
+  {
+   "cn": "认识",
+   "en": "cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0155",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人脑在实践基础上对客观事物的能动反映，体现了认识主体的能动性、选择性和创造性。包括感性认识和理性认识。从生动的直观到抽象的思维，从抽象的思维到实践，是认识的辩证发展过程。"
+  },
+  {
+   "cn": "显著性水平",
+   "en": "significant level",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在统计假设检验中，用样本资料推断总体时，犯拒绝虚无假设错误的可能性大小。通常以表示，是一个临界概率值；越小，犯拒绝虚无假设的错误可能性越小。"
+  },
+  {
+   "cn": "重要他人",
+   "en": "significant others",
+   "source": "社会学名词",
+   "wordNumber": "4.1.6.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我发展",
+   "subjectName": "自我发展",
+   "publishYear": "2025",
+   "definition": "对一个人的生活和幸福有着特别重要影响的任何他人，影响个体的自我评价和对重要社会规范的接受与认可。"
+  },
+  {
+   "cn": "显著疲劳",
+   "en": "significant fatigue",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.3.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷",
+   "subjectName": "学习负荷",
+   "publishYear": "2025",
+   "definition": "疲劳的第二阶段。机理是大脑皮层的保护性抑制加深和扩散，表现兴奋泛化和内抑制障碍同时出现。主要表现有：上课时打呵欠和瞌睡；对条件刺激的错误反应增多，反应量减少，反应时延长。"
+  },
+  {
+   "cn": "显着危害",
+   "en": "significant hazard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "在食品生产过程中，有极大可能发生的生物、化学或物理危害，且一旦发生将对消费者造成不可接受的健康危险，即发生的可能性和严重性都很显著的危害。"
+  },
+  {
+   "cn": "显著性检验",
+   "en": "significance testing",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.31",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从总体中得到的样本统计量的概率或似然估计客观地评判研究假设能否为数据所支持的统计方法。"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.34",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "从统计的意义上来说，在一定的显著性水平之下，样本统计量可以拒绝虚无假设的显著性。与“实质显著性”相对。"
+  },
+  {
+   "cn": "实质显著性",
+   "en": "substantive significance",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.35",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "从现实的意义上来说，一个统计结论具有现实意义的显著性。与“统计显著性”相对。"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.45",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "假设检验达到统计学显著性的标准，即P 值小于预先设定的检验水准α或者置信区间不包括零假设界值。"
+  },
+  {
+   "cn": "生物学意义",
+   "en": "biological significance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.46",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物对生物体健康具有实质性或显著影响（正面或负面）的统计学显著性效应"
+  },
+  {
+   "cn": "认知功能",
+   "en": "cognitive functioning",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "大脑接收、处理、存储和利用信息的一系列高级心理过程。包括时间与地点的定向、理解力、抽象思维、注意力、记忆力以及解决问题的能力等。是个体完成各种活动所需要的基本能力。"
+  },
+  {
+   "cn": "认知图",
+   "en": "cognitive map",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "展示研究对象的认知模式的网络状图形。其中，网络的节点表示特定的概念，节点间的联系表示概念间的关系。"
+  },
+  {
+   "cn": "认知一致",
+   "en": "cognitive agreement",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学研究者对某些命题或观点所持的相同看法。具体表现为不同的研究者对该命题或观点具有相似的知识结构。不同研究者之间的争论或冲突，常常是因为不同的价值观和利益造成的，而他们在认识上都是一致的。"
+  },
+  {
+   "cn": "认知不协调",
+   "en": "cognitive dissonance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "当个人的认知系统内的两种及以上的认知（如偏好、态度、观念、价值观或信念）存在不一致时，或者当个人行为与自有的信念、情感或者价值观不一致时所体验到的冲突状态。"
+  },
+  {
+   "cn": "认知人类学",
+   "en": "cognitive anthropology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "研究心智、语言和文化诸因素的关系，在认知心理学和结构语言学影响下发展起来，同时与结构人类学也有很大渊源。主要关注文化知识在日常生活中的组织和应用（如分类、推理）。"
+  },
+  {
+   "cn": "认知理论",
+   "en": "cognitive theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "以认知心理学为基础形成和发展起来的一种社会工作理论。该理论认为人的行为主要受制于理性思考，而不是潜意识的本能。不良行为主要产生于认知上的错误或理性思维能力的缺乏，社会工作的主要任务是帮助服务对象获得对"
+  },
+  {
+   "cn": "认知限制",
+   "en": "cognitive limitation",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.6",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体面对高度复杂的问题，无法实现效用最大化，这为危害健康行为的产生提供了一种解释。"
+  },
+  {
+   "cn": "认知疗法",
+   "en": "cognitive therapy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "认为个体出现心理问题的根源在于其在解释事件时往往带有负性自动化思维，因此主要通过矫正学生心理健康求咨者的不合理信念、不当思维过程来帮助其解决心理问题。"
+  },
+  {
+   "cn": "认知人类学",
+   "en": "cognitive anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0597",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的一个分支学科和研究取向，研究人类认知模式在其所处文化与社会情境中形成与变化的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

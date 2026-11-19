@@ -1,0 +1,782 @@
+{
+ "key": "meta-ethical pluralists",
+ "term": "meta-ethical pluralists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:22:49+00:00",
+ "status": "ok",
+ "note": "variant=meta-ethical pluralists; 审定公布名词库=1239; 海峡两岸名词对照库=446; 其他来源数据库=44; 预公布名词数据库=222; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "meta回归",
+   "en": "meta regression",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0558",
+   "subjectFullName": "食品科学技术_食品营养_荟萃分析和系统综述",
+   "subjectName": "荟萃分析和系统综述",
+   "publishYear": "2020",
+   "definition": "分析研究间异质性来源及大小，并进一步阐述或解释异质性对荟萃分析中合并效应量的影响的分析方法。"
+  },
+  {
+   "cn": "元-元模型",
+   "en": "meta-meta model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0097",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "元模型体系结构的基础，定义了说明元模型的语言。"
+  },
+  {
+   "cn": "多元主义系统方法论",
+   "en": "pluralist systems method",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.762",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "一种复杂系统管理方法论。指从多元角度批判看待各种系统方法的方法论。该方法论由以M. C.杰克逊（M. C. Jackson）为代表的英国赫尔大学（University of Hull）系统管理学派和后"
+  },
+  {
+   "cn": "极化多元主义模式",
+   "en": "polarized pluralist model",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.023",
+   "subjectFullName": "新闻学与传播学_大众传播_大众传播机制与传播者研究",
+   "subjectName": "大众传播机制与传播者研究",
+   "publishYear": "2022",
+   "definition": "美国政治传播学者丹尼尔·C.哈林(Daniel C.Hallin)等在《比较媒介体制：媒介与政治的三种模式》(2011)中提出的一种西方传媒体制模式。由于这种传媒体制主要分布在希腊、法国、意大利、葡萄"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.127",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "从价值和信念体系中产生并涉及权利和义务的道德规范。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "核医学名词",
+   "wordNumber": "06.0239",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "研究人与人、人与社会之间行为规范和原则的一门科学。"
+  },
+  {
+   "cn": "道德标准",
+   "en": "ethics",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0945",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "一系列解释行为好坏对错的行为准则。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "教育学名词",
+   "wordNumber": "01.094",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "变角闪岩",
+   "en": "meta-hornblendite",
+   "source": "地质学名词",
+   "wordNumber": "06.05.047",
+   "subjectFullName": "地质学_变质岩岩石学_变质岩岩石类型",
+   "subjectName": "变质岩岩石类型",
+   "publishYear": "2026",
+   "definition": "普通角闪石含量＞90％的变质岩。可含少量辉石、石榴子石、斜长石、石英等。一般具中粗粒柱状变晶结构，块状构造，有时呈片状构造。"
+  },
+  {
+   "cn": "变辉石岩",
+   "en": "meta-pyroxenolite",
+   "source": "地质学名词",
+   "wordNumber": "06.05.048",
+   "subjectFullName": "地质学_变质岩岩石学_变质岩岩石类型",
+   "subjectName": "变质岩岩石类型",
+   "publishYear": "2026",
+   "definition": "辉石含量＞90％的变质岩。主要由透辉石和紫苏辉石组成。可含少量角闪石、石榴子石、斜长石、石英、磁铁矿等。一般具中粗粒变晶结构，块状构造。"
+  },
+  {
+   "cn": "宏代谢组",
+   "en": "meta-metabolome",
+   "source": "农学名词",
+   "wordNumber": "15.257",
+   "subjectFullName": "农业生物技术_微生物组工程",
+   "subjectName": "微生物组工程",
+   "publishYear": "2025",
+   "definition": "一个特定环境或者生态系统中所有代谢产物的总和。"
+  },
+  {
+   "cn": "元话语",
+   "en": "meta-discourse",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_后现代主义科学哲学",
+   "subjectName": "后现代主义科学哲学",
+   "publishYear": "2024",
+   "definition": "对话语的元层次上的研究与反思。与基础话语（primary discourse）相对。讨论话语的组织与功能以及话语发出者与接受者的各种特征。"
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.034",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "描述知识集的知识。"
+  },
+  {
+   "cn": "元沟通",
+   "en": "meta communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.034",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "能给交往者个体带来暗示的、引申的、重要的，也是最初的对关系讯息及其意义产生理解的沟通现象与行为。常用于判断相互关系及其属性。被概括为一种“有关沟通的沟通”。"
+  },
+  {
+   "cn": "元讯息",
+   "en": "meta message",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.097",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "附加在讯息之上的讯息。沟通者通过对讯息的编码与解码，将沟通行为自身也视作一种沟通的讯息。"
+  },
+  {
+   "cn": "变形球建模",
+   "en": "meta modeling",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.118",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "利用一些具有“黏性”的球体相互堆积塑造模型的方便直观的建模方法。"
+  },
+  {
+   "cn": "荟萃分析",
+   "en": "meta-analysis",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0533",
+   "subjectFullName": "食品科学技术_食品营养_荟萃分析和系统综述",
+   "subjectName": "荟萃分析和系统综述",
+   "publishYear": "2020",
+   "definition": "采用统计方法，将多个独立、针对同一临床问题、可以合成的临床研究综合起来进行定量分析。"
+  },
+  {
+   "cn": "元索引",
+   "en": "meta-index",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.852",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "为便于用户对站点进行检索，提高检索速度而编制的关于网站站点索引的索引。"
+  },
+  {
+   "cn": "元本体",
+   "en": "meta-ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.117",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "在各领域中通用的，定义了各部分之间的关系及其属性的本体。是绝对抽象事物。认识元本体必须认识抽象事物，掌握抽象事物的本质和特征。"
+  },
+  {
+   "cn": "元概念",
+   "en": "meta-concept",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.118",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "一种抽象的概念，即概念的概念。用来组织某些领域的概念的属性和类，完成或添加具体的概念等。"
+  },
+  {
+   "cn": "多数无知现象",
+   "en": "pluralistic ignorance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "元分析",
+   "en": "meta analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "间位",
+   "en": "meta position",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "整合分析",
+   "en": "meta-analysis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "元信令",
+   "en": "meta-signaling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "媒介人兽互通病",
+   "en": "meta-zoonosis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "间位定位基",
+   "en": "meta directing group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "合乎道德的投资",
+   "en": "ethical investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "增强型图像文件",
+   "en": "enhanced meta file\",\"EMF",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "元信令协议实体",
+   "en": "meta-signaling protocol entity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伦理守则,伦理规范",
+   "en": "code of ethics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "金属-金属键",
+   "en": "metal-metal bond",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "蒴柄",
+   "en": "seta",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "金属",
+   "en": "metal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "金属",
+   "en": "metal",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "方山",
+   "en": "mesa",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "刚毛",
+   "en": "seta",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "伦理",
+   "en": "Ethics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理算法",
+   "en": "ethical algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据伦理",
+   "en": "Data Ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络伦理",
+   "en": "Internet ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据结构元备份",
+   "en": "data structure meta backup",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能准则（IBM）",
+   "en": "AI Ethics (IBM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理数据管理协议",
+   "en": "ethical data management protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "慎独",
+   "en": "Shendu&nbsp;(Ethical Self-cultivation)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "党的作风建设",
+   "en": "promoting ethical standards within the Party",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数权自律",
+   "en": "Self-Regulation and Professional Ethics for Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网行业职业道德建设",
+   "en": "development of professional ethics in the Internet industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国互联网行业自律公约》",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for China’s Internet Industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《人工智能行业自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for the AI Industry (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国大数据行业自律公约》",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for China’s Big Data Industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国数据中心行业自律公约》",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for China’s Data Center Industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网终端安全服务自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for Internet Terminal Security Services (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "历史多元论",
+   "en": "pluralistic history",
+   "source": "社会学名词",
+   "wordNumber": "2.9.5.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁理论",
+   "subjectName": "社会变迁理论",
+   "publishYear": "2025",
+   "definition": "认为决定历史发展变迁的因素是多元的，各种因素独立存在并影响着社会的发展变迁的理论。美国实用主义哲学家詹姆士、杜威等人都持历史多元论观点。"
+  },
+  {
+   "cn": "Meta分析",
+   "en": "meta analysis",
+   "source": "社会医学名词",
+   "wordNumber": "4.7.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "文献研究",
+   "publishYear": "2025",
+   "definition": "针对某一具体问题，系统、全面收集已经发表的相关文献或未发表的相关研究数据，进行定量整合，得出综合性结论的研究方法。是一种对许多独立研究结果进行整合的统计分析方法。"
+  },
+  {
+   "cn": "多元健康治理",
+   "en": "pluralistic health governance",
+   "source": "社会医学名词",
+   "wordNumber": "6.1.4",
+   "subjectFullName": "健康治理",
+   "subjectName": "治理",
+   "publishYear": "2025",
+   "definition": "政府、市场、社会组织、公众等多元主体，基于平等协商原则，通过构建制度化协作机制和平台、运用多样化手段和工具，推动健康问题协同解决并共享健康利益的动态治理过程。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "社会成员与其他社会成员和外界互动中应当遵守的基于社会习俗和道德的规范总和。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.003",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人相处的各种道德准则及规范的理论或道理。"
+  },
+  {
+   "cn": "荟萃分析",
+   "en": "meta-analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.158",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将对同一个主题的若干分析结果作为数据以综合研究发现，得出更精确的参数估计的统计分析技术。"
+  },
+  {
+   "cn": "元学习",
+   "en": "meta-learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.13",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "学习者对学习过程的认知和控制。元认知的一个分支，即元认知在学习领域的拓展应用。"
+  },
+  {
+   "cn": "伦理绝对主义",
+   "en": "ethical absolutism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1520000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为人的道德观念、道德情感、道德情操和道德品质源于永恒不变的神性、理性或人的自然性，是绝对完美的；否定道德发展的相对性、历史性、民族性和进步性，主张建立一种适用于一切历史时代和一切民族的绝对的道德真理"
+  },
+  {
+   "cn": "伦理性宗教",
+   "en": "ethical religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.8",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "以伟大导师所形成的价值理想或模范、伦理约束力为核心的宗教，佛教、儒教和道教被认为是其典型。"
+  },
+  {
+   "cn": "伦理两难",
+   "en": "ethical dilemmas",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "当专业核心价值观和伦理守则中对专业人员的责任与义务要求发生相互之间冲突的情形时，社会工作者必须决定何种价值优先考虑而出现的困难。常见的有：为案主保守秘密与生命价值优先原则；个人价值与职业价值之间、个人"
+  },
+  {
+   "cn": "伦理社会主义",
+   "en": "ethical socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0328",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪末产生于德国的一种以康德唯心主义伦理思想为基础的“社会主义”学说。主要代表人物是新康德主义者赫尔曼·柯亨（（Hermann Cohen）等。认为社会由低级到高级的发展不是不同的社会制度的更替,"
+  },
+  {
+   "cn": "伦理困境",
+   "en": "ethical dilemma",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.063",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在特定的伦理境遇下，依据不同的伦理学理论、原则和规范，存在相互矛盾的解决方案而面临的困境。是不同道德体系冲突的集中反映。"
+  },
+  {
+   "cn": "伦理辩护",
+   "en": "ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.062",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对某些现象、行为或观点的合理性进行道德论证的行为。"
+  },
+  {
+   "cn": "伦理客观主义",
+   "en": "ethical objectivism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1540000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用客观主义观点认识和解释道德现象、道德本质的伦理学理论。认为道德现象的产生与道德判断是独立于人的，与人们的需要、利益没有任何关联。"
+  },
+  {
+   "cn": "自然主义伦理学",
+   "en": "ethical naturalism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.148",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "从自然规律和人的生理、心理特征中引申出道德要求，在人的自然本性中寻找决定人的行为目的、动机和原则，并依据自然科学的材料和方法加以论证而建立起来的伦理学理论。试图从自然科学角度研究人类社会面临的道德问题"
+  },
+  {
+   "cn": "伦理相对主义",
+   "en": "ethical relativism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.153",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为道德现象的认识、理论和评价没有绝对的对与错，只有因立场不同、条件差异而相互对立的伦理学理论。在涉及伦理困境的境遇中，这种理论有一定的适用性。其实质是主观唯心主义的，不承认道德的历史继承性，最终会导"
+  },
+  {
+   "cn": "伦理主观主义",
+   "en": "ethical subjectivism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.155",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用主观主义观点认识和解释道德本质与道德判断的伦理观点。认为道德是人的精神产物，道德判断必须以人们对各种道德现象的反映方式、道德心理为基础。"
+  },
+  {
+   "cn": "直觉主义伦理学",
+   "en": "ethical intuitionism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.159",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为道德概念和道德判断不能通过经验和理性来认识和确证，只能靠先天的道德直觉来把握的伦理学理论。包括：价值论直觉主义、义务论直觉主义。前者认为“善的”和“善的事物”只能通过直觉来直接接受它或否定它，而不"
+  },
+  {
+   "cn": "伦理学体系",
+   "en": "ethical system",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.004",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "伦理学范畴、理论、原则、规范、准则及伦理实践的统一体。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

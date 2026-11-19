@@ -1,0 +1,702 @@
+{
+ "key": "immunity",
+ "term": "Immunity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:59:25+00:00",
+ "status": "ok",
+ "note": "variant=Immunity; 审定公布名词库=826; 海峡两岸名词对照库=358; 其他来源数据库=68; 预公布名词数据库=189; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "免疫性",
+   "en": "immunity ",
+   "source": "草学名词",
+   "wordNumber": "7.0366",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "免蚀态",
+   "en": "immunity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0473",
+   "subjectFullName": "机械工程（一）_机械表面与界面_腐蚀与防护_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "当某金属的负电位足够大，它在溶液中的平衡离子活度低于某一临界值时，腐蚀效应消失或者可以忽略不计时腐蚀体系的状态。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immunity",
+   "source": "器官移植学名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "器官移植学_器官移植免疫学",
+   "subjectName": "器官移植免疫学",
+   "publishYear": "2020",
+   "definition": "机体识别和排除抗原性异物，即机体区分自己与非己而排除异己的功能。通常对机体有利，但在某些条件下也可对机体有害。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immunity",
+   "source": "感染病学名词",
+   "wordNumber": "01.0145",
+   "subjectFullName": "感染病学_总论_宿主防御机制",
+   "subjectName": "宿主防御机制",
+   "publishYear": "2019",
+   "definition": "机体免疫系统对一切异物或抗原性物质进行非特异或特异性识别和排斥清除的一种生理学功能。机体抵抗病原微生物感染的免疫机制主要包括非特异性免疫和特异性免疫。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immunity",
+   "source": "细胞生物学名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "细胞生物学_细胞免疫",
+   "subjectName": "细胞免疫",
+   "publishYear": "2009",
+   "definition": "机体识别和排除抗原性异物即机体区分自己与非己进而排除异己的功能。通常对机体有利，但在某些条件下也可对机体有害。"
+  },
+  {
+   "cn": "免疫[力]",
+   "en": "immunity",
+   "source": "免疫学名词",
+   "wordNumber": "1.02",
+   "subjectFullName": "免疫学_概论_免疫学相关名词",
+   "subjectName": "免疫学相关名词",
+   "publishYear": "2007",
+   "definition": "机体抵抗感染的能力。"
+  },
+  {
+   "cn": "抗干扰性",
+   "en": "immunity",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.131",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在传输过程中，接收机或终端设备减少或排除干扰对其有用信号影响的能力。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immunity",
+   "source": "水产名词",
+   "wordNumber": "07.066",
+   "subjectFullName": "水产_水产生物病害及防治",
+   "subjectName": "水产生物病害及防治",
+   "publishYear": "2002",
+   "definition": "机体免疫系统对一切异物或抗原性物质进行非特异或特异性识别和排斥清除的一种生理学功能。"
+  },
+  {
+   "cn": "抗[骚]扰度",
+   "en": "immunity",
+   "source": "电气工程名词",
+   "wordNumber": "30.081",
+   "subjectFullName": "电气工程_电磁干扰和电磁兼容",
+   "subjectName": "电磁干扰和电磁兼容",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "免疫[力]",
+   "en": "immunity",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.042",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "抗干扰性",
+   "en": "immunity",
+   "source": "石油名词",
+   "wordNumber": "08.0175",
+   "subjectFullName": "石油_海洋石油技术_海洋石油勘探",
+   "subjectName": "海洋石油勘探",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "免疫",
+   "en": "immune",
+   "source": "兽医学名词",
+   "wordNumber": "14.002",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "动物机体对自身和非自身物质的识别，并清除非自身的大分子物质，保持机体内、外环境平衡的一种生理性反应。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immune ",
+   "source": "草学名词",
+   "wordNumber": "7.0365",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "免疫法",
+   "en": "immunization",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_临床与治疗",
+   "subjectName": "临床与治疗",
+   "publishYear": "2019",
+   "definition": "采用灭活或毒性很小的菌苗、疫苗、类毒素来激活人体的免疫功能，使人体产生特异性免疫力的方法。"
+  },
+  {
+   "cn": "免疫接种",
+   "en": "immunization",
+   "source": "免疫学名词",
+   "wordNumber": "5.156",
+   "subjectFullName": "免疫学_5应用免疫_免疫预防",
+   "subjectName": "免疫预防",
+   "publishYear": "2007",
+   "definition": "一种免疫预防策略。即将抗原引入机体，人为地诱发和加强针对所引入抗原的适应性免疫应答。"
+  },
+  {
+   "cn": "获得性免疫",
+   "en": "acquired immunity;adaptive immunity",
+   "source": "兽医学名词",
+   "wordNumber": "14.167",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "个体出生后通过与病原微生物接触或疫苗免疫接种所产生的免疫力。"
+  },
+  {
+   "cn": "基础免疫",
+   "en": "basic immunization, fundamental immunity",
+   "source": "感染病学名词",
+   "wordNumber": "01.0369",
+   "subjectFullName": "感染病学_总论_感染病预防",
+   "subjectName": "感染病预防",
+   "publishYear": "2019",
+   "definition": "机体首次完成某种疫苗的接种。一般根据传染病种类及其疫苗制剂的特点，在一定范围内对易感者进行的基本免疫。如对8个月以上未患麻疹的儿童常规进行麻疹预防免疫接种，7岁以下儿童接种百日咳、白喉及破伤风混合疫苗"
+  },
+  {
+   "cn": "免疫规划",
+   "en": "planned immunization,immunization program",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.035",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "根据疫情监测和人群免疫状况分析，按照规定的免疫程序，有计划、有组织地利用疫苗进行预防接种，以提高人群的免疫水平，达到控制乃至最终消灭相应传染病目的的方 法。"
+  },
+  {
+   "cn": "社区免疫",
+   "en": "community immunity",
+   "source": "感染病学名词",
+   "wordNumber": "01.0371",
+   "subjectFullName": "感染病学_总论_感染病预防",
+   "subjectName": "感染病预防",
+   "publishYear": "2019",
+   "definition": "根据某种传染病流行区域与人群发病等流行病学特点，在人群中进行大规模的疫苗或菌苗接种以预防和控制其传播流行。如初冬季节人群普遍接种流行性感冒疫苗以预防流行性感冒等。"
+  },
+  {
+   "cn": "社区免疫",
+   "en": "community immunity",
+   "source": "免疫学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "免疫学_概论_免疫学相关名词",
+   "subjectName": "免疫学相关名词",
+   "publishYear": "2007",
+   "definition": "社区群体中大部分个体已对特定病原体具有免疫力，以致一个已患病个体在此群体中传染他人的可能性变小。"
+  },
+  {
+   "cn": "免疫[力]",
+   "en": "immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫[力]",
+   "en": "immunity",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫性",
+   "en": "immunity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "免疫作用",
+   "en": "immunization",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "免疫接种",
+   "en": "immunization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "社区免疫",
+   "en": "community immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫电极",
+   "en": "Immunity electrode",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞免疫",
+   "en": "cellular immunity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "主动免疫[性]",
+   "en": "active immunity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天然免疫",
+   "en": "natural immunity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主权豁免",
+   "en": "sovereign immunity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "伴随免疫",
+   "en": "concomitant immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "保护性免疫",
+   "en": "protective immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "出生后免疫，后天免疫",
+   "en": "postnatal immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "感染免疫",
+   "en": "infection immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "固有免疫，先天免疫",
+   "en": "innate immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "过继免疫",
+   "en": "adoptive immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "获得性免疫",
+   "en": "acquired immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据群落",
+   "en": "data community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链社区",
+   "en": "blockchain community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学共同体",
+   "en": "scientific community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Apache社区",
+   "en": "Apache community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社群动力学",
+   "en": "community dynamics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生活共同体",
+   "en": "living community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络社群",
+   "en": "Network Community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线社区",
+   "en": "online community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术社群",
+   "en": "technical community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏感",
+   "en": "immunity sensitivity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "机体对无害物质产生过敏反应。"
+  },
+  {
+   "cn": "固有免疫",
+   "en": "innate immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.2",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "个体在长期进化中所形成的、与生俱有的抵抗病原体侵袭、清除体内抗原性异物的防御能力。由固有免疫分子和固有免疫细胞所执行。并非针对特定抗原，是机体抵御病原体感染的第一道防线。"
+  },
+  {
+   "cn": "适应性免疫",
+   "en": "adaptive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体出生后通过与抗原物质接触由淋巴细胞产生的一系列防御功能，主要由T淋巴细胞和B淋巴细胞介导，清除抗原，产生免疫记忆，具有特异性、多样性和记忆性。"
+  },
+  {
+   "cn": "主动免疫",
+   "en": "active immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体对抗原刺激产生特异性应答所建立的免疫。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体通过获得外源性免疫效应分子(如抗体等)或免疫效应细胞而获得的相应免疫。"
+  },
+  {
+   "cn": "人工免疫",
+   "en": "artificial immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.6",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "经人工接种而使机体主动或被动获得免疫力 。"
+  },
+  {
+   "cn": "过继免疫",
+   "en": "adoptive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.7",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "一种被动免疫策略，将已被免疫个体的致敏淋巴细胞或抗体输入另一个体而使之被动获得相应的特异性免疫功能。"
+  },
+  {
+   "cn": "感染免疫",
+   "en": "infection immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.8",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体在不清除体内感染的情况下而具备的抵抗大量病原体的免疫能力。宿主的免疫力随病原微生物在体内存在而存在，一旦离开此环境或病原微生物消失，免疫力也随之消失。"
+  },
+  {
+   "cn": "群体免疫",
+   "en": "herd immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.9",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "人群对于传染病的侵入和传播的抵抗力。社区群体中大部分个体已对特定病原体具有免疫力，使一个已患病个体在此群体中传染他人的可能性变小。"
+  },
+  {
+   "cn": "细胞免疫",
+   "en": "cellular immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.12",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "狭义的细胞免疫仅指T细胞介导的免疫应答，即T细胞受到抗原刺激后，分化、增殖、转化为致敏T细胞，当相同抗原再次进入机体，致敏T细胞对抗原的直接杀伤作用及致敏T细胞所释放的细胞因子的协同杀伤作用。广义还应"
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.13",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "通过效应B细胞（浆细胞）分泌抗体，并与抗原发生特异性结合来清除抗原，以达到保护目的的免疫机制。"
+  },
+  {
+   "cn": "黏膜免疫",
+   "en": "mucosal immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.14",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "存在于黏膜的各种特异性与非特异性细胞免疫和体液免疫因子所构成的黏膜的局部免疫。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.3.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫治疗",
+   "subjectName": "免疫治疗",
+   "publishYear": "2025",
+   "definition": "机体被动接受抗体、致敏淋巴细胞或其产物所获得的特异性免疫能力。它与主产生的自动免疫不同，其特点是效应快，不需经过潜伏期，一经输入，立即可获得免疫力。但维持时间短。。"
+  },
+  {
+   "cn": "主动免疫",
+   "en": "active immunity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "向体内输入具有免疫原性的物质，诱导机体产生特异性免疫应答的过程。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "直接给机体输入免疫效应分子或免疫细胞使之获得相应免疫力的过程。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.6.1.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器伤害医学防护",
+   "subjectName": "生物武器伤害医学防护",
+   "publishYear": "2025",
+   "definition": "机体被动接受抗体、致敏淋巴细胞或其产物所获得的特异性免疫力。"
+  },
+  {
+   "cn": "固有免疫",
+   "en": "innate immunity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "机体抵御病原体入侵的第一道防线，其识别抗原不具有高度特异性，可通过一类模式识别受体识别病原生物表达的免疫过程。"
+  },
+  {
+   "cn": "主动免疫",
+   "en": "active immunity",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.6.1.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器伤害医学防护",
+   "subjectName": "生物武器伤害医学防护",
+   "publishYear": "2025",
+   "definition": "将疫苗（病原体抗原）或类毒素接种于人体，使机体产生抗体获得免疫力。"
+  },
+  {
+   "cn": "免疫应答",
+   "en": "immune response",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.1",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体对抗原刺激的应答过程，即免疫细胞识别、摄取、处理抗原、继而活化、增殖、分化、产生免疫效应的过程,包括识别相、中枢相和效应相。"
+  },
+  {
+   "cn": "免疫器官",
+   "en": "immune organ",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.2.1",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫器官",
+   "subjectName": "免疫器官",
+   "publishYear": "2025",
+   "definition": "免疫细胞发生、发育、成熟和产生免疫应答的器官，分为中枢免疫器官和外周免疫器官。中枢免疫器官包括骨髓和胸腺；外周免疫器官包括淋巴结、脾脏、黏膜相关淋巴组织等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

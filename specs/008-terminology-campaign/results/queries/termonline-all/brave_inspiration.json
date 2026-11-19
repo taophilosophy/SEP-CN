@@ -1,0 +1,672 @@
+{
+ "key": "brave inspiration",
+ "term": "brave inspiration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:37:28+00:00",
+ "status": "ok",
+ "note": "variant=brave inspiration; 审定公布名词库=561; 海峡两岸名词对照库=91; 其他来源数据库=34; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "灵感",
+   "en": "inspiration",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.219",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "基于已有知识和经验，在意识高度集中之后，思维产生的突发性飞跃和敏锐的顿悟。是创造性思维的体现。"
+  },
+  {
+   "cn": "吸气",
+   "en": "inspiration",
+   "source": "兽医学名词",
+   "wordNumber": "04.258",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "肺扩大引起肺泡内压低于大气压，外界气体经呼吸道进入肺泡的过程。"
+  },
+  {
+   "cn": "吸气",
+   "en": "inspiration",
+   "source": "生理学名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "生理学_呼吸生理学",
+   "subjectName": "呼吸生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吸气",
+   "en": "inspiration",
+   "source": "运动医学名词",
+   "wordNumber": "02.089",
+   "subjectFullName": "运动医学_运动生理_呼吸功能",
+   "subjectName": "呼吸功能",
+   "publishYear": "2019",
+   "definition": "胸腔的上下、前后和左右径增大，引起胸腔和肺容积增大，肺内压低于大气压，外界气体进入肺内的过程。"
+  },
+  {
+   "cn": "吸气",
+   "en": "inspiration",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.116",
+   "subjectFullName": "呼吸病学_肺功能_肺通气",
+   "subjectName": "肺通气",
+   "publishYear": "2018",
+   "definition": "外界气体吸入肺泡的过程。"
+  },
+  {
+   "cn": "吸气",
+   "en": "inspiration",
+   "source": "核医学名词",
+   "wordNumber": "04.1367",
+   "subjectFullName": "核医学_临床核医学_呼吸系统核医学_呼吸系统解剖生理基础",
+   "subjectName": "呼吸系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "由于呼吸肌收缩，膈肌下降、胸腔扩大加强胸膜腔负压，牵引肺内压下降，空气顺压力差入肺的过程与动作。"
+  },
+  {
+   "cn": "灵感",
+   "en": "inspiration",
+   "source": "心理学名词",
+   "wordNumber": "02.678",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "因思维过程中的认识飞跃而突然产生的新想法。"
+  },
+  {
+   "cn": "双吸气",
+   "en": "double inspiration",
+   "source": "呼吸病学名词",
+   "wordNumber": "06.036",
+   "subjectFullName": "呼吸病学_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2018",
+   "definition": "在呼吸过程中连续两次吸气动作后再呼气的呼吸形式。类似哭啼后的抽泣。常见于颅内压增高或脑疝早期患者，为呼吸停止的先兆。"
+  },
+  {
+   "cn": "吸气管",
+   "en": "inspiration tube",
+   "source": "呼吸病学名词",
+   "wordNumber": "12.014",
+   "subjectFullName": "呼吸病学_机械通气_呼吸机",
+   "subjectName": "呼吸机",
+   "publishYear": "2018",
+   "definition": "连接管为单气路或双气路时，接受呼吸机送出气体的管道部分。"
+  },
+  {
+   "cn": "灵感思维",
+   "en": "inspirational thinking",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.180",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "在百思而不解的长期思考之后的某一刹那间，因某事物或现象的启发而触类旁通、见微知著、顿然醒悟、豁然开朗、急中生智地解决问题的思维过程。它是审美主体经长期积累、艰苦探索后不知不觉、不期而至的一种审美创造性"
+  },
+  {
+   "cn": "吸入气",
+   "en": "inspired gas",
+   "source": "呼吸病学名词",
+   "wordNumber": "10.010",
+   "subjectFullName": "呼吸病学_氧和二氧化碳代谢_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2018",
+   "definition": "人体经鼻腔、口腔或人工气道等吸入的，进入气道前的气体。正常情况下是环境气体，机械通气时则为设定的空氧混合气。"
+  },
+  {
+   "cn": "吸入气",
+   "en": "inspired gas",
+   "source": "医学名词 第一分册",
+   "wordNumber": "05.164",
+   "subjectFullName": "医学_呼吸病学",
+   "subjectName": "呼吸病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "咆哮西风带",
+   "en": "brave west wind",
+   "source": "大气科学名词",
+   "wordNumber": "08.343",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "南纬40°～65°及其邻近海域内全年都出现的持续性强劲西风。"
+  },
+  {
+   "cn": "咆哮西风带",
+   "en": "brave west wind",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0476",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋气象学",
+   "subjectName": "海洋气象学",
+   "publishYear": "2007",
+   "definition": "在南纬40°～65°之间，几乎全年持续有强劲西风的海域。"
+  },
+  {
+   "cn": "仿生计算",
+   "en": "biologically inspired computing,bio-inspired computing",
+   "source": "生物物理学名词",
+   "wordNumber": "07.204",
+   "subjectFullName": "生物物理学_生物控制论_仿生学",
+   "subjectName": "仿生学",
+   "publishYear": "2018",
+   "definition": "生物学、计算机科学和数学的交叉学科。用计算机对生物系统进行建模，又反过来通过研究生物系统来改进计算机。"
+  },
+  {
+   "cn": "肾主纳气",
+   "en": "kidney governing inspiration",
+   "source": "兽医学名词",
+   "wordNumber": "19.076",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "肾具有摄纳肺所吸入的清气，维持正常呼吸的功能。"
+  },
+  {
+   "cn": "肾主纳气",
+   "en": "kidney governing inspiration",
+   "source": "中医药学名词",
+   "wordNumber": "03.163",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "肾具有摄纳肺所吸入的清气，维持正常呼吸的功能。"
+  },
+  {
+   "cn": "仿生机器人学",
+   "en": "biologically inspired robotics",
+   "source": "生物物理学名词",
+   "wordNumber": "07.193",
+   "subjectFullName": "生物物理学_生物控制论_仿生学",
+   "subjectName": "仿生学",
+   "publishYear": "2018",
+   "definition": "机器人学和生命科学的交叉学科。其目的是从研究动物的行为机制中受到启发，并应用于设计出更富灵活性、鲁棒性、类似于动物相应功能的机器人。"
+  },
+  {
+   "cn": "吸入气氧流量",
+   "en": "inspired oxygen flow",
+   "source": "呼吸病学名词",
+   "wordNumber": "10.036",
+   "subjectFullName": "呼吸病学_氧和二氧化碳代谢_氧代谢",
+   "subjectName": "氧代谢",
+   "publishYear": "2018",
+   "definition": "自然呼吸空气的情况下，每分钟通过鼻导管、面罩等机械装置额外吸氧的流量。常用单位为L/min。"
+  },
+  {
+   "cn": "闯关东",
+   "en": "brave the journey to northeast ",
+   "source": "草学名词",
+   "wordNumber": "8.0107",
+   "subjectFullName": "草学_草原文化",
+   "subjectName": "草原文化",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "灵感",
+   "en": "inspiration",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "咆哮西风带",
+   "en": "brave west wind",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "咆哮西风带",
+   "en": "brave west wind belt",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "补肾纳气",
+   "en": "improving inspiration bu invigorating the kidney",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸",
+   "en": "respiration",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸[作用]",
+   "en": "respiration",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸",
+   "en": "respiration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸",
+   "en": "respiration",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸",
+   "en": "respiration",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸",
+   "en": "respiration",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "阴离子呼吸（=盐呼吸）",
+   "en": "anion respiration (=salt respiration)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连谱号",
+   "en": "brace",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "撑杆",
+   "en": "brace",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "通信中用以代表字的词“B”",
+   "en": "bravo",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抱负水平",
+   "en": "aspiration level\",\"level of aspiration",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生热呼吸（=抗氰呼吸）",
+   "en": "thermogenic respiration (=cyanide-resistant respiration)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内呼吸",
+   "en": "internal respiration",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胎盘呼吸",
+   "en": "placental respiration",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外呼吸",
+   "en": "external respiration",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "暗呼吸",
+   "en": "dark respiration",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "意兴",
+   "en": "Inspirational Appreciation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兴象",
+   "en": "Xingxiang (Inspiring Imagery)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑计算",
+   "en": "brain-inspired computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑科学",
+   "en": "Brain-Inspired Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑处理器",
+   "en": "brain-inspired processor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑智能",
+   "en": "brain-inspired intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑智能机器人",
+   "en": "brain-inspired intelligent robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逆行者",
+   "en": "people who brave a dangerous situation ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "见义勇为",
+   "en": "Act Bravely for a Just Cause",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "江山之助",
+   "en": "Inspiration from Mountains and Rivers",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "触兴致情",
+   "en": "Draw Inspiration from External Objects",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "迁想妙得",
+   "en": "Inspirational Creation Based on Association in Thinking",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民勇者战胜",
+   "en": "A Country with Brave People Can Win the Victory.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外师造化，中得心源",
+   "en": "Draw Artistic Inspiration from Both Within and Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "意静神王",
+   "en": "A Tranquil Mind Is a Source of Inspiration",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "迎难而上，勇敢应对",
+   "en": "to rise up to the challenge and respond to it bravely",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "刹车装置",
+   "en": "brake",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转动帆桁",
+   "en": "brace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支架",
+   "en": "brace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "刹车块",
+   "en": "brake block\",\"brake shoe",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "勇敢",
+   "en": "braveness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.109",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "为实现一定的道德目的，不怕困难、危险和牺牲的精神和行为。是对人们行为和品质的肯定性评价，是后天教育和自我修养的结果。"
+  },
+  {
+   "cn": "科学激励",
+   "en": "scientific inspiration",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.16",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "促成科学的兴起与发展的重要因素之一，分为外在因素和内在因素：前者包括社会经济、军事等实用的需要以及宗教、文化等价值因素；后者指科学的内在激励方式，比如对科学发现优先权的竞争。"
+  },
+  {
+   "cn": "风选",
+   "en": "aspiration",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.17",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "根据食物和杂质空气动力学性质的差别，利用气流进行分离的方法。常用于除去谷物中的泥灰、瘪谷等杂质。"
+  },
+  {
+   "cn": "负压吸引术",
+   "en": "vacuum aspiration",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "利用负压通过吸管将早期妊娠组织自宫腔吸出，以达到终止妊娠的手术方式。用于终止10周以内的妊娠。是我国自主发明的人工流产手术。"
+  },
+  {
+   "cn": "手动负压吸引术",
+   "en": "manual vacuum aspiration, MVA",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.3.1.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "使用一次性手动负压吸引器和双窗吸管终止10周以内早孕的人工流产方法。使用本方法在手术中不需要常规扩张宫颈及吸宫后不需要常规刮匙搔刮宫腔，从而提高手术的安全性，减少手术的风险和痛苦。"
+  },
+  {
+   "cn": "实现国家统一是民族的愿望",
+   "en": "achieve national reunification is the nations aspiration",
+   "source": "马克思主义",
+   "wordNumber": "03.0595",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1984年，邓小平在会见香港同胞时指出：实现国家统一是民族的愿望。他创造性地提出“一国两制”的构想，使香港、澳门相继回到祖国的怀抱。和平统一是中国政府的一贯立场，但绝不排除使用武力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

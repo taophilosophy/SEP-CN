@@ -1,0 +1,772 @@
+{
+ "key": "fairness measures",
+ "term": "fairness measures",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:48:28+00:00",
+ "status": "ok",
+ "note": "variant=fairness measures; 审定公布名词库=1666; 海峡两岸名词对照库=281; 其他来源数据库=94; 预公布名词数据库=136; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "公平性",
+   "en": "fairness",
+   "source": "风景园林名词",
+   "wordNumber": "13.0016",
+   "subjectFullName": "风景园林_其他_景观社会学",
+   "subjectName": "景观社会学",
+   "publishYear": "2025",
+   "definition": "基于公众不同需求考虑的设施布局的合理性程度，其根本着眼点是要减小供给的不平等程度，让不同阶层的人们得以平等地享受各种相关服务。"
+  },
+  {
+   "cn": "公平性",
+   "en": "fairness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0653",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "佩特里网的一个重要的动态性质，关注佩特里网运行过程中变迁之间或变迁组之间的公平关系。"
+  },
+  {
+   "cn": "光顺",
+   "en": "fairing",
+   "source": "光学名词",
+   "wordNumber": "09.354",
+   "subjectFullName": "光学_光无源器件",
+   "subjectName": "光无源器件",
+   "publishYear": "2021",
+   "definition": "利用大面积抛光模对光学元件进行抛光，使其面形仅存在低频误差的加工过程。"
+  },
+  {
+   "cn": "市集",
+   "en": "fair",
+   "source": "世界历史名词",
+   "wordNumber": "02.0525",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "中世纪西欧规模较大或很大的贸易集市，不仅是区域性的，而且有时是国际性的贸易交换场所。"
+  },
+  {
+   "cn": "集市",
+   "en": "fair",
+   "source": "地理学名词",
+   "wordNumber": "18.211",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "在固定地点定期地举行的商贸活动，以农副产品为主，常伴有娱乐表演。"
+  },
+  {
+   "cn": "整流罩",
+   "en": "fairing",
+   "source": "航天科学技术名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "航天科学技术_航天运载器",
+   "subjectName": "航天运载器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "整流罩",
+   "en": "fairing",
+   "source": "航空科学技术名词",
+   "wordNumber": "02.088",
+   "subjectFullName": "航空科学技术_航空器",
+   "subjectName": "航空器",
+   "publishYear": "2003",
+   "definition": "飞机上罩于外突物或结构外形不连续处以减少空气阻力的流线型构件。"
+  },
+  {
+   "cn": "风嘴",
+   "en": "fairing",
+   "source": "土木工程名词",
+   "wordNumber": "06.148",
+   "subjectFullName": "土木工程_桥梁工程_桥梁设计",
+   "subjectName": "桥梁设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "信息公平",
+   "en": "information fairness",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.035",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "信息在个人、群体、地区、族群以及其他各种社会组织之间的合理分配，使所有人在生活中都有机会获得对他们来说至关重要及有意义的全部信息。"
+  },
+  {
+   "cn": "结果公平",
+   "en": "outcome fairness",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0110",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "人们对于自己所得到的结果与其他人所得到的结果相比而做出的一种是否公平的判断。"
+  },
+  {
+   "cn": "花市",
+   "en": "flower fair",
+   "source": "风景园林名词",
+   "wordNumber": "04.0216",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "集中出售花卉和园艺用品的集市。"
+  },
+  {
+   "cn": "中质牧草",
+   "en": "fair forage ",
+   "source": "草学名词",
+   "wordNumber": "3.0031",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "合理使用",
+   "en": "fair use",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.06.001",
+   "subjectFullName": "编辑与出版学_著作权_著作权限制与著作权保护",
+   "subjectName": "著作权限制与著作权保护",
+   "publishYear": "2022",
+   "definition": "在法律规定或作者无保留相关权利的条件下，直接无偿使用已发表的享有著作权的作品，而无须经著作权人许可的著作财产权限制制度。合理使用所限制的是著作财产权，不影响著作人身权，即使用时应当指明作者姓名、作品名"
+  },
+  {
+   "cn": "清绘",
+   "en": "fair drawing",
+   "source": "测绘学名词",
+   "wordNumber": "04.324",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "将实测原图或编绘原图按照图式、规范和编辑要求进行线划整饰，得到图面质量符合出版要求的一种绘图作业。"
+  },
+  {
+   "cn": "自由放任",
+   "en": "laisser-faire",
+   "source": "经济学名词",
+   "wordNumber": "03.018",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "一种要求自由地发展资本主义经济、反对国家干预的理论和政策主张。这一名词最先由法国重农学派先驱达·让逊侯爵提出，以魁奈为首的法国重农学派明确提出了自由放任主义的理论与政策主张，斯密进一步阐述了自由放任原"
+  },
+  {
+   "cn": "公平价值",
+   "en": "fair value",
+   "source": "经济学名词",
+   "wordNumber": "13.144",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "在反倾销调查中与进口商品的购买价格相比较的参考价格。根据出口商及产品生产国的情况，可以分别采用出口国国内市场价格、调查期间第三国的价格或该商品在产地的生产成本加合理的销售费用和利润后形成的价格。"
+  },
+  {
+   "cn": "图书博览会",
+   "en": "book fair",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.085",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_阅读辅导",
+   "subjectName": "阅读辅导",
+   "publishYear": "2019",
+   "definition": "采用陈列展览的形式向读者和图书馆直接宣传、报道和推荐图书的一种服务方式。"
+  },
+  {
+   "cn": "公平网",
+   "en": "fair net",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0654",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "对一个网 N，若配置任意初始标识<img src='/root/syzx/static/spz/jsjkx3.02.0635.001.png'/>，（N,<img src='/root/syzx/st"
+  },
+  {
+   "cn": "公平关系",
+   "en": "fair relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0656",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "说一个佩特里网中的两个变迁处于公平关系，是指在其中一个变迁不发生的情况下，另一个变迁发生的次数不超过某常数。"
+  },
+  {
+   "cn": "公允价值",
+   "en": "fair value",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0164",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "在公平交易中，熟悉情况的交易双方自愿进行资产交换或者清偿债务的金额。"
+  },
+  {
+   "cn": "公平性",
+   "en": "fairness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集市",
+   "en": "fair",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "分配公平性",
+   "en": "distributional fairness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公平租金",
+   "en": "fair rent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际博览会",
+   "en": "international fair",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商品交易会",
+   "en": "commodity fair",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "清绘",
+   "en": "fair drawing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "清绘图",
+   "en": "fair chart",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "映绘",
+   "en": "fair tracing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "公平网",
+   "en": "fair net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "型线光顺",
+   "en": "lines fairing",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "晴天电",
+   "en": "fair weather electricity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "美丽的梅露西娜",
+   "en": "Melusina\",\"The Fair",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mendelssohn (Bartholdy), Felix"
+  },
+  {
+   "cn": "窈窕淑女",
+   "en": "My Fair Lady",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Loewe, Frederick "
+  },
+  {
+   "cn": "文化公平测验",
+   "en": "culture fair test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公平交易惯例",
+   "en": "fair trade practice",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公平交易价格",
+   "en": "fair trade price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际贸易交易会",
+   "en": "international trade fair",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "集市周期",
+   "en": "periodicity of fair",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "火工矫形",
+   "en": "fairing by flame",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "界内！",
+   "en": "Fair!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公正",
+   "en": "Fair / Just",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "FAIR化的元数据",
+   "en": "FAIR metadata",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分配公平化",
+   "en": "fair distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公平比赛",
+   "en": "fair play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公平竞争",
+   "en": "fair play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "界内区",
+   "en": "fair territory",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "界内球",
+   "en": "fair ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "导缆器",
+   "en": "fair lead",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公平航行",
+   "en": "fair sailing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测量",
+   "en": "measure\",\"measurement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "云选会",
+   "en": "cloud job fair",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "丈量员",
+   "en": "measurer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合理冲撞",
+   "en": "fair charge\",\"legal charge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预防措施",
+   "en": "preventive measures",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可度量的服务",
+   "en": "measured service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公平",
+   "en": "fairness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.123",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "不偏袒。从特定的时间、地点、条件出发，以客观事实为依据，排除个人有形或无形的私利和偏见，以一种高度责任感，合情合理地判断、调节、排解人与人之间的各种利益关系或利益冲突的一种基本行为准则。"
+  },
+  {
+   "cn": "集市",
+   "en": "fair",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0158",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "定期聚集进行的商品交易活动形式，常附带民间娱乐活动。"
+  },
+  {
+   "cn": "那达慕大会",
+   "en": "Nadam Fair",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0214",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "蒙古族聚居地区的群众在七八月份举行的一种传统盛会，起源于蒙古汗国建立初期。古代和近代的那达慕盛会都要进行男子“三艺”——摔跤、赛马和射箭的竞技赛。当代的那达慕大会除了进行男子三项竞技外，还增加了马球、"
+  },
+  {
+   "cn": "公正定价",
+   "en": "fair pricing",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "卫生系统和患者个人均可承受的价格。"
+  },
+  {
+   "cn": "庙会",
+   "en": "temple fair",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0164",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以庙宇为中心，定期或不定期举行的群众性信仰祭祀活动，同时具有商贸和游艺功能。"
+  },
+  {
+   "cn": "机会平等",
+   "en": "fair opportunity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.057",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "每一个人平等地拥有获得社会资源、利益分配、资格待遇的可能性。"
+  },
+  {
+   "cn": "过程公平",
+   "en": "fair process",
+   "source": "社会医学名词",
+   "wordNumber": "3.2.4",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有社会成员在参与经济社会活动时，必须遵循公平的规则和程序，即确保规则公平与程序公正。"
+  },
+  {
+   "cn": "三月街",
+   "en": "Third Month Fair",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0188",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国白族传统节日；因在每年农历三月举行，故名。每年农历三月十五日在云南大理古城城西举行，节期5～7 天，已有1000 多年的历史。1991 年起，节日被定为“大理白族自治州三月街民族节”，附近的汉、彝"
+  },
+  {
+   "cn": "起点公平",
+   "en": "fair starting point",
+   "source": "社会医学名词",
+   "wordNumber": "3.2.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "社会成员在参与经济活动时依法享有平等的权利，包括平等的参与机会、发展机会和共享机会，即实现权利公平与机会公平。"
+  },
+  {
+   "cn": "测量",
+   "en": "measurement",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在研究中，根据规定的量度把一定的数值赋予所要研究对象的特定水平或性质的某种状态的过程。"
+  },
+  {
+   "cn": "赶场",
+   "en": "go to the fair",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0071",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "部分民族的商贸习俗，流行于华北各省、四川、云南、陕西等地乡镇。赶场日期有的在单日，有的在双日。一般清晨开场，中午散场。出售之物多为当地农副产品和日常生活用品。"
+  },
+  {
+   "cn": "防护措施",
+   "en": "protective measures",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.17",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "为避免或减少公众成员在应急照射情况下的剂量所采取的措施。包括紧急防护措施和长期防护措施。紧急防护措施有隐蔽、撤离和服用稳定碘;长期防护措施有临时迁避、永久性再定居和对食品与水的控制等。"
+  },
+  {
+   "cn": "心理生理测试",
+   "en": "psychophysiological measures",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "对受试者能够反映脑力活动状态和心理稳定状态的生理指标的测试。"
+  },
+  {
+   "cn": "测量量",
+   "en": "measured quantity",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.26",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "内照射个人监测结果的量。当采用直接测量法时，测量的是监测对象全身、器官或组织中放射性核素的活度；当采用间接测量法时，测量的是排泄物样本中放射性核素活度。 排泄物采样通常会采取24h内的样本。"
+  },
+  {
+   "cn": "安全措施",
+   "en": "safety measure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.21",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为实现安全规定中的基本要求，可能采取的任何行动、可能适用的任何条件或可能遵循的任何程序。"
+  },
+  {
+   "cn": "控制措施",
+   "en": "control measure",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.2",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用以防止或消除食品安全危害或将其降低到可接受水平所采取的任何活动。"
+  },
+  {
+   "cn": "消毒测量",
+   "en": "disinfection measurement",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.14",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "终末消毒前现场勘察，了解消毒区内面积和（或）体积，为计算所配制的消毒药物量而进行的测量。"
+  },
+  {
+   "cn": "测量腔室",
+   "en": "measuring chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.5.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_氡及其子体测量",
+   "subjectName": "氡及其子体测量",
+   "publishYear": "2025",
+   "definition": "采用不锈钢或有机玻璃等不易吸附氡的材料制作的，具有良好气密性且留有进出气口的规则容器。"
+  },
+  {
+   "cn": "测量不确定度",
+   "en": "measurement uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.22",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "利用可获得的信息，表征赋予被测量量值分散性的非负参数。"
+  },
+  {
+   "cn": "直接测量",
+   "en": "direct measurement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "直接在体外使用全身计数器或器官测量装置（肺、甲状腺等）开展的放射性核素测量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

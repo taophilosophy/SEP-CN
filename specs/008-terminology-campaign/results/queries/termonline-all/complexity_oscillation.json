@@ -1,0 +1,682 @@
+{
+ "key": "complexity oscillation",
+ "term": "complexity oscillation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:35:20+00:00",
+ "status": "ok",
+ "note": "variant=complexity oscillation; 审定公布名词库=1242; 海峡两岸名词对照库=488; 其他来源数据库=30; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "复振荡",
+   "en": "complex oscillation",
+   "source": "数学名词",
+   "wordNumber": "06.0068",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "振荡",
+   "en": "oscillation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.059",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "利用迭代法进行数值求解时，存在求解过程的收敛或发散，若迭代变量值不断重复相同的变化，虽不发散，但也一直不收敛的情况。"
+  },
+  {
+   "cn": "振荡",
+   "en": "oscillation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0009",
+   "subjectFullName": "机械工程（一）_机械动力学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "相对于给定的参考系，一个为时间函数的量值与其平均值相比，时大时小交替地变化的现象。"
+  },
+  {
+   "cn": "振荡",
+   "en": "oscillation",
+   "source": "物理学名词",
+   "wordNumber": "03.1013",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "振荡",
+   "en": "oscillation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "04.0060",
+   "subjectFullName": "化工（三）_化学反应工程",
+   "subjectName": "化学反应工程",
+   "publishYear": "2019",
+   "definition": "在反应器中某空间区域的浓度或/和温度发生周期性变化的现象。"
+  },
+  {
+   "cn": "振荡",
+   "en": "oscillation",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.396",
+   "subjectFullName": "呼吸病学_肺功能_脉冲振荡技术",
+   "subjectName": "脉冲振荡技术",
+   "publishYear": "2018",
+   "definition": "相对于给定的参考系，与其平均值相比，电磁振动随时间函数的量值呈时大时小交替变化的现象。有同步振荡和非同步振荡两种类型。"
+  },
+  {
+   "cn": "振荡",
+   "en": "oscillation",
+   "source": "大气科学名词",
+   "wordNumber": "06.321",
+   "subjectFullName": "大气科学_天气学",
+   "subjectName": "天气学",
+   "publishYear": "2009",
+   "definition": "某系统或某现象沿同一路线在其两个极限状态之间的周期或准周期的来回运动或变化。"
+  },
+  {
+   "cn": "振荡",
+   "en": "oscillation",
+   "source": "电气工程名词",
+   "wordNumber": "01.109",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "振荡",
+   "en": "oscillation",
+   "source": "化学工程名词",
+   "wordNumber": "04.060",
+   "subjectFullName": "化学工程_化学反应工程_反应动力学",
+   "subjectName": "反应动力学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "振荡",
+   "en": "oscillation",
+   "source": "电子学名词",
+   "wordNumber": "03.095",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "摆动",
+   "en": "oscillating",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.334",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_金属切削机床_机床运转与操作",
+   "subjectName": "机床运转与操作",
+   "publishYear": "2021",
+   "definition": "绕一定轴线在一定角度范围内的往复运动。"
+  },
+  {
+   "cn": "振子",
+   "en": "oscillator",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2085",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "用于结构物对地震动响应的理想化阻尼-质量-弹簧系统。如地震仪。 "
+  },
+  {
+   "cn": "振荡器",
+   "en": "oscillator",
+   "source": "物理学名词",
+   "wordNumber": "03.1014",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "振荡器",
+   "en": "oscillator",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.400",
+   "subjectFullName": "呼吸病学_肺功能_脉冲振荡技术",
+   "subjectName": "脉冲振荡技术",
+   "publishYear": "2018",
+   "definition": "不需要额外信号激励、自身就可将直流电能转换为具有一定频率的交流电能的能量转换装置。简单地说就是一个频率源。其构成的电路称振荡电路。振荡器可用于高频振荡呼吸机和脉冲振荡仪。"
+  },
+  {
+   "cn": "振荡器",
+   "en": "oscillator",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.556",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "产生周期性的量的有源器件。该量的基频取决于本器件的特性。"
+  },
+  {
+   "cn": "振荡器",
+   "en": "oscillator",
+   "source": "电气工程名词",
+   "wordNumber": "01.604",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "振荡器",
+   "en": "oscillator",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0055",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "集体振荡",
+   "en": "collective oscillation,mass oscillation",
+   "source": "物理学名词",
+   "wordNumber": "05.0734",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "复杂性",
+   "en": "complexity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.720",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "在本体论上，指事物的组分多元、结构复杂、功能多样等特性；在认识论上，指以传统理论或途径难以理解、难以分析以及难以处理的事物的特性。"
+  },
+  {
+   "cn": "复杂性",
+   "en": "complexity",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0340",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "混沌性的局部与整体之间的非线性形式。是环境条件改变的时候，不同行为模式之间的转换能力较弱的动态表现。"
+  },
+  {
+   "cn": "振荡",
+   "en": "oscillation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "振荡",
+   "en": "oscillation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "振荡",
+   "en": "oscillation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "oscillation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "振荡",
+   "en": "oscillation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "振[动]子",
+   "en": "oscillator",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复杂性",
+   "en": "complexity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "复杂性",
+   "en": "complexity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复杂性",
+   "en": "complexity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复杂性",
+   "en": "complexity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "络合剂",
+   "en": "complexant\",\"complexing agent",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "络合剂",
+   "en": "complexant （=complexing agent）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "情结",
+   "en": "complex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "复合体",
+   "en": "complex",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "络合物",
+   "en": "complex",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "络合作用",
+   "en": "complexation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "复形",
+   "en": "complex",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "络合物",
+   "en": "complex",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "络合物",
+   "en": "complex",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "次季节振荡",
+   "en": "subseasonal oscillation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复杂[性]理论",
+   "en": "Complexity Theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时间复杂性",
+   "en": "time complexity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空间复杂性",
+   "en": "space complexity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "复杂网络",
+   "en": "complex network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动作组合",
+   "en": "complex combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "complex figure",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算复杂性理论",
+   "en": "computational complexity theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "络合剂",
+   "en": "complexing agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.6",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "能提供电子对的配位基，并能与金属离子形成络合物的化合物。如果配位基中有两个或以上提供电子对的键合原子，而且在其间相隔2个或3个其他原子时，结构上常成环状或螯环。"
+  },
+  {
+   "cn": "复杂器械",
+   "en": "complex device",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.6",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "结构精细、复杂、易损，对清洗、消毒、灭菌处理有特殊方法和技术要求的医疗器械。"
+  },
+  {
+   "cn": "文化丛",
+   "en": "cultural complex",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "在历史上产生和发展起来的一组功能上相互联系、相互整合的文化物质体系，即相近相关的文化特质相互作用，并在时空中以一个单位而持续存在的现象。"
+  },
+  {
+   "cn": "复杂社会",
+   "en": "complex societies",
+   "source": "社会学名词",
+   "wordNumber": "4.2.6.13",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会组织",
+   "subjectName": "社会组织",
+   "publishYear": "2025",
+   "definition": "以社会分工为基本特色的有机整体。复杂社会是现代人衡量文明的形成的标准。"
+  },
+  {
+   "cn": "复杂劳动",
+   "en": "complex labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0055",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "需要经过专门训练和培养，具有特定文化知识和技能的质量较高的劳动者从事的劳动。在商品经济中通过各种市场机制，复杂劳动等于倍加或自乘的简单劳动。"
+  },
+  {
+   "cn": "免疫复合物",
+   "en": "immune complex",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.41",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "抗体与可溶性抗原结合而形成的复合物。抗体量足以交联抗原时形成大的免疫复合物，由网状内皮系统中表达Fc受体和补体受体的细胞所清除；抗原过量时则形成小的可溶性免疫复合物，沉积于小血管而造成小血管损伤。"
+  },
+  {
+   "cn": "俄狄浦斯情结",
+   "en": "Oedipus complex",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0442",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "奥地利精神病医师、心理学家、精神分析学派创始人弗洛伊德提出的观点，指男孩在潜意识当中渴望取代父亲，成为母亲伴侣的情感倾向。他认为，处在性器期的男孩会将母亲视为爱慕和性欲的对象，并将父亲视为其对手和阻碍"
+  },
+  {
+   "cn": "厄勒克特拉情结",
+   "en": "Electra complex",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0443",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "奥地利精神病医师、心理学家、精神分析学派创始人弗洛伊德提出的观点，指女孩在潜意识当中渴望取代母亲，成为父亲伴侣的情感倾向。最初，女孩的爱慕对象是直接照料她的母亲。但到了性器期，女孩发现自己没有男性生殖"
+  },
+  {
+   "cn": "复杂社会",
+   "en": "complex society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0017",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种分工发达、人口规模庞大的社会组织形态，与简单社会相对。复杂社会的复杂化一般包括一个社会的规模、其组成部分的数量和特点、其整合的特殊社会功能的多样性、其拥有的独特社会人格的数量及其多样性、社会功能整"
+  },
+  {
+   "cn": "烧瓶振荡抗菌试验",
+   "en": "flask oscillation antibacterial test",
+   "source": "消毒学",
+   "wordNumber": "6.2.34.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将一定量的抗菌织物碎片放入含菌悬液的烧瓶中，通过快速长时间的震荡，使试验菌与样品充分接触，评价非溶出性抗（抑）菌织物抗菌效果的试验。"
+  },
+  {
+   "cn": "络合氯消毒剂",
+   "en": "complex chloride disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以含氯离子配位体络合物为主要有效成分的含氯消毒剂。"
+  },
+  {
+   "cn": "络合碘消毒剂",
+   "en": "complex iodine disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.2.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "碘与表面活性剂和增溶剂形成的以含碘离子配位体络合物为主要成分的含碘消毒剂。"
+  },
+  {
+   "cn": "发现者情结",
+   "en": "discoverer’s complex",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.9",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家中普遍存在的追求科学发现优先权的心理情结，即对“最先发现”的强调和追求。"
+  },
+  {
+   "cn": "复配食品添加剂",
+   "en": "complex food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.24",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "为了改善食品品质、便于食品加工，将两种或两种以上单一品种的食品添加剂，添加或不添加辅料，经物理方法混匀而成的食品添加剂。"
+  },
+  {
+   "cn": "主要组织相容性复合体",
+   "en": "major histocompatibility complex，MHC",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.45",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "编码主要组织相容性抗原的一组紧密连锁的基因群。编码产物是抗原提呈和T细胞活化的关键分子，在启动特异性免疫应答和免疫调节中起重要作用。器官移植中MHC是决定个体间组织相容性的主要基因，参与移植物排斥。组"
+  },
+  {
+   "cn": "食品用天然香味复合物",
+   "en": "natural food flavors complex",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.1.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "通过物理方法或酶法或微生物法工艺从动植物来源材料中获得的具有香味物质的制剂（由多种成分组成）。这些动植物来源材料可以是未经加工的也可以是通过传统食品制备工艺加工过的。"
+  },
+  {
+   "cn": "急性全身性免疫复合物病",
+   "en": "acute systemic immune complex disease",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.9.27",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "由于大量免疫复合物形成，并在多器官沉积所引起的急性免疫反应。属于免疫复合物介导的急性III型超敏反应。病因与反复接触外源性抗原导致机体产生大量抗体有关，皮疹是最主要的临床表现，严重者可有喉头水肿，肾小"
+  },
+  {
+   "cn": "复配食品添加剂辅料",
+   "en": "adjuncts for complex food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.24.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "为复配食品添加剂的加工、贮存、溶解等工艺目的而添加的食品原料"
+  },
+  {
+   "cn": "攻膜复合物抑制因子",
+   "en": "membrane attack complex inhibitory factor，MACIF",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.22",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "通过阻断攻膜复合物的形式保护宿主细胞免受补体攻击的一类细胞表面蛋白质。"
+  },
+  {
+   "cn": "复杂劳动向简单劳动还原问题",
+   "en": "issue of reduction of complex labor to simple labor",
+   "source": "马克思主义",
+   "wordNumber": "05.0120",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "西方一些学者曾质疑马克思《资本论》“比较复杂的劳动只是自乘的或不如说多倍的简单劳动”的观点，认为这是马克思劳动价值论中应该解决却未能解决好的问题，甚至认为马克思对复杂劳动向简单劳动还原问题的处理是零碎"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,742 @@
+{
+ "key": "force fictionalism",
+ "term": "force fictionalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:58:37+00:00",
+ "status": "ok",
+ "note": "variant=force fictionalism; 审定公布名词库=1371; 海峡两岸名词对照库=262; 其他来源数据库=53; 预公布名词数据库=48; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "虚构主义",
+   "en": "fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.310",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一种数学反实在论的形式。由菲尔德等人提出。主张数学对象是一种虚构物，数学理论不具有客观真理性。"
+  },
+  {
+   "cn": "模态虚构主义",
+   "en": "modal fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "主张通过关于可能世界的虚构故事来理解模态。其最强版本关于模态陈述的真值条件是：P是可能的，当且仅当P在虚构故事F的语言中的翻译根据F成立；P是必然的，当且仅当P在虚构故事F的语言中的翻译总是成立。"
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0382",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机构动力学",
+   "subjectName": "机构动力学",
+   "publishYear": "2021",
+   "definition": "施加于物体上可改变其静止或运动状态的作用。"
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "物理学名词",
+   "wordNumber": "02.0135",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "建筑学名词",
+   "wordNumber": "13.0001",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "物体间的相互作用。其效果是使物体改变运动状态或发生变形。作用力与反作用力，总是同时存在，它们的大小相等、方向相反、沿同一直线分别作用在两个物体上。"
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "土木工程名词",
+   "wordNumber": "02.006",
+   "subjectFullName": "土木工程_工程力学_理论力学",
+   "subjectName": "理论力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "强制",
+   "en": "forcing",
+   "source": "电气工程名词",
+   "wordNumber": "16.092",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "变形力",
+   "en": "deformation force,forming force",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.016",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "为使坯料产生塑性变形，在工具运动方向上所需要施加的力。"
+  },
+  {
+   "cn": "作用力",
+   "en": "active force,applied force",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0304",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机构动力学",
+   "subjectName": "机构动力学",
+   "publishYear": "2021",
+   "definition": "能够产生运动或运动趋势的力。"
+  },
+  {
+   "cn": "力传感器",
+   "en": "force transducer,force sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0059",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "能感受外力并转换成可用输出信号的传感器。"
+  },
+  {
+   "cn": "外力",
+   "en": "external force,applied force",
+   "source": "物理学名词",
+   "wordNumber": "02.0458",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "升力",
+   "en": "ascensional force,lift force",
+   "source": "物理学名词",
+   "wordNumber": "02.0860",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "减速力",
+   "en": "decelerative force,retarding force",
+   "source": "电气工程名词",
+   "wordNumber": "20.153",
+   "subjectFullName": "电气工程_电力牵引",
+   "subjectName": "电力牵引",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "推力",
+   "en": "thrusting force,propulsion force",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.1599",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "𬌗力",
+   "en": "occlusal force,biting force",
+   "source": "医学名词 第二分册",
+   "wordNumber": "09.074",
+   "subjectFullName": "医学_口腔医学_可摘局部义齿修复学、全口义齿修复学",
+   "subjectName": "可摘局部义齿修复学、全口义齿修复学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "地震力",
+   "en": "earthquake force;seismic force",
+   "source": "地质学名词",
+   "wordNumber": "11.02.014",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "由地震波传播时引起地面震动所产生的力。地震力具有复杂的力学要素，如能量、振幅、频度、速度、加速度、持续时间等。"
+  },
+  {
+   "cn": "强迫停运",
+   "en": "forced shutdown,forced outage",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0490",
+   "subjectFullName": "机械工程_动力机械_锅炉_运行、维修和故障_运行",
+   "subjectName": "运行",
+   "publishYear": "2013",
+   "definition": "因设备发生故障而锅炉被迫停止运行的过程。"
+  },
+  {
+   "cn": "科里奥利力",
+   "en": "Coriolis force",
+   "source": "地质学名词",
+   "wordNumber": "05.05.058",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "由地球自转引起的一种假想力。其作用使得地球上一切运动着的物体都将产生运动方向上的偏离，北半球向右偏离，南半球向左偏离。"
+  },
+  {
+   "cn": "外力",
+   "en": "external force",
+   "source": "地质学名词",
+   "wordNumber": "09.02.001",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "外部作用于某一体系的力。在多个物体组成的系统中，由系统之外的物体对这个系统的作用力。"
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "浮力",
+   "en": "buoyancy force\",\"buoyant force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吸涨力",
+   "en": "imbibition force",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "潮汐力",
+   "en": "tidal force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "风力",
+   "en": "wind force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "惯性力",
+   "en": "inertial force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科里奥利力，科氏力",
+   "en": "Coriolis force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "离心力",
+   "en": "centrifugal force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "洛兰兹力",
+   "en": "Lorentz force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦力",
+   "en": "frictional force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视似力",
+   "en": "apparent force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外力",
+   "en": "external force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "向心力",
+   "en": "centripetal force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "键结力",
+   "en": "bonding force",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压缩力",
+   "en": "compressive force",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黏附力",
+   "en": "adhesion force",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分子间力",
+   "en": "intermolecular force",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "外力",
+   "en": "external force",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "惯性力",
+   "en": "inertial force",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "推动力",
+   "en": "driving force",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "小说",
+   "en": "Fiction",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律拟制",
+   "en": "legal fiction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "审虚实",
+   "en": "Balance Fiction and Reality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封杀出局",
+   "en": "force out",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封杀",
+   "en": "force play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "受迫性失误",
+   "en": "forced error",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "力量动作",
+   "en": "force part\",\"strength part\",\"force element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气",
+   "en": "Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "血气",
+   "en": "Vitality / Vital Force",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国远征军",
+   "en": "Chinese Expeditionary Force",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "场景技术力量",
+   "en": "technological force of scenario",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景驱动力模型",
+   "en": "scenario driving force model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会力量",
+   "en": "social force",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会中能够对社会主体产生影响的种种社会综合作用力。包括官方组织的与民间的社会各方面力量。特指非官方的社会团体和各界民众的力量。具有合力性、广泛性和多样性。"
+  },
+  {
+   "cn": "物质力量",
+   "en": "material force",
+   "source": "马克思主义",
+   "wordNumber": "01.0184",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "可以改变事物原先运动或发展状态的各种能力，它独立于人的意识之外，是一种客观存在。物质力量有两种：相反相成的和相辅相成的，在一定条件下二者有同一性，即可能处于同一体或互相转化。"
+  },
+  {
+   "cn": "劳动力",
+   "en": "labor force",
+   "source": "马克思主义",
+   "wordNumber": "02.0093",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在劳动过程中使用的体力和智力的总和。劳动力对于任何一种社会都是生产的主体,是生产力的主导因素。"
+  },
+  {
+   "cn": "反革命势力",
+   "en": "counterrevolutionary force",
+   "source": "马克思主义",
+   "wordNumber": "03.0054",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中不顾社会生产力的发展和革命要求、逆历史潮流而动的阶级或力量。为了维护反动统治，统治阶级的各阶层乃至被统治阶级中被分解出来的帮凶，都可沦为反革命势力。"
+  },
+  {
+   "cn": "生产力",
+   "en": "productive forces",
+   "source": "马克思主义",
+   "wordNumber": "02.0005",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们利用自然、改造和保护自然进行物质资料生产的能力，是一定历史发展阶段的物质生产基础。马克思认为人类社会生产的共同活动方式就是生产力，它由人的要素（劳动者）和物的要素（生产资料）两大实体性要素以及渗透"
+  },
+  {
+   "cn": "进步力量",
+   "en": "progressive forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0369",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工人、农民和城市小资产阶级，他们是统一战线的基础，抗日的主要依靠力量。中国共产党关于抗日民族统一战线的策略总方针是发展进步势力，争取中间势力，孤立顽固势力。"
+  },
+  {
+   "cn": "中间势力",
+   "en": "middle forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0370",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民族资产阶级、开明绅士和地方实力派。中国共产党关于抗日民族统一战线的策略总方针是发展进步势力，争取中间势力，孤立顽固势力。争取中间力量要有一定的条件：一是共产党要有充足的力量；二是尊重他们的利益；三是"
+  },
+  {
+   "cn": "顽固势力",
+   "en": "diehard forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0371",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "主要是指大地主、大资产阶级的抗日派，即以蒋介石集团为代表的国民党亲英美派。他们采取两手政策，既主张抗日，又限共、溶共、反共并摧残进步势力。共产党必须采取革命的两面政策，对它既联合又斗争。"
+  },
+  {
+   "cn": "强迫喂养",
+   "en": "forced feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "不识儿童的需求，由养育人负责决定孩子何时进食、怎样进食以及进食量的喂养方式，使儿童受到各种外来力的持续作用。"
+  },
+  {
+   "cn": "第一生产力",
+   "en": "primary productive force",
+   "source": "马克思主义",
+   "wordNumber": "03.0566",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平于1988年9月5日在会见捷克斯洛伐克总统胡萨克时的谈话中提出的重要论断。他说：“马克思说过，科学技术是生产力，事实证明这话讲得很对。依我看，科学技术是第一生产力。”这个论断为新时期我国制定科教"
+  },
+  {
+   "cn": "产力",
+   "en": "force of labor",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.9",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "将胎儿及其附属物从子宫内逼出的力量，包括子宫收缩力、腹壁肌及膈肌收缩力和肛提肌收缩力。"
+  },
+  {
+   "cn": "发展生产力的社会动力",
+   "en": "social motive force of developing productive forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0517",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "改革能够解放生产力，扫除生产力发展的障碍，从而推动社会生产的发展。邓小平为大力发展生产力，推动社会主义建设事业的前进，积极倡导、设计和领导了我国的社会主义改革和对外开放，强调这是大力发展生产力的必由之"
+  },
+  {
+   "cn": "人民武装",
+   "en": "peoples armed forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0146",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "属于人民群众，并为争取和保护人民的利益而战斗的武装力量。它与由反动政府掌握的武装力量相对立。在马克思和恩格斯的著作中，它经常指与反动政府控制的常备军相对的，由无产阶级和人民群众组成的非正规的武装力量。"
+  },
+  {
+   "cn": "劳动力价值",
+   "en": "value of labor force",
+   "source": "马克思主义",
+   "wordNumber": "02.0094",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动力商品的价值。劳动力的价值就是维持劳动力所有者所需要的生活资料的价值。它包括在正常状况下维持工人本人及其家属子女所必需的生活资料的价值总和及劳动者的教育和训练费用。"
+  },
+  {
+   "cn": "儿童钝器伤",
+   "en": "child blunt force injury",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.1.1.8",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "由于钝器（如棍棒、锤子、石块、皮带、拳头、足尖等）打击、碰撞、挫压等作用所造成的儿童机体损伤。常分为徒手伤、工具伤、坠落伤和碾压伤四种。"
+  },
+  {
+   "cn": "儿童锐器伤",
+   "en": "child sharp force injury",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.1.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "由于锋利的刀刃或尖端的锐器所造成的儿童机体损伤。常导致皮肤及皮下组织破裂。常见的锐器有刀、斧、剪刀、匕首、玻璃片、金属片等。"
+  },
+  {
+   "cn": "新质生产力",
+   "en": "New Quality Productive Forces",
+   "source": "马克思主义",
+   "wordNumber": "02.0434",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "主要以高新技术应用为显著特点，以新兴产业和新兴业态为核心支撑，更加符合高质量发展标准和要求的生产力。是2023年9月习近平在黑龙江考察调研期间提出的新理念，指出“积极培育新能源、新材料、先进制造、电子"
+  },
+  {
+   "cn": "归建检疫",
+   "en": "quarantine of rejoined forces",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.7.3",
+   "subjectFullName": "军事预防医学_军队流行病学_军队疾病监测与检疫",
+   "subjectName": "军队疾病监测与检疫",
+   "publishYear": "2025",
+   "definition": "军队人员到外地或出国执行任务回来后，归建之前进行的检疫。"
+  },
+  {
+   "cn": "国有经济的控制力",
+   "en": "controlling force of stateowned economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0417",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国有经济对国民经济发展的全局和方向起影响主导和支配作用。主要表现为：一是国有经济在国民经济总量中保持必要的规模和比重；二是在关系国家安全和国民经济命脉的重要行业和关键领域，国有经济应将继续处于支配地位"
+  },
+  {
+   "cn": "新民主主义革命的动力",
+   "en": "motive forces of newdemocratic revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0330",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工人阶级、农民阶级、城市小资产阶级和民族资产阶级是新民主主义革命的动力，而根本的动力是工人和农民。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

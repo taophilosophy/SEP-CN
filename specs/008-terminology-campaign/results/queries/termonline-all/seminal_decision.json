@@ -1,0 +1,782 @@
+{
+ "key": "seminal decision",
+ "term": "seminal decision",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:33:30+00:00",
+ "status": "ok",
+ "note": "variant=seminal decision; 审定公布名词库=2335; 海峡两岸名词对照库=684; 其他来源数据库=96; 预公布名词数据库=58; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "精囊[腺]",
+   "en": "seminal vesicle",
+   "source": "男科及性医学名词",
+   "wordNumber": "02.036",
+   "subjectFullName": "男科及性医学_生殖系统解剖",
+   "subjectName": "生殖系统解剖",
+   "publishYear": "2023",
+   "definition": "位于膀胱底后方、输精管壶腹下外侧的成对长椭圆形囊状器官。左右各一，表面凹凸不平，内由迂曲的管道组成。上部为膨大的精囊底部，下部由排泄管与输精管壶腹汇合成射精管。分泌的精囊液是精液的主要组成部分。"
+  },
+  {
+   "cn": "精浆",
+   "en": "seminal plasma",
+   "source": "男科及性医学名词",
+   "wordNumber": "07.110",
+   "subjectFullName": "男科及性医学_男性生殖系统疾病诊断",
+   "subjectName": "男性生殖系统疾病诊断",
+   "publishYear": "2023",
+   "definition": "由睾丸、附睾、前列腺、精囊腺、尿道球腺等的分泌液组成的弱碱性液体。是精液的重要组成部分。含有丰富的蛋白质、糖类、脂类、无机盐及代谢产物，具有运送精子、营养精子、激发精子活力的作用。"
+  },
+  {
+   "cn": "巨精囊",
+   "en": "seminal megavesicle",
+   "source": "男科及性医学名词",
+   "wordNumber": "11.013",
+   "subjectFullName": "男科及性医学_精囊及射精管疾病",
+   "subjectName": "精囊及射精管疾病",
+   "publishYear": "2023",
+   "definition": "由精囊动力性因素导致精囊正常富含皱襞的囊管状结构消失，呈大囊泡状的病理性扩张。多见于常染色体显性遗传性多囊肾病患者。"
+  },
+  {
+   "cn": "精囊镜术",
+   "en": "seminal vesiculoscopy",
+   "source": "男科及性医学名词",
+   "wordNumber": "23.134",
+   "subjectFullName": "男科及性医学_男科及性医学相关手术",
+   "subjectName": "男科及性医学相关手术",
+   "publishYear": "2023",
+   "definition": "采用经尿道内镜技术，直视下经射精管或侧通道观察射精管和精囊并治疗其相关疾病的手术方法。"
+  },
+  {
+   "cn": "精浆",
+   "en": "seminal plasma",
+   "source": "兽医学名词",
+   "wordNumber": "04.640",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "附睾液与精囊腺、前列腺和尿道球腺等副性腺分泌液的混合物。"
+  },
+  {
+   "cn": "精浆",
+   "en": "seminal plasma",
+   "source": "生殖医学名词",
+   "wordNumber": "3.327",
+   "subjectFullName": "生殖医学_生殖生理与内分泌_男性生殖生理与内分泌",
+   "subjectName": "男性生殖生理与内分泌",
+   "publishYear": "2022",
+   "definition": "精液中的液体成分。由睾丸液、附睾液、前列腺液、精囊腺液、尿道球腺液和尿道旁腺液混合而成。具有运送精子、营养精子、激发精子活动力的作用。"
+  },
+  {
+   "cn": "精囊炎",
+   "en": "seminal vesiculitis",
+   "source": "生殖医学名词",
+   "wordNumber": "4.188",
+   "subjectFullName": "生殖医学_生殖系统疾病_男性生殖系统疾病",
+   "subjectName": "男性生殖系统疾病",
+   "publishYear": "2022",
+   "definition": "发生于精囊的炎症性疾病。常与前列腺炎同时发生，多由逆行感染所致，因此致病菌多为金黄色葡萄球菌、溶血性链球菌及大肠埃希菌，分为急性精囊炎和慢性精囊炎两类。临床常见血精，可影响精子质量。"
+  },
+  {
+   "cn": "种子根",
+   "en": "seminal root ",
+   "source": "草学名词",
+   "wordNumber": "4.0101",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "精囊",
+   "en": "seminal vesicle",
+   "source": "生殖医学名词",
+   "wordNumber": "2.212",
+   "subjectFullName": "生殖医学_生殖系统解剖_男性生殖系统解剖",
+   "subjectName": "男性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "位于膀胱后面的一对卵圆形盘曲的囊状器官。黏膜表面为假复层柱状上皮，分泌弱碱性的黄色液体，内含果糖、前列腺素等。"
+  },
+  {
+   "cn": "受精囊",
+   "en": "seminal receptacle",
+   "source": "动物学名词",
+   "wordNumber": "5.1031",
+   "subjectFullName": "动物学_无脊椎动物学_扁形动物门",
+   "subjectName": "扁形动物门",
+   "publishYear": "2021",
+   "definition": "复殖吸虫中输卵管衍生出来的囊状结构。起贮存精子的作用。"
+  },
+  {
+   "cn": "精浆",
+   "en": "seminal plasma",
+   "source": "畜牧学名词",
+   "wordNumber": "05.026",
+   "subjectFullName": "畜牧学_繁殖_繁殖生理",
+   "subjectName": "繁殖生理",
+   "publishYear": "2020",
+   "definition": "射精时随精子一起排出的几种副性腺分泌物的混合物。"
+  },
+  {
+   "cn": "精阜",
+   "en": "seminal hillock",
+   "source": "畜牧学名词",
+   "wordNumber": "05.031",
+   "subjectFullName": "畜牧学_繁殖_繁殖生理",
+   "subjectName": "繁殖生理",
+   "publishYear": "2020",
+   "definition": "位于膀胱颈部后方的由海绵组织构成的一个小隆起。在其上方有输精管壶腹和精囊腺导管的共同开口。"
+  },
+  {
+   "cn": "精浆",
+   "en": "seminal plasma",
+   "source": "生理学名词",
+   "wordNumber": "11.026",
+   "subjectFullName": "生理学_生殖生理学",
+   "subjectName": "生殖生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "精囊",
+   "en": "seminal vesicle",
+   "source": "计划生育名词",
+   "wordNumber": "02.055",
+   "subjectFullName": "计划生育_生殖医学基础_男性",
+   "subjectName": "男性",
+   "publishYear": "2019",
+   "definition": "男性生殖器的附属腺体之一。位于膀胱后，输精管壶腹的外侧。分泌液参与形成精液，有激活精子的作用并参与精液凝固过程。"
+  },
+  {
+   "cn": "精浆",
+   "en": "seminal plasma",
+   "source": "计划生育名词",
+   "wordNumber": "02.059",
+   "subjectFullName": "计划生育_生殖医学基础_男性",
+   "subjectName": "男性",
+   "publishYear": "2019",
+   "definition": "精液中的液体成分。由睾网液、附睾液、精囊液、前列腺液、尿道球腺液和尿道旁腺液混合而成。"
+  },
+  {
+   "cn": "精囊炎",
+   "en": "seminal vesiculitis",
+   "source": "计划生育名词",
+   "wordNumber": "03.532",
+   "subjectFullName": "计划生育_计划生育临床_炎症",
+   "subjectName": "炎症",
+   "publishYear": "2019",
+   "definition": "发生于精囊的炎症。往往和前列腺炎同时发生，感染途径及病因基本相同，临床症状及体征也大致相似。可有血精或排精疼痛、精液量减少。"
+  },
+  {
+   "cn": "种子根",
+   "en": "seminal root",
+   "source": "植物学名词",
+   "wordNumber": "03.0010",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "从胚根发育出的根。"
+  },
+  {
+   "cn": "精囊炎",
+   "en": "seminal vesiculitis",
+   "source": "泌尿外科学名词",
+   "wordNumber": "04.096",
+   "subjectFullName": "泌尿外科学_泌尿、男性生殖系统感染与炎症",
+   "subjectName": "泌尿、男性生殖系统感染与炎症",
+   "publishYear": "2014",
+   "definition": "由大肠埃希菌、克雷伯产气杆菌、变形杆菌及假单胞菌等引起的精囊炎症性疾病。多由邻近器官，如前列腺、后尿道、结肠等感染侵及精囊所致。青壮年男性较多见，以血精为主要临床表现。急性精囊炎全身症状为周身疼痛，畏"
+  },
+  {
+   "cn": "精囊切开术",
+   "en": "seminal vesiculotomy",
+   "source": "泌尿外科学名词",
+   "wordNumber": "11.371",
+   "subjectFullName": "泌尿外科学_泌尿、男性生殖系统手术",
+   "subjectName": "泌尿、男性生殖系统手术",
+   "publishYear": "2014",
+   "definition": "经尿道或膀胱行精囊切开，用于治疗精囊囊肿的手术。"
+  },
+  {
+   "cn": "精囊切除术",
+   "en": "seminal vesiculectomy",
+   "source": "泌尿外科学名词",
+   "wordNumber": "11.373",
+   "subjectFullName": "泌尿外科学_泌尿、男性生殖系统手术",
+   "subjectName": "泌尿、男性生殖系统手术",
+   "publishYear": "2014",
+   "definition": "经会阴或膀胱或骶尾部或腹腔镜经腹途径分离切除精囊的手术。主要用于治疗早期精囊恶性肿瘤、良性肿瘤、症状严重的精囊结石及久治不愈的局限性精囊结核。"
+  },
+  {
+   "cn": "精阜",
+   "en": "seminal colliculus\",\"seminal hillock",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "精囊",
+   "en": "seminal vesicle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "精囊腺",
+   "en": "seminal gland",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "精系",
+   "en": "seminal line",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "精小管",
+   "en": "seminal tubule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "种子根",
+   "en": "seminal root",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "贮精囊",
+   "en": "seminal vesicle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "精囊[腺]",
+   "en": "seminal vesicle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "精液",
+   "en": "semen\",\"seminal fluid",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "纳精囊",
+   "en": "spermatheca\",\"seminal receptacle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "副精囊",
+   "en": "accessory seminal vesicle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "贮精囊",
+   "en": "seminal vesicle\",\"vesicula seminalis (拉)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "精液",
+   "en": "semen\",\"seminal fluid\",\"sperma",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "精囊管",
+   "en": "duct of seminal vesicle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "判决，决策",
+   "en": "decision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精囊腺排泄管",
+   "en": "excretory duct of seminal gland",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "决策分析",
+   "en": "decision analysis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "决策变量",
+   "en": "decision variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判决",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策论",
+   "en": "decision theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "判定！",
+   "en": "Decision! Hantei!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多数裁判员判定",
+   "en": "majority decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判灯",
+   "en": "decision light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决定性打击",
+   "en": "decisive blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜剑",
+   "en": "decisive hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策树学习",
+   "en": "decision tree learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能决策体系",
+   "en": "AI decision system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "根据点数判决胜负",
+   "en": "decision by points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优势裁决",
+   "en": "decision of superiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据运筹",
+   "en": "Data and Decision Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据驱动决策",
+   "en": "data-driven decision-making",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可判定性",
+   "en": "decidability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "临床辅助决策支持系统",
+   "en": "clinical decision support system (CDSS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知情决策",
+   "en": "informed decision",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "在了解全面信息后做出决策的过程"
+  },
+  {
+   "cn": "决策阈",
+   "en": "decision threshold",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "被测量的估计量值，在用于量化物理效应的被测量的给定测量程序，实际测量值超过该值时，可判定该物理效应存在。"
+  },
+  {
+   "cn": "决策模型",
+   "en": "decision modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现一个事件中研究对象所做出的各个具体选择，以及选择间的逻辑次序的图表。"
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "为了到达目标，采用一定的科学方法和手段，从两个以上的方案中选择一个满意方案的分析判断过程。"
+  },
+  {
+   "cn": "决策树分析",
+   "en": "decision tree analysis",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "将决策过程各个阶段之间的结构绘制成树状箭线图，利用其进行选择、分割分析。"
+  },
+  {
+   "cn": "组织决策",
+   "en": "organizational decision-making",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.10",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "组织为了实现某一特定目标，依据一定的情况和条件对要解决的问题做出决定，并付诸实施的过程。"
+  },
+  {
+   "cn": "群体决策",
+   "en": "group decision-making",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "群体综合多个个体的资源，从而获得了更全面的信息，为决策提供了更大的选择空间。与“个人决策”相对。但研究指出，未必比个体决策更加客观。"
+  },
+  {
+   "cn": "决策分析模型",
+   "en": "decision analytic model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种在不确定性情况下进行决策的定量分析方法。呈现各决策可选项的结果及其发生的概率，通过概率加权的方法得到各选项的期望价值并做出决策。"
+  },
+  {
+   "cn": "决策树模型",
+   "en": "decision tree model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种描述在不确定性情况下进行选择的逻辑结构的静态决策分析模型，包括所有相关的决策选择、对应结果及其概率。"
+  },
+  {
+   "cn": "决策能力",
+   "en": "decision making skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "权衡不同选择并考虑其不同后果以便作出正确决定的能力。有助于个体在面对健康方面的问题时，作出有利于自身健康的决定。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "负责任的决策",
+   "en": "responsible decision-making",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "在不同情况下对个人行为和社会交往作出体现关怀并具有建设性意义的选择的能力。"
+  },
+  {
+   "cn": "护理决策",
+   "en": "nursing decision-making",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.02",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "护士根据护理专业理论和经验，针对临床工作中的实际情况，经过调查研究和科学思维，从一系列备选方案中确定最佳护理方案的过程。"
+  },
+  {
+   "cn": "伦理决策",
+   "en": "ethical decision-making",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.035",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在实践活动和情境中，基于伦理学的理论、方法、规范、原则及法律规范等，进行伦理判断和行为选择，拟定决策方案的活动过程。"
+  },
+  {
+   "cn": "医学伦理决策",
+   "en": "medical ethical decision-making",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.222",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "基于医学伦理学理论、原则和规范，拟定医学伦理行为的目标和方案，进行医学伦理抉择的活动。"
+  },
+  {
+   "cn": "性与生殖健康综合咨询框架",
+   "en": "rapport-building, exploration, decision-making and implementing the decision framework",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.1.2.2.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_计划生育服务",
+   "subjectName": "计划生育服务",
+   "publishYear": "2025",
+   "definition": "生殖健康综合咨询的基本模式。包括四个环节：营造和谐的氛围，了解服务对象的个性化需求，让对象做出自主、自愿和可行的决定，以及制订执行决定具体执行计划。"
+  },
+  {
+   "cn": "多准则决策分析",
+   "en": "multiple criteria decision analysis,MCDA",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.4.5.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药物经济学评价",
+   "subjectName": "药物经济学评价",
+   "publishYear": "2025",
+   "definition": "为了协助决策者在各类研究证据和价值标准之间权衡取舍，进行多重目标的决策制定，综合运用多个评价维度进行总体评价的一种方法。"
+  },
+  {
+   "cn": "临床决策支持系统",
+   "en": "clinical decision support systems,CDSS",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.4.2.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "通过应用信息技术，综合分析医学知识和患者信息，为医务人员的临床诊疗活动提供多种形式帮助，支持临床医生为患者制定诊断和治疗方案的一种计算机辅助信息系统。"
+  },
+  {
+   "cn": "决定手术至胎儿娩出时间",
+   "en": "decision-to-delivery interval, DDI",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.11",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "决定紧急剖宫产与胎儿实际娩出的时间间隔，应控制在30分钟内。"
+  },
+  {
+   "cn": "关键控制点判断树",
+   "en": "critical control point decision tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.6",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用来确定某个控制点是否是关键控制点的方法。"
+  },
+  {
+   "cn": "人工智能临床诊疗决策支持系统",
+   "en": "AI in clinical decision support system",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.4.2.2.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "通过应用人工智能技术，综合分析医学知识和患者信息，辅助医务人员做出临床诊断和治疗决策的工具。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

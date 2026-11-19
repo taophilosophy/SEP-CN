@@ -1,0 +1,722 @@
+{
+ "key": "orations",
+ "term": "Orations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:18:36+00:00",
+ "status": "ok",
+ "note": "variant=Orations; 审定公布名词库=139; 海峡两岸名词对照库=41; 其他来源数据库=43; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "凹凸板式蒸发器",
+   "en": "embossed plate evap_x001F_orator",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0448",
+   "subjectFullName": "化工（八）_化工设备_换热设备",
+   "subjectName": "换热设备",
+   "publishYear": "2021",
+   "definition": "将板压成凹凸对应的形状，焊在一起形成制冷剂通道的一种蒸发器。"
+  },
+  {
+   "cn": "羟联",
+   "en": "olation",
+   "source": "化学名词",
+   "wordNumber": "01.0480",
+   "subjectFullName": "化学_无机化学_配位化学",
+   "subjectName": "配位化学",
+   "publishYear": "2016",
+   "definition": "羟基的氧原子与两个或两个以上的中心原子相连接。"
+  },
+  {
+   "cn": "日粮",
+   "en": "ration",
+   "source": "水产名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "水产_饲料和肥料",
+   "subjectName": "饲料和肥料",
+   "publishYear": "2002",
+   "definition": "一只饲养动物一昼夜采食的、能满足其营养需要的饲料量。"
+  },
+  {
+   "cn": "日粮",
+   "en": "ration",
+   "source": "水产名词",
+   "wordNumber": "12.005",
+   "subjectFullName": "水产_水产饲料与肥料",
+   "subjectName": "水产饲料与肥料",
+   "publishYear": "2002",
+   "definition": "一只饲养动物一昼夜采食的、能满足其营养需要的饲料量。"
+  },
+  {
+   "cn": "运筹学",
+   "en": "operations research",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.759",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "20世纪30年代初发展起来的一门学科。主要研究目的是在决策时为管理人员提供科学依据，是实现有效管理、正确决策和现代化管理的重要方法之一。该学科应用于数学和形式科学的跨领域研究，旨在寻找复杂问题中的最优"
+  },
+  {
+   "cn": "《天工开物》",
+   "en": "Heavenly Creations",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.038",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "明朝科学家宋应星撰著的世界上第一部关于农业技术和手工业生产技术的综合性著作。"
+  },
+  {
+   "cn": "新闻业务",
+   "en": "journalism operations",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.005",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "新闻采集(采访)、写作(制作)、编辑等具体操作性工作的统称。传统新闻学的三大内容板块之一，另外两大内容板块分别是新闻史、新闻理论。"
+  },
+  {
+   "cn": "故障定位",
+   "en": "fault locations",
+   "source": "电力名词",
+   "wordNumber": "06.143",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "基于所获得的故障信息估算故障发生位置的方法,如用距离继电器得到的阻值计算故障位置。"
+  },
+  {
+   "cn": "信息战",
+   "en": "information operations",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0356",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "敌对双方为争取信息的获取权、控制权和使用权，通过利用、破坏敌方和保护己方的信息系统而展开的一系列作战行动。"
+  },
+  {
+   "cn": "网络空间战",
+   "en": "cyberspace operations",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0357",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "在网络空间中或透过网络空间实施的军事行动、情报行动和相关活动。目的是保证网络空间能为己方使用，获得网络空间作战优势与控制权。"
+  },
+  {
+   "cn": "作业分析",
+   "en": "operations analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0992",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "研究在某道工序中，如何使工人的操作以及工人和机器的相互配合达到最经济、最有效程度的分析方法。"
+  },
+  {
+   "cn": "黏粒形成物",
+   "en": "clay formations",
+   "source": "土壤学名词",
+   "wordNumber": "02.455",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "土壤中黏粒发生垂直或就地位移，定向排列成光性定向黏粒，并浓聚成一定形貌的土壤形成物。"
+  },
+  {
+   "cn": "铁锰形成物",
+   "en": "ferromanganese formations",
+   "source": "土壤学名词",
+   "wordNumber": "02.456",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "由铁锰浓聚而成的土壤形成物。"
+  },
+  {
+   "cn": "碳酸盐形成物",
+   "en": "carbonate formations",
+   "source": "土壤学名词",
+   "wordNumber": "02.457",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "由碳酸盐类矿物浓聚而成的土壤形成物。"
+  },
+  {
+   "cn": "硫酸盐形成物",
+   "en": "sulphate formations",
+   "source": "土壤学名词",
+   "wordNumber": "02.458",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "由硫酸盐类矿物浓聚而成的土壤形成物。"
+  },
+  {
+   "cn": "颅脑手术",
+   "en": "craniocerebral operations",
+   "source": "医学名词 第六分册",
+   "wordNumber": "02.211",
+   "subjectFullName": "医学_神经外科学",
+   "subjectName": "神经外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "基本运算",
+   "en": "fundamental operations",
+   "source": "数学名词",
+   "wordNumber": "03.0337",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "运筹学",
+   "en": "operations research",
+   "source": "自动化名词",
+   "wordNumber": "03.263",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "毁胎术",
+   "en": "destructive operations",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.433",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "联合国",
+   "en": "United Nations",
+   "source": "世界历史名词",
+   "wordNumber": "01.0483",
+   "subjectFullName": "世界历史_综合_国家集团、国际组织",
+   "subjectName": "国家集团、国际组织",
+   "publishYear": "2012",
+   "definition": "1945年10月24日在旧金山正式成立的为维护战后国际和平与安全建立的国际组织。"
+  },
+  {
+   "cn": "羟联",
+   "en": "olation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "options",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理性",
+   "en": "ration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "作物轮作",
+   "en": "crop rotations",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "振幅比",
+   "en": "amplitude ration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "口粮",
+   "en": "food ration",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可移动的中尺度网站",
+   "en": "portable mesonet stations",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "十二次",
+   "en": "twelve Jupiter-stations",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "台对",
+   "en": "pair of stations",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运算每秒，操作每秒",
+   "en": "operations per second",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "作业控制中心",
+   "en": "operations control center",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "欧洲期权交易所",
+   "en": "European Options Exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "百万次浮点运算每秒",
+   "en": "mega floating point operations per second\",\"million floationg-point oprations per second\",\"MFLOPS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偏性比",
+   "en": "biased sex ration",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "区中点运算",
+   "en": "point-in-polygon operations",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电台间容许距离",
+   "en": "allowable distance between stations",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "十亿次运算每秒，吉次运算每秒",
+   "en": "giga operations per second",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "万亿次运算每秒，太[拉] 次运算每秒",
+   "en": "tera operations per second",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作与设备手册",
+   "en": "operations and equipment manual",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "伦敦期权市场",
+   "en": "London Traded Options Market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "联合国",
+   "en": "United Nations",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防御性信息作战",
+   "en": "defensive information operations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国秘书处",
+   "en": "United Nations Secretariat",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国大学",
+   "en": "United Nations University",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国维持和平行动部",
+   "en": "Department of Peacekeeping Operations",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混业经营风险",
+   "en": "risk of mixed operations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合成作战指挥系统",
+   "en": "joint operations command system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国大会",
+   "en": "United Nations General Assembly",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界旅游组织",
+   "en": "United Nations World Tourism Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国内罗毕办事处",
+   "en": "United Nations Office at Nairobi",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国维也纳办事处",
+   "en": "United Nations Office at Vienna",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通用食品",
+   "en": "general rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产，供应平时和战时部队生鲜食物供应困难时食用的食物总称，包括各类军用罐头、软罐头、脱水蔬菜等。"
+  },
+  {
+   "cn": "救生食品",
+   "en": "survival rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "军人遇险待救时用于维持生存的专用食品，要求能量高、体积小、重量轻、携带方便、储存期长和食用方便等。"
+  },
+  {
+   "cn": "军用食品",
+   "en": "military rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产、供应的各类制式食品，主要供部队不能供应热食时使用，通常由军需部门统一组织生产和调拨，具有营养合理、适口性好、易消化吸收、体积小、重量轻、携带食用方便、安全卫生、耐贮存等特点。"
+  },
+  {
+   "cn": "野战食品",
+   "en": "field rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "部队人员行军、作战和一些特殊情况下热食供应困难时食用的制式食品，主要包括压缩干粮、脱水米饭、自加热食品、单兵口粮等。"
+  },
+  {
+   "cn": "限制口粮",
+   "en": "restricted rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "要求携带最少装备、短期（少于10 天）内完成特殊任务时食用的单兵口粮，由于携带物品体积和重量的限制，其体积和重量均小于作战口粮。"
+  },
+  {
+   "cn": "远航食品",
+   "en": "voyage rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "供海勤、空勤人员远航时食用的食品，主要分为舰艇远航食品和飞行远航食品。"
+  },
+  {
+   "cn": "舰艇救生食品",
+   "en": "ship survival rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.3.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "舰艇海上失事时，舰船人员离舰漂浮待救时维持生命的专用食品。一份可提供1 人3 天的口粮，主要由压缩饼干、巧克力、糖等组成。"
+  },
+  {
+   "cn": "普通救生食品",
+   "en": "general survival rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.3.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "用于维持个人在特殊状况下生存，尤其是饮用水有限时使用的救生食品，属于限制口粮，连续使用不超过5 天。"
+  },
+  {
+   "cn": "单兵口粮",
+   "en": "individually packaged rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "部队不能集体供膳时，供单兵携带使用的口粮，通常以单人一餐份为单位供应，用于特种作战部队和执行特殊任务热食供应困难时食用的制式食品。"
+  },
+  {
+   "cn": "飞行救生食品",
+   "en": "flight survival rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.3.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "空勤人员在飞机迫降、失事离机待救时维持生命的专用食品，其重量更轻，能量更少。"
+  },
+  {
+   "cn": "集体口粮",
+   "en": "unitized group rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "供给军人群体食用的制式食品，通常在分队作战或执行特殊任务，热食供应困难时食用，按多人日份或餐份包装。"
+  },
+  {
+   "cn": "政务公开",
+   "en": "transparency in government operations",
+   "source": "马克思主义",
+   "wordNumber": "04.0197",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国家政治事务和活动在法律范围内向人民公开，也就是让权力在阳光下运行。具体要求：政府的工作内容公开化，政府筹划或正准备进行的各项工作分类进行公开，政府的各项工作内容及进程公开，任何公民都可以通过特定途径"
+  },
+  {
+   "cn": "风险管理措施评估",
+   "en": "risk management options assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.12",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "对风险管理措施进行评估，帮助主管部门决定是否需要对某一物质进行进一步基于管理的风险管理活动，并确定最合适的工具来解决问题。"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员受伤部位划分的各部位伤伤员数占伤员总数的百分比。受伤部位常分为颇脑、颌面、颈、胸背、腰腹、阴臀、上肢、下肢、多部位、其他。可用以分析战术动作及工事情况等，为改进卫生装备提供依据。"
+  },
+  {
+   "cn": "军人食物定量",
+   "en": "dietary ration for soldiers",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.2.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军人营养需要",
+   "subjectName": "军人营养需要",
+   "publishYear": "2025",
+   "definition": "根据军人营养素供给量标准和食物生产及供应情况规定军人每人每日应摄入的食物种类和数量，作为军需部门组织部队饮食保障的主要依据，也是调配膳食的依据。"
+  },
+  {
+   "cn": "防治荒漠化公约",
+   "en": "United Nations Convention on Combat Desertificaion(UNCCD)",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.14",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "由各国政府共同制定国家级、次区域级和区域级行动方案，并与捐助方、地方社区和非政府组织合作，以对抗荒漠化的挑战。1994年6月7日在巴黎通过，并于1996年12月正式生效。"
+  },
+  {
+   "cn": "实现国家统一是民族的愿望",
+   "en": "achieve national reunification is the nations aspiration",
+   "source": "马克思主义",
+   "wordNumber": "03.0595",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1984年，邓小平在会见香港同胞时指出：实现国家统一是民族的愿望。他创造性地提出“一国两制”的构想，使香港、澳门相继回到祖国的怀抱。和平统一是中国政府的一贯立场，但绝不排除使用武力。"
+  },
+  {
+   "cn": "伤部伤类双向构成比",
+   "en": "bidirectional proportion for locations and types of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员负伤部位和种类交叉观察，某部位和某种伤类伤员数占伤员总数的百分比，用以深入分析伤员负伤部位和伤类情况，为军政指挥员和卫勤领导改进装备、组织救治提供依据。"
+  },
+  {
+   "cn": "联合国气候变化框架公约",
+   "en": "United Nations Framework Convention on Climate Change(UNFCCC)",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.16",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "国际社会为应对气候变化共同签署的一项国际公约。1992年5月在纽约联合国总部通过，6月在巴西里约热内卢召开的世界各国政府首脑参加的联合国环境与发展会议期间开放签署，1994年3月21日正式生效。"
+  },
+  {
+   "cn": "创新是一个民族进步的灵魂",
+   "en": "innovation is the soul of a nations progress",
+   "source": "马克思主义",
+   "wordNumber": "04.0188",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在1995年全国科学技术大会上提出的著名论断。一个民族的进步需要理论创新与实践创新，实践基础上的理论创新和理论指导下的实践创新，是探索中国特色现代化道路的客观要求，只有不断创新才能解决改革进程中"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

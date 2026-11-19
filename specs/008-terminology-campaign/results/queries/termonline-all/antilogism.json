@@ -1,0 +1,32 @@
+{
+ "key": "antilogism",
+ "term": "antilogism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:03:06+00:00",
+ "status": "ok",
+ "note": "variant=antilogism; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "类推分析",
+   "en": "analogism analysis",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.057",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "依据两个对象间存在某种相似关系，从已知对象具有某种属性而推出另一对象也具有这一相应属性的思维形式及方法。"
+  },
+  {
+   "cn": "反类比",
+   "en": "antilog",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

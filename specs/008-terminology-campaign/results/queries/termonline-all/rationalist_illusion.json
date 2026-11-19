@@ -1,0 +1,722 @@
+{
+ "key": "rationalist illusion",
+ "term": "rationalist illusion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:51:58+00:00",
+ "status": "ok",
+ "note": "variant=rationalist illusion; 审定公布名词库=373; 海峡两岸名词对照库=57; 其他来源数据库=17; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "急救医学名词",
+   "wordNumber": "03.971",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "把实际存在的事物歪曲地感知为与实际完全不相符合的事物，亦即歪曲的知觉。正常人在光线差、疲乏、精神紧张等情况下也可以出现错觉，但通过验证能够很快地纠正和消除。按各种不同的感官，可分为错听、错视、错嗅、错"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.183",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "对客观刺激事物歪曲和错误的知觉。这种知觉完全可以被受检者接受，并做出情绪和相应行为上的反应。"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "行为医学名词",
+   "wordNumber": "4.026",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "在特定条件下对客观事物产生的歪曲的知觉。可以产生于各种感觉通道中和（或）不同感觉通道之间。"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.030",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "对客观刺激事物歪曲和错误的知觉。这种知觉完全可以被受检者接受，并做出情绪和相应行为上的反应。"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.042",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "把实际存在的事物错误地感知为与实际不相符的事物的病理状态。"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "老年医学名词",
+   "wordNumber": "04.475",
+   "subjectFullName": "老年医学_老年临床医学_老年精神疾病",
+   "subjectName": "老年精神疾病",
+   "publishYear": "2017",
+   "definition": "把实际存在的事物歪曲地感知为与实际完全不相符合的事物，亦即歪曲的知觉。正常人在光线差、疲乏、精神紧张等情况下也可以出现错觉，但通过验证能够很快地纠正和消除。按各种不同的感官，可分为错听、错视、错嗅、错"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.431",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "人在特定条件下对客观事物产生的有固定倾向的受到歪曲的知觉。可产生于各种感知觉通道中和不同感觉通道之间。"
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.030",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "视错觉",
+   "en": "visual illusion,optical illusion",
+   "source": "神经病学名词",
+   "wordNumber": "12.052",
+   "subjectFullName": "神经病学_癫痫",
+   "subjectName": "癫痫",
+   "publishYear": "2020",
+   "definition": "对于真实影像的错误或扭曲的知觉。这些扭曲的影像（视物变形）可以表现为大小、形状、比例、位置、色彩、亮度、运动等单一或联合的改变。发作性视错觉常见于症状性而非特发性枕叶癫痫。"
+  },
+  {
+   "cn": "视错觉",
+   "en": "visual illusion",
+   "source": "测绘学名词",
+   "wordNumber": "04.110",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "当观察物体时，基于经验或不当的参照形成的错误判断和感知。"
+  },
+  {
+   "cn": "躯体感觉错觉",
+   "en": "somatosensory illusion",
+   "source": "精神医学名词",
+   "wordNumber": "03.226",
+   "subjectFullName": "精神医学_诊断分类_应激与神经症性障碍",
+   "subjectName": "应激与神经症性障碍",
+   "publishYear": "2019",
+   "definition": "歪曲的躯体感觉。体验为烧灼感、波动感、翻动感、喉部团块、闪电样放射穿过身体等的精神病理状态。常见于各种神经和精神障碍，如颞叶癫痫、多发性硬化、脑肿瘤、痴呆、维生素B₁₂缺乏、中毒和焦虑状态。"
+  },
+  {
+   "cn": "瀑布错觉",
+   "en": "waterfall illusion",
+   "source": "生物物理学名词",
+   "wordNumber": "04.181",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "在注视自上向下的瀑布数十秒钟后，再看附近静止景色，会感觉看到的景色好像由下向上反方向运动的错觉现象。是一种典型的运动后效应。"
+  },
+  {
+   "cn": "大小错觉",
+   "en": "size illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.434",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "同样的物体，在一些比它大的物体中看上去显得小，而在一些比它小的物体中则显得大的现象。"
+  },
+  {
+   "cn": "方向错觉",
+   "en": "direction illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.435",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在周围背景的影响下，知觉到的图形的位置方向与实际的位置方向不一致的知觉现象。"
+  },
+  {
+   "cn": "波根多夫错觉",
+   "en": "Poggendorff illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.436",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "被两条平行线遮蔽的直线，看起来被分隔开的两条直线段不在一条直线上的现象。"
+  },
+  {
+   "cn": "视错觉",
+   "en": "optical illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.432",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体接受视觉信息时因外界事物影响产生的歪曲性视知觉。"
+  },
+  {
+   "cn": "亚里士多德错觉",
+   "en": "Aristotle illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.450",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "当人用交叉的两个手指触碰一个物体，比如自己的鼻子时，会感觉到像在触碰两个物体的现象。"
+  },
+  {
+   "cn": "艾宾豪斯错觉",
+   "en": "Ebbinghaus illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.451",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在中心圆具有相同半径时，人觉得被小圆包围的中心圆比被大圆包围的中心圆更大的现象。"
+  },
+  {
+   "cn": "亥姆霍茨错觉",
+   "en": "Helmholtz illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.452",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一个在黑背景下的白色方块，和同样大小在白色背景下的黑色方块相比，人容易将前者知觉为较大的现象。"
+  },
+  {
+   "cn": "透视错觉",
+   "en": "perspective illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.444",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "由于环境的透视效果使得大小相等的两个物体看起来因距离不同而有大小区别的现象。或在平面上再现空间感、主体感时给人造成的错觉。"
+  },
+  {
+   "cn": "理性主义者",
+   "en": "rationalist",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "黑林错觉",
+   "en": "Hering illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时间错觉",
+   "en": "time illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方向错觉",
+   "en": "direction illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "透视错觉",
+   "en": "perspective illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "月亮错觉",
+   "en": "moon illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大小错觉",
+   "en": "size illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "瀑布错觉",
+   "en": "waterfall illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "记忆错觉",
+   "en": "memory illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正向错觉",
+   "en": "positive illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艾宾豪斯错觉",
+   "en": "Ebbinghaus illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹错觉",
+   "en": "Helmholtz illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视错觉",
+   "en": "optical illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蓬佐错觉",
+   "en": "Ponzo illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冯特错觉",
+   "en": "Wundt illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运动错觉",
+   "en": "motion illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沙尔庞捷错觉",
+   "en": "Charpentier illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自主运动错觉",
+   "en": "autokinetic illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "边缘错觉",
+   "en": "edge illusion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容性",
+   "en": "Digital Inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融包容性",
+   "en": "financial inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子包容",
+   "en": "e-inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容战略",
+   "en": "Digital Inclusion Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字普惠水平",
+   "en": "digital inclusion level",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字普惠金融",
+   "en": "digital financial inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容计划（英国）",
+   "en": "Digital Inclusion Programme (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字普惠金融体系",
+   "en": "Digital Financial Inclusion System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数字普惠金融：新兴政策与方法》",
+   "en": "Digital Financial Inclusion: Emerging Policy Approaches",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《G20数字普惠金融高级原则》",
+   "en": "G20 High-Level Principles for Digital Financial Inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人民币纳入特别提款权货币儘子",
+   "en": "RMB's inclusion in the Special Drawing Right (SDR) basket",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "飞行错觉",
+   "en": "flight illusion",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.8",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "飞行人员在飞行中对飞机状态或飞机位置的错误知觉。"
+  },
+  {
+   "cn": "唯理论",
+   "en": "rationalism",
+   "source": "马克思主义",
+   "wordNumber": "01.0175",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）与经验主义相对，认为具有普遍必然性的可靠知识不是、也不可能来自经验，而是从先天的、不可否认的“自明之理”出发，经过严密的逻辑推理得到的。（2）轻视感性经验的作用，仅从概念出发，用逻辑推理和理性思"
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "source": "马克思主义",
+   "wordNumber": "01.0172",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）思维发展的高级阶段，与“感性”相对，指形成概念，进行判断、分析、综合、比较、推理、计算等方面的能力和活动。（2）与感觉、知觉、情感和欲望相对的性格特征，指按照事物存在的真实状况和发展的内在规律处"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "马克思主义",
+   "wordNumber": "03.0120",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级处理民族问题的理论、原则、纲领和政策。它从民族观念出发,把本民族利益置于其他民族之上，不同的历史时期和不同的国家起着不同的作用。"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0019",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "主张民族（nation）与国家（state）边界相一致的思想观念、理论主张、社会行动，是形成和建构民族国家的理论基础和实践信条"
+  },
+  {
+   "cn": "民族资产阶级",
+   "en": "nationalist bourgeoisie",
+   "source": "社会学名词",
+   "wordNumber": "2.6.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_当代中国社会分层",
+   "subjectName": "当代中国社会分层",
+   "publishYear": "2025",
+   "definition": "殖民地或半殖民地社会的本土资产阶级。常常受到外国资本以及与外国资本有紧密联系的买办资产阶级和官僚资产阶级的挤圧，与统治集团（阶级）存在利益冲突，因此毛泽东认为他们具有一定的革命性。"
+  },
+  {
+   "cn": "批判理性主义",
+   "en": "critical rationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为科学方法就是猜测—反驳方法。科学沿着“问题（P1）—假说（TT）—证伪（EE）—问题（P2）”四段图式不断演进，逐渐向高证伪度和高逼真度接近。"
+  },
+  {
+   "cn": "文化民族主义",
+   "en": "cultural nationalism",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.13",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "一个民族推崇因其自身的民族特性而形成的独特文化，这种民族文化通常被认为蕴含着该民族的民族精神，从而具有或多或少的民族优越性。"
+  },
+  {
+   "cn": "价值理性",
+   "en": "value rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.6",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动者相信特定的行为无条件地具有价值，行动者强调追求动机的纯正和选择正确的手段去实现目的，而不管其结果如何的行动取向。"
+  },
+  {
+   "cn": "工具理性",
+   "en": "instrumental rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.7",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动只由追求功利的动机所驱使，行动者纯粹从效用最大化的角度考虑，在行动中漠视人的情感和精神价值，借助理性算计达到预期目的的行动取向。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.21",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "一种关注所有生命形态和谐共生的理性形式。它把人类视为生态系统中的一个有机组成部分，与其他生命系统相互联系、相互影响，共同构建生物共同体的和谐、健康、稳定、完整与统一。行为决策以保护经济资源、促进生态系"
+  },
+  {
+   "cn": "社会理性",
+   "en": "social rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "社会中的个体以整个社会或群体的利益为目标，使社会或群体利益最大化的思维倾向和行动动力。"
+  },
+  {
+   "cn": "法律的理性化",
+   "en": "legal rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.7.4.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的理性化",
+   "subjectName": "法律的理性化",
+   "publishYear": "2025",
+   "definition": "法律从实质理性逐渐转变形式理性的过程。马克斯·韦伯提出的概念，主要体现为法律是由规则构成的体系，通过逻辑推理能够从普遍规则推导出适用于个案的决定。"
+  },
+  {
+   "cn": "合理性规范",
+   "en": "rationality norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.12",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "用批评的眼光看待所有人类存在的现象，旨在使它们更加有序一致，并获得普遍的理解。该规范主要强调科学的逻辑性和真理性，即科学知识应当符合逻辑规则，并且符合具体经验事实。"
+  },
+  {
+   "cn": "交往理性",
+   "en": "communicative rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0037",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯重建历史唯物主义的哲学用语，强调在交往中，不同的参与者克服掉了他们最初的那些纯粹主观的观念，同时，为了共同的合理信念而确立起了客观世界的同一性及其生活语境的主体间性，从而实现文明理性的重建。"
+  },
+  {
+   "cn": "经济理性",
+   "en": "economic rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0083",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "安德列·高兹（Andre Gorz）认为，经济理性指资本主义生产方式被商品交换所支配，以利润为尺度、以效率为标准，遵循可计算性和效率原则。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0084",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "安德列·高兹用语。生态理性指以满足人的基本需要为根本出发点，遵循最低限度的、最大使用价值原则，以达到最优化利用劳动、资本和自然资源的目的。"
+  },
+  {
+   "cn": "有限理性",
+   "en": "bounded rationality",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.7",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体虽然主观上希望做出理性选择，但是因为其认知限制而无法做出使自己效用最大化的理性选择。"
+  },
+  {
+   "cn": "生物学合理性原则",
+   "en": "biological rationality principle",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "接触电离辐射与放射性疾病的发生存在生物学上的合理性，即电离辐射的物理学特性、毒理学资料等证实电离辐射可导致相应疾病，且疾病的表现与电离辐射的生物学效应一致。"
+  },
+  {
+   "cn": "技术理性批判",
+   "en": "technical rationality critique",
+   "source": "马克思主义",
+   "wordNumber": "05.0023",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "西方马克思主义者对现代社会的批判内容之一。与大众文化批判、意识形态批判、心理机制批判相比，技术理性批判具有基础性地位。卢卡奇、马尔库塞和哈贝马斯等人都在技术理性批判方面有独到的贡献，其中马尔库塞的技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

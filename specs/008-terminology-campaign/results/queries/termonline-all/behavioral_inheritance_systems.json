@@ -1,0 +1,792 @@
+{
+ "key": "behavioral inheritance systems",
+ "term": "behavioral inheritance systems",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:07:58+00:00",
+ "status": "ok",
+ "note": "variant=behavioral inheritance systems; 审定公布名词库=8269; 海峡两岸名词对照库=2429; 其他来源数据库=529; 预公布名词数据库=453; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "遗传[性]行为",
+   "en": "inherited behavior",
+   "source": "行为医学名词",
+   "wordNumber": "1.017",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "人类所具有的生物性、先天性行为。是由遗传基因决定的行为表现和心理气质。"
+  },
+  {
+   "cn": "遗传",
+   "en": "inheritance",
+   "source": "植物学名词",
+   "wordNumber": "10.0001",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "亲代与子代在同一性状上的相似性。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0315",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "超类与子类之间的一个关系。表明子类自动地拥有其超类的全部属性和操作。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0229",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "特殊类的对象拥有其一般类的全部属性和服务。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity,inheritance",
+   "source": "畜牧学名词",
+   "wordNumber": "04.002",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "性状由亲代向子代传递的现象或过程。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity,inheritance",
+   "source": "水产名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "生物世代之间的连续性和相似性。"
+  },
+  {
+   "cn": "行为识别",
+   "en": "behavior based identity system",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.107",
+   "subjectFullName": "新闻学与传播学_公共关系_公关关系技术",
+   "subjectName": "公关关系技术",
+   "publishYear": "2022",
+   "definition": "企业在内部协调和对外交往中所确立的行为准则，体现在全体员工一致和谐的日常行为中。行为识别需要员工们在理解企业经营理念的基础上，将其变为发自内心的自觉行动，只有这样，才能使同一理念在不同场合、不同的层面"
+  },
+  {
+   "cn": "新构造运动继承性",
+   "en": "neotectonics inheritance",
+   "source": "地质学名词",
+   "wordNumber": "09.07.005",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "新构造运动在类型、方向性、空间分布和周期韵律性方面与老构造运动(先前构造运动)的某些联系。许多新构造运动一方面受老构造的控制，在其形成的新构造中，带有老构造的某些特点；另一方面，在一定程度上改造了老构"
+  },
+  {
+   "cn": "继承性新断裂",
+   "en": "inheritance fault",
+   "source": "地质学名词",
+   "wordNumber": "09.07.070",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "迁就、利用和改造了已有的老断裂，在老断裂的基础上于新构造运动期形成的断裂。"
+  },
+  {
+   "cn": "质量遗传",
+   "en": "qualitative inheritance",
+   "source": "农学名词",
+   "wordNumber": "06.071",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由单基因或少数几个基因控制的性状遗传模式。"
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "农学名词",
+   "wordNumber": "06.072",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由多个微效基因控制，表现为连续分布性状的遗传模式。"
+  },
+  {
+   "cn": "超亲遗传",
+   "en": "transgressive inheritance",
+   "source": "农学名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在F₂或以后的世代中，由于基因重组而在某种性状上出现超越亲本个体的遗传模式。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity;inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.096",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "性状由亲代向子代传递的现象或过程。遗传方式主要包括单基因遗传、多基因遗传等。"
+  },
+  {
+   "cn": "多基因遗传",
+   "en": "polygenic inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "由多个基因的微效作用及累加效应导致遗传性状改变或疾病的遗传方式。该遗传方式还受环境因素的影响。"
+  },
+  {
+   "cn": "线粒体遗传",
+   "en": "mitochondrial inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "由线粒体DNA决定遗传性状或遗传病的遗传方式。具有母系遗传、半自主复制、遗传瓶颈、阈值效应和线粒体DNA突变率高等特点。"
+  },
+  {
+   "cn": "母系遗传",
+   "en": "maternal inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.126",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "两个具有相对性状的亲本杂交，不论正交或反交，子代总是表现为母系性状的遗传方式。是细胞质遗传的主要特征。如线粒体DNA通过卵细胞将其中的遗传信息传给下一代，使得子代中线粒体DNA序列和母亲一致。"
+  },
+  {
+   "cn": "父系遗传",
+   "en": "paternal inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.127",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "父系性状传给子代的一种遗传方式。如父系Y染色体可以通过男性后代而代代相传，线粒体DNA也可由父系遗传。"
+  },
+  {
+   "cn": "表观遗传",
+   "en": "epigenetic inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.129",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "基因DNA序列（基因型）未发生变化，基因表达（表型）却发生了可遗传改变的现象。是一种DNA序列外的遗传方式。"
+  },
+  {
+   "cn": "共显性遗传",
+   "en": "codominance inheritance",
+   "source": "生殖医学名词",
+   "wordNumber": "10.122",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "一对等位基因之间，没有显性和隐性的区别，在杂合子个体中两种基因的作用都能表现出来的一种遗传方式。"
+  },
+  {
+   "cn": "母系遗传",
+   "en": "maternal inheritance",
+   "source": "生殖医学名词",
+   "wordNumber": "10.173",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "人类受精卵中的线粒体绝大部分来自母亲的卵母细胞，即母亲将线粒体DNA（mtDNA）传递给儿子和女儿，但只有女儿能将其mtDNA传递给下一代的遗传方式。"
+  },
+  {
+   "cn": "遗传",
+   "en": "inheritance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多基因遗传",
+   "en": "multigenic inheritance\",\"polygenic inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "核外遗传（=[细]胞质遗传）",
+   "en": "extranuclear inheritance (=cytoplasmic inheritance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "母体遗传（=[细]胞质遗传）",
+   "en": "maternal inheritance (=cytoplasmic inheritance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "染色体外遗传（=[细]胞质遗传）",
+   "en": "extrachromosomal inheritance (=cytoplasmic inheritance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "依恋行为系统",
+   "en": "attachment behavioral system\",\"ABS",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为抑制系统",
+   "en": "behavioral inhibition system\",\"BIS",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity\",\"inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity\",\"inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "超亲遗传",
+   "en": "transgressive inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二体遗传",
+   "en": "disomic inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[细]胞质遗传",
+   "en": "cytoplasmic inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "线粒体遗传",
+   "en": "mitochondrial inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质体遗传",
+   "en": "plastid inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "假染色体遗传",
+   "en": "pseudoautosomal inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "二体遗传",
+   "en": "disomic inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "因",
+   "en": "Inherit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因革",
+   "en": "Inheritance and Innovation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行为生物识别技术",
+   "en": "behavioral biometrics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行为智能体",
+   "en": "behavioral agent",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享行为",
+   "en": "sharing behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络行为",
+   "en": "Internet Behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "契约行为",
+   "en": "contractual behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行为检测",
+   "en": "behavior detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强互惠行为",
+   "en": "strong reciprocity behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "异常行为标识器",
+   "en": "abnormal behavior identifier",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "5-1阵型",
+   "en": "5-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-4-3阵型",
+   "en": "3-4-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-3-3阵型",
+   "en": "4-3-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-5-2阵型",
+   "en": "3-5-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-4-2阵型",
+   "en": "4-4-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "5-3-2阵型",
+   "en": "5-3-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-2-4阵型",
+   "en": "4-2-4 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "继承制度",
+   "en": "succession system/inheritance system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.34",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "某一个体在其死亡或退位之时将其作为社会之人所具有的权利、义务的总体，也即地位或财产转移给他人的社会制度。包括地位继承与财产继承。"
+  },
+  {
+   "cn": "女子继承制",
+   "en": "female inheritance system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0407",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "母系氏族时期通行的继承制度。母系氏族早期和中期，实行外婚制群婚，子女只知其母不知其父，致使世系只能按母系计算。于是，财产、职业、职位等均按照母系继承。母系氏族晚期，实行对偶婚，但居住方式是从妻居，遂仍"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance，succession",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.28",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "个体作为社会人所具有的权利、义务的总体，即地位或财产在其死亡或退位之时根据该社会公认的规则由特定的人所承继的行为。"
+  },
+  {
+   "cn": "活态传承",
+   "en": "living inheritance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0165",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在现今传统村落文化遗产延续与发展的环境中，以人为主体，在保存其文化精髓和风格的前提下，在民众的生产生活过程中延续其文化形态的一种传承方式；与“静态保护”相对。"
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "西方现代心理学主要流派之一，代表人物有华生(John Broadus Watson）、斯金纳(Burrhus Frederic Skinner）等。认为心理学的研究对象应是可直接观察和测量的行为，而非"
+  },
+  {
+   "cn": "继承权",
+   "en": "right of inheritance",
+   "source": "马克思主义",
+   "wordNumber": "04.0014",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继承人依法取得被继承人遗产的权利。包括两种含义：（1）客观意义上的继承权。它是指继承开始前，公民依照法律的规定或者遗嘱的指定而接受被继承人遗产的资格，即继承人所具有的继承遗产的权利能力。（2）主观意义"
+  },
+  {
+   "cn": "民俗传承",
+   "en": "inheritance of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0512",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民众在日常生活中把他们累积的日常生活的知识和经验、意愿和文化心理传递给后人的过程，它在历时性的向度上使得民俗文化保持稳定并不断延伸的运动过程；传承是一种文化行为，广大民众传承民俗文化而不使文化传统发生"
+  },
+  {
+   "cn": "行为因素指标",
+   "en": "behavioral indicator",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "反映妇女儿童健康状态且与行动和行为方式有关的定性或定量变量。"
+  },
+  {
+   "cn": "行为成瘾",
+   "en": "behavioral addiction",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.1",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "不依靠物质的一种行为活动的成瘾。表现为反复出现、具有强迫性质的某种行为，产生躯体、心理、社会严重不良后果，尽管成瘾者明白行为所产生的不良后果，仍然执意坚持。"
+  },
+  {
+   "cn": "健康行为",
+   "en": "health behaviors",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.2.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "有利于促进和保持健康的积极行为方式，包括均衡饮食、规律运动、充足睡眠、戒烟限酒等。"
+  },
+  {
+   "cn": "危险行为",
+   "en": "risk behaviors",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.2.2",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "对个人、他人或社会造成潜在危害的行为，通常涉及对健康、安全或公共秩序的威胁，包括吸烟、酗酒、药物滥用、危险驾驶等。"
+  },
+  {
+   "cn": "集体行为",
+   "en": "collective behavior",
+   "source": "社会学名词",
+   "wordNumber": "2.5.4.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体行为",
+   "subjectName": "群体行为",
+   "publishYear": "2025",
+   "definition": "在人群聚集的场合下，受共同的情绪或心境影响而产生思想和活动的过程，其中既缺少领导结构又不受现有社会规范的控制，通常是无明确目的、无行动计划的众多人的行为，具有自发性、狂热性和非结构性等特点。美国社会学"
+  },
+  {
+   "cn": "行为模式",
+   "en": "behavior pattern",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "多数人公认和遵守的楷模行为指标和规则化的行为体系，是一种社会制约手段。"
+  },
+  {
+   "cn": "法律行为",
+   "en": "legal behavior",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.5",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "能够产生法律效力的行为。"
+  },
+  {
+   "cn": "患病行为",
+   "en": "illness behavior",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.3",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "当一个人感到生病时，为了达到确认疾病存在和寻求减轻疾病痛苦的目的而主动采取的行动。它受到内在的对躯体状况的主观感受，以及外在的社会文化、医疗服务体系等多种因素的复杂影响。"
+  },
+  {
+   "cn": "亲社会行为",
+   "en": "prosocial behavior",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.9",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "一切有益于他人和社会的行为，如助人、分享、谦让、合作、自我牺牲等。"
+  },
+  {
+   "cn": "助人行为",
+   "en": "helping behavior",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.10",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "亲社会行为的一种，指一切帮助他人的行为，可以是无偿的，也可以是有偿的。"
+  },
+  {
+   "cn": "医生行为",
+   "en": "physician behavior",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医生行为",
+   "subjectName": "医生行为",
+   "publishYear": "2025",
+   "definition": "经济学视角下能为医生带来最大收益的行为。"
+  },
+  {
+   "cn": "医院行为",
+   "en": "hospital behavior",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "医院作为医疗服务提供者，在运营和管理过程中所采取的一系列行动和决策，涵盖医疗服务的提供、资源分配、财务管理、质量控制、患者关系管理以及应对政策和市场环境变化的策略。"
+  },
+  {
+   "cn": "亲社会行为",
+   "en": "prosocial behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.12.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "任何对他人有利的行为。如同他人共患难，帮助或援助他人，合作，安慰他人等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

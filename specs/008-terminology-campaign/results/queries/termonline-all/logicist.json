@@ -1,0 +1,42 @@
+{
+ "key": "logicist",
+ "term": "logicist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:38:22+00:00",
+ "status": "ok",
+ "note": "variant=logicist; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "逻辑主义",
+   "en": "logicism",
+   "source": "数学名词",
+   "wordNumber": "02.0304",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "空间逻辑",
+   "en": "spatial logics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0035",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "对空间位置进行推理的一类模态逻辑。"
+  },
+  {
+   "cn": "人工智能逻辑",
+   "en": "logics for artificial intelligence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0002",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "用数理逻辑的方法来研究如何形式化地表示和处理人类思维和推理法则的一门学科。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

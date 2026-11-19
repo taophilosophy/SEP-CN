@@ -1,0 +1,662 @@
+{
+ "key": "refined pantheism",
+ "term": "refined pantheism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:06:08+00:00",
+ "status": "ok",
+ "note": "variant=refined pantheism; 审定公布名词库=275; 海峡两岸名词对照库=73; 其他来源数据库=13; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "泛神论",
+   "en": "pantheism",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.094",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "将神与自然视为同一实体的哲学理论。强调自然界的至高无上，以及神与自然的不可分割性。主张神是万物的本体，万物都是神的体现，自然法则是神的化身。否认超自然的主宰或精神力量，认为神并非独立存在的实体，而是渗"
+  },
+  {
+   "cn": "精磨机",
+   "en": "refiner",
+   "source": "林学名词",
+   "wordNumber": "11.718",
+   "subjectFullName": "林学_木材科学与技术_木材加工机械",
+   "subjectName": "木材加工机械",
+   "publishYear": "2016",
+   "definition": "在制造过程中用于精密磨削的设备。在木材工业通常指造纸、人造板原料加工时精磨的设备。"
+  },
+  {
+   "cn": "精炼",
+   "en": "refine",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1274",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "经过持续的机械碰撞与摩擦使物料中的质粒变小，可可粒和砂糖粒的形状变得光滑，增加物料的流动性，并除去可可物料残留的、不需要的挥发性酸类物质的一种提高物料品质的加工工艺。"
+  },
+  {
+   "cn": "优化",
+   "en": "refinement",
+   "source": "兽医学名词",
+   "wordNumber": "09.117",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "通过改进和完善实验方案，尽可能保证实验动物福利的动物实验方法。"
+  },
+  {
+   "cn": "精炼",
+   "en": "refining",
+   "source": "冶金学名词",
+   "wordNumber": "05.1277",
+   "subjectFullName": "冶金学_钢铁冶金_炉外精炼",
+   "subjectName": "炉外精炼",
+   "publishYear": "2019",
+   "definition": "利用沉淀析出、液相分离、真空挥发及渣–金属分配反应等手段使金属液提高洁净度或纯度的冶炼操作。"
+  },
+  {
+   "cn": "精制",
+   "en": "refining",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.042",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "将杂质组分从主成分中去除的过程。"
+  },
+  {
+   "cn": "精磨",
+   "en": "refining",
+   "source": "林学名词",
+   "wordNumber": "12.209",
+   "subjectFullName": "林学_林产化学加工_木材制浆造纸",
+   "subjectName": "木材制浆造纸",
+   "publishYear": "2016",
+   "definition": "由热磨机分离所得的粗浆，再借助机械作用力，将纤维压溃、切断、揉搓、磨擦、分丝以及帚化等一系列作用，使粗浆进一步解离的过程。"
+  },
+  {
+   "cn": "磨浆",
+   "en": "refining",
+   "source": "林学名词",
+   "wordNumber": "12.223",
+   "subjectFullName": "林学_林产化学加工_木材制浆造纸",
+   "subjectName": "木材制浆造纸",
+   "publishYear": "2016",
+   "definition": "纤维悬浮液在磨浆设备里经受剪切、搓揉等机械力作用后，纤维的形态发生如切断、表面起毛、润胀、纵向开裂等变化，达到适合抄造某种纸品需要的一项重要工序。其过程是连续的，一般采用盘磨机。"
+  },
+  {
+   "cn": "加细网格",
+   "en": "refined net,refined mesh",
+   "source": "数学名词",
+   "wordNumber": "010.0497",
+   "subjectFullName": "数学_数值分析_偏微分方程数值解",
+   "subjectName": "偏微分方程数值解",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "精制盐",
+   "en": "refined salt",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0161",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "采用真空制盐工艺将工业原料盐溶解、除杂、重结晶制得的氯化钠。其质量分数≥99.1%。"
+  },
+  {
+   "cn": "精制盐水",
+   "en": "refined brine",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0470",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "在纯碱工业中，除去镁、钙离子及钙、镁盐类固体沉淀物等杂质的接近饱和的盐水。"
+  },
+  {
+   "cn": "精炼气",
+   "en": "refined gas",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0250",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "在合成氨生产中，用铜氨液脱除原料气中微量一氧化碳和二氧化碳后的气体。"
+  },
+  {
+   "cn": "精［制］糖",
+   "en": "refined sugar",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1185",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "一般指纯度在99.85%以上、颜色洁白的糖制品。"
+  },
+  {
+   "cn": "精制蜂胶",
+   "en": "refined propolis",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1548",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_其他食品（食用菌、蜂制品等）",
+   "subjectName": "其他食品（食用菌、蜂制品等）",
+   "publishYear": "2020",
+   "definition": "经过加工，除去蜂蜡和其他杂质的蜂胶。"
+  },
+  {
+   "cn": "精制类毒素",
+   "en": "refined toxoid",
+   "source": "感染病学名词",
+   "wordNumber": "01.0418",
+   "subjectFullName": "感染病学_总论_感染病预防",
+   "subjectName": "感染病预防",
+   "publishYear": "2019",
+   "definition": "加入磷酸铝等吸附剂制备的类毒素。注射后吸收快，刺激机体产生抗毒素的时间长，可减少注射次数和剂量，免疫效果好。如精制白喉类毒素、精制破伤风类毒素等。"
+  },
+  {
+   "cn": "精蒽",
+   "en": "refined anthracene",
+   "source": "冶金学名词",
+   "wordNumber": "05.0125",
+   "subjectFullName": "冶金学_钢铁冶金_炼焦",
+   "subjectName": "炼焦",
+   "publishYear": "2019",
+   "definition": "由粗蒽提纯或从蒽油馏分直接提取含蒽大于90.0%的精制产品。"
+  },
+  {
+   "cn": "精萘",
+   "en": "refined naphthalene",
+   "source": "冶金学名词",
+   "wordNumber": "05.0120",
+   "subjectFullName": "冶金学_钢铁冶金_炼焦",
+   "subjectName": "炼焦",
+   "publishYear": "2019",
+   "definition": "工业萘进一步提纯制得的含萘98.45%以上的萘产品。"
+  },
+  {
+   "cn": "精镁",
+   "en": "refined magnesium",
+   "source": "冶金学名词",
+   "wordNumber": "06.0810",
+   "subjectFullName": "冶金学_有色金属冶金_轻金属冶金",
+   "subjectName": "轻金属冶金",
+   "publishYear": "2019",
+   "definition": "由炼镁过程产生，经过精炼的镁。"
+  },
+  {
+   "cn": "精炼铁合金",
+   "en": "refined ferroalloy",
+   "source": "冶金学名词",
+   "wordNumber": "05.0487",
+   "subjectFullName": "冶金学_钢铁冶金_铁合金",
+   "subjectName": "铁合金",
+   "publishYear": "2019",
+   "definition": "采用冶炼工艺去除铁合金中的某些杂质元素后得到的铁合金。"
+  },
+  {
+   "cn": "精制松香",
+   "en": "refined rosin",
+   "source": "林学名词",
+   "wordNumber": "12.399",
+   "subjectFullName": "林学_林产化学加工_树木分泌物与提取物",
+   "subjectName": "树木分泌物与提取物",
+   "publishYear": "2016",
+   "definition": "采用高真空减压蒸馏等工艺去除松香中的部分中性物和氧化物等得到的浅色玻璃状固体树脂。"
+  },
+  {
+   "cn": "精炼",
+   "en": "refinement\",\"refining",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "精制机",
+   "en": "refiner",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "精化",
+   "en": "refinement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "细分",
+   "en": "refinement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "炼制品",
+   "en": "refined products",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "净度",
+   "en": "refined degree",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "细化剂",
+   "en": "grain refiner",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "溶剂精制",
+   "en": "solvent refining",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "石油炼制",
+   "en": "petroleum refining",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "晶粒细化",
+   "en": "grain refinement",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "钢包精炼",
+   "en": "ladle refining",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "真空精炼",
+   "en": "vacuum refining",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "区熔精炼",
+   "en": "zone refining",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "再融资信贷",
+   "en": "refinance credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地名雅化",
+   "en": "names refinement",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "精化策略",
+   "en": "refinement strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精化准则",
+   "en": "refinement criterion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增量精化",
+   "en": "incremental refinement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识精化",
+   "en": "knowledge refinement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "净化装置",
+   "en": "refining plant",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "精细化治理",
+   "en": "refined governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "镕裁",
+   "en": "Refining and Deleting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "斯文",
+   "en": "Be Cultured and Refined",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "圣文之雅丽",
+   "en": "The Sages’ Writings Are both Elegant and Refined.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "食必常饱，然后求美",
+   "en": "Attention to Refined Taste Comes Only After the Stomach Is Sated.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件定义体系结构",
+   "en": "software-defined architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件定义存储",
+   "en": "software-defined storage (SDS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件定义网络",
+   "en": "software-defined network (SDN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "SDN安全",
+   "en": "software-defined networking (SDN) security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文起八代之衰，道济天下之溺",
+   "en": "The Classical Style of Writing Revived the Literary Style in Decline During the Eight Dynasties; Confucianism Lifts the People out of Their Mental Plight.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "职能科学、权责法定、执法严明、公开公正、廉洁高效、守法诚信的法治政府",
+   "en": "a rule of law government which has well-conceived functions and statutorily defined powers and responsibilities; which strictly enforces the law and is impartial; and which operates in an open, clean, and efficient way, with strong credibility",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "泛神论",
+   "en": "pantheism",
+   "source": "马克思主义",
+   "wordNumber": "01.0107",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "源自希腊语pan（一切）和theos（神）。J.托兰德（Toland.J）首先使用的术语。是指把神和整个宇宙视为同一，即与存在的一切总和视为同一的哲学观，主张神就存在于自然界一切事物之中，没有其他超自"
+  },
+  {
+   "cn": "精制蜂胶",
+   "en": "refined propolis",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.12",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "经过加工，除去蜂蜡和其他杂质的蜂胶。"
+  },
+  {
+   "cn": "精炼油",
+   "en": "refined oil",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.3.2",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "毛油经一个或几个精炼工序后，所得符合标准的油脂之总称。"
+  },
+  {
+   "cn": "精制盐",
+   "en": "refined salt",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.15",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "经过净化、加工、去除杂质后，得到的纯度更高、成分更单一的食盐产品。以卤水或盐为原料，采用真空蒸发制盐工艺、机械热压缩蒸发制盐工艺或粉碎、洗涤、干燥工艺制得。"
+  },
+  {
+   "cn": "无神论",
+   "en": "atheism",
+   "source": "马克思主义",
+   "wordNumber": "01.0106",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "源自希腊语a（不，无）和theos（神），泛指相信神灵不存在的思想或与有神论相反的立场。马克思主义哲学中，该术语是指否定一切宗教信仰和鬼神迷信的学说，与“有神论”相对立，其理论基础是唯物主义。"
+  },
+  {
+   "cn": "限定日剂量",
+   "en": "defined daily dose,DDD",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.2.3.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "当一种药物用于其主要适应症时，假定的成人每天平均使用剂量。"
+  },
+  {
+   "cn": "用药频度",
+   "en": "defined daily doses,DDDs",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.2.3.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "以限定日剂量为单位计量某种药物的使用量，即药品实际总使用量与限定日剂量的比值，反映对该药的选择倾向性。"
+  },
+  {
+   "cn": "产权清晰",
+   "en": "clearly defined property rights",
+   "source": "马克思主义",
+   "wordNumber": "02.0423",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以法律的形式明确企业出资者的所有权与企业法人的财产权，使二者权利和责任的界定清晰，即企业在产权的所有、占有、使用、处置和收益等相关权利的归属明确。"
+  },
+  {
+   "cn": "胎盘部分残留",
+   "en": "retained placenta fragment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.40",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "部分胎盘小叶、副胎盘或部分胎膜残留于宫腔的现象。可影响子宫收缩而出血。"
+  },
+  {
+   "cn": "限定日费用",
+   "en": "defined daily dose cost,DDDc",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.2.3.4",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "一种药物的总费用与该药用药频度的比值。"
+  },
+  {
+   "cn": "固定立体角法",
+   "en": "defined-solid angle counting method",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "通过测量源对探测器入射窗所张某一固定立体角内的计数率来计算源活度的方法。"
+  },
+  {
+   "cn": "归建检疫",
+   "en": "quarantine of rejoined forces",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.7.3",
+   "subjectFullName": "军事预防医学_军队流行病学_军队疾病监测与检疫",
+   "subjectName": "军队疾病监测与检疫",
+   "publishYear": "2025",
+   "definition": "军队人员到外地或出国执行任务回来后，归建之前进行的检疫。"
+  },
+  {
+   "cn": "军队离退休干部健康教育",
+   "en": "health education of military retired cadre",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.5.5",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "根据老年人身心与行为特点，运用医学、社会学、心理学及老年学理论，对军队离退休干部进行的健康教育活动，旨在促使其树立健康观念、养成健康生活方式，以促进身心健康、提高生活质量，最终提升该群体健康素质。"
+  },
+  {
+   "cn": "退役安置",
+   "en": "placement of retired officer or demobilized soldier",
+   "source": "社会学名词",
+   "wordNumber": "4.3.11.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会优抚",
+   "subjectName": "社会优抚",
+   "publishYear": "2025",
+   "definition": "国家和社会依法向退役军人提供资金，如退役安置费、生产性贷款，以及服务保障，如结业安置、职业技能培训等，使其重返并适应社会的一种社会优抚项目。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

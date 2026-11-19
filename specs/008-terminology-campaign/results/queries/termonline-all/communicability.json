@@ -1,0 +1,102 @@
+{
+ "key": "communicability",
+ "term": "communicability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:42:36+00:00",
+ "status": "ok",
+ "note": "variant=communicability; 审定公布名词库=6; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "传染病",
+   "en": "communicable disease",
+   "source": "结核病学名词",
+   "wordNumber": "01.012",
+   "subjectFullName": "结核病学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "由病原体感染所致的疾病。具有传染性和免疫性等特点，在一定条件下可造成疾病流 行。"
+  },
+  {
+   "cn": "传染期",
+   "en": "communicable period",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "患者排出病原体的整个时期。一般需依据病原学检查和流行病学调查结果加以判断，是决定传染病患者隔离期限的重要依据。"
+  },
+  {
+   "cn": "创新可沟通性",
+   "en": "communicability of innovation",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0221",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "创新产品使用结果可以被观察或者被描述给其他人的程度。可沟通性越强，创新产品被采用的速度越快。"
+  },
+  {
+   "cn": "传染病",
+   "en": "communicable disease, contagious disease",
+   "source": "感染病学名词",
+   "wordNumber": "01.0004",
+   "subjectFullName": "感染病学_总论_概述",
+   "subjectName": "概述",
+   "publishYear": "2019",
+   "definition": "具有传染性和免疫性等特点，通过一定的传播途径进行播散，在一定条件下可造成流行的一种特殊类型感染病。"
+  },
+  {
+   "cn": "传染病",
+   "en": "communicable diseases,infectious diseases",
+   "source": "医学名词 第四分册",
+   "wordNumber": "05.005",
+   "subjectFullName": "医学_传染病学",
+   "subjectName": "传染病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "非传染性慢性疾病",
+   "en": "non-communicable chronic disease,NCD",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0432",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_人体测量",
+   "subjectName": "人体测量",
+   "publishYear": "2020",
+   "definition": "以恶性肿瘤、心血管疾病、慢性阻塞性肺部疾病、糖尿病等为代表,具有病程长、病因复杂、损害健康、迁延性、无自愈性和很少治愈性等特点的一类疾病。"
+  },
+  {
+   "cn": "慢性非传染性疾病预防",
+   "en": "chronic non-communicable disease prevention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.6.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_常见疾病预防",
+   "subjectName": "常见疾病预防",
+   "publishYear": "2025",
+   "definition": "针对一类病程长、病因复杂、损害健康、迁移性和很少治愈性等特点的疾病采取的一系列措施。"
+  },
+  {
+   "cn": "军队非传染病流行病学",
+   "en": "military epidemiology of non-communicable diseases",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.2",
+   "subjectFullName": "军事预防医学_军队流行病学_军队非传染病流行病学",
+   "subjectName": "军队非传染病流行病学",
+   "publishYear": "2025",
+   "definition": "对军队人群中慢性非传染性疾病的分布、影响因素及防控策略和措施的流行病学研究。"
+  },
+  {
+   "cn": "军事航海非传染病流行病学",
+   "en": "military nautical epidemiology of non-communicable diseases",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.4.2",
+   "subjectFullName": "军事预防医学_军队流行病学_军事航海流行病学",
+   "subjectName": "军事航海流行病学",
+   "publishYear": "2025",
+   "definition": "对军事航海人群中非传染性疾病的发生、发展、分布及影响的因素、防控策略和措施等流行病学研究。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,672 @@
+{
+ "key": "foundations of constructive analysis",
+ "term": "Foundations of Constructive Analysis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:05:23+00:00",
+ "status": "ok",
+ "note": "variant=Foundations of Constructive Analysis; 审定公布名词库=10000; 海峡两岸名词对照库=8264; 其他来源数据库=1921; 预公布名词数据库=2849; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "粉底",
+   "en": "foundation",
+   "source": "精细化工名词",
+   "wordNumber": "08.0671",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "涂敷于面部，具有遮盖皮肤瑕疵或修饰肤色等作用，以粉质原料、颜料均匀地分散或悬浮于基质中制成的产品。"
+  },
+  {
+   "cn": "巢础",
+   "en": "foundation",
+   "source": "畜牧学名词",
+   "wordNumber": "09.122",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂饲养管理",
+   "subjectName": "蜜蜂饲养管理",
+   "publishYear": "2020",
+   "definition": "人工制造的蜜蜂巢房房基。一般采用蜂蜡或无毒塑料制成。"
+  },
+  {
+   "cn": "地基",
+   "en": "foundation",
+   "source": "电力名词",
+   "wordNumber": "01.737",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "直接支承建筑物重量的地层部位,它是由岩土体构成。"
+  },
+  {
+   "cn": "杆塔基础",
+   "en": "foundation",
+   "source": "电力名词",
+   "wordNumber": "22.158",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "埋设在地下,与杆塔底部连接,稳定承受所作用荷载的一种结构。"
+  },
+  {
+   "cn": "基金会",
+   "en": "foundation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0554",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "根据《基金管理办法》，基金会是指对国内外社会团体和其他组织以及个人自愿捐赠资金进行管理的民间非营利性组织，是社会团体法人。"
+  },
+  {
+   "cn": "基础",
+   "en": "foundation",
+   "source": "建筑学名词",
+   "wordNumber": "13.0292",
+   "subjectFullName": "建筑学_建筑结构_地基与基础",
+   "subjectName": "地?基与基础",
+   "publishYear": "2014",
+   "definition": "将建筑物承受的各种作用传递到地基上的结构组成部分。"
+  },
+  {
+   "cn": "基础",
+   "en": "foundation",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.132",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "地基",
+   "en": "foundation",
+   "source": "水利科学技术名词",
+   "wordNumber": "05.188",
+   "subjectFullName": "水利科学技术_岩石力学、土力学、岩土工程_岩土工程（水利）",
+   "subjectName": "岩土工程（水利）",
+   "publishYear": "1997",
+   "definition": "承受结构物荷载的岩体、土体。"
+  },
+  {
+   "cn": "地基",
+   "en": "foundation",
+   "source": "地质学名词",
+   "wordNumber": "09.015",
+   "subjectFullName": "地质学_工程地质学和环境地质学",
+   "subjectName": "工程地质学和环境地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地基",
+   "en": "foundation bed;foundation",
+   "source": "地质学名词",
+   "wordNumber": "17.04.195",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "承担建筑物全部载荷，受建筑物影响的岩土体。"
+  },
+  {
+   "cn": "数学基础",
+   "en": "foundation of mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.240",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "研究数学是不是一门可靠的科学以及它为什么是可靠的学科。活跃于这一领域的大多数是数理逻辑学家。数学基础与数学哲学的界限有时是模糊的，它可以看作用严格数学的手段处理关于数学的哲学问题的努力。"
+  },
+  {
+   "cn": "基础立柱",
+   "en": "chimney [of foundation]",
+   "source": "电力名词",
+   "wordNumber": "22.163",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "基础的收缩部分。杆塔的插入式主材与地脚螺栓埋设其中。"
+  },
+  {
+   "cn": "数学基础",
+   "en": "foundation of mathematics",
+   "source": "数学名词",
+   "wordNumber": "02.0300",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "建设项目交通影响评价",
+   "en": "transportation impact analysis of construction project",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.395",
+   "subjectFullName": "城乡规划学_城乡规划与设计_综合交通规划",
+   "subjectName": "综合交通规划",
+   "publishYear": "2021",
+   "definition": "预测和评价建设项目投入使用后的新生成交通需求对周围交通系统运行的影响程度，并制定相应的对策，消减建设项目交通影响的技术方法。"
+  },
+  {
+   "cn": "建构",
+   "en": "construction",
+   "source": "风景园林名词",
+   "wordNumber": "07.0100",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "系统性的建立、构造，强调建造过程体现建筑本质及意义的作用，是结构和细部的诗意表达，使建筑获得意义和存在感。"
+  },
+  {
+   "cn": "构筑物",
+   "en": "construction",
+   "source": "建筑学名词",
+   "wordNumber": "09.0040",
+   "subjectFullName": "建筑学_建筑设计_总图与场地",
+   "subjectName": "总图与场地",
+   "publishYear": "2014",
+   "definition": "特种工程结构的通称，指一般不直接在内部进行生产和生活活动的工程实体或附属建筑设施。"
+  },
+  {
+   "cn": "建造",
+   "en": "construction",
+   "source": "建筑学名词",
+   "wordNumber": "01.0004",
+   "subjectFullName": "建筑学_总论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2014",
+   "definition": "把预想的建筑物付诸实施的过程。"
+  },
+  {
+   "cn": "句式",
+   "en": "construction",
+   "source": "语言学名词",
+   "wordNumber": "04.151",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "按照句子的局部特点划分的句子类型，即某些具有特定语义的固定格式。例如把字句、被字句等。"
+  },
+  {
+   "cn": "可构成[的]",
+   "en": "constructible",
+   "source": "数学名词",
+   "wordNumber": "02.0198",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "建设用地",
+   "en": "land of construction",
+   "source": "资源科学技术名词",
+   "wordNumber": "14.015",
+   "subjectFullName": "资源科学技术_土地资源学",
+   "subjectName": "土地资源学",
+   "publishYear": "2008",
+   "definition": "建造建筑物、构筑物的土地。包括城乡住宅和公共设施用地、工矿用地、交通水利设施用地、旅游用地、军事设施用地等。"
+  },
+  {
+   "cn": "基本音音栓",
+   "en": "foundation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基本音栓",
+   "en": "foundation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "建筑材料",
+   "en": "materials of construction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "油墨结构",
+   "en": "construction of ink",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "造标",
+   "en": "construction of signal",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "纸张结构",
+   "en": "construction of paper",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "建构，构念",
+   "en": "construct",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地基承载能力",
+   "en": "foundation capability",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "桩基",
+   "en": "pile foundation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "天线基座",
+   "en": "antenna foundation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地名结构",
+   "en": "construction of geographical  names",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "建筑基地面积",
+   "en": "area of construction base",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "建造相应阶段",
+   "en": "similar stage of construction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "船体建造工艺",
+   "en": "technology of hull construction",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "船体建造公差",
+   "en": "tolerance of hull construction",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "移情分析",
+   "en": "analysis of transference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阻抗分析",
+   "en": "analysis of resistance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析单元",
+   "en": "unit of analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "协方差分析",
+   "en": "analysis of covariance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "方差分析",
+   "en": "analysis of variance",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "中场组织者",
+   "en": "constructive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全基础",
+   "en": "Security Foundation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法分析",
+   "en": "analysis of algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辐条构造",
+   "en": "spoke construction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方差分析",
+   "en": "analysis of variance (ANOVA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会行为分析",
+   "en": "analysis of social behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基金会",
+   "en": "foundation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.8",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "利用国内外自然人、法人或者其他组织捐赠的资金，以推进科学研究、文化教育、社会福利和其他公益事业发展为目的成立的民间非营利性组织。"
+  },
+  {
+   "cn": "社会工作的理论基础",
+   "en": "the theoretical foundation of",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "支撑社会工作实践的基础性理论部分。主要包括社会学、经济学、心理学等学科领域中对社会工作具有重要或直接影响的一些理论、学说。"
+  },
+  {
+   "cn": "社会主义的经济基础",
+   "en": "economic foundation of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0317",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "社会主义国家建立的以生产资料公有制为基础和主体的社会主义生产关系各个方面的总和。"
+  },
+  {
+   "cn": "社会主义社会建设",
+   "en": "social construction of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0689",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义的社会建设中“社会”是整个社会主义社会发展中与其经济、政治、文化相并列的一个领域。社会主义的社会建设，是通过动员社会力量、整合社会资源、协调利益关系、发展社会事业、完善社会功能、健全社会保障、"
+  },
+  {
+   "cn": "高校校医院建设",
+   "en": "construction of university hospital",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校物质环境",
+   "subjectName": "学校物质环境",
+   "publishYear": "2025",
+   "definition": "普通高等学校为师生提供公共卫生服务与基本医疗保障的卫生保健工作而设立具有《医疗机构执业许可证》医疗机构的全过程。"
+  },
+  {
+   "cn": "党的阶级基础",
+   "en": "class foundation of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0715",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "任何政党都是阶级的政党，都代表一定的阶级意志和利益，都有其阶级基础。超阶级的政党在现实社会生活中是不存在的。中国工人阶级是中国革命和建设事业的领导阶级，是中国共产党的阶级基础。"
+  },
+  {
+   "cn": "乡村建设",
+   "en": "rural construction",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "20世纪30年代由知识分子和政界人士共同参与的中国乡村现代化改造运动。1931年，梁漱溟在山东邹平从事乡治实践时首次使用该词，但此前类似的改造运动已经展开。20世纪20年代，在国民党地方政权和军阀势力"
+  },
+  {
+   "cn": "社会建构",
+   "en": "social construction",
+   "source": "社会学名词",
+   "wordNumber": "2.1.8.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会建设",
+   "subjectName": "社会建设",
+   "publishYear": "2025",
+   "definition": "一种认为社会实在或社会事物并非自然形成或被发现的，而是人为建构和界定的后现代建构论概念。与自然主义、实证主义的立场相反，它强调相关人群的互动和协商在建构中的决定性意义，从而认为被建构的社会或社会事物会"
+  },
+  {
+   "cn": "社会主义建设",
+   "en": "socialist construction",
+   "source": "马克思主义",
+   "wordNumber": "03.0288",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "比较落后国家的无产阶级掌握政权之后，领导人民建设社会主义新型制度和发展生产力的实践。社会主义建设包括社会主义经济、政治和思想文化建设，有时也专指经济建设。列宁在《怎样组织竞赛》一文中，第一次使用“社会"
+  },
+  {
+   "cn": "制度体系建设",
+   "en": "system construction",
+   "source": "马克思主义",
+   "wordNumber": "03.0782",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党为了提高党建科学化水平、加强党的自身建设，实现依法治国、依法执政，对党内生活的各个方面的行为准则加以制度化、规范化、体系化的活动。"
+  },
+  {
+   "cn": "建筑要求",
+   "en": "construction requirement",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "为满足生产、生活的良好环境条件，对建设用地上的建筑物布置和建筑物之间的群体关系做出的技术规定。"
+  },
+  {
+   "cn": "建构效度",
+   "en": "construct validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.75",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用某个量度对理论概念或特质的测量程度来衡量其效度的方法。"
+  },
+  {
+   "cn": "建构性叙述",
+   "en": "constructed narrative",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.1",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "复述“记忆社区”里由过去历史所建构出来的故事，这种“记忆社区”是由过去的历史所构建出来的现实的社区。"
+  },
+  {
+   "cn": "结构效度",
+   "en": "construct validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "根据量表实际测量结果与所要测量的理论结构的一致性，即测量结果是否符合假设的理论来评价量表有效性。是采用统计方法对收集数据客观评价测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "公募基金会",
+   "en": "public raising foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "面向公众募捐的基金会。按照募捐的地域范围，分为全国性公募基金会和地方性公募基金会。全国性公募基金会的公开募捐活动可以在全国范围内开展，地方性公募基金会的公开募捐活动只能在登记注册地行政区域内开展。"
+  },
+  {
+   "cn": "运作型基金会",
+   "en": "operational-type foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.21",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "由自己的工作人员直接参与项目运作的公益基金会。"
+  },
+  {
+   "cn": "资助型基金会",
+   "en": "funding-type foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.22",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "主要通过与其他服务机构合作、资助其开展服务项目以实现自身宗旨目的公益基金会。"
+  },
+  {
+   "cn": "经济制度的社会建构",
+   "en": "social construction of economic institutions",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "政治制度、法律制度，以及社会、文化、历史等因素交织而成的外在环境对经济制度的出现及其作用发挥产生的影响。"
+  },
+  {
+   "cn": "无产阶级执政党建设",
+   "en": "construction of proletarian ruling party",
+   "source": "马克思主义",
+   "wordNumber": "03.0296",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级政党为执政党后，它所处的地位、环境以及面临的任务都有了新的特点。为保持党的先进性和纯洁性，努力使党成为社会主义事业的坚强领导核心而开展的一系列工作。主要包括无产阶级政党为加强自身建设而在思想理"
+  },
+  {
+   "cn": "社会主义新农村建设",
+   "en": "construction of new socialist countryside",
+   "source": "马克思主义",
+   "wordNumber": "03.0690",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2005年10月，党的十六届五中全会通过《十一五规划纲要建议》，提出要按照生产发展、生活宽裕、乡风文明、村容整洁、管理民主的要求，坚持从各地实际出发，尊重农民意愿，扎实推进社会主义新农村建设。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

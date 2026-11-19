@@ -1,0 +1,582 @@
+{
+ "key": "ordinary manipulation",
+ "term": "ordinary manipulation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:55:03+00:00",
+ "status": "ok",
+ "note": "variant=ordinary manipulation; 审定公布名词库=444; 海峡两岸名词对照库=92; 其他来源数据库=7; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "手法",
+   "en": "manipulation",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "06.128",
+   "subjectFullName": "中医药学_骨伤科学_治疗",
+   "subjectName": "治疗",
+   "publishYear": "2013",
+   "definition": "以手为主，在体表特定部位或穴位上施以不同的动作技巧，以调节人体生理、病理状态，从而达到防治疾病的方法的总称。"
+  },
+  {
+   "cn": "手法",
+   "en": "manipulation",
+   "source": "中医药学名词",
+   "wordNumber": "09.002",
+   "subjectFullName": "中医药学_推拿学、养生学、康复学",
+   "subjectName": "推拿学、养生学、康复学",
+   "publishYear": "2004",
+   "definition": "操作者用手足刺激患病部位和运动肢体，达到治疗、保健作用的规范化技巧动作。"
+  },
+  {
+   "cn": "手法治疗",
+   "en": "manipulation",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0206",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "推拿[术]",
+   "en": "manipulation",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.246",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "焊接操作机",
+   "en": "manipulator",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.333",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_工艺装备与设备",
+   "subjectName": "工艺装备与设备",
+   "publishYear": "2021",
+   "definition": "能够移动和控制焊接机头、焊枪或焊件，按照选定的焊接速度沿规定的轨迹进行焊接的装置。"
+  },
+  {
+   "cn": "操作机",
+   "en": "manipulator",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0443",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "用来抓取和(或)移动物体、由一些相互铰接或相对滑动的构件组成的多自由度机器。"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0980",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "能模仿人手和手臂的某些动作功能。用以按固定程序抓取、搬运物件或操作工具的自动操作装置。"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "化学名词",
+   "wordNumber": "06.0251",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "能模仿人手和臂的某些动作功能，按固定程序或按操作人员的动作来抓取、搬运物件或操作工具的装置。在核领域，用于在屏蔽墙外操作放射性物质，进行维修、拆除、更换设备、搬用物品等作业，使操作人员与被操作的放射性"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.292",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "能模仿人手和臂的某些动作功能，用以按固定程序抓取、搬运物件或操作工具的自动操作装置。如远距离操作放射性物质。是最早出现的工业机器人和现代机器人，它可代替人的繁重劳动以实现生产的机械化和自动化，能在有害"
+  },
+  {
+   "cn": "操纵器",
+   "en": "manipulator",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "21.0261",
+   "subjectFullName": "机械工程_工程机械_凿岩机械与气动工具_零部件与机构",
+   "subjectName": "零部件与机构",
+   "publishYear": "2013",
+   "definition": "集中操纵钻车、钻机及钻架作业的机构。"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "航天科学技术名词",
+   "wordNumber": "19.001",
+   "subjectFullName": "航天科学技术_航天机器人",
+   "subjectName": "航天机器人",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "自动化名词",
+   "wordNumber": "05.156",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_机器人",
+   "subjectName": "机器人",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "普通球粒陨石",
+   "en": "ordinary chondrite",
+   "source": "地质学名词",
+   "wordNumber": "13.07.032",
+   "subjectFullName": "地质学_地球化学_天体与宇宙化学",
+   "subjectName": "天体与宇宙化学",
+   "publishYear": "2026",
+   "definition": "泛指具球粒结构的常见石陨石。陨石中硅酸盐矿物占75%～90%，铁-镍金属单质10%～25%，可含少量硫铁化物等。在迄今已发现的陨石中占87%。"
+  },
+  {
+   "cn": "常光",
+   "en": "ordinary ray",
+   "source": "地质学名词",
+   "wordNumber": "02.00.219",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "光在一轴晶中传播时，发生双折射而产生两种互相垂直振动的偏光(两个光学主轴)，其中振动方向垂直光轴的光。用Nₒ表示，其折射率为恒定值。"
+  },
+  {
+   "cn": "普通型救护车",
+   "en": "ordinary ambulance",
+   "source": "急救医学名词",
+   "wordNumber": "01.035",
+   "subjectFullName": "急救医学_急救概论_急救基本概念_急救转运工具",
+   "subjectName": "急救转运工具",
+   "publishYear": "2025",
+   "definition": "为基础处理、观察和转运病情较轻患者而设计和装备的救护车。"
+  },
+  {
+   "cn": "普通邮寄",
+   "en": "ordinary mail",
+   "source": "档案学名词",
+   "wordNumber": "02.03.024",
+   "subjectFullName": "档案学_文件管理_公文处理",
+   "subjectName": "公文处理",
+   "publishYear": "2024",
+   "definition": "文件传递的方式之一。通过国家设立的公共邮递系统递送文件。用于传递无保密要求的公开性、普发性文件。"
+  },
+  {
+   "cn": "常乳",
+   "en": "ordinary milk",
+   "source": "兽医学名词",
+   "wordNumber": "04.657",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "乳腺在生成初乳之后合成分泌的乳。"
+  },
+  {
+   "cn": "普通带",
+   "en": "ordinary tape ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.02.007",
+   "subjectFullName": "编辑与出版学_音像复制_磁带复制",
+   "subjectName": "磁带复制",
+   "publishYear": "2022",
+   "definition": "磁粉为三氧化二铁的磁带。"
+  },
+  {
+   "cn": "普通青贮",
+   "en": "ordinary silage ",
+   "source": "草学名词",
+   "wordNumber": "2.0568",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "普通贮藏库",
+   "en": "ordinary storageroom ",
+   "source": "草学名词",
+   "wordNumber": "4.0295",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "焊接操作机",
+   "en": "manipulator",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "基因操作",
+   "en": "gene manipulation\",\"genetic manipulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传操作,基因操作",
+   "en": "genetic manipulation\",\"gene manipulation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "常波",
+   "en": "ordinary wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "常年",
+   "en": "ordinary year",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "寻常胞",
+   "en": "ordinary cell",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "普通利息",
+   "en": "ordinary interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通票据",
+   "en": "ordinary bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通信用证",
+   "en": "ordinary credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通银行",
+   "en": "ordinary bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通支票",
+   "en": "ordinary check",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通景观",
+   "en": "ordinary landscape",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "普通克利金法",
+   "en": "ordinary Kriging",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "普通摄影",
+   "en": "ordinary photography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "普通个虫",
+   "en": "ordinary zooid",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "一般闪光",
+   "en": "ordinary flash",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "超微量化学操作",
+   "en": "ultramicrochemical manipulation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亲代操纵",
+   "en": "parental manipulation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "普通犯规",
+   "en": "ordinary foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正握",
+   "en": "ordinary grip\",\"overhand grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "挺举握杠",
+   "en": "ordinary grip\",\"shoulder-width grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操纵",
+   "en": "manipulation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "在服务对象与服务提供者的关系中，为使服务对象顺应服务提供者的目的而控制其自主决定的行为，包括为了取得某种效果而精心安排事实，不提供信息、夸大、歪曲事实真相或者撒谎。是同社会工作专业尊重个人自由和案主自"
+  },
+  {
+   "cn": "机械手",
+   "en": "manipulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.30",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "能模仿人手和臂的某些动作功能，用以按固定程序抓取、搬运物件或操作工具的自动操作装置。"
+  },
+  {
+   "cn": "普通物体表面",
+   "en": "ordinary object surfaces",
+   "source": "消毒学",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "学校、托幼机构、医疗卫生机构、公共场所、家庭等各种场所的物品、用具、器械和设施的表面。"
+  },
+  {
+   "cn": "普通最小二乘方",
+   "en": "ordinary least squares",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.87",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "使回归方程的残差平方和最小的参数点估计方法。"
+  },
+  {
+   "cn": "常人",
+   "en": "ordinary person/layman",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "经营日常生活的普通人，相对于贵族或精英而言的“凡人”，与柳田国男(Yanagida Kunio）的“常民”(jyoomin）概念同义。加芬克尔 (H.Garfunkel）借助此概念证明日常实践理性活动"
+  },
+  {
+   "cn": "微波作业人员健康教育",
+   "en": "health education for microwave-manipulating personnel",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.5.6.6",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "针对在作业过程中接触微波的军队官兵（包括雷达兵、通讯兵及电子对抗部队等兵种）的健康教育，主要包括微波热效应和非热效应的知识；微波的防护措施及个人防护；微波辐射场的安全操作规则等。"
+  },
+  {
+   "cn": "尿液标本",
+   "en": "urinary specimen",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.20.13",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "从人体采集的尿液样本，用于尿液理化性质及内容物非生理性改变的检测以及对病原体的培养。"
+  },
+  {
+   "cn": "定序尺度",
+   "en": "ordinal scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.40",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一个具有逻辑次序的类别集合对测量对象进行分类的测量方式。该逻辑次序可能是从低到高或从贫到富，例如回答人对某个服务的态度可以划分作非常不满意、不满意、满意和非常满意四个等级。"
+  },
+  {
+   "cn": "尿失禁",
+   "en": "urinary incontinence",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.21",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "清醒状态下尿液不自主流出的现象。漏出道可以是尿道，称为尿道源性尿失禁，如神经源性膀胱。漏出道也可以是其他腔道（如阴道），称为尿道外尿失禁，如输尿管异位开口等。"
+  },
+  {
+   "cn": "尿潴留",
+   "en": "urinary retention",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.22",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "膀胱充满尿液不能排出，导致膀胱过度膨胀、膀胱内压力增高的状态。分为急性和慢性。常见于良性前列腺增生、尿道损伤和狭窄、神经源性膀胱、脊髓或颅脑疾病或损伤的患者。"
+  },
+  {
+   "cn": "序数效用论",
+   "en": "ordinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用序数词来表示消费者偏好次序的理论，主要分析工具是无差异曲线和预算线。"
+  },
+  {
+   "cn": "围绝经期压力性尿失禁",
+   "en": "perimenopausal stress urinary incontinence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.5.6",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "围绝经期发生的，腹压突然增加而导致尿液不自主流出的现象。主要原因是卵巢功能减退及泌尿道发生退行性改变，使得尿道张力及尿道内压力下降，膀胱内压力超过尿道内压力。"
+  },
+  {
+   "cn": "泌尿系统改变",
+   "en": "changes in the urinary system",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.5.2.6",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业机体变化",
+   "subjectName": "高温作业机体变化",
+   "publishYear": "2025",
+   "definition": "高温作业时，肾血流量和肾小球滤过率下降，尿中可出现蛋白、红细胞管型，甚至可出现肾功能不全。"
+  },
+  {
+   "cn": "导尿管相关尿路感染",
+   "en": "catheter-associated urinary tract infection, CAUTI",
+   "source": "消毒学",
+   "wordNumber": "4.6.22.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者留置导尿管期间或拔除导尿管后48小时内发生的尿路感染。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

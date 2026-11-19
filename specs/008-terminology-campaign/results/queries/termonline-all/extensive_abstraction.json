@@ -1,0 +1,792 @@
+{
+ "key": "extensive abstraction",
+ "term": "extensive abstraction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:31:50+00:00",
+ "status": "ok",
+ "note": "variant=extensive abstraction; 审定公布名词库=1017; 海峡两岸名词对照库=164; 其他来源数据库=53; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "抽象",
+   "en": "abstraction,abstraction",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0227",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "对对象的属性和行为进行概括得到一类对象的公共性质并加以描述的过程。"
+  },
+  {
+   "cn": "摘要",
+   "en": "abstraction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.047",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "从口头或文字作品中摘录要点以形成新作品的著作活动。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0339",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "从事物中抽取出所关心、本质性的要素，而舍弃其非本质、不关注的要素。"
+  },
+  {
+   "cn": "攫取[反应]",
+   "en": "abstraction",
+   "source": "化学名词",
+   "wordNumber": "02.1154",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "从反应底物分子上夺取1个原子(常见的是氢原子)，通常形成1个新的自由基中间体的反应。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "心理学名词",
+   "wordNumber": "02.626",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "抽取出某些事物的若干共同属性，并将这些属性推广到一类事物，使之普遍化的思维过程。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.063",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "通常指简化观察真实世界物体的一种方式。"
+  },
+  {
+   "cn": "抽象[化]",
+   "en": "abstraction",
+   "source": "数学名词",
+   "wordNumber": "02.0127",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "λ抽象",
+   "en": "λ-abstraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0921",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "λ演算中定义函数的方法。"
+  },
+  {
+   "cn": "文摘编制",
+   "en": "abstracting",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.868",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_文摘",
+   "subjectName": "文摘",
+   "publishYear": "2019",
+   "definition": "为帮助研究者迅速确定该文章能否满足特定的信息需求，对作品主要内容进行客观、简短的描述的过程。"
+  },
+  {
+   "cn": "论文摘要",
+   "en": "abstract",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.056",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对论文主要内容的概括性介绍。"
+  },
+  {
+   "cn": "文摘",
+   "en": "abstract",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.086",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以提供文献内容梗概为目的，不加评论和补充解释，简明、确切地记述文献重要内容的短文。"
+  },
+  {
+   "cn": "广延",
+   "en": "extension",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.058",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "自然物质所具有的空间属性，即物体必然占有空间的属性。广延性是物体固有的本质特性，是事物的“第一性的质”。物质实体有广延而不能思想，思想实体能思想而无广延。"
+  },
+  {
+   "cn": "延伸",
+   "en": "extension",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0101",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）蛋白质的生物合成过程中逐个添加氨基酸的过程。（2）核酸生物合成过程中逐个添加核苷酸的过程。（3）糖链合成过程中逐个添加糖基的过程。"
+  },
+  {
+   "cn": "伸展",
+   "en": "extension",
+   "source": "手外科学名词",
+   "wordNumber": "02.0010",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "关节围绕冠状轴的运动。运动时相关节的两骨之间的角度增大。"
+  },
+  {
+   "cn": "伸",
+   "en": "extension",
+   "source": "运动医学名词",
+   "wordNumber": "01.394",
+   "subjectFullName": "运动医学_运动解剖_人体运动技术动作解剖学分析",
+   "subjectName": "人体运动技术动作解剖学分析",
+   "publishYear": "2019",
+   "definition": "运动环节在矢状面内，绕冠状轴向后的运动。但膝关节与踝关节相反。"
+  },
+  {
+   "cn": "外延",
+   "en": "extension",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0617",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在佩特里网中，一个网元的外延是指它的前集和后集的并集。一个网元子集的外延是指子集中各元素的外延的并集。"
+  },
+  {
+   "cn": "分机",
+   "en": "extension",
+   "source": "通信科学技术名词",
+   "wordNumber": "14.011",
+   "subjectFullName": "通信科学技术_通信终端",
+   "subjectName": "通信终端",
+   "publishYear": "2007",
+   "definition": "与用户主机或用户交换机相连的电话装置。"
+  },
+  {
+   "cn": "伸展",
+   "en": "extension",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.297",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "分机",
+   "en": "extension",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0134",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "拉张作用",
+   "en": "extension",
+   "source": "石油名词",
+   "wordNumber": "02.0040",
+   "subjectFullName": "石油_油气地质勘探_含油气盆地构造",
+   "subjectName": "含油气盆地构造",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "攫取[反应]",
+   "en": "abstraction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动文摘",
+   "en": "automatic abstract\",\"automatic abstracting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "粗放",
+   "en": "extensive",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "伸长",
+   "en": "extension",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "张宿",
+   "en": "Extension",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "延伸",
+   "en": "extension",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "范围",
+   "en": "extension",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分机",
+   "en": "extension",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可扩展的，易扩展的",
+   "en": "extensible",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "延伸率",
+   "en": "extensibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可扩展性",
+   "en": "extensibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可扩展性，易扩展性",
+   "en": "extensibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内攫取[反应]",
+   "en": "internal abstraction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抽象程度",
+   "en": "abstraction level",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据抽象",
+   "en": "data abstraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文摘服务",
+   "en": "abstracting service",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文摘服务处",
+   "en": "abstracting service",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展度",
+   "en": "extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽象数据",
+   "en": "abstract data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "加时赛",
+   "en": "extension\",\"overtime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪托延伸部",
+   "en": "butt extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展不完全",
+   "en": "uneven extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后退区域",
+   "en": "extension\",\"retreat zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "车把手杆",
+   "en": "handlebar extension\",\"stem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "副舵柄",
+   "en": "stick\",\"tiller extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "服务化延伸",
+   "en": "service-oriented extension",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准扩展性需求",
+   "en": "extensibility requirement of standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《隐私法扩展令》（加拿大）",
+   "en": "Privacy Act Extension Order (Canada)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "博爱",
+   "en": "Extensive Love to Benefit All People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "延长期",
+   "en": "extension\",\"extra period\",\"extra-time\",\"overtime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《获取信息法扩展令》（加拿大）",
+   "en": "Access to Information Act Extension Order (Canada)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "谷歌机器学习产业化",
+   "en": "extensive application of machine learning in Google products",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "博施济众",
+   "en": "Deliver Extensive Benefits to the People and Relieve the Suffering of the Poor",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《DIN 16587-2016 信息技术 自动识别和信息采集技术 数据矩阵矩形扩展》",
+   "en": "DIN 16587:2016 Information technology — Automatic identification and data capture techniques — Data matrix rectangular extension",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抽象社会",
+   "en": "abstract society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "一种与各种价值观念、信仰、情感和传统联系相脱离的、具有程序性、反思性和非人格化特征的现代科层制社会。社会学用以分析现代社会某些抽象特征的概念或视角。"
+  },
+  {
+   "cn": "抽象否定",
+   "en": "abstract negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0094",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“辩证否定”相对，是完全否定的形而上学观点。它割裂肯定和否定之间的辩证关系，在绝对不相容的对立中思维，把肯定和否定对立起来，也就是否定中完全不存在肯定。认为否定就是否定一切，或宣布某一物不存在，或用"
+  },
+  {
+   "cn": "抽象的个人",
+   "en": "abstract individuall",
+   "source": "马克思主义",
+   "wordNumber": "01.0136",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“现实的个人”相对。指抽去了个人所处的现实历史条件和社会关系中的人类个体。近代欧洲思想家把摆脱了自然联系的、处于资本主义自由竞争社会中的单子式的个人,看成是符合人类天性的人类个体的理想状态。“抽象的"
+  },
+  {
+   "cn": "抽象劳动",
+   "en": "abstract labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0046",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "撇开劳动的具体形式无差别的一般人类劳动，即人类劳动力生理意义上（包括脑力和体力）的支出。抽象劳动是形成商品价值的惟一源泉，反映了商品生产者相互交换劳动的社会关系。"
+  },
+  {
+   "cn": "抽象民主",
+   "en": "abstract democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0529",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平一再批评的一种非马克思主义的民主观。其特点是否认民主的阶级性和社会性，要求照搬西方资本主义国家的民主制度。1983年10月党的十二届二中全会上，邓小平指出：宣传抽象的民主，把民主同党的领导对立起"
+  },
+  {
+   "cn": "粗放农业",
+   "en": "extensive agriculture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0169",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "单位面积土地上，相对于集约农业而言，投入较低的劳力、资本的农业经营方式。"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "深度水解乳蛋白",
+   "en": "extensively hydrolyzed milk proteins",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.64",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "容易引起过敏反应的95%以上的乳蛋白被水解成分子量小于3kDa 的二肽、三肽和少量游离氨基酸的终产物。"
+  },
+  {
+   "cn": "深度水解配方乳",
+   "en": "extensively hydrolyzed formula milk",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.9.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "水解牛乳酪蛋白或乳清蛋白后的乳配方制品，其中氮以游离氨基酸以及分子量<1500的肽的形式存在，少量分子量 >3500。在不同的配方奶中，水解蛋白的程度和广度均不同。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "人际吸引",
+   "en": "interpersonal attraction",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "个体与他人之间情感上相互接纳和亲密的状态。影响因素主要有邻近性、相似性、互补性、外貌、才能及人格品质等。"
+  },
+  {
+   "cn": "超量确证",
+   "en": "excessive corroboration",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.153",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "对一个理论超过先前理论的多余经验内容进行确证。"
+  },
+  {
+   "cn": "过度治疗",
+   "en": "excessive treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.0360000000000005",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "治疗过程中，给予患者的远远超出所患疾病治疗客观需求的治疗手段。如所用药物过多或用药时间过长。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

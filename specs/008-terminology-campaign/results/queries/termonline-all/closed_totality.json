@@ -1,0 +1,772 @@
+{
+ "key": "closed totality",
+ "term": "closed totality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:18:11+00:00",
+ "status": "ok",
+ "note": "variant=closed totality; 审定公布名词库=2286; 海峡两岸名词对照库=674; 其他来源数据库=162; 预公布名词数据库=148; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "合闸",
+   "en": "closing",
+   "source": "电力名词",
+   "wordNumber": "19.295",
+   "subjectFullName": "电力_变电",
+   "subjectName": "变电",
+   "publishYear": "2020",
+   "definition": "开关从分位置转换到合位置。"
+  },
+  {
+   "cn": "紧密度",
+   "en": "closeness",
+   "source": "生物物理学名词",
+   "wordNumber": "06.157",
+   "subjectFullName": "生物物理学_生物信息学_系统生物学与合成生物学",
+   "subjectName": "系统生物学与合成生物学",
+   "publishYear": "2018",
+   "definition": "网络中某个节点的中心性度量。一般定义为该节点到网络中其他可达节点平均最短路径的倒数值。"
+  },
+  {
+   "cn": "成交",
+   "en": "closing",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0642",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "销售人员与顾客达成订单。是销售过程的一个阶段。"
+  },
+  {
+   "cn": "结账",
+   "en": "closing",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0060",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "在会计期末计算并结转各账户的本期发生额和余额，结束账簿记录的程序。"
+  },
+  {
+   "cn": "[闭]合",
+   "en": "closing",
+   "source": "电气工程名词",
+   "wordNumber": "09.395",
+   "subjectFullName": "电气工程_开关设备和控制设备",
+   "subjectName": "开关设备和控制设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "导线全长闭合差",
+   "en": "total length closing error of traverse",
+   "source": "测绘学名词",
+   "wordNumber": "06.022",
+   "subjectFullName": "测绘学_工程测量学",
+   "subjectName": "工程测量学",
+   "publishYear": "2020",
+   "definition": "由导线的起点推算至终点的位置与已知点位置之差。"
+  },
+  {
+   "cn": "全食",
+   "en": "total eclipse; totality",
+   "source": "天文学名词",
+   "wordNumber": "03.123",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "天体视面全部被另一个天体的影子遮掩的现象。"
+  },
+  {
+   "cn": "全固形物",
+   "en": "total solid,total matter",
+   "source": "建筑学名词",
+   "wordNumber": "14.1042",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "水中悬浮物和溶解固形物的总量。"
+  },
+  {
+   "cn": "闭合性损伤",
+   "en": "closed injury",
+   "source": "普通外科学名词",
+   "wordNumber": "09.015",
+   "subjectFullName": "医学_普通外科学_创伤",
+   "subjectName": "创伤",
+   "publishYear": "2026",
+   "definition": "体表结构的完整性未受到破坏的损伤。依据损伤原因、受力部位和结果不同，闭合伤可分为震荡伤、挫伤、挤压伤、关节脱位和半脱位、扭伤、冲击伤、闭合性骨折。"
+  },
+  {
+   "cn": "闭合引流",
+   "en": "closed drainage",
+   "source": "普通外科学名词",
+   "wordNumber": "13.071",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "引流管外端接密闭装置的引流技术。体表引流口较小，可放置较长时间。"
+  },
+  {
+   "cn": "闭合式痔切除术",
+   "en": "closed hemorrhoidectomy",
+   "source": "普通外科学名词",
+   "wordNumber": "19.256",
+   "subjectFullName": "医学_普通外科学_结直肠与腹膜后肿瘤外科",
+   "subjectName": "结直肠与腹膜后肿瘤外科",
+   "publishYear": "2026",
+   "definition": "切除内痔和外痔组织，在痔蒂部缝扎，通过连续缝合闭合皮肤切口的手术。"
+  },
+  {
+   "cn": "闭合性骨折",
+   "en": "closed fracture",
+   "source": "整形外科名词",
+   "wordNumber": "12.125",
+   "subjectFullName": "整形外科_颅颌面整形_颅面外伤及肿瘤",
+   "subjectName": "颅面外伤及肿瘤",
+   "publishYear": "2026",
+   "definition": "骨折部位皮肤或黏膜完整，不与外界相通的骨折。"
+  },
+  {
+   "cn": "闭合复位",
+   "en": "closed reduction",
+   "source": "整形外科名词",
+   "wordNumber": "12.132",
+   "subjectFullName": "整形外科_颅颌面整形_颅面外伤及肿瘤",
+   "subjectName": "颅面外伤及肿瘤",
+   "publishYear": "2026",
+   "definition": "不显露骨折端，仅经牵引及手法操作而使骨折复位的治疗方法。"
+  },
+  {
+   "cn": "闭形",
+   "en": "closed form",
+   "source": "地质学名词",
+   "wordNumber": "02.00.077",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "晶面可以封闭一定空间的单形。"
+  },
+  {
+   "cn": "闭合褶皱",
+   "en": "closed fold",
+   "source": "地质学名词",
+   "wordNumber": "09.03.049",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "翼间角＜70°、＞30°的褶皱。"
+  },
+  {
+   "cn": "郁闭林冠",
+   "en": "closed canopy",
+   "source": "风景园林名词",
+   "wordNumber": "12.0050",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "乔木的冠层彼此重叠，形成一个连续的、郁闭度0.8以上的冠层结构。"
+  },
+  {
+   "cn": "闭合性损伤",
+   "en": "closed injury",
+   "source": "急救医学名词",
+   "wordNumber": "03.309",
+   "subjectFullName": "急救医学_日常医学急救_外科学_损伤与创伤",
+   "subjectName": "损伤与创伤",
+   "publishYear": "2025",
+   "definition": "受伤部位体表皮肤或黏膜无破损的损伤类型。如挫伤、挤压伤、扭伤、震荡伤、关节脱位及半脱位等。"
+  },
+  {
+   "cn": "闭合性气胸",
+   "en": "closed pneumothorax",
+   "source": "急救医学名词",
+   "wordNumber": "03.349",
+   "subjectFullName": "急救医学_日常医学急救_外科学_胸部疾病",
+   "subjectName": "胸部疾病",
+   "publishYear": "2025",
+   "definition": "胸膜破裂口较小，随肺萎缩而闭合，肺泡气达一定量后不再继续进入胸膜腔的气胸类型。胸膜腔内压接近或略超过大气压，可为正压亦可为负压，抽气后压力下降而不复升。"
+  },
+  {
+   "cn": "闭合性骨折",
+   "en": "closed fracture",
+   "source": "急救医学名词",
+   "wordNumber": "03.475",
+   "subjectFullName": "急救医学_日常医学急救_外科学_骨折",
+   "subjectName": "骨折",
+   "publishYear": "2025",
+   "definition": "骨折处的皮肤或黏膜完整，骨折端不与体外相通的骨折。"
+  },
+  {
+   "cn": "闭塞性鼻音",
+   "en": "closed rhinolalia",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "2.3.8.1",
+   "subjectFullName": "鼻科_鼻症状",
+   "subjectName": "鼻症状",
+   "publishYear": "2025",
+   "definition": "说话时气流不能进入或较少进入鼻腔，导致声音呈缺乏鼻腔、鼻窦共鸣的语音异常。"
+  },
+  {
+   "cn": "亲密性",
+   "en": "closeness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "整体性",
+   "en": "totality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "导线全长闭合差",
+   "en": "total length closing error of traverse",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "全食",
+   "en": "total eclipse\",\"totality",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "全体",
+   "en": "total",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "闭锁脉序",
+   "en": "closed venation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "封闭系统",
+   "en": "closed system",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "郁闭植被",
+   "en": "closed vegetation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "闭合单体",
+   "en": "closed cell",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "闭合流域，闭合盆地",
+   "en": "closed basin",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "闭合系统",
+   "en": "closed system",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "封闭式叶轮",
+   "en": "closed impeller",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "闭环",
+   "en": "closed loop",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "闭式容器",
+   "en": "closed vessel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "密闭反应器",
+   "en": "closed reactor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "闭路",
+   "en": "closed circuit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "闭式边界",
+   "en": "closed boundary",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "封闭系统",
+   "en": "closed system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "封闭导管",
+   "en": "closed conduct",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "封闭系统",
+   "en": "closed system",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "封闭式防守姿势",
+   "en": "closed guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛道关闭",
+   "en": "closed arena",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭站姿",
+   "en": "closed stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭式多重障碍",
+   "en": "closed combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "密切接触者",
+   "en": "close contact",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "贴身带球",
+   "en": "close dribble",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离中心度",
+   "en": "closeness centrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "闭幕式",
+   "en": "closing ceremony",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总分",
+   "en": "total score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总时间",
+   "en": "total time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最终成绩",
+   "en": "total time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总分",
+   "en": "total score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥运会总成绩",
+   "en": "Olympic total",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭气室",
+   "en": "closed cell foam",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关闭拍面",
+   "en": "closed racket position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近射",
+   "en": "close-range shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总体性",
+   "en": "totality",
+   "source": "马克思主义",
+   "wordNumber": "05.0003",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "卢卡奇《历史和阶级意识》中的核心范畴。总体性是历史的总体，是客体与主体的统一；具体的总体，是直接性与中介性的统一；辩证的总体，是理论与实践的统一；革命的总体，是过程与目标的统一。"
+  },
+  {
+   "cn": "封闭社会",
+   "en": "closed society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "缺乏信息公开交流和社会自由流动、思想单一僵化、社会等级化的极权社会。最早由哲学家亨利·伯格森提出。与“开放社会”相对。。"
+  },
+  {
+   "cn": "封闭小组",
+   "en": "closed group",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.17",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "小组成员固定的小组。从小组聚会开始到结束都是相同的成员组合，不会随时间的变化而增加或减少组员。一般来说，深刻的互动关系和一些特殊的治疗关系都是在封闭的小组中完成的。"
+  },
+  {
+   "cn": "封闭人口",
+   "en": "closed population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.7",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "人口中没有发生迁移活动，出生和死亡成为影响人口规模变动的两个因素。"
+  },
+  {
+   "cn": "亲密关系",
+   "en": "close relationship",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "交往双方彼此影响、相互依赖程度极强的关系模式。其特点为两人存在持久的频繁互动，共享许多兴趣爱好，经常共同参与各类活动，相互影响力很大。"
+  },
+  {
+   "cn": "总酚",
+   "en": "total phenols",
+   "source": "消毒学",
+   "wordNumber": "2.1.9.9",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "包括多元酚和一元酚的所有酚类物质的总和。"
+  },
+  {
+   "cn": "总氯",
+   "en": "total chlorine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "化合氯和游离氯之和。"
+  },
+  {
+   "cn": "总过滤",
+   "en": "total filtration",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.31",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "固有过滤和附加过滤的总和。"
+  },
+  {
+   "cn": "总体史",
+   "en": "total history",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.15",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种涉及社会生活的诸方面的历史，将不同领域视为一个整体的各个组成部分，而要理解其中任何一个领域，都要将其置于整体的历史之中。"
+  },
+  {
+   "cn": "总收入",
+   "en": "total income",
+   "source": "马克思主义",
+   "wordNumber": "02.0279",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "总生产中扣除了成本后的收入部分。总收入等于工资（或预定要重新成为工人收入的产品部分）+利润+地租。"
+  },
+  {
+   "cn": "总效用",
+   "en": "total utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "在一定时间内，消费者消费某种商品或服务总的满足程度之和"
+  },
+  {
+   "cn": "总产量",
+   "en": "total production",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "与一定的可变要素劳动的投入量相对应的最大产量。"
+  },
+  {
+   "cn": "全氮",
+   "en": "total nitrogen",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.61",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "样品中的含氮物质（蛋白质及肽、胨及氨基酸等）中氮元素的总量，一般将含氮物质全部分解为氨后经测定计算出含氮总量。"
+  },
+  {
+   "cn": "总糖",
+   "en": "total sugar",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.66",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "被测样品中具有还原糖（含有游离醛基或酮基还原性基团的葡萄糖、果糖、麦芽糖）和非还原糖的总和。"
+  },
+  {
+   "cn": "总酸",
+   "en": "total acids",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.67",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "被测样品中所有能与氢氧化钠发生中和反应的各种酸的总和。"
+  },
+  {
+   "cn": "总减员",
+   "en": "total casualty",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.15.1",
+   "subjectFullName": "军事预防医学_军事预防医学_减员",
+   "subjectName": "减员",
+   "publishYear": "2025",
+   "definition": "参战人员在军事行动中所发生的减员，包括战斗减员和非战斗减员。"
+  },
+  {
+   "cn": "三卤甲烷总量",
+   "en": "total trihalomethanes",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.7.9",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "在氯化等反应过程中形成的一类挥发性卤代烃类化合物的总和，包括氯仿、一溴二氯甲烷、二溴一氯甲烷和溴仿等。"
+  },
+  {
+   "cn": "坑道密闭卫生",
+   "en": "closed tunnel sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.2.10",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为防止和降低坑道密闭时各种有害因素对官兵健康的影响而采取的包括物理、化学方法或通风换气、空气再生等技术手段在内的医学预防活动和措施。"
+  },
+  {
+   "cn": "结案",
+   "en": "termination，case closed",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.22",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者和服务对象双方依据工作协议，逐步结束工作关系所采取的行动。"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.57",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "给出了备择答案的问题。备择答案既可以明白无遗的，也可以是含蓄的。它们可以有两个备择项（两分问题），如“是”和“否”，或“男性”和“女性”；也可以有多个选项，比如“民主党”、“共和党”及“无党派”。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

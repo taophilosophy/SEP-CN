@@ -1,0 +1,792 @@
+{
+ "key": "prior plausibility assessments",
+ "term": "prior plausibility assessments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:03:28+00:00",
+ "status": "ok",
+ "note": "variant=prior plausibility assessments; 审定公布名词库=523; 海峡两岸名词对照库=87; 其他来源数据库=36; 预公布名词数据库=88; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "似真推理",
+   "en": "plausible inference",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.255",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于不确定的信念的推理理论。用信念测度（而非古典逻辑的真与假）来建立科学工作中诸如相反证据所导致的不确定信念的推理模式和形式模型。"
+  },
+  {
+   "cn": "似然推理",
+   "en": "plausible inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.045",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "根据模糊输入和模糊规则，按照确定好的推理方法进行推理，得到模糊输出量的过程。"
+  },
+  {
+   "cn": "先前经验学习评估",
+   "en": "assessment of prior experiential learning",
+   "source": "教育学名词",
+   "wordNumber": "12.163",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "教育机构对个体基于日常生活经验的学习及其成效进行的测量、评价和相应的认定。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "动物学名词",
+   "wordNumber": "2.0203",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "根据以往经验和分析得到的概率。"
+  },
+  {
+   "cn": "先验估计",
+   "en": "prior estimation",
+   "source": "物理学名词",
+   "wordNumber": "01.0112",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "先验信息",
+   "en": "prior information",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0208",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在决策分析中，尚未通过试验收集状态信息时所具有的信息。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0188",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在试验进行以前，根据已经知道的，试验结果的各种“原因”所发生的概率。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "语言学名词",
+   "wordNumber": "11.156",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "根据训练集样本直接得出的概率。是后验概率的基础。"
+  },
+  {
+   "cn": "前概率",
+   "en": "prior probability",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.448",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "预估值",
+   "en": "prior estimate",
+   "source": "化学工程名词",
+   "wordNumber": "05.224",
+   "subjectFullName": "化学工程_过程系统工程_过程操作",
+   "subjectName": "过程操作",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "数学名词",
+   "wordNumber": "09.0047",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "先验分布",
+   "en": "prior distribution",
+   "source": "数学名词",
+   "wordNumber": "09.0532",
+   "subjectFullName": "数学_概率论_数理统计_统计决策论",
+   "subjectName": "统计决策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "评估",
+   "en": "assessment",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.074",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "依据对文物古迹及相关历史、文化的调查研究，对文物古迹的价值、保存状况和管理条件做出的科学评价。"
+  },
+  {
+   "cn": "评估",
+   "en": "assessment",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0062",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "由一组训练有素的专家，基于某种评价模型或标准对一个或者多个过程进行检查，以确定其强项或者弱项的过程。"
+  },
+  {
+   "cn": "评估",
+   "en": "assessment",
+   "source": "地方病学名词",
+   "wordNumber": "01.089",
+   "subjectFullName": "地方病学_总论_健康教育与防控",
+   "subjectName": "健康教育与防控",
+   "publishYear": "2016",
+   "definition": "各级卫生部门等相关机构，通过调查分析，对地方病病情、危险因素、防治措施落实及防治目标完成情况等方面进行综合分析评价的过程。"
+  },
+  {
+   "cn": "评估",
+   "en": "assessment",
+   "source": "心理学名词",
+   "wordNumber": "10.214",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "科学地运用多种手段从各方面获得信息，对某一现象进行全面、系统和深入地客观描述。"
+  },
+  {
+   "cn": "预防制",
+   "en": "prior restraint system",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.047",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻从业者的权利_义务与责任",
+   "subjectName": "义务与责任",
+   "publishYear": "2022",
+   "definition": "出版物在出版之前，受政府有关部门的检查、批准、登记或履行其他法定手续，而且不排除事后追惩的制度。"
+  },
+  {
+   "cn": "广义先验分布",
+   "en": "generalized prior distribution",
+   "source": "数学名词",
+   "wordNumber": "09.0536",
+   "subjectFullName": "数学_概率论_数理统计_统计决策论",
+   "subjectName": "统计决策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "τ前σ域",
+   "en": "σ-field prior to τ,sigma-field prior to τ",
+   "source": "数学名词",
+   "wordNumber": "09.0213",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "结果评价",
+   "en": "product assessment,outcome assessment",
+   "source": "教育学名词",
+   "wordNumber": "15.077",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "对某个阶段目标实现程度的评价。"
+  },
+  {
+   "cn": "似真性排序",
+   "en": "plausibility ordering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "似真推理",
+   "en": "plausible reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先留置权",
+   "en": "prior lien",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先索赔权",
+   "en": "prior claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先债权",
+   "en": "prior charge",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率,前概率",
+   "en": "prior probability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "评估，评价",
+   "en": "assessment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "评估",
+   "en": "assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "预交进口保证金",
+   "en": "prior import deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预先颁发许可证制度",
+   "en": "prior licensing system",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "原始粉末颗粒边界",
+   "en": "prior particle boundary\",\"PPB",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "先入律",
+   "en": "law of prior entry",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性评估",
+   "en": "biodiversity assessment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主观评价，主观估计",
+   "en": "subjective assessment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临床评估",
+   "en": "clinical assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "需求评估",
+   "en": "need assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴评价",
+   "en": "peer assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为评价",
+   "en": "behavioral assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "评价中心",
+   "en": "assessment center",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "风险评估",
+   "en": "Risk Assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用评估",
+   "en": "credit assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资产评估",
+   "en": "data asset assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能化定损",
+   "en": "smart loss assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全管理评估",
+   "en": "security management assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独立系统评估",
+   "en": "independent system assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全评估方案",
+   "en": "security assessment scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "漏洞评估系统",
+   "en": "vulnerability assessment system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全风险评估",
+   "en": "data security risk assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全风险评估",
+   "en": "information security risk assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全管理评估准则",
+   "en": "security management assessment guideline",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融信息安全风险评估",
+   "en": "financial information security risk assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全风险评估机制",
+   "en": "data security risk assessment mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程器",
+   "en": "Assessment of One's Overall Qualities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新增授信客户风险评估",
+   "en": "risk assessment for new credit customers",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人信息安全影响评估",
+   "en": "impact assessment for personal information security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境信用评价制度",
+   "en": "the system of environmental credit assessment",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境影响评价制度",
+   "en": "the system of environmental impact assessment",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "预估",
+   "en": "assessment",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "收集与服务对象有关的详细资料、了解服务对象问题的形成，并依据既定情境中的事实与特点来推论出有关服务对象问题含义的暂时性结论的逻辑过程。"
+  },
+  {
+   "cn": "前次剖宫产",
+   "en": "prior cesarean delivery",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.7.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在本次妊娠前有子宫切开的分娩经历。"
+  },
+  {
+   "cn": "卫生评价",
+   "en": "hygienic assessment",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.01",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "评判预定的卫生健康目标进展情况和效果的活动。是卫生领域公认的科学有效的管理工具和持续改善医疗卫生服务质量水平、提高卫生资源利用效率、落实政府监管责任的重要手段。"
+  },
+  {
+   "cn": "风险评估",
+   "en": "risk assessment",
+   "source": "消毒学",
+   "wordNumber": "7.1.4.1",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "通过风险分析预测风险发生的概率及损失程度，并结合其他因素评估风险发生的可能性及其危害程度，决定是否需要采取相应措施的过程。"
+  },
+  {
+   "cn": "后果评估",
+   "en": "consequence assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.14",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "对与授权设施或其部分有关的正常运行和可能事故的放射性后果（例如剂量、活度浓度）的评估。"
+  },
+  {
+   "cn": "剂量评估",
+   "en": "dose assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.15",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "对接受照射或可能受照的个人或人群所进行的剂量测量和估算的过程和结果。"
+  },
+  {
+   "cn": "危害评估",
+   "en": "hazard assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.16",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "评估设施、活动或源有关的危害，以确定可能需要采取防护行动和其他响应行动的那些事件和相关领域，以及可有效减轻事件后果的行动。"
+  },
+  {
+   "cn": "性能评估",
+   "en": "performance assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.17",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "评估系统或子系统的性能及其对授权设施的防护和安全的影响。"
+  },
+  {
+   "cn": "独立评估",
+   "en": "independent assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.18",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为确定满足管理体系要求的程度、评价管理体系的有效性和识别改进机会而进行的审核或监督等评估。 它们可以由组织本身或代表组织本身进行，用于内部目的，也可以由客户和监管机构等利益相关方（或代表他们的其他人）"
+  },
+  {
+   "cn": "自我评估",
+   "en": "self-assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.19",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "由高级管理人员和其他级别的管理人员执行的常规和持续过程，以评估其所有职责领域的绩效有效性。"
+  },
+  {
+   "cn": "威胁评估",
+   "en": "threat assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.23",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为确认涉及境内外设施的设施、活动或源相关的可能危险而进行的评估过程。已确定可能需要在境内采取防护行动的事件和相关地域，以及可能对减轻这类事件后果有关的有效的行动。"
+  },
+  {
+   "cn": "需要评估",
+   "en": "needs assessment",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "撰写个案工作介入计划的基础。对服务对象的情况进行事先了解，在综合分析的基础上，确定其需求情况及其成因，形成暂时性评估结论的过程。"
+  },
+  {
+   "cn": "听觉测评",
+   "en": "auditory assessment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.23",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对儿童的听觉察知能力、听觉分辨能力、听觉识别能力和听觉理解能力进行相关评估的过程。"
+  },
+  {
+   "cn": "视觉测评",
+   "en": "visual assessment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.24",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "应用视觉心理物理学检查（如视力、视野、色觉、暗适应、立体视觉、对比敏感度等）及视觉电生理检查进行评估的过程。"
+  },
+  {
+   "cn": "再评估",
+   "en": "re-assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.9",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在初步评估之后重新对风险进行评估的过程，包括重新评估风险的概率和影响，考虑新的风险因素，以及评估已实施的风险控制措施是否足够有效。"
+  },
+  {
+   "cn": "危害评估",
+   "en": "hazard assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "确定某种因素或状况对生物、系统或（亚）人群可能产生有害作用的过程。包括危害识别和危害表征。"
+  },
+  {
+   "cn": "暴露评估",
+   "en": "exposure assessment",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.14.1.1.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品安全评价与保障",
+   "subjectName": "军队食品安全评价与保障",
+   "publishYear": "2025",
+   "definition": "对食用时可能摄入生物、化学、物理因素和其他来源的暴露所作的定性和（或）定量评估。"
+  },
+  {
+   "cn": "暴露评估",
+   "en": "exposure assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "生物、系统或（亚）人群通过不同的途径暴露于一种因素和其衍生物所进行的定性和（或）定量评价的过程"
+  },
+  {
+   "cn": "参与式评估",
+   "en": "participatory assessment",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0118",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种应用人类学的主要实践形式，使多方角色，尤其是利益相关者共同参与对某事件或项目的评价。"
+  },
+  {
+   "cn": "随机性评估",
+   "en": "stochastic assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.46",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "从输入分布中采用随机数字来选择数值，具有可以统计分析但不能精确预测的随机概率分布评估。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,772 @@
+{
+ "key": "bounded optimality",
+ "term": "bounded optimality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:28:09+00:00",
+ "status": "ok",
+ "note": "variant=bounded optimality; 审定公布名词库=858; 海峡两岸名词对照库=254; 其他来源数据库=43; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "有界[的]",
+   "en": "bounded",
+   "source": "数学名词",
+   "wordNumber": "05.0007",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "束缚-束缚跃迁",
+   "en": "bound-bound transition",
+   "source": "天文学名词",
+   "wordNumber": "04.157",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "束缚在原子里的电子从一个能态到另一能态的跃迁。"
+  },
+  {
+   "cn": "束缚–束缚激光器",
+   "en": "bound-bound laser",
+   "source": "光学名词",
+   "wordNumber": "10.038",
+   "subjectFullName": "光学_光源",
+   "subjectName": "光源",
+   "publishYear": "2021",
+   "definition": "激光跃迁产生于分子缔合物的束缚态和束缚态之间的激光器。"
+  },
+  {
+   "cn": "束缚-束缚激光器",
+   "en": "bound-bound laser",
+   "source": "物理学名词",
+   "wordNumber": "04.2248",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "束缚-束缚跃迁",
+   "en": "bound-bound transition",
+   "source": "物理学名词",
+   "wordNumber": "08.1538",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "最优性",
+   "en": "optimality",
+   "source": "数学名词",
+   "wordNumber": "011.0005",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.182",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "在一定条件限制下，选取某种研究方案使目标达到最优的一种方法。"
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "经济学名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "在满足某些特定的条件(称为约束)下,确定某些可控制的因素应该取何值,使得某一指标(称为目标函数)实现极大或极小,称为最优化。人们在生产、管理、分配等活动中,为了找出最好的方案(如使得路程最短、时间最省"
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "物理学名词",
+   "wordNumber": "01.0145",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "核医学名词",
+   "wordNumber": "01.0065",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "通过客观指标比较，从众多方案中寻找和确认最优方案的过程与方法。"
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0011",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "为提高程序执行效率对程序源代码或中间代码进行等价变换的方法。"
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "化学工程名词",
+   "wordNumber": "05.129",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "数学名词",
+   "wordNumber": "011.0002",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[最]优化",
+   "en": "optimization",
+   "source": "自动化名词",
+   "wordNumber": "02.268",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "行车碾压",
+   "en": "traffic bound,free bound",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.448",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "有限理性",
+   "en": "bounded rationality",
+   "source": "经济学名词",
+   "wordNumber": "05.009",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "行为者主观上具有理性意向；二是指其理性会受到实际智能的限制，即，一方面由于自身的经验、阅历、知识水平、技能等的限制，另一方面由于行为者面临的是一个复杂的、不确定的世界，所以，人们在做出决策(选择)时常"
+  },
+  {
+   "cn": "有界空间",
+   "en": "bounded space",
+   "source": "物理学名词",
+   "wordNumber": "03.0695",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "有界等离[子]体",
+   "en": "bounded plasma",
+   "source": "物理学名词",
+   "wordNumber": "10.0015",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "有限理性",
+   "en": "bounded rationality",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0506",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "决策者要受到信息的限制、时间的限制、预测能力的限制以及各种认识能力、客观条件等方面的限制，不可能具备完全理性，现实决策依据有限理性做出。"
+  },
+  {
+   "cn": "受囿量词",
+   "en": "bounded quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0061",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[边]界，界限",
+   "en": "bound",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "装订，联编",
+   "en": "bound",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "束缚-束缚跃迁",
+   "en": "bound-bound transition",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最优性",
+   "en": "optimality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最优性",
+   "en": "optimality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最优化，最佳化",
+   "en": "optimization",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "乐观",
+   "en": "optimism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "最优化,最适化",
+   "en": "optimization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "束缚轨道",
+   "en": "bounded orbit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "多项式有界[的]",
+   "en": "polynomial-bounded",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有界网",
+   "en": "bounded net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结合水（=束缚水）",
+   "en": "bound water",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "束缚能",
+   "en": "bound energy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "束缚生长素",
+   "en": "bound auxin",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "束缚水，结合水",
+   "en": "bound water",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上限",
+   "en": "upper bound",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "结合水分",
+   "en": "bound moisture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反弹",
+   "en": "bound",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "帕累托最优",
+   "en": "Pareto optimality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组合最优化",
+   "en": "combinatorial optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "凸优化",
+   "en": "convex optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒优化",
+   "en": "robust optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "启发式优化",
+   "en": "heuristic optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "渲染优化",
+   "en": "rendering optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运营优化",
+   "en": "operation optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反弹",
+   "en": "bound\",\"rebound\",\"bounce",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "界外球",
+   "en": "out of bounds",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出界",
+   "en": "go out-of-bounds",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分支定界法",
+   "en": "branch and bound method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图和网络优化",
+   "en": "graph and network optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蚁群优化算法",
+   "en": "ant colony optimization algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高优容差",
+   "en": "highly optimized tolerance (HOT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有限理性",
+   "en": "bounded rationality",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.7",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体虽然主观上希望做出理性选择，但是因为其认知限制而无法做出使自己效用最大化的理性选择。"
+  },
+  {
+   "cn": "帕累托最优",
+   "en": "Pareto Optimality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.15",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "不可能在不损害其他人利益的条件下改善某一方的利益时，各方利益达到的一种状态。"
+  },
+  {
+   "cn": "最佳测度",
+   "en": "optimal scaling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.53",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据数据本身的关联，寻找原始类别变量的最优评分方式的分析方法。数学上等同于双重测度。是由巴雷尔•博克于1960年提出的。"
+  },
+  {
+   "cn": "优抚安置",
+   "en": "optimal placement",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.103",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国政府对从事特殊工作者及其家属，如军人及其亲属予以优待、抚恤、安置的一项社会保障制度。其对象主要是烈军属、复员退伍军人、残疾军人及其家属；内容主要包括提供抚恤金、优待金、补助金，举办军人疗养院、光荣"
+  },
+  {
+   "cn": "最优化原则",
+   "en": "principle of optimization",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.004",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在临床诊疗过程中，医务人员在制定诊疗方案时应力求以最小的代价获得最大的效益的决策原则。包括效果最佳、安全度最高、痛苦最小以及最为经济、简便等。"
+  },
+  {
+   "cn": "有机结合氚",
+   "en": "organically bound tritium，OBT",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.6.14",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_放射毒理学",
+   "subjectName": "放射毒理学",
+   "publishYear": "2025",
+   "definition": "生物体内蛋白质、多糖、磷脂等大分子中以氢键形式存在的氚。"
+  },
+  {
+   "cn": "辐射防护最优化",
+   "en": "optimization of radiation protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.19",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "在考虑了经济和社会因素之后，个人受照剂量的大小，受照的人数以及受照射的可能性均保持在可合理达到的尽量低的水平。在谋求最优化时，应以最小的防护代价，获取最佳的防护效果，而不能追求无限地降低剂量。"
+  },
+  {
+   "cn": "防护与安全最优化",
+   "en": "optimization of protection and safety",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.2.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护三原则",
+   "subjectName": "放射防护三原则",
+   "publishYear": "2025",
+   "definition": "确定防护与安全的水平的过程，使得受照工作人员和公众的个人剂量的大小、受照人数及潜在照射的概率，在考虑了经济和社会因素之后，保持在可合理达到的尽量低水平。对患者的医疗照射，防护与安全最优化是指对患者辐射"
+  },
+  {
+   "cn": "卫生资源优化配置",
+   "en": "optimizing allocation of health resource",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "在一定时空范围内，区域内全部卫生资源在总量、结构与分布上，与居民的健康需要和卫生服务需求相适应的组合状态。"
+  },
+  {
+   "cn": "医疗照射防护最优化",
+   "en": "optimization of protection of medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.7.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "进行医疗照射实践时，在考虑了经济和社会的因素之后，应保证将辐射照射保持在可合理达到的尽量低水平。"
+  },
+  {
+   "cn": "产业结构优化升级",
+   "en": "optimization and upgrading of the industrial structure",
+   "source": "马克思主义",
+   "wordNumber": "02.0429",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "产业结构合理化和高度化的有机统一，促进各大产业间及其内部的健康协调发展。应通过市场调节与国家调节的共同作用来实现按比例、高质量和可持续的协调发展。"
+  },
+  {
+   "cn": "卫生服务生产要素最优组合",
+   "en": "optimal combination of production factors of health service",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "等成本线和等产量线相切的点的生产要素组合。根据生产理论，为了获取利润最大化，理性的生产者追寻以最小的成本来生产最大的产量。也就是产量既定时使成本最小，或者成本既定时产量最大。"
+  },
+  {
+   "cn": "帕累托最优",
+   "en": "Pareto 0ptimality",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "给定人群和可分配资源，从一种资源分配状态到另一种资源分配状态变化中，如果没有任何人境况变坏前提下，使得至少一个人变得更好，就实现了理想的资源分配状态。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  },
+  {
+   "cn": "捆绑支付",
+   "en": "bundled payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.18",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "是一种基于临床界定的服务疗程的支付方式，包括不同卫生服务提供者提供的一系列卫生服务。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "从最基础的经验资料出发，通过开放编码、主轴编码和选择编码提取概念并整合范畴的方法论。"
+  },
+  {
+   "cn": "伤员情况统计",
+   "en": "statistics of the wounded",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对伤员数量、伤情、救治情况等的统计，其原始资料主要来自伤票，并以战斗伤员登记、战时伤员死亡登记册等作对照，有关统计指标对卫勤机构和军事指挥员在指导和改进工作方面具有重要作用。"
+  },
+  {
+   "cn": "拌和型固体香精",
+   "en": "blended solid flavorings",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.2.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "香气和（或）香味成分与固体（含粉末）载体拌合在一起的香精"
+  },
+  {
+   "cn": "性别盲视政策",
+   "en": "gender-blinded policies",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.12",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "貌似性别中立、实则缺乏社会性别视角的公共政策。由于不承认、忽略或看不见不同性别之间的差异和不同处境，此类政策往往会导致对弱势性别群体的歧视性或侵害性后果。"
+  },
+  {
+   "cn": "复合茶饮料",
+   "en": "blended tea beverage",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.6.2",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "以茶叶和植（谷）物的水提取液或其干燥粉为原料，加工制成的具有茶与植（谷）物混合风味的液体饮料。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

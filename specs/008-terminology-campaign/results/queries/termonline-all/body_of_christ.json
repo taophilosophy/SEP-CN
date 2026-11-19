@@ -1,0 +1,732 @@
+{
+ "key": "body of christ",
+ "term": "body of Christ",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:37:07+00:00",
+ "status": "ok",
+ "note": "variant=body of Christ; 审定公布名词库=10000; 海峡两岸名词对照库=7782; 其他来源数据库=1896; 预公布名词数据库=2736; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "胃体",
+   "en": "body of stomach",
+   "source": "普通外科学名词",
+   "wordNumber": "17.005",
+   "subjectFullName": "医学_普通外科学_胃与十二指肠外科",
+   "subjectName": "胃与十二指肠外科",
+   "publishYear": "2026",
+   "definition": "自胃底与角切迹之间的胃的主体部分。"
+  },
+  {
+   "cn": "胆囊体",
+   "en": "body of gallbladder",
+   "source": "普通外科学名词",
+   "wordNumber": "22.004",
+   "subjectFullName": "医学_普通外科学_胆道外科",
+   "subjectName": "胆道外科",
+   "publishYear": "2026",
+   "definition": "位于胆囊底和胆囊颈之间的部分。与胆囊底、颈之间无明显的界限。"
+  },
+  {
+   "cn": "胰体",
+   "en": "body of pancreas",
+   "source": "普通外科学名词",
+   "wordNumber": "23.004",
+   "subjectFullName": "医学_普通外科学_胰腺外科",
+   "subjectName": "胰腺外科",
+   "publishYear": "2026",
+   "definition": "位于门静脉、肠系膜上静脉左侧，第1腰椎前方的部分胰腺。向左延伸为胰尾，向右为胰颈。"
+  },
+  {
+   "cn": "胆囊体",
+   "en": "body of gallbladder",
+   "source": "肝病学名词",
+   "wordNumber": "1.1.5.1.3.2",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏解剖学",
+   "subjectName": "肝脏解剖学",
+   "publishYear": "2024",
+   "definition": "胆囊底和胆囊颈之间的部分。与胆囊底之间无明显的界限，呈囊袋状。"
+  },
+  {
+   "cn": "阴蒂体",
+   "en": "body of clitoris",
+   "source": "男科及性医学名词",
+   "wordNumber": "02.156",
+   "subjectFullName": "男科及性医学_生殖系统解剖",
+   "subjectName": "生殖系统解剖",
+   "publishYear": "2023",
+   "definition": "左右阴蒂海绵体在中线处汇合形成的结构。表面覆以阴蒂包皮。"
+  },
+  {
+   "cn": "新闻主体",
+   "en": "body of story",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.137",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "消息在导语和结尾之间的主干部分，承接导语，对新闻内容进行具体陈述。"
+  },
+  {
+   "cn": "胆囊体",
+   "en": "body of gallbladder",
+   "source": "消化病学名词",
+   "wordNumber": "13.003",
+   "subjectFullName": "消化病_胆囊与胆道_胆囊与胆道解剖",
+   "subjectName": "胆囊与胆道解剖",
+   "publishYear": "2022",
+   "definition": "胆囊的主体部分，与底之间无明显界限。胆囊体向后逐渐变细，约在肝门右端附近移行为胆囊颈。"
+  },
+  {
+   "cn": "胰体",
+   "en": "body of pancreas",
+   "source": "消化病学名词",
+   "wordNumber": "14.004",
+   "subjectFullName": "消化病_胰腺_胰腺解剖",
+   "subjectName": "胰腺解剖",
+   "publishYear": "2022",
+   "definition": "胰腺中段部分，多在第1腰椎水平。前方与胃后壁有网膜囊相隔。胰体后方自右向左依次是下腔静脉、胸导管起始部、腹主动脉和左肾上腺。"
+  },
+  {
+   "cn": "阴蒂体",
+   "en": "body of clitoris",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "2.01",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤学基础_妇科解剖学_女性外生殖器",
+   "subjectName": "女性外生殖器",
+   "publishYear": "2022",
+   "definition": "位于阴蒂头和阴蒂脚的中部，由左右阴蒂海绵体在中线处联合形成的结构。表面覆以阴蒂包皮。"
+  },
+  {
+   "cn": "阴蒂体",
+   "en": "body of clitoris",
+   "source": "生殖医学名词",
+   "wordNumber": "2.012",
+   "subjectFullName": "生殖医学_生殖系统解剖_女性生殖系统解剖",
+   "subjectName": "女性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "阴蒂的中部。是由左、右阴蒂海绵体在中线处连合形成的结构，表面覆以阴蒂包皮。"
+  },
+  {
+   "cn": "子宫体",
+   "en": "body of uterus",
+   "source": "生殖医学名词",
+   "wordNumber": "2.03",
+   "subjectFullName": "生殖医学_生殖系统解剖_女性生殖系统解剖",
+   "subjectName": "女性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "子宫底与子宫颈之间的部分。"
+  },
+  {
+   "cn": "阴茎体",
+   "en": "body of penis",
+   "source": "生殖医学名词",
+   "wordNumber": "2.179",
+   "subjectFullName": "生殖医学_生殖系统解剖_男性生殖系统解剖",
+   "subjectName": "男性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "阴茎中部。呈圆柱形，以韧带悬于耻骨联合的前下方。"
+  },
+  {
+   "cn": "胃体",
+   "en": "body of stomach",
+   "source": "核医学名词",
+   "wordNumber": "04.1496",
+   "subjectFullName": "核医学_临床核医学_消化系统核医学_消化系统解剖生理基础",
+   "subjectName": "消化系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "自胃底向下至角切迹处的中间部分。胃容积最大的部分。"
+  },
+  {
+   "cn": "知识体系",
+   "en": "body of knowledge",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0008",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "描述特定专业知识总和的概括性术语。"
+  },
+  {
+   "cn": "乳房体",
+   "en": "body of breast",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0889",
+   "subjectFullName": "人体解剖学_内脏学_泌尿生殖系统、乳腺与会阴",
+   "subjectName": "泌尿生殖系统、乳腺与会阴",
+   "publishYear": "2014",
+   "definition": "乳房的主体部分。由乳腺和脂肪组织组成。"
+  },
+  {
+   "cn": "距骨体",
+   "en": "body of talus",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0819",
+   "subjectFullName": "人体解剖学_运动系统_附肢骨",
+   "subjectName": "附肢骨",
+   "publishYear": "2014",
+   "definition": "近似四方形，可分为上、下、内、外四个面。"
+  },
+  {
+   "cn": "下颌体",
+   "en": "body of mandible",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0390",
+   "subjectFullName": "人体解剖学_运动系统_中轴骨",
+   "subjectName": "中轴骨",
+   "publishYear": "2014",
+   "definition": "下颌骨的水平部，近似马蹄形。有上、下两缘及内、外两面。"
+  },
+  {
+   "cn": "胸骨体",
+   "en": "body of sternum",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0537",
+   "subjectFullName": "人体解剖学_运动系统_中轴骨",
+   "subjectName": "中轴骨",
+   "publishYear": "2014",
+   "definition": "其外侧缘与第二至第七肋软骨相关节的薄而狭长、呈长方形的骨板。"
+  },
+  {
+   "cn": "髂骨体",
+   "en": "body of ilium",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0676",
+   "subjectFullName": "人体解剖学_运动系统_附肢骨",
+   "subjectName": "附肢骨",
+   "publishYear": "2014",
+   "definition": "髂骨下部肥厚而不规则的部分。构成髋臼的上半部。"
+  },
+  {
+   "cn": "坐骨体",
+   "en": "body of ischium",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0699",
+   "subjectFullName": "人体解剖学_运动系统_附肢骨",
+   "subjectName": "附肢骨",
+   "publishYear": "2014",
+   "definition": "坐骨上部肥厚的部分。近似锥体形，构成髋臼的后下部。可分为内侧、外侧、后3面和前、后2缘。"
+  },
+  {
+   "cn": "基督的童年",
+   "en": "Enfance du Christ\",\"L’",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Berlioz, Hector"
+  },
+  {
+   "cn": "乳房体",
+   "en": "body of breast\",\"body of mamma",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "甲体",
+   "en": "nail body\",\"body of nail",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "上颌体",
+   "en": "body of maxilla\",\"maxillary body",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "舌体",
+   "en": "body of tongue\",\"lingual body",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胰体",
+   "en": "body of pancreas\",\"pancreatic body",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "子宫体",
+   "en": "uterine body\",\"body of uterus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "耻骨体",
+   "en": "body of pubis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "距骨体",
+   "en": "body of talus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肋骨体",
+   "en": "body of rib",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "膀胱体",
+   "en": "body of bladder",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "髂骨体",
+   "en": "body of ilium",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "穹窿体",
+   "en": "body of fornix",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胃体",
+   "en": "body of stomach",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "下颌体",
+   "en": "body of mandible",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胸骨体",
+   "en": "body of sternum",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "阴蒂体",
+   "en": "body of clitoris",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "阴茎体",
+   "en": "body of penis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "砧骨体",
+   "en": "body of incus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "坐骨体",
+   "en": "body of ischium",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "身体",
+   "en": "body",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识共同体",
+   "en": "Common Body of Knowledge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体姿态",
+   "en": "position of the body",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体波浪",
+   "en": "body wave",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手线",
+   "en": "body wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手线",
+   "en": "body wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体阻挡",
+   "en": "body checking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法身",
+   "en": "Dharmakāya / Body of Dharma",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "假动作",
+   "en": "body fake\",\"body feint\",\"fake\",\"feint",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体接触",
+   "en": "body contact\",\"clinch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体接触",
+   "en": "body contact\",\"infighting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体接触",
+   "en": "body contact\",\"clinch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "工人团体",
+   "en": "body of workmen",
+   "source": "马克思主义",
+   "wordNumber": "03.0064",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级团结起来，以有组织地开展反对资产阶级斗争的早期组织。"
+  },
+  {
+   "cn": "身体",
+   "en": "body",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "哲学传统中意指相对于灵魂的躯体，即生物事实以外的，以文化事实、社会事实为基础的肉体表达系统。"
+  },
+  {
+   "cn": "身体比例变化",
+   "en": "change of body proportion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "身体发育过程中头占身长（身高）的比例、上肢占身长（身高）的比例、坐高占身长（身高）的比例和腰臀比、腰高比、肩宽／骨盆宽的变化。"
+  },
+  {
+   "cn": "体成分模型",
+   "en": "model of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "反映人体内在结构成分特征的形式化表达。"
+  },
+  {
+   "cn": "身体政治",
+   "en": "body politics",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.19",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "西方女性主义的一个核心议题。认为女性身体既是父权制下被物化和规训的客体，同时也是女性赋权的工具。身体本身是性别政治和权力支配的产物，但也可以作为一种政治抗争的武器。"
+  },
+  {
+   "cn": "身体研究",
+   "en": "body studies",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.6",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "探讨高度现代性社会条件下人与其身体之间关联方式的反思性，亦即自我、身体与死亡之间关系的文明化身体的跨学科研究。"
+  },
+  {
+   "cn": "身体语言",
+   "en": "body language",
+   "source": "社会学名词",
+   "wordNumber": "4.1.14.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_沟通",
+   "subjectName": "沟通",
+   "publishYear": "2025",
+   "definition": "非语词性的身体符号，包括目光与面部表情、身体运动与触摸、身体姿势与外表、身体之间的空间距离等。"
+  },
+  {
+   "cn": "关节游离体",
+   "en": "loose body",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.7",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "剥脱性骨软骨炎、关节内骨软骨骨折、骨性关节炎和滑膜软骨瘤病骨造成的脱落碎屑或骨块形成的游离体。其在关节内游离移动时引起关节绞锁、疼痛和活动障碍。以膝、肘、髋和踝关节多见。"
+  },
+  {
+   "cn": "米粒体",
+   "en": "rice body",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.8",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "在关节腔内或滑囊内,多发的类似于米粒大小的游离体。大部分表面光滑,直径通常为2~7mm,位于积液内，形成米粒体性滑囊炎。部分学者认为米粒体是脱落的滑膜的微梗死灶被滑液中的纤维蛋白包裹所致；还有研究认为"
+  },
+  {
+   "cn": "风湿小体",
+   "en": "Aschoff body",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.29",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "风湿病的增生期或肉芽肿期，心肌间质，心内膜下和皮下结缔组织中，在胶原纤维间水肿，基质蛋白多糖增多，纤维素样坏死的基础上，出现巨噬细胞增生、聚集，吞噬纤维素样坏死物后所形成的风湿细胞。小体中心有类纤维蛋"
+  },
+  {
+   "cn": "体型",
+   "en": "body shape",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "身体各部位大小比例的形态特征总和。"
+  },
+  {
+   "cn": "身体成分",
+   "en": "body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "组成人体质量的各组成成分的含量，包括肌肉、骨骼、脂肪、水和矿物质等。"
+  },
+  {
+   "cn": "体重",
+   "en": "body weight",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "称量得到的身体重量。是营养状况评定中最简单又重要的指标。"
+  },
+  {
+   "cn": "异物",
+   "en": "foreign body",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.2",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "根据加工要求或食品标准不应该含有的物质。既包括食品原辅料本身含有，但产品要求剔除的物质，如肉中的骨头，菜中的菜根，也包括原本不属于食品原辅料的一部分而混入产品的物质，如金属和杂草等。"
+  },
+  {
+   "cn": "全身挤压伤",
+   "en": "body squeeze",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.3.2.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "潜水员作业时，因下潜过快、供气不足或中断、排气过度等，致潜水服内压低于外界水压，软质潜水服内气体挤入金属硬质头盔，使身体下部血液和淋巴液挤向头、颈、上胸部，引发组织损伤的疾病。"
+  },
+  {
+   "cn": "尸体整理与修复",
+   "en": "body recovery",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.7.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为妥善处理我军烈士遗体而进行的战场搜索、收集、登记、伤口缝合包扎、遗容整饬、防腐、包裹等一系列措施手段。"
+  },
+  {
+   "cn": "身体叙事",
+   "en": "body narrative",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0013",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "两个民俗主体之间直接以身体作为媒介或者载体进行叙述交流的叙事行为，包含两层含义：一是身体的叙事性，即以叙事的视角来研究人的身体，突出身体的叙述性与意义性，关注在不同文本形态的叙事过程中身体的呈现方式及"
+  },
+  {
+   "cn": "体表放射性核素沾染",
+   "en": "radionuclide contamination of body surface",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.15.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "放射性核素沾附于人体表面（皮肤或黏膜）的状态。所沾附的放射性核素对沾附局部构成外照射源，同时可经过体表吸收进入人体，构成内污染和内照射。"
+  },
+  {
+   "cn": "体内活度测量方法",
+   "en": "measuring method of activity in body",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.4",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "测量体液、组织、排泄物、呼出气、毛发和肺灌洗液等生物样品中放射性活度以及在体外测量体内放射性核素活度的方法"
+  },
+  {
+   "cn": "二成分模型",
+   "en": "two-component model of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "将人体内在结构分为体脂重和去脂体重这两种成分的形式化表达。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

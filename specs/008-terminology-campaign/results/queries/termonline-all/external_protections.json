@@ -1,0 +1,732 @@
+{
+ "key": "external protections",
+ "term": "external protections",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:23:07+00:00",
+ "status": "ok",
+ "note": "variant=external protections; 审定公布名词库=3564; 海峡两岸名词对照库=883; 其他来源数据库=166; 预公布名词数据库=263; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "外部防雷装置",
+   "en": "external lightning protection system",
+   "source": "建筑学名词",
+   "wordNumber": "11.0056",
+   "subjectFullName": "建筑学_建筑防护_防雷",
+   "subjectName": "防雷",
+   "publishYear": "2014",
+   "definition": "由接闪器、引下线、接地配置组成的防护装置。主要用于防直击雷。"
+  },
+  {
+   "cn": "外部熔断器",
+   "en": "fuses for external protection",
+   "source": "电气工程名词",
+   "wordNumber": "11.091",
+   "subjectFullName": "电气工程_电力电容器",
+   "subjectName": "电力电容器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "外",
+   "en": "external",
+   "source": "人体解剖学名词",
+   "wordNumber": "01.0021",
+   "subjectFullName": "人体解剖学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "对人体的空腔脏器而言，远离内腔者为外。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externality",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.153",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "个人或组织的行为导致其他人或组织受损或受益的情况。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externalities",
+   "source": "经济学名词",
+   "wordNumber": "03.206",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "对他人产生的有利或者不利的影响，但不需要他人为此支付报酬或进行补偿性活动。当私人成本或收益不等于社会成本或收益时，就会产生外部性问题。"
+  },
+  {
+   "cn": "外化",
+   "en": "externalization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0740",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "阐释和发展包含于隐性知识中的概念，将隐性知识转化成显性知识的过程。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externality",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1006",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "某个企业的经济行为(或者某个人的消费行为)，经过非价格手段，直接地、不可避免地影响到其他企业的生产(或者其他人的效用)，并且成为后者自己所不能加以控制的情况。"
+  },
+  {
+   "cn": "外部性",
+   "en": "externality",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.196",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "一个经济主体的经济活动对另一个经济主体所产生的有害或有益的影响。"
+  },
+  {
+   "cn": "保护",
+   "en": "protection",
+   "source": "电力名词",
+   "wordNumber": "12.104",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "热力生产过程中出现异常情况或事故时,根据事故的性质和程度,按照预定的处理程序自动地对相关设备进行操作,以消除异常,防止事故扩大,保证人身和设备安全。"
+  },
+  {
+   "cn": "防护",
+   "en": "protection",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.1503",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "1+1保护",
+   "en": "1+1 protection",
+   "source": "光学名词",
+   "wordNumber": "22.168",
+   "subjectFullName": "光学_光通信技术",
+   "subjectName": "光通信技术",
+   "publishYear": "2021",
+   "definition": "为一个业务工作的系统或者信道都热备用了另一套系统或者信道的一种业务保护方式。"
+  },
+  {
+   "cn": "1+1保护",
+   "en": "1+1 protection",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.057",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "为保证网络可靠性，对关键的节点设备和传输设备采用一对一冗余配置的一种方法，即一个工作的设备配一个备用设备的方案。"
+  },
+  {
+   "cn": "外睑腺炎",
+   "en": "external hordeolum,external sty",
+   "source": "老年医学名词",
+   "wordNumber": "04.930",
+   "subjectFullName": "老年医学_老年临床医学_老年眼科疾病",
+   "subjectName": "老年眼科疾病",
+   "publishYear": "2017",
+   "definition": "眼睑皮脂腺或汗腺的化脓性感染。"
+  },
+  {
+   "cn": "客土喷播护坡绿化",
+   "en": "external-soil spray sowing slope protection greening",
+   "source": "风景园林名词",
+   "wordNumber": "08.0527",
+   "subjectFullName": "风景园林_风景园林工程_风景园林驳岸",
+   "subjectName": "风景园林驳岸",
+   "publishYear": "2025",
+   "definition": "将草种、肥料、保水剂、土壤、有机物、稳定剂等混合物充分混合形成团粒化结构，通过喷射机均匀喷到需防护的工程坡面，以稳定土壤结构、防治水土流失的边坡处理方式。"
+  },
+  {
+   "cn": "气体保护",
+   "en": "gas protection,Buchholz protection",
+   "source": "电力名词",
+   "wordNumber": "05.162",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "根据被保护区域中的气体变化情况作为判断依据的一种保护。"
+  },
+  {
+   "cn": "电化学保护",
+   "en": "electrochemical protection,electrolytic protection",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0354",
+   "subjectFullName": "海洋科学技术_海洋技术_海水资源开发技术",
+   "subjectName": "海水资源开发技术",
+   "publishYear": "2007",
+   "definition": "根据电化学原理，防止金属遭受电化学腐蚀的方法。可分为阳极保护和阴极保护两种。"
+  },
+  {
+   "cn": "外引流",
+   "en": "external drainage",
+   "source": "普通外科学名词",
+   "wordNumber": "13.069",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "通过放置各种材料的引流物，借助压力差、虹吸作用或负压装置等将积蓄的液体引流至体外的技术。"
+  },
+  {
+   "cn": "外痔",
+   "en": "external hemorrhoid",
+   "source": "普通外科学名词",
+   "wordNumber": "19.121",
+   "subjectFullName": "医学_普通外科学_结直肠与腹膜后肿瘤外科",
+   "subjectName": "结直肠与腹膜后肿瘤外科",
+   "publishYear": "2026",
+   "definition": "发生于齿状线以下的痔。主要表现为便血、肛门异物感或肿痛。"
+  },
+  {
+   "cn": "外力",
+   "en": "external force",
+   "source": "地质学名词",
+   "wordNumber": "09.02.001",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "外部作用于某一体系的力。在多个物体组成的系统中，由系统之外的物体对这个系统的作用力。"
+  },
+  {
+   "cn": "外部残留",
+   "en": "external residue",
+   "source": "精细化工名词",
+   "wordNumber": "03.0250",
+   "subjectFullName": "精细化工_农药_生态环境",
+   "subjectName": "生态环境",
+   "publishYear": "2025",
+   "definition": "作物表面的农药残留。"
+  },
+  {
+   "cn": "外[的]",
+   "en": "external",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外化",
+   "en": "externalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保护",
+   "en": "protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保护",
+   "en": "protection",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "存储保护",
+   "en": "memory protection\",\"storage protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外鼻",
+   "en": "external nose",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外分泌",
+   "en": "external secretion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外呼吸",
+   "en": "external respiration",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外面",
+   "en": "external surface",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外囊",
+   "en": "external capsule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外支",
+   "en": "external branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外生衣瘿",
+   "en": "external cephalodium",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外波",
+   "en": "external wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外力",
+   "en": "external force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外强迫",
+   "en": "external forcing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外表面积",
+   "en": "external area",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "外能",
+   "en": "external energy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "外在容积",
+   "en": "external capacity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "外力",
+   "en": "external force",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "外流",
+   "en": "external flow",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "场外区域",
+   "en": "external space",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外力干扰",
+   "en": "external interference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感物",
+   "en": "Sensed Externalities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络外部性",
+   "en": "network externality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "系统保护",
+   "en": "System Protection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全防护",
+   "en": "Security Protection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保护区",
+   "en": "protection area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防护边坡",
+   "en": "protecting slope",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防护服",
+   "en": "protective suit",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "护裆",
+   "en": "protective cup",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动体外除颤器",
+   "en": "Automated External Defibrillator",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外存储子系统",
+   "en": "external storage subsystem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外化",
+   "en": "externalization",
+   "source": "马克思主义",
+   "wordNumber": "01.0068",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "内在的、精神性的东西转化为物质性的东西。德国哲学家黑格尔常用的哲学术语，主要指物质由绝对精神外化而来。马克思主义哲学中，外化是指通过人类社会实践将主体的人的思想、观念的力量转化为对象性的物质存在形式。"
+  },
+  {
+   "cn": "外在性",
+   "en": "externality",
+   "source": "马克思主义",
+   "wordNumber": "01.0070",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物显露在外的性质与特征。"
+  },
+  {
+   "cn": "防护",
+   "en": "protection",
+   "source": "消毒学",
+   "wordNumber": "1.7",
+   "subjectFullName": "消毒学_消毒学",
+   "subjectName": "消毒学",
+   "publishYear": "2025",
+   "definition": "为使人员、动物、物品等免受或减少外界因素的伤害所采取的措施。"
+  },
+  {
+   "cn": "放射防护",
+   "en": "radiation protection，radiological protection",
+   "source": "放射卫生学",
+   "wordNumber": "1.15",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "研究人类和环境免受或少受电离辐射危害的一门综合性学科，目的是保护人类和环境的健康与安全。"
+  },
+  {
+   "cn": "外照射",
+   "en": "external exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.4.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_途径分类",
+   "subjectName": "途径分类",
+   "publishYear": "2025",
+   "definition": "存在于体外的电离辐射源对机体的照射。"
+  },
+  {
+   "cn": "外在效度",
+   "en": "external validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.79",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以判断研究发现能否推论到更广泛的总体的量度。"
+  },
+  {
+   "cn": "外在表现",
+   "en": "external performance",
+   "source": "马克思主义",
+   "wordNumber": "01.0071",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内在本质”相对。事物在发生、发展、变化过程中所表现的外部联系性和客观形式。"
+  },
+  {
+   "cn": "外在联系",
+   "en": "external connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0072",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内在联系”相对。这种关系不是原有的，属于非本质、非必然关系，对事物性质没有决定性的影响。"
+  },
+  {
+   "cn": "外在尺度",
+   "en": "external scale",
+   "source": "马克思主义",
+   "wordNumber": "01.0170",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思在《1844年经济学哲学手稿》中提出的哲学范畴。指客体对象的尺度，即由对象的性质、属性、规律所规定的尺度，是一种客观性尺度，是客观对象所固有的本性和规律的表现。内在尺度要运用到对象上去，必须遵循"
+  },
+  {
+   "cn": "对外贸易",
+   "en": "external trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0282",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一个国家（地区）与另一个国家（地区）之间的商品、劳务和技术的交换活动。这种贸易由进口和出口两个部分组成。对运进商品或劳务的国家（地区）来说，就是进口；对运出商品或劳务的国家（地区）来说，就是出口。"
+  },
+  {
+   "cn": "外部评价",
+   "en": "external evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.4.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "由系统或组织外部第三方以受委托或独立的方式对特定妇幼卫生服务或项目开展基于标准评估的活动，涵盖认可、认证、许可等。"
+  },
+  {
+   "cn": "外部审计",
+   "en": "external audit",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.3.5",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "健康教育活动过程中，由与该活动不相关的外部人员对是否按项目要求投入资金、分配是否符合需要进行判断的活动。"
+  },
+  {
+   "cn": "外剂量",
+   "en": "external dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.15",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一种受控试验条件下，按特定途径以特定频率给予实验动物或人体某种试剂或化学物质的剂量。"
+  },
+  {
+   "cn": "外照射",
+   "en": "external exposure",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.32",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "来自体外辐射源对人体造成的照射。"
+  },
+  {
+   "cn": "外暴露量",
+   "en": "external exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.15",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "生物、系统或（亚）人群接触环境介质中的某种因素的浓度或含量"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且有益的影响。"
+  },
+  {
+   "cn": "负外部效应",
+   "en": "negative externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且不利的影响。"
+  },
+  {
+   "cn": "网络外部性",
+   "en": "network externalities",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.3",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "使用网络产品不仅使消费者受益或受损，还能使其他消费者或非消费者受益或受损的一种特性。"
+  },
+  {
+   "cn": "噪声防护",
+   "en": "noise protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.3.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "通过消除、控制噪声源，控制噪声传播，采取个人防护等手段以减少噪声污染，保护和改善作业环境，保障作业人员健康的措施和过程。"
+  },
+  {
+   "cn": "免疫防护",
+   "en": "immunological protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.6.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器伤害医学防护",
+   "subjectName": "生物武器伤害医学防护",
+   "publishYear": "2025",
+   "definition": "通过正常免疫应答，机体免疫系统阻止和清除入侵病原体及其毒素的功能。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

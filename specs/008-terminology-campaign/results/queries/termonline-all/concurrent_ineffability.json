@@ -1,0 +1,432 @@
+{
+ "key": "concurrent ineffability",
+ "term": "concurrent ineffability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:23:41+00:00",
+ "status": "ok",
+ "note": "variant=concurrent ineffability; 审定公布名词库=52; 海峡两岸名词对照库=30; 其他来源数据库=3; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "共点",
+   "en": "concurrent",
+   "source": "数学名词",
+   "wordNumber": "08.0308",
+   "subjectFullName": "数学_几何学_拓扑学_解析几何学",
+   "subjectName": "解析几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "并发纠缠",
+   "en": "concurrence",
+   "source": "物理学名词",
+   "wordNumber": "06.0752",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "并发性",
+   "en": "concurrency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0955",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "多个相关计算过程同时执行或交叉执行，通过交互实现协作，以共同完成给定的计算任务。"
+  },
+  {
+   "cn": "同步放化疗",
+   "en": "concurrent chemoradiotherapy",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.10.5",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈治疗",
+   "subjectName": "咽喉–头颈治疗",
+   "publishYear": "2025",
+   "definition": "恶性肿瘤化疗和放疗同步进行。在减少局部复发和远处转移、提高生存率等方面优于单用放疗或化疗，但要掌握适应证。"
+  },
+  {
+   "cn": "并行工程",
+   "en": "concurrent engineering",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.249",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "对产品及其相关过程（包括制造过程和支持过程）进行并行、集成化处理的系统方法和综合技术。"
+  },
+  {
+   "cn": "协作抑制",
+   "en": "concurrent inhibition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0087",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "由两个或更多个酶抑制剂共同作用，结合在酶的不同位点使酶活性完全丧失的抑制作用。单独作用时抑制作用不完全。"
+  },
+  {
+   "cn": "并行复制",
+   "en": "concurrent replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0121",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "在DNA复制过程中，前导链和后随链同时进行复制的现象。"
+  },
+  {
+   "cn": "并行设计",
+   "en": "concurrent design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0053",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "对产品及相关过程进行并行和集成的系统化工作模式，使设计人员充分考虑产品全周期的所有要素，并行进行不同阶段的设计，提高产品研发效率。"
+  },
+  {
+   "cn": "顺流干燥",
+   "en": "concurrent drying",
+   "source": "冶金学名词",
+   "wordNumber": "06.0233",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "物料移动方向与脱水介质流动方向相同的脱水工艺。"
+  },
+  {
+   "cn": "共点力",
+   "en": "concurrent force",
+   "source": "物理学名词",
+   "wordNumber": "02.0545",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "并发处理",
+   "en": "concurrent processing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0302",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "把任务分派给多个并发执行的进程，共享系统资源的任务处理方式。"
+  },
+  {
+   "cn": "并发进程",
+   "en": "concurrent process",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0408",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "在同一个操作系统上并发执行的进程。这些进程处于从创建到终止之间的生存周期中的某个状态，如执行状态或等待状态。"
+  },
+  {
+   "cn": "并发计算",
+   "en": "concurrent computing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0053",
+   "subjectFullName": "计算机科学技术_通论_计算模式",
+   "subjectName": "计算模式",
+   "publishYear": "2018",
+   "definition": "在一台或多台计算机上，通过在时间上重叠执行若干互相独立的子任务，以提高整个计算任务性能的方法和过程。这里的重叠执行，是指在一个子任务未完成时，就开始执行另一个子任务。"
+  },
+  {
+   "cn": "并行工程",
+   "en": "concurrent engineering",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0888",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "对产品及其相关过程进行并行、集成化处理的系统方法和综合技术。"
+  },
+  {
+   "cn": "并发程序设计",
+   "en": "concurrent programming",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0230",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "构造若干可同时执行的程序模块的程序设计方法。"
+  },
+  {
+   "cn": "并发变迁",
+   "en": "concurrent transitions",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0692",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "处于并发关系的变迁。"
+  },
+  {
+   "cn": "同时效度",
+   "en": "concurrent validity",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0041",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织行为研究",
+   "subjectName": "组织行为研究",
+   "publishYear": "2016",
+   "definition": "测评成绩与当时所在岗位的工作绩效之间的相关程度。"
+  },
+  {
+   "cn": "同期控制",
+   "en": "concurrent control",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0223",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "在一项管理工作进展过程中所实施的控制。"
+  },
+  {
+   "cn": "平行工作",
+   "en": "concurrent activity",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0231",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "与本工作同时进行的工作。"
+  },
+  {
+   "cn": "同时估计",
+   "en": "concurrent estimation",
+   "source": "心理学名词",
+   "wordNumber": "03.180",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "采用项目反应理论进行测验等值时，将两份待等值的测验合并后一次性估计的方法。一般用于非等组锚测验等值设计。"
+  },
+  {
+   "cn": "并发[性]",
+   "en": "concurrency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发反应",
+   "en": "concurrent reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "同时估计",
+   "en": "concurrent estimation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同时效度",
+   "en": "concurrent validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "并行复制",
+   "en": "concurrent replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协作抑制, 并发抑制",
+   "en": "concurrent inhibition",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "并行应用",
+   "en": "concurrent use",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "并发变迁",
+   "en": "concurrent transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发程序设计",
+   "en": "concurrent programming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发处理",
+   "en": "concurrent processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发进程",
+   "en": "concurrent process",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发模拟，并发仿真",
+   "en": "concurrent simulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并行工程",
+   "en": "concurrent engineering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并行管理",
+   "en": "concurrency management",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "并发公理",
+   "en": "concurrency axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发关系",
+   "en": "concurrency relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发控制",
+   "en": "concurrency control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发读[并发]写",
+   "en": "concurrent read and concurrent write\",\"CRCW",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发操作系统",
+   "en": "concurrent operating system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发故障检测",
+   "en": "concurrent fault detection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据库并发控制协议标准",
+   "en": "standard for database concurrency control protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随时消毒",
+   "en": "concurrent disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.4.2",
+   "subjectFullName": "消毒学_消毒应用_疫源地消毒",
+   "subjectName": "疫源地消毒",
+   "publishYear": "2025",
+   "definition": "有传染源存在时，对传染源的血液、体液、分泌物、呕吐物、排泄物等及其可能污染的环境和物品进行的消毒。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

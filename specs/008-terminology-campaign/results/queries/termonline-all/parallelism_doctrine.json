@@ -1,0 +1,772 @@
+{
+ "key": "parallelism doctrine",
+ "term": "parallelism doctrine",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:36:00+00:00",
+ "status": "ok",
+ "note": "variant=parallelism doctrine; 审定公布名词库=567; 海峡两岸名词对照库=170; 其他来源数据库=33; 预公布名词数据库=17; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "神经元学说",
+   "en": "neuron doctrine",
+   "source": "生理学名词",
+   "wordNumber": "03.021",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "艾森豪威尔主义",
+   "en": "Eisenhower Doctrine",
+   "source": "世界历史名词",
+   "wordNumber": "01.0767",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "美国总统艾森豪威尔1957年1月以特别咨文向国会提出的对中东政策。"
+  },
+  {
+   "cn": "哈尔斯坦主义",
+   "en": "Hallstein Doctrine",
+   "source": "世界历史名词",
+   "wordNumber": "03.0665",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "联邦德国阿登纳政府推行的不予承认东德的国家建交的外交政策，因1955年9月由外交部国务秘书哈尔斯坦提议制定而得名。"
+  },
+  {
+   "cn": "尼克松主义",
+   "en": "Nixon Doctrine",
+   "source": "世界历史名词",
+   "wordNumber": "01.0775",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "1969年7月，美国总统尼克松提出的越南战争后的亚洲政策主张。后来亦指尼克松提出的“伙伴关系、实力和谈判”构成的美国外交原则。"
+  },
+  {
+   "cn": "里根主义",
+   "en": "Reagan Doctrine",
+   "source": "世界历史名词",
+   "wordNumber": "01.0780",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "美国总统里根提出的与苏联争夺第三世界的对外政策。"
+  },
+  {
+   "cn": "门罗主义",
+   "en": "Monroe Doctrine",
+   "source": "世界历史名词",
+   "wordNumber": "03.0055",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1823年12月2日，美国总统门罗提出的对外政策原则，提出了“美洲是美洲人的美洲”的口号，成为美国对外扩张政策的重要标志。"
+  },
+  {
+   "cn": "西纳特拉主义",
+   "en": "Sinatra Doctrine",
+   "source": "世界历史名词",
+   "wordNumber": "05.0517",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "苏联政府对其允许华约组织成员国自己决定内政的政策的戏称。来自于美国歌手西纳特拉的一首歌《我的路》。1989年10月25日由苏联外交部发言人格拉西莫夫提出。"
+  },
+  {
+   "cn": "德拉戈主义",
+   "en": "Drago Doctrine",
+   "source": "世界历史名词",
+   "wordNumber": "04.0584",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_墨西哥、中美洲",
+   "subjectName": "墨西哥、中美洲",
+   "publishYear": "2012",
+   "definition": "1902年，阿根廷外交部长L.M.德拉戈提出的一项国际法原则，即公债不能成为武装干涉及实际占领美洲国家领土的理由。"
+  },
+  {
+   "cn": "杜鲁门主义",
+   "en": "Truman Doctrine",
+   "source": "世界历史名词",
+   "wordNumber": "01.0758",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "1947年3月，美国总统杜鲁门在国情咨文中提出的对外政策纲领。"
+  },
+  {
+   "cn": "勃列日涅夫主义",
+   "en": "Brezhnev Doctrine",
+   "source": "世界历史名词",
+   "wordNumber": "05.0499",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "勃列日涅夫时期苏联为控制华约成员国而提出的一套理论，其核心是所谓的“社会主义大家庭论”、“有限主权论”和“国际分工论”等，旨在干涉这些国家的内政。"
+  },
+  {
+   "cn": "群岛原则",
+   "en": "archipelagic doctrine",
+   "source": "海洋科技名词",
+   "wordNumber": "04.0060",
+   "subjectFullName": "海洋科学技术_其他_海洋管理",
+   "subjectName": "海洋管理",
+   "publishYear": "2007",
+   "definition": "确定群岛国海洋法律制度的准则。"
+  },
+  {
+   "cn": "排比",
+   "en": "parallelism",
+   "source": "档案学名词",
+   "wordNumber": "02.04.040",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "在公文中有一定应用的修辞格。特点是用结构相同或相似、语气相近或一致的三个或三个以上的语句表示相关或相似内容。"
+  },
+  {
+   "cn": "平行度",
+   "en": "parallelism",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0307",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "限制被测要素的实际方向，与基准相平行的理想方向之间所允许的变动量。"
+  },
+  {
+   "cn": "并联[运行]",
+   "en": "paralleling",
+   "source": "电气工程名词",
+   "wordNumber": "07.560",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution;parallelism",
+   "source": "动物学名词",
+   "wordNumber": "2.0233",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "不同物种（亲缘关系较近）共存于极为相似的环境中，具有一些共同的生活习性而出现相似的性状或相似行为的现象。"
+  },
+  {
+   "cn": "真实票据学说",
+   "en": "real bills doctrine",
+   "source": "经济学名词",
+   "wordNumber": "14.083",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "19世纪英国银行学派成员所主张的一种理论。其主要内容如下：商业银行的全部放款都应是短期的和自行清偿的放款，所以，货币供应量的扩大或缩小应主要以企业的需求为依据。银行应该只以真实票据，即以生产和流通过程"
+  },
+  {
+   "cn": "实际成本学说",
+   "en": "real cost doctrine",
+   "source": "经济学名词",
+   "wordNumber": "14.084",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "说明商品供给价格是弥补生产过程中产生的负效用所必需的价格的一种理论。这一理论的核心要点在于：工人生产产出增加到这样一点为止，在这一点上，他的收入的（递减的）边际效用等于他的劳动的（递减的）边际负效用。"
+  },
+  {
+   "cn": "越权无效",
+   "en": "ultra vires doctrine",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0421",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "行政机关必须在法定权限范围内行为，一切超越法定权限的行为无效，不具有公定力、确定力、约束力和执行力。"
+  },
+  {
+   "cn": "合理使用条款",
+   "en": "fair use doctrine",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0876",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "版权保护的一种例外，允许对版权材料有限制的使用。"
+  },
+  {
+   "cn": "回忆说",
+   "en": "doctrine of recollection",
+   "source": "教育学名词",
+   "wordNumber": "04.027",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古希腊哲学家柏拉图所提出的建立在理念论上的认识论观点以及学习本质观。认为一切知识都是灵魂对理念世界的回忆。"
+  },
+  {
+   "cn": "神经元学说",
+   "en": "neuron doctrine",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "细胞学说",
+   "en": "cell doctrine",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "区域教义",
+   "en": "territorial doctrines",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "并行性",
+   "en": "parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallelism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution\",\"parallelism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution\",\"parallelism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "平行",
+   "en": "parallel",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平行线",
+   "en": "parallel",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纬圈",
+   "en": "parallel",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "并行化",
+   "en": "parallelization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据并行性",
+   "en": "data parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "显式并行性",
+   "en": "explicit parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "异步并行性",
+   "en": "asynchronous parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐式并行性",
+   "en": "implicit parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并车屏",
+   "en": "paralleling panel",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "平行纤维",
+   "en": "parallel fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "平行脉",
+   "en": "parallel vein",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平行脉序",
+   "en": "parallel venation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "并联补偿",
+   "en": "parallel compensation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "并行算法",
+   "en": "parallel algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行计算",
+   "en": "parallel computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行空间",
+   "en": "parallel space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行宇宙",
+   "en": "parallel universe",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行数据库",
+   "en": "parallel database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "IO并行",
+   "en": "IO parallel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行查询",
+   "en": "parallel query",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行处理",
+   "en": "parallel processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行坐标",
+   "en": "parallel coordinates",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双杠",
+   "en": "parallel bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双杠项目",
+   "en": "parallel bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行障碍",
+   "en": "parallel fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行杆障碍",
+   "en": "parallel poles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《国家信息安全学说》（俄罗斯）",
+   "en": "Doctrine of Information Security (Russia)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "丽辞",
+   "en": "Ornate parallel style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行处理系统",
+   "en": "parallel processing system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行数据库体系架构",
+   "en": "parallel database architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行逻辑回归",
+   "en": "parallel logistic regression",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行支持向量机",
+   "en": "parallel support vector machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "局内人信条",
+   "en": "insider doctrine",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.10",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "由于不同社会群体之间和社会阶层之间在获取知识方面的典型差异而有所区分的理论观点，认为隶属于某社会群体或阶层的个人在理解该群体、阶层、文化和社会等方面具有先天的优势，要比局外人更易获得该方面的知识。"
+  },
+  {
+   "cn": "局外人信条",
+   "en": "outsider doctrine",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.11",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "认为局外人往往不受某社会群体或阶层偏见等方面的影响，凭借此观察优势，也能获得对该群体或阶层在文化、社会等方面的知识的观点。即“要理解恺撒，你并不一定非得成为恺撒”。"
+  },
+  {
+   "cn": "费尔巴哈主义",
+   "en": "Ferbaja doctrine",
+   "source": "马克思主义",
+   "wordNumber": "01.0115",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以费尔巴哈为代表的一个人本唯物主义派别。费尔巴哈以人与自然为基础，从感性的人的本质即类意识出发统一思维与存在。但他抛弃了黑格尔辩证法思想，他所理解的人是生物学意义上抽象的人，在社会历史领域陷入了唯心主"
+  },
+  {
+   "cn": "杜林主义",
+   "en": "Duhring doctrine",
+   "source": "马克思主义",
+   "wordNumber": "04.0323",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪70年代初出现在德国的一种小资产阶级反动思潮，代表人物是杜林。他著书立说，声称要对哲学、政治经济学和社会主义理论实行“全面的变革”，并且提出了一个用“经济公社”改变分配关系的改造世界的方案。由"
+  },
+  {
+   "cn": "勃列日涅夫主义",
+   "en": "Brezhnev doctrine",
+   "source": "马克思主义",
+   "wordNumber": "05.0224",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1968年9月后勃列日涅夫在苏联推出的一种外交政策。其主要内容包括：社会主义大家庭论；大国责任论；国际分工论；有限主权论；国际专政论；利益有关论。在勃日列涅夫领导下，苏联不但把自己的社会主义模式强加给"
+  },
+  {
+   "cn": "表婚",
+   "en": "parallel cousin marriage",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "己身与堂亲和姨表亲的联姻。"
+  },
+  {
+   "cn": "两个平行市场",
+   "en": "two parallel markets",
+   "source": "马克思主义",
+   "wordNumber": "03.0320",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林1952年在《苏联社会主义经济问题》一书中提出的关于社会主义阵营和资本主义阵营经济关系的论断。战后社会主义阵营的出现使资本主义的统一市场瓦解，出现了两个平行的也是相互对立、彼此隔绝的世界市场；社"
+  },
+  {
+   "cn": "平行从表婚",
+   "en": "parallel-cousin marriage",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0358",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "同性的同胞的子女，即兄弟的子女及姊妹的子女结为夫妻的婚姻形式。按照父系的观念，两兄弟的子女为从兄弟姊妹，两姊妹的子女为姨表兄弟姊妹。姨表兄弟姊妹之间不通婚，其原因可追溯到母系社会的氏族外婚制。"
+  },
+  {
+   "cn": "《御制喇嘛说》",
+   "en": "Doctrine about Lama by Imperial Order",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0308",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "清乾隆帝论述喇嘛教宗旨及清廷对该教所持政策之文。撰于乾隆五十七年（1792），对喇嘛教在蒙、藏地区之活动与发展具有重大影响。此文刻于石碑，立于雍和宫。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

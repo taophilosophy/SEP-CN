@@ -1,0 +1,702 @@
+{
+ "key": "abnormality test",
+ "term": "abnormality test",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:55:50+00:00",
+ "status": "ok",
+ "note": "variant=abnormality test; 审定公布名词库=5479; 海峡两岸名词对照库=1215; 其他来源数据库=375; 预公布名词数据库=295; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "非正常工作试验",
+   "en": "abnormal operation test",
+   "source": "电气工程名词",
+   "wordNumber": "23.215",
+   "subjectFullName": "电气工程_日用电器",
+   "subjectName": "日用电器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "异常",
+   "en": "abnormal",
+   "source": "人体解剖学名词",
+   "wordNumber": "01.0040",
+   "subjectFullName": "人体解剖学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "人体结构如超出变异范围，统计学上出现率极低，甚至影响正常生理功能者。"
+  },
+  {
+   "cn": "铱反常",
+   "en": "iridium abnormality",
+   "source": "核科学技术名词",
+   "wordNumber": "2.214",
+   "subjectFullName": "核科学技术_核化学与放射化学_核化学",
+   "subjectName": "核化学",
+   "publishYear": "2024",
+   "definition": "地球地壳的铱含量很低(0.001 μg/g)(陨石可达0.65 μg/g)，在全球上百处的白垩纪末-新生纪初的界面黏土层中发现有铱富集，即铱含量比该黏土层上部和下部的铱平均含量高数倍到数十倍的现象。"
+  },
+  {
+   "cn": "血小板异常",
+   "en": "platelet abnormality",
+   "source": "兽医学名词",
+   "wordNumber": "15.145",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "由各种原因引起外周血液中血小板数量减少或质量改变所致的，以凝血障碍和出血为特征的临床综合征。"
+  },
+  {
+   "cn": "性异常",
+   "en": "sexual abnormality",
+   "source": "行为医学名词",
+   "wordNumber": "12.043",
+   "subjectFullName": "行为医学_性行为及其障碍_性功能障碍",
+   "subjectName": "性功能障碍",
+   "publishYear": "2022",
+   "definition": "生理行为和心理行为异常所引起的异常性行为反应。"
+  },
+  {
+   "cn": "染色体异常",
+   "en": "chromosome abnormality",
+   "source": "行为医学名词",
+   "wordNumber": "17.032",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "染色体在形态结构、数量或功能上的不正常。"
+  },
+  {
+   "cn": "外阴异常",
+   "en": "vulvar abnormality",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.073",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_生殖系统体征",
+   "subjectName": "生殖系统体征",
+   "publishYear": "2022",
+   "definition": "女性生殖器官外露部分的非正常表现。包括发育异常、部位变化、局部炎症或缺损、外阴赘生物、色泽变化、损伤或瘢痕等。"
+  },
+  {
+   "cn": "阴道异常",
+   "en": "vaginal abnormality",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.103",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_生殖系统体征",
+   "subjectName": "生殖系统体征",
+   "publishYear": "2022",
+   "definition": "阴道壁黏膜色泽改变、溃疡、赘生物、囊肿、先天畸形、分泌物异常等的统称。"
+  },
+  {
+   "cn": "宫颈异常",
+   "en": "cervical abnormality",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.11",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_生殖系统体征",
+   "subjectName": "生殖系统体征",
+   "publishYear": "2022",
+   "definition": "子宫下部呈圆柱状的较窄部位的非正常表现。包括大小、形态、颜色、质地异常，以及糜烂、撕裂、外翻、赘生物或肿块、触血、宫颈分泌物异常、宫颈举痛等。"
+  },
+  {
+   "cn": "附件异常",
+   "en": "adnexal abnormality",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.131",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_生殖系统体征",
+   "subjectName": "生殖系统体征",
+   "publishYear": "2022",
+   "definition": "妇科检查时，发现的输卵管和卵巢大小、位置等的非正常表现。有时伴有增厚、压痛和包块等。"
+  },
+  {
+   "cn": "盆腔异常",
+   "en": "pelvic abnormality",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.134",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_生殖系统体征",
+   "subjectName": "生殖系统体征",
+   "publishYear": "2022",
+   "definition": "在对外阴、阴道、宫颈、宫体及两侧附件进行检查的过程中发现的生殖器官及其周边组织、结构、器官的非正常表现。"
+  },
+  {
+   "cn": "解剖异常",
+   "en": "anatomical abnormality",
+   "source": "计划生育名词",
+   "wordNumber": "03.736",
+   "subjectFullName": "计划生育_计划生育临床_优生优育",
+   "subjectName": "优生优育",
+   "publishYear": "2019",
+   "definition": "女性生殖器因各种病理而发生的异常解剖状态。如阴道狭窄、膀胱膨出与直肠膨出、子宫颈狭窄等。"
+  },
+  {
+   "cn": "结构异常",
+   "en": "structure abnormality",
+   "source": "药学名词",
+   "wordNumber": "07.374",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "胎儿形态、结构的异常。"
+  },
+  {
+   "cn": "发育异常",
+   "en": "development abnormality",
+   "source": "药学名词",
+   "wordNumber": "07.279",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "组织形成的紊乱，以大小、形状和与细胞成熟型的定位关系改变为特征。主要见于上皮细胞。"
+  },
+  {
+   "cn": "尿液异常",
+   "en": "urine abnormality",
+   "source": "泌尿外科学名词",
+   "wordNumber": "01.165",
+   "subjectFullName": "泌尿外科学_泌尿、男性生殖系统总论_泌尿、男性生殖系统专科检验及体格检查",
+   "subjectName": "泌尿、男性生殖系统专科检验及体格检查",
+   "publishYear": "2014",
+   "definition": "尿液理化性质及内容物发生的非生理性改变。表现为尿液pH、离子、蛋白、乳糜、结晶体、糖含量和血细胞等超出正常参考值范围。"
+  },
+  {
+   "cn": "环境异常",
+   "en": "environmental abnormality",
+   "source": "地理学名词",
+   "wordNumber": "09.016",
+   "subjectFullName": "地理学_环境地理学",
+   "subjectName": "环境地理学",
+   "publishYear": "2006",
+   "definition": "环境要素的物理化学性质或环境结构发生不利于生物与人的变化。"
+  },
+  {
+   "cn": "异常凝血酶原",
+   "en": "abnormal prothrombin",
+   "source": "普通外科学名词",
+   "wordNumber": "20.201",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "在维生素K缺乏或拮抗剂存在的情况下，肝脏产生的不具备凝血功能的异常形式的凝血酶原。可作为诊断肝细胞癌的指标。"
+  },
+  {
+   "cn": "异常分娩",
+   "en": "abnormal labor",
+   "source": "急救医学名词",
+   "wordNumber": "03.722",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_异常分娩",
+   "subjectName": "异常分娩",
+   "publishYear": "2025",
+   "definition": "产力、产道、胎儿及社会心理因素中任何一个或一个以上的因素发生异常及四个因素间相互不能适应，使分娩进程受阻的情况。常见病因为产力、产道及胎儿异常的情况。"
+  },
+  {
+   "cn": "异常分娩",
+   "en": "abnormal labor",
+   "source": "妇产科学名词",
+   "wordNumber": "17.078",
+   "subjectFullName": "异常分娩_先兆临产",
+   "subjectName": "先兆临产",
+   "publishYear": "2025",
+   "definition": "产力、产道、胎儿及心理中任何一种或者一种以上的因素发生异常及四个因素之间互相不能适应，从而使分娩进程受到阻碍的现象。"
+  },
+  {
+   "cn": "反常栓塞",
+   "en": "abnormal embolism",
+   "source": "麻醉学名词",
+   "wordNumber": "04.065",
+   "subjectFullName": "麻醉学_专科麻醉_内镜手术麻醉",
+   "subjectName": "内镜手术麻醉",
+   "publishYear": "2024",
+   "definition": "静脉系统和右心房的血栓或气体通过右向左的分流通道，从右心进入左心系统，引起相应部位的体循环栓塞。"
+  },
+  {
+   "cn": "异常",
+   "en": "abnormality\",\"abnormal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "畸形",
+   "en": "abnormality",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "异常度",
+   "en": "abnormality",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "异常",
+   "en": "abnormality",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "异常",
+   "en": "abnormality\",\"deformation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "气候反常",
+   "en": "climate abnormality",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境异常",
+   "en": "environmental abnormality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "异常反应",
+   "en": "abnormal reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "异常心理学",
+   "en": "abnormal psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "异常行为",
+   "en": "abnormal behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反常偏析",
+   "en": "abnormal segregation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "反常组织",
+   "en": "abnormal structure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "反常红移",
+   "en": "abnormal redshift",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "异常血红蛋白",
+   "en": "abnormal hemoglobin",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "异常磨损",
+   "en": "abnormal wear",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "异常喷射",
+   "en": "abnormal injection",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "异常喷油",
+   "en": "abnormal injection",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反常霍尔效应",
+   "en": "abnormal Hall effect",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "反常晶粒长大",
+   "en": "abnormal grain growth",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "非正常汇率",
+   "en": "abnormal exchange rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "异常行为标识器",
+   "en": "abnormal behavior identifier",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兴奋剂检测",
+   "en": "dope test\",\"doping test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "科目",
+   "en": "reprise\",\"test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "渗透测试",
+   "en": "Penetration Test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "检测样本",
+   "en": "test sample",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "试剂盒",
+   "en": "test kit",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "假设检验",
+   "en": "hypothesis testing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件测试",
+   "en": "software testing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "角色异常",
+   "en": "role abnormality",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.051",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者受病痛折磨及悲观、失望等不良心境的影响而出现的攻击、逃避或自残自虐等行为，甚至以自杀寻求解脱。对于这类病人应当加强心理疏导。"
+  },
+  {
+   "cn": "异常温度",
+   "en": "abnormal temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "高于或低于正常环境的温度，我国大多数地区的常年温度范围-30℃～50℃。"
+  },
+  {
+   "cn": "异常乳",
+   "en": "abnormal milk",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.20",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "组成、特性等与常乳不同的乳。由于奶牛生理、病理的原因以及其他包含人为的原因，造成牛乳的成分和性质与常乳相异。"
+  },
+  {
+   "cn": "异常气压",
+   "en": "abnormal pressure",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "高于或低于正常环境的气压，正常环境大气压的范围101.3kPa～103.3kPa。"
+  },
+  {
+   "cn": "脊柱弯曲异常",
+   "en": "spinal curvature abnormality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.7",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "脊柱弯曲超出了正常生理范围。按成因和性质可分为先天性和后天性，后天性又分为姿势性和病理性两类；儿童少年主要表现有脊柱侧弯、后凸、前凸、平背等，绝大多数属于姿势性。"
+  },
+  {
+   "cn": "异常外来水分",
+   "en": "abnormal external moisture",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.13",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "由于自然因素（例如下雨）或人工处理（例如冲洗）而残存于水果或蔬菜表面的水分。但是不包括从冷藏库中取出后，产品表面出现的冷凝水。"
+  },
+  {
+   "cn": "异常结果调查",
+   "en": "investigation of abnormal result",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "当工作人员职业外照射个人监测结果超过调查水平时进行的调查。"
+  },
+  {
+   "cn": "精液异常性不育",
+   "en": "abnormal semen related infertility",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.6.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_男性不育",
+   "subjectName": "男性不育",
+   "publishYear": "2025",
+   "definition": "由少、弱、畸形精子症，即精子浓度、活动率和正常形态率低于《WHO人类精液分析与处理实验室手册》第5版设定的相应参考值底限等精液因素导致的生育障碍，约10-15%表现为无精子症，指精液中未发现精子。"
+  },
+  {
+   "cn": "中毒异常体征",
+   "en": "abnormal signs of poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.25",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "人体受到毒物作用后出现的一系列异常症状和体征"
+  },
+  {
+   "cn": "医闹",
+   "en": "abnormal doctor-patient conflict",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.093999999999999",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者及其亲属或受雇于患方的非特定的第三方，为索取不合理的经济赔偿或达到其他目的，以医疗纠纷为借口，所实施的扰乱医疗秩序和侵害医疗机构或医务人员合法权益的违法行为。"
+  },
+  {
+   "cn": "围绝经期异常子宫出血",
+   "en": "abnormal uterine bleeding in perimenopause",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.5.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "发生于围绝经期，月经的周期频率、周期规律性、经期长度和经期出血量中任何一项发生变化的现象。多为无排卵性子宫出血，但应首先排查生殖系统恶性肿瘤。"
+  },
+  {
+   "cn": "空间异常温度环境",
+   "en": "abnormal temperature in space environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.6.1",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "航天舱进入大气的电离层，在太阳辐射能的直接照射下，温度高达1 千至2 千℃的环境。"
+  },
+  {
+   "cn": "预防接种异常反应补偿制度",
+   "en": "compensation system for abnormal reaction to vaccination",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.5.4.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_疫苗经济学",
+   "subjectName": "疫苗经济学",
+   "publishYear": "2025",
+   "definition": "实施预防接种过程中或者实施预防接种后出现受种者死亡、严重残疾、器官组织损伤等损害，属于预防接种异常反应或者不能排除的，应当给予补偿。补偿范围实行目录管理，并根据实际情况进行动态调整。接种免疫规划疫苗所"
+  },
+  {
+   "cn": "适合性检验",
+   "en": "fit test",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.15",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "对于能罩住口和鼻、与面部密合的防护口罩，或能罩住眼睛、口和鼻、与头面部密合的面罩，确定其对使用者适合程度的检验。"
+  },
+  {
+   "cn": "泄露测试",
+   "en": "leak test",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.13",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于检测封闭腔体的密闭情况，以确保灭菌器能够正常运行并防止可能危险的测试方法。通常应用于消毒灭菌过程的开始阶段，以确保消毒灭菌过程中的蒸汽、环氧乙烷气体、蒸汽甲醛等气体不会发生泄漏。"
+  },
+  {
+   "cn": "产品检验",
+   "en": "production test",
+   "source": "消毒学",
+   "wordNumber": "5.1.11",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "对消毒产品质量进行检验的过程。"
+  },
+  {
+   "cn": "崩解试验",
+   "en": "disintegration test",
+   "source": "消毒学",
+   "wordNumber": "6.1.14",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "采用升降式崩解仪，在一定条件下测得的固体消毒剂全部崩解并通过筛网所需时间的试验。"
+  },
+  {
+   "cn": "稳定性试验",
+   "en": "stability test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "通过比较长期试验和加速试验前后有效成分的含量或杀灭微生物能力的变化来评价其稳定性，测定消毒剂有效期的试验。"
+  },
+  {
+   "cn": "消毒学试验",
+   "en": "disinfectionology test",
+   "source": "消毒学",
+   "wordNumber": "6.2",
+   "subjectFullName": "消毒学_检测与评价",
+   "subjectName": "检测与评价",
+   "publishYear": "2025",
+   "definition": "评价消毒产品杀灭、清除和抑制有害微生物效果和影响因素的试验，通常包括实验室试验、模拟现场试验和现场试验三个阶段。"
+  },
+  {
+   "cn": "试验微生物",
+   "en": "test microorganism",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒试验中使用的微生物，如铜绿假单胞菌、枯草杆菌黑色变种芽孢、脊髓灰质炎病毒Ⅰ型疫苗株。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

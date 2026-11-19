@@ -1,0 +1,772 @@
+{
+ "key": "organisation",
+ "term": "organisation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:48:33+00:00",
+ "status": "ok",
+ "note": "variant=organisation; 审定公布名词库=317; 海峡两岸名词对照库=84; 其他来源数据库=62; 预公布名词数据库=73; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "机化",
+   "en": "organization",
+   "source": "兽医学名词",
+   "wordNumber": "10.160",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "病理性产物或坏死组织被新生的肉芽组织取代的过程。"
+  },
+  {
+   "cn": "组织",
+   "en": "organization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.001",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "集合与协调两个以上人行动的一种社会交互体系。组织成立的基本条件是：(1)这些人之间有密切的信息沟通；(2)愿意相互协调，共同参与行动；(3)实现特定的目标。"
+  },
+  {
+   "cn": "机化",
+   "en": "organization",
+   "source": "病理学名词",
+   "wordNumber": "01.096",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "坏死组织不能完全溶解或分离排出，则由肉芽组织长入坏死区、代替坏死组织的过程。"
+  },
+  {
+   "cn": "组织",
+   "en": "organization",
+   "source": "经济学名词",
+   "wordNumber": "05.045",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "可以从静态与动态两个方面来理解。从静态方面看，指组织结构。即反映人、职位、任务以及它们之间的特定关系的网络。从动态方面看，指维持与变革组织结构，以完成组织目标的过程。通过组织机构的建立与变革，将生产经"
+  },
+  {
+   "cn": "组构",
+   "en": "organization",
+   "source": "生理学名词",
+   "wordNumber": "03.007",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组织",
+   "en": "organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0073",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "人们为实现一定的目标，互相协作结合而成的集体或团体。"
+  },
+  {
+   "cn": "组织",
+   "en": "organization",
+   "source": "教育学名词",
+   "wordNumber": "15.001",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "（1）从广义上说，组织是指由诸多要素按照一定方式相互联系起来的系统。（2）从狭义上说，组织就是指人们为实现一定的目标，互相协作结合而成的集体或团体。如党团组织、工会组织、企业、军事组织等。"
+  },
+  {
+   "cn": "机化",
+   "en": "organization",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.107",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "信息组织",
+   "en": "information organization,organization of information",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "使信息有序化和优质化的过程。即利用一定的科学规则和方法，通过对信息外在特征和内容特征进行揭示和描述，实现无序信息流向有序信息流的转换，从而使信息集合达到科学组合，实现有效流动，促进用户对信息的有效获取"
+  },
+  {
+   "cn": "A型组织",
+   "en": "A-type organization,American organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0565",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "日裔美籍大内(Ouchi)对美国企业的类型概括。其特点是：短期雇用制，快速的评估和升职过程，专门化的职业发展模式，明明白白的控制机制，个体决策，个人负责制，关注局部。"
+  },
+  {
+   "cn": "J型组织",
+   "en": "J-type organization,Japanese organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0566",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "日裔美籍大内(Ouchi)对日本企业的类型概括。其特点是：终身雇用制，缓慢的评估和升职过程，非专门化的职业发展模式，含蓄的控制机制，集体决策，集体负责制，关注整体。"
+  },
+  {
+   "cn": "空间组合",
+   "en": "spatial organization",
+   "source": "风景园林名词",
+   "wordNumber": "07.0021",
+   "subjectFullName": "风景园林_风景园林建筑_基础知识",
+   "subjectName": "基础知识",
+   "publishYear": "2025",
+   "definition": "多个空间单元按照一定的规律在三维空间中自由拼接，形成丰富的空间变化。"
+  },
+  {
+   "cn": "自组织",
+   "en": "self-organization",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.765",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "复杂系统理论中的一个概念。指通过低层次客体的局域的相互作用而形成的高层次的结构、功能有序模式的自发过程。它是在不需要外界环境的干预和内部控制者的指令下进行的。"
+  },
+  {
+   "cn": "销售组织",
+   "en": "sales organization",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.106",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "为了实现销售目标而将具有销售能力的销售人员、产品、资金、设备、信息等各种要素进行整合而构成的有机体。是企业组织体系的重要组成部分。"
+  },
+  {
+   "cn": "组织机构树",
+   "en": "organization tree",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.274",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "按照树状结构绘制的组织机构图或在系统中按照树状结构部署的组织机构。"
+  },
+  {
+   "cn": "工程组织",
+   "en": "engineering organization",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.189",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "包括两种情况，一种是指工程公司，即一种专营工程项目的全功能的社会组织，发达国家称之为以项目为基础的组织（project-based organization）。这些组织的经营收入主要来源为实施工程项目"
+  },
+  {
+   "cn": "基因组组构",
+   "en": "genome organization",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0075",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因及其功能_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "生物的基因组在诸如各基因的排列顺序、基因的结构、同源基因的序列差异等基因组结构上的特征。"
+  },
+  {
+   "cn": "正式组织",
+   "en": "formal organization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.002",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "由正式文件规定的，有权威级层、固定编制的组织成员、有规定的权利与义务、明确的工作目标和职责分工、完整的内部与外部传播及组织成员协调规则的系统。"
+  },
+  {
+   "cn": "非正式组织",
+   "en": "informal organization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.003",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "相对于正式组织而言。非正式组织是由人际交互、情感归属和共同价值观念等因素自发形成的群体。其活动往往由惯例、价值观、准则、信念和非官方的规则所引导。"
+  },
+  {
+   "cn": "虚拟组织",
+   "en": "virtual organization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.004",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "基于网络传播技术，通过密集的信息沟通和平等交流，开放性地整合跨越组织边界人员的智慧，以实现组织特定目标的人才集合系统。与“传统组织”相对应。"
+  },
+  {
+   "cn": "非政府组织",
+   "en": "Non Governmental Organisations\",\"NGO",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "组织",
+   "en": "tissue\",\"organization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "记忆组织",
+   "en": "memory organization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "扁平式组织",
+   "en": "flat organization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织发展",
+   "en": "organization development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习型组织",
+   "en": "learning organization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视觉组织",
+   "en": "visual organization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉组织",
+   "en": "perceptual organization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自组织",
+   "en": "self-organization",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "等级组织",
+   "en": "hierarchical organization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群落组织",
+   "en": "community organization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分支机构",
+   "en": "branch organization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际组织",
+   "en": "international organization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空间组织",
+   "en": "spatial organization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区域组织",
+   "en": "territorial organization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "社会组织",
+   "en": "social organization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "基因组构",
+   "en": "gene organization",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因组组构",
+   "en": "genome organization",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据组织",
+   "en": "data organization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "等级结构",
+   "en": "hierarchical organization",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "禁止化学武器组织",
+   "en": "Organisation for the Prohibition of Chemical Weapons",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据组织",
+   "en": "Data Organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扁平化组织",
+   "en": "flat organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型组织",
+   "en": "sharing organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态型组织",
+   "en": "ecotype organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能组织",
+   "en": "intelligent organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无边界组织",
+   "en": "boundaryless organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷组织",
+   "en": "agile organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云组织",
+   "en": "cloud organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织价值",
+   "en": "organization value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化组织",
+   "en": "Standardization Organizations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界卫生组织",
+   "en": "World Health Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界贸易组织",
+   "en": "World Trade Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际劳工组织",
+   "en": "International Labour Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界气象组织",
+   "en": "World Meteorological Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "他组织",
+   "en": "organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "在外部因素的控制、管理和引导下，个人被纳入和吸收进组织或群体，并能从中获得某中特定的“组织人”身份，受到各种组织安排的组织化过程。与“自组织”相对。"
+  },
+  {
+   "cn": "检验组织",
+   "en": "testing organization",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "组织实施个人剂量监测系统性能检验活动的组织或机构。"
+  },
+  {
+   "cn": "正式组织",
+   "en": "formal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们为了达到某种共同目标，将其行为彼此协调与联合起来所形成的具有一定结构和特定功能的社会团体，具有正式、公开的组织目标、组织结构、组织规范和组织活动，其成员间的关系由正式的规章制度加以规定和约束。与“"
+  },
+  {
+   "cn": "非正式组织",
+   "en": "informal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们在正式组织所安排的共同工作和相互接触中自然形成的以感情、爱好等情绪为基础的松散的、没有正式规定的群体。最早由美国管理学家埃尔顿·梅奥(Elton Mayo）通过“霍桑实验”提出。与“正式组织”相对"
+  },
+  {
+   "cn": "组织系统",
+   "en": "organization system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "既指为达成某个特定目标，组织内部各要素按一定的秩序和相互关联组合而成的有机整体，亦指组织作为开放系统与其环境中相关的若干组织之间，按照一定的秩序互动而形成的有机集合体。"
+  },
+  {
+   "cn": "合作组织",
+   "en": "cooperation organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "个人与群体或群体与群体之间为达到共同目标，遵循自愿、互利、合作、民主等组织原则，彼此相互配合协作、联合行动而结合成的组织形式，按其功能可分为政治性、经济性或其他性质的，按其范围可分为区域性、国际性或国"
+  },
+  {
+   "cn": "功能组织",
+   "en": "functional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "基于功能或任务建立的一种组织结构类型。在这类组织中，由代表组织的专门人员或单位负责组织程序或目标的实施、评价和控制。"
+  },
+  {
+   "cn": "专业性组织",
+   "en": "professional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "为了增进某种特殊专业知识，或为增进从事该专业人士的利益和公众利益而组成的非营利性的组织。"
+  },
+  {
+   "cn": "联盟组织",
+   "en": "union organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.7",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "由两个以上自然人、公司、组织或政府（或任何以上之组合）以共享彼此资源为目标，通过参与共同活动、推动共同成果而形成的专业团体。"
+  },
+  {
+   "cn": "公益组织",
+   "en": "commonwealth organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.8",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "一种非政府的、不把利润最大化当作首要目标，实行自主管理的民间志愿性的社会中介组织，其主要活动是致力于社会公众的福祉和利益以及解决各种社会性问题等。如基金会、协会、慈善信托、社团等。"
+  },
+  {
+   "cn": "公共组织",
+   "en": "public organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.9",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "以管理社会公共事务，提供公共产品和公共服务，维护和实现社会公共利益为目的，拥有法定的或授予的公共权力的组织实体，包括政府组织和非营利组织。"
+  },
+  {
+   "cn": "虚拟组织",
+   "en": "virtual organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.10",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "一种区别于传统组织、以信息技术为支撑的人机一体化组织，其特征是以现代通讯技术、信息存储技术、机器智能产品为依托，虚拟出无等级组织结构，其成员可以通过不受时空限制的计算机体系，通过高度自律和共同的价值取"
+  },
+  {
+   "cn": "网络组织",
+   "en": "network organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.11",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "在现代信息通信技术的支撑下，由基于共同的目标、价值、兴趣或利益的企业实体自发联合而成，通过正式契约或非正式契约聚合起来的互相依赖、共担风险的长期合作、相对稳定的组织形式。"
+  },
+  {
+   "cn": "无边界组织",
+   "en": "boundaryless organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.12",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "集团化组织在纵向的、横向的或外部的边界均不由某种预先设定的结构所限定或定义， 即将各个职能部门之间的障碍全部或部分消除，使得工程、生产、营销以及其他部门之间能够自由沟通，工作及工作程序和进程完全透明，"
+  },
+  {
+   "cn": "民间组织",
+   "en": "mass organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.13",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "由各级民政部门作为登记管理机关并纳入登记管理范围的社会团体和民办非企业单位两类社会组织的总称。"
+  },
+  {
+   "cn": "组织环境",
+   "en": "organization environment",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.9",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "存在于组织界限以外的能够影响组织及其成员行为的所有因素的总和，包括自然环境与社会环境两大类。其中社会环境包括组织所必须应对的各种社会力量和制度设施。"
+  },
+  {
+   "cn": "组织结构图",
+   "en": "organization chart",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.11",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织结构的简化模型，表明组织中各种职位的职权及其互动关系。"
+  },
+  {
+   "cn": "自组织",
+   "en": "self-organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "不存在外部因素的控制、管理和引导，系统按照相互默契的某种规则，各尽其责而又协调地自动地形成有序结构的过程。艾什比(W.R.Ashby）首先提出自组织概念，之后学者将之应用于社会组织分析。与“他组织”相"
+  },
+  {
+   "cn": "组织社会化",
+   "en": "organization socialization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.11",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "组织新成员学习接受组织价值，以及组织将其文化、工作技能、方法、纪律、期望以及各种组织规范教导给新进人员的过程，是组织成员融入组织的过程。"
+  },
+  {
+   "cn": "社区社会组织",
+   "en": "community organization",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.15",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "由社区组织或个人在社区（镇、街道）范围内单独或联合举办、开展的满足社区居民不同需求的民间组织。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

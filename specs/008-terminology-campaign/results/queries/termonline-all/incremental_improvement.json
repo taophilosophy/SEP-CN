@@ -1,0 +1,732 @@
+{
+ "key": "incremental improvement",
+ "term": "incremental improvement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:55:43+00:00",
+ "status": "ok",
+ "note": "variant=incremental improvement; 审定公布名词库=255; 海峡两岸名词对照库=39; 其他来源数据库=19; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "子样",
+   "en": "increment",
+   "source": "电力名词",
+   "wordNumber": "08.099",
+   "subjectFullName": "电力_燃料",
+   "subjectName": "燃料",
+   "publishYear": "2020",
+   "definition": "采样器具操作一次或截取一次煤流全断面所采取的一份煤样。"
+  },
+  {
+   "cn": "子样",
+   "en": "increment",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.245",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_煤化学及煤质分析",
+   "subjectName": "煤化学及煤质分析",
+   "publishYear": "1996",
+   "definition": "采样器具操作一次或截取一次煤流全断面所采取的一份煤样。"
+  },
+  {
+   "cn": "增量",
+   "en": "increment",
+   "source": "数学名词",
+   "wordNumber": "05.0082",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "改善",
+   "en": "improvement",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.084",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "对建（构）筑物才去的不改变外观特征、调整、完善内部布局及设施的保护方式。"
+  },
+  {
+   "cn": "加固地基",
+   "en": "improved foundation,improved ground",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0578",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "增量应变",
+   "en": "incremental strain",
+   "source": "地质学名词",
+   "wordNumber": "09.02.059",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "递进变形过程各个阶段在已发生的有限应变基础上新增的应变量。即在变形历史的某一瞬间正在发生的应变。"
+  },
+  {
+   "cn": "渐进成形",
+   "en": "incremental forming",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.257",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_其他成形工艺",
+   "subjectName": "其他成形工艺",
+   "publishYear": "2021",
+   "definition": "不需要专用的模具，是一种柔性的成形工艺。它根据板料零件的成形要求设计数控程序，然后通过数控机床的进给系统，成形工具按照一定的轨迹逐步地成形板料，直到得到需要的零件。"
+  },
+  {
+   "cn": "渐进规划",
+   "en": "incremental planning",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.135",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_城市规划理论与方法",
+   "subjectName": "城市规划理论与方法",
+   "publishYear": "2021",
+   "definition": "针对城市中现实问题，通过限定有限目标，采取务实手段来逐步解决城市问题的规划方法。"
+  },
+  {
+   "cn": "渐进式更新",
+   "en": "incremental regeneration",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.071",
+   "subjectFullName": "城乡规划学_社区与住房规划_城市更新规划",
+   "subjectName": "城市更新规划",
+   "publishYear": "2021",
+   "definition": "在时间维度上强调适度节奏、逐步推进、成熟一片完成一片的一种城市更新方法与城市改造模式。"
+  },
+  {
+   "cn": "增量信息",
+   "en": "incremental information",
+   "source": "电力名词",
+   "wordNumber": "06.054",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "量值按一个或几个单位量改变的监视信息。这种改变可以仅是单向,改变也可以是双向。"
+  },
+  {
+   "cn": "增量感应",
+   "en": "incremental induction",
+   "source": "物理学名词",
+   "wordNumber": "03.0552",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "增量运动",
+   "en": "incremental exercise",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.382",
+   "subjectFullName": "呼吸病学_肺功能_心肺运动试验",
+   "subjectName": "心肺运动试验",
+   "publishYear": "2018",
+   "definition": "一种逐渐增加运动负荷的试验。主要用来完成极量运动和亚极量运动。"
+  },
+  {
+   "cn": "增量编译",
+   "en": "incremental compilation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0096",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "增量地处理源程序代码中的变化，避免重复进行针对整个程序的完全编译。"
+  },
+  {
+   "cn": "增量模型",
+   "en": "incremental model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0079",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种软件过程模型。融合了瀑布模型的基本成分（重复应用）和原型实现的迭代特征，采用随着日程时间的进展而交错的线性序列，每一个线性序列产生软件的一个可发布的“增量”。"
+  },
+  {
+   "cn": "增量开发",
+   "en": "incremental development",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0163",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种软件开发技术。其需求分析、设计、实现和测试过程反复进行多次，使整个软件产品以逐步递增的方式完成。"
+  },
+  {
+   "cn": "增量转储",
+   "en": "incremental dump",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0295",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "每次只复制上一次数据转储之后的数据更新部分。"
+  },
+  {
+   "cn": "增量学习",
+   "en": "incremental learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0223",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "在获得新的训练样本后，不需抛弃已有学习器进行重新训练，只对已有学习器进行少量更新的机器学习过程。"
+  },
+  {
+   "cn": "渐进性创新",
+   "en": "incremental innovation",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0322",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "组织针对工艺或产品进行的局部或改良性的创新。"
+  },
+  {
+   "cn": "增量预算",
+   "en": "incremental budget",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0312",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "在前期预算数的基础上，根据本预算年度可能变化的情况增加或减少一定数额而编制的预算。"
+  },
+  {
+   "cn": "增量成本",
+   "en": "incremental cost",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0324",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "因某一项管理决策的实施所带来的成本的增加量。"
+  },
+  {
+   "cn": "增资",
+   "en": "incremental investment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "渐增导纳",
+   "en": "incremental admittance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增量编译",
+   "en": "incremental compilation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增量精化",
+   "en": "incremental refinement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增量学习",
+   "en": "incremental learning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增量转储，增殖转储",
+   "en": "incremental dump",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生物量增量",
+   "en": "biomass increment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生长锥",
+   "en": "increment borer",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "周期性增长量",
+   "en": "periodic increment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "轨道改进",
+   "en": "orbit improvement",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "草原改良",
+   "en": "grassland improvement",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "加工贸易",
+   "en": "improvement trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "河口治理",
+   "en": "estuary improvement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "土地改良",
+   "en": "land improvement",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "迭代改进",
+   "en": "iterate improvement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改善因数",
+   "en": "improvement factor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "菌种选育",
+   "en": "strain improvement",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "改良品种",
+   "en": "improved variety",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "改进锆-4合金",
+   "en": "improved zircaloy-4",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "数字增量式绘图仪",
+   "en": "digital incremental plotter",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "增量抽取",
+   "en": "incremental extraction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全建设",
+   "en": "security improvement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水环境改善",
+   "en": "water environment improvement",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "补短板",
+   "en": "improving weak links",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "为己之学",
+   "en": "Learning for Self-improvement",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化评估改进",
+   "en": "standardization evaluation and improvement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健全宏观调控体系",
+   "en": "improving the macro regulatory system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "党的组织建设",
+   "en": "improving the Party's organizational structures",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "健康扶贫",
+   "en": "poverty alleviation by improving health care",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "在发展中保障和改善民生",
+   "en": "Ensuring and improving living standards through development.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提高救治水平",
+   "en": "to improve the quality of medical treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "苟日新，日日新，又日新",
+   "en": "If you can improve yourself in a day, do so each day, forever building on improvement.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "规范和完善信息发布机制",
+   "en": "to standardize and improve the information release mechanism",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加快完善社会主义市场经济体制",
+   "en": "speeding up the improvement of the socialist market economy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "修身贵文",
+   "en": "Improve Rhetorical Skills While Nurturing the Body and Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "加强国际传播能力建设",
+   "en": "improve our ability to communicate effectively with international audiences",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "简政放权、放管结合",
+   "en": "streamline government functions and administration and delegate powers while improving regulation",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "简政放权、放管结合、优化服务改革[“放、管、服”改革]",
+   "en": "the reform of streamlining administration，delegating power, strengthening regulation and improving service",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提高收治率和治愈率、降低感染率和病亡率",
+   "en": "to improve the admission and cure rates and reduce the infection and fatality rates",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "增量成本",
+   "en": "incremental cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "因某一项决策的实施所带来的成本的变化量。"
+  },
+  {
+   "cn": "社会改良",
+   "en": "social improvement",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "在不触动现存社会本质，即不从根本上改变现存社会制度和基础的前提下，对社会进行渐进的局部的调整、改善或改革。社会变迁、发展的基本形式之一。与“社会革命”相对。"
+  },
+  {
+   "cn": "普及与提高",
+   "en": "popularization and improvement",
+   "source": "马克思主义",
+   "wordNumber": "03.0457",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东于1942年《在延安文艺座谈会上的讲话》提出的解决文艺如何更好地为人民大众服务的重要问题。普及是人民的普及，提高也是人民的提高。在普及基础上的提高，在提高指导下的普及。普及工作不但不是妨碍提高，"
+  },
+  {
+   "cn": "增量成本效果比",
+   "en": "incremental cost-effectiveness ratio",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.4.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "两组卫生服务方案或干预方案成本之差和效果之差的比值。"
+  },
+  {
+   "cn": "价值增殖过程",
+   "en": "process of value increment",
+   "source": "马克思主义",
+   "wordNumber": "02.0108",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "剩余价值的生产过程，即超过“一定点”（劳动者补偿劳动力自身价值所需要的劳动时间）延长了的价值的形成过程。在资本主义商品生产过程中，雇佣工人的具体动创造出一定的使用价值并转移原有价值于新产品中。另一方面"
+  },
+  {
+   "cn": "学生营养改善计划",
+   "en": "student nutrition improvement program",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "2011年11月由国务院启动，以改善我国贫困农村儿童营养健康状况为目的的计划，即为中西部集中连片特殊困难地区的义务教育阶段中小学生提供膳食营养补助。"
+  },
+  {
+   "cn": "健全党委制",
+   "en": "improve the party committee system",
+   "source": "马克思主义",
+   "wordNumber": "03.0493",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党委制是保证集体领导、防止个人包办的党的重要制度。毛泽东在1948年强调要加强党的集体领导，促使那些把集体领导变为有名无实的组织纠正自己的错误，并且扩大了实行集体领导的范围。"
+  },
+  {
+   "cn": "健康扶贫",
+   "en": "poverty alleviation by improving health care",
+   "source": "社会医学名词",
+   "wordNumber": "12.4.4",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "贫困人口卫生保健",
+   "publishYear": "2025",
+   "definition": "通过加强基本医疗保障、提升医疗服务能力、实施重点疾病防治、完善公共卫生服务等综合措施，解决贫困人口因病致贫、因病返贫问题，保障其基本医疗卫生服务需求，促进其健康水平提升和脱贫能力增强的一项专项扶贫政策"
+  },
+  {
+   "cn": "贫困地区儿童营养改善项目",
+   "en": "nutrition improvement project for children in poor area",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.5.14",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生发展",
+   "subjectName": "妇幼卫生发展",
+   "publishYear": "2025",
+   "definition": "在贫困地区为6～24月龄婴幼儿免费提供营养包、开展儿童营养知识宣传和健康教育的国家重大公共卫生项目，旨在预防婴幼儿营养不良和贫血。2012年启动，2019年起纳入国家基本公共卫生服务项目。"
+  },
+  {
+   "cn": "人民代表大会制度",
+   "en": "improve and develop the system of peoples congresses",
+   "source": "马克思主义",
+   "wordNumber": "03.0600",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "适合中国国情的根本政治制度和国家政权的基本组织形式。全国人民代表大会和地方各级人民代表大会都由民主选举产生，对人民负责，受人民监督。国家行政机关、监察机关、审判机关、检察机关都由人民代表大会产生，对它"
+  },
+  {
+   "cn": "党风廉政建设责任制",
+   "en": "system of accountability for improving Party conduct and upholding integrity",
+   "source": "马克思主义",
+   "wordNumber": "03.0733",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "各级党委（党组）、政府（行政）及其职能部门的领导班子、领导干部在党风廉政建设中应当承担责任的制度。党风廉政建设的责任主体为各级党政领导班子及其成员，各级党政领导班子中的正职为本地区、本部门、本单位党风"
+  },
+  {
+   "cn": "改革和完善党的领导方式和执政方式",
+   "en": "innovate and improve the leadership and governance methods of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0744",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "改革和完善党的领导方式和执政方式，是政治体制改革的首要任务，对于推进社会主义民主政治建设具有全局性作用。改革和完善党的领导方式和执政方式，首先要明确党的领导主要是政治、思想和组织领导，同时必须处理好党"
+  },
+  {
+   "cn": "习近平总书记关于加强和改进民族工作的重要思想",
+   "en": "General Secretary Xi Jinping’ s important thoughts on strengthening and improving ethnic work",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0002",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "习近平新时代中国特色社会主义思想的重要组成部分，是做好新时代党的民族工作的根本遵循，主要内容包括：必须坚持党对民族工作的领导；坚持中华民族伟大复兴的历史方位，以铸牢中华民族共同体意识为主线，推动各民族"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

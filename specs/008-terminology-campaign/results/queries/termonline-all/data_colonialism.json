@@ -1,0 +1,752 @@
+{
+ "key": "data colonialism",
+ "term": "data colonialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:10:26+00:00",
+ "status": "ok",
+ "note": "variant=data colonialism; 审定公布名词库=1786; 海峡两岸名词对照库=1003; 其他来源数据库=1008; 预公布名词数据库=52; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "殖民主义",
+   "en": "colonialism",
+   "source": "经济学名词",
+   "wordNumber": "02.103",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "资本主义国家采取军事、政治和经济手段，占领、奴役和剥削弱小国家、民族和落后地区，将其变为殖民地、半殖民地的侵略政策。"
+  },
+  {
+   "cn": "殖民主义",
+   "en": "colonialism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0651",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "资本主义列强凭借实力奴役、剥削并直接统治或紧密控制弱小国家和地区的思想理论体系及其侵略政策。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony",
+   "source": "兽医学名词",
+   "wordNumber": "16.007",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "在适宜条件下经过一定时间培养，细菌个体在适合生长的固体培养基表面或内部形成肉眼可见的有一定形态的独立群体。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony ",
+   "source": "草学名词",
+   "wordNumber": "7.0332",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "群体",
+   "en": "colony",
+   "source": "动物学名词",
+   "wordNumber": "5.252",
+   "subjectFullName": "动物学_无脊椎动物学_苔藓动物门",
+   "subjectName": "苔藓动物门",
+   "publishYear": "2021",
+   "definition": "苔藓动物与环境相互作用而形成的一个完整有机体的形态和功能单位。由一种或多种自然连系的个虫、多个虫部分（在某些群体它还包括个虫外部分）构成。所有这些组成部分都是均一的。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.028",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "将单个菌接种在固体培养基表面，在一定时间内生长形成的肉眼可见的菌群。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0209",
+   "subjectFullName": "食品科学技术_食品科学_食品微生物学_食品微生物营养与代谢",
+   "subjectName": "食品微生物营养与代谢",
+   "publishYear": "2020",
+   "definition": "一个或少数几个微生物细胞在适宜的固体培养基表面或内部生长繁殖到一定程度而形成肉眼可见、具有一定形态特征的子细胞群体。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony",
+   "source": "烧伤学名词",
+   "wordNumber": "03.087",
+   "subjectFullName": "烧伤学_烧伤并发症_烧伤感染及其防治",
+   "subjectName": "烧伤感染及其防治",
+   "publishYear": "2019",
+   "definition": "在固体培养基上一个细菌分裂繁殖而形成的肉眼可见的群体。不同细菌常形成不同特征的菌落，并且比较稳定，在细菌鉴定中有一定意义。这些特征主要包括颜色、隆起度、边缘、质地、表面、血琼脂上的溶血等。"
+  },
+  {
+   "cn": "群体",
+   "en": "colony",
+   "source": "植物学名词",
+   "wordNumber": "04.0094",
+   "subjectFullName": "植物学_藻类学",
+   "subjectName": "藻类学",
+   "publishYear": "2019",
+   "definition": "由相同形态结构和生理功能的细胞聚集一起形成的藻类聚合体。每个细胞均可进行光合作用，也可以进行繁殖。"
+  },
+  {
+   "cn": "集落",
+   "en": "colony",
+   "source": "药学名词",
+   "wordNumber": "05.309",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "从单一的细胞在固体培养基内或表面生长出一群相接触的细胞。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony",
+   "source": "微生物学名词",
+   "wordNumber": "03.062",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "在固体基质表面或内部形成的紧密生活在一起肉眼可见的同一微生物物种的群体，或来源于同一细胞的一群细胞。"
+  },
+  {
+   "cn": "殖民地",
+   "en": "colony",
+   "source": "世界历史名词",
+   "wordNumber": "01.0712",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "原指移民垦殖的荒蛮无主地区，进入资本主义社会后指遭受殖民国家侵略被殖民统治和控制的国家或地区。"
+  },
+  {
+   "cn": "群体",
+   "en": "colony",
+   "source": "古生物学名词",
+   "wordNumber": "02.0789",
+   "subjectFullName": "古生物学_古无脊椎动物学_苔藓动物",
+   "subjectName": "苔藓动物",
+   "publishYear": "2009",
+   "definition": "系形态和功能单位，与环境配合，作为一个生物整体，由一个或多个类型的、均匀一致的、有自然联系的个虫、多个虫部分，以及个虫外构造部分组成。骨骼部分即硬体。"
+  },
+  {
+   "cn": "集落",
+   "en": "colony",
+   "source": "细胞生物学名词",
+   "wordNumber": "010.197",
+   "subjectFullName": "细胞生物学_细胞培养与细胞工程",
+   "subjectName": "细胞培养与细胞工程",
+   "publishYear": "2009",
+   "definition": "由一个或几个细胞增殖而来的细胞群。"
+  },
+  {
+   "cn": "集落",
+   "en": "colony",
+   "source": "生态学名词",
+   "wordNumber": "06.202",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "同种生物的个体在特定的环境空间和特定时间内的集聚群体。"
+  },
+  {
+   "cn": "殖民地",
+   "en": "colony",
+   "source": "地理学名词",
+   "wordNumber": "17.068",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "在本国以外的领土的总称。以国家政策为背景的集体移民所居住的土地。"
+  },
+  {
+   "cn": "群体",
+   "en": "colony",
+   "source": "水产名词",
+   "wordNumber": "02.080",
+   "subjectFullName": "水产_渔业资源学",
+   "subjectName": "渔业资源学",
+   "publishYear": "2002",
+   "definition": "种群不同生活阶段个体的集合，或几个生活在特定水域的种群的集合。"
+  },
+  {
+   "cn": "多王群",
+   "en": "polygynous colony,pleometrotic colony,polyqueen colony",
+   "source": "昆虫学名词",
+   "wordNumber": "07.170",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "社会性昆虫中有两个或两个以上王的群体。"
+  },
+  {
+   "cn": "单王群",
+   "en": "monogynous colony,haplometrotic colony,monoqueen colony",
+   "source": "昆虫学名词",
+   "wordNumber": "07.169",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "社会性昆虫中只有一个王的群体。"
+  },
+  {
+   "cn": "树状群体",
+   "en": "dendritic colony;dendroid colony",
+   "source": "动物学名词",
+   "wordNumber": "5.0486",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "一群紧密联系的原生动物营养期细胞（个体）因非断裂性分裂而组成的永久或半永久性集合体。常构成特定的群体枝型，进而表现出个体间一定程度的运动或生理性的协调。有时也用于指借助外在结构（如壳室等）而连接成的松"
+  },
+  {
+   "cn": "群体",
+   "en": "colony",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "殖民地",
+   "en": "colony",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "集落",
+   "en": "colony",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集落",
+   "en": "colony",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "群体",
+   "en": "colony",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "集落",
+   "en": "colony",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "单王群",
+   "en": "monogynous colony\",\"haplometrotic colony\",\"monoqueen colony",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "多王群",
+   "en": "polygynous colony\",\"pleometrotic colony\",\"polyqueen colony",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "后殖民主义",
+   "en": "post-colonialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "菌落免疫印迹法",
+   "en": "colony immunoblotting",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "菌落印迹法",
+   "en": "colony blotting",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "菌落杂交",
+   "en": "colony hybridization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "栖息群",
+   "en": "roosting colony",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群居性昆虫",
+   "en": "colonial insect",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "蚁群气味",
+   "en": "colony odor",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群体繁殖",
+   "en": "colonial breeding",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群体珊瑚",
+   "en": "colonial coral",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "群体生物",
+   "en": "colonial organism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "殖民地地理学",
+   "en": "colonial geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "菌落杂交,集落杂交",
+   "en": "colony hybridization",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "网络文化殖民主义",
+   "en": "cyber cultural colonialism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蚁群优化算法",
+   "en": "ant colony optimization algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据技术",
+   "en": "Data Technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据",
+   "en": "Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学",
+   "en": "Data Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据新闻",
+   "en": "data news",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "暗数据",
+   "en": "dark data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据传输",
+   "en": "data transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据包",
+   "en": "data package",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据网",
+   "en": "data network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据哲学",
+   "en": "Data Philosophy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据人",
+   "en": "data man",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据伦理",
+   "en": "Data Ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "殖民主义",
+   "en": "colonialism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.8",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "一个较强大的国家越过自身的边界建立移民殖民地或行政附庸机构，借以对外延伸其主权，并直接干预较弱小国家或区域的政治、经济和文化的系统。"
+  },
+  {
+   "cn": "殖民主义",
+   "en": "colonialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0222",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "比较强大的国家采取军事、政治和经济、文化等手段，占领、奴役和剥削、掠夺弱小国家、民族及落后地区的侵略行径及政策主张。在资本主义发展的不同时期，殖民主义有不同的表现形式。"
+  },
+  {
+   "cn": "菌落",
+   "en": "colony",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.9.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "一个或几个细菌在适宜的固体培养基表面或内部生长繁殖到一定程度而形成肉眼可见，具有一定形态特征的集合体。"
+  },
+  {
+   "cn": "殖民地",
+   "en": "colony",
+   "source": "社会学名词",
+   "wordNumber": "2.9.8.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_殖民化",
+   "subjectName": "殖民化",
+   "publishYear": "2025",
+   "definition": "丧失了自身在政治、经济、军事和外交等方面的独立主权，受宗主国统治的附属国家或地区。"
+  },
+  {
+   "cn": "殖民地",
+   "en": "colony",
+   "source": "马克思主义",
+   "wordNumber": "03.0221",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "最初指一国在国外用强力所侵占并将其大批居民移往居住的地区。在资本主义时期，特别是在帝国主义阶段，指遭受外来资本主义强国侵略，丧失了主权和独立，政治、经济、军事和外交等方面完全受殖民主义国家控制的国家和"
+  },
+  {
+   "cn": "后殖民主义",
+   "en": "post colonialism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "一种跨越并影响人文学科、社会科学及哲学的学术思潮，研究殖民现象给殖民者和被殖民者带来的文化影响和殖民关系的衍生品，以及现在的表现形式和实际情况。"
+  },
+  {
+   "cn": "殖民主义体系",
+   "en": "colonialism system",
+   "source": "马克思主义",
+   "wordNumber": "03.0223",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义世界体系的一个重要组成部分，是资本主义国家对殖民地半殖民地及其附属国实行直接和间接的奴役统治、控制的一种世界性结构的总称，、。"
+  },
+  {
+   "cn": "殖民地经济",
+   "en": "colonial economy",
+   "source": "社会学名词",
+   "wordNumber": "2.9.8.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_殖民化",
+   "subjectName": "殖民化",
+   "publishYear": "2025",
+   "definition": "受宗主国控制的附属国家或地区在经济发展上服从于宗主国的利益，工商业发展受到宗主国限制，经济结构单一，和宗主国存在着能源、原材料、劳动力和资本、工业制成品之间的不平等贸易的经济发展模式。"
+  },
+  {
+   "cn": "菌落计数",
+   "en": "colony count",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.52",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "测定固体培养基上生长出的菌落或菌斑数量，从而反映样品中微生物数量。"
+  },
+  {
+   "cn": "菌落特征",
+   "en": "colony characteristics",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.51",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "不同细菌常形成不同特征的菌落，并且比较稳定，这些特征主要包括颜色、隆起度、边缘、质地、表面、血琼脂上的溶血等，在细菌鉴定中有一定意义。"
+  },
+  {
+   "cn": "菌落形成单位",
+   "en": "colony-forming unit, CFU",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.5.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "由单个或聚集成团的多个菌体在固体培养基上生长繁殖所形成的肉眼可见的集落，以其表示活菌的数量。"
+  },
+  {
+   "cn": "菌落形成单位",
+   "en": "colony forming unit, CFU",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.44",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "将稀释之后的一定量的样品菌液浇注或涂布在平板上，让微生物的单细胞一一分散在平板上，培养之后每一个活细胞所形成的单一集落。"
+  },
+  {
+   "cn": "数据收集",
+   "en": "data collection",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "就某个具体的主题，有计划、有目的地准备、收集和记录相关信息的研究行动。"
+  },
+  {
+   "cn": "定性资料",
+   "en": "qualitative data",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以文字、图形、录音、录像等非数字形式表现出来的研究资料。"
+  },
+  {
+   "cn": "定量数据",
+   "en": "quantitative data",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在某一数值量度上，由测量得到的研究资料。"
+  },
+  {
+   "cn": "数据管理",
+   "en": "data management",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "对数据进行编制和存储的研究行动。可以使他人接触数据和重复数据分析。"
+  },
+  {
+   "cn": "访谈资料",
+   "en": "interview data",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在面对面的互动过程中，通过访谈者向被访者提问而收集到的资料。"
+  },
+  {
+   "cn": "数据档案",
+   "en": "data archive",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "获取、存储、传播数字型资料的资源中心。可以帮助以研究和教学为目的的二次分析。"
+  },
+  {
+   "cn": "数据分析",
+   "en": "data analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "审查、清理、转换以及模型数据，从中发现有用信息，以便获取研究发现，支持决策制定的过程。"
+  },
+  {
+   "cn": "数据审核",
+   "en": "data audit",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.21",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "哨点医院和地方机构对监测数据的自查核实，保证监测数据的真实性、可靠和完整"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

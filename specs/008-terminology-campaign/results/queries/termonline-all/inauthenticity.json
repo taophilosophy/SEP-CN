@@ -1,0 +1,172 @@
+{
+ "key": "inauthenticity",
+ "term": "inauthenticity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:29:00+00:00",
+ "status": "ok",
+ "note": "variant=inauthenticity; 审定公布名词库=10; 海峡两岸名词对照库=1; 其他来源数据库=2; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "真实性",
+   "en": "authenticity",
+   "source": "档案学名词",
+   "wordNumber": "06.01.019",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件内容、结构和背景与形成时的原始状况相一致的性质。真实的文件满足以下条件：第一，文件用意与其制文目的相符；第二，文件的形成者和发送者与其既定的形成者和发送者相吻合；第三，文件的形成或发送时间与其既定"
+  },
+  {
+   "cn": "真实性",
+   "en": "authenticity",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.072",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "遗产价值的信息来源真实可靠。对这些与文化遗产的最初与后续特征有关的信息来源及其意义的认识与了解是全面评估真实性的必备基础。这些来源可包括形式与设计、材料与物质、用途与功能、传统与技术、地点与背景、精神"
+  },
+  {
+   "cn": "真实性",
+   "en": "authenticity",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0061",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "在虚拟市场中确定交易者的实际身份。"
+  },
+  {
+   "cn": "真实性",
+   "en": "truth authenticity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0364",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "依据文化遗产类别及其文化背景，如果遗产的文化价值的外形和设计，材料和实质，用途和功能，传统、技术和管理体系，位置和环境，语言和其他形式的非物质遗产，精神和感觉，其他内外因素等特征真实可信，则被认为具有"
+  },
+  {
+   "cn": "真实性鉴别",
+   "en": "authenticity identification",
+   "source": "农学名词",
+   "wordNumber": "18.038",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "依据科学系统的方法，对产品的组成性质等进行分析，验证其是否符合标称成分与营养等信息的过程。"
+  },
+  {
+   "cn": "新闻真实性",
+   "en": "journalistic authenticity",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.029",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "新闻报道与客观事实的一致性。"
+  },
+  {
+   "cn": "数据真实性",
+   "en": "data authenticity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.566",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "与数据满足专门或给定标准的程度有关的一个比值。这些标准通常涉及数据的精度和数据的无差错程度。"
+  },
+  {
+   "cn": "遗产真实性",
+   "en": "authenticity of heritage",
+   "source": "建筑学名词",
+   "wordNumber": "03.0383",
+   "subjectFullName": "建筑学_中外建筑历史_文化遗产",
+   "subjectName": "文化遗产",
+   "publishYear": "2014",
+   "definition": "特指遗产的真实可信。真实性是认识和探讨遗产有关价值的基本要素，它可反映为遗产信息来源的真实可靠。对于遗产真实性的认识必须和其所处的文化背景相联系。"
+  },
+  {
+   "cn": "奈良文件",
+   "en": "Nara Document on Authenticity",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.104",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "1994年在日本奈良举办的“与世界遗产公约相关的真实性”会议上通过的文件。提倡文化多样性和遗产多样性应受到尊重，认为应在相关文化背景之下，对遗产的价值和真实性进行评判。"
+  },
+  {
+   "cn": "伪书",
+   "en": "pseudograph;book of dubious authenticity",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.004",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "假冒出版单位、书名、作者或作品年代的图书。"
+  },
+  {
+   "cn": "真实性",
+   "en": "authenticity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "客户身份意愿真实性",
+   "en": "authenticity of customer identity and will",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "食品真实性",
+   "en": "food authenticity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.1",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在性质、来源、特征和声称方面真实，并满足预期属性的状态。食品欺诈的反义词。"
+  },
+  {
+   "cn": "食品真实属性确认",
+   "en": "food authenticity identification",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.13",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通过提供客观证据对食品固有的本质特征已得到满足的认定。"
+  },
+  {
+   "cn": "食品真实属性声称",
+   "en": "food authenticity claim",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.12",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "在食品标签或销售包装上，对食品的原料、配料、品种、规格、质量、等级、产地等可以判断真假的属性进行的声明和公示。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

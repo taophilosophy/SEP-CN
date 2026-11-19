@@ -1,0 +1,52 @@
+{
+ "key": "meaningfulness",
+ "term": "meaningfulness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:02:40+00:00",
+ "status": "ok",
+ "note": "variant=meaningfulness; 审定公布名词库=2; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "意义识记",
+   "en": "meaningful memorization",
+   "source": "心理学名词",
+   "wordNumber": "02.551",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在对事物理解的基础上，依据事物的内在联系和已有的知识经验进行的识记。"
+  },
+  {
+   "cn": "意义学习",
+   "en": "meaningful learning",
+   "source": "心理学名词",
+   "wordNumber": "09.005",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "通过与已有的知识经验建立联系而掌握新内容的学习。"
+  },
+  {
+   "cn": "意义学习",
+   "en": "meaningful learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意义识记",
+   "en": "meaningful memorization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

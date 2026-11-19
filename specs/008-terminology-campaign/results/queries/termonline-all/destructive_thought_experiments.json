@@ -1,0 +1,752 @@
+{
+ "key": "destructive thought experiments",
+ "term": "destructive thought experiments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:37:14+00:00",
+ "status": "ok",
+ "note": "variant=destructive thought experiments; 审定公布名词库=1317; 海峡两岸名词对照库=295; 其他来源数据库=105; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "思想实验",
+   "en": "thought experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.094",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "科学家在头脑中设计和构造出一套理想化的仪器设备和研究对象，进行纯粹理想化的实验操作和控制，发现和获取科学事实与自然规律的思维活动。"
+  },
+  {
+   "cn": "思想实验",
+   "en": "thought experiment",
+   "source": "物理学名词",
+   "wordNumber": "06.0108",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "假想实验",
+   "en": "thought experiment,gedanken experiment",
+   "source": "物理学名词",
+   "wordNumber": "01.0101",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "销毁",
+   "en": "destruction",
+   "source": "档案学名词",
+   "wordNumber": "06.03.025",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "对保管期满且不再具备保存价值的电子文件进行消除或删除，使之无法恢复的过程。包括信息销毁和载体销毁两种方式。"
+  },
+  {
+   "cn": "销毁",
+   "en": "destruction",
+   "source": "兽医学名词",
+   "wordNumber": "02.086",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "用焚烧、深埋和其他方法直接杀灭或消除有害的动物及其产品的措施。"
+  },
+  {
+   "cn": "思",
+   "en": "thought",
+   "source": "中医药学名词",
+   "wordNumber": "03.403",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "思考。"
+  },
+  {
+   "cn": "思维被夺",
+   "en": "thought withdrawal,thought deprivation",
+   "source": "精神医学名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者体验到自己的思想被拿走了或被某一外在的代理者挪用的一种精神病理状态。对干扰来源于“异己”的确信并不是继发推理的结果，而是发生于强制当时，与思想被撤走的体验同时发生。"
+  },
+  {
+   "cn": "思维鸣响",
+   "en": "audible thought,voiced thought",
+   "source": "精神医学名词",
+   "wordNumber": "02.054",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者体验到自己的思想被重复或在头脑里回响(自己并没有发声说出来)的一种精神病理状态。原本的思想及其回声之间通常只间隔几秒钟。重复出来的思想，虽然内容与原来的一样，但却可以感到性质上有轻微改变。是精神"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "风景园林名词",
+   "wordNumber": "10.0049",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学本科学位教育课程之一，讲授内容包括材料与构造、模型、土壤、气象等。"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "农学名词",
+   "wordNumber": "18.003",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "通过实际操作来探究自然或社会规律的过程。"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "物理学名词",
+   "wordNumber": "01.0100",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "试验",
+   "en": "experiment",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0717",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "按照程序确定一个或多个特性的方法。"
+  },
+  {
+   "cn": "经验",
+   "en": "experience",
+   "source": "行为医学名词",
+   "wordNumber": "2.137",
+   "subjectFullName": "行为医学_行为医学基本理论_人本主义理论",
+   "subjectName": "人本主义理论",
+   "publishYear": "2022",
+   "definition": "（1）由实践得来的知识或技能。（2）个体在某一时刻所具有的主观精神世界。是一种对客观事物和可以意识到的机体内部过程的态度。是“自我实现理论”的概念之一。"
+  },
+  {
+   "cn": "破坏性地震",
+   "en": "destructive earthquake",
+   "source": "地质学名词",
+   "wordNumber": "11.02.035",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "造成一定的人员伤亡和建筑物破坏的地震。震级一般＞5级。"
+  },
+  {
+   "cn": "破坏试验",
+   "en": "destructive test",
+   "source": "精细化工名词",
+   "wordNumber": "07.0160",
+   "subjectFullName": "精细化工_胶黏剂",
+   "subjectName": "胶黏剂",
+   "publishYear": "2025",
+   "definition": "通过破坏胶接试样以检测其强度的试验。"
+  },
+  {
+   "cn": "破坏性试验",
+   "en": "destructive test",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2181",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "为检验材料或工程构件的承载能力在室内或工程现场进行的试验。 "
+  },
+  {
+   "cn": "破坏检验",
+   "en": "destructive test",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.299",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_焊接缺陷与检验",
+   "subjectName": "焊接缺陷与检验",
+   "publishYear": "2021",
+   "definition": "从工件上切取试样，或以产品(或模拟件)的整体做破坏性试验，以检查其各种力学性能的试验法。"
+  },
+  {
+   "cn": "毁损性离断",
+   "en": "destructive amputation",
+   "source": "手外科学名词",
+   "wordNumber": "05.0005",
+   "subjectFullName": "手外科学_手外科学分论_肢体再植再造",
+   "subjectName": "肢体再植再造",
+   "publishYear": "2020",
+   "definition": "多由爆炸或严重的压砸伤所致的肢体离断。离断肢/指体断面不整，断面近、远端软组织损伤广泛而严重，离断肢/指体外形完全丧 失。"
+  },
+  {
+   "cn": "毁损性断掌",
+   "en": "destructive amputation",
+   "source": "手外科学名词",
+   "wordNumber": "05.0030",
+   "subjectFullName": "手外科学_手外科学分论_肢体再植再造",
+   "subjectName": "肢体再植再造",
+   "publishYear": "2020",
+   "definition": "钝性物严重压轧或挤压导致的断掌。致离断的手掌部分或完全毁损，腕掌骨呈粉碎性骨折脱位或缺失，皮肤、肌肉、肌腱、血管、神经严重挫灭或撕裂，有时仅肌腱或少量已毁损的软组织相连，远端无血运。"
+  },
+  {
+   "cn": "相消干涉",
+   "en": "destructive interference",
+   "source": "物理学名词",
+   "wordNumber": "04.0895",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性试验",
+   "en": "destructive test\",\"destruction test",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性读出",
+   "en": "destructive reading\",\"destructive read",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相消干涉",
+   "en": "destructive interference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分解蒸馏",
+   "en": "destructive distillation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性检测器",
+   "en": "destructive detector",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性砍伐",
+   "en": "destructive lumbering",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性经济体制",
+   "en": "destructive economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "思维，思考",
+   "en": "thinking\",\"thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表征思维",
+   "en": "representational thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自动思维",
+   "en": "automatic thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析性思维",
+   "en": "analytical thought",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "无损检测",
+   "en": "non-destructive inspection",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "非破坏性检测器",
+   "en": "non-destructive detector",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "交叉试验",
+   "en": "crossover experiment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数值实验",
+   "en": "numerical experiment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "工程实验",
+   "en": "engineering experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "析因实验",
+   "en": "factorial experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "原型试验",
+   "en": "prototype experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "现场实验",
+   "en": "field experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "准实验",
+   "en": "quasi experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "备份销毁",
+   "en": "backup and destruction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景体验",
+   "en": "scenario experience",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体验层次",
+   "en": "experience level",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思无邪",
+   "en": "No Depraved Thoughts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子互联网实验",
+   "en": "Quantum Internet Experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诚意",
+   "en": "Be Sincere in Thought",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言不尽意",
+   "en": "Words Cannot Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言尽意",
+   "en": "Words Can Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诸子百家",
+   "en": "A Hundred Schools of Thought",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "习近平外交思想",
+   "en": "Xi Jinping Thought on Diplomacy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "布丰投针实验",
+   "en": "Buffon’s needle experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型量子互联网实验",
+   "en": "new quantum Internet experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲知",
+   "en": "Knowledge from Personal Experience",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "习近平生态文明思想",
+   "en": "Xi Jinping Thought on Ecological Civilization",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "伦理思想实验法",
+   "en": "ethical thought experiment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.234",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "基于特定的伦理学理论、素材等材料，设定理想化的伦理情境，提出若干伦理问题，以激发人们伦理思考的实验方法。"
+  },
+  {
+   "cn": "思想",
+   "en": "thought",
+   "source": "马克思主义",
+   "wordNumber": "01.0014",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与作为思维活动的结果的理性认识同义，指人的意识对客观事物的本质和规律的反映。思想由社会存在决定，同时又对其有能动的反作用，具有相对独立性。"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "通过操控一个或多个自变量的变化，考察一个或多个因变量的相应变化，从而确立自变量和因变量间因果关系的研究策略。"
+  },
+  {
+   "cn": "经验",
+   "en": "experience",
+   "source": "马克思主义",
+   "wordNumber": "01.0202",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人们在实践中通过自己的感觉器官直接感知外界事物而获得的对客观事物的表面现象和外部联系的认识，是人们在社会生活、实践中获得的感性知识。经验是一切科学理论的基础和直接本源；同时也有待于深化，上升为理论。"
+  },
+  {
+   "cn": "损伤性废物",
+   "en": "destructive waste",
+   "source": "消毒学",
+   "wordNumber": "7.2.4",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "能够刺伤或者割破人体皮肤的废弃医用锐器。"
+  },
+  {
+   "cn": "社会思想",
+   "en": "social thought",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "人们在不同历史阶段的社会生产和社会生活实践中所形成的种种社会观念、构想或理论体系。理论社会学范畴，涉及政治、经济、文化、宗教、艺术等各个方面。"
+  },
+  {
+   "cn": "准实验",
+   "en": "quasi-experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "研究者不随机地把实验单位分配到不同实验组的实验方法。"
+  },
+  {
+   "cn": "霍桑试验",
+   "en": "Hawthorne experiment",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0178",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "企业人类学中的一个的研究案例。1924～1932 年，以提高生产效率为根本目的，一批管理学家在美国芝加哥附近的西方电气公司霍桑工厂进行实验研究。霍桑实验的基本假设是：作业条件的改善有利于作业效率的提高"
+  },
+  {
+   "cn": "宗教体验",
+   "en": "religious experience",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.23",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "威廉·詹姆士（William James）用来表示任何结合宗教的对象和相应的情感经验的术语，是宗教的一个核心内容，也是宗教性的关键维度。"
+  },
+  {
+   "cn": "感性经验",
+   "en": "perceptual experience",
+   "source": "马克思主义",
+   "wordNumber": "01.0179",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人在实践中，在感性认识阶段通过感觉器官获取的经验和认识，它是对事物表面现象或外部联系的认识，它表现为感觉、知觉、表象等认识形式。"
+  },
+  {
+   "cn": "自我体验",
+   "en": "self-experience",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体为提高自身的道德水平，在道德实践中根据一定的理论、原则和规范，自觉地进行自我培养的过程。"
+  },
+  {
+   "cn": "情绪体验",
+   "en": "emotional experience",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "人在主观上感受或意识到的情绪状况。"
+  },
+  {
+   "cn": "以人为本",
+   "en": "people-oriented thought",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "科学发展观的核心思想。社会经济发展的终极目的是促进人的全面发展，强调人人平等，尊重人作为“人”的基本权利及尊严，注重社会公平正义。“人”即人民，也包括作为个体的人；“本”即主体、本质、目的。"
+  },
+  {
+   "cn": "毛泽东思想",
+   "en": "Mao Zedong Thought",
+   "source": "马克思主义",
+   "wordNumber": "03.0321",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东同志为主要代表的中国共产党人，把马克思列宁主义的基本原理同中国革命的具体实践结合起来，创立了毛泽东思想。毛泽东思想是马克思列宁主义在中国的运用和发展，是被实践证明了的关于中国革命和建设的正确的"
+  },
+  {
+   "cn": "实验哲学",
+   "en": "philosophy of experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "对科学实验的本体论、方法论和知识论层面上的研究。"
+  },
+  {
+   "cn": "燕京学派",
+   "en": "Yenching School of thought",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.46",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "形成于20世纪30年代，以燕京大学社会学系吴文藻及其学生为核心，提倡社区研究的一个社会学人类学同仁团体。主要人物有费孝通、林耀华、李安宅、瞿同祖、杨庆堃、田汝康等，学术脉络综合了德、美文化论和英国功能"
+  },
+  {
+   "cn": "思想政治工作",
+   "en": "thought and political work",
+   "source": "马克思主义",
+   "wordNumber": "03.0446",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党的工作的重要组成部分，是宣传、教育、组织群众为实现党的纲领和任务而奋斗的手段。思想政治工作是一门综合性、应用性的科学。主要研究人的思想活动规律，提高人们认识世界和改造世界的能力。"
+  },
+  {
+   "cn": "胡志明思想",
+   "en": "Ho Chi Minh thought",
+   "source": "马克思主义",
+   "wordNumber": "05.0238",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "由越南共产党第一代领袖胡志明创造性地运用马克思列宁主义与越南的具体条件并加以发展的成果，主要内容是关于越南革命的基本问题的系统观点，核心内容是胡志明革命道路的观点，主张把社会主义与民族独立相结合。越南"
+  },
+  {
+   "cn": "斯大林新闻思想",
+   "en": "Stalins thoughts on journalism",
+   "source": "马克思主义",
+   "wordNumber": "04.0101",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林关于报纸及新闻媒体的作用、地位和应坚持的原则的思想综合，包括：①报纸作用。党的报纸具有“极强的凝聚力”，帮助党发挥核心领导作用；运用报纸进行批评和自我批评，“及时发现我们党的脓疮”；“精神导线”"
+  },
+  {
+   "cn": "女性经验",
+   "en": "women’s experiences",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "来源于女性日常生活、却被歪曲或排斥在主流知识及知识传承体系之外的经验。女性主义认为它与男性经验之间是不可互为替代的。这种被边缘化的经验具有主流经验所不具备的批判性优势，可证明主流知识并非具有客观性和普"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

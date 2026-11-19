@@ -1,0 +1,372 @@
+{
+ "key": "advertisement",
+ "term": "Advertisement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:04:32+00:00",
+ "status": "ok",
+ "note": "variant=Advertisement; 审定公布名词库=221; 海峡两岸名词对照库=6; 其他来源数据库=5; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "广告",
+   "en": "advertisement",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.001",
+   "subjectFullName": "新闻学与传播学_广告_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "由可识别的出资人通过各种媒介进行的，有关商品(产品、服务和观念)的信息传播活动。通常是有偿的、有组织的、综合的和劝服性的。"
+  },
+  {
+   "cn": "广告学",
+   "en": "advertising",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.153",
+   "subjectFullName": "新闻学与传播学_传播总论_学科与学派",
+   "subjectName": "学科与学派",
+   "publishYear": "2022",
+   "definition": "以广告活动的历史、理论、策略、制作与经营管理为研究对象的传播学研究领域。"
+  },
+  {
+   "cn": "广告商",
+   "en": "advertiser",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.169",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "广告制作和发布的经营者。"
+  },
+  {
+   "cn": "广告主",
+   "en": "advertiser",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.018",
+   "subjectFullName": "新闻学与传播学_广告_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "为推销商品或服务，自行或者委托他人设计、制作、发布广告的法人、其他经济组织或个人。"
+  },
+  {
+   "cn": "广告人",
+   "en": "advertiser",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.062",
+   "subjectFullName": "新闻学与传播学_广告_广告行业",
+   "subjectName": "广告行业",
+   "publishYear": "2022",
+   "definition": "①从事广告行业的人员，既包括广告策划创意人员，也包括广告设计制作人员。②一些在广告行业有所成就的广告从业人员和广告研究人员。"
+  },
+  {
+   "cn": "广告客户",
+   "en": "advertiser",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.075",
+   "subjectFullName": "新闻学与传播学_广告_广告行业",
+   "subjectName": "广告行业",
+   "publishYear": "2022",
+   "definition": "广告产业主要的组成部分之一。按照基本的层次可以分为全国广告客户和零售广告客户(也称为地方广告客户)。"
+  },
+  {
+   "cn": "广告",
+   "en": "advertising",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0572",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "对主办人的观点、商品或服务进行的任何付费形式的非人员化展示和促销。"
+  },
+  {
+   "cn": "广告主",
+   "en": "advertiser",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0599",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "为一项广告的产生、制作和投放付费的个人或组织。"
+  },
+  {
+   "cn": "报纸广告",
+   "en": "press advertising; newspaper advertising",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.161",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "以报纸为载体的广告。"
+  },
+  {
+   "cn": "大类广告",
+   "en": "generic advertising,primary advertising",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0629",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "为一个产品品类而非品类内一个特定品牌所作的广告。"
+  },
+  {
+   "cn": "广告受众",
+   "en": "advertisement audience",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.013",
+   "subjectFullName": "新闻学与传播学_广告_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "①接受广告信息的人。②广告主的目标消费者及广告诉求对象。"
+  },
+  {
+   "cn": "广告经营者",
+   "en": "advertisement operator",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.037",
+   "subjectFullName": "新闻学与传播学_广告_广告行业",
+   "subjectName": "广告行业",
+   "publishYear": "2022",
+   "definition": "受委托提供广告设计、制作、代理服务的法人、其他经济组织或者个人。根据广告法的规定，广告经营者主要分为企业法人、不具备法人资格的经济组织和个体工商户。"
+  },
+  {
+   "cn": "广告主体",
+   "en": "advertisement subject",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.074",
+   "subjectFullName": "新闻学与传播学_广告_广告行业",
+   "subjectName": "广告行业",
+   "publishYear": "2022",
+   "definition": "由广告主、广告公司、广告媒介、广告组织、广告研究和教育机构构成的“广告业”。"
+  },
+  {
+   "cn": "广告位",
+   "en": "advertisement position",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.079",
+   "subjectFullName": "新闻学与传播学_广告_广告媒介",
+   "subjectName": "广告媒介",
+   "publishYear": "2022",
+   "definition": "一则广告在特定媒体发布时所处的规定地位。在印刷广告中，是指其处于哪一版面，或是某一版面上的某一具体地位。在电波媒体广告中，是指其按照节目的编排和时间顺序，放置在哪个时段。"
+  },
+  {
+   "cn": "广告设计",
+   "en": "advertisement design",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.261",
+   "subjectFullName": "新闻学与传播学_广告_广告作品",
+   "subjectName": "广告作品",
+   "publishYear": "2022",
+   "definition": "广告从创意到制作的中间过程。广告设计是广告的主题、创意、语言文字、形象、衬托五个要素构成的组合安排。"
+  },
+  {
+   "cn": "广告脚本",
+   "en": "advertisement script",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.27",
+   "subjectFullName": "新闻学与传播学_广告_广告作品",
+   "subjectName": "广告作品",
+   "publishYear": "2022",
+   "definition": "广告创意(构思)的具体体现，也是制作广告的基础和蓝图。"
+  },
+  {
+   "cn": "广告审查员",
+   "en": "advertisement examiner",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.311",
+   "subjectFullName": "新闻学与传播学_广告_广告法律法规",
+   "subjectName": "广告法律法规",
+   "publishYear": "2022",
+   "definition": "经过工商行政管理局统一资格考试，依法取得《广告审查员证》，为其所在单位审查广告的工作人员。"
+  },
+  {
+   "cn": "广告审批",
+   "en": "advertisement approval",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.312",
+   "subjectFullName": "新闻学与传播学_广告_广告法律法规",
+   "subjectName": "广告法律法规",
+   "publishYear": "2022",
+   "definition": "由广告公司到国家指定的审核部门对其所进行广告内容及形式的审查。"
+  },
+  {
+   "cn": "图书广告",
+   "en": "book advertisement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.038",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "利用媒介宣传介绍图书、提供新书信息等的活动。"
+  },
+  {
+   "cn": "网络广告",
+   "en": "internet advertisement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.05.041",
+   "subjectFullName": "编辑与出版学_出版物_网络出版产品与服务",
+   "subjectName": "网络出版产品与服务",
+   "publishYear": "2022",
+   "definition": "通过付费方式在互联网上刊登或发布文字、声音、图像、影像、动画等多媒体形式的商业信息，并以沟通和劝说为目的的一种广告传播形式。"
+  },
+  {
+   "cn": "广告",
+   "en": "advertising",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "广告共鸣",
+   "en": "advertising resonance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "广告疲倦效应",
+   "en": "advertising wearout",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "欺骗性广告",
+   "en": "deceptive advertising",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "广告心理学",
+   "en": "advertising psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "警戒色",
+   "en": "warning coloration\",\"aposematic coloration\",\"advertising color",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "搜索引擎广告",
+   "en": "search engine advertising",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息流广告",
+   "en": "news feed advertising",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交媒体广告",
+   "en": "social media advertising",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "搜索引擎广告排名算法",
+   "en": "ranking algorithm for search engine advertising",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20182200-T-414 互动广告 第6部分：用户数据保护要求》",
+   "en": "20182200-T-414 Interactive advertising — Part 6: Audience data protection requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "广告",
+   "en": "advertisement",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.24",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "一种为了特定目的，通过一定的传播途径向公众传递信息，以引起广泛关注的传播手段。"
+  },
+  {
+   "cn": "广告",
+   "en": "advertisement",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0187",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "传播商品和劳务信息的一种方式，通过报纸、杂志、广播、电视等多种媒体传播，内容和形式须遵守国家规定的广告管理法规。"
+  },
+  {
+   "cn": "夸大宣传",
+   "en": "exaggerated advertisement",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.4.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "故意夸大消毒产品的安全性和有效性，做出与实际产品安全性和有效性不符的描述。"
+  },
+  {
+   "cn": "广告限制",
+   "en": "advertising restriction ",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.2.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策",
+   "subjectName": "健康危害行为公共政策",
+   "publishYear": "2025",
+   "definition": "对危害健康产品的广告加以限制，例如禁止香烟广告。"
+  },
+  {
+   "cn": "名人广告效应",
+   "en": "celebrity advertising effect",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.25",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "一种以具有广泛社会知名度或社会影响力的人士作为广告宣传的载体，通过名人来引起注意、强化和扩大宣传效果而产生的效应。由于名人行为易于被受众信任、接受和仿效，往往会取得普通广告达不到的宣传效果。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

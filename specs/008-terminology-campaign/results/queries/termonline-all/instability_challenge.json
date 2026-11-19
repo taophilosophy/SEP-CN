@@ -1,0 +1,742 @@
+{
+ "key": "instability challenge",
+ "term": "instability challenge",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:15:24+00:00",
+ "status": "ok",
+ "note": "variant=instability challenge; 审定公布名词库=780; 海峡两岸名词对照库=248; 其他来源数据库=24; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "孕激素试验",
+   "en": "progestational challenge",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.186",
+   "subjectFullName": "性腺疾病_女性内分泌及相关疾病_诊断与治疗",
+   "subjectName": "诊断与治疗",
+   "publishYear": "2025",
+   "definition": "通过服用孕激素来评估内源性雌激素水平的一种方法。常用孕激素药物包括黄体酮、地屈孕酮或醋酸甲羟孕酮。停药后出现撤退性出血为阳性反应，提示子宫内膜已受一定水平雌激素影响。"
+  },
+  {
+   "cn": "孕激素试验",
+   "en": "progestational challenge",
+   "source": "生殖医学名词",
+   "wordNumber": "4.096",
+   "subjectFullName": "生殖医学_生殖系统疾病_女性生殖系统疾病",
+   "subjectName": "女性生殖系统疾病",
+   "publishYear": "2022",
+   "definition": "通过服用孕激素来评估内源性雌激素水平的一种方法。常用孕激素药物包括黄体酮、地屈孕酮或醋酸甲羟孕酮。停药后出现撤退性出血为阳性反应，提示子宫内膜已受一定水平雌激素影响。"
+  },
+  {
+   "cn": "市场挑战者",
+   "en": "market challenger",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.144",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "行业中占据第二位及以后位次，有能力对市场领导者和其他竞争对手采取进攻行动，希望夺取市场领导者地位的公司。"
+  },
+  {
+   "cn": "市场挑战者",
+   "en": "market challenger",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0305",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "行业中为增加其市场份额而努力奋争的第二等级企业。"
+  },
+  {
+   "cn": "不稳定性",
+   "en": "instability",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.062",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "物理化学系统在微小的扰动下会从一种状态突变到另一种状态的特征。"
+  },
+  {
+   "cn": "失稳",
+   "en": "instability",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0018",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "承受外压载荷的壳体，当外压载荷增大到某一值时，壳体会突然失去原来的形状，被压扁或出现波纹，载荷卸去后，壳体不能恢复原状的现象。"
+  },
+  {
+   "cn": "不稳定性",
+   "en": "instability",
+   "source": "物理学名词",
+   "wordNumber": "10.0260",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不稳定性",
+   "en": "instability",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不稳定性",
+   "en": "instability",
+   "source": "自动化名词",
+   "wordNumber": "02.104",
+   "subjectFullName": "自动化科学技术_控制理论_经典控制论",
+   "subjectName": "经典控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "不质疑条款",
+   "en": "non-challenge clause",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.174",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "在专利权许可和技术许可协议中，禁止被许可人对许可的专利权等知识产权的有效性和可强制执行性提出异议的条款。"
+  },
+  {
+   "cn": "低氧激发试验",
+   "en": "hypoxia challenge test",
+   "source": "呼吸病学名词",
+   "wordNumber": "10.029",
+   "subjectFullName": "呼吸病学_氧和二氧化碳代谢_氧代谢",
+   "subjectName": "氧代谢",
+   "publishYear": "2018",
+   "definition": "吸入低于空气氧浓度(一般用15%的氧浓度)的混合气体20min，测定动脉血气或监测动脉血氧饱和度的变化，从而间接判断低氧环境肺功能状态的试验。可评估受试者能否耐受高空飞行和高原活动的能力。该试验模拟吸"
+  },
+  {
+   "cn": "挑战响应鉴别",
+   "en": "challenge-response authentication",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0113",
+   "subjectFullName": "计算机科学技术_信息安全_安全协议与分析技术",
+   "subjectName": "安全协议与分析技术",
+   "publishYear": "2018",
+   "definition": "对通信双方的挑战/响应过程进行正确性鉴别的方式。"
+  },
+  {
+   "cn": "挑战极限",
+   "en": "challenge the limit",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.078",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "人们采取一定的方法、措施、行为挑战生理和心理的最大限度，从而实现极限突破。"
+  },
+  {
+   "cn": "市场挑战者战略",
+   "en": "market challenger strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0309",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "市场挑战者向挑战对象发起进攻所采取的战略。通常包括正面进攻和迂回进攻两类。"
+  },
+  {
+   "cn": "扭曲不稳定性",
+   "en": "kink instability,wriggling instability",
+   "source": "物理学名词",
+   "wordNumber": "10.0311",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "腊肠[形]不稳定性",
+   "en": "bulge instability,sausage instability",
+   "source": "物理学名词",
+   "wordNumber": "10.0273",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "热不稳定性",
+   "en": "heat instability; thermal instability",
+   "source": "天文学名词",
+   "wordNumber": "04.352",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "加热和冷却速率满足一定条件而使系统中小扰动指数增长的情况。"
+  },
+  {
+   "cn": "磁不稳定性",
+   "en": "magnetic instability",
+   "source": "天文学名词",
+   "wordNumber": "09.292",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "由于各种扰动所导致的平衡态磁场、密度或温度等位型的破坏。"
+  },
+  {
+   "cn": "棒不稳定性",
+   "en": "bar instability",
+   "source": "天文学名词",
+   "wordNumber": "07.160",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "旋涡星系的一种不稳定性，导致其中心形成棒状结构。"
+  },
+  {
+   "cn": "质粒不稳定性",
+   "en": "plasmid instability",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0162",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "质粒在宿主细胞中因种种偶然因素诱发产生无质粒或拷贝数减少的突变体，以及因结构重排而造成克隆基因无法表达的突变体的现象。包括分离的不稳定性和结构的不稳定性。"
+  },
+  {
+   "cn": "挑战者号考察",
+   "en": "Challenger expedition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不稳定",
+   "en": "instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不稳定性",
+   "en": "instability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不稳定性",
+   "en": "instability",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "问答式标识",
+   "en": "challenge-response identification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不稳度线",
+   "en": "instability line",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[大气]不稳定度",
+   "en": "atmospheric instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动力不稳定",
+   "en": "dynamic instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对称不稳定",
+   "en": "symmetric instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对流不稳定性",
+   "en": "convective instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非线性不稳定",
+   "en": "nonlinear instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "惯性不稳定",
+   "en": "inertial instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹不稳定",
+   "en": "Helmholtz instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "霍尔姆伯不稳定度",
+   "en": "Holmboe instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "计算不稳定性",
+   "en": "computational instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "胶体不稳定性",
+   "en": "colloidal instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "静力不稳定[性]",
+   "en": "hydrostatic instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对不稳定",
+   "en": "absolute instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候不稳定性",
+   "en": "climatic instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "潜在不稳定",
+   "en": "latent instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "挑战",
+   "en": "challenge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "挑战者",
+   "en": "challenger\",\"contender",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不稳定",
+   "en": "instability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络空间风险挑战",
+   "en": "cyberspace risk challenge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可异议",
+   "en": "right to challenge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "ImageNet大规模图像识别竞赛",
+   "en": "ImageNet Large Scale Visual Recognition Challenge (ILSVRC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《大数据促发展：挑战与机遇》（联合国）",
+   "en": "Big Data for Development: Opportunities and Challenges (UN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共卫生安全是人类面临的共同挑战",
+   "en": "Public health security is a common challenge for humanity.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "迎难而上，勇敢应对",
+   "en": "to rise up to the challenge and respond to it bravely",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天下之事，不难于立法，而难于法之必行",
+   "en": "In the governance of a country, it is the enforcement, not the enactment, of law that presents the greatest challenge.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性",
+   "en": "stability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性",
+   "en": "stability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性",
+   "en": "stability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字稳定性",
+   "en": "digital stability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "挑战实验",
+   "en": "challenge test",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.56",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "为模拟回收塑料的污染状况，通过一定浓度水平的替代污染物人为污染原生塑料后，经过再生工艺生产获得再生料，通过分析再生料中替代污染物的残留情况评估再生工艺过程有效性的一种手段。"
+  },
+  {
+   "cn": "口服激发试验",
+   "en": "oral food challenge",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.43",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "在医学监督下逐渐摄入递增剂量的致敏食物，以此来确认或排除真正的食物过敏的试验。"
+  },
+  {
+   "cn": "灭菌过程验证装置",
+   "en": "process challenge device, PCD",
+   "source": "消毒学",
+   "wordNumber": "3.1.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "对灭菌过程有预定抗力的用于评价灭菌过程的有效性的模拟装置。内部放置化学指示物时称灭菌过程化学验证装置，放置生物指示物时称灭菌过程生物验证装置，灭菌负载为测试包时称为灭菌挑战包。"
+  },
+  {
+   "cn": "缩宫素激惹试验",
+   "en": "oxytocin challenge test, OCT",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.11",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "用缩宫素诱导子宫收缩并用电子胎心监护仪记录胎心率变化的方法。用于产前监护及引产时胎盘功能的评价。"
+  },
+  {
+   "cn": "安慰剂对照食物激发试验",
+   "en": "placebo-controlled food challenge, PCFC",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.44",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "由过敏医学学科医生和／或营养师通过食物模拟、混合食物、食物蛋白提取物胶囊等方式隐匿受试食物与安慰剂，以确保受试者及受试者家属对摄入的是受试食物还是安慰剂均不知道的口服激发试验。"
+  },
+  {
+   "cn": "管腔型灭菌过程验证装置",
+   "en": "hollow load process challenge devices",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用管腔代表预定抗力的灭菌过程验证装置。一般要求管腔内直径≥2mm，内部无连接点，且其腔体中的任何一点距与外界相通的开口处距离不大于其内直径的1500倍。"
+  },
+  {
+   "cn": "双盲安慰剂对照口服食物激发试验",
+   "en": "d-blind placebo-controlled oral food challenge, DBPCOFC",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.45",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "由第三方医生和／或营养师通过食物模拟、混合食物、食物蛋白提取物胶囊等方式隐匿受试食物与安慰剂，以确保医师、受试者及受试者家属对摄入的是受试食物还是安慰剂均不知道的口服激发试验，是确诊食物过敏的金标准。"
+  },
+  {
+   "cn": "复合型灭菌过程验证装置",
+   "en": "biological and chemical indicators integrating process challenge device, BI and CI integrating PCD",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "内部同时放置了化学指示物和生物指示物的灭菌过程验证装置。"
+  },
+  {
+   "cn": "稳定性试验",
+   "en": "stability test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "通过比较长期试验和加速试验前后有效成分的含量或杀灭微生物能力的变化来评价其稳定性，测定消毒剂有效期的试验。"
+  },
+  {
+   "cn": "社会稳定",
+   "en": "social stability",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会障碍、冲突、失调等因素被控制在最小的常态范围内，社会处于稳固、安定、有序、和谐的良性运行和协调发展状态。包括没有大规模的社会冲突、社会主要秩序仍能正常维持的社会状态；以及社会具有较强的自我调节能力"
+  },
+  {
+   "cn": "大气稳定度",
+   "en": "atmospheric stability",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.3.5",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "空中某大气团由于与周围空气存在密度、温度和流速等的强度差而产生的浮力使其产生加速度而上升或下降的程度。"
+  },
+  {
+   "cn": "连续使用稳定性",
+   "en": "continuous application stability",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒剂反复多次使用至规定时间和次数后，仍满足消毒要求的能力。"
+  },
+  {
+   "cn": "原液稳定性",
+   "en": "stock solution stability",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "乳化香精原液以2500r/min-3000r/min转速离心15min后保持不分层状态的能力。是乳化香精的主要理化指标之一。"
+  },
+  {
+   "cn": "改革发展稳定",
+   "en": "reform development and stability",
+   "source": "马克思主义",
+   "wordNumber": "03.0628",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "改革、发展、稳定，始终是中国现代化建设中总揽全局的重大关系，是互为条件的辩证统一体：改革是中国社会主义现代化建设的动力，发展是中国社会主义现代化建设的目的，稳定是中国社会主义现代化建设的前提，三者统一"
+  },
+  {
+   "cn": "千倍稀释液稳定性",
+   "en": "thousand-fold diluent stability",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "乳化香精的千倍稀释液在室温下横放静置72h 或以3000 r/min 转速离心15min 后保持表面无浮油、底部无沉淀的能力。是乳化香精的主要理化指标之一。"
+  },
+  {
+   "cn": "消化稳定性",
+   "en": "digestive stability, degestion-resitance abillity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.36",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "一种物质在消化过程中保持稳定的能力。它通常用于描述药物或其他物质在胃肠道中的稳定性，以预测它们在体内的作用和效果。"
+  },
+  {
+   "cn": "热稳定性",
+   "en": "thermal stability, heat-resitance abillity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.37",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "在一定的时间尺度内致敏原的结构和性能对温度的耐受或敏感程度。"
+  },
+  {
+   "cn": "稳定压倒一切",
+   "en": "Stability is of overriding importance",
+   "source": "马克思主义",
+   "wordNumber": "04.0171",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志针对改革发展稳定关系而提出的在社会主义现代化和改革开放进程中必须千方百计保持社会稳定的重要论断。邓小平在1989年2月26日会见美国总统布什时说：“中国的问题，压倒一切的是需要稳定。没有稳定"
+  },
+  {
+   "cn": "医疗器械消毒剂连续使用稳定性试验",
+   "en": "stability test for continuous use of medical instrument disinfectant",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "验证消毒剂在连续使用有效期内，对人工污染于医疗器械的指示微生物消毒或灭菌效果的试验。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

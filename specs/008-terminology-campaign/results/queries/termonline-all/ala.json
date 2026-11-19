@@ -1,0 +1,592 @@
+{
+ "key": "ala",
+ "term": "āla",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:41:43+00:00",
+ "status": "ok",
+ "note": "variant=āla; 审定公布名词库=150; 海峡两岸名词对照库=123; 其他来源数据库=4; 预公布名词数据库=17; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "翼",
+   "en": "ala",
+   "source": "动物学名词",
+   "wordNumber": "5.1156",
+   "subjectFullName": "动物学_无脊椎动物学_线虫动物门",
+   "subjectName": "线虫动物门",
+   "publishYear": "2021",
+   "definition": "线虫体表侧面角质膜膨大形成的膜状突起。通常成对存在，也有些线虫仅有一侧有翼。根据翼存在的部位，将翼分为颈翼、侧翼和尾翼。"
+  },
+  {
+   "cn": "丙氨酸",
+   "en": "alanine,Ala",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0047",
+   "subjectFullName": "食品科学技术_食品营养_基础营养_蛋白质、肽及氨基酸",
+   "subjectName": "蛋白质、肽及氨基酸",
+   "publishYear": "2020",
+   "definition": "2-氨基丙酸，构成蛋白质的基本单位，组成人体蛋白质的氨基酸之一。"
+  },
+  {
+   "cn": "丙氨酸",
+   "en": "alanine,Ala",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "02.082",
+   "subjectFullName": "肠外肠内营养学_基础营养_蛋白质",
+   "subjectName": "蛋白质",
+   "publishYear": "2019",
+   "definition": "人体非必需氨基酸之一。一种脂肪族的非极性氨基酸。常见的L—丙氨酸是蛋白质合成中的编码氨基酸之一，也是组成蛋白质的常见20种氨基酸之一。哺乳动物的非必需氨基酸和生糖氨基酸。D—丙氨酸存在于多种细菌细胞壁"
+  },
+  {
+   "cn": "神经安定麻醉",
+   "en": "neuroleptanesthesia,NLA",
+   "source": "老年医学名词",
+   "wordNumber": "04.701",
+   "subjectFullName": "老年医学_老年临床医学_老年外科疾病",
+   "subjectName": "老年外科疾病",
+   "publishYear": "2017",
+   "definition": "以使用神经安定药丁酰苯类(如氟哌啶)和强效镇痛药(如芬太尼)为主的一种静脉复合麻醉方法。"
+  },
+  {
+   "cn": "陶瓷膏体光固化成形",
+   "en": "stereolithography apparatus,SLA",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "08.046",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_近净成形与快速制造",
+   "subjectName": "近净成形与快速制造",
+   "publishYear": "2021",
+   "definition": "以光敏树脂、光引发剂、陶瓷粉体、分散剂充分混合得到的陶瓷膏体为打印材料，采用刮板涂布式送料，在紫外光源作用下，实现由点到线, 由线到面的逐层凝固, 最终成型出三维实体零件的工艺。"
+  },
+  {
+   "cn": "翼状突",
+   "en": "ala,alae (复)",
+   "source": "昆虫学名词",
+   "wordNumber": "11.444",
+   "subjectFullName": "昆虫学_蜱螨学",
+   "subjectName": "蜱螨学",
+   "publishYear": "2000",
+   "definition": "雌蜱生殖孔边缘的一对细小的翼状突起。"
+  },
+  {
+   "cn": "共轭亚油酸",
+   "en": "conjugated linoleic acid,CLA",
+   "source": "畜牧学名词",
+   "wordNumber": "07.391",
+   "subjectFullName": "畜牧学_饲料与营养_营养生理与生化_营养生化",
+   "subjectName": "营养生化",
+   "publishYear": "2020",
+   "definition": "亚油酸的同分异构体，在C9、C11或C10、C12位具有双键的亚油酸的几何异构体，普遍存在于动物体内。"
+  },
+  {
+   "cn": "细菌性肝脓肿",
+   "en": "pyogenic liver abscess,PLA",
+   "source": "病理学名词",
+   "wordNumber": "02.424",
+   "subjectFullName": "病理学_消化系统_肝脏",
+   "subjectName": "肝脏",
+   "publishYear": "2020",
+   "definition": "细菌感染引起肝脏的化脓性炎。以革兰氏阴性菌为主。大体表现为境界相对清楚的结节，周围可见纤维组织包裹，内为黄白色脓性坏死物，液化明显时可见空腔。镜下见坏死区域内大量中性粒细胞聚集。"
+  },
+  {
+   "cn": "人类白细胞抗原",
+   "en": "human leucocyte antigen,HLA",
+   "source": "器官移植学名词",
+   "wordNumber": "02.034",
+   "subjectFullName": "器官移植学_器官移植免疫学",
+   "subjectName": "器官移植免疫学",
+   "publishYear": "2020",
+   "definition": "集中在人类白细胞膜上的主要组织相容性抗原。"
+  },
+  {
+   "cn": "共轭亚油酸",
+   "en": "conjugated linoleic acid,CLA",
+   "source": "运动医学名词",
+   "wordNumber": "05.036",
+   "subjectFullName": "运动医学_运动营养_营养素及其代谢",
+   "subjectName": "营养素及其代谢",
+   "publishYear": "2019",
+   "definition": "由亚油酸衍生的一组亚油酸异构体。普遍存在于人体和动物体内的营养物质。牛羊肉及其奶制品中含量较多。参与脂质和糖代谢，具有抗氧化、抗肿瘤和减少体脂的作用。"
+  },
+  {
+   "cn": "人类白细胞抗原",
+   "en": "human leukocyte antigen,HLA",
+   "source": "结核病学名词",
+   "wordNumber": "02.047",
+   "subjectFullName": "结核病学_结核病病原菌及发病机制_发病机制",
+   "subjectName": "发病机制",
+   "publishYear": "2019",
+   "definition": "人T细胞表面上的一种糖蛋白，在T细胞抗原识别方面起关键作用。分为Ⅰ类、Ⅱ类和Ⅲ类组织相容性抗原。通常非活化T细胞只表达HLAⅠ类抗原，活化的T细胞同时表达HLAⅠ和HLAⅡ类抗原。"
+  },
+  {
+   "cn": "扩散置限聚集",
+   "en": "diffusion-limited aggregation,DLA",
+   "source": "物理学名词",
+   "wordNumber": "11.0657",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "5–氨基酮戊酸",
+   "en": "5-aminolevulinic acid,ALA",
+   "source": "生物物理学名词",
+   "wordNumber": "05.224",
+   "subjectFullName": "生物物理学_光生物物理学_光医学与光诊疗",
+   "subjectName": "光医学与光诊疗",
+   "publishYear": "2018",
+   "definition": "化学名称：5–氨基–4–氧代戊酸，分子式<img src='/root/syzx/static/spz/swwl2.05.224.01.png'/>。卟啉合成通路上的第一个化合物。在动物细胞最终合成血"
+  },
+  {
+   "cn": "可编程逻辑阵列",
+   "en": "programmable logic array,PLA",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0185",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "由可编程的与门阵列连接可编程的或门阵列构成的用于实现组合逻辑功能的可编程逻辑器件。可编程逻辑阵列（PLA）的输出是输入的与或函数。"
+  },
+  {
+   "cn": "服务等级协定",
+   "en": "service level agreement,SLA",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0588",
+   "subjectFullName": "计算机科学技术_计算机体系结构_存储系统",
+   "subjectName": "存储系统",
+   "publishYear": "2018",
+   "definition": "服务提供者与服务使用者之间的一种协议。包括服务类型、服务质量和客户付款等约定。"
+  },
+  {
+   "cn": "聚乳酸",
+   "en": "poly(lactic acid),PLA",
+   "source": "化学名词",
+   "wordNumber": "05.0256",
+   "subjectFullName": "化学_高分子化学_高分子物质",
+   "subjectName": "高分子物质",
+   "publishYear": "2016",
+   "definition": "结构重复单元为<img src='/root/syzx/static/spz/huaxue2.05.0256.1.png'/>的聚合物。"
+  },
+  {
+   "cn": "人[类]白细胞抗原",
+   "en": "human leukocyte antigen,HLA",
+   "source": "细胞生物学名词",
+   "wordNumber": "09.062",
+   "subjectFullName": "细胞生物学_细胞免疫",
+   "subjectName": "细胞免疫",
+   "publishYear": "2009",
+   "definition": "人T细胞表面上的一种糖蛋白。在T细胞抗原识别方面起关键作用，分为Ⅰ类、Ⅱ类和Ⅲ类组织相容性抗原。通常非活化T细胞只表达HLAⅠ类抗原，活化的T细胞同时表达HLAⅠ和HLAⅡ类抗原。"
+  },
+  {
+   "cn": "人[类]白细胞抗原",
+   "en": "human leukocyte antigen,HLA",
+   "source": "免疫学名词",
+   "wordNumber": "2.73",
+   "subjectFullName": "免疫学_免疫系统_主要组织相容性复合体和遗传",
+   "subjectName": "主要组织相容性复合体和遗传",
+   "publishYear": "2007",
+   "definition": "人类主要组织相容性复合体基因编码的抗原。因首先在白细胞表面发现而得名。"
+  },
+  {
+   "cn": "服务水平协议",
+   "en": "service level agreement,SLA",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.006",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "一种由服务供应商与用户签署的法律文件，其中承诺只要用户向服务供应商支付相应费用，就应享受到服务供应商提供的相应服务质量。"
+  },
+  {
+   "cn": "人类白细胞抗原",
+   "en": "human leucocyte antigen,HLA",
+   "source": "遗传学名词",
+   "wordNumber": "02.367",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "集中在人类白细胞膜上的主要组织相容性抗原。"
+  },
+  {
+   "cn": "抗La抗体(=抗SSB抗体)",
+   "en": "[]",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗SSB抗体，抗La抗体",
+   "en": "anti-SSB antibody， anti-Sjogren syndrome B antibody",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翼部",
+   "en": "ala",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "翼膜",
+   "en": "ala",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "歌女，焦康达",
+   "en": "Gioconda\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Ponchielli, Amilcare"
+  },
+  {
+   "cn": "燕子",
+   "en": "Rondine\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Puccini, Giacomo"
+  },
+  {
+   "cn": "钟",
+   "en": "Campanella\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Liszt, Franz (Ferenc)"
+  },
+  {
+   "cn": "狩猎",
+   "en": "Chasse\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Haydn, Franz Joseph"
+  },
+  {
+   "cn": "波西米亚人",
+   "en": "Bohème\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Puccini, Giacomo"
+  },
+  {
+   "cn": "吉普赛女郎",
+   "en": "Zingara\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Donizetti, Gaetano"
+  },
+  {
+   "cn": "佩里绍莱",
+   "en": "Périchole\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Offenbach, Jacques"
+  },
+  {
+   "cn": "瓦蕾小姐",
+   "en": "Wally\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Catalani, Alfredo"
+  },
+  {
+   "cn": "装痴作傻",
+   "en": "Fintasemplice\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mozart, Wolfgang Amadeus"
+  },
+  {
+   "cn": "陌生人",
+   "en": "Straniera\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bellini, Vincenzo"
+  },
+  {
+   "cn": "宠姬",
+   "en": "Favorite\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Donizetti, Gaetano"
+  },
+  {
+   "cn": "厄舍古厦的倒塌",
+   "en": "Chute de la Maison Usher\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Debussy, Claude"
+  },
+  {
+   "cn": "古怪的玩具店",
+   "en": "Boutique fantasque\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Respighi, Ottorino"
+  },
+  {
+   "cn": "美丽的海伦",
+   "en": "Belle Hélène\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Offenbach, Jacques"
+  },
+  {
+   "cn": "沉没的大教堂",
+   "en": "Cathédrale engloutie\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Debussy, Claude"
+  },
+  {
+   "cn": "幸福的少女",
+   "en": "Damoiselle élue\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Debussy, Claude"
+  },
+  {
+   "cn": "贡献者许可协议",
+   "en": "Contributor License Agreement (CLA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗SSB/La抗体",
+   "en": "anti-SSB antibody, anti-SSB",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.12",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "抗核抗体的一种，其靶抗原SSB/La蛋白是一种核糖核蛋白。抗SSB抗体是诊断干燥综合征的血清学标志物，并与腺体外受累密切相关；母源性的抗SSB/La抗体与新生儿狼疮、永久性窦性心动过缓、先天性心脏传导"
+  },
+  {
+   "cn": "喇嘛",
+   "en": "Bla ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0466",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏语 bla-ma 之汉语音译，意为上人、上师、师长、导师。藏语中“喇嘛”有别于一般僧人，是对高僧和导师的尊称，与称作“扎巴”的一般僧人有别。喇嘛相当于梵语guru （古鲁），意即师匠、师范，为古代印"
+  },
+  {
+   "cn": "上师",
+   "en": "Bla ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0485",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。藏传佛教对具有高德胜行、堪为世人轨范者之尊称，密宗中又作金刚上师。藏语称为“喇嘛”（bla-ma）。藏传佛教中将合格上师及善知识视为修行成就的必备条件。认为不依上师引导，则不知有佛；不从"
+  },
+  {
+   "cn": "拉ト楞寺",
+   "en": "Bla brang dgon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0557",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教格鲁派寺院。在甘肃省夏河县境内，系格鲁派六大寺之一。1710 年嘉样协巴多吉在青海河南蒙古亲王资助下兴建。寺内设闻思、上密、下密、时轮、喜金刚、曼巴等六个扎仓，为藏传佛教格鲁派在甘、青、川边地"
+  },
+  {
+   "cn": "人类白细胞抗原",
+   "en": "human leucocyte antigen，HLA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.46",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "人类主要组织相容性复合物的表达产物。是目前所知人体最复杂的遗传多态系统。根据编码分子的特性不同可分成三类：Ⅰ类、Ⅱ类和Ⅲ类。"
+  },
+  {
+   "cn": "达赖喇嘛",
+   "en": "Tav lavi bla ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0439",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教格鲁派活佛转世系统称号之一。达赖，蒙古语意为大海，喇嘛，藏语意为上师。1578 年蒙古土默特部顺义王俺答汗迎请索南嘉措至青海传教，赠其“圣识一切瓦齐尔达喇达赖喇嘛”称号，意为“遍知一切德智如海"
+  },
+  {
+   "cn": "活佛",
+   "en": "Sprul sku; Bla ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0455",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "汉语中指藏传佛教高僧，即转世化身。有时亦指藏语中的“喇嘛”（bla-ma）或上师。化身或转世化身在藏语中称为“祖古”。藏语中也将上师、“祖古”（化身）称为“仁波切”，意即“珍贵之宝”、“珍宝”、“无价"
+  },
+  {
+   "cn": "雍布拉康",
+   "en": "Yum bu bla sgang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0564",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族古代建筑，藏语意为“母子神殿”，位于西藏自治区乃东县东南部雅龙河东岸。据传始建于公元前二世纪，是西藏历史上第一座古堡，唐代以后形成佛寺。该古堡占地不大，石头砌成雕楼耸立山顶，挺拔雄伟。古堡殿内原供"
+  },
+  {
+   "cn": "桑吉喇嘛",
+   "en": "Sangs rgyas bla ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0411",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教人物。是藏传佛教历史上第一位伏藏师,也是嘉色拉吉十三位单转伏藏师中的第一位，大约于十世纪中叶诞生在西藏拉的多措瓦地区，与大译师仁钦桑波（958 年—1055年）同一时期，为一位密咒师。他从西藏"
+  },
+  {
+   "cn": "喇钦•贡巴饶赛",
+   "en": "Bla chen dgong pa rab gsal",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0399",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（952 年—1035 年）著名藏族历史人物。青海省循化县加吾村人。15 岁时，在安多丹斗寺随从三位贤哲（藏饶赛、约格琼和玛释迦牟尼）出家为僧，后常住丹斗寺收徒传戒，以后其弟子返至卫藏各地，建寺收徒，"
+  },
+  {
+   "cn": "《普贤上师言教》",
+   "en": "Kun bzang bla mavi zhal lung",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0355",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教名著。又名《大圆满隆钦心髓前行引导文》，巴楚仁波切（1808 年—1889 年）著，本书为宁玛派核心教法《大圆满隆钦心髓》前行的释论，几乎包含了所有大圆满法最根本的修行秘诀，内容不仅仅限于佛法"
+  },
+  {
+   "cn": "抗可溶性肝抗原抗体",
+   "en": "anti-soluble liver antigen antibody, anti-SLA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.39",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。对III型自身免疫性肝炎具高度特异性，靶抗原是肝细胞质的可溶性蛋白抗原，也表达于胰腺、肺、肾中，或高表达于活化的人淋巴细胞。"
+  },
+  {
+   "cn": "玛哈嘎拉",
+   "en": "Ma ha ka la",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0433",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语，指佛教护法神大黑天，梵文（Mahākāla），或译摩诃迦罗等。藏传佛教密宗认为是毗卢遮那佛（大日如来）降魔时呈现出的忿怒相，有六臂、四臂、二臂玛哈嘎拉之分。"
+  },
+  {
+   "cn": "米拉日巴",
+   "en": "Mi la ras pa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0406",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1040 年—1123 年）藏传佛教著名人物。是藏族历史上最著名的修行大师和密法大成就者。俗名米拉日巴・脱巴噶，法名协巴多杰。生于后藏贡塘地方（今西藏吉隆县北部）。1078 年投从大译师玛尔巴门下，"
+  },
+  {
+   "cn": "布达拉宫",
+   "en": "Pho brang po ta la",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0573",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "西藏建筑名称，位于拉萨市的西北，是西藏最为宏伟的建筑。布达拉系梵语Potalaka 之音译，原指观音菩萨岛。为松赞干布所建，他被认为是观音菩萨的化身，故有此名。17 世纪重建后，成为历代达赖喇嘛的冬宫"
+  },
+  {
+   "cn": "《入中论》",
+   "en": "Dbu ma la vjug pa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0358",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏译佛教经典名著，中观应成派根本典籍，是藏传佛教必修的五部大论之一，古印度学者月称（约600 年—650 年）著。全书按照《十地经》10 种发心为纲目，分十一地详细讲述入观的次第、慧度、决择二谛等。从"
+  },
+  {
+   "cn": "《入菩萨行论》",
+   "en": "Byang chub sems dpavi spyod pa la vjug pa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0357",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏译佛教经典名著。寂天（650 年一750 年） 论师著，欧•洛丹喜饶翻译。本书为藏传佛教各派修习的重要经典，全书共分3 卷10 品。前三品叙述菩提心及其功德；次三品阐述正知佛法、忍辱；后三品叙述精进"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

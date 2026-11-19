@@ -1,0 +1,732 @@
+{
+ "key": "dynamical adjustment",
+ "term": "dynamical adjustment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:39:57+00:00",
+ "status": "ok",
+ "note": "variant=dynamical adjustment; 审定公布名词库=1386; 海峡两岸名词对照库=460; 其他来源数据库=28; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "调剂",
+   "en": "adjustment",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.133",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "发行组织成员单位之间相互调配余缺出版物的活动。"
+  },
+  {
+   "cn": "平差",
+   "en": "adjustment",
+   "source": "测绘学名词",
+   "wordNumber": "01.041",
+   "subjectFullName": "测绘学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "采用一定的估算原则处理各种测量数据，求得待定量最佳估值并进行精度估计的理论和方法。"
+  },
+  {
+   "cn": "[仪器仪表]调整",
+   "en": "adjustment",
+   "source": "电力名词",
+   "wordNumber": "02.127",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "对仪器仪表的某些可调部分进行调节,以使其达到正常工作状态和规定准确度要求的一组操作。"
+  },
+  {
+   "cn": "调节",
+   "en": "adjustment",
+   "source": "物理学名词",
+   "wordNumber": "01.0181",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "心理学名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "个体主动运用技巧以增加自己与环境的和谐关系。比适应更主动。"
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.013",
+   "subjectFullName": "放射医学与防护_放射流行病学_概述、设计与实施",
+   "subjectName": "概述、设计与实施",
+   "publishYear": "2014",
+   "definition": "流行病学统计分析中对效应量度的一种综合性的统计方法。目的是将要比较的人群在构成方面不同(比如两人群的年龄结构不同)的影响最小化。常见的方法有回归分析和直接或间接标化。主要用于率和相对危险的统计分析。"
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.050",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "电气工程名词",
+   "wordNumber": "26.132",
+   "subjectFullName": "电气工程_电磁测量和电离辐射测量",
+   "subjectName": "电磁测量和电离辐射测量",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "电子学名词",
+   "wordNumber": "17.011",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "adjusting",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.337",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_金属切削机床_机床运转与操作",
+   "subjectName": "机床运转与操作",
+   "publishYear": "2021",
+   "definition": "使机床各部分达到能进入正常工作状态的操作。"
+  },
+  {
+   "cn": "调节",
+   "en": "adjust",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.107",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "通过反馈改变机体的状态，使机体适应内外环境改变的过程。"
+  },
+  {
+   "cn": "调整",
+   "en": "adjusting",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0199",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "将发动机的可变控制机构调定到正确规范的程序。"
+  },
+  {
+   "cn": "调整机构",
+   "en": "adjuster",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.073",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "车身上具调整功能的装置。"
+  },
+  {
+   "cn": "动力学",
+   "en": "dynamics",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1510",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "(1)力学：研究产生运动的力及其与所产生的运动的关系的力学分支学科。 (2)地震学：涉及产生地震动的应力或力的术语。 "
+  },
+  {
+   "cn": "动力学",
+   "en": "dynamics",
+   "source": "物理学名词",
+   "wordNumber": "02.0003",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "动力学",
+   "en": "dynamics",
+   "source": "土木工程名词",
+   "wordNumber": "02.005",
+   "subjectFullName": "土木工程_工程力学_理论力学",
+   "subjectName": "理论力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "动力学",
+   "en": "dynamics",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "动力",
+   "en": "dynamic",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.277",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "调版",
+   "en": "page adjustment",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.143",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "上版稿件因报道需求的变化而发生的版面位置变化。"
+  },
+  {
+   "cn": "战略调整",
+   "en": "strategic adjustment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.103",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播战略",
+   "subjectName": "组织传播战略",
+   "publishYear": "2022",
+   "definition": "组织发展过程中对过去选择且目前正在实施的战略方向或路线的重新决策。这种决策受到组织核心能力、领导者的行为以及组织文化等因素的影响。"
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直方图调整",
+   "en": "histogram adjust\",\"histogram adjustment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "平差值",
+   "en": "adjusted value\",\"adjusted  quantity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "动力学",
+   "en": "dynamics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地转适应",
+   "en": "geostrophic adjustment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对流调整",
+   "en": "convective adjustment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环流调整",
+   "en": "circulation adjustment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "季节调整",
+   "en": "seasonal adjustment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调整时间",
+   "en": "adjustment time",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "通量调整",
+   "en": "flux adjustment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适应障碍",
+   "en": "adjustment disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会适应",
+   "en": "social adjustment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "调整成本",
+   "en": "adjustment cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海损理算",
+   "en": "average adjustment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "价格调整",
+   "en": "price adjustment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "支付调整",
+   "en": "payment adjustment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空间调整",
+   "en": "spatial adjustment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地图接边",
+   "en": "map adjustment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "空间纠正",
+   "en": "spatial adjustment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "adjust\",\"adjustment\",\"correction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "adjust\",\"tune\",\"adjustment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调桨",
+   "en": "adjust\",\"adjustment\",\"oaring\",\"rigging adjustability",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精神动力",
+   "en": "dynamism",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "整理柔道服",
+   "en": "adjustment of judogi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表尺调整",
+   "en": "rear sight adjustment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调桨器",
+   "en": "oar inclination adjuster",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规模动态化",
+   "en": "scale dynamics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社群动力学",
+   "en": "community dynamics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动态模型",
+   "en": "dynamic model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "调整球",
+   "en": "adjust a poor pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会调适",
+   "en": "social adjustment",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "通过种种经济、政治、文化和社会手段、机制和条件对社会成员或群体的行为和心理进行调整，以适应变化着的社会生活和社会环境。"
+  },
+  {
+   "cn": "风险调整",
+   "en": "risk adjustment",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "医保部门通过分析不同区域、不同基金的参保人群健康风险和疾病经济负担，在进行基金分配、支付和管理时进行优化，以调节不同区域、人群、医疗机构面临的风险差异。"
+  },
+  {
+   "cn": "政策调整",
+   "en": "policy adjustment",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1.7",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "根据实际运行效果、环境变动或政策反馈，对原有政策内容、工具或目标进行修订、补充或优化，以提升政策适应性和有效性。"
+  },
+  {
+   "cn": "医保药品目录动态调整机制",
+   "en": "dynamic adjustment mechanism of reimbursement drug list",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.1.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "综合考虑药品临床需求、医保基金承受能力和新药上市情况，周期性调整医保药品目录的政策规定。"
+  },
+  {
+   "cn": "调节生产",
+   "en": "adjust production",
+   "source": "马克思主义",
+   "wordNumber": "03.0181",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以市场需求为主按照供求关系安排生产的经济活动。在资本主义社会，资本家为了攫取利润，在企业内部的经济管理上往往按照市场需求和供需变化关系调节生产，有计划地生产。但同样为了攫取利润，在市场上，各个企业则为"
+  },
+  {
+   "cn": "修正r方",
+   "en": "adjusted r-squared",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.92",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在多元线性回归分析中，考虑到新加入的自变量所解释的因变量的变异比例和自由度，而进行调整的复决定系数。"
+  },
+  {
+   "cn": "束流动力学",
+   "en": "beam dynamics",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.11",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "研究带电粒子束流在传输线和加速器的电磁场作用下运动规律的学科。"
+  },
+  {
+   "cn": "群体动力学",
+   "en": "group dynamics",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "由德裔美国心理学家勒温(Kurt Lewin）等人在对群体现象进行动态分析与研究的基础上提出，试图通过对群体现象的动态分析发现其一般规律的理论。认为个体的行为是由个性特征和环境的影响相互作用的结果。"
+  },
+  {
+   "cn": "社会动力学",
+   "en": "social dynamics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0519",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国哲学家孔德（Auguste Comte）社会学理论的一个部分，与社会静力学相对。社会动力学从纵的方面研究社会的变迁和进化，认为进步意味沿上升路线发展，提出三阶段定律，即神学阶段、形而上学阶段和实证"
+  },
+  {
+   "cn": "动态",
+   "en": "dynamic state",
+   "source": "消毒学",
+   "wordNumber": "1.8.9",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "设施以规定的方式运行，有规定的人员在场并在商定的条件工作的状态。"
+  },
+  {
+   "cn": "动力定型",
+   "en": "dynamic stereotype",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "人长期生活、劳动、反复重演某种活动后，逐渐在大脑皮质高级神经系统中建立的巩固的条件反射活动模式，其外在表现即为动作习惯。"
+  },
+  {
+   "cn": "动力试验",
+   "en": "dynamic test",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.62",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "通过试验的方法对结构振动进行研究，借以观察和分析结构的基本动力特性以及在各种环境下的动态稳定性和耐受能力的过程。是验证结构动态性能和动力分析的重要手段。"
+  },
+  {
+   "cn": "动力定型",
+   "en": "dynamic stereotype",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.1.2.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "长期在同样劳动环境中从事某一作业活动而逐渐在大脑皮质高级神经系统中建立的巩固的条件反射活动模式。其外在表现为从事该作业时各器官系统相互配合得更为协调、反应更加迅速、能耗较少，作业更轻松自如。"
+  },
+  {
+   "cn": "儿童起居调摄",
+   "en": "living adjustment for child",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.8.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "通过科学合理的生活方式来达到促进健康、治疗疾病目的的一种中医调养方法。具体包括合理安排儿童起居作息，做到起居有常、劳逸适度。"
+  },
+  {
+   "cn": "质量调整寿命天",
+   "en": "quality adjusted life day",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.13",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一种健康状况和寿命质量的正向综合测量指标，即将一个人的实际生存年数换算成相当于完全健康的人生存的天数。一个质量调整寿命天反映一个健康生存天。"
+  },
+  {
+   "cn": "质量调整寿命年",
+   "en": "quality adjusted life year",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一种健康状况和寿命质量的正向综合测量指标，即将一个人的实际生存年数换算成相当于完全健康的人生存的年数。一个质量调整寿命年反映一个健康生存年，完全健康为1，死亡为0。"
+  },
+  {
+   "cn": "健康调整期望寿命",
+   "en": "healthy adjusted life expectancy",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.10",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "有良好健康状态的生命年以及个体可在比较舒适的状态下生活的平均预期年数。"
+  },
+  {
+   "cn": "健康调整寿命年",
+   "en": "healthy adjusted life year",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.8",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "用生存质量来调整生存年数而得到的与健康人等同状态的生存年数。"
+  },
+  {
+   "cn": "伤残调整寿命年",
+   "en": "disability adjusted life year",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "从发病到死亡所损失的全部健康寿命年，包括因早死所致的寿命损失年和疾病所致伤残引起的健康寿命损失年。"
+  },
+  {
+   "cn": "动态显色法",
+   "en": "dynamic chromogenic assay",
+   "source": "消毒学",
+   "wordNumber": "6.2.31.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "利用鲎试剂与内毒素反应过程中产生的凝固酶使特定底物显色释放出的呈色团而测定内毒素含量的方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

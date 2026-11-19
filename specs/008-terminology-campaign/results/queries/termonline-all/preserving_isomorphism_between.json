@@ -1,0 +1,772 @@
+{
+ "key": "preserving isomorphism between",
+ "term": "preserving isomorphism between",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:36:47+00:00",
+ "status": "ok",
+ "note": "variant=preserving isomorphism between; 审定公布名词库=576; 海峡两岸名词对照库=72; 其他来源数据库=35; 预公布名词数据库=48; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "类质同象",
+   "en": "isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.179",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "晶体结构中某些质点(离子、原子或分子)被其他类似的质点代替，仅使晶格常数发生不大的变化，而结构形式并不改变的现象。影响元素位置置换能力的因素包括离子类型及键能、离子或原子半径、原子价数、置换的能量效应"
+  },
+  {
+   "cn": "同[晶]形性",
+   "en": "isomorphism",
+   "source": "物理学名词",
+   "wordNumber": "08.0762",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同构",
+   "en": "isomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0501",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "两个数学对象之间双向唯一且保持对象结构不变的映射。"
+  },
+  {
+   "cn": "类质同晶型",
+   "en": "isomorphism",
+   "source": "化学名词",
+   "wordNumber": "04.1893",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "晶体中的原子、离子被相似性质的原子、离子彻底取代或部分取代后，其组分原子、键型和物理化学性质皆相似，晶体结构型式相同(晶胞参数仅微小变动)的现象。"
+  },
+  {
+   "cn": "同晶型",
+   "en": "isomorphism",
+   "source": "药学名词",
+   "wordNumber": "03.271",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "化学组成类似的不同物质形成结构相同或很相近似的晶体的现象。"
+  },
+  {
+   "cn": "同构",
+   "en": "isomorphism",
+   "source": "数学名词",
+   "wordNumber": "01.0118",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同形体",
+   "en": "isomorph",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0132",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "形态学上类似并且有相同形状和结构的物体、物质或机体。"
+  },
+  {
+   "cn": "保鲜剂",
+   "en": "preservative",
+   "source": "风景园林名词",
+   "wordNumber": "09.0281",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物繁殖生产与栽培养护",
+   "subjectName": "风景园林植物繁殖生产与栽培养护",
+   "publishYear": "2025",
+   "definition": "为保持园林植物采后的观赏品质、减少流通损失或者延长贮藏时间和观赏时间所使用的化学药剂。"
+  },
+  {
+   "cn": "保鲜剂",
+   "en": "preservative",
+   "source": "农学名词",
+   "wordNumber": "17.037",
+   "subjectFullName": "农产品贮运与加工_农产品贮运",
+   "subjectName": "农产品贮运",
+   "publishYear": "2025",
+   "definition": "能够延长农产品贮藏期及货架期的物质。"
+  },
+  {
+   "cn": "保存",
+   "en": "preservation ",
+   "source": "草学名词",
+   "wordNumber": "4.066",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "修缮",
+   "en": "preservation",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.082",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "对文物古迹的保护方式。包括日常保养、防护加固、现状修整、重点修复等。"
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "微生物学名词",
+   "wordNumber": "08.295",
+   "subjectFullName": "微生物学_应用微生物学",
+   "subjectName": "应用微生物学",
+   "publishYear": "2012",
+   "definition": "抑制微生物生长繁殖，防止食品腐败变质的化合物。"
+  },
+  {
+   "cn": "保护",
+   "en": "preservation",
+   "source": "地理学名词",
+   "wordNumber": "24.114",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "对具有特殊价值(如历史价值、文化价值等)的人文景观或其遗迹的保护，特别是对建筑环境的保护。"
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "水产名词",
+   "wordNumber": "08.146",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "抑制微生物生长繁殖，防止食品腐败变质的添加剂。"
+  },
+  {
+   "cn": "类质同象",
+   "en": "isomorphism,allomerism",
+   "source": "地质学名词",
+   "wordNumber": "04.049",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "等价类质同象",
+   "en": "equivalent isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.182",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在类质同象混晶中，相互替代的离子的电价相等。"
+  },
+  {
+   "cn": "异价类质同象",
+   "en": "heterovalent isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.183",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在类质同象混晶中，由电价不等的离子(原子)进行置换所形成的类质同象。由于异价替代将引起电荷不平衡，必须采用成对替代以保持电价平衡，这种替代方式又称耦合替代。"
+  },
+  {
+   "cn": "极性类质同象",
+   "en": "polarity isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.184",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在形成类质同象混晶时，元素间的置换具有一定方向性而极少成反方向置换关系的现象。"
+  },
+  {
+   "cn": "补偿类质同象",
+   "en": "compensation isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.185",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "当形成类质同象混晶时，介质中形成某晶体的某种元素浓度不足时,由介质中性质近似的其他元素以类质同象置换方式进入晶格进行补偿的现象。"
+  },
+  {
+   "cn": "图同构",
+   "en": "graph isomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0775",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "给定两个图<img src='/root/syzx/static/spz/jsjkx3.02.0775.001.png'/>，若它们的顶点集合<img src='/root/syzx/static/s"
+  },
+  {
+   "cn": "类质同象",
+   "en": "isomorphism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "同晶型",
+   "en": "isomorphism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同形体",
+   "en": "isomorph",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保护",
+   "en": "preservation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保存",
+   "en": "preservation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "图同构",
+   "en": "graph isomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网同构",
+   "en": "net isomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同构问题",
+   "en": "isomorphic problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "维持关税",
+   "en": "preserving duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "木材防腐剂",
+   "en": "wood preservative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "木材防腐",
+   "en": "wood preservation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "辐射保藏",
+   "en": "radiation preservation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "冷冻保存",
+   "en": "freeze preservation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自然保持",
+   "en": "natural preservation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "依赖保持",
+   "en": "dependence preservation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图的非同构",
+   "en": "graph non-isomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "介数中心度",
+   "en": "betweenness centrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证证据保全技术",
+   "en": "technology for preserving notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "杀身成仁",
+   "en": "Sacrifice Life to Preserve Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "局间休息",
+   "en": "interval between sets",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "边介数指数",
+   "en": "edge betweenness index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天人之分",
+   "en": "Distinction Between Man and Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "君子之交",
+   "en": "Relations Between Men of Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "衔华佩实",
+   "en": "Harmony Between Substance and Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际金融监管协调",
+   "en": "cooperation between international financial regulators",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际性金融监管组织合作",
+   "en": "international cooperation between financial regulators",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群己界分",
+   "en": "distinction between authority and individuality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人与自然和谐共生",
+   "en": "harmony between man and nature",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保护、传承、弘扬黄河文化",
+   "en": "to preserve, inherit and promote the Yellow River culture",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加强国家间政策协调",
+   "en": "to enhance policy coordination between countries",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "神与物游",
+   "en": "Interaction Between the Mind and the Subject Matter",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大乐与天地同和",
+   "en": "Grand Music Reflects Harmony Between Heaven and Earth.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "能防止或减缓由微生物引起的食品腐败变质、延长食品储存期的物质。"
+  },
+  {
+   "cn": "同形反应",
+   "en": "isomorphic response",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.2.15",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "原本外观正常的皮肤在创伤、搔抓、针刺或手术等刺激后发生银屑病皮损的现象。主要见于银屑病，特别是病情活动期或急性加重期。"
+  },
+  {
+   "cn": "辐照保鲜",
+   "en": "irradiation preservation",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.4",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "利用γ射线、X射线、电子射线的辐射对食品进行辐照处理，经辐照可达到杀菌、杀虫、抑制蔬菜发芽、延迟果实后熟等目的，从而达到延长果蔬保鲜期的一种方法。"
+  },
+  {
+   "cn": "保温",
+   "en": "heat preservation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.10",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "新生儿生后即用预热的毛巾擦干，并采取各种保暖措施，使婴儿处于中性温度中。"
+  },
+  {
+   "cn": "皮蛋",
+   "en": "preserved egg",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.8",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "以鲜蛋为原料，经用氢氧化钠（烧碱）、食盐、茶叶（添加或不添加）、水等辅料和食品添加剂（含食品加工助剂硫酸铜等）配成的料液或料泥腌制、包装等工艺制成的产品。"
+  },
+  {
+   "cn": "果脯",
+   "en": "preserved fruit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.8",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "以果蔬等为主要原料，添加（或不添加）食品添加剂和其他辅料，经糖或蜂蜜或盐腌制（或不腌制）等工艺制成的食品。"
+  },
+  {
+   "cn": "酸性防腐剂",
+   "en": "acidic preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "一类在酸性条件下发挥防腐作用的食品添加剂。"
+  },
+  {
+   "cn": "天然防腐剂",
+   "en": "natural preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由生物体分泌或体内存在的具有抑菌作用的物质，其经人工提取或加工而成的食品防腐剂。"
+  },
+  {
+   "cn": "糟蛋",
+   "en": "egg preserved in rice wine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.11",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "用优质鲜蛋在糯米酒糟中糟制而成的一类再制蛋。"
+  },
+  {
+   "cn": "战时水样保存",
+   "en": "preservation of water sample in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.1.6.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时饮水卫生",
+   "subjectName": "战时饮水卫生",
+   "publishYear": "2025",
+   "definition": "军队在战争或平时野外军事作业、非战争军事行动时，通过化学、物理等手段提高水样稳定性的工作。"
+  },
+  {
+   "cn": "代际关系",
+   "en": "relation between generations",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "不同代际人群通过资源的分配与共享、感情的交流与沟通以及道德义务的意识与承担等发生这样或那样的交往关系。广义指社会上因地缘、业缘和其他关系产生的不同代际之间的交往关系。狭义的指家庭内因血缘和姻缘产生的交"
+  },
+  {
+   "cn": "课间休息",
+   "en": "recess between classes",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "学校的教学安排中，两节课之间的间隔时间。是供学生放松、休息的时间。"
+  },
+  {
+   "cn": "医际关系",
+   "en": "relationship between medical staff",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.1",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医疗机构从业人员之间基于职业活动建立的人际关系，其核心是团队合作和相互尊重。"
+  },
+  {
+   "cn": "社区名誉保护原则",
+   "en": "principle of preserving the reputation of the community",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.043",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在疫情防控过程中，为避免将种族、地域等社区特征与传染性疾病相联系，造成对某些社区及其人群的歧视而制定的避免社区名誉受到不正当损害的行为准则。"
+  },
+  {
+   "cn": "城乡对立",
+   "en": "antagonism between town and country",
+   "source": "马克思主义",
+   "wordNumber": "03.0046",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类阶级社会因为分工引起城乡的分离而造成城乡之间利益的对立和冲突。一个民族内部的分工，首先引起工商业同农业的分离，从而也引起城乡的分离和城乡利益的对立。"
+  },
+  {
+   "cn": "人与自然和谐相处",
+   "en": "harmony between man and nature",
+   "source": "马克思主义",
+   "wordNumber": "04.0208",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "生产发展，生活富裕，生态良好。"
+  },
+  {
+   "cn": "科学与伪科学的划界",
+   "en": "demarcation between science and pseudoscience",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.147",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "区分科学与伪科学的一套标准。逻辑实证主义认为是可证实性，证伪主义认为是可证伪性。"
+  },
+  {
+   "cn": "黑板下沿与讲台面的距离",
+   "en": "distance between blackboard and podium",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "黑板下缘与讲台面的垂直距离。"
+  },
+  {
+   "cn": "桌椅距离",
+   "en": "distance between chair and desk",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.4.2.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_课桌椅卫生",
+   "subjectName": "课桌椅卫生",
+   "publishYear": "2025",
+   "definition": "课桌与课椅间的水平距离。"
+  },
+  {
+   "cn": "医际协作关系",
+   "en": "collaboration relationship between medical staff",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.101",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医护人员为共同维护患者利益和社会公益共同参与、密切合作、协调配合的关系。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

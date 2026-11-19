@@ -1,0 +1,742 @@
+{
+ "key": "emulation",
+ "term": "emulation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:52:28+00:00",
+ "status": "ok",
+ "note": "variant=emulation; 审定公布名词库=2853; 海峡两岸名词对照库=719; 其他来源数据库=122; 预公布名词数据库=240; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "仿真",
+   "en": "emulation",
+   "source": "档案学名词",
+   "wordNumber": "06.02.006",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "模仿电子档案产生时的软硬件环境，使电子档案能够以原始面貌（初始格式、版面与内容等）显示，功能性也能得到保护的技术。仿真有助于保护、辨认那些极大依赖特殊硬件与软件而又无法在新、旧技术平台间进行迁移的电子"
+  },
+  {
+   "cn": "仿真",
+   "en": "emulation",
+   "source": "物理学名词",
+   "wordNumber": "01.0303",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "仿真器",
+   "en": "emulator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0550",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种设备、计算机程序或系统。它接受与给定的被仿真系统同样的输入并产生同样的输出。"
+  },
+  {
+   "cn": "计算机仿真",
+   "en": "computer emulation ",
+   "source": "草学名词",
+   "wordNumber": "3.0453",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "计算机仿真",
+   "en": "computer emulation",
+   "source": "资源科学技术名词",
+   "wordNumber": "06.144",
+   "subjectFullName": "资源科学技术_资源信息学",
+   "subjectName": "资源信息学",
+   "publishYear": "2008",
+   "definition": "借助高速、大存储量数字计算机及相关技术，对复杂真实系统的运行过程或状态进行数字化模拟的技术。"
+  },
+  {
+   "cn": "硬件仿真器",
+   "en": "hardware emulator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0125",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机集成电路",
+   "subjectName": "计算机集成电路",
+   "publishYear": "2018",
+   "definition": "一种基于高速处理器或现场可编程门阵列（FPGA）的仿真装置。可仿真以寄存器传输级（RTL）描述的芯片的功能和时序，并插入到系统中以代替开发中的芯片，帮助芯片和系统的调试和验证。"
+  },
+  {
+   "cn": "局域网仿真",
+   "en": "LAN emulation,LANE",
+   "source": "通信科学技术名词",
+   "wordNumber": "02.120",
+   "subjectFullName": "通信科学技术_通信网络",
+   "subjectName": "通信网络",
+   "publishYear": "2007",
+   "definition": "在异步转移模式网(ATM network)上运行现有局域网协议，使现有局域网(LAN)的终端不需要做任何改动即可使用异步转移模式网络的方法。"
+  },
+  {
+   "cn": "无线信道模拟器",
+   "en": "RF channel emulator",
+   "source": "计量学名词",
+   "wordNumber": "11.413",
+   "subjectFullName": "计量学_无线电_通信参量",
+   "subjectName": "通信参量",
+   "publishYear": "2015",
+   "definition": "模拟无线传播信道的特性如多径衰减、路径损耗、对数正态阴影衰落等的仪器。"
+  },
+  {
+   "cn": "聚丙烯酸酯乳液",
+   "en": "polyacrylate emul-sion",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0418",
+   "subjectFullName": "化工（七）_合成树脂_丙烯酸树脂和聚甲基丙烯酸甲酯",
+   "subjectName": "丙烯酸树脂和聚甲基丙烯酸甲酯",
+   "publishYear": "2022",
+   "definition": "丙烯酸酯类单体通过乳液法聚合或共聚合制备的乳液。固含量为40%～50%。可做成膜剂和黏合剂使用。"
+  },
+  {
+   "cn": "仿真局域网",
+   "en": "emulated LAN,ELAN",
+   "source": "通信科学技术名词",
+   "wordNumber": "02.121",
+   "subjectFullName": "通信科学技术_通信网络",
+   "subjectName": "通信网络",
+   "publishYear": "2007",
+   "definition": "使用局域网仿真(LANE)协议机制由一个异步转移模式网络仿真而成的局域网(LAN)。"
+  },
+  {
+   "cn": "电路仿真业务",
+   "en": "circuit emulation service,CES",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.092",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "允许用户将多个话音和视频电路仿真流与分组数据复用在一个高速异步转移模式(ATM)链路上传输的业务。"
+  },
+  {
+   "cn": "噪声和干扰模拟器",
+   "en": "noise and interference emulator",
+   "source": "计量学名词",
+   "wordNumber": "11.414",
+   "subjectFullName": "计量学_无线电_通信参量",
+   "subjectName": "通信参量",
+   "publishYear": "2015",
+   "definition": "用于模拟在宽带通信系统中存在的共信道和邻信道干扰和噪声的仪器。"
+  },
+  {
+   "cn": "渗出",
+   "en": "exudation",
+   "source": "整形外科名词",
+   "wordNumber": "2.053",
+   "subjectFullName": "整形外科_创伤修复_创面愈合",
+   "subjectName": "创面愈合",
+   "publishYear": "2026",
+   "definition": "炎症局部组织血管内的液体和细胞成分，通过血管壁进入组织间隙、体腔、黏膜表面和体表的过程。"
+  },
+  {
+   "cn": "排卵",
+   "en": "ovulation",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.138",
+   "subjectFullName": "性腺疾病_女性内分泌及相关疾病_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "成熟卵泡中的卵子从卵巢表面排至腹腔的过程。"
+  },
+  {
+   "cn": "排卵",
+   "en": "ovulation",
+   "source": "妇产科学名词",
+   "wordNumber": "9.004",
+   "subjectFullName": "妊娠生理_生殖细胞、受精及胚胎早期发生",
+   "subjectName": "生殖细胞、受精及胚胎早期发生",
+   "publishYear": "2025",
+   "definition": "处于第二次成熟分裂中期的次级卵母细胞从卵巢表面排至腹膜腔的过程。"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.020",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "在模型上做实验，以寻求原型中过程的规律性。模型如果是物理实体，则称为物理模拟；模型如果是数学模型，且模拟是用计算机进行的，则称为数学模拟或数值模拟。"
+  },
+  {
+   "cn": "仿真",
+   "en": "simulation",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.007",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "利用模型复现实际系统中发生的本质过程，并通过对系统模型的实验，研究存在的或设计中的系统。"
+  },
+  {
+   "cn": "排卵",
+   "en": "ovulation",
+   "source": "兽医学名词",
+   "wordNumber": "04.634",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "卵巢内卵子从成熟卵泡中排出的过程。"
+  },
+  {
+   "cn": "渗出",
+   "en": "exudation",
+   "source": "兽医学名词",
+   "wordNumber": "10.242",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "炎症时血液中的液体和细胞成分通过血管壁进入炎区组织的过程。"
+  },
+  {
+   "cn": "拟真",
+   "en": "simulation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.115",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "象征符号的高度抽象阶段。它不是对本真事物的模仿，也不是工业上的复制生产，而是从符号的编码中复制出来的存在，缺乏现实参考。这一概念由法国哲学家让·鲍德里亚提出。"
+  },
+  {
+   "cn": "仿真器，仿真程序",
+   "en": "emulator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模拟，类比",
+   "en": "simulation\",\"emulation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "仿真",
+   "en": "simulation\",\"emulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "仿真终端",
+   "en": "emulation terminal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排卵",
+   "en": "ovulation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "溢泌",
+   "en": "exudation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渗出",
+   "en": "exudation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "排卵",
+   "en": "ovulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "射气",
+   "en": "emanation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模拟,仿真",
+   "en": "simulation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "排卵",
+   "en": "ovulation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "排卵",
+   "en": "ovulation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "排卵",
+   "en": "ovulation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "芽球生殖",
+   "en": "gemmulation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "乐教",
+   "en": "Music Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链监管",
+   "en": "Blockchain Regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子模拟",
+   "en": "quantum simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字仿真",
+   "en": "digital simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随机模拟",
+   "en": "stochastic simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技监管",
+   "en": "Fintech Regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟仿真技术",
+   "en": "simulation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用监管",
+   "en": "credit regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网教育",
+   "en": "Internet education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程教育",
+   "en": "distance education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛在教育",
+   "en": "ubiquitous education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法规制",
+   "en": "algorithm regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "一种运用计算机技术，依据理论模型模仿系统的运作方式，以获取科学知识或建构虚拟世界的方法。"
+  },
+  {
+   "cn": "规章",
+   "en": "regulation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.18",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "各级领导机关及其职能部门、社会团体、企事业单位，为实施管理，规范工作、活动和有关人员行为，在其职权范围内制定并发布实施的、具有行政约束力和道德行为准则的规范性文书的总称。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "马克思主义",
+   "wordNumber": "04.0065",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "教育基本上是一种给人以知识和方法的实践活动。马克思主义教育必须确保人的全面发展。马克思从现代生产和社会经济发展的客观规律中揭示出教育与生产劳动相结合的必然性及其实现的途径。教育与物质生产相结合，就是把"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0136",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，人类实现再生产的手段。它产生于人类社会初始阶段，存在于人类社会生活的各种活动过程中，并随着人类社会的发展而发展。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，旨在传递知识、技能与价值观，是人类实现社会再生产的重要手段。"
+  },
+  {
+   "cn": "学校体育工作条例",
+   "en": "regulation on school physical education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "学校体育工作的基本法则，指导学校体育工作的重要依据，是全面加强学校体育工作的有力措施。"
+  },
+  {
+   "cn": "掩盖",
+   "en": "concealment, simulation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.34",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在加工过程中通过添加化学物质或其他手段，使原本含有的有害成分被隐蔽或降低的食品欺诈行为。"
+  },
+  {
+   "cn": "脂肪析出",
+   "en": "fat exudation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.2",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "罐头在加工、贮存或运输过程中，内容物中的脂肪分离并在表面聚集形成可见脂肪层的现象。"
+  },
+  {
+   "cn": "产品监管",
+   "en": "product regulation",
+   "source": "消毒学",
+   "wordNumber": "5.2",
+   "subjectFullName": "消毒学_监督管理",
+   "subjectName": "监督管理",
+   "publishYear": "2025",
+   "definition": "行政机关依据相关法律法规和标准对消毒产品开展监督和管理的行政执法行为。"
+  },
+  {
+   "cn": "仿真体模",
+   "en": "simulation phantom",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.6",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "由人体组织等效（对电离辐射的吸收和/或散射作用与人体组织基本相同）材料构成的物体，既可代表整个人体，也可代表特定的人体局部。在各种辐射测量中，仿真体模可用于模拟人体实际情况。"
+  },
+  {
+   "cn": "地方性法规",
+   "en": "local regulation",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规",
+   "subjectName": "放射卫生法规",
+   "publishYear": "2025",
+   "definition": "法定的地方国家权力机关依照法定的权限，在不与宪法、法律和行政法规相抵触的前提下，制定和颁布的在本行政区域范围内实施的管理规定。"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "关于性知识、性道德和性行为等方面的教育，一般应在青少年中实施，但不限于这一年龄段。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  },
+  {
+   "cn": "家庭教育",
+   "en": "family education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.2",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "家庭中由家长对其子女实施的教育，具有终身教育的特点。家庭教育既是学校教育的基础，又是学校教育的补充和延伸。"
+  },
+  {
+   "cn": "道德教育",
+   "en": "moral education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.3",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "对受教育者有目的地施以道德影响的教育活动，强调责任、义务的履行和对至善道德、完美人性的追求。"
+  },
+  {
+   "cn": "自由教育",
+   "en": "liberal education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "西方教育史上的一种教育理想，因不同时代涵义有所不同。希腊时期为培养自由民的教育，中世纪时期指通过自由七艺的培养皈依基督的神性，现代自由教育则强调人格的全面发展。"
+  },
+  {
+   "cn": "通识教育",
+   "en": "general education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养学生对不同学科有所认识，对不同知识融会贯通的非专业性高等教育。"
+  },
+  {
+   "cn": "人文教育",
+   "en": "humanistic education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.2",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在通过涵养文化素质塑造健全人格的人性化教育。"
+  },
+  {
+   "cn": "公民教育",
+   "en": "civil education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "培育公民参与国家和社会公共生活、维护公民权利和履行公民义务的各种教育手段。"
+  },
+  {
+   "cn": "公共教育",
+   "en": "public education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "由国家、团体或个人向社会单独或混合提供，为全社会成员分享并服务于全社会的教育形式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

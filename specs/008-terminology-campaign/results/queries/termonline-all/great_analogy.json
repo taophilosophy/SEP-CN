@@ -1,0 +1,702 @@
+{
+ "key": "great analogy",
+ "term": "great analogy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:04:48+00:00",
+ "status": "ok",
+ "note": "variant=great analogy; 审定公布名词库=459; 海峡两岸名词对照库=186; 其他来源数据库=62; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.121",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "根据对象之间的某些相同或相似的性质，推断它们在其他性质上可能存在相同或相似的一种推理形式。类比是一种主观的不充分的似真推理。"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "动物学名词",
+   "wordNumber": "2.0266",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "不同生物类群的器官虽来源和结构不同，但功能相似的现象。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "物理学名词",
+   "wordNumber": "01.0128",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "植物学名词",
+   "wordNumber": "02.0207",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "不同生物类群的器官虽来源和结构不同，但功能相似的现象。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0020",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "动量、质量传递与简单的热量传递——导热有相同的分子动力学机理和相似的数学表达式，这种关系称为类比。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "心理学名词",
+   "wordNumber": "02.627",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据两种事物之间性质的异同，用一种特定事物的性质来说明另一种特定事物，即借助前者理解后者的认知过程。"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "古生物学名词",
+   "wordNumber": "01.0066",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "不同类群生物的器官虽来源和结构不同，却功能相似的现象。如蝙蝠和蝴蝶的翅膀。"
+  },
+  {
+   "cn": "同功器官",
+   "en": "analogy",
+   "source": "生态学名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "功能相同，外表类似，但来源上不相同，结构不相同的器官。同功器官不说明在进化上有共同来源，只是具有相似的功能。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "化学工程名词",
+   "wordNumber": "03.021",
+   "subjectFullName": "化学工程_传递过程与单元操作_传递过程与单元操作基本概念",
+   "subjectName": "传递过程与单元操作基本概念",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "类似物",
+   "en": "analog",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "具有母体化合物核心结构特征的化合物。如核苷类似物、肽类似物等。"
+  },
+  {
+   "cn": "模拟",
+   "en": "analog",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.002",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "某种范畴的表达方式，如实地反映另一种范畴。"
+  },
+  {
+   "cn": "[结构]类似物",
+   "en": "analog",
+   "source": "药学名词",
+   "wordNumber": "03.267",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "与现有药物分子在化学结构上具有相似性的化合物。"
+  },
+  {
+   "cn": "类似物",
+   "en": "analog,analogue",
+   "source": "化学名词",
+   "wordNumber": "02.0003",
+   "subjectFullName": "化学_有机化学_有机化合物_有机化合物及其类名",
+   "subjectName": "有机化合物及其类名",
+   "publishYear": "2016",
+   "definition": "(1)狭义的，保留母体化合物的基本结构，以类似原子或基团代替母体化合物结构中的碳原子或其他原子而生成的新化合物。例如核苷类似物、肽类似物等。(2)广义的，具有母体化合物核心结构特征的化合物。"
+  },
+  {
+   "cn": "比拟法",
+   "en": "analogy method",
+   "source": "地质学名词",
+   "wordNumber": "15.03.007",
+   "subjectFullName": "地质学_地热地质学_地热资源勘查与利用",
+   "subjectName": "地热资源勘查与利用",
+   "publishYear": "2026",
+   "definition": "利用已知地热田的地热资源储量，类比推算地热地质条件相似的地热田的地热资源储量，或用同一地热田内地热资源储量的已知部分来推算其他部分的地热资源储量的方法。"
+  },
+  {
+   "cn": "气候相似原理",
+   "en": "climatic analogy ",
+   "source": "草学名词",
+   "wordNumber": "3.0497",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "等瓣相似",
+   "en": "isolobal analogy",
+   "source": "化学名词",
+   "wordNumber": "02.1505",
+   "subjectFullName": "化学_有机化学_金属有机化学",
+   "subjectName": "金属有机化学",
+   "publishYear": "2016",
+   "definition": "两个或多个分子碎片之间在前线轨道数目、对称性、能量、形状及所含电子数上的相似性。如<img src='/root/syzx/static/spz/huaxue2.02.0800.2.png'/>与<i"
+  },
+  {
+   "cn": "水力模拟",
+   "en": "hydraulic analogy",
+   "source": "建筑学名词",
+   "wordNumber": "10.0442",
+   "subjectFullName": "建筑学_建筑物理_建筑气候学",
+   "subjectName": "建筑气候学",
+   "publishYear": "2014",
+   "definition": "用水力学中的阻力相当于热阻，水压差相当于温度差，蓄水量相当于热容量的方法来模拟传热的实验方法。"
+  },
+  {
+   "cn": "类似色",
+   "en": "analogy color",
+   "source": "建筑学名词",
+   "wordNumber": "09.0462",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "色环中90°范围内相邻接色的统称。如红、橘红、黄。某色与其复色也为类似色，如黄、黄绿。"
+  },
+  {
+   "cn": "农业气候相似",
+   "en": "agroclimatic analogy",
+   "source": "大气科学名词",
+   "wordNumber": "08.117",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "不同地区间农业气候条件的相似程度。"
+  },
+  {
+   "cn": "气候相似原理",
+   "en": "climatic analogy",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.033",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "将植物从一个地区移植到另一地区，需严格按照地区的气候条件相似性来进行的原理。它是德国学者迈尔为使农业充分利用气候资源而创立的学说。"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analog",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类似物",
+   "en": "analog",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "[结构]类似物",
+   "en": "analog",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "模拟测图仪",
+   "en": "analog plotter\",\"analog bridging",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation\",\"analogy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "农业气候相似",
+   "en": "agroclimatic analogy",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "电类比",
+   "en": "electric analogy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "类比系统",
+   "en": "analogy system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "类比理论",
+   "en": "analogy theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等瓣相似",
+   "en": "isolobal analogy",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "类比法",
+   "en": "constructed analogs",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候类比",
+   "en": "climate analogs",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类比模式",
+   "en": "analog model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算机",
+   "en": "analog computer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算",
+   "en": "analog computation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算机",
+   "en": "analog computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟电路",
+   "en": "analog circuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟信号",
+   "en": "analog signal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非数字配套机制",
+   "en": "analog complement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大丈夫",
+   "en": "Great Man",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大一统",
+   "en": "Great Unity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "殷忧启圣",
+   "en": "Great Hardship Fosters Great Wisdom.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类比学习",
+   "en": "learning by analogy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "太虚",
+   "en": "Taixu (Great Void)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四个伟大",
+   "en": "great struggle great project great cause and great dream",
+   "source": "马克思主义",
+   "wordNumber": "03.0804",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平于2017年10月18日在十九大报告中提出的治国理政方针理论。伟大斗争，伟大工程，伟大事业，伟大梦想，紧密联系、相互贯通、相互作用，其中起决定性作用的是党的建设新的伟大工程。"
+  },
+  {
+   "cn": "大同",
+   "en": "great harmony",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "上古三代之时天下为公的状态。后被发挥成一种人类未来的人人平等互助、没有差异和战争的理想世界。语出《礼记·礼运》。"
+  },
+  {
+   "cn": "大传统",
+   "en": "great tradition",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "一个社会中占优势的文化模式，尤其是指带有强烈而正统的历史意识的都市生活方式或复合式生活方式。由美国人类学家雷德菲尔德(R.Redfield）首先创用。与“小传统”相对。"
+  },
+  {
+   "cn": "大医",
+   "en": "great doctor",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.0169999999999995",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "具有慈悲恻隐之心、同情患者，对患者一视同仁，刻苦钻研、知识广博，具备高超医疗技术的医生。出自孙思邈的《千金要方》中关于“大医精诚”和“大医习业”等论述。"
+  },
+  {
+   "cn": "四个伟大飞跃",
+   "en": "Four great leaps",
+   "source": "马克思主义",
+   "wordNumber": "03.0816",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九届六中全会决议指出，中共百年历程实现了四个“伟大飞跃”，即：新民主主义革命时期，实现了中国从几千年封建专制政治向人民民主的伟大飞跃；社会主义革命和建设时期，实现了一穷二白、人口众多的东方大国大"
+  },
+  {
+   "cn": "伟大卫国战争",
+   "en": "Great Patriotic War",
+   "source": "马克思主义",
+   "wordNumber": "04.0244",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联人民为了保卫祖国而进行的反击德国法西斯及其帮凶的正义战争。1942年6月22日晨，德国法西斯撕毁苏德互不侵犯条约，纠集190个师的优势兵力，以“闪电战”的方式向苏联发动进攻。苏联人民在以斯大林为首"
+  },
+  {
+   "cn": "大跃进",
+   "en": "Great Leap Forward",
+   "source": "马克思主义",
+   "wordNumber": "04.0264",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1958年5月党的八大二次会议后，全国各条战线掀起的以片面追求工农业生产和建设的高速度、不断大幅度提高和修改计划指标为标志的经济运动。反映了中国人民建设社会主义的高昂热情，取得了一些重要成就，由于违背"
+  },
+  {
+   "cn": "文化大革命",
+   "en": "Great Cultural Revolution",
+   "source": "马克思主义",
+   "wordNumber": "04.0267",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全称“无产阶级文化大革命”；简称“文革”。1966年5月至1976年10月在中国由毛泽东发动和领导的政治运动。1966年５月中央政治局扩大会议和同年8月八届十一中全会的召开是“文化大革命”全面发动的标"
+  },
+  {
+   "cn": "大俄罗斯沙文主义",
+   "en": "great Russian chauvinism",
+   "source": "马克思主义",
+   "wordNumber": "04.0355",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄罗斯民族高人一等，可以支配或掠夺其他民族的思想行为。是沙俄政府推行的压迫各非俄罗斯民族的政策。专制、正教、民族以及帝国的统一和不可分割等基本原则，是大俄罗斯沙文主义的主要内容。俄国十月革命胜利后，大"
+  },
+  {
+   "cn": "大转型理论",
+   "en": "theory of great transformation",
+   "source": "社会学名词",
+   "wordNumber": "2.9.4.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_其他发展理论",
+   "subjectName": "其他发展理论",
+   "publishYear": "2025",
+   "definition": "卡尔·波兰尼（Karl Polanyi）提出的一种用来描述和解释现代社会转型的理论。这种理论将人类社会从以“再分配”为特征的前市场社会向市场社会的转变描述为现代社会转型的核心内容，并认为，在19世纪资"
+  },
+  {
+   "cn": "西部大开发战略",
+   "en": "Great Western Development Strategy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0085",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "改革开放新时期提出的旨在促进东西部地区协调发展、最终实现共同富裕的战略部署，涉及12 个省、自治区、直辖市和三个单列地级行政区。自1999 年中共十五届四中全会和中央经济工作会议正式提出以来，不断发展"
+  },
+  {
+   "cn": "大传统与小传统",
+   "en": "great tradition and small tradition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0553",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家雷德菲尔德（Robert Redfield）提出的一种二元分析框架，用来说明在复杂社会中存在的两个不同文化层次的传统。大传统是指以城市为中心，社会中少数上层人士、知识分子所代表的文化；小传"
+  },
+  {
+   "cn": "英国共产党",
+   "en": "Communist Party of Great Britain",
+   "source": "马克思主义",
+   "wordNumber": "05.0323",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "成立于1920年，40年代初期党员数一度达到5.5万，1945年大选中曾有两名党员进入下议院。二战后逐步衰落，并发生了三次大分裂。1968年4月，部分党员脱党成立英国共产党（马列）。1977年6月，部"
+  },
+  {
+   "cn": "《大元大一统志》",
+   "en": "Universal Geography of Great Yuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.028",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "元朝官修地理总志。由札马剌丁、虞应龙等编纂，自1285 年起，历时9 年完成初稿；后因新得《云南图志》《甘肃图志》《辽阳图志》，继续重修，1303 年正式告成。凡六百册，一干三百卷。"
+  },
+  {
+   "cn": "党的建设新的伟大工程",
+   "en": "great new undertaking of party building",
+   "source": "马克思主义",
+   "wordNumber": "03.0624",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十四届四中全会提出的重要概念，指中国共产党为领导人民完成把中国由不发达的社会主义国家建设成为富强民主文明和谐的社会主义现代化国家的新的伟大革命而进行的党的建设的伟大实践。它高度概括了执政、改革开放"
+  },
+  {
+   "cn": "中华民族伟大复兴",
+   "en": "great rejuvenation of the Chinese Nation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0119",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中国国家建设的动员口号和政治目标，本质是实现国家富强、民族振兴和人民幸福，是近代以来中国人民强国梦想的集中体现。"
+  },
+  {
+   "cn": "社会主义文化大发展大繁荣",
+   "en": "great development and enrichment of socialist culture",
+   "source": "马克思主义",
+   "wordNumber": "03.0705",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持社会主义先进文化前进方向，兴起社会主义文化建设新高潮，激发全民族文化创造活力，提高国家文化软实力，使人民基本文化权益得到更好保障，使社会文化生活更加丰富多彩，使人民精神风貌更加昂扬向上。"
+  },
+  {
+   "cn": "调动一切积极因素建设社会主义伟大国家",
+   "en": "mobilize all positive factors to build a great socialist country",
+   "source": "马克思主义",
+   "wordNumber": "03.0392",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1956年毛泽东在《论十大关系》报告中提出的中国共产党在整个社会主义建设时期的根本任务和基本方针，强调把党内党外、国内国外的一切积极因素，直接的、间接的积极因素，全部调动起来，为社会主义建设事业服务。"
+  },
+  {
+   "cn": "中国共产党百年奋斗的四个伟大成就",
+   "en": "Four Great Achievements of the Centennial Struggle of the CPC",
+   "source": "马克思主义",
+   "wordNumber": "03.0815",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十九届六中全会决议提出，中国共产党百年奋斗的“四个伟大成就”，即：报党领导人民浴血奋战、百折不挠，创造了新民主主义革命的伟大成就；党领导人民自力更生、发愤图强，创造了社会主义革命和建设的伟大成就；"
+  },
+  {
+   "cn": "达标治疗",
+   "en": "treat-to-target，T2T",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.15",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "一种治疗理念，最终目的是对疾病进行长程管理、降低并发症、改善自然病程。应用于类风湿关节炎、系统性红斑狼疮、痛风等疾病的治疗策略中，包括设定严格的治疗目标，密切监测及调整治疗方案以实现治疗目标。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

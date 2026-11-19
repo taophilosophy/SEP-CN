@@ -1,0 +1,72 @@
+{
+ "key": "gottinger akademische wochenschau",
+ "term": "Göttinger Akademische Wochenschau",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:31:59+00:00",
+ "status": "ok",
+ "note": "variant=Göttinger Akademische Wochenschau; 审定公布名词库=6; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "拉廷格模型",
+   "en": "Luttinger model",
+   "source": "物理学名词",
+   "wordNumber": "08.2867",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "拉廷格液体",
+   "en": "Luttinger liquid",
+   "source": "物理学名词",
+   "wordNumber": "08.2866",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "包钦格复合体",
+   "en": "Bötzinger complex,BötC",
+   "source": "生理学名词",
+   "wordNumber": "06.180",
+   "subjectFullName": "生理学_呼吸生理学",
+   "subjectName": "呼吸生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "包钦格复合体",
+   "en": "Bötzinger complex,Bt.C",
+   "source": "呼吸病学名词",
+   "wordNumber": "04.011",
+   "subjectFullName": "呼吸病学_呼吸运动调节_呼吸中枢和呼吸节律",
+   "subjectName": "呼吸中枢和呼吸节律",
+   "publishYear": "2018",
+   "definition": "位于延髓腹外侧呼吸组的嘴端，面神经后核腹内侧邻近区域的一群神经元。是一群呈呼气递增的群γ-氨基丁酸能的呼气神经元。长串电刺激它可产生吸气抑制。"
+  },
+  {
+   "cn": "前包钦格复合体",
+   "en": "pre-Bötzinger complex,PBC",
+   "source": "呼吸病学名词",
+   "wordNumber": "04.012",
+   "subjectFullName": "呼吸病学_呼吸运动调节_呼吸中枢和呼吸节律",
+   "subjectName": "呼吸中枢和呼吸节律",
+   "publishYear": "2018",
+   "definition": "在头段和中段腹侧呼吸组之间，即相当于疑核头端平面，存在的一个含各类呼吸性中间神经元的过渡区。其中含有呼气神经元、吸气神经元和跨时相神经元，目前认为该部位是呼吸节律起源的关键部位。"
+  },
+  {
+   "cn": "前包钦格复合体",
+   "en": "pre-Bötzinger complex,pre-BötC",
+   "source": "生理学名词",
+   "wordNumber": "06.181",
+   "subjectFullName": "生理学_呼吸生理学",
+   "subjectName": "呼吸生理学",
+   "publishYear": "2020",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

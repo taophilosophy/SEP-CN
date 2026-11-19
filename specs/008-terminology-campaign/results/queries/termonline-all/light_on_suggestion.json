@@ -1,0 +1,792 @@
+{
+ "key": "light on suggestion",
+ "term": "Light on Suggestion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:02:50+00:00",
+ "status": "ok",
+ "note": "variant=Light on Suggestion; 审定公布名词库=4145; 海峡两岸名词对照库=1318; 其他来源数据库=584; 预公布名词数据库=257; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "受暗示性",
+   "en": "suggestibility",
+   "source": "精神医学名词",
+   "wordNumber": "02.193",
+   "subjectFullName": "精神医学_症状与体征_意志行为障碍症状",
+   "subjectName": "意志行为障碍症状",
+   "publishYear": "2019",
+   "definition": "不加批评地接受别人的思想、信念和行为模式的易感性。可以被环境状况、药物和催眠提高，而有癔症人格特质的人更明显。"
+  },
+  {
+   "cn": "受暗示性",
+   "en": "suggestibility",
+   "source": "心理学名词",
+   "wordNumber": "15.011",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "个体直觉地接受外界影响的倾向性。"
+  },
+  {
+   "cn": "暗示",
+   "en": "suggestion,cue",
+   "source": "精神医学名词",
+   "wordNumber": "04.038",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "治疗师有意或无意间对受检者产生心理影响，使其放松警觉、增加接受性、降低批判性的过程。"
+  },
+  {
+   "cn": "建议制度",
+   "en": "suggestion system",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0231",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_领导与权力",
+   "subjectName": "领导与权力",
+   "publishYear": "2016",
+   "definition": "鼓励员工直接参与企业管理，下情上达，并能与企业管理者保持经常性沟通的规范化的内部沟通制度。"
+  },
+  {
+   "cn": "监理意见",
+   "en": "surveillance suggestion",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0790",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "在监理过程中，监理机构以书面形式向业主单位或承建单位提出的见解和主张。"
+  },
+  {
+   "cn": "暗示疗法",
+   "en": "suggestion therapy",
+   "source": "物理医学与康复名词",
+   "wordNumber": "03.270",
+   "subjectFullName": "物理医学与康复_康复治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2014",
+   "definition": "采用语言、动作等方式，也可以结合药物、电刺激等治疗方法，使被治疗者在不知不觉中受到积极暗示的影响，从而不加主观意志地接受治疗者的某种观点、信念、态度或指令，解除心理上的压力或负担，实现消除疾病症状或加"
+  },
+  {
+   "cn": "暗示疗法",
+   "en": "suggestive therapy",
+   "source": "行为医学名词",
+   "wordNumber": "20.077",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "通过非批评性暗示使患者产生认知、情感和行为改变的心理治疗技术。"
+  },
+  {
+   "cn": "暗示疗法",
+   "en": "suggestive treatment",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.341",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "读者意见",
+   "en": "reader's suggestions",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.306",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "读者利用图书馆后，对图书馆提出的批评、表扬和建议。"
+  },
+  {
+   "cn": "自我暗示训练",
+   "en": "self-suggestion training",
+   "source": "心理学名词",
+   "wordNumber": "14.058",
+   "subjectFullName": "心理学_运动心理学",
+   "subjectName": "运动心理学",
+   "publishYear": "2014",
+   "definition": "利用言语等刺激对人的心理状态施加影响进而控制行为的过程。"
+  },
+  {
+   "cn": "开灯时间",
+   "en": "light on clock time",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.36",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "监测结束的时间。患者自然醒来或被唤醒并不再入睡时设定的时间。"
+  },
+  {
+   "cn": "批办",
+   "en": "approval to handling suggestion",
+   "source": "档案学名词",
+   "wordNumber": "02.03.042",
+   "subjectFullName": "档案学_文件管理_公文处理",
+   "subjectName": "公文处理",
+   "publishYear": "2024",
+   "definition": "收文处理环节之一。机关领导者或部门负责人对公文（包括拟办意见）进行认真阅读分析之后，提出处置意见的活动。"
+  },
+  {
+   "cn": "光",
+   "en": "light",
+   "source": "光学名词",
+   "wordNumber": "01.194",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "特定波段(通常广义地取紫外线+可见光+红外线波段)的电磁波。它的波长范围为10 nm～几百微米(即10 nm～400 nm～7600 nm～几百微米)。"
+  },
+  {
+   "cn": "光",
+   "en": "light",
+   "source": "物理学名词",
+   "wordNumber": "04.0001",
+   "subjectFullName": "物理学_光学、声学",
+   "subjectName": "光学、声学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "光",
+   "en": "light",
+   "source": "计量学名词",
+   "wordNumber": "13.068",
+   "subjectFullName": "计量学_光学_光度",
+   "subjectName": "光度",
+   "publishYear": "2015",
+   "definition": "人眼可以看见的一系列电磁波，波长在 380~780nm 范围。“被知觉的光(perceived light)”是人的视觉系统特有的所有知觉和感觉的普遍和基本的属性；进入眼睛并引起光感觉的可见辐射称为“"
+  },
+  {
+   "cn": "光",
+   "en": "light",
+   "source": "建筑学名词",
+   "wordNumber": "10.0002",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "能刺激视网膜引起视觉的辐射能。"
+  },
+  {
+   "cn": "光",
+   "en": "light",
+   "source": "电气工程名词",
+   "wordNumber": "22.001",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "号灯",
+   "en": "light",
+   "source": "航海科技名词",
+   "wordNumber": "09.0209",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "LIGHT受体",
+   "en": "LIGHT receptor,LIGHTR",
+   "source": "免疫学名词",
+   "wordNumber": "2.534",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "属肿瘤坏死因子受体超家族成员(TNFRSF14)，主要表达于淋巴组织富集的器官，能直接与单纯疱疹病毒(HSV)囊膜糖蛋白D结合，参与HSV感染T细胞，与LIGHT相互作用可能调节T细胞增殖。"
+  },
+  {
+   "cn": "明度",
+   "en": "lightness",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.012",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "物体表面相对明暗的特性。颜色的三属性之一。"
+  },
+  {
+   "cn": "暗示",
+   "en": "suggestion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "受暗示性",
+   "en": "suggestibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我暗示",
+   "en": "self suggestion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "号灯",
+   "en": "lights",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "LIGHT受体",
+   "en": "LIGHT receptor， LIGHTR",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自我暗示训练",
+   "en": "self suggestion training\",\"autogenic training",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "通",
+   "en": "on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偏振光",
+   "en": "polarization light\",\"polarized light",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "光透射",
+   "en": "light penetration\",\"light transmission",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "灯船",
+   "en": "light vessel\",\"light ship",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "航行灯",
+   "en": "running light\",\"navigation light",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "光学显微镜术",
+   "en": "light microscopy",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "亮细胞",
+   "en": "light cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "明区",
+   "en": "light region",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "光饱和[现象]",
+   "en": "light saturation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光强度",
+   "en": "light intensity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光信号转导",
+   "en": "light signalling",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "需光量",
+   "en": "light requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光照强度",
+   "en": "light intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光照[射]量",
+   "en": "light exposure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "含蓄",
+   "en": "Subtle Suggestion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信号灯",
+   "en": "light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "灯光",
+   "en": "lighting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球",
+   "en": "one-and-one shot\",\"one-plus-one shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轻次中量级",
+   "en": "light welterweight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "次重量级",
+   "en": "light heavyweight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轻中量级",
+   "en": "light middleweight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "次蝇量级",
+   "en": "light flyweight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黄灯",
+   "en": "amber light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红灯",
+   "en": "red light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绿灯",
+   "en": "green light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红灯",
+   "en": "red light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绿灯",
+   "en": "green light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "1级风",
+   "en": "light air",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "2级风",
+   "en": "light breeze",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黄灯",
+   "en": "yellow light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红灯",
+   "en": "red light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绿灯",
+   "en": "green light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "暗示疗效",
+   "en": "suggestive effect",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.4.2",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "在消毒产品宣传中暗示消毒产品具有对某种疾病的治疗效果。"
+  },
+  {
+   "cn": "光敏性",
+   "en": "light sensitivity",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "某些电离辐射剂量计在辐照前后，表征辐射效应的某个量在光照（可见光或紫外光）作用下发生变化（增多或减少）的特性。这种特性多存在于一些无源剂量计，如热释光剂量计、化学剂量计等。"
+  },
+  {
+   "cn": "坑道照明",
+   "en": "tunnel lighting",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.2.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "采用各种光源使照度满足坑道内人员工作、生活等的需求。"
+  },
+  {
+   "cn": "同一健康",
+   "en": "one health",
+   "source": "社会医学名词",
+   "wordNumber": "6.6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "整合健康治理",
+   "publishYear": "2025",
+   "definition": "基于人类与生态环境一体化健康视角，通过跨部门、跨领域、跨学科综合、统一的理念和方法，旨在实现人类、动物与生态系统健康的可持续平衡与优化。"
+  },
+  {
+   "cn": "强光照射试验",
+   "en": "intense light test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "测定消毒剂经规定光照条件后稳定性的试验。一般新有效成分消毒剂应进行此项试验。"
+  },
+  {
+   "cn": "光野指示器",
+   "en": "light field indicator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.32",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "X射线设备中，通过可见光反映出照射野范围的装置。"
+  },
+  {
+   "cn": "κ轻链",
+   "en": "kappa light chain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.37",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "免疫球蛋白轻链的一种类型。根据免疫原性不同将免疫球蛋白轻链分为两型，但每个免疫球蛋白分子上只有一个型别的轻链。人体内κ轻链多肽基因家族位于2号染色体，正常人血清中κ型轻链免疫球蛋白约占65%。"
+  },
+  {
+   "cn": "λ轻链",
+   "en": "lambda light chain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.38",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "免疫球蛋白轻链的一种类型。根据免疫原性不同将免疫球蛋白轻链分为两型，但每个免疫球蛋白分子上只有一个型别的轻链。人体内λ轻链多肽基因家族位于22号染色体，正常人血清中λ型轻链免疫球蛋白约占35%。"
+  },
+  {
+   "cn": "游离轻链",
+   "en": "free light chain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.39",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "血清中未与重链结合的轻链。包括游离κ轻链和游离λ轻链。正常人血清中游离κ轻链和λ轻链的比值为0.26～1.65。当肾功能受损时，游离轻链显著增加；当患有浆细胞病时，会出现免疫球蛋白单克隆异常增殖，游离"
+  },
+  {
+   "cn": "偏振光显微镜检查",
+   "en": "polarized light microscopy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.9",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一项用偏振光显微镜进行晶体检查的方法。常用于检查关节滑液或尿液等样本中是否有尿酸单钠晶体、双水焦磷酸钙晶体、草酸钙结晶等。"
+  },
+  {
+   "cn": "生抽",
+   "en": "light soy sauce",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.28",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以大豆、小麦、盐水等为原料，天然露晒、发酵而得的色泽较浅的酱油，呈红褐色，滋味鲜美协调，豉味浓郁，体态清澈透明，风味独特，多用于一般的炒菜或凉菜烹调调味。"
+  },
+  {
+   "cn": "嫩杀",
+   "en": "light de-enzyme",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.18",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "轻度杀青，青叶失水少，减重率为30%，杀青叶含水率为62%~64%。"
+  },
+  {
+   "cn": "采光均匀性",
+   "en": "nature lighting uniformity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "视野范围内照度分布的均匀程度。"
+  },
+  {
+   "cn": "采光方向",
+   "en": "nature lighting direction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "自然光线的射入方向。"
+  },
+  {
+   "cn": "采光效果",
+   "en": "natural lighting effect",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "通过门窗进行自然采光的程度。"
+  },
+  {
+   "cn": "教室照明",
+   "en": "lighting of classroom",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "利用各种光源照亮教室的措施。"
+  },
+  {
+   "cn": "现场消毒",
+   "en": "disinfection on site",
+   "source": "消毒学",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "发生传染病流行、突发公共卫生事件或重大活动卫生保障时对现场环境和物品等进行的消毒。"
+  },
+  {
+   "cn": "就地监测",
+   "en": "on-site monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测",
+   "subjectName": "流出物监测",
+   "publishYear": "2025",
+   "definition": "在现场直接进行的辐射监测。可用于测量辐射场的特性，如辐射场的照射量率、剂量率及随时间与空间的变化规律等。也可用于鉴别放射性核素并确定其大致的体积活度或表面活度。"
+  },
+  {
+   "cn": "现场笔录",
+   "en": "on-site transcripts",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.7",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "卫生监督员在现场监督时，对现场勘验的结果如实进行记录的文书。"
+  },
+  {
+   "cn": "青年话语",
+   "en": "discourse on youth",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.5",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "在特定社会语境中基于文本进行的有关青年问题讨论活动的总称，包括说话人、受话人、文本、沟通、语境等要素。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

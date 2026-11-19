@@ -1,0 +1,642 @@
+{
+ "key": "mortality",
+ "term": "mortality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:50:17+00:00",
+ "status": "ok",
+ "note": "variant=mortality; 审定公布名词库=150; 海峡两岸名词对照库=54; 其他来源数据库=3; 预公布名词数据库=62; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "兽医学名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "一定时间内动物群因某病而死亡的病例数与该动物群动物总数之比。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality ",
+   "source": "草学名词",
+   "wordNumber": "7.0232",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.111",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "某年某地平均每千人口中的死亡数。反映当地居民总的死亡水平。常用千分率(‰)表示。"
+  },
+  {
+   "cn": "枯损量",
+   "en": "mortality",
+   "source": "林学名词",
+   "wordNumber": "06.041",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "在一定时期内，林分中由于各种原因死亡树木的总材积或总株数。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0856",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "动物种群中单位时间内，死亡的个体数占整个种群总个数的百分比率。死亡率又分自然死亡率和捕捞死亡率。"
+  },
+  {
+   "cn": "故障率",
+   "en": "mortality",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.095",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "一个项目的群体在规定期限内的总故障数与该期限内群体的总工作时间之比。通常以每1 000工作小时的故障数表示。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "水产名词",
+   "wordNumber": "02.132",
+   "subjectFullName": "水产_渔业资源学",
+   "subjectName": "渔业资源学",
+   "publishYear": "2002",
+   "definition": "水生动物种群在一定时期内个体减少的数量与初期该种群个体总数量之比值。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "昆虫学名词",
+   "wordNumber": "06.089",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "昆虫群体在一定发育阶段死亡个体数占总个体数的百分率。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality,death rate",
+   "source": "生态学名词",
+   "wordNumber": "05.056",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "单位时间内个体死亡数占初始个体数的比例。"
+  },
+  {
+   "cn": "死亡率曲线",
+   "en": "mortality curve",
+   "source": "动物学名词",
+   "wordNumber": "7.0359",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "描述同期出生的生物种群个体死亡过程与其年龄关系的曲线。"
+  },
+  {
+   "cn": "人口死亡率",
+   "en": "mortality rate",
+   "source": "经济学名词",
+   "wordNumber": "07.075",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "在一定时期内(通常为一年)一定地区的死亡人数与同期内平均人数(或期中人数)之比。通常用千分率表示。"
+  },
+  {
+   "cn": "枯损模型",
+   "en": "mortality model",
+   "source": "林学名词",
+   "wordNumber": "06.079",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "用数学模型技术研究和拟合林分或单木的枯损情况的数学方程。"
+  },
+  {
+   "cn": "围手术期死亡率",
+   "en": "perioperative mortality",
+   "source": "普通外科学名词",
+   "wordNumber": "13.014",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "住院患者围手术期死亡人数占同期住院手术患者总人数的比例。"
+  },
+  {
+   "cn": "麻醉死亡率",
+   "en": "anesthesia mortality",
+   "source": "麻醉学名词",
+   "wordNumber": "03.002",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_麻醉风险",
+   "subjectName": "麻醉风险",
+   "publishYear": "2024",
+   "definition": "麻醉作为主要原因导致患者围手术期死亡的发生率。"
+  },
+  {
+   "cn": "犊牛死亡率",
+   "en": "calf mortality",
+   "source": "兽医学名词",
+   "wordNumber": "01.100",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "一定时期内,出生时及出生后 24h 内死亡的犊牛数占同期产出牛犊总数的比值。反映围产期管理水平的高低。"
+  },
+  {
+   "cn": "绝对死亡率",
+   "en": "absolute mortality ",
+   "source": "草学名词",
+   "wordNumber": "2.0109",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "集群死亡",
+   "en": "mass mortality",
+   "source": "古生物学名词",
+   "wordNumber": "01.0201",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "由于环境的变化而导致整个居群的突然死亡。"
+  },
+  {
+   "cn": "最低死亡率",
+   "en": "minimum mortality",
+   "source": "生态学名词",
+   "wordNumber": "05.058",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "在最适的环境条件下，种群中的个体都是由于衰老而死亡，即动物都活到了生理寿命才死亡情况下的死亡率。"
+  },
+  {
+   "cn": "扩散前死亡率",
+   "en": "predispersal mortality",
+   "source": "生态学名词",
+   "wordNumber": "05.216",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "植物种子在成熟扩散前由于早期死亡，种子发育停止和动物捕食等而造成的死亡率。"
+  },
+  {
+   "cn": "生态死亡率",
+   "en": "ecological mortality",
+   "source": "生态学名词",
+   "wordNumber": "05.059",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "种群在特定条件下的平均死亡率。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "生态死亡率,实际死亡率",
+   "en": "ecological mortality\",\"realized mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality rate",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "致死因子",
+   "en": "mortality factor",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率表",
+   "en": "mortality table",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "死亡曲线",
+   "en": "mortality curve",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "新生儿死亡率",
+   "en": "neonatal mortality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "婴儿死亡率",
+   "en": "infant mortality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定居期死亡率",
+   "en": "establishment mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "扩散前死亡率",
+   "en": "predispersal mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "特定死亡率",
+   "en": "specific mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "总死亡率",
+   "en": "total mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最低死亡率",
+   "en": "minimum mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生理死亡率",
+   "en": "physiological mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自然死亡率",
+   "en": "natural mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "标准化死亡率",
+   "en": "standardized mortality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "幼期死亡率",
+   "en": "infant mortality rate\",\"infant mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality\",\"death rate",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality\",\"death rate",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality rate ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分项",
+   "en": "discipline\",\"modality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "以义制事",
+   "en": "Handle Matters According to Morality and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.10.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "某人群在某个限定的时间内死于某病的概率，分子为该时期内死亡人数，分母为该人群的人数。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.17",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "在一定期间内，某人群中总死亡人数在该人群中所占的比例。"
+  },
+  {
+   "cn": "死亡概率",
+   "en": "mortality probability",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "活到某一确切年龄x岁的一批人在满x+n岁之前可能死亡的比例。即在确切年龄x岁与x+n岁之间死亡人数(ndx）与活到确切年龄x岁的尚存人数(lx）之比，一般记作nqx。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "某年某地平均每千人口中的死亡数。反映居民总的死亡水平，以及居民的健康状况和医疗卫生服务水平。"
+  },
+  {
+   "cn": "婴儿死亡",
+   "en": "infant mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "死亡时实足年龄小于1岁的儿童死亡。"
+  },
+  {
+   "cn": "新生儿死亡",
+   "en": "neonatal mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "死亡时实足天龄小于28天的儿童死亡。"
+  },
+  {
+   "cn": "孕产妇死亡",
+   "en": "maternal mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "妊娠期或妊娠终止后42天之内的妇女，不论妊娠期长短和何种受孕部位，由于任何与妊娠或妊娠处理有关的或由此而加重了的原因导致的死亡，不包括意外或偶然原因（如车祸、中毒等）导致的死亡。"
+  },
+  {
+   "cn": "战斗死亡率",
+   "en": "battle mortality",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.11",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "阵亡、伤死人数与平均参战人数之比，阵亡、伤死人数不含非战斗死亡。"
+  },
+  {
+   "cn": "婴儿死亡率",
+   "en": "infant mortality rate",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.5",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "某个地区未满周岁的婴儿死亡人数与该地该年活产婴儿数的比例，常用千分数表示。"
+  },
+  {
+   "cn": "孕产妇死亡率",
+   "en": "maternal mortality ratio",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "某年每10万名活产婴儿对应的由于怀孕和分娩而死亡的妇女数。"
+  },
+  {
+   "cn": "新生儿死亡率",
+   "en": "neo-natal mortality",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.7",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "婴儿出生后第一个月内的死亡率，即未满一个月死亡的婴儿数占同期出生婴儿数的比例，一般以年度为时间计算单位，以千分数表示。"
+  },
+  {
+   "cn": "5岁以下儿童死亡",
+   "en": "under-five mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "死亡时实足年龄小于5岁的儿童死亡。"
+  },
+  {
+   "cn": "婴儿死亡率",
+   "en": "infant mortality rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某年某国家或地区出生的活产新生儿在1岁以前死亡的概率，表示为当年发生的婴儿死亡数与活产数的千分比例。"
+  },
+  {
+   "cn": "新生儿死亡率",
+   "en": "neonatal mortality rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某年某国家或地区内新生儿死亡数与活产数的千分比例。"
+  },
+  {
+   "cn": "孕产妇死亡监测",
+   "en": "maternal mortality surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "在全国或代表性地区内对发生的孕产妇死亡进行长期持续的动态观察，收集孕产妇死亡、死亡原因及影响因素等资料，并进行分析、解释、反馈和应用的过程。"
+  },
+  {
+   "cn": "妊娠相关死亡",
+   "en": "pregnancy-related mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "妇女在妊娠至终止妊娠后 42 天内或1年内的死亡，无论死因如何（产科和非产科），包括因意外和偶然原因导致的死亡。"
+  },
+  {
+   "cn": "孕产妇死亡率",
+   "en": "maternal mortality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.4",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "某年某地每万例次活产或每10 万例次活产中，孕产妇从妊娠至产后42 天内，由于妊娠或妊娠处理有关的原因导致的死亡数量，但不包括意外原因死亡的孕产妇。反映居民健康水平和社会经济发展水平。"
+  },
+  {
+   "cn": "新生儿死亡率",
+   "en": "neonatal mortality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.1",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "某年某地每1000活产儿中出生未满28 天新生儿的死亡数量。常用死亡统计指标，反映居民健康水平和社会经济发展水平。"
+  },
+  {
+   "cn": "全腹泻死亡率",
+   "en": "overall diarrheal mortality",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.18",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "某年某地区总人口中死于腹泻疾病的人数所占比例。"
+  },
+  {
+   "cn": "婴儿死亡率",
+   "en": "infant mortality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.2",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "某年某地每1000 活产儿中未满1 周岁婴儿的死亡数量。常用死亡统计指标，反映居民健康水平和社会经济发展水平。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

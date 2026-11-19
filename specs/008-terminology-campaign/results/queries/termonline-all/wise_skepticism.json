@@ -1,0 +1,742 @@
+{
+ "key": "wise skepticism",
+ "term": "wise skepticism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:51:50+00:00",
+ "status": "ok",
+ "note": "variant=wise skepticism; 审定公布名词库=717; 海峡两岸名词对照库=190; 其他来源数据库=30; 预公布名词数据库=17; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "怀疑精神",
+   "en": "skeptical spirit",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究者对已有的科学成就及科学权威的有根据的质疑态度。"
+  },
+  {
+   "cn": "谨慎推理",
+   "en": "skeptical reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0032",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "一种非单调推理模式。只有当一个命题在所有非单调语义模型中为真时，才认为该命题为真。"
+  },
+  {
+   "cn": "审计职业怀疑",
+   "en": "audit professional skepticism",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0353",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师执行审计业务时保持怀疑的一种态度。包括采取质疑的思维方式，对可能表明存在由于错误或舞弊而导致的错报的迹象保持警觉，以及对审计证据进行审慎评价。"
+  },
+  {
+   "cn": "湿地合理利用",
+   "en": "wetland wise use",
+   "source": "林学名词",
+   "wordNumber": "03.255",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_湿地",
+   "subjectName": "湿地",
+   "publishYear": "2016",
+   "definition": "在维持湿地生态系统自然属性的前提下，使湿地能够可持续地为人类提供福利的利用方式。"
+  },
+  {
+   "cn": "逐步回归",
+   "en": "step-wise regression",
+   "source": "数学名词",
+   "wordNumber": "09.0704",
+   "subjectFullName": "数学_概率论_数理统计_线性模型",
+   "subjectName": "线性模型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "谲辞",
+   "en": "wit and wise lie",
+   "source": "语言学名词",
+   "wordNumber": "08.191",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。为掩饰真情而以曲折机变的话语，传达言语假信息，并在言语交际过程中收到积极的效果。例如，“高高山上哎一树槐唷，手把栏杆啥望郎来唷，娘问女儿唷你望啥了嘛？我望槐花啥几时开唷喂。”"
+  },
+  {
+   "cn": "近地天体广域红外巡天",
+   "en": "Near-Earth Object WISE; NEOWISE",
+   "source": "天文学名词",
+   "wordNumber": "06.634",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "美国于 2010 年底开始的近地天体搜寻项目，是广域红外巡天探测器的延续任务，在近红外波段开展近地天体搜寻。"
+  },
+  {
+   "cn": "广域红外巡天探测器",
+   "en": "Wide-Field Infrared Survey Explorer; WISE",
+   "source": "天文学名词",
+   "wordNumber": "06.633",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "美国2010年发射的红外天文卫星。开展了10个月的近、中红外全天成像巡天，制冷剂耗尽后仅延续近红外观测，任务转为近地天体搜寻。"
+  },
+  {
+   "cn": "孔门十哲",
+   "en": "Kong men shi zhe;Confucius’ ten wise disciples",
+   "source": "中国古代史名词",
+   "wordNumber": "2.373",
+   "subjectFullName": "中国古代史_先秦_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "孔子众多弟子中10位最杰出者。分别是颜渊、子骞、伯牛、仲弓、子有、子贡、子路、子我、子游、子夏。"
+  },
+  {
+   "cn": "钢丝",
+   "en": "wire steel,wire",
+   "source": "冶金学名词",
+   "wordNumber": "09.0562",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "由盘条经拉伸(或冷轧)而成的金属制品。直径一般为0.2~8mm。有弹簧钢丝、预应力混凝土用钢丝、针布钢丝、制针钢丝等。"
+  },
+  {
+   "cn": "线材",
+   "en": "wire",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.012",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "用拉拔或轧制等方法将金属棒制成圆形或任意截面形状的，长度很长的细丝状材料。其直径约在15mm以下并卷成盘状。"
+  },
+  {
+   "cn": "葡萄酒",
+   "en": "wine",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1438",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_酒",
+   "subjectName": "酒",
+   "publishYear": "2020",
+   "definition": "以鲜葡萄或葡萄汁为原料，经全部或部分发酵酿制而成的，含有一定酒精度的酿造酒。"
+  },
+  {
+   "cn": "导线",
+   "en": "wire",
+   "source": "物理学名词",
+   "wordNumber": "03.0031",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "光圆钢丝",
+   "en": "wire",
+   "source": "建筑学名词",
+   "wordNumber": "12.0210",
+   "subjectFullName": "建筑学_建筑材料及制品_材料制品",
+   "subjectName": "材料制品",
+   "publishYear": "2014",
+   "definition": "优质碳素盘钢条经等温铅浴淬火处理后，再冷拉加工而成的钢丝。"
+  },
+  {
+   "cn": "钢丝",
+   "en": "wire",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0239",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "由线材经冷拉加工而得的直径小于8mm(大多数情况下小于4mm)的钢材产品。"
+  },
+  {
+   "cn": "海隆",
+   "en": "rise",
+   "source": "海洋科技名词",
+   "wordNumber": "02.1366",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "subjectName": "海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "publishYear": "2007",
+   "definition": "由于构造运动造成的海底隆起。"
+  },
+  {
+   "cn": "海隆",
+   "en": "rise",
+   "source": "地理学名词",
+   "wordNumber": "15.150",
+   "subjectFullName": "地理学_海洋地理学",
+   "subjectName": "海洋地理学",
+   "publishYear": "2006",
+   "definition": "位于大陆坡末端与深海平原之间的缓坡状隆起地形，坡度较大陆坡缓，较深海平原陡。"
+  },
+  {
+   "cn": "酒剂",
+   "en": "wine",
+   "source": "中医药学名词",
+   "wordNumber": "07.063",
+   "subjectFullName": "中医药学_方剂学_剂型、煎服法",
+   "subjectName": "剂型、煎服法",
+   "publishYear": "2004",
+   "definition": "将药材用蒸馏酒提取制成的澄清液体制剂。"
+  },
+  {
+   "cn": "矢高",
+   "en": "rise",
+   "source": "土木工程名词",
+   "wordNumber": "05.016",
+   "subjectFullName": "土木工程_建筑结构_建筑结构总论",
+   "subjectName": "建筑结构总论",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拱度",
+   "en": "rise",
+   "source": "土木工程名词",
+   "wordNumber": "05.062",
+   "subjectFullName": "土木工程_建筑结构_空间结构",
+   "subjectName": "空间结构",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "逐步求精",
+   "en": "step-wise refinement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段确定性的",
+   "en": "piece-wise deterministic\",\"PWD",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比较误差率",
+   "en": "comparison wise error rate",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "钢丝",
+   "en": "wire",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "海隆",
+   "en": "rise",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "潮升",
+   "en": "tidal rise\",\"rise of tide",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "电线积冰",
+   "en": "wire icing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上升时间",
+   "en": "rise time",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "烟羽抬升",
+   "en": "plume rise",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "夹丝玻璃",
+   "en": "wire glass",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "悬浮线",
+   "en": "suspension wire",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "延长线",
+   "en": "extension wire",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "滑线",
+   "en": "slide wire",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "拉发线",
+   "en": "trip wire",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "导线",
+   "en": "lead wire",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "愿望满足",
+   "en": "wish fulfillment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "焊芯",
+   "en": "core wire",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "超导[电]线",
+   "en": "superconducting wire",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "正畸丝",
+   "en": "orthodontic wire",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "线材拉拔",
+   "en": "wire drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "智圆行方",
+   "en": "Be Wise in Thinking and Act Properly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "仁者乐山，智者乐水",
+   "en": "The Virtuous Love Mountains and the Wise Love Water.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "链球链",
+   "en": "hammer wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手线",
+   "en": "body wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拖线",
+   "en": "spool wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接导线",
+   "en": "connecting wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手线",
+   "en": "body wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金属网",
+   "en": "wire-mesh",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拖线",
+   "en": "spool wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接电缆",
+   "en": "connecting wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宽握",
+   "en": "wide grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上坡",
+   "en": "ascent\",\"climb\",\"rise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广域网",
+   "en": "wide area network (WAN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界账本",
+   "en": "World Wide Ledger (WWL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界自然基金会",
+   "en": "World Wide Fund for Nature",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛欧量子安全互联网",
+   "en": "Europe-wide quantum-safe network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有组织的怀疑",
+   "en": "organized skepticism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.9",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学精神特质的重要组成部分，指一种制度化的对科学家同行工作的批评态度，具体包括对已确立的规则、权威、既定程序的某些基础以及一般的神圣领域提出疑问。"
+  },
+  {
+   "cn": "明医",
+   "en": "wise doctor",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.016",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "精通医学理论、具备高超医疗技术的好医生。出自明代徐春甫《古今医统大全》“精于医者曰明医”。"
+  },
+  {
+   "cn": "葡萄酒",
+   "en": "wine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.1.2",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以鲜葡萄或葡萄汁为原料，经全部或部分发酵酿制而成的，含有一定酒精度的发酵酒。"
+  },
+  {
+   "cn": "调味料酒",
+   "en": "cooking wine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.53",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以发酵酒、蒸馏酒或食用酒精为主要原料，添加食盐或植物香辛料配制而成的液态调味品。"
+  },
+  {
+   "cn": "消毒湿巾",
+   "en": "disinfectant wipe",
+   "source": "消毒学",
+   "wordNumber": "2.1.17.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "消毒液与非织造布、织物等结合形成的载体消毒剂。多用于一般物体表面、医疗器械表面、皮肤和卫生手的擦拭消毒。"
+  },
+  {
+   "cn": "湿巾",
+   "en": "wet wipe",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.1.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "以非织造布、织物、木浆复合布、木浆纸等为载体，适量添加液体原材料制成的产品。"
+  },
+  {
+   "cn": "茶酒",
+   "en": "tea wine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.16",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "含有茶叶成分并具有茶香的酒。包括以添加茶叶原料发酵而成的酿造酒及其蒸馏酒、用白酒浸泡茶叶后过滤而成的酒、以茶萃取液与白酒勾兑而成的酒等。"
+  },
+  {
+   "cn": "欸话（五色话）",
+   "en": "Wuse language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0364",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "自称“诶”的壮族使用的语言，是一种侗台语言和汉语的混合语。分布在广西壮族自治区融水苗族自治县的永乐乡，使用人口约5000 人。"
+  },
+  {
+   "cn": "卫生湿巾",
+   "en": "hygiene wet wipe",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "以非织造布、织物、木浆复合布、木浆纸等为载体，适量添加生产用水和消毒液等原材料，对手、皮肤、黏膜及普通物体表面等处理对象具有清洁杀菌作用的湿巾。"
+  },
+  {
+   "cn": "大撒网式检查",
+   "en": "wide range inspection",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.029",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "临床诊断中盲目使用或扩大辅助检查手段及范围的违背诊疗道德规范的行为。"
+  },
+  {
+   "cn": "发酵型奶酒",
+   "en": "fermented milk wine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.1.5",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以牛奶、乳清或乳清粉等为主要原料，经发酵、过滤、杀菌等工艺酿制而成的发酵酒。"
+  },
+  {
+   "cn": "黄酒",
+   "en": "huangjiu, chinese rice wine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.1.3",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以稻米、黍米、小米、玉米、小麦、水等为主要原料，经加曲和/或部分酶制剂、酵母等糖化发酵剂酿制而成的发酵酒。"
+  },
+  {
+   "cn": "夫妻家庭",
+   "en": "husband and wife family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "只有夫妻两人、未生育子女的家庭，或虽有子女但现已不再一起生活的空巢家庭。"
+  },
+  {
+   "cn": "糟蛋",
+   "en": "egg preserved in rice wine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.11",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "用优质鲜蛋在糯米酒糟中糟制而成的一类再制蛋。"
+  },
+  {
+   "cn": "夫妻平权",
+   "en": "equal rights between wife and husband",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.3",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "家庭内部丈夫和妻子之间享有平等权利，包括夫妻双方共同拥有家庭财产的支配权，共同分担家务和孩子养育的责任，以及彼此尊重对方在教育、就业、个人发展等社会生活方面的自主选择权 。"
+  },
+  {
+   "cn": "男主外女主内",
+   "en": "husband is breadwinner and wife is homemaker",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.1",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "一种传统的家庭性别角色分工模式，丈夫主要承担处理家庭整体的外部事务、提供家庭经济来源的责任；妻子主要负责家庭内部事务的管理和照顾，承担家务劳动和相夫教子、照料老人的责任。"
+  },
+  {
+   "cn": "跳出历史周期率的第二个答案",
+   "en": "the second answer to the question of how to escape the historical cycle of rise and fall",
+   "source": "马克思主义",
+   "wordNumber": "03.0831",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平在党的二十大报告中强调，“经过不懈努力，党找到了自我革命这一跳出治乱兴衰历史周期率的第二个答案，自我净化、自我完善、自我革新、自我提高能力显著增强，管党治党宽松软状况得到根本扭转，风清气正的党内"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,622 @@
+{
+ "key": "adi",
+ "term": "ādi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T00:39:02+00:00",
+ "status": "ok",
+ "note": "variant=ādi; 审定公布名词库=158; 海峡两岸名词对照库=53; 其他来源数据库=8; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "电除盐",
+   "en": "electrodeionization,EDI",
+   "source": "电力名词",
+   "wordNumber": "12.290",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "将电渗析与离子交换技术结合,在电渗析器的淡水室中填充离子交换剂,在直流电场的作用下,实现电渗析、离子交换除盐和离子交换连续电再生的过程。"
+  },
+  {
+   "cn": "甲苯二异氰酸酯",
+   "en": "toluene diisocyanate,TDI",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "02.146",
+   "subjectFullName": "化工（二）_原料与产品",
+   "subjectName": "原料与产品",
+   "publishYear": "2019",
+   "definition": "化学式为<img src='/root/syzx/static/spz/huagongII1.02.146.01.png'/>，有2，4-甲苯二异氰酸酯与2，6-甲苯二异氰酸酯二种异构体。主要由苯胺经"
+  },
+  {
+   "cn": "六亚甲基二异氰酸酯",
+   "en": "hexamethylene diisocyanate,HDI",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "02.148",
+   "subjectFullName": "化工（二）_原料与产品",
+   "subjectName": "原料与产品",
+   "publishYear": "2019",
+   "definition": "化学式为<img src='/root/syzx/static/spz/huagongII1.02.148.01.png'/>，由己二胺盐酸盐与光气作用制得。主要用于制泡沫塑料、合成纤维、涂料和固体弹"
+  },
+  {
+   "cn": "多分散性指数",
+   "en": "polydispersity index,PDI",
+   "source": "化学名词",
+   "wordNumber": "05.0751",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "重均分子量与数均分子量的比值。表征聚合物分子量不均一性的参数。符号为<img src='/root/syzx/static/spz/huaxue2.05.0751.1.png'/>。"
+  },
+  {
+   "cn": "空间数据基础设施",
+   "en": "spatial data infrastructure,SDI",
+   "source": "测绘学名词",
+   "wordNumber": "01.050",
+   "subjectFullName": "测绘学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "对地理空间数据有效采集、管理、访问、维护、分发和利用，所必需的政策、技术、标准、基础数据集和人力资源的总称。"
+  },
+  {
+   "cn": "人类发展指数",
+   "en": "human development index,HDI",
+   "source": "经济学名词",
+   "wordNumber": "06.020",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "联合国开发署设计的一个用于衡量社会经济发展水平的指数。是根据发展的目标如寿命、知识和生活标准而不是用促进发展的手段如GNP来度量的。其中，寿命用出生时的期望寿命衡量，知识用成人的识字率和上学年数的加权"
+  },
+  {
+   "cn": "外国直接投资",
+   "en": "foreign direct investment,FDI",
+   "source": "经济学名词",
+   "wordNumber": "06.091",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "私人跨国公司在海外的投资。即在国外开办工厂。"
+  },
+  {
+   "cn": "污染密度指数",
+   "en": "silt density index,SDI",
+   "source": "电力名词",
+   "wordNumber": "12.245",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "在规定压力下,用0.45μm的微滤膜过滤一定量被测水所需要的时间。"
+  },
+  {
+   "cn": "每日允许摄入量",
+   "en": "acceptable daily intake,ADI",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0302",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "人类终生每日随同食物、饮水和空气摄入某种外源化学物质而对健康不引起任何可观察到损害作用的量。"
+  },
+  {
+   "cn": "推荐每日摄入量",
+   "en": "recommended daily intake,RDI",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0305",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "能够满足绝大多数人一天需求的某种物质的量。"
+  },
+  {
+   "cn": "电子数据交换",
+   "en": "electronic data interchange,EDI",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0445",
+   "subjectFullName": "食品科学技术_食品安全_食品安全管理_溯源与预警",
+   "subjectName": "溯源与预警",
+   "publishYear": "2020",
+   "definition": "根据商定的交易或电子数据的结构标准实施商业或行政交易，从计算机到计算机的电子数据传输。"
+  },
+  {
+   "cn": "贝克忧郁量表",
+   "en": "Beck Depression Inventory,BDI",
+   "source": "精神医学名词",
+   "wordNumber": "05.024",
+   "subjectFullName": "精神医学_常用量表",
+   "subjectName": "常用量表",
+   "publishYear": "2019",
+   "definition": "美国精神医学家贝克(A. T. Beck)1961年编制的自评量表。用于评定受检者最近1周的抑郁严重程度。该量表从心理动力学角度进行评估，强调负性认知。原版共21个条目，1996年出版第2版。第2版包"
+  },
+  {
+   "cn": "孤独症诊断访谈量表",
+   "en": "Autism Diagnostic Interview,ADI",
+   "source": "精神医学名词",
+   "wordNumber": "05.057",
+   "subjectFullName": "精神医学_常用量表",
+   "subjectName": "常用量表",
+   "publishYear": "2019",
+   "definition": "英国精神医学家鲁特(M. Rutter)等1989年编制、1994年修订的他评量表。用于孤独症诊断、治疗和教育训练的评估。可评估智龄大于2岁的儿童和成人。包括背景资料、行为总评、早期发育和发育标志、言"
+  },
+  {
+   "cn": "每日允许摄入量",
+   "en": "acceptable daily intake,ADI",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.026",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_基础研究",
+   "subjectName": "基础研究",
+   "publishYear": "2019",
+   "definition": "人每日摄入某种化学物质(如食品添加剂、农药等)而对健康不引起任何可观察到的损害作用的剂量。以每千克体重摄入该化学物质毫克数表示，单位为mg/kg体重。ADI值越高，说明该化学物质的毒性越低。"
+  },
+  {
+   "cn": "二苯基甲烷二异氰酸酯",
+   "en": "methylene diphenyl diisocyanate,MDI",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "02.147",
+   "subjectFullName": "化工（二）_原料与产品",
+   "subjectName": "原料与产品",
+   "publishYear": "2019",
+   "definition": "化学式为<img src='/root/syzx/static/spz/huagongII1.02.147.01.png'/>，有4，4′-MDI、2，4′-MDI、2，2′-MDI等异构体，应用最多"
+  },
+  {
+   "cn": "蛋白质二硫键异构酶",
+   "en": "protein disulfide isomerase,PDI",
+   "source": "生物物理学名词",
+   "wordNumber": "02.088",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质折叠",
+   "subjectName": "蛋白质折叠",
+   "publishYear": "2018",
+   "definition": "主要存在于真核生物的内质网或原核生物的膜间质内的多功能蛋白质。参与新合成的分泌蛋白质的修饰和折叠，催化硫醇–二硫键交换反应，最终形成正确配对的二硫键。"
+  },
+  {
+   "cn": "定量吸入器",
+   "en": "metered dose inhaler,MDI",
+   "source": "呼吸病学名词",
+   "wordNumber": "07.089",
+   "subjectFullName": "呼吸病学_诊断与治疗_治疗方法",
+   "subjectName": "治疗方法",
+   "publishYear": "2018",
+   "definition": "吸入疗法较常应用的一种装置。其贮药罐内药物溶解或悬浮在液态助推剂中，距喷口10cm处微粒直径1.4~4.3μm，每次手压驱动，计量活瓣供应25~100μl溶液。主要优点是能够定量、快捷地气道内直接给药"
+  },
+  {
+   "cn": "电子数据交换",
+   "en": "electronic data interchange,EDI",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0176",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "商业活动中，发票、订单等结构化数据，在计算机间按标准化格式进行交换和自动处理的技术。是电子商务的早期应用。"
+  },
+  {
+   "cn": "激光解吸电离",
+   "en": "laser desorption ionization,LDI",
+   "source": "化学名词",
+   "wordNumber": "03.2476",
+   "subjectFullName": "化学_分析化学_仪器分析_质谱分析",
+   "subjectName": "质谱分析",
+   "publishYear": "2016",
+   "definition": "样品无烧蚀过程而仅通过激光解吸而导致的电离。"
+  },
+  {
+   "cn": "品牌发展指数",
+   "en": "brand development index,BDI",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0076",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "一个定量化反映某品牌在特定市场群体中的绩效表现相对于其在总体市场中的绩效表现的指数。由品牌针对特定群体实现的销售额除以该品牌总市场销售额计算而得。"
+  },
+  {
+   "cn": "脱氧肌苷",
+   "en": "deoxyinosine\",\"dI",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分歧指数",
+   "en": "divergence index\",\"DI",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "解吸电离",
+   "en": "desorption ionization\",\"DI",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "电子数据交换消息，EDI消息",
+   "en": "EDI message\",\"EDIM",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子数据交换消息处理，EDI消息处理",
+   "en": "EDI messaging\",\"EDIMG",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贝克忧郁量表",
+   "en": "Beck Depression Inventory\",\"BDI",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为描述式面谈",
+   "en": "behavior description interview\",\"BDI",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理动作发展指数",
+   "en": "psychomotor development index\",\"PDI",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "激光解吸电离",
+   "en": "laser desorption ionization\",\"LDI",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "空间数据基础设施",
+   "en": "spatial data infrastructure\",\"SDI",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "蛋白质二硫键异构酶",
+   "en": "protein disulfide isomerase\",\"PDI",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "电子数据交换",
+   "en": "electronic data interchange\",\"EDI",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "空间数据基础设施",
+   "en": "spatial data infrastructure\",\"SDI",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形设备接口",
+   "en": "graphic device interface\",\"GDI",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "空间数据基础设施",
+   "en": "spatial data infrastructure\",\"SDI",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "初始域标识",
+   "en": "initial domain identifier\",\"IDI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子数据交换",
+   "en": "electronic data interchange\",\"EDI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "媒体相关接口",
+   "en": "medium-dependent interface\",\"MDI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "商业数据交换",
+   "en": "business data interchange\",\"BDI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远端缺陷指示",
+   "en": "remote defect indication\",\"RDI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据索引",
+   "en": "Scientific Data Index (SDI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科研数据基础设施",
+   "en": "research data infrastructure (RDI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际电信联盟信息化发展指数",
+   "en": "Information Development Index (IDI) of International Telecommunication Union (ITU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乌迪人",
+   "en": "Udi",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0186",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "南高加索地区的民族之一。 人口约为9 千（2008 年）。分布于阿塞拜疆的北部和格鲁吉亚的东部地区。属欧罗巴人种巴尔干—高加索类型。操乌金语，属高加索语系达吉斯坦语族列兹金语支，无文字。多数人还通晓俄"
+  },
+  {
+   "cn": "创新扩散理论",
+   "en": "diffusion of innovation, DI",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "描述一项创新（新观念、新事物或新实践）经由一定的传播渠道，通过一段时间，在一个社会系统中扩散，并逐渐为社会系统成员所了解和采纳的过程的理论。"
+  },
+  {
+   "cn": "狄",
+   "en": "Di",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0007",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代北方少数民族之泛称。汉文史料中，亦有记载称其为黄帝后裔者。狄人部落众多；春秋时，以赤狄、白狄、长狄最为著名，活动于秦、晋、齐、鲁、卫等地域，大部分已融入中原民族。"
+  },
+  {
+   "cn": "氐",
+   "en": "Di",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0005",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。春秋战国时期始见于记载。秦汉之际主要分布于西北，以农业为主，兼营畜牧，其首领多受中原王朝册封。东汉以后被大量迁至关中、中原。建有仇池、前秦、后凉等政权。隋朝以后逐渐融于各民族中。"
+  },
+  {
+   "cn": "每日容许摄入量",
+   "en": "acceptable daily intake, ADI",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.8.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "人类终生每日摄入而不产生可检测到的健康危害的某化学物的量。"
+  },
+  {
+   "cn": "每日可耐受摄入量",
+   "en": "tolerable daily intake, TDI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.48",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "人体终生每日摄入某种环境污染物（如铅、汞污染物），不产生可检测到的对健康产生危害的量。以每千克体重可摄入的量表示，即mg/kg 体重。"
+  },
+  {
+   "cn": "每日允许摄入量",
+   "en": "acceptable daily intake, ADI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.47",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "人体终生每日摄入合法使用的某化学物质（如食品添加剂），不产生可检测到的对健康产生危害的量。以每千克体重可摄入的量表示，即mg/kg 体重。"
+  },
+  {
+   "cn": "白狄",
+   "en": "White Di",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.005",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。春秋前期分布于古雍州，受秦国压迫及晋国和戎政策之诱惑，东迁至晋东、鲁西一带。主要由鲜虞氏、肥氏、鼓氏、仇由氏等 4 个氏族组成；鲜虞氏建立中山国，与燕﹑赵﹑韩﹑魏并称千乘之国。"
+  },
+  {
+   "cn": "长狄",
+   "en": "Long Di",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0051",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。据《左传》记载，有侨如、焚如、荣如、简如、缘如等五兄弟。春秋时期，活动于齐、鲁、宋、卫之间，后为齐、卫所灭。"
+  },
+  {
+   "cn": "赤狄",
+   "en": "Red Di",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0049",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。春秋时狄人之一支；赤狄隗姓，源自殷及西周之鬼方；乃春秋时期实力最强、影响最大之狄族部落。其至少由6 个氏族组成，即潞氏、皋落氏、留吁氏、甲氏、铎辰氏、廧咎如氏，于西周初期北迁至蒙古高原。"
+  },
+  {
+   "cn": "决定手术至胎儿娩出时间",
+   "en": "decision-to-delivery interval, DDI",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.11",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "决定紧急剖宫产与胎儿实际娩出的时间间隔，应控制在30分钟内。"
+  },
+  {
+   "cn": "性别发展指数",
+   "en": "gender-related development index， GDI",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "与性别相关的人类发展指数，对人类发展平均成就进行分解，以反映不同性别之间在预期寿命、受教育程度以及实际生活水平等方面的状况，用来测量和评价在发展能力上的差异变化趋势。"
+  },
+  {
+   "cn": "SLICC/ACR损伤指数",
+   "en": "systemic lupus erythematosus international collaborating clinics/American college of rheumatology damage index, SDI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.2.2.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性红斑狼疮_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "采用积分方法对系统性红斑狼疮12个脏器或系统的损伤程度进行评估的指数，由系统性红斑狼疮国际临床协作组和美国风湿病学会（SLICC/ACR）提出，临床表现一般应持续6个月以上，以排除急性活动期的表现。指"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,772 @@
+{
+ "key": "hierarchical expansion",
+ "term": "hierarchical expansion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:18:22+00:00",
+ "status": "ok",
+ "note": "variant=hierarchical expansion; 审定公布名词库=1033; 海峡两岸名词对照库=253; 其他来源数据库=32; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "层次的",
+   "en": "hierarchical",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.036",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "以树形节点的形式来描述数据库中的数据之间的关系。"
+  },
+  {
+   "cn": "层次图",
+   "en": "hierarchical graph",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.251",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "用来描绘软件的层次结构图，其中方框表示模块或子模块，连线代表调用关系。"
+  },
+  {
+   "cn": "等级式宇宙",
+   "en": "hierarchical universe",
+   "source": "天文学名词",
+   "wordNumber": "07.461",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "一种认为宇宙结构是分层次等级的宇宙理论。行星绕着恒星运转，恒星组成星系，星系组成星系团、超星系团，等等，如沙利叶宇宙和曼德尔鲍姆提出的分形宇宙。目前的标准宇宙学模型理论认为在大尺度(约100Mpc)以"
+  },
+  {
+   "cn": "等级式成团",
+   "en": "hierarchical clustering",
+   "source": "天文学名词",
+   "wordNumber": "07.572",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "各阶相关函数间存在等级关系的成团性。"
+  },
+  {
+   "cn": "等级关系",
+   "en": "hierarchical relation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.280",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "主题词之间的一种语义关系。两个主题词表达的概念，其中一个概念的外延包括了另一个概念的外延；或者其中一个概念概括地表示某一事物，另一概念仅表示该事物的某一部分或某一方面。可分为属种关系和整体-部分关系。"
+  },
+  {
+   "cn": "等级检索",
+   "en": "hierarchical search",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.112",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "主题目录的一种检索方法。通过叙词之间的“属—分”关系（包括“种—属”关系、“整—部”关系等）逐级扩展，查找某一叙词及其上位类或下位类的叙词所标引的相关信息。"
+  },
+  {
+   "cn": "层累标记制",
+   "en": "hierarchical notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "分类时以标记符号的长度显示类目等级层次的标记制度，即分类号的位数与类目的等级数相对应的标记制度。层累制的分类号可反映类目之间的隶属和并列关系。具体编号方法：用一位数字或一个字母来标志大类，再加一位数字"
+  },
+  {
+   "cn": "层次分类",
+   "en": "hierarchical classification",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.233",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "从含义较广的上位类细分到下位类再一步步细分，直至比较专指的类目的等级式分类方法。"
+  },
+  {
+   "cn": "层次聚类",
+   "en": "hierarchical clustering",
+   "source": "生物物理学名词",
+   "wordNumber": "06.044",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "对数据建立层级的一种聚类算法。通过计算不同类别数据点间的相似度来创建一棵有层次的嵌套聚类树。在聚类树中，不同类别的原始数据点是树的最底层，树的顶层是一个聚类的根节点。创建聚类树有自下而上合并和自上而下"
+  },
+  {
+   "cn": "递阶控制",
+   "en": "hierarchical control",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0806",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "有上下层排列的几个控制级的控制结构。其中较高级的控制器协调下一级控制器的工作。"
+  },
+  {
+   "cn": "层次数据库",
+   "en": "hierarchical database",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0075",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "采用层次数据模型的数据库。"
+  },
+  {
+   "cn": "层次建模",
+   "en": "hierarchical modeling",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0201",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种软件体系结构设计模式。通过软件的层次结构建立体系结构模型，可分为自顶向下和自底向上两种方式。"
+  },
+  {
+   "cn": "层次编址",
+   "en": "hierarchical addressing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0556",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "一种编制方案。把一个地址划分成多个部分，每个部分标识不同层次的颗粒度；例如一个IPv4地址就可能有分别表示网络、子网和主机的3个层次。"
+  },
+  {
+   "cn": "层级制",
+   "en": "hierarchical system",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0370",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "行政组织纵向上分为若干层级，每个层级的工作性质、职能基本相同，但管辖范围逐次降低。"
+  },
+  {
+   "cn": "层次数据库",
+   "en": "hierarchical database",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0175",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "建立在层次模型基础上的数据库。"
+  },
+  {
+   "cn": "递阶对策",
+   "en": "hierarchical game",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0322",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "局中人具有等级差异(或角色差异)的对策。递阶对策是研究参与对策的局中人处于不同“权力”地位的一类对策问题。"
+  },
+  {
+   "cn": "层次模型",
+   "en": "hierarchical model",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0174",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "用树形结构表示实体之间联系的数据模型。其数据结构类似一颗倒置的树，每个节点表示一个记录类型，记录之间的联系是一对多的联系。"
+  },
+  {
+   "cn": "层次聚类法",
+   "en": "hierarchical cluster",
+   "source": "心理学名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "聚类分析的一种方法。其聚类结果间存在着嵌套或层次关系。"
+  },
+  {
+   "cn": "层峰结构",
+   "en": "hierarchical structure",
+   "source": "心理学名词",
+   "wordNumber": "12.077",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "具有严格的命令与控制链的高耸与多层级的组织架构。"
+  },
+  {
+   "cn": "层级分析",
+   "en": "hierarchical analysis",
+   "source": "教育学名词",
+   "wordNumber": "13.025",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "以加涅（Robert M．Gagnè）关于认知学习结果分类中的智力技能（鉴别→概念→规则→高级规则）从低到高的层级关系为依据，剖析达到教学目标所需的次级教学目标、内容及它们之间关系的一种内容分析方法。"
+  },
+  {
+   "cn": "层次的",
+   "en": "hierarchical",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分级的",
+   "en": "hierarchical",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "层次化",
+   "en": "hierarchization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "递阶控制",
+   "en": "hierarchical control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等级组织",
+   "en": "hierarchical organization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级式成团",
+   "en": "hierarchical clustering",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级式结构",
+   "en": "hierarchical structure",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级式模型",
+   "en": "hierarchical model",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级式宇宙",
+   "en": "hierarchical universe",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级系统,层级系统",
+   "en": "hierarchical system",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级扩散",
+   "en": "hierarchical diffusion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "递阶系统",
+   "en": "hierarchical system",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "系统聚类",
+   "en": "hierarchical clustering",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "层次存储",
+   "en": "hierarchical storage",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层次分区",
+   "en": "hierarchical districts",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层次关系",
+   "en": "hierarchical relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层次结构",
+   "en": "hierarchical structure",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层次模型",
+   "en": "hierarchical model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层次数据库",
+   "en": "hierarchical database",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层次序列",
+   "en": "hierarchical sequence",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层次模型",
+   "en": "hierarchical model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "层次化方法",
+   "en": "hierarchical approach",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分层聚类算法",
+   "en": "hierarchical clustering algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "凝聚层次聚类",
+   "en": "agglomerative hierarchical clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "层次结构和关系服务",
+   "en": "hierarchical structure and relationship service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扩展比",
+   "en": "expansion ratio",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "睦内图外",
+   "en": "Unity Within and Expansion Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多种方式扩大产能和增加产量",
+   "en": "to expand capacity and increase output in a variety of ways",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展度",
+   "en": "extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加时赛",
+   "en": "extension\",\"overtime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expel\",\"expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据爆炸",
+   "en": "data explosion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "枪托延伸部",
+   "en": "butt extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教阶制度/教权制",
+   "en": "hierarchism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.6",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "教会法中规定的天主教神职人员的教职等级、教务管理的制度。"
+  },
+  {
+   "cn": "等级议会",
+   "en": "hierarchical council",
+   "source": "马克思主义",
+   "wordNumber": "03.0050",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "西方议会的前身。在君主专制统治下，贵族、僧侣和市民阶层的力量逐步扩大，要求相应的政治权力。国王不得不让渡权力，不定期召开由贵族、教士和市民三个不同等级的代表组成的“等级议会”或“三级会议”。新兴资产阶"
+  },
+  {
+   "cn": "分级医疗体系",
+   "en": "hierarchical medical system",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为管理上的需要，将三级职能水平的应急医疗任务相应地落实到各医疗机构中而形成的二级或三级职责分工明确、又有机衔接的负责核或辐射应急医学处理的阶梯性医疗体系。通常一级为现场处置，二级为当地救治，三级为专科"
+  },
+  {
+   "cn": "贝叶斯层次模型",
+   "en": "Bayesian hierarchical model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.91",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种使用贝叶斯方法估计后验分布参数的多层次统计模型。"
+  },
+  {
+   "cn": "胸廓活动度",
+   "en": "chest expansion",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "用于检查胸廓的活动程度的指标。患者双手处于休息位或置于脑后；于前面第4肋间隙为测量部位；记录尽可能深吸气和深呼气时胸围的差距，以cm为单位（如4.2cm）；取两次测量的均值。"
+  },
+  {
+   "cn": "扩展不确定度",
+   "en": "expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.27",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "合成标准不确定度与一个大于1的数字因子的乘积。"
+  },
+  {
+   "cn": "扩大再生产",
+   "en": "expanded reproduction",
+   "source": "马克思主义",
+   "wordNumber": "02.0209",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "相对于简单再生产而言的另一种再生产的形式，生产过程在扩大规模上的重复进行。主要有两种形式或方式：外延的扩大再生产和内含的扩大再生产。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "expanded uncertainty",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.66",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "与测量结果相关联的、表征合理的赋予被测量的值分散性的参数。是描述未定误差特征的量值。"
+  },
+  {
+   "cn": "相对扩展不确定度",
+   "en": "relative expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.28",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "扩展不确定度除以测量结果的百分率。"
+  },
+  {
+   "cn": "扩大的价值形式",
+   "en": "total or expanded form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0062",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展过程的第二阶段。一种商品的价值以一系列其他商品来表现的价值形式。从简单价值形式发展到总和的或扩大的价值形式表明商品交换关系的发展与扩大。"
+  },
+  {
+   "cn": "防爆",
+   "en": "anti-explosion",
+   "source": "消毒学",
+   "wordNumber": "5.1.9.3",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在消毒产品的生产和存储过程中，有效控制易燃易爆因素，防止爆炸发生的措施。如预防易燃易爆物质的泄露，尽量减少使用电火花的元器件等措施。"
+  },
+  {
+   "cn": "核爆炸",
+   "en": "nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.40",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "利用核裂变或核聚变反应，瞬时释放巨大能量的爆炸现象。核武器以这种方式实现其杀伤破坏效果。在不同介质和不同高度处爆炸，其杀伤破坏效应差别很大。其方式的选择取决于作战任务、攻击目标、地形地貌等因素。"
+  },
+  {
+   "cn": "大气层核爆炸",
+   "en": "atmospheric nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "地面以上的核爆炸。包括地（水）面核爆炸和爆炸高度在海拔30km以下的空中核爆炸。有利于对核爆炸产生的力学、光学、核辐射、电磁脉冲和放射性沾染等效应进行观测和研究，为核防护和核武器使用提供数据。"
+  },
+  {
+   "cn": "地下核爆炸",
+   "en": "underground nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "地面以下一定深度的核爆炸。按比深不同可分为浅层地下核爆炸和封闭式地下核爆炸。"
+  },
+  {
+   "cn": "水下核爆炸",
+   "en": "underwater nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "核武器在水面以下的爆炸。用于破坏水下、水面舰艇和水中设施。爆炸会造成局部水域严重放射性污染。水下核爆炸火球比空爆小，爆心附近水域被火球照亮，形成明亮发光区；爆心上面的水被掀起可形成不同高度的中空水柱，"
+  },
+  {
+   "cn": "核爆炸装置",
+   "en": "nuclear explosion device",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.8",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "具有核爆炸功能的裂变装置或聚变装置，是原子弹或氢弹的核心组成部分。核装置用于各种目的的核试验时，可以只是一种物理装置，而不是武器。按照核武器作战使用目的而设计制造的核装置，加上引爆控制系统和相应的结构"
+  },
+  {
+   "cn": "核爆炸方式",
+   "en": "types of nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "核武器或核装置在不同介质、不同高度爆炸的类型。分为高空核爆炸、大气层核爆炸、地下核爆炸和水下核爆炸四类。"
+  },
+  {
+   "cn": "高空核爆炸",
+   "en": "high-altitude nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "高度在海拔30km以上的核爆炸。包括外层空间核爆炸。爆心海拔80km以下的高空核爆炸与空中核爆炸特征相似；爆心距地面60km～80km处，可能形成厚度10 km～15km的饼状火球。80km以上高空核"
+  },
+  {
+   "cn": "宫内节育器脱落",
+   "en": "expulsion of intrauterine device",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "宫内节育器置入宫腔后，逐渐移位到宫颈管或宫颈外口的（部分脱落），或移位到阴道或体外（完全脱落）的现象。根据脱落程度会引起出血、腹痛，带器妊娠或意外妊娠。"
+  },
+  {
+   "cn": "核爆炸景象",
+   "en": "view of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.45",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸时，产生特异的外观景象。除地下（水下）爆炸外，其共同的特点是依次出现闪光、火球、蘑菇状烟云，并发出巨大响声。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

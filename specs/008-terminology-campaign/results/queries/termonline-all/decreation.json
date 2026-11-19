@@ -1,0 +1,522 @@
+{
+ "key": "decreation",
+ "term": "décreation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:23:30+00:00",
+ "status": "ok",
+ "note": "variant=décreation; 审定公布名词库=74; 海峡两岸名词对照库=20; 其他来源数据库=9; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "游憩",
+   "en": "recreation",
+   "source": "地理学名词",
+   "wordNumber": "21.076",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "一种愉快的，并得到社会承认的活动。它有利于个体的恢复，并使之获得休闲体验。"
+  },
+  {
+   "cn": "创造",
+   "en": "creation",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.003",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人们为实现某种目的并使用某种手段而把以前没有的事物创立或者制造出来的过程及其结果。具体包括发明、创建和创作等活动。"
+  },
+  {
+   "cn": "创作",
+   "en": "creation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.01.016",
+   "subjectFullName": "编辑与出版学_著作权_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "直接产生文学、艺术和科学作品的智力活动。"
+  },
+  {
+   "cn": "产生",
+   "en": "creation",
+   "source": "物理学名词",
+   "wordNumber": "06.0678",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "风景游憩",
+   "en": "scenic recreation",
+   "source": "风景园林名词",
+   "wordNumber": "01.0067",
+   "subjectFullName": "风景园林_总论_风景名胜",
+   "subjectName": "风景名胜",
+   "publishYear": "2025",
+   "definition": "在良好的自然环境中进行休闲游憩、旅游观光、娱乐健身、科学考察等活动。"
+  },
+  {
+   "cn": "户外游憩",
+   "en": "outdoor recreation",
+   "source": "风景园林名词",
+   "wordNumber": "13.0024",
+   "subjectFullName": "风景园林_其他_景观社会学",
+   "subjectName": "景观社会学",
+   "publishYear": "2025",
+   "definition": "在户外（包括从城市公园到野外的各种各样的场所）进行的有组织的和个人活动。"
+  },
+  {
+   "cn": "游憩设施",
+   "en": "recreation facility",
+   "source": "风景园林名词",
+   "wordNumber": "08.1214",
+   "subjectFullName": "风景园林_风景园林工程_风景园林设施",
+   "subjectName": "风景园林设施",
+   "publishYear": "2025",
+   "definition": "园林中设置的供游人游览、观赏或开展游憩活动的各类设备、装置、建（构）筑物等。"
+  },
+  {
+   "cn": "草地游憩",
+   "en": "rangeland recreation ",
+   "source": "草学名词",
+   "wordNumber": "3.0015",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "文娱治疗",
+   "en": "recreation therapy",
+   "source": "运动医学名词",
+   "wordNumber": "07.117",
+   "subjectFullName": "运动医学_运动康复_物理治疗技术_运动治疗",
+   "subjectName": "运动治疗",
+   "publishYear": "2019",
+   "definition": "有医疗针对性的球类运动、游戏等各种娱乐性活动。最常见的有乒乓球、羽毛球、门球等，不包括激烈对抗竞争的运动。"
+  },
+  {
+   "cn": "森林游憩",
+   "en": "forest recreation",
+   "source": "林学名词",
+   "wordNumber": "05.211",
+   "subjectFullName": "林学_森林培育_城市森林与森林游憩",
+   "subjectName": "城市森林与森林游憩",
+   "publishYear": "2016",
+   "definition": "人们利用休闲时间，自由选择地在森林环境中进行的、以恢复体力和获得愉悦感受为主要目的的所有活动的总和。"
+  },
+  {
+   "cn": "休憩区",
+   "en": "recreation area",
+   "source": "林学名词",
+   "wordNumber": "09.080",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "城市绿地中提供游憩活动的场地。"
+  },
+  {
+   "cn": "文娱疗法",
+   "en": "recreation therapy",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.140",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "有医疗目的的球类运动、游戏等各种娱乐性活动。"
+  },
+  {
+   "cn": "草地游憩",
+   "en": "rangeland recreation",
+   "source": "资源科学技术名词",
+   "wordNumber": "10.018",
+   "subjectFullName": "资源科学技术_草地资源学",
+   "subjectName": "草地资源学",
+   "publishYear": "2008",
+   "definition": "在草地上进行的观光浏览、科学考察、探险、度假休闲、旅游。包括野营、野餐、骑乘、狩猎、爬山、漂流、探险、滑雪等休闲旅游活动。"
+  },
+  {
+   "cn": "游憩广场",
+   "en": "recreation square",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.142",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "用于休息、游乐、礼仪、集会等活动、面积很大的场地。"
+  },
+  {
+   "cn": "旅游生态学",
+   "en": "recreation ecology",
+   "source": "生态学名词",
+   "wordNumber": "01.068",
+   "subjectFullName": "生态学_总论",
+   "subjectName": "总论",
+   "publishYear": "2006",
+   "definition": "研究旅游资源、旅游设施、旅游者、旅游经营者、本底生态系统以及旅游点当地居民间相互关系及其规划、建设、管理的学科。包括生态哲学、生态科学、生态工程和生态美学四个层次。"
+  },
+  {
+   "cn": "森林游憩",
+   "en": "forest recreation",
+   "source": "生态学名词",
+   "wordNumber": "17.095",
+   "subjectFullName": "生态学_城市生态学、生态工程学和产业生态学",
+   "subjectName": "城市生态学、生态工程学和产业生态学",
+   "publishYear": "2006",
+   "definition": "人们利用休闲时间，在森林环境中自由选择地进行的、以恢复体力和获得愉悦感受为主要目的同时又不破坏森林的所有活动的总和。"
+  },
+  {
+   "cn": "社区游憩",
+   "en": "community recreation",
+   "source": "地理学名词",
+   "wordNumber": "21.023",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "对源于当地公园和游览设施，用于满足当地居民需求的游览活动的总称。"
+  },
+  {
+   "cn": "户外游憩",
+   "en": "outdoor recreation",
+   "source": "地理学名词",
+   "wordNumber": "21.072",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "在户外(包括从城市公园到野外的各种各样的场所)进行的有组织的和个人活动。"
+  },
+  {
+   "cn": "休息娱乐区",
+   "en": "recreation area",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.191",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "贸易创造",
+   "en": "trade creation",
+   "source": "农学名词",
+   "wordNumber": "19.144",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "贸易国之间因降低贸易障碍而扩大的贸易增量。"
+  },
+  {
+   "cn": "游憩",
+   "en": "recreation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "创造论上帝创造的天地",
+   "en": "Creation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "森林游憩",
+   "en": "forest recreation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "旅游生态学",
+   "en": "recreation ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "户外游憩",
+   "en": "outdoor recreation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "社区游憩",
+   "en": "community recreation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电子偶产生",
+   "en": "pair creation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "贸易开拓",
+   "en": "trade creation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生成日期",
+   "en": "creation date",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生成时间",
+   "en": "creation time",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据库创建",
+   "en": "database creation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "创建日期",
+   "en": "creation date",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文件创建",
+   "en": "file creation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世界之创造",
+   "en": "Creation dumonde\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Milhaud, Darius"
+  },
+  {
+   "cn": "游憩商业区",
+   "en": "recreation business district",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "游憩机会谱",
+   "en": "recreation opportunity spectrum\",\"ROS",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贸易开拓效果",
+   "en": "trade creation effect",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "创世和谐",
+   "en": "harmony of Creation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "神创论（=特创论）",
+   "en": "creationism\",\"theory of special creation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特创论，神创论",
+   "en": "creationism\",\"theory of special creation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内容制作",
+   "en": "content creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值创造",
+   "en": "value creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用创造",
+   "en": "credit creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器创作",
+   "en": "machine creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景力",
+   "en": "scenario creation capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络二次创作",
+   "en": "online secondary creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗家三昧",
+   "en": "The Key to Poetic Creation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "迁想妙得",
+   "en": "Inspirational Creation Based on Association in Thinking",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创世神话",
+   "en": "creation myth",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0335",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "关于天地开辟、人类和万物起源的神话；是人类幼年时期用幻想的形式对自然、宇宙所作的幼稚解释与描述，反映出古代人对天地宇宙和人类由来的原始观念。这类神话大体可以分为由神来开辟天地、由巨人化生万物和自然演化"
+  },
+  {
+   "cn": "创世史诗",
+   "en": "creation epic",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0341",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以创世神话为基本内容，以天地、万物、人类、社会、文化之起源、演变、发展为内容的史诗。如彝族的《梅葛》、《查姆》、《阿细的先基》和《勒俄特依》，纳西族的《创世纪》，白族的《创世纪》，哈尼族的《十二奴局》"
+  },
+  {
+   "cn": "民族团结进步创建",
+   "en": "Creation of Ethnic Unity and Progress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0101",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "在中国共产党领导下，由政府主导、各民族群众广泛参与、创造性地推进民族团结和各民族共同进步的社会活动。中国的民族团结进步创建，始于上世纪50 年代吉林省延边朝鲜族自治州的民族团结宣传月活动，现已成为中国"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,52 @@
+{
+ "key": "impossibilism",
+ "term": "impossibilism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T23:59:16+00:00",
+ "status": "ok",
+ "note": "variant=impossibilism; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "阿罗［不可能］定理",
+   "en": "Arrow’s impossibility theorem",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.167",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "有关从个人偏好推论社会选择观点的一个论点。其核心是从个人偏好到社会选择的转化是相当困难的，甚至是不可能的。"
+  },
+  {
+   "cn": "阿罗不可能性定理",
+   "en": "Arrow’s impossibility theorem",
+   "source": "经济学名词",
+   "wordNumber": "05.005",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "在通常情况下，当社会所有成员的偏好为已知时，不可能通过一定的方法从个人偏好次序得出社会偏好次序，不可能通过一定的程序准确地表达社会全体成员的个人偏好或者达到合意的公共决策。"
+  },
+  {
+   "cn": "阿罗不可能性定理",
+   "en": "Arrow’s impossibility theorem",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0240",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "群体决策中关于序数偏爱分析理论的基本定理。1951年，阿罗(Kenneth J. Arrow)在《社会选择与个人价值》的著作中提出社会选择中如果要求满足各种备选方案的广泛性、一致性、独立性和非独裁性，"
+  },
+  {
+   "cn": "空间不可能定理",
+   "en": "the spatial impossibility theorem",
+   "source": "经济学名词",
+   "wordNumber": "08.073",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "1978年由斯塔雷特提出。该定理指如果空间是同质的并且运输成本高昂，距离较远的区位间就不存在竞争性均衡。换句话说，在一个封闭、同质的空间，行为主体是可移动的，并具有规模报酬不变的生产技术的模型无法解释"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
