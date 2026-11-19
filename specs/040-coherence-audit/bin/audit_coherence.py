@@ -22,6 +22,7 @@ import re
 import sys
 from collections import Counter
 from datetime import datetime, timezone
+from urllib.parse import urlparse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(HERE)))
@@ -326,10 +327,17 @@ flag(miscites, "F ADR 语义错引 %d 处" % len(miscites))
 report["F_adr_miscites"] = miscites
 
 # ============ G. 规范层 O/F 冲突（FAIL 旗标化） ============
+def text_contains_host_url(text, host):
+    for u in re.findall(r"https?://[^\s)>\]\"']+", text):
+        h = (urlparse(u).hostname or "").lower()
+        if h == host or h.endswith("." + host):
+            return True
+    return False
+
 conf = []
 r06 = read("rules/06-governance.md")
 r03 = read("rules/03-terminology.md")
-if "dict.cnki.net" in r03 and "不再新增查询" not in r03.split("## 译名依据优先级")[1].split("##")[0]:
+if text_contains_host_url(r03, "dict.cnki.net") and "不再新增查询" not in r03.split("## 译名依据优先级")[1].split("##")[0]:
     conf.append("rules/03 优先级节未标注 CNKI/术语在线冻结（F-19）")
 if "四类勘误可就地改" in r01:
     conf.append("rules/01 仍载就地改正线（F-20）")
