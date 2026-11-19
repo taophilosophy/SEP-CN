@@ -1,0 +1,632 @@
+{
+ "key": "brauner torben",
+ "term": "Braüner Torben",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:33:25+00:00",
+ "status": "ok",
+ "note": "variant=Braüner Torben; 审定公布名词库=109; 海峡两岸名词对照库=45; 其他来源数据库=24; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "培训师",
+   "en": "trainer",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0525",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "通过示范、讲解、演练等手段，提升受训者专长的人员。"
+  },
+  {
+   "cn": "培训师",
+   "en": "trainer",
+   "source": "教育学名词",
+   "wordNumber": "12.015",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "得到相关资格认定，具有人力资源培训项目开发、内容设计与实施训练活动能力的培训工作者。"
+  },
+  {
+   "cn": "教练机",
+   "en": "trainer",
+   "source": "航空科学技术名词",
+   "wordNumber": "02.027",
+   "subjectFullName": "航空科学技术_航空器",
+   "subjectName": "航空器",
+   "publishYear": "2003",
+   "definition": "培训驾驶员用的飞机。"
+  },
+  {
+   "cn": "托森差速器",
+   "en": "Torsen differential",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.173",
+   "subjectFullName": "机械工程_汽车_底盘_主减速器与差速器",
+   "subjectName": "主减速器与差速器",
+   "publishYear": "2013",
+   "definition": "半轴齿轮采用蜗杆、行星轮为蜗轮，左右行星轮架由圆柱齿轮相联系的差速机构。"
+  },
+  {
+   "cn": "接锯机",
+   "en": "brazer",
+   "source": "林学名词",
+   "wordNumber": "11.651",
+   "subjectFullName": "林学_木材科学与技术_木材加工机械",
+   "subjectName": "木材加工机械",
+   "publishYear": "2016",
+   "definition": "用于带锯条的连接作业，其连接工序有焊接、磨平、修正等。"
+  },
+  {
+   "cn": "页旗",
+   "en": "banner",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.139",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "在一个网页页面上建立的文本滚动超文本标记语言(HTML)标志。页旗是网络广告的主要形式，通常放在页面的顶部，比如页面标题。"
+  },
+  {
+   "cn": "降雨装置",
+   "en": "rainer",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "07.171",
+   "subjectFullName": "机械工程_仪器仪表_实验室仪器和装置_气候环境试验设备_气候环境试验设备零部件及附件",
+   "subjectName": "气候环境试验设备零部件及附件",
+   "publishYear": "2003",
+   "definition": "模拟自然降雨状态，并能周期地控制降雨量大小的装置。"
+  },
+  {
+   "cn": "牛腿",
+   "en": "corbel",
+   "source": "电力名词",
+   "wordNumber": "14.255",
+   "subjectFullName": "电力_水工与金属结构",
+   "subjectName": "水工与金属结构",
+   "publishYear": "2020",
+   "definition": "承受吊车梁集中荷载的短悬臂。"
+  },
+  {
+   "cn": "吸着剂",
+   "en": "sorbent",
+   "source": "物理学名词",
+   "wordNumber": "08.2729",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "荒溪",
+   "en": "torrent",
+   "source": "林学名词",
+   "wordNumber": "08.084",
+   "subjectFullName": "林学_水土保持与荒漠化防治_水土保持",
+   "subjectName": "水土保持",
+   "publishYear": "2016",
+   "definition": "山区流域面积在20~50 km²以下具有经常流水或季节性流水的山洪沟道。"
+  },
+  {
+   "cn": "山洪",
+   "en": "torrent",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "运动防护师",
+   "en": "athletic trainer",
+   "source": "运动医学名词",
+   "wordNumber": "07.010",
+   "subjectFullName": "运动医学_运动康复_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "从事运动损伤和疾病的预防、评估、急救、治疗和康复的人员。"
+  },
+  {
+   "cn": "踏步器",
+   "en": "bicycle trainer",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.192",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "用于下肢踏步活动的训练器具。"
+  },
+  {
+   "cn": "踏步器",
+   "en": "bicycle trainer",
+   "source": "物理医学与康复名词",
+   "wordNumber": "05.083",
+   "subjectFullName": "物理医学与康复_物理治疗与康复器具设备_运动、作业康复器具设备",
+   "subjectName": "运动、作业康复器具设备",
+   "publishYear": "2014",
+   "definition": "固定的、可通过双下肢轮流交替蹬踩的训练设备。适用于下肢肌力、协调性训练及有氧训练的设备。有立式和坐式两种。"
+  },
+  {
+   "cn": "布吕克纳周期",
+   "en": "Brükner cycle",
+   "source": "地理学名词",
+   "wordNumber": "16.047",
+   "subjectFullName": "地理学_古地理学",
+   "subjectName": "古地理学",
+   "publishYear": "2006",
+   "definition": "长度约为35年的冷暖或干湿气候变化周期。"
+  },
+  {
+   "cn": "膜",
+   "en": "brane",
+   "source": "天文学名词",
+   "wordNumber": "07.651",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "弦论中维度小于空间维度的一种物理客体。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive,sorbent",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0046",
+   "subjectFullName": "机械工程_动力机械_锅炉_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "为了不同的目的直接加入到燃料、炉膛、烟道中的物质。"
+  },
+  {
+   "cn": "牛腿",
+   "en": "bracket,corbel",
+   "source": "土木工程名词",
+   "wordNumber": "05.151",
+   "subjectFullName": "土木工程_建筑结构_连接与构造",
+   "subjectName": "连接与构造",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "词元",
+   "en": "token",
+   "source": "计算机科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "计算机科学技术_人工智能",
+   "subjectName": "人工智能",
+   "publishYear": "2026",
+   "definition": ""
+  },
+  {
+   "cn": "标码",
+   "en": "token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0670",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "佩特里网中一个标识 M在某库所s上的取值M(s)称为库所s 中的标码数。用图形表示时，一个标码用一个圆点表示。"
+  },
+  {
+   "cn": "洪流，激流",
+   "en": "torrent",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吸着剂",
+   "en": "sorbent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "令牌",
+   "en": "token",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "权标，令牌",
+   "en": "token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旗云",
+   "en": "banner cloud",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "肌旗",
+   "en": "muscle banner",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "科尔坦耐大气腐蚀钢",
+   "en": "Corten steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "托伦试剂",
+   "en": "Tollen reagent",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "半地堑",
+   "en": "half-garben",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "旗瓣",
+   "en": "standard\",\"vexil\",\"banner",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冰肋",
+   "en": "ogives\",\"Forbes bands",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "克拉斯纳",
+   "en": "Krasner\",\"Louis(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代币法",
+   "en": "token economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "色块测验",
+   "en": "token test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "象征性出口",
+   "en": "token export",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "象征性进口",
+   "en": "token import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单个记号",
+   "en": "single token",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标记变量",
+   "en": "token variable",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记类型",
+   "en": "token type",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标识权标",
+   "en": "identity token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教练员",
+   "en": "trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教练员",
+   "en": "trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旗帜",
+   "en": "banner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教练员",
+   "en": "coach\",\"trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教练员",
+   "en": "coach\",\"trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教练员",
+   "en": "coach\",\"trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教练员",
+   "en": "coach\",\"trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护臂",
+   "en": "armguard\",\"bracer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护臂",
+   "en": "armguard\",\"bracer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "触身球",
+   "en": "beanball\",\"beaner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "physical trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "physical trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教练员",
+   "en": "coach\",\"trainer\",\"monitor",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "古尔邦节",
+   "en": "Corban Festival",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0226",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国回、维吾尔、哈萨克、柯尔克孜、东乡、撒拉、乌孜别克、塔吉克、塔塔尔、保安等多民族的共同节日之一。在回历每年的12 月10 日，节日期间举行盛大的仪式和庆祝活动，宰杀牲畜。中国新疆地区的穆斯林在节日"
+  },
+  {
+   "cn": "盟旗制度",
+   "en": "league-banner system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0199",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "清朝治理蒙古的政治制度。旗既是军政合一的单位，又是清朝赐给旗内各级蒙古封建主的世袭领地。蒙古地区之旗，分为总管旗和札萨克旗两种。总管旗由中央设总管直接统辖。若干扎萨克旗组成盟，以固定的会盟地点命名。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,712 @@
+{
+ "key": "textes inedits",
+ "term": "Textes inédits",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:38:24+00:00",
+ "status": "ok",
+ "note": "variant=Textes inédits; 审定公布名词库=563; 海峡两岸名词对照库=122; 其他来源数据库=21; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.062",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "以字母、符号、字、短语、段落、句子、表格或者其他字符排列形式出现，用于表达特定意义的数据。"
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.109",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "一种被赋予不同意义的纯粹的传播内容。"
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.672",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "一个字符流，由一连串的字符组成，是计算机表示文字信息的一种媒体。"
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "语言学名词",
+   "wordNumber": "01.192",
+   "subjectFullName": "语言学_计算语言学_语篇处理",
+   "subjectName": "语篇处理",
+   "publishYear": "2011",
+   "definition": "书面语言的符号串。是语言信息处理的对象。"
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "语言学名词",
+   "wordNumber": "01.192",
+   "subjectFullName": "语言学_理论语言学_交叉学科术语",
+   "subjectName": "交叉学科术语",
+   "publishYear": "2011",
+   "definition": "①任何以一段语言材料，根据其结构或者主题形成一个整体，可以是书面的，也可以是口头的。②在话语分析里面，专指一段书面语言材料，话语则专指一段口语材料。"
+  },
+  {
+   "cn": "正文",
+   "en": "text",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0741",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "电文",
+   "en": "text",
+   "source": "航海科技名词",
+   "wordNumber": "14.0139",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "文字排版",
+   "en": "text typesetting;text composition",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.026",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "按照版式设计的要求，将字符输入并安排在指定位置或范围内的过程。"
+  },
+  {
+   "cn": "串文",
+   "en": "text stringing;text wrapping",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.035",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "在标题、图表旁边排正文。"
+  },
+  {
+   "cn": "棺文",
+   "en": "Coffin Texts",
+   "source": "世界历史名词",
+   "wordNumber": "02.0092",
+   "subjectFullName": "世界历史_古代中世纪_北非",
+   "subjectName": "北非",
+   "publishYear": "2012",
+   "definition": "古埃及第一中间期和中王国时期刻在贵族死者棺木内外两侧的宗教文献，为死者提供指引方向的祈祷文和颂歌以及咒语。"
+  },
+  {
+   "cn": "金字塔铭文",
+   "en": "Pyramid Texts",
+   "source": "世界历史名词",
+   "wordNumber": "02.0085",
+   "subjectFullName": "世界历史_古代中世纪_北非",
+   "subjectName": "北非",
+   "publishYear": "2012",
+   "definition": "古埃及刻在金字塔内壁上、用以保佑法老或王后死后幸福与升天的丧仪祷词、颂歌和符咒等宗教文献。"
+  },
+  {
+   "cn": "评注本",
+   "en": "annotated text",
+   "source": "档案学名词",
+   "wordNumber": "04.03.035",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "编者对选入的档案材料正文进行评论、注释的出版形式。"
+  },
+  {
+   "cn": "综论本",
+   "en": "commented text",
+   "source": "档案学名词",
+   "wordNumber": "04.03.036",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "包含政治、经济、文化、社会等方面主题内容的综合性汇编。"
+  },
+  {
+   "cn": "文本文件",
+   "en": "text records",
+   "source": "档案学名词",
+   "wordNumber": "06.01.023",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "使用文字处理软件生成的由字、词、数字或符号表达的文件。"
+  },
+  {
+   "cn": "文字记者",
+   "en": "text reporter",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.04",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "以撰写文字稿为主要工作的记者。"
+  },
+  {
+   "cn": "文字输入",
+   "en": "text input",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.020",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "将文字信息输入系统或设备中的过程。"
+  },
+  {
+   "cn": "书芯",
+   "en": "text block",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.098",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "书刊封面以内或未上封面之前订联在一起的书帖及环衬。"
+  },
+  {
+   "cn": "文字脚本",
+   "en": "text script",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.168",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "电子出版物著作者用文字表述的底本。在编排过程中，编导者可根据需要增删其内容或程序功能。"
+  },
+  {
+   "cn": "格式化文本",
+   "en": "formatted text",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.056",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "进行过某种格式化处理的文本。"
+  },
+  {
+   "cn": "电子文本",
+   "en": "electronic text",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.03.017",
+   "subjectFullName": "编辑与出版学_数字出版_电子出版",
+   "subjectName": "电子出版",
+   "publishYear": "2022",
+   "definition": "一种以电子媒体形式存在的、可在联机方式下使用或通过在线获得的基于文字的作品。"
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正文",
+   "en": "text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "图形文本",
+   "en": "graphic text",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本窗口",
+   "en": "text window",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本对象",
+   "en": "text object",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本符号",
+   "en": "text symbol",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本框",
+   "en": "text rectangle",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本属性",
+   "en": "text attribute",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本数据",
+   "en": "text data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本文件",
+   "en": "text file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本样式",
+   "en": "text style",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文字说明",
+   "en": "descriptive text",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "说明注记",
+   "en": "explanatory text",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "测试文本",
+   "en": "test text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子文本",
+   "en": "e-text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离散文本",
+   "en": "discrete text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续文本",
+   "en": "continuous text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "篇章分析",
+   "en": "text analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卦爻辞",
+   "en": "Hexagram Texts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本数据",
+   "en": "text data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本表示",
+   "en": "text representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本匹配",
+   "en": "text matching",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本生成",
+   "en": "text generation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本聚类",
+   "en": "text clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本大数据分析",
+   "en": "Text Big Data Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "右手拳手",
+   "en": "dexter\",\"right-handed",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缓缴税款",
+   "en": "deferment of taxes",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI/INCITS/ISO/IEC 2382-2015 信息技术 词汇》",
+   "en": "ANSI/INCITS/ISO/IEC 2382:2015 Information technology — Vocabulary",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI INCITS 378-2009 信息技术 数据交换用指纹匹配格式 》",
+   "en": "ANSI INCITS 378-2009 Information technology — Finger minutiae format for data interchange",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI INCITS 475-2011 信息技术 光纤通道 互联网路由选择》",
+   "en": "ANSI INCITS 475-2011 Information technology — Fibre channel — Inter-fabric routing (FC-IFR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI/INCITS/ISO/IEC 13888-1-2009 信息技术 安全技术 不可否认性 第1部分：总论》",
+   "en": "ANSI/INCITS/ISO/IEC 13888-1:2009 Information technology — Security techniques — Non-repudiation — Part 1: General",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI/INCITS/ISO/IEC 2382-28-1995 信息技术 词汇 第28部分：人工智能 基本概念和专家系统》",
+   "en": "ANSI/INCITS/ISO/IEC 2382-28:1995 Information technology — Vocabulary — Part 28: Artificial intelligence — Basic concepts and expert systems",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "轻关易道，通商宽农",
+   "en": "Lighten Taxes, Secure Trade Routes, Promote Commercial Business and Support Agriculture",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI ISO/IEC 2382-28-1995 信息技术 词表 第28部分：人工智能 INCITS采纳的基本概念和专家系统》",
+   "en": "ANSI ISO/IEC 2382-28:1995 Information technology — Vocabulary — Part 28: Artificial intelligence — Basic concepts and expert systems adopted by INCITS",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI/INCITS/ISO/IEC 29500-1-2009 信息技术 文档描述和处理语言 办公开放XML文档格式 第1部分：基本知识和标记语言参照》",
+   "en": "ANSI/INCITS/ISO/IEC 29500-1:2009 Information technology — Document description and processing languages — Office open XML file formats — Part 1: Fundamentals and markup language reference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0235",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "书面语言的表现形式，从文学角度说，通常是具有完整、系统含义的一个句子或多个句子的组合。一个文本可以是一个句子、一个段落或者一个篇章。"
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.6",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以传递某种信息或意义的一组有内在关联的符号集。"
+  },
+  {
+   "cn": "民俗文本",
+   "en": "folklore texts",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0498",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "收集和记录下的某一具体的民俗事象，其类型包括田野、书面记录，以及许多通过现代手段保存下来的民俗形态，诸如录音、录像等。"
+  },
+  {
+   "cn": "抗力测试仪",
+   "en": "resistance tester",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于测定试验微生物抗力，鉴定生物指示物和化学指示物并对温度、浓度、压力及其作用时间均有严格规定的专用设备。如压力蒸汽灭菌指示物抗力测定仪、环氧乙烷灭菌指示物抗力测定仪和过氧化氢气体灭菌指示物抗力测定仪"
+  },
+  {
+   "cn": "四大考验",
+   "en": "four tests",
+   "source": "马克思主义",
+   "wordNumber": "03.0786",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在纪念建党九十周年大会的讲话中，胡锦涛首次提出。指的是在世情、国情、党情发生深刻变化的新形势下，提高党的领导水平和执政水平、提高拒腐防变和抵御风险能力，加强党的执政能力建设和先进性建设，面临的执政考验"
+  },
+  {
+   "cn": "甲状腺功能测定仪",
+   "en": "thyroid function tester",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "通过服用放射药物后测量甲状腺的放射性计数来评价甲状腺功能的仪器。"
+  },
+  {
+   "cn": "抗菌药物敏感试验",
+   "en": "antimicrobial susceptibility tests",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.21.8",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "检测受试菌被一系列不同抗菌药物抑制或杀灭程度的方法"
+  },
+  {
+   "cn": "微波漏能测试仪",
+   "en": "microwave energy leakage tester",
+   "source": "消毒学",
+   "wordNumber": "2.2.4.4",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "用于测定微波设备泄漏量的专用仪器。"
+  },
+  {
+   "cn": "试验菌量",
+   "en": "number of tested bacteria",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.4.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒试验中试验微生物的数量，单位以菌落形成单位每片（CFU/片）、菌落形成单位每样本（CFU/样本）、菌落形成单位每毫升（CFU/mL）等表示。"
+  },
+  {
+   "cn": "印染织物",
+   "en": "painted and dyed textiles",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0371",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "经涂染或敷印带有单色或多色花纹的纺织物。丝织品种一般有纱、罗、绫、绢、纺、绡、绉、锦、缎、绨、葛、呢、绒、绸；印花品种有直接印花、夹缬、绞缬、蜡缬、灰缬。"
+  },
+  {
+   "cn": "有害健康产品征税",
+   "en": "excise taxes on bads",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.2.3",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策",
+   "subjectName": "健康危害行为公共政策",
+   "publishYear": "2025",
+   "definition": "对危害健康产品进行征税，以提高其价格，减少其需求和消费的行为。"
+  },
+  {
+   "cn": "多次完整皮肤刺激试验",
+   "en": "multiple integral skin irritation tests",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.17.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "多次刺激完整的实验动物皮肤后，以皮肤刺激和皮肤腐蚀为观察终点的试验。"
+  },
+  {
+   "cn": "禁止在大气层、外层空间和水下进行核武器试验条约",
+   "en": "Treaty Banning Nuclear Weapon Tests in the Atmosphere，in Outer Space and Underwater，LTBT/PTBT",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.1",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1963年8月5日美、苏、英签署的“部分禁止核试验条约”，禁止在大气层、外层空间和水下进行核试验，三方开始了以地下核试验进行核军备竞赛。到1990年11月共有117个国家加入该条约。由于条约具有核垄断"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

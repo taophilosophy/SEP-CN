@@ -1,0 +1,22 @@
+{
+ "key": "syadvadamanjari",
+ "term": "Syādvādamañjarī",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:32:07+00:00",
+ "status": "ok",
+ "note": "variant=Syādvādamañjarī; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "cdma20001xEV-DV系统",
+   "en": "cdma2000 1x EV-DV",
+   "source": "通信科学技术名词",
+   "wordNumber": "12.031",
+   "subjectFullName": "通信科学技术_移动通信",
+   "subjectName": "移动通信",
+   "publishYear": "2007",
+   "definition": "cdma20001x的一种扩展系统。在一个载频可同时支持语音和高速分组数据业务，而且前、后向完全兼容。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

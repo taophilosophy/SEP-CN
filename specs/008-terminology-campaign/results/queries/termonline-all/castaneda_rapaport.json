@@ -1,0 +1,52 @@
+{
+ "key": "castaneda rapaport",
+ "term": "Castañeda Rapaport",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:38:55+00:00",
+ "status": "ok",
+ "note": "variant=Castañeda Rapaport; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "拉波波特效应",
+   "en": "Rapoport effect",
+   "source": "冶金学名词",
+   "wordNumber": "06.0723",
+   "subjectFullName": "冶金学_有色金属冶金_轻金属冶金",
+   "subjectName": "轻金属冶金",
+   "publishYear": "2019",
+   "definition": "铝电解槽阴极炭块受钠和电解质中钠盐渗透而发生体积膨胀的现象。"
+  },
+  {
+   "cn": "板栗",
+   "en": "Chinese chestnut; Castanea mollissima Blume",
+   "source": "农学名词",
+   "wordNumber": "05.083",
+   "subjectFullName": "园艺作物_果树作物",
+   "subjectName": "果树作物",
+   "publishYear": "2025",
+   "definition": "山毛榉科栗属果树。乔木。原产中国，全国各地分布，华北最多。雌雄异花同株，为典型的异花授粉树种。果实为一圆形总苞，苞内有坚果数粒，内种皮易剥离，种子可生食、炒食或煮食。"
+  },
+  {
+   "cn": "和睦关系",
+   "en": "rapport",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性与生殖健康综合咨询框架",
+   "en": "rapport-building, exploration, decision-making and implementing the decision framework",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.1.2.2.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_计划生育服务",
+   "subjectName": "计划生育服务",
+   "publishYear": "2025",
+   "definition": "生殖健康综合咨询的基本模式。包括四个环节：营造和谐的氛围，了解服务对象的个性化需求，让对象做出自主、自愿和可行的决定，以及制订执行决定具体执行计划。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

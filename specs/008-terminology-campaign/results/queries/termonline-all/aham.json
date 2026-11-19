@@ -1,0 +1,32 @@
+{
+ "key": "aham",
+ "term": "ahaṃ",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:40:21+00:00",
+ "status": "ok",
+ "note": "variant=ahaṃ; 审定公布名词库=0; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "顿悟经验",
+   "en": "“Aha” experience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抗组蛋白抗体",
+   "en": "anti-histone antibody，AHA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.9",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "多见于SLE及药物性狼疮患者的一种自身抗体。组蛋白可分为5个亚单位：H1、H2A、H2B、H3和H4。在SLE中以抗H2B和抗H1为主。使用普鲁卡因胺、肼屈嗪、氯丙嗪和奎尼丁患者可出现抗组蛋白抗体。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

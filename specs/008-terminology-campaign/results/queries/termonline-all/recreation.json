@@ -1,0 +1,292 @@
+{
+ "key": "recreation",
+ "term": "récréation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:39:59+00:00",
+ "status": "ok",
+ "note": "variant=récréation; 审定公布名词库=41; 海峡两岸名词对照库=7; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "CR-39径迹探测器",
+   "en": "CR-39 track detector",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.131",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射测量设备",
+   "subjectName": "电离辐射测量设备",
+   "publishYear": "2014",
+   "definition": "用烯丙基二甘醇碳酸酯(品名 CR-39)制成的核径迹探测器。利用其在中子辐射场中的累积照射而形成的可观察径迹来测量中子剂量。"
+  },
+  {
+   "cn": "CR-39中子剂量计",
+   "en": "CR-39 neutron dosimeter",
+   "source": "电力名词",
+   "wordNumber": "17.880",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "用烯丙基二甘醇碳酸脂(品名CR-39)制成的一种固体核径迹探测器。"
+  },
+  {
+   "cn": "游憩",
+   "en": "recreation",
+   "source": "地理学名词",
+   "wordNumber": "21.076",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "一种愉快的，并得到社会承认的活动。它有利于个体的恢复，并使之获得休闲体验。"
+  },
+  {
+   "cn": "风景游憩",
+   "en": "scenic recreation",
+   "source": "风景园林名词",
+   "wordNumber": "01.0067",
+   "subjectFullName": "风景园林_总论_风景名胜",
+   "subjectName": "风景名胜",
+   "publishYear": "2025",
+   "definition": "在良好的自然环境中进行休闲游憩、旅游观光、娱乐健身、科学考察等活动。"
+  },
+  {
+   "cn": "户外游憩",
+   "en": "outdoor recreation",
+   "source": "风景园林名词",
+   "wordNumber": "13.0024",
+   "subjectFullName": "风景园林_其他_景观社会学",
+   "subjectName": "景观社会学",
+   "publishYear": "2025",
+   "definition": "在户外（包括从城市公园到野外的各种各样的场所）进行的有组织的和个人活动。"
+  },
+  {
+   "cn": "游憩设施",
+   "en": "recreation facility",
+   "source": "风景园林名词",
+   "wordNumber": "08.1214",
+   "subjectFullName": "风景园林_风景园林工程_风景园林设施",
+   "subjectName": "风景园林设施",
+   "publishYear": "2025",
+   "definition": "园林中设置的供游人游览、观赏或开展游憩活动的各类设备、装置、建（构）筑物等。"
+  },
+  {
+   "cn": "草地游憩",
+   "en": "rangeland recreation ",
+   "source": "草学名词",
+   "wordNumber": "3.0015",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "文娱治疗",
+   "en": "recreation therapy",
+   "source": "运动医学名词",
+   "wordNumber": "07.117",
+   "subjectFullName": "运动医学_运动康复_物理治疗技术_运动治疗",
+   "subjectName": "运动治疗",
+   "publishYear": "2019",
+   "definition": "有医疗针对性的球类运动、游戏等各种娱乐性活动。最常见的有乒乓球、羽毛球、门球等，不包括激烈对抗竞争的运动。"
+  },
+  {
+   "cn": "森林游憩",
+   "en": "forest recreation",
+   "source": "林学名词",
+   "wordNumber": "05.211",
+   "subjectFullName": "林学_森林培育_城市森林与森林游憩",
+   "subjectName": "城市森林与森林游憩",
+   "publishYear": "2016",
+   "definition": "人们利用休闲时间，自由选择地在森林环境中进行的、以恢复体力和获得愉悦感受为主要目的的所有活动的总和。"
+  },
+  {
+   "cn": "休憩区",
+   "en": "recreation area",
+   "source": "林学名词",
+   "wordNumber": "09.080",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "城市绿地中提供游憩活动的场地。"
+  },
+  {
+   "cn": "文娱疗法",
+   "en": "recreation therapy",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.140",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "有医疗目的的球类运动、游戏等各种娱乐性活动。"
+  },
+  {
+   "cn": "草地游憩",
+   "en": "rangeland recreation",
+   "source": "资源科学技术名词",
+   "wordNumber": "10.018",
+   "subjectFullName": "资源科学技术_草地资源学",
+   "subjectName": "草地资源学",
+   "publishYear": "2008",
+   "definition": "在草地上进行的观光浏览、科学考察、探险、度假休闲、旅游。包括野营、野餐、骑乘、狩猎、爬山、漂流、探险、滑雪等休闲旅游活动。"
+  },
+  {
+   "cn": "游憩广场",
+   "en": "recreation square",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.142",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "用于休息、游乐、礼仪、集会等活动、面积很大的场地。"
+  },
+  {
+   "cn": "旅游生态学",
+   "en": "recreation ecology",
+   "source": "生态学名词",
+   "wordNumber": "01.068",
+   "subjectFullName": "生态学_总论",
+   "subjectName": "总论",
+   "publishYear": "2006",
+   "definition": "研究旅游资源、旅游设施、旅游者、旅游经营者、本底生态系统以及旅游点当地居民间相互关系及其规划、建设、管理的学科。包括生态哲学、生态科学、生态工程和生态美学四个层次。"
+  },
+  {
+   "cn": "森林游憩",
+   "en": "forest recreation",
+   "source": "生态学名词",
+   "wordNumber": "17.095",
+   "subjectFullName": "生态学_城市生态学、生态工程学和产业生态学",
+   "subjectName": "城市生态学、生态工程学和产业生态学",
+   "publishYear": "2006",
+   "definition": "人们利用休闲时间，在森林环境中自由选择地进行的、以恢复体力和获得愉悦感受为主要目的同时又不破坏森林的所有活动的总和。"
+  },
+  {
+   "cn": "社区游憩",
+   "en": "community recreation",
+   "source": "地理学名词",
+   "wordNumber": "21.023",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "对源于当地公园和游览设施，用于满足当地居民需求的游览活动的总称。"
+  },
+  {
+   "cn": "户外游憩",
+   "en": "outdoor recreation",
+   "source": "地理学名词",
+   "wordNumber": "21.072",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "在户外(包括从城市公园到野外的各种各样的场所)进行的有组织的和个人活动。"
+  },
+  {
+   "cn": "休息娱乐区",
+   "en": "recreation area",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.191",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "风景游憩体系",
+   "en": "landscape recreation system",
+   "source": "风景园林名词",
+   "wordNumber": "05.0044",
+   "subjectFullName": "风景园林_风景园林规划_城乡绿地系统规划",
+   "subjectName": "城乡绿地系统规划",
+   "publishYear": "2025",
+   "definition": "城市中各种类型、级别和规模的绿地组合而成并能行使各项功能的有机整体。"
+  },
+  {
+   "cn": "森林游憩类型",
+   "en": "forest recreation type",
+   "source": "林学名词",
+   "wordNumber": "05.217",
+   "subjectFullName": "林学_森林培育_城市森林与森林游憩",
+   "subjectName": "城市森林与森林游憩",
+   "publishYear": "2016",
+   "definition": "在森林环境中开展的各种游憩活动。包括观光、健身(登山、攀岩、漂流、滑雪、垂钓、骑马等)、疗养(森林浴、静养场、健康步道等)、野营、狩猎、探险(徒步穿越、骑行等)、修学、科普等。"
+  },
+  {
+   "cn": "游憩",
+   "en": "recreation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "森林游憩",
+   "en": "forest recreation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "旅游生态学",
+   "en": "recreation ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "户外游憩",
+   "en": "outdoor recreation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "社区游憩",
+   "en": "community recreation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "游憩商业区",
+   "en": "recreation business district",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "游憩机会谱",
+   "en": "recreation opportunity spectrum\",\"ROS",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "CR-39径迹探测器",
+   "en": "CR-39 track detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "用烯丙基二甘醇碳酸酯（品名CR-39）制成的核径迹探测器。利用其在中子辐射场中的累积照射而形成的可观察径迹来测量中子剂量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

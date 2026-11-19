@@ -1,0 +1,462 @@
+{
+ "key": "difficile democratie",
+ "term": "Difficile démocratie",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:40:12+00:00",
+ "status": "ok",
+ "note": "variant=Difficile démocratie; 审定公布名词库=57; 海峡两岸名词对照库=1; 其他来源数据库=4; 预公布名词数据库=46; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "艰难梭菌",
+   "en": "Clostridium difficile",
+   "source": "感染病学名词",
+   "wordNumber": "03.1111",
+   "subjectFullName": "感染病学_病原体感染_细菌感染",
+   "subjectName": "细菌感染",
+   "publishYear": "2019",
+   "definition": "革兰氏阳性粗大杆菌，是抗生素相关性腹泻的主要病原菌。对分子氧非常敏感，分离培养很困难。"
+  },
+  {
+   "cn": "艰难梭菌感染性结直肠炎",
+   "en": "Clostridium difficile infectious coloproctitis",
+   "source": "消化病学名词",
+   "wordNumber": "6.127",
+   "subjectFullName": "消化病_结直肠_结直肠疾病",
+   "subjectName": "结直肠疾病",
+   "publishYear": "2022",
+   "definition": "产毒素艰难梭菌过度繁殖导致肠道菌群失调并释放毒素所引起的结肠炎。粪便、内镜或组织病理学可检测出艰难梭菌。表现为发热、腹泻、腹痛和水样便等。"
+  },
+  {
+   "cn": "艰难梭菌相关性腹泻",
+   "en": "Clostridium difficile associated diarrhea",
+   "source": "感染病学名词",
+   "wordNumber": "02.0170",
+   "subjectFullName": "感染病学_系统感染_消化系统感染",
+   "subjectName": "消化系统感染",
+   "publishYear": "2019",
+   "definition": "艰难梭菌在肠道内大量繁殖引起的腹泻。是毒素介导的一种肠道疾病。绝大多数病例为抗生素应用者、肿瘤放化疗者或免疫抑制剂应用者，随着年龄的增长发生率增加。几乎所有抗菌药物均可成为致病因素，最常见者为广谱头孢"
+  },
+  {
+   "cn": "困难气道",
+   "en": "difficult airway",
+   "source": "麻醉学名词",
+   "wordNumber": "03.017",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_术前访视",
+   "subjectName": "术前访视",
+   "publishYear": "2024",
+   "definition": "经过规范培训的从业医生遇到的面罩通气困难或气管插管困难，或两者兼有的情况。"
+  },
+  {
+   "cn": "排便困难",
+   "en": "difficult defecation",
+   "source": "消化病学名词",
+   "wordNumber": "1.132",
+   "subjectFullName": "消化病_总论_症状",
+   "subjectName": "症状",
+   "publishYear": "2022",
+   "definition": "排便费力、排便时间延长、排便不尽感或肛门直肠堵塞感，甚至需要手法辅助排便的现象。"
+  },
+  {
+   "cn": "排便困难",
+   "en": "difficult defecation",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.072",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_症状_其他症状",
+   "subjectName": "其他症状",
+   "publishYear": "2022",
+   "definition": "排便费力、时间延长、粪便难以排出或排净等的现象。"
+  },
+  {
+   "cn": "排便困难",
+   "en": "difficult defecation",
+   "source": "物理医学与康复名词",
+   "wordNumber": "04.082",
+   "subjectFullName": "物理医学与康复_损伤、疾病的康复_神经源性膀胱和肠道功能障碍",
+   "subjectName": "神经源性膀胱和肠道功能障碍",
+   "publishYear": "2014",
+   "definition": "排便费力、时间延长，粪便难以排除或排净等的现象。"
+  },
+  {
+   "cn": "难产",
+   "en": "difficult delivery",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0427",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "以妊娠足月临产时，胎儿不能顺利娩出为主要表现的疾病。"
+  },
+  {
+   "cn": "性交困难",
+   "en": "difficult coitus,dyspareunia",
+   "source": "计划生育名词",
+   "wordNumber": "08.050",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "夫妻在性生活中因某些原因导致生殖器难于相互交接的现象。"
+  },
+  {
+   "cn": "民主技术",
+   "en": "democratic technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.061",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人类理性为追求民主价值，在特定条件下，经过长期实践形成和发展起来的民主操作体系。"
+  },
+  {
+   "cn": "技术民主",
+   "en": "democratic technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.131",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "在技术领域内推行话语民主的理论。主要是在科学技术专家和政治家之间建立民主对话机制。"
+  },
+  {
+   "cn": "民主型风格",
+   "en": "democratic style",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0196",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "鼓励员工参与决策的制定过程，授权给员工，以反馈的方式达到指导员工的目的的领导行为特征维度。"
+  },
+  {
+   "cn": "民主管理",
+   "en": "democratic management",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0369",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源管理法规",
+   "subjectName": "人力资源管理法规",
+   "publishYear": "2016",
+   "definition": "通过职工代表大会等形式就经营管理等重大决策事项实施管理、参与、监督和协调的活动与民主督促和员工利益制度。"
+  },
+  {
+   "cn": "民主党",
+   "en": "Democratic Party",
+   "source": "世界历史名词",
+   "wordNumber": "03.0075",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "美国两大政党之一，始建于1791年，1840年该党第三次全国代表大会上正式定名为民主党，在美国实行的两党制中与共和党轮流执政。"
+  },
+  {
+   "cn": "民主社会主义",
+   "en": "Democratic-Socialism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0100",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "1951年6月，社会党国际成立时公开提出的纲领性口号。打着社会主义的旗号，反对马克思主义，鼓吹通过资产阶级民主和资产阶级国家“和平进入”社会主义。"
+  },
+  {
+   "cn": "紧急困难气道",
+   "en": "emergency difficult airway",
+   "source": "麻醉学名词",
+   "wordNumber": "03.496",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_呼吸和气道管理术",
+   "subjectName": "呼吸和气道管理术",
+   "publishYear": "2024",
+   "definition": "无自主呼吸或严重呼吸抑制患者同时出现气管插管困难和面罩及声门上气道装置通气困难，进而出现氧合障碍，危及患者生命，必须在短时间内迅速解决气道通畅、通气和氧合问题的临床紧急情况。主要在麻醉诱导和拔管后出现"
+  },
+  {
+   "cn": "交通困难地区",
+   "en": "difficult transport area",
+   "source": "电力名词",
+   "wordNumber": "22.021",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "非居民区中,车辆、农业机械难以到达的地区。"
+  },
+  {
+   "cn": "难燃烧体",
+   "en": "difficult-combustible component",
+   "source": "建筑学名词",
+   "wordNumber": "11.0109",
+   "subjectFullName": "建筑学_建筑防护_防火、防爆",
+   "subjectName": "防火、防爆",
+   "publishYear": "2014",
+   "definition": "用难燃材料做成的建筑构件或用可燃材料做成而用不燃材料做保护层的建筑构件。"
+  },
+  {
+   "cn": "民主法团主义模式",
+   "en": "democratic corporatist model",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.024",
+   "subjectFullName": "新闻学与传播学_大众传播_大众传播机制与传播者研究",
+   "subjectName": "大众传播机制与传播者研究",
+   "publishYear": "2022",
+   "definition": "美国政治传播学者丹尼尔·C.哈林等在《比较媒介体制：媒介与政治的三种模式》中提出的一种西方传媒体制模式。该模式主要分布在奥地利、比利时、丹麦、芬兰、德国、荷兰、挪威、瑞典、瑞士等中北欧地区。主要特征包"
+  },
+  {
+   "cn": "立宪民主党",
+   "en": "Constitutional Democratic Party",
+   "source": "世界历史名词",
+   "wordNumber": "05.0247",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1905-1917年俄国资产阶级自由派的主要政党，其纲领是：立宪君主制、资产阶级自由、保留地主土地，合法解决工人问题。"
+  },
+  {
+   "cn": "难变形高温合金",
+   "en": "difficult-to-deform superalloy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "民主化协商参与技术",
+   "en": "technology facilitating democratic consultation and participation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "守望相助、同舟共济",
+   "en": "to support each other; to stand closely together in difficult times",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "战胜易，守胜难",
+   "en": "It Is Easy to Win a War but Difficult to Retain the Victory.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三期叠加",
+   "en": "simultaneously deal with the slowdown in economic growth, make difficult structural adjustments, and absorb the effects of previous economic stimulus policies",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "艰难梭菌",
+   "en": "clostridium difficile",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.39",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "革兰氏阳性粗大杆菌，严格厌氧，是抗生素相关性腹泻的主要病原菌。"
+  },
+  {
+   "cn": "困难型气质",
+   "en": "difficult temperament",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "哭闹无常、烦躁易怒、不易安抚，饮食、睡眠等生理功能活动方面缺乏规律性的人格特征。"
+  },
+  {
+   "cn": "民主运动",
+   "en": "democratic movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0114",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反对独裁统治或专制统治，争取被统治阶级的民主权利的群众运动。它是被统治阶级反抗统治阶级的政治斗争的一种形式，通常具有进步意义。"
+  },
+  {
+   "cn": "民主共和国",
+   "en": "democratic republic",
+   "source": "马克思主义",
+   "wordNumber": "03.0279",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "国家元首和国家最高权力机关定期由选举产生的国家。它只是一种国家形式，在不同阶级专政的国家有不同性质。在奴隶社会、封建社会和资产阶级社会，民主共和国都是统治阶级专政的一种形式。无产阶级在推翻资产阶级统治"
+  },
+  {
+   "cn": "民主集中制",
+   "en": "democratic centralism",
+   "source": "马克思主义",
+   "wordNumber": "03.0281",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级政党的根本组织原则，它是党内民主和集中的辩证统一，即在高度民主的基础上，实行高度的集中。马克思恩格斯为共产主义者同盟和国际工人协会起草的章程中规定各级委员会及其领导人由选举产生,有关决议须无记"
+  },
+  {
+   "cn": "民主管理",
+   "en": "democratic management",
+   "source": "马克思主义",
+   "wordNumber": "03.0571",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民主管理是相对于权威管理而言的，指管理者遵循公正的原则，采用民主的方式。比如：民主选举、民主决策、民主监督等，发挥成员的积极主动性，协调组织成员的行为，以实现个体的自我管理和组织的科学管理。"
+  },
+  {
+   "cn": "民主教育",
+   "en": "democratic education",
+   "source": "马克思主义",
+   "wordNumber": "03.0572",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民主是一种政治制度，也是一种生活方式。通过理论学习、实践操作对人民群众进行社会主义民主知识教育，使之树立权利、义务、法治、公德等观念，做国家和社会的真正主人。"
+  },
+  {
+   "cn": "民主执政",
+   "en": "democratic governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0676",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持为人民执政、靠人民执政，发展中国特色社会主义民主政治，推进社会主义民主政治的制度化、规范化、程序化，以民主的制度、民主的形式、民主的手段支持和保证人民当家作主。"
+  },
+  {
+   "cn": "民主集中派",
+   "en": "democratic centralist",
+   "source": "马克思主义",
+   "wordNumber": "04.0359",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄共（布）党内以季莫费·弗拉基米罗维奇·萨普龙诺夫（Timofe Vladimirovich Sapronov）为主要代表的反对派。其骨干分子曾为“左派共产主义者”。他们大谈“党内民主”，反对党的纪律"
+  },
+  {
+   "cn": "民主社会主义",
+   "en": "democratic socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0229",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "西方社会民主党（社会党、工党）思想体系与意识形态的总称。以自由、公正、民主、团结作为其基本价值观，主张用社会改良主义取代马克思主义，通过合法、阶级合作的途径实现社会主义。当代民主社会主义的基本理论是在"
+  },
+  {
+   "cn": "人民民主专政",
+   "en": "peoples democratic dictatorship",
+   "source": "马克思主义",
+   "wordNumber": "03.0341",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工人阶级（经过共产党）领导的、以工农联盟为基础的、实行人民民主和人民专政的国家政权。毛泽东指出：“对人民内部的民主方面和对反动派的专政方面，互相结合起来，就是人民民主专政。”中华人民共和国成立后，人民"
+  },
+  {
+   "cn": "新民主主义社会",
+   "en": "new democratic society",
+   "source": "马克思主义",
+   "wordNumber": "03.0382",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国新民主主义革命胜利后所建立起来的社会，是由半殖民地半封建社会向社会主义社会过渡性质的社会。毛泽东在《中国革命和中国共产党》《新民主主义论》等著作中，提出了新民主主义社会的概念和理论。即从中华人民共"
+  },
+  {
+   "cn": "社会主义民主政治",
+   "en": "socialist democratic politics",
+   "source": "马克思主义",
+   "wordNumber": "03.0687",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "无产阶级领导国家政权，管理国家的政治制度。其本质和核心是人民当家作主，国家的一切权力属于人民。"
+  },
+  {
+   "cn": "民主评议党员制度",
+   "en": "democratic evaluation systems",
+   "source": "马克思主义",
+   "wordNumber": "03.0748",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民主评议党员制度就是按照党章规定的党员条件，通过对党员的正面教育、自我教育和党内外群众的评议以及党组织的考核，对每个党员在各项工作中的表现和作用做出客观的评价，并通过组织评议，达到激励党员、纯洁党组织"
+  },
+  {
+   "cn": "中国民主同盟",
+   "en": "China Democratic League",
+   "source": "马克思主义",
+   "wordNumber": "04.0451",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "新中国八个民主党派之一，前身为1941年3月在重庆成立的中国民主政团同盟。1944年9月改组为中国民主同盟，由团体会员制改为发展个人参加。主要创始人为张澜、沈钧儒等。发展成员以大中城市为主，以从事文化"
+  },
+  {
+   "cn": "民主计划的社会主义经济模式",
+   "en": "democratic planned socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0186",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "美国马克思主义学者伯特尔·奥尔曼（Bertell Ollman）在《市场社会主义——社会主义者之间的争论》（1998年）中提出。他主张公有制和国家控制生产和分配手段；根据需要通过民主计划进行物品、服务"
+  },
+  {
+   "cn": "民族民主革命",
+   "en": "national democratic revolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0013",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "近现代世界殖民地、半殖民地被压迫民族反对殖民主义、帝国主义和封建专制主义的统治,争取民族独立和解放,实现政治民主的革命，包含民族革命和民主革命的双重任务和内容。"
+  },
+  {
+   "cn": "新民主主义经济纲领",
+   "en": "new democratic economic program",
+   "source": "马克思主义",
+   "wordNumber": "02.0336",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在新民主主义革命时期的经济主张和斗争目标。主要包括：没收官僚资本的大银行、大工业、大商业归新民主主义国家所有；没收封建地主阶级的土地，分配给无地和少地的农民，实行“耕者有其田”，发展各种具有"
+  },
+  {
+   "cn": "抗日民主政权",
+   "en": "antiJapanese democratic political power",
+   "source": "马克思主义",
+   "wordNumber": "03.0337",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "抗日战争时期中国共产党在抗日根据地建立的抗日民族统一战线政权。如陕甘宁边区政府、晋察冀边区政府等。实质是有中国共产党完全主导的国民政府地方战时临时性的行政区域。它的阶级基础除工人、农民、小资产阶级外，"
+  },
+  {
+   "cn": "人民民主统一战线",
+   "en": "peoples democratic united front",
+   "source": "马克思主义",
+   "wordNumber": "03.0366",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在解放战争时期领导建立的包括工人、农民、城市小资产级、民族资产阶级、各民主党派、开明绅士、其他爱国分子、少数民族同胞和海外侨胞在内的广泛的统一战线。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

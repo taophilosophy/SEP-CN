@@ -1,0 +1,522 @@
+{
+ "key": "pagin gluer",
+ "term": "Pagin Glüer",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:38:07+00:00",
+ "status": "ok",
+ "note": "variant=Pagin Glüer; 审定公布名词库=462; 海峡两岸名词对照库=24; 其他来源数据库=9; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "分页",
+   "en": "paging",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0518",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "包含把进程逻辑地址空间划分成逻辑页，以及把物理内存划分为物理页，并建立两种页的映射关系的过程。"
+  },
+  {
+   "cn": "寻呼",
+   "en": "paging",
+   "source": "通信科学技术名词",
+   "wordNumber": "12.077",
+   "subjectFullName": "通信科学技术_移动通信",
+   "subjectName": "移动通信",
+   "publishYear": "2007",
+   "definition": "把信号或信息从基站传送到移动或固定接收器的一种单向无线通信方式。"
+  },
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "麻醉学名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "麻醉学_疼痛诊疗_疼痛分类",
+   "subjectName": "疼痛分类",
+   "publishYear": "2024",
+   "definition": "一种与实际或潜在组织损伤相关的不愉快的感觉和情绪、情感体验，或与此相似的经历。"
+  },
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "兽医学名词",
+   "wordNumber": "10.407",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "痛觉神经末梢发出的神经冲动，沿传入纤维进入大脑某些部位的神经细胞后而被机体感知的一种不舒适自觉症状。"
+  },
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.064",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_症状_其他症状",
+   "subjectName": "其他症状",
+   "publishYear": "2022",
+   "definition": "可由疾病、创伤或潜在伤害性刺激引起的不愉快的主观体验。是一种复杂的生理、心理活动，也是临床上最常见的症状之一。"
+  },
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "手外科学名词",
+   "wordNumber": "05.1018",
+   "subjectFullName": "手外科学_手外科学分论_上肢周围神经",
+   "subjectName": "上肢周围神经",
+   "publishYear": "2020",
+   "definition": "一种不愉快的感觉和情绪上的感受，伴随现有的或潜在的组织损伤。疼痛是主观性的，是身体局部或整体的感觉。"
+  },
+  {
+   "cn": "痛",
+   "en": "pain",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "01.035",
+   "subjectFullName": "中医药学_外科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "气血凝滞、阻塞不通的反应。其增剧与减轻又常为病势进展与消退的标志。"
+  },
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "医学名词 第六分册",
+   "wordNumber": "11.003",
+   "subjectFullName": "医学_麻醉学",
+   "subjectName": "麻醉学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "睾丸疼痛",
+   "en": "testicular pain;testicle pain",
+   "source": "男科及性医学名词",
+   "wordNumber": "07.008",
+   "subjectFullName": "男科及性医学_男性生殖系统疾病诊断",
+   "subjectName": "男性生殖系统疾病诊断",
+   "publishYear": "2023",
+   "definition": "发生于一侧或双侧睾丸的疼痛。"
+  },
+  {
+   "cn": "分页模式",
+   "en": "paging mode",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0480",
+   "subjectFullName": "计算机科学技术_计算机体系结构_存储系统",
+   "subjectName": "存储系统",
+   "publishYear": "2018",
+   "definition": "在虚拟存储管理中，以固定长度的连续空间作为存储信息单位的存储模式。"
+  },
+  {
+   "cn": "按需调页",
+   "en": "demand paging",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0516",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "当某页的内容被需要的时候才从外存调入内存的一种存储管理技术。"
+  },
+  {
+   "cn": "物理分页",
+   "en": "physical paging",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0519",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "把物理内存划分为同样大小的页的过程。"
+  },
+  {
+   "cn": "逻辑分页",
+   "en": "logical paging",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0517",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "把进程的逻辑地址空间划分为逻辑页的过程。"
+  },
+  {
+   "cn": "预分页",
+   "en": "anticipatory paging",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0514",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种存储管理技术，把预期要访问页的内容从外存中调入到内存。"
+  },
+  {
+   "cn": "寻呼信道",
+   "en": "paging channel",
+   "source": "通信科学技术名词",
+   "wordNumber": "12.201",
+   "subjectFullName": "通信科学技术_移动通信",
+   "subjectName": "移动通信",
+   "publishYear": "2007",
+   "definition": "前向码分多址信道中的一种代码信道，用于从基站向用户站传输控制信息和寻呼信息。"
+  },
+  {
+   "cn": "寻呼业务",
+   "en": "paging service",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.177",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "从基站到移动或固定接收器的单向通信业务：进行信号或者信息传递，并通过铃声、震动、光信号等方式告知用户。"
+  },
+  {
+   "cn": "扩音传呼",
+   "en": "loudspeaker paging",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "07.161",
+   "subjectFullName": "煤炭科学技术_矿山电气工程_煤矿通信",
+   "subjectName": "煤矿通信",
+   "publishYear": "1996",
+   "definition": "通过被叫用户话机上的扩音设备,实现主叫对被叫用户呼叫的方式。"
+  },
+  {
+   "cn": "无线电寻呼",
+   "en": "radio paging",
+   "source": "电子学名词",
+   "wordNumber": "21.053",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "癌性疼痛",
+   "en": "cancer pain,cancer-related pain",
+   "source": "核医学名词",
+   "wordNumber": "04.0315",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤诊疗相关技术",
+   "subjectName": "肿瘤诊疗相关技术",
+   "publishYear": "2018",
+   "definition": "由癌症局部浸润、压迫器官和产生致痛因子所造成的疼痛。"
+  },
+  {
+   "cn": "手术后疼痛",
+   "en": "postoperative pain",
+   "source": "普通外科学名词",
+   "wordNumber": "13.133",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "手术后出现的手术部位及其相关区域的疼痛。属急性疼痛的一种，主要由手术本身造成的急性创伤和（或）内脏器官损伤及刺激引起，也可由引流物刺激引起。一般高峰期是术后24～48小时。"
+  },
+  {
+   "cn": "自动编页",
+   "en": "automatic pagination",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成组分页",
+   "en": "block paging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非请求分页",
+   "en": "nondemand paging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后台分页",
+   "en": "background paging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑分页",
+   "en": "logical paging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前台分页",
+   "en": "foreground paging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "请求分页",
+   "en": "demand paging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无线电寻呼",
+   "en": "radio paging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "物理分页",
+   "en": "physical paging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "先行分页",
+   "en": "anticipatory paging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动分页",
+   "en": "automatic paging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "痛觉感受器",
+   "en": "pain receptor",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "慢性疼痛",
+   "en": "chronic pain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "疼痛管理",
+   "en": "pain management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "疼痛障碍",
+   "en": "pain disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "慢痛,钝痛",
+   "en": "slow pain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分页",
+   "en": "paging\",\"page break",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序分页功能",
+   "en": "program paging function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结构分页系统",
+   "en": "structured paging system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天线电寻呼业务",
+   "en": "radio-paging service",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "痛客",
+   "en": "pain-point seeker",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.013",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "一种与实际或潜在组织损伤相关的不愉快的身体局部或整体的感觉。"
+  },
+  {
+   "cn": "胸痛",
+   "en": "chest pain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.11",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "颈部与胸廓下缘之间的疼痛。主要由胸部疾病引起，少数由其他部位的病变所致。"
+  },
+  {
+   "cn": "腹痛",
+   "en": "abdominal pain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.13",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "腹部的疼痛,可由各种原因的腹腔内外脏器病变引起，也可为非器质性原因"
+  },
+  {
+   "cn": "疼痛控制",
+   "en": "pain control",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.042000000000001",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "使用止痛药物或联合非药物疗法等综合措施，减轻患者疼痛体验，提高其生存质量的医疗行为。"
+  },
+  {
+   "cn": "足跟痛",
+   "en": "heel pain，HP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.2.8",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "跟骨结节周围的急性或慢性疼痛。临床表现为足跟一侧或两侧疼痛，负重后加重，严重者可出现行走困难，可由骨折、肌腱炎、关节炎、骨肿瘤、应激等多种因素引起。"
+  },
+  {
+   "cn": "肾区叩击痛",
+   "en": "renal percussive pain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.18",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "患者取站立位、坐位或侧卧位，检查者用左手掌平放于患者的肾区（肋脊角），右手握拳用由轻到中等强度的力量叩击左手背，当肾脏有病变时，肾区可有不同程度的叩击痛的体征。"
+  },
+  {
+   "cn": "肌筋膜疼痛综合征",
+   "en": "myofascial pain syndrome",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.2.16",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_皮肤、软组织疾病",
+   "subjectName": "皮肤、软组织疾病",
+   "publishYear": "2025",
+   "definition": "反复发作的肌肉和筋膜的慢性无菌性炎症反应综合征，肌纤维触发点存在于两块或两块以上肌肉或肌群，以肌筋膜组织局部疼痛、固定压痛和肌肉紧张而僵硬等症状为特征。以枕、颈、肩、下背以及股部受累较为多见。"
+  },
+  {
+   "cn": "分娩镇痛",
+   "en": "labor pain management",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.30",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "产程中为缓解产妇因子宫收缩导致的疼痛不适而采取的系列支持措施，包括非药物镇痛和药物性镇痛两大类。"
+  },
+  {
+   "cn": "下背痛",
+   "en": "low back pain， LBP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.2.9",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "腰背部组织的局部炎症、创伤或附近器官疾病引起的腰部疼痛感。"
+  },
+  {
+   "cn": "炎性腰背痛",
+   "en": "inflammatory back pain，IBP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.2.10",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "由于骶髂关节/腰椎炎症引起的一种特殊类型的腰背痛。临床表现为反复腰背疼痛和晨僵。多采用2009年ASAS标准诊断：40岁前起病、起病隐匿、夜间痛、活动后症状改善、休息后症状无改善，5条标准中至少符合4"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

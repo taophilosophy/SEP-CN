@@ -1,0 +1,522 @@
+{
+ "key": "ballung",
+ "term": "Ballung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:38:10+00:00",
+ "status": "ok",
+ "note": "variant=Ballung; 审定公布名词库=135; 海峡两岸名词对照库=67; 其他来源数据库=10; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "成球",
+   "en": "balling",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.1210",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "将物料与液体一同加入圆筒式、圆盘式、振动式或搅拌式造球机内，加工成具有一定形状和尺寸的球团或颗粒的过程。"
+  },
+  {
+   "cn": "成球",
+   "en": "balling,prilling",
+   "source": "化学工程名词",
+   "wordNumber": "03.823",
+   "subjectFullName": "化学工程_传递过程与单元操作_固体过程_粉碎、分离与团聚",
+   "subjectName": "粉碎、分离与团聚",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "咬合",
+   "en": "galling",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0239",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_磨损",
+   "subjectName": "磨损",
+   "publishYear": "2021",
+   "definition": "在滑动的固体摩擦表面局部出现撕裂的损伤。这种损伤常伴随有材料的塑性流动和[材料]转移。"
+  },
+  {
+   "cn": "召唤",
+   "en": "calling",
+   "source": "昆虫学名词",
+   "wordNumber": "07.241",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "(1)某些昆虫在召集同类或求偶时的发声行为。(2)某些雌性蛾类求偶时伸出尾尖引诱异性的动作。"
+  },
+  {
+   "cn": "主叫",
+   "en": "calling",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0817",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫",
+   "en": "calling",
+   "source": "航海科技名词",
+   "wordNumber": "14.0025",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "提捞",
+   "en": "bailing",
+   "source": "石油名词",
+   "wordNumber": "11.0927",
+   "subjectFullName": "石油_油气田开发与开采_采油工程",
+   "subjectName": "采油工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "打捆",
+   "en": "baling ",
+   "source": "草学名词",
+   "wordNumber": "6.0276",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "圆筒造球机",
+   "en": "balling drum",
+   "source": "冶金学名词",
+   "wordNumber": "05.0652",
+   "subjectFullName": "冶金学_钢铁冶金_烧结与球团",
+   "subjectName": "烧结与球团",
+   "publishYear": "2019",
+   "definition": "在转鼓内球团料接近垂直向滚动及下落，逐步形成球形团粒的造球机械。"
+  },
+  {
+   "cn": "成球性指数",
+   "en": "balling index",
+   "source": "冶金学名词",
+   "wordNumber": "05.0659",
+   "subjectFullName": "冶金学_钢铁冶金_烧结与球团",
+   "subjectName": "烧结与球团",
+   "publishYear": "2019",
+   "definition": "一种衡量铁矿粉成球性的指标，它是最大分子水被最大毛细水与最大分子水之差除的商。数值越大，成球性越好。"
+  },
+  {
+   "cn": "圆盘造球机",
+   "en": "balling disc",
+   "source": "冶金学名词",
+   "wordNumber": "05.0653",
+   "subjectFullName": "冶金学_钢铁冶金_烧结与球团",
+   "subjectName": "烧结与球团",
+   "publishYear": "2019",
+   "definition": "球团料在机械底部平面旋转滚动，逐渐形成球形团粒的造球机械。"
+  },
+  {
+   "cn": "低价揽客",
+   "en": "low-balling",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0356",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "会计师事务所为了招揽客户而接受一个大大低于正常价格的审计收费的行为。"
+  },
+  {
+   "cn": "钻头泥包",
+   "en": "bit balling",
+   "source": "石油名词",
+   "wordNumber": "05.0065",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "树木挖掘机",
+   "en": "tree balling machine",
+   "source": "林学名词",
+   "wordNumber": "10.379",
+   "subjectFullName": "林学_森林工程_林业机械与设备",
+   "subjectName": "林业机械与设备",
+   "publishYear": "2016",
+   "definition": "为了树木移植，连根及土壤一同球状挖起的挖掘–移动机械装置。"
+  },
+  {
+   "cn": "钻头泥包卡钻",
+   "en": "balling-up sticking",
+   "source": "石油名词",
+   "wordNumber": "05.0609",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "落水",
+   "en": "falling water",
+   "source": "风景园林名词",
+   "wordNumber": "08.0591",
+   "subjectFullName": "风景园林_风景园林工程_风景园林水景",
+   "subjectName": "风景园林水景",
+   "publishYear": "2025",
+   "definition": "利用自然水或人工聚集一处，使水从高处跌落而形成的白色水带。"
+  },
+  {
+   "cn": "扣帽子",
+   "en": "name calling",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.186",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "一种常见的政治宣传与修辞手法，也是一种典型的人身攻击。让接受者在还无法深入了解、思考之前，就率先被贴上的负面标签所影响，从而产生“先入为主”的负面认知与不良的刻板印象。"
+  },
+  {
+   "cn": "电子账单",
+   "en": "electronic billing",
+   "source": "电力名词",
+   "wordNumber": "06.140",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "定期(通常是每月)发送客户用电的电子账单给客户的行为。"
+  },
+  {
+   "cn": "落体",
+   "en": "falling body",
+   "source": "物理学名词",
+   "wordNumber": "02.0224",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "冒顶",
+   "en": "roof falling",
+   "source": "冶金学名词",
+   "wordNumber": "02.0289",
+   "subjectFullName": "冶金学_采矿_岩石力学",
+   "subjectName": "岩石力学",
+   "publishYear": "2019",
+   "definition": "地下开采中，顶板塌落的现象。"
+  },
+  {
+   "cn": "成球",
+   "en": "balling\",\"prilling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "哈林舞曲",
+   "en": "halling",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫",
+   "en": "calling",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "召唤",
+   "en": "calling",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "玻林-艾勒拉德暖期",
+   "en": "Bolling-Allerod",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "降膜",
+   "en": "falling film",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "下降翼",
+   "en": "falling limp",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电子付款",
+   "en": "electronic billing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫单音",
+   "en": "calling tone",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫率",
+   "en": "calling rate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫频率",
+   "en": "calling frequency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫信号",
+   "en": "calling signal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫信息",
+   "en": "calling information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下降沿",
+   "en": "falling edge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主叫拨号",
+   "en": "calling dial",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主叫次序",
+   "en": "calling order",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主叫电话局",
+   "en": "calling exchange",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主叫吊牌",
+   "en": "calling drop",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主叫端",
+   "en": "calling terminal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主叫方",
+   "en": "calling party",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "calling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横受身",
+   "en": "falling sideward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后受身",
+   "en": "ushiro-ukemi\",\"falling backward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前受身",
+   "en": "falling forward\",\"mae-ukemi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "雅万高铁",
+   "en": "Jakarta-Bandung Highspeed Railway",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "出场顺序",
+   "en": "order of calling\",\"order of lifting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "力防返贫",
+   "en": "prevention of falling back into poverty",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "过犹不及",
+   "en": "Going Too Far Is as Bad as Falling Short.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "悬梁刺股",
+   "en": "Tie One’s Hair on the House Beam and Jab One’s Side with an Awl to Keep Oneself from Falling Asleep while Studying",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "儿童坠落伤",
+   "en": "falling injury",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "儿童由高处坠落于地面或物体上发生的损伤。损伤的性状和程度与体重、坠落高度与速度、身体被撞击部位、衣着、所撞物体性质等因素有关，轻者仅有轻微疼痛感，重者可致骨折、内脏破裂、肢体离断等损伤甚至死亡。"
+  },
+  {
+   "cn": "棉布包装",
+   "en": "cotton baling",
+   "source": "消毒学",
+   "wordNumber": "3.1.10",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "符合灭菌包装材料要求的可重复使用的纺织品，通常是用棉纱织成的布。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

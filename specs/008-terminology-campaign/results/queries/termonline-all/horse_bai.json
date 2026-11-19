@@ -1,0 +1,812 @@
+{
+ "key": "horse' bai",
+ "term": "horse’ bái",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:42:16+00:00",
+ "status": "ok",
+ "note": "variant=horse’ bái; 审定公布名词库=640; 海峡两岸名词对照库=94; 其他来源数据库=40; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "断夹块",
+   "en": "horse",
+   "source": "地质学名词",
+   "wordNumber": "09.04.117",
+   "subjectFullName": "地质学_构造地质学_断裂构造",
+   "subjectName": "断裂构造",
+   "publishYear": "2026",
+   "definition": "双冲构造中被次级叠瓦状断层所围限的岩片。"
+  },
+  {
+   "cn": "挽用马",
+   "en": "draught horse,draft horse",
+   "source": "畜牧学名词",
+   "wordNumber": "02.280",
+   "subjectFullName": "畜牧学_饲养管理_马饲养",
+   "subjectName": "马饲养",
+   "publishYear": "2020",
+   "definition": "适合拉车和拉犁的马。"
+  },
+  {
+   "cn": "夹石",
+   "en": "horse-stone",
+   "source": "地质学名词",
+   "wordNumber": "14.03.059",
+   "subjectFullName": "地质学_矿床学_矿体形态与矿石结构构造",
+   "subjectName": "矿体形态与矿石结构构造",
+   "publishYear": "2026",
+   "definition": "夹于矿体中或矿体间的非矿岩石。在煤层中常称矸石或夹矸。"
+  },
+  {
+   "cn": "套马杆",
+   "en": "horse pole ",
+   "source": "草学名词",
+   "wordNumber": "8.0045",
+   "subjectFullName": "草学_草原文化",
+   "subjectName": "草原文化",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "养马业",
+   "en": "horse industry",
+   "source": "畜牧学名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "畜牧学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "以马为生产资料，进行动物性生产的产业。"
+  },
+  {
+   "cn": "养马学",
+   "en": "horse science",
+   "source": "畜牧学名词",
+   "wordNumber": "01.012",
+   "subjectFullName": "畜牧学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "研究马的生物学特性与养马生产有关理论及技术的学科。"
+  },
+  {
+   "cn": "骑乘马",
+   "en": "riding horse",
+   "source": "畜牧学名词",
+   "wordNumber": "02.279",
+   "subjectFullName": "畜牧学_饲养管理_马饲养",
+   "subjectName": "马饲养",
+   "publishYear": "2020",
+   "definition": "供竞赛、散步、旅行和狩猎等骑乘用的马。"
+  },
+  {
+   "cn": "重型马",
+   "en": "heavy horse",
+   "source": "畜牧学名词",
+   "wordNumber": "02.282",
+   "subjectFullName": "畜牧学_饲养管理_马饲养",
+   "subjectName": "马饲养",
+   "publishYear": "2020",
+   "definition": "马体宽大、背阔、四肢粗壮、肩部较直、长毛发达，适于挽用的马。其主要由“森林马”繁衍而来。"
+  },
+  {
+   "cn": "蒙古马",
+   "en": "Mongolian horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.420",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘挽兼用型。我国数量最多、分布最广，以抗寒适应性强、耐粗饲、耐力强著称的地方马种。体质粗糙结实。毛色以青毛、骝毛、黑毛为多。体高120～132cm。分为乌珠穆沁马、百岔马、乌审马、阿巴嘎黑马等几个类群"
+  },
+  {
+   "cn": "锡尼河马",
+   "en": "Xinihe horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.421",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘挽兼用型。体质结实。毛色以骝毛、栗毛、黑毛为主。体高134～150cm。产于内蒙古自治区鄂温克族自治旗的锡尼河、伊敏河流域。"
+  },
+  {
+   "cn": "鄂伦春马",
+   "en": "Elunchun horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.422",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "以对高寒山区适应性强、持久力好而闻名的乘驮兼用型地方马种。体质粗糙，体格较小，毛色以青毛最多，骝毛次之，体高124～135cm。产于内蒙古自治区鄂伦春自治旗。"
+  },
+  {
+   "cn": "河曲马",
+   "en": "Hequ horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.423",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "挽乘兼用型。体质结实干燥或显粗糙。毛色以黑毛、骝毛、青毛较多。体高129～150cm。产于甘肃省、四川省、青海省三省交界处的黄河第一弯曲部。"
+  },
+  {
+   "cn": "大通马",
+   "en": "Datong horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.424",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "分为挽乘和乘挽两种类型。以善走对侧步而著称。体质粗糙紧凑。毛色以骝毛为主，黑毛、栗毛、青毛次之。体高122～140cm。产于青海省海北藏族自治州大通河流域。"
+  },
+  {
+   "cn": "岔口驿马",
+   "en": "Chakouyi horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.425",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘挽兼用型。以体质结实、体型方正、善走对侧步而闻名。毛色以骝毛为多。体高124～138cm。产于甘肃省、青海省交界的祁连山东段，中心产区是甘肃省天祝藏族自治县。"
+  },
+  {
+   "cn": "焉耆马",
+   "en": "Yanqi horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.426",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘挽兼用型。分为山地型和盆地型两类。善于登山涉水、走对侧步。毛色以骝毛、栗毛、黑毛为主。体高129～146cm。产于新疆维吾尔自治区和静县、和硕县、焉耆回族自治县等。"
+  },
+  {
+   "cn": "哈萨克马",
+   "en": "Kazakh horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.427",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘挽兼用型。适于山路骑乘、体质结实粗糙。毛色以骝毛、栗毛、黑毛为主，青毛次之。体高130～145cm。产于新疆维吾尔自治区天山山脉北麓、准噶尔盆地以西和阿尔泰山脉西段。"
+  },
+  {
+   "cn": "巴里坤马",
+   "en": "Balikun horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.428",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘驮挽兼用型。体质粗糙结实。毛色以骝毛、栗毛为主。体高124～140cm。产于新疆维吾尔自治区巴里坤哈萨克自治县。"
+  },
+  {
+   "cn": "藏马",
+   "en": "Tibetan horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.429",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘驮兼用型。以适应海拔3000m以上青藏高原环境而著称。体质结实。毛色以骝毛较多，体高125cm左右。分为西藏马、甘孜马、中甸马等类群。产于西藏自治区。"
+  },
+  {
+   "cn": "建昌马",
+   "en": "Jianchang horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.430",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "驮乘及轻挽型。是适应山地环境的马。体质结实，体格短小。毛色以骝毛较多，其次为黑毛等。体高110～121cm。产于四川省凉山彝族自治州。"
+  },
+  {
+   "cn": "云南马",
+   "en": "Yunnan horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.431",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "驮乘兼用型。体质结实，体格短小。毛色以骝毛、栗毛、黑毛、青毛较多。体高114cm左右。产于云南省滇西和滇东的乌蒙山区。"
+  },
+  {
+   "cn": "马纬度",
+   "en": "horse latitudes",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "马抗血清",
+   "en": "horse antiserum",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "副热带无风带",
+   "en": "horse latitude",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "特洛伊木马攻击",
+   "en": "Trojan horse attack",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单位轴马力制冷量",
+   "en": "refrigerating effect per brake horse power",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地垒",
+   "en": "horst",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地垒",
+   "en": "horst",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "软管",
+   "en": "hose",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软管",
+   "en": "hose",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "宫",
+   "en": "sign\",\"house",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "黄雾",
+   "en": "bai",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "干燥房",
+   "en": "drying house",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电槽室",
+   "en": "cell house",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保付商行",
+   "en": "confirming house",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "房地产经纪人",
+   "en": "house agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公司内部汇票",
+   "en": "house bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海关",
+   "en": "customs house",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融商行",
+   "en": "financial house",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口代办行",
+   "en": "indent house",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口商行",
+   "en": "import house",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "马",
+   "en": "horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马",
+   "en": "horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳马项目",
+   "en": "horse\",\"vaulting horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特洛伊木马",
+   "en": "Trojan Horse",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鞍马项目",
+   "en": "pommel horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鞍马",
+   "en": "pommel horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "备用马匹",
+   "en": "extra horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盛装舞步赛马",
+   "en": "dressage horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马匹展览",
+   "en": "horse show",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阿拉伯马",
+   "en": "Arabian horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "备用马",
+   "en": "reserve horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "骑乘马",
+   "en": "saddle horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳马",
+   "en": "horse vault\",\"vaulting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "种马",
+   "en": "entire horse\",\"stud",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马匹名单",
+   "en": "list of horses",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白马非马",
+   "en": "A White Horse Is Not a Horse",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "马步",
+   "en": "horse stance\",\"riding stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轻拍马匹",
+   "en": "rap a horse\",\"rapping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控马",
+   "en": "control of the horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马身高",
+   "en": "height of the horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马市",
+   "en": "Horse Market",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0324",
+   "subjectFullName": "民族学与文化学_民族史_民族经济与地理",
+   "subjectName": "民族经济与地理",
+   "publishYear": "2025",
+   "definition": "中国历代王朝以金帛茶盐等与少数民族交换马匹的市场，一般设于边关。"
+  },
+  {
+   "cn": "赛马",
+   "en": "horse racing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0435",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人骑乘马匹或驾驭马车进行快跑比赛的运动，是中国蒙古族、藏族、回族、维吾尔族、哈萨克族、满族、水族、苗族、达斡尔族等少数民族喜爱的传统体育项目。多在盛大传统节日里进行，如蒙古族的那达慕大会等。"
+  },
+  {
+   "cn": "茶马互市",
+   "en": "tea-horse trade market",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0171",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国古代西北部少数民族用马匹等牲畜和畜产品与内地换取茶叶、布匹、铁器等的贸易活动。始于唐代，盛于宋、明、清，长达千余年。"
+  },
+  {
+   "cn": "茶马古道",
+   "en": "Tea and Horse Road",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0335",
+   "subjectFullName": "民族学与文化学_民族史_民族经济与地理",
+   "subjectName": "民族经济与地理",
+   "publishYear": "2025",
+   "definition": "茶马古道是指存在于中国西南地区以马帮为主要交通工具的民间国际商贸通道，是中国西南民族经济文化交流的走廊。茶马古道源于古代西南边疆的茶马互市，兴于唐宋，盛于明清，二战中后期，最为兴盛。"
+  },
+  {
+   "cn": "白族",
+   "en": "Bai",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0438",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要分布在云南省，部分在贵州、四川等省。人口209.15 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。使用白语，属汉藏语系藏缅语族；通用汉语文。白族先民早在公元1 世纪前就"
+  },
+  {
+   "cn": "茶肆",
+   "en": "tea house",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0112",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "近现代通称“茶馆”，唐宋时期常称作“茶肆”。中国经营茶水供应服务的店铺。"
+  },
+  {
+   "cn": "赫尔大厦",
+   "en": "Hull House",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "19世纪后期由珍妮·亚当斯(Jane Addams）在美国芝加哥建立的著名社区中心。为经济能力有限的人提供教育机会和社会服务，并且为移民提供庇护。"
+  },
+  {
+   "cn": "牙行",
+   "en": "broker-house",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0081",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国明清时期客商买卖货物时从中进行说合的店铺。有官牙、私牙之分，官牙为官府开设，如开设于各处的官店，最初为征收商税和充当塌房而设，后来逐渐发展为官牙；私牙系私人开设，需经官府批准，交纳帖价，发给牙帖，"
+  },
+  {
+   "cn": "钦察汗国",
+   "en": "Golden Horde",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0193",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "中国元朝西北宗藩国（1243—1502）。成吉思汗赐给长子术赤的封国。最盛时疆域东起也儿的石河，西到斡罗思，南起巴尔喀什湖、里海、黑海，北到北极圈附近。"
+  },
+  {
+   "cn": "原始群",
+   "en": "primitive horde",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0329",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "从猿到人过渡时期正在形成中的人的群体，是刚刚脱离动物界的原始人共同生产、生活的集团。包括400 万年前的南方古猿阿法种和800-1400 万年前的腊玛古猿。主要成就是手足的初步分工，尚不平稳的直立行走"
+  },
+  {
+   "cn": "百夷",
+   "en": "Bai Yi",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0121",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。云南西南部古代少数民族的泛称。今傣族与之有直接渊源关系。明人钱古训、李思聪《百夷传》载：“俗有大百夷、小百夷、漂人、古剌、哈剌、缅人、结些、吟杜、弩人、蒲蛮、阿昌等名,故曰百夷。”"
+  },
+  {
+   "cn": "白语",
+   "en": "Bai language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0212",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国白族使用的语言。属汉藏语系藏缅语族，语支未定，有人认为属彝语支。主要分布在中国云南省大理白族自治州。分南、中、北3 个方言。使用人口约130 万人。汉语借词较多。曾使用汉字结构的白文记写白语。"
+  },
+  {
+   "cn": "白文",
+   "en": "Bai character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0367",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "一种仿汉字系文字。始于唐代。现存有石刻碑文和铜器铭文，古代白文书籍已经失传。现代白族民间艺人仍用白文写大本曲、民歌等。"
+  },
+  {
+   "cn": "百越",
+   "en": "Bai Yue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0146",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代南方越人的总称。以支系繁多，故名。比如句吴、于越、东瓯、扬越、闽越、南越、西瓯、骆越、滇越等。分布甚广，从东部到南部沿海诸省乃至西南的云贵高原。与今壮侗语族有渊源关系。"
+  },
+  {
+   "cn": "白蛮",
+   "en": "Bai Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0123",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。“白蛮”即“白彝”，为当今白族之先民，由汉、晋时期之僰人演变而来。最早分布于四川西部与云南境内，参考汉族对今彝族凉山地区遗留至今之奴隶制度中的阶级称呼，白蛮属于被统治阶级。"
+  },
+  {
+   "cn": "鲜卑",
+   "en": "Xian Bei",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0029",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。为东胡一支。魏晋南北朝时期建立北魏、吐谷浑等众多政权。上述政权瓦解后，逐渐融合于汉族及其他民族。"
+  },
+  {
+   "cn": "白爨",
+   "en": "Bai Cuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0139",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "元代一般以白蛮为白爨。"
+  },
+  {
+   "cn": "原始群",
+   "en": "primitive group/horde",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "从猿到人过渡时期正在形成中的人的群体。人类史前时期（前氏族时期）通过血缘关系自然形成的生活与劳动集合体。"
+  },
+  {
+   "cn": "保障性住房",
+   "en": "government subsidized house",
+   "source": "社会学名词",
+   "wordNumber": "4.3.8.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_住房保障服务",
+   "subjectName": "住房保障服务",
+   "publishYear": "2025",
+   "definition": "政府为通过市场解决住房有困难的城镇中低收入家庭所提供的限定标准、价格或租金的住房，一般由廉租住房、经济适用住房和政策性租赁住房构成。与“商品性住房”相对。"
+  },
+  {
+   "cn": "证券交易所",
+   "en": "stock exchange house",
+   "source": "马克思主义",
+   "wordNumber": "02.0247",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "专门买卖有价证券的市场。交易所中股票的发行和买卖加速了资本集中，促进资本生产发展；有价证券的买卖促进了资本在各个部门的转移，促进了竞争和利润率的平均化。但有价证券的暴涨暴跌为投机提供了条件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,802 @@
+{
+ "key": "ren zhi duan",
+ "term": "rén zhī duān",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:39:31+00:00",
+ "status": "ok",
+ "note": "variant=rén zhī duān; 审定公布名词库=701; 海峡两岸名词对照库=51; 其他来源数据库=35; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "兔褐毛",
+   "en": "dun",
+   "source": "畜牧学名词",
+   "wordNumber": "02.313",
+   "subjectFullName": "畜牧学_饲养管理_马饲养",
+   "subjectName": "马饲养",
+   "publishYear": "2020",
+   "definition": "马体躯毛色为骝毛、栗毛或灰毛，但鬣毛及四肢下部近黑色。"
+  },
+  {
+   "cn": "朱批奏折",
+   "en": "zhu pi zou zhe",
+   "source": "档案学名词",
+   "wordNumber": "07.01.073",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "清代奏折的一种，是皇帝用朱墨批阅过的奏折。朱批，指清帝用朱砂红笔在折尾所作的批示。"
+  },
+  {
+   "cn": "髋",
+   "en": "kuān,AH5,hip",
+   "source": "中医药学名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "中医药学_针灸学_耳穴名称和头皮穴线名称",
+   "subjectName": "耳穴名称和头皮穴线名称",
+   "publishYear": "2004",
+   "definition": "耳穴。在对耳轮上脚的下1/3处。"
+  },
+  {
+   "cn": "磉墩",
+   "en": "sang dun",
+   "source": "风景园林名词",
+   "wordNumber": "07.0447",
+   "subjectFullName": "风景园林_风景园林建筑_石作",
+   "subjectName": "石作",
+   "publishYear": "2025",
+   "definition": "柱顶石下之基础，多用砖、石砌筑。"
+  },
+  {
+   "cn": "断血穴",
+   "en": "duan xue point",
+   "source": "兽医学名词",
+   "wordNumber": "19.655",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "马、牛、猪穴名。马、猪位于倒数第一、二胸椎，最后胸椎与第一腰椎，第一、二腰椎棘突间的凹陷中。三穴。猪中间一穴称天平穴；牛仅取中间一穴，即天平穴。白针或火针。主治阉割出血、尿血、便血等。"
+  },
+  {
+   "cn": "顺串",
+   "en": "run",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0104",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "外排序中每组排序好的初始归并段。"
+  },
+  {
+   "cn": "去流段",
+   "en": "run",
+   "source": "船舶工程名词",
+   "wordNumber": "02.201",
+   "subjectFullName": "船舶工程_船舶总体",
+   "subjectName": "船舶总体",
+   "publishYear": "1998",
+   "definition": "设计水线面下，最大横剖面或平行中体后端到船体最后端的部分。"
+  },
+  {
+   "cn": "游程",
+   "en": "run",
+   "source": "数学名词",
+   "wordNumber": "09.0776",
+   "subjectFullName": "数学_概率论_数理统计_非参数统计",
+   "subjectName": "非参数统计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "敦煌学",
+   "en": "Dun Huang xue;Dun Huang manuscripts studies",
+   "source": "中国古代史名词",
+   "wordNumber": "1.701",
+   "subjectFullName": "中国古代史_通论_学科术语",
+   "subjectName": "学科术语",
+   "publishYear": "2022",
+   "definition": "以敦煌遗书、敦煌石窟、敦煌史迹和敦煌学理论为主要研究对象的综合性学科。源于20世纪初以来对莫高窟第17窟藏经洞发现的古代文献的研究，以后研究领域不断扩大，兼及敦煌史地、石窟考古、石窟艺术、敦煌文献及相"
+  },
+  {
+   "cn": "断事官",
+   "en": "duan shi guan;judge",
+   "source": "中国古代史名词",
+   "wordNumber": "7.123",
+   "subjectFullName": "中国古代史_辽金元_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "元朝至明初掌管司法事务的官职，源于蒙古国所设的札鲁忽赤。元朝建立后，札鲁忽赤成为大宗正府官员的专称，另设此职于诸王府及中书省、枢密院、宣政院等机构，各地行省一度亦设。明初设于五军都督府等机构，后废。"
+  },
+  {
+   "cn": "御断",
+   "en": "yu duan;imperial judgement",
+   "source": "中国古代史名词",
+   "wordNumber": "7.226",
+   "subjectFullName": "中国古代史_辽金元_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "金朝皇帝杖责宰相下至判司簿尉的刑罚。宋使忤金帝之命，有时也用此责罚。"
+  },
+  {
+   "cn": "类隔",
+   "en": "leige,a menfa principle relating duan and zhi initial groups",
+   "source": "语言学名词",
+   "wordNumber": "09.122",
+   "subjectFullName": "语言学_音韵学_音类分析和等韵学",
+   "subjectName": "音类分析和等韵学",
+   "publishYear": "2011",
+   "definition": "门法的一种。反切上字与被切字的声母类别不一致的反切，一般指舌头音和舌上音互切、重唇音和轻唇音互切。等韵门法中特指舌头音与舌上音的互切。"
+  },
+  {
+   "cn": "制",
+   "en": "zhi",
+   "source": "档案学名词",
+   "wordNumber": "07.01.025",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "秦代皇帝专用文种。秦始皇改“命”为“制”，用于颁布重大法制性命令。"
+  },
+  {
+   "cn": "旨",
+   "en": "zhi",
+   "source": "档案学名词",
+   "wordNumber": "07.01.040",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "宋代以后皇帝旨意的专称。"
+  },
+  {
+   "cn": "劄",
+   "en": "zha",
+   "source": "档案学名词",
+   "wordNumber": "07.01.094",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "中国古代官府往来文书下行文种。劄作为官文书，始于北宋。中书省、枢密院发给下级衙门命令的劄子，又称省劄、堂劄子。省劄中常用“劄付某某”的句式，元代劄付逐渐演变为官府下行文种名称。明代劄付为正式官文书，是"
+  },
+  {
+   "cn": "札",
+   "en": "zha",
+   "source": "档案学名词",
+   "wordNumber": "07.01.095",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "中国古代官府往来文书下行文种。清代乾隆中叶以后，讨论公务的书札被归入卷宗，成为公文，并逐渐取代了牌、票的功能。清代后期，札文成为最流行的下行文种，大多为地方上级对所属下级官员使用，但始终未被列为法定文"
+  },
+  {
+   "cn": "居停主人",
+   "en": "ju ting zhu ren;“residence host”-shopkeeper",
+   "source": "中国古代史名词",
+   "wordNumber": "5.216",
+   "subjectFullName": "中国古代史_隋唐五代_社会经济_工商等",
+   "subjectName": "工商等",
+   "publishYear": "2022",
+   "definition": "经营邸店的主人。简称“主人”，唐朝多见，以经营商货贮购批销、银钱存放、说合交易牟利。"
+  },
+  {
+   "cn": "四等人制",
+   "en": "si deng ren zhi;four classes system",
+   "source": "中国古代史名词",
+   "wordNumber": "7.258",
+   "subjectFullName": "中国古代史_辽金元_社会经济_身份户丁",
+   "subjectName": "身份户丁",
+   "publishYear": "2022",
+   "definition": "元朝的民族等级制度。据近代学者概括，元朝将治下人口分为蒙古、色目、汉人、南人4等，其中蒙古人为元朝的“国族”，色目人主要指西域人，汉人主要指原金朝境内各族，南人指最晚征服的南宋境内各族。其法律地位由高"
+  },
+  {
+   "cn": "人方",
+   "en": "Ren Fang;Ren State",
+   "source": "中国古代史名词",
+   "wordNumber": "2.475",
+   "subjectFullName": "中国古代史_先秦_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "位于殷商东南部的强大方国。又称“夷方”，应以夷人为主，大致在今鲁南、皖北一带，商王帝辛（纣王）在位时期曾率东部诸侯征伐之。"
+  },
+  {
+   "cn": "玄端",
+   "en": "xuan duan;black standard clothes",
+   "source": "中国古代史名词",
+   "wordNumber": "1.248",
+   "subjectFullName": "中国古代史_通论_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "黑色礼服和常服。原指黑色上衣，端指其衣袖近方，取义端正。西周配以玄冠、裳，为上士礼服和天子、诸侯闲居之服，中、下士则配黄或杂色裳。春秋时又称“缁衣”，配以素裳，为朝会之服。秦汉以来常为士人所服，渐被深"
+  },
+  {
+   "cn": "运转",
+   "en": "run",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "顺串",
+   "en": "run",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运行",
+   "en": "run",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "去流段",
+   "en": "run",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "谭盾",
+   "en": "Tan\",\"Dun(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "径流",
+   "en": "run off",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直馏油",
+   "en": "straight run",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "银行挤兑",
+   "en": "bank run",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "RYN法",
+   "en": "RYN method",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图发行量",
+   "en": "map run",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "浮标测流法",
+   "en": "float run",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "行差",
+   "en": "run error",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "试车",
+   "en": "run testing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "往测",
+   "en": "direct run",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "长版活",
+   "en": "long run",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "测试运行",
+   "en": "test run",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "行程编码",
+   "en": "run coding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "行程长度",
+   "en": "run length",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机器运行",
+   "en": "machine run",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚顺串",
+   "en": "dummy run",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶移动",
+   "en": "run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跑",
+   "en": "run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跑",
+   "en": "run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一场比赛",
+   "en": "run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "骑行",
+   "en": "ride\",\"run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "run\",\"score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空当",
+   "en": "run-out",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "慢速",
+   "en": "slow run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "快速",
+   "en": "fast run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助跑",
+   "en": "run-up",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "30公里长跑",
+   "en": "30km run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "折返点",
+   "en": "run turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "20公里长跑",
+   "en": "20km run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长跑比赛时间",
+   "en": "run time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "10公里长跑",
+   "en": "10km run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助跑",
+   "en": "run-up",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "投手责任得分",
+   "en": "earned run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "搁浅",
+   "en": "run aground",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "搁浅",
+   "en": "run aground",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "柔然",
+   "en": "Rou Ran",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0045",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名、古地方政权名。源于东胡。以游牧为主，兼事狩猎。初依附于北魏，后建立柔然汗国。555 年，柔然汗国被北魏灭亡，族众部分融入各民族中，部分西迁。"
+  },
+  {
+   "cn": "披甲人",
+   "en": "Pijia ren",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0012",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "清朝八旗旗丁之一类，降人出身，民族不一，多戍守边疆。"
+  },
+  {
+   "cn": "扎话",
+   "en": "Zha language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0366",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国僜人扎支系使用的一种语言，不同于当地藏语康方言，学界认为是格曼语和藏语的混合语。分布在西藏察隅县下察隅乡松古村、拉丁村和塔玛村。使用人口约1000 人。"
+  },
+  {
+   "cn": "协庆寺",
+   "en": "Zhe chen dgon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0563",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教寺院。协庆寺位于四川省甘孜藏族自治州德格县竹庆乡，全称“协庆丹尼达吉林寺”，是藏传佛教“宁玛派六大寺”之一。约在1731 年建成，该寺显密经论并举，注重修行宁玛派大圆满法，法脉传承延续至今，出"
+  },
+  {
+   "cn": "夏鲁派",
+   "en": "Zha lu pa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0506",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教教派之一。十四世纪中布顿仁钦朱创立，以日喀则附近之夏鲁寺为主寺，曾以传授四续灌顶及善讲密经著称一时。"
+  },
+  {
+   "cn": "息解派",
+   "en": "Zhi gcod pa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0507",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教教派之一。帕·当巴桑杰为11 世纪印度瑜伽士，传多次入藏弘扬息解教法，以诸法性空达至身心寂静。后由玛吉拉准（1055-1149）发扬为觉域派，意为断除魔境的修习方法，特色修行是在墓地观想舍弃自"
+  },
+  {
+   "cn": "本主节",
+   "en": "Ben Zhu Festival",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0233",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "白族的传统祭祀节日，白族的宗教信仰本主崇拜。本主又称本主神，白语称“武增”等，意为“我们的主人”。本主崇拜源于原始社会社神的崇拜和农耕祭祀，在南诏时期即已形成，后历经数百年的发展，本主数量不断增加，文"
+  },
+  {
+   "cn": "长期平均成本",
+   "en": "long-run average cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "长期内生产每一单位产品平均所花费的成本。"
+  },
+  {
+   "cn": "短期平均成本",
+   "en": "short-run average cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "短期内生产每一单位产品平均所需要的成本。"
+  },
+  {
+   "cn": "长期边际成本",
+   "en": "long-run marginal cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "在生产规模变动条件下，每增加一单位产量所增加的长期总成本。"
+  },
+  {
+   "cn": "短期边际成本",
+   "en": "short-run marginal cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.3.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "在短期内，每增加一单位产量所引起的总成本的增加量。"
+  },
+  {
+   "cn": "《大宝伏藏》",
+   "en": "Rin chen gter mdzod",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0339",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教伏藏经典文集。编纂者工珠·云丹加措（1813 年—1899 年），又名蒋贡康楚罗卓泰耶。该文集汇集了藏传佛教史上108 位大伏藏师的传记及其获取的伏藏典籍等，共63函木刻版典籍。"
+  },
+  {
+   "cn": "大宝法王",
+   "en": "Rin chen chos rje",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.044",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教封号称谓。1406 年，噶玛噶举黑帽系第五世活佛得银协巴（1384 年—1415 年）应明朝永乐皇帝之邀抵达南京，受到明成祖的盛情款待，并受封为万行具足十方最胜圆觉妙智慧善普应佑国演教如来大宝"
+  },
+  {
+   "cn": "短期供给曲线",
+   "en": "short-run aggregate supply curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "反映短期中总供给与价格关系的一条曲线。在短期内，总供给量与价格水平呈同方向变动，总供给曲线是一条向右上方倾斜的线。"
+  },
+  {
+   "cn": "长期供给曲线",
+   "en": "long-run aggregate supply curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.3.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "反映长期内总供给与价格的关系的曲线。"
+  },
+  {
+   "cn": "短期平均成本曲线",
+   "en": "short-run average cost curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "在生产规模保持一定时，反映平均总成本与产量的关系曲线，呈现先降后升趋势。"
+  },
+  {
+   "cn": "长期平均成本曲线",
+   "en": "long-run average cost curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "在生产规模可变化时，反映平均总成本与产量的关系曲线，呈现先降后升趋势。"
+  },
+  {
+   "cn": "布敦·仁钦珠",
+   "en": "Bu ston rin chen grub",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0385",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1290 年—1364 年）藏传佛教著名佛学大师，是藏文《大藏经•丹珠尔》的编订者，他原属绰浦噶举派，后创建藏传佛教夏鲁派，佛学和西藏历史著述颇多，其《布敦全集》包含200 余种著作。"
+  },
+  {
+   "cn": "洛钦•仁钦桑布",
+   "en": "Lo chen rin chen bzang po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0404",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（958 年—1055 年） 藏族著名翻译家。西藏阿里古格宁旺热特那人。公元970 年从益西桑布出家为僧。被古格王意希沃派往印度，先后拜75 位大师闻习大量教理典籍，精通一切显密经论，善于讲辩、著述，"
+  },
+  {
+   "cn": "止观双运",
+   "en": "Lhag mthong /Zhi gnas/Zung vjug",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0517",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。藏传佛教密宗的修行方法。“止”，又称“寂止”，音译“奢摩他”，一切禅定的总括或因，注意力集中于所修静虑中。 “观”音译“毗婆舍那”，意为“智慧”，特指以慧眼观察诸法本性真实差别。双修止观"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,392 @@
+{
+ "key": "humorism",
+ "term": "Humorism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:38:14+00:00",
+ "status": "ok",
+ "note": "variant=Humorism; 审定公布名词库=54; 海峡两岸名词对照库=14; 其他来源数据库=2; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "幽默",
+   "en": "humor",
+   "source": "行为医学名词",
+   "wordNumber": "10.068",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "有趣、可笑或意味深长的表达方式。个体主动或者在遇到挫折、处境困难或尴尬时，用其调节氛围、化解困境，维持自己心理平衡。"
+  },
+  {
+   "cn": "房水",
+   "en": "aqueous humor，humor aquosus(拉)",
+   "source": "兽医学名词",
+   "wordNumber": "06.495",
+   "subjectFullName": "兽医学_家畜解剖学",
+   "subjectName": "家畜解剖学",
+   "publishYear": "2023",
+   "definition": "眼房里的无色透明液体。由睫状突和虹膜产生，渗入巩膜静脉窦。有运送营养（供给角膜和晶状体营养）及代谢产物，还有曲折光线和维持眼内压的作用。"
+  },
+  {
+   "cn": "五液",
+   "en": "five humors",
+   "source": "中医药学名词",
+   "wordNumber": "03.093",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "五脏所化生的液体，即汗、涕、泪、涎、唾。"
+  },
+  {
+   "cn": "体液因子",
+   "en": "humoral factor",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0206",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "泛指机体液中的活性因子。包括激素、神经递质和神经肽、细胞因子以及局部化学介质等，是机体内重要的化学信号。"
+  },
+  {
+   "cn": "体液调节",
+   "en": "humoral regulation",
+   "source": "麻醉学名词",
+   "wordNumber": "01.414",
+   "subjectFullName": "麻醉学_麻醉学基础_内分泌系统",
+   "subjectName": "内分泌系统",
+   "publishYear": "2024",
+   "definition": "机体通过生成并分泌某些特殊的化学物质（如激素、代谢产物等），经体液（血液、组织液等）运输，到达相应靶细胞，对其功能活动进行调节的方式。"
+  },
+  {
+   "cn": "体液调节",
+   "en": "humoral regulation",
+   "source": "兽医学名词",
+   "wordNumber": "04.022",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "机体某些细胞合成的一些化学物质，经血液循环或局部扩散，作用于相应细胞上的受体，进而改变其功能活动的调节方式。"
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "血液学名词",
+   "wordNumber": "2.003",
+   "subjectFullName": "血液学_基础",
+   "subjectName": "基础",
+   "publishYear": "2022",
+   "definition": "在抗原刺激下，B细胞被激活、增殖、产生抗体，清除特异性抗原的过程。"
+  },
+  {
+   "cn": "体液调节",
+   "en": "humoral regulation",
+   "source": "行为医学名词",
+   "wordNumber": "3.061",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2022",
+   "definition": "体液中某些化学性物质对组织、器官、细胞功能活动进行的调控。特点是作用缓慢、持续时间长、作用部位广泛。"
+  },
+  {
+   "cn": "房水",
+   "en": "aqueous humor",
+   "source": "动物学名词",
+   "wordNumber": "3.0487",
+   "subjectFullName": "动物学_动物组织学_主要器官组织_感觉器官组织结构",
+   "subjectName": "感觉器官组织结构",
+   "publishYear": "2021",
+   "definition": "充满于前房和后房中的透明弱碱性液体。由睫状体的血液渗出和非色素上皮细胞分泌而成，有屈光和营养晶状体、角膜以及维持眼压的功能。"
+  },
+  {
+   "cn": "玻璃状液",
+   "en": "vitreous humor",
+   "source": "动物学名词",
+   "wordNumber": "5.1828",
+   "subjectFullName": "动物学_无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2021",
+   "definition": "填充于晶状体和视网膜之间的透明胶状物质。"
+  },
+  {
+   "cn": "体液调节",
+   "en": "humoral regulation",
+   "source": "生理学名词",
+   "wordNumber": "01.041",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "房水",
+   "en": "aqueous humor",
+   "source": "生理学名词",
+   "wordNumber": "03.317",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "体液性排斥反应",
+   "en": "humoral rejection",
+   "source": "器官移植学名词",
+   "wordNumber": "01.026",
+   "subjectFullName": "器官移植学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "一类人类白细胞抗原抗体介导的排斥反应。常导致移植物丧失功能。强效免疫抑制剂和B细胞抑制剂常用于治疗体液性排斥反应。"
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "器官移植学名词",
+   "wordNumber": "02.008",
+   "subjectFullName": "器官移植学_器官移植免疫学",
+   "subjectName": "器官移植免疫学",
+   "publishYear": "2020",
+   "definition": "B细胞所介导的免疫。主要通过产生抗体而发挥效应。"
+  },
+  {
+   "cn": "体液因子",
+   "en": "humoral factor",
+   "source": "感染病学名词",
+   "wordNumber": "01.0207",
+   "subjectFullName": "感染病学_总论_宿主防御机制",
+   "subjectName": "宿主防御机制",
+   "publishYear": "2019",
+   "definition": "生物体液中的活性因子。包括激素、神经递质和神经肽、细胞因子及局部化学介质等，是生物体内最主要的化学信号。"
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "感染病学名词",
+   "wordNumber": "01.0252",
+   "subjectFullName": "感染病学_总论_宿主防御机制",
+   "subjectName": "宿主防御机制",
+   "publishYear": "2019",
+   "definition": "B细胞接受某种抗原刺激后，经活化、增殖、分化为浆细胞，并由此合成和分泌能与相应抗原结合的特异性抗体，即免疫球蛋白，继而由这种抗体清除和破坏特定抗原的过程。"
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "烧伤学名词",
+   "wordNumber": "01.129",
+   "subjectFullName": "烧伤学_烧伤概论_烧伤的临床过程",
+   "subjectName": "烧伤的临床过程",
+   "publishYear": "2019",
+   "definition": "以浆细胞产生抗体来达到防御目的的免疫机制。负责体液免疫的细胞是 B细胞。体液免疫的抗原多为相对分子质量在 10 000以上的蛋白质和多糖大分子。病毒颗粒和细菌表面都带有不同的抗原，能引起体液免疫。"
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "结核病学名词",
+   "wordNumber": "02.031",
+   "subjectFullName": "结核病学_结核病病原菌及发病机制_发病机制",
+   "subjectName": "发病机制",
+   "publishYear": "2019",
+   "definition": "广义指所有体液免疫因子参与的免疫反应；狭义指由B细胞分泌抗体介导的免疫反应。"
+  },
+  {
+   "cn": "玻璃状液",
+   "en": "vitreous humor",
+   "source": "物理学名词",
+   "wordNumber": "11.0444",
+   "subjectFullName": "物理学_交叉学科_生物物理学",
+   "subjectName": "生物物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "房水",
+   "en": "aqueous humor",
+   "source": "人体解剖学名词",
+   "wordNumber": "07.0064",
+   "subjectFullName": "人体解剖学_感觉器_视器",
+   "subjectName": "视器",
+   "publishYear": "2014",
+   "definition": "充满于眼房内的无色透明液体。"
+  },
+  {
+   "cn": "玻璃体液",
+   "en": "vitreous humor",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "房水",
+   "en": "aqueous humor",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "体液因子",
+   "en": "humor factor",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "[眼]房水",
+   "en": "humor aquosus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体液因子",
+   "en": "humoral factor",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "房水",
+   "en": "aqueous humor",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "体液免疫应答",
+   "en": "humoral immune response",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "胸腺体液因子",
+   "en": "thymic humoral factor",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体液免疫应答",
+   "en": "humoral immune response",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "胸腺体液因子",
+   "en": "thymic humoral factor\",\"THF",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "四体液说",
+   "en": "humorism",
+   "source": "社会医学名词",
+   "wordNumber": "2.2.1",
+   "subjectFullName": "医学模式",
+   "subjectName": "自然哲学医学模式",
+   "publishYear": "2025",
+   "definition": "将水、火、土、气与人体的黏液、血液、黑胆汁和黄胆汁相对应的学说，认为健康、疾病及性格由四种体液的混合比例决定。"
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.13",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "通过效应B细胞（浆细胞）分泌抗体，并与抗原发生特异性结合来清除抗原，以达到保护目的的免疫机制。"
+  },
+  {
+   "cn": "人道主义",
+   "en": "humanism",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "起源于欧洲15世纪文艺复兴运动以来的思想体系，核心是尊重人性，维护人的尊严与价值。"
+  },
+  {
+   "cn": "历史人学人学辩证法",
+   "en": "historical anthropology humanism dialectic",
+   "source": "马克思主义",
+   "wordNumber": "05.0060",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特认为马克思主义有“忽视人”的缺陷，这种缺陷成为存在主义复活的源泉。存在主义从马克思主义那里获得了生命的营养和历史条件，这种新生具体体现在历史人学或者说人学辩证法上。人类主体从集合到群体的演变构成为"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

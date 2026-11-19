@@ -1,0 +1,52 @@
+{
+ "key": "prakaranapancika",
+ "term": "Prakaraṇapañcikā",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:31:51+00:00",
+ "status": "ok",
+ "note": "variant=Prakaraṇapañcikā; 审定公布名词库=2; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "6-APA6α-取代物",
+   "en": "6-APA 6α-substi- tuent",
+   "source": "药学名词",
+   "wordNumber": "04.123",
+   "subjectFullName": "药学_微生物药学",
+   "subjectName": "微生物药学",
+   "publishYear": "2014",
+   "definition": "6-氨基青霉烷酸的6α-取代物。"
+  },
+  {
+   "cn": "6-APA6β-取代物",
+   "en": "6-APA 6β-substituent",
+   "source": "药学名词",
+   "wordNumber": "04.122",
+   "subjectFullName": "药学_微生物药学",
+   "subjectName": "微生物药学",
+   "publishYear": "2014",
+   "definition": "6-氨基青霉烷酸的6β-取代物。"
+  },
+  {
+   "cn": "6-APA 6α-取代物",
+   "en": "6-APA 6α-substituent",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "6-APA 6β-取代物",
+   "en": "6-APA 6β-substituent",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

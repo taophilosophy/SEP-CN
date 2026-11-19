@@ -1,0 +1,752 @@
+{
+ "key": "sao paulo brazil",
+ "term": "São Paulo Brazil",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:34:28+00:00",
+ "status": "ok",
+ "note": "variant=São Paulo Brazil; 审定公布名词库=756; 海峡两岸名词对照库=164; 其他来源数据库=41; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "巴西奴隶猎取队",
+   "en": "Bandeiras,Brazil",
+   "source": "世界历史名词",
+   "wordNumber": "04.0701",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南美",
+   "subjectName": "南美",
+   "publishYear": "2012",
+   "definition": "葡萄牙统治巴西时期，殖民者深入内地捕捉印第安人的武装远征队。"
+  },
+  {
+   "cn": "巴西双晶",
+   "en": "Brazil twin",
+   "source": "地质学名词",
+   "wordNumber": "04.082",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "巴西双晶律",
+   "en": "Brazil twin law",
+   "source": "地质学名词",
+   "wordNumber": "02.00.134",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "由一左形和一右形的两个单体构成的穿插双晶。石英晶体中常见的一种双晶律。"
+  },
+  {
+   "cn": "黄金周期",
+   "en": "Brazil Gold Rush",
+   "source": "世界历史名词",
+   "wordNumber": "04.0704",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南美",
+   "subjectName": "南美",
+   "publishYear": "2012",
+   "definition": "1699-1800年，巴西出现的“采金热”。"
+  },
+  {
+   "cn": "巴西帝国",
+   "en": "Empire of Brazil",
+   "source": "世界历史名词",
+   "wordNumber": "04.0712",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南美",
+   "subjectName": "南美",
+   "publishYear": "2012",
+   "definition": "1822-1889年，巴西摆脱葡萄牙殖民统治后建立的帝国。"
+  },
+  {
+   "cn": "巴西启蒙运动",
+   "en": "Enlightenment in Brazil",
+   "source": "世界历史名词",
+   "wordNumber": "04.0707",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南美",
+   "subjectName": "南美",
+   "publishYear": "2012",
+   "definition": "18世纪下半叶，巴西的思想文化运动，使资产阶级的自由主义和改良思想渗透整个社会。"
+  },
+  {
+   "cn": "巴西独立",
+   "en": "Independence of Brazil",
+   "source": "世界历史名词",
+   "wordNumber": "04.0711",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南美",
+   "subjectName": "南美",
+   "publishYear": "2012",
+   "definition": "巴西人民经过长期斗争，1822年，由摄政王佩德罗宣告国家独立，成为立宪帝国。"
+  },
+  {
+   "cn": "圣保罗起义",
+   "en": "1924 Uprising in So Paulo",
+   "source": "世界历史名词",
+   "wordNumber": "04.0722",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南美",
+   "subjectName": "南美",
+   "publishYear": "2012",
+   "definition": "1924-1927年，巴西圣保罗士兵发动的反独裁起义。"
+  },
+  {
+   "cn": "巴西共和运动",
+   "en": "Movement for Republic in Brazil",
+   "source": "世界历史名词",
+   "wordNumber": "04.0710",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南美",
+   "subjectName": "南美",
+   "publishYear": "2012",
+   "definition": "19世纪，巴西人民为推翻君主专制、建立共和国而进行的长期斗争。"
+  },
+  {
+   "cn": "泡利算符",
+   "en": "Pauli operator",
+   "source": "物理学名词",
+   "wordNumber": "06.0665",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "泡利顺磁性",
+   "en": "Pauli paramagnetism",
+   "source": "物理学名词",
+   "wordNumber": "08.1855",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "泡利方程",
+   "en": "Pauli equation",
+   "source": "物理学名词",
+   "wordNumber": "06.0663",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "泡利门",
+   "en": "Pauli gate",
+   "source": "物理学名词",
+   "wordNumber": "06.0821",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "泡利矩阵",
+   "en": "Pauli matrix",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0037",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "一组2 × 2的复厄米（Hermitian）酉矩阵：<img src='/root/syzx/static/spz/jsjkx3.12.0037.001.png'/>，<img src='/root/"
+  },
+  {
+   "cn": "梭叶",
+   "en": "suo ye",
+   "source": "风景园林名词",
+   "wordNumber": "07.0527",
+   "subjectFullName": "风景园林_风景园林建筑_钉",
+   "subjectName": "钉",
+   "publishYear": "2025",
+   "definition": "格扇上安装圈子的金属材料。"
+  },
+  {
+   "cn": "过所",
+   "en": "guo suo",
+   "source": "档案学名词",
+   "wordNumber": "07.01.133",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "古代为通过关津而向官府申领的通行文书。过所由汉代的符、传发展而来，至唐代制度已臻于完备。唐代的过所在中央由尚书省颁发，在地方则由都督府或州发给。"
+  },
+  {
+   "cn": "牒索",
+   "en": "die suo",
+   "source": "档案学名词",
+   "wordNumber": "08.02.005",
+   "subjectFullName": "档案学_中国档案事业史_档案工作制度",
+   "subjectName": "档案工作制度",
+   "publishYear": "2024",
+   "definition": "唐代史馆征集档案的方式。唐史馆除据《诸司应送史馆事例》收集各机关档案外，还可经访查，对有关机关确存有可供修史参考的档案，可直接以公牍牒文索取，称牒索。凡接牒索机关，须在一月之内将所索材料报送史馆。"
+  },
+  {
+   "cn": "主—动—宾语序语言",
+   "en": "SVO language",
+   "source": "语言学名词",
+   "wordNumber": "01.180",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "按照及物动词、名词性主语和宾语在一般陈述句中的位置顺序划分的一种语言类型。主—动—宾语序语言中，三者顺序依次是主语、动词和宾语。"
+  },
+  {
+   "cn": "泡利不相容原理",
+   "en": "Pauli exclusion principle",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.378",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "量子力学基本原理之一。认为一个量子系统中不可能有两个或两个以上的费米子同时处于完全相同的量子态。"
+  },
+  {
+   "cn": "泡利不相容原理",
+   "en": "Pauli exclusion principle",
+   "source": "物理学名词",
+   "wordNumber": "06.0426",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "巴西[暖]海流",
+   "en": "Brazil current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "巴西海流",
+   "en": "Brazil Current",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "巴西海盆",
+   "en": "Brazil Basin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "圣保罗",
+   "en": "St. Paul",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mendelssohn (Bartholdy), Felix"
+  },
+  {
+   "cn": "连合下器",
+   "en": "subcommissural organ\",\"SCO",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "穹窿下器",
+   "en": "subfornical organ\",\"SFO",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "冰针",
+   "en": "frazil ice",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "冰塞",
+   "en": "frazil jam",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "水内冰",
+   "en": "frazil ice",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "罗伯逊，保罗",
+   "en": "Robeson\",\"Paul(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "克罗斯利",
+   "en": "Crossley\",\"Paul(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "托尔特里耶",
+   "en": "Tortelier\",\"Paul(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "维特根施泰因",
+   "en": "Wittgenstein\",\"Paul(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "皮埃内，保罗",
+   "en": "Pierné\",\"Paul(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "杜卡",
+   "en": "Dukas\",\"Paul(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "萨赫尔",
+   "en": "Sacher\",\"Paul(瑞士)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "德绍，保罗",
+   "en": "Dessau\",\"Paul(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "克伦格尔，保尔",
+   "en": "Klengel\",\"Paul(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多克特",
+   "en": "Doktor\",\"Paul(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "兴德米特",
+   "en": "Hindemith\",\"Paul(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "《反互联网犯罪法》（巴西）",
+   "en": "Anti-Internet Crimes Act (Brazil)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "巴西国家个人数据保护局",
+   "en": "National Authority for Personal Data Protection (Brazil)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "上海合作组织青岛峰会",
+   "en": "SCO Qingdao Summit",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "跟随",
+   "en": "trail",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单点登录",
+   "en": "single sign-on (SSO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑模型",
+   "en": "brain model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工脑",
+   "en": "artificial brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "农业大脑",
+   "en": "agricultural brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济大脑",
+   "en": "Economic Brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市大脑",
+   "en": "city brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "ET大脑",
+   "en": "ET brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "当然",
+   "en": "Should Be So",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "汲水",
+   "en": "bail",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类脑计算",
+   "en": "brain-inspired computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "巴西共产党",
+   "en": "Comunist party of Brazil",
+   "source": "马克思主义",
+   "wordNumber": "05.0329",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "巴西执政联盟成员。1962年从原“巴西的共产党”中分裂出来，将1922年3月25日作为建党日。1985年获合法地位后，主张巩固左翼力量，建立最广泛的人民联盟，宣传马列主义，加强党建，坚持议会斗争。主要"
+  },
+  {
+   "cn": "劳工社会主义",
+   "en": "labor party socialism in Brazil",
+   "source": "马克思主义",
+   "wordNumber": "05.0254",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "巴西劳工党的指导思想。成立于1980年的巴西劳工党是巴西最大的左翼政党，2002年至今为巴西主要执政党。2007年，劳工党“三大”通过了“劳工社会主义”的20点决议，主张创建一个符合巴西国情、不同于民"
+  },
+  {
+   "cn": "巴西高本底地区",
+   "en": "high-background radiation area in Brazil",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.2.2.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究对象",
+   "subjectName": "研究对象",
+   "publishYear": "2025",
+   "definition": "最著名的一个区域是位于巴西里约热内卢市北部的海滨休养地的Guarapari镇，另外的区域位于东南部内陆地区Minas Gerais州的Pocos de Caldas，Araxa和Tapira。Guar"
+  },
+  {
+   "cn": "血氧饱和度",
+   "en": "blood oxygen saturation, SaO₂",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.1.8",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "血液中被氧结合的氧合血红蛋白的容量占全部可结合的血红蛋白容量的百分比，即血液中血氧的浓度，是呼吸循环的重要生理参数。"
+  },
+  {
+   "cn": "圣多美和普林西比人",
+   "en": "Sao Tome and Principean",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0239",
+   "subjectFullName": "民族学与文化学_世界民族_非洲地区",
+   "subjectName": "非洲地区",
+   "publishYear": "2025",
+   "definition": "非洲现代民族（nation）,拥有圣多美和普林西比民主共和国国籍和公民身份的人们共同体，人口约为22.31 万（2021 年）。90％为班图人，其余为混血种人。官方语言为葡萄牙语。90％的人信奉天主教"
+  },
+  {
+   "cn": "脑发育",
+   "en": "brain development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑经过神经胚形成、前脑发育、神经元增殖、神经元移行、神经组织全面发展和功能完善、髓鞘形成等六个阶段的发展变化过程。"
+  },
+  {
+   "cn": "脑死亡",
+   "en": "brain death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.025",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "脑血流完全停止和脑部广泛性梗死所致的包括脑干在内的全脑功能不可逆地丧失。它是继心肺死亡标准后的一种科学的死亡标准。"
+  },
+  {
+   "cn": "巴赞硬结红斑",
+   "en": "Bazin erythema induratum",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_皮肤、软组织疾病",
+   "subjectName": "皮肤、软组织疾病",
+   "publishYear": "2025",
+   "definition": "青年女性多见，表现为红斑、结节，压痛明显，结节逐渐增大或长期无变化，部分破溃，排出黄色干酪样物质，愈后留萎缩性疤痕及色素沉着。对称发生于小腿屈侧，亦见于小腿伸侧、足部、大腿、臀部及双上肢。常与其他内脏"
+  },
+  {
+   "cn": "控脑武器",
+   "en": "control brain weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.3.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "主要通过物理和化学手段对人脑造成影响，控制人脑思维活动的武器。它基于对人脑信息的获取、解读、传播和控制，通过直接影响和控制人类思维来发挥作用。"
+  },
+  {
+   "cn": "脑死亡标准",
+   "en": "brain death criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.033",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "以大脑、小脑和脑干在内的全脑功能的不可逆性丧失为基础的死亡标准。"
+  },
+  {
+   "cn": "脑诱发电位",
+   "en": "Brain Evoked Potential, BEP",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.2.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "当感觉系统（如视觉、听觉、躯体感觉）接受刺激（如光、声音、电流）或大脑执行认知任务（如记忆、决策）时，神经元会产生同步化电信号，经传导路径到达皮层或皮层下结构，形成可检测的电位变化。"
+  },
+  {
+   "cn": "放射性脑损伤",
+   "en": "radiation induced brain injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "电离辐射照射超过剂量阈值（分次照射累积剂量大于55Gy，一次或等效一次照射剂量大于10Gy）而导致的脑组织损伤。临床主要表现为脑水肿所致的颅压增高症状和脑组织坏死所致的定位障碍。"
+  },
+  {
+   "cn": "脑功能发育",
+   "en": "development of brain function",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "脑组织和功能随年龄增长的发展变化过程。额叶、枕叶的初级感觉运动皮质最先成熟，然后小脑、顶枕叶、额叶皮质下中枢发育成熟，最后与执行功能、注意控制有关的额叶成熟；脑结构的发育成熟伴随相应的脑功能成熟。"
+  },
+  {
+   "cn": "道德规范十六条",
+   "en": "Mi chos gtsang ma so drug",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0445",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏学名词。是吐蕃赞普松赞干布为吐蕃民众制定的道德规范条文，其内容如下：1 敬信三宝；2.求修正法；3.报父母恩；4.尊重；5 敬贵尊老；6.利济乡邻；7.直言小心；8.义深亲友；9.追踪上流，远虑高瞻"
+  },
+  {
+   "cn": "大脑发育加速期",
+   "en": "period of accelerated brain development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "胎儿期最后3个月和婴儿出生后头两年的阶段。成人脑一半以上的重量都在该阶段获得。"
+  },
+  {
+   "cn": "学习大脑活动特征",
+   "en": "brain activity characteristics of learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "参与学习过程中大脑皮质具有的特定的功能活动特性。"
+  },
+  {
+   "cn": "规范试验残留高值",
+   "en": "supervised trail maximum residue level",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.62",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "当农药按照最高的良好农业操作规范（GAP）条件使用时，粮食中的最大残留水平（以毫克残留物/公斤产品表示）。"
+  },
+  {
+   "cn": "规范试验残留中值",
+   "en": "supervised trail median residue level",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.61",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "当农药按照最高的良好农业操作规范（GAP）条件使用时，粮食中的期望残留水平（以毫克残留物/公斤产品表示）。"
+  },
+  {
+   "cn": "控脑武器损伤",
+   "en": "injuries of control brain weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.3.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "由控制操纵人类大脑思维活动的武器导致的损伤。其中物理控脑武器借电磁波、声波、光波等物理手段刺激干扰大脑，影响情绪、意识等；精神控脑武器则通过药物、催眠、心理暗示等控制人的思维和行为。"
+  },
+  {
+   "cn": "脑死亡供体移植",
+   "en": "organ transplantation from brain-dead donors",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.032",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "依据脑死亡标准，将脑死亡者作为器官供体的移植。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

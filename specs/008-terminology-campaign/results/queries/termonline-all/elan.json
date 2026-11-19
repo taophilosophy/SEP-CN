@@ -1,0 +1,782 @@
+{
+ "key": "elan",
+ "term": "élan",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:29:40+00:00",
+ "status": "ok",
+ "note": "variant=élan; 审定公布名词库=503; 海峡两岸名词对照库=103; 其他来源数据库=55; 预公布名词数据库=63; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "无线局域网",
+   "en": "wireless LAN,WLAN",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.103",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统",
+   "subjectName": "医学影像信息系统",
+   "publishYear": "2020",
+   "definition": "空间电磁波取代网线作为载体来传输数据，以无线方式构成的局域网。"
+  },
+  {
+   "cn": "仿真局域网",
+   "en": "emulated LAN,ELAN",
+   "source": "通信科学技术名词",
+   "wordNumber": "02.121",
+   "subjectFullName": "通信科学技术_通信网络",
+   "subjectName": "通信网络",
+   "publishYear": "2007",
+   "definition": "使用局域网仿真(LANE)协议机制由一个异步转移模式网络仿真而成的局域网(LAN)。"
+  },
+  {
+   "cn": "无线局域网",
+   "en": "wireless LAN,WLAN",
+   "source": "通信科学技术名词",
+   "wordNumber": "12.009",
+   "subjectFullName": "通信科学技术_移动通信",
+   "subjectName": "移动通信",
+   "publishYear": "2007",
+   "definition": "工作于2.5GHz或5GHz频段，以无线方式构成的局域网。"
+  },
+  {
+   "cn": "平面图",
+   "en": "plan,topographical plan",
+   "source": "电气工程名词",
+   "wordNumber": "01.971",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "建筑平面图",
+   "en": "plan",
+   "source": "风景园林名词",
+   "wordNumber": "07.0101",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "用水平的剖切面沿门窗洞位置将建筑物剖切后，对剖切面以下部分所作的水平投影图。"
+  },
+  {
+   "cn": "规划［成果］",
+   "en": "plan",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.042",
+   "subjectFullName": "城乡规划学_城乡规划总述_城乡规划及相关规划",
+   "subjectName": "城乡规划及相关规划",
+   "publishYear": "2021",
+   "definition": "规划制定工作完成的成果。"
+  },
+  {
+   "cn": "平面图",
+   "en": "plan",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.218",
+   "subjectFullName": "城乡规划学_城乡规划总述_成果表达",
+   "subjectName": "成果表达",
+   "publishYear": "2021",
+   "definition": "在一定区域范围内把地球表面当作平面所绘制的正射投影图，或者是假想用一水平切平面将房屋（群）剖切后，作切面以下部分的水平投影图。通常按照一定比例绘制。"
+  },
+  {
+   "cn": "平面图",
+   "en": "plan",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0165",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "建筑物、构筑物等在水平投影上所得的图形。"
+  },
+  {
+   "cn": "计划",
+   "en": "plan",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0057",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "概括了如何实现目标的文件。包括资源分配、日程安排以及其他实现目标的必要行动。"
+  },
+  {
+   "cn": "平面图",
+   "en": "plan",
+   "source": "建筑学名词",
+   "wordNumber": "09.0082",
+   "subjectFullName": "建筑学_建筑设计_建筑表现与识图",
+   "subjectName": "建筑表现与识图",
+   "publishYear": "2014",
+   "definition": "用一水平的剖切面沿门窗洞位置将房屋剖切后，对剖面以下部分所作的水平投影图。"
+  },
+  {
+   "cn": "氏族",
+   "en": "clan",
+   "source": "世界历史名词",
+   "wordNumber": "02.0017",
+   "subjectFullName": "世界历史_古代中世纪_原始社会",
+   "subjectName": "原始社会",
+   "publishYear": "2012",
+   "definition": "原始社会结构中重要的基本亲属群体，因群体成员实际上或名义上是一个共同祖先的后裔而得名。"
+  },
+  {
+   "cn": "规划图",
+   "en": "plan,planning map",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.207",
+   "subjectFullName": "城乡规划学_城乡规划总述_成果表达",
+   "subjectName": "成果表达",
+   "publishYear": "2021",
+   "definition": "以图纸形式表达城乡规划内容的文件。"
+  },
+  {
+   "cn": "虚拟局域网",
+   "en": "virtual local area network,VLAN",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0031",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "一个局域网的逻辑分段。它与局域网的其他分段隔离，并且只有通过具有过滤功能的连接单元才能被在其他分段上的计算机访问。"
+  },
+  {
+   "cn": "无线局域网",
+   "en": "wireless local area network,WLAN",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0030",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "不使用导线（电缆或光缆）、采用无线电波作为介质来传送数据的局域网。"
+  },
+  {
+   "cn": "计划、实施、研究、改进模式",
+   "en": "plan,do,study,ameliorate mode,PDSA mode",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0933",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "员工通过减少顾客需求与过程性能之间的差异来提高或者变革过程的方法或路标。包括计划、实施、研究、改进四个步骤。"
+  },
+  {
+   "cn": "局域网",
+   "en": "local area network,LAN",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.099",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统",
+   "subjectName": "医学影像信息系统",
+   "publishYear": "2020",
+   "definition": "在一个局部的地理范围内采用有线和（或）无线的方式，将各种计算机、外部设备和数据库等互相连接起来而组成的计算机通信网。"
+  },
+  {
+   "cn": "局域网",
+   "en": "local area network,LAN",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0013",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "位于用户处所并分布在有限地理区域内的计算机网络。"
+  },
+  {
+   "cn": "局域网",
+   "en": "local area network,LAN",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.259",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "分布在相对有限地理区域内(几十米到25km)，用传输线路连接起来，进行高速低错误率数据传输的计算机通信网。"
+  },
+  {
+   "cn": "局域网",
+   "en": "local area network,LAN",
+   "source": "通信科学技术名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "通信科学技术_通信网络",
+   "subjectName": "通信网络",
+   "publishYear": "2007",
+   "definition": "一种覆盖一座或几座大楼、一个校园或者一个厂区等地理区域的小范围的计算机网。"
+  },
+  {
+   "cn": "局域网",
+   "en": "local area network,LAN",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0756",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "单种植物小群",
+   "en": "clan",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "局域网",
+   "en": "local area network\",\"LAN",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "总体规划",
+   "en": "master plan\",\"comprehensive plan",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "总体规划",
+   "en": "general plan\",\"master plan",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "航行计划",
+   "en": "navigational plan\",\"sailing plan",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "凯恩斯计划",
+   "en": "Keynes Plan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资计划",
+   "en": "investment plan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "氏族社会",
+   "en": "clan society",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城镇规划",
+   "en": "town plan",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "带状平面图",
+   "en": "zone plan",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "地段图",
+   "en": "pracellary plan",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "建筑物平面图",
+   "en": "building plan",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "区域计划",
+   "en": "regional plan",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "线路平面图",
+   "en": "route plan",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "编号计划",
+   "en": "numbering-plan",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测试计划",
+   "en": "test plan",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽样方案",
+   "en": "sampling plan",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后备计划",
+   "en": "backup plan",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策计划",
+   "en": "decision plan",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "设计规划",
+   "en": "design plan",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛计划",
+   "en": "game plan",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帆面",
+   "en": "sail plan",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "战术计划",
+   "en": "tactical plan",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宗法",
+   "en": "Feudal Clan System",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融突发事件应急预案",
+   "en": "financial emergency plan",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全规划",
+   "en": "Data Security Plan",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "急救疏散方案",
+   "en": "medical evacuation plan",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伊朗国家加密货币计划",
+   "en": "National Cryptocurrency Plan (Iran)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据管理计划",
+   "en": "data management plan (DMP)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《金融科技行动计划》（欧盟）",
+   "en": "Fintech Action Plan (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子政府行动计划",
+   "en": "E-Government Action Plan",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "错峰上下班",
+   "en": "staggered rush hour plan",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“互联网+”行动计划",
+   "en": "Internet Plus Action Plan",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "路线图",
+   "en": "plan of the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水道平面图",
+   "en": "plan of the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字教育行动计划（欧盟）",
+   "en": "Digital Education Action Plan (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧政府实施计划（韩国）",
+   "en": "Smart Government Plan (South Korea)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计划",
+   "en": "plan",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "在社会工作实务中，面对案主的问题，社会工作者和案主一起探讨并确立一套针对性行动的过程，其内容包括解决问题的途径、方法、步骤，可用资源和预期达成的目标等。"
+  },
+  {
+   "cn": "氏族",
+   "en": "clan",
+   "source": "马克思主义",
+   "wordNumber": "03.0006",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原始社会以共同血缘关系结合而成的一种氏族团体。氏族成员出自一个共同的祖先。氏族是当时社会组织的基层经济单位，实行财产公有，集体劳动，平均分配，共享劳动成果，没有剥削和阶级。公共事务由民主选举的氏族长管"
+  },
+  {
+   "cn": "氏族",
+   "en": "clan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0333",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "原始社会以共同血缘关系结合而成的一种血族团体，其成员出自一个共同的祖先。氏族是原始社会的基本经济单位，实行生产资料公有，集体劳动，平均分配，没有剥削。公共事务由选举出的氏族长管理，重大事情由氏族成员会"
+  },
+  {
+   "cn": "宗族",
+   "en": "patriarchal clan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0279",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以血缘关系为纽带并聚族而居的社会集团。"
+  },
+  {
+   "cn": "应急计划",
+   "en": "emergency plan",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.8",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为应对核或辐射紧急情况所制定并实施的一种经审批的文件或一组程序。它描述了该文件的编制与实施单位的应急响应功能、组织、设施和设备，以及和外部应急组织间的协调和相互支持关系。该文件还必须有专门的执行程序加"
+  },
+  {
+   "cn": "介入方案",
+   "en": "intervention plan/",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作介入服务对象的需要与问题所制定的具体方案，其侧重于改变服务对象态度和行为的一系列方法及其运用。"
+  },
+  {
+   "cn": "服务计划",
+   "en": "service plan",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "指导社会工作者开展有关服务介入行动的具体安排。一般包括：服务的目的和目标、关注的问题和对象、介入策略、协同工作的合作者、社会工作者与服务对象各自的角色、具体工作程序及工作时间表。"
+  },
+  {
+   "cn": "小组计划书",
+   "en": "group plan",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "指引小组工作者开展一个小组工作的程序设计。一般包括：理念的阐述、目标、小组成员、小组的特征、小组的目的、初拟的程序计划和日程、、招募计划、需要的资源、预料中的问题和应变计划、预算、评估方法。"
+  },
+  {
+   "cn": "氏族公社",
+   "en": "clan commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0008",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原始社会的基本单位，以财产公有为基础、以血缘纽带和血统世系相联结的社会组织形式。曾普遍存在于世界各地的原始社会中，是人类社会发展的最初阶段。氏族公社经历母系氏族公社和父系氏族公社两个阶段。随着私有制和"
+  },
+  {
+   "cn": "氏族制度",
+   "en": "clan system",
+   "source": "马克思主义",
+   "wordNumber": "03.0009",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原始社会中基于血缘关系的社会经济制度。起源于原始社群的解体，终于私有制和国家的产生。包括氏族、胞族、部落以及部落联盟等一系列组织、体制和行为规范。"
+  },
+  {
+   "cn": "苏联五年计划",
+   "en": "fiveyear plan",
+   "source": "马克思主义",
+   "wordNumber": "03.0305",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联从1928年开始实行的以五年为一期的对国民经济发展所作的部署和安排。"
+  },
+  {
+   "cn": "指令性计划",
+   "en": "mandatory plan",
+   "source": "马克思主义",
+   "wordNumber": "04.0112",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "社会主义国家实行计划经济的一种形式。它主要是对关系国计民生的重要产品中需要由国家调拨分配的部分，对关系全局的重大经济生活采用计划管理的形式。它在行政上具有约束力，下达后各有关部门、单位和企业必须执行。"
+  },
+  {
+   "cn": "莫洛托夫计划",
+   "en": "Molotov Plan",
+   "source": "马克思主义",
+   "wordNumber": "04.0122",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "该计划是苏联对杜鲁门主义和马歇尔计划进行的反击措施之一。1946—1947年苏联为抵制马歇尔计划的影响，反击针对苏联的杜鲁门主义，积极加强与东欧国家的政治关系与经济往来。在1947年7至8月间同保加利"
+  },
+  {
+   "cn": "计划配置",
+   "en": "plan allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "以政府的指令性计划和行政手段为主对卫生资源进行配置的方式，主要表现为政府统一分配卫生资源，统一安排卫生机构、发展规模、服务项目、收费标准等。是卫生资源配置的重要手段，是较高层次的配置。"
+  },
+  {
+   "cn": "总体预案",
+   "en": "general plan",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "明确学校各类突发公共事件分级分类和预案框架体系，规定应对学校突发公共事件的组织体系、工作机制等内容，用于指导预防和处置学校各类突发公共事件的文件。"
+  },
+  {
+   "cn": "专项预案",
+   "en": "special plan",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "针对学校某一类突发公共卫生事件的预防和控制而制定的、包含具体工作程序和措施的计划和实施方案的文件。"
+  },
+  {
+   "cn": "分娩计划",
+   "en": "birth plan",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "孕妇对陪伴分娩、分娩镇痛、分娩环境、自由体位、产时医疗干预等分娩服务的需求、期望或偏好选择的意向，通常以书面文件形式呈现，有助于促进孕产妇与分娩服务提供者的双向沟通。"
+  },
+  {
+   "cn": "族祭",
+   "en": "clan sacrifice",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0153",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "全族的祭祀。祭祀祖先是宗族的重要活动之一，并可促进宗族的凝聚力。届时，全族人员必须参加。庄重而盛大的祭祖仪式，可使人们亲身受到一次教育，更加缅怀祖先的功绩，牢记创业的艰辛。祠堂为全族祭祀祖先的场所，堂"
+  },
+  {
+   "cn": "乞伏氏",
+   "en": "Qifu Clan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0057",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代北方少数民族姓氏名，鲜卑族的一支。源出东胡。原居塞北，后出阴山南徙，活动于今宁夏、甘肃境内。乞伏国仁时，建立政权，史称“西秦”，割据陇西，故又称“陇西鲜卑”。后为夏所灭。"
+  },
+  {
+   "cn": "赫连氏",
+   "en": "Helian Clan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0054",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代北方少数民族姓氏名，匈奴族的一支。西晋时期称为铁弗氏或铁伐氏。十六国时期，其后裔勃勃建立大夏政权，自号“天王”，王族子孙改姓“赫连氏”，意为“徽赫实与天连”。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

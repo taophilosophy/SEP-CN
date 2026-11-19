@@ -1,0 +1,602 @@
+{
+ "key": "bai lun",
+ "term": "Bǎi lùn",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:33:38+00:00",
+ "status": "ok",
+ "note": "variant=Bǎi lùn; 审定公布名词库=391; 海峡两岸名词对照库=50; 其他来源数据库=3; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "檩",
+   "en": "purlin,lin",
+   "source": "建筑学名词",
+   "wordNumber": "03.0073",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "清式名称。设于梁架间，用以承托椽、望板的构件，其断面为圆形，下接替木。宋代称为槫，又称栋。檩的名称依部位而不同，以宋式为例，可分为脊槫、上平槫、中平槫、下平槫、牛脊槫、橑风槫等；清式相应称脊檩、上金檩"
+  },
+  {
+   "cn": "香菇多糖",
+   "en": "lentinan,LTN",
+   "source": "免疫学名词",
+   "wordNumber": "5.323",
+   "subjectFullName": "免疫学_应用免疫_免疫治疗",
+   "subjectName": "免疫治疗",
+   "publishYear": "2007",
+   "definition": "从香菇中分离纯化的一种葡聚糖，是以增强T细胞和巨噬细胞功能为主的免疫增强剂。与化疗或放疗联用可发挥增效减毒作用。"
+  },
+  {
+   "cn": "襕衫",
+   "en": "lan shan;lan shan robe",
+   "source": "中国古代史名词",
+   "wordNumber": "8.25",
+   "subjectFullName": "中国古代史_明清_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "明清国子监及诸官学生员所穿白细布或绢布制成的圆领宽袖衣服。"
+  },
+  {
+   "cn": "相轮",
+   "en": "xiang lun",
+   "source": "风景园林名词",
+   "wordNumber": "07.0530",
+   "subjectFullName": "风景园林_风景园林建筑_钉",
+   "subjectName": "钉",
+   "publishYear": "2025",
+   "definition": "塔顶之铁圈，有数套，串于中央刹柱上。"
+  },
+  {
+   "cn": "钩阑",
+   "en": "gou lan",
+   "source": "风景园林名词",
+   "wordNumber": "07.0421",
+   "subjectFullName": "风景园林_风景园林建筑_石作",
+   "subjectName": "石作",
+   "publishYear": "2025",
+   "definition": "古建筑附属石制构筑物。栏杆的一种称谓，宋式建筑称钩阑。"
+  },
+  {
+   "cn": "生命冲动",
+   "en": "lan vital",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.119",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "作为精神性本原的生命意志的观点。由柏格森提出和描述。认为生命是带有强烈行动意志色彩的精神力量即意识和“创造需要”。其不受任何原因和条件限制，是完全偶然、盲目的冲动。这种冲动是一切有机体的本质和生物进化"
+  },
+  {
+   "cn": "兰台",
+   "en": "lan tai",
+   "source": "档案学名词",
+   "wordNumber": "08.04.009",
+   "subjectFullName": "档案学_中国档案事业史_文档机构",
+   "subjectName": "文档机构",
+   "publishYear": "2024",
+   "definition": "西汉设立于御史府中的中央档案库、图书库。主藏西汉王朝收集的舆图、律令、章奏等各类重要档案和秘书典籍。主管为御史中丞，后为兰台令史，负责档案典籍的整理、编纂和保管。"
+  },
+  {
+   "cn": "乳桥蛋白",
+   "en": "lactopontin;LPN",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.0446",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质",
+   "subjectName": "功能性蛋白质",
+   "publishYear": "2024",
+   "definition": "一种分子量介于44～75kDa之间的分泌型磷酸化糖蛋白。不同的形式（如酶切形式，磷酸化和糖基化形式等）存在于不同组织，在细胞免疫上起极为关键的作用。"
+  },
+  {
+   "cn": "局域网交换机",
+   "en": "LAN switch",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.035",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "在数据链路段之间转发分组的高速交换机。"
+  },
+  {
+   "cn": "脑机接口",
+   "en": "brain-machine interface,BMI,brain-computer interface,BCI",
+   "source": "生物物理学名词",
+   "wordNumber": "07.156",
+   "subjectFullName": "生物物理学_生物控制论_神经工程",
+   "subjectName": "神经工程",
+   "publishYear": "2018",
+   "definition": "一种在脑与外部设备之间建立直接的通信渠道。其信号来自中枢神经系统，传播中不依赖于外周的神经与肌肉系统。常用于辅助、增强、修复人体的感觉–运动功能或提升人机交互能力。"
+  },
+  {
+   "cn": "百保鲜卑",
+   "en": "bai bao Xian Bei;multiple guards of XianBei",
+   "source": "中国古代史名词",
+   "wordNumber": "4.147",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_军事",
+   "subjectName": "军事",
+   "publishYear": "2022",
+   "definition": "精选鲜卑族壮士组建的北齐精锐部队。文宣帝代魏后创建，“百保”指其勇猛，能以一当百，在内徙六坊鲜卑中挑选，用以宿卫，亦常征战。"
+  },
+  {
+   "cn": "且兰国",
+   "en": "Qie Lan Guo;Qie Lan Kingdom",
+   "source": "中国古代史名词",
+   "wordNumber": "3.245",
+   "subjectFullName": "中国古代史_秦汉_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "战国至汉初以濮系族群为主体的古国。战国以来活跃于今贵州都匀、福泉、黄平、贵定一带，公元前111年汉武帝发兵灭之。"
+  },
+  {
+   "cn": "麟趾格",
+   "en": "Lin Zhi Ge;Lin Zhi Regulations",
+   "source": "中国古代史名词",
+   "wordNumber": "4.202",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "公元541年，东魏孝静帝下诏颁行的刑法。因其制订于麟趾殿得名，共15篇。北齐初有所修订，后被《河清律》取代。"
+  },
+  {
+   "cn": "昆仑奴",
+   "en": "kun lun nu;kun lun slaves",
+   "source": "中国古代史名词",
+   "wordNumber": "4.248",
+   "subjectFullName": "中国古代史_魏晋南北朝_社会经济_身份户丁",
+   "subjectName": "身份户丁",
+   "publishYear": "2022",
+   "definition": "南北朝至隋唐流入中土的马来人和黑人奴仆。“昆仑”除作为仙山及国名、地名外，又是当时对南洋至非洲一带卷发黑肤者的泛称，故名。"
+  },
+  {
+   "cn": "东林党",
+   "en": "dong lin dang;Dong Lin Faction",
+   "source": "中国古代史名词",
+   "wordNumber": "8.038",
+   "subjectFullName": "中国古代史_明清_政治_治乱兴衰大事",
+   "subjectName": "治乱兴衰大事",
+   "publishYear": "2022",
+   "definition": "因顾宪成、高攀龙等讲学于无锡东林书院而渐形成的明朝党派。约始于公元1604年，其成员多为江南籍朝野士人，常以清流自居，品第人物，讽议朝政，抨击阉党，对明末政局影响甚大。"
+  },
+  {
+   "cn": "无线局域网",
+   "en": "wireless LAN,WLAN",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.103",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统",
+   "subjectName": "医学影像信息系统",
+   "publishYear": "2020",
+   "definition": "空间电磁波取代网线作为载体来传输数据，以无线方式构成的局域网。"
+  },
+  {
+   "cn": "仿真局域网",
+   "en": "emulated LAN,ELAN",
+   "source": "通信科学技术名词",
+   "wordNumber": "02.121",
+   "subjectFullName": "通信科学技术_通信网络",
+   "subjectName": "通信网络",
+   "publishYear": "2007",
+   "definition": "使用局域网仿真(LANE)协议机制由一个异步转移模式网络仿真而成的局域网(LAN)。"
+  },
+  {
+   "cn": "局域网仿真",
+   "en": "LAN emulation,LANE",
+   "source": "通信科学技术名词",
+   "wordNumber": "02.120",
+   "subjectFullName": "通信科学技术_通信网络",
+   "subjectName": "通信网络",
+   "publishYear": "2007",
+   "definition": "在异步转移模式网(ATM network)上运行现有局域网协议，使现有局域网(LAN)的终端不需要做任何改动即可使用异步转移模式网络的方法。"
+  },
+  {
+   "cn": "无线局域网",
+   "en": "wireless LAN,WLAN",
+   "source": "通信科学技术名词",
+   "wordNumber": "12.009",
+   "subjectFullName": "通信科学技术_移动通信",
+   "subjectName": "移动通信",
+   "publishYear": "2007",
+   "definition": "工作于2.5GHz或5GHz频段，以无线方式构成的局域网。"
+  },
+  {
+   "cn": "鲜卑",
+   "en": "Xian Bei;Xian Bei People",
+   "source": "中国古代史名词",
+   "wordNumber": "4.332",
+   "subjectFullName": "中国古代史_魏晋南北朝_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "相传出于大鲜卑山的东胡族群。其名始见于先秦，东汉后期其首领檀石槐、轲比能先后建立过部落联盟，与匈奴、乌桓、丁零等往来密切。魏晋南北朝活跃于北方地区，其中慕容、宇文、段、拓跋等部皆曾建立政权，拓跋部建立"
+  },
+  {
+   "cn": "黄雾",
+   "en": "bai",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "离子径流",
+   "en": "lon runoff",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "香菇多糖",
+   "en": "lentinan， LTN",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基带局域网",
+   "en": "baseband LAN",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网多播",
+   "en": "LAN multicast",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网服务器",
+   "en": "LAN server",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网管理程序",
+   "en": "LAN manager",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网广播",
+   "en": "LAN broadcast",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网交换机",
+   "en": "LAN switch",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网网关",
+   "en": "LAN gateway",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宽带局[域]网",
+   "en": "broadband LAN",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伤寒论",
+   "en": "Shanghan Lun",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反向局域网信道",
+   "en": "reverse LAN channel\",\"backward LAN channel",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网[成]组地址",
+   "en": "LAN group address",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网单[个]地址",
+   "en": "LAN individual address",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网多播地址",
+   "en": "LAN multicast address",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网广播地址",
+   "en": "LAN broadcast address",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网全球地址",
+   "en": "LAN global address",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性-对数检测器",
+   "en": "lin-log detector",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正向局域网信道",
+   "en": "forward LAN channel",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域网",
+   "en": "local area network (LAN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "英国标准协会",
+   "en": "British Standards Institution (BSI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《IEEE 802.11v-2011 信息技术 系统间通信和信息交换 局域网和城域网 详细要求 第11部分：无线局域网媒体访问控制(MAC)和物理层(PHY)规范 修改件8:IEEE 802.11无线网管理》",
+   "en": "IEEE 802.11v-2011 Information technology — Telecommunications and information exchange between systems — Local and metropolitan area networks — Specific requirements — Part 11: Wireless LAN medium access control (MAC) and physical layer (PHY) specifications — Amendment 8: IEEE 802.11 wireless network management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "白族",
+   "en": "Bai",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0438",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要分布在云南省，部分在贵州、四川等省。人口209.15 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。使用白语，属汉藏语系藏缅语族；通用汉语文。白族先民早在公元1 世纪前就"
+  },
+  {
+   "cn": "百夷",
+   "en": "Bai Yi",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0121",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。云南西南部古代少数民族的泛称。今傣族与之有直接渊源关系。明人钱古训、李思聪《百夷传》载：“俗有大百夷、小百夷、漂人、古剌、哈剌、缅人、结些、吟杜、弩人、蒲蛮、阿昌等名,故曰百夷。”"
+  },
+  {
+   "cn": "白语",
+   "en": "Bai language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0212",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国白族使用的语言。属汉藏语系藏缅语族，语支未定，有人认为属彝语支。主要分布在中国云南省大理白族自治州。分南、中、北3 个方言。使用人口约130 万人。汉语借词较多。曾使用汉字结构的白文记写白语。"
+  },
+  {
+   "cn": "白文",
+   "en": "Bai character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0367",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "一种仿汉字系文字。始于唐代。现存有石刻碑文和铜器铭文，古代白文书籍已经失传。现代白族民间艺人仍用白文写大本曲、民歌等。"
+  },
+  {
+   "cn": "百越",
+   "en": "Bai Yue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0146",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代南方越人的总称。以支系繁多，故名。比如句吴、于越、东瓯、扬越、闽越、南越、西瓯、骆越、滇越等。分布甚广，从东部到南部沿海诸省乃至西南的云贵高原。与今壮侗语族有渊源关系。"
+  },
+  {
+   "cn": "白蛮",
+   "en": "Bai Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0123",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。“白蛮”即“白彝”，为当今白族之先民，由汉、晋时期之僰人演变而来。最早分布于四川西部与云南境内，参考汉族对今彝族凉山地区遗留至今之奴隶制度中的阶级称呼，白蛮属于被统治阶级。"
+  },
+  {
+   "cn": "鲜卑",
+   "en": "Xian Bei",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0029",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。为东胡一支。魏晋南北朝时期建立北魏、吐谷浑等众多政权。上述政权瓦解后，逐渐融合于汉族及其他民族。"
+  },
+  {
+   "cn": "白爨",
+   "en": "Bai Cuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0139",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "元代一般以白蛮为白爨。"
+  },
+  {
+   "cn": "身体质量指数",
+   "en": "body mass index, BMI",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.19.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "以体重（kg）除以身高（m）的平方所得之商。主要反映全身性超重和肥胖。"
+  },
+  {
+   "cn": "体重指数",
+   "en": "body mass index, BMI",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.5.1",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "用体重千克数除以身高米数平方得出的数字，是目前国际上常用的衡量人体胖瘦程度以及是否健康的标准之一。"
+  },
+  {
+   "cn": "基准摄入量",
+   "en": "benchmark intake, BI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.25",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种物质引起预先设定的效应水平的摄入量"
+  },
+  {
+   "cn": "《白古通纪》",
+   "en": "Complete Annals of Ancient Bai People",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0301",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "全名为《白古通玄峰年运志》，简称《白古通》；作者不详。是一部用白文撰写的白族历史典籍，大约成书于元末或明初。"
+  },
+  {
+   "cn": "眼晶状体当量剂量",
+   "en": "equivalent dose in the len of the eye",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "特定电离辐射在眼晶状体中产生的平均吸收剂量与该种辐射的辐射权重因数的乘积。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "第一国际第一次伦敦代表会议",
+   "en": "First Lon don Congress of the First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0467",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1865年9月25日在英国伦敦召开的国际工人 协会第一次代表会议，即代表大会的预备会议。出席会议的有总委员会委员，英国、法国、比利时、瑞士等国支部的代表，德国、意大利、波兰的全国 委员会的代表，共68"
+  },
+  {
+   "cn": "筚栗",
+   "en": "Bi Li instrument/Hichiriki（日）",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.064",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "古代竖吹管乐器。起源于西域，龟兹国乐中有多种形制，是克孜尔等佛窟壁画中最多见的乐器之一。后传入中原，远至朝鲜、日本及整个东亚。几经演变为今汉族民间流传的管子、维吾尔族民间流传的巴烈曼等。"
+  },
+  {
+   "cn": "复合型灭菌过程验证装置",
+   "en": "biological and chemical indicators integrating process challenge device, BI and CI integrating PCD",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "内部同时放置了化学指示物和生物指示物的灭菌过程验证装置。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,532 @@
+{
+ "key": "nominalism-platonism",
+ "term": "nominalism-platonism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:37:42+00:00",
+ "status": "ok",
+ "note": "variant=nominalism-platonism; 审定公布名词库=155; 海峡两岸名词对照库=38; 其他来源数据库=1; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "数学柏拉图主义",
+   "en": "Platonism in mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.244",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "认为数学对象的存在和数学命题的真假不能还原为物理世界、人类心灵和数学家的活动，每个数学命题，包括独立于公理集合论系统的那些命题，都有确定的真值。数学柏拉图主义最重要的代表人物是哥德尔。"
+  },
+  {
+   "cn": "货币名目论",
+   "en": "nominalism",
+   "source": "经济学名词",
+   "wordNumber": "14.080",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "同货币金属论相对应的一种货币学说。这一学说认为货币只是计量商品价值的一种符号或票证，货币的价值只是一种名目，和货币材料的价值无关，货币也无需要有内在的实质性价值，强调含金银量不足的铸币和无价值的票券也"
+  },
+  {
+   "cn": "名物化",
+   "en": "nominalization",
+   "source": "语言学名词",
+   "wordNumber": "04.102",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "对主语、宾语位置上和受定语修饰的动词、形容词的语法性质的一种解释。认为出现在主语、宾语位置上和受定语修饰的动词、形容词已部分或全部失去动词、形容词的语法特点，而具备了名词的若干语法特点，其概念意义事物"
+  },
+  {
+   "cn": "名义价格",
+   "en": "nominal price",
+   "source": "农学名词",
+   "wordNumber": "19.023",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "未经过物价因素调整的价格。"
+  },
+  {
+   "cn": "提名地",
+   "en": "nominated site",
+   "source": "风景园林名词",
+   "wordNumber": "04.0368",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "缔约国从预备名单中筛选出的列入提名表中的遗产地，经评审评估后，由世界遗产委员会表决是否列入世界遗产。"
+  },
+  {
+   "cn": "名义关税",
+   "en": "nominal tariff",
+   "source": "农学名词",
+   "wordNumber": "19.171",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "海关根据关税税则对进口商品所征收的关税。"
+  },
+  {
+   "cn": "名义厚度",
+   "en": "nominal thickness",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0012",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "设计厚度加上钢板厚度负偏差后，向上圆整至钢材标准规格的厚度。"
+  },
+  {
+   "cn": "公称压力",
+   "en": "nominal pressure",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0830",
+   "subjectFullName": "机械工程（一）_传动_液压传动_压力",
+   "subjectName": "压力",
+   "publishYear": "2021",
+   "definition": "液压元件、系统或管路所能承受的压力等级。"
+  },
+  {
+   "cn": "指名属",
+   "en": "nominate genus",
+   "source": "动物学名词",
+   "wordNumber": "2.0147",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "一个属名与其所属的科名一致的属。"
+  },
+  {
+   "cn": "指名种",
+   "en": "nominate species",
+   "source": "动物学名词",
+   "wordNumber": "2.0148",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "一个种名与其属名一致的种。"
+  },
+  {
+   "cn": "指名亚种",
+   "en": "nominate subspecies",
+   "source": "动物学名词",
+   "wordNumber": "2.0149",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "一个种分化为几个亚种时，包括种的模式标本在内并与该种具有相同名称的亚种。其亚种名和种名相同。"
+  },
+  {
+   "cn": "公称尺寸",
+   "en": "nominal size",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0286",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "产品设计时定义的理想尺寸。"
+  },
+  {
+   "cn": "名义应力",
+   "en": "nominal stress",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0011",
+   "subjectFullName": "机械工程（一）_机械强度_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "载荷除以原始截面面积得到的应力。"
+  },
+  {
+   "cn": "名义应变",
+   "en": "nominal strain",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0021",
+   "subjectFullName": "机械工程（一）_机械强度_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "长度改变量除以原始长度(标距长度)得到的应变。"
+  },
+  {
+   "cn": "公称直径",
+   "en": "nominal diameter",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0041",
+   "subjectFullName": "机械工程（一）_机械零件_紧固件_螺纹",
+   "subjectName": "螺纹",
+   "publishYear": "2021",
+   "definition": "代表螺纹尺寸的直径，通常指螺纹大径的基本尺寸。"
+  },
+  {
+   "cn": "标称精度",
+   "en": "nominal accuracy",
+   "source": "测绘学名词",
+   "wordNumber": "02.505",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "仪器出厂时标明的精度指标。"
+  },
+  {
+   "cn": "名义量表",
+   "en": "nominal scaling",
+   "source": "测绘学名词",
+   "wordNumber": "04.311",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "定性区分制图对象性质差别的一种量表方法。"
+  },
+  {
+   "cn": "标称功率",
+   "en": "nominal power",
+   "source": "医学影像技术学名词",
+   "wordNumber": "02.066",
+   "subjectFullName": "医学影像技术学_普通X射线成像技术_普通X射线摄影技术",
+   "subjectName": "普通X射线摄影技术",
+   "publishYear": "2020",
+   "definition": "在一定整流方式和一定曝光时间条件下，X 射线管的最大负荷。"
+  },
+  {
+   "cn": "标称视野",
+   "en": "nominal vision",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "医学影像技术学_介入放射学技术_设备与原理",
+   "subjectName": "设备与原理",
+   "publishYear": "2020",
+   "definition": "影像增强器在额定的电极条件下，采用平行X射线照射时，在输出屏显示的最大输入屏影像尺寸。常用英寸表达，如6英寸、9英寸等。"
+  },
+  {
+   "cn": "名义GDP",
+   "en": "nominal GDP",
+   "source": "经济学名词",
+   "wordNumber": "04.100",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "是用生产物品和劳务的当年价格计算的全部最终产品的市场价值。 也就是按现期价格评价的物品与劳务的生产，不考虑通货膨胀这些因素。而实际GDP是按不变价格评价的物品与劳务的生产（通常以某年做基年，然后以那年"
+  },
+  {
+   "cn": "柏拉图年",
+   "en": "Platonic year",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "标称的，额定的",
+   "en": "nominal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公称尺寸",
+   "en": "nominal size",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "名义应力",
+   "en": "nominal stress",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "标称值",
+   "en": "nominal value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "同伴提名",
+   "en": "peer nomination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "称名量表",
+   "en": "nominal scale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "标称误差",
+   "en": "nominal error",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "名义关税",
+   "en": "nominal tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "名义汇票",
+   "en": "nominal exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "名义货币",
+   "en": "nominal money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "名义交易",
+   "en": "nominal transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "名义利息",
+   "en": "nominal interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "名义账户",
+   "en": "nominal account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "名义资本",
+   "en": "nominal capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "名义资产",
+   "en": "nominal asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "标称精度",
+   "en": "nominal accuracy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "额定光力射程",
+   "en": "nominal range",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "名义量表",
+   "en": "nominal scaling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "标称电压",
+   "en": "nominal voltage",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会唯名论",
+   "en": "social nominalism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "一种认为社会作为共相只是一个名称而不具有客观实在性﹐社会后于个体（殊相）﹐只有个别的感性个体才是真实存在的社会理论。与“社会唯实论”相对。原本是欧洲中世纪经验哲学非正统派的唯名论概念，后为现代社会理论"
+  },
+  {
+   "cn": "概念唯名论",
+   "en": "conceptual nominalism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.9",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是人为构建出来的，在现实中并没有对应的存在物，是一种名义上的存在物的学说。"
+  },
+  {
+   "cn": "定类尺度",
+   "en": "nominal scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.38",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一个具有完备性和排他性的类别集合给测量对象分类的测量方式。例如，可以将婚后的居住方式划分为住男家、住女家、自立门户、其他四个类别。"
+  },
+  {
+   "cn": "名义工资",
+   "en": "nominal wage",
+   "source": "马克思主义",
+   "wordNumber": "02.0145",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“实际工资”相对应。工人得到的货币工资，即以货币数量表示的工资额。一般说来，名义工资总是呈现上升趋势。但由于物价等诸多因素的影响，名义工资不能确切地反映工人的实际生活水平。"
+  },
+  {
+   "cn": "选题小组讨论",
+   "en": "nominal group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过程序化的小组讨论过程，发现问题、确定优先领域、筛选评价指标等的研究方法。通常由具有各种不同既得利益、不同思想意识和不同专业水平的人组成一个小组发掘问题，并把所发现的问题按其重要程度排列出来。"
+  },
+  {
+   "cn": "标称危险[概率]系数",
+   "en": "nominal risk [probability] coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "对代表性人群（上海、大阪、广岛、长崎、瑞典、英国和美国）性别平均和受照年龄平均的终生危险估计，单位是10-2Sv-1。其含义是某人群受1Sv剂量照射以后该人群相对于未受照射人群癌症终生危险增加的百分数"
+  },
+  {
+   "cn": "焦点标称值",
+   "en": "nominal focal spot value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.22",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在规定条件下测量的与射线管有效焦点尺寸有特定比例的无量纲数值。"
+  },
+  {
+   "cn": "流速标称值",
+   "en": "nominal value of flow velocity",
+   "source": "消毒学",
+   "wordNumber": "1.8.24.7",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "由生产厂商设置，安全柜正常工作时的下降气流和流入气流的流速。"
+  },
+  {
+   "cn": "标称X射线管电压",
+   "en": "nominal X-ray tube voltage",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.47",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在规定的条件下允许的最高X射线管电压。"
+  },
+  {
+   "cn": "卫生总费用名义值",
+   "en": "nominal value of total health expenditure",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.1.4",
+   "subjectFullName": "",
+   "subjectName": "卫生总费用",
+   "publishYear": "2025",
+   "definition": "用报告期当年实际价格水平反映医疗卫生服务总支出。"
+  },
+  {
+   "cn": "卫生人力资源名义短缺",
+   "en": "nominal shortage of human resource for health",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.4.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "依据人群患病情况或每千人口卫生技术人员数等计算的区域卫生人力资源需要量，利用此方法测定的需要量往往高于实际需求量低于供给量，由此形成名义上的短缺。"
+  },
+  {
+   "cn": "钚",
+   "en": "plutonium",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.7.2",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "原子序数为94 的元素，元素符号Pu，是原子能工业的一种重要原料，可作为核燃料和核武器的裂变剂。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

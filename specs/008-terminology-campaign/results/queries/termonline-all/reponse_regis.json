@@ -1,0 +1,752 @@
+{
+ "key": "reponse regis",
+ "term": "Réponse Régis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:36:47+00:00",
+ "status": "ok",
+ "note": "variant=Réponse Régis; 审定公布名词库=711; 海峡两岸名词对照库=242; 其他来源数据库=17; 预公布名词数据库=63; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "组件式GIS开发技术",
+   "en": "geographic information system development technology",
+   "source": "地球物理学名词",
+   "wordNumber": "10.0061",
+   "subjectFullName": "地球物理学_地球物理信息学_地球物理信息学",
+   "subjectName": "地球物理信息学",
+   "publishYear": "2022",
+   "definition": "将地理信息系统的各大功能模块划分为几个控件，每个控件完成不同的功能，各个 GIS控件之间，以及 GIS控件与其他非 GIS控件之间，可以方便地通过可视化的软件开发工具集成，形成最终的 GIS应用的技术"
+  },
+  {
+   "cn": "回应",
+   "en": "response",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.016",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "对说话者给予清楚与明确的信息反馈。其主要特征是：沟通双方在接收讯息的同时，也在发送回复的讯息。"
+  },
+  {
+   "cn": "反应",
+   "en": "response",
+   "source": "行为医学名词",
+   "wordNumber": "2.031",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "由刺激引起的机体、组织或细胞活动状态的变化。"
+  },
+  {
+   "cn": "响应",
+   "en": "response",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0024",
+   "subjectFullName": "机械工程（一）_机械动力学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "激励作用引起的反应，系统的输出量。"
+  },
+  {
+   "cn": "响应",
+   "en": "response",
+   "source": "电力名词",
+   "wordNumber": "01.290",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "系统在激励作用下所引起的反应。即在电路理论中,独立电源作用下在其他元件上产生的电流或电压。"
+  },
+  {
+   "cn": "反应",
+   "en": "response",
+   "source": "神经病学名词",
+   "wordNumber": "05.226",
+   "subjectFullName": "神经病学_神经病诊断技术_临床肌电图学",
+   "subjectName": "临床肌电图学",
+   "publishYear": "2020",
+   "definition": "由刺激引起的各种电生理活动。通常可通过电生理检查进行检测和记录。"
+  },
+  {
+   "cn": "响应",
+   "en": "response",
+   "source": "植物学名词",
+   "wordNumber": "13.0012",
+   "subjectFullName": "植物学_植物生态学_植物个体生态学",
+   "subjectName": "植物个体生态学",
+   "publishYear": "2019",
+   "definition": "植物对环境变化做出的性状改变。"
+  },
+  {
+   "cn": "响应",
+   "en": "response",
+   "source": "物理学名词",
+   "wordNumber": "05.0872",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "响应",
+   "en": "response",
+   "source": "计量学名词",
+   "wordNumber": "05.019",
+   "subjectFullName": "计量学_振动、冲击、转速_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "系统受外力或其他输入作用后的输出。"
+  },
+  {
+   "cn": "响应",
+   "en": "response",
+   "source": "计量学名词",
+   "wordNumber": "10.054",
+   "subjectFullName": "计量学_电磁_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "系统在激励作用下所引起的反应。"
+  },
+  {
+   "cn": "反应",
+   "en": "response",
+   "source": "建筑学名词",
+   "wordNumber": "14.0680",
+   "subjectFullName": "建筑学_建筑设备与系统_弱电系统设备与智能设计",
+   "subjectName": "弱电系统设备与智能设计",
+   "publishYear": "2014",
+   "definition": "为制止风险事件的发生所采取的快速行动。"
+  },
+  {
+   "cn": "反应",
+   "en": "response",
+   "source": "心理学名词",
+   "wordNumber": "02.091",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "被试由刺激引发的行为表现。"
+  },
+  {
+   "cn": "响应",
+   "en": "response",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.131",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "反应",
+   "en": "response",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.071",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程力学（水利）",
+   "subjectName": "工程力学（水利）",
+   "publishYear": "1997",
+   "definition": "结构系统受到激励作用时产生的动应力、动位移等输出。"
+  },
+  {
+   "cn": "光敏反应",
+   "en": "photosensitivity response,photoparoxysmal response",
+   "source": "神经病学名词",
+   "wordNumber": "05.391",
+   "subjectFullName": "神经病学_神经病诊断技术_临床脑电图学",
+   "subjectName": "临床脑电图学",
+   "publishYear": "2020",
+   "definition": "间断闪光刺激诱发出棘慢复合波或多棘慢复合波等癫痫样放电。可将光敏反应分为4 类：①广泛性棘慢复合波、多棘慢复合波发放，前头部突出，最常见，多出现于青少年，与遗传有密切关系，70%有癫痫发作；②双侧性放"
+  },
+  {
+   "cn": "免疫应答",
+   "en": "immunological response,immune  response",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.389",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "磷脂酰肌醇应答",
+   "en": "phosphatidylinositol response;PI response",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "7.0143",
+   "subjectFullName": "生物化学与分子生物学_脂质_磷脂_单糖衍生物",
+   "subjectName": "单糖衍生物",
+   "publishYear": "2024",
+   "definition": "磷脂酰肌醇快速再合成的过程。"
+  },
+  {
+   "cn": "应答元件",
+   "en": "response element",
+   "source": "农学名词",
+   "wordNumber": "15.047",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "能够介导基因对细胞内外某种信号产生反应的特异性DNA序列。通常位于基因上游，能够被转录因子识别和结合。"
+  },
+  {
+   "cn": "选择响应",
+   "en": "selection response",
+   "source": "农学名词",
+   "wordNumber": "06.279",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "入选亲本的子代表型平均值与被选择亲本群体平均值的离差。"
+  },
+  {
+   "cn": "应急响应",
+   "en": "emergency response",
+   "source": "急救医学名词",
+   "wordNumber": "05.040",
+   "subjectFullName": "急救医学_灾难医学_灾难医学救援_应急预案",
+   "subjectName": "应急预案",
+   "publishYear": "2025",
+   "definition": "对突发事件分类分级所采取的相对应的应急处置措施。"
+  },
+  {
+   "cn": "GIS Web服务",
+   "en": "GIS Web Services",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "多媒体GIS",
+   "en": "multimedia GIS",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "响应",
+   "en": "response",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反应",
+   "en": "response",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "响应",
+   "en": "response",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "响应",
+   "en": "response",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲响应",
+   "en": "impulse response\",\"pulse response",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正弦响应",
+   "en": "sine response\",\"sinusoidal response",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "免疫应答",
+   "en": "immune response",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "三重反应",
+   "en": "triple response",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "系统性反应",
+   "en": "systemic response",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "响应性状",
+   "en": "response trait",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "流域响应",
+   "en": "basin response",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲回应",
+   "en": "impulse response",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "频率响应",
+   "en": "frequency response",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间响应",
+   "en": "time response",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机响应",
+   "en": "stochastic response",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "响应函数",
+   "en": "response function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "响应时间",
+   "en": "response time",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "过阻尼响应",
+   "en": "overdamped response",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "地理信息系统（GIS）",
+   "en": "geographic information system (GIS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "现量之美",
+   "en": "Beauty of Spontaneous Response",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险应急处置",
+   "en": "financial risk emergency response",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全应急处置",
+   "en": "data security emergency response",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全应急响应",
+   "en": "information security emergency response",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全应急处置机制",
+   "en": "data security emergency response mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坚持全国一盘棋",
+   "en": "to ensure a coordinated national response",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调整应急响应等级",
+   "en": "to adjust the emergency response level",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "启动重大突发公共卫生事件一级响应",
+   "en": "to activate first-level public health emergency response",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新技术金融应用风险应急处置",
+   "en": "risk emergency response for use of new technology in financial sector",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家互联网应急中心",
+   "en": "National Computer Network Emergency Response Technical Team/Coordination Center of China (CNCERT/CC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "适时下调响应级别并实行动态调整",
+   "en": "to downgrade the emergency response level in due course and make dynamic adjustments",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开展国际联防联控",
+   "en": "to make a collective response for control and treatment at the international level ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 2251-2011 国家网络安全应急处理平台安全信息获取接口要求》",
+   "en": "YD/T 2251-2011 National network security emergency response platform interface specification for security information access interface",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反应",
+   "en": "response",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.1.3.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "暴露某一外源化学物的群体中出现某种效应的个体在群体中所占的比率。一般以百分率或比值表示。"
+  },
+  {
+   "cn": "反应",
+   "en": "response",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.5",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "暴露某一外源化学物的群体中，出现某种效应的强度，通常以个体在群体中所占比率，一般以百分数或比值表示"
+  },
+  {
+   "cn": "反应转移",
+   "en": "response shift",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体在经历生活事件后由于目标概念内涵的改变而引起的主观生命质量评价结果的变化。其可以帮助理解生命质量的变化，更准确地反映疾病影响和治疗效果。"
+  },
+  {
+   "cn": "渐进反应",
+   "en": "progressive response",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "暴露于一个或多个允许评估达到水平的过程变量后，出现的渐进的可视变化。"
+  },
+  {
+   "cn": "响应时间",
+   "en": "response time",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当暴露于被测量的变量逐步改变时，传感器输出90%变化的信号所需要的时间。"
+  },
+  {
+   "cn": "适应性反应",
+   "en": "adaptive response",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "预先给予细胞或机体低剂量辐射照射刺激，使其在一定时间间隔内对随后的大剂量辐射照射产生抗性或保护作用。诱发该反应的辐射剂量一般是在几十个毫戈瑞的剂量范围内。"
+  },
+  {
+   "cn": "能量响应",
+   "en": "energy response",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "辐射探测器的灵敏度与入射辐射能量的关系。通常可用探测器的响应值与能量的关系曲线表示。"
+  },
+  {
+   "cn": "角响应",
+   "en": "angular response",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "辐射探测器的灵敏度与辐射入射方向之间的关系。"
+  },
+  {
+   "cn": "剂量响应",
+   "en": "dose response",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "表征电离辐射剂量计辐射效应的某个量随剂量计受照剂量的大小而变化的特性。当其变化呈一定比例关系时称线性剂量响应。通常希望剂量计有很宽的剂量线性响应范围。"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "参考条件下待测量参考值（Cr,0）的响应R0。      ，Gr,0是相应的指示值。"
+  },
+  {
+   "cn": "应急响应",
+   "en": "emergency response",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "旨在缓解核或辐射紧急情况对人员健康和安全、生活质量、财产和环境的影响所采取的行动。它也可以为恢复正常的社会和经济活动提供基础。"
+  },
+  {
+   "cn": "响应部门",
+   "en": "response authority",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "由政府指定或认可的、负责管理或实施有关应急响应的一个或几个机构。"
+  },
+  {
+   "cn": "回答率",
+   "en": "response rate",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.61",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "接受访谈的人数除以样本数所得分数。其分母包括从总体中抽取的所有人，即包括那些虽然被抽中但因拒绝、语言问题、疾病或者无法解除而没有参与访谈的人。是评估数据收集工作成败的基本参数"
+  },
+  {
+   "cn": "免疫应答",
+   "en": "immune response",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.1",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体对抗原刺激的应答过程，即免疫细胞识别、摄取、处理抗原、继而活化、增殖、分化、产生免疫效应的过程,包括识别相、中枢相和效应相。"
+  },
+  {
+   "cn": "同形反应",
+   "en": "isomorphic response",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.2.15",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "原本外观正常的皮肤在创伤、搔抓、针刺或手术等刺激后发生银屑病皮损的现象。主要见于银屑病，特别是病情活动期或急性加重期。"
+  },
+  {
+   "cn": "适应性反应",
+   "en": "adaptive response",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.12",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "生物组织应答外界环境条件变化，以适应随条件变化而生存的能力"
+  },
+  {
+   "cn": "有害反应",
+   "en": "adverse response",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "与某种因素有关或可能有关的所有不良事件。"
+  },
+  {
+   "cn": "免疫应答",
+   "en": "immune response",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.13",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "免疫系统识别和清除“非已”物质的整个过程，可分为固有免疫和适应性免疫。"
+  },
+  {
+   "cn": "基准反应",
+   "en": "benchmark response, BMR",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.14",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "用以计算基准剂量的有害反应。"
+  },
+  {
+   "cn": "突发事件应急预案",
+   "en": "emergency response plan",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.033",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "各级人民政府及其部门、基层组织、企事业单位、社会团体等为依法、迅速、科学、有序应对突发事件，最大程度减少突发事件及其造成的损害而预先制定的工作方案。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

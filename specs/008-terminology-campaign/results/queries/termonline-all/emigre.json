@@ -1,0 +1,32 @@
+{
+ "key": "emigre",
+ "term": "émigré",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:28:42+00:00",
+ "status": "ok",
+ "note": "variant=émigré; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "白俄侨民",
+   "en": "White Emigre",
+   "source": "世界历史名词",
+   "wordNumber": "05.0297",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1917年二月革命、十月革命和内战时期离开俄国的人员，总数达250万人。在1921年大赦令之后陆续有人回国。"
+  },
+  {
+   "cn": "侨人",
+   "en": "qiao ren;Northern emigré or refugee household",
+   "source": "中国古代史名词",
+   "wordNumber": "4.241",
+   "subjectFullName": "中国古代史_魏晋南北朝_社会经济_身份户丁",
+   "subjectName": "身份户丁",
+   "publishYear": "2022",
+   "definition": "侨居他乡的人户。西晋灭亡后南、北皆有，多指陆续徙居江左政权治下的人户。包括大量中原士人及其亲属、佃户和部曲等，以两晋之际迁徙规模最大，东晋设侨州郡县安置，录入白籍，免其赋役。后仍因北方战乱陆续有之，晚"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,11 +1,162 @@
 {
  "key": "ibda'",
- "term": "ibdāʿ",
+ "term": "ibdā‘",
  "provider": "termonline-all",
- "queried_at": "2026-11-19T05:10:16+00:00",
- "status": "empty",
- "note": "variant=ibdāʿ; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
- "hits": [],
+ "queried_at": "2026-11-19T05:36:37+00:00",
+ "status": "ok",
+ "note": "variant=ibdā‘; 审定公布名词库=12; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "炎症性肠病失能指数",
+   "en": "IBD disability index;IBD-DI",
+   "source": "消化病学名词",
+   "wordNumber": "15.117",
+   "subjectFullName": "消化病_炎症性肠病_炎症性肠病慢病管理",
+   "subjectName": "炎症性肠病慢病管理",
+   "publishYear": "2022",
+   "definition": "根据世界卫生组织的《国际功能、残疾和健康的分类》标准，专门用于评估炎症性肠病患者失能状况的指数。依据患者的一般健康情况，在睡眠、精力、情绪、身体形象、腹痛、排便、参与社会活动、工作和教育等方面受限制的"
+  },
+  {
+   "cn": "异丁叉二脲",
+   "en": "isobutylidene diurea;IBDU",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0090",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "异丁醛与尿素的缩合产物。是缓慢被植物利用的氮的来源，通过增加粒径降低溶解性来实现。"
+  },
+  {
+   "cn": "鸡传染性法氏囊病",
+   "en": "infectious bursal disease,IBD",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0251",
+   "subjectFullName": "食品科学技术_食品安全_食品安全检测与检疫_检验检疫",
+   "subjectName": "检验检疫",
+   "publishYear": "2020",
+   "definition": "由传染性法氏囊病病毒引起的鸡急性、高度接触传染性的免疫抑制性疾病。"
+  },
+  {
+   "cn": "炎性肠病",
+   "en": "inflammatory bowel disease,IBD",
+   "source": "老年医学名词",
+   "wordNumber": "04.238",
+   "subjectFullName": "老年医学_老年临床医学_老年消化系统疾病",
+   "subjectName": "老年消化系统疾病",
+   "publishYear": "2017",
+   "definition": "一组病因不明的慢性、反复发作性肠道非特异炎症性疾病。包含两个独立的疾病：溃疡性结肠炎和克罗恩病，二者在临床表现、诊断、鉴别诊断方面各有特点。"
+  },
+  {
+   "cn": "传染性法氏囊病",
+   "en": "infectious bursal disease,IBD",
+   "source": "免疫学名词",
+   "wordNumber": "4.062",
+   "subjectFullName": "免疫学_畜牧免疫",
+   "subjectName": "畜牧免疫",
+   "publishYear": "2007",
+   "definition": "由双链RNA病毒科的传染性法氏囊病病毒(IBDV)所引起的一种鸡的急性暴发性传染病。表现为法氏囊淋巴组织和淋巴细胞坏死，发病率及死亡率均高。耐过鸡的法氏囊组织受损，导致免疫抑制，影响其他疫苗的免疫效果"
+  },
+  {
+   "cn": "离子束淀积",
+   "en": "ion beam deposition,IBD",
+   "source": "电子学名词",
+   "wordNumber": "15.024",
+   "subjectFullName": "电子学_电子元器件工艺与分析技术",
+   "subjectName": "电子元器件工艺与分析技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "炎症性肠病分型待定",
+   "en": "inflammatory bowel disease unclassified;IBDU",
+   "source": "消化病学名词",
+   "wordNumber": "15.082",
+   "subjectFullName": "消化病_炎症性肠病_炎症性肠病分类",
+   "subjectName": "炎症性肠病分类",
+   "publishYear": "2022",
+   "definition": "结肠炎症性肠病一时难以区分溃疡性结肠炎与克罗恩病，即仅有结肠病变，但内镜及活检缺乏溃疡性结肠炎或克罗恩病的特征。"
+  },
+  {
+   "cn": "炎症性肠病问卷",
+   "en": "inflammatory bowel disease questionnaire;IBDQ",
+   "source": "消化病学名词",
+   "wordNumber": "15.115",
+   "subjectFullName": "消化病_炎症性肠病_炎症性肠病慢病管理",
+   "subjectName": "炎症性肠病慢病管理",
+   "publishYear": "2022",
+   "definition": "通过询问过去2周的肠道症状、全身症状、情感功能、社会功能等共32个条目，评价炎症性肠病患者的健康相关生活质量的问卷。分数越高表明生活质量越好。"
+  },
+  {
+   "cn": "炎[症]性肠病类型待定",
+   "en": "inflammatory bowel disease unclassified;IBDU",
+   "source": "消化内镜学名词",
+   "wordNumber": "18.024",
+   "subjectFullName": "消化内镜学_结直肠疾病_结直肠炎性疾病",
+   "subjectName": "结直肠炎性疾病",
+   "publishYear": "2021",
+   "definition": "仅有结肠病变，内镜及活检缺乏克罗恩病或溃疡性结肠炎的典型特征，难以明确诊断的炎性肠病。"
+  },
+  {
+   "cn": "炎症性肠病",
+   "en": "inflammatory bowel disease; IBD",
+   "source": "肝病学名词",
+   "wordNumber": "4.1.5.7",
+   "subjectFullName": "肝病学_脂肪性肝病_非酒精性脂肪性肝病",
+   "subjectName": "非酒精性脂肪性肝病",
+   "publishYear": "2024",
+   "definition": "一种累及回肠、结肠、直肠的特发性肠道炎症性疾病。包括溃疡性结肠炎和克罗恩病。表现为腹泻、腹痛及血便。"
+  },
+  {
+   "cn": "炎症性肠病",
+   "en": "inflammatory bowel disease;IBD",
+   "source": "消化病学名词",
+   "wordNumber": "15.001",
+   "subjectFullName": "消化病_炎症性肠病_炎症性肠病生理病理",
+   "subjectName": "炎症性肠病生理病理",
+   "publishYear": "2022",
+   "definition": "免疫异常导致的慢性非特异性肠道炎症性疾病。包括溃疡性结肠炎和克罗恩病。"
+  },
+  {
+   "cn": "炎[症]性肠病",
+   "en": "inflammatory bowel disease;IBD",
+   "source": "消化内镜学名词",
+   "wordNumber": "18.021",
+   "subjectFullName": "消化内镜学_结直肠疾病_结直肠炎性疾病",
+   "subjectName": "结直肠炎性疾病",
+   "publishYear": "2021",
+   "definition": "环境、遗传、感染和免疫等多因素相互作用所引起的肠道免疫反应，进而导致组织损伤的原因不明的肠道炎症性疾病。主要包括溃疡性结肠炎和克罗恩病。"
+  },
+  {
+   "cn": "传染性法氏囊病",
+   "en": "infectious bursal disease， IBD",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "离子束淀积",
+   "en": "ion beam deposition，IBD",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "炎性肠病",
+   "en": "inflammatory bowel disease, IBD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.3.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_器官特异性疾病",
+   "subjectName": "器官特异性疾病",
+   "publishYear": "2025",
+   "definition": "胃肠道的慢性炎性疾病，包括溃疡性结肠炎和克罗恩病。诊断需综合临床，内镜和组织学等检查结果。表现为反复的腹痛、腹泻、脓血便等，以及包括视物模糊、关节肿痛、皮疹，系统性血管炎等多种肠道外表现。"
+  }
+ ],
  "error": null,
  "raw": null
 }

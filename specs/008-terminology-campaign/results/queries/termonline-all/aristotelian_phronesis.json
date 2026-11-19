@@ -1,0 +1,32 @@
+{
+ "key": "aristotelian phronesis",
+ "term": "Aristotelian phronēsis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:35:26+00:00",
+ "status": "ok",
+ "note": "variant=Aristotelian phronēsis; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "亚里士多德意义观",
+   "en": "Aristotles notion of meaning,Aristotelian notion of meaning",
+   "source": "语言学名词",
+   "wordNumber": "05.022",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "古希腊哲学家亚里士多德（Aristotle）提出的一种语义观点。认为意义来自约定，主张用什么样的词来指称什么样的客观事物是社会约定俗成的。"
+  },
+  {
+   "cn": "实践智慧",
+   "en": "phronesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.026",
+   "subjectFullName": "自然辩证法_科技伦理_高技术伦理",
+   "subjectName": "高技术伦理",
+   "publishYear": "2024",
+   "definition": "在亚里士多德那里是一种特定的实践推理能力，处理那些与善恶相关的偶然性事务的特殊情况，可以使人们的行动更符合道德要求。当代科技伦理实践中，实践智慧被用于处理具有很大不确定性的高技术应用带来的伦理问题，以"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

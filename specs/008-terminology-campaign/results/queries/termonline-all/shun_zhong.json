@@ -1,0 +1,442 @@
+{
+ "key": "shun zhong",
+ "term": "Shùn zhōng",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:34:00+00:00",
+ "status": "ok",
+ "note": "variant=Shùn zhōng; 审定公布名词库=346; 海峡两岸名词对照库=10; 其他来源数据库=11; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "SH波",
+   "en": "SH wave",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0652",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "位移分量平行于界面的横波。 "
+  },
+  {
+   "cn": "NG2蛋白聚糖",
+   "en": "neuron-glial antigen 2 proteoglycan;NG2 proteoglycan",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "6.0302",
+   "subjectFullName": "生物化学与分子生物学_糖类_糖复合物_单糖衍生物",
+   "subjectName": "单糖衍生物",
+   "publishYear": "2024",
+   "definition": "具有最大核心蛋白质的跨膜蛋白聚糖。主要存在于神经元细胞中，在发育的间质细胞和人黑色素瘤细胞中也有。其细胞外结构域上连接着2～3条硫酸软骨素链。"
+  },
+  {
+   "cn": "SH型运动",
+   "en": "SH-type motion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0651",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "振动方向与波传播方向垂直且平行于界面的一种运动。 "
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain,SH domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.031",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "首先在Src蛋白中发现的几个高度保守的结构域。Src的蛋白产物是细胞膜上的酪氨酸蛋白激酶，其家族中其他蛋白与Src具有同源性的结构域。可与受体酪氨酸激酶磷酸化残基以及信号转导蛋白紧密结合，形成多蛋白复"
+  },
+  {
+   "cn": "SH2[结构]域",
+   "en": "src homology 2 domain,SH2 domain",
+   "source": "生理学名词",
+   "wordNumber": "02.259",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain,SH1 domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.032",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "Src家族激酶中具有催化活性的结构域。"
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2,SH2",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.033",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "胞内信号分子所具有的一个高度保守而无催化活性的、可与磷酸化酪氨酸结合的Src同源区。主要介导蛋白质之间的相互作用。参与形成信号复合体和组成信号转导链。"
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3,SH3",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.034",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "胞内信号分子所具有的一个高度保守而无催化活性的、主要与PXXP序列相结合的Src同源区。在分子之间传递信号。"
+  },
+  {
+   "cn": "SH2结构域",
+   "en": "Src homology 2 domain;SH2 domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0248",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "信号转导蛋白质胞内域中能与磷酸化酪氨酸结合的一段序列。最初在与SRC癌基因家族产物同源的受体酪氨酸激酶中发现，但是因其与SH1催化结构域不同而被命名为SH2结构域。主要介导蛋白质之间的相互作用。参与形"
+  },
+  {
+   "cn": "SH3结构域",
+   "en": "Src homology 3 domain;SH3 domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0249",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "信号转导蛋白质胞内域中能与可以与脯氨酸丰富区结合的一段序列。因为与SRC家族酪氨酸激酶有同源序列，却与其催化结构域SH1不同而命名为SH3结构域。主要介导蛋白质之间的相互作用，是生成信号复合体和组成信"
+  },
+  {
+   "cn": "SH型静态混合器",
+   "en": "SH type static mixer",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1677",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "由双孔道组成SH单元，孔道内放置螺旋片，相邻混合单元双孔道的方位错位90°，混合单元之间设有流体再分配室的混合器。"
+  },
+  {
+   "cn": "中山国",
+   "en": "Zhong Shan Guo;Zhong Shan State",
+   "source": "中国古代史名词",
+   "wordNumber": "2.039",
+   "subjectFullName": "中国古代史_先秦_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "春秋战国时期位于今河北滹沱河流域灵寿、平山、晋县一带的古国。春秋时称“鲜虞”，属白狄。战国时崇尚儒学，曾成为次于七雄的强国，公元前296年为赵所灭。"
+  },
+  {
+   "cn": "山长",
+   "en": "shan zhang;dean of the aca­demy",
+   "source": "中国古代史名词",
+   "wordNumber": "1.369",
+   "subjectFullName": "中国古代史_通论_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "书院的主持者。又称“院长”“洞主”等，因书院多在山林名胜，主持者并非官职而得名，以喻其学行高洁特立。宋元以来书院盛行，常由著名学者任此，或外聘，或在院内公举，有时亦由官府指定，多为主讲兼领院务。"
+  },
+  {
+   "cn": "章",
+   "en": "zhang",
+   "source": "档案学名词",
+   "wordNumber": "07.01.060",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "古代臣僚对皇帝谢恩或陈事的文书。始于汉代。魏晋隋唐，章也用于对皇帝谏言或庆贺。"
+  },
+  {
+   "cn": "舜",
+   "en": "Shun;Sage Emperor Shun",
+   "source": "中国古代史名词",
+   "wordNumber": "2.008",
+   "subjectFullName": "中国古代史_先秦_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "都于蒲坂（今山西永济西），禅位于禹的上古帝王。相传名重华，姚姓，号“有虞氏”，又称“虞舜”。幼有孝行，在位曾整顿官制，巡视四方，命禹治水，是善于治理天下的圣王。"
+  },
+  {
+   "cn": "郑国",
+   "en": "Zheng Guo;Zheng State",
+   "source": "中国古代史名词",
+   "wordNumber": "2.033",
+   "subjectFullName": "中国古代史_先秦_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "周朝郑伯建立的姬姓封国。其始祖为周宣王之弟友，任王室司徒，封邑原在今陕西华县东部，周幽王时东迁至虢、郐之间（今河南荥阳、新郑一带），都于新郑（今河南新郑）。春秋初期甚强，战国以来逐渐衰弱，公元前375"
+  },
+  {
+   "cn": "中正",
+   "en": "zhong zheng;impartial judges;fair and upright official",
+   "source": "中国古代史名词",
+   "wordNumber": "4.178",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "魏晋以来负责评定各地士人才行门资的官员。曹魏行九品中正制时始设，郡中正又称“郡正”，州称大中正，后或称“州都”，多由本籍朝官或有声望者担任，由司徒府统一管理，评定本地人物的才行门资为九等，供吏部选官参"
+  },
+  {
+   "cn": "中政院",
+   "en": "zhong zheng yuan;household administration of the empress",
+   "source": "中国古代史名词",
+   "wordNumber": "7.076",
+   "subjectFullName": "中国古代史_辽金元_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "元朝掌管皇后事务的机构。公元1296年成宗设中御府，1300年改称。"
+  },
+  {
+   "cn": "肃慎",
+   "en": "Su Shen;Su Shen People",
+   "source": "中国古代史名词",
+   "wordNumber": "2.491",
+   "subjectFullName": "中国古代史_先秦_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "分布于长白山以北地区的古代族群。相传三代时期曾来朝贡，后以此泛指活跃于该地区的众多族群。"
+  },
+  {
+   "cn": "山越",
+   "en": "Shan Yue;Shan Yue Aborigines",
+   "source": "中国古代史名词",
+   "wordNumber": "4.346",
+   "subjectFullName": "中国古代史_魏晋南北朝_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "汉末至孙吴分布于东南丘陵山区的土著族群。汉末以来被视为古越人后裔，成分复杂。孙吴时以暴力掳抄其地，驱赶其人，以此扩大兵源，补充佃客，自此衰落。"
+  },
+  {
+   "cn": "SH2域",
+   "en": "Src homology 2 domain\",\"SH2 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH3域",
+   "en": "Src homology 3 domain\",\"SH3 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "NG2 蛋白聚糖",
+   "en": "NG2 proteoglycan",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain\",\"SH domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain\",\"SH1 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2domain\",\"SH2 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3domain\",\"SH3 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "孟诜",
+   "en": "Meng Shen",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "郑和航海图",
+   "en": "Zheng Hes Nautical Chart",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "郑和下西洋",
+   "en": "Zheng He〖KG-*4〗’s Expedition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "护胫",
+   "en": "shin guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神",
+   "en": "Shen (Spirit / Spiritual)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "护腿板",
+   "en": "leg guard\",\"leg pad\",\"shin guard\",\"shin pad",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护腿板",
+   "en": "leg guard\",\"leg pad\",\"shin guard\",\"shin pad",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护腿板",
+   "en": "leg guard\",\"shin guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "张思德精神",
+   "en": "the spirit of Zhang Side",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "奇正",
+   "en": "Qi or Zheng / Surprise or Normal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "郑声",
+   "en": "The Music of the State of Zheng",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "钟南山",
+   "en": "Zhong Nanshan, a prominent Chinese expert in respiratory diseases (and a hero of the 2003 fight against SARS)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "山戎",
+   "en": "Shan Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0088",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。戎人一支。先秦时活动于今河北省北部燕山一带。以林中狩猎和游牧为生，略知农耕。不时南侵中原，成为燕、齐诸国之边患。春秋末期渐衰，后融入邻族。"
+  },
+  {
+   "cn": "山越",
+   "en": "Shan Yue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0158",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "先秦古族名。主要活动于长江中游，支系众多，方国林立，不相统属。曾助武王伐商，战国时与楚国互动密切，先后渐渐融合于楚、汉，或部分沿长江而上居于川黔交界地带，今苗族、仡佬族或为其后裔，或与濮人有文化渊源。"
+  },
+  {
+   "cn": "无终",
+   "en": "Wu zhong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0197",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古政权名。周武王伐纣灭商、分封诸侯，山戎族一支部落首领受封子爵，封地在无终山（河北玉田县）,遂建无终子国。"
+  },
+  {
+   "cn": "张骞出使西域",
+   "en": "Zhang Qian’s Missions to the Western Regions",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0599",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "汉代著名历史事件。公元前138 年，为联合大月氏夹击匈奴，张骞受汉武帝命出使西域大月氏。公元前119 年，为联合乌孙共击匈奴，张骞第二次出使乌孙。张骞两次出使西域，为汉朝抗击匈奴和中西文化交流做出了杰"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

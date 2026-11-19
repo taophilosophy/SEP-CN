@@ -1,0 +1,742 @@
+{
+ "key": "smoking lung",
+ "term": "smoking lung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:38:17+00:00",
+ "status": "ok",
+ "note": "variant=smoking lung; 审定公布名词库=2418; 海峡两岸名词对照库=444; 其他来源数据库=122; 预公布名词数据库=106; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "熏制",
+   "en": "smoking",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1088",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2020",
+   "definition": "利用木材或木屑不完全燃烧时产生的含有酚、醛、酸等成分的烟雾处理食品，或直接添加烟熏液，使产品具有烟熏食品的特殊风味的过程。"
+  },
+  {
+   "cn": "烟雾",
+   "en": "smoke",
+   "source": "烧伤学名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "烧伤学_特殊类型烧伤_吸入性损伤",
+   "subjectName": "吸入性损伤",
+   "publishYear": "2019",
+   "definition": "物质燃烧所产生的有害化学物质所形成的雾状物。"
+  },
+  {
+   "cn": "烟",
+   "en": "smoke",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.1055",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "当物质燃烧或发生急速的化学变化时转化或分解出的微粒或气体。"
+  },
+  {
+   "cn": "烟度",
+   "en": "smoke",
+   "source": "计量学名词",
+   "wordNumber": "15.071",
+   "subjectFullName": "计量学_化学_化学测量的量",
+   "subjectName": "化学测量的量",
+   "publishYear": "2015",
+   "definition": "空气中悬浮颗粒为固体时的浊度。"
+  },
+  {
+   "cn": "烟气",
+   "en": "smoke",
+   "source": "建筑学名词",
+   "wordNumber": "14.0260",
+   "subjectFullName": "建筑学_建筑设备与系统_暖通空调系统与设备部件",
+   "subjectName": "暖通空调系统与设备部件",
+   "publishYear": "2014",
+   "definition": "在化学工艺过程中产生的气态物质。"
+  },
+  {
+   "cn": "烟",
+   "en": "smoke",
+   "source": "大气科学名词",
+   "wordNumber": "08.301",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "由燃烧而产生的在大气中浮悬的细小固体、液体微粒。"
+  },
+  {
+   "cn": "烟雾",
+   "en": "smoke",
+   "source": "航空科学技术名词",
+   "wordNumber": "17.127",
+   "subjectFullName": "航空科学技术_机场设施与飞行环境",
+   "subjectName": "机场设施与飞行环境",
+   "publishYear": "2003",
+   "definition": "航空发动机排出物中影响光线传送的碳素物。"
+  },
+  {
+   "cn": "烟",
+   "en": "smoke",
+   "source": "化学工程名词",
+   "wordNumber": "03.676",
+   "subjectFullName": "化学工程_传递过程与单元操作_固体过程_气态非均一系分离",
+   "subjectName": "气态非均一系分离",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "重度吸烟",
+   "en": "severe smoking,heavy smoking",
+   "source": "呼吸病学名词",
+   "wordNumber": "05.082",
+   "subjectFullName": "呼吸病学_病因",
+   "subjectName": "病因",
+   "publishYear": "2018",
+   "definition": "吸烟指数≥400的吸烟程度。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "麻醉学名词",
+   "wordNumber": "01.056",
+   "subjectFullName": "麻醉学_麻醉学基础_呼吸系统_呼吸系统解剖",
+   "subjectName": "呼吸系统解剖",
+   "publishYear": "2024",
+   "definition": "呼吸系统中最重要的器官。位于胸腔内，纵隔两侧，分为左肺和右肺。上端称肺尖，下端称肺底，内侧称纵隔面，外侧称肋面。右肺三叶，左肺二叶，外被胸膜，以叶间裂相隔，每叶肺又依支气管和血管的分支再分为肺段。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "兽医学名词",
+   "wordNumber": "19.061",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "五脏之一。位于胸中，上连气道，其主要生理功能是主气、司呼吸、主宣发肃降、通调水道，并与鼻窍、皮毛密切相关。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "动物学名词",
+   "wordNumber": "6.0993",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_呼吸系统",
+   "subjectName": "呼吸系统",
+   "publishYear": "2021",
+   "definition": "陆生脊椎动物特有的呼吸器官。位于胸腔内，分为左肺和右肺。低等种类只呈囊状构造，内部只有具有血管的皱襞；但在高等种类为海绵状结构。鸟类的肺主要是由大量的三级支气管组成。哺乳动物的肺是由许多微细支气管和肺"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "呼吸病学名词",
+   "wordNumber": "02.010",
+   "subjectFullName": "呼吸病学_解剖和组织学_概论",
+   "subjectName": "概论",
+   "publishYear": "2018",
+   "definition": "进行气体交换，实现体内摄取氧和排出二氧化碳，并具有一定代谢和免疫功能的器官。位于胸腔内，横膈上，以纵隔为界，分左肺和右肺。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "核医学名词",
+   "wordNumber": "04.1334",
+   "subjectFullName": "核医学_临床核医学_呼吸系统核医学_呼吸系统解剖生理基础",
+   "subjectName": "呼吸系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "接受右心室输出的静脉血，进行气体交换，回输氧合动脉血到左心房的器官。以纵隔为界分为左、右两肺。由肺泡、肺内支气管、及与之伴行的血管、神经、淋巴组织构成；外表面覆以脏层胸膜。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0585",
+   "subjectFullName": "人体解剖学_内脏学_呼吸系统",
+   "subjectName": "呼吸系统",
+   "publishYear": "2014",
+   "definition": "呼吸系统中最重要的器官。位于胸腔内，纵隔两侧，分为左肺和右肺。生活状态下的正常肺，色浅红，质柔软，呈海绵状，富有弹性。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "中医药学名词",
+   "wordNumber": "03.105",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "五脏之一，位于胸腔之内，膈之上，左右各一。其主要生理功能是主气、司呼吸、主宣发肃降、通调水道、朝百脉而主治节，并与鼻窍、皮肤密切相关。"
+  },
+  {
+   "cn": "戒烟",
+   "en": "quit smoking",
+   "source": "行为医学名词",
+   "wordNumber": "1.078",
+   "subjectFullName": "行为医学_总论_行为决定健康",
+   "subjectName": "行为决定健康",
+   "publishYear": "2022",
+   "definition": "吸烟嗜好者戒除烟草依赖，终止吸烟或吸烟习惯的过程。"
+  },
+  {
+   "cn": "被动吸烟",
+   "en": "passive smoking",
+   "source": "行为医学名词",
+   "wordNumber": "7.04",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_戒烟",
+   "subjectName": "戒烟",
+   "publishYear": "2022",
+   "definition": "自己不吸烟，与吸烟者共处同一环境中，被动地吸入主动吸烟者喷出来的烟气和卷烟燃烧时散发在环境中烟雾的行为。"
+  },
+  {
+   "cn": "冷熏",
+   "en": "cold smoking",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1089",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2020",
+   "definition": "制品周围熏烟和空气混合气体的平均温度不超过22℃（一般为15~20℃）的烟熏过程。"
+  },
+  {
+   "cn": "温熏",
+   "en": "lukewarm smoking",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1090",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2020",
+   "definition": "在较高温度（30~80℃）进行较短时间（3~8h）熏干的方法，目的是使制品具有特有的风味。"
+  },
+  {
+   "cn": "熏制",
+   "en": "smoking",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "烟",
+   "en": "smoke",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "发烟试验",
+   "en": "smoking test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海面蒸发雾",
+   "en": "sea smoke",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "化学烟雾",
+   "en": "chemical smoke",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "烟迹",
+   "en": "smoke trail",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "烟霾",
+   "en": "smoke haze",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "烟雾发生器",
+   "en": "smoke generator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "烟鞣制",
+   "en": "smoke tanning",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "烟雾剂",
+   "en": "smoke agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "烟雾烛［缸］",
+   "en": "smoke candle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "烟幕弹",
+   "en": "smoke bomb",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "发烟弹",
+   "en": "smoke shell",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "发烟罐",
+   "en": "smoke pot",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信号烟",
+   "en": "signal smoke",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "烟片［橡胶］",
+   "en": "smoked sheet",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "烟点",
+   "en": "smoke point",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "毒烟",
+   "en": "toxic smoke",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "弓箭步",
+   "en": "lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "烟感探测器",
+   "en": "smoke detector",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "肺脓肿",
+   "en": "lung abscess",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "侧弓箭步",
+   "en": "side lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前弓箭步",
+   "en": "forward lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后弓箭步",
+   "en": "backward lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "刺姿",
+   "en": "lunge position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "没有硝烟的战争",
+   "en": "a war without smoke",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双肺浸润性病灶",
+   "en": "infiltration in both lungs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "得分",
+   "en": "scoring",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长袜",
+   "en": "stocking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长袜",
+   "en": "stocking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记分",
+   "en": "scoring",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吸烟",
+   "en": "smoking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "拥有或支配点燃的烟草制品的行为，无论是否实际吸入或呼出烟雾。"
+  },
+  {
+   "cn": "吸烟",
+   "en": "smoking",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.067",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "习惯性吸食含有尼古丁制品的行为，易形成依赖，有主动寻求使用的愿望。"
+  },
+  {
+   "cn": "熏制",
+   "en": "smoking",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.57",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "利用木材或木屑不完全燃烧时产生的含有酚、醛、酸等成分的烟雾处理食品，或直接添加烟熏液，使产品具有烟熏食品的特殊风味的过程。"
+  },
+  {
+   "cn": "熏烤",
+   "en": "smoked",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.26",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "以畜禽肉或其可食副产品等为主要原料，配以调味料（含食品添加剂）在烤箱或烟熏炉中，利用合适的木材、木屑、茶叶、糖等材料不完全燃烧而产生的熏烟或使用烟熏液使肉制品增添特有的烟熏风味的方法。"
+  },
+  {
+   "cn": "吸烟量",
+   "en": "smoking amount",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "在吸烟状态下平均每天吸食的香烟数量。"
+  },
+  {
+   "cn": "烟雾消毒",
+   "en": "smoke disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1.4.10",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "将消毒成分与氧化剂、助燃剂等成分复配，加热产生烟雾，对环境进行消毒的过程。"
+  },
+  {
+   "cn": "熏蛋",
+   "en": "smoked egg",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.12",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "将蛋品原料经过蒸、煮、炸等处理后的蛋制品。"
+  },
+  {
+   "cn": "环境烟草烟雾",
+   "en": "environmental tobacco smoke, second-hand smoke",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "指非吸烟者所处环境中的香烟烟雾。"
+  },
+  {
+   "cn": "肺移植",
+   "en": "lung transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.014",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过外科手术，将器官供体具有正常生理 功能的肺脏移植给器官受体，以代替其病损肺脏的技术。包括单肺移植、双肺移植、心肺移植和肺叶移植等。"
+  },
+  {
+   "cn": "戒烟尝试",
+   "en": "quit smoking attempt",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.1.7",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "有戒烟意愿且戒烟一天或更长时间的行为。"
+  },
+  {
+   "cn": "烟熏食用香味料",
+   "en": "smoking food flavors",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.1.11",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "未经处理的木材及类似物（如山楂果核）在有限的控制量的空气存在下经过裂解、干馏或过热水蒸气作用得到木烟，使木烟进入水质提取体系或经蒸馏、浓缩和分离后制得的水溶性香味物质。它是由木烟成分组成的复杂混合物。"
+  },
+  {
+   "cn": "离子烟感报警器",
+   "en": "ionic smoke alarm",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.23",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "利用射线电离空气产生的电子被烟雾吸附而导致电离电流降低的原理而制成的火灾报警装置。"
+  },
+  {
+   "cn": "无烟学校",
+   "en": "smoke-free school",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "通过环境与政策支持，创造良好的无烟环境，培养学生不吸烟或不吸二手烟的学校。"
+  },
+  {
+   "cn": "烟熏类畜肉罐头",
+   "en": "smoked meat can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.1.4",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将经处理后的原料经预腌制、烟熏而制成的罐藏食品。"
+  },
+  {
+   "cn": "放射致肺癌",
+   "en": "radiation induced lung cancer",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "电离辐射致呼吸上皮细胞（支气管、细支气管和肺泡）的恶性肿瘤。常有区域性淋巴转移和血行播散，临床表现咳嗽、咯血，后期出现胸痛、胸闷、呼吸困难及远处转移征象。其病程进展速度与细胞生物学特征有关。"
+  },
+  {
+   "cn": "萎缩肺综合征",
+   "en": "shrinking lung syndrome，SLS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.25",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "表现为呼吸困难、胸膜炎性胸痛等，肺功能提示肺容积进行性降低，胸部CT无明显肺间质或胸膜病变的综合征。发病机制尚不明确，可能与膈肌病变、膈神经病变、胸廓扩张异常等有关。可发生于1～6%的SLE患者中。"
+  },
+  {
+   "cn": "外照射致肺癌",
+   "en": "lung cancer from external exposure",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "来自体外的电离辐射照射致呼吸上皮细胞（支气管、细支气管和肺泡）的恶性肿瘤。"
+  },
+  {
+   "cn": "铀矿工肺癌",
+   "en": "lung cancer of uranium miner",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "在铀矿勘探开采中，井下作业人员主要受到氡及其子体的照射后出现的，与该照射具有一定程度病因学联系的原发性肺癌。"
+  },
+  {
+   "cn": "熏烧焙烤盐焗肉制品",
+   "en": "smoked baked and salt roasted meat products",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.11",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "以畜禽肉或其可食副产品等为主要原料，配以调味料（含食品添加剂）.经腌（卤）、煮等工序进行前处理，再以烟气或蒸汽或火苗或其他热介质进行熏烤或烧烤或焙烤或盐焗等工序制成的熟肉制品。"
+  },
+  {
+   "cn": "洗肺液放射性活度测量",
+   "en": "measurement of activity in lung lavage",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.33",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "测量吸入放射性核素活度的一种方法，对吸入过量放射性核素的工作人员采用洗肺治疗时，收集洗肺液并测量其放射性活度，估计核素摄入量和评价洗肺疗效。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

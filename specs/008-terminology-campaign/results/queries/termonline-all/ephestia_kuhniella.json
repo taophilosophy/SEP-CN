@@ -1,0 +1,32 @@
+{
+ "key": "ephestia kuhniella",
+ "term": "Ephestia kühniella",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:42:02+00:00",
+ "status": "ok",
+ "note": "variant=Ephestia kühniella; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "预备役",
+   "en": "Ephebeia",
+   "source": "世界历史名词",
+   "wordNumber": "02.0333",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "雅典年满18岁的青年男子要进行两年的军事训练，其中第一年在庇里乌斯港的军营里训练，第二年则驻扎边境，承担边防任务，只有完成训练后方成为正式公民，这种制度被称为“预备役”。"
+  },
+  {
+   "cn": "埃弗比",
+   "en": "ephebia",
+   "source": "教育学名词",
+   "wordNumber": "04.042",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古代希腊城邦为18～20岁男青年设立的、以进行军事训练为主的教育机构。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,742 @@
+{
+ "key": "feux croises",
+ "term": "Feux croisés",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:37:07+00:00",
+ "status": "ok",
+ "note": "variant=Feux croisés; 审定公布名词库=1301; 海峡两岸名词对照库=409; 其他来源数据库=87; 预公布名词数据库=57; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "交叉遗传",
+   "en": "criss-cross inheritance",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.36",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "性连锁基因特有的遗传现象。（1）男性的X连锁基因只能从母亲传来，将来只能传给女儿的现象。（2）在雄性异配生物中，一个隐性突变基因纯合母本和一个野生型父本杂交，F₁中出现雄性子代像母本，雌性子代像父本的"
+  },
+  {
+   "cn": "交叉遗传",
+   "en": "criss-cross inheritance",
+   "source": "遗传学名词",
+   "wordNumber": "02.209",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "性连锁基因特有的遗传现象。在雄性异配生物中，一个隐性突变基因纯合母本和一个野生型父本杂交，F₁中出现雄性子代像母本，雌性子代像父本的遗传现象。"
+  },
+  {
+   "cn": "交叉遗传",
+   "en": "criss-cross inheritance",
+   "source": "水产名词",
+   "wordNumber": "05.144",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "杂交雄性子代像母本、雌性子代像父本的现象。"
+  },
+  {
+   "cn": "交叉心脏",
+   "en": "criss-cross heart",
+   "source": "医学名词 第六分册",
+   "wordNumber": "03.198",
+   "subjectFullName": "医学_胸心血管外科学",
+   "subjectName": "胸心血管外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "助焊剂",
+   "en": "flux",
+   "source": "精细化工名词",
+   "wordNumber": "08.1130",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "在焊接工艺中能帮助和促进焊接过程，同时具有保护作用、阻止氧化反应的化学物质。"
+  },
+  {
+   "cn": "通量",
+   "en": "flux",
+   "source": "风景园林名词",
+   "wordNumber": "12.0203",
+   "subjectFullName": "风景园林_风景园林生态_可持续生态学",
+   "subjectName": "可持续生态学",
+   "publishYear": "2025",
+   "definition": "单位时间内垂直通过单位面积所传递的某种物理量。如碳通量、热通量和水汽通量等。"
+  },
+  {
+   "cn": "流量",
+   "en": "flux",
+   "source": "天文学名词",
+   "wordNumber": "04.343",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "单位时间内通过给定面积的能量或粒子数量的量度。"
+  },
+  {
+   "cn": "熔剂",
+   "en": "flux",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.087",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_造型材料",
+   "subjectName": "造型材料",
+   "publishYear": "2021",
+   "definition": "在冶炼过程中，用以降低熔渣熔点，增加熔渣流动性，使熔渣与熔融金属分离或便于扒渣的物质。"
+  },
+  {
+   "cn": "焊剂",
+   "en": "flux",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.138",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_焊接与钎焊材料",
+   "subjectName": "焊接与钎焊材料",
+   "publishYear": "2021",
+   "definition": "焊接时，能够熔化形成熔渣和(或)气体，对熔化金属起保护和冶金物理化学作用的物质。"
+  },
+  {
+   "cn": "通量",
+   "en": "flux",
+   "source": "生理学名词",
+   "wordNumber": "02.048",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "流率密度",
+   "en": "flux",
+   "source": "冶金学名词",
+   "wordNumber": "04.0283",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程动力学与反应工程学",
+   "subjectName": "冶金过程动力学与反应工程学",
+   "publishYear": "2019",
+   "definition": "通过单位截面面积传输的动量流率、热流率和质量流率的统称。"
+  },
+  {
+   "cn": "熔剂",
+   "en": "flux",
+   "source": "冶金学名词",
+   "wordNumber": "06.0165",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "高温下易与脉石或金属氧化物发生造渣等反应的组分或物料。"
+  },
+  {
+   "cn": "通量",
+   "en": "flux",
+   "source": "物理学名词",
+   "wordNumber": "01.0293",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "通量",
+   "en": "flux",
+   "source": "植物学名词",
+   "wordNumber": "13.0497",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "单位时间内垂直通过单位面积所传递的某种物理量。如碳通量、热通量和水汽通量等。"
+  },
+  {
+   "cn": "通量",
+   "en": "flux",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0055",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "在化学工程中，通量被定义为单位时间、单位面积上物质或热的流通量。"
+  },
+  {
+   "cn": "通量",
+   "en": "flux",
+   "source": "林学名词",
+   "wordNumber": "02.051",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "单位时间单位面积物质或热量的流通量。"
+  },
+  {
+   "cn": "熔剂",
+   "en": "flux",
+   "source": "化学名词",
+   "wordNumber": "03.0079",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "在高温下与试样一起熔融，使试样转化为能溶于水或酸的化合物的一类化学试剂。"
+  },
+  {
+   "cn": "熔剂",
+   "en": "flux",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1046",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_凝固与铸造技术",
+   "subjectName": "凝固与铸造技术",
+   "publishYear": "2011",
+   "definition": "某些合金熔化过程中表面覆盖的材料，起到防止氧化，吸附合金液中的非金属夹杂物的作用。"
+  },
+  {
+   "cn": "通量",
+   "en": "flux",
+   "source": "大气科学名词",
+   "wordNumber": "05.411",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "在流体运动中，单位时间内流经某单位面积的某属性量，是表示某属性量输送强度的物理量。"
+  },
+  {
+   "cn": "水通量",
+   "en": "flux",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0295",
+   "subjectFullName": "海洋科学技术_海洋技术_海水资源开发技术",
+   "subjectName": "海水资源开发技术",
+   "publishYear": "2007",
+   "definition": "单位时间通过单位膜面积的水的体积或质量。"
+  },
+  {
+   "cn": "焰火",
+   "en": "Feux d’ artifice",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Debussy, Claude"
+  },
+  {
+   "cn": "交叉遗传",
+   "en": "criss-cross inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "通量",
+   "en": "flux",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "通量",
+   "en": "flux",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "通量",
+   "en": "flux",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "熔剂",
+   "en": "flux",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "流量",
+   "en": "flux",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "熔剂",
+   "en": "flux",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "助熔剂",
+   "en": "flux",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "通量",
+   "en": "flux",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "水通量",
+   "en": "flux",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "钎剂",
+   "en": "brazing flux\",\"soldering flux",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "辐射通量",
+   "en": "radiation flux\",\"radiant flux",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "比通量",
+   "en": "specific flux",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表面通量",
+   "en": "surface flux",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动力通量",
+   "en": "dynamic flux",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光化通量",
+   "en": "actinic flux",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光子通量",
+   "en": "photon flux",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆梯度通量",
+   "en": "upgradient flux",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "频散通量",
+   "en": "dispersive flux",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "滑剑还击",
+   "en": "croisé",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交叉拳",
+   "en": "cross",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交叉换位",
+   "en": "cross",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融危机",
+   "en": "financial crisis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "十字支撑",
+   "en": "cross\",\"crucifix",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横向",
+   "en": "cross\",\"transversal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交叉感染",
+   "en": "cross infection",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "横传",
+   "en": "cross pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜线扣球",
+   "en": "cross spike",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横风",
+   "en": "cross wind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横传",
+   "en": "cross pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "侧十字支撑",
+   "en": "cross sideways",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横轴",
+   "en": "cross axis",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "血亲复仇",
+   "en": "feud",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.21",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "某个氏族将内部的成员受到其他氏族侵害视为对这个氏族全体成员的伤害，由此引起的对肇事者氏族的集体复仇。是盛行于阿拉伯半岛的一种原始习俗。"
+  },
+  {
+   "cn": "辐照通量",
+   "en": "radiant flux",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.13",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "单位时间紫外线辐射总强度，单位以毫瓦（mW）、瓦（W）表示。"
+  },
+  {
+   "cn": "中子流",
+   "en": "neutron flux",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.56",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸后十几秒内，从爆心向外发射的中子射流，是早期核辐射的组成部分。分为瞬发中子和缓发中子两个部分。"
+  },
+  {
+   "cn": "心理危机",
+   "en": "psychological crisis",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "个人遇到应激或挫折而自己不能解决或处理时，发生的心理失衡状态。"
+  },
+  {
+   "cn": "危机反应",
+   "en": "crisis reaction",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "个人处于需要超过寻常的能力才能应对的处境时作出的反应。"
+  },
+  {
+   "cn": "社会危机",
+   "en": "social crisis",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会因出现严重问题而处于某种既有危险又蕴含机会的时刻或状态，通常也是一种社会转变的紧要关头。系社会中多种重大隐患长期积累而得不到解决的结果，或是社会系统长期失衡失调失序的产物。具有一定的隐蔽性、突然性"
+  },
+  {
+   "cn": "合法性危机",
+   "en": "legitimation crisis",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.8",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "晚期资本主义文化范式无法充分阐述和容纳政治行动的意义而面临的一种价值危机。这种危机不具有根本的颠覆性质，可以经由制度改良而获得解决。德国学者尤尔根•哈贝马斯率先提出的概念。"
+  },
+  {
+   "cn": "福利危机",
+   "en": "welfare crisis",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "20世纪70年代中期，经济的全球化、财政危机、失业人口增长以及老龄化加剧等因素造成西方福利国家内部政治、经济、社会福利之间的失衡现象，高额的社会支出和财政赤字迫使很多福利国家开始福利改革。"
+  },
+  {
+   "cn": "经济危机",
+   "en": "economic crisis",
+   "source": "马克思主义",
+   "wordNumber": "02.0289",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义生产相对过剩而引起的再生产规模缩小，是资本主义在生产过程中周期性爆发的生产过剩的危机。其形成的根源是资本主义基本矛盾。一切现实的危机的最后原因，总是群众的贫穷和他们的消费受到限制。"
+  },
+  {
+   "cn": "工业危机",
+   "en": "industrial crisis",
+   "source": "马克思主义",
+   "wordNumber": "02.0291",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义工业部门所发生的生产过剩的危机。由于工业在资本主义国民经济中位置的重要性，工业危机对社会经济的影响最大。"
+  },
+  {
+   "cn": "信用危机",
+   "en": "credit crisis",
+   "source": "马克思主义",
+   "wordNumber": "02.0292",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义货币流通领域和信用领域中出现的剧烈动荡和混乱。主要表现为商业信用、银行信用遭到破坏，只有现金支付才有效，商业票据难以兑换为货币，导致现金奇缺，银根吃紧。"
+  },
+  {
+   "cn": "金融危机",
+   "en": "financial crisis",
+   "source": "马克思主义",
+   "wordNumber": "02.0293",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "首先爆发于金融领域并从金融领域蔓延到经济领域的经济类危机，除了白银和黄金，一切都贬值。根源为资本主义基本矛盾。"
+  },
+  {
+   "cn": "革命危机",
+   "en": "revolutionary crisis",
+   "source": "马克思主义",
+   "wordNumber": "03.0028",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本主义危机中产生的无产阶级革命的条件和机会。资本主义生产方式在不断地制造自身的掘墓人无产阶级，也在不断的经济危机中制造革命危机。当经济危机中私人信用已经瘫痪，流通已经不畅，生产已经停滞时，无产阶级"
+  },
+  {
+   "cn": "农业危机",
+   "en": "agricultural crisis",
+   "source": "马克思主义",
+   "wordNumber": "03.0128",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "发生于资本主义国家的农业生产过剩的危机，主要表现为农产品供过于求，大量积压，价格不断下跌，农业工人大量失业，中小农场主纷纷破产，播种面积随之缩小等方面。农业危机是资本主义经济危机的一种表现。产生农业危"
+  },
+  {
+   "cn": "社会危机",
+   "en": "social crisis",
+   "source": "马克思主义",
+   "wordNumber": "03.0166",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由于某项自然或社会问题的突然出现，从而造成社会秩序崩溃、社会控制无力，社会的安全运行和健康发展难以为继的状况。如资本主义社会，私有制所造成的根本矛盾决定其社会危机只能周期性地、越来越严重、越来越全面地"
+  },
+  {
+   "cn": "柏林危机",
+   "en": "Berlin crisis",
+   "source": "马克思主义",
+   "wordNumber": "05.0212",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "柏林危机共有三次，第一次发生于1948年，又称“柏林封锁（Berlin Blockade）”，是冷战开始后占据东柏林的苏联与占据西柏林的美、英、法之间最早发生的危机。其导火线为1948年6月24日苏联"
+  },
+  {
+   "cn": "信任危机",
+   "en": "trust crisis",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.056",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "社会或群体的道德准则和规范不被人们所遵守，人与人之间缺乏道德约束，彼此无法相信对方的真诚和忠诚，不敢期待对方行为确定性的现象。反映社会人际关系产生了大量虚伪和不诚实，人与人的关系发生了严重危机。"
+  },
+  {
+   "cn": "中子注量率展平控制",
+   "en": "neutron flux flattening control",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.19",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "通过引进中子吸收体或改变燃料富集度等方法、使堆芯中子注量率达到近似平坦的分布。"
+  },
+  {
+   "cn": "交叉反应",
+   "en": "cross reaction",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.9",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "抗体或活化淋巴细胞不仅与其诱生抗原发生特异性结合，也可与其他非诱生抗原中相同或相似的表位发生特异性结合的现象。"
+  },
+  {
+   "cn": "交叉反应",
+   "en": "cross reaction",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.21",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "抗原(或抗体)除与其相应抗体(或抗原)发生特异性反应外，还与其他抗体(或抗原)发生反应的现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

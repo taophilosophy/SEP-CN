@@ -1,0 +1,72 @@
+{
+ "key": "misra mimamsa",
+ "term": "Miśra Mīmāṃsā",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:32:20+00:00",
+ "status": "ok",
+ "note": "variant=Miśra Mīmāṃsā; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "蒭藁增二",
+   "en": "Mira; Stella Mira",
+   "source": "天文学名词",
+   "wordNumber": "05.112",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "鲸鱼座 ο。红巨星，是一类脉动变星的代表之一，即Mira型变星(蒭藁变星)。是天空中最明亮的长周期变星之一。"
+  },
+  {
+   "cn": "共生刍藁",
+   "en": "symbiotic Mira",
+   "source": "天文学名词",
+   "wordNumber": "08.428",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "在光谱中具有共生星特征的刍藁型星。"
+  },
+  {
+   "cn": "刍藁变星",
+   "en": "Mira Ceti variable; Mira variable; Mira-type variable; Mira star; Mira-type star; o Ceti star",
+   "source": "天文学名词",
+   "wordNumber": "08.309",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "在可见光波段，光变幅度超过2.5个星等的长周期变星。因典型星鲸鱼o(中文名刍藁增二)而得名。"
+  },
+  {
+   "cn": "光核桃",
+   "en": "smooth pit peach; Prunus mira Koehne",
+   "source": "农学名词",
+   "wordNumber": "05.023",
+   "subjectFullName": "园艺作物_果树作物",
+   "subjectName": "果树作物",
+   "publishYear": "2025",
+   "definition": "蔷薇科李属果树。落叶小乔木。分布在西藏，自然成片。叶片披针形或卵状披针形，核果近球形，多光滑无核纹，直径3~4cm，可鲜食。"
+  },
+  {
+   "cn": "蒭藳型星",
+   "en": "Mira star，Mira-type star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "蒭藳变星",
+   "en": "Mira [Ceti] variable",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "lesniewski's lecture",
+ "term": "Leśniewski’s Lecture",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:29:08+00:00",
+ "status": "ok",
+ "note": "variant=Leśniewski’s Lecture; 审定公布名词库=926; 海峡两岸名词对照库=248; 其他来源数据库=38; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "讲师",
+   "en": "lecturer",
+   "source": "教育学名词",
+   "wordNumber": "08.138",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "高等学校教师中级专业技术职务名称。"
+  },
+  {
+   "cn": "微课",
+   "en": "micro lecture",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.05.033",
+   "subjectFullName": "编辑与出版学_出版物_网络出版产品与服务",
+   "subjectName": "网络出版产品与服务",
+   "publishYear": "2022",
+   "definition": "按照课程标准和教学实践要求，以视频为主要载体，围绕某个知识点或教学环节组织起来的呈现碎片化学习内容、过程及扩展素材的一种新型教学资源。微课的核心组成内容是课堂教学视频，同时还包含与该教学主题相关的教学"
+  },
+  {
+   "cn": "图书馆讲座",
+   "en": "library lecture",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.083",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_阅读辅导",
+   "subjectName": "阅读辅导",
+   "publishYear": "2019",
+   "definition": "通过举办各类讲座来进行知识传播，以进行读者教育的图书馆业务。是图书馆发挥其社会教育功能、信息传递功能、智力开发功能的重要活动形式。"
+  },
+  {
+   "cn": "学术讲座专论丛书",
+   "en": "lecture series",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.125",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "围绕某个专题或若干主题所作系列讲座的文稿汇集。一般以丛书形式出版发行。"
+  },
+  {
+   "cn": "讲稿",
+   "en": "lecture notes",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.266",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "演讲、报告或教课前所写的底稿。"
+  },
+  {
+   "cn": "演讲法",
+   "en": "lecture method",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0500",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "通过对某一主题演讲来评价演讲者认知、语言等能力特征的评价方法。"
+  },
+  {
+   "cn": "阶梯教室",
+   "en": "lecture theater",
+   "source": "建筑学名词",
+   "wordNumber": "02.0186",
+   "subjectFullName": "建筑学_建筑类型及组成_教育建筑",
+   "subjectName": "教育建筑",
+   "publishYear": "2014",
+   "definition": "地面以台阶状逐步升高以创造良好的视线，用以学校中进行合班上课的公共教室。"
+  },
+  {
+   "cn": "讲授法",
+   "en": "lecture method",
+   "source": "教育学名词",
+   "wordNumber": "02.153",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师运用口头语言，向学生传授知识的教学方法。包括讲述、讲解、讲读和讲演四种方式。"
+  },
+  {
+   "cn": "格拉诺夫斯基演讲",
+   "en": "Granovsky's Lectures",
+   "source": "世界历史名词",
+   "wordNumber": "05.0133",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1843-1851年间，俄国历史学家格拉诺夫斯基发表的三次公开演讲，指出俄国和西欧是沿着同一道路发展的，农奴制在西欧早已消失，在俄国也必然崩溃。"
+  },
+  {
+   "cn": "高级讲师",
+   "en": "senior lecturer,reader",
+   "source": "教育学名词",
+   "wordNumber": "08.137",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "英国等英联邦国家的高等学校教师专业技术职务名称之一。低于教授而高于讲师，大致相当于美国大学的副教授但侧重于教学。"
+  },
+  {
+   "cn": "大学授课资格",
+   "en": "lecture's qualification",
+   "source": "教育学名词",
+   "wordNumber": "05.154",
+   "subjectFullName": "教育学_比较教育_德国教育",
+   "subjectName": "德国教育",
+   "publishYear": "2013",
+   "definition": "德国大学授予的大学教授任职资格。申请者须具有博士学位，并提交一篇高水平学术论文（亦称大学授课资格论文），同时举行一次公开学术演讲。"
+  },
+  {
+   "cn": "讲会",
+   "en": "jiang hui;lecture gatherings",
+   "source": "中国古代史名词",
+   "wordNumber": "1.37",
+   "subjectFullName": "中国古代史_通论_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "聚众讲学、传教的活动。源于官私学校讲堂中的授学问难，魏晋至隋唐以来，儒、佛、道各有不同规模和形式的聚众讲经、传教之举，有时亦儒、佛、道人士共聚一堂轮讲互辩。南宋吕祖谦邀请朱熹与陆九渊、陆九龄兄弟举行“"
+  },
+  {
+   "cn": "日讲",
+   "en": "ri jiang;daily lecture",
+   "source": "中国古代史名词",
+   "wordNumber": "8.076",
+   "subjectFullName": "中国古代史_明清_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "明清特拣官员为皇帝讲读经史的制度。御前侍读、侍讲之制源于汉，完备于唐宋，明朝行于每月初二、十二、二十日，清朝始于春分、秋分祭孔讲经大典后每日进讲，至夏至、冬至而止，故又称“小经筵”，乾隆以后很少举行。"
+  },
+  {
+   "cn": "俗讲",
+   "en": "su jiang;popular lectures",
+   "source": "中国古代史名词",
+   "wordNumber": "5.228",
+   "subjectFullName": "中国古代史_隋唐五代_思想文化_文学艺术",
+   "subjectName": "文学艺术",
+   "publishYear": "2022",
+   "definition": "源于寺院讲经活动的说唱形式。常取佛经故事，用说唱相间的方式宣讲，有的还配以图像展示。其文字脚本称“变文”，讲唱之僧称“俗讲僧”，唐以来民间艺人亦多以此讲唱历史故事、民间传说。"
+  },
+  {
+   "cn": "经筵",
+   "en": "jing yan;court lecturer",
+   "source": "中国古代史名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "中国古代史_通论_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "御前经史讲席。起于汉代，宋朝始有此称，常以翰林学士等文儒之臣为讲官，其讲期、仪式和参与听讲者俱有规定，既讲解经史精义以为鉴戒，亦示尊师重教。元明清沿此损益，其制渐趋完备隆重。"
+  },
+  {
+   "cn": "讲约",
+   "en": "jiang yue;public lectures on the sacred edict and the law",
+   "source": "中国古代史名词",
+   "wordNumber": "8.302",
+   "subjectFullName": "中国古代史_明清_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "清朝各地官府召集士民宣讲“圣谕”及《律》条的制度。又称“读法”，常于每月朔、望举行，本地文武官及绅民参加。"
+  },
+  {
+   "cn": "螺旋CT",
+   "en": "spiral computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "X射线管和探测器围绕被检者连续旋转，检查床以一定的速度纵向连续移动，X射线连续曝光并采集数据，扫描轨迹呈螺旋状的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.055",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像基础知识",
+   "subjectName": "计算机体层成像基础知识",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "造影CT",
+   "en": "angiogram computed tomography,angiogram CT",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "利用阳性或阴性对比剂使被检查器官或结构与周围形成密度差，然后再行CT扫描的检查方法。分为血管造影CT、非血管造影CT和CT血管成像三种。"
+  },
+  {
+   "cn": "CT透视",
+   "en": "CT fluoroscopy",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.185",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "结合快速扫描、快速重建和快速显示技术，实现CT影像实时显示的一种扫描方法。主要用于CT引导下的穿刺活检或介入治疗。"
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "纹理",
+   "en": "texture",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "手势",
+   "en": "gesture",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "织构",
+   "en": "texture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "义齿",
+   "en": "denture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "织构",
+   "en": "texture",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "texture",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "特征，要素",
+   "en": "feature",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纹理",
+   "en": "texture",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地物",
+   "en": "feature",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "图像",
+   "en": "picture",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "特征",
+   "en": "feature",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图片",
+   "en": "picture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纹理",
+   "en": "texture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "照片",
+   "en": "picture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "微课",
+   "en": "micro lecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "手势",
+   "en": "gesture\",\"signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手势",
+   "en": "gesture\",\"signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "  临床表现",
+   "en": "clinical picture",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "手势交互",
+   "en": "hand gesture interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风投创投网络",
+   "en": "venture capital network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子安全直接通信",
+   "en": "quantum secure direct communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子保密通信测试网络（英国）",
+   "en": "Quantum Secure Communications (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全交换系统",
+   "en": "secure data exchange system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "讲座",
+   "en": "lecture",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "通常由学校或社区主办，围绕学生中比较普遍性的问题，请一名或多名专家开展专题报告的教学方法。"
+  },
+  {
+   "cn": "课堂讲授",
+   "en": "lecture in class",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "教师以课本为教材，有教学大纲，有明确的教学重点和安排的教学方法。"
+  },
+  {
+   "cn": "营养健康知识讲座",
+   "en": "nutrition and health knowledge lecture",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "授课老师借助教学工具，运用教学的方式向教育对象传播营养健康知识和技能的一种活动形式。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "土壤质地",
+   "en": "soil texture",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "土壤中矿物质颗粒的大小和其组合比例，即土壤的粗细、砂粘状况。按土壤中砂粒、粉砂粒和粘粒的含量百分数，可分为粗沙土、沙壤土、壤土、粘壤土和粘土。"
+  },
+  {
+   "cn": "有闲阶级",
+   "en": "leisure class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "无所事事的、寄生性的企业精英，通过消费炫耀来显示他们的身份地位，其人数在不断增长。美国社会理论家凡勃伦(Thorstein Veblen）在《有闲阶级理论》中提出的群体分类概念。"
+  },
+  {
+   "cn": "合资",
+   "en": "joint venture",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.5",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "由两个或多个卫生服务机构共同出资、共担风险、共享收益而形成的新的机构。"
+  },
+  {
+   "cn": "安全设施",
+   "en": "safety feature",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "保障人民生命财产安全和审查运行、提高安全水平的设备。在学校范围内指针对可能对学生安全产生危害的因素所采用的防护设施。"
+  },
+  {
+   "cn": "休闲指导",
+   "en": "leisure guide",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.4.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "教育引导学生学会如何选择休闲活动，懂得休闲的伦理，遵从文明休闲方式的过程。"
+  },
+  {
+   "cn": "伴随语言特征",
+   "en": "paralinguistic feature",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0116",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "说话时伴随语言出现的习惯性声音特征。例如假嗓音、吱嘎声、间断、咯咯声等嗓音特点。音高、音长、音强等超音段语音特征通常存在区别特征和伴随特征的取舍问题。例如藏语拉萨话的声调和元音长短成互补状态，如果确定"
+  },
+  {
+   "cn": "安全型依恋",
+   "en": "secure attachment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "良好、积极的依恋行为。与母亲一起时可安逸地玩耍，母亲离开时表现哭闹和分离焦虑，但容易受安抚并安静下来。"
+  },
+  {
+   "cn": "劳动-闲暇替代",
+   "en": "labor-leisure trade-offs",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.3.1",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求模型",
+   "subjectName": "健康需求模型",
+   "publishYear": "2025",
+   "definition": "贝克尔（Gary Becker）的时间分配理论，后被应用在健康需求模型中。个体总闲暇时间可以被用于生产家庭物品或者被雇佣以获得收入。劳动时间增加就会减少闲暇时间，劳动和闲暇是一个替代关系。"
+  },
+  {
+   "cn": "皮博迪图片词汇测验",
+   "en": "Peabody picture vocabulary test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.29.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童发育和智能的筛查性工具之一。由邓恩(L. M. Dunn,美国)于1959年编制的用于评定受检者接受词汇能力的他评量表。专为无口语表达能力或口语表达能力差的受检者所设计。可供2.5～18岁儿童使用"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

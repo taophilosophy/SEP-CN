@@ -1,0 +1,42 @@
+{
+ "key": "yogacara-bhumi-sastra",
+ "term": "Yogācāra-bhūmi-śāstra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:34:15+00:00",
+ "status": "ok",
+ "note": "variant=Yogācāra-bhūmi-śāstra; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "BH结构域",
+   "en": "Bcl-2 homology domain;BH domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.025",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "Bcl-2家族促凋亡蛋白质和抗凋亡蛋白质所特有的结构域。按其结构与功能的不同分为BH1、BH2、BH3和BH4四种，分别介导蛋白质的同源或异源二聚化。"
+  },
+  {
+   "cn": "松软岩层",
+   "en": "weak stratum,soft stra-tum",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.176",
+   "subjectFullName": "煤炭科学技术_煤矿开采_矿山压力与岩层控制",
+   "subjectName": "矿山压力与岩层控制",
+   "publishYear": "1996",
+   "definition": "黏结力差、强度低、易风化、有时遇水膨胀、自稳能力差的岩层。"
+  },
+  {
+   "cn": "地层渗漏",
+   "en": "stratigraphic leak; stra-tigraphic leakage",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0465",
+   "subjectFullName": "地球物理学_地壳流体科学_石油与天然气",
+   "subjectName": "石油与天然气",
+   "publishYear": "2022",
+   "definition": "流体通过渗流方式进入或排出地下岩层的作用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

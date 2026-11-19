@@ -1,0 +1,712 @@
+{
+ "key": "rohault's traite",
+ "term": "Rohault’s Traité",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:28:48+00:00",
+ "status": "ok",
+ "note": "variant=Rohault’s Traité; 审定公布名词库=748; 海峡两岸名词对照库=212; 其他来源数据库=17; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "海峡火车轮渡",
+   "en": "strait train ferry",
+   "source": "资源科学技术名词",
+   "wordNumber": "17.240",
+   "subjectFullName": "资源科学技术_海洋资源学",
+   "subjectName": "海洋资源学",
+   "publishYear": "2008",
+   "definition": "往返于海峡两岸或岛屿间专门载运火车和其他车辆及人员的渡船以及其相关配套设施。"
+  },
+  {
+   "cn": "特质",
+   "en": "trait",
+   "source": "心理学名词",
+   "wordNumber": "08.027",
+   "subjectFullName": "心理学_人格心理学",
+   "subjectName": "人格心理学",
+   "publishYear": "2014",
+   "definition": "影响个体行为模式的持久的人格特征。是说明人格的术语体系之一，认为不同人格的人是由某些内部和身体特征决定的。"
+  },
+  {
+   "cn": "流星余迹",
+   "en": "meteor trail; meteor train",
+   "source": "天文学名词",
+   "wordNumber": "10.188",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "较亮流星行经途径上遗留下的云雾状电离气体长带，其寿命为百分之几秒到几分钟。"
+  },
+  {
+   "cn": "目标性状",
+   "en": "objective trait,target trait",
+   "source": "遗传学名词",
+   "wordNumber": "06.070",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "在动植物育种中，希望通过选择而获得遗传改良的性状。"
+  },
+  {
+   "cn": "性状",
+   "en": "trait,character",
+   "source": "畜牧学名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "生物个体的可观察或可度量的特性。"
+  },
+  {
+   "cn": "性状",
+   "en": "character,trait",
+   "source": "植物学名词",
+   "wordNumber": "02.0105",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "生物体所表现的可以鉴别的形态特征和生理特性。能从亲代遗传给子代。"
+  },
+  {
+   "cn": "性状",
+   "en": "character,trait",
+   "source": "水产名词",
+   "wordNumber": "05.174",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "生物的可以鉴别的表型特征。"
+  },
+  {
+   "cn": "性状",
+   "en": "trait,character",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.059",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "文化特质",
+   "en": "cultural traits",
+   "source": "地理学名词",
+   "wordNumber": "24.069",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "人类文化内涵的核心要素，或体现该文化特征的主要内容。"
+  },
+  {
+   "cn": "驯化性状",
+   "en": "domestication trait",
+   "source": "农学名词",
+   "wordNumber": "06.010",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "植物由野生转变为栽培时选择的关键性状。如非落粒、直立、果实大小、果实颜色等。"
+  },
+  {
+   "cn": "遗传性状",
+   "en": "genetic trait",
+   "source": "风景园林名词",
+   "wordNumber": "09.0131",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "生物体能够世代相传的一切形态、生理、生化、代谢、行为及病理现象等的统称。"
+  },
+  {
+   "cn": "质量性状",
+   "en": "qualitative trait",
+   "source": "农学名词",
+   "wordNumber": "06.068",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "同一种性状的不同表现型之间不存在连续性的数量变化，而呈现质的中断性变化的性状。由一对或少数几对基因控制，不易受环境影响，表现为不连续变异。"
+  },
+  {
+   "cn": "数量性状",
+   "en": "quantitative trait",
+   "source": "农学名词",
+   "wordNumber": "06.069",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由多个微效基因控制，易受环境影响，个体间表现的差异只能用数量来区别，呈现连续变异的性状。"
+  },
+  {
+   "cn": "隐性性状",
+   "en": "recessive trait",
+   "source": "风景园林名词",
+   "wordNumber": "09.0135",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "具有相对性状的双亲杂交所产生的子一代中未得到表现的亲本性状。"
+  },
+  {
+   "cn": "数量性状",
+   "en": "quantitative trait",
+   "source": "风景园林名词",
+   "wordNumber": "09.0144",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "个体间表现的差异只能用数量来区别，变异呈连续性的性状。"
+  },
+  {
+   "cn": "显性性状",
+   "en": "dominant trait",
+   "source": "风景园林名词",
+   "wordNumber": "09.0134",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "显性等位基因支配的性状。具有一对相对性状的纯合亲本进行杂交，子一代为杂合体，相应的等位基因中其中一个对表现出的性状有明显影响，另一个则暂时不表现。"
+  },
+  {
+   "cn": "质量性状",
+   "en": "qualitative trait",
+   "source": "风景园林名词",
+   "wordNumber": "09.0143",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "同一种性状的不同表型之间不存在连续性的数量变化，而呈现质的中断性变化的性状。"
+  },
+  {
+   "cn": "性状分离",
+   "en": "trait segregation",
+   "source": "风景园林名词",
+   "wordNumber": "09.0136",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "在杂种后代中，同时出现显性性状和隐性性状的现象。"
+  },
+  {
+   "cn": "性状",
+   "en": "character;trait",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.079",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "生物体或细胞的任何可以鉴别的表型特征。"
+  },
+  {
+   "cn": "经济性状",
+   "en": "economic trait ",
+   "source": "草学名词",
+   "wordNumber": "4.0431",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "特质",
+   "en": "trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "目标性状",
+   "en": "target trait\",\"objective trait",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "性状",
+   "en": "character\",\"trait",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性状",
+   "en": "character\",\"trait",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文化特质",
+   "en": "cultural traits",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "克隆性状",
+   "en": "clonal trait",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "响应性状",
+   "en": "response trait",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "效应性状",
+   "en": "effect trait",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "能力特质",
+   "en": "ability trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "根源特质",
+   "en": "source trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "隐性特质",
+   "en": "recessive trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "共同特质",
+   "en": "common trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表现特质",
+   "en": "expressive trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "特质焦虑",
+   "en": "trait anxiety",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显性特质",
+   "en": "dominant trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "气质特质",
+   "en": "temperament trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "中心特质",
+   "en": "central trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格特质取向",
+   "en": "trait approach",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动态特质",
+   "en": "dynamic trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表面特质",
+   "en": "surface trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "跟随",
+   "en": "trail",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "训练",
+   "en": "coach\",\"train",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "训练",
+   "en": "train\",\"training",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "训练",
+   "en": "coach\",\"train",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸道",
+   "en": "respiratory tract",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "训练",
+   "en": "coach\",\"train\",\"training",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "审计追查技术",
+   "en": "audit trail technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "复工人员专列",
+   "en": "special train for returning workers ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上呼吸道感染",
+   "en": "upper respiratory tract infection (URTI)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“两岸一家亲”",
+   "en": "People on both sides of the Taiwan Straits are of the same family.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "文化特质",
+   "en": "cultural traits",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "一种文化中可以界定的最小单位，是组成文化的基本要素。"
+  },
+  {
+   "cn": "潜特质模型",
+   "en": "latent trait models",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.134",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "描述了在某个回答题项上特定分数的概率和解释该分数的潜变量或潜特质间关系的测量模型。模型中显变量为定距变量，潜变量为定类变量。"
+  },
+  {
+   "cn": "专业的特质",
+   "en": "trait of profession",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "1957年格林伍德所著的分析专业特征的著作。专业的职业应当具有5个特质：一个专业应该有一套系统的、支持其活动的理论体系；该种活动具有专业权威；职业内部有伦理守则；它已被社会广泛认可；这一职业群体形成了"
+  },
+  {
+   "cn": "呼吸道隔离",
+   "en": "respiratory tract isolation",
+   "source": "消毒学",
+   "wordNumber": "1.6.4",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "针对由患者飞沫和鼻咽分泌物经呼吸道传播疾病所采取的阻隔措施，包括飞沫隔离措施和空气隔离措施。"
+  },
+  {
+   "cn": "消化道隔离",
+   "en": "digestive tract isolation",
+   "source": "消毒学",
+   "wordNumber": "1.6.5",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "针对由患者排泄物直接或间接污染食物、食具经消化道传播疾病所采取的阻隔措施。包括加强手卫生、餐饮具清洁消毒、避免直接接触和间接接触等措施。"
+  },
+  {
+   "cn": "消化道传播",
+   "en": "digestive tract transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.6",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "病原体污染食物、水源或食具，易感者进食时获得感染的过程，如伤寒、细菌性痢疾和霍乱等。"
+  },
+  {
+   "cn": "经呼吸道传播",
+   "en": "respiratory tract transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.9",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "易感者吸入存在于空气中的病原体时获得感染的过程，如麻疹、白喉、结核病、禽流感和严重急性呼吸综合征等。"
+  },
+  {
+   "cn": "泌尿生殖道萎缩",
+   "en": "urogenital tract atrophy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.4.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "妇女绝经后由于卵巢功能衰退或耗竭而发生的泌尿生殖道改变。主要表现为阴道干燥、性交困难及反复阴道感染，排尿困难、尿痛、尿急等反复发生的尿路感染。"
+  },
+  {
+   "cn": "消化道发育",
+   "en": "development of digestive tract",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.3.12",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "胎儿消化系统器官和肠道上皮细胞不断生长发育的过程，这就使新生儿肠道能够适应乳类饮食。肠道各种消化酶水平可间接反映消化系统发育状况。"
+  },
+  {
+   "cn": "人体消化道模型",
+   "en": "human alimentary tract model, HATM",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.18",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "描述放射性核素经消化道摄入在人体内转运、吸收规律的模型。模型考虑了放射性核素在消化道吸收和滞留任何可能的场所，提供了在口腔、食管、胃、小肠、右结肠、左结肠和直肠乙状结肠的癌症诱导靶（干细胞）的剂量计算"
+  },
+  {
+   "cn": "进出境列车消毒",
+   "en": "disinfection of entry-exit train",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.5",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境列车，以杀灭病原体为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "呼吸道吸收",
+   "en": "absorption from the respiratory tract",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.17",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经呼吸道进入体液的过程。"
+  },
+  {
+   "cn": "人体呼吸道模型",
+   "en": "human respiratory tract model，HRTM",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.19",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "描述放射性核素经呼吸方式摄入，在人体呼吸道内沉积、转移或廓清规律的模型。模型从形态学上将呼吸道模型分为4个解剖区：胸腔外区（extra thoracic region，ET），包括前鼻通道区（ante"
+  },
+  {
+   "cn": "规范试验残留高值",
+   "en": "supervised trail maximum residue level",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.62",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "当农药按照最高的良好农业操作规范（GAP）条件使用时，粮食中的最大残留水平（以毫克残留物/公斤产品表示）。"
+  },
+  {
+   "cn": "规范试验残留中值",
+   "en": "supervised trail median residue level",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.61",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "当农药按照最高的良好农业操作规范（GAP）条件使用时，粮食中的期望残留水平（以毫克残留物/公斤产品表示）。"
+  },
+  {
+   "cn": "导尿管相关尿路感染",
+   "en": "catheter-associated urinary tract infection, CAUTI",
+   "source": "消毒学",
+   "wordNumber": "4.6.22.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者留置导尿管期间或拔除导尿管后48小时内发生的尿路感染。"
+  },
+  {
+   "cn": "生殖道感染筛查",
+   "en": "reproductive tract infection screening, RTI screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "对适龄妇女进行外阴阴道假丝酵母菌病、滴虫性阴道炎、细菌性阴道病、老年性阴道炎、急性子宫颈炎、盆腔炎、尖锐湿疣等内外生殖器官炎性疾病的筛查，并对筛查阳性或者异常的人群进行相应的诊断和治疗的措施。"
+  },
+  {
+   "cn": "消化道传染病消毒",
+   "en": "disinfection of digestive tract infectious disease",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "对消化道传染病病原体可能污染的物体表面、水、垃圾、粪便等采取的消毒措施。"
+  },
+  {
+   "cn": "胃肠道吸收",
+   "en": "absorption from the gastro-intestinal tract",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.16",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经胃肠道进入到体液的过程。"
+  },
+  {
+   "cn": "呼吸机相关下呼吸道感染",
+   "en": "ventilator associated lower respiratory tract infection, VAP",
+   "source": "消毒学",
+   "wordNumber": "4.6.22.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "建立人工气道（气管插管或气管切开）并接受机械通气时所发生的肺炎或支气管炎。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

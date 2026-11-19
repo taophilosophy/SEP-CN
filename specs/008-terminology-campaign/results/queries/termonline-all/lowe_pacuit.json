@@ -1,0 +1,572 @@
+{
+ "key": "lowe pacuit",
+ "term": "Löwe Pacuit",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:34:59+00:00",
+ "status": "ok",
+ "note": "variant=Löwe Pacuit; 审定公布名词库=132; 海峡两岸名词对照库=42; 其他来源数据库=9; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "眼脑肾综合征",
+   "en": "oculo-cerebro-renal syndrome,Lowe syndrome,Lowe-TeryMachlachan syndrome",
+   "source": "医学名词 第四分册",
+   "wordNumber": "02.210",
+   "subjectFullName": "医学_肾脏病学",
+   "subjectName": "肾脏病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "数据包",
+   "en": "packet",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.038",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "TCP/IP协议通信传输中的数据单位。数据包主要由“目的IP地址”“源IP地址”“净载数据”三部分构成。"
+  },
+  {
+   "cn": "敏度",
+   "en": "acuity",
+   "source": "生物物理学名词",
+   "wordNumber": "04.156",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "分辨对象细节的精细程度。如在视觉和触觉中能区分的两点之间的最短距离。"
+  },
+  {
+   "cn": "分组",
+   "en": "packet",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.229",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在因特网或其他分组交换网的始发点与终接点之间，作为一个整体来传送的数据单元。其中包括用户数据、地址信息、控制信号和差错控制信号等。"
+  },
+  {
+   "cn": "包",
+   "en": "packet",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0742",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "眼脑肾综合征",
+   "en": "oculo-cerebro-renal syndrome,Lowe syndrome",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.544",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "听觉敏度",
+   "en": "auditory acuity",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.45",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "辨别声音频率、声强的能力。"
+  },
+  {
+   "cn": "视敏度",
+   "en": "visual acuity",
+   "source": "行为医学名词",
+   "wordNumber": "3.253",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "眼对物体细小结构的分辨能力。"
+  },
+  {
+   "cn": "味觉敏感",
+   "en": "taste acuity",
+   "source": "行为医学名词",
+   "wordNumber": "17.185",
+   "subjectFullName": "行为医学_相关行为疾病_口腔科相关行为疾病",
+   "subjectName": "口腔科相关行为疾病",
+   "publishYear": "2022",
+   "definition": "味蕾对不同味道的敏感程度增强的现象。"
+  },
+  {
+   "cn": "波组",
+   "en": "wave packet",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0488",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "由一个或几个波形组成反映地下构造或岩性的一组地震波。 "
+  },
+  {
+   "cn": "电荷包",
+   "en": "charge packet",
+   "source": "光学名词",
+   "wordNumber": "11.213",
+   "subjectFullName": "光学_光有源器件",
+   "subjectName": "光有源器件",
+   "publishYear": "2021",
+   "definition": "当CCD工作时，由于光注入或电注入，在CCD的势阱中所存储的自由电荷总量。"
+  },
+  {
+   "cn": "视觉敏锐度",
+   "en": "visual acuity",
+   "source": "光学名词",
+   "wordNumber": "28.044",
+   "subjectFullName": "光学_生物光学与激光医疗",
+   "subjectName": "生物光学与激光医疗",
+   "publishYear": "2021",
+   "definition": "人眼分辨物体精细结构的能力。它定义为人眼恰能分辨出的两点对眼所张的视角(以分为单位)的倒数。"
+  },
+  {
+   "cn": "[储]卵袋",
+   "en": "egg packet",
+   "source": "动物学名词",
+   "wordNumber": "5.1093",
+   "subjectFullName": "动物学_无脊椎动物学_扁形动物门",
+   "subjectName": "扁形动物门",
+   "publishYear": "2021",
+   "definition": "犬复殖孔绦虫（Dipylidium caninum）孕节网状子宫组织发育形成的储存虫卵的囊袋状结构。内含2～40个虫卵不等。"
+  },
+  {
+   "cn": "视觉分辨敏锐度",
+   "en": "resolution acuity",
+   "source": "测绘学名词",
+   "wordNumber": "04.104",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "在标准视力情况下，分辨观察对象细微差别的能力。"
+  },
+  {
+   "cn": "能见敏锐度",
+   "en": "visibility acuity",
+   "source": "测绘学名词",
+   "wordNumber": "04.105",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "在标准视力情况下，感知最小对象的能力。"
+  },
+  {
+   "cn": "嗅敏度",
+   "en": "olfactory acuity",
+   "source": "生理学名词",
+   "wordNumber": "03.290",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视敏度",
+   "en": "visual acuity",
+   "source": "生理学名词",
+   "wordNumber": "03.342",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视觉敏锐度",
+   "en": "visual acuity",
+   "source": "物理学名词",
+   "wordNumber": "04.0697",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "波包",
+   "en": "wave packet",
+   "source": "物理学名词",
+   "wordNumber": "04.2648",
+   "subjectFullName": "物理学_光学、声学_声学",
+   "subjectName": "声学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分组交换",
+   "en": "packet switching",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0175",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "一种数据传输方式。它把长报文划分成若干个短的分组（包）后再在网络中传输，使得多个用户能够以分组为单位共享网络中的通信线路和其他传输资源。"
+  },
+  {
+   "cn": "敏度",
+   "en": "acuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "包",
+   "en": "package\",\"packet",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "波包",
+   "en": "wave packet",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "触敏度",
+   "en": "tactile acuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视敏度",
+   "en": "visual acuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "味觉敏度",
+   "en": "taste acuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "立体视晰度",
+   "en": "stereoscopic acuity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "能见敏锐度",
+   "en": "visibility acuity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "视觉分辨敏锐度",
+   "en": "resolution acuity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "视敏度",
+   "en": "visual acuity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "包过滤",
+   "en": "packet filtering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "包加密",
+   "en": "packet encryption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "包交换，[报文]分组交换",
+   "en": "packet switching",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "波包",
+   "en": "wave packet",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作包",
+   "en": "operation packet",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组标头",
+   "en": "packet header",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组层",
+   "en": "packet layer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组数据",
+   "en": "packet data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组延迟",
+   "en": "packet delay",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组长度",
+   "en": "packet size",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "包抓取",
+   "en": "packet capture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参赛包",
+   "en": "race packet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "包过滤技术",
+   "en": "packet filtering technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深度包检测",
+   "en": "deep packet inspection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深度数据包检测",
+   "en": "deep packet inspection (DPI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数据保护倡议书》（中国）",
+   "en": "Data Protection Pact (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 11598-1999 提供数据传输业务的公用网之间的分组交换信令系统》",
+   "en": "GB/T 11598-1999 Packet-switched signaling system between public networks providing data transmission services",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "视力",
+   "en": "visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "眼睛所能够分辨的外界两个点间的最小距离的能力，通常以视角的倒数来表示。视角越小，表示分辨能力越好。"
+  },
+  {
+   "cn": "默会知识",
+   "en": "tacit knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要相对于显性知识而言，是一种只可意会不可言传的知识，一种经常使用却又不能通过语言文字符号予以清晰表达或直接传递的知识。"
+  },
+  {
+   "cn": "裸眼视力",
+   "en": "uncorrected visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "未矫正视力，未经任何光学镜片矫正所测得的视力，包括裸眼远视力和裸眼近视力。"
+  },
+  {
+   "cn": "日常生活视力",
+   "en": "presenting visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在日常屈光状态下的视力。平时未戴眼镜者，为裸眼视力；平时戴眼镜者，则为戴眼镜状态下所测得视力；如已配眼镜但日常生活中并不戴用，则仍以裸眼视力反映。"
+  },
+  {
+   "cn": "视敏度残疾",
+   "en": "visual acuity disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视敏度损失，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "按病种分值付费",
+   "en": "diagnosis-intervention packet，DIP",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.16.3",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "在总额预算机制下，根据年度医保支付总额、医保支付比例及各医疗机构病例的总分值计算分值点值。医保部门基于病种分值和分值点值形成支付标准的支付方式。"
+  },
+  {
+   "cn": "最佳矫正视力",
+   "en": "best corrected visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以最适当镜片进行屈光矫正后所能达到的最佳视力。"
+  },
+  {
+   "cn": "标准对数视力表",
+   "en": "standard logarithmic visual acuity chart",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "根据韦伯-费希纳定律设计的对数视力表，视标大小按几何级数增减，而视力记录按算数级数增减。1990年起被定为国家强制标准，2017年改为推荐性标准。"
+  },
+  {
+   "cn": "慢性病治疗功能评价系统",
+   "en": "the functional assessment of chronic illness therapy, FACIT",
+   "source": "社会医学名词",
+   "wordNumber": "5.4.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "一种慢性病患者生命质量量表系统。其是由一个测量癌症患者生命质量共性部分的量表（共性模块）和针对一些特定癌症、某些慢性病、治疗和症状的特异模块构成的量表群。由美国结局研究与教育中心的塞拉（Cella）等"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

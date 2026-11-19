@@ -1,0 +1,592 @@
+{
+ "key": "eagleton slavoj zizek",
+ "term": "Eagleton Slavoj Žižek",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:29:36+00:00",
+ "status": "ok",
+ "note": "variant=Eagleton Slavoj Žižek; 审定公布名词库=108; 海峡两岸名词对照库=21; 其他来源数据库=10; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "磁子",
+   "en": "magneton",
+   "source": "物理学名词",
+   "wordNumber": "06.0489",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "核磁子",
+   "en": "nuclear magneton",
+   "source": "物理学名词",
+   "wordNumber": "09.0028",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "外斯磁子",
+   "en": "Weiss magneton",
+   "source": "物理学名词",
+   "wordNumber": "08.2092",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "玻尔磁子",
+   "en": "Bohr magneton",
+   "source": "物理学名词",
+   "wordNumber": "06.0490",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "玻尔磁子",
+   "en": "Bohr magneton",
+   "source": "化学名词",
+   "wordNumber": "04.1191",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "表示与电子轨道角动量及自旋角动量造成的磁性的量度。是与电子磁矩有关的基本单位。在SI制下，玻尔磁子定义为<img src='/root/syzx/static/spz/huaxue2.04.1191."
+  },
+  {
+   "cn": "玻尔磁子",
+   "en": "Bohr magneton",
+   "source": "计量学名词",
+   "wordNumber": "10.140",
+   "subjectFullName": "计量学_电磁_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "电子固有磁矩的自然单位。符号为<img src='/root/syzx/static/spz/jiliang1.10.140.1.png'/>，其值为：<img src='/root/syzx/sta"
+  },
+  {
+   "cn": "玻尔磁子",
+   "en": "Bohr magneton",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0099",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料物理及化学基础",
+   "subjectName": "材料物理及化学基础",
+   "publishYear": "2011",
+   "definition": "原子磁矩的基本单位。"
+  },
+  {
+   "cn": "香味",
+   "en": "flavor",
+   "source": "精细化工名词",
+   "wordNumber": "08.0750",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "通过嗅觉器官和味觉器官感觉到的令人愉快舒适的气息和味道的总称。"
+  },
+  {
+   "cn": "味",
+   "en": "flavor",
+   "source": "物理学名词",
+   "wordNumber": "09.1143",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "气味",
+   "en": "flavor",
+   "source": "心理学名词",
+   "wordNumber": "02.316",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "嗅觉系统的感受。"
+  },
+  {
+   "cn": "日照味",
+   "en": "light flavor,sunlight flavor",
+   "source": "畜牧学名词",
+   "wordNumber": "06.196",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_乳的生产",
+   "subjectName": "乳的生产",
+   "publishYear": "2020",
+   "definition": "乳在阳光下照射，乳清蛋白产生类似焦臭味和毛烧焦味的气味。"
+  },
+  {
+   "cn": "牛舍气味",
+   "en": "barny flavor,cowshed flavor",
+   "source": "畜牧学名词",
+   "wordNumber": "06.198",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_乳的生产",
+   "subjectName": "乳的生产",
+   "publishYear": "2020",
+   "definition": "直接或间接吸收不清洁牛舍发出的气味的乳。"
+  },
+  {
+   "cn": "奴隶",
+   "en": "slave",
+   "source": "世界历史名词",
+   "wordNumber": "02.0040",
+   "subjectFullName": "世界历史_古代中世纪_原始社会",
+   "subjectName": "原始社会",
+   "publishYear": "2012",
+   "definition": "人身完全被奴隶主占有，无偿为他劳动的人。"
+  },
+  {
+   "cn": "香料",
+   "en": "perfume;flavor",
+   "source": "精细化工名词",
+   "wordNumber": "08.0662",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "能释放特定的香气成分，使人嗅觉感受到并令人愉悦的芳香气味物质。"
+  },
+  {
+   "cn": "蒸煮味",
+   "en": "cooked flavor",
+   "source": "畜牧学名词",
+   "wordNumber": "06.191",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_乳的生产",
+   "subjectName": "乳的生产",
+   "publishYear": "2020",
+   "definition": "乳加热后，使球蛋白变性，产生巯基，散发出令人不愉快的气味。如菜花、蘑菇等气味。"
+  },
+  {
+   "cn": "焦臭味",
+   "en": "burnt flavor",
+   "source": "畜牧学名词",
+   "wordNumber": "06.194",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_乳的生产",
+   "subjectName": "乳的生产",
+   "publishYear": "2020",
+   "definition": "细菌污染或乳房中存在的细菌引起的一种不良气味乳。"
+  },
+  {
+   "cn": "氧化味",
+   "en": "oxidized flavor",
+   "source": "畜牧学名词",
+   "wordNumber": "06.195",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_乳的生产",
+   "subjectName": "乳的生产",
+   "publishYear": "2020",
+   "definition": "乳与乳制品中的脂肪被氧所氧化，使脂肪酸败产生的气味。"
+  },
+  {
+   "cn": "奶牛味",
+   "en": "cow flavor",
+   "source": "畜牧学名词",
+   "wordNumber": "06.197",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_乳的生产",
+   "subjectName": "乳的生产",
+   "publishYear": "2020",
+   "definition": "脂肪不完全代谢使牛乳中酮体类物质含量过高而引起的类似牛体散发的气味。"
+  },
+  {
+   "cn": "霉味",
+   "en": "mouldy flavor",
+   "source": "畜牧学名词",
+   "wordNumber": "06.381",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_奶油的加工",
+   "subjectName": "奶油的加工",
+   "publishYear": "2020",
+   "definition": "霉变的奶油、人造奶油、干酪发出的令人不愉快的一种气味。"
+  },
+  {
+   "cn": "陈旧味",
+   "en": "stale flavor",
+   "source": "畜牧学名词",
+   "wordNumber": "06.382",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_奶油的加工",
+   "subjectName": "奶油的加工",
+   "publishYear": "2020",
+   "definition": "稀奶油长期贮存，其蛋白质分解和脂肪氧化后的混合气味。"
+  },
+  {
+   "cn": "玻尔磁子",
+   "en": "Bohr magneton",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "玻尔磁子",
+   "en": "Bohr magneton",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "气味",
+   "en": "flavor",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "救助人",
+   "en": "salvor",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "史密斯，卡尔顿",
+   "en": "Smith\",\"Carleton Sprague(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "从属基因",
+   "en": "slave gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "副台",
+   "en": "slave station",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "子钟，副钟",
+   "en": "slave clock",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "副台",
+   "en": "slave station",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "副台信号",
+   "en": "slave signal",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "条件性味觉厌恶反应",
+   "en": "conditioned flavor aversion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主从机械手",
+   "en": "master-slave manipulator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "主从方式",
+   "en": "master/slave system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主从计算机",
+   "en": "master-slave computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主从调度",
+   "en": "master/slave scheduling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主从同步",
+   "en": "master-slave synchronization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "子钟",
+   "en": "secondary clock\",\"slave clock",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "主从[式]操作系统",
+   "en": "master/slave operating system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主从触发器",
+   "en": "master-slave flip-flop",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥斯特尔契",
+   "en": "Osterč\",\"Slavko(南斯拉夫)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "激流回旋",
+   "en": "slalom",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滋味",
+   "en": "Nuanced Flavor",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激流回旋单人皮艇",
+   "en": "slalom K1",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激流回旋双人划艇",
+   "en": "slalom C2",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激流回旋竞速比赛",
+   "en": "slalom racing competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激流回旋单人划艇",
+   "en": "slalom Canadian single C1",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激流回旋和漂流委员会",
+   "en": "slalom and wildwater committee",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "澄怀味像",
+   "en": "Clear the Mind to Savor the Image",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "香味",
+   "en": "flavor",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "对进入口中的任何材料各种特征的感觉总和。是食品用香精的主要感官要求之一。"
+  },
+  {
+   "cn": "增味剂",
+   "en": "flavor enhancer",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.16",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "补充或增强食品原有风味的物质。"
+  },
+  {
+   "cn": "风味酱",
+   "en": "flavor paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.44",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以肉类、鱼类、贝类、果蔬、植物油、香辛调味料、食品添加剂和其他辅料配合制成的具有某种风味的调味酱。"
+  },
+  {
+   "cn": "奴隶社会",
+   "en": "slave society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "以奴隶主占有奴隶和生产资料为基础的、劳动生产活动以奴隶为主的社会。人类历史上第一个人剥削人的私有制社会形态。"
+  },
+  {
+   "cn": "奴隶阶级",
+   "en": "slave class",
+   "source": "马克思主义",
+   "wordNumber": "03.0129",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "奴隶社会中被奴隶主占有，处于受压迫和受剥削地位的劳动阶级。奴隶没有生产资料，连他本人也属于奴隶主所有，成为奴隶主的私人财产。奴隶劳动的全部产品归奴隶主所有，奴隶主也可以任意买卖或处死奴隶。因此，奴隶没"
+  },
+  {
+   "cn": "奴隶买卖",
+   "en": "slave trade",
+   "source": "马克思主义",
+   "wordNumber": "03.0130",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "奴隶买卖指一切俘获、置有或处理个人，使其沦为奴隶的行为；一切以出卖或交换为目的而置有奴隶的行为；一切通过出卖或交换，处理为出卖或交换的目的而置有的奴隶的行为，以及买卖或运输奴隶的每一种行为。古代奴隶社"
+  },
+  {
+   "cn": "奴隶社会",
+   "en": "slave society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0341",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以奴隶主占有生产资料并有和剥削生产者——奴隶为主要基础的社会，亦即奴隶占有制生产方式为主导的社会。奴隶社会是人类历史上第一个人剥削人的社会，在人类社会的演变过程中占有重要地位。"
+  },
+  {
+   "cn": "果味型碳酸饮料",
+   "en": "fruit flavor carbonated beverage",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.4.2",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "以果香香精为主要香气成分，含有少量果汁或不含果汁的碳酸饮料。"
+  },
+  {
+   "cn": "外来气味",
+   "en": "foreign odor and flavor",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.14",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "外来物品产生的影响了原产品的特有气味。"
+  },
+  {
+   "cn": "食品香料和萃取物制造者协会编号",
+   "en": "Flavor and Extract Manufacturers Association codes ，FEMA codes",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.26.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由美国食品香料和萃取物制造者协会（FEMA)制定的国际通用的食品香料编号"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,702 @@
+{
+ "key": "tri-rupa-hetu",
+ "term": "tri-rūpa-hetu",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:34:04+00:00",
+ "status": "ok",
+ "note": "variant=tri-rūpa-hetu; 审定公布名词库=389; 海峡两岸名词对照库=87; 其他来源数据库=22; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "TRI球形填料",
+   "en": "TRI spherical packing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.089",
+   "subjectFullName": "化工（八）_化工设备_塔设备",
+   "subjectName": "塔设备",
+   "publishYear": "2021",
+   "definition": "由许多格栅状的枝条棒组成一个空心球体的球形填料。"
+  },
+  {
+   "cn": "三致性",
+   "en": "tri-pathogenicity",
+   "source": "精细化工名词",
+   "wordNumber": "03.0206",
+   "subjectFullName": "精细化工_农药_毒性与毒理",
+   "subjectName": "毒性与毒理",
+   "publishYear": "2025",
+   "definition": "致癌性、致畸性、致突变性的总称。"
+  },
+  {
+   "cn": "三枝蕨类",
+   "en": "trimerophytophytes,tri-merophytes",
+   "source": "植物学名词",
+   "wordNumber": "14.0081",
+   "subjectFullName": "植物学_古植物学",
+   "subjectName": "古植物学",
+   "publishYear": "2019",
+   "definition": "早期陆地植物。植物茎轴无叶，二叉分枝或假单轴分枝，孢子囊顶生，初生木质部为心始式。生存于泥盆纪。"
+  },
+  {
+   "cn": "三凹征",
+   "en": "tri-retraction sign",
+   "source": "麻醉学名词",
+   "wordNumber": "03.725",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_气道管理",
+   "subjectName": "气道管理",
+   "publishYear": "2024",
+   "definition": "吸气时胸骨上窝、锁骨上窝、肋间隙出现明显凹陷的现象。是由于上气道部分梗阻所致吸气性呼吸困难。常见于气管异物、喉水肿、白喉等。"
+  },
+  {
+   "cn": "三螺杆挤出机",
+   "en": "tri-screw extruder",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1376",
+   "subjectFullName": "化工（八）_化工设备_造粒及成型设备",
+   "subjectName": "造粒及成型设备",
+   "publishYear": "2021",
+   "definition": "通过三根螺杆在机筒内转动，将物料与添加剂、填充物等输送、塑化、熔融、混炼、排气的挤出机。三根螺杆可以三角形排列或水平排列。"
+  },
+  {
+   "cn": "三网融合",
+   "en": "tri-network convergence",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.550",
+   "subjectFullName": "城乡规划学_城乡规划与设计_工程规划",
+   "subjectName": "工程规划",
+   "publishYear": "2021",
+   "definition": "电信网、有线广播电视网、互联网在向宽带通信网、数字电视网、下一代互联网演进的过程中，通过技术改造，实现网络互联互通的功能和业务范围的融合。"
+  },
+  {
+   "cn": "三流水力旋流器",
+   "en": "tri-flow hydrocyclone",
+   "source": "冶金学名词",
+   "wordNumber": "03.0350",
+   "subjectFullName": "冶金学_选矿_破碎、筛分及分级",
+   "subjectName": "破碎、筛分及分级",
+   "publishYear": "2019",
+   "definition": "有三个流的水力旋流器。它是在传统旋流器的溢流管中同心插入另一根提供第二种溢流的溢流管改进而成。"
+  },
+  {
+   "cn": "三态门",
+   "en": "tri-state gate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0071",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机集成电路",
+   "subjectName": "计算机集成电路",
+   "publishYear": "2018",
+   "definition": "一类输出除了高电平、低电平外，还有称为“高阻抗”的第三种状态的逻辑门，经常用于总线接口电路。"
+  },
+  {
+   "cn": "三关现象",
+   "en": "tri-risk phenomenon",
+   "source": "地方病学名词",
+   "wordNumber": "02.009",
+   "subjectFullName": "地方病学_克山病_流行病学",
+   "subjectName": "流行病学",
+   "publishYear": "2016",
+   "definition": "北方病区急型克山病多发生在冬季的\"头场雪\"\"三九天\"和\"过小年\"三个时段的现象。"
+  },
+  {
+   "cn": "三相弹",
+   "en": "tri-phase bomb",
+   "source": "放射医学与防护名词",
+   "wordNumber": "09.006",
+   "subjectFullName": "放射医学与防护_核武器损伤_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2014",
+   "definition": "外壳加上一层<img src='/root/syzx/static/spz/fangshefanghu1.09.006.png'/>金属外层的氢弹。使爆炸威力增大，其威力从几百万吨到几千万吨梯恩梯当量"
+  },
+  {
+   "cn": "三字组",
+   "en": "tri syllabic form",
+   "source": "语言学名词",
+   "wordNumber": "07.078",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "汉语方言中由三个音节构成的音节组合。多用于考察三音节成分的连读变调形式和规律。"
+  },
+  {
+   "cn": "三电极测深",
+   "en": "tri-electrode sounding",
+   "source": "石油名词",
+   "wordNumber": "03.0215",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "三羟甲基氨基甲烷",
+   "en": "trihydroxymethyl aminomethane;Tris",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.102",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_常用试剂_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "广泛用做生物缓冲液成分的化合物。缓冲pH范围7～9，pKa（20℃）=8.3，pKa（37℃）= 7.82。"
+  },
+  {
+   "cn": "磷酸三丁酯",
+   "en": "tri-butyl phosphate,TBP",
+   "source": "冶金学名词",
+   "wordNumber": "06.1207",
+   "subjectFullName": "冶金学_有色金属冶金_稀土金属冶金",
+   "subjectName": "稀土金属冶金",
+   "publishYear": "2019",
+   "definition": "化学式为<img src='/root/syzx/static/spz/yejin2.06.1207.01.png'/>的中性磷氧型萃取剂。"
+  },
+  {
+   "cn": "缺硫性毛发营养不良病",
+   "en": "tri chothi-odystrophy,TTD",
+   "source": "老年医学名词",
+   "wordNumber": "03.113",
+   "subjectFullName": "老年医学_老年基础医学",
+   "subjectName": "老年基础医学",
+   "publishYear": "2017",
+   "definition": "一种罕见的XPD及XPB相关的隐性遗传病。患者对光敏感，个体矮小，毛发易断，皮肤出现鳞片，衰老加速。XPD与XPB均为转录/修复因子TFIIH复合物的组分，在基因转录和DNA光修复过程中起关键作用。"
+  },
+  {
+   "cn": "三分仓回转式空气预热器",
+   "en": "tri-sector air heater",
+   "source": "电力名词",
+   "wordNumber": "09.273",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "将空气通道分成两部分,分别与一次风、二次风通道相接的回转式空气预热器。用于中速磨煤机冷一次风机直吹式制粉系统。"
+  },
+  {
+   "cn": "三分仓回转式空气预热器",
+   "en": "tri-sector air preheater",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0431",
+   "subjectFullName": "机械工程_动力机械_锅炉_主要零部件_空气预热器",
+   "subjectName": "空气预热器",
+   "publishYear": "2013",
+   "definition": "将空气通道分成两部分，分别与一次风、二次风通道相接的回转式空气预热器。用于中速磨煤机冷一次风机直吹式制粉系统。"
+  },
+  {
+   "cn": "三联吡啶钌",
+   "en": "tris-2-2'-bipyridyl ruthe- nium",
+   "source": "核医学名词",
+   "wordNumber": "03.0642",
+   "subjectFullName": "核医学_核医学设备与操作_非显像核医学技术_核医学体外分析",
+   "subjectName": "核医学体外分析",
+   "publishYear": "2018",
+   "definition": "用于电化学发光免疫分析的发光底物。在阳极表面失去电子，发生氧化，在三丙胺阳离子自由基的催化及三角形脉冲电压激发下，可产生高效、稳定的连续发光；可以循环反应，使发光得以增强、稳定，检测步骤简化。"
+  },
+  {
+   "cn": "三流重介质选矿机",
+   "en": "tri-flow heavy medium separator",
+   "source": "冶金学名词",
+   "wordNumber": "03.0405",
+   "subjectFullName": "冶金学_选矿_重选、磁选及电选",
+   "subjectName": "重选、磁选及电选",
+   "publishYear": "2019",
+   "definition": "具有3个流的重介质选矿机。该设备为两段，第一段为圆筒形，第二段为圆锥形。"
+  },
+  {
+   "cn": "氯化甲基三烷基铵",
+   "en": "tri-alkyl methyl ammonium chloride",
+   "source": "冶金学名词",
+   "wordNumber": "06.1216",
+   "subjectFullName": "冶金学_有色金属冶金_稀土金属冶金",
+   "subjectName": "稀土金属冶金",
+   "publishYear": "2019",
+   "definition": "分子式为<img src='/root/syzx/static/spz/yejin2.06.1216.01.png'/>的弱碱性胺类萃取剂，代号“N263”。"
+  },
+  {
+   "cn": "三列杂交",
+   "en": "tri-allel cross",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "三物镜摄影",
+   "en": "tri-metrogon photography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "三态门",
+   "en": "tri-state gate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三[层]金属轴承",
+   "en": "tri-metal bearing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "三物镜航空摄影测量",
+   "en": "tri-metrogon aerial photogrammetry",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "钒三镓化合物超导体",
+   "en": "tri-vanadium gallium compound superconductor",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "铌三铝化合物超导体",
+   "en": "tri-niobium aluminide compound superconductor",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "钛三铝基合金",
+   "en": "tri-titanium aluminide based alloy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "铌三锡化合物超导体",
+   "en": "tri-niobium-tin compound superconductor",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "钛三铝金属间化合物",
+   "en": "tri-titanium aluminide intermetallic compound",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "铁三铝基合金",
+   "en": "tri-iron aluminide based alloy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "唐三彩",
+   "en": "Tang tricolor\",\"tri-color glazed pottery of the Tang dynasty",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "计都",
+   "en": "Ketu",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "放射免疫沉淀法",
+   "en": "radioimmunoprecipitation assay， RIPA",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "胎内胎",
+   "en": "fetus in fetu\",\"FIF",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "三重唱",
+   "en": "trio",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "三声中段",
+   "en": "trio",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "三重奏",
+   "en": "trio",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "吃水差",
+   "en": "trim",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "脱扣",
+   "en": "trip",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "色",
+   "en": "Rūpa / Matter",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绊人",
+   "en": "trip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绊人",
+   "en": "trip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绊人",
+   "en": "trip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "装饰",
+   "en": "trim",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体处理",
+   "en": "tai-sabaki",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前绊",
+   "en": "front trip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调帆",
+   "en": "trim a sail",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摔方",
+   "en": "attacker\",\"competitor throwing\",\"tori",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体落",
+   "en": "body drop\",\"tai-otoshi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效",
+   "en": "almost waza-ari\",\"yuko",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向后绊摔",
+   "en": "ankle trip\",\"back heel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开放式机器人伦理倡议",
+   "en": "Open Roboethics initiative (ORi)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "前后平衡调整",
+   "en": "fore-and-aft trim",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "送襟绞",
+   "en": "okuri-eri-jime\",\"sliding collar strangle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反手背肩投",
+   "en": "lapel shoulder throw\",\"eri-seoi-nage",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绊",
+   "en": "leg grappling\",\"leg sweep\",\"leg trip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有技",
+   "en": "almost a point\",\"almost ippon\",\"waza-ari",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合亩制",
+   "en": "hemu institution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0292",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "海南黎族地区的带有原始家族公社残余的生产和社会组织。“合亩”是进行农业生产的基本单位，意为“有血缘关系的集体”，由若干户有血缘关系的父系小家庭组成，土地和耕牛公有，全体成员共同劳动，平均分配，成员有互"
+  },
+  {
+   "cn": "岱依人",
+   "en": "Tai",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0145",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "越南民族之一。与越南侬族关系密切，常合称为“岱侬人”。人口约有180.99 万（2016 年）。主要分布在越南东北各省的谷地或山坡。属蒙古人种南亚类型。操岱语，属汉藏语系侗台语族。文字上曾创造过“岱喃"
+  },
+  {
+   "cn": "斯里兰卡人",
+   "en": "Sri Lankans",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0132",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "亚洲现代民族（nation)，拥有斯里兰卡民主社会主义共和国国籍和公民身份的人们共同体。人口约为2167 万（2018 年）。僧伽罗语、泰米尔语同为官方语言和全国语言，上层社会通用英语。信奉佛教、印度"
+  },
+  {
+   "cn": "侗台语族",
+   "en": "Kam-Tai group",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.026",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系的语族之一。分布在中国和泰国、老挝、缅甸、越南等国。中国侗台语族语言主要在贵州、广西、云南等省区。分四个语支：壮傣语支、侗水语支、黎语支、仡央语支。"
+  },
+  {
+   "cn": "大司徒仁波切",
+   "en": "Tai Situ Rinpoche",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0532",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教噶举派活佛转世系统称号，1407 年噶举派高僧却吉坚参（第一世）被明成祖封为“广定大司徒”，这一名称遂被沿用。“大司徒”源于梵文Mahāsiddhas 的译语，意为“大成就者”，此活佛体系被认"
+  },
+  {
+   "cn": "磁共振成像",
+   "en": "magnetic resonance imaging,MRI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "利用生物体内特定原子核在磁场中所表现出的磁共振现象而产生信号，经空间编码、重建而获得影像的一种成像技术。"
+  },
+  {
+   "cn": "膳食营养素参考摄入量",
+   "en": "dietary reference intake, DRI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.55",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "为了保证人体合理摄入营养素，避免缺乏和过量，在推荐膳食营养素供给量的基础上发展起来的每日平均膳食营养素摄入量的一组参考值。"
+  },
+  {
+   "cn": "每日可耐受摄入量",
+   "en": "tolerable daily intake, TDI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.48",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "人体终生每日摄入某种环境污染物（如铅、汞污染物），不产生可检测到的对健康产生危害的量。以每千克体重可摄入的量表示，即mg/kg 体重。"
+  },
+  {
+   "cn": "好太王碑",
+   "en": "Hao tai wang Stele",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0309",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "古代东北高句丽第19 代王谈德（374—413）的记功碑。由一块巨大天然角砾凝灰岩石柱略加修琢而成，碑体呈方柱型，高6.39 米，底宽1.34—1.97 米之间，环碑四面，阴刻碑文，楷、隶、篆三体兼备"
+  },
+  {
+   "cn": "理性行为理论",
+   "en": "theory of reasoned action, TRA",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "分析态度如何有意识地影响个体行为的理论。"
+  },
+  {
+   "cn": "生殖道感染筛查",
+   "en": "reproductive tract infection screening, RTI screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "对适龄妇女进行外阴阴道假丝酵母菌病、滴虫性阴道炎、细菌性阴道病、老年性阴道炎、急性子宫颈炎、盆腔炎、尖锐湿疣等内外生殖器官炎性疾病的筛查，并对筛查阳性或者异常的人群进行相应的诊断和治疗的措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

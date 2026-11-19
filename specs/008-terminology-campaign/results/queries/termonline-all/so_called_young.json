@@ -1,0 +1,802 @@
+{
+ "key": "so-called young",
+ "term": "so-called Young",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:35:09+00:00",
+ "status": "ok",
+ "note": "variant=so-called Young; 审定公布名词库=717; 海峡两岸名词对照库=306; 其他来源数据库=45; 预公布名词数据库=37; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "二氧化硫鼓风机",
+   "en": "SO₂ blower",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0059",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "用于输送含SO₂气体的设备。由电机、空气过滤器、鼓风机本体、气室、底座（兼油箱）、滴油嘴等六部分组成。分为离心式风机和罗茨风机两类。"
+  },
+  {
+   "cn": "SOS修复",
+   "en": "SOS repair",
+   "source": "农学名词",
+   "wordNumber": "15.171",
+   "subjectFullName": "农业生物技术_细胞工程",
+   "subjectName": "细胞工程",
+   "publishYear": "2025",
+   "definition": "DNA受到严重损伤，细胞处于危急状态时诱导的一种DNA修复方式。修复结果只能维持基因组的完整性，提高细胞的生成率，但留下的错误较多，使细胞有较高的突变率。"
+  },
+  {
+   "cn": "SOS修复",
+   "en": "SOS repair",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0222",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "DNA受到严重损伤、细胞处于危急状态时所诱导的一种特殊的DNA修复方式。修复结果只是能维持基因组的完整性，提高细胞的生成率，但留下的错误较多，使细胞有较高的突变率。"
+  },
+  {
+   "cn": "SOS修复",
+   "en": "SOS repair",
+   "source": "老年医学名词",
+   "wordNumber": "03.132",
+   "subjectFullName": "老年医学_老年基础医学",
+   "subjectName": "老年基础医学",
+   "publishYear": "2017",
+   "definition": "指DNA受到严重损伤、细胞处于危急状态时所诱导的一种DNA修复方式。修复结果只是能维持基因组的完整性，提高细胞的生成率，但留下的错误较多，使细胞有较高的突变率。"
+  },
+  {
+   "cn": "SOS修复",
+   "en": "SOS repair",
+   "source": "微生物学名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "DNA受到严重损伤、细胞处于危急状态时所诱导的一种DNA修复方式。"
+  },
+  {
+   "cn": "SOS应答",
+   "en": "SOS response",
+   "source": "遗传学名词",
+   "wordNumber": "03.611",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "在DNA损伤或DNA复制被抑制的情况下产生的反应。"
+  },
+  {
+   "cn": "SOS途径",
+   "en": "SOS pathway",
+   "source": "遗传学名词",
+   "wordNumber": "03.608",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "DNA的应急修复途径。"
+  },
+  {
+   "cn": "SOS诱导物",
+   "en": "SOS inducer",
+   "source": "遗传学名词",
+   "wordNumber": "03.609",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "造成DNA损伤引起严禁反应的各种因子。"
+  },
+  {
+   "cn": "SOS诱导测验",
+   "en": "SOS induce test,SOS inductest",
+   "source": "遗传学名词",
+   "wordNumber": "03.610",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "用化合物处理λ溶源性细菌后，根据是否释放噬菌体来测定能否引起SOS反应。"
+  },
+  {
+   "cn": "幼贝",
+   "en": "young mollusk,young shellfish",
+   "source": "水产名词",
+   "wordNumber": "04.194",
+   "subjectFullName": "水产_水产养殖学",
+   "subjectName": "水产养殖学",
+   "publishYear": "2002",
+   "definition": "形态已与成贝相同，但性腺尚未成熟或尚未达到商品规格的贝类个体。"
+  },
+  {
+   "cn": "被叫",
+   "en": "called",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0818",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫",
+   "en": "call",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.375",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在通信中用户请求接续并得到响应。"
+  },
+  {
+   "cn": "召唤",
+   "en": "calling",
+   "source": "昆虫学名词",
+   "wordNumber": "07.241",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "(1)某些昆虫在召集同类或求偶时的发声行为。(2)某些雌性蛾类求偶时伸出尾尖引诱异性的动作。"
+  },
+  {
+   "cn": "主叫",
+   "en": "calling",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0817",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫",
+   "en": "calling",
+   "source": "航海科技名词",
+   "wordNumber": "14.0025",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "高浓度SO₂转化",
+   "en": "high concentration SO₂conversion",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0019",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "硫酸生产中SO₂体积分数高于12%的高浓度SO₂气体经过部分预转化或其他方式预处理后再进行二转二吸工艺制酸的过程。目的是使转化器一段钒催化剂床层温度不超过650℃的极限温度。"
+  },
+  {
+   "cn": "扬氏综合征",
+   "en": "Young syndrome",
+   "source": "男科及性医学名词",
+   "wordNumber": "09.179",
+   "subjectFullName": "男科及性医学_阴囊及其内容物疾病",
+   "subjectName": "阴囊及其内容物疾病",
+   "publishYear": "2023",
+   "definition": "以慢性鼻窦炎、支气管扩张和梗阻性无精子症三联征为主要表现的临床综合征。患者睾丸生精功能正常，但由于动力性原因导致附睾管阻塞，精子无法排出。"
+  },
+  {
+   "cn": "杨氏模量",
+   "en": "Young modulus",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0527",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "当胡克定律沿着轴向成立时，沿着该轴的应力与应变的比值。 "
+  },
+  {
+   "cn": "肉鹅",
+   "en": "young goose",
+   "source": "畜牧学名词",
+   "wordNumber": "06.131",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_胴体及其品质",
+   "subjectName": "胴体及其品质",
+   "publishYear": "2020",
+   "definition": "以食肉为目的而饲养的鹅。"
+  },
+  {
+   "cn": "青年兔",
+   "en": "young rabbit",
+   "source": "畜牧学名词",
+   "wordNumber": "08.015",
+   "subjectFullName": "畜牧学_养兔_家兔分类",
+   "subjectName": "家兔分类",
+   "publishYear": "2020",
+   "definition": "12周龄至初配阶段的生长兔。"
+  },
+  {
+   "cn": "SOS途径",
+   "en": "SOS pathway",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SOS应答",
+   "en": "SOS response",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SOS诱导物",
+   "en": "SOS inducer",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SOS诱变",
+   "en": "SOS mutagenesis",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SOS诱导测验",
+   "en": "SOS induce test\",\"SOS inducetest",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "调用",
+   "en": "call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鸣叫",
+   "en": "call",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫",
+   "en": "calling",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "通话",
+   "en": "call",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "召唤",
+   "en": "calling",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "幼冰",
+   "en": "young ice",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏模量",
+   "en": "Young modulus",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄林分",
+   "en": "young stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄林",
+   "en": "young forest",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "初期冰",
+   "en": "young ice",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "幼年土壤",
+   "en": "young soil",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "扬，亚历山大",
+   "en": "Young\",\"Alexander(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "南方涛动",
+   "en": "southern oscillation\",\"SO",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "南方涛动",
+   "en": "southern oscillation\",\"SO",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "南方涛动",
+   "en": "southern oscillation， SO",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报分",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "口令",
+   "en": "call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检录",
+   "en": "calling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "当然",
+   "en": "Should Be So",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中止比赛",
+   "en": "called game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主观判断",
+   "en": "judgment call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报分",
+   "en": "announce\",\"call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最后一次检录",
+   "en": "final call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报分",
+   "en": "call the score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报分",
+   "en": "call the score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世异事异",
+   "en": "When Times Change, So Do Social Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "后生可畏",
+   "en": "Young People Should Be Highly Regarded.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "志愿者",
+   "en": "young volunteer",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.101",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "不计物质报酬，自愿奉献时间和精力从事有助于他人和公益活动的人。"
+  },
+  {
+   "cn": "青年黑格尔派",
+   "en": "Young Hegelians",
+   "source": "马克思主义",
+   "wordNumber": "04.0299",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪30年代黑格尔学派解体过程中产生的激进派别，代表人物有施特劳斯（D.F.Strauss）、鲍威尔（Bruno Bauer）、施蒂纳（Max Stirner）等。青年黑格尔派在19世纪30年代末"
+  },
+  {
+   "cn": "青年德意志派",
+   "en": "Young  German school",
+   "source": "马克思主义",
+   "wordNumber": "04.0292",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪30年代产生于德国的一个文学团体“青年德意志”的代表，海涅和白尔尼对这一团体有很大的影响。青年德意志派观点的特点是思想上不成熟和政治上不坚定。他们之中的大多数人很快就堕落成为庸俗的资产阶级自由"
+  },
+  {
+   "cn": "道德规范十六条",
+   "en": "Mi chos gtsang ma so drug",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0445",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏学名词。是吐蕃赞普松赞干布为吐蕃民众制定的道德规范条文，其内容如下：1 敬信三宝；2.求修正法；3.报父母恩；4.尊重；5 敬贵尊老；6.利济乡邻；7.直言小心；8.义深亲友；9.追踪上流，远虑高瞻"
+  },
+  {
+   "cn": "全联盟列宁共产主义青年团",
+   "en": "AllUnion Leninist Young Communist League",
+   "source": "马克思主义",
+   "wordNumber": "04.0435",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "该组织于1918年10月29日创立，时称“俄国共产主义青年团”，1926年3月改为该称，简称共青团。它是苏联青年群众性的社会政治组织，是苏联共产党的积极助手和后备军。其组织章程规定，凡年满14—28岁"
+  },
+  {
+   "cn": "儿童优先",
+   "en": "first call for children",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_儿童健康",
+   "subjectName": "儿童健康",
+   "publishYear": "2025",
+   "definition": "在资源分配上儿童基本需求应得到高度优先满足的理念与行动。"
+  },
+  {
+   "cn": "青少年参与策略",
+   "en": "involvement of adolescents and young people",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "在健康促进过程中，青少年作为主体参与规划、实施、监测和评估，促进伙伴关系和建立开放的沟通渠道，促进实现共同目标的政策制定方法。"
+  },
+  {
+   "cn": "幼儿配方乳粉",
+   "en": "milk powder formula for young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.7",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "以乳类及乳蛋白制品和（或）大豆及大豆蛋白制品为主要蛋白来源，加入适量的维生素、矿物质和（或）其他原料，仅用物理方法生产加工制成的产品。适用于幼儿食用，其能量和营养成分能满足正常12~36 月龄幼儿的部"
+  },
+  {
+   "cn": "婴幼儿辅食罐头",
+   "en": "canned infant and young child complementary food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.6.7",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "食品原料经处理、灌装、密封、杀菌或无菌罐装后达到商业无菌，可在常温下保存的适于6 月龄以上婴幼儿食用的罐藏食品。"
+  },
+  {
+   "cn": "婴幼儿配方食品",
+   "en": "formula foods for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "适于正常婴幼儿食用，所含的能量及营养成分能满足其部分营养需要的配方食品。"
+  },
+  {
+   "cn": "儿童优先原则",
+   "en": "principle of first call for children",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.3.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_儿童健康",
+   "subjectName": "儿童健康",
+   "publishYear": "2025",
+   "definition": "1990年世界儿童问题首脑会议上首次提出的，一切为了儿童，向所有儿童的生存和正常发展提供基本保护的行为准则。"
+  },
+  {
+   "cn": "较大婴儿和幼儿配方辅助食品",
+   "en": "formulated complementary foods for older infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.8",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "仅适于婴儿断乳期食用，以及在幼儿期作为母乳替代或额外补充的配方食品，以避免可能出现的营养缺乏或不足。"
+  },
+  {
+   "cn": "婴幼儿专用食品接触材料及制品",
+   "en": "food contact material and article for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.22",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "专门用于婴幼儿食品的生产、加工、包装、运输、贮存、销售和使用过程中的食品接触材料及制品。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方",
+   "en": "formula of milk powder formula products for infant and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.9",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "生产婴幼儿配方乳粉相应产品时使用的食品原料、食品添加剂及其使用量，以及其中营养成分的含量。"
+  },
+  {
+   "cn": "婴幼儿配方食品良好生产规范",
+   "en": "good manufacturing practice for formula foods for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.16",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "对婴幼儿配方食品生产过程中原料采购、加工、包装、贮存和运输等环节的场所、设施、人员的基本要求和管理准则等作出规定和要求，为保证婴幼儿配方食品能够按照审批的标准进行生产所制定的规范或指南。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方注册",
+   "en": "formula registration of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.10",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由食品安全监督管理部门依据相关法规的程序与要求，对申请注册的婴幼儿配方乳粉产品配方进行审评，并决定是否准予注册的行为。"
+  },
+  {
+   "cn": "可用于婴幼儿食品的菌种",
+   "en": "strains can be legally used in food for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.4",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "可用于婴幼儿食品中的一种或多种微生物（包括细菌、真菌和酵母），经发酵培养、分离、干燥或不干燥等工序制成的产品。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉生产许可",
+   "en": "production permission of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.15",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由食品安全监督管理部门颁发的允许有关企业进行婴幼儿配方乳粉产品生产的具有法律效力的证书。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方声称",
+   "en": "claims of formula of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.11",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "采用标准用语对婴幼儿配方乳粉产品适用月龄和/或配方中使用的原料来源进行描述和声明，并在食品标签上进行标注，但不得涉及疾病防治、保健益智等内容。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方注册证书",
+   "en": "formula registration certificate of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.14",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "经食品安全监督管理部门颁发的表明相关企业的婴幼儿配方乳粉产品配方符合相关要求并准予注册的法律文件。包括产品名称、产品配方、生产工艺等内容。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

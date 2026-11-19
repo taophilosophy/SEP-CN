@@ -1,0 +1,42 @@
+{
+ "key": "alaya",
+ "term": "ālaya",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:40:30+00:00",
+ "status": "ok",
+ "note": "variant=ālaya; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "干盐湖",
+   "en": "playa",
+   "source": "地质学名词",
+   "wordNumber": "07.328",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "干盐湖相",
+   "en": "playa facies",
+   "source": "地质学名词",
+   "wordNumber": "05.270",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "干盐湖",
+   "en": "playa（西班牙语）",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,662 @@
+{
+ "key": "inneren wahrnehmung",
+ "term": "inneren Wahrnehmung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:38:43+00:00",
+ "status": "ok",
+ "note": "variant=inneren Wahrnehmung; 审定公布名词库=332; 海峡两岸名词对照库=115; 其他来源数据库=19; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "内翈",
+   "en": "inner web;innerweb",
+   "source": "动物学名词",
+   "wordNumber": "6.0263",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鸟纲",
+   "subjectName": "鸟纲",
+   "publishYear": "2021",
+   "definition": "鸟类正羽位于羽轴内侧较宽一边的羽片。多被相邻羽片所覆盖。"
+  },
+  {
+   "cn": "无脊椎连接蛋白",
+   "en": "innexin",
+   "source": "细胞生物学名词",
+   "wordNumber": "02.139",
+   "subjectFullName": "细胞生物学_细胞化学",
+   "subjectName": "细胞化学",
+   "publishYear": "2009",
+   "definition": "无脊椎动物中构成类似脊椎动物间隙连接连接子蛋白的蛋白质。"
+  },
+  {
+   "cn": "固有价值",
+   "en": "inherent value",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.226",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "不同环境哲学家对此提出了不同的含义，其中最主要的含义分别是汤姆·里根（Tom Regan）和保罗·泰勒（Paul Taylor）提出的。在里根看来，固有价值是生命个体具有的欲望、感知、筹划等能力所体现"
+  },
+  {
+   "cn": "固有刺激法",
+   "en": "inherent stimulation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.281",
+   "subjectFullName": "新闻学与传播学_广告_广告作品",
+   "subjectName": "广告作品",
+   "publishYear": "2022",
+   "definition": "由李奥·贝纳(Leo Burnett)提出。广告创意最重要的任务是把固有的刺激发掘出来并加以利用，也即要发现厂家生产这种产品的“原因”以及消费者购买这种产品的“原因”。"
+  },
+  {
+   "cn": "内在水分",
+   "en": "inherent moisture",
+   "source": "电力名词",
+   "wordNumber": "08.043",
+   "subjectFullName": "电力_燃料",
+   "subjectName": "燃料",
+   "publishYear": "2020",
+   "definition": "在一定条件下,煤样达到空气干燥状态时,亦即失去外在水分后所保持的水分。"
+  },
+  {
+   "cn": "固有安全",
+   "en": "inherent safety",
+   "source": "电力名词",
+   "wordNumber": "17.742",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "反应堆具有当其运行参数偏离正常时,能依靠自然界的物理规律趋向回到安全状态的性能,是保证安全首选的重要方法。"
+  },
+  {
+   "cn": "本质安全",
+   "en": "inherent safety",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "01.008",
+   "subjectFullName": "化工（四）_通类",
+   "subjectName": "通类",
+   "publishYear": "2020",
+   "definition": "使生产设备或生产系统本身具有安全性，即使在误操作或发生故障的情况下也不会造成事故的功能。"
+  },
+  {
+   "cn": "固有噪声",
+   "en": "inherent noise",
+   "source": "物理学名词",
+   "wordNumber": "05.0828",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "固有歧义性",
+   "en": "inherent ambiguity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0502",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "产生一个上下文无关语言的每一个上下文无关文法都是歧义文法。"
+  },
+  {
+   "cn": "固有风险",
+   "en": "inherent risk",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0376",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "在考虑相关的内部控制之前，某类交易、账户余额或披露某一认定易于发生错报(该错报单独或连同其他错报可能是重大的)的可能性。"
+  },
+  {
+   "cn": "固有延迟",
+   "en": "inherent delay",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1009",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "员工由于受到设备装配、缺失工具或物料以及其他个人无法掌控的因素影响而停顿的时间。"
+  },
+  {
+   "cn": "固有色",
+   "en": "inherent color",
+   "source": "建筑学名词",
+   "wordNumber": "09.0459",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "物体在常态光源下呈现出来的色彩。它具有概念化的因素。如树叶在常态光源下为绿色，而在强烈的阳光下就呈黄绿色，但人们还会认为树叶的色彩就是“绿色”，因为人们对树叶颜色的认识已形成约定俗成的概念，这种概念就"
+  },
+  {
+   "cn": "固有过滤",
+   "en": "inherent filtration",
+   "source": "放射医学与防护名词",
+   "wordNumber": "06.028",
+   "subjectFullName": "放射医学与防护_医用放射防护_放射诊断",
+   "subjectName": "放射诊断",
+   "publishYear": "2014",
+   "definition": "辐射束从X射线源组件或其部件射出之前所通过的不可移开的物质，这些物质产生的等效过滤称固有过滤。"
+  },
+  {
+   "cn": "固有延时",
+   "en": "inherent delay",
+   "source": "航天科学技术名词",
+   "wordNumber": "17.133",
+   "subjectFullName": "航天科学技术_引信",
+   "subjectName": "引信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "固有可用性",
+   "en": "inherent availability",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.010",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "固有电感",
+   "en": "inherent inductance",
+   "source": "电气工程名词",
+   "wordNumber": "11.064",
+   "subjectFullName": "电气工程_电力电容器",
+   "subjectName": "电力电容器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "固有特性",
+   "en": "inherent characteristic",
+   "source": "电气工程名词",
+   "wordNumber": "16.182",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "固有缺陷",
+   "en": "inherent vice",
+   "source": "航海科技名词",
+   "wordNumber": "11.0341",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "内在灰分",
+   "en": "inherent ash",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.327",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_煤化学及煤质分析",
+   "subjectName": "煤化学及煤质分析",
+   "publishYear": "1996",
+   "definition": "由原始成煤植物中的、和由成煤过程进入煤层的矿物质所形成的灰分。"
+  },
+  {
+   "cn": "固有误差",
+   "en": "inherent error",
+   "source": "数学名词",
+   "wordNumber": "010.0043",
+   "subjectFullName": "数学_数值分析_误差论",
+   "subjectName": "误差论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无脊椎动物连接蛋白",
+   "en": "innexin",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "比浓对数黏度",
+   "en": "inherent viscosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固有多义性",
+   "en": "inherent ambiguity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "固有滤过",
+   "en": "inherent filtration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "固有频率",
+   "en": "inherent frequency",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "固有缺陷",
+   "en": "inherent vice",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "内侧轴系",
+   "en": "inner shafting\",\"inner shaft",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "本质失效",
+   "en": "inherent weakness failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内臂",
+   "en": "inner arm",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内层",
+   "en": "inner layer",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内唇",
+   "en": "inner lip",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内带",
+   "en": "inner zone",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内节",
+   "en": "inner segment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内隧道",
+   "en": "inner tunnel",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内柱",
+   "en": "inner rod",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内花被",
+   "en": "inner perianth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内菌幕",
+   "en": "inner veil",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内[树]皮",
+   "en": "inner bark",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内颖",
+   "en": "inner glume",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内珠被",
+   "en": "inner integument",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内美",
+   "en": "Inner Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色内环区",
+   "en": "inner blue",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑色内环区",
+   "en": "inner black",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色内环区",
+   "en": "inner red",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白色内环区",
+   "en": "inner white",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跑道内缘",
+   "en": "curb\",\"inner edge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内胎",
+   "en": "inner tube\",\"tube",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性灵",
+   "en": "Xingling (Inner Self)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "靶心",
+   "en": "bull’s-eye\",\"inner ten",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内道",
+   "en": "inner lane\",\"inside line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内股",
+   "en": "inner thigh throw\",\"uchi-mata",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黄心",
+   "en": "bull’s-eye\",\"gold\",\"inner gold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "兴寄",
+   "en": "Xingji (Association and Inner Sustenance)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "靶心",
+   "en": "bull’s-eye\",\"central ten\",\"inner ten",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小内刈",
+   "en": "ko-uchi-gari\",\"minor inner reaping throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大内刈",
+   "en": "major inner reaping throw\",\"o-uchi-gari",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "固有过滤",
+   "en": "inherent filtration",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.29",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "辐射束从X射线源组件或其部件射出之前通过不可移开的物质时，该物质产生的等效过滤。"
+  },
+  {
+   "cn": "固有安全",
+   "en": "inherent safety",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.24",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "核反应堆在运行参数偏离正常时能依靠自然物理规律趋向安全状态的性能。"
+  },
+  {
+   "cn": "社会工作实习生",
+   "en": "social work intern",
+   "source": "社会学名词",
+   "wordNumber": "4.4.11.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实习",
+   "subjectName": "社会工作实习",
+   "publishYear": "2025",
+   "definition": "正在进行社会工作实习的高校社会工作专业学生。"
+  },
+  {
+   "cn": "婚内强奸",
+   "en": "inner-marriage rape",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "婚内或同居者间未经对方同意而强行实施的性行为。此概念存在争议。同意此概念者认为任何不经对方同意的性行为均属强迫性行为，即强奸；反对者认为婚姻或同居包括了性行为义务，任何一方均有权对另一方实施性行为。"
+  },
+  {
+   "cn": "内耳气压伤",
+   "en": "inner ear barotrauma",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.3.3.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "在下潜或加压阶段，外界气压升高时，由于鼓室内外压力不能平衡所导致的前庭或耳蜗损伤。"
+  },
+  {
+   "cn": "管腔内表面",
+   "en": "inner surface of lumen",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.3.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "清洗消毒对象中所有腔体、管道的内表面。"
+  },
+  {
+   "cn": "内部警戒区",
+   "en": "inner cordoned off area",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.20",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "紧急情况下最初响应人员在潜在辐射危害的周围设立的一个区域，在该区域内采取防护行动和其他应急响应行动，以防止最初响应人员和公众成员免受可能的照射和污染。"
+  },
+  {
+   "cn": "自身免疫性内耳病",
+   "en": "autoimmune inner ear disease，AIED",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.3.13",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_器官特异性疾病",
+   "subjectName": "器官特异性疾病",
+   "publishYear": "2025",
+   "definition": "免疫介导的感音神经性听力损失的疾病。主要是器官特异性的原发性内耳损伤，也可以是某些系统性自身免疫疾病累及内耳而导致。主要表现为累及双耳或单耳的进行性或波动性听力减退，部分患者伴有耳鸣、眩晕，少数可出现"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

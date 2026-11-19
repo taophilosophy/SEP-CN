@@ -1,0 +1,622 @@
+{
+ "key": "saksin",
+ "term": "sākṣin",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:41:22+00:00",
+ "status": "ok",
+ "note": "variant=sākṣin; 审定公布名词库=688; 海峡两岸名词对照库=54; 其他来源数据库=3; 预公布名词数据库=40; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "皮肤",
+   "en": "skin",
+   "source": "动物学名词",
+   "wordNumber": "1.0167",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "被覆于动物体表面，直接与外界环境相接触的部分。在无脊椎动物一般是来源于外胚层的一层表皮及由其产生的角质层构成，脊索动物由外胚层形成的表皮和中胚层形成的真皮组成，而哺乳类的皮肤则包括表皮、真皮和皮下组织"
+  },
+  {
+   "cn": "皮肤",
+   "en": "skin",
+   "source": "手外科学名词",
+   "wordNumber": "03.0039",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "人体最大的器官。覆盖全身表面，是对痛、温、压、触等外部刺激感受面最大的器官。由表皮、真皮和皮下组织构成。"
+  },
+  {
+   "cn": "皮肤",
+   "en": "skin",
+   "source": "烧伤学名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "烧伤学_烧伤概论_概述",
+   "subjectName": "概述",
+   "publishYear": "2019",
+   "definition": "覆盖在人体表面，直接与外界环境相接触的器官。由表皮和真皮组成。是人体昀大的器官，具有保护、排泄、调节体温、感受外界刺激和免疫防护等功能。"
+  },
+  {
+   "cn": "皮肤",
+   "en": "skin",
+   "source": "人体解剖学名词",
+   "wordNumber": "07.0370",
+   "subjectFullName": "人体解剖学_感觉器_其他感觉器、皮肤及其衍生结构",
+   "subjectName": "其他感觉器、皮肤及其衍生结构",
+   "publishYear": "2014",
+   "definition": "覆人体最大的器官。由表皮和真皮组成。"
+  },
+  {
+   "cn": "皮肤",
+   "en": "skin",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "11.001",
+   "subjectFullName": "组织学与胚胎学_组织学_皮肤及其附属器官",
+   "subjectName": "皮肤及其附属器官",
+   "publishYear": "2014",
+   "definition": "被覆于机体表面，直接与外界环境相接触的器官。由表皮和真皮组成。"
+  },
+  {
+   "cn": "皮肤",
+   "en": "skin",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "02.002",
+   "subjectFullName": "中医药学_皮肤科学_解剖生理",
+   "subjectName": "解剖生理",
+   "publishYear": "2013",
+   "definition": "被覆人体表面，直接与外界环境相接触的组织。有保护机体，防御外邪，排泄汗液，调节体温，辅助呼吸的作用。"
+  },
+  {
+   "cn": "蒙皮",
+   "en": "skin",
+   "source": "航天科学技术名词",
+   "wordNumber": "02.215",
+   "subjectFullName": "航天科学技术_航天运载器",
+   "subjectName": "航天运载器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "蒙皮",
+   "en": "skin",
+   "source": "航空科学技术名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "航空科学技术_航空器",
+   "subjectName": "航空器",
+   "publishYear": "2003",
+   "definition": "蒙于机体或翼面骨架外面构成所需气动外形的板件。"
+  },
+  {
+   "cn": "皮肤",
+   "en": "skin,cutis",
+   "source": "医学名词 第七分册",
+   "wordNumber": "03.0003",
+   "subjectFullName": "医学_皮肤病学",
+   "subjectName": "皮肤病学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "皮疹",
+   "en": "skin rash,skin eruption",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.006",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "疾病在体表所呈现的各种红或暗红、高出或不高出、散在或成片的皮肤损害。"
+  },
+  {
+   "cn": "油性皮肤",
+   "en": "oil skin,oily skin",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0600",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "同种异体皮肤",
+   "en": "allogeneic skin",
+   "source": "普通外科学名词",
+   "wordNumber": "10.037",
+   "subjectFullName": "医学_普通外科学_修复",
+   "subjectName": "修复",
+   "publishYear": "2026",
+   "definition": "由同一物种的不同个体提供的皮肤。"
+  },
+  {
+   "cn": "异种异体皮肤",
+   "en": "xenogeneic skin",
+   "source": "普通外科学名词",
+   "wordNumber": "10.038",
+   "subjectFullName": "医学_普通外科学_修复",
+   "subjectName": "修复",
+   "publishYear": "2026",
+   "definition": "由不同物种的不同个体提供的皮肤。"
+  },
+  {
+   "cn": "大理石样斑纹",
+   "en": "marbling skin",
+   "source": "普通外科学名词",
+   "wordNumber": "11.148",
+   "subjectFullName": "医学_普通外科学_外科感染",
+   "subjectName": "外科感染",
+   "publishYear": "2026",
+   "definition": "气性坏疽时，软组织迅速出现坏死，伤口周围皮肤发亮、苍白，皮肤表面可出现全身性或局限性皮肤静脉网扩张，呈大理石样的网状青斑。"
+  },
+  {
+   "cn": "皮肤移植术",
+   "en": "skin grafting",
+   "source": "整形外科名词",
+   "wordNumber": "2.073",
+   "subjectFullName": "整形外科_创伤修复_创面处理",
+   "subjectName": "创面处理",
+   "publishYear": "2026",
+   "definition": "用自体或异体的皮肤来覆盖并修复皮肤组织缺损、难愈合创伤的手术。"
+  },
+  {
+   "cn": "皮肤移植",
+   "en": "skin transplantation",
+   "source": "整形外科名词",
+   "wordNumber": "4.021",
+   "subjectFullName": "整形外科_组织移植_组织移植基本概念",
+   "subjectName": "组织移植基本概念",
+   "publishYear": "2026",
+   "definition": "切取健康部位的部分皮肤覆盖并固定于皮肤缺损区域的移植手术。是整形外科基本的创面修复技术之一。"
+  },
+  {
+   "cn": "人工皮肤",
+   "en": "artificial skin",
+   "source": "整形外科名词",
+   "wordNumber": "6.027",
+   "subjectFullName": "整形外科_医用整形外科材料_人工组织",
+   "subjectName": "人工组织",
+   "publishYear": "2026",
+   "definition": "用同种异体或异种皮肤经脱细胞处理后制成的生物材料，或非生物材料制成的暂时覆盖物。"
+  },
+  {
+   "cn": "皮肤松弛",
+   "en": "skin laxity",
+   "source": "整形外科名词",
+   "wordNumber": "7.033",
+   "subjectFullName": "整形外科_整形外科光声电治疗_光声电技术临床应用",
+   "subjectName": "光声电技术临床应用",
+   "publishYear": "2026",
+   "definition": "皮肤因老化、光照等原因出现的弹性下降、光泽度下降、下垂等老化表现。皮肤内胶原蛋白、弹力纤维蛋白的流失是主要原因，皮下脂肪减少、肌肉萎缩可进一步加重该老化表现。"
+  },
+  {
+   "cn": "皮肤皱纹",
+   "en": "skin wrinkle",
+   "source": "整形外科名词",
+   "wordNumber": "7.034",
+   "subjectFullName": "整形外科_整形外科光声电治疗_光声电技术临床应用",
+   "subjectName": "光声电技术临床应用",
+   "publishYear": "2026",
+   "definition": "皮肤因老化、光照、表情活动及重力等原因出现的皱褶、不平整、不光滑的老化表现。分为体位性皱纹、动力性皱纹和重力性皱纹。"
+  },
+  {
+   "cn": "皮肤消毒",
+   "en": "skin disinfection",
+   "source": "普通外科学名词",
+   "wordNumber": "02.020",
+   "subjectFullName": "医学_普通外科学_无菌术",
+   "subjectName": "无菌术",
+   "publishYear": "2026",
+   "definition": "杀灭或清除人体皮肤上的病原微生物以达到消毒要求的过程。"
+  },
+  {
+   "cn": "绞丝",
+   "en": "skein",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "皮肤",
+   "en": "skin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "皮",
+   "en": "skin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "皮肤",
+   "en": "skin",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "薄皮",
+   "en": "thin skin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "厚皮",
+   "en": "thick skin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "壁剪应力",
+   "en": "skin friction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "鲨鱼皮",
+   "en": "shark skin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "猾子皮",
+   "en": "kid-skin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表皮效应",
+   "en": "skin effect",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表皮型包装",
+   "en": "skin packaging",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "皮肤电传导",
+   "en": "skin conductance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人工皮肤",
+   "en": "artificial skin",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "皮肤刺激",
+   "en": "skin irritation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "干板皮",
+   "en": "dried skin",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "酸皮",
+   "en": "pickled skin",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "皮层厚度",
+   "en": "skin depth",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "皮温",
+   "en": "skin temperature",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "皮肤窗",
+   "en": "skin window",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "皮肤试验",
+   "en": "skin test",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "船壳外板",
+   "en": "planking\",\"skin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "皮肤",
+   "en": "skin",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.27",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "覆盖在人体表面，直接与外界环境相接触的器官。由表皮和真皮组成。"
+  },
+  {
+   "cn": "皮肤接触",
+   "en": "skin to skin contact",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.36.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "新生儿出生后状况良好的情况下，保持新生儿与母亲的皮肤进行的持续接触，避免将其与母亲分开的保健措施。"
+  },
+  {
+   "cn": "皮肤消毒剂",
+   "en": "skin disinfectant",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.24",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "杀灭或清除人体皮肤上的病原微生物，使其达到消毒要求的制剂，如乙醇、碘酊和碘伏。"
+  },
+  {
+   "cn": "皮肤感染",
+   "en": "skin infection",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.3.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "皮肤有脓性分泌物、脓疱、疖肿等表现，并有局部红肿热痛等炎症性反应的疾病。"
+  },
+  {
+   "cn": "皮肤消毒",
+   "en": "skin disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.3.2",
+   "subjectFullName": "消毒学_消毒应用_皮肤黏膜消毒",
+   "subjectName": "皮肤黏膜消毒",
+   "publishYear": "2025",
+   "definition": "将皮肤表面的细菌、病毒等微生物灭活或减少到安全水平的处理。"
+  },
+  {
+   "cn": "皮肤移植",
+   "en": "skin graft",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.038",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过游离植皮或皮瓣移植修复皮肤的外科技术。游离植皮是切取部分皮肤或全层皮肤，从身体的供皮区分离，移植到身体另一处受皮区，重新建立血液循环并继续保持活力以达到整形修复的目的。皮瓣移植是将由皮肤和皮下组织"
+  },
+  {
+   "cn": "皮筏子",
+   "en": "skin raft",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0093",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国旧式载人水上交通工具；将圆木编排成列，或用圆木棍扎成由许多小格组成的长方形框架，再把若干个牛皮或羊皮的袋囊充气后系在排下或按框格捆在架上而成。流行于中国青海、甘肃、宁夏黄河沿岸地区，以兰州一带为最"
+  },
+  {
+   "cn": "皮肤防护",
+   "en": "skin protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.4.3",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射防护",
+   "subjectName": "核辐射防护",
+   "publishYear": "2025",
+   "definition": "保护人员皮肤免受放射性灰尘的伤害所采取的措施。主要是及时正确地使用各类防护器材。"
+  },
+  {
+   "cn": "皮肤温度",
+   "en": "skin temperature,Ts",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.3.5",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷应激",
+   "subjectName": "冷应激",
+   "publishYear": "2025",
+   "definition": "按相应部位的皮肤面积计算的人体皮肤表面温度的加权平均值。"
+  },
+  {
+   "cn": "常居菌",
+   "en": "resident skin flora",
+   "source": "消毒学",
+   "wordNumber": "4.3.1.2.1.2",
+   "subjectFullName": "消毒学_消毒应用_皮肤黏膜消毒",
+   "subjectName": "皮肤黏膜消毒",
+   "publishYear": "2025",
+   "definition": "皮肤上不易被机械摩擦所清除的固有寄生菌。"
+  },
+  {
+   "cn": "暂居菌",
+   "en": "transient skin flora",
+   "source": "消毒学",
+   "wordNumber": "4.3.1.2.2.2",
+   "subjectFullName": "消毒学_消毒应用_皮肤黏膜消毒",
+   "subjectName": "皮肤黏膜消毒",
+   "publishYear": "2025",
+   "definition": "寄居皮肤表层，用常规洗手可清除的细菌。"
+  },
+  {
+   "cn": "完整皮肤消毒",
+   "en": "integral skin disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.3.2.1",
+   "subjectFullName": "消毒学_消毒应用_皮肤黏膜消毒",
+   "subjectName": "皮肤黏膜消毒",
+   "publishYear": "2025",
+   "definition": "对无损伤皮肤表面进行的消毒处理。"
+  },
+  {
+   "cn": "破损皮肤消毒",
+   "en": "damaged skin disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.3.2.2",
+   "subjectFullName": "消毒学_消毒应用_皮肤黏膜消毒",
+   "subjectName": "皮肤黏膜消毒",
+   "publishYear": "2025",
+   "definition": "对有皮肤损伤的伤口和创面进行的消毒处理。"
+  },
+  {
+   "cn": "皮肤刺激试验",
+   "en": "skin irritation test",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.17",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "涂敷受试物于实验动物的皮肤，以观察是否产生皮肤刺激性的试验。"
+  },
+  {
+   "cn": "皮肤变态反应试验",
+   "en": "skin allergy test",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.18",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "通过动物试验检测受试物经皮肤接触产生皮肤致敏反应危害的试验。"
+  },
+  {
+   "cn": "放射性皮肤疾病",
+   "en": "radiation skin disease",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "电离辐射引起的皮肤及其附属器疾病。分为急性放射性皮肤损伤、慢性放射性皮肤损伤和放射性皮肤癌。"
+  },
+  {
+   "cn": "放射性皮肤癌",
+   "en": "radiation skin cancer",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.16.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "在电离辐射所致皮肤放射性损伤的基础上发生的皮肤癌。"
+  },
+  {
+   "cn": "焦点-皮肤距离",
+   "en": "focus-skin distance",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.33",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "有效焦点中心至受检者皮肤表面的最近距离。"
+  },
+  {
+   "cn": "皮肤点刺试验",
+   "en": "skin prick test",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.42",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "利用点刺针刺穿皮肤表面以引入致敏原，根据反应区域成团大小用于诊断IgE 介导的过敏性疾病的一种方法。"
+  },
+  {
+   "cn": "皮肤损害标本",
+   "en": "skin lesions sample",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.20.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "从皮肤粘膜上出现异常表现的部位采集的样本。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

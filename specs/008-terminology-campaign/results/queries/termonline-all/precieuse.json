@@ -1,0 +1,32 @@
+{
+ "key": "precieuse",
+ "term": "précieuse",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:35:47+00:00",
+ "status": "ok",
+ "note": "variant=précieuse; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "PR方程",
+   "en": "Peng-Robinson equation,PR equation",
+   "source": "化学工程名词",
+   "wordNumber": "02.137",
+   "subjectFullName": "化学工程_化工热力学_流体的P-T-V关系",
+   "subjectName": "流体的P-T-V关系",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "PR［状态］方程",
+   "en": "Peng-Robinson equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

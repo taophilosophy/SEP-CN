@@ -1,0 +1,782 @@
+{
+ "key": "short-termism",
+ "term": "short-termism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:37:34+00:00",
+ "status": "ok",
+ "note": "variant=short-termism; 审定公布名词库=824; 海峡两岸名词对照库=376; 其他来源数据库=270; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "短卸",
+   "en": "short-landed,short-delivery",
+   "source": "航海科技名词",
+   "wordNumber": "11.0134",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "热脆性",
+   "en": "hot shortness,red shortness",
+   "source": "物理学名词",
+   "wordNumber": "08.2371",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "短鼻",
+   "en": "short nose",
+   "source": "整形外科名词",
+   "wordNumber": "17.043",
+   "subjectFullName": "整形外科_鼻整形与美容_鼻部畸形",
+   "subjectName": "鼻部畸形",
+   "publishYear": "2026",
+   "definition": "鼻长度过短的鼻部形态，或伴有鞍鼻及鼻孔外翻畸形。"
+  },
+  {
+   "cn": "包皮过短",
+   "en": "short prepuce",
+   "source": "整形外科名词",
+   "wordNumber": "20.029",
+   "subjectFullName": "整形外科_会阴部整形_男性会阴与外生殖器畸形",
+   "subjectName": "男性会阴与外生殖器畸形",
+   "publishYear": "2026",
+   "definition": "由外伤、手术、烧伤、感染等原因造成的包皮组织缺损的现象。可导致阴茎皮肤过紧、勃起疼痛，影响正常性生活。"
+  },
+  {
+   "cn": "身材矮小症",
+   "en": "short stature",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "02.108",
+   "subjectFullName": "下丘脑与垂体疾病_生长发育与生长异常_生长异常",
+   "subjectName": "生长异常",
+   "publishYear": "2025",
+   "definition": "身高低于同种族、同性别、同年龄人群平均身高2个标准差或低于第3百分位数。"
+  },
+  {
+   "cn": "童柱",
+   "en": "short column",
+   "source": "风景园林名词",
+   "wordNumber": "07.0259",
+   "subjectFullName": "风景园林_风景园林建筑_大木作",
+   "subjectName": "大木作",
+   "publishYear": "2025",
+   "definition": "置于梁上的短柱。其承受重量与普通之柱相同作用。"
+  },
+  {
+   "cn": "短睡眠者",
+   "en": "short sleeper",
+   "source": "睡眠医学名词",
+   "wordNumber": "3.015",
+   "subjectFullName": "睡眠医学_睡眠疾病分类_失眠症",
+   "subjectName": "失眠症",
+   "publishYear": "2022",
+   "definition": "常规每晚平均睡眠时间少于6小时，但没有睡眠-觉醒主诉者。家族中有多发趋势，以青壮年男性多见。"
+  },
+  {
+   "cn": "短评",
+   "en": "short review",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.273",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "代表编辑部发言的内容单一、分析扼要的简短评论。可以单独发表，也可以和新闻稿件配合发表。"
+  },
+  {
+   "cn": "短视频",
+   "en": "short video",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.11",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "几分钟甚至1分钟以内的视频。目前业界对于短视频的时长并没有形成统一标准。短视频的兴起，主要是为了适应手机等移动终端以及社交平台的传播需要。"
+  },
+  {
+   "cn": "少年生",
+   "en": "short lived ",
+   "source": "草学名词",
+   "wordNumber": "6.0146",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "短睡者",
+   "en": "short sleeper",
+   "source": "行为医学名词",
+   "wordNumber": "11.005",
+   "subjectFullName": "行为医学_睡眠_觉醒障碍_睡眠相关症状",
+   "subjectName": "睡眠相关症状",
+   "publishYear": "2022",
+   "definition": "夜间睡眠时间少于6小时，白天仍会精神饱满的人。"
+  },
+  {
+   "cn": "未浇满",
+   "en": "pour short",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.410",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_铸件质量",
+   "subjectName": "铸件质量",
+   "publishYear": "2021",
+   "definition": "浇注的液态金属量不足，使铸件上面短缺的缺陷。其边角略呈圆形，浇冒口顶面与铸件短缺面平齐。"
+  },
+  {
+   "cn": "短透镜",
+   "en": "short lens",
+   "source": "光学名词",
+   "wordNumber": "09.114",
+   "subjectFullName": "光学_光无源器件",
+   "subjectName": "光无源器件",
+   "publishYear": "2021",
+   "definition": "电场作用局限在有限的空间范围，其物和像均位于透镜场外的一种电子透镜。该透镜的作用与光学的短透镜作用类似。"
+  },
+  {
+   "cn": "短期草地",
+   "en": "short pasture",
+   "source": "畜牧学名词",
+   "wordNumber": "10.023",
+   "subjectFullName": "畜牧学_常用牧草_草原与牧草综合",
+   "subjectName": "草原与牧草综合",
+   "publishYear": "2020",
+   "definition": "利用年限不超过5年的人工草地。"
+  },
+  {
+   "cn": "短期",
+   "en": "short run",
+   "source": "经济学名词",
+   "wordNumber": "03.084",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "厂商仅仅可以调整一部分生产要素而不能调整所有生产要素， 同时也不能自由进出某一行业的时期。例如，在短期内厂商虽然可以投入更多的原材料和雇佣更多的非熟练工人，但是却不能有足够的时间来建造新的厂房、招募和"
+  },
+  {
+   "cn": "[系统]短路",
+   "en": "short-circuit",
+   "source": "电力名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "电力_电力系统",
+   "subjectName": "电力系统",
+   "publishYear": "2020",
+   "definition": "电力系统处于正常运行状态时,线路和电气设备相间或相与地间突然发生的直接或经外部阻抗的非正常连接,是电力系统的运行状态发生急剧变化的一种故障状态。"
+  },
+  {
+   "cn": "金属性短路",
+   "en": "dead short",
+   "source": "电力名词",
+   "wordNumber": "04.196",
+   "subjectFullName": "电力_电力系统",
+   "subjectName": "电力系统",
+   "publishYear": "2020",
+   "definition": "故障点的阻抗为零的故障。"
+  },
+  {
+   "cn": "短睡眠者",
+   "en": "short sleeper",
+   "source": "神经病学名词",
+   "wordNumber": "17.047",
+   "subjectFullName": "神经病学_睡眠障碍",
+   "subjectName": "睡眠障碍",
+   "publishYear": "2020",
+   "definition": "在24h内的睡眠时间与其同年龄组相比明显减少，少于同年龄组正常最短睡眠时间的75%的人。患者主诉失眠，但没有关于睡眠质量的主诉，在白天没有思睡的感觉。家族中有多发趋势，青壮年男性多见。"
+  },
+  {
+   "cn": "气促",
+   "en": "short breath",
+   "source": "感染病学名词",
+   "wordNumber": "03.0215",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "一种节律较快的呼吸动作。"
+  },
+  {
+   "cn": "短骨",
+   "en": "short bone",
+   "source": "运动医学名词",
+   "wordNumber": "01.059",
+   "subjectFullName": "运动医学_运动解剖_人体运动执行体系",
+   "subjectName": "人体运动执行体系",
+   "publishYear": "2019",
+   "definition": "一种呈立方体的骨。内部为骨松质，表面被以薄层骨密质。多成群地分布于承受压力又需要灵活活动的部位，如腕骨、跗骨。一般具有多个关节面，运动幅度较小。"
+  },
+  {
+   "cn": "短卸",
+   "en": "short-landed\",\"short-delivery",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "短骨",
+   "en": "short bone",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "短肌",
+   "en": "short muscle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "短脚",
+   "en": "short crus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "短头",
+   "en": "short head",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "短纤维",
+   "en": "short fiber",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "近程",
+   "en": "short range",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "短期熟成",
+   "en": "short ripening",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双头螺纹短接头",
+   "en": "short nipple",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "缩编谱",
+   "en": "short score",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "短礼拜音乐",
+   "en": "short service",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "短期汇兑",
+   "en": "short exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期汇票",
+   "en": "short bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期借款",
+   "en": "short loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期息票",
+   "en": "short coupon",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期信贷",
+   "en": "short credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期债券",
+   "en": "short bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期支票",
+   "en": "short check",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期租赁",
+   "en": "short lease",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[股份和贷款]空头",
+   "en": "short interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体操短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "游击手",
+   "en": "short\",\"shortstop",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短视频",
+   "en": "short video",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "短传",
+   "en": "short pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "矮身材",
+   "en": "short stature",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.26",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童身高（长）小于同年龄、同性别儿童身高（长）正常均值减2个标准差（<-2SD)或小于等于第3百分位（≤P3rd）的状态。"
+  },
+  {
+   "cn": "短时记忆",
+   "en": "short-term memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑对外界信息进行加工、编码、短暂保持（1分钟以内）的记忆过程。"
+  },
+  {
+   "cn": "短期暴露",
+   "en": "short-term exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.19",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "人或实验动物对某种因素短期内多次或连续暴露的情形"
+  },
+  {
+   "cn": "短期生产函数",
+   "en": "short-term production function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在生产既定产品时，技术条件和固定投入（通常是资本）一定时，一种可变投入（通常是劳动）与可能生产的最大产量间的关系。"
+  },
+  {
+   "cn": "短期平均成本",
+   "en": "short-run average cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "短期内生产每一单位产品平均所需要的成本。"
+  },
+  {
+   "cn": "短期边际成本",
+   "en": "short-run marginal cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.3.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "在短期内，每增加一单位产量所引起的总成本的增加量。"
+  },
+  {
+   "cn": "短效避孕方法",
+   "en": "short-acting contraceptive method",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.5",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一旦使用，正常情况下避孕效果维持时间短于或等于1个月经周期，甚至仅限一次性交过程的避孕方法。包括复方短效口服避孕药、紧急避孕药、男用避孕套、女用避孕套、安全期法、体外排精法、外用避孕药等。"
+  },
+  {
+   "cn": "短效口服避孕药",
+   "en": "short-acting oral contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.6.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由低剂量人工合成的雌激素（多为炔雌醇）配伍孕激素、或单纯孕激素的口服避孕制剂。根据使用说明需要至少21天连续每日服用，避孕效果可维持一个月。服用期间，服用者处于暂时不孕状态，停用后又能恢复生育功能。"
+  },
+  {
+   "cn": "短期多次摄入",
+   "en": "multiple intake in short term",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.14",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在一个控制周期内（如一个季度）发生多次摄入同一放射性核素的情况。此时期吸收率呈不连续的骤升速止状态，在组织内放射性核素含量连续地速升缓降。"
+  },
+  {
+   "cn": "短期供给曲线",
+   "en": "short-run aggregate supply curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "反映短期中总供给与价格关系的一条曲线。在短期内，总供给量与价格水平呈同方向变动，总供给曲线是一条向右上方倾斜的线。"
+  },
+  {
+   "cn": "短期平均成本曲线",
+   "en": "short-run average cost curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "在生产规模保持一定时，反映平均总成本与产量的关系曲线，呈现先降后升趋势。"
+  },
+  {
+   "cn": "人工流产近期并发症",
+   "en": "short-term complication of abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.8.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "由于人工流产操作或受术对象的特殊身体状况，在人工流产手术过程中或术后1个月内发生人工流产不全、出血、感染、脏器损伤或继续妊娠等病症。"
+  },
+  {
+   "cn": "六维健康调查简表",
+   "en": "short form-6 dimension,SF-6D",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.4.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "由布雷热等人开发的包含身体功能、角色限制、社会功能、疼痛、心理健康及活力六个维度的测量健康状态的标准化量表。"
+  },
+  {
+   "cn": "国际估计短期摄入量",
+   "en": "international estimated short-term intake, IESTI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "用来预测农残的短期摄入量，基本假设是每人每天的食物消费量较高，食品中的农残量是田间监管试验的最大残留值，同时考虑了食品可食部分的残留量以及JMPR 确定的用于估计膳食摄入量的残留物成分。"
+  },
+  {
+   "cn": "36条目简明健康量表",
+   "en": "the Medical Outcomes Study 36-item short form health survey, SF-36",
+   "source": "社会医学名词",
+   "wordNumber": "5.4.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "美国波士顿健康研究所研制的简明生命质量通用型量表。量表包括36 个条目，评价健康相关生命质量的8 个维度，分别属于生理健康和心理健康两大类。"
+  },
+  {
+   "cn": "《蒙古诸汗源流黄金史纲》",
+   "en": "Short History of the Origins of the Qaghans Called the Golden Button",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0291",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "蒙古文历史文献。作者佚名，约成书于17 世纪初。该书从古老年代写起，至林丹汗继位止，重点记述14 世纪初的蒙古历史，史料真实，是研究明代蒙古，特别是明代蒙古汗系和贵族谱系的重要史料。"
+  },
+  {
+   "cn": "亲属称谓",
+   "en": "kinship terms",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0402",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对亲属的称呼，或具有亲属关系者的互称。"
+  },
+  {
+   "cn": "儿童运动伤害",
+   "en": "child sport injury",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.1.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "发生在儿童身上和运动有关的一切伤害。依照受伤的情况或症状的病史，运动伤害可分为急性运动伤害和慢性运动伤害两种。"
+  },
+  {
+   "cn": "事故源项",
+   "en": "accident source terms",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.7",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "在事故情况下广泛使用的用以表示从给定的源中放射性物质实际的或潜在的释放信息，包括放射性物质的数量、同位素组成、释放率和释放方式。"
+  },
+  {
+   "cn": "叼羊",
+   "en": "catching sheep sport（diaoyang）",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0436",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "一种在马、牦牛上进行的角力性竞技活动，是新疆地区维吾尔、哈萨克、柯尔克孜、塔吉克等民族共有的传统竞技项目。叼羊比赛一般在两个部落或两个群体间进行，以“叼”到羊后安全送达指定地点的一方为胜。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

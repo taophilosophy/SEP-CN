@@ -1,0 +1,722 @@
+{
+ "key": "cahier d'etudiant",
+ "term": "Cahier d’étudiant",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:28:34+00:00",
+ "status": "ok",
+ "note": "variant=Cahier d’étudiant; 审定公布名词库=1200; 海峡两岸名词对照库=276; 其他来源数据库=69; 预公布名词数据库=75; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "收费处",
+   "en": "cashier",
+   "source": "建筑学名词",
+   "wordNumber": "02.0032",
+   "subjectFullName": "建筑学_建筑类型及组成_通用建筑类型及组成",
+   "subjectName": "通用建筑类型及组成",
+   "publishYear": "2014",
+   "definition": "收付费用的场所。"
+  },
+  {
+   "cn": "载流子",
+   "en": "charge carrier,carrier",
+   "source": "物理学名词",
+   "wordNumber": "08.1567",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "呼救者",
+   "en": "caller",
+   "source": "急救医学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "急救医学_急救调度_调度基本概念_呼救人群",
+   "subjectName": "呼救人群",
+   "publishYear": "2025",
+   "definition": "发出信息寻求救助行为的机构或个人。特指通过拨打急救电话寻求紧急医疗援助的机构或个人。"
+  },
+  {
+   "cn": "运载体",
+   "en": "carrier",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0126",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜运输与膜转运",
+   "subjectName": "膜运输与膜转运",
+   "publishYear": "2024",
+   "definition": "细胞内结合特定物质，并携其或通过生物膜或在机体液中转运的蛋白质。"
+  },
+  {
+   "cn": "载体",
+   "en": "carrier",
+   "source": "核科学技术名词",
+   "wordNumber": "2.011",
+   "subjectFullName": "核科学技术_核化学与放射化学_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2024",
+   "definition": "能载带某种微量的物质共同参与某种化学或物理过程的另一种物质。放射化学研究中核衰变和核反应过程生成的元素的量通常极少，为 10−8～10−12 g，不能用处理常量物质的化学方法进行分离，可引入载体，使微"
+  },
+  {
+   "cn": "癌症",
+   "en": "cancer",
+   "source": "兽医学名词",
+   "wordNumber": "10.293",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "所有恶性肿瘤。"
+  },
+  {
+   "cn": "载体",
+   "en": "carrier",
+   "source": "兽医学名词",
+   "wordNumber": "14.025",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "含有可被T细胞识别的抗原表位的免疫原性分子。不具免疫原性的半抗原与之结合后可呈现免疫原性。"
+  },
+  {
+   "cn": "刻工",
+   "en": "carver",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.062",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "从事书版雕刻的工匠。"
+  },
+  {
+   "cn": "承运人",
+   "en": "carrier",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.021",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "本人或者委托他人以本人名义与托运人订立货物运输合同的当事人。"
+  },
+  {
+   "cn": "带病体",
+   "en": "carrier ",
+   "source": "草学名词",
+   "wordNumber": "7.0306",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "弧高",
+   "en": "camber",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0973",
+   "subjectFullName": "机械工程（一）_机械零件_弹簧_弹簧的设计和工艺",
+   "subjectName": "弹簧的设计和工艺",
+   "publishYear": "2021",
+   "definition": "板弹簧两支承点连线与第一片凹面间最大的垂直距离。"
+  },
+  {
+   "cn": "载流子",
+   "en": "carrier",
+   "source": "光学名词",
+   "wordNumber": "11.151",
+   "subjectFullName": "光学_光有源器件",
+   "subjectName": "光有源器件",
+   "publishYear": "2021",
+   "definition": "在导体和半导体中能够承载定向电流的带电粒子。半导体中的载流子包括导带中的电子和价带中的空穴。半导体的导电性能与载流子的数目相关。单位体积的载流子数目称为载流子浓度。"
+  },
+  {
+   "cn": "携带者",
+   "en": "carrier",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.341",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "携带突变基因、结构畸变染色体或遗传标记却不表现出疾病表型的个体。"
+  },
+  {
+   "cn": "测径",
+   "en": "caliper",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.289",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "为发现施工中出现的管道变形进行的管道内径检测。一般采用铝制测径板。"
+  },
+  {
+   "cn": "卡尺",
+   "en": "caliper",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0254",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "一种测量长度、内外径、深度的量具。"
+  },
+  {
+   "cn": "携带者",
+   "en": "carrier",
+   "source": "畜牧学名词",
+   "wordNumber": "04.040",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "携带某一特定隐性基因的杂合子。"
+  },
+  {
+   "cn": "载体",
+   "en": "carrier",
+   "source": "畜牧学名词",
+   "wordNumber": "07.507",
+   "subjectFullName": "畜牧学_饲料与营养_饲料加工与产品",
+   "subjectName": "饲料加工与产品",
+   "publishYear": "2020",
+   "definition": "能够承载微量活性成分，改善其分散性，并具有良好化学稳定性和吸附性的可饲用物质。"
+  },
+  {
+   "cn": "携带者",
+   "en": "carrier",
+   "source": "感染病学名词",
+   "wordNumber": "01.0292",
+   "subjectFullName": "感染病学_总论_感染病流行病学",
+   "subjectName": "感染病流行病学",
+   "publishYear": "2019",
+   "definition": "感染病原体无临床症状但能排出病原体的人。"
+  },
+  {
+   "cn": "载体",
+   "en": "carrier",
+   "source": "冶金学名词",
+   "wordNumber": "03.0549",
+   "subjectFullName": "冶金学_选矿_浮选及药剂",
+   "subjectName": "浮选及药剂",
+   "publishYear": "2019",
+   "definition": "在载体浮选中，用于负载要浮选的细粒矿物的物质。"
+  },
+  {
+   "cn": "连铸机",
+   "en": "caster",
+   "source": "冶金学名词",
+   "wordNumber": "05.1437",
+   "subjectFullName": "冶金学_钢铁冶金_铸造与凝固",
+   "subjectName": "铸造与凝固",
+   "publishYear": "2019",
+   "definition": "使金属液凝固并连续生成铸坯的工艺设备，由中间包、结晶器、二冷装置、拉矫机、引锭杆、切割定尺装置和打印喷印机等构成完整的在线设备。"
+  },
+  {
+   "cn": "载体，载波",
+   "en": "carrier",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "载流子",
+   "en": "carrier",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "载体",
+   "en": "carrier",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "追猎者",
+   "en": "chaser",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[运]载体",
+   "en": "carrier",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "携带者",
+   "en": "carrier",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "［运］载体",
+   "en": "carrier",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "癌[症]",
+   "en": "cancer",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "载波",
+   "en": "carrier",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "癌[症]",
+   "en": "cancer",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "调用者",
+   "en": "caller",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "载波",
+   "en": "carrier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "载流子",
+   "en": "carrier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主叫人",
+   "en": "caller",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "载体",
+   "en": "carrier",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "承运船",
+   "en": "carrier",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "承运人",
+   "en": "carrier",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "梁拱",
+   "en": "camber",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "梁拱",
+   "en": "camber",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "载体",
+   "en": "carrier",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "结账区",
+   "en": "cashier desk",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "测径规",
+   "en": "caliper",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "口径",
+   "en": "caliber",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "口径",
+   "en": "caliber",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反跑步",
+   "en": "counter-canter\",\"false canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员椅",
+   "en": "chair",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加油",
+   "en": "cheer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "病毒携带者",
+   "en": "virus carrier",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无症状携带者",
+   "en": "asymptomatic carrier",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "送靶器",
+   "en": "target carrier",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乱步",
+   "en": "disunited canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "载体",
+   "en": "carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "试验微生物的支持物，如玻片、布片、不锈钢片等。"
+  },
+  {
+   "cn": "癌症告知",
+   "en": "cancer disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.055",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "医务人员在为患者作出癌症诊断后将诊断结论、诊治方案、病情预后及诊治费用等信息完全告知患者和/或其家属的沟通过程。"
+  },
+  {
+   "cn": "载体消毒剂",
+   "en": "carrier disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.17",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "将液体或固体消毒剂结合在如非织造布、织物、医用脱脂棉、医用海绵等特定载体上形成的一次性使用消毒产品。"
+  },
+  {
+   "cn": "染菌载体",
+   "en": "inoculated carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "已染上规定数量试验微生物的载体。"
+  },
+  {
+   "cn": "玻璃载体",
+   "en": "glass carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以经过脱脂处理的玻璃作为试验微生物的支持物。多制成10mm×10mm大小的正方形，根据特定用途也可用其他尺寸。常用于消毒对象为光滑表面和餐饮具为对象的载体消毒试验。"
+  },
+  {
+   "cn": "载体试验",
+   "en": "carrier test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验微生物附着于载体，用于测试消毒因子对试验微生物杀灭效果的消毒实验室试验。"
+  },
+  {
+   "cn": "卡尺匹配",
+   "en": "caliper matching",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.2.2.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "一种特殊的类别匹配，要求对照组与研究组之间就某一连续变量而言差别较小。比如要求两组的年龄差别小于2岁。"
+  },
+  {
+   "cn": "贮源器",
+   "en": "source carrier",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.55",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在近距离放射治疗中，可容纳一个或多个放射源的容器。当治疗源不用时可提供放射源的屏蔽防护。"
+  },
+  {
+   "cn": "龋齿",
+   "en": "dental caries",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "牙齿在多种因素影响下发生慢性进行性破坏的疾病。其特征为牙釉质、牙本质和牙骨质在颜色、形态和质地等方面发生变化，造成牙体组织缺损。"
+  },
+  {
+   "cn": "病原携带者",
+   "en": "pathogens carrier",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "感染某种病原体后未出现明显症状而排除病原体的人，包括隐性感染者，是许多传染病的重要传染源。"
+  },
+  {
+   "cn": "总会计师",
+   "en": "chief accountant",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "领导医疗机构经济核算和财务会计工作，参与医疗机构重要经济问题的分析和决策的负责人。"
+  },
+  {
+   "cn": "椅高",
+   "en": "chair height",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_课桌椅卫生",
+   "subjectName": "课桌椅卫生",
+   "publishYear": "2025",
+   "definition": "椅前缘最高点离地面的高度。"
+  },
+  {
+   "cn": "椅面",
+   "en": "chair seat",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.4.2.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_课桌椅卫生",
+   "subjectName": "课桌椅卫生",
+   "publishYear": "2025",
+   "definition": "课椅的表面，包括椅深和椅宽，分别指课椅表面前后方向的有效尺寸和课椅表面前缘左右方向的尺寸。"
+  },
+  {
+   "cn": "椅靠背",
+   "en": "chair back",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.4.2.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_课桌椅卫生",
+   "subjectName": "课桌椅卫生",
+   "publishYear": "2025",
+   "definition": "课椅的靠背，向后倾斜5°～10°为宜。"
+  },
+  {
+   "cn": "食品用香精载体",
+   "en": "food flavorings carrier",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "添加到食品用香精中用以承载香味成分，改善其分散性和稳定性，或延长其释放时间的可食用物质"
+  },
+  {
+   "cn": "棉布载体",
+   "en": "cotton cloth carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以经过脱脂处理的棉布作为试验微生物的支持物。棉布可选用40织纱的白平纹布，抽去四周的经纱和纬纱，制成10mm×10mm大小的正方形，根据特定用途也可用其他尺寸。常用于消毒对象为物体表面、手、皮肤黏膜、"
+  },
+  {
+   "cn": "滤纸载体",
+   "en": "filter paper carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以滤纸作为试验微生物的支持物。多制成10mm×10mm大小的正方形，根据特定用途也可用其他尺寸，常用于消毒对象为纸质物品的消毒试验。"
+  },
+  {
+   "cn": "聚四氟乙烯管载体",
+   "en": "teflon tube carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以经过脱脂处理的聚四氟乙烯管作为试验微生物的支持物。多制成外径6mm、内径4mm、长度20-40mm，根据特定用途也可用其他尺寸。常用于消毒对象为非金属管腔医疗器械的消毒试验。"
+  },
+  {
+   "cn": "止血钳载体",
+   "en": "hemostatic clamp carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.8",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以经过脱脂处理的止血钳齿部作为试验微生物的支持物。常用于消毒对象为医疗器械的模拟现场试验。"
+  },
+  {
+   "cn": "放射性皮肤癌",
+   "en": "radiation skin cancer",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.16.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "在电离辐射所致皮肤放射性损伤的基础上发生的皮肤癌。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

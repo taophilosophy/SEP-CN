@@ -1,0 +1,782 @@
+{
+ "key": "font rodriguez",
+ "term": "Font Rodríguez",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:32:26+00:00",
+ "status": "ok",
+ "note": "variant=Font Rodríguez; 审定公布名词库=504; 海峡两岸名词对照库=199; 其他来源数据库=79; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "字体",
+   "en": "font",
+   "source": "建筑学名词",
+   "wordNumber": "09.0126",
+   "subjectFullName": "建筑学_建筑设计_建筑表现与识图",
+   "subjectName": "建筑表现与识图",
+   "publishYear": "2014",
+   "definition": "文字的风格式样。"
+  },
+  {
+   "cn": "字体",
+   "en": "typeface;font",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.015",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "文字或图形符号的形体类别。"
+  },
+  {
+   "cn": "字形提示",
+   "en": "font hint",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.019",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "为避免缩放引起字形畸变和损失而加入字库的附加处理用信息。"
+  },
+  {
+   "cn": "点阵字模",
+   "en": "bitmap font",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1082",
+   "subjectFullName": "计算机科学技术_计算机应用_中文信息处理",
+   "subjectName": "中文信息处理",
+   "publishYear": "2018",
+   "definition": "用黑白点阵列表现的字形。白点和黑点分别用数码0和1表示。"
+  },
+  {
+   "cn": "矢量字模",
+   "en": "vector font",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1084",
+   "subjectFullName": "计算机科学技术_计算机应用_中文信息处理",
+   "subjectName": "中文信息处理",
+   "publishYear": "2018",
+   "definition": "轮廓字模的一种。在笔画轮廓线上取一系列控制点，相邻两点间的轮廓线用该两点间的矢量拟合。"
+  },
+  {
+   "cn": "曲线字模",
+   "en": "TrueType font",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1083",
+   "subjectFullName": "计算机科学技术_计算机应用_中文信息处理",
+   "subjectName": "中文信息处理",
+   "publishYear": "2018",
+   "definition": "轮廓字模的一种。在笔画轮廓线上取一系列控制点，相邻控制点间的轮廓线用曲线拟合。"
+  },
+  {
+   "cn": "轮廓字模",
+   "en": "outlined font",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1081",
+   "subjectFullName": "计算机科学技术_计算机应用_中文信息处理",
+   "subjectName": "中文信息处理",
+   "publishYear": "2018",
+   "definition": "用汉字笔画轮廓的数学描述来表示汉字字形。"
+  },
+  {
+   "cn": "笔势",
+   "en": "symbolized font",
+   "source": "语言学名词",
+   "wordNumber": "10.041",
+   "subjectFullName": "语言学_训诂学_训诂所见字、词、句音义关系",
+   "subjectName": "训诂所见字、词、句音义关系",
+   "publishYear": "2011",
+   "definition": "经过演变脱离原始造字意图的字形。例如楷书“因”从“囗”从“大”，无法反映“席子”这一本义。"
+  },
+  {
+   "cn": "排印本",
+   "en": "font changed text",
+   "source": "档案学名词",
+   "wordNumber": "04.03.038",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "改变档案正文原来符号，用规范字体排版印刷的档案文献版本。"
+  },
+  {
+   "cn": "点阵字库",
+   "en": "bitmap font library",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.021",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "以二进制0和1阵列构成字形信息的字库。"
+  },
+  {
+   "cn": "轮廓字库",
+   "en": "outline font library",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.022",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "以直线及曲线描述字形轮廓的字库。"
+  },
+  {
+   "cn": "民族文字字型字体",
+   "en": "national characters font",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1094",
+   "subjectFullName": "计算机科学技术_计算机应用_中文信息处理",
+   "subjectName": "中文信息处理",
+   "publishYear": "2018",
+   "definition": "由计算机所显示或打印出来的少数民族文字字符的形体、类型。如藏文、维哈柯文、蒙古文、彝文等常用字型中包括正文字、标题字等。"
+  },
+  {
+   "cn": "汉字字体",
+   "en": "Chinese character font",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1093",
+   "subjectFullName": "计算机科学技术_计算机应用_中文信息处理",
+   "subjectName": "中文信息处理",
+   "publishYear": "2018",
+   "definition": "同一个汉字由于各种原因（历史演变、书写、印刷等）而形成的各种不同的体式。"
+  },
+  {
+   "cn": "大字体扑克",
+   "en": "large font poker",
+   "source": "物理医学与康复名词",
+   "wordNumber": "05.228",
+   "subjectFullName": "物理医学与康复_物理治疗与康复器具设备_视力康复器具设备",
+   "subjectName": "视力康复器具设备",
+   "publishYear": "2014",
+   "definition": "字体加大，以帮助患者识别的扑克。适用于低视力患者。"
+  },
+  {
+   "cn": "大字码计数器",
+   "en": "large font counter",
+   "source": "物理医学与康复名词",
+   "wordNumber": "05.229",
+   "subjectFullName": "物理医学与康复_物理治疗与康复器具设备_视力康复器具设备",
+   "subjectName": "视力康复器具设备",
+   "publishYear": "2014",
+   "definition": "键盘和屏幕显示均为大字体的计数器。适用于低视力患者。"
+  },
+  {
+   "cn": "汉字字形码",
+   "en": "Chinese character font code",
+   "source": "语言学名词",
+   "wordNumber": "11.019",
+   "subjectFullName": "语言学_计算语言学_字处理",
+   "subjectName": "字处理",
+   "publishYear": "2011",
+   "definition": "表达汉字字形的字模数据。通常用点阵、矢量函数等方式表示。"
+  },
+  {
+   "cn": "字符字形库",
+   "en": "character font library;character library",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.018",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "收纳各种字体字形的数据库，供计算机输出文字内容或版（页）面时调用。包含字体字形、字符编码映射、字形提示等多种信息，供文字成像等应用的数字信息集合。"
+  },
+  {
+   "cn": "美华字",
+   "en": "Gamble's APMP type fonts",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.065",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "美国传教士威廉·姜别利（William Gamble）利用电镀汉文字模法制成的宋体铅字，是晚清民国时期中国出版机构通用的宋体铅字。"
+  },
+  {
+   "cn": "字号",
+   "en": "font size;point size;type size",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.016",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "区分单个字符大小的表示方法。"
+  },
+  {
+   "cn": "民族文字点阵字型标准",
+   "en": "bitmap fonts standard of national characters",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1085",
+   "subjectFullName": "计算机科学技术_计算机应用_中文信息处理",
+   "subjectName": "中文信息处理",
+   "publishYear": "2018",
+   "definition": "为信息处理而制定的少数民族字型字体标准。我国目前少数民族文字主要点阵字型标准包括藏文点阵字型标准、维吾尔哈萨克柯尔克孜文点阵字型标准、蒙古文点阵字型标准、傣文点阵字型标准。"
+  },
+  {
+   "cn": "字型",
+   "en": "font",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "字型",
+   "en": "font type\",\"font",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "屏幕显示字体",
+   "en": "screen font",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "空心字型",
+   "en": "outline font",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立体字",
+   "en": "shaded font",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮廓字型",
+   "en": "outlined font",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "字体大小",
+   "en": "font point size",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "点阵字模",
+   "en": "dot matrix font",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汉字字形库",
+   "en": "Hanzi font library\",\"Chinese character font library",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汉字字形码",
+   "en": "Hanzi font code\",\"Chinese character font code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "足",
+   "en": "foot",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "锋",
+   "en": "front",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "锋",
+   "en": "front",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "锋",
+   "en": "front",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "裂足",
+   "en": "cleft foot\",\"split foot",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "岬角锋",
+   "en": "promontory front\",\"cape front",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "蹼足",
+   "en": "palmate foot\",\"webbed foot",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "额",
+   "en": "frons\",\"front",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "南极锋",
+   "en": "antarctic front\",\"antarctic polar front",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "半蹼足",
+   "en": "semipalmate foot\",\"half webbed foot",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "帆下缘",
+   "en": "foot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马后蹄",
+   "en": "foot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "足",
+   "en": "bal\",\"foot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正面",
+   "en": "facial\",\"front",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非轴心脚",
+   "en": "free foot\",\"non-pivot foot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脚舵",
+   "en": "foot rudder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脚踏板",
+   "en": "foot board",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前弓面",
+   "en": "front bowface",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前锋防守球员",
+   "en": "front defender",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前绊",
+   "en": "front trip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "燕式平衡",
+   "en": "front scale",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "踏地",
+   "en": "foot plant",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打乱阵脚",
+   "en": "wrong-foot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脚违例！",
+   "en": "Foot-fault!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脚违例",
+   "en": "foot-fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打乱阵脚",
+   "en": "wrong-foot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脚违例",
+   "en": "foot fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前线团体",
+   "en": "front groups",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.9",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "一个声称自己是独立的或广泛代表社区利益的群体，但实际上他们由基金支持并代表特殊利益。"
+  },
+  {
+   "cn": "文化战线",
+   "en": "cultural front",
+   "source": "马克思主义",
+   "wordNumber": "03.0354",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东《在延安文艺座谈会上的讲话》中提出的概念，用以强调文化领域斗争的重要性。他指出：“在我们为中国人民解放的斗争中,有各种的战线,其中也可以说有文武两个战线,这就是文化战线和军事战线。”"
+  },
+  {
+   "cn": "统一战线",
+   "en": "united front",
+   "source": "马克思主义",
+   "wordNumber": "03.0360",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "无产阶级政党在一定历史条件下为反对主要敌人同其他革命阶级和一切可以团结的力量结成的联盟。是中国共产党领导中国人民进行革命和建设的一个极其重要的策略。统一战线在不同的历史时期具有不同的内容。在中国社会的"
+  },
+  {
+   "cn": "第二条战线",
+   "en": "second front",
+   "source": "马克思主义",
+   "wordNumber": "03.0367",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "解放战争时期国民党统治区广大爱国学生、工人、市民及其它阶层人民，在中国共产党领导下，反对美军暴行，反对蒋介石政权的内战、独裁、卖国政策的爱国民主运动。相对于中国共产党领导的军事斗争，称第二条战线。"
+  },
+  {
+   "cn": "壕沟足",
+   "en": "trench foot",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.6.4.2",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷损伤",
+   "subjectName": "冷损伤",
+   "publishYear": "2025",
+   "definition": "下肢长时间暴露在0-10℃湿冷环境（如战壕或防空洞）中，因站立不动或少动所致的以深部组织血管神经损伤及无菌性炎症为主的非冻结性冷损伤。"
+  },
+  {
+   "cn": "浸泡足",
+   "en": "immersion foot",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.6.4.3",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷损伤",
+   "subjectName": "冷损伤",
+   "publishYear": "2025",
+   "definition": "下肢长时间浸泡在0-10℃冷水或泥浆中静止不动或少动，局部血液循环障碍引起的非冻结性冷损伤。"
+  },
+  {
+   "cn": "解放阵线的社会主义",
+   "en": "liberation front socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0267",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "南部非洲莫桑比克公开奉行并在战火中实行的社会主义，属于非洲科学社会主义的一个流派，目标是在20世纪80年代建立一个经济相对发达、没有人剥削人的社会主义国家，被认为是“非洲第一个真正的社会主义国家”。2"
+  },
+  {
+   "cn": "抗日民族统一战线",
+   "en": "antiJapanese national united front",
+   "source": "马克思主义",
+   "wordNumber": "03.0365",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "抗日战争时期以国共合作为主体的全民族抗日的各阶级的联盟。是一个既包括工人、农民、城市小资产阶级和民族资产阶级，还包括除了汉奸、大地主、大资产阶级投降派以外的一切政治力量的广泛的统一战线。也称第二次国共"
+  },
+  {
+   "cn": "人民民主统一战线",
+   "en": "peoples democratic united front",
+   "source": "马克思主义",
+   "wordNumber": "03.0366",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在解放战争时期领导建立的包括工人、农民、城市小资产级、民族资产阶级、各民主党派、开明绅士、其他爱国分子、少数民族同胞和海外侨胞在内的广泛的统一战线。"
+  },
+  {
+   "cn": "核燃料循环前段",
+   "en": "front-end nuclear fuel cycle",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.2.14",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料",
+   "subjectName": "核燃料与乏燃料",
+   "publishYear": "2025",
+   "definition": "核燃料在核反应堆中使用前的工业过程。"
+  },
+  {
+   "cn": "统一战线的领导权",
+   "en": "leadership of the united front",
+   "source": "马克思主义",
+   "wordNumber": "03.0361",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "领导权问题是革命统一战线的最根本的问题。中国共产党对统一战线实行坚强正确的领导，是中国统一战线的根本特点，也是中国统一战线得以在长期的革命和建设实践中发挥重大作用的根本保证。"
+  },
+  {
+   "cn": "统一战线的政治基础",
+   "en": "political basis of united front",
+   "source": "马克思主义",
+   "wordNumber": "03.0368",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "能够使统一战线中不同的社会政治力量联合起来的共同政治要求和利益。如第一次国共合作的政治基础是反帝反北洋军阀的国民革命，第二次国共合作的政治基础是抗日，解放战争时期统一战线的政治基础是人民民主革命。"
+  },
+  {
+   "cn": "工农民主统一战线",
+   "en": "workers and peasants democratic united front",
+   "source": "马克思主义",
+   "wordNumber": "03.0364",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "土地革命战争时期的统一战线，是由工人、农民和小资产阶级联合起来，以反对封建压迫和国民党新军阀统治为主要目标的统一战线。"
+  },
+  {
+   "cn": "统一战线的总策略",
+   "en": "general strategy of the united front",
+   "source": "马克思主义",
+   "wordNumber": "03.0434",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "针对中国共产党内存在的对抗日统一战线产生动摇的情况，毛泽东在《目前抗日统一战线中的策略问题》中提出，中国共产党“必须采取发展进步势力、争取中间势力、反对顽固势力的策略”，以扩大和巩固抗日统一战线，争取"
+  },
+  {
+   "cn": "文化工作中的统一战线",
+   "en": "united front in the cultural field",
+   "source": "马克思主义",
+   "wordNumber": "03.0455",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于文化工作方针的重要论述。1939年10月13日，他在《文化工作中的统一战线》一文中，首次提出了这个概念。在新民主主义革命时期一是团结，二是批评、教育和改造。在社会主义时期，则是动员一切文化工"
+  },
+  {
+   "cn": "热区足浸泡性损伤",
+   "en": "foot immersion injury in hot zone",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.1.3.4",
+   "subjectFullName": "军事预防医学_热区军事卫生_热带",
+   "subjectName": "热带",
+   "publishYear": "2025",
+   "definition": "在热带环境中，人员足部长期受水浸泡导致皮肤变软，运动时受到摩擦、刺激而引起的足部损伤与继发感染。"
+  },
+  {
+   "cn": "前窗操作口高度",
+   "en": "height of operation port of front window",
+   "source": "消毒学",
+   "wordNumber": "1.8.24.8",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "前窗操作口上沿前窗玻璃到前栅格栏的垂直距离。"
+  },
+  {
+   "cn": "新时期爱国统一战线",
+   "en": "patriotic united front in the new period",
+   "source": "马克思主义",
+   "wordNumber": "03.0605",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "新时期的爱国统一战线是工人阶级领导的，以工农联盟为基础的，全体社会主义劳动者、社会主义事业的建设者、拥护社会主义的爱国者、拥护祖国统一的爱国者的最广泛联盟。它的任务主要是团结一切可以团结的力量，调动一"
+  },
+  {
+   "cn": "中央（全国）统战工作会议",
+   "en": "Central （National） Work Conference on United Front",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0059",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "党的各个时期对包括民族工作在内的统战工作做全面部署的会议统称，1950年3月至2006年7月先后召开20次全国统战工作会议，2015年、2022年先后召开两次中央统战工作会议。其中对民族工作有重要影响"
+  },
+  {
+   "cn": "统一战线策略的总原则",
+   "en": "general principle for strategies of the united front",
+   "source": "马克思主义",
+   "wordNumber": "03.0435",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "又团结又斗争（又联合又斗争），以斗争求团结，是毛泽东在《论政策》等文中阐述的中国共产党关于抗日民族统一战线策略的总原则。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

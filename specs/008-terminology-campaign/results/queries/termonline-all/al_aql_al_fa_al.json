@@ -1,10 +1,10 @@
 {
- "key": "al-'aql al-fa'al",
- "term": "al-‘aql al-fa‘âl",
+ "key": "al-'aql al-fa''al",
+ "term": "al-‘aql al-fa‘‘āl",
  "provider": "termonline-all",
- "queried_at": "2026-11-19T04:22:34+00:00",
+ "queried_at": "2026-11-19T05:36:26+00:00",
  "status": "ok",
- "note": "variant=al-‘aql al-fa‘âl; 审定公布名词库=330; 海峡两岸名词对照库=89; 其他来源数据库=86; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "note": "variant=al-‘aql al-fa‘‘āl; 审定公布名词库=437; 海峡两岸名词对照库=100; 其他来源数据库=88; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
  "hits": [
   {
    "cn": "古尔王朝",
@@ -297,6 +297,36 @@
    "definition": ""
   },
   {
+   "cn": "假fa",
+   "en": "fa fictum",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "Fas分子",
+   "en": "Fas",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "海上加油",
+   "en": "FAS",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
    "cn": "铝硅炭砖",
    "en": "corundum-silicon carbide brick\",\"Al-Si carbon brick",
    "source": "海峡两岸材料科学技术名词",
@@ -305,6 +335,16 @@
    "subjectName": "材料科学技术",
    "publishYear": "2014",
    "definition": ""
+  },
+  {
+   "cn": "耶奴发",
+   "en": "Jenůfa",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Janáček, Leoš "
   },
   {
    "cn": "金属-氧化铝-氧化物-半导体场效晶体管",
@@ -317,8 +357,8 @@
    "definition": ""
   },
   {
-   "cn": "假fa",
-   "en": "fa fictum",
+   "cn": "兰开夏唱名法",
+   "en": "Lancashire Sol-fa",
    "source": "海峡两岸音乐名词",
    "wordNumber": null,
    "subjectFullName": "音乐名词",
@@ -327,88 +367,58 @@
    "definition": ""
   },
   {
-   "cn": "水孔蛋白，水通道蛋白",
-   "en": "aquaporin\",\"AQP",
-   "source": "海峡两岸植物学名词",
+   "cn": "受精抗原-1",
+   "en": "fertilization antigen-1， FA-1",
+   "source": "海峡两岸免疫学名词",
    "wordNumber": null,
-   "subjectFullName": "植物学",
-   "subjectName": "植物学",
-   "publishYear": "2020",
-   "definition": ""
-  },
-  {
-   "cn": "水通道蛋白（=水孔蛋白）",
-   "en": "aquaporin\",\"AQP",
-   "source": "海峡两岸植物学名词",
-   "wordNumber": null,
-   "subjectFullName": "植物学",
-   "subjectName": "植物学",
-   "publishYear": "2020",
-   "definition": ""
-  },
-  {
-   "cn": "水孔蛋白，水通道蛋白",
-   "en": "aquaporin\",\"AQP",
-   "source": "海峡两岸细胞生物学名词",
-   "wordNumber": null,
-   "subjectFullName": "细胞生物学",
-   "subjectName": "细胞生物学",
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
    "publishYear": "2010",
    "definition": ""
   },
   {
-   "cn": "嵌入式结构化查询语言",
-   "en": "embedded SQL",
-   "source": "海峡两岸地理信息系统名词",
+   "cn": "受精抗原-2",
+   "en": "fertilization antigen-2， FA-2",
+   "source": "海峡两岸免疫学名词",
    "wordNumber": null,
-   "subjectFullName": "地理信息系统",
-   "subjectName": "地理信息系统",
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
    "publishYear": "2010",
    "definition": ""
   },
   {
-   "cn": "动态SQL语言",
-   "en": "dynamic SQL",
-   "source": "海峡两岸信息科学技术名词",
+   "cn": "Fas配体",
+   "en": "Fas ligand， FasL",
+   "source": "海峡两岸免疫学名词",
    "wordNumber": null,
-   "subjectFullName": "信息科学技术",
-   "subjectName": "信息科学技术",
-   "publishYear": "2008",
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
    "definition": ""
   },
   {
-   "cn": "交互式SQL语言",
-   "en": "interactive SQL",
-   "source": "海峡两岸信息科学技术名词",
+   "cn": "海上加油站",
+   "en": "FAS delivery station",
+   "source": "海峡两岸航海科学技术名词",
    "wordNumber": null,
-   "subjectFullName": "信息科学技术",
-   "subjectName": "信息科学技术",
-   "publishYear": "2008",
-   "definition": ""
-  },
-  {
-   "cn": "嵌入式SQL语言",
-   "en": "embedded SQL",
-   "source": "海峡两岸信息科学技术名词",
-   "wordNumber": null,
-   "subjectFullName": "信息科学技术",
-   "subjectName": "信息科学技术",
-   "publishYear": "2008",
-   "definition": ""
-  },
-  {
-   "cn": "全波",
-   "en": "all wave",
-   "source": "海峡两岸信息科学技术名词",
-   "wordNumber": null,
-   "subjectFullName": "信息科学技术",
-   "subjectName": "信息科学技术",
-   "publishYear": "2008",
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
    "definition": ""
   },
   {
    "cn": "《计算机科学概论》（〔美〕J.格伦·布鲁克希尔 等）",
    "en": "Computer Science: An Overview (J. Glenn Brookshear et al., USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因子分析",
+   "en": "factor analysis (FA)",
    "source": "大数据百科术语辞典",
    "wordNumber": null,
    "subjectFullName": "其他",
@@ -433,6 +443,16 @@
    "wordNumber": null,
    "subjectFullName": "其他",
    "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "义法",
+   "en": "Yi Fa / Guidelines for Writing Good Prose",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
    "publishYear": "暂无年份",
    "definition": ""
   },
@@ -567,26 +587,6 @@
    "definition": ""
   },
   {
-   "cn": "数据全域标识",
-   "en": "all-domain digital tag",
-   "source": "大数据百科术语辞典",
-   "wordNumber": null,
-   "subjectFullName": "其他",
-   "subjectName": "其他",
-   "publishYear": "暂无年份",
-   "definition": ""
-  },
-  {
-   "cn": "全源网络情报",
-   "en": "all-source network intelligence",
-   "source": "大数据百科术语辞典",
-   "wordNumber": null,
-   "subjectFullName": "其他",
-   "subjectName": "其他",
-   "publishYear": "暂无年份",
-   "definition": ""
-  },
-  {
    "cn": "淀粉样变",
    "en": "amyloidosis，AL",
    "source": "风湿免疫病学名词",
@@ -605,6 +605,16 @@
    "subjectName": "民族政治",
    "publishYear": "2025",
    "definition": "清乾隆二十二年（1757）至二十四年（1759）新疆回部伊斯兰教白山派首领波罗尼都、霍集占兄弟发动的叛乱。因兄弟二人为玛罕木特和卓之子，故其乱称为大小和卓之乱。"
+  },
+  {
+   "cn": "以礼入法",
+   "en": "yi li ru fa",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.12",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "主张通过德教维持礼、以礼为维持社会秩序的儒家与主张通过法律制裁维持法律、以法律为维持社会秩序的法家之间的对立逐渐消失，法律的内容、审判的过程受礼的影响，律与礼互为表里的过程。瞿同祖先生在分析传统中国法"
   },
   {
    "cn": "天下",
@@ -775,16 +785,6 @@
    "subjectName": "马克思恩格斯时期",
    "publishYear": "2025",
    "definition": "1869年8月7—9日在爱森纳赫城举行的全德社会民主派代表大会。参加大会的有德意志工人协 会联合会，退出全德工人联合会的部分会员以及第一国际在德国的9个支部和工会的代表共262人，代表193个地区。大"
-  },
-  {
-   "cn": "全体学生测试制度",
-   "en": "physical fitness test regulation to all students",
-   "source": "儿少与学校卫生学名词",
-   "wordNumber": "3.4.4.2",
-   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
-   "subjectName": "学生体质健康调研",
-   "publishYear": "2025",
-   "definition": "按照《国家学生体质健康标准》要求，各级各类学校每学年对本校全体学生进行体质健康测试，并将测试数据汇总整理，按照规定的权限、程序和方法上报至国家学生体质健康标准数据管理系统的一种工作制度。"
   }
  ],
  "error": null,

@@ -1,0 +1,62 @@
+{
+ "key": "fazekas kertesz",
+ "term": "Fazekas Kertész",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:29:18+00:00",
+ "status": "ok",
+ "note": "variant=Fazekas Kertész; 审定公布名词库=2; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "法尔卡斯引理",
+   "en": "Farkas’ lemma",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.110",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "线性不等式系统的可求解性定理，也是支撑线性规划对偶性的关键理论结果。"
+  },
+  {
+   "cn": "福科什引理",
+   "en": "Farkas lemma",
+   "source": "数学名词",
+   "wordNumber": "011.0056",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "凯尔泰斯",
+   "en": "Kertesz\",\"Istvan(匈牙利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法尔卡斯，厄顿",
+   "en": "Farkas\",\"Ödön(匈牙利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法尔卡斯，费伦茨",
+   "en": "Farkas\",\"Ferenc(匈牙利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,672 @@
+{
+ "key": "seyler frederic",
+ "term": "Seyler Frédéric",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:40:15+00:00",
+ "status": "ok",
+ "note": "variant=Seyler Frédéric; 审定公布名词库=370; 海峡两岸名词对照库=148; 其他来源数据库=43; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "卖方",
+   "en": "seller",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0429",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "提供产品、服务或结果的供应方。"
+  },
+  {
+   "cn": "畅销书",
+   "en": "best seller",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.040",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "在一定时期内销量大的一般图书。"
+  },
+  {
+   "cn": "畅销书",
+   "en": "best seller",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.056",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "受到读者热烈欢迎、销售量很高的图书。"
+  },
+  {
+   "cn": "畅销品",
+   "en": "best seller",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0662",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "销售得非常好的商品。"
+  },
+  {
+   "cn": "赛弗特星系",
+   "en": "Seyfert galaxy; Seyfert",
+   "source": "天文学名词",
+   "wordNumber": "07.180",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "星系核极亮且具有强而宽发射线的活动星系，常有旋臂结构。因美国天文学家赛弗特于1943年首先发现而得名。"
+  },
+  {
+   "cn": "间歇泉",
+   "en": "geyser",
+   "source": "地质学名词",
+   "wordNumber": "16.01.182",
+   "subjectFullName": "地质学_水文地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "从地下间断地喷射出热水和蒸汽的泉。"
+  },
+  {
+   "cn": "播种机",
+   "en": "seeder",
+   "source": "风景园林名词",
+   "wordNumber": "08.1134",
+   "subjectFullName": "风景园林_风景园林工程_风景园林机械",
+   "subjectName": "风景园林机械",
+   "publishYear": "2025",
+   "definition": "以作物种子为播种对象的种植机械。"
+  },
+  {
+   "cn": "传送者",
+   "en": "sender",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.107",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "讯息的发出方。"
+  },
+  {
+   "cn": "经销商",
+   "en": "dealer",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.02.009",
+   "subjectFullName": "编辑与出版学_发行与经营_发行者",
+   "subjectName": "发行者",
+   "publishYear": "2022",
+   "definition": "向供应商采购出版物，以自身或他人名义开展经营活动的发行者。"
+  },
+  {
+   "cn": "服务器",
+   "en": "server ",
+   "source": "草学名词",
+   "wordNumber": "3.0418",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "封缄",
+   "en": "sealed ",
+   "source": "草学名词",
+   "wordNumber": "4.006",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "播种机",
+   "en": "seeder ",
+   "source": "草学名词",
+   "wordNumber": "6.0456",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "吻针",
+   "en": "stylet",
+   "source": "动物学名词",
+   "wordNumber": "5.1113",
+   "subjectFullName": "动物学_无脊椎动物学_纽形动物门",
+   "subjectName": "纽形动物门",
+   "publishYear": "2021",
+   "definition": "有针纽虫的吻所具有的一种钉形构造。位于吻的中部（即武装型吻的中区），当吻完全外翻时位于前端，用于攻击猎物。"
+  },
+  {
+   "cn": "口针",
+   "en": "stylet",
+   "source": "动物学名词",
+   "wordNumber": "5.1171",
+   "subjectFullName": "动物学_无脊椎动物学_线虫动物门",
+   "subjectName": "线虫动物门",
+   "publishYear": "2021",
+   "definition": "植物寄生线虫口腔内的针刺状结构。能穿刺植物的细胞和组织，并且向植物组织内分泌消化酶，消化寄主细胞中的物质，然后吸入食道。部分吸虫的尾蚴其口部也有此结构，具刺穿功能。"
+  },
+  {
+   "cn": "定标器",
+   "en": "scaler",
+   "source": "物理学名词",
+   "wordNumber": "09.0719",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "松石撬落机",
+   "en": "scaler",
+   "source": "冶金学名词",
+   "wordNumber": "02.1161",
+   "subjectFullName": "冶金学_采矿_矿山机电",
+   "subjectName": "矿山机电",
+   "publishYear": "2019",
+   "definition": "撬下顶板松石的辅助支护机械。"
+  },
+  {
+   "cn": "定标器",
+   "en": "scaler",
+   "source": "核医学名词",
+   "wordNumber": "03.0192",
+   "subjectFullName": "核医学_核医学设备与操作_探测设备",
+   "subjectName": "探测设备",
+   "publishYear": "2018",
+   "definition": "一种记录脉冲数目的设备。与计数管或闪烁探测器组合，可构成计数测量装置，用于放射性活度的测量。"
+  },
+  {
+   "cn": "服务器",
+   "en": "server",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0029",
+   "subjectFullName": "计算机科学技术_通论_计算机系统类型",
+   "subjectName": "计算机系统类型",
+   "publishYear": "2018",
+   "definition": "一种普通用户需要通过网络才能访问的、性能较高的商用计算机，可向多个用户提供计算、数据、文件、电子邮件、打印、游戏等各种应用服务。"
+  },
+  {
+   "cn": "自营商",
+   "en": "dealer",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0744",
+   "subjectFullName": "管理科学技术_金融工程_金融市场与机构",
+   "subjectName": "金融市场与机构",
+   "publishYear": "2016",
+   "definition": "证券业内以本金买卖而非代理买卖证券，并且为自己的账户进行交易并持有头寸的个人或公司。"
+  },
+  {
+   "cn": "定标器",
+   "en": "scaler",
+   "source": "化学名词",
+   "wordNumber": "06.0132",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "射线探测装置的1个单元，记录来自射线探测器及其后的脉冲放大器、脉冲成形-幅度甄别电路的电压脉冲信号的数目，一般包含1个或多个分频电路及时钟电路，可直接读出单位时间记录到的脉冲数目。"
+  },
+  {
+   "cn": "封堵剂",
+   "en": "sealer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "密封器",
+   "en": "sealer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "卖方发货人",
+   "en": "seller-consignor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "克利夫",
+   "en": "Cliffe\",\"Frederic(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "热夫斯基",
+   "en": "Rzewski\",\"Frederic(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肖邦",
+   "en": "Chopin\",\"Frederic(波兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沉降器",
+   "en": "settler",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "定标器",
+   "en": "scaler",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "小针刺",
+   "en": "stylet",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "间歇泉",
+   "en": "geyser",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "服务器",
+   "en": "server",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定标器",
+   "en": "scaler",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "服务器",
+   "en": "server",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "寻标器",
+   "en": "seeker",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "剥皮机",
+   "en": "peeler",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "除鳞机",
+   "en": "scaler",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "塞尺，量隙规",
+   "en": "feeler",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "围网渔船",
+   "en": "seiner",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "戴尔朗热",
+   "en": "D'Erlanger\",\"Barun Frederic(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "考恩",
+   "en": "Cowen\",\"Frederic Hymen(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "服务器",
+   "en": "server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发球队员",
+   "en": "server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发球队员",
+   "en": "server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二传手",
+   "en": "setter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传球队员",
+   "en": "setter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发球队员",
+   "en": "server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Solr服务器",
+   "en": "Solr server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "ElasticSearch服务器",
+   "en": "ElasticSearch server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据库服务器",
+   "en": "database server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络服务器",
+   "en": "web server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用服务器",
+   "en": "application server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文件服务器",
+   "en": "file server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "服务器托管",
+   "en": "server hosting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双打发球方",
+   "en": "server pair",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二发球队员",
+   "en": "second server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球队员",
+   "en": "first server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球队员",
+   "en": "first server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双打发球方",
+   "en": "server pair",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定标器",
+   "en": "scaler",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.56",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "能够记录任意选定时间间隔内的脉冲总数并把测量结果直接用数字显示的仪表。通常用在辐射测量装置的最后一级，记录测量到的信号数目。"
+  },
+  {
+   "cn": "密封源",
+   "en": "sealed source",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.4",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "永久密封在包壳里的或紧密地固结在覆盖层里并呈固体形态的放射性物质。"
+  },
+  {
+   "cn": "患者",
+   "en": "health-seeker",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.027",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "基于医疗需求并实施就医行为的人。"
+  },
+  {
+   "cn": "患者权利",
+   "en": "health-seeker right",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.0280000000000005",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者享有的从国家和社会获得医疗服务的权利。"
+  },
+  {
+   "cn": "密封容器",
+   "en": "hermetically sealed container",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.9",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "用以防止微生物入侵，从而确保杀菌后食品商业无菌的容器。"
+  },
+  {
+   "cn": "军用密闭舱室",
+   "en": "military sealed cabin",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.3.2.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军用化学物质毒理安全评价",
+   "subjectName": "军用化学物质毒理安全评价",
+   "publishYear": "2025",
+   "definition": "相对独立于自然环境，以狭小密闭、空气难以流通及存在多种有害因素联合暴露为主要特点的人工军事作业空间。涵盖坦克、装甲车、核潜艇、战斗机、坑道等我军作战与勤务部门主要支撑装备的作业区域。"
+  },
+  {
+   "cn": "密封放射源容器",
+   "en": "container of sealed radiation sources",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "专用于存放密封放射源且能屏蔽（或减弱）密封源辐射，使容器外部的泄漏辐射水平满足相应标准的容器。"
+  },
+  {
+   "cn": "党的三大作风",
+   "en": "three main styles of the party",
+   "source": "马克思主义",
+   "wordNumber": "03.0488",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "理论联系实际、密切联系群众，以及批评和自我批评的作风。毛泽东1945年在中共七大政治报告中第一次明确概括提出并作全面阐述。三大作风是无产阶级世界观即辩证唯物主义和历史唯物主义在党内生活和党的工作实践中"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

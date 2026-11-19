@@ -1,0 +1,592 @@
+{
+ "key": "xing ben shan",
+ "term": "xìng bĕn shàn",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:39:34+00:00",
+ "status": "ok",
+ "note": "variant=xìng bĕn shàn; 审定公布名词库=342; 海峡两岸名词对照库=21; 其他来源数据库=13; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "SH波",
+   "en": "SH wave",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0652",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "位移分量平行于界面的横波。 "
+  },
+  {
+   "cn": "NG2蛋白聚糖",
+   "en": "neuron-glial antigen 2 proteoglycan;NG2 proteoglycan",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "6.0302",
+   "subjectFullName": "生物化学与分子生物学_糖类_糖复合物_单糖衍生物",
+   "subjectName": "单糖衍生物",
+   "publishYear": "2024",
+   "definition": "具有最大核心蛋白质的跨膜蛋白聚糖。主要存在于神经元细胞中，在发育的间质细胞和人黑色素瘤细胞中也有。其细胞外结构域上连接着2～3条硫酸软骨素链。"
+  },
+  {
+   "cn": "SH型运动",
+   "en": "SH-type motion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0651",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "振动方向与波传播方向垂直且平行于界面的一种运动。 "
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain,SH domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.031",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "首先在Src蛋白中发现的几个高度保守的结构域。Src的蛋白产物是细胞膜上的酪氨酸蛋白激酶，其家族中其他蛋白与Src具有同源性的结构域。可与受体酪氨酸激酶磷酸化残基以及信号转导蛋白紧密结合，形成多蛋白复"
+  },
+  {
+   "cn": "SH2[结构]域",
+   "en": "src homology 2 domain,SH2 domain",
+   "source": "生理学名词",
+   "wordNumber": "02.259",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain,SH1 domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.032",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "Src家族激酶中具有催化活性的结构域。"
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2,SH2",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.033",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "胞内信号分子所具有的一个高度保守而无催化活性的、可与磷酸化酪氨酸结合的Src同源区。主要介导蛋白质之间的相互作用。参与形成信号复合体和组成信号转导链。"
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3,SH3",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.034",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "胞内信号分子所具有的一个高度保守而无催化活性的、主要与PXXP序列相结合的Src同源区。在分子之间传递信号。"
+  },
+  {
+   "cn": "SH2结构域",
+   "en": "Src homology 2 domain;SH2 domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0248",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "信号转导蛋白质胞内域中能与磷酸化酪氨酸结合的一段序列。最初在与SRC癌基因家族产物同源的受体酪氨酸激酶中发现，但是因其与SH1催化结构域不同而被命名为SH2结构域。主要介导蛋白质之间的相互作用。参与形"
+  },
+  {
+   "cn": "SH3结构域",
+   "en": "Src homology 3 domain;SH3 domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0249",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "信号转导蛋白质胞内域中能与可以与脯氨酸丰富区结合的一段序列。因为与SRC家族酪氨酸激酶有同源序列，却与其催化结构域SH1不同而命名为SH3结构域。主要介导蛋白质之间的相互作用，是生成信号复合体和组成信"
+  },
+  {
+   "cn": "SH型静态混合器",
+   "en": "SH type static mixer",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1677",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "由双孔道组成SH单元，孔道内放置螺旋片，相邻混合单元双孔道的方位错位90°，混合单元之间设有流体再分配室的混合器。"
+  },
+  {
+   "cn": "善本",
+   "en": "shan ben;rare book",
+   "source": "中国古代史名词",
+   "wordNumber": "1.384",
+   "subjectFullName": "中国古代史_通论_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "具有较高历史文物性、学术资料性、艺术代表性的古书。当代编纂的《中国善本书总目》概括了其收录原则和鉴别标准。"
+  },
+  {
+   "cn": "进画颁行",
+   "en": "jin hua ban xing",
+   "source": "档案学名词",
+   "wordNumber": "07.03.009",
+   "subjectFullName": "档案学_历史文书_文书制度",
+   "subjectName": "文书制度",
+   "publishYear": "2024",
+   "definition": "唐宋文书处理制度。指臣僚进呈文件给皇帝审阅，皇帝在文书末尾空白处签署意见，画 “行”等批语表示同意，然后颁下执行。"
+  },
+  {
+   "cn": "版本学",
+   "en": "ban ben xue;textual history",
+   "source": "中国古代史名词",
+   "wordNumber": "1.709",
+   "subjectFullName": "中国古代史_通论_学科术语",
+   "subjectName": "学科术语",
+   "publishYear": "2022",
+   "definition": "考辨书籍流传版本的学问。包括辨识书籍编纂、抄刻、装订、版式、题钤等特征，理出各种文本先后传承的源流和优劣真伪，研究、总结相关经验和义例，以便整理形成更符编纂原貌的新版本。"
+  },
+  {
+   "cn": "舜",
+   "en": "Shun;Sage Emperor Shun",
+   "source": "中国古代史名词",
+   "wordNumber": "2.008",
+   "subjectFullName": "中国古代史_先秦_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "都于蒲坂（今山西永济西），禅位于禹的上古帝王。相传名重华，姚姓，号“有虞氏”，又称“虞舜”。幼有孝行，在位曾整顿官制，巡视四方，命禹治水，是善于治理天下的圣王。"
+  },
+  {
+   "cn": "瓣",
+   "en": "ban",
+   "source": "建筑学名词",
+   "wordNumber": "03.0028",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "宋式名称。传统建筑斗栱卷杀做法中，对栱头两端之下缘斫成的若干连续斜折面。宋《营造法式》将每一折面，称为一瓣。"
+  },
+  {
+   "cn": "面元",
+   "en": "bin",
+   "source": "石油名词",
+   "wordNumber": "03.0801",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "邢窑",
+   "en": "Xing yao;Xing kiln",
+   "source": "中国古代史名词",
+   "wordNumber": "5.239",
+   "subjectFullName": "中国古代史_隋唐五代_思想文化_科技",
+   "subjectName": "科技",
+   "publishYear": "2022",
+   "definition": "位于今河北邢台内丘和临城祁村一带的唐代制瓷窑群。其所生产优质白瓷，以釉色洁白、器壁轻薄、扣之音响若磬著称，与越窑的青瓷共同代表了唐代制瓷业的最高水平。世称南青北白，至宋元逐渐衰落。"
+  },
+  {
+   "cn": "肃慎",
+   "en": "Su Shen;Su Shen People",
+   "source": "中国古代史名词",
+   "wordNumber": "2.491",
+   "subjectFullName": "中国古代史_先秦_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "分布于长白山以北地区的古代族群。相传三代时期曾来朝贡，后以此泛指活跃于该地区的众多族群。"
+  },
+  {
+   "cn": "山越",
+   "en": "Shan Yue;Shan Yue Aborigines",
+   "source": "中国古代史名词",
+   "wordNumber": "4.346",
+   "subjectFullName": "中国古代史_魏晋南北朝_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "汉末至孙吴分布于东南丘陵山区的土著族群。汉末以来被视为古越人后裔，成分复杂。孙吴时以暴力掳抄其地，驱赶其人，以此扩大兵源，补充佃客，自此衰落。"
+  },
+  {
+   "cn": "SH2域",
+   "en": "Src homology 2 domain\",\"SH2 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH3域",
+   "en": "Src homology 3 domain\",\"SH3 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "NG2 蛋白聚糖",
+   "en": "NG2 proteoglycan",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain\",\"SH domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain\",\"SH1 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2domain\",\"SH2 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3domain\",\"SH3 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "孟诜",
+   "en": "Meng Shen",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "干燥箱",
+   "en": "drier bin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "料仓卸料器",
+   "en": "bin discharger",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "料仓松动器",
+   "en": "bin activator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "进口限制",
+   "en": "import ban",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "装箱问题",
+   "en": "bin packing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "禁止出口",
+   "en": "ban on export",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "禁止进口",
+   "en": "ban on import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "朱思本",
+   "en": "Ju Sz-ben",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "解除出口禁令",
+   "en": "removal of export ban",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "铌酸钡钠",
+   "en": "barium sodium niobate，BNN",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "邢窑白瓷",
+   "en": "white porcelain from Xing kiln",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "本-海姆",
+   "en": "Ben-Haim\",\"Paul(以色列)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "护胫",
+   "en": "shin guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性",
+   "en": "Xing (Nature)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神",
+   "en": "Shen (Spirit / Spiritual)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "护腿板",
+   "en": "leg guard\",\"leg pad\",\"shin guard\",\"shin pad",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护腿板",
+   "en": "leg guard\",\"leg pad\",\"shin guard\",\"shin pad",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护腿板",
+   "en": "leg guard\",\"shin guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "禁止密集聚会",
+   "en": "ban mass gatherings",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非乐",
+   "en": "Oppose and Ban Music",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "BAN类逻辑",
+   "en": "Burrows-Abadi-Needham (BAN) logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "本末",
+   "en": "Ben and Mo (The Fundamental and the Incidental)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全面禁止核试验条约组织筹备委员会",
+   "en": "Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "山戎",
+   "en": "Shan Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0088",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。戎人一支。先秦时活动于今河北省北部燕山一带。以林中狩猎和游牧为生，略知农耕。不时南侵中原，成为燕、齐诸国之边患。春秋末期渐衰，后融入邻族。"
+  },
+  {
+   "cn": "山越",
+   "en": "Shan Yue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0158",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "先秦古族名。主要活动于长江中游，支系众多，方国林立，不相统属。曾助武王伐商，战国时与楚国互动密切，先后渐渐融合于楚、汉，或部分沿长江而上居于川黔交界地带，今苗族、仡佬族或为其后裔，或与濮人有文化渊源。"
+  },
+  {
+   "cn": "苯教",
+   "en": "Bon po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0436",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "中国本土宗教之一，西藏古代盛行的一种原始宗教。崇奉天地、山林、水泽的神鬼精灵和自然物，重祭祀、占ト、禳解等。在吐蕃王朝前期苯教占统治地位，佛教传入西藏后，势力渐衰，后吸收佛教内容，改佛经为苯经，繁衍教"
+  },
+  {
+   "cn": "本主节",
+   "en": "Ben Zhu Festival",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0233",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "白族的传统祭祀节日，白族的宗教信仰本主崇拜。本主又称本主神，白语称“武增”等，意为“我们的主人”。本主崇拜源于原始社会社神的崇拜和农耕祭祀，在南诏时期即已形成，后历经数百年的发展，本主数量不断增加，文"
+  },
+  {
+   "cn": "就仓干燥",
+   "en": "in-bin drying",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.23",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "新收获的高水分粮食按规定装入符合条件的仓房后,就在原仓采用机械通风方式干燥,干燥完成后粮食继续在该仓内储藏的技术。"
+  },
+  {
+   "cn": "[美苏]限制地下核武器试验条约",
+   "en": "Threshold Test Ban Treaty，TTBT",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.4",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1963年签订《部分禁止核试验条约》后，地下核试验没有停止，迫于国际社会的压力，1974年7月3日美、苏签订了《限制地下核武器试验条约》。1990年两国议会分别批准该条约。"
+  },
+  {
+   "cn": "全面禁止核试验条约",
+   "en": "Comprehensive Nuclear Test Ban Treaty，CTBT",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.6",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1996年9月10日联合国第50届大会通过《全面禁止核试验条约》。截至2006年10月，已有176个国家签署了该条约。缔约国承诺不进行任何核武器爆炸，禁止和防止任何种类核爆炸，承诺不导致、不鼓励以任何"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
