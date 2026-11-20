@@ -444,7 +444,7 @@
 | Biale, David | — | 戴维·比亚莱 | 美国 | 1949–2024 | scholem | 学界通行汉译（朔勒姆研究）；凭证 2026-11-08 | 2026-11-08 |
 | Bialik, Chaim Nachman | — | 哈伊姆·纳赫曼·比亚利克 | 俄罗斯帝国生，以色列 | 1873–1934 | scholem | 学界通行汉译（希伯来民族诗人）；凭证 2026-11-08 | 2026-11-08 |
 | Bianchi, Luca | — | 卢卡·比安基 | 意大利 | 1957– | condemnation | 学界惯例（音译，都灵中世纪哲学史家）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 14314863X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Biard, Joël | Joël Biard | Joël Biard（现代学者，保留英文） | 法国／中世纪哲学史家 | — | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
+| Biard, Joël | Joël Biard | Joël Biard（现代学者，保留英文） | 法国 | 1952– | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q3187359（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Bias of Priene | Bias | 普里耶涅的比阿斯 | 希腊（普里耶涅） | 约前 6 世纪 | heraclitus | 学界通行汉译（七贤之一）；凭证 2026-11-09 | 2026-11-09 |
 | Bibago, Abraham | — | 亚伯拉罕·比巴戈 | 西班牙／犹太哲学 | 约1420–1489 | albo-joseph | 犹太哲学史通行音译；籍属/生卒联网查证：Wikidata Q329773（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Bieberbach, Ludwig | — | 路德维希·比伯巴赫 | 德国 | 1886–1982 | brouwer | 数学界通行汉译（比伯巴赫猜想）；1933 年加入冲锋队；凭证 2026-11-12 | 2026-11-12 |
@@ -584,7 +584,7 @@
 | Brod, Max | — | 马克斯·布罗德 | 奥匈（布拉格） | 1884–1968 | ehrenfels | 学界通行汉译（卡夫卡挚友、传记作者）；凭证 2026-11-13 | 2026-11-13 |
 | Brom, Luco Johan van den | — | Luco Johan van den Brom（现代学者，保留英文） | 荷兰／神学 | 1946– | omnipresence | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 131373323（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv） | 2026-11-14 |
 | Bromberger, Sylvan | — | 西尔万·布罗姆伯格 | 美国 | 1923–2013 | scientific-explanation-20th | 本库首译（MIT；问句逻辑于语用解释论有先导之功）；凭证 2026-11-10 | 2026-11-10 |
-| Brook Ziporyn | 任博克 | 任博克 | 美国 | — | zhu-xi | 学界通行汉译（华严/天台研究，中文名自取）；凭证 2026-11-15 | 2026-11-15 |
+| Brook Ziporyn | 任博克 | 任博克 | 美国 | 1964– | zhu-xi | 学界通行汉译（华严/天台研究，中文名自取）；凭证 2026-11-15；籍属/生卒联网查证：Wikidata Q4974371（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Brooke, Lord (Robert Greville) | Lord Brooke | 布鲁克勋爵 | 英国 | 1607–1643 | cambridge-platonists | 学界通行音译（议会派领袖，斯特里的庇护人）；凭证 2026-11-09 | 2026-11-09 |
 | Brooks, E. Bruce | — | 白牧之 | 美国 | 1936– | confucius | 学界通行汉名（《论语辨》The Original Analects 合译者，与白妙子 A. Taeko Brooks 并称）；凭证 2026-11-12 confucius r2；籍属/生卒联网查证：GND 规范标目 gnd 173291058（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Brooks, Rodney | — | 罗德尼·布鲁克斯 | 美国／计算机科学 | 1954– | bodily-awareness | 学界通行汉译（具身人工智能研究者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 123717221（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv） | 2026-11-14 |
@@ -601,7 +601,7 @@
 | Brueckner, Anthony | — | 安东尼·布鲁克纳 | 美国 | 1953– | closure-epistemic | 学界通行音译（怀疑论与先验论证）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 1074970837（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv） | 2026-11-14 |
 | Bruegel, Pieter | — | 彼得·勃鲁盖尔 | 荷兰 | 1525–1569 | ingarden | 艺术史通行汉译（《伊卡洛斯的坠落》）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118674013（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Bruguière, Jane de | Jane de Bruguière | 简·德·布吕吉埃 | — | — | bayle | 培尔之母，学界通行音译 | 2026-11-08 |
-| Brukner, Časlav | — | 恰斯拉夫·布鲁克纳 | 克罗地亚／奥地利／量子物理 | — | quantum-bayesian | 学界通行音译（维也纳量子基础、观察者无关事实不可行定理）；凭证 2026-11-12 | 2026-11-12 |
+| Brukner, Časlav | — | 恰斯拉夫·布鲁克纳 | 克罗地亚／奥地利／量子物理 | 1967– | quantum-bayesian | 学界通行音译（维也纳量子基础、观察者无关事实不可行定理）；凭证 2026-11-12；籍属/生卒联网查证：Wikidata Q19959080（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Brumberg-Chaumont, Julie | — | Julie Brumberg-Chaumont（现代学者，保留英文） | 法国 | fl. 1998 | william-sherwood | ADR-0022（离散词项研究）；籍属/生卒联网查证：GND 规范标目 gnd 1046661868（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Bruno, Giordano / Giordano Bruno | — | 乔尔丹诺·布鲁诺 | 意大利 | 1548–1600 | copernicus；18thGerman-preKant | 学界千年通行汉译；与 Bauer, Bruno 异人分立；凭证 2026-11-12 copernicus r2；2026-11-13 重复行合并（旧键 `Giordano Bruno`） | 2026-11-13 |
 | Brutus, Marcus Junius | — | 布鲁图斯 | 古罗马 | 前84–前41 | godwin | 学界通行汉译（罗马共和国政治家）；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：Wikidata Q172248（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -633,7 +633,7 @@
 | Burckhardt, Jakob | — | 雅各布·布克哈特 | 瑞士 | 1818–1897 | scholem | 学界通行汉译（《意大利文艺复兴时期的文化》）；凭证 2026-11-08 | 2026-11-08 |
 | Burge, Tyler | — | Tyler Burge | 美国 | 1946– | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 129529575（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv） | 2026-11-14 |
 | Burgess, John P. | — | John P. Burgess（现代学者，保留英文） | 美国 | 1948– | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 139005250（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Buridan, John [Jean] / John Buridan | — | 让·布里丹（正文简作“布里丹”） | 德国 | 1300–1358 | duhem；首现（william-sherwood） | SUMMARY 定名沿用（学界通行汉译；SUMMARY b/buridan 行）；凭证 2026-11-06；2026-11-13 重复行合并（旧键 `John Buridan`）；籍属/生卒联网查证：GND 规范标目 gnd 118818864（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
+| Buridan, John [Jean] / John Buridan | — | 让·布里丹（正文简作“布里丹”） | 法国（皮卡第） | 约1300–1361 | duhem；首现（william-sherwood） | SUMMARY 定名沿用（学界通行汉译；SUMMARY b/buridan 行）；凭证 2026-11-06；2026-11-13 重复行合并（旧键 `John Buridan`）；籍属/生卒联网查证：GND 规范标目 gnd 118818864（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；籍属/生卒联网查证：SEP 原文 en/singular-terms-medieval:214（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Burke, Edmund | — | 埃德蒙·伯克 | 爱尔兰／英国／政治哲学 | 1729–1797 | aesthetics-18th-british | 学界千年通行（《关于崇高与美观念起源的哲学探讨》作者）；籍属/生卒联网查证：GND 规范标目 gnd 118517708（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv） | 2026-11-14 |
 | Burks, Arthur | — | 阿瑟·伯克斯 | 美国 | 1915–2008 | computing-history | 学界通行汉译（ENIAC、IAS 计算机设计者）；凭证 2026-11-10 | 2026-11-09 |
 | Burley, Walter / Burleigh / Walter Burley | — | 沃尔特·伯利 | 英国／神学 | 1275–1345 | buridan；richard-sophister | 学界通行汉译（14 世纪英格兰逻辑学家）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Walter Burley`）；籍属/生卒联网查证：GND 规范标目 gnd 11867496X（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv） | 2026-11-14 |
