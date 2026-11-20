@@ -17,6 +17,7 @@
 凭证：specs/013-person-attribution/results/verify-2026-11-13.tsv
 退出码：0 成功／干跑完成；1 前置门未过（拒绝写回）。
 """
+import datetime
 import io
 import os
 import sys
@@ -27,7 +28,7 @@ REG = os.path.join(ROOT, 'ren-ming-biao.md')
 DEFAULT_LEDGER = os.path.join(ROOT, 'specs', '013-person-attribution',
                               'results', 'verify-2026-11-13.tsv')
 OLD_TAG = '籍属/生卒据学界通行（2026-11-13 补）'
-DATE = os.environ.get('LEDGER_DATE', '2026-11-14')
+DATE = os.environ.get('LEDGER_DATE') or datetime.date.today().isoformat()
 
 
 def load_ledger(path):

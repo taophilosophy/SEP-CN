@@ -1,4 +1,4 @@
-# 未闭合告警清偿台账（2026-11-21）
+# 未闭合告警清偿台账（2026-11-20）
 
 用户指令：「解决所有欠账」，对象为 2026-11-20 两表全量复核登记的两项未闭合告警。
 
@@ -8,9 +8,9 @@
 | ---- | --: | ---- |
 | 显式配对回填 | 9 | 梵文天城体 5（अद्वयज्ञान／चतुःशतक／चित्राद्वैत／कर्म／सिद्धान्त，wisdomlib 条目页显式配对）、阿拉伯文 4（حنبلي／ماتريدي／الشافعي／صفات，GND 规范档变体形） |
 | 误报豁免 | 2 | `Löwenheim–Skolem–Tarski theorem`（英文定理名）、`Great Learning（王阳明《大学问》）`（英文题名＋中文分行注），入 `check_terms.py` 的 `ORIG_EDITORIAL_PAREN` |
-| 查无终态注记 | 87 | 依据列注「工具书查无原生文字（2026-11-21 检 wisdomlib／GND／BDRC／84000／Logeion，均无显式配对，部分源不可达；映射表推演禁用，ADR-0030）」 |
+| 查无终态注记 | 87 | 依据列注「工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无显式配对，部分源不可达；映射表推演禁用，ADR-0030）」 |
 
-映射表推演（IAST／DIN 31635／Wylie 正推逆推）全程未用。manifest：`specs/008-terminology-campaign/results/orig-fill-2026-11-21.json`、`orig-no-native-2026-11-21.json`。
+映射表推演（IAST／DIN 31635／Wylie 正推逆推）全程未用。manifest：`specs/008-terminology-campaign/results/orig-fill-2026-11-20.json`、`orig-no-native-2026-11-20.json`。
 
 告警数仍为 87 属设计使然——术语表「逐条告警施压」（ADR-0030），已注终态者不再视为待办。
 
@@ -21,7 +21,7 @@
 1. 单条查询 → 批量查询（每批 5 键 OR，size 100），540 批跑完全部 2,696 键，取 GND `geographicAreaCode`（籍属权威字段）、`dateOfBirth`／`dateOfDeath`／`periodOfActivity`、`professionOrOccupation`。
 2. 分诊五类（严格姓氏 + 首名 + 职业三重判据）：A 唯一带年代候选 608／B 多候选 501／C 有候选无年代 206／D 无候选 1,012／X 键形特殊（双形、单名）369。
 3. A 类机器预采 + 抽样复核；B 类逐条人读消歧（501 条全读过：采纳 326、放弃 175）；X 类古代人物逐条核（26 条）。
-4. 凭证 `results/verify-2026-11-21-gnd-a.tsv`（816 行，含 GND 编号 + URL + 判定备注），复用 `bin/apply_person_meta.py` 护栏写回（前置门残余 0、幂等、只写第 4/5/7/8 列）。
+4. 凭证 `results/verify-2026-11-20-gnd-a.tsv`（816 行，含 GND 编号 + URL + 判定备注），复用 `bin/apply_person_meta.py` 护栏写回（前置门残余 0、幂等、只写第 4/5/7/8 列）。
 
 **同名错配防线（试金石实证，重要教训）**
 
