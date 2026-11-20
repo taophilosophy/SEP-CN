@@ -220,10 +220,24 @@ def build_queue(web_items, arch_items):
     return q
 
 
+def _human_source(key, val):
+    """单条数据源状态 → 人话（替代裸 JSON/dict repr）。"""
+    if val.startswith("live:"):
+        return "%s 正常（HTTP %s）" % (key, val[5:])
+    if val.startswith("local:"):
+        return "%s 本地文件" % key
+    if val.startswith("unavailable:"):
+        return "%s 不可用（%s）" % (key, val[12:])
+    if val == "ok":
+        return "%s 正常" % key
+    return "%s %s" % (key, val)
+
+
 def render_queue_md(doc):
     """队列 → Markdown 摘要（CI issue 正文用）。"""
     L = ["## 上游变更待办（new.html ＋ 版次核对）", ""]
-    L.append("- 源：%s" % json.dumps(doc.get("sources", {}), ensure_ascii=False))
+    L.append("- 数据源：%s" % "；".join(_human_source(k, v)
+                                      for k, v in doc.get("sources", {}).items()))
     q = doc.get("queue", [])
     L.append("- 窗口：近 %s 个月；队列 %d 条" % (doc.get("window_months"), len(q)))
     L.append("")

@@ -1,4 +1,4 @@
-name: 🔃 SEP 上游目录漂移巡检
+name: SEP 上游目录漂移巡检
 
 # 每日三次抓取 plato.stanford.edu/contents.html，与本地三账（baseline/catalog.json、
 # SUMMARY.md、mu-lu-s.md）四方对比，并做 B3.2 装配核验（specs/054）；有漂移或上游
@@ -7,6 +7,11 @@ name: 🔃 SEP 上游目录漂移巡检
 # 原则（specs/054 §3 单向波纹）：本工作流只读、只报告。
 #   不写 baseline、不改 SUMMARY/mu-lu-s、不提交任何内容文件；落地由人工或本地会话做。
 # 时间：UTC 01/09/17 点 = 北京时间 09:00 / 17:00 / 次日 01:00。
+#
+# 日志纪律：各 step 的 stdout 只打一行人话摘要；机器可读 JSON 一律落
+# $RUNNER_TEMP 文件进 artifact，不直接刷进 Actions 日志。
+# 注意：issue 组装 step 的 echo 一律不用反引号包命令——bash 双引号内反引号
+# 是命令替换，会把工具真跑一遍并把 JSON 拼进 issue 正文（2026-11-21 修复）。
 
 on:
   workflow_dispatch:
@@ -35,7 +40,8 @@ jobs:
         id: fetch
         run: |
           set -o pipefail
-          python tools/fetch_catalog.py --snapshot-only | tee "$RUNNER_TEMP/fetch.json"
+          python tools/fetch_catalog.py --snapshot-only > "$RUNNER_TEMP/fetch.json"
+          python -c "import json;d=json.load(open('$RUNNER_TEMP/fetch.json',encoding='utf-8'));print('上游快照 %s：主条目 %d／别名行 %d／簇母行 %d' % (d['snapshot'], d['entries'], d['alias_rows'], d['cluster_mothers']))"
           SNAP=$(python -c "import json;print(json.load(open('$RUNNER_TEMP/fetch.json',encoding='utf-8'))['snapshot'])")
           echo "snapshot=$SNAP" >> "$GITHUB_OUTPUT"
           cp "$RUNNER_TEMP/fetch.json" "$RUNNER_TEMP/snapshot-meta.json"
@@ -47,7 +53,8 @@ jobs:
           set -o pipefail
           python tools/catalog_drift.py --fetched "${{ steps.fetch.outputs.snapshot }}" --assembly \
             --json "$RUNNER_TEMP/drift.json" --md "$RUNNER_TEMP/drift.md" --quiet || true
-          python -c "import json;d=json.load(open('$RUNNER_TEMP/drift.json',encoding='utf-8'));print('changed=%s'%str(d['changed']).lower())" >> "$GITHUB_OUTPUT"
+          python -c "import json;d=json.load(open('$RUNNER_TEMP/drift.json',encoding='utf-8'));print('changed=%s' % str(d['changed']).lower())" >> "$GITHUB_OUTPUT"
+          python -c "import json;d=json.load(open('$RUNNER_TEMP/drift.json',encoding='utf-8'));c=d['catalog'];l=d['local'];a=d.get('assembly') or {};print('目录漂移：%s（新增 %d／删除 %d／改名 %d／作者 %d／别名＋%d－%d；SUMMARY 缺 %d 多 %d；mu-lu-s 缺 %d 多 %d；装配核验：%s）' % ('有' if d['changed'] else '无', len(c['added']), len(c['removed']), len(c['renamed']), len(c['authors_changed']), len(c['alias_added']), len(c['alias_removed']), len(l['upstream_missing_in_summary']), len(l['summary_only_upstream']), len(l['upstream_missing_in_mulu']), len(l['mulu_only_upstream']), '全等' if a.get('ok') else '不等'))"
 
       - name: 上游变更检测（new.html ＋ 版次核对）
         id: updates
@@ -58,9 +65,11 @@ jobs:
           python tools/detect_updates.py --archinfo --archinfo-max 40 --verify-web \
             --out "$RUNNER_TEMP/queue.json" --md "$RUNNER_TEMP/queue.md" --quiet
           if [ -f "$RUNNER_TEMP/queue.json" ]; then
-            python -c "import json;d=json.load(open('$RUNNER_TEMP/queue.json',encoding='utf-8'));print('count=%d'%len(d['queue']))" >> "$GITHUB_OUTPUT"
+            python -c "import json;d=json.load(open('$RUNNER_TEMP/queue.json',encoding='utf-8'));print('count=%d' % len(d['queue']))" >> "$GITHUB_OUTPUT"
+            python -c "import json;d=json.load(open('$RUNNER_TEMP/queue.json',encoding='utf-8'));q=d['queue'];s='、'.join('%s %s' % (x['slug'], x['action']) for x in q[:10]);print('变更队列 %d 条（窗口 %d 个月）%s' % (len(q), d['window_months'], '：' + s if q else ''))"
           else
             echo "count=unknown" >> "$GITHUB_OUTPUT"
+            echo "变更队列：检测中断，queue.json 未生成（见上方日志）"
           fi
 
       - name: 归档报告
@@ -85,6 +94,16 @@ jobs:
           set -euo pipefail
           TITLE="SEP 上游变化同步报告"
           LABEL="sep-upstream-sync"
+          if [ "$CHANGED" = "true" ]; then
+            DRIFT_TXT="有（详见下方巡检报告）"
+          else
+            DRIFT_TXT="无"
+          fi
+          if [ "$QCOUNT" = "unknown" ]; then
+            QCOUNT_TXT="数未知（检测中断，见运行日志）"
+          else
+            QCOUNT_TXT="${QCOUNT} 条"
+          fi
           gh label create "$LABEL" --color 5319E6 \
             --description "SEP 官方目录与本地账存在差异" --force >/dev/null 2>&1 || true
           NUM=$(gh issue list --state open --search "in:title \"$TITLE\"" \
@@ -92,7 +111,7 @@ jobs:
           {
             echo "运行：[${GITHUB_RUN_ID}](https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID})"
             echo "巡检：contents.html 四方（catalog 账／SUMMARY／mu-lu-s）＋B3.2 装配核验；变更检测：new.html＋archinfo"
-            echo "结果：目录漂移 \`${CHANGED}\`，待办条目 \`${QCOUNT}\`"
+            echo "结果：目录漂移 ${DRIFT_TXT}；上游变更待办 ${QCOUNT_TXT}"
             echo
             if [ -f "$RUNNER_TEMP/drift.md" ]; then cat "$RUNNER_TEMP/drift.md"; else echo "（无目录漂移报告）"; fi
             echo
@@ -102,7 +121,8 @@ jobs:
               echo "（变更检测报告见运行工件 queue.json）"
             fi
             echo
-            echo "**落地路线**：本地 `python tools/fetch_catalog.py` → `python tools/summary_sync.py report` → 人工裁定 → `apply-*` → `python tools/rebuild_catalog.py --build` → `python tools/check_catalog_network.py --gate`（详见 specs/054）。"
+            echo "---"
+            echo "**落地**：按上方处置路线在本地执行；本巡检只读不落地（specs/054 §3 单向波纹）。"
           } > "$RUNNER_TEMP/issue-body.md"
           if [ -n "$NUM" ]; then
             gh issue comment "$NUM" --body-file "$RUNNER_TEMP/issue-body.md"

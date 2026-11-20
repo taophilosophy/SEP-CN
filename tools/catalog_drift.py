@@ -125,6 +125,7 @@ def drift_report(upstream_full, baseline, summary_slugs, mulu_slugs, suspended=N
 
 def assembly_check(snap_path):
     """用本次快照产临时骨架/残差池并做 sha256 装配核验（B3.2）；残差超准入即漂移。"""
+    from contextlib import redirect_stdout
     from tools import rebuild_catalog as R
     import tempfile
     tmp = tempfile.mkdtemp(prefix="catalog-assembly-")
@@ -132,11 +133,15 @@ def assembly_check(snap_path):
     resid = os.path.join(tmp, "residual.json")
     acc = os.path.join(tmp, "account.json")
     try:
-        rc = R.build(snap_path, skel, resid)
+        # build/compute 自身的 JSON 进展打印不透传，保持 --quiet 下 stdout 干净
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            rc = R.build(snap_path, skel, resid)
+            if rc == 0:
+                R.build_account(snap_path, acc)
+                res = R.compute(snap_path, acc, skel, resid)
         if rc != 0:
             return {"ok": False, "error": "build 失败（残差超出 A5 准入谓词或对齐失败）"}
-        R.build_account(snap_path, acc)
-        res = R.compute(snap_path, acc, skel, resid)
         count = None
         try:
             count = load_json(resid).get("count")
@@ -169,27 +174,32 @@ def render_md(rep):
     c = rep["catalog"]
     loc = rep["local"]
 
-    def block(title, rows, cols=None):
+    sections = [
+        ("上游新增条目（待接入 ADD）", c["added"]),
+        ("上游删除条目（待裁撤 REMOVE）", c["removed"]),
+        ("上游改名", c["renamed"]),
+        ("作者变更", c["authors_changed"]),
+        ("别名新增", c["alias_added"]),
+        ("别名消失", c["alias_removed"]),
+        ("上游有而 SUMMARY 无", loc["upstream_missing_in_summary"]),
+        ("SUMMARY 有而上游无", loc["summary_only_upstream"]),
+        ("上游有而 mu-lu-s 无", loc["upstream_missing_in_mulu"]),
+        ("mu-lu-s 有而上游无", loc["mulu_only_upstream"]),
+    ]
+    # 只展开非空节，全零节折叠为一行，避免报告被"（0）无"刷屏
+    for title, rows in sections:
+        if not rows:
+            continue
         L.append("### %s（%d）" % (title, len(rows)))
-        if rows:
-            for r in rows[:50]:
-                L.append("- %s" % (json.dumps(r, ensure_ascii=False) if isinstance(r, dict) else r))
-            if len(rows) > 50:
-                L.append("- …… 余 %d 条，见 JSON 报告" % (len(rows) - 50))
-        else:
-            L.append("- 无")
+        for r in rows[:50]:
+            L.append("- %s" % (json.dumps(r, ensure_ascii=False) if isinstance(r, dict) else r))
+        if len(rows) > 50:
+            L.append("- …… 余 %d 条，见 JSON 报告" % (len(rows) - 50))
         L.append("")
-
-    block("上游新增条目（待接入 ADD）", c["added"])
-    block("上游删除条目（待裁撤 REMOVE）", c["removed"])
-    block("上游改名", c["renamed"])
-    block("作者变更", c["authors_changed"])
-    block("别名新增", c["alias_added"])
-    block("别名消失", c["alias_removed"])
-    block("上游有而 SUMMARY 无", loc["upstream_missing_in_summary"])
-    block("SUMMARY 有而上游无", loc["summary_only_upstream"])
-    block("上游有而 mu-lu-s 无", loc["upstream_missing_in_mulu"])
-    block("mu-lu-s 有而上游无", loc["mulu_only_upstream"])
+    empty = [t.split("（")[0] for t, rows in sections if not rows]
+    if empty:
+        L.append("其余 %d 项均无差异：%s" % (len(empty), "、".join(empty)))
+        L.append("")
     if rep.get("suspended"):
         L.append("（已挂起不计：%s）" % "、".join(rep["suspended"]))
         L.append("")
