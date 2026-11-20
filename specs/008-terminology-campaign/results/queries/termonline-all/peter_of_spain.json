@@ -4,7 +4,7 @@
  "provider": "termonline-all",
  "queried_at": "2026-11-19T16:19:54+00:00",
  "status": "ok",
- "note": "variant=Peter of Spain; 审定公布名词库=10000; 海峡两岸名词对照库=7609; 其他来源数据库=1863; 预公布名词数据库=2730; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "note": "variant=Peter of Spain; 审定公布名词库=10000; 海峡两岸名词对照库=7609; 其他来源数据库=1863; 预公布名词数据库=2730; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）；2026-11-20 重复行合并（旧键 `Peter of Spain / Petrus Hispanus` 并入 `Peter of Spain`），命中并网 18 条",
  "hits": [
   {
    "cn": "西班牙第一共和国",
@@ -735,6 +735,132 @@
    "subjectName": "列宁斯大林时期",
    "publishYear": "2025",
    "definition": "唯物辩证法的基本规律之一。揭示了事物在发展的过程中，由肯定到否定，再由否定到否定之否定，经过两次否定达到更高阶段的规律。表明事物由于内部矛盾所引起的发展是螺旋式上升、波浪式前进。它指明新事物代替旧事物"
+  },
+  {
+   "cn": "彼得原理",
+   "en": "Peter Principle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "停用词",
+   "en": "Hans Peter Luhn",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "七十七国集团",
+   "en": "Group of 77",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "能量守恒定律",
+   "en": "law of conservation of energy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "电子政务",
+   "en": "List of forms of government",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "巴西独立",
+   "en": "War of Independence of Brazil",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "发情期",
+   "en": "estrus;oestrus",
+   "code": "4.0174",
+   "standard": "动物学名词",
+   "subject": "动物学_动物胚胎学_卵子发生"
+  },
+  {
+   "cn": "子死腹中",
+   "en": "dead fetus in uterus",
+   "code": "02.0349",
+   "standard": "中医药学名词（2010）",
+   "subject": "中医药学_妇科学"
+  },
+  {
+   "cn": "子死腹中",
+   "en": "dead fetus in uterus",
+   "code": "012.060",
+   "standard": "中医药学名词",
+   "subject": "中医药学_皮肤科疾病"
+  },
+  {
+   "cn": "岩尖",
+   "en": "petrous apex",
+   "code": "1.1.5.11.3",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "耳科_耳解剖"
+  },
+  {
+   "cn": "子宫",
+   "en": "uterus，uterus(拉)",
+   "code": "06.213",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜解剖学"
+  },
+  {
+   "cn": "子宫",
+   "en": "uterus",
+   "code": "1.006",
+   "standard": "妇产科学名词",
+   "subject": "总论"
+  },
+  {
+   "cn": "子宫",
+   "en": "uterus",
+   "code": "02.142",
+   "standard": "男科及性医学名词",
+   "subject": "男科及性医学_生殖系统解剖"
+  },
+  {
+   "cn": "狂蝇属",
+   "en": "Oestrus",
+   "code": "12.318",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医寄生虫学"
+  },
+  {
+   "cn": "子宫",
+   "en": "uterus",
+   "code": "2.029",
+   "standard": "妇科肿瘤学名词",
+   "subject": "妇科肿瘤学_妇科肿瘤学基础_妇科解剖学_女性内生殖器"
+  },
+  {
+   "cn": "子宫",
+   "en": "uterus",
+   "code": "2.027",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖系统解剖_女性生殖系统解剖"
+  },
+  {
+   "cn": "子宫",
+   "en": "uterus",
+   "code": "6.1133",
+   "standard": "动物学名词",
+   "subject": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_泌尿生殖系统"
+  },
+  {
+   "cn": "子宫",
+   "en": "uterus",
+   "code": "05.037",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_繁殖_繁殖生理"
   }
  ],
  "error": null,

@@ -1,0 +1,956 @@
+{
+ "date": "2026-11-20",
+ "A_firstwrap": [
+  {
+   "line": 59,
+   "name": "Aëtius",
+   "old": "首现（xenophanes）；xenocrates",
+   "new": "xenophanes；xenocrates"
+  },
+  {
+   "line": 216,
+   "name": "Arcesilaus",
+   "old": "首现（timon-phlius）",
+   "new": "timon-phlius"
+  },
+  {
+   "line": 229,
+   "name": "Aristocles",
+   "old": "首现（timon-phlius）",
+   "new": "timon-phlius"
+  },
+  {
+   "line": 265,
+   "name": "Athenaeus",
+   "old": "首现（timon-phlius）",
+   "new": "timon-phlius"
+  },
+  {
+   "line": 275,
+   "name": "Austen, Jane",
+   "old": "首现（truth-coherence）",
+   "new": "truth-coherence"
+  },
+  {
+   "line": 474,
+   "name": "Blanshard, Brand",
+   "old": "首现（truth-coherence）",
+   "new": "truth-coherence"
+  },
+  {
+   "line": 717,
+   "name": "Casaubon, Méric",
+   "old": "首现（xenophanes）",
+   "new": "xenophanes"
+  },
+  {
+   "line": 744,
+   "name": "Chaerephon",
+   "old": "首现（wisdom）",
+   "new": "wisdom"
+  },
+  {
+   "line": 778,
+   "name": "Chatton, Walter",
+   "old": "首现（crathorn）",
+   "new": "crathorn"
+  },
+  {
+   "line": 851,
+   "name": "Clayman, D.",
+   "old": "首现（timon-phlius）",
+   "new": "timon-phlius"
+  },
+  {
+   "line": 854,
+   "name": "Clement of Alexandria",
+   "old": "首现（xenophanes）；intentionality-ancient",
+   "new": "xenophanes；intentionality-ancient"
+  },
+  {
+   "line": 947,
+   "name": "Crates",
+   "old": "首现（timon-phlius）",
+   "new": "timon-phlius"
+  },
+  {
+   "line": 1032,
+   "name": "Davidson, Donald",
+   "old": "首现（truth-coherence）",
+   "new": "truth-coherence"
+  },
+  {
+   "line": 1252,
+   "name": "Epimenides",
+   "old": "首现（xenophanes）",
+   "new": "xenophanes"
+  },
+  {
+   "line": 1285,
+   "name": "Eusebius",
+   "old": "首现（timon-phlius）",
+   "new": "timon-phlius"
+  },
+  {
+   "line": 1345,
+   "name": "Feuerbach",
+   "old": "首现（xenophanes）",
+   "new": "xenophanes"
+  },
+  {
+   "line": 1434,
+   "name": "Freud",
+   "old": "首现（xenophanes）",
+   "new": "xenophanes"
+  },
+  {
+   "line": 1493,
+   "name": "Gandhi",
+   "old": "首现（wisdom）",
+   "new": "wisdom"
+  },
+  {
+   "line": 1559,
+   "name": "Gerard of Odo",
+   "old": "首现（crathorn）",
+   "new": "crathorn"
+  },
+  {
+   "line": 1604,
+   "name": "Goethe",
+   "old": "首现（wisdom）",
+   "new": "wisdom"
+  },
+  {
+   "line": 1785,
+   "name": "Harclay, Henry of",
+   "old": "首现（crathorn）",
+   "new": "crathorn"
+  },
+  {
+   "line": 1823,
+   "name": "Hegel",
+   "old": "首现（truth-coherence）",
+   "new": "truth-coherence"
+  },
+  {
+   "line": 1874,
+   "name": "Herodian",
+   "old": "首现（xenophanes）",
+   "new": "xenophanes"
+  },
+  {
+   "line": 1935,
+   "name": "Holkot, Robert / Robert Holcot",
+   "old": "首现（crathorn）；语料回收（全目录）",
+   "new": "crathorn；语料回收（全目录）"
+  },
+  {
+   "line": 2022,
+   "name": "Hypatia",
+   "old": "首现（wisdom）",
+   "new": "wisdom"
+  },
+  {
+   "line": 2069,
+   "name": "Iris",
+   "old": "首现（xenophanes）",
+   "new": "xenophanes"
+  },
+  {
+   "line": 2201,
+   "name": "John of Salisbury",
+   "old": "首现（william-sherwood）",
+   "new": "william-sherwood"
+  },
+  {
+   "line": 2224,
+   "name": "Joscelin of Soissons",
+   "old": "首现（william-sherwood）",
+   "new": "william-sherwood"
+  },
+  {
+   "line": 2465,
+   "name": "Lambert of Auxerre",
+   "old": "首现（william-sherwood）",
+   "new": "william-sherwood"
+  },
+  {
+   "line": 2482,
+   "name": "Lao Tzu",
+   "old": "首现（wisdom）",
+   "new": "wisdom"
+  },
+  {
+   "line": 2854,
+   "name": "McGinn, Colin",
+   "old": "首现（truth-coherence）",
+   "new": "truth-coherence"
+  },
+  {
+   "line": 2912,
+   "name": "Michael Constantine Psellus",
+   "old": "首现（william-sherwood）",
+   "new": "william-sherwood"
+  },
+  {
+   "line": 3110,
+   "name": "Nicolas Bonet",
+   "old": "首现（crathorn）",
+   "new": "crathorn"
+  },
+  {
+   "line": 3112,
+   "name": "Nicolas of Autrecourt",
+   "old": "首现（crathorn）",
+   "new": "crathorn"
+  },
+  {
+   "line": 3362,
+   "name": "Philo (follower of Pyrrho)",
+   "old": "首现（timon-phlius）",
+   "new": "timon-phlius"
+  },
+  {
+   "line": 3498,
+   "name": "Pyrrho",
+   "old": "首现（timon-phlius）",
+   "new": "timon-phlius"
+  },
+  {
+   "line": 3597,
+   "name": "Rescher, Nicholas",
+   "old": "首现（truth-coherence）",
+   "new": "truth-coherence"
+  },
+  {
+   "line": 3980,
+   "name": "Solomon",
+   "old": "首现（wisdom）",
+   "new": "wisdom"
+  },
+  {
+   "line": 3981,
+   "name": "Solon",
+   "old": "首现（xenophanes）",
+   "new": "xenophanes"
+  },
+  {
+   "line": 4014,
+   "name": "Spinoza",
+   "old": "首现（truth-coherence）",
+   "new": "truth-coherence"
+  },
+  {
+   "line": 4075,
+   "name": "Stilpo",
+   "old": "首现（timon-phlius）",
+   "new": "timon-phlius"
+  },
+  {
+   "line": 4088,
+   "name": "Strabo",
+   "old": "首现（timon-phlius）",
+   "new": "timon-phlius"
+  },
+  {
+   "line": 4184,
+   "name": "Thaumas",
+   "old": "首现（xenophanes）",
+   "new": "xenophanes"
+  },
+  {
+   "line": 4194,
+   "name": "Theodoretus",
+   "old": "首现（xenophanes）",
+   "new": "xenophanes"
+  },
+  {
+   "line": 4228,
+   "name": "Timon of Phlius",
+   "old": "首现（timon-phlius）",
+   "new": "timon-phlius"
+  }
+ ],
+ "B_lifejunk": [
+  {
+   "line": 281,
+   "name": "Avron, Arnon",
+   "old": "—；logic-fuzzy；logic-linear",
+   "new": "—"
+  },
+  {
+   "line": 400,
+   "name": "Belnap, Nuel",
+   "old": "—；logical-consequence；logic-linear",
+   "new": "—"
+  },
+  {
+   "line": 611,
+   "name": "Brutus, Marcus Junius",
+   "old": "—；godwin",
+   "new": "—"
+  },
+  {
+   "line": 667,
+   "name": "Caligula",
+   "old": "—；godwin",
+   "new": "—"
+  },
+  {
+   "line": 779,
+   "name": "Chaucer, Geoffrey",
+   "old": "—；godwin",
+   "new": "—"
+  },
+  {
+   "line": 792,
+   "name": "Chernyshevsky, Nikolay",
+   "old": "—；godwin",
+   "new": "—"
+  },
+  {
+   "line": 870,
+   "name": "Cobreros, Pablo",
+   "old": "—；logic-substructural",
+   "new": "—"
+  },
+  {
+   "line": 1172,
+   "name": "Dunn, J. Michael",
+   "old": "—；logic-linear",
+   "new": "—"
+  },
+  {
+   "line": 1369,
+   "name": "Fitelson, Branden",
+   "old": "—；lvov-warsaw",
+   "new": "—"
+  },
+  {
+   "line": 1404,
+   "name": "Fraenkel, Abraham",
+   "old": "—；tarski-truth",
+   "new": "—"
+  },
+  {
+   "line": 1425,
+   "name": "Freddoso, Alfred J.",
+   "old": "—；prophecy",
+   "new": "—"
+  },
+  {
+   "line": 1539,
+   "name": "Gentzen, Gerhard",
+   "old": "—；logical-consequence",
+   "new": "—"
+  },
+  {
+   "line": 1599,
+   "name": "Gödel, Kurt",
+   "old": "—；logic-fuzzy",
+   "new": "—"
+  },
+  {
+   "line": 1603,
+   "name": "Godwin, William",
+   "old": "—；godwin",
+   "new": "—"
+  },
+  {
+   "line": 1830,
+   "name": "Heisenberg, Werner",
+   "old": "—；lvov-warsaw",
+   "new": "—"
+  },
+  {
+   "line": 1841,
+   "name": "Helvétius, Claude-Adrien",
+   "old": "—；godwin",
+   "new": "—"
+  },
+  {
+   "line": 1852,
+   "name": "Henry of Ghent",
+   "old": "—；peter-spain",
+   "new": "—"
+  },
+  {
+   "line": 1930,
+   "name": "Holbach, Paul-Henri Thiry, baron d'",
+   "old": "—；godwin",
+   "new": "—"
+  },
+  {
+   "line": 2212,
+   "name": "John XXI",
+   "old": "—；peter-spain",
+   "new": "—"
+  },
+  {
+   "line": 2293,
+   "name": "Katz, Jerrold",
+   "old": "—；tarski-truth",
+   "new": "—"
+  },
+  {
+   "line": 2408,
+   "name": "Kropotkin, Peter",
+   "old": "—；godwin",
+   "new": "—"
+  },
+  {
+   "line": 2552,
+   "name": "Levy, Azriel",
+   "old": "—；tarski-truth",
+   "new": "—"
+  },
+  {
+   "line": 2677,
+   "name": "Łukasiewicz, Jan / Jan Łukasiewicz",
+   "old": "—；lvov-warsaw",
+   "new": "—"
+  },
+  {
+   "line": 2910,
+   "name": "Meyer, Robert K.",
+   "old": "—；logic-substructural",
+   "new": "—"
+  },
+  {
+   "line": 3087,
+   "name": "Nero",
+   "old": "—；godwin",
+   "new": "—"
+  },
+  {
+   "line": 3142,
+   "name": "Normore, Calvin",
+   "old": "—；prophecy",
+   "new": "—"
+  },
+  {
+   "line": 3274,
+   "name": "Partee, Barbara",
+   "old": "—；tarski-truth；logic-massexpress",
+   "new": "—"
+  },
+  {
+   "line": 3337,
+   "name": "Peter of Spain / Petrus Hispanus",
+   "old": "—；peter-spain",
+   "new": "—"
+  },
+  {
+   "line": 3475,
+   "name": "Prior, Arthur",
+   "old": "—；logical-consequence",
+   "new": "—"
+  },
+  {
+   "line": 3476,
+   "name": "Priscian",
+   "old": "—；peter-spain",
+   "new": "—"
+  },
+  {
+   "line": 3570,
+   "name": "Raynal, Guillaume-Thomas",
+   "old": "—；godwin",
+   "new": "—"
+  },
+  {
+   "line": 3573,
+   "name": "Read, Stephen",
+   "old": "—；logic-linear",
+   "new": "—"
+  },
+  {
+   "line": 3615,
+   "name": "Richard of Mediavilla",
+   "old": "—；giles",
+   "new": "—"
+  },
+  {
+   "line": 3627,
+   "name": "Ripley, David",
+   "old": "—；logic-substructural",
+   "new": "—"
+  },
+  {
+   "line": 3883,
+   "name": "Shapiro, Stewart",
+   "old": "—；logical-consequence",
+   "new": "—"
+  },
+  {
+   "line": 3951,
+   "name": "Skolem, Thoralf",
+   "old": "—；tarski-truth；lvov-warsaw",
+   "new": "—"
+  },
+  {
+   "line": 3954,
+   "name": "Slaney, John",
+   "old": "—；logic-substructural",
+   "new": "—"
+  },
+  {
+   "line": 4158,
+   "name": "Tarski, Alfred / Alfred Tarski",
+   "old": "—；logical-consequence",
+   "new": "—"
+  },
+  {
+   "line": 4175,
+   "name": "Tennant, Neil",
+   "old": "—；logical-consequence",
+   "new": "—"
+  },
+  {
+   "line": 4286,
+   "name": "Twardowski, Kazimierz",
+   "old": "—；lvov-warsaw",
+   "new": "—"
+  },
+  {
+   "line": 4314,
+   "name": "Urquhart, Alasdair",
+   "old": "—；logic-linear",
+   "new": "—"
+  },
+  {
+   "line": 4337,
+   "name": "van Eijck, Jan",
+   "old": "—；logic-dynamic",
+   "new": "—"
+  },
+  {
+   "line": 4364,
+   "name": "Vaught, Robert",
+   "old": "—；tarski-truth",
+   "new": "—"
+  },
+  {
+   "line": 4598,
+   "name": "Wollstonecraft, Mary",
+   "old": "—；godwin",
+   "new": "—"
+  }
+ ],
+ "C_shift": [
+  {
+   "line": 41,
+   "name": "Aczel, Peter",
+   "old": [
+    "Aczel",
+    "1941–",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "quine-nf",
+    "英国",
+    "2026-11-09"
+   ],
+   "new": [
+    "Aczel",
+    "英国",
+    "1941–",
+    "quine-nf",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 508,
+   "name": "Boffa, Maurice",
+   "old": [
+    "Boffa",
+    "1939–2014",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "quine-nf",
+    "比利时",
+    "2026-11-09"
+   ],
+   "new": [
+    "Boffa",
+    "比利时",
+    "1939–2014",
+    "quine-nf",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 1392,
+   "name": "Forster, Thomas",
+   "old": [
+    "Forster",
+    "—",
+    "无通行汉名，保留英文原名（本词条作者）；凭证 2026-11-09",
+    "quine-nf",
+    "英国",
+    "2026-11-09"
+   ],
+   "new": [
+    "Forster",
+    "英国",
+    "—",
+    "quine-nf",
+    "无通行汉名，保留英文原名（本词条作者）；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 1395,
+   "name": "Forti, Marco",
+   "old": [
+    "Forti",
+    "—",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "quine-nf",
+    "意大利",
+    "2026-11-09"
+   ],
+   "new": [
+    "Forti",
+    "意大利",
+    "—",
+    "quine-nf",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 1680,
+   "name": "Grishin, V. N.",
+   "old": [
+    "Grishin",
+    "—",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "quine-nf",
+    "俄罗斯",
+    "2026-11-09"
+   ],
+   "new": [
+    "Grishin",
+    "俄罗斯",
+    "—",
+    "quine-nf",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 1894,
+   "name": "Hinnion, Roland",
+   "old": [
+    "Hinnion",
+    "—",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "quine-nf",
+    "比利时",
+    "2026-11-09"
+   ],
+   "new": [
+    "Hinnion",
+    "比利时",
+    "—",
+    "quine-nf",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 1937,
+   "name": "Holmes, M. Randall",
+   "old": [
+    "Holmes",
+    "—",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "quine-nf",
+    "美国",
+    "2026-11-09"
+   ],
+   "new": [
+    "Holmes",
+    "美国",
+    "—",
+    "quine-nf",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 1945,
+   "name": "Honsell, Furio",
+   "old": [
+    "Honsell",
+    "—",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "quine-nf",
+    "意大利",
+    "2026-11-09"
+   ],
+   "new": [
+    "Honsell",
+    "意大利",
+    "—",
+    "quine-nf",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 2147,
+   "name": "Jensen, Ronald",
+   "old": [
+    "罗纳德·詹森",
+    "1936–",
+    "集合论学界通行译名（詹森层谱）；凭证 2026-11-09",
+    "quine-nf",
+    "美国",
+    "2026-11-09"
+   ],
+   "new": [
+    "罗纳德·詹森",
+    "美国",
+    "1936–",
+    "quine-nf",
+    "集合论学界通行译名（詹森层谱）；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 2298,
+   "name": "Kaye, Richard",
+   "old": [
+    "Kaye",
+    "1960–",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "quine-nf",
+    "英国",
+    "2026-11-09"
+   ],
+   "new": [
+    "Kaye",
+    "英国",
+    "1960–",
+    "quine-nf",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 2426,
+   "name": "Kuratowski, Kazimierz",
+   "old": [
+    "卡齐米日·库拉托夫斯基",
+    "1896–1980",
+    "数学通行译名（库拉托夫斯基引理）；凭证 2026-11-09",
+    "quine-nf",
+    "波兰",
+    "2026-11-09"
+   ],
+   "new": [
+    "卡齐米日·库拉托夫斯基",
+    "波兰",
+    "1896–1980",
+    "quine-nf",
+    "数学通行译名（库拉托夫斯基引理）；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 3014,
+   "name": "Mostowski, Andrzej",
+   "old": [
+    "安杰伊·莫斯托夫斯基",
+    "1913–1975",
+    "数理逻辑通行译名（莫斯托夫斯基塌陷）；凭证 2026-11-09；lvov-warsaw",
+    "quine-nf",
+    "波兰",
+    "2026-11-09 合并（同键变体，来源列并双 slug）"
+   ],
+   "new": [
+    "安杰伊·莫斯托夫斯基",
+    "波兰",
+    "1913–1975",
+    "quine-nf",
+    "数理逻辑通行译名（莫斯托夫斯基塌陷）；凭证 2026-11-09；lvov-warsaw",
+    "2026-11-09 合并（同键变体，来源列并双 slug）"
+   ]
+  },
+  {
+   "line": 3193,
+   "name": "Orey, Steven",
+   "old": [
+    "Orey",
+    "—",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "quine-nf",
+    "美国",
+    "2026-11-09"
+   ],
+   "new": [
+    "Orey",
+    "美国",
+    "—",
+    "quine-nf",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 3206,
+   "name": "Oswald, Urs",
+   "old": [
+    "Oswald",
+    "—",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "quine-nf",
+    "瑞士",
+    "2026-11-09"
+   ],
+   "new": [
+    "Oswald",
+    "瑞士",
+    "—",
+    "quine-nf",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 3624,
+   "name": "Rieger, Ladislav",
+   "old": [
+    "Rieger",
+    "—",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "quine-nf",
+    "捷克",
+    "2026-11-09"
+   ],
+   "new": [
+    "Rieger",
+    "捷克",
+    "—",
+    "quine-nf",
+    "无通行汉名，保留英文原名；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 3640,
+   "name": "Robinson, Abraham",
+   "old": [
+    "亚伯拉罕·鲁宾逊",
+    "1918–1974",
+    "数学通行译名（非标准分析）；凭证 2026-11-09",
+    "quine-nf",
+    "美国",
+    "2026-11-09"
+   ],
+   "new": [
+    "亚伯拉罕·鲁宾逊",
+    "美国",
+    "1918–1974",
+    "quine-nf",
+    "数学通行译名（非标准分析）；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 3680,
+   "name": "Rosser, J. Barkley",
+   "old": [
+    "J. B. 罗瑟",
+    "1907–1989",
+    "数理逻辑学界通行译名（罗瑟技巧）；凭证 2026-11-09",
+    "quine-nf",
+    "美国",
+    "2026-11-09"
+   ],
+   "new": [
+    "J. B. 罗瑟",
+    "美国",
+    "1907–1989",
+    "quine-nf",
+    "数理逻辑学界通行译名（罗瑟技巧）；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 4003,
+   "name": "Specker, Ernst",
+   "old": [
+    "恩斯特·斯佩克",
+    "1920–2011",
+    "数理逻辑学界通行译名（NF 研究）；凭证 2026-11-09",
+    "quine-nf",
+    "瑞士",
+    "2026-11-09"
+   ],
+   "new": [
+    "恩斯特·斯佩克",
+    "瑞士",
+    "1920–2011",
+    "quine-nf",
+    "数理逻辑学界通行译名（NF 研究）；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  },
+  {
+   "line": 4531,
+   "name": "Wiener, Norbert",
+   "old": [
+    "诺伯特·维纳",
+    "1894–1964",
+    "数学通行译名；凭证 2026-11-09",
+    "quine-nf",
+    "美国",
+    "2026-11-09"
+   ],
+   "new": [
+    "诺伯特·维纳",
+    "美国",
+    "1894–1964",
+    "quine-nf",
+    "数学通行译名；凭证 2026-11-09",
+    "2026-11-09"
+   ]
+  }
+ ],
+ "D_adr": [
+  {
+   "line": 1104
+  },
+  {
+   "line": 1271
+  },
+  {
+   "line": 1623
+  },
+  {
+   "line": 1684
+  },
+  {
+   "line": 2471
+  },
+  {
+   "line": 2595
+  },
+  {
+   "line": 3168
+  },
+  {
+   "line": 3268
+  },
+  {
+   "line": 3412
+  },
+  {
+   "line": 4011
+  }
+ ],
+ "E_lifesusp": []
+}

@@ -4,7 +4,7 @@
  "provider": "termonline-all",
  "queried_at": "2026-11-19T16:18:05+00:00",
  "status": "ok",
- "note": "variant=Hu Shih; 审定公布名词库=1006; 海峡两岸名词对照库=347; 其他来源数据库=15; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "note": "variant=Hu Shih; 审定公布名词库=1006; 海峡两岸名词对照库=347; 其他来源数据库=15; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）；2026-11-20 重复行合并（旧键 `Hu Shi` 并入 `Hu Shih`），命中并网 22 条",
  "hits": [
   {
    "cn": "Hu抗体",
@@ -645,6 +645,160 @@
    "subjectName": "口岸消毒",
    "publishYear": "2025",
    "definition": "对设于船舶及装卸动物码头的隔离区域以清除且杀灭病原体为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "形势户",
+   "en": "xing shi hu;privileged household",
+   "code": "6.234",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_两宋_社会经济_身份户丁"
+  },
+  {
+   "cn": "江湖诗派",
+   "en": "jiang hu shi pai;Jiang hu poetry style",
+   "code": "6.337",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_两宋_文化_文学艺术"
+  },
+  {
+   "cn": "户调式",
+   "en": "hu diao shi;household tax regulation",
+   "code": "4.259",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_魏晋南北朝_社会经济_田土租赋"
+  },
+  {
+   "cn": "十三万户",
+   "en": "Shi San Wan Hu;Thirteen Myriarchies",
+   "code": "7.443",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_辽金元_历史地理"
+  },
+  {
+   "cn": "式",
+   "en": "shi",
+   "code": "04.04.008",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂历史"
+  },
+  {
+   "cn": "誓",
+   "en": "shi",
+   "code": "07.01.004",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "示",
+   "en": "shi",
+   "code": "07.01.150",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "史",
+   "en": "shi",
+   "code": "08.03.002",
+   "standard": "档案学名词",
+   "subject": "档案学_中国档案事业史_文档官吏"
+  },
+  {
+   "cn": "太阳单色光照相术",
+   "en": "spectroheliography\",\"SHG",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "律诗",
+   "en": "Lüshi (Regulated Verse; Rhythmic Poetry)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "受惊",
+   "en": "shy",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "船级",
+   "en": "ship class",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "医疗船",
+   "en": "hospital ship",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "上水",
+   "en": "Sheung Shui",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "SH3结构域",
+   "en": "SH3 domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "船排",
+   "en": "Ship cradle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "脚固",
+   "en": "ashi-gatame",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "侗水语支",
+   "en": "Kam–Sui peoples",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "水族",
+   "en": "Shui",
+   "code": "1.0449",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "畲族",
+   "en": "She",
+   "code": "1.0446",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "塞人",
+   "en": "Sai, saka",
+   "code": "3.058",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  },
+  {
+   "cn": "水达达",
+   "en": "Shui Tatar",
+   "code": "3.0032",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
   }
  ],
  "error": null,

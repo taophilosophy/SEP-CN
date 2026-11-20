@@ -1,0 +1,739 @@
+{
+ "date": "2026-11-20",
+ "groups": 59,
+ "dropped": 61,
+ "detail": [
+  {
+   "keeper": {
+    "line": 1985,
+    "name": "Hugo Grotius"
+   },
+   "absorbed": {
+    "line": 1986,
+    "name": "Hugo Grotius",
+    "trans": "雨果·格劳秀斯（已废弃，见新行 Hugo Grotius“胡果·格劳秀斯”）",
+    "first": "leibniz-ethics"
+   }
+  },
+  {
+   "keeper": {
+    "line": 4792,
+    "name": "Theodor W. Adorno"
+   },
+   "absorbed": {
+    "line": 4193,
+    "name": "Theodor W. Adorno",
+    "trans": "特奥多尔·W·阿多诺（已废弃，见 2026-11-10 新行：西奥多·W·阿多诺）",
+    "first": "gadamer-aesthetics"
+   }
+  },
+  {
+   "keeper": {
+    "line": 854,
+    "name": "Clement of Alexandria"
+   },
+   "absorbed": {
+    "line": 853,
+    "name": "Clemens of Alexandria",
+    "trans": "亚历山大的克莱门",
+    "first": "johann-sturm"
+   }
+  },
+  {
+   "keeper": {
+    "line": 838,
+    "name": "Clairaut, Alexis"
+   },
+   "absorbed": {
+    "line": 839,
+    "name": "Clairaut, Alexis-Claude",
+    "trans": "亚历克西-克洛德·克莱罗",
+    "first": "emilie-du-chatelet"
+   }
+  },
+  {
+   "keeper": {
+    "line": 992,
+    "name": "Dahui Zonggao"
+   },
+   "absorbed": {
+    "line": 987,
+    "name": "Da Hui (Dahui Zonggao)",
+    "trans": "大慧宗杲",
+    "first": "zhu-xi"
+   }
+  },
+  {
+   "keeper": {
+    "line": 787,
+    "name": "Cheng Chung-ying"
+   },
+   "absorbed": {
+    "line": 790,
+    "name": "Cheng, Chung-Ying",
+    "trans": "Chung-Ying Cheng",
+    "first": "logic-massexpress"
+   }
+  },
+  {
+   "keeper": {
+    "line": 1106,
+    "name": "Dignāga"
+   },
+   "absorbed": {
+    "line": 1111,
+    "name": "Diṅnāga",
+    "trans": "陈那",
+    "first": "early-modern-india"
+   }
+  },
+  {
+   "keeper": {
+    "line": 1144,
+    "name": "Dostoevsky, Fyodor"
+   },
+   "absorbed": {
+    "line": 1145,
+    "name": "Dostoyevsky, Fyodor",
+    "trans": "费奥多尔·陀思妥耶夫斯基",
+    "first": "evil-kinds-origins"
+   }
+  },
+  {
+   "keeper": {
+    "line": 4343,
+    "name": "van Norden, B.W."
+   },
+   "absorbed": {
+    "line": 4344,
+    "name": "Van Norden, Bryan W.",
+    "trans": "万百安",
+    "first": "confucius"
+   }
+  },
+  {
+   "keeper": {
+    "line": 2036,
+    "name": "Ibn Bājja / Avempace"
+   },
+   "absorbed": {
+    "line": 313,
+    "name": "Bājjah, Ibn",
+    "trans": "伊本·巴哲",
+    "first": "arabic-islamic-mysticism"
+   }
+  },
+  {
+   "keeper": {
+    "line": 4684,
+    "name": "Yu Ying-shih"
+   },
+   "absorbed": {
+    "line": 4685,
+    "name": "Yu Yingshih",
+    "trans": "余英时",
+    "first": "dai-zhen"
+   }
+  },
+  {
+   "keeper": {
+    "line": 110,
+    "name": "Albert the Great"
+   },
+   "absorbed": {
+    "line": 112,
+    "name": "Albertus Magnus",
+    "trans": "大阿尔伯特",
+    "first": "johann-sturm"
+   }
+  },
+  {
+   "keeper": {
+    "line": 4552,
+    "name": "William of Auvergne"
+   },
+   "absorbed": {
+    "line": 4551,
+    "name": "William of Alvernia",
+    "trans": "奥弗涅的威廉",
+    "first": "condemnation"
+   }
+  },
+  {
+   "keeper": {
+    "line": 660,
+    "name": "Caesalpino, Andrea"
+   },
+   "absorbed": {
+    "line": 742,
+    "name": "Cesalpino, Andrea",
+    "trans": "安德烈亚·切萨尔皮诺",
+    "first": "natphil-ren"
+   }
+  },
+  {
+   "keeper": {
+    "line": 83,
+    "name": "al-Ghazālī"
+   },
+   "absorbed": {
+    "line": 1573,
+    "name": "Ghazālī, Abū Ḥāmid",
+    "trans": "安萨里",
+    "first": "al-qudat"
+   }
+  },
+  {
+   "keeper": {
+    "line": 1027,
+    "name": "David Qimhi"
+   },
+   "absorbed": {
+    "line": 2339,
+    "name": "Kimhi, David",
+    "trans": "大卫·金希",
+    "first": "f/falaquera"
+   }
+  },
+  {
+   "keeper": {
+    "line": 3921,
+    "name": "Sigmund Freud"
+   },
+   "absorbed": {
+    "line": 1434,
+    "name": "Freud",
+    "trans": "弗洛伊德",
+    "first": "xenophanes"
+   }
+  },
+  {
+   "keeper": {
+    "line": 1332,
+    "name": "Feng Youlan"
+   },
+   "absorbed": {
+    "line": 1466,
+    "name": "Fung Yu-lan",
+    "trans": "冯友兰",
+    "first": "chinese-phil-science"
+   }
+  },
+  {
+   "keeper": {
+    "line": 353,
+    "name": "Baruch Spinoza"
+   },
+   "absorbed": {
+    "line": 4014,
+    "name": "Spinoza",
+    "trans": "斯宾诺莎",
+    "first": "truth-coherence"
+   }
+  },
+  {
+   "keeper": {
+    "line": 2657,
+    "name": "Lukács, Georg / Georg Lukács"
+   },
+   "absorbed": {
+    "line": 1720,
+    "name": "György Lukács",
+    "trans": "格奥尔格·卢卡奇",
+    "first": "lakatos"
+   }
+  },
+  {
+   "keeper": {
+    "line": 2177,
+    "name": "Johann Wolfgang von Goethe"
+   },
+   "absorbed": {
+    "line": 1604,
+    "name": "Goethe",
+    "trans": "歌德",
+    "first": "wisdom"
+   }
+  },
+  {
+   "keeper": {
+    "line": 81,
+    "name": "al-Fārābī / Al-Fârâbī / Abū Naṣr al-Fārābī"
+   },
+   "absorbed": {
+    "line": 82,
+    "name": "al-Fārābī / Alfarabi",
+    "trans": "法拉比",
+    "first": "albert-great"
+   }
+  },
+  {
+   "keeper": {
+    "line": 4778,
+    "name": "al-Ṭūsī, Naṣīr al-Dīn / Naṣīr al-Dīn al-Ṭūsī"
+   },
+   "absorbed": {
+    "line": 4283,
+    "name": "Ṭūsī, Naṣīr al-Dīn",
+    "trans": "纳西尔丁·图西",
+    "first": "al-qudat"
+   }
+  },
+  {
+   "keeper": {
+    "line": 2483,
+    "name": "Laozi"
+   },
+   "absorbed": {
+    "line": 2482,
+    "name": "Lao Tzu",
+    "trans": "老子",
+    "first": "wisdom"
+   }
+  },
+  {
+   "keeper": {
+    "line": 1967,
+    "name": "Hu Shih"
+   },
+   "absorbed": {
+    "line": 1966,
+    "name": "Hu Shi",
+    "trans": "胡适",
+    "first": "dai-zhen"
+   }
+  },
+  {
+   "keeper": {
+    "line": 4106,
+    "name": "Suhrawardī, Shihāb al-Dīn"
+   },
+   "absorbed": {
+    "line": 4104,
+    "name": "Suhrawardi",
+    "trans": "苏哈拉瓦迪",
+    "first": "illumination"
+   }
+  },
+  {
+   "keeper": {
+    "line": 4106,
+    "name": "Suhrawardī, Shihāb al-Dīn"
+   },
+   "absorbed": {
+    "line": 4105,
+    "name": "Suhrawardī / al-Suhrawardī",
+    "trans": "苏赫拉瓦尔迪",
+    "first": "suhrawardi"
+   }
+  },
+  {
+   "keeper": {
+    "line": 3146,
+    "name": "Novalis"
+   },
+   "absorbed": {
+    "line": 3147,
+    "name": "Novalis (Friedrich von Hardenberg)",
+    "trans": "诺瓦利斯（弗里德里希·冯·哈登贝格）",
+    "first": "schlegel"
+   }
+  },
+  {
+   "keeper": {
+    "line": 3130,
+    "name": "Nissim of Gerona"
+   },
+   "absorbed": {
+    "line": 3131,
+    "name": "Nissim of Gerondi",
+    "trans": "赫罗纳的尼西姆",
+    "first": "crescas"
+   }
+  },
+  {
+   "keeper": {
+    "line": 250,
+    "name": "Arthur Schopenhauer"
+   },
+   "absorbed": {
+    "line": 3831,
+    "name": "Schopenhauer",
+    "trans": "阿图尔·叔本华（通称“叔本华”）",
+    "first": "dilthey"
+   }
+  },
+  {
+   "keeper": {
+    "line": 3336,
+    "name": "Peter of Spain"
+   },
+   "absorbed": {
+    "line": 3337,
+    "name": "Peter of Spain / Petrus Hispanus",
+    "trans": "西班牙的彼得",
+    "first": "lambert-auxerre；simon-faversham"
+   }
+  },
+  {
+   "keeper": {
+    "line": 3340,
+    "name": "Peter Thomae"
+   },
+   "absorbed": {
+    "line": 3347,
+    "name": "Petrus Thomae",
+    "trans": "彼得·托马",
+    "first": "auriol"
+   }
+  },
+  {
+   "keeper": {
+    "line": 2860,
+    "name": "McMahan, Jeff"
+   },
+   "absorbed": {
+    "line": 2700,
+    "name": "MacMahan, Jeff",
+    "trans": "杰夫·麦克马汉",
+    "first": "ethics-deontological"
+   }
+  },
+  {
+   "keeper": {
+    "line": 4575,
+    "name": "Wilton, Thomas"
+   },
+   "absorbed": {
+    "line": 4618,
+    "name": "Wylton, Thomas",
+    "trans": "托马斯·威尔顿",
+    "first": "auriol"
+   }
+  },
+  {
+   "keeper": {
+    "line": 4389,
+    "name": "Vitoria, Francisco de"
+   },
+   "absorbed": {
+    "line": 4375,
+    "name": "Victoria, Franciscus de",
+    "trans": "弗朗西斯科·德·维多利亚",
+    "first": "colonialism"
+   }
+  },
+  {
+   "keeper": {
+    "line": 2722,
+    "name": "Maitreya"
+   },
+   "absorbed": {
+    "line": 2723,
+    "name": "Maitreyanātha",
+    "trans": "弥勒（慈氏）",
+    "first": "yogacara"
+   }
+  },
+  {
+   "keeper": {
+    "line": 1479,
+    "name": "Gadamer, Hans-Georg / Hans-Georg Gadamer"
+   },
+   "absorbed": {
+    "line": 1545,
+    "name": "Georg Gadamer",
+    "trans": "格奥尔格·伽达默尔",
+    "first": "语料回收（全目录）"
+   }
+  },
+  {
+   "keeper": {
+    "line": 1628,
+    "name": "Gorampa"
+   },
+   "absorbed": {
+    "line": 1629,
+    "name": "Gorampa Sonam Senge / Gorampa Sönam Senggé",
+    "trans": "果让巴·索南僧格",
+    "first": "gorampa；epistemology-language-tibetan"
+   }
+  },
+  {
+   "keeper": {
+    "line": 1388,
+    "name": "Fontenelle, Bernard le Bovier de"
+   },
+   "absorbed": {
+    "line": 1387,
+    "name": "Fontenelle",
+    "trans": "丰特奈尔",
+    "first": "occasionalism"
+   }
+  },
+  {
+   "keeper": {
+    "line": 1346,
+    "name": "Feuerbach, Ludwig"
+   },
+   "absorbed": {
+    "line": 1345,
+    "name": "Feuerbach",
+    "trans": "费尔巴哈",
+    "first": "xenophanes"
+   }
+  },
+  {
+   "keeper": {
+    "line": 2045,
+    "name": "Ibn Sīnā / Avicenna"
+   },
+   "absorbed": {
+    "line": 280,
+    "name": "Avicenna",
+    "trans": "阿维森纳（伊本·西那）",
+    "first": "occasionalism"
+   }
+  },
+  {
+   "keeper": {
+    "line": 23,
+    "name": "Abraham Ibn-Dahoud"
+   },
+   "absorbed": {
+    "line": 2037,
+    "name": "Ibn Dāwūd / Ibn Daud",
+    "trans": "伊本·达乌德",
+    "first": "arabic-islamic-judaic"
+   }
+  },
+  {
+   "keeper": {
+    "line": 2049,
+    "name": "Ibn Tzaddiq, Joseph"
+   },
+   "absorbed": {
+    "line": 2050,
+    "name": "Ibn Zaddiq",
+    "trans": "伊本·扎迪克",
+    "first": "abraham-daud"
+   }
+  },
+  {
+   "keeper": {
+    "line": 2244,
+    "name": "Justinian"
+   },
+   "absorbed": {
+    "line": 2245,
+    "name": "Justinian the Great",
+    "trans": "查士丁尼大帝",
+    "first": "olympiodorus"
+   }
+  },
+  {
+   "keeper": {
+    "line": 3104,
+    "name": "Nicholas of Autrecourt"
+   },
+   "absorbed": {
+    "line": 3112,
+    "name": "Nicolas of Autrecourt",
+    "trans": "奥特雷库尔的尼古拉",
+    "first": "crathorn"
+   }
+  },
+  {
+   "keeper": {
+    "line": 3288,
+    "name": "Paul (apostle)"
+   },
+   "absorbed": {
+    "line": 3287,
+    "name": "Paul",
+    "trans": "保罗",
+    "first": "god-necessary-being"
+   }
+  },
+  {
+   "keeper": {
+    "line": 3333,
+    "name": "Peter of Abano"
+   },
+   "absorbed": {
+    "line": 3383,
+    "name": "Pietro d’Abano",
+    "trans": "彼得罗·达巴诺",
+    "first": "gianfrancesco-pico"
+   }
+  },
+  {
+   "keeper": {
+    "line": 3333,
+    "name": "Peter of Abano"
+   },
+   "absorbed": {
+    "line": 3384,
+    "name": "Pietro of Abano",
+    "trans": "阿巴诺的彼得罗",
+    "first": "natphil-ren"
+   }
+  },
+  {
+   "keeper": {
+    "line": 71,
+    "name": "Ailly, Peter of"
+   },
+   "absorbed": {
+    "line": 3382,
+    "name": "Pierre d'Ailly",
+    "trans": "皮埃尔·戴利",
+    "first": "gregory-rimini"
+   }
+  },
+  {
+   "keeper": {
+    "line": 3780,
+    "name": "Scanlon, T. M."
+   },
+   "absorbed": {
+    "line": 3781,
+    "name": "Scanlon, Thomas / Thomas Scanlon",
+    "trans": "托马斯·斯坎伦",
+    "first": "ethics-deontological；语料回收（全目录）"
+   }
+  },
+  {
+   "keeper": {
+    "line": 1311,
+    "name": "Falaquera, Shem Tov ibn"
+   },
+   "absorbed": {
+    "line": 3893,
+    "name": "Shem-Tov ibn Falaquera",
+    "trans": "谢姆-托夫·伊本·法拉克拉",
+    "first": "gersonides"
+   }
+  },
+  {
+   "keeper": {
+    "line": 2227,
+    "name": "Josef Ibn Shem Tov"
+   },
+   "absorbed": {
+    "line": 3892,
+    "name": "Shem Tov, Ioseph ben",
+    "trans": "约瑟夫·本·谢姆·托夫",
+    "first": "natphil-ren"
+   }
+  },
+  {
+   "keeper": {
+    "line": 1568,
+    "name": "Gersonides"
+   },
+   "absorbed": {
+    "line": 2545,
+    "name": "Levi ben Gerson (acronym Ralbag)",
+    "trans": "列维·本·格尔松（缩写 Ralbag，拉尔巴格）",
+    "first": "gersonides"
+   }
+  },
+  {
+   "keeper": {
+    "line": 2166,
+    "name": "Joan Baptista van Helmont"
+   },
+   "absorbed": {
+    "line": 4340,
+    "name": "Van Helmont",
+    "trans": "范·海尔蒙特",
+    "first": "语料回收（全目录）"
+   }
+  },
+  {
+   "keeper": {
+    "line": 4418,
+    "name": "Wajsberg, Mordchaj"
+   },
+   "absorbed": {
+    "line": 4419,
+    "name": "Wajsberg, Mordechaj",
+    "trans": "Mordechaj Wajsberg",
+    "first": "lvov-warsaw"
+   }
+  },
+  {
+   "keeper": {
+    "line": 4351,
+    "name": "Vanini, Giulio Cesare"
+   },
+   "absorbed": {
+    "line": 4352,
+    "name": "Vanini, Lucilio",
+    "trans": "卢奇利奥·瓦尼尼",
+    "first": "bayle"
+   }
+  },
+  {
+   "keeper": {
+    "line": 4703,
+    "name": "Zalta, Edward N."
+   },
+   "absorbed": {
+    "line": 4702,
+    "name": "Zalta, Edward",
+    "trans": "Edward Zalta（现代学者，保留英文）",
+    "first": "necessary-sufficient"
+   }
+  },
+  {
+   "keeper": {
+    "line": 4086,
+    "name": "Stout, G.F."
+   },
+   "absorbed": {
+    "line": 4085,
+    "name": "Stout, G. F.",
+    "trans": "G. F. 斯托特",
+    "first": "zombies"
+   }
+  },
+  {
+   "keeper": {
+    "line": 2876,
+    "name": "Melanchthon, Philip"
+   },
+   "absorbed": {
+    "line": 2877,
+    "name": "Melanchthon, Philipp",
+    "trans": "菲利普·梅兰希通",
+    "first": "natphil-ren"
+   }
+  },
+  {
+   "keeper": {
+    "line": 2918,
+    "name": "Michael Psellos"
+   },
+   "absorbed": {
+    "line": 2912,
+    "name": "Michael Constantine Psellus",
+    "trans": "米哈伊尔·康斯坦丁·普塞洛斯",
+    "first": "william-sherwood"
+   }
+  },
+  {
+   "keeper": {
+    "line": 1069,
+    "name": "Delmedigo, Elijah"
+   },
+   "absorbed": {
+    "line": 2869,
+    "name": "Medigo, Elijah del",
+    "trans": "以利亚·德尔·梅迪戈",
+    "first": "natphil-ren"
+   }
+  }
+ ]
+}
