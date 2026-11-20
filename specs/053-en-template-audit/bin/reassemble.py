@@ -55,6 +55,8 @@ MD_HEAD_RE = re.compile(r"^(#{1,6})\s+(.*?)\s*$")
 MD_DEF_RE = re.compile(r"^\[\^([^\]\s]+)\]:(.*)$", re.S)
 NOTEDEF_KEY_RE = re.compile(r"^note-\d+$")
 MD_LIST_RE = re.compile(r"^(\s*)([-*+]|\d+[.])\s+(.*)$")
+OL_ITEM_RE = re.compile(r"^(\d+)\.\s+(.*)$")
+UL_ITEM_RE = re.compile(r"^[-*+]\s+(.*)$")
 SUB_MAP = getattr(yuanwen, "SUB_MAP", {})
 SUP_MAP = getattr(yuanwen, "SUP_MAP", {})
 GREEK_UNI = getattr(yuanwen, "GREEK_UNI", {})
@@ -590,6 +592,29 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
                         cells = [[_td(c) for c in r] for r in rows]
                         trs = "".join("<tr>%s</tr>" % "".join(cs) for cs in cells)
                         inner += "<table>%s</table>" % trs
+                    elif p and all(OL_ITEM_RE.match(x.strip())
+                                   for x in p if x.strip()):
+                        # 引块内有序列表（C 把 H0 的 <ol> 转成 `> 1. …` 行，
+                        # bodin 判例：H0 是 <blockquote><ol type="I">）：整段
+                        # 全为列表项才转 <ol>，且序号必须从 1 起——start≠1 时
+                        # C 的 ol→md 不认 start（W9 残差），回写 `> 1.` 破坏
+                        # B3.1 不动点（boole 等 10 件判例），此时维持旧 <p>
+                        items = [OL_ITEM_RE.match(x.strip()) for x in p
+                                 if x.strip()]
+                        start = int(items[0].group(1))
+                        if start == 1:
+                            lis = "".join("<li>%s</li>" % _inline_md_to_html(
+                                m.group(2)) for m in items)
+                            inner += "<ol>%s</ol>" % lis
+                        else:
+                            inner += "<p>%s</p>" % "<br>".join(
+                                _inline_md_to_html(x) for x in p)
+                    elif p and all(UL_ITEM_RE.match(x.strip())
+                                   for x in p if x.strip()):
+                        lis = "".join("<li>%s</li>" % _inline_md_to_html(
+                            UL_ITEM_RE.match(x.strip()).group(1))
+                            for x in p if x.strip())
+                        inner += "<ul>%s</ul>" % lis
                     else:
                         inner += "<p>%s</p>" % "<br>".join(
                             _inline_md_to_html(x) for x in p)

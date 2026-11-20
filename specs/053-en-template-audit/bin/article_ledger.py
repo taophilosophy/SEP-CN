@@ -231,7 +231,7 @@ def norm_html(s):
         re.sub(r"<[^>]*>", "", s))).strip()
 
 
-BI_START = re.compile(r"<h([2-6])[^>]*>|<ul[^>]*>|<table[^>]*>|<p>", re.S)
+BI_START = re.compile(r"<h([2-6])[^>]*>|<ul[^>]*>|<ol[^>]*>|<table[^>]*>|<p>", re.S)
 
 
 def _match_close(region, start, open_pat, close_pat):
@@ -249,12 +249,31 @@ def _match_close(region, start, open_pat, close_pat):
 
 
 def split_items(inner):
-    """顶层 <li> 内容表（支持条目内嵌套列表）。"""
+    """顶层 <li> 内容表（支持条目内嵌套列表与 H0 缺闭合 li）。
+
+    只返回顶层项：嵌套子 li 留在父项 inner 里，由 _tree_nodes 递归拆解。
+    旧实现用裸 finditer 会把嵌套 li 当兄弟一并发射，父项重建后子项双计
+    （abelard subhang：账 37 节点 vs 真 25＋4，h3 与条目错位）。
+
+    H0 允许省 `</li>`（anarchism 判例：`<li>Goldman…Penguin.\n\n<li>Graeber…`
+    ——配平会把 Graeber 起后 57 条吞进 Goldman 一项）：配平闭合落到下一
+    兄弟之后、且两者之间无未闭合 `<ul>` 时，按兄弟边界截断。"""
     out = []
-    for m in re.finditer(r"<li([^>]*)>", inner):
-        t = _match_close(inner, m.end(), r"<li[^>]*>", r"</li>")
-        end = t.start() if t else len(inner)
-        out.append((m.group(1), inner[m.end():end]))
+    opens = [(m.start(), m.end(), m.group(1))
+             for m in re.finditer(r"<li([^>]*)>", inner)]
+    pos = 0
+    for idx, (s, e, attrs) in enumerate(opens):
+        if s < pos:
+            continue
+        nxt = opens[idx + 1][0] if idx + 1 < len(opens) else len(inner)
+        t = _match_close(inner, e, r"<li[^>]*>", r"</li>")
+        end = t.start() if t else nxt
+        if end > nxt:
+            gap = inner[e:nxt]
+            if gap.count("<ul") <= gap.count("</ul>"):
+                end = nxt
+        out.append((attrs, inner[e:end]))
+        pos = (t.end() if (t and end == t.start()) else end)
     return out
 
 
@@ -271,11 +290,13 @@ def scan_bib(region):
             e = region.find(close, m.end())
             out.append(("h", int(m.group(1)), region[m.end():e]))
             i = e + len(close)
-        elif m.group(0).startswith("<ul"):
-            t = _match_close(region, m.end(), r"<ul[^>]*>", r"</ul>")
+        elif m.group(0).startswith("<ul") or m.group(0).startswith("<ol"):
+            tag = "ol" if m.group(0).startswith("<ol") else "ul"
+            t = _match_close(region, m.end(), r"<" + tag + r"[^>]*>",
+                             r"</" + tag + ">")
             if not t:
                 break
-            out.append(("ul", split_items(region[m.end():t.start()])))
+            out.append((tag, split_items(region[m.end():t.start()])))
             i = t.end()
         elif m.group(0).startswith("<table"):
             # 文献区表格（两列缩写＋条目，abu-bakr-al-razi 判例：H0 用
@@ -290,6 +311,21 @@ def scan_bib(region):
             out.append(("p", region[m.end():e]))
             i = e + 4
     return out
+
+
+def _match_def(vis, defs_plain, used):
+    """可见文 → md 定义序索引：先精确等值，再前缀回退（末尾格式差异，
+    如省略号/&nbsp;/标点；abelard 8 条文献因此定位失败致渲染重复）。"""
+    idx = next((i for i, t in enumerate(defs_plain)
+                if i not in used and t == vis), None)
+    if idx is not None:
+        return idx
+    k = 40
+    if len(vis) >= k:
+        idx = next((i for i, t in enumerate(defs_plain)
+                    if i not in used and len(t) >= k and t[:k] == vis[:k]),
+                   None)
+    return idx
 
 
 def _tree_nodes(inner, md_plain, used):
@@ -310,12 +346,9 @@ def _tree_nodes(inner, md_plain, used):
             pos = t.end()
         rest += sub[pos:]
         vis = norm_html(rest)
-        idx = next((k for k, t in enumerate(md_plain)
-                    if k not in used and t == vis), None)
+        idx = _match_def(vis, md_plain, used)
         if idx is None:
-            vis2 = norm_html(sub)
-            idx = next((k for k, t in enumerate(md_plain)
-                        if k not in used and t == vis2), None)
+            idx = _match_def(norm_html(sub), md_plain, used)
         if idx is not None:
             used.add(idx)
         node = {"i": idx}
@@ -360,14 +393,13 @@ def extract_bib_indices(art_inner, md_defs):
                 sections.append(cur)
             cur = []
             continue
-        if blk[0] != "ul":
+        if blk[0] not in ("ul", "ol"):
             continue
         if cur is None:
             cur = []
         for attrs, inner in blk[1]:
             vis = norm_html(inner)
-            idx = next((i for i, t in enumerate(plain)
-                        if i not in used and t == vis), None)
+            idx = _match_def(vis, plain, used)
             cur.append(idx)
             if idx is not None:
                 used.add(idx)
@@ -429,16 +461,15 @@ def extract_bib_seq(art_inner, md):
             if idx is not None:
                 hi = idx + 1
             seq.append(["h", idx])
-        elif blk[0] == "ul":
+        elif blk[0] in ("ul", "ol"):
             ids = []
             for attrs, inner in blk[1]:
                 vis = norm_html(inner)
-                idx = next((i for i, t in enumerate(defs_plain)
-                            if i not in used and t == vis), None)
+                idx = _match_def(vis, defs_plain, used)
                 ids.append(idx)
                 if idx is not None:
                     used.add(idx)
-            seq.append(["ul", ids])
+            seq.append([blk[0], ids])
         elif blk[0] == "table":
             # 表格块按原样发（R 侧 md 表格已渲染 HTML；位形差由标记层补丁吸收）
             seq.append(["table", None])
@@ -526,11 +557,26 @@ def extract(art_inner, md=None):
                       "id": hid_form(m.group(2), m.group(3))})
     led["hids"] = heads
     # 文献分节账：标题级别＋该节条目数（文献区题可为 h3/h4，条目与题交错）
-    bib = re.search(r'<div id="bibliography">(.*?)\n</div> ', art_inner, re.S)
-    if bib:
+    m1 = re.search(r'<div id="bibliography">(.*?)\n</div> ', art_inner, re.S)
+    if m1:
+        region = m1.group(1)
+    elif re.search(r'<div id="bibliography">', art_inner):
+        # 收口形态不齐（无 `\n</div> `，adorno 判例）——入口门与 _bib_region
+        # 必须同源，否则 bib_seq/bib_tree 整体不抽、退回 counts 分组错位
+        region = _bib_region(art_inner)
+    else:
+        region = None
+    if region is not None:
+        # H0 文献区标题文字（md 侧标题带中文加工后缀，如
+        # `## References（引用注释）`；全库 1,878 件统一形态）。渲染按账取
+        # H0 规范形，否则装配标题与 H0 文字不等（aesthetic-judgment 判例）
+        led["bib_heads"] = [
+            [int(m.group(1)), norm_html(m.group(3)),
+             (re.search(r'id="([^"]*)"', m.group(2) or "") or [None, None])[1]]
+            for m in re.finditer(r'<h([2-6])([^>]*)>(.*?)</h\1>', region, re.S)]
         secs, pend, n = [], None, 0
         for m in re.finditer(r'<h([2-6])[^>]*>(.*?)</h\1>|<ul[^>]*>(.*?)</ul>',
-                             bib.group(1), re.S):
+                             region, re.S):
             if m.group(1) is not None:
                 if pend is not None:
                     secs.append([pend, n])
@@ -561,13 +607,24 @@ def extract(art_inner, md=None):
     rel = re.search(r'<div id="related-entries">.*?<p>(.*?)</p>', art_inner, re.S)
     if rel:
         items = []
+        # 每项前是否有 `|`：按竖线切段后，段首项带 sep（首段除外）；
+        # 同段挤多项（H0 末两项之间无 `|`，aesthetic-experience 判例）时
+        # 后者不带 sep——渲染须按账逐项发分隔符，不能靠 enumerate 推断
+        st = {"first_of_part": True}
+
+        def _push(item):
+            if st["cur_sep"] and st["first_of_part"] and items:
+                item["sep"] = True
+            if st["first_of_part"]:
+                st["first_of_part"] = False
+            items.append(item)
 
         def _push_text(seg):
             seg = seg.strip()
             if seg:
-                items.append({"kind": "text",
-                              "text": htmllib.unescape(
-                                  re.sub(r"<[^>]*>", "", seg))})
+                _push({"kind": "text",
+                       "text": htmllib.unescape(
+                           re.sub(r"<[^>]*>", "", seg))})
 
         for part in re.split(r"\s*\|\s*", rel.group(1)):
             part = part.strip()
@@ -575,19 +632,21 @@ def extract(art_inner, md=None):
                 continue
             # 一段里可能挤多项（H0 末两项之间无 `|` 分隔，aesthetic-experience
             # 判例：Wittgenstein 项与死链 Yoruba 项同段），逐子项扫描
+            st["first_of_part"] = True
+            st["cur_sep"] = bool(items)  # 段与段之间必有 `|`
             pos = 0
             for m in re.finditer(
                     r'<!--<a href="([^"]*)">-->(.*?)<!--</a>-->'
                     r'|<a href="([^"]*)"[^>]*>(.*?)</a>', part, re.S):
                 _push_text(part[pos:m.start()])
                 if m.group(1) is not None:
-                    items.append({"kind": "dead", "href": m.group(1),
-                                  "text": htmllib.unescape(
-                                      re.sub(r"<[^>]*>", "", m.group(2)))})
+                    _push({"kind": "dead", "href": m.group(1),
+                           "text": htmllib.unescape(
+                               re.sub(r"<[^>]*>", "", m.group(2)))})
                 else:
-                    items.append({"kind": "a", "href": m.group(3),
-                                  "text": htmllib.unescape(
-                                      re.sub(r"<[^>]*>", "", m.group(4)))})
+                    _push({"kind": "a", "href": m.group(3),
+                           "text": htmllib.unescape(
+                               re.sub(r"<[^>]*>", "", m.group(4)))})
                 pos = m.end()
             _push_text(part[pos:])
         led["rel_items"] = items

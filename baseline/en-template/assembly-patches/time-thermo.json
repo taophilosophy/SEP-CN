@@ -4,9 +4,9 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 140707,
+  "page_bytes": 140333,
   "pool_bytes": 42042,
-  "n_patches": 154
+  "n_patches": 153
  },
  "patches": [
   {
@@ -50067,19 +50067,13 @@
    ]
   },
   {
-   "r": 133096,
-   "len": 374,
-   "sha": "101a3fc319c377a2",
-   "after": ""
-  },
-  {
-   "r": 133476,
+   "r": 133102,
    "len": 7,
    "sha": "88e550cf4af87b75",
    "after": "</ul>\n"
   },
   {
-   "u": 133671,
+   "u": 133297,
    "len": 146,
    "sha": "4272eebb08816f85",
    "items": [
@@ -50140,13 +50134,13 @@
    ]
   },
   {
-   "r": 133823,
+   "r": 133449,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 133910,
+   "u": 133536,
    "len": 256,
    "sha": "84cf09f4aa1367cf",
    "items": [
@@ -50296,13 +50290,13 @@
    ]
   },
   {
-   "r": 134172,
+   "r": 133798,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 134251,
+   "u": 133877,
    "len": 216,
    "sha": "50c6feb27e22f3bd",
    "items": [
@@ -50457,13 +50451,13 @@
    ]
   },
   {
-   "r": 134473,
+   "r": 134099,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 134555,
+   "u": 134181,
    "len": 231,
    "sha": "0db4f48991ca5132",
    "items": [
@@ -50595,19 +50589,19 @@
    ]
   },
   {
-   "r": 134792,
+   "r": 134418,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "r": 134910,
+   "r": 134536,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n"
   },
   {
-   "u": 134918,
+   "u": 134544,
    "len": 234,
    "sha": "be4dcb91b437bc90",
    "items": [
@@ -50843,7 +50837,7 @@
    ]
   },
   {
-   "u": 135156,
+   "u": 134782,
    "len": 214,
    "sha": "ccdbebbd13b43fd0",
    "items": [
@@ -51034,7 +51028,7 @@
    ]
   },
   {
-   "u": 135374,
+   "u": 135000,
    "len": 261,
    "sha": "1f5833541acdaf41",
    "items": [
@@ -51287,7 +51281,7 @@
    ]
   },
   {
-   "u": 135712,
+   "u": 135338,
    "len": 601,
    "sha": "b85f67ee65638ec6",
    "items": [
@@ -51699,7 +51693,7 @@
    ]
   },
   {
-   "r": 136325,
+   "r": 135951,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n\n"

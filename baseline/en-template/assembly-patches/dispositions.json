@@ -4,7 +4,7 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 131787,
+  "page_bytes": 131435,
   "pool_bytes": 104639,
   "n_patches": 208
  },
@@ -131499,8 +131499,8 @@
   },
   {
    "u": 124426,
-   "len": 520,
-   "sha": "82a69c2216de0e56",
+   "len": 168,
+   "sha": "9cac21e9a776fd87",
    "items": [
     [
      "tx",
@@ -131676,13 +131676,13 @@
    ]
   },
   {
-   "r": 124959,
+   "r": 124607,
    "len": 35,
    "sha": "5ea9e0725372c7e0",
    "after": "</div>\n\n \n<div id=\"academic-tools\">\n\n"
   },
   {
-   "u": 125147,
+   "u": 124795,
    "len": 147,
    "sha": "9584c100a103cf3a",
    "items": [
@@ -131743,13 +131743,13 @@
    ]
   },
   {
-   "r": 125300,
+   "r": 124948,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 125387,
+   "u": 125035,
    "len": 257,
    "sha": "09f6bb00a43c2c8d",
    "items": [
@@ -131899,13 +131899,13 @@
    ]
   },
   {
-   "r": 125650,
+   "r": 125298,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 125729,
+   "u": 125377,
    "len": 217,
    "sha": "ccab92d5c0e9ae16",
    "items": [
@@ -132060,13 +132060,13 @@
    ]
   },
   {
-   "r": 125952,
+   "r": 125600,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 126034,
+   "u": 125682,
    "len": 230,
    "sha": "b7f7387370b5608c",
    "items": [
@@ -132198,19 +132198,19 @@
    ]
   },
   {
-   "r": 126270,
+   "r": 125918,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "r": 126285,
+   "r": 125933,
    "len": 14,
    "sha": "7a81a1190a66b685",
    "after": "</blockquote>\n\n\n"
   },
   {
-   "u": 126400,
+   "u": 126048,
    "len": 51,
    "sha": "f27a2d8c9283c303",
    "items": [
@@ -132275,19 +132275,19 @@
    ]
   },
   {
-   "r": 126531,
+   "r": 126179,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "r": 127247,
+   "r": 126895,
    "len": 5,
    "sha": "d24ff827d6aec3cc",
    "after": "</p>\n\n"
   },
   {
-   "u": 127317,
+   "u": 126965,
    "len": 214,
    "sha": "cf3ebe1b4f854b9d",
    "items": [
@@ -132586,7 +132586,7 @@
    ]
   },
   {
-   "r": 127536,
+   "r": 127184,
    "len": 8,
    "sha": "fb433b3dc85934c4",
    "after": "</div> \n\n<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>\n\n"

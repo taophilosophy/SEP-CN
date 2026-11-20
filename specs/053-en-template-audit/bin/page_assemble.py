@@ -163,6 +163,10 @@ def build_pool(lib, slug, dry=False):
                 "page_len": len(h0)}
     good, gap = POOL.diff_page(page, h0)
     if gap:
+        # gap 意味着 A 侧已变（规则/账改动），旧池必失效——留着会让 judge
+        # 持续报 stale（anarchism 判例：第三批旧池残留、本轮 28 件 stale）
+        if not dry:
+            POOL.remove_pool(slug)
         return {"slug": slug, "status": "gap", "why": gap.get("why"),
                 "page_len": len(h0),
                 "sample": {"asm": (gap.get("asm") or "")[:240],

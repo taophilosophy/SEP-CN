@@ -4,7 +4,7 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 93999,
+  "page_bytes": 92602,
   "pool_bytes": 78255,
   "n_patches": 63
  },
@@ -65387,8 +65387,8 @@
   },
   {
    "u": 65485,
-   "len": 21856,
-   "sha": "6abccbd65cafbc86",
+   "len": 20459,
+   "sha": "04cba872d4ad1809",
    "items": [
     [
      "mk",
@@ -87563,13 +87563,13 @@
    ]
   },
   {
-   "r": 87347,
+   "r": 85950,
    "len": 7,
    "sha": "88e550cf4af87b75",
    "after": "</ul>\n"
   },
   {
-   "u": 87542,
+   "u": 86145,
    "len": 150,
    "sha": "4b8aad3dbdc09a09",
    "items": [
@@ -87630,13 +87630,13 @@
    ]
   },
   {
-   "r": 87698,
+   "r": 86301,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 87785,
+   "u": 86388,
    "len": 260,
    "sha": "9afcc26cf0e37987",
    "items": [
@@ -87786,13 +87786,13 @@
    ]
   },
   {
-   "r": 88051,
+   "r": 86654,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 88130,
+   "u": 86733,
    "len": 220,
    "sha": "da2a1a40066d3c87",
    "items": [
@@ -87947,13 +87947,13 @@
    ]
   },
   {
-   "r": 88356,
+   "r": 86959,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 88438,
+   "u": 87041,
    "len": 235,
    "sha": "9f7357cba633957e",
    "items": [
@@ -88085,19 +88085,19 @@
    ]
   },
   {
-   "r": 88679,
+   "r": 87282,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "r": 88940,
+   "r": 87543,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "u": 89319,
+   "u": 87922,
    "len": 392,
    "sha": "3258e16e0d85829b",
    "items": [
@@ -88380,7 +88380,7 @@
    ]
   },
   {
-   "r": 89723,
+   "r": 88326,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n\n"

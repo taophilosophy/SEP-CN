@@ -335,6 +335,57 @@ def _render_main(main, hid_map):
     return "\n\n".join(chunks)
 
 
+def _match_close(s, start, open_pat, close_pat):
+    """括号配平：找 start 之后首个开标签对应的闭标签（depth 自 1 起算，
+    已由调用方消费开标签本身）。"""
+    depth = 1
+    j = None
+    for t in re.finditer(open_pat + "|" + close_pat, s):
+        if t.start() < start:
+            continue
+        depth += 1 if re.match(open_pat, t.group(0)) else -1
+        if depth == 0:
+            j = t
+            break
+    return j
+
+
+def _flat_li(html):
+    """嵌套 ul → 文档序平铺条目表（父项剥掉子 ul 后的剩余，父先子后）。
+
+    与账 _tree_nodes 的 i 序一致。旧实现用非贪婪 `<li>(.*?)</li>` 提取，
+    遇嵌套 subhang 会在子项首个 </li> 处错切（abelard：父项被截断、
+    随后 English 分节条目混进 Latin ul）。"""
+    out = []
+
+    def walk(inner):
+        pos = 0
+        for m in re.finditer(r"<li([^>]*)>", inner):
+            if m.start() < pos:
+                continue
+            t = _match_close(inner, m.end(), r"<li[^>]*>", r"</li>")
+            if t:
+                sub, nxt = inner[m.end():t.start()], t.end()
+            else:
+                sub, nxt = inner[m.end():], len(inner)
+            kids, rest, p = [], [], 0
+            for mu in re.finditer(r"<ul([^>]*)>", sub):
+                tu = _match_close(sub, mu.end(), r"<ul[^>]*>", r"</ul>")
+                if not tu:
+                    continue
+                kids.append(sub[mu.end():tu.start()])
+                rest.append(sub[p:mu.start()])
+                p = tu.end()
+            rest.append(sub[p:])
+            out.append("".join(rest))
+            for k in kids:
+                walk(k)
+            pos = nxt
+
+    walk(html)
+    return out
+
+
 def _render_bib(bib, hid_map, ledger):
     if not bib:
         return ""
@@ -346,8 +397,7 @@ def _render_bib(bib, hid_map, ledger):
     items = []
     for b in body:
         if b.startswith("<ul"):
-            for m in re.finditer(r"<li>(.*?)</li>", b, re.S):
-                items.append(m.group(1))
+            items.extend(_flat_li(b))
     subs = [(int(head_of(b).group(1)), head_of(b).group(2).strip(),
              hid_map.get(id(b)))
             for b in body if head_of(b)]
@@ -370,19 +420,31 @@ def _render_bib(bib, hid_map, ledger):
         return '<ul class="hanging">\n\n%s\n</ul>\n\n' % "\n\n".join(lis)
 
     cursor = [-1]
+    used_i = set()
+
+    def _next_free(start):
+        j = max(start, 0)
+        while j in used_i and j < len(items):
+            j += 1
+        return j
 
     def nodes_html(nodes):
         """按嵌套结构账渲染条目树（子 ul 属性、缩进与 li 包裹按账）。
 
-        账内 i 缺失（抽取时可见文与 md 定义行不等，如 URL 含括号）时按
-        “前一索引 + 1”兜底，避免整条文献被吞（al-farabi-logic Rauf 判例）。"""
+        账内 i 缺失时取「下一个未用索引」兜底——只用 cursor+1 会让多条
+        缺失节点指向同一/已用条目而重复、错位（abelard 104 li vs H0 96
+        判例：8 个节点缺 i）。"""
         ids = ledger.get("bib_ids") or {}
         out = []
         for nd in nodes:
             j = nd.get("i")
-            if not isinstance(j, int):
-                j = cursor[0] + 1
+            if not isinstance(j, int) or j in used_i:
+                j = _next_free(cursor[0] + 1)
+            if j >= len(items) or j in used_i:
+                # 无可用条目：跳过空节点（不再输出空 li，abelard 多 8 条判例）
+                continue
             cursor[0] = j
+            used_i.add(j)
             content = items[j] if j < len(items) else ""
             lid = ids.get(str(j))
             head = ('<li id="%s">%s' % (lid, content) if lid
@@ -400,12 +462,32 @@ def _render_bib(bib, hid_map, ledger):
 
     seq = ledger.get("bib_seq")
     if seq:
+        bids = ledger.get("bib_ids") or {}
+        bh = ledger.get("bib_heads") or []
+        bhi = [0]
         tables = [b for b in body if b.startswith("<table")]
         tb_i = [0]
         for kind, idx in seq:
             if kind == "h":
+                lv = name = hid = None
                 if isinstance(idx, int) and idx < len(subs):
                     lv, name, hid = subs[idx]
+                if bhi[0] < len(bh):
+                    b = bh[bhi[0]]
+                    l2, t2 = b[0], b[1]
+                    i2 = b[2] if len(b) > 2 else None
+                    if l2:
+                        lv = l2
+                    if t2:
+                        name = t2
+                    if not hid and i2:
+                        hid = i2
+                bhi[0] += 1
+                # seq 首项即 H0 的 `<h2>Bibliography</h2>`（区标题已由本函数
+                # 开头预发，勿重复；abstract-objects 判例）
+                if lv == 2 and name == "Bibliography":
+                    continue
+                if lv and name:
                     parts.append("%s\n\n" % heading_tag(lv, hid, name))
             elif kind == "table":
                 if tb_i[0] < len(tables):
@@ -418,8 +500,8 @@ def _render_bib(bib, hid_map, ledger):
                 # 散文被 C 折成定义行（`[^following-nd]:` 判例）：原位发 <p>
                 if isinstance(idx, int) and idx < len(items):
                     parts.append("<p>\n%s</p>\n\n" % items[idx])
-            else:
-                if tree and ul_i[0] < len(tree):
+            elif kind in ("ul", "ol"):
+                if kind == "ul" and tree and ul_i[0] < len(tree):
                     nodes = tree[ul_i[0]].get("nodes") or []
                     ul_i[0] += 1
                     if nodes:
@@ -429,7 +511,14 @@ def _render_bib(bib, hid_map, ledger):
                 chunk = [(j, items[j]) for j in idx
                          if isinstance(j, int) and j < len(items)]
                 if chunk:
-                    parts.append(ul(chunk))
+                    if kind == "ol":
+                        lis = "\n\n".join(
+                            '<li id="%s">%s</li>'
+                            % (bids.get(str(j)), c) if bids.get(str(j))
+                            else "<li>%s</li>" % c for j, c in chunk)
+                        parts.append("<ol>\n\n%s\n</ol>\n\n" % lis)
+                    else:
+                        parts.append(ul(chunk))
         parts.append("</div> \n")
         return "".join(parts)
     if not subs and items:
@@ -498,10 +587,17 @@ def _render_rel(rel, hid_map, ledger):
     items = (ledger or {}).get("rel_items")
     if items:
         trailing = bool((ledger or {}).get("rel_trailing"))
+        # 新账逐项记 sep（该项前有无 `|`）；旧账无 sep 键时退回「项间全有|」
+        has_sep = any("sep" in it for it in items)
         lines = []
         for i, it in enumerate(items):
             txt = _enc(it["text"], ledger)
-            sep = " |" if (i < len(items) - 1 or trailing) else ""
+            if has_sep:
+                nxt = ((i + 1 < len(items) and bool(items[i + 1].get("sep")))
+                       or (i == len(items) - 1 and trailing))
+            else:
+                nxt = (i < len(items) - 1 or trailing)
+            sep = " |" if nxt else ""
             kind = it.get("kind")
             if kind == "dead":
                 lines.append(' <!--<a href="%s">-->%s<!--</a>-->%s'

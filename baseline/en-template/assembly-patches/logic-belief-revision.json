@@ -4,7 +4,7 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 124987,
+  "page_bytes": 124228,
   "pool_bytes": 42385,
   "n_patches": 220
  },
@@ -48154,8 +48154,8 @@
   },
   {
    "u": 117472,
-   "len": 873,
-   "sha": "1150a5486814eb26",
+   "len": 114,
+   "sha": "a3ebf5cc81618f3b",
    "items": [
     [
      "tx",
@@ -48259,13 +48259,13 @@
    ]
   },
   {
-   "r": 118351,
+   "r": 117592,
    "len": 7,
    "sha": "88e550cf4af87b75",
    "after": "</ul>\n"
   },
   {
-   "u": 118546,
+   "u": 117787,
    "len": 156,
    "sha": "64f01d90c3fad52d",
    "items": [
@@ -48326,13 +48326,13 @@
    ]
   },
   {
-   "r": 118708,
+   "r": 117949,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 118795,
+   "u": 118036,
    "len": 266,
    "sha": "b59d1ace762a6b0f",
    "items": [
@@ -48482,13 +48482,13 @@
    ]
   },
   {
-   "r": 119067,
+   "r": 118308,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 119146,
+   "u": 118387,
    "len": 226,
    "sha": "97e10dcaeb8c346f",
    "items": [
@@ -48643,13 +48643,13 @@
    ]
   },
   {
-   "r": 119378,
+   "r": 118619,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 119460,
+   "u": 118701,
    "len": 241,
    "sha": "ad49292f6ba64ec8",
    "items": [
@@ -48781,19 +48781,19 @@
    ]
   },
   {
-   "r": 119707,
+   "r": 118948,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "r": 119825,
+   "r": 119066,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n"
   },
   {
-   "u": 119833,
+   "u": 119074,
    "len": 444,
    "sha": "e066a0efeaa6b088",
    "items": [
@@ -49132,7 +49132,7 @@
    ]
   },
   {
-   "u": 120354,
+   "u": 119595,
    "len": 252,
    "sha": "5361ffb7afba30d9",
    "items": [
@@ -49287,7 +49287,7 @@
    ]
   },
   {
-   "r": 120618,
+   "r": 119859,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n\n"

@@ -37,6 +37,16 @@ BLK_RE = re.compile(r"</?(?:%s)\b[^>]*>" % BLOCK_TAGS)
 TOKEN_RE = re.compile(r"<!--.*?-->|<[^>]*>|[^<]+", re.S)
 WS_SPLIT_RE = re.compile(r"\s+|[^\s]+")
 WS_RE = re.compile(r"\s+")
+CMT_RE = re.compile(r"<!--.*?-->", re.S)
+
+
+def _strip_cmt(s):
+    """剥 HTML 注释（注释内文字不是可见文字，不参与等值判定）。
+
+    bodin 判例：H0 用 `<!--<p>Another Bodin Project…</p>-->` 注释掉一段，
+    C 正确丢弃；旧 plain/ukey 只剥标签不剥注释内容，注释文字混入 B 侧
+    文字流 → 假文字差（ENT FAIL）。"""
+    return CMT_RE.sub("", s)
 
 
 def segments(s):
@@ -76,12 +86,12 @@ def plain(text):
     ent_spans 的 pos 必须同一坐标系，否则 tx 切片越界（98 件
     "tx out of range" 判例）。&nbsp; 的空白语义由 _ws_decoded（unkey/
     ent 等值判定）承载。"""
-    return WS_RE.sub("", re.sub(r"<[^>]*>", "", text))
+    return WS_RE.sub("", re.sub(r"<[^>]*>", "", _strip_cmt(text)))
 
 
 def ukey(text):
     """对齐键：剥标签＋解实体＋去空白（实体形态差不影响对齐）。"""
-    return WS_RE.sub("", htmllib.unescape(re.sub(r"<[^>]*>", "", text)))
+    return WS_RE.sub("", htmllib.unescape(re.sub(r"<[^>]*>", "", _strip_cmt(text))))
 
 
 def _ws_decoded(s):
@@ -89,7 +99,7 @@ def _ws_decoded(s):
 
     aesthetics-of-everyday 判例：H0 `&ldquo;&thinsp;&lsquo;` 对装配侧
     `&ldquo; &lsquo;`——C 把 &thinsp; 折成空格，属格式层差，可入池。"""
-    return WS_RE.sub("", htmllib.unescape(s))
+    return WS_RE.sub("", htmllib.unescape(_strip_cmt(s)))
 
 
 ENT_TOK_RE = re.compile(r"&[A-Za-z#0-9]+;|[\s\S]")

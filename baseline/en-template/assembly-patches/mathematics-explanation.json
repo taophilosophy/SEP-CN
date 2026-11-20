@@ -4,7 +4,7 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 155546,
+  "page_bytes": 154831,
   "pool_bytes": 41994,
   "n_patches": 174
  },
@@ -50516,8 +50516,8 @@
   },
   {
    "u": 147440,
-   "len": 854,
-   "sha": "5ea24cc5f465a9f0",
+   "len": 139,
+   "sha": "8bd248cff3c30916",
    "items": [
     [
      "tx",
@@ -50657,13 +50657,13 @@
    ]
   },
   {
-   "r": 148300,
+   "r": 147585,
    "len": 7,
    "sha": "88e550cf4af87b75",
    "after": "</ul>\n"
   },
   {
-   "u": 148495,
+   "u": 147780,
    "len": 158,
    "sha": "c793fbf7223ff3e4",
    "items": [
@@ -50724,13 +50724,13 @@
    ]
   },
   {
-   "r": 148659,
+   "r": 147944,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 148746,
+   "u": 148031,
    "len": 268,
    "sha": "fe257fc47627724f",
    "items": [
@@ -50880,13 +50880,13 @@
    ]
   },
   {
-   "r": 149020,
+   "r": 148305,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 149099,
+   "u": 148384,
    "len": 228,
    "sha": "96261727fd140fbb",
    "items": [
@@ -51041,13 +51041,13 @@
    ]
   },
   {
-   "r": 149333,
+   "r": 148618,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 149415,
+   "u": 148700,
    "len": 243,
    "sha": "03ed740f8992bb3a",
    "items": [
@@ -51179,19 +51179,19 @@
    ]
   },
   {
-   "r": 149664,
+   "r": 148949,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "r": 149782,
+   "r": 149067,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n"
   },
   {
-   "u": 149790,
+   "u": 149075,
    "len": 179,
    "sha": "94b7a1b228b3f254",
    "items": [
@@ -51323,7 +51323,7 @@
    ]
   },
   {
-   "u": 149973,
+   "u": 149258,
    "len": 199,
    "sha": "d8c58903c5527c79",
    "items": [
@@ -51460,7 +51460,7 @@
    ]
   },
   {
-   "u": 150249,
+   "u": 149534,
    "len": 482,
    "sha": "7216d72f7b6f2ef5",
    "items": [
@@ -51828,7 +51828,7 @@
    ]
   },
   {
-   "r": 150743,
+   "r": 150028,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n\n\n\n\n"
