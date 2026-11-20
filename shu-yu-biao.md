@@ -20,7 +20,7 @@
 | a priori | a priori | 先天（康德传统；与“先验”transzendental 相区分） | logical-consequence；语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | a priori knowledge | — | 先天知识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | A Very Easy Death | — | 《安详辞世》 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13） | 2026-11-13 |
-| A Week on the Concord and Merrimack Rivers | — | 河上一周 | 语料回收（词汇表并网） | 梭罗著作，通行中译《河上一周》（商务印书馆涵芬书坊、果麦等版本）；商务 2025 年新译本作《两河一周》；词汇表并网（ADR-0036） | 2026-11-13 |
+| A Week on the Concord and Merrimack Rivers | — | 《河上一周》 | 语料回收（词汇表并网） | 梭罗著作，通行中译《河上一周》（商务印书馆涵芬书坊、果麦等版本）；商务 2025 年新译本作《两河一周》；词汇表并网（ADR-0036） | 2026-11-13 |
 | a-ji / a-ji kan | 阿字観 | 阿字观 | kukai | 真言宗汉语传统（阿字观想） | 2026-11-09 |
 | a-samavāyi-kāraṇa | असमवायिकारण | 非和合因（亦作“非依处因”） | early-modern-india | 胜论三因义译（non-inherent cause；与 samavāyi-kāraṇa 和合因、nimitta 工具因并列）；亦作记同词异译形；凭证 2026-11-11；2026-11-13 合并 a-samavayi-kāraṇa/a-samavāyi-kāraṇa 同键异形两行 | 2026-11-13 |
 | Abduction | — | 溯因 | 语料回收（词汇表并网） | 学界通行（与 abductive reasoning 溯因推理 同义异形，键形分立）；词汇表并网（ADR-0036） | 2026-11-13 |
@@ -863,7 +863,7 @@
 | cerebral organoid | — | 脑类器官 | 首译（stem-cells） | 学界惯例（神经伦理与干细胞文献通行）；凭证 2026-11-09 | 2026-11-09 |
 | certainty | — | 确定性 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/certainty））；凭证 2026-11-04 | 2026-11-04 |
 | certainty equivalent | — | 确定性等值 | risk | 学界惯例（决策论通行）；凭证 2026-11-09 | 2026-11-09 |
-| ceteris paribus | ceteris paribus | 其他条件不变（亦作“其余条件相同”） | justep-coherence；repugnant-conclusion | 学界惯例（哲学通译“其余情况相同”） | 2026-11-11 合并（同键变体，来源列并双 slug） |
+| ceteris paribus | ceteris paribus | 其他条件不变（亦作“其余条件相同”） | justep-coherence；repugnant-conclusion | 学界惯例（哲学通译“其余情况相同”）；2026-11-20 复核：合并（同键变体，来源列并双 slug） | 2026-11-11 |
 | ceteris paribus preference | — | 其余条件相同的偏好 | logic-preference | 本表既有“其余条件相同”（justep-coherence）派生 | 2026-11-05 |
 | chadō | 茶道 | 茶道 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“茶道”） | 2026-11-02 |
 | chain of being | — | 存在之链 | kant-development | 学界通行（Lovejoy 大存在之链研究；蒲柏诗语）；凭证 2026-11-11 | 2026-11-11 |
@@ -1014,7 +1014,7 @@
 | colonialism | — | 殖民主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | colonization | — | 殖民化 | 语料回收（specs/050 候选池） | 条目语境研判（政治哲学通行殖民化；审定“定殖”为微生物组义）；审定名词库（termonline-all·农业生物技术·微生物组工程，2026-11-18 JWT 直连凭证，审定作“定殖”） | 2026-11-19 |
 | combination operator | — | 组合算子 | belief-merging | 学界通行（与合并算子对举）；凭证 2026-11-10 | 2026-11-10 |
-| Coming of Age | — | 老年 | 语料回收（词汇表并网） | 波伏瓦 La Vieillesse，上海译文出版社 2025 年中译本《老年》（孟玉秋译）；台译本作《论老年》；词汇表并网（ADR-0036） | 2026-11-13 |
+| Coming of Age | — | 《老年》 | 语料回收（词汇表并网） | 波伏瓦 La Vieillesse，上海译文出版社 2025 年中译本《老年》（孟玉秋译）；台译本作《论老年》；词汇表并网（ADR-0036） | 2026-11-13 |
 | commemorari | — | 回忆 | 首现（telesio） | 照文直译（特莱西奥替换术语）；凭证 2026-11-08 | 2026-11-08 |
 | commensalism | — | 偏利共生 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·兽医学·兽医寄生虫学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Commentary (long/middle) & Epitome | — | 长注／中注／梗概 | delmedigo | 学界通行（阿威罗伊注疏三体通行译法） | 2026-11-06 |
@@ -2582,7 +2582,7 @@
 | Gravity | — | 引力 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库不一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | Great Awakening | Great Awakening | 大觉醒运动 | edwards 首译 | 学界通行汉译（美国宗教史通名）；凭证 2026-11-10 | 2026-11-10 |
 | great chain of being | scala naturae | 存在巨链 | evil-kinds-origins | 学界通行（洛夫乔伊用语） | 2026-11-12 |
-| Great Learning | — | 大学问 | 语料回收（词汇表并网） | 王阳明《大学问》；儒家经典《大学》英译亦作 the Great Learning，按语境分辨；词汇表并网（ADR-0036） | 2026-11-13 |
+| Great Learning（王阳明《大学问》） | — | 《大学问》 | 语料回收（词汇表并网） | 王阳明 Inquiry on the Great Learning；与儒家经典《大学》英译 the Great Learning 分立（正文诸词条一律作《大学》）；词汇表并网（ADR-0036） | 2026-11-13 |
 | Great Panathenaea | — | 大泛雅典娜节 | zeno-elea | 学界通行（雅典节庆通名）；凭证 2026-11-09 | 2026-11-09 |
 | Great Schism | — | 教会大分裂 | 语料回收（marsilius-inghen 首译） | 史学界通行译法（1378 西方教会大分裂）；凭证 2026-11-06 | 2026-11-06 |
 | great-making property | — | 增益伟大性的属性 | god-necessary-being | 完满存在神学通行译法（perfect being theology 语境） | 2026-11-09 |
@@ -3299,7 +3299,7 @@
 | juridicalisation of politics | — | 政治的司法化 | law-ideology | 学界惯例（作者 Sypnowich 自铸术语，直译+括注）；凭证 2026-11-03 | 2026-11-03 |
 | jury theorem | — | 陪审团定理 | jury-theorems | 学界惯例（孔多塞陪审团定理为政治哲学/社会选择理论通行译法）；凭据 2026-11-02 | 2026-11-02 |
 | jus | jus | 拉丁原文保留（法律的正当性） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
-| Just Assassins | — | 正义者 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
+| Just Assassins | — | 《正义者》 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13） | 2026-11-13 |
 | just distance | — | 公正距离 | ricoeur | 利科术语（juste distance）；凭证 2026-11-11 | 2026-11-11 |
 | just war doctrine | — | 正义战争学说 | grotius | 学界通行；凭证 2026-11-12 | 2026-11-12 |
 | justice sensitivity | — | 正义敏感性 | justice-moral-psych | Schmitt 等量表术语通行汉译；凭证 2026-11-10 | 2026-11-10 |
@@ -4766,7 +4766,7 @@
 | placebo effect | — | 安慰剂效应 | informed-consent | 学界通行 | 2026-11-12 |
 | placeholder | — | 占位符 | schema | 学界惯例（逻辑与计算机通行） | 2026-11-06 |
 | plagiarism | — | 剽窃 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·编辑与出版学·著作权·著作权限制与著作权保护，2026-11-18 JWT 直连凭证） | 2026-11-19 |
-| Plague | — | 鼠疫 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
+| Plague | — | 《鼠疫》 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13） | 2026-11-13 |
 | Plastic Nature | the Plastick Life of Nature | 塑形自然 | cambridge-platonists 补登 | 学界通行（库德沃斯术语；Spirit of Nature 自然精神 与之对举） | 2026-11-09 |
 | plasticity | — | 可塑性 | cancer | 学界通行（生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | Platonic ideas | — | 柏拉图式理念 | 语料回收（标题词） | 学界惯例（柏拉图理念论通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -5322,7 +5322,7 @@
 | reason for thinking | — | 证据性理由（据以认定的理由） | necessary-sufficient | 本词条核心区分（证据关系）；凭证 2026-11-08 | 2026-11-08 |
 | reason why | — | 原因性理由（何以如此的理由） | necessary-sufficient | 本词条核心区分（解释性关系）；凭证 2026-11-08 | 2026-11-08 |
 | reasoner | — | 推理机 | ontology-is | 知识工程通行（inference engine 推理引擎）；凭证 2026-11-11 | 2026-11-11 |
-| Rebel | — | 反抗者 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
+| Rebel | — | 《反抗者》 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13） | 2026-11-13 |
 | receiver | — | 接收者 | information-biological | 学界通行（发送者-接收者框架）；凭证 2026-11-12 | 2026-11-12 |
 | Receptivity | — | 接受性 | 语料回收（specs/050 候选池） | 条目语境研判（康德哲学固定词（接受性/自发性对偶）；审定“感受能力”为神经生理学义）；审定名词库（termonline-all·生理学·神经生理学，2026-11-18 JWT 直连凭证，审定作“感受能力”） | 2026-11-19 |
 | Rechtschaffenheit | — | 追求正当 | dilthey 首译 | 狄尔泰伦理学三动因之二（德语原义“正直”）；本词条括注原文；凭证 2026-11-11 | 2026-11-11 |
@@ -5716,7 +5716,7 @@
 | second intention | — | 第二意向（亦作“第二意图”） | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08；2026-11-15 补亦作（审定形，两形并行） | 2026-11-15 |
 | second nature | — | 第二自然 | adorno | 学界通行汉译（黑格尔/卢卡奇/阿多诺研究通行）；审定库无查询件（termonline-all 目录现查 2026-11-10） | 2026-11-10 |
 | Second Postulate | — | 第二公设 | kant-transcendental | 学界通行（康德 A218/B266 公设章）；凭证 2026-11-11 | 2026-11-11 |
-| Second Sex | — | 第二性 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
+| Second Sex | — | 《第二性》 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13） | 2026-11-13 |
 | second-order axiom | — | 二阶公理 | schema | 学界惯例（数理逻辑通行） | 2026-11-06 |
 | second-order knowledge | — | 二阶知识 | gomez-pereira（其他网络资源） | 布埃诺哲学通行（filosofía como saber de segundo grado）；凭证 2026-11-12 | 2026-11-12 |
 | second-order nominalism | — | 二阶唯名论 | nominalism-metaphysics | 二阶逻辑通行（second-order 二阶） | 2026-11-10 |
@@ -6652,7 +6652,7 @@
 | tracking (belief tracking) | — | 追踪（信念追踪） | closure-epistemic 首译 | 知识论通行（Nozick/Dretske 追踪条件）；凭证 2026-11-08 | 2026-11-08 |
 | tractability | — | 可操作性 | model-organisms 首译 | 生物学哲学通行译名（指生物易于实验操作与饲养）；凭证 2026-11-09 | 2026-11-09 |
 | Tractatus (Summule logicales) | — | 《逻辑纲要》 | peter-spain | 本词条首译裁定（Peter of Spain 的 Tractatus/Summule logicales；勿与奥卡姆《逻辑大全》Summa logicae 混同）；凭证 2026-11-09 | 2026-11-09 |
-| Tractatus Politicus | — | 政治论 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库不一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
+| Tractatus Politicus | — | 《政治论》 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库不一致（termonline-all 凭证 2026-11-13） | 2026-11-13 |
 | Trade liberalization | — | 贸易自由化 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·经贸，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | traditional intellectual | — | 传统知识分子 | gramsci | 葛兰西术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | tragic choice | — | 悲剧性选择 | disability-care-rationing | 法学与伦理学通行（Calabresi & Bobbitt 1978）；凭证 2026-11-08 | 2026-11-08 |
