@@ -320,3 +320,4 @@
 * **修法**：workflow 名去 emoji；issue 组装“落地”改一行指针（drift md 已有处置路线节，不再重复）；fetch/drift/updates 三 step 各打一行人话摘要（快照计数／十向漂移计数＋装配结论／队列计数＋前 10 条），机器 JSON 一律只落 RUNNER_TEMP 进工件；render_md 全零节折叠“其余 N 项均无差异：…”；render_queue_md 源行人话化（_human_source）；assembly_check 用 redirect_stdout 吞 build/compute 子打印（--quiet 下 stdout 干净）。
 * **验证**：本地离线（--latest 快照）render_md/render_queue_md/摘要提取行全验；yml yaml.safe_load 校验；check_all 17 项全绿；提交 12bca3c62 后手动触发真实运行 success，日志三摘要行与 issue #49 新评论均达标（无裸 JSON、无空节刷屏、无 emoji）。
 * **教训**：bash 双引号内反引号是命令替换，CI echo 里包命令必须防替换（已在 yml 头部立日志纪律注释）；--quiet 语义要覆盖全部 print 路径——import 调用的子函数 print 会直通 stdout。
+* **收尾（用户批准关旧开新）**：旧 issue #49 已关闭（留说明：缺陷根因＋修复提交＋验证运行号）；重触发运行 44833333086 success，新建 issue #51 即新格式产出（无裸 JSON、无空节刷屏）。
