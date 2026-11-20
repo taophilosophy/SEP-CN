@@ -823,11 +823,11 @@
 | Ch’egwan | — | 谛观 | 高丽 | 约950–970 | korean-buddhism | 汉文传统写法（源文汉字 諦觀；高丽僧，《天台四教仪》）；籍属/生卒联网查证：Wikidata Q18225372（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Ch’oe Che-u | — | 崔济愚 | 朝鲜 | 1824–1864 | korean-philosophy | 汉文传统写法（东学创祖，水云）；籍属/生卒联网查证：Wikidata Q489310（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Ch’oe Hangi | — | 崔汉绮 | — | — | korean-philosophy | 汉文传统写法（源文汉字 崔漢綺；气学者，惠冈） | 2026-11-05 |
-| Ch’oe Namsŏn | 崔南善 | 崔南善 | — | — | korean-buddhism | 学界通行汉译（韩文 최남선，汉字 崔南善；近代学者） | 2026-11-05 |
+| Ch’oe Namsŏn | 崔南善 | 崔南善 | 朝鲜 | 1890–1957 | korean-buddhism | 学界通行汉译（韩文 최남선，汉字 崔南善；近代学者）；籍属/生卒联网查证：Wikidata Q626601（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Ch’ungsŏn | 忠宣王 | 忠宣王 | 在位 1308–1313 | — | korean-confucianism | 汉文传统写法（高丽王，元大都万卷堂创设者） | 2026-11-08 |
 | Cicero, Marcus Tullius | — | 西塞罗 | — | — | dialectical-school | 学界千年通行汉译（《论命运》《学园篇》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Cinque (Joseph Cinqué) | — | 辛凯 | — | — | alexander-crummell | 阿米斯塔德号暴动领袖通行译名 | 2026-11-07 |
-| Cintula, Petr | — | Petr Cintula | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Cintula, Petr | — | Petr Cintula | — | 1978– | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q93373584（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Cittadini da Faenza, Antonio | — | 安东尼奥·奇塔迪尼·达·法恩扎 | — | — | gianfrancesco-pico | 音译（与乔瓦尼·皮科辩论《论存在者与太一》者） | 2026-11-09 |
 | Clairaut, Alexis | — | 亚历克西斯·克莱罗 | 法国／数学 | 1713–1765 | newton | 数学史通行汉译；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 11852092X（2026-11-14 查，凭证 verify-2026-11-14-gnd-e.tsv） | 2026-11-14 |
 | Clara Zetkin | — | 克拉拉·蔡特金 | 苏联／德国／女性主义 | 1857–1933 | luxemburg | 学界通行汉译；籍属/生卒联网查证：GND 规范标目 gnd 118636618（2026-11-14 查，凭证 verify-2026-11-14-gnd-e.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-14 |
@@ -843,7 +843,7 @@
 | Clay, Diskin | — | 狄金·克莱 | 美国 | 1938–2014 | epicurus | 音译（卢克莱修研究；与 Clayman 克莱曼 异人）；籍属/生卒联网查证：GND 规范标目 gnd 1069425435（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Clayman, D. | — | 克莱曼 | 美国 | fl. 1972 | timon-phlius | 学界惯例（2009 年第蒙研究作者；音译）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 132039249（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Cleanthes | — | 克勒安忒斯 | 古希腊 | 前331–前232 | intentionality-ancient | 学界通行汉译（斯多葛第二主）；籍属/生卒联网查证：GND 规范标目 gnd 118834606（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Clement of Alexandria | — | 亚历山大的克莱门（教父学亦作“克雷芒”） | — | — | xenophanes；intentionality-ancient | 学界通行汉译（教父）；凭证 2026-11-07；2026-11-08 重复行合并（旧行“亚历山大的克雷芒”并此，ci-hui-biao 同步） | 2026-11-07 |
+| Clement of Alexandria | — | 亚历山大的克莱门（教父学亦作“克雷芒”） | 古罗马（亚历山大里亚） | 约150–约215 | xenophanes；intentionality-ancient | 学界通行汉译（教父）；凭证 2026-11-07；2026-11-08 重复行合并（旧行“亚历山大的克雷芒”并此，ci-hui-biao 同步）；籍属/生卒联网查证：Wikidata Q188883（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Clement V | — | 克莱门特五世 | 梵蒂冈（教宗） | 1264–1314 | giles | 教皇通译惯例（本名 Bertrand de Got）；籍属/生卒联网查证：Wikidata Q131463（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Clement VI | — | 克雷芒六世 | 法国 | 1292–1352 | autrecourt | 学界通行汉译（教宗，1342–1352 在位）；籍属/生卒联网查证：GND 规范标目 gnd 118563114（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Clement VII | — | 克莱芒七世 | 教皇国 | 1523–1534 在位 | copernicus | 教皇通译惯例（同 Clement V／VI 行先例）；凭证 2026-11-13 | 2026-11-13 |
@@ -870,7 +870,7 @@
 | Cohen, L. Jonathan | — | 乔纳森·科恩 | 英国 | 1923–2006 | faith | 学界通行音译（《信念与接受》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Cohen, Paul J. | — | 保罗·科恩 | 美国 | 1934–2007 | axiom-choice | 学界通行汉译（连续统假设与选择公理独立性、力迫法；与 Hermann/Felix Cohen 异人）；凭证 2026-11-13 | 2026-11-13 |
 | Cohen, Ronnie | — | 罗妮·科恩 | 美国 | — | it-moral-values | 学界通行音译（性别与游戏研究）；凭证 2026-11-10 | 2026-11-10 |
-| Cohen, Stewart | — | 斯图尔特·科恩 | — | — | closure-epistemic | 学界通行音译（语境论；与赫尔曼·科恩异人）；凭证 2026-11-08 | 2026-11-08 |
+| Cohen, Stewart | — | 斯图尔特·科恩 | 美国 | 1953– | closure-epistemic | 学界通行音译（语境论；与赫尔曼·科恩异人）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 140535039（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Cole, G.D.H. | — | G.D.H.柯尔 | 英国／经济学 | 1889–1959 | dewey-political | 学界通行（基尔特社会主义者，字母保留体例）；籍属/生卒联网查证：GND 规范标目 gnd 118669702（2026-11-14 查，凭证 verify-2026-11-14-gnd-e.tsv） | 2026-11-14 |
 | Cole, Phillip | — | 菲利普·科尔 | 英国 | 1956– | immigration | 音译（民主与移民）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 1067197877（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Cole, Phyllis | — | 菲莉丝·科尔 | 美国 | 1944– | f/fuller-margaret | 音译（富勒研究者）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 1078963576（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
@@ -889,17 +889,17 @@
 | Comfort, Nathaniel | — | 纳撒尼尔·康福特 | 美国 | 1962– | genetics | 医学遗传学史家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 1034397036（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Comte, Auguste | — | 奥古斯特·孔德 | 法国 | 1798–1857 | origin-descent | 学界通行汉译（《实证哲学教程》中译本）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118521748（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Condillac, Étienne Bonnot de | Étienne Bonnot de Condillac | 艾蒂安·博诺·德·孔狄亚克 | 法国／哲学 | 1714–1780 | SUMMARY 定名（c/condillac.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06；籍属/生卒联网查证：GND 规范标目 gnd 118521756（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
-| Condorcet, Marie Jean Antoine Nicolas de Caritat, Marquis de | — | 孔多塞 | — | — | jury-theorems | 学界通行汉译（法国启蒙思想家、数学家）；凭据 2026-11-02 | 2026-11-02 |
-| Confucius | — | 孔子 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-04 |
+| Condorcet, Marie Jean Antoine Nicolas de Caritat, Marquis de | — | 孔多塞 | 法国 | 1743–1794 | jury-theorems | 学界通行汉译（法国启蒙思想家、数学家）；凭据 2026-11-02；籍属/生卒联网查证：Wikidata Q201477（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Confucius | — | 孔子 | 中国（春秋·鲁） | 前551–前479 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：Wikidata Q4604（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Conn, Christopher | — | Christopher Conn（现代学者，保留英文） | — | — | omnipresence | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Connolly, Niall | — | 尼尔·康诺利 | — | — | imaginative-resistance | 音译（情感与想象阻力）；凭证 2026-11-12 | 2026-11-12 |
 | Connor, Margaret | — | 玛格丽特·康纳 | 澳大利亚 | fl. 2017 | cockburn | 学界惯例（考克本研究者，音译；脚注出现）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 1136909117（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Conrad, Theodor | — | 特奥多尔·康拉德 | 德国／现象学 | 1881–1969 | reinach | 学界惯例音译（慕尼黑—哥廷根现象学圈）；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q94887626（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Conrad-Martius, Hedwig | — | 黑德维希·康拉德-马齐乌斯 | 德国／现象学 | 1888–1966 | reinach | 学界通行汉译（实在论现象学）；凭证 2026-11-09 | 2026-11-09 |
 | Constant, Benjamin | — | 邦雅曼·贡斯当 | 法国／瑞士 | 1767–1830 | oakeshott | 学界通行汉译（《古代人的自由与现代人的自由》中译本）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q123089（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Constantine Africanus | — | 阿非利加的康斯坦丁 | — | — | israeli | 医学史通行汉译（萨勒诺译者） | 2026-11-06 |
+| Constantine Africanus | — | 阿非利加的康斯坦丁 | 意大利（萨莱诺）／非洲 | 约1020–1087 | israeli | 医学史通行汉译（萨勒诺译者）；籍属/生卒联网查证：Wikidata Q468641（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Contesi, Filippo | — | 菲利波·孔泰西 | 意大利 | 当代 | croce-aesthetics | 学界通行音译（美学家，本词条致谢）；凭证 2026-11-10 | 2026-11-09 |
-| Conway, Lady Anne | — | 安妮·康威 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-04 |
+| Conway, Lady Anne | — | 安妮·康威 | 英国 | 1631–1679 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：Wikidata Q260404（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Cook Ding | 庖丁 | 庖丁 | 中国／战国 | — | zhu-xi | 学界通行汉译（《庄子》养生主庖丁解牛；汉字本名）；凭证 2026-11-15 | 2026-11-15 |
 | Cook, Stephen | — | Stephen Cook | 加拿大 | 1939– | logic-linear | 无通行汉名，保留英文原名（计算复杂性）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 140808973（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Cooper, Anthony Ashley (3rd Earl of Shaftesbury) / Anthony Ashley Cooper | Shaftesbury | 安东尼·阿什利-柯柏 | 英国 | 1671–1713 | cambridge-platonists | 学界通行汉译（第三代沙夫茨伯里伯爵）；凭证 2026-11-09 | 2026-11-09 |
@@ -921,7 +921,7 @@
 | Cosimo de' Medici | — | 科西莫·德·美第奇 | 佛罗伦萨／托斯卡纳大公 | 1519–1574 | natphil-ren | 学界通行汉译（佛罗伦萨学院庇护人）；凭证 2026-11-10 | 2026-11-10 |
 | Cosmides, Leda | — | 莱达·科斯米德斯 | 美国 | 1957– | innateness-cognition | 音译（演化心理学）；凭证 2026-11-12 | 2026-11-12 |
 | Costa, Paul | — | Paul T. Costa（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（五因素模型）；凭证 2026-11-10 | 2026-11-10 |
-| Costelloe, Timothy M. | — | 蒂莫西·科斯特洛 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Costelloe, Timothy M. | — | 蒂莫西·科斯特洛 | — | 1964– | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q112466556（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Cotes, Roger | — | 罗杰·科茨 | 英国／数学 | 1682–1716 | 语料回收（全目录） | 学界惯例（《原理》第二版编者；通行音译）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 121009645（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Cotnoir, Aaron | — | Aaron Cotnoir | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Cotta, Gaius Aurelius | — | 盖乌斯·奥雷利乌斯·科塔 | 罗马 | 公元前 124—前 74 | carneades | 学界通行音译（罗马执政官、祭司，《论神性》对话人物）；凭证 2026-11-10 | 2026-11-09 |
@@ -935,10 +935,10 @@
 | Crabbé, Marcel | — | Crabbé | 比利时 | — | quine-nf | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Cradock, Elizabeth | — | 伊丽莎白·克拉多克 | — | — | conway | 学界惯例（康威之母，贝内特爵士遗孀；音译）；凭证 2026-11-07 | 2026-11-07 |
 | Craig, William Lane | — | 威廉·莱恩·克雷格 | 美国 | 1949– | omniscience | 学界通行音译；凭证 2026-11-09 | 2026-11-09 |
-| Crantor of Soli | — | 索利的克朗托尔 | — | — | xenocrates | 学界通行汉译（老学园成员，柏拉图注家） | 2026-11-08 |
+| Crantor of Soli | — | 索利的克朗托尔 | 古希腊（索利） | 约前340–前275 | xenocrates | 学界通行汉译（老学园成员，柏拉图注家）；籍属/生卒联网查证：Wikidata Q434773（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Crates | — | 克拉特斯 | 古希腊 | 前365–前285 | timon-phlius | 学界通行汉译（犬儒派哲学家，讽刺诗作者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118715534（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Crathorn, William | — | 威廉·克雷索恩 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-04 |
-| Cratylus | — | 克拉底鲁 | — | — | intentionality-ancient | 学界千年通行汉译（赫拉克利特派） | 2026-11-07 |
+| Crathorn, William | — | 威廉·克雷索恩 | 英国 | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：Wikidata Q4355955（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Cratylus | — | 克拉底鲁 | 古希腊（雅典） | — | intentionality-ancient | 学界千年通行汉译（赫拉克利特派）；籍属/生卒联网查证：Wikidata Q125247（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Crawford, Donald | — | 唐纳德·克劳福德 | — | — | environmental-aesthetics | 学界惯例音译（环境美学） | 2026-11-08 |
 | Cray, Wesley D. | — | Wesley D. Cray（现代学者，保留英文） | 美国 | fl. 2011 | omnipresence | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 1147180571（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Cremona, Gerard of | — | 克雷莫纳的杰拉德 | 意大利／托莱多翻译家 | c. 1114–1187 | israeli | 中世纪翻译史通行汉译（Gerard of Cremona）；凭证 2026-11-11 | 2026-11-11 |
@@ -947,7 +947,7 @@
 | Cresto, Eleonora | — | 埃莱奥诺拉·克雷斯托 | 阿根廷 | 1971– | epistemology-latin-america | 音译（西班牙语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
 | Crick, Francis | — | 弗朗西斯·克里克 | 英国／生物学 | 1916–2004 | genetics | DNA 双螺旋发现者，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 118906275（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Crisp, Roger | — | 罗杰·克里斯普 | 英国 | 1961– | anscombe | 音译（德性伦理学研究者，MMP 续辩者）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 132674513（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Critias | — | 克里提亚 | — | — | intentionality-ancient | 学界通行汉译（柏拉图对话人物） | 2026-11-07 |
+| Critias | — | 克里提亚 | 古希腊（雅典） | 约前460–前403 | intentionality-ancient | 学界通行汉译（柏拉图对话人物）；籍属/生卒联网查证：Wikidata Q294092（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Critolaus | — | 克里托劳斯 | 希腊 | fl. 公元前 2 世纪 | carneades | 学界通行音译（逍遥学派领袖，公元前 155 年雅典使团成员）；凭证 2026-11-10 | 2026-11-09 |
 | Crivellati, Cesare | — | 切萨雷·克里韦拉蒂 | 意大利 | 1553–1640 | natphil-ren | 本词条首译（医学教授，1617 年柏拉图—亚里士多德对话作者）；凭证 2026-11-10 | 2026-11-10 |
 | Croce, Benedetto | — | 贝内代托·克罗齐 | 意大利 | 1866–1952 | oakeshott | 学界通行汉译（《美学原理》中译本）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118522779（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
@@ -963,7 +963,7 @@
 | Cullen, Christopher | — | 古克礼 | 英国 | 1946– | chinese-phil-science | 学界通行（汉名古克礼，李约瑟研究所）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q1086599（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Culverwell, Nathaniel | — | 纳撒尼尔·卡弗韦尔 | 英国 | 1619–1651 | cambridge-platonists | 学界通行音译（《论自然之光》作者）；凭证 2026-11-09 | 2026-11-09 |
 | Cumming, John | — | 约翰·卡明 | 英国 | 1807–1881 | george-eliot | 音译（加尔文宗布道家） | 2026-11-12 |
-| Curien, Pierre-Louis | — | Pierre-Louis Curien | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
+| Curien, Pierre-Louis | — | Pierre-Louis Curien | 法国 | 1953– | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q102291682（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Currie, Gregory | — | 格雷戈里·柯里 | 英国 | 1950– | imaginative-resistance | 音译（虚构与想象）；凭证 2026-11-12 | 2026-11-12 |
 | Curry, Haskell Brooks | — | 哈斯凯尔·柯里 | 美国／数学 | 1900–1982 | deductivism-mathematics | 学界通行汉译（柯里—霍华德对应）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 12283643X（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Curti, (Cardinal) | — | 库尔蒂枢机 | — | — | autrecourt | 音译（审判法官，埃利亚的彼得·库尔蒂枢机） | 2026-11-06 |
@@ -977,12 +977,12 @@
 | D'Alembert, Jean le Rond | — | 让·勒朗·达朗贝尔 | 法国／数学 | 1717–1783 | montesquieu；newton | 学界通行汉译（《百科全书》主编；数学史通行；与 newton 会话 d'Alembert 行合并，日期保留先者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 11850178X（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | da Costa, Newton | — | 达科斯塔 | 巴西 | 1929–2024 | 语料回收（mathematics-inconsistent 首译） | 逻辑学界通行汉译（巴西逻辑学家，弗协调逻辑创始人）；审定库无相关命中（凭证 2026-11-06）；籍属/生卒联网查证：GND 规范标目 gnd 122618645（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Dabringer, Gerhard | — | 格哈德·达布林格 | 奥地利 | — | it-moral-values | 学界通行音译（军事伦理）；凭证 2026-11-10 | 2026-11-10 |
-| Daehaeng | — | 大行 | — | — | korean-buddhism | 汉文传统写法（한마음선원 创始尼，法名 대행 汉字 大行） | 2026-11-05 |
+| Daehaeng | — | 大行 | 韩国／佛教 | 1927–2012 | korean-buddhism | 汉文传统写法（한마음선원 创始尼，法名 대행 汉字 大行）；籍属/生卒联网查证：Wikidata Q1157058（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Dahl, Robert | — | 罗伯特·达尔 | 美国 | 1915–2014 | economic-democracy | 学界通行汉译（民主理论家）；籍属/生卒联网查证：GND 规范标目 gnd 118862804（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Dahrendorf, Ralf | — | 拉尔夫·达伦多夫 | 英国／德国／政治 | 1929–2009 | erasmus | 学界惯例（社会学家通行汉译）；籍属/生卒联网查证：GND 规范标目 gnd 118678612（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Dahui Zonggao | — | 大慧宗杲 | 中国 | 1089–1163 | korean-buddhism | 汉文传统写法（临济宗，看话禅创倡者）；籍属/生卒联网查证：GND 规范标目 gnd 119017814（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Dai Zhen | Dai Dongyuan（字东原） | 戴震 | 中国／通学 | 1724–1777 | dai-zhen | 上游自带汉字；学界通行（清中叶考据学巨擘）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 11905258X（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
-| Dal Lago, Ugo | — | Ugo Dal Lago | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
+| Dal Lago, Ugo | — | Ugo Dal Lago | — | 1977– | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q93944804（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Dalen, Dirk van | — | van Dalen（现代学者，保留英文） | 荷兰 | 1936– | intuitionism | ADR-0022：无通行汉名者保留英文；凭证 2026-11-10 | 2026-11-10 |
 | Damaris Masham | — | 达玛里斯·马沙姆 | 英国／文学 | 1659–1708 | lady-masham | 学界通行汉译（早期英格兰女性哲学家）；籍属/生卒联网查证：GND 规范标目 gnd 100459307（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-14 |
 | Damascius | — | 达马斯基乌斯 | 古希腊 | 458–533 | neoplatonism | 学界通行汉译（5–6 世纪雅典学园掌门）；籍属/生卒联网查证：GND 规范标目 gnd 118988158（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -990,7 +990,7 @@
 | Damon | — | 达蒙 | 希腊（雅典） | — | zeno-elea | 学界惯例音译（雅典音乐家，伯里克利之师）；凭证 2026-11-09 | 2026-11-09 |
 | Damourette, Jacques | — | Jacques Damourette | 法国 | 1873–1943 | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 118969021（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Dan, Joseph | — | 约瑟夫·丹 | 以色列 | 1935–2022 | scholem | 构词直译（卡巴拉研究）；凭证 2026-11-08 | 2026-11-08 |
-| Dana Scott | — | 达纳·斯科特 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Dana Scott | — | 达纳·斯科特 | 美国 | 1932– | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：Wikidata Q49823（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Dana, Jason | — | Jason Dana（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（退出选项实验）；凭证 2026-11-10 | 2026-11-10 |
 | Danecki | — | Danecki | — | — | logic-dynamic | 源文仅称姓（Danecki 1984a/1984b），保留英文；凭证 2026-11-10 | 2026-11-09 |
 | Daniel Bell | — | 丹尼尔·贝尔 | 美国 | 1919–2011 | law-ideology | 学界通行汉译（社会学家，《意识形态的终结》作者）；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：Wikidata Q316330（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -1001,13 +1001,13 @@
 | Dante | Dante | 但丁 | — | — | schlegel | 学界千年通行；凭证 2026-11-07 | 2026-11-07 |
 | Dao Qian | 道谦 | 道谦 | 中国／南宋 | — | zhu-xi | 学界通行汉译（开善寺道谦禅师；汉字法名）；凭证 2026-11-15 | 2026-11-15 |
 | Darboux, Gaston | — | 加斯东·达布 | 法国／数学 | 1842–1917 | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06；籍属/生卒联网查证：GND 规范标目 gnd 116027274（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
-| Darden, Lindley | — | 林德利·达登 | — | — | biology-philosophy | 学界通行汉译（科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Darden, Lindley | — | 林德利·达登 | 美国 | 1945– | biology-philosophy | 学界通行汉译（科学哲学文献）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q6552543（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Dargazīnī, Qawwām al-Dīn | — | 达尔加齐尼 | — | — | al-qudat | 学界惯例（塞尔柱维齐尔，通行音译） | 2026-11-06 |
 | Dārimī, ʿUthmān ibn Saʿīd al- | عثمان بن سعيد الدارمي | 奥斯曼·本·赛义德·达里米 | — | d. 280/893–282/895 | ibn-taymiyya | 音译（早期传统主义者，空间神学脉络；学界无统一汉名） | 2026-11-12 |
 | Darrigol, Olivier | — | 奥利维耶·达里戈 | 法国 | fl. 1982 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 1060803984（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Dasgupta, Partha | — | 帕塔·达斯古普塔 | 印度／英国／经济学家 | 1942– | ramsey-economics | 学界通行音译（《人类福祉与自然环境》作者，本词条作者）；凭证 2026-11-11 | 2026-11-11 |
 | Dashtakī, Ghiyāt al-Dīn | — | 吉亚斯·丁·达什塔基 | — | — | theology-aristotle | 学界惯例（萨法维早期哲学家）；凭证 2026-11-08 | 2026-11-08 |
-| Dashtakī, Ghiyāth al-Dīn Manṣur | — | 吉亚斯丁·曼苏尔·达什塔基 | — | — | arabic-islamic-mysticism | 设拉子学派通行音译 | 2026-11-07 |
+| Dashtakī, Ghiyāth al-Dīn Manṣur | — | 吉亚斯丁·曼苏尔·达什塔基 | 波斯（设拉子） | 1462–1542 | arabic-islamic-mysticism | 设拉子学派通行音译；籍属/生卒联网查证：Wikidata Q16050084（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Dashtakī, Mīr Ṣadr al-Dīn | — | 米尔·萨德尔丁·达什塔基 | — | — | arabic-islamic-mysticism | 设拉子学派通行音译 | 2026-11-07 |
 | Dauben, Joseph W. | — | Dauben | 美国／史学 | 1944– | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 172037530（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Daubert, Johannes | — | 约翰内斯·道伯特 | 德国／现象学 | 1877–1947 | reinach | 学界通行汉译（慕尼黑学派）；凭证 2026-11-09 | 2026-11-09 |
@@ -1018,7 +1018,7 @@
 | David Qimhi | — | 大卫·金希 | 犹太／法国 | 1160–1235 | israeli | 犹太释经学通行汉译（Radak）；籍属/生卒联网查证：GND 规范标目 gnd 10096673X（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | David Schmidtz | — | 戴维·施密茨 | 加拿大／美国 | 1955– | justice-virtue | 学界通行汉译（政治哲学，《正义要素》）；凭证 2026-11-02；籍属/生卒联网查证：GND 规范标目 gnd 17079685X（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | David Thomas | — | 大卫·托马斯 | — | — | locke-on-medicine | 通行译名（索尔兹伯里医生，洛克友人） | 2026-11-05 |
-| David Velleman | — | 大卫·维勒曼 | — | — | 语料回收（全目录） | 学界惯例（行动哲学/康德伦理学）；凭证 2026-11-01 | 2026-11-01 |
+| David Velleman | — | 大卫·维勒曼 | 美国 | 1952– | 语料回收（全目录） | 学界惯例（行动哲学/康德伦理学）；凭证 2026-11-01；籍属/生卒联网查证：Wikidata Q1620273（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Davidowicz, Klaus S. | — | 克劳斯·达维多维奇 | 奥地利 | 1963– | scholem | 德语名音译；凭证 2026-11-08 | 2026-11-08 |
 | Davidson, Donald | — | 戴维森 | 美国 | 1917–2003 | truth-coherence | 学界通行汉译（语言哲学；融贯论与知识）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118827480（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Davidson, Maria | — | 戴维森（Maria Davidson；本词条引用文献作者，与语言哲学家 Donald Davidson 同姓异人） | 美国 | 1972– | erotic-art | 学界惯例音译（本词条引用文献作者）；2026-11-09 反向校对加同姓异人注；籍属/生卒联网查证：GND 规范标目 gnd 1048579387（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
@@ -1027,10 +1027,10 @@
 | Davis, Stephen T. | — | 斯蒂芬·戴维斯 | 美国 | 1940– | omniscience | 学界惯例音译；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 136192661（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Dawānī, Jalāl al-Dīn | — | 贾拉尔丁·达瓦尼 | 伊朗／神学 | 1427–1502 | arabic-islamic-mysticism | 设拉子学派通行音译；籍属/生卒联网查证：GND 规范标目 gnd 100643574（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Dawkins, Richard | — | 理查德·道金斯 | 英国 | 1941– | biology-philosophy | 学界通行汉译；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 120434059（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Day, Willard | — | 威拉德·戴 | — | — | behaviorism | 《行为主义》期刊创办主编（1977 年《行为与哲学》更名）；学界通行音译 | 2026-11-08 |
+| Day, Willard | — | 威拉德·戴 | 美国 | 1926–1989 | behaviorism | 《行为主义》期刊创办主编（1977 年《行为与哲学》更名）；学界通行音译；籍属/生卒联网查证：Wikidata Q61698445（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | de Almeida, Claudio Gonçalves | — | 克劳迪奥·贡萨尔维斯·德·阿尔梅达 | 巴西 | 1960– | epistemology-latin-america | 音译（葡萄牙语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
 | de Finetti, Bruno | — | 布鲁诺·德·菲内蒂 | 意大利／概率论 | 1906–1985 | quantum-bayesian | 学界通行汉译（主观主义概率论、de Finetti 表示）；凭证 2026-11-12 | 2026-11-12 |
-| De Giacomo, Giuseppe | — | Giuseppe De Giacomo | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
+| De Giacomo, Giuseppe | — | Giuseppe De Giacomo | — | 1965– | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q59189527（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | De Groote, Philippe | — | Philippe de Groote | 法国 | 1961– | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1067811443（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | de Jouvenel, Bertrand | — | 贝特朗·德·茹弗内尔 | 法国 | 1903–1987 | sovereignty | 学界通行汉译（政治社会学文献通行“茹弗内尔”，亦作“儒弗内尔”）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119557177（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | de Laguna, Grace | — | 格蕾丝·德拉古纳 | 美国 | 1878–1978 | langer | 美国哲学家（发生性实在论；学界惯用“德拉古纳”）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 1055182098（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
@@ -1040,7 +1040,7 @@
 | De Mowbray, Malcolm | — | 马尔科姆·德·莫布雷 | — | — | condemnation | 学界惯例（音译，1277 年论辩研究）；凭证 2026-11-08 | 2026-11-08 |
 | de Olaso, Ezequiel | — | 埃塞基埃尔·德·奥拉索 | 阿根廷 | 1932–1996 | epistemology-latin-america | 音译（西班牙语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
 | de Rijk, L. M. | — | L. M. de Rijk（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（《逻辑大全》《相反者的请求》编者） | 2026-11-09 |
-| de Rossi, Azariah | — | 德·罗西 | — | — | albo-joseph | 犹太文献学家（正文作德·罗西） | 2026-11-07 |
+| de Rossi, Azariah | — | 德·罗西 | 意大利／犹太学术 | 约1511–1578 | albo-joseph | 犹太文献学家（正文作德·罗西）；籍属/生卒联网查证：Wikidata Q793598（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | de Sailly | — | 德萨伊 | — | — | duhem | 学界惯例（音译）；凭证 2026-11-06 | 2026-11-06 |
 | De Santis, Daniele | — | 达尼埃莱·德·桑蒂斯 | 意大利 | 1983– | reinach | 学界惯例音译（现象学）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1147588724（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | de Sitter, Willem | — | 威廉·德西特 | 荷兰／天文学 | 1872–1934 | cosmology-30s | 学界通行音译（沿用本词条既用“德西特”；与 de Sitter effect 异义同人）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118935569（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
@@ -1058,7 +1058,7 @@
 | della Rovere, Francesco | Francesco della Rovere | 弗朗切斯科·德拉·罗韦雷 | 意大利（萨沃纳） | 1414–1484 | bessarion | 本词条首译（枢机期本名，即教宗西斯笃四世〔见本表 Sixtus IV 行〕） | 2026-11-10 |
 | della Valle, Paolo | — | 保罗·德拉瓦莱 | 意大利 | — | zabarella | 学界通行音译（耶稣会士，罗马学院）；凭证 2026-11-09 | 2026-11-09 |
 | Delmedigo, Elijah | — | 以利亚·德尔·梅第戈 | 意大利／希腊 | 1460–1497 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；籍属/生卒联网查证：GND 规范标目 gnd 119456710（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-14 |
-| Democedes | — | 德摩塞迪斯 | — | — | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
+| Democedes | — | 德摩塞迪斯 | 古希腊（克罗顿） | 前6世纪 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）；籍属/生卒联网查证：Wikidata Q707162（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Democrates | — | 德谟克拉底 | — | — | democritus | 音译（伪托德谟克利特的格言作者，学界惯用形） | 2026-11-06 |
 | Democritus | — | 德谟克利特 | 希腊（阿布德拉）／原子论 | c. 460–c. 370 BCE | arabic-islamic-phil-math | 学界千年通行汉译（原子论奠基者；勿与伪托格言作者 Democrates 德谟克拉底相混） | 2026-11-08 |
 | Demosthenes | — | 德摩斯梯尼（亦作“狄摩西尼”） | 古希腊 | 前384–前322 | olympiodorus、boethius | 学界千年通行汉译（演说家，论题 differentia 例证）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 118524658（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -1067,7 +1067,7 @@
 | DePaul, Michael R. | — | 迈克尔·德保罗 | 美国／哲学家 | — | reflective-equilibrium | 学界通行音译（《平衡与精炼》作者，激进反思平衡）；凭证 2026-11-11 | 2026-11-11 |
 | Depew, David | — | 戴维·迪普 | 美国 | 1942– | origin-descent | 学界惯例（达尔文修辞研究）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 13144123X（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Derk Pereboom | — | 德克·佩雷布姆 | 美国 | 1957– | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）；籍属/生卒联网查证：GND 规范标目 gnd 1103247956（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
-| DeRose, Keith | — | 基思·德罗斯 | — | — | closure-epistemic | 学界通行音译（语境论）；凭证 2026-11-08 | 2026-11-08 |
+| DeRose, Keith | — | 基思·德罗斯 | 美国 | 1962– | closure-epistemic | 学界通行音译（语境论）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q15459004（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Derrida, Jacques | — | 雅克·德里达 | 法国 | 1930–2004 | bergson | 学界通行汉译；籍属/生卒联网查证：GND 规范标目 gnd 118677888（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Des Bosses | — | 德博斯 | 德国 | 1668–1738 | leibniz-mind | 学界通行汉译（耶稣会士，莱布尼茨通信者巴特洛梅乌斯·德博斯）；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：GND 规范标目 gnd 119363070（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Desargues, Gérard | — | 吉拉尔·德萨格 | 法国／数学 | 1591–1661 | geometry-19th | 射影几何先驱，数学史通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 118671545（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
@@ -1076,13 +1076,13 @@
 | Destutt de Tracy | — | 德斯蒂·德·特拉西 | 法国／政治 | 1754–1836 | law-ideology | 学界通行汉译（意识形态学创导者）；籍属/生卒联网查证：GND 规范标目 gnd 118671677（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-14 |
 | Detlev Claussen | — | 德特勒夫·克劳森 | 德国 | 1948– | adorno | 学界通行音译；凭证 2026-11-10；生卒未详（2026-11-20 复核）；籍属/生卒联网查证：GND 规范标目 gnd 124923119（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Deutsch, David | — | 戴维·多伊奇 | 英国 | 1953– | qt-entangle | 学界通行汉译（量子计算）；凭证 2026-11-09 | 2026-11-09 |
-| Devadatta | — | 提婆达多 | — | — | buddhism-chan | 佛学界通行汉译 | 2026-11-05 |
+| Devadatta | — | 提婆达多 | 古印度（释迦族） | 约前6世纪 | buddhism-chan | 佛学界通行汉译；籍属/生卒联网查证：Wikidata Q451043（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Dewey, John / John Dewey | — | 约翰·杜威 | 美国 | 1859–1952 | dewey-political；语料回收（全目录） | 学界通行汉译（SUMMARY 定名沿用）；2026-11-13 重复行合并（旧键 `John Dewey`）；籍属/生卒联网查证：Wikidata Q131805（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Dharmakīrti | धर्मकीर्ति | 法称 | 南印度／佛教量论 | c. 600–660 | gelukpa | 佛学界通行汉译 | 2026-11-01 |
 | Dharmamitra | — | Dharmamitra（保留梵文） | 迦湿弥罗／佛教般若 | 约 800 | srigupta | 无汉文古译与通行今译（ADR-0022 类推，保留梵文；与五世纪译师昙摩蜜多同名异人） | 2026-11-13 |
 | Dharmapāla | — | 护法 | 古印度／瑜伽行派 | 约 6 世纪 | yogacara | 汉传佛典通行译名（《成唯识论》所糅十师之一）；凭证 2026-11-11 | 2026-11-11 |
 | Dharmottara | — | 法上 | 古印度／佛教哲学 | 740–800 | epistemology-language-tibetan、knowledge-analysis | 佛学界通行（印度量论师；汉文古译传统；法称后学因明论师，约 770 年；与中文同名古师别为二人）；籍属/生卒联网查证：GND 规范标目 gnd 1089149220（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Di Cosmo, Roberto | — | Roberto Di Cosmo | — | — | logic-linear | 无通行汉名，保留英文原名（该词条作者）；凭证 2026-11-10 | 2026-11-09 |
+| Di Cosmo, Roberto | — | Roberto Di Cosmo | 意大利 | 1963– | logic-linear | 无通行汉名，保留英文原名（该词条作者）；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q3436879（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Diaconescu, Radu | — | Diaconescu（现代学者，保留英文） | 罗马尼亚 | — | intuitionism | ADR-0022：无通行汉名者保留英文；凭证 2026-11-10 | 2026-11-10 |
 | Diagoras | — | 狄亚戈拉斯 | — | — | bayle | 学界通行汉译（古希腊无神论者，《神圣者》佚） | 2026-11-08 |
 | Diamond, Peter | — | 彼得·戴蒙德 | 美国／经济学家 | 1940– | ramsey-economics | 学界通行汉译（诺贝尔经济学奖）；凭证 2026-11-11 | 2026-11-11 |
@@ -1100,11 +1100,11 @@
 | Dinet, Jacques | — | 雅克·迪内 | 法国／神学 | 1580–1653 | henricus-regius | 音译（法国耶稣会士，笛卡尔《致迪内神父书》收信人）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 115872329（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dingle, Herbert | — | 赫伯特·丁格尔 | 英国 | 1890–1978 | cosmology-30s | 学界通行音译（本词条论战发动者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 143211072（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dio | — | 狄翁 | 古希腊 | 40–120 | dialectical-school | 学界通行汉译（“狄翁去科林斯”标准例证人名）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 11867966X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Diodorus Cronus | Diodorus of Iasos | 狄奥多罗斯·克罗诺斯（正文简作“狄奥多罗斯”；SUMMARY 题名作“卡里亚雅苏斯的狄奥多罗斯”） | — | — | dialectical-school | 词汇表既有裁定：Cronus 承自其师 Apollonius Cronus 之绰号，勿以出生地替代；题名与正文人名并用并存；凭证 2026-11-07 | 2026-11-07 |
-| Diogenes Laertius | — | 第欧根尼·拉尔修 | — | — | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-26 |
+| Diodorus Cronus | Diodorus of Iasos | 狄奥多罗斯·克罗诺斯（正文简作“狄奥多罗斯”；SUMMARY 题名作“卡里亚雅苏斯的狄奥多罗斯”） | 古希腊（伊阿索斯） | — | dialectical-school | 词汇表既有裁定：Cronus 承自其师 Apollonius Cronus 之绰号，勿以出生地替代；题名与正文人名并用并存；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q715478（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Diogenes Laertius | — | 第欧根尼·拉尔修 | 古罗马 | 约180–约240 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）；籍属/生卒联网查证：Wikidata Q59138（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Diogenes of Babylon | — | 巴比伦的第欧根尼 | 巴比伦／雅典 | fl. 公元前 2 世纪 | carneades | 学界通行汉译（斯多葛学派第五任主持人；与第欧根尼·拉尔修异人）；凭证 2026-11-10 | 2026-11-09 |
-| Dionysius of Chalcedon | — | 卡尔克顿的狄奥尼修斯 | — | — | dialectical-school | 学界通行汉译（“辩证学派”命名者，DL 2.106；与亚略巴古的狄奥尼修斯异人）；凭证 2026-11-07 | 2026-11-07 |
-| Dionysius the Areopagite | — | 亚略巴古的狄奥尼修斯（伪狄奥尼修斯） | — | — | abner-burgos | 教父学界通行汉译；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
+| Dionysius of Chalcedon | — | 卡尔克顿的狄奥尼修斯 | 古希腊（卡尔西顿） | — | dialectical-school | 学界通行汉译（“辩证学派”命名者，DL 2.106；与亚略巴古的狄奥尼修斯异人）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q4354636（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Dionysius the Areopagite | — | 亚略巴古的狄奥尼修斯（伪狄奥尼修斯） | 叙利亚／基督教新柏拉图主义 | — | abner-burgos | 教父学界通行汉译；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01）；籍属/生卒联网查证：SEP 原文 en/scottus-eriugena:174（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Dioscorides | — | 迪奥斯科里德斯 | 古希腊 | 约 40–约 90 | natphil-ren | 学界千年通行（《药物论》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Dirac, Paul | — | 狄拉克 | 英国／物理学 | 1902–1984 | 语料回收（mathematics-inconsistent 首译） | 物理学界千年通行汉译；审定库无相关命中（凭证 2026-11-06）；籍属/生卒联网查证：GND 规范标目 gnd 118679775（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | DiSalle, Robert | — | DiSalle | 美国 | fl. 2012 | newton-principia | 无通行汉名，保留英文原名（时空哲学家，Understanding Space-Time 作者）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 1021735922（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -1117,7 +1117,7 @@
 | Doetjes, Jenny | — | Jenny Doetjes | 荷兰 | 1965– | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 173203221（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dōgen | 道元 | 道元 | 日本／佛教哲学 | 1200–1253 | japanese-aesthetics | 学界惯例（日本禅宗史通行汉名）；籍属/生卒联网查证：GND 规范标目 gnd 118526413（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Dokic, Jérôme | Jérôme Dokic | 热罗姆·多基奇 | 瑞士 | 1965– | bodily-awareness | 学界通行音译；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 172685168（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
-| Dolpopa | — | 朵波巴 | — | — | gorampa | 藏传佛教觉囊派学者（dol po pa shes rab rgyal mtshan，1292–1361）；通行音译 | 2026-11-09 |
+| Dolpopa | — | 朵波巴 | 西藏／觉囊派 | 1292–1361 | gorampa | 藏传佛教觉囊派学者（dol po pa shes rab rgyal mtshan，1292–1361）；通行音译；籍属/生卒联网查证：Wikidata Q509416（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Domenico Giulini | — | 保留英文（无通行汉名） | 德国／物理学 | 1959– | spacetime-convensimul | ADR-0022：无通行汉名者保留英文；籍属/生卒联网查证：GND 规范标目 gnd 114542163（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Donagan, Alan | — | 艾伦·多纳根 | 美国 | 1925–1991 | informed-consent | 音译（康德伦理学与生命伦理学者） | 2026-11-12 |
 | Donald Cary Williams | — | 唐纳德·卡里·威廉姆斯 | 美国 | 1899–1983 | 语料回收（全目录） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；籍属/生卒联网查证：SEP 词条 Donald Cary Williams（2026-11-13 查，凭证 verify-2026-11-13.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
@@ -1128,11 +1128,11 @@
 | Doolittle, W. Ford | — | W·福特·杜利特尔 | 美国／加拿大／生物化学 | 1941– | fitness | 学界通行音译（生化演化论者）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 1250083737（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dorandi, Tiziano | — | 蒂齐亚诺·多兰迪 | 意大利 | 1954– | epicurus | 音译（第欧根尼·拉尔修校勘本编者）；籍属/生卒联网查证：GND 规范标目 gnd 139071954（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Dormandy, Katherine | — | 凯瑟琳·多曼迪 | 美国／德国 | 1979– | faith | 音译（信仰与证据主义）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 1049253701（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
-| Dorothea Christiane Erxleben (née Leporin) | Dorothea Christiane Erxleben (née Leporin) | 多罗特娅·克里斯蒂安妮·埃克斯莱本（娘家姓莱波林） | — | — | 18thGerman-preKant | 学界通行汉译（德国首位女医学博士）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-05 |
+| Dorothea Christiane Erxleben (née Leporin) | Dorothea Christiane Erxleben (née Leporin) | 多罗特娅·克里斯蒂安妮·埃克斯莱本（娘家姓莱波林） | 神圣罗马帝国（普鲁士） | 1715–1762 | 18thGerman-preKant | 学界通行汉译（德国首位女医学博士）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-14）；籍属/生卒联网查证：Wikidata Q62931（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Dorothea Veit | Dorothea Veit | 多萝特娅·法伊特 | 德国 | 1764–1839 | schlegel | 学界惯例（门德尔松之女，后为施莱格尔之妻）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q77271（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Dorsey, Dale | — | 戴尔·多尔西 | — | 1976– | truth-coherence | 学界惯例（伦理学家，音译）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 102421124X（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Dostoevsky, Fyodor | — | 陀思妥耶夫斯基 | 俄国／文学 | 1821–1881 | 语料回收（lakatos 首译） | 学界千年通行汉译（俄国作家；《群魔》作者）；审定库无相关命中（凭证 2026-11-06）；籍属/生卒联网查证：GND 规范标目 gnd 118527053（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
-| Douglas Duckworth | — | Douglas Duckworth | — | — | gelukpa | 无通行汉名，保留英文 | 2026-11-01 |
+| Douglas Duckworth | — | Douglas Duckworth | 美国 | 1971– | gelukpa | 无通行汉名，保留英文；籍属/生卒联网查证：Wikidata Q15429224（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Douglas Hofstadter | — | 侯世达 | 美国 | 1945– | reasoning-analogy | 学界通行汉译（《哥德尔、艾舍尔、巴赫》作者）；籍属/生卒联网查证：GND 规范标目 gnd 119440636（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Douven, Igor | — | Igor Douven（现代学者，保留英文） | 荷兰 | 1963– | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1215793081（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Downing, Peter | — | Peter Downing（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
@@ -1152,11 +1152,11 @@
 | Duden, Barbara | — | 芭芭拉·杜登 | 德国／史学 | 1942– | genetics | 妊娠医疗化研究者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 124532195（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dufrenne, Mikel | — | 米凯尔·杜夫海纳 | 法国 | 1910–1995 | ingarden | 学界通行汉译（《审美经验现象学》） | 2026-11-10 |
 | Dughet, Gaspard | — | 加斯帕尔·迪盖 | 法国 | 1615–1675 | environmental-aesthetics | 学界惯例音译（十七世纪风景画家）；籍属/生卒联网查证：GND 规范标目 gnd 118527983（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
-| Duhem, Hélène | Hélène Duhem | 埃莱娜（迪昂之女） | — | — | duhem | 学界惯例（迪昂家人名音译）；凭证 2026-11-06 | 2026-11-06 |
+| Duhem, Hélène | Hélène Duhem | 埃莱娜（迪昂之女） | 法国 | 1891–1974 | duhem | 学界惯例（迪昂家人名音译）；凭证 2026-11-06；籍属/生卒联网查证：Wikidata Q95386828（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Duhem, Pierre | — | 皮埃尔·迪昂 | 法国 | 1861–1916 | duhem | 学界通行汉译（科学史/科学哲学，《物理理论的目的与结构》作者）；籍属/生卒联网查证：GND 规范标目 gnd 118681141（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Dühring, Eugen | — | 欧根·杜林 | 德国 | 1833–1921 | vaihinger | 学界通行汉译（《反杜林论》所批杜林；音译）；凭证 2026-11-14 | 2026-11-14 |
 | Dummett, Michael | — | 迈克尔·达米特 | 英国 | 1923–2011 | logic-fuzzy；brouwer | 学界通行汉译（《分析哲学的起源》等中译本在案）；2026-11-12 B 批按 ADR-0022 通行判据改判，原 2026-11-09 保留英文裁定并入（同键变体，来源列并双 slug） | 2026-11-12 |
-| Dunash Ibn Tamim | Dunash Ibn Tamim | 杜纳什·伊本·塔米姆 | — | — | israeli | 犹太哲学研究通行汉译（伊斯拉埃利门生） | 2026-11-06 |
+| Dunash Ibn Tamim | Dunash Ibn Tamim | 杜纳什·伊本·塔米姆 | 北非／犹太哲学 | 约890–956 | israeli | 犹太哲学研究通行汉译（伊斯拉埃利门生）；籍属/生卒联网查证：Wikidata Q357940（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Duncan-Jones, Austin | — | 奥斯汀·邓肯-琼斯 | 英国 | 1908–1967 | stebbing | 本词条首译（剑桥分析学派成员，无通行汉名） | 2026-11-09 |
 | Dunn, J. Michael | — | J. Michael Dunn | 美国 | 1941–2021 | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：GND 规范标目 gnd 124999123（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Duns Scotus, John / Duns Scotus / Scotus, John Duns | — | 邓斯·司各脱（亦作“司各脱”“约翰·邓·司各脱”） | 英国／法国／神学 | 1266–1308 | 语料回收（全目录）；occasionalism；albert-great | 学界通行汉译；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `Duns Scotus`、`Scotus, John Duns`）；籍属/生卒联网查证：GND 规范标目 gnd 118528165（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
@@ -1171,7 +1171,7 @@
 | Dussel, Enrique | — | 恩里克·杜塞尔 | 阿根廷/墨西哥 | 1934–2023 | habermas | 学界通行汉译（解放哲学与反殖民批评文献）；凭证 2026-11-12 | 2026-11-12 |
 | Dutton, Denis | — | 丹尼斯·达顿 | 新西兰／美国 | 1944–2010 | erotic-art | 学界通行（进化美学）；籍属/生卒联网查证：GND 规范标目 gnd 138949484（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dworkin, Gerald | — | 杰拉尔德·德沃金 | 英国／美国 | 1937–2013 | informed-consent | 音译（法哲学家，自主性理论；与 Ronald Dworkin 分立） | 2026-11-12 |
-| Dworkin, Ronald / Ronald Dworkin | — | 罗纳德·德沃金 | — | — | hegel-social-political；justice-healthcareaccess | 学界通行汉译；2026-11-13 重复行合并（旧键 `Ronald Dworkin`） | 2026-11-13 |
+| Dworkin, Ronald / Ronald Dworkin | — | 罗纳德·德沃金 | 美国 | 1931–2013 | hegel-social-political；justice-healthcareaccess | 学界通行汉译；2026-11-13 重复行合并（旧键 `Ronald Dworkin`）；籍属/生卒联网查证：Wikidata Q319803（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | d’Entrèves, Alessandro Passerin | — | 亚历山德罗·帕塞林·登特列夫 | 意大利／法哲学家 | 1902–1985 | grotius | 学界通行汉译（《自然法》作者，中译本作“登特列夫”）；凭证 2026-11-12 | 2026-11-12 |
 | d’Este, Bianca Maria | — | 比安卡·玛丽亚·德斯特 | — | — | gianfrancesco-pico | 音译（传主之母） | 2026-11-09 |
 
@@ -1225,11 +1225,11 @@
 | Emerson, Ralph Waldo | Emerson | 拉尔夫·沃尔多·爱默生 | 美国 | 1803–1882 | edwards | 学界通行汉译（美国超验主义；与 E. Allen Emerson 行异人分列）；凭证 2026-11-10 | 2026-11-10 |
 | Emil Lask | — | 埃米尔·拉斯克 | 德国／奥地利 | 1875–1915 | 语料回收（全目录） | 学界惯例（新康德主义（西南学派））；凭证 2026-11-01；籍属/生卒联网查证：GND 规范标目 gnd 118569856（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Emin, Tracey | — | 翠西·艾敏 | 英国 | 1963– | erotic-art | 学界惯例音译（英国艺术家）；籍属/生卒联网查证：GND 规范标目 gnd 12140367X（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
-| Empedocles | — | 恩培多克勒 | — | — | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-26 |
+| Empedocles | — | 恩培多克勒 | 古希腊（阿克拉加斯） | 约前494–前434 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）；籍属/生卒联网查证：Wikidata Q83375（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Emperor Huan | — | 汉桓帝 | 中国（东汉） | 132–168 | han-dynasty | 东汉皇帝刘志（上游作 Emperor Huan of Han）；籍属/生卒联网查证：Wikidata Q7297（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Emperor Wu (Han) | — | 汉武帝 | — | — | han-dynasty | 西汉皇帝刘彻（上游作 Emperor Wu of Han） | 2026-11-10 |
 | Emperor Zhao (Han) | — | 汉昭帝 | — | — | han-dynasty | 西汉皇帝刘弗陵（上游作 Emperor Zhao of Han） | 2026-11-10 |
-| Endler, John A. | — | 约翰·恩德勒 | — | — | fitness | 学界通行音译（《自然选择》作者）；凭证 2026-11-13 | 2026-11-13 |
+| Endler, John A. | — | 约翰·恩德勒 | 加拿大 | 1947– | fitness | 学界通行音译（《自然选择》作者）；凭证 2026-11-13；籍属/生卒联网查证：Wikidata Q6231782（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Engel, Amir | — | 阿米尔·恩格尔 | 以色列 | — | scholem | 构词直译（朔勒姆传记作者）；凭证 2026-11-08 | 2026-11-08 |
 | Engel, Johann Jakob | — | 约翰·雅各布·恩格尔 | 德国 | 1741–1802 | august-rehberg | 学界通行音译；正文一次提称；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 11868468X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Engeler, Erwin | — | Erwin Engeler | 瑞士／数学 | 1930–2026 | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1089102372（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
@@ -1237,7 +1237,7 @@
 | Eno, Robert | — | 伊若泊 | 美国 | 1949– | confucius | 学界通行汉名（《儒家的天的创造》作者）；凭证 2026-11-12 confucius r2；籍属/生卒联网查证：GND 规范标目 gnd 172063582（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Enoch | — | 以诺 | — | — | peter-damian | 圣经人名通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | Epictetus | — | 爱比克泰德 | 古希腊 | 50–130 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；审定库不一致（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：GND 规范标目 gnd 118530577（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Epicurus | — | 伊壁鸠鲁 | — | — | democritus | 学界千年通行（花园学派创立者） | 2026-11-06 |
+| Epicurus | — | 伊壁鸠鲁 | 古希腊（雅典） | 前341–前270 | democritus | 学界千年通行（花园学派创立者）；籍属/生卒联网查证：Wikidata Q43216（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Epimenides | — | 埃庇米尼得斯 | — | — | xenophanes | 学界通行汉译（克里特先知）；凭证 2026-11-07 | 2026-11-07 |
 | Epiphanius | — | 埃皮法尼乌斯 | 罗马帝国／教会作家 | — | zeno-elea | 学界通行汉译（萨拉米斯主教、《驳异端》作者）；凭证 2026-11-09 | 2026-11-09 |
 | Epstein, Klaus | — | 克劳斯·爱泼斯坦 | 德国 | 1927–1967 | august-rehberg | 学界通行音译；仅注内出现，生卒待核；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 123490928（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -1257,22 +1257,22 @@
 | Escher, M. C. | — | 埃舍尔 | 荷兰 | 1898–1972 | 语料回收（mathematics-inconsistent 首译） | 艺术史学界通行汉译（荷兰版画家）；审定库无相关命中（凭证 2026-11-06）；籍属/生卒联网查证：GND 规范标目 gnd 118531069（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Ess, Charles | — | 查尔斯·埃斯 | 美国 | 1951– | it-moral-values | 学界通行音译（信息伦理学）；凭证 2026-11-10 | 2026-11-10 |
 | Esteva, Francesc | — | Francesc Esteva | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
-| Estlund, David | — | David Estlund | — | — | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0022） | 2026-11-02 |
+| Estlund, David | — | David Estlund | 美国 | 1958– | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0022）；籍属/生卒联网查证：Wikidata Q5233431（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Etchemendy, John | — | John Etchemendy | 美国 | 1952– | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 132926679（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Euathlus | — | 欧绪阿卢斯 | — | — | lorenzo-valla | 希腊史工具书通行音译（普罗塔戈拉弟子、讼案当事学生） | 2026-11-04 |
 | Eubulides of Miletus | — | 米利都的欧布里德 | — | — | dialectical-school | 学界通行汉译（欧布里德悖论〔说谎者等〕之作者，辩证传统所自出）；凭证 2026-11-07 | 2026-11-07 |
-| Euclid | — | 欧几里得 | — | — | 语料回收（lakatos 首译） | 学界千年通行汉译（古希腊几何学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
-| Euclides of Megara | — | 麦加拉的欧克里德 | — | — | dialectical-school | 学界通行汉译（麦加拉学派创立者，苏格拉底式对话作者；与几何学家欧几里得译名异人）；凭证 2026-11-07 | 2026-11-07 |
+| Euclid | — | 欧几里得 | 古希腊（亚历山大里亚） | 约前330–前275 | 语料回收（lakatos 首译） | 学界千年通行汉译（古希腊几何学家）；审定库无相关命中（凭证 2026-11-06）；籍属/生卒联网查证：Wikidata Q8747（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Euclides of Megara | — | 麦加拉的欧克里德 | 古希腊（麦加拉） | 约前435–前365 | dialectical-school | 学界通行汉译（麦加拉学派创立者，苏格拉底式对话作者；与几何学家欧几里得译名异人）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q312682（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Eudemus | — | 欧德谟斯 | 希腊（罗得岛） | — | zeno-elea | 学界通行汉译（罗得岛的欧德谟斯，亚里士多德弟子）；凭证 2026-11-09 | 2026-11-09 |
 | Eudorus | — | 欧多鲁 | — | — | xenocrates | 学界通行汉译（公元 1 世纪柏拉图主义者） | 2026-11-08 |
 | Eudoxus | Εὔδοξος | 欧多克索斯 | 希腊（尼多斯）／数学家、天文学家 | c. 408–355 BC | umar-khayyam | 数学史千年通行汉译（比例论与穷竭法） | 2026-11-14 |
 | Eugenikos, Marcos | Marcos Eugenikos | 马尔科斯·欧根尼科斯 | 拜占庭 | 卒于 1444 | bessarion | 本词条首译（拜占庭神学家，源文 d. 1444，曾出席费拉拉-佛罗伦萨大公会议） | 2026-11-10 |
-| Euhemerus | — | 欧赫墨罗斯 | — | — | bayle | 学界通行汉译（神话解释论作者） | 2026-11-08 |
+| Euhemerus | — | 欧赫墨罗斯 | 古希腊（墨西拿） | — | bayle | 学界通行汉译（神话解释论作者）；籍属/生卒联网查证：Wikidata Q317942（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Euler, Leonhard | — | 莱昂哈德·欧拉 | 瑞士 | 1707–1783 | emilie-du-chatelet | 学界通行汉译；籍属/生卒联网查证：GND 规范标目 gnd 118531379（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Eunapius | — | 欧纳皮乌斯 | 萨迪斯（罗马帝国）／修辞学家与传记作家 | c. 346–414 年后 | porphyry | 学界通行汉译（《哲人与智者传》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Euphantus of Olyntus | — | 奥林托斯的欧凡托斯 | — | — | dialectical-school | 学界通行汉译（欧布里德门生，或为学派最早成员）；凭证 2026-11-07 | 2026-11-07 |
 | Eusebius | — | 优西比乌 | — | — | timon-phlius | 学界通行汉译（凯撒利亚主教，《福音准备》作者）；凭证 2026-11-07 | 2026-11-07 |
-| Eustachius a Sancto Paulo | — | 尤斯塔修斯（圣保罗的；亦作“欧斯塔基乌斯”） | — | — | descartes-ethics；descartes-works | 学界惯例（经院哲学家 Eustachius，通行音译；2026-11-09 反向校对合并同人异形行） | 2026-11-05 |
+| Eustachius a Sancto Paulo | — | 尤斯塔修斯（圣保罗的；亦作“欧斯塔基乌斯”） | 法国 | 1575–1640 | descartes-ethics；descartes-works | 学界惯例（经院哲学家 Eustachius，通行音译；2026-11-09 反向校对合并同人异形行）；籍属/生卒联网查证：Wikidata Q3061037（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Eustochium | — | 欧斯托基乌姆 | 罗马 | 约 368–419/420 | peter-damian | 教父学通行音译（哲罗姆书信受信人）；凭证 2026-11-09 | 2026-11-09 |
 | Eustratios of Nicaea | — | 尼西亚的欧斯特拉提奥斯 | — | — | john-italos | 学界通行汉译（伊塔洛斯门生）；凭证 2026-11-06 | 2026-11-06 |
 | Euthydemus | — | 欧绪德谟 | — | — | intentionality-ancient | 学界通行汉译（柏拉图对话人物/智者） | 2026-11-07 |
@@ -1301,7 +1301,7 @@
 | Falk, Raphael | — | 拉斐尔·福尔克 | 以色列 | 1929–2019 | genetics | 基因概念研究者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：Wikidata Q65029468（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Falk, Richard | — | 理查德·福尔克 | 美国 | — | global-democracy | 音译（国际法学者） | 2026-11-12 |
 | Fanārī, Shams al-Dīn | — | 法纳里 | — | — | al-qudat | 学界惯例（伊本·阿拉比后学，通行音译） | 2026-11-06 |
-| Fang Muru | — | 方楘如 | — | — | dai-zhen | 上游自带汉字；学界通行（清代学者，戴震所承写作原则出处）；凭证 2026-11-07 | 2026-11-07 |
+| Fang Muru | — | 方楘如 | 中国（清） | 1672– | dai-zhen | 上游自带汉字；学界通行（清代学者，戴震所承写作原则出处）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q28410151（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Fanon, Frantz | — | 弗朗茨·法农 | 法国／马提尼克 | 1925–1961 | colonialism | 学界通行汉译（《全世界受苦的人》中译本署名）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118686070（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Faral, Edmond | — | Edmond Faral（现代学者，保留英文） | 法国／中世纪文学史家 | 1883–1958 | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Farin, Ingo | — | Ingo Farin（现代学者，保留英文） | 澳大利亚 | fl. 2012–2023（据本词条文献） | yorck | ADR-0022：无通行汉名者保留英文（本词条作者）；凭证 2026-11-11 | 2026-11-11 |
@@ -1309,7 +1309,7 @@
 | Farissol, Abraham | — | 亚伯拉罕·法里索尔 | 意大利（犹太） | 1451–约 1525 | natphil-ren | 犹太思想史通行（《正义之泉》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Farley, Belmont | — | 贝尔蒙特·法利 | 美国 | — | computing-history | 学界通行音译（最早神经网络模拟实验者之一，林肯实验室）；凭证 2026-11-10 | 2026-11-09 |
 | Farmer, Daniel Diederich | — | Daniel Diederich Farmer（现代学者，保留英文） | — | — | omniscience | ADR-0022：无通行汉名者保留英文（女性主义认识论与全知）；凭证 2026-11-10 | 2026-11-10 |
-| Fazang | — | 法藏 | — | — | buddhism-chan | 佛学界通行汉译（华严三祖） | 2026-11-05 |
+| Fazang | — | 法藏 | 中国（唐） | 643–712 | buddhism-chan | 佛学界通行汉译（华严三祖）；籍属/生卒联网查证：SEP 原文 en/buddhism-chan:766（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Fechner, Gustav | — | 古斯塔夫·费希纳 | 德国 | 1801–1887 | experimental-aesthetics | 学界千年通行（心理物理学创始人，《美学初阶》作者） | 2026-11-09 |
 | Fehige, Christoph | — | 克里斯托夫·费希格 | 德国 | — | repugnant-conclusion | 音译（德语名；中文文献无通行汉名）；凭证 2026-11-11 | 2026-11-11 |
 | Feigl, Herbert | — | 赫伯特·费格尔 | 奥地利 | 1902–1988 | langer | 学界通行汉译（维也纳学派）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 11853226X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -1354,7 +1354,7 @@
 | Fischer, Michael J. | — | Michael J. Fischer | 美国 | 1942– | logic-dynamic | 无通行汉名，保留英文原名（PDL 创始论文作者）；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q6831406（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Fisher, Ronald Aylmer | — | 罗纳德·艾尔默·费希尔 | 英国 | 1890–1962 | ecological-genetics | 学界通行汉译（R. A. 费希尔）；凭证 2026-11-09 | 2026-11-09 |
 | Fitch, Frederic | — | Fitch | 美国 | 1908–1987 | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 128864923（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
-| Fitelson, Branden | — | 布兰登·菲特尔森 | — | — | bayes-theorem | 学界惯例（确证理论家，通行音译）；2026-11-20 复核：合并（同键变体，来源列并双 slug） | 2026-11-09 |
+| Fitelson, Branden | — | 布兰登·菲特尔森 | 美国 | 1969– | bayes-theorem | 学界惯例（确证理论家，通行音译）；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：Wikidata Q50951153（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | FitzGerald, Edward | — | 爱德华·菲茨杰拉德 | 英国／作家、《鲁拜集》英译者 | 1809–1883 | umar-khayyam | 学界千年通行汉译（郭沫若《鲁拜集》重译底本） | 2026-11-14 |
 | Fjellstand, Andreas | — | Andreas Fjellstand | — | — | logic-substructural | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Flanagan, Owen | — | 欧文·弗拉纳根 | 美国 | 1949– | zombies | 学界通行汉译（《意识问题》中译本作者）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 17411124X（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
@@ -1381,16 +1381,16 @@
 | Forsythe, Robert | — | Robert Forsythe（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（独裁者博弈实验）；凭证 2026-11-10 | 2026-11-10 |
 | Forti, Marco | — | Forti | 意大利 | 1944– | quine-nf | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q102304024（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Fortunato, Giustino | — | 朱斯蒂诺·福尔图纳托 | 意大利 | 1848–1932 | gramsci | 意大利南方主义政治家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 11940883X（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
-| Foucault, Léon | Léon Foucault | 傅科 | — | — | duhem | 全名汉译“莱昂·傅科”，正文简名首现括注；学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
+| Foucault, Léon | Léon Foucault | 傅科 | 法国 | 1819–1868 | duhem | 全名汉译“莱昂·傅科”，正文简名首现括注；学界惯例（物理学家通行汉译）；凭证 2026-11-06；籍属/生卒联网查证：Wikidata Q187966（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Foucault, Michel | — | 米歇尔·福柯 | 法国 | 1926–1984 | oakeshott | 学界通行汉译（与物理学家 Léon Foucault“傅科”异人）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 11853453X（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Foucher de Careil, Louis Alexandre | — | 路易·亚历山大·富歇·德·卡雷伊 | 法国／哲学 | 1826–1891 | descartes-ethics | 学界惯例（笛卡尔手稿出版者，通行音译）；籍属/生卒联网查证：GND 规范标目 gnd 117528307（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Fox Morcillo, Sebastian | — | 塞巴斯蒂安·福克斯·莫西略 | 西班牙 | 1526–1560 | natphil-ren | 本词条首译（《论柏拉图与亚里士多德之一致》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Fox, Danny | — | Fox, Danny | 英国／美国 | 1986– | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 120659313X（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
-| Fracassati | — | 弗拉卡萨蒂 | — | — | locke-on-medicine | 医史通行音译（比萨教授，血液冷却实验作者） | 2026-11-05 |
+| Fracassati | — | 弗拉卡萨蒂 | 意大利 | 1630–1672 | locke-on-medicine | 医史通行音译（比萨教授，血液冷却实验作者）；籍属/生卒联网查证：GND 规范标目 gnd 130078980（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Fracastoro, Girolamo | — | 吉罗拉莫·弗拉卡斯托罗 | 意大利／医学 | 1478–1553 | telesio | 学界通行（《论同情与反同情》作者通译）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118810987（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Fraenkel, Abraham | — | 阿伯拉罕·弗兰克尔 | 德国 | 1891–1965 | tarski-truth | 学界通行汉译（ZF 集合论的 F；与 Carlos Fraenkel 异人）；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：GND 规范标目 gnd 118692399（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Fraenkel, Carlos | — | 卡洛斯·弗伦克尔 | 以色列／德国 | 1971– | delmedigo | 学界通例（同姓数学家 A. Fraenkel 通译“弗伦克尔”；当代学者）；籍属/生卒联网查证：GND 规范标目 gnd 139395938（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
-| Francesco Patrizi of Cherso | — | 克尔索的弗朗切斯科·帕特里齐 | — | — | lorenzo-valla | 学界通行汉译（文艺复兴自然哲学家；与人文主义政治学作家帕特里齐以地名别之）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-04 |
+| Francesco Patrizi of Cherso | — | 克尔索的弗朗切斯科·帕特里齐 | 意大利（克尔索） | 1529–1597 | lorenzo-valla | 学界通行汉译（文艺复兴自然哲学家；与人文主义政治学作家帕特里齐以地名别之）；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：SEP 原文 en/patrizi:148（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Francine | — | 弗朗辛 | — | — | descartes-works | 音译（笛卡尔之女） | 2026-11-06 |
 | Francis Glisson | — | 弗朗西斯·格利森 | 英国／医学 | 1597–1677 | locke-on-medicine | 医史通行音译（盖伦传统医家）；籍属/生卒联网查证：GND 规范标目 gnd 117545740（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Francis Mercury Van Helmont | — | 弗朗西斯·墨丘里·范·赫尔蒙特 | 比利时（佛兰德） | 1614–1699 | 18thGerman-preKant | 学界通行汉译（Joan Baptista van Helmont 之子；译名对齐既有“范·赫尔蒙特”行）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：Wikidata Q445918（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -1403,7 +1403,7 @@
 | Frankel, Stanley | — | 斯坦利·弗兰克尔 | 美国 | 1919–1978 | computing-history | 学界通行音译（洛斯阿拉莫斯计算项目负责人之一）；凭证 2026-11-10 | 2026-11-09 |
 | Frankish, Keith | — | 基思·弗兰基什 | 英国 | 1962– | zombies | 学界惯例（心灵哲学文献通译）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1033225649（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Franklin, Rosalind | — | 罗莎琳德·富兰克林 | 英国 | 1920–1958 | genetics | DNA X 射线晶体学家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 12408544X（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
-| Franz Mehring | — | 弗兰茨·梅林 | — | — | luxemburg | 学界通行汉译（《马克思传》作者）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-03 |
+| Franz Mehring | — | 弗兰茨·梅林 | 德国 | 1846–1919 | luxemburg | 学界通行汉译（《马克思传》作者）；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：Wikidata Q18806（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Franz Neumann | — | 弗朗茨·诺伊曼 | 德国／美国／政治理论家（社会研究所成员） | 1900–1954 | adorno | 学界通行音译（《比希摩斯》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Franzen, Nils | — | 尼尔斯·弗兰岑 | 瑞典／文学 | 1916–1997 | imaginative-resistance | 音译（感性论）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 119082497（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Fraser, Nancy | — | 南希·弗雷泽 | 美国 | 1949– | habermas | 学界通行汉译（承认理论与女性主义）；凭证 2026-11-12 | 2026-11-12 |
@@ -1437,7 +1437,7 @@
 | Friedrich Pollock | — | 弗里德里希·波洛克 | 德国／经济学家（社会研究所成员） | 1894–1970 | adorno | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Friedrich Waismann | — | 弗里德里希·魏斯曼 | 英国／奥地利 | 1896–1959 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：GND 规范标目 gnd 12886530X（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Friedrich Wilhelm I | — | 弗里德里希·威廉一世 | 德国 | 1688–1740 | 18thGerman-preKant | 学界通行汉译（普鲁士国王）；凭证 2026-11-05；籍属/生卒联网查证：GND 规范标目 gnd 118535978（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-14 |
-| Friedrich Wilhelm Stosch | — | 弗里德里希·威廉·施托施 | — | — | 18thGerman-preKant | 学界通行汉译（激进哲学传统）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-05 |
+| Friedrich Wilhelm Stosch | — | 弗里德里希·威廉·施托施 | 德国 | 1648–1704 | 18thGerman-preKant | 学界通行汉译（激进哲学传统）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：SEP 原文 en/18thGerman-preKant:592（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Friend, Stacie | — | 斯泰西·弗兰德 | 美国 | — | imaginative-resistance | 音译（虚构哲学）；凭证 2026-11-12 | 2026-11-12 |
 | Fries, Jakob Friedrich | — | 雅各布·弗里德里希·弗里斯 | 德国 | 1773–1843 | dilthey | 学界通行音译（新康德主义前史人物） | 2026-11-09 |
 | Fritsche, Franz | — | Fritsche | — | — | quine-nf | 无通行汉名，保留英文原名（ADR-0022）；审定库无相关命中（termonline-all 凭证 2026-11-13） | 2026-11-13 |
@@ -1446,7 +1446,7 @@
 | Froude, James Anthony | — | 詹姆斯·安东尼·弗劳德 | 英国 | 1818–1894 | george-eliot | 音译（历史学家） | 2026-11-12 |
 | Fuchs, Thomas | — | Thomas Fuchs（现代学者，保留英文） | — | — | jaspers | ADR-0022：无通行汉名者保留英文（KJG 编者）；凭证 2026-11-09 | 2026-11-09 |
 | Fuhrmann, André | — | André Fuhrmann | 德国 | 1958– | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 112774172（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
-| Fukuba Bisei | — | 福羽美静 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Fukuba Bisei | — | 福羽美静 | 日本 | 1831–1907 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04；籍属/生卒联网查证：Wikidata Q6537468（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Fukuyama, Francis | — | 弗朗西斯·福山 | 美国／政治学 | 1952– | oakeshott | 学界通行汉译（《历史的终结与最后的人》中译本）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119203685（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Fumerton, Richard | — | 理查德·富默顿 | 美国 | 1949– | closure-epistemic | 学界通行音译（《元认识论与怀疑论》）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 138605610（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Fuqiu Bo | — | 浮丘伯 | — | — | xunzi | 上游自带汉字（荀子门人，传《诗》） | 2026-11-14 |
@@ -1494,7 +1494,7 @@
 | Gasser, Georg | — | Georg Gasser（现代学者，保留英文） | 奥地利 | 1979– | omnipresence | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 133213951（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Gatti, Giovanni | — | 乔瓦尼·加蒂 | 意大利／多明我会 | 卒于 1484 前 | bessarion | 本词条首译（15 世纪多明我会神学家，源文 d. ante 1484；无通行汉名） | 2026-11-10 |
 | Gaukroger, Stephen | — | 高克罗格 | 澳大利亚／英国 | 1950–2023 | descartes-works | 学界通行（《笛卡尔智识传记》作者）；籍属/生卒联网查证：GND 规范标目 gnd 172093090（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
-| Gaunilo | — | 高尼罗 | — | — | descartes-ontological | 学界通行（马尔穆捷修士，安瑟伦同时代批评者） | 2026-11-06 |
+| Gaunilo | — | 高尼罗 | 法国 | 约994–1083 | descartes-ontological | 学界通行（马尔穆捷修士，安瑟伦同时代批评者）；籍属/生卒联网查证：Wikidata Q785241（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Gaurus | — | 高鲁斯 | — | — | porphyry | 音译（波菲利《致高鲁斯》受函人；学界对其身份无定论）；凭证 2026-11-11 | 2026-11-11 |
 | Gaus, Gerald F. / Gerald Gaus | — | 杰拉尔德·高斯 | 美国／哲学家 | 1952– | reflective-equilibrium；语料回收（全目录） | 学界通行音译（《证成性自由主义》作者）；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `Gerald Gaus`） | 2026-11-13 |
 | Gauss, Carl Friedrich | — | 卡尔·弗里德里希·高斯 | 德国／数学 | 1777–1855 | geometry-19th | 数学家，学界千年通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 104234644（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
@@ -1525,36 +1525,36 @@
 | Genua, Marcantonio | — | 马尔坎托尼奥·真纳 | 意大利 | 1491–1563 | zabarella | 学界通行音译（帕多瓦自然哲学与形而上学教师）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 132303965（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Geoffroy Saint-Hilaire, Étienne | Étienne Geoffroy Saint-Hilaire | 艾蒂安·若弗鲁瓦·圣伊莱尔 | 法国／医学 | 1772–1844 | origin-descent | 学界通行汉译（法国转型论者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118690426（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Georg Bernhard Bilfinger | — | 格奥尔格·贝恩哈德·比尔芬格 | 德国 | 1693–1750 | 18thGerman-preKant | 学界通行汉译；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：Wikidata Q71855（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Georg Ernst Stahl | — | 格奥尔格·恩斯特·施塔尔 | — | — | kant-science | 化学史通行汉译（燃素说提出者；与 locke-on-medicine 登记的 Peter Stahl“彼得·施塔尔”为不同人，键以全名区分） | 2026-11-05 |
+| Georg Ernst Stahl | — | 格奥尔格·恩斯特·施塔尔 | 德国 | 1659–1734 | kant-science | 化学史通行汉译（燃素说提出者；与 locke-on-medicine 登记的 Peter Stahl“彼得·施塔尔”为不同人，键以全名区分）；籍属/生卒联网查证：Wikidata Q57566（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Georg Forster | Georg Forster | 格奥尔格·福斯特 | 德国 | 1754–1794 | schlegel | 学界通行汉译（博物学家与革命者）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q58062（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Georg Simmel | — | 格奥尔格·齐美尔 | — | — | landmann-kalischer | 学界通行汉译（社会学家、生命哲学家）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-04 |
+| Georg Simmel | — | 格奥尔格·齐美尔 | 德国 | 1858–1918 | landmann-kalischer | 学界通行汉译（社会学家、生命哲学家）；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：Wikidata Q76849（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Georg Volckmar Hartmann | — | 格奥尔格·福尔克马尔·哈特曼 | 德国／医学 | 1690– | 18thGerman-preKant | 学界通行汉译；凭证 2026-11-05；籍属/生卒联网查证：GND 规范标目 gnd 1026633745（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-14 |
 | Georg Wilhelm Friedrich Hegel | — | 格奥尔格·威廉·弗里德里希·黑格尔（通称“黑格尔”） | 德国／哲学 | 1770–1831 | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01）；籍属/生卒联网查证：GND 规范标目 gnd 118547739（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | George Boole | — | 乔治·布尔 | 英国／爱尔兰 | 1815–1864 | leibniz-logic-influence | 学界通行汉译（SUMMARY 定名沿用）；籍属/生卒联网查证：GND 规范标目 gnd 118661655（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-14 |
 | George Boolos | — | 乔治·布洛斯 | 逻辑学 | 1940–1996 | 语料回收（全目录） | 学界惯例（逻辑学家/集合论哲学）；凭证 2026-11-01；籍属/生卒联网查证：GND 规范标目 gnd 171984196（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | George Campbell | — | 乔治·坎贝尔 | 苏格兰 | 1719–1796 | scottish-18th | 苏格兰常识学派通行音译（日志 2024-05-09）；2026-11-15 日志增补 | 2026-11-15 |
 | George III | — | 乔治三世 | 英国／国王 | 1738–1820 | august-rehberg | 学界通行汉译；凭证 2026-11-08 | 2026-11-08 |
-| George of Trebizond | — | 特拉比松的乔治 | — | — | lorenzo-valla | 学界通行汉译（拜占庭流亡人文主义者、修辞学家）；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-04 |
+| George of Trebizond | — | 特拉比松的乔治 | 拜占庭（克里特） | 1395–1472 | lorenzo-valla | 学界通行汉译（拜占庭流亡人文主义者、修辞学家）；审定库无相关命中（termonline-all 凭证 2026-11-14）；籍属/生卒联网查证：Wikidata Q533514（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | George Turnbull | — | 乔治·特恩布尔 | 苏格兰 | 1698–1748 | 语料回收（全目录） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-13 |
 | George Washington | — | 乔治·华盛顿 | 美国 | 1732–1799 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：Wikidata Q23（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | George, Benjamin Ross | — | George, Benjamin Ross | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Gerald Feinberg | — | 保留英文（无通行汉名） | 美国／物理学 | 1933–1992 | spacetime-convensimul | ADR-0022：无通行汉名者保留英文；籍属/生卒联网查证：GND 规范标目 gnd 128149531（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Geraldus Odonis | — | 杰拉德·奥多尼斯 | 法国 | 1285–1349 | nicole-oresme | 中世纪哲学通行汉译（方济各会总会长，亦作 Gerardus Odonis）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 102472890（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
-| Gerard of Odo | — | 热拉尔·奥多 | — | — | crathorn | 学界惯例（巴黎方济各会士，音译）；凭证 2026-11-07 | 2026-11-07 |
+| Gerard of Odo | — | 热拉尔·奥多 | 法国／方济各会 | 约1285–1348 | crathorn | 学界惯例（巴黎方济各会士，音译）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q5550335（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Gerard, Alexander | — | 亚历山大·杰拉德 | 英国 | 1728–1795 | aesthetics-18th-british | 学界通行（《论趣味》作者，苏格兰常识学派外围）；籍属/生卒联网查证：GND 规范标目 gnd 140190716（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Gerbrandy, Jelle | — | Gerbrandy, Jelle | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Gergonne, Joseph Diaz | — | 约瑟夫·迪亚兹·热尔岗 | 法国／数学 | 1771–1859 | geometry-19th | 对偶原理提出者，数学史通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 119526611（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
-| Geronimo de Santa Fe | — | 赫罗尼莫·德·圣塔菲 | — | — | albo-joseph | 托尔托萨论辩史通行音译（原名约书亚·洛尔基） | 2026-11-07 |
+| Geronimo de Santa Fe | — | 赫罗尼莫·德·圣塔菲 | 西班牙／犹太改宗者 | — | albo-joseph | 托尔托萨论辩史通行音译（原名约书亚·洛尔基）；籍属/生卒联网查证：Wikidata Q462009（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Gerrig, Richard | — | Richard Gerrig（现代学者，保留英文） | 美国 | 1959– | paradox-suspense | ADR-0022：无通行汉名者保留英文；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 12087976X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Gershom ben Salomon de Beziers | — | 贝济耶的格肖姆·本·所罗门 | — | — | gersonides | 中世纪犹太史音译（Gersonides 之父） | 2026-11-09 |
 | Gershom Carmichael | — | 格肖姆·卡迈克尔 | 苏格兰 | 1672–1729 | 语料回收（全目录） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-13 |
 | Gerson, Jean | — | 让·热尔松 | 法国／神学 | 1363–1429 | 语料回收（marsilius-inghen 首译） | 中世纪晚期研究通行汉译（巴黎校长）；审定库无相关命中（凭证 2026-11-06）；籍属/生卒联网查证：GND 规范标目 gnd 118557866（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
-| Gersonides | — | 格森尼德 | — | — | israeli | 犹太哲学通行汉译（Levi ben Gershom） | 2026-11-06 |
+| Gersonides | — | 格森尼德 | 阿拉贡／犹太哲学 | 1288–1344 | israeli | 犹太哲学通行汉译（Levi ben Gershom）；籍属/生卒联网查证：Wikidata Q353633（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Gertrud Kantorowicz | — | 格特鲁德·康托洛维茨 | 瑞士／德国 | 1876–1945 | landmann-kalischer | 学界通行汉译（艺术史家、格奥尔格圈成员）；籍属/生卒联网查证：GND 规范标目 gnd 119368153（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-14 |
 | Gettier, Edmund / Edmund Gettier | — | 埃德蒙·盖梯尔 | 美国 | 1927– | knowledge-analysis；closure-epistemic | 学界通行音译（盖梯尔问题）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Edmund Gettier`）；籍属/生卒联网查证：GND 规范标目 gnd 129098868（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Geulincx, Arnold | — | 阿诺德·赫林克斯 | 荷兰 | 1624–1669 | occasionalism | 学界惯例（1624–69）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118717162（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Ghassim, Farsan | — | 法尔桑·加西姆 | — | — | global-democracy | 音译（全球民主经验研究） | 2026-11-12 |
-| Ghazālī, Aḥmad | احمد غزالی | 艾哈迈德·安萨里 | — | — | al-qudat | 学界惯例（安萨里之弟，苏菲导师） | 2026-11-06 |
+| Ghazālī, Aḥmad | احمد غزالی | 艾哈迈德·安萨里 | 波斯／伊斯兰神学 | 约1061–1123 | al-qudat | 学界惯例（安萨里之弟，苏菲导师）；籍属/生卒联网查证：Wikidata Q320324（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Ghiselin, Michael | — | Michael Ghiselin（现代学者，保留英文） | 美国 | 1939–2024 | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 171553640（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Giambrone, Steve | — | Steve Giambrone | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Giani Badan Singh | — | 智识者巴丹·辛格 | 印度（旁遮普） | 19 世纪 | sikh-philosophy | 本库首译（《法里德科特注》主持者） | 2026-11-09 |
@@ -1564,23 +1564,23 @@
 | Gilbert of Poitiers | — | 普瓦捷的吉尔伯特 | 法国／经院神学 | c. 1080–1154 | analogy-medieval | 中世纪神学通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Gilbertus Porretanus | — | 吉尔伯特·波雷塔努斯 | 法国／神学 | 1080–1154 | albert-great | 学界惯例（12 世纪神学家）；籍属/生卒联网查证：GND 规范标目 gnd 11869488X（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Giles of Feno | — | 费诺的吉莱斯 | — | — | autrecourt | 学界通行（Master Giles，奥特古通信人，身份存疑） | 2026-11-06 |
-| Giles of Rome | — | 罗马的吉莱斯 | — | — | delmedigo | 学界通行（经院哲人以驻地通称；亦作“罗马的吉尔斯”） | 2026-11-06 |
+| Giles of Rome | — | 罗马的吉莱斯 | 法国／奥古斯丁会 | 约1243–1316 | delmedigo | 学界通行（经院哲人以驻地通称；亦作“罗马的吉尔斯”）；籍属/生卒联网查证：Wikidata Q380647（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Giles, Robin | — | Robin Giles | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Gillespie, John H. | — | 约翰·H·吉莱斯皮 | — | — | fitness | 学界通行音译（种群遗传学家）；凭证 2026-11-13 | 2026-11-13 |
 | Gillon, Brendan | — | Brendan Gillon | — | — | logic-massexpress | 无通行汉名，保留英文原名（覆盖/聚合分析）；凭证 2026-11-10 | 2026-11-09 |
 | Gilpin, William | — | 威廉·吉尔平 | 英国 | 1724–1804 | aesthetics-18th-british | 学界通行（如画美学创立者）；籍属/生卒联网查证：GND 规范标目 gnd 130233862（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Gilson, Étienne | Étienne Gilson | 艾蒂安·吉尔松 | 法国 | 1884–1978 | binarium | 学界通行汉译（中世纪哲学史家）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118717480（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
-| Ginet, Carl | — | 卡尔·吉内 | — | — | closure-epistemic | 学界通行音译（谷仓反例）；凭证 2026-11-08 | 2026-11-08 |
+| Ginet, Carl | — | 卡尔·吉内 | 美国 | 1932– | closure-epistemic | 学界通行音译（谷仓反例）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q5040218（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Gingerich, Owen | — | 欧文·金格里奇 | 美国 | 1930–2023 | copernicus | 天文学史通行汉译（《无人阅读的书》作者）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
 | Ginsberg, Matthew | — | Matthew Ginsberg（现代学者，保留英文） | 美国／数学 | 1955– | belief-merging | ADR-0022：无通行汉名者保留英文（极大一致子集处理不一致理论思想提出者）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 172098211（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Girard, Jean-Yves | — | Jean-Yves Girard | 法国／数学 | 1947– | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 172098351（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Gisbert Hasenjaeger | Gisbert Hasenjaeger | 保留英文（无通行汉名） | 德国／数学 | 1919–2006 | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 1022914154（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Giuseppe Peano | — | 朱塞佩·皮亚诺 | 意大利／数学 | 1858–1932 | 语料回收（全目录） | 审定“皮亚诺”译名系（数学）；凭证 2026-11-01；籍属/生卒联网查证：GND 规范标目 gnd 11873976X（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Glanvill, Joseph | — | 约瑟夫·格兰维尔 | 英国 | 1636–1680 | cambridge-platonists | 学界通行音译（《撒都该主义之溃败》作者）；凭证 2026-11-09 | 2026-11-09 |
-| Glymour, Clark | — | 克拉克·格利穆尔 | — | — | bayes-theorem | 学界惯例（《理论与证据》作者，通行音译） | 2026-11-05 |
+| Glymour, Clark | — | 克拉克·格利穆尔 | 美国 | 1942– | bayes-theorem | 学界惯例（《理论与证据》作者，通行音译）；籍属/生卒联网查证：Wikidata Q5127247（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Goddu, André | — | 安德烈·古杜 | 美国 | — | copernicus | 科学史通行音译（哥白尼与亚里士多德传统研究）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
 | Gödel, Kurt | Kurt Gödel | 库尔特·哥德尔 | 美国 | 1906–1978 | deductivism-mathematics | 学界千年通行汉译（不完全性定理）；凭证 2026-11-08；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：GND 规范标目 gnd 11869569X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Godfrey of Fontaines | — | 方丹的戈弗雷 | — | — | basing→SUMMARY 归一 | SUMMARY 定名（g/godfrey.md“方丹的戈弗雷”）优先于 auriol 语料回收异形（丰泰纳的戈弗雷）；2026-11-08 归一 | 2026-11-08 |
+| Godfrey of Fontaines | — | 方丹的戈弗雷 | 布拉班特（方丹） | — | basing→SUMMARY 归一 | SUMMARY 定名（g/godfrey.md“方丹的戈弗雷”）优先于 auriol 语料回收异形（丰泰纳的戈弗雷）；2026-11-08 归一；籍属/生卒联网查证：SEP 原文 en/henry-ghent:246（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Godfrey-Smith, Peter | — | 彼得·戈弗雷-史密斯 | 澳大利亚 | 1965– | information-biological | 音译（生物信息与前词条作者）；凭证 2026-11-12 | 2026-11-12 |
 | Godo, Lluís | — | Lluís Godo | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Godwin, William | — | 威廉·戈德温 | 英国 | 1756–1836 | godwin | 学界通行汉译（哲学无政府主义奠基人）；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：Wikidata Q188569（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -1607,9 +1607,9 @@
 | Goodrum, Abby | — | 艾比·古德鲁姆 | 美国 | — | it-moral-values | 学界通行音译（网络伦理）；凭证 2026-11-10 | 2026-11-10 |
 | Gopal Sreenivasan | — | 戈帕尔·斯里尼瓦桑 | — | — | justice-healthcareaccess | 学界惯例（生物伦理通行译法） | 2026-11-02 |
 | Gopnik, Alison | — | 艾莉森·戈普尼克 | 美国 | 1955– | innateness-cognition | 音译（理论论）；凭证 2026-11-12 | 2026-11-12 |
-| Gorampa | — | 果让巴 | — | — | gorampa | 同上人之简称；SUMMARY 定名沿用 | 2026-11-09 |
+| Gorampa | — | 果让巴 | 西藏／萨迦派 | 1429–1489 | gorampa | 同上人之简称；SUMMARY 定名沿用；籍属/生卒联网查证：Wikidata Q1537816（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Gordon, Pamela | — | 帕梅拉·戈登 | 美国 | 1957– | epicurus | 音译（《吕基亚的伊壁鸠鲁》作者）；籍属/生卒联网查证：GND 规范标目 gnd 1023645440（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Gorgias | — | 高尔吉亚 | — | — | intentionality-ancient | 学界千年通行汉译（智者） | 2026-11-07 |
+| Gorgias | — | 高尔吉亚 | 古希腊（莱昂蒂尼） | 约前483–前375 | intentionality-ancient | 学界千年通行汉译（智者）；籍属/生卒联网查证：Wikidata Q179785（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Gorsuch, Neil | — | 尼尔·戈萨奇 | 美国 | 1967– | euthanasia-voluntary | 音译（英语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
 | Goschke, Thomas | — | 托马斯·戈施克 | 德国 | 1958– | epiphenomenalism | 音译（正文作“戈施克”）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 115328300（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Goswin of Chapelle | — | 沙佩勒的戈斯温 | — | — | condemnation | 依地名冠称（列日圣马丁教堂议事司铎）；凭证 2026-11-08 | 2026-11-08 |
@@ -1617,7 +1617,7 @@
 | Gouhier, Henri | — | 亨利·古耶 | 法国 | 1898–1994 | bergson | 柏格森研究学者；学界通行音译；籍属/生卒联网查证：GND 规范标目 gnd 119211513（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Gould, Stephen Jay | — | 斯蒂芬·杰伊·古尔德 | 美国 | 1941–2002 | biology-philosophy | 学界通行汉译；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 121391876（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Govinda Tirtha, Swami | — | 斯瓦米·戈文达·蒂尔塔 | 印度／学者、《鲁拜集》英译者 | fl. 1941 | umar-khayyam | 音译（The Nectar of Grace 编者；学界无统一汉名） | 2026-11-14 |
-| Goya, Francisco | — | 戈雅 | — | — | erotic-art | 千年通行（西班牙画家） | 2026-11-08 |
+| Goya, Francisco | — | 戈雅 | 西班牙 | 1746–1828 | erotic-art | 千年通行（西班牙画家）；籍属/生卒联网查证：Wikidata Q5432（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Grabmann, Martin | — | Martin Grabmann（现代学者，保留英文） | 奥地利 | 1875–1949 | william-sherwood | ADR-0022（中世纪哲学史家，《导论》初编者）；籍属/生卒联网查证：GND 规范标目 gnd 118541137（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Gracyk, Theodore | — | 格拉西克 | 美国 | 1958– | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 137275374（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Graetz, Heinrich | — | 海因里希·格雷茨 | 德国（普鲁士波森生） | 1817–1891 | scholem | 学界通行汉译（《犹太史》作者）；凭证 2026-11-08 | 2026-11-08 |
@@ -1625,7 +1625,7 @@
 | Graham Parkes | — | Graham Parkes | 爱尔兰 | 1949– | japanese-aesthetics | 现代学者无通行汉名，保留英文；籍属/生卒联网查证：GND 规范标目 gnd 172301734（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Graham, A.C. | 葛瑞汉 | 葛瑞汉 | 英国 | 1919–2001 | zhu-xi | 学界通行汉译（汉学界通行译名（Graham 葛瑞汉））；凭证 2026-11-15 | 2026-11-15 |
 | Gramsci, Antonio | — | 安东尼奥·葛兰西 | 意大利 | 1891–1937 | gramsci | 意大利马克思主义理论家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 118541463（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Grandy, Richard | — | Richard Grandy | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
+| Grandy, Richard | — | Richard Grandy | 美国 | 1942– | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q20631135（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Grant, Edward | — | 爱德华·格兰特 | 美国 | 1926–2020 | condemnation | 学界惯例（音译，中世纪科学史家）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 132083698（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Grant, James | — | 詹姆斯·格兰特 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
 | Grant, Robert | — | 罗伯特·格兰特 | — | — | oakeshott | 自译裁定（奥克肖特传记作者；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
@@ -1640,10 +1640,10 @@
 | Green, Thomas Hill | — | 托马斯·希尔·格林（亦作“格林”） | 英国 | 1836–1882 | croce-aesthetics、hegel-social-political | 英国唯心论者（学界通行汉译）；原“格林”行为姓氏省称行，并入全名 | 2026-11-10 |
 | Greenberg, Clement | — | 克莱门特·格林伯格 | 美国 | 1909–1994 | langer | 学界通行汉译（艺术批评）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118718606（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Grégoire, Éric | — | Éric Grégoire（现代学者，保留英文） | — | — | belief-merging | ADR-0022：无通行汉名者保留英文（基于距离的融合与信息融合综述作者）；凭证 2026-11-13 | 2026-11-13 |
-| Gregory of Nazianzus | — | 纳齐安的格列高利 | — | — | neoplatonism | 教父学通行汉译（卡帕多西亚教父） | 2026-11-07 |
+| Gregory of Nazianzus | — | 纳齐安的格列高利 | 古罗马（卡帕多西亚） | 约329–389 | neoplatonism | 教父学通行汉译（卡帕多西亚教父）；籍属/生卒联网查证：Wikidata Q44011（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Gregory of Nyssa | — | 尼撒的格列高利 | 古希腊／拜占庭 | 335–394 | neoplatonism | 教父学通行汉译（卡帕多西亚教父）；籍属/生卒联网查证：GND 规范标目 gnd 118541919（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
-| Gregory of Rimini | — | 里米尼的格里高利 | — | — | autrecourt | 学界通行（奥古斯丁会会长，complexe significabile 学说） | 2026-11-06 |
-| Gregory U. Rigsby | — | 格雷戈里·里格斯比 | — | — | alexander-crummell | 现代学者（传记作者），音译 | 2026-11-07 |
+| Gregory of Rimini | — | 里米尼的格里高利 | 意大利 | 约1300–1358 | autrecourt | 学界通行（奥古斯丁会会长，complexe significabile 学说）；籍属/生卒联网查证：Wikidata Q540799（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Gregory U. Rigsby | — | 格雷戈里·里格斯比 | — | 1935– | alexander-crummell | 现代学者（传记作者），音译；籍属/生卒联网查证：GND 规范标目 gnd 172332419（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Gregory, Alex | — | Alex Gregory（现代学者，保留英文） | 英国 | — | disability | ADR-0022：无通行汉名者保留英文（能力缺失理论）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1147673497（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Gregory, David | — | David Gregory | 苏格兰 | 1661–1708 | newton-principia | 无通行汉名，保留英文原名（牛津萨维尔天文学教授，《原理》赞助人）；凭证 2026-11-12 | 2026-11-12 |
 | Gregory, Maughn Rollins | — | 莫恩·罗林斯·格雷戈里 | 美国 | 当代 | children | 学界通行音译（IAPC 现任负责人，蒙特克莱尔州立大学）；凭证 2026-11-10 | 2026-11-09 |
@@ -1712,7 +1712,7 @@
 | Hadrian | — | 哈德良 | 古罗马 | 76–138 | bauer | 学界通行汉译（罗马皇帝 117–138 在位）；籍属/生卒联网查证：Wikidata Q1427（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Ḥāfiz | حافظ | 哈菲兹 | 波斯 | 1326–1389 | arabic-islamic-mysticism | 波斯诗歌通行汉译；籍属/生卒联网查证：Wikidata Q6240（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hägerström, Axel | — | 阿克塞尔·哈格斯特伦 | 瑞典 | 1868–1939 | cassirer | 法哲学家（乌普萨拉学派创始人），学界通行音译；分节键变音符剥离归 H；凭证 2026-11-12 r2 | 2026-11-12 |
-| Hailperin, Theodore | — | Hailperin | — | — | quine-nf | 无通行汉名，保留英文原名（ADR-0022）；审定库无相关命中（termonline-all 凭证 2026-11-14） | 2026-11-14 |
+| Hailperin, Theodore | — | Hailperin | 美国 | 1915–2014 | quine-nf | 无通行汉名，保留英文原名（ADR-0022）；审定库无相关命中（termonline-all 凭证 2026-11-14）；籍属/生卒联网查证：Wikidata Q102132287（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hájek, Petr | — | Petr Hájek | 捷克 | 1940– | logic-fuzzy | 无通行汉名，保留英文原名（与哈耶克 Hayek 异人）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 143699024（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Hakuin | — | 白隐 | 日本 | 1685–1768 | japanese-aesthetics | 学界惯例（日本禅宗史通行汉名）；籍属/生卒联网查证：GND 规范标目 gnd 118881213（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Halayudha | हलायुध | 哈拉尤达 | 印度／宾伽罗注疏家 | fl. 10th c. | umar-khayyam | 梵学通行音译（宾伽罗《韵律经》注者，二项式系数三角最早显形） | 2026-11-14 |
@@ -1733,7 +1733,7 @@
 | Hamacher, Werner | — | 维尔纳·哈马赫 | 德国 | 1948–2024 | scholem | 学界通行汉译（解构批评）；凭证 2026-11-08 | 2026-11-08 |
 | Hamann, Johann Georg | — | 约翰·格奥尔格·哈曼 | 德国 | 1730–1788 | novalis | 学界通行汉译；凭证 2026-11-11 | 2026-11-11 |
 | Hamhŏ Kihwa | 涵虛己和 | 涵虚己和 | 1376–1433 | — | korean-confucianism | 汉文传统写法（与已登记 Hamhŏ Tŭkt’ong 涵虛得通 为同一人：己和其名、得通其字、涵虚其号） | 2026-11-08 |
-| Hamhŏ Tŭkt’ong | 涵虛得通 | 涵虚得通 | — | — | korean-buddhism | 汉文传统写法（源文汉字 涵虛得通；朝鲜僧，《显正论》，亦号己和） | 2026-11-05 |
+| Hamhŏ Tŭkt’ong | 涵虛得通 | 涵虚得通 | 朝鲜 | 1376–1433 | korean-buddhism | 汉文传统写法（源文汉字 涵虛得通；朝鲜僧，《显正论》，亦号己和）；籍属/生卒联网查证：Wikidata Q5560381（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hamilton, William / William Hamilton | — | 威廉·汉密尔顿（亦作“哈密顿爵士”） | — | — | antonio-rosmini；语料回收（全目录） | 苏格兰哲学家通行音译（与联邦党人汉密尔顿分立）；2026-11-13 重复行合并（旧键 `William Hamilton`）；2026-11-15 补亦作（日志形） | 2026-11-15 |
 | Hamilton, William D. | — | 威廉·D. 汉密尔顿 | 英国 | 1936–2000 | altruism-biological | 学界通行音译（亲缘选择理论；与苏格兰哲学家 William Hamilton 分立）；凭证 2026-11-12 | 2026-11-12 |
 | Hamilton, William Rowan | — | 威廉·罗恩·哈密顿 | 爱尔兰 | 1805–1865 | peirce-benjamin | 数学物理学通行“哈密顿”（四元数、哈密顿力学；与苏格兰哲学家威廉·汉密尔顿分立）；凭证 2026-11-09 | 2026-11-09 |
@@ -1741,18 +1741,18 @@
 | Hamlin, J. Kiley | — | 基利·哈姆林 | 美国 | — | innateness-cognition | 音译（道德认知发展）；凭证 2026-11-12 | 2026-11-12 |
 | Hammerstaedt, Jürgen | — | 于尔根·哈默施泰特 | 德国 | — | epicurus | 音译（俄诺安达铭文研究） | 2026-11-12 |
 | Hampshire, Stuart / Stuart Hampshire | — | 斯图尔特·汉普希尔 | 英国 | 1914–2004 | intention；语料回收（全目录） | 学界通行音译（《思想与行动》）；凭证 2026-11-12；2026-11-13 重复行合并（旧键 `Stuart Hampshire`） | 2026-11-13 |
-| Han Chengdi | — | 汉成帝 | — | — | chinese-phil-science | 通行史称（西汉皇帝刘骜，上游作 Han Chengdi）；凭证 2026-11-13 | 2026-11-13 |
+| Han Chengdi | — | 汉成帝 | 中国（西汉） | 前51–前7 | chinese-phil-science | 通行史称（西汉皇帝刘骜，上游作 Han Chengdi）；凭证 2026-11-13；籍属/生卒联网查证：Wikidata Q7234（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Han Fei | — | 韩非 | 中国（战国） | 约前 280–前 233 | xunzi | 上游自带汉字（法家集大成者，荀子门人） | 2026-11-14 |
 | Han Feizi | — | 韩非子 | — | — | han-dynasty | 人名形；书名形另见术语表（韩非子） | 2026-11-10 |
-| Han Wŏnjin | 韓元震 | 韩元震 | — | — | korean-philosophy | 汉文传统写法（朝鲜性理学家，南塘，湖洛之辩） | 2026-11-05 |
+| Han Wŏnjin | 韓元震 | 韩元震 | 朝鲜 | 1682–1751 | korean-philosophy | 汉文传统写法（朝鲜性理学家，南塘，湖洛之辩）；籍属/生卒联网查证：Wikidata Q29215092（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Han Yongun | — | 韩龙云 | 朝鲜／佛教 | 1879–1944 | korean-buddhism | 学界通行汉译（韩文 한용운，汉字 韓龍雲；韩国近代佛教改革家）；籍属/生卒联网查证：GND 规范标目 gnd 119052288（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv） | 2026-11-14 |
 | Han Yu | — | 韩愈 | 中国（唐） | 768–824 | xunzi | 上游自带汉字（唐代古文运动领袖） | 2026-11-14 |
 | Hanf, William P. | — | William P. Hanf | — | — | logic-infinitary | 无通行汉名，保留英文原名（美国逻辑学家，1926–1987）；凭证 2026-11-10 | 2026-11-09 |
-| Haniková, Zuzana | — | Haniková | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Haniková, Zuzana | — | Haniková | — | 1974– | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q102357578（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hanke, Miroslav | — | Miroslav Hanke（现代学者，保留英文） | 捷克 | 1983– | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 1049589726（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv） | 2026-11-14 |
 | Hannah (Newton's mother) | — | 汉娜（牛顿之母） | — | — | newton | 音译（牛顿之母 Hannah，后改嫁 Smith）；凭证 2026-11-08 | 2026-11-08 |
-| Hannibal | — | 汉尼拔 | — | — | descartes-ethics | 学界千年通行译名 | 2026-11-05 |
-| Hanoch Ben-Yami | — | 保留英文（无通行汉名） | — | — | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Hannibal | — | 汉尼拔 | 迦太基 | 前247–前183 | descartes-ethics | 学界千年通行译名；籍属/生卒联网查证：Wikidata Q36456（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Hanoch Ben-Yami | — | 保留英文（无通行汉名） | 以色列 | 1962– | spacetime-convensimul | ADR-0022：无通行汉名者保留英文；籍属/生卒联网查证：Wikidata Q6584276（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hans Cornelius | — | 汉斯·科内利乌斯 | 德国／哲学家（新康德主义） | 1863–1947 | adorno | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Hans Hahn | — | 汉斯·哈恩 | 奥地利／德国／数学 | 1879–1934 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：GND 规范标目 gnd 119296896（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv） | 2026-11-14 |
 | Hans Hermes | Hans Hermes | 保留英文（无通行汉名） | 德国 | 1912–2003 | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q1425952（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -1761,8 +1761,8 @@
 | Hans Vaihinger | — | 汉斯·费英格 | 德国 | 1852–1933 | 语料回收（全目录） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-13 |
 | Hanson, William | — | Hanson | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Hansson, Sven Ove | — | 斯文·奥韦·汉松 | 瑞典／风险哲学与决策论 | 1951– | risk | 学界惯例音译（本词条作者；风险哲学）；凭证 2026-11-09 | 2026-11-09 |
-| Hao Wang | — | 王浩 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
-| Harclay, Henry of | — | 亨利·哈克莱 | — | — | crathorn | 学界惯例（牛津方济各会士，音译）；凭证 2026-11-07 | 2026-11-07 |
+| Hao Wang | — | 王浩 | 中国／美国 | 1921–1995 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：Wikidata Q707977（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Harclay, Henry of | — | 亨利·哈克莱 | 英格兰 | 约1270–1317 | crathorn | 学界惯例（牛津方济各会士，音译）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q5722572（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hardie, W. F. R. | — | W. F. R. 哈迪 | 英国 | 1902–1990 | african-ethics | 学界通行音译（亚里士多德伦理学）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1165586614（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Hardimon, Michael | — | 迈克尔·哈迪蒙 | — | — | genetics | 种族哲学研究者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11 | 2026-11-11 |
 | Hardin, Garrett | — | 加勒特·哈丁 | 美国 | 1915–2003 | economic-democracy | 学界通行汉译（“公地悲剧”作者；与桑德拉·哈丁异人）；籍属/生卒联网查证：GND 规范标目 gnd 119151189（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv） | 2026-11-14 |
