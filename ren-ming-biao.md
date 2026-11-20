@@ -1230,7 +1230,7 @@
 | Emperor Wu (Han) | — | 汉武帝 | — | — | han-dynasty | 西汉皇帝刘彻（上游作 Emperor Wu of Han） | 2026-11-10 |
 | Emperor Zhao (Han) | — | 汉昭帝 | — | — | han-dynasty | 西汉皇帝刘弗陵（上游作 Emperor Zhao of Han） | 2026-11-10 |
 | Endler, John A. | — | 约翰·恩德勒 | 加拿大 | 1947– | fitness | 学界通行音译（《自然选择》作者）；凭证 2026-11-13；籍属/生卒联网查证：Wikidata Q6231782（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Engel, Amir | — | 阿米尔·恩格尔 | 以色列 | — | scholem | 构词直译（朔勒姆传记作者）；凭证 2026-11-08 | 2026-11-08 |
+| Engel, Amir | — | 阿米尔·恩格尔 | 以色列 | 1974– | scholem | 构词直译（朔勒姆传记作者）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q133618092（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Engel, Johann Jakob | — | 约翰·雅各布·恩格尔 | 德国 | 1741–1802 | august-rehberg | 学界通行音译；正文一次提称；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 11868468X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Engeler, Erwin | — | Erwin Engeler | 瑞士／数学 | 1930–2026 | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1089102372（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Ennis, Robert | — | 罗伯特·恩尼斯 | 美国 | 1922–2016 | children | 学界通行音译（批判性思维理论家）；凭证 2026-11-10 | 2026-11-09 |
@@ -1292,7 +1292,7 @@
 
 | 原文 | 别名 | 译法 | 籍属 | 生卒 | 首现（slug 或书目） | 依据 | 裁定日期 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| F.A. Hayek | — | 弗里德里希·哈耶克 | 德国／英国／经济学 | 1899–1992 | law-ideology | 学界通行汉译（经济学家）；籍属/生卒联网查证：GND 规范标目 gnd 118547364（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-14 |
+| F.A. Hayek | — | 弗里德里希·哈耶克 | 奥地利／英国 | 1899–1992 | law-ideology | 学界通行汉译（经济学家）；籍属/生卒联网查证：GND 规范标目 gnd 118547364（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：SEP 原文 en/neoliberalism:155（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Faden, Ruth | — | Ruth Faden（现代学者，保留英文） | 美国 | fl. 1995 | informed-consent | ADR-0022：无通行汉名者保留英文（知情同意史与生命伦理学）；籍属/生卒联网查证：GND 规范标目 gnd 1201389275（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Fagerstrom, T. | — | Fagerstrom | — | — | fitness | 无通行汉名，保留英文原名（瑞典种群生物学家）；凭证 2026-11-13 | 2026-11-13 |
 | Fagin, Ronald | — | 罗纳德·法金 | 美国 | 1945– | computability | 学界通行音译（描述复杂性开创者，Fagin 定理）；凭证 2026-11-10 | 2026-11-09 |
@@ -1311,7 +1311,7 @@
 | Farmer, Daniel Diederich | — | Daniel Diederich Farmer（现代学者，保留英文） | — | — | omniscience | ADR-0022：无通行汉名者保留英文（女性主义认识论与全知）；凭证 2026-11-10 | 2026-11-10 |
 | Fazang | — | 法藏 | 中国（唐） | 643–712 | buddhism-chan | 佛学界通行汉译（华严三祖）；籍属/生卒联网查证：SEP 原文 en/buddhism-chan:766（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Fechner, Gustav | — | 古斯塔夫·费希纳 | 德国 | 1801–1887 | experimental-aesthetics | 学界千年通行（心理物理学创始人，《美学初阶》作者） | 2026-11-09 |
-| Fehige, Christoph | — | 克里斯托夫·费希格 | 德国 | — | repugnant-conclusion | 音译（德语名；中文文献无通行汉名）；凭证 2026-11-11 | 2026-11-11 |
+| Fehige, Christoph | — | 克里斯托夫·费希格 | 德国 | 1963– | repugnant-conclusion | 音译（德语名；中文文献无通行汉名）；凭证 2026-11-11；籍属/生卒联网查证：Wikidata Q1084842（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Feigl, Herbert | — | 赫伯特·费格尔 | 奥地利 | 1902–1988 | langer | 学界通行汉译（维也纳学派）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 11853226X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Feldman, Fred | — | 弗雷德·费尔德曼 | 美国 | 1941– | repugnant-conclusion | 学界通行汉译（desert 研究）；凭证 2026-11-11 | 2026-11-11 |
 | Feldman, Yishai A. | — | 伊沙伊·费尔德曼 | 以色列／计算机科学 | 1958– | social-procedures | 希伯来名音译（算法教材作者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 131963562（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
@@ -1339,12 +1339,12 @@
 | Figgis, J. N. | — | J. N. 菲吉斯 | 英国／史学 | 1866–1919 | sovereignty | 学界通行汉译（教会史／政治思想史研究通行）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119315386（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Figo, Azariah | — | 阿扎里亚·菲戈 | 意大利（犹太） | 1579–1647 | natphil-ren | 本词条首译（犹太布道者，源文生卒照录）；凭证 2026-11-10 | 2026-11-10 |
 | Filip, Hana | — | Hana Filip | 美国／语言学 | 1957– | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1146230885（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
-| Filmer, Robert | Robert | 罗伯特·菲尔默 | 英国 | 17 世纪 | hobbes-moral | 学界通行汉译（《父权制》作者，家长制主义代表）；凭证 2026-11-09 | 2026-11-09 |
+| Filmer, Robert | Robert | 罗伯特·菲尔默 | 英国 | 约1588–1653 | hobbes-moral | 学界通行汉译（《父权制》作者，家长制主义代表）；凭证 2026-11-09；籍属/生卒联网查证：SEP 原文 en/locke:1872（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Filon, L. N. G. | — | L. N. G. 菲隆 | 法国／数学 | 1875–1937 | cosmology-30s | 学界惯例音译（伦敦大学副校长）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 117507768（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Finch, Heneage | — | 赫尼奇·芬奇 | 英国 | 1580–1631 | conway | 学界惯例（安妮·康威之父，爵士；音译）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q13502830（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Finch, John | — | 约翰·芬奇 | 英国 | 1626–1682 | conway | 学界惯例（康威同父异母兄长，莫尔在基督学院的学生；音译）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119375222（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Findiriskī, Mīr | — | 米尔·芬迪里斯基 | 伊朗 | 1562–1640 | arabic-islamic-mysticism | 萨德拉学派通行音译；籍属/生卒联网查证：GND 规范标目 gnd 137798733（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
-| Findlay, J. N. | — | J. N. 芬德利 | 英国 | 1903–1987 | omniscience | 学界通行音译；凭证 2026-11-09 | 2026-11-09 |
+| Findlay, J. N. | — | J. N. 芬德利 | 南非／英国 | 1903–1987 | omniscience | 学界通行音译；凭证 2026-11-09；籍属/生卒联网查证：SEP 原文 en/findlay:147（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Fine, Kit | — | 基特·法恩 | 美国／形而上学与逻辑学 | 1946– | reinach | 学界通行汉译（本质与模态）；凭证 2026-11-09 | 2026-11-09 |
 | Finocchiaro, Maurice | — | 莫里斯·芬诺基阿罗 | 美国 | 1942– | copernicus | 学界通行音译（布鲁诺与伽利略审判研究）；凭证 2026-11-12 copernicus r2；籍属/生卒联网查证：GND 规范标目 gnd 132986558（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Finsen, Susan | — | 苏珊·芬森 | — | — | fitness | 学界通行音译（倾向解释方差问题，与 Beatty 合著）；凭证 2026-11-13 | 2026-11-13 |
@@ -1361,7 +1361,7 @@
 | Flasch, Kurt | — | 库尔特·弗拉施 | 德国 | 1930– | condemnation | 学界惯例（音译，维尔茨堡中世纪哲学史家）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 119044676（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Flaubert, Gustave | — | 福楼拜 | 法国／文学 | 1821–1880 | langer | 法国小说家（学界千年惯用“福楼拜”）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118533754（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Flew, Antony | — | 安东尼·弗卢 | 英国／哲学家 | 1923–2010 | religion-epistemology | 学界通行汉译（《无神论的推定》作者）；凭证 2026-11-10 | 2026-11-10 |
-| Flint, Thomas P. | — | 托马斯·弗林特 | 美国 | — | omniscience | 学界惯例音译；凭证 2026-11-09 | 2026-11-09 |
+| Flint, Thomas P. | — | 托马斯·弗林特 | 美国 | 1954– | omniscience | 学界惯例音译；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q112445809（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Floridi, Luciano | — | 卢西亚诺·弗洛里迪 | 意大利 | 1964– | it-moral-values | 学界通行音译（信息伦理学奠基者）；凭证 2026-11-10 | 2026-11-10 |
 | Flowers, Thomas | — | 托马斯·弗劳尔斯 | 英国 | 1905–1998 | computing-history | 学界通行音译（Colossus 设计者，英国邮政研究站工程师）；凭证 2026-11-10 | 2026-11-09 |
 | Floyd, Robert W. | — | Robert W. Floyd | 美国 | 1936–2001 | logic-dynamic | 无通行汉名，保留英文原名（流程图方法）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 12988037X（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
@@ -1395,7 +1395,7 @@
 | Francis Glisson | — | 弗朗西斯·格利森 | 英国／医学 | 1597–1677 | locke-on-medicine | 医史通行音译（盖伦传统医家）；籍属/生卒联网查证：GND 规范标目 gnd 117545740（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Francis Mercury Van Helmont | — | 弗朗西斯·墨丘里·范·赫尔蒙特 | 比利时（佛兰德） | 1614–1699 | 18thGerman-preKant | 学界通行汉译（Joan Baptista van Helmont 之子；译名对齐既有“范·赫尔蒙特”行）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：Wikidata Q445918（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Francis of Assisi, St. | — | 亚西西的圣方济各 | 意大利 | 1182–1226 | arabic-islamic-mysticism | 基督教史通行汉译；籍属/生卒联网查证：Wikidata Q676555（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Francis of Marchia | — | 马尔基亚的弗朗西斯 | 意大利 | — | gregory-rimini | 依驻地冠称（Franciscus de Marchia，方济各会神学家）；凭证 2026-11-10 | 2026-11-10 |
+| Francis of Marchia | — | 马尔基亚的弗朗西斯 | 意大利 | 1290–1344 | gregory-rimini | 依驻地冠称（Franciscus de Marchia，方济各会神学家）；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q5482931（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Francis of Prato | — | 普拉托的弗朗西斯 | 意大利 | 活跃于 1340 年代 | sharpe | 本词条首译（14 世纪意大利多明我会逻辑学家，无通行汉名；Amerini 研究文献）；凭证 2026-11-09 | 2026-11-09 |
 | Franck, Jacob | — | 雅各布·弗兰克 | 波兰（波多利亚生） | c. 1726–1791 | scholem | 学界通行汉译（十八世纪沙巴泰派领袖）；凭证 2026-11-08 | 2026-11-08 |
 | Franco, Eli | — | Eli Franco（现代学者，保留英文） | 以色列 | 1953– | concept-emotion-india | ADR-0022：无通行汉名者保留英文（法称研究）；凭证 2026-11-12 concept-emotion-india r2；籍属/生卒联网查证：GND 规范标目 gnd 1049702085（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
@@ -1410,7 +1410,7 @@
 | Frazier | — | 弗雷泽 | — | — | behaviorism | 《瓦尔登湖第二》虚构创立者（斯金纳代言人）；学界通行音译 | 2026-11-08 |
 | Fred Pirani | — | 保留英文（无通行汉名） | — | — | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 | Freddoso, Alfred J. | — | Alfred J. Freddoso（现代学者，保留英文） | 美国 | 1946– | william-sherwood | ADR-0022（奥卡姆著作英译者）；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：GND 规范标目 gnd 136820557（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Frederick Douglass | — | 弗雷德里克·道格拉斯 | 美国／文学 | 1818–1895 | alexander-crummell | SUMMARY 定名沿用（frederick-douglass 词条既名）；籍属/生卒联网查证：GND 规范标目 gnd 118527096（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
+| Frederick Douglass | — | 弗雷德里克·道格拉斯 | 美国／文学 | 1817–1895 | alexander-crummell | SUMMARY 定名沿用（frederick-douglass 词条既名）；籍属/生卒联网查证：GND 规范标目 gnd 118527096（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）；籍属/生卒联网查证：SEP 原文 en/africana:1709（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Freeman, Walter J. | — | 沃尔特·弗里曼 | 美国／医学 | 1927– | f/frame-problem | 神经科学通行汉译（神经动力学）；籍属/生卒联网查证：GND 规范标目 gnd 121529606（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Frega, Roberto | — | 罗伯托·弗雷加 | 法国 | 1970– | economic-democracy | 学界惯例（杜威研究/职场民主，通行音译）；籍属/生卒联网查证：GND 规范标目 gnd 1193051371（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Frege, Gottlob / Gottlob Frege | — | 弗雷格（Frege） | 德国 | 1848–1925 | logical-consequence；语料回收（全目录） | 本库正文多数条目（38 篇）用“弗雷格”汉名，书目区保留 Frege 原形；2026-11-11 复核改定；2026-11-13 重复行合并（旧键 `Gottlob Frege`）；籍属/生卒联网查证：GND 规范标目 gnd 118535161（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
