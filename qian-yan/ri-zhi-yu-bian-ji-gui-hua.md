@@ -263,3 +263,11 @@
 * **试金石批**：抓 79 词 ok；有命中 28；逐词裁定 **KEEP 16**（佛典古译阿毗达磨系、审美X 词族全谱、抽象法/先天知识/预先指示等，期刊标题实证＋语境正确）／SKIP 8（含 4 例改读嫌疑：anarchic hand 异己手、ancilla 辅助比特、Anglican Catholic Church 安立甘公教会、a fortiori 译法存疑）／余 NOSOURCE 留他道。凭证落 web-authority（140→156），**四态翻转验证：一致 1,984→2,000、查无 8,838→8,822**，全链闭环。
 * **校准与坑**：①OpenAlex 免费配额为 IP 共享日顶（约数百请求即 429，当日耗尽）——升配需注册免费 key（$1/日邮箱注册，待用户授权），不升配则本道日产能 ~200 词；②假命中三族（泛义散文同形／跨语言碰撞／子串碰撞）靠裁定层语境过滤；③批量抓取脚本首版两坑：`done` 清零致 limit 永不触发＋批号恒定反复覆写（300 词证据只存 20），TaskStop 后改独立计数器与递增批号重跑；④直连境外站不可达须代理优先（直试白耗 40s 超时）；⑤OpenAlex 对书章类证据（商务《外国哲学》辑刊）不索引——zgbk/ncpssd 浏览器道才是全量主力，OpenAlex 定位补充道。
 * 台账 `specs/008/results/webcheck-pilot-2026-11-20.md`；提交 6e4bdb0f3 推送清零；check_quotes 0 违例。
+
+## 2026-11-20 zgbk 脚本道投产与人名表全量复核
+
+* **zgbk 签名链破译（档②工具书通道，无浏览器）**：浏览器工具当日校验故障，改 curl 逆推——搜索页 SSR 内嵌 `var token="<32hex>"`；请求头 `token = md5(ssr_token + '/ecph' + 路径)`（如 `/ecph/api/search`）；须带该页会话 cookie 与 Referer，否则 401；`POST /ecph/api/search` 表单 `conditions=[{accuracy,field,value,logic}]`＋pageIndex/pageSize/siteID。脚本 `script/tmp/zgbk_fetch.py` 全链 curl 可跑，试金石 60 词零 error，命中即条目级直证（title 与词条精确对应，无 OpenAlex 的散文同形噪音）。KEEP 7 全档②：无体量、大毗婆沙论、学园、承认等；凭证 163 件，一致 2,004／查无 8,818。断点 `next=60` 供全量续跑。
+* **OpenAlex 独立 key**：用户注册（`librebsd@163.com`，$1/日），key 存 `.secrets/openalex-api-key.json`（gitignored）；续跑 200 词零 429，累计 ok 278、命中词 117 待研判（raws b1–b16），断点 next=279/batch=17。定位为档③补充道（书章类证据不索引，全量主力仍是 zgbk／ncpssd）。
+* **人名表全量复核（4,655 行逐行，24 份审核表）**：非人名行 **0**——虚构/神祇/集体笔名/汉学家汉名/保留英文 41 行均有体例依据；机械修复 119 行（首现列「首现（slug）」剥壳 45、生卒列「—；slug」清杂 44、缺别名列致整行后移重排 19、ADR-0021→0022 笔误 10、Alex Gregory 生卒误植置 —）；**同人重复 59 组合并删 61 行**（4,655→4,594）：首现/依据并集、异形入亦作、生卒籍属补缺，absorbed 三对凭证命中并网（laozi +48／hu_shih +22／peter_of_spain +18）；同姓异人（Wilkinson/Davidson/Menger/Helen 类）判不并。
+* **四态变动诚实账**：3 个 absorbed 行带态（Lao Tzu 不一致、Hu Shi 不一致、Peter of Spain 一致）被并，keeper 因词元相关性过滤仍判查无 → 一致 −1、不一致 −2、查无 −58；不人工翻转，若需状态应以变体形另立查证任务。台账 `results/ren-ming-biao-full-review-2026-11-20.md`，manifest 两份；缺籍属/生卒 2,723 行属完备性另役。
+* **验收**：check_terms 硬错误 0；check_all 17 项全绿（含直角引号、账实一致、目录四方重放）；提交 2577c9a21 推送清零。下一环＝术语侧 4,350 查无行合格性判定（leg B）。
