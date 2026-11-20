@@ -278,6 +278,10 @@ ORIG_EDITORIAL_PAREN = frozenset({
     'ontology (Leśniewski)', 'proper function（普兰丁格认识论）',
     'chimera（生物医学语境）', 'Gödel encoding',
     'Ł-modal system', 'modal μ-calculus',
+    # 2026-11-21 全量复核补遗：
+    #   Great Learning（王阳明《大学问》）——键为英文题名，中文括注系同形异义分行标记（ADR-0048）
+    #   Löwenheim–Skolem–Tarski theorem——英文定理名，含 ö 致 is_non_english 误命中
+    'Great Learning（王阳明《大学问》）', 'Löwenheim–Skolem–Tarski theorem',
 })
 
 

@@ -258,6 +258,16 @@ def _inline_md_to_html(text):
     # 但不得吞掉外层字面括号（`[[text](url)]` 取内层）；URL 可含一级圆括号
     s = re.sub(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]"
                r"\(((?:[^()\s]|\([^()]*\))*)\)", _link, s)
+    # 记号星占位：md 中 `(1*)`／`(2*)` 形（左括号＋数字＋星＋右括号）是上游
+    # 文字层的注解记号（monotheism 判例），星解析前隔离为字面；strong 内的
+    # `122**)` 形不匹配此模式，照常走星解析（adorno 判例）
+    star_store = []
+
+    def _stash_star(m):
+        star_store.append(m.group(0))
+        return "\x04%d\x04" % (len(star_store) - 1)
+
+    s = re.sub(r"\(\d+\*+\)", _stash_star, s)
     # 行内代码
     s = re.sub(r"`([^`]*)`", r"<code>\1</code>", s)
     # sub/sup 记号（_{x}/^{x}）→ 标签；原生 Unicode 字形已由 C 直接产出，
@@ -286,6 +296,9 @@ def _inline_md_to_html(text):
     # 图片占位还原（alt 内已有文本层转义，不再加工）
     for idx, tag in enumerate(img_store):
         s = s.replace("\x03%d\x03" % idx, tag)
+    # 记号星还原（`(1*)` 等，字面）
+    for idx, val in enumerate(star_store):
+        s = s.replace("\x04%d\x04" % idx, val)
     return s
 
 
@@ -320,22 +333,34 @@ def _greek_next(cp):
 
 
 def _intra_word_open(parts, i):
-    """词内开星判据（`P*hilosophy of History and Action*` 判例）。
+    """词内开星判据（`P*hilosophy of History and Action*`、`poet*ry*` 判例）。
 
-    上游偶有 em 从中词起排（H0: `P<em>hilosophy of History and Action</em>`），
+    上游偶有 em 从中词起排（H0: `poet<em>ry</em>`、`P<em>hilosophy…`），
     C 忠实转出后左邻是字母，按“左邻字母数字不开星”会漏成可见星。判据：向
-    后找第一个单星闭星（左紧、右邻非字母数字），其间文字含空白——即
-    `*多词强调*` 形态；乘法星（10 * Prob、10*Prob）无成对闭星或不含空白，
-    仍按字面。存疑一律字面（不动点优先）。"""
+    后找第一个单星闭星（左紧、右邻非字母数字、**左邻非数字**——`(G*1) …
+    (G*2)` 型成对记号星以数字紧邻闭星，actualism-possibilism-ethics 判例），
+    其间文字**含空白（多词 em）或全为字母（单词内 em）**；乘法星（10 * Prob）
+    无成对闭星或不含空白，仍按字面。存疑一律字面（不动点优先）。"""
     text = [parts[i + 1]]
     k = i + 2
     while k < len(parts):
         run = parts[k]
         before = parts[k - 1]
         after = parts[k + 1] if k + 1 < len(parts) else ""
-        if (len(run) == 1 and before and not before[-1:].isspace()
-                and not after[:1].isalnum()):
-            return " " in "".join(text).strip()
+        tight_left = bool(before) and not before[-1:].isspace()
+        if not tight_left:
+            # 松左星＝新强调的开星（C 的 em 定界符恒紧）——本星对的闭星
+            # 不可能在它之后，放弃开星（actualism `(G*1)…*em*` 同段判例）
+            return False
+        if not after[:1].isalnum() or after[:1].isdigit():
+            # 第一个紧闭星即决断点：右邻数字 ⇒ `(G*1) … (G*2)` 型记号星对
+            # （actualism-possibilism-ethics 判例；注意 `(G*2)` 的星紧邻
+            # 左字符是 G，只有右邻数字能识别），整次开星放弃；其余按文字
+            # 形态判定（多词含空白／单词内全字母）
+            joined = "".join(text).strip()
+            return (not after[:1].isdigit()
+                    and ((" " in joined)
+                         or (joined.isalpha() and len(joined) > 1)))
         text.append(run)
         if k + 1 < len(parts):
             text.append(parts[k + 1])
@@ -363,11 +388,12 @@ def _star_parse(s):
         prev_tight = bool(before) and not before[-1:].isspace()
         next_tight = bool(after) and not after[:1].isspace()
         # 开星要求左邻非字母数字（(G*1) 类记号星、A* 类字面星不误开）；
-        # 星后紧跟闭括号则视为记号星（`(*)`／`(**)`／`(3*)` 的注解记号，
-        # al-farabi-logic 判例：md 原生字面星，配对会吃掉括号）；但
-        # 方括号内的真强调（`[*‘Uyūn* 604f]`）内容首字符不是闭括号，
-        # 照常开星。“左紧右非字母数字”仍是合法开星（Düring 判例：
-        # `Animalium*: Critical` 上游 em 在冒号处另起一段强调）
+        # **开星位置**紧跟闭括号即记号星，一律拒开（`(*)`／`(3*)`／`(**)`
+        # 注解记号，al-farabi-logic／monotheism `(1*)`／skepticism 判例）；
+        # 闭合位置不受此限（adorno 判例：H0 `122<strong>)</strong>` →
+        # md `122**)​**:`，其 `**` 走闭合分支）。方括号内真强调
+        # （`[*‘Uyūn* 604f]`）与“左紧右非字母数字”（Düring 判例：
+        # `Animalium*: Critical`）照常开星
         prev_alnum = bool(before) and before[-1:].isalnum()
         next_alnum = bool(after) and after[:1].isalnum()
         next_close = bool(after) and after[:1] in ")]}"
@@ -385,7 +411,8 @@ def _star_parse(s):
             else:
                 out.append("<strong>%s</strong>" % content)
         elif (not any(k in marks for k in want) and next_tight
-              and not next_close
+              and (not next_close
+                   or (L >= 2 and before[-1:].isdigit()))
               and (not (prev_alnum and next_alnum)
                    or (L == 1 and _intra_word_open(parts, i)))):
             slot = len(out)
@@ -530,6 +557,10 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
             # 引块：整块收集（含引块表）；剥 '> ' 前缀。
             # 空 `>` 行＝段落分隔；连续非空行＝同段内 <br>（richard-sophister 判例：
             # C 侧块内 BR_MARK 恢复为 \n 后每行加 '> '，无空行分隔）
+            # 注意：只剥一层——`> > x` 是**嵌套引块**，剥成单层会破坏 B3.1
+            # 不动点（C 转回 `> x` ≠ md 的 `> > x`；abrabanel/heraclitus/evil
+            # 等 20 件实测回退）。嵌套层级的正确渲染待专项（需生成嵌套
+            # <blockquote>），此处维持单层语义。
             q = []
             while i < n and lines[i].startswith(">"):
                 q.append(lines[i][1:].lstrip(" "))

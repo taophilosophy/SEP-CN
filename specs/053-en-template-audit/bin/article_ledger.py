@@ -231,7 +231,7 @@ def norm_html(s):
         re.sub(r"<[^>]*>", "", s))).strip()
 
 
-BI_START = re.compile(r"<h([2-6])[^>]*>|<ul[^>]*>|<p>", re.S)
+BI_START = re.compile(r"<h([2-6])[^>]*>|<ul[^>]*>|<table[^>]*>|<p>", re.S)
 
 
 def _match_close(region, start, open_pat, close_pat):
@@ -277,6 +277,14 @@ def scan_bib(region):
                 break
             out.append(("ul", split_items(region[m.end():t.start()])))
             i = t.end()
+        elif m.group(0).startswith("<table"):
+            # 文献区表格（两列缩写＋条目，abu-bakr-al-razi 判例：H0 用
+            # `<td id="bib-RF">[RF]</td>` 表格而非 li）
+            t = _match_close(region, m.end(), r"<table[^>]*>", r"</table>")
+            if not t:
+                break
+            out.append(("table", region[m.start():t.end()]))
+            i = t.end()
         else:
             e = region.find("</p>", m.end())
             out.append(("p", region[m.end():e]))
@@ -320,14 +328,13 @@ def _tree_nodes(inner, md_plain, used):
 
 def extract_bib_tree(art_inner, md_defs):
     """文献区嵌套结构账：每 ul 的节点树（纯整数＋ul 属性）。"""
-    bib = re.search('<div id="bibliography">(.*?)' + chr(10) + '</div> ',
-                    art_inner, re.S)
-    if not bib:
+    bib = _bib_region(art_inner)
+    if bib is None:
         return None
     md_plain = [norm_md(t) for t in md_defs]
     used = set()
     uls = []
-    for blk in scan_bib(bib.group(1)):
+    for blk in scan_bib(bib):
         if blk[0] != "ul":
             continue
         inner = "<li>".join("")  # 占位，不会用到
@@ -341,14 +348,13 @@ def extract_bib_indices(art_inner, md_defs):
     """文献条目在 md 定义序中的位置账（分节序，纯整数）＋ li id 属性表。
 
     条目匹配用可见文等值（norm_md ↔ norm_html）；li 的 id 只记属性、不记散文。"""
-    bib = re.search('<div id="bibliography">(.*?)' + chr(10) + '</div> ',
-                    art_inner, re.S)
-    if not bib:
+    bib = _bib_region(art_inner)
+    if bib is None:
         return None
     plain = [norm_md(t) for t in md_defs]
     used, ids = set(), {}
     sections, cur = [], None
-    for blk in scan_bib(bib.group(1)):
+    for blk in scan_bib(bib):
         if blk[0] == "h":
             if cur is not None:
                 sections.append(cur)
@@ -373,16 +379,30 @@ def extract_bib_indices(art_inner, md_defs):
     return sections, ids
 
 
+
+def _bib_region(art_inner):
+    """bibliography div 的内容区间（收口形态不齐：adorno 等件结尾无
+    `</div> ` 尾随空格——用括号配平定位，支持嵌套 div）。"""
+    m0 = re.search(r'<div id="bibliography">', art_inner)
+    if not m0:
+        return None
+    t0 = _match_close(art_inner, m0.end(), r"<div[^>]*>", r"</div>")
+    if not t0:
+        return None
+    return art_inner[m0.end():t0.start()]
+
+
 def extract_bib_seq(art_inner, md):
-    """文献区块序账：[[kind, idx], …]，kind ∈ h/p/pd/ul（纯整数＋结构位）。"""
+    """文献区块序账：[[kind, idx], …]，kind ∈ h/p/pd/ul/table（纯整数＋结构位）。"""
     if not md:
         return None
-    bib = re.search('<div id="bibliography">(.*?)' + chr(10) + '</div> ',
-                    art_inner, re.S)
-    if not bib:
+    # bibliography 的收口形态不齐（adorno 等件结尾无 `</div> ` 尾随空格），
+    # 用括号配平定位（_match_close 支持嵌套 div）
+    bib_region = _bib_region(art_inner)
+    if bib_region is None:
         return None
     NL = chr(10)
-    reg = re.search("^## References[^" + NL + "]*" + NL + "(.*?)(?=^## )",
+    reg = re.search("^## References[^" + NL + "]*" + NL + "(.*?)(?=^## |\\Z)",
                     md, re.S | re.M)
     if not reg:
         return None
@@ -401,7 +421,7 @@ def extract_bib_seq(art_inner, md):
     defs_plain = [norm_md(t) for t in defs]
     used, seq = set(), []
     hi = pi = 0
-    for blk in scan_bib(bib.group(1)):
+    for blk in scan_bib(bib_region):
         if blk[0] == "h":
             vis = norm_html(blk[2])
             idx = next((i for i in range(hi, len(md_heads))
@@ -419,6 +439,9 @@ def extract_bib_seq(art_inner, md):
                 if idx is not None:
                     used.add(idx)
             seq.append(["ul", ids])
+        elif blk[0] == "table":
+            # 表格块按原样发（R 侧 md 表格已渲染 HTML；位形差由标记层补丁吸收）
+            seq.append(["table", None])
         else:
             vis = norm_html(blk[1])
             idx = next((i for i in range(pi, len(md_prose))
@@ -436,9 +459,11 @@ def extract_bib_seq(art_inner, md):
 
 
 def extract_tables(art_inner):
-    """表格结构账：每表的开标签属性、thead/tbody 有无、逐行逐格标签形。
+    """表格结构账：每表的开标签属性、thead/tbody 有无、逐行逐格位形。
 
-    单元格文字不入账（只记 th/td/空位三类位形）；行数与格数与 H0 一致才可用。"""
+    格位记 [kind, colspan]（kind ∈ h/d/x）——H0 常用 `<td colspan="2">`
+    跨列（aristotle-logic 判例），md pipe 表格按**逻辑列**展开，不记
+    colspan 会让整表错位一格。文字不入账。"""
     out = []
     for m in re.finditer(r"<table([^>]*)>", art_inner):
         open_tag = m.group(1)
@@ -451,11 +476,12 @@ def extract_tables(art_inner):
         rows = []
         for r in re.finditer(r"<tr[^>]*>(.*?)</tr>", seg, re.S):
             cells = []
-            for c in re.finditer("<t([hd])[^>]*>(.*?)</t[hd]>", r.group(1), re.S):
-                if not c.group(2).strip():
-                    cells.append("x")
-                else:
-                    cells.append(c.group(1))
+            for c in re.finditer("<t([hd])([^>]*)>(.*?)</t[hd]>",
+                                 r.group(1), re.S):
+                sm = re.search(r'colspan="(\d+)"', c.group(2))
+                span = int(sm.group(1)) if sm else 1
+                kind = "x" if not c.group(3).strip() else c.group(1)
+                cells.append([kind, span])
             rows.append(cells)
         th_rows = 0
         tm = re.search("<thead>(.*?)</thead>", seg, re.S)
@@ -535,27 +561,35 @@ def extract(art_inner, md=None):
     rel = re.search(r'<div id="related-entries">.*?<p>(.*?)</p>', art_inner, re.S)
     if rel:
         items = []
+
+        def _push_text(seg):
+            seg = seg.strip()
+            if seg:
+                items.append({"kind": "text",
+                              "text": htmllib.unescape(
+                                  re.sub(r"<[^>]*>", "", seg))})
+
         for part in re.split(r"\s*\|\s*", rel.group(1)):
             part = part.strip()
             if not part:
                 continue
-            m = re.match(r'<!--<a href="([^"]*)">-->(.*?)<!--</a>-->',
-                         part, re.S)
-            if m:
-                items.append({"kind": "dead", "href": m.group(1),
-                              "text": htmllib.unescape(
-                                  re.sub(r"<[^>]*>", "", m.group(2)))})
-                continue
-            m = re.match(r'<a href="([^"]*)"[^>]*>(.*?)</a>', part, re.S)
-            if m:
-                items.append({"kind": "a", "href": m.group(1),
-                              "text": htmllib.unescape(
-                                  re.sub(r"<[^>]*>", "", m.group(2)))})
-                continue
-            # 无链接项（上游本就未链接的关注条目，aesthetics-race 实证七处）
-            items.append({"kind": "text",
-                          "text": htmllib.unescape(
-                              re.sub(r"<[^>]*>", "", part))})
+            # 一段里可能挤多项（H0 末两项之间无 `|` 分隔，aesthetic-experience
+            # 判例：Wittgenstein 项与死链 Yoruba 项同段），逐子项扫描
+            pos = 0
+            for m in re.finditer(
+                    r'<!--<a href="([^"]*)">-->(.*?)<!--</a>-->'
+                    r'|<a href="([^"]*)"[^>]*>(.*?)</a>', part, re.S):
+                _push_text(part[pos:m.start()])
+                if m.group(1) is not None:
+                    items.append({"kind": "dead", "href": m.group(1),
+                                  "text": htmllib.unescape(
+                                      re.sub(r"<[^>]*>", "", m.group(2)))})
+                else:
+                    items.append({"kind": "a", "href": m.group(3),
+                                  "text": htmllib.unescape(
+                                      re.sub(r"<[^>]*>", "", m.group(4)))})
+                pos = m.end()
+            _push_text(part[pos:])
         led["rel_items"] = items
         # 尾随竖线（aesthetics-race 判例：H0 末项后仍有 ` |`）
         led["rel_trailing"] = bool(re.search(r"\|\s*$", rel.group(1)))

@@ -152,7 +152,12 @@ def heading_tag(lv, hid, inner):
 
 
 def render_tables(html, ledger):
-    """按表格结构账重建 <table> 位形（th/td/空位、thead/tbody）；文字取 R 侧格内容。"""
+    """按表格结构账重建 <table> 位形（th/td/空位/colspan、thead/tbody）。
+
+    按**行**分配 R 侧格内容：账的非空格依序取本行 R 的非空单元、空格留白。
+    不按列位置对应——C 把 H0 的 colspan 展开成逻辑列时，文字落点不可靠
+    （aristotle-logic 判例：`| | Affirmations | Denials | | |` 五列，
+    H0 是 `[空, colspan2 Affirmations, colspan2 Denials]` 三格）。"""
     tbls = (ledger or {}).get("tables")
     if not tbls:
         return html
@@ -163,12 +168,9 @@ def render_tables(html, ledger):
             return m.group(0)
         spec = tbls[idx[0]]
         idx[0] += 1
-        cells = re.findall("<t[hd][^>]*>(.*?)</t[hd]>", m.group(1), re.S)
-        ci = 0
-        # 格位对齐：R 侧格数与账里位形数相同 ⇒ 按序一一消费（空格 x 也占
-        # 一个 cell 位，此前 x 不消费导致整行错位一格——agent-modeling 表头
-        # `<th>High</th>` 被挤掉判例）；数目不符（rowspan 缩并等）则按旧法
-        aligned = len(cells) == sum(len(r) for r in spec.get("rows", []))
+        rrows = [[c.group(1) for c in re.finditer(
+            "<t[hd][^>]*>(.*?)</t[hd]>", r.group(1), re.S)]
+            for r in re.finditer(r"<tr[^>]*>(.*?)</tr>", m.group(1), re.S)]
         out = ["<table%s>\n" % spec.get("attrs", "")]
         th_rows = spec.get("thead_rows", 0)
         for ri, row in enumerate(spec.get("rows", [])):
@@ -178,21 +180,28 @@ def render_tables(html, ledger):
                 out.append("</thead>\n")
             if th_rows and ri == th_rows and spec.get("tbody"):
                 out.append("<tbody>\n")
+            rcells = rrows[ri] if ri < len(rrows) else []
+            pool = [c for c in rcells if c.strip()]
+            n_nonx = sum(1 for c in row
+                         if (c if isinstance(c, str) else c[0]) != "x")
+            if len(pool) != n_nonx:
+                # 分配不成立（rowspan 缩并等）：原样交回，让池判 gap
+                return m.group(0)
+            pi = 0
             cs = []
-            for kind in row:
-                if aligned:
-                    c = cells[ci] if ci < len(cells) else ""
-                    ci += 1
-                    if kind == "x":
-                        c = ""
-                elif kind == "x":
-                    cs.append("<td></td>")
-                    continue
+            for cell in row:
+                if isinstance(cell, str):
+                    kind, span = cell, 1
                 else:
-                    c = cells[ci] if ci < len(cells) else ""
-                    ci += 1
-                tag = "th" if kind == "h" else "td"
-                cs.append("<%s>%s</%s>" % (tag, c, tag))
+                    kind, span = cell[0], int(cell[1] or 1)
+                if kind == "x":
+                    content, tag = "", "td"
+                else:
+                    content = pool[pi]
+                    pi += 1
+                    tag = "th" if kind == "h" else "td"
+                attr = ' colspan="%d"' % span if span > 1 else ""
+                cs.append("<%s%s>%s</%s>" % (tag, attr, content, tag))
             out.append("<tr>%s</tr>\n" % "".join(cs))
         if th_rows and th_rows >= len(spec.get("rows", [])):
             out.append("</thead>\n")
@@ -391,11 +400,17 @@ def _render_bib(bib, hid_map, ledger):
 
     seq = ledger.get("bib_seq")
     if seq:
+        tables = [b for b in body if b.startswith("<table")]
+        tb_i = [0]
         for kind, idx in seq:
             if kind == "h":
                 if isinstance(idx, int) and idx < len(subs):
                     lv, name, hid = subs[idx]
                     parts.append("%s\n\n" % heading_tag(lv, hid, name))
+            elif kind == "table":
+                if tb_i[0] < len(tables):
+                    parts.append("%s\n\n" % tables[tb_i[0]])
+                    tb_i[0] += 1
             elif kind == "p":
                 if isinstance(idx, int) and idx < len(ps):
                     parts.append("%s\n\n" % re.sub(r"^<p>", "<p>\n", ps[idx]))
