@@ -352,3 +352,12 @@
 * **落档**：`specs/054-catalog-network-replay/results/formal-proof-update-line.md`——续 044/053 家法（A/T 编号顺延，T9–T12）：T9 B 系列触发判定（挂载集交集空＋机检定义域覆盖＋三道显形面＋残差边界）、T10 变动标记完备性（九类变动→存储账→判官映射，“变动未记账即红灯”逐行构造）、T11 检测完备性（四路检测＋漏报面如实列出）、T12 流程保证（前置校验/机检/CI 终审/append-only 审计四层串联）。四问逐一对应定理，附可复算实证数据点。
 * **证明期发现与处置（形式化的直接收益）**：journal lock 事件 schema 已定义但 fetch_entry 钉前移未落事件——T10 第 1 行审计缺口。补实现（upsert_baseline 尾部 _journal_lock，sha 同幂等不落）＋单测 2 项（test_fetch_entry 6/6 绿），三账（entries.json/upstream-snapshots/journal）齐备。
 * **验证**：check_all 17 项全绿（含管线单测）；提交推送后 CI 终审。
+
+## 2026-11-21 全流程独立审计（用户指令“审阅全流程”，ADR-0039 独立复算）
+
+* **账实复算（不引旧结论，全 True）**：inquiry/modality-varieties/type-theory 三条 en 钉 sha↔实文件、yuanwen 登记↔实文件、source_sha 三查一致；两任务账 state=s0_source_checked、evidence changes: 前缀、version_pin 双钉；journal 各 pass(s0) 一条。inquiry zh md 为存根（1 行 H1，未译属预期）。
+* **提交审计**：本会话 8 笔逐笔 --stat 抽查，无越界文件；specs/008/053/055/assembly-patches（其他会话）全程未碰；origin/main..main 空；check_all 独立重跑 17 项全绿。
+* **发现一（登记不补写）**：两条任务 journal 无 lock 事件——钉前移时点先于 lock 补丁（3dcc94b31），事后补写将伪造 at 时间戳，登记为已知欠账，自下次钉前移起三账齐。
+* **发现二（归属他线）**：开放 issue #50（EN 互转漂移，92 转差/25 转好/+inquiry/−privacy-medicine）开立于 2026-11-19，为本会话工作之前 B3.2 第四批修复的伴生差集，落地方向（重冻基线）对应 specs/053 线其他会话未提交的 assembly-scan-all.json——不越界，由 053 线关闭。
+* **发现三（功能性 emoji 登记）**：links.yml 第 50 行 grep 过滤 lychee 报告的行首 emoji 标记属解析外部产物格式，非输出装饰，保留。
+* **文档复核**：rules/04/cli.md/AGENTS.md 改后表述准确；task_ops grep B 系列计数 0（T9(a) 断言成立）；八个 workflow name 行 emoji 清零。
