@@ -326,12 +326,12 @@ hdr2 = [
     "",
 ]
 
-(OUT / "skeleton-scheme1-pp.md").write_text("\n".join(hdr1 + scheme1_lines) + "\n", encoding="utf-8")
+(OUT / "skeleton-scheme1-pp.md").write_text("\n".join(hdr1 + scheme1_lines) + "\n", encoding="utf-8", newline="\n")
 (OUT / "skeleton-scheme2-calibrate.md").write_text(
     "\n".join(hdr2 + scheme2_lines)
     + "\n\n## 增补候选（案二视角）\n\n"
     + "\n".join(f"- {sub}：共 {t} 条，散布 {n} 个 ## 节" for sub, t, n in add_cands)
-    + "\n", encoding="utf-8")
+    + "\n", encoding="utf-8", newline="\n")
 
 stats = {
     "entries_total": len(entries),
@@ -346,7 +346,7 @@ stats = {
     "me_misc_entries": [e["slug"] for e in entries if PP.get(e["slug"], ("", "")) == ("Metaphysics and Epistemology", "M&E Misc")],
 }
 (OUT / "skeleton-stats.json").write_text(
-    json.dumps(stats, ensure_ascii=False, indent=2), encoding="utf-8")
+    json.dumps(stats, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
 
 print("entries:", len(entries))
 print("conserved:", stats["conserved_ok"])
