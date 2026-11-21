@@ -32,7 +32,7 @@ $X \vdash A \, / \, \rhd A \vdash \sharp X $, $\quad X \vdash \sharp A \, / \, X
 
 $\sharp A \vdash X \, / \, \blacktriangleright A \vdash X $, $\quad A \vdash X \, / \, \sharp X \vdash \blacktriangleright A$, $\quad \flat A \vdash X \, / \, \blacktriangleleft A \vdash X$, $\quad A \vdash X \, / \, \flat X \vdash \blacktriangleleft A$.
 
-If these rules are added to the display calculus for bi-intuitionistic logic, one obtains a sequent calculus *δ**Bi*N that admits cut-elimination. The following sequent rules and sequents are valid on any *Bi*N-frame (the first rule is admissible, the remaining rules and sequents are derivable in *δ**Bi*N):
+If these rules are added to the display calculus for bi-intuitionistic logic, one obtains a sequent calculus δ*Bi*N that admits cut-elimination. The following sequent rules and sequents are valid on any *Bi*N-frame (the first rule is admissible, the remaining rules and sequents are derivable in δ*Bi*N):
 
 $A \vdash \rhd B \, / \, B \vdash \lhd A,$ $A \vdash B \, / \, \rhd B \vdash \rhd A,$ $B \vdash \lhd A \, / \, A \vdash \rhd B,$ $\top \vdash \rhd \bot,$ $\rhd A \wedge \rhd B) \vdash \rhd (A \vee B).$
 
@@ -50,7 +50,7 @@ Whereas the first six of the above sequents correspond with the listed purely st
 
 ![[A kite diagram, upper vertex is 'classical'; lines down to 'De Morgan' on the left and 'intuitionistic' on the right; from 'De Morgan', line straight down to 'Ockham'; then to bottom vertex 'preminimal'; from 'intuitionistic', line straight down to 'minimal', then 'quasi-minimal', and finally to the bottom vertex 'preminimal'.]](../assets/negation/figure5.png)
 
-*Figure 5*
+\*Figure 5\*
 
 Onishi then defines a dualization function, $(\cdot )^t$ (notation adjusted), that maps formulas from the language with $\rhd$ and $\lhd$ into formulas from the language with $\blacktriangleright$ and $\blacktriangleleft$, and vice versa. In particular,
 
@@ -64,8 +64,8 @@ With the identification of negation as impossibility and negation as unnecessity
 
 ![[A kite digram: upper vertex 'classical' line down-left to 'dual int.', down to 'De Morgan', and down-right to 'intuitionistic'; from 'dual int.', line down to 'dual min.' then down to 'dual quasi-min' then down to left bottom vertex 'dual premin.'; from 'De Morgan' line down to 'Ockham' then lines to the left bottom vertex 'dual premin.' and to the right bottom vertex 'preminimal'; from 'intuitionistic', line down to 'minimal' then line down to 'quasi-minimal' then down to right bottom vertex 'preminimal']](../assets/negation/figure6.png)
 
-*Figure 6*
+\*Figure 6\*
 
 Note that in the presence of the axioms for identifying negation as impossibility and negation as unnecessity and their frame conditions, every negation from the united kite emerges as substructural because both double negation elimination for $\blacktriangleright$ and double negation introduction for $\rhd$ do correspond with a structural sequent rule.
 
-Onishi also points out that although the logic of Ockham negation is complete with respect to frames that satisfy the Star Postulate (see the supplement document “[Additional Conceptions of Negation as a Unary Connective](negation.unary-connective.md)”), the Star Postulate does not correspond with the combination of the sequents $\rhd \top \vdash \bot$ and $\rhd (A \wedge B) \vdash (\rhd A \wedge \rhd B)$ that give rise to the logic of Ockham negation when added to the basic display calculus *δ**Bi*N. The two frame conditions corresponding with $\rhd A \vdash \blacktriangleright A$ and $\blacktriangleright A \vdash \rhd A$, however, are equivalent to the stronger condition that requires for every state $w$ the existence of a state $w^*$ that is not only maximal among the states compatible with $w$ but also minimal among the states that are jointly exhaustive with $w$, so that $M, w \models \rhd A$ iff $M, w^* \not \models A$ iff $M, w \models \blacktriangleright A$.
+Onishi also points out that although the logic of Ockham negation is complete with respect to frames that satisfy the Star Postulate (see the supplement document “[Additional Conceptions of Negation as a Unary Connective](negation.unary-connective.md)”), the Star Postulate does not correspond with the combination of the sequents $\rhd \top \vdash \bot$ and $\rhd (A \wedge B) \vdash (\rhd A \wedge \rhd B)$ that give rise to the logic of Ockham negation when added to the basic display calculus δ*Bi*N. The two frame conditions corresponding with $\rhd A \vdash \blacktriangleright A$ and $\blacktriangleright A \vdash \rhd A$, however, are equivalent to the stronger condition that requires for every state $w$ the existence of a state $w^*$ that is not only maximal among the states compatible with $w$ but also minimal among the states that are jointly exhaustive with $w$, so that $M, w \models \rhd A$ iff $M, w^* \not \models A$ iff $M, w \models \blacktriangleright A$.

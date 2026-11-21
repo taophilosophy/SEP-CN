@@ -128,7 +128,7 @@ Black suggests that a metaphysical analysis, on Stebbing’s conception, at leas
 
 Yet (E) does not mean the same as (E#), Black objects, unless ‘means’ is being used loosely in the sense of ‘entails’. But analysis cannot exhibit the propositions entailed, since this would require knowing, in this example, the name of every economist. The correct analysis, Black suggests, is simply:
 
-> (E*) (*x*) (*x* is an economist) entails (*x* is fallible).
+> (E\*) (*x*) (*x* is an economist) entails (*x* is fallible).
 
 This is a logical analysis of structure rather than a metaphysical uncovering of facts. (1933, 257)
 

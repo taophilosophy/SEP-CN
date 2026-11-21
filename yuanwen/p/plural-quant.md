@@ -82,7 +82,7 @@ $\Tr(x_i \prec xx_j) = \textrm{it}_i$ is one of them$_j$
 
 $\Tr(\Exists{xx_j}\mstop \phi) =$ there are some things$_j$ such that $\Tr(\phi)$
 
-The other clauses are obvious, for instance: $\Tr(\phi \amp \psi) = (\Tr(\phi)$ and $\Tr(\psi))$. This translation allows us to interpret all sentences of $L_{\textrm{PFO}}$ and $L_{\textrm{PFO}+}$, relying on our intuitive understanding of English. It is useful to consider some examples. Applying $\Tr$ to (\ref{ex2prime}), say, yields:
+The other clauses are obvious, for instance: $\Tr(\phi \amp \psi) = (\Tr(\phi)$ and $\Tr(\psi))$. This translation allows us to interpret all sentences of $L_{\textrm{PFO}}$ and $L_{\textrm{PFO}+}$, relying on our intuitive understanding of English. It is useful to consider some examples. Applying $\Tr$ to (\\ref{ex2prime}), say, yields:
 
 **(2″)**
 
@@ -291,7 +291,7 @@ There have also been attempts to use plural logic to eliminate apparent referenc
 
 The traditional view in analytic philosophy has been that all plural locutions should be paraphrased away, if need be, by quantifying over sets (Section 1). George Boolos and others objected that it is both unnatural and unnecessary to eliminate plural locutions. This led to the theories PFO and PFO+. Proponents of plural quantification claim that these theories allow plural locutions to be formalized in a way that is fundamentally different from the old set-theoretic paraphrases. In particular, they claim that these theories are ontologically innocent in the sense that they introduce no new ontological commitments to sets or any other kind of “set-like” entities over and above the individual objects that compose the pluralities in question. Let’s call this latter claim *Ontological Innocence*.
 
-Other philosophers question Ontological Innocence. For instance, Michael Resnik expresses misgivings about the alleged ontological innocence of the plural formalization (\ref{ex3pprime}) of the Geach-Kaplan sentence (3). For when (\ref{ex3pprime}) is translated into English as instructed, it reads:
+Other philosophers question Ontological Innocence. For instance, Michael Resnik expresses misgivings about the alleged ontological innocence of the plural formalization (\\ref{ex3pprime}) of the Geach-Kaplan sentence (3). For when (\\ref{ex3pprime}) is translated into English as instructed, it reads:
 
 **$(3''')$**
 
@@ -329,7 +329,7 @@ When the direct object of the verb “ate” is plural, we can for instance inte
 
 It will be objected that this response makes the verb “ate” ambiguous in an implausible way (Oliver and Smiley 2001)[^oliver-2001]. For when the verb has a direct object that is singular, it will presumably be interpreted by means of the ordinary relation *x ate y*. But there is fairly strong evidence that the verb “ate” isn’t ambiguous in this way. For instance, one effect of an ambiguity is to disallow certain kinds of ellipsis. An example is the ambiguity of “make” in “make breakfast” and “make a plan”, which disallows the following ellipsis:
 
-(*19)
+(\*19)
 
 Boolos made breakfast, but his guest, only a plan.
 

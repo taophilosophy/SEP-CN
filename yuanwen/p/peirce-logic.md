@@ -192,7 +192,7 @@ Using this result, let’s unpack Peirce’s above quotation:
 2. “$\unary{h}\bcomma(1-\unary{b})$” denotes the class of non-black horses. (Multiplication operation for intersection)
 3. “$\unary{h}\bcomma(1-\unary{b})=0$” says that there is nothing that is non-black horse. I.e., every horse is black. (by 1 and 2)
 4. “$\unary{h}\bcomma(1-\unary{b}) \not = 0$” means it is not the case that every horse is black. I.e., some horse is not black. (by 3)
-5. Since $\unary{h}\bcomma (1-\unary{b}) \not = 0, 0^{\unary{h},(1-\unary{b})} = 0$ (by (*) above)
+5. Since $\unary{h}\bcomma (1-\unary{b}) \not = 0, 0^{\unary{h},(1-\unary{b})} = 0$ (by (\*) above)
 
 Similarly, “$\unary{h}\bcomma\unary{b}=0$” means no horse is black. Hence, “$\unary{h}\bcomma \unary{b} \not = 0$” says some horse is black. Therefore, “$0^{\unary{h}\bcomma\unary{b}} = 0$” (being the exponent being not-zero) means that some horse is black.
 

@@ -51,25 +51,25 @@ The canonical visual representation of a mechanism underlying a phenomenon is sh
 
 ![link to extended description below](../assets/science-mechanisms/figure1.svg)
 
-*Figure 1:* Representation of a mechanism as an acting entity (adapted from Craver 2007)[^craver-2007][^craver-2007-2]. [An extended description of figure 1 is in the supplement.]
+\*Figure 1:\* Representation of a mechanism as an acting entity (adapted from Craver 2007)[^craver-2007][^craver-2007-2]. [An extended description of figure 1 is in the supplement.]
 
 Figure 2 is an alternative and interchangeable representation of a mechanism as an extended temporal process between inputs and outputs (adapted from Craver, Glennan, & Povich 2021)[^craver-2021][^povich-2021]. Relations among inputs and outputs constitute the behavior of the mechanism as a whole. The mechanism is made of items that mediate between those inputs and outputs (see Pearl 2014)[^pearl-2014]. This figure also makes it easier to understand etiological mechanistic explanations, in which the endpoint $(\psi_{\textrm{out}})$ is the explanandum phenomenon and the antecedent process is its etiological (causal) history. This representation also allows that the same entity might appear over and over again, engaged in different activities at different temporal stages of the mechanism (or the same activity again). It also allows that the entities might not be clearly localized and spatially isolated from one another (for further discussion, see Gebharter 2014; Gebharter & Kaiser 2014)[^gebharter-2014][^gebharter-2014-2][^kaiser-2014].
 
 ![link to extended description below](../assets/science-mechanisms/figure2.svg)
 
-*Figure 2:* Representation of a mechanism as an etiological process. [An extended description of figure 2 is in the supplement.]
+\*Figure 2:\* Representation of a mechanism as an etiological process. [An extended description of figure 2 is in the supplement.]
 
 Figure 3 integrates the hierarchical orientation of Figure 1 and the processual characterization of Figure 2, showing how levels of mechanisms appear from this processual perspective.
 
 ![link to extended description below](../assets/science-mechanisms/figure3.svg)
 
-*Figure 3:* Representation of a mechanism as a process spanning multiple levels of mechanistic organization. [An extended description of figure 3 is in the supplement.]
+\*Figure 3:\* Representation of a mechanism as a process spanning multiple levels of mechanistic organization. [An extended description of figure 3 is in the supplement.]
 
 Consider an example. The “greenhouse effect” refers to the climate mechanism that traps solar energy within the Earth’s atmosphere. This naturally occurring process is essential to life on Earth because it allows the Earth to retain some of the sun’s heat. Human release of high levels of carbon dioxide, methane, nitrous oxide, and other gases into the atmosphere has begun to perturb this system. The sun emits electromagnetic radiation in the visible and ultraviolet frequencies, which pass through the Earth’s atmosphere. The Earth, at its normal temperatures, emits radiation mainly in the infrared. The greenhouse gases, though, specifically absorb electromagnetic radiation in the infrared, resulting in heat that gets in but can’t get out. Figure 4 depicts some key components in this mechanism (e.g., the sun, Earth, the atmosphere), the relevant operations of those parts (e.g., radiating solar energy, re-radiating heat, trapping heat), and the organizational relationship between those elements of the mechanism (e.g., that earth is *surrounded by* the atmosphere, which is *made of* gasses as parts). The difference left to right depicts the explanation of how human activities contribute to the earth’s warming.
 
 ![Greenhouse effect graphic: comparison between normal and rampant CO2 levels. See link to extended description below](../assets/science-mechanisms/figure-1d.svg)
 
-*Figure 4:* A representation of the climate mechanism responsible for a warming planet (*Source: National Park Service*). [An extended description of figure 4 is in the supplement.]
+\*Figure 4:\* A representation of the climate mechanism responsible for a warming planet (*Source: National Park Service*). [An extended description of figure 4 is in the supplement.]
 
 Each of these interchangeable representations has five elements: (1) the phenomenon, (2) the parts, (3) what the parts are doing, and (4) the organization of the system, which (5) often includes reference to levels. We now discuss how these elements might be further specified.
 

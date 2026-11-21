@@ -152,9 +152,9 @@ Such a direct inductive argument might, for example, take the following form:
 
 1. There are events in our world — such as an animal’s dying an agonizing death in a forest fire, and a child’s undergo lingering suffering and eventual death due to cancer — such that the actions of allowing those events, when one could prevent them, both (a) have very serious, known wrongmaking characteristics, and (b) have no rightmaking characteristics of which we are aware that are sufficient to balance out the known wrongmaking properties.
 
-Therefore it is *likely* that:
+Therefore it is ***likely*** that:
 
-1. For any such action, the totality of the wrongmaking properties, *both known and unknown*, outweighs the totality of the rightmaking properties, *both known and unknown*.
+1. For any such action, the totality of the wrongmaking properties, ***both known and unknown***, outweighs the totality of the rightmaking properties, ***both known and unknown***.
 2. Any action whose wrongmaking properties outweigh its rightmaking properties is morally wrong.
 
 Therefore, from (2) and (3) :
@@ -241,7 +241,7 @@ it is possible to construe it as making, instead, the following, much weaker cla
 
 1. We are justified in believing of *each* of the $A$s that we haven’t observed that that $A$ is also a $B$.
 
-Let us consider, then, the relevance of this distinction. On the one hand, Rowe is certainly right that any criticism that claims that one is not justified in inferring (2) unless one has additional information to the effect that unobserved $A$s are not likely to differ from observed $A$s with respect to the possession of property $B$ entails inductive skepticism. But, by contrast, it is not true that this is so if one rejects, instead, the inference to (1). For one might reject the latter inference on the ground that while, given any particular $A$, it is likely that *that* $A$ is a $B$, it is not likely that *all* $A$s are $B$s. (Compare the situation with a very long conjunction: given any particular conjunct, it may be likely that that conjunct is true, while being very unlikely that every conjunct, and hence the conjunction as a whole, is true.)
+Let us consider, then, the relevance of this distinction. On the one hand, Rowe is certainly right that any criticism that claims that one is not justified in inferring (2) unless one has additional information to the effect that unobserved $A$s are not likely to differ from observed $A$s with respect to the possession of property $B$ entails inductive skepticism. But, by contrast, it is not true that this is so if one rejects, instead, the inference to (1). For one might reject the latter inference on the ground that while, given any particular $A$, it is likely that ***that*** $A$ is a $B$, it is not likely that ***all*** $A$s are $B$s. (Compare the situation with a very long conjunction: given any particular conjunct, it may be likely that that conjunct is true, while being very unlikely that every conjunct, and hence the conjunction as a whole, is true.)
 
 This is important, moreover, because it is (1) that Rowe needs, since the conclusion that he is drawing does not concern simply *the next* morally relevant property that someone might consider: conclusion Q asserts, rather, that *all* further morally relevant properties will lack property J. Such a conclusion about all further cases is much stronger than a conclusion about the next case, and one might well think that in some circumstances a conclusion of the latter sort is justified, but that a conclusion of the former sort is not.
 

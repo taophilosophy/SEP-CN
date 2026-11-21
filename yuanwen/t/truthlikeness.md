@@ -59,7 +59,7 @@ The complement of $T$, the set of false sentences $F$, is not a theory even in t
 
 ![missing text, please inform](../assets/truthlikeness/diagram1.png)
 
-*Diagram 1*. Truth and falsity contents of false theory $A$
+\*Diagram 1\*. Truth and falsity contents of false theory $A$
 
 A false theory will cover some of $F$, but because every false theory has true consequences, including all logical truths, it will also overlap with $T$ (Diagram 1).
 
@@ -67,19 +67,19 @@ A true theory, however, will only overlap $T$ (Diagram 2):
 
 ![missing text, please inform](../assets/truthlikeness/diagram2.png)
 
-*Diagram 2*. True theory $A$ is identical to its own truth content
+\*Diagram 2\*. True theory $A$ is identical to its own truth content
 
 Amongst true theories, then, it seems that the more true sentences that are entailed, the closer we get to $T$, hence the more truthlike. Set theoretically that simply means that, where $A$ and $B$ are both true, $A$ will be more truthlike than $B$ just in case $B$ is a proper subset of $A$ (which for true theories means that $B_T$ is a proper subset of $A_T$). Call this principle: *the value of content for truths*.
 
 ![missing text, please inform](../assets/truthlikeness/diagram3.png)
 
-*Diagram 3*. True theory $A$ has more truth content than true theory $B$
+\*Diagram 3\*. True theory $A$ has more truth content than true theory $B$
 
 This essentially syntactic account of truthlikeness has some nice features. It induces a partial ordering of truths, with the whole Truth $T$ at the top of the ordering: $T$ is closer to the Truth than any other true theory. The set of logical truths is at the bottom: further from the Truth than any other true theory. In between these two extremes, true theories are ordered simply by logical strength: the more logical content, the closer to the Truth. Since probability varies inversely with logical strength, amongst truths the theory with the greatest truthlikeness $(T)$ must have the smallest probability, and the theory with the largest probability (the logical truth) is the furthest from the Truth. Popper made a simple and perhaps plausible generalization of this. Just as truth content (coverage of $T)$ counts in favor of truthlikeness, falsity content (coverage of $F)$ counts against. In general then, a theory $A$ is closer to the truth if it has more truth content without engendering more falsity content, or has less falsity content without sacrificing truth content (diagram 4):
 
 ![missing text, please inform](../assets/truthlikeness/diagram4.png)
 
-*Diagram 4*. False theory $A$ closer to the Truth than false theory $B$
+\*Diagram 4\*. False theory $A$ closer to the Truth than false theory $B$
 
 The generalization of the truth content comparison, by incorporating falsity content comparisons, also has some nice features. It preserves the comparisons of true theories mentioned above. The truth content $A_T$ of a false theory $A$ (itself a theory in the Tarskian sense) will clearly be closer to the truth than $A$ (Diagram 1). And the whole truth $T$ will be closer to the truth than any falsehood $B$ because the truth content of $B$ must be contained within $T$, and the falsity content of $T$ (the empty class) must be properly contained within the non-empty falsity content of $B$.
 
@@ -155,7 +155,7 @@ The likeness theorist has two tasks: firstly, making it plausible that there is 
 
 ![missing text, please inform](../assets/truthlikeness/diagram5.png)
 
-*Diagram 5*. Verisimilitude by similarity circles
+\*Diagram 5\*. Verisimilitude by similarity circles
 
 The bullseye is the actual world and the small sphere which includes it is $T$, the Truth. The nested spheres represent likeness to the actual world. A world is less like the actual world the larger the first sphere of which it is a member. Propositions $A$ and $B$ are false, $C$ and $D$ are true. A carves out a class of worlds which are rather close to the actual world – all within spheres two to four – whereas $B$ carves out a class rather far from the actual world – all within spheres five to seven. Intuitively $A$ is closer to the bullseye than is $B$.
 
@@ -191,7 +191,7 @@ Worlds differ in the distributions of these traits, and a natural, albeit simple
 
 ![missing text, please inform](../assets/truthlikeness/diagram6.png)
 
-*Diagram 6*. Similarity circles for the weather space
+\*Diagram 6\*. Similarity circles for the weather space
 
 Those worlds orbiting on the sphere $n$ are of distance $n$ from the actual world.
 
@@ -199,7 +199,7 @@ In fact, the structure of the space is better represented not by similarity circ
 
 ![missing text](../assets/truthlikeness/diagram7.png)
 
-*Diagram 7*. The three-dimensional weather space
+\*Diagram 7\*. The three-dimensional weather space
 
 This way of representing the space makes a clearer connection between distances between worlds and the role of the atomic propositions in generating those distances through the city-block metric. It also eliminates inaccuracies in the relations between the worlds that are not at the center that the similarity circle diagram suggests.
 
@@ -209,7 +209,7 @@ Now that we have numerical distances between worlds, numerical measures of propo
 
 Suppose that $h \amp r \amp w$ is the whole truth about the weather. Following Hilpinen, we might consider overall distance of a propositions from the truth to be some function of the distances from actuality of two extreme worlds. Let *truth*$(A)$ be the truth value of $A$ in the actual world. Let *min*$(A)$ be the distance from actuality of that world in $A$ closest to the actual world, and *max*$(A)$ be the distance from actuality of that world in $A$ furthest from the actual world. Table 1 display the values of the *min* and *max* functions for some representative propositions.
 
-| $\boldsymbol{A}$ | *truth*$(\boldsymbol{A})$ | *min*$(\boldsymbol{A})$ | *max*$(\boldsymbol{A})$ |
+| $\boldsymbol{A}$ | ***truth*$(\boldsymbol{A})$** | ***min*$(\boldsymbol{A})$** | ***max*$(\boldsymbol{A})$** |
 | --- | --- | --- | --- |
 | $h \amp r \amp w$ | true | 0 | 0 |
 | $h \amp r$ | true | 0 | 1 |
@@ -221,7 +221,7 @@ Suppose that $h \amp r \amp w$ is the whole truth about the weather. Following H
 | ${\sim}h \amp{\sim}r$ | false | 2 | 3 |
 | ${\sim}h \amp{\sim}r \amp{\sim}w$ | false | 3 | 3 |
 
-*Table 1*. The *min* and *max* functions.
+\*Table 1\*. The *min* and *max* functions.
 
 The simplest proposal (made first in Niiniluoto 1977)[^niiniluoto-1977] would be to take the average of the *min* and the *max* (call this measure *min-max-average*). This would remedy a rather glaring shortcoming which Hilpinen’s qualitative proposal shares with Popper’s proposal, namely that no falsehood is closer to the truth than any truth (even the worthless tautology). This numerical equivalent of Hilpinen’s proposal renders all propositions comparable for truthlikeness, and some falsehoods it deems more truthlike than some truths.
 
@@ -229,7 +229,7 @@ But now that we have distances between all worlds, why take only the extreme wor
 
 A simple measure which does count all worlds is average distance from the actual world. *Average* delivers all of the particular judgements we used above to motivate Hilpinen’s proposal in the first place, and in conjunction with the simple metric on worlds it delivers the following ordering of propositions in our simple framework:
 
-| $\boldsymbol{A}$ | *truth*$(\boldsymbol{A})$ | *average*$(\boldsymbol{A})$ |
+| $\boldsymbol{A}$ | ***truth*$(\boldsymbol{A})$** | ***average*$(\boldsymbol{A})$** |
 | --- | --- | --- |
 | $h \amp r \amp w$ | true | 0 |
 | $h \amp r$ | true | 0.5 |
@@ -241,7 +241,7 @@ A simple measure which does count all worlds is average distance from the actual
 | ${\sim}h \amp{\sim}r$ | false | 2.5 |
 | ${\sim}h \amp{\sim}r \amp{\sim}w$ | false | 3.0 |
 
-*Table 2*. The *average* function.
+\*Table 2\*. The *average* function.
 
 This ordering looks promising. Propositions are closer to the truth the more they get the basic weather traits right, further away the more mistakes they make. A false proposition may be made either worse or better by strengthening $(h \amp r \amp{\sim}w$ is better than ${\sim}w$ while ${\sim}h \amp{\sim}r \amp{\sim}w$ is worse). A false proposition (like $h \amp r \amp{\sim}w)$ can be closer to the truth than some true propositions (like $h)$. And so on.
 
@@ -249,17 +249,17 @@ These judgments may be sufficient to show that *average* is superior to *min-max
 
 Furthermore *average* has not found universal favor. Notably, there are pairs of true propositions such that *average* deems the stronger of the two to be the further from the truth. According to *average*, the tautology is not the true proposition furthest from the truth. Averaging thus violates the Popperian principle of the value of content for truths, see Table 3 for an example.
 
-| $\boldsymbol{A}$ | *truth*$(\boldsymbol{A})$ | *average*$(\boldsymbol{A})$ |
+| $\boldsymbol{A}$ | ***truth*$(\boldsymbol{A})$** | ***average*$(\boldsymbol{A})$** |
 | --- | --- | --- |
 | $h \vee{\sim}r \vee w$ | true | 1.4 |
 | $h \vee{\sim}r$ | true | 1.5 |
 | $h \vee{\sim}h$ | true | 1.5 |
 
-*Table 3*. *average* violates the value of content for truths.
+\*Table 3\*. *average* violates the value of content for truths.
 
 Let’s then consider other measures, like the *sum* function – the sum of the distances of worlds in the range of a proposition from the actual world (Table 4).
 
-| $\boldsymbol{A}$ | *truth*$(\boldsymbol{A})$ | *sum*$(\boldsymbol{A})$ |
+| $\boldsymbol{A}$ | ***truth*$(\boldsymbol{A})$** | ***sum*$(\boldsymbol{A})$** |
 | --- | --- | --- |
 | $h \amp r \amp w$ | true | 0 |
 | $h \amp r$ | true | 1 |
@@ -271,13 +271,13 @@ Let’s then consider other measures, like the *sum* function – the sum of the
 | ${\sim}h \amp{\sim}r$ | false | 5 |
 | $h \amp{\sim}r \amp{\sim}w$ | false | 3 |
 
-*Table 4*. The *sum* function.
+\*Table 4\*. The *sum* function.
 
 The *sum* function is an interesting measure in its own right. While, like *average*, it is sensitive to the distances of all worlds in a proposition from the actual world, it is not plausible as a measure of distance from the truth, and indeed no one has proposed it as such a measure. What *sum* does measure is a certain kind of distance-weighted *logical weakness*. In general the weaker a proposition is, the larger its *sum* value. But adding words far from the actual world makes the *sum* value larger than adding worlds closer to it. This guarantees, for example, that of two truths the *sum* of the logically weaker is always greater than the *sum* of the stronger. Thus *sum* might play a role in capturing the value of content for truths. But it also delivers the implausible value of content for falsehoods. If you think that there is anything to the likeness program it is hardly plausible that the falsehood ${\sim}h \amp{\sim}r \amp{\sim}w$ is closer to the truth than its consequence ${\sim}h$. Niiniluoto argues that *sum* is a good likeness-based candidate for measuring Hilpinen’s “information factor”. It is obviously much more sensitive than is *max* to the proposition’s informativeness about the location of the truth.
 
 Niiniluoto thus proposes, as a measure of distance from the truth, the average of this information factor and Hilpinen’s truth factor: *min-sum-average*. Averaging the more sensitive information factor (*sum*) and the closeness-to-being-true factor (*min*) yields some interesting results (see Table 5).
 
-| $\boldsymbol{A}$ | *truth*$(\boldsymbol{A})$ | *min-sum-average*$(\boldsymbol{A})$ |
+| $\boldsymbol{A}$ | ***truth*$(\boldsymbol{A})$** | ***min-sum-average*$(\boldsymbol{A})$** |
 | --- | --- | --- |
 | $h \amp r \amp w$ | true | 0 |
 | $h \amp r$ | true | 0.5 |
@@ -289,7 +289,7 @@ Niiniluoto thus proposes, as a measure of distance from the truth, the average o
 | ${\sim}h \amp{\sim}r$ | false | 3.5 |
 | ${\sim}h \amp{\sim}r \amp{\sim}w$ | false | 3 |
 
-*Table 5*. The *min-sum-average* function.
+\*Table 5\*. The *min-sum-average* function.
 
 For example, this measure deems $h \amp r \amp w$ more truthlike than $h \amp r$, and the latter more truthlike than $h$. And in general *min-sum-average* delivers the value of content for truths. For any two truths the *min* factor is the same (0), and the *sum* factor increases as content decreases. Furthermore, unlike the symmetric difference measures, *min-sum-average* doesn’t deliver the objectionable value of contents for falsehoods. For example, ${\sim}h \amp{\sim}r \amp{\sim}w$ is deemed further from the truth than ${\sim}h$. But *min-sum-average* is not quite home free, at least from an intuitive point of view. For example, ${\sim}h \amp{\sim}r \amp{\sim}w$ is deemed closer to the truth than ${\sim}h \amp{\sim}r$. This is because what ${\sim}h \amp{\sim}r \amp{\sim}w$ loses in closeness to the actual world (*min*) it makes up for by an increase in strength (*sum*).
 
@@ -305,7 +305,7 @@ How might reflective equilibrium be employed to help resolve the current dispute
 | $19 \le N \le 20$ | $N=8$ or $19 \le N \le 20$ | $N=9$ or $19 \le N \le 20$ |
 | $N= 20$ | $N=8$ or $N= 20$ | $N=9$ or $N= 20$ |
 
-*Table 6*.
+\*Table 6\*.
 
 Judgements about the closeness of the true propositions in the center column to the truth may be less intuitively clear than are judgments about their left-hand counterparts. However, it would seem highly incongruous to judge the truths in Table 6 to be steadily increasing in truthlikeness, while the falsehoods both to the left and the right, both marginally different in their overall likeness relations to truth, steadily decrease in truthlikeness. This suggests that that all three are sequences of steadily increasing strength combined with steadily *decreasing* truthlikeness. And if that’s right, it might be enough to overturn Popper’s principle that amongst true theories strength and truthlikeness must covary (even while granting that this is not so for falsehoods).
 
@@ -340,7 +340,7 @@ Now it appears as though we can describe the same sets of weather states in the 
 | $B$ | ${\sim}h \amp{\sim}r \amp w$ | ${\sim}h \amp m \amp{\sim}a$ |
 | $C$ | ${\sim}h \amp{\sim}r \amp{\sim}w$ | ${\sim}h \amp m \amp a$ |
 
-*Table 7*.
+\*Table 7\*.
 
 If $T$ is the truth about the weather then theory $A$, in $h$-$r$-$w$-ese, seems to make just one error concerning the original weather states, while $B$ makes two and $C$ makes three. However, if we express these two theories in $h$-$m$-$a$-ese however, then this is reversed: $A$ appears to make three errors and $B$ still makes two and $C$ makes only one error. But that means the account makes truthlikeness, unlike truth, radically language-relative.
 
@@ -386,11 +386,11 @@ The quest to nail down a viable concept of truthlikeness is motivated, at least 
 
 Consider the second horn of this dilemma. Is it true that if we can’t know what the (whole) truth of some matter is, we also cannot ascertain whether or not we are making progress towards it? Suppose you are interested in the truth about the weather tomorrow. Suppose you learn (from a highly reliable source) that it will be hot. Even though you don’t know the *whole* truth about the weather tomorrow, you do know that you have added a truth to your existing corpus of weather beliefs. One does not need to be able to ascertain the whole truth to ascertain some less-encompassing truths. And it seems to follow that you can also know you have made at least some progress towards the whole weather truth.
 
-This rebuttal is too swift. It presupposes that the addition of a new truth $A$ to an existing corpus $K$ guarantees that your revised belief $K$*$A$ constitutes progress towards the truth. But whether or not $K$*$A$ is closer to the truth than $K$ depends not only on a theory of truthlikeness but also on a theory of belief revision. (See also the entry on the logic of belief revision.)
+This rebuttal is too swift. It presupposes that the addition of a new truth $A$ to an existing corpus $K$ guarantees that your revised belief $K$\*$A$ constitutes progress towards the truth. But whether or not $K$\*$A$ is closer to the truth than $K$ depends not only on a theory of truthlikeness but also on a theory of belief revision. (See also the entry on the logic of belief revision.)
 
-Let’s consider a simple case. Suppose $A$ is some newly discovered truth, and that $A$ is compatible with $K$. Assume that belief revision in such cases is simply a matter of so-called *expansion* – i.e., conjoining $A$ to $K$. Consider the case in which $K$ also happens to be true. Then any account of truthlikeness that endorses the value of content for truths (e.g. Niiniluoto’s *min-sum-average*) guarantees that $K$*$A$ is closer to the truth than $K$. That’s a welcome result, but it has rather limited application. Typically one doesn’t know that $K$ is true: so even if one knows that $A$ is true, one cannot use this fact to celebrate progress.
+Let’s consider a simple case. Suppose $A$ is some newly discovered truth, and that $A$ is compatible with $K$. Assume that belief revision in such cases is simply a matter of so-called *expansion* – i.e., conjoining $A$ to $K$. Consider the case in which $K$ also happens to be true. Then any account of truthlikeness that endorses the value of content for truths (e.g. Niiniluoto’s *min-sum-average*) guarantees that $K$\*$A$ is closer to the truth than $K$. That’s a welcome result, but it has rather limited application. Typically one doesn’t know that $K$ is true: so even if one knows that $A$ is true, one cannot use this fact to celebrate progress.
 
-The situation is more dire when it comes to falsehoods. If $K$ is in fact false then, without the disastrous principle of the value of content for falsehoods, there is certainly no guarantee that $K$*$A$ will constitute a step toward the truth. (And even if one endorsed the disastrous principle one would hardly be better off. For then the addition of any proposition, whether true or false, would constitute an improvement on a false theory.) Consider again the number of the planets, $N$. Suppose that the truth is N$=8$, and that your existing corpus $K$ is ($N=7 \vee N=100)$. Suppose you somehow acquire the truth $A$: $N\gt 7$. Then $K$*$A$ is $N=100$, which (on *average*, *min-max-average* and *min-sum-average*) is further from the truth than $K$. So revising a false theory by adding truths by no means guarantees progress towards the truth.
+The situation is more dire when it comes to falsehoods. If $K$ is in fact false then, without the disastrous principle of the value of content for falsehoods, there is certainly no guarantee that $K$\*$A$ will constitute a step toward the truth. (And even if one endorsed the disastrous principle one would hardly be better off. For then the addition of any proposition, whether true or false, would constitute an improvement on a false theory.) Consider again the number of the planets, $N$. Suppose that the truth is N$=8$, and that your existing corpus $K$ is ($N=7 \vee N=100)$. Suppose you somehow acquire the truth $A$: $N\gt 7$. Then $K$\*$A$ is $N=100$, which (on *average*, *min-max-average* and *min-sum-average*) is further from the truth than $K$. So revising a false theory by adding truths by no means guarantees progress towards the truth.
 
 For theories that reject the value of content for truths (e.g., the *average* proposal) the situation is worse still. Even if $K$ happens to be true, there is no guarantee that expanding $K$ with truths will constitute progress. Of course, there will be certain general conditions under which the value of content for truths holds. For example, on the *average* proposal, the expansion of a true $K$ by an atomic truth (or, more generally, by a convex truth) will guarantee progress toward the truth.
 

@@ -136,19 +136,19 @@ Church therefore imposes the condition that the admissible place selections shou
 
 As Church points out, if we adopt the Church-Turing computable functions as the admissible place selections, it follows quickly that the set of admissible place selections is countably infinite. We may then show:
 
-> Theorem 1 (Doob-Wald). The set of random sequences forms a measure one subset of the Cantor space.
+> **Theorem 1 (Doob-Wald).** The set of random sequences forms a measure one subset of the Cantor space.
 >
 > [Proof]
 
 Thus von Mises’ conception of randomness was made mathematically robust (Martin-Löf 1969b)[^martin-löf-1969b]. We can see that various properties of stochasticity follow from this characterisation. For example, we can show:
 
-> Corollary 1. Every von Mises-random sequence is Borel normal.
+> **Corollary 1.** Every von Mises-random sequence is Borel normal.
 >
 > [Proof]
 
 These successes for the approach to randomness based on the impossibility of gambling systems were, however, undermined by a theorem of Ville (1939)[^ville-1939]:
 
-> Theorem 2 (Ville). For any countable set of place selections $\{\phi_n\}$ (including the identity), there exists an infinite binary sequence $x$ such that:
+> **Theorem 2 (Ville).** For any countable set of place selections $\{\phi_n\}$ (including the identity), there exists an infinite binary sequence $x$ such that:
 >
 > 1. for all $m$, $\lim_{m \rightarrow \infty} (\sum^{m}_{k=1}(\phi_n (x))_k)/m = \frac{1}{2}$; but
 > 2. for all $m, (\sum^{m}_{n=1}x_{n})/m \gt \frac{1}{2}$.
@@ -172,7 +172,7 @@ Note that the restriction to effective properties of sequences is crucial here. 
 
 The central result of Martin-Löf (1966)[^martin-löf-1966] is the following:
 
-> Theorem 3 (Universal Tests and the Existence of Random Sequences). There is a universal test for ML-randomness; moreover, only a measure zero set of infinite binary sequences fails this test. So almost all such sequences are ML-random.
+> **Theorem 3 (Universal Tests and the Existence of Random Sequences).** There is a universal test for ML-randomness; moreover, only a measure zero set of infinite binary sequences fails this test. So almost all such sequences are ML-random.
 >
 > [Proof]
 
@@ -196,11 +196,11 @@ One example is this algorithm: on input of a binary string *δ* of length $4n$, 
 
 However, there is a limit on how well any algorithm can compress a string. If $\lvert\sigma\rvert$ is the length of *σ*, say that a string *σ* is *compressed* by $f$ if there is an $f$-description *δ* such that $\sigma = f(\delta)$ and $\lvert\delta\rvert \lt \lvert\sigma\rvert$. If a useful decompression algorithm is such that for some fixed $k$, $\lvert f(\delta)\rvert \le \lvert\delta\rvert + k$, so that $f$-descriptions are at least $k$ shorter than the sequence to be compressed, then it follows that very few strings usefully compress. For there are $2^l$ strings *σ* such that $\lvert\sigma\rvert = l$; so there are at most $2^{l - k} f$-descriptions; since $f$ is a function, there are at most $2^{l-k}$ compressible strings. As a proportion of all strings of length $l$, then, there are at most $2^{l-k}/2^{l} = \frac{1}{2}^{k}$ compressible strings . This means that as the amount of compression required increases, the number of sequences so compressible decreases exponentially. Even in the most pitiful amount of compression, $k = 1$, we see that at most half the strings of a given length can be compressed by any algorithm $f$.
 
-So our interest must be in those decompression functions which do best overall. We might hope to say: $f$ is better than $g$ iff for all $\sigma , C_f (\sigma) \le C_g (\sigma)$. Unfortunately, no function is best in this sense, since for any given string *σ* with $f$-complexity $\lvert\sigma\rvert - k$, we can design a function $g$ as follows: on input 1, output *σ*; on input *n*δ** (for any $n)$, output $f(\delta)$. (Generalising, we can add arbitrarily long prefixes of length $m$ onto the inputs to $g$ and have better-than$-f$ compression for $2^m$ sequences.) But we can define a notion of *complexity near-superiority* of $f$ to $g$ iff there is some constant $k$ such that for any string, $C_f (\sigma) \le C_g (\sigma) + k. f$ is least as good as $g$, subject to some constant which is independent of the functions in question. If $f$ and $g$ are both complexity near-superior to each other, for the same $k$, we say they are *complexity equivalent*.
+So our interest must be in those decompression functions which do best overall. We might hope to say: $f$ is better than $g$ iff for all $\sigma , C_f (\sigma) \le C_g (\sigma)$. Unfortunately, no function is best in this sense, since for any given string *σ* with $f$-complexity $\lvert\sigma\rvert - k$, we can design a function $g$ as follows: on input 1, output *σ*; on input *nδ* (for any $n)$, output $f(\delta)$. (Generalising, we can add arbitrarily long prefixes of length $m$ onto the inputs to $g$ and have better-than$-f$ compression for $2^m$ sequences.) But we can define a notion of *complexity near-superiority* of $f$ to $g$ iff there is some constant $k$ such that for any string, $C_f (\sigma) \le C_g (\sigma) + k. f$ is least as good as $g$, subject to some constant which is independent of the functions in question. If $f$ and $g$ are both complexity near-superior to each other, for the same $k$, we say they are *complexity equivalent*.
 
 Kolmogorov (1965)[^kolmogorov-1965] showed that there is an optimal decompression algorithm:
 
-> Theorem 4 (Kolmogorov). There exists a decompression algorithm which is near-superior to any other program. Moreover, any such optimal algorithm is complexity equivalent to any other optimal algorithm (see also Chaitin 1966 and Martin-Löf 1969a)[^chaitin-1966][^martin-löf-1969a].
+> **Theorem 4 (Kolmogorov).** There exists a decompression algorithm which is near-superior to any other program. Moreover, any such optimal algorithm is complexity equivalent to any other optimal algorithm (see also Chaitin 1966 and Martin-Löf 1969a)[^chaitin-1966][^martin-löf-1969a].
 >
 > [Proof]
 
@@ -213,7 +213,7 @@ Choose some such asymptotically optimal function $u$, and define the complexity 
 
 It follows from what we have just said that there exist random sequences for any chosen length $n$, and that as $n$ increases with respect to $k$, random sequences come to be the overwhelming majority of sequences of that length.
 
-> Theorem 5. A random sequence of a given length cannot be effectively produced.
+> **Theorem 5.** A random sequence of a given length cannot be effectively produced.
 >
 > [Proof]
 
@@ -244,7 +244,7 @@ Again, there do exist prefix-free random sequences, since we know that there are
 
 Both plain and prefix-free Kolmogorov randomness provide satisfactory accounts of the randomness of finite sequences. One difficulty arises, as I suggested earlier, when we attempt to extend plain Kolmogorov randomness to the case of infinite sequences in the most obvious way, that is, by defining an infinite sequence as Kolmogorov random iff all finite initial segments are Kolmogorov random. It would then turn out that no infinite sequence is random. Why? Because of the following theorem, which shows that there is no sequence such that all of its initial segments are random:
 
-> Theorem 6 (Martin-Löf 1966)[^martin-löf-1966]. For any sufficiently long string, there will always be some fairly compressible initial segments. (See also Li and Vitányi 2008: §2.5.1 and Downey and Hirschfeldt 2010: §2.1.)[^downey-2010]
+> **Theorem 6 (Martin-Löf 1966)[^martin-löf-1966]**. For any sufficiently long string, there will always be some fairly compressible initial segments. (See also Li and Vitányi 2008: §2.5.1 and Downey and Hirschfeldt 2010: §2.1.)[^downey-2010]
 >
 > [Proof]
 
@@ -254,7 +254,7 @@ However, the phenomenon of complexity oscillation does not pose as significant a
 
 With this definition in hand we obtain a very striking result. The class of infinite prefix-free Kolmogorov random sequences is certainly non-empty. Indeed: it is just the class of ML-random sequences!
 
-> Theorem 7 (Schnorr). A sequence is ML-random iff it is prefix-free Kolmogorov random.
+> **Theorem 7 (Schnorr)**. A sequence is ML-random iff it is prefix-free Kolmogorov random.
 >
 > [Proof]
 
@@ -662,7 +662,7 @@ This principle also is not susceptible to undermining, because one never conditi
 
 4. Although there is an argument that something like the BCP can be defended on elementary grounds: It is an axiom of probability theory that tautologies should receive probability one; Hájek suggests that necessary truths also should receive probability one. This is perhaps debatable in the case of subjective probability, for perhaps it is sometimes possible to rationally not be fully confident in a necessary truth (for example, if identity statements are necessary if true, it may yet be rational on occasion to doubt a true identity claim). But in the case of objective chance, it is hard to dispute that if $p$ is necessary, then the chance of $p$ should be 1. By substitution, necessarily $\neg p$ entails $\Ch(\neg p) = 1$. Equivalently, necessarily: if it is not possible that $p$, then the chance of $p$ is zero. By contraposition, we get that if the chance of $p$ is non-zero, $p$ is possible. While Hájek’s argument seems sound, its conclusion is notably weaker than the BCP as defended by Bigelow *et al*., Mellor, Schaffer, or Eagle. For Hájek’s claim is just that something with a non-zero chance is true at some possible world—it says nothing about whether that possibility should be one which is systematically similar to actuality with respect to the facts that ground the actual chance. But all the other formulations do entail that the possibilities where the outcome does happen should be similar with respect to the actual past, or to the actual properties of the chance device. The BCP proper is thus stronger than the relatively trivial conclusion of Hájek’s argument, and correspondingly more vulnerable to objections.
 
-5. The downside is that his theory of ‘L*-chance’ is subject to the objections raised by Arntzenius and Hall (2003) that we discussed above.
+5. The downside is that his theory of ‘L\*-chance’ is subject to the objections raised by Arntzenius and Hall (2003) that we discussed above.
 
 6. Though Strevens (1999)[^strevens-1999] raises an epistemological objection to the effect that, even if it is a truth about chance, the PP cannot be justified at all, on any conception of chance. His basic concern is analogous to Hume’s worries about traditional principles of induction—that setting one’s credences equal to the chances is rational only if one is already convinced that the high objective probability of PP leading to epistemic success justifies confidence in the PP, i.e., is justified only if one already accepts the PP. (Hall 2004 develops a more limited version of this conclusion, arguing that reductionists about chance can’t justify the PP.)[^hall-2004] Hoefer (2007)[^hoefer-2007] responds using his particular account of chance. Others may well adapt their own preferred response to the Humean problem of induction, or simply deny that the justification of the PP matters as much to the theory of objective chance as its truth—and its truth will do to secure the frequency-chance connection needed here.
 

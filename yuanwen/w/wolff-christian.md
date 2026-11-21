@@ -546,7 +546,7 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 
 [^lenders-1971]: Lenders, Winfried, 1971, “The Analytic Logic of G. W. Leibniz and Chr. Wolff: A Problem in Kant Research”, *Synthese*, 23(1): 147–153. doi:10.1007/BF00414150
 
-[^lodge-2018]: Lodge, Paul, 2018, “Leibniz's Justification of the Principle of Sufficient Reason (Mainly) in the Correspondence with Clarke”, *History of Philosophy & Logical Analysis *21(1), 69–91.
+[^lodge-2018]: Lodge, Paul, 2018, “Leibniz's Justification of the Principle of Sufficient Reason (Mainly) in the Correspondence with Clarke”, *History of Philosophy & Logical Analysis* 21(1), 69–91.
 
 [^look-2011]: Look, Brandon C., 2011, “Grounding the Principle of Sufficient Reason: Leibnizian Rationalism and the Humean Challenge”, in *The Rationalists: Between Tradition and Innovation*, Carlos Fraenkel, Dario Perinetti, and Justin E. H. Smith (eds.), Dordrecht: Spinger, 201–19.
 
@@ -572,7 +572,7 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 
 [^schneiders-1983]: Schneiders, Werner (ed.), 1983, *Christian Wolff, 1679–1754: Interpretationen zu seiner Philosophie und deren Wirkung mit einer Bibliographie der Wolff-Literatur*, (Studien zum achtzehnten Jahrhundert 4), Hamburg: F. Meiner.
 
-[^schierbaum-2022]: Schierbaum, Sonja, 2022, “Christian Wolff über motivierende Gründe und handlungsrelevante Irrtümer”, *Archiv für Geschichte der Philosophie *104(1): 131–163 doi:10.1515/agph-2019-0073
+[^schierbaum-2022]: Schierbaum, Sonja, 2022, “Christian Wolff über motivierende Gründe und handlungsrelevante Irrtümer”, *Archiv für Geschichte der Philosophie* 104(1): 131–163 doi:10.1515/agph-2019-0073
 
 [^schiebaum-2024]: Schiebaum, Sonja, Michael Walschots, and John Walsh, 2024, *Christian Wolff's German Ethics: New Essays*, Oxford: Oxford University Press.
 

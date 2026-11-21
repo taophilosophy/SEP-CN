@@ -285,4 +285,4 @@ Austin, John | Bentham, Jeremy | jurisprudence, experimental | law: and language
 
 [^waluchow-1994]: Waluchow, Wilfrid J., 1994, *Inclusive Legal Positivism*, Oxford: Clarendon Press.
 
-[^watson-2023]: Watson, Bill, 2023, “How to Answer Dworkin’s Argument from Theoretical Disagreement Without Attributing Confusion or Disingenuity to Legal Officials", *Canadian Journal of Law & Jurisprudence, *36(1): 215–40. doi.org/10.1017/cjlj.2022.23
+[^watson-2023]: Watson, Bill, 2023, “How to Answer Dworkin’s Argument from Theoretical Disagreement Without Attributing Confusion or Disingenuity to Legal Officials", *Canadian Journal of Law & Jurisprudence,* 36(1): 215–40. doi.org/10.1017/cjlj.2022.23

@@ -151,7 +151,7 @@ To take a straightforward example: a Supreme Court justice deciding on a gay mar
 
 Rawls’s doctrine of public reason can be summarized as follows:
 
-> Citizens engaged in **certain political activities** have a **duty of civility** to be able to justify their decisions on **fundamental political issues** by reference only to **public values** and **public standards**.
+> *Citizens engaged in **certain political activities** have a **duty of civility** to be able to justify their decisions on **fundamental political issues** by reference only to **public values** and **public standards**.*
 
 Each of the highlighted terms in this doctrine can be further elucidated as follows:
 
@@ -540,7 +540,7 @@ authority | autonomy: in moral and political philosophy | character, moral | chi
 
 [^hobbes-1651]: Hobbes, T., 1651, *Leviathan*; page reference is to the 1994 edition, E. Curley (trans.), London: Hackett.
 
-[^kim-2019]: Kim, H., 2019, “An Extension of Rawls’s Theory of Justice for Climate Change,” *International Theory *11(2): 160–81.
+[^kim-2019]: Kim, H., 2019, “An Extension of Rawls’s Theory of Justice for Climate Change,” *International Theory* 11(2): 160–81.
 
 [^kukathas-2003]: Kukathas, C., (ed.), 2003, *John Rawls: Critical Assessments of Leading Political Philosophers*, 4 vol., London: Routledge.
 
@@ -602,4 +602,4 @@ authority | autonomy: in moral and political philosophy | character, moral | chi
 
 [^weithman-2011]: Weithman, P., 2011, *Why Political Liberalism? On John Rawls’s Political Turn*, Oxford: Oxford University Press.
 
-[^weithman-2023]: –––, (ed.), 2023, *Rawls’s *A Theory of Justice *at 50*, Cambridge, Cambridge University Press.
+[^weithman-2023]: –––, (ed.), 2023, *Rawls’s* A Theory of Justice *at 50*, Cambridge, Cambridge University Press.

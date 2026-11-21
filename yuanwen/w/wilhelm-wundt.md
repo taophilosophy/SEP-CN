@@ -627,7 +627,7 @@ Natorp quotes Wundt:
 
 A case has of late been made, however, that Wundt did not consider all *völkerpsychologische* phenomena to be in principle beyond the scope of experimentation (Greenwood 2003)[^greenwood-2003].
 
-[^note-44]: Wundt inherited the term from the Herbartian psychologists, Heymann Steinthal and Moritz Lazarus (cf. *L* III: 226, n.*). While it literally means “psychology of peoples”, it is translated as “social” or “cultural” psychology; Titchener’s translation, “folk psychology”, has an entirely different connotation in contemporary philosophy of mind and should be avoided.
+[^note-44]: Wundt inherited the term from the Herbartian psychologists, Heymann Steinthal and Moritz Lazarus (cf. *L* III: 226, n.\*). While it literally means “psychology of peoples”, it is translated as “social” or “cultural” psychology; Titchener’s translation, “folk psychology”, has an entirely different connotation in contemporary philosophy of mind and should be avoided.
 
 [^note-45]: Largely on the strength of the first two volumes of his *Völkerpsychologie* dealing with language, Wundt is considered the father of psycholinguistics. He explains that language is the “most important of cultural-psychological products [*Erzeugnis*]” (*L* III: 225), because
 

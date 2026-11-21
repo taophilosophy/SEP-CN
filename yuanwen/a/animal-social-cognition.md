@@ -32,7 +32,7 @@ The next major breakthrough in this area arrived via a series of experiments con
 
 ![A diagram of the situation described in caption below](../assets/animal-social-cognition/Picture1.png)
 
-*Figure 1*: The Hare et al. (2000) design. Two chimpanzees are allowed to pursue food items in a shared enclosure. Food items are either out in the open from the perspective of the dominant, or behind an opaque occluder from the perspective of the dominant. If the subordinate attempts to take food items that are behind opaque occluders more often than those that are out in the open, the experimenters argue this would provide evidence that they understand what the dominant can and cannot see.
+\*Figure 1\*: The Hare et al. (2000) design. Two chimpanzees are allowed to pursue food items in a shared enclosure. Food items are either out in the open from the perspective of the dominant, or behind an opaque occluder from the perspective of the dominant. If the subordinate attempts to take food items that are behind opaque occluders more often than those that are out in the open, the experimenters argue this would provide evidence that they understand what the dominant can and cannot see.
 
 ## 2. The “logical problem” with research on animal theory of mind
 

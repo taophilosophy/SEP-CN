@@ -274,7 +274,7 @@ Alexander, Samuel | atheism and agnosticism | Bayes’ Theorem | cosmological ar
 
 [^gellman-2001]: Gellman, Jerome I., 2001, *Mystical Experience of God: A Philosophical Inquiry* (Ashgate Philosophy of Religion Series), Aldershot/Burlington, VT: Ashgate.
 
-[^goldberg-2014]: Goldberg, Sanford C., 2014, “Does Externalist Epistemology Rationalize Religious Commitment?*”, in *Religious Faith and Intellectual Virtue*, Laura Frances Callahan and Timothy O’Connor (eds.), Oxford/New York: Oxford University Press, 279–298 (ch. 12). doi:10.1093/acprof:oso/9780199672158.003.0013
+[^goldberg-2014]: Goldberg, Sanford C., 2014, “Does Externalist Epistemology Rationalize Religious Commitment?\*”, in *Religious Faith and Intellectual Virtue*, Laura Frances Callahan and Timothy O’Connor (eds.), Oxford/New York: Oxford University Press, 279–298 (ch. 12). doi:10.1093/acprof:oso/9780199672158.003.0013
 
 [^goldman-1999]: Goldman, Alvin I., 1999, *Knowledge in a Social World*, Oxford/New York: Clarendon Press. doi:10.1093/0198238207.001.0001
 

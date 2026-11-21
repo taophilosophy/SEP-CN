@@ -31,7 +31,7 @@ Philosophical, geometrical and even theological speculations related to the five
 
 ![figure 1](../assets/kepler/figure1.jpg)
 
-*Figure 1.* Table 3 in *Mysterium Cosmographicum*, with Kepler’s model illustrating the intercalation of the five regular solids between the imaginary spheres of the planets (cf. KGW 1, pp. 26–27).
+\*Figure 1.\* Table 3 in *Mysterium Cosmographicum*, with Kepler’s model illustrating the intercalation of the five regular solids between the imaginary spheres of the planets (cf. KGW 1, pp. 26–27).
 
 Plato establishes at the physical and chemical level a correspondence between them and the five elements—earth, water, air, fire and ether—and tries to provide this correspondence with geometrical grounds. A further source of historically decisive importance is the fact that the five regular polyhedra are treated in Euclid’s *Elements of Geometry*, a work that for Kepler, especially in the Platonic approach of Proclus, has a central position (Claessens 2011)[^claessens-2011]. At the very beginning of HM Kepler complains about the fact that the modern philosophical and mathematical school of Peter Ramus (1515–1572) had not been able to understand the architectonic structure of the *Elements*, which are crowned with the treatment of the five regular polyhedra. In addition, a revival of Platonic philosophy was taking place in Kepler’s time and inspired not only philosophers and mathematicians but also architects, artists and illustrators (see Field 1997)[^field-1997].
 
@@ -99,7 +99,7 @@ Today Kepler is remembered in the history of sciences above all for his three pl
 
 ![figure 2](../assets/kepler/figure2.jpg)
 
-*Figure 2.* Kepler’s first law of ellipse and second law of areas (modern representation with greatly exaggerated eccentricity).
+\*Figure 2.\* Kepler’s first law of ellipse and second law of areas (modern representation with greatly exaggerated eccentricity).
 
 The first two laws were published initially in AN (1609), although it is known that Kepler had arrived at these results much earlier. His first law establishes that the orbit of a planet is an ellipse with the Sun in one of the foci (see Figure 2). According to the second law, the radius vector from the Sun to a planet P sweeps out equal areas, for instance $SP_1P_2$ and $SP_3P_4$, in equal times. The planet *P* is therefore faster at perihelion, where it is closer to the Sun, and slower at aphelion, where it is farther from the Sun. In accordance with his dynamical approach, Kepler first found the second law and, then, as a further result because of the effect produced by the supposed force, the elliptical path of the planets (for the two first planetary laws see especially Aiton 1973, 1975a, Davis 1992a–e, and 1998a; Donahue 1994; Wilson 1968 and 1972; for Kepler’s system of conics in connection with his optics see the recent study by Del Centina, 2016)[^aiton-1973][^aiton-1975a][^davis-1992a][^davis-1998a][^del-2016][^donahue-1994][^wilson-1968][^wilson-1972].
 

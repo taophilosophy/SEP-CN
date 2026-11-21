@@ -167,9 +167,9 @@ In the case where we examine or study an object *X* *qua* *Y* or *X* in-the-resp
 
 Note that there is no necessity that ‘*qua*’ operators be of the form ‘*qua* *Y*’, where *Y* is a noun phrase. For example, Aristotle says (*De anima* iii.4.429b25-6) that two things affect and are affected “*qua* something in common belongs to both.” Similarly, as evidence that ‘*qua*’ does not in these contexts always mean ‘because’ (usually, the context is too ambiguous to precisely decide whether it means ‘because’ or ‘in the respect that’), consider *Nicomachean Ethics* i.3.1102b8-9, “Sleep is an inactivity of the soul *qua* it is called good or bad,” but certainly not because it is.
 
-With only one or two possible exceptions, it seems that whenever Aristotle speaks of *F*(*X*) *qua* *G*(*X*), *G*(*X*) must be true. We can study a perceptible triangle *qua* triangle because it is a triangle. For convenience, we can call this principle *qua*-realism.
+With only one or two possible exceptions, it seems that whenever Aristotle speaks of *F*(*X*) *qua* *G*(*X*), *G*(*X*) must be true. We can study a perceptible triangle *qua* triangle because it is a triangle. For convenience, we can call this principle ***qua*-realism**.
 
-The Account of Mathematical Objects with ‘*Qua*’. We begin with perceptible magnitudes. These are volumes, surfaces, edges, and corners. They change in position and size. They are made of some material and are the quantities of substances and their interactions. The volumes, surfaces, and edges have shape. Times and corners do not. Different sciences treat different perceptible magnitudes *qua* different things.
+**The Account of Mathematical Objects with ‘*Qua*’**. We begin with perceptible magnitudes. These are volumes, surfaces, edges, and corners. They change in position and size. They are made of some material and are the quantities of substances and their interactions. The volumes, surfaces, and edges have shape. Times and corners do not. Different sciences treat different perceptible magnitudes *qua* different things.
 
 Moreover, since there are many perceptible magnitudes, there will be enough, *qua* line, to prove any theorem that involves lines. The plurality problem is trivially solved.
 

@@ -601,7 +601,7 @@ Special thanks to Dr. David Shatz and Dr. T. M. Rudavksy for being my first Maim
 
 [^ps-nd]: [PS] *Perfect State* (*Mabādi’ Arā’ Ahl al-Madīna al-Faḍila*).
 
-[^walzer-1985]: [W] Walzer, Richard (ed., tr.) Al-Farabi on The Perfect State, Abū Nasr al-Fārābī‘s *Mabādi’ Arā’ Ahl al-Madīna al-Faḍila* (revised Arabic text with translation and commentary). Oxford: Clarendon Press, 1985.
+[^walzer-1985]: [W] Walzer, Richard (ed., tr.) *Al-Farabi on The Perfect State, Abū Nasr al-Fārābī‘s Mabādi’ Arā’ Ahl al-Madīna al-Faḍila (revised Arabic text with translation and commentary)*. Oxford: Clarendon Press, 1985.
 
 [^hto-nd]: [HTO] *The Harmonization of the Two Opinions of the Two Sages, Plato the Divine and Aristotle* (*Kitāb al-Jam‘ bayn Ra’yay al-Ḥakīmayn Aflāṭūn al-Ilāhī wa Arisṭūṭālīs*).
 
@@ -795,9 +795,9 @@ Special thanks to Dr. David Shatz and Dr. T. M. Rudavksy for being my first Maim
 
 [^burrell-1993]: Burrell, David B. *Freedom and Creation in Three Traditions*. Indiana: University of Notre Dame Press, 1993.
 
-[^diamond-2002]: Diamond, James Arthur. Maimonides and the Hermeneutics of Concealment: Deciphering Scripture and Midrash in *The Guide of the Perplexed*. Albany: State University of New York Press, 2002.
+[^diamond-2002]: Diamond, James Arthur. *Maimonides and the Hermeneutics of Concealment: Deciphering Scripture and Midrash in The Guide of the Perplexed*. Albany: State University of New York Press, 2002.
 
-[^efros-1966]: Efros, I. Philosophical Terms in the *Moreh Nebukhim*. New York: AMS Press, 1966.
+[^efros-1966]: Efros, I. *Philosophical Terms in the Moreh Nebukhim*. New York: AMS Press, 1966.
 
 [^fakhry-2002]: Fakhry, Majid. *Al-Fârâbî, Founder of Islamic Neoplatonism*. Oxford: Oneworld Publications, 2002.
 

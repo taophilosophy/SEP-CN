@@ -609,7 +609,7 @@ analytic/synthetic distinction | Aristotle, Special Topics: on non-contradiction
 
 [^restall-2002]: –––, 2002, “Carnap’s Tolerance, Meaning, and Logical Pluralism”, *The Journal of Philosophy*, 99(8): 426–443. doi:10.2307/3655622
 
-[^rosenblatt-2022]: Rosenblatt, Lucas, 2022, “Should the Non-Classical Logician Be Embarrassed?*”, *Philosophy and Phenomenological Research*, 104(2): 388–407. doi:10.1111/phpr.12770
+[^rosenblatt-2022]: Rosenblatt, Lucas, 2022, “Should the Non-Classical Logician Be Embarrassed?\*”, *Philosophy and Phenomenological Research*, 104(2): 388–407. doi:10.1111/phpr.12770
 
 [^russell-2008]: Russell, Gillian, 2008, “One True Logic?”, *Journal of Philosophical Logic*, 37(6): 593–611. doi:10.1007/s10992-008-9082-6
 

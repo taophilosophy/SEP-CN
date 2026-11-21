@@ -413,7 +413,7 @@ Aristotle | cosmological argument | eternity, in Christian thought | fideism | G
 
 [^schwartz-2005]: Schwartz, Dov, 2005, *Studies on Astral Magic in Medieval Jewish Thought*, D. Louvish and B. Stein (trans.), Leiden: Brill.
 
-[^sinai-2003]: Sinai, Nicolai, 2003, Menschliche oder göttliche Weisheit? Zum Gegensat**z** von philosophischem und religiösem Lebensideal bei al-Ghazali und Yehuda ha-Levi, Wurzburg: Ergon.
+[^sinai-2003]: Sinai, Nicolai, 2003, *Menschliche oder göttliche Weisheit? Zum Gegensat**z** von philosophischem und religiösem Lebensideal bei al-Ghazali und Yehuda ha-Levi*, Wurzburg: Ergon.
 
 [^sirat-1985]: Sirat, Colette, 1985, “Judah Halevi”, *A History of Jewish Philosophy in the Middle Ages*, Cambridge: Cambridge University Press, pp. 113–131.
 

@@ -161,7 +161,7 @@ The existence of such expressions shows that a semantic theory must do more than
 
 ![diagram with text: link to extended description below](../assets/meaning/character-content.gif)
 
-*Figure 1.* [An extended description of figure 1 is in the supplement.]
+\*Figure 1.\* [An extended description of figure 1 is in the supplement.]
 
 Here we face another potentially misleading ambiguity in “meaning”. What is the real *meaning* of an expression—its character, or its content (in the relevant context)? The best answer here is a pluralist one. Expressions have characters which, given a context, determine a content. We can talk about either character or content, and both are important. The important thing is to be clear on the distinction, and to see the reasons for thinking that expressions have both a character and (relative to a context) a content.
 
@@ -201,7 +201,7 @@ What examples like (12) are often taken to show is that the reference of an expr
 
 ![diagram with text: link to extended description below](../assets/meaning/2-index.gif)
 
-*Figure 2.* [An extended description of figure 2 is in the supplement.]
+\*Figure 2.\* [An extended description of figure 2 is in the supplement.]
 
 The kind of theory which results is sometimes called a *double-indexing semantics*—the two indices being contexts of utterance and circumstances of evaluation. (See figure 2.)
 
@@ -219,7 +219,7 @@ These functions, or rules, are called (following Carnap (1947)[^carnap-1947]) *i
 
 ![diagram with text: link to extended description below](../assets/meaning/pws.gif)
 
-*Figure 3.* [An extended description of figure 3 is in the supplement.]
+\*Figure 3.\* [An extended description of figure 3 is in the supplement.]
 
 The intension of a sentence—i.e., the proposition that sentence expresses, on the present view—will then be a function from worlds to truth-values. In particular, it will be that function which returns the truth-value true for every world with respect to which that sentence is true, and false otherwise. The intension of a simple predicate like “is red” will be a function from worlds to the function from objects to truth-values which, for each world, returns the truth-value true if the thing in question is red, and returns the truth-value false otherwise. In effect, possible worlds semantics takes the meanings of expressions to be functions from worlds to the values which would be assigned by a theory of reference to those expressions at the relevant world: in that sense, intensions are a kind of “extra layer” on top of the theory of reference. A classic discussion of the application of the framework of possible world semantics to natural language is Lewis (1970)[^lewis-1970]; see also von Fintel & Heim (2020 [Other Internet Resources]).
 
@@ -317,7 +317,7 @@ Indeed, we can think of our three classical semantic theories, along with the th
 
 ![diagram: link to extended description below](../assets/meaning/levels.jpg)
 
-*Figure 4.* [An extended description of figure 4 is in the supplement.]
+\*Figure 4.\* [An extended description of figure 4 is in the supplement.]
 
 The principal argument for Fregean semantics (which also motivated Frege himself) is the neat solution the view offers to Frege’s puzzle: the view says that, in cases like (19) and (20) in which there seems to be a difference in content, there really is a difference in content: the names share a reference, but differ in their sense, because they differ in their mode of presentation of their shared reference.
 
@@ -633,7 +633,7 @@ We now turn to our second sort of “theory of meaning”: metasemantic theories
 
 The use of ‘metasemantics’ in this context is traceable to David Kaplan:
 
-> The fact that a word or phrase *has* a certain meaning clearly belongs to semantics. On the other hand, a claim about the basis for ascribing a certain meaning to a word or phrase does not belong to semantics. “Ohsnay” means snow in Pig‐Latin. That’s a semantic fact about Pig‐Latin. The reason why “ohsnay” means snow is not a semantic fact; it is some kind of historical or sociological fact about Pig‐Latin. ... perhaps, because it is a fact about semantics, [it should be categorized] as part of the Metasemantics of Pig‐Latin (or perhaps, for those who prefer working from below to working from above, as part of the Foundations of semantics of Pig‐Latin). (Kaplan (1989b)[^kaplan-1989b], 573–4)
+> The fact that a word or phrase \*has\* a certain meaning clearly belongs to semantics. On the other hand, a claim about the basis for ascribing a certain meaning to a word or phrase does not belong to semantics. “Ohsnay” means snow in Pig‐Latin. That’s a semantic fact about Pig‐Latin. The reason why “ohsnay” means snow is not a semantic fact; it is some kind of historical or sociological fact about Pig‐Latin. ... perhaps, because it is a fact about semantics, [it should be categorized] as part of the Metasemantics of Pig‐Latin (or perhaps, for those who prefer working from below to working from above, as part of the Foundations of semantics of Pig‐Latin). (Kaplan (1989b)[^kaplan-1989b], 573–4)
 
 The question which metasemantic theories try to answer is a common sort of question in philosophy. In the philosophy of action (see entry) we ask what the facts are in virtue of which a given piece of behavior is an intentional action; in questions about personal identity (see entry) we ask what the facts are in virtue of which *x* and *y* are the same person; in ethics we ask what the facts are in virtue of which a given action is morally right or wrong. In metasemantics we ask a parallel question about meaning.
 
@@ -799,7 +799,7 @@ action | compositionality | conditionals | contextualism, epistemic | convention
 
 [^note-2]: Before turning to discussion of these two sorts of theories, it is worth noting that one prominent tradition in the philosophy of language denies that there are facts about the meanings of linguistic expressions. (See, for example, Quine 1960 and Kripke 1982; for critical discussion, see Soames 1997.)[^kripke-1982][^quine-1960][^soames-1997][^soames-1997-2] If this sort of skepticism about meaning is correct, then there is neither a true semantic theory nor a true metasemantic theory to be found, since the relevant sort of facts simply are not around to be described or analyzed. Discussion of these skeptical arguments is beyond the scope of this entry, so in what follows I’ll simply assume that skepticism about meaning is false.
 
-[^note-3]: These contexts are also sometimes called ‘intensional contexts.’ But this phrase is, somewhat confusingly, used in two different ways. The first is just as a synonym for ‘non-extensional context,’ i.e. a context in which substitution of expressions with the same reference/extension can change the truth-value of the sentence. The second is as a name for a context in which substitution of expressions with the same *intension* – that is, the same function from indices to extensions – *cannot* change the truth-value of the sentence. These are then contrasted with ‘hyperintensional contexts,’ which are contexts in which substitution of expressions with the same intension can change the truth-value of the relevant sentence. Hyperintensional contexts would be intensional in the first sense of the term but not the second. Because of these complications it is arguably best to stick with ‘non-extensional.’
+[^note-3]: These contexts are also sometimes called ‘intensional contexts.’ But this phrase is, somewhat confusingly, used in two different ways. The first is just as a synonym for ‘non-extensional context,’ i.e. a context in which substitution of expressions with the same reference/extension can change the truth-value of the sentence. The second is as a name for a context in which substitution of expressions with the same \*intension\* – that is, the same function from indices to extensions – \*cannot\* change the truth-value of the sentence. These are then contrasted with ‘hyperintensional contexts,’ which are contexts in which substitution of expressions with the same intension can change the truth-value of the relevant sentence. Hyperintensional contexts would be intensional in the first sense of the term but not the second. Because of these complications it is arguably best to stick with ‘non-extensional.’
 
 [^note-4]: While plausible, this principle is not uncontroversial; see entry on compositionality
 
@@ -1011,7 +1011,7 @@ This version of the criterion has Frege’s formulation as a special case, since
 
 [^larson-1995]: Larson, Richard K and Gabriel Segal, 1995, *Knowledge of Meaning: An Introduction to Semantic Theory*, Cambridge, MA: MIT Press.
 
-[^lasersohn-2005]: Lasersohn, Peter, 2005, “Context Dependence, Disagreement, and Predicates of Personal Taste*”, *Linguistics and Philosophy*, 28(6): 643–686. doi:10.1007/s10988-005-0596-x
+[^lasersohn-2005]: Lasersohn, Peter, 2005, “Context Dependence, Disagreement, and Predicates of Personal Taste\*”, *Linguistics and Philosophy*, 28(6): 643–686. doi:10.1007/s10988-005-0596-x
 
 [^laurence-1996]: Laurence, Stephen, 1996, “A Chomskian Alternative to Convention-Based Semantics”, *Mind*, 105(418): 269–301. doi:10.1093/mind/105.418.269
 

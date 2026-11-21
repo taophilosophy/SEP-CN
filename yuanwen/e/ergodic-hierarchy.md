@@ -13,13 +13,13 @@ A lead ball is hanging from the ceiling on a spring. We pull it down a bit and l
 
 ![Figure 1](../assets/ergodic-hierarchy/figure1.jpg)
 
-*Figure 1:* The motion of a ball on a spring.
+\*Figure 1:\* The motion of a ball on a spring.
 
 Each point of $X$ represents a state of the ball (because it gives the ball’s position and momentum). Accordingly, the time evolution of the ball’s state is represented by a line in $X$, a so-called *phase space trajectory* (from now on ‘trajectory’), showing where in phase space the system was at each instant of time. For instance, let us assume that at time $t = 0$ the ball is located at point $x_1$ and then moves to $x_2$ where it arrives at time $t = 5$. This motion is represented in $X$ by the line segment connecting points $\gamma_1$ and $\gamma_2$. In other words, the motion of the ball is represented in $X$ by the motion of a point representing the ball’s (instantaneous) state, and all the states that the ball is in over the course of a certain period of time jointly form a trajectory. The motion of this point has a name: it is the *phase flow* $\phi_t$. The phase flow tells us where the ball is at some later time $t$ if we specify where it is at $t = 0$; or, metaphorically speaking, $\phi_t$ drags the ball’s state around in $X$ so that the movement of the state represents the motion of the real ball. In other words, $\phi_t$ is a mathematical representation of the system’s time evolution. The state of the ball at time $t = 0$ is commonly referred to as the *initial condition*. $\phi_t$ then tells us, for every point in phase space, how this point evolves if it is chosen as an initial condition. In our concrete example, point $\gamma_1$ is the initial condition and we have $\gamma_2 = \phi_{t=5}(\gamma_1)$. More generally, let us call the ball’s initial condition $\gamma_0$ and let $\gamma(t)$ be its state at some later time $t$. Then we have $\gamma(t) = \phi_t (\gamma_0)$. This is illustrated in figure 2a.
 
 ![Figure 2](../assets/ergodic-hierarchy/figure2.jpg)
 
-*Figure 2:* Evolution in Phase space.
+\*Figure 2:\* Evolution in Phase space.
 
 Since $\phi_t$ tells us for every point in $X$ how it evolves in time, it also tells us how sets of points move around. For instance, choose an arbitrary set $A$ in $X$; then $\phi_t (A)$ is the *image of A* after $t$ time units under the dynamics of the system. This is illustrated in Figure 2b. Considering sets of points rather than single points is important when we think about physical applications of this mathematical formalism. We can never determine the exact initial condition of a system. No matter how precisely we measure $\gamma_0$, there will always be some measurement error. So what we really want to know in practical applications is not how a precise mathematical point evolves, but rather how a set of points around the initial condition $\gamma_0$ evolves. In our example with the ball the evolution is ‘tame’, in that the set keeps its original shape. As we will see below, this is not always the case.
 
@@ -47,7 +47,7 @@ For ease of presentation we use discrete transformations from now on. The defini
 
 In sum, from now on, unless stated otherwise, we consider discrete measure preserving transformations.
 
-In order to introduce the concept of ergodicity we have to introduce the phase and the time mean of a function $f$ on $X$. Mathematically speaking, a function assigns each point in $X$ a number. If the numbers are always real the function is a real-valued function; and if the numbers may be complex, then it is a complex-valued function. Intuitively we can think of these numbers as representing the physical quantities of interest. Recalling the example of the bouncing ball, $f$ could for instance assign each point in the phase space $X$ the kinetic energy the system has at that point; in this case we would have $f = p^2 / 2m$, where $m$ is the mass of the ball. For every function we can take two kinds of averages. The first is the infinite time average $f^*$. The general idea of a time average is familiar from everyday contexts. You play the lottery on three consecutive Saturdays. On the first you win $10; on the second you win nothing; and on the third you win $50. Your average gain is ($10 + $0 + $50)/3 = $20. Technically speaking this is a time average. This simple idea can easily be put to use in a dynamical system: follow the system’s evolution over time (and remember that we are now talking about an average for discrete points of time), take the value of the relevant function at each step, add the values, and then divide by the number of steps. This yields
+In order to introduce the concept of ergodicity we have to introduce the phase and the time mean of a function $f$ on $X$. Mathematically speaking, a function assigns each point in $X$ a number. If the numbers are always real the function is a real-valued function; and if the numbers may be complex, then it is a complex-valued function. Intuitively we can think of these numbers as representing the physical quantities of interest. Recalling the example of the bouncing ball, $f$ could for instance assign each point in the phase space $X$ the kinetic energy the system has at that point; in this case we would have $f = p^2 / 2m$, where $m$ is the mass of the ball. For every function we can take two kinds of averages. The first is the infinite time average $f^*$. The general idea of a time average is familiar from everyday contexts. You play the lottery on three consecutive Saturdays. On the first you win \$10; on the second you win nothing; and on the third you win \$50. Your average gain is (\$10 + \$0 + \$50)/3 = \$20. Technically speaking this is a time average. This simple idea can easily be put to use in a dynamical system: follow the system’s evolution over time (and remember that we are now talking about an average for discrete points of time), take the value of the relevant function at each step, add the values, and then divide by the number of steps. This yields
 
 $$ \frac{1}{k} \sum_{i=0}^{k-1} f(T_i(x_0)), $$
 
@@ -87,7 +87,7 @@ Since we are free to choose $A$ as we wish, we immediately get another important
 
 ![Figure 3](../assets/ergodic-hierarchy/figure3.jpg)
 
-*Figure 3:* Reducible system: no point in region $P$ evolves into region $Q$ and vice versa.
+\*Figure 3:\* Reducible system: no point in region $P$ evolves into region $Q$ and vice versa.
 
 Finally, we would like to state a theorem that will become important in Section 4. One can prove that a system is ergodic iff
 
@@ -109,7 +109,7 @@ The diagram is intended to indicate that all Bernoulli systems are Kolmogorov sy
 | --- | --- |
 | (4a) | (4b) |
 
-*Figure 4:* Mixing
+\*Figure 4:\* Mixing
 
 Mixing can be intuitively explained by the following example, first used by Gibbs in introducing the concept of mixing. Begin with a glass of water, then add a shot of scotch; this is illustrated in Fig. 4a. The volume $C$ of the cocktail (scotch + water) is $\mu(C)$ and the volume of scotch that was added to the water is $\mu(S)$, so that in $C$the concentration of scotch is $\mu(S)/\mu(C)$.
 
@@ -149,7 +149,7 @@ $$ \lim_{n \rightarrow \infty} \mu(T_n B\cap A) - \mu(B)\mu(A) = 0 $$
 
 So we see that K-mixing adds something to strong mixing.
 
-In passing we would like to mention another important property of K-systems: one can prove that K-systems have positive *Kolmogorov-Sinai entropy* (KS-entropy); for details see the Appendix, Section C. The KS-entropy itself does not have an intuitive interpretation, but it relates to three other concepts of dynamical systems theory in an interesting way, and these do have intuitive interpretations. First, *Lyapunov exponents* are a measure for how fast two originally nearby trajectories diverge on average, and they are often used in chaos theory to characterise the chaotic nature of the dynamics of a system. Under certain circumstances (essentially, the system has to be differentiable and ergodic) one can prove that a dynamical system has a positive KS-entropy if and only if it has positive Lyapounov exponents (Lichtenberg and Liebermann 1992, 304)[^lichtenberg-1992]. This result is known as *Pessin’s theorem*. Second, the *algorithmic complexity* of a sequence is the length of the shortest computer programme needed to reproduce the sequence. Some sequences are simple; e.g. a string of a million ‘1’ is simple: the programme needed to reproduce it basically is ‘write ‘1’ a million times’, which is very short. Others are complex: there is no pattern in the sequence 5%8£yu@*mS!}<74^F that one could exploit, and so a programme reproducing that sequence essentially reads ‘write 5%8£yu@*mS!}<74^F’, which is similar in length to the sequence itself. In the discrete case a trajectory can be represented as a sequence of symbols which corresponds to the states of the system along this trajectory. It is then the case that if a system is a K-system, then its KS-entropy equals the algorithmic complexity of almost all its trajectories (Brudno 1978)[^brudno-1978]. This is now known as *Brudno’s theorem* (Alekseev and Yakobson 1981)[^alekseev-1981]. For a contemporary discussion see Towsner (2020)[^towsner-2020]. Third, the *Shannon entropy* is a common measure for the uncertainty of a future outcome: the higher the entropy the more uncertain we are about what is going to happen. One can prove that, given certain plausible assumptions, the KS-entropy is equivalent to a generalised version of the Shannon entropy, and can hence be regarded as a measure for the uncertainty of future events given past events (Frigg 2004)[^frigg-2004].
+In passing we would like to mention another important property of K-systems: one can prove that K-systems have positive *Kolmogorov-Sinai entropy* (KS-entropy); for details see the Appendix, Section C. The KS-entropy itself does not have an intuitive interpretation, but it relates to three other concepts of dynamical systems theory in an interesting way, and these do have intuitive interpretations. First, *Lyapunov exponents* are a measure for how fast two originally nearby trajectories diverge on average, and they are often used in chaos theory to characterise the chaotic nature of the dynamics of a system. Under certain circumstances (essentially, the system has to be differentiable and ergodic) one can prove that a dynamical system has a positive KS-entropy if and only if it has positive Lyapounov exponents (Lichtenberg and Liebermann 1992, 304)[^lichtenberg-1992]. This result is known as *Pessin’s theorem*. Second, the *algorithmic complexity* of a sequence is the length of the shortest computer programme needed to reproduce the sequence. Some sequences are simple; e.g. a string of a million ‘1’ is simple: the programme needed to reproduce it basically is ‘write ‘1’ a million times’, which is very short. Others are complex: there is no pattern in the sequence 5%8£yu@\*mS!}<74^F that one could exploit, and so a programme reproducing that sequence essentially reads ‘write 5%8£yu@\*mS!}<74^F’, which is similar in length to the sequence itself. In the discrete case a trajectory can be represented as a sequence of symbols which corresponds to the states of the system along this trajectory. It is then the case that if a system is a K-system, then its KS-entropy equals the algorithmic complexity of almost all its trajectories (Brudno 1978)[^brudno-1978]. This is now known as *Brudno’s theorem* (Alekseev and Yakobson 1981)[^alekseev-1981]. For a contemporary discussion see Towsner (2020)[^towsner-2020]. Third, the *Shannon entropy* is a common measure for the uncertainty of a future outcome: the higher the entropy the more uncertain we are about what is going to happen. One can prove that, given certain plausible assumptions, the KS-entropy is equivalent to a generalised version of the Shannon entropy, and can hence be regarded as a measure for the uncertainty of future events given past events (Frigg 2004)[^frigg-2004].
 
 Bernoulli systems mark the highest level in EH. To define Bernoulli systems we first have to introduce the notion of a partition of $X$ (sometimes also called the ‘coarse graining of $X$’). A *partition of X* is a division of $X$ into different parts (the so-called ‘atoms of the partition’) so that these parts don’t overlap and jointly cover $X$ (i.e., they are mutually exclusive and jointly exhaustive). For instance, in Figure 1 there is a partition of the phase space that has two atoms (the left and the right part). More formally, $\alpha = \{\alpha_1,\ldots , \alpha_m\}$ is a partition of $X$ (and the $\alpha_i$ its atoms) iff (i) the intersection of any two atoms of the partition is the empty set, and (ii) the union of all atoms is $X$ (up to measure zero). Furthermore, it is important to notice that a partition remains a partition under the dynamics of the system. That is, if *α* is a partition, then $T_n\alpha = \{T_n\alpha_1 ,\ldots ,T_n\alpha_m\}$ is also a partition for all $n$.
 
@@ -169,13 +169,13 @@ In words, for all points $(x, y)$ in the unit square that have an $x$-coordinate
 
 ![Figure 5a](../assets/ergodic-hierarchy/figure5a.jpg)
 
-*Figure 5a:* The Baker’s transformation
+\*Figure 5a:\* The Baker’s transformation
 
 Now regard the two areas shown in the left-hand part of the above figure as the two atoms of a partition $\alpha = \{\alpha_1 ,\alpha_2\}$. It is then easy to see that *α* and T*α* are independent: $\mu(\alpha_1 \cap T\alpha_2) = \mu(\alpha_1)\mu(T\alpha_2)$, and similarly for all other atoms of *α* and $T\alpha$. This is illustrated in Figure 5b.
 
 ![Figure 5b](../assets/ergodic-hierarchy/figure5b.jpg)
 
-*Figure 5b:* The independence of *α* and $T\alpha$.
+\*Figure 5b:\* The independence of *α* and $T\alpha$.
 
 One can prove that independence holds for all other iterates of *α* as well. So the baker’s transformation together with the partition *α* is a Bernoulli transformation.
 
@@ -203,7 +203,7 @@ It is one of the fundamental posits of the Boltzmann approach that macrostates s
 | --- | --- |
 | (6a) | (6b) |
 
-*Figure 6:* The macrostate structure of $X$.
+\*Figure 6:\* The macrostate structure of $X$.
 
 We are now in a position to introduce the Boltzmann entropy. To this end recall that we have a measure $\mu $ on the phase space that assigns to every set a particular volume, hence *a fortiori* also to macrostates. With this in mind, the Boltzmann entropy of a macro-state $M_j$ can be defined as $S_B = k_B\log [\mu(M_j)]$, where $k_B$ is the Boltzmann constant. The important feature of the logarithm is that it is a *monotonic function*: the larger $M_j$, the larger its logarithm. From this it follows that the largest macro-state also has the highest entropy!
 
@@ -235,7 +235,7 @@ The instantaneous state of one system of the ensemble is specified by one point 
 
 ![Figure 7](../assets/ergodic-hierarchy/figure7.jpg)
 
-*Figure 7:* Dart board
+\*Figure 7:\* Dart board
 
 The importance of this is that it allows us to calculate expectation values. Assume that the game is such that you get one Pound if the dart hits the left half and three Pounds if it lands on the right half. What is your expected gain? The answer is 1 ⁄ $2 \times 1$ Pound $+ 1$ ⁄ $2 \times 3$ Pounds $= 2$ Pounds. This is the expectation value. The same idea is at work in SM. Physical magnitudes like, for instance, pressure are associated with functions $f$ on the phase pace. We then calculate the expectation value of these magnitudes, which, in general is given by $\langle f \rangle = \int fd\mu$. In the context of Gibbsian SM these expectation values are also referred to as *phase averages* or *ensemble averages*. They are of central importance because in many contexts they serve as predictions for what is observed in experiments.
 
@@ -291,7 +291,7 @@ for all instants of time $t \gt t_1$ and all subsets $A$ and $B$ of the system�
 
 ![Figure 8](../assets/ergodic-hierarchy/figure8.jpg)
 
-*Figure 8:* Condition (P).
+\*Figure 8:\* Condition (P).
 
 Before briefly introducing the next element of the analysis let us mention that there is a question about whether the association of probabilities with the measure of the system is reasonable. Prima facie, a measure on a phase space can have a purely geometrical interpretation and need not necessarily have anything to do with the quantification of uncertainty. For instance, we can use a measure to determine the length of a table, but this measure need not have anything to do with uncertainty. Whether or not such an association is legitimate depends on the cases at hand and the interpretation of the measure. However, for systems of interest in statistical physics it is natural and indeed standard to assume that the probability of the system’s state to be in a particular subset of the phase space $X$ is proportional to the measure of $A$.
 

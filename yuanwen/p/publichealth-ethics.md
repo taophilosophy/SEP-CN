@@ -274,7 +274,7 @@ Different kinds of interventions raise different issues for assessing questions 
 | Provide Information | educational campaigns; requirements for food labels |
 | Do nothing | ––– |
 
-*Table.* *Intervention Ladder* (Nuffield Council on Bioethics, Policy Process and Practice, 2007)[^nuffield-2007]
+\*Table.\* *Intervention Ladder* (Nuffield Council on Bioethics, Policy Process and Practice, 2007)[^nuffield-2007]
 
 While useful, the Nuffield ladder has at least three problems. First, the ladder does not canvas all of the paradigmatic interventions of public health. Surveillance, for instance, does not fit under any of the types of measures that appear on the ladder. Yet public health agencies engage in surveillance extensively; it is integral to promoting and protecting public health. And surveillance activities, too, raise difficult justificatory questions about citizen’s rights against intrusions by the state (Lee 2019; Taylor 2019; Fairchild and Bayer 2004)[^bayer-2004][^lee-2019][^taylor-2019].
 

@@ -25,13 +25,13 @@ Let’s revisit the classic question of whether all ravens are black. Imagine an
 
 ![a diagram: link to extended description below](../assets/learning-formal/raven-data.jpg)
 
-*Figure 1* [An extended description of figure 1 is in a supplement.]
+\*Figure 1\* [An extended description of figure 1 is in a supplement.]
 
 If the world is such that only black ravens are found, we would like the ornithologist to settle on this generalization. (It may be possible that some nonblack ravens remain forever hidden from sight, but even then the generalization “all ravens are black” at least gets the observations right.) If the world is such that eventually a nonblack raven is found, then we would like the ornithologist to arrive at the conclusion that not all ravens are black. This specifies a set of goals of inquiry. For any given inductive method that might represent the ornithologist’s disposition to adopt conjectures in the light of the evidence, we can ask whether that method measures up to these goals or not. There are infinitely many possible methods to consider; we’ll look at just two, a skeptical one and one that boldly generalizes. The *bold method* conjectures that all ravens are black after seeing that the first raven is black. It hangs on to this conjecture unless some nonblack raven appears. The skeptical method does not go beyond what is entailed by the evidence. So if a nonblack raven is found, the skeptical method concludes that not all ravens are black, but otherwise the method does not make a conjecture one way or another. The figure below illustrates both the bold and the skeptical method.
 
 ![two part diagram: link to extended description below](../assets/learning-formal/ravens.jpg)
 
-*Figure 2* [An extended description of figure 2 is in a supplement.]
+\*Figure 2\* [An extended description of figure 2 is in a supplement.]
 
 Do these methods attain the goals we set out? Consider the bold method. There are two possibilities: either all observed ravens are black, or some nonblack raven is found. In the first case, the method conjectures that all ravens are black and *never abandons this conjecture*. In the second case, the method concludes that not all ravens are black as soon as the first nonblack raven is found. Hence *no matter how* the evidence comes in, eventually the method gives the right answer as to whether all ravens are black and *sticks* with this answer. Learning theorists call such methods *reliable* because they settle on the right answer no matter what observations the world provides.
 
@@ -53,13 +53,13 @@ Clearly we have a family of grue predicates in this problem, one for each differ
 
 ![natural projection rule: link to extended description below](../assets/learning-formal/natural.jpg)
 
-*Figure 3* [An extended description of figure 3 is in a supplement.]
+\*Figure 3\* [An extended description of figure 3 is in a supplement.]
 
 The following figure shows the gruesome projection rule.
 
 ![gruesome projection rule: link to extended description below](../assets/learning-formal/gruesome.jpg)
 
-*Figure 4* [An extended description of figure 4 is in a supplement.]
+\*Figure 4\* [An extended description of figure 4 is in a supplement.]
 
 How do these rules measure up to the goal of arriving at a true generalization? Suppose for the sake of the example that the only serious possibilities under consideration are: (1) Either all emeralds are green or (2) all emeralds are grue$(t)$ for some critical time $t$. Then the natural projection rule settles on the correct generalization no matter what the correct generalization is. For if all emeralds are green, the natural projection rule asserts this fact from the beginning. And suppose that all emeralds are grue$(t)$ for some critical time $t$. Then at time $t$, a blue emerald will be observed. At this point the natural projection rule settles on the conjecture that all emeralds are grue$(t)$, which must be correct given our assumption about the possible observation sequences. Thus no matter what evidence is obtained in the course of inquiry—consistent with our background assumptions—the natural projection rule eventually settles on a correct generalization about the colour of emeralds.
 
@@ -157,7 +157,7 @@ Note that since logical entailment does not depend on the language we use to fra
 
 ![same as figure 1: link to extended description below](../assets/learning-formal/raven-data.jpg)
 
-*Figure 1* [An extended description of figure 1 is in a supplement.]
+\*Figure 1\* [An extended description of figure 1 is in a supplement.]
 
 The observation that the first raven is black is consistent with both hypotheses $H_1 =$ “all (observed) ravens are black” and $H_2 =$ “some (observed) raven is not black”. The observation that the first raven, or any raven, is white falsifies the hypothesis $H_1$ and entails the hypothesis $H_2$. The entailment is illustrated by the gray fan structure, which means that after the observation of any white raven, the hypothesis $H_1$ is correct for any extending complete data sequence that records the color of all further observed ravens.
 
@@ -179,7 +179,7 @@ The example of the gruesome hypotheses shows that an empirical hypothesis can be
 
 ![same as figure 4: link to extended description below](../assets/learning-formal/gruesome.jpg)
 
-*Figure 4* [An extended description of figure 4 is in a supplement.]
+\*Figure 4\* [An extended description of figure 4 is in a supplement.]
 
 We will briefly discuss similarities and differences to related concepts from epistemology and the philosophy of science.
 
@@ -219,7 +219,7 @@ and similarly for “all but finitely many swans are black”. Each of the claim
 
 ![two part diagram: link to extended description below](../assets/learning-formal/swans.jpg)
 
-*Figure 5* [An extended description of figure 5 is in a supplement.]
+\*Figure 5\* [An extended description of figure 5 is in a supplement.]
 
 The characterization theorem implies that we can think of a reliable method as adopting internal *strengthened* versions of the original hypotheses under investigation that are refutable. As the example above shows, the theorem does not imply that the strengthened hypotheses are mutually exclusive (e.g.“at most 3 swans are black” is consistent with “at most 2 swans are black”.). A recent alternative characterization theorem due to Baltag, Gierasimczuk, and Smets [2015] provides an alternative structural analysis where identifiable hypotheses are decomposed into *mutually exclusive components*, as follows.
 
@@ -231,7 +231,7 @@ Since the verirefutable hypotheses are mutually exclusive, they constitute a val
 
 ![two part diagram: link to extended description below](../assets/learning-formal/swans2.jpg)
 
-*Figure 6* [An extended description of figure 6 is in a supplement.]
+\*Figure 6\* [An extended description of figure 6 is in a supplement.]
 
 A few points will help explain the significance of characterization theorems.
 
@@ -251,7 +251,7 @@ The New Riddle of Induction turns out to be a nice illustration of this idea. Co
 
 ![rule example: link to extended description below](../assets/learning-formal/unnatural.jpg)
 
-*Figure 7* [An extended description of figure 7 is in a supplement.]
+\*Figure 7\* [An extended description of figure 7 is in a supplement.]
 
 ### 4.2 More Examples
 
@@ -396,7 +396,7 @@ In nonstatistical learning, we required a reliable method to eventually settle o
 
 ![](../assets/learning-formal/convergence-chance.jpeg)
 
-*Figure 8* [An extended description of figure 8 is in a supplement.]
+\*Figure 8\* [An extended description of figure 8 is in a supplement.]
 
 The notion of limiting identification in chance is similar to the concept of limiting convergence to a probability estimate in Reichenbach’s pragmatic vindication. Translated to our example, Reichenbach considered inductive rules that output an estimate of the true bias value $p,$ and required that such a rule converges to the true value, in the sense that for every every bias value $p$, and for every threshold $0\lt t \lt 1$, there is a sample size $n$ such that for all larger sample sizes, with probability 1 the rule outputs an estimate that differs from the true value $p$ by at most $t$. In statistics, a method is called *consistent* if with increasing sample size, the method’s chance of conjecturing a correct answer converges to 100% (see the link in the Other Internet Resources section below). The terminology is unfortunate in that it suggests to philosophical readers a connection with the consistency of a formal proof system. In fact, the statistical concept of consistency has nothing to do with deductive logic; rather, it is a probabilistic analogue of the notion of identification in the limit of inquiry that is the main subject of this entry.
 

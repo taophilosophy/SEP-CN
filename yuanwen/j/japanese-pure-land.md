@@ -340,7 +340,7 @@ Buddha | Japanese Philosophy | Japanese Philosophy: Kūkai | Japanese Philosophy
 
 [^gordon-1893]: –––, 1893. *An American Missionary in Japan*, Boston: Houghton, Mifflin.
 
-[^heisig-2011]: Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011. “The Pure Land Tradition,” in *Japanese Philosophy: A Sourcebook*,$$ Honolulu: University of Hawai‘i Press, 235–85.
+[^heisig-2011]: Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011. “The Pure Land Tradition,” in *Japanese Philosophy: A Sourcebook*,\$\$ Honolulu: University of Hawai‘i Press, 235–85.
 
 [^hirota-1993]: Hirota, Dennis, 1993. “Shinran’s View of Language: A Buddhist Hermeneutics of Faith,” Eastern Buddhist, 26(1): 50–93 and 26(2): 91–130.
 

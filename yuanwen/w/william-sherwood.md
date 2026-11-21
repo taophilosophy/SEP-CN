@@ -89,10 +89,10 @@ That is, in the first figure, the middle term is first the subject and then the 
 
 > The moods and their reductions, on the other hand, are retained in these verses:
 >
-> > *Barbara celarent darii ferio baralipton
+> > Barbara celarent darii ferio baralipton
 > > Celantes dabitis fapesmo frisesomorum
 > > Cesare camestres festino baroco
-> > Darapti felapton disamis datisi bocardo ferison* (Kretzmann 1968, p. 66)[^kretzmann-1968]
+> > Darapti felapton disamis datisi bocardo ferison (Kretzmann 1968, p. 66)[^kretzmann-1968]
 
 Kretzmann notes that this is “the oldest known surviving version of these famous mnemonic verses, and Sherwood may have been the inventor of them … However, there were earlier attempts at the same sort of device in the thirteenth century, and the word ‘Festino’ appears ‘in a MS dating at the latest from 1200′” (Kretzmann 1968, pp. 66–67, quoting Bochenski)[^kretzmann-1968], and similar verses also occur in the 12th-century *Logica Ut Dicit* and the *Logic ‘cum sit nostra’* (Bacon 2009, p. 146)[^bacon-2009], both of which texts influenced Sherwood (Brumberg-Chaumont 2013, p. 184)[^brumberg-chaumont-2013]. Later, in the same footnote, Kretzmann compares Sherwood’s verses to those in Peter of Spain and concludes that the differences between the two “strongly suggest at least one earlier version on which both men were drawing” (Kretzmann 1968, p. 67)[^kretzmann-1968]. The verse is in dactylic hexameter, a classical style found in Homer (in Greek) and Ovid and Virgil (in Latin), suggesting “that the anonymous creator of the mnemonic was schooled in poetry over and above, as we will see, being masterful in his knowledge of Aristotle and imaginative in logic” (Corcoran, et al., 2018, p. 13)[^corcoran-2018].
 

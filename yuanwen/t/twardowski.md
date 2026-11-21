@@ -140,7 +140,7 @@ One could object that the true sentence ‘it is raining here and now’ is rela
 
 when uttered in Lvov, on 1 March 1900, in accordance with the Gregorian calendar, at noon, Central European Time, on the High Castle Hill. That sentence expresses the same judgment as
 
-> (i*) On 1 March 1900, in accordance with the Gregorian calendar, at noon, Central European Time, it is raining in Lvov, on the High Castle Hill and in its vicinity.
+> (i\*) On 1 March 1900, in accordance with the Gregorian calendar, at noon, Central European Time, it is raining in Lvov, on the High Castle Hill and in its vicinity.
 
 According to Twardowski, the difference between the two sentences is only in their brevity and their practical use. Take now the sentence
 
@@ -148,11 +148,11 @@ According to Twardowski, the difference between the two sentences is only in the
 
 when uttered in Krakow on 2 March 1900, in accordance with the Gregorian calendar, at noon, Central European Time, on the Castle Hill. That sentence expresses the same judgment as
 
-> (ii*) On 2 March 1900, in accordance with the Gregorian calendar, at noon, Central European Time, it is raining in Krakow, on the Castle Hill and in its vicinity.
+> (ii\*) On 2 March 1900, in accordance with the Gregorian calendar, at noon, Central European Time, it is raining in Krakow, on the Castle Hill and in its vicinity.
 
-It's not that we have in (i) and (ii) one and the same judgment; we have *the same sentence*, which expresses two *different judgments*, (i*) and (ii*). Therefore, one cannot argue that the *same judgment* can turn from true to false.
+It's not that we have in (i) and (ii) one and the same judgment; we have *the same sentence*, which expresses two *different judgments*, (i\*) and (ii\*). Therefore, one cannot argue that the *same judgment* can turn from true to false.
 
-> It is apparent that [the judgment expressed by (i) and (i*)], which [...] asserts that it is raining, is true not only at a particular time and place, but is always true. (Twardowski 1900, 153)
+> It is apparent that [the judgment expressed by (i) and (i\*)], which [...] asserts that it is raining, is true not only at a particular time and place, but is always true. (Twardowski 1900, 153)
 >
 > [...] Only sentences can be said to be relatively true; yet the truth of a sentence depends on the truth of the judgment expressed by that sentence; usually a given sentence can express various judgments, some true, some false, and it is thus relatively true because it expresses a true judgment only under certain conditions, i.e. if we consider it as an expression of a judgment which is true (Twardowski 1900, 169).
 

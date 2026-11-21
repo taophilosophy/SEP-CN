@@ -59,7 +59,7 @@ In his later writings, Avicenna is less solicitous in explaining away what he re
 
 Avicenna's Intuition not only set aside important parts of Aristotle's logic, it also differed from Alfarabi's interpretation of that logic. Avicenna has, however, more consistently courteous ways of declining to follow Alfarabi. He refers to Alfarabi as the “eminent later scholar to whom we are most concerned to direct our remarks” as he constructs his different system (see Street 2001)[^street-2001].
 
-For a general overview of Avicenna's logic, there is now an English translation of the logic of Avicenna's *Salvation* (see Avicenna 2011a)[^avicenna-2011a]. But of all his many works,[^note-12] it is Avicenna's *Pointers and Reminders* that had most impact on subsequent generations of logicians. It became, as Ibn Taymiyya declared, the Koran of the philosophers (Michot 2000: 599)[^michot-2000]. From it we may note a few broad but typical differences from the *Prior Analytics* in the syllogistic. First, the “absolute” (*mutlaqa*, often translated “assertoric”) propositions have truth-conditions stipulated such that they are temporally modalised (by an elided “at least once”, so that, for example, the contradictory of an absolute is not an absolute, absolute e-propositions do not convert, second-figure syllogisms with absolute premises are sterile; see also 2.3.1 below). Secondly, Avicenna begins to explore the logical properties of propositions of the form every *J* is *B* while J. Thirdly, Avicenna divides syllogistic into connective (*iqtirânî*) and repetitive (*istithnâ‘î*) forms, a division which replaces the old one into categorical and hypothetical (Avicenna *al-Ishârât* [1971] 309, 314, 374).
+For a general overview of Avicenna's logic, there is now an English translation of the logic of Avicenna's *Salvation* (see Avicenna 2011a)[^avicenna-2011a]. But of all his many works,[^note-12] it is Avicenna's *Pointers and Reminders* that had most impact on subsequent generations of logicians. It became, as Ibn Taymiyya declared, the Koran of the philosophers (Michot 2000: 599)[^michot-2000]. From it we may note a few broad but typical differences from the *Prior Analytics* in the syllogistic. First, the “absolute” (*mutlaqa*, often translated “assertoric”) propositions have truth-conditions stipulated such that they are temporally modalised (by an elided “at least once”, so that, for example, the contradictory of an absolute is not an absolute, absolute e-propositions do not convert, second-figure syllogisms with absolute premises are sterile; see also 2.3.1 below). Secondly, Avicenna begins to explore the logical properties of propositions of the form *every J is B while J*. Thirdly, Avicenna divides syllogistic into connective (*iqtirânî*) and repetitive (*istithnâ‘î*) forms, a division which replaces the old one into categorical and hypothetical (Avicenna *al-Ishârât* [1971] 309, 314, 374).
 
 According to what we have verified ourselves, the syllogism forms two divisions, connective and repetitive. The connective is that in which one of the two sides of the contradiction in which we find the conclusion does not appear [in the premises] explicitly, but only potentially… The repetitive is that in which [the conclusion or its contradictory] does explicitly appear. (Avicenna *al-Ishârât* [1971] 374)
 
@@ -217,7 +217,7 @@ Avicenna's doctrine on the subject matter of logic was not adopted by the majori
 
 To understand the background to Khûnajî's claim, it is necessary to bear two points in mind. The first is Avicenna's doctrine concerning the states of knowledge that logic aims at producing: conception and assent.[^note-24] The second is what is means for something to be a subject of an Aristotelian science.
 
-> Text 8. […] A thing is knowable in two ways: one of them is for the thing to be merely conceived (*yutasawwara*) so that when the name of the thing is uttered, its meaning becomes present in the mind without there being truth or falsity, as when someone says “man” or “do this!” For when you understand the meaning of what has been said to you, you will have conceived it. The second is for the conception to be [accompanied] with assent, so that if someone says to you, for example, “every whiteness is an accident,” you do not only have a conception of the meaning of this statement, but [also] assent to it being so. If, however, you doubt whether it is so or not, then you have conceived what is said, for you cannot doubt what you do not conceive or understand… but what you have gained through conception in this [latter] case is that the form of this composition and what it is composed of, such as “whiteness” and “accident,” have been produced in the mind. Assent, however, occurs when there takes place in the mind a relating of this form to the things themselves as being in accordance with them; denial is the opposite of that.[^note-25]
+> **Text 8**. […] A thing is knowable in two ways: one of them is for the thing to be merely conceived (*yutasawwara*) so that when the name of the thing is uttered, its meaning becomes present in the mind without there being truth or falsity, as when someone says “man” or “do this!” For when you understand the meaning of what has been said to you, you will have conceived it. The second is for the conception to be [accompanied] with assent, so that if someone says to you, for example, “every whiteness is an accident,” you do not only have a conception of the meaning of this statement, but [also] assent to it being so. If, however, you doubt whether it is so or not, then you have conceived what is said, for you cannot doubt what you do not conceive or understand… but what you have gained through conception in this [latter] case is that the form of this composition and what it is composed of, such as “whiteness” and “accident,” have been produced in the mind. Assent, however, occurs when there takes place in the mind a relating of this form to the things themselves as being in accordance with them; denial is the opposite of that.[^note-25]
 
 Note that an assent is not merely the production of a proposition by tying a subject and predicate together; “Assent, however, occurs when there takes place in the mind a relating of this form to the things themselves as being in accordance with them.” All knowledge, according to Avicenna, is either conception or assent. Conception is produced by definition, assent by proof. All Avicennan treatises on logic are structured in accordance with this doctrine: a first section deals with definition, which conduces to conception, a second with proof, which conduces to assent.
 
@@ -317,7 +317,7 @@ Avicenna takes a proposition under condition [1]—later termed, for obvious rea
 
 Avicenna stipulated for the subject term of all his propositions, whether explicitly modalized or not:
 
-> **Text 17**. Know that when we say *every J is B*, we do not mean the totality (*kulliyya*) of *J* is the totality of *B*. Rather, we mean that every single thing described as *J*, be it in mental supposition or extramental existence, be it described as *J* always, or sometimes, or whatever; that thing is described as *B* without further adding that it is so described at such and such a time (*waqt*), or in such and such circumstances (*hâl*), or perpetually. All of these [modalizations would make for a proposition] stronger than one being described as absolute (*mutlaq*). So this is what is understood from every *J* is B, with no addition of modal operators attached. On this understanding it is called a general absolute… (Avicenna *Ishârât* [1971] 280 & 282).
+> **Text 17**. Know that when we say *every J is B*, we do not mean the totality (*kulliyya*) of *J* is the totality of *B*. Rather, we mean that every single thing described as *J*, be it in mental supposition or extramental existence, be it described as *J* always, or sometimes, or whatever; that thing is described as *B* without further adding that it is so described at such and such a time (*waqt*), or in such and such circumstances (*hâl*), or perpetually. All of these [modalizations would make for a proposition] stronger than one being described as absolute (*mutlaq*). So this is what is understood from *every J is B*, with no addition of modal operators attached. On this understanding it is called a general absolute… (Avicenna *Ishârât* [1971] 280 & 282).
 
 The phrase “be it in mental supposition” might be taken to mean that the subject term is ampliated to the possible, so that “every *J* is *B*” is to be taken as “every possible *J* is *B*.” This is how Fakhraddiin al-Râzî understood Avicenna (and two recent models for Avicenna's syllogistic ampliate the subject term; Thom 2003, 2008b)[^thom-2003][^thom-2008b].
 
@@ -369,7 +369,7 @@ That at least is how Khûnajî understood Râzî's solution; he took it to amoun
 
 Having rejected Râzî's understanding of the essentialist reading, Khûnajî deployed his own modified essentialist reading to come to different inferences. Take absolute e-conversion, which Avicenna and Râzî agreed fails (according to Râzî, it fails on either externalist or essentialist reading). Khûnajî agreed that it fails on the externalist reading (which he took in the same way Râzî did). Taken in Khûnajî's essentialist reading, however, “no *J* is always *B*” converts as a perpetuity o-proposition, “some *B* is never *J*.” To show this is so, Khûnajî had to offer a proof for the conversion, then resist counter-examples to it. I skip the proof, and go straight to how Khûnajî dealt with the counter-examples.
 
-> Text 23. They argue conversion fails for these propositions because it is true, “no moon is eclipsed”…and “no animal is breathing”… yet [130] their converses are not true, namely, “some eclipsed is not a moon”, and “some breathing is not animal”…
+> **Text 23**. They argue conversion fails for these propositions because it is true, “no moon is eclipsed”…and “no animal is breathing”… yet [130] their converses are not true, namely, “some eclipsed is not a moon”, and “some breathing is not animal”…
 >
 > The answer to this is that we reject that “some eclipsed is not a moon” and similar statements are false if the subject is taken according to the essentialist reading. This is because, in this case, its meaning is some of what would be eclipsed, were it to come to exist, would not be a moon, insofar as it had come to exist. [The claim this is false] is to be rejected; the most that can be said in this matter is that every eclipsed that has come to exist is a moon, but from this is does not follow that it is true that everything that is eclipsed, were it to come to exist, would be a moon insofar as it comes to exist. This is because [the proposition with an essentialist subject] deals with actual, possible and impossible items [that come under the subject term]. Were we to stipulate the possibility [of these items] along with [the other stipulations], their status would be that of externally existent things. So the eclipsed-which-is-not-a-moon, even though it is impossible, is among those individuals which would be eclipsed, were they to come to exist, even though it is not necessary that any would be a moon if they came to exist.
 >
@@ -377,19 +377,19 @@ Having rejected Râzî's understanding of the essentialist reading, Khûnajî de
 
 What this means for the counter-example considered before, “no man is always laughing”, is that it converts on this account to “some laughing is not ever a man.” This is because we may, under Khûnajî's essentialist reading, posit the impossible “laughing-which-is-not-a-man.” With this modified essentialist reading, Khûnajî ended up with the following conversions:
 
-> (1*)
+> (1\*)
 >
 > “Every *J* is at least once *B*” converts as “some *B* is necessarily *J*” (Khûnajî *Kashf* [2010] 143);
 >
-> (2*)
+> (2\*)
 >
 > “No *J* is possibly *B*” converts as “no *B* is ever *J*” (Khûnajî *Kashf* [2010] 135);
 >
-> (3*)
+> (3\*)
 >
 > “Every *J* is necessarily *B*” converts as “some *B* is necessarily *J*” (Khûnajî *Kashf* [2010] 143);
 >
-> (4*)
+> (4\*)
 >
 > “Every *J* is possibly *B*” has no provable converse (Khûnajî *Kashf* [2010] 144).
 
@@ -401,13 +401,13 @@ Kâtibî further modified Khûnajî's reading to limit propositions with essenti
 
 > | (1) | “Every *J* is at least once *B*” converts as “some *B* is at least once *J*”; |
 > | --- | --- |
-> | (2*) | “No *J* is possibly *B*” converts as “no *B* is ever *J*”; |
-> | (3**) | “Every *J* is necessarily *B*” converts as “some *B* is at least once *J* while *B*”; |
-> | (4*) | “Every *J* is possibly *B*” has no provable converse. |
+> | (2\*) | “No *J* is possibly *B*” converts as “no *B* is ever *J*”; |
+> | (3\*\*) | “Every *J* is necessarily *B*” converts as “some *B* is at least once *J* while *B*”; |
+> | (4\*) | “Every *J* is possibly *B*” has no provable converse. |
 
 Tahtânî, writing in the early fourteenth century, looked back over the efforts of his thirteenth-century predecessors and summed up the nature of their inquiries. If his account is correct, the thirteenth-century logicians limited their investigations to scientifically useful propositions, acknowledging at the same time that there are many other propositions with different truth-conditions they could be investigating.
 
-> Text 24. It is not to be leveled as a criticism that, because the craft should have general rules, there are propositions that cannot be taken under either of these two considerations (namely, those whose subjects are impossible, as in “the co-creator is impossible”, and “every impossible is non-existent”). Because we say: No one claims to limit all propositions to the essentialist and the externalist. They do however claim that propositions used in the sciences are used for the most part under one of these two considerations, so they therefore set these readings down and extract their qualifications so they may thereby benefit in the sciences. The qualifications of the propositions that cannot be taken under either of these two considerations are not yet known; the generalization of rules is only to the extent of human capacity. (Tahtânî 1948: *Tahrîr* 95.pu–96.11)
+> **Text 24**. It is not to be leveled as a criticism that, because the craft should have general rules, there are propositions that cannot be taken under either of these two considerations (namely, those whose subjects are impossible, as in “the co-creator is impossible”, and “every impossible is non-existent”). Because we say: No one claims to limit all propositions to the essentialist and the externalist. They do however claim that propositions used in the sciences are used for the most part under one of these two considerations, so they therefore set these readings down and extract their qualifications so they may thereby benefit in the sciences. The qualifications of the propositions that cannot be taken under either of these two considerations are not yet known; the generalization of rules is only to the extent of human capacity. (Tahtânî 1948: *Tahrîr* 95.pu–96.11)
 
 ## References（引用注释）
 

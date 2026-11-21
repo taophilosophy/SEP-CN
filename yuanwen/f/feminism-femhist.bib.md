@@ -2316,12 +2316,12 @@ The 2021 revision includes a chronological reordering of the philosophers includ
 
 *Letters*
 
-- ***Letter from Mary Shepherd to Charles Babbage. British Library, *Babbage Correspondence*, MSS 37183, f. 204, 18 November 1825.
-- ***Letter from Mary Shepherd to Charles Babbage. British Library. *Babbage Correspondence*, MSS 37201, 1832.
-- ***Letter from Mary Shepherd to William Whewell. Trinity College, Cambridge. *Papers of William Whewell (1794–1866) Master of Trinity College, Cambridge*, Add. MS.a.21266, 1837.
-- ***Letter from Mary Shepherd to William Whewell. Trinity College, Cambridge. *Papers of William Whewell (1794–1866) Master of Trinity College, Cambridge*, Add. MS.a.21266, 1838.
-- ***Letter from Mary Shepherd to William Whewell. Trinity College, Cambridge. *Papers of William Whewell (1794–1866) Master of Trinity College, Cambridge*, Add.MS.a.21266, 1840.
-- ***Letter from Shepherd to Whewell. Master and Fellows of Trinity College, Cambridge, Add.MS.a.212/66-68, n.d.
+- \*\*\*Letter from Mary Shepherd to Charles Babbage. British Library, *Babbage Correspondence*, MSS 37183, f. 204, 18 November 1825.
+- \*\*\*Letter from Mary Shepherd to Charles Babbage. British Library. *Babbage Correspondence*, MSS 37201, 1832.
+- \*\*\*Letter from Mary Shepherd to William Whewell. Trinity College, Cambridge. *Papers of William Whewell (1794–1866) Master of Trinity College, Cambridge*, Add. MS.a.21266, 1837.
+- \*\*\*Letter from Mary Shepherd to William Whewell. Trinity College, Cambridge. *Papers of William Whewell (1794–1866) Master of Trinity College, Cambridge*, Add. MS.a.21266, 1838.
+- \*\*\*Letter from Mary Shepherd to William Whewell. Trinity College, Cambridge. *Papers of William Whewell (1794–1866) Master of Trinity College, Cambridge*, Add.MS.a.21266, 1840.
+- \*\*\*Letter from Shepherd to Whewell. Master and Fellows of Trinity College, Cambridge, Add.MS.a.212/66-68, n.d.
 
 #### Karoline von Günderrode (1780–1806)
 

@@ -46,17 +46,17 @@ Having said this, these objections to Schnorr randomness open the door to simila
 
 The basic idea is the familiar one that random sequences are *typical*, in the sense of most expected (§2.1). This notion of typicality is connected to a mathematically important style of quantification, where a given result is said to hold for *almost all* members of a given domain. For example, consider this theorem:
 
-> Theorem 9 (Lebesgue, via Jordan). Every real-valued function of bounded variation is differentiable *almost everywhere*. (Brattka, Miller, and Nies 2011: §1.1)
+> **Theorem 9** (Lebesgue, via Jordan). Every real-valued function of bounded variation is differentiable *almost everywhere*. (Brattka, Miller, and Nies 2011: §1.1)
 
 This theorem applies to arbitrary functions. If we restrict our attention to *computable* functions, we can obtain this result:
 
-> Theorem 10 (Demuth; Bratka, Miller, and Nies 2011: § 3.2). Every computable real-valued function of bounded variation is differentiable at exactly those reals which are ML-random.
+> **Theorem 10** (Demuth; Bratka, Miller, and Nies 2011: § 3.2). Every computable real-valued function of bounded variation is differentiable at exactly those reals which are ML-random.
 
 So, for computable functions, the Martin-Löf random reals (those represented by a ML-random sequence) provide a precise measure one set that corresponds to the ‘almost everywhere’ of the non-effective Theorem 9. The ML-random reals are exactly those which are typical with respect to this property of computable functions.
 
 The interesting thing is that other ‘almost everywhere’ results of classical analysis *do not* end up holding at only the ML-random reals when we move to computable functions. For example:
 
-> Theorem 11 (Rute 2011; Pathak 2009; Pathak, Rojas, and Simpson). Every variation computable absolutely continuous function is differentiable at exactly those reals which are Schnorr random.
+> **Theorem 11** (Rute 2011; Pathak 2009; Pathak, Rojas, and Simpson). Every variation computable absolutely continuous function is differentiable at exactly those reals which are Schnorr random.
 
 Thus another almost everywhere property of classical analysis, when effectivised, holds at just the Schnorr reals. In general, it is possible to characterise randomness notions (such as ML-randomness, Schnorr randomness, computable randomness, etc.) in terms of the differentiability of some appropriate class of computable functions (the ‘main thesis’ of Nies 2011). Although the different notions of randomness end up corresponding to the differentiability of slightly different classes of appropriate computable functions, in a sense there is a common core notion of typicality in play here. But unlike the case of Church’s thesis, the existence of many overlapping but distinct precisifications of ‘typical with respect to differentiability of (some sort of) computable function’ seems to undermine the idea that there is any one precisification that perfectly deserves the name. On the other hand, the thesis that randomness is intimately linked to typical differentiability is not one that has much intuitive support in the first place, and a kind of pluralism with respect to the different realisers of this description may not appeal. The more direct considerations for ML-randomness, and against Schnorr randomness, in particular that ML-random sequences are strictly a subset of the Schnorr random sequences, might justify us in continuing to give some support to the Martin-Löf-Chaitin Thesis.
 

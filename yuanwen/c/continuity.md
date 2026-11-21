@@ -325,9 +325,9 @@ From the saturation property it follows that $^*\fU$ satisfies the important
 
 The transfer principle may be seen as a version of Leibniz’s continuity principle: it asserts that all first-order properties are preserved in the passage to or “transfer” from the standard to the nonstandard universe.
 
-The members of $U$ are called *standard sets*, or *standard objects*; those in $^*U - U$ *nonstandard sets* or *nonstandard objects*: $^*U$ thus consists of both standard and nonstandard objects. The members of $^*U$ will also be referred to as *-*sets* or *-*objects* Since $U \subseteq ^*U$, under this convention every set (object) is also a *-set (object) The $^*$-*members* of a *-set $A$ are the *-objects $x$ for which $x \mathbin{^*{\in}} A$.
+The members of $U$ are called *standard sets*, or *standard objects*; those in $^*U - U$ *nonstandard sets* or *nonstandard objects*: $^*U$ thus consists of both standard and nonstandard objects. The members of $^*U$ will also be referred to as \*-*sets* or \*-*objects* Since $U \subseteq ^*U$, under this convention every set (object) is also a \*-set (object) The $^*$-*members* of a \*-set $A$ are the \*-objects $x$ for which $x \mathbin{^*{\in}} A$.
 
-If $A$ is a standard set, we may consider the collection $\hat{A}$—the *inflate* of $A$—consisting of all the *-members of $A$: this is not necessarily a set nor even a *-set. The inflate $\hat{A}$ of a standard set $A$ may be regarded as the same set $A$ viewed from a nonstandard vantage point. While clearly $A \subseteq \hat{A}$, $\hat{A}$ may contain “nonstandard” elements not in $A$. It can in fact be shown that *infinite* standard sets always get “inflated” in this way. Using the transfer principle, any function $f$ between standard sets automatically extends to a function—also written $f$—between their inflates.
+If $A$ is a standard set, we may consider the collection $\hat{A}$—the *inflate* of $A$—consisting of all the \*-members of $A$: this is not necessarily a set nor even a \*-set. The inflate $\hat{A}$ of a standard set $A$ may be regarded as the same set $A$ viewed from a nonstandard vantage point. While clearly $A \subseteq \hat{A}$, $\hat{A}$ may contain “nonstandard” elements not in $A$. It can in fact be shown that *infinite* standard sets always get “inflated” in this way. Using the transfer principle, any function $f$ between standard sets automatically extends to a function—also written $f$—between their inflates.
 
 If $\fA = (A, R)$ is a mathematical structure, we may consider the structure $\hat{\fA} = (\hat{A},\hat{R})$. From the transfer principle it follows that $\fA$ and $\hat{\fA}$ have precisely the same first-order properties.
 
@@ -536,15 +536,15 @@ We observe that the postulates of smooth infinitesimal analysis are *incompatibl
 
 Here now is the rigorous argument. We show that the failure of the law of excluded middle can be derived from the principle of infinitesimal cancellation. To begin with, if $x \ne 0$, then $x^2 \ne 0$, so that, if $x^2 = 0$, then necessarily not $x \ne 0$. This means that
 
-(*)
+(\*)
 
-*for all infinitesimal *ε*, not $\varepsilon \ne 0$.*
+*for all infinitesimal ε, not $\varepsilon \ne 0$.*
 
-Now suppose that the law of excluded middle were to hold. Then we would have, for any *ε*, either $\varepsilon = 0$ or $\varepsilon \ne 0$. But (*) allows us to eliminate the second alternative, and we infer that, for all *ε*, $\varepsilon = 0$. This may be written
+Now suppose that the law of excluded middle were to hold. Then we would have, for any *ε*, either $\varepsilon = 0$ or $\varepsilon \ne 0$. But (\*) allows us to eliminate the second alternative, and we infer that, for all *ε*, $\varepsilon = 0$. This may be written
 
 
 
-*for all *ε*, $\varepsilon \cdot 1 = \varepsilon \cdot 0$,*
+*for all ε, $\varepsilon \cdot 1 = \varepsilon \cdot 0$,*
 
 from which we derive by microcancellation the falsehood $1 = 0$. So again the law of excluded middle must fail.
 
@@ -704,7 +704,7 @@ For a comprehensive account of the evolution of the concepts of continuity and t
 
 > involves and was, in part, inspired by the so-called Non-standard models of Arithmetic whose existence was first pointed out by T. Skolem. (1966: vii [1996: xiii])
 
-[^note-42]: It follows that $\hat{\Re}$ is a nonarchimedean ordered field. One might question whether this is compatible with the facts that $\hat{\Re}$ and $\Re$ share the same first-order properties, but the latter is archimedean. These data are consistent because the archimedean property is not first-order. However, while $\hat{\Re}$ is nonarchimedean, it is *-*archimedean* in the sense that, for any $a \in \hat{\Re}$ there is $n \in \hat{\bbN}$ for which $a \lt n$.
+[^note-42]: It follows that $\hat{\Re}$ is a nonarchimedean ordered field. One might question whether this is compatible with the facts that $\hat{\Re}$ and $\Re$ share the same first-order properties, but the latter is archimedean. These data are consistent because the archimedean property is not first-order. However, while $\hat{\Re}$ is nonarchimedean, it is \*-*archimedean* in the sense that, for any $a \in \hat{\Re}$ there is $n \in \hat{\bbN}$ for which $a \lt n$.
 
 [^note-43]: Robinson (1966 [1996: Ch. 3]). A number of “nonstandard” proofs of classical theorems may also be found there.
 

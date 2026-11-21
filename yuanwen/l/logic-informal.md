@@ -81,7 +81,7 @@ A comprehensive series of essays that introduce to the issues that matter to inf
 
 ## 2. Systems of IL
 
-As Hansen (2012)[^hansen-2012] emphasizes, there are many different tools and methods informal logicians use to analyze and assess instances of argument. It would be a mistake to write as though there was *one* informal logic. As a field, IL is characterized by a shared goal (a logic of everyday argument) that is pursued in many different ways by commentators who propose and apply different systems of informal logic. In view of this, there are many different informal logic**s** (as there are many different formal logics).
+As Hansen (2012)[^hansen-2012] emphasizes, there are many different tools and methods informal logicians use to analyze and assess instances of argument. It would be a mistake to write as though there was *one* informal logic. As a field, IL is characterized by a shared goal (a logic of everyday argument) that is pursued in many different ways by commentators who propose and apply different systems of informal logic. In view of this, there are many different informal logic***s*** (as there are many different formal logics).
 
 I will take an informal logic *system* to be a collection of principles and methods designed to serve the (epistemic) assessment of real-life arguments. Considered from this point of view, informal logic is a field devoted to the creation, study and application of systems of informal logic.
 
@@ -135,7 +135,7 @@ In most cases, they have verbal as well as visual elements and are, in view of t
 
 ![nasa rover](../assets/logic-informal/mars2.jpg)
 
-*EXAMPLE 3*
+\*EXAMPLE 3\*
 
 We can summarize the argument as follows.
 
@@ -161,7 +161,7 @@ The cartoon of Napoleon III below (EXAMPLE 4) appeared in *Punch* on Feb. 19, 18
 
 ![Political cartoon of a porcupine with the face, hands, and boots of a man. The porcupine/man is saying, ‘L’Empire c’est la paix’. The caption reads, ‘The French Porcupine: He may be an Inoffensive Animal, but he Don't Look like it’.](../assets/logic-informal/FrenchPorcupineSE.jpg)
 
-*EXAMPLE 4*
+\*EXAMPLE 4\*
 
 This is a clever caricature, something more than a simple caricature, for the cartoonist uses a drawing of Napoleon-as-porcupine to convey a *reason* to doubt his profession of peace. We might summarize the point as the suggestion that Napoleon’s actions– his amassing of the armaments which encircle him like quills on a porcupine–are not the actions of someone committed to peace. The picture invites the viewer to respond to him as one would respond to an actual porcupine–with caution, concern and suspicion, wary of what he might do with his weapons (even though he has an “inoffensive” posture and professes peace).
 
@@ -303,7 +303,7 @@ As in the case of verbal arguments, implicit premises and conclusions play a rol
 
 ![vodka print ad](../assets/logic-informal/vodka.jpg)
 
-*EXAMPLE 9*
+\*EXAMPLE 9\*
 
 The image in the advertisement is an obvious visual metaphor which suggests that vodka can transform one’s life in the way that it transforms the scene in the advertisement, turning the (dreary) life one lives in a sleepy hamlet into the kind of exciting nightlife one finds in a cosmopolitan urban center. Insofar as it is featured in an advertisement, we can plausibly understand this message as a *reason* why one should “Just add Vodka.”
 
@@ -328,7 +328,7 @@ In EXAMPLE 10 (below), I have used this method to standardize an argument that K
 
 ![image text](../assets/logic-informal/TableDiagram1.jpg)
 
-*EXAMPLE 10*
+\*EXAMPLE 10\*
 
 This form of standardization depicts the Sherwood argument as one that is supported by three independent “convergent” premises that provide three separate reasons for thinking that the argument’s conclusion is true.
 
@@ -336,7 +336,7 @@ In other instances of argument, two or more “linked” premises combine to sup
 
 ![image text](../assets/logic-informal/TableDiagram2.jpg)
 
-*EXAMPLE 11*
+\*EXAMPLE 11\*
 
 When arguments have non-verbal key components, visual and multimodal premises and conclusions can be recognized in a key component table by ostension, or by reproducing them in some way. Once they are identified in a KC table, the inferences such arguments depend on can be mapped in standard ways. The following table and diagram standardizes EXAMPLE 3 (above). It shows that it contains an inference from three linked premises (two visual and one verbal) to the conclusion that there is water on the planet Mars.
 

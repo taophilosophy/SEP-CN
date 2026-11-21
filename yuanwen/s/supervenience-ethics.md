@@ -321,11 +321,11 @@ No specific naturalistic description of an action conceptually entails an ethica
 
 While many find (2) plausible, fewer would be prepared to accept a purely metaphysical version of this thesis, such as:
 
-2*.
+2\*.
 
 No base way a world could be metaphysically necessitates that world being a certain ethical way.
 
-This is precisely because thesis (2*) is inconsistent with the strong metaphysical supervenience of the ethical, which very many philosophers accept. This means that a purely metaphysical variant of Blackburn’s argument will not be plausible.
+This is precisely because thesis (2\*) is inconsistent with the strong metaphysical supervenience of the ethical, which very many philosophers accept. This means that a purely metaphysical variant of Blackburn’s argument will not be plausible.
 
 This does not mean, however, that treating ethical supervenience as a non-conceptual truth renders it dialectically inert. This section considers the significance of metaphysical supervenience for ethical realism: does it pose a challenge to ethical realism? If so, how can we best understand this challenge? And what resources do different sorts of ethical realist have to meet the challenge?
 
@@ -401,7 +401,7 @@ The core idea is that the truth of Analytic explains the truth of the supervenie
 
 Consider three brief worries about this strategy. The first is that on some influential contemporary accounts of analyticity, analyticity does not guarantee truth. For example, one account of analyticity is that for a sentence ‘S’ to be analytic in a language L is for competence with L to dispose a speaker to accept ‘S’. And some philosophers (e.g. Eklund 2002)[^eklund-2002] have argued that there are inconsistent sets of sentences that satisfy this condition. If this is right, Intuitive Metaphysical’s being *analytic* in English would not guarantee its being true.
 
-The second worry is broadly intuitive. Analytic alone does not appear to guarantee that the supervenience of the ethical *follows* from the other aspects of the nature of ethical properties. And this suggests that, for all Analytic says, we can conceive of ethical* properties, which have every feature characteristic of ethical properties, except that they do not supervene. But this may lead us to wonder: why give the ethical properties the role in our lives that we do, and ignore the ethical* properties, just because they do not supervene? (For a related point, see the end of Mabrito 2005.)[^mabrito-2005]
+The second worry is broadly intuitive. Analytic alone does not appear to guarantee that the supervenience of the ethical *follows* from the other aspects of the nature of ethical properties. And this suggests that, for all Analytic says, we can conceive of ethical\* properties, which have every feature characteristic of ethical properties, except that they do not supervene. But this may lead us to wonder: why give the ethical properties the role in our lives that we do, and ignore the ethical\* properties, just because they do not supervene? (For a related point, see the end of Mabrito 2005.)[^mabrito-2005]
 
 The third worry is that even if the truth of Analytic entails the truth of Intuitive Metaphysical, it nonetheless arguably does nothing to *explain* why the supervenience relationship holds. Consider an analogy: suppose that the infallible oracle tells you that a certain ethical supervenience thesis holds. This testimony does nothing to explain why that supervenience thesis holds (compare McPherson 2012, 221–222, and Dreier 2015, 2019)[^dreier-2015][^dreier-2019][^mcpherson-2012][^mcpherson-2015]. Like the oracle’s testimony, one might think that learning the truth of Analytic would simply reinforce our confidence in the very thesis (Intuitive Metaphysical) that we were hoping to explain.
 

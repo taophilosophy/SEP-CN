@@ -268,7 +268,7 @@ To be more precise, there are actually two ways the strength or weakness of retr
 
 The primary costs of establishing the institutions of criminal punishment are:
 
-1. Financial: (according the U.S. Bureau of Justice Statistics, states spent over $51 billion on corrections in 2015) with corresponding opportunity costs (that money could have been spent on schools, medical research, infrastructure, or taxpayer refunds, to name only a few alternatives);
+1. Financial: (according the U.S. Bureau of Justice Statistics, states spent over \$51 billion on corrections in 2015) with corresponding opportunity costs (that money could have been spent on schools, medical research, infrastructure, or taxpayer refunds, to name only a few alternatives);
 2. Errors (convicting the innocent, over-punishing the guilty, and punishing those who deserve no punishment under laws that overcriminalize);
 3. The risk of the abuse of power (political and other forms of oppressive uses of the criminal justice system); and
 4. Collateral harm to innocents (e.g., the families of convicts who lose the support from those who are punished). (See Husak 2000 for the first three.)[^husak-2000]

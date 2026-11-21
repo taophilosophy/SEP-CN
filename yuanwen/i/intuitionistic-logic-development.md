@@ -375,7 +375,7 @@ From these axioms, he then proved
 
 $$ \begin{align} \tag{1} \neg \neg(p \vee \neg p)\\ \tag{2} \neg \neg \neg p & \rightarrow \neg p\\ \tag{3} ((\neg p \vee p) \rightarrow \neg q) & \rightarrow \neg q\\ \end{align} $$
 
-The first two had already informally been argued for by Brouwer (1908C, 1925E); the third was new. Now suppose that in intuitionistic logic, a proposition may be true $(p$ holds), false $(\neg p$ holds), or have a third truth value $(p'$ holds). Clearly, $p \rightarrow \neg p'$ and $\neg p \rightarrow \neg p'$, and therefore $(\neg p \vee p) \rightarrow \neg p'$; but then, by the third of the lemmata above and axiom \ref{GlivAxiom8} in the list, $\neg p'$. As $p$ is arbitrary, this means no proposition has the third truth value. (In 1932, Gödel would show that, more generally, intuitionistic propositional logic is no $n$-valued logic for any natural number $n$; see Section 1 of the supplementary document The Turn to Heyting’s Formalized Logic and Arithmetic.)
+The first two had already informally been argued for by Brouwer (1908C, 1925E); the third was new. Now suppose that in intuitionistic logic, a proposition may be true $(p$ holds), false $(\neg p$ holds), or have a third truth value $(p'$ holds). Clearly, $p \rightarrow \neg p'$ and $\neg p \rightarrow \neg p'$, and therefore $(\neg p \vee p) \rightarrow \neg p'$; but then, by the third of the lemmata above and axiom \\ref{GlivAxiom8} in the list, $\neg p'$. As $p$ is arbitrary, this means no proposition has the third truth value. (In 1932, Gödel would show that, more generally, intuitionistic propositional logic is no $n$-valued logic for any natural number $n$; see Section 1 of the supplementary document The Turn to Heyting’s Formalized Logic and Arithmetic.)
 
 Like Kolmogorov in 1925 and, as we will see, Heyting in 1930, Glivenko provided no detailed explanation of the intuitionistic validity of these axioms.
 
@@ -428,9 +428,9 @@ Heyting shows the independence of his axioms using a method given by Bernays (19
 
 Heyting states Glivenko’s two theorems from 1929, without giving proofs.
 
-Unlike Kolmogorov, but like Glivenko (who had been convinced by Heyting), Heyting accepted *Ex Falso* (axiom \ref{HeytingAxiom10} above). He was somewhat more elaborate on this point than they had been:
+Unlike Kolmogorov, but like Glivenko (who had been convinced by Heyting), Heyting accepted *Ex Falso* (axiom \\ref{HeytingAxiom10} above). He was somewhat more elaborate on this point than they had been:
 
-> The formula $a \rightarrow b$ generally means: “If $a$ is correct, then $b$ is correct too”. This proposition is meaningful if $a$ and $b$ are constant propositions about whose correctness nothing need be known … The case if conceivable that after the statement $a \rightarrow b$ has been proved in the sense specified, it turns out that $b$ is always correct. Once accepted, the formula $a \rightarrow b$ then has to remain correct; that is, we must attribute a meaning to the sign $\rightarrow$ such that $a \rightarrow b$ still holds. The same can be remarked in the case where it later turns out that $a$ is always false. For these reasons, the formulas [\ref{HeytingAxiom5}] and [\ref{HeytingAxiom10}] are accepted. (Heyting 1930: 44 [Mancosu 1998: 313])[^heyting-1930][^mancosu-1998]
+> The formula $a \rightarrow b$ generally means: “If $a$ is correct, then $b$ is correct too”. This proposition is meaningful if $a$ and $b$ are constant propositions about whose correctness nothing need be known … The case if conceivable that after the statement $a \rightarrow b$ has been proved in the sense specified, it turns out that $b$ is always correct. Once accepted, the formula $a \rightarrow b$ then has to remain correct; that is, we must attribute a meaning to the sign $\rightarrow$ such that $a \rightarrow b$ still holds. The same can be remarked in the case where it later turns out that $a$ is always false. For these reasons, the formulas [\\ref{HeytingAxiom5}] and [\\ref{HeytingAxiom10}] are accepted. (Heyting 1930: 44 [Mancosu 1998: 313])[^heyting-1930][^mancosu-1998]
 
 The argument is, however, incomplete. It is uncontroversial that, once $a \rightarrow b$ has been proved, it should remain so when afterward $\neg a$ is proved. But why should $a \rightarrow b$, if it has not yet been proved, become provable just by establishing $\neg a$? (Johansson asked this in a letter to Heyting in 1935;[^note-28] see Section 1 of the supplementary document Objections to the Proof Interpretation). Clearly, then, further work needed to be done on the explanation of intuitionistic logic.
 
@@ -704,7 +704,7 @@ Note that Gödel did not take this earlier opportunity to announce his translati
 
 [^note-45]: 45. Heyting (1958C: 111) remarks that “from the intuitionistic point of view this restriction is difficult to account for”, and seems to overlook that Van Dantzig addresses the classical mathematician (van Dantzig 1947b: 1092)[^dantzig-1947b].
 
-[^note-46]: 46. Another development by Van Dantzig was ‘stable mathematics’ (1947a, 1951), an ecumenical attempt, inspired by Gödel’s double negation translation of classical into intuitionistic arithmetic (see section 4.5.1), to develop a fragment of classical mathematics in which all theorems are equivalent to their double negations also by intuitionistic standards. Gilmore (1956)[^gilmore-1956] pointed out in his review of van Dantzig 1951 that the greater problem for that project is not the occurrence in classical mathematics of the principle of the excluded middle but of impredicative definitions (see on this point also Gödel *1933o and *1941)[^gödel-1941].
+[^note-46]: 46. Another development by Van Dantzig was ‘stable mathematics’ (1947a, 1951), an ecumenical attempt, inspired by Gödel’s double negation translation of classical into intuitionistic arithmetic (see section 4.5.1), to develop a fragment of classical mathematics in which all theorems are equivalent to their double negations also by intuitionistic standards. Gilmore (1956)[^gilmore-1956] pointed out in his review of van Dantzig 1951 that the greater problem for that project is not the occurrence in classical mathematics of the principle of the excluded middle but of impredicative definitions (see on this point also Gödel \*1933o and \*1941)[^gödel-1941].
 
 [^brouwer’s-1997a]: Brouwer’s writings are referred to according to the scheme in the bibliography van Dalen 1997a; Gödel’s, according to the bibliography in Gödel 1986, Gödel 1990, Gödel 1995 (except for Gödel 1970); Heyting’s, according to the bibliography Troelstra et al. 1981 (except for Heyting 1928).
 
@@ -928,9 +928,9 @@ Note that Gödel did not take this earlier opportunity to announce his translati
 
 [^gödel-1986-2]: –––, 1933f, “Eine Interpretation des intuitionistischen Aussagenkalküls”, *Ergebnisse eines mathematischen Kolloquiums*, 4: 39–40. Also, with English translation, in Gödel 1986: 300–303.
 
-[^gödel-1995]: –––, *1933o, “The present situation in the foundations of mathematics”, text of a lecture in Cambridge, MA, in Gödel 1995: 45–53.
+[^gödel-1995]: –––, \*1933o, “The present situation in the foundations of mathematics”, text of a lecture in Cambridge, MA, in Gödel 1995: 45–53.
 
-[^gödel-1941]: –––, *1941, “In what sense is intuitionistic logic constructive?”, text of a lecture at Yale, in Gödel 1995: 189–200.
+[^gödel-1941]: –––, \*1941, “In what sense is intuitionistic logic constructive?”, text of a lecture at Yale, in Gödel 1995: 189–200.
 
 [^gödel-1958]: –––, 1958, “Über eine bisher noch nicht benutzte Erweiterung des finiten Standpunktes”, *Dialectica*, 12(3–4): 280–287. Also, with English translation, in Gödel 1990: 240–251. doi:10.1111/j.1746-8361.1958.tb01464.x
 

@@ -260,161 +260,161 @@ For further information see the entry on the influence of Arabic and Islamic phi
 
 #### A1. Religious Treatises
 
-*Abridgement of al-Ghazālī (Ḍarūrī fī uṣūl al-fiqh)* (1157)
+***Abridgement of al-Ghazālī (Ḍarūrī fī uṣūl al-fiqh)*** (1157)
 
 An abridgement of al-Ghazālī’s *Mustaṣfā min ʿilm al-ʿuṣūl*, extant in Arabic: *Al-Ḍarūrī fī uṣūl al-fiqh: Mukhtaṣar al-Mustaṣfā*, edited by Jamāl Al-Dīn Al-ʿAlawī (Beirut: Dār al-gharb al-Islāmī, 1994). There is a French translation, with a revised edition: *Le philosophe et la loi; Edition, traduction, et commentaire de l’Abrégé du Mustaṣfā*, ed. and tr. Ziad Bou Akl (Berlin: De Gruyter, 2015) *References are to the page of the French plus the {page} of the Al-ʿAlawī edition.*
 
-*The Distinguished Jurist’s Primer (Bidāyat al-mujtahid wa-nihāyat al-muqtaṣid)* (begun 1169; completed 1188)
+***The Distinguished Jurist’s Primer (Bidāyat al-mujtahid wa-nihāyat al-muqtaṣid)*** (begun 1169; completed 1188)
 
 Extant in Arabic in many imperfect editions, including: *Bidāyat al-mujtahid wa nihāyat al-muqtaṣid*, 2 vols., 6th ed. (Beirut: Dār al-Maʿrifa, 1982). Translated into English: *The Distinguished Jurist’s Primer: A Translation of Bidāyat al-Mujtahid*, tr. I. A. K. Nyazee, reviewed by M. Abdul Rauf, 2 vols. (Reading: Garnet, 2006). *References are to the (book.page) of the translation, plus the {volume.page} of the Arabic.*
 
-*Decisive Treatise (Faṣl al-maqāl)* (1178/9)
+***Decisive Treatise (Faṣl al-maqāl)*** (1178/9)
 
 The Arabic with facing English translation is available here: *The Book of the Decisive Treatise Determining the Connection Between the Law and Wisdom; and Epistle Dedicatory*, tr. Charles E. Butterworth (Provo, UT: Brigham Young University Press, 2001). *References are to the (section) of this text.*
 
-*A Question on Divine Knowledge (al-Ḍamīma***)**(1179?)
+***A Question on Divine Knowledge (al-Ḍamīma*)**(1179?)
 
 This brief treatise has traditionally been described as an appendix to the *Decisive Treatise*, and more recently as a prefatory epistle, but in fact all we know is that it is mentioned in the *Decisive Treatise*. The Arabic, with facing English translation, is available here: *The Book of the Decisive Treatise Determining the Connection Between the Law and Wisdom; and Epistle Dedicatory*, tr. Charles E. Butterworth (Provo, UT: Brigham Young University Press, 2001).
 
-*Al-Kashf ʿan manāhij al-adilla fī ʿaqāʾid al-milla* (*Exposition of the Methods of Proof concerning Religious Doctrines*) (1179/80?)
+***Al-Kashf ʿan manāhij al-adilla fī ʿaqāʾid al-milla*** **(*Exposition of the Methods of Proof concerning Religious Doctrines*)** (1179/80?)
 
 The *Kashf* is extant and available in various imperfect Arabic editions, including: *Al-Kashf ʿan manāhij al-adillah fī ʿaqāʾid al-millah*, ed. Muṣṭafā Ḥanfī (Beirut: Markaz Dirāsāt al-Waḥdah al-ʿArabīyah, 1998). [Bibliographies commonly misattribute editorship of this work to M. A. Al-Jābirī, who in fact merely supervised the edition.] Fouad Ben Ahmed is preparing a new edition that draws on previously unused manuscripts. There is an English translation: *Faith and Reason in Islam: Averroes’ Exposition of Religious Arguments*, tr. Ibrahim Y. Najjar (Oxford: Oneworld, 2001). *References are to (chapter.page) of the translation, plus {Arabic page}.*
 
-*The Incoherence of the Incoherence (Tahāfut al-Tahāfut)* (1180/81)
+***The Incoherence of the Incoherence (Tahāfut al-Tahāfut)*** (1180/81)
 
 Extant in Arabic: *Tahāfut al-Tahāfut*, ed. Maurice Bouyges (Beirut: Imprimerie Catholique, 1930). In English translation: *Tahāfut al-Tahāfut (The Incoherence of the Incoherence)*, tr. Simon van den Bergh, 2 vols. (London: Luzac, 1954). *References are to (part.discussion) of the translation, plus {Arabic page}, which is given marginally in the translation.*
 
 #### A2. Aristotelian (and Related) Commentaries
 
-*Compendium on Logic* **(***Mukhtaṣar al-Manṭiq / Kitāb al-ḍarūrī fī-l-manṭiq)* (1157)
+***Compendium on Logic*** **(*Mukhtaṣar al-Manṭiq / Kitāb al-ḍarūrī fī-l-manṭiq)*** (1157)
 
 One of Ibn Rushd’s earliest works, a summary of logic that briefly runs through the entire extended Organon. An edition of the Arabic, with English translation, is forthcoming: *Short Commentaries on Aristotle’s Organon*, ed. and tr. Charles E. Butterworth (Albany, NY: SUNY Press, forthcoming). Three sections of this work were earlier published: *Three Short Commentaries on Aristotle’s Topics, Rhetoric, and Poetics*, ed. and tr. Charles E. Butterworth (Albany, NY: SUNY Press, 1977). *References are to the (treatise.section) of the forthcoming translation.*
 
-**Porphyry**, *Isagoge*
+**Porphyry**, ***Isagoge***
 
 **Epitome** See *CompLogic*, above. **Paraphrase** (circa 1170) The Arabic is not extant, but there is a translation into Hebrew: *Commentarium medium in Porphyrii Isagogen et Aristotelis Categorias*, ed. Herbert A. Davidson (Cambridge, MA: Mediaeval Academy of America, 1969). [available online](https://cdn.ymaws.com/sites/www.medievalacademy.org/resource/resmgr/maa_books_online/davidson_0078_bkmrkdpdf.pdf). And into Latin: *Commentum medium super libro Porphyrii: translatio Wilhelmo de Luna adscripta*, ed. Roland Hissette (Louvain: Peeters, 2016). It has also been translated into English: *Middle Commentary on Porphyry’s Isagoge and on Aristotle’s Categoriae*, tr. Herbert A. Davidson (Cambridge, MA: Mediaeval Academicy of America, 1969).
 
-*Categories*
+***Categories***
 
 **Epitome** See *CompLogic*, above. **Paraphrase** (1164?) Extant in Arabic: *Talkhīṣ Kitāb al-Maqūlāt*, ed. Maḥmūd Qāsim and Charles E. Butterworth (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1980). And it has been translated: *Middle Commentaries on Aristotle’s Categories and De Interpretatione*, tr. Charles E. Butterworth (Princeton, NJ.: Princeton University Press, 1983).
 
-*De interpretatione*
+***De interpretatione***
 
 **Epitome** See *CompLogic*, above. **Paraphrase** (1165?) The Arabic is available in various editions, including *Talkhīṣ kitāb al-ʿIbāra* / *Averrois Cordubensis in librum Aristotelis De interpretatione*, ed. Maḥmūd Qāsim, Charles E. Butterworth, Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1981). Available in translation into English: *Middle Commentaries on Aristotle’s Categories and De Interpretatione*, tr. Charles E. Butterworth (Princeton, NJ.: Princeton University Press, 1983).
 
-*Prior Analytics*
+***Prior Analytics***
 
 **Epitome** See *CompLogic*, above. **Paraphrase** (1166?) Available in multiple Arabic editions, including *Talkhīṣ kitāb al-qiyās / Averrois Cordubensis in Aristotelis Priorum analiticorum libros*, ed. Maḥmūd Qāsim, Charles E. Butterworth, Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1983). Multiple English translations, including *Middle Commentary on Aristotle’s Prior Analytics*, ed. Maḥmūd Qāsim, Charles E. Butterworth, Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1983).
 
-*Posterior Analytics*
+***Posterior Analytics***
 
 **Epitome** See *CompLogic*, above. **Paraphrase** (1170) Available in multiple Arabic editions, including *Talkhīṣ Kitāb al-Burhān*, ed. Mahmūd Qāsim (Cairo: al-Haya al-ʿĀmma li al-Kitāb, 1982). No modern translation has been made, but there is a Latin translation in Junta 1562 vol. 1 pt. 2b, [available online](https://drive.google.com/file/d/1B8oIaULcJFUNmjIyYCPrH4XxUxdYxXNH/view). **Long Commentary** (after 1186) Extant in Arabic but only through I.23 (85a11): *Sharḥ al-Burhān li-Arisṭū wa-Talkhīṣ al-Burhān*, ed. ʿAbd al-Raḥmān Badawī (Kuwait: al-Majlis al-Waṭanī li-1-ṭaqāfa wa-l-funūn wa-1-ādāb, 1984), 155–486. The complete Hebrew translation has been transcribed [online](https://dare.uni-koeln.de/app/fulltexts/FT114). No modern translation has been made, but three Latin translations, each based on an earlier, complete Hebrew translation, are printed in Junta 1562 vol. 1 pt. 2a, [available online](https://drive.google.com/file/d/1B8oIaULcJFUNmjIyYCPrH4XxUxdYxXNH/view). *References are to (book.comment) of the Junta edition, plus {Arabic page}.*
 
-*Topics*
+***Topics***
 
 **Epitome** See *CompLogic*, above. **Paraphrase** (1168) Available in multiple Arabic editions, including *Commentarium Medium in Aristotelis Topica*, ed. Charles E. Butterworth and Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1979). No modern translation, but a Latin translation is available in Junta 1562 vol. 1 pt. 3, [available online](https://drive.google.com/file/d/1B8oIaULcJFUNmjIyYCPrH4XxUxdYxXNH/view). *References are to the Latin (book.page {Arabic page}).*
 
-*Sophistical Refutations*
+***Sophistical Refutations***
 
 **Epitome** See *CompLogic*, above. **Paraphrase** (1174?) Available in multiple Arabic editions, including *Talkhīs al-Safsaṭa*, ed. M. Salīm Sālim (Cairo: Dār al-Kutub, 1973). No modern translation, but a Latin translation is available in Junta 1562 vol. I pt. 3, [available online](https://drive.google.com/file/d/1B8oIaULcJFUNmjIyYCPrH4XxUxdYxXNH/view).
 
-*Rhetoric*
+***Rhetoric***
 
 **Epitome** See *CompLogic*, above. **Paraphrase** (1175) In Arabic, with a French translation: *Commentaire moyen à la Rhétorique d’Aristote*, ed. and tr. M. Aouad, 3 vols. (Paris: Vrin, 2002). Book I has been translated into English: *Three Arabic Treatises on Aristotle’s Rhetoric: the Commentaries of al-Fārābī, Avicenna, and Averroes*, tr. Lahcen Elyazghi Ezzaher (Carbondale: Southern Illinois University Press, 2015), 72–181.
 
-*Poetics*
+***Poetics***
 
 **Epitome** See *CompLogic*, above. **Paraphrase** (1176?) Extant in Arabic: *Commentarium medium in Aristotelis De arte poetica liber*, ed. Charles E. Butterworth with the assistance of Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-Miṣriyya al-ʿāmma li-l-kitāb, 1986). In English translation: *Averroes’ Middle Commentary on Aristotle’s Poetics*, tr. Charles E. Butterworth (Princeton, NJ: Princeton University Press, 1986; repr. South Bend, IN: St. Augustine’s Press, 2000).
 
-*Physics*
+***Physics***
 
 **Epitome** (1159, revised after 1186) The four short commentaries on physical treatises—*Physics*, *De caelo*, *On Generation and Corruption*, and *Meteorology*—were conceived of as a single work, *Al-jawāmiʿ fī l-falsafa*. They are, however, often edited and translated separately. Extant in Arabic: *Epitome in physicorum libros*, ed. Josep Puig (Madrid: Consejo Superior de Investigaciones Científicas: Instituto Hispano-Arabe de Cultura, 1983). Translated into Spanish: *Epítome de física*, tr. Josep Puig (Madrid: Consejo Superior de Investigaciones Científicas: Instituto Hispano-Arabe de Cultura, 1987). *References are to (book.page) of the translation plus {Arabic page}.* **Paraphrase** (1169) Not extant in Arabic, but it survives in two distinct Hebrew versions. Only the first two books of the more popular Kalonymus translation have been edited and translated: *Averroes on the Principles of Nature: The* Middle Commentary *on Aristotle’s* Physics *I–II*, edited and translated by Steven Harvey (Harvard: Ph.D. dissertation, 1977). The Latin translation (Junta 1962, vol. 4) is based on the Hebrew. A detailed outline (*taqsīm*) of the text is extant in Arabic: *Min Talkhīṣ al-Samāʿ al-ṭabīʿi: Taqsīm al-Samāʿ al-ṭabīʿi*, ed. Jamāl al-Dīn al- *ʿ*Alawī, *Revue de la Faculté des lettres et des sciences humaines*, *Dhar al-Mahraz de Fes* 7 (1983-1984), 205*–*55. **Long Commentary** (1186) Not extant in Arabic. A Hebrew translation survives but is not yet edited (save for the edition with translation in Harvey 1985 of the important proem)[^harvey-1985]. The Latin translation is available in Iunta 1562, vol. 4, [available online](https://drive.google.com/file/d/19q0MMgCcLN612l9nyjE1w0emM0Qfv3NY/view). The Latin text of Book VII is available in a modern edition: *Commentarium Magnum In Aristotelis Physicorum Librum Septimum (Vindobonensis [Vienna] lat. 2334)*, ed. H. Schmieja (Paderborn, 2006), [available online](https://dare.uni-koeln.de/app/fulltexts/FT14). *References are made to (book.comment) of the Latin text.* Glasner (2009)[^glasner-2009] contains much useful information about the various commentaries on the *Physics* and their various translations.
 
-*De caelo*
+***De caelo***
 
 **Epitome** (1159) Extant in Arabic: *Rasāʾil Ibn Rushd* (Hyderabad: Daʾirat al-Maʿārif al-ʿUthmāniyya, 1947). No modern translation. **Paraphrase** (1171) Extant in Arabic: *Talkhīṣ al-Samāʾ wa-l-ʿālam*, ed. Jamāl al-Dīn al-ʿAlawī (Fes: Faculté des Lettres, 1984), [available online](https://dare.uni-koeln.de/app/fulltexts/FT109). There is no modern translation, but there is a Latin version in Iunta 1962, vol. 5 [available online](https://drive.google.com/file/d/19uMnb_xU2ABl7ezpK30BSzc9arFX8xd0/view). **Long Commentary** (1188) The whole surives only in Latin: *Commentum magnum super libro De celo et mundo Aristotelis*, ed. Francis J. Carmody and Rüdiger Arnzen, 2 vols. (Leuven: Peeters, 2003), [available online](https://dare.uni-koeln.de/app/fulltexts/FT19). A third of the Arabic (= I.61–140 and II.1–42) survives: *Sharḥ al-Samāʾ wa-l-ʿālam*, ed. Asʿad Jumʿa, 2 vols. (Tunis: Markaz al-Nashr al-Jāmiʿī, 2002). *References are to the (book.comment.page) of the Latin edition.*
 
-*On Generation and Corruption*
+***On Generation and Corruption***
 
 **Epitome** (1159) Extant in Arabic: *Epitome del libro sobre la generación y la corrupción*, edition and Spanish translation by Josep Puig Montada (Madrid: Consejo Superior de Investigaciones Científicas, 1992). Available in English: *Averroes on Aristotle’s* De generatione et corruptione*:* *Middle Commentary and Epitome*, tr. Samuel Kurland (Cambridge, MA: Mediaeval Academy of America, 1958). *References are to (book.page) of the translation, plus {Arabic page}.* **Paraphrase** (1172) Extant in Arabic: *Mittlerer Kommentar zu Aristoteles’ De generatione et corruptione*, ed. Heidrun Eichner (Paderborn: F. Schöningh, 2005), [available online](https://dare.uni-koeln.de/app/fulltexts/FT21). Available in English: *Averroes on Aristotle’s* De generatione et corruptione. *Middle Commentary and Epitome*, tr. Samuel Kurland (Cambridge, MA: Mediaeval Academy of America, 1958).
 
-*Meteorology*
+***Meteorology***
 
 **Epitome** (1159) Extant in Arabic: *Kitāb al-Āthār al-ʿulwiyya / Averroes’ Epitome Meteorologica*, edited by Suhayr Faḍllallāh Abū Wāfiya and Suʿād ʿAlī ʿAbd-al-Rāziq, revised by Zaynab Maḥmūd al-Khuḍayrī (Cairo: al-Majlis al-aʿla li-1-Thaqāfa, 1994). No modern translation. **Paraphrase** (1173?) Extant in Arabic: *Talkhīṣ al-Āthār al-ʿulwiyya*, ed. Jamāl-al-Dīn alʿAlawī (Beirut: Dār al-Gharb al-Islāmī, 1994). Translated into Latin in Junta 1962, vol. 5. [available online](https://drive.google.com/file/d/19uMnb_xU2ABl7ezpK30BSzc9arFX8xd0/view).
 
-*De anima*
+***De anima***
 
 **Epitome** (circa 1158-1160) Extant in Arabic in various editions, including *Talkhīṣ Kitāb al-nafs*, ed. Aḥmad Fuʾād al-Ahwānī (Cairo: Maktabat al-Nahḍa al-Miṣrīyya, 1950). There is a French translation: *L’intellect: Compendium du livre De l’âme*, ed. J.-B. Brenet (Paris: Vrin, 2022). And there is a Spanish translation: *La psicología de Averroes: commentario al libro “Sobre el alma” de Aristóteles*, tr. Salvador Gómez Nogales (Madrid: Universidad Nacional de Educacion a Distancia, 1987). *References are to the (Spanish page {Arabic page}).* **Paraphrase** (1172/1181) Extant in Arabic, with facing English translation: *Middle Commentary on Aristotle’s De Anima*, ed. and tr. A. L. Ivry (Provo, UT: Brigham Young University Press, 2002). **Long Commentary** (1186) Survives only in Latin: *Averrois Cordubensis Commentarium magnum in Aristotelis De anima libros*, ed. F. S. Crawford (Cambridge, MA: Medieval Academy of America, 1953), [available online](https://drive.google.com/file/d/19BUkemaPqVwD71qjCnqkdboGxPEBzwFd/view). Fragments of the original Arabic survive: *De la faculté rationnelle: l’original arabe du Commentaire (Šarḥ) d’Averroès au De anima d’Aristote (III, 4-5, 429a10–432a14)*, ed. Colette Sirat and Marc Geoffroy (Rome: Aracne Editrice, 2021). An English translation carefully compares the Latin with surviving Arabic fragments: *Long Commentary on the De anima of Aristotle*, tr. Richard C. Taylor, with Thérèse-Anne Druart (New Haven: Yale University Press, 2009). *References are to (book.comment {Latin page})*.
 
-*Parva naturalia* (1170)
+***Parva naturalia*** (1170)
 
 The sole commentary has traditionally been described as an epitome, but recent scholarship suggests that it might better be thought of as a paraphrase (Hansberger 2019)[^hansberger-2019]. It is extant in Arabic: *Compendia librorum Aristotelis qui Parva naturalia vocantur*, ed. Henry Blumberg (Cambridge, MA: Mediaeval Academy of America, 1972). And has been translated: *Epitome of Parva naturalia*, tr. Henry Blumberg (Cambridge, MA: The Mediaeval Academy of America, 1961). *References are to (book.page) of the English plus {Arabic page}.*
 
-*De animalibus*
+***De animalibus***
 
 **Paraphrase** (1170) Extant in Latin and Hebrew, and covering only the *Parts of Animals* and the *Generation of Animals*. Only the Latin has been edited, in volume 6 of the 1562 Junta edition. [available online](https://drive.google.com/file/d/1BO8fgm9BQtlaPp2Y7i3zyIZfdkm4zNjZ/view).
 
-*Metaphysics*
+***Metaphysics***
 
 **Epitome** (composed circa 1161, but revised around 1180 and again in the early 1190s) Extant in Arabic in various non-critical editions, including: *Compendio de Metafisica: texto Arabe*, ed. Carlos Quirós Rodríguez (Madrid: Estanislao Maestre, 1919). An English translation has been made based on careful study of the manuscript tradition: *Averroes on Aristotle’s Metaphysics: An Annotated Translation of the So-Called “Epitome,”* tr. Rüdiger Arnzen (Berlin: De Gruyter, 2010). *References are to (chapter.page) of the translation, plus {Arabic page}.* **Paraphrase** (1174) Extant partially in Arabic: *Averroes’ Middle Commentary on Aristotle’s Metaphysics*, ed. Maroun Aouad, Silvia Di Vincenzo, and Hamidé Fadlallah (Leiden: Brill, 2023) The full text exists only in Hebrew, in two translations: *Il* Commento medio *di Averroè alla* Metafisica *di Aristotele nella tradizione ebraica*, ed. Mauro Zonta, 2 vols. (Pavia: Pavia University Press, 2011). This work includes an Italian translation of Bks. I–II. **Long Commentary** (after 1190) Extant in Arabic: *Tafsīr Mā baʿd al-ṭabīʿa*, ed. Maurice Bouyges, 3rd ed., 3 vols. (Beirut: Dar el-Machreq, 1990). There is an English translation of Book XII: *Ibn Rushd’s Metaphysics: A Translation with Introduction of Ibn Rushd’s Commentary on Aristotle’s Metaphysics, Book Lām*, tr. Charles Genequand (Leiden: Brill, 1984). And a French translation of Book III: *Grand commentaire (Tafsīr) de la Métaphysique Livre Bêta*, tr. Laurence Bauloye (Paris: Vrin, 2002). And a French translation of books I, II, IV, and VI: *Traduction commentée du Grand commentaire d’ Averroès aux livres petit Alpha, grand Alpha, Gamma et Epsilon de la Métaphysique d’ Aristote*, tr. Karim Kaddour (Paris: Université Panthéon- Sorbonne - Paris I, 2018). For the remainder, there is a Latin translation, in Junta 1562 vol. 8, [available online](https://drive.google.com/file/d/1AuLAe3okAdionkge8LErMkDv4Jseh-0x/view). *References are to (book.comment {Arabic page})*.
 
-*Nicomachean Ethics*
+***Nicomachean Ethics***
 
 **Paraphrase** (1177) The Arabic is not extant, but the work has survived in Hebrew: *The Hebrew Version of Averroes’ Middle Commentary on Aristotle’s* Nicomachean Ethics, ed. Lawrence V. Berman (Jerusalem: Israel Academy of Sciences and Humanities, 1999). An independent Latin translation is printed in Junta 1562 vol. 3. [available online](https://drive.google.com/file/d/1A-Ab3KuwKoNqNqjvlZiRqNvHLf2H88o4/view). A modern edition of Book X of the Latin translation has made been, along with a French translation: *Le plaisir, le bonheur, et l’acquisition des vertus: édition du Livre x du Commentaire moyen d’Averroès à l’Éthique à Nicomaque d’Aristote*, ed. and tr. Frédérique Woerther (Leiden: Brill, 2018). *References are to (book.chapter, page) of the Junta edition.*
 
-Plato’s *Republic*
+**Plato’s *Republic***
 
 Not extant in Arabic, but it has survived in Hebrew: *Averroes’ Commentary on Plato’s Republic*, ed. and tr. Erwin I. J. Rosenthal (Cambridge: Cambridge University Press, 1956). For an improved English translation see *Averroes on Plato’s Republic*, tr. Ralph Lerner (Ithaca: Cornell University Press, 1974). *References are to (treatise.page) of the Hebrew, given in the margin of Lerner’s translation.*
 
 #### A3. Medical Treatises
 
-*Al-Kulliyyāt fī al-ṭibb* (*General Principles of Medicine*) (1162–69, subsequently revised)
+***Al-Kulliyyāt fī al-ṭibb*** **(*General Principles of Medicine*)** (1162–69, subsequently revised)
 
 The original redaction is extant in Arabic, in many editions, including: *Al-Kulliyyāt fī al-ṭibb*, ed. Murād Maḥfūẓ et al., with an introduction by Aḥmad Maḥfūẓ (Beirut: Markaz Dirāsāt al-Waḥda al-ʿArabiyya, 1999). [Bibliographies commonly misattribute editorship of this work to M. A. Al-Jābirī, who in fact merely supervised the edition.] The Latin (*Colliget*), which translates a significantly revised version of the text, is found in Iunta 1562, vol. 10, [available online](https://drive.google.com/file/d/1APVH8lWnUKFxGldJzErN0cKCLWEZ_Zs7/view). It is also available in a modern Spanish translation: *El libro de las generalidades de la medicina*, tr. M. C. Vázquez de Benito, C. Álvarez de Morales (Madrid: Trotta, 2003). *References are to (book.page) of the Arabic text.*
 
-*Commentary on Ibn Sīnā’s Medical Poem* (*Sharḥ li-Urjūza fī al-ṭibb / Avicennae Cantica*) (between 1184 and 1195)
+***Commentary on Ibn Sīnā’s Medical Poem* (*Sharḥ li-Urjūza fī al-ṭibb / Avicennae Cantica*)** (between 1184 and 1195)
 
 The Arabic text, with Latin and a modern Spanish translation: *Avicennae Cantica*, ed. and tr. J. Coullaut Cordero, E. Fernández Vallina, and M. C. Vázquez de Benito (Salamanca: Universidad de Salamanca, 2010). *References are to the Arabic text, by page number.*
 
-*Commentaries on Galen* (1190s)
+***Commentaries on Galen*** (1190s)
 
 Extant in Arabic: *Averrois in Galenum*, ed. Maria de la Conceptión Vázquez de Benito (Madrid: Consejo Superior de Investigaciones Cientfficas, 1984). Translated here: *Medical Manuscripts of Averroes at El Escorial*, tr. Georges C. Anawati and P. Ghalioungui (Cairo: Al Ahram Center for Scientific Translations, 1986).
 
 #### A4. Brief Works
 
-*Questions on Logic*
+***Questions on Logic***
 
 Various questions are extant in Arabic: *Maqālāt fī l-manṭiq wa-l-ʿilm al-ṭabīʿī (Essais de logique et de physique d’Ibn Rochd)*, ed. Jamal al-Dīn al-ʿAlawī (Casablanca: Dār al-Nashr al-Maghribiyya, 1983), 71–221. The material on assertoric propositions has been translated: Nicholas Rescher, “Averroes’ *Quaesitum* on Assertoric (Absolute) Propositions,” *Journal of the History of Philosophy* 1 (1963) 80–93. A lengthy collection of these questions is also available in Latin, in Junta 1562 vol. 1 pt. 2b, ff. 75v–119v, [available online](https://drive.google.com/file/d/1B8oIaULcJFUNmjIyYCPrH4XxUxdYxXNH/view).
 
-*Questiones on Physics*
+***Questiones on Physics***
 
 Partially extant in Arabic: *Maqālāt fī l-manṭiq wa-l-ʿilm al-ṭabīʿī (Essais de logique et de physique d’Ibn Rochd)*, ed. Jamal al-Dīn al-ʿAlawī (Casablanca: Dār al-Nashr al-Maghribiyya, 1983), 225–63. A longer series of questions is extant in Hebrew. The Hebrew has mainly not been edited, but it has been translated: *Averroes’ Questions in Physics*, tr. Helen Tunik Goldstein (Dordrecht: Kluwer, 1991). Question 6 in Goldstein corresponds to 258–63 in ʿAlawī’s edition of the Arabic, [available online](https://dare.uni-koeln.de/app/fulltexts/FT16). Question 7 in Goldstein corresponds to 225–43 in ʿAlawī’s edition, [available online](http://dare.uni-koeln.de/app/fulltexts/FT17). *References are to the (question.paragraph) of the translation, plus {Arabic page}.*
 
-*De separatione primi principii* (1190s?)
+***De separatione primi principii*** (1190s?)
 
 This single treatise is apparently extant only in Latin, and has been edited and translated: Carlos Steel and Guy Guldentops, “An Unknown Treatise of Averroes against the Avicennians on the First Cause: Edition and Translation,” *Recherches de théologie et philosophie médiévales* 64 (1997) 86–135. A related short treatise survives in Arabic: “Averroes’ Lost Treatise on the Prime Mover,” ed. H. A. Wolfson, *Hebrew Union College Annual* 23 (1950) 683–710.
 
-*De substantia orbis* (1178–9)
+***De substantia orbis*** (1178–9)
 
 This collection of six short treatises on cosmology and metaphysics is extant in Hebrew and has been translated: *De substantia orbis: Critical Edition of the Hebrew Text with English Translation and Commentary*, ed. Arthur Hyman (Cambridge, MA: Medieval Academy of America, 1986), [available online](https://cdn.ymaws.com/sites/www.medievalacademy.org/resource/resmgr/maa_books_online/hyman_0096_bkmrkdpdf.pdf). *References are to (treatise.page) of the translation.*
 
-*On the Possibility of Conjunction*
+***On the Possibility of Conjunction***
 
 Extant only in Hebrew, which has been edited and translated into English: *The Epistle on the Possibility of Conjunction with the Active Intellect by Ibn Rushd with the Commentary of Moses Narboni*, tr. Kalman P. Bland (New York: Jewish Theological Seminary of America, 1982). *References are to (section.page) of the translation.*
 
-*On the Conjunction of Intellect, Epistle 1*
+***On the Conjunction of Intellect, Epistle 1***
 
 This letter seems to reflect Ibn Rushd’s mature views about the material intellect. Extant in Hebrew, edited with German translation: *Drei Abhandlungen über die Conjunction des separaten Intellects mit dem Menschen. Von Averroes (Vater und Sohn), aus dem Arabischen übersetzt von Samuel Ibn Tibbon*, ed. and tr. Yiṣḥaq Hercz (Berlin: H. G. Hermann, 1869), 3–10 and 1–47. Also available in French: *La Béatitude de l’âme: Éditions, traductions et études*, tr. Marc Geoffroy and Carlos Steel (Paris: Vrin, 2001), 198–222.
 
-*On the Conjunction of Intellect, Epistle 2*
+***On the Conjunction of Intellect, Epistle 2***
 
 Extant in Hebrew, edited with a German translation: *Drei Abhandlungen über die Conjunction des separaten Intellects mit dem Menschen. Von Averroes (Vater und Sohn), aus dem Arabischen übersetzt von Samuel Ibn Tibbon*, ed. and tr. Yiṣḥaq Hercz (Berlin: H. G. Hermann, 1869), 10–14 and 48–56. Also available in French: *La Béatitude de l’âme: Éditions, traductions et études*, ed. and tr. Marc Geoffroy and Carlos Steel (Paris: Vrin, 2001), 222–36. A Latin translation of these two epistles was made from the Hebrew and joined with other material, under the title *De animae beatitudine*. Printed in Junta vol. 9, it is also available in a modern edition and French translation, with extensive explanatory material: *La Béatitude de l’âme: Éditions, traductions et études*, ed. and tr. Marc Geoffroy and Carlos Steel (Paris: Vrin, 2001).
 
-*Commentary on Ibn Bājja’s Epistle on the Conjunction of the Intellect with Man*
+***Commentary on Ibn Bājja’s Epistle on the Conjunction of the Intellect with Man***
 
 Extant in Arabic: Aḥmad Fuʾād al-Ahwānī, *Talkhīṣ kitāb al-nafs* (Cairo: Maktabat al- Nahḍa al-Miṣriyya, 1950), pp. 90–95. Translated into Spanish: Salvador Gómez Nogales, *La psicologia de Averroës: commentario al libro sobre el alma de Aristoteles* (Madrid: Universidad Nacional de Educacion a Distancia, 1987), pp. 214–21.
 
-*Commentary on Alexander’s* De intellectu
+***Commentary on Alexander’s* De intellectu**
 
 Extant in Arabic: Mauro Zonta, “La tradizione giudeo-araba ed ebraica del *De intellectu* di Alexxandro di Afrodisia e il testo originale del Commento di Averroè,” *Annali di Ca’ Foscari*, 40 (2001): 17–35. And in Hebrew: Herbert A. Davidson, “Peruš Ibn Rušd le-maʾamar be-sekel šel Aleksander me-Afrodisiyas,” in *Sefer ha-yovel li-Shelomoh Pines: bi-melot lo shemonim shanah / Schlomo Pines Jubilee Volume*, 2 vols. (Jerusalem: Universitah ha-‘Ivrit, 1988–90) I:205–17.
 

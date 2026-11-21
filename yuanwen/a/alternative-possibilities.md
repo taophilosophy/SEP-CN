@@ -689,7 +689,7 @@ I am grateful to the SEP editorial staff and to Derk Pereboom for helpful advice
 
 [^rowe-2006]: –––, 2006, “Free Will, Moral Responsibility, and the Problem of ‘OOMPH’”, *The Journal of Ethics*, 10(3): 295–313. doi:10.1007/s10892-005-5779-8
 
-[^sartorio-2005]: Sartorio, Carolina, 2005, “A New Asymmetry Between Actions And Omissions*”, *Noûs*, 39(3): 460–482. doi:10.1111/j.0029-4624.2005.00509.x
+[^sartorio-2005]: Sartorio, Carolina, 2005, “A New Asymmetry Between Actions And Omissions\*”, *Noûs*, 39(3): 460–482. doi:10.1111/j.0029-4624.2005.00509.x
 
 [^sartorio-2012]: –––, 2012, “Causation and Freedom”, *Journal of Philosophy*, 109(11): 629–651. doi:10.5840/jphil20121091137
 

@@ -263,11 +263,11 @@ Dharmakīrti | Indian Philosophy (Classical): epistemology | Indian Philosophy (
 
 [^note-11]: See Mimaki 1976: 176, 6–9 (corresponding to SSD, 127, 14–16), and the translation on the opposing page. In KBhSA, an opponent appeals to the commonly accepted point about the seed and the sprout:
 
-> For it is so: the seed is a principal cause with regard to the sprout; it is a secondary cause with regard to the [other causal factors involved,] soil and so on. (Woo 2019: 27*, 12–13, corresponding to KBhSA 79, 29–30: *tathā hi bījasyāṅkuraṃ praty upādānatvam. kṣityādikaṃ tu prati sahakāritvam*)[^woo-2019]
+> For it is so: the seed is a principal cause with regard to the sprout; it is a secondary cause with regard to the [other causal factors involved,] soil and so on. (Woo 2019: 27\*, 12–13, corresponding to KBhSA 79, 29–30: *tathā hi bījasyāṅkuraṃ praty upādānatvam. kṣityādikaṃ tu prati sahakāritvam*)[^woo-2019]
 
 In this passage, the seed is classified as a secondary cause for whichever effects the other elements produce. The reverse also holds, namely that these other elements are the secondary causes for whichever effect the seed produces. Ratnakīrti’s answer makes it clear that this classification into primary and secondary causes is only a conceptual distinction:
 
-> […] because, notwithstanding that different natures such as being a primary cause and so on are imagined based upon this or that differentiation, in reality it is only by a single nature that multiple effects are produced. (Woo 2019: 31*, 8–9, corresponding to KBhSA, 81, 19–21: *tattadvyāvṛttibhedam āśrityopādānatvādikālpanikasvabhāvabhede ’pi paramārthata ekenaiva svarūpeṇānekakāryaniṣpādanād […]*)[^woo-2019]
+> […] because, notwithstanding that different natures such as being a primary cause and so on are imagined based upon this or that differentiation, in reality it is only by a single nature that multiple effects are produced. (Woo 2019: 31\*, 8–9, corresponding to KBhSA, 81, 19–21: *tattadvyāvṛttibhedam āśrityopādānatvādikālpanikasvabhāvabhede ’pi paramārthata ekenaiva svarūpeṇānekakāryaniṣpādanād […]*)[^woo-2019]
 
 [^note-12]: Proponents of Nyāya and Vaiśeṣika types of ontology characterise causality as a sort of natural relation (*svabhāvikasambandha*). Ratnakīrti explicitly argues against natural relations, asserting that causality either reduces to the Buddhist analysis or cannot be established. See the explanations in Patil 2009: 118–122. See also Halbfass 1992: 195 for a short comment on the situation in Nyāya works that Ratnakīrti explicitly quotes, and see Halbfass 1992: 203, n.111 for references to Mimaki 1976, who discusses Ratnakīrti’s criticism of various attempts by Nyāya opponents to link causality to permanent entities.
 
@@ -377,7 +377,7 @@ I follow the German translation in Bühnemann 1980: 66. SJS, 23, 3–6: *nanu yo
 
 [^eltschinger-2014]: –––, 2014, *Buddhist Epistemology as Apologetics: Studies on the History, Self-Understanding and Dogmatic Foundations of Late Indian Buddhist Philosophy* (Beiträge zur Kultur- und Geistesgeschichte Asiens 81), Vienna: Austrian Academy of Sciences Press. [doi:10.2307/j.ctt1vw0q6r](https://doi.org/10.2307/j.ctt1vw0q6r)
 
-[^eltschinger-2018]: Eltschinger, Vincent, John Taber, Michael Torsten Much, and Isabelle Ratié, 2018, Dharmakīrti’s Theory of Exclusion (apoha). Part 1: On Concealing: An Annotated Translation of Pramāṇavārttikasvavṛtti 24,16-45,20 (Pramāṇavārttika 1.40-91) (Studia Philologica Buddhica. Monographic Series 36), Tokyo: The International Institute for Buddhist Studies of the International College for Postgraduate Buddhist Studies.
+[^eltschinger-2018]: Eltschinger, Vincent, John Taber, Michael Torsten Much, and Isabelle Ratié, 2018, *Dharmakīrti’s Theory of Exclusion (apoha). Part 1: On Concealing: An Annotated Translation of Pramāṇavārttikasvavṛtti 24,16-45,20 (Pramāṇavārttika 1.40-91)* (Studia Philologica Buddhica. Monographic Series 36), Tokyo: The International Institute for Buddhist Studies of the International College for Postgraduate Buddhist Studies.
 
 [^feldman-2011]: Feldman, Joel and Stephen H. Phillips, 2011, *Ratnakīrti’s Proof of Momentariness by Positive Correlation: Kṣaṇabhaṅgasiddhi Anvayātmikā* (Treasury of the Buddhist Sciences Series), New York: The American Institute of Buddhist Studies, Columbia University’s Center for Buddhist Studies and Tibet House US.
 

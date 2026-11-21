@@ -76,11 +76,11 @@ Therefore,
 
 There are several strategies available for pressing a critique of this argument. In ancient times, premise 2 was generally conceded, while premise 1 was contested; since the Enlightenment, it has become somewhat more common for critics to contest premise 2 as well. There are also indirect approaches that exploit the deductive structure of the argument to argue that something must be wrong with the argument without getting bogged down in the details of a specific critique. Adding further true premises does not reduce the support that a deductive argument gives to its conclusion; but the addition of such premises may bring to light some awkward consequences. One interpretation of one part of Hume’s strategy in “Of Miracles,” part 2 is that he has in mind the addition of a further premise:
 
-> 2*. Various non-Christian miracles are attested by such (or better) evidence,
+> 2\*. Various non-Christian miracles are attested by such (or better) evidence,
 
 the conclusion envisaged being, of course, that
 
-> 3*. Various non-Christian miracles are worthy of credit.
+> 3\*. Various non-Christian miracles are worthy of credit.
 
 The strategy is intended as a *reductio ad absurdum* of the first premise, since *prima facie* it is not the case that both the Christian miracles and the non-Christian miracles are worthy of credit. Paley does not cast his own argument into a deductive form, but he does attempt to forestall this sort of criticism by adding, in rounding out Part 1, an additional claim for which he offers several lines of argument:
 

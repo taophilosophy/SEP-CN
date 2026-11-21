@@ -14,7 +14,7 @@ Consider the following pairs of properties. (As is common in the literature on t
 | being green | being *grue* (Goodman 1954)[^goodman-1954]: either green and observed before a certain time $t$ or blue and not observed before $t$. |
 | being natural numbers $x$, $y$, $z$ such that $z = x+y$. | being natural numbers $x$, $y$, $z$ such that $z = x$ *quus* $y$ (Kripke 1982)[^kripke-1982]: that is, either $z=x+y$ and $x+y\lt 57$, or $z=5$ and $x+y\ge 57$. |
 
-*Table 1.* Pairs of properties
+\*Table 1.\* Pairs of properties
 
 It is easy to get enough of a feel for what is going on in this table to the point where one could confidently say, for many other such pairs, which would be better to put in Column 1 and which in the Column 2. This article is concerned with a semi-technical use of the word ‘natural’ which can be illustrated by these examples: in each case, the property in the Column 1 is *more natural than* the corresponding property in the Column 2. This use has deep historical roots (see §2), but was cemented in a seminal paper by David Lewis (1983)[^lewis-1983], and has subsequently been taken up by many other authors.
 

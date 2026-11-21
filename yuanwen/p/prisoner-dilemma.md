@@ -63,7 +63,7 @@ If the game specifies absolute (as opposed to relative) payoffs, then universal 
 
 ![2 graphs of c's utilities vs r's utilities; both have the same points with solid lines from (C,D to (D,D) to, (D,C) and a dashed diagonal line from (D,C) to (C,D). The point (C,C) is above the dashed diagonal in the graph on the left and below the dashed diagonal in the graph on the right.](../assets/prisoner-dilemma/pureimpure.png)
 
-*Figure 1*
+\*Figure 1\*
 
 Here the $x$ and $y$ axes represent the utilities of Row and Column. The four outcomes entered in the matrix of the second section are represented by the labeled dots. Conditions PD3a and PD3b (see above) ensure that $(\bC,\bD)$ and $(\bD,\bC)$ lie northwest and southeast of $(\bD,\bD)$, and PD3c is reflected in the fact that $(\bC,\bC)$ lies northeast of $(\bD,\bD)$. Suppose first that $(\bD,\bD)$ and $(\bC,\bC)$ lie on opposite sides of the line between $(\bC,\bD)$ and $(\bD,\bC)$, as in the graph on the left. Then the four points form a convex quadrilateral, and the payoffs of the feasible outcomes of mixed strategies are represented by all the points on or within this quadrilateral. Of course a player can really only get one of four possible payoffs each time the game is played, but the points in the quadrilateral represent the *expected values* of the payoffs to the two players. If Row and Column cooperate with probabilities $p$ and $q$ (and defect with probabilities $p^*=1-p$ and $q^*=1-q$), for example, then the expected value of the payoff to Row is $p^*qT+pqR+p^*q^*P+pq^*S$. A rational self-interested player, according to a standard view, should prefer a higher expected payoff to a lower one. In the graph on the left the payoff for universal cooperation (with probability one) is pareto optimal among the payoffs for all mixed strategies. In the graph on the right, however, where both $(\bD, \bD)$ and $(\bC, \bC)$ lie southwest of the line between $(\bC, \bD)$ and $(\bD, \bC)$, the story is more complicated. Here the payoffs of the feasible outcome lie within a figure bounded on the northeast by three distinct curve segments, two linear and one concave. Notice that $(\bC, \bC)$ is now in the interior of the region bounded by solid lines, indicating that there are mixed strategies that provide both players a higher expected payoff than $(\bC, \bC)$. It is important to note that we are talking about independent mixed strategies here. Row and Column use private randomizing devices and have no communication. If they were able to correlate their mixed strategies, so as to ensure, say $(\bC, \bD)$ with probability $p$ and $(\bD, \bC)$ with probability $p^*$, the set of feasible solutions would extend up to (and include) the dotted line between $(\bC, \bD)$ and $(\bD, \bC)$. The point here is that, even confined to independent strategies, there are some games satisfying PD3 in which both players can both do better than they do with universal cooperation. A PD in which universal cooperation is pareto optimal may be called a pure PD. (This phenomenon is identified in Kuhn and Moresi and applied to moral philosophy in Kuhn 1996.)[^kuhn-1996] A pure PD is characterized by adding to PD3 the following condition.
 
@@ -115,7 +115,7 @@ One common view is that is that a multi-player PD structure is reflected in what
 
 ![Graph of an arbitrary player's payoff for cooperating (a line in red) and defecting (a line in black) versus the proportion of other players that cooperate. The lines are parallel with defect uniformly above cooperate. A dashed blue line goes from the beginning of the defect line up to the end of the cooperate line.](../assets/prisoner-dilemma/PublicGoods2.png)
 
-*Figure 2.* The Public Goods Game
+\*Figure 2.\* The Public Goods Game
 
 The $x$-axis represents the proportion of other players that cooperate and the $y$-axis shows the payoff to an arbitrary player $i$ for cooperating and defecting under those conditions. (The payoffs for universal defection and cooperation are the leftmost point on the upper curve and the rightmost point on the lower curve.) By representing these payoffs as continuous lines we are actually showing a limit of the games as the population gets larger. Under these conditions the change to $i$’s payoff when another player switches moves approaches zero, and what $i$ would have gotten with a different move is arbitrarily close to what those playing that move are getting under actual circumstances. Thus the points on the $y$-axis can also be read as representing the payoffs to cooperators and defectors under the conditions represented the $x$-axis. These assumptions must be dropped when the number of players is small. Since each additional cooperator brings $mE/n$ additional utility to both cooperators and defectors, the payoffs members of each group are represented by straight lines with slope $mE/n$. Since the defector keeps his endowment, his line lies $E$ units above the cooperators.
 
@@ -145,7 +145,7 @@ We may take the term *tragedy of the commons*, as suggested in Ostrom, Ostrom et
 
 ![Graph of an arbitrary player's payoff for cooperating (a line in red with that goes from the origin to only a tiny bit above the x-axis) and defecting (a sigmoid curve in black that curves sharply upwards midway across the x-axis and then levels out) versus the proportion of other players that cooperate. The dashed blue line stays between defect and cooperate, starting to curve up with defect before curving back down to match the end-point of the cooperate line.](../assets/prisoner-dilemma/tragedyCommons2.png)
 
-*Figure 3.* Tragedy of the Commons
+\*Figure 3.\* Tragedy of the Commons
 
 As depicted, the tragedy of the commons meets none of Molander’s conditions for the PD. It does, however, meet the following weaker conditions that characterize what we might call a *Mild PD*.
 
@@ -316,7 +316,7 @@ In deference to Hume, Skyrms and Vanderschraaf refer to this kind of asynchronou
 
 ![Tree diagram: root is a square with branches 'C' and 'D', two intermediate nodes are circles with branches 'C' and 'D'. Leaves are: 'R,R' for path 'C,C'; 'S,T' for path 'C,D'; 'T,S' for path 'D,C'; 'P,P' for path 'D,D'.](../assets/prisoner-dilemma/farmers.png)
 
-*Figure 6*
+\*Figure 6\*
 
 Here, time flows to the right. The node marked by a square indicates Player One’s choice point, those marked by circles indicate Player Two’s. The moves and the payoffs to each player are exactly as in the ordinary PD, but here Player Two can choose his move according to what Player One does. Tree diagrams like Figure 6 are said to be *extensive-form* game representations, whereas the payoff matrices given previously are *normal-form* representations. As Hume’s analysis indicates, making the game asynchronous does not remove the dilemma. Player One knows that if he were to choose $\bC$ on the first move, Player Two would choose $\bD$ on the second move (since she prefers the temptation to the reward), so he would himself end up with the sucker payoff. If Player One were to choose $\bD$, Player Two would still choose $\bD$ (since she prefers the punishment to the sucker payoff), and he would end up with the punishment payoff. Since he prefers the punishment payoff to the sucker payoff, Player One will choose $\bD$ on the first move and both players will end up with the punishment payoff. This kind of “backward” reasoning, in which the players first evaluate what would happen on the last move if various game histories were realized, and use this to determine what would happen on preceding moves, applies quite broadly to games in extensive form, and a more general version of it will be discussed under *finite iteration* below.
 
@@ -355,7 +355,7 @@ An IPD can be represented in extensive form by a tree diagram like the one for t
 
 ![Tree diagram with repeated 'C' and 'D' choices at each node; leaves are 2R,2R from path CCCC; R+S,R+T from CCCD; R+T,R+S from CCDC; R+P,R+P from CCDD; S+R,T+R from CDCC; 2S,2T from CDCD; S+T,T+S from CDDC; S+P,T+P from CDDD; T+R,S+R from DCCC; T+S,S+T from DCCD; 2T,2S from DCDC; T+P,S+P from DCDD; P+R,P+R from DDCC; P+S,P+T from DDCD; P+T,P+S from DDDC; 2P,2P from DDDD.](../assets/prisoner-dilemma/ipd.png)
 
-*Figure 7*
+\*Figure 7\*
 
 In Figure 7 we show an IPD of length two. The end of each of the two rounds of the game is marked by a dotted vertical line. The payoffs to each of the two players (obtained by adding their payoffs for the two rounds) are listed at the end of each path through the tree. The representation differs from the previous one in that the two nodes on each branch within the same division mark simultaneous choices by the two players. Since neither player knows the move of the other at the same round, the IPD does not qualify as one of the game theorist’s standard “games of perfect information.” If the players move in succession rather than simultaneously (which we might indicate by removing the dotted vertical lines), the resulting game is an iterated farmer’s dilemma, which does meet the game theorist’s definition and which shares many of the features that make the IPD interesting.
 
@@ -385,7 +385,7 @@ Many of the issues raised by the fixed-length IPD can be raised in even starker 
 
 ![Centipede diagram has root node with choice C and D; D leads to outcome (2,0); C continues the game; so CD leads to (1,2); CCD leads to (3,1); CCCD leads to (2,3); CCCC leads to (3,2).](../assets/prisoner-dilemma/centipede.svg)
 
-*Figure 8*
+\*Figure 8\*
 
 Presumably the true centipede would contain 100 “legs” and the general form discussed here should really be called the “$n$-tipede.” The game appears to be discussed first in Rosenthal.
 
@@ -479,7 +479,7 @@ Simulations in a universe of deterministic strategies yield results quite differ
 
 ![Two circles labelled 'C' and 'D', an arrow from C to D is labelled 'd'; an arrow from D to C is labelled 'd'; and arrow from 'C' to itself is labelled 'c'; and arrow from 'D' to itself is labelled 'c'.](../assets/prisoner-dilemma/moore.png)
 
-*Figure 9*
+\*Figure 9\*
 
 This machine has two states, indicated by circles. It begins in the leftmost state. The $\bC$ in the left circle means that the machine cooperates on the first move. The arrow leading from the left to the right circle indicates that machine defects (enters the $\bD$) after it has cooperated (been in the $\bC$ state) and its opponent has defected (the arrow is labeled by $d$). Linster has conducted simulations of evolutionary PD’s among the strategies that can be represented by two-state Moore machines. As it happens, these are exactly the deterministic versions of the $\bS$ strategies of Nowak and Sigmund. Since the strategies are deterministic, we must distinguish between the versions that cooperate on the first round and those that defect on the first round. Among the first round cooperators, $\bS(1,1,1,1), \bS(1,1,1,0), \bS(1,1,0,1)$ and $\bS(1,1,0,0)$ all represent the strategy $\bCu$ of unconditional cooperation. Similarly, four of the first-round defectors all represent $\bDu$. Each of the other $\bS(p_1, p_2, p_3, p_4)$, where $p_1,p_2,p_3,p_4$ are either zero or one represent unique strategies, and each comes in two varieties according to whether it cooperates or defects in round one. By deleting the six duplicates from these thirty-two deterministic versions of Nowak and Sigmund’s strategies, we obtain the twenty-six “two-state” strategies considered by Linster.
 

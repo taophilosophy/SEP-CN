@@ -321,7 +321,7 @@ My thanks to Paul Draper for very helpful comments on an earlier draft of this t
 
 [^james-1902]: –––, 1902, *The Varieties of Religious Experience: A Study in Human Nature*, London: Longmans, Green, and Co.
 
-[^jones-2000]: Jones, Lindsay, 2000, The Hermeneutics of Sacred Architecture: Experience, Interpretation, Comparison**,** Volume II: *Hermeneutical Calisthenics: A Morphology of Ritual-Architectural Priorities*, Cambridge, MA: Harvard University Press.
+[^jones-2000]: Jones, Lindsay, 2000, *The Hermeneutics of Sacred Architecture: Experience, Interpretation, Comparison**,*** Volume II: *Hermeneutical Calisthenics: A Morphology of Ritual-Architectural Priorities*, Cambridge, MA: Harvard University Press.
 
 [^katz-1978]: Katz, Steven, 1978, “Language, Epistemology and Mysticism,” in S. Katz (ed.), *Mysticism and Philosophical Analysis*, London: Sheldon Press, pp. 22–74.
 

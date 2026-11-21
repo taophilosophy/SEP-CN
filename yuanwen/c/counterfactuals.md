@@ -267,7 +267,7 @@ Figure 1 illustrates this semantics. In this minimal model, $A \strictif C$ is t
 
 ![A model illustrating the strict conditional analysis. There are four worlds: w, v, u, and s. World w can access worlds v, u, and s. Worlds v and u satisfy A, while worlds v, u, and s satisfy C.](../assets/counterfactuals/fig-strict.svg)
 
-*Figure 1:* A model illustrating the strict conditional analysis. An arrow from $x$ to $y$ means $y$ is accessible from $x$, i.e., $xRy$.
+\*Figure 1:\* A model illustrating the strict conditional analysis. An arrow from $x$ to $y$ means $y$ is accessible from $x$, i.e., $xRy$.
 
 The logic of strict conditionals we obtain from this semantics depends on the constraints we place on accessibility. See the entry on the [logic of conditionals](https://plato.stanford.edu/entries/logic-conditionals).
 
@@ -401,7 +401,7 @@ Talk of worlds being “close” or “far” is metaphorical. What does it actu
 
 ![A model illustrating similarity consisting of nested rings. At the center is world w (the actual world). There is a small ring of worlds v1 and v2 around w, which are the next closest worlds. There is a slightly bigger ring of worlds u1, u2, and u3 surrounding these, which are further away, and a further ring of worlds z1, z2, z3, and z4.](../assets/counterfactuals/fig-sphere.svg)
 
-*Figure 2:* A similarity model. Worlds on the same ring are equally close to the center $w$.
+\*Figure 2:\* A similarity model. Worlds on the same ring are equally close to the center $w$.
 
 We can represent this idea more precisely using **world-orderings**. The idea is that each world $w$ is associated with an ordering relation $\leq_w$ over the set of its accessible worlds $R(w)$, which we can think of as the “outermost” sphere. Here is a quick translation key:
 
@@ -434,7 +434,7 @@ Figure 3 illustrates the ordering semantics. In this model, $A \gt C$ is true at
 
 ![A model of the ordering semantics. The center is world w. The closest worlds to w are C-worlds but not A-worlds. Further away are worlds that are both A-worlds and C-worlds. Further away still are worlds that are A-worlds but not C-worlds.](../assets/counterfactuals/fig-order.svg)
 
-*Figure 3:* A model of $A \gt C$ in the ordering semantics.
+\*Figure 3:\* A model of $A \gt C$ in the ordering semantics.
 
 None of the counterfactual fallacies hold for variably strict conditionals. The reason is simple: generally, the stronger an antecedent is, the further away one must go to find a world where that antecedent is true.
 
@@ -442,7 +442,7 @@ Figure 4 depicts a simple ordering model where Antecedent Strengthening fails. I
 
 ![A counterexample of the counterfactual fallacies. The center world is w. The closest worlds to w are C-worlds, but not A or B-worlds. The next closest worlds are A and C-worlds, but not B-worlds. The furthest worlds are A and B-worlds but not C-worlds.](../assets/counterfactuals/fig-fallacies.svg)
 
-*Figure 4:* Counterexample to the counterfactual fallacies. For instance, the closest $A$-worlds, $u_1$ and $u_3$, are all $C$-worlds, but the closets $A \wedge B$-worlds, $z_1$ and $z_4$, are not $C$-worlds.
+\*Figure 4:\* Counterexample to the counterfactual fallacies. For instance, the closest $A$-worlds, $u_1$ and $u_3$, are all $C$-worlds, but the closets $A \wedge B$-worlds, $z_1$ and $z_4$, are not $C$-worlds.
 
 As for Heim sequences (section 4.2), various authors have proposed variably strict explanations of their infelicity, all of which appeal to some form of context-shifting (Moss 2012,; Starr 2014a; K. Lewis 2018; Boylan and Schultheis 2021; Schultheis 2025)[^boylan-2021][^lewis-2018][^moss-2012][^schultheis-2025][^starr-2014a]. Whether these explanations are adequate, or better than rival strict accounts, is a live debate.
 
@@ -565,7 +565,7 @@ Structural equation models are models of relations of conditional dependence, wh
 
 ![A structural equation model with 8 variables: A, B, C, D, E, F, G, and H. Nodes A and B determine the value of C to be the conjunction of A and B. C determines the value of: E to be the same as C, but D to be the negation of C. Node E determines the value of G to be the same as E; D determines F to be the negation of D; and F and G determine the value of H to be the disjunction of F and G.](../assets/counterfactuals/fig-sem.svg)
 
-*Figure 5:* A structural equation model.
+\*Figure 5:\* A structural equation model.
 
 To check whether a counterfactual is true in a structural equation model, one performs an **intervention** on the model to ensure the antecedent holds. To do this, one first “surgically” removes all arrows leading into the variables that correspond to the antecedent. One then resets the values of those variables to make the antecedent true. Finally, one updates the values of subsequent “descendant” variables that depend on the antecedent variables according to the remaining structural equations. So in the example above, $E \gt H$ is true: if we intervene to ensure $E$ is true (removing the arrow from $C$ to $E$ and changing the values of $E$ and its descendants accordingly), then $H$ is true. (Compare Lewis’s 1979 System of Weights.) More generally:
 

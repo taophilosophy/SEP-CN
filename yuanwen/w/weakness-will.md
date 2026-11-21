@@ -121,7 +121,7 @@ This PF judgment is more *comprehensive* than the ones we attributed to Julie a 
 
 We thus need to generalize our schema for PF judgments so that comparative assessments of *a* and *b* can be relativized, not just to a single consideration, but to multiple considerations taken together or as a body:
 
-> PF*ₙ*: In light of ⟨*r*₁, …, *rₙ*⟩, *a* is *prima facie* better than *b*.
+> **PF*ₙ***: In light of ⟨*r*₁, …, *rₙ*⟩, *a* is *prima facie* better than *b*.
 
 Notice that PF*ₙ* judgments are still relational in form: they assert that a relation (the “favoring” relation) holds between the *set* of considerations ⟨*r*₁, …, *rₙ*⟩ and *a* (or *b*). Indeed, the relational character of a PF*ₙ* judgment remains even if we make it as comprehensive as we can: if we expand the set ⟨*r*₁, …, *rₙ*⟩ to incorporate *all* the considerations the agent deems relevant to her decision. Following Davidson (p. 38), let us give the label *e* to that set. So even the following judgment:
 

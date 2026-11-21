@@ -364,7 +364,7 @@ Third, and finally, the UN Commission did seem to testify that *p*, i.e., their 
 
 Cases like this give rise to at least five important questions. First, consider
 
-> How should we understand the relationship between a group’s testimony that *p* and the testimony of the group’s individual members?
+> *How should we understand the relationship between a group’s testimony that p and the testimony of the group’s individual members?*
 
 On the one hand, *Summativists* maintain that a group’s testimony that *p* should be understood in terms of the testimony of some (or most, or all) of its members. On the other hand, *Non-Summativists* maintain that it is possible for a group to testify that *p* even if none of its members do. (See Tollefsen (2007)[^tollefsen-2007] and Lackey (2014)[^lackey-2014] for a defense of different Non-Summative positions).
 
@@ -372,13 +372,13 @@ Relatedly, *Deflationists* maintain to a group’s testimony that *p* can be red
 
 Second, consider
 
-> Under what conditions is a hearer justified in believing a group’s testimony that *p*?
+> *Under what conditions is a hearer justified in believing a group’s testimony that p?*
 
 The debate surrounding this question is analogous to the Reductionist/Anti-reductionist debate about individual testimony in Section 1. See Tollefsen (2007)[^tollefsen-2007] for a defense of a reductionist view.
 
 Third, consider
 
-> If you are justified in believing that *p* on the basis of a group’s testimony, is your belief justified by evidence?
+> *If you are justified in believing that p on the basis of a group’s testimony, is your belief justified by evidence?*
 
 The debate surrounding this question is analogous to the debates about individual testimony discussed in Section 3. For instance, suppose that you are justified in believing that *p* on the basis of a group’s testimony that *p*. Miranda Fricker (2012)[^fricker-2012] defends an Assurance View according to which your belief is justified by the group’s assurance that *p* (but see Faulkner (2018)[^faulkner-2018] for a criticism of this view). Lackey (2014)[^lackey-2014] defends a reliabilist account according to which your belief is justified by the reliability (or truth conduciveness) of the group’s statement that *p* (but see Faulkner (2018)[^faulkner-2018] for a criticism of this view too). Finally, Faulkner (2018)[^faulkner-2018] defends a qualified Inheritance View according to which your belief that *p* can be justified by the justification that the group has (or at least *has access to*).
 
@@ -390,7 +390,7 @@ The debate surrounding this question is analogous to the debates about individua
 
 Fifth, and finally, consider,
 
-> What, if anything, does a group’s testimony that *p* entail about that group’s knowledge (and thus belief) that *p*?
+> *What, if anything, does a group’s testimony that p entail about that group’s knowledge (and thus belief) that p?*
 
 More specifically, suppose that a group testifies that *p* and that you come to know that *p* on this basis. Does the fact that you acquired testimonial knowledge in this case entail that groups themselves can be knowers (and thus believers)?
 
@@ -475,9 +475,9 @@ I am grateful to Jennifer Lackey and Sandy Goldberg for some *very* helpful feed
 
 [^note-6]: There are two things worth mentioning here. First, some proponents of the Transmission View argue that TV-N should be replaced with
 
-> TV-N*: For every testimonial chain, *A*1…, *A*n, speaker *A*n, and hearer *B*, *B* knows that *p* on the basis of An’s testimony only if the first speaker in the chain, *A*1, knows that *p* in some non-testimonial way. (See Dummett (1994)[^dummett-1994], Faulkner (2000)[^faulkner-2000], E. Fricker (2006a, 2006b)[^fricker-2006a][^fricker-2006b], and Burge (2013)[^burge-2013] for this view).
+> **TV-N\***: For every testimonial chain, *A*1…, *A*n, speaker *A*n, and hearer *B*, *B* knows that *p* on the basis of An’s testimony only if the first speaker in the chain, *A*1, knows that *p* in some non-testimonial way. (See Dummett (1994)[^dummett-1994], Faulkner (2000)[^faulkner-2000], E. Fricker (2006a, 2006b)[^fricker-2006a][^fricker-2006b], and Burge (2013)[^burge-2013] for this view).
 
-TV-N* avoids the problem posed by the creationist teacher case discussed above, since even if Stella does not know that p, presumably the evolutionary biologists who wrote the books that Stella read do. However, Lackey (1999, 2008)[^lackey-1999][^lackey-2008], Graham (2006b)[^graham-2006b] and Carter and Nickel (2014) offer objections to TV-N* on the grounds that there are cases in which a hearer can acquire testimonial knowledge that *p* even if the first person in the testimonial chain lacks the knowledge in question.
+TV-N\* avoids the problem posed by the creationist teacher case discussed above, since even if Stella does not know that p, presumably the evolutionary biologists who wrote the books that Stella read do. However, Lackey (1999, 2008)[^lackey-1999][^lackey-2008], Graham (2006b)[^graham-2006b] and Carter and Nickel (2014) offer objections to TV-N\* on the grounds that there are cases in which a hearer can acquire testimonial knowledge that *p* even if the first person in the testimonial chain lacks the knowledge in question.
 
 Second, all of these school teacher cases involve a speaker who is being insincere, i.e., they are saying something that they either don’t believe, or else lack justification for believing. For a recent discussion of the important role that sincerity plays in the Transmission View, see Wright (2019)[^wright-2019].
 

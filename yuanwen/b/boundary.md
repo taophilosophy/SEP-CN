@@ -595,9 +595,9 @@ Many thanks to the editors and to Roberto Casati, Dan Fass, Gottfried Heinemann,
 
 [^clay-2017]: Clay, R. E., 2017, ‘Note on the Geometry of Solids’, *Logique et Analyse*, 60: 449–463.
 
-[^clementini-2014]: Clementini, E., and Cohn, A. G., 2014, ‘RCC*-9 and CBM*’, in M. Duckham *et al.* (eds.), *Geographic Information Science. Proceedings of the 8th International Conference*, Cham: Springer, pp. 349–365.
+[^clementini-2014]: Clementini, E., and Cohn, A. G., 2014, ‘RCC\*-9 and CBM\*’, in M. Duckham *et al.* (eds.), *Geographic Information Science. Proceedings of the 8th International Conference*, Cham: Springer, pp. 349–365.
 
-[^clementini-2024]: Clementini, E., and Cohn, A. G., 2024, ‘Extension of RCC*-9 to Complex and Three-Dimensional Features and Its Reasoning System’, *ISPRS International Journal of Geo-Information*, 13(25): 1–29.
+[^clementini-2024]: Clementini, E., and Cohn, A. G., 2024, ‘Extension of RCC\*-9 to Complex and Three-Dimensional Features and Its Reasoning System’, *ISPRS International Journal of Geo-Information*, 13(25): 1–29.
 
 [^cohn-1996]: Cohn, A. G., and Gotts, N. M., 1996, ‘The “Egg-Yolk” Representation of Regions with Indeterminate Boundaries’, in P. A. Burrough and A. U. Frank (eds.), *Geographic Objects with Indeterminate Boundaries*, London: Taylor & Francis, pp. 171–187.
 

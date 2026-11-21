@@ -112,15 +112,15 @@ Six questions were posed and answered by Boole, the first two being:
 
 2. “What is the expression for $s$ in terms of $w, p$ and $t$ after eliminating $r$?” [*LT* pp. 107–110]
 
-Boole answered these two as follows, where intermediate steps that Boole skipped over have been added — an asterisk (*) follows each equation that is stated exactly as in *LT*:
+Boole answered these two as follows, where intermediate steps that Boole skipped over have been added — an asterisk (\*) follows each equation that is stated exactly as in *LT*:
 
-| 1. | $w - st (p + r- rp ) = 0$ | (*) write premiss as: *something* $ = 0$ |
+| 1. | $w - st (p + r- rp ) = 0$ | (\*) write premiss as: *something* $ = 0$ |
 | --- | --- | --- |
-| 2. | $(w - st ) (w - stp ) = 0$ | (*) eliminate $r$ in 1 |
+| 2. | $(w - st ) (w - stp ) = 0$ | (\*) eliminate $r$ in 1 |
 | 3. | $w^2 - wstp -stw + s^2 t^2 p = 0$ | Multiply out 2 |
-| 4. | $w - wstp - wst + stp = 0$ | (*) Simplify 3 |
-| 5. | $(1 - st)w + pst(1-w) = 0$ | (*) expand 4 with respect to $w$ |
-| 6. | $(1 - st)w = 0$, and $pst(1-w) = 0$ | (*) terms in 5 are disjoint |
+| 4. | $w - wstp - wst + stp = 0$ | (\*) Simplify 3 |
+| 5. | $(1 - st)w + pst(1-w) = 0$ | (\*) expand 4 with respect to $w$ |
+| 6. | $(1 - st)w = 0$, and $pst(1-w) = 0$ | (\*) terms in 5 are disjoint |
 
 Boole translated 6 as:
 
@@ -134,9 +134,9 @@ Boole translated 8 as:
 
 > Wealth consists of all things limited in supply, transferable, and productive of pleasure, and an indefinite remainder of things limited in supply, transferable, and not productive of pleasure.
 
-| 9. | $s = w/(wt + wtp - tp) =$ $wtp + wt(1- p)\ +$ $(1/0)w(1-t)p\ +$ $(1/0)w(1- t)(1- p)\ +$ $0(1-w)tp\ +$ $(0/0)(1- w)t(1-p)\ +$ $(0/0)(1-w)(1-t)p\ +$ $(0/0)(1-w)(1-t)(1-p)$ | (*) finish division process |
+| 9. | $s = w/(wt + wtp - tp) =$ $wtp + wt(1- p)\ +$ $(1/0)w(1-t)p\ +$ $(1/0)w(1- t)(1- p)\ +$ $0(1-w)tp\ +$ $(0/0)(1- w)t(1-p)\ +$ $(0/0)(1-w)(1-t)p\ +$ $(0/0)(1-w)(1-t)(1-p)$ | (\*) finish division process |
 | --- | --- | --- |
-|   | $0 = w(1-t)p$ $0 = w(1-t)(1-p)$ | (*) 2 side conditions |
+|   | $0 = w(1-t)p$ $0 = w(1-t)(1-p)$ | (\*) 2 side conditions |
 
 Boole translated the expression for $s$ and the two side conditions of 9 as:
 

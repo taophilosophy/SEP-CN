@@ -75,11 +75,11 @@ John saw Bill on the lawn/in the room.
 
 **(7)**
 
-*John saw Bill intelligent/tall/a mammal/male.
+\*John saw Bill intelligent/tall/a mammal/male.
 
 **(8)**
 
-*John saw Bill knowing French/hating Bob.
+\*John saw Bill knowing French/hating Bob.
 
 There-insertion constructions behave similarly:
 
@@ -97,11 +97,11 @@ There are men on the lawn/in the room.
 
 **(12)**
 
-*There are men intelligent/tall/mammals/male.
+\*There are men intelligent/tall/mammals/male.
 
 **(13)**
 
-*There are men knowing French/hating Bob.
+\*There are men knowing French/hating Bob.
 
 Stage level predicates can be modified by locatives, while individual level ones cannot:
 
@@ -111,11 +111,11 @@ John is drunk/speaking French/smoking in 1879 Hall.
 
 **(15)**
 
-*John is a mammal/intelligent/male in 1879 Hall.
+\*John is a mammal/intelligent/male in 1879 Hall.
 
 **(16)**
 
-*John knows French/hates Bob in 1879 Hall.
+\*John knows French/hates Bob in 1879 Hall.
 
 Carlson noted the difference in syntactic behavior between individual and stage level predicates, and proposed that the distinction between the classes of predicates underlies the distinction between existential and generic readings of bare plurals:
 
@@ -157,11 +157,11 @@ A famous semanticist sings German arias in the shower.
 
 **(25)**
 
-Tall, left-handed, brown-haired neurologists from France earn more than $150,000 a year.
+Tall, left-handed, brown-haired neurologists from France earn more than \$150,000 a year.
 
 **(26)**
 
-A tall, left-handed, brown-haired neurologist from France earns more than $150,000 a year.
+A tall, left-handed, brown-haired neurologist from France earns more than \$150,000 a year.
 
 The contrast between stage level and individual level predicates would thus seem to be insufficient to explain the availability of the generic interpretation of indefinite singular statements.
 
@@ -359,7 +359,7 @@ But not (38):
 
 **(38)**
 
-*A madrigal is popular
+\*A madrigal is popular
 
 (Notice, however, that the plural version of (38) “madrigals are popular” is perfectly felicitous (though perhaps false, unfortunately).)
 
@@ -383,7 +383,7 @@ The coke bottle has a narrow neck
 
 **(40)**
 
-*The green bottle has a narrow neck
+\*The green bottle has a narrow neck
 
 What does it take to be a well-established kind? Krifka et al. suggest that almost anything can become a well-established kind given an appropriate body of background knowledge. For example, suppose it is well known that green bottles preserve the effectiveness of certain life-saving antibiotics. In this context, a definite singular generic like “The green bottle saves lives” might be true.
 
@@ -455,7 +455,7 @@ These findings suggest that generic language has an undesirable influence on how
 
 ### 5.2 Generics and Philosophy More Generally
 
-Some philosophers have recently applied the study of generics to a range of long-standing philosophical issues and puzzles. As a fascinating illustration, Roy Sorensen (2012)[^sorensen-2012] argues that a proper understanding of generics can solve the sorites paradox. An example of the sorites paradox is the following: *1 is a small number; small numbers have small successors; therefore 1,000,000,000 is a small number*. The second premise is the inductive step, and is here formulated as a generic. Sorensen proposes that, like most generics, the inductive step admits of exceptions: there are some (or at least one) small numbers whose successor is not itself a small number. If this is so, then the paradox is resolved: the argument is simply invalid. In order for the argument to be valid, the inductive step cannot be an exception-tolerating generic, but rather an exceptionless universal, e.g., for all *n*, if *n* is a small number, so is $n+1$. Indeed, the paradox is often formulated in this way—i.e., with a universal as the inductive step. Here, however, Sorensen argues that we are simply interpreting the universal as a generic, just as when adults accept “all ducks lay eggs” despite knowing that male ducks do not lay eggs (Leslie et al. 2011)[^leslie-2011].
+Some philosophers have recently applied the study of generics to a range of long-standing philosophical issues and puzzles. As a fascinating illustration, Roy Sorensen (2012)[^sorensen-2012] argues that a proper understanding of generics can solve the sorites paradox. An example of the sorites paradox is the following: *1 is a small number; small numbers have small successors; therefore 1,000,000,000 is a small number*. The second premise is the inductive step, and is here formulated as a generic. Sorensen proposes that, like most generics, the inductive step admits of exceptions: there are some (or at least one) small numbers whose successor is not itself a small number. If this is so, then the paradox is resolved: the argument is simply invalid. In order for the argument to be valid, the inductive step cannot be an exception-tolerating generic, but rather an exceptionless universal, e.g., *for all n, if n is a small number, so is $n+1$*. Indeed, the paradox is often formulated in this way—i.e., with a universal as the inductive step. Here, however, Sorensen argues that we are simply interpreting the universal as a generic, just as when adults accept “all ducks lay eggs” despite knowing that male ducks do not lay eggs (Leslie et al. 2011)[^leslie-2011].
 
 A similar strategy is applied by Mahrad Almotahari (2022)[^almotahari-2022] to the *kalām* cosmological argument: *Everything that begins to exist has a cause for its existence; the universe began to exist; therefore the universe has a cause for its existence.* Almotahari argues that acceptance of the first premise of the argument rests on the generic overgeneralization effect. Certainly, anything that we encounter in ordinary life that begins to exist has a cause, and it is entirely reasonable to accept the corresponding generic *things that begin to exist have causes for their existence.* But the *kalām* cosmological argument requires a universal generalization, not a generic one, and Almotahari argues that this is a step to which we are not entitled.
 

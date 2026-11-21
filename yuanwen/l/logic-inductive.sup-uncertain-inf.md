@@ -10,7 +10,7 @@ The following figure indicates a relationship among six of the most prominent ap
 
 ![Figure 1](../assets/logic-inductive/fig1.svg)
 
-*Representations of Uncertainty*
+\*Representations of Uncertainty\*
 
 These representations are often described as measures on events, or states, or propositions, or sets of possibilities. But deductive logics are usually described in terms of statements or sentences of a language. So let’s follow suit throughout this discussion.
 
@@ -30,14 +30,14 @@ See Halpern 2003 for a good comparative treatment of all of these approaches.
 
 Here are the axioms for the *Plausibility Relations* and the *Qualitative Probability Relations*. We may specify them in terms of a formal language $L$ for either sentential logic or for predicate logic. In this formal language we employ the following expressions to represent the standard logical terms: ‘not’, ‘${\neg}$’; ‘and’, ‘$\cdot$’; ‘or’, ‘$\vee$’. We represent the standard *logical entailment* relation with the symbol ‘$\vDash$’—i.e., the expression ‘$B \vDash A$’ says “*B logically entails A*” and the expression ‘$\vDash A$’ says “$A$ is a tautology”.
 
-Axioms for the *Plausibility Relations* Each *plausibility relation* $\succcurlyeq$ satisfies the following axioms:
+**Axioms for the *Plausibility Relations*** Each *plausibility relation* $\succcurlyeq$ satisfies the following axioms:
 
 1. if $\vDash A$, then *not* ${\neg}A \succcurlyeq A$;
 2. if $B \vDash A$, then $A \succcurlyeq B$;
 3. if $A \vDash B$ and $B \vDash A$ (i.e., if $A$ is logically equivalent to $B$), then: (1) if $A \succcurlyeq C$, then $B \succcurlyeq C$; and (2) if $D \succcurlyeq A$, then $D \succcurlyeq B$;
 4. if $A \succcurlyeq B$ and $B \succcurlyeq C$, then $A \succcurlyeq C$.
 
-Axioms for the *Qualitative Probability Relations* To get the *qualitative probability relations* we add the axioms
+**Axioms for the *Qualitative Probability Relations*** To get the *qualitative probability relations* we add the axioms
 
 1. if $\vDash{\neg}(A\cdot C)$ and $\vDash{\neg}(B\cdot C)$, then $A \succcurlyeq B$ if and only if $(A \vee C) \succcurlyeq(B \vee C)$.
 2. $A \succcurlyeq B$ or $B \succcurlyeq$ A;

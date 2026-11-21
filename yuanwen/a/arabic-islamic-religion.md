@@ -62,8 +62,8 @@ Ironically, the philosopher Ibn Rushd, who was a critic of Ghazālī, shared a s
 
 The issue is how to determine which Qur’anic passages and prophetic statements must be taken literally and which ones metaphorically. Ibn Rushd’s view concerning theoretical matters treated in religion, though not in practical and ethical issues, is that there simply is no consensus (*ijmāʿ*). Muslim scholars, for Ibn Rushd, simply do not universally agree as to which scriptures and traditions must be taken literally and which can be taken metaphorically. Hence, there is no religious basis for precluding metaphorical interpretation of any text or prophetic saying treating theoretical issues whose apparent meaning conflicts with a demonstration. The only obligation on the religious scholar is that he must not share metaphorical interpretations of sacred sources with those who are incapable of grasping a demonstration. The greatest proponent of Islamic philosophical mysticism, Ibn ʿArabī (d. 1240), also shared this inclusive view of scripture’s intended meaning. For him, every word, verse and chapter of the Qur’an have an indefinite number of senses and interpretations, and God intended all of them. Thus, in the *Meccan Revelations*, he writes,
 
-> When a meaning repeats itself for someone who is reciting the Qur’an, he has not recited it as it should be. This is proof of his ignorance. (cited in Chittick 2005: 18 = (Ibn al-ʿArabī *al-Futūḥāt
-> al-Makkiyya* (a), IV, 367.3)
+> When a meaning repeats itself for someone who is reciting the Qur’an, he has not recited it as it should be. This is proof of his ignorance. (cited in Chittick 2005: 18 = (Ibn al-ʿArabī al-Futūḥāt
+> al-Makkiyya (a), IV, 367.3)
 
 ### 1.3 Conflicts between religious teachings and science/philosophy
 
@@ -134,7 +134,7 @@ We have seen Ibn Sīnā’s proof for the existence of the Necessary Existent th
 
 One of the divine attributes is knowledge. In human intellects, knowledge occurs when we interact with an already existing world, and the things in the world in some way act upon our intellects so that our potential to understand is realized and our intellect in a sense receives some concept that it previously did not have. For numerous reasons such an account of intellect cannot apply to the deity. First, God is free of potentiality, inasmuch as potentiality refers to something possible or contingent, and God as the Necessary Existent in itself is outside of the whole of possible existents. Second, if God were to receive anything, there would be both that which is received and what receives, and so God would be composite, which is impossible given Ibn Sīnā’s doctrine of divine simplicity. Faced with these issues Ibn Sīnā introduces a different model of divine knowledge, which additionally explains God’s creative act.
 
-According to Ibn Sīnā’s model, what God knows directly and primarily is the divine self. Because God is perfect, and indeed above perfection, God must know himself perfectly. In that case, he must know that he is the ultimate cause and grounds of all existence, but in order to know a cause perfectly, one must likewise know the effect of that cause perfectly, which just is the cosmos in this case. Unlike with human knowledge, where our knowledge of a thing, *x*, is in some way *caused by* *x*’s existence, in divine knowledge God’s knowledge of *x* causes *x* to exist. In other words, there emanates from God’s self-knowledge the very existence of the cosmos, which Ibn Sīnā identifies with the order of the good. Since God existed infinitely into the past and will exist infinitely into the future and is always self-knowing, the emanation of the cosmos must likewise have existed infinitely into the past and will continue infinitely into the future.
+According to Ibn Sīnā’s model, what God knows directly and primarily is the divine self. Because God is perfect, and indeed above perfection, God must know himself perfectly. In that case, he must know that he is the ultimate cause and grounds of all existence, but in order to know a cause perfectly, one must likewise know the effect of that cause perfectly, which just is the cosmos in this case. Unlike with human knowledge, where our knowledge of a thing, *x*, is in some way *caused by* *x*’s existence, in divine knowledge God’s knowledge of *x causes x* to exist. In other words, there emanates from God’s self-knowledge the very existence of the cosmos, which Ibn Sīnā identifies with the order of the good. Since God existed infinitely into the past and will exist infinitely into the future and is always self-knowing, the emanation of the cosmos must likewise have existed infinitely into the past and will continue infinitely into the future.
 
 Not merely does Ibn Sīnā think that God must create eternally, he also thinks it is all but heresy (*ilḥād*) to claim that God started to create at some first moment in the finite past (Avicenna PhysH: 3.11 [9]). That is because if God were not creating the cosmos eternally, there would be some time when the divinity is not willing the creation of the world and some time when it is willing the creation of the world. Consequently, there would be a change in the divine will, and so God would have changed. Whatever is subject to change, Ibn Sīnā continues, must be composite in some way, for there is that which perdures throughout the change and that which is either lost or comes to be. The idea of temporal creation is thus incompatible with divine simplicity, and to adopt it is for Ibn Sīnā is to forgo the doctrine of God’s oneness/uniqueness (*tawḥīd*), which is central to Islam.
 
@@ -368,7 +368,7 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 
 [^at-1951]: [AT], *Avicenna on Theology*, Arthur J. Arberry (trans.), Westpoint, CT: Hyperion Press, 1951.
 
-[^da-1959]: [DA], Avicenna’s De Anima (Arabic Text), Being the Psychological Part of the Kitāb al-Shifāʾ, Fazlur Rahman (ed.), London: Oxford University Press, 1959.
+[^da-1959]: [DA], *Avicenna’s De Anima (Arabic Text), Being the Psychological Part of the Kitāb al-Shifāʾ*, Fazlur Rahman (ed.), London: Oxford University Press, 1959.
 
 [^najāt-1985]: [*al-Najāt*], *Kitāb al-Najāt fī l-ḥikma al-manṭiqiyya wa-l-ṭabīʿiyya wa-al-Ilāhiyya*, Majid Fakhry (ed.), Beirut: Dār al-Āfāqi l-Jadīda, 1985.
 
@@ -376,9 +376,9 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 
 [^itn2-1996]: [ITN2], *Ibn Sina and Mysticism: Remarks and Admonitions, Part Four* (= *al-Ishārāt wa-l-tanbīhāt, nimāṭ* 8–10), Shams Inati (trans.), London & New York: Kegan Paul International, 1996.
 
-[^metah-2005]: [MetaH] The Metaphysics of The Healing, Michael E. Marmura (ed./trans.), Provo, Utah: Brigham Young University Press, 2005.
+[^metah-2005]: [MetaH] *The Metaphysics of The Healing*, Michael E. Marmura (ed./trans.), Provo, Utah: Brigham Young University Press, 2005.
 
-[^physh-2009]: [PhysH], The Physics of The Healing, Jon McGinnis (ed./trans.), Provo, Utah: Brigham Young University Press, 2009.
+[^physh-2009]: [PhysH], *The Physics of The Healing*, Jon McGinnis (ed./trans.), Provo, Utah: Brigham Young University Press, 2009.
 
 [^bāqillānī-nd]: Bāqillānī, Muḥammad ibn al-Ṭayyib (d. 1013)
 
@@ -402,7 +402,7 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 
 [^munqidh-1969]: [*al-Munqidh*], *al-Munqidh min ḍalāl (Erreuer et Délivrance)*, Farid Jabre (ed./trans.), Beirut: Libraire Orientale B.P., 1969.
 
-[^deliverance-1980]: [*Deliverance*], Deliverance from Error: An Annotated Translation of al-Munqidh min al-Ḍalāl and Other Relevant Works of Ghazālī, Richard J. McCarthy (trans.), Louisville, KY: Fons Vitae, 1980.
+[^deliverance-1980]: [*Deliverance*], *Deliverance from Error: An Annotated Translation of al-Munqidh min al-Ḍalāl and Other Relevant Works of Ghazālī*, Richard J. McCarthy (trans.), Louisville, KY: Fons Vitae, 1980.
 
 [^incoherence-2000]: [*Incoherence*], *The Incoherence of the Philosophers*, Michael E. Marmura (ed./trans.), Provo: Brigham Young University Press, 2000.
 
@@ -410,7 +410,7 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 
 [^return-2008]: *A Return to Purity in Creed*, ʿAbduhhāh bin Ḥamīd ʿAlī (trans.), Philadelphia, PA: Lamp Post Productions, 2008.
 
-[^moderation-2013]: [*Moderation*], Ghazālī’s Moderation in Belief, Aladdin M. Yaqub (trans.), Chicago & London: Chicago University Press, 2013.
+[^moderation-2013]: [*Moderation*], *Ghazālī’s Moderation in Belief*, Aladdin M. Yaqub (trans.), Chicago & London: Chicago University Press, 2013.
 
 [^forty-2016]: [*Forty Principles*], *Al-Ghazālī’s Forty Principles of the Religion* (*al-Arbaʿin fī Uṣūl al-Dīn*), Nasir Abdussalam (trans.), London: Turath Publishing, 2016.
 
@@ -446,7 +446,7 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 
 [^decisive-2001]: [*Decisive*], *Decisive Treatise & Epistle Dedicatory*, Charles E. Butterworth (ed./trans.), Provo, Utah: Brigham Young University Press, 2001.
 
-[^expositions-2001]: [*Expositions*], Faith and Reason in Islam: Averroes’ Exposition of Religious Arguments, Ibrahim Y. Najjar (trans.), Oxford: Oneworld Publication, 2001.
+[^expositions-2001]: [*Expositions*], *Faith and Reason in Islam: Averroes’ Exposition of Religious Arguments*, Ibrahim Y. Najjar (trans.), Oxford: Oneworld Publication, 2001.
 
 [^ibn-nd-7]: Ibn Ṭufayl (d. 1185)
 

@@ -344,7 +344,7 @@ Albert the Great [= Albertus Magnus] | Bruno, Giordano | Eriugena, John Scottus 
 
 [^counet-2021]: ––– (ed.), 2021. *Mathématiques et métaphysique dans la pensée de Nicolas de Cues: Actes du Colloque de Nice (sept. 2017) de la Société française Cusanus*, *Philosophes médiévaux*, Tome LXIX; Louvain-la-neuve, Peeters.
 
-[^counet-2021-2]: –––, (ed.), 2021. *Esse est movere**:* *Regards croisés sur l’ontologie dynamique de Nicolas de Cues* (Philosophes médiévaux 71), Louvain-la-neuve: Peeters.
+[^counet-2021-2]: –––, (ed.), 2021. *Esse est movere:* *Regards croisés sur l’ontologie dynamique de Nicolas de Cues* (Philosophes médiévaux 71), Louvain-la-neuve: Peeters.
 
 [^cranz-2000]: Cranz, F. E., 2000. *Nicholas of Cusa and the Renaissance*, T. Izbicki and G. Christianson (eds.), Aldershot: Ashgate.
 

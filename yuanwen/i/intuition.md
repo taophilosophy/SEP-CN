@@ -339,11 +339,11 @@ However, even those who reject [P1] typically allow that good reason to think a 
 
 *The Argument from Unreliability—Second Version*
 
-[P1*]
+[P1\*]
 
 One is justified in believing on the (sole) basis of a putative source of evidence only if one lacks (undefeated) reason to think it unreliable.
 
-[P2*]
+[P2\*]
 
 We have (undefeated) reasons to think intuitions (or intuitions of type *T*) unreliable.
 
@@ -351,7 +351,7 @@ We have (undefeated) reasons to think intuitions (or intuitions of type *T*) unr
 
 Hence, beliefs based (solely) on intuitions (or intuitions of type *T*) are not justified.
 
-As the defense of [P1] or [P1*] requires appeal to epistemic intuitions, any attempt to justify by such means a skeptical conclusion regarding all intuitions, all epistemic intuitions or even all normative intuitions, would fail to observe the non-self-undermining constraint.
+As the defense of [P1] or [P1\*] requires appeal to epistemic intuitions, any attempt to justify by such means a skeptical conclusion regarding all intuitions, all epistemic intuitions or even all normative intuitions, would fail to observe the non-self-undermining constraint.
 
 Still, it is worth considering the possible ways of attempting to justify skeptical arguments *of a more limited sort* by arguing that intuitions of some sort (which does not include epistemic intuitions or at least the epistemic intuitions of the sort needed to justify the premises) are unreliable. Given that the relevant non-normative premise must claim that intuitions of the sort at issue are more frequently false than true (or equally likely to be false as to be true) it seems to require an inductive justification based on a sufficiently large number of cases in which we have justification for believing ${\sim}p$ while *p* is the content of an intuition.
 

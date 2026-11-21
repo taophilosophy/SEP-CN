@@ -171,13 +171,13 @@ The phylogenetic diversity measure illustrates how the pattern—process framewo
 
 ![a diagram: link to extended description below.](../assets/biodiversity/figa.svg)
 
-*(a)*
+\*(a)\*
 
 ![a diagram: link to extended description below.](../assets/biodiversity/figb.svg)
 
-*(b)*
+\*(b)\*
 
-*Figure.* A general biodiversity model linking relationships among objects to measures of biodiversity based on the indirect counting-up of units. In each case, relationships among the three objects represented by solid dots provides information about their representation, as a set, of underlying units. The ovals highlight the idea that their degree of similarity within the pattern indicates degree of shared units.
+\*Figure.\* A general biodiversity model linking relationships among objects to measures of biodiversity based on the indirect counting-up of units. In each case, relationships among the three objects represented by solid dots provides information about their representation, as a set, of underlying units. The ovals highlight the idea that their degree of similarity within the pattern indicates degree of shared units.
 
 1. for phylogenetic diversity, the objects are species, the units are evolutionary features and the phylogenetic/feature diversity of the 3 (solid dots) species is indicated by the summed lengths of the blue branches on the phylogenetic tree. Note that this set of 3 species has greater phylogenetic diversity / feature diversity than the set of two hollow-dot species (red branches). [An extended description of figure (a) is in the supplement.]
 2. another kind of pattern for species-as-objects is a Euclidean space representing key environmental gradients. The inferred biodiversity may be functional trait diversity. [An extended description of figure (b) is in the supplement.]

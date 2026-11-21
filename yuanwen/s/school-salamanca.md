@@ -307,7 +307,7 @@ Aquinas, Thomas | Aristotle | ethics: natural law tradition | free will | Grotiu
 
 [^vitoria-1995]: –––, 1995, *Vorlesungen I: Völkerrecht, Politik, Kirche*, Ulrich Horst (ed), Stuttgart: Kohlhammer. [A bilingual edition / translation of *De potestate civili*. A recent edition of the Latin with a translation into German.]
 
-[^alonso-lasheras-2011]: Alonso-Lasheras, Diego, 2011, Luis de Molina’s *De Iustitia et Iure*: Justice as Virtue in an Economic Context, (Studies in the History of Christian Traditions 152), Leiden/Boston: Brill. doi:10.1163/ej.9789004202252.i-246
+[^alonso-lasheras-2011]: Alonso-Lasheras, Diego, 2011, *Luis de Molina’s De Iustitia et Iure: Justice as Virtue in an Economic Context*, (Studies in the History of Christian Traditions 152), Leiden/Boston: Brill. doi:10.1163/ej.9789004202252.i-246
 
 [^bentley-1983]: Bentley, Jerry H., 1983, *Humanists and Holy Writ: New Testament Scholarship in the Renaissance*, Princeton, NJ: Princeton University Press.
 
@@ -323,7 +323,7 @@ Aquinas, Thomas | Aristotle | ethics: natural law tradition | free will | Grotiu
 
 [^broggio-2022]: Broggio, Paolo, 2022, “Ecclesiastical Romanism and Spanish Universalism: Post-Tridentine Ecclesiology in Light of the Intra-Ecclesiastical Doctrinal Controversies”, in Tubau 2022: chapter 8.
 
-[^bunge-2016]: Bunge, Kirstin, Marko J. Fuchs, Danaë Simmermacher, and Anselm Spindler (eds.), 2016, The Concept of Law (*Lex*) in the Moral and Political Thought of the “School of Salamanca”, (Studies in Medieval and Reformation Traditions 203), Leiden/Boston: Brill. doi:10.1163/9789004322707
+[^bunge-2016]: Bunge, Kirstin, Marko J. Fuchs, Danaë Simmermacher, and Anselm Spindler (eds.), 2016, *The Concept of Law (Lex) in the Moral and Political Thought of the “School of Salamanca”*, (Studies in Medieval and Reformation Traditions 203), Leiden/Boston: Brill. doi:10.1163/9789004322707
 
 [^burns-1991]: Burns, J. H. (ed.), 1991, *The Cambridge History of Political Thought 1450–1700*, Cambridge: Cambridge University Press. doi:10.1017/CHOL9780521247160
 

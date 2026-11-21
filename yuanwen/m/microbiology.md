@@ -38,7 +38,7 @@ A clarification necessary at the outset is that none of this work depends on or 
 | **‘Lower organism’**: antiquated terminology for small and less apparently complex lifeforms | Persists in non-microbiological discussions of microbes | Not validated by any biological or evolutionary approach; tends to imply great-chain-of-being progressivism. |
 | **‘Higher organism’**: similarly antiquated terminology for large and more obviously complex organisms | Persists in zoology, botany, and some broader communication of biology (see Rigato & Minelli 2013)[^rigato-2013] | Not validated by any biological or evolutionary approach; tends to imply great-chain-of-being progressivism. |
 
-*Table 1:* serves as a glossary for subsequent sections. It shows some of the historical terminology and classifications of microbes, plus issues with various terms and categories.
+\*Table 1:\* serves as a glossary for subsequent sections. It shows some of the historical terminology and classifications of microbes, plus issues with various terms and categories.
 
 Recognizing the looseness of the terms used to designate microbes does not mean, however, that either the study or impact of microorganisms is incoherent or disconnected. Unicellular life forms—organisms with the ability to live and reproduce as a single cell most (but not necessarily all) of the time[^note-3]— have indisputably large biological spheres of action and thus implications for all living things.
 

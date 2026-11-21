@@ -110,7 +110,7 @@ There have been objections to the implementation and interpretation of this proj
 
 The Many Labs project (Klein et al. 2014)[^klein-2014] coordinated 36 independent replications of 13 classic psychology phenomena (from 12 studies, that is, one study tested two effects), including anchoring, sunk cost bias and priming, amongst other well-known effects in psychology. In terms of matching statistical significance, the project demonstrated that 11 out of 13 effects could be successful replicated. It also showed great variation in many of the effect sizes across the 36 replications.
 
-In biomedical research, there have also been a number of large scale reproducibility projects. An early one by Begley and Ellis (2012, but discussed earlier in Ioannidis 2005)[^ioannidis-2005] attempted to replicate 56 landmark pre-clinical trials and reported an alarming reproducibility rate of only 11%, that is, only 6 of the 56 results could be successfully reproduced. Subsequent attempts at large scale replications in this field have produced more optimistic estimates, but routinely failed to successfully reproduce more than half of the published results. Freedman et al. (2015) report five replication projects by independent groups of researchers which produce reproducibility estimates ranging from 22% to 49%. They estimate the cost of irreproducible research in US biomedical science alone to be in the order of USD$28 billion per year. A reproducibility project in Experimental Philosophy is an exception to the general trend, reporting reproducibility rates of 70% (Cova et al. forthcoming).
+In biomedical research, there have also been a number of large scale reproducibility projects. An early one by Begley and Ellis (2012, but discussed earlier in Ioannidis 2005)[^ioannidis-2005] attempted to replicate 56 landmark pre-clinical trials and reported an alarming reproducibility rate of only 11%, that is, only 6 of the 56 results could be successfully reproduced. Subsequent attempts at large scale replications in this field have produced more optimistic estimates, but routinely failed to successfully reproduce more than half of the published results. Freedman et al. (2015) report five replication projects by independent groups of researchers which produce reproducibility estimates ranging from 22% to 49%. They estimate the cost of irreproducible research in US biomedical science alone to be in the order of USD\$28 billion per year. A reproducibility project in Experimental Philosophy is an exception to the general trend, reporting reproducibility rates of 70% (Cova et al. forthcoming).
 
 Finally, the Social Science Replication Project (SSRP) redid 21 experimental social science studies published in the journals *Nature* and *Science* between 2010 and 2015. Depending on the measure taken, the replication success rate was 57–67% (Camerer et al. 2018)[^camerer-2018].
 
@@ -132,17 +132,17 @@ In addition to creating the file-drawer problem described above, publication bia
 
 “*P* hacking” refers to a set of practices which include: checking the statistical significance of results before deciding whether to collect more data; stopping data collection early because results have reached statistical significance; deciding whether to exclude data points (e.g., outliers) only after checking the impact on statistical significance and not reporting the impact of the data exclusion; adjusting statistical models, for instance by including or excluding covariates based on the resulting strength of the main effect of interest; and rounding of a *p* value to meet a statistical significance threshold (e.g., presenting 0.053 as *P* < .05). “Cherry picking” includes failing to report dependent or response variables or relationships that did not reach statistical significance or other threshold and/or failing to report conditions or treatments that did not reach statistical significance or other threshold. “HARKing” (Hypothesising After Results are Known) includes presenting ad hoc and/or unexpected findings as though they had been predicted all along (Kerr 1998)[^kerr-1998]; and presenting exploratory work as though it was confirmatory hypothesis testing (Wagenmakers et al. 2012)[^wagenmakers-2012]. Five of the most widespread QRPs are listed below in Table 1 (from Fraser et al. 2018)[^fraser-2018], with associated survey measures of prevalence.
 
-*Table 1:* The prevalence of some common Questionable Research Practices. Percentage (with 95% confidence intervals) of researches who reported having used the QRP at least once (adapted from Fraser et al. 2018)[^fraser-2018]
+\*Table 1:\* The prevalence of some common Questionable Research Practices. Percentage (with 95% confidence intervals) of researches who reported having used the QRP at least once (adapted from Fraser et al. 2018)[^fraser-2018]
 
 | **Questionable Research Practice** | **Psychology Italy** (Agnoli et al. 2017)[^agnoli-2017] | **Psychology USA** (John, Loewenstein, & Prelec 2012)[^john-2012] | **Ecology** (Fraser et al. 2018)[^fraser-2018] | **Evolution** (Fraser et al. 2018)[^fraser-2018] |
 | --- | --- | --- | --- | --- |
 | Not reporting response (outcome) variables that failed to reach statistical significance^{#} | 47.9 *(41.3–54.6)* | 63.4 *(59.1–67.7)* | 64.1 *(59.1–68.9)* | 63.7 *(57.2–69.7)* |
-| Collecting more data after inspecting whether the results are statistically significant^{*} | 53.2 *(46.6–59.7)* | 55.9 *(51.5–60.3)* | 36.9 *(32.4–42.0)* | 50.7 *(43.9–57.6)* |
-| Rounding-off a *p* value or other quantity to meet a pre-specified threshold^{*} | 22.2 *(16.7–27.7)* | 22.0 *(18.4–25.7)* | 27.3 *(23.1–32.0)* | 17.5 *(13.1–23.0)* |
-| Deciding to exclude data points after first checking the impact on statistical significance^{*} | 39.7 *(33.3–46.2)* | 38.2 *(33.9–42.6)* | 24.0 *(19.9–28.6)* | 23.9 *(18.5–30.2)* |
+| Collecting more data after inspecting whether the results are statistically significant^{\*} | 53.2 *(46.6–59.7)* | 55.9 *(51.5–60.3)* | 36.9 *(32.4–42.0)* | 50.7 *(43.9–57.6)* |
+| Rounding-off a *p* value or other quantity to meet a pre-specified threshold^{\*} | 22.2 *(16.7–27.7)* | 22.0 *(18.4–25.7)* | 27.3 *(23.1–32.0)* | 17.5 *(13.1–23.0)* |
+| Deciding to exclude data points after first checking the impact on statistical significance^{\*} | 39.7 *(33.3–46.2)* | 38.2 *(33.9–42.6)* | 24.0 *(19.9–28.6)* | 23.9 *(18.5–30.2)* |
 | Reporting an unexpected finding as having been predicted from the start^{^} | 37.4 *(31.0–43.9)* | 27.0 *(23.1–30.9)* | 48.5 *(43.6–53.6)* | 54.2 *(47.7–60.6)* |
 
-^{#}cherry picking, ^{*}*p* hacking, ^{^}HARKing
+^{#}cherry picking, ^{\*}*p* hacking, ^{^}HARKing
 
 ### 2.4 Over-Reliance on Null Hypothesis Significance Testing
 
@@ -577,7 +577,7 @@ Bayes’ Theorem | epistemology: Bayesian | measurement: in science | operationa
 
 [^sovacool-2008]: Sovacool, B. K., 2008, “Exploring scientific misconduct: Isolated individuals, impure institutions, or an inevitable idiom of modern science?” *Journal of Bioethical Inquiry*, 5: 271–282. doi: 10.1007/s11673-008-9113-6
 
-[^steel-2010]: Steel, Daniel, 2010, “Epistemic Values and the Argument from Inductive Risk*”, *Philosophy of Science*, 77(1): 14–34. doi:10.1086/650206
+[^steel-2010]: Steel, Daniel, 2010, “Epistemic Values and the Argument from Inductive Risk\*”, *Philosophy of Science*, 77(1): 14–34. doi:10.1086/650206
 
 [^stegenga-2018]: Stegenga, Jacob, 2018, *Medical Nihilism*, Oxford: Oxford University Press.
 

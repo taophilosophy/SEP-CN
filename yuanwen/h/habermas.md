@@ -109,7 +109,7 @@ The pragmatic theory of meaning is intended to provide the theoretical framework
 |   | Action Orientation |   |   |
 | --- | --- | --- | --- |
 | *Success* | *Consensus* |   |   |
-| Action Situation | *Non-Social* | Instrumental Action | * * * |
+| Action Situation | *Non-Social* | Instrumental Action | \* \* \* |
 | *Social* | Strategic | Communicative Action |   |
 
 At the heart of this typology is the distinction between communicative action (rationality) on the one hand and instrumental and strategic action (rationality) on the other.

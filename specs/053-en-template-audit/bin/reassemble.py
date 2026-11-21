@@ -179,6 +179,75 @@ def encode_outside_math(s, policy):
     return s
 
 
+def _inline_end(s, i):
+    """行内数学收口位置（`$` 下标）；扫不到 −1。`\\x` 转义对整体跳过。"""
+    n = len(s)
+    j = i
+    while j < n:
+        if s[j] == "\\":
+            j += 2
+            continue
+        if s[j] == "$":
+            return j
+        j += 1
+    return -1
+
+
+def _display_end(s, i):
+    """显示数学收口位置（`$$` 起始下标）；体内成对单美元跳过，失败 −1。"""
+    n = len(s)
+    j = i
+    while j < n:
+        if s[j] == "\\":
+            j += 2
+            continue
+        if s.startswith("$$", j):
+            return j
+        if s[j] == "$":
+            k = _inline_end(s, j + 1)
+            if k < 0 or s.startswith("$$", k):
+                return -1      # 内层配对与收口 `$$` 打架：判定失败，按字面留
+            j = k + 1
+            continue
+        j += 1
+    return -1
+
+
+def _scan_stash_math(s, stash):
+    """md 数学段扫描占位（`$…$` / `$$…$$`，转义感知，显示体允许成对单美元）。
+
+    C 侧把 H0 `\\(…\\)` 写成 `$…$`、`\\[…\\]` 写成 `$$…$$`；显示体内部可合法
+    含成对单美元（qm-consistent-histories 判例 `\\text{ for $\\alpha\\neq\\beta $ }`）。
+    逐字符扫描：`\\x` 转义对整体跳过；`$$` 开显示段，单个 `$` 开行内段。
+    收不到口一律按字面留原样（存疑不吞）。"""
+    out, i, n = [], 0, len(s)
+    while i < n:
+        c = s[i]
+        if c == "\\" and i + 1 < n:
+            out.append(s[i:i + 2])
+            i += 2
+            continue
+        if c != "$":
+            out.append(c)
+            i += 1
+            continue
+        if s.startswith("$$", i):
+            j = _display_end(s, i + 2)
+            if j >= 0:
+                out.append(stash(s[i:j + 2]))
+                i = j + 2
+                continue
+        else:
+            j = _inline_end(s, i + 1)
+            if j >= 0:
+                out.append(stash(s[i:j + 1]))
+                i = j + 1
+                continue
+        out.append(c)
+        i += 1
+    return "".join(out)
+
+
 def _inline_md_to_html(text):
     """md 行内 → 行内 HTML（inline_to_md 的右逆；只覆盖 C 像内出现的形）。"""
     s = text
@@ -187,7 +256,8 @@ def _inline_md_to_html(text):
     s = s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     # 字面转义星（\*）占位保护——必须在强调解析前隔离，否则 *H\** 会被
     # 拆成 *H** 破配对（bayes-theorem 判例）；解析后还原为裸 *
-    s = s.replace("\\*", "\x01")
+    # 注意：必须放在数学占位之后（下方），否则数学体内的 `\*`（TeX 转义星，
+    # axiom-choice 判例 `\mbox{using (\*)}`）会被当正文星还原成 `*`。
     # 图片（C 的 _image 像：`![alt](../assets/<slug>/<file>)`）→ <img>。
     # 先占位后还原：alt 是属性文字，不得经受星/上下标/数学规则
     # （action-perception 的长 alt 含 `[` 与 `]`，须容一级方括号）
@@ -229,13 +299,25 @@ def _inline_md_to_html(text):
     s = re.sub(r"\[\^note-([^\]\s]+)\]", _note_ref, s)
     # 数学先占位——TeX 内的 _{x}/^{x} 不得被下面的 sub/sup 规则改写
     # （dutch-book 判例：$\pr_{t}$ 曾变 $\pr<sub>t</sub>$ → C 出 ₜ）
+    # 扫描式而非正则：C 把 H0 `\[ … \]` 整体包成 `$$…$$`，显示体内可以合法
+    # 出现成对的单美元（qm-consistent-histories 判例 `\text{ for $\alpha
+    # \neq\beta $ }`），任何 `[^$]` 型正则都会在第一个内部美元处断段、把收尾
+    # `$$` 让给下一次匹配，产出 `$$$$`（identity-time／logic-intensional 判例）
     math_store = []
 
-    def _stash_math(m):
-        math_store.append(m.group(0))
+    def _stash_math(seg):
+        math_store.append(seg)
         return "\x02%d\x02" % (len(math_store) - 1)
 
-    s = re.sub(r"\$\$[^$]+\$\$|\$[^$]+\$", _stash_math, s)
+    s = _scan_stash_math(s, _stash_math)
+    # 正文层字面星/美元/反斜杠占位（数学占位之后：数学体内的 `\*`/`\$`
+    # 属 TeX，不得还原）。`\\` 必须先于 `\*`/`\$` 处理——C 侧把正文层孤立
+    # 反斜杠双写成 `\\`（questions 判例），先吃掉成对方能正确切分转义对。
+    s = s.replace("\\\\", "\x12")
+    s = s.replace("\\*", "\x01")
+    s = re.sub(r"(?<!\\)\\\$", "\x05", s)
+    # C 侧行首 `#`（“不合语法”标记）转义成 `\#`（yuanwen 行首标题防线）
+    s = s.replace("\\#", "\x13")
     # 原生上/下标 Unicode 字形 → <sup>/<sub>：C 的 _subsup_md 在“整段可映射”
     # 时直接产 Unicode 字形（6<sup>th</sup> → 6ᵗʰ），右逆须还原为标签段
     s = _unsubsup(s, SUP_REV, "sup")
@@ -260,18 +342,18 @@ def _inline_md_to_html(text):
     # 但不得吞掉外层字面括号（`[[text](url)]` 取内层）；URL 可含一级圆括号
     s = re.sub(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]"
                r"\(((?:[^()\s]|\([^()]*\))*)\)", _link, s)
-    # 记号星占位：md 中 `(1*)`／`(2*)` 形（左括号＋数字＋星＋右括号）是上游
-    # 文字层的注解记号（monotheism 判例），星解析前隔离为字面；strong 内的
-    # `122**)` 形不匹配此模式，照常走星解析（adorno 判例）
-    star_store = []
+    # 记号星（`(1*)` 注解记号）不再需要 R 侧占位：C 已把正文层字面星统一
+    # 转成 `(1\*)`，到此处是 `\x01`。旧占位 `\(\d+\*+\)` 反而吞掉合法强调的
+    # 闭星（histfem-condorcet `(1786*)` 判例），已撤除。
+    # 行内代码（先占位：代码内 `*` 是字面字符，2026-11-21 C 侧结构化转义后
+    # md 里裸星只剩强调定界符，若不隔离代码段会被 _star_parse 误当定界符）
+    code_store = []
 
-    def _stash_star(m):
-        star_store.append(m.group(0))
-        return "\x04%d\x04" % (len(star_store) - 1)
+    def _stash_code(m):
+        code_store.append("<code>%s</code>" % m.group(1))
+        return "\x11%d\x11" % (len(code_store) - 1)
 
-    s = re.sub(r"\(\d+\*+\)", _stash_star, s)
-    # 行内代码
-    s = re.sub(r"`([^`]*)`", r"<code>\1</code>", s)
+    s = re.sub(r"`([^`]*)`", _stash_code, s)
     # sub/sup 记号（_{x}/^{x}）→ 标签；原生 Unicode 字形已由 C 直接产出，
     # R 不识别（原样文本，C 亦原样）。数学占位符内的记号不受影响。
     s = re.sub(r"_\{([^}]*)\}", r"<sub>\1</sub>", s)
@@ -295,12 +377,18 @@ def _inline_md_to_html(text):
         s = s.replace("\x02%d\x02" % idx, rep)
     # 字面星还原（占位符 \x01 → 裸 *，在 HTML 文本层即普通字符）
     s = s.replace("\x01", "*")
+    # 字面美元还原（C 侧 \$ 像 → 裸 $）
+    s = s.replace("\x05", "$")
+    # 字面反斜杠还原（C 侧双写的 `\\` → 裸 `\`）
+    s = s.replace("\x12", "\\")
+    # 行首 `#` 还原
+    s = s.replace("\x13", "#")
     # 图片占位还原（alt 内已有文本层转义，不再加工）
     for idx, tag in enumerate(img_store):
         s = s.replace("\x03%d\x03" % idx, tag)
-    # 记号星还原（`(1*)` 等，字面）
-    for idx, val in enumerate(star_store):
-        s = s.replace("\x04%d\x04" % idx, val)
+    # 代码段还原（含字面星，不再参与任何规则）
+    for idx, tag in enumerate(code_store):
+        s = s.replace("\x11%d\x11" % idx, tag)
     return s
 
 
@@ -334,51 +422,39 @@ def _greek_next(cp):
     return GREEK_REV.get(cp)
 
 
-def _intra_word_open(parts, i):
-    """词内开星判据（`P*hilosophy of History and Action*`、`poet*ry*` 判例）。
-
-    上游偶有 em 从中词起排（H0: `poet<em>ry</em>`、`P<em>hilosophy…`），
-    C 忠实转出后左邻是字母，按“左邻字母数字不开星”会漏成可见星。判据：向
-    后找第一个单星闭星（左紧、右邻非字母数字、**左邻非数字**——`(G*1) …
-    (G*2)` 型成对记号星以数字紧邻闭星，actualism-possibilism-ethics 判例），
-    其间文字**含空白（多词 em）或全为字母（单词内 em）**；乘法星（10 * Prob）
-    无成对闭星或不含空白，仍按字面。存疑一律字面（不动点优先）。"""
-    text = [parts[i + 1]]
-    k = i + 2
-    while k < len(parts):
-        run = parts[k]
-        before = parts[k - 1]
-        after = parts[k + 1] if k + 1 < len(parts) else ""
-        tight_left = bool(before) and not before[-1:].isspace()
-        if not tight_left:
-            # 松左星＝新强调的开星（C 的 em 定界符恒紧）——本星对的闭星
-            # 不可能在它之后，放弃开星（actualism `(G*1)…*em*` 同段判例）
-            return False
-        if not after[:1].isdigit():
-            # 第一个紧闭星即决断点：右邻数字 ⇒ `(G*1) … (G*2)` 型记号星对
-            # （actualism-possibilism-ethics 判例），整次开星放弃；右邻
-            # 字母（词内闭星，africana 判例：`Chang*e,` 的 e）与非字母
-            # （标点/空白）都进文字形态判定（多词含空白／单词内全字母）
-            joined = "".join(text).strip()
-            return ((" " in joined)
-                    or (joined.isalpha() and len(joined) > 1))
-        text.append(run)
-        if k + 1 < len(parts):
-            text.append(parts[k + 1])
-        k += 2
-    return False
-
-
 def _star_parse(s):
     """md 星号 → HTML 强调（C 输出定界符恒紧：内侧无空格）。
 
-    逐 run 决策：开＝下一字符非空白且同级未开；闭＝上一字符非空白且同级已开；
-    其余＝字面星（HTML 文本层原样）。***x*** 为 strong+em 双级（W10：
-    happens* / 10 * Prob 的记号星与乘号星按紧性判为字面，不再被误配对）。
+    2026-11-21 起 C 侧把全部正文层字面星转义 `\\*`，md 裸星只剩定界符，故
+    改为“按 run 逐星消费”：先由内向外闭（em 在内层，先闭；`***x***` 一次
+    run 连闭两级），再用剩余星开（`**` 先于 `*`，与 C 的嵌套次序一致）。
+    这样 `*q***P**`（em 紧接 strong 的相邻强调，bayes-theorem 判例）能正确
+    拆成“闭 em 1 星 + 开 strong 2 星”，旧“整 run 定级”会误判为三连开星。
+    旧“词内开星形态判定”（_intra_word_open）与“左邻字母数字不开星”保守
+    试探随之撤除——乘法星/记号星不再需要在 R 侧猜。
     """
     parts = re.split(r"(\*+)", s)
     out = []
     marks = {}  # 'strong'/'em' -> out 中内容起始下标
+    runs = {}   # slot -> 原始 run（未闭合时回填字面）
+
+    def _close(kind):
+        start = marks.pop(kind)
+        content = "".join(out[start:])
+        del out[start:]
+        runs.pop(start, None)
+        if kind == "em":
+            out.append(_em(content.strip()))
+        else:
+            out.append("<strong>%s</strong>" % content)
+
+    def _open(kind):
+        slot = len(out)
+        marks[kind] = slot
+        out.append("")
+        runs[slot] = "**" if kind == "strong" else "*"
+        return slot
+
     for i, p in enumerate(parts):
         if i % 2 == 0:
             out.append(p)
@@ -388,43 +464,56 @@ def _star_parse(s):
         after = parts[i + 1] if i + 1 < len(parts) else ""
         prev_tight = bool(before) and not before[-1:].isspace()
         next_tight = bool(after) and not after[:1].isspace()
-        # 开星要求左邻非字母数字（(G*1) 类记号星、A* 类字面星不误开）；
-        # **开星位置**紧跟闭括号即记号星，一律拒开（`(*)`／`(3*)`／`(**)`
-        # 注解记号，al-farabi-logic／monotheism `(1*)`／skepticism 判例）；
-        # 闭合位置不受此限（adorno 判例：H0 `122<strong>)</strong>` →
-        # md `122**)​**:`，其 `**` 走闭合分支）。方括号内真强调
-        # （`[*‘Uyūn* 604f]`）与“左紧右非字母数字”（Düring 判例：
-        # `Animalium*: Critical`）照常开星
-        prev_alnum = bool(before) and before[-1:].isalnum()
-        next_alnum = bool(after) and after[:1].isalnum()
-        next_close = bool(after) and after[:1] in ")]}"
-        L = len(run)
-        want = ["strong", "em"] if L >= 3 else (["strong"] if L == 2 else ["em"])
-        if all(k in marks for k in want) and prev_tight:
-            start = min(marks.pop(k) for k in want)
-            content = "".join(out[start:])
-            del out[start:]
-            if len(want) == 2:
-                out.append("<strong>%s</strong>"
-                           % ("<%s>%s</%s>" % (_ITAL, content.strip(), _ITAL)))
-            elif want[0] == "em":
-                out.append(_em(content.strip()))
+        n = len(run)
+        can_open_st = (n >= 2 and next_tight and "strong" not in marks)
+        can_open_em = (n >= 1 and next_tight and "em" not in marks)
+        # ① 整 run 可全作开星（无同级已开）时优先开——C 的嵌套形态
+        #    `*ital **bold** end*`：em 未闭、`**` 是内层加粗的开，不得误当闭 em
+        full_open = ((n == 1 and can_open_em) or (n == 2 and can_open_st)
+                     or (n == 3 and can_open_st and can_open_em))
+        if full_open:
+            if n == 3:
+                slot = _open("strong")
+                marks["em"] = slot        # 同槽：`***x***` 的 em 在内层
+                runs[slot] = "***"
             else:
-                out.append("<strong>%s</strong>" % content)
-        elif (not any(k in marks for k in want) and next_tight
-              and (not next_close
-                   or (L >= 2 and before[-1:].isdigit()))
-              and (not (prev_alnum and next_alnum)
-                   or (L == 1 and _intra_word_open(parts, i)))):
-            slot = len(out)
-            for k in want:
-                marks[k] = slot
-            out.append("")
-            marks.setdefault("__runs", {})[slot] = run
-        else:
-            out.append(run)
-    # 未闭合星恢复为字面（(3*) 这类括号内记号星——无配对即字面）
-    runs = marks.pop("__runs", {})
+                _open("strong" if n == 2 else "em")
+            continue
+        # ② 先闭：最内层优先（slot 大者后开先闭）；同槽时三级连闭先闭 em
+        while n and prev_tight:
+            if "em" in marks and "strong" in marks:
+                if marks["em"] == marks["strong"]:
+                    inner = "em" if n >= 3 else "strong"
+                else:
+                    inner = "em" if marks["em"] > marks["strong"] else "strong"
+            elif "em" in marks:
+                inner = "em"
+            elif "strong" in marks:
+                inner = "strong"
+            else:
+                break
+            if inner == "strong":
+                if n < 2:
+                    if "em" in marks:   # 星数不够闭 strong，先闭更外的 em 腾位
+                        _close("em")
+                        n -= 1
+                        continue
+                    break
+                _close("strong")
+                n -= 2
+            else:
+                _close("em")
+                n -= 1
+        # ③ 残余星再开（n 已在闭星中递减，须就地重判），最后按字面
+        if n >= 2 and next_tight and "strong" not in marks:
+            _open("strong")
+            n -= 2
+        elif n >= 1 and next_tight and "em" not in marks:
+            _open("em")
+            n -= 1
+        if n > 0:
+            out.append("*" * n)
+    # 未闭合星恢复为字面
     for slot, run in runs.items():
         if slot < len(out) and out[slot] == "":
             out[slot] = run

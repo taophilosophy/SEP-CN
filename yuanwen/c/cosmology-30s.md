@@ -221,7 +221,7 @@ The *extrapolating* approach, which Bondi sometimes calls the *empirical school*
 
 > Just as some adherents of the ‘empirical’ school tend to regard cosmology as a testing ground for their extrapolations and as a legitimate playground for the geometers, so some adherents of the deductive approach appear to regard cosmology as a purely logical subject. (Bondi 1960, p. 7)[^bondi-1960]
 
-In this latter case, the deductive extremists, in their mathematical zeal, seem to forget that cosmology, after all, **should** have some relation to observation: “To them all that is of interest in a theory is its logical character, not its relevance to the interpretation of observational data.” Obviously, this danger must be avoided: according to Bondi, deductivism can be a *scientific* approach in cosmology only if its postulates (or axioms) are candidates for disproof.
+In this latter case, the deductive extremists, in their mathematical zeal, seem to forget that cosmology, after all, **should** have some relation to observation: “To them all that is of interest in a theory is its logical character, not its relevance to the interpretation of observational data.” Obviously, this danger must be avoided: according to Bondi, deductivism can be a ***scientific*** approach in cosmology only if its postulates (or axioms) are candidates for disproof.
 
 ### 8.2 Enter Popper
 

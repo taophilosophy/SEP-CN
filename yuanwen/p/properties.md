@@ -486,7 +486,7 @@ The 2020 update was supported by the Italian Ministry of Education, University a
 
 [^bochvar-1938]: Bochvar, D.A., 1938 [1981], “Об одном трехзначном исчислении и его применении к ана­ лизу парадоксов классического расширенного функцио­ нального исчисления,” *Matematicheskii Sbornik*, 4(46)/2: 287–308. Reprinted as “On a Three-Valued Logical Calculus and Its Application to the Analysis of the Paradoxes of the Classical Extended Functional Calculus,” Merrie Bergmann (trans.), *History and Philosophy of Logic*, 2(1–2): 87–112. doi:10.1080/01445348108837023
 
-[^bozon-2004]: Bozon, Serge, 2004, “Why λHST^{*} and HST^{*}_{λ} Do Not Solve the Russell-Myhill Paradox After All,” in *Proceedings of the 9th Student ESSLLI Session*, Laura Alonso i Alemany and Paul Égré (eds.), Nancy, France, pp. 48–60.
+[^bozon-2004]: Bozon, Serge, 2004, “Why λHST^{\*} and HST^{\*}_{λ} Do Not Solve the Russell-Myhill Paradox After All,” in *Proceedings of the 9th Student ESSLLI Session*, Laura Alonso i Alemany and Paul Égré (eds.), Nancy, France, pp. 48–60.
 
 [^braddon-mitchell-2009]: Braddon-Mitchell, David and Robert Nola (eds.), 2009, *Conceptual Analysis and Philosophical Naturalism*, Cambridge, MA: MIT Press.
 

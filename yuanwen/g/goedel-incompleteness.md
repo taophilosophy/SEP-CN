@@ -105,11 +105,11 @@ Actually, a simple special case of *ω*-consistency suffices here; namely, the a
 
 Gödel’s proof also requires the notion of representability of sets and relations in a formal system $F$. More precisely, two related notion are needed.
 
-A set $S$ of natural numbers is *strongly representable* in $F$ if there is a formula $A(x)$ of the language of $F$ with one free variable $x$ such that for every natural number $\boldsymbol{n}$:
+A set $S$ of natural numbers is ***strongly representable*** in $F$ if there is a formula $A(x)$ of the language of $F$ with one free variable $x$ such that for every natural number $\boldsymbol{n}$:
 
 $$\begin{align} \boldsymbol{n} \in S &\Rightarrow F \vdash A(\overline{n}); \\ \boldsymbol{n} \not\in S &\Rightarrow F \vdash \neg A(\overline{n}), \end{align}$$
 
-A set $S$ of natural numbers is *weakly representable* in $F$ if there is a formula $A(x)$ of the language of $F$ such that for every natural number $\boldsymbol{n}$:
+A set $S$ of natural numbers is ***weakly representable*** in $F$ if there is a formula $A(x)$ of the language of $F$ such that for every natural number $\boldsymbol{n}$:
 
 $$ \boldsymbol{n} \in S \Leftrightarrow F \vdash A(\overline{n}). $$
 
@@ -536,7 +536,7 @@ The author would like to thank Richard Zach for his careful and valuable comment
 
 [^boolos-1990]: –––, 1990, “On ‘Seeing’ the Truth of Gödel Sentence,” *Behavioral and Brain Sciences*, 13: 655–656.
 
-[^boolos-1995]: –––, 1995, “Introductory Note to *1951,” in Gödel 1995: 290–304.
+[^boolos-1995]: –––, 1995, “Introductory Note to \*1951,” in Gödel 1995: 290–304.
 
 [^boolos-1989]: Boolos, G. and R. Jeffrey, 1989, *Computability and logic*, 3ʳᵈ revised edition, Cambridge: Cambridge University Press.
 
@@ -632,7 +632,7 @@ The author would like to thank Richard Zach for his careful and valuable comment
 
 [^gödel-1995]: –––, 1995, *Collected Works III. Unpublished Essays and Lectures*, S. Feferman et al. (eds.), Oxford: Oxford University Press.
 
-[^goldfarb-1995]: Goldfarb, W., 1995, “Introductory Note to *1953/9,” in Gödel 1995: 324–334.
+[^goldfarb-1995]: Goldfarb, W., 1995, “Introductory Note to \*1953/9,” in Gödel 1995: 324–334.
 
 [^goldfarb-1992]: Goldfarb, W. and T. Ricketts, 1992, “Carnap and the Philosophy of Mathematics,” in *Science and Subjectivity*, D. Bell and W. Vossenkuhl (eds.), Berlin: Akademie Verlag, pp. 61–78.
 

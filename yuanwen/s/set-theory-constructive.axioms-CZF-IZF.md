@@ -117,7 +117,7 @@ Dependent choice, $\mathbf{DC}$, is the following statement (for any $\psi)$:
 
 if $\forall x \in a \exists y \in a \psi(x,y)$ and $b_0 \in a$, then there is $f: \omega \rightarrow a$ such that $f$(0) $= b_0$ and $\forall n \in \omega \psi(f(n), f(n+1))$.
 
-We should also like to mention a consequence of Replacement often called the axiom of **unique choice** (it has also been termed the axiom of **non-choice** in (Myhill 1975) for obvious reasons). This is the statement: if for each element $X$ of $A$ there is *exactly one* $Y$ such that a property holds, than we can find a function $F$ with domain $A$ which assigns to each element $X$ of $A$ an element $F(X)$ such the given property holds. That is:
+We should also like to mention a consequence of Replacement often called the *axiom of **unique choice*** (it has also been termed the *axiom of **non-choice*** in (Myhill 1975) for obvious reasons). This is the statement: if for each element $X$ of $A$ there is *exactly one* $Y$ such that a property holds, than we can find a function $F$ with domain $A$ which assigns to each element $X$ of $A$ an element $F(X)$ such the given property holds. That is:
 
 $\forall x \in A\, \exists ! y\, \psi(x,y) \rightarrow$ $\exists f (\text{Function}(f)\wedge \text{Domain}(f)= A \wedge \forall x \in A \psi(x,f(x)))$,
 

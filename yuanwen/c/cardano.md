@@ -27,7 +27,7 @@ Higher animals are divided into four main classes: quadrupeds, birds, fish and r
 
 ![none](../assets/cardano/intellectus.jpg)
 
-*Figure 1.*
+\*Figure 1.\*
 
 However, the margin of interaction between human beings and the rest of living creatures is ampler. In keeping with a number of Renaissance philosophers, Cardano maintains that man is at the centre of micro- and macro-cosmic exchanges within the universe: “since the human circle corresponds to each single part of the whole domain of living beings, all the properties and natures that can be found in living beings will also be present in human beings” (*De arcanis aeternitatis*, OO, X, 8a). In *Paralipomena*, Cardano defines the human species as an amalgam of forms (*tota humana species congeries quaedam est*), a “mass” that is in constant evolution (*succrescitat que decrescit*):
 

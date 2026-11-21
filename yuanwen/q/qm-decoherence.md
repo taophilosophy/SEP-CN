@@ -555,7 +555,7 @@ I wish to think many people discussions with whom have shaped my understanding o
 
 [^rosaler-2016]: –––, 2016, ‘Interpretation Neutrality in the Classical Domain of Quantum Theory’, *Studies in History and Philosophy of Modern Physics*, 53: 54–72 [[preprint of Rosaler 2015 available online](http://arxiv.org/abs/1511.06383)].
 
-[^sanz-2009]: Sanz, A. S., and Borondo, F., 2009, ‘Contextuality, Decoherence and Quantum Trajectories’, * Chemical Physics Letters*, 478: 301–306 [[preprint of Sanz & Borondo 2009 available online](http://arxiv.org/abs/0803.2581)].
+[^sanz-2009]: Sanz, A. S., and Borondo, F., 2009, ‘Contextuality, Decoherence and Quantum Trajectories’, *Chemical Physics Letters*, 478: 301–306 [[preprint of Sanz & Borondo 2009 available online](http://arxiv.org/abs/0803.2581)].
 
 [^saunders-1993]: Saunders, S., 1993, ‘Decoherence, Relative States, and Evolutionary Adaptation’, *Foundations of Physics*, 23: 1553–1585.
 

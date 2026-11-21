@@ -29,7 +29,7 @@ In this section we direct the reader’s attention to document number 040363 in 
 5. About 600 clearly written pages of set-theoretical and logical results, quest. and conjectures (to some extent outstripped by recent developments).
 6. Many notes on intuit. [intuitionism] (the whole Ev. [Evidenz] on Main qu. [question] and other (pertaining to the Dial. [Dialetica] work and another work)) and other foundational questions, auch Literat. [Literatur]
 
-Regarding item 2, a complicated footnote indicates that the two papers are one on Kant (Gödel *1946/9-B2, Gödel *1946/9-C1) and secondly, “Is Mathematics a Syntax of Language?” (Gödel *1953/9-III and Gödel 1953/9-V.) Other manuscripts are mentioned in the footnote are his ontological proof, and his notes on his new consistency proof of the axiom of choice.
+Regarding item 2, a complicated footnote indicates that the two papers are one on Kant (Gödel \*1946/9-B2, Gödel \*1946/9-C1) and secondly, “Is Mathematics a Syntax of Language?” (Gödel \*1953/9-III and Gödel 1953/9-V.) Other manuscripts are mentioned in the footnote are his ontological proof, and his notes on his new consistency proof of the axiom of choice.
 
 Regarding item 6, “Ev.” apparently stands for “evidence.” As to the main question, it would not be implausible that by it Gödel means the question Gödel raises in the *Dialectica* paper, namely that of giving a precise characterization of the notions of abstract and concrete evidence—especially since his work pertaining to that paper is mentioned in item 6. (This is Wang’s interpretation.)
 

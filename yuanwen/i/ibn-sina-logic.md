@@ -190,13 +190,13 @@ Below is a summary of the relations of entailment (including subalternation) and
 
 ![a diamond shape with 4 items on each side, for each side arrows point from the first item to the second, second to third, third to fourth. First side (upper middle to middle left): La, Aa, X1a, M1a. Second side (lower middle to middle left): Li, Ai, X1i, M1i. An arrow points from each item in the first side to the corresponding item on the second side (e.g., La to Li). Third side (upper middle to middle right): Le, Ae, X1e, M1e. Fourth side (lower middle to middle right): Lo, Ao, X1o, M1o. An arrow points from each item in the third side to the corresponding item on the fourth side (e.g., Le to Lo). Dotted lines connect the first item of the first side to the fouth item of the fourth side, second item of the first side to the third item of the fourth side (and so on). Similarly for the first item of the third side to the fourth item of the second side and so on. A legend explains that the arrows mean 'entails' and the dotted lines 'contradicts'](../assets/ibn-sina-logic/fig1.svg)
 
-*Figure 1:* Referential/substantial necessity, perpetuity, general absoluteness, and general possibility: entailment and contradiction
+\*Figure 1:\* Referential/substantial necessity, perpetuity, general absoluteness, and general possibility: entailment and contradiction
 
 The following are analogous relations among propositions in the descriptional reading:
 
 ![very similar to figure 1, except that the side items are different. A diamond shape with 4 items on each side, for each side arrows point from the first item to the second, second to third, third to fourth. First side (upper middle to middle left): Ld1a, Ad1a, Xd1a, Md1a. Second side (lower middle to middle left): Ld1i, Ad1i, Xd1i, Md1i. An arrow points from each item in the first side to the corresponding item on the second side (e.g., Ld1a to Ld1i). Third side (upper middle to middle right): Ld1e, Ad1e, Xd1e, Md1e. Fourth side (lower middle to middle right): Ld1o, Ad1o, Xd1o, Md1o. An arrow points from each item in the third side to the corresponding item on the fourth side (e.g., Ld1e to Ld1o). Dotted lines connect the first item of the first side to the fourth item of the fourth side, second item of the first side to the third item of the fourth side (and so on). Similarly for the first item of the third side to the fourth item of the second side and so on.](../assets/ibn-sina-logic/fig2.svg)
 
-*Figure 2:* Descriptional necessity, perpetuity, general absoluteness, and general possibility: entailment and contradiction
+\*Figure 2:\* Descriptional necessity, perpetuity, general absoluteness, and general possibility: entailment and contradiction
 
 The above relations are central in syllogistic proofs by *reductio*.
 
@@ -208,7 +208,7 @@ Avicenna is keen to point out on various occasions throughout the treatment of c
 
 ![An 8 sided diagram. On the left side the vertices are (a-$\mathbb{C}$)aa, (e0c)ao, (o-$\mathbb{C}$)ao, (i-$\mathbb{C}$)aa with double headed arrows connecting the first two items to each other and also the last two items to each other, a single arrow points from the second item to the third to make up three of the sides of the diagram. In addition the first item has an arrow pointing to the fourth item. Similary on the right side except the vertices are (e-$\mathbb{C}$)aa, (a-$\mathbb{C}$ao), (i-$\mathbb{C}$)ao and (o-$\mathbb{C}$)aa. Between the first item of the left side and the first item of the right side is the word 'contraries' and between the last item of the left side and the last item of the right side is the word 'subcontraries'. Dotted lines connect the first item of one side to the third and fourth items of the second side and also from the second item of each side to the third and fourth of the other.](../assets/ibn-sina-logic/fig3.svg)
 
-*Figure 3:* Relations among conditionals: mutual implication, subalternation, contrariety, and contradiction)
+\*Figure 3:\* Relations among conditionals: mutual implication, subalternation, contrariety, and contradiction)
 
 ### 4.3 Conversion of Categorical Propositions
 
@@ -471,11 +471,11 @@ In each case and figure, Avicenna distinguishes the moods also according to the 
 2. particular affirmative conditional premise: Avicenna simply states that there are four productive moods, presumably the analogues of the above where the minor premise and the conclusion are i-conditionals.
 3. universal negative conditional premise: in this case, the fact that the conditional premise is negative affects the categorical consequent, which is denied at all times and under all circumstances. Avicenna presents three moods that are in fact equivalent, in virtue of the relations of mutual implication discussed in *Qiyās* VII.1, to three moods of case (a) (he does not explicitly discuss the hypothetical equivalent of Celarent, which is also productive via the corresponding Ferio):
 
-   | Hyp. Barbara* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{e-}\mathbb{C})$ | BaC; $(\textrm{e-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AoC}$[^note-21] |
+   | Hyp. Barbara\* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{e-}\mathbb{C})$ | BaC; $(\textrm{e-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AoC}$[^note-21] |
    | --- | --- |
-   | [Hyp. Celarent* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{e-}\mathbb{C})$ | BeC; $(\textrm{e-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AiC}$] |
-   | Hyp. Darii* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{e-}\mathbb{C})$ | BaC; $(\textrm{e-}\mathbb{C})p\textrm{-AeB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AeC}$ |
-   | Hyp. Ferio* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{e-}\mathbb{C})$ | BeC; $(\textrm{e-}\mathbb{C})p\textrm{-AeB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AaC}$ |
+   | [Hyp. Celarent\* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{e-}\mathbb{C})$ | BeC; $(\textrm{e-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AiC}$] |
+   | Hyp. Darii\* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{e-}\mathbb{C})$ | BaC; $(\textrm{e-}\mathbb{C})p\textrm{-AeB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AeC}$ |
+   | Hyp. Ferio\* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{e-}\mathbb{C})$ | BeC; $(\textrm{e-}\mathbb{C})p\textrm{-AeB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AaC}$ |
 4. particular negative conditional premise: Avicenna states that there are four productive moods, which must presumably be particular versions of the previous case, if we supplement the latter with a counterpart of BeC; $(\textrm{e-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AiC}$ (Avicenna does not discuss this mood explicitly, but it is compatible with the general criteria of productivity he adopts, namely that the categorical major should be universal and the consequent of the conditional negative).
 
 **Second figure:** predicate of the consequent of the conditional = predicate of the categorical major
@@ -490,7 +490,7 @@ In each case and figure, Avicenna distinguishes the moods also according to the 
 
    When the conditional is particular, Avicenna contends that there are four additional moods. Negative (universals) are treated in general terms: their criteria of productivity require the categorical major and the consequent of the conditional minor to be both affirmative or both negative, and the categorical to be universal. For example,
 
-   | Hyp. Cesare* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ | CeB; $(\textrm{e-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AiC}$ |
+   | Hyp. Cesare\* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ | CeB; $(\textrm{e-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AiC}$ |
    | --- | --- |
 
    is valid in virtue of the familiar rules of transformation.[^note-22]
@@ -831,27 +831,27 @@ Cf. also *Qiyās* VII.2, 379.6–7 with a reference to a “time and state” (*
 
 [^aristotle-1948]: Aristotle, *Manṭiq Arisṭū*, edited by ʿA. Badawī, Cairo: Maktabat Dār al-kutub al-miṣriyya, 3 volumes, 1948–52 (edition of the “Arabic *Organon*” based on Ms. Paris, BNF Arabe 2346). [[Ms. Paris, BNF Arabe 2346 scan available online](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc30263r)]
 
-[^avicenna-1892]: Avicenna (Ibn Sīnā) (d. 1037 CE), [*Išārāt*], *al-Išārāt wa-t-tanbīhāt*, edited by Jacques Forget, Leiden: Brill, 1892.
+[^avicenna-1892]: Avicenna (Ibn Sīnā) (d. 1037 CE), [***Išārāt***], *al-Išārāt wa-t-tanbīhāt*, edited by Jacques Forget, Leiden: Brill, 1892.
 
-[^avicenna-1960]: –––, [*Išārāt*-Ṭūsī], *al-Išārāt wa-t-tanbīhāt*, edited by S. Dunyā, 4 parts in 3 volumes, with Ṭūsī’s commentary at the bottom of the page, Cairo: Dār al-maʿārif bi-Miṣr, 1960-1968.
+[^avicenna-1960]: –––, [***Išārāt*-Ṭūsī**], *al-Išārāt wa-t-tanbīhāt*, edited by S. Dunyā, 4 parts in 3 volumes, with Ṭūsī’s commentary at the bottom of the page, Cairo: Dār al-maʿārif bi-Miṣr, 1960-1968.
 
 [^avicenna-1910]: –––, *Manṭiq al-Mašriqiyyīn*, edited by M. al-Ḫāṭīb, ʿA. al-Qatlā, Cairo: al-Maktaba as-salafiyya, 1910.
 
-[^avicenna-1952]: –––, [*Madḫal*], *aš-Šifāʾ, al-Manṭiq, al-Madḫal*, edited by Ğ. Š. Qanawatī, M. al-Ḫuḍayrī, A. F. al-Ahwānī, Cairo: al-Maṭbaʿa al-amīriyya, 1952.
+[^avicenna-1952]: –––, [***Madḫal***], *aš-Šifāʾ, al-Manṭiq, al-Madḫal*, edited by Ğ. Š. Qanawatī, M. al-Ḫuḍayrī, A. F. al-Ahwānī, Cairo: al-Maṭbaʿa al-amīriyya, 1952.
 
-[^avicenna-1956]: –––, [*Burhān*], *aš-Šifāʾ, al-Manṭiq, al-Burhān*, edited by A. ʿAfīfī, Cairo: al-Maṭbaʿa al-amīriyya, 1956.
+[^avicenna-1956]: –––, [***Burhān***], *aš-Šifāʾ, al-Manṭiq, al-Burhān*, edited by A. ʿAfīfī, Cairo: al-Maṭbaʿa al-amīriyya, 1956.
 
-[^avicenna-1958]: –––, [*Safsaṭa*], *aš-Šifāʾ, al-Manṭiq, as-Safsaṭa*, edited by A. F. al-Ahwānī. Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1958.
+[^avicenna-1958]: –––, [***Safsaṭa***], *aš-Šifāʾ, al-Manṭiq, as-Safsaṭa*, edited by A. F. al-Ahwānī. Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1958.
 
-[^avicenna-1960-2]: –––, [*Ilāhiyyāt*], *aš-Šifāʾ, al-Ilāhiyyāt* (1), edited by Ğ. Š. Qanawatī, S. Zāyid, Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1960; *aš-Šifāʾ, al-Ilāhiyyāt* (2), edited by M. Y. Mūsā, S. Dunyā, S. Zāyid, Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1960.
+[^avicenna-1960-2]: –––, [***Ilāhiyyāt***], *aš-Šifāʾ, al-Ilāhiyyāt* (1), edited by Ğ. Š. Qanawatī, S. Zāyid, Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1960; *aš-Šifāʾ, al-Ilāhiyyāt* (2), edited by M. Y. Mūsā, S. Dunyā, S. Zāyid, Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1960.
 
-[^avicenna-1964]: –––, [*Qiyās*], *aš-Šifāʾ, al-Manṭiq, al-Qiyās*, edited by S. Zāyid. Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1964.
+[^avicenna-1964]: –––, [***Qiyās***], *aš-Šifāʾ, al-Manṭiq, al-Qiyās*, edited by S. Zāyid. Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1964.
 
-[^avicenna-1965]: –––, [*Ğadal*], *aš-Šifāʾ, al-Manṭiq, al-Ğadal*, edited by A. F. al-Ahwānī. Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1965.
+[^avicenna-1965]: –––, [***Ğadal***], *aš-Šifāʾ, al-Manṭiq, al-Ğadal*, edited by A. F. al-Ahwānī. Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1965.
 
 [^avicenna-1970]: –––, *aš-Šifāʾ, al-Manṭiq, al-ʿIbāra*, edited by M. al-Ḫuḍayrī. Cairo: al-Hayʾa al-miṣrīyya al-ʿāmma li-t-taʿlīf wa-n-našr, 1970.
 
-[^avicenna-1985]: –––, [*Nağāt*], *an-Nağāt min al-ġarq fī baḥr aḍ-ḍalālāt*, edited by M. Dānešpažūh, Tehran: Entešārāt-e Dānešgāh, 1985.
+[^avicenna-1985]: –––, [***Nağāt***], *an-Nağāt min al-ġarq fī baḥr aḍ-ḍalālāt*, edited by M. Dānešpažūh, Tehran: Entešārāt-e Dānešgāh, 1985.
 
 [^avicenna-2009]: –––, *al-Muḫtaṣar al-awsaṭ fī l-manṭiq*, edited by H. Takci, Sakarya University, Haziran, 2009.
 
@@ -865,13 +865,13 @@ Cf. also *Qiyās* VII.2, 379.6–7 with a reference to a “time and state” (*
 
 [^gundissalinus-1903]: Gundissalinus, Dominicus, (ca. 1110–1190 CE), *De divisione philosophiae*, edited by L. Baur, Münster: Aschendorff, 1903.
 
-[^afḍal-2010]: Ḫūnağī, Afḍal ad-Dīn (d. 1248 CE), [*Kašf al-asrār*], *Kašf al-asrār ʿan ġawāmiḍ al-afkār*, edited by Khaled El-Rouayheb. Tehran-Berlin: Iranian Institute of Philosophy & Institute of Islamic Studies—Free University of Berlin, 2010.
+[^afḍal-2010]: Ḫūnağī, Afḍal ad-Dīn (d. 1248 CE), [***Kašf al-asrār***], *Kašf al-asrār ʿan ġawāmiḍ al-afkār*, edited by Khaled El-Rouayheb. Tehran-Berlin: Iranian Institute of Philosophy & Institute of Islamic Studies—Free University of Berlin, 2010.
 
-[^kātibī-1988]: Kātibī, Naǧm ad-Dīn (d. 1277 CE), [*Šamsiyya*], *ar-Risāla aš-Šamsiyya* (Logic for Šams ad-Dīn), in *Taḥtānī, Quṭb ad-Dīn ar-Rāzī, Taḥrīr al-qawāʿid al-manṭiqiyya fī šarḥ ar-Risāla aš-Šamsiyya*, Cairo: Dār Iḥyāʾ al-kutub al-ʿarabiyya, Muṣṭafā al-Bābī al-Ḥalabī, 1988.
+[^kātibī-1988]: Kātibī, Naǧm ad-Dīn (d. 1277 CE), [***Šamsiyya***], *ar-Risāla aš-Šamsiyya* (Logic for Šams ad-Dīn), in *Taḥtānī, Quṭb ad-Dīn ar-Rāzī, Taḥrīr al-qawāʿid al-manṭiqiyya fī šarḥ ar-Risāla aš-Šamsiyya*, Cairo: Dār Iḥyāʾ al-kutub al-ʿarabiyya, Muṣṭafā al-Bābī al-Ḥalabī, 1988.
 
 [^rāzī-2005]: Rāzī, Faḫr ad-Dīn (d. 1209 CE), *Šarḥ al-Išārāt*, edited by ʿA.R. Najafzādeh, Tehran: Anjuman Āthār wa-Mafākhir Ferhangi, 2005.
 
-[^rāzī-2002]: –––, [*Mulaḫḫaṣ*], *Manṭiq al-Mulaḫḫaṣ*, edited by F. Qārāmālekī and A. Aṣgharīnezhad, Tehran: Dānešgāh-e ṣāde, 2002.
+[^rāzī-2002]: –––, [***Mulaḫḫaṣ***], *Manṭiq al-Mulaḫḫaṣ*, edited by F. Qārāmālekī and A. Aṣgharīnezhad, Tehran: Dānešgāh-e ṣāde, 2002.
 
 [^naṣīr-2004]: Ṭūsī, Naṣīr ad-Dīn (d. 1274 CE), *Asās al-iqtibās fī l-manṭiq*, Cairo, 2004 (15th-century Arabic translation from Persian).
 

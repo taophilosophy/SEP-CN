@@ -188,7 +188,7 @@ Albert the Great [= Albertus Magnus] | Bacon, Roger | Kilwardby, Robert | Peter 
 
 [^kneepkens-1977]: Kneepkens, C.H., 1977, “The *Relatio simplex* in the Grammatical Tracts of the Late Twelfth and Early Thirteenth Century”, *Vivarium*, 15(1): 1–30. doi:10.1163/156853477X00013
 
-[^kretzmann-1966]: Kretzmann, Norman (trans.), 1966, William of Sherwood’s Introduction to Logic, Translated with an Introduction and Notes, Minneapolis, MN: University of Minnesota Press.
+[^kretzmann-1966]: Kretzmann, Norman (trans.), 1966, *William of Sherwood’s Introduction to Logic, Translated with an Introduction and Notes*, Minneapolis, MN: University of Minnesota Press.
 
 [^lagerlund-2000]: Lagerlund, Henrik, 2000, *Modal Syllogistics in the Middle Ages* (Studien und Texte zur Geistesgeschichte des Mittelalters, 70), Leiden/Boston: Brill.
 

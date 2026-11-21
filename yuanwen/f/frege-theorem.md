@@ -394,7 +394,7 @@ To see that Frege’s definition of equinumerosity works correctly, consider the
 
 ![representation of two equinumerous concepts](../assets/frege-theorem/1-1.png)
 
-*Figure 1*
+\*Figure 1\*
 
 Although there are several different relations $R$ which demonstrate the equinumerosity of $F$ and $G$, the particular relation used in Figure 1 is:
 
@@ -406,7 +406,7 @@ In Figure 2, we have two concepts that are not equinumerous:
 
 ![graphic of non-equinumerous concepts](../assets/frege-theorem/not-1-1.png)
 
-*Figure 2*
+\*Figure 2\*
 
 In this example, no relation $R$ can satisfy the definition of equinumerosity.
 
@@ -502,7 +502,7 @@ If we assemble these truths into a conjunction and apply existential generalizat
 
 ### 4.2 The Ancestral of a Relation $R$
 
-Frege next defines the relation *x is an ancestor of y in the R-series*. This new relation is called ‘the ancestral of the relation $R$’ and we henceforth designate this relation as $R^*$. Frege first defined the ancestral of a relation $R$ in **Begr** (Part III, Proposition 76), though the term ‘ancestral relation’ comes to us from Whitehead and Russell 1910–1913 (I, *90·01). Frege’s phrase for the ancestral is: “$x$ comes before $y$ in the $R$-series”; alternatively, “$y$ follows $x$ in the $R$-series”. (See also **Gl**, §79, and **Gg I**, §45.) The intuitive idea is easily grasped if we consider the relation $x$ *is the father of* $y$. Suppose that $a$ is the father of $b$, that $b$ is the father of $c$, and that $c$ is the father of $d$. Then ‘$x$ is an ancestor of $y$ in the fatherhood-series’ is defined so that $a$ is an ancestor of $b$, $c$, and $d$, that $b$ is an ancestor of $c$ and $d$, and that $c$ is an ancestor of $d$.
+Frege next defines the relation *x is an ancestor of y in the R-series*. This new relation is called ‘the ancestral of the relation $R$’ and we henceforth designate this relation as $R^*$. Frege first defined the ancestral of a relation $R$ in **Begr** (Part III, Proposition 76), though the term ‘ancestral relation’ comes to us from Whitehead and Russell 1910–1913 (I, \*90·01). Frege’s phrase for the ancestral is: “$x$ comes before $y$ in the $R$-series”; alternatively, “$y$ follows $x$ in the $R$-series”. (See also **Gl**, §79, and **Gg I**, §45.) The intuitive idea is easily grasped if we consider the relation $x$ *is the father of* $y$. Suppose that $a$ is the father of $b$, that $b$ is the father of $c$, and that $c$ is the father of $d$. Then ‘$x$ is an ancestor of $y$ in the fatherhood-series’ is defined so that $a$ is an ancestor of $b$, $c$, and $d$, that $b$ is an ancestor of $c$ and $d$, and that $c$ is an ancestor of $d$.
 
 Frege’s definition of the ancestral of $R$ requires a preliminary definition:
 
@@ -524,7 +524,7 @@ $R^*(x,y) \eqdef \forall F[(\forall z(Rxz \to Fz) \amp \mathit{Her}(F,R)) \to Fy
 
 For example, Clinton’s father stands in the relation *father\* of* (i.e., *forefather*) to Chelsea because she falls under every hereditary concept that Clinton and his brother inherited from Clinton’s father. However, Clinton’s brother is not one of Chelsea’s forefathers, since he fails to be her father, her grandfather, or any of the other links in the chain of fathers from which Chelsea descended.
 
-It is important to grasp the differences between a relation $R$ and its ancestral $R^*$. *Rxy* implies $R^*(x,y)$ (e.g., if Clinton is a father of Chelsea, then Clinton is a forefather of Chelsea), but the converse doesn’t hold (Clinton’s father is a father* of Chelsea, but he is not a father of Chelsea). Indeed, a grasp of the definition of $R^*$ should leave one able to prove the following easy consequences, many of which correspond to theorems in **Begr** and **Gg**:[^note-11]
+It is important to grasp the differences between a relation $R$ and its ancestral $R^*$. *Rxy* implies $R^*(x,y)$ (e.g., if Clinton is a father of Chelsea, then Clinton is a forefather of Chelsea), but the converse doesn’t hold (Clinton’s father is a father\* of Chelsea, but he is not a father of Chelsea). Indeed, a grasp of the definition of $R^*$ should leave one able to prove the following easy consequences, many of which correspond to theorems in **Begr** and **Gg**:[^note-11]
 
 **Facts About** $R^*$:
 
@@ -536,7 +536,7 @@ It is important to grasp the differences between a relation $R$ and its ancestra
 6. $Rxy \amp R^*(y,z) \to R^*(x,z)$
 7. $R^*(x,y) \amp R^*(y,z) \to R^*(x,z)$
 
-The reader should consider what happens when $R$ is taken to be the relation (*immediately*) *precedes*. Appealing to our intuitive grasp of the numbers, we can say that it is an instance of Fact (1) that if 10 precedes 11, then 10 precedes* 11. Moreover, precedes is a witness to Fact 2: that 10 precedes* 12 does not imply that 10 precedes 12. The transitivity of precedes* is an instance of Fact (7). Below, when we restrict ourselves to the natural numbers, it becomes intuitive to think of the difference between precedes and precedes* as the difference between *immediately precedes* and *less-than*.
+The reader should consider what happens when $R$ is taken to be the relation (*immediately*) *precedes*. Appealing to our intuitive grasp of the numbers, we can say that it is an instance of Fact (1) that if 10 precedes 11, then 10 precedes\* 11. Moreover, precedes is a witness to Fact 2: that 10 precedes\* 12 does not imply that 10 precedes 12. The transitivity of precedes\* is an instance of Fact (7). Below, when we restrict ourselves to the natural numbers, it becomes intuitive to think of the difference between precedes and precedes\* as the difference between *immediately precedes* and *less-than*.
 
 ### 4.3 The Weak Ancestral of $R$
 
@@ -624,7 +624,7 @@ In other words, this theorem asserts that predecessor is a one-to-one relation o
 
 ![graphic illustrating Equinumerosity Lemma](../assets/frege-theorem/equinlem.png)
 
-*Figure 3*
+\*Figure 3\*
 
 In terms of Figure 3, the Equinumerosity Lemma tells us that if there is a relation $R$ which is a witness to the equinumerosity of $ F$ and $G$, then there is a relation $R'$ which is a witness to the equinumerosity of the concepts that result when you restrict $ F$ and $G$ to the objects other than $x$ and $y$, respectively.
 

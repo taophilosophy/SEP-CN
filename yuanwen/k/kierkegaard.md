@@ -183,11 +183,11 @@ Kierkegaard is a beguiling but frustrating thinker, full of provocations and ins
 
 **1846**
 
-Concluding Unscientific Postscript to Philosophical Fragments: A Mimetic-Pathetic-Dialectical Compilation, An Existential Contribution, by Johannes Climacus, published by S. Kierkegaard *(Affslutende Uvidenskabelig Efterskrift til de philosophiske Smuler)* *A Literary Review*: “Two Ages”—novella by the author of “An Everyday Story”—reviewed by S. Kierkegaard (*En literair Anmeldelse*)
+*Concluding Unscientific Postscript to Philosophical Fragments: A Mimetic-Pathetic-Dialectical Compilation, An Existential Contribution, by Johannes Climacus, published by S. Kierkegaard (Affslutende Uvidenskabelig Efterskrift til de philosophiske Smuler)* *A Literary Review*: “Two Ages”—novella by the author of “An Everyday Story”—reviewed by S. Kierkegaard (*En literair Anmeldelse*)
 
 **1847**
 
-Upbuilding *Discourses in Various Spirits by S. Kierkegaard* (*Opbyggelige Taler i forskjellig Aand*) *Works of Love: Some Christian Reflections in the Form of Discourses by S. Kierkegaard* (*Kjerlighedens Gjerninger. Nogle christelige Overveielser i Talers Form*)
+*Upbuilding Discourses in Various Spirits by S. Kierkegaard* (*Opbyggelige Taler i forskjellig Aand*) *Works of Love: Some Christian Reflections in the Form of Discourses by S. Kierkegaard* (*Kjerlighedens Gjerninger. Nogle christelige Overveielser i Talers Form*)
 
 **1848**
 

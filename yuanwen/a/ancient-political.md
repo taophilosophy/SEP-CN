@@ -613,7 +613,7 @@ The author would like to acknowledge the research assistance by René de Nicolay
 
 [^keyt-2007]: Keyt, D., and F.D. Miller, Jr., (eds.), 2007, *Freedom, Reason, and the Polis: Essays in Ancient Greek Political Philosophy*, Cambridge: Cambridge University Press.
 
-[^rowe-2000]: Rowe, C., & M. Schofield, (eds.), 2000, The Cambridge History of *Greek and Roman Political Thought*, Cambridge: Cambridge University Press.
+[^rowe-2000]: Rowe, C., & M. Schofield, (eds.), 2000, *The Cambridge History of Greek and Roman Political Thought*, Cambridge: Cambridge University Press.
 
 [^sharples-1996-2]: Sharples, R. W., 1996, *Stoics, Epicureans and Skeptics*, London: Routledge.
 

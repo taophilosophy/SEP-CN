@@ -19,7 +19,7 @@
 
 Walley (1991: sec. 2.2 and 2.3) develops a betting account of credences that permits one to have a variety of attitudes toward bets or the lack of thereof, which does not force a credence to be as sharp as a real number. On this view, a credence can be unsharp in this way: it can be bounded by one or another interval of real numbers *without* being equal to any particular real number or interval—even the tightest bound on a credence can be an *incomplete* description of that credence. The result is a version of Probabilism permitting that kind of unsharp credences, defended with a Dutch Book argument. The following sketches Walley’s main ideas.
 
-Suppose, for example, that a person is considering a bet that wins $1 if *A* is true, for some specific proposition *A*, and that she takes it acceptable to buy the bet at the price $.8, and acceptable to sell it at the price $.9. In that case, the agent’s credence in proposition *A* is postulated to have a bound $[.8, .9]$. And that credence has that bound even when the agent has different sorts of attitudes toward the prices in between, such as:
+Suppose, for example, that a person is considering a bet that wins \$1 if *A* is true, for some specific proposition *A*, and that she takes it acceptable to buy the bet at the price \$.8, and acceptable to sell it at the price \$.9. In that case, the agent’s credence in proposition *A* is postulated to have a bound $[.8, .9]$. And that credence has that bound even when the agent has different sorts of attitudes toward the prices in between, such as:
 
 1. taking it to be acceptable to buy or sell at some intermediate prices,
 2. having made up her mind to *refuse to buy or sell* at some intermediate prices,
@@ -38,9 +38,9 @@ This setting is also liberal enough to model the case in which one has no creden
 
 |   | *A* is true | *A* is false |
 | --- | --- | --- |
-| buy “win $$100$ if *A* is true” at $\$73$ | $-$73 + $100$ | $-$73$ |
-| buy “win $$100$ if $\neg A$ is true” at $\$28$ | $-$28$ | $-$28 + $100$ |
-| net payoff | $-$1$ | $-$1$ |
+| buy “win $\$100$ if *A* is true” at $\$73$ | $-\$73 + \$100$ | $-\$73$ |
+| buy “win $\$100$ if $\neg A$ is true” at $\$28$ | $-\$28$ | $-\$28 + \$100$ |
+| net payoff | $-\$1$ | $-\$1$ |
 
 The above example motivates a new version of Probabilism. A function $f$ that maps some propositions to real numbers is said to *satisfy* a bound $[a, b]$ of one’s credence in proposition $A$ if $f(A)$ exists and $a \le f(A) \le b$. Note that there is no probability measure that simultaneously satisfies the two credence bounds in the above example, because even the lower ends of those two bounds, 0.73 and 0.28, are still too large to sum to 1. This observation motivates the following norm:
 

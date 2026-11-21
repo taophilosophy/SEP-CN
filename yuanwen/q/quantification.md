@@ -733,7 +733,7 @@ This sentence tells us that for each proposition $p$ it is possible to Query onl
 
 [^frege-1980b]: –––, 1980b, *The foundations of arithmetic*, Evanston, IL: Northwestern University Press.
 
-[^glanzberg-2004]: Glanzberg, M., 2004, “Quantification and Realism*”, *Philosophy and Phenomenological Research*, 69(3): 541–572.
+[^glanzberg-2004]: Glanzberg, M., 2004, “Quantification and Realism\*”, *Philosophy and Phenomenological Research*, 69(3): 541–572.
 
 [^gottlieb-1980]: Gottlieb, D., 1980, *Ontological Economy: Substitutional Quantification and Mathematics*, Oxford: Oxford University Press.
 

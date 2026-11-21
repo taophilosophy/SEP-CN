@@ -67,7 +67,7 @@ CP1 follows from the following Closure Principle (letting “*Jp*” stand for *
 
 A crucial feature of CP is that it does not depend upon employing a stringent notion of justification. Suppose that (positive) justification comes in degrees, where the lowest degree is something like mere plausibility and the highest degree is absolute certainty. CP could be recast as follows:
 
-CP*: For all propositions, *p* and *q*, if *p* entails *q*, and *Jp* to degree *u*, then *Jq* to degree *v* (where $u \le v)$.
+**CP\*:** For all propositions, *p* and *q*, if *p* entails *q*, and *Jp* to degree *u*, then *Jq* to degree *v* (where $u \le v)$.
 
 There appear to be only three ways that one can respond to the CP-style skeptical argument: deny at least one premise, deny that the argument is valid, or reluctantly accept the conclusion—if neither of the first two alternatives succeeds.
 

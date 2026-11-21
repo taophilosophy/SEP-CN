@@ -169,7 +169,7 @@ Secondly, infinitival interrogatives such as “how to Φ” and “what to Φ�
 
 Now, what counts as an answer to the question? Linguists distinguish between different kinds of answers that one might give to a question. An *exhaustive answer* to “How could *S* Φ?” would specify all the ways in which *S* could Φ; a *mention-some answer*, instead, would specify only one way in which *S* could Φ. For example, an exhaustive answer to the question “How could *S* make pasta?” would specify all different recipes for making pasta. A mention-some answer to the same question, instead, would specify (at least) only one recipe. When we ascribe knowledge-how, we don’t expect people to know all the possible ways of performing the relevant task. For example, “Mary knows how to make pasta” can be true, even if Mary only knows one recipe for pasta. This gives us the following truth conditions:
 
-Intellectualism* “*S* knows how to Φ” is true just in case *S* knows, for *some way w of* Φ*-ing*, that *w* is a way he himself could Φ.
+**Intellectualism\*** “*S* knows how to Φ” is true just in case *S* knows, for *some way w of* Φ*-ing*, that *w* is a way he himself could Φ.
 
 As we have seen in section 2, in addition to knowing that a way to Φ is a way to Φ, one needs to think of that way under a practical mode of presentation. Let *Pr* be a practical way of thinking of a way and let *way of* Φ*-ing* be a way of thinking of the property of being a way of Φ-ing; finally let ⦼ be a way of composing ways of thinking into a proposition. Then <Pr ⦼ *way of* Φ*-ing*> is the practical proposition that one comes to know when coming to know how to Φ. On how to implement Fregean senses in the compositional semantics, see Yalcin (2015)[^yalcin-2015].
 
@@ -321,11 +321,11 @@ Many embrace C2 (e.g., Lewicki, Czyzewska, & Hoffman 1987: 523; Devitt 2011; Wal
 
 Here is a possible way to patch up the Argument from Cognitive Science (Fridland 2014, 2017; Levy 2017)[^fridland-2014][^levy-2017]. Replace C2 with:
 
-C2*
+C2\*
 
 Knowledge-how is not exhausted by declarative knowledge.
 
-With C2*, the argument goes on as before. Stanley & Krakauer (2013) seems to accept this conclusion (for more discussion and critiques, see Krakauer 2019; Springle 2019; De Brigard 2019; Schwartz & Drayson 2019)[^krakauer-2019][^schwartz-2019][^springle-2019]. Other intellectualists reply that this argument misses the intellectualist target. Cath (2020)[^cath-2020] argues that procedural representation might be a prerequisite for knowledge-how rather than a constituent. Pavese (2019)[^pavese-2019] develops an account on which procedural representations, of the sort studied by motor scientists when giving an account of the procedural aspect of skill (Wolpert 1997; Jeannerod 1997)[^jeannerod-1997][^wolpert-1997], can be understood as practical, albeit nonconceptual, representations—the sort of representations that intellectualism independently requires for knowledge-how (section 2).
+With C2\*, the argument goes on as before. Stanley & Krakauer (2013) seems to accept this conclusion (for more discussion and critiques, see Krakauer 2019; Springle 2019; De Brigard 2019; Schwartz & Drayson 2019)[^krakauer-2019][^schwartz-2019][^springle-2019]. Other intellectualists reply that this argument misses the intellectualist target. Cath (2020)[^cath-2020] argues that procedural representation might be a prerequisite for knowledge-how rather than a constituent. Pavese (2019)[^pavese-2019] develops an account on which procedural representations, of the sort studied by motor scientists when giving an account of the procedural aspect of skill (Wolpert 1997; Jeannerod 1997)[^jeannerod-1997][^wolpert-1997], can be understood as practical, albeit nonconceptual, representations—the sort of representations that intellectualism independently requires for knowledge-how (section 2).
 
 ### 7.3 Articulability
 
@@ -540,7 +540,7 @@ The author would like to acknowledge the contributions of Alejandro Vesga to thi
 
 [^cohen-1980]: Cohen, N. J. and L. R. Squire, 1980, “Preserved Learning and Retention of Pattern-Analyzing Skill in Amnesia: Dissociation of Knowing How and Knowing That”, *Science*, 210(4466): 207–210. doi:10.1126/science.7414331
 
-[^collins-1990]: Collins, Patricia Hill, 1990 [2007]***2007*, “Black Feminist Epistemology”, in *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment*, Bostin: Unwin Hyman; second edition, New York: Routledge, 2000, 251–271. Reprinted as “Black Feminist Epistemology [1990]”, in *Contemporary Sociological Theory*, second edition, Craig J. Calhoun (ed.), Malden, MA: Blackwell, 2007, 327–336.
+[^collins-1990]: Collins, Patricia Hill, 1990 [2007]\*\*\*2007\*, “Black Feminist Epistemology”, in *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment*, Bostin: Unwin Hyman; second edition, New York: Routledge, 2000, 251–271. Reprinted as “Black Feminist Epistemology [1990]”, in *Contemporary Sociological Theory*, second edition, Craig J. Calhoun (ed.), Malden, MA: Blackwell, 2007, 327–336.
 
 [^collins-1998]: –––, 1998, “Some Group Matters: Intersectionality, Situated Standpoints, and Black Feminist Thought”, in *Fighting Words: Black Women and The Search for Justice*, Minneapolis: University of Minnesota Press. Reprinted in 2003 *A Companion to African-American Philosophy*, Tommy L. Lott and John P. Pittman (eds.), Malden, MA: Blackwell Publishing, 205–229. doi:10.1002/9780470751640.ch12
 

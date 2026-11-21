@@ -452,7 +452,7 @@ One may wonder why it is that, since a pervasion relation is of the form “all 
 
 Just as perception and inference are described, in the *pramāṇa* system, as knowledge-yielding faculties, so too is language. This leads the Nyāya to formulate a description of the mechanism by which a competent language-user is able to decode noise-utterances and derive language-based knowledge. The description *The Manual of Reason* gives of this ‘language processing mechanism’ is as follows (TS 67, 68). The input to the process is the hearer’s auditory perception of a spoken utterance qua uninterpreted noise, and this is identified as the ‘special’ instrument cause (*karaṇa*). For example, hearing the noise-string
 
-[*]
+[\*]
 
 “The” “cat” “is” “on” “the” “mat”.
 

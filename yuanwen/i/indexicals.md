@@ -260,7 +260,7 @@ Castañeda (1966, 1967)[^castañeda-1966][^castañeda-1967] argues that ‘he hi
 - (19) John believed at $t_0$ that he was making a mess.
 - (20) John believed at $t_0$ that he himself was making a mess.
 
-Castañeda uses the term *quasi-indicator* for expressions such as ‘he himself’ and ‘she herself’ that he claims can be used to ascribe (only) indexical beliefs that the subject would express with a first-person pronoun such as ‘I’. Castañeda uses ‘he*’ and ‘she*’ as abbreviations for ‘he himself’ and ‘she herself’.
+Castañeda uses the term *quasi-indicator* for expressions such as ‘he himself’ and ‘she herself’ that he claims can be used to ascribe (only) indexical beliefs that the subject would express with a first-person pronoun such as ‘I’. Castañeda uses ‘he\*’ and ‘she\*’ as abbreviations for ‘he himself’ and ‘she herself’.
 
 Perry (2000, Chapter 5) argues that belief attributions containing ‘he himself’ in their ‘that’-clauses do not semantically require that the subject have a first-person belief. Instead, utterances of such belief attributions merely suggest that the subject has a first-person belief. Schlenker (2003)[^schlenker-2003], however, claims that some languages other than English contain lexical items that are quasi-indicators in Castañeda’s sense. See also Rabern and Ball 2019.
 

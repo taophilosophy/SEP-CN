@@ -216,7 +216,7 @@ Bacon, Francis | Boyle, Robert | Cambridge Platonists | Cavendish, Margaret Luca
 
 [^descartes-1641b]: Descartes, R., 1641b, Letter to Marin Mersenne for Hobbes, in N. Malcolm (ed.), *The Correspondence of Thomas Hobbes*, Oxford: Oxford University Press, 1998, 94–101
 
-[^descartes-1643]: Descartes, R., 1643, Letter to Father ****, in J. Cottingham, R. Stoothoff, and D. Murdoch (eds.), *The Philosophical Writings of Descartes*, Cambridge: Cambridge University Press, 1984, 3.230–1
+[^descartes-1643]: Descartes, R., 1643, Letter to Father \*\*\*\*, in J. Cottingham, R. Stoothoff, and D. Murdoch (eds.), *The Philosophical Writings of Descartes*, Cambridge: Cambridge University Press, 1984, 3.230–1
 
 [^hobbes-1640]: Hobbes, T., 1640, *The Elements of Law*, in J.C.A. Gaskin (ed.) *The Elements of Law, Natural and Politic*, Oxford: Oxford University Press, 1990.
 

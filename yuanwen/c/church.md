@@ -4,7 +4,7 @@
 
 ![photo of Alonzo Church pointing to a blackboard](../assets/church/alonzo-church.png)
 
-Photo from Burge & Enderton 2019, reproduced with permission from the editor.
+*Photo from Burge & Enderton 2019, reproduced with permission from the editor.*
 **First published Thu Oct 21, 2021; substantive revision Thu Feb 24, 2022**
 
 Alonzo Church (1903–1995) was a renowned mathematical logician, philosophical logician, philosopher, teacher and editor. He was one of the founders of the discipline of mathematical logic as it developed after Cantor, Frege and Russell. He was also one of the principal founders of the *Association for Symbolic Logic* and the *Journal of Symbolic Logic*. The list of his students, mathematical and philosophical, is striking as it contains the names of renowned logicians and philosophers. In this article, we focus primarily on Church’s philosophical contributions. (For an account of his life and academic history see the Introduction to *The Collected Works of Alonzo Church* (2019).) However, we also discuss his mathematical results when it is desirable to do so in order to pursue a philosophical issue. In Church’s case, the distinction between philosopher and formal logician/mathematician is not entirely correct, since *all* of his work (except for the occasional paper on some purely mathematical subject) concerns logical issues in one way or another.
@@ -390,9 +390,9 @@ but also in *indirect* contexts such as:
 
 Hammurabi believes that (1).
 
-Which sense do we assign to “Hesperus” in (2)? From the perspective of a Fregean semantic theory, this question has the following answer. First, we distinguish the expression “Hesperus” from an *occurrence* of it in a non-customary syntactic position such as in (2). Secondly, we assign a non-customary sense to its occurrence in (2) so that this occurrence expresses not the customary sense of “Hesperus” (say, *the first planet visible in the evening*) but its indirect sense. Thirdly, we claim that this indirect sense determines the expression’s customary sense as the designatum of the non-customary occurrence (cf. Frege 1892a; Salmón 1993)[^frege-1892a][^salmón-1993]. However, such subtleties will require us to complicate the background logic. In this case, we have to prohibit the application of Leibniz law to indirect contexts; this is because names with the same customary designatum but *different* customary senses cannot be substituted *salva veritate* within contexts where they designate their customary senses. For example, (2) can be true while (2*) is false:
+Which sense do we assign to “Hesperus” in (2)? From the perspective of a Fregean semantic theory, this question has the following answer. First, we distinguish the expression “Hesperus” from an *occurrence* of it in a non-customary syntactic position such as in (2). Secondly, we assign a non-customary sense to its occurrence in (2) so that this occurrence expresses not the customary sense of “Hesperus” (say, *the first planet visible in the evening*) but its indirect sense. Thirdly, we claim that this indirect sense determines the expression’s customary sense as the designatum of the non-customary occurrence (cf. Frege 1892a; Salmón 1993)[^frege-1892a][^salmón-1993]. However, such subtleties will require us to complicate the background logic. In this case, we have to prohibit the application of Leibniz law to indirect contexts; this is because names with the same customary designatum but *different* customary senses cannot be substituted *salva veritate* within contexts where they designate their customary senses. For example, (2) can be true while (2\*) is false:
 
-(2*)
+(2\*)
 
 Hammurabi believes that Phosphorus is a planet.
 
@@ -473,9 +473,9 @@ Church first shows how GP may be derived within STT using certain principles con
 
 $$\tag{*} D(v,F) \supset_{v F} \hdot D(v,G) \supset_{G} \hdot F(x) \equiv_{x} G(x).$$
 
-(Note the following notational conventions. Firstly, a connective can take a variable as subscript: that variable becomes a universal quantifier whose scope is precisely that of the connective. Secondly, a dot placed before a connective brackets a proposition. The stars are also Church’s notation.) Church decides to avoid the stronger axiom asserting that $D$ is functional due to complications concerning identity in the ramified theory, but the effect is the same. The axiom * guarantees a weaker form of functionality: It is a function from words as individuals to extensions of propositional functions, assuming the axiom of extensionality for such extensions. Next Church invokes an informally stated principle that he describes as “reasonable”:
+(Note the following notational conventions. Firstly, a connective can take a variable as subscript: that variable becomes a universal quantifier whose scope is precisely that of the connective. Secondly, a dot placed before a connective brackets a proposition. The stars are also Church’s notation.) Church decides to avoid the stronger axiom asserting that $D$ is functional due to complications concerning identity in the ramified theory, but the effect is the same. The axiom \* guarantees a weaker form of functionality: It is a function from words as individuals to extensions of propositional functions, assuming the axiom of extensionality for such extensions. Next Church invokes an informally stated principle that he describes as “reasonable”:
 
-**
+\*\*
 
 Whenever an individual or a propositional function has been determined in some unique way, it is permissible to extend the language by introducing a constant (a word) which denotes it.
 
@@ -485,11 +485,11 @@ $$\tag*{***} \het(w) \equiv_{w} (\exists F) \hdot D(w, F) \cdot \nsim F(w).$$
 
 (Note the difference between the dot placed before the connective and the conjunction sign itself.) By a simple deduction from the three starred principles and basic logic, Church derives both $\het(v)$ and $\nsim \het(v)$. Church’s deduction closely resembles one given by Copi (1971)[^copi-1971], who attributes it to Ramsey. (See [supplement F](church.supplementF.md).)
 
-Church clearly thinks that the starred principles are “reasonable” and that the only problem is that they make use of an impredicative definition, namely, ***, and that when the starred principles are suitably ramified, the problem can be solved in the manner Russell (1908)[^russell-1908] foresaw and implemented, if imperfectly (PM). He remarks that
+Church clearly thinks that the starred principles are “reasonable” and that the only problem is that they make use of an impredicative definition, namely, \*\*\*, and that when the starred principles are suitably ramified, the problem can be solved in the manner Russell (1908)[^russell-1908] foresaw and implemented, if imperfectly (PM). He remarks that
 
 $$\tag*{****} \het^{m+1} (w) \equiv_{w} (\exists F^{1/m}) \hdot D(w,F) \cdot \nsim F(w)$$
 
-which replaces ***, when level indicators are supplied, defines an infinite list of het predicates, “het²”, “het³”, …, and the two other starred principles are also to be supplied with level indicators. Church now gives what appears to be a hastily composed list of inferences with annotations but no comment. However, Church in effect here proves the analogues of theorems (6) and (7) of (1976), with $D$ in place of Val. These are:
+which replaces \*\*\*, when level indicators are supplied, defines an infinite list of het predicates, “het²”, “het³”, …, and the two other starred principles are also to be supplied with level indicators. Church now gives what appears to be a hastily composed list of inferences with annotations but no comment. However, Church in effect here proves the analogues of theorems (6) and (7) of (1976), with $D$ in place of Val. These are:
 
 $$\tag{\(6'\)} \left[D^{m +1} (v, G^{1/m+1}) \hdot G(x) \equiv_{x} \het^{m+1} (x)\right] \supset \nsim \het^{n+1} (v), \textrm{ if } m \ge n $$ $$ \tag{\(7'\)} \left[D^{m +1} (v, G^{1/m+1}) \hdot G(x) \equiv_{x} \het^{m+1} (x)\right] \supset \het^{n+1} (v), \textrm{ if } m \lt n. $$
 
@@ -499,13 +499,13 @@ $$\tag{5} \het^{n+1} (v) \supset \het^{m+1} (v), \text{ if } m \ge n.$$
 
 (5) is a theorem of (1976).
 
-Note that, as in the case of Val, the level $m+1$ of $D^{m+1}$ is determined entirely by the level of its second argument place. (5) is needed as a lemma in the proofs of ($6'$) and ($7'$). In (1995a) Church appeals to (5) without comment, perhaps assuming implicitly the $D$-analogue of axiom (4) of (1976) reflecting that the types of the semantical predicates are cumulative—as are the types of (1976) in general. It is also worth noting that in the background is an *r*-typed version of the principle ** asserting that at any level $m$ there is a word $v$ denoting a property having the same extension as $\het^m$. (Compare theorem (8) of (1976).)
+Note that, as in the case of Val, the level $m+1$ of $D^{m+1}$ is determined entirely by the level of its second argument place. (5) is needed as a lemma in the proofs of ($6'$) and ($7'$). In (1995a) Church appeals to (5) without comment, perhaps assuming implicitly the $D$-analogue of axiom (4) of (1976) reflecting that the types of the semantical predicates are cumulative—as are the types of (1976) in general. It is also worth noting that in the background is an *r*-typed version of the principle \*\* asserting that at any level $m$ there is a word $v$ denoting a property having the same extension as $\het^m$. (Compare theorem (8) of (1976).)
 
 In this scheme, the question whether the word “heterological” is heterological becomes the question whether a word $v$ denoting that property, or rather a word with same extension, is heterological; and the answer is that it depends on the level of the property $\het^{m+1}$.
 
 At levels equal to or less than $m+1$, $\het(v)$ is false; that is, $v$ is autological. At levels greater than $m+1$, v is heterological; this, according to ($6'$) and ($7'$). There is, therefore, no *one* property of heterologicality such that it is possible to ask whether a word for it is heterological or not; and this blocks GP.
 
-Church’s point of view is that the semantical primitives and principles, including **, that were added to STT to obtain GP are all “reasonable”. The only thing missing is ramification. This is in essence why Church thought that RTT provides the framework for the solution to the semantical paradoxes. (For more details see [supplement F](church.supplementF.md).)
+Church’s point of view is that the semantical primitives and principles, including \*\*, that were added to STT to obtain GP are all “reasonable”. The only thing missing is ramification. This is in essence why Church thought that RTT provides the framework for the solution to the semantical paradoxes. (For more details see [supplement F](church.supplementF.md).)
 
 In an undated typescript newly published in *The Collected Works* (n.d., [BE: 928]), Church formulates conditions required for the derivation of the Berry paradox within STT and indicates how it is resolved in RTT. He uses Val to formulate a condition giving the “Berry number” of a formula. His formulation is quite similar to that found in Boolos et al. [2007: 228). But in this short note he does not give a derivation of the paradox within STT.
 
@@ -863,7 +863,7 @@ The authors are grateful to C. Anthony Anderson, Allen Hazen, Hasen Khudairi, Ga
 
 [^anderson-1998]: –––, 1998, “Alonzo Church’s Contributions to Philosophy and Intensional Logic”, *Bulletin of Symbolic Logic*, 4(2): 129–171. doi:10.2307/421020
 
-[^anderson-2001]: –––, 2001, “Alternative (1*): A Criterion of Identity for Intensional Entities”, in Anderson and Zelëny 2001: 395–427. doi:10.1007/978-94-010-0526-5_19
+[^anderson-2001]: –––, 2001, “Alternative (1\*): A Criterion of Identity for Intensional Entities”, in Anderson and Zelëny 2001: 395–427. doi:10.1007/978-94-010-0526-5_19
 
 [^anderson-2001-2]: Anderson, C. Anthony and Michael Zelëny (eds.), 2001, *Logic, Meaning and Computation: Essays in Memory of Alonzo Church*, Dordrecht: Kluwer. doi:10.1007/978-94-010-0526-5
 
@@ -1007,7 +1007,7 @@ The authors are grateful to C. Anthony Anderson, Allen Hazen, Hasen Khudairi, Ga
 
 [^kripke-1979]: Kripke, Saul A., 1979, “A Puzzle about Belief”, in Margalit 1979: 239–283. doi:10.1007/978-1-4020-4104-4_20
 
-[^kripke-2005]: –––, 2005, “Russell’s Notion of Scope*”, *Mind*, 114(456): 1005–1037. doi:10.1093/mind/fzi1005
+[^kripke-2005]: –––, 2005, “Russell’s Notion of Scope\*”, *Mind*, 114(456): 1005–1037. doi:10.1093/mind/fzi1005
 
 [^kripke-2008]: –––, 2008 [2011a], “Frege’s Theory of Sense and Reference: Some Exegetical Notes”, *Theoria*, 74(3): 181–218. Reprinted in Kripke 2011c: ch. 9, pp. 254–291. doi:10.1111/j.1755-2567.2008.00018.x
 

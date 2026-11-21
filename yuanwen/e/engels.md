@@ -212,23 +212,23 @@ feminist philosophy, interventions: political philosophy | Feuerbach, Ludwig And
 
 [^all-1845-2]: 1845, *Die Lage der arbeitenden Klasse in England. Nach eigner Anschauung und authentischen Quellen*, Leipzig; translated as *The Condition of the Working-Class in England: From Personal Observation and Authentic Sources*, by Florence Kelley-Wischnewetzky, in MECW 4: 295–583.
 
-[^all-1845-3]: *1845–46 (coauthored with Marx), *Die deutsche Ideologie. Kritik der neuesten deutschen Philosophie in ihren Repräsentanten Feuerbach, B. Bauer und Stirner, und des deutschen Sozialismus in seinen verschiedenen Propheten*, published only posthumously (see MEGA II/5); translated as *The German Ideology: Critique of Modern German Philosophy according to its Representatives Feuerbach, B. Bauer and Stirner, and of German Socialism According to its Various Prophets*, by Clemens Dutt, W. Lough, and C. P. Magill, in MECW 5: 19–539.
+[^all-1845-3]: \*1845–46 (coauthored with Marx), *Die deutsche Ideologie. Kritik der neuesten deutschen Philosophie in ihren Repräsentanten Feuerbach, B. Bauer und Stirner, und des deutschen Sozialismus in seinen verschiedenen Propheten*, published only posthumously (see MEGA II/5); translated as *The German Ideology: Critique of Modern German Philosophy according to its Representatives Feuerbach, B. Bauer and Stirner, and of German Socialism According to its Various Prophets*, by Clemens Dutt, W. Lough, and C. P. Magill, in MECW 5: 19–539.
 
-[^all-1847]: *1847, “Grundsätze des Kommunismus”, published only posthumously (see MEGA I/6); translated as “Principles of Communism”, in MECW 6: 341–357. [This is Engels’s substantial draft of what would become the coauthored *Manifesto of the Communist Party*, see next.]
+[^all-1847]: \*1847, “Grundsätze des Kommunismus”, published only posthumously (see MEGA I/6); translated as “Principles of Communism”, in MECW 6: 341–357. [This is Engels’s substantial draft of what would become the coauthored *Manifesto of the Communist Party*, see next.]
 
 [^all-1848]: 1848 (coauthored with Marx), *Manifest der Kommunistischen Partei*, London; translated as *Manifesto of the Communist Party*, by Samuel Moore, in MECW 6: 477–517.
 
 [^all-1850]: 1850, “Der deutsche Bauernkrieg”, *Neue Rheinische Zeitung. Politisch-ökonomische Revue*, No. 5–6, ed. Karl Marx; translated as *The Peasant War in Germany*, in MECW 10: 397–482.
 
-[^all-1852]: *1852 (coauthored with Marx), *Der großen Männer des Exils*, published only posthumously (see MEGA I/11); translated as *The Great Men of the Exile*, by Rodney Livingstone, in MECW 11: 227–326.
+[^all-1852]: \*1852 (coauthored with Marx), *Der großen Männer des Exils*, published only posthumously (see MEGA I/11); translated as *The Great Men of the Exile*, by Rodney Livingstone, in MECW 11: 227–326.
 
 [^all-1859]: 1859, [Review of] “Karl Marx, *Zur Kritik der politischen Oeconomie*”, [serialized in] *Das Volk*, Nos. 14 and 15; translated as [review of] “Karl Marx, *A Contribution to the Critique of Political Economy*”, by Salo Ryazanskaya, in MECW 16: 465–477.
 
-[^all-1870]: *1870, *Geschichte Irlands*, published only posthumously (see MEGA I/21); translated as *The History of Ireland*, by Barrie Selman, in MECW 21: 145–185.
+[^all-1870]: \*1870, *Geschichte Irlands*, published only posthumously (see MEGA I/21); translated as *The History of Ireland*, by Barrie Selman, in MECW 21: 145–185.
 
 [^all-1872]: 1872–73, “Zur Wohnungsfrage”, [serialized in] *Der Volksstaat*, Nos. 51, 52, 53, 103, and 104; second edition [as pamphlet], 1887, Hottingen-Zürich; translated as *The Housing Question*, in MECW 23: 315–391.
 
-[^all-1873]: *1873–82, *Dialektik der Natur*, published only posthumously (see MEGA I/26); translated as *Dialectics of Nature*, by Clemens Dutt, in MECW 25: 311–588.
+[^all-1873]: \*1873–82, *Dialektik der Natur*, published only posthumously (see MEGA I/26); translated as *Dialectics of Nature*, by Clemens Dutt, in MECW 25: 311–588.
 
 [^all-1878]: 1878, *Herrn Eugen Dühring’s Umwälzung der Wissenschaft*, Leipzig [following serial publication in 1877–78 in numerous issues of *Vorwarts* and *Wissenschaftliche Beilage*]; third revised edition, 1894, Stuttgart; translated as *Herr Eugen Dühring’s Revolution in Science* [“*Anti-Dühring*”], by Emile Burns, in MECW 25: 1–312.
 
@@ -244,7 +244,7 @@ feminist philosophy, interventions: political philosophy | Feuerbach, Ludwig And
 
 [^all-1894]: 1894–95 “Zur Geschichte des Urchristentums”, [serialized in] *Die Neue Zeit*, Vol. 1, Nos. 1 and 2; translated as “On the History of Early Christianity”, in MECW 27: 445–469.
 
-[^all-1895]: *1895, “Einleitung zu Marx’ *Klassenkämpfe in Frankreich 1848 bis 1850*”, first published in abridged form in *Die Neue Zeit*, Vol. 2, Nos. 27 and 28; full text published only posthumously (see MEGA I/32); translated as “Introduction [to Karl Marx’s *The Class Struggles in France 1848 to 1850*]”, in MECW 27: 506–524.
+[^all-1895]: \*1895, “Einleitung zu Marx’ *Klassenkämpfe in Frankreich 1848 bis 1850*”, first published in abridged form in *Die Neue Zeit*, Vol. 2, Nos. 27 and 28; full text published only posthumously (see MEGA I/32); translated as “Introduction [to Karl Marx’s *The Class Struggles in France 1848 to 1850*]”, in MECW 27: 506–524.
 
 [^anderson-2010]: Anderson, Kevin, 2010 [2016], *Marx at the Margins: On Nationalism, Ethnicity, and Non-Western Societies*, Chicago: University of Chicago Press; expanded edition, 2016.
 

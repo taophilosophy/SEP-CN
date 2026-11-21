@@ -249,7 +249,7 @@ Experimental-philosophical research has been conducted in a large swath of philo
 
 ![A pie chart breaking down 3389 entries into subcategories. In order of size they are Ethics (808), Foundations of X-phi (431), Miscellaneous (426), Action Theory (378), Epistemology (312), Philosophy of Language (298), Metaphysics (218), Philosophy of Mind (217), Philosophy of Science (89), Aesthetics (85), Philosophy of Religion (74), Philosophy of Law (58).](../assets/experimental-philosophy/fig-philpapers.png)
 
-*Figure 1:* Categorized entries under “experimental philosophy” on PhilPapers as of 31 January 2025, broken down by subcategory.
+\*Figure 1:\* Categorized entries under “experimental philosophy” on PhilPapers as of 31 January 2025, broken down by subcategory.
 
 Given the extent of research in experimental philosophy and breadth of areas explored, it is well beyond the scope of this entry to provide a comprehensive treatment (but see Sytsma & Buckwalter 2016; Bauer & Kornmesser 2023)[^bauer-2023][^sytsma-2016][^sytsma-2016-2]. Instead, this section aims to further illustrate first-order research in x-phi, complimenting the examples provided in the previous sections by spotlighting one related set of results and noting the broader body of empirical work surrounding them.
 

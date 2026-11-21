@@ -886,7 +886,7 @@ Beginning with the 2025 update, Norbert Gratzl and Edi Pavlović have taken resp
 
 [^lambert-1997]: –––, 1997, *Free Logics: Their Foundations, Character, and Some Applications Thereof*. Sankt Augustin: Academia Verlag.
 
-[^lambert-1999]: –––, 1999, “Logically Proper Definite Descriptions* an Essay in Honor of Ruth Marcus.” *Dialectica* 53 (3–4): 271–82.
+[^lambert-1999]: –––, 1999, “Logically Proper Definite Descriptions\* an Essay in Honor of Ruth Marcus.” *Dialectica* 53 (3–4): 271–82.
 
 [^lambert-2001a]: –––, 2001a, “Free Logic and Definite Descriptions,” in Morscher and Hieke 2001, pp. 37–47.
 

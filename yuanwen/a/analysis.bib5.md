@@ -57,14 +57,14 @@ This section of the bibliography corresponds to Section 5 of the main entry, and
 - ––– 1993, ‘Hegel’s conception of logic’, in Beiser 1993, 86–101
 - Craig, Edward, 1987, *The Mind of God and the Works of Man*, Oxford: Oxford University Press
 - Ezekiel, Anna, 2022, ‘Revolution and Revitalization: Karoline von Günderrode’s Political Philosophy and its Metaphysical Foundations’, *British Journal for the History of Philosophy* 30.4: 666–86 [669–73: discussion of Günderrode’s ‘The Idea of the Earth’]
-- Fichte, Johann G., *F**GA*, *J. G. Fichte-Gesamtausgabe der Bayerischen Akademie der Wissenschaften*, ed. R. Lauth *et al.*, Stuttgart-Bad Cannstatt, 1962–
+- Fichte, Johann G., *FGA*, *J. G. Fichte-Gesamtausgabe der Bayerischen Akademie der Wissenschaften*, ed. R. Lauth *et al.*, Stuttgart-Bad Cannstatt, 1962–
 - Förster, Eckart, 2012, *The Twenty-Five Years of Philosophy: A Systematic Reconstruction*, tr. B. Bowman, Harvard: Harvard University Press [Kant, Fichte, Schelling, Goethe, Hegel]
 - Forster, Michael, 1993, ‘Hegel’s dialectical method’, in Beiser 1993, 130–70
 - Forster, Michael N. and Kristin Gjesdal, (eds.), 2015, *The Oxford Handbook of German Philosophy in the Nineteenth Century*, Oxford: Oxford University Press
 - Goethe, Johann W., *Faust* [I, lines 1908–1941: Meph. vs. analysis]
 - ––– 1829, ‘Analysis and Synthesis’, in *The Essential Goethe*, ed. Matthew Bell, Princeton: Princeton University Press, 993–5
 - ––– *SN*, *Die Schriften zur Naturwissenschaft*, ed. K. Lothar Wolf *et al.*, Weimar: Hermann Böhlaus Nachfolger
-- ––– *G**SS*, *Scientific Studies*, ed. and tr. D. E. Miller, New York: Suhrkamp, 1988
+- ––– *GSS*, *Scientific Studies*, ed. and tr. D. E. Miller, New York: Suhrkamp, 1988
 - Günderrode, Karoline von, *GSW*, *Sämtliche Werke und Ausgewählte Studien*, ed. W. Morgenthaler, Frankfurt am Main: Stroemfeld Verlag
 - ––– *IE*, ‘The Idea of the Earth’, tr. A. Ezekiel, in Nassar and Gjesdal 2021, 82–4
 - Hegel, G. W. F., *PS*, *Phenomenology of Spirit*, 1807, tr. A. V. Miller, Oxford: Oxford University Press, 1977 [§32: analysis as destructive dissolution {Quotation}]

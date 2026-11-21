@@ -34,7 +34,7 @@ We see three tendencies or foci, divided by what they take to be the subject mat
 | *Children’s language* | A nascent form of language, very different from adult linguistic competence | A series of stages in an ontogenetic process of developing adult communicative competence | Very similar to adult linguistic competence though obscured by cognitive, articulatory, and lexical limits |
 | *What is acquired* | A grasp of the distributional properties of the constituents of expressions of a language | A mainly conventional and culturally transmitted system for linguistic communication | An internalized generative device that characterizes an infinite set of expressions |
 
-*Table 1.* Three Approaches to the Study of Language
+\*Table 1.\* Three Approaches to the Study of Language
 
 A broad and varied range of distinct research projects can be pursued within any of these approaches; one advocate may be more motivated by some parts of the overall project than others are. So the tendencies should not be taken as sharply honed, well-developed research programs or theories. Rather, they provide background biases for the development of specific research programs—biases which sometimes develop into ideological stances or polemical programs or lead to the branching off of new specialisms with separate journals. In the judgment of Phillips (2010)[^phillips-2010], “Dialog between adherents of different approaches is alarmingly rare.”
 
@@ -104,11 +104,11 @@ Larson (1988)[^larson-1988] offers a generative Essentialist approach to the syn
 
 **(A)**
 
-i. The guard checked my pass. [active clause]
+i. *The guard checked my pass.* [active clause]
 
 **ii.**
 
-My pass was checked by the guard. [passive clause]
+*My pass was checked by the guard.* [passive clause]
 
 A tree structure for (Ai) is shown in (T1).
 
@@ -184,7 +184,7 @@ When a particular verb is used in this construction, it may have obligatory acco
 
 ![Instance of Goldberg's Ditransitive Construction](../assets/linguistics/fig2.png)
 
-Because of this requirement of explicit presence, *Hand him your pass* is grammatical, but ^{*}*Hand him* is not, and neither is ^{*}*Hand your pass*. The verb *send*, on the other hand, illustrates the optional syntactic expression of the recipient role: we can say *Send a text message*, which is understood to involve some recipient but does not make the recipient explicit.
+Because of this requirement of explicit presence, *Hand him your pass* is grammatical, but ^{\*}*Hand him* is not, and neither is ^{\*}*Hand your pass*. The verb *send*, on the other hand, illustrates the optional syntactic expression of the recipient role: we can say *Send a text message*, which is understood to involve some recipient but does not make the recipient explicit.
 
 The R notation relates to the fact that particular verbs may express either an *instance* of causing someone to receive something, as with *hand*, or a *means* of causing someone to receive something, as with *kick*: what *Joe kicked Bill the ball* means is that Joe caused Bill to receive the ball by means of a kicking action.
 
@@ -484,7 +484,7 @@ Every linguist admires Pānini.
 
 **(LF1)**
 
-∀*x*(Linguist(*x*) ⊃ Admires(*x*, *p*))
+∀*x*(Linguist(*x*) ⊃ Admires(*x*, ***p***))
 
 And from there perhaps to a model-theoretic description of its truth-conditions. A linguist, on the other hand, would aim to describe how (EX1) and (LF1) are related. From the point of view of a semantically-inclined Essentialist, the question is: how should the syntactic component of linguistic theory be written so that the semantic value (or, “logical form representation”) can be assigned? From some Emergentist points of view, the question is: how can the semantic properties and communicative function of an expression explain its syntactic properties?
 
@@ -608,17 +608,17 @@ But other annotations have been used to indicate a gradation in the extent to wh
 | (no prefix) | acceptable and thus presumably grammatical |
 | ? | of dubious acceptability, though probably grammatical |
 | ?? | clearly unacceptable but possibly grammatical |
-| ?* | unacceptable enough to suggest probable ungrammaticality |
-| * | unacceptable enough to suggest clear ungrammaticality |
-| ** | grossly unacceptable, suggesting extreme ungrammaticality |
+| ?\* | unacceptable enough to suggest probable ungrammaticality |
+| \* | unacceptable enough to suggest clear ungrammaticality |
+| \*\* | grossly unacceptable, suggesting extreme ungrammaticality |
 
-*Table 2:* Prefixes used to mark levels of acceptability
+\*Table 2:\* Prefixes used to mark levels of acceptability
 
 Such markings are often used in a way that suggests an **ordinal scale**, i.e. a partial ordering that is silent on anything other than equivalence in acceptability or ranking in degree of unacceptability.
 
 By contrast, Bard et al. (1996: 39) point out, it is possible to use **interval scales**, which additionally measure distance between ordinal positions. Interval scales of acceptability would measure *relative distances* between strings—how much more or less acceptable one is than another. **Magnitude estimation** is a method developed in psychophysics to measure subjects’ judgments of physical stimuli on an interval scale. Bard et al. (1996) adapted these methods to linguistic acceptability judgments, arguing that interval scales of measurement are required for testing theoretical claims that rely on subtle judgments of comparative acceptability. An ordinal scale of acceptability can represent one expression as being less acceptable than another, but cannot support quantitative questions about how much less. Many generative Essentialist theorists had been suggesting that violation of different universal principles led to different degrees of unacceptability. According to Bard et al. (34–35), because there may be “disproportion between the fineness of judgments people can make and the symbol set available for recording them” it will not suffice to use some fixed scale such as this one:
 
-? < ?? < ?* < * < **
+? < ?? < ?\* < \* < \*\*
 
 indicating absolute degrees of unacceptability. Degrees of relative unacceptability must be measured. This is done by asking the informant how much less acceptable one string is than another.
 
@@ -804,7 +804,7 @@ The reader with prior acquaintance with the literature of linguistics will notic
 | The unlearned capacities that underpin language acquisition constitute a uniquely human complex of non-linguistic dispositions and mechanisms that also subserve other cognitive functions | In addition to various broadly language-relevant cognitive and perceptual capacities, language acquisition draws on an unlearned system of ‘universal grammar’ that constrains language form |
 | Various non-human animal species may well have most or all of the capacities that humans use for language acquisition—though no non-human species seems to have the whole package, so interspecies differences are a matter of degree | There is a special component of the human mind which has the development of language as its key function, and no non-human species has anything of the sort, so there is a difference in kind between the abilities of humans and other animals |
 
-*Table 3:* General and linguistic nativism contrasted
+\*Table 3:\* General and linguistic nativism contrasted
 
 There does not really seem to be anyone who is a complete non-nativist: nobody really thinks that a creature with no unlearned capacities at all could acquire a language. That was the point of the much-quoted remark by Quine (1972: 95–96)[^quine-1972] about how “the behaviorist is knowingly and cheerfully up to his neck in innate mechanisms of learning-readiness”. Geoffrey Sampson (2001, 2005)[^sampson-2001][^sampson-2005] is about as extreme an opponent of linguistic nativism as one can find, but even he would not take the failure of language acquisition in his cat to be unrelated to the cognitive and physical capabilities of cats.
 

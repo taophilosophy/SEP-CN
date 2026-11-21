@@ -58,7 +58,7 @@ $ -x =_{df} \mathbin{\mbox{Fu}^\prime} \hat{y}(y \int x) $ the complement indivi
 
 Note that “$V$” denotes the class of all individuals; “$\cup$” denotes the binary function of set-theoretic union; “{” and “}” are set brackets, so “{$x$}” denotes the singleton set of $x$. “($\iota x$)” is Russell's well-known definite descriptions operator (“the unique $x$ that is …”), and “$\hat{y}$” is the class abstraction operator (see also the entry on the notation in *Principia Mathematica*). “$R^\prime y$” denotes the nowadays perhaps less familiar “descriptive function” of a relation $R$ for an argument $y$, as defined in Whitehead and Russell's *Principia Mathematica* (Whitehead and Russell 1910–13):
 
-*30.01
+\*30.01
 
 $R^\prime y =_{df} (\iota x)Rxy$
 

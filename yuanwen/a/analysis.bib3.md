@@ -59,7 +59,7 @@ This section of the bibliography corresponds to Section 3 of the main entry, and
 - ––– 2001, *The Word and the World: India*’*s Contribution to the Study of Language*, New Delhi: Oxford University Press; first edn. 1990
 - ––– 2005, *Epistemology, Logic, and Grammar in Indian Philosophical Analysis*, 2nd edn., ed. J. Ganeri, Oxford: Oxford University Press; first publ. 1971
 - Matilal, Bimal Krishna and Arindam Chakrabarti, (eds.), 1994, *Knowing from Words*, Dordrecht: Kluwer
-- Mohanty, J. N., 1966, *Gaṅgeśa**’s Theory of Truth*, Santiniketan: Visva-Bharati
+- Mohanty, J. N., 1966, *Gaṅgeśa’s Theory of Truth*, Santiniketan: Visva-Bharati
 - Pāṇini, 1954, *Aṣṭādhyāyī-sūtrapatha*, Bombay: Nirnayasagar
 - Perrett, Roy W., 2016, *An Introduction to Indian Philosophy*, Cambridge: Cambridge University Press [ch. 2: ‘Knowledge’; ch. 3: ‘Reasoning’; ch. 4: ‘Word’]
 - Phillips, Stephen H., 2012, *Epistemology in Classical India: The Knowledge Sources of the Nyāya School*, London: Routledge

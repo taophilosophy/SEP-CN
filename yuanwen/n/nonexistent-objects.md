@@ -690,7 +690,7 @@ The problem of the underdetermination of nonexistent objects in the actual world
 
 [^note-31]: We use the superscripts ‘$^n$’ and ‘$^e$’ to indicate whether the properties in question are nuclear or extranuclear.
 
-[^note-32]: If we set aside the constitutive-consecutive distinction, we may interpret the object called “blue” as $\iota x\forall F^n(F^nx \equiv F^n = B^n).$ This object has exactly one nuclear property, namely the property of being blue. But this object too has infinitely many extranuclear properties, among them the property of having exactly one nuclear property. Thus the paradox is avoided in the same way as with \(\iota x\forall F^n(F^n x \equiv B^n \Rightarrow F^n).
+[^note-32]: If we set aside the constitutive-consecutive distinction, we may interpret the object called “blue” as $\iota x\forall F^n(F^nx \equiv F^n = B^n).$ This object has exactly one nuclear property, namely the property of being blue. But this object too has infinitely many extranuclear properties, among them the property of having exactly one nuclear property. Thus the paradox is avoided in the same way as with \\(\\iota x\\forall F^n(F^n x \\equiv B^n \\Rightarrow F^n).
 
 [^note-33]: This doctrine raises a difficult question: what is the difference between an extranuclear property and its nuclear counterpart? For a discussion of this problem see Reicher 2005b.
 

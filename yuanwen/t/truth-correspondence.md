@@ -114,7 +114,7 @@ Historically, the correspondence theory, usually in an object-based version, was
 
 ## 5. Objections to the Correspondence Theory
 
-*Objection 1*: Definitions like (1) or (2) are too narrow. Although they apply to truths from some domains of discourse, e.g., the domain of science, they fail for others, e.g. the domain of morality: there are no moral facts.
+***Objection 1*:** Definitions like (1) or (2) are too narrow. Although they apply to truths from some domains of discourse, e.g., the domain of science, they fail for others, e.g. the domain of morality: there are no moral facts.
 
 The objection recognizes moral truths, but rejects the idea that reality contains moral facts for moral truths to correspond to. Logic provides another example of a domain that has been “flagged” in this way. The logical positivists recognized logical truths but rejected logical facts. Their intellectual ancestor, Hume, had already given two definitions of “true”, one for logical truths, broadly conceived, the other for non-logical truths: “Truth or falsehood consists in an agreement or disagreement either to the *real* relations of ideas, or to *real* existence and matter of fact” (Hume, *Treatise*, 3.1.1, cf. 2.3.10; see also Locke, *Essay*, 4.5.6, for a similarly two-pronged account but in terms of object-based correspondence).
 
@@ -124,21 +124,21 @@ The objection in effect maintains that there are different brands of *truth* (of
 
 In connection with this objection, one should take note of the recently developed “multiple realizability” view of truth, according to which truth is *not* to be *identified* with correspondence to fact but can be *realized by* correspondence to fact for truthbearers of some domains of discourse and by other properties for truthbearers of other domains of discourse, including “flagged” domains. Though it retains important elements of the correspondence theory, this view does not, strictly speaking, offer a response to the objection on behalf of the correspondence theory and should be regarded as one of its competitors (see below, Section 8.2).
 
-*Objection 2*: Correspondence theories are too obvious. They are trivial, vacuous, trading in mere platitudes. Locutions from the “corresponds to the facts”-family are used regularly in everyday language as idiomatic substitutes for “true”. Such common turns of phrase should not be taken to indicate commitment to a correspondence *theory* in any serious sense. Definitions like (1) or (2) merely condense some trivial idioms into handy formulas; they don’t deserve the grand label “theory”: there is no theoretical weight behind them (cf. Woozley 1949, chap. 6; Davidson 1969; Blackburn 1984, chap. 7.1)[^blackburn-1984][^davidson-1969][^woozley-1949].
+***Objection 2*:** Correspondence theories are too obvious. They are trivial, vacuous, trading in mere platitudes. Locutions from the “corresponds to the facts”-family are used regularly in everyday language as idiomatic substitutes for “true”. Such common turns of phrase should not be taken to indicate commitment to a correspondence *theory* in any serious sense. Definitions like (1) or (2) merely condense some trivial idioms into handy formulas; they don’t deserve the grand label “theory”: there is no theoretical weight behind them (cf. Woozley 1949, chap. 6; Davidson 1969; Blackburn 1984, chap. 7.1)[^blackburn-1984][^davidson-1969][^woozley-1949].
 
 In response, one could point out: (*a*) Definitions like (1) or (2) are “mini-theories”—mini-theories are quite common in philosophy—and it is not at all obvious that they are vacuous merely because they are modeled on common usage. (*b*) There are correspondence theories that go beyond these definitions. (*c*) The complaint implies that definitions like (1) and/or (2) are generally accepted and are, moreover, so shallow that they are compatible with any deeper theory of truth. This makes it rather difficult to explain why some thinkers emphatically reject all correspondence formulations. (*d*) The objection implies that the correspondence of *S*’s belief with a fact could be said to consist in, e.g., the belief’s coherence with *S*’s overall belief system. This is wildly implausible, even on the most shallow understanding of “correspondence” and “fact”.
 
-*Objection 3*: Correspondence theories are too obscure.
+***Objection 3*:** Correspondence theories are too obscure.
 
 Objections of this sort, which are the most common, protest that the central notions of a correspondence theory carry unacceptable commitments and/or cannot be accounted for in any respectable manner. The objections can be divided into objections primarily aimed at the *correspondence relation* and its relatives (3.C1, 3.C2), and objections primarily aimed at the notions of *fact* or *state of affairs* (3.F1, 3.F2):
 
-*3.C1*: The correspondence relation must be some sort of resemblance relation. But truthbearers do not resemble anything in the world except other truthbearers—echoing Berkeley’s “an idea can be like nothing but an idea”.
+***3.C1***: The correspondence relation must be some sort of resemblance relation. But truthbearers do not resemble anything in the world except other truthbearers—echoing Berkeley’s “an idea can be like nothing but an idea”.
 
-*3.C2*: The correspondence relation is very mysterious: it seems to reach into the most distant regions of space (faster than light?) and time (past and future). How could such a relation possibly be accounted for within a naturalistic framework? What physical relation could it possibly be?
+***3.C2***: The correspondence relation is very mysterious: it seems to reach into the most distant regions of space (faster than light?) and time (past and future). How could such a relation possibly be accounted for within a naturalistic framework? What physical relation could it possibly be?
 
-*3.F1*: Given the great variety of complex truthbearers, a correspondence theory will be committed to all sorts of complex “funny facts” that are ontologically disreputable. Negative, disjunctive, conditional, universal, probabilistic, subjunctive, and counterfactual facts have all given cause for complaint on this score.
+***3.F1***: Given the great variety of complex truthbearers, a correspondence theory will be committed to all sorts of complex “funny facts” that are ontologically disreputable. Negative, disjunctive, conditional, universal, probabilistic, subjunctive, and counterfactual facts have all given cause for complaint on this score.
 
-*3.F2*: All facts, even the most simple ones, are disreputable. Fact-talk, being wedded to that-clauses, is entirely parasitic on truth-talk. Facts are too much like truthbearers. Facts are fictions, spurious sentence-like slices of reality, “projected from true sentences for the sake of correspondence” (Quine 1987, p. 213; cf. Strawson 1950)[^quine-1987][^strawson-1950].
+***3.F2***: All facts, even the most simple ones, are disreputable. Fact-talk, being wedded to that-clauses, is entirely parasitic on truth-talk. Facts are too much like truthbearers. Facts are fictions, spurious sentence-like slices of reality, “projected from true sentences for the sake of correspondence” (Quine 1987, p. 213; cf. Strawson 1950)[^quine-1987][^strawson-1950].
 
 ## 6. Correspondence as Isomorphism
 
@@ -559,7 +559,7 @@ belief | facts | language of thought hypothesis | liar paradox | logic: and onto
 
 [^russell-1908]: –––, 1908, ‘William James’s Conception of Truth’; reprinted in *Philosophical Essays*, New York: Simon and Schuster 1966, 112-130.
 
-[^russell-1910]: –––, 1910, *Principia Mathematica* to *56, with A. N. Whitehead, Cambridge: Cambridge University Press 1962.
+[^russell-1910]: –––, 1910, *Principia Mathematica* to \*56, with A. N. Whitehead, Cambridge: Cambridge University Press 1962.
 
 [^russell-1912]: –––, 1912, *Problems of Philosophy*, reprinted at Oxford: Oxford University Press 1971.
 

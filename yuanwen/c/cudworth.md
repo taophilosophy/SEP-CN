@@ -137,7 +137,7 @@ Cambridge Platonists | consciousness: seventeenth-century theories of | Descarte
 
 [^cudworth-1743]: 1743, *The True Intellectual System of the Universe*, Thomas Birch (ed.), reprinted 1820, 1839, American edition, Andover, Gould & Newman; New York, 1837–38). [includes *TEIM*]
 
-[^cudworth-1823]: 1823, 1824, Sistema intellettuale dell’universo di R. Cudwort [sic] (Italian translation), Marchese Luigi Benedetti (trans.), Pavia. [includes *TEIM*]
+[^cudworth-1823]: 1823, 1824, *Sistema intellettuale dell’universo di R. Cudwort [sic]* (Italian translation), Marchese Luigi Benedetti (trans.), Pavia. [includes *TEIM*]
 
 [^cudworth-1829]: 1829, *The Works of Ralph Cudworth … A new edition, with references to the several quotations in the Intellectual System, and a life of the author*, Thomas Birch (ed.), Oxford: D. A. Talboys.
 
@@ -155,7 +155,7 @@ Cambridge Platonists | consciousness: seventeenth-century theories of | Descarte
 
 [^cudworth-1995]: 1995, *Traité de morale et Traité du libre arbitre*, introduction, traduction et notes par Jean-Louis Breteau, Paris.
 
-[^cudworth-1996]: 1996, A Treatise Concerning Eternal and Immutable Morality with A Treatise of Freewill, Sarah Hutton (ed.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139166720
+[^cudworth-1996]: 1996, *A Treatise Concerning Eternal and Immutable Morality with A Treatise of Freewill*, Sarah Hutton (ed.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139166720
 
 [^fw-1996]: [*FW*], *Of Freewill*. Quotations above are from the 1996 edition edition printed with *TEIM* 1996.
 

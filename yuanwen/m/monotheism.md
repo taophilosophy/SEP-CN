@@ -129,14 +129,14 @@ The problem, in short is this. In order to be valid, “sufficient causal condit
 
 Both defects can be remedied, though. Even theists with robust views of human freedom would presumably endorse
 
-| 1*. | Necessarily, if any *x* is God, then for every concrete object distinct from *x*, the activity of *x* is a causally necessary condition for its existence, and if there are in fact one or more contingent beings distinct from *x*, then the activity of *x* is causally sufficient (in the strong sense) for the existence of at least one of them. |
+| 1\*. | Necessarily, if any *x* is God, then for every concrete object distinct from *x*, the activity of *x* is a causally necessary condition for its existence, and if there are in fact one or more contingent beings distinct from *x*, then the activity of *x* is causally sufficient (in the strong sense) for the existence of at least one of them. |
 | --- | --- |
 
-(1*) is sufficient to yield our conclusion. For if the first god is a causally necessary condition of the existence of every other concrete object, then the second god is not a causally sufficient condition (in the strong sense) of the existence of *any* contingent being. Similarly, if the first god is a causally sufficient condition (in the strong sense) of the existence of at least one contingent being, then the second god is not a necessary condition of the existence of at least one concrete object that is distinct from itself. And, of course, similar conclusions are true of the second god.
+(1\*) is sufficient to yield our conclusion. For if the first god is a causally necessary condition of the existence of every other concrete object, then the second god is not a causally sufficient condition (in the strong sense) of the existence of *any* contingent being. Similarly, if the first god is a causally sufficient condition (in the strong sense) of the existence of at least one contingent being, then the second god is not a necessary condition of the existence of at least one concrete object that is distinct from itself. And, of course, similar conclusions are true of the second god.
 
 Moreover, if God is a necessary being as many theists believe (that is, if God exists and is God in every possible world), then the argument’s first defect can be remedied as well, since the mere *possibility* of the existence of contingent beings will be sufficient to establish God’s necessary unicity. For consider the following argument:
 
-| 1*. | Necessarily, if any *x* is God, then for every concrete object distinct from *x*, the activity of *x* is a causally necessary condition for its existence, and if there are in fact one or more contingent beings distinct from *x*, then the activity of *x* is causally sufficient (in the strong sense) for the existence of at least one of them. |
+| 1\*. | Necessarily, if any *x* is God, then for every concrete object distinct from *x*, the activity of *x* is a causally necessary condition for its existence, and if there are in fact one or more contingent beings distinct from *x*, then the activity of *x* is causally sufficient (in the strong sense) for the existence of at least one of them. |
 | --- | --- |
 
 Suppose, then, that
@@ -151,7 +151,7 @@ It follows that
 
 Hence,
 
-1. Each god is a necessary causal condition of the existence of each contingent being in *w*, and each god is the sufficient causal condition (in the strong sense) of the existence of at least one contingent being in *w*. (From 1*, 17, and 18.)
+1. Each god is a necessary causal condition of the existence of each contingent being in *w*, and each god is the sufficient causal condition (in the strong sense) of the existence of at least one contingent being in *w*. (From 1\*, 17, and 18.)
 
 But,
 
@@ -159,7 +159,7 @@ But,
 
 Hence,
 
-1. It is impossible that there are two gods and contingent beings are possible, that is, it is necessarily true that if contingent beings are possible, it is false that there are two gods. (From 1* through 20. If a proposition [e.g., 16] together with one or more necessary truths [e.g., 1*] entails another [e.g., 19], and the second is impossible, the first is impossible.)
+1. It is impossible that there are two gods and contingent beings are possible, that is, it is necessarily true that if contingent beings are possible, it is false that there are two gods. (From 1\* through 20. If a proposition [e.g., 16] together with one or more necessary truths [e.g., 1\*] entails another [e.g., 19], and the second is impossible, the first is impossible.)
 
 But,
 

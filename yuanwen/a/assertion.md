@@ -469,7 +469,7 @@ Williamson’s initial framing of the debate on the norm of assertion takes for 
 
 *Specificity*: *N* applies specifically to assertion: only assertions are subject to *N*.
 
-(A1*)
+(A1\*)
 
 *Directness*: Assertions are subject to *N* directly, qua assertions.
 
@@ -479,7 +479,7 @@ By *Specificity*, *N* is a norm that regulates only one species of action: asser
 
 *Uniqueness*: There is only one norm of assertion: assertion is only subject to *N*
 
-(A2*)
+(A2\*)
 
 *Indirectness*: Assertions are subject to other normative standards, but only indirectly (not in virtue of the fact that they are assertions).
 
@@ -992,7 +992,7 @@ The difficulty is made more severe, because there are speakers with a demonstrat
 
 [^note-19]: Some authors have explored versions of the norm that also specify a sufficiency condition. A good biconditional formulation of (A5) is as follows (cf. Lackey 2011: 252)[^lackey-2011]:
 
-(A5*)
+(A5\*)
 
 *Bi-Permissibility*: One is epistemically positioned to assert that *p* iff *p* meets *C*.
 
@@ -1010,7 +1010,7 @@ DeRose (2002)[^derose-2002] defends a biconditional version of the knowledge nor
 
 [^note-25]: DeRose argued from the knowledge norm and the observation that in different contexts more or less stringent standard for asserting apply, to the conclusion that epistemic contextualism is true (2002b: 182). Epistemic contextualism is the view that “know” is semantically context dependent. The truth value of a knowledge attribution “*X* knows that *p*” depends on standards of knowledge in the context of the knowledge attributor.
 
-DeRose’s argument has been challenged by several authors. For instance, Brown (2008, 2010)[^brown-2008][^brown-2010] points out that the argument depends on the biconditional version (A5*) of the knowledge norm, and argues that the sufficiency part is less well supported. Stanley also criticizes DeRose, despite accepting that the standards of proper assertion vary between contexts. According to Stanley, the reason this does not lead to contextualism about knowledge is that assertion is governed by the certainty norm (2008: 55–56). According to Stanley, the varying standards of proper assertion depend on the context dependence of “certain”, not on any context dependence of “know” (which Stanley rejects). According to Schaffer (2008)[^schaffer-2008], on the other hand, knowledge itself is relative to a *question under discussion*, which is reflected in his version of the knowledge norm (2008: 10).
+DeRose’s argument has been challenged by several authors. For instance, Brown (2008, 2010)[^brown-2008][^brown-2010] points out that the argument depends on the biconditional version (A5\*) of the knowledge norm, and argues that the sufficiency part is less well supported. Stanley also criticizes DeRose, despite accepting that the standards of proper assertion vary between contexts. According to Stanley, the reason this does not lead to contextualism about knowledge is that assertion is governed by the certainty norm (2008: 55–56). According to Stanley, the varying standards of proper assertion depend on the context dependence of “certain”, not on any context dependence of “know” (which Stanley rejects). According to Schaffer (2008)[^schaffer-2008], on the other hand, knowledge itself is relative to a *question under discussion*, which is reflected in his version of the knowledge norm (2008: 10).
 
 [^note-26]: Factive views like (KNA) and (TNA) share another problem: they seem to predict that certain assertions are both permissible and impermissible. For discussion, see Pelling (2011, 2013b)[^pelling-2011][^pelling-2013b] and Rosenkranz (2023)[^rosenkranz-2023].
 

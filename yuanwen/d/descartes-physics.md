@@ -69,7 +69,7 @@ In this context, the complex notion of “determination” should be discussed, 
 
 ![Refract](../assets/descartes-physics/refract.jpg)
 
-*Figure 1.* Diagram from the *Optics.*
+\*Figure 1.\* Diagram from the *Optics.*
 
 Descartes’ determination hypothesis also incorporates a certain quantitative element, as revealed in a further controversial hypothesis that is often described as the “principle of least modal action”. In a letter to Clerselier (February 17th, 1645), Descartes explains:
 
@@ -101,7 +101,7 @@ In order to better grasp the specific role of Cartesian force, it would be usefu
 
 ![Stone](../assets/descartes-physics/stone1.jpg)
 
-*Figure 2.* Diagram that accompanies Pr III 57.
+\*Figure 2.\* Diagram that accompanies Pr III 57.
 
 Descartes’ use of the terms “tendency” and “striving” in his rotating sling example should not be equated with his previous concept of a determination of motion. A determination is confined to a body’s actual motion, whereas a body’s tendency towards motion only occurs at a single instant. He states: “Of course, no movement is accomplished in an instant; yet it is obvious that every moving body, at any given moment in the course of its movement, is inclined to continue that movement in some direction in a straight line,…” (Pr II 39). In another passage in the *Principles*, Descartes identifies these strivings as a “first preparation for motion” (Pr III 63). Hence, while determinations necessitate a span of several instants, tendencies towards motion are manifest only at single instants. This is a crucial distinction, for it partitions Cartesian dynamics into two ontological camps: forces that exist at moments of time, and motions that can only subsist over the course of several temporal moments. In many parts of the *Principles*, moreover, Descartes suggests that quantity of motion is the measure of these bodily tendencies, and thus quantity of motion has a dual role as the measure of non-instantaneous bodily motion as well as the instantaneous bodily tendencies (see Pr III 121).
 
@@ -123,7 +123,7 @@ Descartes’ vortex theory of planetary motion proved initially to be one of the
 
 ![Plate](../assets/descartes-physics/plate.jpg)
 
-*Figure 3.* Plenum vortices in the *Principles*, Pr III 53.
+\*Figure 3.\* Plenum vortices in the *Principles*, Pr III 53.
 
 Besides the ontological economy of only requiring inertial motion and its attendant force effects, Descartes’ choice of circularly moving bands of particles may have also been motivated by worries over, for lack of a better term, “plenum crowding”. In the *Principles*, he argues: “It has been shown…that all places are full of bodies…. From this it follows that no body can move except in a complete circle of matter or ring of bodies which all move at the same time” (Pr II 33). Circular motion is therefore necessary for Descartes because there are no empty spaces for a moving object to occupy. Although the world is described as “indefinitely” large (Pr I 26–27, with only God receiving the more positive description, infinite), the non-circular motion of a single body could violate the Cartesian conservation principle by resulting in an indeterminate material displacement. As an aside, it is enormously difficult to reconcile Descartes’ collision rules with his claim that all bodily motion occurs in circular paths; moreover, since the bodies that comprise the circular path all move simultaneously, it seems to follow from the definition of “body” (see Section 3) that there is only one moving body (and not many).
 

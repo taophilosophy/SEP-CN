@@ -10,7 +10,7 @@ The intensionality of possible world semantics under an abstractionist ontology 
 
 | *SOA*(*x*): |   | *x* is a state of affairs |
 | --- | --- | --- |
-| *Ob(**s*): |   | (state of affairs) *s* obtains |
+| *Ob(s*): |   | (state of affairs) *s* obtains |
 | *T*(φ,*w*): |   | (formula) φ is true at (world) *w* |
 | *dom*(*w*): |   | the domain of world *w* |
 | *ext*(π,*w*): |   | the extension of (*n*-place predicate) π at world *w* |

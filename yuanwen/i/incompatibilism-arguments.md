@@ -335,7 +335,7 @@ Agglomeration is uncontroversially invalid. To see this, let ‘$p$’ abbreviat
 
 (For counterexamples to Beta, see Widerker 1987, Huemer 2000, and Carlson 2000.)[^carlson-2000][^huemer-2000][^widerker-1987]
 
-Van Inwagen proposed to repair the Consequence argument by replacing ‘$\mathbf{N}$’ with ‘$\mathbf{N}$*’, where ‘$\mathbf{N}*p$’ says “$p$ and no one can, or ever could, do anything such that if she did it, $p$ might be false”. Agglomeration is valid for ‘$\mathbf{N}$*’, and thus this particular objection to the validity of Beta does not apply.
+Van Inwagen proposed to repair the Consequence argument by replacing ‘$\mathbf{N}$’ with ‘$\mathbf{N}$\*’, where ‘$\mathbf{N}*p$’ says “$p$ and no one can, or ever could, do anything such that if she did it, $p$ might be false”. Agglomeration is valid for ‘$\mathbf{N}$\*’, and thus this particular objection to the validity of Beta does not apply.
 
 It has also been suggested (Finch & Warfield 1998)[^finch-1998] that the Consequence argument can be repaired by keeping ‘$\mathbf{N}$’ and replacing Beta with Beta 2:
 

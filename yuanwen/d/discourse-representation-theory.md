@@ -76,7 +76,7 @@ Pedro doesn’t own a donkey.
 
 **[6b]**
 
-*It is grey.
+\*It is grey.
 
 (The asterisk indicates that the sentence is infelicitous if “a donkey” is to be interpreted as the antecedent of “it”.) Observations like these suggest rather strongly that indefinites are quantifiers rather than referential terms. However, if we construe “a donkey” as an existential quantifier, how does it manage to bind the pronoun across a sentence boundary?
 
@@ -346,7 +346,7 @@ $f$ verifies a DRS $K$ iff $f$ verifies all conditions in $\textit{Con}_{K}.$ $f
 
 The last clause gives a strong interpretation to universal duplex conditions (cf. Section 3.2); the weak interpretation is obtainable as follows:
 
-- $f$ verifies $K(\cb{\forall }x)K'$ iff, for all individuals $d \in D_{M}$ for which there is a $g$ such that $f[K]g,$ $g(x) = d,$ and $g$ verifies $K$, there is an $h$ such that $g$[K']h\) and $h$ verifies $K'.$
+- $f$ verifies $K(\cb{\forall }x)K'$ iff, for all individuals $d \in D_{M}$ for which there is a $g$ such that $f[K]g,$ $g(x) = d,$ and $g$ verifies $K$, there is an $h$ such that $g$[K']h\\) and $h$ verifies $K'.$
 
 A DRS is true in a given model iff we can find a verifying embedding for it, as follows:
 

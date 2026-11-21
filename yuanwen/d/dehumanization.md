@@ -303,7 +303,7 @@ Dehumanization and objectification are usually seen as closely related. This sec
 
 (e)
 
-*Figure 1.* Venn diagrams representing different views on the relation between dehumanization and objectification.
+\*Figure 1.\* Venn diagrams representing different views on the relation between dehumanization and objectification.
 
 ### 7.1 Are dehumanization and objectification equivalent?
 

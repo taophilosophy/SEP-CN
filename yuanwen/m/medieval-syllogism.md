@@ -676,7 +676,7 @@ The syllogistic for composite modal sentences is straightforward and Buridan use
 
 ![Figure 1](../assets/medieval-syllogism/octagon.jpg)
 
-*Figure 1*
+\*Figure 1\*
 
 Together with the octagon he also uses some consequences to prove the valid syllogisms. He first states the valid conversion rules:
 

@@ -325,7 +325,7 @@ Abhidharma | Buddha | Dharmakīrti | idealism | Indian Philosophy (Classical): e
 
 [^dasgupta-1933]: Dasgupta, Surendranath, 1933, *Indian Idealism*, Cambridge: University Press.
 
-[^deleanu-2006]: Deleanu, Florin (ed.), 2006, The Chapter on the Mundane Path (*Laukikamārga*) in the *Śrāvakabhūmi*: A Trilingual Edition (Sanskrit, Tibetan, Chinese), Annotated Translation, and Introductory Study (Studia Philologica Buddhica. Monograph Series 20), volume 1 of 2, Tokyo: International Institute for Buddhist Studies of the International College for Postgraduate Buddhist Studies.
+[^deleanu-2006]: Deleanu, Florin (ed.), 2006, *The Chapter on the Mundane Path (Laukikamārga) in the Śrāvakabhūmi: A Trilingual Edition (Sanskrit, Tibetan, Chinese), Annotated Translation, and Introductory Study* (Studia Philologica Buddhica. Monograph Series 20), volume 1 of 2, Tokyo: International Institute for Buddhist Studies of the International College for Postgraduate Buddhist Studies.
 
 [^deleanu-2012]: –––, 2012, “Far From the Madding Strife for Hollow Pleasures: Meditation and Liberation in the *Śrāvakabhūmi*”, *Journal of the International College for Postgraduate Buddhist Studies*, 16: 1–38. [[Deleanu 2012 available online](https://buddhistuniversity.net/content/articles/meditation-and-liberation-in-the-sravakabhumi_deleanu-florin)]
 
@@ -439,7 +439,7 @@ Abhidharma | Buddha | Dharmakīrti | idealism | Indian Philosophy (Classical): e
 
 [^powers-1995]: –––, 1995, *Wisdom of Buddha: The Saṃdhinirmocana Mahāyāna Sūtra*, Berkeley, CA: Dharma Publishing.
 
-[^radich-2008]: Radich, Michael, 2008, “The Doctrine of *Amalavijñāna in Paramārtha (499-569), and Later Authors to Approximately 800 C.E.”, *Zinbun*, 41: 45–174. doi:10.14989/134689
+[^radich-2008]: Radich, Michael, 2008, “The Doctrine of \*Amalavijñāna in Paramārtha (499-569), and Later Authors to Approximately 800 C.E.”, *Zinbun*, 41: 45–174. doi:10.14989/134689
 
 [^rickless-2013]: Rickless, Samuel Charles, 2013, *Berkeley’s Argument for Idealism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199669424.001.0001
 

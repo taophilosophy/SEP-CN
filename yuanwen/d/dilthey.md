@@ -155,7 +155,7 @@ The final general attitude relevant to the structural nexus of knowledge is that
 
 #### 2.3.2 Reinterpreting Purposiveness and Distinguishing Elementary Understanding and Higher Understanding.
 
-Dilthey’s most important work is The Formation (*Aufbau*) of the Historical World in the Human Sciences of 1910. Here Dilthey applies the same kind of structural analysis that we saw him develop for lived experience to the understanding of history. The human sciences give form to the historical world by analyzing the structural systems in terms of which human beings participate in history. In the *Introduction to the Human Sciences* Dilthey had conceived the psychic nexus, cultural systems and external organizations of society as purposive systems. Now a more neutral covering concept is used to capture all the ways the forces of life can converge. This is the concept of the “productive nexus or system” (*Wirkungszusammenhang*). Now the efficacy of life and of the historical world is to be understood in terms of productivity before any causal or teleological analysis is applied. The carriers of history, whether they be individuals, cultures, institutions, or communities, are productive systems capable of producing value, meaning, and, in some cases, realizing purposes. Each is to be considered structurally as centered in itself.
+Dilthey’s most important work is *The Formation (Aufbau) of the Historical World in the Human Sciences* of 1910. Here Dilthey applies the same kind of structural analysis that we saw him develop for lived experience to the understanding of history. The human sciences give form to the historical world by analyzing the structural systems in terms of which human beings participate in history. In the *Introduction to the Human Sciences* Dilthey had conceived the psychic nexus, cultural systems and external organizations of society as purposive systems. Now a more neutral covering concept is used to capture all the ways the forces of life can converge. This is the concept of the “productive nexus or system” (*Wirkungszusammenhang*). Now the efficacy of life and of the historical world is to be understood in terms of productivity before any causal or teleological analysis is applied. The carriers of history, whether they be individuals, cultures, institutions, or communities, are productive systems capable of producing value, meaning, and, in some cases, realizing purposes. Each is to be considered structurally as centered in itself.
 
 Individuals can be studied as psychic productive systems inherently related to each other as well as to more inclusive productive systems that are also at work in history. These larger productive systems come about because of the need for communication, interaction, and cooperation among individuals. But they can also take on a life of their own and survive the individuals that formed and shaped them. Dilthey’s category of *Wirkung* or productivity is at the root of Gadamer’s theory of the productive history (*Wirkungsgeschichte*) of works of art that grants them new meanings over time that exceed those intended by their creators. In the *Introduction to the Human Sciences*, Dilthey had been unwilling to consider purposive social systems as subjects or carriers of history. In *The Formation of the Historical World in the Human Sciences*, he qualifies his opposition to the idea of a transpersonal subject such as the soul of a people by de-reifying it as the spirit of a people that is to be considered as a logical rather than a real subject. It is possible to regard cooperative productive systems as logical subjects that transcend individuals without positing them as super-empirical real subjects.
 
@@ -259,23 +259,23 @@ Carnap acknowledges the independent nature of spiritual (*geistigen*) or intersu
 
 #### Original Works Cited
 
-| 1860* | *Schleiermacher’s Hermeneutical System in Relation to Earlier Protestant Hermeneutics*, in SW.IV, 33–227. |
+| 1860\* | *Schleiermacher’s Hermeneutical System in Relation to Earlier Protestant Hermeneutics*, in SW.IV, 33–227. |
 | --- | --- |
-| 1864* | “Versuch einer Analyse des moralischen Bewußtseins”, in GS.VI, 1–28. |
-| 1867* | “Die dichterische und philosophische Bewegung in Deutschland 1770–1800,” in GS.V, 12–30. |
-| ca. 1880–93* | Drafts for Volume II for the *Introduction to the Human Sciences*, in SW.I, 243–458. |
+| 1864\* | “Versuch einer Analyse des moralischen Bewußtseins”, in GS.VI, 1–28. |
+| 1867\* | “Die dichterische und philosophische Bewegung in Deutschland 1770–1800,” in GS.V, 12–30. |
+| ca. 1880–93\* | Drafts for Volume II for the *Introduction to the Human Sciences*, in SW.I, 243–458. |
 | 1883 | *Introduction to the Human Sciences* (Volume I), in SW.I, 47–242. |
 | 1887 | *Poetics*, in SW.V, 29–174. |
 | 1890a | “The Origin of Our Belief in the Reality of the External World and Its Justification,” in SW.II, 8–57. |
-| 1890b* | *System of Ethics*, in GS.X. |
+| 1890b\* | *System of Ethics*, in GS.X. |
 | 1892 | “The Three Epochs of Modern Aesthetics and Its Present Task,” in SW.V, 175–222. |
 | 1894 | “Ideas for a Descriptive and Analytic Psychology,” SW.II, 115–210. |
 | 1895–6 | “Contributions to the Study of Individuality,” SW.II, 211–284. |
 | 1900 | “The Rise of Hermeneutics,” in SW.IV, 235–260. |
 | 1904–9 | “Studies Toward the Foundation of the Human Sciences,” in SW.III, 21–97. |
 | 1910 | *The Formation of the Historical World in the Human Sciences*, in GS.VII, 79–190; page reference is to the edition in SW.III, 101–212. |
-| ca. 1910* | “Drafts for a Critique of Historical Reason,” in GS.VII, 191–294; page reference is to the edition in SW.III, 213–314. |
-| 1911* | “The Problem of Religion,” in GS.VI, 288–305. |
+| ca. 1910\* | “Drafts for a Critique of Historical Reason,” in GS.VII, 191–294; page reference is to the edition in SW.III, 213–314. |
+| 1911\* | “The Problem of Religion,” in GS.VI, 288–305. |
 
 #### Modern Editions and Collections
 
@@ -303,7 +303,7 @@ Carnap acknowledges the independent nature of spiritual (*geistigen*) or intersu
 
 Gadamer, Hans-Georg | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | hermeneutics | history, philosophy of | Kant, Immanuel | Schleiermacher, Friedrich Daniel Ernst
 
-[^an-nd]: An asterisk (*) on a date indicates the work was published posthumously.
+[^an-nd]: An asterisk (\*) on a date indicates the work was published posthumously.
 
 [^briefwechsel-1877]: *Briefwechsel zwischen Wilhelm Dilthey und dem Grafen Paul Yorck von Wartenburg, 1877–1897*, Halle (Saale), Germany: M. Niemeyer, 1922.
 

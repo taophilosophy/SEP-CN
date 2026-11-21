@@ -511,7 +511,7 @@ I am grateful to Shoryu Katsura for comments on two previous versions of this en
 
 [^anacker-1984]: Anacker, Stefan (trans.), 1984, *Seven works of Vasubandhu: the buddhist psychological doctor*, Delhi: Motilal Banarsidass.
 
-[^angot-2009]: Angot, Michel (trans.), 2009, Le Nyāya-Sūtra de Gautama Akṣapāda. Le Nyāya-bhāṣya d’Akṣapāda Pakṣilasvāmin. L’art de conduire la pensée en Inde ancienne, Paris: Les Belles Lettres.
+[^angot-2009]: Angot, Michel (trans.), 2009, *Le Nyāya-Sūtra de Gautama Akṣapāda. Le Nyāya-bhāṣya d’Akṣapāda Pakṣilasvāmin. L’art de conduire la pensée en Inde ancienne*, Paris: Les Belles Lettres.
 
 [^aung-1915]: Aung, Shwe Zan and Caroline Anne Foley Rhys Davids (trans.), 1915, *Points of controversy, or subjects of discourse, being a translation of the Kathā-vatthu from the Abhidhamma-piṭika*, London, The Pali Text Society.
 
@@ -715,7 +715,7 @@ I am grateful to Shoryu Katsura for comments on two previous versions of this en
 
 [^tatia-1976]: Tatia, Nathamal (ed.), 1976, *Abhidharmasamuccaya-bhāṣyam*, Patna, Kashi Prasad Jayaswal Institute (*Tibetan Sanskrit Works Series*: 17), 2nd edition, 2005.
 
-[^tillemans-2000]: Tillemans, Tom J. F. (trans.), 2000, Dharmakīrti’s *Pramāṇa-vārttaka*: An annotated translation of the fourth chapter (parārthānumāna), Vienna, Verlag der Österreichischen Akademie der Wissenschaften (*Sitzungsberrichte philosophisch-historische Klasse*: 675) (*Veröffentlichungen der Kommission für Sprachen und Kulturen Südasiens*: 32).
+[^tillemans-2000]: Tillemans, Tom J. F. (trans.), 2000, *Dharmakīrti’s Pramāṇa-vārttaka: An annotated translation of the fourth chapter (parārthānumāna)*, Vienna, Verlag der Österreichischen Akademie der Wissenschaften (*Sitzungsberrichte philosophisch-historische Klasse*: 675) (*Veröffentlichungen der Kommission für Sprachen und Kulturen Südasiens*: 32).
 
 [^todeschini-2011]: Todeschini, Alberto, 2011, *Debating Buddhists: The Abhidharmasamuccaya on debate and argumentation*, diss., University of Virginia.
 

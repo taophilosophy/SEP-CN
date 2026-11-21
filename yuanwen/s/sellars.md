@@ -429,7 +429,7 @@ Sellars’s philosophy is rich enough to provide a framework within which otherw
 
 | [EPH] | *Essays in Philosophy and Its History*, D. Reidel Publishing Co.; Dordrecht, Holland; 1975 |
 | --- | --- |
-| [EPM*] | *Empiricism and the Philosophy of Mind*, Robert Brandom (ed.), Harvard University Press.; Cambridge, MA; 1997. [The original, 1956, version of [EPM] see below, lacking footnotes added in [SPR], with an Introduction by Richard Rorty and Study Guide by Brandom.] |
+| [EPM\*] | *Empiricism and the Philosophy of Mind*, Robert Brandom (ed.), Harvard University Press.; Cambridge, MA; 1997. [The original, 1956, version of [EPM] see below, lacking footnotes added in [SPR], with an Introduction by Richard Rorty and Study Guide by Brandom.] |
 | [ISR] | Scharp, K. and R. B. Brandom (eds.), 2007: *In the Space of Reasons: Selected Essays of Wilfrid Sellars.* Cambridge, MA: Harvard University Press. |
 | [KPKT] | *Kant and Pre-Kantian Themes: Lectures by Wilfrid Sellars*, Pedro Amaral (ed.), Ridgeview Publishing Co.; Atascadero, CA: 2002. [A transcription of Sellars’s Kant lectures, plus essays on Descartes, Locke, Spinoza, and Leibniz.] |
 | [KTM] | *Kant’s Transcendental Metaphysics: Sellars’ Cassirer Lecture Notes and Other Essays*, Jeffrey F. Sicha (ed.), Ridgeview Publishing Co.; Atascadero, CA: 2002. [Contains a complete bibliography of Sellars’s published work, philosophical correspondence, and circulated manuscripts through 2002.] |
@@ -579,7 +579,7 @@ consciousness: and intentionality | empiricism: logical | folk psychology: as a 
 
 [^brandom-1995]: Brandom, Robert, 1995, *Making It Explicit: Reasoning, Representing, and Discursive Commitment*, Cambridge, MA: Harvard University Press.
 
-[^brandom-1997]: –––, 1997, “Study Guide,” in EPM* (see above).
+[^brandom-1997]: –––, 1997, “Study Guide,” in EPM\* (see above).
 
 [^brandom-2000]: –––, 2000, *Articulating Reasons: An Introduction to Inferentialism*, Cambridge, MA: Harvard University Press.
 

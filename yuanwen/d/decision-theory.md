@@ -103,23 +103,23 @@ Continuity implies that no outcome $A$ is so bad that you would not be willing t
 
 Independence implies that when two alternatives have the same probability for some particular outcome, our evaluation of the two alternatives should be independent of our opinion of that outcome. Intuitively, this means that preferences between lotteries should be governed only by the features of the lotteries that differ; the commonalities between the lotteries should be effectively ignored.
 
-Some people find the Continuity axiom an unreasonable constraint on rational preference. Is there any probability $p$ such that you would be willing to accept a gamble that has that probability of you losing your life and probability $(1-p)$ of you gaining $10? Many people think there is not. However, the very same people would presumably cross the street to pick up a $10 bill they had dropped. But that is just taking a gamble that has a very small probability of being killed by a car but a much higher probability of gaining $10! More generally, although people rarely think of it this way, they constantly take gambles that have minuscule chances of leading to imminent death, and correspondingly very high chances of some modest reward. We shall return to Continuity in Section 5.4.
+Some people find the Continuity axiom an unreasonable constraint on rational preference. Is there any probability $p$ such that you would be willing to accept a gamble that has that probability of you losing your life and probability $(1-p)$ of you gaining \$10? Many people think there is not. However, the very same people would presumably cross the street to pick up a \$10 bill they had dropped. But that is just taking a gamble that has a very small probability of being killed by a car but a much higher probability of gaining \$10! More generally, although people rarely think of it this way, they constantly take gambles that have minuscule chances of leading to imminent death, and correspondingly very high chances of some modest reward. We shall return to Continuity in Section 5.4.
 
-Independence seems a compelling requirement of rationality, when considered in the abstract. Nevertheless, there are famous examples where people typically violate Independence without seeming irrational. These examples involve *complementarities* between the possible lottery outcomes. A particularly well-known such example is the so-called *Allais Paradox*, which the French economist Maurice Allais (1953)[^allais-1953] first introduced in the early 1950s. The paradox turns on comparing people’s preferences over two pairs of lotteries similar to those given in Table 1. The lotteries are described in terms of the prizes that are associated with particular numbered tickets, where one ticket will be drawn randomly (for instance, $L_1$ results in a prize of $2500 if one of the tickets numbered 2–34 is drawn).
-
-|   | 1 | 2–34 | 35–100 |
-| --- | --- | --- | --- |
-| $L_1$ | $0 | $2500 | $2400 |
-| $L_2$ | $2400 | $2400 | $2400 |
+Independence seems a compelling requirement of rationality, when considered in the abstract. Nevertheless, there are famous examples where people typically violate Independence without seeming irrational. These examples involve *complementarities* between the possible lottery outcomes. A particularly well-known such example is the so-called *Allais Paradox*, which the French economist Maurice Allais (1953)[^allais-1953] first introduced in the early 1950s. The paradox turns on comparing people’s preferences over two pairs of lotteries similar to those given in Table 1. The lotteries are described in terms of the prizes that are associated with particular numbered tickets, where one ticket will be drawn randomly (for instance, $L_1$ results in a prize of \$2500 if one of the tickets numbered 2–34 is drawn).
 
 |   | 1 | 2–34 | 35–100 |
 | --- | --- | --- | --- |
-| $L_3$ | $0 | $2500 | $0 |
-| $L_4$ | $2400 | $2400 | $0 |
+| $L_1$ | \$0 | \$2500 | \$2400 |
+| $L_2$ | \$2400 | \$2400 | \$2400 |
 
-*Table 1.* Allais’ paradox
+|   | 1 | 2–34 | 35–100 |
+| --- | --- | --- | --- |
+| $L_3$ | \$0 | \$2500 | \$0 |
+| $L_4$ | \$2400 | \$2400 | \$0 |
 
-In this situation, many people strictly prefer $L_2$ over $L_1$ but also $L_3$ over $L_4$ (as evidenced by their choice behaviour, as well as their testimony), a pair of preferences which will be referred to as *Allais’ preferences*.[^note-3] A common way to rationalise Allais’ preferences is that in the first choice situation, the risk of ending up with nothing when one could have had $2400 for sure does not justify the increased chance of a higher prize. In the second choice situation, however, the minimum one stands to gain is $0 no matter which choice one makes. Therefore, in that case many people do think that the slight extra risk of $0 is worth the chance of a better prize.
+\*Table 1.\* Allais’ paradox
+
+In this situation, many people strictly prefer $L_2$ over $L_1$ but also $L_3$ over $L_4$ (as evidenced by their choice behaviour, as well as their testimony), a pair of preferences which will be referred to as *Allais’ preferences*.[^note-3] A common way to rationalise Allais’ preferences is that in the first choice situation, the risk of ending up with nothing when one could have had \$2400 for sure does not justify the increased chance of a higher prize. In the second choice situation, however, the minimum one stands to gain is \$0 no matter which choice one makes. Therefore, in that case many people do think that the slight extra risk of \$0 is worth the chance of a better prize.
 
 While the above reasoning may seem compelling, Allais’ preferences conflict with the Independence axiom. The following is true of both choice situations: whatever choice you make, you will get the same prize if one of the tickets in the last column is drawn. Moreover, the probability of getting a prize from, say, the first column is independent of what you choose (and similarly for the other two columns). Therefore, Independence implies that both your preference between $L_1$ and $L_2$ and your preference between $L_3$ and $L_4$ should be independent of the prizes in the last column. But when you ignore the last column, $L_1$ becomes identical to $L_3$ and $L_2$ to $L_4$. Hence, if you prefer $L_2$ over $L_1$ but $L_3$ over $L_4$, there seems to be an inconsistency in your preference ordering. And there is definitely a violation of Independence (given how the options have been described; an issue to which we return in Section 5.1). As a result, the pair of preferences under discussion cannot be represented as maximising expected utility. (Thus the “paradox”: many people think that Independence is a requirement of rationality, but nevertheless also want to claim that there is nothing irrational about Allais’ preferences.)
 
@@ -155,7 +155,7 @@ Savage’s act/state(event)/outcome distinction can be naturally represented in 
 | stroll with umbrella | comfortable stroll | comfortable stroll |
 | constant act | miserable wet stroll | miserable wet stroll |
 
-*Table 2.* Savage-style decision table
+\*Table 2.\* Savage-style decision table
 
 Before discussing Savage’s axioms, let us state the result that they give rise to. The following notation will be used: $f$, $g$, etc, are various acts, i.e., functions from the set $\bS$ of states of the world to the set $\bO$ of outcomes, with $\bF$ the set of these functions. $f(s_i)$ denotes the outcome of $f$ when state $s_i\in\bS$ is actual. The expected utility of $f$, according to Savage’s theory, denoted $U(f)$, is given by:
 
@@ -390,41 +390,41 @@ Thus far the focus has been on prominent versions of the standard theory of rati
 
 Expected utility theory has been criticised for not allowing for value interactions between outcomes in different, mutually incompatible states of the world. For instance, recall that when deciding between two risky options you should, according to Savage’s version of the theory, ignore the states of the world where the two options result in the same outcome. That seems very reasonable if we can assume *separability* between outcomes in different states of the world, i.e., if the contribution that an outcome in one state of the world makes towards the overall value of an option is independent of what other outcomes the option might result in. For then identical outcomes (with equal probabilities) should cancel each other out in a comparison of two options, which would entail that if two options share an outcome in some state of the world, then when comparing the options, it does not matter what that shared outcome is.
 
-The Allais paradox, discussed in Section 2.3 above, is a classic example where the aforementioned separability seems to fail. For ease of reference, the options that generate the paradox are reproduced as Table 3. Recall from Section 2.3 that people tend to prefer $L_2$ over $L_1$ and $L_3$ over $L_4$—referred to as the *Allais’ preferences*—in violation of expected utility theory. The violation occurs precisely because the contribution that some of these outcomes make towards the overall value of an option is not independent of the other outcomes that the option can have. Compare the extra chance of outcome $0 that $L_1$ has over $L_2$ with the same extra chance of $0 that $L_3$ has over $L_4$. Many people think that this extra chance counts more heavily in the first comparison than the latter, i.e., that an extra 0.01 chance of $0 contributes a greater negative value to $L_1$ than to $L_3$. Some explain this by pointing out that the *regret* one would experience by winning nothing when one could have had $2400 for sure—i.e., when choosing $L_1$ over $L_2$ and the first ticket is drawn—is much greater than the regret one would experience by winning nothing when the option one turned down also had a high chance of resulting in $0—such as when choosing $L_3$ over $L_4$ (see, e.g., Loomes and Sugden 1982)[^loomes-1982]. But whether or not the preference in question should be explained by the potential for regret, it would seem that the desirability of the $0-outcome depends on what could (or would) otherwise have been; in violation of the aforementioned assumption of separability. (See Thoma 2020 for a recent extensive discussion of this assumption.)[^thoma-2020]
+The Allais paradox, discussed in Section 2.3 above, is a classic example where the aforementioned separability seems to fail. For ease of reference, the options that generate the paradox are reproduced as Table 3. Recall from Section 2.3 that people tend to prefer $L_2$ over $L_1$ and $L_3$ over $L_4$—referred to as the *Allais’ preferences*—in violation of expected utility theory. The violation occurs precisely because the contribution that some of these outcomes make towards the overall value of an option is not independent of the other outcomes that the option can have. Compare the extra chance of outcome \$0 that $L_1$ has over $L_2$ with the same extra chance of \$0 that $L_3$ has over $L_4$. Many people think that this extra chance counts more heavily in the first comparison than the latter, i.e., that an extra 0.01 chance of \$0 contributes a greater negative value to $L_1$ than to $L_3$. Some explain this by pointing out that the *regret* one would experience by winning nothing when one could have had \$2400 for sure—i.e., when choosing $L_1$ over $L_2$ and the first ticket is drawn—is much greater than the regret one would experience by winning nothing when the option one turned down also had a high chance of resulting in \$0—such as when choosing $L_3$ over $L_4$ (see, e.g., Loomes and Sugden 1982)[^loomes-1982]. But whether or not the preference in question should be explained by the potential for regret, it would seem that the desirability of the \$0-outcome depends on what could (or would) otherwise have been; in violation of the aforementioned assumption of separability. (See Thoma 2020 for a recent extensive discussion of this assumption.)[^thoma-2020]
 
 |   | 1 | 2–34 | 35–100 |
 | --- | --- | --- | --- |
-| $L_1$ | $0 | $2500 | $2400 |
-| $L_2$ | $2400 | $2400 | $2400 |
+| $L_1$ | \$0 | \$2500 | \$2400 |
+| $L_2$ | \$2400 | \$2400 | \$2400 |
 
 |   | 1 | 2–34 | 35–100 |
 | --- | --- | --- | --- |
-| $L_3$ | $0 | $2500 | $0 |
-| $L_4$ | $2400 | $2400 | $0 |
+| $L_3$ | \$0 | \$2500 | \$0 |
+| $L_4$ | \$2400 | \$2400 | \$0 |
 
-*Table 3.* Allais’ paradox
+\*Table 3.\* Allais’ paradox
 
-Various attempts have been made to make Allais’ preferences compatible with some version of expected utility theory. A common response is to suggest that the choice problem has been incorrectly described. If it really is rational to evaluate $0 differently depending on which lottery it is part of, then perhaps this should be accounted for in the description of the outcomes (Broome 1991a)[^broome-1991a]. For instance, we could add a variable to the $0 outcome that $L_1$ might result in to represent the extra regret or risk associate with that outcome compared to the $0 outcomes from the other lotteries (as done in Table 4). If we do that, Allais’ preferences are no longer inconsistent with EU theory. The simplest way to see this is to note that when we ignore the state of the world where the options that are being compared have the same outcome (i.e., when we ignore the last column in Table 4), $L_1$ is no longer identical to $L_3$, which means that the Independence axiom of von Neumann and Morgenstern (and Savage’s Sure Thing Principle) no longer requires that one prefer $L_2$ over $L_1$ only if one prefers $L_4$ over $L_3$.
-
-|   | 1 | 2–34 | 35–100 |
-| --- | --- | --- | --- |
-| $L_1$ | $0 + *δ* | $2500 | $2400 |
-| $L_2$ | $2400 | $2400 | $2400 |
+Various attempts have been made to make Allais’ preferences compatible with some version of expected utility theory. A common response is to suggest that the choice problem has been incorrectly described. If it really is rational to evaluate \$0 differently depending on which lottery it is part of, then perhaps this should be accounted for in the description of the outcomes (Broome 1991a)[^broome-1991a]. For instance, we could add a variable to the \$0 outcome that $L_1$ might result in to represent the extra regret or risk associate with that outcome compared to the \$0 outcomes from the other lotteries (as done in Table 4). If we do that, Allais’ preferences are no longer inconsistent with EU theory. The simplest way to see this is to note that when we ignore the state of the world where the options that are being compared have the same outcome (i.e., when we ignore the last column in Table 4), $L_1$ is no longer identical to $L_3$, which means that the Independence axiom of von Neumann and Morgenstern (and Savage’s Sure Thing Principle) no longer requires that one prefer $L_2$ over $L_1$ only if one prefers $L_4$ over $L_3$.
 
 |   | 1 | 2–34 | 35–100 |
 | --- | --- | --- | --- |
-| $L_3$ | $0 | $2500 | $0 |
-| $L_4$ | $2400 | $2400 | $0 |
+| $L_1$ | \$0 + *δ* | \$2500 | \$2400 |
+| $L_2$ | \$2400 | \$2400 | \$2400 |
 
-*Table 4.* Allais’ paradox re-described
+|   | 1 | 2–34 | 35–100 |
+| --- | --- | --- | --- |
+| $L_3$ | \$0 | \$2500 | \$0 |
+| $L_4$ | \$2400 | \$2400 | \$0 |
+
+\*Table 4.\* Allais’ paradox re-described
 
 The above “re-description strategy” could be employed whenever the value and/or contribution of an outcome depends on other possible outcomes: just describe the outcomes in a way that accounts for this dependency. But more worryingly, the strategy could be employed whenever one comes across *any* violation of expected utility theory or other theories of rationality (as discussed in Section 4.2).
 
-There are various non-expected utility theories that can accommodate Allais’ preferences without re-describing the outcomes. Lara Buchak (2013)[^buchak-2013] develops a decision theory on which the explanation for Allais’ preferences is not the different *value* that the outcome $0 has depending on what lottery it is part of. The outcome itself has the same value. However, the *contribution* that $0 makes towards the overall value of an option partly depends on what other outcomes are possible. Buchak introduces a *risk function* that represents people’s willingness to trade chances of something good for risks of something bad. And she shows that if an agent satisfies a particular set of axioms, which is essentially Savage’s except that the Sure Thing Principle is replaced with a strictly weaker one, then the agent’s preferences can be represented as maximising *risk weighted expected utility*. More recently, Bottomley and Williamson (2024) have defended an alternative non-expected utility theory that they argue has significant advantages over Buchak’s theory. On their preferred *weighted linear utility theory*, an agent’s risk attitude may vary with the utility that is at stake. Moreover, their theory, unlike Buchak’s, satisfies the requirement that if an agent is indifferent between two options, then she should also be indifferent between either of those options and a lottery that amounts to randomising over them.
+There are various non-expected utility theories that can accommodate Allais’ preferences without re-describing the outcomes. Lara Buchak (2013)[^buchak-2013] develops a decision theory on which the explanation for Allais’ preferences is not the different *value* that the outcome \$0 has depending on what lottery it is part of. The outcome itself has the same value. However, the *contribution* that \$0 makes towards the overall value of an option partly depends on what other outcomes are possible. Buchak introduces a *risk function* that represents people’s willingness to trade chances of something good for risks of something bad. And she shows that if an agent satisfies a particular set of axioms, which is essentially Savage’s except that the Sure Thing Principle is replaced with a strictly weaker one, then the agent’s preferences can be represented as maximising *risk weighted expected utility*. More recently, Bottomley and Williamson (2024) have defended an alternative non-expected utility theory that they argue has significant advantages over Buchak’s theory. On their preferred *weighted linear utility theory*, an agent’s risk attitude may vary with the utility that is at stake. Moreover, their theory, unlike Buchak’s, satisfies the requirement that if an agent is indifferent between two options, then she should also be indifferent between either of those options and a lottery that amounts to randomising over them.
 
 Bradley and Stefánsson (2017) also develop a new decision theory partly in response to the Allais paradox. But they suggest that what explains Allais’ preferences is that the value of wining nothing from a chosen lottery partly depends on what would have happened had one chosen differently. To accommodate this, they extend the Boolean algebra in Jeffrey’s decision theory to *counterfactual* propositions, and show that Jeffrey’s extended theory can represent the value-dependencies one often finds between counterfactual and actual outcomes. In particular, their theory can capture the intuition that the (un)desirability of winning nothing partly depends on whether or not one was guaranteed to win something had one chosen differently. Therefore, their theory can represent Allais’ preferences as maximising the value of an extended Jeffrey-desirability function.
 
-Stefánsson and Bradley (2019) suggest yet another way of accounting for Allais’ preferences in an extension of Jeffrey’s decision theory; this time extended to *chance propositions*, that is, propositions describing objective probability distributions. The general idea is that the desirability of a particular increase or decrease in the chance of some outcome—for instance, in the Allais case, a 0.01 increase in the chance of the $0-outcome—might depend on what the chances were before the increase or decrease. Stefánsson and Bradley’s extension of Jeffrey’s theory to chance propositions is also motivated by the fact that standard decision theories do not distinguish between risk aversion with respect to some good and attitudes to quantities of that good (which is found problematic by, for instance, Hansson 1988, Rabin 2000, and Buchak 2013)[^buchak-2013][^hansson-1988][^rabin-2000].
+Stefánsson and Bradley (2019) suggest yet another way of accounting for Allais’ preferences in an extension of Jeffrey’s decision theory; this time extended to *chance propositions*, that is, propositions describing objective probability distributions. The general idea is that the desirability of a particular increase or decrease in the chance of some outcome—for instance, in the Allais case, a 0.01 increase in the chance of the \$0-outcome—might depend on what the chances were before the increase or decrease. Stefánsson and Bradley’s extension of Jeffrey’s theory to chance propositions is also motivated by the fact that standard decision theories do not distinguish between risk aversion with respect to some good and attitudes to quantities of that good (which is found problematic by, for instance, Hansson 1988, Rabin 2000, and Buchak 2013)[^buchak-2013][^hansson-1988][^rabin-2000].
 
 ### 5.2 On completeness: Vague beliefs and desires
 
@@ -487,7 +487,7 @@ A well-known sequential decision problem is the one facing Ulysses on his journe
 
 ![Tree diagram; from initial root options are: 'Tied to the mast' which leads to 'Reach Ithaca (humiliation)' and 'Sail unconstrained' which leads to a further choice between 'Stay with sirens' which leads to 'Stay on island' and 'Continue sailing home' which leads to 'Reach Ithaca (no humiliation)'](../assets/decision-theory/dt-fig1.png)
 
-*Figure 1.* Ulysses’ decision problem
+\*Figure 1.\* Ulysses’ decision problem
 
 We are told that, before embarking, Ulysses would most prefer to freely hear the sirens and return home to Ithaca. The problem is that Ulysses predicts his future self will not comply: if he sails unrestrained, he will later be seduced by the sirens and will not in fact continue home to Ithaca but will rather remain on the island indefinitely. Ulysses therefore reasons that it would be better to be tied to the mast, because he would prefer the shame and discomfort of being tied to the mast and making it home to remaining on the sirens’ island forever.
 
@@ -503,7 +503,7 @@ The so-called naïve approach to negotiating sequential decisions serves as a us
 | sail unconstrained then stay with sirens | life with sirens |
 | sail unconstrained then home to Ithaca | reach home, no humiliation |
 
-*Table 5.* Naïve Ulysses’ decision problem
+\*Table 5.\* Naïve Ulysses’ decision problem
 
 There is no need to labour the point that the naïve approach to sequential choice is aptly named. The hallmark of the sophisticated approach, by contrast, is its emphasis on backwards planning: the sophisticated chooser does not assume that all paths through the decision tree, or in other words, all possible combinations of choices at the various choice nodes, will be possible. The agent considers, rather, what they will be inclined to choose at later choice nodes when they get to the temporal position in question. Sophisticated Ulysses would take note of the fact that, if he reaches the island of the sirens unrestrained, he will want to stop there indefinitely, due to the transformative effect of the sirens’ song on his preferences. This is then reflected in the static representation of the decision problem, as per Table 6. The states here concern Ulysses’ future preferences, once he reaches the island. Since the second state has (by assumption) probability zero, the acts are decided on the basis of the first state, so Ulysses wisely chooses to be tied to the mast.
 
@@ -512,7 +512,7 @@ There is no need to labour the point that the naïve approach to sequential choi
 | order tying to mast | home, some humiliation | home, some humiliation |
 | sail unconstrained | life with sirens | home, no humiliation |
 
-*Table 6.* Sophisticated Ulysses’ decision problem
+\*Table 6.\* Sophisticated Ulysses’ decision problem
 
 Resolute choice deviates from sophisticated choice only under certain conditions that are not fulfilled by Ulysses, given his change in attitudes. Defenders of resolute choice typically defend decision theories and associated preferences that violate the Independence axiom/Sure-Thing Principle (notably McClennen 1990 and Machina 1989; see also Rabinowicz 1995 and Buchak 2013 for discussion)[^buchak-2013][^machina-1989][^mcclennen-1990][^rabinowicz-1995], and appeal to resolute choice to make these preferences more palatable in the sequential-decision context (to be discussed further in Section 6.2 below). According to resolute choice, in appropriate contexts, the agent should at all choice points stick to the strategy that was initially deemed best. The question is whether this advice makes sense, given the standard interpretation of a sequential decision model. What would it mean for an agent to choose against her preferences in order to fulfill a previously-selected plan? That would seem to defy the very notion of preference. Of course, an agent may place considerable importance on honouring previous commitments. Any such integrity concerns, however, should arguably be reflected in the specification of outcomes and thus in the agent’s preferences at the time in question. This is quite different from choosing out of step with one’s all-things-considered preferences at a time.
 

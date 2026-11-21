@@ -365,7 +365,7 @@ The author is very grateful to E. Belfiore, M. Johnson, M.E. Peláez, and C. Shi
 
 [^destrée-2020]: Destrée, Pierre, Malcolm Heath, and Dana L. Munteanu (eds.), 2020, *The Poetics in Its Aristotelian Context*, London: Routledge. doi:10.4324/9780429347276
 
-[^donini-2004]: Donini, Pierluigi, 2004, La tragedia e la vita. Saggi sulla Poetica di Aristotele, Alessandria: Editioni dell’ Orso.
+[^donini-2004]: Donini, Pierluigi, 2004, *La tragedia e la vita. Saggi sulla Poetica di Aristotele*, Alessandria: Editioni dell’ Orso.
 
 [^dow-2021]: Dow, Jamie, 2021, “Beware of Imitations!: Aristotle and the Paradox of Fiction”, *Ancient Philosophy*, 41(2): 519–549. doi:10.5840/ancientphil202141231
 
@@ -437,7 +437,7 @@ The author is very grateful to E. Belfiore, M. Johnson, M.E. Peláez, and C. Shi
 
 [^narbonne-2017]: Narbonne, Jean-Marc, 2017, “Likely and Necessary: The Poetics of Aristotle and the Problem of Literary Leeway”, *Proceedings of the Boston Area Colloquium of Ancient Philosophy*, 33: 69–87. doi:10.1163/22134417-00331P08
 
-[^nehamas-1994]: Nehamas, Alexander, 1994, “Pity and Fear in the *Rhetoric* and the *Poetics*”, in Aristotle’s Rhetoric: Philosophical Essays, David J. Furley and Alexander Nehamas (eds), Princeton, NJ: Princeton University Press, 257–282.
+[^nehamas-1994]: Nehamas, Alexander, 1994, “Pity and Fear in the *Rhetoric* and the *Poetics*”, in *Aristotle’s Rhetoric: Philosophical Essays*, David J. Furley and Alexander Nehamas (eds), Princeton, NJ: Princeton University Press, 257–282.
 
 [^nussbaum-1986]: Nussbaum, Martha C., 1986, “Luck and the Tragic Emotions”, in her *The Fragility of Goodness*, Cambridge: Cambridge University Press, 378–394.
 

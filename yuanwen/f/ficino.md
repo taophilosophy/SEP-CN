@@ -127,7 +127,7 @@ As the new science took hold in the seventeenth century and as, in the eighteent
 
 Aquinas, Thomas | Aristotle | Neoplatonism | Pico della Mirandola, Giovanni | Plato | Plotinus | Porphyry | Proclus
 
-[^fcph-1975]: [FCPh] *In Philebum*. Translated in The Philebus Commentary (Center for Medieval and Renaissance Studies 9), Latin and English, M.J.B. Allen (ed./tr.), Berkeley, CA: University of California Press, 1975. Reprinted Tempe, Arizona: MRTS, 2000.
+[^fcph-1975]: [FCPh] *In Philebum*. Translated in *The Philebus Commentary* (Center for Medieval and Renaissance Studies 9), Latin and English, M.J.B. Allen (ed./tr.), Berkeley, CA: University of California Press, 1975. Reprinted Tempe, Arizona: MRTS, 2000.
 
 [^fcpl-2017]: [FCPl] *Commentary on Plotinus*, Stephen Gersh (ed./trans.), Cambridge, MA: Harvard University Press, 2017–.
 
@@ -151,7 +151,7 @@ Aquinas, Thomas | Aristotle | Neoplatonism | Pico della Mirandola, Giovanni | Pl
 
 [^fn3-2018]: [FN3] *Commentarium in Epistolas Pauli* (Ficinus Novus III), Daniele Conti (ed.), Turin: Aragno, 2018.
 
-[^fnn-1994]: [FNN] Commentary on the “nuptial numbers” in Plato’s *Republic*, 1496. Translated in Michael J. B. Allen’s Nuptial Arithmetic: Marsilio Ficino’s Commentary on the Fatal Number in Book VIII of Plato’s Republic, Berkeley: University of California Press, 1994.
+[^fnn-1994]: [FNN] Commentary on the “nuptial numbers” in Plato’s *Republic*, 1496. Translated in Michael J. B. Allen’s *Nuptial Arithmetic: Marsilio Ficino’s Commentary on the Fatal Number in Book VIII of Plato’s Republic*, Berkeley: University of California Press, 1994.
 
 [^foo-1959]: [FOO] *Opera Omnia*, Basel, 1576. Photographic reproduction, Torino: Bottega d’Erasmo, 1959–.
 

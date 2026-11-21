@@ -128,7 +128,7 @@ Books of Kabbalah were being read by the twelfth century, but Christians knew al
 
 ![link to extended description below](../assets/pico-della-mirandola/sefirot.svg)
 
-*Figure 1:* *Sefirot* in the Standard Array. [An extended description of figure 1 is in the supplement.]
+\*Figure 1:\* *Sefirot* in the Standard Array. [An extended description of figure 1 is in the supplement.]
 
 The Bible’s Hebrew text was God’s speech, infinite in meaning. Kabbalists took their bearings even from its smallest particles—not only the sacred words but also their letters (which were also numbers) and even the shapes of letters. God’s names were the most potent words; the holiest of them, the Tetragrammaton, could not be spoken. Written as יהוה (yhwh), the unutterable Name was read aloud as *Adonai*, a speakable name like *Elohim*, *Ehyeh*, *El Shaddai*, and others used of God in the Hebrew Bible. Names of the *sefirot*, unknown as such to scripture, were also words of power. They were names not of God, however, but of God’s manifestations, some more remote than others.
 
@@ -351,7 +351,7 @@ Agrippa von Nettesheim, Heinrich Cornelius | Delmedigo, Elijah | Ficino, Marsili
 
 [^bianchi-2007]: Bianchi, Luca, 2007, “Pierre Garsias, adversaire de Jean Pic de la Mirandole, entre nominalisme et ‘via communis’”, *Archives d’histoire doctrinale et littéraire du Moyen Âge*, 74: 85–108. doi:10.3917/ahdlm.074.0085
 
-[^black-2006]: Black, Crofton, 2006, Pico’s *Heptaplus* and Biblical Hermeneutics (Studies in Medieval and Reformation Traditions 116), Leiden/Boston: Brill. doi:10.1163/9789047410645
+[^black-2006]: Black, Crofton, 2006, *Pico’s Heptaplus and Biblical Hermeneutics* (Studies in Medieval and Reformation Traditions 116), Leiden/Boston: Brill. doi:10.1163/9789047410645
 
 [^blum-2002]: Blum, Paul Richard, 2002, “Eintracht und Religion bei Giovanni Pico della Mirandola”, in *Suche nach Frieden: Politische Ethik in der frühen Neuzeit, Bd 2* (Theologie und Frieden 20), Norbert Brieskorn and Markus Riedenauer (eds), Stuttgart: Kohlhammer, 29–46.
 

@@ -186,9 +186,9 @@ Although such properties seem quite natural and are fairly easy to establish for
 
 Let $T$ be a theory whose language, $L(T)$, encompasses the language of set theory. Moreover, for simplicity, we shall assume that $L(T)$ has a constant *ω* denoting the set of von Neumann natural numbers and for each $n$ a constant $c_n$ denoting the $n$-th element of *ω*.
 
-A theory $T$ has the **disjunction property** (DP) if whenever $T$ proves $(\phi \vee \psi)$ for sentences *φ* and *ψ* of $L(T)$, then $T$ proves *φ* or $T$ proves *ψ*.
+A theory $T$ has the ***disjunction property*** (DP) if whenever $T$ proves $(\phi \vee \psi)$ for sentences *φ* and *ψ* of $L(T)$, then $T$ proves *φ* or $T$ proves *ψ*.
 
-The **existence property** has two distinct versions in the context of set theory: the *numerical existence property* (NEP) and the **existence property** (EP). Let $\theta(x)$ be a formula with at most $x$ free. We say that:
+The ***existence property*** has two distinct versions in the context of set theory: the ***numerical existence property*** (NEP) and the ***existence property*** (EP). Let $\theta(x)$ be a formula with at most $x$ free. We say that:
 
 **(1)**
 

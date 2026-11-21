@@ -33,7 +33,7 @@ for a suitable real number *y*. But now the orthogonality relations in the diagr
 
 Now, u(a₀) is orthogonal to u(a₁) and u(a₂), so:
 
-> u(a₀) = u(a₁) × u(a₂) / ( | u(a₁) × u(a₂) | ) = (-*x**y***i** + *x***j** − **k**) (1 + *x*² + *x*² *y*²)^{−½}
+> u(a₀) = u(a₁) × u(a₂) / ( | u(a₁) × u(a₂) | ) = (-*xy***i** + *x***j** − **k**) (1 + *x*² + *x*² *y*²)^{−½}
 
 Similarly, u(a₇) is orthogonal to u(a₃) and u(a₄), so:
 

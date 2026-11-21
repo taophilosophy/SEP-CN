@@ -42,7 +42,7 @@ The following three constraints on any extension of distances between worlds to 
 
 First, suppose that all the worlds in the range of $A$ are exactly the same distance from the actual world. What is the overall distance of $A$ from the actual world? One very plausible answer is that $A$ is exactly the same distance as the worlds it contains:
 
-> *The uniform distance principle*: If the worlds in the range of $A$ are of a uniform distance $d$ from the actual world then the distance of $A$ from the actual world is also $d$.
+> ***The uniform distance principle***: If the worlds in the range of $A$ are of a uniform distance $d$ from the actual world then the distance of $A$ from the actual world is also $d$.
 
 Note that *average* and *min-max-average* both obey *uniform distance* while *min-sum-average* does not. *min-sum-average* is based on the intuition that adding new disjuncts decreases truthlikeness, unless the new disjunct improves the minimum distance. For example, on *min-sum-average* if it is hot and rainy, the false proposition $(h \amp{\sim}r)\vee({\sim}h \amp r)$ is further from the truth than either of its two false disjuncts, even though both disjuncts are the same distance from the truth.
 
@@ -50,13 +50,13 @@ Let $A^{v/u}$ be any proposition that differs from $A$ only in that it contains 
 
 This gives us:
 
-> *The Pareto principle*: If $v$ is at least as close to the actual world as $u$ is, then $A^{v/u}$ is at least as close to the truth as $A$ is.
+> ***The Pareto principle***: If $v$ is at least as close to the actual world as $u$ is, then $A^{v/u}$ is at least as close to the truth as $A$ is.
 
 If $v$ is closer to the actual world than $u$ is then there should be a difference between the distance of $A$ from the truth and the distance of $A^{v/u}$ from the truth. What should that difference depend on? Given that $A^{v/u}$ differs from $A$ only over the distance from the actual world of worlds $u$ and $v$, the difference in closeness to truth of $A$ and $B$ can certainly depend on the distance of $u$ from the actual world and the distance of $v$ from the actual world. The following argument shows that the difference may also depend on the size of $A$.
 
 The smaller $A$ is the more the replacement changes what we might call $A$’s distance profile. In the limit if $A$ is a singleton (viz. $\{u\})$, $A^{v/u}$ is also a singleton (viz., $\{v\})$. From the uniform distance principle, we know that the difference between the distances of $A$ and of $A^{v/u}$ in this case is the difference between the distance of $v$ and the distance of $u$ from the actual world. And that is the largest difference that replacing $u$ with $v$ could make. The larger $A$ is the less of an impact the replacement will have. So size of $A$ may make a difference to the impact of replacement. However, we don’t have to stipulate any particular function here, or even that it be a decreasing function of the size of $A$ (as indeed it should be). Rather, we merely allow that the difference between the two distances is *some function or other* of these three factors.
 
-> *The difference principle*: The difference in closeness to the truth of $A$ and $A^{v/u}$ is some function or other of at most three factors: the distance of $u$ from the actual world; the distance of $v$ from the actual world; and the size of $A$.
+> ***The difference principle***: The difference in closeness to the truth of $A$ and $A^{v/u}$ is some function or other of at most three factors: the distance of $u$ from the actual world; the distance of $v$ from the actual world; and the size of $A$.
 
 These three extension principles individually should be very attractive to a likeness theorist. And it is easy to check that averaging satisfies the extension principles. Interestingly it can also be shown that averaging is the only extension principle to do so. Any other extension will violate one of the three constraints. By relaxing the implicit assumption that all worlds are of equal weight, a generalized argument shows that *weighted average distance* is the only function to satisfy the extension principles.
 

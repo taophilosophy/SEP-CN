@@ -233,7 +233,7 @@ According to this view the philosophical differentiations between the Svātantri
 
 Bhāvaviveka wrote some of the major Madhyamaka treatises including
 
-- Lamp of Wisdom (*Prajñāpradīpamūlamadhyamakavṛtti* [PPMV], Dbu ma tsha 45b–259b),
+- *Lamp of Wisdom (Prajñāpradīpamūlamadhyamakavṛtti [PPMV], Dbu ma* tsha 45b–259b),
 - *Verses on the Heart of the Middle Way (Madhyamakahṛdayakārikā* [MadhHK],
 - *Blazes of Reasoning: A Commentary on Verses of the Heart of the Middle Way* (*Tarkajvālā*).
 

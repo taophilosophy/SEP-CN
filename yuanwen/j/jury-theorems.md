@@ -76,7 +76,7 @@ This theorem paints an optimistic picture of the wisdom of crowds, by concluding
 
 ![two related graphs: link to extended description below](../assets/jury-theorems/Fig1.png)
 
-*Figure 1.* The probability of majority correctness for different group sizes and competence levels. [An extended description of Figure 1 is in the supplement.]
+\*Figure 1.\* The probability of majority correctness for different group sizes and competence levels. [An extended description of Figure 1 is in the supplement.]
 
 Figure 1 illustrates increasing majority reliability, for different levels of individual competence $p=P(R_{i})$. Note the fast convergence to one, even for just slightly competent individuals.
 
@@ -155,7 +155,7 @@ Although voters will be incompetent under some (unfortunate) instances $x$ of th
 
 ![a plot: link to extended description below](../assets/jury-theorems/Fig2.png)
 
-*Figure 2.* A competence distribution that tends to exceed $\frac{1}{2}.$ [An extended description of Figure 2 is in the supplement.]
+\*Figure 2.\* A competence distribution that tends to exceed $\frac{1}{2}.$ [An extended description of Figure 2 is in the supplement.]
 
 Figure 2 gives an example where specific competence (with values $0, \frac{1}{8},$ $\frac{1}{4},$ $\frac{3}{8}, \ldots, 1)$ tends to exceed $\frac{1}{2}$: competence is $\frac{5}{8}$ with higher probably than $\frac{3}{8}$; it is $\frac{3}{4}$ with higher probably than $\frac{1}{4}$; etc. Visually, this makes the distribution lean to the right.
 
@@ -177,7 +177,7 @@ Table 1 summarizes the three jury theorems.
 
 *Table 1. Three jury theorems compared*
 
-|   | Condorcet’s Jury Theorem | Conditional Jury Theorem | Competence-Sensitive Jury Theorem |
+|   | *Condorcet’s Jury Theorem* | *Conditional Jury Theorem* | *Competence-Sensitive Jury Theorem* |
 | --- | --- | --- | --- |
 | *Premise 1* | Unconditional Independence | Conditional Independence | Conditional Independence |
 | *Premise 2* | Unconditional Competence | Conditional Competence | Tendency to Competence |
@@ -188,7 +188,7 @@ All theorems yield increasing reliability, but only the first two yield asymptot
 
 ![4 plots a, b1, b2, and c: link to extended description below](../assets/jury-theorems/Fig3.png)
 
-*Figure 3.* The three competence axioms UC, CC and TC. [An extended description of Figure 3 is in the supplement.]
+\*Figure 3.\* The three competence axioms UC, CC and TC. [An extended description of Figure 3 is in the supplement.]
 
 Figure 3 illustrates how the competence assumption evolves:
 
@@ -259,7 +259,7 @@ Causal graphs help to understand how diversity affects deliberation. Think of th
 
 ![two diagrams (a) and (b): link to extended description below](../assets/jury-theorems/Fig4.png)
 
-*Figure 4.* Source sharing through deliberation. [An extended description of Figure 4 is in the supplement.]
+\*Figure 4.\* Source sharing through deliberation. [An extended description of Figure 4 is in the supplement.]
 
 Figure 4 gives an illustration with just two sources and three individuals. Source sharing makes the basis of judgments more similar across individuals, possibly letting judgments converge. Ideal deliberation achieves full source sharing, as in Figure 4. The more diverse the group was initially, the more sources there are to share, hence the more deliberation can “do”.
 
@@ -322,7 +322,7 @@ Turning to the second intuition, deliberation certainly affects competence. Sinc
 
 ![three plots a, b, and c: link to extended description below](../assets/jury-theorems/Fig5.png)
 
-*Figure 5.* Three examples where deliberation improves competence. Grey: pre-deliberation. Black: post-deliberation. [An extended description of Figure 5 is in the supplement.]
+\*Figure 5.\* Three examples where deliberation improves competence. Grey: pre-deliberation. Black: post-deliberation. [An extended description of Figure 5 is in the supplement.]
 
 Plots a, b and c refer to the competence axiom of Condorcet’s, the Conditional, and the Competence-Sensitive Jury Theorem, respectively. In all three plots, the competence axiom is violated pre-deliberation, and holds post-deliberation— an extreme example where deliberation is of vital importance. In Plot a, deliberation lets general competence $P(R_{i})$ move from 0.4 to 0.8 post-deliberation, so that Condorcet’s competence axiom UC becomes satisfied. In Plots b and c, the distribution of specific competence across facts moves upwards, making the respective competence axiom satisfied.
 
@@ -707,7 +707,7 @@ A limit inferior always exists, and coincides with the ordinary limit when exist
 
 [^miller-1986]: Miller, Nicholas R., 1986, “Information, Electorates, and Democracy: Some Extentions and Interpretations of the Condorcet Jury Theorem”, in Bernard Grofman and Guillermo Owen (eds.), *Information Pooling and Group Decision Making*, Greenwich, CT: JAI Press, pp. 173–192.
 
-[^morreau-2021]: Morreau, Michael, 2021, “Democracy without Enlightenment: A Jury Theorem for Evaluative Voting*”, *Journal of Political Philosophy*, 29(2): 188–210. doi:10.1111/jopp.12226
+[^morreau-2021]: Morreau, Michael, 2021, “Democracy without Enlightenment: A Jury Theorem for Evaluative Voting\*”, *Journal of Political Philosophy*, 29(2): 188–210. doi:10.1111/jopp.12226
 
 [^muirhead-2014]: Muirhead, Russell, 2014, “The Politics of Getting It Right”, *Critical Review*, 26(1–2): 115–128. doi:10.1080/08913811.2014.907045
 

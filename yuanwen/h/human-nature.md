@@ -343,7 +343,7 @@ I would like to thank Michelle Hooge, Maria Kronfeldner, Nick Laskowski and Hich
 
 [^sousa-2000]: de Sousa, Ronald, 2000, “Learning to be Natural”, in Roughley 2000: 287–307.
 
-[^devitt-2008]: Devitt, Michael, 2008, “Resurrecting Biological Essentialism*”, *Philosophy of Science*, 75(3): 344–382. doi:10.1086/593566
+[^devitt-2008]: Devitt, Michael, 2008, “Resurrecting Biological Essentialism\*”, *Philosophy of Science*, 75(3): 344–382. doi:10.1086/593566
 
 [^devitt-2010]: –––, 2010, “Species Have (Partly) Intrinsic Essences”, *Philosophy of Science*, 77(5): 648–661. doi:10.1086/656820
 
@@ -363,7 +363,7 @@ I would like to thank Michelle Hooge, Maria Kronfeldner, Nick Laskowski and Hich
 
 [^ereshefsky-2008]: –––, 2008, “Systematics and Taxonomy”, in *A Companion to the Philosophy of Biology*, Sarkar Sahotra and Anya Plutynski (eds.), Oxford, UK: Blackwell Publishing Ltd, 99–118. doi:10.1002/9780470696590.ch6
 
-[^ereshefsky-2005]: Ereshefsky, Marc and Mohan Matthen, 2005, “Taxonomy, Polymorphism, and History: An Introduction to Population Structure Theory*”, *Philosophy of Science*, 72(1): 1–21. doi:10.1086/426848
+[^ereshefsky-2005]: Ereshefsky, Marc and Mohan Matthen, 2005, “Taxonomy, Polymorphism, and History: An Introduction to Population Structure Theory\*”, *Philosophy of Science*, 72(1): 1–21. doi:10.1086/426848
 
 [^foot-2001]: Foot, Philippa, 2001, *Natural Goodness*, Oxford: Clarendon Press. doi:10.1093/0198235089.001.0001
 

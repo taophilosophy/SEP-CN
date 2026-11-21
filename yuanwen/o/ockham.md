@@ -521,7 +521,7 @@ For the update to this entry published in the summer of 2011, Claude Panaccio be
 
 [^kluge-1973]: Kluge, Eike-Henner W. (trans.), 1973–1974, “William of Ockham’s Commentary on Porphyry: Introduction and English Translation”, *Franciscan Studies*, 33: 171–254 and 34: 306–382.
 
-[^longeway-2007]: Longeway, John (trans.), 2007, Demonstration and Scientific Knowledge in William of Ockham: A Translation of Summa Logicae III–II: De Syllogismo Demonstrativo, and Selections from the Prologue to the Ordinatio, Notre Dame, IN: University of Notre Dame Press.
+[^longeway-2007]: Longeway, John (trans.), 2007, *Demonstration and Scientific Knowledge in William of Ockham: A Translation of Summa Logicae III–II: De Syllogismo Demonstrativo, and Selections from the Prologue to the Ordinatio*, Notre Dame, IN: University of Notre Dame Press.
 
 [^loux-1974]: Loux, Michael J. (trans.), 1974, *Ockham’s Theory of Terms, Part I of the Summa Logicae*, Notre Dame, IN: University of Notre Dame Press. (Complete Translation.)
 

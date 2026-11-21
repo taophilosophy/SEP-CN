@@ -82,7 +82,7 @@ The best way to understand this notation is by way of some tables, which show so
 
 The first table shows how Frege’s logic can express the truth-functional connectives such as not, if-then, and, or, and if-and-only-if.
 
-| **Example** | Frege’s Notation | Modern Notation |
+| **Example** | **Frege’s Notation** | **Modern Notation** |
 | --- | --- | --- |
 | John is happy | ![Frege-notation](../assets/frege/that-Hj.svg) | $Hj$ |
 | It is not the case that John is happy | ![Frege-notation](../assets/frege/not-Hj.svg) | $\neg Hj$ |
@@ -97,7 +97,7 @@ As one can see, Frege didn’t use the primitive connectives ‘and’, ‘or’
 
 The table below compares statements of generality in Frege’s notation and in the modern predicate calculus. Frege used a special typeface (Gothic) for variables in general statements.
 
-> | **Example** | Frege Notation | Modern Notation |
+> | **Example** | **Frege Notation** | **Modern Notation** |
 > | --- | --- | --- |
 > | Everything is mortal | ![Frege-notation](../assets/frege/AllMx.svg) | $\forall xMx$ |
 > | Something is mortal | ![Frege-notation](../assets/frege/SomeMx.svg) | $\neg \forall x\neg Mx$ i.e., $\exists xMx$ |

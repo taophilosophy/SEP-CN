@@ -281,7 +281,7 @@ Or else they can be pictured like this:
 
 ![[A graph, y-axis labeled 'preference' and x-axis having 'Cold', 'Warm', and 'Hot' in that order. First line, labeled 'Mama', goes from Cold/preference high to Hot/preference low. Second line, labeled 'Papa', goes from Cold/preference low to Hot/preference high. Third line, labeled 'Baby', goes from Cold/preference low to Warm/preference high to Hot/preference medium ]](../assets/arrows-theorem/fig1.png)
 
-*Figure 1*
+\*Figure 1\*
 
 This preference profile is *single peaked*. Each bear has a “bliss point” somewhere along the ordering of the options by their temperature, and each bear likes options less and less as we move along this common ordering away from the bliss point, on either side. Single peaked *preferences* arise with respect to the left-right orientation of political candidates, the cost of alternative public projects, and other salient attributes of options. Single peaked *profiles*, in which everybody’s preferences are single peaked with respect to a common ordering, arise naturally when everybody cares about the same thing in the options under consideration—temperature, left-right orientation, cost, or what have you—even if, as with the bears, there is no further consensus about which options are better than which.
 
@@ -298,7 +298,7 @@ Pairwise majority decision derives from this profile a weak social preference fo
 
 ![[A graph, y-axis labeled 'preference' and x-axis having 'B', 'C', and 'A' in that order. First line, labeled '1' goes from B/low preference to C/high preference to A/medium preference. Second line, labeled '2', goes from B/high preference to A/low preference.]](../assets/arrows-theorem/fig2.png)
 
-*Figure 2*
+\*Figure 2\*
 
 Majority decision with “phantom” voters can be used to establish Arrow consistency when the number of people is even. Let there be $2n$ people, and let each profile in the domain be single peaked with respect to one and the same ordering of the alternatives. Let $R_{2n+1}$ be an ordering that also is single peaked with respect to this common ordering. $R_{2n+1}$ represents the preferences of a “phantom” voter. Now take each profile $\langle R_{1},\ldots, R_{2n}\rangle$ in the domain and expand it into $\langle R_{1},\ldots, R_{2n}, R_{2n+1}\rangle$, by adding $R_{2n+1}$. The set of all the expanded profiles is a single peaked domain and, because the real voters together with the phantom are odd in number, Black’s result applies to it. Let $g$ be pairwise majority decision for the expanded domain. We obtain a social welfare function $f$ for the original domain by assigning to each profile the ordering that $g$ assigns to its expansion. That is, we put:
 
@@ -388,7 +388,7 @@ Amartya Sen (1970)[^sen-1970] extended Arrow’s framework by representing the p
 
 Sen showed how to study various assumptions concerning the measurability and interpersonal comparability of utilities by coordinating the social orderings derived from profiles that, depending on these assumptions, carry the same information. For instance, ordinal measurement with interpersonal noncomparability—built by Arrow right into his technical framework—amounts, in Sen’s more flexible set up, to a requirement that the same social ordering is to be derived from any utility profiles that reduce to the same list of orderings. At the other extreme, utilities are measured on a ratio scale with full interpersonal comparability if those profiles yield the same social ordering that can be obtained from each other by rescaling, or multiplying all utility functions by the same positive real number. Sen explored different combinations of such assumptions.
 
-One important finding was that having cardinal utilities is not by itself enough to avoid an impossibility result. In addition, utilities have to be interpersonally comparable. Intuitively speaking, to put information about preference strengths to good use it has to be possible to compare the strengths of different individuals’ preferences. See Sen (1970: Theorem 8*2). Interpersonal comparability opens up many possibilities for aggregating utilities and preferences. Two important ones can be read off from classical utilitarianism and Rawls’s difference principle. For details, see the entry on social choice theory.
+One important finding was that having cardinal utilities is not by itself enough to avoid an impossibility result. In addition, utilities have to be interpersonally comparable. Intuitively speaking, to put information about preference strengths to good use it has to be possible to compare the strengths of different individuals’ preferences. See Sen (1970: Theorem 8\*2). Interpersonal comparability opens up many possibilities for aggregating utilities and preferences. Two important ones can be read off from classical utilitarianism and Rawls’s difference principle. For details, see the entry on social choice theory.
 
 ## 6. Reinterpretations
 

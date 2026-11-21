@@ -21,7 +21,7 @@ The first book of the *Rhetoric* treats these three genres in succession. *Rheto
 
 Owing to ambiguities like these, the structuring of the *Rhetoric* has always been somewhat controversial, since different attempts to structure the work manifest different interpretative decisions. By and large, though, the following structure seems to capture its main topics and divisions:
 
-*Rhetoric* I
+***Rhetoric* I**
 
 - Ch. 1: Rhetoric as a counterpart to dialectic — dialectically conceived rhetoric is centred on proofs — rhetorical proofs are ‘enthymemes’ — this is neglected by previous manuals of rhetoric that focus instead on emotions, slandering and on other techniques for speaking outside the subject — “speaking outside the subject” is forbidden in states with good legislation — the benefits of rhetoric.
 - Ch. 2: Rhetoric is the capacity to discern the available persuasive potential in any given case — means of persuasion (*pisteis*) based on the art (*technê*) of rhetoric vs. artless means of persuasion — of the art-based means of persuasion (*pisteis*) there are three types:
@@ -37,7 +37,7 @@ Owing to ambiguities like these, the structuring of the *Rhetoric* has always be
 - Ch. 10–14: Premises or *topoi* specific to the judicial speech: wrong-doing and motives for wrong-doing (Ch. 10) — pleasure (Ch. 11) — the state of mind of the wrong-doers and characteristics of their victims (Ch. 12) — kinds of just and unjust deeds, unwritten laws (Ch. 13) — degrees of wrong-doing (Ch. 14).
 - Ch. 15: Artless means of persuasion (i.e. means that cannot be invented by the art, but are just given — such as contracts, laws, witnesses, oaths, torture — and need to be used in one way or the other), mostly connected with judicial speech.
 
-*Rhetoric* II
+***Rhetoric* II**
 
 - Ch. 1: Why persuasion through *logos* is insufficient — how persuasion through *êthos* and *pathos* is supposed to work.
 - Ch. 2–11: Particular types of emotions (*pathê*) and their counterparts: anger (Ch. 2) — mildness (Ch. 3) — loving/friendly affection (*philia*) and hating (Ch. 4) — fear and confidence (Ch. 5) — shame and lack of shame (Ch. 6) — gratefulness and lack of gratefulness (Ch. 7) — pity (Ch. 8) — indignation plus two nameless emotions (Ch. 9) — envy (Ch. 10) — emulation or ambition (Ch.11).
@@ -46,14 +46,14 @@ Owing to ambiguities like these, the structuring of the *Rhetoric* has always be
 - Ch. 19–25: Generally applicable aspects of persuasion through *logos*: *topoi* about the possible/impossible, past and future facts, significance and insignificance (Ch. 19) — examples: factual (report) and fictitious (the parable and the fable) (Ch. 20) — maxims (Ch. 21) — the enthymeme (Ch. 22) — *topoi* for the construction of enthymemes (Ch. 23) — *topoi* for the construction of merely apparent (i.e. fallacious) enthymemes (Ch. 24) — refutation (Ch. 25).
 - Ch. 26: Amplification — transition to *Rhetoric* III.
 
-*Rhetoric* III, Ch. 1–12: Style (*lexis*):
+***Rhetoric* III**, **Ch. 1–12: Style (*lexis*):**
 
 - Ch. 1: Delivery of a speech and why style/diction should be considered.
 - Ch. 2–3: The virtue and the vices of prose style: the excellent prose style is neither too banal nor above the due dignity, but appropriate — the choice of words — the role of metaphors (Ch. 2) — Four deterrent factors (or vices) of style (Ch. 3).
 - Ch. 4–11: Particular ingredients of prose style: the simile (Ch. 4) — linguistic correctness (Ch. 5) — stylistic voluminousness and its contrary (Ch. 6) — appropriateness in style (Ch. 7) — periodic style (Ch. 8) — rhythm (Ch. 9) — urbanity, bringing before the eyes, metaphors (Ch. 10–11).
 - Ch. 12: Written and oral style.
 
-*Rhetoric* III, Ch. 13–19: Arrangement (*taxis*):
+***Rhetoric* III**, **Ch. 13–19: Arrangement (*taxis*):**
 
 - Ch. 13: Only two parts of the speech are necessary, namely the statement and the proof of the main claim — contemporary authors of rhetorical manuals make futile subdivisions of the parts of speech — introduction of a quadripartite scheme of the speech: (1) proem, (2) statement of the main claim, (3) proof of the stated claim (*pistis*), (4) epilogue.
 - Ch. 14–19: Particular parts of the speech: the proem in the three genres of speech (Ch. 14) — *topoi* for slandering (Ch. 15) — narration (Ch. 16) — proof (*pistis*) (Ch. 17) — interrogation (Ch. 18) — epilogue/conclusion (Ch. 19).

@@ -8,7 +8,7 @@
 
 A *first-order relational structure* consists of:
 
-- a non-empty set of objects $D$, called the domain (of discourse);
+- a non-empty set of objects $D$, called the *domain (of discourse)*;
 - designated *objects* or *individuals* in $D$ denoted by *constants*;
 - designated *relations* in $D$ denoted by *predicates*;
 

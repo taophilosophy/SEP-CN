@@ -301,7 +301,7 @@ Wang Fuzhi also repudiated the Neo-Confucian epistemological assertions of the p
 
 He claimed that
 
-> when a thing is known, then its name is known. When its name is known, then its significance is known. Without contact with things, even if the mind-heart is imbued with its innate ability, [it] cannot name the names, and things cannot be accomplished. (ibid., 108***see previous*)
+> when a thing is known, then its name is known. When its name is known, then its significance is known. Without contact with things, even if the mind-heart is imbued with its innate ability, [it] cannot name the names, and things cannot be accomplished. (ibid., 108\*\*\*see previous\*)
 
 Wang thus argued strongly in favor of “investigation of things” (*gewu*), which employed both the mind-heart, and our senses of hearing and seeing, that is, empirical observation. He defined their inexorable interrelation and interaction in the quest for knowledge:
 

@@ -82,7 +82,7 @@ Indeed, the above principle follows from Independence and is in fact *equivalent
 
 ![right triangle with the with the 90 degree angle on the bottom left and labeled '0'. The other two angles are each labeled '1'. The vertical side is labeled 'P(x_3)' and the horizontal side labeled 'P(x_1)'. Five parallel diagonal lines in the triangle from the bottom left to top right.](../assets/decision-theory-descriptive/fig1.svg)
 
-*Figure 1*
+\*Figure 1\*
 
 Although SEU continues to enjoy widespread support as a normative model of choice behaviour (though see Section 5 below), it is no longer generally taken to be descriptively adequate. A number of substantial deviations from its predictions were noted as early as the 1950s and early 1960s by the likes of Allais (1953a,b) and Ellsberg (1961)[^ellsberg-1961] and further investigated in the 1970s. These observations led to the development of alternative models whose own predictive consequences have become the focus of extensive testing in the past three decades or so.[^note-3]
 
@@ -108,7 +108,7 @@ Allais (1953a: 527)[^allais-1953a] considered hypothetical preferences revealed 
 
 (d)
 
-*Figure 2*
+\*Figure 2\*
 
 He claimed that, for a substantial proportion of agents, one would find that $P_{1}\succ P_{2}$ and $P_{4}\succ P_{3}$ (call these the “*Allais preferences*”). However, on the assumptions that (i) the subjects’ degrees of belief align themselves with the objective probabilities given and (ii) the outcomes can be adequately characterised entirely in terms of the associated changes in level of wealth, such a combination of preferences runs contrary to Independence. More specifically, it runs counter to the special case of the principle, according to which the substitution of a common “consequence”, i.e., lottery, in a pair of mixtures leave the order of preference unchanged:
 
@@ -116,7 +116,7 @@ He claimed that, for a substantial proportion of agents, one would find that $P_
 
 $$\begin{split} \lambda P_f + (1-\lambda) P_h\succeq \lambda P_g + (1-\lambda) P_h\\ \textrm{ iff }\lambda P_f + (1-\lambda) P_{h'}\succeq \lambda P_g + (1-\lambda) P_{h'}. \end{split} $$
 
-To see why, let $\lambda=0.11$, $Q_1$ (the “consequence” common to $P_1$ and $P_2$) be a lottery yielding $$1$M for sure, $Q_2$ be a lottery yielding $$5$M with probability $10/11$ and $\$0$ otherwise, and finally $Q_3$ (the “consequence” common to $P_3$ and $P_4$) a lottery yielding $\$0$ for sure. $P_1$ turns out to be a *λ*-mixture of $Q_1$ and $Q_1$, $P_2$ one of $Q_2$ and $Q_1$, $P_3$ one of $Q_1$ and $Q_3$ and $P_4$ one of $Q_2$ and $Q_3$. This is probably best seen by considering the decision trees representing the corresponding compound lotteries:
+To see why, let $\lambda=0.11$, $Q_1$ (the “consequence” common to $P_1$ and $P_2$) be a lottery yielding \$$1$M for sure, $Q_2$ be a lottery yielding \$$5$M with probability $10/11$ and $\$0$ otherwise, and finally $Q_3$ (the “consequence” common to $P_3$ and $P_4$) a lottery yielding $\$0$ for sure. $P_1$ turns out to be a *λ*-mixture of $Q_1$ and $Q_1$, $P_2$ one of $Q_2$ and $Q_1$, $P_3$ one of $Q_1$ and $Q_3$ and $P_4$ one of $Q_2$ and $Q_3$. This is probably best seen by considering the decision trees representing the corresponding compound lotteries:
 
 ![circle with P1 with a line labeled '.11' to a circle with Q1 which has a line labeled '1' to '$1M'. Another line from P1 labeled '1' goes to a circle also with Q1 which has a line labeled '1' to '$1M'.](../assets/decision-theory-descriptive/fig3a.svg)
 
@@ -134,7 +134,7 @@ To see why, let $\lambda=0.11$, $Q_1$ (the “consequence” common to $P_1$ and
 
 (d)
 
-*Figure 3*
+\*Figure 3\*
 
 The upshot of this, by Common Consequence, is then that $P_1\succeq P_2$ iff $P_3\succeq P_4$.[^note-4]
 
@@ -142,7 +142,7 @@ The probability triangle affords a helpful illustration of the incompatibility o
 
 ![Similar to figure 1 except no diagonal lines and the vertical side is labeled 'P(x_1)' and the horizontal 'P(x_3)'. In addition a short vertical segment starts at the right angle vertice and is labeled 'P_1' at the bottom and 'P_2' at the top. Another short vertical segment that seems to be the same length is on the right connecting the horizontal line of the triangle to its hypotenuse; it is labeled 'P_3' on the bottom and 'P_4' on the top.](../assets/decision-theory-descriptive/fig4.svg)
 
-*Figure 4*
+\*Figure 4\*
 
 In addition to the above, which has come to be known as the *Common Consequence* problem, a further issue, the *Common Ratio* problem, was suggested by Allais (1953a: 529–530)[^allais-1953a]. The difficulty this time concerned a further consequence of Independence, which tells us that the order of preference between two identically-weighted mixtures that share a common component lottery is unaffected by a change in the mixture weight:
 
@@ -212,10 +212,10 @@ In another classic challenge to SEU, Ellsberg (1961)[^ellsberg-1961] asked subje
 |   | $\overbrace{\phantom{30 balls}}^{\textrm{30 balls}}$ | $\overbrace{\phantom{45630 balls}}^{\textrm{60 balls}}$ |   |
 | --- | --- | --- | --- |
 |   | r | b | y |
-| $f_1$ | $100 | $0 | $0 |
-| $g_1$ | $0 | $100 | $0 |
-| $f_2$ | $100 | $0 | $100 |
-| $g_2$ | $0 | $100 | $100 |
+| $f_1$ | \$100 | \$0 | \$0 |
+| $g_1$ | \$0 | \$100 | \$0 |
+| $f_2$ | \$100 | \$0 | \$100 |
+| $g_2$ | \$0 | \$100 | \$100 |
 
 Ellsberg reported that a majority of subjects exhibited the preferences $f_1\succ g_1$, but $g_2\succ f_2$, an instance of a phenomenon that has come to be known as *ambiguity aversion*: a relative preference for betting on events of known rather than unknown (“ambiguous”) probability.
 
@@ -279,11 +279,11 @@ While all models mentioned above impose transitivity on preferences, there is a 
 
 |   | $p_i$ | $x_i$ |
 | --- | --- | --- |
-| $P_1$ | $\nicefrac{7}{24}$ | $$5$ |
-| $P_2$ | $\nicefrac{8}{24}$ | $$4.75$ |
-| $P_3$ | $\nicefrac{9}{24}$ | $$4.5$ |
-| $P_4$ | $\nicefrac{10}{24}$ | $$4.25$ |
-| $P_5$ | $\nicefrac{11}{24}$ | $$4$ |
+| $P_1$ | $\nicefrac{7}{24}$ | \$$5$ |
+| $P_2$ | $\nicefrac{8}{24}$ | \$$4.75$ |
+| $P_3$ | $\nicefrac{9}{24}$ | \$$4.5$ |
+| $P_4$ | $\nicefrac{10}{24}$ | \$$4.25$ |
+| $P_5$ | $\nicefrac{11}{24}$ | \$$4$ |
 
 Tversky took his data to suggest that a significant number of subjects were prone to expressing strict preferences for each lottery over its immediate successor, but a strict preference for the last lottery over the first. He proposed that these subjects ranked adjacent lotteries by mere payoff as the differences in the probabilities of winning were barely perceptible, but took probability of winning into consideration in the comparison between $P_1$ and $P_5$, since the difference in values there was large. Although Tversky’s results were later replicated, it should be noted that there is ongoing controversy surrounding the level of empirical support for intransitive preference (see Regenwetter *et al.* 2011 for a recent literature review)[^regenwetter-2011].
 

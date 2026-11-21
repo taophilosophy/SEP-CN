@@ -287,7 +287,7 @@ Examples of the kinds of syntactic considerations they had in mind include islan
 
 > (26) Someone believes that every man I know is angry.
 >
-> (26′) *[every *y*: man(y) and know(I,*y*)]([Some *x*: person(*x*)](*x* believes that *y* is angry))
+> (26′) \*[every *y*: man(y) and know(I,*y*)]([Some *x*: person(*x*)](*x* believes that *y* is angry))
 
 On the other hand, it seems more natural to say that (27) can have the interpretation corresponding to the structure in (27′).
 
@@ -299,7 +299,7 @@ A more compelling example of an island constraint would be the antecedent of a c
 
 > (28) If every person I know is happy then I will be happy.
 >
-> (28′) *[every *x*: person(*x*) and know(I,*x*)](if *x* is happy then I will be happy)
+> (28′) \*[every *x*: person(*x*) and know(I,*x*)](if *x* is happy then I will be happy)
 
 But a “wide understanding” of (29) does seem to be possible.
 
@@ -321,9 +321,9 @@ In the case of (30) ‘a student of mine’ can have narrow scope with respect t
 
 One attractive possibility that has emerged from the literature in Discourse Representation Theory—in particular in work by Heim (1982)[^heim-1982], Kamp (1984), Deising (1992), Kamp and Reyle (1993)—has been that the appearance of a determiner in an indefinite description is chimeral—‘a man’ in fact comes to an expression containing a predicate and a free variable, as in ‘man *x*’. This free variable might then be picked up by some sort of discourse operator as discussed in the previous section.
 
-Accordingly, a sentence like (1) might have a logical form, or better, a discourse representation structure akin to (1*) (abstracting from details).
+Accordingly, a sentence like (1) might have a logical form, or better, a discourse representation structure akin to (1\*) (abstracting from details).
 
-> (1*) [[man(*x*) came in the room] [*x* turned on the TV]]
+> (1\*) [[man(*x*) came in the room] [*x* turned on the TV]]
 
 This general strategy gives us some explanation for why indefinites sometimes appear to have island escaping properties as in cases like conditionals. The answer is that they don’t escape at all, but are free variables that are bound by (or existentially closed by) operators outside of the island. This describes the DRT strategy only in the most general of terms, but we can already see that the questions that plague the Russellian story have their reflex here as well. Everyone now recognizes that intermediate scope is a possibility in cases like (30) and (31), but the question is just what mechanisms make it possible? The Russellian has to opt for operators with unusual island escaping properties. What is the DRT theorist to do?
 

@@ -149,7 +149,7 @@ An alternative to the simple argument is to suggest that there is a further noti
 
 How is the notion of “using an expression in accordance with its meaning” to be construed? According to one proposal, it concerns which expressions are “appropriate” or “suitable” for expressing a certain belief. The notion of “suitability”, in turn, is derived from the ordinary semantic correctness conditions taken together with what I intend to express by my expressions: If “green” applies correctly only to green objects, and I mean to express my belief that $x$ is green, then I ought to use the term “green” and not, say, “red”. This allows for the possibility that my use is correct in the sense of (CM), and yet linguistically incorrect (if $x$ is red and I use the term “red” to express my belief that $x$ is green); and, vice versa, that my use is incorrect in the sense of (CM), but linguistically correct (if $x$ is red and I use the term “green” to express my belief that $x$ is green) (McGinn 1984: 60; Millar 2004: 162–163)[^mcginn-1984][^millar-2004]. Hence, in the place of (CM) we have:
 
-(CM*)
+(CM\*)
 
 For any speaker $S$, and any time $t$: if “green” means *green* for $S$ at $t$, then it is correct for $S$ at $t$ to apply “green” to an object $x$ iff $S$ intends to express the belief that $x$ is green at $t$.[^note-20]
 

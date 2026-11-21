@@ -111,9 +111,9 @@ Meinong would not accept the following highly controversial thesis of consciousn
 
 **(C)**
 
-Consciousness is necessarily such that if a subject *s* has a conscious property *P*, *s* is also conscious of its* having the property *P*.
+Consciousness is necessarily such that if a subject *s* has a conscious property *P*, *s* is also conscious of its\* having the property *P*.
 
-This is a thesis of self-consciousness in a twofold manner: First, *s* is conscious of itself in a direct (de se) manner — therefore, the third person pronoun is used with a Castañeda asterisk as a sign of a “quasi-indicator”, i.e., an emphatic reflexive expressing the reference of the subject to itself qua itself (cf. the entry on indexicals, Section 5). Secondly, *s* is conscious of the conscious state it is in. Brentano accepted (C), with some provisos in order to avoid an infinite regress. Brentano thinks that conscious states (mental acts) are necessarily such that if a subject *s* is in a conscious state, *s* is also conscious of its* being in this state. This self-consciousness is to be interpreted as inner perception, but *not as a separate higher-order perception*: Each mental act is primarily directed to an object (my hearing a sound has the sound as its primary object), and it is *incidentally* directed towards itself (my hearing a sound has itself as secondary object). (See Brentano 1874, 2. Buch, 2. Kap., §§8–9; Brentano 1982: 22–5)[^brentano-1874][^brentano-1982].
+This is a thesis of self-consciousness in a twofold manner: First, *s* is conscious of itself in a direct (de se) manner — therefore, the third person pronoun is used with a Castañeda asterisk as a sign of a “quasi-indicator”, i.e., an emphatic reflexive expressing the reference of the subject to itself qua itself (cf. the entry on indexicals, Section 5). Secondly, *s* is conscious of the conscious state it is in. Brentano accepted (C), with some provisos in order to avoid an infinite regress. Brentano thinks that conscious states (mental acts) are necessarily such that if a subject *s* is in a conscious state, *s* is also conscious of its\* being in this state. This self-consciousness is to be interpreted as inner perception, but *not as a separate higher-order perception*: Each mental act is primarily directed to an object (my hearing a sound has the sound as its primary object), and it is *incidentally* directed towards itself (my hearing a sound has itself as secondary object). (See Brentano 1874, 2. Buch, 2. Kap., §§8–9; Brentano 1982: 22–5)[^brentano-1874][^brentano-1982].
 
 Meinong would instead state:
 
@@ -123,11 +123,11 @@ Meinong would instead state:
 
 **(C1)**
 
-Being *F* is a self-presenting property for a subject *s* =_{*df*} Being *F* is necessarily such that, if *s* is *F*, and if *s* thinks about its* being *F*, then *s* does not need any particular, separate presentation of its* being *F*.
+Being *F* is a self-presenting property for a subject *s* =_{*df*} Being *F* is necessarily such that, if *s* is *F*, and if *s* thinks about its\* being *F*, then *s* does not need any particular, separate presentation of its\* being *F*.
 
 **(C2)**
 
-Being *F* is self-presented to a subject *s* =_{*df*} (1) Being *F* is a self-presenting property for a subject *s*, (2) *s* is *F*, and (3) *s* thinks about its* being *F*.
+Being *F* is self-presented to a subject *s* =_{*df*} (1) Being *F* is a self-presenting property for a subject *s*, (2) *s* is *F*, and (3) *s* thinks about its\* being *F*.
 
 **(C3)**
 

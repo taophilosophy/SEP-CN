@@ -124,7 +124,7 @@ $\qed$
 
 *Proof:* For clarity, we omit some of the more verbose steps in the derivations of lines 4, 5 and 6.
 
-\begin{array}{rll} 1.& (\phi \wedge \psi) \supset \phi& \mathbf{P}\\ 2.& (\phi \wedge \psi) \supset \psi& \mathbf{P}\\ 3.& K[(\phi \wedge \psi) \supset \phi]& 1, \mathbf{NEC}\\ 4.& K[(\phi \wedge \psi) \supset \psi]& 2, \mathbf{NEC}\\ 5.& K(\phi \wedge \psi) \supset K\phi& 3, \mathbf{K}\\ 6.& K(\phi \wedge \psi) \supset K\psi& 4, \mathbf{K}\\ 7.& K(\phi \wedge \psi) \supset (K\phi \wedge K\psi)& 5,6, \mathbf{P}\\ \end{array}
+\\begin{array}{rll} 1.& (\\phi \\wedge \\psi) \\supset \\phi& \\mathbf{P}\\\\ 2.& (\\phi \\wedge \\psi) \\supset \\psi& \\mathbf{P}\\\\ 3.& K[(\\phi \\wedge \\psi) \\supset \\phi]& 1, \\mathbf{NEC}\\\\ 4.& K[(\\phi \\wedge \\psi) \\supset \\psi]& 2, \\mathbf{NEC}\\\\ 5.& K(\\phi \\wedge \\psi) \\supset K\\phi& 3, \\mathbf{K}\\\\ 6.& K(\\phi \\wedge \\psi) \\supset K\\psi& 4, \\mathbf{K}\\\\ 7.& K(\\phi \\wedge \\psi) \\supset (K\\phi \\wedge K\\psi)& 5,6, \\mathbf{P}\\\\ \\end{array}
 
 $\qed$
 
@@ -132,7 +132,7 @@ $\qed$
 
 *Proof:* Again, we omit some of the more verbose steps:
 
-\begin{array}{rll} 1.& K(\phi \wedge \neg K\phi) \supset (K\phi \wedge K\neg K\phi)& \bwedge\textbf{-distribution}\\ 2.& K\neg K\phi \supset \neg K \phi& \mathbf{T}\\ 3.& K(\phi \wedge \neg K\phi) \supset (K\phi \wedge \neg K\phi)& 1, 2, \mathbf{P}, \mathbf{MP}\\ 4.& \neg (K\phi \wedge \neg K\phi)& \mathbf{P}\\ 5.& \neg K(\phi \wedge \neg K\phi)& 3, 4, \mathbf{P}, \mathbf{MP}\\ 6.& \Box \neg K(\phi \wedge \neg K\phi)& 5, \mathbf{NEC}\\ 7.& \neg \neg \Box \neg K(\phi \wedge \neg K\phi)& 6, \mathbf{P}\\ 8.& \neg \Diamond K(\phi \wedge \neg K\phi)& 7, \textrm{Defn. of }\Diamond\\ \end{array}
+\\begin{array}{rll} 1.& K(\\phi \\wedge \\neg K\\phi) \\supset (K\\phi \\wedge K\\neg K\\phi)& \\bwedge\\textbf{-distribution}\\\\ 2.& K\\neg K\\phi \\supset \\neg K \\phi& \\mathbf{T}\\\\ 3.& K(\\phi \\wedge \\neg K\\phi) \\supset (K\\phi \\wedge \\neg K\\phi)& 1, 2, \\mathbf{P}, \\mathbf{MP}\\\\ 4.& \\neg (K\\phi \\wedge \\neg K\\phi)& \\mathbf{P}\\\\ 5.& \\neg K(\\phi \\wedge \\neg K\\phi)& 3, 4, \\mathbf{P}, \\mathbf{MP}\\\\ 6.& \\Box \\neg K(\\phi \\wedge \\neg K\\phi)& 5, \\mathbf{NEC}\\\\ 7.& \\neg \\neg \\Box \\neg K(\\phi \\wedge \\neg K\\phi)& 6, \\mathbf{P}\\\\ 8.& \\neg \\Diamond K(\\phi \\wedge \\neg K\\phi)& 7, \\textrm{Defn. of }\\Diamond\\\\ \\end{array}
 
 $\qed$
 

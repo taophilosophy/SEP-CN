@@ -123,7 +123,7 @@ The intuitive description is couched in terms of prior theories and passing theo
 
 Successful communication at the level of first meaning happens whenever *S*’s and *H*’s passing theories coincide, notwithstanding any disagreement in prior theories. Letting *S* be Mrs. Malaprop and *H* be Captain Absolute, their prior and passing theories assign meanings to “epitaph” as in the table below:
 
-|   | *S* | *H* |
+|   | ***S*** | ***H*** |
 | --- | --- | --- |
 | Meaning of “epitaph” in prior theory | *epithet* | *epitaph* |
 | Meaning of “epitaph” in passing theory | *epithet* | *epithet* |
@@ -210,7 +210,7 @@ Many of those engaged in this debate focus on cases such as the edges in Kaniza�
 
 ![[three solid black circles arranged in an equilateral triangle each with 60 degree sector cut out so that if edges of the sectors were lines and extended an equilateral triangle would be formed. Three pairs of lines also exist where if the lines were extended another equilateral triangle would exist.]](../assets/idiolects/Kanizsa_triangle.svg)
 
-*Figure 1.* Kanizsa’s Triange (from [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=1788215), by User:Fibonacci)
+\*Figure 1.\* Kanizsa’s Triange (from [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=1788215), by User:Fibonacci)
 
 ### 3.3 Second Response to the I-language Perspective: Psycholinguistics
 

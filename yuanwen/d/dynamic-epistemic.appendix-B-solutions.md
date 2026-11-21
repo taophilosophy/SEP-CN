@@ -48,7 +48,7 @@ We represent Albert’s and Bernard’s knowledge just after Cheryl asks “Can 
 
 $ M_{cb} $
 
-*Figure B1.* The Kripke model $M_{cb}$: the situation just after Cheryl asks “Can you figure it out now?” but before Albert and Bernard have their conversation. Red *a*-arrows represent Albert’s uncertainty, and blue *b*-arrows represent Bernard’s uncertainty. For simplicity, the picture omits reflexive arrows for each agent at each date (i.e., to complete the picture, we must add at each world both an *a*-arrow and a *b*-arrow pointing in a loop from the date in question back to itself).
+\*Figure B1.\* The Kripke model $M_{cb}$: the situation just after Cheryl asks “Can you figure it out now?” but before Albert and Bernard have their conversation. Red *a*-arrows represent Albert’s uncertainty, and blue *b*-arrows represent Bernard’s uncertainty. For simplicity, the picture omits reflexive arrows for each agent at each date (i.e., to complete the picture, we must add at each world both an *a*-arrow and a *b*-arrow pointing in a loop from the date in question back to itself).
 
 In this model, we have one possible world for each date. A red *a*-arrow pointing from date *D* to date $D'$ tells us the following: “If Cheryl’s birthday is in fact *D*, then Albert considers it possible that her birthday might be $D'$”. For example, there is a red *a*-arrow pointing from June 17 to June 18: assuming Cheryl’s birthday is in fact June 17, then Albert will consider it possible that her birthday is June 18 because he was told the month—here assumed to be June—so if the date is actually June 17, then he considers June 18 a possibility. Note that there should also be a red *a*-arrow from June 17 to itself; indeed, if the actual date is June 17, then Albert should consider both June 18 and June 17 to be possible. However, to simplify the picture, we have omitted such “reflexive” arrows (i.e., arrows pointing in a loop from one date back to that very same date). Properly speaking, these arrows should be added in order to complete the picture: every date should have a reflexive red *a*-arrow.
 
@@ -83,7 +83,7 @@ These are the dates we should eliminate. All other dates should remain: at these
 
 $M_{cb}[A_1]$
 
-*Figure B2.* The model $M_{cb}[A_1]$ obtained from $M_{cb}$ (Figure B1) after Albert’s first public announcement $A_1$. Eliminated worlds and arrows from the model $M_{cb}$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, as with Figure B1, reflexive arrows for each agent at each world have been omitted for simplicity.
+\*Figure B2.\* The model $M_{cb}[A_1]$ obtained from $M_{cb}$ (Figure B1) after Albert’s first public announcement $A_1$. Eliminated worlds and arrows from the model $M_{cb}$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, as with Figure B1, reflexive arrows for each agent at each world have been omitted for simplicity.
 
 Now let us consider the effect of Bernard’s first announcement, which we label as $B_1$:
 
@@ -97,7 +97,7 @@ How about the second part (“now I do [know Cheryl’s birthday]”)? For this,
 
 $M_{cb}[A_1][B_1]$
 
-*Figure B3.* The model $M_{cb}[A_1][B_1]$ obtained from $M_{cb}[A_1]$ (Figure B2) after Bernard’s first public announcement $B_1$. Eliminated worlds and arrows from the models $M_{cb}$ and $M_{cb}[A_1]$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, reflexive arrows for each agent at each world have been omitted for simplicity.
+\*Figure B3.\* The model $M_{cb}[A_1][B_1]$ obtained from $M_{cb}[A_1]$ (Figure B2) after Bernard’s first public announcement $B_1$. Eliminated worlds and arrows from the models $M_{cb}$ and $M_{cb}[A_1]$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, reflexive arrows for each agent at each world have been omitted for simplicity.
 
 Now let us look at the effect of Albert’s second announcement, which we label as $A_2$:
 
@@ -109,7 +109,7 @@ This public announcement has us eliminate from $M_{cb}[A_1][B_1]$ of Figure B3 a
 
 $M_{cb}[A_1][B_1][A_2]$
 
-*Figure B4.* The model $M_{cb}[A_1][B_1][A_2]$ obtained from $M_{cb}[A_1][B_1]$ (Figure B3) after Albert’s second public announcement $A_2$. Eliminated worlds and arrows from the models $M_{cb}$, $M_{cb}[A_1]$, and $M_{cb}[A_1][B_1]$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, reflexive arrows for each agent at each world have been omitted for simplicity.
+\*Figure B4.\* The model $M_{cb}[A_1][B_1][A_2]$ obtained from $M_{cb}[A_1][B_1]$ (Figure B3) after Albert’s second public announcement $A_2$. Eliminated worlds and arrows from the models $M_{cb}$, $M_{cb}[A_1]$, and $M_{cb}[A_1][B_1]$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, reflexive arrows for each agent at each world have been omitted for simplicity.
 
 So we obtain the solution: the only possible date that is consistent with the information provided in the problem statement is July 16.
 
@@ -125,7 +125,7 @@ A proper formalization would use a formal language that can capture the past-ten
 
 ##### 1.3.1 Syntactic Formalization
 
-Our set $\sA$ of agents will be “*a*” for Albert and “*b*” for Bernard: $$ \sA \coloneqq\{a,b\}. $$ The set $\sP$ of propositional letters of our language will be the dates: $$ \sP \coloneqq \left\{ \begin{array}{l} \text{May 15, May 16, May 19,}\\ \text{June 17, June 18,}\\ \text{July 14, July 16,}\\ \text{Aug. 14, Aug. 15, Aug. 17} \end{array} \right\}. $$ For convenience, we define the following subsets of $\sP$: $$ \begin{align*} \mathsf{May} & \coloneqq \{ \text{May 15, May 16, May 19} \}, \\ \mathsf{June} & \coloneqq \{ \text{June 17, June 18} \}, \\ \mathsf{July} & \coloneqq \{ \text{July 14, July 16} \}, \\ \mathsf{Aug} & \coloneqq \{ \text{Aug. 14, Aug. 15, Aug. 17} \}, \\ \mathsf{14} & \coloneqq \{ \text{July 14, Aug. 14} \}, \\ \mathsf{15} & \coloneqq \{ \text{May 15, Aug. 15} \}, \\ \mathsf{16} & \coloneqq \{ \text{May 16, July 16} \}, \\ \mathsf{17} & \coloneqq \{ \text{June 17, Aug. 17} \}, \\ \mathsf{18} & \coloneqq \{ \text{June 18} \}, \\ \mathsf{19} & \coloneqq \{ \text{May 19} \}. \end{align*} $$ We also define the following sets of subsets of $\sP$: $$\begin{align*} \mathsf{month} & \coloneqq \{ \mathsf{May}, \mathsf{June}, \mathsf{July}, \mathsf{Aug} \},\\ \mathsf{day} & \coloneqq \{\mathsf{14}, \mathsf{15}, \mathsf{16}, \mathsf{17}, \mathsf{18}, \mathsf{19} \}. \end{align*}$$ We use the sets $\sA$ and $\sP$ to define the language \eqref{PAL+C } of Public Announcement Logic with common knowledge defined in the main article: $$\begin{gather*}\taglabel{PAL+C } F \ccoloneqq p \mid F \wedge F \mid \neg F \mid [a]F \mid [F!]F \mid [B*]F \\ \small p \in \sP,\; a \in \sA,\; B\subseteq\sA \end{gather*}$$ The information Cheryl provides establishes the following assumptions:
+Our set $\sA$ of agents will be “*a*” for Albert and “*b*” for Bernard: $$ \sA \coloneqq\{a,b\}. $$ The set $\sP$ of propositional letters of our language will be the dates: $$ \sP \coloneqq \left\{ \begin{array}{l} \text{May 15, May 16, May 19,}\\ \text{June 17, June 18,}\\ \text{July 14, July 16,}\\ \text{Aug. 14, Aug. 15, Aug. 17} \end{array} \right\}. $$ For convenience, we define the following subsets of $\sP$: $$ \begin{align*} \mathsf{May} & \coloneqq \{ \text{May 15, May 16, May 19} \}, \\ \mathsf{June} & \coloneqq \{ \text{June 17, June 18} \}, \\ \mathsf{July} & \coloneqq \{ \text{July 14, July 16} \}, \\ \mathsf{Aug} & \coloneqq \{ \text{Aug. 14, Aug. 15, Aug. 17} \}, \\ \mathsf{14} & \coloneqq \{ \text{July 14, Aug. 14} \}, \\ \mathsf{15} & \coloneqq \{ \text{May 15, Aug. 15} \}, \\ \mathsf{16} & \coloneqq \{ \text{May 16, July 16} \}, \\ \mathsf{17} & \coloneqq \{ \text{June 17, Aug. 17} \}, \\ \mathsf{18} & \coloneqq \{ \text{June 18} \}, \\ \mathsf{19} & \coloneqq \{ \text{May 19} \}. \end{align*} $$ We also define the following sets of subsets of $\sP$: $$\begin{align*} \mathsf{month} & \coloneqq \{ \mathsf{May}, \mathsf{June}, \mathsf{July}, \mathsf{Aug} \},\\ \mathsf{day} & \coloneqq \{\mathsf{14}, \mathsf{15}, \mathsf{16}, \mathsf{17}, \mathsf{18}, \mathsf{19} \}. \end{align*}$$ We use the sets $\sA$ and $\sP$ to define the language \\eqref{PAL+C } of Public Announcement Logic with common knowledge defined in the main article: $$\begin{gather*}\taglabel{PAL+C } F \ccoloneqq p \mid F \wedge F \mid \neg F \mid [a]F \mid [F!]F \mid [B*]F \\ \small p \in \sP,\; a \in \sA,\; B\subseteq\sA \end{gather*}$$ The information Cheryl provides establishes the following assumptions:
 
 1. **It is common knowledge that Cheryl’s birthday is one of those in $\sP$.** We represent this using the formula $$ \mathsf{A}_1 \coloneqq [\sA*]\left(\bigwedge_{d\in\sP}\may{\sA{*}}d\right)\land\left([\sA*]{\textstyle\bigvee\sP}\right), $$ which says: it is common knowledge that for each of the dates *d* in the set $\sP$, the agents jointly entertain the possibility that Cheryl’s birthday might be *d*; further, it is common knowledge that Cheryl’s birthday must be one of those in $\sP$. This assumption ensures that Albert and Bernard do not exclude any of the dates from Cheryl’s initial list and that the only dates they consider are those on this list.
 2. **It is common knowledge that each of the dates in $\sP$ is different.** We represent this using the formula $$ \mathsf{A}_2 \coloneqq [\sA*]\bigwedge_{d\in\sP}\left(d\to\bigwedge_{d'\in\sP-\{d\}}\lnot d'\right), $$ which says: it is common knowledge that each date *d* in the set $\sP$ is different than any other date $d'$ in $\sP$. This “obvious” assumption is required so that Albert and Bernard do not mistakenly believe different dates can coincide.
@@ -148,11 +148,11 @@ $$\begin{equation*}\taglabel{CB} \mathsf{Setup} \to [\lnot\text{KB}_a\land[a]\ln
 
 This formula says: given the initial setup, after Albert and Bernard have their conversation, the only possible date is July 16.
 
-To complete the formalization, can the reader derive \eqref{CB} in $\PALC$?
+To complete the formalization, can the reader derive \\eqref{CB} in $\PALC$?
 
 ##### 1.3.2 Semantic Formalization
 
-The semantic formalization takes our picture-based solution and fills in the missing details so as to prove that the sequence of models we used to derive an answer indeed gives us the correct answer. The basic idea of this solution is the following: though we cannot use the language \eqref{PAL+C } to capture the exact models we use in our picture-based solution, we can capture these models *up to bisimulation*. (The reader is directed to Appendix G for the definition of bisimulation, the statement of the Bisimulation Theorem, and the notation that we define in each of these.)
+The semantic formalization takes our picture-based solution and fills in the missing details so as to prove that the sequence of models we used to derive an answer indeed gives us the correct answer. The basic idea of this solution is the following: though we cannot use the language \\eqref{PAL+C } to capture the exact models we use in our picture-based solution, we can capture these models *up to bisimulation*. (The reader is directed to Appendix G for the definition of bisimulation, the statement of the Bisimulation Theorem, and the notation that we define in each of these.)
 
 To begin, we define our sets $\sA$ of agents and $\sP$ of propositional letters just as we did for the syntactic solution. Likewise, we define the formulas $\mathsf{A}_1$ through $\mathsf{A}_4$, $\mathsf{Setup}$, $\text{KB}_a$, and $\text{KB}_b$ as we did before.
 
@@ -191,7 +191,7 @@ Choose an arbitrary $M\in\sC$ satisfying the property that $M,v\models\mathsf{Se
 
 $$ (M_{cb}[F_1]\cdots[F_n],w) \bisim (M[F_1]\cdots[F_n],v) \text{ for each }v\in g(w). $$
 
-For a Kripke model $M\in\sC$ and a date $d\in\sP$, we shall say that a sequence $F_1,\dots,F_n$ of (ML)-formulas yields date *d* in *M* to mean that the structure $M[F_1]\cdots[F_n]$ contains worlds (so this is a Kripke model) and each of these worlds satisfies a unique date $d\in\sP$. This leads us to the following result:
+For a Kripke model $M\in\sC$ and a date $d\in\sP$, we shall say that a sequence $F_1,\dots,F_n$ of (ML)-formulas *yields date d in M* to mean that the structure $M[F_1]\cdots[F_n]$ contains worlds (so this is a Kripke model) and each of these worlds satisfies a unique date $d\in\sP$. This leads us to the following result:
 
 **Agreement Theorem.** Suppose $M\in\sC$ satisfies $M,w\models\mathsf{Setup}$ for each world $w\in W^M$. The sequence $F_1,\dots,F_n$ of (ML)-formulas yields date *d* in $M_{mc}$ if and only if this same sequence yields date *d* in *M*.
 
@@ -209,7 +209,7 @@ We use the Agreement Theorem to obtain the following result:
 
 **Picture-based Solution Theorem.** Every legitimate picture-based solution to the Cheryl’s Birthday Problem produces the same answer.
 
-*Proof.* Our picture-based solution from above is legitimate: we have $M_{cb}\in\sC$, every world of $M_{cb}$ satisfies $\mathsf{Setup}$, and we produced our answer by showing that the sequence \eqref{CBS} yields July 16 in $M_{cb}$. Applying the Agreement Theorem, every other legitimate picture-based solution must also produce July 16 as its answer. ■
+*Proof.* Our picture-based solution from above is legitimate: we have $M_{cb}\in\sC$, every world of $M_{cb}$ satisfies $\mathsf{Setup}$, and we produced our answer by showing that the sequence \\eqref{CBS} yields July 16 in $M_{cb}$. Applying the Agreement Theorem, every other legitimate picture-based solution must also produce July 16 as its answer. ■
 
 This theorem tells us why our picture-based solution from above is correct: no legitimate picture-based solution can disagree with the answer we obtained.
 
@@ -227,7 +227,7 @@ Each of the three children has a forehead that is either dirty or clean. Using *
 
 $M_{mc}$
 
-*Figure B5.* Initial setup for the Muddy Children Puzzle. Red 1-arrows indicate the first child’s uncertainty, blue 2-arrows indicate the second child’s uncertainty, and green 3-arrows indicate the third child’s uncertainty. For simplicity, the picture omits reflexive arrows (i.e., to complete the picture, one must add for each child and each world an arrow for that child pointing in a loop from that world right back to that same world).
+\*Figure B5.\* Initial setup for the Muddy Children Puzzle. Red 1-arrows indicate the first child’s uncertainty, blue 2-arrows indicate the second child’s uncertainty, and green 3-arrows indicate the third child’s uncertainty. For simplicity, the picture omits reflexive arrows (i.e., to complete the picture, one must add for each child and each world an arrow for that child pointing in a loop from that world right back to that same world).
 
 In the model $M_{mc}$ of Figure B5, we see that each child knows the status of the other children’s forehead but not that of his own: at each world, the only worlds a child considers possible are those in which the status of the other children’s foreheads is the same but the status of his own forehead might be different. For example, at world $ddc$, the only possibilities the first child entertains are $ddc$ itself (via the non-drawn reflexive 1-arrow) and the world $cdc$. Since the status of the other children’s foreheads is the same at worlds $ddc$ and $cdc$ (i.e., 2’s forehead is dirty and 3’s is clean) but the status of the first child’s forehead is not the same (i.e., 1’s forehead is dirty in $ddc$ but clean in $cdc$), we can say the following: at world $ddc$, the first child knows whether the other children’s foreheads are dirty but does not know whether his own is dirty. We can show that this is so at every world and for every child. Therefore, $M_{mc}$ indeed models the initial situation of the Muddy Children Puzzle.
 
@@ -241,7 +241,7 @@ The effect of this public announcement is to eliminate all those worlds at which
 
 $M_{mc}[F]$
 
-*Figure B6.* The model $M_{mc}[F]$ obtained from $M_{mc}$ (Figure B5) by the public announcement of *F*. Worlds and arrows from $M_{mc}$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F]$. Also, the picture omits reflexive arrows for each agent at each world.
+\*Figure B6.\* The model $M_{mc}[F]$ obtained from $M_{mc}$ (Figure B5) by the public announcement of *F*. Worlds and arrows from $M_{mc}$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F]$. Also, the picture omits reflexive arrows for each agent at each world.
 
 Father then says, “If you know whether your forehead is dirty, then step forward now”. This is the first time he says this and no child steps forward. We take Father’s statement followed by no child stepping forward to be equivalent to the following public announcement, which we denote by *N*:
 
@@ -259,7 +259,7 @@ The result of the announcement of *N* is the model $M_{mc}[F][N]$ pictured in Fi
 
 $M_{mc}[F][N]$
 
-*Figure B7.* The model $M_{mc}[F][N]$ obtained from $M_{mc}[F]$ (Figure B6) after the public announcement of *N*. Worlds and arrows from $M_{mc}$ and $M_{mc}[F]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N]$. Also, the picture omits reflexive arrows for each agent at each world.
+\*Figure B7.\* The model $M_{mc}[F][N]$ obtained from $M_{mc}[F]$ (Figure B6) after the public announcement of *N*. Worlds and arrows from $M_{mc}$ and $M_{mc}[F]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N]$. Also, the picture omits reflexive arrows for each agent at each world.
 
 Father now makes his announcement for the second time (“If you know whether your forehead is dirty, then step forward now”). But this time some children step forward, thereby conveying that these children know whether their foreheads are dirty. We therefore interpret Father’s statement followed by the actions of the children as a single announcement of the negation $\lnot N$ of our statement *N* from before. That is, we take the net result to be equivalent to the following public announcement:
 
@@ -271,7 +271,7 @@ The effect of this announcement is to delete all those worlds at which the state
 
 $M_{mc}[F][N][\lnot N]$
 
-*Figure B8.* The model $M_{mc}[F][N][\lnot N]$ obtained from $M_{mc}[F][N]$ (Figure B7) after the public announcement of $\lnot N$. Worlds and arrows from $M_{mc}$, $M_{mc}[F]$, and $M_{mc}[F][N]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N][\lnot N]$. Also, the picture omits reflexive arrows for each agent at each world.
+\*Figure B8.\* The model $M_{mc}[F][N][\lnot N]$ obtained from $M_{mc}[F][N]$ (Figure B7) after the public announcement of $\lnot N$. Worlds and arrows from $M_{mc}$, $M_{mc}[F]$, and $M_{mc}[F][N]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N][\lnot N]$. Also, the picture omits reflexive arrows for each agent at each world.
 
 Father now makes his announcement for the third time (“If you know whether your forehead is dirty, then step forward now”). Now, we are told, the remaining children step forward. We again take this to be equivalent to the announcement of $\lnot N$ (“Some child knows whether his forehead is dirty”). As before, the effect of this announcement is to delete any worlds at which the announcement is false: these are the worlds at which no child knows whether his forehead is dirty, which are the worlds at which every child entertains a possibility at which his forehead is dirty and a possibility at which his forehead is clean. Examining Figure B8, we see that none of the worlds satisfy these requirements: at each world, each child only entertains that very world, and therefore each child knows whether his forehead is dirty. So the result of the second public announcement of $\lnot N$ is the model $M_{mc}[F][N][\lnot N][\lnot N]$ pictured in Figure B9.
 
@@ -279,7 +279,7 @@ Father now makes his announcement for the third time (“If you know whether you
 
 $M_{mc}[F][N][\lnot N][\lnot N]$
 
-*Figure B9.* The model $M_{mc}[F][N][\lnot N][\lnot N]$ obtained from $M_{mc}[F][N]$ (Figure B8) after the public announcement of $\lnot N$. Worlds and arrows from $M_{mc}$, $M_{mc}[F]$, and $M_{mc}[F][N]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N][\lnot N][\lnot N]$. Also, the picture omits reflexive arrows for each agent at each world.
+\*Figure B9.\* The model $M_{mc}[F][N][\lnot N][\lnot N]$ obtained from $M_{mc}[F][N]$ (Figure B8) after the public announcement of $\lnot N$. Worlds and arrows from $M_{mc}$, $M_{mc}[F]$, and $M_{mc}[F][N]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N][\lnot N][\lnot N]$. Also, the picture omits reflexive arrows for each agent at each world.
 
 Obviously, since the second announcement of $\lnot N$ did not delete any worlds, the models of Figures B8 and B9 are the same: $$ M_{mc}[F][N][\lnot N] = M_{mc}[F][N][\lnot N][\lnot N] . $$ Looking now to this model, we obtain the solution: two children are dirty and one is clean.
 
@@ -311,7 +311,7 @@ Referee must choose two different integers in range $[2,7]$. Since the order the
 
 $M_{s\ell}$
 
-*Figure B10.* The model $M_{s\ell}$ depicting the initial setup for the Sum and Least Common Multiple Puzzle. Each of the circles depicts a possible choice by Referee: the pair of numbers in parenthesis above the horizontal line are the numbers chosen by Referee; below the line, the number on the left in red is the sum of the chosen numbers and the number on the right in blue is the least common multiple of the chosen numbers. Red arrows labeled by *s* represent Mr. S’s uncertainties, and blue arrows labeled by $\ell$ represent Mr. L’s uncertainties. For simplicity, reflexive arrows have been omitted (i.e., to complete the picture, one should add for each agent at each world an arrow for that agent pointing in a loop from the world in question back to that same world).
+\*Figure B10.\* The model $M_{s\ell}$ depicting the initial setup for the Sum and Least Common Multiple Puzzle. Each of the circles depicts a possible choice by Referee: the pair of numbers in parenthesis above the horizontal line are the numbers chosen by Referee; below the line, the number on the left in red is the sum of the chosen numbers and the number on the right in blue is the least common multiple of the chosen numbers. Red arrows labeled by *s* represent Mr. S’s uncertainties, and blue arrows labeled by $\ell$ represent Mr. L’s uncertainties. For simplicity, reflexive arrows have been omitted (i.e., to complete the picture, one should add for each agent at each world an arrow for that agent pointing in a loop from the world in question back to that same world).
 
 In Figure B10, we see that Mr. S has uncertainty between worlds having the same sum and Mr. L has uncertainty between worlds having the same LCM. Mr. S then makes his first statement, which we denote by $S_1$:
 
@@ -340,7 +340,7 @@ The result is the model $M[S_1]$ pictured in Figure B11.
 
 $M_{s\ell}[S_1]$
 
-*Figure B11.* The model $M_{s\ell}[S_1]$ obtained from $M_{s\ell}$ (Figure B10) after the public announcement of $S_1$. The picture omits reflexive arrows for each agent at each world.
+\*Figure B11.\* The model $M_{s\ell}[S_1]$ obtained from $M_{s\ell}$ (Figure B10) after the public announcement of $S_1$. The picture omits reflexive arrows for each agent at each world.
 
 Note that in the model $M_{s\ell}[S_1]$, both agents know the numbers: each of the agents only considers one pair of numbers to be possible. From here we have Mr. L’s first announcement, which we label as *L*:
 

@@ -12,4 +12,4 @@
 
 The text is:
 
-Principia Mathematica to *56 by Alfred North Whitehead and Bertrand Russell, F.R.S. Cambridge at the University Press
+Principia Mathematica to \*56 by Alfred North Whitehead and Bertrand Russell, F.R.S. Cambridge at the University Press

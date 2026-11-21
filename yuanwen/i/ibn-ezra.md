@@ -215,7 +215,7 @@ The editors are grateful to Jasper Pirasteh for his help in correcting a number 
 
 [^note-3]: J. Klatzkin, Thesaurus *Philosophicus Linguae Hebraicae et Veteris et Recenterioris* (New York, 1968), part III, p. 187.
 
-[^note-4]: From Ibn Aqnin's commentary to *Pirqei Avot* 2.12, cited from a Budapest manuscript by Ignaz Goldziher, *ma‘ânî al-nafs*, *Buch vom Wesen der Seele* (Berlin: Weidmann, 1907), 14*. [Author's Note: The indication ‘14*’ has to do with the fact that the text under study is in Hebrew characters, which are written from right to left, but the German introduction is written from left to right. The book would be opened like a Hebrew book if you wanted to read the text, or like a German book if you wanted to read the analysis. Since both paginations began from 1, an asterisk indicates page numbers of the German part.]
+[^note-4]: From Ibn Aqnin's commentary to *Pirqei Avot* 2.12, cited from a Budapest manuscript by Ignaz Goldziher, *ma‘ânî al-nafs*, *Buch vom Wesen der Seele* (Berlin: Weidmann, 1907), 14\*. [Author's Note: The indication ‘14\*’ has to do with the fact that the text under study is in Hebrew characters, which are written from right to left, but the German introduction is written from left to right. The book would be opened like a Hebrew book if you wanted to read the text, or like a German book if you wanted to read the analysis. Since both paginations began from 1, an asterisk indicates page numbers of the German part.]
 
 [^note-5]: *Higgayon ha-Nefesh*, ed. E. Freimann (Leipzig: Vollrath, 1860), p. 1.
 

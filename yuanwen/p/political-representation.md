@@ -112,7 +112,7 @@ According to Dovi, the quality of a group’s representation depends on how the 
 
 ![two sets of three overlapping circles. The three circles of presence are labeled Vote, Voice, and Attendance. The three of absence are labeled Stoppage, Silence, and Vacancy.](../assets/political-representation/three-parts.svg)
 
-*Figure 1.* Three Fundamental Parts of Presence (left) and Absence (right)
+\*Figure 1.\* Three Fundamental Parts of Presence (left) and Absence (right)
 
 ## 3. Key Debates
 

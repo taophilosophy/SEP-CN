@@ -69,10 +69,10 @@ As noted, this sophism sentence is relatively uncomplicated and it is easy to sp
 
 There is still no certainty as to the identity of the Magister Abstractionum. Because of the colophon appended to the two complete manuscripts of the *Abstractiones*, we know, of course, that his name was “Richard”:
 
-> *Expliciunt ista, quae tu, Ricarde Sophista,
+> Expliciunt ista, quae tu, Ricarde Sophista,
 > fecesti, morum flos et doctor logicorum.
 > Dirige scribentis, Spiritus alme, manum.
-> Expliciunt Abstractiones*.
+> Expliciunt Abstractiones.
 > (Digby 24, f.90rb)
 >
 > (These [sophisms] are complete, which you, Richard the Sophister,
@@ -118,7 +118,7 @@ Burley [Burleigh], Walter | Ockham [Occam], William | Simon of Faversham | *soph
 
 [^note-5]: De Rijk 1986: 27.
 
-[^note-6]: William of Ockham, *Summa Logicae*, ed. Philotheus Boehner, Gideon Gál, and Stephen Brown (St. Bonaventure, N.Y. 1974), 367. Although this appears to be the only place where Ockham refers explicitly to the Magister Abstractionum, the editors point to other places where they believe he clearly has the Magister in mind (e.g., *Summa Logicae* III-1, c.16, 405; II, c. 4, 262). For references in Campsall, John of Reading and Adam Wodeham, see the Introduction to the *Summa Logicae*, 51*, n. 17.
+[^note-6]: William of Ockham, *Summa Logicae*, ed. Philotheus Boehner, Gideon Gál, and Stephen Brown (St. Bonaventure, N.Y. 1974), 367. Although this appears to be the only place where Ockham refers explicitly to the Magister Abstractionum, the editors point to other places where they believe he clearly has the Magister in mind (e.g., *Summa Logicae* III-1, c.16, 405; II, c. 4, 262). For references in Campsall, John of Reading and Adam Wodeham, see the Introduction to the *Summa Logicae*, 51\*, n. 17.
 
 [^note-7]: The setting up of “contexts (*casus*)” within which proponents and opponents were obliged to develop their respective arguments gave rise to a special genre of sophism literature called “*obligationes*”. We note the techniques of “*obligatio*” especially in the development of sophisms towards the end of the *Abstractiones*. For a discussion of the historical development of obligations, see Stump 1982 and Spade 1982.
 

@@ -418,7 +418,7 @@ It is not always good to contemplate beautiful works of art.
 The person who accepts this argument clearly does *not* wish that everyone should always desire to contemplate beautiful works of art. But she subscribes to premise (2) nonetheless. Thus the sentence “it is always good to contemplate beautiful works of art”, cannot generally be construed as an optative when it occurs in an embedded context (that is when it occurs as a sub-sentence within a larger, more complex sentence). This is already a very damaging objection to Russell’s theory of how “good” functions, since it shows that the theory is radically incomplete. Russell can only account for a very restricted class of cases, namely those in which sentences of the form “*X* is good” are used by themselves to make an assertion, not the numerous cases in which such sentences occur, unasserted, as components of larger sentences. (It is, so to speak, a theory of the semantic atoms that cannot account for their role within semantic molecules.) But there is worse to come. Suppose Russell added one or more epicycles to his theory to explain how “*X* is good” manages to be meaningful in unasserted contexts. The revised theory would have to distinguish between different uses of “good”, giving one account for asserted contexts and a different account (or set of accounts) for the unasserted contexts. Thus “*X* is good” would sometimes be a disguised optative and sometimes something else. (Never mind what—it does not really matter.) Now, consider the following argument schema:
 
 1. *X* is good.
-2. If *X* is good then *Q*.
+2. If ***X* is good** then *Q*.
 
 Therefore
 

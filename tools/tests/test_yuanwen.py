@@ -307,8 +307,16 @@ class TestAuditFixes20261113(unittest.TestCase):
         # <b> 旧无转换规则、被兜底剥标签丢加粗（abduction 书目 Peirce [CP] 条）
         self.assertEqual(inline_to_md('Peirce, C. S. [<b>CP</b>]'), 'Peirce, C. S. [**CP**]')
         self.assertEqual(inline_to_md('<b>P</b>(<em>H</em>)'), '**P**(*H*)')
-        # 星交错复杂内容维持既有降级路径（无星流奇偶错乱）
-        self.assertEqual(inline_to_md('<b><em>x</em>+1</b>'), '*x*+1')
+        # 2026-11-21 结构化重构：嵌套不再降级丢加粗——<b> 套 <em> 照发异类定界符
+        # （旧期望 '*x*+1' 是 [^<]* 失配后外 <b> 被兜底剥壳的丢失形态）
+        self.assertEqual(inline_to_md('<b><em>x</em>+1</b>'), '***x*+1**')
+        # 同类嵌套压平（保外层；内层标签归 B3.2 格式层池）
+        self.assertEqual(inline_to_md('<em>a<em>b</em>c</em>'), '*abc*')
+        self.assertEqual(inline_to_md('<strong>a<strong>b</strong>c</strong>'),
+                         '**abc**')
+        # 缺闭合开标签回删定界符、孤立闭标签忽略（不产破星）
+        self.assertEqual(inline_to_md('a<em>b'), 'ab')
+        self.assertEqual(inline_to_md('a</em>b'), 'ab')
 
     def test_blockquote_br_keeps_line_structure(self):
         # 引块内三行逻辑图式不得并行成单行（abduction §1.1 两处）

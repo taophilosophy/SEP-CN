@@ -251,7 +251,7 @@ The calculuses $\text{CL}_\triangleright$ and $\text{CL}_=$ of the previous sect
 
 ![figure 1](../assets/logic-combinatory/figure1.jpg)
 
-*Figure 1.* Illustration for the Church–Rosser theorem (I)
+\*Figure 1.\* Illustration for the Church–Rosser theorem (I)
 
 If we think that reduction is like computing the value of a function, then the Church–Rosser theorem—in a first approximation—can be thought to state that the final result of a series of calculations with a term is unique—independently of the order of the steps. This is a slight overstatement though, because uniqueness implies that each series of calculations ends (or “loops” on a term). That is, if there is a unique final term, then only finitely many distinct consecutive calculation steps are possible.
 
@@ -265,7 +265,7 @@ The Church–Rosser theorem is often stated as follows.
 
 ![figure 2](../assets/logic-combinatory/figure2.jpg)
 
-*Figure 2.* Illustration for the Church–Rosser theorem (II)
+\*Figure 2.\* Illustration for the Church–Rosser theorem (II)
 
 The second form of the Church–Rosser theorem differs from the first in its *assumption*. From the definition of equality as a superset of reduction, it is obvious that the first form of the theorem is implied by the second. However, despite the weaker assumption in the second formulation of the Church–Rosser theorem, the two theorems are *equivalent*. Equality is the transitive, symmetric closure of reduction, which means that if two terms are equal then there is a finite path comprising reduction and expansion steps (which decompose into one-step reductions and one-step expansions, respectively). Then by finitely many applications of the first Church–Rosser theorem (i.e., by induction on the length of the path connecting $N$ and $P$), the first Church–Rosser theorem implies the second formulation.
 
@@ -654,7 +654,7 @@ Alonzo Church proved the *undecidability of classical first-order logic* relying
 ## Other Internet Resources
 
 - TLCA (Typed Lambda Calculi and Applications) [open problem list](http://tlca.di.unito.it/opltlca)
-- Wolfram S combinator challenge (and $20,000 prize) [problem description](https://writings.stephenwolfram.com/2021/06/1920-2020-and-a-20000-prize-announcing-the-s-combinator-challenge/)
+- Wolfram S combinator challenge (and \$20,000 prize) [problem description](https://writings.stephenwolfram.com/2021/06/1920-2020-and-a-20000-prize-announcing-the-s-combinator-challenge/)
 - [Combinatory Logic page](http://softoption.us/content/node/45) at *Software and Tutorials for Instruction in Symbolic Logic* in New Zealand.
 - Roger B. Jones’s [*λ*-calculus website](http://www.rbjones.com/rbjpub/logic/cl/index.htm)
 - Chris Rathman’s [List of combinatory definitions](http://www.angelfire.com/tx4/cus/combinator/birds.html)
@@ -755,7 +755,7 @@ I am grateful to the referees of the first edition—both to the “internal ref
 
 [^hindley-1997]: Hindley, J. R., 1997. *Basic Simple Type Theory* (Cambridge Tracts in Theoretical Computer Science: Volume 42), Cambridge: Cambridge University Press.
 
-[^hindley-2008]: Hindley, J. R., and J. P. Seldin, 2008. **λ*-calculus and Combinators, an Introduction*, Cambridge: Cambridge University Press.
+[^hindley-2008]: Hindley, J. R., and J. P. Seldin, 2008. *λ-calculus and Combinators, an Introduction*, Cambridge: Cambridge University Press.
 
 [^kleene-1967]: Kleene, S. C., 1967. *Mathematical Logic*, New York: John Wiley & Sons, Inc; reprinted Mineola, NY: Dover, 2002.
 

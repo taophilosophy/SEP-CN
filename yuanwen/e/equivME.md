@@ -65,7 +65,7 @@ Henceforth, we will adopt the accepted convention, though it is admittedly not u
 | $E_o$ | The rest energy of a physical system or an amount of energy as measured in the rest frame of an object (typically energy that is emitted or absorbed by an object) |
 | $m$ | The mass (i.e., rest-mass) of a physical system |
 
-*Table 1.* Notation used in this entry
+\*Table 1.\* Notation used in this entry
 
 We will first focus on the mechanics of idealized point particles in special relativity. Regardless of the macroscopic objects they represent, we shall treat such particles, and by extension the corresponding physical objects, as un-analyzable wholes. We will then separately discuss “composite systems” or systems composed of such particles. Physicists use composite systems to approximate physical objects when they are interested in examining the “inner workings” of such objects, such as when they treat a gas as a collection of idealized particles.
 
@@ -145,7 +145,7 @@ The reasoning in these types of derivations can be displayed schematically like 
 >
 > - its mass increases or decreases by an amount $E_o /c^2$.
 
-Even at this general level, one can see the limitations of these approaches. For example, since the analysis is based on a particular physical interaction $\boldsymbol{I}$, one cannot immediately conclude that a body’s mass will change according to Einstein’s equation in a different type of physical interaction *I’*, for instance one in which electromagnetism plays no role.
+Even at this general level, one can see the limitations of these approaches. For example, since the analysis is based on a particular physical interaction $\boldsymbol{I}$, one cannot immediately conclude that a body’s mass will change according to Einstein’s equation in a different type of physical interaction ***I’***, for instance one in which electromagnetism plays no role.
 
 Reasoning along these lines, Ohanian (2009, 2012)[^ohanian-2009][^ohanian-2012] has argued that Einstein should not be credited with proving his famous equation. On the other hand, the physicist N. David Mermin (2011, 2012)[^mermin-2011][^mermin-2012] claims that Ohanian’s demands for what counts as a “proof” in physics are too stringent. Even though we are considering a very specific interaction $\boldsymbol{I}$, Mermin might say, we can understand that it is such a generic situation that we can confidently expect the result in all circumstances. Einstein himself believed that if $\boldsymbol{I}$ involved a physical process in which there was an interaction between an electromagnetic field (say in the form of light) and an ordinary physical object, then $\boldsymbol{I}$ was too specific to support the general conclusion that in *all* cases, a change in the rest energy of a body is accompanied by a change to its mass.
 
@@ -226,7 +226,7 @@ The only combination of answers to questions (1) and (2) that is inconsistent is
 | *Same Property* | X | Torretti (1996)[^torretti-1996], Eddington (1929)[^eddington-1929] |
 | *Different Properties* | Rindler (1977)[^rindler-1977] (conversion is *possible*) | Bondi & Spurgin (1987) |
 
-*Table 2.* Interpretations of mass-energy equivalence
+\*Table 2.\* Interpretations of mass-energy equivalence
 
 In this section, we will describe the merits and demerits of each of the interpretations in Table 2. Beyond these interpretations, we will also discuss two other types of interpretations of mass-energy equivalence that do not fit neatly in Table 2. First, we will discuss Lange’s (2001, 2002)[^lange-2001][^lange-2002] interpretation, which holds that only mass is a *real* property of physical systems and that *we* convert mass into energy when we shift the level at which we analyze physical systems. Second, we will discuss two interpretations (one by Einstein and Infeld, 1938 and the other by Zahar, 1989)[^einstein-1989][^einstein-1938][^zahar-1989], which we will call *ontological* interpretations, that attempt to answer question (3) above affirmatively. However, we begin this section by addressing what has formerly been a fairly common misconception concerning mass-energy equivalence.
 

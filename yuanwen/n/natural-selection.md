@@ -389,11 +389,11 @@ adaptationism | confirmation | fitness | genetic drift | genetics: population | 
 
 [^walsh-2004]: –––, 2004, “Bookkeeping or Metaphysics? The Units of Selection Debate”, *Synthese*, 138(3): 337–361. doi:10.1023/B:SYNT.0000016426.73707.92
 
-[^walsh-2007]: –––, 2007, “The Pomp of Superfluous Causes: The Interpretation of Evolutionary Theory*”, *Philosophy of Science*, 74(3): 281–303. doi:10.1086/520777
+[^walsh-2007]: –––, 2007, “The Pomp of Superfluous Causes: The Interpretation of Evolutionary Theory\*”, *Philosophy of Science*, 74(3): 281–303. doi:10.1086/520777
 
 [^walsh-2017]: Walsh, Denis M., André Ariew, and Mohan Matthen, 2017, “Four Pillars of Statisticalism”, *Philosophy, Theory, and Practice in Biology*, 9(1). doi:10.3998/ptb.6959004.0009.001 [[Walsh, Ariew, & Matthen 2017 available online](http://dx.doi.org/10.3998/ptb.6959004.0009.001)]
 
-[^walsh-2002]: Walsh, Denis, Tim Lewens, and André Ariew, 2002, “The Trials of Life: Natural Selection and Random Drift*”, *Philosophy of Science*, 69(3): 429–446. doi:10.1086/342454
+[^walsh-2002]: Walsh, Denis, Tim Lewens, and André Ariew, 2002, “The Trials of Life: Natural Selection and Random Drift\*”, *Philosophy of Science*, 69(3): 429–446. doi:10.1086/342454
 
 [^woodward-2003]: Woodward, James, 2003, *Making Things Happen: A Theory of Causal Explanation*, New York: Oxford University Press. doi:10.1093/0195155270.001.0001
 

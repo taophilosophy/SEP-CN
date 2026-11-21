@@ -577,7 +577,7 @@ We wish to thank Dirk Schlimm for contributing to how we characterized different
 
 [^de-nd-2]: De Toffoli, Silvia, Matthew Inglis, Yacin Hamami, and Juan Pablo Mejia-Ramos. forthcoming. “Introduction to: Mathematics Education Meets the Philosophy of Mathematical Practice.” *Journal for Mathematical Behaviour*.
 
-[^de-2025]: De Toffoli, Silvia, and Fenner Stanley Tanswell. 2025. “Trust in Mathematics.” *Philosophia Mathematica, *nkaf019, 1–25.
+[^de-2025]: De Toffoli, Silvia, and Fenner Stanley Tanswell. 2025. “Trust in Mathematics.” *Philosophia Mathematica,* nkaf019, 1–25.
 
 [^dehaene-1999]: Dehaene, Stanislas. 1999. “The Number Sense: How the Mind Creates Mathematics.” *British Journal of Educational Studies*, 47 (2): 201–203.
 
@@ -893,11 +893,11 @@ We wish to thank Dirk Schlimm for contributing to how we characterized different
 
 [^reutlinger-2018]: Reutlinger, Alexander, and Juha Saatsi. 2018. *Explanation beyond causation: Philosophical perspectives on non-causal explanations*. Oxford University Press.
 
-[^rittberg-2019]: Rittberg, Colin Jakob. 2019. “On the Contemporary Practice of Philosophy of Mathematics.” *Acta Baltica Historiae et Philosophiae Scientiarum, *7 (1): 5–26.
+[^rittberg-2019]: Rittberg, Colin Jakob. 2019. “On the Contemporary Practice of Philosophy of Mathematics.” *Acta Baltica Historiae et Philosophiae Scientiarum,* 7 (1): 5–26.
 
 [^rittberg-2020]: –––. 2020. “Mathematical Practices Can Be Metaphysically Laden.” In *Handbook of the History and Philosophy of Mathematical Practice*, edited by Bharath Sriraman, 1–26. Cham: Springer International Publishing.
 
-[^rittberg-2023]: –––. 2023. “Justified Epistemic Exclusions in Mathematics.” *Philosophia Mathematica, *31 (3): 330–359.
+[^rittberg-2023]: –––. 2023. “Justified Epistemic Exclusions in Mathematics.” *Philosophia Mathematica,* 31 (3): 330–359.
 
 [^rittberg-2020-2]: Rittberg, Colin Jakob, Fenner Stanley Tanswell, and Jean Paul Van Bendegem. 2020. “Epistemic injustice in mathematics.” *Synthese*, 197 (9): 3875–3904.
 

@@ -311,9 +311,9 @@ Let us, for instance, consider the two types of consistent stable sets that exte
 
 The second option seems more intuitive since given only $\neg \mathsf{B} \mathit{brother} \supset \neg \mathit{brother}$ the belief in $\mathit{brother}$ seems intuitively speaking ungrounded in the context of $\Xi_1$. To make this formally precise, Moore defines
 
-- *Γ* is *grounded in a set of assumptions *Ξ** if for each $\psi \in \Gamma$, $\Xi \cup \{ \mathsf{B}\phi \mid \phi \in \Gamma\} \cup \{\neg \mathsf{B}\phi \mid \phi \notin \Gamma\} \vDash \psi$.
+- *Γ* is *grounded in a set of assumptions Ξ* if for each $\psi \in \Gamma$, $\Xi \cup \{ \mathsf{B}\phi \mid \phi \in \Gamma\} \cup \{\neg \mathsf{B}\phi \mid \phi \notin \Gamma\} \vDash \psi$.
 
-Stable theories that are grounded in a set of assumptions *Ξ* are called *stable expansions of *Ξ** or *autoepistemic extensions of *Ξ**. Stable expansions *Γ* of *Ξ* can equivalently be characterized as fixed points:
+Stable theories that are grounded in a set of assumptions *Ξ* are called *stable expansions of Ξ* or *autoepistemic extensions of Ξ*. Stable expansions *Γ* of *Ξ* can equivalently be characterized as fixed points:
 
 > $\Gamma = \mathrm{Cn}\bigl( \Xi \cup \{ \mathsf{B}\phi \mid \phi \in \Gamma\} \cup \{\neg \mathsf{B} \phi \mid \phi \notin \Gamma\}\bigr)$
 
@@ -451,7 +451,7 @@ In Lehmann and Magidor (1992) a *Rational Closure* for conditional knowledge bas
 
 In our example *Quaker $\wedge$ worker* has rank 0, just like *Quaker*. This is strictly less than rank 1 of *Quaker $\wedge$ ¬Pacifist* and *Quaker $\wedge$ worker $\wedge$ ¬Pacifist*. This means that the desired *Quaker* $\wedge$ *worker* $\nc$ *Pacifist* is in the Rational Closure of our $\mathbf{K}$.
 
-A system equivalent to Rational Closure has been independently proposed under the name system **Z** based on *ε*-semantics in Pearl (1990)[^pearl-1990]. A weaker version of Rational Closure has been proposed in Booth and Varzinczak (2021): it invalidates Rational Monotony, but validates Disjunctive Rationality.
+A system equivalent to Rational Closure has been independently proposed under the name *system **Z*** based on *ε*-semantics in Pearl (1990)[^pearl-1990]. A weaker version of Rational Closure has been proposed in Booth and Varzinczak (2021): it invalidates Rational Monotony, but validates Disjunctive Rationality.
 
 One may consider it a drawback of Rational Closure that it suffers from the Drowning Problem (see above). To see this, consider the following conditional knowledge base **KL**:
 
@@ -541,7 +541,7 @@ Not all cases of retraction are of this straightforward kind. Various *adaptive 
 
 The formula $\forall x P(x) \vee \forall x Q(x)$ is derived at line 4 and 5 on two respective conditions: $\{\exists x P(x) \wedge \neg \forall x P(x)\}$ and $\{\exists x Q(x) \wedge \neg \forall x Q(x)\}$. Neither $\exists x P(x) \wedge \neg \forall x P(x)$ nor $\exists x Q(x) \wedge \neg \forall x Q(x)$ is derivable on the condition ∅. However, both are part of the (minimal) disjunction of abnormalities derived at line 6. According to one strategy, the *minimal abnormality strategy*, the premises are interpreted in such a way that as many abnormalities as possible are considered to be false, which leaves us with two interpretations: one in which $\exists x P(x) \wedge \neg \forall x P(x)$ holds while $\exists x Q(x) \wedge \neg \forall x Q(x)$ is false, and another one in which $\exists x Q(x) \wedge \neg \forall x Q(x)$ holds while $\exists x P(x) \wedge \neg \forall x P(x)$ is false. In both interpretations either the assumption of line 4 or the assumption of line 5 holds which means that in either interpretation the defeasible inference to $\forall x P(x) \vee \forall x Q(x)$ goes through. Thus, according to the minimal abnormality strategy neither line 4 nor line 5 is marked (we omit the technical details). Another strategy, the *reliability strategy*, is more cautious. According to it any line that involves an abnormality in its condition that is part of a minimal disjunction of abnormalities derived on the condition ∅ is marked. This means that in our example, lines 4 and 5 are marked.
 
-Lines may get marked at specific stages of a proof just to get unmarked at later stages and vice versa. This mirrors the internal dynamics of defeasible reasoning. In order to define a consequence relation, a stable notion of derivability is needed. A formula derived at an unmarked line *l* in an adaptive proof from a premise set *Γ* is considered a *consequence of *Γ** if any extension of the proof in which *l* is marked is further extendable so that the line is unmarked again.
+Lines may get marked at specific stages of a proof just to get unmarked at later stages and vice versa. This mirrors the internal dynamics of defeasible reasoning. In order to define a consequence relation, a stable notion of derivability is needed. A formula derived at an unmarked line *l* in an adaptive proof from a premise set *Γ* is considered a *consequence of Γ* if any extension of the proof in which *l* is marked is further extendable so that the line is unmarked again.
 
 Such a consequence relation can equivalently be expressed semantically in terms of preferential semantics (see Section Selection semantics). Given an LLL-model $M$ we can identify its *abnormal part* $Ab(M) = \{\mathsf{ab} \in \Omega \mid M \models \mathsf{ab}\}$ to be the set of all abnormalities that hold in $M$. The selection semantics for minimal abnormality can be phrased as follows. We order the LLL-models by $M \prec M'$ if and only if $Ab(M) \subset Ab(M')$. Then we define that *φ* is a semantic consequence of *Γ* if and only if for all $\prec$-minimal LLL-models $M$ of *Γ*, $M\models \phi$. (We omit selection semantics for other strategies.)
 

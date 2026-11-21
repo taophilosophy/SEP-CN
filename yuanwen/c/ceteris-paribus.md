@@ -401,11 +401,11 @@ Largely independently of Schurz’s and Spohn’s specific approaches but in agr
 
 ### 8.1. Normic laws and evolution
 
-Schurz (2001b; 2002, §5) analyses cp-laws in non-physical sciences as *normic* laws of the form “$A$s are normally $B$s”. Here are some examples (4* and 6* are the normic reconstructions of 4 and 6 above):
+Schurz (2001b; 2002, §5) analyses cp-laws in non-physical sciences as *normic* laws of the form “$A$s are normally $B$s”. Here are some examples (4\* and 6\* are the normic reconstructions of 4 and 6 above):
 
-> (4*) Birds normally can fly.
+> (4\*) Birds normally can fly.
 
-> (6*) People’s actions are normally goal-oriented
+> (6\*) People’s actions are normally goal-oriented
 
 > (15) Governments normally try to keep the economy of their country intact.
 

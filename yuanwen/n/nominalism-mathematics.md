@@ -420,11 +420,11 @@ Perhaps the deflationary nominalist will respond by arguing that the existence p
 
 Presumably, in all of these cases the existence predicate is used. As a result, the sentences could be formalized as follows:
 
-> (S) ∀*x*(*S**x* → ¬*E**x*), where ‘*S*’ is (for simplicity) the predicate ‘set of all sets’, and ‘*E*’ is the existence predicate.
+> (S) ∀*x*(*Sx* → ¬*Ex*), where ‘*S*’ is (for simplicity) the predicate ‘set of all sets’, and ‘*E*’ is the existence predicate.
 >
-> (P) ∀*x*(*P**x* → ¬*E**x*), where ‘*P*’ is (for simplicity) the predicate ‘perfectly frictionless plane’, and ‘*E*’ is the existence predicate.
+> (P) ∀*x*(*Px* → ¬*Ex*), where ‘*P*’ is (for simplicity) the predicate ‘perfectly frictionless plane’, and ‘*E*’ is the existence predicate.
 >
-> (M) ∃*x*(*M**x* ∧ *E**x*) ∧ ∀*x*((*M**x* ∧ *T**x*) → ¬*E**x*), where ‘*M*’ is the predicate ‘mice’, ‘*T*’ is the predicate ‘to talk’, and ‘*E*’ is the existence predicate.
+> (M) ∃*x*(*Mx* ∧ *Ex*) ∧ ∀*x*((*Mx* ∧ *Tx*) → ¬*Ex*), where ‘*M*’ is the predicate ‘mice’, ‘*T*’ is the predicate ‘to talk’, and ‘*E*’ is the existence predicate.
 
 In all of these cases, the formalization requires some change in the logical form of the natural language sentences in order to introduce the existence predicate. And that is arguably a cost for the view. After all, in these cases, mathematical, scientific and ordinary languages do not seem to be taken literally—a topic to which I turn now.
 

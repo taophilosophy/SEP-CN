@@ -299,7 +299,7 @@ analogy: medieval theories of | Anselm of Canterbury [Anselm of Bec] | Aquinas, 
 
 [^pasnau-2002]: Pasnau, Robert, 2002. “Cognition,” in Williams 2002, 285–311.
 
-[^pini-2002]: Pini, Giorgio, 2002. Categories and Logic in Duns Scotus: An Interpretation of Aristotle’s Categories in the Late Thirteenth Century, Köln: Brill.
+[^pini-2002]: Pini, Giorgio, 2002. *Categories and Logic in Duns Scotus: An Interpretation of Aristotle’s Categories in the Late Thirteenth Century*, Köln: Brill.
 
 [^pini-2023]: –––, 2023. *Interpreting Duns Scotus: Critical Essays*. Cambridge: Cambridge University Press.
 

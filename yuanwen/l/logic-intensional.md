@@ -149,7 +149,7 @@ To distinguish the models described here from those in Section 3.2.2, these will
 
 A *first-order valuation* in *FOIL* model $\cM$ is a mapping that assigns to each object variable a member of $\bD_{O}$, as before, and to each intension variable a member of $\bD_{i}$. If $f$ is an intension variable, we’ll write $v(f, \Gamma )$ for $v(f)(\Gamma )$. Now, the definition of truth, at a state *Γ* of a model $\cM$, with respect to a valuation $v$, meets the conditions set forth in Section 3.2.2 and, in addition, the following:
 
-$$\begin{align} \cM, \Gamma \vDash_{v} \forall fX \Leftrightarrow &\cM, \Gamma \vDash_{w} X, \mbox{for every $f$-variant $w$ of $v$} \\ \cM, \Gamma \vDash_{v} \exists fX \Leftrightarrow &\cM, \Gamma \vDash_{w} X, \mbox{for some $f$-variant $w$ of $v$} \\ \tag{1}\label{cond1} \cM, \Gamma \vDash_{v} [\lambda x\,X](f) \Leftrightarrow &\cM, \Gamma \vDash_{w} X, \\ &\text{where } w \text{ is like } v \text{ except that } w(x) = v(f, \Gamma). \end{align}$$
+$$\begin{align} \cM, \Gamma \vDash_{v} \forall fX \Leftrightarrow &\cM, \Gamma \vDash_{w} X, \mbox{for every  0 -variant  1  of  2 } \\ \cM, \Gamma \vDash_{v} \exists fX \Leftrightarrow &\cM, \Gamma \vDash_{w} X, \mbox{for some  3 -variant  4  of  5 } \\ \tag{1}\label{cond1} \cM, \Gamma \vDash_{v} [\lambda x\,X](f) \Leftrightarrow &\cM, \Gamma \vDash_{w} X, \\ &\text{where } w \text{ is like } v \text{ except that } w(x) = v(f, \Gamma). \end{align}$$
 
 Let us agree to abbreviate $[\lambda x\,[\lambda y\,X](g)](f)$ by $[\lambda xy\,X](f, g)$, when convenient. Suppose $f$ is intended to be the intension of “the morning star,” and $g$ is intended to be the intension of “the evening star.” Presumably $f$ and $g$ are distinct intensions. Even so, $[\lambda xy\,x = y]$(*f, g*) is correct in the real world—both $f$ and $g$ do designate the same object.
 
@@ -173,19 +173,19 @@ $$\tag{4}\label{eq4} [\lambda x\,\Box [\lambda y\,x = y](f)](f) \supset ([\lambd
 
 which directly says local rigidity implies the *de re* /*de dicto* distinction vanishes.
 
-Suppose \eqref{eq2} were not valid. Then there would be a model $\cM = \langle \bG, \bR, \bD_{O}, \bD_{i}, \bI\rangle$, a state *Γ* of it, and a valuation $v$ in it, such that
+Suppose \\eqref{eq2} were not valid. Then there would be a model $\cM = \langle \bG, \bR, \bD_{O}, \bD_{i}, \bI\rangle$, a state *Γ* of it, and a valuation $v$ in it, such that
 
 $$\tag{5}\label{eq5} \cM, \Gamma \vDash_{v} [\lambda x\,\Box [\lambda y\,x = y](f)](f) $$ $$\tag{6}\label{eq6} \cM, \Gamma \vDash_{v} [\lambda x\,\Diamond X](f) $$ $$\tag{7}\label{eq7} \text{not } \cM, \Gamma \vDash_{v} \Diamond [\lambda x\,X](f) $$
 
-From \eqref{eq6} we have the following, where $w$ is the $x$-variant of $v$ such that $w(x) = v (f, \Gamma )$.
+From \\eqref{eq6} we have the following, where $w$ is the $x$-variant of $v$ such that $w(x) = v (f, \Gamma )$.
 
 $$\tag{8}\label{eq8} \cM, \Gamma \vDash_{w} \Diamond X $$
 
-By \eqref{eq8} there is some $\Delta \in \bG$ with $\Gamma \bR \Delta$ such that we have the following.
+By \\eqref{eq8} there is some $\Delta \in \bG$ with $\Gamma \bR \Delta$ such that we have the following.
 
 $$\tag{9}\label{eq9} \cM, \Delta \vDash_{w} X $$
 
-Then, as a consequence of \eqref{eq7}
+Then, as a consequence of \\eqref{eq7}
 
 $$\tag{10}\label{eq10} \text{not } \cM, \Delta \vDash_{v} [\lambda x\,X](f) $$
 
@@ -193,7 +193,7 @@ and hence we have the following, where $w'$ is the $x$-variant of $v$ such that 
 
 $$\tag{11}\label{eq11} \text{not } \cM, \Delta \vDash_{w'} X $$
 
-Now from \eqref{eq5}, since $w(x) = v(f, \Gamma)$, we have
+Now from \\eqref{eq5}, since $w(x) = v(f, \Gamma)$, we have
 
 $$\tag{12}\label{12} \cM, \Gamma \vDash_{w} \Box [\lambda y\,x=y](f) $$
 
@@ -207,9 +207,9 @@ $$\tag{14}\label{eq14} \cM, \Delta \vDash_{w''} x=y $$
 
 where $w''$ is the $y$-variant of $w$ such that $w''(y) = w(f, \Delta )$.
 
-We claim that valuations $w$ and $w'$ are the same, which means that \eqref{eq9} and \eqref{eq11} are contradictory. Since both are $x$-variants of $v$, it is enough to show that $w(x) = w'(x)$, that is, $v(f, \Gamma ) = v(f, \Delta )$, which is intuitively what local rigidity says. Proceeding formally, $v(f, \Gamma ) = w(x) = w''(x)$ since $w''$ is a $y$-variant of $w$ and so they agree on $x$. We also have $v(f, \Delta ) = w''(y)$. And finally, $w''(x) = w''(y)$ by \eqref{eq14}.
+We claim that valuations $w$ and $w'$ are the same, which means that \\eqref{eq9} and \\eqref{eq11} are contradictory. Since both are $x$-variants of $v$, it is enough to show that $w(x) = w'(x)$, that is, $v(f, \Gamma ) = v(f, \Delta )$, which is intuitively what local rigidity says. Proceeding formally, $v(f, \Gamma ) = w(x) = w''(x)$ since $w''$ is a $y$-variant of $w$ and so they agree on $x$. We also have $v(f, \Delta ) = w''(y)$. And finally, $w''(x) = w''(y)$ by \\eqref{eq14}.
 
-Having reached a contradiction, we conclude that \eqref{eq2} must be valid.
+Having reached a contradiction, we conclude that \\eqref{eq2} must be valid.
 
 #### 3.4.2 Possible Extra Requirements
 
@@ -225,7 +225,7 @@ The formula $\forall f\exists xD(f, x)$ is valid in *FOIL* models as described s
 
 $$\tag{16}\label{eq16} \forall x\exists fD(f, x) $$
 
-If we require \eqref{eq16}, quantification over objects is reducible to intensional quantification:
+If we require \\eqref{eq16}, quantification over objects is reducible to intensional quantification:
 
 $$ \tag{17}\label{eq17} \forall x\Phi \equiv \forall f[\lambda x\,\Phi ](f). $$
 
@@ -243,14 +243,14 @@ $$ \Box \exists x\Phi \supset \exists f\Box [\lambda x\,\Phi ](f). $$
 
 The language stays the same, but intension variables are now interpreted by *partial* functions on the set of states—functions whose domains may be proper subsets of the set of states. Thus $\cM = \langle \bG, \bR, \bD_{O}, \bD_{i}, \bI\rangle$ is a *partial* *FOIL* model if it is as in Section 3.4 except that members of $\bD_{i}$ are partial functions from $\bG$ to $\bD_{O}$. Given a partial *FOIL* model $\cM$ and a valuation $v$ in it, an intension variable $f$ *designates* at state *Γ* of this model with respect to $v$ if *Γ* is in the domain of $v(f)$.
 
-Following the idea that nothing can be said about the present King of France, we break condition \eqref{cond1} from Section 3.4 into two parts. Given a partial *FOIL* model $\cM$ and a valuation $v$ in it:
+Following the idea that nothing can be said about the present King of France, we break condition \\eqref{cond1} from Section 3.4 into two parts. Given a partial *FOIL* model $\cM$ and a valuation $v$ in it:
 
 1. If $f$ does not designate at *Γ* with respect to $v$, it is not the case that $\cM, \Gamma \vDash_{v} [\lambda x\,X](f)$
 2. If $f$ designates at *Γ* with respect to $v$, $\cM, \Gamma \vDash_{v} [\lambda x\,X](f) \Leftrightarrow \cM, \Gamma \vDash_{w} X$ where $w$ is like $v$ except that $w(x) = v(f, \Gamma )$
 
 Thus designating terms behave as they did before, but nothing can be truly asserted about non-designating terms.
 
-Recall, we introduced a formula \eqref{eq15} abbreviated by $D(f,x)$ to say $f$ designates $x$. Using that, we introduce a further abbreviation.
+Recall, we introduced a formula \\eqref{eq15} abbreviated by $D(f,x)$ to say $f$ designates $x$. Using that, we introduce a further abbreviation.
 
 $$\tag{18}\label{eq18} D(f) \text{ abbreviates } \exists xD(f, x) $$
 
@@ -357,7 +357,7 @@ Above we spoke of a first-order language appropriate for a structure $\langle\bD
 
 $$\tag{22}\label{whereformula} \phi_0 \textsf{ where } \{ P_1(\bx_1) \simeq \phi_1, \ldots, P_k(\bx_k) \simeq \phi_k\}$$
 
-In this each $\bx_i$ is a sequence of variables whose length is the arity of $P_i$. The $P_i$ may appear in the formulas $\phi_0$, …, $\phi_k$ themselves, and so we have a self-referential set of defining equations, with $\phi_0$ as ‘output’. Note that with \eqref{whereformula} added to the definition of formula, $\textsf{ where }$ conditions can appear in some of the $\phi_i$, and so means of preventing inappropriate interaction between nested conditions is needed. This is done through the familiar machinery of free and bound variables. The symbols $P_1$, …, $P_k$ are taken to be relation *variables*, and are considered to be bound in \eqref{whereformula}. Likewise the occurrences of individual variables in $\bx_i$ are understood to be bound in $P_i(\bx_i) \simeq \phi_i$. In effect, these are local variables.
+In this each $\bx_i$ is a sequence of variables whose length is the arity of $P_i$. The $P_i$ may appear in the formulas $\phi_0$, …, $\phi_k$ themselves, and so we have a self-referential set of defining equations, with $\phi_0$ as ‘output’. Note that with \\eqref{whereformula} added to the definition of formula, $\textsf{ where }$ conditions can appear in some of the $\phi_i$, and so means of preventing inappropriate interaction between nested conditions is needed. This is done through the familiar machinery of free and bound variables. The symbols $P_1$, …, $P_k$ are taken to be relation *variables*, and are considered to be bound in \\eqref{whereformula}. Likewise the occurrences of individual variables in $\bx_i$ are understood to be bound in $P_i(\bx_i) \simeq \phi_i$. In effect, these are local variables.
 
 Now the language LPCR has been defined, and we turn to notions of sense and reference.
 
@@ -377,7 +377,7 @@ $$\tag{23}\label{Eexample} \phi_0 \textsf{ where } \{ P_1(\bx_1) \simeq \phi_1, 
 
 We make two simplifying assumptions to keep our discussion from being too intricate. We assume no $\phi_i$ contains a nested $\textsf{ where }$ clause. The basic ideas are amply illustrated with this condition imposed, but everything extends to the general case without too much difficulty. It is a general requirement that the variables in $\bx_i$ are ‘local’ to $P_i(\bx_i) \simeq \phi_i$, that is, they are considered to be bound in this formula. To this we add another simplifying assumption: the variables in $\bx_i$ are the *only* variables that may occur free in $\phi_i$. Roughly this means that we have no parameters, only local variables. This serves to allow us to discuss things with less clutter. Again, everything extends to the more general case with no fundamental changes.
 
-Continuing with \eqref{Eexample}, consider the following associated set $E$ of equations.
+Continuing with \\eqref{Eexample}, consider the following associated set $E$ of equations.
 
 $$\tag{24}\label{equationsE} \begin{align} P_1(\bx_1) &\simeq \phi_1\\ P_2(\bx_2) &\simeq \phi_2\\ &\vdots\\ P_k(\bx_k) &\simeq \phi_k \end{align}$$
 
@@ -387,41 +387,41 @@ Suppose we have a $k$-tuple $\langle\bP_1, \ldots, \bP_k\rangle$ of partial rela
 
 If we are to have equations $E$ behave well in a logic setting, each $P_i$ should have the same valuation no matter where we see it—there should be no distinction between what we have been calling left and right sides; $\bP_i$ and $\bP'_i$ should be the same. In other words, we would like to have partial relations $\bP_1$, …, $\bP_k$ to interpret $P_1$, …, $P_k$ so that $[E](\langle\bP_1, \ldots, \bP_k\rangle) = \langle\bP_1, \ldots, \bP_k\rangle$—‘before’ and ‘after’ values agree. This is called a *fixed point* of $[E]$. So, we need to know that $[E]$ has a fixed point, and if it has more than one then there is a plausible candidate we can choose as the best one.
 
-If $f$ and $g$ are two partial functions from a space $S$ to $R$, one writes $f\subseteq g$ to mean that whenever $f(x)\simeq w$ then also $g(x)\simeq w$. Then for two partial relations $\bP$ and $\bQ$ of the same arity, $\bP\subseteq\bQ$ means that whenever $\bP(\bd)$ is defined, so is $\bQ(\bd)$, and both have the same truth value. We can extend this to $k$-tuples by setting $\langle\bP_1, \ldots, \bP_k\rangle\subseteq\langle\bQ_1, \ldots, \bQ_k\rangle$ if $\bP_i\subseteq\bQ_i$ for each $i$. It is not terribly difficult to show that the functional $[E]$ defined above, and based on \eqref{Eexample}, has the *monotonicity* property: if $\langle\bP_1, \ldots, \bP_k\rangle\subseteq\langle\bQ_1, \ldots, \bQ_k\rangle$ then $[E](\langle\bP_1, \ldots, \bP_k\rangle)\subseteq[E](\langle\bQ_1, \ldots, \bQ_k\rangle)$. There is a very general theory of monotone mappings like this, from which it follows that $[E]$ does have a fixed point. Moreover, if there are more than one then there is a unique one that is least, in the sense that it is in the $\subseteq$ relation to any other. This least fixed point is precisely the best candidate we mentioned above. It contains the information that any fixed point must have.
+If $f$ and $g$ are two partial functions from a space $S$ to $R$, one writes $f\subseteq g$ to mean that whenever $f(x)\simeq w$ then also $g(x)\simeq w$. Then for two partial relations $\bP$ and $\bQ$ of the same arity, $\bP\subseteq\bQ$ means that whenever $\bP(\bd)$ is defined, so is $\bQ(\bd)$, and both have the same truth value. We can extend this to $k$-tuples by setting $\langle\bP_1, \ldots, \bP_k\rangle\subseteq\langle\bQ_1, \ldots, \bQ_k\rangle$ if $\bP_i\subseteq\bQ_i$ for each $i$. It is not terribly difficult to show that the functional $[E]$ defined above, and based on \\eqref{Eexample}, has the *monotonicity* property: if $\langle\bP_1, \ldots, \bP_k\rangle\subseteq\langle\bQ_1, \ldots, \bQ_k\rangle$ then $[E](\langle\bP_1, \ldots, \bP_k\rangle)\subseteq[E](\langle\bQ_1, \ldots, \bQ_k\rangle)$. There is a very general theory of monotone mappings like this, from which it follows that $[E]$ does have a fixed point. Moreover, if there are more than one then there is a unique one that is least, in the sense that it is in the $\subseteq$ relation to any other. This least fixed point is precisely the best candidate we mentioned above. It contains the information that any fixed point must have.
 
-Now we finish saying how to evaluate the formula \eqref{Eexample}. First, construct the associated set of equations, $E$. Next, construct the functional $[E]$. There is a least fixed point for $[E]$, let us say it is $\langle\bF_1, \ldots, \bF_k\rangle$. Finally, evaluate $\phi_0$ using $\bF_i$ to interpret $P_i$ for each $i$. The resulting truth value, or undefined, is the value (denotation) associated with \eqref{Eexample}.
+Now we finish saying how to evaluate the formula \\eqref{Eexample}. First, construct the associated set of equations, $E$. Next, construct the functional $[E]$. There is a least fixed point for $[E]$, let us say it is $\langle\bF_1, \ldots, \bF_k\rangle$. Finally, evaluate $\phi_0$ using $\bF_i$ to interpret $P_i$ for each $i$. The resulting truth value, or undefined, is the value (denotation) associated with \\eqref{Eexample}.
 
 We have now said how to associate a truth value, or undefined, with every formula of LPCR (under our simplifying assumptions). We have (partial) denotations.
 
 ### 4.4 Sense
 
-Each formula of LPCR specifies an algorithm for its evaluation, that is, for the determination of its truth value (if possible). Moschovakis identifies the *sense* of a formula with that algorithm. Two formulas that evaluate to the same result, thus having the same denotation, may have different senses because the associated algorithms are different. For example, in \eqref{evenone} we gave a formula that defines the even numbers. Here is another such formula.
+Each formula of LPCR specifies an algorithm for its evaluation, that is, for the determination of its truth value (if possible). Moschovakis identifies the *sense* of a formula with that algorithm. Two formulas that evaluate to the same result, thus having the same denotation, may have different senses because the associated algorithms are different. For example, in \\eqref{evenone} we gave a formula that defines the even numbers. Here is another such formula.
 
 $$\tag{25}\label{eventwo} \even(x) \equiv E(x) \textsf{ where } \{ E(x) \simeq x=0 \lor (\exists y)(S(y,x)\land \lnot E(y))\}$$
 
-We leave it to you to verify that \eqref{eventwo} also defines the even numbers. It is intuitively plausible that \eqref{evenone} and \eqref{eventwo} evaluate using algorithms that differ, and so have different senses. But of course this must be made precise. What is needed is a uniform method of comparison between algorithms. Here we just briefly sketch the ideas.
+We leave it to you to verify that \\eqref{eventwo} also defines the even numbers. It is intuitively plausible that \\eqref{evenone} and \\eqref{eventwo} evaluate using algorithms that differ, and so have different senses. But of course this must be made precise. What is needed is a uniform method of comparison between algorithms. Here we just briefly sketch the ideas.
 
 There is very general machinery, from Moschovakis 1989, called the Formal Language of Recursion, FLR. Using it a thorough exploration of recursive definitions and fixpoints is possible. The language that concerns us here, LPCR, embeds into FLR, even allowing nested clauses and parameters, something we ignored in our discussion of denotation. In FLR there is a method for converting recursive definitions into a normal form, which cannot be further reduced. That normal form has a very simple structure, consisting of a set of self-referential equations with no nesting present at all. Normal forms reveal essential evaluation structure most clearly. When working with a single structure, $\langle\bD, \bR_1, \ldots, \bR_n\rangle$, all normal forms will be built from a common set of functionals. This makes it easy to compare normal forms. The idea is that if two formulas of LPCR, when embedded into FLR, have differing normal forms, the two formulas have different senses. Of course this must be taken with some reasonable flexibility. For instance, two sets of equations that differ only by renaming variables or switching order of equations do not differ in any fundamental way. With this understood, if two LPCR formulas, when embedded into FLR, have truly distinct normal forms, the two LPCR formulas are defined to have different senses. This meets all the informal conditions one wants a notion of sense to have. Moschovakis even proves the important theorem that equality of sense, as just defined, is decidable under natural conditions.
 
 ### 4.5 Algorithms Need Not Be Effective
 
-The word “algorithm” suggests something effective, but here it is being used in a more general sense, as a set of instructions that, for reasons of our finitistic limitations, we may not be able to actually carry out. Consider again the paradigm formula, \eqref{whereformula}. If one of the $\phi_i$ contains an existential quantifier in a positive position (or a universal quantifier in a negative position) it can be thought of as invoking a systematic search through the domain $\bD$ for a verifying witness. This is plausible for reasonable domains. But if $\phi_i$ should contain a universal quantifier in a positive position or an existential quantifier in a negative position, something must be verified for every member of the domain and unless the domain is finite, this is not a human task. Nonetheless, we generally believe we understand quantification. What we are dealing with is algorithms relative to that understanding.
+The word “algorithm” suggests something effective, but here it is being used in a more general sense, as a set of instructions that, for reasons of our finitistic limitations, we may not be able to actually carry out. Consider again the paradigm formula, \\eqref{whereformula}. If one of the $\phi_i$ contains an existential quantifier in a positive position (or a universal quantifier in a negative position) it can be thought of as invoking a systematic search through the domain $\bD$ for a verifying witness. This is plausible for reasonable domains. But if $\phi_i$ should contain a universal quantifier in a positive position or an existential quantifier in a negative position, something must be verified for every member of the domain and unless the domain is finite, this is not a human task. Nonetheless, we generally believe we understand quantification. What we are dealing with is algorithms relative to that understanding.
 
 The problem with quantifiers is inescapable for much that we routinely discuss using sense and reference. Consider Russell’s treatment of definite descriptions. In this “the $A$ has property $B$” is replaced by “exactly one thing has property $A$ and it has property $B$”. To say that only one thing has property $A$ one says that something has property $A$ and everything else does not. The first part of this involves an existential quantifier and the second part a universal one. Then if the definite description occurs in a positive location we have a positive occurrence of a universal quantifier, and if it occurs in a negative location we have a negative occurrence of an existential quantifier. Essential problems arise either way. Moschovakis is not claiming to turn sense and reference into something computable, but simply to provide mathematical machinery that can plausibly formalize the ideas involved using a generalized notion of algorithm.
 
-There is a second, related problem where lack of effectiveness comes in. In our discussion of denotation we considered a set $E$ of equations \eqref{equationsE} and a functional $[E]$ associated with them. Recall that $[E]$ mapped $k$-tuples of partial relations to $k$-tuples of partial relations. We noted that $[E]$ would be *monotone*, and by very general results such functionals always have least fixed points. There is more than one way of showing this. One well-known argument has a decidedly algorithmic flavor to it. It goes as follows. Start with the smallest $k$-tuple of partial relations—this is the one where every partial relation is always undefined. Call this $T_0$. Apply the functional $[E]$ to $T_0$, getting $T_1$. Apply the functional $[E]$ to $T_1$ getting $T_2$, and so on. It is easy to show that $T_0\subseteq T_1\subseteq T_2\subseteq\ldots$. We have that $T_0\subseteq T_1$ because $T_0$ is in the $\subseteq$ relation to every $k$-tuple. By monotonicity we then have $[E](T_0)\subseteq [E](T_1)$, but this says $T_1 \subseteq T_2$. And so on. Continue with this increasing sequence and eventually the least fixed point of $[E]$ will be reached.
+There is a second, related problem where lack of effectiveness comes in. In our discussion of denotation we considered a set $E$ of equations \\eqref{equationsE} and a functional $[E]$ associated with them. Recall that $[E]$ mapped $k$-tuples of partial relations to $k$-tuples of partial relations. We noted that $[E]$ would be *monotone*, and by very general results such functionals always have least fixed points. There is more than one way of showing this. One well-known argument has a decidedly algorithmic flavor to it. It goes as follows. Start with the smallest $k$-tuple of partial relations—this is the one where every partial relation is always undefined. Call this $T_0$. Apply the functional $[E]$ to $T_0$, getting $T_1$. Apply the functional $[E]$ to $T_1$ getting $T_2$, and so on. It is easy to show that $T_0\subseteq T_1\subseteq T_2\subseteq\ldots$. We have that $T_0\subseteq T_1$ because $T_0$ is in the $\subseteq$ relation to every $k$-tuple. By monotonicity we then have $[E](T_0)\subseteq [E](T_1)$, but this says $T_1 \subseteq T_2$. And so on. Continue with this increasing sequence and eventually the least fixed point of $[E]$ will be reached.
 
-But this is very misleading. What does “continue” mean? We have $T_0$, $T_1$, $T_2$, …. None of these may be a fixed point. For instance, suppose we carry out this construction with the functional arising from \eqref{evenone} for $\even(x)$. Then $T_0$ will be $\langle E_0, O_0\rangle$, where both $E_0$ and $O_0$ are the everywhere undefined 1-place relation. We leave it to you to check that we get successive $T_i=\langle E_i, O_i\rangle$ where we have the following, with cases not displayed being undefined.
+But this is very misleading. What does “continue” mean? We have $T_0$, $T_1$, $T_2$, …. None of these may be a fixed point. For instance, suppose we carry out this construction with the functional arising from \\eqref{evenone} for $\even(x)$. Then $T_0$ will be $\langle E_0, O_0\rangle$, where both $E_0$ and $O_0$ are the everywhere undefined 1-place relation. We leave it to you to check that we get successive $T_i=\langle E_i, O_i\rangle$ where we have the following, with cases not displayed being undefined.
 
 $$\begin{array}{c|c|c} i & E_i & O_i\\ \hline 1 & E_1(0) = {\textsf{t}}& O_1(0) = {\textsf{f}}\\ 2 & E_2(0) = {\textsf{t}}& O_2(0) = {\textsf{f}}\\ & E_2(1) = {\textsf{f}}& O_2(1) = {\textsf{t}}\\ 3 & E_3(0) = {\textsf{t}}& O_3(0) = {\textsf{f}}\\ & E_3(1) = {\textsf{f}}& O_3(1) = {\textsf{t}}\\ & E_3(2) = {\textsf{t}}& O_3(2) = {\textsf{f}}\\ \vdots & \vdots & \vdots \end{array}$$
 
 None of $T_0$, $T_1$, $T_2$, …is a fixed point, but there is a clear notion of a limit, called $T_\omega$, that accumulates the results produced along the way. It is the least fixed point in this example.
 
-But iterating and taking a limit may not be sufficient. Consider the following elaboration of \eqref{evenone}.
+But iterating and taking a limit may not be sufficient. Consider the following elaboration of \\eqref{evenone}.
 
 $$\tag{26}\label{evenmore} \begin{array}{rl} \phi(x) \equiv A(x) \textsf{ where } \{& E(x) \simeq x=0 \lor (\exists y)(S(y,x)\land O(y)),\\ &O(x) \simeq (\exists y)(S(y,x) \land E(x)),\\ &A(x) \simeq x=1 \land ((\forall y)(E(y)\lor O(y))\} \end{array}$$
 
-The set of equations arising from \eqref{evenmore} has the two members of \eqref{evenone}, and one more for $A$. Using these equations, in order to conclude $A(1)$ we must already have one of $E(y)$ or $O(y)$ evaluating to ${\textsf{t}}$ for every number $y$. If we carry out the construction outlined above, we won’t have this for $E$ and $O$ until stage *ω*, and so we must go one more step, to what is called $T_{\omega+1}$, before we reach a fixed point.
+The set of equations arising from \\eqref{evenmore} has the two members of \\eqref{evenone}, and one more for $A$. Using these equations, in order to conclude $A(1)$ we must already have one of $E(y)$ or $O(y)$ evaluating to ${\textsf{t}}$ for every number $y$. If we carry out the construction outlined above, we won’t have this for $E$ and $O$ until stage *ω*, and so we must go one more step, to what is called $T_{\omega+1}$, before we reach a fixed point.
 
 More and more extreme examples can be given. The fixed point construction may have to be continued to larger and larger transfinite ordinals. This is a well-known phenomenon, especially in areas like the Theory of Truth. It cannot be avoided. Incidentally, it should be noted that the machinery introduced by Kripke in his treatment of truth has a natural embedding into LPCR, but we do not discuss this here.
 

@@ -130,7 +130,7 @@ Leonhard Euler, an 18th century mathematician, adopted closed curves to illustra
 
 ![Four cases: the first labeled ‘All A are B’ has an inner circle labeled ‘A’ completely inside an outer circle labeled ‘B’; the second labeled ‘No A is B’ has two non-overlapping circles, one labeled ‘A’ and the other ‘B’; the third labeled ‘Some A is B’ has two overlapping circles, the overlap is labeled ‘A’ and the non-overlap bit of one circle is labeled ‘B’; the fourth case labeled ‘Some A is not B’ has two overlapping circles, the non-overlap bit of one is labeled ‘A’ and the non-overlap bit of the other is labeled ‘B’](../assets/diagrams/fig-1.png)
 
-*Figure 1:* Euler Diagrams
+\*Figure 1:\* Euler Diagrams
 
 For the two universal statements, the system adopts spatial relations among circles in an intuitive way: If the circle labelled ‘$A$’ is *included* in the circle labelled ‘$B$,’ then the diagram represents the information that all $A$ is $B$. If there is *no overlapping* part between two circles, then the diagram conveys the information that no $A$ is $B$.
 
@@ -162,7 +162,7 @@ No single diagram can represent the two premises, since the relationship between
 
 Euler claims that the proposition ‘Some $C$ is not $B$’ can be read off from all these diagrams. However, it is far from being visually clear how the first two cases lead a user to reading off this proposition, since a user might read off “No $C$ is $B$” from case 1 and “All $B$ is $C$” from case 2.
 
-Hence, the representation of existential statements not only obscures the visual clarity of Euler Circles but also raises serious interpretational problems for the system. Euler himself seemed to recognize this potential problem and introduced a new syntactic device, ‘*’ (representing non-emptiness) as an attempt to repair this flaw (1768: Letter 105).
+Hence, the representation of existential statements not only obscures the visual clarity of Euler Circles but also raises serious interpretational problems for the system. Euler himself seemed to recognize this potential problem and introduced a new syntactic device, ‘\*’ (representing non-emptiness) as an attempt to repair this flaw (1768: Letter 105).
 
 However, a more serious drawback is found when this system fails to represent certain compatible (that is, consistent) pieces of information in a single diagram. For example, Euler’s system prevents us from drawing a single diagram representing the following pairs of statements: (i) “All $A$ are $B$” and “No $A$ is $B$” (which are consistent if $A$ is an empty set). (ii) “All $A$ are $B$” and “All $B$ are $A$” (which are consistent when $A = B)$. (iii) “Some $A$ is $B$” and “All $A$ are $B$”. (Suppose we drew an Euler diagram for the former proposition and try to add a new compatible piece of information, i.e., the latter, to this existing diagram.) This shortcoming is closely related to Venn’s motivation for his own diagrammatic system (see Section 4.1 for other shortcomings of Euler’s system).
 
@@ -178,7 +178,7 @@ Venn’s new system (1881) was to overcome these expressive limitations so that 
 
 ![two overlapping circles, the first labeled ‘A’ and the second labeled ‘B’](../assets/diagrams/fig-2.png)
 
-*Figure 2:* Venn’s Primary diagrams
+\*Figure 2:\* Venn’s Primary diagrams
 
 According to Venn’s system, this diagram does not convey any specific information about the relation between these two sets. This is the major difference between Euler and Venn diagrams.
 
@@ -186,7 +186,7 @@ For the representation of universal statements, unlike the visually clear spatia
 
 ![Two Venn diagrams. The first is titled ‘All A are B’ and consists of two overlapping circles labeled ‘A’ and ‘B’, the section of A that does not overlap with B is shaded. The second is titled ‘No A is B’ and also consists of two overlapping circles labeled ‘A’ and ‘B’, the overlap of the two circles is shaded.](../assets/diagrams/fig-3a.png)
 
-*Figure 3:* Venn’s shading
+\*Figure 3:\* Venn’s shading
 
 Venn’s choice of shading might not be absolutely arbitrary in that a shading could be interpreted as a visualization of set emptiness. However, it should be noted that a shading is a new syntactic device which Euler did not use. This revision gave flexibility to the system so that certain compatible pieces of information may be represented in a single diagram. In the following, the diagram on the left combines two pieces of information, “All $A$ are $B$” and “No $A$ is $B$,” to visually convey the information “Nothing is $A$.” The diagram on the right, which represents both “All $A$ are $B$” and “All $B$ are $A$,” clearly shows that $A$ is the same as $B$:
 
@@ -202,7 +202,7 @@ For example, Figure 4 represents the statement, ‘All $A$ are $B$ or some $A$ i
 
 ![Two overlapping circles labeled ‘A’ and ‘B’; inside the overlap is a label ‘x’ and inside of the non-overlapping bit of circle A is a label ‘o’; a line connects ‘x’ to ‘o’](../assets/diagrams/fig-4a.png)
 
-*Figure 4:* A Peirce diagram
+\*Figure 4:\* A Peirce diagram
 
 The reason that Peirce replaced Venn’s shading for emptiness with the symbol ‘o’ seems to be obvious: It would not be easy to connect shadings or shadings and ‘x’s in order to represent disjunctive information. In this way, Peirce increased the expressive power of the system, but this change was not without its costs.
 
@@ -335,7 +335,7 @@ The range of distinct co-exact configurations stipulated by the **FG** notion of
 | --- | --- |
 | ![Example of Eu diagram](../assets/diagrams/fig-5c.png) | ![Example of Eu diagram](../assets/diagrams/fig-5d.png) |
 
-*Figure 5:* Two equivalent FG diagrams and two equivalent Eu diagrams
+\*Figure 5:\* Two equivalent FG diagrams and two equivalent Eu diagrams
 
 **Taks 2: prescribing a diagrammatic method of geometric proof.** Situating the formally defined diagrams like those of **FG** and **Eu** in a formal geometric proof system requires two things. The first is a technique for expressing a configuration’s exact information in conjunction with the co-exact information expressed by a diagram. The second is a method for distinguishing general co-exact features from non-general ones in diagrammatic representations of constructions.
 
@@ -361,13 +361,13 @@ For example, to derive I, 16 in **Eu**, we first produce the **Eu** diagram
 
 ![Eu for I, 16](../assets/diagrams/fig-7a.png)
 
-*Figure 7a*
+\*Figure 7a\*
 
 via its construction rules. We then apply positional rules repeatedly to obtain the sub-diagram
 
 ![Eu for I, 16](../assets/diagrams/fig-7b.png)
 
-*Figure 7b*
+\*Figure 7b\*
 
 and then apply a rule for deriving inequalities from diagrams to obtain ACF $\lt$ ACD.[^note-6]
 

@@ -52,7 +52,7 @@ We now provide a counter-model to show that $\OB$-U, $\OB (\OB p \rightarrow p)$
 
 ![](../assets/logic-deontic/fig-graph-b.svg)
 
-*Fig. D.1* [An extended description of figure D.1.]
+\*Fig. D.1\* [An extended description of figure D.1.]
 
 Here, seriality holds, since each of the three worlds has at least one world acceptable to it (in fact, exactly one), but *secondary* seriality fails, since although $j$ is acceptable to $i, j$ is not acceptable to itself. Now look at the top annotations regarding the assignment of truth or falsity to $p$ at $j$ and $k$. The lower deontic formulae derive from this assignment and the accessibility relations. (The value of $p$ at $i$ won’t matter.) Since $p$ holds at $k$, which exhausts the worlds acceptable to $j, \OB p$ must hold at $j$, but then, since $p$ itself is false at $j$, $(\OB p \rightarrow p)$ must be false at $j$. But $j$ is acceptable to $i$, so not all $i$-acceptable worlds are ones where $(\OB p \rightarrow p)$ holds, so $\OB (\OB p \rightarrow p)$ must be false at $i$.[^note-102] We have already proven that seriality, which holds in this model, automatically validates NC. It is easy to show that the remaining ingredients of SDL hold here as well.[^note-103]
 
@@ -60,7 +60,7 @@ We proved above that $(\OB \OB p \rightarrow \OB p)$ is derivable from $\OB$-U. 
 
 ![](../assets/logic-deontic/fig-graph-c.svg)
 
-*Fig. D.2* [An extended description of figure D.2.]
+\*Fig. D.2\* [An extended description of figure D.2.]
 
 It is left to the reader to verify that given the accessibility relations and indicated assignments to $p$ at $j$ and $k, \OB \OB p \rightarrow \OB p$ must be (vacuously) true at $i$, while $\OB (\OB p \rightarrow p)$ must be false at $i$.
 
@@ -74,7 +74,7 @@ This expresses a widely endorsed analysis of refraining (or “forbearing”).[^
 
 $$*: \neg \BA p \rightarrow \RF p.$$
 
-No agent brings about logical truths, but neither does an agent bring it about (by anything she does do) that she doesn’t bring about such logical truths. It has nothing to do with what she does. That * can’t hold is easily proven given any consistent system with $\BA$-RE and $\BA$-NO. So refraining from $p$ is not equivalent to merely not bringing about $p$. Whether or not it is of great importance in deontic logic itself is a more controversial matter. It would hinge on matters like whether or not there is a difference between being obligated to not bring it about that $p$ and being obligated to bring it about that you don’t bring it about that $p$.
+No agent brings about logical truths, but neither does an agent bring it about (by anything she does do) that she doesn’t bring about such logical truths. It has nothing to do with what she does. That \* can’t hold is easily proven given any consistent system with $\BA$-RE and $\BA$-NO. So refraining from $p$ is not equivalent to merely not bringing about $p$. Whether or not it is of great importance in deontic logic itself is a more controversial matter. It would hinge on matters like whether or not there is a difference between being obligated to not bring it about that $p$ and being obligated to bring it about that you don’t bring it about that $p$.
 
 An alternative account sometimes given of refraining is that of inaction coupled with ability: to refrain from bringing it about that $p$ is to be *able* to bring it about that $p$ and to not bring it about that $p$. (See von Wright 1963, on “forbearance”.) This might be expressed as follows:
 
@@ -120,11 +120,11 @@ Consider:[^note-110]
 
 **(1)**
 
-I’m obligated to pay you back $10 tonight.
+I’m obligated to pay you back \$10 tonight.
 
 **(2)**
 
-I can’t pay you back $10 tonight (e.g., I just gambled away my last dime).
+I can’t pay you back \$10 tonight (e.g., I just gambled away my last dime).
 
 Since this puzzle typically involves some notion of possibility, let us represent the above sentences in KT*d*, which includes SDL, but also has a possibility operator:
 

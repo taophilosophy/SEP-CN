@@ -51,13 +51,13 @@ The fact that correlation between donor and recipient is the key to the evolutio
 
 The question we are interested in is: which type will be favoured by selection? To make the analysis tractable, we make two simplifying assumptions: that reproduction is asexual, and that type is perfectly inherited, i.e., selfish (altruistic) organisms give rise to selfish (altruistic) offspring. Modulo these assumptions, the evolutionary dynamics can be determined very easily, simply by seeing whether the *S* or the *A* type has higher fitness, in the overall population. The fitness of the *S* type, *W*(*S*), is the weighted average of the payoff to an *S* when partnered with an *S* and the payoff to an *S* when partnered with an *A*, where the weights are determined by the probability of having the partner in question. Therefore,
 
-> *W*(*S*) = 5 * Prob(*S* partner/*S*) + 20 * Prob(*A* partner/*S*)
+> *W*(*S*) = 5 \* Prob(*S* partner/*S*) + 20 \* Prob(*A* partner/*S*)
 
 (The conditional probabilities in the above expression should be read as the probability of having a selfish (altruistic) partner, given that one is selfish oneself.)
 
 Similarly, the fitness of the *A* type is:
 
-> *W*(*A*) = 0 * Prob(*S* partner/*A*) + 11 * Prob(*A* partner/*A*)
+> *W*(*A*) = 0 \* Prob(*S* partner/*A*) + 11 \* Prob(*A* partner/*A*)
 
 From these expressions for the fitnesses of the two types of organism, we can immediately deduce that the altruistic type will only be favoured by selection if there is a statistical correlation between partners, i.e., if altruists have greater than random chance of being paired with other altruists, and similarly for selfish types. For suppose there is no such correlation—as would be the case if the pairs were formed by random sampling from the population. Then, the probability of having a selfish partner would be the same for both *S* and *A* types, i.e., P(*S* partner/*S*) = P(*S* partner/*A*). Similarly, P(*A* partner/*S*) = P(*A* partner/*A*). From these probabilistic equalities, it follows immediately that *W*(*S*) is greater than *W*(*A*), as can be seen from the expressions for *W*(*S*) and *W*(*A*) above; so the selfish type will be favoured by natural selection, and will increase in frequency every generation until all the altruists are eliminated from the population. Therefore, in the absence of correlation between partners, selfishness must win out (cf. Skyrms 1996)[^skyrms-1996]. This confirms the point noted in section 2—that altruism can only evolve if there is a statistical tendency for the beneficiaries of altruistic actions to be altruists themselves.
 
@@ -95,9 +95,9 @@ The payoff matrix highlights the fact that weak altruism is individually advanta
 
 In the context of evolutionary game theory, where the game is being played by pairs of organisms with hard-wired strategies, the counterpart of the fact that *W* dominates *N* is the fact that *W* can spread in the population even if pairs are formed at random (cf. Wilson 1980)[^wilson-1980]. To see this, consider the expressions for the overall population-wide fitnesses of *W* and *N*:
 
-> *W*(*W*) = 30 * Prob(*W* partner/*W*) + 10 * Prob(*N* partner/*W*)
+> *W*(*W*) = 30 \* Prob(*W* partner/*W*) + 10 \* Prob(*N* partner/*W*)
 >
-> *W*(*N*) = 20 * Prob(*W* partner/*N*) + 0 * Prob(*N* partner/*N*)
+> *W*(*N*) = 20 \* Prob(*W* partner/*N*) + 0 \* Prob(*N* partner/*N*)
 
 (As before, Prob(*W* partner/*W*) denotes the conditional probability of having a weakly altruistic partner given that one is weakly altruistic oneself, and so-on.) From these expressions, it is easy to see that *W*(*W*) > *W*(*N*) even if the there is no correlation among partners, i.e., even if Prob(*W* partner/*W*) = P(*W* partner/*N*) and P(*N* partner/*W*) = P(*N* partner/*N*). Therefore, weak altruism can evolve in the absence of donor-recipient correlation; as we saw, this is not true of strong altruism. So weak and strong altruism evolve by different evolutionary mechanisms, hence should not be co-classified, according to this argument.
 

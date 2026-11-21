@@ -361,31 +361,31 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 
 [^vinel-2014]: Vinel, Nicolas (ed.), 2014, *Jamblique, In Nicomachi arithmeticam* (Mathematica graeca antiqua 3), Pisa and Rome: F. Serra.
 
-[^ammonius-nd]: Ammonius
+[^ammonius-nd]: **Ammonius**
 
 [^wallies-1899]: Wallies, Maximilian (ed.), 1899, *Ammonii in Aristotelis Analyticorum Priorum Librum I Commentarium* (Commentaria in Aristotelem Graeca IV.6), Berlin: Reimer.
 
-[^anonymous-nd]: Anonymous (Chaldean Oracles)
+[^anonymous-nd]: **Anonymous (Chaldean Oracles)**
 
 [^majercik-1989]: Majercik, Ruth (ed.), 1989, *The Chaldean Oracles*. Text, Translation and Commentary (Studies in Greek and Roman Religion 5), Leiden: Brill.
 
-[^anonymous-nd-2]: Anonymous (Prolegomena to Platonic Philosophy)
+[^anonymous-nd-2]: **Anonymous (Prolegomena to Platonic Philosophy)**
 
 [^westerink-1990]: Westerink, Leendert, Jean Trouillard, and Alain-Philippe Segonds (eds.), 1990, *Prolégomènes à la philosophie de Platon* (Collection des Universités de France. Série grecque 335), Paris: Les Belles Lettres.
 
-[^anonymous-nd-3]: Anonymous (Letters to Iamblichus from an anonymous Syrian sophist)
+[^anonymous-nd-3]: **Anonymous (Letters to Iamblichus from an anonymous Syrian sophist)**
 
 [^wright-1923]: Wright, Wilmer C. (ed.), 1923, *The Works of the Emperor Julian*, vol. 3 (Loeb Classical Library 157), Cambridge MA: Harvard University Press, pp. 236–283.
 
-[^aristotle-nd]: Aristotle
+[^aristotle-nd]: **Aristotle**
 
 [^ross-1924]: Ross, William D. (ed.), 1924, *Aristotle’s Metaphysics*. A revised text with introduction and commentary, Oxford: Clarendon Press.
 
-[^boethius-nd]: Boethius
+[^boethius-nd]: **Boethius**
 
 [^migne-1860]: Migne, Jacques Paul (ed.), 1860, *Manlii Severini Boethii opera omnia* (Patrologia Latina 64), Paris: Garnier.
 
-[^damascius-nd]: Damascius
+[^damascius-nd]: **Damascius**
 
 [^athanassiadi-1999]: Athanassiadi, Polymnia (ed.), 1999, *Damascius. The Philosophical History*, Athens: Apamea Cultural Association.
 
@@ -397,17 +397,17 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 
 [^zintzen-1967]: Zintzen, Clemens (ed.), 1967, *Damascii Vitae Isidori Reliquiae* (Bibliotheca Graeca et Latina Suppletoria I), Hildesheim: Olms.
 
-[^dexippus-nd]: Dexippus
+[^dexippus-nd]: **Dexippus**
 
 [^busse-1888]: Busse, Adolf (ed.), 1888, *Dexippi In Aristotelis Categorias commentarium* (Commentaria in Aristotelem Graeca IV.2), Berlin: Reimer.
 
 [^dillon-1991]: Dillon, John (trans.), 1991, *Dexippus: On Aristotle’s Categories* (Ancient Commentators on Aristotle), London: Duckworth.
 
-[^elias-nd]: Elias/David
+[^elias-nd]: **Elias/David**
 
 [^busse-nd]: Busse, Adolf (ed.), Eliae (olim Davidis), *In Aristotelis Categorias Commentarium* (Commentaria in Aristotelem Graeca XVIII.1), Berlin: Reimer.
 
-[^eunapius-nd]: Eunapius of Sardis
+[^eunapius-nd]: **Eunapius of Sardis**
 
 [^goulet-2014]: Goulet, Richard (ed.), 2014, *Eunape de Sardes: Vies de philosophes et de sophistes*, 2 vols. (Collection des Universités de France. Série grecque 508), Paris: Les Belles Lettres.
 
@@ -415,49 +415,51 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 
 [^lives-nd]: *Βίοι Φιλοσόϕων καὶ Σοϕιστων* (*Lives of Philosophers and Sophists*), [available online](http://www.tertullian.org/fathers/eunapius_02_text.htm#IAMBLICHUS)
 
-[^hierocles-nd]: Hierocles
+[^hierocles-nd]: **Hierocles**
 
 [^de-nd]: *De Providentia*, known through Photius, cod. 214 and 251
 
 [^schibli-2002]: Schibli, Hermann Sadun (ed.), 2002, *Hierocles of Alexandria*, Oxford: Oxford University Press.
 
-[^julian-nd]: Julian (Emperor)
+[^julian-nd]: **Julian (Emperor)**
 
 [^wright-1923-2]: Wright, Wilmer C. (ed.), 1923, *The Works of the Emperor Julian*, vol. 3 (Loeb Classical Library 157), Cambridge MA: Harvard University Press, pp. 236–283.
 
 [^nesselrath-2015]: Nesselrath, Heinz-Günther (ed.), 2015, *Iuliani Augusti Opera*, Berlin: De Gruyter.
 
-[^libanius-nd]: Libanius
+[^libanius-nd]: **Libanius**
 
 [^forster-1903]: Forster, Richard (ed.), 1903–1927, *Libanii opera*, 12 vols., Leipzig: Teubner.
 
+[^lydus-nd]: **Lydus, John**
+
 [^wünsch-1898]: Wünsch, Richard (ed.), 1898, *Ioannis Laurentii Lydi Liber De Mensibus*, Leipzig: Teubner.
 
-[^nemesius-nd]: Nemesius of Emesa
+[^nemesius-nd]: **Nemesius of Emesa**
 
 [^morani-1987]: Morani, Moreno (ed.), 1987, *Nemesii Emeseni de natura hominis*, Leipzig: Teubner.
 
-[^nicomachus-nd]: Nicomachus of Gerasa
+[^nicomachus-nd]: **Nicomachus of Gerasa**
 
 [^hoche-1866]: Hoche, Richard (ed.), 1866, *Nicomachi Geraseni Pythagorei introductionis arithmeticae libri II*, Leipzig: Teubner.
 
-[^philolaus-nd]: Philolaus
+[^philolaus-nd]: **Philolaus**
 
 [^huffman-1993]: Huffman, Carl (ed.), 1993, *Philolaus of Croton: Pythagorean and Presocratic*, Cambridge: Cambridge University Press.
 
-[^photius-nd]: Photius
+[^photius-nd]: **Photius**
 
 [^henry-1959]: Henry, René (ed.), 1959–1977, *Photius: Bibliothèque*, 9 vols. (Collection Byzantine), Paris: Les Belles Lettres.
 
-[^plato-nd]: Plato
+[^plato-nd]: **Plato**
 
 [^cooper-1997]: Cooper, John (ed.), 1997, *Plato. Complete Works*, Indianapolis: Hackett.
 
-[^plotinus-nd]: Plotinus
+[^plotinus-nd]: **Plotinus**
 
 [^henry-1964]: Henry, Paul and Hans–Rudolph Schwyzer (eds.), 1964–1982, *Plotini opera*, 3 vols. (Scriptorum Classicorum Bibliotheca Oxoniensis), Oxford: Clarendon Press.
 
-[^porphyry-nd]: Porphyry
+[^porphyry-nd]: **Porphyry**
 
 [^brisson-2005]: Brisson, Luc et al. (eds.), 2005, *Porphyre: Sentences*, 2 vols. (Histoire des Doctrines de l’Antiquité Classique), Paris: Vrin.
 
@@ -467,13 +469,13 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 
 [^smith-1993]: Smith, Andrew (ed.), 1993, *Porphyrii philosophi fragmenta*, Stuttgart and Leipzig: Teubner.
 
-[^priscian-nd]: Priscian of Lydia
+[^priscian-nd]: **Priscian of Lydia**
 
 [^bywater-1886]: Bywater, Ingram (ed.), 1886, *Prisciani Lydi quae extant* (Commentaria in Aristotelem Graeca suppl. 1.2), Berlin: Reimer.
 
 [^huby-nd]: Huby, Pamela and Carlos Steel (eds.), *Priscian: On Theophrastus on Sense-Perception; Simplicius: On Aristotle’s On the Soul* (Ancient Commentators on Aristotle), London: Duckworth.
 
-[^proclus-nd]: Proclus
+[^proclus-nd]: **Proclus**
 
 [^diehl-1903]: Diehl, Ernst (ed.), 1903–1906, *Procli Diadochi in Platonis Timaeum Commentaria*, 3 vols., Leipzig: Teubner.
 
@@ -483,23 +485,23 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 
 [^saffrey-1968]: Saffrey, Henri Dominique and Leendert G. Westerink (eds.), 1968–1997, *Proclus: Théologie platonicienne*, 6 vols. (Collection des Universités de France. Série grecque 188, 230, 264, 282, 311, 379), Paris: Les Belles Lettres.
 
-[^pseudo-archytas-nd]: Pseudo-Archytas
+[^pseudo-archytas-nd]: **Pseudo-Archytas**
 
 [^szlezák-1972]: Szlezák, Thomas A. (ed.), 1972, *Pseudo–Archytas über die Kategorien. Texte zur griechischen Aristoteles-Exegese* (Peripatoi 4), Berlin and New York: De Gruyter.
 
-[^pseudo-orpheus-nd]: Pseudo-Orpheus
+[^pseudo-orpheus-nd]: **Pseudo-Orpheus**
 
 [^rhapsodies-nd]: *Rhapsodies*, fragments in Bernabé, Alberto (ed.), *Poetae epici graeci: testimonia et fragmenta*, vol. 2.1 (Bibliotheca scriptorum Graecorum et Romanorum Teubneriana), München and Leipzig: K.G. Saur.
 
-[^pseudo-simplicius-nd]: Pseudo-Simplicius
+[^pseudo-simplicius-nd]: **Pseudo-Simplicius**
 
 [^hayduck-1882]: Hayduck, Michael (ed.), 1882, *Simplicii in libros Aristotelis de anima commentaria* (Commentaria in Aristotelem Graeca XI), Berlin: Reimer.
 
-[^salustius-nd]: Salustius
+[^salustius-nd]: **Salustius**
 
 [^rochefort-1960]: Rochefort, Gabriel (ed.), 1960, *Saloustios: Des dieux et du monde* (Collection des Universités de France. Série grecque 144), Paris: Les Belles Lettres.
 
-[^simplicius-nd]: Simplicius
+[^simplicius-nd]: **Simplicius**
 
 [^chase-2003]: Chase, Michael (trans.), 2003, *Simplicius: On Aristotle Categories 1–4* (Ancient Commentators on Aristotle), London: Duckworth.
 
@@ -513,9 +515,11 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 
 [^kalbfleisch-1908]: Kalbfleisch, Carl (ed.), 1908, *Simplicii in Aristotelis Categorias commentarium* (Commentaria in Aristotelem Graeca VIII), Berlin: Reimer.
 
+[^stobaeus-nd]: **Stobaeus, John**
+
 [^wachsmuth-1884]: Wachsmuth, Curt and Otto Hense (eds.), 1884–1912, *Ioannis Stobaei Anthologium*, 5 vols., Berlin: Weidmann.
 
-[^syrianus-nd]: Syrianus
+[^syrianus-nd]: **Syrianus**
 
 [^kroll-1902]: Kroll, Wilhelm (ed.), 1902, *Syriani In Metaphysica commentaria* (Commentaria in Aristotelem Graeca VI.1), Berlin: Reimer.
 
@@ -523,7 +527,7 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 
 [^dillon-2008-2]: ––– (eds.), 2008, *Syrianus: On Aristotle Metaphysics 3–4* (Ancient Commentators on Aristotle), London: Duckworth.
 
-[^themistius-nd]: Themistius
+[^themistius-nd]: **Themistius**
 
 [^downey-1971]: Downey, Glanville, Albert F. Norman, and Heinrich Schenkl (eds.), 1971, *Themistii orationes quae supersunt*, vol. 2, Leipzig: Teubner.
 

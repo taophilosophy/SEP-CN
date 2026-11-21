@@ -106,7 +106,7 @@ Apart from these minor details, Mally’s intention behind Basic Law IV is suffi
 
 In other words, he understood this Law as a guarantee that the system of norms is non-empty — that there is at least one proposition that is unconditionally obligatory, like U. It also seems reasonable to ascribe to Mally (although he does not say this explicitly) the requirement that U be a non-tautological proposition; otherwise, it is hard to make sense of Mally’s surprise at discovering that V ↔ U is derivable from his axioms (see the next section).
 
-**3.5**. Basic Law V, which Mally calls the “Principle of Non-Contradiction of the Ought-to-Be (*Grundsatz der Widerspruchlosigkeit des tatsächlichen Sollens*)” (Mally 1926, p. 19)[^mally-1926], is informally justified as follows:
+**3.5**. **Basic Law V, which Mally calls the “Principle of Non-Contradiction of the Ought-to-Be (*Grundsatz der Widerspruchlosigkeit des tatsächlichen Sollens*)” (Mally 1926, p. 19)[^mally-1926], is informally justified as follows:**
 
 > *Just as logic cannot set aside the fact that there are contradictory judgements, in the same way* Deontik *cannot set aside the fact that there are contradictory, hence irrational, norms* […]. *But the theory must assess that no actual state of affairs can correspond to a contradictory judgement, and that no rational ought-to-be can correspond to a contradictory norm. This is accomplished by means of a principle requiring that what ought to be unconditionally—our U—does not require its own negation* (Mally 1926, pp. 18–19)[^mally-1926].
 
@@ -289,10 +289,10 @@ A relevant version **RD** of Mally’s deontic system may be defined as follows:
 
 - Axioms I, II and III may be replaced by the following three simpler axioms:[^note-11]
 
-  | I*. | (A → B) → (!A → !B) |
+  | I\*. | (A → B) → (!A → !B) |
   | --- | --- |
-  | II*. | (!A & !B) → !(A & B) |
-  | III*. | !(!A → A) |
+  | II\*. | (!A & !B) → !(A & B) |
+  | III\*. | !(!A → A) |
 - Formulas I–V, (3), (4), (6), (8)–(11), (14), (16)–(18), (23′) and (30) are theorems of **RD**.[^note-12]
 - Formulas (1), (2), (5), (7), (12), (13), (15), (19)–(23), (24)–(29), (31)–(35), A → !A and !A → A are not derivable.[^note-13]
 - There are 12 mismatches between **RD** and Mally’s expectations: (5), (12)–(13), (15), (19)–(21), (23) and (24)–(26) are not derivable even though Mally did not regard these formulas as surprising, and (30) is a theorem even though Mally viewed it as surprising.
@@ -374,11 +374,11 @@ The relevantist reformulation of Mally’s system that was discussed above does 
 
 Although **ID** is unacceptable as a system of deontic logic, it does make sense as a system of *lax logic*, as we will now show. Lax logic is used in the areas of hardware verification in digital circuits and access control in secure systems, where ! expresses a notion of correctness up to constraints. The term “lax” was chosen “to indicate the looseness associated with the notion of correctness up to constraints” (Fairtlough and Mendler 1997, p. 3)[^fairtlough-1997]. There is a considerable literature on lax logic (see a.o. Goldblatt 2011, Iemhoff 2024)[^goldblatt-2011][^iemhoff-2024].
 
-Propositional lax logic **PLL** is defined as **IPC** plus (A → !B) ↔ (!A → !B) (Fairtlough and Mendler 1997, p. 4, Lemma 2.1)[^fairtlough-1997]. Lax logic PLL* is **PLL** plus !A ↔ ¬ ¬ A (Fairtlough and Mendler 1997, p. 23)[^fairtlough-1997].
+Propositional lax logic **PLL** is defined as **IPC** plus (A → !B) ↔ (!A → !B) (Fairtlough and Mendler 1997, p. 4, Lemma 2.1)[^fairtlough-1997]. Lax logic **PLL\*** is **PLL** plus !A ↔ ¬ ¬ A (Fairtlough and Mendler 1997, p. 23)[^fairtlough-1997].
 
-FACT 5. **ID** is an alternative axiomatization of lax logic PLL* plus (34).[^note-28]
+FACT 5. **ID** is an alternative axiomatization of lax logic **PLL\*** plus (34).[^note-28]
 
-Mally’s deontic logic and lax logic arose from quite different considerations. It is therefore remarkable that the intuitionistic reformulation of Mally’s logic that we have discussed is identical with lax logic PLL* plus (34).
+Mally’s deontic logic and lax logic arose from quite different considerations. It is therefore remarkable that the intuitionistic reformulation of Mally’s logic that we have discussed is identical with lax logic **PLL\*** plus (34).
 
 ## 10. Alternative Deontic Principles
 
@@ -445,9 +445,9 @@ Many of Mally’s surprising theorems are derivable in **KD**, but they have, as
 
 - Axiom III is dropped.
 
-The language of **Mm** is properly included in that of **KD** (which does not have the sentential constant U) – therefore every **Mm**-formula is a **KD**-formula, but not vice versa. To make the two systems comparable, each **Mm**-formula A is associated with the **KD**-formula A* obtained from A by replacing U everywhere with ⊤. It can then be proved that **Mm** and **KD** are equivalent modulo the translation *. More precisely, the following holds:
+The language of **Mm** is properly included in that of **KD** (which does not have the sentential constant U) – therefore every **Mm**-formula is a **KD**-formula, but not vice versa. To make the two systems comparable, each **Mm**-formula A is associated with the **KD**-formula A\* obtained from A by replacing U everywhere with ⊤. It can then be proved that **Mm** and **KD** are equivalent modulo the translation \*. More precisely, the following holds:
 
-• For every **KD**-formula A, if A is a theorem of **KD**, then A is a theorem of **Mm**; • for every **Mm**-formula A, if A is a theorem of **Mm**, then A* is a theorem of **KD**; • moreover, for every **Mm**-formula A, A ↔ A* is a theorem of **Mm**.
+• For every **KD**-formula A, if A is a theorem of **KD**, then A is a theorem of **Mm**; • for every **Mm**-formula A, if A is a theorem of **Mm**, then A\* is a theorem of **KD**; • moreover, for every **Mm**-formula A, A ↔ A\* is a theorem of **Mm**.
 
 The system **MD** considered in 10.1 seems, at least *prima facie*, closer to Mally’s original system than the system **Mm**, insofar as it retains all of Mally’s axioms except Axiom I, which, as in **Mm**, is turned into an inference rule (but in **MD** the rule is formulated using the operator f, which is taken as primitive).
 
@@ -482,7 +482,7 @@ logic: deontic | logic: intuitionistic | logic: relevance
 
 ### Acknowledgments
 
-The author is very grateful to Lou Goble, whose extensive comments on two earlier drafts led to many substantial improvements. The author would also like to thank Lou Goble and Edgar Morscher for making their papers on Anderson’s and Mally’s deontic logic available to him, Robert K. Meyer for helping him find the matrices used in note 10, and John Slaney for providing him with the proof of II* mentioned in note 8.
+The author is very grateful to Lou Goble, whose extensive comments on two earlier drafts led to many substantial improvements. The author would also like to thank Lou Goble and Edgar Morscher for making their papers on Anderson’s and Mally’s deontic logic available to him, Robert K. Meyer for helping him find the matrices used in note 10, and John Slaney for providing him with the proof of II\* mentioned in note 8.
 
 ## Notes（原文脚注）
 
@@ -490,7 +490,7 @@ The author is very grateful to Lou Goble, whose extensive comments on two earlie
 
 [^note-2]: *Man kann sehr wohl etwas wünschen, sofern esuns angenehm oder sonst wertvoll ist, aber die unangenehme Kehrseite des Tatbestandes gar nicht wünschen*. (Mally 1926, p. 15)[^mally-1926].
 
-[^note-3]: [F]or every **M** *— that is, for any state of affairs* *M* — “*M* *implies* *V*”, and, respectively, “*Λ implies* *M**”, does hold* (Mally 1926, 9)[^mally-1926]. Using terminology that Mally himself does not employ, but based on what he writes, we may identify *V* and Λ, currently denoted by **⊤** and **⊥**, with an arbitrarily fixed tautology and an arbitrarily fixed contradiction, respectively.
+[^note-3]: *[F]or every **M*** *— that is, for any state of affairs* ***M*** — “***M*** *implies* *V*”, and, respectively, “*Λ implies* ***M****”, does hold* (Mally 1926, 9)[^mally-1926]. Using terminology that Mally himself does not employ, but based on what he writes, we may identify *V* and Λ, currently denoted by **⊤** and **⊥**, with an arbitrarily fixed tautology and an arbitrarily fixed contradiction, respectively.
 
 [^note-4]: See e.g. Føllesdal and Hilpinen 1981 and McNamara 2006 for a survey.
 
@@ -512,7 +512,7 @@ The author is very grateful to Lou Goble, whose extensive comments on two earlie
 
 [^note-10]: The proofs that A → !A and A ↔ !A are theorems of **S0.9⁰** enriched with ! and supplemented with I and III are to be found in Lokhorst 2010.
 
-[^note-11]: We only prove that I* is a theorem of **RD**. The other five cases (II* and III* are theorems of **RD** and I–III follow from I*–III*) are left to the reader.
+[^note-11]: We only prove that I\* is a theorem of **RD**. The other five cases (II\* and III\* are theorems of **RD** and I–III follow from I\*–III\*) are left to the reader.
 
 | 1. | (!A → !A) & (A → ((A → B) → B)) | [ **R** ] |
 | --- | --- | --- |
@@ -520,12 +520,12 @@ The author is very grateful to Lou Goble, whose extensive comments on two earlie
 | 3. | !A → ((A → B) → !B) | [ 2, Ax. III(←), Def. f ] |
 | 4. | (A → B) → (!A → !B) | [ 3, Permutation ] |
 
-Axiom II* is actually redundant. The following formulas are theorems:
+Axiom II\* is actually redundant. The following formulas are theorems:
 
-| (a) | (A → B) → ( ¬!¬ A → ¬!¬ B ) | [ I* ] |
+| (a) | (A → B) → ( ¬!¬ A → ¬!¬ B ) | [ I\* ] |
 | --- | --- | --- |
-| (b) | ¬!¬ ! A → A | [ I*, III* ] |
-| (c) | A → ! ¬!¬ A | [ I*, III* ] |
+| (b) | ¬!¬ ! A → A | [ I\*, III\* ] |
+| (c) | A → ! ¬!¬ A | [ I\*, III\* ] |
 
 We therefore have:
 
@@ -534,18 +534,18 @@ We therefore have:
 | 2. | ¬!¬ ( ! A & ! B) → A | [ 1, (b) ] |
 | 3. | ¬!¬ ( ! A & ! B) → B | [ similar to proof of 2 ] |
 | 4. | ¬!¬ ( ! A & ! B) → (A & B) | [ 2, 3, &Introduction ] |
-| 5. | ! ¬!¬ ( ! A & ! B) → ! (A & B) | [ 4, I* ] |
+| 5. | ! ¬!¬ ( ! A & ! B) → ! (A & B) | [ 4, I\* ] |
 | 6. | ( ! A & ! B) → ! (A & B) | [ 5, (c) ] |
 
 We owe this proof to John Slaney.
 
-[^note-12]: Most cases are obvious but some hints for (16)–(18) and (30) may be helpful. (16) is a consequence of I* and IV. (17) follows from (16) and (18). (18) may be proven as follows:
+[^note-12]: Most cases are obvious but some hints for (16)–(18) and (30) may be helpful. (16) is a consequence of I\* and IV. (17) follows from (16) and (18). (18) may be proven as follows:
 
-| 1. | !(!A → A) & !(!!A → !A) | [ III* (twice), Adjunction ] |
+| 1. | !(!A → A) & !(!!A → !A) | [ III\* (twice), Adjunction ] |
 | --- | --- | --- |
-| 2. | !((!A → A) & (!!A → !A)) | [ 1, II* ] |
+| 2. | !((!A → A) & (!!A → !A)) | [ 1, II\* ] |
 | 3. | ((!A → A) & (!!A → !A)) → (!!A → A) | [ **R** ] |
-| 4. | !((!A → A) & (!!A → !A)) → !(!!A → A) | [ 3, I* ] |
+| 4. | !((!A → A) & (!!A → !A)) → !(!!A → A) | [ 3, I\* ] |
 | 5. | !(!!A → A) | [ 2, 4 ] |
 | 6. | !!A → !A | [ 5, Ax. III(←), Def. f ] |
 
@@ -581,7 +581,7 @@ Each theorem M of **RD** has the following property: v(M)∈{1, 3, 5} for every 
 | --- | --- | --- |
 | 2. | A ↔ (U → A) | [ 1, either (34) or (35) ] |
 | 3. | A → !A | [ 2, (16) ] |
-| 4. | (A → ∩) → ((U → !A) → (U → !∩)) | [ I*, Prefixing ] |
+| 4. | (A → ∩) → ((U → !A) → (U → !∩)) | [ I\*, Prefixing ] |
 | 5. | (A → ∩) → (¬(U → !∩) → ¬(U → !A)) | [ 4, Contraposition ] |
 | 6. | ¬(U → !∩) → ((A → ∩) → ¬(U → !A)) | [ 5, Permutation ] |
 | 7. | (A → ∩) → ¬(U → !A) | [ 6, Ax. V, Def. f ] |
@@ -673,7 +673,7 @@ Second, the axioms of **ID** can be derived from the following theorems of **IPC
 
 ![logical-and and logical-or are interpreted as lattice meet and join](../assets/mally-deontic/matrix5.png)
 
-*Figure 1.* ∧ and ∨ are interpreted as lattice meet and join, respectively. The designated value is 1. Matrix from McKinsey 1939, p. 157.
+\*Figure 1.\* ∧ and ∨ are interpreted as lattice meet and join, respectively. The designated value is 1. Matrix from McKinsey 1939, p. 157.
 
 [^note-25]: Proof: see Figure 1: ¬ (2 & ¬ ¬ ¬ 2) ↔ (¬ 2 ∨ ¬ ¬ 2) = 1 ↔ 4 = 4.
 
@@ -699,7 +699,7 @@ Second, if !(A ∨ B) → (!A ∨ !B) is a theorem, then (13b) is also a theorem
 
 ![logical-and and logical-or are interpreted as lattice meet and join](../assets/mally-deontic/matrix3.png)
 
-*Figure 2.* ∧ and ∨ are interpreted as lattice meet and join, respectively. The designated value is 1. Matrix from McKinsey 1939, p. 157.
+\*Figure 2.\* ∧ and ∨ are interpreted as lattice meet and join, respectively. The designated value is 1. Matrix from McKinsey 1939, p. 157.
 
 [^note-28]: Proof. **IPC** provides (A → ¬ ¬ B) ↔ (¬ ¬ A → ¬ ¬ B), so **ID** provides (A → !B) ↔ (!A → !B) by Fact 1. **ID** provides !A ↔ ¬ ¬ A by Fact 1.
 

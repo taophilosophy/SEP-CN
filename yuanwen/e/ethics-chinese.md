@@ -621,7 +621,7 @@ Chinese Philosophy: Mohism | Chinese Philosophy: Mohist Canons | comparative phi
 
 [^olberding-2008]: Olberding, Amy, 2008, “Dreaming of the Duke of Zhou: Exemplarism and the *Analects*,” *Journal of Chinese Philosophy*, 35: 625–639.
 
-[^olberding-2012]: –––, 2012, Moral Exemplars in the *Analects*: The Good Person is *That*, New York: Routledge.
+[^olberding-2012]: –––, 2012, *Moral Exemplars in the Analects: The Good Person is That*, New York: Routledge.
 
 [^olberding-2016]: –––, 2016, “Etiquette: A Confucian Contribution to Moral Philosophy,” *Ethics*, 126(2): 422–446.
 

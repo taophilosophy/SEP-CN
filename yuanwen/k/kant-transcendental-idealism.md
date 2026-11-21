@@ -414,15 +414,15 @@ It is not the case that things in themselves are spatial.
 
 While ordinarily we might take these claims to be equivalent, when talking about “things in themselves” we can distinguish them, because “things in themselves” talk is talk about objects from a certain perspective (i.e., considered as objects of discursive intellect in general). In particular, (1) and (2) are equivalent to:
 
-(1*)
+(1\*)
 
 Objects, considered as objects of discursive cognition in general, are non-spatial.
 
-(2*)
+(2\*)
 
 ~(Objects, considered as objects of discursive cognition in general, are spatial)
 
-Allison’s critics assume that he opts for (1) (and its analysis, (1*)) and object, rightly, that this is the wrong conclusion to draw from the fact that discursive cognition is a more general notion than spatiotemporal discursive cognition. (Just as it would be wrong to conclude that the job candidate, considered in abstraction from his sex and race, is sex-less and race-less.) While it is sometimes unclear from Allison’s texts which analysis he opts for, the charitable reading is that he accepts (2*).
+Allison’s critics assume that he opts for (1) (and its analysis, (1\*)) and object, rightly, that this is the wrong conclusion to draw from the fact that discursive cognition is a more general notion than spatiotemporal discursive cognition. (Just as it would be wrong to conclude that the job candidate, considered in abstraction from his sex and race, is sex-less and race-less.) While it is sometimes unclear from Allison’s texts which analysis he opts for, the charitable reading is that he accepts (2\*).
 
 If this is correct, Allison’s reasoning can be reconstructed as follows:
 
@@ -500,7 +500,7 @@ is merely apparent because, on her reading (Non-spatiality) is equivalent to:
 
 (*Non-spatiality*\*) Being spatial is not an intrinsic property of substances.
 
-This is compatible with (Humility*) because we can know it merely by knowing that being spatial is an extrinsic property in general (thus is not an intrinsic property had by substances), and to know this we do not need to know anything about the intrinsic properties of substances. Langton thus offers a consistent, elegant interpretation of transcendental idealism that solves several of the oldest and hardest problems in the interpretation of Kant’s philosophy.[^note-48]
+This is compatible with (Humility\*) because we can know it merely by knowing that being spatial is an extrinsic property in general (thus is not an intrinsic property had by substances), and to know this we do not need to know anything about the intrinsic properties of substances. Langton thus offers a consistent, elegant interpretation of transcendental idealism that solves several of the oldest and hardest problems in the interpretation of Kant’s philosophy.[^note-48]
 
 ### 4.5 Problems for Langton’s reading
 
@@ -626,17 +626,17 @@ His attitude to:
 
 depends upon how we read it, on this interpretation. On the one hand, we can understand it either as the “*de re*” claim
 
-(*Phenomenalism*_{E}*) (*x*)(*x* is an object in space ⊃ the existence of *x* is partly or wholly grounded in our experience of *x*)
+(*Phenomenalism*_{E}\*) (*x*)(*x* is an object in space ⊃ the existence of *x* is partly or wholly grounded in our experience of *x*)
 
 in which case Kant would reject it, because each such object in space is also a thing in itself and, as such, does not depend for its existence on our experience of it. On the other hand, we could understand it as the *de dicto* claim
 
-(*Phenomenalism*_{E}**) The fact that there are objects in space is partly or wholly grounded in our experience of objects in space.
+(*Phenomenalism*_{E}\*\*) The fact that there are objects in space is partly or wholly grounded in our experience of objects in space.
 
 in which case Kant would accept it, because there being objects in space depends upon our experiencing objects as in space.
 
 This leads to an important exegetical point. One of the main motivations for “non-identity” interpretations are passages in which Kant claims that appearances would not exist if there were not subjects to experience them, e.g., A42/B59. This might be thought to directly entail phenomenalism, for, if appearances would not exist without subjects to experience them, but things in themselves would, then *a fortiori* appearances and things in themselves are distinct. This line of reasoning can be represented formally as (P1), (P2) and C from section 5.1. But the identity reader can interpret Kant’s claim “if I were to take away the thinking subject, the whole corporeal world would have to disappear” as meaning: without subjects to experience them, appearances would not exist *as appearances*, i.e., would not appear. In other words, she can reinterpret (P1) as:
 
-(P1*)
+(P1\*)
 
 For all *x*, if *x* is an appearance, then *x*’s existence *as an appearance* (=the fact that *x* exists and appears) is grounded in the contents of experience.
 
@@ -652,7 +652,7 @@ We have seen some reasons to think that the resolutely anti-phenomenalist readin
 | **Phenomenalist** | Aquila (1983)[^aquila-1983], Van Cleve (1999)[^van-1999], cf. section 3 | N/A | Adickes (1924)[^adickes-1924], Westphal (1968)[^westphal-1968] |
 | **Anti-phenomenalist** | Alternate version of Langton | Allison (1983/2004), Bird (1962)[^bird-1962], Prauss (1974)[^prauss-1974] | Langton (1998)[^langton-1998], Allais (2006)[^allais-2006] |
 
-*Table 1*
+\*Table 1\*
 
 But the distinction between the two different versions of Langton, and between the non-identity version of phenomenalism (Aquila 1983; Van Cleve 1999)[^aquila-1983][^van-1999] and the identity version of phenomenalism (Adickes 1924; Westphal 1968)[^adickes-1924][^westphal-1968] is relatively recondite. It depends on the controversial assumption that assertions of identity between appearances and things in themselves, outside of practical contexts, have a content.
 
@@ -668,7 +668,7 @@ Allison’s idea is that the distinction between the empirical and the transcend
 | **Phenomenalist** | N/A | Aquila (1983)[^aquila-1983], Van Cleve (1999)[^van-1999], cf. section 3 | N/A | Adickes (1924)[^adickes-1924], Westphal (1968)[^westphal-1968] |
 | **Anti-phenomenalist** | Allison (1983/2004) | Alternate version of Langton | Bird (1962)[^bird-1962], Prauss (1974)[^prauss-1974], alternate version of Allison (1983/2004), | Langton (1998)[^langton-1998], Allais (2006)[^allais-2006] |
 
-*Table 2*
+\*Table 2\*
 
 But notice we now have doubling of interpretations: identity and non-identity versions of Langton (1998)[^langton-1998], identity and non-identity versions of phenomenalist views, and identity and “neither identity nor non-identity” versions of Allison.
 
@@ -679,7 +679,7 @@ However, if one thinks that claims of identity between appearances and things in
 | **Epistemic** | **Metaphysical** |   |
 | Aquila (1983)[^aquila-1983], Van Cleve (1999)[^van-1999], Adickes (1924)[^adickes-1924], Westphal (1968)[^westphal-1968], cf. section 3 | Allison (1983/2004), Bird (1962)[^bird-1962], Prauss (1974)[^prauss-1974] | Langton (1998)[^langton-1998], Allais (2006)[^allais-2006] |
 
-*Table 3*
+\*Table 3\*
 
 On such a reading, there is no substance, outside of the practical context, to the question of whether an appearance is *numerically identical* to a thing in itself, so the identity and non-identity versions of, e.g., phenomenalism, are equivalent.[^note-63] If one holds instead that these identity claims have a content but that we cannot know them on theoretical grounds alone (see section 5.1) then one will likewise see these interpretive options as so constrained, because, although there is a difference in content between, say, the identity and non-identity versions of phenomenalism, Kant must be agnostic as to which is true.
 

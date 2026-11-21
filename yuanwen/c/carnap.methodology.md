@@ -74,7 +74,7 @@ This rational reconstruction of qualities through quasianalysis is not without p
 
 ![An equilateral triangle with the corners labeled 1, 3, and 6. The midpoint between 1 and 3 is labeled 2. The midpoint between 3 and 6 is labeled 5. The midpoint between 1 and 6 is labeled 4. Points 2, 4, and 5 are also connected by lines to form a smaller equilateral triangle](../assets/carnap/meth-fig.svg)
 
-*Figure 1:* A Similarity Relation
+\*Figure 1:\* A Similarity Relation
 
 On the positive side, the formally precise definition of *Ähnl* makes it easy to criticize this method of abstraction, and to determine the exact conditions under which it delivers the intended distribution of similarity circles (Leitgeb 2007 provides results to that effect). For instance, as just mentioned, Carnap had already been aware of some of these worries, but he argued that so long as the subject in question had sufficiently many experiences of sufficiently varied character, these problems would not be relevant (*Aufbau*: §70), and that in those unfortunate circumstances in which quasianalysis were to fail, “the real process of cognition… would also not lead to normal results” (§81). However, as Leitgeb (2007) shows, based on formal theorems, even subjects with “realistic” experiences would be likely to suffer from imperfect community, in which case quasianalysis would over-generate similarity circles. In other cases (e.g., Russell’s abstraction of points of time from overlapping events), the same theorems demonstrate the viability of quasianalysis, given the “right” structure of the similarity relation in question.
 

@@ -448,7 +448,7 @@ compositionality | Davidson, Donald | Gödel, Kurt | Gödel, Kurt: incompletenes
 
 [^schindler-2015]: Schindler, Thomas, 2015, “A Disquotational Theory of Truth as Strong as $\mathrm{Z}^{-}_2$”, *Journal of Philosophical Logic*, 44: 395–410.
 
-[^scott-1975]: Scott, Dana, 1975, “Combinators and classes”, in **λ*-calculus and Computer Science Theory* (Lecture Notes in Computer Science: Volume 37), C. Böhm (ed.), Berlin: Springer, 1–26.
+[^scott-1975]: Scott, Dana, 1975, “Combinators and classes”, in *λ-calculus and Computer Science Theory* (Lecture Notes in Computer Science: Volume 37), C. Böhm (ed.), Berlin: Springer, 1–26.
 
 [^shapiro-1998]: Shapiro, Stewart, 1998, “Proof and truth: through thick and thin”, *Journal of Philosophy*, 95 (10): 493–521.
 

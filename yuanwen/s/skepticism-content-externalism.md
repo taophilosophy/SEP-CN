@@ -222,11 +222,11 @@ To support (3) McKinsey points out that CE is defined in terms of narrow and wid
 
 From this he infers (on page 16)
 
-(*)
+(\*)
 
 One cannot know a priori that there are external objects in each of one’s subjectively equivalent worlds (worlds in which one’s narrow psychological states are the same as they are in the actual world).
 
-McKinsey 1991 concludes that a content externalist who accepts (1) and (2) is thereby also committed to accepting (3), which is incompatible with (*). This is a sharpened and strengthened version of the second horn of the Central Dilemma explained in section 5.
+McKinsey 1991 concludes that a content externalist who accepts (1) and (2) is thereby also committed to accepting (3), which is incompatible with (\*). This is a sharpened and strengthened version of the second horn of the Central Dilemma explained in section 5.
 
 ### 6.1 General content externalism and conceptual implication
 
@@ -254,7 +254,7 @@ It is necessary that if Oscar is thinking that water is wet, then one of the fol
 
 The above argument for (N) relies on “the actual existence of water…in order to individuate the notions we cite in specifying the propositional attitudes” (Burge 1982: 97)[^burge-1982], however, and therefore does not establish or presuppose that CE conceptually implies (N) (Brueckner 1992a: 116)[^brueckner-1992a].
 
-If the holistic theory of CE that leads to these conclusions is correct, there may be a sound argument for the conclusion that in each of our subjectively equivalent worlds there exists some physical objects (Brueckner 1992a: 118)[^brueckner-1992a]. Although such an argument would challenge (*), it would be compatible with the Cartesian intuition that we may actually be in any of our subjectively equivalent worlds and would therefore evade the second horn.
+If the holistic theory of CE that leads to these conclusions is correct, there may be a sound argument for the conclusion that in each of our subjectively equivalent worlds there exists some physical objects (Brueckner 1992a: 118)[^brueckner-1992a]. Although such an argument would challenge (\*), it would be compatible with the Cartesian intuition that we may actually be in any of our subjectively equivalent worlds and would therefore evade the second horn.
 
 ### 6.2 Atomic natural kind concepts and a priori knowledge
 
@@ -332,11 +332,11 @@ where a “water-thought” is a thought, such as the thought that *water is wet
 
 Sections 6.2–6.4 focused on the consequences of general CE. Singular CE raises different but related puzzles about whether one can have a priori knowledge of one’s environment. To see why, suppose Suzy utters the sentence, “That is poisonous,” while pointing at a snake named Fred, thereby expressing her thought that *that [i.e. Fred] is poisonous*. According to the direct reference theory of demonstratives (due to Kaplan 1989, see section 3.1 above)[^kaplan-1989], the content of the thought Suzy thereby expresses is a singular proposition that contains Fred, the snake, and the property of being poisonous. Suzy might have been subject to an *illusion* of demonstrating a particular snake when in fact there was no snake to refer to. It therefore seems that Suzy cannot know a priori that Suzy is thinking *that [Fred] is poisonous*, or that *that [Fred]* exists. But consider the following proposition:
 
-(**)
+(\*\*)
 
 If Suzy is thinking that *that [Fred] is poisonous* then *that [Fred]* exists.
 
-(**) has the form “$Fa \supset \exists x(x=a)$”. Assuming the rule EG (existential generalization) and standard axioms of identity, Suzy can therefore infer (**) a priori. Moreover, (**) itself implies that *that [Fred]* exists, since the proposition *that [Fred] is poisonous* is “embedded” in it (Lasonen-Aarnio 2006: 441)[^lasonen-aarnio-2006]. These points imply that Suzy can know (**) a priori and that she can infer a priori from (**) that *that [Fred] exists*. A corollary is that privileged access to the contents of one’s singular thoughts is not necessary for deriving contingent existence claims without empirical investigation (2006: 442).
+(\*\*) has the form “$Fa \supset \exists x(x=a)$”. Assuming the rule EG (existential generalization) and standard axioms of identity, Suzy can therefore infer (\*\*) a priori. Moreover, (\*\*) itself implies that *that [Fred]* exists, since the proposition *that [Fred] is poisonous* is “embedded” in it (Lasonen-Aarnio 2006: 441)[^lasonen-aarnio-2006]. These points imply that Suzy can know (\*\*) a priori and that she can infer a priori from (\*\*) that *that [Fred] exists*. A corollary is that privileged access to the contents of one’s singular thoughts is not necessary for deriving contingent existence claims without empirical investigation (2006: 442).
 
 These inferences depend on the assumption that the logic of singular CE is classical. In a non-classical free logic, by contrast, the form “$Fa \supset \exists x(x=a)$” is not logically valid: in cases in which “$a$” is not assigned a reference, “both ‘$Fa$’ and conditionals containing ‘$Fa$’ have no truth value and so are not true on those interpretations” (McKinsey 2006: 449)[^mckinsey-2006]. If one adopts a free logic, then if singular CE is true, privileged access to the contents of one’s singular thoughts is necessary for deriving contingent existence claims without empirical investigation.
 
@@ -362,11 +362,11 @@ This reasoning is “is neither ‘empirical’ nor ‘a priori’, but has elem
 
 Standard reconstructions of Putnam’s BIV argument nevertheless take for granted that the goal of Putnam’s BIV argument is, or should be, to show by strictly a priori methods that we are not BIVs (Brueckner 1986: 160; Wright 1994: 222)[^brueckner-1986][^wright-1994].
 
-Brueckner’s reconstruction begins by stipulating that “brain*” refers to “the computer program feature that causes experiences in the BIV that are qualitatively indistinguishable from normal experiences that represent brains,” and “vat*” refers to “the computer program feature that causes experiences in the BIV that are qualitatively indistinguishable from normal experiences that represent vats” (Brueckner 2011: 503)[^brueckner-2011]. These stipulated interpretations of the BIV’s terms “brain” and “vat” imply that a BIV is not a brain* in a vat* (Brueckner 2011: 503)[^brueckner-2011]. The reconstructed argument runs as follows:
+Brueckner’s reconstruction begins by stipulating that “brain\*” refers to “the computer program feature that causes experiences in the BIV that are qualitatively indistinguishable from normal experiences that represent brains,” and “vat\*” refers to “the computer program feature that causes experiences in the BIV that are qualitatively indistinguishable from normal experiences that represent vats” (Brueckner 2011: 503)[^brueckner-2011]. These stipulated interpretations of the BIV’s terms “brain” and “vat” imply that a BIV is not a brain\* in a vat\* (Brueckner 2011: 503)[^brueckner-2011]. The reconstructed argument runs as follows:
 
 1. Either I am a BIV (speaking vat-English) or I am a non-BIV (speaking English).
-2. If I am a BIV (speaking vat-English), then my utterances of “I am a BIV” are true iff I am a brain* in a vat*.
-3. If I am a BIV (speaking vat-English), then I am not a brain* in a vat*.
+2. If I am a BIV (speaking vat-English), then my utterances of “I am a BIV” are true iff I am a brain\* in a vat\*.
+3. If I am a BIV (speaking vat-English), then I am not a brain\* in a vat\*.
 4. If I am a BIV (speaking vat-English), then my utterances of “I am a BIV” are not true. [b,c]
 5. If I am a non-BIV (speaking English), then my utterances of “I am a BIV” are true iff I am a BIV.
 6. If I am a non-BIV (speaking English), then my utterances of “I am a BIV” are not true. [e]
@@ -388,7 +388,7 @@ My utterances of “_____” are true iff _____.
 
 Instances of (T), such as (t), employ what is called disquotation: they explain the conditions under which a quoted sentence is true by dropping the quotes and directly using the sentence. Instances of (T) are unproblematic in most ordinary, non-skeptical contexts.
 
-If I don’t know whether or not I am a BIV, however, it appears that I do not know whether or not the truth conditions of my utterances of “I am not a BIV” are true iff I am not a brain* in a vat*, so I am not justified in asserting (t) (Brueckner 1986: 160; see also Stephens & Russow 1985; Kinghan 1986)[^brueckner-1986][^kinghan-1986][^stephens-1985]. This argument focuses on (t) but it also implies that I am not justified in asserting instances of (Sat)
+If I don’t know whether or not I am a BIV, however, it appears that I do not know whether or not the truth conditions of my utterances of “I am not a BIV” are true iff I am not a brain\* in a vat\*, so I am not justified in asserting (t) (Brueckner 1986: 160; see also Stephens & Russow 1985; Kinghan 1986)[^brueckner-1986][^kinghan-1986][^stephens-1985]. This argument focuses on (t) but it also implies that I am not justified in asserting instances of (Sat)
 
 **(Sat)**
 
@@ -400,7 +400,7 @@ such as
 
 My word “brain” refers to (is satisfied by) *x* if and only if *x* is a brain.
 
-in the context of the BIV argument. For like (t), (Sat_{brain}) employs disquotation: it explains the conditions under which a quoted predicate is true by dropping the quotes and directly using the predicate. And if I don’t know whether or not I am a BIV, it appears that I do not know whether or not the truth conditions of my word “brain” refers to (is satisfied by) *x* if and only if *x* is a brain*, so I am not justified in asserting (Sat_{brain}).
+in the context of the BIV argument. For like (t), (Sat_{brain}) employs disquotation: it explains the conditions under which a quoted predicate is true by dropping the quotes and directly using the predicate. And if I don’t know whether or not I am a BIV, it appears that I do not know whether or not the truth conditions of my word “brain” refers to (is satisfied by) *x* if and only if *x* is a brain\*, so I am not justified in asserting (Sat_{brain}).
 
 Against this, one might reason as follows:
 

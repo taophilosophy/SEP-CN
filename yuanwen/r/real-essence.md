@@ -45,7 +45,7 @@ In this way, then, the substantial form of any object in the Scholastic theory p
 
 By contrast, however, Locke does not think of the essence of a physical object as an immaterial substantial form, nor does he think that a single entity can play both roles of determining the species or genus membership of a substance *and* be the unobservable underlying cause of the qualities of the substance. Instead, Locke divides up the concept of essence into two different concepts playing two distinct roles. First, he defines the real essence of physical objects as the internal constitution of the substance that is the cause of the observable qualities of the object. He then argues that this internal constitution is not what answers the ‘what is it?’ question because the species membership of physical beings is only determined by their outward appearance, i.e., by their nominal essences. Second, he defines the nominal essence as that collection of observable qualities that are included in the definition of the species or genus. This process has three stages; we create an abstract idea based on similarities among objects, we then give a name to that abstract idea, and finally we classify objects that fit our abstract idea into the same species or genus. So, for Locke, the real essence plays role (b), that is, the causal and explanatory role of being the physical cause of the properties and qualities of each substance; but only the nominal essence plays role (a), that is, the nominal essence alone determines its species or genus membership. The chart below illustrates this division of labor:
 
-|   | (a) Determines Species/Genus Membership | (b) Causes/Explains Observable Qualities |
+|   | (a) *Determines Species/Genus Membership* | (b) *Causes/Explains Observable Qualities* |
 | --- | --- | --- |
 | *Scholastics* | Substantial Form | Substantial Form |
 | *Locke* | Nominal Essence | Real Essence |
@@ -106,7 +106,7 @@ If we have no knowledge of real essences, then there is no way to use real essen
 
 The differences between Locke and the natural kind realists from among the ranks of the corpuscularians can be illustrated by the following chart:
 
-|   | (a) Determines Species/Genus Membership | (b) Causes/Explains Observable Qualities |
+|   | (a) *Determines Species/Genus Membership* | (b) *Causes/Explains Observable Qualities* |
 | --- | --- | --- |
 | *Scholastics* | Substantial Form | Substantial Form |
 | *Corpuscular Realists* | Corpuscular Form | Corpuscular Form |

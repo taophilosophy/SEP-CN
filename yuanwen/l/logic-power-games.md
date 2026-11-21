@@ -274,7 +274,7 @@ Intuitively, if $C$ is able to achieve *φ* and we have that *φ* implies *ψ*, 
 - **liveness**: i.e., $\emptyset \not\in E(C)$, for each $C\subseteq N$;
 - **safety**: i.e., $W \in E(C)$, for each $C\subseteq N$;
 - **regularity**: i.e., $X \in E(C)$ implies that $\overline{X} \not\in E(\overline{C})$, for each $C\subseteq N, X \subseteq W$;
-- *N*-maximality: i.e., $\overline{X} \in E(\emptyset)$ implies that ${X} \in E(N)$ and $X \subseteq W$;
+- ***N*-maximality**: i.e., $\overline{X} \in E(\emptyset)$ implies that ${X} \in E(N)$ and $X \subseteq W$;
 - **superadditivity**: i.e., $X\in E(C)$ and $Y \in E(D)$ implies that $X\cap Y \in E(C \cup D)$, for each $C$, $D \subseteq N$, $C \cap D = \emptyset$, $X,Y \subseteq W$;
 - **coalition monotonicity**: i.e., $X \in E(C)$ implies that $X \in E(D)$, for each $C\subseteq D \subseteq N$, $X \subseteq W$;
 - **well-foundedness**: i.e., $X \in E(N)$ implies that $\{x\} \in E(N)$, for some $x \in X$, for each $X \subseteq W$.
@@ -427,7 +427,7 @@ However, suppose that the second round is such that everyone but Belgium stick t
 
 Looking at the unified treatment of our example, there seem to be relationship between non-cooperative games and cooperative games. This relationship can be specified formally.
 
-Let us first consider what a group of players can do in a game. To do so we define the ***α*-effectivity function**, a mathematical description of coalitional strategies in a game in terms of the sets outcomes that they can force.
+Let us first consider what a group of players can do in a game. To do so we define the **α-effectivity function**, a mathematical description of coalitional strategies in a game in terms of the sets outcomes that they can force.
 
 **Definition 12.** [*α*-effectivity function] Let $S$ be a non-cooperative game. We define the *α* effectivity function of $S$, $E^{\alpha}_S(C)$, where $\overline{C}$ is the complement of $C$:
 

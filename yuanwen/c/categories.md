@@ -405,7 +405,7 @@ Many thanks go to Willem de Vries, Simon Evnine, Jonathan Lowe, Friederike Moltm
 
 [^rakison-2003]: Rakison, David and Lisa M. Oakes, 2003, *Early Category and Concept Development*, Oxford: Oxford University Press.
 
-[^russell-1913]: Russell, Bertrand and Alfred North Whitehead, 1913 [1962], *Principia Mathematica* to *56, Cambridge: Cambridge University Press.
+[^russell-1913]: Russell, Bertrand and Alfred North Whitehead, 1913 [1962], *Principia Mathematica* to \*56, Cambridge: Cambridge University Press.
 
 [^ryle-1938]: Ryle, Gilbert, 1938 [1971], “Categories”, in *Collected Papers, Volume II: Collected Essays*, New York: Barnes and Noble.
 

@@ -533,4 +533,4 @@ Aquinas, Thomas | Aristotle, General Topics: rhetoric | Augustine of Hippo | Cic
 
 [^gibson-1961]: Gibson, R. W., 1961, *St. Thomas More: A Preliminary Bibliography of His Works and of Moreana to the Year 1750*, New Have, CT: Yale University Press
 
-[^smith-1981]: Smith, Constance, 1981, An Updating of R. W. Gibson’s St. Thomas More: A Preliminary Bibliography, St. Louis, MO: Center for Reformation Research
+[^smith-1981]: Smith, Constance, 1981, *An Updating of R. W. Gibson’s St. Thomas More: A Preliminary Bibliography*, St. Louis, MO: Center for Reformation Research

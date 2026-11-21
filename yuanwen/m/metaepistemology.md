@@ -156,7 +156,7 @@ Putting this together, Sturgeon’s contention is that a granularity/methodology
 | *Informal* | Informal work on belief and its revision (A) | Informal work on rational confidence and its revision (B) |
 | *Formal* | Formal work on rational belief and its revision (C) | Formal work on rational confidence and its revision (D) |
 
-*Table 1* (Sturgeon 2020: 2)[^sturgeon-2020]
+\*Table 1\* (Sturgeon 2020: 2)[^sturgeon-2020]
 
 If the epistemology of belief includes both informal (A) and formal (C) approaches, and the epistemology of credence also admits of formal (D) and informal approaches (B), we can envision how this might differently frame the “credence-first” versus “belief-first” debate described above. For one thing, this wider option space would invite us to ask whether (under the credence-first slogan) we should think of cells B and D as more fundamental than work in cells A and C, or rather, just that work in cell D is more fundamental than work in cell A. Likewise, the wider option space invites us to consider whether (under the belief-first slogan) we should think of cells A and C as more fundamental than work in cells B and D, or rather, just that work in cell A is more fundamental than work in cell D.
 

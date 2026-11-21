@@ -371,7 +371,7 @@ Most observed *A*s are *B*s.
 
 Therefore, it is not the case that most *A*s are *B*s.
 
-Consider then the following argument CI*:
+Consider then the following argument CI\*:
 
 Most CI arguments have been unsuccessful
 

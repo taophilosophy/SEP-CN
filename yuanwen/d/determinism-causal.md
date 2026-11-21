@@ -111,7 +111,7 @@ A simple and very important example of a chaotic system in both randomness and S
 
 ![Billiard table with convex obstacle](../assets/determinism-causal/billiard3.jpg)
 
-*Figure 1:* Billiard table with convex obstacle
+\*Figure 1:\* Billiard table with convex obstacle
 
 The usual idealizing assumptions are made: no friction, perfectly elastic collisions, no outside influences. The ball’s trajectory is determined by its initial position and direction of motion. If we imagine a *slightly* different initial direction, the trajectory will at first be only slightly different. And collisions with the straight walls will not tend to increase very rapidly the difference between trajectories. But collisions with the convex object will have the effect of *amplifying* the differences. After several collisions with the convex body or bodies, trajectories that started out very close to one another will have become wildly different—SDIC.
 
@@ -142,13 +142,13 @@ Despite the common belief that classical mechanics (the theory that inspired Lap
 
 ![object accelerates to reach infinity](../assets/determinism-causal/disappearer.jpg)
 
-*Figure 2:* An object accelerates so as to reach spatial infinity in a finite time
+\*Figure 2:\* An object accelerates so as to reach spatial infinity in a finite time
 
 By the time *t = t\**, the object has literally disappeared from the world—its world-line never reaches the *t = t\** surface. (Never mind how the object gets accelerated in this way; there are mechanisms that are perfectly consistent with classical mechanics that can do the job. In fact, Xia (1992)[^xia-1992] showed that such acceleration can be accomplished by gravitational forces from only 5 finite objects, without collisions. No mechanism is shown in these diagrams.) This “escape to infinity,” while disturbing, does not yet look like a violation of determinism. But now recall that classical mechanics is time-symmetric: any model has a time-inverse, which is also a consistent model of the theory. The time-inverse of our escaping body is playfully called a “space invader.”
 
 ![space invader comes from infinity](../assets/determinism-causal/space-invader.jpg)
 
-*Figure 3:* A ‘space invader’ comes in from spatial infinity
+\*Figure 3:\* A ‘space invader’ comes in from spatial infinity
 
 Clearly, a world with a space invader does fail to be deterministic. Before *t = t\**, there was nothing in the state of things to enable the prediction of the appearance of the invader at *t* = *t\* +*.[^note-3] One might think that the infinity of space is to blame for this strange behavior, but this is not obviously correct. In finite, “rolled-up” or cylindrical versions of Newtonian space-time space-invader trajectories can be constructed, though whether a “reasonable” mechanism to power them exists is not clear.[^note-4]
 
@@ -160,7 +160,7 @@ In supertasks, one frequently encounters infinite numbers of particles, infinite
 
 ![Norton's dome](../assets/determinism-causal/dome_with_eqn.gif)
 
-*Figure 4:* A ball may spontaneously start sliding down this dome, with no violation of Newton’s laws. (Reproduced courtesy of John D. Norton and *Philosopher’s Imprint)*
+\*Figure 4:\* A ball may spontaneously start sliding down this dome, with no violation of Newton’s laws. (Reproduced courtesy of John D. Norton and *Philosopher’s Imprint)*
 
 Finally, an elegant example of apparent violation of determinism in classical physics has been created by John Norton (2003)[^norton-2003]. As illustrated in Figure 4, imagine a ball sitting at the apex of a frictionless dome whose equation is specified as a function of radial distance from the apex point. This rest-state is our initial condition for the system; what should its future behavior be? Clearly one solution is for the ball to remain at rest at the apex indefinitely.
 
@@ -176,13 +176,13 @@ Defining an appropriate form of determinism for the context of general relativis
 
 #### 4.3.1 Determinism and manifold points
 
-In GTR, we specify a model of the universe by giving a triple of three mathematical objects, <M, **g**,**T**>. *M* represents a continuous “manifold”: that means a sort of unstructured space (-time), made up of individual points and having smoothness or continuity, dimensionality (usually, 4-dimensional), and global topology, but no further structure. What is the further structure a space-time needs? Typically, at least, we expect the time-direction to be distinguished from space-directions; and we expect there to be well-defined distances between distinct points; and also a determinate *geometry* (making certain continuous paths in *M* be straight lines, etc.). All of this extra structure is coded into **g**, the metric field. So *M* and **g** together represent space-time. **T** represents the matter and energy content distributed around in space-time (if any, of course).
+In GTR, we specify a model of the universe by giving a triple of three mathematical objects, <*M, **g**,**T***>. *M* represents a continuous “manifold”: that means a sort of unstructured space (-time), made up of individual points and having smoothness or continuity, dimensionality (usually, 4-dimensional), and global topology, but no further structure. What is the further structure a space-time needs? Typically, at least, we expect the time-direction to be distinguished from space-directions; and we expect there to be well-defined distances between distinct points; and also a determinate *geometry* (making certain continuous paths in *M* be straight lines, etc.). All of this extra structure is coded into **g**, the metric field. So *M* and **g** together represent space-time. **T** represents the matter and energy content distributed around in space-time (if any, of course).
 
 For mathematical reasons not relevant here, it turns out to be possible to take a given model spacetime and perform a mathematical operation called a “hole diffeomorphism” *h\** on it; the diffeomorphism’s effect is to shift around the matter content **T** and the metric **g** relative to the continuous manifold *M*.[^note-6] If the diffeomorphism is chosen appropriately, it can move around **T** and **g** after a certain time *t = 0*, but leave everything alone before that time. Thus, the new model represents the matter content (now *h\** **T**) and the metric (*h\****g**) as differently located relative to the points of *M* making up space-time. Yet, the new model is also a perfectly valid model of the theory. This looks on the face of it like a form of indeterminism: GTR’s equations do not specify how things will be distributed in space-time in the future, even when the past before a given time *t* is held fixed. See Figure 5:
 
 ![Holediffeomorphismshifts contents of spacetime](../assets/determinism-causal/hole-diffeo-new.jpg)
 
-*Figure 5:* “Hole” diffeomorphism shifts contents of spacetime
+\*Figure 5:\* “Hole” diffeomorphism shifts contents of spacetime
 
 Usually the shift is confined to a finite region called *the hole* (for historical reasons). Then it is easy to see that the state of the world at time *t = 0* (and all the history that came before) does not suffice to fix whether the future will be that of our first model, or its shifted counterpart in which events inside the hole are different.
 

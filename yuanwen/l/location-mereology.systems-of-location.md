@@ -174,10 +174,10 @@ It is tempting to suggest that Suzy is plurally pervasively located at the fusio
 
 Finally, consider Nested Multilocation. Here System 5 offers us no help. The desired result was that a single thing, Clifford (which is identical to Odie), is exactly located at two regions, one of which is a proper part of the other. This is immediately ruled out by (DS5.1). The table below sums up the results.
 
-| *System* | Pointy objects in gunky space | Almond in the void | Time traveling Suzy | Nested multilocation |
+| *System* | *Pointy objects in gunky space* | *Almond in the void* | *Time traveling Suzy* | *Nested multilocation* |
 | --- | --- | --- | --- | --- |
 | 1. *Prim. Exact Loc.* | No | No | Yes | Yes |
-| 2. Prim. Weak Loc., Parsons-style | Yes | No | No | No |
-| 3. Prim. Weak Loc., Eagle-style | Yes | No | Problematic | No |
+| 2. *Prim. Weak Loc., Parsons-style* | Yes | No | No | No |
+| 3. *Prim. Weak Loc., Eagle-style* | Yes | No | Problematic | No |
 | 4. *Prim. Entire Loc.* | Yes | No | Yes | No |
-| 5. Prim. Plural Pervasive Loc. | Yes | Yes | Yes | No |
+| 5. *Prim. Plural Pervasive Loc.* | Yes | Yes | Yes | No |

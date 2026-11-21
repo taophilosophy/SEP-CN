@@ -67,7 +67,7 @@ For glutty humble connexivity, Kapsner’s assumes a many-valued semantics with 
 
 > Glutty humble AT, AT′: For any satisfiable ~*A*, resp. *A* that does not take value **B**, ~(~*A* → *A*), resp. ~(*A* → ~*A*) takes a designated value.
 > Glutty humble BT, BT′: For any satisfiable *A*, *B*, and *A* → *B*, reps. *A*, ~*B*, and *A* → ~*B* that do not take value **B**, (*A* → *B*) → ~(*A* → ~*B*), resp. (*A* → ~*B*) → ~(*A* → *B*) takes a designated value.
-> Glutty humble UnSat1: In no model, ~*A* → *A*, resp. *A → ~**A* is satisfiable (for any satisfiable ~*A*, resp. *A* that does not take value **B**).
+> Glutty humble UnSat1: In no model, ~*A* → *A*, resp. *A → ~A* is satisfiable (for any satisfiable ~*A*, resp. *A* that does not take value **B**).
 > Glutty humble Unsat2: In no model, *A* → *B* and *A* → ~*B* are simultaneously satisfiable (for any satisfiable *A*, *B* that do not take value **B**).
 
 Kapsner’s conditions for paraconsistent humble connexivity make use of conjunction and disjunction in the object language:

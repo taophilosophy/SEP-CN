@@ -253,13 +253,13 @@ This process of manufacturing new identities from old is called *deduction*. Any
 
 An *equational theory* is a deductively closed set of equations, equivalently the set of all consequences of some set $A$ of equations. Every theory always has itself as its own axiomatization, but it will usually also have smaller axiomatizations. A theory that has a finite axiomatization is said to be *finitely based* or *finitely axiomatizable*.
 
-**Effectiveness.** Finitely based theories can be effectively enumerated. That is, given a finite set $A$ of equations, one can write a computer program that prints consequences of $A$ for ever in such a way that every consequence of $A$ will appear at some finite position in the infinite list of all consequences. The same conclusion obtains when we weaken the requirement that $A$ be finite to merely that it can be effectively enumerated. That is, if the axiomatization is effectively enumerable so is its deductive closure.
+***Effectiveness.*** Finitely based theories can be effectively enumerated. That is, given a finite set $A$ of equations, one can write a computer program that prints consequences of $A$ for ever in such a way that every consequence of $A$ will appear at some finite position in the infinite list of all consequences. The same conclusion obtains when we weaken the requirement that $A$ be finite to merely that it can be effectively enumerated. That is, if the axiomatization is effectively enumerable so is its deductive closure.
 
 (In reconciling the finite with the infinite, bear in mind that if we list all the natural numbers 0, 1, 2, … in order, we obtain an infinite list every member of which is only finitely far from the beginning, and also has a well-defined predecessor (except for 0) and successor. Only if we attempt to pad this list out at the “end” with infinite numbers does this principle break down.
 
 One way to visualize there being an “end” that could have more elements beyond it is to consider the rationals of the form $1/n$ for all nonzero integers $n$, in increasing order. This list starts out $-1/1, -1/2, -1/3,\ldots$ and after listing infinitely many negative rationals of that form, with no greatest such, switches over to positive rationals, with no first such, finally ending with 1/3, 1/2, 1/1. The entire list is discrete in the sense that every rational except the endpoints $-1/1$ and 1/1 has a well-defined predecessor and successor in this subset of the rationals, unlike the situation for the set of all rationals between $-1/1$ and $1/1$. This would no longer be the case were we to introduce the rational 0 “in the middle”, which would have neither a predecessor nor a successor.)
 
-**Equational Logic.** Our informal account of deduction can be formalized in terms of five rules for producing new identities from old. In the following, $s$ and $t$ denote arbitrary terms.
+***Equational Logic.*** Our informal account of deduction can be formalized in terms of five rules for producing new identities from old. In the following, $s$ and $t$ denote arbitrary terms.
 
 (*R*1)
 

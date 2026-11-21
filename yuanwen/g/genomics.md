@@ -339,7 +339,7 @@ See Graur 2013, for more on the history of the term ‘junk DNA’.
 
 [^barnes-2008]: Barnes, Barry and John Dupré, 2008, *Genomes and What to Make of Them*, Chicago: University of Chicago Press.
 
-[^bennett-2005]: Bennett, Simon T., Colin Barnes, Anthony Cox, Lisa Davies, and Clive Brown, 2005, “Toward the $1000 Human Genome”, *Pharmacogenomics*, 6(4): 373–382. doi:10.1517/14622416.6.4.373
+[^bennett-2005]: Bennett, Simon T., Colin Barnes, Anthony Cox, Lisa Davies, and Clive Brown, 2005, “Toward the \$1000 Human Genome”, *Pharmacogenomics*, 6(4): 373–382. doi:10.1517/14622416.6.4.373
 
 [^bickmore-2013]: Bickmore, Wendy A. and Bas van Steensel, 2013, “Genome Architecture: Domain Organization of Interphase Chromosomes”, *Cell*, 152(6): 1270–1284. doi:10.1016/j.cell.2013.02.001
 
@@ -375,9 +375,9 @@ See Graur 2013, for more on the history of the term ‘junk DNA’.
 
 [^check-2010]: Check Hayden, Erica, 2010, “Human Genome at Ten: Life is Complicated”, *Nature*, 464(7289): 664–667. doi:10.1038/464664a
 
-[^check-2014a]: –––, 2014a, “Is the $1,000 Genome for Real?” *Nature News*, (15 January 2014) doi:10.1038/nature.2014.14530.
+[^check-2014a]: –––, 2014a, “Is the \$1,000 Genome for Real?” *Nature News*, (15 January 2014) doi:10.1038/nature.2014.14530.
 
-[^check-2014b]: –––, 2014b, “The $1,000 Genome”, *Nature*, 507(7492): 294–5. doi:10.1038/507294a
+[^check-2014b]: –––, 2014b, “The \$1,000 Genome”, *Nature*, 507(7492): 294–5. doi:10.1038/507294a
 
 [^clark-2013]: Clark, Michael B., Anupma Choudhary, Martin A. Smith, Ryan J. Taft, and John S. Mattick, 2013, “The Dark Matter Rises: the Expanding World of Regulatory RNAs”, *Essays in Biochemistry*, 54: 1–16. doi:10.1042/bse0540001
 
@@ -593,7 +593,7 @@ See Graur 2013, for more on the history of the term ‘junk DNA’.
 
 [^luria-1989]: Luria, S.E., Dan M. Cooper, and Ari Berkowitz, 1989, “Human Genome Project”, *Science*, 246(4932):873–874. doi:10.1126/science.246.4932.873-b doi:10.1126/science.246.4932.873-d doi:10.1126/science.2814503
 
-[^mardis-2006]: Mardis, Elaine R., 2006, “Anticipating the $1,000 Genome”, *Genome Biology*, 7(7): 112. doi:10.1186/gb-2006-7-7-112
+[^mardis-2006]: Mardis, Elaine R., 2006, “Anticipating the \$1,000 Genome”, *Genome Biology*, 7(7): 112. doi:10.1186/gb-2006-7-7-112
 
 [^mardis-2011]: –––, 2011, “A Decade’s Perspective on DNA Sequencing Technology”, *Nature*, 470(7333): 198–203. doi:10.1038/nature09796
 
@@ -657,7 +657,7 @@ See Graur 2013, for more on the history of the term ‘junk DNA’.
 
 [^perini-2011]: Perini, Laura, 2011, “Sequence Matters: Genomic Research and the Gene Concept”, *Philosophy of Science*, 78(5): 752–762. doi:10.1086/662565
 
-[^phillips-2015]: Phillips, Kathryn A., Mark J. Pletcher, and Uri Ladabaum, 2015, “Is the ‘$1000 Genome’ Really $1000? Understanding the Full Benefits and Costs of Genomic Sequencing”, *Technology and Health Care: Official Journal of the European Society for Engineering and Medicine*, 23(3): 373–379.
+[^phillips-2015]: Phillips, Kathryn A., Mark J. Pletcher, and Uri Ladabaum, 2015, “Is the ‘\$1000 Genome’ Really \$1000? Understanding the Full Benefits and Costs of Genomic Sequencing”, *Technology and Health Care: Official Journal of the European Society for Engineering and Medicine*, 23(3): 373–379.
 
 [^pigliucci-2003]: Pigliucci, Massimo and Jonathan Kaplan, 2003, “On the Concept of Biological Race and Its Applicability to Humans”, *Philosophy of Science*, 70(5): 1161–1172. doi:10.3233/THC-150900
 

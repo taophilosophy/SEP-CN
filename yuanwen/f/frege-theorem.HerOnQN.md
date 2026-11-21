@@ -12,7 +12,7 @@ $\mathit{HerOn}(Q,N)$
 
 The proof of this claim appeals to the following Lemma (cf. **Gg** I, Theorem 149):
 
-Lemma on *Predecessor*$^+$: $$\begin{align*} &Nx \amp \mathit{Precedes}(y,x) \rightarrow \\ &\quad \#[\lambda z \, \mathit{Precedes}^{+}(z,y)] = \#[\lambda z \, \mathit{Precedes}^{+}(z,x)\amp z\neq x] \end{align*}$$
+**Lemma on *Predecessor*$^+$**: $$\begin{align*} &Nx \amp \mathit{Precedes}(y,x) \rightarrow \\ &\quad \#[\lambda z \, \mathit{Precedes}^{+}(z,y)] = \#[\lambda z \, \mathit{Precedes}^{+}(z,x)\amp z\neq x] \end{align*}$$
 
 ([Proof of the Lemma on *Predecessor*$\,^{+}$](frege-theorem.LemPred.md))
 

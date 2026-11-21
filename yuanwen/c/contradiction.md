@@ -45,7 +45,7 @@ The same relations obtain for modal propositions, for propositions involving bin
 
 ![A square with the upper-left point A labeled 'a must F'/Box-Phi, the upper-right point E labeled 'a cant F'/Box-Not-Phi-iff-Not-Diamond-Phi, the lower-left point I labeled 'a may F'/Diamond-Phi, and the lower-right point O labeled 'a neednt F'/Not-Box-Phi-iff-Diamond-Not-Phi. A bidirectional arrow between A and E is labeled 'contraries'; a bidirectional arrow between I and O is labeled 'subcontraries'. An arrow down from A to I is labeled 'entails'; and arrow down from E to O is labeled 'entails'. Undirected line segments from A to O and from E to I cross in the center of the square and are labeled 'contradictories'.](../assets/contradiction/modal.jpg)
 
-*Figure 1.* Modal Square
+\*Figure 1.\* Modal Square
 
 In the twelfth century, Peter of Spain (1972: 7) offers a particularly elegant formulation in his *Tractatus*; it will be seen that these apply to the modal propositions in Figure 1 as well as to the quantificational statements in the original square:
 
@@ -121,7 +121,7 @@ In addition to predicate denial, in which a predicate $F$ is denied of a subject
 
 ![A square with the upper-left point A labeled 'S is P', the upper-right point E labeled 'S is not-P', the lower-left point I labeled 'S isnt not-P', and the lower-right point O labeled 'S isnt P'. A bidirectional arrow between A and E is labeled 'contraries'; a bidirectional arrow between I and O is labeled 'subcontraries'. An arrow down from A to I is labeled 'entails'; and arrow down from E to O is labeled 'entails'. Undirected line segments from A to O and from E to I cross in the center of the square and are labeled 'contradictories'.](../assets/contradiction/negation-square.jpg)
 
-*Figure 2.* Negation Square
+\*Figure 2.\* Negation Square
 
 If Socrates doesn’t exist, “Socrates is wise” $(A)$ and its contrary “Socrates is not-wise” $(E)$ are both automatically false (since nothing—positive or negative—can be truly affirmed of a non-existent subject), while their respective contradictories “Socrates is not wise” $(O)$ and “Socrates is not not-wise” $(I)$ are both true. Similarly, for any object $x$, either $x$ is red or $x$ is not red—but $x$ may be neither red nor not-red; if, for instance, $x$ is a unicorn or a prime number.
 
@@ -332,10 +332,10 @@ While these may appear contradictory, that diagnosis relies on the status of *S 
 
 A less, or perhaps differently, mediated case of coherence in apparent contradictories involves prosody, such as “He isn’t rich, he’s RICH”, from Geurts (2010: 186)[^geurts-2010]. In this construction, the hearer/reader must directly reconcile LNC with the joint predication of $A$ and *not A* rather than the more complex *not A and not not A*. But on closer examination, the task is less daunting than it appears, as it’s really a matter of affirming $A$ while rejecting $\boldsymbol{A},$ or of metalinguistically rejecting $A$ in favor of $\boldsymbol{A}$:
 
-- “Rita”, he whispered. “I’m tired.” And the way he said the word, she understood. He wasn’t tired, he was *tired*$,$ a condition of the mind as well as the body. A state of the soul. [Lisa Gardner, 2008, *Say Goodbye*, p. 151]
-- “Walt Davies **doesn’t just have property. He has** **property**.” [Lisa Gardner, 2020, *When You See Me*, p. 171]
+- “Rita”, he whispered. “I’m tired.” And the way he said the word, she understood. **He wasn’t tired, he was *tired***$,$ a condition of the mind as well as the body. A state of the soul. [Lisa Gardner, 2008, *Say Goodbye*, p. 151]
+- “Walt Davies **doesn’t just have property. He has** ***property**.*” [Lisa Gardner, 2020, *When You See Me*, p. 171]
 - **It’s not hot, it’s HOT**. Dangerously and uncomfortably hot... (PhuketBigdaddy’s comment on TripAdvisor re July temperatures in Oman) [see PhuketBigdaddy, 2019 in Other Internet Resources]
-- I’m short. **Not SHORT, but short**. I’m $5'8''$ (on a good day) with a $30''$ inseam. [see Motorcycle Forum, 2007 in Other Internet Resources]
+- I’m short. ***Not SHORT, but short***. I’m $5'8''$ (on a good day) with a $30''$ inseam. [see Motorcycle Forum, 2007 in Other Internet Resources]
 
 The prosodic or orthographic focus in such cases invokes a scalar contrast in degrees or qualities of A-ness; the result is analogous to instances in which a descriptor is contrasted with a clone (Horn 2018)[^horn-2018] or contrastive focus reduplication (Ghomeshi et al. 2004) of the same descriptor, yielding variants of the true borderline contradictions discussed in §6.
 

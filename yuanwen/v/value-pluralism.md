@@ -113,7 +113,7 @@ However, the initial question was whether the monist has succeeded in explaining
 
 Another promising strategy that the monist can use in order to explain the complexity in our value choices is the appeal to ‘diminishing marginal value’. The value that is added to the sum by a source of value will tend to diminish after a certain point—this phenomenon is known as diminishing marginal value (or, sometimes, diminishing marginal utility). Mill’s higher and lower pleasures, which seem to be plural values, might be accommodated by the monist in this way. The monist makes sense of discontinuities in value by insisting on the distinction between sources of value, which are often ambiguously referred to as ‘values’, and the super value. Using a monist utilitarian account of value, we can distinguish between the non-evaluative description of options, the intermediate description, and the evaluative description as follows:
 
-| Non-evaluative description of option | Intermediate description of option | Evaluative description of option |   |   |
+| *Non-evaluative description of option* | *Intermediate description of option* | *Evaluative description of option* |   |   |
 | --- | --- | --- | --- | --- |
 | Painting a picture | → | Producing *x* units of beauty | → | Producing *y* units of value |
 | Reading a book | → | Producing *x* units of knowledge | → | Producing *y* units of value |

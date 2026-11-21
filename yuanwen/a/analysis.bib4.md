@@ -313,12 +313,12 @@ This section of the bibliography corresponds to Section 4 of the main entry, and
 - ––– 2001, *The Word and the World: India*’*s Contribution to the Study of Language*, New Delhi: Oxford University Press; 1st edn. 1990
 - ––– 2005, *Epistemology, Logic, and Grammar in Indian Philosophical Analysis*, 2nd edn., ed. J. Ganeri, Oxford: Oxford University Press; 1st edn. 1971
 - Matilal, Bimal Krishna and Arindam Chakrabarti, (eds.), 1994, *Knowing from Words*, Dordrecht: Kluwer
-- Mohanty, J. N., 1966, *Gaṅgeśa**’s Theory of Truth*, Santiniketan: Visva-Bharati
+- Mohanty, J. N., 1966, *Gaṅgeśa’s Theory of Truth*, Santiniketan: Visva-Bharati
 - Pāṇini, 1954, *Aṣṭādhyāyī-sūtrapatha*, Bombay: Nirnayasagar
 - Perrett, Roy W., 2016, *An Introduction to Indian Philosophy*, Cambridge: Cambridge University Press [ch. 2: ‘Knowledge’; ch. 3: ‘Reasoning’; ch. 4: ‘Word’]
 - Phillips, Stephen H., 2012, *Epistemology in Classical India: The Knowledge Sources of the Nyāya School*, London: Routledge
 - Potter, Karl H., (ed.), 1978, *Indian Metaphysics and Epistemology: The Tradition of Nyāya-Vaiśeṣika up to Gaṅgeśa*, Encyclopedia of Indian Philosophies, Vol. 2, Princeton: Princeton University Press
-- Potter, Karl H. and Sibajiban Bhattacharya, (eds.), 1992, *Indian Philosophical Analysis: Nyāya-Vaiśeṣika from Gaṅgeśa to Raghunātha Siromaṇ**i*, Encyclopedia of Indian Philosophies, Vol. 6, Princeton: Princeton University Press
+- Potter, Karl H. and Sibajiban Bhattacharya, (eds.), 1992, *Indian Philosophical Analysis: Nyāya-Vaiśeṣika from Gaṅgeśa to Raghunātha Siromaṇi*, Encyclopedia of Indian Philosophies, Vol. 6, Princeton: Princeton University Press
 - Siderits, Mark, 1991, *Indian Philosophy of Language*, Dordrecht: Kluwer [ch. 3: sense/reference distinction; ch. 4: empty terms]
 - Staal, Frits, 1973,‘The Concept of *Pakṣa* in Indian Logic’, *Journal of Indian Philosophy,* 2: 156–66
 - Vaidya, Anand, 2020, ‘*Arthāpatti*: An Anglo-Indo-Analytic Attempt at Cross-Cultural Conceptual Engineering’, in Keating 2020, pp. 311–32

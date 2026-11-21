@@ -57,7 +57,7 @@ The boy who is next to the table is unusual.
 
 **(2)**
 
-* The book who is next to the table is unusual.
+\* The book who is next to the table is unusual.
 
 **(3)**
 
@@ -65,7 +65,7 @@ The book which is next to the table is unusual.
 
 **(4)**
 
-* The boy which is next to the table is unusual.
+\* The boy which is next to the table is unusual.
 
 According to Chomsky, while (1) and (3) are grammatical, (2) and (4) are not. But in order to account for this difference, it looks like we need to incorporate something like the selectional features ‘+/-animate’ into syntax. And, the argument goes, once such features have already been incorporated into syntax, a natural account of the infelicity of category mistakes follows.
 
@@ -73,7 +73,7 @@ However, even if Chomsky’s who/which argument succeeds in showing that syntax 
 
 **(5)**
 
-* Ani botzer et ha-tamrim.
+\* Ani botzer et ha-tamrim.
 
 
 
@@ -81,7 +81,7 @@ I am grape-picking the dates.
 
 **(6)**
 
-* Ani gorev et ha-kfafot.
+\* Ani gorev et ha-kfafot.
 
 
 
@@ -93,7 +93,7 @@ There are also some more direct objections to the syntactic approach. One issue 
 
 **(7)**
 
-* John said that rides boy the on.
+\* John said that rides boy the on.
 
 **(8)**
 
@@ -101,7 +101,7 @@ John said that the number two is green.
 
 **(9)**
 
-* John dreamt that rides boy the on.
+\* John dreamt that rides boy the on.
 
 **(10)**
 
@@ -331,7 +331,7 @@ The presuppositional account of category mistakes maintains that category mistak
 
 **(32)**
 
-* The number two isn’t green.
+\* The number two isn’t green.
 
 **(33)**
 
@@ -345,7 +345,7 @@ Note that (32) is just as odd as the original category mistake. By contrast, whi
 
 **(35)**
 
-* The number two is green and Lisbon is the capital of France.
+\* The number two is green and Lisbon is the capital of France.
 
 So far, we have sketched the presuppositional account in very general terms. However, there are a variety of different ways to develop the account. A first key question is how presupposition failure affects the truth-value of a sentence. Category mistakes aside, the literature on presupposition is split between views which maintain that sentences suffering from presupposition failure are truth-valueless, and those that maintain that while presupposition failure leads to infelicity, such sentences are nevertheless truth-valued. The former approach maintains that ‘The king of France is bald’ is truth-valueless, while the latter deems it to be infelicitous but false.
 
@@ -431,19 +431,19 @@ There are a wide variety of accounts of how copredication sentences succeed in e
 
 **(44)**
 
-* The football game was delicious.
+\* The football game was delicious.
 
 **(45)**
 
-* The sandwich took place on Tuesday.
+\* The sandwich took place on Tuesday.
 
 **(46)**
 
-* The statue is verbose.
+\* The statue is verbose.
 
 **(47)**
 
-* The number two is on the shelf.
+\* The number two is on the shelf.
 
 Attempting to apply the predicate ‘is delicious’ to the event ‘the football game’ results in a category mistake, as does attempting to apply ‘took place on Tuesday’ to a portion of food such as the sandwich. Similarly, attempting to apply ‘is verbose’ to an ordinary concrete object such as the statue results in a category mistake, as does ascribing ‘is on the shelf’ to an abstract object such as the number two. This puts additional pressure on explaining why (42) and (43) do not result in category mistakes.
 

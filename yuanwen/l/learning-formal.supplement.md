@@ -10,7 +10,7 @@ The purpose of this supplement is a concise, formal development of the basic not
 
 ![natural projection rule: link to extended description below](../assets/learning-formal/natural.jpg)
 
-*Figure 3* [An extended description of figure 3 is in a supplement.]
+\*Figure 3\* [An extended description of figure 3 is in a supplement.]
 
 ### Evidence, Hypotheses and Discovery Problems
 

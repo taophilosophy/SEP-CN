@@ -203,15 +203,15 @@ Donald buttered the toast.
 
 Davidson suggested that the best way to account for these inferential relations is to assume that at the level of logical form these sentences quantify over events. So understood, the logical form of (3)–(5) would be as follows:[^note-6]
 
-(3*)
+(3\*)
 
 $\exists x(\textrm{Buttering}(x) \amp \textrm{By}(x, \textrm{Donald}) \amp \textrm{Object}(x, \textrm{toast})\ \amp $ $\textrm{Location}(x, \textrm{bathroom}) \amp \textrm{Time}(x, \textrm{12am}))$
 
-(4*)
+(4\*)
 
 $\exists x(\textrm{Buttering}(x) \amp \textrm{By}(x, \textrm{Donald}) \amp \textrm{Object}(x, \textrm{toast})\ \amp$ $\textrm{Location}(x, \textrm{bathroom}))$
 
-(5*)
+(5\*)
 
 $\exists x(\textrm{Buttering}(x) \amp \textrm{By}(x, \textrm{Donald}) \amp \textrm{Object}(x, \textrm{toast}))$
 
@@ -287,11 +287,11 @@ The man caused the poisoning of the inhabitants by moving his hands.
 
 We can paraphrase them using gerundival expressions as follows:
 
-(12*)
+(12\*)
 
 The man’s moving of his hands happened before the poisoning of the inhabitants.
 
-(13*)
+(13\*)
 
 The man’s moving of his hands caused the poisoning of the inhabitants.
 
@@ -313,7 +313,7 @@ The man’s moving of his hands caused his moving of his hands.
 
 It is natural to think that (14) is the culprit; but to hold that claims such as (14) are false seems to amount to rejecting the coarse-grained view of action individuation.
 
-One possible response would be to hold that the contexts ⌜φ happens* before ψ⌝ and ⌜φ causes* ψ⌝ (the * marks tenselessness) are intensional in the φ and ψ positions (Anscombe 1969)[^anscombe-1969]. If so, substitution of co-referents may change truth value in these contexts. Alternatively, one could attempt to explain these results pragmatically: the sentences sound odd in the same way as it sounds odd to say that “a man married his widow”, even though it is true (the man married her *before* she was a widow, of course!) (cf. Anscombe 1979)[^anscombe-1979]. However, these are controversial semantic theses (for further intensionalist treatments, see Achinstein 1975; McDermott 1995; Wasserman 2004; for extensionalist treatments, see e.g., Davidson 1967a; Strawson 1985; Rosenberg and Martin 1979; Schaffer 2005; for an excellent review of research on causal contexts more generally, including pragmatic effects, see Swanson 2012).
+One possible response would be to hold that the contexts ⌜φ happens\* before ψ⌝ and ⌜φ causes\* ψ⌝ (the \* marks tenselessness) are intensional in the φ and ψ positions (Anscombe 1969)[^anscombe-1969]. If so, substitution of co-referents may change truth value in these contexts. Alternatively, one could attempt to explain these results pragmatically: the sentences sound odd in the same way as it sounds odd to say that “a man married his widow”, even though it is true (the man married her *before* she was a widow, of course!) (cf. Anscombe 1979)[^anscombe-1979]. However, these are controversial semantic theses (for further intensionalist treatments, see Achinstein 1975; McDermott 1995; Wasserman 2004; for extensionalist treatments, see e.g., Davidson 1967a; Strawson 1985; Rosenberg and Martin 1979; Schaffer 2005; for an excellent review of research on causal contexts more generally, including pragmatic effects, see Swanson 2012).
 
 A different response is suggested by the view that actions are processes. That view enables us to treat action descriptions as sometimes characterizing the different stages of the action (cf. Russell 2018)[^russell-2018]. Then, appealing to Anscombe’s insight that we should treat claims about actions in parallel with claims about persons, we could say that the moving of one’s hands precedes and causes the poisoning in an analogous way as the acorn precedes and causes the oak. But just as there is a single organism in the latter case, there is a single action in the former, even though it seems at best paradoxical to say that I caused myself to exist, or that the oak caused the acorn.
 

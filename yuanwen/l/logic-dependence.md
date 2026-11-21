@@ -77,7 +77,7 @@ For example, suppose that $X$ is a set of assignments over the three variables $
 
 $$\begin{array}{l | c c c} \textbf{assignment}& \mathbf{x_1} & \mathbf{x_2} & \mathbf{y}\\ \hline s_0 & 0 & 0 & 0 \\ s_1 & 0 & 1 & 1 \\ s_2 & 1 & 0 & 1 \\ s_3 & 1 & 1 & 2 \end{array}$$
 
-*Table 1:* A team $X$ in which $y = x_1 + x_2$. Here $y$ is a function of $x_1$ and $x_2$, and hence $=\!\!(x_1 x_2, y)$ holds; however, $y$ is not a function of $x_1$ alone, so $=\!\!(x_1, y)$ does not hold.
+\*Table 1:\* A team $X$ in which $y = x_1 + x_2$. Here $y$ is a function of $x_1$ and $x_2$, and hence $=\!\!(x_1 x_2, y)$ holds; however, $y$ is not a function of $x_1$ alone, so $=\!\!(x_1, y)$ does not hold.
 
 Under the same interpretation, the rules for first-order literals and conjunctions (for simplicity, we will assume that our expressions are in negation normal form; and, as is customary, we will assume that the negations of dependence atoms are never satisfied) are easy to derive:
 
@@ -95,7 +95,7 @@ where $s' \sim_v s$ means that the two assignments $s$ and $s'$ differ from each
 
 $$ X= \begin{array}{l | c} \textbf{assignment} & x\\ \hline s_0 & 0\\ s_1 & 1 \end{array} \Rightarrow X[M/y]= \begin{array}{l | c | c} \textbf{assignment} & x & y\\ \hline s'_0 & 0 & 0\\ s'_1 & 0 & 1\\ s'_2 & 1 & 0\\ s'_3 & 1 & 1 \end{array}$$
 
-*Table 2:* $X$ and $X[M/y]$ in a model with two elements $0$ and $1$.
+\*Table 2:\* $X$ and $X[M/y]$ in a model with two elements $0$ and $1$.
 
 Let us now consider disjunction. When should $\phi \lor \psi$ hold? To answer this, let us recall—once again—that teams can be understood as sets of possible states of things, and that therefore the union of two teams $Y$ and $Z$ represents all states of things which may occur if $Y$ or $Z$ is the case. Therefore, if the two formulas *φ* and *ψ* are satisfied by the set of teams $\{Y_1 \ldots Y_n, \ldots\}$ and $\{Z_1 \ldots Z_n, \ldots\}$ respectively, their disjunction $\phi \lor \psi$ should be satisfied by the set of teams $\{Y_i \cup Z_j : i,j \in 1, \ldots\}$, or, equivalently,
 
@@ -115,7 +115,7 @@ It is worth pointing out here that it is not in general required by the above de
 
 $$ X= \begin{array}{l | c} \textbf{assignment} & x\\ \hline s_0 & 0\\ s_1 & 1 \end{array} \Rightarrow X[F/y]= \begin{array}{l | c | c} \textbf{assignment} & x & y\\ \hline s'_0 & 0 & 0\\ s'_1 & 0 & 1\\ s'_2 & 1 & 0 \end{array}$$
 
-*Table 3:* $X$ and $X[F/y]$ for $F(s_0) = \{0,1\}$, $F(s_1) = \{0\}$
+\*Table 3:\* $X$ and $X[F/y]$ for $F(s_0) = \{0,1\}$, $F(s_1) = \{0\}$
 
 We will postpone an in-depth discussion of the properties of dependence logic to after the specification of its game-theoretic semantics. However, we conclude this section with the following three important consequences of the above-given rules:
 

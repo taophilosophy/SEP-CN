@@ -221,7 +221,7 @@ Abelard [Abailard], Peter | John of Salisbury | syllogism: medieval theories of 
 
 [^sententiae-1958]: *Sententiae* (Sen), ed. Lottin 1958 vol V: 190-227; Lefevre 1898 (references above are to Lottin 1958)
 
-[^several-1993]: Several of William's commentaries have been identified, although in some cases the attribution is tentative. (Numbers P*, C*, H* and B*, are those assigned in the list of commentaries in Marenbon 1993 and 2000, and Green-Pedersen 1984.)
+[^several-1993]: Several of William's commentaries have been identified, although in some cases the attribution is tentative. (Numbers P\*, C\*, H\* and B\*, are those assigned in the list of commentaries in Marenbon 1993 and 2000, and Green-Pedersen 1984.)
 
 [^porphyry’s-nd]: Porphyry's *Isagoge*, P3, P14, P29
 

@@ -71,7 +71,7 @@ a. At no time **were we** (ever) alone together in the Oval Office.
 
 **b.**
 
-In no time we were (*ever) alone together in the Oval Office.
+In no time we were (\*ever) alone together in the Oval Office.
 
 Negation also interacts in complicated and often surprising ways with quantification and modality (Fleisher 2020)[^fleisher-2020]. Perhaps the most analyzed interaction is with universal quantification. Despite the frequent condemnation of the wide-scope reading of negation over universals as in the *locus classicus*, *All that glitters is not gold* and similar examples in French, German, and other languages, or in ambiguous sentences like *All the boys didn’t leave*, the availability of such readings (depending on the speaker, the intonation contour, and the context of utterance) is not as illogical as it may appear (see Tottie and Neukom-Hermann 2010 and work reviewed therein)[^tottie-2010].
 
@@ -225,7 +225,7 @@ In some cases, the strengthened or neg-raised contrary reading may become salien
 
 ![[A square diagram, upper left vertex is 'A' and labeled 'box phi'; upper right vertex is 'E' and labeled 'box not phi equivalent not diamond phi'; lower left vertex is 'I' and labeled 'diamond phi'; lower right vertex is 'O' and labeled 'not box phi equivalent diamond not phi'. 'A' and 'E' are connected by a double headed arrow labeled 'contraries'; 'A' and 'I' are connect by an arrow pointing to 'I' and labeled 'entails'. 'E' connects to 'O' with an arrow pointing to 'O' labeled 'entails'. 'I' and 'O' are connected by a double headed arrow labeled 'subcontraries'. In the center of the square is a label, 'contradictories' with lines from all four vertices to it. The line from 'A' is labeled 'a must F'; the line from 'E' is labeled 'a can't F'; the line from 'I' is labeled 'a may F' and the line from 'O' is labeled 'a needn't F']](../assets/negation/figure1-newsquare.png)
 
-*Figure 1*
+\*Figure 1\*
 
 $\mathbf{O}>\mathbf{E}$ drift is attested cross-linguistically in the meaning shift of lexical items like Old English *nealles* (lit. “NEG all”) = “not at all”, Dutch *nimmer* (lit., “NEG always”) = “never”, or Russian *nel’zja* (lit. “NEG must”) = “mustn’t”, and in words like *unlikely, inadvisable*, or *disbelieve*, whose prefixal negations yield only contrary, not contradictory, interpretations. The reverse shift, in which apparent **E** forms develop **O** meanings, appears to be unattested (cf. Horn 2015)[^horn-2015].
 
@@ -255,7 +255,7 @@ Privation as the absence of what would be expected by nature to be present is re
 
 In a wide range of languages, affixal negation on simplex bases reflects Aristotelian privation, whence the asymmetry between possible forms (*unhappy, untrue, unkind*) and impossible or unlikely ones (*unsad, unfalse, uncruel*). We can describe a failed comedy, but not a successful tragedy, as *unfunny*. As Jespersen (1917, 144)[^jespersen-1917] observes, the tendency of semi-productive negative affixation to be restricted to unmarked or positive bases combines with that of the preference for contrariety reviewed above:
 
-> The modification in sense brought about by the addition of the prefix is generally that of a simple negation: *unworthy* = “not worthy”, etc… The two terms [**X**, un**X**] are thus contradictory terms. But very often the prefix produces a “contrary” term or at any rate what approaches one: *unjust* generally implies the opposite of just; *unwise* means more than not wise and approaches foolish, *unhappy* is not far from miserable, etc.
+> The modification in sense brought about by the addition of the prefix is generally that of a simple negation: *unworthy* = “not worthy”, etc… The two terms [***X**, un**X***] are thus contradictory terms. But very often the prefix produces a “contrary” term or at any rate what approaches one: *unjust* generally implies the opposite of just; *unwise* means more than not wise and approaches foolish, *unhappy* is not far from miserable, etc.
 
 The counter-expectation property of affixal negation extends even to contradictory, middle-excluding adjectives like *alive*/*dead*; nothing can be both and nothing capable of being either can be “in between”. But *undead* has been around since Bram Stoker’s *Dracula* (1897) as both an adjective and a zero-derived occupational noun to describe zombies, vampires, and other creatures that are “not quite dead but not fully alive, dead-and-alive” (OED). Someone or something is undead—e.g., a vampire—if it fails to conform to one’s expectation that it **should** be dead. But if something appears to be alive but does not quite fulfill that expectation, it is not *undead* but *unalive*, e.g., artificial flowers. Both the undead (but not quite alive) vampire and the unalive (but not dead) artificial flowers conform to Aristotle’s notion of a privative opposite in lacking a property associated by default rules with the respective subject.
 
@@ -287,7 +287,7 @@ In ordinary language, semantic double negation (as opposed to negative concord a
 
 ![[a square with diagonal lines and the vertices labeled: top left as 'A' and 'it's possible that A'; top right with 'E' and 'it's impossible that A' and 'copyright sign [it's possible that A]'; bottom left with 'I' and 'it isn't impossible that A' and 'negation sign copyright sign[it's possible that A]'; bottom right with 'O' and 'it isn't possible that A' and 'negation sign[it's possible that A].']](../assets/negation/figure2-square.png)
 
-*Figure 2*
+\*Figure 2\*
 
 #### 1.8.2 Negative concord and its relations
 
@@ -297,11 +297,11 @@ The grammar of negative concord and its relation to double negation is often com
 
 **(14)**
 
-a. Gianni *(non) ha visto nessuno. “Gianni has seen nobody” *(Non) ha telefonato nessuno. “Nobody has telephoned” *(Non) ho parlato con nessuno. “I have spoken with nobody”
+a. Gianni \*(non) ha visto nessuno. “Gianni has seen nobody” \*(Non) ha telefonato nessuno. “Nobody has telephoned” \*(Non) ho parlato con nessuno. “I have spoken with nobody”
 
 **b.**
 
-Nessuno (*non) ha visto Gianni. “Nobody has seen Gianni” Con nessuno (*non) ho parlato. “With nobody have I spoken”
+Nessuno (\*non) ha visto Gianni. “Nobody has seen Gianni” Con nessuno (\*non) ho parlato. “With nobody have I spoken”
 
 Negative concord is a feature of many non-standard varieties of English, especially in informal speech—or lyrics (“I can’t get no satisfaction”).[^note-8] The grammar of negative concord in African American Vernacular English has been especially well studied; see Green 2002 for an influential analysis.
 
@@ -345,23 +345,23 @@ Certain linguistic expressions in English and other languages are polarity sensi
 
 **(17)**
 
-a. I {haven’t/*have} **ever** eaten **any** kumquats **at all**.
+a. I {haven’t/\*have} **ever** eaten **any** kumquats **at all**.
 
 **b.**
 
-{Few/*Many} of the assignments have been turned in **yet**.
+{Few/\*Many} of the assignments have been turned in **yet**.
 
 **c.**
 
-The dean {rarely/*often} **lifts a finger** to help students on probation.
+The dean {rarely/\*often} **lifts a finger** to help students on probation.
 
 **d**
 
-I {doubt/*believe} they’re **all that** pleased with the proposal.
+I {doubt/\*believe} they’re **all that** pleased with the proposal.
 
 **e.**
 
-{All/*Many} customers who had **ever** purchased **any** of the affected items were (***ever**) contacted.
+{All/\*Many} customers who had **ever** purchased **any** of the affected items were (\***ever**) contacted.
 
 Negative polarity items (NPIs) like those highlighted in (17) are generally restricted to downward entailing or monotone decreasing contexts, those in which inferences from sets to subsets (but not *vice versa*) are valid (see Fauconnier 1975; Ladusaw 1980, 1996; Peters and Westerståhl 2006; and the generalized quantifiers entry)[^fauconnier-1975][^ladusaw-1980][^ladusaw-1996][^peters-2006]. If I’ve eaten kumquats, I’ve eaten fruit, but not necessarily *vice versa*; this is an upward entailing (monotone increasing) environment. On the other hand, if I haven’t eaten fruit, I haven’t eaten kumquats, but not necessarily *vice versa*; this is a downward entailing (monotone decreasing) environment.[^note-10] It is just in the latter case that NPIs are licensed.
 
@@ -375,7 +375,7 @@ a. {Nobody/Only Chris} has **ever** proved **any** of those theorems.
 
 **b.**
 
-{Nobody/*Only Chris} has been here **in weeks**.
+{Nobody/\*Only Chris} has been here **in weeks**.
 
 This has led to the development of more stringent algebraic conditions that some polarity items must meet, e.g., anti-additivity (Zwarts 1998)[^zwarts-1998]. The distribution and licensing of polarity items, subject to widespread variation within and across languages, is an important but extremely complex linguistic phenomenon with implications for the architecture of grammar and the theory of meaning; see Israel 2011, Giannakidou 2011, Chierchia 2013, Horn 2016, Barker 2018 for extensive discussion and alternative theoretical approaches. Van der Wouden (1996)[^wouden-1996], Zeijlstra (2013), and Blanchette (2015) provide useful examinations of the connections of negative polarity to negative concord and expletive negation.
 
@@ -407,11 +407,11 @@ The descriptive/metalinguistic distinction is supported by converging linguistic
 
 **(20)**
 
-a. I’m {not happy/*unhappy} with the plan, I’m ecstatic!
+a. I’m {not happy/\*unhappy} with the plan, I’m ecstatic!
 
 **b.**
 
-You didn’t eat {some/*any} of the cookies, you ate them all!
+You didn’t eat {some/\*any} of the cookies, you ate them all!
 
 The coherence of the notion of “pragmatic ambiguity” and, more generally, the proper treatment of metalinguistic negation (or, following Carston 1996, echoic negation)[^carston-1996] have been matters of considerable dispute; for a range of competing views, see McCawley 1991, Geurts 1998, Burton-Roberts 1999, and Carston 1999. Pitts 2011, Davis 2016, and Martins 2020 provide excellent overviews of the phenomenon (or phenomena) in question from different perspectives.
 
@@ -497,7 +497,7 @@ As noted in Dunn 1993, 1996, if contraposition is assumed, double negation intro
 
 ![[a diagram of 6 points, 5 connected with lines in a loose pentagon and one below connected by a line to the pentagon. The points are labeled in clockwise order: 'De Morgan \sim \sim A \vdash A', 'ortho', 'intuitionistic A \vdash B, A \vdash \sim B/A \vdash C', 'minimal A \vdash B, A \vdash \sim B/A \vdash \sim C', 'quasi-minimal A \vdash \sim B/B \vdash \sim A', and the solo point connected to the last is labeled 'preminimal A \vdash B/\sim B \vdash \sim A'.]](../assets/negation/figure3-kite.png)
 
-*Figure 3*
+\*Figure 3\*
 
 The graphical arrangement in this diagram is to be understood as follows: If a sequent or sequent rule is assigned to a node $n$ and node $n'$ is placed below $n$, then the sequent or sequent rule assigned to $n'$ is derivable with the aid of the sequent or sequent rule assigned to $n$.
 
@@ -513,7 +513,7 @@ We may observe that Dunn and Zhou’s lopsided kite of negations can be equilibr
 
 ![[a diagram of 7 points, 6 connected with lines in a hexagon and one below connected by a line to the hexagon. The points are labeled in clockwise order: 'weak De Morgan \sim\sim\sim A \vdash \sim A', 'De Morgan \sim \sim A \vdash A', 'ortho', 'intuitionistic A \vdash B, A \vdash \sim B/A \vdash C', 'minimal A \vdash B, A \vdash \sim B/A \vdash \sim C', 'quasi-minimal A \vdash \sim B/B \vdash \sim A', and the solo point connected to the last is labeled 'preminimal A \vdash B/\sim B \vdash \sim A'.]](../assets/negation/figure4-kite.png)
 
-*Figure 4*
+\*Figure 4\*
 
 Negation as unnecessity gives rise to a dual lopsided kite of negations that can be combined with the lopsided kite into a “united” kite of negations, see Shramko 2005, Dunn and Zhou 2005, and Section 2.4. An even richer inclusion diagram of negations can be found in Ripley 2009.
 
@@ -591,7 +591,7 @@ The truth conditions of negated formulas $\neg A$ and implications $(A \rightarr
 
 $$\begin{array}{lcl} M, w \models \neg A & \mbox{ iff } & w \in N{\llbracket A\rrbracket} \\ M, w \models (A \rightarrow B) & \mbox{ iff } & \mbox{for every } u\in W\!: \\ & &\; wRu \mbox{ implies } (M,u \not \models A \mbox{ or } M,u \models B). \end{array} $$
 
-The basic subminimal logic **N** characterized by the class of all frames can be presented as the extension of the standard axiomatization of positive intuitionistic logic by the congruence axiom scheme $ (A \leftrightarrow B ) \rightarrow (\neg A \leftrightarrow \neg B)$. The validity of that axiom (its truth at every state of every model) is guaranteed by condition (*), but it is not distinctive of negation. The following additional schematic axioms are considered in Colacito, De Jongh, and Vargas 2017:
+The basic subminimal logic **N** characterized by the class of all frames can be presented as the extension of the standard axiomatization of positive intuitionistic logic by the congruence axiom scheme $ (A \leftrightarrow B ) \rightarrow (\neg A \leftrightarrow \neg B)$. The validity of that axiom (its truth at every state of every model) is guaranteed by condition (\*), but it is not distinctive of negation. The following additional schematic axioms are considered in Colacito, De Jongh, and Vargas 2017:
 
 - $(A \rightarrow \neg A) \rightarrow \neg A$,
 - $(A \rightarrow B) \rightarrow (\neg B \rightarrow \neg A)$,
@@ -1001,7 +1001,7 @@ We would like to thank a number of anonymous referees of the Stanford Encycloped
 
 [^horn-2010b]: ––– (ed.), 2010b, *The Expression of Negation*, Berlin: Mouton de Gruyter.
 
-[^horn-2012]: –––, 2012, “Histoire d’*O: Lexical pragmatics and the geometry of opposition”, in J.-Y. Béziau and G. Payette (eds.), *The Square of Opposition: A General Framework for Cognition*, 383–416, Bern: Peter Lang.
+[^horn-2012]: –––, 2012, “Histoire d’\*O: Lexical pragmatics and the geometry of opposition”, in J.-Y. Béziau and G. Payette (eds.), *The Square of Opposition: A General Framework for Cognition*, 383–416, Bern: Peter Lang.
 
 [^horn-2015]: –––, 2015, “On the contrary: Disjunctive syllogism and pragmatic strengthening”, in A. Koslow and A. Buchsbaum (eds.), *The Road to Universal Logic*, 151–201. Heidelberg: Birkhäuser (Springer).
 

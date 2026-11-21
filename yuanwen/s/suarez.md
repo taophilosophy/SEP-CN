@@ -815,6 +815,6 @@ Cited from Martini 1998: 489–490, with thanks to Luisa Paternicò for providin
 
 [^westermann-2007]: Westermann, Pauline C., 2007, “Suárez and the Formality of Law”, in *Politische Metaphysik. Die Entstehung moderner Rechtskonzeptionen in der Spanischen Scholastik*, Matthias Kaufmann and Robert Schnepf (ed.), Frankfurt: Lang pp. 227–237.
 
-[^wauters-1617]: Wauters, Bart, “Free Will and *Dominium* in Suárez”, in *History, Casuistry and Custom in the Legal Thought of Francisco Suárez (1548–$$1617): Collected Studies*, Leiden: Brill and Nijhoff, pp. 76–86.
+[^wauters-1617]: Wauters, Bart, “Free Will and *Dominium* in Suárez”, in *History, Casuistry and Custom in the Legal Thought of Francisco Suárez (1548–\$\$1617): Collected Studies*, Leiden: Brill and Nijhoff, pp. 76–86.
 
 [^wilenius-1963]: Wilenius, Reijo,1963, *The Social and Political Theory of Francisco Suárez*, Acta Philosophica Fennica15, Hensinski: Suomalaisen Kirjallisuuden Kirjapaino.

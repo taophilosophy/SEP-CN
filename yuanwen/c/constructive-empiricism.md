@@ -66,7 +66,7 @@ A theory is empirically adequate, then, if appearances—“the structures which
 
 ![A cloud shape labelled 'Appearances' connected to a network of shapes by an arrow labelled 'isomorphic'. The network of shapes has squares, a plus sign, a star, a half-circle, and a cloud shape labelled 'Empirical substructures'. The network of shapes is labelled 'A Model of a Theory'.](../assets/constructive-empiricism/image002.jpg)
 
-*Figure 1.* A Theory’s Empirical Adequacy
+\*Figure 1.\* A Theory’s Empirical Adequacy
 
 This conception of a theory’s empirical adequacy is arguably what allows a constructive empiricist to avoid the kind of doxastic commitment Friedman (1982, 278)[^friedman-1982] and Rochefort-Maranda (2011, 61–62)[^rochefort-maranda-2011] describe as posing a problem for the constructive empiricist (a problem that Rochefort-Maranda subsequently attempts to solve). Here is that problem:
 

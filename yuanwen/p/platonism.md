@@ -542,11 +542,11 @@ On Frege’s view, principles like these are true, and so they commit us to the 
 
 Frege’s definitions of numbers, lines, and shapes in terms of extensions can be formulated as follows:
 
-1. the number of *F*s is the extension of the concept equinumerous with *F* (that is, it is the set of all concepts that have exactly as many objects falling under them as does *F*); and
+1. the number of *F*s is the extension of the concept *equinumerous with F* (that is, it is the set of all concepts that have exactly as many objects falling under them as does *F*); and
 2. the direction of line *a* is the extension of the concept *parallel to a*; and
 3. the shape of figure *a* is the extension of the concept *geometrically similar to a*.
 
-A similar approach can be used to define other kinds of logical objects. For instance, the truth value of the proposition *p* can be identified with the extension of the concept equivalent to *p* (i.e., the concept true if and only if *p* is true).
+A similar approach can be used to define other kinds of logical objects. For instance, the truth value of the proposition *p* can be identified with the extension of the concept *equivalent to p* (i.e., the concept *true if and only if p is true*).
 
 It should be noted that contemporary neo-Fregeans reject the identification of directions and shapes and so on with extensions of concepts. They hold instead that directions and shapes are *sui generis* abstract objects.
 

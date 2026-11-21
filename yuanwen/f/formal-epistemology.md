@@ -391,7 +391,7 @@ Yet this plausible looking lemma leads almost immediately to the unknowability o
 
 We would then be able to derive in just a few lines that everything true is actually known, i.e., $\phi \supset K \phi$.
 
-\begin{array}{rll} 1.& (\phi \wedge \neg K \phi) \supset \Diamond K (\phi \wedge \neg K \phi)& \textbf{Knowledge Without Limits}\\ 2.& \neg (\phi \wedge \neg K\phi)& 1,\ \textbf{Unknowns are Unknowable, P}\\ 3.& \phi \supset K\phi& 2,\ \textbf{P}\\ \end{array}
+\\begin{array}{rll} 1.& (\\phi \\wedge \\neg K \\phi) \\supset \\Diamond K (\\phi \\wedge \\neg K \\phi)& \\textbf{Knowledge Without Limits}\\\\ 2.& \\neg (\\phi \\wedge \\neg K\\phi)& 1,\\ \\textbf{Unknowns are Unknowable, P}\\\\ 3.& \\phi \\supset K\\phi& 2,\\ \\textbf{P}\\\\ \\end{array}
 
 If $K$ represents what God knows, this would be fine. But if $K$ represents what you or I know, it seems absurd! Not only are there truths we don’t know, most truths don’t even follow from what we know. **Knowledge Without Limits** appears to be the culprit here, so it seems there are some things we could not know, even in principle. But see the entry on Fitch’s paradox of knowability for more discussion.
 
@@ -417,7 +417,7 @@ Having explained all this to you though, here’s something else you now know: t
 
 And combining **Knowledge of Safety** with **KK** yields an absurd result:
 
-\begin{array}{rll} 1.& K \phi_{100}& \mbox{Assumption}\\ 2.& KK \phi_{100}& 1, \mathbf{KK}\\ 3.& K(K \phi_{100} \supset \phi_{101})& \textbf{Knowledge of Safety}\\ 4.& KK \phi_{100} \supset K \phi_{101}& 3, \mathbf{K}\\ 5.& K \phi_{101}& 2,4, \mathbf{MP}\\ &&\mbox{repeat steps (2)–(5) for }\phi_{101}, \phi_{102}, \ldots, \phi_n\\ m.& K \phi_n& m-1, \mathbf{MP}\\ m'.& \phi_n& m, \mathbf{T}\\ \end{array}
+\\begin{array}{rll} 1.& K \\phi_{100}& \\mbox{Assumption}\\\\ 2.& KK \\phi_{100}& 1, \\mathbf{KK}\\\\ 3.& K(K \\phi_{100} \\supset \\phi_{101})& \\textbf{Knowledge of Safety}\\\\ 4.& KK \\phi_{100} \\supset K \\phi_{101}& 3, \\mathbf{K}\\\\ 5.& K \\phi_{101}& 2,4, \\mathbf{MP}\\\\ &&\\mbox{repeat steps (2)–(5) for }\\phi_{101}, \\phi_{102}, \\ldots, \\phi_n\\\\ m.& K \\phi_n& m-1, \\mathbf{MP}\\\\ m'.& \\phi_n& m, \\mathbf{T}\\\\ \\end{array}
 
 Given the assumption on line (1), that you know there are at least $100$ jellybeans in the jar (which you can plainly see), we can show that there are more jellybeans in the jar than stars in the galaxy. Set $n$ high enough and the jellybeans even outnumber the particles in the universe! (Notice that we don’t rely on **NEC** anywhere in this derivation, so it’s okay to use non-logical assumptions like line (1) and **Knowledge of Safety**.)
 
@@ -541,33 +541,33 @@ Tools like probability theory and epistemic logic have numerous uses in many are
 
 Should you keep reading this section, or should you stop here and go do something else? That all depends: what might you gain by continuing reading, and what are the odds those gains will surpass the gains of doing something else instead? Decision theory weighs these considerations to determine which choice is best.
 
-To see how the weighing works, let’s start with a very simple example: betting on the outcome of a die-roll. In particular, let’s suppose a 5 or 6 will win you $19, while any other outcome loses you $10. Should you take this bet? We can represent the choice you face in the form of a table:
+To see how the weighing works, let’s start with a very simple example: betting on the outcome of a die-roll. In particular, let’s suppose a 5 or 6 will win you \$19, while any other outcome loses you \$10. Should you take this bet? We can represent the choice you face in the form of a table:
 
 |   | Roll 1–4 | Roll 5 or 6 |
 | --- | --- | --- |
-| Bet | −$10 | $+$$19 |
-| Don’t bet | $0 | $0 |
+| Bet | −\$10 | $+$\$19 |
+| Don’t bet | \$0 | \$0 |
 
 So far, taking the bet looks pretty good: you stand to gain almost twice as much as you stand to lose. What the table doesn’t show, however, is that you’re twice as likely to lose as to win: $2/3$ vs. $1/3$. So let’s add this information in:
 
 |   | Roll 1–4 | Roll 5 or 6 |
 | --- | --- | --- |
-| Bet | $\substack{-$10\\ p=2/3}$ | $\substack{+$19\\ p=1/3}$ |
-| Don’t bet | $\substack{-$0\\ p=2/3}$ | $\substack{+$0\\ p=1/3}$ |
+| Bet | $\substack{-\$10\\ p=2/3}$ | $\substack{+\$19\\ p=1/3}$ |
+| Don’t bet | $\substack{-\$0\\ p=2/3}$ | $\substack{+\$0\\ p=1/3}$ |
 
-Now we can see that the potential downside of betting, namely losing $10, isn’t outweighed by the potential upside. What you stand to win isn’t quite twice what you’d lose, but the probability of losing *is* twice as much. Formally, we can express this line of thinking as follows:
+Now we can see that the potential downside of betting, namely losing \$10, isn’t outweighed by the potential upside. What you stand to win isn’t quite twice what you’d lose, but the probability of losing *is* twice as much. Formally, we can express this line of thinking as follows:
 
 $$ (-10 \times 2/3) + (19 \times 1/3) = -1/3 < 0$$
 
-In other words, when the potential losses and gains are weighed against their respective probabilities, their sum total fails to exceed 0. But $0 is what you can expect if you don’t bet. So betting doesn’t quite measure up to abstaining in this example.
+In other words, when the potential losses and gains are weighed against their respective probabilities, their sum total fails to exceed 0. But \$0 is what you can expect if you don’t bet. So betting doesn’t quite measure up to abstaining in this example.
 
-That’s the basic idea at the core of decision theory, but it’s still a long way from being satisfactory. For one thing, this calculation assumes money is everything, which it surely isn’t. Suppose you need exactly $29 to get a bus home for the night, and all you have is the $10 bill in your pocket, which on its own is no use (even the cheapest drink at the casino bar is $11). So losing your $10 isn’t really much worse than keeping it—you might as well be broke either way. But *gaining* $19, now that’s worth a lot to you. If you can just get the bus back home, you won’t have to sleep rough for the night.
+That’s the basic idea at the core of decision theory, but it’s still a long way from being satisfactory. For one thing, this calculation assumes money is everything, which it surely isn’t. Suppose you need exactly \$29 to get a bus home for the night, and all you have is the \$10 bill in your pocket, which on its own is no use (even the cheapest drink at the casino bar is \$11). So losing your \$10 isn’t really much worse than keeping it—you might as well be broke either way. But *gaining* \$19, now that’s worth a lot to you. If you can just get the bus back home, you won’t have to sleep rough for the night.
 
-So we have to consider how much various dollar-amounts are *worth to you*. Losing $10 is worth about the same to you as losing $0, though gaining $19 is much, much more valuable. To capture these facts, we introduce a function, $u$, which represents the *utility* of various possible outcomes. For you, $u(-$10) \approx u(-$0)$, but $u(+$19) \gg u(-$0)$.
+So we have to consider how much various dollar-amounts are *worth to you*. Losing \$10 is worth about the same to you as losing \$0, though gaining \$19 is much, much more valuable. To capture these facts, we introduce a function, $u$, which represents the *utility* of various possible outcomes. For you, $u(-\$10) \approx u(-\$0)$, but $u(+\$19) \gg u(-\$0)$.
 
-Exactly how much is gaining $19 worth to you? What is $u(+$19)=\ldots$, exactly? We can actually answer this question if we just set a scale first. For example, suppose we want to know exactly how much you value a gain of $19 on a scale that ranges from gaining nothing to gaining $100. Then we set $u(+$0)=0$ and $u(+$100)=1$, so that our scale ranges from 0 to 1. Then we can calculate $u(+$19)$ by asking how much you would be willing to risk to gain $100 instead of just $19. That is, suppose you had a choice between just being handed $19 with no strings attached vs. being offered a (free) gamble that pays $100 if you win, but nothing otherwise. How high would the probability of winning that $100 have to be for you to take a chance on it instead of the guaranteed $19? Given what’s at stake—making it home for the night vs. sleeping rough—you probably wouldn’t accept much risk for the chance at the full $100 instead of the guaranteed $19. Let’s say you’d accept at most .01 risk, i.e., the chance of winning the full $100 would have to be at least .99 for you to trade the guaranteed $19 for the chance at the full $100. Well, then, on a scale from gaining $0 to gaining $100, you value gaining $19 quite highly: .99 out of 1. (This method of measuring utility was discovered and popularized by von Neumann and Morgenstern (1944), though essentially the same idea was previously discovered by Ramsey (1964 [1926]).)
+Exactly how much is gaining \$19 worth to you? What is $u(+\$19)=\ldots$, exactly? We can actually answer this question if we just set a scale first. For example, suppose we want to know exactly how much you value a gain of \$19 on a scale that ranges from gaining nothing to gaining \$100. Then we set $u(+\$0)=0$ and $u(+\$100)=1$, so that our scale ranges from 0 to 1. Then we can calculate $u(+\$19)$ by asking how much you would be willing to risk to gain \$100 instead of just \$19. That is, suppose you had a choice between just being handed \$19 with no strings attached vs. being offered a (free) gamble that pays \$100 if you win, but nothing otherwise. How high would the probability of winning that \$100 have to be for you to take a chance on it instead of the guaranteed \$19? Given what’s at stake—making it home for the night vs. sleeping rough—you probably wouldn’t accept much risk for the chance at the full \$100 instead of the guaranteed \$19. Let’s say you’d accept at most .01 risk, i.e., the chance of winning the full \$100 would have to be at least .99 for you to trade the guaranteed \$19 for the chance at the full \$100. Well, then, on a scale from gaining \$0 to gaining \$100, you value gaining \$19 quite highly: .99 out of 1. (This method of measuring utility was discovered and popularized by von Neumann and Morgenstern (1944), though essentially the same idea was previously discovered by Ramsey (1964 [1926]).)
 
-Our full decision theory relies on two functions then, $p$ and $u$. The probability function $p$ reflects how likely you think the various possible outcomes of an action are to obtain, while $u$ represents how desirable each outcome is. Faced with a choice between two possible courses of action, $A$ and $\neg A$, with two possible states the world might be in, $S$ and $\neg S$, there are four possible outcomes, $O_1,\ldots,O_4$. For example, if you bet $1 on a coin-flip coming up heads and it does comes up heads, outcome $O_1$ obtains and you win $1; if instead it comes up tails, outcome $O_2$ obtains and you lose $1. The general shape of such situations is thus:
+Our full decision theory relies on two functions then, $p$ and $u$. The probability function $p$ reflects how likely you think the various possible outcomes of an action are to obtain, while $u$ represents how desirable each outcome is. Faced with a choice between two possible courses of action, $A$ and $\neg A$, with two possible states the world might be in, $S$ and $\neg S$, there are four possible outcomes, $O_1,\ldots,O_4$. For example, if you bet \$1 on a coin-flip coming up heads and it does comes up heads, outcome $O_1$ obtains and you win \$1; if instead it comes up tails, outcome $O_2$ obtains and you lose \$1. The general shape of such situations is thus:
 
 |   | $S$ | $\neg S$ |
 | --- | --- | --- |

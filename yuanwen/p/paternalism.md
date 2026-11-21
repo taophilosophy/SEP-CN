@@ -31,7 +31,7 @@ And as often is the case the first question is whether the concept itself is nor
 
 While it is clear that for some to characterize a policy as paternalistic is to condemn or criticize it, that does not establish that the term itself is an evaluative one. As a matter of methodology it is preferable to see if some concept can be defined in non-normative terms and only if that fails to capture the relevant phenomena to accept a normative definition.
 
-I suggest the following conditions as an analysis of *X* acts paternalistically towards *Y* by doing (omitting) *Z*:
+I suggest the following conditions as an analysis of *X acts paternalistically towards Y by doing (omitting) Z*:
 
 1. *Z* (or its omission) interferes with the liberty or autonomy of *Y*.
 2. *X* does so without the consent of *Y*.

@@ -63,7 +63,7 @@ It was also routinely assumed that the following threefold partition of proposit
 
 ![three boxes containg respectively the words Necessary, Contingent, and Impossible. Necessary and Contingent are braced as Possible; Necessary and Impossible are braced as Non-Contingent, and Contingent and Impossible are braced as Non-Necessary](../assets/logic-deontic/fig-three-a.svg)
 
-*Fig. 1*
+\*Fig. 1\*
 
 The three rectangular cells are intended to be jointly exhaustive and mutually exclusive: every proposition is either necessary, contingent (possibly true but also possibly false), or impossible, but no proposition is more than one of these. The possible propositions are those that are either necessary or contingent, the non-necessary propositions are those that are either impossible or contingent, and the non-contingent ones are those either necessary or impossible.
 
@@ -71,7 +71,7 @@ Thirdly, dating back at least to the twelfth and thirteenth century (Knuuttila 2
 
 ![first square diagram: link to extended description below](../assets/logic-deontic/fig-square-a.svg)
 
-*Fig. 2* [An extended description of figure 2.]
+\*Fig. 2\* [An extended description of figure 2.]
 
 Furthermore it is generally assumed that the following hold:
 
@@ -104,7 +104,7 @@ In addition to the TDS, it was traditionally assumed that the following, call it
 
 ![three boxes containg respectively the words Obligatory, Optional, and Impermissible. Obligatory and Optional are braced as Permissible; Obligatory and Impermissible are braced as Non-Optional, and Optional and Impermissilbe are braced as Omissible.](../assets/logic-deontic/fig-three-b.svg)
 
-*Fig. 3*
+\*Fig. 3\*
 
 As in the modal case, the thought is that all propositions are divided into three jointly exhaustive and mutually exclusive classes: every proposition is obligatory, impermissible or neither (that is, optional) and no proposition falls into more than one of these three categories. Furthermore, the permissible propositions are those that are obligatory or optional, the omissible propositions are those that are impermissible or optional, and the non-optional propositions are those that are either obligatory or impermissible. This classification too has roots centuries ago.[^note-13] The reader can easily confirm that this natural scheme is also perfectly analogous to the threefold classification we gave above for necessary, contingent and impossible propositions.
 
@@ -112,13 +112,13 @@ Furthermore, as indicated earlier, “The Deontic Square” (DS) is also often c
 
 ![second square diagram: link to extended description below](../assets/logic-deontic/fig-square-b.svg)
 
-*Fig. 4* [An extended description of figure 4.]
+\*Fig. 4\* [An extended description of figure 4.]
 
 The relationships between the logical operators at the corners are to be interpreted as in the modal square of opposition. The two squares are perfectly analogous. If we weave in nodes for optionality and non-optionality, we get a deontic hexagon:[^note-14]
 
 ![a hexagon diagram: link to extended description below](../assets/logic-deontic/fig-hex-a.svg)
 
-*Fig. 5* [An extended description of figure 5.]
+\*Fig. 5\* [An extended description of figure 5.]
 
 Given these analogies, it is unsurprising that our primitive operator, read here as “it is obligatory that”, is often referred to as “deontic *necessity*”. However, there are also obvious disanalogies with alethic necessity. Before, we cited two principles for alethic necessity whose deontic analogs are clearly false:
 
@@ -206,13 +206,13 @@ The reader familiar with elementary textbook logic will have perhaps noticed tha
 
 ![square diagram; link to extended description below](../assets/logic-deontic/fig-square-c.svg)
 
-*Fig. 6* [An extended description of figure 6.]
+\*Fig. 6\* [An extended description of figure 6.]
 
 Though less widely noted in textbooks, there is also a threefold partition for classical quantifiers regarding any condition, $p$:
 
 ![three boxes diagram: link to extended description below](../assets/logic-deontic/fig-three-c.svg)
 
-*Fig. 7* [An extended description of figure 7.]
+\*Fig. 7\* [An extended description of figure 7.]
 
 These quantificational analogies reflect possible inspiration behind what is most often called “possible worlds semantics” for such logics, to which we now turn.[^note-28] Once the analogies are noticed, spelling out this sort of semantics seems all but inevitable.[^note-29]
 
@@ -222,7 +222,7 @@ The fundamental idea here is that the normative status of a proposition from the
 
 ![a diagram of 6 boxes: link to extended description below](../assets/logic-deontic/fig-box-a.svg)
 
-*Fig. 8* [An extended description of figure 8.]
+\*Fig. 8\* [An extended description of figure 8.]
 
 Thus, $p$ is *obligatory* iff it holds in all the $i$-acceptable worlds, *permissible* iff it holds in some such world, *impermissible* iff it holds in no such world, *omissible* iff its negation holds in some such world, *optional* iff $p$ holds in some such world, and so does $\neg p$, *and non-optional when* $p$ *either holds at all such worlds or at none.* If a formula is true at every world in any such model of serially-related worlds, then the formula is *valid*.[^note-32]
 
@@ -232,7 +232,7 @@ In contrast, $\OB$-U, the axiom $\OB (\OB p \rightarrow p)$ that we added to SDL
 
 ![two dots labelled i and j; an arrowed line points from i to j; another arrowed line points from j back to j](../assets/logic-deontic/fig-graph-a.svg)
 
-*Fig. 9*
+\*Fig. 9\*
 
 Here we imagine that the arrow connectors indicate relative acceptability, thus here, $j$ (and only $j)$ is acceptable to $i$, and $j$ (and only $j)$ is acceptable to $j$. If all worlds that are acceptable to any given world have this property of self-acceptability, then our axiom is valid. For assume that this property holds throughout our models, and for reductio, suppose that for some arbitrary world $i, \OB (\OB p \rightarrow p)$ is false at $i$. Then not all $i$-acceptable worlds are worlds where $\OB p \rightarrow p$ is true. So, there must be an $i$-acceptable world, say $j$, where $\OB p$ is true, but $p$ is false. Since $\OB p$ is true at $j$, then $p$ must be true at all $j$-acceptable worlds. But by stipulation, $j$ is acceptable to itself, so $p$ must be true at $j$, but this contradicts our assumption that $p$ was false at $j$. Thus $\OB (\OB p \rightarrow p)$ must be true at all worlds, after all. Two counter-models showing that $\OB$-U is not derivable in SDL, and that SDL $+ \OB \OB p \rightarrow \OB p$ does not imply $\OB$-U can be found in supplement D: Two Counter-Models Regarding Additions to SDL.
 
@@ -240,7 +240,7 @@ We should also note that one alternative semantic picture for SDL is where we ha
 
 ![a vertical bar: link to extended description below](../assets/logic-deontic/fig-bar-a.svg)
 
-*Fig. 10* [An extended description of figure 10.]
+\*Fig. 10\* [An extended description of figure 10.]
 
 Essentially, the ordering relation coupled with the limit assumption just gives us a way to *generate* the set of $i$-acceptable worlds instead of taking them as primitive in the semantics: $j$ is $i$-acceptable iff $j$ is $i$-best. Once generated, we look only at what is going on in the $i$-acceptable (as $i$-best) worlds to interpret the truth-conditions for the deontic operators, just as with our simpler Kripke-Style semantics. The analogue to the seriality of our earlier $i$-acceptability relation is also assured by the Limit Assumption, since it entails that for each world $i$, there is always some $i$-best (so $i$-acceptable) world. Although this ordering semantics approach appears to be a bit of overkill here, as we shall see in Section 4 and Section 5, it became quite important later on in the endeavor to develop expressively richer deontic logics. For now, we turn to the second-most well-known approach to monadic deontic logic, one in which SDL emerges *derivatively*.
 
@@ -316,7 +316,7 @@ Once again, assume that we have a set of possible worlds, $W$, and we assume tha
 
 ![two boxes: link to extended description below](../assets/logic-deontic/fig-box-b.svg)
 
-*Fig. 11* [An extended description of figure 11.]
+\*Fig. 11\* [An extended description of figure 11.]
 
 Here we imagine that for any given world, $i$, we have corralled all the $i$-accessible worlds together. We then simply look at the quantificational status of $p$ (and/or $\neg p)$ in these $i$-accessible worlds to determine $p$’s modal status back at $i$. For example$,$ at a given world $i, p$ is *necessary* if $p$ holds throughout $R^i$ and *possible* if $p$ holds somewhere in $R^i$.
 
@@ -324,7 +324,7 @@ The only *deontic* element in the syntax of K*d* is our distinguished constant, 
 
 ![a box diagram: link to extended description below](../assets/logic-deontic/fig-vbox-a.svg)
 
-*Fig. 12* [An extended description of figure 12.]
+\*Fig. 12\* [An extended description of figure 12.]
 
 Since $j$ is contained in DEM, that means all normative demands are met at $j$.[^note-42]
 
@@ -332,13 +332,13 @@ Corresponding to simple seriality for SDL (that there is always an $i$-acceptabl
 
 ![two overlapping blue boxes: link to extended description below](../assets/logic-deontic/fig-vbox-b.svg)
 
-*Fig. 13* [An extended description of figure 13.]
+\*Fig. 13\* [An extended description of figure 13.]
 
 Given these semantic elements, if you apply them carefully to the definitions of the deontic operators of K*d*, you will see that in each case, the normative status of $p$ at $i$ depends on $p$’s relationship to this intersection of the i-accessible worlds and the worlds where all normative demands are met:
 
 ![six pairs of two overlapping blue boxes: link to extended description below](../assets/logic-deontic/fig-vbox-c.svg)
 
-*Fig. 14* [An extended description of figure 14.]
+\*Fig. 14\* [An extended description of figure 14.]
 
 If that intersection is permeated by $p$-worlds, $p$ is obligatory; if it contains some $p$-world, $p$ is permissible, etc.[^note-43]
 
@@ -346,7 +346,7 @@ If we wish to validate T, $\Box p \rightarrow p$ (and derivatively, $\OB$-U, $(\
 
 ![a blue dot labelled i with an arrowed line going from the dot and back to it.](../assets/logic-deontic/fig-graph-d.svg)
 
-*Fig. 15*
+\*Fig. 15\*
 
 For then $\Box p \rightarrow p$ must be true at any world $i$, for if $\Box p$ is true at $i$, then $p$ is true at each $i$-accessible world, which includes $i$, since $i$ is self-accessible. This will indirectly yield the result that $\OB (\OB p \rightarrow p)$ is true in all such models as well.
 
@@ -525,7 +525,7 @@ Taken together, these principles entail that, relative to a fixed proposition $p
 | $\BA p$ | $\PV p$ | $\BA {\neg p}$ |
 | --- | --- | --- |
 
-*Fig. 16*
+\*Fig. 16\*
 
 #### 5.2.2 The Meinong-Chisholm Reduction
 
@@ -586,7 +586,7 @@ One way in which agency operators have been fruitfully employed is in the study 
 | $\OB p$ | $\PE p \amp \PE {\neg p}$ | $\IM {p}$ |
 | --- | --- | --- |
 
-*Fig. 17*
+\*Fig. 17\*
 
 We might consider “merging” these two partitions, as it were, and try to get a representation of the possible ways Jane Doe may be positioned normatively with respect to her agency regarding $p$. Given certain choices of logic for $\BA$ and for $\OB$, we obtain a set of mutually exclusive and exhaustive “normative positions”:
 
@@ -595,7 +595,7 @@ We might consider “merging” these two partitions, as it were, and try to get
 
 #### 5.2.4 Challenges to the Meinong-Chisholm Analysis
 
-The Meinong-Chisholm analysis that lies at the core of the theory of normative positions is, however, not uncontested. Following an earlier criticism by Geach (1982)[^geach-1982], in the third chapter of the influential monograph, Horty (2001)[^horty-2001], Horty has attacked one specific form of the Meinong-Chisholm reduction from a semantic viewpoint. Recall that in the standard semantics for SDL, for any formula p, $\OB$p is true whenever p holds at all the deontically best alternatives. Horty shows that, when combined with the STIT semantics for agency championed in Belnap et al. 2001, this gives rise to counterintuitive cases.[^note-70] Suppose, e.g., that an agent can choose between two things: to gamble or not to gamble. Simplifying somewhat, say all possible states of affairs are ones where either the agent gambles, or he doesn’t. If the agent gambles, there is a possibility that he wins $5, but there is also a possibility that he loses the $5 he currently has. If he doesn’t gamble, then he keeps his money but cannot make any profit. Now, granting that worlds where one has more money are better than worlds where one has less, the best worlds are those where the agent wins $5. Consequently, the best worlds are worlds in which the agent does gamble. Hence, where g denotes that the agent gambles,
+The Meinong-Chisholm analysis that lies at the core of the theory of normative positions is, however, not uncontested. Following an earlier criticism by Geach (1982)[^geach-1982], in the third chapter of the influential monograph, Horty (2001)[^horty-2001], Horty has attacked one specific form of the Meinong-Chisholm reduction from a semantic viewpoint. Recall that in the standard semantics for SDL, for any formula p, $\OB$p is true whenever p holds at all the deontically best alternatives. Horty shows that, when combined with the STIT semantics for agency championed in Belnap et al. 2001, this gives rise to counterintuitive cases.[^note-70] Suppose, e.g., that an agent can choose between two things: to gamble or not to gamble. Simplifying somewhat, say all possible states of affairs are ones where either the agent gambles, or he doesn’t. If the agent gambles, there is a possibility that he wins \$5, but there is also a possibility that he loses the \$5 he currently has. If he doesn’t gamble, then he keeps his money but cannot make any profit. Now, granting that worlds where one has more money are better than worlds where one has less, the best worlds are those where the agent wins \$5. Consequently, the best worlds are worlds in which the agent does gamble. Hence, where g denotes that the agent gambles,
 
 $$\OB \BA g$$
 
@@ -782,7 +782,7 @@ If we define an “obligations dilemma” as a conflict of obligations where nei
 
 Recently, the puzzles related to $\OB$-NEC, Inheritance, and Deontic Explosion have been taken to reflect a more general (alleged) feature of deontic modals, i.e., their *hyperintensionality*. In the syntactic sense, a modal operator is hyperintensional if it is not closed under the replacement of classical, truth-functionally equivalent formulas. On this view, $\OB p$ is, e.g., not equivalent to $\OB$ $((p \amp q) \vee(p \amp \neg q))$, even if the truth of $p$ always coincides with the truth of $(p \amp q) \vee(p \amp \neg q)$. Semantically, this means that such an operator cannot be interpreted as an intensional modal operator, using (classical) possible-worlds semantics.
 
-A promising recent semantic framework for hyperintensional logics is that of truthmaker semantics (Fine 2017)[^fine-2017]. On such a semantics, propositions are interpreted by “truthmakers”, resp. “falsemakers” rather than sets of worlds, where these entities are related to one another in terms of a mereological (parthood) relation. For instance, a truthmaker for “it rains” would be simply a state of it’s raining, nothing less and nothing more. A truthmaker for “(it rains and the sun shines) or (it rains and the sun does not shine)” can be either of two things: a fusion of a state of it’s raining with a state of the sun’s shining, or a fusion of a state of it’s raining with a state of the sun’s not shining (and hence, the latter, a falsemaker of “the sun shines”). Formally, the set of truthmakers of $p$ may, e.g., be $\{X, X'\}$, while the set of truthmakers of $(p \amp q) \vee(p \amp \neg q)$ may be $\{X*Y,$ $X*Z,$ $X'*Z,$ $X'*Z\}$, with the “*” symbol denoting a fusion operation.[^note-97] Fine applied this framework to the logic of imperatives and to deontic logic proper in a series of papers (Fine 2018a,b)[^fine-2018a] where “actions” play the role usually played by truthmakers in the semantics of indicative sentences, and analogous to the truthmaking and falsemaking relations between truthmakers and propositions, such actions can be either in compliance with or contravening a given command. For instance, the imperative “Sing or dance!” is interpreted in terms of (a) the actions that are in (exact) compliance with it, and (b) the actions that are in (exact) contravention of it. For the case of conditional obligations, additional complications arise, as one may also *avoid* a conditional by making its antecedent false.[^note-98] Similar ideas, though worked out in different ways, can be found in Anglberger and Korbmacher 2020, which also relate truthmaker semantics to Goble’s logic BDL from Goble 2013. For a full-fledged discussion of the hyperintensionality of normativity and formal approaches to it, see Faroldi 2019.
+A promising recent semantic framework for hyperintensional logics is that of truthmaker semantics (Fine 2017)[^fine-2017]. On such a semantics, propositions are interpreted by “truthmakers”, resp. “falsemakers” rather than sets of worlds, where these entities are related to one another in terms of a mereological (parthood) relation. For instance, a truthmaker for “it rains” would be simply a state of it’s raining, nothing less and nothing more. A truthmaker for “(it rains and the sun shines) or (it rains and the sun does not shine)” can be either of two things: a fusion of a state of it’s raining with a state of the sun’s shining, or a fusion of a state of it’s raining with a state of the sun’s not shining (and hence, the latter, a falsemaker of “the sun shines”). Formally, the set of truthmakers of $p$ may, e.g., be $\{X, X'\}$, while the set of truthmakers of $(p \amp q) \vee(p \amp \neg q)$ may be $\{X*Y,$ $X*Z,$ $X'*Z,$ $X'*Z\}$, with the “\*” symbol denoting a fusion operation.[^note-97] Fine applied this framework to the logic of imperatives and to deontic logic proper in a series of papers (Fine 2018a,b)[^fine-2018a] where “actions” play the role usually played by truthmakers in the semantics of indicative sentences, and analogous to the truthmaking and falsemaking relations between truthmakers and propositions, such actions can be either in compliance with or contravening a given command. For instance, the imperative “Sing or dance!” is interpreted in terms of (a) the actions that are in (exact) compliance with it, and (b) the actions that are in (exact) contravention of it. For the case of conditional obligations, additional complications arise, as one may also *avoid* a conditional by making its antecedent false.[^note-98] Similar ideas, though worked out in different ways, can be found in Anglberger and Korbmacher 2020, which also relate truthmaker semantics to Goble’s logic BDL from Goble 2013. For a full-fledged discussion of the hyperintensionality of normativity and formal approaches to it, see Faroldi 2019.
 
 ## 7. Conclusion
 
@@ -965,7 +965,7 @@ and then from the modal logic K, $\Box(d \rightarrow(p \amp \neg p))$ follows. B
 
 [^note-71]: For Horty’s reasoning to work here, it is important that the case is seen as one of decision under uncertainty, rather than decision under risk. In other words, it does not make sense (for the agent) to think in terms of probabilities.
 
-[^note-72]: The converse can also easily be shown: suppose that by gambling, the agent risks a loss of 5$, but the agent cannot make any gains. There is however a possibility that the agent still keeps his money when gambling. Then intuitively, we would say the agent ought not to gamble. However, on the Meinong-Chisholm analysis this is false, since there is a “best” world (i.e., one in which the agent luckily keeps his money) in which the agent does gamble.
+[^note-72]: The converse can also easily be shown: suppose that by gambling, the agent risks a loss of 5\$, but the agent cannot make any gains. There is however a possibility that the agent still keeps his money when gambling. Then intuitively, we would say the agent ought not to gamble. However, on the Meinong-Chisholm analysis this is false, since there is a “best” world (i.e., one in which the agent luckily keeps his money) in which the agent does gamble.
 
 [^note-73]: In addition to Horty 2001, see Murakami 2005 for an axiomatization of Horty’s deontic STIT logic. In Tamminga & Hindriks 2020 and Tamminga & Duijf 2017, an alternative semantics for these logics is developed and used to study notions such as collective responsibility, member obligations, and group plans.
 
@@ -991,7 +991,7 @@ and then from the modal logic K, $\Box(d \rightarrow(p \amp \neg p))$ follows. B
 
 [^note-84]: In Kulicki & Trypuz 2017, a logic is proposed that combines both deontic claims about states of affairs and deontic claims about actions, and allows one to study their interrelation through principles such as “if action a necessarily results in a state of affairs that is forbidden, then action a is also forbidden.” Other recent papers that combine deontic logics of actions and states of affairs with PDL-like modalities for action types are Craven & Sergot 2008; Canavotto & Giordani 2019; and Ju & van Eijck 2019.
 
-[^note-85]: Von Wright 1951a notes that since the denial of $\neg \OB\top$ is provably equivalent to $\PE\bot$ (given the traditional definitional scheme and $\OB$-RE), and since both $\OB\top$ and $\PE\bot$ are odd, we should opt for a “principle of contingency”, which says that $\OB\top$ and $\PE\bot$ are both logically contingent. Von Wright 1963 argues that $\OB\top$ (and $\PE$\top) do not express real prescriptions (pp.152-4). Føllesdal & Hilpinen 1971 suggests that excluding $\OB$-N only excludes “*empty* normative systems” (i.e., normative systems with no obligations), and perhaps not even that, since no one can fail to fulfill $\OB\top$ anyway, so why worry, cf. Prior 1958. However, since it is dubious that anyone can bring it about that $\top$, it would seem to be equally dubious that anyone can “fulfill” $\OB\top$, and thus matters are not so simple. al-Hibri 1978 discusses various early takes on this problem, rejects $\OB$-N, and later develops a deontic logic without it. Note that similar observations can be coined in terms of “violations”, a notion central to CTDs. Von Wright 1963 comes close to endorsing violability as essential to any obligation (1963: 154), but the context there is more complex and less straightforward. Jones & Pörn 1985 explicitly rejects $\OB$-N for “ought”, taking violability to be essential to what people ought to do.
+[^note-85]: Von Wright 1951a notes that since the denial of $\neg \OB\top$ is provably equivalent to $\PE\bot$ (given the traditional definitional scheme and $\OB$-RE), and since both $\OB\top$ and $\PE\bot$ are odd, we should opt for a “principle of contingency”, which says that $\OB\top$ and $\PE\bot$ are both logically contingent. Von Wright 1963 argues that $\OB\top$ (and $\PE$\\top) do not express real prescriptions (pp.152-4). Føllesdal & Hilpinen 1971 suggests that excluding $\OB$-N only excludes “*empty* normative systems” (i.e., normative systems with no obligations), and perhaps not even that, since no one can fail to fulfill $\OB\top$ anyway, so why worry, cf. Prior 1958. However, since it is dubious that anyone can bring it about that $\top$, it would seem to be equally dubious that anyone can “fulfill” $\OB\top$, and thus matters are not so simple. al-Hibri 1978 discusses various early takes on this problem, rejects $\OB$-N, and later develops a deontic logic without it. Note that similar observations can be coined in terms of “violations”, a notion central to CTDs. Von Wright 1963 comes close to endorsing violability as essential to any obligation (1963: 154), but the context there is more complex and less straightforward. Jones & Pörn 1985 explicitly rejects $\OB$-N for “ought”, taking violability to be essential to what people ought to do.
 
 [^note-86]: Prior cast it using this variant of RM: If $\vdash p \rightarrow q$ then $\vdash \IM q \rightarrow \IM p$ (the impermissibility of Smith being robbed then appears to wrongly imply the impermissibility of helping him who has been robbed). See also Åqvist 1967, which has been very influential.
 
@@ -1125,7 +1125,7 @@ and this is equivalent by definition to $\neg \PE \neg p \rightarrow \PE p$. Las
 
 [^canavotto-2019]: Canavotto, Ilaria and Alessandro Giordani, 2019, “Enriching Deontic Logic”, *Journal of Logic and Computation*, 29(2): 241–263. doi:10.1093/logcom/exy007
 
-[^cariani-2013]: Cariani, Fabrizio, 2013, “‘Ought’ and Resolution Semantics *: ‘Ought’ and Resolution Semantics”, *Noûs*, 47(3): 534–558. doi:10.1111/j.1468-0068.2011.00839.x
+[^cariani-2013]: Cariani, Fabrizio, 2013, “‘Ought’ and Resolution Semantics \*: ‘Ought’ and Resolution Semantics”, *Noûs*, 47(3): 534–558. doi:10.1111/j.1468-0068.2011.00839.x
 
 [^cariani-nd]: Cariani, Fabrizio, forthcoming, “Deontic Logic and Natural Language”, in Gabbay et al. forthcoming.
 
@@ -1509,7 +1509,7 @@ and this is equivalent by definition to $\neg \PE \neg p \rightarrow \PE p$. Las
 
 [^wright-1971]: –––, 1971, “A New System of Deontic Logic”, in Hilpinen 1971: 103–120.
 
-[^vranas-2008]: Vranas, Peter B. M., 2008, “New Foundations for Imperative Logic I: Logical Connectives, Consistency, and Quantifiers*”, *Noûs*, 42(4): 529–572. doi:10.1111/j.1468-0068.2008.00684.x
+[^vranas-2008]: Vranas, Peter B. M., 2008, “New Foundations for Imperative Logic I: Logical Connectives, Consistency, and Quantifiers\*”, *Noûs*, 42(4): 529–572. doi:10.1111/j.1468-0068.2008.00684.x
 
 [^vranas-2010]: –––, 2010, “In Defense of Imperative Inference”, *Journal of Philosophical Logic*, 39(1): 59–71. doi:10.1007/s10992-009-9108-8
 

@@ -127,7 +127,7 @@ A further issue is whether the *size* or *degree* of an individual’s causal co
 
 Much of the debate takes (i) for granted and focuses on the plausibility of (ii). Some authors have challenged (ii) by highlighting cases in which killing intuitively “small-scale” contributors is intuitively permissible (Frowe 2014a: 78, 175)[^frowe-2014a]. For example:
 
-*Bathtub*: Bad Guy wants to drown Victim in the bathtub and offers a $20 reward for helpers. Bad Guy holds Victim down, while 110 Helpers each pour one liter of water into the bath. 100 liters are sufficient to kill Victim. (For a similar case, see Draper 2016: 82)[^draper-2016]
+*Bathtub*: Bad Guy wants to drown Victim in the bathtub and offers a \$20 reward for helpers. Bad Guy holds Victim down, while 110 Helpers each pour one liter of water into the bath. 100 liters are sufficient to kill Victim. (For a similar case, see Draper 2016: 82)[^draper-2016]
 
 Each Helper contributes a tiny portion of the water that kills Victim and each Helper’s contribution makes no difference to whether Victim is killed (the threat is overdetermined.) Yet it seems plausible that Victim is permitted to kill (at least) one Helper if doing so is necessary to escape.
 

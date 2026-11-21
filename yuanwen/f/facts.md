@@ -241,7 +241,7 @@ B1 and B3 together entail B4. Assuming B1 and B4, B2 is equivalent to B3. Notice
 
 ![Node and arrow diagram: B1+B3 arrow to B4; B2 arrow to and from B3 with arrow marked [B1,B4]; B3 arrow to B4 marked [Plenitude] ; B1 arrow to Plenitude ; B4 arrow to Plenitude.](../assets/facts/fig1.svg)
 
-*Figure 1.*
+\*Figure 1.\*
 
 It is tempting to adopt the principle:
 
@@ -271,33 +271,33 @@ The W-principles have mates of a certain interest:
 
 **W$1'$.**
 
-Every singleton* is characterized by some non-empty set of facts;
+Every singleton\* is characterized by some non-empty set of facts;
 
 **W$2'$.**
 
-Every singleton* is characterized by some fact;
+Every singleton\* is characterized by some fact;
 
 **W$3'$.**
 
-Every non-empty set* is characterized by some non-empty set of facts;
+Every non-empty set\* is characterized by some non-empty set of facts;
 
 **W$4'$.**
 
-Every non-empty set* is characterized by some fact.
+Every non-empty set\* is characterized by some fact.
 
-A *set\** is a set of worlds which contains all twins of its members $(\varnothing$ and $W$ are then sets*), and a *singleton*\* is a set* whose members are all twins. Notice that all existence-sets, conjunctive existence-sets and disjunctive existence-sets, as well as their complements in $W$, are sets*.
+A *set\** is a set of worlds which contains all twins of its members $(\varnothing$ and $W$ are then sets\*), and a *singleton*\* is a set\* whose members are all twins. Notice that all existence-sets, conjunctive existence-sets and disjunctive existence-sets, as well as their complements in $W$, are sets\*.
 
 W4 entails both W2 and W3, and in turn each of them entails W1. All the same, W$4'$ entails both W$2'$ and W$3'$, and in turn each of them entails W$1'$. *No Twins* is a consequence of W1. Under the assumption that *No Twins* is true, each W$i$ is equivalent to W$i'$. So each W$i$ entails W$i'$. W$4'$ entails all the Bs. W$1'$ entails *Plenitude*. W4 is thus an extremely strong principle, since it entails all the principles we have met so far. See Figure 2.
 
 ![Node and arrow diagram: Wi arrow to Wi'; Wi arrow to/from Wi' marked No Twins; W1 arrow to No Twins; W2 arrows to W3 and W2; W3 arrow to W1 ; W2 arrow to W1 ; W4' arrows to W3', W2', and B1+B2+B3+B4 ; W2' arrow to W1' ; W3' arrow to W1' ; W1' arrow to Plenitude](../assets/facts/fig2.svg)
 
-*Figure 2.*
+\*Figure 2.\*
 
 W$4'$ is equivalent to B$2 +$ W$3'$, W$2'$ plus B3 yields W$4'$, W$1'$ plus B2 yields W$2'$. B1 yields W$1'$. See Figure 3.
 
 ![Node and arrow diagram: B2+W3 arrow to/from W4 ; B2+W3' arrow to/from W4' ; B3+W2 arrow to W4 ; B3+W2' arrow to W4' ; B2+W1 arrow W2 ; B2+W1' arrow to W2' ; B1+No Twins arrow to W1 ; B1 arrow to W1'](../assets/facts/fig3.svg)
 
-*Figure 3.*
+\*Figure 3.\*
 
 All the previous principles are compatible with there being distinct facts existing at exactly the very same worlds. One may wish to deny that this is possible, and adopt:
 
@@ -406,7 +406,7 @@ Here is a table indicating, for some theories, which operations they allow $(+$ 
 | *Zalta 1991 first interpretation \** | + | + restricted to finite collections of facts | + restricted to finite collections of facts |
 | *Zalta 1991 second interpretation \** | − | + restricted to finite collections of facts | − |
 
-(On the entries containing a *, see the supplementary document [Some Formal Theories in the Literature](facts.formal-theories.md).) In the case of Restall, commitment to all three operations directly follows from the fact that his theory validates W4 and *Modal Criterion*. Taylor in fact has no modal theory of facts, but it seems that in a natural modal extension of his theory the previously mentioned acceptance claims should be correct. The restrictions in Taylor’s case are due to the fact that he works with standard first-order languages. Taylor is concerned with giving a theory of the facts “posited” by standard first-order languages, i.e., of the facts which play a role in determining the truth-values of the sentences of that language. Standard first-order languages admit of conjunction and disjunction only on finite collections of sentences, hence the restrictions relative to facts. But clearly, moving to languages in which infinite conjunctions and disjunctions are freely allowed, the restrictions would vanish.
+(On the entries containing a \*, see the supplementary document [Some Formal Theories in the Literature](facts.formal-theories.md).) In the case of Restall, commitment to all three operations directly follows from the fact that his theory validates W4 and *Modal Criterion*. Taylor in fact has no modal theory of facts, but it seems that in a natural modal extension of his theory the previously mentioned acceptance claims should be correct. The restrictions in Taylor’s case are due to the fact that he works with standard first-order languages. Taylor is concerned with giving a theory of the facts “posited” by standard first-order languages, i.e., of the facts which play a role in determining the truth-values of the sentences of that language. Standard first-order languages admit of conjunction and disjunction only on finite collections of sentences, hence the restrictions relative to facts. But clearly, moving to languages in which infinite conjunctions and disjunctions are freely allowed, the restrictions would vanish.
 
 In the light of the previous table, there are four main views as to which Boolean operations are to be accepted:
 
@@ -466,19 +466,19 @@ $\tau_3 +$ ‘$F$ is generated by an independent set via conjunction’;
 
 $\tau_4 +$ ‘$F$ is generated by an independent set via Booleanization’.
 
-Let *φ* be the function which associates to each singleton* the common domain of its members. Consider now the following principles:
+Let *φ* be the function which associates to each singleton\* the common domain of its members. Consider now the following principles:
 
 **Co1.**
 
-*φ* is a bijection from the set of all singletons* onto the set of all sets of facts;
+*φ* is a bijection from the set of all singletons\* onto the set of all sets of facts;
 
 **Co3.**
 
-*φ* is a bijection from the set of all singletons* onto the set of all conjunctively complete sets of facts;
+*φ* is a bijection from the set of all singletons\* onto the set of all conjunctively complete sets of facts;
 
 **Co4.**
 
-*φ* is a bijection from the set of all singletons* onto the set of all maximal consistent sets of facts.
+*φ* is a bijection from the set of all singletons\* onto the set of all maximal consistent sets of facts.
 
 For $i = 1, 3$ or 4, $\textrm{T}_i$ entails Co$_i$. If *No Twins* is added to each theory, each $\textrm{T}_i$ entails the principle which results from replacing ‘*φ*’ by ‘$F$’ and ‘the set of all singletons’ by ‘$W$’ in Co$_i$:
 
@@ -518,7 +518,7 @@ In the presence of *No Twins*, $\textrm{T}_4$ entails all the Ws.
 
 $\textrm{T}_1$ is a component of Wittgenstein’s logical atomism in Wittgenstein *TLP*. It also appears in Cresswell 1972. Suszko 1968 has something very close to $\textrm{T}_4$ (cf. the supplementary document [Some Formal Theories in the Literature](facts.formal-theories.md)).
 
-Armstrong (1997)[^armstrong-1997] works with a different notion of independency, which we may call *independency\**. A set of facts is independent* iff given any of it subsets $G$ and any of its member $x$ not in $G$, it is possible that the members of $G$ exist without $x$, and it is also possible that they exist with $x$. Independency is strictly stronger than independency*: The independency*, but not the independency, of a set is compatible with there being a member of that set existing in every world (not the same member each time, of course). Armstrong expresses the hope that the set of atomic facts he countenances is independent*, though he recognizes that there may be difficulties to defend the view. We do not know whether he would express the hope that the set of atomic facts he countenances is independent *tout court*. Anyway, even if he held the view he would not endorse $\textrm{T}_3$, since he recognizes “totality facts” (cf. section 2.4.2), which are not conjunctions of atomic facts.
+Armstrong (1997)[^armstrong-1997] works with a different notion of independency, which we may call *independency\**. A set of facts is independent\* iff given any of it subsets $G$ and any of its member $x$ not in $G$, it is possible that the members of $G$ exist without $x$, and it is also possible that they exist with $x$. Independency is strictly stronger than independency\*: The independency\*, but not the independency, of a set is compatible with there being a member of that set existing in every world (not the same member each time, of course). Armstrong expresses the hope that the set of atomic facts he countenances is independent\*, though he recognizes that there may be difficulties to defend the view. We do not know whether he would express the hope that the set of atomic facts he countenances is independent *tout court*. Anyway, even if he held the view he would not endorse $\textrm{T}_3$, since he recognizes “totality facts” (cf. section 2.4.2), which are not conjunctions of atomic facts.
 
 ### 2.4 Facts and Propositions
 

@@ -12,7 +12,7 @@ In this supplementary note, we present some alternative views about which kind o
 
 *Specificity*: *N* applies specifically to assertion: only assertions are subject to *N*.
 
-(A1*)
+(A1\*)
 
 *Directness*: Assertions are subject to *N* directly, qua assertions.
 
@@ -42,7 +42,7 @@ The suggestion is that if (1a) must meet the epistemic standards set by *N*, so 
 
 *Uniqueness*: There is only one norm of assertion: assertion is only subject to *N*
 
-(A2*)
+(A2\*)
 
 *Indirectness*: Assertions are subject to other normative standards, but only indirectly (not in virtue of the fact that they are assertions).
 

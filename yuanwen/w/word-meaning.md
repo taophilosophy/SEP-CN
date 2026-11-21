@@ -86,7 +86,7 @@ Construed as theorems of a semantic theory, T-biconditionals were often accused 
 
 (To be read, respectively, as “the predicate ‘man’ applies to *x* if and only if *x* is a man” and “the predicate ‘know’ applies to the pair $\langle x, y\rangle$ if and only if *x* knows *y*”). Here it is apparent that in order to understand (V1) one must know what ‘man’ means, which is just the information that (V1) is supposed to convey (as the theory, being purely extensional, identifies meaning with reference). Some Davidsonians, though admitting that statements such as (V1) and (V2) are in a sense “uninformative”, insist that what (V1) and (V2) state is no less “substantive” (Larson & Segal 1995). To prove their point, they appeal to non-homophonic versions of lexical axioms, i.e., to the axioms of a semantic theory for a language that does not coincide with the (meta)language in which the theory itself is phrased. Such would be, e.g.,
 
-- (V3) *Val*(*x*, ‘man’) si et seulement si *x* est un homme.
+- (V3) *Val*(*x*, ‘man’) *si et seulement si x est un homme.*
 
 (V3), they argue, is clearly substantive, yet what it says is exactly what (V1) says, namely, that the word ‘man’ applies to a certain category of objects. Therefore, if (V3) is substantive, so is (V1). But this is beside the point. The issue is not whether (V1) expresses a proposition; it clearly does, and it is, in this sense, “substantive”. But what is relevant here is informative power: to one who understands the metalanguage of (V3), i.e., French, (V3) may communicate new information, whereas there is no circumstance in which (V1) would communicate new information to one who understands English.
 

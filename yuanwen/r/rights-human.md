@@ -582,7 +582,7 @@ For the 2024 update, Adam Etinson has joined James Nickel in authoring and revis
 
 [^renzo-2012]: Renzo, Massimo, 2012, “Crimes Against Humanity and the Limits of International Criminal Law”, *Law and Philosophy*, 31(4): 443–476. doi:10.1007/s10982-012-9127-4
 
-[^renzo-2015a]: –––, 2015a, “Human Needs, Human Rights*”, in Cruft, Liao, and Renzo 2015: 570–587 (ch. 32). doi:10.1093/acprof:oso/9780199688623.003.0033
+[^renzo-2015a]: –––, 2015a, “Human Needs, Human Rights\*”, in Cruft, Liao, and Renzo 2015: 570–587 (ch. 32). doi:10.1093/acprof:oso/9780199688623.003.0033
 
 [^renzo-2015b]: –––, 2015b, “Human Rights and the Priority of the Moral”, *Social Philosophy and Policy*, 32(1): 127–148. doi:10.1017/S0265052515000102
 
@@ -676,7 +676,7 @@ For the 2024 update, Adam Etinson has joined James Nickel in authoring and revis
 
 [^wellman-2010]: –––, 2010, *The Moral Dimensions of Human Rights*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199744787.001.0001
 
-[^wellman-2012]: Wellman, Christopher Heath, 2012, “Debate: Taking Human Rights Seriously*”, *Journal of Political Philosophy*, 20(1): 119–130. doi:10.1111/j.1467-9760.2011.00407.x
+[^wellman-2012]: Wellman, Christopher Heath, 2012, “Debate: Taking Human Rights Seriously\*”, *Journal of Political Philosophy*, 20(1): 119–130. doi:10.1111/j.1467-9760.2011.00407.x
 
 [^wenar-2005]: Wenar, Leif, 2005, “The Nature of Rights”, *Philosophy & Public Affairs*, 33(3): 223–252. doi:10.1111/j.1088-4963.2005.00032.x
 

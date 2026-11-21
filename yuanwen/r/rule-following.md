@@ -140,17 +140,17 @@ Whatever makes it the case that (a) provides the correctness conditions for utte
 
 Now, let’s consider the case of plans, which are expressed in sentences that wear their non-descriptive semantic function on their sleeves. (We choose the case of plans deliberately here, as a view of this kind is mooted in Gibbard 2012.)[^gibbard-2012] Take the sentence ‘Let’s write a fugue!’. Consider two possible correctness conditions for it:
 
-(a*)
+(a\*)
 
 ‘Let’s write a fugue!’, as uttered by Glenn, is correct iff Glenn plans to write a fugue
 
 and
 
-(b*)
+(b\*)
 
 ‘Let’s write a fugue!’, as uttered by Glenn, is correct iff either (a) it is time *t* earlier than *t*\* and Glenn plans to write a fugue or (b) it is time *t* later than or equal to *t*\* and Glenn plans to write a novel.
 
-Glenn’s finite nature together with the infinitude of the temporal sequence ensures that the sceptic will always be able to argue that no fact about Glenn is capable of ruling in something like (a*) and ruling out something like (b*) as the relevant correctness condition. The non-factualist is entitled to regard “Let’s write a fugue!” as having a determinate meaning only if she can provide some fact about Glenn or his speech community that determines that that sentence is governed by (a*) rather than (b*). The same argument can be pressed against the suggestion that “Jones means addition by ‘+’” should be regarded as having some non-descriptive semantic function. The non-factualist will be able to regard “Jones means addition by ‘+’” as having a determinate meaning only if she can provide some fact about Jones or his speech community that determines that that sentence is governed by one rule or correctness condition rather than another.
+Glenn’s finite nature together with the infinitude of the temporal sequence ensures that the sceptic will always be able to argue that no fact about Glenn is capable of ruling in something like (a\*) and ruling out something like (b\*) as the relevant correctness condition. The non-factualist is entitled to regard “Let’s write a fugue!” as having a determinate meaning only if she can provide some fact about Glenn or his speech community that determines that that sentence is governed by (a\*) rather than (b\*). The same argument can be pressed against the suggestion that “Jones means addition by ‘+’” should be regarded as having some non-descriptive semantic function. The non-factualist will be able to regard “Jones means addition by ‘+’” as having a determinate meaning only if she can provide some fact about Jones or his speech community that determines that that sentence is governed by one rule or correctness condition rather than another.
 
 So, a non-factualist account of any region of thought and talk, which is committed to the claim that there are no facts of the relevant sort, would seem to presupposes a realist account of meaning, content and rules according to which there are semantic facts, intentional facts, and facts about normative accord. So, a non-factualist account of meaning, content and rules, which is committed to the claim that there are no semantic facts, intentional facts, or facts about normative accord that our semantic, intentional, or normative discourse purports to capture, presupposes a realist account of meaning, content and rules according to which there are semantic facts, intentional facts, and facts about normative accord. It thus faces a charge of incoherence.
 

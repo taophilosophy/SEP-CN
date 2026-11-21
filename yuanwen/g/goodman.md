@@ -119,7 +119,7 @@ The Polish logician Stanisław Leśniewski (1886–1939) must surely count as th
 
 Quine only mentions that he himself “was able to help them on a technical problem” (Quine 1985, 122)[^quine-1985]. Leonard’s system of *Singular Terms* is significantly different from, and indeed in philosophically interesting ways weaker than, the Calculus of Individuals (Rossberg 2009)[^rossberg-2009][^rossberg-2009-2], but the exact extent of Goodman’s technical contribution to the calculus remains unknown.
 
-Perhaps surprisingly, nominalistic scruples were not the driving force behind the development the Calculus of Individuals. Instead, their goal is to solve a technical problem in Carnap’s *Aufbau* (1928) (see section 4 below), and to this end they employ both set-theoretic and mereological notions. Leonard, in his Ph.D. thesis (supervised by Alfred North Whitehead), presents his calculus as “an interpolation in Whitehead and Russell’s *Principia Mathematica* between *14 and *20” (Leonard 1967)[^leonard-1967], and makes liberal use of class-terms in the formulation (Leonard 1930)[^leonard-1930]. Also the joint paper of Leonard and Goodman is formulated using class terms, as is the system Goodman used in his own Ph.D. thesis, *A Study of Qualities* (1941, SQ). It is not until his joint article with Quine (Goodman and Quine 1947) and his *Structure of Appearance* (1951, SA) that Goodman eschews the use of set theory to formulate the Calculus of Individuals.
+Perhaps surprisingly, nominalistic scruples were not the driving force behind the development the Calculus of Individuals. Instead, their goal is to solve a technical problem in Carnap’s *Aufbau* (1928) (see section 4 below), and to this end they employ both set-theoretic and mereological notions. Leonard, in his Ph.D. thesis (supervised by Alfred North Whitehead), presents his calculus as “an interpolation in Whitehead and Russell’s *Principia Mathematica* between \*14 and \*20” (Leonard 1967)[^leonard-1967], and makes liberal use of class-terms in the formulation (Leonard 1930)[^leonard-1930]. Also the joint paper of Leonard and Goodman is formulated using class terms, as is the system Goodman used in his own Ph.D. thesis, *A Study of Qualities* (1941, SQ). It is not until his joint article with Quine (Goodman and Quine 1947) and his *Structure of Appearance* (1951, SA) that Goodman eschews the use of set theory to formulate the Calculus of Individuals.
 
 As mentioned above, parthood, as opposed to the set-theoretic notion of membership, is transitive: if *a* is a part of *b* and *b* is a part of *c*, then *a* is a part of *c*. Neither the system Leonard and Goodman present in their 1940 article, nor the version in Goodman’s *A Study of Qualities*, nor the calculus he uses in *The Structure of Appearance*, take “part” as primitive. Rather, it is in all three cases defined based on the sole primitive notion adopted: *overlap* in SA, and *discreteness* in the other two systems. Overlap can pre-systematically be understood as sharing a part in common; discreteness as sharing no part in common. All three systems indeed define parthood so that these two pre-systematic understandings come out as theorems.
 
@@ -151,13 +151,13 @@ Carnap tries to show that by using the method of “quasi-analysis” all the st
 
 ![[6 vertical colored bars, labeled A through F, A bar is green on the top half and black on the bottom half, B bar is all black, C bar is black on top half and red on bottom half, D bar is all red, E bar is all green, F bar is green on top third, black in middle third, and red on bottom third]](../assets/goodman/fig1a.png)
 
-*Figure 1a.*
+\*Figure 1a.\*
 
 However, we do not yet know that there are such things as colors. In fact the only thing we know about the erlebs (*A*–*F*) is that they are part similar as displayed in the following graph (where part-similarity between erlebs is indicated by a line):
 
 ![[Graph: A and E on first row (2nd and 4th columns respectively), B and F on second row (1st and 3rd columns respectively), C and D on third row (2nd and 4th columns respectively). A has lines connecting it to B, C, F, and E. B has lines connecting it to A, F, and C. C has lines connecting it to B, A, D, and F. D has lines connecting it to C and F. E has lines connecting it to A and F F has lines connecting it to all others.]](../assets/goodman/fig1b.png)
 
-*Figure 1b.*
+\*Figure 1b.\*
 
 If we take the graph and now group exactly those erlebs together that are mutually part-similar, we get the following sets:
 
@@ -169,13 +169,13 @@ Goodman observes, however, that in unfavorable circumstances quasi-analysis will
 
 ![[6 vertical colored bars, labeled A through F, A bar is green on the top half and black on the bottom half, B bar is all black, C bar is black on top half and red on bottom half, D bar is all red, E bar is black on the top half and green on the bottom half, F bar is green on top third, black in middle third, and red on bottom third]](../assets/goodman/fig2a.png)
 
-*Figure 2a.*
+\*Figure 2a.\*
 
 This corresponds to the following graph:
 
 ![[Graph: A on first row 3rd column, B and F on second row (1st and 5th columns respectively), D on third row, 6th column, E and C on fourth row (2nd and 4th columns respectively). A has lines connecting it to B, C, F, and E. B has lines connecting it to A, F, C, and E. C has lines connecting it to all others. D has lines connecting it to C and F. E has lines connecting it to B, A, F, and C F has lines connecting it to all others.]](../assets/goodman/fig2b.png)
 
-*Figure 2b.*
+\*Figure 2b.\*
 
 If we use Carnap’s rule for quasi-analysis, we will obtain all color classes except $\{A, E, F\}$, the color class for “green”, because green only occurs in “constant companionship” with the color “black”. Goodman calls this the “constant companionship difficulty”.
 
@@ -183,13 +183,13 @@ A second problem can be illustrated with the following example of erlebs:
 
 ![[6 vertical colored bars, labeled A through F, A bar is green on the top half and black on the bottom half, B bar is all black, C bar is black on top half and red on bottom half, D bar is all red, E bar is all green, F bar is green on top half and red on the bottom half]](../assets/goodman/fig3a.png)
 
-*Figure 3a.*
+\*Figure 3a.\*
 
 This corresponds to this graph:
 
 ![[Graph: A and E on first row (2nd and 4th columns respectively), B and F on second row (1st and 3rd columns respectively), C and D on third row (2nd and 4th columns respectively). A has lines connecting it to B, C, F, and E. B has lines connecting it to A and C. C has lines connecting it to B, A, D, and F. D has lines connecting it to C and F. E has lines connecting it to A and F F has lines connecting it to A, C, E, and D.]](../assets/goodman/fig3b.png)
 
-*Figure 3b.*
+\*Figure 3b.\*
 
 But here $\{A,C,F\}$ should be a color class resulting from quasi-analysis, although $A$, $C$, and $F$ have in fact no color in common. Goodman calls this problem “the difficulty of imperfect community”. It is controversial to what extent these problems are devastating for Carnap’s project, but Goodman considered them to be serious.
 

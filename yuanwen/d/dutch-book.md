@@ -48,9 +48,9 @@ The table gives the net payoff to an agent who buys a bet with stake $S$ for the
 
 Given a set of betting quotients that fails to satisfy the probability axioms, there is a set of bets with those quotients that guarantees a net loss to one side.
 
-It is easy to show how it is possible to make book against someone with betting quotients that violate the probability axioms. Let $Q(H)$ be the agent’s betting quotient for $H$. Assuming that the agent’s betting quotients violate the axioms, a bookie can guarantee himself a profit by placing bets with the agent as described below. For simplicity the stake is set here at $1, but the following recipes for constructing a book against such a person are easily adapted for other stakes.
+It is easy to show how it is possible to make book against someone with betting quotients that violate the probability axioms. Let $Q(H)$ be the agent’s betting quotient for $H$. Assuming that the agent’s betting quotients violate the axioms, a bookie can guarantee himself a profit by placing bets with the agent as described below. For simplicity the stake is set here at \$1, but the following recipes for constructing a book against such a person are easily adapted for other stakes.
 
-Axiom 1: Suppose that $Q(H) \lt 0$. In this case, the bookie buys the bet that pays $1 if $H$ is true and 0 otherwise, for the negative price $Q(H)$, which means that the agent collects $Q(H)$, and pays out $1 if $H$ is true, and $0 otherwise. Here the agent is betting against $H$ and the payoff table for the agent is as follows:
+Axiom 1: Suppose that $Q(H) \lt 0$. In this case, the bookie buys the bet that pays \$1 if $H$ is true and 0 otherwise, for the negative price $Q(H)$, which means that the agent collects $Q(H)$, and pays out \$1 if $H$ is true, and \$0 otherwise. Here the agent is betting against $H$ and the payoff table for the agent is as follows:
 
 | $H$ | Payoff |
 | --- | --- |
@@ -59,13 +59,13 @@ Axiom 1: Suppose that $Q(H) \lt 0$. In this case, the bookie buys the bet that p
 
 Since $Q(H)$ is negative, the agent will suffer a net loss regardless of the truth-value of $H$.
 
-Axiom 2: Suppose that an agent’s betting quotient for a tautology (or a logical or necessary truth) $H$ is not equal to 1. If $Q(H) \gt 1$ the bookie sells the bet that pays $1 if $H$ is true and 0 otherwise, for $Q(H)$. In the case where $Q(H) \lt 1$, the bookie will buy the bet in which the agent pays the bookie $1 if $H$ is true and nothing if $H$ is false, for $Q(H)$. In this case, the payoff table for the agent will again be as above for axiom 1. Notice that since $H$ is a tautology (or logical or necessary truth) it must be true, which means that at the conclusion of the bet, the agent will have lost [$1-Q(H)$].
+Axiom 2: Suppose that an agent’s betting quotient for a tautology (or a logical or necessary truth) $H$ is not equal to 1. If $Q(H) \gt 1$ the bookie sells the bet that pays \$1 if $H$ is true and 0 otherwise, for $Q(H)$. In the case where $Q(H) \lt 1$, the bookie will buy the bet in which the agent pays the bookie \$1 if $H$ is true and nothing if $H$ is false, for $Q(H)$. In this case, the payoff table for the agent will again be as above for axiom 1. Notice that since $H$ is a tautology (or logical or necessary truth) it must be true, which means that at the conclusion of the bet, the agent will have lost [$1-Q(H)$].
 
 Axiom 3 (Additivity): Assume that $H_{1}$ and $H_{2}$ are mutually exclusive and that $Q(H_{1}\vee H_{2}) \ne Q(H_{1}) + Q(H_{2})$. There are two cases,
 
 $$\begin{align} Q(H_1\vee H_2) &\gt Q(H_1) + Q(H_2), \text{ and} \\ Q(H_1\vee H_2) &\lt Q(H_1) + Q(H_2). \end{align}$$
 
-If $Q(H_{1}\vee H_{2}) \lt Q(H_{1}) + Q(H_{2})$, then the bookie will offer the agent the bet that pays $1 if $H_{1}$ and 0 otherwise for $Q(H_{1})$ and the bet that pays $1 if $H_{2}$ is true and 0 otherwise for $Q(H_{2})$. The bookie then buys the bet that will pay him $1, if $(H_{1}\vee H_{2})$ is true and 0 otherwise, for the price of $Q(H_{1}\vee H_{2})$. The possible payoffs to the agent are summed up in the following table:
+If $Q(H_{1}\vee H_{2}) \lt Q(H_{1}) + Q(H_{2})$, then the bookie will offer the agent the bet that pays \$1 if $H_{1}$ and 0 otherwise for $Q(H_{1})$ and the bet that pays \$1 if $H_{2}$ is true and 0 otherwise for $Q(H_{2})$. The bookie then buys the bet that will pay him \$1, if $(H_{1}\vee H_{2})$ is true and 0 otherwise, for the price of $Q(H_{1}\vee H_{2})$. The possible payoffs to the agent are summed up in the following table:
 
 | $H_{1}$ | $H_{2}$ | Net Payoff |
 | --- | --- | --- |
@@ -83,11 +83,11 @@ Thus, for each axiom, the individual bets involved in making the book are fair, 
 
 ### 1.2 A Detailed Version of the Dutch Book Argument
 
-The Dutch Book argument has often been presented as establishing that degrees of belief that violate the axioms are irrational because they can (or do) lead to bad consequences. It assumes that an agent’s degrees of belief are associated with her betting quotients such that (1) for an agent with degree of belief $q$ in $M$ a bet on or against $M$ at corresponding odds will be acceptable. With payoffs in dollars and stake $S$, this amounts to the claim that the agent should be willing to take either direction of a bet with a cost of $$Sq$ that pays
+The Dutch Book argument has often been presented as establishing that degrees of belief that violate the axioms are irrational because they can (or do) lead to bad consequences. It assumes that an agent’s degrees of belief are associated with her betting quotients such that (1) for an agent with degree of belief $q$ in $M$ a bet on or against $M$ at corresponding odds will be acceptable. With payoffs in dollars and stake $S$, this amounts to the claim that the agent should be willing to take either direction of a bet with a cost of \$$Sq$ that pays
 
-| $$S$ | if $M$ |
+| $\$S$ | if $M$ |
 | --- | --- |
-| $$0$ | otherwise |
+| $\$0$ | otherwise |
 
 But then (2) by the Dutch Book theorem a cunning bettor could assure himself a profit from someone who violates the probability axioms. Since (3) violating the axioms leaves the bettor open to being Dutch Booked (that is, being on the losing side of the Dutch Book) because her degrees of belief make acceptable bets leading to a sure loss, it is concluded that (4) one ought to satisfy the probability axioms (i.e. that probabilism is true). In some presentations, the first premise is strengthened to the claim that the agent actually will accept those bets on $M$ for which her degree of belief matches the betting quotient, in an effort to tighten the connection between violating the axioms and the sure loss.
 
@@ -151,11 +151,11 @@ In “Truth and Probability”, Ramsey assumes that, at least under idealized co
 
 ### 2.2 Depragmatized Arguments
 
-Several philosophers have sought to establish coherence as a consistency constraint on degrees of belief through a version of the DBA that does not presuppose any definite connection between degrees of belief and preference (Christensen 1996, 2004; Howson and Urbach 1993; Hellman 1997)[^christensen-1996][^christensen-2004][^howson-1993]. These so-called *depragmatized* arguments purport to improve upon Ramsey’s treatment by making clear how coherence is supposed to mirror the ordinary notion of consistency. Howson and Urbach attempt this by identifying an agent’s degree of belief in $M$ with the bets she regards as fair, such that for credence $q$ in $M$, a bet with cost $$Sq$ that pays
+Several philosophers have sought to establish coherence as a consistency constraint on degrees of belief through a version of the DBA that does not presuppose any definite connection between degrees of belief and preference (Christensen 1996, 2004; Howson and Urbach 1993; Hellman 1997)[^christensen-1996][^christensen-2004][^howson-1993]. These so-called *depragmatized* arguments purport to improve upon Ramsey’s treatment by making clear how coherence is supposed to mirror the ordinary notion of consistency. Howson and Urbach attempt this by identifying an agent’s degree of belief in $M$ with the bets she regards as fair, such that for credence $q$ in $M$, a bet with cost \$$Sq$ that pays
 
-| $$S$ | if $M$ |
+| $\$S$ | if $M$ |
 | --- | --- |
-| $$0$ | otherwise |
+| $\$0$ | otherwise |
 
 is taken as fair. They then employ the Dutch Book theorem to argue that incoherent degrees of belief cannot in fact be fair betting quotients, and thus that incoherence involves taking a set of bets as fair that cannot be fair, which is supposed to parallel having inconsistent beliefs.
 
@@ -191,7 +191,7 @@ Given a countable infinity of mutually exclusive and exhaustive ways $W_i$ in wh
 
 $$ \pr(A) = \sum_{i=1}^{\infty} \pr(W_i). $$
 
-A Dutch Book argument can be constructed for the principle by extending the Dutch Book for finite additivity (Adams 1962; Jeffrey 2004; Williamson 1999)[^adams-1962][^jeffrey-2004][^williamson-1999] by appealing to an infinite set of bets that each pay $1 if $W_i$ is true for the price $\pr(W_i)$. In the case of the Dutch Book argument for countable additivity, there is an additional reason beyond those for the basic argument to favor the interpretation of it, as Jeffrey does, as establishing the principle as a consistency constraint, since the loss is purely theoretical. There is no threat of an actual loss to an agent since this would require an infinite series of bets, which cannot all be made and settled. However, the principle itself is controversial, making the Dutch Book argument for countable additivity highly provocative. Both de Finetti (1972)[^finetti-1972] and Savage (1954)[^savage-1954] argued that the principle should not be invoked as a constraint on rational degrees of belief. A consequence of the principle is that it prohibits positive credences that are uniformly distributed over a countably infinite partition, and yet it seems at least acceptable, in the absence of a reason to favor some possibilities over others, to adopt such a distribution. Intuitively, a uniform distribution ought to count as consistent, which puts pressure on the idea, at least when it comes to countable additivity, that Dutch Books reveal a defect that is substantially analogous to inconsistency. In the background, as with the basic argument, the Dutch Book argument for countable additivity makes significant assumptions about how degrees of belief are linked with preference and assessments of value. For details concerning how these relate to the demand that an agent’s degrees of belief satisfy countable additivity, see (Seidenfeld and Schervish 1983)[^seidenfeld-1983]. For a recent critical discussion of the argument, see Pettigrew (2020)[^pettigrew-2020].
+A Dutch Book argument can be constructed for the principle by extending the Dutch Book for finite additivity (Adams 1962; Jeffrey 2004; Williamson 1999)[^adams-1962][^jeffrey-2004][^williamson-1999] by appealing to an infinite set of bets that each pay \$1 if $W_i$ is true for the price $\pr(W_i)$. In the case of the Dutch Book argument for countable additivity, there is an additional reason beyond those for the basic argument to favor the interpretation of it, as Jeffrey does, as establishing the principle as a consistency constraint, since the loss is purely theoretical. There is no threat of an actual loss to an agent since this would require an infinite series of bets, which cannot all be made and settled. However, the principle itself is controversial, making the Dutch Book argument for countable additivity highly provocative. Both de Finetti (1972)[^finetti-1972] and Savage (1954)[^savage-1954] argued that the principle should not be invoked as a constraint on rational degrees of belief. A consequence of the principle is that it prohibits positive credences that are uniformly distributed over a countably infinite partition, and yet it seems at least acceptable, in the absence of a reason to favor some possibilities over others, to adopt such a distribution. Intuitively, a uniform distribution ought to count as consistent, which puts pressure on the idea, at least when it comes to countable additivity, that Dutch Books reveal a defect that is substantially analogous to inconsistency. In the background, as with the basic argument, the Dutch Book argument for countable additivity makes significant assumptions about how degrees of belief are linked with preference and assessments of value. For details concerning how these relate to the demand that an agent’s degrees of belief satisfy countable additivity, see (Seidenfeld and Schervish 1983)[^seidenfeld-1983]. For a recent critical discussion of the argument, see Pettigrew (2020)[^pettigrew-2020].
 
 ## 4. Diachronic Dutch Book Arguments
 
@@ -203,25 +203,25 @@ The Rule of Conditionalization is commonly endorsed for updating probabilities i
 
 | (Bet 1) | for $\pr_1(A\wedge E)$: |   |
 | --- | --- | --- |
-|   | $$1$ | if $A \wedge E$ |
-|   | $$0$ | otherwise |
+|   | $\$1$ | if $A \wedge E$ |
+|   | $\$0$ | otherwise |
 
 | (Bet 2) | for $\pr_1(A\mid E)\pr_1(\neg E)$: |   |
 | --- | --- | --- |
-|   | $$\pr_1(A\mid E)$ | if $\neg E$ |
-|   | $$0$ | otherwise |
+|   | $\$\pr_1(A\mid E)$ | if $\neg E$ |
+|   | $\$0$ | otherwise |
 
 | (Bet 3) | for $[\pr_1(A\mid E) - \pr_2(A)]\cdot \pr_1(E)$: |   |
 | --- | --- | --- |
-|   | $$\pr_1(A\mid E) - \pr_2(A)$ | if $E$ |
-|   | $$0$ | otherwise |
+|   | $\$\pr_1(A\mid E) - \pr_2(A)$ | if $E$ |
+|   | $\$0$ | otherwise |
 
 If $E$ is false, the agent has a net loss of [$\pr_{1}(A\mid E) -$ $\pr_{2}(A)$] $\pr_{1}(E)$. If $E$ is true, then the bookie buys back a fourth bet:
 
 | (Bet 4) | for $\pr_2(A)$: |   |
 | --- | --- | --- |
-|   | $$1$ | if $A$ |
-|   | $$0$ | otherwise |
+|   | $\$1$ | if $A$ |
+|   | $\$0$ | otherwise |
 
 Bets 1 and 2 together amount to a conditional bet on $A$, which is called off if $E$ is false. In the event that $E$ is true, this bet is bought back at the lower price of $\pr_{2}(A)$. Bet 3 spreads the expected winnings of that exchange in order to assure a profit in the case that $E$ is false. Thus, if $E$ is true the agent suffers a net loss of [ $\pr_{1}(A\mid E) - \pr_{2}(A)$] $\pr_{1}(E)$. If $\pr_{2}(A) \gt \pr_{1}(A\mid E)$, then the strategy involves reversing the direction of the above bets. Where dollars are taken as measures of utility, each bet is fair given the agent’s beliefs at the time offered. There is also a converse Dutch Book theorem that shows that adhering to conditionalization avoids Dutch Book vulnerability Skyrms (1987b)[^skyrms-1987b].
 
@@ -259,18 +259,18 @@ A Dutch Strategy argument has also been given for the controversial Principle of
 
 | (Bet 1) | for $\pr(A \wedge \pr_t(A) = r)$: |   |
 | --- | --- | --- |
-|   | $$1$ | if $(A \wedge \pr_t(A) = r)$ |
-|   | $$0$ | otherwise |
+|   | $\$1$ | if $(A \wedge \pr_t(A) = r)$ |
+|   | $\$0$ | otherwise |
 
 | (Bet 2) | for $x\,\pr(\pr_t(A)\ne r)$: |   |
 | --- | --- | --- |
-|   | $$x$ | if $\pr_t(A)\ne r$ |
-|   | $$0$ | otherwise |
+|   | $\$x$ | if $\pr_t(A)\ne r$ |
+|   | $\$0$ | otherwise |
 
 | (Bet 3) | for $(x-r)\,\pr(\pr_{t}(A) = r)$: |   |
 | --- | --- | --- |
-|   | $$x-r$ | if $\pr_t(A) = r$ |
-|   | $$0$ | otherwise |
+|   | $\$x-r$ | if $\pr_t(A) = r$ |
+|   | $\$0$ | otherwise |
 
 where $x = \pr(A \mid \pr_{t}(A) = r)$.
 

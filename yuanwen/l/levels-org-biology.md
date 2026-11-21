@@ -97,7 +97,7 @@ This point is “the closest that [Wimsatt] will come to a definition” (1976a:
 
 ![a diagram: link to extended description below](../assets/levels-org-biology/wimsatt-maxima-levels.png)
 
-*Figure 1.* Wimsatt's levels of organization. Based on Wimsatt (1976a: 240)[^wimsatt-1976a], created in 1973; used with permission. [An extended description of figure 1 is in the supplement.]
+\*Figure 1.\* Wimsatt's levels of organization. Based on Wimsatt (1976a: 240)[^wimsatt-1976a], created in 1973; used with permission. [An extended description of figure 1 is in the supplement.]
 
 Wimsatt points out many other features that levels may have: For example, processes at higher levels tend to happen at slower rates than processes at lower levels, higher level properties are typically multiply realized by lower level properties, and higher-level causal relationships are dynamically autonomous in the sense of being largely independent of what happens at lower-levels. What differentiates levels will also vary between instances, and may include part-whole distinctions, the magnitudes of forces by which things interact, or, pragmatically, considerations of size of different constituents.
 
@@ -253,7 +253,7 @@ The concept of levels of organization plays a prominent role as a pedagogical re
 
 ![Box with blue onion cells labelled: Organelles: The nucleus, dyed blue in these onion cells, is an example of an organell; arrow to box with b/w pic of toroidal shapes labelled: Cells: Human blood cells; arrow to box with cut-away pic of human skin showing many layers labelled: Tissues: Human skin tissue; arrow to box with cut-away pic of cartoon human with orange line from mouth to stomach, yellow stomach, orange small intestines, green colon labelled: Organs and Organ Systems: Organs, such as the stomach and intestine, make up the human digestive system; arrow to box with pic of forest labelled: Organisms, Populations, and Communities: In a forest, each pine tree is an organism. Together all the pine trees make up a population. All the plant and animal species in the forsest comprise a community; arrow to box with pic of forest by the shore of a body of water labelled: Ecosystems: This coastal ecosystem in the southeastern United States includes living organisms and the environment in which they live; arrow to box with world map in an oval labelled: The Biosphere: Encompasses all the ecosystems on Earth.](../assets/levels-org-biology/bio-levels-org.png)
 
-*Figure 2.* Diagram of levels of organization from *General Biology* (Boundless), [§1.8](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/01%3A_The_Study_of_Life/1.08%3A__Themes_and_Concepts_of_Biology_-_Levels_of_Organization_of_Living_Things); CC BY-SA 4.0
+\*Figure 2.\* Diagram of levels of organization from *General Biology* (Boundless), [§1.8](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/01%3A_The_Study_of_Life/1.08%3A__Themes_and_Concepts_of_Biology_-_Levels_of_Organization_of_Living_Things); CC BY-SA 4.0
 
 Some of the usage patterns one finds in support of these basic themes within contemporary textbooks include, e.g., (i) the apparent preponderance of emergence in living systems, (ii) the need to be aware of the relative success of reductive and non-reductive, “systemic” approaches to analyzing biological phenomena, and (iii) the need to actively embed choices of investigation within appropriate methods that are more-or-less useful at different scale resolutions. These uses, present already in early historical textbook references to levels, in turn has been offered as a partial explanation for the rapid uptake of the concept in the textbook literature in the mid-twentieth century.
 
@@ -261,7 +261,7 @@ The efforts of Eugene P. Odum (see especially Odum 1959; 1963; cf. Odum 1953)[^o
 
 ![Rectangle with 'matter' inside on the left and 'energy' inside on the right, connected by wavy lines; from left to right, outside the box, there are the following labels connected to the rectangle: 'genes'/'genetic systems', 'cells'/'cell systems', 'organs'/'organ systems', 'organisms'/'organismic systems', 'populations'/'population systems', 'communities'/'ecosystems'; all of this is labelled 'Biosphere' and there is an underbracket covering organismic systems, population systems, and ecosystems that is labelled 'area of major ecological concern'](../assets/levels-org-biology/odum-levels-spectrum.svg)
 
-*Figure 3.* Levels of organization diagram redrawn from Odum 1971, 5.
+\*Figure 3.\* Levels of organization diagram redrawn from Odum 1971, 5.
 
 To be sure, while scientific textbooks often only allude to cutting-edge science, preferring to display established knowledge accessible to novices, this already enables viewing the levels concept as exhibiting usefulness for later stages of scientific training, particularly when seen as a scientific doctrine (see Brooks 2021a: 47–50, for a discussion)[^brooks-2021a][^brooks-2021a-2]. Specifically, and especially when viewed with the motivation to teach students “how to think like a biologist” (Urry et al. 2016)[^urry-2016], the centrality of the levels concept in textbooks can be seen as representative of the expressive power of the concept in reconstructing scientific reasoning.
 

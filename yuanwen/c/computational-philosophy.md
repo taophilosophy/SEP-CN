@@ -57,7 +57,7 @@ Figure 1 shows the changes in agent opinions over time in single runs with thres
 
 ![three graphs: link to extended description below](../assets/computational-philosophy/Picture1.png)
 
-*Figure 1:* Example changes in opinion across time from single runs with different threshold values $\varepsilon \in \{0.01, 0.15, 0.25\}$ in the Hegselmann and Krause (2002) model. [An extended description of figure 1 is in the supplement.]
+\*Figure 1:\* Example changes in opinion across time from single runs with different threshold values $\varepsilon \in \{0.01, 0.15, 0.25\}$ in the Hegselmann and Krause (2002) model. [An extended description of figure 1 is in the supplement.]
 
 An illustration of average outcomes for different threshold values appears as figure 2. What is represented here is not change over time but rather the final opinion positions given different threshold values. As the threshold value climbs from 0 to roughly 0.20, there is an increasing number of results with concentrations of agents at the outer edges of the distribution, which themselves are moving inward. Between 0.22 and 0.26 there is a quick transition from results with two final groups to results with a single final group. For values still higher, the two sides are sufficiently within reach that they coalesce on a central consensus, although the exact location of that final monolithic group changes from run to run creating the fat central spike shown. Hegselmann and Krause describe the progression of outcomes with an increasing threshold as going through three phases: “*from fragmentation (plurality) over polarisation (polarity) to consensus (conformity)*.” (2002: 11, authors’ italics)
 
@@ -85,7 +85,7 @@ The topic of polarization is anticipated in an earlier tradition of cellular aut
 | 18261 | 18215 | 70977 | 15211 | 92822 | 74561 | 60786 | 34255 | 07420 | 42317 |
 | 30487 | 23057 | 24656 | 03204 | 60418 | 56359 | 57759 | 01783 | 21967 | 84773 |
 
-*Figure 3:* Typical initial set of “cultures” for a basic Axelrod-style model consisting of 100 agents on a $10 \times 10$ lattice with five features and 10 possible traits per agent. The marked sight shares two of five traits with the site above it, giving it a cultural similarity score of 40% (Axelrod 1997)[^axelrod-1997].
+\*Figure 3:\* Typical initial set of “cultures” for a basic Axelrod-style model consisting of 100 agents on a $10 \times 10$ lattice with five features and 10 possible traits per agent. The marked sight shares two of five traits with the site above it, giving it a cultural similarity score of 40% (Axelrod 1997)[^axelrod-1997].
 
 For each iteration, the model picks at random an agent to be active and one of its neighbors. With probability equal to their cultural similarity, the two sites interact and the active agent changes one of its dissimilar elements to that of its neighbor. If agent $i = \langle 8, 7, 2, 5, 4\rangle$ is chosen to be active and it is paired with its neighbor agent $j = \langle 8, 4, 9, 5, 1\rangle,$ for example, the two will interact with a 40% probability because they have two elements in common. If the interaction does happen, agent *i* changes one of its mismatched elements to match that of *j*, becoming perhaps $\langle 8, 7, 2, 5, 1\rangle.$ This change creates a similarity score of 60%, yielding an increased probability of future interaction between the two.
 
@@ -103,7 +103,7 @@ With gestures toward earlier work by Phan Minh Dung (1995)[^dung-1995], Gregor B
 
 ![a diagram: link to extended description below](../assets/computational-philosophy/fig4.svg)
 
-*Figure 4:* A dialectical structure of propositions and their negations as positive and negative numbers, with two complete positions indicated by values of T and F. The left assignment is consistent; the right assignment is not (after Betz 2013)[^betz-2013]. [An extended description of figure 4 is in the supplement.]
+\*Figure 4:\* A dialectical structure of propositions and their negations as positive and negative numbers, with two complete positions indicated by values of T and F. The left assignment is consistent; the right assignment is not (after Betz 2013)[^betz-2013]. [An extended description of figure 4 is in the supplement.]
 
 In the simplest form of the model, two agents start with random assignments to a set of 20 sentences with consistent assignments to their negations. Arguments are added randomly, starting from a blank slate, and agents move to the coherent position closest to their previous position, with a random choice in the case of a draw. In variations on the basic structure, Betz considers (a) cases in which an initial background agreement is assumed, (b) cases of “controversial” argumentation, in which arguments are introduced which support a proponent’s position or attack an opponent’s, and (c) in which up to six agents are involved. In two series of simulations, he tracks both the consensus-conduciveness of different parameters, and—with an assumption of a specific assignment as the “truth”—the truth-conduciveness of different parameters.
 
@@ -121,7 +121,7 @@ Starting with initial node activations close to zero, the nodes of the coherence
 
 ![E and P1 each have solid lines connecting them to Q1 and Q2. P2 has a dotted line connecting it to P1 and a solid line connecting it to Q2.](../assets/computational-philosophy/fig5.svg)
 
-*Figure 5:* An ECHO network for hypotheses P1 and P2 and evidence units Q1 and Q2. Solid lines represent excitatory links, the dotted line an inhibitory link. Because Q1 and Q2 are evidence nodes, they take a constant excitatory value of 1 from E. Started from values of .01 and following Thagard’s updating, P1 dominates P2 once the network has settled down: a hypothesis that explains more dominates its alternative. Adapted from Thagard 1992.
+\*Figure 5:\* An ECHO network for hypotheses P1 and P2 and evidence units Q1 and Q2. Solid lines represent excitatory links, the dotted line an inhibitory link. Because Q1 and Q2 are evidence nodes, they take a constant excitatory value of 1 from E. Started from values of .01 and following Thagard’s updating, P1 dominates P2 once the network has settled down: a hypothesis that explains more dominates its alternative. Adapted from Thagard 1992.
 
 Thagard is able to show that such an algorithm effectively echoes a range of familiar observations regarding theory selection. Hypotheses that explain more defeat those that explain less, for example, and simpler hypotheses are to be preferred. In contrast to simple Popperian refutation, ECHO abandons a hypothesis only when a dominating hypothesis is available. Thagard uses the basic approach of explanatory coherence, instantiated in ECHO, in an analysis of a number of historical cases in the history of science, including the abandonment of phlogiston theory in favor of oxygen theory, the Darwinian revolution, and the eventual triumph of Wegener’s plate tectonics and continental drift.
 
@@ -129,7 +129,7 @@ The influence of Bayesian networks has been far more widespread, both across dis
 
 ![a diagram: link to extended description below](../assets/computational-philosophy/fig6.svg)
 
-*Figure 6:* A standard example of a simple Bayesian net. [An extended description of figure 6 is in the supplement.]
+\*Figure 6:\* A standard example of a simple Bayesian net. [An extended description of figure 6 is in the supplement.]
 
 Changes of values at the nodes of a Bayesian network (in response to evidence, for example) are updated through belief propagation algorithms applied at every node. The update of a response to input from a parent uses the conditional probabilities of the link. A parent’s response to input from a child uses the related likelihood ratio (see also the supplement on Bayesian networks in Bringsjord & Govindarajulu 2018 [2019])[^bringsjord-2018]. Reading some variables as hypotheses and others as pieces of evidence, simple instances of core scientific concepts can easily be read off such a structure. Simple explanation amounts to showing how the value of a variable “downstream” depends on the pattern “upstream”. Simple confirmation amounts to an increase in the probability or degree of belief of a node *h* upstream given a piece of evidence *e* downstream. Evaluating competing hypotheses consists in calculating the comparative probability of different patterns upstream (Climenhaga 2020, 2023, Grim et al. 2022a)[^climenhaga-2020][^climenhaga-2023][^grim-2022a]. In tracing the dynamics of credence changes across Bayesian networks subjected to an ‘evidence barrage,’ it has been argued that a Kuhnian pattern of normal science punctuated with occasional radical shifts follows from Bayesian updating in networks alone (Grim et al. 2022b)[^grim-2022b].
 
@@ -151,11 +151,11 @@ Zollman’s results are shown in Figure 7 for the three simple networks shown in
 
 ![complete graph: 10 points in a ring each connected to all the other points and to the center by a line.](../assets/computational-philosophy/fig7c.svg)
 
-*Figure 7:* A 10 person ring, wheel, and complete graph. After Zollman (2010a)[^zollman-2010a].
+\*Figure 7:\* A 10 person ring, wheel, and complete graph. After Zollman (2010a)[^zollman-2010a].
 
 ![a 2-d graph: link to extended description below](../assets/computational-philosophy/Picture8.png)
 
-*Figure 8:* Learning results of computer simulations: ring, wheel, and complete networks of Bayesian agents. Adapted from Zollman (2010a)[^zollman-2010a]. [An extended description of figure 8 is in the supplement.]
+\*Figure 8:\* Learning results of computer simulations: ring, wheel, and complete networks of Bayesian agents. Adapted from Zollman (2010a)[^zollman-2010a]. [An extended description of figure 8 is in the supplement.]
 
 Olsson and Angere’s Bayesian network Laputa (mentioned above) has also been applied to the question of optimal networks for scientific communication. Their results essentially confirm Zollman’s result, though sampled over a larger range of networks (Angere & Olsson 2017)[^angere-2017]. Distributed networks with low connectivity are those that most reliably fix on the truth, though they are bound to do so more slowly.
 
@@ -165,7 +165,7 @@ The concept of an *epistemic landscape* has also emerged as of central importanc
 
 ![3-d graph: link to extended description below](../assets/computational-philosophy/Picture9.png)
 
-*Figure 9:* A three-dimensional epistemic landscape. Points on the xz plane represent hypotheses regarding optimal combination of radiation and chemotherapy; graph height on the y axis represents some measure of success. [An extended description of figure 9 is in the supplement.]
+\*Figure 9:\* A three-dimensional epistemic landscape. Points on the xz plane represent hypotheses regarding optimal combination of radiation and chemotherapy; graph height on the y axis represents some measure of success. [An extended description of figure 9 is in the supplement.]
 
 An epistemic landscape is intended to be an abstract representation of the real-world phenomenon being explored. The key word, of course, is “abstract”: few would argue that such a model is fully realistic either in terms of the simplicity of limited dimensions or the precision in which one hypothesis has a distinctly higher value than a close neighbor. As in all modeling, the goal is to represent as simply as possible those aspects of a situation relevant to answering a specific: in this case, the question of optimal scientific organization. Epistemic landscapes—even those this simple—have been assumed to offer a promising start. As outlined below, however, one of the deeper conclusions that has emerged is how sensitive results can be to the specific topography of the epistemic landscape.
 
@@ -181,7 +181,7 @@ On “smooth” landscapes of the form of the first two graphs in Figure 10, age
 
 ![third graph: This line has a sharp down before a sharp up that reaches 100 before a sharp down almost to zero (the 'needle') then, similar to the second graph, curves up with a small dip before up again and a final dip](../assets/computational-philosophy/Picture10c.png)
 
-*Figure 10:* Two-dimensional epistemic landscapes.
+\*Figure 10:\* Two-dimensional epistemic landscapes.
 
 ![ring radius 1: a ring of 15 points each connected to their adjacent points by a line](../assets/computational-philosophy/fig11a.svg)
 
@@ -207,7 +207,7 @@ random
 
 complete
 
-*Figure 11:* Sample networks.
+\*Figure 11:\* Sample networks.
 
 In a ring with radius 1, each agent is connected with just its immediate neighbors on each side. Using an inertia of 50% and a “shaking hand” interval of 8 on a 100-point landscape, 50 agents in that configuration converge on the global maximum in the “needle in the haystack” landscape in 66% of simulation runs. If agents are connected to the two closest neighbors on each side, results drop immediately to 50% of runs in which agents find the global maximum. A small world network can be envisaged as a ring in which agents have a certain probability of “rewiring”: breaking an existing link and establishing another one to some other agent at random (Watts & Strogatz 1998)[^watts-1998]. If each of 50 agents has a 9% probability of rewiring, the success rate of small worlds drops to 55%. Wheels and hubs have a 42% and 37% success rate, respectively. Random networks with a 10% probability of connection between any two nodes score at 47%. The worst performing communication network on a “needle in a haystack” landscape is the “internet of science” of a complete network in which everyone instantly sees everyone else’s result.
 
@@ -229,7 +229,7 @@ Two views of Weisberg and Muldoon’s landscape appear in Figure 12. In their tr
 
 ![A black square with two light oval patches, one in the upper right hand corner and one, slightly larger, in the lower left hand corner.](../assets/computational-philosophy/Picture12b.png)
 
-*Figure 12:* Two visions of Weisberg and Muldoon’s landscape of scientific significance (height) at different approaches to a research topic.
+\*Figure 12:\* Two visions of Weisberg and Muldoon’s landscape of scientific significance (height) at different approaches to a research topic.
 
 The agents that traverse this landscape are not networked, as in the earlier studies noted, except to the extent that they are influenced by agents with “approaches” near theirs on the landscape. What is significant about the Weisberg & Muldoon model, however, is that their agents are not homogeneous. Two types of agents play a primary role.
 
@@ -247,7 +247,7 @@ Lu Hong and Scott Page work with a two-dimensional landscape of 2000 points, wra
 
 ![a jagged line: link to extended description below](../assets/computational-philosophy/Picture13.png)
 
-*Figure 13:* An example of exploration of a landscape by an individual using heuristics as in Hong and Page (2004). Explored points can be read left to right. [An extended description of figure 13 is in the supplement.]
+\*Figure 13:\* An example of exploration of a landscape by an individual using heuristics as in Hong and Page (2004). Explored points can be read left to right. [An extended description of figure 13 is in the supplement.]
 
 Hong and Page score individuals on a given landscape in terms of the average height they reach starting from each of the 2000 points. But their real target is the value of diversity in groups. With that in mind, they compare the performance of (a) groups composed of the 9 individuals with highest-scoring heuristics on a given landscape with (b) groups composed of 9 individuals with random heuristics on that landscape. In each case groups function together in what has been termed a “relay”. For each point on the 2000-point landscape, the first individual of the group finds his highest reachable value. The next individual of the group starts from there, and so forth, circling through the individuals until a point is reached at which none can achieve a higher value. The score for the group as a whole is the average of values achieved in such a way across all of the 2000 points.
 
@@ -279,7 +279,7 @@ Game theory has been a major tool in many of the philosophical considerations of
 | **Player B** | *Cooperate* | 3,3 | 0,5 |
 | *Defect* | 5,0 | 1,1 |   |
 
-*Figure 14:* A Prisoner’s Dilemma payoff matrix
+\*Figure 14:\* A Prisoner’s Dilemma payoff matrix
 
 It is clear in the “one-shot” Prisoner’s Dilemma that defection is strictly dominant: whether the other player cooperates or defects, one gains more points by defecting. But if defection always gives a higher payoff, what sense does it make to cooperate? In a Hobbesian population of egoists, with payoffs as in the Prisoner’s Dilemma, it would seem that we should expect mutual defection as both a matter of course and the rational outcome—Hobbes’ “war of all against all”. How could a population of egoists come to cooperate? How could the ethical desideratum of cooperation arise and persist?
 
@@ -300,7 +300,7 @@ A simple set of eight “reactive” strategies, in which a player acts solely o
 | 1 | 1 | 0 | Tit for Tat |
 | 1 | 1 | 1 | All Cooperate |
 
-*Figure 15:* 8 reactive strategies in the Prisoner’s Dilemma
+\*Figure 15:\* 8 reactive strategies in the Prisoner’s Dilemma
 
 If these strategies are played against each other and themselves, in the manner of Axelrod’s tournaments, it is “all defect” that is the clear winner. If agents imitate the most successful strategy, a population will thus immediately go to All Defect—a game-theoretic image of Hobbes’ war of all against all, perhaps.
 
@@ -318,7 +318,7 @@ Consider, however, a spatialized Prisoner’s Dilemma in the form of cellular au
 
 ![sixth square, all gray.](../assets/computational-philosophy/Picture16f.png)
 
-*Figure 16:* Conquest by Tit for Tat in the Spatialized Prisoner’s Dilemma. All defect is shown in green, Tit for Tat in gray.
+\*Figure 16:\* Conquest by Tit for Tat in the Spatialized Prisoner’s Dilemma. All defect is shown in green, Tit for Tat in gray.
 
 In this case, there are two aspects to the emergence of cooperation in the form of Tit for Tat. One is the fact that play is local: strategies total points over just local interactions, rather than play with all other cells. The other is that imitation is local as well: strategies imitate their most successful neighbor, rather than that strategy in the array that gained the most points. The fact that both conditions play out in the local structure of the lattice allows clusters of Tit for Tat to form and grow. In Axelrod’s tournaments it is particularly important that Tit for Tat does well in play against itself; the same is true here. If either game interaction or strategy updating is made global rather than local, dominance goes to All Defect instead. One way in which cooperation can emerge, then, is through structured interactions (Grim 1995; Skyrms 1996, 2004; Grim, Mar, & St. Denis 1998)[^grim-1995][^grim-1998][^skyrms-1996][^skyrms-2004]. J. McKenzie Alexander (2007)[^alexander-2007] offers a particularly thorough investigation of different interaction structures and different games.
 
@@ -330,7 +330,7 @@ Pitting a full range of stochastic strategies of this type against each other in
 
 ![a 2-d graph; link to extended description below](../assets/computational-philosophy/Picture17.png)
 
-*Figure 17:* Evolution toward Nowak and Sigmund’s “Generous Tit for Tat” in a world of imperfect information (Nowak & Sigmund 1992)[^nowak-1992]. Population proportions are shown vertically for labelled strategies shown over 12,000 generations for an initial pool of 121 stochastic strategies $\langle c,d\rangle$ at .1 intervals, full value of 0 and 1 replaced with 0.01 and 0.99. [An extended description of figure 17 is in the supplement.]
+\*Figure 17:\* Evolution toward Nowak and Sigmund’s “Generous Tit for Tat” in a world of imperfect information (Nowak & Sigmund 1992)[^nowak-1992]. Population proportions are shown vertically for labelled strategies shown over 12,000 generations for an initial pool of 121 stochastic strategies $\langle c,d\rangle$ at .1 intervals, full value of 0 and 1 replaced with 0.01 and 0.99. [An extended description of figure 17 is in the supplement.]
 
 How can cooperation emerge in a society of self-serving egoists? In the game-theoretic context of the Prisoner’s Dilemma, these results indicate that iterated interaction, spatialization and structured interaction, and noisy information can all facilitate cooperation, at least in the form of strategies such as Tit for Tat. When all three effects are combined, the result appears to be a level of cooperation even greater than that indicated in Nowak and Sigmund. Within a spatialized Prisoner’s Dilemma using stochastic strategies, it is strategies in the region of probabilities $1 - \varepsilon$ and 2/3 that emerge as optimal in the sense of having the highest scores in play against themselves without being open to invasion from small clusters of other strategies (Grim 1996)[^grim-1996].
 
@@ -348,7 +348,7 @@ There is a contrast, however, between open democratic decision-making, in which 
 
 ![a 2-d graph: link to extended description below](../assets/computational-philosophy/Picture18.png)
 
-*Figure 18:* The Condorcet result: probability of a majority of different odd-numbered sizes being correct on a binary question with different homogeneous probabilities of individual members being correct. [An extended description of figure 18 is in the supplement.]
+\*Figure 18:\* The Condorcet result: probability of a majority of different odd-numbered sizes being correct on a binary question with different homogeneous probabilities of individual members being correct. [An extended description of figure 18 is in the supplement.]
 
 The classic result for an open democracy and simple voting is the Condorcet jury theorem (Condorcet 1785)[^condorcet-1785]. As long as each voter has a uniform an independent probability greater than 0.5 of getting an answer right, the probability of a correct answer from a majority vote is significantly higher than that of any individual, and it quickly increases with the size of the population (Figure 18).
 
@@ -368,7 +368,7 @@ Opinion polarization and the evolution of cooperation, outlined above, both fit 
 
 ![see caption, red, purple, green, and orange are all clustered](../assets/computational-philosophy/Picture19.png)
 
-*Figure 19:* A demographic map of Los Angeles. White households are shown in red, African-American in purple, Asian-American in green, and Hispanic in orange. (Fischer 2010 in Other Internet Resources)
+\*Figure 19:\* A demographic map of Los Angeles. White households are shown in red, African-American in purple, Asian-American in green, and Hispanic in orange. (Fischer 2010 in Other Internet Resources)
 
 Schelling attempted an answer to this question with an agent-based model that originally consisted of pennies and dimes on a checkerboard array (Schelling 1971, 1978)[^schelling-1971][^schelling-1978], but which has been studied computationally in a number of variations. Two types of agents (Schelling’s pennies and dimes) are distributed at random across a cellular automata lattice, with given preferences regarding their neighbors. In its original form, each agent has a threshold regarding neighbors of “their own kind”. At that threshold level and above, agents remain in place. Should they not have that number of like neighbors, they move to another spot (in some variations, a move at random, in others a move to the closest spot that satisfies their threshold).
 
@@ -380,7 +380,7 @@ What Schelling found was that residential segregation occurs even without a stro
 
 ![same large grid but now almost all the red or green circles are adjacent to several circles of the same color (large clumps).](../assets/computational-philosophy/Picture20c.png)
 
-*Figure 20:* Emergence of residential segregation in the Schelling model with preference threshold set at 33%
+\*Figure 20:\* Emergence of residential segregation in the Schelling model with preference threshold set at 33%
 
 The conclusion that Schelling is careful to draw from such a model is simply that a low level of preference can be sufficient for residential segregation. It does not follow that more egregious social and economic factors aren’t operative or even dominant in the residential segregation we actually observe.
 

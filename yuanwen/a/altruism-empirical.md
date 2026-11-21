@@ -149,7 +149,7 @@ To test this hypothesis—which Batson calls the socially administered empathy-s
 | ← | **Level of Helping** |
 |   |   |
 
-*Table 1.* Predictions About the Amount of Helping (Low or High) on the Socially Administered Empathy-Specific Punishment Hypothesis.
+\*Table 1.\* Predictions About the Amount of Helping (Low or High) on the Socially Administered Empathy-Specific Punishment Hypothesis.
 
 | <table class="avoid-break cellpad-med-dense centered two-hrules vert-bot"> <tbody> <tr> <td rowspan="2" style="width:10em"><em>Potential for Negative Social Evaluation</em></td> <td class="center rule-below" colspan="2"><em>Empathy</em></td> </tr> <tr> <td><em>Low</em></td> <td><em>High</em></td> </tr> <tr class="rule-above"> <td><em>High</em></td> <td>Low</td> <td>High</td> </tr> <tr> <td><em>Low</em></td> <td>Low</td> <td>High</td> </tr> </tbody> </table> |   |
 | --- | --- |
@@ -157,7 +157,7 @@ To test this hypothesis—which Batson calls the socially administered empathy-s
 | ← | **Level of Helping** |
 |   |   |
 
-*Table 2.* Predictions About the Amount of Helping (Low or High) on the Empathy-Altruism Hypothesis.
+\*Table 2.\* Predictions About the Amount of Helping (Low or High) on the Empathy-Altruism Hypothesis.
 
 Subjects in the experiment were told that they were participating in an impression formation study, and that they had been randomly assigned to the role of “listener” in which they would read confidential notes from another student participant, the “communicator”. They were given two notes from Janet Arnold, an out-of-state freshman who reveals that she is very lonely and hoping to find a friend. After completing a form on which subjects indicated their impressions of Janet and their emotional responses to her note, they were presented with an unexpected opportunity to befriend Janet by volunteering to take part in a study of long-term relationships involving an initial meeting with Janet and periodic phone interviews about the development of their friendship. Participants who were willing to help were asked how much time they were willing to spend with Janet during the next month.
 
@@ -192,7 +192,7 @@ As Batson notes, procedures in the high-potential condition
 | ← | **Level of Helping** |
 |   |   |
 
-*Table 3.* Amount of Help Offered Janet, given as the mean amount of time participants offered to spend with Janet (Fultz et al. 1986, Study 2)[^fultz-1986]
+\*Table 3.\* Amount of Help Offered Janet, given as the mean amount of time participants offered to spend with Janet (Fultz et al. 1986, Study 2)[^fultz-1986]
 
 The results, given in Table 3, indicate that the socially administered empathy-specific punishment hypothesis did not fare well. On the basis of this experiment and a similar experiment in which empathy for Janet was not manipulated but was measured by self-report, Batson concludes that the socially administered empathy-specific punishment hypothesis is not consistent with the experimental facts.
 
@@ -212,7 +212,7 @@ Altruism and egoism both allow that even in the absence of empathy, an emotional
 | ← | **Level of Helping** |
 |   |   |
 
-*Table 4.* Predictions from the Aversive-Arousal Reduction Hypothesis for the Rate of Helping in an Escape X Empathy Design
+\*Table 4.\* Predictions from the Aversive-Arousal Reduction Hypothesis for the Rate of Helping in an Escape X Empathy Design
 
 | <table class="avoid-break cellpad-med-dense centered two-hrules vert-bot"> <tbody> <tr> <td rowspan="2" style="vertical-align:middle"><em>Escape</em></td> <td class="center rule-below" colspan="2"><em>Empathy</em></td> </tr> <tr> <td><em>Low</em></td> <td><em>High</em></td> </tr> <tr class="rule-above"> <td><em>Easy</em></td> <td>Low</td> <td>High</td> </tr> <tr> <td><em>Difficult</em></td> <td>High</td> <td>High</td> </tr> </tbody> </table> |   |
 | --- | --- |
@@ -220,7 +220,7 @@ Altruism and egoism both allow that even in the absence of empathy, an emotional
 | ← | **Level of Helping** |
 |   |   |
 
-*Table 5.* Predictions from the Empathy-Altruism Hypothesis for the Rate of Helping in an Escape X Empathy Design
+\*Table 5.\* Predictions from the Empathy-Altruism Hypothesis for the Rate of Helping in an Escape X Empathy Design
 
 To test these predictions, Batson and his associates conducted a total of six experiments. In one of these (experiment 1 in Batson, Duncan, et al. 1981)[^batson-1981], student subjects were required to watch, via what they believed to be closed circuit TV transmission—actually a scripted video recording—as another student subject, Elaine—actually a confederate—attempted to perform a task while receiving electric shocks at random intervals. Observer subjects were told that their task would be to form and report an impression of how Elaine performs under aversive conditions. On the tape, Elaine is clearly finding the shocks very uncomfortable, and after her second trial at doing the task, she explains to Martha, the assistant administering the shocks, that she is unusually sensitive to mild electric shocks because of a childhood trauma. Martha then suggests that perhaps the observer subject might be willing to help Elaine by taking her place, and the experimenter asks whether the subject is willing to do that. To manipulate ease of escape, some subjects were told that if they decide not to take Elaine’s place, they will be required to watch eight additional trials, while other subjects were told that if they decide not to take Elaine’s place they are free to go. To manipulate the level of empathy that subjects feel for Elaine, subjects were given a copy of a personal values and interests questionnaire, allegedly filled out by Elaine, in order to help them form an impression of her performance. In the high empathy condition, Elaine’s values and interests were very similar to the subject’s (which had been determined in a screening session several weeks before), while in the low empathy condition, they were very different.
 
@@ -232,7 +232,7 @@ The results, given in Table 6, clearly exhibit the pattern predicted by the empa
 | ← | **Level of Helping** |
 |   |   |
 
-*Table 6.* Proportion of Subjects Agreeing to Take Shocks for Elaine (Batson, Duncan, et al. 1981, Experiment 1)[^batson-1981]
+\*Table 6.\* Proportion of Subjects Agreeing to Take Shocks for Elaine (Batson, Duncan, et al. 1981, Experiment 1)[^batson-1981]
 
 In additional experiments, Batson and his associates used two techniques for manipulating ease of escape, and two different need situations (Batson, Duncan, et al. 1981; Toi and Batson 1982; Batson, O’Quin et al. 1983)[^batson-1981][^batson-1983][^toi-1982]. The results in all of these experiments exhibited the same pattern: when empathizing with the target, subjects were willing to engage in costly helping behavior even if there were easy “escapes” from doing so. Intriguingly, in another experiment (Batson, O’Quin et al. 1983; Study 3)[^batson-1983], Batson and colleagues attempted to break the pattern by telling the subjects that the shock level they would have to endure was the highest of four options, “clearly painful but not harmful”. They reasoned that, under these circumstances, even if high empathy subjects had an ultimate desire to help, this desire might well be overridden by the desire to avoid a series of very painful shocks. As expected, the pattern of results in this experiment fit the pattern in Table 4: when the cost of helping was made relatively high, an egoistic pattern of helping was displayed even by subjects reporting significant amounts of empathy for the target.
 

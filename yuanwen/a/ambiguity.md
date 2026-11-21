@@ -212,8 +212,8 @@ Bound and unbound readings of pronouns give rise to similar problems, though whe
 The phenomenon is subject to syntactic constraints. We have a good idea of the conditions under which we can fail to get bound readings, as characterized by binding theory. Thus, we know that binding is impossible in cross-over cases and cases where pronouns are ‘too close’ to their binder ((15) is a case of ‘weak crossover’, (16) is a case of ‘strong crossover’ and (17) is a violation of principle B of binding theory):
 
 1. ?His₁ mother loves John₁.
-2. *He₁ loves John₁.
-3. *John₁ loves him₁.
+2. \*He₁ loves John₁.
+3. \*John₁ loves him₁.
 
 However, the impossibility of these readings demonstrates constraints on interpretation. It doesn’t resolve the ambiguity in sentences where violations of binding theory do not occur.
 
@@ -434,7 +434,7 @@ The purported availability of both readings suggests that sentences with negatio
 Another way to test for ambiguity is to test for lack of contradiction in sentences that look to be contradictory. For example, say someone argued that ‘aunt’ was ambiguous on account of not specifying maternal from paternal aunt. If that was the case, we would expect that we can access the two distinct senses of ‘aunt’ just as we can for ‘bank’. However, compare:
 
 1. That bank isn’t a bank.
-2. *She is an aunt but she isn’t an aunt.
+2. \*She is an aunt but she isn’t an aunt.
 
 Both sentences are rather awkward but only one is doomed to life as a contradiction. This is good evidence that ‘aunt’ is unspecified with respect to which side of the family she comes from, but not ambiguous. The tests can be used for most of the other types of ambiguity:
 

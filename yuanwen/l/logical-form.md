@@ -429,7 +429,7 @@ The boy who was happy sang
 
 **(25)**
 
-*Was the boy who happy sang
+\*Was the boy who happy sang
 
 This suggests that the auxiliary verb ‘was’ can be displaced from some positions but not others. That is, while (23S) is a permissible transformation of (22D), (25S) is not a permissible transformation of (24D).
 
@@ -447,7 +447,7 @@ Was_{*i*} {[the [boy [who sang]]] [ ( _ )_{*i*} happy]}
 
 **(25S)**
 
-*Was_{*i*} {[the [boy [who [ ( _ )_{*i*} happy]]]] sang}
+\*Was_{*i*} {[the [boy [who [ ( _ )_{*i*} happy]]]] sang}
 
 In (25), the asterisk indicates intuitive deviance; in (25S), it indicates the hypothesized source of this deviance—viz., that the auxiliary verb cannot be displaced from the embedded relative clause. The ill-formedness of (25S) is striking, since one can sensibly ask whether or not the boy who was happy sang. One can also ask whether or not (26) is true. But (27) is not the yes/no question corresponding to (26).
 
@@ -459,7 +459,7 @@ The boy who was lost kept crying
 
 Was the boy who lost kept crying
 
-Rather, (27) is the yes/no question corresponding to ‘The boy who lost was kept crying’, which has an unexpected meaning. So we want some account of why (27) cannot have the interpretation corresponding to (26). But this “negative fact” concerning (27) is precisely what one would expect if ‘was’ cannot be displaced from its position in (26), as in the following logically possible but grammatically illicit structure: *Was_{*i*} {[the [boy [who [( _ )_{*i*} lost]]]] [kept crying]}.
+Rather, (27) is the yes/no question corresponding to ‘The boy who lost was kept crying’, which has an unexpected meaning. So we want some account of why (27) cannot have the interpretation corresponding to (26). But this “negative fact” concerning (27) is precisely what one would expect if ‘was’ cannot be displaced from its position in (26), as in the following logically possible but grammatically illicit structure: \*Was_{*i*} {[the [boy [who [( _ )_{*i*} lost]]]] [kept crying]}.
 
 By contrast, if we merely specify an algorithm that associates (27) with its actual meaning—or if we merely hypothesize that (27) is the English translation of a certain mental sentence—we have not yet explained why (27) cannot also be used to ask whether or not (26) is true. Explanations of such facts appeal to nonobvious grammatical structure, and constraints on natural language transformations. (For example, an auxiliary verb in a relative clause cannot be “fronted;” though of course, theorists try to find deeper explanations for such constraints.)
 
@@ -531,7 +531,7 @@ Who said he has the best smile
 
 Who did he say has the best smile
 
-In (32), the pronoun ‘he’ can have a bound-variable reading: which person $x$ is such that $x$ said that $x$ has the best smile. This suggests that the following grammatical structure is possible: Who_{*i*} {[( )_{*i*} said [he_{*i*} has the best smile]]}. But (33) cannot be used to ask this question, suggesting that some linguistic constraint rules out the following logically possible structure: *Who_{*i*} [did {[he_{*i*} say [( )_{*i*} has the best smile]]]. And there cannot be constraints on transformations without transformations. So if English overtly displaces question-words that are covertly displaced in other languages, we should not be too surprised if English covertly displaces other quantificational expressions like ‘every doctor’. Likewise, (34) has the reading indicated in (34a) but not the reading indicated in (34b).
+In (32), the pronoun ‘he’ can have a bound-variable reading: which person $x$ is such that $x$ said that $x$ has the best smile. This suggests that the following grammatical structure is possible: Who_{*i*} {[( )_{*i*} said [he_{*i*} has the best smile]]}. But (33) cannot be used to ask this question, suggesting that some linguistic constraint rules out the following logically possible structure: \*Who_{*i*} [did {[he_{*i*} say [( )_{*i*} has the best smile]]]. And there cannot be constraints on transformations without transformations. So if English overtly displaces question-words that are covertly displaced in other languages, we should not be too surprised if English covertly displaces other quantificational expressions like ‘every doctor’. Likewise, (34) has the reading indicated in (34a) but not the reading indicated in (34b).
 
 **(34)**
 

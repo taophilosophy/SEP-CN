@@ -173,7 +173,7 @@ $$ \begin{align} \rA&\supset (\rB\supset\rA) \tag*{axiom 1}\\ (\rC\supset (\rB\s
 
 The inference rules of are
 
-- *modus ponens*: $\begin{prooftree} \AxiomC{\(\rA\supset\rB$}\AxiomC{$\rA$}\BinaryInfC{$\rB$} \end{prooftree}\)
+- *modus ponens*: $\begin{prooftree} \AxiomC{\(\rA\supset\rB$}\\AxiomC{$\rA$}\\BinaryInfC{$\rB$} \\end{prooftree}\\)
 - substitution: If $p$ is an atomic variable in B, and C is any formula whatsoever, then let $\rB'$ be the result of replacing every occurrence of $p$ with C, and from B infer $\rB'$.
 
 A proof is defined as a finite sequence of formulas, each one of which either is an axiom or follows from previous entries in the sequence by an application of an inference rule. A theorem is a formula which occurs as the final entry in a proof, and we denote the theoremhood of a formula A by $\turnstile{\CPC} \rA$—here cpc stands for “the classical propositional calculus”. We have presented the formal deduction system found in Frege 1879, but cpc is meant to label any equivalent system. Frege’s system is in two senses adequate for representing classical propositional logic: Because the pair $\{\neg, \supset\}$ is truth-functionally complete, any formula expressible with any combination of bivalent truth-functional connectives whatsoever can be translated into a formula in Frege’s system. Moreover, the system is complete in the sense that all and only the classical propositional tautologies are theorems. The verification of this propositional completeness theorem below uses a different deductive system for cpc due to Hilbert and Bernays. As Jean Nicod (1917)[^nicod-1917] was the first to observe, there are even presentations of cpc using only the single “not both …and …” connective $|$, e.g., with the lone axiom
@@ -182,7 +182,7 @@ $$((\rA | (\rB | \rC)) | ((\rE | (\rE | \rE)) | ((\rD | \rB) | ((\rA | \rD) | (\
 
 and rules of inference
 
-- *Nicod’s inference*: $\begin{prooftree} \AxiomC{\(\rA$} \AxiomC{$\rA|(\rB|\rC)$} \BinaryInfC{$\rC$} \end{prooftree}\)
+- *Nicod’s inference*: $\begin{prooftree} \AxiomC{\(\rA$} \\AxiomC{$\rA|(\rB|\rC)$} \\BinaryInfC{$\rC$} \\end{prooftree}\\)
 - substitution: If $p$ is an atomic variable in B, and C is any formula whatsoever, then let B’ be the result of replacing every occurrence of $p$ with C, and from B infer B’.
 
 In parallel to the truth-functional framework for classical logic, one can also introduce the notion of deduction from hypotheses: If $\calS$ is a set of formulas, then a sequence of formulas whose last entry is A and in which every entry either is an axiom, a member of $\calS$, or the result of an application of a inference rule from earlier entries is called a derivation of A from $\calS$. In formulating this notion for cpc, however, some care is needed. One does not want, for example, every formula to be deducible from a propositional variable, and yet the substitution rule allows one to infer anything from $p_1$. In moving from pure axiomatic provability to the idea of deduction from arbitrary hypotheses, therefore, the substitution rule is restricted to be applicable only to axioms. One can easily show that this restriction does not affect the set of theorems. With this restriction in place, we can denote the derivability of A from the set $\calS$ by $\calS \turnstile{\CPC} \rA$.
@@ -243,7 +243,7 @@ An formal deductive system S is *consistent* if for no formula A is $\turnstile{
 
 A formal deductive system is *maximal* if any proper extension of it is inconsistent. Hilbert used the same interpretation from his consistency argument to show:
 
-**Theorem 4**. cpc is maximal.
+**Theorem 4**. *cpc is maximal.*
 
 *Proof.* As above, a formula is provable only if it is constant 0 under the interpretation, which, in the case of a conjunctive normal formula, occurs precisely when each of its conjuncts contains both a negated and unnegated occurrence of some propositional variable. Now let A be any unprovable formula. Its associated formula $\rA_{\cnf}$ must also be unprovable and therefore must contain a conjunct C with no propositional variable appearing both negated and unnegated. To show that cpc+A (cpc augmented with A as an additional axiom) is inconsistent, let B be any formula whatsoever, and label D the result of substituting, into $\rA_{\cnf}$, B for every propositional variable that occurs unnegated in C and $\neg\rB$ for every propositional variable that occurs negated in C. It is easy to show that
 
@@ -580,7 +580,7 @@ Gödel further declared both that “the translation of $\rA\vee\neg\rA$ is not 
 
 $$\turnstile{\text{S4}}\Box\rA\vee\Box\rB \text{ only if either }\turnstile{\text{S4}}\Box\rA \text{ or } \turnstile{\text{S4}}\Box\rB\tag{**}$$
 
-(*) and (**) together obviously entail the disjunction property for ipc.
+(\*) and (\*\*) together obviously entail the disjunction property for ipc.
 
 ### 3.3 Relevance and connexive logics
 

@@ -488,7 +488,7 @@ Enlightenment | Kant, Immanuel | Novalis [Georg Friedrich Philipp von Hardenberg
 
 [^kant-1902]: Kant, I., 1902–, *Akademie Ausgabe: Kants gesammelte Schriften*, hrsg. von der Königlisch Preußischen Akademie der Wissenschaften, Berlin: de Gruyter. **[AK]**
 
-[^ritter-1810]: Ritter, J.W., 1810, *Fragmente aus dem Nachlasse eines jungen Phyiskers*, Heidelberg: Schneider. [*Fragmente*]
+[^ritter-1810]: Ritter, J.W., 1810, *Fragmente aus dem Nachlasse eines jungen Phyiskers*, Heidelberg: Schneider. **[*Fragmente*]**
 
 [^schelling-1856]: Schelling, F.W.J von, 1856–61, *Sämtliche Werke*, Schelling, K.F.A. (hrs.), Stuttgart: Cotta. **[SW]**
 
@@ -538,7 +538,7 @@ Enlightenment | Kant, Immanuel | Novalis [Georg Friedrich Philipp von Hardenberg
 
 [^schlegel-1991-2]: –––, “Athenaeum fragments”, in Firchow 1991. **[AF]**
 
-[^schlegel-1991-3]: –––, “Ideas”, in Firchow 1991. [*Ideas*]
+[^schlegel-1991-3]: –––, “Ideas”, in Firchow 1991. **[*Ideas*]**
 
 [^schlegel-1968]: –––,“Dialogue on Poetry”, in Behler and Struc 1968. **[DP]**
 

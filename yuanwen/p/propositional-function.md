@@ -317,9 +317,9 @@ In order to put these two sequents together, we can use a form of the rule modus
 
 > $\mathbf{a}.\mathbf{dog} \vdash$ NP
 
-Moreover, an intransitive verb has the type NP\S, where S is the type of sentences. The backslash in NP\S means that the expression takes an argument of type NP *on the left side* and returns an expression of type S. The verb ‘barks’ is intransitive, that is,
+Moreover, an intransitive verb has the type NP\\S, where S is the type of sentences. The backslash in NP\\S means that the expression takes an argument of type NP *on the left side* and returns an expression of type S. The verb ‘barks’ is intransitive, that is,
 
-> **barks** $\vdash$ NP\S
+> **barks** $\vdash$ NP\\S
 
 The version of modus ponens that we use with the backslash is slightly different. It tells us that from $X \vdash A \backslash B$ and $Y \vdash A$ we can derive $Y{.}X \vdash B$. So we now can obtain,
 
@@ -335,7 +335,7 @@ In categorial grammar we can attribute more than one type to a single expression
 
 > I dislike, and Mary enjoys, musicals.
 
-The transitive verbs ‘dislike’ and ‘enjoys’ have the type (NP\S)/NP, that is, they take a noun phrase on their right and return a verb phrase. But in the case of ‘I dislike, and Mary enjoys musicals’ the verbs are separated from their object and joined to their objects. Steadman deals with this by raising the type of the subjects ‘I’ and ‘Mary’. Usually, we treat these words as having the type NP, but here they have the type S/(NP\S). This is the type of an expression that takes a verb phrase on its right and returns a sentence. Steadman then uses a rule that makes the backslash transitive and derives that ‘I.dislike’ has the type S/NP, which takes a noun phrase (such as ‘musicals’) on its right an returns a sentence.
+The transitive verbs ‘dislike’ and ‘enjoys’ have the type (NP\\S)/NP, that is, they take a noun phrase on their right and return a verb phrase. But in the case of ‘I dislike, and Mary enjoys musicals’ the verbs are separated from their object and joined to their objects. Steadman deals with this by raising the type of the subjects ‘I’ and ‘Mary’. Usually, we treat these words as having the type NP, but here they have the type S/(NP\\S). This is the type of an expression that takes a verb phrase on its right and returns a sentence. Steadman then uses a rule that makes the backslash transitive and derives that ‘I.dislike’ has the type S/NP, which takes a noun phrase (such as ‘musicals’) on its right an returns a sentence.
 
 We can see that the principle of multiple types also holds if analyze sentences other type theories, such as the simple theory of types. For consider the sentence
 
@@ -448,6 +448,6 @@ An expression of type $\langle t_1 , \ldots ,t_n\rangle /m$ is a propositional f
 
 [^linsky-1999]: Linsky, Bernard, 1999, *Russell’s Metaphysical Logic*, Stanford: Center for the Study of Language and Information Publications.
 
-[^parsons-1986]: Parsons, Terence, 1986, “Why Frege should not have said that “The Concept Horse is not a Concept”$$”, *History of Philosophy Quarterly*, 3: 449–465.
+[^parsons-1986]: Parsons, Terence, 1986, “Why Frege should not have said that “The Concept Horse is not a Concept””, *History of Philosophy Quarterly*, 3: 449–465.
 
 [^steadman-1991]: Steadman, Mark, 1991, “Type Raising and Directionality in Combinatory Grammar”, Technical Report MS-CIS-91-11, University of Pennsylvania Department of Computer and Information Science .

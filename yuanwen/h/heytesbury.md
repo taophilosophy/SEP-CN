@@ -501,13 +501,13 @@ Other contexts include [IHT] arg. 11. Also, disjunctive and conditional form of 
 
 [^weisheipl-1969]: Weisheipl, James A., 1969, “Repertorium Mertonense”, *Mediaeval Studies*, 31: 174–224. doi:10.1484/J.MS.2.306064
 
-[^de-nd]: *De propositionibus multiplicibus*:
+[^de-nd]: ***De propositionibus multiplicibus*:**
 
 [^cambridge-nd]: Cambridge: Gonville and Caius College, ms. 434/434, fols. 19r–21.
 
 [^venezia-nd]: Venezia: Biblioteca Marciana, lat. VI. 160 (2816), fols. 252r–253v.
 
-[^logica-nd]: *Logica* or *Regulae solvendi sophismata* [RSS]:
+[^logica-nd]: ***Logica*** or ***Regulae solvendi sophismata* [RSS]**:
 
 [^bergamo-nd]: Bergamo: Biblioteca Civita Angelo Mai 481 (IV 7), fols. 1ra–87rb.
 
@@ -577,13 +577,13 @@ Other contexts include [IHT] arg. 11. Also, disjunctive and conditional form of 
 
 [^warszawa-nd]: Warszawa: Biblioteka Narodowa III. 8058, fols. 7ra–134vb [c. 1–5].
 
-[^sophismata-nd]: *Sophismata* [Soph]:
+[^sophismata-nd]: ***Sophismata* [Soph]:**
 
 [^paris-nd]: Paris: Bibliothèque nationale de France 16134, fols. 81ra–146ra.
 
 [^città-nd-7]: Città del Vaticano: Biblioteca Apostolica Vaticana Vat. lat. 2138, fols. 1ra–86va.
 
-[^probationes-nd]: *Probationes conclusionum*:
+[^probationes-nd]: ***Probationes conclusionum*:**
 
 [^praha-nd-2]: Praha: Národní knihovna X.H.11, fols. 45ra–67ra.
 
@@ -725,7 +725,7 @@ Other contexts include [IHT] arg. 11. Also, disjunctive and conditional form of 
 
 [^hanke-2018b]: –––, 2018b, “Scholastická logika “vědění” II.: Axiomy introspekce a iterované modality mezi 15. a 16. stoletím”, *Studia Neoaristotelica*, 15: 207–262. [[Hanke 2018b available online](https://www.pdcnet.org/studneoar/content/studneoar_2018_0015_0006_0207_0262)] doi:10.5840/studneoar20181569
 
-[^hanke-2021a]: –––, 2021a, “Scholastická logika “vědění” III.: Logická vševědoucnost a logika inferenčního poznání”, *Studia Neoaristotelica*, 18(3): 1–107. [[Hanke 20](https://www.pdcnet.org/852577E000563C54/file/E94000516E12B5A3852588CC00704615/$FILE/studneoar_2021_0018_0003_0001_0107.pdf)[21 available online](https://www.pdcnet.org/852577E000563C54/file/E94000516E12B5A3852588CC00704615/$FILE/studneoar_2021_0018_0003_0001_0107.pdf)] doi: https://doi.org/10.5840/studneoar202118310
+[^hanke-2021a]: –––, 2021a, “Scholastická logika “vědění” III.: Logická vševědoucnost a logika inferenčního poznání”, *Studia Neoaristotelica*, 18(3): 1–107. [[Hanke 20](https://www.pdcnet.org/852577E000563C54/file/E94000516E12B5A3852588CC00704615/\$FILE/studneoar_2021_0018_0003_0001_0107.pdf)[21 available online](https://www.pdcnet.org/852577E000563C54/file/E94000516E12B5A3852588CC00704615/\$FILE/studneoar_2021_0018_0003_0001_0107.pdf)] doi: https://doi.org/10.5840/studneoar202118310
 
 [^hanke-2021b]: –––, 2021b,“The Casus Obligationis Attributed to William Heytesbury”, *Cahiers de l’Institut du Moyen-Âge Grec et Latin* 90: 226–264. [available online](https://cimagl.saxo.ku.dk/download/90/90hanke226-264.pdf)
 
@@ -733,7 +733,7 @@ Other contexts include [IHT] arg. 11. Also, disjunctive and conditional form of 
 
 [^hanke-2023]: –––, 2023, “Richard Lavenham’s *Tractatus terminorum naturalium*”, *Vivarium*, 61(2): 167–243. doi: https://doi.org/10.1163/15685349-06102001
 
-[^hanke-2024]: –––, 2024, “Scholastická logika “vědění” V.: Systémy epistemické logiky”, *Studia Neoaristotelica*, 21(3): 1–42. [[Hanke 20](https://brill.com/view/journals/viv/63/1/article-p1_1.xml?srsltid=AfmBOorqp30VVH39vm26x8RscWkeOwkMmxo-guttV_GMSCQfKpJCUABB)[25a available online](https://www.pdcnet.org/852577E000563C54/file/C9D361BA1F96933B85258C5100681B4E/$FILE/studneoar_2024_0021_0003_0001_0042.pdf)] doi: https://doi.org/10.5840/studneoar202421311
+[^hanke-2024]: –––, 2024, “Scholastická logika “vědění” V.: Systémy epistemické logiky”, *Studia Neoaristotelica*, 21(3): 1–42. [[Hanke 20](https://brill.com/view/journals/viv/63/1/article-p1_1.xml?srsltid=AfmBOorqp30VVH39vm26x8RscWkeOwkMmxo-guttV_GMSCQfKpJCUABB)[25a available online](https://www.pdcnet.org/852577E000563C54/file/C9D361BA1F96933B85258C5100681B4E/\$FILE/studneoar_2024_0021_0003_0001_0042.pdf)] doi: https://doi.org/10.5840/studneoar202421311
 
 [^hanke-2025a]: –––, 2025a, “John of Holland on Epistemic Sophisms”, *Vivarium*, 63(1): 1–27. doi: https://doi.org/10.1163/15685349-06301001. [[Hanke 20](https://brill.com/view/journals/viv/63/1/article-p1_1.xml?srsltid=AfmBOorqp30VVH39vm26x8RscWkeOwkMmxo-guttV_GMSCQfKpJCUABB)[25a available online](https://brill.com/view/journals/viv/63/1/article-p1_1.xml?srsltid=AfmBOorqp30VVH39vm26x8RscWkeOwkMmxo-guttV_GMSCQfKpJCUABB)]
 

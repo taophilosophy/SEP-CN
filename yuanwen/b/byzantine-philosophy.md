@@ -320,7 +320,7 @@ afterlife | Alexander of Aphrodisias | Aristotle | Aristotle, commentators on | 
 
 [^nikitas-1990]: Nikitas, D. Z. (ed.), 1990, *Boethius, De topicis differentiis* *kai oi byzantines metafraseis ton Manouel Olobolou kai Prochorou Kudoni*, *Corpus Philosophorum Medii Aevi: Philosophi Byzantini* 5, Athens: The Academy of Athens.
 
-[^drossaart-1943]: Drossaart Lulofs, H. J. (ed.), 1943, * Aristotelis de somno et vigilia liber adiectis vetribus translationibus et Theodori Metochitae commentario*, Leiden.
+[^drossaart-1943]: Drossaart Lulofs, H. J. (ed.), 1943, *Aristotelis de somno et vigilia liber adiectis vetribus translationibus et Theodori Metochitae commentario*, Leiden.
 
 [^hult-2002]: Hult, K. (ed.), 2002, *Theodore Metochites on Ancient Authors and Philosophy: Semeioseis gnomikai 1–26 & 71*, Göteborg.
 
@@ -604,7 +604,7 @@ afterlife | Alexander of Aphrodisias | Aristotle | Aristotle, commentators on | 
 
 [^o’meara-2004]: –––, 2004, “Praktische Weisheit bei Eustratios von Nikaia”, in *Abwägende Vernunft*, F.-J. Bormann and C. Schröer (eds.), Berlin, pp. 110–116.
 
-[^o’meara-2008]: –––, 2008, “Spätantike und Byzanz: Neuplatonische Rezeption—Michael von Ephesos”, in *Politischer Aristotelismus. Die Rezeption der aristotelischen* Politik * von der Antike bis zum 19.* *Jahrhundert*, C. Horn and A. Neschke-Hentschke (eds.), Stuttgart, 42–52.
+[^o’meara-2008]: –––, 2008, “Spätantike und Byzanz: Neuplatonische Rezeption—Michael von Ephesos”, in *Politischer Aristotelismus. Die Rezeption der aristotelischen* Politik *von der Antike bis zum 19.* *Jahrhundert*, C. Horn and A. Neschke-Hentschke (eds.), Stuttgart, 42–52.
 
 [^o’meara-2014]: –––, 2014, “Michael Psellos”, in *Interpreting Proclus: from Antiquity to the Renaissance*, S. Gersh (ed.), Cambridge: Cambridge University Press, 165–181.
 

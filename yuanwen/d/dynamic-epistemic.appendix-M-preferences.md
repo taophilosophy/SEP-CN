@@ -18,11 +18,11 @@ A preference model is just like a plausibility model except that the order $\suc
 
 Note that the convention here is that the “larger” worlds according to $\succeq_a$ are more preferred; this is the opposite of the convention adopted for plausibility models. The converse preferential relation $\preceq_a$, the strict preferential relations $\succ_a$ and $\prec_a$, and the equi-preferential relation $\simeq_a$ are defined in terms of $\succeq_a$ in a manner analogous to our definitions of converse plausibility, strict plausibility, strict converse plausibility, and equi-plausibility in the definition of plausibility models.
 
-Van Benthem et al. (2009) consider a single-agent version of a reflexive and irreflexive preference language we call \eqref{RIPL}. This language consists of a universal modality $[\forall]$ (“true at all worlds in the model”), a reflexive preference modality $[\succeq_a]$ (“true at the worlds non-strictly less preferred by *a*”), the converse reflexive preference modality $[\preceq_a]$ (“true at the worlds non-strictly preferred by *a*”), an irreflexive preference modality $[\succ_a]$ (“true at the worlds strictly less preferred by *a*”), and the converse irreflexive preference modality $[\prec_a]$ (“true at the worlds strictly preferred by *a*”).
+Van Benthem et al. (2009) consider a single-agent version of a reflexive and irreflexive preference language we call \\eqref{RIPL}. This language consists of a universal modality $[\forall]$ (“true at all worlds in the model”), a reflexive preference modality $[\succeq_a]$ (“true at the worlds non-strictly less preferred by *a*”), the converse reflexive preference modality $[\preceq_a]$ (“true at the worlds non-strictly preferred by *a*”), an irreflexive preference modality $[\succ_a]$ (“true at the worlds strictly less preferred by *a*”), and the converse irreflexive preference modality $[\prec_a]$ (“true at the worlds strictly preferred by *a*”).
 
 $$\begin{align*} \taglabel{RIPL} F \ccoloneqq &p \mid F\land F \mid \lnot F \mid [\forall F] \,\mid \\ &[\succeq_a]F \mid [\preceq_a]F \mid [\succ_a]F \mid [\prec_a]F \\ &\small p\in\sP,\; a\in\sA \end{align*}$$
 
-We recall that the dual existential modality $[\exists]$ is defined by $[\exists]F\coloneqq\lnot[\forall]\lnot F$. The dual modalities for the preference relation, which are written between angled brackets, are defined similarly; for example, $\may{\succeq_a}F\coloneqq\lnot[\succeq_a]\lnot F$. The language \eqref{RIPL} is interpreted over pointed preference models as follows.
+We recall that the dual existential modality $[\exists]$ is defined by $[\exists]F\coloneqq\lnot[\forall]\lnot F$. The dual modalities for the preference relation, which are written between angled brackets, are defined similarly; for example, $\may{\succeq_a}F\coloneqq\lnot[\succeq_a]\lnot F$. The language \\eqref{RIPL} is interpreted over pointed preference models as follows.
 
 - $M,w\models p$ holds if and only if $w\in V(p)$.
 - $M,w\models F\land G$ holds if and only if both $M,w\models F$ and $M,w\models G$.
@@ -33,7 +33,7 @@ We recall that the dual existential modality $[\exists]$ is defined by $[\exists
 - $M,w\models[\succ_a]F$ holds if and only if $M,v\models F$ for each $v\succ_a w$.
 - $M,w\models[\prec_a]F$ holds if and only if $M,v\models F$ for each $v\prec_a w$.
 
-Van Benthem et al. (2009) show that \eqref{RIPL} allows us to express eight distinct notions of “agent *a* prefers *G* to *F*”. A number of these notions arise in choosing best moves in a game-theoretic setting (van Benthem 2009).
+Van Benthem et al. (2009) show that \\eqref{RIPL} allows us to express eight distinct notions of “agent *a* prefers *G* to *F*”. A number of these notions arise in choosing best moves in a game-theoretic setting (van Benthem 2009).
 
 **Theorem (van Benthem et al. 2009).** Let $(M,w)$ be a pointed preference model.
 
@@ -52,11 +52,11 @@ To consider multi-agent preferences in conjunction with multi-agent knowledge, a
 
 We note that van Benthem and Liu (2007) define epistemic preference models so that each $R_a$ is an equivalence relation. This is because they wish to adopt the standard logic of knowledge (multi-agent $\mathsf{S5}$) and assign formulas $[a]F$ an epistemic reading (“agent *a* knows *F*”). This restriction that the $R_a$’s be equivalence relations is not a technical necessity and could easily be varied if other normal modal logics for the modalities $[a]$ are desired.
 
-Van Benthem and Liu (2007) define the single-agent dynamic epistemic preference language \eqref{DEPL} that makes use of a universal modality, reflexive preference formulas $[\preceq_a]F$ (“agent *a* prefers *F*”) for each agent *a*, a knowledge modality $[a]F$ (“agent *a* knows *F*”) for each agent *a*, “link-cutting” public announcement formulas $[F!']G$ (“after the announcement of *F*, formula *G* is true”), and “preference upgrade” formulas $[\sharp F]G$ (“after eliminating preferences for $\lnot F$-worlds over *F*-worlds, *G* is true”). Here we consider a simple multi-agent extension.
+Van Benthem and Liu (2007) define the single-agent dynamic epistemic preference language \\eqref{DEPL} that makes use of a universal modality, reflexive preference formulas $[\preceq_a]F$ (“agent *a* prefers *F*”) for each agent *a*, a knowledge modality $[a]F$ (“agent *a* knows *F*”) for each agent *a*, “link-cutting” public announcement formulas $[F!']G$ (“after the announcement of *F*, formula *G* is true”), and “preference upgrade” formulas $[\sharp F]G$ (“after eliminating preferences for $\lnot F$-worlds over *F*-worlds, *G* is true”). Here we consider a simple multi-agent extension.
 
 $$\begin{align*} \taglabel{DEPL} F \ccoloneqq &p \mid F\land F \mid \lnot F \mid [a]F \,\mid \\ &[\forall]F \mid [\preceq_a]F \mid [F!']F \mid [\sharp F]F \\ &\small p\in\sP,\; a\in\sA \end{align*}$$
 
-Formulas of this language are interpreted at pointed epistemic preference models using the appropriate clauses from \eqref{RIPL} and from (ML) along with the following clauses:
+Formulas of this language are interpreted at pointed epistemic preference models using the appropriate clauses from \\eqref{RIPL} and from (ML) along with the following clauses:
 
 - $M,w\models[a]F$ holds if and only if $M,v\models F$ for each *v* satisfying $wR_av$.
 - $M,w\models[F!']G$ holds if and only if we have that $M[F!'],w\models G$, where the model $$ M[F!']=(W[F!'],{\succeq}[F!'],R[F!'],V[F!']) $$ is defined by:
@@ -70,7 +70,7 @@ Formulas of this language are interpreted at pointed epistemic preference models
 - $x R[\sharp F]_ay$ if and only if $x R_a y$ — leave epistemic relations as before, and
 - $v\in V[\sharp F](p)$ if and only if $v\in V(p)$ — leave the valuation the same at all worlds.
 
-Van Benthem and Liu (2007) axiomatize the \eqref{DEPL}-validities and call the resulting logic Dynamic Epistemic Upgrade Logic $\DEUL$.
+Van Benthem and Liu (2007) axiomatize the \\eqref{DEPL}-validities and call the resulting logic Dynamic Epistemic Upgrade Logic $\DEUL$.
 
 **The axiomatic theory $\DEUL$.**
 
@@ -98,7 +98,7 @@ Van Benthem and Liu (2007) axiomatize the \eqref{DEPL}-validities and call the r
 - $[\sharp F][\forall]G\leftrightarrow[\forall][\sharp F]G$ “*G* is true everywhere after an upgrade of *F* iff it is true everywhere that the upgrade makes *G* true.”
 - Preference Upgrade Necessitation Rule: from *F*, infer $[\sharp G]F$. “A validity holds after any upgrade.”
 
-**$\DEUL$ Soundness and Completeness (van Benthem and Liu 2007).** $\DEUL$ is sound and complete with respect to the collection $\sC_*$ of pointed epistemic preference models. That is, for each \eqref{DEPL}-formula *F*, we have that $\DEUL\vdash F$ if and only if $\sC_*\models F$.
+**$\DEUL$ Soundness and Completeness (van Benthem and Liu 2007).** $\DEUL$ is sound and complete with respect to the collection $\sC_*$ of pointed epistemic preference models. That is, for each \\eqref{DEPL}-formula *F*, we have that $\DEUL\vdash F$ if and only if $\sC_*\models F$.
 
 The work of van Benthem and Liu (2007) has been further developed by a number of authors. Liu (2008) looks at a quantitative version of preference and preference change closely related to earlier work on belief revision by Aucher (2003). Yamada (2007a,b, 2008) examines various deontic logics of action, command, and obligation. Van Eijck (2008) looks at a generalized Propositional Dynamic Logic-style preference logic that encompasses van Benthem and Liu (2007) and allows for the study of common knowledge (or belief) along with a DEL-style notion of conditional belief and belief change. Van Eijck and Sietsma (2010) further extend this work, examining applications to judgment aggregation; this has natural connections with coalition logic and social choice theory. Van Benthem, Girard, and Roy (2009c) examine a preference logic for von Wright’s (1963) notion of *ceteris paribus* (in the distinct senses of “all things being normal” and of “all things being equal”) along with a dynamic notion of “agenda change”. A textbook on preferences and preference dynamics is Liu (2011).
 

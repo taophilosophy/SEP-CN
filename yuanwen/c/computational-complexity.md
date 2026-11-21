@@ -161,7 +161,7 @@ Non-deterministic machines are sometimes described as making undetermined ‘cho
 
 ![figure 1](../assets/computational-complexity/fig1.png)
 
-*Figure 1.* A potential computation tree $\mathcal{T}^N_{C_0(x)}$ for a non-deterministic Turing machine $N$ starting from the initial configuration $C_0(x)$. Accepting states are labeled $\odot$ and rejecting states $\circ$. Note that although this tree contains an accepting computation sequence of length 4, its maximum depth of 5 still counts towards the determination of $time_N(n) = \max \{\text{depth}(\mathcal{T}^N_{C_0(x)})\ :\ \lvert x\rvert = n$}.
+\*Figure 1.\* A potential computation tree $\mathcal{T}^N_{C_0(x)}$ for a non-deterministic Turing machine $N$ starting from the initial configuration $C_0(x)$. Accepting states are labeled $\odot$ and rejecting states $\circ$. Note that although this tree contains an accepting computation sequence of length 4, its maximum depth of 5 still counts towards the determination of $time_N(n) = \max \{\text{depth}(\mathcal{T}^N_{C_0(x)})\ :\ \lvert x\rvert = n$}.
 
 The time complexity $t_N(n)$ of a non-deterministic machine $N$ is the maximum of the depths of the computation trees $\mathcal{T}^N_{C_0(x)}$ for all inputs $x$ such that $\lvert x\rvert = n$. Relative to this definition, non-deterministic machines can be used to implement many brute force algorithms in time polynomial in $n$. For instance the $\sc{SAT}$ problem can be solved by a non-deterministic machine which on input *φ* uses part of its tape to non-deterministically construct (or ‘guess’) a string representing a valuation $v$ assigning a truth value to each of *φ*’s $n$ propositional variables and then computes $\llbracket \phi \rrbracket_v$ using the method of truth tables (which is polynomial in $n$). As $\phi \in \sc{SAT}$ just in case a satisfying valuation exists, this is a correct method for deciding $\sc{SAT}$ relative to conventions (i)–(iii) from above. This means that $\sc{SAT}$ can be solved in polynomial time relative to $\mathfrak{N}$.
 
@@ -220,7 +220,7 @@ As we have seen, it is a consequence of Theorem 3.1 that $\textbf{L} \subsetneq 
 
 ![figure 2](../assets/computational-complexity/fig2.png)
 
-*Figure 2.* Inclusion relationships among major complexity classes. The only depicted inclusions which are currently known to be proper are $\textbf{L} \subsetneq \textbf{PSPACE}$ and $\textbf{P} \subsetneq \textbf{EXP}$.
+\*Figure 2.\* Inclusion relationships among major complexity classes. The only depicted inclusions which are currently known to be proper are $\textbf{L} \subsetneq \textbf{PSPACE}$ and $\textbf{P} \subsetneq \textbf{EXP}$.
 
 At the moment, however, this is *all* that is currently known – i.e. although various heuristic arguments can be cited in favor of the properness of the other displayed inclusions, none of them has been proven to hold. Providing unconditional proofs of these claims remains a major unfulfilled goal of complexity theory. For instance, the following is often described as the single most important open question in all of theoretical computer science:
 
@@ -244,7 +244,7 @@ Note that if $X$ is polynomial time reducible to $Y$ via $f(x)$, then an efficie
 
 It is easy to see that $\leq_P$ is a reflexive relation. Since the composition of two polynomial time computable functions is also polynomial time computable, $\leq_P$ is also transitive. We additionally say that a class $\textbf{C}$ is *closed* under $\leq_P$ if $Y \in \textbf{C}$ and $X \leq_P Y$ implies $X \in \textbf{C}$. It is also easy to see that the classes $\textbf{P}, \textbf{NP}, \textbf{PSPACE},\textbf{EXP}, \textbf{NEXP}$ and $\textbf{EXPSPACE}$ are closed under this relation.[^note-16] A problem $Y$ is said to be *hard* for a class $\textbf{C}$ if $X \leq_P Y$ for all $X \in \textbf{C}$. Finally $Y$ is said to be *complete* for $\textbf{C}$ if it is both hard for $\textbf{C}$ and also a member of $\textbf{C}$.
 
-Since the mid-1970s a major focus of research in complexity theory has been the study of problems which are complete for the class $\textbf{NP}$ – i.e. so-called **NP**-complete problems. A canonical example of such a problem is a time-bounded variant of the Halting Problem for $\mathfrak{N}$ (whose unbounded deterministic version is also the canonical Turing- and many-one complete problem in computability theory):
+Since the mid-1970s a major focus of research in complexity theory has been the study of problems which are complete for the class $\textbf{NP}$ – i.e. so-called ***NP**-complete problems*. A canonical example of such a problem is a time-bounded variant of the Halting Problem for $\mathfrak{N}$ (whose unbounded deterministic version is also the canonical Turing- and many-one complete problem in computability theory):
 
 $\sc{BHP}\ $ Given the index of a non-deterministic Turing machine $N \in \mathfrak{N}$, an input $x$, and a time bound $t$ represented as a string $1^t$, does $N$ accept $x$ in $t$ steps?
 
@@ -278,7 +278,7 @@ where each $\ell^i_j$ is a *literal* – i.e. $\ell^i_j = p_k$ or $\ell^i_j = \n
 
 ![figure 3](../assets/computational-complexity/fig3.png)
 
-*Figure 3.* The graph $G_{\phi}$ for the formula $(p_1 \vee p_2 \vee p_3) \wedge (\neg p_1 \vee p_2 \vee \neg p_3) \wedge (p_1 \vee \neg p_2 \vee \neg p_3)$.
+\*Figure 3.\* The graph $G_{\phi}$ for the formula $(p_1 \vee p_2 \vee p_3) \wedge (\neg p_1 \vee p_2 \vee \neg p_3) \wedge (p_1 \vee \neg p_2 \vee \neg p_3)$.
 
 A reduction of $3\text{-}\sc{SAT}$ to $\sc{INDEPENDENT}\ \sc{SET}$ can now be described as follows:
 
@@ -349,7 +349,7 @@ It follows immediately from Proposition 3.1 that $\Sigma^P_1 = \textbf{NP}$ and 
 
 ![figure 4](../assets/computational-complexity/fig4.png)
 
-*Figure 4.* The Polynomial Hierarchy.
+\*Figure 4.\* The Polynomial Hierarchy.
 
 To better understand why Open Questions 3a,b) are also expected to be decided positively, it will be useful to further explore the relationship between $\textbf{PSPACE}$ and the characterization of $\textbf{PH}$ in terms of quantifier alternations. To this end, we first show that the problem $\sc{TQBF}$ may be redefined in terms of a game between a player called *Verifier*– who can be thought of as attempting to demonstrate that a QBF-formula *φ* is true – and another player called *Falsifier*– who can be thought of as attempting to demonstrate that *φ* is not true.[^note-29] Supposing that *φ* is of the form $\exists x_1 \forall x_2 \ldots Q_n \psi$, a play of the *verification game* for *φ* is defined as follows:
 
@@ -543,7 +543,7 @@ The problems $\sc{SATISFIABILITY}_{\mathcal{L}}$, $\sc{VALIDITY}_{\mathcal{L}}$,
 | $\textsf{LL}$ |   | $\textbf{RE}$-complete |   |
 | (Lincoln 1995)[^lincoln-1995] |   |   |   |
 
-*Table 1.* The complexity of the satisfiability, validity, and model checking problems for some common logics.
+\*Table 1.\* The complexity of the satisfiability, validity, and model checking problems for some common logics.
 
 ### 4.3 Proof complexity
 
@@ -615,7 +615,7 @@ $$ \sc{PARITY} = \{w \in \{0,1\}^* : w \text{ contains an odd number of 1s}\} $$
 | $\textbf{PSPACE}$ | $\textsf{SO}(\texttt{TC})$ | (Immerman 1987)[^immerman-1987] |
 | $\textbf{EXP}$ | $\textsf{SO}(\texttt{LFP})$ | (Immerman 1999)[^immerman-1999] |
 
-*Table 2.* Descriptive characterization of complexity classes.
+\*Table 2.\* Descriptive characterization of complexity classes.
 
 ### 4.5 Bounded arithmetic
 
@@ -745,7 +745,7 @@ The most direct links between complexity theory and epistemology which have thus
 
 The apparent clash between philosophical views about knowledge which predict that logical validities ought to be easy to come to know (e.g. in virtue of the fact that they do not require empirical confirmation) and the technical fact that the validity and satisfiability problems for even the weakest familiar systems are intractable is the origin of two developments which traditionally have been of interest to epistemologists: the problem of *logical omniscience* and the study of theories of *minimal* or *bounded rationality*.
 
-The problem of logical omniscience is often presented as having originated from within the subject known as *epistemic logic*. In this setting, knowledge is treated as a modal operator $K_i$ where sentences of the form $K_i \phi$ are assigned the intended interpretation *agent $i$ knows that *φ**. The goal is to then set down axioms and rules which characterize how we should reason about statements of this form. For instance the principle that knowledge of a statement entails its truth is rendered as $K_i \phi \rightarrow \phi$ and the principle that knowledge of a conjunction entails knowledge of its conjuncts is rendered as $K_i(\phi \wedge \psi) \rightarrow (K_i \phi \wedge K_i \psi)$. Other principles – e.g. $\neg K_i \phi \rightarrow K_i \neg K_i \phi$, which expresses that $i$’s failure to know *φ* entails that he knows of this failure – are considered more controversial. However the consensus view (e.g., Hintikka 1962; Lenzen 1978; Fagin et al. 1995)[^fagin-1995][^hintikka-1962][^lenzen-1978] is that the most defensible choices of logics of knowledge lie between the modal systems $\textsf{S4}$ and $\textsf{S5}$.
+The problem of logical omniscience is often presented as having originated from within the subject known as *epistemic logic*. In this setting, knowledge is treated as a modal operator $K_i$ where sentences of the form $K_i \phi$ are assigned the intended interpretation *agent $i$ knows that φ*. The goal is to then set down axioms and rules which characterize how we should reason about statements of this form. For instance the principle that knowledge of a statement entails its truth is rendered as $K_i \phi \rightarrow \phi$ and the principle that knowledge of a conjunction entails knowledge of its conjuncts is rendered as $K_i(\phi \wedge \psi) \rightarrow (K_i \phi \wedge K_i \psi)$. Other principles – e.g. $\neg K_i \phi \rightarrow K_i \neg K_i \phi$, which expresses that $i$’s failure to know *φ* entails that he knows of this failure – are considered more controversial. However the consensus view (e.g., Hintikka 1962; Lenzen 1978; Fagin et al. 1995)[^fagin-1995][^hintikka-1962][^lenzen-1978] is that the most defensible choices of logics of knowledge lie between the modal systems $\textsf{S4}$ and $\textsf{S5}$.
 
 The precise axiomatization which is adopted for $K_i$ notwithstanding, the use of modal logic to model reasoning about knowledge has the following two consequences:
 
@@ -1052,7 +1052,7 @@ $E^*(x,y)$ is thus definable as $\text{Fix}((x = y) \vee E(x,y) \vee \exists z(R
 
 [^fortnow-2009]: –––, 2009, “The status of the **P** versus **NP** problem,” *Communications of the ACM*, 52(9): 78–86.
 
-[^fortnow-2013]: –––, 2013, Golden Ticket: **P**, **NP**, and the Search for the Impossible, Princeton: Princeton University Press.
+[^fortnow-2013]: –––, 2013, *Golden Ticket: **P**, **NP**, and the Search for the Impossible*, Princeton: Princeton University Press.
 
 [^fortnow-2003-2]: Fortnow, L., and Homer, S., 2003, “A short history of computational complexity,” *Bulletin of the EATCS*, 80: 95–133.
 
@@ -1066,11 +1066,11 @@ $E^*(x,y)$ is thus definable as $\text{Fix}((x = y) \vee E(x,y) \vee \exists z(R
 
 [^ganea-2014]: Ganea, M., 2014, “Finitistic Arithmetic and Classical Logic,” *Philosophia Mathematica*, 22: 167–197.
 
-[^garey-1979]: Garey, M., and Johnson, D., 1979, Computers and intractability. A guide to the theory of **NP**-completeness, New York: W.H. Freeman; Company.
+[^garey-1979]: Garey, M., and Johnson, D., 1979, *Computers and intractability. A guide to the theory of **NP**-completeness*, New York: W.H. Freeman; Company.
 
 [^gigerenzer-2002]: Gigerenzer, G., and Selten, R., 2002, *Bounded Rationality: The Adaptive Toolbox*, Cambridge, Massachusetts: MIT Press.
 
-[^goldreich-2010]: Goldreich, O., 2010, **P**, **NP**, and **NP**-completeness: The basics of computational complexity, Cambridge, England: Cambridge University Press.
+[^goldreich-2010]: Goldreich, O., 2010, ***P**, **NP**, and **NP**-completeness: The basics of computational complexity*, Cambridge, England: Cambridge University Press.
 
 [^gödel-1932]: Gödel, K., 1932, “Ein Spezialfall des Entscheidungsproblems der theoretischen Logik,” *Ergebnisse Eines Mathematischen Kolloquiums*, 2: 27–28.
 
@@ -1080,7 +1080,7 @@ $E^*(x,y)$ is thus definable as $\text{Fix}((x = y) \vee E(x,y) \vee \exists z(R
 
 [^gödel-1956]: Gödel, Kurt, 1956, “Letter to von Neumann (1956),” Reprinted in Sipser 1992, p. 612.
 
-[^greenlaw-1995]: Greenlaw, R., Hoover, H., and Ruzzo, W., 1995, Limits to parallel computation: **P**-completeness theory, New York: Oxford University Press, USA.
+[^greenlaw-1995]: Greenlaw, R., Hoover, H., and Ruzzo, W., 1995, *Limits to parallel computation: **P**-completeness theory*, New York: Oxford University Press, USA.
 
 [^grover-1996]: Grover, L., 1996, “A Fast Quantum Mechanical Algorithm for Database Search,” in *Proceedings of the Twenty-Eighth Annual ACM Symposium on Theory of Computing*, pp. 212–219, ACM.
 

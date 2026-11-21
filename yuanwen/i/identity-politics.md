@@ -147,7 +147,7 @@ The author would like to thank Joshua Ayer, who provided research assistance for
 
 [^combahee-1982]: Combahee River Collective, 1982, “A Black Feminist Statement,” in Gloria T. Hull, Patricia Bell Scott, and Barbara Smith (eds.) *All the Women are White, All the Blacks are Men, But Some of Us Are Brave: Black Women’s Studies*, New York: Feminist Press, pp. 41–47.
 
-[^connolly-2002]: Connolly, William, 2002, *Identity\Difference: Democratic Negotiations of Political Paradox*, Minneapolis: University of Minnesota Press.
+[^connolly-2002]: Connolly, William, 2002, *Identity\\Difference: Democratic Negotiations of Political Paradox*, Minneapolis: University of Minnesota Press.
 
 [^connolly-2011]: –––, 2011, *A World of Becoming*, Durham, NC: Duke University Press.
 

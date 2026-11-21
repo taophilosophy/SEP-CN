@@ -275,7 +275,7 @@ Buber, Martin | Christian theology, philosophy and | Heidegger, Martin | Kant, I
 
 [^rosenstock-huessy-1920a]: 1920a, *Die Hochzeit des Kriegs und der Revolution*, Würzburg: Patmos-Verlag. Reprint 1965.
 
-[^rosenstock-huessy-1920b]: 1920b ‘Brief an *** (Letter to Karl Barth)’, in *Tumult*, Vol. 20, Wien: Turia u. Kant, 1995, 9–15.
+[^rosenstock-huessy-1920b]: 1920b ‘Brief an \*\*\* (Letter to Karl Barth)’, in *Tumult*, Vol. 20, Wien: Turia u. Kant, 1995, 9–15.
 
 [^rosenstock-huessy-1922]: 1922, *Werkstattaussiedlung, Untersuchungen über den Lebensraum des Industriearbeiters: In Verbindung mit Eugen May und Martin Grünberg*, Berlin: Julius Springer Verlag.
 

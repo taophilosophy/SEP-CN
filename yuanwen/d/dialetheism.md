@@ -547,7 +547,7 @@ The authors would like to thank Jc Beall, Max Carrara, David Ripley, Koji Tanaka
 
 [^parsons-1990]: Parsons, T., 1990, “True Contradictions”, *Canadian Journal of Philosophy*, 20: 335–53. (A critique of a dialetheic account of the paradoxes of self-reference.)
 
-[^priest-1989-2]: Priest, G., 1989, “Denyer’s $ Not Backed by Sterling Arguments”, *Mind*, 98: 265–8. (A reply to Denyer, 1989.)
+[^priest-1989-2]: Priest, G., 1989, “Denyer’s \$ Not Backed by Sterling Arguments”, *Mind*, 98: 265–8. (A reply to Denyer, 1989.)
 
 [^priest-1995-2]: –––, 1995, “Gaps and Gluts: Reply to Parsons”, *Canadian Journal of Philosophy*, 25: 57–66. (A reply to Parsons, 1990.)
 

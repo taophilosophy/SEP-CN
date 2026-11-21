@@ -323,7 +323,7 @@ Given this, a lot hinges on whether payment is required to ensure an adequate su
 
 ### 4.3 Egg Sharing
 
-Some countries (notably the United Kingdom) either prohibit or strictly limit payments to egg donors but allow an exception whereby ‘egg sharers’ (women who are themselves undergoing infertility treatment and wish to donate in return for reduced fees) can receive unlimited benefits-in-kind in the form of cut-price infertility treatment services. The UK, for example, limits payments to egg donors to £985 (approx. US$1,300) and yet egg sharers can have their own treatment costs reduced by many thousands of pounds (HFEA 2024b).
+Some countries (notably the United Kingdom) either prohibit or strictly limit payments to egg donors but allow an exception whereby ‘egg sharers’ (women who are themselves undergoing infertility treatment and wish to donate in return for reduced fees) can receive unlimited benefits-in-kind in the form of cut-price infertility treatment services. The UK, for example, limits payments to egg donors to £985 (approx. US\$1,300) and yet egg sharers can have their own treatment costs reduced by many thousands of pounds (HFEA 2024b).
 
 This raises the question of whether ethically egg sharing is preferable to egg selling and, if so, why—along with the closely related question of whether egg sharing should be treated more favourably in law and professional regulation (Blyth & Golding 2008; Scott 2016)[^blyth-2008][^scott-2016].
 

@@ -185,7 +185,7 @@ def _stream_from_text(t):
     t = re.sub(r"<a\b[^>]*>\s*[0-9]+[a-z]?\s*</a>", " ", t, flags=re.I)
     t = re.sub(r"<[^>]+>", "", t)      # 行内标签不断词（<em>A</em>s → As）
     t = html_lib.unescape(t)
-    t, stats = strip_math_ex(t)   # 数学归 check_math 面（转义感知，免 \left( 截断）
+    t, stats = strip_math_ex(t, dollars=False)   # 数学归 check_math 面（转义感知，免 \left( 截断）
     return t, stats
 
 
@@ -244,9 +244,12 @@ def md_text(path):
     t = read_text(path)
     t = SUPP_LINE_RE.sub(" ", t)
     t = CONV_NOTE_RE.sub(" ", t)
-    # 作者行：仅 H1 之后、首个二级标题之前的那一行（citation_author 元数据）
+    # 作者行：仅 H1 之后、首个二级标题之前的那一行（citation_author 元数据）。
+    # 只取首个匹配——H1 后首个 `*…*` 整行恒为作者行（作者名恒在标题后正文前）；
+    # 无计数限制会误删图注整行 em（2026-11-21 结构化强调恢复图注斜体后，
+    # berlin `*Isaiah Berlin, 18 July 1968…©…*` 被当作者行剔除，字母流假缺失）
     head, sep, body = t.partition("\n## ")
-    head = re.sub(r"^\*[^*\n]+\*\s*$", " ", head, flags=re.M)
+    head = re.sub(r"^\*[^*\n]+\*\s*$", " ", head, count=1, flags=re.M)
     t = head + sep + body
     t = FENCE_BODY_RE.sub(_fence_body_repl, t)
     t = CODE_RE.sub(" ", t)
@@ -275,7 +278,7 @@ def md_text(path):
     return t, stats
 
 
-def strip_math_ex(text):
+def strip_math_ex(text, dollars=True):
     """转义感知剥离数学定界符内容（`\\(…\\)`、`\\[…\\]`、`$…$`、`$$…$$`）——v2。
 
     返回 (text, stats)，stats = {"spans": 成对剥离数, "oversize": 超限跨度数,
@@ -289,12 +292,19 @@ def strip_math_ex(text):
     * 缺 closer 的 opener（货币 `$`、残缺 `\\(`）按字面保留首字符并计 unclosed；
     * 三项计数供两侧对称性判定（判据见深比对主循环）。数学内容归 check_math／
       check_academic 面，本工具两侧一律不计。
+    dollars=False（html 侧，2026-11-21）：H0 正文的裸 `$` 恒为字面（全库实测
+    728 处／105 件皆货币符号，真公式一律 `\\(…\\)`／`\\[…\\]`）；按数学跨度剥会
+    把 `$0.75 … $1` 中间正文一起吞掉，与 md 侧 `\\$` 字面形成假不对称。
     """
     out, i, n = [], 0, len(text)
-    pairs = {"\\(": "\\)", "\\[": "\\]", "$$": "$$", "$": "$"}
+    pairs = {"\\(": "\\)", "\\[": "\\]", "$$": "$$"}
+    openers = ("\\(", "\\[", "$$")
+    if dollars:
+        pairs["$"] = "$"
+        openers = openers + ("$",)
     spans = oversize = unclosed = 0
     while i < n:
-        opener = next((o for o in ("\\(", "\\[", "$$", "$") if text.startswith(o, i)), None)
+        opener = next((o for o in openers if text.startswith(o, i)), None)
         if opener is not None and i > 0 and text[i - 1] == "\\":
             opener = None          # 转义 opener（`\$` 字面美元号）：连同前导反斜杠按字面走
         if opener is None:

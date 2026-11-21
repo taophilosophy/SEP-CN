@@ -105,7 +105,7 @@ For a yet more fanciful example, suppose you are trapped in a tiny house with a 
 
 It might seem that a right to life is at least always a right not to be killed. But it is not always wrong to kill another person, even though that person has a right to life. If someone attacks you, and the only way to defend yourself is to kill him, then you may kill him. And consider again the violinist: detaching yourself kills him, yet it is permissible to detach yourself. These observations might seem to show that if someone has a right to life, it is not simply wrong to kill them, but rather it is wrong to kill them *unjustly*. Perhaps a right to life is merely a right against being unjustly killed (Thomson 1971)[^thomson-1971]. But if that is correct, then the argument from a right to life needs a different premise:
 
-5*.
+5\*.
 
 Abortion kills the fetus unjustly.
 
@@ -187,7 +187,7 @@ However, the argument’s apparent escape from the thorny issue of personhood an
 
 The objector maintains that premise 2 is false, and that it would have to be revised as follows to be true:
 
-2*.
+2\*.
 
 Killing an adult human is wrong (unless justified) because it deprives them of a valuable future and they have moral status.
 
@@ -229,13 +229,13 @@ Like the argument from loss, this argument aspires to settle that abortion is mo
 
 But the apparent side step may not work. An objector may say that claim 1 is implausible when taken with sufficiently wide scope. Is “others” meant to range over all things? All living beings? It is too controversial in that form. Surely the plausible version of claim 1 is this:
 
-1*.
+1\*.
 
 If a being has full moral status, then we should treat it as we would want to be treated.
 
 This claim captures that we should treat persons as we would want to be treated. It does not say anything about how we should treat animals, if they have some moral status but not full moral status. (And that’s good: the Golden Rule is not very plausible when applied to animals. We should not treat animals the way we treat people. Or alternatively, “the way we would want to be treated” would mean “if we were animals”; but then we wouldn’t really know what to say about that: it wouldn’t provide guidance.)
 
-But if the argument includes claim 1* rather than claim 1, then the argument needs the following claim:
+But if the argument includes claim 1\* rather than claim 1, then the argument needs the following claim:
 
 **3.**
 

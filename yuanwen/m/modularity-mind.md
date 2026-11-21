@@ -33,7 +33,7 @@ Similarly, in the case of perception—understood as a kind of non-demonstrative
 
 ![Two horizontal line segments of the same length with arrowheads on the left and right side; the upper line segment has arrowheads pointing inwards, towards the line segment; the lower line segment has arrowheads pointing outwards, away from the line segment.](../assets/modularity-mind/mueller-lyer.png)
 
-*Figure 1.* *The Müller-Lyer illusion*.
+\*Figure 1.\* *The Müller-Lyer illusion*.
 
 Informational encapsulation is related to what Pylyshyn (1984, 1999)[^pylyshyn-1984][^pylyshyn-1999] calls cognitive impenetrability, but the two properties are not the same. To a first approximation, a system is cognitively impenetrable if its operations are not subject to direct influence by information stored in central memory, paradigmatically in the form of beliefs and utilities. As such, information encapsulation entails cognitive impenetrability, but not the other way around. For example, auditory speech perception might be cognitively impenetrable but draw on visual information, as suggested by the McGurk effect (but see §2.1). The relation between informational encapsulation and cognitive impenetrability is, however, a matter of controversy (see §4).
 

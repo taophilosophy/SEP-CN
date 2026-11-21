@@ -350,7 +350,7 @@ The authors would like to thank Scott Ritner and Catherine Fullarton for their g
 
 [^finch-2001]: Finch, Henry Leroy, 2001, *Simone Weil and the Intellect of Grace*, Martin Andic (ed.), New York: Continuum.
 
-[^holoka-2005]: Holoka, James P. (ed. and trans.), 2005, Simone Weil’s the Iliad or the Poem of Force: A Critical Edition (*Iliade, ou, le poème de la force*), New York: Peter Lang.
+[^holoka-2005]: Holoka, James P. (ed. and trans.), 2005, *Simone Weil’s the Iliad or the Poem of Force: A Critical Edition* (*Iliade, ou, le poème de la force*), New York: Peter Lang.
 
 [^kinsella-2021]: Kinsella, Helen M., 2021, “Of Colonialism and Corpses: Simone Weil on Force,” in *Women’s International Thought: A New History*, Patricia Owens and Katharina Rietzler (eds.), Cambridge: Cambridge University Press, pp. 72–92.
 

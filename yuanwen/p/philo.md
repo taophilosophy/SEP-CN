@@ -394,7 +394,7 @@ The author would like to thank Ada Browowski, Pr Phillip Mitsis and Lex Paulson,
 
 [^flavius-1737]: Flavius Josephus, circa 100 CE, *Against Apion*, an English translation is by William Whiston, 1737, in *The Genuine Works of Flavius Josephus the Jewish Historian*, London. [[*Against Apion* available online](http://penelope.uchicago.edu/josephus/)]
 
-[^plutarch-nd]: Plutarch, circa 100 CE, “Life of Alexander”, in *The Parallel Lives*, translated in *LIves*, Plutarch vol. VII, (LCL 99, Bernadotte Perrin (tr.)), Cambridge, MA: Harvard University Press. [[Life of Alexander available online](http://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/lives/alexander*/home.html)]
+[^plutarch-nd]: Plutarch, circa 100 CE, “Life of Alexander”, in *The Parallel Lives*, translated in *LIves*, Plutarch vol. VII, (LCL 99, Bernadotte Perrin (tr.)), Cambridge, MA: Harvard University Press. [[Life of Alexander available online](http://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/lives/alexander\*/home.html)]
 
 [^pseudo-phocylides-1978]: Pseudo-Phocylides, circa 100 BCE–100 CE, *Sentences*, translated by Pieter W. van der Horst, *The Sentences of Pseudo-Phocylides*, (Studia in Veteris Testamenti Pseudepigrapha IV), Leiden: Brill, 1978.
 

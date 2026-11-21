@@ -295,7 +295,7 @@ Indeed, after giving specific figures for the number of celestial movements, Ari
 
 [^bodnár-1997]: Bodnár, István M., 1997, “Movers and elemental motions in Aristotle,” *Oxford Studies in Ancient Philosophy* (Volume 15), Oxford: Clarendon Press, pp. 81–117.
 
-[^bodnár-2016]: –––, 2016, “Cases of Celestial Teleology in Metaphysics Λ,” in Christoph Horn, Aristotle’s *Metaphysics* Lambda – New Essays (Volume 15), Boston/Berlin: De Gruyter, pp. 247–268.
+[^bodnár-2016]: –––, 2016, “Cases of Celestial Teleology in Metaphysics Λ,” in Christoph Horn, *Aristotle’s Metaphysics Lambda – New Essays* (Volume 15), Boston/Berlin: De Gruyter, pp. 247–268.
 
 [^bordt-2011]: Bordt, Michael, SJ, 2011, “Why Aristotle’s God is not the Unmoved Mover,” *Oxford Studies in Ancient Philosophy* (Volume 40): *Essays in Memory of Michael Frede*, edited by James Allen, Eyjólfur Kjalar Emilsson, Wolfgang-Rainer Mann and Benjamin Morison, Oxford: Clarendon Press, pp. 92–109.
 

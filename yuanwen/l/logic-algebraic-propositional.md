@@ -380,7 +380,7 @@ We are now in a position to expose the mathematically precise concept of algebra
 
 Before stating Blok and Pigozzi’s definition we need to introduce a notational convention. Given an algebra $\bA$ and a set of equations $\iEq$ in one variable, we denote by $\tEq(\bA)$ the set of elements of $\bA$ that satisfy all the equations in $\iEq$. Then a logic $\bL$ is said to have an *algebraic semantics* if there is a class of algebras $\bK$ and a set of equations $\iEq$ in one variable such that
 
-(**)
+(\*\*)
 
 $ \Gamma \vdash_{\bL } \phi \txtiff$ for every $\bA \in \bK$ and every valuation $v$ on $\bA$, if $\bv[\Gamma] \subseteq \iEq(\bA)$, then $\bv(\phi) \in \tEq(\bA)$.
 
@@ -422,7 +422,7 @@ Given a logic $\bL$, a logical matrix $\langle \bA, D \rangle$ is said to be a *
 
 A class $\bM$ of logical matrices is said to be a *matrix semantics* for a logic $\bL$ if
 
-(*)
+(\*)
 
 $ \Gamma \vdash_{\bL } \phi\txtiff$ for every $\langle \bA, \tD \rangle \in \bM$ and every valuation $v$ on $\bA$, if $\bv[\Gamma] \subseteq D$, then $\bv(\phi) \in D$.
 
@@ -432,7 +432,7 @@ Logical matrices are also used to define logics semantically. If $\cM = \langle 
 
 $\Gamma \vdash_{\cM } \phi\txtiff$ for every valuation $v$ on $\bA$ if $\bv(\psi) \in D$ for all $\psi \in \Gamma$, then $\bv(\phi) \in D$
 
-is a consequence relation which is substitution-invariant; therefore $\langle L, \vdash_{\cM } \rangle$ is a logic system. Similarly, we can define the logic of a class of matrices $\bM$ by taking condition (*) as a definition of a consequence relation. In the entry on many-valued logic the reader can find several logics defined in this way.
+is a consequence relation which is substitution-invariant; therefore $\langle L, \vdash_{\cM } \rangle$ is a logic system. Similarly, we can define the logic of a class of matrices $\bM$ by taking condition (\*) as a definition of a consequence relation. In the entry on many-valued logic the reader can find several logics defined in this way.
 
 Every logic (independently of how it is defined) has a matrix semantics. Moreover, every logic has a matrix semantics whose elements have the property of being reduced in the following sense: A matrix $\langle \bA, D \rangle$ is *reduced* if there are no two different elements of $A$ that behave in the same way. We say that $a, b \in A$ *behave in the same way* in $\langle \bA, D \rangle$ if for every formula $\phi (q, p_1 , \ldots ,p_n)$ and all elements $d_1 , \ldots ,d_n \in A$ $$\phi^{\bA }[a, d_1 , \ldots ,d_n] \in D \txtiff \phi^{\bA }[b, d_1 , \ldots ,d_n] \in D.$$ Thus $a, b \in A$ behave differently if there is a formula $\phi(q, p_1 , \ldots ,p_n)$ and elements $d_1 , \ldots ,d_n \in A$ such that one of $\phi^{\bA }[a, d_1 , \ldots ,d_n]$ and $\phi^{\bA }[b, d_1 , \ldots ,d_n]$ belongs to $D$ but not both. The relation of behaving in the same way in $\langle \bA, D \rangle$ is a congruence relation of $\bA$. This relation is known after Blok & Pigozzi 1986, 1989 as the *Leibniz congruence* of the matrix $\langle \bA, D \rangle$ and is denoted by $\bOmega_{\bA }(D)$. It can be characterized as the greatest congruence relation of $\bA$ that is *compatible* with $D$, that is, that does not relate elements in $D$ with elements not in $D$. The concept of Leibniz congruence plays a fundamental role in the general theory of the algebraization of the logic systems developed during the 1980s by Blok and Pigozzi. The reader is referred to Font, Jansana, & Pigozzi 2003 and Czelakowski 2001 for extensive information on the developments around the concept of Leibniz congruence during this period.
 
@@ -699,7 +699,7 @@ The relations between the classes of the Leibniz hierarchy considered in this en
 
 ![A diagram of four levels level 1: 'finitely algebraizable' with arrows pointing to level 2 objects: 'finitely equivalential' and 'algebraizable'; both of these have arrows pointing to level 3 object 'equivalential' and the latter also has an arrow pointing to level 3 object 'weakly algebraizable' both level 3 objects have arrows to level 4 object: 'protoalgebraic' and the second also points to 'truth-equational'](../assets/logic-algebraic-propositional/leibniz-hierarchy.svg)
 
-*Figure.* The Leibniz Hierarchy
+\*Figure.\* The Leibniz Hierarchy
 
 Recently, the Leibniz hierarchy has been refined in Cintula & Noguera 2010, 2016. The idea is to consider instead of a set of equivalence formulas $\Delta$ (that corresponds to the biconditional) a set of formulas $[p\Rightarrow q]$ that has several properties of the usual conditional $(\rightarrow)$. Among these properties we have $(\tR_{\Rightarrow})$ and $(\tMP_{\Rightarrow})$ in the definition of protoalgebraic logic. The set $[p\Rightarrow q]$ should be such that its symetrization $[p\Rightarrow q] \cup[q\Rightarrow p]$ is a set of equivalence formulas. New classes arise when the set $[p\Rightarrow q]$ has a single element. Extensive information can be found in the recent book Cintula & Noguera 2021. This book can also be taken as an introduction to abstract algebraic logic written from the perspective of the implication.
 
@@ -858,7 +858,7 @@ We address the reader to Chapter 7 of Font 2016a for an introduction to the main
 
 ![A diagram of three levels level 1: 'fully Fregean' with arrows pointing to level 2 objects: 'Fregean logics' and 'fully selfextensional'; both of these have arrows pointing to level 1 object 'selfextensional' ](../assets/logic-algebraic-propositional/frege-hierarchy.svg)
 
-*Figure.* The Frege Hierarchy
+\*Figure.\* The Frege Hierarchy
 
 The reader can find a discussion of several natural examples of logics classified in the Leibniz and Frege hierarchies in Albuquerque et alt. 2017.
 

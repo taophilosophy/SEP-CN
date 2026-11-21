@@ -648,9 +648,9 @@ Pollock (1983) offers the following puzzle. You have a bottle of Ever-better win
 
 ### 7.2 Infinitely many states: the St. Petersburg paradox
 
-A fair coin is tossed. If it comes up heads, you receive $2. If it comes up tails, the coin is tossed for a second time. If it then comes up heads, you receive $4. If it comes up tails, the coin is tossed for a third time. If it then comes up heads, you receive $8. If it comes up tails, the coin is tossed for a fourth time. And so on. We continue until the coin comes up heads. If this takes n tosses, then you win $$2^n$.
+A fair coin is tossed. If it comes up heads, you receive \$2. If it comes up tails, the coin is tossed for a second time. If it then comes up heads, you receive \$4. If it comes up tails, the coin is tossed for a third time. If it then comes up heads, you receive \$8. If it comes up tails, the coin is tossed for a fourth time. And so on. We continue until the coin comes up heads. If this takes n tosses, then you win \$$2^n$.
 
-How much should you be prepared to pay to play this game? You have a 1/2 chance of winning $2; and a 1/4 chance of winning $4; and a 1/8 chance of winning $8; ….; and a $1/2^n$ chance of winning $$2^n$; and … . Hence, your expected payoff from playing the St. Petersburg game is infinite:
+How much should you be prepared to pay to play this game? You have a 1/2 chance of winning \$2; and a 1/4 chance of winning \$4; and a 1/8 chance of winning \$8; ….; and a $1/2^n$ chance of winning \$$2^n$; and … . Hence, your expected payoff from playing the St. Petersburg game is infinite:
 
 $$\begin{align} (\frac{1}{2}\times 2) &+ (\frac{1}{4} \times 4) + (\frac{1}{8} \times 8) + \cdots + (\frac{1}{2^n} \times 2^n) + \cdots \\ &= 1 + 1 + 1 + \cdots \end{align}$$
 
@@ -664,7 +664,7 @@ So you might object that the utilities are bounded. (See e.g., Hardin 1982.)[^ha
 
 For further discussion of the St. Petersburg game, see, for example: Samuelson (1977)[^samuelson-1977], Jeffrey (1983)[^jeffrey-1983], Weirich (1984)[^weirich-1984], Cowen and High (1988), Jordan (1994)[^jordan-1994], Chalmers (2002)[^chalmers-2002], Peters (2011)[^peters-2011] and the entry on the St. Petersburg paradox.
 
-Related but different problems arise in the *Pasadena game*, a St. Petersburg-like game in which the expected payoff is apparently *undefined* (rather than infinite). Then, it seems that decision theory goes silent regarding the value of the game. And yet various choices regarding the game seem to be rationally required—e.g. preferring the game plus a $1 to the game itself. For further discussion, see e.g. Nover and Hájek (2004), Hájek and Nover (2006, 2008), Hájek (2014)[^hájek-2014], Easwaran (2008)[^easwaran-2008], Bartha (2016)[^bartha-2016] and Colyvan and Hájek (2016).
+Related but different problems arise in the *Pasadena game*, a St. Petersburg-like game in which the expected payoff is apparently *undefined* (rather than infinite). Then, it seems that decision theory goes silent regarding the value of the game. And yet various choices regarding the game seem to be rationally required—e.g. preferring the game plus a \$1 to the game itself. For further discussion, see e.g. Nover and Hájek (2004), Hájek and Nover (2006, 2008), Hájek (2014)[^hájek-2014], Easwaran (2008)[^easwaran-2008], Bartha (2016)[^bartha-2016] and Colyvan and Hájek (2016).
 
 ### 7.3 Infinite utility: Pascal’s Wager
 

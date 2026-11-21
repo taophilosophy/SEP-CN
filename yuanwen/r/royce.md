@@ -186,11 +186,11 @@ Consider $O(a\: b)$ By the fifth law, $O(a\: b)$ adds a third term, $c$, which i
 
 ![to be supplied](../assets/royce/Figure1.png)
 
-*Figure 1.* $O (a\: b\: c)$
+\*Figure 1.\* $O (a\: b\: c)$
 
 ![to be supplied](../assets/royce/Figure2.png)
 
-*Figure 2.* $F (\neg c | a\: b)$
+\*Figure 2.\* $F (\neg c | a\: b)$
 
 As Royce explains, “The $F$-relation, so long as ‘obverses’ or ‘negatives’ exist, follows immediately from, and is equivalent to, an $O$-relation. For, in the diagram [above] if $s$ is the total surface in which $a$, $b$, and $c$ are included, then when ‘$c$ is between $a$ and $b$,’ ‘$a$, $b$, and $\neg c$ ($\neg c$ being the obverse of $c$) constitute an $O$-collection,’ or ‘are in the $O$-relation’ ” (Royce 1905, 387)[^royce-1905].
 

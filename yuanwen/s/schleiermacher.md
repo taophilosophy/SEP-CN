@@ -388,9 +388,9 @@ Hamann, Johann Georg | Hegel, Georg Wilhelm Friedrich: dialectics | Herder, Joha
 
 [^aus-1858]: *Aus Schleiermachers Leben in Briefen*, 4 vols., Ludwig Jonas and Wilhelm Dilthey (eds.), Berlin: Georg Reimer, 1858–1863.
 
-[^hhm-1978]: [**HHM**] *Hermeneutics: The Handwritten Manuscripts*, James Duke and Jack Forstman (trans.), Oxford: Oxford University Press, 1978; Atlanta: Scholars Press, 1986. (This is a translation of **H****.**)
+[^hhm-1978]: [**HHM**] *Hermeneutics: The Handwritten Manuscripts*, James Duke and Jack Forstman (trans.), Oxford: Oxford University Press, 1978; Atlanta: Scholars Press, 1986. (This is a translation of **H.**)
 
-[^hc-1998]: [**HC**] *Hermeneutics and Criticism*, Andrew Bowie (ed.), Cambridge: Cambridge University Press, 1998. (This is a translation of **HK****.**)
+[^hc-1998]: [**HC**] *Hermeneutics and Criticism*, Andrew Bowie (ed.), Cambridge: Cambridge University Press, 1998. (This is a translation of **HK.**)
 
 [^dm-1813]: [**DM**] “On the Different Methods of Translation” (1813), André Lefevere (trans.), in *German Romantic Criticism*, A. Leslie Willson (ed.), New York: Continuum, 1982. (This is a good translation of Schleiermacher’s essay though unfortunately it omits an important footnote on the translation of verse.)
 
@@ -418,7 +418,7 @@ Hamann, Johann Georg | Hegel, Georg Wilhelm Friedrich: dialectics | Herder, Joha
 
 [^life-1975]: *The Life of Jesus* (*Das Leben Jesu*), Jack C. Verheyden (ed.) and S. Maclean Gilmour (trans.), Philadelphia: Fortress, 1975.
 
-[^christian-1928]: *The Christian Faith* (Der *Christliche Glaube*), H.R. Mackintosh and J.S. Stewart (eds.), Edinburgh: T. and T. Clark, 1928.
+[^christian-1928]: *The Christian Faith* (*Der Christliche Glaube*), H.R. Mackintosh and J.S. Stewart (eds.), Edinburgh: T. and T. Clark, 1928.
 
 [^glaubenslehre-1981]: *On the “Glaubenslehre”*, James Duke and Francis Fiorenza (eds.), Chico, CA: Scholars Press, 1981. (This is a translation of Schleiermacher’s two open letters to Lücke from 1829.)
 
@@ -488,7 +488,7 @@ Hamann, Johann Georg | Hegel, Georg Wilhelm Friedrich: dialectics | Herder, Joha
 
 [^schlegel-1808]: –––, [1808] 1849, *On the Language and Wisdom of the Indians* (*Über die Sprache und Weisheit der Indier*), in *The Aesthetic and Miscellaneous Works of Friedrich von Schlegel*, E. Millington (trans.), London: H. G. Bohn.
 
-[^schlegel-1999]: –––, [**LF****]** *Lucinde and the Fragments*, P. Firchow (trans.), Minneapolis: University of Minnesota Press, 1999.
+[^schlegel-1999]: –––, [**LF]** *Lucinde and the Fragments*, P. Firchow (trans.), Minneapolis: University of Minnesota Press, 1999.
 
 [^strauss-1835]: Strauss, David Friedrich, 1835–6, *Das Leben Jesu, kritisch bearbeitet* (*The Life of Jesus Critically Examined*), Tübingen: C.F. Osiander.
 

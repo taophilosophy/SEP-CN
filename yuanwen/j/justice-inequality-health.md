@@ -33,13 +33,13 @@ Between 1967 and 1969, Marmot examined some 18,000 male civil servants aged betw
 
 ![a bar char: link to extended description below](../assets/justice-inequality-health/fig1.png)
 
-*Figure 1.* Social gradient in total mortality, Whitehall 25 year follow-up. (van Rossum et al. 2000: 181)[^rossum-2000] [An extended description of figure 1 is in the supplement.]
+\*Figure 1.\* Social gradient in total mortality, Whitehall 25 year follow-up. (van Rossum et al. 2000: 181)[^rossum-2000] [An extended description of figure 1 is in the supplement.]
 
 Figure 1 presents the Whitehall data after 25 years of follow-up. It reports age adjusted all-cause mortality rate ratios by employment grade, for three periods of follow-up. A mortality rate ratio reports the proportion of deaths in a given group divided by the proportion of deaths in the reference group. There are four grades in the British Civil Service employment hierarchy: administrative (highest), professional/executive, clerical, and “other” (lowest). The professional/executive grade has been used as the reference group, so its mortality rate ratio is 1.0 by definition.
 
 ![a bar char: link to extended description below](../assets/justice-inequality-health/fig2.png)
 
-*Figure 2.* Risk factor adjusted social gradient in CHD mortality, Whitehall 25 year follow-up. (Marmot 2000: 363, fig. 10)[^marmot-2000] [An extended description of figure 2 is in the supplement.]
+\*Figure 2.\* Risk factor adjusted social gradient in CHD mortality, Whitehall 25 year follow-up. (Marmot 2000: 363, fig. 10)[^marmot-2000] [An extended description of figure 2 is in the supplement.]
 
 The striking and important feature of these data is that the relationship between employment grade and mortality exhibits a marked *gradient*. It is natural to think that, below some threshold of deprivation, there will be disproportionate ill-health. Yet, in this study population, there is no deprivation, not even in the lowest grade (where everyone is still a government employee with free access to health care). Furthermore, and notably, there is no threshold. Rather, there is a *step-wise* improvement in health outcomes as one climbs the employment grade ladder. In addition, these gradients persist even after the mortality rates have been adjusted for standard risk factors. For example, coronary heart disease (CHD) accounted for 43 percent of the deaths in the Whitehall study at 10 years of follow-up (Marmot, Shipley, & Rose 1984: 1003)[^marmot-1984]. Standard risk factors for CHD include smoking, blood pressure, cholesterol and blood sugar levels, and height. Figure 2 presents the Whitehall data on mortality from CHD after 25 years of follow-up. It reports relative rates of death from CHD by employment grade, with administrators having a rate of 1.0 by definition. The left bar in each pair displays the relative rate adjusted for age alone, while the right bar adjusts it for all the standard risk factors. Correcting for standard risk factors does explain some of the gradient in CHD mortality, but no more than a third. The remaining gradient is still marked.
 
@@ -527,7 +527,7 @@ As of the 2021 update of this entry, Douglas MacKay has taken responsibility for
 
 [^sangiovanni-2007]: Sangiovanni, Andrea, 2007, “Global Justice, Reciprocity, and the State”, *Philosophy & Public Affairs*, 35(1): 3–39. doi:10.1111/j.1088-4963.2007.00097.x
 
-[^sapolsky-1987]: Sapolsky, Robert M. and Glen E. Mott, 1987, “Social Subordinance in Wild Baboons Is Associated with Suppressed High Density Lipoprotein-Cholesterol Concentrations: The Possible Role of Chronic Social Stress*”, *Endocrinology*, 121(5): 1605–1610. doi:10.1210/endo-121-5-1605
+[^sapolsky-1987]: Sapolsky, Robert M. and Glen E. Mott, 1987, “Social Subordinance in Wild Baboons Is Associated with Suppressed High Density Lipoprotein-Cholesterol Concentrations: The Possible Role of Chronic Social Stress\*”, *Endocrinology*, 121(5): 1605–1610. doi:10.1210/endo-121-5-1605
 
 [^schwan-2021]: Schwan, Ben, 2021, “Responsibility amid the Social Determinants of Health”, *Bioethics*, 35(1): 6–14. doi:10.1111/bioe.12782
 

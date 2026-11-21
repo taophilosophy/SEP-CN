@@ -281,7 +281,7 @@ Something Jones said is true.
 
 “back” into longer forms, such as
 
-(8*)
+(8\*)
 
 For anything one can say, if Smith says it, then it is true.
 
@@ -289,7 +289,7 @@ For anything one can say, if Smith says it, then it is true.
 
 For something one can say, Jones said it, and it is true.
 
-and explains only the second ‘it’ as involved in a prosentence. The first ‘it’ in (8*) and (11) still functions as a pro*noun*, anaphorically linked to a set of noun phrases (sentence nominalizations) supplying objects (sentence tokenings) as a domain being quantified over with standard (as opposed to sentential or “propositional”) quantifiers (ibid., 302).
+and explains only the second ‘it’ as involved in a prosentence. The first ‘it’ in (8\*) and (11) still functions as a pro*noun*, anaphorically linked to a set of noun phrases (sentence nominalizations) supplying objects (sentence tokenings) as a domain being quantified over with standard (as opposed to sentential or “propositional”) quantifiers (ibid., 302).
 
 Brandom presents a highly flexible view that takes ‘is true’ as a general “denominalizing” device that applies to singular terms formed from the nominalization of sentences broadly, not just to pronouns that indicate them. A sentence like ‘It is true that humans are causing climate change’, considered *via* a re-rendering as ‘That humans are causing climate change is true’, is *already* a prosentence on his view, as is a quote-name case like “‘Birds are dinosaurs’ is true”, and an opaque instance of truth-talk like ‘Goldbach’s Conjecture is true’. In this way, Brandom offers a univocal and broader prosentential account, according to which, “[i]n each use, a prosentence will have an anaphoric antecedent that determines a class of admissible substituends for the prosentence (in the lazy case, a singleton). This class of substituends determines the significance of the prosentence associated with it” (ibid.). As a result, Brandom can accept both (ES-sent) and (ES-prop) – the latter understood as involving no commitment to propositions as entities – on readings closer to their standard interpretations, taking the instances of both to express meaning equivalences. Brandom’s account thus seems to be located in both position $\mathbf{A}$ and position $\mathbf{B}$ in the chart from Section 1.1, although, as with any prosententialist view, it still denies that the instances of (ES) say anything *about* either sentences or propositions.
 
@@ -475,17 +475,17 @@ But (19) is clearly false. The reason is that the ‘because’ in (17) and (19)
 
 One way a deflationist might attempt to respond to this objection is by providing a different articulation of the correspondence intuition. For example, one might point out that the connection between, e.g., it being true that snow is white and snow’s being white is not a contingent connection and suggest that this rules out (17) as a successful articulation of the correspondence intuition. That intuition (one might continue) is more plausibly given voice by
 
-(17*)
+(17\*)
 
 ‘Snow is white’ is true because snow is white.
 
-However, when (17*) is conjoined with (18), one cannot derive the problematic (19), and thus, one might think, the objection from correspondence might be avoided. Now, certainly this is a possible suggestion; the problem with it, however, is that a deflationist who thinks that (17*) is true is most plausibly construed as holding a sententialist, rather than a propositionalist, version of deflationism. A sententialist version of deflationism will supply a version of (18), viz.:
+However, when (17\*) is conjoined with (18), one cannot derive the problematic (19), and thus, one might think, the objection from correspondence might be avoided. Now, certainly this is a possible suggestion; the problem with it, however, is that a deflationist who thinks that (17\*) is true is most plausibly construed as holding a sententialist, rather than a propositionalist, version of deflationism. A sententialist version of deflationism will supply a version of (18), viz.:
 
-(18*)
+(18\*)
 
 ‘Snow is white’ is true iff snow is white.
 
-which, at least if it is interpreted as a necessary (or analytic) truth, will conspire with (17*) to yield (19). And we are back where we started.
+which, at least if it is interpreted as a necessary (or analytic) truth, will conspire with (17\*) to yield (19). And we are back where we started.
 
 Hill (2002)[^hill-2002] attempts to accommodate the correspondence intuition from within a deflationary framework by identifying a correspondence relation, $R$, that is suitably deflated. He (ibid., 49) attempts to explain correspondence in terms of a *propositional* version of [substitutional quantification](https://plato.stanford.edu/entries/quantification/#SubQua) (symbolized by ‘$\Sigma$’), offering the formula,
 
@@ -533,7 +533,7 @@ Although Tarski (1935 [1956]) places great importance on the instances of his (T
 
 All sentences of the form ‘If $p$, then $p$’ are true.
 
-since the collection of the instances of (T) is *ω*-incomplete (where a theory, *θ*, is **ω*-incomplete* if *θ* can prove every instance of an open formula ‘$Fx$’ but cannot prove the universal generalization, ‘$\forall xFx$’).
+since the collection of the instances of (T) is *ω*-incomplete (where a theory, *θ*, is *ω-incomplete* if *θ* can prove every instance of an open formula ‘$Fx$’ but cannot prove the universal generalization, ‘$\forall xFx$’).
 
 We arrive at a related problem when we combine a reliance on the instances of some version of (ES) with Quine’s view about the functioning and utility of the truth predicate. He (1992, 81) considers the purpose of (A) to be to express a generalization over sentences like the following:
 

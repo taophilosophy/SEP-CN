@@ -646,7 +646,7 @@ affirmative action | critical philosophy of race | Douglass, Frederick | Du Bois
 
 [^spinner-1994]: Spinner, J., 1994, *The Boundaries of Citizenship*, Baltimore: The Johns Hopkins University Press.
 
-[^stoler-1995]: Stoler A.L., 1995, Race and the Education of Desire: Foucault’s *History of Sexuality* and the Colonial Order of Things, Durham, NC: Duke University Press.
+[^stoler-1995]: Stoler A.L., 1995, *Race and the Education of Desire: Foucault’s History of Sexuality and the Colonial Order of Things*, Durham, NC: Duke University Press.
 
 [^stubblefield-2005]: Stubblefield, A., 2005, *Ethics along the Color Line*, Ithaca, NY: Cornell University Press.
 
@@ -686,7 +686,7 @@ affirmative action | critical philosophy of race | Douglass, Frederick | Du Bois
 
 [^williams-1998]: Williams, M., 1998, *Voice, Trust, and Memory: Marginalized Groups and the Failings of Liberal Representation*, Princeton, NJ: Princeton University Press.
 
-[^wodak-2022]: Wodak, Daniel, 2022, “Of Witches and White Folks*,” *Philosophy and Phenomenological Research*, 104(3): 587–605. doi:10.1111/phpr.12799
+[^wodak-2022]: Wodak, Daniel, 2022, “Of Witches and White Folks\*,” *Philosophy and Phenomenological Research*, 104(3): 587–605. doi:10.1111/phpr.12799
 
 [^yancy-2008]: Yancy, G., 2008, *Black Bodies, White Gazes: The Continuing Significance of Race*, Lanham, MD: Rowman and Littlefield.
 

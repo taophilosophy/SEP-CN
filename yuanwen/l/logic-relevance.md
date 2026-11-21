@@ -75,11 +75,11 @@ Like the ternary relation semantics, this semantics requires some worlds to be i
 
 ## 2. Semantics for Negation
 
-The use of non-bivalent and inconsistent worlds requires a non-classical truth condition for negation. In the early 1970s, Richard and Val Routley invented their “star operator” to treat negation (Routley & Routley 1972). The operator is an operator on non-normal worlds. For each world $a$, there is a world $a$*. And
+The use of non-bivalent and inconsistent worlds requires a non-classical truth condition for negation. In the early 1970s, Richard and Val Routley invented their “star operator” to treat negation (Routley & Routley 1972). The operator is an operator on non-normal worlds. For each world $a$, there is a world $a$\*. And
 
-$\neg A$ is true at $a$ if and only if $A$ is false at $a$*.
+$\neg A$ is true at $a$ if and only if $A$ is false at $a$\*.
 
-Once again, we have the difficulty of interpreting a part of the formal semantics. One interpretation of the Routley star is that of Dunn (1993)[^dunn-1993]. Dunn uses a binary relation, $C$, on worlds. $Cab$ means that $b$ is compatible with $a. a$*, then, is the maximal world (the world containing the most information) that is compatible with $a$.
+Once again, we have the difficulty of interpreting a part of the formal semantics. One interpretation of the Routley star is that of Dunn (1993)[^dunn-1993]. Dunn uses a binary relation, $C$, on worlds. $Cab$ means that $b$ is compatible with $a. a$\*, then, is the maximal world (the world containing the most information) that is compatible with $a$.
 
 There are other semantics for negation. One, due to Dunn, is a four-valued semantics. As is the case for truth tables for classical logic, this semantics begins with the values T (true) and F (false). A formula is given a set of these truth values. Thus, a formula $A$ can get the values $\{\True\}$, $\{\False\}$, $\{\True,\False\}$, or $\varnothing$. If a formula gets the value $\{\True\}$, then it is just true; likewise, if it gets the value $\{\False\}$ it is just false; if it gets the value $\{\True,\False\}$ it is both true and false; if it gets the value $\varnothing$, it is neither true nor false.
 

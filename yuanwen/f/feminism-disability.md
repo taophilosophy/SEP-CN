@@ -392,7 +392,7 @@ affirmative action | autonomy: in moral and political philosophy | civil rights 
 
 [^schroer-2006]: *Schroer v. Billington*, 2006. 424 F. Supp. 2d 203 212 (D.D.C.)
 
-[^schroer-2009]: *Schroer v. Billington*, 2009. No. CIV.A. 05-1090,2009 WL 1543686, at *5(D.D.C. Apr 28, 2009)
+[^schroer-2009]: *Schroer v. Billington*, 2009. No. CIV.A. 05-1090,2009 WL 1543686, at \*5(D.D.C. Apr 28, 2009)
 
 [^scully-2008]: Scully, J. L., 2008. *Disability Bioethics: Moral Bodies, Moral Difference*, Lanham, Maryland: Rowman and Littlefield.
 

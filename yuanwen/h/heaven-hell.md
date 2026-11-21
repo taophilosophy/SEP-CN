@@ -258,7 +258,7 @@ Similarly, if there is such a thing as divine grace, then the destructive conseq
 
 [^note-11]: When Paul quoted the poet Epimenides of Crete in order to make the point that “in him [God] we live and move and have our being” (Acts 17:28), one might interpret this to imply that God is not only our moral and spiritual environment, but our physical environment as well. Given that interpretation, even our experience of the physical order would be an implicit experience of God.
 
-[^note-12]: Whereas modus ponens is an argument of the form: if *p* then *q*; *p*; therefore *q*, modus tollens is an argument of the form: if *p* then *q*; not *q*; therefore not *p*.
+[^note-12]: Whereas modus ponens is an argument of the form: *if p then q; p; therefore q*, modus tollens is an argument of the form: *if p then q; not q; therefore not p*.
 
 [^note-13]: Although many Christians (Wesleyans, Catholics, and other Protestant Arminians) typically find Edwards’ view here nothing less than appalling, it is not without its contemporary defenders. Michael J. Hart thus writes:
 

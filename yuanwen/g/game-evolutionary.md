@@ -34,7 +34,7 @@ To see this, suppose that a population of individuals all followed the strategy 
 | **$S_1$** | $ (2, 2) $ | $ (1, 1) $ |
 | **$S_2$** | $ (1, 1) $ | $ (1, 1) $ |
 
-*Figure 1.* A Nash equilibrium is insufficient to capture the notion of a Nash equilibrium
+\*Figure 1.\* A Nash equilibrium is insufficient to capture the notion of a Nash equilibrium
 
 A *strict* Nash equilibrium is one where any unilateral deviation from a player’s equilibrium strategy leaves that player worse off. Although a strict Nash equilibrium does intuitively capture one sense of evolutionary stability (it can be thought of as a kind of “local optimum”), it can also be shown that a strict Nash equilibrium is too strong to capture the idea of evolutionary stability, in general.
 
@@ -58,7 +58,7 @@ Given this, the fitness payoffs for the Hawk-Dove game are summarized according 
 | **Hawk** | $ \left( \frac{V - C}{2}, \frac{V-C}{2} \right)$ | $ (V,0) $ |
 | **Dove** | (0, V) | $ \left( \frac{V}{2}, \frac{V}{2} \right) $ |
 
-*Figure 2.* The Hawk-Dove Game. (It is assumed that $ V\lt C $, as otherwise Hawk dominates Dove.)
+\*Figure 2.\* The Hawk-Dove Game. (It is assumed that $ V\lt C $, as otherwise Hawk dominates Dove.)
 
 The Hawk-Dove game has no Nash equilibria in pure strategies and exactly one Nash equilibrium in mixed strategies. The mixed strategy Nash equilibrium has both individuals playing Hawk with probability $\frac{V}{C}$ and Dove with probability $1-\frac{V}{C}$. Denote this strategy by *σ*. According to the fundamental theorem of mixed-strategy Nash equilibria (see Gintis, 2009)[^gintis-2009], it is the case that $$ \pi(\text{Hawk} \mid \sigma) = \pi(\text{Dove} \mid \sigma) = \pi(\sigma \mid \sigma), $$ where “$\pi( x \mid y)$” denotes the payoff obtained when playing strategy $x$ against someone using the strategy $y$. From this, it follows that for *any* other mixed strategy $\mu$ it is the case that $\pi( \mu \mid \sigma ) = \pi(\sigma \mid \sigma)$, and so the Nash equilibrium is not strict. Yet a population where everyone follows the strategy *σ* is still nevertheless able to resist invasion, for it can be shown that $\pi(\sigma \mid \mu) > \pi(\mu \mid \mu)$. That is, the incumbent strategy *σ* receives a higher payoff when played against any mutant strategy $\mu$, than the mutant strategy receives when played against itself.
 
@@ -83,7 +83,7 @@ From this, we see that an evolutionarily stable strategy is a Nash equilibrium w
 | **Scissors** | $ (-1, 1) $ | $ (0,0) $ | $ (1, -1) $ |
 | **Paper** | $ (1, -1$ | $ (-1, 1) $ | $ (0,0) $ |
 
-*Figure 3.* The game of Rock-Scissors-Paper has no evolutionarily stable strategy.
+\*Figure 3.\* The game of Rock-Scissors-Paper has no evolutionarily stable strategy.
 
 Despite the fact that evolutionarily stable strategies do not always exist, one advantage of the Maynard Smith and Price definition of an evolutionarily stable strategy is that it can be shown to be equivalent to two other concepts of evolutionary stability which were defined. Since these three definitions of evolutionary stability are not obviously the same, the fact that they turn out to be logically equivalent is interesting. We briefly discuss these other concepts below, before stating the equivalence result.
 
@@ -114,7 +114,7 @@ In the years following the original work of Maynard Smith and Price, alternate a
 | $S_3$ | $ (\frac12, 1$ | $ (\frac12, 1) $ | $ (\frac12, \frac12) $ | $ (\frac12, \frac12) $ |
 | $S_4$ | $ (\frac12, 1$ | $ (\frac12, 1) $ | $ (\frac12, \frac12) $ | $ (\frac12, \frac12) $ |
 
-*Figure 4.* A game with no evolutionarily stable strategy, but one with an evolutionarily stable set.
+\*Figure 4.\* A game with no evolutionarily stable strategy, but one with an evolutionarily stable set.
 
 Other analytic solution concepts exist, as well. Swinkels (1992)[^swinkels-1992] introduced the idea of an *equilibrium evolutionarily stable set*, providing a further refinement of the idea of an evolutionarily stable set. (Every evolutionarily stable set contained some equilibrium evolutionarily stable set, but not every equilibrium evolutionarily stable set was an evolutionarily stable set.) Hence we see that the search for static solution concepts which suffice for capturing the idea of evolutionary stability encounters a problem structurally similar to that of the equilibrium selection problem in traditional game theory: there are multiple competing concepts of evolutionary stability, all of which have some intuitive claim to plausibility.
 
@@ -127,7 +127,7 @@ As an example of the second approach, consider the well-known Prisoner’s Dilem
 | **Cooperate** | $(R,R)$ | $(S,T)$ |
 | **Defect** | $(T,S)$ | $(P,P)$ |
 
-*Figure 5.* Payoff Matrix for the Prisoner’s Dilemma.
+\*Figure 5.\* Payoff Matrix for the Prisoner’s Dilemma.
 
 In figure 5, the payoffs are assumed to satisfy the ordering $T \gt R \gt P \gt S$ and $\frac{T + S}2 \lt R$. The latter requirement, although often omitted in discussions of the Prisoner’s Dilemma, ensures that in the context of an indefinitely repeated game there is no net overall advantage in the players alternating between Cooperate-Defect and Defect-Cooperate.
 
@@ -155,7 +155,7 @@ Since it is the case that, for any value of $p_c$ and $p_d$, $ W_C \lt \overline
 
 ![An empty circle labelled 'Cooperate' has a directed line with arrows leading to a closed circle labelled 'Defect'.](../assets/game-evolutionary/img82.gif)
 
-*Figure 6:* The Replicator Dynamical Model of the Prisoner’s Dilemma
+\*Figure 6:\* The Replicator Dynamical Model of the Prisoner’s Dilemma
 
 This diagram is interpreted as follows: the leftmost point represents the state of the population where everyone defects, the rightmost point represents the state where everyone cooperates, and intermediate points represent states containing a mix of both cooperators and defectors. (One maps states of the population onto points in the diagram by mapping the state when $N$% of the population defects onto the point of the line $N$% of the way to the leftmost point.) Arrows on the line indicate the evolutionary trajectory followed by the population over time. The open circle at the rightmost point represents the fact that the state where everybody cooperates is an unstable equilibrium, in that if a small portion (any amount $\epsilon > 0$) of the population deviates from the strategy Cooperate, then the evolutionary dynamics will lead the population away from the all-Cooperate state. The solid circle at the leftmost point indicates that the state where everybody Defects is a stable equilibrium, in the sense that if some portion of the population deviates from the strategy Defect, then the evolutionary dynamics will drive the population back to the all-Defect state.
 
@@ -206,7 +206,7 @@ However, the same does not hold for *weakly* dominated strategies. A strategy $A
 | $S_1$ | $(1,1)$ | $(100,0)$ |
 | $S_2$ | $(0,100)$ | $(100,100)$ |
 
-*Figure 7.* A game in which a weakly dominated strategy $(S_2)$ appears in a Nash equilibrium.
+\*Figure 7.\* A game in which a weakly dominated strategy $(S_2)$ appears in a Nash equilibrium.
 
 It can be shown (see Weibull, 1995)[^weibull-1995] that a weakly dominated strategy can *never* be an ESS. In the case of the game shown in figure 7, this is surprising because the equilibrium generated by the weakly dominated strategy is Pareto optimal and has a much higher expected payoff than any other Nash equilibrium. However, it is also the case (see Skyrms, 1996)[^skyrms-1996] that the replicator dynamics need not eliminate weakly dominated strategies. In fact, in chapter 2 of *Evolution of the Social Contract*, Brian Skyrms shows that there are some games in which the replicator dynamics almost always yields outcomes containing a weakly dominated strategy! This shows that there can be considerable disagreement between the evolutionary outcomes of the replicator dynamics and what the static approach identifies as an evolutionarily stable strategy.
 
@@ -221,7 +221,7 @@ Consider the game of figure 8 below. This is known as the game of “Rock-Paper-
 | **Paper** | $ (1, -1) $ | $ (-1, 1) $ | $ (0,0) $ | $ (0, - \varepsilon) $ |
 | **Twin** | $ (1-\varepsilon, -1) $ | $ (-1-\varepsilon, 1) $ | $ (-\varepsilon, 0) $ | $ (-\varepsilon, - \varepsilon) $ |
 
-*Figure 8.* Rock-Scissors-Paper with a feeble twin.
+\*Figure 8.\* Rock-Scissors-Paper with a feeble twin.
 
 The connection between ESSs and stable states under an evolutionary dynamical model is weakened further if we do not model the dynamics using a continuous population model. For example, suppose we use a local interaction model in which each individual plays the prisoner’s dilemma with his or her neighbors. Nowak and May (1992, 1993), using a spatial model in which local interactions occur between individuals occupying neighboring nodes on a square lattice, show that stable population states for the prisoner’s dilemma depend upon the specific form of the payoff matrix. [^note-4] (What is interesting about this finding is that, in all cases, it remains true that Defect strictly dominates Cooperate, so the fundamental underlying strategic problem described by the game has not changed.)
 
@@ -233,7 +233,7 @@ When the payoff matrix for the population has the values $T = 2.8$, $R = 1.1$, $
 | ![The white square is not mostly filled with a couple of small patches of white](../assets/game-evolutionary/img94.gif) | ![An almost entirely black square with a small white speck](../assets/game-evolutionary/img95.gif) | ![An entirely black square](../assets/game-evolutionary/img96.gif) |   |
 | Generation 4 | Generation 5 | Generation 6 |   |
 
-*Figure 9:* Prisoner’s Dilemma: All Defect [[View a movie of this model]](../assets/game-evolutionary/pd-defect.gif)
+\*Figure 9:\* Prisoner’s Dilemma: All Defect [[View a movie of this model]](../assets/game-evolutionary/pd-defect.gif)
 
 However, when the payoff matrix has values of $T = 1.2, R = 1.1, P = 0$.1, and $S = 0$, the evolutionary dynamics carry the population to a stable cycle oscillating between two states. In this cycle cooperators and defectors coexist, with some regions containing “blinkers” oscillating between defectors and cooperators (as seen in generation 19 and 20).
 
@@ -243,7 +243,7 @@ However, when the payoff matrix has values of $T = 1.2, R = 1.1, P = 0$.1, and $
 | ![A mostly white square with some small black dots and lines](../assets/game-evolutionary/img103.gif) | ![A mostly white square with more black dots and lines](../assets/game-evolutionary/img104.gif) |
 | Generation 19 | Generation 20 |
 
-*Figure 10:* Prisoner’s Dilemma: Cooperate [[View a movie of this model]](../assets/game-evolutionary/pd-cooperate.gif)
+\*Figure 10:\* Prisoner’s Dilemma: Cooperate [[View a movie of this model]](../assets/game-evolutionary/pd-cooperate.gif)
 
 Notice that with these particular settings of payoff values, the evolutionary dynamics of the local interaction model differ significantly from those of the replicator dynamics. Under these payoffs, the stable states have no corresponding analogue in either the replicator dynamics nor in the analysis of evolutionarily stable strategies.
 
@@ -257,7 +257,7 @@ A phenomenon of greater interest occurs when we choose payoff values of $T = 1.6
 | ![A square of large white splotches and smaller black splotches](../assets/game-evolutionary/img117.gif) | ![A square with some large and some small splotches of black and white](../assets/game-evolutionary/img118.gif) |   |
 | Generation 13 | Generation 15 |   |
 
-*Figure 11:* Prisoner’s Dilemma: Chaotic [[view a movie of this model]](../assets/game-evolutionary/pd-chaotic.gif)
+\*Figure 11:\* Prisoner’s Dilemma: Chaotic [[view a movie of this model]](../assets/game-evolutionary/pd-chaotic.gif)
 
 These results demonstrate that, although there are cases where both the static and dynamic approaches to evolutionary game theory agree about the expected outcome of an evolutionary game, there are enough differences in the outcomes of the two modes of analysis to justify the development of each program independently.
 
@@ -276,7 +276,7 @@ Yet a difficulty arises with the use of Nash equilibrium as a solution concept f
 | **Heads** | (0,1) | (1,0) |
 | **Tails** | (1,0) | (0,1) |
 
-*Figure 12:* Payoff matrix for the game of Matching Pennies. (Row wins if the two coins do not match, whereas Column wins if the two coins match).
+\*Figure 12:\* Payoff matrix for the game of Matching Pennies. (Row wins if the two coins do not match, whereas Column wins if the two coins match).
 
 While it is true that every noncooperative game in which players may use mixed strategies has a Nash equilibrium, some have questioned the significance of this for real agents. If it seems appropriate to require rational agents to adopt only pure strategies (perhaps because the cost of implementing a mixed strategy runs too high), then the game theorist must admit that certain games lack solutions.
 
@@ -316,7 +316,7 @@ More formally, suppose that two individuals are presented with a resource of siz
 
 ![A graph with Player 1 on the x-axis and Player 2 on the y-axis. A line goes from (0,10) to (10,0) and the triangle below the line is filled. The line is labelled pi(s_i,s_{-i}) = s_i if s_i + s_{-i} <= 10, and = 0 otherwise.](../assets/game-evolutionary/dtd.gif)
 
-*Figure 13:* The feasible set for the game of Divide-the-Cake. In this figure, the cake is of size $C=10$ but all strategies between 0 and 10 inclusive are permitted for either player (including fractional demands).
+\*Figure 13:\* The feasible set for the game of Divide-the-Cake. In this figure, the cake is of size $C=10$ but all strategies between 0 and 10 inclusive are permitted for either player (including fractional demands).
 
 We have a clear intuition that the “obvious” strategy for each player to select is *C/2*; the philosophical problem lies in explaining *why* agents would choose that strategy rather than some other one. Even in the perfectly symmetric situation, answering this question is more difficult than it first appears. To see this, first notice that there are an infinite number of Nash equilibria for this game. If player 1 asks for $p$ of the cake, where $0 \le p \le C$, and player 2 asks for $C - p$, then this strategy profile is a Nash equilibrium for any value of $p \in [0,C]$. (Each player’s strategy is a best response given what the other has chosen, in the sense that neither player can increase her payoff by changing her strategy.) Thus the equal split is only one of infinitely many Nash equilibria.
 
@@ -334,7 +334,7 @@ The replicator dynamics allows us to model how the distribution of strategies in
 | --- |
 | (b) The evolution of an unequal division rule. |
 
-*Figure 14:* Two evolutionary outcomes under the continuous replicator dynamics for the game of divide-the-cake. Of the eleven strategies present, only three are colour-coded so as to be identifiable in the plot, as noted in the legend.
+\*Figure 14:\* Two evolutionary outcomes under the continuous replicator dynamics for the game of divide-the-cake. Of the eleven strategies present, only three are colour-coded so as to be identifiable in the plot, as noted in the legend.
 
 Recall that the task at hand was to explain why we think the “obvious” strategy choice in a perfectly symmetric resource allocation problem is for both players to ask for half of the resource. What the above shows is that, in a population of boundedly rational agents who modify their behaviours in a manner described by the replicator dynamics, fair division is one, although not the only, evolutionary outcome. The tendency of fair division to emerge, assuming that any initial condition is equally likely, can be measured by determining the size of the [basin of attraction](http://mathworld.wolfram.com/BasinofAttraction.html) of the state where everyone in the population uses the strategy Demand 5 slices. Skyrms (1996)[^skyrms-1996] measures the size of the basin of attraction of fair division using [Monte Carlo methods](http://mathworld.wolfram.com/MonteCarloMethod.html), finding that fair division evolves roughly 62% of the time.
 
@@ -348,7 +348,7 @@ When correlation is introduced, the frequency with which fair division emerges c
 | ![image](../assets/game-evolutionary/nash-4-5-6-corr-2.gif) |   |
 | (c) $\varepsilon = 0.2$ |   |
 
-*Figure 15:* Three diagrams showing how, as the amount of correlation among interactions increases, fair division is more likely to evolve. In figures 15(a) and 15(b), there is an unstable fixed point in the interior of space where all three strategies are present in the population. (This is the point where the evolutionary trajectories appear to intersect.) This fixed point is what is known as a *saddle point* in dynamical systems theory: the smallest perturbation will cause the population to evolve away from that point to one of the other two attractors.
+\*Figure 15:\* Three diagrams showing how, as the amount of correlation among interactions increases, fair division is more likely to evolve. In figures 15(a) and 15(b), there is an unstable fixed point in the interior of space where all three strategies are present in the population. (This is the point where the evolutionary trajectories appear to intersect.) This fixed point is what is known as a *saddle point* in dynamical systems theory: the smallest perturbation will cause the population to evolve away from that point to one of the other two attractors.
 
 What, then, can we conclude from this model regarding the evolution of fair division? It all depends, of course, on how accurately the replicator dynamics models the primary evolutionary forces (cultural or biological) acting on human populations. Although the replicator dynamics are a “simple” mathematical model, it does suffice for modelling both a type of biological evolution (see Taylor and Jonker, 1978)[^taylor-1978] and a type of cultural evolution (see Börgers and Sarin, 1996; Weibull, 1995)[^weibull-1995]. As Skyrms (1996)[^skyrms-1996] notes:
 
@@ -418,13 +418,13 @@ As a first approach to the dynamics of sender-receiver games, let us restrict at
 | --- | --- |
 | ![image](../assets/game-evolutionary/sr-N2-fig03.gif) |   |
 
-*Figure 16:* The evolution of signaling systems.
+\*Figure 16:\* The evolution of signaling systems.
 
 Figure 17 illustrates the outcome of one run of the replicator dynamics (for a single population model) where all sixteen possible strategies are represented. We see that eventually the population, for this particular set of initial conditions, converges to one of the pure Lewisian signalling systems identified above.
 
 ![A graph of Frequency in population vs Time with several curves in different colors. All start with frequency under 0.2 at time 0 and all but one hit frequency 0 by time 75. The other curves stays low until time 35 and then rises sharply, asymptotically towards 1.0 by time 75.](../assets/game-evolutionary/sender-receiver-1.gif)
 
-*Figure 17:* The evolution of a signalling system under the replicator dynamics.
+\*Figure 17:\* The evolution of a signalling system under the replicator dynamics.
 
 When the number of states of the world, the number of signals, and the number of actions increase from 2, the situation rapidly becomes much more complex. If there are $N$ states of the world, $N$ signals, and $N$ actions, the total number of possible strategies equals $N^{2N}$. For $N=2$, this means there are 16 possible strategies, as we have seen. For $N=3$, there are 729 possible strategies, and a signalling problem where $N=4$ has 65,536 possible strategies. Given this, one might think that it would prove difficult for evolution to settle upon an optimal signalling system.
 

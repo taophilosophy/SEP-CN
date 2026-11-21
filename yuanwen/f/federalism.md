@@ -213,11 +213,11 @@ Arendt, Hannah | authority | citizenship | Hume, David | identity politics | Kan
 
 This entry has benefited from suggestions by Andrea Carla, Federica Cittadino, Philippe Crignon, Dorothea Gädeke, Douglas Klusmeyer, Silje Langvatn, Petra Malfertheiner, Thaddeus Metz, Francesco Palermo, Antoinette Scherz, Robert Schütze, and Katja Stoppenbrink, and from exchanges at a Conference on Federalism 2022 at EHESS, Paris, and at the Eurac institutes for minority rights and for federalism, Bolzano, 2022.
 
-[^several-2005]: Several of the historical writings—those marked ‘*’ below and others—are reprinted in part or full in *Theories of Federalism: A Reader*, Dimitrios Karmis and Wayne Norman (eds.), New York: Palgrave, 2005.
+[^several-2005]: Several of the historical writings—those marked ‘\*’ below and others—are reprinted in part or full in *Theories of Federalism: A Reader*, Dimitrios Karmis and Wayne Norman (eds.), New York: Palgrave, 2005.
 
 [^brutus-1994]: Brutus, Junius (Philippe Duplessis-Mornay?), 1579, *Vindiciae contra tyrannos*, George Garnett (transl. and ed.), Cambridge: Cambridge University Press, 1994.
 
-[^althusius-1603]: *Althusius, Johannes, 1603, *Politica Methodice Digesta*, Frederick S. Carney (transl.), Daniel J. Elazar (introd.), Indianapolis: Liberty Press, 1995.
+[^althusius-1603]: \*Althusius, Johannes, 1603, *Politica Methodice Digesta*, Frederick S. Carney (transl.), Daniel J. Elazar (introd.), Indianapolis: Liberty Press, 1995.
 
 [^arendt-1972]: Arendt, Hannah, 1972, “Thoughts on Politics and Revolution,” in *Crises of the Republic*, New York: Harcourt Brace, 199–233.
 
@@ -225,11 +225,11 @@ This entry has benefited from suggestions by Andrea Carla, Federica Cittadino, P
 
 [^saint-pierre-1713]: Saint-Pierre, Abbé Charles, 1713, *Projet pour rendre la paix perpêtuelle en Europe* (Project to make peace perpetual in Europe), Paris: Fayard, 1986.
 
-[^montesquieu-1748]: *Montesquieu, Baron de, 1748, *The Spirit of Laws*, Amherst, NY: Prometheus Books, 2002.
+[^montesquieu-1748]: \*Montesquieu, Baron de, 1748, *The Spirit of Laws*, Amherst, NY: Prometheus Books, 2002.
 
-[^rousseau-1761]: *Rousseau, Jean-Jacques, 1761, *A Lasting Peace Through the Federation of Europe*, C.E. Vaughan (trans.), London: Constable, 1917.
+[^rousseau-1761]: \*Rousseau, Jean-Jacques, 1761, *A Lasting Peace Through the Federation of Europe*, C.E. Vaughan (trans.), London: Constable, 1917.
 
-[^rousseau-1761-2]: *–––, 1761, “Summary and Critique of Abbé Saint-Pierre’s Project for Perpetual Peace,” in Grace G. Roosevelt (ed.), *Reading Rousseau in the Nuclear Age*, Philadelphia: Temple University Press, 1990.
+[^rousseau-1761-2]: \*–––, 1761, “Summary and Critique of Abbé Saint-Pierre’s Project for Perpetual Peace,” in Grace G. Roosevelt (ed.), *Reading Rousseau in the Nuclear Age*, Philadelphia: Temple University Press, 1990.
 
 [^hume-1752]: Hume, David, 1752, “Idea of a Perfect Commonwealth,” in T.H. Green and T.H. Grose (eds.), *Essays moral, political and literary*, London: Longmans, Green, 1882
 
@@ -237,17 +237,17 @@ This entry has benefited from suggestions by Andrea Carla, Federica Cittadino, P
 
 [^storing-1981]: Storing, Herbert, and Murray Dry (eds.), 1981, *The Complete Anti-Federalist* (7 Volumes), Chicago: University of Chicago Press.
 
-[^hamilton-1787]: *Hamilton, Alexander, James Madison, and John Jay, 1787–88, *The Federalist Papers*, Jacob E. Cooke (ed.), Middletown, CT: Wesleyan University Press, 1961.
+[^hamilton-1787]: \*Hamilton, Alexander, James Madison, and John Jay, 1787–88, *The Federalist Papers*, Jacob E. Cooke (ed.), Middletown, CT: Wesleyan University Press, 1961.
 
 [^kant-1784]: Kant, Immanuel, 1784, “An Answer to the Question: ‘What Is Enlightenment?’” in Hans Reiss (ed.), *Kant’s Political Writings*, Cambridge: Cambridge University Press, 1970, 54–60.
 
-[^kant-1796]: *–––, 1796, “Perpetual Peace: A Philosophical Sketch,” in Hans Reiss (ed.), *Kant’s Political Writings*, Cambridge: Cambridge University Press, 1970, 93–130.
+[^kant-1796]: \*–––, 1796, “Perpetual Peace: A Philosophical Sketch,” in Hans Reiss (ed.), *Kant’s Political Writings*, Cambridge: Cambridge University Press, 1970, 93–130.
 
-[^tocqueville-1835]: *de Tocqueville, Alexis, 1835–40, *Democracy in America*, P. Bradley (ed.), New York: Vintage, 1945 [[Text available online](https://www.gutenberg.org/ebooks/815)].
+[^tocqueville-1835]: \*de Tocqueville, Alexis, 1835–40, *Democracy in America*, P. Bradley (ed.), New York: Vintage, 1945 [[Text available online](https://www.gutenberg.org/ebooks/815)].
 
-[^mill-1861]: *Mill, John Stuart, 1861, *Considerations on Representative Government*, New York: Liberal Arts Press, 1958 [[Text available online](http://www.gutenberg.org/ebooks/5669)].
+[^mill-1861]: \*Mill, John Stuart, 1861, *Considerations on Representative Government*, New York: Liberal Arts Press, 1958 [[Text available online](http://www.gutenberg.org/ebooks/5669)].
 
-[^proudhon-1863]: *Proudhon, Pierre Joseph, 1863, *Du Principe Federatif*, J.-L. Puech and Th. Ruyssen (eds.), Paris: M. Riviere, 1959.
+[^proudhon-1863]: \*Proudhon, Pierre Joseph, 1863, *Du Principe Federatif*, J.-L. Puech and Th. Ruyssen (eds.), Paris: M. Riviere, 1959.
 
 [^leo-1891]: Leo XIII, 1891, “Rerum Novarum,” in *The Papal Encyclicals 1903–1939*, Raleigh: Mcgrath, 1981.
 
@@ -255,7 +255,7 @@ This entry has benefited from suggestions by Andrea Carla, Federica Cittadino, P
 
 [^pius-1931]: Pius XI, 1931. “Quadragesimo Anno,” in *The Papal Encyclicals 1903–1939*, Raleigh: Mcgrath, 1981.
 
-[^spinelli-1944]: *Spinelli, Altiero, and Ernesto Rossi, 1944, *Il manifesto di Ventotene* (*The Ventotene Manifesto*), Naples: Guida, 1982; reprinted in Karmis and Norman 2005. [[Text available online](https://web.archive.org/web/20150329020754/http://www.altierospinelli.org/manifesto/manifesto_en.html)]
+[^spinelli-1944]: \*Spinelli, Altiero, and Ernesto Rossi, 1944, *Il manifesto di Ventotene* (*The Ventotene Manifesto*), Naples: Guida, 1982; reprinted in Karmis and Norman 2005. [[Text available online](https://web.archive.org/web/20150329020754/http://www.altierospinelli.org/manifesto/manifesto_en.html)]
 
 [^vattel-1758]: Vattel, Emmerich, 1758 (2008), “The Law of Nations (Le Droit Des Gens),” in *The Classics of International Law, edited by Bela Kapossy and Richard Whatmore*, Indianapolis: Liberty Fund.
 

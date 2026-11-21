@@ -55,7 +55,7 @@ Maclaurin and Sternly suggest that one way to operationalize such variation is t
 
 ![A line drawing of a cube with 14 different pictures of mollusk shells around it, lines connect each picture to a particular part of the cube. Axes are labeled 'Expansion rate (w)' , 'Translation (t)', and 'Distance (d) of Generation Curve from Axis' ](../assets/conservation-biology/Raup.png)
 
-*Figure 1:* Raup’s coiling patterns in mollusks morphospace (Raup 1966)[^raup-1966]
+\*Figure 1:\* Raup’s coiling patterns in mollusks morphospace (Raup 1966)[^raup-1966]
 
 The morphospace describes actual coiling patterns and merely possible ones, and raises *explananda* for evolutionary biologists. Why did certain coiling patterns evolve and not others? Maclaurin and Sterelny claim morphospaces will be of low dimensionality and specifically limited to lineages or clades (Maclaurin & Sterelny 2008: 75–9)[^maclaurin-2008]. Thus, biologists must be assured that the variables included are representative of the phenotypic traits of the organisms and hence species under study. They hypothesize that the variables will correspond to developmental modules or mosaics, which are a relatively independent developmental system that contributes to fitness (G. P. Wagner 2014; P. J. Wagner 1995)[^wagner-2014][^wagner-1995]. This approach of course assumes that there exist independent developmental systems, and ideally it would help articulate how a lineage would fare over time as a function of its plasticity.
 
@@ -69,7 +69,7 @@ Consider the following cladogram.
 
 ![a diagram with a diagonal line going from bottom left to upper right, labeled at the end with '2'. Along the line are 12 evenly placed tic marks. From this line and going to the left are 6 perpendicular lines, each also with evenly placed tic marks. The first, before the first tic mark on the main line, has 4 tic marks and is labeled '10'; between its second and third tic mars is another perpendicular line going to the right with one tic mark. The second, between the third and fourth tic marks on the main line, has only one tic mark. The third, between the fourth and fifth tic marks, has 7 tic marks and is labeled '8'. The fourth, between the fifth and sixth tic marks of the main line, has 5 tic marks and is labeled '6'. On it are two perpendicular lines with one tic mark each going to the right between the second and third and third and fourth tic marks. The fifth line, between the seventh and eighth tic marks on the main line, has 3 tic marks. The last line, between the eighth and ninth tic marks on the main line, has 1 tic mark. ](../assets/conservation-biology/Faith.jpeg)
 
-*Figure 2:* The phylogenetic diversity represented in a cladogram (Faith 1992: 3)[^faith-1992]
+\*Figure 2:\* The phylogenetic diversity represented in a cladogram (Faith 1992: 3)[^faith-1992]
 
 In Figure 2, we have taxa 2, 6, 8, 10. The minimum spanning path connecting each taxa requires 28 character changes and thus its PD is 28. Here each hash mark represents a character change and there are 28 of those marks. As Maclaurin and Sterelny note, this assumes that we have an adequate sample of character traits and given that many are molecular they do not tell us much about phenotypes (Maclaurin & Sterelny 2008: 141)[^maclaurin-2008]. Thus, they suggest we stick with local morphospaces. For an interesting exploration examing whether we should conserve phylogenetic diversity, see (Palmer and Fischer 2022)[^palmer-2022].
 
@@ -191,7 +191,7 @@ A
 
 B
 
-*Figure 3:* Equilibrium model and explanation of the species area effect (MacArthur & Wilson 1967: 26)[^macarthur-1967]
+\*Figure 3:\* Equilibrium model and explanation of the species area effect (MacArthur & Wilson 1967: 26)[^macarthur-1967]
 
 Where the immigration rate $I$ and extinction rate $E$ cross is the species equilibrium $S^*$ (Figure 3B). Moreover, the island whose immigration rate is $I_\text{near}$ and whose extinction rate is $E_\text{large}$ has the largest species equilibrium. The one with the smallest is the one with $I_\text{far}$ and $E_\text{small}$ (Figure 3A).
 
@@ -205,7 +205,7 @@ Several conservation biologists, but especially Jared Diamond, argued that singl
 
 ![[6 rows, in the center of each row is a letter, A through F descending. In the A row is a large circle on the left and a medium circles on the right. The B row has a medium circle on the left and 4 small circles in a compact 2x2 array. The C row has the compact 2x2 array of small circles on the left and a far less compact 2x2 array of small circles on the right. The D row has 3 small circles in a compact triangular formation on the left and 3 small circles in a row on the right. The E row has 3 small circles in a row connected by corridors on the left and 3 unconnected circles in a row on the right (same as D's right). The F row has a small circle on the left and a wide but vertically narrow blob on the right]](../assets/conservation-biology/Diamond.jpeg)
 
-*Figure 4:* Principles as depicted in the SLOSS debate (Diamond 1975b: 174)[^diamond-1975b]
+\*Figure 4:\* Principles as depicted in the SLOSS debate (Diamond 1975b: 174)[^diamond-1975b]
 
 The principles debated included (A) larger reserves are better than smaller ones, (B) a large reserve is better than a few small ones of the same total area, (C) several reserves close to one another are better than several further apart, (D) when there are several reserves they should be grouped equidistantly rather then linearly, (E) reserves connected by corridors are better than unconnected ones, and (F) compact shapes are better for minimizing boundary length (1975b: 143–5).
 
@@ -245,7 +245,7 @@ This implies that $\alpha_n$ is strictly better than $\alpha_m$ by at least one 
 
 ![[A graph captioned with 'Feasible and Non-Dominated Solutions', the y-axis is labeled 'Social Cost' and marked from 0.00E+00 to 8.00E+06 and the x-axis is labeled 'Economic Cost' and marked from 1.45E+08 to 1.80E+08. The legend has solid squares labeled 'Feasible Solutions' and solid circles labeled 'Non-Dominated Solutions'. The graph itself has the 28 or so squares scattered between 3.00E+06 and 6.00E+06 (on the y) and 1.50E+08 and 1.65E+08 (on the x). 2 squares are outliers, one at 7.00E+06 and 1.63E+08 (y,x) and the other at 6.00E+06 and 1.75E+08. The two circles are at 3.00E+06 and 1.46E+08 (y,x) and at 2.50E+06 and 1.55E+08.]](../assets/conservation-biology/Sarkar.jpeg)
 
-*Figure 5:* Place prioritization and multi-criteria analysis in Texas (Sarkar 2012: 206)[^sarkar-2012]
+\*Figure 5:\* Place prioritization and multi-criteria analysis in Texas (Sarkar 2012: 206)[^sarkar-2012]
 
 Next we reflect on the case studies and then ask what exactly is conservation biology?
 
@@ -293,7 +293,7 @@ Let’s consider an argument from inductive risk (Douglas 2000; Hempel 1965; Rud
 | Accept $H_0$ | Correct | Type II error |
 | Reject $H_0$ | Type I error | Correct |
 
-*Table 1:* Type I and Type II errors
+\*Table 1:\* Type I and Type II errors
 
 We can also represent them as,
 
@@ -736,7 +736,7 @@ computability and complexity | ecology | ecology: biodiversity | ethics: environ
 
 [^steel-2012]: Steel, D. and Whyte, K. P., 2012, “Environmental Justice, Values, and Scientific Expertise”, *Kennedy Institute of Ethics Journal*, 22(2): 163–182.
 
-[^sterelny-2006]: Sterelny, K., 2006, “Local ecological communities*”, *Philosophy of Science*, 73(2): 215–231.
+[^sterelny-2006]: Sterelny, K., 2006, “Local ecological communities\*”, *Philosophy of Science*, 73(2): 215–231.
 
 [^strong-2008]: Strong, D.R., 2008, “Ecologists and environmentalism”, *Frontiers in Ecology and the Environment*, 6(7): 347–347.
 

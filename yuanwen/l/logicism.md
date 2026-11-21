@@ -391,7 +391,7 @@ Because of Russell’s partitioning of the logical universe into types, his ‘c
 
 Russell does not, however, fully accept the strictures thus imposed. In more expansive mood he immediately adds
 
-> Nevertheless, if two classes $\alpha , \beta$ are of different types, we can speak of them as having the same cardinal … because a one-one relation may hold between the members of *α* and the members of $\beta,$ *even when *α* and *β* are of different types*. [Emphasis added]
+> Nevertheless, if two classes $\alpha , \beta$ are of different types, we can speak of them as having the same cardinal … because a one-one relation may hold between the members of *α* and the members of $\beta,$ *even when α and β are of different types*. [Emphasis added]
 
 By giving in to this structuralist impulse, Russell in effect puts a second construal of cardinal numbers into contention with his official type-theoretic one. The new construal is of a cardinal number as something that results from *abstracting* from classes on the basis of their similarity, rather than from forming classes of similar classes. Such abstraction takes the Humean form (famously exploited by Cantor)
 

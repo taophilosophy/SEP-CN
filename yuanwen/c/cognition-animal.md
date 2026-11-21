@@ -548,7 +548,7 @@ action | animal: consciousness | animals: moral status of | Aquinas, Thomas | Ar
 
 [^schmidt-2015]: Schmidt, Andreas T., 2015, “Why Animals Have an Interest in Freedom”, *Historical Social Research*, 40(4): 92–109.
 
-[^schwitzgebel-2019]: Schwitzgebel, Eric, 2019, “Are Garden Snails Conscious? Yes, No, or *Gong*”, in his *A Theory of Jerks and Other Philosophical Misadventures*, Cambridge, MA: The MIT Press, 229–236 (ch. 45).
+[^schwitzgebel-2019]: Schwitzgebel, Eric, 2019, “Are Garden Snails Conscious? Yes, No, or \*Gong\*”, in his *A Theory of Jerks and Other Philosophical Misadventures*, Cambridge, MA: The MIT Press, 229–236 (ch. 45).
 
 [^sebo-2017]: Sebo, Jeff, 2017, “Agency and Moral Status”, *Journal of Moral Philosophy*, 14(1): 1–22. doi:10.1163/17455243-46810046
 

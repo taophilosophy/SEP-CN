@@ -246,11 +246,11 @@ Crescas, Hasdai | evil: problem of | freedom: divine | God: and other ultimates 
 
 [^note-6]: There are variations on (e) that may provide additional counter-examples to Flint and Freddoso’s account of omnipotence. For instance, consider the following possible state of affairs:
 
-(e*)
+(e\*)
 
 A snowflake falls & ${\sim}$(Oscar brings about something at some time during his life).
 
-Suppose that Oscar is a contingently existing omnipotent agent. It can be argued that although it is impossible for Oscar to bring about (e*), it is possible that a non-omnipotent agent other than Oscar brings about (e*) by bringing about *both* of its conjuncts, even when Oscar is omnipotent. Arguably, a non-omnipotent agent of this sort could accomplish this by causing a snowflake to fall and destroying Oscar before he brings about something. It can be argued that such a case provides a counter-example to Flint and Freddoso’s account of omnipotence similar to the one based on (e).
+Suppose that Oscar is a contingently existing omnipotent agent. It can be argued that although it is impossible for Oscar to bring about (e\*), it is possible that a non-omnipotent agent other than Oscar brings about (e\*) by bringing about *both* of its conjuncts, even when Oscar is omnipotent. Arguably, a non-omnipotent agent of this sort could accomplish this by causing a snowflake to fall and destroying Oscar before he brings about something. It can be argued that such a case provides a counter-example to Flint and Freddoso’s account of omnipotence similar to the one based on (e).
 
 [^note-7]: Whether divine moral perfection should be understood as perfect goodness, perfect virtue, or an optimal combination of goodness and virtue, depends upon whether the correct theory of morality is consequentialist, deontological, or *mixed* (that is, a mixture of core elements of consequentialist and deontological moral theories). To preserve our neutrality on this controversial question in this context, in the main text we use expressions such as ‘best possible world’ and ‘maximally good possible world’ to refer to *either* a possible world of unsurpassable goodness, a possible world governed by a being of unsurpassable virtue, or a possible world with an optimal balance of goodness and virtuous governance.
 

@@ -526,7 +526,7 @@ artificial intelligence | language of thought hypothesis | mental representation
 
 [^von-2005]: –––, 2005, “Connectionism and the Propositional Attitudes”, in Christina Erneling and David Martel Johnson (eds.), *The Mind as a Scientific Object: Between Brain and Culture*, New York: Oxford University Press.
 
-[^waltz-1985]: Waltz, David L. and Jordan B. Pollack, 1985, “Massively Parallel Parsing: A Strongly Interactive Model of Natural Language Interpretation*”, *Cognitive Science*, 9(1): 51–74. doi:10.1207/s15516709cog0901_4
+[^waltz-1985]: Waltz, David L. and Jordan B. Pollack, 1985, “Massively Parallel Parsing: A Strongly Interactive Model of Natural Language Interpretation\*”, *Cognitive Science*, 9(1): 51–74. doi:10.1207/s15516709cog0901_4
 
 [^wermter-2000]: Wermter, Stefan and Ron Sun (eds.), 2000, *Hybrid Neural Systems*, (Lecture Notes in Computer Science 1778), Berlin, Heidelberg: Springer Berlin Heidelberg. doi:10.1007/10719871
 

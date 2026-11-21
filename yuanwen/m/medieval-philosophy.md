@@ -393,7 +393,7 @@ Abelard [Abailard], Peter | Abner of Burgos | Abrabanel, Judah | Agrippa von Net
 
 [^note-29]: Aquinas’s most important discussions of the problem are at *On Truth*, q. 2, a.12; *Summa contra Gentiles*, I, 67; *Summa Theologiae* I, q. 14, a. 13.
 
-[^note-30]: Avicenna puts his idea in *The Cure* at *Metaphysics* VIII.6 (Avicenna [2005: 287–290]). Averroes rejects Avicenna’s view, but his own is not really very different ( *Metaphysics *Book Lam, 197–98).
+[^note-30]: Avicenna puts his idea in *The Cure* at *Metaphysics* VIII.6 (Avicenna [2005: 287–290]). Averroes rejects Avicenna’s view, but his own is not really very different ( *Metaphysics* Book Lam, 197–98).
 
 [^note-31]: Crescas sets out his argument for compatibilism mainly in Book II, Parts (“Cornerstones”) 1 and 5, which are conveniently translated in Manekin 2012: 192–235: see especially Part 5, chapter 3 at 222–223; in the full translation, Crescas [2018: 120–142, 188–205].
 
@@ -411,7 +411,7 @@ Abelard [Abailard], Peter | Abner of Burgos | Abrabanel, Judah | Agrippa von Net
 
 [^note-38]: The influence of Arabic logic on the Latin tradition was far more limited than that of Arabic metaphysics, philosophy of mind and natural philosophy, and the distinctive features of Avicennian logic were never known: see Lagerlund 2008.
 
-[^note-39]: A number of the fourteenth-century logicians who worked especially on the *logica **modernorum* have special entries devoted to them here: as well as Buridan and Ockham (already given), Albert of Saxony, Burley, Heytesbury, Kilvington, Richard the Sophister, William of Sherwood.
+[^note-39]: A number of the fourteenth-century logicians who worked especially on the *logica* *modernorum* have special entries devoted to them here: as well as Buridan and Ockham (already given), Albert of Saxony, Burley, Heytesbury, Kilvington, Richard the Sophister, William of Sherwood.
 
 [^note-40]: The best introduction to Byzantine logic is Erismann 2017; for Jewish logic, see Manekin 2009.
 

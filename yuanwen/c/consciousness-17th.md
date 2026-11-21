@@ -95,9 +95,9 @@ This sketch of an analysis was bequeathed to Descartes’s disciples, who argued
 
 Three main threads of a psychological sense of *conscience* emerge from this sketch of Descartes’s views, and they immediately generate philosophical controversy.
 
-1. Consciousness makes thoughts *transparent* to the mind: Are we aware of all our thoughts? When we are aware of having a thought, can we doubt that we are having that thought?
-2. Consciousness involves *reflection*. Is consciousness essentially constituted by a perception distinct from the original perception? Does consciousness necessarily involve memory or reflection? Is all consciousness a form of *self*-consciousness?
-3. Conscious thought is *intentional*. Are all thoughts representational? What is the nature of intentionality and what is its relation to consciousness?
+1. **Consciousness makes thoughts *transparent* to the mind:** Are we aware of all our thoughts? When we are aware of having a thought, can we doubt that we are having that thought?
+2. **Consciousness involves *reflection*.** Is consciousness essentially constituted by a perception distinct from the original perception? Does consciousness necessarily involve memory or reflection? Is all consciousness a form of *self*-consciousness?
+3. **Conscious thought is *intentional*.** Are all thoughts representational? What is the nature of intentionality and what is its relation to consciousness?
 
 Each of these three sets of questions were taken up and developed in different directions by the philosophers that followed Descartes most closely. The Cartesians, as they are called, were divided on each of these issues, and these sets of questions continue with us in one form or another to this day.
 
@@ -480,13 +480,13 @@ Of course, given this strong account of intentionality, Desgabets must have an a
 
 [^locke-1975]: Locke, John, *An Essay Concerning Human Understanding*, Peter H. Nidditch (ed.), Oxford: Clarendon Press, 1975.
 
-[^malebranche-1997]: Malebranche, Nicolas, *The Search after Truth*, translated by Thomas M. Lennon and Paul J. Olscamp, Cambridge: Cambridge University Press, 1997. [*Search*]
+[^malebranche-1997]: Malebranche, Nicolas, *The Search after Truth*, translated by Thomas M. Lennon and Paul J. Olscamp, Cambridge: Cambridge University Press, 1997. **[*Search*]**
 
 [^pardies-1724]: Pardies, Ignace Gaston, *Discours de la Conoissance des Bêtes*, Amsterdam: Pierre de Coup, 1724.
 
-[^régis-1970]: Régis, Pierre-Silvain, *Cours Entier de Philosophie ou Système Général selon les Principes de M. Descartes*, 3 volumes, New York: Johnson Reprint Corporation, 1970. [*Système*]
+[^régis-1970]: Régis, Pierre-Silvain, *Cours Entier de Philosophie ou Système Général selon les Principes de M. Descartes*, 3 volumes, New York: Johnson Reprint Corporation, 1970. **[*Système*]**
 
-[^régis-1691]: –––, *Réponse au Livre qui a pour Titre “P. Danielis Huetii, … Censura Philosophiae Cartesianae”*, Paris: Jean Cusson, 1691. [*Réponse*]
+[^régis-1691]: –––, *Réponse au Livre qui a pour Titre “P. Danielis Huetii, … Censura Philosophiae Cartesianae”*, Paris: Jean Cusson, 1691. **[*Réponse*]**
 
 [^spinoza-1986]: Spinoza, *The Collected Works of Spinoza* (Volume 1), translated by Edwin Curley, Princeton, NJ: Princeton University Press, 1986.
 

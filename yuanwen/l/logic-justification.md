@@ -139,7 +139,7 @@ The basic operation on justifications is *application*. The *application* operat
 
 $$ s :( F \rightarrow G ) \rightarrow ( t : F \rightarrow [ s\cdot t ]: G) $$
 
-This is a basic property of justifications assumed in combinatory logic and **λ**-calculi (Troelstra and Schwichtenberg 1996)[^troelstra-1996], Brouwer-Heyting-Kolmogorov semantics (Troelstra and van Dalen 1988)[^troelstra-1988], Kleene realizability (Kleene 1945)[^kleene-1945], the Logic of Proofs $\mathsf{LP}$, etc.
+This is a basic property of justifications assumed in combinatory logic and *λ*-calculi (Troelstra and Schwichtenberg 1996)[^troelstra-1996], Brouwer-Heyting-Kolmogorov semantics (Troelstra and van Dalen 1988)[^troelstra-1988], Kleene realizability (Kleene 1945)[^kleene-1945], the Logic of Proofs $\mathsf{LP}$, etc.
 
 Another common operation on justifications is sum: it has been introduced to make explicit the modal logic reasoning (Artemov 1995)[^artemov-1995]. However, some meaningful justification logics like ${\mathsf{J}}^{-}$ (Artemov and Fitting 2019)[^artemov-2019] or ${\mathsf{JNoC}}^{-}$ (Faroldi, Ghari, Lehmann, and Studer 2024)[^faroldi-2024] do not use the operation sum. With sum, any two justifications can safely be combined into something with broader scope. If $s : F$, then whatever evidence $t$ may be, the combined evidence $s$ + $t$ remains a justification for $F$. More properly, the operation ‘+’ takes justifications $s$ and $t$ and produces $s$ + $t$, which is a justification for everything justified by $s$ or by $t$.
 
@@ -691,7 +691,7 @@ Beginning with the 2024 update, Thomas Studer has taken responsibility for updat
 
 [^gödel-1933]: Gödel, K., 1933. “Eine Interpretation des intuitionistischen Aussagenkalkuls”, *Ergebnisse Math. Kolloq.*, 4: 39–40. English translation in: S. Feferman *et al*. (eds.), *Kurt Gödel Collected Works* (Volume 1), Oxford and New York: Oxford University Press and Clarendon Press, 1986, pp. 301–303.
 
-[^gödel-1938]: –––, 1938. “Vortrag bei Zilsel/Lecture at Zilsel’s” (*1938a), in S. Feferman, J. J. Dawson, W. Goldfarb, C. Parsons, and R. Solovay (eds.), *Unpublished Essays and Lectures* (Kurt Gödel Collected Works: Volume III), Oxford: Oxford University Press, 1995, pp. 86–113.
+[^gödel-1938]: –––, 1938. “Vortrag bei Zilsel/Lecture at Zilsel’s” (\*1938a), in S. Feferman, J. J. Dawson, W. Goldfarb, C. Parsons, and R. Solovay (eds.), *Unpublished Essays and Lectures* (Kurt Gödel Collected Works: Volume III), Oxford: Oxford University Press, 1995, pp. 86–113.
 
 [^goldman-1967]: Goldman, A., 1967. “A causal theory of meaning”, *The Journal of Philosophy*, 64: 335–372.
 

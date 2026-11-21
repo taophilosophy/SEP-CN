@@ -227,7 +227,7 @@ aesthetics: existentialist | existentialism | Husserl, Edmund | life: meaning of
 
 [^note-4]: Another contemporary approach, focusing on Camus’s stress on authenticity in the use of violence, may be found in Neiman 2017.
 
-[^note-5]: The 2021 translation by Laura Marris says: “But still, I must tell you: there is no heroism in any of this. It’s about honesty. That idea might seem laughable, but the only way to fight the plague is with honesty.” (**P** 2021, 175). Stuart Gilbert’s 1948 translation of “honnêteté” as “decency” has been retained above.
+[^note-5]: The 2021 translation by Laura Marris says: “But still, I must tell you: there is no heroism in any of this. It’s about honesty. That idea might seem laughable, but the only way to fight the plague is with honesty.” (***P** *2021, 175). Stuart Gilbert’s 1948 translation of “honnêteté” as “decency” has been retained above.
 
 [^camus’s-nd]: The abbreviations used to cite Camus’s work (*P*, *R*, *MS*, *RRD*, *N*, and *LCE*) are defined in the section ‘Works in English’ below.
 
@@ -239,23 +239,23 @@ aesthetics: existentialist | existentialism | Husserl, Edmund | life: meaning of
 
 [^reference-nd]: Reference marks are given for cited English translations.
 
-[^plague-1948]: *The Plague*, New York: Alfred A. Knopf, 1948 [*P*].
+[^plague-1948]: *The Plague*, New York: Alfred A. Knopf, 1948 [***P***].
 
-[^plague-2021]: *The Plague*, New York: Alfred A. Knopf, 2021 [*P* 2021].
+[^plague-2021]: *The Plague*, New York: Alfred A. Knopf, 2021 [***P*** 2021].
 
-[^rebel-1954]: *The Rebel: An Essay on Man in Revolt*, New York: Alfred A. Knopf, 1954 [*R*].
+[^rebel-1954]: *The Rebel: An Essay on Man in Revolt*, New York: Alfred A. Knopf, 1954 [***R***].
 
-[^myth-1955]: *The Myth of Sisyphus and Other Essays*, New York: Alred A. Knopf, 1955 [*MS*].
+[^myth-1955]: *The Myth of Sisyphus and Other Essays*, New York: Alred A. Knopf, 1955 [***MS***].
 
 [^fall-1957]: *The Fall*, New York: Alfred A. Knopf, 1957.
 
 [^caligula-1958]: *Caligula, and Three Other Plays*, New York: Alred A. Knopf, 1958.
 
-[^resistance-1961]: *Resistance, Rebellion, and Death*, New York: Alfred A. Knopf, 1961 [*RRD*].
+[^resistance-1961]: *Resistance, Rebellion, and Death*, New York: Alfred A. Knopf, 1961 [***RRD***].
 
-[^nuptials-1968]: “Nuptials at Tipasa”, in *Lyrical and Critical Essays*, 1968 [*N*].
+[^nuptials-1968]: “Nuptials at Tipasa”, in *Lyrical and Critical Essays*, 1968 [***N***].
 
-[^lyrical-1968]: *Lyrical and Critical Essays*, New York: Alfred A. Knopf, 1968 [*LCE*].
+[^lyrical-1968]: *Lyrical and Critical Essays*, New York: Alfred A. Knopf, 1968 [***LCE***].
 
 [^stranger-1988]: *The Stranger*, New York: Vintage, 1988.
 

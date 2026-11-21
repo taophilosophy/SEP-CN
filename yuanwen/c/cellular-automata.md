@@ -21,7 +21,7 @@ We introduce CA using a simple example. Think of an automaton as a one-dimension
 
 ![Fig. 1](../assets/cellular-automata/fig1.jpg)
 
-*Fig. 1*
+\*Fig. 1\*
 
 Although CA are abstract, having a concrete instance in mind can help in the beginning. So think of Fig. 1 as representing the front row of a high school classroom. Each box stands for a student wearing (black) or not wearing (white) a hat. Let us make the two following assumptions:
 
@@ -31,13 +31,13 @@ Although CA are abstract, having a concrete instance in mind can help in the beg
 
 ![Fig. 2](../assets/cellular-automata/fig2.jpg)
 
-*Fig. 2*
+\*Fig. 2\*
 
 Fig. 3 shows what happens as time goes by. Consecutive rows represent the evolution in time through subsequent classes.
 
 ![Fig. 3](../assets/cellular-automata/fig3.jpg)
 
-*Fig. 3*
+\*Fig. 3\*
 
 Fig. 3 may be surprising. The evolutionary pattern displayed contrasts with the simplicity of the underlying law (the “Hat rule”) and ontology (for in terms of object and properties, we only need to take into account simple cells and two states). The global, emergent behavior of the system supervenes upon its local, simple features, at least in the following sense: the scale at which the decision to wear the hat is made (immediate neighbors) is not the scale at which the interesting patterns become manifest.
 
@@ -113,7 +113,7 @@ where $\sigma_{i}(t) \in \Sigma = \{0, 1, \ldots, k - 1\}$ is the state of cell 
 
 ![Fig. 4](../assets/cellular-automata/fig4.jpg)
 
-*Fig. 4*
+\*Fig. 4\*
 
 For a given cell, each triple at the top represents a possible neighborhood configuration at *t*, the cell at issue being the one in the middle: for each configuration, the square at the bottom specifies the cell’s state at $t + 1$. This is our classroom example: you will have a black cell just in case precisely one of the neighbors was black.
 
@@ -123,7 +123,7 @@ This simple representation is also at the core of the widely adopted Wolfram cod
 
 ### 2.3 The Classes of the 256 Rules
 
-*Class₁* rules leading to homogeneous states, all cells stably ending up with the same value:
+\*Class₁\* rules leading to homogeneous states, all cells stably ending up with the same value:
 
 *Rule 250*
 
@@ -133,7 +133,7 @@ This simple representation is also at the core of the widely adopted Wolfram cod
 
 ![Rule 254](../assets/cellular-automata/rule254.jpg)
 
-*Class₂* rules leading to stable structures or simple periodic patterns:
+\*Class₂\* rules leading to stable structures or simple periodic patterns:
 
 *Rule 4*
 
@@ -143,7 +143,7 @@ This simple representation is also at the core of the widely adopted Wolfram cod
 
 ![Rule 108](../assets/cellular-automata/rule108.jpg)
 
-*Class₃* rules leading to seemingly chaotic, non-periodic behavior:
+\*Class₃\* rules leading to seemingly chaotic, non-periodic behavior:
 
 *Rule 30*
 
@@ -153,7 +153,7 @@ This simple representation is also at the core of the widely adopted Wolfram cod
 
 ![Rule 90](../assets/cellular-automata/rule90.jpg)
 
-*Class₄* rules leading to complex patterns and structures propagating locally in the lattice:
+\*Class₄\* rules leading to complex patterns and structures propagating locally in the lattice:
 
 *Rule 54*
 
@@ -191,7 +191,7 @@ CA provided not just the intuition, but a formal framework to investigate the hy
 
 At a first approximation, the Edge of Chaos hypothesis is confirmed: three of the eight neighbors are Class₃, three are Class₂, two are Class₁: *Rule 110* is the only Class₄ in the table. To generalize these findings to the entire class of rules for one-dimensional CA, Langton introduced a parameter, *λ*, that applies to each *φ*: for $k = 2$, $r = 1$ (binary-state, unary-range) CA, $\lambda(\phi)$ can be computed as the fraction of entries of the transition rule table that are mapped to a non-zero output (see Langton 1990: 14, for the general definition)[^langton-1990]. In our case this means: $\lambda(\phi)$ will be equal to the number of ones in the rule column—e.g., $\lambda(\phi) = 5/8$ for *φ* = *Rule 110* and $\lambda(\phi) = 1/2$ for *φ* = *Rule 46*. Langton’s major finding was that a simple measure such as *λ* correlates with the system behavior: as *λ* goes from 0 to 1, the average behavior of the systems goes from freezing to periodic patterns to chaos. Langton singled out 1/2 as the value of *λ* at which the average behavior first shows evidence of chaos: rules *φ* with $\lambda(\phi) \sim 1/2$ were highlighted as being on the Edge (see Miller & Page 2001: 133).
 
-| ***λ*** | **All Rules** | **Chaotic Rules** | **Complex Rules** |
+| **λ** | **All Rules** | **Chaotic Rules** | **Complex Rules** |
 | --- | --- | --- | --- |
 | *0* | 1 | 0 | 0 |
 | *1/8* | 8 | 0 | 0 |
@@ -385,13 +385,13 @@ The task is far from trivial in a CA, involving the intricacy of the emergence i
 
 ![Fig. 5](../assets/cellular-automata/fig5.jpg)
 
-*Fig. 5*
+\*Fig. 5\*
 
 At time step 250 (not shown in Fig. 5), the grey areas disappear and all cells end up white, i.e., the classification made by the automaton is correct. A high-level description of what is going on would have it that the white, black, and grey regions are “expanding”, “contracting”, “moving”, these being nonlinear effects of the low-level working of the cells computing their local states, and by so doing manage to carry signals along the lattice. But how are we to explain the emergent computation CA of this kind perform via such nonlinear dynamics? Building on previous works on computation theory applied to CA (Hanson & Crutchfield 1992; Crutchfield & Hanson 1993)[^crutchfield-1993][^hanson-1992], Mitchell and Crutchfield filtered out from the original diagram what they call “domains”, i.e., dynamically homogeneous spatial regions (Crutchfield & Mitchell 1995: 10745)[^crutchfield-1995]:
 
 ![Fig. 6](../assets/cellular-automata/fig6.jpg)
 
-*Fig. 6*
+\*Fig. 6\*
 
 Although in this case the “domains” are manifest, it is crucial to point out that their definition is rigorously mathematical. The whole process of domain-detection can be carried out algorithmically (see Hanson & Crutchfield 1992 for details)[^hanson-1992]. When the boundary of a domain remains spatially localized over time, then the domain becomes a “particle”:
 
@@ -551,7 +551,7 @@ Ilachinski proposes a different “argument from epistemology” (Ilachinski 200
 
 ![Fig. 7](../assets/cellular-automata/fig7.jpg)
 
-*Fig. 7*
+\*Fig. 7\*
 
 Let us imagine we ignore its being generated by the iteration of a simple local rule, or even that it is an automaton. Then, says Ilachinski:
 
@@ -613,7 +613,7 @@ On the other hand, one may tentatively interpret, in Lewisian fashion, the laws 
 
 ![Fig. 7](../assets/cellular-automata/fig7.jpg)
 
-*Fig. 7*
+\*Fig. 7\*
 
 A suitable deductive system for this space-time diagram may be obtained with just two axioms, one stating the initial conditions of the system, the other phrased as a conditional expressing the CA transition rule. If this conditional is a true generalization embedded in the deductive system that best describes our toy universe, then *Rule 110* can count as a Lewisian law of nature in this universe, as expected.
 

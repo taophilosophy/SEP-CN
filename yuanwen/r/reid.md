@@ -563,13 +563,13 @@ action | aesthetics: British, in the 18th century | Berkeley, George | causation
 
 [^reid-1764]: –––, 1764/1997, *An Inquiry into the Human Mind on the Principles of Common Sense*, Derek R. Brookes (ed.), University Park: Pennsylvania State University Press. [Abbreviated ‘IHM’]
 
-[^reid-1780]: –––*, 1780/1981, *Lectures on Natural Theology*, Elmer H. Duncan (ed.), Washington, D.C.: University Press of America.
+[^reid-1780]: –––\*, 1780/1981, *Lectures on Natural Theology*, Elmer H. Duncan (ed.), Washington, D.C.: University Press of America.
 
 [^reid-1785]: –––, 1785/2002, *Essays on the Intellectual Powers of Man*, Derek Brookes (ed.), University Park: Pennsylvania State University Press. [Abbreviated ‘EIP’]
 
 [^reid-1788]: –––. 1788/2010, *Essays on the Active Powers of Man*, Knud Haakonssen and James A. Harris (eds.), University Park: Pennsylvania State University Press. [Abbreviated ‘EAP’]
 
-[^reid-1973]: –––*, 1973, *Lectures on the Fine Arts*, Peter Kivy (ed.), The Hague: Martinus Nijhoff. [Abbreviated ‘Fine Arts’]
+[^reid-1973]: –––\*, 1973, *Lectures on the Fine Arts*, Peter Kivy (ed.), The Hague: Martinus Nijhoff. [Abbreviated ‘Fine Arts’]
 
 [^reid-1996]: –––. 1996, *Thomas Reid on the Animate Creation: Papers Relating to the Life Sciences*, Paul Wood (ed.), University Park: Pennsylvania State University Press. [Abbreviated ‘Animate Creation’]
 
@@ -577,7 +577,7 @@ action | aesthetics: British, in the 18th century | Berkeley, George | causation
 
 [^reid-2004]: –––, 2004, *Thomas Reid on Logic, Rhetoric and the Fine Arts*, Alexander Broadie (ed.), University Park: Pennsylvania State University Press.
 
-[^these-nd]: * These collections are composed of manuscript writings that are not in Thomas Reid's handwriting; they represent student transcriptions of his lectures at University of Glasgow.
+[^these-nd]: \* These collections are composed of manuscript writings that are not in Thomas Reid's handwriting; they represent student transcriptions of his lectures at University of Glasgow.
 
 [^barker-1976]: Barker, Stephen and Thomas Beauchamp (eds.), 1976, *Thomas Reid: Critical Interpretations*, Philadelphia: Philosophical Monographs.
 

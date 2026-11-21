@@ -655,7 +655,7 @@ All of this was challenged in Read (2002, pp. 211–12), who maintains that Brad
 
 [^goldstein-2008]: Goldstein, Laurence, 2008, “Doubting Thomas”, in Rahman, Tulenheimo, & Genot 2008: 65–85.
 
-[^hunt-1984]: Hunt, Richard W., 1984, The Schools and the Cloister: The Life and Writings of Alexander Nequam (1157–1217), edited and revised by M. Gibson. Oxford: Clarendon Press.
+[^hunt-1984]: Hunt, Richard W., 1984, *The Schools and the Cloister: The Life and Writings of Alexander Nequam (1157–1217)*, edited and revised by M. Gibson. Oxford: Clarendon Press.
 
 [^klima-2009]: Klima, Gyula, 2009, *John Buridan*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195176223.001.0001
 

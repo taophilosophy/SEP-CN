@@ -321,7 +321,7 @@ Chinese Philosophy: epistemology | Chinese Philosophy: ethics | comparative phil
 
 [^cleary-2006]: Cleary, J.C. (trans.), 2006, *Swampland Flowers: The Letters and Lectures of Zen Master Ta Hui*, Boston: Shamballa Press.
 
-[^gardner-1990]: Gardner, Daniel (trans.), 1990, Learning to Be a Sage: Selections from the Conversations of Master Chu, Arranged Topically, Berkeley: University of California Press.
+[^gardner-1990]: Gardner, Daniel (trans.), 1990, *Learning to Be a Sage: Selections from the Conversations of Master Chu, Arranged Topically*, Berkeley: University of California Press.
 
 [^gardner-2007]: ––– (trans.), 2007, *The Four Books: The Basic Teachings of the Later Confucian Tradition*, Indianapolis: Hackett Press.
 

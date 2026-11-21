@@ -42,11 +42,11 @@ Let *S* be a fixed measurable space. A *type space over S* is a tuple T = (*M*, 
 
 What we are describing would be better called a *two-player type space over S*, and the spaces *M* and *M* are the spaces of the two players. The idea is that *S* represents the possible “states of nature”, each *m* ∈ *M* is a possible “type” of the first player, and each *n* ∈ *N* is a possible type for the second. Each player does not know the exact state of nature or which type of player he or she faces. But each does have some probabilistic “opinion” on this matter: each σ(*m*) gives a measure on *S* × *N*, and so the first player can measure subsets of both *S* and *N* (using marginals).
 
-One assumption incorporated into our definition is that the players “know” their own types. This is why σ(*m*) is a measure on *S* × *N* and not *S* × *M* × *N*. However, each μ ∈ Δ( *S* × *N*) and each *m* ∈ *M* together define a measure μ^{*}_{*m*} on the larger product *S* × *M* × *N* by concentrating μ on *m*:
+One assumption incorporated into our definition is that the players “know” their own types. This is why σ(*m*) is a measure on *S* × *N* and not *S* × *M* × *N*. However, each μ ∈ Δ( *S* × *N*) and each *m* ∈ *M* together define a measure μ^{\*}_{*m*} on the larger product *S* × *M* × *N* by concentrating μ on *m*:
 
-> μ^{*}_{*m*}(*E*) = μ(*m*)({(*s*,*n*) : (*s*,*m*,*n*) ∈ *E*}).
+> μ^{\*}_{*m*}(*E*) = μ(*m*)({(*s*,*n*) : (*s*,*m*,*n*) ∈ *E*}).
 
-Everything we said for the first player goes through for the second, mutatis mutandis, and so we also have measures ρ^{*}_{*n*} ∈ Δ (*S* × *M* × *N*) for each ρ ∈ Δ(*S* × *M*) and each *n* ∈ *N*.
+Everything we said for the first player goes through for the second, mutatis mutandis, and so we also have measures ρ^{\*}_{*n*} ∈ Δ (*S* × *M* × *N*) for each ρ ∈ Δ(*S* × *M*) and each *n* ∈ *N*.
 
 The basic modal language for a type space over *S* would have the following sentences:
 
@@ -59,8 +59,8 @@ We read *B*ⁱ_{*p*} φ as saying that player *i* believes the probability of φ
 We define a semantics for this language, interpreting each sentence φ by subset [φ] ⊆ *S* × *M* × *N* as follows:
 
 1. [*A*] = *A* × *M* × *N*.
-2. [*B*¹_{*p*} φ] = {(*s*, *m*, *n*): (σ(*m*)^{*}_{*m*}([φ]) ≥ p}
-3. [*B*²_{*p*} φ] = {(*s*, *m*, *n*): (τ(*n*)^{*}_{*n*}([φ]) ≥ *p*}
+2. [*B*¹_{*p*} φ] = {(*s*, *m*, *n*): (σ(*m*)^{\*}_{*m*}([φ]) ≥ p}
+3. [*B*²_{*p*} φ] = {(*s*, *m*, *n*): (τ(*n*)^{\*}_{*n*}([φ]) ≥ *p*}
 4. [φ ∧ ψ] = [φ] ∩ [ψ].
 
 One may also add negation or implication to the language, with the semantics from classical logic. A good first exercise would then be to show that
@@ -69,4 +69,4 @@ One may also add negation or implication to the language, with the semantics fro
 
 This is an echo of the assumption agents know their types: they are able to introspect on their own beliefs, and to do so with certainty.
 
-**Reformulation of the problem of universal type spaces.** The language of beliefs is more natural than the formulation of type spaces (and it also came first), and so the reason for introducing type spaces is to interpret that language. One then wants a type space T^{*} which is rich enough to contain all possible types. It might be better to work on the semantic side, and consider, for each space T and each point *x* = (*s*,*m*,*n*), the theory of *x*; this is the set of sentences φ such that *x* ∈ [φ]. Let us call this set *th*(T,*x*). One wants a space T^{*} with the property that for all type spaces T and all *x* from it, there is a unique point *x*^{*} ∈ T^{*}, th(T,x) = th(T^{*},*x*^{*}). Intuitively, points with the same theory represent players with the same beliefs, beliefs about beliefs, etc., so they should be identified for the purposes of game theory. These theories then serve as surrogates for the types. A universal space T^{*} would contain a point realizing each theory of any point *x* (in any space), exactly one copy in fact. The mathematical problem is then to find such a space. Note that it is not clear that such a space exists in the first place: one requires the space T^{*} to be a set, and perhaps the universality requirement would force it to be a proper class.
+**Reformulation of the problem of universal type spaces.** The language of beliefs is more natural than the formulation of type spaces (and it also came first), and so the reason for introducing type spaces is to interpret that language. One then wants a type space T^{\*} which is rich enough to contain all possible types. It might be better to work on the semantic side, and consider, for each space T and each point *x* = (*s*,*m*,*n*), the *theory of x*; this is the set of sentences φ such that *x* ∈ [φ]. Let us call this set *th*(T,*x*). One wants a space T^{\*} with the property that for all type spaces T and all *x* from it, there is a unique point *x*^{\*} ∈ T^{\*}, th(T,x) = th(T^{\*},*x*^{\*}). Intuitively, points with the same theory represent players with the same beliefs, beliefs about beliefs, etc., so they should be identified for the purposes of game theory. These theories then serve as surrogates for the types. A universal space T^{\*} would contain a point realizing each theory of any point *x* (in any space), exactly one copy in fact. The mathematical problem is then to find such a space. Note that it is not clear that such a space exists in the first place: one requires the space T^{\*} to be a set, and perhaps the universality requirement would force it to be a proper class.

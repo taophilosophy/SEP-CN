@@ -401,7 +401,7 @@ Beauvoir, Simone de | feminist philosophy, interventions: bioethics | feminist p
 
 [^irigaray-1975]: Irigaray, Luce, 1975 [1985], *Speculum de l’autre femme*, Paris: Minuit. Translated as *Speculum of the Other Woman*, Gillian C. Gill (trans.), Ithaca, NY: Cornell University Press, 1985.
 
-[^irigaray-1977]: –––, 1977 [1985/1997], *Ce sexe qui n’en est pas un*, Paris: Éditions de Minuit. Translated as *This Sex Which is Not One*, Catherine Porter (trans.), with Carolyn Burke, Ithaca, NY: Cornell University Press; reprinted in Conboy, Medina and Stanboy 1997: ch. 14.***check*
+[^irigaray-1977]: –––, 1977 [1985/1997], *Ce sexe qui n’en est pas un*, Paris: Éditions de Minuit. Translated as *This Sex Which is Not One*, Catherine Porter (trans.), with Carolyn Burke, Ithaca, NY: Cornell University Press; reprinted in Conboy, Medina and Stanboy 1997: ch. 14.\*\*\*check\*
 
 [^irigaray-1993]: –––, 1993. *An Ethics of Sexual Difference*, Ithaca: Cornell University Press.
 

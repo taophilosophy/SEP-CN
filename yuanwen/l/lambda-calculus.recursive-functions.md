@@ -8,7 +8,7 @@
 
 To show that all recursive functions can be represented in the *λ*-calculus, one reproduces the definition of recursive functions in the *λ*-calculus. We recall the definition.
 
-**Definition** The class of *recursive functions* is the (smallest) class of functions from natural numbers to natural numbers that contains:
+**Definition** The class of ***recursive functions*** is the (smallest) class of functions from natural numbers to natural numbers that contains:
 
 *The initial functions*
 
@@ -20,14 +20,14 @@ To show that all recursive functions can be represented in the *λ*-calculus, on
 
 and is closed under the operations of:
 
-- *substitution/composition*: if $G$ and $H$ are recursive functions, and if the numeric function $F$ satisfies the relation: there is a $k$ such that for all $x_1 ,\ldots ,x_n$: $F(x_1 ,\ldots ,x_n) = H(x_1 ,\ldots x_{k-1},G(x_1 ,\ldots x_n),x_{k+1},\ldots x_m)$, then $F$ is a recursive function.
-- *definition by primitive recursion*: if $G$ and $H$ are recursive functions, and if the numeric function $F$ satisfies the relations:
+- ***substitution/composition***: if $G$ and $H$ are recursive functions, and if the numeric function $F$ satisfies the relation: there is a $k$ such that for all $x_1 ,\ldots ,x_n$: $F(x_1 ,\ldots ,x_n) = H(x_1 ,\ldots x_{k-1},G(x_1 ,\ldots x_n),x_{k+1},\ldots x_m)$, then $F$ is a recursive function.
+- ***definition by primitive recursion***: if $G$ and $H$ are recursive functions, and if the numeric function $F$ satisfies the relations:
 - for all $x_1 ,\ldots ,x_n$: $F(x_1 ,\ldots ,x_n,0) = G(x_1 ,\ldots ,x_n)$
 - for all k and all $x_1 ,\ldots ,x_n$: $F(x_1 ,\ldots ,x_n,k + 1) = H(x_1 ,\ldots ,x_n,k,F(x_1 ,\ldots ,x_n,k))$ then $F$ is a recursive function.
-- *minimalization*: if $G$ is a recursive function, and if the numeric function $F$ satisfies the relation
+- ***minimalization***: if $G$ is a recursive function, and if the numeric function $F$ satisfies the relation
 - $F(x_1 ,\ldots ,x_n) = y$ iff $G(x_1 ,\ldots ,x_n,y) = 1$ and for all $x \lt y$ we have $G(x_1 ,\ldots ,x_n,x) = 0$ then $F$ is a recursive function.
 
-Say that a number-theoretic function $f$ of arity $n$ is ***λ*-definable** if there exists a *λ*-term $F$ with the property that for every natural number $a$ and for every $n$-tuple $(a_1 ,\ldots a_n)$ of natural numbers, we have
+Say that a number-theoretic function $f$ of arity $n$ is **λ-definable** if there exists a *λ*-term $F$ with the property that for every natural number $a$ and for every $n$-tuple $(a_1 ,\ldots a_n)$ of natural numbers, we have
 
 $$ f(a_1 ,\ldots a_n) = a \text{ iff } \lambda \vdash F\ulcorner a_1\urcorner \ldots \ulcorner a_n\urcorner = \ulcorner a\urcorner $$
 
@@ -79,7 +79,7 @@ An adequate representation of $\mu$ in the *λ*-calculus is defined in stages. D
 
 $$\begin{align} H_P &:= \bTheta (\lambda h[\lambda z[\ifthenelse Pz, z, h \Succ z]] \\ \mu P &:= H_P\ulcorner 0\urcorner \end{align}$$
 
-The second clause of the definition can be intuitively understood as computing thus: Does 0 have property $P$? If so, then stop; $\mu P$ is 0. If not, does 1 have property $P$? If so, then 1 is the answer. Proceeding in this fashion, one will eventually stop and the computed value will be $\mu P$. The fixed-point operator ***Θ*** accomplishes the ‘looping’. One can then show that if $X$ is a *λ*-term with the property that
+The second clause of the definition can be intuitively understood as computing thus: Does 0 have property $P$? If so, then stop; $\mu P$ is 0. If not, does 1 have property $P$? If so, then 1 is the answer. Proceeding in this fashion, one will eventually stop and the computed value will be $\mu P$. The fixed-point operator **Θ** accomplishes the ‘looping’. One can then show that if $X$ is a *λ*-term with the property that
 
 - for all natural numbers $n$: either $P\ulcorner n\urcorner = \bT$ or $P\ulcorner n\urcorner = \bF$
 

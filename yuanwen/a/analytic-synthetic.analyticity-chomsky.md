@@ -23,19 +23,19 @@ The main aim of a Chomskyan linguistics is to explain the remarkable fact that v
 
 Chomsky regards this human linguistic ability to be the result of a largely innate sensitivity to the elaborate structures of natural language, which he argued that the methods of 1940s (so-called) “structuralism” and behaviorism in linguistics were inadequate to describe. The logical techniques he learned from Harris, Goodman, and from the work of the logician, Emil Post (1936), seemed to him far more promising for setting out the “generative syntax” of a language, or the recursive system for combining symbols in ways that give rise to those structures. They also promised to do so in ways independent of any controversial “semantics,” or complex relations of the symbols to ideas or phenomena in the world. Just how independent the syntax of a natural language is from its “semantics” has been the topic of continuing controversy, some of it involving our issue of analyticity about which Chomsky's views have vacillated in important ways that will be discussed in due course.
 
-An important feature of Chomsky’s work has been its focus on data that are immediately available to most any native speaker of a natural language, but which were by and large little noticed until Chomsky called attention to them. They generally consist of pairs of very similar sentence-like strings of words, one of which is perfectly acceptable, and the other clearly not (marked by “*”). To cite some simple examples: virtually all English speakers would balk at such strings as
+An important feature of Chomsky’s work has been its focus on data that are immediately available to most any native speaker of a natural language, but which were by and large little noticed until Chomsky called attention to them. They generally consist of pairs of very similar sentence-like strings of words, one of which is perfectly acceptable, and the other clearly not (marked by “\*”). To cite some simple examples: virtually all English speakers would balk at such strings as
 
 **(1)**
 
-\**Who did John and kiss Mary?* (cf. John and **who** kissed Mary?).
+\**Who did John and kiss Mary?* (cf. *John and **who** kissed Mary?*).
 
 **(2)**
 
-\**Who did stories about terrify Mary?* (cf. Stories about **who** terrified Mary?)
+\**Who did stories about terrify Mary?* (cf. *Stories about **who** terrified Mary?*)
 
 **(3)**
 
-\**She’s as likely as he’s to get ill* (cf. She is as likely as **he is** to get ill)
+\**She’s as likely as he’s to get ill* (cf. *She is as likely as **he is** to get ill*)
 
 **(4)**
 
@@ -99,7 +99,7 @@ Chomsky (1965) regarded Fodor and Katz’s semantic markers as giving rise to �
 >
 > \#*Misery loves company*
 
-which he (1965, p. 149) regards as “deviant” (n.b., (22) can’t be literal, misery being inanimate). Such examples are now usually marked with a “#” rather than a “*” to indicate semantic/pragmatic rather than purely syntactic anomaly.
+which he (1965, p. 149) regards as “deviant” (n.b., (22) can’t be literal, misery being inanimate). Such examples are now usually marked with a “#” rather than a “\*” to indicate semantic/pragmatic rather than purely syntactic anomaly.
 
 Chomsky mentions other examples of the sort that were treated as analytic data in ASD §1:
 
@@ -231,13 +231,13 @@ But the purposes and functions of things, and the relations they bear to their p
 Specific proposals of a recent linguistics text about the semantic structure of some English words make the problem particularly vivid. Laurel Brinton (2000) writes, for example, that:
 
 > Trot – requires [+QUADRUPED] subject
-> {The horse, *the money, *the spider} trotted home
+> {The horse, \*the money, \*the spider} trotted home
 
 > Fly – requires [+WINGED] subject
-> {The airplane, the bird, *the goat} flew north
+> {The airplane, the bird, \*the goat} flew north
 >
 > Admire – requires [+HUMAN] subject
-> {Judy, *the goldfish} admires Mozart (Brinton 2000, p. 154)
+> {Judy, \*the goldfish} admires Mozart (Brinton 2000, p. 154)
 
 Set aside the straightforward empirical inadequacies of the proposals (don’t missiles and balls fly through the air without wings?). Even if they matched speakers’ intuitions, there would still be the issue of their significance. It would, of course, be certainly surprising to encounter trotting spiders, flying goats, and goldfish admiring Mozart, but it’s hard to see why we should conclude that our surprise is due to *constraints of the I-language* rather than merely to *commonplace beliefs* about spiders, goats and goldfish. Perhaps there are meaning constraints in the vicinity of these examples (*trots* requires legs, *admire* a mental agent), but the challenge is to provide a principled basis for insisting upon specific ones.[^note-31]
 
@@ -420,19 +420,19 @@ And he and subsequently many others (e.g. Eleanor Rosch 1973, Smith and Medin 19
 
 [^note-31]: One tempting move might be to appeal to the features that are conventionally associated with the identity of a term (see, e.g, Carston 2016, 2021, Allott and Textor 2017, Devitt 2021, Stojnić 2021). But the trouble is that lots of things are conventionally associated with a term: prototypes, images, stray beliefs. Perhaps the only distinctive information many speakers store with the item “Columbus” is the common claim “discovered America,” but, as Kripke (1972) stressed, this hardly constitutes the meaning of the name (there’s no contradiction in thinking he never left home). Recalling the discussion from §§4.2–4.3, perhaps the meaning-determining features are those that figure in laws about the uses of a term on which all other uses asymmetrically-explanatorily depend. Thus, even if reference to paralysis were included in the entry “polio,” usage of the term may asymmetrically-explanatorily depend not upon it, but upon the law linking the term to the actual phenomenon. Allott and Textor (2022 [2026]) explore this as a way of distinguishing metaphorical from literal uses of a term. For a rich and nuanced discussion of language and conventions see Glanzberg (2018).
 
-[^note-32]: There is not yet full agreement about how to characterize the category. “Negative” is only a rough intuitive characterization. “Downward entailing” is better: unlike the contrasting “positive” contexts such as know…, “negative” contexts entail more specific information (I **doubt** anyone went entails *I doubt John went*, but I **know** someone went doesn’t entail *I know John went*). For purposes here, all that’s important is that the phenomenon (apparently universal in all languages) is standardly characterized semantically, even though it has a syntactic reflex (see, e.g., Isac and Reiss 2006, M. Israel 2011, for discussion)
+[^note-32]: There is not yet full agreement about how to characterize the category. “Negative” is only a rough intuitive characterization. “Downward entailing” is better: unlike the contrasting “positive” contexts such as know…, “negative” contexts entail more specific information (*I **doubt** anyone went* entails *I doubt John went*, but *I **know** someone went* doesn’t entail *I know John went*). For purposes here, all that’s important is that the phenomenon (apparently universal in all languages) is standardly characterized semantically, even though it has a syntactic reflex (see, e.g., Isac and Reiss 2006, M. Israel 2011, for discussion)
 
 [^note-33]: Of course, NPIs could be embedded in further, nested “negative” contexts, e.g., *John doubts Sue knows Tom has ever flown*. Other examples of syntactic effects of semantic features are afforded by “atelic” verbs like *walk* and *talk*, which designate actions without endpoints. Thus,
 
 **(46)**
 
-*Mary walked/talked in the park in ten minutes.
+\*Mary walked/talked in the park in ten minutes.
 
 cannot be embedded:
 
 **(47)**
 
-*John was amused by the thought that Mary walked/talked in the park in ten minutes.
+\*John was amused by the thought that Mary walked/talked in the park in ten minutes.
 
 See also Pietroski 2002 regarding the apparent connections between *kill* and *cause to die*, as well as examples from Chomsky (1965, pp. 150–1) regarding *who* vs. *which*, and *walking* vs. *amusing*, the Binding principles mentioned above (§2, footnote 23), and Leben (2015: §3) on “verbal alternations”. Thus
 

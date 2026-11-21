@@ -471,7 +471,7 @@ causation: the metaphysics of | Hume, David | Hume, David: Newtonianism and Anti
 
 [^note-11]: For a detailed discussion of Kant’s treatment of the law of universal gravitation in § 38 of the *Prolegomena* see Friedman 1992b, chapter 4, and compare Friedman 2012.
 
-[^note-12]: Kant formulates his three “laws of mechanics” slightly differently from Newton’s three laws of motion: he does not formulate Newton’s second law (*F* = *m**a*) explicitly, and Kant’s first law is the conservation of the total quantity of matter rather than the law of inertia. (For both Newton and Kant the third law is the equality of action and reaction.) We shall return to this matter in note 32 below.
+[^note-12]: Kant formulates his three “laws of mechanics” slightly differently from Newton’s three laws of motion: he does not formulate Newton’s second law (*F* = *ma*) explicitly, and Kant’s first law is the conservation of the total quantity of matter rather than the law of inertia. (For both Newton and Kant the third law is the equality of action and reaction.) We shall return to this matter in note 32 below.
 
 [^note-13]: Beck (1978, note 45) explains:
 

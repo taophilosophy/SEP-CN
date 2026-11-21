@@ -136,7 +136,7 @@ Here is a class of objects which we shall call *trees*:[^note-4]
 
 1. The variables *x* and *y* alone are trees.
 2. If *t* is a tree, then adding a single node labeled • as a new root with *t* as its only subtree gives a tree.
-3. If *s* and *t* are trees, then adding a single node labeled * as a new root with *s* as the left subtree and *t* as the right subtree again gives a tree.
+3. If *s* and *t* are trees, then adding a single node labeled \* as a new root with *s* as the left subtree and *t* as the right subtree again gives a tree.
 4. A tree is that which can be obtained by applying the operations any number of times (including infinite applications).
 
 Trees may be specified by *tree systems* (of equations). Here is one such system:
@@ -154,15 +154,15 @@ It will be useful to recast the definition of our trees in terms of pairs and tr
 
 1. The symbols *x* and *y* alone are trees.
 2. If *t* is a tree, then ⟨•, *t*⟩ is a tree.
-3. If *s* and *t* are trees, then ⟨*, *s*, *t*⟩ is a tree.
+3. If *s* and *t* are trees, then ⟨\*, *s*, *t*⟩ is a tree.
 4. Trees may be “infinitely deep”.
 
 Then our system above is
 
-> | *s* | ≈ | ⟨*, *t*, *u*⟩ |
+> | *s* | ≈ | ⟨\*, *t*, *u*⟩ |
 > | --- | --- | --- |
 > | *t* | ≈ | ⟨•, *s*⟩ |
-> | *u* | ≈ | ⟨*, *x*, *y*⟩ |
+> | *u* | ≈ | ⟨\*, *x*, *y*⟩ |
 
 So now we have something that looks more like what we have seen with streams. But with streams we had an unraveled form, and so we might wonder what the unraveled form of trees is. To some extent, it would be the pictures that we have already seen. In particular, one could take a tree as we have defined them and give a description of how one would construct the picture. (The full construction would take forever, of course, but the same is true of our work on streams.) Conversely, given a picture, one could set down a tree system for it, where a “tree system” is a system of equations as in equation (6). (In general, the tree system would be infinite, but if you find a *regular structure* in the picture, then the system could be finite.)
 
@@ -170,7 +170,7 @@ On the other hand, pictures are not entirely respectable as standard mathematica
 
 **More ‘cheating’**. Let *Tr* be the set of trees that we have been discussing. Then our definition in terms of *Tr* would have:
 
-> (7)   *Tr*   =   {*x*, *y*} ∪ ({•} × *Tr*) ∪ ({*} × *Tr* × *Tr*).
+> (7)   *Tr*   =   {*x*, *y*} ∪ ({•} × *Tr*) ∪ ({\*} × *Tr* × *Tr*).
 
 Now again the standard modeling in set theory gives us a problem: one can prove in *ZF* set theory that *Tr* has no solution whatsoever. And this runs afoul of our pictures and intuition. The standard way out is to change the equals sign = in (7) to something else. For most mathematical work this is perfectly fine, but it is the kind of move we explore in this entry.
 
@@ -371,7 +371,7 @@ A *well-ordered set* is a pair *W* = (*W*, <), where < is a relation on the set 
 
 > 0 < 2 < 4 < … 1 < 3 < 5 < …
 
-One can show using the Replacement Axiom that every well-ordered set *W* has a unique decoration *d*. An *ordinal number* (or *ordinal*) is a set of the form d(*w*), for some well-ordered set (*W*,< ) and some *w* ∈ *W*.
+One can show using the Replacement Axiom that every well-ordered set *W* has a unique decoration *d*. An *ordinal number* (or *ordinal*) is a set of the form *d(w)*, for some well-ordered set (*W*,< ) and some *w* ∈ *W*.
 
 One usually uses Greek letters such as α and β for ordinal numbers, and one also writes α < β if α ∈ β. There are a number of standard facts about ordinal numbers, including the following:
 
@@ -389,7 +389,7 @@ An ordinal α is a *successor ordinal* if α = β ∪ {β} for some (other) ordi
 > | *V*_{α+1} | = | ℘*V*_{α} |
 > | *V*_{λ} | = | ∪_{β<λ} *V*_{β} for λ a limit ordinal |
 
-The *ZFC* axioms. We are not going to state them here, but see the entry on set theory.
+**The *ZFC* axioms**. We are not going to state them here, but see the entry on set theory.
 
 **Classes**. The axioms of set theory are not about sets as much as they are about the *universe of sets*. One of the intuitive principles of the theory is that arbitrary collections of mathematical objects “should be” sets. Due to paradoxes, this intuitive principle is not directly formalized in standard set theories. In a sense, the axioms one does have are intended to give enough sets to constitute a mathematical universe while not having so many as to risk inconsistency. But it is natural in this connection to consider some collections of objects which are demonstrably not sets. These are called *proper classes*. The term *class* informally refers to a collection of mathematical objects. Classes are usually not first-class objects in set theory. (Certainly they are not in the most standard set theory, *ZFC*. However, the SEP entry on Alternative Axiomatic Set Theories does mention quite a few theories which treat classes as first-class objects.) Instead, a statement about classes is regarded as a paraphrase for some other (more complicated and usually less intuitive) statement about sets. This is probably not a good place to discuss the details of the formalization; one useful source is Chapter 1 of Azriel Levy (1979)[^levy-1979].
 
@@ -466,7 +466,7 @@ The theory *ZFA* is *ZFC* with *FA* replaced by *AFA*. It includes the Axiom of 
 
 **The coiterative conception of set**. *AFA* gives rise to, or reflects, a conception of set that is at odds with the iterative conception. For lack of a better name, we call it the *coiterative conception*. According to this, a set is an abstract structure obtained by taking a graph *G* (a set with a relation on it), and then associating to each node *x* in the graph a set in such a way that the set associated to *x* is the set of sets associated to the children of *x* in *G* . This association is what we called *decoration* earlier. This association might be thought of procedurally, but it need not be so construed. One can instead posit a harmony between decoration and power sets.[^note-9]
 
-What changes with *AFA*, and what does not change?. *AFA* gives us unique solutions to systems of set systems; this is almost immediate from the axiom and the close relation of set systems and graphs. But it also gives us unique solutions for stream systems and tree systems. The details of this are suggested by our work on the decoration of the graph related to streams and pairs which we saw earlier on.
+**What changes with *AFA*, and what does not change?**. *AFA* gives us unique solutions to systems of set systems; this is almost immediate from the axiom and the close relation of set systems and graphs. But it also gives us unique solutions for stream systems and tree systems. The details of this are suggested by our work on the decoration of the graph related to streams and pairs which we saw earlier on.
 
 All of the results in set theory which do not use *FA* go through when one replaces it by *AFA*. In particular, the following topics are unchanged: Russell’s Paradox and the Separation (Subset) Axioms; the modeling of ordered pairs, relations and functions; the natural numbers, real numbers, etc.; well-orderings and the ordinal numbers; transfinite recursion on well-orders and well-founded relations; the Axiom of Choice; problems and results concerning the sizes of infinite sets. The only difference would be in modeling questions for circularly defined objects of various sorts, as we have been discussing them.
 
@@ -625,7 +625,7 @@ The point we are trying to make is that there is quite a bit of theory around to
 
 The fact that *AFA* allows us to solve various kinds of systems of set equations is only the beginning. When we discussed infinite trees in Section 1.2, we noted that the collection *Tr* of infinite trees *should* satisfy (7), repeated below:
 
-> *Tr*   =   {*x*, *y*} ∪ ({•} × *Tr*) ∪ ({*} × *Tr* × *Tr*).
+> *Tr*   =   {*x*, *y*} ∪ ({•} × *Tr*) ∪ ({\*} × *Tr* × *Tr*).
 
 A similar equation should hold of streams from Section 1.1:
 
@@ -643,9 +643,9 @@ First, under *FA*, the first two of our three equations each have a unique solut
 
 Under *AFA*, things are different. Here is the general picture: An operator on sets *F* is *monotone* if whenever *a* ⊆ *b*, then also *Fa* ⊆ *Fb*. This is a very common feature for operators on sets. The *polynomial operators on sets* are the smallest collection containing the constant operators, and closed under cartesian product, disjoint union, and functions from a fixed set. For example, if *A* and *B* are fixed sets, then *Fs* = (*A* × *s*) + ^{*B*}(*s* + *A*) is a polynomial operator on sets. If one also allows the power set operator to occur, then we get the *power polynomial operators*. Every power polynomial operator is monotone. And now, we have the following results due to Aczel:
 
-> **Proposition**. Then every monotone operator *F* on sets has a least fixed point *F*_{*} and a greatest fixed point *F*^{*}. In particular, every polynomial operator on classes has least and greatest fixed points. On classes, the same is true for the larger collection of power polynomial operators.
+> **Proposition**. Then every monotone operator *F* on sets has a least fixed point *F*_{\*} and a greatest fixed point *F*^{\*}. In particular, every polynomial operator on classes has least and greatest fixed points. On classes, the same is true for the larger collection of power polynomial operators.
 
-Assuming *FA*, the fixed points are unique; frequently they are the empty set. With *AFA*, the greatest fixed points usually have non-wellfounded members. We shall study this in more detail when we turn to coalgebra. For now, we return to the last of the example equations at the top of this section, *V*   =  ℘*V*. This equation has no solutions in sets due to Cantor’s Theorem. However, in terms of classes, this equation does have solutions, as we know. The universal class *V* is a solution, as we have seen. And the class *WF* of well-founded sets is a solution. This is the smallest solution ℘_{*}, and *V* is the largest. Under *FA*, ℘^{*} = *V* = ℘_{*}. Under *AFA*, ℘_{*} and ℘^{*} are different: ℘_{*} = *WF*, and ℘^{*} = *V* and thus contains sets such as Ω= {Ω}.
+Assuming *FA*, the fixed points are unique; frequently they are the empty set. With *AFA*, the greatest fixed points usually have non-wellfounded members. We shall study this in more detail when we turn to coalgebra. For now, we return to the last of the example equations at the top of this section, *V*   =  ℘*V*. This equation has no solutions in sets due to Cantor’s Theorem. However, in terms of classes, this equation does have solutions, as we know. The universal class *V* is a solution, as we have seen. And the class *WF* of well-founded sets is a solution. This is the smallest solution ℘_{\*}, and *V* is the largest. Under *FA*, ℘^{\*} = *V* = ℘_{\*}. Under *AFA*, ℘_{\*} and ℘^{\*} are different: ℘_{\*} = *WF*, and ℘^{\*} = *V* and thus contains sets such as Ω= {Ω}.
 
 ## 4. Comparing Foundation and Anti-Foundation
 
@@ -673,11 +673,11 @@ We refer the reader to the entry on category theory for the definitions of categ
 
 We need to mention the objects and morphisms in the categories of sets and of classes, and also to spell out the functors of interest on them.
 
-Set. The objects are the sets, and the morphisms are triples ⟨*x*, *y*, *f*⟩, where *f* : *x* → *y*. That is, each triple ⟨ *x*, *y*, *f*⟩ is a morphism from *x* to *y*. The identity morphism *id*_{*a*} for a set *a* is ⟨*a*, *a*, *f*⟩ , where *f* is the identity function on *a* and the composition operation of morphisms is given by:
+**Set**. The objects are the sets, and the morphisms are triples ⟨*x*, *y*, *f*⟩, where *f* : *x* → *y*. That is, each triple ⟨ *x*, *y*, *f*⟩ is a morphism from *x* to *y*. The identity morphism *id*_{*a*} for a set *a* is ⟨*a*, *a*, *f*⟩ , where *f* is the identity function on *a* and the composition operation of morphisms is given by:
 
 > ⟨*y*, *z*, *g*⟩ ⋅ ⟨*x*, *y*, *f*⟩ = ⟨*x*, *z*, *g* ⋅ *f*⟩
 
-Functors on Set. The polynomial operators on sets extend to endofunctors on Set. The way that these operations are defined on morphisms is straightforward and may be found in any book on category theory. Here is a brief summary: For any set *s*, the constant functor with value *s* is a functor on Set. It takes every function to *id*_{*s*}. For any two functors *F* and *G*, we have a functor *F*× *G* defined by (*F*× *G*)(*a*) = *Fa* × *Ga*; here we use the cartesian product on sets. If *f* : *a* → *b*, then
+**Functors on Set**. The polynomial operators on sets extend to endofunctors on Set. The way that these operations are defined on morphisms is straightforward and may be found in any book on category theory. Here is a brief summary: For any set *s*, the constant functor with value *s* is a functor on Set. It takes every function to *id*_{*s*}. For any two functors *F* and *G*, we have a functor *F*× *G* defined by (*F*× *G*)(*a*) = *Fa* × *Ga*; here we use the cartesian product on sets. If *f* : *a* → *b*, then
 
 > (*F*× *G*)*f*(*a*, *b*) = (*Ff*(*a*), *Gf*(*b*)).
 
@@ -693,17 +693,17 @@ The power polynomial operators also extend to endofunctors on Set: on morphisms 
 
 > *f*[*a*] = {*f*(*z*) : *z*   ∈   *a*}.
 
-Class. Here the objects are formulas in the language of set theory φ(*x*, *y*_{*1*},…, *y*_{*n*}) together with *n* sets *a*_{*1*},…, *a*ₙ. We think of this as
+**Class**. Here the objects are formulas in the language of set theory φ(*x*, *y*_{*1*},…, *y*_{*n*}) together with *n* sets *a*_{*1*},…, *a*ₙ. We think of this as
 
 > {*b* : φ[*b*, *a*_{*1*},…, *a*ₙ]}.
 
 The morphisms are then triples consisting of two formulas with parameters defining the domain and codomain, and a third one with two free parameters defining the action of the morphism.
 
-Functors on Class. The functors of interest are again the power polynomials. They are defined on Class similarly to the way they are defined on Set. For our purposes, the main difference between the two categories is that in Set we cannot solve ℘(*x*) = *x*, while we can do so in Class.
+**Functors on Class**. The functors of interest are again the power polynomials. They are defined on Class similarly to the way they are defined on Set. For our purposes, the main difference between the two categories is that in Set we cannot solve ℘(*x*) = *x*, while we can do so in Class.
 
 ### 4.2 Algebras for a functor
 
-Let *F* be an endofunctor on a category *C*. An algebra for *F* is a pair (*c*, *f*), where *c* is an object of *C*, and *f* : *Fc* → *c*.
+Let *F* be an endofunctor on a category *C*. An *algebra for F* is a pair (*c*, *f*), where *c* is an object of *C*, and *f* : *Fc* → *c*.
 
 Here is a basic example that illustrates why these are called *algebras*. Let’s take the category Set of sets, and the functor
 
@@ -752,31 +752,31 @@ One way to interpret this equivalence is that we can take the existence of an in
 
 Two general facts: First, the structure map of an initial algebra on Set is always a bijection. This follows from a very general result in category theory due to J. Lambek. And from this we see that ℘ has no initial algebras on Set, by Cantor’s Theorem.
 
-Initial algebras for polynomial functors on Set.
+**Initial algebras for polynomial functors on Set**.
 
 Let *F* :  Set → Set be a power polynomial functor. We know that *F* is monotone (it preserves the subset relation on sets), and it is not hard to check a slightly stronger property: *F* preserves inclusion maps between classes: An *inclusion* is a map *i*_{*a*, *b*} : *a* → *b* on classes which “doesn’t do anything”: *a* must be a subset of *b*, and for all *x* ∈ *a*, *i*(*x*) = *x*. We say that *F* is *standard* if it preserves inclusions in the sense that *Fi*_{*a*, *b*} = *i*_{*Fa*, *Fb*}. Once again, every power polynomial endofunctor on Set is standard.
 
 The polynomial operations on sets (without power) are also *continuous*: they preserve countable unions of sets.
 
-Let *F* :  Set → Set be a polynomial endofunctor. We sketch the proof that the least fixed point *F*_{*} carries the structure of an initial algebra, together with the identity on it.
+Let *F* :  Set → Set be a polynomial endofunctor. We sketch the proof that the least fixed point *F*_{\*} carries the structure of an initial algebra, together with the identity on it.
 
 One forms the increasing sequence
 
 > 0 ⊆ *F*0 ⊆ *F*(*F*0) ⊆ *F*(*F*(*F*0)) …
 
-We write 0 for ∅. Each of the maps shown is an inclusion, by standardness. Let *F*_{*} be the union of the increasing sequence *F*^{*n*}0 of sets. Then *F*(*F*_{*}) = *F*_{*} by continuity. So (*F*_{*}, *id*) is an algebra for *F*. To check initiality, let (*A*, *a*) be an algebra for *F*, so *a* : *Fa* → *a*. Define maps *gₙ* : *F*^{*n*}(0) → *A* by recursion, with *g₀* : 0 → *A* the empty function (this is what initiality of ∅ amounts to), and *g*_{*n*+1} = *a* ⋅ *Fg*_{*n*}. Check that we have an increasing sequence of functions
+We write 0 for ∅. Each of the maps shown is an inclusion, by standardness. Let *F*_{\*} be the union of the increasing sequence *F*^{*n*}0 of sets. Then *F*(*F*_{\*}) = *F*_{\*} by continuity. So (*F*_{\*}, *id*) is an algebra for *F*. To check initiality, let (*A*, *a*) be an algebra for *F*, so *a* : *Fa* → *a*. Define maps *gₙ* : *F*^{*n*}(0) → *A* by recursion, with *g₀* : 0 → *A* the empty function (this is what initiality of ∅ amounts to), and *g*_{*n*+1} = *a* ⋅ *Fg*_{*n*}. Check that we have an increasing sequence of functions
 
 > g₀ ⊆ g₁ ⊆ g₂ ⊆ …
 
-then take the union to get φ  :  *F*_{*} → *A*. One checks that this φ is a morphism of *F*-algebras, and indeed is the only such.
+then take the union to get φ  :  *F*_{\*} → *A*. One checks that this φ is a morphism of *F*-algebras, and indeed is the only such.
 
 ### 4.3 Coalgebras for a functor
 
-We now turn to coalgebras. Again, let *F* be an endofunctor on a category *C*. A coalgebra for *F* is a pair (*c*, *f*), where *c* is an object of *C*, and *f* : *c* → *Fc*. Comparing this to the definition of an algebra, we can see that a coalgebra is the same kind of structure, except that the direction of the arrow is reversed.
+We now turn to coalgebras. Again, let *F* be an endofunctor on a category *C*. A *coalgebra for F* is a pair (*c*, *f*), where *c* is an object of *C*, and *f* : *c* → *Fc*. Comparing this to the definition of an algebra, we can see that a coalgebra is the same kind of structure, except that the direction of the arrow is reversed.
 
 For example, every graph is a coalgebra of ℘ on *F* :  Set → Set. That is, every graph (*G*,→) may be re-packaged as (*G*, *e*), with *e* : *G* → ℘ *G* given by *e*(*x*) = {*y* ∈ *G* : *x*→ *y*}. In words, we trade in the edge relation of a graph with the function that assigns to each point its set of children. This re-packaging has an inverse, and so the notions of “graph as set with relation” and “graph as coalgebra of ℘” are in this sense notational variants.[^note-12]
 
-Let (*c*, *f*) and (*e*, *g*) be coalgebras for the same functor. A morphism of coalgebras from (*c*, *f*) to (*d*, *g*) is a morphism *α* : *c* → *d* in the category *C* so that the diagram below commutes:
+Let (*c*, *f*) and (*e*, *g*) be coalgebras for the same functor. A *morphism of coalgebras from (c, f) to (d, g)* is a morphism *α* : *c* → *d* in the category *C* so that the diagram below commutes:
 
 > |   | *c* | *f* → | *Fc* |
 > | --- | --- | --- | --- |
@@ -866,7 +866,7 @@ For many functors on Set, especially polynomial functors and the finite power se
 
 The connection between greatest fixed points and final coalgebras is the content of the following result.
 
-> **Theorem [Aczel]** For every power polynomial *F* on Class, the greatest fixed point together with the identity on it, (*F*^{*}, *id*), is a final coalgebra of *F* on Class. Moreover, if *F* is a polynomial functor, then *F*^{*} is a set, and (*F*^{*}, *id*) is a final coalgebra of *F* on Set.
+> **Theorem [Aczel]** For every power polynomial *F* on Class, the greatest fixed point together with the identity on it, (*F*^{\*}, *id*), is a final coalgebra of *F* on Class. Moreover, if *F* is a polynomial functor, then *F*^{\*} is a set, and (*F*^{\*}, *id*) is a final coalgebra of *F* on Set.
 
 The original result used much weaker hypotheses on *F*, using notions which we did not define, so our statement is rather weaker than in Aczel’s book. Several papers have gone on to weaken strengthen this Final Coalgebra Theorem.
 
@@ -916,13 +916,13 @@ The main point of this demonstration is that the principle of finality is suffic
 
 The table above lists a few functors on Set or Class along with final coalgebras or other data from the conceptual comparison chart.
 
-First, for any set *S*, the functor *Fa* = *S*× *a*. A coalgebra for this *F* is a *stream system of equations* as we saw it in Section 1.1, except that there we made things concrete and took *S* to be the set of natural numbers. The final coalgebra is the set *S*^{∞} = *S* × *S*^{∞} of streams over *S*. The logical language for this functor would be a sentential (propositional) language whose sentences are either true or of the form *s* : φ where *s*∈*S*. The semantics would be the obvious one; for example
+First, for any set *S*, the functor *Fa* = *S*× *a*. A coalgebra for this *F* is a *stream system of equations* as we saw it in Section 1.1, except that there we made things concrete and took *S* to be the set of natural numbers. The final coalgebra is the set *S*^{∞} = *S* × *S*^{∞} of *streams over S*. The logical language for this functor would be a sentential (propositional) language whose sentences are either true or of the form *s* : φ where *s*∈*S*. The semantics would be the obvious one; for example
 
 > (0, 1, 2, 3, … ) ⊨ 0 : 1 : 2 : true.
 
 One should note that carrier of the final coalgebra may be taken to be certain theories in this language. These may be described extrinsically as the theories of all points in all coalgebra. It is more informative, however, to set down a logical system and then consider the maximal consistent sets in the system. With the right definition, the maximal consistent sets do turn out to be the carrier of a final coalgebra for the functor.
 
-Second, we consider *Fa* = (*S* × *a*) + 1. Here 1 = {0} and + is the disjoint union operation. However, it is more common for people to represent the one and only element of 1 using a symbol like *\**. The coalgebras are like stream systems of equations, except now an equation might ask for a stream to “stop” by having * on the right-hand side. So an example of a coalgebra would be *x* ≈ ⟨*s*,*y*⟩ , *y* ≈ *\**. Then the solution would take *x*^{†} to be the one-term sequence *s*. The logic for this functor would be the same logic (HML) as before, except that now we add an atomic sentence to detect the ends of finite sequences.
+Second, we consider *Fa* = (*S* × *a*) + 1. Here 1 = {0} and + is the disjoint union operation. However, it is more common for people to represent the one and only element of 1 using a symbol like *\**. The coalgebras are like stream systems of equations, except now an equation might ask for a stream to “stop” by having \* on the right-hand side. So an example of a coalgebra would be *x* ≈ ⟨*s*,*y*⟩ , *y* ≈ *\**. Then the solution would take *x*^{†} to be the one-term sequence *s*. The logic for this functor would be the same logic (HML) as before, except that now we add an atomic sentence to detect the ends of finite sequences.
 
 Turning to the last two lines, we already know that *AFA* is equivalent to the assertion that (*V*, *id*) is a final coalgebra of ℘; also, even without *AFA*, we have a final coalgebra whose carrier set is the pointed graphs modulo bisimulation. The logic in this case is infinitary modal logic, actually, it is a fragment of this logic. It turns out that two points in a given coalgebra have the same infinitary modal theory iff they are bisimilar.
 
@@ -932,7 +932,7 @@ As the reader may notice, we are being extremely vague about matters concerning 
 
 The lines in at the bottom of the conceptual comparison chart are the most programmatic of all.
 
-Doing without *AFA*: final coalgebras in *ZF*. We mentioned in note [[^note-2]] that it is possible to alter the pairing operation in such a way that one may prove many of the results that our treatment obtains only by using *ZF*A. This points is mentioned in Forster (1994) and developed in detail in Paulson (1999)[^paulson-1999] (and in other papers by Paulson). One replaces the Kuratowski pair ⟨*x*,*y*⟩ with a variant, ({0}× *a*)∪ ({1}× *b*). (This is the usual disjoint union operation, also called the *coproduct* on sets.) Then one defines variants of other notions: the cartesian product, functions, etc. And in terms of these one can indeed study streams and infinite trees, and many other sets of interest in this entry. Even more, one can prove *final coalgebra theorems*, stating sufficient conditions for the existence of a final coalgebra whose structure is the identity. (This is an important point for this line of work: in *ZF* we can show the existence of final coalgebras for the same functors as in *ZFA*, but in the latter theory we can get final coalgebras whose structure maps are the identity.)
+**Doing without *AFA*: final coalgebras in *ZF***. We mentioned in note [[^note-2]] that it is possible to alter the pairing operation in such a way that one may prove many of the results that our treatment obtains only by using *ZF*A. This points is mentioned in Forster (1994) and developed in detail in Paulson (1999)[^paulson-1999] (and in other papers by Paulson). One replaces the Kuratowski pair ⟨*x*,*y*⟩ with a variant, ({0}× *a*)∪ ({1}× *b*). (This is the usual disjoint union operation, also called the *coproduct* on sets.) Then one defines variants of other notions: the cartesian product, functions, etc. And in terms of these one can indeed study streams and infinite trees, and many other sets of interest in this entry. Even more, one can prove *final coalgebra theorems*, stating sufficient conditions for the existence of a final coalgebra whose structure is the identity. (This is an important point for this line of work: in *ZF* we can show the existence of final coalgebras for the same functors as in *ZFA*, but in the latter theory we can get final coalgebras whose structure maps are the identity.)
 
 One might think that this move undermines much of the interest in *AFA*. For Paulson, the reduction is important since he wants to use an automatic theorem prover to work with assertions in set theory. It makes sense to work out detailed reductions so as to avoid changing the set theory.
 
@@ -983,7 +983,7 @@ I would like to thank Edward Zalta and Uri Nodelman for their advice, encouragem
 
 [^note-3]: Incidentally, the most standard definition of the solution *x*^{†} from equation (4) uses a different vocabulary altogether: the *n*ᵗʰ term of the sequence corresponding to *x*^{†} is 0 or 1 depending on whether there are an even or odd number of 1s in the binary representation of *n*+1.
 
-[^note-4]: This is really but one species of tree. It would be more proper to use a fuller name for what we are studying, such as “finite or infinite trees whose leaves are labeled with *x* or *y* and whose interior nodes are either unary nodes labeled • or binary nodes labeled with the * symbol.”
+[^note-4]: This is really but one species of tree. It would be more proper to use a fuller name for what we are studying, such as “finite or infinite trees whose leaves are labeled with *x* or *y* and whose interior nodes are either unary nodes labeled • or binary nodes labeled with the \* symbol.”
 
 [^note-5]: Both the applicability and the conceptual point are important: I am not aware of publications prior to Aczel's book that even hinted at applications. Also, the discussion of conceptual points is not developed at length there. Earlier papers such as Forti and Honsell (1983) do not mention conceptual points at all, and indeed amid the multiplicity of axioms studied it is hard to see whether earlier workers were even thinking in these terms.
 

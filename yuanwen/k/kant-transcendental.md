@@ -139,15 +139,15 @@ Here we should see Kant as advancing his claim for the applicability of the cate
 
 We can expand (7) to explicitly note the link to the argument from above:
 
-> 7*. We have representations of objects, all of which require a faculty for synthesis by *a priori* concepts, the same faculty required to account for my consciousness of the identity of myself as subject of different self-attributions of mental states.
+> 7\*. We have representations of objects, all of which require a faculty for synthesis by *a priori* concepts, the same faculty required to account for my consciousness of the identity of myself as subject of different self-attributions of mental states.
 
 To this we can add the final moves, which are explained in the subsequent sections of the B-Deduction:
 
 > 8. Insofar as our representations of objects require a faculty for synthesis by *a priori* concepts, certain *a priori* concepts – the categories – legitimately apply to these objects. (premise)
 
-Together with (7*), this yields:
+Together with (7\*), this yields:
 
-> 9. We have representations of objects, all of which are such that the categories legitimately apply to them. (7*, 8)
+> 9. We have representations of objects, all of which are such that the categories legitimately apply to them. (7\*, 8)
 
 The key necessary conditions, expressed by (4) and (6), like those of the argument from above, are on Kant’s account necessary conditions of only possible explanation.
 

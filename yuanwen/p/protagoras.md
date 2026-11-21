@@ -316,7 +316,7 @@ Aristotle | atheism and agnosticism | doxography of ancient philosophy | Plato |
 
 [^untersteiner-1949-2]: Untersteiner, Mario, 1949 [1954], *I sofisti*, Torino: G. Einaudi. Translated as *The Sophists*, Kathleen Freeman (trans.), Oxford: Blackwell, 1954.
 
-[^vegetti-2004]: Vegetti, Mario, 2004, “Protagora autore della *Repubblica*? (ovvero il ‘mito’ del *Protagora* nel suo contesto)”, in Giovanni Casertano, (ed.), Il Protagora di Platone: struttura e problematiche, Naples: Loffredo 2004, vol. I, 145–152.
+[^vegetti-2004]: Vegetti, Mario, 2004, “Protagora autore della *Repubblica*? (ovvero il ‘mito’ del *Protagora* nel suo contesto)”, in Giovanni Casertano, (ed.), *Il Protagora di Platone: struttura e problematiche*, Naples: Loffredo 2004, vol. I, 145–152.
 
 [^vlastos-1956]: Vlastos, Gregory, 1956, “Protagoras”, in *Plato: Protagoras*, Benjamin Jowett and Martin Ostwald (trans.) and Gregory Vlastos (ed.), New York: Bobbs-Merril Company, vii–xxiv.
 

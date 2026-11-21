@@ -238,7 +238,7 @@ The structural equations above can be represented in terms of *a directed graph*
 
 ![A directed arrow graph with vertices labelled 'ST', 'BT', 'SH', 'BH', and 'BS'. Directed lines go from ST to SH, from BT to BH, from SH to BH, from SH to BS, and from BH to BS.](../assets/causation-counterfactual/figure1.jpg)
 
-*Figure 1.*
+\*Figure 1.\*
 
 The arrows in this figure tell us that the bottle’s shattering is a function of Suzy’s rock hitting the bottle and Billy’s rock hitting the bottle; that Billy’s rock hitting the bottle is a function of Billy’s throwing a rock and Suzy’s rock hitting the bottle; and that Suzy’s rock hitting the bottle is a function of her throwing the rock. It’s important to note that the nodes in the graph represent variables and not – as in the case of ‘neuron diagrams’, such as those found in Lewis 1986c – values of variables. Note also that while the arrows tell us that there are counterfactual dependence relations between the values of the variables – all of the possible values, not just the actual ones – they don’t tells us what those dependence relations are; for that, you have to look at the structural equations. For example, the directed graph only tells us that the value of *BH* counterfactually depends somehow or other on the values of *BT* and *SH*; e.g. it doesn’t tell us that if Billy had thrown and Suzy’s rock hadn’t hit, Billy’s rock would have hit.)
 

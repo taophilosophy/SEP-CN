@@ -15,32 +15,32 @@ In any decision problem, the way the world is, and what an agent does, together 
 
 In *decisions under uncertainty*, nothing more is given—in particular, the agent does not assign subjective probabilities to the states of the world. Still, sometimes rationality dictates a unique decision nonetheless. Consider, for example, a case that will be particularly relevant here. Suppose that you have two possible actions, $A_1$ and $A_2$, and the worst outcome associated with $A_1$ is at least as good as the best outcome associated with $A_2$; suppose also that in at least one state of the world, $A_1$’s outcome is strictly better than $A_2$’s. Let's say in that case that $A_1$ *superdominates* $A_2$. Then rationality seems to require you to perform $A_1$.[^note-1]
 
-**Example**. A magician will toss a coin. You know nothing about the coin—it might be a normal coin, it might be two-headed, it might be two-tailed, and it might be biased to any degree. Suppose that in this state of complete ignorance about the coin, you do not assign any probability whatsoever to its landing heads. Suppose that you can either bet on heads or on tails; it costs nothing to bet, and you will win $1 if you bet correctly. But I will pay you an extra $1 if you bet on heads (I especially like bets on heads). Your possible total pay-offs are given by this decision table:
+**Example**. A magician will toss a coin. You know nothing about the coin—it might be a normal coin, it might be two-headed, it might be two-tailed, and it might be biased to any degree. Suppose that in this state of complete ignorance about the coin, you do not assign any probability whatsoever to its landing heads. Suppose that you can either bet on heads or on tails; it costs nothing to bet, and you will win \$1 if you bet correctly. But I will pay you an extra \$1 if you bet on heads (I especially like bets on heads). Your possible total pay-offs are given by this decision table:
 
-|   | *Coin lands heads* | *Coin lands tails* |
+|   | ***Coin lands heads*** | ***Coin lands tails*** |
 | --- | --- | --- |
-| *Bet on heads* | 2 | 1 |
-| *Bet on tails* | 0 | 1 |
+| ***Bet on heads*** | 2 | 1 |
+| ***Bet on tails*** | 0 | 1 |
 
-Betting on heads superdominates betting on tails. The worst outcome associated with betting on heads (which pays $1)  is at least as good as the best outcome associated with betting on tails (which pays $1); and if the coin lands heads, the outcome associated with betting on heads pays *more* than that associated with tails ($2 > $0). Moreover, it seems clear that you should bet on heads.
+Betting on heads superdominates betting on tails. The worst outcome associated with betting on heads (which pays \$1)  is at least as good as the best outcome associated with betting on tails (which pays \$1); and if the coin lands heads, the outcome associated with betting on heads pays *more* than that associated with tails (\$2 > \$0). Moreover, it seems clear that you should bet on heads.
 
 In *decisions under risk*, the agent assigns subjective probabilities to the various states of the world. Assume that the states of the world are independent of what the agent does. A figure of merit called the *expected utility*, or the *expectation* of a given action can be calculated by a simple formula: for each state, multiply the utility that the action produces in that state by the state’s probability; then, add these numbers. According to decision theory, rationality requires you to perform the action of maximum expected utility (if there is one).
 
-**Example**. Suppose that the utility of money is linear in number of dollars: you value money at exactly its face value. Suppose now that you know that a *fair* coin will be tossed, and so you assign probability 1/2 to heads and 1/2 to tails. It costs a dollar to play the following game. If the coin lands heads, you will win $3; if it lands tails, you will get nothing.  (Including the initial cost of playing, the total possible payoffs are $1 less than these respective amounts.) Should you play? Here is the decision table:
+**Example**. Suppose that the utility of money is linear in number of dollars: you value money at exactly its face value. Suppose now that you know that a *fair* coin will be tossed, and so you assign probability 1/2 to heads and 1/2 to tails. It costs a dollar to play the following game. If the coin lands heads, you will win \$3; if it lands tails, you will get nothing.  (Including the initial cost of playing, the total possible payoffs are \$1 less than these respective amounts.) Should you play? Here is the decision table:
 
-|   | *Coin lands heads* | *Coin lands tails* |
+|   | ***Coin lands heads*** | ***Coin lands tails*** |
 | --- | --- | --- |
-| *Play* | 2 | –1 |
-| *Do not play* | 0 | 0 |
+| ***Play*** | 2 | –1 |
+| ***Do not play*** | 0 | 0 |
 
 The expectation of playing is (2 x 1/2)  + (–1 x 1/2) = 1/2. This exceeds the expectation of not playing—namely 0—so you should play.
 
-And now suppose that the payoff if the coin lands heads is reduced by $1, so that the decision table becomes:
+And now suppose that the payoff if the coin lands heads is reduced by \$1, so that the decision table becomes:
 
-|   | *Coin lands heads* | *Coin lands tails* |
+|   | ***Coin lands heads*** | ***Coin lands tails*** |
 | --- | --- | --- |
-| *Play* | 1 | –1 |
-| *Do not play* | 0 | 0 |
+| ***Play*** | 1 | –1 |
+| ***Do not play*** | 0 | 0 |
 
 Then consistent with decision theory, you could either play or not, for either way your expectation would be 0.
 
@@ -58,10 +58,10 @@ There are exegetical problems already here, partly because Pascal appears to con
 
 Following McClennen 1994, Pascal’s argument seems to be best captured as presenting the following decision table:
 
-|   | *God exists* | *God does not exist* |
+|   | ***God exists*** | ***God does not exist*** |
 | --- | --- | --- |
-| *Wager for God* | Gain all | Status quo |
-| *Wager against God* | Misery | Status quo |
+| ***Wager for God*** | Gain all | Status quo |
+| ***Wager against God*** | Misery | Status quo |
 
 Wagering for God superdominates wagering against God: the worst outcome associated with wagering for God (status quo) is at least as good as the best outcome associated with wagering against God (status quo); and if God exists, the result of wagering for God is strictly better than the result of wagering against God. (The fact that the result is *much* better does not matter yet.) Pascal draws the conclusion at this point that you should wager for God.
 
@@ -111,10 +111,10 @@ Let us now gather together all of these points into a single argument. We can th
 
 1. Either God exists or God does not exist, and you can either wager for God or wager against God. The utilities of the relevant possible outcomes are as follows, where $f_1, f_2$, and $f_3$ are numbers whose values are not specified beyond the requirement that they be finite:
 
-   |   | *God exists* | *God does not exist* |
+   |   | ***God exists*** | ***God does not exist*** |
    | --- | --- | --- |
-   | *Wager for God* | $\infty$ | $f_1$ |
-   | *Wager against God* | $f_2$ | $f_3$ |
+   | ***Wager for God*** | $\infty$ | $f_1$ |
+   | ***Wager against God*** | $f_2$ | $f_3$ |
 2. Rationality requires the probability that you assign to God existing to be positive (and finite).
 3. Rationality requires you to perform the act of maximum expected utility (when there is one).
 4. Conclusion 1. Rationality requires you to wager for God.
@@ -220,10 +220,10 @@ We have concluded our discussion of what is traditionally known as “Pascal’s
 
 This passage makes two further striking claims regarding wagering for God: you will “gain in this life”, and “you have wagered for something certain”. The decision table can be presented as follows (with the outcomes ranked):
 
-|   | *God exists* | *God does not exist* |
+|   | ***God exists*** | ***God does not exist*** |
 | --- | --- | --- |
-| *Wager for God* | Gain all (Best) | Gain in earthly life (Second best) |
-| *Wager against God* | Misery (Worst) | Earthly life (Third best) |
+| ***Wager for God*** | Gain all (Best) | Gain in earthly life (Second best) |
+| ***Wager against God*** | Misery (Worst) | Earthly life (Third best) |
 
 This is again a decision under uncertainty (in our technical sense)—it involves no considerations of probability. Indeed, “the wager” dissolves, twice over: utilities alone definitively settle that you should wager for God, and in any case it is not really a gamble at all, since your gain is certain! (That is my understanding of “you have wagered for something certain”; it is not God's existence itself that is “certain”.) The worst outcome associated with wagering for God (gain in earthly life) is *strictly better* than the best outcome associated with wagering against God (earthly life). It follows immediately that you should wager for God. Hájek (2018)[^hájek-2018] calls this an argument from *superduperdominance*. This is a valid argument for wagering for God, even if we allow that God's existence might be impossible.
 
@@ -334,7 +334,7 @@ Causal decision theory replaces evidential decision theory’s conditional proba
 
 > If you prefer $A$ to $B$, and prefer $B$ to $C$, then there is a gamble between $A$ and $C$ ($A$ with probability $p$, $C$ with probability $1 - p$, for some real-valued $p$) that you regard as equally desirable as $B$ for sure.
 
-For suppose that salvation, say, has infinite utility for you. You prefer salvation to $1, and prefer $1 to nothing; but there is no such gamble that rewards you with salvation if you win, and nothing if you lose, that you value at $1. Indeed, assuming that the probability of winning remains positive, you prefer the gamble to any finite reward; but if the probability of winning drops to 0, your preference discontinuously switches to the finite reward. The objection, then, is that infinite utilities run afoul of the underpinnings of decision theory (by violating a preference axiom), and thus of the theory itself. Yet that theory is appealed to in Premise 3 of the argument. In short, Premise 1 is in tension with Premise 3.
+For suppose that salvation, say, has infinite utility for you. You prefer salvation to \$1, and prefer \$1 to nothing; but there is no such gamble that rewards you with salvation if you win, and nothing if you lose, that you value at \$1. Indeed, assuming that the probability of winning remains positive, you prefer the gamble to any finite reward; but if the probability of winning drops to 0, your preference discontinuously switches to the finite reward. The objection, then, is that infinite utilities run afoul of the underpinnings of decision theory (by violating a preference axiom), and thus of the theory itself. Yet that theory is appealed to in Premise 3 of the argument. In short, Premise 1 is in tension with Premise 3.
 
 The issue then becomes whether continuity is a requirement on rational preference. Hájek 1997 argues that it is not, and gives further positive arguments for allowing infinite utilities into decision theory. Sorensen 1994 likewise argues for “infinite decision theory”. For presentations of ‘non-Archimedean’ decision theory, see Skalia 1975 and Pivato 2014. For related work on infinite utilities that is more philosophical, see Cain 1995, Nelson 1991, Ng 1995, Vallentyne 1993, Vallentyne 1995, Vallentyne and Kagan 1997, and van Liedekerke 1995.
 

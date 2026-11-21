@@ -92,7 +92,7 @@ The established order of nature is the result of God’s ordained power, but God
 
 Like Scotus, Kilvington is convinced that *potentia dei absoluta* is a power that really is or can be actualized by God. Miracles would be examples of God acting against the natural order. Individual situations also show that God can deviate from laws established in the natural order, reflecting God’s particular judgment.
 
-Kilvington’s theory of *potentia dei absoluta* and* ordinata* serves to underline the contingency of creation and the freedom of divine will. Here Kilvington abridges Scotus’s opinions (*Lectura* I, dist. 39) and reorders his arguments, taking into account only those most useful for his own theory. Kilvington claims that God’s knowledge, existence, and will are the same as God’s essence. However, with regard to God’s absolute knowledge, assertoric statements about the past and present and contingent statements about the future have the same certainty since they are absolutely necessary, whereas with regard to the God’s ordained knowledge, they have only ordained necessity:
+Kilvington’s theory of *potentia dei absoluta* and *ordinata* serves to underline the contingency of creation and the freedom of divine will. Here Kilvington abridges Scotus’s opinions (*Lectura* I, dist. 39) and reorders his arguments, taking into account only those most useful for his own theory. Kilvington claims that God’s knowledge, existence, and will are the same as God’s essence. However, with regard to God’s absolute knowledge, assertoric statements about the past and present and contingent statements about the future have the same certainty since they are absolutely necessary, whereas with regard to the God’s ordained knowledge, they have only ordained necessity:
 
 > [I]t can be said that God not always knows with the same certainty what came about and that which is going to come about. <It is so,> because God’s knowledge is equally certain with regard to future contingents as with regard to necessary events; however, it is possible for divine knowledge not to be certain with regard to God’s creatures, because a creature <i. e., a human> can know that (s)he is sitting with as much certainty as that a human is an animal. Still, one certainty concerns contingent and the other necessary things. Therefore, this consequence is false: ‘<God> knows with equal certainty that which happened and that which is going to happen’. Yet, it may happen that <God> does not know the things that are going to happen, and thus <God> may not know the things that happened. This conclusion, however, is true by virtue of God’s absolute power. And by virtue of God’s ordained power it does not follow that all events (past, future, and present) are equally known by God (DV: 182).
 
@@ -154,7 +154,7 @@ Albert of Saxony | Bradwardine, Thomas | Buridan, John [Jean] | Burley [Burleigh
 
 [^dv-nd]: [DV] *Utrum quilibet actus voluntatis per se malus sit per se aliquid*
 
-[^quaestiones-nd]: *Quaestiones super libros De generatione et corruptione*:
+[^quaestiones-nd]: ***Quaestiones super libros De generatione et corruptione***:
 
 [^utrum-nd]: 1. *Utrum generatio sit transmutatio distincta ab alteratione.*
 
@@ -188,7 +188,7 @@ Albert of Saxony | Bradwardine, Thomas | Buridan, John [Jean] | Burley [Burleigh
 
 [^firenze-1681]: Firenze: Biblioteca Nationale Centrale, Cod. Conv. Soppr. B. VI. 1681, fols. 37ra–77vb (questions 1–8, question 7 is interrupted).
 
-[^quaestiones-nd-2]: *Quaestiones super libros Physicorum*:
+[^quaestiones-nd-2]: ***Quaestiones super libros Physicorum***:
 
 [^expositio-nd]: *Expositio super primum librum Physicorum*.
 
@@ -232,7 +232,7 @@ Albert of Saxony | Bradwardine, Thomas | Buridan, John [Jean] | Burley [Burleigh
 
 [^venezia-nd]: Venezia: Biblioteca Nazionale Marciana, Ms. lat. VI. 72 [2810], fols. 81ra–112rb (questions 5–8).
 
-[^quaestiones-nd-3]: *Quaestiones super libros Ethicorum Questiones super libros Ethicorum***:**
+[^quaestiones-nd-3]: ***Quaestiones super libros Ethicorum Questiones super libros Ethicorum*:**
 
 [^utrum-nd-18]: 1. *Utrum omnis virtus moralis ex operibus generetur*.
 
@@ -280,7 +280,7 @@ Albert of Saxony | Bradwardine, Thomas | Buridan, John [Jean] | Burley [Burleigh
 
 [^wrocław-nd]: Wrocław: Bibl. Uniw. IV.F.198, fols. 118ra-132rb (1–4 questions, question 5 is interrupted).
 
-[^questiones-nd]: *Questiones super libros Sententiarum Questiones super libros Sententiarum*:
+[^questiones-nd]: ***Questiones super libros Sententiarum Questiones super libros Sententiarum***:
 
 [^utrum-nd-28]: 1. *Utrum Deus sit super omnia diligendus*.
 

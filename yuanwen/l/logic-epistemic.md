@@ -99,9 +99,9 @@ With two atoms, there are four different ways a world could consistently be. We 
 
 ![Basic Four Worlds: four boxes in a row with some space between them. The first labeled w1 and contains the pair: p, q. The second labeled w2 with the pair: p not q. The third, w3, with the pair: not p, q. The fourth, w4, with the pair: not p, not q. Almost all the subsequent images contain the same with some slight modifications.](../assets/logic-epistemic/fig1.svg)
 
-The four boxes may be formally represented by a set $W=\{w_{1},w_{2},w_{3},w_{4}\}$, typically called a set of *possible worlds*. Each world is further labeled with the atoms true at that world. They are labeled by a function *V*, the *valuation*. The valuation specifies which atoms are true at each world in the following way: Given an atom *p*, $V(p)$ is the subset of worlds at which *p* is true.[^note-2] That $w_{1}$ is labeled with *p* and *q* thus means that $w_{1}\in V(p)$ and $w_{1}\in V(q)$. In the illustration, $V(p)=\{w_{1},w_{2}\}$ and $V(q)=\{w_{1},w_{3}\}$.
+The four boxes may be formally represented by a set $W=\{w_{1},w_{2},w_{3},w_{4}\}$, typically called a set of ***possible worlds***. Each world is further labeled with the atoms true at that world. They are labeled by a function *V*, the ***valuation***. The valuation specifies which atoms are true at each world in the following way: Given an atom *p*, $V(p)$ is the subset of worlds at which *p* is true.[^note-2] That $w_{1}$ is labeled with *p* and *q* thus means that $w_{1}\in V(p)$ and $w_{1}\in V(q)$. In the illustration, $V(p)=\{w_{1},w_{2}\}$ and $V(q)=\{w_{1},w_{3}\}$.
 
-For presentational purposes, assume that there really is a hen in the yard, but no dog. Then $w_{2}$ would represent the *actual world* of the model. In illustrations, the actual world is commonly highlighted:
+For presentational purposes, assume that there really is a hen in the yard, but no dog. Then $w_{2}$ would represent the ***actual world*** of the model. In illustrations, the actual world is commonly highlighted:
 
 ![Basic Four Worlds except w2 is highlighted with a double line instead of a single line for the box.](../assets/logic-epistemic/fig2.svg)
 
@@ -111,7 +111,7 @@ To illustrate that one possible world cannot be distinguished from another, an a
 
 ![Basic Four Worlds except w2 is highlighted and an arrow points from w2 to w1.](../assets/logic-epistemic/fig3.svg)
 
-Here, arrows represent a *binary relation* on possible worlds. In modal logic in general, it is referred to as the *accessibility relation*. Under the indistinguishability interpretation of epistemic logic, it is sometimes called the *indistinguishability relation*. Formally, denote the relation $R_{a}$, with the subscript showing the relation belongs to agent *a*. The relation is a subset of the set of *ordered pairs* of possible worlds, $\{(w,w')\colon w,w'\in W\}$. One world *w* “points” to another $w'$ if $(w,w')\in R_{a}$. In this case, $w'$ is said to be *accessible* (*indistinguishable*) from *w*. In the literature, this is often written $wR_{a}w'$ or $R_{a}ww'$. The notation ‘$w'\in R_{a}(w)$’ is also common: the set $R_{a}(w)$ is then the worlds accessible from *w*, i.e.,
+Here, arrows represent a *binary relation* on possible worlds. In modal logic in general, it is referred to as the ***accessibility relation***. Under the indistinguishability interpretation of epistemic logic, it is sometimes called the ***indistinguishability relation***. Formally, denote the relation $R_{a}$, with the subscript showing the relation belongs to agent *a*. The relation is a subset of the set of *ordered pairs* of possible worlds, $\{(w,w')\colon w,w'\in W\}$. One world *w* “points” to another $w'$ if $(w,w')\in R_{a}$. In this case, $w'$ is said to be *accessible* (*indistinguishable*) from *w*. In the literature, this is often written $wR_{a}w'$ or $R_{a}ww'$. The notation ‘$w'\in R_{a}(w)$’ is also common: the set $R_{a}(w)$ is then the worlds accessible from *w*, i.e.,
 
 $$R_{a}(w):=\{w'\in W:(w,w')\in R_{a}\}.$$
 
@@ -158,8 +158,8 @@ One last ingredient is required before we can state the indistinguishability int
 
 **Definition:** A binary relation $R\subseteq W\times W$ is
 
-1. *reflexive* iff for all $w\in W,wRw$,
-2. *symmetric* iff for all $w,w'\in W,$ if $wRw'$, then $w'Rw$.
+1. ***reflexive*** iff for all $w\in W,wRw$,
+2. ***symmetric*** iff for all $w,w'\in W,$ if $wRw'$, then $w'Rw$.
 
 The missing ingredient is then the relational property of *transitivity*. ‘Shorter than’ is an example of a transitive relation: Let *x* be shorter than *y*, and let *y* be shorter than *z*. Then *x* must be shorter than *z*. So, given $w_{1},w_{2}$ and $w_{3}$, if the relation *R* holds between $w_{1}$ and $w_{2}$ and between $w_{2}$ and $w_{3}$, then the arrow between $w_{1}$ and $w_{3}$ is the consequence of requiring the relation to be transitive:
 
@@ -167,13 +167,13 @@ The missing ingredient is then the relational property of *transitivity*. ‘Sho
 
 Formally, transitivity is defined as follows:
 
-**Definition:** A binary relation $R\subseteq W\times W$ is *transitive* iff for all $w,w',w''\in W,$ if $wRw'$ and $w'Rw''$, then $wRw''$
+**Definition:** A binary relation $R\subseteq W\times W$ is ***transitive*** iff for all $w,w',w''\in W,$ if $wRw'$ and $w'Rw''$, then $wRw''$
 
-A relation that is both reflexive, symmetric and transitive is called an *equivalence relation*.
+A relation that is both reflexive, symmetric and transitive is called an ***equivalence relation***.
 
 With all the components in place, let us now define the Kripke model:
 
-**Definition:** A *Kripke model* for $\mathcal{L}_{K}$ is a tuple $M=(W,R,V)$ where
+**Definition:** A ***Kripke model*** for $\mathcal{L}_{K}$ is a tuple $M=(W,R,V)$ where
 
 - *W* is a non-empty set of possible worlds,
 - *R* is a binary relation on *W*, and
@@ -183,12 +183,12 @@ In the definition, ‘$\mathcal{P}(W)$’ denotes the *powerset* of *W*: It cons
 
 To specify which world is actual, one last parameter is added to the model. When the actual world is specified a Kripke model is commonly called *pointed*:
 
-**Definition:** A *pointed Kripke model* for $\mathcal{L}_{K}$ is a pair $(M,w)$ where
+**Definition:** A ***pointed Kripke model*** for $\mathcal{L}_{K}$ is a pair $(M,w)$ where
 
 - $M=(W,R,V)$ is a Kripke model, and
 - $w\in W$.
 
-Finally, we may formally define the semantics that was somewhat loosely expressed above. This is done by defining a relation between pointed Kripke models and the formulas of the formal language. The relation is denoted ‘$\vDash$’ and is often called the *satisfaction relation*.
+Finally, we may formally define the semantics that was somewhat loosely expressed above. This is done by defining a relation between pointed Kripke models and the formulas of the formal language. The relation is denoted ‘$\vDash$’ and is often called the ***satisfaction relation***.
 
 The definition then goes as follows:
 
@@ -196,9 +196,9 @@ The definition then goes as follows:
 
 $$ \begin{align} (M,w)&\vDash p & \textrm{ iff }& w\in V(p)\\ (M,w)&\vDash\neg\varphi& \textrm{ iff }& \textrm{not } (M,w)\vDash\varphi\\ (M,w)&\vDash(\varphi\wedge\psi)& \textrm{ iff }& (M,w)\vDash\varphi \textrm{ and }(M,w)\vDash\psi\\ (M,w)&\vDash K_{a}\varphi &\textrm{ iff }& (M,w')\vDash\varphi \textrm{ for all } w'\in W \textrm{ such that } wR_{a}w'. \end{align} $$
 
-The formula *φ* is *satisfied* in the pointed model $(M,w)$ iff $(M,w)\vDash\varphi$.
+The formula *φ* is ***satisfied*** in the pointed model $(M,w)$ iff $(M,w)\vDash\varphi$.
 
-In full generality, the indistinguishability interpretation holds that for $K_{a}$ to capture knowledge, the relation $R_{a}$ must be an equivalence relation. A pointed Kripke model for which this is satisfied is often referred to as an *epistemic state*. In epistemic states, the relation is denoted by a tilde with a subscript: $\sim_{a}$.
+In full generality, the indistinguishability interpretation holds that for $K_{a}$ to capture knowledge, the relation $R_{a}$ must be an equivalence relation. A pointed Kripke model for which this is satisfied is often referred to as an ***epistemic state***. In epistemic states, the relation is denoted by a tilde with a subscript: $\sim_{a}$.
 
 Given pointed Kripke models and the indistinguishability interpretation, we have a semantic specification of one concept of knowledge. With this approach, we can build models of situations involving knowledge as we did with the toy example of Zoe and the hens. We can use these models to determine what the agent does or does not know. We also have the formal foundations in place to begin asking questions concerning how the agent’s knowledge or uncertainty develops when it receives *new information*, a topic studied in dynamic epistemic logic.
 
@@ -218,7 +218,7 @@ Returning to pointed Kripke models, we can now ask which principles these models
 
 To abstract suitably, take a pointed Kripke model $(M,w)=(W,R,V,w)$. To determine whether the relation of this model is an equivalence relation we only need to consider the worlds and the relation. The pair of these elements constitute the fundamental level of the model and is called the *frame* of the model:
 
-**Definition:** Let $(M,w)=(W,R,V,w)$ be a pointed Kripke model. Then the pair $(W,R)$ is called the *frame* of $(M,w)$. Any model $(M',w')$ which shares the frame $(W,R)$ is said to be *built on* $(W,R)$.
+**Definition:** Let $(M,w)=(W,R,V,w)$ be a pointed Kripke model. Then the pair $(W,R)$ is called the ***frame*** of $(M,w)$. Any model $(M',w')$ which shares the frame $(W,R)$ is said to be ***built on*** $(W,R)$.
 
 Consider again the epistemic state for Zoe from above:
 
@@ -230,9 +230,9 @@ Several other models may be built on the same frame. The following are two examp
 
 With the notion of a frame, we may define the notion of validity of interest. It is the second term defined in the following:
 
-**Definition:** A formula *φ* is said to be *valid in the frame* $F=(W,R)$ iff every pointed Kripke model build on *F* satisfies *φ*, i.e., iff for every $(M,w)=(F,V,w)=(W,R,V,w)$, $(M,w)\vDash\varphi$. A formula *φ* is *valid on the class of frames* $\mathsf{F}$ (written $\mathsf{F}\vDash\varphi$) iff *φ* is valid in every frame *F* in $\mathsf{F}$.
+**Definition:** A formula *φ* is said to be ***valid in the frame*** $F=(W,R)$ iff every pointed Kripke model build on *F* satisfies *φ*, i.e., iff for every $(M,w)=(F,V,w)=(W,R,V,w)$, $(M,w)\vDash\varphi$. A formula *φ* is ***valid on the class of frames*** $\mathsf{F}$ (written $\mathsf{F}\vDash\varphi$) iff *φ* is valid in every frame *F* in $\mathsf{F}$.
 
-The set of formulas valid on a class of frames $\mathsf{F}$ is called the *logic* of $\mathsf{F}$. Denote this logic that is, the set $\{\varphi\in\mathcal{L}_{K}\colon\mathsf{F}\vDash\varphi\}$ by $\Lambda_{\mathsf{F}}$. This is a *semantic* approach to defining logics, each just a set of formulas. One may also define logics *proof-theoretically* by defining a logic as the set of formulas provable in some system. With logics as just sets of formulas, *soundness* and *completeness* results may then be expressed using set inclusion. To exemplify, let $\mathsf{A}$ be a set of axioms and write $\mathsf{A}\vdash\varphi$ when *φ* is provable from $\mathsf{A}$ using some given set of deduction rules. Let the resulting logic the set of theorems be denoted $\Lambda_{\mathsf{A}}$. It is the set of formulas from $\mathcal{L}_{K}$ provable from $\mathsf{A}$, i.e., the set $\{\varphi\in\mathcal{L}_{K}\colon\mathsf{A}\vdash\varphi\}$. The logic $\Lambda_{\mathsf{A}}$ is sound with respect to $\mathsf{F}$ iff $\Lambda_{\mathsf{A}}\subseteq\Lambda_{\mathsf{F}}$ and complete with respect to $\mathsf{F}$ iff $\Lambda_{\mathsf{F}}\subseteq\Lambda_{\mathsf{A}}$.[^note-3]
+The set of formulas valid on a class of frames $\mathsf{F}$ is called the ***logic*** of $\mathsf{F}$. Denote this logic that is, the set $\{\varphi\in\mathcal{L}_{K}\colon\mathsf{F}\vDash\varphi\}$ by $\Lambda_{\mathsf{F}}$. This is a *semantic* approach to defining logics, each just a set of formulas. One may also define logics *proof-theoretically* by defining a logic as the set of formulas provable in some system. With logics as just sets of formulas, *soundness* and *completeness* results may then be expressed using set inclusion. To exemplify, let $\mathsf{A}$ be a set of axioms and write $\mathsf{A}\vdash\varphi$ when *φ* is provable from $\mathsf{A}$ using some given set of deduction rules. Let the resulting logic the set of theorems be denoted $\Lambda_{\mathsf{A}}$. It is the set of formulas from $\mathcal{L}_{K}$ provable from $\mathsf{A}$, i.e., the set $\{\varphi\in\mathcal{L}_{K}\colon\mathsf{A}\vdash\varphi\}$. The logic $\Lambda_{\mathsf{A}}$ is sound with respect to $\mathsf{F}$ iff $\Lambda_{\mathsf{A}}\subseteq\Lambda_{\mathsf{F}}$ and complete with respect to $\mathsf{F}$ iff $\Lambda_{\mathsf{F}}\subseteq\Lambda_{\mathsf{A}}$.[^note-3]
 
 Returning to the indistinguishability interpretation of knowledge, we may then seek to find the epistemological principles which the interpretation is committed to. There is a trivial answer of little direct interest: Let $\mathsf{EQ}$ be the class of frames with equivalence relations. Then the logic of the indistinguishability interpretation is the set of formulas of $\mathcal{L}_{K}$ which are valid over $\mathsf{EQ}$, i.e., the set $\Lambda_{\mathsf{EQ}}:=\{\varphi\in\mathcal{L}_{K}\colon\mathsf{EQ}\vDash\varphi\}$. Not very informative.
 
@@ -242,14 +242,14 @@ $$ \begin{align} \textrm{K} & & K_{a}(\varphi\rightarrow\psi) & \rightarrow(K_{a
 
 In lieu of epistemological intuitions, we could discuss a concept of knowledge by discussing these and other principles. Should we accept T as a principle that knowledge follows? What about the others? Before we proceed, let us first make clear how the four above principles relate to the indistinguishability interpretation. To do so, we need the notion of a *normal modal logic*. In the below definition, as in the above principles, we are technically using *formula schemas*. For example, in $K_{a}\varphi\rightarrow\varphi$, the *φ* is a variable ranging over formulas in $\mathcal{L}_{K}$. Thus, strictly speaking, $K_{a}\varphi\rightarrow\varphi$ is not a formula, but a *scheme* for obtaining a formula. A *modal instance* of $K_{a}\varphi\rightarrow\varphi$ is then the formula obtained by letting *φ* be some concrete formula from $\mathcal{L}_{K}$. For example, $K_{a}p\rightarrow p$ and $K_{a}(p\wedge K_{a}q)\rightarrow(p\wedge K_{a}q)$ are both modal instances of T.
 
-**Definition:** Let $\Lambda\subseteq\mathcal{L}_{K}$ be a set of modal formulas. Then $\Lambda$ is a *normal modal logic* iff $\Lambda$ satisfies all of the following:
+**Definition:** Let $\Lambda\subseteq\mathcal{L}_{K}$ be a set of modal formulas. Then $\Lambda$ is a ***normal modal logic*** iff $\Lambda$ satisfies all of the following:
 
 1. $\Lambda$ contains all modal instances of the classical propositional tautologies.
 2. $\Lambda$ contains all modal instances of K.
 3. $\Lambda$ is closed under *modus ponens*: If $\varphi\in\Lambda$ and $\varphi\rightarrow\psi\in\Lambda$, then $\psi\in\Lambda$.
 4. $\Lambda$ is closed under *generalization* (a.k.a. *necessitation*): If $\varphi\in\Lambda$, then $K_{a}\varphi\in\Lambda$.
 
-There is a unique *smallest* normal modal logic (given the set *Atom*)that which contains exactly what is required by the definition and *nothing more*. It is often called the *minimal normal modal logic* and is denoted by the boldface **K** (not to be confused with the non-boldface K denoting the schema).
+There is a unique *smallest* normal modal logic (given the set *Atom*)that which contains exactly what is required by the definition and *nothing more*. It is often called the ***minimal normal modal logic*** and is denoted by the boldface **K** (not to be confused with the non-boldface K denoting the schema).
 
 The logic **K** is just a set of formulas from $\mathcal{L}_{K}$. I.e., **K** $\subseteq\mathcal{L}_{K}$. Points 1.4. gives a perspective on this set: They provide an *axiomatization*. Often, as below, the schema K is referred to as an axiom, though really the instantiations of K are axioms.
 
@@ -292,7 +292,7 @@ In Table 1, the subscript on $R_{a}$ is omitted to ease readability, and so is t
 | .3.2 | $(\widehat{K}_{a}\varphi\wedge\widehat{K}_{a}K_{a}\psi)\rightarrow K_{a}(\widehat{K}_{a}\varphi\vee\psi)$ Semi-Euclidean: $\forall x,y,z,$ if $xRy$ and $xRz$, then $zRx$ or $yRz$. |
 | .4 | $(\varphi\wedge\widehat{K}_{a}K_{a}\varphi)\rightarrow K_{a}\varphi$ Name unknown to authors: $\forall x,y,$ if $xRy$, then $\forall z$, if $xRz$, then $x = z$ or $yRz$. |
 
-*Table 1.* Epistemic Principles and their frame conditions.
+\*Table 1.\* Epistemic Principles and their frame conditions.
 
 Adding epistemic principles as axioms to the basic minimal normal modal logic **K** yields new, normal modal logics. A selection is:
 
@@ -308,7 +308,7 @@ Adding epistemic principles as axioms to the basic minimal normal modal logic **
 | **S4.4** | $\{\text{K},\text{T},\text{4},\text{.4}\}$ |
 | **S5** | $\{\text{K},\text{T},\text{5}\}$ |
 
-*Table 2.* Logic names and axioms
+\*Table 2.\* Logic names and axioms
 
 Different axiomatic specifications may produce the same logic. Notice, e.g., that the table’s axiomatic specification $\{\text{K},\text{T},\text{5}\}$ of **S5** does not match that given in the definition preceding Theorem 1, $\{\text{K},\text{T},\text{B},\text{4}\}$. Note also, there is more than one axiomatization of **S5**: the axioms $\{\text{K},\text{T},\text{5}\}$, $\{\text{K},\text{T},\text{B},\text{4}\}$, $\{\text{K},\text{D},\text{B},\text{4}\}$ and $\{\text{K},\text{D},\text{B},\text{5}\}$ all give the **S5** logic (e.g., Chellas 1980)[^chellas-1980]. An often seen variant is $\{\text{K},\text{T},\text{4},\text{5}\}$. However, it is redundant to add it as all its instances can be proven from K, T and 5. But as both 4 and 5 capture important epistemic principles (see Section 2.6), 4 is often sometimes included for the sake of philosophical transparency. For more equivalences between modal logics, see, e.g., the entry on modal logic or Chellas (1980)[^chellas-1980] or Blackburn, de Rijke, and Venema (2001).
 
@@ -324,7 +324,7 @@ $$\varphi::=p\mid \neg\varphi\mid (\varphi\wedge\varphi)\mid K_{a}\psi\mid B_{a}
 
 To interpret knowledge and belief formulas together in pointed Kripke models, all that is needed is an additional relation between possible worlds:
 
-**Definition:** A *pointed Kripke model* for $\mathcal{L}_{KB}$ is a tuple $(M,w)=(W,R_{K},R_{B},V,w)$ where
+**Definition:** A ***pointed Kripke model*** for $\mathcal{L}_{KB}$ is a tuple $(M,w)=(W,R_{K},R_{B},V,w)$ where
 
 - *W* is a non-empty set of possible worlds,
 - $R_{K}$ and $R_{B}$ are a binary relations on *W*,
@@ -361,7 +361,7 @@ Of the principles D, 4 and 5, the two latter have received so far the most atten
 
 $$ \begin{align} K_{a}\varphi & \rightarrow K_{a}K_{a}\varphi\\ B_{a}\varphi & \rightarrow B_{a}B_{a}\varphi\\ \end{align} $$
 
-are often referred to as *principles of positive introspection*, or for knowledge the *‘KK’ principle*. Both principles are deemed acceptable by, e.g., Hintikka (1962)[^hintikka-1962] on grounds *different* from introspection. He argues based on an autoepistemic analysis of knowledge, using a non-Kripkean possible worlds semantics called *model systems*. Hintikka holds that when an agent commits to knowing *φ*, the agent commits to holding the same attitude no matter what new information the agent will encounter in the future. This entails that in all the agent’s epistemic alternatives—for Hintikka, all the model sets (partial descriptions of possible worlds) where the agent knows at least as much they now do&\madash the agent still knows *φ*. As $K_{a}\varphi$ thus holds in all the agent’s epistemic alternatives, Hintikka concludes that $K_{a}K_{a}\varphi$. Likewise, Hintikka endorses 4 for belief, but Lenzen raises objections (Lenzen 1978: ch. 4)[^lenzen-1978].
+are often referred to as *principles of positive introspection*, or for knowledge the *‘KK’ principle*. Both principles are deemed acceptable by, e.g., Hintikka (1962)[^hintikka-1962] on grounds *different* from introspection. He argues based on an autoepistemic analysis of knowledge, using a non-Kripkean possible worlds semantics called *model systems*. Hintikka holds that when an agent commits to knowing *φ*, the agent commits to holding the same attitude no matter what new information the agent will encounter in the future. This entails that in all the agent’s epistemic alternatives—for Hintikka, all the model sets (partial descriptions of possible worlds) where the agent knows at least as much they now do&\\madash the agent still knows *φ*. As $K_{a}\varphi$ thus holds in all the agent’s epistemic alternatives, Hintikka concludes that $K_{a}K_{a}\varphi$. Likewise, Hintikka endorses 4 for belief, but Lenzen raises objections (Lenzen 1978: ch. 4)[^lenzen-1978].
 
 Williamson argues against the general acceptability of the principle (Williamson 2000: ch. 5)[^williamson-2000] for a concept of knowledge based on slightly inexact observations, a so-called *margin of error principle* (see, e.g., Aucher 2014 for a short summary)[^aucher-2014].
 
@@ -423,7 +423,7 @@ $$\varphi::=p\mid \neg\varphi\mid (\varphi\wedge\varphi)\mid K_{i}\varphi\,\text
 
 To represent knowledge for all *n* agents jointly in pointed Kripke models, all that is needed is to add suitably many relations:
 
-**Definition:** A *pointed Kripke model* for $\mathcal{L}_{Kn}$ is a tuple $(M,w)=(W,\{R_{i}\}_{i\in\mathcal{A}},V,w)$ where
+**Definition:** A ***pointed Kripke model*** for $\mathcal{L}_{Kn}$ is a tuple $(M,w)=(W,\{R_{i}\}_{i\in\mathcal{A}},V,w)$ where
 
 - *W* is a non-empty set of possible worlds,
 - For every $i\in\mathcal{A}$, $R_{i}$ is a binary relation on *W*,
@@ -446,7 +446,7 @@ Multi-agent systems are interesting for other reasons than to represent higher-o
 
 $$D_{G}\text{ for }G\subseteq\mathcal{A},$$
 
-to make $D_{G}\varphi$ a well-formed formula. Where $G\subseteq\mathcal{A}$ is a group of agents, the formula $D_{G}\varphi$ reads that it is distributed knowledge in the group *G* that *φ*.
+to make $D_{G}\varphi$ a well-formed formula. Where $G\subseteq\mathcal{A}$ is a group of agents, the formula $D_{G}\varphi$ reads that it is *distributed knowledge in the group G that φ*.
 
 To evaluate $D_{G}\varphi$, we define a new relation from those already present in the model. The idea behind the definition is that if some one agent has eliminated a world as an epistemic alternative, then so will the group. Define the relation as the intersection of the individual agents’ relations:
 

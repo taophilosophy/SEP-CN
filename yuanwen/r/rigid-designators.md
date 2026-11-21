@@ -153,7 +153,7 @@ Kripke’s arguments seem to have persuaded most of his audience (including Salm
 
 ##### 2.2.3.2 Assertoric Content and Ingredient Sense
 
-Assuming that Kripke’s arguments against widescopism are successful, it might appear that rigid and nonrigid designators differ in content. Thus, any statement *S* containing a proper name cannot have the same content as a statement *S*′ that differs from *S* just in the respect that a proper name in *S* is replaced by a non-rigid designator in *S*′. Following Stanley (whose precise formulations differ slightly from this and from each other: 1997a, pp. 568–9; 1997b, p. 135), we might call this the *Rigidity Thesis*.
+Assuming that Kripke’s arguments against widescopism are successful, it might appear that rigid and nonrigid designators differ in content. Thus, *any statement S containing a proper name cannot have the same content as a statement S′ that differs from S just in the respect that a proper name in S is replaced by a non-rigid designator in S′*. Following Stanley (whose precise formulations differ slightly from this and from each other: 1997a, pp. 568–9; 1997b, p. 135), we might call this the *Rigidity Thesis*.
 
 But Dummett has still another suggestion that, if successful, would refute the Rigidity Thesis (or at least one understanding of it). Consider the similarity between (1)–(4):
 

@@ -643,7 +643,7 @@ As of the November 2024 update, Henry Pickford has taken over responsibility for
 
 [^pippin-2005]: Pippin, R., 2005, “Negative Ethics: Adorno on the Falseness of Bourgeois Life,” in *The Persistence of Subjectivity: On the Kantian Aftermath*, Cambridge: Cambridge University Press: 98–120.
 
-[^plass-2006]: Plass, U., 2006, Language and History in Adorno’s Notes to Literature, London and New York: Routledge.
+[^plass-2006]: Plass, U., 2006, *Language and History in Adorno’s Notes to Literature*, London and New York: Routledge.
 
 [^rabinbach-2000]: Rabinbach, A., 2000, “Why Were the Jews Sacrificed? The Place of Antisemitism in *Dialectic of Enlightenment*,” *New German Critique*, 81: 49–64.
 

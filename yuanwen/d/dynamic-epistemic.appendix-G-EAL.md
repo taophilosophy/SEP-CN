@@ -55,11 +55,11 @@ $A_1$
 
 $A_2$
 
-*Figure G1.* The actions $(A_1,e_1)$ and $(A_2,f_2)$ are equivalent (van Eijck, Ruan, and Sadzik 2012; Sietsma and van Eijck 2012).
+\*Figure G1.\* The actions $(A_1,e_1)$ and $(A_2,f_2)$ are equivalent (van Eijck, Ruan, and Sadzik 2012; Sietsma and van Eijck 2012).
 
 It is possible to define a notion of bisimulation for actions, but it turns out that there are equivalent actions that are not bisimilar (van Eijck, Ruan, and Sadzik 2012; Sietsma and van Eijck 2012). This led to the search for a structural relationship between actions that hold if and only if the actions are equivalent. A notion of *parameterized action emulation* was proposed by van Eijck, Ruan, and Sadzik (2012), and a variant called *action emulation* was later proposed by Sietsma and van Eijck (2012). To introduce these, we first need the following preliminary definitions.
 
-Single negation, closure, atoms, and pre(*A*) (Sietsma and van Eijck 2012). Let *S* be a set of (ML)-formulas.
+**Single negation, closure, atoms, and pre(*A*) (Sietsma and van Eijck 2012).** Let *S* be a set of (ML)-formulas.
 
 - The *single negation* of an (ML)-formula *F*, written ${\sim} F$, is defined as follows: if *F* has the form $\lnot G$, then ${\sim} F$ is *G*; otherwise, ${\sim} F$ is $\lnot F$. The *single negation* of the set *S*, written ${\sim} S$, is the set consisting of the single negation of every formula in *S*.
 - The *closure* of *S* is the smallest set $\Cl(S)$ that contains *S* and is closed under subformulas (i.e., $F\in \Cl(S)$ and *G* a subformula of *F* together imply $G\in \Cl(S)$) and closed under single negations (i.e., ${\sim}\Cl(S)=\Cl(S)$).
@@ -137,7 +137,7 @@ Incorporating factual change into the theory of action models requires two modif
 - $(E,R,\pre)$ is an action model (as defined before); and
 - $\sub:(E\times\sP)\to\Lang$ is a *(finite) substitution*: a function mapping each event-letter pair $(e,p)\in E\times\sP$ to an $\Lang$-formula $\sub(e,p)$ subject to the restriction that $\sub(e,p)=p$ for all but finitely many pairs ($e,p)\in E\times\sP$.
 
-We then define the language \eqref{EAL+S} of Epistemic Action Logic with substitution along with the set $\AMS_*$ of pointed action models with substitution having preconditions in the language \eqref{EAL+S} much as we did for (EAL) and $\AM_*$ but with a slightly different recursive grammar (in which pointed action models come from $\AMS_*$ instead of from $\AM_*$):
+We then define the language \\eqref{EAL+S} of Epistemic Action Logic with substitution along with the set $\AMS_*$ of pointed action models with substitution having preconditions in the language \\eqref{EAL+S} much as we did for (EAL) and $\AM_*$ but with a slightly different recursive grammar (in which pointed action models come from $\AMS_*$ instead of from $\AM_*$):
 
 $$\begin{gather*}\taglabel{EAL+S} F \ccoloneqq p \mid F\land F\mid \lnot F \mid [a]F \mid [A,e]F \\ \small p\in\sP,\; a\in\sA,\; (A,e)\in\AMS_* \end{gather*}$$
 
@@ -172,20 +172,20 @@ $\small M[\mathsf{Flip}(q)]$
 
 $\small M[\mathsf{Flip}(q)][\mathsf{Flip}(q)]$
 
-*Figure G2.* The pointed action model $(\mathsf{Flip}(q),e)$ toggles the truth value of letter *q* in a way that is common knowledge to all.
+\*Figure G2.\* The pointed action model $(\mathsf{Flip}(q),e)$ toggles the truth value of letter *q* in a way that is common knowledge to all.
 
 Almost all results about action model logics carry through *mutatis mutandis* upon addition of valuation-changing substitutions. So in the interest of simplicity, we assume in what follows that, unless stated otherwise, our action models do not contain valuation-changing substitutions. It is worth noting that this assumption is often made in the DEL literature and, in light of how simple it is to include valuation-changing substitutions if they are desired, this assumption should not be viewed as a genuine limitation to a given piece of work.
 
 ### 3. Adding common knowledge
 
-To study the effect of common knowledge on action models, we define the language \eqref{EAL+C} of (EAL) with common knowledge along with the set $\AMC_*$ of pointed action models with preconditions in the language \eqref{EAL+C} according to the following recursive grammar:
+To study the effect of common knowledge on action models, we define the language \\eqref{EAL+C} of (EAL) with common knowledge along with the set $\AMC_*$ of pointed action models with preconditions in the language \\eqref{EAL+C} according to the following recursive grammar:
 
 $$\begin{gather*}\taglabel{EAL+C} F \ccoloneqq p \mid F\land F \mid \lnot F \mid [a]F \mid [A,e]F \mid [B*]F \\ \small p\in\sP,\; a\in\sA,\; (A,e)\in\AMC_*,\; B\subseteq\sA \end{gather*}$$
 
-The semantics of this language over pointed Kripke models is defined above. There are a number of interesting fragments of \eqref{EAL+C} obtained by restricting the action model modalities $[A,e]$ to have certain communicative forms. Here are a few examples.
+The semantics of this language over pointed Kripke models is defined above. There are a number of interesting fragments of \\eqref{EAL+C} obtained by restricting the action model modalities $[A,e]$ to have certain communicative forms. Here are a few examples.
 
-- (PUB+C) is the fragment of \eqref{EAL+C} obtained by requiring that any action model modality $[A,e]$ used in the formation of a formula be a public announcement modality $[\Pub(F),e]$. See Figure 4 (main article) for a picture of the action model $\Pub(p)$.
-- (PRI+C) is the fragment of \eqref{EAL+C} obtained by requiring that any action model modality $[A,e]$ used in the formation of a formula be a private announcement modality $[\Pri(F),e]$ Figure 3 (main article) depicts the action model $\Pri(p)$.
+- (PUB+C) is the fragment of \\eqref{EAL+C} obtained by requiring that any action model modality $[A,e]$ used in the formation of a formula be a public announcement modality $[\Pub(F),e]$. See Figure 4 (main article) for a picture of the action model $\Pub(p)$.
+- (PRI+C) is the fragment of \\eqref{EAL+C} obtained by requiring that any action model modality $[A,e]$ used in the formation of a formula be a private announcement modality $[\Pri(F),e]$ Figure 3 (main article) depicts the action model $\Pri(p)$.
 
 We now examine the axiomatic theory of EAL with common knowledge.
 
@@ -197,17 +197,17 @@ We now examine the axiomatic theory of EAL with common knowledge.
 - $[B*]F\leftrightarrow(F\land[B][B*]F)$, the “Mix axiom” “Common knowledge is equivalent to truth and group knowledge of common knowledge.”
 - $[B*](F\to[B]F)\to(F\to[B*]F)$, the “Induction axiom” “If there is common knowledge that truth implies group knowledge and there is truth, then there is common knowledge.”
 - CK Necessitation Rule: from *F*, infer $[B*]F$ “There is common knowledge of every validity.”
-- AM-CK Rule: given \eqref{EAL+C}-formulas $G_x$ for each event *x* in the action model *A*, from $$ \bigwedge_{e (R_B)*f} \left( (G_f\land \pre(f)\land (G_f\to[A,f]F))\to \bigwedge_{a\in B}\bigwedge_{f R_a g}[a]G_g \right) $$ infer $$ G_e\to[A,e][B*]F $$
+- AM-CK Rule: given \\eqref{EAL+C}-formulas $G_x$ for each event *x* in the action model *A*, from $$ \bigwedge_{e (R_B)*f} \left( (G_f\land \pre(f)\land (G_f\to[A,f]F))\to \bigwedge_{a\in B}\bigwedge_{f R_a g}[a]G_g \right) $$ infer $$ G_e\to[A,e][B*]F $$
 
 Just like for $\PALC$, there can be no reduction theorem for $\EALC$. This makes for a more intricate completeness proof.
 
-**$\EALC$ Soundness and Completeness (Baltag, Moss, and Solecki 1999; van Ditmarsch, van der Hoek, and Kooi 2007).** $\EALC$ is sound and complete with respect to the collection $\sC_*$ of pointed Kripke models for which the underlying logic $\EAL$ is sound and complete. That is, for each \eqref{EAL+C}-formula *F*, we have $\EALC\vdash F$ if and only if $\sC_*\models F$.
+**$\EALC$ Soundness and Completeness (Baltag, Moss, and Solecki 1999; van Ditmarsch, van der Hoek, and Kooi 2007).** $\EALC$ is sound and complete with respect to the collection $\sC_*$ of pointed Kripke models for which the underlying logic $\EAL$ is sound and complete. That is, for each \\eqref{EAL+C}-formula *F*, we have $\EALC\vdash F$ if and only if $\sC_*\models F$.
 
-We summarize some of the known expressive relationships between various fragments of \eqref{EAL+C} over the class of all pointed Kripke models. Relationships over various other classes are reported by van Ditmarsch, van der Hoek, and Kooi (2007).
+We summarize some of the known expressive relationships between various fragments of \\eqref{EAL+C} over the class of all pointed Kripke models. Relationships over various other classes are reported by van Ditmarsch, van der Hoek, and Kooi (2007).
 
 **Relative Expressivity Theorem.** Over the class of all pointed Kripke models, we have each of the following.
 
-- \eqref{EAL+C} is strictly more expressive than each of (PUB+C) and (PRI+C) (Baltag, Moss, and Solecki 1999).
+- \\eqref{EAL+C} is strictly more expressive than each of (PUB+C) and (PRI+C) (Baltag, Moss, and Solecki 1999).
 - (PUB+C) and (PRI+C) are expressively incomparable: there is a (PUB+C)-formula that cannot be expressed in (PRI+C) (Renne 2008), and there is a (PRI+C)-formula that cannot be expressed in (PUB+C) (Baltag, Moss, and Solecki 1999).
 - (PUB+C) and (PAL+C) are equally expressive (Baltag, Moss, and Solecki 1999).
 - (PAL+C) is strictly more expressive than (ML+C) (Baltag, Moss, and Solecki 1999).

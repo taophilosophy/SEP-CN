@@ -18,7 +18,7 @@ The three principles, in full detail, are:
 >
 > **Product Rule:** If **A** and **B** are commuting self-adjoint operators corresponding to observables *A* and *B*, respectively, then if *A* · *B* is the unique observable corresponding to the self-adjoint operator **A** · **B** and
 >
-> > *v*(*A**B*)^{|φ>} = *v*(*A*)^{|φ>} · *v*(*B*)^{|φ>}
+> > *v*(*AB*)^{|φ>} = *v*(*A*)^{|φ>} · *v*(*B*)^{|φ>}
 
 In order to derive Sum Rule and Product Rule from FUNC, we use the following mathematical fact: Let **A** and **B** be commuting operators, then there is a maximal operator **C** and there are functions *f*, *g* such that **A** = *f*(**C**) and **B** = *g*(**C**).
 

@@ -58,17 +58,17 @@ The reader is advised to try solving the puzzles himself or herself and to read 
 
 There are many variations of these puzzles, some of which motivate logics that can handle more than just public communication. Restricting attention to the variations above, we note that a formal logic for reasoning about these puzzles must be able to represent various agents’ knowledge along with changes in this knowledge that are brought about as a result of public announcements. One important thing to note is that the announcements in the puzzles are all *truthful* and *completely trustworthy*: so that we can solve the puzzles, we tacitly assume (among other things) that everything that is announced is in fact true and that all agents accept the content of a public announcement without question. These assumptions are of course unrealistic in many everyday situations, and, to be sure, there are more sophisticated Dynamic Epistemic Logics that can address more complicated and nuanced attitudes agents may have with respect to the information they receive. Nevertheless, in an appropriately restricted situation, Public Announcement Logic provides a basic framework for reasoning about truthful, completely trustworthy public announcements.
 
-Given a nonempty set $\sP$ of propositional letters and a finite nonempty set $\sA$ of agents, the basic modal language \eqref{ML} is defined as follows:
+Given a nonempty set $\sP$ of propositional letters and a finite nonempty set $\sA$ of agents, the basic modal language \\eqref{ML} is defined as follows:
 
 $$\begin{gather*} F \ccoloneqq p \mid F \wedge F \mid \neg F \mid [a]F \\ \small p \in \sP,\; a \in \sA \taglabel{ML} \end{gather*}$$
 
-Formulas $[a]F$ are assigned a reading that is doxastic (“agent *a* believes *F*”) or epistemic (“agent *a* knows *F*”), with the particular reading depending on the application one has in mind. In this article we will use both readings interchangeably, choosing whichever is more convenient in a given context. In the language \eqref{ML}, Boolean connectives other than negation $\lnot$ and conjunction $\land$ are taken as abbreviations in terms of negation in conjunction as is familiar from any elementary Logic textbook. See [Appendix A](dynamic-epistemic.appendix-A-kripke.md) for further details on \eqref{ML} and its Kripke semantics.
+Formulas $[a]F$ are assigned a reading that is doxastic (“agent *a* believes *F*”) or epistemic (“agent *a* knows *F*”), with the particular reading depending on the application one has in mind. In this article we will use both readings interchangeably, choosing whichever is more convenient in a given context. In the language \\eqref{ML}, Boolean connectives other than negation $\lnot$ and conjunction $\land$ are taken as abbreviations in terms of negation in conjunction as is familiar from any elementary Logic textbook. See [Appendix A](dynamic-epistemic.appendix-A-kripke.md) for further details on \\eqref{ML} and its Kripke semantics.
 
-The language $\eqref{PAL}$ of Public Announcement Logic extends the basic modal language \eqref{ML} by adding formulas $[F!]G$ to express that “after the public announcement of *F*, formula *G* is true”:
+The language $\eqref{PAL}$ of Public Announcement Logic extends the basic modal language \\eqref{ML} by adding formulas $[F!]G$ to express that “after the public announcement of *F*, formula *G* is true”:
 
 $$\begin{gather*} F \ccoloneqq p \mid F \wedge F \mid \neg F \mid [a]F \mid [F!]F \\ \small p \in \sP,\; a \in \sA \taglabel{PAL} \end{gather*}$$
 
-Semantically, the formula $[F!]G$ is interpreted in a Kripke model as follows: to say that $[F!]G$ is true means that, whenever *F* is true, *G* is true after we eliminate all not-*F* possibilities (and all arrows to and from these possibilities). This makes sense: since the public announcement of *F* is completely trustworthy, all agents respond by collectively eliminating all non-*F* possibilities from consideration. So to see what obtains after a public announcement of *F* occurs, we eliminate the non-*F* worlds and then see what is true in the resulting situation. Formally, $\eqref{PAL}$-formulas are evaluated as an extension of the binary truth relation $\models$ between pointed Kripke models and \eqref{ML}-formulas (defined in [Appendix A](dynamic-epistemic.appendix-A-kripke.md)) as follows: given a Kripke model $M=(W,R,V)$ and a world $w\in W$,
+Semantically, the formula $[F!]G$ is interpreted in a Kripke model as follows: to say that $[F!]G$ is true means that, whenever *F* is true, *G* is true after we eliminate all not-*F* possibilities (and all arrows to and from these possibilities). This makes sense: since the public announcement of *F* is completely trustworthy, all agents respond by collectively eliminating all non-*F* possibilities from consideration. So to see what obtains after a public announcement of *F* occurs, we eliminate the non-*F* worlds and then see what is true in the resulting situation. Formally, $\eqref{PAL}$-formulas are evaluated as an extension of the binary truth relation $\models$ between pointed Kripke models and \\eqref{ML}-formulas (defined in [Appendix A](dynamic-epistemic.appendix-A-kripke.md)) as follows: given a Kripke model $M=(W,R,V)$ and a world $w\in W$,
 
 - $M,w\models p$ holds if and only if $w\in V(p)$;
 - $M,w\models F\land G$ holds if and only if both $M,w\models F$ and $M,w\models G$;
@@ -96,17 +96,17 @@ See [Appendix C](dynamic-epistemic.appendix-C-relations.md) for the definition o
 - If $R_a$ is Euclidean, then so is $R[F!]_a$.
 - If $R_a$ is serial and Euclidean, then so is $R[F\land\bigwedge_{x\in\sA}\may{x} F!]_a$.
 
-The Public Announcement Closure Theorem tells us that reflexivity, transitivity, and Euclideanness are always closed under the public announcement operation. Seriality is in general not; however, if seriality comes with Euclideanness, then public announcements of formulas of the form $F\land\bigwedge_{x\in\sA}\may{x} F$ (read, “*F* is true and consistent with each agent’s knowledge”) preserve both seriality and Euclideanness. Therefore, if we wish to study classes of models that are serial, then, to make use of the above theorem, we will need to further restrict to models that are both serial and Euclidean and we will need to restrict the language of public announcements so that all announcement formulas have this form. (One could also restrict to another form, so long as public announcements of this form preserve seriality over some class $\sC$ of serial models.) Restricting the language \eqref{PAL} by requiring that public announcements have the form $F\land\bigwedge_{x\in\sA}\may{x} F$ leads to the language \eqref{sPAL} of *serial* Public Announcement Logic, which we may use when interested in serial and Euclidean Kripke models.
+The Public Announcement Closure Theorem tells us that reflexivity, transitivity, and Euclideanness are always closed under the public announcement operation. Seriality is in general not; however, if seriality comes with Euclideanness, then public announcements of formulas of the form $F\land\bigwedge_{x\in\sA}\may{x} F$ (read, “*F* is true and consistent with each agent’s knowledge”) preserve both seriality and Euclideanness. Therefore, if we wish to study classes of models that are serial, then, to make use of the above theorem, we will need to further restrict to models that are both serial and Euclidean and we will need to restrict the language of public announcements so that all announcement formulas have this form. (One could also restrict to another form, so long as public announcements of this form preserve seriality over some class $\sC$ of serial models.) Restricting the language \\eqref{PAL} by requiring that public announcements have the form $F\land\bigwedge_{x\in\sA}\may{x} F$ leads to the language \\eqref{sPAL} of *serial* Public Announcement Logic, which we may use when interested in serial and Euclidean Kripke models.
 
 $$\begin{gather*} F \ccoloneqq p \mid F \wedge F \mid \neg F \mid [a]F \mid [F\land\bigwedge_{x\in\sA}\may{x} F!]F\\ \small p \in \sP,\; a \in \sA \taglabel{sPAL} \end{gather*}$$
 
-Given a class of Kripke models satisfying certain properties and a modal logic $\L$ in the language \eqref{ML} that can reason about that class, we would like to construct a Public Announcement Logic whose soundness and completeness are straightforwardly proved. To do this, we would like to know in advance that $\L$ is sound and complete with respect to the class of models in question, that some public announcement extension $\LPAL$ of the language \eqref{ML} (e.g., the language \eqref{sPAL} or maybe even \eqref{PAL} itself) will include announcements that do not spoil closure, and that there is an easy way for us to determine the truth of $\LPAL$-formulas by looking only the underlying modal language \eqref{ML}. This way, we can “reduce” completeness of the public announcement theory to the completeness of the basic modal theory $\L$. We call such theories for which this is possible *PAL-friendly*.
+Given a class of Kripke models satisfying certain properties and a modal logic $\L$ in the language \\eqref{ML} that can reason about that class, we would like to construct a Public Announcement Logic whose soundness and completeness are straightforwardly proved. To do this, we would like to know in advance that $\L$ is sound and complete with respect to the class of models in question, that some public announcement extension $\LPAL$ of the language \\eqref{ML} (e.g., the language \\eqref{sPAL} or maybe even \\eqref{PAL} itself) will include announcements that do not spoil closure, and that there is an easy way for us to determine the truth of $\LPAL$-formulas by looking only the underlying modal language \\eqref{ML}. This way, we can “reduce” completeness of the public announcement theory to the completeness of the basic modal theory $\L$. We call such theories for which this is possible *PAL-friendly*.
 
 **PAL-friendly theory.** To say that a logic $\L$ is *PAL-friendly* means we have the following:
 
-- $\L$ is a normal multi-modal logic in the language \eqref{ML} (i.e., with modals $[a]$ for each agent $a\in\sA$),
+- $\L$ is a normal multi-modal logic in the language \\eqref{ML} (i.e., with modals $[a]$ for each agent $a\in\sA$),
 - there is a class of Kripke models $\sC$ such that $\L$ is sound and complete with respect to the collection of pointed Kripke models based on models in $\sC$, and
-- there is a language $\LPAL$ (the “announcement extension of $\L$”) obtained from \eqref{PAL} by restricting the form of public announcement modals $[F!]$ such that $\sC$ is closed under public announcements of this form (i.e., performing a public announcement of this form on a model in $\sC$ having at least one world at which the announced formula is true yields another model in $\sC$).
+- there is a language $\LPAL$ (the “announcement extension of $\L$”) obtained from \\eqref{PAL} by restricting the form of public announcement modals $[F!]$ such that $\sC$ is closed under public announcements of this form (i.e., performing a public announcement of this form on a model in $\sC$ having at least one world at which the announced formula is true yields another model in $\sC$).
 
 See [Appendix D](dynamic-epistemic.appendix-D-normal-ML.md) for the exact meaning of the first component of a PAL-friendly theory.
 
@@ -130,7 +130,7 @@ Notice that the last formula does not contain public announcements. Hence we see
 
 **$\PAL$ Reduction Theorem.** Given a PAL-friendly theory $\L$, every *F* in the language $\LPAL$ of Public Announcement Logic (without common knowledge) is $\PAL$-provably equivalent to a formula $F^\circ$ coming from the announcement-free fragment of $\LPAL$.
 
-The Reduction Theorem makes proving completeness of the axiomatic theory with respect to the appropriate class of pointed Kripke models easy: since every $\LPAL$-formula can all be expressed using a provably equivalent announcement-free \eqref{ML}-formula, completeness of the theory $\PAL$ follows by the Reduction Theorem, the soundness of $\PAL$, and the known completeness of the underlying modal theory $\L$.
+The Reduction Theorem makes proving completeness of the axiomatic theory with respect to the appropriate class of pointed Kripke models easy: since every $\LPAL$-formula can all be expressed using a provably equivalent announcement-free \\eqref{ML}-formula, completeness of the theory $\PAL$ follows by the Reduction Theorem, the soundness of $\PAL$, and the known completeness of the underlying modal theory $\L$.
 
 **$\PAL$ Soundness and Completeness.** $\PAL$ is sound and complete with respect to the collection $\sC_*$ of pointed Kripke models for which the underlying PAL-friendly theory $\L$ is sound and complete. That is, for each $\LPAL$-formula *F*, we have that $\PAL\vdash F$ if and only if $\sC_*\models F$.
 
@@ -144,9 +144,9 @@ We conclude with a few complexity results for Public Announcement Logic.
 
 **PAL Complexity.** Let $\sC$ be the class of all Kripke models. Let $\sC_{\mathsf{S5}}$ be the class of Kripke models such that each binary accessibility relation is reflexive, transitive, and symmetric.
 
-- The satisfiability problem for single-agent \eqref{PAL} over $\sC_{\mathsf{S5}}$ is NP-complete (Lutz 2006)[^lutz-2006].
-- The satisfiability problem for multi-agent \eqref{PAL} over $\sC_{\mathsf{S5}}$ is PSPACE-complete (Lutz 2006)[^lutz-2006].
-- The model checking problem for \eqref{PAL} over $\sC$ is in P (Kooi and van Benthem 2004)[^kooi-2004][^benthem-2004].
+- The satisfiability problem for single-agent \\eqref{PAL} over $\sC_{\mathsf{S5}}$ is NP-complete (Lutz 2006)[^lutz-2006].
+- The satisfiability problem for multi-agent \\eqref{PAL} over $\sC_{\mathsf{S5}}$ is PSPACE-complete (Lutz 2006)[^lutz-2006].
+- The model checking problem for \\eqref{PAL} over $\sC$ is in P (Kooi and van Benthem 2004)[^kooi-2004][^benthem-2004].
 
 One thing to note about the theory $\PAL$ as presented above is that it is parameterized on a PAL-friendly logic $\L$. Therefore, “Public Announcement Logic” as an area of study in fact encompasses a wide-ranging family individual Public Announcement Logics, one for each instance of $\L$. Unless otherwise noted, the results and concepts we present apply to all logics within this family.
 
@@ -160,7 +160,7 @@ Finally, PAL-based solutions to the Cheryl’s Birthday, Muddy Children, and Sum
 
 #### 2.2.1 Common knowledge
 
-To reason about common knowledge and public announcements, we add the common knowledge operators $[B*]$ to the language for each group of agents $B\subseteq\sA$. The formula $[B*]F$ is read, ”it is common knowledge among the group *B* that *F* is true”. We define the language \eqref{PAL+C} of *public announcement logic with common knowledge* as follows:
+To reason about common knowledge and public announcements, we add the common knowledge operators $[B*]$ to the language for each group of agents $B\subseteq\sA$. The formula $[B*]F$ is read, ”it is common knowledge among the group *B* that *F* is true”. We define the language \\eqref{PAL+C} of *public announcement logic with common knowledge* as follows:
 
 $$\begin{gather*} F \ccoloneqq p \mid F \wedge F \mid \neg F \mid [a]F \mid [F!]F \mid [B*]F \\ \small p \in \sP,\; a \in \sA,\; B\subseteq\sA \taglabel{PAL+C} \end{gather*}$$
 
@@ -170,7 +170,7 @@ $[B]F$ denotes $\bigwedge_{a\in B}[a]F$ — “everyone in group *B* knows (or b
 
 $[C]F$ denotes $[\sA*]F$ — “it is common knowledge (or belief) that *F* is true.”
 
-For convenience in what follows, we will adopt the epistemic (i.e., knowledge) reading of formulas in the remainder of this subsection. In particular, using the language \eqref{PAL+C}, we are able to provide a formal sense in which public announcements bring about common knowledge.
+For convenience in what follows, we will adopt the epistemic (i.e., knowledge) reading of formulas in the remainder of this subsection. In particular, using the language \\eqref{PAL+C}, we are able to provide a formal sense in which public announcements bring about common knowledge.
 
 **Theorem.** For each pointed Kripke model $(M,w)$, we have:
 
@@ -189,21 +189,21 @@ We now examine the axiomatic theory of public announcement logic with common kno
 - CK Necessitation Rule: from *F*, infer $[B*]F$ “There is common knowledge of every validity.”
 - Announcement-CK Rule: from $H\to[F!]G$ and $(H\land F)\to[B]H$, infer $H\to[F!][B*]G$ “If *H* guarantees the truth of *G* after *F* is announced and the joint truth of *H* and *F* guarantees group knowledge of *H*, then *H* guarantees the announcement of *F* will lead to common knowledge of *G*.”
 
-**$\PALC$ Soundness and Completeness (Baltag, Moss, and Solecki 1998, 1999; see also van Ditmarsch, van der Hoek, and Kooi 2007)[^baltag-1998][^baltag-1999][^kooi-2007][^ditmarsch-2007][^ditmarsch-2007-2].** $\PALC$ is sound and complete with respect to the collection $\sC_*$ of pointed Kripke models for which the underlying public announcement logic $\PAL$ is sound and complete. That is, for each \eqref{PAL+C}-formula *F*, we have that $\PALC\vdash F$ if and only if $\sC_*\models F$.
+**$\PALC$ Soundness and Completeness (Baltag, Moss, and Solecki 1998, 1999; see also van Ditmarsch, van der Hoek, and Kooi 2007)[^baltag-1998][^baltag-1999][^kooi-2007][^ditmarsch-2007][^ditmarsch-2007-2].** $\PALC$ is sound and complete with respect to the collection $\sC_*$ of pointed Kripke models for which the underlying public announcement logic $\PAL$ is sound and complete. That is, for each \\eqref{PAL+C}-formula *F*, we have that $\PALC\vdash F$ if and only if $\sC_*\models F$.
 
 Unlike the proof of completeness for the logic $\PAL$ without common knowledge, the proof for the logic $\PALC$ with common knowledge does not proceed by way of a reduction theorem. This is because adding common knowledge to the language strictly increases the expressivity.
 
-**Theorem (Baltag, Moss, and Solecki 1998, 1999; see also van Ditmarsch, van der Hoek, and Kooi 2007)[^baltag-1998][^baltag-1999][^kooi-2007][^ditmarsch-2007][^ditmarsch-2007-2].** Over the class of all pointed Kripke models, the language \eqref{PAL+C} of public announcement logic with common knowledge is strictly more expressive than language \eqref{PAL} without common knowledge. In particular, the \eqref{PAL+C}-formula $[p!][C]q$ cannot be expressed in \eqref{PAL} with respect to the class of all pointed Kripke models: for every \eqref{PAL}-formula *F* there exists a pointed Kripke model $(M,w)$ such that $M,w\not\models F\leftrightarrow[p!][C]q$.
+**Theorem (Baltag, Moss, and Solecki 1998, 1999; see also van Ditmarsch, van der Hoek, and Kooi 2007)[^baltag-1998][^baltag-1999][^kooi-2007][^ditmarsch-2007][^ditmarsch-2007-2].** Over the class of all pointed Kripke models, the language \\eqref{PAL+C} of public announcement logic with common knowledge is strictly more expressive than language \\eqref{PAL} without common knowledge. In particular, the \\eqref{PAL+C}-formula $[p!][C]q$ cannot be expressed in \\eqref{PAL} with respect to the class of all pointed Kripke models: for every \\eqref{PAL}-formula *F* there exists a pointed Kripke model $(M,w)$ such that $M,w\not\models F\leftrightarrow[p!][C]q$.
 
-This result rules out the possibility of a reduction theorem for $\PALC$: we cannot find a public announcement-free equivalent of every \eqref{PAL+C}-formula. This led van Benthem, van Eijck, and Kooi (2006) to develop a common knowledge-like operator for which a reduction theorem does hold. The result is the binary *relativized common knowledge* operator $[B*](F|G)$, which is read, “*F* is common knowledge among group *B* relative to the information that *G* is true”. The language \eqref{RCK} of relativized common knowledge is given by the following grammar:
+This result rules out the possibility of a reduction theorem for $\PALC$: we cannot find a public announcement-free equivalent of every \\eqref{PAL+C}-formula. This led van Benthem, van Eijck, and Kooi (2006) to develop a common knowledge-like operator for which a reduction theorem does hold. The result is the binary *relativized common knowledge* operator $[B*](F|G)$, which is read, “*F* is common knowledge among group *B* relative to the information that *G* is true”. The language \\eqref{RCK} of relativized common knowledge is given by the following grammar:
 
 $$\begin{gather*} F \ccoloneqq p \mid F \wedge F \mid \neg F \mid [a]F \mid [F!]F \mid [B*](F|F) \\ \small p \in \sP,\; a \in \sA,\; B\subseteq\sA \taglabel{RCK} \end{gather*}$$
 
-and the language \eqref{RCK+P} of relativized common knowledge with public announcements is obtained by adding public announcements to \eqref{RCK}:
+and the language \\eqref{RCK+P} of relativized common knowledge with public announcements is obtained by adding public announcements to \\eqref{RCK}:
 
 $$\begin{gather*} F \ccoloneqq p \mid F \wedge F \mid \neg F \mid [a]F \mid [F!]F \mid [B*](F|F) \mid [F!]F \\ \small p \in \sP,\; a \in \sA,\; B\subseteq\sA \taglabel{RCK+P} \end{gather*}$$
 
-The semantics of \eqref{RCK} is an extension of the semantics of \eqref{ML}, and the semantics of \eqref{RCK+P} is an extension of the semantics of \eqref{PAL}. In each case, the extension is obtained by adding the following inductive truth clause:
+The semantics of \\eqref{RCK} is an extension of the semantics of \\eqref{ML}, and the semantics of \\eqref{RCK+P} is an extension of the semantics of \\eqref{PAL}. In each case, the extension is obtained by adding the following inductive truth clause:
 
 - $M,w\models[B*](F|G)$ holds if and only if $M,v\models F$ for each *v* satisfying $w(R[G!]_B)^*v$
 
@@ -224,7 +224,7 @@ In particular, in the pointed model $(M,w)$ pictured in Figure 1, the formula $\
 
 *M*
 
-*Figure 1:* The pointed Kripke model $(M,w)$.
+\*Figure 1:\* The pointed Kripke model $(M,w)$.
 
 However, the formula $[p!]\lnot[\{a,b\}*][a]p$ is false at $(M,w)$ because, after the announcement of *p*, the model $M[p!]$ pictured in Figure 2 obtains, and all worlds in this model are $[a]p$-worlds. In fact, whenever *p* is true, the formula $[p!]\lnot[\{a,b\}*][a]p$ is *always* false: after the announcement of *p*, all that remains are *p*-worlds, and therefore every world is an $[a]p$-world.
 
@@ -232,16 +232,16 @@ However, the formula $[p!]\lnot[\{a,b\}*][a]p$ is false at $(M,w)$ because, afte
 
 $M[p!]$
 
-*Figure 2:* The pointed Kripke model $(M[p!],w)$.
+\*Figure 2:\* The pointed Kripke model $(M[p!],w)$.
 
 The axiomatic theories of relativized common knowledge with and without public announcements along with expressivity results for the corresponding languages are detailed in [Appendix F](dynamic-epistemic.appendix-F-RCK.md).
 
 We now state two complexity results for the languages of this subsection.
 
-**\eqref{PAL+C} and \eqref{RCK} Complexity.** Let $\sC$ be the class of all Kripke models. Let $\sC_{\mathsf{S5}}$ be the class of Kripke models such that each binary accessibility relation is reflexive, transitive, and symmetric.
+**\\eqref{PAL+C} and \\eqref{RCK} Complexity.** Let $\sC$ be the class of all Kripke models. Let $\sC_{\mathsf{S5}}$ be the class of Kripke models such that each binary accessibility relation is reflexive, transitive, and symmetric.
 
-- The satisfiability problem for each of \eqref{PAL+C} and \eqref{RCK} over $\sC_{\mathsf{S5}}$ is EXPTIME-complete (Lutz 2006)[^lutz-2006].
-- The model checking problem for each of \eqref{PAL+C} and \eqref{RCK} over $\sC$ is in P (Kooi and van Benthem 2004)[^kooi-2004][^benthem-2004].
+- The satisfiability problem for each of \\eqref{PAL+C} and \\eqref{RCK} over $\sC_{\mathsf{S5}}$ is EXPTIME-complete (Lutz 2006)[^lutz-2006].
+- The model checking problem for each of \\eqref{PAL+C} and \\eqref{RCK} over $\sC$ is in P (Kooi and van Benthem 2004)[^kooi-2004][^benthem-2004].
 
 In the remainder of the article, unless otherwise stated, we will generally assume that we are working with languages that do not contain common knowledge or relativized common knowledge.
 
@@ -254,7 +254,7 @@ Another notion of group knowledge is *distributed knowledge* (Fagin et al. 1995)
 It may seem as though public announcements always “succeed”, by which we mean that after something is announced, we are guaranteed that that it is true. After all, this is often the purpose of an announcement: by making the announcement, we wish to inform everyone of its truth. However, it is not hard to come up with announcements that are true when announced but false afterward; that is, not all announcements are successful. Here are a few everyday examples in plain English.
 
 - Agent *a*, who is visiting Amsterdam for the first time, steps off the plane in the Amsterdam Airport Schiphol and truthfully says, “*a* has never made a statement in Amsterdam”. This is unsuccessful because it is “self-defeating”: it rules out various past statements, but it itself is one of those ruled out, so the announcement violates what it says.
-- Agent *a* who does not know it is raining, is told, “It is raining but *a* does not know it”. This is an example of a *Moore formula*, which are sentences of the form “*p* is true but agent *a* does not know *p*.“ In the language \eqref{ML}, Moore formulas have the form $p\land\lnot[a]p$. An announcement of a Moore formula is unsuccessful because, after the announcement the agent comes to know the first conjunct *p* (the statement “it is raining” in the example), which therefore falsifies the second conjunct $\lnot[a]p$ (the statement “*a* does not know it is raining” in the example).
+- Agent *a* who does not know it is raining, is told, “It is raining but *a* does not know it”. This is an example of a *Moore formula*, which are sentences of the form “*p* is true but agent *a* does not know *p*.“ In the language \\eqref{ML}, Moore formulas have the form $p\land\lnot[a]p$. An announcement of a Moore formula is unsuccessful because, after the announcement the agent comes to know the first conjunct *p* (the statement “it is raining” in the example), which therefore falsifies the second conjunct $\lnot[a]p$ (the statement “*a* does not know it is raining” in the example).
 
 The opposite of unsuccessful formulas are the “successful” ones: these are the formulas that are true after they are announced. Here one should distinguish between “performative announcements” that bring about truth by their very occurrence (e.g., a judge says, “The objection is overruled”, which has the effect of making the objection overruled) and “informative announcements” that simply inform their listeners of truth (e.g., our mutual friend says, “I live on 207th Street”, which has the effect of informing us of something that is already true). Performative announcements are best addressed in a Dynamic Epistemic Logic setting using *factual changes*, a topic discussed in [Appendix G](dynamic-epistemic.appendix-G-EAL.md). For now our concern will be with informative announcements.
 
@@ -273,7 +273,7 @@ is unsuccessful: if (MF) is true, then its announcement eliminates all $\lnot p$
 
 An example of a successful formula is a propositional letter *p*. In particular, after an announcement of *p*, it is clear that *p* still holds (since the propositional valuation does not change); that is, $[p!]p$. Moreover, as the reader can easily verify, the formula $[a]p$ is also successful.
 
-In considering (un)successful formulas, a natural question arises: can we provide an syntactic characterization of the formulas that are (un)successful? That is, is there a way for us know whether a formula is (un)successful simply by looking at its form? Building off of the work of Visser et al. (1994) and Andréka, Németi, and van Benthem (1998), van Ditmarsch and Kooi (2006) provide one characterization of some of the successful \eqref{PAL+C}-formulas.
+In considering (un)successful formulas, a natural question arises: can we provide an syntactic characterization of the formulas that are (un)successful? That is, is there a way for us know whether a formula is (un)successful simply by looking at its form? Building off of the work of Visser et al. (1994) and Andréka, Németi, and van Benthem (1998), van Ditmarsch and Kooi (2006) provide one characterization of some of the successful \\eqref{PAL+C}-formulas.
 
 **Theorem (van Ditmarsch and Kooi 2006)[^ditmarsch-2006][^ditmarsch-2006-2].** The *preserved formulas* are formed by the following grammar. $$\begin{gather*} F \ccoloneqq p \mid \lnot p \mid F\land F \mid F\lor F\mid [a]F\mid [\lnot F!]F \mid [B*]F \\ \small p\in\sP,\; a\in\sA,\; B\subseteq\sA \end{gather*}$$ Every preserved formula is successful.
 
@@ -293,7 +293,7 @@ To begin, let us consider a specific example of a more complex communicative act
 
 $\Pri_a(p)$
 
-*Figure 3:* The pointed action model $(\Pri_a(p),e)$ for the completely private announcement of *p* to agent *a*.
+\*Figure 3:\* The pointed action model $(\Pri_a(p),e)$ for the completely private announcement of *p* to agent *a*.
 
 In the figure, our two events *e* and *f* are pictured as rectangles (to distinguish these from the circled worlds of a Kripke model). The formula appearing inside an event’s rectangle is what is announced when the event occurs. So event *e* represents the announcement of *p*, and event *f* represents the announcement of $\top$. The event that actually occurs, called the “point”, is indicated using a double rectangle; in this case, the point is *e*. The only event that *a* considers possible is *e* because the only *a*-arrow leaving *e* loops right back to *e*. But all of the agents in our agent set $\sA$ other than *a* mistakenly consider the alternative event *f* as the only possibility: all non–*a*-arrows leaving *e* point to *f*. Furthermore, from the perspective of event *f*, it is common knowledge that event *f* (and its announcement of $\top$) is the only event that occurs: every agent has exactly one arrow leaving *f* and this arrow loops right back to *f*. Accordingly, the structure pictured above describes the following action: *p* is to be announced, agent *a* is to know this, and all other agents are to mistakenly believe it is common knowledge that $\top$ is announced. Structures like those pictured in Figure 3 are called *action models*.
 
@@ -350,7 +350,7 @@ We saw the example of a completely private announcement in Figure 3, a complex a
 
 $\Pub(p)$
 
-*Figure 4:* The pointed action model $(\Pub(p),e)$ for the public announcement of *p*.
+\*Figure 4:\* The pointed action model $(\Pub(p),e)$ for the public announcement of *p*.
 
 It is not difficult to see that $\Pub(p)$ is just what we want: event *e* conveys the desired announcement and the reflexive arrows for each agent make it so that this event is common knowledge. It is important to note that in virtue of the fact that we can construct an action model for public announcements, it follows that action models are a generalization of public announcements.
 
@@ -360,7 +360,7 @@ We now turn to a more complicated action: the semi-private announcement of *p* t
 
 $\frac12\Pri_a(p)$
 
-*Figure 5:* The pointed action model $(\frac12\Pri_a(p),e)$ for the semi-private announcement of *p* to agent *a*.
+\*Figure 5:\* The pointed action model $(\frac12\Pri_a(p),e)$ for the semi-private announcement of *p* to agent *a*.
 
 We see that $\frac12\Pri_a(p)$ satisfies just what we want: the actual event that occurs is the point *e* (the announcement of the precondition *p*), agent *a* knows this, but all other agents consider it possible that either *e* (the announcement of *p*) or *f* (the announcement of $\lnot p$) occurred. Furthermore, the other agents know that *a* knows which event was the case (since at each of the events *e* and *f* that they consider possible, agent *a* knows the event that occurs). This is just what we want of a semi-private announcement.
 
@@ -376,19 +376,19 @@ Since the other agents are to believe that the above action occurs, they should 
 
 $\MPri_a(p)$
 
-*Figure 6:* The pointed action model $(\MPri_a(p),g)$ for the misleading private announcement of *p* to agent *a*.
+\*Figure 6:\* The pointed action model $(\MPri_a(p),g)$ for the misleading private announcement of *p* to agent *a*.
 
 Looking at $\MPri_a(p)$, we see that if we were to to delete event *g* (and all arrows to and from *g*), then we would obtain $\Pri_a(\lnot p)$. So events *e* and *f* in $\MPri_a(p)$ play the role of representing the “misdirection” the non-*a* agents experience: the private announcement of $\lnot p$ to agent *a*. However, it is event *g* that actually occurs: this event conveys to *a* that *p* is true while misleading the other agents into believing that it is event *e*, the event corresponding to the private announcement of $\lnot p$ to *a*, that occurs. In sum, *a* receives the information that *p* is true while the other agents are mislead into believing that *a* received the private announcement of $\lnot p$. One consequence of this is that non-*a* agents come to hold the following beliefs: $\lnot p$ is true, agent *a* knows this, and agent *a* believes the others believe that no new propositional information was provided. These beliefs are all incorrect. The non-*a* agents are therefore highly mislead.
 
 ### 3.3 The Logic of Epistemic Actions
 
-Now that we have seen a number of action models, we turn to the formal syntax and semantics of the language \eqref{EAL} of *Epistemic Action Logic* (a.k.a., *the Logic of Epistemic Actions*). We define the language \eqref{EAL} along with the set $\AM_*$ of pointed action models with preconditions in the language \eqref{EAL} according to the following recursive grammar:
+Now that we have seen a number of action models, we turn to the formal syntax and semantics of the language \\eqref{EAL} of *Epistemic Action Logic* (a.k.a., *the Logic of Epistemic Actions*). We define the language \\eqref{EAL} along with the set $\AM_*$ of pointed action models with preconditions in the language \\eqref{EAL} according to the following recursive grammar:
 
 $$\begin{gather*} F \ccoloneqq p \mid F \wedge F \mid \neg F \mid [a]F \mid [A,e]F \\ \small p \in \sP,\; a \in \sA,\; (A,e)\in\AM_* \taglabel{EAL} \end{gather*}$$
 
-To be clear: in the language \eqref{EAL}, the precondition $\pre^A(e)$ of an action model *A* may be a formula that includes an action model modality $[A',e']$ for some other action $(A',e')\in\AM_*$. For full technical details on how this works, please see [Appendix H](dynamic-epistemic.appendix-H-recursion.md).
+To be clear: in the language \\eqref{EAL}, the precondition $\pre^A(e)$ of an action model *A* may be a formula that includes an action model modality $[A',e']$ for some other action $(A',e')\in\AM_*$. For full technical details on how this works, please see [Appendix H](dynamic-epistemic.appendix-H-recursion.md).
 
-For convenience, we let $\AM$ denote the set of all action models whose preconditions are all in the language \eqref{EAL}. As we saw in the previous two subsections, the set $\AM_*$ contains pointed action models for public announcements (Figure 4), private announcements (Figure 3), semi-private announcements (Figure 5), and misleading private announcements (Figure 6), along with many others. The satisfaction relation $\models$ between pointed Kripke models and formulas of \eqref{EAL} is the smallest extension of the relation $\models$ for \eqref{ML} (see [Appendix A](dynamic-epistemic.appendix-A-kripke.md)) satisfying the following:
+For convenience, we let $\AM$ denote the set of all action models whose preconditions are all in the language \\eqref{EAL}. As we saw in the previous two subsections, the set $\AM_*$ contains pointed action models for public announcements (Figure 4), private announcements (Figure 3), semi-private announcements (Figure 5), and misleading private announcements (Figure 6), along with many others. The satisfaction relation $\models$ between pointed Kripke models and formulas of \\eqref{EAL} is the smallest extension of the relation $\models$ for \\eqref{ML} (see [Appendix A](dynamic-epistemic.appendix-A-kripke.md)) satisfying the following:
 
 - $M,w\models[A,e]G$ holds if and only if $M,w\not\models\pre^A(e)$ or $M[A],(w,e)\models G$, where the Kripke model $M[A]$ is defined via the BMS product update (Baltag, Moss, and Solecki 1999)[^baltag-1999].
 
@@ -409,9 +409,9 @@ This theorem, like the analogous theorem for Public Announcement Logic, is used 
 
 **Action-friendly logic.** To say that a logic $\L$ is *action-friendly* means we have the following:
 
-- $\L$ is a normal multi-modal logic in the language \eqref{ML} (i.e., with modals $[a]$ for each agent $a\in\sA$),
+- $\L$ is a normal multi-modal logic in the language \\eqref{ML} (i.e., with modals $[a]$ for each agent $a\in\sA$),
 - there is a class of Kripke models $\sC$ such that $\L$ is sound and complete with respect to the collection of pointed Kripke models based on models in $\sC$, and
-- there is a language $\LEAL$ (the “action model extension of $\L$”) obtained from \eqref{EAL} by restricting the form of action models such that $\sC$ is closed under the product update with executable actions of this form (i.e., performing an executable action model of this form on a model in $\sC$ yields another model in $\sC$).
+- there is a language $\LEAL$ (the “action model extension of $\L$”) obtained from \\eqref{EAL} by restricting the form of action models such that $\sC$ is closed under the product update with executable actions of this form (i.e., performing an executable action model of this form on a model in $\sC$ yields another model in $\sC$).
 
 The various axiomatic theories of modal logic with action models (without common knowledge) are obtained based on the choice of an underlying action-friendly logic $\L$.
 
@@ -429,7 +429,7 @@ The first three reduction axioms are nearly identical to the corresponding reduc
 
 As was the case for $\PAL$, the $\EAL$ reduction axioms allow us to “reduce” each formula containing action models to a provably equivalent formula whose action model modalities appear before formulas of lesser complexity, allowing us to eliminate action model modalities completely via a sequence of provable equivalences. As a consequence, we have the following.
 
-**$\EAL$ Reduction Theorem (Baltag, Moss, and Solecki 1998, 1999; see also Baltag and Moss 2004)[^baltag-2004][^baltag-1998][^baltag-1999].** Given an action-friendly logic $\L$, every *F* in the language $\LEAL$ of Epistemic Action Logic (without common knowledge) is $\EAL$-provably equivalent to a formula $F^\circ$ coming from the action model-free modal language \eqref{ML}.
+**$\EAL$ Reduction Theorem (Baltag, Moss, and Solecki 1998, 1999; see also Baltag and Moss 2004)[^baltag-2004][^baltag-1998][^baltag-1999].** Given an action-friendly logic $\L$, every *F* in the language $\LEAL$ of Epistemic Action Logic (without common knowledge) is $\EAL$-provably equivalent to a formula $F^\circ$ coming from the action model-free modal language \\eqref{ML}.
 
 Once we have proved $\EAL$ is sound, the Reduction Theorem leads us to axiomatic completeness via the known completeness of the underlying modal theory.
 
@@ -448,12 +448,12 @@ We saw above that for $\PAL$ it was possible to combine two consecutive announce
 - Composition Scheme: $[A,e][B,f]G\leftrightarrow[A\circ B,(e,f)]G$
 - Associativity Scheme: $[A\circ B,(e,f)][C,g]H \leftrightarrow [A,e][B\circ C,(f,g)]H$
 
-We conclude this subsection with two complexity results for \eqref{EAL}.
+We conclude this subsection with two complexity results for \\eqref{EAL}.
 
 **EAL Complexity (Aucher and Schwarzentruber 2013)[^aucher-2013].** Let $\sC$ be the class of all Kripke models.
 
-- The satisfiability problem for \eqref{EAL} over $\sC$ is NEXPTIME-complete.
-- The model checking problem for \eqref{EAL} over $\sC$ is PSPACE-complete.
+- The satisfiability problem for \\eqref{EAL} over $\sC$ is NEXPTIME-complete.
+- The model checking problem for \\eqref{EAL} over $\sC$ is PSPACE-complete.
 
 [Appendix G](dynamic-epistemic.appendix-G-EAL.md) provides information on action model equivalence (including the notions of action model bisimulation and emulation), studies a simple modification that enables action models to change the truth value of propositional letters (permitting so-called “factual changes”), and shows how to add common knowledge to $\EAL$.
 
@@ -461,7 +461,7 @@ We conclude this subsection with two complexity results for \eqref{EAL}.
 
 In this section, we mention some variants of the action model approach to Kripke model transformation.
 
-- **Graph modifier logics.** Aucher et al. (2009) study extensions of \eqref{ML} that contain modalities for performing certain graph modifying operations.
+- **Graph modifier logics.** Aucher et al. (2009) study extensions of \\eqref{ML} that contain modalities for performing certain graph modifying operations.
 - **Generalized Arrow Update Logic.** Kooi and Renne (2011b)[^renne-2011b] introduce a theory of model-changing operations that delete arrows instead of worlds. This theory, which is equivalent to $\EAL$ in terms of language expressivity and update expressivity, is a generalization of a simpler theory called Arrow Update Logic (see Section 4 of [Appendix E](dynamic-epistemic.appendix-E-PAL.md)).
 - **Logic of Communication and Change.** Van Benthem, van Eijck, and Kooi (2006) introduce $\LCC$, the Logic of Communication and Change, as a Propositional Dynamic Logic-like language that incorporates action models with “factual change”.
 - **General Dynamic Dynamic Logic.** Girard, Seligman, and Liu (2012) propose General Dynamic Dynamic Logic $\GDDL$, a Propositional Dynamic Logic-style language that has complex action model-like modalities that themselves contain Propositional Dynamic Logic-style instructions.
@@ -501,13 +501,13 @@ To better explain and illustrate the difference, let us consider the result of a
 
 $$\begin{equation*}\taglabel{MF} p\land\lnot[a]p, \end{equation*}$$
 
-informally read, “*p* is true but agent *a* does not believe it”. Let us suppose that this formula is true; that is, *p* is true and, indeed, agent *a* does not believe that *p* is true. Now suppose that agent *a* receives the formula \eqref{MF} from a completely trustworthy source and is supposed to change her beliefs to take into account the information this formula provides. In a dynamic belief change, she will accept the formula \eqref{MF} and hence, in particular, she will come to believe that *p* is true. But then the formula \eqref{MF} becomes false: she now believes *p* and therefore the formula $\lnot[a]p$ (“agent *a* does not believe *p*”) is false. So we see that this belief change is indeed dynamic: in revising her beliefs based on the incoming true formula \eqref{MF}, the truth of the formula \eqref{MF} was itself changed. That is, the “situation”, which involves the truth of *p* and the agent’s beliefs about this truth, changed as per the belief change brought about by the agent learning that \eqref{MF} is true. (As an aside, this example shows that for *dynamic* belief change, the AGM Success postulate is violated and so must be dropped.)
+informally read, “*p* is true but agent *a* does not believe it”. Let us suppose that this formula is true; that is, *p* is true and, indeed, agent *a* does not believe that *p* is true. Now suppose that agent *a* receives the formula \\eqref{MF} from a completely trustworthy source and is supposed to change her beliefs to take into account the information this formula provides. In a dynamic belief change, she will accept the formula \\eqref{MF} and hence, in particular, she will come to believe that *p* is true. But then the formula \\eqref{MF} becomes false: she now believes *p* and therefore the formula $\lnot[a]p$ (“agent *a* does not believe *p*”) is false. So we see that this belief change is indeed dynamic: in revising her beliefs based on the incoming true formula \\eqref{MF}, the truth of the formula \\eqref{MF} was itself changed. That is, the “situation”, which involves the truth of *p* and the agent’s beliefs about this truth, changed as per the belief change brought about by the agent learning that \\eqref{MF} is true. (As an aside, this example shows that for *dynamic* belief change, the AGM Success postulate is violated and so must be dropped.)
 
-Perhaps surprisingly, it is also possible to undergo a *static* belief change upon receipt of the true formula \eqref{MF} from a completely trustworthy source. For this to happen, we must think of the “situation” with regard to the truth of *p* and the agent’s beliefs about this truth as completely static, like a “snapshot in time”. We then look at how the agent’s beliefs about that static snapshot might change upon receipt of the completely trustworthy information that \eqref{MF} was true in the moment of that snapshot. To make sense of this, it might be helpful to think of it this way: the agent learns something *in the present* about what was true of her situation *in the past*. So her present views about her past beliefs change, but the past beliefs remain fixed. It is as though the agent studies a photograph of herself from the past: her “present self” changes her beliefs about that “past self” pictured in the photograph, fixed forever in time. In a certain respect, the “past self” might as well be a different person:
+Perhaps surprisingly, it is also possible to undergo a *static* belief change upon receipt of the true formula \\eqref{MF} from a completely trustworthy source. For this to happen, we must think of the “situation” with regard to the truth of *p* and the agent’s beliefs about this truth as completely static, like a “snapshot in time”. We then look at how the agent’s beliefs about that static snapshot might change upon receipt of the completely trustworthy information that \\eqref{MF} was true in the moment of that snapshot. To make sense of this, it might be helpful to think of it this way: the agent learns something *in the present* about what was true of her situation *in the past*. So her present views about her past beliefs change, but the past beliefs remain fixed. It is as though the agent studies a photograph of herself from the past: her “present self” changes her beliefs about that “past self” pictured in the photograph, fixed forever in time. In a certain respect, the “past self” might as well be a different person:
 
-> Now that I have been told \eqref{MF} is true at the moment pictured in the photograph, what can I say about the situation in the picture and about the person in that situation?
+> Now that I have been told \\eqref{MF} is true at the moment pictured in the photograph, what can I say about the situation in the picture and about the person in that situation?
 
-So to perform a *static belief change* upon receipt of the incoming formula *F*, the agent is to change her present belief based on the information that *F* was true in the state of affairs that existed *before* she was told about *F*. Accordingly, in performing a static belief change upon receipt of \eqref{MF}, the agent will come to accept that, just before she was told \eqref{MF}, the letter *p* was true but she did not believe that *p* was true. But most importantly, this will not cause her to believe that \eqref{MF} is true *afterward*: she is only changing her beliefs about what was true *in the past*; she has not been provided with information that bears on the present. In particular, while she will change her belief about the truth of *p* in the moment that existed just before she was informed of \eqref{MF}, she will leave her present belief about *p* as it is (i.e., she still will not know that *p* is true). Therefore, upon static belief revision by \eqref{MF}, it is still the case that \eqref{MF} is true! (As an aside, this shows that for *static* belief change, the AGM Success postulate is satisfied.)
+So to perform a *static belief change* upon receipt of the incoming formula *F*, the agent is to change her present belief based on the information that *F* was true in the state of affairs that existed *before* she was told about *F*. Accordingly, in performing a static belief change upon receipt of \\eqref{MF}, the agent will come to accept that, just before she was told \\eqref{MF}, the letter *p* was true but she did not believe that *p* was true. But most importantly, this will not cause her to believe that \\eqref{MF} is true *afterward*: she is only changing her beliefs about what was true *in the past*; she has not been provided with information that bears on the present. In particular, while she will change her belief about the truth of *p* in the moment that existed just before she was informed of \\eqref{MF}, she will leave her present belief about *p* as it is (i.e., she still will not know that *p* is true). Therefore, upon static belief revision by \\eqref{MF}, it is still the case that \\eqref{MF} is true! (As an aside, this shows that for *static* belief change, the AGM Success postulate is satisfied.)
 
 Static belief change occurs in everyday life when we receive information about something that can quickly change, so that the information can become “stale” (i.e., incorrect) just after we receive it. This happens, for example, with our knowledge of the price of a high-volume, high-volatility stock during trading hours: if we check the price and then look away for the rest of the day, we only know the price at the given moment in the past and cannot guarantee that the price remains the same, even right after we checked it. Therefore, we only know the price of the stock in the past—not in the present—even though for practical reasons we sometimes operate under the fiction that the price remains constant after we checked it and therefore speak as though we know it (even though we really do not).
 
@@ -544,7 +544,7 @@ We draw plausibility models much like our basic Kripke models from before except
 
 Worlds in the same connected component are said to be *informationally equivalent*.
 
-**Informational equivalence.** Worlds *v* and *w* are said to be informationally equivalent (for agent *a*) if and only if $\cc_a(w)=\cc_a(v)$. Notice that we have $\cc_a(w)=\cc_a(v)$ if and only if $v\in\cc_a(w)$ if and only if $w\in\cc_a(v)$.
+**Informational equivalence.** Worlds *v* and *w* are said to be *informationally equivalent (for agent a)* if and only if $\cc_a(w)=\cc_a(v)$. Notice that we have $\cc_a(w)=\cc_a(v)$ if and only if $v\in\cc_a(w)$ if and only if $w\in\cc_a(v)$.
 
 The idea is that if *w* is the actual world, then agent *a* has the information that the actual world must be one of those in her connected component $\cc_a(w)$. Thus the set $\cc_a(w)$ makes up the worlds agent *a* considers to be possible whenever *w* is the actual world. And since $w\in\cc_a(w)$, agent *a* will always consider the actual world to be possible. Local connectivity then guarantees that the agent always has an opinion as to the relative plausibility of any two worlds among those in $\cc_a(w)$ that she considers possible.
 
@@ -558,7 +558,7 @@ To see how all of this works, let us consider a simple example scenario in which
 
 *N*
 
-*Figure 8:* The pointed plausibility model $(N,w_1)$.
+\*Figure 8:\* The pointed plausibility model $(N,w_1)$.
 
 It is easy to see that the pointed plausibility model $(N,w_1)$ clearly satisfies the property of local connectedness, so this is an allowable picture. To see that this picture reasonably represents the above-describe example scenario, first notice that we have one world for each of the four possible truth assignments to the two letters *p* and *q*. At the actual world $w_1$, the letter *p* is false and the letter *q* is true. Agent *a* considers each of the four worlds to be informationally equivalent (since she does not know with certainty which world is the actual one); however, she considers the *p*-worlds to be strictly more plausible than the $\lnot p$-worlds. This represents her belief that *p* is true: each of the worlds she considers to be most plausible overall satisfies *p*. Further, if she is told that *p* is in fact false, she will restrict her attention to the next-most-plausible $\lnot p$-worlds, thereby statically revising her belief. It is in this sense that she trusts *b* (and so believes *p* is true) but does not completely rule out the possibility that he is incorrect or deceptive. Since *a* has no information about *q*, each of her spheres—the inner *p*-sphere and the outer $\lnot p$-sphere—contains both a world at which *q* is true and a world at which *q* is false.
 
@@ -579,11 +579,11 @@ We define the following relations, with a negation of a relation indicated by pl
 - *Strict converse plausibility*: $w\lt_a v$ means we have $v\geq_a w$ and $w\not\geq_a v$.
 - *Equi-plausibility*: $w\simeq_a v$ means we have $w\geq_a v$ and $v\geq_a w$.
 
-For each world *w* in *W* and agent *a*, we define the *connected component* of *w*, also called the *a*-connected component if emphasizing *a* is important, as follows: $$ \cc_a(w) \coloneqq \{ v\in W \mid w({\geq_a}\cup{\leq_a})^*v\} . $$ If $\cc_a(w)=\cc_a(w)$, then we say that *w* and *v* are *informationally equivalent* (or that they are *a*-informationally equivalent). The relation $\geq_a$ must satisfy the property of *Plausibility*, which consists of the following three items:
+For each world *w* in *W* and agent *a*, we define the *connected component* of *w*, also called the *a-connected component* if emphasizing *a* is important, as follows: $$ \cc_a(w) \coloneqq \{ v\in W \mid w({\geq_a}\cup{\leq_a})^*v\} . $$ If $\cc_a(w)=\cc_a(w)$, then we say that *w* and *v* are *informationally equivalent* (or that they are *a-informationally equivalent*). The relation $\geq_a$ must satisfy the property of *Plausibility*, which consists of the following three items:
 
 - $\geq_a$ is reflexive and transitive;
 - $\geq_a$ is *locally connected*: $v\in\cc_a(w)$ implies $w\geq_a v$ or $v\geq_a w$; and
-- $\geq_a$ is *converse well-founded*: for each nonempty set $S\subseteq W$ of worlds, the set $$ \textstyle \min_a(S)\coloneqq\{w\in S\mid \forall v\in S:v\not\lt_a w\} $$ of *a*-minimal elements of *S* is itself nonempty.
+- $\geq_a$ is *converse well-founded*: for each nonempty set $S\subseteq W$ of worlds, the set $$ \textstyle \min_a(S)\coloneqq\{w\in S\mid \forall v\in S:v\not\lt_a w\} $$ of *a-minimal elements* of *S* is itself nonempty.
 
 A *pointed plausibility model*, sometimes called a *scenario* or a *situation*, is a pair $(M,w)$ consisting of a plausibility model *M* and a world *w* (called the *point*) that designates the state of affairs that we (the formal modelers) currently assume to be actual.
 
@@ -591,11 +591,11 @@ Intuitively, $w \geq_a v$ means that *w* is no more plausible than *v* according
 
 Local connectivity, as we have seen, ensures that the agent has an opinion as to the relative plausibility of informationally equivalent worlds. Converse well-foundedness guarantees that the agent can always stratify informationally equivalent worlds in such a way that some worlds are the most plausible overall. As a result, we cannot have a situation where agent *a* has some sequence $$ w_1\gt_a w_2\gt_a w_3 \gt_a \cdots $$ of worlds of strictly increasing plausibility, a circumstance in which it would be impossible to find “the most plausible worlds”. By forbidding such a circumstance, converse well-foundedness guarantees that the notion of “the most plausible worlds” is always well-defined.
 
-The collection of formulas interpreted on pointed plausibility models generally contains at least the formulas coming from the language \eqref{KBox} defined by the following grammar:
+The collection of formulas interpreted on pointed plausibility models generally contains at least the formulas coming from the language \\eqref{KBox} defined by the following grammar:
 
 $$\begin{gather*} F \ccoloneqq p \mid F \wedge F \mid \neg F \mid K_aF \mid \Box_a F \\ \small p \in \sP,\; a \in \sA \tag{\(K\Box\)}\label{KBox} \end{gather*}$$
 
-The satisfaction relation $\models$ between pointed plausibility models and formulas of \eqref{KBox} is defined as follows.
+The satisfaction relation $\models$ between pointed plausibility models and formulas of \\eqref{KBox} is defined as follows.
 
 - $M,w\models p$ holds if and only if $w\in V(p)$.
 - $M,w\models F\land G$ holds if and only if both $M,w\models F$ and $M,w\models G$.
@@ -603,7 +603,7 @@ The satisfaction relation $\models$ between pointed plausibility models and form
 - $M,w\models K_aF$ holds if and only if $M,v\models F$ for each $v\in\cc_a(w)$.
 - $M,w\models \Box_aF$ holds if and only if $M,v\models F$ for each $v\leq_a w$.
 
-For each \eqref{KBox}-formula *F* and plausibility model $M = (W, \geq, V)$, we define the set
+For each \\eqref{KBox}-formula *F* and plausibility model $M = (W, \geq, V)$, we define the set
 
 $$ \sem{F}_M \coloneqq \{ w\in W\mid M,w\models F\} $$
 
@@ -631,8 +631,8 @@ The notion of conditional belief allows us to connect the notions knowledge poss
 
 **Theorem.** For each pointed plausibility model $(M,w)$, we have each of the following.
 
-- $M,w\models K_aF$ if and only if for each \eqref{KBox}-formula *G*, we have $M,w\models B_a^GF$. “Information possession $K_a$ is belief that persists under receipt of *any* information.”
-- $M,w\models\Box_aF$ if and only if for each \eqref{KBox}-formula *G* satisfying $M,w\models G$, we have $M,w\models B_a^GF$. “Defeasible knowledge $\Box_a$ is belief that persists under receipt of *true* information.”
+- $M,w\models K_aF$ if and only if for each \\eqref{KBox}-formula *G*, we have $M,w\models B_a^GF$. “Information possession $K_a$ is belief that persists under receipt of *any* information.”
+- $M,w\models\Box_aF$ if and only if for each \\eqref{KBox}-formula *G* satisfying $M,w\models G$, we have $M,w\models B_a^GF$. “Defeasible knowledge $\Box_a$ is belief that persists under receipt of *true* information.”
 
 Conditional belief gives rise to a notion of *unconditional belief* obtained by taking the trivial condition $\top$ (i.e., the propositional constant for truth) as the condition:
 
@@ -651,14 +651,14 @@ We conclude this section with the axiomatic theory characterizing those formulas
 - $K_aF\to\Box_a F$ “If *F* follows from *a*’s information, then *a* defeasibly knows *F*.”
 - $K_a(\Box_a F\to G)\lor K_a(\Box_a G\to F)$ “Worlds consistent with the information received are always comparable in terms of plausibility.” (That this axiom has this meaning requires some technical details; see Baltag et al. (2014). In particular, the axiom may be viewed as a slight modification of the .3 scheme from basic modal logic; see, e.g., Blackburn et al. 2002).
 
-**$\KBox$ Soundness and Completeness.** $\KBox$ is sound and complete with respect to the collection $\sC_*$ of pointed plausibility models. That is, for each \eqref{KBox}-formula *F*, we have that $\KBox\vdash F$ if and only if $\sC_*\models F$.
+**$\KBox$ Soundness and Completeness.** $\KBox$ is sound and complete with respect to the collection $\sC_*$ of pointed plausibility models. That is, for each \\eqref{KBox}-formula *F*, we have that $\KBox\vdash F$ if and only if $\sC_*\models F$.
 
 Instead of taking information possession $K_a$ and defeasible knowledge $\Box_a$ as the basic propositional attitudes, one may instead choose conditional belief statements $B_a^GF$. This choice gives the theory $\CDL$ of Conditional Doxastic Logic. See [Appendix J](dynamic-epistemic.appendix-J-CDL.md) for details.
 
 We may define a number of additional propositional attitudes beyond conditional belief $B_a^GF$, defeasible knowledge $\Box_aF$, and information possession $K_aF$. We take a brief look at a two of these that have important connections with the Belief Revision literature.
 
 - The *unary revision operator* $*_aF$ has the semantics: $$M,w\models *_aF \mbox{ means } M,w\models F \mbox{ and } M,v\not\models F \mbox{ for all } v\lt_a w$$ That is, to say that $*_aF$ is true at world *w* means that *F* is true at *w* and that *F* is false at any world *v* that agent *a* ranks strictly more plausible. So to have $*_aF$ true at *w* says that *w* will be among the most plausible after the agent undergoes a belief revision by *F*. The unary revision operator $*_aF$ therefore picks out the worlds that will make up agent *a*’s theory of beliefs after revision by *F*. As such, we have $$ M,w\models B_a^FG \quad\text{ iff } M,w\models K_a(*_aF\to G), $$ which says that agent *a* believes *G* after revision by *F* if and only if she knows that *G* is a consequence of her theory after revision by *F*.
-- For each natural number *n*, we have a degree-*n* belief operator $B_a^nF$. To define the semantics of these operators, we first define formulas $b_a^n$ for each natural number *n* according to the following: $$\begin{align*} b_a^0 &= *_a\top, \\ b_a^{n+1} &= *_a(\lnot b_a^0\land \lnot b_a^1\land\cdots\land\lnot b_a^n) . \end{align*}$$ $b_a^0$ is true at the worlds the agent *a* ranks most plausible overall, $b_a^1$ is true at the worlds the agent *a* ranks next-most plausible after the $b_a^0$-worlds, $b_a^2$ is picks out the next-most plausible after the $b_a^1$-worlds, and so on. The $b_a^n$-worlds thereby pick out agent *a*’s “degree-*n* theory of belief”, which is the collection of beliefs the agent will hold after giving up all theories of lesser degree. This setup allows us to realize Spohn's (1988)[^spohn-1988] notion of “degrees of belief”: $$ M,w\models B_a^nF \mbox{ means } M,w\models K_a(b_a^n\to F)\land \bigwedge_{i\lt n}\lnot K_a(b_a^i\to F), $$ which says that agent *a* believes *F* to degree *n* if and only if she knows it follows from her degree-*n* theory and she does not know it to follow from any of her theories of lesser degree.
+- For each natural number *n*, we have a *degree-n belief operator* $B_a^nF$. To define the semantics of these operators, we first define formulas $b_a^n$ for each natural number *n* according to the following: $$\begin{align*} b_a^0 &= *_a\top, \\ b_a^{n+1} &= *_a(\lnot b_a^0\land \lnot b_a^1\land\cdots\land\lnot b_a^n) . \end{align*}$$ $b_a^0$ is true at the worlds the agent *a* ranks most plausible overall, $b_a^1$ is true at the worlds the agent *a* ranks next-most plausible after the $b_a^0$-worlds, $b_a^2$ is picks out the next-most plausible after the $b_a^1$-worlds, and so on. The $b_a^n$-worlds thereby pick out agent *a*’s “degree-*n* theory of belief”, which is the collection of beliefs the agent will hold after giving up all theories of lesser degree. This setup allows us to realize Spohn's (1988)[^spohn-1988] notion of “degrees of belief”: $$ M,w\models B_a^nF \mbox{ means } M,w\models K_a(b_a^n\to F)\land \bigwedge_{i\lt n}\lnot K_a(b_a^i\to F), $$ which says that agent *a* believes *F* to degree *n* if and only if she knows it follows from her degree-*n* theory and she does not know it to follow from any of her theories of lesser degree.
 
 ### 4.4 The Logic of Doxastic Actions: Action-priority update
 
@@ -680,7 +680,7 @@ As expected, the main difference between plausibility action models and basic ac
 
 $\rPub_G(q)$
 
-*Figure 9:* The pointed plausibility action model $(\rPub(q),e)$ for the revisable public announcement of *q* (also called the “lexicographic upgrade by *q*” by van Benthem 2007)[^benthem-2007][^benthem-2007-2][^benthem-2007-3].
+\*Figure 9:\* The pointed plausibility action model $(\rPub(q),e)$ for the revisable public announcement of *q* (also called the “lexicographic upgrade by *q*” by van Benthem 2007)[^benthem-2007][^benthem-2007-2][^benthem-2007-3].
 
 Figure 9 depicts $(\rPub(q),e)$, a pointed plausibility action model consisting of two events: the event *f* in which $\lnot q$ is announced and the event *e* in which *q* is announced. Event *e* is the event that actually occurs. For each agent *a* (coming from the full set of agents $\sA$), event *e* is strictly more plausible. We adopt the same drawing conventions for plausibility action models that we did for plausibility models: one- and two-way arrows, reflexive and transitive closures, and the requirement of local connectedness. (Well-foundedness follows because the set *E* of events is finite.) Accordingly, Figure 9 implicitly contains reflexive dashed arrows for each agent at each event.
 
@@ -698,11 +698,11 @@ The “action-priority update” is the analog of the product update for plausib
 
 An action $(A,e)$ operates on an initial situation $(M,w)$ satisfying $M,w\models\pre^A(e)$ via the action-priority update to produce the resultant situation $(M[A],(w,e))$. Note that we may write the plausibility relation $\mathrel{{\geq}[A]_a}$ for agent *a* after the action-priority update by *A* simply as $\geq_a$ when the meaning is clear from context.
 
-We now turn to *Action-Priority Update Logic* (a.k.a., *the Logic of Doxastic Actions*). To begin, we define the language \eqref{APUL} of Action-Priority Update Logic along with the set $\PAM_*$ of pointed plausibility action models having preconditions in the language \eqref{APUL} according to the following recursive grammar:
+We now turn to *Action-Priority Update Logic* (a.k.a., *the Logic of Doxastic Actions*). To begin, we define the language \\eqref{APUL} of Action-Priority Update Logic along with the set $\PAM_*$ of pointed plausibility action models having preconditions in the language \\eqref{APUL} according to the following recursive grammar:
 
 $$\begin{gather*} F \ccoloneqq p \mid F \wedge F \mid \neg F \mid K_aF \mid \Box_aF \mid [A,e]F \\ \small p \in \sP,\; a \in \sA,\; (A,e)\in\PAM_* \taglabel{APUL} \end{gather*} $$
 
-The satisfaction relation $\models$ between pointed plausibility models and formulas of \eqref{APUL} is the smallest extension of the above-defined satisfaction relation $\models$ for \eqref{KBox} satisfying the following:
+The satisfaction relation $\models$ between pointed plausibility models and formulas of \\eqref{APUL} is the smallest extension of the above-defined satisfaction relation $\models$ for \\eqref{KBox} satisfying the following:
 
 - $M,w\models[A,e]G$ holds if and only if $M,w\not\models\pre(e)$ or $M[A],(w,e)\models G$, where the model $M[A]$ is given by the action-priority update.
 
@@ -712,7 +712,7 @@ In addition to the revisable public announcement (Figure 9), there are a number 
 
 $\rPri_G(q)$
 
-*Figure 11:* The pointed plausibility action model $(\rPri_G(q),e)$ for the private announcement of *q* to the group of agents *G*.
+\*Figure 11:\* The pointed plausibility action model $(\rPri_G(q),e)$ for the private announcement of *q* to the group of agents *G*.
 
 Figure 11 depicts the private announcement of *q* to a group of agents *G*. This consists of two events: the event *e* in which *q* is announced and the event *f* in which the propositional constant for truth $\top$ is announced. For agents outside the group *G*, the most plausible event is the one in which the $\top$ is announced; for agents in the group, the most plausible event is the one in which *q* is announced. In reality, the announcement of *q* (i.e., event *e*) occurs. Since the propositional constant for truth $\top$ is uninformative, the agents outside of *G* will come to believe that the situation is as it was before. The agents inside *G*, however, will come to believe *q*.
 
@@ -758,11 +758,11 @@ Looking to the fifth $\APUL$ reduction axiom, the conjunct $\bigwedge_{e\gt_a f}
 
 As was the case for $\EAL$, the $\APUL$ reduction axioms allow us to “reduce” each formula containing plausibility action models to a provably equivalent formula whose plausibility action model modalities appear before formulas of lesser complexity, allowing us to eliminate plausibility action model modalities completely via a sequence of provable equivalences. As a consequence, we have the following.
 
-**APUL Reduction Theorem.** Every *F* in the language \eqref{APUL} is $\APUL$-provably equivalent to a formula $F^\circ$ coming from the plausibility action model-free modal language \eqref{KBox}.
+**APUL Reduction Theorem.** Every *F* in the language \\eqref{APUL} is $\APUL$-provably equivalent to a formula $F^\circ$ coming from the plausibility action model-free modal language \\eqref{KBox}.
 
 Once we have proved $\APUL$ is sound, the Reduction Theorem leads us to axiomatic completeness via the known completeness of the underlying modal theory $\KBox$.
 
-**$\APUL$ Soundness and Completeness.** $\APUL$ is sound and complete with respect to the collection $\sC_*$ of pointed plausibility action models. That is, for each \eqref{APUL}-formula *F*, we have that $\APUL\vdash F$ if and only if $\sC_*\models F$.
+**$\APUL$ Soundness and Completeness.** $\APUL$ is sound and complete with respect to the collection $\sC_*$ of pointed plausibility action models. That is, for each \\eqref{APUL}-formula *F*, we have that $\APUL\vdash F$ if and only if $\sC_*\models F$.
 
 As is the case for $\EAL$, it is possible to combine two consecutive actions into a single action. All that is required is an appropriate notion of plausibility action model composition.
 

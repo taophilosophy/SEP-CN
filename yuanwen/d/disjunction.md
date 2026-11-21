@@ -488,7 +488,7 @@ In the previous section, we saw that recent semantic work has argued that disjun
 
 (b) inquisitive
 
-*Figure 1.* $(p \vee q)$ in classical logic and in inquisitive logic.
+\*Figure 1.\* $(p \vee q)$ in classical logic and in inquisitive logic.
 
 ### 7.1 Inquisitive semantics
 
@@ -570,7 +570,7 @@ Many thanks to Floris Roelofsen, Luca Incurvati, Martin Stokhof and Ivano Ciarde
 
 ## Notes（原文脚注）
 
-[^note-1]: “De vraag naar de geldigheid van het principium *tertii exclusi* is dus aequivalent met de vraag naar de mogelijkheid van onoplosbare wiskundige problemen. Voor de wel eens uitgesproken overtuiging, dat onoplosbare wiskundige problemen niet bestaan, is geen aanwijzing van een bewijs aanwezig (It follows that the question of the validity of the principium *tertii exclusi* is equivalent to the question *whether unsolvable mathematical problems can exist*. There is not a shred of a proof for the conviction, which has sometimes been put forward that there exist no unsolvable mathematical problems)” (Brouwer 1908, page 109 of Heyting 1975)[^brouwer-1908][^heyting-1975].
+[^note-1]: “*De vraag naar de geldigheid van het principium tertii exclusi is dus aequivalent met de vraag naar de mogelijkheid van onoplosbare wiskundige problemen. Voor de wel eens uitgesproken overtuiging, dat onoplosbare wiskundige problemen niet bestaan, is geen aanwijzing van een bewijs aanwezig* (It follows that the question of the validity of the principium *tertii exclusi* is equivalent to the question *whether unsolvable mathematical problems can exist*. There is not a shred of a proof for the conviction, which has sometimes been put forward that there exist no unsolvable mathematical problems)” (Brouwer 1908, page 109 of Heyting 1975)[^brouwer-1908][^heyting-1975].
 
 [^note-2]: “Suppose we see the following notice put up in a bookstore: *Customers who are teachers or college students are entitled to a special reduction.* Here the word *or* is undoubtedly used in the first [inclusive] sense, since it is not intended to refuse the reduction to a teacher who is at the same time a college student. If, on the other hand, a child asked to be taken on a hike in the morning and to a theatre in the afternoon, and we reply: *No, we are going on a hike or we are going to the theatre,* then our usage of the word *or* is obviously of the second [exclusive] kind since we intend to comply with only one of the two requests” (Tarski 1939: 21)[^tarski-1939]. As Gamut (1991: 200)[^gamut-1991] however observes, Tarski’s second example is not very convincing since the word *No* which precedes the disjunction seems to convey precisely the exclusive “not both” inference, which then needs not be part of the semantic contribution of *or*.
 
@@ -580,7 +580,7 @@ Many thanks to Floris Roelofsen, Luca Incurvati, Martin Stokhof and Ivano Ciarde
 
 [^aloni-2022]: Aloni, M., 2022, “Logic and conversation: the case of free choice”, *Semantics and Pragmatics*, 15(5): 1–60.
 
-[^aloni-2013]: Aloni, M. & I. Ciardelli, 2013, “A logical account of free choice imperatives”, in M. Aloni, M. Franke, & F. Roelofsen (eds.), *The dynamic, inquisitive, and visionary life of *φ*, $?\phi$, and $\Diamond\phi$*, Institute for Logic, Language; Computation, pp. 1–17.
+[^aloni-2013]: Aloni, M. & I. Ciardelli, 2013, “A logical account of free choice imperatives”, in M. Aloni, M. Franke, & F. Roelofsen (eds.), *The dynamic, inquisitive, and visionary life of φ, $?\phi$, and $\Diamond\phi$*, Institute for Logic, Language; Computation, pp. 1–17.
 
 [^aloni-2013-2]: Aloni, M., P. Égré, & T. de Jager, 2013, “Knowing whether A or B”, *Synthese*, 190(4): 2595–2621.
 

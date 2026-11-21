@@ -504,7 +504,7 @@ The research underpinning this entry was funded by the European Research Council
 
 [^sepkoski-2013]: Sepkoski, David, 2013, “Toward ‘a natural history of data’: Evolving practices and epistemologies of data in paleontology, 1800–2000”, *Journal of the History of Biology*, 46: 401–444.
 
-[^shavit-2009]: Shavit, Ayelet and James Griesemer, 2009, “There and Back Again, or the Problem of Locality in Biodiversity Surveys*”, *Philosophy of Science*, 76(3): 273–294. doi:10.1086/649805
+[^shavit-2009]: Shavit, Ayelet and James Griesemer, 2009, “There and Back Again, or the Problem of Locality in Biodiversity Surveys\*”, *Philosophy of Science*, 76(3): 273–294. doi:10.1086/649805
 
 [^srnicek-2017]: Srnicek, Nick, 2017, *Platform capitalism*, Cambridge, UK and Malden, MA: Polity Press.
 

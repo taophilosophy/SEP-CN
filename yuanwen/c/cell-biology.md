@@ -19,7 +19,7 @@ The introduction of new research techniques, especially cell fractionation and e
 
 ![micrograph of a fraction containing microsome, see caption below](../assets/cell-biology/micrograph01.jpg) ![micrograph of a thin-sliced preparation from a cell showing the endoplasmic reticulum, see caption below](../assets/cell-biology/micrograph02.jpg)
 
-*Figure 1:* Micrographs of a fraction containing microsome and of a thin-sliced preparation from a cell showing the endoplasmic reticulum (marked as *er*). From Porter (1953)[^porter-1953][^porter-1953-2], plate 48.
+\*Figure 1:\* Micrographs of a fraction containing microsome and of a thin-sliced preparation from a cell showing the endoplasmic reticulum (marked as *er*). From Porter (1953)[^porter-1953][^porter-1953-2], plate 48.
 
 In terms of content, however, the break between cytology and cell biology was nowhere near as sharp as the founders of cell biology portrayed. Cowdry’s *General Cytology* (1924) clearly had similar aspirations of linking studies of morphology and studies of cellular chemistry (see discussions by historians, philosophers, and biologists of Cowdry’s project in Matlin, Maienschein, & Laubichler 2018)[^matlin-2018][^matlin-2018-2]. But in terms of the institutions in which scientists conducted their research, the break was quite significant. With the creation of professional societies using the name *cell biology*, biologists began to self-identify as cell biologists. Laboratories and academic departments adopted the name *cell biology* and funding agencies recognized cell biology as a supported field of research.
 
@@ -37,13 +37,13 @@ When Hooke introduced the term *cell* in *Micrographia* in 1665 to describe the 
 
 ![two drawings on a black background, the left of dozens of small distorted white outlined rectangles all connected; the right of dozens of small distorted white outlined circles all connected.](../assets/cell-biology/hooke-cork.jpg)
 
-*A.* Hooke’s (1665: Schem: XI, fig. 1 facing page 115) drawing of his observations of cells in cork.
+\*A.\* Hooke’s (1665: Schem: XI, fig. 1 facing page 115) drawing of his observations of cells in cork.
 
 ![drawing of 8 cells laid out vertically. Each cell consists of a long tail and a head with the head varying from cell to cell (up to three letter labels might be attached to various parts of a head).](../assets/cell-biology/leeuwenhoek.jpg)
 
-*B.*Van Leeuwenhoek’s drawing of spermatozoa from his Letter to Nehemiah Grew, 18 March 1678.
+\*B.\*Van Leeuwenhoek’s drawing of spermatozoa from his Letter to Nehemiah Grew, 18 March 1678.
 
-*Figure 2:* Hooke’s drawing clearly shows cells as areas enclosed by walls whereas van Leeuwenhoek’s presents what we call *cells* as simple organisms.
+\*Figure 2:\* Hooke’s drawing clearly shows cells as areas enclosed by walls whereas van Leeuwenhoek’s presents what we call *cells* as simple organisms.
 
 Most of these early investigators focused on describing what they saw in the microscope. But some, such as Buffon (1749)[^buffon-1749], began to view cells as basic living units. Nicholson characterizes this as the beginning of an atomist tradition in biology that identified
 
@@ -75,7 +75,7 @@ At first the factory metaphor simply identified the cell as the place in which c
 
 ![13 drawings of the various stages of mitosis](../assets/cell-biology/Flemming-1882.png)[^flemming-1882]
 
-*Figure 3:* Flemming’s (1882)[^flemming-1882] drawings of the stages of mitosis that highlights the formation of spindles and their role in segregating chromosomes. Images 1–3 are from Tafel IIIa (Figures 31, 36, 38); 4–7 from Tafel IIIb (Figures 39, 41, and 44–46). (Figure from [wiki commons](https://commons.wikimedia.org/wiki/File:Cell_division_according_to_W._Flemming_(1882).png).)
+\*Figure 3:\* Flemming’s (1882)[^flemming-1882] drawings of the stages of mitosis that highlights the formation of spindles and their role in segregating chromosomes. Images 1–3 are from Tafel IIIa (Figures 31, 36, 38); 4–7 from Tafel IIIb (Figures 39, 41, and 44–46). (Figure from [wiki commons](https://commons.wikimedia.org/wiki/File:Cell_division_according_to_W._Flemming_(1882).png).)
 
 Late in the nineteenth century cytologists also succeeded in identifying membrane-enclosed structures in the cytoplasm that came to be known as *organelles*. Altmann (1890)[^altmann-1890], using new stains he developed, observed filaments within cells that he took to be elementary organisms (a view he explicitly set in opposition to the protoplasm theory). Although many researchers challenged Altmann’s observations, Benda (1899)[^benda-1899] confirmed the existence of filaments using a different stain and gave them the name *mitochondria* (Greek for “thread” and “granule”). Because of their reactivity with oxidative stains, Michaelis (1899)[^michaelis-1899] proposed that they figured in oxidative reactions in cells. Yet other researchers identified other organelles such as the Golgi apparatus (Golgi 1898)[^golgi-1898] and ergastoplasm (Garnier 1897)[^garnier-1897], which was ultimately identified as the endoplasmic reticulum.
 
@@ -127,7 +127,7 @@ Light microscopes faced another limit, that on magnification (a limitation impos
 
 ![see caption, shows that the electron microscope image gives much finer detail than the light microscope](../assets/cell-biology/fibroblast.png)
 
-*Figure 4:* Comparison of images of fibroblast from a tissue cultured chick embryo as seen with electron microscope (left) and light microscope (right). From Porter, Claude, and Fullam (1945: plate 10).
+\*Figure 4:\* Comparison of images of fibroblast from a tissue cultured chick embryo as seen with electron microscope (left) and light microscope (right). From Porter, Claude, and Fullam (1945: plate 10).
 
 Besides the challenge of creating preparations sufficiently thin to be penetrated by the electron beam, researchers confronted a number of other challenges in preparing biological material for electron microscopy. For example, specimens must be placed in vacuum, and this requires first removing all water, the primary constituent of cells, without inducing too many distortions. Several historians and philosophers (Rheinberger 1995, Rasmussen 1997, and Bechtel 2006)[^bechtel-2006][^rasmussen-1997][^rheinberger-1995] have examined how biologists confronted these challenges and evaluated the reliability of the resulting micrographs. How they addressed one challenge—that of creating sufficient contrast in the images—greatly affected the images that were produced. This was already a challenge with light microscopy: cell material is mostly translucent so that the light transmitted is mostly of the same wavelength, making it hard to differentiate the various structures in the image. To address the challenge, light microscopists in the mid-nineteenth century began experimenting with dyes used for fabrics. As noted in Section 2, Flemming named the nuclear structures he observed chromatin since they bound the aniline dye he was using. The problem for electron microscopy was similar—cell components differ little in their ability to block electron transmission. Electron microscopists found that several of the fixatives used in light microscopy, especially those involving heavy metals, enhanced the ability to block electrons, and accordingly the contrast in the resulting images. Given that there was little knowledge about what given chemicals would bind to within the cell, the investigation of these stains was mostly pursued by researchers trying out different compounds and procedures for applying them (exemplified in Palade’s 1952, study of osmium tetroxide)[^palade-1952] to see what images they could generate. Indeed, different stains (osmium tetroxide, glutaraldehyde, etc.) did yield different images.
 
@@ -153,13 +153,13 @@ Microscopic images, whether hand-drawn, as they were in the nineteenth century, 
 
 ![cell diagram, see caption](../assets/cell-biology/wilson-cell.jpg)
 
-*A.* Wilson’s (1896: 14, figure 5) cell diagram that leaves out much of the detail that would be seen through the microscope to focus on
+\*A.\* Wilson’s (1896: 14, figure 5) cell diagram that leaves out much of the detail that would be seen through the microscope to focus on
 
 ![mechanism diagram, see caption](../assets/cell-biology/lysosomes.png)
 
-*B.* A mechanism diagram of the processes of heterophagy and autophagy from de Duve and Wattiaux (1966: 468, figure 6).
+\*B.\* A mechanism diagram of the processes of heterophagy and autophagy from de Duve and Wattiaux (1966: 468, figure 6).
 
-*Figure 5*
+\*Figure 5\*
 
 Similar points also apply to another type of diagram that appears frequently in cell biology—diagrams of hypothesized mechanisms that are taken to be responsible for a particular phenomenon (Sheredos et al. 2013; Abrahamsen, Sheredos, & Bechtel 2018)[^abrahamsen-2018][^sheredos-2013]. Such diagrams do not try to show all the organelle types but, as in Figure 5B, only those thought to be involved in generating a particular phenomenon—in this case, the breakdown of materials taken into the cell (heterophagy) or of cell components themselves (autophagy). One challenge with mechanism diagrams is that they are static whereas mechanisms (see entry on mechanisms in science) are engaged in change (the digestion of organelles and the expulsion of the remaining material). One common strategy is to use arrows to represent activities, although often within the same diagram arrows may have multiple different meanings. Ultimately, however, it is up to the viewer to animate a mechanism diagram (Hegarty 1992)[^hegarty-1992]—to rehearse mentally the different activities that are represented and to imagine the changes that are being produced by different parts.
 
@@ -209,7 +209,7 @@ Alon and his collaborators, focusing on gene transcription networks and metaboli
 
 ![see text above, 3 diagrams, 2 coherent feedforward loops and 1 incoherent feedforward loop with 'and' and 'or' gates and 'activation' and 'repression' links.](../assets/cell-biology/figure-feedback.svg)
 
-*Figure 6:* Three examples of feedforward loops studied by Alon and his colleagues
+\*Figure 6:\* Three examples of feedforward loops studied by Alon and his colleagues
 
 The second strategy employs computational tools such as cluster analysis to find collections of nodes that are especially highly interconnected. To interpret these clusters in terms of mechanisms operative in the cell, researchers often align them with Gene Ontology (GO), a resource that was developed to represent published information about cell components, molecular functions, and biological processes in directed acyclic graphs so as to facilitate communication between researchers working on different species (Ashburner et al. 2000)[^ashburner-2000]. Leonelli (2016)[^leonelli-2016] examines many of the epistemic issues the developers of GO confronted in developing such a resource. Beyond its original function, GO is now widely used to interpret network graphs mechanistically. By annotating nodes in cellular networks with information from GO when it is available researchers interpret these clusters as corresponding to known mechanisms or sometimes as constituting previously unknown mechanisms. Researchers make inferences about nodes for which such information is lacking using principles such as *guilt by association*—the entity is inferred to occur in the same location or to contribute to the same process as those with which it clusters (Bechtel 2017 analyzes several examples)[^bechtel-2017].
 

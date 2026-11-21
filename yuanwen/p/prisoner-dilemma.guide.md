@@ -24,6 +24,6 @@ $u$ and $r$ (“universal” and “restricted”) indicates that the condition 
 
 ### Relations among stability conditions
 
-Logical implications are indicated by chains of arrows (and by relative vertical position). Conditions stronger than # cannot be satisfied by any EPD and conditions weaker than * are satisfied by EPDs with all levels of cooperation from 0% to 100%.
+Logical implications are indicated by chains of arrows (and by relative vertical position). Conditions stronger than # cannot be satisfied by any EPD and conditions weaker than \* are satisfied by EPDs with all levels of cooperation from 0% to 100%.
 
 ![Directed graph with nodes (1) 'MS double-arrow usn', (2) 'BL double-arrow uwb', (3) '#', (4) '*', (5) 'BS double-arrow rwb double-arrow rwn', and (6) 'CS'. Arrows from node 1 to 3, 1 to 5, 2 to 3, 2 to 5, 4 to 5, and 5 to 6.](../assets/prisoner-dilemma/fig--guide.gif)

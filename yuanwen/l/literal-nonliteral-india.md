@@ -297,7 +297,7 @@ The author wishes to thank Ben Blumson, Josh Dever, Jeremy Henkel, Ethan Mills, 
 
 [^dasti-2020]: Dasti, Matthew, 2020, “Early Nyāya on the Meaning of Common Nouns” in Alessandro Graheli (ed.), *The Bloomsbury Research Handbook of Indian Philosophy of Language*, London: Bloomsbury, pp. 155–165.
 
-[^dasti-2017]: Dasti, Matthew, and S. Phillips, 2017, The *Nyāya-Sūtra*: Selections with Early Commentaries, Indianapolis: Hackett.
+[^dasti-2017]: Dasti, Matthew, and S. Phillips, 2017, *The Nyāya-Sūtra: Selections with Early Commentaries*, Indianapolis: Hackett.
 
 [^de-1960]: De, Sushil Kumar, 1960, *History of Sanskrit Poetics*, Firma K. L. Mukhopadhyay, Calcutta, 2ⁿᵈ edition.
 

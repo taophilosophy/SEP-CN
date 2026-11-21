@@ -49,7 +49,7 @@ A related modal informational framework for *being informed* is developed by Flo
 
 $$\begin{align} \tag{29} &I\phi \rightarrow \phi \\ \tag{30} &I(\phi \rightarrow \psi) \rightarrow(I\phi \rightarrow I\psi) \\ \tag{31} &NI\phi \rightarrow \phi \\ \tag{32} &\vdash \phi , \vdash \phi \rightarrow \psi \Rightarrow \vdash \psi \\ \tag{33} &\vdash \phi \Rightarrow \vdash I\phi \end{align}$$
 
-$U$ is the dual existential modality to $I$, that is, $N_{\alpha}\phi := \neg I_{\alpha}\neg \phi$, read as *α* *is uninformed*, or *for all* *α**’s information, it is possible that* *φ*.^{[[^note-s1]]} (Note that $NI\phi \rightarrow \phi$ is the derivable-in-KTB dual to the usual KTB axiom: $\phi \rightarrow NI\phi$.)
+$U$ is the dual existential modality to $I$, that is, $N_{\alpha}\phi := \neg I_{\alpha}\neg \phi$, read as *α* *is uninformed*, or *for all* α*’s information, it is possible that* *φ*.^{[[^note-s1]]} (Note that $NI\phi \rightarrow \phi$ is the derivable-in-KTB dual to the usual KTB axiom: $\phi \rightarrow NI\phi$.)
 
 Floridi’s logic of being informed is a static system. It models the results of cognitive procedures rather than the properties of the cognitive procedures that bring these results about. However, Floridi is aware of the connections between KTB and constructive logics, and Primiero (2006, 2008) extends Floridi’s work into a type-theoretical constructive framework for *becoming* informed.
 

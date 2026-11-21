@@ -257,7 +257,7 @@ Arabic and Islamic Philosophy, historical and methodological topics in: Greek so
 
 [^note-7]: Some suggest that this individual is Abraham Ibn Daud (see discussion in Sirat 1985, pp. 141–2; Sirat thinks this identification is doubtful)[^sirat-1985]. Some suggest that this individual is a Jewish convert (see for example Samuelson 1987, p. 563)[^samuelson-1987].
 
-[^note-8]: For the Arabic fragments of Ibn Gabirol's *Fons Vitae* in Moses Ibn Ezra's *Maqâlat al-Hadîqa fî Ma‘nâ al-Majâz wa-l-**Ḥ**aqîqa* (Ar.)/ *‘Arûgat* *ha-Bôsem* (Heb.), see Pines 1958/77 and Fenton 1976.
+[^note-8]: For the Arabic fragments of Ibn Gabirol's *Fons Vitae* in Moses Ibn Ezra's *Maqâlat al-Hadîqa fî Ma‘nâ al-Majâz wa-l-Ḥaqîqa* (Ar.)/ *‘Arûgat* *ha-Bôsem* (Heb.), see Pines 1958/77 and Fenton 1976.
 
 [^note-9]: We have only Hebrew manuscripts of what was presumably originally an Arabic text. For Hebrew edition, see Ibn Gabirol / *Mibhar ha-Peninim,* 1484. For English translation with introduction (and discussion of the debate about whether Ibn Gabirol is the author) see Ibn Gabirol / Cohen 1925.
 

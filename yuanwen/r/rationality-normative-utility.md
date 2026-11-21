@@ -55,15 +55,15 @@ According to evidential decision theory, endorsed by Jeffrey (1983)[^jeffrey-198
 
 Against Jeffrey’s definition of expected utility, Spohn (1977)[^spohn-1977] and Levi (1991)[^levi-1991] object that a decision-maker should not assign probabilities to the very acts under deliberation: when freely deciding whether to perform an act $A$, you shouldn’t take into account your beliefs about whether you will perform $A$. If Spohn and Levi are right, then Jeffrey’s ratio is undefined (since its denominator is undefined).
 
-Nozick (1969)[^nozick-1969] raises another objection: Jeffrey’s definition gives strange results in the *Newcomb Problem*. A predictor hands you a closed box, containing either $0 or $1 million, and offers you an open box, containing an additional $1,000. You can either refuse the open box (“one-box”) or take the open box (“two-box”). But there’s a catch: the predictor has predicted your choice beforehand, and all her predictions are 90% accurate. In other words, the probability that you one-box, given that she predicts you one-box, is 90%, and the probability that you two-box, given that she predicts you two-box, is 90%. Finally, the contents of the closed box depend on the prediction: if the predictor thought you would two-box, she put nothing in the closed box, while if she thought you would one-box, she put $1 million in the closed box. The matrix for your decision looks like this:
+Nozick (1969)[^nozick-1969] raises another objection: Jeffrey’s definition gives strange results in the *Newcomb Problem*. A predictor hands you a closed box, containing either \$0 or \$1 million, and offers you an open box, containing an additional \$1,000. You can either refuse the open box (“one-box”) or take the open box (“two-box”). But there’s a catch: the predictor has predicted your choice beforehand, and all her predictions are 90% accurate. In other words, the probability that you one-box, given that she predicts you one-box, is 90%, and the probability that you two-box, given that she predicts you two-box, is 90%. Finally, the contents of the closed box depend on the prediction: if the predictor thought you would two-box, she put nothing in the closed box, while if she thought you would one-box, she put \$1 million in the closed box. The matrix for your decision looks like this:
 
 |   | **states** |   |   |
 | --- | --- | --- | --- |
-| *$1 million in closed box* | *$0 in closed box* |   |   |
-| **acts** | *one-box* | $1,000,000 | $0 |
-| *two-box* | $1,001,000 | $1,000 |   |
+| *\$1 million in closed box* | *\$0 in closed box* |   |   |
+| **acts** | *one-box* | \$1,000,000 | \$0 |
+| *two-box* | \$1,001,000 | \$1,000 |   |
 
-Two-boxing *dominates* one-boxing: in every state, two-boxing yields a better outcome. Yet on Jeffrey’s definition of conditional probability, one-boxing has a higher expected utility than two-boxing. There is a high conditional probability of finding $1 million is in the closed box, given that you one-box, so one-boxing has a high expected utility. Likewise, there is a high conditional probability of finding nothing in the closed box, given that you two-box, so two-boxing has a low expected utility.
+Two-boxing *dominates* one-boxing: in every state, two-boxing yields a better outcome. Yet on Jeffrey’s definition of conditional probability, one-boxing has a higher expected utility than two-boxing. There is a high conditional probability of finding \$1 million is in the closed box, given that you one-box, so one-boxing has a high expected utility. Likewise, there is a high conditional probability of finding nothing in the closed box, given that you two-box, so two-boxing has a low expected utility.
 
 Causal decision theory is an alternative proposal that gets around these problems. It does not require (but still permits) acts to have probabilities, and it recommends two-boxing in the Newcomb problem.
 
@@ -71,7 +71,7 @@ Causal decision theory comes in many varieties, but I’ll consider a representa
 
 $$ P_{A}(o) = \sum_{s\in S}P(s)f_{A,s}(o) $$
 
-On Savage’s proposal, two-boxing comes out with a higher expected utility than one-boxing. This result holds no matter which probabilities you assign to the states prior to your decision. Let $x$ be the probability you assign to the state that the closed box contains $1 million. According to Savage, the expected utilities of one-boxing and two-boxing, respectively, are:
+On Savage’s proposal, two-boxing comes out with a higher expected utility than one-boxing. This result holds no matter which probabilities you assign to the states prior to your decision. Let $x$ be the probability you assign to the state that the closed box contains \$1 million. According to Savage, the expected utilities of one-boxing and two-boxing, respectively, are:
 
 $$ x {\cdot} U({$1,000,000}) + (1 - x) {\cdot} U($0) $$
 
@@ -81,7 +81,7 @@ $$ x {\cdot} U({$1,001,000}) + (1 - x) {\cdot} U({$1,000}) $$
 
 As long as the larger monetary amounts are assigned strictly larger utilities, the second sum (the utility of two-boxing) is guaranteed to be larger than the first (the utility of one-boxing).
 
-Savage assumes that each act and state are enough to uniquely determine an outcome. But there are cases where this assumption breaks down. Suppose you offer to sell me the following gamble: you will toss a coin; if the coin lands heads, I win $100; and if the coin lands tails, I lose $100. But I refuse the gamble, and the coin is never tossed. There is no outcome that *would* have resulted, had the coin been tossed—I might have won $100, and I might have lost $100.
+Savage assumes that each act and state are enough to uniquely determine an outcome. But there are cases where this assumption breaks down. Suppose you offer to sell me the following gamble: you will toss a coin; if the coin lands heads, I win \$100; and if the coin lands tails, I lose \$100. But I refuse the gamble, and the coin is never tossed. There is no outcome that *would* have resulted, had the coin been tossed—I might have won \$100, and I might have lost \$100.
 
 We can generalze Savage’s proposal by letting $f_{A,s}$ be a probability function that maps outcomes to real numbers in the $[0, 1]$ interval. Lewis (1981)[^lewis-1981], Skyrms (1980)[^skyrms-1980], and Sobel (1994)[^sobel-1994] equate $f_{A,s}$ with the objective chance that $o$ would be the outcome if state $s$ obtained and the agent chose action $A$.
 
@@ -100,7 +100,7 @@ Classic utilitarians such as Bentham (1789), Mill (1861)[^mill-1861], and Sidgwi
 
 One objection to this interpretation of utility is that there may not be a single good (or indeed any good) which rationality requires us to seek. But if we understand “utility” broadly enough to include all potentially desirable ends—pleasure, knowledge, friendship, health and so on—it’s not clear that there is a unique correct way to make the tradeoffs between different goods so that each outcome receives a utility. There may be no good answer to the question of whether the life of an ascetic monk contains more or less good than the life of a happy libertine—but assigning utilities to these options forces us to compare them.
 
-Contemporary decision theorists typically interpret utility as a measure of preference, so that to say that $A$ has greater utility than $B$ (for an agent) is simply to say that the agent prefers $A$ to $B$. It is crucial to this approach that preferences hold not just between outcomes (such as amounts of pleasure, or combinations of pleasure and knowledge), but also between uncertain prospects (such as a lottery that pays $1 million dollars if a particular coin lands heads, and results in an hour of painful electric shocks if the coin lands tails). Section 2 of this article addresses the formal relationship between preference and choice in detail.
+Contemporary decision theorists typically interpret utility as a measure of preference, so that to say that $A$ has greater utility than $B$ (for an agent) is simply to say that the agent prefers $A$ to $B$. It is crucial to this approach that preferences hold not just between outcomes (such as amounts of pleasure, or combinations of pleasure and knowledge), but also between uncertain prospects (such as a lottery that pays \$1 million dollars if a particular coin lands heads, and results in an hour of painful electric shocks if the coin lands tails). Section 2 of this article addresses the formal relationship between preference and choice in detail.
 
 Expected utility theory does *not* require that preferences be selfish or self-interested. Someone can prefer giving money to charity over spending the money on lavish dinners, or prefer sacrificing his own life over allowing his child to die. Sen (1977)[^sen-1977] suggests that each person’s psychology is best represented using three rankings: one representing the person’s narrow self-interest, a second representing the person’s self-interest construed more broadly to account for feelings of sympathy (e.g., suffering when watching another person suffer), and a third representing the person’s commitments, which may require her to act against her self-interest broadly construed.
 
@@ -172,7 +172,7 @@ The strong law of large numbers states that where each trial has an expected val
 
 There are several objections to these long run arguments. First, many decisions *cannot* be repeated over indefinitely many similar trials. Decisions about which career to pursue, whom to marry, and where to live, for instance, are made at best a small finite number of times. Furthermore, where these decisions are made more than once, different trials involve different possible outcomes, with different probabilities. It is not clear why long-run considerations about repeated gambles should bear on these single-case choices.
 
-Second, the argument relies on two independence assumptions, one or both of which may fail. One assumption holds that the probabilities of the different trials are independent. This is true of casino gambles, but not true of other choices where we wish to use decision theory—e.g., choices about medical treatment. My remaining sick after one course of antibiotics makes it more likely I will remain sick after the next course, since it increases the chance that antibiotic-resistant bacteria will spread through my body. The argument also requires that the utilities of different trials be independent, so that winning a prize on one trial makes the same contribution to the decision-maker’s overall utility no matter what she wins on other trials. But this assumption is violated in many real-world cases. Due to the diminishing marginal utility of money, winning $10 million on ten games of roulette is not worth ten times as much as winning $1 million on one game of roulette.
+Second, the argument relies on two independence assumptions, one or both of which may fail. One assumption holds that the probabilities of the different trials are independent. This is true of casino gambles, but not true of other choices where we wish to use decision theory—e.g., choices about medical treatment. My remaining sick after one course of antibiotics makes it more likely I will remain sick after the next course, since it increases the chance that antibiotic-resistant bacteria will spread through my body. The argument also requires that the utilities of different trials be independent, so that winning a prize on one trial makes the same contribution to the decision-maker’s overall utility no matter what she wins on other trials. But this assumption is violated in many real-world cases. Due to the diminishing marginal utility of money, winning \$10 million on ten games of roulette is not worth ten times as much as winning \$1 million on one game of roulette.
 
 A third problem is that the strong and weak laws of large numbers are modally weak. Neither law entails that if a gamble were repeated indefinitely (under the appropriate assumptions), the average utility gain per trial *would* be close to the game’s expected utility. They establish only that the average utility gain per trial would *with high probability* be close to the game’s expected utility. But high probability—even probability 1—is not certainty. (Standard probability theory rejects *Cournot’s Principle*, which says events with low or zero probability will not happen. But see Shafer (2005) for a defense of Cournot’s Principle.) For any sequence of independent, identically distributed trials, it is possible for the average utility payoff per trial to diverge arbitrarily far from the expected utility of an individual trial.
 
@@ -264,7 +264,7 @@ Joyce (1999)[^joyce-1999] shows that with additional resources, Bolker’s theor
 
 Together, these four representation theorems above can be summed up in the following table.
 
-| **Theorem** | Objects of preference | Order of construction | Allowable transformations: probability | Allowable transformations: utility |
+| **Theorem** | **Objects of preference** | **Order of construction** | **Allowable transformations: probability** | **Allowable transformations: utility** |
 | --- | --- | --- | --- | --- |
 | Ramsey | gambles | preference → utility → probability | identity | positive linear |
 | von Neumann/ Morgenstern | lotteries | (preference & probability) → utility | N/A | positive linear |
@@ -295,9 +295,9 @@ A variety of authors have given examples in which expected utility theory seems 
 
 Expected utility theory implies that the structure of preferences mirrors the structure of the greater-than relation between real numbers. Thus, according to expected utility theory, preferences must be *transitive*: If $A$ is preferred to $B$ (so that $U(A) \gt U(B)$), and $B$ is preferred to $C$ (so that $U(B) \gt U(C)$), then $A$ must be preferred to $C$ (since it must be that $U(A) \gt U(C)$). Likewise, preferences must be *complete*: for any two options, either one must be preferred to the other, or the agent must be indifferent between them (since of their two utilities, either one must be greater or the two must be equal). But there are cases where rationality seems to permit (or perhaps even require) failures of transitivity and failures of completeness.
 
-An example of preferences that are not transitive, but nonetheless seem rationally permissible, is Quinn’s puzzle of the self-torturer (1990). The self-torturer is hooked up to a machine with a dial with settings labeled 0 to 1,000, where setting 0 does nothing, and each successive setting delivers a slightly more powerful electric shock. Setting 0 is painless, while setting 1,000 causes excruciating agony, but the difference between any two adjacent settings is so small as to be imperceptible. The dial is fitted with a ratchet, so that it can be turned up but never down. Suppose that at each setting, the self-torturer is offered $10,000 to move up to the next, so that for tolerating setting $n$, he receives a payoff of $n {\cdot} {$10,000}$. It is permissible for the self-torturer to prefer setting $n+1$ to setting $n$ for each $n$ between 0 and 999 (since the difference in pain is imperceptible, while the difference in monetary payoffs is significant), but *not* to prefer setting 1,000 to setting 0 (since the pain of setting 1,000 may be so unbearable that no amount of money will make up for it.
+An example of preferences that are not transitive, but nonetheless seem rationally permissible, is Quinn’s puzzle of the self-torturer (1990). The self-torturer is hooked up to a machine with a dial with settings labeled 0 to 1,000, where setting 0 does nothing, and each successive setting delivers a slightly more powerful electric shock. Setting 0 is painless, while setting 1,000 causes excruciating agony, but the difference between any two adjacent settings is so small as to be imperceptible. The dial is fitted with a ratchet, so that it can be turned up but never down. Suppose that at each setting, the self-torturer is offered \$10,000 to move up to the next, so that for tolerating setting $n$, he receives a payoff of $n {\cdot} {\$10,000}$. It is permissible for the self-torturer to prefer setting $n+1$ to setting $n$ for each $n$ between 0 and 999 (since the difference in pain is imperceptible, while the difference in monetary payoffs is significant), but *not* to prefer setting 1,000 to setting 0 (since the pain of setting 1,000 may be so unbearable that no amount of money will make up for it.
 
-It also seems rationally permissible to have incomplete preferences. For some pairs of actions, an agent may have no considered view about which she prefers. Consider Jane, an electrician who has never given much thought to becoming a professional singer or a professional astronaut. (Perhaps both of these options are infeasible, or perhaps she considers both of them much worse than her steady job as an electrician). It is false that Jane prefers becoming a singer to becoming an astronaut, and it is false that she prefers becoming an astronaut to becoming a singer. But it is also false that she is indifferent between becoming a singer and becoming an astronaut. She prefers becoming a singer and receiving a $100 bonus to becoming a singer, and if she were indifferent between becoming a singer and becoming an astronaut, she would be rationally compelled to prefer being a singer and receiving a $100 bonus to becoming an astronaut.
+It also seems rationally permissible to have incomplete preferences. For some pairs of actions, an agent may have no considered view about which she prefers. Consider Jane, an electrician who has never given much thought to becoming a professional singer or a professional astronaut. (Perhaps both of these options are infeasible, or perhaps she considers both of them much worse than her steady job as an electrician). It is false that Jane prefers becoming a singer to becoming an astronaut, and it is false that she prefers becoming an astronaut to becoming a singer. But it is also false that she is indifferent between becoming a singer and becoming an astronaut. She prefers becoming a singer and receiving a \$100 bonus to becoming a singer, and if she were indifferent between becoming a singer and becoming an astronaut, she would be rationally compelled to prefer being a singer and receiving a \$100 bonus to becoming an astronaut.
 
 There is one key difference between the two examples considered above. Jane’s preferences can be *extended*, by adding new preferences without removing any of the ones she has, in a way that lets us represent her as an expected utility maximizer. On the other hand, there is no way of extended the self-torturer’s preferences so that he can be represented as an expected utility maximizer. Some of his preferences would have to be altered. One popular response to incomplete preferences is to claim that, while rational preferences need not satisfy the axioms of a given representation theorem (see section 2.2), it must be possible to extend them so that they satisfy the axioms. From this weaker requirement on preferences—that they be extendible to a preference ordering that satisfies the relevant axioms—one can prove the *existence* halves of the relevant representation theorems. However, one can no longer establish that each preference ordering has a representation which is *unique* up to allowable transformations.
 
@@ -317,26 +317,26 @@ In other words, if two acts have the same consequences whenever $E$ is false, th
 The first counterexample, the Allais Paradox, involves two separate decision problems in which a ticket with a number between 1 and 100 is drawn at random. In the first problem, the agent must choose between these two lotteries:
 
 - *Lottery* $A$
-- • $100 million with certainty
+- • \$100 million with certainty
 
 - *Lottery* $B$
-- • $500 million if one of tickets 1–10 is drawn
-- • $100 million if one of tickets 12–100 is drawn
+- • \$500 million if one of tickets 1–10 is drawn
+- • \$100 million if one of tickets 12–100 is drawn
 - • Nothing if ticket 11 is drawn
 
 In the second decision problem, the agent must choose between these two lotteries:
 
 - *Lottery* $C$
-- • $100 million if one of tickets 1–11 is drawn
+- • \$100 million if one of tickets 1–11 is drawn
 - • Nothing otherwise
 
 - *Lottery* $D$
-- • $500 million if one of tickets 1–10 is drawn
+- • \$500 million if one of tickets 1–10 is drawn
 - • Nothing otherwise
 
-It seems reasonable to prefer $A$ (which offers a sure $100 million) to $B$ (where the added 10% chance at $500 million is more than offset by the risk of getting nothing). It also seems reasonable to prefer $D$ (an 10% chance at a $500 million prize) to $C$ (a slightly larger 11% chance at a much smaller $100 million prize). But together, these preferences (call them the *Allais preferences*) violate Independence. Lotteries $A$ and $C$ yield the same $100 million prize for tickets 12–100. They can be converted into lotteries $B$ and $D$ by replacing this $100 million prize with $0.
+It seems reasonable to prefer $A$ (which offers a sure \$100 million) to $B$ (where the added 10% chance at \$500 million is more than offset by the risk of getting nothing). It also seems reasonable to prefer $D$ (an 10% chance at a \$500 million prize) to $C$ (a slightly larger 11% chance at a much smaller \$100 million prize). But together, these preferences (call them the *Allais preferences*) violate Independence. Lotteries $A$ and $C$ yield the same \$100 million prize for tickets 12–100. They can be converted into lotteries $B$ and $D$ by replacing this \$100 million prize with \$0.
 
-Because they violate Independence, the Allais preferences are incompatible with expected utility theory. This incompatibility does not require any assumptions about the relative utilities of the $0, the $100 million, and the $500 million. Where $500 million has utility $x$, $100 million has utility $y$, and $0 has utility $z$, the expected utilities of the lotteries are as follows.
+Because they violate Independence, the Allais preferences are incompatible with expected utility theory. This incompatibility does not require any assumptions about the relative utilities of the \$0, the \$100 million, and the \$500 million. Where \$500 million has utility $x$, \$100 million has utility $y$, and \$0 has utility $z$, the expected utilities of the lotteries are as follows.
 
 $$ \begin{align} EU(A) &= 0.11y + 0.89y \\ EU(B) &= 0.10x + 0.01z + 0.89y \\ EU(C) &= 0.11y + 0.89z \\ EU(D) &= 0.10x + 0.01z + 0.89z \end{align} $$
 
@@ -345,26 +345,26 @@ It is easy to see that the condition under which $EU(A) \gt EU(B)$ is exactly th
 The Ellsberg Paradox also involves two decision problems that generate a violation of the sure-thing principle. In each of them, a ball is drawn from an urn containing 30 red balls, and 60 balls that are either white or yellow in unknown proportions. In the first decision problem, the agent must choose between the following lotteries:
 
 - *Lottery* $R$
-- • Win $100 if a red ball is drawn
-- • Lose $100 otherwise
+- • Win \$100 if a red ball is drawn
+- • Lose \$100 otherwise
 
 - *Lottery* $W$
-- • Win $100 if a white ball is drawn
-- • Lose $100 otherwise
+- • Win \$100 if a white ball is drawn
+- • Lose \$100 otherwise
 
 In the second decision problem, the agent must choose between the following lotteries:
 
 - *Lottery* $RY$
-- • Win $100 if a red or yellow ball is drawn
-- • Lose $100 otherwise
+- • Win \$100 if a red or yellow ball is drawn
+- • Lose \$100 otherwise
 
 - *Lottery* $WY$
-- • Win $100 if a white or yellow ball is drawn
-- • Lose $100 otherwise
+- • Win \$100 if a white or yellow ball is drawn
+- • Lose \$100 otherwise
 
-It seems reasonable to prefer $R$ to $W$, but at the same time prefer $WY$ to $RY$. (Call this combination of preferences the *Ellsberg preferences*.) Like the Allais preferences, the Ellsberg preferences violate Independence. Lotteries $W$ and $R$ yield a $100 loss if a yellow ball is drawn; they can be converted to lotteries $RY$ and $WY$ simply by replacing this $100 loss with a sure $100 gain.
+It seems reasonable to prefer $R$ to $W$, but at the same time prefer $WY$ to $RY$. (Call this combination of preferences the *Ellsberg preferences*.) Like the Allais preferences, the Ellsberg preferences violate Independence. Lotteries $W$ and $R$ yield a \$100 loss if a yellow ball is drawn; they can be converted to lotteries $RY$ and $WY$ simply by replacing this \$100 loss with a sure \$100 gain.
 
-Because they violate independence, the Ellsberg preferences are incompatible with expected utility theory. Again, this incompatibility does not require any assumptions about the relative utilities of winning $100 and losing $100. Nor do we need any assumptions about where between 0 and 1/3 the probability of drawing a yellow ball falls. Where winning $100 has utility $w$ and losing $100 has utility $l$,
+Because they violate independence, the Ellsberg preferences are incompatible with expected utility theory. Again, this incompatibility does not require any assumptions about the relative utilities of winning \$100 and losing \$100. Nor do we need any assumptions about where between 0 and 1/3 the probability of drawing a yellow ball falls. Where winning \$100 has utility $w$ and losing \$100 has utility $l$,
 
 $$ \begin{align} EU(R) &= \tfrac{1}{3} w + P(W)l + P(Y)l \\ EU(W) &= \tfrac{1}{3} l + P(W)w + P(Y)l \\ EU(RY)&= \tfrac{1}{3} w + P(W)l + P(Y)w \\ EU(WY)&= \tfrac{1}{3} l + P(W)w + P(Y)w \end{align} $$
 
@@ -374,7 +374,7 @@ There are three notable responses to the Allais and Ellsberg paradoxes. First, o
 
 Second, one might follow Buchak (2013)[^buchak-2013] and claim that that the Allais and Ellsberg preferences are rationally permissible, so that expected utility theory fails as a normative theory of rationality. Buchak develops an a more permissive theory of rationality, with an extra parameter representing the decision-maker’s attitude toward risk. This risk parameter interacts with the utilities of outcomes and their conditional probabilities on acts to determine the values of acts. One setting of the risk parameter yields expected utility theory as a special case, but other, “risk-averse” settings rationalise the Allais preferences.
 
-Third, one might follow Loomes and Sugden (1986), Weirich (1986)[^weirich-1986], and Pope (1995)[^pope-1995] and argue that the outcomes in the Allais and Ellsberg paradoxes can be re-described to accommodate the Allais and Ellsberg preferences. The alleged conflict between the Allais and Ellsberg preferences on the one hand, and expected utility theory on the other, was based on the assumption that a given sum of money has the same utility no matter how it is obtained. Some authors challenge this assumption. Loomes and Sugden suggest that in addition to monetary amounts, the outcomes of the gambles include feelings of disappointment (or elation) at getting less (or more) than expected. Pope distinguishes “post-outcome” feelings of elation or disappointment from “pre-outcome” feelings of excitement, fear, boredom, or safety, and points out that both may affect outcome utilities. Weirich suggests that the value of a monetary sum depends partly on the risks that went into obtaining it, irrespective of the gambler’s feelings, so that (for instance) $100 million as the result of a sure bet is more than $100 million from a gamble that might have paid nothing.
+Third, one might follow Loomes and Sugden (1986), Weirich (1986)[^weirich-1986], and Pope (1995)[^pope-1995] and argue that the outcomes in the Allais and Ellsberg paradoxes can be re-described to accommodate the Allais and Ellsberg preferences. The alleged conflict between the Allais and Ellsberg preferences on the one hand, and expected utility theory on the other, was based on the assumption that a given sum of money has the same utility no matter how it is obtained. Some authors challenge this assumption. Loomes and Sugden suggest that in addition to monetary amounts, the outcomes of the gambles include feelings of disappointment (or elation) at getting less (or more) than expected. Pope distinguishes “post-outcome” feelings of elation or disappointment from “pre-outcome” feelings of excitement, fear, boredom, or safety, and points out that both may affect outcome utilities. Weirich suggests that the value of a monetary sum depends partly on the risks that went into obtaining it, irrespective of the gambler’s feelings, so that (for instance) \$100 million as the result of a sure bet is more than \$100 million from a gamble that might have paid nothing.
 
 Broome (1991, Ch. 5) raises a worry about this re-description solution. *Any* preferences can be justified by re-describing the space of outcomes, thus rendering the axioms of expected utility theory devoid of content. Broome rebuts this objection by suggesting an additional constraint on preference: if $A$ is preferred to $B$, then $A$ and $B$ must differ in some way that justifies preferring one to the other. An expected utility theorist can then count the Allais and Ellsberg preferences as rational if, and only if, there is a non-monetary difference that justifies placing outcomes of equal monetary value at different spots in one’s preference ordering.
 
@@ -382,7 +382,7 @@ Broome (1991, Ch. 5) raises a worry about this re-description solution. *Any* pr
 
 Above, we’ve seen purported examples of rational preferences that violate expected utility theory. There are also purported examples of irrational preferences that satisfy expected utility theory.
 
-On a typical understanding of expected utility theory, when two acts are tied for having the highest expected utility, agents are required to be indifferent between them. Skyrms (1980, p. 74) points out that this view lets us derive strange conclusions about events with probability 0. For instance, suppose you are about to throw a point-sized dart at a round dartboard. Classical probability theory countenances situations in which the dart has probability 0 of hitting any particular point. You offer me the following lousy deal: if the dart hits the board at its exact center, then you will charge me $100; otherwise, no money will change hands. My decision problem can be captured with the following matrix:
+On a typical understanding of expected utility theory, when two acts are tied for having the highest expected utility, agents are required to be indifferent between them. Skyrms (1980, p. 74) points out that this view lets us derive strange conclusions about events with probability 0. For instance, suppose you are about to throw a point-sized dart at a round dartboard. Classical probability theory countenances situations in which the dart has probability 0 of hitting any particular point. You offer me the following lousy deal: if the dart hits the board at its exact center, then you will charge me \$100; otherwise, no money will change hands. My decision problem can be captured with the following matrix:
 
 |   | **states** |   |   |
 | --- | --- | --- | --- |
@@ -398,7 +398,7 @@ Skyrms suggests augmenting the laws of classical probability with an extra requi
 
 A utility function $U$ is bounded above if there is a limit to how good things can be according to $U$, or more formally, if there is some least natural number $sup$ such that for every $A$ in $U$’s domain, $U(A) \le sup$. Likewise, $U$ is bounded below if there is a limit to how bad things can be according to $U$, or more formally, if there is some greatest natural number $inf$ such that for every $A$ in $U$’s domain, $U(A) \ge inf$. Expected utility theory can run into trouble when utility functions are unbounded above, below, or both.
 
-One problematic example is the St. Petersburg game, originally published by Bernoulli. Suppose that a coin is tossed until it lands tails for the first time. If it lands tails on the first toss, you win $2; if it lands tails on the second toss, you win $4; if it lands tails on the third toss, you win $8, and if it lands tails on the $n$th toss, you win $$2^n$. Assuming each dollar is worth one utile, the expected value of the St Petersburg game is
+One problematic example is the St. Petersburg game, originally published by Bernoulli. Suppose that a coin is tossed until it lands tails for the first time. If it lands tails on the first toss, you win \$2; if it lands tails on the second toss, you win \$4; if it lands tails on the third toss, you win \$8, and if it lands tails on the $n$th toss, you win \$$2^n$. Assuming each dollar is worth one utile, the expected value of the St Petersburg game is
 
 $$ (\tfrac{1}{2} \cdot 2) + (\tfrac{1}{4} \cdot 4) + (\tfrac{1}{8} \cdot 8) + \cdots + (\tfrac{1}{2^n} \cdot 2^n) + \cdots $$ or $$ 1 + 1 + 1 + \cdots = \infty $$
 

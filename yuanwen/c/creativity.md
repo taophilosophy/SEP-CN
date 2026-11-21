@@ -964,7 +964,7 @@ artificial intelligence | epistemology: virtue | ethics: virtue | imagination | 
 
 [^raichle-2001]: Raichle, Marcus E., Ann Mary MacLeod, Abraham Z. Snyder, William J. Powers, Debra A. Gusnard, and Gordon L. Shulman, 2001, “A Default Mode of Brain Function”, *Proceedings of the National Academy of Sciences*, 98(2): 676–682. doi:10.1073/pnas.98.2.676
 
-[^richards-1976]: Richards, Ruth L., 1976, “A Comparison of Selected Guilford and Wallach-Kogan Creative Thinking Tests in Conjunction With Measures of Intelligence*”, *The Journal of Creative Behavior*, 10(3): 151–164. doi:10.1002/j.2162-6057.1976.tb01018.x
+[^richards-1976]: Richards, Ruth L., 1976, “A Comparison of Selected Guilford and Wallach-Kogan Creative Thinking Tests in Conjunction With Measures of Intelligence\*”, *The Journal of Creative Behavior*, 10(3): 151–164. doi:10.1002/j.2162-6057.1976.tb01018.x
 
 [^ritter-2014]: Ritter, Simone M. and Ap Dijksterhuis, 2014, “Creativity: The Unconscious Foundations of the Incubation Period”, *Frontiers in Human Neuroscience*, 8(April). doi:10.3389/fnhum.2014.00215
 
@@ -972,7 +972,7 @@ artificial intelligence | epistemology: virtue | ethics: virtue | imagination | 
 
 [^root-bernstein-1999]: Root-Bernstein, Robert Scott and Michèle Root-Bernstein, 1999, *Sparks of Genius: The Thirteen Thinking Tools of Creative People*, Boston, MA: Houghton, Mifflin and Company.
 
-[^runco-1991]: Runco, Mark A., 1991, “The Evaluative, Valuative, and Divergent Thinking of Children*”, *The Journal of Creative Behavior*, 25(4): 311–319. doi:10.1002/j.2162-6057.1991.tb01143.x
+[^runco-1991]: Runco, Mark A., 1991, “The Evaluative, Valuative, and Divergent Thinking of Children\*”, *The Journal of Creative Behavior*, 25(4): 311–319. doi:10.1002/j.2162-6057.1991.tb01143.x
 
 [^runco-2017]: –––, 2017, “Comments on Where the Creativity Research Has Been and Where Is It Going”, *The Journal of Creative Behavior*, 51(4): 308–313. doi:10.1002/jocb.189
 

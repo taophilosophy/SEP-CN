@@ -549,7 +549,7 @@ feminist philosophy, approaches: psychoanalytic philosophy | feminist philosophy
 
 [^taylor-1999]: Taylor, Mark C., 1999. *About Religion: Economies of Faith in Virtual Culture*, Chicago, IL: University of Chicago Press.
 
-[^thie-1994]: Thie, Marilyn, 1994, “Epilogue: Prolegomenon to Future Feminist* Philosophies of Religions”, *Hypatia*, 9(4): 229–239. doi:10.1111/j.1527-2001.1994.tb00657.x
+[^thie-1994]: Thie, Marilyn, 1994, “Epilogue: Prolegomenon to Future Feminist\* Philosophies of Religions”, *Hypatia*, 9(4): 229–239. doi:10.1111/j.1527-2001.1994.tb00657.x
 
 [^tonstad-2018]: Tonstad, Linn, 2018, *Queer Theology: Beyond Apologetics*, Eugene, OR: Cascade Books.
 

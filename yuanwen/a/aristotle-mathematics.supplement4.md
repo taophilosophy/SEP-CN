@@ -10,16 +10,16 @@ This supplement provides some general indications of Aristotle's awareness and p
 
 ### Greek mathematics in Aristotle's Works
 
-Here are twenty-five of his favorite propositions (the list is not exhaustive). Where a proposition occurs in Euclid's *Elements*, the number is given, * indicates that we can reconstruct from what Aristotle says a proof different from that found in Euclid). Where the attribution is in doubt, I cite the scholar who endorses it. In many cases, the theorem is inferred from the context.
+Here are twenty-five of his favorite propositions (the list is not exhaustive). Where a proposition occurs in Euclid's *Elements*, the number is given, \* indicates that we can reconstruct from what Aristotle says a proof different from that found in Euclid). Where the attribution is in doubt, I cite the scholar who endorses it. In many cases, the theorem is inferred from the context.
 
 1. In a given circle equal chords form equal angles with the circumference of the circle (*Prior Analytics* i.24; not at all Euclidean in conception)
-2. The angles at the base of an isosceles triangle are equal (*Prior Analytics* i.24; Eucl. i.5*).
+2. The angles at the base of an isosceles triangle are equal (*Prior Analytics* i.24; Eucl. i.5\*).
 3. The angles about a point are two right angles (*Metaphysics* ix 9; Eucl. follows from i def. 10).
 4. If two straight-lines are parallel and a straight-line intersects them, the interior angle is equal to the exterior angle (*Prior Analytics* ii.17; Eucl. i 29, cf. 28).
-5. If two straight-lines are parallel and a straight-line intersects them, the alternate angles are equal (possibly, but not likely *Prior Analytics* ii.17 (Heiberg), although the theorem is about parallel lines and uses (7); Eucl. i 29*).
-6. If a straight-line intersects two straight-lines and makes interior or exterior angles equal to two right angles on the same side with each, then the lines are parallel (possibly *Posterior Analytics* i.5 (Blancanus, Heath), but it is possibly the weaker theorem that each angle formed by the intersecting line is right, rather than their sum equals two right angles); Eucl. i 28*)
-7. The internal angles of a triangle are equal to two right angles (frequent, but cf. *Prior Analytics* i.35, *Metaphysics* ix.9; Eucl. corollary to i.32*)
-8. The angle in a semicircle is a right angle (*Posterior Analytics* i.1, ii.11, *Metaphysics* ix.9; Eucl. iii.31*)
+5. If two straight-lines are parallel and a straight-line intersects them, the alternate angles are equal (possibly, but not likely *Prior Analytics* ii.17 (Heiberg), although the theorem is about parallel lines and uses (7); Eucl. i 29\*).
+6. If a straight-line intersects two straight-lines and makes interior or exterior angles equal to two right angles on the same side with each, then the lines are parallel (possibly *Posterior Analytics* i.5 (Blancanus, Heath), but it is possibly the weaker theorem that each angle formed by the intersecting line is right, rather than their sum equals two right angles); Eucl. i 28\*)
+7. The internal angles of a triangle are equal to two right angles (frequent, but cf. *Prior Analytics* i.35, *Metaphysics* ix.9; Eucl. corollary to i.32\*)
+8. The angle in a semicircle is a right angle (*Posterior Analytics* i.1, ii.11, *Metaphysics* ix.9; Eucl. iii.31\*)
 9. In a right triangle the squares on the legs are equal to the square on the hypotenuse (*De incessu animalium* 9 (Heath); Eucl. i.47).
 10. To find the mean proportion of two lines (De anima ii.2, Metaphysics iii.2; Eucl. vi.13, cf. ii.14)
 11. The external angles of a polygon equal 4 right angles *Posterior Analytics* ii.17).
@@ -31,7 +31,7 @@ Here are twenty-five of his favorite propositions (the list is not exhaustive). 
 17. A spiral (which sort?) is non-uniform, i.e., no part coincides with any other (*Physics* v.4).
 18. The shape of a square is unaltered when a gnomon is added, but a rectangle's shape is altered, where a gnomon has the shape of a carpenter's square; about a unit you add three units to get a 2 by 2 square, and about two units you add four units to get a 3 by 2 square (Categories 14, Physics iii.3, this pertains to Pythagorean pebble arithmetic and to ‘quadratic’ problems represented in Euclid, *Elements* ii). ![diagram 6m](../assets/aristotle-mathematics/Diagram6.gif)
 19. Two spheres rotating in different directions (presumably about axes which do not coincide), with one carrying the other, produce a non-uniform motion (*De gen. et corr*. ii.10. cf. *Metaphysics* iii.2, possibly with (17) above).
-20. In a parallelogram, a line drawn parallel to a side through two sides cuts the area and the side in the same ratio (*Topics* viii.3; Eucl. vi.1*)
+20. In a parallelogram, a line drawn parallel to a side through two sides cuts the area and the side in the same ratio (*Topics* viii.3; Eucl. vi.1\*)
 21. The multiple of two cube numbers is a cube number (controversial, but cf. *Posterior Analytics* i.7; Eucl. ix.4)
 22. The apparent size of objects is proportional to their distance from the observer — the precise sense of the claim is uncertain (*De memoria* 2; perhaps Euclid, *Optics* def. 4, prop. 5)
 23. A rainbow is never greater than a semicircle (incidentally, this is true in Kansas, but false on Mt. Olympus, and for reasons evident in the proof, which is otherwise based on a false theory of reflection) (*Meteorologica* iii.5).
@@ -39,7 +39,7 @@ Here are twenty-five of his favorite propositions (the list is not exhaustive). 
 (1) and (3) might be basic principles for Aristotle. Of greater interest, (3) and (4), (5), (7), (8), and possibly (13) form a natural deductive sequence. (7) is Aristotle's favorite example. In proportion theory, he uses many principles, but two are clear favorites:
 
 1. Proportions alternate (*a* : *b* = *c* : *d* => *a* : *c* = *b* : *d*) (*Posterior Analytics* i.5, ii.17, cf. *De anima* iii.7, *Nicomachean Ethics* v.3; Eucl. v.16).
-2. The side and diagonal of a square are incommensurable (from showing that odd numbers would otherwise be equal to even numbers) (ver frequent, but cf. *Prior Analytics* i.24, 44; Eucl. x Appendix 27 (2 versions) * (perhaps)).
+2. The side and diagonal of a square are incommensurable (from showing that odd numbers would otherwise be equal to even numbers) (ver frequent, but cf. *Prior Analytics* i.24, 44; Eucl. x Appendix 27 (2 versions) \* (perhaps)).
 
 Additionally, one of Aristotle's favorite examples is the problem of squaring a circle (finding a square equal to a given circle). The problem must be as old as Greek mathematics, given that the problem marks a transition from Egyptian to Greek style mathematics. Some have held that there was at least one solution, using a curve called the quadratrix, in the time of Aristotle, a very controversial claim. Aristotle shows no awareness of a solution to the problem, which may well count as evidence that the quadratrix was either not yet discovered or was not used for this purpose.
 

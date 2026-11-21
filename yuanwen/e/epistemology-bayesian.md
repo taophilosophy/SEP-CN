@@ -25,7 +25,7 @@ This intuition about how credences ought to change can be vindicated in Bayesian
 
 ![a diagram: link to extended description below](../assets/epistemology-bayesian/poss.png)
 
-*Figure 1:* A Space of Three Possibilities. [An extended description of figure 1.]
+\*Figure 1:\* A Space of Three Possibilities. [An extended description of figure 1.]
 
 Those possibilities are *mutually exclusive* in the sense that no two of them can hold together; and they are *jointly exhaustive* in the sense that at least one of them must hold. A person can be more or less confident that a given possibility holds. Suppose that it makes sense to say of a person that she is, say, 80% confident that a certain possibility holds. In this case, say that this person’s degree of belief, or credence, in that possibility is equal to 0.8. A credence might be any other real number. (How to make sense of real-valued credences is a major topic for Bayesians, to be discussed in §1.6 and §1.7 below.)
 
@@ -33,7 +33,7 @@ Now I can sketch the two core norms in Bayesian epistemology. According to the f
 
 ![a diagram: link to extended description below](../assets/epistemology-bayesian/condi-1.png)
 
-*Figure 2:* Conditionalization on Evidence. [An extended description of figure 2.]
+\*Figure 2:\* Conditionalization on Evidence. [An extended description of figure 2.]
 
 Now, suppose that a person with this credence distribution receives *E* as new evidence. It seems that as a result, there should be some change in credences. But how should they change? According to the second norm, called the *Principle of Conditionalization*, the possibility incompatible with *E* (i.e., the rightmost possibility) should have its credence dropped down to 0, and to satisfy Probabilism, the remaining credences should be scaled up—rescaled to sum to 1. So this person’s credence in hypothesis *H* has to rise in a way such as that depicted in figure 2.
 
@@ -41,7 +41,7 @@ Moreover, suppose that new evidence *E* is very surprising. It means that the pe
 
 ![a diagram: link to extended description below](../assets/epistemology-bayesian/condi-2.png)
 
-*Figure 3:* Conditionalization on Surprising Evidence. [An extended description of figure 3.]
+\*Figure 3:\* Conditionalization on Surprising Evidence. [An extended description of figure 3.]
 
 Then conditionalization on *E* requires a total credence collapse followed by a dramatic scaling-up of the other credences. In particular, the credence in *H* is raised significantly, unless it is zero to begin with. This vindicates the intuition reported in the case of Eddington’s Observation.
 
@@ -97,21 +97,21 @@ So far I have been mostly taking for granted the package of Probabilism and the 
 
 There have been a number of arguments advanced in support of the two core Bayesian norms. Perhaps the most influential is of the kind called *Dutch Book arguments*. Dutch Book arguments are motivated by a simple, intuitive idea: Belief guides action. So, the more strongly you believe that it will rain tomorrow, the more inclined you are, or ought to be, to bet on bad weather. This idea, which connects degrees of belief to betting dispositions, can be captured at least partially by the following:
 
-- *A Credence-Betting Bridge Principle (Toy Version).* If one’s credence in a proposition *A* is equal to a real number *a*, then it is acceptable for one to buy the bet “Win $100 if *A* is true” at the price $\$100 \cdot a$ (and at any lower price).
+- *A Credence-Betting Bridge Principle (Toy Version).* If one’s credence in a proposition *A* is equal to a real number *a*, then it is acceptable for one to buy the bet “Win \$100 if *A* is true” at the price $\$100 \cdot a$ (and at any lower price).
 
 This bridge principle might be construed as part of a definition or as a necessary truth that captures the nature of credences, or understood as a norm that jointly constrains credences and betting dispositions (Christensen 1996; Pettigrew 2020a: sec. 3.1)[^christensen-1996][^pettigrew-2020a]. The hope is that, through this bridge principle or perhaps a refined one, bad credences generate bad symptoms in betting dispositions. If so, a close look at betting dispositions might help us sort out bad credences from good ones. This is the strategy that underlies Dutch Book arguments.
 
 To illustrate, consider an agent who has a .75 credence in proposition *A* and a .30 credence in its negation $\neg A$ (which violates Probabilism). Assuming the bridge principle stated above, the agent is willing to bet as follows:
 
-- Buy “win $100 if *A* is true” at $\$75$.
-- Buy “win $100 if $\neg A$ is true” at $\$30$.
+- Buy “win \$100 if *A* is true” at $\$75$.
+- Buy “win \$100 if $\neg A$ is true” at $\$30$.
 
-So the agent is willing to accept *each* of those two offers. But it is actually very bad to accept *both* at the same time, for that leads to a sure loss (of $5):
+So the agent is willing to accept *each* of those two offers. But it is actually very bad to accept *both* at the same time, for that leads to a sure loss (of \$5):
 
 |   | *A* is true | *A* is false |
 | --- | --- | --- |
-| buy “win $100 if *A* is true” at $75 | $-\$75 + \$100$ | $-\$75$ |
-| buy “win $100 if $\neg A$ is true” at $30 | $-\$30$ | $-\$30 + \$100$ |
+| buy “win \$100 if *A* is true” at \$75 | $-\$75 + \$100$ | $-\$75$ |
+| buy “win \$100 if $\neg A$ is true” at \$30 | $-\$30$ | $-\$30 + \$100$ |
 | net payoff | $-\$5$ | $-\$5$ |
 
 So this agent’s betting dispositions make her susceptible to a set of bets that are individually acceptable but jointly inflict a sure loss. Such a set of bets is called a *Dutch Book*. The above agent is susceptible to a Dutch Book, which sounds bad for the agent. So what has gone wrong? The problem seems to be this: Belief guides action, and in this case, bad beliefs result in bad actions: garbage in, garbage out. Therefore, the agent should not have had the combination of credence .75 in $A$ and .30 in $\neg A$ to begin with—or so a Dutch Book argument would conclude.

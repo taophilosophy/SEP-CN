@@ -545,7 +545,7 @@ Many thanks to Gideon Rosen for useful comments on an earlier draft of this entr
 
 [^voltolini-2010]: –––, 2010, “Against Against Fictional Realism”, *Grazer Philosophische Studien*, 80: 47–63.doi:10.1163/18756735-90000870
 
-[^voltolini-2012]: –––, 2012, “Crossworks ‘Identity’ and Intrawork* Identity of a Fictional Character”, *Revue internationale de philosophie*, 2012/4(262): 561–576.
+[^voltolini-2012]: –––, 2012, “Crossworks ‘Identity’ and Intrawork\* Identity of a Fictional Character”, *Revue internationale de philosophie*, 2012/4(262): 561–576.
 
 [^voltolini-2013]: –––, 2013, “Probably the Charterhouse of Parma Does not Exist, Possibly not Even That Parma”, *Humana Mente*, 6(25): 235–261. [[Voltolni 2013 available online](http://www.humanamente.eu/index.php/HM/article/view/142)]
 

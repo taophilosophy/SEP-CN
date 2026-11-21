@@ -19,7 +19,7 @@ This theorem is not explicitly stated in his 1938b but it is an immediate conseq
 
 $$\tag{e1} m= b^{n_1}\cdot k_1+\ldots +b^{n_r}\cdot k_r $$
 
-where $m>n_1>\ldots>n_r\geq 0$ and $0<k_1,\ldots, k_r<b$. As each $n_i>0$ is itself of this form we can repeat this procedure, arriving at what is called the complete *b*-representation of *m*. In this way we get a unique representation of *m* over the alphabet $0,1,\ldots,b,+,\cdot$.
+where $m>n_1>\ldots>n_r\geq 0$ and $0<k_1,\ldots, k_r<b$. As each $n_i>0$ is itself of this form we can repeat this procedure, arriving at what is called the *complete b-representation* of *m*. In this way we get a unique representation of *m* over the alphabet $0,1,\ldots,b,+,\cdot$.
 
 For example
 

@@ -491,7 +491,7 @@ Thanks for their help and advice to Jeffrey Brower, Jeffrey Hause, Scott MacDona
 
 [^hause-2007]: –––, 2007, “Aquinas on the Function of Moral Virtue”, *American Catholic Philosophical Quarterly*, 81(1): 1–20. doi:10.5840/acpq200781145
 
-[^hause-2018]: ––– (ed.), 2018, Aquinas’s Summa Theologiae: A Critical Guide, Cambridge: Cambridge University Press. doi:10.1017/9781316271490
+[^hause-2018]: ––– (ed.), 2018, *Aquinas’s Summa Theologiae: A Critical Guide*, Cambridge: Cambridge University Press. doi:10.1017/9781316271490
 
 [^hissette-1977]: Hissette, Roland, 1977, *Enquête sur les 219 articles condamnés à Paris le 7 mars 1277*, Louvain: Publications universitaires.
 
@@ -535,9 +535,9 @@ Thanks for their help and advice to Jeffrey Brower, Jeffrey Hause, Scott MacDona
 
 [^knobel-2021]: Knobel, Angela, 2021, *Aquinas and the Infused Moral Virtues*, Notre Dame, IN: University of Notre Dame Press.
 
-[^kretzmann-1997]: Kretzmann, Norman, 1997, The Metaphysics of Theism: Aquinas’s Natural Theology in Summa Contra Gentiles I, Oxford: Clarendon Press. doi:10.1093/019924653X.001.0001
+[^kretzmann-1997]: Kretzmann, Norman, 1997, *The Metaphysics of Theism: Aquinas’s Natural Theology in Summa Contra Gentiles I*, Oxford: Clarendon Press. doi:10.1093/019924653X.001.0001
 
-[^kretzmann-1999]: –––, 1999, The Metaphysics of Creation: Aquinas’s Natural Theology in Summa Contra Gentiles II, Oxford: Clarendon Press. doi:10.1093/0199246548.001.0001
+[^kretzmann-1999]: –––, 1999, *The Metaphysics of Creation: Aquinas’s Natural Theology in Summa Contra Gentiles II*, Oxford: Clarendon Press. doi:10.1093/0199246548.001.0001
 
 [^leftow-1990]: Leftow, Brian, 1990, “Aquinas on Time and Eternity”, *American Catholic Philosophical Quarterly*, 64(3): 387–99. doi:10.5840/acpq199064315
 
@@ -577,7 +577,7 @@ Thanks for their help and advice to Jeffrey Brower, Jeffrey Hause, Scott MacDona
 
 [^mcinerny-1997]: –––, 1997, *Ethica Thomistica: The Moral Philosophy of Thomas Aquinas*, revised edition, Washington, DC: Catholic University of America Press.
 
-[^miner-2009]: Miner, Robert C., 2009, Thomas Aquinas on the Passions: A Study of Summa theologiae 1a2ae 22–48, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511576560
+[^miner-2009]: Miner, Robert C., 2009, *Thomas Aquinas on the Passions: A Study of Summa theologiae 1a2ae 22–48*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511576560
 
 [^montagnes-1963]: Montagnes, Bernard, 1963 [2004], *La Doctrine de l’analogie de l’être d’après Saint Thomas D’Aquin*, Louvain: Publications universitaires. Translated as *The Doctrine of the Analogy of Being according to Thomas Aquinas*, E. M. Macierowski and Pol Vandevelde (trans), Andrew Tallon (ed.), Milwaukee: Marquette University Press, 2004.
 
@@ -597,7 +597,7 @@ Thanks for their help and advice to Jeffrey Brower, Jeffrey Hause, Scott MacDona
 
 [^pasnau-1997]: Pasnau, Robert, 1997, *Theories of Cognition in the Later Middle Ages*, Cambridge/New York: Cambridge University Press.
 
-[^pasnau-2002]: –––, 2002, Thomas Aquinas on Human Nature: A Philosophical Study of Summa theologiae 1a 75–89, New York: Cambridge University Press. doi:10.1017/CBO9780511613180
+[^pasnau-2002]: –––, 2002, *Thomas Aquinas on Human Nature: A Philosophical Study of Summa theologiae 1a 75–89*, New York: Cambridge University Press. doi:10.1017/CBO9780511613180
 
 [^pasnau-2011]: –––, 2011, *Metaphysical Themes 1274–1671*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199567911.001.0001
 

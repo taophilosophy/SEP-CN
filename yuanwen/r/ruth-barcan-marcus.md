@@ -67,7 +67,7 @@ $$\tag*{37.} \vdash (\exists\alpha)\modalD A \Rightarrow \modalD (\exists\alpha)
 
 System S2 is not strong enough to prove BF, which is thus assumed as an axiom. In these early papers, Barcan does not discuss the semantic significance of the Barcan formula (BF) and its converse (CBF).
 
-The paper ends with a brief discussion of the stronger system S4 which extends S2 by the addition of its characteristic axiom $\vdash\modalD\modalD A \Rightarrow \modalD A$ (axiom 4 in current terminology) equivalent to $\vdash\modalB A \Rightarrow \modalB\modalB A$, and includes the proof of a key theorem (XIX*) which together with axiom 4 will be employed to prove the deduction theorem for S4.
+The paper ends with a brief discussion of the stronger system S4 which extends S2 by the addition of its characteristic axiom $\vdash\modalD\modalD A \Rightarrow \modalD A$ (axiom 4 in current terminology) equivalent to $\vdash\modalB A \Rightarrow \modalB\modalB A$, and includes the proof of a key theorem (XIX\*) which together with axiom 4 will be employed to prove the deduction theorem for S4.
 
 ### 2.2 Deducibility and the Deduction Theorem
 
@@ -97,7 +97,7 @@ For S4 (S4¹) instead, Barcan proves the full deduction theorem for the material
 
 For the strict conditional, Barcan proves the following restricted deduction theorem for S4:
 
-XXIX*.
+XXIX\*.
 
 If $A_1, A_2, \ldots , A_n \vdash B$ and if $$\begin{align*} \vdash A_1 & \Leftrightarrow \modalB\Gamma_1,\\ \vdash A_2 & \Leftrightarrow \modalB\Gamma_2,\\ &\;\;\vdots\\ \vdash A_n &\Leftrightarrow \modalB\Gamma_n,\\ \end{align*}$$ then $A_1, A_2, \ldots , A_{n-1} \vdash A_n \Rightarrow B$.
 
@@ -155,7 +155,7 @@ The following are the S2² results pertaining to (the necessity of) identity and
 
 $$ \begin{align} \tag*{2.6} \vdash \beta \uID \beta\label{th2.6}\\ \tag*{2.18} \vdash \beta \mID \beta\label{th2.18}\\ \tag*{2.24} \vdash \modalB (\beta \mID \beta)\label{th2.24}\\ \end{align} $$
 
-Barcan does not take identity as primitive, so neither \ref{th2.6} nor \ref{th2.18} are axioms. The proof of \ref{th2.6} must clearly start from $\vdash (\Phi \beta \Leftrightarrow \Phi \beta)$ (recall that Barcan’s systems are axiomatized for strict implication) and make use of second-order universal generalization and of theorem \ref{th2.5}. \ref{th2.18} can be similarly derived but using also $\vdash (\modalB A \Rightarrow A)$ (a theorem of S2 for Barcan, now standardly assumed as axiom T) to get $\vdash (\Phi \beta \leftrightarrow \Phi \beta)$. Finally, \ref{th2.24} can be derived from \ref{th2.6} using this instance of the second-order Barcan formula (not by necessitation of \ref{th2.18} as necessitation is not a valid S2 rule):
+Barcan does not take identity as primitive, so neither \\ref{th2.6} nor \\ref{th2.18} are axioms. The proof of \\ref{th2.6} must clearly start from $\vdash (\Phi \beta \Leftrightarrow \Phi \beta)$ (recall that Barcan’s systems are axiomatized for strict implication) and make use of second-order universal generalization and of theorem \\ref{th2.5}. \\ref{th2.18} can be similarly derived but using also $\vdash (\modalB A \Rightarrow A)$ (a theorem of S2 for Barcan, now standardly assumed as axiom T) to get $\vdash (\Phi \beta \leftrightarrow \Phi \beta)$. Finally, \\ref{th2.24} can be derived from \\ref{th2.6} using this instance of the second-order Barcan formula (not by necessitation of \\ref{th2.18} as necessitation is not a valid S2 rule):
 
 $$\vdash (\forall \theta) \modalB (\theta(\beta)\rightarrow\theta(\beta)) \Rightarrow \modalB (\forall \theta) (\theta(\beta)\rightarrow\theta(\beta).$$
 
@@ -165,9 +165,9 @@ $$\tag*{2.23} \vdash \modalB (\beta_1 \mID \beta_2) \Leftrightarrow \beta_1 \uID
 
 as its proof clearly depends just on the second-order BF and CBF, given that by definition $\modalB (\beta_1 \mID \beta_2)$ and $(\beta_1 \uID \beta_2)$ are equivalent to $\modalB (\forall \theta) (\theta(\beta_1)\leftrightarrow \theta(\beta_2))$ and $(\forall \theta) \modalB (\theta(\beta_1)\leftrightarrow\theta(\beta_2))$, respectively. So, by the second-order CBF (the left-to-right direction) if it is necessary that $\beta_1$ and $\beta_2$ are indiscernible, namely that they share all their properties, then it strictly follows that all properties are necessarily shared by them, i.e., no property can differentiate them. And by the second-order BF (the right-to-left direction) if no property can differentiate $\beta_1$ and $\beta_2$, then it strictly follows that they are necessarily indiscernible. This result is model-theoretically guaranteed if the second-order quantifiers range over an invariant domain of properties (and relations) assigned to all the worlds of a model.
 
-This must have been Barcan’s assumed reading as it matches her reading of the first-order quantifiers (see section 6 of this entry) and is quite natural in the second-order case. On an alternative reading, assigning to each world its domain of properties and relations, the result holds if the world-relative domains are constant: in this case \ref{ex2.23} can be read as stating the equivalence between the possibility that a property distinguishes $\beta_1$ and $\beta_2$ and some actual property possibly distinguishing them.
+This must have been Barcan’s assumed reading as it matches her reading of the first-order quantifiers (see section 6 of this entry) and is quite natural in the second-order case. On an alternative reading, assigning to each world its domain of properties and relations, the result holds if the world-relative domains are constant: in this case \\ref{ex2.23} can be read as stating the equivalence between the possibility that a property distinguishes $\beta_1$ and $\beta_2$ and some actual property possibly distinguishing them.
 
-Barcan’s focus is on the more interesting result that identity can be proved to be equivalent to material identity (and not just to the necessity of material identity as in \ref{ex2.23}). Their equivalence is material ($\leftrightarrow$) in S2² and strict ($\Leftrightarrow$) in S4² (1947: 15). The following is Barcan’s proof of the material equivalence of material identity and identity in S2².[^note-5]
+Barcan’s focus is on the more interesting result that identity can be proved to be equivalent to material identity (and not just to the necessity of material identity as in \\ref{ex2.23}). Their equivalence is material ($\leftrightarrow$) in S2² and strict ($\Leftrightarrow$) in S4² (1947: 15). The following is Barcan’s proof of the material equivalence of material identity and identity in S2².[^note-5]
 
 $$\tag*{2.31} \vdash (\beta_1 \mID \beta_2) \leftrightarrow (\beta_1 \uID \beta_2)\label{ex2.31}$$
 
@@ -178,13 +178,13 @@ Proof:
 3. $(\beta_1 \uID \beta_2) \rightarrow (\beta_1 \mID \beta_2)$
 4. $(\beta_1 \mID \beta_2) \leftrightarrow (\beta_1 \uID \beta_2)$
 
-The first step of the proof follows from the definition of $\mID$. If $\beta_2$ is materially identical to $\beta_1$, it has all the properties of $\beta_1$. So, if one of $\beta_1$’s properties is to be strictly, that is, necessarily identical to $\beta_1$, i.e., $\hat\alpha(\beta_1 \uID \alpha)$, then $\beta_2$ has that property too. The abstraction axiom is also needed to transform expressions like $\hat\alpha(\beta_1 \uID \alpha)(\beta)$ into $(\beta_1 \uID \beta)$. Given \ref{th2.6}, that is $\vdash \beta_1 \uID \beta_1$, step 2 follows from 1. Step 3 follows from $\vdash \modalB (\beta_1 \mID \beta_2) \Rightarrow (\beta_1 \mID \beta_2)$ and \ref{ex2.23}, the equivalence of identity to the necessity of material identity: if the necessity of material identity strictly and so materially implies material identity so does identity, by substitutivity of equivalents. Step 4 combines 2 and 3.
+The first step of the proof follows from the definition of $\mID$. If $\beta_2$ is materially identical to $\beta_1$, it has all the properties of $\beta_1$. So, if one of $\beta_1$’s properties is to be strictly, that is, necessarily identical to $\beta_1$, i.e., $\hat\alpha(\beta_1 \uID \alpha)$, then $\beta_2$ has that property too. The abstraction axiom is also needed to transform expressions like $\hat\alpha(\beta_1 \uID \alpha)(\beta)$ into $(\beta_1 \uID \beta)$. Given \\ref{th2.6}, that is $\vdash \beta_1 \uID \beta_1$, step 2 follows from 1. Step 3 follows from $\vdash \modalB (\beta_1 \mID \beta_2) \Rightarrow (\beta_1 \mID \beta_2)$ and \\ref{ex2.23}, the equivalence of identity to the necessity of material identity: if the necessity of material identity strictly and so materially implies material identity so does identity, by substitutivity of equivalents. Step 4 combines 2 and 3.
 
 The interesting part of the proof is the first two steps proving the left-to-right direction, where we move from the statement that $\beta_1$ and $\beta_2$ are actually indiscernible to their being necessarily indiscernible (as far as actual properties are concerned, if the domain of properties is world-relative). This direction is the one for which in S2² only the material conditional holds. Barcan’s proof of this result will inevitably remind us of Kripke’s proof of the necessity of identity in the opening pages of “Identity and Necessity” (1971). Barcan’s and Kripke’s proofs have a similar structure. We start with (some form of) identity between *x* and *y* implying their indiscernibility, and given that one of the properties of *x* is to be (in some sense) necessarily identical to *x* we conclude that *y* too bears that property. But there are differences too. Kripke’s starting point is primitive identity which implies indiscernibility (by Leibniz Law) but is not defined in its terms. So, Kripke derives the unqualified necessity of identity. Barcan’s starting point is material identity defined as indiscernibility, no property differentiates the two objects, from which it is derived that no property can differentiate them. Moreover, Kripke’s proof is not stated in terms of properties at all, rather necessary statements. Barcan’s is in terms of properties, though as referents of abstracts derived from formulas (on this point see Wiggins 1976a and 1976b)[^wiggins-1976a][^wiggins-1976b]. Also, as far as Barcan’s result is concerned, the objects may indeed still be two if *I* as defined is still not genuine identity, i.e., should necessary indiscernibility not suffice for identity.
 
-Next, Barcan proves the following results which hold only in the stronger system S4²: the strict equivalence of identity and the necessity of identity (theorem \ref{ex2.32}) and the strict equivalence of identity and material identity (theorem \ref{ex2.33}).
+Next, Barcan proves the following results which hold only in the stronger system S4²: the strict equivalence of identity and the necessity of identity (theorem \\ref{ex2.32}) and the strict equivalence of identity and material identity (theorem \\ref{ex2.33}).
 
-Concerning the strict equivalence of identity and the necessity of identity, the proof makes use of the characteristic axiom of S4. Given the strict equivalence in S4 of $\modalB A$ and $\modalB\modalB A$, we have that the necessity of the necessity of material identity is strictly equivalent to the necessity of material identity $\vdash \modalB \modalB (\beta_1 \mID \beta_2)\Leftrightarrow\modalB(\beta_1 \mID \beta_2)$. And since the necessity of material identity is strictly equivalent to identity (theorem \ref{ex2.23}) $(\beta_1 \uID \beta_2)$ can replace $\modalB (\beta_1 \mID \beta_2)$ in the above equivalence, resulting in:
+Concerning the strict equivalence of identity and the necessity of identity, the proof makes use of the characteristic axiom of S4. Given the strict equivalence in S4 of $\modalB A$ and $\modalB\modalB A$, we have that the necessity of the necessity of material identity is strictly equivalent to the necessity of material identity $\vdash \modalB \modalB (\beta_1 \mID \beta_2)\Leftrightarrow\modalB(\beta_1 \mID \beta_2)$. And since the necessity of material identity is strictly equivalent to identity (theorem \\ref{ex2.23}) $(\beta_1 \uID \beta_2)$ can replace $\modalB (\beta_1 \mID \beta_2)$ in the above equivalence, resulting in:
 
 $$\tag*{2.32*} \vdash \modalB (\beta_1 \uID \beta_2) \Leftrightarrow \beta_1 \uID \beta_2.\label{ex2.32}$$
 
@@ -192,7 +192,7 @@ Concerning the strict equivalence of identity and material identity:
 
 $$\tag*{2.33*} \vdash (\beta_1 \mID \beta_2) \Leftrightarrow (\beta_1 \uID \beta_2)\label{ex2.33}$$
 
-this is simply the necessitation of \ref{ex2.31} and necessitation is a valid S4 rule, though Barcan does not appear to be aware of the validity of necessitation in 1947. She first mentions the rule with a reference to McKinsey and Tarski (1948) in her 1953 paper, when she uses it to extend her results on the deduction theorem for S4. So, her proof of \ref{ex2.33} is more complex and starts similarly to her proof of \ref{ex2.31}. For the hard left-to-right side, we start from
+this is simply the necessitation of \\ref{ex2.31} and necessitation is a valid S4 rule, though Barcan does not appear to be aware of the validity of necessitation in 1947. She first mentions the rule with a reference to McKinsey and Tarski (1948) in her 1953 paper, when she uses it to extend her results on the deduction theorem for S4. So, her proof of \\ref{ex2.33} is more complex and starts similarly to her proof of \\ref{ex2.31}. For the hard left-to-right side, we start from
 
 $$\vdash (\beta_1 \mID \beta_2) \Rightarrow ((\beta_1 \uID \beta_1)\rightarrow (\beta_1 \uID \beta_2))$$
 
@@ -200,11 +200,11 @@ from which, given $\vdash(\beta_1 \uID \beta_1)$, in S4 we can derive
 
 $$\vdash ((\beta_1 \mID \beta_2) \land (\beta_1 \uID \beta_1))\Rightarrow(\beta_1 \uID \beta_2).$$
 
-Then given $\vdash\modalB (\beta_1 \uID \beta_1)$, whose proof requires \ref{ex2.32}, we can prove
+Then given $\vdash\modalB (\beta_1 \uID \beta_1)$, whose proof requires \\ref{ex2.32}, we can prove
 
 $$\vdash (\beta_1 \mID \beta_2) \Rightarrow (\beta_1 \uID \beta_2).$$
 
-From \ref{ex2.32} and \ref{ex2.33} it also follows that material identity is necessarily equivalent to the necessity of identity:
+From \\ref{ex2.32} and \\ref{ex2.33} it also follows that material identity is necessarily equivalent to the necessity of identity:
 
 $$\vdash \modalB (\beta_1 \uID \beta_2) \Leftrightarrow \beta_1 \mID \beta_2.$$
 
@@ -212,11 +212,11 @@ Figures 1 and 2 graphically represent the results holding for S2² and S4² resp
 
 ![to be filled in](../assets/ruth-barcan-marcus/figure1.svg)
 
-*Figure 1:* Valid implications in S2²
+\*Figure 1:\* Valid implications in S2²
 
 ![to be filled in](../assets/ruth-barcan-marcus/figure2.svg)
 
-*Figure 2:* Valid implications in S4²
+\*Figure 2:\* Valid implications in S4²
 
 To sum up, in 1947 Barcan proves that in S4² the material identity of two objects necessarily implies not just their strict identity and the necessity of their material identity, but also the necessity of their strict identity, because $(\forall \theta) (\theta(\beta_1)\leftrightarrow\theta(\beta_2))$ strictly implies $\modalB(\forall \theta) \modalB(\theta(\beta_1)\leftrightarrow\theta(\beta_2))$. This means that the actual indiscernibility of $\beta_1$ and $\beta_2$ implies the impossibility that any property might distinguish them.
 
@@ -451,15 +451,15 @@ Formally:
 
 $$\tag{1} \modalB ((\textit{Gs} \land \textit{Rs})\rightarrow \textit{Ds})$$ $$\tag{2} \modalB (\textit{Gs}\rightarrow (\textit{Rs}\rightarrow \textit{Ds}))\label{ex5_2}$$ $$\tag{3} \modalB (\textit{Rs}\rightarrow (\textit{Gs}\rightarrow \textit{Ds}))\label{ex5_3}$$
 
-However, from (\ref{ex5_2}) it also follows that being immersed in aqua regia causes $s$, which is a piece of gold, to dissolve:
+However, from (\\ref{ex5_2}) it also follows that being immersed in aqua regia causes $s$, which is a piece of gold, to dissolve:
 
 $$\tag{4} \modalB (\textit{Rs}\rightarrow \textit{Ds});\label{ex5_4}$$
 
-but from (\ref{ex5_3}) it does not follow that being a sample of gold causes $s$ to dissolve:
+but from (\\ref{ex5_3}) it does not follow that being a sample of gold causes $s$ to dissolve:
 
 $$\tag{5} \neg \modalB (\textit{Gs}\rightarrow Ds).\label{ex5_5}$$
 
-How so? The reason is that being gold is an essential property of $s$, $\modalB \textit{Gs}$, and from this and (\ref{ex5_2}) the necessity of the consequent, i.e., (\ref{ex5_4}), follows; but being immersed in aqua regia is not essential to $s$, $\neg\modalB \textit{Rs}$, hence the necessity of the consequent of (\ref{ex5_3}) cannot be proved, and (\ref{ex5_5}) holds. Thus, dissolving if put in aqua regia $\hat{y}(Ry\rightarrow Dy)$ is an essential property of gold; but dissolving if made of gold $\hat{y}(Gy\rightarrow Dy)$ is not an essential property of things immersed in aqua regia. There is no natural kind *things put in aqua regia* that might ground such a bizarre disposition (1971: 200–202). On Aristotelian essentialism see also Marcus 1975/76: 44–45.
+How so? The reason is that being gold is an essential property of $s$, $\modalB \textit{Gs}$, and from this and (\\ref{ex5_2}) the necessity of the consequent, i.e., (\\ref{ex5_4}), follows; but being immersed in aqua regia is not essential to $s$, $\neg\modalB \textit{Rs}$, hence the necessity of the consequent of (\\ref{ex5_3}) cannot be proved, and (\\ref{ex5_5}) holds. Thus, dissolving if put in aqua regia $\hat{y}(Ry\rightarrow Dy)$ is an essential property of gold; but dissolving if made of gold $\hat{y}(Gy\rightarrow Dy)$ is not an essential property of things immersed in aqua regia. There is no natural kind *things put in aqua regia* that might ground such a bizarre disposition (1971: 200–202). On Aristotelian essentialism see also Marcus 1975/76: 44–45.
 
 ## 6. Actualism and the Barcan Formula
 

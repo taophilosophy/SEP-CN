@@ -161,7 +161,7 @@ Latin American Philosophy | liberalism
 
 [^mora-1837]: Mora, José María Luis, 1837, *Obras sueltas de José María Luis Mora, ciudadano Mexicano*, México: Porrúa, 1963. [[Mora 1837 available online](https://archive.org/details/obrassueltasdej00moragoog)]
 
-[^rabasa-1912]: Rabasa, Emilio, 1912, *La constitución y la dictadura: estudio sobre la organización política de México*, México: Porrúa, *2006. [[Rabasa 1912 available online](http://issuu.com/jshm00/docs/rabasa.constituciondictadura)]
+[^rabasa-1912]: Rabasa, Emilio, 1912, *La constitución y la dictadura: estudio sobre la organización política de México*, México: Porrúa, \*2006. [[Rabasa 1912 available online](http://issuu.com/jshm00/docs/rabasa.constituciondictadura)]
 
 [^samper-1861]: Samper, José María, 1861, *Ensayo sobre las revoluciones políticas y la condición social de las repúblicas colombianas Hispano-americanas*, México: UNAM, 1979.
 

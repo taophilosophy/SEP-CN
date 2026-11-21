@@ -16,9 +16,9 @@
 
 The following is Church’s derivation of GP (Grelling’s paradox) within STT plus the axioms for $D(v, F)$ in the style that metamathematical arguments are sometimes presented in his text. Only the spacing of the lines has been changed. The starred numbers refer to sections of Church’s text.
 
-The antinomy in simple type theory is obtained as follows. We use the abbreviations “P”, “gen.”, “ded.thm.”, “subst.eq.”, “ex.inst.”, “neg.$\exists$”, “S” to refer to propositional calculus, rule of generalization, deduction theorem and analogues of *513, *518, *338, *509 in the functional calculus of higher order.
+The antinomy in simple type theory is obtained as follows. We use the abbreviations “P”, “gen.”, “ded.thm.”, “subst.eq.”, “ex.inst.”, “neg.$\exists$”, “S” to refer to propositional calculus, rule of generalization, deduction theorem and analogues of \*513, \*518, \*338, \*509 in the functional calculus of higher order.
 
-By *,
+By \*,
 
 $$D(v,F), D(v,\het) \vdash F(x) \equiv_{x} \het (x)$$
 
@@ -26,7 +26,7 @@ Hence by subst.eq.,
 
 $$D(v,F), \nsim F(v), D(v,\het) \vdash \nsim \het (v)$$
 
-Hence by ex.inst. and axiom ***,
+Hence by ex.inst. and axiom \*\*\*,
 
 $$\het(v), D(v, \het) \vdash \nsim\het (v)$$
 
@@ -38,7 +38,7 @@ Hence by P,
 
 $$D(v, \het) \vdash \nsim\het(v)$$
 
-Hence by the axiom ***,
+Hence by the axiom \*\*\*,
 
 $$D(v, \het) \vdash \nsim(\exists F) \hdot D(v, F) \cdot \nsim F(v)$$
 
@@ -66,7 +66,7 @@ Hence by neg.$\exists$,
 
 $$\vdash \nsim(\exists v) D(v, \het)$$
 
-But this contradicts **
+But this contradicts \*\*
 
 ### F.2 Comparison with Tarski
 
@@ -76,7 +76,7 @@ In section 3 of (1976), Church defines $\stL$ to be the full ramified language w
 
 The structure of the $r$-types and the associated ban on impredicative definitions excludes many principles required for the standard theories of natural and real numbers, as well as higher set theory; and to remedy this problem, Russell proposed the axioms of reducibility, defined for each distinct type, whereby propositional functions of higher order are guaranteed to be provably equivalent to propositional functions of the first level (in every type). Russell called these “first order” or “predicative” functions. Reducibility solves the mathematical problem—but Church’s focus in (1976) is on GP and the question whether reducibility together with the semantical principles regarding *Val* allows the resurgence of GP. In what follows we continue to trade in Val for the slightly simpler, but for present purposes, equally general, $D$, but we return to Val when necessary.
 
-Reducibility implies that there is a propositional function of level 1 that is provably equivalent to het of a fixed arbitrary level, as defined by **** in the text:
+Reducibility implies that there is a propositional function of level 1 that is provably equivalent to het of a fixed arbitrary level, as defined by \*\*\*\* in the text:
 
 $$\tag{12′} (\exists H^{1/1}) \hdot H(v) \equiv v (\exists F^{1/n}) D(v, F) \cdot \nsim F(v).$$
 
@@ -86,7 +86,7 @@ $$\tag{8′} (\exists v)(\exists G^{1/1}) D^{m+2}(v, G) \hdot G(x) \equiv_{x} \h
 
 As Church remarks, the formal counterpart of this, (8) of (1976), formulated in terms of Val does not seem to be forthcoming merely by the addition of reducibility; and the same seems to be true of the version (8′) in terms of $D$. Hence, it doesn’t seem that GP is derivable in the system. But this is no proof that it isn’t, and so Church concludes only that “This is an empiric justification of the axioms of reducibility, based on the failure of the direct attempt to restore Grelling’s antinomy by means of them (1976 [BE:. 805]).
 
-Cantor’s theorem in the form CL discussed above in connection with GP, is obviously relevant here, (but Church makes no mention of it). The condition that some word, v, denotes het (in the sense that $D(v, \het)$ holds) is equivalent to the condition that het is in the range of $D$, assuming that $D$ is a well-defined function with a well-defined domain and range. (It could be a function from words as individuals to the extensions of unary propositional functions of level 1.) CL then implies that het cannot be in the range of $D$, since het is the diagonal function determined by $D$. That is, het consists of those words that do not have the properties they denote. But when it comes down to it, the semantical notion of denotation is not doing the work here. Any function that takes words to properties or words to sets can formally replace $D.$ For example, a function that takes words to numbers would work as well. We cannot have a word for het, not because we cannot invent names for definite things in our midst (compare **), but because of how het is defined in terms of $D.$ It’s possible to have a word for het, just not one for which $D$ is defined.
+Cantor’s theorem in the form CL discussed above in connection with GP, is obviously relevant here, (but Church makes no mention of it). The condition that some word, v, denotes het (in the sense that $D(v, \het)$ holds) is equivalent to the condition that het is in the range of $D$, assuming that $D$ is a well-defined function with a well-defined domain and range. (It could be a function from words as individuals to the extensions of unary propositional functions of level 1.) CL then implies that het cannot be in the range of $D$, since het is the diagonal function determined by $D$. That is, het consists of those words that do not have the properties they denote. But when it comes down to it, the semantical notion of denotation is not doing the work here. Any function that takes words to properties or words to sets can formally replace $D.$ For example, a function that takes words to numbers would work as well. We cannot have a word for het, not because we cannot invent names for definite things in our midst (compare \*\*), but because of how het is defined in terms of $D.$ It’s possible to have a word for het, just not one for which $D$ is defined.
 
 In the last paragraphs of (1976) Church makes some similar remarks about het (without mentioning Cantor’s theorem) and draws some conclusions concerning the Tarski hierarchy of languages/metalanguages. He notes that in the system with Val and reducibility, we have:
 

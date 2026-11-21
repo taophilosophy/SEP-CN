@@ -47,11 +47,11 @@ In English this difference is often expressed by *grammatical* means, for instan
 
 **3.**
 
-(a) Petr Peter pisal$_{ipv}$/*napisal$_{pv}$ was-writing/*wrote pis’mo, letter, kogda when on he byl was prervan interrupted telefonnym by-telephone zvonkom. call.
+(a) Petr Peter pisal$_{ipv}$/\*napisal$_{pv}$ was-writing/\*wrote pis’mo, letter, kogda when on he byl was prervan interrupted telefonnym by-telephone zvonkom. call.
 
 **(b)**
 
-Petr Peter *pisal$_{ipv}$/napisal$_{pv}$ *was-writing/wrote pis’mo letter i and otnes brought ego it na to počtu. post-office.
+Petr Peter \*pisal$_{ipv}$/napisal$_{pv}$ \*was-writing/wrote pis’mo letter i and otnes brought ego it na to počtu. post-office.
 
 Sentence (3b) presents the writing of a letter as a single whole and it is clear that this activity was finished when the letter was brought to the post office. By contrast, (3a) focuses on an ongoing activity of letter writing in the past which is not completed because of the interruption. In fact it is consistent with the truth of (3a) that the letter was never completely written.
 
@@ -149,7 +149,7 @@ For the simple past, both event time and reference time are situated on the time
 
 **8.**
 
-(a) *Chapman breathed a sigh of relief.
+(a) \*Chapman breathed a sigh of relief.
 
 **(b)**
 
@@ -236,7 +236,7 @@ Vendler proposed several linguistic tests for distinguishing these verb classes.
 
 **9.**
 
-(a) *Sam is knowing the answer.
+(a) \*Sam is knowing the answer.
 
 **(b)**
 
@@ -262,7 +262,7 @@ Sam swam for an hour
 
 **(d)**
 
-*Sam swam in an hour
+\*Sam swam in an hour
 
 Achievement verbs are usually infelicitous with *for*-adverbials but allow the combination with $in$-adverbials.
 
@@ -304,7 +304,7 @@ Vendler thought of the *Aktionarten* as lexical properties of verbs. That this p
 
 **(b)**
 
-*Chapman arrived all night.
+\*Chapman arrived all night.
 
 is an achievement, as demonstrated by the ungrammaticality of (14-b). But if we choose a bare plural as subject it is turned into an activity and sentence (15) is grammatical.
 
@@ -324,7 +324,7 @@ The verb *resemble* is a stative verb and therefore (17a) is unacceptable but (1
 
 **17.**
 
-(a) *She is resembling her mother.
+(a) \*She is resembling her mother.
 
 **(b)**
 
@@ -348,7 +348,7 @@ This sentence seems to be fine. However it is not interpreted as an accomplishme
 
 The most influential approach to solving the imperfective paradox is due to Dowty (1979)[^dowty-1979]. The basic idea is to treat the progressive as a modal operator $(\Box)$ but restrict its domain to inertia worlds. The notion of an *inertia world* is characterized informally. An inertia world is exactly like the real world up to the time of evaluation; after this it may differ from the real world but is assumed to be as similar to the real world as possible. Given this notion, the following definition introduces truth conditions for sentences in the progressive.
 
-**Definition 3.** PROG$(\phi)$ *is true with respect to interval $I$ and world $w$ if and only if $\forall w' \in IE(w)$ there exists an interval $I' \supseteq I$ such that *φ* is true with respect to $I'$ and $w'$. In addition $I$ should not be the final subinterval of $I'$. $IE(w)$ is the set of inertia worlds for $w$.*
+**Definition 3.** PROG$(\phi)$ *is true with respect to interval $I$ and world $w$ if and only if $\forall w' \in IE(w)$ there exists an interval $I' \supseteq I$ such that φ is true with respect to $I'$ and $w'$. In addition $I$ should not be the final subinterval of $I'$. $IE(w)$ is the set of inertia worlds for $w$.*
 
 Definition 3 does not yet account for the different entailment patterns of activities and accomplishments. Two additional assumptions are required. The first concerns activities; the second, accomplishments.
 
@@ -667,7 +667,7 @@ Suppose we have three kinds of actions/events—*Load*, *Smoke* and *Shoot*—an
 | *HoldsAt*$(\beta , \tau)$ | Fluent *β* holds at time *τ* |
 | *Clipped*$(\tau_1,\beta ,\tau_2)$ | Fluent *β* is terminated between times $\tau_1$ and $\tau_2$ |
 
-*Table 4.* Predicates of the simple event calculus (from Shanahan 1999)
+\*Table 4.\* Predicates of the simple event calculus (from Shanahan 1999)
 
 The predicates are related to each other by a set of four simple axioms (53)–(56). In these axioms, all variables are assumed to be universally quantified with maximal scope. We will come to the semantics of the implication when we have introduced the complete scenario.
 
@@ -798,7 +798,7 @@ In the following, we will analyze the imperfective paradox as an instance of the
 | *Releases*$(e, f, t)$ | Fluent $f$ starts to change due to event $e$ at time $t$ |
 | *Trajectory*$(f_1, t, f_2, d)$ | If fluent $f_1$ holds from t until $t + d$, then $f_2$ holds at $t + d$ |
 
-*Table 5.* Predicates for continuous change
+\*Table 5.\* Predicates for continuous change
 
 $$\begin{align} \tag*{A1.} & Initially(f) \rightarrow HoldsAt(f, 0) \\ \tag*{A2.} & HoldsAt(f, r) \wedge r \lt t\ \wedge \\ &\ \ \neg \exists s \lt r HoldsAt(f,s) \wedge \neg Clipped(r, f, t) \rightarrow HoldsAt(f, t) \\ \tag*{A3.} & Happens(e, t) \wedge Initiates(e, f, t) \wedge t \lt t'\ \wedge \\ &\ \ \neg Clipped(t, f, t') \rightarrow HoldsAt(f, t') \\ \tag*{A4.} & Happens(e, t) \wedge Initiates(e, f_1, t) \wedge t \lt t'\ \wedge \\ &\ \ t' = t + d \wedge Trajectory(f_1, t, f_2, d) \wedge \neg Clipped(t, f_1, t') \rightarrow HoldsAt(f_2, t') \\ \tag*{A5.} & Happens(e, s) \wedge t \lt s \lt t'\ \wedge \\ &\ \ (Terminates(e, f, s) \vee Releases(e, f, s)) \rightarrow Clipped(t, f, t') \end{align}$$
 
@@ -1050,11 +1050,11 @@ consciousness: temporal | discourse representation theory | events | logic: non-
 
 **i.**
 
-(a) John saw a zebra (for an hour)/(*in an hour).
+(a) John saw a zebra (for an hour)/(\*in an hour).
 
 **(b)**
 
-John saw zebras (for an hour)/(*in an hour).
+John saw zebras (for an hour)/(\*in an hour).
 
 show that *see* is a verb which differs from *drink* with respect to the thematic roles it assigns to its arguments.
 

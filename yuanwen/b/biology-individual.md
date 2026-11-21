@@ -99,7 +99,7 @@ Whichever way evolutionary individuals are conceptualized, they do not exhaust t
 
 ![a diagram: link to extended description below](../assets/biology-individual/fig1.svg)
 
-*Figure 1:* Godfrey-Smith’s Different Biological Individuals. (Copied from Figure 4 of Godfrey-Smith 2013.)[^godfrey-smith-2013] [An extended description of figure 1 is in the supplement.]
+\*Figure 1:\* Godfrey-Smith’s Different Biological Individuals. (Copied from Figure 4 of Godfrey-Smith 2013.)[^godfrey-smith-2013] [An extended description of figure 1 is in the supplement.]
 
 Whatever one says about the intricacies of such examples, in addition to individuals delineated by evolutionary criteria there are also what Thomas Pradeu calls *physiological* individuals. These are biological individuals individuated by appeal to criteria such as having a metabolism and being governed by internal control mechanisms of various kinds. For Pradeu, each physiological individual is “a functionally integrated and cohesive metabolic whole, made of interdependent and interconnected parts” (Pradeu 2016b: 807; see also Godfrey-Smith 2009: 71)[^godfrey-smith-2009][^pradeu-2016b].
 
@@ -143,7 +143,7 @@ Figure 2 depicts this framework visually.
 
 ![a diagram: link to extended description below](../assets/biology-individual/fig2.svg)
 
-*Figure 2:* A Framework for Structuring Conceptual Space. [An extended description of figure 2 is in the supplement.]
+\*Figure 2:\* A Framework for Structuring Conceptual Space. [An extended description of figure 2 is in the supplement.]
 
 These three sub-categories of biological individual need not be mutually exclusive when considering any particular individual. For example, a given bacterium, such as an individual *Buchnera* bacterium, may both be an organism itself and be part of a corporate organism, such as the human whose gut it is integral to (Andersson 2000)[^andersson-2000]. Likewise, some groups, such as the colonies of eusocial insects sometimes called “superorganisms”, or highly integrated multispecies communities, may be *true* organisms. This kind of view may also capture what truth lies behind proposals to extend the term *organism* both to some parts and some groups of organisms (e.g., Queller 1997; Okasha 2011)[^okasha-2011][^queller-1997]: parts of organisms (such as symbiotic gut bacteria), as well as groups of organisms (such as colonies of ants or bees), are really organisms as well.
 
@@ -181,7 +181,7 @@ Conceiving of physiological individuals as living agents, and supposing that all
 
 ![a diagram: link to extended description below](../assets/biology-individual/fig3.svg)
 
-*Figure 3:* Living Things as Biological Individuals. [An extended description of figure 3 is in the supplement.]
+\*Figure 3:\* Living Things as Biological Individuals. [An extended description of figure 3 is in the supplement.]
 
 ### 6.2 Reproduction, Life Cycles, and Lineages
 
@@ -215,7 +215,7 @@ Both groups and multicellular organisms exemplify collective reproduction, and G
 
 ![a diagram: link to extended description below](../assets/biology-individual/fig4.svg)
 
-*Figure 4:* Godfrey-Smith’s Dimensional Space for Collective Reproduction. (From Figure 5.1 in Godfrey-Smith 2009.)[^godfrey-smith-2009] [An extended description of figure 4 is in the supplement.]
+\*Figure 4:\* Godfrey-Smith’s Dimensional Space for Collective Reproduction. (From Figure 5.1 in Godfrey-Smith 2009.)[^godfrey-smith-2009] [An extended description of figure 4 is in the supplement.]
 
 ### 6.3 Autonomous Agency
 
@@ -247,7 +247,7 @@ The discussion in section 6 has drawn out more about the conceptual space that p
 
 ![a diagram: link to extended description below](../assets/biology-individual/fig5.svg)
 
-*Figure 5:* Adding Darwinian Individuals. [An extended description of figure 5 is in the supplement.]
+\*Figure 5:\* Adding Darwinian Individuals. [An extended description of figure 5 is in the supplement.]
 
 As simple as this modification to Figure 3 is, it allows for much more fine-grained answers to the Focal Question, both in terms of the relationship between the subsidiary categories living agents, organisms, and Darwinian individuals, and in terms of where particular individuals are located in the resulting conceptual space. It may turn out that some of these regions are unoccupied by actual biological individuals, or that some of the adjacent regions collapse into one another. But the following proceeds by indicating how the preceding discussion suggests all nine regions are exemplified by distinct kinds of biological individual, moving from less contentious to more contentious examples.
 
@@ -277,7 +277,7 @@ Figure 6 completes this running visual summary of conceptual space that biologic
 
 ![same as figure 5 but with the adjacent list explaining the numbers](../assets/biology-individual/fig5.svg)
 
-*Figure 6:* Biological Individuals in Conceptual Space. [An extended description of figure 6 is in the supplement.]
+\*Figure 6:\* Biological Individuals in Conceptual Space. [An extended description of figure 6 is in the supplement.]
 
 ## 8. Regulating Evolutionary Individuals
 
@@ -287,13 +287,13 @@ David Queller and Joan Strassmann have provided one agenda for the empirical stu
 
 ![first of two diagrams: link to both in extended description below](../assets/biology-individual/fig7a.svg)
 
-*7a:* Groups of cells
+\*7a:\* Groups of cells
 
 ![second of two diagrams: link to both in extended description below](../assets/biology-individual/fig7b.svg)
 
-*7b:* Groups of multi-cellular individuals
+\*7b:\* Groups of multi-cellular individuals
 
-*Figure 7:* Varying Degrees of Conflict and Cooperation (From Fig. 1 & 2, Queller & Strassmann 2009)[^queller-2009]. [An extended description of figure 7 (A and B) is in the supplement.]
+\*Figure 7:\* Varying Degrees of Conflict and Cooperation (From Fig. 1 & 2, Queller & Strassmann 2009)[^queller-2009]. [An extended description of figure 7 (A and B) is in the supplement.]
 
 To capture these ideas, it is useful to think of the feature that Queller and Strassmann believe is definitive of biological individuals as the *internal ratio*: it is the ratio of the level of cooperation between internal parts of individuals to that of the conflict between them. The higher this ratio is, the higher the degree of individuality. Figure 7A indicates that, relative to other groups of cells, a mouse will have a relatively large internal ratio, while a yeast floc will have a relatively small internal ratio.
 

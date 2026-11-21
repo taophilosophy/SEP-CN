@@ -495,7 +495,7 @@ disagreement | fideism | religion: epistemology of | religious commitment and re
 
 [^feldman-2006]: Feldman, Richard, 2006, “Epistemological Puzzles About Disagreement”, in *Epistemology Futures*, Stephen Hetherington (ed.), Oxford: Oxford University Press, pp. 216–236.
 
-[^feldman-2010]: Feldman, Richard$$ and Ted Warfield, 2010, *Disagreement*, Oxford: Oxford University Press.
+[^feldman-2010]: Feldman, Richard\$\$ and Ted Warfield, 2010, *Disagreement*, Oxford: Oxford University Press.
 
 [^griffin-2014]: Griffin, David, 2014, “Deep Religious Pluralism”, in *The Blackwell Companion to Religious Diversity*, Kevin Schilbrack (ed.), Oxford: Wiley-Blackwell, pp. 73–88.
 

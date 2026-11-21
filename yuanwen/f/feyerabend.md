@@ -585,11 +585,11 @@ anarchism | Anscombe, Gertrude Elizabeth Margaret | Carnap, Rudolf | empiricism:
 
 [^collodel-2022]: –––, 2022, “Ehrenhaft’s Experiments on Magnetic Monopoles: Reconsidering the Feyerabend-Ehrenhaft Connection”, *International Studies in the Philosophy of Science*, 35: 69–94.
 
-[^collodel-2020]: Collodel, M. and Oberheim, E., 2020, “Introduction”, in M. Collodel & E. Oberheim (eds.), *Feyerabend’s Formative Years *(*Volume 1: Feyerabend and Popper*), Cham: Springer, pp. 1–60.
+[^collodel-2020]: Collodel, M. and Oberheim, E., 2020, “Introduction”, in M. Collodel & E. Oberheim (eds.), *Feyerabend’s Formative Years* (*Volume 1: Feyerabend and Popper*), Cham: Springer, pp. 1–60.
 
 [^collodel-2020-2]: ––– (eds.), 2020, *Feyerabend’s Formative Years* (*Volume 1: Feyerabend and Popper. Correspondence and Unpublished Papers*), Cham: Springer.
 
-[^collodel-2024]: –––, 2024, “Introduction”, in M. Collodel & E. Oberheim (eds.), *Feyerabend’s Formative Years * (*Volume 2: Feyerabend on Logical Empiricism, Bohm and Kuhn. Correspondence and Unpublished Papers*), Cham: Springer, pp. 1–16.
+[^collodel-2024]: –––, 2024, “Introduction”, in M. Collodel & E. Oberheim (eds.), *Feyerabend’s Formative Years* (*Volume 2: Feyerabend on Logical Empiricism, Bohm and Kuhn. Correspondence and Unpublished Papers*), Cham: Springer, pp. 1–16.
 
 [^collodel-2024-2]: ––– (eds.), 2024, *Feyerabend’s Formative Years* (Volume 2: Feyerabend on Logical Empiricism, Bohm and Kuhn. *Correspondence and Unpublished Papers*), Cham: Springer.
 

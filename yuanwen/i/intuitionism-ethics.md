@@ -17,11 +17,11 @@ A trolley is bearing down on five innocent people tied to the track. You are sta
 
 **2.**
 
-A. You could donate $5 to charity to save one innocent child half way around the world. Or you could decline to donate and go about your day. Intuitively, is it permissible to decline to donate?
+A. You could donate \$5 to charity to save one innocent child half way around the world. Or you could decline to donate and go about your day. Intuitively, is it permissible to decline to donate?
 
 **B.**
 
-You are walking through the park and you notice a child drowning in a pond. If you decline to rescue the child will die. If you rescue the child will live but it will cost you $5 to clean your shoes. Intuitively, is it permissible to decline to rescue?
+You are walking through the park and you notice a child drowning in a pond. If you decline to rescue the child will die. If you rescue the child will live but it will cost you \$5 to clean your shoes. Intuitively, is it permissible to decline to rescue?
 
 **C.**
 

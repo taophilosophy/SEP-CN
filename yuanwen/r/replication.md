@@ -11,7 +11,7 @@ The notion of replication arose as a concern in the period immediately after the
 
 ![a graph with a y axis ranging from 0% to 0.000160% and an x axis from 1800 to 2000; line stays below 0.000020% until 1960 at which point it rapidly rises to hit 0.000130% at 2000](../assets/replication/Ngram_replication.png)
 
-*Figure 1.* Yearly frequency of count for the word “replication” in Google text’s English corpus from 1800–2000 with smoothing = 3. Data obtained from Google Ngram Viewer (see Other Internet Resources).
+\*Figure 1.\* Yearly frequency of count for the word “replication” in Google text’s English corpus from 1800–2000 with smoothing = 3. Data obtained from Google Ngram Viewer (see Other Internet Resources).
 
 Structural information is effectively based on the transfer of molecular primary sequences (linear sequence) in the synthesis of polypeptides; that is, it is the literal sequence of basic groups (amino acids), before the protein folds into secondary and higher conformations. This is a physical and causal account of information: the new molecule has its sequence because it was templated in some way by the “information”-imparting molecule (in this case, DNA to proteins). Griffiths and Stotz (see below) call this, accordingly, “Crick information”.
 
@@ -33,7 +33,7 @@ His answer to the question of what a gene is, is that a gene is evolutionary jus
 
 ![a rectangle divided into three horizontal regions, the first region has a purple background and is titled 'Replication' and has a diagram with the word 'DNA' and an arrow going from 'DNA' and circling back to it; the second region has a yellow background and is titled 'Transcription' and the diagram continues with an arrow from 'DNA' in the previous region to the word 'RNA' in this region; the third region has a green background and is titled 'Translation' and the diagram continues with an arrow from 'RNA' in the previous region going into this region and ending.](../assets/replication/centraldogma.png)
 
-*Figure 2.* The Central Dogma of genetics as envisaged by Crick around 1965 (Thieffry & Sarkar 1998)[^sarkar-1998][^thieffry-1998].
+\*Figure 2.\* The Central Dogma of genetics as envisaged by Crick around 1965 (Thieffry & Sarkar 1998)[^sarkar-1998][^thieffry-1998].
 
 ## 2. Genes and Information
 
@@ -186,7 +186,7 @@ Another challenge to the replicator/interactor approach to evolution by natural 
 
 (b) Population in which there is no replication, yet heritability is 1. Evolution by natural selection occurs.
 
-*Figure 3.* Illustration of the idea that evolution by natural selection can occur without replication.
+\*Figure 3.\* Illustration of the idea that evolution by natural selection can occur without replication.
 
 The idea that selection can occur without there being replicators was first introduced as “chemical selection” in line with the views of Oparin, who proposed that coacervates (colloidal droplets) could encapsulate protobiological chemicals and self-replicate without genes through mechanical fission, a view also independently proposed by Haldane (Oparin 1936 [1938]; Haldane 1929; see Kolb 2016)[^haldane-1929][^kolb-2016][^oparin-1936]. This was later extended by the work of Sidney Fox, who showed that proteinoid spheres could mechanically reproduce stably (Hsu & Fox 1976)[^hsu-1976].
 
@@ -206,7 +206,7 @@ The relation between reproducers, and replicators and interactors, varies accord
 
 ![title is 'Modes of Multiplication'. This is a tree diagram. At the top is a node labeled 'Multiplication' below and to the left is a node labeled 'Copying' with the line connecting labeled 'nonmaterial overlap (property transmission)'. Below and to the right is 'Progeneration' with the line connecting labeled 'material overlap (parts transfer)'. Below 'Progeneration' is 'Reproduction' with the line connecting labeled 'material overlap of mechanisms of development'. Below 'Reproduction' is 'Inheritance' with the line connecting labeled 'material overlap of evolved mechanisms of development'. Below 'Inheritance' is 'Replication' with the line connected labeled 'material overlap of evolving coding mechanisms of development'. ](../assets/replication/replication.svg)
 
-*Figure 4.* Wimsatt and Griesemer’s reproducer concept (Wimsatt & Griesemer 2007, 268)[^wimsatt-2007].
+\*Figure 4.\* Wimsatt and Griesemer’s reproducer concept (Wimsatt & Griesemer 2007, 268)[^wimsatt-2007].
 
 Others, particularly Jablonka and Lamb (2005, 2007), think that reproducers are distinct from replication and that some epigenetic inheritance systems are reproducers without being replicators. For them, a reproducer is the “target of selection” [see the entry on inheritance systems].
 

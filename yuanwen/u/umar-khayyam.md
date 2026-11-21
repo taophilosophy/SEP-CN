@@ -471,7 +471,7 @@ For Khayyam, there are two discourses, each of which pertains to one dimension o
 
 ## Other Internet Resources
 
-- “[Omar Khayyam](https://referenceworks.brillonline.com/entries/encyclopaedia-iranica-online/*-COM_12113)”, *Encyclopaedia Iranica Online*. By Ḥosayn Maʿṣumi Hamadāni, EIr., Sayyed ʿAli Mirafżali, Jos Biegstraaten, Austin O’Malley, William H. Martin, Sandra Mason, Agnès Lenepveu-Hotz, Hamid Tafazoli, Mario Casari et al. © Trustees of Columbia University in the City of New York.
+- “[Omar Khayyam](https://referenceworks.brillonline.com/entries/encyclopaedia-iranica-online/\*-COM_12113)”, *Encyclopaedia Iranica Online*. By Ḥosayn Maʿṣumi Hamadāni, EIr., Sayyed ʿAli Mirafżali, Jos Biegstraaten, Austin O’Malley, William H. Martin, Sandra Mason, Agnès Lenepveu-Hotz, Hamid Tafazoli, Mario Casari et al. © Trustees of Columbia University in the City of New York.
 - [The Project Gutenberg eBook of Rubaiyat of Omar Khayyam](https://www.gutenberg.org/files/35260/35260-h/35260-h.htm) (FitzGerald’s translation).
 
 ## Related Entries

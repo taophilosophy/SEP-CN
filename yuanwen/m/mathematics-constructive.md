@@ -31,7 +31,7 @@ Here is another illustration of the difference between interpretations. Consider
 
 $$ \tag{*} \forall x \in \bR (x = 0 \vee x \ne 0), $$
 
-where, for reasons that we divulge shortly, $x \ne 0$ means that we can find a rational number $r$ with $0 \lt r \lt \abs{x}$. A natural computational interpretation of (*) is that we have a procedure which, applied to any real number $x$, either tells us that $x = 0$ or else tells us that $x \ne 0$. (For example, such a procedure might output 0 if $x = 0$, and 1 if $x \ne 0$.) However, because the computer can handle real numbers only by means of finite rational approximations, we have the problem of *underflow*, in which a sufficiently small positive number can be misread as 0 by the computer; so there cannot be a decision procedure that justifies the statement (*). In other words, we cannot expect (*) to hold under our natural computational interpretation of the quantifier $\forall$ and the connective $\vee$.
+where, for reasons that we divulge shortly, $x \ne 0$ means that we can find a rational number $r$ with $0 \lt r \lt \abs{x}$. A natural computational interpretation of (\*) is that we have a procedure which, applied to any real number $x$, either tells us that $x = 0$ or else tells us that $x \ne 0$. (For example, such a procedure might output 0 if $x = 0$, and 1 if $x \ne 0$.) However, because the computer can handle real numbers only by means of finite rational approximations, we have the problem of *underflow*, in which a sufficiently small positive number can be misread as 0 by the computer; so there cannot be a decision procedure that justifies the statement (\*). In other words, we cannot expect (\*) to hold under our natural computational interpretation of the quantifier $\forall$ and the connective $\vee$.
 
 Let’s examine this from another angle. Let $G(n)$ act as shorthand for the statement “$2n + 2$ is a sum of two primes”, where $n$ ranges over the positive integers, and define an infinite binary sequence $\ba = (a_1 ,a_2,\ldots)$ as follows:
 
@@ -41,14 +41,14 @@ There is no question that $\ba$ is a computationally well-defined sequence, in t
 
 $$\begin{align*} x &= (0\cdot a_1 a_2 \cdots)_{2} \\ &= 2^{-1}a_1 + 2^{-2}a_2 + \cdots \\ &=\sum_{n=1}^{\infty} 2^{-n}a_n. \end{align*}$$
 
-If (*) holds under our computational interpretation, then we can decide between the following two alternatives:
+If (\*) holds under our computational interpretation, then we can decide between the following two alternatives:
 
 - $2^{-1}a_1 + 2^{-2}a_2 + \cdots = 0$, which implies that $a_n = 0$ for every $n$;
 - we can find a positive integer $N$ such that $2^{-1}a_1 + 2^{-2}a_2 + \cdots \gt 2^{-N}$.
 
-In the latter case, by testing $a_1 ,\ldots ,a_N$, we can find $n \le N$ such that $a_n = 1$. Thus the computational interpretation of (*) enables us to decide whether there exists $n$ such that $a_n = 1$; in other words, it enables us to decide the status of the Goldbach Conjecture. An example of this type, showing that a constructive proof of some classical result $P$ would enable us to solve the Goldbach conjecture (and, by similar arguments, many other hitherto open problems, such as the Riemann hypothesis), is called a *Brouwerian example* for, or even a *Brouwerian counterexample* to, the statement $P$ (though it is not a counterexample in the normal sense of that word).
+In the latter case, by testing $a_1 ,\ldots ,a_N$, we can find $n \le N$ such that $a_n = 1$. Thus the computational interpretation of (\*) enables us to decide whether there exists $n$ such that $a_n = 1$; in other words, it enables us to decide the status of the Goldbach Conjecture. An example of this type, showing that a constructive proof of some classical result $P$ would enable us to solve the Goldbach conjecture (and, by similar arguments, many other hitherto open problems, such as the Riemann hypothesis), is called a *Brouwerian example* for, or even a *Brouwerian counterexample* to, the statement $P$ (though it is not a counterexample in the normal sense of that word).
 
-The use of the Goldbach Conjecture here is purely dramatic. For, the argument of the preceding paragraph can be modified to show that, under our computational interpretation, (*) implies the *limited principle of omniscience* (**LPO**):
+The use of the Goldbach Conjecture here is purely dramatic. For, the argument of the preceding paragraph can be modified to show that, under our computational interpretation, (\*) implies the *limited principle of omniscience* (**LPO**):
 
 For each binary sequence $(a_1 ,a_2, \ldots)$ either $a_n = 0$ for all $n$ or else there exists $n$ such that $a_n = 1$,
 

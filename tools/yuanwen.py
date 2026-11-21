@@ -286,43 +286,144 @@ def _subsup_md(inner, mapping, marker):
     return marker % inner
 
 
-def _md_emphasis(inner):
-    """<em>/<i> → *…*：标签内首尾空白移到星号外侧。
-
-    em 内尾随空格常是词间分隔（<em>abductive </em>ones），strip 后粘字成
-    *abductive*ones（2026-11-13 逐段审计实证，abduction §1.1 等 3 处）；
-    移出后的空白由 inline_to_md 尾部折叠归一，星内不留空白（CommonMark
-    翼规则下星内空白永不渲染）。空内容降级为纯空白，不产空星对。
-
-    2026-11-14 全量回归：em 内容自带星号（记号 <em>W*</em>、<em>L**</em>）
-    时旧式直包产出 *W** / *L***，斜体不闭合且末星被吃（40 词条 183 处，
-    leibniz-modal 自然律记号实证）。改后星号逐字转义，渲染时仍是字面星。"""
-    core = inner.strip()
-    if not core:
-        return ' ' if inner else ''
-    pre = ' ' if inner[:1].isspace() else ''
-    post = ' ' if inner[-1:].isspace() else ''
-    if '*' in core:
-        core = core.replace('*', '\\*')
-    return '%s*%s*%s' % (pre, core, post)
+_EMPH_TAG_RE = re.compile(r'<(/?)(em|i|strong|b)(?:\s[^>]*)?>', re.I)
+# 定界符占位符（不参与文本层 `*`/`$` 转义；_emph_md_finish 收尾换成真星）
+_O_EM, _C_EM, _O_ST, _C_ST = '\x08', '\x0e', '\x0f', '\x10'
 
 
-def _md_bold_tag(m):
-    """<strong>/<b> → **…**：空白处理同 _md_emphasis。
+def _emph_tags_to_md(s):
+    """em/i/strong/b 标签 → md 定界星（栈式单趟，取代旧四条单层正则）。
 
-    内容含星（内层 em 已转出）时降级 <b> raw 待兜底剥除——星流奇偶错乱
-    防线（2026-10-30 裁定）不变；本次修正仅把此前无任何规则、被行末兜底
-    剥标签而丢失加粗的纯 <b>（数学记号粗体、[CP] 类缩写，abduction 书目
-    Peirce 条实证）转为 md 粗体。"""
-    inner = m.group(1)
-    core = inner.strip()
-    if not core:
-        return ' ' if inner else ''
-    pre = ' ' if inner[:1].isspace() else ''
-    post = ' ' if inner[-1:].isspace() else ''
-    if '*' in core:
-        return '%s<b>%s</b>%s' % (pre, core, post)
-    return '%s**%s**%s' % (pre, core, post)
+    旧实现三条正则各限 `[^<]*`，遇真嵌套整块失配、外层被行末兜底剥壳静默
+    丢失（2026-11-21 全库实测：strong 套 em 679 处/77 件、em 套 strong 81
+    处/38 件、em 套 em 255 处/82 件；`<b>…</b>` 含星时降级 raw 再被剥壳）。
+
+    规则：
+      · em/i → `*…*`，strong/b → `**…**`；
+      · 同类相邻嵌套只发一层定界符——CommonMark 无 em 套 em 的双斜体，
+        压平＝保留外层（渲染等价；内层标签由 B3.2 格式层池补）；
+      · 异类嵌套照发（`**A *B* C**`、`*A **B** C*` 均为合法 CommonMark）；
+      · 未闭合的开标签回删其定界符（H0 偶有缺闭合，宁缺标记不破配对）；
+        孤立闭标签忽略；被外层收口“捞”回来的内层缺闭合标签按收口位置闭掉。
+
+    星内侧空白在本函数内移到定界符外（CommonMark 翼规则：星内空白永不渲染）。"""
+    out = []
+    stack = []  # [(kind, out 下标 或 None＝同类嵌套未发定界符)]
+    pos = 0
+    for m in _EMPH_TAG_RE.finditer(s):
+        if m.start() > pos:
+            out.append(s[pos:m.start()])
+        name = m.group(2).lower()
+        kind = 'st' if name in ('strong', 'b') else 'em'
+        if m.group(1):
+            hit = None
+            for k in range(len(stack) - 1, -1, -1):
+                if stack[k][0] == kind:
+                    hit = k
+                    break
+            if hit is not None:
+                while len(stack) > hit + 1:
+                    kk, slot = stack.pop()
+                    if slot is not None:
+                        out.append(_C_ST if kk == 'st' else _C_EM)
+                kk, slot = stack.pop()
+                if slot is not None:
+                    out.append(_C_ST if kk == 'st' else _C_EM)
+        else:
+            if stack and stack[-1][0] == kind:
+                stack.append((kind, None))
+            else:
+                out.append(_O_ST if kind == 'st' else _O_EM)
+                stack.append((kind, len(out) - 1))
+        pos = m.end()
+    if pos < len(s):
+        out.append(s[pos:])
+    for _kk, slot in stack:  # 未闭合：回删定界符
+        if slot is not None:
+            out[slot] = ''
+    t = ''.join(out)
+    # 星内侧空白外移：闭星前的空白移到星后，开星后的空白移到星前。
+    # `&nbsp;` 实体与字面 U+00A0 同属空白——H0 常见 `<em>题名&nbsp;</em>32`
+    # （blame 判例）；实体此刻尚未 unescape，须一并识别。
+    _WS = (r"(?:[ \t\r\n\f\v\xa0\u2028\u2029]|&nbsp;?|&#160;|&#xa0;"
+           r"|&#8232;|&#8233;)")
+    t = re.sub(r"(%s+)([%s%s])" % (_WS, _C_EM, _C_ST), r"\2\1", t)
+    t = re.sub(r"([%s%s])(%s+)" % (_O_EM, _O_ST, _WS), r"\2\1", t)
+    # 相邻同类强调（H0 `<em>a</em><em>b</em>`）合并为单个定界对：md 里
+    # `*a**b*` 无法与“闭 em + 开 strong”区分（logic-epistemic 判例）；
+    # 合并后渲染等价，拆分信息归 B3.2 格式层池
+    t = t.replace(_C_EM + _O_EM, '').replace(_C_ST + _O_ST, '')
+    # 跨行强调（H0 引块内 `<em>…<br />…</em>`，arabic-islamic-religion／dante
+    # 判例）不发表：md 里 `*a\n> b*` 两个定界符落在外写器的不同块，右逆逐块
+    # 解析必失配（B3.1）；去掉定界符宁丢斜体，标签信息归 B3.2 池
+    t = _drop_multiline_emph(t)
+    # 空强调（开闭紧邻）整对删除
+    return t.replace(_O_EM + _C_EM, '').replace(_O_ST + _C_ST, '')
+
+
+def _drop_multiline_emph(t):
+    """内容跨引块行标记（`<br />`）的强调对，删两枚定界占位符（保内容）。
+
+    只针对 BR_MARK：引块内 `<br />` 把行切成独立块，右逆逐块解析无法配对
+    （arabic-islamic-religion／dante 判例）。段落内的源码换行不受影响——
+    R 按段落整体解析，跨行强调照常配对（preferences `*weak\\nconnectivity*`）。
+
+    同类嵌套已被压平，故每种定界符在 t 内天然良构配对；逐个开符找最近的
+    同层闭合即可。"""
+    res, i, n = [], 0, len(t)
+    while i < n:
+        c = t[i]
+        if c in (_O_EM, _O_ST):
+            close = _C_EM if c == _O_EM else _C_ST
+            j = t.find(close, i + 1)
+            if j > 0:
+                inner = t[i + 1:j]
+                if BR_MARK in inner:
+                    res.append(inner)
+                    i = j + 1
+                    continue
+        res.append(c)
+        i += 1
+    return ''.join(res)
+
+
+def _mark_math_in_emph(s):
+    """强调标签内的数学占位符改记 `\\x15N\\x15`（供希腊字母分支判“已在斜体内”）。
+
+    H0 有 `<em>… such that \\(\\phi\\) is true …</em>`（tense-aspect 判例）：
+    ADR-0049 会把孤立的 `\\(\\phi\\)` 转成 `*φ*`，嵌在外层 `*…*` 里即得
+    `*…*φ*…*`——md 无法表达 em 套 em，右逆必然错配。标记后还原阶段改为只出
+    裸字符，外层斜体已覆盖渲染。"""
+    def _rep(m):
+        return re.sub(r'\x00(\d+)\x00',
+                      lambda mm: '\x15%s\x15' % mm.group(1), m.group(0))
+
+    return re.sub(r'<(?:em|i|strong|b)\b[^>]*>.*?</(?:em|i|strong|b)>',
+                  _rep, s, flags=re.S | re.I)
+
+
+def _emph_md_finish(s):
+    """占位定界符 → 真星（在文本层 `*`/`$` 转义之后调用，防被二次转义）。"""
+    return (s.replace(_O_ST, '**').replace(_C_ST, '**')
+            .replace(_O_EM, '*').replace(_C_EM, '*'))
+
+
+def _esc_math_dollar(body, display=False):
+    """数学体里的字面 `$` 转义为 `\\$`——防与 md 定界符连缀。
+
+    H0 有 `\\($\\ell\\)`（币值写在公式里，formal-belief／dutch-book 判例）与
+    `\\(n \\cdot $10{,}000\\)`（body 内部币值，rationality 判例），直接包成
+    `$…$` 会产出 `$$…$`，右逆无法分辨哪两个美元是定界符。`\\$` 在 TeX 里本就
+    渲染为 `$`，语义不变。
+    display=True（`\\[…\\]` 体）只转义首尾：体内的 `$…$` 是真嵌套数学
+    （qm-consistent-histories 判例），转义会破坏渲染。"""
+    if display:
+        if body.startswith('$'):
+            body = '\\' + body
+        if body.endswith('$') and not body.endswith('\\$'):
+            body = body[:-1] + '\\$'
+        return body
+    return re.sub(r'(?<!\\)\$', r'\\$', body)
 
 
 BR_LINE_RE = re.compile(r'[ \t\r\n\f\v]*<br\s*/?>[ \t\r\n\f\v]*', re.I)
@@ -374,6 +475,17 @@ def inline_to_md(html, slug=None):
         return '\x00%d\x00' % (len(store) - 1)
 
     s = MATH_RE.sub(_stash, s)
+    # 裸排显示环境（SEP `\begin{align}` 不套定界符，ADR-0049 决策 6）先暂存：
+    # 其内容是 TeX 而非正文文字，若走下面的文本层转义会被双写反斜杠、星号
+    # 也会被转义成 `\*`（epistemology-visual-thinking 判例：`\begin{align\*}`
+    # 此后既不匹配 ENV_SPAN_RE、又整块失去数学语义）。收尾处补 `$$` 包裹。
+    env_store = []
+
+    def _envstash(m):
+        env_store.append(m.group(0))
+        return '\x14%d\x14' % (len(env_store) - 1)
+
+    s = ENV_SPAN_RE.sub(_envstash, s)
 
     def _link(m):
         href = (m.group('href') or '').strip()
@@ -396,27 +508,40 @@ def inline_to_md(html, slug=None):
 
     s = re.sub(r'<a\b[^>]*href="(?P<href>[^"]*)"[^>]*>(?P<t>.*?)</a>',
                _link, s, flags=re.S | re.I)
-    # 2026-10-30：三处 (.*?) re.S 会在 strong/b 交错时跨标签吞段、且 em 先行
-    # 转出的内层星与外层 ** 组成三连星边界错乱（149 镜像文件 667 对星内空格
-    # 的根因，实测）——改 [^<]* 限单层；粗体内容含星（内层 em 转出）时降级
-    # <b> 保结构稳定（_md_bold_tag 维持该降级路径）。2026-11-13 审计修正：
-    # em/strong 标签内空白移到星号外侧；纯 <b> 转 md 粗体（旧无规则，被
-    # 行末兜底剥标签丢加粗）
-    # 2026-11-14 全量回归（缺陷二）：em 紧贴的字面星号（<em>singleton</em>*、
-    # *<em>set</em>）直通后与斜体星连缀成 *singleton**，破配对且末星被吃；
-    # 在 em 转换前逐字转义，渲染仍是字面星（数学已在上一行整体暂存，不涉）
-    s = re.sub(r'(</(?:em|i)>)(\*+)',
-               lambda m: m.group(1) + '\\*' * len(m.group(2)), s, flags=re.I)
-    s = re.sub(r'(\*+)(<(?:em|i)(?:\s[^>]*)?>)',
-               lambda m: '\\*' * len(m.group(1)) + m.group(2), s, flags=re.I)
-    # 2026-11-14 全量回归（缺陷六）：带属性的 em（<em lang="zh-Latn-pinyin">dao</em>、
-    # <em style="text-indent:-2em">书名</em>）旧式正则只认裸 <em>，标签被兜底剥除、
-    # 斜体静默丢失（全库 2568 文件 37898 处）。改为容许属性。
-    s = re.sub(r'<(?:em|i)(?:\s[^>]*)?>([^<]*)</(?:em|i)>',
-               lambda m: _md_emphasis(m.group(1)), s, flags=re.I)
-    s = re.sub(r'<strong>([^<]*)</strong>', _md_bold_tag, s, flags=re.I)
-    s = re.sub(r'<b(?:\s[^>]*)?>([^<]*)</b>', _md_bold_tag, s, flags=re.I)
+    # 2026-11-21 强调转换重构：旧四条正则（em/i 邻接转义两条、em/i、strong、
+    # b 降级）各限单层，嵌套整块失配后外层被兜底剥壳静默丢失；邻接转义两条
+    # （`</em>*` 与 `*<em>`）也由结构化扫描＋文本层统一转义取代。见
+    # _emph_tags_to_md。code 先转反引号，其内容豁免星/美元转义。
     s = re.sub(r'<code>([^<]*)</code>', r'`\1`', s, flags=re.S | re.I)
+    s = _mark_math_in_emph(s)
+    s = _emph_tags_to_md(s)
+    cstore = []
+
+    def _cstash(m):
+        cstore.append(m.group(0))
+        return '\x07%d\x07' % (len(cstore) - 1)
+
+    s = re.sub(r'`[^`]*`', _cstash, s)
+
+    def _esc_lit(m):
+        seg = m.group(0)
+        if seg.startswith('<'):
+            return seg
+        # H0 文本层的字面 `\`/`*`/`$`（所有标签之外）逐字转义；定界星此时
+        # 还是占位符不受影响。md 的定界星 ↔ H0 强调标签、md 的 `\\`/`\*`/
+        # `\$` ↔ H0 字面字符，两侧单射——R 侧占位还原字面后，B3.1（C 对它们
+        # 再转义）与 B3.2（与 H0 逐字符一致）同时成立。
+        # 反斜杠必须双写：正文层孤立 `\` 后接 `$`/`*` 时会被 markdown 读成
+        # 转义（H0 `\(C\in X\)\\\(\{P\}\)` 的中间那个 `\`，questions 判例）。
+        seg = seg.replace('\\', '\\\\')
+        seg = re.sub(r'\*', r'\\*', seg)
+        return re.sub(r'\$', r'\\$', seg)
+
+    s = re.sub(r'<[^>]+>|[^<]+', _esc_lit, s)
+    for _ck, _cv in enumerate(cstore):
+        s = s.replace('\x07%d\x07' % _ck, _cv)
+    # 定界占位符 → 真星（必须在文本层转义之后）
+    s = _emph_md_finish(s)
     s = re.sub(r'<br\s*/?>', ' ', s, flags=re.I)
     s = re.sub(r'</?span[^>]*>', '', s, flags=re.I)
 
@@ -445,17 +570,43 @@ def inline_to_md(html, slug=None):
         # sub/sup 已在占位前转纯文本。内部空白折叠为单空格（LaTeX 语义
         # 不依赖空白；保留源换行会让 md 行内 $ 计数失衡），其余字符原样
         v = re.sub(r'[ \t\r\n\f\v]+', ' ', unescape(val)).strip()
+        # 行内数学体里的字面 `$`（币值 `\(n \cdot $10{,}000\)`，rationality
+        # 判例；边缘 `\($\ell\)`，formal-belief 判例）一律转义 `\$`——否则与
+        # md 定界符连缀成 `$$`/`$..$`，右逆无法分辨美元归属。TeX 语义不变。
+        # 显示体（`\[…\]`）内 `$…$` 是真嵌套数学（qm-consistent-histories
+        # 判例），只转义边缘、不碰内部。
         if v.startswith('\\(') and v.endswith('\\)'):
-            v = '$' + v[2:-2] + '$'
-            # ADR-0049 转换层并入：孤立希腊字母行内片段转文字（变量斜体）；
-            # C 类嫌疑与 B 类（派生形/复合式）保持公式
-            m = re.fullmatch(r'\\([A-Za-z]+)', v[1:-1])
-            if m and m.group(1) in GREEK_UNI and m.group(1) not in GREEK_C_DEFER:
-                v = '*' + GREEK_UNI[m.group(1)] + '*'
+            body = _esc_math_dollar(v[2:-2])
+            if not body.strip():
+                v = ''        # 空公式 `\(\)`（propositional-function 判例）：不产 `$$`
+            else:
+                # ADR-0049 转换层并入：孤立希腊字母行内片段转文字（变量斜体）；
+                # C 类嫌疑与 B 类（派生形/复合式）保持公式
+                m = re.fullmatch(r'\\([A-Za-z]+)', body)
+                if (m and m.group(1) in GREEK_UNI
+                        and m.group(1) not in GREEK_C_DEFER):
+                    ch = GREEK_UNI[m.group(1)]
+                    key = '\x00%d\x00' % idx
+                    p = s.find(key)
+                    prev_c = s[p - 1:p] if p > 0 else ''
+                    after = s[p + len(key):p + len(key) + 1]
+                    # 裸出：已在斜体内（_mark_math_in_emph 标记）或紧贴已有
+                    # 定界星时不自包一层星——`**ψ*-ontic*`、`*…*φ*…*` 都会被
+                    # 右逆误配（qm-retrocausality／tense-aspect 判例）
+                    v = (ch if ('\x15%d\x15' % idx) in s
+                         or prev_c == '*' or after == '*' else '*' + ch + '*')
+                else:
+                    v = '$' + body + '$'
         elif v.startswith('\\[') and v.endswith('\\]'):
-            v = '$$' + v[2:-2] + '$$'
+            v = '$$' + _esc_math_dollar(v[2:-2], display=True) + '$$'
         s = s.replace('\x00%d\x00' % idx, v)
-    # ADR-0049 转换层并入：裸排显示环境补 $$ 包裹（防 markdown 吃 \\ 行分隔）
+        s = s.replace('\x15%d\x15' % idx, v)
+    # 裸排显示环境还原：补 `$$` 包裹（防 markdown 吃 `\\` 行分隔，ADR-0049
+    # 决策 6）。内部空白折叠为单空格——保持“公式单行”不变量，否则块切分
+    # 会把多行 `$$…$$` 拆开，右逆无法整段占位（specs/032 F1）。
+    for idx, val in enumerate(env_store):
+        v = re.sub(r'[ \t\r\n\f\v]+', ' ', unescape(val)).strip()
+        s = s.replace('\x14%d\x14' % idx, '$$' + v + '$$')
     s = wrap_naked_envs(s)
     for idx, val in enumerate(tstore):
         # 嵌套表段原样还原：不解码、不归一（HTML 段不参与 markdown 处理）
@@ -579,7 +730,8 @@ def _cell(cell_html, slug):
     t = inline_to_md(cell_html, slug)
     # 表格竖线转义只作用于数学之外；数学内容里的 | 若被转成 \| 会改语义
     # （LaTeX \| = ‖），故数学段内的 | 用 &#124; 实体保真（渲染时还原为 |）
-    parts = re.split(r'(\$\$.*?\$\$|\$[^$\n]*\$)', t, flags=re.S)
+    # 转义感知（C 侧字面美元写作 `\$`，不得与真数学定界符配对）
+    parts = re.split(r'(\$\$.*?\$\$|(?<!\\)\$(?:\\.|[^$\\])*\$)', t, flags=re.S)
     out = []
     for i, p in enumerate(parts):
         if i % 2:  # 数学段

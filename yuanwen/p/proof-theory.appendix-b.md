@@ -23,7 +23,7 @@ Theorem B.1 Let $(\bT_a)_{a\in{\cO}}$ be a progression based on the local reflec
 1. $\bigcup_{a\in{\cO}} \bT_a \subseteq \bT_0+$ all true $\Pi^0_1$-sentences.
 2. There is a true $\Pi^0_2$-sentence that is not provable in $\bigcup_{a\in{\cO}} \bT_a$.
 
-**Proof**: Let $\bT^*:= \bT_0+\mbox{all true $\Pi^0_1$-sentences}$.
+**Proof**: Let $\bT^*:= \bT_0+\mbox{all true \$\Pi^0_1\$-sentences}$.
 
 1. We show by induction on $a\in{\cO}$ that $\bT_a\subseteq \bT^*$. Only the successor step needs to be looked at. So suppose $a={\rsuc}(b)$ and $\bT_b\subseteq \bT^*$. It suffices to show that $\bT^*\vdash \sfPr_{\bT_b}({\Corner{\phi}})\to \phi$ holds for every sentence *φ*. There are two cases to consider. If $\sfPr_{\bT_b}({\Corner{\phi}})$ is false then $\neg \sfPr_{\bT_b}({\Corner{\phi}})$ is a true $\Pi^0_1$-sentence and hence $\bT^*\vdash \neg \sfPr_{\bT_b}({\Corner{\phi}})$ which entails $\bT^*\vdash \sfPr_{\bT_b}({\Corner{\phi}})\to \phi$. If $\sfPr_{\bT_b}({\Corner{\phi}})$ is true then $\bT_b\vdash \phi$ and, by the induction hypothesis, $\bT^*\vdash \phi$ which also yields $\bT^*\vdash \sfPr_{\bT_b}({\Corner{\phi}})\to \phi$.
 2. The provability predicate for $\bT^*$ is of complexity $\Sigma^0_2$. If $\bigcup_{a\in{\cO}} \bT_a$ proved all true $\Pi^0_2$-sentences then $\bT^*$ would be $\Pi^0_2$-complete. But that is absurd on account of the arithmetical hierarchy theorem.

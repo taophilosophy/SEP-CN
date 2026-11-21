@@ -387,7 +387,7 @@ Table 1 provides a brief overview of the major primitivist theories of truth. An
 
 | Philosopher | Conceptual primitivism | Metaphysical primitivism |
 | --- | --- | --- |
-| Wang Chong | ✓* |   |
+| Wang Chong | ✓\* |   |
 | Early Moore |   | ✓ |
 | Early Russell |   | ✓ |
 | Frege | ✓ |   |

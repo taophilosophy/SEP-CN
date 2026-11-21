@@ -226,7 +226,7 @@ We say that a statement φ is Ω-*satisfiable* if there exists an ordinal α and
 
 **Theorem 3.5** (Woodin 1999)[^woodin-1999].
 
-*Assume* ZFC *and that there is a proper class of Woodin cardinals. Suppose that* *T* *is a countable theory in the language of set theory and* φ *is a sentence. Then for all complete Boolean algebras* *B**,*
+*Assume* ZFC *and that there is a proper class of Woodin cardinals. Suppose that* *T* *is a countable theory in the language of set theory and* φ *is a sentence. Then for all complete Boolean algebras* *B,*
 
 T ⊧_{Ω} φ iff *V*^{*B*} ⊧ “T ⊧_{Ω} φ.”
 

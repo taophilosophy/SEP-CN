@@ -159,7 +159,7 @@ $$\begin{equation} \forall m {:} \N.\, \exists n {:} \N.\, m \lt n \wedge \mathr
 
 expressing that there are arbitrarily large primes. Under the Curry-Howard interpretation this becomes the type $\Pi m {:} \N.\, \Sigma n {:} \N.\, m \lt n \times \mathrm{Prime}(n)$ of functions which map a number $m$ to a triple $(n,(p,q))$, where $n$ is a number, $p$ is a proof that $m \lt n$ and $q$ is a proof that $n$ is prime. This is the *proofs as programs* principle: a constructive proof that there are arbitrarily large primes becomes a program which given any number produces a larger prime together with proofs that it indeed is larger and indeed is prime.
 
-Note that the proof which derives a contradiction from the assumption that there is a largest prime is not constructive, since it does not explicitly give a way to compute an even larger prime. To turn this proof into a constructive one we have to show explicitly how to construct the larger prime. (Since proposition (\ref{prop1}) above is a $\Pi^0_2$-formula we can use Friedman’s A-translation to turn such a proof in classical arithmetic into a proof in intuitionistic arithmetic and thus into a proof in intuitionistic type theory.)
+Note that the proof which derives a contradiction from the assumption that there is a largest prime is not constructive, since it does not explicitly give a way to compute an even larger prime. To turn this proof into a constructive one we have to show explicitly how to construct the larger prime. (Since proposition (\\ref{prop1}) above is a $\Pi^0_2$-formula we can use Friedman’s A-translation to turn such a proof in classical arithmetic into a proof in intuitionistic arithmetic and thus into a proof in intuitionistic type theory.)
 
 ## 3. Basic Intuitionistic Type Theory
 

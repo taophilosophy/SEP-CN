@@ -67,11 +67,11 @@ The distinction between *T*-terms and antecedently available O-terms has two par
 
 A similar proposal of a relativized theory-observation distinction was made by Sneed in his seminal *The Logical Structure of Mathematical Physics* (1971 [1979: ch. II]). Here is a simplified and more syntactic formulation of Sneed’s criterion of *T*-theoreticity:
 
-Definition 1 (*T*-theoreticity) A term *t* is theoretical with respect to the theory *T* (or for short, *T*-theoretical) if and only if any method of determining the extension of *t*, or some part of that extension, rests on some axiom of *T*.
+**Definition 1 (*T*-theoreticity)** A term *t* is theoretical with respect to the theory *T* (or for short, *T*-theoretical) if and only if any method of determining the extension of *t*, or some part of that extension, rests on some axiom of *T*.
 
 It remains to explain what it is for a method $m$ of determining the extension of *t* to rest upon an axiom *φ*. This relation obtains if and only if the use of $m$ depends on *φ* being a true sentence. In other words, $m$ rests upon *φ* if and only if the hypothetical assumption of *φ* being false or indeterminate would invalidate the use of $m$ in the sense that we would be lacking the commonly presumed justification for using $m$. The qualification ‘or some part of that extension’ has been introduced in the present definition because we cannot expect a single measurement method to determine the extension of a scientific quantity completely. *T*-non-theoreticity is the negation of *T*-theoreticity:
 
-Definition 2 (*T*-non-theoreticity) A term *t* is *T*-non-theoretical if and only if it is not *T*-theoretical.
+**Definition 2 (*T*-non-theoreticity)** A term *t* is *T*-non-theoretical if and only if it is not *T*-theoretical.
 
 The concepts of classical particle mechanics (henceforth abbreviated by CPM) exemplify well the notions of *T*-theoreticity and *T*-non-theoreticity. As has been indicated above, all methods of determining the force acting upon a particle make use of some axiom of CPM, such as Newton’s laws of motion or some law about special forces. Hence, force is CPM-theoretical. Measurement of spatial distances, by contrast, is possible without using axioms of CPM. Hence, the concept of spatial distance is CPM-non-theoretical. The concept of mass is less straightforward to classify as we can measure this concept using classical collision mechanics (CCM). Still, it was seen to be CPM-theoretical by the structuralists since CCM appeared reducible to CPM (Balzer et al. 1987: ch. 2)[^balzer-1987].
 

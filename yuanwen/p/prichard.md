@@ -46,7 +46,7 @@ There is a question what Prichard meant to exclude by his claim about what const
 
 As it stands, however, all this is compatible with the view that the rightness of an act is (at least capable of being) constituted by this combination:
 
-| 1.* | the value of the state of affairs originated, and |
+| 1.\* | the value of the state of affairs originated, and |
 | --- | --- |
 | 2. | a definite relation. |
 

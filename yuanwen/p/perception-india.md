@@ -215,7 +215,7 @@ Early Modern India, analytic philosophy in | mental content: nonconceptual | men
 
 [^jayanta-2011]: Jayanta Bhatta *Nyayamanjari: The Buddhist Refutation of jati*. A Critical Edition (trans.) Kei Kataoka in *The Memoirs of Institute for Advanced Studies on Asia*, 160: 636(1)–594(43), 2011.
 
-[^uddyotakara-1984]: Uddyotakara, “*NyāyaVārttika”*, in The Nyāya-Sūtras of Gauṭama: With the *Nyāya-sūtra-Bhāṣya* of Vātsyāyana and the *Nyaya-Vartika* of Uddyotakara, Gangānāṭha Jhā (trans.), Delhi: Motilal Banarsidass, 1984.
+[^uddyotakara-1984]: Uddyotakara, “*NyāyaVārttika”*, in *The Nyāya-Sūtras of Gauṭama: With the Nyāya-sūtra-Bhāṣya of Vātsyāyana and the Nyaya-Vartika of Uddyotakara*, Gangānāṭha Jhā (trans.), Delhi: Motilal Banarsidass, 1984.
 
 [^uddyotakara-1982]: Uddyotakara, “The Nyāya Proofs for the Existence of the Soul”, Translations from the introductory commentary on *Nyāya-Sūtra-Bhāṣya*, Arindam Chakrabarti (trans.), published as an appendix to A. Chakrabarti, *Journal of Indian Philosophy*, 10: 211–238, (1982).
 

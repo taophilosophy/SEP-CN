@@ -53,11 +53,11 @@ We could alternatively try our luck with an attitudinal principle. To fix ideas,
 
 The upside is that (Wo+b) takes care of the problem of Excessive Demands. It does not, however, take care of Clutter Avoidance. At least not as it stands. To fix this, we could further try the following *addendum*:
 
-- (Wo+b*) If $S$ believes that $A_{1}, \dots, A_{n}\models C$ and $S$ considers $C$ or has independent reason to consider $C$, then $S$ ought to (if $S$ believes all the $A_{i}$, $S$ believes $C$).^{[[^note-supp3]]}
+- (Wo+b\*) If $S$ believes that $A_{1}, \dots, A_{n}\models C$ and $S$ considers $C$ or has independent reason to consider $C$, then $S$ ought to (if $S$ believes all the $A_{i}$, $S$ believes $C$).^{[[^note-supp3]]}
 
 However, even if the amended principle successfully wards off Clutter Avoidance, it remains vulnerable to Preface Paradox-type considerations.
 
-To deal with it, we could weaken our wide scope principle by replacing the strict *ought* operator by the defeasible *reason* operator. The thought is that one’s reasons for being logically coherent may be trumped in Preface-like situations. We will return to this point in the next section. Let us note already, however, that such a non-strict principle arguably solves the Excessive Demands problems. To deal with Clutter Avoidance, the principle can be modified along the lines of (Wo+b*), to yield the analogous (Wr+b*). However, as we noted, principles of this type fail to meet the Strictness Test. But perhaps the lesson to be learned just is that the normative force of logic is non-strict. This bitter pill would be considerably sweetened if *reason*-based principles really did offer a way around the Preface Paradox.
+To deal with it, we could weaken our wide scope principle by replacing the strict *ought* operator by the defeasible *reason* operator. The thought is that one’s reasons for being logically coherent may be trumped in Preface-like situations. We will return to this point in the next section. Let us note already, however, that such a non-strict principle arguably solves the Excessive Demands problems. To deal with Clutter Avoidance, the principle can be modified along the lines of (Wo+b\*), to yield the analogous (Wr+b\*). However, as we noted, principles of this type fail to meet the Strictness Test. But perhaps the lesson to be learned just is that the normative force of logic is non-strict. This bitter pill would be considerably sweetened if *reason*-based principles really did offer a way around the Preface Paradox.
 
 
 ## Notes（原文脚注，引自主文）

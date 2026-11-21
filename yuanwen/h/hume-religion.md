@@ -127,25 +127,25 @@ In order to bring out the particular difficulties of the argument from design, a
 
 The contrast between ordinary cases of inference (e.g., house to human builder) and the design argument may be illustrated this way.
 
-> | *X* | = | causes (builders, architects, etc.) |
+> | ***X*** | = | causes (builders, architects, etc.) |
 > | --- | --- | --- |
-> | *Y* | = | effects (houses) |
+> | ***Y*** | = | effects (houses) |
 >
 > | 1. | *Y*¹ ---- *X*¹ |   |
 > | --- | --- | --- |
 > | 2. | *Y*² ---- *X*² |   |
 > | 3. | *Y*³ ---- *X*³ | … |
-> | *. | *Y*^{*n*} / [*X*^{*n*}] | **?** |
+> | \*. | *Y*^{*n*} / [*X*^{*n*}] | **?** |
 
-In this case our experience of the constant conjunction of *X*s/*Y*s enables us to draw the inference to *X*^{*n*}, the unobserved cause of *Y*^{*n*}. Our experience is of a *series* of conjunctions (1,2,3) where there is a *close* resemblance within each species of objects (i.e., among *X*s and among *Y*s). We have direct experience of *both* kinds of objects (i.e., both *X*s and **Y**s). In the case of the design argument our inference has this form.
+In this case our experience of the constant conjunction of ***X***s/***Y***s enables us to draw the inference to ***X***^{*n*}, the unobserved cause of ***Y***^{*n*}. Our experience is of a *series* of conjunctions (1,2,3) where there is a *close* resemblance within each species of objects (i.e., among ***X***s and among ***Y***s). We have direct experience of *both* kinds of objects (i.e., both ***X***s and **Y**s). In the case of the design argument our inference has this form.
 
-> | *Z* | = | cause (God/creator) |
+> | ***Z*** | = | cause (God/creator) |
 > | --- | --- | --- |
-> | *W* | = | effect (world/universe) |
+> | ***W*** | = | effect (world/universe) |
 >
-> * <*W*> / [*Z**] **?**
+> \* <***W***> / [***Z***\*] **?**
 
-We have experience of only *one* *W* (i.e., our experience of *W* is unique). Our experience of *W* is *partial* and *incomplete* (hence <*W*>), since we know only a small part of it in both spacial and temporal terms. We have no experience of *any* *Z*s at all. In these circumstances the only basis for drawing any conclusion about the nature of *Z** from our (unique and partial) experience of *W* is by supposing that *W* bears some resemblance to objects such as *Y*s, broadly conceived to cover all human artifacts and productions. There is, however, a vast difference between these effects. It follows that there is little or no basis for assuming that *Z* resembles something like *X*s (i.e., human mind or intelligence). God’s nature, therefore, remains altogether “mysterious and incomprehensible” from the point of view of human understanding.
+We have experience of only *one* ***W*** (i.e., our experience of ***W*** is unique). Our experience of ***W*** is *partial* and *incomplete* (hence <***W***>), since we know only a small part of it in both spacial and temporal terms. We have no experience of *any* ***Z***s at all. In these circumstances the only basis for drawing any conclusion about the nature of ***Z***\* from our (unique and partial) experience of ***W*** is by supposing that ***W*** bears some resemblance to objects such as ***Y***s, broadly conceived to cover all human artifacts and productions. There is, however, a vast difference between these effects. It follows that there is little or no basis for assuming that ***Z*** resembles something like ***X***s (i.e., human mind or intelligence). God’s nature, therefore, remains altogether “mysterious and incomprehensible” from the point of view of human understanding.
 
 Cleanthes responds to this set of objections with a counter-example that is meant to discredit these criticisms and doubts. Suppose we heard an articulate voice coming from the clouds and the words uttered contain a message instructing us in a way that is worthy of a great, superior being. It is not possible, Cleanthes argues, that we would hesitate for a moment to ascribe some design or purpose to the cause of this voice and conclude that it bears some resemblance to the intelligent source of a human voice (D, 3.2–3/152–3). The situation is not so dissimilar as “when we hear an articulate voice in the dark and thence infer a man” (D, 3.3/152; cp. EU, 4.4/27). According to Cleanthes, it is similarly perverse and unnatural to deny that the various parts of the body and the way in which they are suited to our environment (e.g., legs for walking) are “incontestable proof of design and intention” (D, 3.8/155; cp. 2.9/144–5).
 

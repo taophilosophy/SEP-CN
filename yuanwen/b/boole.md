@@ -661,7 +661,7 @@ plus
 
 The $v_{a_1 \ldots a_k}$ are parameters, denoting arbitrary classes (the appearance of parameters is similar to what one sees in the solution of linear differential equations, a subject in which Boole was an expert).
 
-To the equation (*) for $x$ adjoin the constraint conditions (these are constituent equations that Boole called “independent relations”)
+To the equation (\*) for $x$ adjoin the constraint conditions (these are constituent equations that Boole called “independent relations”)
 
 $$ C(a_1, y_1) \cdots C(a_k, y_k) = 0 $$
 

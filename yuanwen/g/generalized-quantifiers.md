@@ -182,7 +182,7 @@ Second, Isom takes a particularly interesting form for *monadic* quantifiers. If
 
 ![two intersecting circles inside a box (the box labeled 'M') with 'A intersecting B' labeling the circle intersection and 'A minus B' and 'B minus A' labeling the non-intersecting parts of the circles. The area inside the box but not in the circles is labeled 'M minus (A union B)'](../assets/generalized-quantifiers/fig1.svg)
 
-*Figure 1*
+\*Figure 1\*
 
 Now it is not hard to see that only the *sizes of the parts* determine whether two models of this kind are isomorphic or not:
 
@@ -190,7 +190,7 @@ Now it is not hard to see that only the *sizes of the parts* determine whether t
 
 $(M,A_1,\ldots,A_k) \cong (M',A'_1,\ldots,A'_k)$ iff the cardinalities of the corresponding parts are the same.
 
-This shows that monadic and Isom generalized quantifiers indeed deal only with *quantities*, i.e., with *sizes* of sets rather than the sets themselves. The list \eqref{ex-qlist3} of type ${\langle}1,1{\rangle}$ generalized quantifiers clearly illustrates this, but also the Aristotelian quantifiers can be formulated in terms of cardinalities,
+This shows that monadic and Isom generalized quantifiers indeed deal only with *quantities*, i.e., with *sizes* of sets rather than the sets themselves. The list \\eqref{ex-qlist3} of type ${\langle}1,1{\rangle}$ generalized quantifiers clearly illustrates this, but also the Aristotelian quantifiers can be formulated in terms of cardinalities,
 
 $$ \begin{align} \textit{all}_M(A,B) & \iff |A-B|=0\\ \textit{some}_M(A,B) & \iff |A \cap B|>0 \end{align} $$
 
@@ -212,7 +212,7 @@ $$\tag{14} (Q{^{\text{rel}}})_M(A,R_1,\ldots,R_{n_k}) \mathbin{\Longleftrightarr
 
 where $R_i \subseteq M^{n_i}$ and $R_i\!\restriction\! A$ is the *restriction* of $R_i$ to *A*, i.e., the set of $n_i$-tuples in $R_i\cap A^{n_i}$.
 
-We have in fact already seen several examples of relativization: since one easily verifies (see the lists \eqref{ex-qlist1} and \eqref{ex-qlist3}) that
+We have in fact already seen several examples of relativization: since one easily verifies (see the lists \\eqref{ex-qlist1} and \\eqref{ex-qlist3}) that
 
 $$\begin{align} \tag{15} \textit{all} & = \forall{^{\text{rel}}}\\ \textit{some} & = \exists{^{\text{rel}}}\\ \textit{at least five} & = (\exists_{\geq 5}){^{\text{rel}}}\\ \textit{exactly three} & = (\exists_{= 3}){^{\text{rel}}}\\ \textit{infinitely many} & = (Q_o){^{\text{rel}}}\\ \textit{most} & = (Q^R){^{\text{rel}}}\\ \textit{an even number of} & = (Q_{\text{even}}){^{\text{rel}}} \end{align} $$
 
@@ -381,7 +381,7 @@ a. More than one third of the graduate students are foreigners.
 
 More than one third of the graduate students are foreign graduate students.
 
-Conserv says that only the part of *B* which is common to *A* matters for the truth of $Q_M(A,B)$. That is, the part $B-A$ in Figure 1 doesn’t matter. This appears to hold for all determiner denotations, but it fails for perfectly natural logical quantifiers, such as *MO* and *I* from the list \eqref{ex-qlist3} above. The reason is that it is characteristic of determiner denotations that the restriction argument *restricts the domain of quantification* to that argument.
+Conserv says that only the part of *B* which is common to *A* matters for the truth of $Q_M(A,B)$. That is, the part $B-A$ in Figure 1 doesn’t matter. This appears to hold for all determiner denotations, but it fails for perfectly natural logical quantifiers, such as *MO* and *I* from the list \\eqref{ex-qlist3} above. The reason is that it is characteristic of determiner denotations that the restriction argument *restricts the domain of quantification* to that argument.
 
 ## 12. Extension
 
@@ -400,7 +400,7 @@ That is, nothing happens when the universe is extended, or shrunk, as long as th
 
 Again, all determiner denotations appear to satisfy Ext. At first sight, nothing in principle would seem to prevent a language from containing a determiner, say evso, which meant *every* on universes with less than 10 elements and *some* on larger universes. But not only is there in fact no such determiner in any language—there couldn’t be, if the noun argument of a determiner is to restrict the domain of quantification to the denotation of that noun.
 
-A quantifier such as evso is intuitively *not constant*, in the sense that it doesn’t mean the same, or is not interpreted by the same rule, on every universe. Ext can be seen as a strong requirement of constancy: the rule interpreting *Q* doesn’t even mention the universe. Indeed, many quantifiers from language and logic are Ext. As we saw, all relativized quantifiers are Ext, and all the other quantifiers in the lists \eqref{ex-qlist2}–\eqref{ex-qlist4} as well, except *W*.[^note-24] In fact, it seems that all quantifiers taking more than one argument that show up in natural language contexts are Ext. And many type ${\langle}1{\rangle}$ quantifiers are Ext too, for example, $\exists$, $I_j$, $Q^A$ (when *Q* is Ext; see \eqref{QA} above), and all in the list \eqref{ex-qlist1} except $Q^R$.
+A quantifier such as evso is intuitively *not constant*, in the sense that it doesn’t mean the same, or is not interpreted by the same rule, on every universe. Ext can be seen as a strong requirement of constancy: the rule interpreting *Q* doesn’t even mention the universe. Indeed, many quantifiers from language and logic are Ext. As we saw, all relativized quantifiers are Ext, and all the other quantifiers in the lists \\eqref{ex-qlist2}–\\eqref{ex-qlist4} as well, except *W*.[^note-24] In fact, it seems that all quantifiers taking more than one argument that show up in natural language contexts are Ext. And many type ${\langle}1{\rangle}$ quantifiers are Ext too, for example, $\exists$, $I_j$, $Q^A$ (when *Q* is Ext; see \\eqref{QA} above), and all in the list \\eqref{ex-qlist1} except $Q^R$.
 
 But $\forall$ and $Q^R$ are not Ext. Yet one is inclined to say for them too that they mean the same on every universe. The case of $\forall$ is particularly interesting since one might argue that it interprets NPs like everything or every thing. The crux here is thing. If this expression is seen as a logical constant that always denotes the universe, then these NPs do denote $\forall$: for all *M* and all $B\subseteq M$,
 
@@ -490,7 +490,7 @@ where $R_j = \{b\in M\!: R(j,b)\}$ and *R* is some “possessor” relation; it 
 
 $$\mathbf{P}_M(a,R,A,B) \iff \emp\neq A \cap R_a \subseteq B$$
 
-We could say that this is a generalized quantifier of type ${\langle}0,2,1,1{\rangle}$, letting 0 stand for individuals. $\mathbf{P}$ is Isom (extending definition \eqref{ex-isom} in the obvious way to quantifiers of this type), and John’s results by freezing the first two arguments to suitable values.
+We could say that this is a generalized quantifier of type ${\langle}0,2,1,1{\rangle}$, letting 0 stand for individuals. $\mathbf{P}$ is Isom (extending definition \\eqref{ex-isom} in the obvious way to quantifiers of this type), and John’s results by freezing the first two arguments to suitable values.
 
 Similar constructions work for other cases of quantifier expressions in natural languages that denote non-Isom quantifiers. For example, the determiner no _ except Mary denotes (given that Mary refers to *m*)
 
@@ -544,7 +544,7 @@ a. People usually are grateful to firemen who rescue them.
 
 Men seldom make passes at girls who wear glasses. (Dorothy Parker)
 
-Adverbs like usually, seldom, always, never can be taken to denote generalized quantifiers (an observation originally made in Lewis (1975)[^lewis-1975]). For example, Dogs never meow is roughly synonymous with No dogs meow. But for (38) it can be argued that there is a reading where the quantifier applies to *pairs*: among the pairs consisting of a person and a fireman who rescues that person, a majority are such that the person is grateful. This is just the *resumption* of *most* to pairs, that we defined in \eqref{ex-qlist4}:
+Adverbs like usually, seldom, always, never can be taken to denote generalized quantifiers (an observation originally made in Lewis (1975)[^lewis-1975]). For example, Dogs never meow is roughly synonymous with No dogs meow. But for (38) it can be argued that there is a reading where the quantifier applies to *pairs*: among the pairs consisting of a person and a fireman who rescues that person, a majority are such that the person is grateful. This is just the *resumption* of *most* to pairs, that we defined in \\eqref{ex-qlist4}:
 
 $$Res^2(\textit{most})(R,S) \iff |R\cap S| > |R-S|$$
 
@@ -564,7 +564,7 @@ Here (39a) can have the truth conditions
 
 $$\exists X \subseteq \textit{Boston pitcher} [|X| = 5 \amp \textit{RECIP}(X, \textit{sat alongside})]$$
 
-where *RECIP* is the type ${\langle}1,2{\rangle}$ quantifier defined in \eqref{ex-qlist4}. That is, there is a set of five Boston pitchers such that if you take any two of those, either they sit next to each other, or there is one pitcher, or two, or at most three (all in the chosen set), between them. Similarly for (39b). This is just one of several constructions of polyadic quantifiers that occur in reciprocal sentences.[^note-34]
+where *RECIP* is the type ${\langle}1,2{\rangle}$ quantifier defined in \\eqref{ex-qlist4}. That is, there is a set of five Boston pitchers such that if you take any two of those, either they sit next to each other, or there is one pitcher, or two, or at most three (all in the chosen set), between them. Similarly for (39b). This is just one of several constructions of polyadic quantifiers that occur in reciprocal sentences.[^note-34]
 
 Finally, consider the sentence
 

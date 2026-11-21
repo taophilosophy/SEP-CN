@@ -271,7 +271,7 @@ Our sincere thanks to John Martin Fischer, Coleen Macnamara, Angela Smith, and G
 
 [^chislenko-2021]: –––, 2021, “Causal Blame”, *American Philosophical Quarterly*, 58: 347–358.
 
-[^chislenko-2024]: –––, 2024, “The Whitewashing of Blame”, *European Journal of Philosophy *32: 1221–1234.
+[^chislenko-2024]: –––, 2024, “The Whitewashing of Blame”, *European Journal of Philosophy* 32: 1221–1234.
 
 [^ciurria-2019]: Ciurria, M., 2019, *An Intersectional Feminist Theory of Moral Responsibility*, New York: Routledge.
 

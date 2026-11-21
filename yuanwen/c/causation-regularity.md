@@ -71,7 +71,7 @@ A third problem is that there can be regularity without causation. The cry of th
 
 ![a diagram with three disjoint circles labeled A, B, and C respectively. An arrow points from circle C to circle A and another from circle C to circle B](../assets/causation-regularity/figure1.svg)
 
-*Figure 1*
+\*Figure 1\*
 
 Setting aside the possibilities of remote and backwards causation for now, a regularity theory of causation is only tenable when the three problems can be answered. The next section focuses on how laws of nature may help overcome the problem of sorting events into appropriate types and how they may exclude the cry of the cock as a cause of the sunrise.
 

@@ -246,7 +246,7 @@ civic humanism | communitarianism | domination | liberalism | liberty: positive 
 
 [^forst-2013]: Forst, Rainer, 2013. “A Kantian Republican Conception of Justice as Nondomination,” in *Republican Democracy: Liberty, Law, and Politics*, Andreas Niederberger and Philipp Schink (eds.), Edinburgh: Edinburgh University Press, 154–168 (ch. 6).
 
-[^frankfurt-1971]: Frankfurt, Harry G., 1971 [1982]. “Freedom of the Will and the Concept of a Person,” \emph{Journal of Philosophy}, 68(1): 5–20; reprinted in *Free Will*, Gary Watson (ed.), Oxford: Oxford University Press, 1982, 81–95.
+[^frankfurt-1971]: Frankfurt, Harry G., 1971 [1982]. “Freedom of the Will and the Concept of a Person,” \\emph{Journal of Philosophy}, 68(1): 5–20; reprinted in *Free Will*, Gary Watson (ed.), Oxford: Oxford University Press, 1982, 81–95.
 
 [^gädeke-2016]: Gädeke, Dorothea, 2016. “The Domination of States: Towards an Inclusive Republican Law of Peoples,” *Global Justice: Theory Practice Rhetoric*, 9: 1–27.
 

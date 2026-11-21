@@ -87,13 +87,13 @@ A fifth solution, which also holds that the second premise of the reconstruction
 
 A sixth solution (Malmgren 2011) holds that the Gettier premise is the simple claim that it is possible that some *x* stand to some *p* as does the subject in the Gettier text and to have justified true belief that *p* while lacking knowledge that *p*. More precisely, it is
 
-(1*)
+(1\*)
 
 $\Diamond \exists x\exists p (\textrm{GC}(x, p) \amp \textrm{JTB}(x, p) \amp{\sim}\mathrm{K}(x, p))$
 
-(1*) entails, without the aid of other premises, (3). That there are possible realizations of the Gettier text in which the person would fail to have JTB but not knowledge is irrelevant to the truth of (1*).
+(1\*) entails, without the aid of other premises, (3). That there are possible realizations of the Gettier text in which the person would fail to have JTB but not knowledge is irrelevant to the truth of (1\*).
 
-It might be objected that this proposal makes the intuition’s content too close to a simple denial of the JTB theory. However, this worry can be assuaged if one recalls that the JTB theory has little or no intuitive justification of its own and was justifiably accepted by its proponents only on the grounds that it provided the best account of our pre-Gettier intuitions. Geddes (2018) raises worries about how Malmgren’s proposal handles cases in which people deny the Gettier claim. Malmgren’s proposal seems to imply that one who holds that Gettier’s subject neither has a justified true belief, nor knows, that *p*, is holding that it is possible that *S* stand to a proposition *p* as in the Gettier case and that *S* fail to have justified belief or knowledge that *p*. That claim, however, is true and does not contradict the orthodox claim about the Gettier case. Ichikawa and Jarvis (2013) object to Malmgren’s account that one might reject the standard claim about the Gettier case but still accept (1*) because one thinks there are other possible cases of JTB without knowledge which are compossible with the Gettier case.
+It might be objected that this proposal makes the intuition’s content too close to a simple denial of the JTB theory. However, this worry can be assuaged if one recalls that the JTB theory has little or no intuitive justification of its own and was justifiably accepted by its proponents only on the grounds that it provided the best account of our pre-Gettier intuitions. Geddes (2018) raises worries about how Malmgren’s proposal handles cases in which people deny the Gettier claim. Malmgren’s proposal seems to imply that one who holds that Gettier’s subject neither has a justified true belief, nor knows, that *p*, is holding that it is possible that *S* stand to a proposition *p* as in the Gettier case and that *S* fail to have justified belief or knowledge that *p*. That claim, however, is true and does not contradict the orthodox claim about the Gettier case. Ichikawa and Jarvis (2013) object to Malmgren’s account that one might reject the standard claim about the Gettier case but still accept (1\*) because one thinks there are other possible cases of JTB without knowledge which are compossible with the Gettier case.
 
 Much of the relevant literature appears to assume that Williamson’s worry will arise for any appeal to a hypothetical case. Williamson himself adopts
 

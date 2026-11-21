@@ -6,7 +6,7 @@
 
 ## Figures and their Works
 
-*** Korean
+\*\*\* Korean
 
 - Anonymuous
 - *Zhuzi jiali* (朱子家禮) [Zhu Xi’s Family Rites]
@@ -72,7 +72,7 @@
 - Ch’oe Che-u (1824–1864) (Su-un)
 
 - 
-- *** Non-Korean
+- \*\*\* Non-Korean
 - Five Classics
 - *Yijing* (易經) [Classic of Changes] [[*Changes* available online](https://ctext.org/book-of-changes)]
 - *Shujing* (書經) [Classic of History] [[*Classic of History* available online](https://ctext.org/shang-shu)]

@@ -16,7 +16,7 @@ For ease of reference, the technical definitions discussed in earlier sections a
 >
 > **Strong Individual Supervenience**
 >
-> *Possible-Worlds Formulation*: *A* strongly supervenes on *B* iff for any possible worlds *w*_{1} and w_{2} and any individuals *x* in *w*_{1} and *y* in *w*_{2}, if *x* in *w*_{1} is *B*-indiscernible from *y* in *w*_{2}, then *x* in *w*_{1} is *A*-indiscernible from *y* in *w*_{2}. *Modal Operator Formulation*: *A* strongly supervenes on *B* iff necessarily, if anything *x* has some property *F* in *A*, then there is at least one property *G* in *B* such *x* has *G*, and necessarily everything that has *G* has *F*. □∀*x*∀*F*∈*A*[*F**x* → ∃*G*∈*B*(*G**x* & □∀*y*(*Gy*→*Fy*))]
+> *Possible-Worlds Formulation*: *A* strongly supervenes on *B* iff for any possible worlds *w*_{1} and w_{2} and any individuals *x* in *w*_{1} and *y* in *w*_{2}, if *x* in *w*_{1} is *B*-indiscernible from *y* in *w*_{2}, then *x* in *w*_{1} is *A*-indiscernible from *y* in *w*_{2}. *Modal Operator Formulation*: *A* strongly supervenes on *B* iff necessarily, if anything *x* has some property *F* in *A*, then there is at least one property *G* in *B* such *x* has *G*, and necessarily everything that has *G* has *F*. □∀*x*∀*F*∈*A*[*Fx* → ∃*G*∈*B*(*Gx* & □∀*y*(*Gy*→*Fy*))]
 
 **Regional Supervenience**
 

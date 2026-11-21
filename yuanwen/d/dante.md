@@ -33,7 +33,7 @@ But the fullest embodiment of Dante’s contribution to the tradition of Italian
 
 Though he evidently did not begin serious study of philosophy until his mid-twenties, Dante had already been intellectually challenged by the work of a remarkable group of poets, practitioners of what he would later recall as the *dolce stil novo* (“sweet new style”), in whose hands a lyric poetry modelled on the *canso* of the Provençal troubadours became a vehicle for serious enquiry into the nature of love and human psychology. A generation earlier, Guido Guinizzelli (1230–76) had puzzled contemporaries with poems treating love in terms of the technicalities of medicine and the cosmology of the schools, while celebrating in quasi-mystical language his lady’s power to elevate the spirit of her poet-lover (*Al cor gentil rempaira sempre amore*, 41–44, 47–50):
 
-> *Splende ’n la intelligenzïa del cielo
+> Splende ’n la intelligenzïa del cielo
 > Deo Criator più che ’n nostr’ occhi ’l sole;
 > ella intende suo fattor oltra ’l cielo,
 > e ’l ciel volgiando, a Lui obedir tole;
@@ -41,7 +41,7 @@ Though he evidently did not begin serious study of philosophy until his mid-twen
 > così dar dovria, al vero,
 > la bella donna, poi che ’n gli occhi splende
 > del suo gentil, talento
-> che mai di lei obedir non si disprende.*
+> che mai di lei obedir non si disprende.
 >
 > [God the creator shines in the intelligence of heaven
 > more than the sun in our eyes,
@@ -61,12 +61,12 @@ For Guido there is an absolute cleavage between the sensory and intellectual asp
 
 Guido’s influence on Dante was profound but difficult to assess. The *Vita nuova*, an anthology of Dante’s early poetry interspersed with a narrative combining commentary on his poetic development with the history of his devotion to Beatrice during her earthly life, reveals a growing realization that his own conception of poetry and love differ fundamentally from Guido’s [Ardizzone 2002, 2016, 2011, 2022; Barolini 1984, 142–63; 2006, 70–101; 2022, 99–120; Stone 2020][^ardizzone-2002][^ardizzone-2011][^ardizzone-2016][^ardizzone-2022][^barolini-1984][^stone-2020]. Like Guido, Dante accepted love as being, for better or worse, fundamental to the noble life, and his early lyrics express a sense like Guido’s of the internally divisive power of desire. But as the *Vita nuova* unfolds there is a gradual shift of focus: having failed to win his lady’s favor by dramatizing his own sufferings, Dante resolves to devote his poetry henceforth wholly to praise of her [VN, 18.9]. The result of this new resolve is a *canzone*, “*Donne ch’avete intelletto d’amore*” (“Ladies who have intelligence of love”), which returns to the source of his inspiration and Guido’s in the poetry of Guinizelli, but makes a wholly new departure. For Guido, the “heavenly” allure of the lady is a deception perpetrated by the senses, all the more dangerous as the lover’s *gentilezza* responds more fully to the attraction of her beauty and subjects itself to the “fierce accident” of passion. Dante, too, sees that the experience his early, tormented lyrics depict is “an accident occurring in a substance” [VN 25.1–2], but the “fiery spirits of love” which strike the eyes of those on whom his lady bestows her greeting are not just goads to desire (*Donne ch’avete intelletto d’amore*, VN 19.10.37–40):
 
-> *E quando trova alcun che degno sia
+> E quando trova alcun che degno sia
 > di veder lei. quei prova sua vertute,
 > ché li avvien, ciò che li dona, in salute,
 > e sì l’umilia ch’ogni offesa oblia.
 > Ancor l’ha Dio per maggior grazia dato
-> che non pò mal finir chi l’ha parlato.*
+> che non pò mal finir chi l’ha parlato.
 >
 > [And when she finds someone worthy
 > to behold her, he experiences her power,
@@ -109,7 +109,7 @@ Although Dante’s crowning literary achievement is, of course, the *Divine Come
 
 Philosophy itself is the “love of wisdom,” and Dante’s central metaphor for representing it is the poetic celebration of a noble lady, a *donna gentile*, an act that, like Guinizelli, he sees as involving the influence of cosmic powers. His poetry comes into being out of love and virtue [*Conv*. 1.1.14] because his nature is responsive to the influence of the “movers” of the universe, the intelligences, whose loving understanding determines “the most noble form of heaven” [2.5.19] as they in turn respond to “the love of the Holy Spirit” [2.5.14]. Their cosmic activity is a continual translation of understanding into love and natural process, and it is this which causes Dante to sing [*Conv.* 2, Canzone, 1–9]:
 
-> *Voi che ’ntendendo il terzo ciel movete,
+> Voi che ’ntendendo il terzo ciel movete,
 > udite il ragionar ch’è nel mio core,
 > ch’io nol so dire altrui, sì mi par novo.
 > El ciel che segue lo vostro valore,
@@ -117,7 +117,7 @@ Philosophy itself is the “love of wisdom,” and Dante’s central metaphor fo
 > mi tragge ne lo stato ov’io mi trovo.
 > Onde ’l parlar de la vita ch’io provo,
 > par che si drizzi degnamente a vui:
-> però vi priego che lo mi ’ntendiate.*
+> però vi priego che lo mi ’ntendiate.
 >
 > [All you who, knowing, make the Third Sphere move,
 > hear what is in my heart, this strange discourse
@@ -265,13 +265,13 @@ In this light, it is also worth noting that Dante turns toward the authority of 
 
 There are, however, two major complications that hinder any direct assessment of the *Divine Comedy*’s treatment of the nature of philosophy. First, there is the question of how to interpret the explicit doctrinal claims of the various speakers in the *Divine Comedy*. *Purgatorio* 16, for instance, introduces Marco the Lombard on the Terrace of Wrath. Marco’s speech to Dante’s pilgrim touches on a variety of philosophical subjects, including a refutation of astral determinism. But the culminating lines of his speech do little more than offer a brief summary of the political philosophy espoused in *Convivio* 4 and *Monarchia*. Specifically, Marco offers the following diagnosis of the cause of civil strife in the Italy of Dante’s day (*Purg.*, 16.106–12):
 
-> *Soleva Roma, che ’l buon mondo feo,
+> Soleva Roma, che ’l buon mondo feo,
 > due soli aver, che l’una e l’altra strada
 > facean vedere, e del mondo e di Deo.
 > L’un l’altro ha spento, ed è giunta la spade
 > col pasturale, e l’un con l’altro insieme
 > per viva forza mal convien che vada
-> però che, giunti, l’un l’altro non teme.*
+> però che, giunti, l’un l’altro non teme.
 >
 > [Rome, which made the good world,
 > used to have two suns that made visible

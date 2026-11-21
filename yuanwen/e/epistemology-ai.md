@@ -676,7 +676,7 @@ artificial intelligence | artificial intelligence: ethics of | computer science,
 
 [^mittelstadt-2016]: Mittelstadt, Brent, Patrick Allo, Mariarosaria Taddeo, Sandra Wachter, and Luciano Floridi, 2016, “The Ethics of Algorithms: Mapping the Debate”, *Big Data and Society*, 3(2): 2053951716679679.
 
-[^mittelstadt-2019]: Mittelstadt, Brent, Chris Russell, and Sandra Wachter, 2019, “Explaining explanations in AI”, In: FAT* ’19: Conference on Fairness, Accountability, and Transparency, January 29–31, 2019, Atlanta, GA, ACM, New York, NY, pp. 279–288.
+[^mittelstadt-2019]: Mittelstadt, Brent, Chris Russell, and Sandra Wachter, 2019, “Explaining explanations in AI”, In: FAT\* ’19: Conference on Fairness, Accountability, and Transparency, January 29–31, 2019, Atlanta, GA, ACM, New York, NY, pp. 279–288.
 
 [^mizrahi-2013]: Mizrahi, Moti, 2013, “The Pessimistic Induction: A Bad Argument Gone Too Far”, *Synthese*, 190(15): 3209–3226.
 

@@ -41,11 +41,11 @@ When Avicenna identifies and discusses a mood explicitly (or at least refers to 
 | Darii XXX | X-BaC, X-AiB ⊢ X-AiC | *Qiyās*, II.4, 110.2 |
 | Ferio XXX | X-BeC, X-AiB ⊢ X-AoC | *Qiyās*, II.4, 110.2–3 |
 
-| Cesare* XXX | X-CeB, X-AaB ⊢ X-AeC | *Qiyās*, II.4, 114.5–115.16 |
+| Cesare\* XXX | X-CeB, X-AaB ⊢ X-AeC | *Qiyās*, II.4, 114.5–115.16 |
 | --- | --- | --- |
-| Camestres* XXX | X-CaB, X-AeB ⊢ X-AeC | *Qiyās*, II.4, 115.17–116.2 |
-| Festino* XXX | X-CeB, X-AiB ⊢ X-AoC | *Qiyās*, II.4, 116.3–6 |
-| Baroco* XXX | X-CaB, X-AoB ⊢ X-AoC | *Qiyās*, II.4, 116.7–12 |
+| Camestres\* XXX | X-CaB, X-AeB ⊢ X-AeC | *Qiyās*, II.4, 115.17–116.2 |
+| Festino\* XXX | X-CeB, X-AiB ⊢ X-AoC | *Qiyās*, II.4, 116.3–6 |
+| Baroco\* XXX | X-CaB, X-AoB ⊢ X-AoC | *Qiyās*, II.4, 116.7–12 |
 | (only with X-proposition converting as itself, i.e., as strong as L_{d1}) |   |   |
 
 | Darapti XXX | X-BaC, X-BaA ⊢ X-AiC | *Qiyās*, II.4, 117.6–12 |
@@ -188,12 +188,12 @@ No moods in the second figure (*Qiyās*, IV.4, 205–213)
 | Bocardo XMM | X-BoC, M-BaA ⊢ M-AoC | *Qiyās*, IV.6, 225.9 (implied) |
 | Ferison XMM | X-BeC, M-BiA ⊢ M-AoC | *Qiyās*, IV.6, 225.9 (implied) |
 
-| Cesare* XMM | X-CeB, M-AaB ⊢ M-AeC | *Qiyās*, IV.4, 214.2–4 |
+| Cesare\* XMM | X-CeB, M-AaB ⊢ M-AeC | *Qiyās*, IV.4, 214.2–4 |
 | --- | --- | --- |
-| Camestres* XMM | X-CaB, M-AeB ⊢ M-AeC | *Qiyās*, IV.4, 214.4–6 |
-| Festino* XMM | X-CeB, M-AiB ⊢ M-AoC | *Qiyās*, IV.4, 215.5–7 (implied) |
-| Baroco* XMM | X-CaB, M-AoB ⊢ M-AoC | *Qiyās*, IV.4, 215.5–7 (implied) |
-| Baroco* MXM | M-CaB, X-AoB ⊢M-AoC | *Qiyās*, IV.4, 215.8–14 |
+| Camestres\* XMM | X-CaB, M-AeB ⊢ M-AeC | *Qiyās*, IV.4, 214.4–6 |
+| Festino\* XMM | X-CeB, M-AiB ⊢ M-AoC | *Qiyās*, IV.4, 215.5–7 (implied) |
+| Baroco\* XMM | X-CaB, M-AoB ⊢ M-AoC | *Qiyās*, IV.4, 215.5–7 (implied) |
+| Baroco\* MXM | M-CaB, X-AoB ⊢M-AoC | *Qiyās*, IV.4, 215.8–14 |
 | (only with X-proposition converting as itself, i.e., as strong as L_{d1}) |   |   |
 
 ### C.2.6 LM

@@ -93,7 +93,7 @@ CMS is the category of complete metric spaces with distances measured in the int
 > |   | *x*₄ ≈ .5 *x*₅ + *x*₅ |
 > |   | … |
 
-Let *F* be the functor on CMS taking a space (*X*, *d*) to the space (*X* + *X*, *d*^{*}), where *d*^{*} measures distances in the same copy of *X* by taking half the corresponding distance in (*X*, *d*) ; otherwise, *d*^{*}(*x*, *y*) = 1.
+Let *F* be the functor on CMS taking a space (*X*, *d*) to the space (*X* + *X*, *d*^{\*}), where *d*^{\*} measures distances in the same copy of *X* by taking half the corresponding distance in (*X*, *d*) ; otherwise, *d*^{\*}(*x*, *y*) = 1.
 
 We use the following example (*I*, *a*) of an algebra for *F*: *I*= [0,1], and *a* : *FI* → *I* is given by *a*(inl(x)) = .5 *x*, and *a*(inr(x)) = .5 *x* + .5.
 
@@ -103,7 +103,7 @@ Then the cia property gives a unique solution map *e*^{†}   : *X* → *I*.
 
 **The Cantor set, again** Let *I* be the unit interval [0,1] , an object in CMS. The Cantor “middle third” set *c* may be obtained via the cia structure on *C*(*I*), the space of compact subsets of *I* with a metric as defined earlier in this supplement.
 
-We take for *F*   :  CMS → CMS the functor which takes a metric space (*X*, *d*) to (*X*,1/3 ⋅ *d*). This is 1/3-contracting, and we use the non-empty *F*-algebra (*C*(*I*), α), where
+We take for *F*   :  *CMS* → *CMS* the functor which takes a metric space (*X*, *d*) to (*X*,1/3 ⋅ *d*). This is 1/3-contracting, and we use the non-empty *F*-algebra (*C*(*I*), α), where
 
 > α(*S*)   =   (1/3 ⋅ *S*) ∪ (2/3 + 1/3 ⋅ *S*).
 
@@ -121,10 +121,10 @@ We want to solve *x* ≈ *f*(*x*). We start with an arbitrary *f* ∈ *A*. Then 
 > | --- | --- | --- |
 > | *c*_{*n*+1} | = | *f*(*c*_{*n*}(*a*)) |
 
-The space *X* has enough limits (this is where completeness enters), and the sequence *c*_{*n*}(*a*) is a Cauchy sequence in it. And so we have around to guarantee that it will have a limit. Call this limit *a*^{*} . Since *f* is continuous, we have
+The space *X* has enough limits (this is where completeness enters), and the sequence *c*_{*n*}(*a*) is a Cauchy sequence in it. And so we have around to guarantee that it will have a limit. Call this limit *a*^{\*} . Since *f* is continuous, we have
 
-> *f*(*a*^{*})   =   *f*(*lim*_{*n*}*c*_{*n*}(*a*))   =   *lim*_{*n*}*f*(*c*_{*n*}(*a*))   =   *lim*_{*n*} *c*_{*n*+1}(*a*)   =   *a*^{*}.
+> *f*(*a*^{\*})   =   *f*(*lim*_{*n*}*c*_{*n*}(*a*))   =   *lim*_{*n*}*f*(*c*_{*n*}(*a*))   =   *lim*_{*n*} *c*_{*n*+1}(*a*)   =   *a*^{\*}.
 
-Thus *a*^{*} is a solution to our equation, as desired. But the function *f* is actually, contracting in certain precise sense, and so by a standard metric argument, *a*^{*} will not depend on *a*: starting the iteration at any non-empty compact set would give the same result.
+Thus *a*^{\*} is a solution to our equation, as desired. But the function *f* is actually, contracting in certain precise sense, and so by a standard metric argument, *a*^{\*} will not depend on *a*: starting the iteration at any non-empty compact set would give the same result.
 
 This follows iterative definition of the Cantor set. Let's take *a* to be [0,1] itself. Note that removing the middle-third of [0,1] is gives *f*(*a*). That is, rather than think of removal, think of shrinking the interval by one-third, putting one piece on [0,1/3] and the other on [2/3, 1] . It just so happens that these operations produce the same thing. And this coincidence persists at the second step: *f*(*f*(*a*)) consists of the four pieces [0,1/9] , [2/9, 1/3], [2/3, 7/9], and [8/9, 1]. So the iterative method is giving us the terms of the iteration sequence beginning with [0,1]. Finally, the iteration sequence *beginning with* [0,1] is a shrinking sequence of sets, and then by the way limits are calculated in *X*, the limit is exactly the intersection of the shrinking sequence.

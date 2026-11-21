@@ -11,7 +11,7 @@ Turing machines, first described by Alan Turing in Turing 1936–7, are simple a
 
 Turing introduced Turing machines in the context of research into the foundations of mathematics. More particularly, he used these abstract devices to prove that there is no effective general method or procedure to solve, calculate or compute every instance of the following problem:
 
-> *Entscheidungsproblem* The problem to decide for every statement in first-order logic (the so-called restricted functional calculus, see the entry on classical logic for an introduction) whether or not it is derivable in that logic.
+> ***Entscheidungsproblem*** The problem to decide for every statement in first-order logic (the so-called restricted functional calculus, see the entry on classical logic for an introduction) whether or not it is derivable in that logic.
 
 Note that in its original form (Hilbert & Ackermann 1928)[^hilbert-1928], the problem was stated in terms of validity rather than derivability. Given Gödel’s completeness theorem (Gödel 1929)[^gödel-1929] proving that there is an effective procedure (or not) for derivability is also a solution to the problem in its validity form. In order to tackle this problem, one needs a formalized notion of “effective procedure” and Turing’s machines were intended to do exactly that.
 
@@ -29,13 +29,13 @@ $$q_{i}S_{j}S_{i,j}M_{i,j}q_{i,j}$$
 
 Where $q_i$ is the current state, $S_j$ the content of the square being scanned, $S_{i,j}$ the new content of the square; $M_{i,j}$ specifies whether the machine is to move one square to the left, to the right or to remain at the same square, and $q_{i,j}$ is the next state of the machine. These quintuples are also called the transition rules of a given machine. The Turing machine $T_{\textrm{Simple}}$ which, when started from a blank tape, computes the sequence $S_0S_1S_0S_1\ldots$ is then given by Table 1.
 
-*Table 1:* Quintuple representation of $T_{\textrm{Simple}}$
+\*Table 1:\* Quintuple representation of $T_{\textrm{Simple}}$
 
 $$ \begin{align}\hline ;q_{1}S_{0}S_{0}Rq_{2}\\ ;q_{1}S_{1}S_{0}Rq_{2}\\ ;q_{2}S_{0}S_{1}Rq_{1}\\ ;q_{2}S_{1}S_{1}Rq_{1}\\\hline \end{align} $$
 
 Note that $T_{\textrm{Simple}}$ will never enter a configuration where it is scanning $S_1$ so that two of the four quintuples are redundant. Another well-known format to represent the ‘program’ of a Turing machine and which was also used by Turing is the *transition table*. Table 2 gives the transition table of $T_{\textrm{Simple}}$.
 
-*Table 2:* Transition table for $T_{\textrm{Simple}}$
+\*Table 2:\* Transition table for $T_{\textrm{Simple}}$
 
 |   | $S_0$ | $S_1$ |
 | --- | --- | --- |
@@ -90,13 +90,13 @@ So, given some Turing machine *T* which is in state $q_{i}$ scanning the symbol 
 
 ![a Turing machine: link to extended description below](../assets/turing-machine/TM_basic0.svg)
 
-*Figure 1:* A complete configuration of some Turing machine *T*. [An extended description of figure 1 is in the supplement.]
+\*Figure 1:\* A complete configuration of some Turing machine *T*. [An extended description of figure 1 is in the supplement.]
 
 The notation thus allows us to capture the developing behavior of the machine and its tape through its consecutive IDs. Figure 2 gives the first few consecutive IDs of $T_{\textrm{Simple}}$ using a graphical representation. Its simulated behavior can be accessed [here.](https://www.turingmachine.io/?import-gist=4b4b8a9f450b6a4ea061945db0791ccf)
 
 ![an animated Turing machine: link to extended description below](../assets/turing-machine/S1.svg)
 
-*Figure 2:* The dynamics of $T_{\textrm{Simple}}$ graphical representation. (The animation can be started by clicking on the picture and then using the left and right arrows to move through it.) [An extended description of figure 2 is in the supplement.]
+\*Figure 2:\* The dynamics of $T_{\textrm{Simple}}$ graphical representation. (The animation can be started by clicking on the picture and then using the left and right arrows to move through it.) [An extended description of figure 2 is in the supplement.]
 
 One can also explicitly print the consecutive IDs, using their symbolic representations. This results in a so-called state-space diagram of the behavior of a Turing machine. So, for $T_{\textrm{Simple}}$ we get (Note that $\overline{0}$ means the infinite repetition of 0s):
 
@@ -123,7 +123,7 @@ We will also have to make some assumptions about the configuration of the tape w
 
 ![a Turing machine: link to extended description below](../assets/turing-machine/Initial.svg)
 
-*Figure 3:* Initial configuration for a computation over two numbers *n* and *m*. [An extended description of figure 3 is in the supplement.]
+\*Figure 3:\* Initial configuration for a computation over two numbers *n* and *m*. [An extended description of figure 3 is in the supplement.]
 
 Here the supposed addition machine takes two arguments representing the numbers to be added, starting at the leftmost 1 of the first argument. The arguments are separated by a single 0 as required, and the first block contains four ‘1’s, representing the number 3, and the second contains five ‘1’s, representing the number 4.
 
@@ -133,7 +133,7 @@ A machine must finish in standard configuration too. There must be a single bloc
 
 Table 4 gives the transition table of a Turing machine $T_{\textrm{Add}_2}$ which adds two natural numbers *n* and *m*. We assume the machine starts in state $q_1$ scanning the leftmost 1 of the $n+1$ 1s representing *n*.
 
-*Table 4:* Transition table for $T_{\textrm{Add}_2}$
+\*Table 4:\* Transition table for $T_{\textrm{Add}_2}$
 
 |   | 0 | 1 |
 | --- | --- | --- |
@@ -146,13 +146,13 @@ The idea of doing an addition with Turing machines when using unary representati
 
 ![an animated Turing machine: link to extended description below ](../assets/turing-machine/tm1.svg)
 
-*Figure 4:* The computation of $3+4$ by $T_{\textrm{Add}_2}$ (The animation can be started by clicking on the picture and then using the left and right arrows to move through it.) A full simulation, with the possibility of changing the input and the behavior, can be found [here](https://www.turingmachine.io/?import-gist=9d3685d569594da278897b7c1f1f488c) [An extended description of figure 4 is in the supplement.]
+\*Figure 4:\* The computation of $3+4$ by $T_{\textrm{Add}_2}$ (The animation can be started by clicking on the picture and then using the left and right arrows to move through it.) A full simulation, with the possibility of changing the input and the behavior, can be found [here](https://www.turingmachine.io/?import-gist=9d3685d569594da278897b7c1f1f488c) [An extended description of figure 4 is in the supplement.]
 
 ##### Addition of *n* numbers
 
 We can generalize $T_{\textrm{Add}_2}$ to a Turing machine $T_{\textrm{Add}_i}$ for the addition of an arbitrary number *i* of integers $n_1, n_2,\ldots, n_j$. We assume again that the machine starts in state $q_1$ scanning the leftmost 1 of $n_1+1$ 1s. The transition table for such a machine $T_{\textrm{Add}_i}$ is given in Table 5.
 
-*Table 5:* Transition table for $T_{\textrm{Add}_i}$
+\*Table 5:\* Transition table for $T_{\textrm{Add}_i}$
 
 |   | 0 | 1 |
 | --- | --- | --- |

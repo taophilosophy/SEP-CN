@@ -269,19 +269,19 @@ Does this Korsgaardian argument avoid the pitfalls of the Kantian one discussed 
 
 For both these problems to be avoided, however, it is important to run the argument as outlined above, not as it is sometimes presented by Korsgaard, which is via the notion of need (cf. Korsgaard 1996: 121 and 125)[^korsgaard-1996]. This would follow the same premises as before for (1)–(5), and then go as follows:
 
-(6*)
+(6\*)
 
 You cannot regard it as important that your life contain reasons and values unless you take your need to lead this sort of life as important.
 
-(7*)
+(7\*)
 
 You cannot take this need to be important unless you take yourself to be valuable.
 
-(8*)
+(8\*)
 
 Therefore, you must value yourself, if you are to make any rational choice.
 
-The difficulty with (6*)–(8*), we think, is that (8*) does not stipulate what it is about yourself that you are required to value, so that this could be my sheer particularity (self-conceit), or if I am not in fact human, my non-human nature (Satan). This is because (6*) just identifies a need, and says that this need could not be important unless the agent who has the need were seen to be valuable somehow—whereas the previous argument narrows value down to rational agency, and so rules out both self-conceit and devilishness.
+The difficulty with (6\*)–(8\*), we think, is that (8\*) does not stipulate what it is about yourself that you are required to value, so that this could be my sheer particularity (self-conceit), or if I am not in fact human, my non-human nature (Satan). This is because (6\*) just identifies a need, and says that this need could not be important unless the agent who has the need were seen to be valuable somehow—whereas the previous argument narrows value down to rational agency, and so rules out both self-conceit and devilishness.
 
 We have therefore reconstructed that part of Korsgaard’s strategy who offers an argument to the effect that you must value your humanity, as a transcendental argument: it is transcendental as it claims that valuing humanity is a necessary condition of being an agent which makes rational choice. It turns out that if it is to be made plausible in this way, a lot depends on accepting Korsgaard’s arguments against realism; but then, as we have seen, many have always suspected that some commitment to anti-realism is required to make a transcendental argument convincing. A further worry when it comes to external world scepticism, as we discussed above (§3), is that this commitment can appear to make the argument redundant, because anti-realism appears sufficient as a response to scepticism on its own. However, in this ethical case, this worry is perhaps less of a concern, because a sceptic could endorse an anti-realist position in metaethics, without accepting that they or others have value as a matter of their normative ethics, so that there is still work left for the transcendental argument to do. To this extent, therefore, it is not surprising that Korsgaard’s claims have given further impetus to the debate concerning what transcendental arguments are, and what they can contribute. (For further discussion of Korsgaard’s position as an interpretation of Kant, see Wood 1999: 125–32 and Timmermann 2006; and for further discussion, see Skorupski 1998, Skidmore 2002, Enoch 2006, Stern 2011, Stern and Watts 2019)[^enoch-2006][^skidmore-2002][^skorupski-1998][^stern-2011][^stern-2019][^timmermann-2006][^wood-1999].
 

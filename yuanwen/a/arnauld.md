@@ -599,7 +599,7 @@ A translation of Arnauld’s Latin text, made by Pasquier Quesnel, is contained 
 
 [^oa-nd]: The citations abbreviation *OA* is identified below, in the first reference of Principle Editions. The citations abbreviations *LA* and *OM* are identified in the section Related Early Modern Works below.
 
-[^arnauld-1775]: Arnauld, Antoine, *Oeuvres de Messire Antoine Arnauld* (43 vols.) (edited by G. Du Pac De Bellegarde and J. Hautefage, with a *Vie de Messire Antoine Arnauld by N. De Larrière)* Paris-Lausanne: Sigismond D’Arnay et Cie 1775-83. Cited as *OA*.
+[^arnauld-1775]: Arnauld, Antoine, *Oeuvres de Messire Antoine Arnauld* (43 vols.) (edited by G. Du Pac De Bellegarde and J. Hautefage, with a *Vie de Messire Antoine Arnauld by N. De Larrière)* Paris-Lausanne: Sigismond D’Arnay et Cie 1775-83. Cited as ***OA***.
 
 [^oeuvres-2003]: *Oeuvres Philosophiques d’Arnauld* (6 vols.) (edited and introduced by Elmar J. Kremer and Denis Moreau) Bristol: Thoemmes Press, 2003.
 
@@ -671,13 +671,13 @@ A translation of Arnauld’s Latin text, made by Pasquier Quesnel, is contained 
 
 [^philosophical-1984]: *The Philosophical Writings of Descartes* (translated by John Cottingham, Robert Stoothoff, and Dugald Murdoch) 2 volumes, Cambridge: Cambridge University Press, 1984–85. Cited as *Descartes*.
 
-[^briefwechsel-1875]: *Briefwechsel Leibniz, Arnauld und dem Landgrafen Ernst von Hessen-Rheinfels*, in *Die philosophischen schriften von Gottfried Wilhelm Leibniz, herausgegeben von C. I. Gerhardt*, Berlin, 1875–1890, reprint, Hildesheim: Georg Olms, 1965, volume 2. Cited as *LA*.
+[^briefwechsel-1875]: *Briefwechsel Leibniz, Arnauld und dem Landgrafen Ernst von Hessen-Rheinfels*, in *Die philosophischen schriften von Gottfried Wilhelm Leibniz, herausgegeben von C. I. Gerhardt*, Berlin, 1875–1890, reprint, Hildesheim: Georg Olms, 1965, volume 2. Cited as ***LA***.
 
 [^leibniz-1950]: Leibniz, Gottfried Wilhelm, *Discourse on Metaphysics, Correspondence with Arnauld, Monadology*, (translated by George R. Montgomery), LaSalle, Illinois: Open Court Publishing Co., 1950
 
 [^leibniz-1985]: –––, *Theodicy, Essays on the Goodness of God, the Freedom of Man, and the Origin of Evil* (translated by E. M. Huggard and edited with an introduction by Austin Farrer) La Salle, IL: Open Court Press, 1985.
 
-[^malebranche-1958]: Malebranche, Nicolas, *Oeuvres complètes de Malebranche*, (direction: André Robinet) 20 volumes, Paris: J. Vrin, 1958–74. Cited as *OM*.
+[^malebranche-1958]: Malebranche, Nicolas, *Oeuvres complètes de Malebranche*, (direction: André Robinet) 20 volumes, Paris: J. Vrin, 1958–74. Cited as ***OM***.
 
 [^malebranche-1992]: –––, *Treatise on Nature and Grace* (translated by Patrick Riley) Oxford: Clarendon University Press, 1992. (Riley translates an early edition of the *Traité*, which does not contain some texts on which Arnauld comments. Hence, the translations of the text found in volume 5 of *OM* are by the author of this entry.)
 

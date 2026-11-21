@@ -236,7 +236,7 @@ One simple principle that has been invoked to capture moral representations is k
 
 ![a large square with the number 10 inside it; nested inside is a smaller square with the number 4 inside it; the bottom- and left-side of the smaller square overlap with the bottom- and left-side of the larger square.](../assets/moral-learning/image001.png)
 
-*Figure 1:* The numbers represent the highest denomination of the die; the rectangles represent the relative sizes of the hypotheses
+\*Figure 1:\* The numbers represent the highest denomination of the die; the rectangles represent the relative sizes of the hypotheses
 
 The size principle states that when the evidence is consistent with the “smaller hypothesis” (in this case that is the hypothesis that it’s the 4-sided die), that hypothesis is the one that should be favored.
 
@@ -248,7 +248,7 @@ As with the hypotheses about the dice, hypotheses about the range of a rule can 
 
 ![a large rectangle with the label 'consequences' inside it; nested inside is a smaller rectangle with the label 'Consequences produced by agent' inside it.](../assets/moral-learning/image002.png)
 
-*Figure 2*: The potential scope of rules. A rule confined to the smaller box (e.g., “it is wrong for an agent to make a mess”) is act-based. In contrast, a rule that spans the larger box (e.g., “it is wrong for an agent to make a mess or allow a mess to remain”) is consequence-based.
+\*Figure 2\*: The potential scope of rules. A rule confined to the smaller box (e.g., “it is wrong for an agent to make a mess”) is act-based. In contrast, a rule that spans the larger box (e.g., “it is wrong for an agent to make a mess or allow a mess to remain”) is consequence-based.
 
 Children are rarely given explicit instruction about the difference between *doing* and *allowing*, yet they may still infer the distinction from the evidence they encounter. If all of the sample violations they encounter involve an agent intentionally producing an outcome, this pattern can suggest that the operative rule is not meant to forbid merely allowing that outcome to occur. This reasoning follows from the size principle (section 6.1). When none of the observed violations are “allowings” this would be a suspicious coincidence if the rule prohibited allowings. The absence of evidence is itself evidence.
 
@@ -274,7 +274,7 @@ More generally, if opinion is largely split, then, unless we have prior reason t
 
 People tend to think it’s universally true that it’s wrong to steal (e.g., Goodwin & Darley 2008)[^goodwin-2008]. But people think that it’s only relatively true that it’s wrong to wear jeans to school. In other words, whether it’s wrong to wear jeans depends on the context, but it’s wrong to steal across all contexts. How do people come to make these meta-normative judgments? Reasoning from fit and flexibility provides a method. If we discover that almost everyone thinks it’s wrong to steal, then this favors the view that stealing is universally wrong. To invoke relativism would introduce unwarranted flexibility into the model. By contrast, if we discover that there is wide divergence about whether it’s wrong to wear jeans to school, this suggests that the claim about attire must be relativized to context.
 
-Are people actually sensitive to consensus evidence when making judgments about whether a claim is universally or only relatively true? Indeed they are. First, there is a correlation between judgments of universalism and judgments of high consensus. For instance, people tend to think that (1) there is widespread consensus that it’s wrong to rob banks and that (2) robbing a bank is universally wrong; by contrast, people tend to think that (1*) there is no widespread consensus about whether abortion is wrong and that (2*) abortion is not universally wrong (Goodwin & Darley 2008)[^goodwin-2008]. Goodwin & Darley (2012) also manipulated perceived consensus about various issues by informing participants either that there was high or low consensus in the United States about the issue; they found that people gave more universalist responses when they were told that consensus was high and more relativist responses when they were told that consensus was low (see also Ayars & Nichols 2020)[^ayars-2020].
+Are people actually sensitive to consensus evidence when making judgments about whether a claim is universally or only relatively true? Indeed they are. First, there is a correlation between judgments of universalism and judgments of high consensus. For instance, people tend to think that (1) there is widespread consensus that it’s wrong to rob banks and that (2) robbing a bank is universally wrong; by contrast, people tend to think that (1\*) there is no widespread consensus about whether abortion is wrong and that (2\*) abortion is not universally wrong (Goodwin & Darley 2008)[^goodwin-2008]. Goodwin & Darley (2012) also manipulated perceived consensus about various issues by informing participants either that there was high or low consensus in the United States about the issue; they found that people gave more universalist responses when they were told that consensus was high and more relativist responses when they were told that consensus was low (see also Ayars & Nichols 2020)[^ayars-2020].
 
 #### 6.2.2 The moral/conventional distinction
 

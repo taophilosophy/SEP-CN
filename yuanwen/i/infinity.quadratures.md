@@ -16,7 +16,7 @@ There are only three possibilities: $C \lt T,$ $C \gt T$ or $C = T$ (here $T$ an
 
 ![Illustration showing how  a circle C is identical in area to a right triangle T with legs corresponding to the radius and the circumference of the circle C, respectively. The illustration also shows how to inscribe polygons of ever higher number of sides inside the circle C thereby illustrating the procedure described by Archimedes for the quadrature of the circle.](../assets/infinity/quadrature1.png)
 
-*Figure 1.*
+\*Figure 1.\*
 
 Hence, $C = T,$ the only possibility remaining. Essential here is that the “infinitary” intuitions have been replaced by finitary constructions. One only needs to construct finite regular polygons for the proof to go through.
 
@@ -30,4 +30,4 @@ Consider the circle $C$ and the triangle $T$ as described in the Archimedean qua
 
 ![Illustration showing how in Torricelli's indivisibilist approach  a circle is shown to be identical in area to a right triangle with legs corresponding to the radius and the circumference of the circle, respectively. The illustration shows the one to one association of indivisibles of the circle (any circumference determined by an arbitrary circle having the same center as the original circle and radius smaller than or equal to that of the original circle) with an indivisible of the triangle (i.e. any line segment drawn parallel to the base with length equal to that of the circumference of the circle where each parallel segment is drawn corresponding to each point of the entire length of the other leg of the right angle, i.e. the one that has the same length as that of the radius of the original circle).](../assets/infinity/quadrature2.png)
 
-*Figure 2.*
+\*Figure 2.\*

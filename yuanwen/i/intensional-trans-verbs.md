@@ -183,7 +183,7 @@ In this framework, a quantified NP such as ‘every sweater’ has a meaning whi
 
 So far, the apparatus is extensional, which, besides providing only two possible sentence-meanings, TRUE and FALSE, imposes severe limitations on the range of concepts we can express. Suppose that the Scottish clothing company Pringle has a worldwide monopoly on the manufacture of woollen sweaters, and makes sweaters of no other material. Then a garment is a woollen sweater iff it is a Pringle sweater, meaning that **woollen(sweater)** and **pringle(sweater)** are the same function of type *ib*, and these two terms for that function are everywhere interchangeable in the type-theoretic language. Then modal operators such as ‘it is contingent that’ cannot be in the language, since interchanging **woollen(sweater)** and **pringle(sweater)** within their scope should sometimes lead to change of truth-value, but cannot if the two expressions receive the same meaning in the semantics. For example, ‘it is contingent that every Pringle sweater is woollen’ is true, but ‘it is contingent that every woollen sweater is woollen’ is false. Therefore the concept of contingency has no adequate representation in the type-theoretic (boldface) language.
 
-Shifting to *intensional* type theory deals with this difficulty. The intension of any expression X is a function from possible worlds to an extension of the type which that expression has in the extensional theory just sketched, if it has such an extension, otherwise to something appropriate for intensional vocabulary such as ‘it is contingent that’. An intension which is a function from possible worlds to items of type **t** is said to be of type s**t**. **sweater**, for instance, will have as its intension a function from possible worlds to functions of type *ib*, providing for each possible world a function that specifies the individuals which are sweaters at that world; so **sweater**’s intension is of type *s*(*ib*). However, a modal sentential operator such as ‘it is contingent that’ will have as its intension a function that, for each possible world, produces the very same function, which takes as input functions of type *sb* and produces truth-values as output. So the extension of ‘it is contingent that’ at each world is the same function, of type (*sb*)*b*. (The operator is said to be *intensional* because its *ex*tension at each world is a function taking *in*tensions, such as functions of type *sb*, as input.)
+Shifting to *intensional* type theory deals with this difficulty. The intension of any expression X is a function from possible worlds to an extension of the type which that expression has in the extensional theory just sketched, if it has such an extension, otherwise to something appropriate for intensional vocabulary such as ‘it is contingent that’. An intension which is a function from possible worlds to items of type ***t*** is said to be of type *s**t***. **sweater**, for instance, will have as its intension a function from possible worlds to functions of type *ib*, providing for each possible world a function that specifies the individuals which are sweaters at that world; so **sweater**’s intension is of type *s*(*ib*). However, a modal sentential operator such as ‘it is contingent that’ will have as its intension a function that, for each possible world, produces the very same function, which takes as input functions of type *sb* and produces truth-values as output. So the extension of ‘it is contingent that’ at each world is the same function, of type (*sb*)*b*. (The operator is said to be *intensional* because its *ex*tension at each world is a function taking *in*tensions, such as functions of type *sb*, as input.)
 
 A function of type *sb* is sometimes called a *possible-worlds proposition*, since it traces the truth-value of a sentence across worlds. For example, with appropriate assignments to the constituents,
 
@@ -191,7 +191,7 @@ A function of type *sb* is sometimes called a *possible-worlds proposition*, sin
 
 **(every(woollen(sweater)))(woollen)**
 
-should be true, that is, refer to TRUE, at every world.[^note-5] So the intension of (13) is the function *f* of type *sb* such that for every world w, *f*(w) = TRUE. This is a *constant* intension. On the other hand,
+should be true, that is, refer to TRUE, at every world.[^note-5] So the intension of (13) is the function ***f*** of type *sb* such that for every world w, ***f***(w) = TRUE. This is a *constant* intension. On the other hand,
 
 **(14)**
 
@@ -199,7 +199,7 @@ should be true, that is, refer to TRUE, at every world.[^note-5] So the intensio
 
 is true at some worlds but false at others, those where Pringle makes non-woollen sweaters; so its intension is non-constant.
 
-We define the intension of **contingent** to be the function which, for each world *w* as input, produces as output the function *c* of type (*sb*)*b* such that for any function *p* of type *sb*, *c*(*p*) is true at w iff there are worlds *u* and *v* such that *p*(*u*) = TRUE and *p*(*v*) = FALSE (this is the meaning of ‘contingent that’ in the sense ‘contingent whether’). So the intension of ‘contingent’ is also constant, since the same function *c* is the output at every world.
+We define the intension of **contingent** to be the function which, for each world *w* as input, produces as output the function ***c*** of type (*sb*)*b* such that for any function ***p*** of type *sb*, ***c***(***p***) is true at w iff there are worlds *u* and *v* such that ***p***(*u*) = TRUE and ***p***(*v*) = FALSE (this is the meaning of ‘contingent that’ in the sense ‘contingent whether’). So the intension of ‘contingent’ is also constant, since the same function ***c*** is the output at every world.
 
 Since **contingent** expects an input of type *sb*, we cannot write
 
@@ -207,7 +207,7 @@ Since **contingent** expects an input of type *sb*, we cannot write
 
 **contingent((every(woollen(sweater)))(woollen))**
 
-since in evaluating this formula at a world *w* we would find ourselves trying to apply the reference of **contingent** at w, namely, the function *c* just defined, to the reference of **(every(woollen(sweater)))(woollen)** at w, namely, the truth-value TRUE. But *c* requires an input of type *sb*, not *b*. So we introduce a new operator, written **^**, such that if X is an expression and **t** is the type of X’s reference at each world *w*, then at each *w*, the reference at *w* of **^**X is of type s**t**. **^**X may be read as ‘the intension of X’, since the rule for **^** is that at each world *w*, **^**X refers to that function which for each world *u*, outputs the reference of X at *u*.
+since in evaluating this formula at a world *w* we would find ourselves trying to apply the reference of **contingent** at w, namely, the function ***c*** just defined, to the reference of **(every(woollen(sweater)))(woollen)** at w, namely, the truth-value TRUE. But ***c*** requires an input of type *sb*, not *b*. So we introduce a new operator, written **^**, such that if X is an expression and ***t*** is the type of X’s reference at each world *w*, then at each *w*, the reference at *w* of **^**X is of type *s**t***. **^**X may be read as ‘the intension of X’, since the rule for **^** is that at each world *w*, **^**X refers to that function which for each world *u*, outputs the reference of X at *u*.
 
 If we now evaluate
 
@@ -215,13 +215,13 @@ If we now evaluate
 
 **contingent^((every(woollen(sweater)))(woollen))**
 
-at a world *w*, the result will be FALSE. This is because the function *p* of type *sb* that is the reference of **^((every(woollen(sweater)))(woollen))** at every world, maps every world to TRUE. So there is no *u* such that *p*(*u*) = FALSE. But there is such a *u* for **^((every(pringle(sweater)))(woollen))**, and so
+at a world *w*, the result will be FALSE. This is because the function ***p*** of type *sb* that is the reference of **^((every(woollen(sweater)))(woollen))** at every world, maps every world to TRUE. So there is no *u* such that ***p***(*u*) = FALSE. But there is such a *u* for **^((every(pringle(sweater)))(woollen))**, and so
 
 **(17)**
 
 **contingent^((every(pringle(sweater)))(woollen))**
 
-is TRUE at *w*. Note that choice of *w* doesn’t matter, since the intension of **contingent** produces the same function *c* at every world, and the reference of, e.g., **^((every(pringle(sweater)))(woollen))**, is the same function of type *sb* at every world.
+is TRUE at *w*. Note that choice of *w* doesn’t matter, since the intension of **contingent** produces the same function ***c*** at every world, and the reference of, e.g., **^((every(pringle(sweater)))(woollen))**, is the same function of type *sb* at every world.
 
 Finally, our type-theory, intensional or extensional, is *higher-order*, because the semantics makes available higher-order domains of quantification and reference. **sweater** refers to a property of individuals, a *first-order* property. **(every(sweater))** refers to a property of properties of individuals, a second-order property. For just as **sweater(my favorite garment)** attributes the property of being a sweater to a certain individual, so we can think of **(every(sweater))(woollen)** as attributing a property to the property of being woollen. Which property is attributed to being woollen? The rules governing **every** ensure that **(every(F))** is truly predicated of **G** iff **G** is a property of every *F*. In that case, **G** has the property of being a property of every *F*. So **(every(F))** stands for the property of being a property of every *F*.
 
@@ -347,7 +347,7 @@ Whatever Jack wants, he gets
 
 Therefore, Jack will get a woollen sweater
 
-Obviously, (23a,b) entail (23c) when (23a) is understood specifically. But informants judge that the inference is also valid when (23a) is understood unspecifically, with ‘but no particular one’ explicitly appended. If we seek a validation of the inference that hews to surface form, Montague’s uniform treatment of intensional and extensional verbs has its appeal: (23b) will say that for whatever property of properties *P* Jack stands in the wanting relation to, he stands in the getting relation to. So the inference is portrayed as the simple *modus ponens* it seems to be. It would then be the task of other meaning-postulates to carry us from his standing in the getting relation to **^(a(woollen(sweater)))** to there being a woollen sweater such that he gets it.
+Obviously, (23a,b) entail (23c) when (23a) is understood specifically. But informants judge that the inference is also valid when (23a) is understood unspecifically, with ‘but no particular one’ explicitly appended. If we seek a validation of the inference that hews to surface form, Montague’s uniform treatment of intensional and extensional verbs has its appeal: (23b) will say that for whatever property of properties ***P*** Jack stands in the wanting relation to, he stands in the getting relation to. So the inference is portrayed as the simple *modus ponens* it seems to be. It would then be the task of other meaning-postulates to carry us from his standing in the getting relation to **^(a(woollen(sweater)))** to there being a woollen sweater such that he gets it.
 
 The final example to be considered here involves fictional or mythical names in the scope of intensional transitives. An example (Zalta 1988, 128)[^zalta-1988] of the puzzles these can lead to is:
 

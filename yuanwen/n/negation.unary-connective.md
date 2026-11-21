@@ -72,7 +72,7 @@ In Lenzen 1996 a certain non-derivability condition is suggested as a necessary 
 |   | $\neg \neg A \vdash A $, $\vdash \neg A \vee \neg \neg A $ | ✓ | – | – | – | – |
 |   | $\neg \neg A \vdash A$, $\vdash \neg (\neg A \wedge \neg \neg A )$ | ✓ | – | – | – | – |
 
-*Table 1*
+\*Table 1\*
 
 ### 4. Negation as falsity
 

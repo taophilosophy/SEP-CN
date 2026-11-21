@@ -154,7 +154,7 @@ This case is typical. Moore had an unparalleled ability for identifying philosop
 
 analysis | Ayer, Alfred Jules | Bradley, Francis Herbert | consequentialism | Kant, Immanuel | metaethics | Moore, George Edward: moral philosophy | moral non-naturalism | naturalism: moral | perception: epistemological problems of | perception: the problem of | propositions | reasons for action: justification, motivation, explanation | Reid, Thomas | Russell, Bertrand | sense data | skepticism | supervenience | truth: identity theory of | value: intrinsic vs. extrinsic | Wittgenstein, Ludwig
 
-[^moore-nd]: [* indicates the edition used for page references in this entry]
+[^moore-nd]: [\* indicates the edition used for page references in this entry]
 
 [^nature-1899]: ‘The Nature of Judgment’ *Mind* 8 (1899) 176-93. Reprinted in \**G. E. Moore: Selected Writings*1-19.
 
@@ -162,13 +162,13 @@ analysis | Ayer, Alfred Jules | Bradley, Francis Herbert | consequentialism | Ka
 
 [^refutation-1903]: ‘The Refutation of Idealism’ *Mind* 12 (1903) 433-53. Reprinted in *Philosophical Studies* and in \**G. E. Moore: Selected Writings*23-44.
 
-[^principia-1903]: *Principia Ethica* Cambridge University Press, Cambridge: 1903. *Revised edition with ‘Preface to the second edition’ and other papers, ed. T. Baldwin, Cambridge University Press, Cambridge: 1993.
+[^principia-1903]: *Principia Ethica* Cambridge University Press, Cambridge: 1903. \*Revised edition with ‘Preface to the second edition’ and other papers, ed. T. Baldwin, Cambridge University Press, Cambridge: 1993.
 
 [^ethics-1912]: *Ethics* Williams & Norgate, London: 1912.
 
 [^external-1919]: ‘External and Internal Relations’ *Proceedings of the Aristotelian Society*20 (1919-20) 40-62. Reprinted in *Philosophical Studies* and in \**G. E. Moore: Selected Writings* 79-105.
 
-[^conception-nd]: ‘The Conception of Intrinsic Value’ in *Philosophical Studies*. Reprinted in *Revised edition of *Principia Ethica*, 280-98.
+[^conception-nd]: ‘The Conception of Intrinsic Value’ in *Philosophical Studies*. Reprinted in \*Revised edition of *Principia Ethica*, 280-98.
 
 [^philosophical-1922]: *Philosophical Studies* K. Paul, Trench, Trubner & Co, London: 1922.
 

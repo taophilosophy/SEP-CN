@@ -53,7 +53,7 @@ One natural way to think of self-consciousness is in terms of a subject’s capa
 
 It is widely recognised that the paradigmatic linguistic expression of self-consciousness in English is the first-person pronoun “I”; a term with which one might be said to refer to oneself *as oneself* (Sainsbury 2011)[^sainsbury-2011]. Plausibly, every utterance of a sentence containing “I” is expressive of a self-conscious “I-thought”, that is a thought containing the first-person concept. Thus, discussions of self-consciousness are often closely associated with accounts of the semantics of the indexical term “I” and the nature of its counterpart first-person concept (e.g., Anscombe 1975; Perry 1979; Nozick 1981: ch. 1, §2; Evans 1982: ch. 7; Mellor 1989; O’Brien 1995a; Castañeda 1999; de Gaynesford 2006; Recanati 2007; Rödl 2007: ch. 1; Bermúdez 2016)[^anscombe-1975][^bermúdez-2016][^castañeda-1999][^gaynesford-2006][^evans-1982][^mellor-1989][^nozick-1981][^o’brien-1995a][^perry-1979][^recanati-2007][^rödl-2007].
 
-As Castañeda (1966; cf. Anscombe 1975)[^anscombe-1975] points out, there is an ambiguity in certain ascriptions of belief containing “he”, “she”, or “they”. I may say “Jane believes that she is *F*” without implying that Jane realises that it is *herself* that she believes to be *F*. That is, there is a reading of “Jane believes that she is *F*” that does not imply self-consciousness on Jane’s part. But, in some cases, we do intend to attribute self-consciousness with that same form of words. To resolve this ambiguity, Castañeda introduces “she*” for self-conscious attributions. I will use the more natural *indirect reflexive* “she herself”. Thus, “Jane believes that she is *F*” does not imply that Jane self-consciously believes that she is *F*, whilst “Jane believes that she herself is *F*” does. Before the dreadful revelation, Oedipus believed that he was prophesied to kill his father, but did not believe that he himself was so prophesied.
+As Castañeda (1966; cf. Anscombe 1975)[^anscombe-1975] points out, there is an ambiguity in certain ascriptions of belief containing “he”, “she”, or “they”. I may say “Jane believes that she is *F*” without implying that Jane realises that it is *herself* that she believes to be *F*. That is, there is a reading of “Jane believes that she is *F*” that does not imply self-consciousness on Jane’s part. But, in some cases, we do intend to attribute self-consciousness with that same form of words. To resolve this ambiguity, Castañeda introduces “she\*” for self-conscious attributions. I will use the more natural *indirect reflexive* “she herself”. Thus, “Jane believes that she is *F*” does not imply that Jane self-consciously believes that she is *F*, whilst “Jane believes that she herself is *F*” does. Before the dreadful revelation, Oedipus believed that he was prophesied to kill his father, but did not believe that he himself was so prophesied.
 
 ### 2.1 The Essential Indexical
 
@@ -396,7 +396,7 @@ animal: cognition | animal: consciousness | bodily awareness | consciousness | c
 
 [^bermúdez-2016]: –––, 2016, *Understanding “I”: Language and Thought*, Oxford: Oxford University Press.
 
-[^bermúdez-2017]: –––, 2017, “Yes, Essential Indexicals Really Are Essential*”, *Analysis*, 77(4): 690–694.
+[^bermúdez-2017]: –––, 2017, “Yes, Essential Indexicals Really Are Essential\*”, *Analysis*, 77(4): 690–694.
 
 [^bermúdez-1995]: Bermúdez, José Luis, Anthony Marcel, and Naomi Eilan (eds.), 1995, *The Body and the Self*, Cambridge, MA: MIT Press.
 
@@ -622,7 +622,7 @@ animal: cognition | animal: consciousness | bodily awareness | consciousness | c
 
 [^garcía-carpintero-2023]: García-Carpintero, Manuel and Marie Guillot (eds.), 2023, *Self-Experience: Essays on Inner Awareness*, Oxford: Oxford University Press.
 
-[^garcía-carpintero-2016]: García-Carpintero, Manuel and Stephan Torre (eds.), 2016, About Oneself: De Se Thought and Communication, Oxford: Oxford University Press.
+[^garcía-carpintero-2016]: García-Carpintero, Manuel and Stephan Torre (eds.), 2016, *About Oneself: De Se Thought and Communication*, Oxford: Oxford University Press.
 
 [^garrett-1991]: Garrett, Brian, 1991, “Personal Identity and Reductionism”, *Philosophy and Phenomenological Research*, 51(2): 361–373.
 

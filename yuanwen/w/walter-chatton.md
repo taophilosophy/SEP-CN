@@ -182,7 +182,7 @@ For case (1), the lever that pries the concept cluster apart is the concept of t
 
 By the law of excluded middle and dilemma, **discrete** either makes **indivisible** and **composing a continuous extended magnitude** inconsistent, or else makes **itself** inconsistent with **indivisible**, assuming that indivisibles touch. The concept cluster is thus completely inconsistent under the assumption of touching.
 
-What happens when we assume they do not touch? There are two possibilities and so two non-touching cases to reason through: (2a) they do not touch because they are separated, or (2b) they do not touch because they have their extrema in common. Under either assumption we can again undermine at least one element of the concept cluster.
+What happens when we assume they do not touch? There are two possibilities and so two non-touching cases to reason through: (2a) they do not touch because they are separated, or (2b) they do not touch because they have their *extrema* in common. Under either assumption we can again undermine at least one element of the concept cluster.
 
 If (2a) holds, then since they are separated, they can no longer be seen as **composing a continuous extended magnitude**. We can picture it like this:
 

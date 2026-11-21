@@ -303,21 +303,21 @@ Aristotle, General Topics: categories | Bacon, Roger | causation: medieval theor
 
 [^olivi’s-2010]: A comprehensive list of critical editions of Olivi’s works has been published in König-Pralong, Ribordy, and Suarez-Nani (eds.), 2010, 463–71. The list below contains works cited in the present entry, as well as a selection of his philosophically most important works.
 
-[^summa-nd]: **Summa I**
+[^summa-nd]: ***Summa I***
 
 [^quaestio-2020]: *Quaestio de divino velle et scire, Quaestio de ideis*, ed. S. Piron, *Oliviana* 6 (2020), available online [1](https://journals.openedition.org/oliviana/977) [2](https://journals.openedition.org/oliviana/1023) [= *Summa I* q. 6]
 
 [^quaestiones-1926]: *Quaestiones in primum librum Sententiarum*, in *Quaestiones in secundum librum Sententiarum* (Volume 3, Appendix), ed. B. Jansen (Quaracchi: Collegium S. Bonaventurae, 1926). [Selected questions from *Summa* Bk. I.]
 
-[^summa-nd-2]: *Summa II*
+[^summa-nd-2]: ***Summa II***
 
 [^quaestiones-1922]: *Quaestiones in secundum librum Sententiarum* (Bibliotheca Franciscana Scholastica 4–6), ed. B. Jansen (Quaracchi: Collegium S. Bonaventurae, 1922–26).
 
-[^summa-nd-3]: **Summa III**
+[^summa-nd-3]: ***Summa III***
 
 [^quaestiones-1981]: *Quaestiones de incarnatione et redemptione. Quaestiones de virtutibus*, ed. A. Emmen and E. Stadter (Grottaferrata: Editiones Collegii S. Bonaventurae, 1981).
 
-[^summa-nd-4]: **Summa IV**
+[^summa-nd-4]: ***Summa IV***
 
 [^quid-2016]: *Quid ponat ius vel dominium*, ed. F. Delorme and S. Piron, *Oliviana* 5 (2016), [available online](https://journals.openedition.org/oliviana/882) [= *Summa IV* q. 1]
 

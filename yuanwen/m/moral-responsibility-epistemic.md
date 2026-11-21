@@ -473,7 +473,7 @@ I thank Miguel Ángel Sebastián and an anonymous referee for helpful comments a
 
 [^watson-1996]: Watson, Gary, 1996, “Two Faces of Responsibility”, *Philosophical Topics*, 24(2): 227–248. doi:10.5840/philtopics199624222
 
-[^weatherson-2019]: Weatherson, Brian, 2019, *Normative Externalism, *Oxford: Oxford University Press. doi:10.1093/oso/9780199696536.001.0001
+[^weatherson-2019]: Weatherson, Brian, 2019, *Normative Externalism,* Oxford: Oxford University Press. doi:10.1093/oso/9780199696536.001.0001
 
 [^wieland-2017a]: Wieland, Jan Willem, 2017a, “Introduction: The Epistemic Condition”, in Robichaud and Wieland 2017: 1–28.
 

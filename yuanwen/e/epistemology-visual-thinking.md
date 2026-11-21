@@ -53,7 +53,7 @@ Shin et al. (2013) report that formal diagrammatic systems of logic and geometry
 
 ![[a three by three array of rectangles each containing a diagram. Going left to right then top to bottom, the first has a line segment with each end having a dot. The second is a circle with a radius drawn and dots on each end of the radius line segment. The third is the same the second except another overlapping circle is drawn using the same radius line segment but with the first circle's center dot now on the perimeter and the first circle's perimeter dot now the center of the second circle, dots are added at the two points the circles intersect. The fourth diagram is identical to the third except a line segment is drawn from the top intersection dot to the first circle's center dot. The fifth diagram is like the fourth except a line segment is drawn from the top intersection dot to the center dot of the second circle. ...]](../assets/epistemology-visual-thinking/fig1.png)
 
-*Figure 1*
+\*Figure 1\*
 
 What about Tennant’s claim that a proof is “a syntactic object consisting only of sentences” as opposed to diagrams? A proof is *never* a syntactic object. A formal derivation on its own is a syntactic object but not a proof. Without an interpretation of the language of the formal system the end-formula of the derivation says nothing; and so nothing is proved. Without a demonstration of the system’s soundness with respect to the interpretation, one may lack sufficient reason to believe that all derivable conclusions are true. A formal derivation *plus* an interpretation and soundness proof can be a proof of the derived conclusion, but that whole package is not a syntactic object. Moreover, the part of the proof which really is a syntactic object, the formal derivation, need not consist solely of sentences; it can consist of diagrams.
 
@@ -69,7 +69,7 @@ Indiscretion of diagrams is not confined to geometrical figures. The dot or pebb
 
 ![[a grid of blue dots 5 wide and 7 deep, on the right side is a brace embracing the right column labeled n+1 and on the bottom a brace embracing the bottom row labeled n]](../assets/epistemology-visual-thinking/fig2.png)
 
-*Figure 2*
+\*Figure 2\*
 
 The conclusion drawn is that the sum of integers from 1 to $n$ is $(n \times n+1)/2$ for any positive integer $n$, but the diagram presents the case for $n = 6$. We can perhaps avoid representing a particular number of dots when we merely imagine a display of the relevant kind; or if a particular number is represented, our experience may not make us aware of the number—just as, when one imagines the sky on a starry night, for no particular number $k$ are we aware that exactly $k$ stars are represented. Even so, there is likely to be some extra specificity. For example, in imagining an array of dots of the form just illustrated, one is unlikely to imagine just two columns of three dots, the rectangular array for $n = 2$. Typically the subject will be aware of imagining an array with more than two columns. This entails that an image is likely to have unintended exclusions. In this case it would exclude the three-by-two array. An image of a triangle representing all angles as acute would exclude triangles with an obtuse angle or a right angle. The danger is that the visual reasoning will not be valid for the cases that are unintentionally excluded by the visual representation, with the result that the step to the conclusion is an unwarranted generalisation.
 
@@ -109,7 +109,7 @@ The relevant kind of deformation forbids eliminating a knotted part by shrinking
 
 (b)
 
-*Figure 3*
+\*Figure 3\*
 
 Diagrams like these are not merely illustrations; they also have an operational role in knot theory. But not any picture of a knot will do for this purpose. We need to specify:
 
@@ -133,7 +133,7 @@ One way of showing that a knot diagram represents a knot equivalent to an unknot
 
 (c)
 
-*Figure 4*
+\*Figure 4\*
 
 In contrast to these, the knot presented by the left knot diagram of Figure 3, a trefoil, may seem impossible to deform into an unknot. And in fact it is. To prove it, we can use a knot invariant known as colourability. An arc in a knot diagram is a maximal part between crossings (or the whole thing if there are no crossings). Colourability is this:
 
@@ -157,7 +157,7 @@ Later he claims:
 
 ![[a first quadrant graph, the x-axis labeled near the left with 'a' and near the right with 'b'; the y-axis labeled at the top with 'f(b)', in the middle with 'c' and near the bottom with 'f(a)'. A dotted horizontal line lines up with the 'c'. A solid curve starts the intersection of 'f(b)' and 'a', rambles horizontally for a short while before rising above the 'c' dotted line, dips below then rises again and ending at the intersection of 'f(b)' and 'b'. ]](../assets/epistemology-visual-thinking/fig5.png)
 
-*Figure 5*
+\*Figure 5\*
 
 Bolzano’s diagram-free proof of the IVT is an argument from what later became known as the Dedekind completeness of the real numbers: every non-empty set of reals bounded above (below) has a least upper bound (greatest lower bound). The value of Bolzano’s deduction of the IVT from the Dedekind completeness of the reals, according to Brown, is not that it proves the IVT but that it gives us confirmation of Dedekind completeness, just as an empirical hypothesis in empirical science gets confirmed by deducing some consequence of the hypothesis and observing those consequence to be true. This view assumes that we already know the IVT to be true by observing a diagram relevantly like Figure 5.
 
@@ -194,7 +194,7 @@ Sometimes one discovers something by means of visual thinking using background k
 
 ![[two circles of differing sizes next to each other and touching at one point, the larger left circle has a vertical diameter line drawn and adjacent, parallel on the left is a double arrow headed line labelled 'a'. The smaller circle has a similar vertical diameter line with a double arrow headed line labelled 'b' to the right. The bottom of the diameter lines are connected by a double headed arrow line labeled 'square root of (ab)'. Another line connects the centers of both circles and has a parallel double arrow headed line labeled '(a+b)/2'. A dashed horizontal line goes horizontally from the center of the smaller circle until it hits the diameter line of the larger circle. Between this intersection and the center of the larger circle is a double arrow headed line labeled '(a-b)/2'.]](../assets/epistemology-visual-thinking/fig6.png)
 
-*Figure 6*
+\*Figure 6\*
 
 Two circles (with diameters $a$ and $b$) meet at a single point. A line is drawn between their centres through their common point; its length is $(a + b)/2$, the sum of the two radii. This line is the hypotenuse of a right angled triangle with one other side of length $(a - b)/2$, the difference of the radii. Pythagoras’s theorem is used to infer that the remaining side of the right-angled triangle has length $\sqrt{(ab)}$.Then visualizing what happens to the triangle when the diameter of the smaller circle varies between 0 and the diameter of the larger circle, one infers that $0 < \sqrt{(ab)} < (a + b)/2$; then verifying symbolically that $\sqrt{(ab)} = (a + b)/2$ when $a = b$, one concludes that for positive $a$ and $b$, $\sqrt{(ab)} \le (a + b)/2$.
 
@@ -206,7 +206,7 @@ In some cases visual thinking inclines one to believe something on the basis of 
 
 ![[A first quadrant graph, on the x-axis are marked (2 squareroot(k), 0) and further to the right (j,0). On the y-axis is marked (0,2(squareroot(k)) and further up, (0,j). Solid lines connect (0,2(squareroot(k)) to (2(squareroot(k),0) and (0,j) to (j,0). A dotted line goes from the origin in a roughly 45 degree angle the point where it intersects the (0,2(squareroot(k)) to (2(squareroot(k),0) line is labeled (squareroot(k),squareroot(k)). A curve tangent to that point with one end heading up and the other right is labeled 'xy=k'.]](../assets/epistemology-visual-thinking/fig7.png)
 
-*Figure 7*
+\*Figure 7\*
 
 Using this diagram one can come to think the following about the real numbers. When for a constant $k$ the positive values of $x$ and $y$ are constrained to satisfy the equation $x \cdot y = k$, the positive values of $x$ and $y$ for which $x + y$ is minimal are $x = \sqrt{k} = y$. (Let “#” denote this claim.)
 
@@ -226,13 +226,13 @@ Can visual thinking lead to discovery of an idea for a proof in more advanced co
 
 (b)
 
-*Figure 8*
+\*Figure 8\*
 
 A permutation *σ* of $\{1, 2, \ldots, 2p\}$ is defined to have a crossing just when there are $a$, $b$, $c$, $d$ in $\{1, 2, \ldots, 2p\}$ such that $a < b < c < d$ and $\sigma(a) = c$ and $\sigma(b) = d$. The focus is on the proof of a theorem which employs this notion. (The theorem is that when a permutation of $\{1, 2, \ldots, 2p\}$ of the relevant kind is non-crossing, there will be exactly $p+1$ R-equivalence classes, where $R$ is a certain equivalence relation on $\{1, 2, \ldots, 2p\}$ defined in terms of the permutation.) Carter says that the proofs of some lemmas “rely on a visualization of the setup”, in that to grasp the correctness of one or more of the steps one needs to visualize the situation. There is also a nice example of some reasoning in terms of a diagram which gives the idea for a proof (“suggests a proof strategy”) for the lemma that every non-crossing permutation has a neighbouring pair. Reflection on a diagram such as Figure 9 does the work.
 
 ![[A circle, a dashed interior curve connects an unmarked point at about 40 degrees to an unmarked point at -10 degrees (the second point is labeled 'j+1'). Another dashed interior curve connects this point to an unmarked point at about -100 degrees. A solid interior curve connects and unmarked point at about 10 degrees (labeled 'j') to another unmarked point at about -60 degrees (labeled 'j+a'). Between the labels 'j+1' and 'j+a' is another label 'j+2' and then a dotted line between 'j+2' and 'j+a'.]](../assets/epistemology-visual-thinking/fig9.png)
 
-*Figure 9*
+\*Figure 9\*
 
 The reasoning is this. Suppose that *π* has no neighbouring pair. Choose $j$ such that $\pi(j) - j = a$ is minimal, that is, for all $k, \pi(j) - j \le \pi(k) - k$. As *π* has no neighbouring pair, $\pi(j+1) \ne j$. So either $\pi(j+1)$ is less than $j$ and we have a crossing, or by minimality of $\pi(j) - j$, $\pi(j+1)$ is greater than $j+a$ and again we have a crossing. Carter reports that this disjunction was initially believed by thinking in term of the diagram, and the proof of the lemma given in the published paper is a non-diagrammatic “version” of that reasoning. In this case study, visual thinking is shown to contribute to discovery in several ways; in particular, by leading the mathematicians to notice crucial properties—the “definitions are based on the diagrams”—and in giving them the ideas for parts of the overall proof.
 
@@ -252,19 +252,19 @@ The Cayley graph for $(S_{3}, \cdot, \{\rf, \rr\})$ is a graph whose vertices re
 
 ![[Two red equilateral triangles, one inside the other. The smaller triangle has arrows on each side pointing in a clockwise direction; the larger has arrows on each side in a counterclockwise direction. Black double arrow lines connect the respective vertices of each triangle. The top vertice of the outside triangle is labeled 'e', of the inside triangle 'f'; the bottom left vertice of the outside triangle is labeled 'r', of the inside triangle 'r'; the bottom right vertix of the outside triangle is labeled with 'rr',of the inside triangle with 'fr'.]](../assets/epistemology-visual-thinking/fig10.png)
 
-*Figure 10*
+\*Figure 10\*
 
 An example of a finitely generated group of infinite order is $(\mathbb{Z}, +, \{1\})$. We can get any integer by successively adding 1 or its additive inverse $-1$. Since 3 added to the inverse of 2 is 1, and 2 added to the inverse of 3 is $-1$, we can get any integer by adding members of $\{2, 3\}$ and their inverses. Thus both $\{1\}$ and $\{2, 3\}$ are generating sets for $(\mathbb{Z}, +)$. Figure 11 illustrates part of the Cayley graph for $(\mathbb{Z}, +, \{2, 3\})$. The horizontal directed edges represent +2. The directed edges ascending or descending obliquely represent $+3$.
 
 ![[Two horizontal parallel black lines with directional arrows pointing to the right. The top line has equidistant points marked '-2', '0', '2', '4' and the bottom line equidistant points marked '-1' (about half way between the upper line's '-2' and '0'), '1', '3', '5'. A red arrow goes from '-2' to '1', from somewhere to the left up to '0', from '0' to '3', from '-1' to '2', from '1' to '4, from '2' to '5', and from '3' to somewhere to the right up.]](../assets/epistemology-visual-thinking/fig11.png)
 
-*Figure 11*
+\*Figure 11\*
 
 Another example of a generated group of infinite order is $F_2$, the free group generated by a pair of members. The first few iterations of its Cayley graph are shown in Figure 12, where $\{a, b\}$ is the set of generators and a right horizontal move between adjacent vertices represents composition with $a$, an upward vertical move represents composition with $b$, and leftward and downward moves represent composition with the inverse of $a$ and the inverse of $b$ respectively. The central vertex represents the identity.
 
 ![[A blue vertical line pointing up labeled 'b' crossed by a red horizontal line pointing right labeled 'b'. Each line is crossed by two smaller copies of the other line on either side of the main intersection. And, in turn, each of those smaller copies of the line are crossed by two smaller copies of the other line, again on either side of their main intersection.]](../assets/epistemology-visual-thinking/fig12.png)
 
-*Figure 12*
+\*Figure 12\*
 
 Thinking of generated groups in terms of their Cayley graphs makes it very natural to view them as metric spaces. A *path* is a sequence of consecutively adjacent edges, regardless of direction. For example in the Cayley graph for $(\mathbb{Z}, +, \{2, 3\})$ the edges from $-2$ to 1, from 1 to $-1$, from $-1$ to 2 (in that order) constitute a path, representing the action, starting from $-2$, of adding 3, then adding $-2$, then adding 3. Taking each edge to have unit length, the metric $d_S$ for a group $G$ generated by a finite subset $S$ of $G$ is defined: for any $g$, $h \in G$, $d_{S}(g, h) =$ the length of a shortest path from $g$ to $h$ in the Caley graph of $(G, \cdot, S)$. This is the *word metric* for this generated group.
 
@@ -298,7 +298,7 @@ This condition is equivalent to the condition that each side of $T$ lies within 
 
 (b)
 
-*Figure 13*[^note-2]
+\*Figure 13\*[^note-2]
 
 The definition of thin triangles is sufficiently general to apply to any geodesic space and allows a generalisation of the concept of hyperbolicity beyond its original context:
 
@@ -317,7 +317,7 @@ How important was visual thinking to the discoveries leading to geometric group 
 
 (b)
 
-*Figure 14*
+\*Figure 14\*
 
 Diagrams of Cayley graphs were important in prompting mathematicians to think in terms of the coarse-grained geometry of the graphs, in that this idea arises just when one thinks in terms of “zooming out” visually. Gromov (1993)[^gromov-1993] makes the point in a passage quoted in Starikova (2012:138)[^starikova-2012]
 
@@ -333,13 +333,13 @@ In earlier times an abacus would be a rectangular board or table surface marked 
 
 ![[Picture of a soroban with 17 columns of beads, each column has 1 bead above the horizontal bar used to represent 5 and 4 beads below the bar each of which represents 1. Together the beads in each column can represent any digit from 0 to 9.]](../assets/epistemology-visual-thinking/fig15.png)
 
-*Figure 15*
+\*Figure 15\*
 
 Each column of beads represents a power of 10, increasing to the left. The horizontal bar, sometimes called *the* *reckoning bar*, separates the beads on each column into one bead of value 5 above and four beads of value 1 below. The number represented in a column is determined by the beads which are not separated from the reckoning bar. A column on which all beads are separated by a gap from the bar represents zero. For example, the number 6059 is represented on a portion of a schematic soroban in Figure 16.
 
 ![[A schematic soroban representing 6059. There are 8 places and the first four from the left are set to 0, then 6, then 0, then 5, then 9 ]](../assets/epistemology-visual-thinking/fig16.png)
 
-*Figure 16*
+\*Figure 16\*
 
 On some sorobans there is a mark on the reckoning bar at every third column; if a user chooses one of these as a unit column, the marks will help the user keep track of which columns represent which powers of ten. Calculations are made by using forefinger and thumb to move beads according to procedures for the standard four numerical operations and for extraction of square and cube roots (Bernazzani 2005,Other Internet Resources). Despite the fact that the soroban has a decimal place representation of numbers, the soroban procedures are not ‘translations’ of the procedures normally taught for the standard operations using arabic numerals. For example, multidigit addition on a soroban starts by adding highest powers of ten and proceeds rightwards to lower powers, instead of starting with units thence proceeding leftwards to tens, hundreds and so on.
 
@@ -409,7 +409,7 @@ Must a use of visual experience in knowledge acquisition be *evidential*, if the
 
 (b)
 
-*Figure 17*
+\*Figure 17\*
 
 Visualizing the folding-over within the remembered frame of the original square results in an image of the original square divided into square quarters, its quadrants, and the sides of the inner square seem to be diagonals of the quadrants. Many people conclude that the corner triangles can be arranged to cover the inner square exactly, without any gap or overlap. Thence they infer that the area of the original square is twice the size of the inner square. Let us assume that the propositions concerned are about Euclidean figures. Our concern is with the visual route to the following:
 
@@ -439,7 +439,7 @@ Occasionally the author of a proof gives readers the desired understanding by ad
 
 ![[An irregular 9 sided polygon.]](../assets/epistemology-visual-thinking/fig18.png)
 
-*Figure 18*
+\*Figure 18\*
 
 Chvátal’s theorem gives the answer: for a gallery with $n$ walls, $\llcorner n/3\lrcorner$ guards suffice, where $\llcorner n/3\lrcorner$ is the greatest integer $\le n/3$. (If this does not sound to you sufficiently like a mathematical theorem, it can be restated as follows: Let $S$ be a subset of the Euclidean plane. For a subset $B$ of $S$ let us say that $B$ *supervises* $S$ iff for each $x \in S$ there is a $y \in B$ such that the segment $xy$ lies within $S$. Then the smallest number $f(n)$ such that every set bounded by a simple $n$-gon is supervised by a set of $f(n)$ points is at most $\llcorner n/3.\lrcorner$
 
@@ -447,7 +447,7 @@ Here is Steve Fisk’s proof. A short induction shows that every polygon can be 
 
 ![[10 irregularly placed black dots with a solid black line connecting them to form an irregular 10 sided polygon. One black dot has dashed lines going to four other dots that are not adjacent to it and one of its adjacent dots has dashed lines going to three other non-adjacent dots (including one dot that was the endpoint for one of the first dots dashed lines), the dashed lines do not intersect.]](../assets/epistemology-visual-thinking/fig19.png)
 
-*Figure 19*
+\*Figure 19\*
 
 The first part of the proof shows that the graph is 3-colourable, i.e., every vertex can be coloured with one of just three colours (red, white and blue, say) so that no edge connects vertices of the same colour.
 
@@ -459,7 +459,7 @@ Let triangulated polygon $G$ have $n$ vertices. Let $u$ and $v$ be any two verti
 
 ![[Same figure as before with one of the black dots split into two red dots side-by-side and another black dot split into two white dots side-by-side. This splits the previously joined figure into two smaller graphs.]](../assets/epistemology-visual-thinking/fig20.png)
 
-*Figure 20*
+\*Figure 20\*
 
 By the inductive assumption, we may colour each of the smaller graphs with the three colours so that no edge joins vertices of the same colour, keeping fixed the colours of $u$ and $v$. Pasting together the two smaller graphs as coloured gives us a 3-colouring of the whole graph.
 

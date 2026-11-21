@@ -303,7 +303,7 @@ The authors would like to thank Sten Ebbesen, David Bennett and an anonymous ref
 
 [^de-2012]: De Boer, Sander W., 2012, “Radulphus Brito’s Commentary on Aristotle’s *De anima*”, *Vivarium*, 50(3–4): 245–353. doi:10.1163/15685349-05034001
 
-[^de-2013]: –––, 2013, The Science of the Soul. The Commentary Tradition on Aristotle’s *De anima* c. 1260–c. 1360, Louvain: Louvain University Press.
+[^de-2013]: –––, 2013, *The Science of the Soul. The Commentary Tradition on Aristotle’s De anima c. 1260–c. 1360*, Louvain: Louvain University Press.
 
 [^deuffic-2002]: Deuffic, Jean-Luc, 2002, “Un logicien renommé, proviseur de Sorbonne au XIVᵉ s. Raoul le Breton de Ploudry. Notes bio-bibliographiques”, *Pecia, ressources en médiévistique*, 1: 45–153. doi:10.1484/J.PECIA.5.101595
 
@@ -365,7 +365,7 @@ The authors would like to thank Sten Ebbesen, David Bennett and an anonymous ref
 
 [^green-pedersen-1978]: –––, 1978, “Introduction”, in Green-Pedersen & Pinborg 1978: i–viii.
 
-[^green-pedersen-1984]: –––, 1984, The Tradition of the *Topics* in the Middle Ages: The Commentaries on Aristotle’s and Boethius’ *Topics*, München: Philosophia Verlag.
+[^green-pedersen-1984]: –––, 1984, *The Tradition of the Topics in the Middle Ages: The Commentaries on Aristotle’s and Boethius’ Topics*, München: Philosophia Verlag.
 
 [^green-pedersen-1978-2]: Green-Pedersen, Niels J. and Jan Pinborg, 1978, “Radulphus Brito: Commentary on Boethius’ *De differentiis topicis* and the Sophism ‘*Omnis homo est omnis homo’*”, *Cahiers de l’Institut du Moyen-Âge Grec et Latin*, 26: i–viii and 1–121. [[Green-Pedersen & Pinborg 1978 available online](http://cimagl.saxo.ku.dk/download/26/26Green-PedersenVIII-121.pdf)]
 

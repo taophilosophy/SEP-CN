@@ -432,7 +432,7 @@ Early Modern India, analytic philosophy in | Indian Philosophy (Classical): epis
 
 [^vātsyāyana-nd]: Vātsyāyana, *Nyāya-sūtra-bhāṣya* (*NySB*). (1) See Thakur ed. under Gautama. (2) See Tarkatirtha et al. editors under Gautama.
 
-[^bagchi-1953]: Bagchi, Sitansusekhar, 1953, Inductive Reasoning: A Study of tarka and Its Role in Indian Logic, Calcutta: Munishchandra Sinha.
+[^bagchi-1953]: Bagchi, Sitansusekhar, 1953, *Inductive Reasoning: A Study of tarka and Its Role in Indian Logic*, Calcutta: Munishchandra Sinha.
 
 [^bandopadhyay-1977]: Bandopadhyay, Nandita, 1977, *The Concept of Logical Fallacies*, Calcutta: Sanskrit Pustak Bhandar.
 
@@ -490,7 +490,7 @@ Early Modern India, analytic philosophy in | Indian Philosophy (Classical): epis
 
 [^mohanty-1992]: –––, 1992, *Reason and Tradition in Indian Thought*, Oxford: Clarendon.
 
-[^oetke-2004]: Oetke, Claus, 2004, “The Role of the Example in Ancient Indian Logic”, in Shoryu Katsura and Ernst Steinkellner (eds.), The Role of the Example (dṛṣṭānta) in Classical Indian Logic, Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien, pp. 447–539.
+[^oetke-2004]: Oetke, Claus, 2004, “The Role of the Example in Ancient Indian Logic”, in Shoryu Katsura and Ernst Steinkellner (eds.), *The Role of the Example (dṛṣṭānta) in Classical Indian Logic*, Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien, pp. 447–539.
 
 [^patil-2009]: Patil, Parimal G., 2009, *Against a Hindu God: Buddhist Philosophy of Religion in India*, New York: Columbia University Press.
 

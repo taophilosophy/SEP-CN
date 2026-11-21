@@ -28,7 +28,7 @@ A proof of the proposition $\exists x:\bA \bPhi(x)$, that is, an object of type 
 
 To translate all this into the language of **CDTT**[^note-sup4], one uses the following concordance:
 
-| Logical Operation | Set-Theoretic Operation | Type-Theoretic Operation |
+| **Logical Operation** | **Set-Theoretic Operation** | **Type-Theoretic Operation** |
 | --- | --- | --- |
 | $\wedge$ | $\times$ | $\times$ |
 | $\vee$ | $+$ | two-term dependent sum |
@@ -60,7 +60,7 @@ Now, finally, let us reconsider *AC* under the propositions-as-monotypes interpr
 
 $$ \tag{*} {\forall i \inn I}\ {\exists j \inn J}\ M_{ij} \leftrightarrow {\exists f \inn J^I}\ {\forall i \inn I}\ M_{if(i)} $$
 
-where $\langle M_{ij}: i \in I, j \in J\rangle$ is any doubly indexed family of propositions (or sets). In the “propositions as types” interpretation, (*) corresponds, as we know, to the existence of an isomorphism between $\prod_{i \in I}C_{j \in J} M_{ij}$ and $C_{f \in J^I} \prod_{i \in I} M_{if(i)}$. On the other hand, *AC* interpreted set-theoretically can be presented in the form of the distributive law
+where $\langle M_{ij}: i \in I, j \in J\rangle$ is any doubly indexed family of propositions (or sets). In the “propositions as types” interpretation, (\*) corresponds, as we know, to the existence of an isomorphism between $\prod_{i \in I}C_{j \in J} M_{ij}$ and $C_{f \in J^I} \prod_{i \in I} M_{if(i)}$. On the other hand, *AC* interpreted set-theoretically can be presented in the form of the distributive law
 
 $$ \tag{**} \bigcap_{i \in I} \bigcup_{j \in J} M_{ij} = \bigcup_{f \in J^I} \bigcap_{i \in I} M_{if(i)}. $$
 
@@ -76,4 +76,4 @@ $$ \tag{2} [C_{f \in J^I} \prod_{i \in I} M_{if(i)}] $$
 
 Under the propositions-as-monotypes interpretation *AC* would be construed as asserting the existence of an isomorphism between (1) and (2).
 
-Now it is readily seen that to give an element of (1) amounts to no more than affirming that, for every $i\in I$, $\cup_{j\in J} M_{ij}$ is nonempty. But to give an element of (2) amounts to specifying maps $f\in J^I$ and $g$ with domain $I$ such that ${\forall i\inn I}\ g(i)\in M_{if(i)}$. It follows that to assert the existence of an isomorphism between (1) and (2), that is, to assert *AC* under the propositions-as-monotypes interpretation, is tantamount to asserting *AC* in the form (**), which in turn yields **ACL** and so the Law of Excluded Middle. This is in sharp contrast with *AC* under the propositions-as-types interpretation, where, as we have seen, its assertion is automatically correct and so has no nonconstructive consequences.
+Now it is readily seen that to give an element of (1) amounts to no more than affirming that, for every $i\in I$, $\cup_{j\in J} M_{ij}$ is nonempty. But to give an element of (2) amounts to specifying maps $f\in J^I$ and $g$ with domain $I$ such that ${\forall i\inn I}\ g(i)\in M_{if(i)}$. It follows that to assert the existence of an isomorphism between (1) and (2), that is, to assert *AC* under the propositions-as-monotypes interpretation, is tantamount to asserting *AC* in the form (\*\*), which in turn yields **ACL** and so the Law of Excluded Middle. This is in sharp contrast with *AC* under the propositions-as-types interpretation, where, as we have seen, its assertion is automatically correct and so has no nonconstructive consequences.

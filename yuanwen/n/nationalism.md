@@ -227,7 +227,7 @@ This section has reviewed reasons of different kinds for holding that nationalis
 
 cosmopolitanism | culture | democracy | egalitarianism | justice: global | justice: international distributive | liberalism | obligations: special | patriotism | secession | solidarity in social and political philosophy | territorial rights and justice
 
-[^abizadeh-2004]: Abizadeh, Arash, 2004, “Historical Truth, National Myths and Liberal Democracy: On the Coherence of Liberal Nationalism*”, *Journal of Political Philosophy*, 12(3): 291–313. doi:10.1111/j.1467-9760.2004.00201.x
+[^abizadeh-2004]: Abizadeh, Arash, 2004, “Historical Truth, National Myths and Liberal Democracy: On the Coherence of Liberal Nationalism\*”, *Journal of Political Philosophy*, 12(3): 291–313. doi:10.1111/j.1467-9760.2004.00201.x
 
 [^altman-2009]: Altman, Andrew and Christopher Heath Wellman, 2009, *A Liberal Theory of International Justice*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199564415.001.0001
 

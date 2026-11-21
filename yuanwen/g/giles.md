@@ -118,15 +118,15 @@ Aquinas, Thomas | condemnation of 1277 | demonstration: medieval theories of | G
 
 [^catalogo-1987]: I.1/1, *Catalogo dei manoscritti, Città del Vaticano, Biblioteca Apostolica Vaticana*, B. Faes de Mottoni and C. Luna (eds.), Firenze 1987.
 
-[^catalogo-1987-2]: I.1/3*, *Catalogo dei Manoscritti*, *Francia (Dipartimenti)*, F. Del Punta and C. Luna (eds.), Firenze 1987.
+[^catalogo-1987-2]: I.1/3\*, *Catalogo dei Manoscritti*, *Francia (Dipartimenti)*, F. Del Punta and C. Luna (eds.), Firenze 1987.
 
-[^catalogo-1988]: I.1/3**, *Catalogo dei Manoscritti*, *Francia (Dipartimenti)*, C. Luna (ed.), Firenze 1988.
+[^catalogo-1988]: I.1/3\*\*, *Catalogo dei Manoscritti*, *Francia (Dipartimenti)*, C. Luna (ed.), Firenze 1988.
 
-[^catalogo-1988-2]: I.1/2*, *Catalogo dei Manoscritti*, *Italia (Firenze, Padova, Venezia*), F. Del Punta and C. Luna (eds.), Firenze 1988.
+[^catalogo-1988-2]: I.1/2\*, *Catalogo dei Manoscritti*, *Italia (Firenze, Padova, Venezia*), F. Del Punta and C. Luna (eds.), Firenze 1988.
 
-[^catalogo-1998]: I.1/2** *Catalogo dei manoscritti, Italia (Assisi-Venezia)*, F. Del Punta, B. Faes de Mottoni and C.Luna (eds.), Firenze 1998.
+[^catalogo-1998]: I.1/2\*\* *Catalogo dei manoscritti, Italia (Assisi-Venezia)*, F. Del Punta, B. Faes de Mottoni and C.Luna (eds.), Firenze 1998.
 
-[^catalogo-1990]: I.1/5*, *Catalogo dei Manoscritti*, *Repubblica Federale di Germania (Monaco*), B. Faes de Mottoni (ed.), Firenze 1990.
+[^catalogo-1990]: I.1/5\*, *Catalogo dei Manoscritti*, *Repubblica Federale di Germania (Monaco*), B. Faes de Mottoni (ed.), Firenze 1990.
 
 [^catalogo-1993]: I.1/11, *Catalogo dei manoscritti, De regimine principum (Città del Vaticano- Italia)*, F. del Punta and C. Luna (eds.), Firenze 1993
 

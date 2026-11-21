@@ -336,7 +336,7 @@ Aquinas, Thomas | Aristotle | Descartes, René | Freud, Sigmund | Grice, Paul | 
 
 [^amir-nd]: –––, forthcoming, *Philosophy and the Comic: Ten Traditions from Antiquity to Postmodernism*, Berlin: De Gruyter.
 
-[^anderson-2023]: Anderson, L., 2023, “Why So Serious? An Inquiry on Racist Jokes,” *Journal of Social Philosophy, *54 (3): 370–384.
+[^anderson-2023]: Anderson, L., 2023, “Why So Serious? An Inquiry on Racist Jokes,” *Journal of Social Philosophy,* 54 (3): 370–384.
 
 [^andrew-1963]: Andrew, R. J., 1963, “The Origins and the Evolution of the Calls and Facial Expressions of the Primates,” *Behaviour*, 20: 100–109.
 
@@ -476,7 +476,7 @@ Aquinas, Thomas | Aristotle | Descartes, René | Freud, Sigmund | Grice, Paul | 
 
 [^lintott-2016]: Lintott, S., 2016, “Superiority in Humor Theory,” *Journal of Aesthetics and Art Criticism*, 74: 347–358.
 
-[^lintott-2020]: ––– (ed.), 2020, *Journal of Aesthetics and Art Criticism: The Art and Aesthetics of Stand-up Comedy: Philosophical Perspectives, *78 (4).
+[^lintott-2020]: ––– (ed.), 2020, *Journal of Aesthetics and Art Criticism: The Art and Aesthetics of Stand-up Comedy: Philosophical Perspectives,* 78 (4).
 
 [^lippitt-2005]: Lippitt, J., 2005, “Is a Sense of Humor a Virtue?” *The Monist*, 88 (1): 72–92.
 
@@ -490,7 +490,7 @@ Aquinas, Thomas | Aristotle | Descartes, René | Freud, Sigmund | Grice, Paul | 
 
 [^monist-2005]: *The Monist*, 2005: 88 (1). Special Issue on Humor.
 
-[^moland-2018]: Moland, L. (ed.), 2018, *All Too Human: Laughter, Humor, and Comedy in Nineteenth-Century Philosophy, *New York: Springer.
+[^moland-2018]: Moland, L. (ed.), 2018, *All Too Human: Laughter, Humor, and Comedy in Nineteenth-Century Philosophy,* New York: Springer.
 
 [^monro-1951]: Monro, D. H., 1951, *Argument of Laughter*, Melbourne: Melbourne University Press.
 

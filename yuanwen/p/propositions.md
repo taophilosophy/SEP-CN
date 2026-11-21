@@ -162,7 +162,7 @@ The problem here is quite simple. If, as the Relational Analysis entails, attitu
 
 I insist that it will snow this year. (TRUE)
 
-*2.
+\*2.
 
 So, I insist the proposition that it will snow this year.
 

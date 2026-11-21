@@ -49,7 +49,7 @@ Suppose *φ* and $\tau_1\equiv\tau_2$ are theorems of A, *ψ* is an A-formula, a
 
 $$\begin{align*} \tag*{\(A_1\)} p> q\rightarrow\neg (q > p)&& \textrm{(\(>\)-asymmetry)}\\ \tag*{\(A_2\)} p>q \land q >r\rightarrow p>r&& \textrm{(\(>\)-transitivity)}\\ \tag*{\(A_3\)} p\equiv p&& \textrm{(\(\equiv\)-reflexivity)}\\ \tag*{\(A_4\)} p\equiv q \rightarrow q\equiv p&& \textrm{(\(\equiv\)-symmetry)}\\ \tag*{\(A_5\)} p\equiv q \land q\equiv r \rightarrow p\equiv r&& \textrm{(\(\equiv\)-transitivity)}\\ \tag*{\(A_6\)} p>q\land q\equiv r \rightarrow p>r&& \textrm{(\(>\equiv\)-transitivity)}\\ \tag*{\(A_7\)} p>q\leftrightarrow(p\land \neg q)> (q\land \neg p)&& \textrm{(\(>\)-expansion)}\\ \tag*{\(A_8\)} p\equiv q\leftrightarrow(p\land \neg q)\equiv(q\land \neg p)&& \textrm{(\(\equiv\)-expansion)} \end{align*} $$
 
-*Figure 1.*
+\*Figure 1.\*
 
 Halldén proves that Theory A is consistent. He presents several theorems of theory A such as contraposition: $p>q \rightarrow\neg q>\neg p$. He also considers fourteen optional postulates that can be added to Theory A. For example, there is the distribution postulate, $p>(q\land r)\rightarrow p>q \land p>r$, and the connectedness postulate, $p>q \lor p\equiv q \lor q>p$.
 
@@ -64,7 +64,7 @@ Theory B consists of the rules and postulates in Figure 2. Postulates $B_1–B_5
 
 $$\begin{align*} \tag*{\(B_6\)} p>q \rightarrow\neg q>\neg p&& \textrm{(contraposition)}\\ \tag*{\(B_7\)} p>q \lor p\equiv q \lor q>p && \textrm{ (connected)} \end{align*}$$
 
-*Figure 2.*
+\*Figure 2.\*
 
 Theory B has been proven to be consistent. Interestingly, a procedure is provided to decide whether a given formula is a theorem of B. It consists of two steps called *univocal* expansion and *multivocal* expansion.
 
@@ -121,7 +121,7 @@ Looking at the five principles concerning preference, one has to be careful beca
 
 $$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
 
-*Figure 3.*
+\*Figure 3.\*
 
 Another contribution by von Wright is his attempt to understand the meaning of preference in terms of “changes”. His analysis reveals a unique way of viewing preference. When can one say that one state of affairs is preferable to another? To answer this question, consider two generic preference states, *p* and *q*. There are four possible cases: $p \land q$, $p \land \neg q$, $\neg p \land q$, and $\neg p \land \neg q$. Any world must necessarily fall into one of these four possibilities. This explains not only the first three principles, which had already been adopted by Halldén, but also the principle of disjunctive distribution, illustrated by $V_4$ in the table above.
 
@@ -145,7 +145,7 @@ Since Halldén, numerous principles have been explored in the literature. For a 
 
 $$\begin{align*} \tag{H1} \textrm{There is no series } p_1,\ldots, p_n \\ \textrm{such that } p_1>\ldots>p_n>p_1 && \textrm{(\(>\)-acyclic)}\\ \tag{H2} p\equiv q \land q >r \rightarrow p>r &&\textrm{(\(\equiv\)\(>\)-trans)}\\ \tag{H3} p> q \land q >r \rightarrow p>s \lor s>r && \textrm{(semi-trans)}\\ \tag{H4} p>q \land r >s \rightarrow p>s \lor r>q && \textrm{(interval order)} \end{align*} $$
 
-*Figure 4:* More preference principles
+\*Figure 4:\* More preference principles
 
 Both Halldén and von Wright emphasize the generality of the preference principles by adopting a syntactic or algorithmic approach. Later researchers have often used examples to support or challenge these principles, and many preference properties remain unsettled.
 
@@ -202,7 +202,7 @@ Axioms P1, P2, P3
 
 Axioms P1, P2, P3, P4
 
-*Figure 5.*
+\*Figure 5.\*
 
 Moreover, Van Dalen shows that all systems have the finite model property and are decidable. He also extends the language with monadic operators for good, bad and neutral, and he considers nested preference statements. Other authors like Chisholm and Sosa (1966) consider first-order extensions of such preference logics.
 
@@ -239,7 +239,7 @@ $\mathcal{M}, w \models E\varphi$    iff    for some $v, \mathcal{M}, v \mod
 - $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
 - $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
 
-*Figure 6.*
+\*Figure 6.\*
 
 ### 3.3 Preference lifting
 
@@ -283,7 +283,7 @@ The complete axiomatization of Halpern (1997)[^halpern-1997] when $\succeq$ is a
 5. Gen. $U\varphi,$ for all propositional tautologies.
 6. MP. From *φ* and $\varphi\rightarrow\psi$ infer *ψ*.
 
-*Figure 7.*
+\*Figure 7.\*
 
 A recent paper by Shi and Sun (2021) explores an alternative method of preference lifting known as the Egli-Milner order. This bidirectional approach, formally defined below, considers both the best and worst elements across sets, aligning with the maximin principle of favorably balancing the worst outcomes:
 
@@ -459,8 +459,8 @@ In a two-layer structure, the priority base can shift due to changes in the rela
 
 Suppose there is a priority base, denoted as $\mathscr{B}$, which is a set of prioritized propositions. When a new proposition *A* is added, there are straightforward options for incorporating it:
 
-- give *A* the highest priority: *A* can be placed at the top of the priority base to make it the most important proposition.
-- give *A* the lowest priority: *A* can be added to the bottom to give it the lowest priority.
+- **give *A* the highest priority**: *A* can be placed at the top of the priority base to make it the most important proposition.
+- **give *A* the lowest priority**: *A* can be added to the bottom to give it the lowest priority.
 - **side by side**: *A* can be placed alongside $\mathscr{B}$ without establishing an order between *A* and the other priorities.
 
 The set $\alpha(\mathscr{B}, A)$ of basic graph updates is defined in a way that allows these possible changes to be captured:
@@ -489,13 +489,13 @@ In the two-layer framework, it is interesting to see how priority dynamics can m
 
 ![a commuting diagram: link to extended description below](../assets/logic-preference/figxy1.svg)
 
-*Diagram A:* Commutative diagram where new proposition A is added in parallel to an existing base [An extended description of Diagram A is in the supplement.]
+\*Diagram A:\* Commutative diagram where new proposition A is added in parallel to an existing base [An extended description of Diagram A is in the supplement.]
 
 Similarly, placing a new proposition *A* at the top of the priority graph $(\mathscr{B}, <)$ aligns with a radical upgrade at the world level:
 
 ![a diagram: link to extended description below](../assets/logic-preference/figxy2.svg)
 
-*Diagram B*: Commutative diagram where new proposition A is placed at the top of the priority graph [An extended description of Diagram B is in the supplement.]
+\*Diagram B\*: Commutative diagram where new proposition A is placed at the top of the priority graph [An extended description of Diagram B is in the supplement.]
 
 These examples illustrate cases where priority-layer transformations correspond seamlessly with world-layer relation updates.
 
@@ -564,7 +564,7 @@ Axioms characterizing the changes to the *ceteris paribus* sets:
 2. $\pm\varphi\land \langle \Gamma \rangle^{\geq}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{\geq}\alpha$
 3. $\pm\varphi\land \langle \Gamma \rangle^{>}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{>}\alpha$
 
-*Figure 8:* Axiomatization of *ceteris paribus* preferences by Van Benthem, Girard, and Roy (2009)
+\*Figure 8:\* Axiomatization of *ceteris paribus* preferences by Van Benthem, Girard, and Roy (2009)
 
 In the full language, *Γ* in modalities $\langle\Gamma\rangle\varphi$ can be of an arbitrary size. The follow-up work of Seligman and Girard (2011) presents an axiomatization of part of the full logic, the set of what is called “flexible” validities, and provides an alternative semantics in which all validities are flexible and so completely axiomatized. The axiomatization of infinite arbitrary sets is still an open problem.
 

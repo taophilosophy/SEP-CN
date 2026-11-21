@@ -317,11 +317,11 @@ Confucius | Daoism | Neo-Daoism | Zhu Xi
 
 [^li-1984]: Li Dingzuo 李鼎祚, 1984, *Zhouyi jijie* 周易集解 (A Collection of Explanations on the *Zhou* Changes), Beijing: Zhongguo shudian.
 
-[^lynn-1994]: Lynn, Richard John (trans.), 1994, The Classic of Changes: A New Translation of the I Ching as Interpreted by Wang Bi, (Translations from the Asian Classics), New York: Columbia University Press.
+[^lynn-1994]: Lynn, Richard John (trans.), 1994, *The Classic of Changes: A New Translation of the I Ching as Interpreted by Wang Bi*, (Translations from the Asian Classics), New York: Columbia University Press.
 
 [^rutt-1996]: Rutt, Richard (trans.), 1996, *Zhouyi: The Book of Changes: A Bronze Age Document Translated with Introduction and Notes by Richard Rutt*, (Durham East-Asia Series, 1), Richmond, Surrey: Curzon.
 
-[^redmond-2017]: Redmond, Geoffrey (trans.), 2017, The I Ching (Book of Changes): A Critical Translation of the Ancient Text, London: Bloomsbury.
+[^redmond-2017]: Redmond, Geoffrey (trans.), 2017, *The I Ching (Book of Changes): A Critical Translation of the Ancient Text*, London: Bloomsbury.
 
 [^wang-1980]: Wang Bi 王弼 [226–249], 1980, *Wang Bi ji jiaoshi* 王弼集校釋 (A Collection of Writings by Wang Bi, Annotated and Explicated), Lou Yulie 樓宇烈 (ed.), Beijing: Zhonghua shuju.
 
@@ -345,7 +345,7 @@ Confucius | Daoism | Neo-Daoism | Zhu Xi
 
 [^cheng-2020]: –––, 2020, *The Primary Way: Philosophy of Yijing*, Albany, NY: State University of New York Press.
 
-[^cheng-2009]: Cheng, Chung-ying and On-cho Ng (eds), 2009, Philosophy of Yi 易: Unity and Dialectics, (Book Supplement Series to the *Journal of Chinese Philosophy*), Chichester, UK: Blackwell Publishing.
+[^cheng-2009]: Cheng, Chung-ying and On-cho Ng (eds), 2009, *Philosophy of Yi 易: Unity and Dialectics*, (Book Supplement Series to the *Journal of Chinese Philosophy*), Chichester, UK: Blackwell Publishing.
 
 [^ch’en-1986]: Ch’en, Ch’i-yün, 1986, “Confucian, Legalist, and Taoist Thought in Later Han”, in *The Cambridge History of China*, volume 1, Cambridge: Cambridge University Press, 766–807. doi:10.1017/CHOL9780521243278.017.
 
@@ -379,7 +379,7 @@ Confucius | Daoism | Neo-Daoism | Zhu Xi
 
 [^keightley-1978]: Keightley, David N., 1978, *Sources of Shang History: The Oracle-Bone Inscriptions of Bronze Age China*, Berkeley, CA: University of California Press.
 
-[^lin-2022]: Lin Zhongjun 林忠军, 2022, Zhouyi xiangshuxue shi 周易象数学史 (A History of the Images and Numbers School of the *Zhou Changes)*, Shanghai: Shanghai guji chubanshe.
+[^lin-2022]: Lin Zhongjun 林忠军, 2022, *Zhouyi xiangshuxue shi 周易象数学史* (A History of the Images and Numbers School of the *Zhou Changes)*, Shanghai: Shanghai guji chubanshe.
 
 [^liu-2004]: Liu Dajun 刘大钧, 2004, *Zhouyi gailun* 周易概论 (A Brief Introduction to the *Zhou Changes*), Chengdu: Bashu shushe.
 
@@ -391,7 +391,7 @@ Confucius | Daoism | Neo-Daoism | Zhu Xi
 
 [^marshall-2001]: Marshall, S.J., 2001, *The Mandate of Heaven: Hidden History in the I Ching*, New York: Columbia University Press.
 
-[^nielsen-2003]: Nielsen, Bent, 2003, A Companion to Yi Jing Numerology and Cosmology, London: Routledge Curzon. doi:10.4324/9780203357927
+[^nielsen-2003]: Nielsen, Bent, 2003, *A Companion to Yi Jing Numerology and Cosmology*, London: Routledge Curzon. doi:10.4324/9780203357927
 
 [^nylan-2001]: Nylan, Michael, 2001, *The Five “Confucian” Classics*, New Haven, CT: Yale University Press.
 
@@ -399,17 +399,17 @@ Confucius | Daoism | Neo-Daoism | Zhu Xi
 
 [^pines-2012]: –––, 2012, *The Everlasting Empire: The Political Culture of Ancient China and Its Imperial Legacy*, Princeton, NJ: Princeton University Press.
 
-[^queen-1996]: Queen, Sarah A, 1996, From Chronicle to Canon: The Hermeneutics of the Spring and Autumn, According to Tung Chung-shu, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511572661
+[^queen-1996]: Queen, Sarah A, 1996, *From Chronicle to Canon: The Hermeneutics of the Spring and Autumn, According to Tung Chung-shu*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511572661
 
 [^raphals-2013]: Raphals, Lisa, 2013, *Divination and Prediction in Early China and Ancient Greece*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511863233
 
-[^redmond-2014]: Redmond, Geoffrey P. and Tze-Ki Hon, 2014, Teaching the I Ching (Book of Changes), (AAR Teaching Religious Studies Series), New York: Oxford University Press. doi:10.1093/acprof:oso/9780199766819.001.0001
+[^redmond-2014]: Redmond, Geoffrey P. and Tze-Ki Hon, 2014, *Teaching the I Ching (Book of Changes)*, (AAR Teaching Religious Studies Series), New York: Oxford University Press. doi:10.1093/acprof:oso/9780199766819.001.0001
 
 [^schipper-1982]: Schipper, Kristopher, 1982 [1993], *Le Corps Taoïste*, Paris: Librairie Arthème Fayard. Translated as *Taoist Body*, Karen C. Duval (trans.), Berkeley, CA: University of California Press, 1993.
 
 [^shaughnessy-1992]: Shaughnessy, Edward L., 1992 [1997], “Marriage, Divorce, and Revolution: Reading between the Lines of the *Book of Changes*”, *The Journal of Asian Studies*, 51(3): 587–599. doi:10.2307/2057951. Reprinted in his *Before Confucius: Studies in the Creation of the Chinese Classics*, (SUNY series in Chinese philosophy and culture), Albany, NY: State University of New York Press, 13–30.
 
-[^shaughnessy-2014]: –––, 2014, Unearthing the Changes: Recently Discovered Manuscripts of the Changes (I Ching) and Related Texts, New York: Columbia University Press.
+[^shaughnessy-2014]: –––, 2014, *Unearthing the Changes: Recently Discovered Manuscripts of the Changes (I Ching) and Related Texts*, New York: Columbia University Press.
 
 [^shaughnessy-2022]: –––, 2022, *The Origin and Early Development of the* Zhou Changes. Leiden: Brill.
 
@@ -417,11 +417,11 @@ Confucius | Daoism | Neo-Daoism | Zhu Xi
 
 [^smith-1989]: Smith, Kidder Jr, 1989, “*Zhouyi* Interpretation from Accounts in the *Zuozhuan*”, *Harvard Journal of Asiatic Studies*, 1989(2): 421–63. doi:10.2307/2719259
 
-[^smith-1990]: Smith, Kidder Jr, Peter K. Bol, Joseph A. Adler, and Don J. Wyatt (eds.), 1990, Sung Dynasty Uses of the I Ching, Princeton, NJ: Princeton University Press.
+[^smith-1990]: Smith, Kidder Jr, Peter K. Bol, Joseph A. Adler, and Don J. Wyatt (eds.), 1990, *Sung Dynasty Uses of the I Ching*, Princeton, NJ: Princeton University Press.
 
-[^smith-2008]: Smith, Richard J., 2008, Fathoming the Cosmos and Ordering the World: The Changes (I-Ching, or Classic of Changes) and Its Evolution in China, Charlottesville, VA: University of Virginia Press.
+[^smith-2008]: Smith, Richard J., 2008, *Fathoming the Cosmos and Ordering the World: The Changes (I-Ching, or Classic of Changes) and Its Evolution in China*, Charlottesville, VA: University of Virginia Press.
 
-[^smith-2012]: –––, 2012, The I Ching: A Biography, Princeton, NJ: Princeton University Press.
+[^smith-2012]: –––, 2012, *The I Ching: A Biography*, Princeton, NJ: Princeton University Press.
 
 [^tang-2015]: Tang Yongtong, 2015, *Weijin xuanxue lungao* 魏晉玄學論稿 (Preliminary Studies of the Learning of the Deep during the Wei-jin Period), enlarged and revised edition. Shanghai: Shanghai renmin chubanshe.
 

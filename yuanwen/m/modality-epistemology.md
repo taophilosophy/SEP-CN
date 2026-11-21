@@ -66,7 +66,7 @@ A helpful diagram to understand the relationship between the three main alethic 
 
 ![three nested ovals. The innermost one labeled 'Physical', the midmost one 'Metaphysical', and outermost one labeled 'Logical'.](../assets/modality-epistemology/figure.svg)
 
-*Fig. 1:* Nesting model for *possibility*.
+\*Fig. 1:\* Nesting model for *possibility*.
 
 Conversely, what is logically necessary is metaphysically necessary, and what is metaphysically necessary is also physically necessary. Other kinds of modality can be suitably added to the model, as well, such as practical possibility. Practical possibilities would be within the physical possibilities. Importantly, some philosophers question whether metaphysical modality is a distinct and irreducible modality. Alternative accounts include *inflationism, deflationism*, and *skepticism*. Inflationists, such as David Chalmers (2002)[^chalmers-2002], hold “Modal Monism”, the view that there is only one modal notion or primitive, such that metaphysical and logical modality coincide (more below, §4.1). Deflationists, such as Sydney Shoemaker (1998)[^shoemaker-1998], argue that metaphysical modality coincides with physical modality. Skeptics, such as Graham Priest (2021)[^priest-2021], question whether there is a notion of metaphysical necessity that is distinct from both, *analytic* necessity (which corresponds to conceptual necessity) and *physical* necessity.
 

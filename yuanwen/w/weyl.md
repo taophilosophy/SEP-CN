@@ -255,7 +255,7 @@ $$\tag{4} \overline{v}^{\,i}_q - \overline{v}^{\,i}_p = d\overline{v}^{\,i}_p = 
 
 ![figure](../assets/weyl/fig1.png)
 
-*Figure 1:* Parallel transport in a geodesic coordinate system $\overline{x}$
+\*Figure 1:\* Parallel transport in a geodesic coordinate system $\overline{x}$
 
 For an arbitrary coordinate system $x$ the components $dv^{\,i}_p$ vanish whenever $v^{\,i}_p$ or $dx^{\,i}_p$ vanish. Consequently, $dv^{\,i}_p$ is *bi-linear* in $v^{\,i}_p$ and $dx^{\,i}_p$; that is,
 
@@ -265,7 +265,7 @@ where, in the case of four dimensions, the $4^{3} = 64$ coefficients $\Gamma^{\,
 
 ![figure](../assets/weyl/fig2.png)
 
-*Figure 2:* Parallel transport in an arbitrary coordinate system $x$
+\*Figure 2:\* Parallel transport in an arbitrary coordinate system $x$
 
 It is important to understand that there is no intrinsic notion of infinitesimal parallel displacement on a differentiable manifold. A notion of “parallelism” is not something that a manifold would possess merely by virtue of being a smooth manifold; additional structure has to be introduced which resides on the manifold and which permits the notion of infinitesimal parallelism. A manifold is an “affine manifold” $(M, \Gamma)$ if in addition to its manifold structure (differential topological structure) it is also endowed with an affine structure *Γ* that assigns to each of its points 64 coefficients $\Gamma^{i}_{jk} (x^{i}(p))$ satisfying the symmetry condition $\Gamma^{i}_{jk} (x^{i}(p)) = \Gamma^{i}_{kj} (x^{i}(p))$.
 
@@ -288,7 +288,7 @@ Weyl’s metric-independent construction of the affine structure led to the deve
 
 ![figure](../assets/weyl/fig3.png)
 
-*Figure 3:* A curve on the manifold $M$ is the smooth map $\gamma : I \subset \mathbb{R} \rightarrow M$
+\*Figure 3:\* A curve on the manifold $M$ is the smooth map $\gamma : I \subset \mathbb{R} \rightarrow M$
 
 It is important to understand that what one means by a “curve” is the map (the parametric description) itself, and *not* the set of its image points, the path. Consequently, two curves are mathematically considered to be different curves if they are given by different maps (different parameter descriptions), *even if their image set, that is, their path, is the same*. If we change a curve’s parameter description we change the curve but not its image set (its path), the points it passes through. A path is therefore sometimes defined as an equivalence class of curves under arbitrary parameter transformations. Hence, projective geometry may be defined as an equivalence class of affine geometries.
 
@@ -300,7 +300,7 @@ One may characterize the *projective geometry* *Π* on an affine manifold either
 
 ![figure](../assets/weyl/fig4.png)
 
-*Figure 4:* A path *ξ* is an equivalence class [*γ*] of curves under all parameter diffeomorphisms $\mu: \mathbb{R} \rightarrow \mathbb{R}; \lambda \mapsto \mu(\lambda)$
+\*Figure 4:\* A path *ξ* is an equivalence class [*γ*] of curves under all parameter diffeomorphisms $\mu: \mathbb{R} \rightarrow \mathbb{R}; \lambda \mapsto \mu(\lambda)$
 
 Weyl took the latter approach. According to Weyl, the infinitesimal process of parallel displacements of vectors contains, as a special case, the infinitesimal displacement of a *direction* into its own *direction*. Such an infinitesimal autoparallelism of *directions* is characteristic of the projective structure of an affinely connected manifold.
 
@@ -352,7 +352,7 @@ While in Riemannian geometry the parallel transport of length is *path independe
 
 ![figure](../assets/weyl/fig5.png)
 
-*Figure 5:* The parallel transport of a vector by a two-dimensional creature, from $A \rightarrow B \rightarrow C \rightarrow A$ around a geodesic triangle on a two-dimensional surface $S^{2}$, ends up pointing in a different direction upon returning to $A$.
+\*Figure 5:\* The parallel transport of a vector by a two-dimensional creature, from $A \rightarrow B \rightarrow C \rightarrow A$ around a geodesic triangle on a two-dimensional surface $S^{2}$, ends up pointing in a different direction upon returning to $A$.
 
 For a closed loop which circumscribes an infinitesimally small portion of space, the rotation of the vector per unit area constitutes the measure of the local curvature of space. Consequently, whether or not finite parallel displacement of direction is *integrable*, that is, path-independent, depends on whether or not the curvature tensor vanishes.
 
@@ -432,7 +432,7 @@ A spacetime that is formally characterizable as a Weyl geometry, would not only 
 
 ![figure](../assets/weyl/fig6.png)
 
-*Figure 6:* In a Weyl geometry parallel displacement of a vector along different paths not only changes its direction but also its length
+\*Figure 6:\* In a Weyl geometry parallel displacement of a vector along different paths not only changes its direction but also its length
 
 Suppose physical spacetime corresponds to a Weyl geometry. Then two identical clocks $A$ and $B$ at an event $p$ with a common unit of time, that is, a timelike vector of given length $l_{p}$, which are separated and moved along different world lines to an event $q$, will not only differ with respect to the elapsed time (first clock effect (i.e., relativistic effect)), but in general the clocks will differ with respect to their common unit of time (rate of ticking) at $q$ (second clock effect). That is, congruent time displacement in a Weyl geometry is such that two congruent time intervals at $p$ will not in general be congruent at $q$, when congruently displaced in parallel along different world lines from $p$ to $q$, that is, $l^{A}_{q} \ne l^{B}_{q}$. This means that a twin who travels to a distant star and then returns to earth would not only discover that the other twin on earth had aged much more, but also that all the clocks on earth tick at a different rate. Hence, in the presence of a non-vanishing electromagnetic field $F_{jk}(x)$ the clock rates will not in general be the same; that is, there will be a second clock effect in addition to the relativistic effect (first clock effect). Thus, $l^{A}_{q} = l^{B}_{q}$ if and only if the curl of $A_{j}(x)$ vanishes, that is, if and only if the electromagnetic field tensor $F_{jk}(x)$ vanishes, namely,
 
@@ -653,7 +653,7 @@ From the physical point of view, Weyl emphasized the roles of light propagation 
 
 ![figure](../assets/weyl/fig7.png)
 
-*Figure 7:* Weyl took the metric and affines structures as fundamental and showed that the conformal and projective structures respectively arise from them by mathematical abstraction.
+\*Figure 7:\* Weyl took the metric and affines structures as fundamental and showed that the conformal and projective structures respectively arise from them by mathematical abstraction.
 
 #### 4.3.3 The Ehlers, Pirani, Schild Construction of the Causal-Inertial Method
 
@@ -716,7 +716,7 @@ Weyl notes that what we seem to observe as the rotation of the stars, is in real
 
 ![figure](../assets/weyl/fig8.png)
 
-*Figure 8:* Weyl’s plasticine example
+\*Figure 8:\* Weyl’s plasticine example
 
 Applying these considerations to the fixed stars and assuming that it is possible that the (conformal) metrical field which determines the cones of light propagation (light cones) at each point of the plasticine, is carried along by the continuous transformation of the plasticine, then both the earth and the fixed stars will be at rest with respect to the plasticine’s coordinate system. Yet despite this the “star compass” is rotating with respect to the earth, exactly as we observe!
 
@@ -858,7 +858,7 @@ Einstein thought that he could solve the difficulties of an unstable non-static 
 
 ![figure](../assets/weyl/fig9.png)
 
-*Figure 9:* Einstein Universe
+\*Figure 9:\* Einstein Universe
 
 According to Einstein’s Machian convictions, since inertia is determined only by matter, there can be no inertial structure or field in the absence of matter. Consequently, it is impossible, Einstein conjectured, to find a solution to the field equations—that is, to determine the metric $g_{ij}$—if the energy-momentum tensor $T_{ij}$ representing the mass-energy content of the universe is zero. The non-existence of ‘vacuum solutions’ for a static universe demonstrated, Einstein thought, that Mach’s Principle had been successfully incorporated into his theory of general relativity. Einstein also believed that his solution was unique because of the assumptions of isotropy and homogeneity.[^note-84]
 
@@ -894,7 +894,7 @@ On this hyperboloid, a single star (nebula or galaxy, in later contexts) $A$, al
 
 ![figure](../assets/weyl/fig10.png)
 
-*Figure 10:* De Sitter’s hyperboloid with domain of influence $D$ covering half of the hyperboloid and world lines of stars.
+\*Figure 10:\* De Sitter’s hyperboloid with domain of influence $D$ covering half of the hyperboloid and world lines of stars.
 
 There are innumerable stars or geodesics, according to Weyl, that have the same domain of influence as the arbitrarily chosen star $A$; they form, he says, a *system that has been causally interconnected since eternity.* Such a system of causally interconnected stars Weyl describes as stars of a common origin that lies in an infinitely remote past. The sheaf of world-lines of such a system of stars converges, in the direction of the infinitely remote past, on an infinitely small part of the total extent of the hyperboloid, and diverges in the direction of the future on an ever increasing extent of the hyperboloid. Weyl’s choice of singling out a particular sheaf of non-intersecting timelike geodesics as constituting the cosmological substratum is the content of Weyl’s Postulate. Weyl (1923b, 295) says:
 
@@ -904,7 +904,7 @@ The transition from a static to a dynamic universe opens up the possibility of a
 
 ![figure](../assets/weyl/fig11.png)
 
-*Figure 11:* Weyl’s Postulate
+\*Figure 11:\* Weyl’s Postulate
 
 Since the relative velocities of matter is small in each collection of galaxies extending over an astronomical neighbourhood, one can approximate a “smeared-out” motion of the galaxies and introduce a *substratum* or *fluid* which fills space and in which the galaxies move like “fundamental particles”.[^note-88] Weyl’s postulate says that observers associated with this smeared-out motion constitute a privileged class of observers of the universe. Since geodesics do not intersect, according to Weyl’s Postulate, there exist one and only one geodesic which passes through each spacetime point. Consequently, matter possesses a unique velocity at any spacetime point. Therefore, the fluid may be regarded as a *perfect fluid*; and this is the essential content of Weyl’s Postulate.
 
@@ -922,7 +922,7 @@ Weyl’s introduction of his Postulate made it possible for him to provide the f
 
 ![figure](../assets/weyl/fig12.png)
 
-*Figure 12:* A body or star $A$ emits monochromatic light which travels along null geodesics $L, L',\ldots$ to an observer $O$.
+\*Figure 12:\* A body or star $A$ emits monochromatic light which travels along null geodesics $L, L',\ldots$ to an observer $O$.
 
 Consequently, if one of the generators of the light cone issuing from $A$’s world line at $A$’s proper time $s_{0}$—the null geodesic $L$—reaches observer $O$ at the observer’s proper time $\sigma(s_{0})$, then
 
@@ -992,7 +992,7 @@ Referring to Cartan (1923a)[^cartan-1923a], Weyl (1929e) says that Cartan’s ge
 
 ![figure](../assets/weyl/fig13.png)
 
-*Figure 13:* Cartan’s generalization
+\*Figure 13:\* Cartan’s generalization
 
 Figure 13 above, adapted from Sharpe (1997)[^sharpe-1997], may help in clarifying the discussion. The generalization of Euclidean geometry to a Riemannian space (the left vertical blue arrow) says:
 
@@ -1006,7 +1006,7 @@ Analogously, Cartan’s generalization of a Klein space to a Cartan space (the r
 
 ![figure](../assets/weyl/fig14.png)
 
-*Figure 14:* Cartan’s generalized space
+\*Figure 14:\* Cartan’s generalized space
 
 Cartan’s generalized space $\Sigma$(M) is the space of all **“Tangent Spaces”** (i.e., all Klein spaces $\Sigma(M_{p}))$ and contains a mixture of homogeneous and inhomogeneous spaces (see figure 14).
 
@@ -1242,7 +1242,7 @@ Weyl (1949a, 115) provides an illustration, which shows how a measurement by obs
 
 ![figure](../assets/weyl/fig15.png)
 
-*Figure 15:* Measurement of the angular distance *δ* by an observer $B$ between two stars
+\*Figure 15:\* Measurement of the angular distance *δ* by an observer $B$ between two stars
 
 In figure 15 the stars and observer are represented by their world lines, and the past light cone $K$ issuing from the observation event $O$ intersects the world lines of the stars $\Sigma$ and $\Sigma^{*}$ in $E$ and $E^{*}$ respectively. The light rays emitted at $E$ and $E^{*}$, which arrive at the observation event $O$, are null geodesics laying on the past light cone and are respectively denoted by $\Lambda$ and $\Lambda^{*}$. This construction of the numerical quantity of the angle *δ* observed by $B$ at $O$, which is describable in the form of purely arithmetical relations, is invariant under arbitrary coordinate transformations and constitutes an objective fact of the world.[^note-119]
 

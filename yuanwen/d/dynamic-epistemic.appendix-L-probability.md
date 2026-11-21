@@ -77,11 +77,11 @@ We draw conditional probability models like plausibility models except that arro
 - *Third Axiom*: arrows must respect the third axiom of priority spaces; that is, given $u,v,w\in W$ such that $w\neq v$ and $(w,u)_a\cdot(u,v)_a+(v,u)_a\cdot(u,w)_a\neq 0$, we have $$\begin{align*} (w,v)_a &= \frac {(w,u)_a\cdot(u,v)_a} {(w,u)_a\cdot(u,v)_a+(v,u)_a\cdot(u,w)_a} \\ &= \frac {(w,u)_a\cdot(u,v)_a} {(w,u)_a\cdot(u,v)_a+(1-(u,v)_a)\cdot(1-(w,u)_a)}, \end{align*}$$ where the second equality follows by the first axiom of priority spaces. In a picture: if $w\neq v$ and $x\cdot y+(1-y)\cdot (1-x)\neq 0$, then ![](../assets/dynamic-epistemic/figure-cpm-third-ax.jpg) $$ \mbox{must satisfy } z=\frac{x\cdot y}{x\cdot y+(1-y)\cdot(1-x)} $$ Also, for convenience, we adopt the following rule for simplifying drawings: for each agent *a*, every sequence of two *a*-labeled arrows that has different starting and ending worlds gives rise to an implicit third *a*-labeled arrow whose number is such that the third axiom of priority spaces is satisfied. Thus, if $w\neq v$ and $x\cdot y+(1-y)\cdot (1-x)\neq 0$, then ![](../assets/dynamic-epistemic/figure-cpm-third-ax-implicit1.jpg) indicates ![](../assets/dynamic-epistemic/figure-cpm-third-ax-implicit2.jpg)
 - *Informational Equivalence*: we write $w\sim_a v$ (equivalently that $w\in\cc_a(v)$ or that $v\in\cc_a(w)$) to mean that, if we ignore all arrowheads, then there is a sequence of zero or more dashed lines that create a path between *w* and *v*. So, for example, the picture ![](../assets/dynamic-epistemic/figure-cpm-info.jpg) indicates that $w\sim_a w$, $w\sim_a v$, $v\sim_a v$, $u\sim_a u$, $w\nsim_a u$, and $v\nsim_a u$ (along with each of the expressions $x\sim_a y$ and $x'\nsim_a y'$ appearing in this list with *x* and *y* exchanged).
 
-The above items fully specify the rules and simplifications we may use to draw conditional probability models. We use these models to interpret the language \eqref{CPL} of Conditional Probability Logic.
+The above items fully specify the rules and simplifications we may use to draw conditional probability models. We use these models to interpret the language \\eqref{CPL} of Conditional Probability Logic.
 
 $$\begin{gather*}\taglabel{CPL} F \ccoloneqq p \mid F\land F \mid \lnot F \mid [a:x]F \mid K_aF \\ \small p\in\sP,\; a\in\sA,\; x\in[0,1] \end{gather*}$$
 
-The satisfaction relation $\models$ between pointed conditional probability models and formulas of \eqref{CPL} is defined as follows.
+The satisfaction relation $\models$ between pointed conditional probability models and formulas of \\eqref{CPL} is defined as follows.
 
 - $\sem{F}\coloneqq\{w\in W\mid M,w\models F\}$.
 - $M,w\models p$ holds if and only if $w\in V(p)$.
@@ -103,17 +103,17 @@ A consequence of the Probability-Plausibility Theorem is that the given model an
 
 **$\KBox$ Soundness and Completeness (Baltag and Smets 2008a).** The theory $\KBox$ is sound and complete with respect to the collection $\sC_*$ of pointed conditional probability models. That is, for each $(K\Box)$-formula *F*, we have $\KBox\vdash F$ if and only if $\sC_*\models F$.
 
-It has not yet been shown whether there is a complete axiomatization of the validities of the full language \eqref{CPL}. It may also be of interest to determine whether there is such an axiomatization for the restricted language obtained by requiring all degrees of belief to be rational numbers in the unit interval $[0,1]$.
+It has not yet been shown whether there is a complete axiomatization of the validities of the full language \\eqref{CPL}. It may also be of interest to determine whether there is such an axiomatization for the restricted language obtained by requiring all degrees of belief to be rational numbers in the unit interval $[0,1]$.
 
 Baltag and Smets (2008a) also developed a probabilistic version of action models. These have a structure much like that of conditional probability models.
 
 **Conditional probability action model.** Given a set of formulas $\Lang$ and a finite nonempty set $\sA$ of agents, a *conditional probability action model* is a structure $$ A=(E,\mu,\pre) $$ consisting of a nonempty finite set *E* of the possible communicative *events* that might occur, a function $\mu$ that assigns to each agent *a* a Popper function $\mu_a$ on *E*, and a function $\pre$ that assigns to each event *e* in *E* a formula $\pre(e)\in\Lang$ called the *precondition* of *e*. A *pointed conditional probability action model*, sometimes also called an *action*, is a pair $(A,e)$ consisting of a plausibility action model *A* and an event *e* in *A* that is called the *point*. Conditional probability action models are drawn like conditional probability models except that events are pictured as rectangles instead of as circles. The point of a conditional probability action model is indicated by a double rectangle.
 
-We define language \eqref{CPAL} of Conditional Probability Action Logic along with the set $\CPAM_*$ of pointed conditional probability action models having preconditions in the language \eqref{CPAL} according to the following recursive grammar:
+We define language \\eqref{CPAL} of Conditional Probability Action Logic along with the set $\CPAM_*$ of pointed conditional probability action models having preconditions in the language \\eqref{CPAL} according to the following recursive grammar:
 
 $$\begin{gather*}\taglabel{CPAL} F \ccoloneqq p \mid F\land F \mid \lnot F \mid [a:x]F \mid K_aF \mid [A,e]F \\ \small p\in\sP,\; a\in\sA,\; x\in[0,1],\; (A,e)\in\CPAM_* \end{gather*}$$
 
-The satisfaction relation $\models$ between pointed conditional probability models and formulas of \eqref{CPAL} is an extension of the relation between $\models$ between pointed conditional probability models and formulas of \eqref{CPL} obtained by adding the following:
+The satisfaction relation $\models$ between pointed conditional probability models and formulas of \\eqref{CPAL} is an extension of the relation between $\models$ between pointed conditional probability models and formulas of \\eqref{CPL} obtained by adding the following:
 
 - $M,w\models[A,e]G$ holds if and only if $M,w\not\models\pre(e)$ or $M[A],(w,e)\models G$, where the model $$ M[A] = (W[A],\mu[A],V[A]) $$ is the result of the *probabilistic product update* operation $M\mapsto M[A]$ defined by:
 - $M[A]\coloneqq\{(v,g)\in W\times E\mid M,v\models\pre(g)\}$ — pair worlds with events whose preconditions they satisfy;
@@ -128,7 +128,7 @@ The definition of the Popper function $\mu[A]_a$ resulting after the probabilist
 
 The first two cases tell us the following: if $g_1$ and $g_2$ are distinct events and the agent believes conditional on one of $g_1$ or $g_2$ occurring that it is event $g_i$ that occurred for some $i\in\{1,2\}$, then she will also believe conditional on one of $(v_1,g_1)$ or $(v_2,g_2)$ being the actual world that it is world $(v_i,g_i)$ that is in fact actual. This is just the *action-priority update* from the language (APUL). This rule tells us that the incoming information from the conditional probability action model overrides information from the given conditional probability model whenever these two information sources are contradictory. This prioritization agrees with the basic assumption in Belief Revision theory that “new” incoming information (from the conditional probability action model) is to be prioritized over “old” information (from the conditional probability model) in case of contradiction. The third case above tells us that, so long as the “new” information does not contradict the ”old” information, these two sources of information are to be considered as probabilistically independent, so the resulting relative priority of the newly created world $(v_1,g_1)$ over the newly created world $(v_2,g_2)$ is given by a product of the given relative priorities $(v_1,v_2)_a$ and $(g_1,g_2)_a$. The denominator on the right side of the equality of the third case ensures that this product is normalized over the subspace where the initial worlds to be considered are just $v_1$ and $v_2$ and the initial events to be considered are just $g_1$ and $g_2$.
 
-It is an open question as to whether there is a complete axiomatization of the validities of \eqref{CPAL}.
+It is an open question as to whether there is a complete axiomatization of the validities of \\eqref{CPAL}.
 
 We refer the reader to Baltag and Smets (2008a) for further details, including the definition of a number of interesting conditional probability action models and the study of the game-theoretic notion of “common belief of rationality”.
 
@@ -140,11 +140,11 @@ We now look at another approach to reasoning about probabilistic Dynamic Epistem
 
 The relation $\sim_a$ characterizes agent *a*’s *knowledge*: if the actual wold is *w*, then “agent *a* knows *F*” is said to hold just in case *F* is true at all worlds $v\sim_a w$. This leads to the familiar $\mathsf{S5}$ notion of knowledge. The probability function describes agent *a*’s subjective probabilistic belief as to which is the actual state of affairs: $P_a(w)(v)$ is the is the (subjective) probability agent *a* assigns to the event “the actual world is *v*” whenever the actual world is in fact *w*.
 
-To reason about probability, authors such as Fagin, Halpern, and Megiddo (1990), Halpern (2003), Heifitz and Mongin (2001), and others have defined various formal languages that express the summed probability of a number of formulas is comparable in some way to (e.g., no greater than) a given number (usually rational, though real numbers may be allowed as well). Van Benthem, Gerbrandy, and Kooi (2009b) consider a simplified variant: the language \eqref{EPL} of *Epistemic Probabilistic Logic*. This language is defined according to the following grammar:
+To reason about probability, authors such as Fagin, Halpern, and Megiddo (1990), Halpern (2003), Heifitz and Mongin (2001), and others have defined various formal languages that express the summed probability of a number of formulas is comparable in some way to (e.g., no greater than) a given number (usually rational, though real numbers may be allowed as well). Van Benthem, Gerbrandy, and Kooi (2009b) consider a simplified variant: the language \\eqref{EPL} of *Epistemic Probabilistic Logic*. This language is defined according to the following grammar:
 
 $$\begin{gather*}\taglabel{EPL} F \ccoloneqq p \mid F\land F \mid \lnot F \mid K_aF \mid P_a(F)=k \\ \small p\in\sP,\; a\in\sA,\; k\in\mathbb{Q} \end{gather*}$$
 
-The formula $K_aF$ is read, “agent *a* knows *F*”. The formula $P_a(F)=k$ is read, “agent *a* assigns probability *k* to *F*”. The satisfaction relation $\models$ between pointed epistemic probability models and \eqref{EPL}-formulas is defined as follows.
+The formula $K_aF$ is read, “agent *a* knows *F*”. The formula $P_a(F)=k$ is read, “agent *a* assigns probability *k* to *F*”. The satisfaction relation $\models$ between pointed epistemic probability models and \\eqref{EPL}-formulas is defined as follows.
 
 - $\sem{F}\coloneqq\{w\in W\mid M,w\models F\}$.
 - $M,w\models p$ holds if and only if $w\in V(p)$.
@@ -153,16 +153,16 @@ The formula $K_aF$ is read, “agent *a* knows *F*”. The formula $P_a(F)=k$ is
 - $M,w\models K_aF$ holds if and only if $M,v\models F$ for each $v\sim_a w$.
 - $M,w\models P_a(F)=k$ holds if and only if $k=\sum_{v\in\sem{F}} P_a(w)(v)$.
 
-We note that epistemic probability models do not impose restrictions on the assignments of probability functions to states. However, in many applications, certain restrictions make sense, and one may wish to study the collection of \eqref{EPL}-validities that hold with respect to the given restricted class of epistemic probability models. As an example, many epistemic applications might wish to impose the property that
+We note that epistemic probability models do not impose restrictions on the assignments of probability functions to states. However, in many applications, certain restrictions make sense, and one may wish to study the collection of \\eqref{EPL}-validities that hold with respect to the given restricted class of epistemic probability models. As an example, many epistemic applications might wish to impose the property that
 
 $$ w\sim_a v \text{ implies } P_a(w)(v)=P_a(v)(w). $$
 
-The class of pointed epistemic probability models satisfying this property validates the \eqref{EPL}-formula $$ (P_a(F)=k)\to K_a(P_a(F)=k), $$ which says that the agent knows the subjective probabilities that she assigns.
+The class of pointed epistemic probability models satisfying this property validates the \\eqref{EPL}-formula $$ (P_a(F)=k)\to K_a(P_a(F)=k), $$ which says that the agent knows the subjective probabilities that she assigns.
 
 In examining DEL-style dynamics for epistemic probability models, van Benthem et al. (2009a) consider three sources of probabilistic information:
 
 - *Prior probabilities*: these represent the agents’ beliefs before receiving new information. Prior probabilities are just the agents’ probability functions $P_a$ coming from the epistemic probability model that occurs before the informational update.
-- *Occurrence probabilities*: these represent objective frequencies about the process that produces the new information. Occurrence probabilities take the form of an assignment from information conveyed by the update (in the form of one of a finite number of logically inconsistent \eqref{EPL}-formulas) to probability functions over the finite set of possible events that might have brought about the update.
+- *Occurrence probabilities*: these represent objective frequencies about the process that produces the new information. Occurrence probabilities take the form of an assignment from information conveyed by the update (in the form of one of a finite number of logically inconsistent \\eqref{EPL}-formulas) to probability functions over the finite set of possible events that might have brought about the update.
 - *Observation probabilities*: these represent the agents’ uncertainty as to the actual event that brought about the update. Observation probabilities take the form of an assignment from a finite set of events to probability functions over the set of events, indicating the agents’ intrinsic uncertainty, independent of the particular formula-specified information the update conveys, as to which event is the actual one.
 
 The action model-like structures defined by van Benthem, Gerbrandy, and Kooi (2009b) that realize informational updates with these three sources of probability are called *probabilistic update models*.
@@ -177,11 +177,11 @@ The action model-like structures defined by van Benthem, Gerbrandy, and Kooi (20
 
 A *pointed probabilistic update model*, sometimes also called an *update*, is a pair $(A,e)$ consisting of a probabilistic action model *A* and an event *e* in *A* that is called the *point*.
 
-The language of *Epistemic Probabilistic Logic with Updates*, which we herein dub \eqref{EPL+U}, along with the set $\EUM_*$ of pointed epistemic update models with preconditions in the language \eqref{EPL+U} according to the following recursive grammar:
+The language of *Epistemic Probabilistic Logic with Updates*, which we herein dub \\eqref{EPL+U}, along with the set $\EUM_*$ of pointed epistemic update models with preconditions in the language \\eqref{EPL+U} according to the following recursive grammar:
 
 $$\begin{gather*}\taglabel{EPL+U} F \ccoloneqq p \mid F\land F \mid \lnot F \mid K_aF \mid P_a(F)=k \mid [A,e]F\\ \small p\in\sP,\; a\in\sA,\; k\in\mathbb{Q},\; (A,e)\in\EUM_* \end{gather*}$$
 
-The binary truth relation $\models$ between pointed epistemic probability models and \eqref{EPL+U}-formulas is obtained by extending the relation $\models$ for \eqref{EPL}-formulas by adding the following clause:
+The binary truth relation $\models$ between pointed epistemic probability models and \\eqref{EPL+U}-formulas is obtained by extending the relation $\models$ for \\eqref{EPL}-formulas by adding the following clause:
 
 - $M,w\models[A,e]F$ holds if and only if for all $G\in\Phi$, we have $M,w\not\models G$ or $M[A]_b,(w,e)\models F$, where the model $$ M[A]_b = (W[A]_b,{\sim}[A]_b,P[A]_b,V[A]_b) $$ is the result of the van Benthem, Gerbrandy, and Kooi (2009b) probabilistic product update operation $M\mapsto M[A]_b$ defined by:
 - For each $(v,g)\in W\times E$, we define the following quantity, which is just the occurrence probability of event *g* at world *v*, by setting $$ \pre(v,g) \coloneqq \frac{\sum_{G\in\Phi}\{\pre(G,g)\mid v\in\sem{G}\}} {|\{G\in\Phi\mid v\in\sem{G}\}|} $$ if the denominator (consisting of the number of preconditions satisfied by *v*) is nonzero and otherwise, if the denominator is zero, define $\pre(v,g)\coloneqq0$;
@@ -192,6 +192,6 @@ The binary truth relation $\models$ between pointed epistemic probability models
 
 In van Benthem, Gerbrandy, and Kooi (2009b), it is assumed that preconditions are always mutually inconsistent; that is, no two distinct precondition formulas occurring in *Φ* are true at the same world. This assumption simplifies the definition above: if there is a unique precondition $G\in\Phi$ that is true at a world *v*, then $\pre(v,g)$ reduces to the value $\pre(G,g)$; otherwise, if there is no such unique precondition, then $\pre(v,g)$ is 0.
 
-Van Benthem, Gerbrandy, and Kooi (2009b) show by way of a Reduction Theorem that the validities of a generalization of \eqref{EPL+U} obtained by considering linear inequalities $$ a_1\cdot P_a(F_1)+\cdots+a_n\cdot P_a(F_n)\geq k $$ are axiomatizable. We refer the reader to van Benthem, Gerbrandy, and Kooi (2009b) for details. Also, for more general information about the consequences of expressing equalities with and without linear combinations, we point the reader to Section 3.2 of the *Stanford Encyclopedia of Philosophy* entry on Logic and Probability.
+Van Benthem, Gerbrandy, and Kooi (2009b) show by way of a Reduction Theorem that the validities of a generalization of \\eqref{EPL+U} obtained by considering linear inequalities $$ a_1\cdot P_a(F_1)+\cdots+a_n\cdot P_a(F_n)\geq k $$ are axiomatizable. We refer the reader to van Benthem, Gerbrandy, and Kooi (2009b) for details. Also, for more general information about the consequences of expressing equalities with and without linear combinations, we point the reader to Section 3.2 of the *Stanford Encyclopedia of Philosophy* entry on Logic and Probability.
 
 ← beginning of main article

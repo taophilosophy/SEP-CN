@@ -525,7 +525,7 @@ We are very grateful to James Jardine, Lucy Osler, Alessandro Salice, and an ano
 
 [^de-2015]: De Vecchi, Francesca, 2015, “Edith Stein’s Social Ontology of the State, the Law and Social Acts: An Eidetic Approach:”, *Studia Phaenomenologica*, 15: 303–330. doi:10.5840/studphaen20151516
 
-[^de-2012]: De Vignemont, Frédérique and Pierre Jacob, 2012, “What Is It like to Feel Another’s Pain?*”, *Philosophy of Science*, 79(2): 295–316. doi:10.1086/664742
+[^de-2012]: De Vignemont, Frédérique and Pierre Jacob, 2012, “What Is It like to Feel Another’s Pain?\*”, *Philosophy of Science*, 79(2): 295–316. doi:10.1086/664742
 
 [^de-2006]: De Vignemont, Frederique and Tania Singer, 2006, “The Empathic Brain: How, When and Why?”, *Trends in Cognitive Sciences*, 10(10): 435–441. doi:10.1016/j.tics.2006.08.008
 

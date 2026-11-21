@@ -35,7 +35,7 @@ b. Retentional Model
 
 c. Extensional Model
 
-*Figure 1.1* The Three Main Conceptions of Temporal Consciousness. [An extended description of Figure 1.1 is in the supplement.]
+\*Figure 1.1\* The Three Main Conceptions of Temporal Consciousness. [An extended description of Figure 1.1 is in the supplement.]
 
 In his influential writings on these matters William James argued that to make sense of our temporal experience we need to distinguish the *strict* or mathematical present from the *experiential* or *specious* present: whereas the first is indeed durationless, the second is experienced as possessing a brief duration, sufficient to accommodate the change and persistence we find in our immediate experience. Proponents of the cinematic model maintain that James was mistaken: to make sense of our temporal experience we don’t need anything resembling an extended specious present. Proponents of the extensional and retentional views maintain that we *do* need something resembling a specious present, but offer very different accounts of it.[^note-1]
 
@@ -225,7 +225,7 @@ When it comes to explaining the temporal structure of our consciousness the acco
 
 ![link to extended description below](../assets/consciousness-temporal/streams-stills.svg)
 
-*Figure 3.1* The Cinematic Model. [An extended description of Figure 3.1 is in the supplement.]
+\*Figure 3.1\* The Cinematic Model. [An extended description of Figure 3.1 is in the supplement.]
 
 As we saw earlier, this approach can be traced back as far as St. Augustine and was later advocated by Reid, and more recently by Bachelard. Phillipe Chuard (2011, 2017, 2020)[^chuard-2011][^chuard-2017][^chuard-2020] is a contemporary defender of the view, calling it the “snapshot theory”:
 
@@ -301,9 +301,9 @@ At the heart of Husserl’s account is a dynamic tri-partite view of the composi
 
 ![link to extended description below](../assets/consciousness-temporal/husserl-time.svg)
 
-*Figure 4.1* Husserl’s time diagram. [An extended description of Figure 4.1 is in the supplement.]
+\*Figure 4.1\* Husserl’s time diagram. [An extended description of Figure 4.1 is in the supplement.]
 
-The basic mechanics of Husserl's theory are depicted in Figure 4.1, where the horizontal axis represents a continuous flow of primal impressions, the vertical axes represent a selection of retentions (and in the case of F) protentions which accompany the primal impressions D, E and F. (Only a “selection” because in reality, according to Husserl, a continuous stretch of consciousness consists of a dense continuum of primal impressions, each of which is accompanied by its “comet’s tail” of retentions and protentions.) As can be seen, individual primal impressions are retained in later specious presents—increased “pastness” is indicated by a greater number of asterisks. What goes for momentary primal impressions also goes for intervals: D-E is retained at F in the form of the retentional continuum E*–D**.
+The basic mechanics of Husserl's theory are depicted in Figure 4.1, where the horizontal axis represents a continuous flow of primal impressions, the vertical axes represent a selection of retentions (and in the case of F) protentions which accompany the primal impressions D, E and F. (Only a “selection” because in reality, according to Husserl, a continuous stretch of consciousness consists of a dense continuum of primal impressions, each of which is accompanied by its “comet’s tail” of retentions and protentions.) As can be seen, individual primal impressions are retained in later specious presents—increased “pastness” is indicated by a greater number of asterisks. What goes for momentary primal impressions also goes for intervals: D-E is retained at F in the form of the retentional continuum E\*–D\*\*.
 
 The broad outlines of Husserl’s position may be clear enough, but the details pose more of a challenge. Husserl wrote voluminously on time-consciousness throughout his career but never found a position he was happy with for long—in his lectures from 1907–10 he found fault with the position he elaborated in the 1904–6 lectures—and he never published a definitive statement of his position. For useful introductions to Husserl’s views see Kortooms (2002)[^kortooms-2002] and Zahavi (2004, 2007, 2010)[^zahavi-2004][^zahavi-2007][^zahavi-2010].
 
@@ -409,7 +409,7 @@ Each of the two horizontal brackets in Figure 5.1 represents an act of awareness
 
 ![link to extended description below](../assets/consciousness-temporal/double-overlap.svg)
 
-*Figure 5.1* Foster’s double overlap theory featuring temporally extended awareness and contents. [An extended description of Figure 5.1 is in the supplement.]
+\*Figure 5.1\* Foster’s double overlap theory featuring temporally extended awareness and contents. [An extended description of Figure 5.1 is in the supplement.]
 
 In his *Stream of Consciousness* (2000, second edition 2006) Barry Dainton sets himself the goal of providing a phenomenological account of the sort of unity and continuity we find in our ordinary streams of consciousness. Dainton does not take any stand on the relationship between the experiential and the physical, other than to assume that consciousness is “an irreducible ingredient of reality in its own right” (2000 [2006: xiv]). He also adopts an indirect realist or “projectivist” view of perceptual experience.
 
@@ -429,7 +429,7 @@ In Figure 5.2 this dynamic flow is represented by horizontal arrows, and the upp
 
 ![link to extended description below](../assets/consciousness-temporal/simple-overlap.svg)
 
-*Figure 5.2* Dainton's Simple Overlap Model. [An extended description of Figure 5.1 is in the supplement.]
+\*Figure 5.2\* Dainton's Simple Overlap Model. [An extended description of Figure 5.1 is in the supplement.]
 
 In “Sensing Change” (2008a) Dainton introduces the “extensional model” as the doctrine that individual specious presents consist of “temporally extended episodes of experience that are apprehended as wholes”. Dainton also responds to Grush’s claim that the extensional model is incapable of accommodating temporal illusions such as the phi-phenomenon in a plausible manner: one way of making sense of the illusions is to suppose that our brains take some time before deciding on an interpretation of incoming stimuli. In response Grush (2017) offers several criticisms of this “delayed extensionalism”, and argues that the envisaged processing delay would be more problematic than Dainton realizes. Arstila (2016a)[^arstila-2016a] argues that the approaches defended by Grush and Dainton are both problematic, and offers his own alternative account of apparent motion.
 
@@ -533,7 +533,7 @@ The account of the structure of temporal consciousness Broad went on to develop 
 
 ![link to extended description below](../assets/consciousness-temporal/broad-theory.svg)
 
-*Figure 6.1* C.D. Broad's Theory. [An extended description of Figure 6.1 is in the supplement.]
+\*Figure 6.1\* C.D. Broad's Theory. [An extended description of Figure 6.1 is in the supplement.]
 
 Broad’s theory has its merits, but it also gives rise to some problems and puzzles. Let’s suppose that during the experiencing of the D-tone a brief flash of light is also experienced—in Figure 6.2 below the flash is represented by the asterisk shape. This flash falls under A1, and so is experienced by that awareness; it also falls under A2, and so is experienced by that awareness. Hence the problem: it looks as though the flash is experienced twice, when in reality it would be experienced only once. In fact the situation is far worse, because in Broad’s model there are many additional momentary apprehensions occurring between A1 and A2, each creating a different experience. As Mabbott puts it:
 
@@ -543,7 +543,7 @@ Dainton (2000 [2006: 141]) also suggests that Broad’s account is afflicted by 
 
 ![link to extended description below](../assets/consciousness-temporal/repetitions.svg)
 
-*Figure 6.2* Repetitions and Divergences. [An extended description of Figure 6.2 is in the supplement.]
+\*Figure 6.2\* Repetitions and Divergences. [An extended description of Figure 6.2 is in the supplement.]
 
 A further problem stems from the fact that on Broad’s account the periods during which we are continuously aware of contents can have a greater temporal extension than the contents themselves. Returning to Figure 6.2 the experience of the flash unfold over the very brief interval *e* shown in the diagram. The duration *d* stretches from A1 to A2 and corresponds to the entire period of time the subject was aware of the flash. As can be seen the interval *d* is considerably longer than *e*. Since contents that are apprehended by acts of awareness appear to be present, this means that—if Broad’s account is correct—brief events are experienced as present for considerably longer periods than they actually are present. By allowing us to experience an interval in an instant (or something close to it) Broad renders temporal experience incapable of accurately reflecting the temporal properties of the events we perceive. If our experience *were* misleading in this sort of way it is difficult to believe we would not notice. For further discussion of these aspects of Broad’s model see Dainton (2000 [2006: 6.2]), Tye (2003)[^tye-2003], Phillips (2010)[^phillips-2010] and Rashbrook (2012, 2017)[^rashbrook-2012][^rashbrook-2017].
 
@@ -635,7 +635,7 @@ The block conception of time has its advantages. It has an appealing simplicity,
 
 ![link to extended description below](../assets/consciousness-temporal/four-conceptions.svg)
 
-*Figure 8.1* Four conceptions of the large-scale composition of the universe. [An extended description of figure 8.1 is in the supplement.]
+\*Figure 8.1\* Four conceptions of the large-scale composition of the universe. [An extended description of figure 8.1 is in the supplement.]
 
 What McTaggart labelled the “A-series” runs from the distant past, up through the recent past to the present, and then on to the future. The “B-series” is the series of positions which runs from earlier to later, and vice-versa. Properties such *being past*, *present*, or *future* are often known as “A-properties”, whereas *being earlier than*, *being later than*, and *being simultaneous* are known as “B-properties” or “B-relations”. The block or eternalist conception of time is also often called “the B-theory”. The opposed dynamic conceptions of time are often called “A-theories”.
 

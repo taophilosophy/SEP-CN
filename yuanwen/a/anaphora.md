@@ -111,11 +111,11 @@ Few professors : *x* (*x* came to the party and *x* had a good time)
 
 The second reason for thinking pronouns in cases of discourse anaphora aren’t bound variables is that it seems committed to the claim that the following anomalous sentences aren’t anomalous:
 
-*15.
+\*15.
 
 John bought no sheep and Harry vaccinated them.
 
-*16.
+\*16.
 
 Every professor came to the party. He had a great time.
 
@@ -189,7 +189,7 @@ If Sarah owns a donkey, she beats it.
 
 Every woman who owns a donkey beats it.
 
-On the readings we are concerned with, neither (25) nor (26) is talking about any particular donkey, and so the pronoun “it” cannot be a term referring to a particular donkey. Further, in the case of (25), all independent evidence available suggests that a quantifier can’t take wide scope over a conditional and bind variables in its consequent (*“If John owns every donkeyᵢ, he beats itᵢ”). This suggests that the (apparent) quantifier “a donkey” in (25) cannot bind the pronoun in the consequent. In addition, even if “a donkey” could magically do this in (25), assuming it is an existential quantifier, we still wouldn’t get the intuitive truth conditions of (25), which require that Sarah beats *every* donkey she owns. Similarly, the independent evidence available suggests that quantifiers can’t scope out of relative clauses (*“A man who owns every donkeyᵢ beats itᵢ”), and so again the pronoun in (26) is not within the scope of its quantifier antecedent and so is not bound by it. Thus, the pronouns in both conditional and relative clause donkey sentences can be neither understood as referring expressions nor as bound variables.
+On the readings we are concerned with, neither (25) nor (26) is talking about any particular donkey, and so the pronoun “it” cannot be a term referring to a particular donkey. Further, in the case of (25), all independent evidence available suggests that a quantifier can’t take wide scope over a conditional and bind variables in its consequent (\*“If John owns every donkeyᵢ, he beats itᵢ”). This suggests that the (apparent) quantifier “a donkey” in (25) cannot bind the pronoun in the consequent. In addition, even if “a donkey” could magically do this in (25), assuming it is an existential quantifier, we still wouldn’t get the intuitive truth conditions of (25), which require that Sarah beats *every* donkey she owns. Similarly, the independent evidence available suggests that quantifiers can’t scope out of relative clauses (\*“A man who owns every donkeyᵢ beats itᵢ”), and so again the pronoun in (26) is not within the scope of its quantifier antecedent and so is not bound by it. Thus, the pronouns in both conditional and relative clause donkey sentences can be neither understood as referring expressions nor as bound variables.
 
 So now we have three cases of anaphoric pronouns that cannot be understood as referring expressions nor as bound variables: 1) pronouns in discourse anaphora; 2) pronouns in Geach discourses and 3) pronouns in (conditional and relative clause) donkey sentences. Let’s call these cases of *problematic anaphora*. The recent interest in anaphora is largely an interest in finding a semantic theory for problematic anaphora. In the next section, we outline the main theories that have arisen to fill this void.
 

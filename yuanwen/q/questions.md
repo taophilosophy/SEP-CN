@@ -181,7 +181,7 @@ The gist of the problem can be illustrated with a simple example. Consider a lan
 
 ![an alternative question with three disjuncts](../assets/questions/figure-1-three-ovals.png)
 
-*Figure 1:* An issue that cannot be represented in the pair-semantics.
+\*Figure 1:\* An issue that cannot be represented in the pair-semantics.
 
 The problem with the system of Groenendijk (2009)[^groenendijk-2009][^groenendijk-2009-2] and Mascarenhas (2009)[^mascarenhas-2009] is manifested by the fact that this issue cannot be represented by means of an indifference relation. An indifference relation over the information state $\{w_{pq},w_{qr},w_{pr}\}$ necessarily contains all reflexive world-pairs, and possibly one, two, or three non-reflexive pairs. In either case, however, the resulting issue does not correspond to the one depicted in Figure 1.
 
@@ -255,7 +255,7 @@ Is the door open? Yes. / No.
 
 **(14)**
 
-Is the door open or closed? *Yes. / *No.
+Is the door open or closed? \*Yes. / \*No.
 
 Yet, the two questions differ in that the first licenses answer particles like ‘yes’ and ‘no’ while the second doesn’t. In a structured-meanings approach, the two questions are semantically distinguishable. This additional semantic fine-grainedness forms the basis for an account of polarity particle responses.
 
@@ -465,7 +465,7 @@ In view of this, Cross introduces a contextual parameter in his account of how-q
 
 **(34)**
 
-A proposition $B$ is a direct answer to $\langle P,X,R,n\rangle$ iff there is some proposition $A$ such that $A$ is relevant to $\langle P,X,n\rangle$ and if $n = 0$, then $B$ is the proposition which is true iff $A$ and $P$ are true and every $C$ such that $C\in X$\$\{P\}$ is false, and if $n= 1$, then $B$ is the proposition which is true iff $A$ and all members of $X$ are true.
+A proposition $B$ is a direct answer to $\langle P,X,R,n\rangle$ iff there is some proposition $A$ such that $A$ is relevant to $\langle P,X,n\rangle$ and if $n = 0$, then $B$ is the proposition which is true iff $A$ and $P$ are true and every $C$ such that $C\in X$\\$\{P\}$ is false, and if $n= 1$, then $B$ is the proposition which is true iff $A$ and all members of $X$ are true.
 
 Having found examples in which how-questions have contrast value 1, Cross argues that why-questions, too, can presuppose that the other members of their contrast classes are true. Consider a therapy meeting for alcoholics in which each member of the group is asked the following question:
 

@@ -829,7 +829,7 @@ analytic/synthetic distinction | constructive empiricism | epsilon calculus | le
 
 [^glymour-1980]: Glymour, Clark N., 1980, *Theory and Evidence*, Princeton, NJ: Princeton University Press.
 
-[^gödel-1953]: Gödel, Kurt, *1953/9 [1995], “Is Mathematics Syntax of Language?”, unpublished manuscript. Published in Kurt Gödel *Collected Works*, volume 3, Oxford: Oxford University Press, 1995, pp. 334–363.
+[^gödel-1953]: Gödel, Kurt, \*1953/9 [1995], “Is Mathematics Syntax of Language?”, unpublished manuscript. Published in Kurt Gödel *Collected Works*, volume 3, Oxford: Oxford University Press, 1995, pp. 334–363.
 
 [^gödel-2003]: –––, 2003, *Collected Works, volume 4: Correspondence A-G*, Oxford: Oxford University Press.
 
@@ -837,7 +837,7 @@ analytic/synthetic distinction | constructive empiricism | epsilon calculus | le
 
 [^goldfarb-1979]: Goldfarb, Warren D., 1979, “Logic in the Twenties: The Nature of the Quantifier”, *Journal of Symbolic Logic*, 44(3): 351–368. doi:10.2307/2273128
 
-[^goldfarb-1995]: –––, 1995, “Introductory Note to Gödel *1953/9”, in Kurt Gödel, *Collected Works*, volume 3, Oxford: Oxford University Press, pp. 324–334.
+[^goldfarb-1995]: –––, 1995, “Introductory Note to Gödel \*1953/9”, in Kurt Gödel, *Collected Works*, volume 3, Oxford: Oxford University Press, pp. 324–334.
 
 [^goldfarb-1996]: –––, 1996, “The Philosophy of Mathematics in Early Positivism”, in Giere and Richarson 1996: 213–230.
 

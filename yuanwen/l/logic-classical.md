@@ -301,7 +301,7 @@ The rule $({=}\mathrm{E})$ indicates a certain restriction in the expressive res
 
 One final clause completes the description of the deductive system $D$:
 
-(*)
+(\*)
 
 That’s all folks. $\Gamma \vdash \theta$ only if *θ* follows from members of *Γ* by the above rules.
 
@@ -323,7 +323,7 @@ Suppose that the last rule applied was $(\exists$E), we have $\Gamma_3 \vdash \e
 
 Theorem 8 allows us to add on premises at will. It follows that $\Gamma \vdash \phi$ if and only if there is a subset $\Gamma'\subseteq \Gamma$ such that $\Gamma'\vdash \phi$. Some systems of relevant logic do not have weakening, nor does substructural logic (See the entries on relevance logic, substructural logics, and linear logic).
 
-By clause (*), all derivations are established in a finite number of steps. So we have
+By clause (\*), all derivations are established in a finite number of steps. So we have
 
 **Theorem 9**. $\Gamma \vdash \phi$ if and only if there is a finite $\Gamma'\subseteq \Gamma$ such that $\Gamma'\vdash \phi$.
 

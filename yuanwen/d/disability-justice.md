@@ -535,7 +535,7 @@ As of the 2026 revision, Jessica Begon has taken over responsibility for updatin
 
 [^southwood-2018]: Southwood, Nicholas, 2018, “The Feasibility Issue”, *Philosophy Compass*, 13(8): 1–13.
 
-[^sparrow-2005]: Sparrow, Robert, 2005, “Defending Deaf Culture: The Case of Cochlear Implants*”, *Journal of Political Philosophy*, 13(2): 135–152. doi:10.1111/j.1467-9760.2005.00217.x
+[^sparrow-2005]: Sparrow, Robert, 2005, “Defending Deaf Culture: The Case of Cochlear Implants\*”, *Journal of Political Philosophy*, 13(2): 135–152. doi:10.1111/j.1467-9760.2005.00217.x
 
 [^stark-2007]: Stark, Cynthia A., 2007, “How to Include the Severely Disabled in a Contractarian Theory of Justice”, *Journal of Political Philosophy*, 15(2): 127–145. doi:10.1111/j.1467-9760.2005.00257.x
 

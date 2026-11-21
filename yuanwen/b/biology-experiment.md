@@ -106,7 +106,7 @@ As another example, consider the models for DNA replication that were proposed i
 
 ![image from Lehninger 1975](../assets/biology-experiment/lehninger.jpg)
 
-*Figure 1.*
+\*Figure 1.\*
 
 In purely causal terms, what all these models show is that the sequence of nucleotides in a newly synthesized DNA molecule depends on the sequence of a pre-existing molecule. But the models also contain *structural* information such as information the DNA double helix topology and the movements undergone by a replicating DNA molecule (still hypothetical at that time). According to the model on the left, the so-called “conservative” model, the two strands of the DNA double helix do not separate prior to replication; they stick together and the daughter molecule grows along an intact double helix that acts as a template as a whole. According to the model in the middle, called the “semi-conservative” mechanism (believed to be correct today), the two strands do separate in the process. The newly synthesized strands grow along the separated pre-existing strands that each acts as templates. On the model on the right, the “dispersive” model, the two strands not only separate in the process, they are also cut into pieces that are then rejoined. While pure causal graphs (i.e., causal graphs that contain only information about what variables depend on what other variables causally) may be used to depict the causes of the separation and cutting events in semi-conservative and dispersive model, it also takes a description of the structure of the DNA molecule, including the topology and relative movements of the strands at different stages of the replication process. This is genuine mechanistic information that must supplement the information contained in the causal graphs in order to provide a normatively adequate mechanistic explanation.
 
@@ -116,7 +116,7 @@ Meselson and Stahl grew bacteria in a growth medium that contained a heavy nitro
 
 ![depiction of the Meselson-Stahl experiment](../assets/biology-experiment/watson.jpg)
 
-*Figure 2.* The Meselson-Stahl experiment. The depiction of the centrifuge is misleading; Meselson and Stahl were using a sophisticated analytic ultracentrifuge, not a swinging bucket preparatory centrifuge as this picture suggests. Furthermore, this representation of the experiment already contains its theoretical interpretation (Watson 1965)[^watson-1965].[^note-1]
+\*Figure 2.\* The Meselson-Stahl experiment. The depiction of the centrifuge is misleading; Meselson and Stahl were using a sophisticated analytic ultracentrifuge, not a swinging bucket preparatory centrifuge as this picture suggests. Furthermore, this representation of the experiment already contains its theoretical interpretation (Watson 1965)[^watson-1965].[^note-1]
 
 The outcome was exactly what one would expect on the basis of the semi-conservative model: After one round of replication, the DNA is exactly of intermediate density because it is a hybrid of a heavy and a light strand (containing heavy or light nitrogen, respectively). After another round, a light molecule appears which contains no heavy nitrogen. With the exception of the heavy/light hybrid, there are no other molecules of intermediate density (as one would expect on the dispersive scheme).
 

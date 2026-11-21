@@ -275,9 +275,9 @@ Kilwardby classifies signs into
 >
 > **(ii)**
 >
-> given signs; these divide into (ii′) signs that have a likeness of the thing signified—these divide further into (ii′*) those which are signs of something else, as spoken words are signs of the affections of the soul and the affections of things;
+> given signs; these divide into (ii′) signs that have a likeness of the thing signified—these divide further into (ii′\*) those which are signs of something else, as spoken words are signs of the affections of the soul and the affections of things;
 >
-> (ii′**)
+> (ii′\*\*)
 >
 > those which are signs of invisible grace, such as the sacraments (QLIVS 42, 225–26)
 >
@@ -285,7 +285,7 @@ Kilwardby classifies signs into
 >
 > signs that do not have a likeness of the thing signified.
 
-Of those signs that are signs of something else (ii′*), some signify by convention (*ad placitum*, which Kilwardby proves by their not being the same for everybody); others signify naturally (like the sounds of non-rational animals). Of those words that signify by convention, some are simple expressions, and others are complex expressions (*oratio* or *enuntiatio*). Only significative complex expressions are true or false; simple expressions are neither true nor false (NSLPery I.2).
+Of those signs that are signs of something else (ii′\*), some signify by convention (*ad placitum*, which Kilwardby proves by their not being the same for everybody); others signify naturally (like the sounds of non-rational animals). Of those words that signify by convention, some are simple expressions, and others are complex expressions (*oratio* or *enuntiatio*). Only significative complex expressions are true or false; simple expressions are neither true nor false (NSLPery I.2).
 
 Signifying by convention is the result of an original (voluntary) imposition of a *significatum* upon a word, primarily conceived of as a spoken word (*vox*) – a modulated sound (DOS 488; see also QLIVS 42, 224).[^note-25] A word signifies the *passio mentis* and the thing outside the soul (QLIVS 11, 47). Spoken words signify primarily the *passio animi* (or *species intelligibilis* or *intellectus*; Lewry Pery, 289) and signify things via thoughts *(uoces sunt note intellectuum, et sic rerum)* (QLIS 144, 143). The *passio*, being a likeness of a thing in the mind—received rather than made by us—is common to all human beings (LPA ed. 1516, 82rb).
 

@@ -227,7 +227,7 @@ We depict this example with the following diagram. Inside each circle is a label
 
 ![Four circles each with a possible state of p,q and probability arrows between them](../assets/logic-probability/figure1.svg)
 
-*Figure*
+\*Figure\*
 
 **Stochastic Interpretation:** Consider the elements $a$ and $b$ of $A$ to be actions, for example, pressing buttons on a machine. In this case, pressing a button does not have a certain outcome. For instance, if the machine is in state $x$, there is a $1/2$ probability it will remain in the same state after pressing $a$, but a $1/4$ probability of remaining in the same state after pressing $b$. That is,
 

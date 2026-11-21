@@ -344,14 +344,14 @@ Since definable determinacy lay at the heart of the structure theory, much of th
 
 (Martin actually used a somewhat weaker assumption but it is somewhat technical and it would not be illuminating to state it here.)
 
-In early 1979, Woodin extended this by showing that PD follows from much stronger large cardinal hypotheses. To describe this, let us introduce some terminology: Suppose *j* : *V*_{λ+1} → *V*_{λ+1} is a non-trivial elementary embedding. Let κ₀(*j*) be the critical point of *j* and for each *n* let κ_{*n*+1}(*j*) = *j*(κ_{*n*}(*j*)). Let κ_{*w*}(*j*) ={sup}_{n<ω}κ_{*n*}(*j*). (Notice that *j*(κ_{ω}(*j*)) = κ_{ω}(*j*).) A sequence of embeddings *j*₀,…, *j*_{*n*} is an *n**-fold strong rank to rank embedding sequence* if there exists a λ such that
+In early 1979, Woodin extended this by showing that PD follows from much stronger large cardinal hypotheses. To describe this, let us introduce some terminology: Suppose *j* : *V*_{λ+1} → *V*_{λ+1} is a non-trivial elementary embedding. Let κ₀(*j*) be the critical point of *j* and for each *n* let κ_{*n*+1}(*j*) = *j*(κ_{*n*}(*j*)). Let κ_{*w*}(*j*) ={sup}_{n<ω}κ_{*n*}(*j*). (Notice that *j*(κ_{ω}(*j*)) = κ_{ω}(*j*).) A sequence of embeddings *j*₀,…, *j*_{*n*} is an *n-fold strong rank to rank embedding sequence* if there exists a λ such that
 
 1. for each *i* ≤ *n*, *j*_{*i*} : *V*_{λ+1} → *V*_{λ+1} is a non-trivial elementary embedding and
 2. for each *i* < *n*, κ_{ω}(*j*_{*i*}) < κ_{ω}(*j*_{*i*+1}).
 
 **Theorem 3.9** (Woodin 1979).
 
-*Assume* ZF. *For each* *n* < ω, *if there is an* *n**-fold strong rank to rank embedding sequence then* Π̰1*n*+2*-determinacy holds.*
+*Assume* ZF. *For each* *n* < ω, *if there is an* *n-fold strong rank to rank embedding sequence then* Π̰1*n*+2*-determinacy holds.*
 
 So PD follows from the assumption that for each *n*, there is an *n*-fold strong rank to rank embedding sequence.
 
@@ -451,7 +451,7 @@ However, just as in the previous subsection, one would like some assurance that 
 
 **Theorem 4.5** (Woodin).
 
-*The following are equivalent:* PD (*Schematic*). *For every* *n* < ω, *there is a fine-structural, countably iterable inner model* *M* *such that* *M* ⊧ “There are *n* Woodin cardinals”.
+*The following are equivalent:* PD (*Schematic*). *For every* *n* < ω, *there is a fine-structural, countably iterable inner model* *M* *such that* *M* ⊧ *“There are n Woodin cardinals”.*
 
 **Theorem 4.6** (Woodin).
 
@@ -521,13 +521,13 @@ For κ an infinite regular cardinal, let *H*(κ) be the set of all sets *x* such
 
 **Theorem 4.14.** (Woodin)
 
-*Suppose there is a proper class of Woodin cardinals and* *A* ∈ Γ^{∞}. *Suppose* *G* ⊆ ℙ *is* *V**-generic. Then* (*H*(ω₁),∈, *A*)^{*V*} ≺ (*H*(ω₁)^{*V*[*G*]},∈, *A*_{*G*}).
+*Suppose there is a proper class of Woodin cardinals and* *A* ∈ Γ^{∞}. *Suppose* *G* ⊆ ℙ *is* *V-generic. Then* (*H*(ω₁),∈, *A*)^{*V*} ≺ (*H*(ω₁)^{*V*[*G*]},∈, *A*_{*G*}).
 
 That is, we have generic absoluteness for “projective-in-*A*” where *A* is universally Baire. In fact, one has “Σ21(Γ^{∞})-generic absoluteness”:
 
 **Theorem 4.15.** (Woodin)
 
-*Suppose there is a proper class of Woodin cardinals and let* ϕ *be a sentence of the form* ∃*A* ∈ Γ^{∞} (*H*(ω₁), ∈, *A*) ⊧ ψ. *Suppose* *G* ⊆ℙ *is* *V**-generic. Then* *V* ⊧ ϕ *iff* *V*[*G*] ⊧ ϕ.
+*Suppose there is a proper class of Woodin cardinals and let* ϕ *be a sentence of the form* ∃*A* ∈ Γ^{∞} (*H*(ω₁), ∈, *A*) ⊧ ψ. *Suppose* *G* ⊆ℙ *is* *V-generic. Then* *V* ⊧ ϕ *iff* *V*[*G*] ⊧ ϕ.
 
 Stronger large cardinal axioms imply that many sets of reals beyond *L*(ℝ) are universally Baire. Let us call a set *absolutely* Δ21 if there are Σ21 formulas which define complementary sets of reals in all generic extensions. Woodin showed that if there is a proper class of measurable Woodin cardinals then all absolutely Δ21 sets of reals are universally Baire.[^note-13] This is one precise sense in which CH was an unfortunate choice of a test case for the program for large cardinals—large cardinal axioms effectively settle all questions of complexity strictly below (in the above sense) that of CH.[^note-14]
 

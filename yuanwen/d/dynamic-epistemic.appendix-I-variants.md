@@ -34,11 +34,11 @@ Kooi and Renne (2011a) study a relativized common knowledge-style extension of t
 
 ### 3. Logic of Communication and Change
 
-Van Benthem, van Eijck, and Kooi (2006) introduced $\LCC$, the Logic of Communication and Change, as a Propositional Dynamic Logic-like language that incorporates action models with substitution (see Appendix G). The language \eqref{LCC} of the Logic of Communication and Change and the set $\AM(\LCC)_*$ of pointed action models with substitution having preconditions in the language \eqref{LCC} are together defined by the following recursive grammar:
+Van Benthem, van Eijck, and Kooi (2006) introduced $\LCC$, the Logic of Communication and Change, as a Propositional Dynamic Logic-like language that incorporates action models with substitution (see Appendix G). The language \\eqref{LCC} of the Logic of Communication and Change and the set $\AM(\LCC)_*$ of pointed action models with substitution having preconditions in the language \\eqref{LCC} are together defined by the following recursive grammar:
 
 $$\begin{align*}\taglabel{LCC} F & \ccoloneqq p \mid F\land F \mid \lnot F \mid [\pi]F \mid [A,e]F \\ \pi & \ccoloneqq a \mid {?}F \mid \pi;\pi \mid \pi\cup\pi \mid \pi* \\ & \quad \small p\in\sP,\; a\in\sA,\; (A,e)\in\AM(\LCC)_* \end{align*}$$
 
-Expressions made using the start symbol *F* are called *formulas*, and expressions made using the start symbol *π* are called *programs*. The sublanguage (EPDL) of “Epistemic Propositional Dynamic Logic” is defined by disallowing formation of action model formulas $[A,e]F$ in the grammar for \eqref{LCC}. The semantics of this language is given as follows.
+Expressions made using the start symbol *F* are called *formulas*, and expressions made using the start symbol *π* are called *programs*. The sublanguage (EPDL) of “Epistemic Propositional Dynamic Logic” is defined by disallowing formation of action model formulas $[A,e]F$ in the grammar for \\eqref{LCC}. The semantics of this language is given as follows.
 
 - $M,w\models p$ holds if and only if $w\in V(p)$.
 - $M,w\models F\land G$ holds if and only if $M,w\models F$ and $M,w\models G$.
@@ -51,7 +51,7 @@ Expressions made using the start symbol *F* are called *formulas*, and expressio
 - $x\sem{\pi_1\cup\pi_2}y$ holds if and only if $x\sem{\pi_1}y$ or $x\sem{\pi_2}y$.
 - $x\sem{\pi*}y$ holds if and only if $x(\sem{\pi}^*)y$ holds, where $\sem{\pi}^*$ is the reflexive-transitive closure of $\sem{\pi}$.
 
-Van Benthem, van Eijck, and Kooi (2006) provide a sound and complete axiomatization for the logic $\LCC$ consisting of the validities of \eqref{LCC}. Completeness is via reduction to (EPDL). The authors also show that the language is highly expressive, including in particular relativized common knowledge among a group $\{a_1,\dots,a_n\}$ via the program
+Van Benthem, van Eijck, and Kooi (2006) provide a sound and complete axiomatization for the logic $\LCC$ consisting of the validities of \\eqref{LCC}. Completeness is via reduction to (EPDL). The authors also show that the language is highly expressive, including in particular relativized common knowledge among a group $\{a_1,\dots,a_n\}$ via the program
 
 $$ (a_1\cup\cdots\cup a_n)*. $$
 

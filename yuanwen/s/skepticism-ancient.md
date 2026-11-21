@@ -201,19 +201,19 @@ Scholars have asked whether it is a problem for skepticism if the Ten Modes appe
 
 Almost nothing is known about Agrippa (1ˢᵗ to 2ⁿᵈ century CE; SE *PH* 1.164–177; DL 9.88–89). However, the modes of argument that Sextus calls the Five Modes are attributed to him. These modes are among the most famous arguments of ancient skepticism (Barnes 1990, Hankinson 2010)[^hankinson-2010].
 
-> 5–1 *Diaphônia*:
+> **5–1 *Diaphônia***:
 > The mode that argues from disagreement. With respect to some matter that presents itself, there is undecided (*anepikriton*) conflict, both among the views of ordinary life and the views held by philosophers. Due to this, we are unable to choose or reject one thing, and must fall back on suspension.
 >
-> 5–2 *Eis apeiron ekballonta*:
+> **5–2 *Eis apeiron ekballonta***:
 > Arguments that throw one into an infinite *regress*. That which is brought forward to make a given matter credible needs yet something else to make *it* credible, and so on *ad infinitum*. Since we thus have no starting point for our argument, suspension of judgment follows.
 >
-> 5–3 *Pros ti*:
+> **5–3 *Pros ti***:
 > Arguments from *relativity*. *X* only ever appears such-and-such in relation to the subject judging and to the things observed together with it. Suspension on how *X* really is follows.
 >
-> 5–4 *Hypothesis*:
+> **5–4 *Hypothesis***:
 > Someone makes an assumption without providing argument. A dogmatist, if thrown back into an infinite regress of arguments, just assumes something as a starting-point, without providing an argument (*anapodeiktôs*). We suspend over mere hypotheses—they could be false, opposite hypotheses could be formulated, and so on.
 >
-> 5–5 *Ton diallêlon*:
+> **5–5 *Ton diallêlon***:
 > Arguments that disclose a *circularity*. This mode is used when that which ought to confirm a given investigated matter requires confirmation (*pistis*—credibility) from that matter. We are unable to assume either in order to establish the other. We suspend judgment on both.
 
 It is a commonplace to say that, while the Ten Modes, as presented in Sextus, are concerned with conflicting appearances, the Five Modes are about argument or proof. In these modes, the skeptics develop strategies by which to attack theories that the dogmatists defend. If this is how we characterize the Modes, Aristotle’s objection (section 2.3) immediately comes to mind. Do the Five Modes reveal the skeptic’s lack of understanding because they presuppose that everything is subject to proof? (Barnes 1990; Hankinson 1995, 182–92; Long 2006, ch.3)[^hankinson-1995][^long-2006] The three so-called formal modes—Regress, Hypothesis, and Circularity—can be construed in this fashion: when employing them, the skeptic can argue that every premise must be supported by argument; if it is not so supported, the theory begins from a mere hypothesis (on earlier uses of the term *hupothesis* in Plato and in medicine, cf. Cooper 2002 [2004a])[^cooper-2002]; or it is ultimately circular.

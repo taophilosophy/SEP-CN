@@ -101,10 +101,10 @@ To this effect, proponents of EBM have developed so-called “hierarchies of evi
 | --- | --- |
 | 1++ | High quality meta-analyses, systematic reviews of RCTs (including cluster RCTs), or RCTs with a very low risk of bias |
 | 1+ | Well conducted meta-analyses, systematic reviews of RCTs, or RCTs with a low risk of bias |
-| 1–* | Meta-analyses, systematic reviews of RCTs, or RCTs with a high risk of bias |
+| 1–\* | Meta-analyses, systematic reviews of RCTs, or RCTs with a high risk of bias |
 | 2++ | High quality systematic reviews of, or individual high quality non-randomised intervention studies (controlled non-randomised trial, controlled before-and-after, interrupted time series), comparative cohort and correlation studies with a very low risk of confounding, bias or chance |
 | 2+ | Well conducted, non-randomised intervention studies (controlled non-randomised trial, controlled before-and-after, interrupted time series), comparative cohort and correlation studies with a low risk of confounding, bias or chance |
-| 2–* | Non-randomised intervention studies (controlled non-randomised trial, controlled before-and-after, interrupted time series), comparative cohort and correlation studies with a low risk of confounding, bias or chance |
+| 2–\* | Non-randomised intervention studies (controlled non-randomised trial, controlled before-and-after, interrupted time series), comparative cohort and correlation studies with a low risk of confounding, bias or chance |
 | 3 | Non-Analytical studies (e.g., case reports, case series) |
 | 4 | Expert opinion, formal consensus |
 

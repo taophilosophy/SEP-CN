@@ -83,8 +83,8 @@ Consider the following minimal statement of presentism, *viz*. the ontological t
 
 There is a concern with **P**, understood as a statement of presentism, arguing that the use of the verb “exist” is ambiguous in a problematic way. The idea is that, once **P** is disambiguated properly, presentism is either trivially true (but consistent with non-presentist views) or else false. **P** admits of three apparently distinct readings:
 
-- (**P₁**) Only present things exist now.
-- (**P₂**) Only present things have existed, exist now, or will exist.
+- (**P₁**) Only present things *exist now*.
+- (**P₂**) Only present things *have existed*, *exist now*, or *will exist*.
 - (**P₃**) Only present things exist *simpliciter*.
 
 The underlined portions indicate a putative disambiguation of “exist”. Opponents insist that these are the only available readings of **P** and press the following argument:

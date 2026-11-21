@@ -325,11 +325,11 @@ More fully, the four-causal account of explanatory adequacy requires an investig
 
 *The Four Causes*
 
-| *material* | that from which something is generated and out of which it is made, e.g. the bronze of a statue. |
+| ***material*** | that from which something is generated and out of which it is made, e.g. the bronze of a statue. |
 | --- | --- |
-| *formal* | the structure which the matter realizes and in terms of which it comes to be something determinate, e.g., the shape of the president, in virtue of which this quantity of bronze is said to be a statue of a president. |
-| *efficient* | the agent responsible for a quantity of matter’s coming to be informed, e.g. the sculptor who shaped the quantity of bronze into its current shape, the shape of the president. |
-| *final* | the purpose or goal of the compound of form and matter, e.g. the statue was created for the purpose of honoring the president. |
+| ***formal*** | the structure which the matter realizes and in terms of which it comes to be something determinate, e.g., the shape of the president, in virtue of which this quantity of bronze is said to be a statue of a president. |
+| ***efficient*** | the agent responsible for a quantity of matter’s coming to be informed, e.g. the sculptor who shaped the quantity of bronze into its current shape, the shape of the president. |
+| ***final*** | the purpose or goal of the compound of form and matter, e.g. the statue was created for the purpose of honoring the president. |
 
 In *Physics* ii 3, Aristotle makes twin claims about this four-causal schema: (i) that citing all four causes is *necessary* for adequacy in explanation; and (ii) that these four causes are *sufficient* for adequacy in explanation. Each of these claims requires some elaboration and also some qualification.
 

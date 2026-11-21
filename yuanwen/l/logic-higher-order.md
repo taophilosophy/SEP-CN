@@ -19,13 +19,13 @@ With just the constant $0$ and the unary function $n \mapsto n^+$ (where $n^+$ m
 
 $$\tag{1}\label{ind} \forall X\left(\left[X(0) \land \forall y\left(X(y) \to X(y^+)\right)\right] \to \forall y\,X(y)\right), $$
 
-of natural numbers. This, together with the axioms $\forall x\,\neg(x^+=0)$ and $\forall x\,\forall y(x^+=y^+\to x=y)$ characterizes the natural numbers with their successor operation up to isomorphism. In first order logic any theory which has a countably infinite model has also an uncountable model (by the Upward Löwenheim Skolem Theorem). Hence (\ref{ind}) cannot be expressed in first order logic. Another typical second-order expression is the *Completeness Axiom* of the linear order $\le$ of the real numbers:
+of natural numbers. This, together with the axioms $\forall x\,\neg(x^+=0)$ and $\forall x\,\forall y(x^+=y^+\to x=y)$ characterizes the natural numbers with their successor operation up to isomorphism. In first order logic any theory which has a countably infinite model has also an uncountable model (by the Upward Löwenheim Skolem Theorem). Hence (\\ref{ind}) cannot be expressed in first order logic. Another typical second-order expression is the *Completeness Axiom* of the linear order $\le$ of the real numbers:
 
 $$\tag{2}\label{comp} \begin{align} &\forall X\left(\left[\exists y\,X(y) \land \exists z\,\forall y(X(y) \to y \le z)\right]\right. \to\\ &\qquad\left.\exists z\,\forall y\left(\exists u\left(X(u) \land y \le u\right) \lor z \le y\right)\right), \end{align}$$
 
-This, together with the axioms of ordered fields characterizes the ordered field of real numbers up to isomorphism. In first order logic any countable theory which has an infinite model has also a countable model (by the Downward Löwenheim Skolem Theorem). Hence, again, (\ref{comp}) cannot be expressed in first order logic.
+This, together with the axioms of ordered fields characterizes the ordered field of real numbers up to isomorphism. In first order logic any countable theory which has an infinite model has also a countable model (by the Downward Löwenheim Skolem Theorem). Hence, again, (\\ref{comp}) cannot be expressed in first order logic.
 
-To early logicians it seemed natural to use second-order logic on a par with first order logic, as if there were not much difference. This included Russell, Löwenheim, Hilbert, and Zermelo. Essentially only Skolem emphasized the difference (see Moore 1988 for the emergence of first order logic)[^moore-1988]. In 1929 Gödel proved his Completeness Theorem and the next year his Incompleteness Theorem. It became gradually obvious that second-order logic is very different from first order logic. One of the first indicators was the incompleteness phenomenon. Gödel showed that any effective axiomatization of number theory is incomplete. On the other hand, there was a simple finite categorical—hence complete (§10)—axiomatization of the structure $(\oN,$ $+,$ $\times)$ in second-order logic (see also the discussion related to (\ref{ind})). This showed that there cannot be such a complete axiomatization of second-order logic as there was for first order logic. What became known in the case of first order logic as Gödel’s Completeness Theorem simply cannot hold for second-order logic.
+To early logicians it seemed natural to use second-order logic on a par with first order logic, as if there were not much difference. This included Russell, Löwenheim, Hilbert, and Zermelo. Essentially only Skolem emphasized the difference (see Moore 1988 for the emergence of first order logic)[^moore-1988]. In 1929 Gödel proved his Completeness Theorem and the next year his Incompleteness Theorem. It became gradually obvious that second-order logic is very different from first order logic. One of the first indicators was the incompleteness phenomenon. Gödel showed that any effective axiomatization of number theory is incomplete. On the other hand, there was a simple finite categorical—hence complete (§10)—axiomatization of the structure $(\oN,$ $+,$ $\times)$ in second-order logic (see also the discussion related to (\\ref{ind})). This showed that there cannot be such a complete axiomatization of second-order logic as there was for first order logic. What became known in the case of first order logic as Gödel’s Completeness Theorem simply cannot hold for second-order logic.
 
 The situation changed somewhat when Henkin proved the Completeness Theorem for second-order logic with respect to so-called general models (§9). Now it became possible to use second-order logic in the same way as first order logic, if only one keeps in mind that the semantics is based on general models. The ability of second-order logic to characterize mathematical structures up to isomorphism does not extend to general models (except in the form of internal categoricity—see §10). Any second-order theory, in a countable vocabulary, with an infinite general model has general models of *all* infinite cardinalities, and therefore cannot be categorical in the context of general models. We shall discuss general models and the related Henkin models in §9.
 
@@ -51,7 +51,7 @@ We did not take $X=Y$ as an atomic formula (although we could have) but having i
 
 $$\tag{3}\label{XY} \forall x_1\ldots \forall x_n(X(x_1,\ldots,x_n)\leftrightarrow Y(x_1,\ldots,x_n)) $$
 
-as a substitute for $X=Y$. The advantage of taking $X=Y$ as a basic atomic formula would be that using (\ref{XY}) brings along extra quantifiers. Sometimes it is interesting to minimize the number of quantifiers in a formula. Also, (\ref{XY}) gives the identity $X=Y$ an *extensional* flavour in contrast to a possibly different *intensional* construal.
+as a substitute for $X=Y$. The advantage of taking $X=Y$ as a basic atomic formula would be that using (\\ref{XY}) brings along extra quantifiers. Sometimes it is interesting to minimize the number of quantifiers in a formula. Also, (\\ref{XY}) gives the identity $X=Y$ an *extensional* flavour in contrast to a possibly different *intensional* construal.
 
 The concepts of a *free* and *bound* *occurrence* of a variable in a formula are defined in the usual way. A formula is called a *sentence* if it has no free variables. The concept of a term being *free* *for* a variable in a formula is defined as in first order logic.
 
@@ -117,7 +117,7 @@ $$\tag{4}\label{qqq} Q_1X_1\ldots Q_nX_n\phi, $$
 
 where each $Q_i$ is either $\exists$ or $\forall$ and *φ* is first order. That is, all second order quantifiers of the formula are in the front.
 
-| Notation | The $Q_i$ in (\ref{qqq}) are: |
+| Notation | The $Q_i$ in (\\ref{qqq}) are: |
 | --- | --- |
 | $\Sigma^1_1$ | All existential |
 | $\Pi^1_1$ | All universal |
@@ -131,9 +131,9 @@ where each $Q_i$ is either $\exists$ or $\forall$ and *φ* is first order. That 
 | $\Delta^1_2$ | Both $\Sigma^1_2$ and $\Pi^1_2$ formulas |
 | $\vdots$ | $\vdots$ |
 
-*Table 1:* The hierarchy of second-order formulas.
+\*Table 1:\* The hierarchy of second-order formulas.
 
-By restricting what kind of quantifiers the sequence $Q_1X_1\ldots Q_nX_n$ of the Prenex Normal Form (\ref{qqq}) can contain we obtain the classes of $\Sigma^1_n$-, $\Pi^1_n$- and $\Delta^1_n$-formulas, as indicated in Table 1. For example, the second-order formulas (1) and (2) are $\Pi^1_1$-formulas.
+By restricting what kind of quantifiers the sequence $Q_1X_1\ldots Q_nX_n$ of the Prenex Normal Form (\\ref{qqq}) can contain we obtain the classes of $\Sigma^1_n$-, $\Pi^1_n$- and $\Delta^1_n$-formulas, as indicated in Table 1. For example, the second-order formulas (1) and (2) are $\Pi^1_1$-formulas.
 
 We have considered above only quantifiers that bind relation variables but the situation is exactly the same if we had bound function variables.
 
@@ -143,7 +143,7 @@ $$\tag{5}\label{kurat} \Sigma^1_n \nsubseteq \Pi^1_n\text{ and } \Pi^1_n \nsubse
 
 which can be proved with a diagonalisation argument. The classes $\Delta^1_n$ are closed under $\land , \lor, \neg$ and first order quantifiers. By Craig’s Interpolation Theorem, $\Delta^1_1$-formulas are logically equivalent to first order formulas [^note-2].
 
-There is a sense in which $\Pi^1_1$, or equivalently $\Sigma^1_1$, already has the full power of second-order logic, although the above hierarchy result (\ref{kurat}) shows that this cannot literally be true. To see this, i.e., to see what the reduction of second-order logic to its $\Pi^1_1$-part means, let *L* be a vocabulary, *E* a binary and *U* a unary relation symbol, both not in *L*. Let *θ* be the second-order $\Pi^1_1$-formula
+There is a sense in which $\Pi^1_1$, or equivalently $\Sigma^1_1$, already has the full power of second-order logic, although the above hierarchy result (\\ref{kurat}) shows that this cannot literally be true. To see this, i.e., to see what the reduction of second-order logic to its $\Pi^1_1$-part means, let *L* be a vocabulary, *E* a binary and *U* a unary relation symbol, both not in *L*. Let *θ* be the second-order $\Pi^1_1$-formula
 
 $$\tag{6}\label{ex6} \forall X(\phi_1\land\phi_2\land\phi_3), $$
 
@@ -165,7 +165,7 @@ The hierarchy $\Sigma_n^1\cup \Pi_n^1$ inside second-order logic and the hierarc
 
 ### 5.1 Putting distance between second- and first-order logic
 
-Second-order logic has some remarkable qualities which we will now uncover in detail. Above we characterized the structure of the natural numbers by means of (\ref{ind}). This application of second-order logic is perhaps the most famous and most important. We now reformulate this in a slightly more general form in order to get more power out of it. Suppose *U* is a unary relation variable (“the set of natural numbers”), *G* a unary function variable (“the successor function”), and *z* an individual variable (“the zero”). Let $\theta_{\textrm{PA}}(U,G,z)$ be the sentence
+Second-order logic has some remarkable qualities which we will now uncover in detail. Above we characterized the structure of the natural numbers by means of (\\ref{ind}). This application of second-order logic is perhaps the most famous and most important. We now reformulate this in a slightly more general form in order to get more power out of it. Suppose *U* is a unary relation variable (“the set of natural numbers”), *G* a unary function variable (“the successor function”), and *z* an individual variable (“the zero”). Let $\theta_{\textrm{PA}}(U,G,z)$ be the sentence
 
 $$\tag{7} \begin{align} &U(z)\land{}\\ &\forall x(U(x)\to(U(G(x))\land\neg G(x)=z))\land{}\\ &\forall x\,\forall y((U(x)\land U(y)\land G(x)=G(y))\to x=y)\land{}\\ &\forall X([X(z) \land \forall x((U(x)\land X(x)) \to X(G(x)))] \to {}\\ &\forall x(U(x)\to X(x))), \end{align} $$
 
@@ -189,11 +189,11 @@ is valid. We know that truth of first order sentences in $(\oN,+,\cdot,0)$ is un
 
 The Completeness Theorem is one of the cornerstones of our understanding of first order logic. Also many extensions of first order logic have a Completeness Theorem, most notably the extension of first order logic by the generalized quantifier “There are uncountably many” and the infinitary language $L_{\omega_1\omega}$. We shall now see that there is no hope of a Completeness Theorem for second-order logic. Later in §9.1 we shall modify the semantics so that a Completeness Theorem can be proved.
 
-Behind the failure of the Completeness Theorem is the fact that second-order logic is—almost by definition—able to say that a set is the power set of another set. What this means is the following: Let *L* be a vocabulary. Let *E* be a binary and *U* a unary relation symbol, both not in *L*. Let $\theta_{\textrm{Pow}}(U,E)$ be the second-order formula (\ref{ex6}). Let us consider the conjunction
+Behind the failure of the Completeness Theorem is the fact that second-order logic is—almost by definition—able to say that a set is the power set of another set. What this means is the following: Let *L* be a vocabulary. Let *E* be a binary and *U* a unary relation symbol, both not in *L*. Let $\theta_{\textrm{Pow}}(U,E)$ be the second-order formula (\\ref{ex6}). Let us consider the conjunction
 
 $$\tag{8}\label{papow} \theta_{\textrm{PA}}(U,G,z)\land\theta_{\textrm{Pow}}(U,E). $$
 
-Models of this formula are, up to isomorphism, of the form $(M,\in,N,g,a)$, where $\P(N)=M$, $N\cap\P(N)=\emptyset$ and $N$ is countably infinite. Thus the models are necessarily uncountable. This shows that second-order logic, unlike first order logic, has sentences with models but only uncountable ones. Thus the Downward Löwenheim-Skolem Theorem fails for second-order logic, as we already noted above. Combining (\ref{papow}) with the observations in §5.1 yields the following result (by validity we mean the set of Gödel numbers of valid formulas):
+Models of this formula are, up to isomorphism, of the form $(M,\in,N,g,a)$, where $\P(N)=M$, $N\cap\P(N)=\emptyset$ and $N$ is countably infinite. Thus the models are necessarily uncountable. This shows that second-order logic, unlike first order logic, has sentences with models but only uncountable ones. Thus the Downward Löwenheim-Skolem Theorem fails for second-order logic, as we already noted above. Combining (\\ref{papow}) with the observations in §5.1 yields the following result (by validity we mean the set of Gödel numbers of valid formulas):
 
 **Theorem 3 (Hintikka 1955; Montague 1963)[^hintikka-1955][^montague-1963]** Validity in second-order logic is not second-order definable over $(\oN,+,\cdot,0)$.
 
@@ -337,7 +337,7 @@ If we want to obtain a Downward Löwenheim-Skolem Theorem which works for any st
 
 **Theorem 8 (Magidor 1971)[^magidor-1971]** The LST-number of second-order logic exists if and only if there are supercompact cardinals $>\omega$ and then it is the smallest of them.
 
-Second-order logic is said to satisfy strong **κ*-compactness* if every second-order theory, every subset of size $<\kappa$ of which has a model, has itself a model.
+Second-order logic is said to satisfy strong *κ-compactness* if every second-order theory, every subset of size $<\kappa$ of which has a model, has itself a model.
 
 **Theorem 9 (Magidor 1971)[^magidor-1971]** The least *κ* such that second-order logic satisfies the strong *κ*-compactness is the least extendible cardinal.
 
@@ -383,7 +383,7 @@ An example of a very simple second-order inference in number theory would be
 
 $$ \frac{\dfrac{2+5<9}{\exists R\ R(2+5,9)}}{\exists F\,\exists R\ R(F(2,5),9)} $$
 
-A priori (\ref{CA}) might appear very strong as it stipulates the existence of a relation. However, such an *R* seems reasonable to accept because it is definable:
+A priori (\\ref{CA}) might appear very strong as it stipulates the existence of a relation. However, such an *R* seems reasonable to accept because it is definable:
 
 $$R=\{(a_1\ldots a_n) \in M^n: \mm\models \phi(a_1,\ldots, a_n)\}. $$
 
@@ -527,7 +527,7 @@ $$\tag{13}\label{internal} \vdash\categ(\theta(P)). $$
 
 Internal categoricity could also be called *provable categoricity*. The phrase ‘internal categoricity’ was introduced in the context of arithmetic in Walmsley (2002)[^walmsley-2002]. It was advocated more generally in Väänänen (2012)[^väänänen-2012], with more details in Väänänen and Wang (2015). We refer to Button and Walsh (2016) as well as Maddy and Väänänen (2023)[^väänänen-2023] for a recent discussion on this concept.
 
-Note that (\ref{internal}) is stronger than (\ref{redef}) because provable sentences are certainly valid. Owing to the Completeness Theorem we can rewrite (\ref{internal}) as
+Note that (\\ref{internal}) is stronger than (\\ref{redef}) because provable sentences are certainly valid. Owing to the Completeness Theorem we can rewrite (\\ref{internal}) as
 
 $$\tag{14}\label{internals} (\ma,\G)\models\categ(\theta(P))\text{ for all Henkin models $(\ma,\G)$}. $$
 
@@ -593,7 +593,7 @@ There is a marked similarity in the way $\mn_2$ arises from $\mn_1$ and in the w
 
 Mathematics can be based on set theory. This means that mathematical objects are construed as sets and their properties are derived from the axioms of set theory. The intuitive informal picture behind set theory is that there is a cumulative hierarchy $V_\alpha$ (*α* an ordinal) of sets and the axioms are intended to describe the basic properties of such sets. This kind of set theoretical foundation of mathematics has become widely accepted among working mathematicians. We refer to the SEP entry on set theory for more details. Alternatives to set theory are at least category theory, constructive mathematics, and second-order logic.
 
-If one tries to follow as a logician the language mathematicians use in their research, one cannot help seeing that they use second-order concepts very freely. For example, the Induction Axiom is without doubt used by mathematicians in the second-order form depicted in (\ref{ind}). In their natural language mathematicians do not hesitate to use higher order concepts, and indeed do not always even (need to) know the difference.
+If one tries to follow as a logician the language mathematicians use in their research, one cannot help seeing that they use second-order concepts very freely. For example, the Induction Axiom is without doubt used by mathematicians in the second-order form depicted in (\\ref{ind}). In their natural language mathematicians do not hesitate to use higher order concepts, and indeed do not always even (need to) know the difference.
 
 Second-order logic as a foundation for mathematics focuses on mathematical structures rather than mathematical “objects”, as set theory does. In principle every structure has its own “foundation” based on the special features of the structure. The role of second-order logic is to provide a common framework for this. The intuitive informal picture behind second-order logic on a structure is that there is a domain *A* of individuals and then separate domains for all *n*-ary relations for all $n\in\oN$ and for all *n*-ary functions for all $n\in\oN$, associated with *A*. In comparison to the informal picture of set theory, we have only the domains of subsets, relations and functions, not iterations such as sets of sets, sets of sets of sets and so on, as in set theory. Therefore the intuitive picture behind second-order logic is simpler than the picture behind set theory. In particular, there is no transfinite iteration over all ordinals. Most structures $\ma$ used in mathematics have a second-order characterization $\theta_\ma$, see §10. Proving (second order) properties *φ* of such structures means deriving *φ* from $\theta_\ma$. Opinions differ as to whether this derivation should be a syntactic (formal) derivation using some (incomplete) axiom system of second-order logic or whether it should be a semantic derivation (of the form “Every model of the assumptions is a model of the conclusion”). For a working mathematician there is not much difference and probably a semantic derivation is usually favored.
 
@@ -615,7 +615,7 @@ Perhaps the philosophy of second-order logic is that if a structure can be chara
 
 ## 14. Second-Order Arithmetic
 
-Owing to the central role that real numbers play in mathematics, the second-order theory of natural numbers, known as *second-order arithmetic* (Simpson 1999 [2009])[^simpson-1999], and denoted $Z_2$, is an important foundational theory. It is stronger than (first order) Peano arithmetic but weaker than set theory. It has variables for individuals thought of as natural numbers as well as variables for sets of natural numbers thought of as real numbers. In addition there are $+$ and $\times$ for arithmetic operations on the individuals. As axioms $Z_2$ has some rather obvious axioms about $+$ and $\times$, the Induction Axiom (\ref{ind}), and the axioms of second-order logic, including the Comprehension Principles (\ref{CA}). A surprising amount of mathematics can be derived in $Z_2$. We refer to Simpson (1999 [2009]) for details. In a sense, $Z_2$ is a great success story for second-order logic.
+Owing to the central role that real numbers play in mathematics, the second-order theory of natural numbers, known as *second-order arithmetic* (Simpson 1999 [2009])[^simpson-1999], and denoted $Z_2$, is an important foundational theory. It is stronger than (first order) Peano arithmetic but weaker than set theory. It has variables for individuals thought of as natural numbers as well as variables for sets of natural numbers thought of as real numbers. In addition there are $+$ and $\times$ for arithmetic operations on the individuals. As axioms $Z_2$ has some rather obvious axioms about $+$ and $\times$, the Induction Axiom (\\ref{ind}), and the axioms of second-order logic, including the Comprehension Principles (\\ref{CA}). A surprising amount of mathematics can be derived in $Z_2$. We refer to Simpson (1999 [2009]) for details. In a sense, $Z_2$ is a great success story for second-order logic.
 
 *Reverse mathematics* uses $Z_2$ to isolate the exact axioms on which well-known theorems from mathematics rely. In a textbook such theorems are proved perhaps in an informal set theory, but how much set theory is actually needed in each case? For example, we may ask what is the weakest set of axioms from which the Bolzano-Weierstrass Theorem[^note-21] can be proved? How much set theory, comprehension, choice, induction, etc is needed? Since $Z_2$ is a natural and sufficient environment for many mathematical theorems, it is an appropriate framework for answering questions raised by the reverse mathematics program. The main (but not the only) distinctions that are made in reverse mathematics concern the amount of the Comprehension Principle that is needed in proving this or that mathematical result. In particular, the role of Arithmetic and $\Pi^1_1$-Comprehension Principles is clarified. The basic theory of real numbers can be developed on the basis of Arithmetic Comprehension only, but proofs relying on the notion of a countable ordinal require the $\Pi^1_1$-Comprehension Principle. Again, we refer to Simpson (1999 [2009]) for details.
 

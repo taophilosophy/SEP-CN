@@ -471,7 +471,7 @@ Much of Bonaventure’s argumentation here depends upon the teaching of Guibert 
 
 [^delorme-1951]: Delorme, Ferdinand-Marie (ed.), 1951, “Textes Franciscains: III. Lettre de S. Bonaventura «Innominato Magistro»”, *Archivio Italiano per la Storia della Pietà*, 1: 209–218.
 
-[^legendae-1941]: [Legendae] Doctoris Seraphici S. Bonaventuare Legenda Maior et Legenda Minor S. Francisci, in *Legendae S. Francisci Assisiensis saec. XIII et XIV conscriptae, I* (Analecta Franciscana X), The Fathers of the Collegii S. Bonaventura (eds.), Florence: Quaracchi, 1941, 555–678.
+[^legendae-1941]: [Legendae] *Doctoris Seraphici S. Bonaventuare Legenda Maior et Legenda Minor S. Francisci*, in *Legendae S. Francisci Assisiensis saec. XIII et XIV conscriptae, I* (Analecta Franciscana X), The Fathers of the Collegii S. Bonaventura (eds.), Florence: Quaracchi, 1941, 555–678.
 
 [^bonaventurae-1934]: *S. Bonaventurae opera theologica selecta*, Vols. I–V, The Fathers of the Collegii S. Bonaventura (eds.), Florence: Quaracchi, 1934–1965.
 

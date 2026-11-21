@@ -305,7 +305,7 @@ My thanks to Juliet Floyd, Dick Schmitt, and Bryan Rogers for corrections.
 
 [^russell-1918]: –––, 1918, “The Philosophy of Logical Atomism,” in Marsh (ed.),1956.
 
-[^russell-1910]: –––, 1910–1913 [*PM*], *Principia Mathematica* to *56, with A. N. Whitehead, Cambridge: Cambridge University Press, 1990.
+[^russell-1910]: –––, 1910–1913 [*PM*], *Principia Mathematica* to \*56, with A. N. Whitehead, Cambridge: Cambridge University Press, 1990.
 
 [^russell-1910-2]: –––, 1910 [1994], *Philosophical Essays*, London: Routledge, 1994; originally published London; New York: Longmans, Green, 1910.
 

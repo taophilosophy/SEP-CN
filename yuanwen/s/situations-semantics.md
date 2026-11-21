@@ -469,17 +469,17 @@ Intuitions for (45) are not so clear, but (46) brings out a sharp difference bet
 
 **(46)**
 
-a. Every time I sell two teapots on a single day, I am entitled to a $5 bonus.
+a. Every time I sell two teapots on a single day, I am entitled to a \$5 bonus.
 
 **b.**
 
-Every time I sell more than two teapots on a single day, I am entitled to a $5 bonus.
+Every time I sell more than two teapots on a single day, I am entitled to a \$5 bonus.
 
 **c.**
 
-Every time I sell between two and five teapots on a single day, I am entitled to a $5 bonus.
+Every time I sell between two and five teapots on a single day, I am entitled to a \$5 bonus.
 
-Imagine that I sold exactly four teapots yesterday. 46(a) has an interpretation where I am entitled to a $10 bonus. On this reading, our quantification domain is some set of non-overlapping situations that are minimal situations in which I sold two teapots on the same day. Regardless of how we pair up yesterday’s four teapot sales to construct an acceptable counting domain, we always end up with exactly two bonus-qualifying situations. This shows that numeral expressions like *two teapots* do not obligatorily have maximalized interpretations. 46(a) contrasts with 46(b) and (c). 46(c) has no interpretation where I qualify for a $10 bonus if I sold four teapots yesterday. And 46(b) has no interpretation where I get $10 dollars if I sold six, for example. We can conclude, then, that numeral expressions of the form *more than n NP* or *between n and m NP* trigger denotations that are obligatorily maximalized, but this is not the case for simple numerals of the form *n NP*.
+Imagine that I sold exactly four teapots yesterday. 46(a) has an interpretation where I am entitled to a \$10 bonus. On this reading, our quantification domain is some set of non-overlapping situations that are minimal situations in which I sold two teapots on the same day. Regardless of how we pair up yesterday’s four teapot sales to construct an acceptable counting domain, we always end up with exactly two bonus-qualifying situations. This shows that numeral expressions like *two teapots* do not obligatorily have maximalized interpretations. 46(a) contrasts with 46(b) and (c). 46(c) has no interpretation where I qualify for a \$10 bonus if I sold four teapots yesterday. And 46(b) has no interpretation where I get \$10 dollars if I sold six, for example. We can conclude, then, that numeral expressions of the form *more than n NP* or *between n and m NP* trigger denotations that are obligatorily maximalized, but this is not the case for simple numerals of the form *n NP*.
 
 Returning to the donkey sentences we looked at earlier, we now understand why 47(a) and (b) (repeated from above) do not simply quantify over minimal situations in a naïve sense:
 

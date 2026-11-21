@@ -317,7 +317,7 @@ Naturally, there are three ways to challenge the MOA so construed, each correspo
 
 To draw out this problem, consider the following *Reverse MOA* (*RMOA*):
 
-i*.
+i\*.
 
 Possibly, God doesn’t exist.
 
@@ -325,15 +325,15 @@ Possibly, God doesn’t exist.
 
 Necessarily, if God exists, then it is necessary that God exists.
 
-iii*.
+iii\*.
 
-(Hence) It is necessary that God doesn’t exist. (i*, ii)
+(Hence) It is necessary that God doesn’t exist. (i\*, ii)
 
-Like the MOA, the RMOA is valid in S5. To see this, notice that (i*) is the negation of (iii) and that(iii) follows from (i) and (ii) in S5. Hence, (i*) and (ii) together entail the negation of (i)—i.e., they entail that it is *impossible* that God exists. This impossibility, in turn, is logically equivalent to (iii*).
+Like the MOA, the RMOA is valid in S5. To see this, notice that (i\*) is the negation of (iii) and that(iii) follows from (i) and (ii) in S5. Hence, (i\*) and (ii) together entail the negation of (i)—i.e., they entail that it is *impossible* that God exists. This impossibility, in turn, is logically equivalent to (iii\*).
 
-But (iii*) is incompatible with (iii), and (ii) is the same in both arguments. Thus, assuming (ii) and S5, (i) and (i*) are incompatible. And yet (i) and (i*) seem epistemically on par—it seems intolerably arbitrary to privilege one over the other absent further considerations. What’s needed is some principled reason favouring one over the other, i.e., a consideration that *breaks symmetry* between them. *Absent* such a symmetry breaker, however, the MOA is dialectically toothless—quite clearly, if you don’t already accept the claim that God exists, you won’t agree that (i) is more acceptable than (i*) absent some symmetry breaker. Thus, without a symmetry breaker, the MOA makes no headway in the dispute between theists and non-theists.
+But (iii\*) is incompatible with (iii), and (ii) is the same in both arguments. Thus, assuming (ii) and S5, (i) and (i\*) are incompatible. And yet (i) and (i\*) seem epistemically on par—it seems intolerably arbitrary to privilege one over the other absent further considerations. What’s needed is some principled reason favouring one over the other, i.e., a consideration that *breaks symmetry* between them. *Absent* such a symmetry breaker, however, the MOA is dialectically toothless—quite clearly, if you don’t already accept the claim that God exists, you won’t agree that (i) is more acceptable than (i\*) absent some symmetry breaker. Thus, without a symmetry breaker, the MOA makes no headway in the dispute between theists and non-theists.
 
-The natural solution to the symmetry problem, of course, is to offer a symmetry breaker favouring (i) over (i*). Categorisation problems loom on the horizon here—for example, many such symmetry breakers appeal to premises that aren’t *a priori*, and so they threaten MOA’s status as a properly *ontological* argument. Furthermore, even if they only appeal to *a priori* premises, symmetry breakers may represent distinct ontological arguments *in their own right*—distinct, that is, from the MOA. Notwithstanding these concerns, the MOA debate has centred around symmetry breaking, and hence symmetry breakers merit consideration here.
+The natural solution to the symmetry problem, of course, is to offer a symmetry breaker favouring (i) over (i\*). Categorisation problems loom on the horizon here—for example, many such symmetry breakers appeal to premises that aren’t *a priori*, and so they threaten MOA’s status as a properly *ontological* argument. Furthermore, even if they only appeal to *a priori* premises, symmetry breakers may represent distinct ontological arguments *in their own right*—distinct, that is, from the MOA. Notwithstanding these concerns, the MOA debate has centred around symmetry breaking, and hence symmetry breakers merit consideration here.
 
 For further discussion of the most influential MOA—Plantinga’s MOA—see (e.g.) Adams (1988)[^adams-1988], Chandler (1993)[^chandler-1993], Oppy (1995: 70–78, 248–259), Tooley (1981)[^tooley-1981], van Inwagen (1977)[^inwagen-1977], and Rasmussen (2018)[^rasmussen-2018]. For a recent re-casting of the modal ontological argument using only a standard extension of system K, see Hausmann (2022)[^hausmann-2022].
 
@@ -587,7 +587,7 @@ Anselm of Canterbury [Anselm of Bec] | Aquinas, Thomas | argument and argumentat
 
 [^adams-1994]: –––, 1994, *Leibniz: Determinist, Theist, Idealist*, New York: Oxford University Press.
 
-[^adams-1995]: –––, 1995, “Introductory Note to *1970”, in Kurt Gödel’s *Collected Works, Volume 3: Unpublished Essays and Lectures*, Solomon Feferman (ed.), New York: Oxford University Press, 388–402.
+[^adams-1995]: –––, 1995, “Introductory Note to \*1970”, in Kurt Gödel’s *Collected Works, Volume 3: Unpublished Essays and Lectures*, Solomon Feferman (ed.), New York: Oxford University Press, 388–402.
 
 [^adams-2016]: Adams, Sarah and Jon Robson, 2016, “Does Absence Make Atheistic Belief Grow Stronger?”, *International Journal for Philosophy of Religion*, 79(1): 49–68. doi:10.1007/s11153-015-9532-3
 

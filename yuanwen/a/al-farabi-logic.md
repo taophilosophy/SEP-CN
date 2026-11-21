@@ -129,11 +129,11 @@ He gives no examples, but here is one. In his book [*Syllogism*] 27.6f he claims
 
 We can paraphrase his claim:
 
-(*)
+(\*)
 
 If a first sentence is taken as universal negative with subject “stone” and predicate “animal”, and a second sentence is existential affirmative etc., and a third sentence etc., then the third sentence follows from the first two.
 
-This paraphrase (*) illustrates why “predicate” and “subject” are listed among the logical features, and also why logic has to consider compounds of primary concepts (since the three sentences express propositions, which are compounds of concepts). Al-Fārābī’s reference to being “asked about and taken in a question about them” could refer either to dialectical questions, or to the questions that extract information about concepts, or possibly to both.
+This paraphrase (\*) illustrates why “predicate” and “subject” are listed among the logical features, and also why logic has to consider compounds of primary concepts (since the three sentences express propositions, which are compounds of concepts). Al-Fārābī’s reference to being “asked about and taken in a question about them” could refer either to dialectical questions, or to the questions that extract information about concepts, or possibly to both.
 
 The features listed as characterizing the art of logic are concepts that classify other concepts, and so they are secondary concepts. This distinguishes logic from mathematics and natural science. For example, natural science finds causes, but these causes are “not outside the categories” ([*Letters*] (16) 68.17).
 
@@ -231,19 +231,19 @@ For further illumination on al-Fārābī’s understanding of logical consequenc
 
 But these are Neoplatonic commonplaces.[^note-22] Elsewhere al-Fārābī says deeper things about the rules of logic, as follows.
 
-Recall from Section 3 above that on al-Fārābī’s understanding, the correct methods of logic were known by the time of Plato, who had them “according to matter”, and it was Aristotle who reformulated them as “universal rules”. He very probably has the same thing in mind when he says that Aristotle in *Prior Analytics* considered declarative sentences “from the point of view of their composition (*ta’līf*) and not of their matter” ([*Commentary on De Interpretatione*] 53.3f). The point he is making here becomes clear if we go back to the example syllogism spelled out at (*) in Section 5 above. This is actually al-Fārābī’s second shot at this syllogistic mood. In his first shot ([*Syllogism*] 26.11f) he followed Aristotle’s preferred style and used letters *A*, *B*, *C* in place of the “matters” stone, animal, and body respectively. So a corresponding paraphrase will read
+Recall from Section 3 above that on al-Fārābī’s understanding, the correct methods of logic were known by the time of Plato, who had them “according to matter”, and it was Aristotle who reformulated them as “universal rules”. He very probably has the same thing in mind when he says that Aristotle in *Prior Analytics* considered declarative sentences “from the point of view of their composition (*ta’līf*) and not of their matter” ([*Commentary on De Interpretatione*] 53.3f). The point he is making here becomes clear if we go back to the example syllogism spelled out at (\*) in Section 5 above. This is actually al-Fārābī’s second shot at this syllogistic mood. In his first shot ([*Syllogism*] 26.11f) he followed Aristotle’s preferred style and used letters *A*, *B*, *C* in place of the “matters” stone, animal, and body respectively. So a corresponding paraphrase will read
 
-(**)
+(\*\*)
 
 For all primary concepts *A*, *B*, and *C*, if a first sentence is taken as universal negative with subject *A* and predicate *B*, etc. etc.
 
-Here (**) is a universal rule in the sense that it is for all *A*, *B*, and *C*; the premises and conclusion contain no matter and are bare compositions.
+Here (\*\*) is a universal rule in the sense that it is for all *A*, *B*, and *C*; the premises and conclusion contain no matter and are bare compositions.
 
 Mallet (1994: 329–335)[^mallet-1994] calls attention to a passage in [*Analysis*] 95.5–8, where al-Fārābī says he will explain “how we define syllogism” and how it is used.
 
 > Firstly, it is through knowledge of the topics, which are the universal premises whose particulars (*juz’iyyāt*) are used as major premises in a syllogism and in each separate art.
 
-If “particulars” means what it usually means in such a context, namely existentially quantified statements, then this is just wrong: existentially quantified statements are hardly ever major premises in syllogisms. But as Mallet points out, the passage makes sense if the “universal premises” are statements like (**) and their “particulars” are corresponding statements of the form (*). Al-Fārābī is then saying that natural language syllogisms are validated through being instances of universal rules stating that all arguments of a certain form are valid. If this is a correct reading, it makes al-Fārābī a formal logician in a strong sense. And indeed some writers have written about al-Fārābī’s “formalism” (Zimmermann 1981: xl)[^zimmermann-1981].
+If “particulars” means what it usually means in such a context, namely existentially quantified statements, then this is just wrong: existentially quantified statements are hardly ever major premises in syllogisms. But as Mallet points out, the passage makes sense if the “universal premises” are statements like (\*\*) and their “particulars” are corresponding statements of the form (\*). Al-Fārābī is then saying that natural language syllogisms are validated through being instances of universal rules stating that all arguments of a certain form are valid. If this is a correct reading, it makes al-Fārābī a formal logician in a strong sense. And indeed some writers have written about al-Fārābī’s “formalism” (Zimmermann 1981: xl)[^zimmermann-1981].
 
 However, there are reasons for caution. As Mallet’s paper shows, al-Fārābī in his further discussion of topics, both in [*Analysis*] and in [*Debate*], heads off in completely different directions (which are too complex to pursue here, but see Hasnawi 2009 and Karimullah 2014)[^hasnawi-2009][^karimullah-2014]. Moreover al-Fārābī has a habit of justifying inferences by reference to real-world information about their terms (i.e., their matter) that is not contained in the premises. He does this with the syllogistic mood *Baroco* ([*Syllogism*] 27.8–12, [*Short Syllogism*] 79.5–12), and there is a one-premise example at [*Commentary on De Interpretatione*] 136.10.[^note-23] Elsewhere he plays fast and loose with the “forms” of arguments, for example reducing a many-premise version of induction to a two-premise categorical syllogism without giving any indication of how a string of premises are reduced to a single one ([*Syllogism*] 35.14–18).
 
@@ -478,7 +478,7 @@ His skill as a performer was the stuff of legends; Netton (1992: 6)[^netton-1992
 
 [^canons-1938]: [*Canons*] “Fārābī’s Canons of Poetry”, A. J. Arberry (ed./trans.), 1938, *Rivista degli Studi Orientali*, 17(2): 266–278. (Arabic and translation.)
 
-[^catalogue-2005]: [*Catalogue*] *Iḥṣā al-‘ulūm* (*Catalogue of the sciences*), ‘Uthmān Amīn (ed.), Paris: Dar Bibliyun, 2005. Latin translations (1) by Gundisalvi in Jakob Schneider, *De Scientiis: secundum versionem Dominici Gundisalvi*, Herder, Freiburg 2006 (includes German translation); (2) by Gerard of Cremona in Alain Galonnier, Le De Scientiis Alfarabii de Gérard de Crémone: Contribution aux problèmes de l’acculturation au XIIe siècle (édition et traduction du texte), Turnhout: Brepols, 2017 (includes English translation).
+[^catalogue-2005]: [*Catalogue*] *Iḥṣā al-‘ulūm* (*Catalogue of the sciences*), ‘Uthmān Amīn (ed.), Paris: Dar Bibliyun, 2005. Latin translations (1) by Gundisalvi in Jakob Schneider, *De Scientiis: secundum versionem Dominici Gundisalvi*, Herder, Freiburg 2006 (includes German translation); (2) by Gerard of Cremona in Alain Galonnier, *Le De Scientiis Alfarabii de Gérard de Crémone: Contribution aux problèmes de l’acculturation au XIIe siècle (édition et traduction du texte)*, Turnhout: Brepols, 2017 (includes English translation).
 
 [^categories-1958]: [*Categories*] *Kitāb al-qāṭāghūrīyās ayy al-maqūlāt*, in [*Logic*] 1: 89–131; translated in D. M. Dunlop, 1958/1959, in “Al-Fārābī’s paraphrase of the *Categories* of Aristotle”, *Islamic Quarterly*, 4: 168–197 and 5(1): 21–54.
 

@@ -26,7 +26,7 @@ In recent times, however, there has emerged a growing minority position that cha
 
 There is an added complication. Of those philosophers who assume that visual experiences have representational content, some, like Jackson, do so within a framework in which the content is conceptual, while others such as Tye, Byrne, and Hilbert, take it to be non-conceptual. Furthermore, there are yet others, such as Peacocke (1984 [1997]), who hold that there are two distinct aspects to color experiences, one non-conceptual, the other conceptual. Peacocke defends a theory in which “looks red” is confined to the conceptual, representing sense. On this account, we must distinguish between two aspects to the visual experience had, when *S* sees a red object, and where it looks red to her;
 
-1. a sensational property red* is presented to *S*, in a region of her visual field;
+1. a sensational property red\* is presented to *S*, in a region of her visual field;
 2. *S* is in (or has) a state which represents, conceptually, to *S* that *X* (or at least something) is red.
 
 There is much debate on these topics in the philosophy of perception. Some authors who, in this context, address the topic of color are the following: D.H. Brown (2010), Chalmers (2006), Logue (2017), McGinn (1996), Nida-Rümelin (2007, 2008), Pautz (2010, 2020), and many others.

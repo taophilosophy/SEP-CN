@@ -654,7 +654,7 @@ Connect this as well with Sunstein’s views on group polarization, and especial
 
 [^luban-1996]: Luban, David, 1996, “The Principle of Publicity”, in Robert E. Goodin (ed.), *The Theory of Institutional Design*, Cambridge: Cambridge University Press, pp. 154–198.
 
-[^mccabe-2021]: McCabe, Helen, 2021, *John Stuart Mill: Socialist, *Montreal: McGill-Queen’s University Press.
+[^mccabe-2021]: McCabe, Helen, 2021, *John Stuart Mill: Socialist,* Montreal: McGill-Queen’s University Press.
 
 [^markovits-2006]: Markovits, Elizabeth, 2006, “The Trouble with Being Earnest: Deliberative Democracy and the Sincerity Norm”, *Journal of Political Philosophy*, 14(3): 249–69.
 

@@ -400,7 +400,7 @@ We thank Peter Carruthers, Christopher Gauker, Christopher Hill, Marta Jorba, Fe
 
 [^dretske-2003]: Dretske, Fred, 2003, “How Do You Know You Are Not a Zombie?”, in *Privileged Access: Philosophical Accounts of Self-Knowledge*, Brie Gertler (ed.), Aldershot/Burlington, VT: Ashgate, 1–14.
 
-[^feinberg-1978]: Feinberg, Irwin, 1978, “Efference Copy and Corollary Discharge: Implications for Thinking and Its Disorders*”, *Schizophrenia Bulletin*, 4(4): 636–640. doi:10.1093/schbul/4.4.636
+[^feinberg-1978]: Feinberg, Irwin, 1978, “Efference Copy and Corollary Discharge: Implications for Thinking and Its Disorders\*”, *Schizophrenia Bulletin*, 4(4): 636–640. doi:10.1093/schbul/4.4.636
 
 [^fernández-2010]: Fernández, Jordi, 2010, “Thought Insertion and Self-Knowledge”, *Mind & Language*, 25(1): 66–88. doi:10.1111/j.1468-0017.2009.01381.x
 

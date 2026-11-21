@@ -732,7 +732,7 @@ A number of scholars supported this work by providing comments on drafts or expe
 
 [^kershnar-2003]: Kershnar, Stephen, 2003, “The Duty to Hire the Most Qualified Applicant”, *Journal of Social Philosophy*, 34(2): 267–284. doi:10.1111/1467-9833.00180
 
-[^keyt-1991]: Keyt, David, 1991, “Aristotle’s Theory of Distributive Justice”, in A Companion to Aristotle’s Politics, David Keyt and Fred D. Miller, Jr. (eds), Oxford: Blackwell, pp. 238–278.
+[^keyt-1991]: Keyt, David, 1991, “Aristotle’s Theory of Distributive Justice”, in *A Companion to Aristotle’s Politics*, David Keyt and Fred D. Miller, Jr. (eds), Oxford: Blackwell, pp. 238–278.
 
 [^khanna-2022]: Khanna, Tarun and Michael Szonyi (eds.), 2022, *Making Meritocracy: Lessons from China and India, from Antiquity to the Present*, New York: Oxford University Press. doi:10.1093/oso/9780197602461.001.0001
 

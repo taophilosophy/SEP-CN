@@ -604,7 +604,7 @@ In this coauthored entry, Section 1 (Biographical Sketch) was contributed by Jam
 
 [^von-1971]: Von Wright, G. H., 1971, *Explanation and Understanding*, London: Routledge & Kegan Paul.
 
-[^vrijen-2006]: Vrijen, Charlotte, 2006, “Ryle and Collingwood: Their Correspondence and Its Philosophical Context*”, *British Journal for the History of Philosophy*, 14(1): 93–131. doi:10.1080/09608780500449198
+[^vrijen-2006]: Vrijen, Charlotte, 2006, “Ryle and Collingwood: Their Correspondence and Its Philosophical Context\*”, *British Journal for the History of Philosophy*, 14(1): 93–131. doi:10.1080/09608780500449198
 
 [^walsh-1967]: Walsh, W. H., 1967, *An Introduction to Philosophy of History*, London: Hutchinson University Press.
 

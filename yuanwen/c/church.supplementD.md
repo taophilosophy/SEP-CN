@@ -68,7 +68,7 @@ $$\lambda y \hdot + 1y\ 2$$
 
 $\lambda x \hdot x$ is a Polish diplomat and $x$ is a great pianist *Paderewski*.
 
-In general, when $\ulcorner \lambda \alpha \hdot \Psi\alpha]\urcorner$ is combined with an argument expression *β*, it should be read as *the value of the function that assigns Ψ to α for *β* as argument.*
+In general, when $\ulcorner \lambda \alpha \hdot \Psi\alpha]\urcorner$ is combined with an argument expression *β*, it should be read as *the value of the function that assigns Ψ to α for β as argument.*
 
 The elegance of the notation as a means for representing functions is obvious. The identity function, which is defined as $I\alpha= \alpha$ for any argument $\alpha,$ is represented by the abstract $\ulcorner \lambda \alpha \hdot \alpha\urcorner$. The function that duplicates or replicates its own argument is represented by the abstract $\ulcorner \lambda \alpha \hdot \alpha\alpha\urcorner$ (Church 1941 [BE: 202]). The constant function, which accepts α as well as any second argument *β* but always maps α to the same value regardless of *β*, is represented by the abstract $\ulcorner \hhdot \lambda \alpha \hdot \lambda b \alpha \urcorner$. (Note that Church sometimes adopts Russell’s notational convention (PM) that a greater number of dots indicates an outside bracket, while a smaller number indicates an inside bracket.)
 

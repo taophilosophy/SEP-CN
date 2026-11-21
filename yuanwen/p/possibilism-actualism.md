@@ -66,7 +66,7 @@ $\neg\Diamond\exists \sfx(\neg \sfA!\sfx \land \Diamond \sfA!\sfx)$
 
 For the actualist, then, the possibilist’s purported mode of contingent non-actuality, or *mere possibility*, is empty: necessarily, anything that *could have been* actual already *is* actual. Otherwise put, necessarily, there are no contingently non-actual things.[^note-5]
 
-Actualism is quite clearly the preferred common sense position here: on a first hearing, the idea that the Pope’s unborn children dwell in some shadowy corner of reality is to most ears ludicrous on its face—and defending against this common sense intuition remains arguably the central challenge facing the possibilist. But the motivations for possibilism are surprisingly strong. We have already noted what is perhaps the strongest of these: possibilism yields a straightforward, unified semantics for our modal discourse. By appealing to *possibilia*, the possibilist can provide satisfying truth conditions for otherwise semantically problematic modal statements like (2) along the lines of those for (1) that *ground* their intuitive truth in the modal properties of individuals. As we might also put it: possibilism provides *truthmakers* for such statements as (2) that actualism is apparently unable to supply. But a powerful second motivation is that possibilism falls out as a *consequence* of the most natural quantified modal logic. In particular, in that logic, (4) is an immediate logical consequence of (2). (We will spell out these motivations further in the following two sections.) These motivations in turn present a *twofold challenge for the actualist*:
+Actualism is quite clearly the preferred common sense position here: on a first hearing, the idea that the Pope’s unborn children dwell in some shadowy corner of reality is to most ears ludicrous on its face—and defending against this common sense intuition remains arguably the central challenge facing the possibilist. But the motivations for possibilism are surprisingly strong. We have already noted what is perhaps the strongest of these: possibilism yields a straightforward, unified semantics for our modal discourse. By appealing to *possibilia*, the possibilist can provide satisfying truth conditions for otherwise semantically problematic modal statements like (2) along the lines of those for (1) that *ground* their intuitive truth in the modal properties of individuals. As we might also put it: possibilism provides *truthmakers* for such statements as (2) that actualism is apparently unable to supply. But a powerful second motivation is that possibilism falls out as a *consequence* of the most natural quantified modal logic. In particular, in that logic, (4) is an immediate logical consequence of (2). (We will spell out these motivations further in the following two sections.) These motivations in turn present a ***twofold challenge for the actualist***:
 
 1. to provide a systematic and philosophically satisfying account of truth conditions for the likes of (2); and
 2. to develop a robust quantified modal logic that invalidates such inferences as the one from (2) to (4).
@@ -105,7 +105,7 @@ To be a mere *possibile*, then, according to Wyman, is to be *unactualized*, i.e
 
 For Quine, that is, their necessary non-concreteness notwithstanding, abstract objects exist no less robustly than we and, hence, in the context of the possibilism-actualism debate, are fully *actual*.[^note-20] A particular advantage of this view of *abstracta* for the debate is that, assuming that there could be no *necessarily* non-actual objects, *possibilia* are the only things lacking actuality in the possibilist’s universe and, hence, actualism can take a particularly common and familiar form:
 
-**Act***:
+**Act**\*:
 
 Necessarily, everything is actual.
 
@@ -115,7 +115,7 @@ That is, more formally put once again:
 
 $\Box\forall \sfx\,\sfA!\sfx$
 
-But the most important consequence of this wholesale shift in the ontological status of *abstracta* is that it opened the door to perhaps the most prominent form of contemporary actualism—dubbed (rather tendentiously) *ersatz modal realism* by David Lewis (1986: §3.1)—on which modal phenomena are understood in terms of *abstracta* of various sorts and, hence, in terms of actually existing things only, as per **Act***.[^note-21] (Ersatz modal realism is discussed in more detail in §4.2 and §4.4 below and in §2.2 of the *Encyclopedia*’s entry on possible worlds.)
+But the most important consequence of this wholesale shift in the ontological status of *abstracta* is that it opened the door to perhaps the most prominent form of contemporary actualism—dubbed (rather tendentiously) *ersatz modal realism* by David Lewis (1986: §3.1)—on which modal phenomena are understood in terms of *abstracta* of various sorts and, hence, in terms of actually existing things only, as per **Act**\*.[^note-21] (Ersatz modal realism is discussed in more detail in §4.2 and §4.4 below and in §2.2 of the *Encyclopedia*’s entry on possible worlds.)
 
 One final matter requires attention. Quine’s choice of Pegasus as his paradigmatic *possibile* in the above quote highlights the fact that even relatively modern discussions often conflate the two motivations for non-existent objects and, consequently, conflate fictional objects and *possibilia*, and this leads to an important confusion about the nature of *possibilia* that is important to avoid. It is particularly evident in another well-known Quinean passage. Returning to his own voice, in an attempt to show that possibilism is ultimately incoherent, Quine asks a series of rhetorical questions, beginning with the following:
 
@@ -129,7 +129,7 @@ With that problem corrected, this Quinean framing has by and large become the do
 
 We have characterized actualism as, first and foremost, the denial of possibilism, defined as the thesis (**Poss**) that there are things that contingently fail to be actual. Following the historical precedents just detailed, actuality has been depicted as the more robust of two purported modes of being. However, work by Linsky and Zalta (1994, 1996) and Williamson (1998, 2013)[^williamson-1998][^williamson-2013] casts doubt upon the viability of the possibilism-actualism distinction under this bi-modal conception. Williamson questions its coherence: what, exactly, is the nature of the “robustness” that allegedly distinguishes actuality from the merely possible; as Williamson (2013: 23ff) puts it: “being actual had better be actually doing something harder than just being…. But what is that harder thing…?” Convinced there is no cogent answer to the question, Williamson proposes scotching the possibilism-actualism distinction entirely in favor of an allegedly much clearer distinction between *necessitism* and *contingentism*, that is, between the thesis that, necessarily, all things exist necessarily ($\Box\forall \sfx \Box\exists \sfy\,\sfy=\sfx$) and its denial. (This distinction will be discussed in greater detail below.)[^note-24]
 
-Linsky and Zalta (1994: §4) do not so much question the coherence of the possibilism-actualism distinction (under the bi-modal conception) as dissolve it.[^note-25] Specifically, they show that, for all that the thesis (**Act***) that, necessarily, everything is actual tells us, there is nothing to prevent avowed possibilists like themselves[^note-26] from simply rejecting the idea that Prevost’s merely possible children “have a [mode] of being that is less than the full-fledged existence” that we enjoy, and insisting instead that they too are fully actual and, hence, exist as robustly as we do.[^note-27] It’s just that we, by sheer happenstance, are *concrete* and they are not; we, that is, happen to exist in the spatio-temporal causal order and they do not. But things might just as well have been the other way ’round: existence-wise, we are all on an ontological par. There are thus no *possibilia* in the sense of **Poss** at all; necessarily, everything is actual, as per **Act***. On this telling, then, Linsky and Zalta and their ilk all turn out to be fully-fledged actualists, their ontological commitments notwithstanding.
+Linsky and Zalta (1994: §4) do not so much question the coherence of the possibilism-actualism distinction (under the bi-modal conception) as dissolve it.[^note-25] Specifically, they show that, for all that the thesis (**Act**\*) that, necessarily, everything is actual tells us, there is nothing to prevent avowed possibilists like themselves[^note-26] from simply rejecting the idea that Prevost’s merely possible children “have a [mode] of being that is less than the full-fledged existence” that we enjoy, and insisting instead that they too are fully actual and, hence, exist as robustly as we do.[^note-27] It’s just that we, by sheer happenstance, are *concrete* and they are not; we, that is, happen to exist in the spatio-temporal causal order and they do not. But things might just as well have been the other way ’round: existence-wise, we are all on an ontological par. There are thus no *possibilia* in the sense of **Poss** at all; necessarily, everything is actual, as per **Act**\*. On this telling, then, Linsky and Zalta and their ilk all turn out to be fully-fledged actualists, their ontological commitments notwithstanding.
 
 Clearly, however, even if one is skeptical of the bi-modal conception, the core of the intended debate remains: whether or not to countenance the likes of Prevost’s possible children. In response to those who do, actualists define themselves simply as those who do not. The historical trajectory sketched above explains why the debate has often come to be framed in terms of distinct modes of being—*actuality* and *mere possibility*. But this bi-modal framing is inessential: when the intended debate is kept in the foreground, “actuality”, for the actualist, is best understood simply as a placeholder for whatever it is that allegedly distinguishes the likes of us (and abstract objects such as the numbers) from the likes of Prevost’s merely possible children. Linsky and Zalta (1994: §4) and Williamson (2013: §1.2) themselves draw the distinction by re-introducing what is essentially Bolzano’s characterization of *possibilia*: unlike concrete things like us and necessarily non-concrete *abstracta* like the numbers, *possibilia* are *contingently non-concrete*. On this characterization, possibilism can take a form that clarifies the debate without any mention of modes of being and, hence, avoids the above critiques:
 
@@ -161,7 +161,7 @@ So on this framing, for the possibilist, what allegedly distinguishes the likes 
 
 $\sfA!\tau \eqdf \sfC!\tau \lor \Box \neg \sfC!\tau,$ for any term *τ*
 
-That is, on this framing, to be actual is to be either concrete or necessarily non-concrete; or, more simply put, it is to be either concrete or abstract. It is a straightforward exercise to show that, under this definition of actuality, **Poss_{C}** is equivalent to the original definition **Poss** and that **Act_{C}** is equivalent to the principle **Act*** that, necessarily, everything is actual.[^note-28]
+That is, on this framing, to be actual is to be either concrete or necessarily non-concrete; or, more simply put, it is to be either concrete or abstract. It is a straightforward exercise to show that, under this definition of actuality, **Poss_{C}** is equivalent to the original definition **Poss** and that **Act_{C}** is equivalent to the principle **Act**\* that, necessarily, everything is actual.[^note-28]
 
 Of course, possibilists who are more inclined toward the bi-modal conception will still prefer the original framing of the debate in terms of a primitive notion of actuality as per **Poss** and **Act**. But even the most committed bi-modalist will agree that contingent non-concreteness is at least necessarily coextensive with mere possibility and, hence, its complement with actuality. So, for those skeptical of the original framing, nothing essential to the debate is lost if it is simply understood in terms of concreteness as per **Poss_{C}** and **Act_{C}**.
 
@@ -304,7 +304,7 @@ As the role of an individual constant in a theorem of *SQML* is essentially indi
 
 The metatheorem justifies the following derived rule of inference, where $\varphi,$ $\kappa,$ and *ν* are as indicated there:
 
-**Gen***:
+**Gen**\*:
 
 $\forall\nu\psi^\kappa_\nu$ follows from $\psi.$
 
@@ -338,7 +338,7 @@ $\exists \sfx\, \Diamond \neg \exists \sfy\, \sfy=\sfx$
 
 However, **CBF** is incompatible with the existence of contingent beings! For, as an instance of **CBF** we have
 
-**CBF***:
+**CBF**\*:
 
 $\exists \sfx\, \Diamond \neg \exists \sfy\, \sfy=\sfx \to \Diamond \exists \sfx\, \neg\exists \sfy\, \sfy=\sfx$
 
@@ -420,7 +420,7 @@ Serious actualism—also known as *property actualism* (Fine 1985)[^fine-1985], 
 
 All three of the controversial logical truths of SQML—**BF**, **CBF**, and $\Box\textbf{N}$—are invalid in KQML, that is, in KQML, they are not logically true. The key in each case is KQML’s modification of the way that quantified formulas are evaluated at worlds. As we saw in §3.3 above, the validity of **BF** in SQML—its truth in every interpretation—depends essentially on the fact that, in evaluating an existentially quantified formula $\exists\nu\varphi$ at an arbitrary possible world $w,$ the initial occurrence of $\exists\nu$ in the formula ranges unrestrictedly over all individuals. In KQML, by contrast, the range of the initial quantifier $\exists\nu$ is *restricted* to $\textit{dom}(w),$ to the individuals that exist in $w$. And, because what exists can vary from world to world, this renders **BF** invalid: from the fact that some world and some individual *existing in that world* are thus and so it certainly does not follow that some individual *existing in the actual world* and some world are thus and so. Notably, while in some worlds there are children of Prevost, nothing here in the actual world is a child of Prevost in any world, i.e., $\Diamond\exists \sfx\, \sfB\sfx$ is true and $\exists \sfx\Diamond \sfB\sfx$ is false. Hence, the **BF** instance
 
-**BF***:
+**BF**\*:
 
 $\Diamond\exists \sfx\, \sfB\sfx \to \exists \sfx \Diamond \sfB\sfx$
 
@@ -432,7 +432,7 @@ As we also saw in §3.3, **CBF** entails the principle **N** that everything (i.
 
 As noted in §3.2, the deductive system *SQML* is sound and complete for SQML—all and only the logical truths of SQML are provable in *SQML*, including the three controversial principles **BF**, **CBF**, and $\Box$**N**. Since, as we just saw in the previous section, those principles are all invalid in KQML, to formulate a sound and complete deductive system of his own, Kripke had to modify *SQML* rather severely to block the derivation of those principles without also blocking any of KQML’s valid formulas.
 
-Kripke’s solution is nicely illustrated by means of a (somewhat compressed) proof in *SQML* of **BF*** (the structure of which will be shared by the proof of any non-trivial instance of **BF**):
+Kripke’s solution is nicely illustrated by means of a (somewhat compressed) proof in *SQML* of **BF**\* (the structure of which will be shared by the proof of any non-trivial instance of **BF**):
 
 | 1. | $\forall \sfx \Box \neg \sfB\sfx \to \Box \neg \sfB\sfx$ | **Q2** |
 | --- | --- | --- |
@@ -450,7 +450,7 @@ Kripke’s solution is nicely illustrated by means of a (somewhat compressed) pr
 
 However, the proof cannot even get off the ground in KQML, as the universal instantiation schema **Q2** is invalid in KQML! To see this in the particular instance of line 1, suppose that $\forall \sfx \Box \neg \sfB\sfx$ is true in (i.e., true at the “actual world” of) a given Kripke interpretation $\calK$ with individuals $D$ and worlds $W$. Then, by the quantificational clause in the definition of truth at a world in Kripke’s semantics, everything that exists in the “actual world” $w^\ast$ of $\calK$ is not in the extension of $\sfB$ at any world $u$ in $W,$ i.e., for all $a \in \textit{dom}(w^\ast)$ and for all $u \in W,$ $a \notin \sfB^\calK_{u}$. Recall, however, that the value $\sfx^\calK$ assigned to $\sfx$ can be anything in the set $D$ of individuals of $\calK$; in particular, $\sfx^\calK$ might not exist in $w^\ast$ and, hence, might well be in the extension of $\sfB$ at some other world of $\calK,$ in which case $\Box\neg \sfB\sfx$ will be false in $\calK.$[^note-56]
 
-Here we begin to see the logical challenge that confronts the actualist: a logically valid principle of SQML—in this case, a standard principle of classical predicate logic—is rendered invalid when we attempt to revise our modal semantics so as to accommodate actualist intuitions. The challenge is then how (or whether) to revise the principle in question, and this in turn often requires a choice between several competing possibilities, each of which may require further revisions still. Kripke himself avoids several options that might suggest themselves in light of the invalidity of **Q2** in KQML. For instance, taking a lead from Prior (1957: 33–35)[^prior-1957], an actualist might argue that terms—individual constants and variables (when they occur freely)—are directly referring expressions like proper names and demonstratives and, hence, that an accurate model theoretic representation of actualism should require that the value $\tau^\calK$ that $\calK$ assigns to an arbitrary term *τ* should be restricted to the domain of the actual world $w^\ast$ of $\calK$—one cannot, after all, refer to individuals that don’t actually exist. This modification of KQML would indeed preserve the validity of **Q2**—but at the cost of springing another logical leak: it invalidates the rule **Nec** of Necessitation, in particular, the inference from line 1 to line 2 in the *SQML* proof of **BF*** above. For consider an interpretation $\calK$ in which the antecedent $\forall \sfx \Box \neg \sfB\sfx$ of line 1 is false at $w^\ast$ but true at some other world $u$. (Line 1, of course, is then trivially true at $w^\ast$.) Since $\forall \sfx \Box \neg \sfB\sfx$ is false at $w^\ast$, some individual $a$ in $w^\ast$ is in the extension of $\sfB$ at some world of $\calK$. We can assume without any loss of generality that $a$ is the very individual $\sfx^\calK$ that $\calK$ assigns to $\sfx$.[^note-57] Hence, the consequent $\Box\neg \sfB\sfx$ of line 1 is also false at $w^\ast$ and, indeed, at every world of $\calK$, including $u$. Since, by assumption, the antecedent of line 1 is true at $u$, line 1 itself is false at $u$ and, therefore, its necessitation, line 2, is false at every world, $w^\ast$ in particular.
+Here we begin to see the logical challenge that confronts the actualist: a logically valid principle of SQML—in this case, a standard principle of classical predicate logic—is rendered invalid when we attempt to revise our modal semantics so as to accommodate actualist intuitions. The challenge is then how (or whether) to revise the principle in question, and this in turn often requires a choice between several competing possibilities, each of which may require further revisions still. Kripke himself avoids several options that might suggest themselves in light of the invalidity of **Q2** in KQML. For instance, taking a lead from Prior (1957: 33–35)[^prior-1957], an actualist might argue that terms—individual constants and variables (when they occur freely)—are directly referring expressions like proper names and demonstratives and, hence, that an accurate model theoretic representation of actualism should require that the value $\tau^\calK$ that $\calK$ assigns to an arbitrary term *τ* should be restricted to the domain of the actual world $w^\ast$ of $\calK$—one cannot, after all, refer to individuals that don’t actually exist. This modification of KQML would indeed preserve the validity of **Q2**—but at the cost of springing another logical leak: it invalidates the rule **Nec** of Necessitation, in particular, the inference from line 1 to line 2 in the *SQML* proof of **BF**\* above. For consider an interpretation $\calK$ in which the antecedent $\forall \sfx \Box \neg \sfB\sfx$ of line 1 is false at $w^\ast$ but true at some other world $u$. (Line 1, of course, is then trivially true at $w^\ast$.) Since $\forall \sfx \Box \neg \sfB\sfx$ is false at $w^\ast$, some individual $a$ in $w^\ast$ is in the extension of $\sfB$ at some world of $\calK$. We can assume without any loss of generality that $a$ is the very individual $\sfx^\calK$ that $\calK$ assigns to $\sfx$.[^note-57] Hence, the consequent $\Box\neg \sfB\sfx$ of line 1 is also false at $w^\ast$ and, indeed, at every world of $\calK$, including $u$. Since, by assumption, the antecedent of line 1 is true at $u$, line 1 itself is false at $u$ and, therefore, its necessitation, line 2, is false at every world, $w^\ast$ in particular.
 
 The most common actualist way out of this problem does not attempt to salvage **Q2** but, rather, replaces it with its free logical counterpart (see, e.g., Fine 1978, Menzel 1991)[^fine-1978][^menzel-1991]:
 
@@ -484,19 +484,19 @@ The same goes for free variable occurrences—semantically, variables are essent
 
 $\forall \nu'(\forall\nu\varphi \to \varphi^\nu_{\nu'}),$ where $\nu'$ is substitutable for *ν* in *φ*
 
-Accordingly, line 1 of the proof of **BF*** requires an initial universal quantifier to bind the free occurrence of $\sfx$:
+Accordingly, line 1 of the proof of **BF**\* requires an initial universal quantifier to bind the free occurrence of $\sfx$:
 
-1.*
+1.\*
 
 $\forall \sfx(\forall \sfx \Box \neg \sfB\sfx \to \Box \neg \sfB\sfx)$
 
-Application of **Nec** to line 1* now yields only
+Application of **Nec** to line 1\* now yields only
 
-2.*
+2.\*
 
 $\Box\forall \sfx(\forall \sfx \Box \neg \sfB\sfx \to \Box \neg \sfB\sfx)$
 
-and the intended proof to **BF*** stalls out. To continue along the lines of the SQML proof above we would need to be able to swap the initial necessity operator $\Box$ in line 2* with the universal quantifier to infer
+and the intended proof to **BF**\* stalls out. To continue along the lines of the SQML proof above we would need to be able to swap the initial necessity operator $\Box$ in line 2\* with the universal quantifier to infer
 
 
 
@@ -591,7 +591,7 @@ A critical, and distinctive, element of Plantinga’s account is that there are 
 
 #### 4.2.2 Intended Haecceitist Interpretations
 
-As we saw in §4.1.3 above, the problem with KQML for actualists is that an intended Kripke interpretation for an applied modal language $\scrL_\Box$ appears to involve commitment to *possibilia* no less than SQML—to get the truth values of propositions like (2) right, an intended Kripke interpretation $\calK$ for $\scrL_\Box$ will still have to include mere *possibilia* like Prevost’s merely possible children; indeed, but for the addition of the domain function $\textit{dom}$ on worlds tacked on to invalidate the problematic validities of SQML, $\calK$ will be indistinguishable from an intended SQML interpretation of $\scrL_\Box$. Plantinga’s diagnosis, roughly put, is that Kripke’s semantics gets the *structure* of the modal universe right but that it needs his worlds and haecceities to realize that structure in an actualistically acceptable way. Specifically, an intended *haecceitist* interpretation $\calH$ for an applied modal language $\scrL_\Box$ is a Kripke interpretation that specifies sets $D$ and $W$ as usual, but $W$ is a sufficiently expansive set of Plantinga’s maximal possible states of affairs and $D$ a corresponding set of haecceities. The domain function $\textit{dom}$ as usual will map each possible world $w$ to a subset of $D,$ i.e., to a set of haecceities that Plantinga refers to as the *essential domain* of $w$. This is the set of haecceities that are *exemplified* in $w,$ where a haecceity $h$ is exemplified in $w$ just in case $w$ includes the state of affairs $h$’s being exemplified. Otherwise put, the essential domain $\textit{dom}(w)$ of $w$ consists of those haecceities that would have been exemplified if $w$ had obtained. Since, as noted above, haecceities are necessary beings that exist even if unexemplfied, they can serve as actually existing “proxies” for the individuals there *would have been* had $w$ obtained (Bennett 2006)[^bennett-2006]. In this way, Plantinga’s haecceitist interpretations can *represent* the possibilist’s non-actual worlds and their merely possible inhabitants without incurring any possibilist commitments.
+As we saw in §4.1.3 above, the problem with KQML for actualists is that an intended Kripke interpretation for an applied modal language $\scrL_\Box$ appears to involve commitment to *possibilia* no less than SQML—to get the truth values of propositions like (2) right, an intended Kripke interpretation $\calK$ for $\scrL_\Box$ will still have to include mere *possibilia* like Prevost’s merely possible children; indeed, but for the addition of the domain function $\textit{dom}$ on worlds tacked on to invalidate the problematic validities of SQML, $\calK$ will be indistinguishable from an intended SQML interpretation of $\scrL_\Box$. Plantinga’s diagnosis, roughly put, is that Kripke’s semantics gets the *structure* of the modal universe right but that it needs his worlds and haecceities to realize that structure in an actualistically acceptable way. Specifically, an intended *haecceitist* interpretation $\calH$ for an applied modal language $\scrL_\Box$ is a Kripke interpretation that specifies sets $D$ and $W$ as usual, but $W$ is a sufficiently expansive set of Plantinga’s maximal possible states of affairs and $D$ a corresponding set of haecceities. The domain function $\textit{dom}$ as usual will map each possible world $w$ to a subset of $D,$ i.e., to a set of haecceities that Plantinga refers to as the *essential domain* of $w$. This is the set of haecceities that are *exemplified* in $w,$ where a haecceity $h$ is exemplified in $w$ just in case $w$ includes the state of affairs *$h$’s being exemplified*. Otherwise put, the essential domain $\textit{dom}(w)$ of $w$ consists of those haecceities that would have been exemplified if $w$ had obtained. Since, as noted above, haecceities are necessary beings that exist even if unexemplfied, they can serve as actually existing “proxies” for the individuals there *would have been* had $w$ obtained (Bennett 2006)[^bennett-2006]. In this way, Plantinga’s haecceitist interpretations can *represent* the possibilist’s non-actual worlds and their merely possible inhabitants without incurring any possibilist commitments.
 
 Because an intended haecceitist interpretation $\calH$ for an applied language $\scrL_\Box$ is a Kripke interpretation (with the serious actualism constraint enforced), every variable *ν* is, as usual, assigned a member $\nu^\calH$ of the set $D$ of individuals of $\calH,$ i.e., a haecceity, and every predicate *π* is assigned a set $\pi_w^\calH$ of *n*-tuples of haecceities in the essential domain of $w,$ for each world $w \in W$. Monadic atomic formulas, in particular, are evaluated as usual: $\pi\nu$ is true$_w^\calH$ just in case $\nu^\calH \in \pi_w^\calH$. However, although the *formal* truth conditions in $\calH$ for atomic formulas do not differ from those defined for atomic formulas in an intended SQML interpretation $\calM,$ it is important to understand that, in these different contexts, those formally identical truth conditions represent starkly different metaphysical conditions. Specifically, in an intended SQML interpretation $\calM,$ that $\nu^\calM \in \pi_w^\calM$ indicates that, at $w,$ the (perhaps merely possible) object $\nu^\calM$ exemplifies the property $P_\pi$ expressed by *π*. By contrast, in an intended haecceitist interpretation $\calH,$ that $\nu^\calH \in \pi_w^\calH$ indicates, not that $h$ *exemplifies* $P_\pi$ at $w,$ but that it is *coexemplified with* $P_\pi$ at $w$. Thus, for example, the truth condition for (2)—formalized as $\Diamond\exists \sfx\, \sfB\sfx$—in an intended haecceitist interpretation $\calH$ is obviously *not* that there is a possible world in which some haecceity $h$ is one of Prevost’s children—haecceities are properties and, hence, necessarily non-concrete—but, rather, that
 
@@ -679,7 +679,7 @@ That is, a singular assertion *φ* is *n*-statable only if each individual that 
 
 Prior’s final axiom for *n*-statability is essentially the converse: if all the individuals that *φ* names are necessary, then *φ* is *n*-statable. A simple convention enables us clearly to express this axiom (and others below) schematically. Let *θ* be any formula of $\scrL_{Q}$; then, for any $n \ge 0,$
 
-**SDef***:
+**SDef**\*:
 
 $\rS \tau_1\ldots\tau_n \to \theta =_{\textit df} \rS \tau_1 \to (\ldots \to (\rS \tau_n \to \theta)\ldots)$
 
@@ -700,7 +700,7 @@ Given the axioms for $\text S$ we can lay out the rest of Prior’s system $Q$. 
 - *Identity Axiom Schemas* **Id1**, **Id2**
 - *Rules of Inference* **MP**$_Q$: $\rS \tau_1\ldots\tau_n \to \psi$ follows from *φ* and $\varphi \to \psi,$ where $\tau_1, \ldots, \tau_n$ are all of the terms that are free in *φ* but not in $\psi.$ **Gen**: $\forall\nu\psi$ follows from *ψ*
 
-$Q$ also has its own version of **Gen***, which, recall, allows us to universally generalize on constants as if they were free variables:
+$Q$ also has its own version of **Gen**\*, which, recall, allows us to universally generalize on constants as if they were free variables:
 
 - **Gen**$\astQ$: Suppose *ψ* is a formula of $\scrL_{Q}$ that contains an individual constant *κ* of $\scrL_{Q}$ and that *ν* is a variable that is substitutable for *κ* in *ψ*. Then if *ψ* is a theorem of $Q$, so is $\forall\nu\psi^\kappa_\nu.$
 
@@ -846,7 +846,7 @@ Thus, in particular, for any property $F,$ by **GSA** and **Nec** we have that, 
 | 3. | $\sfE!\sfa$ |   | 1, 2 **MP** |
 | 4. | $\Box \sfE!\sfa$ |   | 3 **Nec** |
 
-However, if identity is a relation, then, given serious actualism, one is not self-identical at worlds in which one fails to exist. This might suggest restricting necessitation to theorems provable without any instance of **Id1**, which would block not only the inference from line 3 to line 4 but also the proof of the more general necessitist principle $\Box$**N** that, necessarily, everything necessarily exists, $\Box\forall \sfx \Box\exists \sfy\, \sfy=\sfx$. However, that would still not be enough for, as we saw above, necessitism also follows immediately from the instance **CBF*** of the converse Barcan formula, whose [^note-ProofOfCBFBox] involves no instance of **Id1**.
+However, if identity is a relation, then, given serious actualism, one is not self-identical at worlds in which one fails to exist. This might suggest restricting necessitation to theorems provable without any instance of **Id1**, which would block not only the inference from line 3 to line 4 but also the proof of the more general necessitist principle $\Box$**N** that, necessarily, everything necessarily exists, $\Box\forall \sfx \Box\exists \sfy\, \sfy=\sfx$. However, that would still not be enough for, as we saw above, necessitism also follows immediately from the instance **CBF**\* of the converse Barcan formula, whose [^note-ProofOfCBFBox] involves no instance of **Id1**.
 
 Adams (1981: 25)[^adams-1981] lays the blame for such problems on the classical quantification schema **Q2**. Following Fine (1978: §3), he adopts the solution mentioned above in our discussion of *KQML*, namely, replacing **Q2** with its free logical counterpart (which we rewrite here with $\sfE!$):
 
@@ -856,7 +856,7 @@ $\forall\nu\varphi \to (\sfE!\tau \to \varphi^\nu_\tau),$ where *τ* is any term
 
 It is a simple exercise to show that, with only **FQ2** at one’s disposal instead of **Q2**, one can only prove that **CBF** holds (innocuously) under the assumption that everything exists necessarily, which of course the typical actualist roundly rejects:
 
-CBF_{*A*}:
+**CBF_{*A*}**:
 
 $\vdash_{A} \forall \sfx \Box \sfE!\sfx \to (\exists\nu\Diamond \varphi \to \Diamond\exists\nu\varphi)$
 
@@ -876,11 +876,11 @@ $\sfE!\tau,$ for all terms *τ*
 
 and modifying necessitation accordingly:
 
-**Nec***:
+**Nec**\*:
 
 $\Box\psi$ follows from $\psi,$ so long as *ψ* is provable without any instance of **E!**$_{A}$.
 
-Given **E!**_{*A*} and a bit of propositional logic, all instances of **Q2** follow immediately from **FQ2**, and all instances of **Id1** follow from **FQ2** and $\boldsymbol{\forall}$**Id1**.[^note-91] But, because of the restriction in **Nec***, their necessitations do not.
+Given **E!**_{*A*} and a bit of propositional logic, all instances of **Q2** follow immediately from **FQ2**, and all instances of **Id1** follow from **FQ2** and $\boldsymbol{\forall}$**Id1**.[^note-91] But, because of the restriction in **Nec**\*, their necessitations do not.
 
 ##### Perspectivalism and *De Re* Modality
 
@@ -900,15 +900,15 @@ Thus, according to Adams, *de re* modal propositions are existence entailing: an
 
 $\triangle\varphi \to \sfE!\tau,$ where $\triangle$ is either $\Box$ or $\Diamond$ and *τ* is free in *φ*.
 
-An immediate consequence of **MSA** is to render many instances of $\Box\Diamond$ contingent. For, at an Adams-free world $w,$ $\neg \sfE!\sfa,$ for example, is true so, by **MSA** both $\neg\Diamond\neg \sfE!\sfa$ and $\neg\Box\neg \sfE!\sfa$ are true at $w$. So, given **MSA**, it appears that the equivalence between necessary truth and impossible falsehood holds at a world only for the propositions that exist there, i.e., in Prior’s terminology, the propositions that are *statable* there. Because, for the strict actualist, necessarily, a proposition exists if and only if all of its subjects exist, no new sentential operator is needed to express propositional existence; a simple counterpart to **SDef*** will do:
+An immediate consequence of **MSA** is to render many instances of $\Box\Diamond$ contingent. For, at an Adams-free world $w,$ $\neg \sfE!\sfa,$ for example, is true so, by **MSA** both $\neg\Diamond\neg \sfE!\sfa$ and $\neg\Box\neg \sfE!\sfa$ are true at $w$. So, given **MSA**, it appears that the equivalence between necessary truth and impossible falsehood holds at a world only for the propositions that exist there, i.e., in Prior’s terminology, the propositions that are *statable* there. Because, for the strict actualist, necessarily, a proposition exists if and only if all of its subjects exist, no new sentential operator is needed to express propositional existence; a simple counterpart to **SDef**\* will do:
 
-**E!Def***:
+**E!Def**\*:
 
 $\sfE!\varphi \to \theta =_{\textit df} \sf\sfE!\tau_1 \to (\ldots \to (\sf\sfE!\tau_n \to \theta)\ldots),$ where $\tau_1,\ldots,\tau_n$ are all of the terms that occur free in *φ*
 
 That is, $\sfE!\varphi \to \theta$ says that *θ* holds if all of *φ*’s subjects exist—hence, for the strict actualist, if the proposition (expressed by) *φ* itself exists. Note that, when *φ* is wholly general, $n=0$ and so $\sfE!\varphi \to \theta$ is just *θ*.
 
-Given **E!Def***, the observation above—that the equivalence of necessity and impossible falsehood at a world only holds for the propositions that exist there—can now be expressed axiomatically in the schema:
+Given **E!Def**\*, the observation above—that the equivalence of necessity and impossible falsehood at a world only holds for the propositions that exist there—can now be expressed axiomatically in the schema:
 
 **$\Box\Diamond_A$:**
 
@@ -922,13 +922,13 @@ Much like the instances of **Q2**, then, because $\sfE!\tau$ is an axiom of *A* 
 
 | 1. | $\sfL\sfp \to \sfL\sfp$ | *PL* |
 | --- | --- | --- |
-| 2. | $\Box(\sfL\sfp \to \sfL\sfp)$ | 1, **Nec*** |
+| 2. | $\Box(\sfL\sfp \to \sfL\sfp)$ | 1, **Nec**\* |
 | 3. | $\Box(\sfL\sfp \to \sfL\sfp) \to \sfE!\sfp$ | **MSA** |
 | 4. | $\sfE!\sfp$ | 2,3, **MP** |
-| 5. | $\Box \sfE!\sfp$ | 4, **Nec*** |
-| 6. | $\Box\forall \sfx\Box \sfE!\sfx$ | 5, **Gen***, **Nec*** |
+| 5. | $\Box \sfE!\sfp$ | 4, **Nec**\* |
+| 6. | $\Box\forall \sfx\Box \sfE!\sfx$ | 5, **Gen**\*, **Nec**\* |
 
-Clearly, as Adams (1981: 30)[^adams-1981] notes, a “suitable restriction” on necessitation (beyond **Nec***) is called for. Adams himself does not specify, but it is clear what it must be. Singular logical truths like $\sfL\sfp \to \sfL\sfp$ are indeed true at all worlds and, hence, necessary—but only contingently so; for, by **MSA**, $\Box(\sfL\sfp \to \sfL\sfp)$ is false at Prior-free worlds. More generally, just as the equivalence of necessity and impossible falsehood only holds at a world for the propositions that exist there, the necessity of a proposition at a world will only hold for the propositions that exist there. **Nec*** thus requires a qualification similar to $\Box\Diamond_A$’s:
+Clearly, as Adams (1981: 30)[^adams-1981] notes, a “suitable restriction” on necessitation (beyond **Nec**\*) is called for. Adams himself does not specify, but it is clear what it must be. Singular logical truths like $\sfL\sfp \to \sfL\sfp$ are indeed true at all worlds and, hence, necessary—but only contingently so; for, by **MSA**, $\Box(\sfL\sfp \to \sfL\sfp)$ is false at Prior-free worlds. More generally, just as the equivalence of necessity and impossible falsehood only holds at a world for the propositions that exist there, the necessity of a proposition at a world will only hold for the propositions that exist there. **Nec**\* thus requires a qualification similar to $\Box\Diamond_A$’s:
 
 **Nec**_{*A*}:
 
@@ -994,7 +994,7 @@ A number of philosophers who are at least sympathetic to strict actualism have p
 
 On this take, then, Adams fails to fully embrace his distinction between truth in a world and truth at a world. He evaluates negated propositions at worlds where they fail to exist from our perspective in the actual world, but does not extend the idea to modal propositions; instead, to evaluate a modal proposition $\Box\varphi$/$\Diamond\varphi$ at a world $w,$ he switches back to an internal perspective that requires the existence of *φ* in $w,$ i.e., the evaluative perspective that Prior adopted across the board. It is unsurprising, then, that Adams’ logic *A* restores only some of the logical truths that were lost in Prior’s $Q$. But, as Turner notes, a broader embrace of Adams’ perspectivalism would have us evaluate *all* propositions from our standpoint in the actual world. So “situated”, a modal proposition $\Box\varphi$/$\Diamond\varphi$ can then be considered true at a world $w$ simply if *φ* is (from our standpoint, not $w$)’s) true at all/some worlds. As in the shift from Prior to Adams, then, there is no change to the metaphysics of strict actualism but only a shift in the underlying (intuitive) semantics.[^note-94]
 
-The logical implications of maintaining this fixed perspective in the actual world are quite dramatic. First and foremost, it undermines the motivation for **MSA** entirely and, with it, the arguments against the validity of the principles $\Box\Diamond$, **4**, **B**, **5**, and the rule of necessitation **Nec***. All of those can therefore be embraced without the existence qualifications of $\Box\Diamond_A$, **4**$_A$, **B**$_A$, **5**$_A$, and $\textbf{Nec}_A$. Substituting the unqualified principles and the rule **Nec*** in their place results in what might be called a *fully* perspectivalist modal logic *A*\* for the strict actualist that restores everything that was lost in Prior’s *Q*, and does so without the expressive restrictions of Kripke’s *KQML*.
+The logical implications of maintaining this fixed perspective in the actual world are quite dramatic. First and foremost, it undermines the motivation for **MSA** entirely and, with it, the arguments against the validity of the principles $\Box\Diamond$, **4**, **B**, **5**, and the rule of necessitation **Nec**\*. All of those can therefore be embraced without the existence qualifications of $\Box\Diamond_A$, **4**$_A$, **B**$_A$, **5**$_A$, and $\textbf{Nec}_A$. Substituting the unqualified principles and the rule **Nec**\* in their place results in what might be called a *fully* perspectivalist modal logic *A*\* for the strict actualist that restores everything that was lost in Prior’s *Q*, and does so without the expressive restrictions of Kripke’s *KQML*.
 
 - *Propositional Axiom Schemas* **P1**, **P2**, **P2**
 - *Modal Axiom Schemas* **K**, **T**, **5**, $\Box\Diamond$
@@ -1002,7 +1002,7 @@ The logical implications of maintaining this fixed perspective in the actual wor
 - *Quantificational Axiom Schemas* **Q1**, **FQ2**, **Q3**
 - *Existence Axiom Schema* **E!**_{*A*}
 - *Identity Axiom Schemas* **∀Id1**, **Id2**
-- *Rules of Inference* **MP**, **Gen**, **Nec***
+- *Rules of Inference* **MP**, **Gen**, **Nec**\*
 
 *A*\* (under the name “*A*”) is proved sound and complete in Menzel 1991.
 
@@ -1266,7 +1266,7 @@ in *FOL* when there are no free occurrences of *ν* in $\varphi.$
 
 [^note-57]: There is no loss of generality because, if $\sfx^\calK \neq a$, we can just consider the interpretation $\calK[\frac{\sfx}{a}]$ in which that assignment is explicit.
 
-[^note-58]: In particular, if one simply replaces line 1 in the SQML proof of BF* with its **FQ2** counterpart, viz.,
+[^note-58]: In particular, if one simply replaces line 1 in the SQML proof of **BF\*** with its **FQ2** counterpart, viz.,
 
 | 1*'*. | $\forall \sfx \Box \neg \sfB\sfx \to (\exists \sfy\,\sfy=\sfx \to \Box \neg \sfB\sfx)$ | **FQ2** |
 | --- | --- | --- |
@@ -1282,7 +1282,7 @@ Line 3, after a bit of elementary propositional modal logic, leads to
 
 $$ \Box\exists \sfy\,\sfx=\sfy \to (\Diamond\forall \sfx \Box \neg \sfB\sfx \to \Diamond\Box \neg \sfB\sfx) $$
 
-i.e., line 3 of the original proof only follows on the assumption that $\sfx$ is a necessary being. And continuing the original proof from this point under that assumption only leads to the conclusion that BF* holds under the assumption of full necessitism, that is, it is only possible to prove:
+i.e., line 3 of the original proof only follows on the assumption that $\sfx$ is a necessary being. And continuing the original proof from this point under that assumption only leads to the conclusion that **BF\*** holds under the assumption of full necessitism, that is, it is only possible to prove:
 
 $$ \Box\forall \sfx \Box\exists \sfy\,\sfy=\sfx \to (\Diamond\exists \sfx \sfB\sfx \to \exists \sfx \Diamond \sfB\sfx) $$
 
@@ -1309,7 +1309,7 @@ However, when we express line 1 “properly” as per **KQ2** (assuming *ν* is 
 
 and the proof is stalled unless we can move to
 
-| 2*. | $\forall\nu\Box(\forall \nu\varphi \to \varphi)$ | 2, $\textbf{CBF}_{\Box}$ (!), **MP** |
+| 2\*. | $\forall\nu\Box(\forall \nu\varphi \to \varphi)$ | 2, $\textbf{CBF}_{\Box}$ (!), **MP** |
 | --- | --- | --- |
 
 which, of course, requires exactly the principle we are trying to prove.
@@ -1437,10 +1437,10 @@ $\rS\varphi \to \rS\epsilon$, where *ε* is either a predicate of *φ* or a term
 
 So $\textbf{Nec}\astQ$ simply allows us to move directly from line $n$ to line $n+4$ without the intervening three steps.
 
-[^note-82]: See the indicated lines in the proofs of **$\Box$Nec**, the **BF** instance BF*, and the **CBF** equivalent $\textbf{CBF}_{\Box}$:
+[^note-82]: See the indicated lines in the proofs of **$\Box$Nec**, the **BF** instance **BF\***, and the **CBF** equivalent $\textbf{CBF}_{\Box}$:
 
 - Proof of $\Box\textbf{Nec}$ (line 5)
-- Proof of BF* (line 2)
+- Proof of **BF\*** (line 2)
 - Proof of $\textbf{CBF}_\Box$ (line 2)
 
 Note that, replacing **Q2** with **KQ2** in *KQML* has a similar effect—there will be no theorems of the form $\Box\varphi$ if there are any free terms in *φ*.

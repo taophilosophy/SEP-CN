@@ -23,39 +23,39 @@ In much of modern historiography Boethius has been labelled “Averroist” or �
 
 Boethius produced question commentaries on Priscian’s authoritative Latin grammar and on several of Aristotle’s works, all of them presumably composed in connection with university courses and first presented orally to his students. In addition, there are two big sophismata, which are redacted reports of university disputations, and at least three *opuscula* (items 20, 23, and 26 on the list below) that do not directly reflect university teaching. The majority of his attested works are no longer extant, but what remains suffices to reveal some main features of his thought.
 
-In the following list an asterisk (*) indicates that the work is still extant; an obelus (†) that it is referred to by Boethius himself in one of the extant works, and a paragraph sign (§) that it is mentioned in the fourteenth-century “Stams catalogue”. All extant works have been edited in *Corpus Philosophorum Danicorum Medii Aevi (“CPhD”)*, vols. IV–VI, VIII–IX, and XIV, Copenhagen 1969–2020. A few have also appeared in earlier editions, which cannot, however, be trusted.
+In the following list an asterisk (\*) indicates that the work is still extant; an obelus (†) that it is referred to by Boethius himself in one of the extant works, and a paragraph sign (§) that it is mentioned in the fourteenth-century “Stams catalogue”. All extant works have been edited in *Corpus Philosophorum Danicorum Medii Aevi (“CPhD”)*, vols. IV–VI, VIII–IX, and XIV, Copenhagen 1969–2020. A few have also appeared in earlier editions, which cannot, however, be trusted.
 
 ### Grammar
 
-1. *†§ *Modi Significandi = Quaestiones super Priscianum Maiorem (“Modi Sign”.)*. On Priscian books I–XVI (morphology). Cited by Boethius himself as *nostra grammatica*. Edition by Jan Pinborg and Heinrich Roos in *CPhD* IV, 1969. An abridged version has been translated into English (McDermott 1980)[^mcdermott-1980].
+1. \*†§ *Modi Significandi = Quaestiones super Priscianum Maiorem (“Modi Sign”.)*. On Priscian books I–XVI (morphology). Cited by Boethius himself as *nostra grammatica*. Edition by Jan Pinborg and Heinrich Roos in *CPhD* IV, 1969. An abridged version has been translated into English (McDermott 1980)[^mcdermott-1980].
 2. † *Quaestiones super librum Constructionum*. On Priscian books XVII–XVIII (syntax).
 3. † *De naturali ortu omnium accentuum ex ipsis proprietatibus rerum* (“On the natural origin of all accents in the properties of things”). Probably a by-product of a course on Ps.-Priscian, *De accentibus*.
-4. * *Sophisma Syllogizantem ponendum est terminos*. Edition by Irène Rosier-Catach in *CPhD* IX, 2020.
+4. \* *Sophisma Syllogizantem ponendum est terminos*. Edition by Irène Rosier-Catach in *CPhD* IX, 2020.
 
 ### Logic
 
 1. † *Super librum Perihermenias*. On Aristotle’s *De interpretatione*. Probably questions.
 2. † *Ars demonstrativa*. Either questions on Aristotle’s *Posterior Analytics* or—more probably—a work presenting the essentials of its doctrine.
-3. *†§ *Quaestiones super librum Topicorum* (“*Quaest. Top.*”). Edition by Niels Jørgen Green-Pedersen and Jan Pinborg in *CPhD* VI.1, 1976.
+3. \*†§ *Quaestiones super librum Topicorum* (“*Quaest. Top.*”). Edition by Niels Jørgen Green-Pedersen and Jan Pinborg in *CPhD* VI.1, 1976.
 4. † *Quaestiones super librum Elenchorum*.
 5. † *Ars de modis arguendi sophistice et solutionibus eorum* (“Treatise on the types of sophistical argumentation and how to solve them”). Possibly identical with item 10 and/or 11.
 6. † *Sophistria*. About how to solve sophismata. Possibly identical with item 9 and/or 11.
 7. † *Ars sophistica*. Possibly identical with item 9 and/or 10.
-8. * *Sophisma Omnis homo de necessitate est animal*. There are two versions: *F*, first edited in Grabmann 1940 and available in a partial translation into English (Stump 1998)[^stump-1998]; *B*, first edited in Roos 1962. *B* is considerably longer than *F*, but the extra material is not by Boethius, and the Boethian part of the text has been revised by a medieval editor. Edition by Sten Ebbesen in *CPhD* IX, 2020.
+8. \* *Sophisma Omnis homo de necessitate est animal*. There are two versions: *F*, first edited in Grabmann 1940 and available in a partial translation into English (Stump 1998)[^stump-1998]; *B*, first edited in Roos 1962. *B* is considerably longer than *F*, but the extra material is not by Boethius, and the Boethian part of the text has been revised by a medieval editor. Edition by Sten Ebbesen in *CPhD* IX, 2020.
 
 ### Natural philosophy
 
-1. *§ *Quaestiones super libros Physicorum* (“*Quaest. Ph.*”). Only partially preserved. Edition by Géza Sajó in *CPhD* V.2, 1974. The text is rather corrupt, and there are some editorial mistakes. See corrections in *CPhD* IX.
+1. \*§ *Quaestiones super libros Physicorum* (“*Quaest. Ph.*”). Only partially preserved. Edition by Géza Sajó in *CPhD* V.2, 1974. The text is rather corrupt, and there are some editorial mistakes. See corrections in *CPhD* IX.
 2. § *Quaestiones super librum de Caelo et mundo*.
-3. *§ *Quaestiones super De generatione et corruptione*. Only partially preserved. Edition by Géza Sajó in *CPhD* V.1, 1972. The text is rather corrupt, and there are some editorial mistakes. See corrections in *CPhD* IX.
-4. * *Quaestiones super quartum Meteorologicorum*. Edition by Gianfranco Fioravanti in *CPhD* VIII, 1979.
+3. \*§ *Quaestiones super De generatione et corruptione*. Only partially preserved. Edition by Géza Sajó in *CPhD* V.1, 1972. The text is rather corrupt, and there are some editorial mistakes. See corrections in *CPhD* IX.
+4. \* *Quaestiones super quartum Meteorologicorum*. Edition by Gianfranco Fioravanti in *CPhD* VIII, 1979.
 5. † *Super librum De minerabilibus*. A commentary, probably in question form, on *De mineralibus*, an extract from Avicenna’s *Shifā* that was attached to the Arabo-Latin translation of Aristotle’s *Meteorology*.
-6. *§ *Quaestiones super librum De anima*. Only an abridged version of the questions on books I–II preserved. It is anonymous in the one and only manuscript, and some scholars have expressed doubts about the attribution to Boethius; see, in particular, Calma 2011. Edition by Robert Wielockx in *CPhD* XIV, 2009.
+6. \*§ *Quaestiones super librum De anima*. Only an abridged version of the questions on books I–II preserved. It is anonymous in the one and only manuscript, and some scholars have expressed doubts about the attribution to Boethius; see, in particular, Calma 2011. Edition by Robert Wielockx in *CPhD* XIV, 2009.
 7. § *Quaestiones super libros De sensu et sensato, De somno et vigilia, De longitudine et brevitate vitae, De morte et vita*.
-8. * *De somniis* (“On Dreams”). No doubt based on the lost questions on *De somno et vigilia* (item 19). Edition by Niels Jørgen Green-Pedersen in *CPhD* VI.2, 1976. Translated into Danish (Green-Pedersen 2001)[^green-pedersen-2001], English (Wippel 1987)[^wippel-1987], Italian (Sannelli 1997)[^sannelli-1997].
+8. \* *De somniis* (“On Dreams”). No doubt based on the lost questions on *De somno et vigilia* (item 19). Edition by Niels Jørgen Green-Pedersen in *CPhD* VI.2, 1976. Translated into Danish (Green-Pedersen 2001)[^green-pedersen-2001], English (Wippel 1987)[^wippel-1987], Italian (Sannelli 1997)[^sannelli-1997].
 9. † *Quaestiones super librum De animalibus*.
 10. § *Quaestiones super librum De plantis et vegetabilibus*.
-11. *§ *De aeternitate mundi* (“On the Eternity of the World”) (“*De aetern.*”). Edition by Niels Jørgen Green-Pedersen in *CPhD* VI.2, 1976. Translated into Danish (Green-Pedersen 2001)[^green-pedersen-2001], English (Wippel 1987)[^wippel-1987], German (Nicki 2000)[^nicki-2000], Italian (Bianchi 2003)[^bianchi-2003], Portuguese (Santiago de Carvalho 1996)[^santiago-1996].
+11. \*§ *De aeternitate mundi* (“On the Eternity of the World”) (“*De aetern.*”). Edition by Niels Jørgen Green-Pedersen in *CPhD* VI.2, 1976. Translated into Danish (Green-Pedersen 2001)[^green-pedersen-2001], English (Wippel 1987)[^wippel-1987], German (Nicki 2000)[^nicki-2000], Italian (Bianchi 2003)[^bianchi-2003], Portuguese (Santiago de Carvalho 1996)[^santiago-1996].
 
 ### Metaphysics
 
@@ -64,7 +64,7 @@ In the following list an asterisk (*) indicates that the work is still extant; a
 ### Ethics
 
 1. † *Quaestiones morales*. Questions on or linked to the *Nicomachean Ethics*.
-2. * *De summo bono* (“On the Supreme Good”). Edition by Niels Jørgen Green-Pedersen in *CPhD* VI.2, 1976. Translated into Danish (Green-Pedersen 2001)[^green-pedersen-2001], English (Wippel 1987)[^wippel-1987], German (Wöhler 1990)[^wöhler-1990], French (Imbach 1986; Imbach & Fouche 2006)[^imbach-1986][^imbach-2006], Italian (Fioravanti 1984, Bottin 1989)[^bottin-1989][^fioravanti-1984].
+2. \* *De summo bono* (“On the Supreme Good”). Edition by Niels Jørgen Green-Pedersen in *CPhD* VI.2, 1976. Translated into Danish (Green-Pedersen 2001)[^green-pedersen-2001], English (Wippel 1987)[^wippel-1987], German (Wöhler 1990)[^wöhler-1990], French (Imbach 1986; Imbach & Fouche 2006)[^imbach-1986][^imbach-2006], Italian (Fioravanti 1984, Bottin 1989)[^bottin-1989][^fioravanti-1984].
 
 ### Rhetoric
 
@@ -148,11 +148,11 @@ Some of Boethius’ contemporaries rejected the thought-experiment involved in t
 
 Boethius, for his part, held that *Ø* is a possible state of affairs, human beings are contingent beings, and so the necessity operator in (1) makes the proposition false in all circumstances, and the argument that man cannot possibly be or be conceived of without animal fails because it is not necessary for man to be or to be conceived of at all. Boethius agrees that in a world that does contain at least one human, the human essence is the cause of the inherence of the predicate animal in man, and hence of the truth of
 
-(1*)
+(1\*)
 
 “Every man is an animal”,
 
-but if *Ø* were to obtain, (1*) would also be false, because essences presuppose existent carriers. He rejects the claim that “existence is accidental to an essence” (*essentiae accidit esse*); prior to the generation of a human being its essence was nothing, he says, and after the individual’s destruction it again is nothing. In short: if no human exists, there is no human essence and no composition in reality of man and animal as required for (1*) to be true. He further holds that in a world void of men
+but if *Ø* were to obtain, (1\*) would also be false, because essences presuppose existent carriers. He rejects the claim that “existence is accidental to an essence” (*essentiae accidit esse*); prior to the generation of a human being its essence was nothing, he says, and after the individual’s destruction it again is nothing. In short: if no human exists, there is no human essence and no composition in reality of man and animal as required for (1\*) to be true. He further holds that in a world void of men
 
 **(2)**
 
@@ -160,7 +160,7 @@ but if *Ø* were to obtain, (1*) would also be false, because essences presuppos
 
 is false, with the consequence that
 
-(2*)
+(2\*)
 
 “Man is not man”
 

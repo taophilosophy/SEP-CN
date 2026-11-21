@@ -202,11 +202,11 @@ Parmenides then infers the following conclusion from the conjunction of P5 and P
 
 > (C) If *X* is a knowledge of *Y* and the gods have *X*, then *Y* is not in humans.
 
-If this inference were valid, then Parmenides would have shown that the object of any knowledge the gods have is not in humans, i.e., that the gods do not know human affairs. However, C does not follow validly from the conjunction of P7 and P5. Rather C follows validly from the conjunction of P7 and P5* (for details, see Rickless (2007, 92)[^rickless-2007]):
+If this inference were valid, then Parmenides would have shown that the object of any knowledge the gods have is not in humans, i.e., that the gods do not know human affairs. However, C does not follow validly from the conjunction of P7 and P5. Rather C follows validly from the conjunction of P7 and P5\* (for details, see Rickless (2007, 92)[^rickless-2007]):
 
-> (P5*) If *X* is a knowledge and the gods have *X*, then *X* is a form.
+> (P5\*) If *X* is a knowledge and the gods have *X*, then *X* is a form.
 
-There are three main possibilities here: (i) Plato simply missed the fact that the second argument is invalid; (ii) Plato intended his readers to recognize the argument as invalid; and (ii) Plato unintentionally misstated P5* as P5. (In any event, it is interesting to note that, whereas P3 but not P2 functions as a premise in the first argument, P2 but not P3 functions as a premise in the second argument.)
+There are three main possibilities here: (i) Plato simply missed the fact that the second argument is invalid; (ii) Plato intended his readers to recognize the argument as invalid; and (ii) Plato unintentionally misstated P5\* as P5. (In any event, it is interesting to note that, whereas P3 but not P2 functions as a premise in the first argument, P2 but not P3 functions as a premise in the second argument.)
 
 ## 5. How to Save the Forms: The Plan of the Deductions 134e–137c
 

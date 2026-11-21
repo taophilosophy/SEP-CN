@@ -139,13 +139,13 @@ Instead, the context of his (1871b) makes clear enough how he intended the hypot
 
 ![An X-Y coordinate plane funning from -1 to 1 in the x-axis and from -1 to 1 in they y-axis. A closed curve weaves a loose curved mesh over the entire displayed section of the plane. There are large, wide gaps in the mesh.](../assets/statphys-Boltzmann/figure1.jpg)
 
-*Figure 1.* $\sqrt{a/b}$ is rational $( = 4/7 )$.
+\*Figure 1.\* $\sqrt{a/b}$ is rational $( = 4/7 )$.
 
 He then notes that if $a/b$ is rational (actually: if $\sqrt{a/b}$ is rational) this motion is periodic. However, if this value is irrational, the trajectory will, in the course of time, traverse “almählich die ganze Fläche” (WA I, 271) of the rectangle. See Figure 2:
 
 ![An X-Y coordinate plane funning from -1 to 1 in the x-axis and from -1 to 1 in they y-axis. A closed curve weaves a dense curved mesh over the entire displayed section of the plane. The are lots of very small gaps in the mesh so that the plane looks almost entirely colored in.](../assets/statphys-Boltzmann/figure2.jpg)
 
-*Figure 2.* $\sqrt{a/b}$ is irrational $( = 1/e )$.
+\*Figure 2.\* $\sqrt{a/b}$ is irrational $( = 1/e )$.
 
 He says in this case that $x$ and $y$ are *independent*, since for each values of $x$ an infinity of values for $y$ in any interval in its range are possible. The very fact that Boltzmann considers intervals for the values of $x$ and $y$ of arbitrary small sizes, and stressed the distinction between rational and irrational values of the ratio $a/b$, indicates that he did *not* silently presuppose that phase space was essentially discrete, where those distinctions would make no sense.
 
@@ -199,7 +199,7 @@ After a few well-known manipulations, the result from these assumptions is a dif
 
 There are also a few unstated assumptions that go into the derivation of this equation. First, the number of molecules must be large enough so that the (discrete) distribution of their velocities can be well approximated by a continuous and differentiable function $f$. Secondly, $f$ changes under the effect of binary collisions only. This means that the density of the gas should be low (so that three-particle collisions can be ignored) but not too low (so that collisions would be too infrequent to change $f$ at all. (The modern procedure to put these requirements in a mathematically precise form is that of taking the so-called Boltzmann-Grad limit.) A final ingredient is that all the above assumptions are not only valid at an instant but remain true in the course of time.
 
-The *H*-theorem. Assuming that the Boltzmann equation is valid for all times, one can prove without difficulty the “*H*-theorem”: the quantity $H$ (that Boltzmann in this paper actually denotes as $E$), defined as
+**The *H*-theorem**. Assuming that the Boltzmann equation is valid for all times, one can prove without difficulty the “*H*-theorem”: the quantity $H$ (that Boltzmann in this paper actually denotes as $E$), defined as
 
 $$\tag{4} H[f_t] := \int f_t(v) \ln f_t(v) d^3\vec{v} $$
 

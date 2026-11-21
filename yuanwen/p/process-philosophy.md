@@ -269,7 +269,7 @@ This entry owes inspiration, both in structure as well in scope, as well as some
 
 [^carlson-2009]: –––, 2009, “Finite Eventism”, in: D. Skrbina (ed.), *Mind that Abides: Panpsychism in the New Millennium*, Amsterdam: J. Benjamins, 231–253.
 
-[^coecke-2017]: Coecke, B. 2017. “From quantum foundations via natural language meaning to a theory of everything,” in S. B. Cooper and M. I. Soskova (eds.), The Incomputable: Journeys Beyond the Turing Barrier, Theory and Applications of Computability. Cham: Springer, 63-80.
+[^coecke-2017]: Coecke, B. 2017. “From quantum foundations via natural language meaning to a theory of everything,” in S. B. Cooper and M. I. Soskova (eds.), *The Incomputable: Journeys Beyond the Turing Barrier, Theory and Applications of Computability*. Cham: Springer, 63-80.
 
 [^cobb-1965]: Cobb, John B., 1965, *A Christian Natural Theology*, Philadelphia: Westminster Press.
 

@@ -699,7 +699,7 @@ I am inordinately grateful to Eileen O’Neill for her extensive comments on an 
 
 [^plato-1981]: Plato, *Phaedo*, in *Five Dialogues,* G.M.A. Grube (ed. and trans.), Indianapolis and Cambridge: Hackett Publishing Company, 1981.
 
-[^plotinus-1975]: Plotinus, “On Beauty,” in Essential Plotinus: Representative Treatises from the Enneads, Elmer O’Brien (trans. and ed.), Indianapolis, IN: Hackett Publishing Company (1975).
+[^plotinus-1975]: Plotinus, “On Beauty,” in *Essential Plotinus: Representative Treatises from the Enneads*, Elmer O’Brien (trans. and ed.), Indianapolis, IN: Hackett Publishing Company (1975).
 
 [^spinoza-1662]: Spinoza, Baruch (1662), *Short Treatise on God, Man, and His Well-Being*, in Michael Morgan (ed.) and Samuel Shirley (trans.), *Spinoza: The Complete Works*, Indianapolis and Cambridge: Hackett Publishing Company, 2002.
 
@@ -757,7 +757,7 @@ I am inordinately grateful to Eileen O’Neill for her extensive comments on an 
 
 [^james-2003]: –––, 2003, “Introduction”, in *Margaret Cavendish: Political Writings*, ed. Susan James, Cambridge: Cambridge University Press.
 
-[^jolley-1984]: Jolley, Nicholas, 1984, Leibniz and Locke: A Study of the New Essays on Human Understanding, Oxford: Clarendon Press.
+[^jolley-1984]: Jolley, Nicholas, 1984, *Leibniz and Locke: A Study of the New Essays on Human Understanding*, Oxford: Clarendon Press.
 
 [^lascano-2020]: Lascano, Marcy P., 2020, “Margaret Cavendish and Early Modern Scientific Experimentalism: ‘Boys that play with watery bubbles or fling dust into each other’s eyes, or make a hobbyhorse of snow’,” in Sharon Crasnow and Kristen Intemann (ed.), *Routledge Handbook of Feminist Philosophy of Science*, London and New York: Routledge, 28–40.
 

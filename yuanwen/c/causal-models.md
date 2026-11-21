@@ -25,7 +25,7 @@ This section introduces some of the basic formal tools used in causal modeling, 
 If we are modeling the influence of education on income in the United States, we might use variables *E* and *I* such that:
 
 - $E(i) = 0$ if individual *i* has no high school education; 1 if an individual has completed high school; 2 if an individual has had some college education; 3 if an individual has a bachelor’s degree; 4 if an individual has a master’s degree; and 5 if an individual as a doctorate (including the highest degrees in law and medicine).
-- $I(i) = x$ if individual *i* has a pre-tax income of $*x* per year.
+- $I(i) = x$ if individual *i* has a pre-tax income of \$*x* per year.
 
 The set of possible values of a variable is the *range* of that variable. We will usually assume that variables have finitely many possible values, as this will keep the mathematics and the exposition simpler. However, causal models can also feature continuous variables, and in some cases this makes an important difference.
 
@@ -59,7 +59,7 @@ Some further definitions:
 - The *conditional probability of A given B,* written $\Pr(A \mid B)$ is standardly defined as follows: $$ \Pr(A \mid B) = \frac{\Pr(A \amp B)}{\Pr(B)}. $$ We will ignore problems that might arise when $\Pr(B) = 0$.
 - *A* and *B* are *probabilistically independent* (with respect to $\Pr$) just in case $\Pr(A \amp B) = \Pr(A) \times \Pr(B). A$ and *B* are *probabilistically dependent* or *correlated* otherwise. If $\Pr(B) \gt 0$, then *A* and *B* will be independent just in case $\Pr(A \mid B) = \Pr(A)$.
 - Variables *X* and *Y* are probabilistically independent just in case all propositions of the form $X = x$ and $Y = y$ are probabilistically independent.
-- *A* and *B* are *probabilistically independent conditional on* *C* just in case $\Pr(A \amp B \mid C) = \Pr(A \mid C) \times \Pr(B \mid C)$. If $\Pr(B \amp C) \gt 0$, this is equivalent to $\Pr(A \mid B \amp C) = \Pr(A \mid C)$. Following the terminology of Reichenbach (1956)[^reichenbach-1956], we will also say that *C* screens off *B* from *A* when these equalities hold. Conditional independence among variables is defined analogously.
+- *A* and *B* are *probabilistically independent conditional on* *C* just in case $\Pr(A \amp B \mid C) = \Pr(A \mid C) \times \Pr(B \mid C)$. If $\Pr(B \amp C) \gt 0$, this is equivalent to $\Pr(A \mid B \amp C) = \Pr(A \mid C)$. Following the terminology of Reichenbach (1956)[^reichenbach-1956], we will also say that *C screens off B from A* when these equalities hold. Conditional independence among variables is defined analogously.
 
 As a convenient shorthand, a probabilistic statement that contains only a variable or set of variables, but no values, will be understood as having a universal quantification over all possible values of the variable(s). Thus if $\bX = \{X_1 ,\ldots ,X_m\}$ and $\bY = \{Y_1 ,\ldots ,Y_n\}$, we may write
 
@@ -79,7 +79,7 @@ If $\bV$ is the set of variables included in a causal model, one way to represen
 
 ![a diagram where S has an arrow pointing north to T; T has an arrow pointing northwest to X and northeast to Y; Y has an arrow pointing northeast to Z; W has an arrow pointing north to Z and northwest to Y](../assets/causal-models/fig1.svg)
 
-*Figure 1*
+\*Figure 1\*
 
 A *path* in a directed graph is a non-repeating sequence of arrows that have endpoints in common. For example, in Figure 1 there is a path from *X* to *Z*, which we can write as $X \leftarrow T \rightarrow Y \rightarrow Z$. A *directed path* is a path in which all the arrows point in the same direction; for example, there is a directed path $S \rightarrow T \rightarrow Y \rightarrow Z$. A directed graph is *acyclic,* and hence a DAG, if there is no directed path from a variable to itself. Such a directed path is called a *cycle*. The graph in Figure 1 contains no cycles, and hence is a DAG.
 
@@ -97,7 +97,7 @@ A second type of graph that we will consider is an *acyclic directed mixed graph
 
 (b)
 
-*Figure 2*
+\*Figure 2\*
 
 We can be a bit more precise. We only need to represent missing common causes in this way when they are *closest* common causes. That is, a graph on $\bV$ should contain a double-headed arrow between *X* and *Y* when there is a variable *L* that is omitted from $\bV$, such that if *L* were added to $\bV$ it would be a *direct cause* of *X* and *Y*.
 
@@ -135,7 +135,7 @@ We can represent this system of equations as a DAG (Figure 3):
 
 ![diagram: 'Gas connected' has an arrow pointing northeast to 'Gas level'; 'Gas knob' has an arrow pointing northwest to the same 'Gas level'; 'Gas level' has an arrow pointing northeast to 'Flame'; 'Igniter' has an arrow pointing northwest to the same 'Flame'; 'Flame' has an arrow pointing northeast to 'Meat cooked'; 'Meat on' has an arrow pointing northwest to the same 'Meat cooked'](../assets/causal-models/fig3.svg)
 
-*Figure 3*
+\*Figure 3\*
 
 An arrow is drawn from variable *X* to variable *Y* just in case *X* figures as an argument in the equation for *Y*. The graph contains strictly less information than the set of equations; in particular, the DAG gives us qualitative information about which variables depend upon which others, but it does not tell us anything about the functional form of the dependence.
 
@@ -248,7 +248,7 @@ The equation for *W* tells us that the window would shatter if either Billy or S
 
 ![diagram: B has an arrow pointing northeast to W and S has an arrow pointing northwest to the same W](../assets/causal-models/fig4.svg)
 
-*Figure 4*
+\*Figure 4\*
 
 But we cannot simply read off the relation of actual causation from the graph or from the equations. For example, the arrow from *B* to *W* in Figure 4 cannot be interpreted as saying that Billy’s (in)action is an actual cause of the window breaking. Note that while it is common to distinguish between singular or token causation, and general or type-level causation (see, e.g., Eells 1991, Introduction)[^eells-1991], that is not what is at issue here. Our causal model does not represent any kind of causal generalization: it represents the actual and possible actions of Billy and Suzy at one particular place and time. Actual causation is not just causal structure of the single case. A further criterion for actual causation, defined in terms of the causal structure together with the actual values of the variables, is needed.
 
@@ -296,7 +296,7 @@ That is: Suzy throws her rock; Billy will throw his rock if Suzy doesn’t; and 
 
 ![diagram: B has an arrow pointing northeast to W and S has an arrow pointing northwest to the same W. S also has an arrow pointing west to the same B.](../assets/causal-models/fig5.svg)
 
-*Figure 5*
+\*Figure 5\*
 
 We want to show that $S = 1$ is an actual cause of $W = 1$. Conditions AC(1) and AC(2) are clearly satisfied. For condition AC(3), we choose $\bX = \{S\}$ and $\bZ = \{B\}$. Since $B = 0$ in *Preemption*, we want to fix $B = 0$ while varying *S*. We can see easily that ${S = 0} \amp {B = 0} \boxright {W = 0}$: replacing the two equations for *B* and *S* with $B = 0$ and $S = 0$, the solution yields $W = 0$. In words, this counterfactual says that if neither Billy nor Suzy had thrown their rock, the window would not have shattered. Thus condition AC(3a) is satisfied. AC(3b) is satisfied trivially, since $\bX = \{S\}$ is a singleton set.
 
@@ -351,13 +351,13 @@ Here are some illustrations:
 
 ![diagram: T has an arrow pointing north to W; W has a long arrow pointing northeast to Z; W also has an arrow pointing northwest to X; X has an arrow pointing northwest to Y](../assets/causal-models/fig6.svg)
 
-*Figure 6*
+\*Figure 6\*
 
 In Figure 6, MC implies that *X* screens *Y* off from all of the other variables, and *W* screens *Z* off from all of the other variables. This is most easily seen from MC_{Screening_off}. *W* also screens *T* off from all of the other variables, which is most easily seen from MC_{*d*-separation}. *T* does not necessarily screen *Y* off from *Z* (or indeed anything from anything).
 
 ![diagram: X has an arrow pointing northeast to Y and Z has an arrow pointing northwest to the same Y.](../assets/causal-models/fig7.svg)
 
-*Figure 7*
+\*Figure 7\*
 
 In Figure 7, MC entails that *X* and *Z* will be unconditionally independent, but not that they will be independent conditional on *Y*. This is most easily seen from MC_{*d*-separation}.
 
@@ -390,7 +390,7 @@ The MC states a sufficient condition but not a necessary condition for condition
 
 ![diagram: X has an arrow pointing northeast to Y and another arrow pointing east to Z; Y has an arrow pointing southeast to Z.](../assets/causal-models/fig8.svg)
 
-*Figure 8*
+\*Figure 8\*
 
 Here are some other examples: In Figure 6 above, there is a path $W\rightarrow X\rightarrow Y$; FC implies that *W* and *Y* should be probabilistically dependent. In Figure 7, FC implies that *X* and *Z* should be dependent, conditional on *Y*.
 
@@ -493,7 +493,7 @@ The discussion so far has focused on the case where there are no latent common c
 
 ![diagram: X has an arrow pointing east to Y which in turn has an arrow pointing east to Z; X and Z are connected by a curved double-headed arrow](../assets/causal-models/fig9.svg)
 
-*Figure 9*
+\*Figure 9\*
 
 If there are latent common causes, we expect MC_{Screening_off} and MC_{Factorization} to fail if we apply them in a naïve way. In Figure 9, *Y* is the only parent of *Z* shown in the graph, and if we try to apply MC_{Screening_off}, it tells us that *Y* should screen *X* off from *Z*. However, we would expect *X* and *Z* to be correlated, even when we condition on *Y*, due to the latent common cause. The problem is that the graph is missing a relevant parent of *Z*, namely the omitted common cause. However, suppose that the probability distribution on $\{L, X, Y, Z\}$ satisfies MC with respect to the DAG that includes *L* as a common cause of *X* and *Z*. Then it turns out that the probability distribution will *still* satisfy MC_{*d*-separation} with respect to the ADMG of Figure 9. A causal model incorporating an ADMG and probability distribution satisfying MC_{*d*-separation} is called a *semi-Markov causal model* (SMCM).
 
@@ -543,13 +543,13 @@ Suppose that we have an acyclic structural equation model with exogenous variabl
 
 $$X_i = f_i (\bPA(X_i), U_i),$$
 
-and a probability distribution $\Pr'$ on the exogenous variables $\bU$. $\Pr'$ then induces a probability distribution P on $\bV$. To represent an intervention that sets $X_k$ to $x_k$, we replace the equation for $X_k$ with $X_k = x_k$. Now $\Pr'$ induces a new probability distribution P* on $\bV$ (since settings of the exogenous variables $\bU$ give rise to different values of the variables in $\bV$ after the intervention). P* is the new probability distribution that Pearl writes as $\Pr(• \mid \ido(X_k = x_k))$.
+and a probability distribution $\Pr'$ on the exogenous variables $\bU$. $\Pr'$ then induces a probability distribution P on $\bV$. To represent an intervention that sets $X_k$ to $x_k$, we replace the equation for $X_k$ with $X_k = x_k$. Now $\Pr'$ induces a new probability distribution P\* on $\bV$ (since settings of the exogenous variables $\bU$ give rise to different values of the variables in $\bV$ after the intervention). P\* is the new probability distribution that Pearl writes as $\Pr(• \mid \ido(X_k = x_k))$.
 
 But even if we do not have a complete SEM, we can often compute the effect of interventions. Suppose we have a causal model in which the probability distribution P satisfies MC on the causal DAG $\bG$ over the variable set $\bV = \{X_1, X_2 ,\ldots ,X_n\}$. The most useful version of MC for thinking about interventions is MC_{Factorization} (see Section 4.2), which tells us:
 
 $$\Pr(X_1, X_2 , \ldots ,X_n) = \prod_i \Pr(X_i \mid \bPA(X_i)).$$
 
-Now suppose that we intervene by setting the value of $X_k$ to $x_k$. The post-intervention probability P* is the result of altering the factorization as follows:
+Now suppose that we intervene by setting the value of $X_k$ to $x_k$. The post-intervention probability P\* is the result of altering the factorization as follows:
 
 $$ \Pr^*(X_1, X_2 , \ldots ,X_n) = \Pr'(X_k) \times \prod_{i \ne k} \Pr(X_i \mid \bPA(X_i)), $$
 
@@ -576,7 +576,7 @@ Evidential Decision Theory of the sort developed by Jeffrey (1983)[^jeffrey-1983
 
 ![diagram with K having an arrow pointing northwest to B and northeast to M](../assets/causal-models/fig10.svg)
 
-*Figure 10*
+\*Figure 10\*
 
 $K = 1$ represents potassium deficiency, $B = 1$ eating a banana, and $M = 1$ migraine. Her probabilities are as follows:
 
@@ -640,7 +640,7 @@ We have a probability distribution $\Pr'$ on $\bU$, which induces a probability 
 
 1. Update the probability P by conditioning on the observations, to get a new probability distribution $\Pr(• \mid \cap_{j \in \bS} X_j = x_j)$. Call the restriction of this probability function to $\bU$ $\Pr''$.
 2. Replace the equation for $X_k$ with $X_k = x_k$.
-3. Use the distribution $\Pr''$ on $\bU$ together with the modified set of equations to induce a new probability distribution P* on $\bV$. $\Pr^*( X_l = x_l)$ is then the probability of the counterfactual.
+3. Use the distribution $\Pr''$ on $\bU$ together with the modified set of equations to induce a new probability distribution P\* on $\bV$. $\Pr^*( X_l = x_l)$ is then the probability of the counterfactual.
 
 This procedure differs from the procedure for interventions (discussed in Section 4.7) in that steps 1 and 2 have been reversed. We first update the probability distribution, then perform the intervention. This reflects the fact that the observations tell us about the actual world, in which the intervention did not (necessarily) occur.
 
@@ -756,7 +756,7 @@ Portions of this entry are taken, with minimal adaptation, from the author’s s
 
 [^danks-2014]: Danks, David, and Sergey Plis, 2014, “Learning Causal Structure from Undersampled Time Series”, *JMLR Workshop and Conference Proceedings (NIPS Workshop on Causality)*. [[Danks & Plis 2014 available online](https://doi.org/10.1184/R1/6492101.v1)]
 
-[^dash-2001]: Dash, Denver and Marek Druzdzel, 2001, “Caveats For Causal Reasoning With Equilibrium Models”, in Salem Benferhat and Philippe Besnard (eds.) *Symbolic and Quantitative Approaches to Reasoning with Uncertainty, 6th European Conference, Proceedings. Lecture Notes in Computer Science 2143*, Berlin and Heidelberg: Springer, pp. 92–103. doi:10.1007/3-540-44652-4\_18
+[^dash-2001]: Dash, Denver and Marek Druzdzel, 2001, “Caveats For Causal Reasoning With Equilibrium Models”, in Salem Benferhat and Philippe Besnard (eds.) *Symbolic and Quantitative Approaches to Reasoning with Uncertainty, 6th European Conference, Proceedings. Lecture Notes in Computer Science 2143*, Berlin and Heidelberg: Springer, pp. 92–103. doi:10.1007/3-540-44652-4\\_18
 
 [^dechter-2006]: Dechter, Rina and Thomas Richardson (eds.), 2006, *Proceedings of the Twenty-Second Conference on Uncertainty in Artificial Intelligence*, Corvallis, OR: AUAI Press.
 
