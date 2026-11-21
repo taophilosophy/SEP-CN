@@ -29,3 +29,19 @@
 * `bin/build_skeletons.py`（两案骨架）、`bin/build_mapping.py`（映射＋排序模型）、`bin/write_mulus.py`（对账写回器）
 * `results/`：skeleton-scheme1-pp.md、skeleton-scheme2-calibrate.md、skeleton-stats.json、mapping.tsv（1883 行×8 列含依据）、plan.json（写回计划正典）、write-preview.md、review-clusters.txt（125 簇复审清单）、execution-log.md（本文件）
 * 试写产物 mulus-new.md 已按 docsize 门禁要求删除（可由 plan.json 重生成）
+
+## 2026-11-22 遗留问题处置（用户指令“解决遗留问题”）
+
+### 发现一改判：三处“标题缺陷”系审计误报（en_key 启发式假象）
+
+* 取证：`kochen-specker`／`logic-provability`／`feminism-objectification` 三条在 SUMMARY.md、词条 H1、新旧 mu-lu-s 四处逐字一致且完整；SUMMARY 实为“科亨-施佩克尔定理（KS 定理） The Kochen-Specker Theorem (Carsten Held)”“…(Rineke (L.C.) Verbrugge)”“…(Evangelia (Lina) Papadaki)”，无残段、无截断；连接号短横线与全库同类标题（弗雷格-希尔伯特争论、爱因斯坦-波多尔斯基-罗森论证）惯例一致。
+* 根因：mapping 生成器 en_key 启发式两缺陷——`rfind(" (")` 在作者名含内嵌括号（(L.C.)、(Lina)）时截断；英文段起算于首个 ASCII 字母，撞上全角注记段“（KS 定理）”内的字母。三者皆 review-clusters.txt 审查清单的显示假象，非库内数据缺陷。
+* 处置：SUMMARY/词条/门禁零改动；en_key 重写为双规则（①跳中文字题与全角括号注记段；②作者段＝串尾最外层括号平衡组），回归测试 `bin/test_en_key.py` 九例全过（含沙夫茨伯里/皮科全角注记与方括号剥离既有行为对照）。
+* 重放对账：对 00ee29e44^ 旧版 mu-lu-s 重放全管线，产物 diff 仅 4 行 en_key 归正（第四条 `social-procedures` 同属内嵌括号族），写回增量仅 kochen-specker 一行移位（新节内按真英文题字母序归位），其余三键排序位不变；mulu-map 重建，G3/G4 全绿。
+
+### 发现二（事故登记）：共用工作树 checkout 误收事件
+
+* 事件：重放周期用 `git checkout 00ee29e44^ -- mu-lu-s.md` 还原旧版输入，暂存区旧文件被并行会话 s25 提交（ca31f15d8，10:06:17）扫入库，分支上 mu-lu-s 被回退、G3 变红（mulu-map 新、文件旧）。
+* 修复：重放完成后原子提交 6e701789b 恢复新结构＋mulu-map 同步重建，已推送，G1–G4 全绿；对 00ee29e44 的净增量＝kochen-specker 一行移位。
+* 归因（rules/08 §10 四元组）：共树并行会话高频提交（s23/s24/s25 间隔约 6 分钟）＋本会话 checkout 带路径参数（暂存区污染面暴露给并行提交）。防线：共用工作树禁 `git checkout <commit> -- <path>`／任何按路径的版本还原——重放类操作一律走临时 worktree（`git worktree add`）或先把输入物复制到 spec bin/results 副本；与 [[sep-cn-parallel-session-hazards]] 现有危害族同源，已补录记忆。
+* 门禁现状：本线两域（mulu_s 五项、catalog-net G1–G4）全绿；`check_all` 17 项中 `管线单元测试` 一项红，系并行会话 specs/053 线在途未提交的 `tools/yuanwen.py` 转换器改动所致（test_em_with_trailing_star_escaped），非本线领域，由其线收口。

@@ -369,3 +369,11 @@
 * **落地**：`mu-lu-s.md` 全量重排——H1 四区改六区（形而上学与认识论 387／价值理论 324／科学逻辑与数学 388／西方哲学史 594／哲学传统 180），14 簇整建制迁移，14 处学科枢纽 S 档＋98 处经典专题 A 档居前、余按英段字母序，标题节点 17 个父节按重要性显式重排；26 行节注随节迁移＋3 处旧路径引用同步修订；链接集合守恒 1883 进=出。
 * **门禁**：check_mulu_s 五项全绿；mulu-map 重建 1883 行后 catalog-net G1–G4 全绿；check_all 17 项全绿（一次假红系试写产物触发 docsize＋临时目录竞态，删除后复绿）。
 * **发现登记**：三处 SUMMARY 域标题缺陷（kochen-specker“ks 定理）”残段、logic-provability/feminism-objectification 作者括注截断）——属 017 标题体例修复线，另轮处置；详见 specs/055 results/execution-log.md。
+  **（2026-11-22 改判）**：经取证系**审计误报**——四处（SUMMARY/H1/新旧 mu-lu-s）逐字一致完整，假象源于 en_key 启发式（作者名内嵌括号截断＋全角注记段内字母误起算）；SUMMARY/词条零改动，en_key 重写＋回归测试后对旧版重放，增量仅 kochen-specker 一行移位。
+
+## 2026-11-22 遗留问题处置（用户指令“解决遗留问题”，specs/055 收口）
+
+* **误报改判与根因修复**：见上条改判注；`build_mapping.py` en_key 双规则（跳全角注记段＋作者段括号平衡截断）＋`bin/test_en_key.py` 九例回归全过；对 00ee29e44^ 重放全管线，mapping.tsv 仅 4 行 en_key 归正（kochen-specker/social-procedures/logic-provability/feminism-objectification），写回净增量 1 行移位，mulu-map 重建 G1–G4 全绿。
+* **共用工作树 checkout 误收事故（登记）**：重放用 `git checkout 00ee29e44^ -- mu-lu-s.md` 污染暂存区，被并行会话 s25 提交（ca31f15d8）扫入，分支 mu-lu-s 一度回退、G3 变红；原子修复提交 6e701789b 恢复新结构＋mulu-map 同步，已推送复绿。防线登记：共用工作树禁按路径 checkout 旧版，重放一律临时 worktree；已补录并行危害记忆。
+* **门禁分工**：本线 mulu_s 五项＋catalog-net G1–G4 全绿；`check_all` 仅 `管线单元测试` 一红——系并行会话 specs/053 线在途 `tools/yuanwen.py` 转换器改动（test_em_with_trailing_star_escaped），由其线收口，本线不越权。
+* **PROGRESS 阻塞 2 件核实**（haecceitism/hamann 逐段对齐未配对）：属翻译战役待派工项（两件均为仅标题骨架、未开工），非清理类可解项，维持登记不动。
