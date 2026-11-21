@@ -11,7 +11,6 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | A.J. Ayer | — | 艾耶尔 | 英国 | 1910–1989 | religious-experience | 学界通行汉译（《语言、真理与逻辑》）；籍属/生卒联网查证：SEP 原文 en/ayer:151（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Aas, Sean | — | Sean Aas（现代学者，保留英文） | — | — | disability | ADR-0022：无通行汉名者保留英文（本词条合著者）；凭证 2026-11-09 | 2026-11-09 |
-| Abd al-Latif | — | 阿卜杜勒·拉蒂夫 | 阿拔斯王朝（巴格达）／医学、哲学与史学 | 1162–1231 | 语料回收（全目录） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；籍属/生卒联网查证：SEP 词条 ‘Abd al-Latif al-Baghdadi（2026-11-13 查，凭证 verify-2026-11-13.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-13 |
 | Abel, Theodor | — | 西奥多·阿贝尔 | 美国 | 1903–1980 | dilthey | 学界通行汉译（《理解的概念》作者，把 Verstehen 还原为“共情性认同”者之一）；凭证 2026-11-11 | 2026-11-11 |
 | Abelard Peter | — | 彼得·阿伯拉尔 | 法国／经院神学 | 1079–1142 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；籍属/生卒联网查证：GND 规范标目 gnd 11850004X（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-07）| 2026-11-13 |
 | Abizadeh, Arash | — | 阿拉什·阿比扎德 | — | — | immigration | 音译（民主边界理论）；凭证 2026-11-12 | 2026-11-12 |
@@ -20,7 +19,7 @@
 | Abrabanel, Judah | — | 犹大·莱昂·阿布拉瓦内尔 | 葡萄牙／犹太哲学 | 1460–1530 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；审定库无相关命中（termonline-all 凭证 2026-11-07）；籍属/生卒联网查证：Wikidata Q467062（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Abraham Bar Hiyya | — | 亚伯拉罕·巴尔·希亚 | 西班牙／犹太哲学 | 1065–1136 | gersonides | 犹太科学史通行音译（*Megillat ha-Megalleh* 作者）；籍属/生卒联网查证：GND 规范标目 gnd 100970524（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
 | Abraham ibn Ezra | Abraham ibn Ezra | 亚伯拉罕·伊本·以斯拉（亦作“伊本·以斯拉”） | 西班牙／犹太哲学 | 1092–1167 | 语料回收（全目录） | 学界惯例（犹太哲学译名）；审定库无相关命中（凭证 2026-10-31）；籍属/生卒联网查证：GND 规范标目 gnd 118646613（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
-| Abraham Ibn-Dahoud | — | 亚伯拉罕·伊本·达乌德 | — | — | crescas | 学界通行中译（《崇高信仰》作者）；凭证 2026-11-08 | 2026-11-08 |
+| Abraham Ibn-Dahoud | — | 亚伯拉罕·伊本·达乌德 | — | c. 1110–1180 | crescas | 学界通行中译（《崇高信仰》作者）；凭证 2026-11-08；原文 en/abraham-daud 首句即“Abraham ibn Daud (c.1110–1180)”；另见 en/crescas 提及《崇高的信仰》转译（2026-11-22 查，凭证 arabic-batch3-2026-11-22.tsv） | 2026-11-22 |
 | Abrams, Marshall | — | 马歇尔·艾布拉姆斯 | 美国 | fl. 2002 | fitness | 学界通行音译（生物学哲学家，参照环境问题）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 130836704X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Abramsky, Samson | — | Samson Abramsky | 英国 | 1953– | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 142172561（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
 | Abravanel, Isaac | — | 以撒·阿布拉瓦内尔 | 葡萄牙／犹太哲学 | 1437–1508 | albo-joseph | 犹太哲学史通行（与 Judah Abrabanel 犹大·莱昂·阿布拉瓦内尔为父子，两键分立）；籍属/生卒联网查证：GND 规范标目 gnd 118500244（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -30,7 +29,7 @@
 | Abū Bishr Mattā | أبو بشر متى بن يونس | 阿布·比什尔·马塔 | 叙利亚基督教（巴格达） | c. 870–940 | al-farabi-logic | 学界通行 | 2026-10-28 |
 | Abū Hāshim Jubā'ī | — | 阿布·哈希姆·朱巴伊 | 巴士拉／穆尔太齐赖派神学家 | d. 933 | umar-khayyam | 学界惯例（本质实在性说先驱，音译） | 2026-11-14 |
 | Abū Mūsā ʿĪsā ibn Usayyid | — | 阿布·穆萨·伊萨·伊本·乌赛义德 | 巴士拉／穆尔太齐赖派 | d. c. 900 | arabic-islamic-phil-math | 音译（9 世纪穆尔太齐赖派学者，伊本·库拉论数问答对象；学界无通行汉名） | 2026-11-08 |
-| Abū Sulaymān al-Sijistānī | — | 阿布·苏莱曼·西吉斯塔尼 | 伊朗／伊斯兰哲学 | d. 1001 | theology-aristotle | 学界惯例（十世纪巴格达哲学圈；与伊斯玛仪派 al-Sijistānī 别为一人）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 1031949860（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
+| Abū Sulaymān al-Sijistānī | — | 阿布·苏莱曼·西吉斯塔尼 | 伊朗／伊斯兰哲学 | –1001 | theology-aristotle | 学界惯例（十世纪巴格达哲学圈；与伊斯玛仪派 al-Sijistānī 别为一人）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 1031949860（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv）；格式统一为仅卒年式（原文 theology-aristotle 作 Abu Sulayman al-Sijistani）（2026-11-22 查，凭证 arabic-batch1-2026-11-22.tsv） | 2026-11-22 |
 | Abu'l-Ḥasan Baṣrī | — | 阿布·哈桑·巴斯里 | 巴士拉／穆尔太齐赖派神学家 | d. 936 | umar-khayyam | 学界惯例（穆尔太齐赖派巴斯里支开创者，音译） | 2026-11-14 |
 | Abuʼl-Khayr, Abū Saʿīd | — | 阿布·赛义德·阿布·海尔 | — | –1049 | arabic-islamic-mysticism | 苏非史通行音译；生卒据 SEP 原文 en/arabic-islamic-mysticism 括注：原文只给卒年（d. 1049 CE）（2026-11-22 回读，凭证 en-harvest-2026-11-22.tsv） | 2026-11-22 |
 | Acar, Erman | — | Erman Acar（现代学者，保留英文） | — | — | belief-merging | ADR-0022：无通行汉名者保留英文（致谢提及，指出前一版若干笔误）；凭证 2026-11-13 | 2026-11-13 |
@@ -87,7 +86,6 @@
 | al-Khāzin | — | 赫津 | 呼罗珊（赫津）／数学家、天文学家 | d. c. 971 | umar-khayyam | 数学史通行音译（《代数学评注》作者；与哈津尼 al-Khāzinī 异人） | 2026-11-14 |
 | al-Khwārizmī | — | 花拉子米 | 花剌子模／代数学 | c. 780–850 | arabic-islamic-phil-math | 学界通行 | 2026-11-08 |
 | al-Kindī | أبو يوسف يعقوب بن إسحاق الصبّاح الكندي | 肯迪（亦作“金迪”） | 阿拉伯／伊斯兰哲学（库法出生，巴格达任职） | c. 801–873 | al-kindi；israeli | 学界通行；2026-11-13 重复行合并（旧键 `al-Kindi`） | 2026-11-13 |
-| al-Kirmānī | — | 基尔马尼 | — | — | theology-aristotle | 学界惯例（伊斯玛仪派哲学家）；凭证 2026-11-08 | 2026-11-08 |
 | al-Layth | — | 莱斯 | 伊斯兰／数学家 | fl. 10th c. | umar-khayyam | 音译（三次方程早期研究者，学界无统一汉名） | 2026-11-14 |
 | al-Māhānī | — | 马哈尼 | 波斯（马汉）／数学家 | fl. c. 860 | umar-khayyam | 数学史通行音译（阿基米德难题化三次方程者） | 2026-11-14 |
 | al-Nayrīzī | ابو العباس الفضل بن حاتم النريزى | 奈里齐（亦作“纳里齐”） | 波斯（奈里兹）／欧几里得评注家 | d. c. 922 | arabic-islamic-phil-math；theology-aristotle | 音译（学界无统一汉名；2026-11-09 反向校对合并同人异形行） | 2026-11-08 |
@@ -95,7 +93,7 @@
 | al-Samawʾal | السموأل بن يحيى المغربي | 萨马瓦尔 | 巴格达（犹太教改宗伊斯兰）／代数学家 | c. 1130–1180 | arabic-islamic-phil-math | 音译（*al-Bāhir fī al-jabr* 作者；学界无统一汉名） | 2026-11-08 |
 | al-Shahrastānī | تاج الدين أبو الفتح محمد بن عبد الكريم الشهرستاني | 舍拉斯塔尼 | 波斯（舍拉斯坦）／教义学史家 | 1086–1153 | arabic-islamic-phil-math | 音译（学界无统一汉名） | 2026-11-08 |
 | al-Sijzī | ابوسعید سجزی | 西吉齐 | 锡吉斯坦／几何学家 | fl. 10 世纪（约卒于 1020 照源） | arabic-islamic-phil-math | 音译（学界无统一汉名） | 2026-11-08 |
-| al-Tabari | al-Tabari | 塔巴里 | — | — | israeli | 伊斯兰医学史通行汉译（9 世纪医家） | 2026-11-06 |
+| al-Tabari | al-Tabari | 塔巴里 | — | fl. 9 世纪 | israeli | 伊斯兰医学史通行汉译（9 世纪医家）；原文 en/israeli 作“ʿAli ibn Sahl Rabban al-Tabari (fl. 9th century)”，与本行“9 世纪医家”相符（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
 | al-ʿĀmirī | — | 阿米里 | 阿拉伯／伊斯兰哲学 | –991 | theology-aristotle | 学界惯例（十世纪新柏拉图主义哲学家）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118856561（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Alain Enthoven | — | 阿兰·恩索文 | 美国 | 1930– | justice-healthcareaccess | 学界惯例（卫生经济学通行译法）；籍属/生卒联网查证：Wikidata Q4705651（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Alain LeRoy Locke / Alain Locke | — | 阿兰·勒罗伊·洛克 | 美国／哲学 | 1886–1954 | alexander-crummell；语料回收（全目录）；alain-locke/alexander-crummell | 学界通行汉译（SUMMARY 定名沿用，alain-locke 词条既名）；2026-11-13 重复行合并（旧键 `Alain Locke`）；籍属/生卒联网查证：GND 规范标目 gnd 118902423（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
@@ -281,7 +279,7 @@
 | Ayala, F. J. | — | F. J. 阿亚拉 | 西班牙／美国 | 1934–2023 | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 132985640（2026-11-13 查，凭证 verify-2026-11-13-gnd-b.tsv） | 2026-11-13 |
 | Azarenka, Victoria | — | 维多利亚·阿扎伦卡 | — | — | cloning | 学界惯例（体育界通行译名，词条作假设例）；凭证 2026-11-07 | 2026-11-07 |
 | ʿAbd al-Jabbār | عبد الجبار | 阿卜杜·贾巴尔（穆尔太齐赖派） | 波斯（阿萨达巴德）／穆阿塔齐拉 | 935–1025 | 语料回收（arabic-islamic-*） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
-| ʿAbd al-Laṭīf al-Baghdādī | عبداللطيف البغدادي | 阿卜杜勒·拉蒂夫·巴格达迪 | 巴格达／伊斯兰哲学 | 1162–1231 | theology-aristotle | 学界惯例（12–13 世纪巴格达学者）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q307277（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| ʿAbd al-Laṭīf al-Baghdādī | عبداللطيف البغدادي；Abd al-Latif（简形） | 阿卜杜勒·拉蒂夫·巴格达迪 | 巴格达／伊斯兰哲学 | 1162–1231 | theology-aristotle；语料回收（全目录） | 学界惯例（12–13 世纪巴格达学者）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q307277（2026-11-20 查，凭证 verify-2026-11-20-people.tsv）；合并：原“Abd al-Latif（首现 语料回收（全目录），词汇表并网迁入）”与本人同指，生卒同为 1162–1231；简形入别名（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
 | ʿAyn al-Quḍāt | — | 艾因·古达特（哈马丹的艾因·古达特；亦作“艾因·库扎特”） | 波斯／伊斯兰神秘主义 | 1098–1131 | al-qudat；语料回收（arabic-islamic-mysticism） | 学界惯例（SUMMARY 定名沿用；波斯苏菲哲学家）；2026-11-08 重复行合并：正形从 SUMMARY 题名“艾因·古达特”，旧行“艾因·库扎特”并此；籍属/生卒联网查证：Wikidata Q4115024（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 
 ## B
@@ -1002,13 +1000,12 @@
 | Dao Qian | 道谦 | 道谦 | 中国／南宋 | — | zhu-xi | 学界通行汉译（开善寺道谦禅师；汉字法名）；凭证 2026-11-15 | 2026-11-15 |
 | Darboux, Gaston | — | 加斯东·达布 | 法国／数学 | 1842–1917 | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06；籍属/生卒联网查证：GND 规范标目 gnd 116027274（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Darden, Lindley | — | 林德利·达登 | 美国 | 1945– | biology-philosophy | 学界通行汉译（科学哲学文献）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q6552543（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Dargazīnī, Qawwām al-Dīn | — | 达尔加齐尼 | — | — | al-qudat | 学界惯例（塞尔柱维齐尔，通行音译） | 2026-11-06 |
+| Dargazīnī, Qawwām al-Dīn | — | 达尔加齐尼 | — | –1133 | al-qudat | 学界惯例（塞尔柱维齐尔，通行音译）；原文 en/al-qudat 作“Qawwām al-Dīn Abū’l-Qāsim Dargazīnī (d. 1133)”（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
 | Dārimī, ʿUthmān ibn Saʿīd al- | عثمان بن سعيد الدارمي | 奥斯曼·本·赛义德·达里米 | — | d. 280/893–282/895 | ibn-taymiyya | 音译（早期传统主义者，空间神学脉络；学界无统一汉名） | 2026-11-12 |
 | Darrigol, Olivier | — | 奥利维耶·达里戈 | 法国 | fl. 1982 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 1060803984（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Dasgupta, Partha | — | 帕塔·达斯古普塔 | 印度／英国／经济学家 | 1942– | ramsey-economics | 学界通行音译（《人类福祉与自然环境》作者，本词条作者）；凭证 2026-11-11 | 2026-11-11 |
-| Dashtakī, Ghiyāt al-Dīn | — | 吉亚斯·丁·达什塔基 | — | — | theology-aristotle | 学界惯例（萨法维早期哲学家）；凭证 2026-11-08 | 2026-11-08 |
-| Dashtakī, Ghiyāth al-Dīn Manṣur | — | 吉亚斯丁·曼苏尔·达什塔基 | 波斯（设拉子） | 1462–1542 | arabic-islamic-mysticism | 设拉子学派通行音译；籍属/生卒联网查证：Wikidata Q16050084（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Dashtakī, Mīr Ṣadr al-Dīn | — | 米尔·萨德尔丁·达什塔基 | — | — | arabic-islamic-mysticism | 设拉子学派通行音译 | 2026-11-07 |
+| Dashtakī, Ghiyāth al-Dīn Manṣur | Ghiyāth al-Dīn Dashtakī；Ghiyat-al-Din Dashtaki | 吉亚斯丁·曼苏尔·达什塔基 | 波斯（设拉子） | 1462–1542 | arabic-islamic-mysticism；theology-aristotle | 设拉子学派通行音译；籍属/生卒联网查证：Wikidata Q16050084（2026-11-20 查，凭证 verify-2026-11-20-people.tsv）；合并：原“Dashtakī, Ghiyāt al-Dīn（首现 theology-aristotle）”同指此人（原文作“early sixteenth-century philosopher Ghiyat-al-Din Dashtaki”）（2026-11-22 查，凭证 arabic-batch1-2026-11-22.tsv） | 2026-11-22 |
+| Dashtakī, Mīr Ṣadr al-Dīn | — | 米尔·萨德尔丁·达什塔基 | — | –1498 | arabic-islamic-mysticism | 设拉子学派通行音译；原文三处作 d. 1498（arabic-islamic-essence／liar／medieval-philosophy，后者并称“the al-Dashtakīs, father and son (d. 1498, d. 1542)”）；mysticism 另有“(1424 CE)”一处，未采（2026-11-22 查，凭证 arabic-batch1-2026-11-22.tsv） | 2026-11-22 |
 | Dauben, Joseph W. | — | Dauben | 美国／史学 | 1944– | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 172037530（2026-11-14 查，凭证 verify-2026-11-14-gnd-f.tsv） | 2026-11-14 |
 | Daubert, Johannes | — | 约翰内斯·道伯特 | 德国／现象学 | 1877–1947 | reinach | 学界通行汉译（慕尼黑学派）；凭证 2026-11-09 | 2026-11-09 |
 | David | — | 大卫 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；审定库一致（termonline-all 凭证 2026-11-13）| 2026-11-04 |
@@ -1300,7 +1297,7 @@
 | Falaquera, Shem Tov ibn | — | 闪-托夫·伊本·法拉奎拉 | 犹太／西班牙 | 1225–1295 | f/falaquera | SUMMARY 定名沿用（f/falaquera.md）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 118998102（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Falk, Raphael | — | 拉斐尔·福尔克 | 以色列 | 1929–2019 | genetics | 基因概念研究者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：Wikidata Q65029468（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Falk, Richard | — | 理查德·福尔克 | 美国 | — | global-democracy | 音译（国际法学者） | 2026-11-12 |
-| Fanārī, Shams al-Dīn | — | 法纳里 | — | — | al-qudat | 学界惯例（伊本·阿拉比后学，通行音译） | 2026-11-06 |
+| Fanārī, Shams al-Dīn | — | 法纳里 | — | –1430 | al-qudat | 学界惯例（伊本·阿拉比后学，通行音译）；原文 en/al-qudat 作“Shams al-Dīn Fanārī (d. 1430)”（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
 | Fang Muru | — | 方楘如 | 中国（清） | 1672– | dai-zhen | 上游自带汉字；学界通行（清代学者，戴震所承写作原则出处）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q28410151（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Fanon, Frantz | — | 弗朗茨·法农 | 法国／马提尼克 | 1925–1961 | colonialism | 学界通行汉译（《全世界受苦的人》中译本署名）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118686070（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Faral, Edmond | — | Edmond Faral（现代学者，保留英文） | 法国／中世纪文学史家 | 1883–1958 | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
@@ -2006,7 +2003,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Iacona, Andrea | — | Andrea Iacona（现代学者，保留英文） | 意大利 | fl. 2018 | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1204290180（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Iamblichus | — | 杨布里科斯 | 古罗马（叙利亚） | 约245–325 | neoplatonism | SUMMARY 定名沿用（i/iamblichus）；学界亦作“扬布利科斯”；籍属/生卒联网查证：Wikidata Q310916（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Iblīs | إِبْلِيسْ | 伊布利斯 | — | — | al-qudat（evil-kinds-origins 同条） | 学界惯例（《古兰经》堕落天使，通行音译）；2026-11-12 合并重复行 | 2026-11-12 |
+| Iblīs | إِبْلِيسْ | 伊布利斯 | — | 不适用 | al-qudat（evil-kinds-origins 同条） | 学界惯例（《古兰经》堕落天使，通行音译）；2026-11-12 合并重复行；经文人物（易卜劣厮），无生卒；与表内“不适用”行同例（2026-11-22 查，凭证 arabic-batch3-2026-11-22.tsv） | 2026-11-22 |
 | Ibn Abi Usaybi'a | — | 伊本·阿比·乌赛比阿 | 叙利亚／阿拉伯医学史家 | c. 1203–1270 | israeli | 阿拉伯医学史通行汉译；凭证 2026-11-11 | 2026-11-11 |
 | Ibn al-Haytham / Alhazen | Ibn al-Haytham / Alhazen | 伊本·海赛姆（阿尔哈增） | 阿拉伯 | 965–1039 | arabic-islamic-* 集群 | 学界通行；籍属/生卒联网查证：GND 规范标目 gnd 118648160（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv） | 2026-11-14 |
 | Ibn al-Jazzar | Ibn al-Jazzar | 伊本·贾扎尔 | 阿拉伯／医学 | 932–1009 | israeli | 阿拉伯医学史通行汉译；籍属/生卒联网查证：GND 规范标目 gnd 118969609（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv） | 2026-11-14 |
@@ -2021,7 +2018,7 @@
 | Ibn Rushd / Averroes | Ibn Rushd / Averroes | 伊本·鲁世德（阿威罗伊） | 西班牙／医学 | 1126–1198 | arabic-islamic-* 集群 | 知网系查证在案；学界通行；籍属/生卒联网查证：GND 规范标目 gnd 118505238（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv） | 2026-11-14 |
 | Ibn Sīnā / Avicenna | ابن سينا | 伊本·西那（阿维森纳） | 波斯（布哈拉附近）／伊斯兰哲学 | 980–1037 | arabic-islamic-* 集群 | 知网系查证在案；学界通行（《中国大百科全书》《世界人名翻译大辞典》体例） | 2026-10-28 |
 | Ibn Taymiyya | Ibn Taymiyya | 伊本·泰米叶 | 叙利亚／阿拉伯 | 1263–1328 | arabic-islamic-* 集群 | 学界通行；籍属/生卒联网查证：GND 规范标目 gnd 118708546（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv） | 2026-11-14 |
-| Ibn Tibbon, Moses / Moses ibn Tibbon | Moses ibn Tibbon | 摩西·伊本·提本 | 普罗旺斯／希伯来翻译家 | 13 世纪 | israeli | 犹太翻译史通行汉译（源文 Moses ibn Tibbon）；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `Moses ibn Tibbon`） | 2026-11-13 |
+| Ibn Tibbon, Moses / Moses ibn Tibbon | Moses ibn Tibbon | 摩西·伊本·提本 | 普罗旺斯／希伯来翻译家 | fl. 1244–1283 | israeli | 犹太翻译史通行汉译（源文 Moses ibn Tibbon）；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `Moses ibn Tibbon`）；原文 en/tibbon 作“Samuel’s son Moses (fl. 1244–1283)”（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
 | Ibn Ṭufayl / Abubacer | ابن طفيل | 伊本·图斐利 | 安达卢斯（瓜迪克斯）／阿拉伯 | 1105–1185 | arabic-islamic-* 集群 | 知网系查证在案；学界通行 | 2026-10-28 |
 | Ibn Tzaddiq, Joseph | — | 约瑟夫·伊本·萨迪克 | 西班牙（科尔多瓦）／犹太哲学家 | d. 1149 | israeli | 犹太哲学研究通行音译（《小宇宙》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Ibn ʿArabī | ابن عربي | 伊本·阿拉比 | 安达卢斯（穆尔西亚）／苏非 | 1165–1240 | arabic-islamic-mysticism | 学界通行 | 2026-10-28 |
@@ -2199,8 +2196,8 @@
 | Jorn, Asger | — | 阿斯格·约恩 | 丹麦 | 1914–1973 | langer | 丹麦画家、理论家（CoBrA 运动；音译）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 11871306X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Joscelin of Soissons | — | 苏瓦松的若斯兰 | — | — | william-sherwood | 学界惯例（12 世纪苏瓦松主教）；凭证 2026-11-07 | 2026-11-07 |
 | José Ortega | José Ortega | 何塞·奥尔特加 | 西班牙 | 1883–1955 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01）；籍属/生卒联网查证：Wikidata Q153020（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Josef Ibn Haviva | — | 约瑟夫·伊本·哈维瓦 | — | — | crescas | 学界通行中译；凭证 2026-11-08 | 2026-11-08 |
-| Josef Ibn Shem Tov | — | 约瑟夫·伊本·谢姆·托夫 | — | — | crescas | 学界通行中译（《驳基督教诸原理》希伯来译者）；凭证 2026-11-08 | 2026-11-08 |
+| Josef Ibn Haviva | — | 约瑟夫·伊本·哈维瓦 | — | — | crescas | 学界通行中译；凭证 2026-11-08；原文 en/crescas 仅作“Rabbi Josef Ibn Haviva”，未载生卒与籍属，存缺（2026-11-22 查，凭证 arabic-batch3-2026-11-22.tsv） | 2026-11-22 |
+| Josef Ibn Shem Tov | — | 约瑟夫·伊本·谢姆·托夫 | — | — | crescas | 学界通行中译（《驳基督教诸原理》希伯来译者）；凭证 2026-11-08；原文 en/crescas 仅作“Rabbi Josef Ibn Shem Tov”，未载生卒与籍属，存缺（2026-11-22 查，凭证 arabic-batch3-2026-11-22.tsv） | 2026-11-22 |
 | Joseph Priestley | — | 约瑟夫·普里斯特利 | 英国 | 1733–1804 | reasoning-analogy | 学界通行汉译（化学家）；籍属/生卒联网查证：Wikidata Q159636（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Joseph Story | — | 约瑟夫·斯托里 | 美国 | 1779–1845 | alexander-crummell | 美国最高法院大法官通行汉译；籍属/生卒联网查证：Wikidata Q1368374（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Jospe, Raphael | — | 拉斐尔·约斯佩 | 以色列 | 1947– | f/falaquera | 音译（当代犹太哲学史家）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 152068449（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -2215,7 +2212,7 @@
 | Jung, Carl Gustav | — | 卡尔·古斯塔夫·荣格 | 瑞士 | 1875–1961 | langer | 学界千年通行汉译（分析心理学）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q41532（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Jürgen Habermas | Jürgen Habermas | 于尔根·哈贝马斯 | 德国 | 1929–2026 | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01）；籍属/生卒联网查证：Wikidata Q76357（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Jurieu, Pierre | — | 皮埃尔·朱里厄 | 法国 | 1637–1713 | bayle | 学界通行音译（培尔论敌，鹿特丹墙外神学家）；籍属/生卒联网查证：GND 规范标目 gnd 118558900（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Jurjānī | — | 朱尔贾尼 | — | fl. 1097–1127 | arabic-islamic-mysticism | 伊斯兰哲学通行音译；生卒据 SEP 原文 en/arabic-islamic-mysticism 括注：本行首现于 mysticism，原文作“Jurjānī (1097–1127 CE)”；另有 1078／1413 卒年的同族二人，故按活跃期照录，不混作生卒（2026-11-22 回读，凭证 en-harvest-2026-11-22.tsv） | 2026-11-22 |
+| Jurjānī | — | 朱尔贾尼 | — | — | arabic-islamic-mysticism | 伊斯兰哲学通行音译；生卒据 SEP 原文 en/arabic-islamic-mysticism 括注：本行首现于 mysticism，原文作“Jurjānī (1097–1127 CE)”；另有 1078／1413 卒年的同族二人，故按活跃期照录，不混作生卒（2026-11-22 回读，凭证 en-harvest-2026-11-22.tsv）；撤回上轮所填 fl. 1097–1127：原文 mysticism 该句作“Taftazānī (c. 1322–1390 CE) and Jurjānī (1097–1127 CE) went to India”，括注与句内蒙古期年代冲突，疑为赛义德·谢里夫·朱尔贾尼（1340–1413）之讹；不经考订不入生卒，译文该处须加译注（2026-11-22 查，凭证 arabic-batch1-2026-11-22.tsv） | 2026-11-22 |
 | Justin Martyr | — | 殉道者查士丁 | 古罗马 | 约100–165 | gianfrancesco-pico | 教父学通行汉译；与登记册 Justinian 查士丁尼异人；籍属/生卒联网查证：Wikidata Q185117（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Justinian | — | 查士丁尼 | 拜占庭 | 482–565 | neoplatonism | 史学界通行汉译（东罗马皇帝，529 年立法关闭雅典学园）；籍属/生卒联网查证：Wikidata Q41866（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Jutla, Charanjit S. | — | Charanjit S. Jutla | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
@@ -2320,7 +2317,7 @@
 | Kircher, Athanasius | — | 阿塔纳修斯·基歇尔 | 德国／耶稣会学者 | 1602–1680 | johann-sturm | 学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Kirchhoff, Raina | — | Raina Kirchhoff（现代学者，保留英文） | 德国 | fl. 2006 | william-sherwood | ADR-0022（舍伍德校勘本与评注者）；籍属/生卒联网查证：GND 规范标目 gnd 135738784（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Kirk, Robert | — | 罗伯特·柯克 | 英国 | 1933– | zombies | 学界惯例（心灵哲学文献通译；本词条作者）；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q7346388（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Kirmānī, Ḥamīd al-Dīn | — | 哈米德丁·基尔马尼 | — | — | arabic-islamic-mysticism | 伊斯玛仪哲学通行音译 | 2026-11-07 |
+| Kirmānī, Ḥamīd al-Dīn | al-Kirmānī（书中通称） | 哈米德丁·基尔马尼 | — | — | arabic-islamic-mysticism；theology-aristotle | 伊斯玛仪哲学通行音译；合并：原“al-Kirmānī（首现 theology-aristotle）”同指 Ḥamīd al-Dīn al-Kirmānī；原文 mysticism 作“Ḥamīd al-Dīn Kirmānī (d. 996–1021 CE)”，该括注为活动期且与通行断代不合，未采入生卒（2026-11-22 查，凭证 arabic-batch1-2026-11-22.tsv） | 2026-11-22 |
 | Kitcher, Philip | — | 菲利普·基切尔 | 美国 | 1947– | biology-philosophy | 学界通行汉译（科学哲学文献）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 120509970（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kleene, Stephen | — | Kleene | 美国／数学 | 1909–1994 | lvov-warsaw | 本库惯例保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 136329632（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Klein, Felix | — | 费利克斯·克莱因 | 德国 | 1849–1925 | geometry-19th | 埃尔朗根纲领提出者，数学史通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：Wikidata Q76641（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -3033,7 +3030,7 @@
 | Nanyue Huairang | — | 南岳怀让 | 中国（唐） | 677–744 | buddhism-chan | 佛学界通行汉译（马祖之师）；籍属/生卒联网查证：Wikidata Q712577（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Nardin, Terry | Terry Nardin | 特里·纳丁 | 新加坡 | 1942– | oakeshott | 体例：现当代学者作者署名保留原文（ADR-0022）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 128986301（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Narveson, Jan | — | 简·纳维森 | 加拿大 | 1936– | contractarianism | 学界通行汉译（自由至上主义与契约主义，The Libertarian Idea 作者）；凭证 2026-11-10 | 2026-11-09 |
-| Nasafī, ʿAzīz al-Dīn | — | 纳萨菲 | — | — | al-qudat | 学界惯例（波斯苏菲作者，通行音译） | 2026-11-06 |
+| Nasafī, ʿAzīz al-Dīn | — | 纳萨菲 | — | –1300前 | al-qudat | 学界惯例（波斯苏菲作者，通行音译）；原文 en/al-qudat 作“ʿAzīz al-Dīn Nasafī (d. before 1300)”（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
 | Nāṣir-i Khusraw | — | 纳赛尔·霍斯鲁 | 波斯 | 1004–1088 | arabic-islamic-mysticism | 伊斯玛仪哲学通行汉译；籍属/生卒联网查证：Wikidata Q328796（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Natorp, Paul | — | 保罗·那托普 | 德国 | 1854–1924 | gadamer | SUMMARY 定名沿用（n/natorp.md 作“那托普”）；凭证 2026-11-10 | 2026-11-10 |
 | Nausiphanes | Ναυσιφάνης | 瑙西芬尼 | 忒奥斯／德谟克利特派 | fl. 公元前 4 世纪末 | epicurus | 音译（伊壁鸠鲁早年之师，学界通行形） | 2026-11-12 |
@@ -3113,7 +3110,7 @@
 | Noxon, James | — | 诺克森 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
 | Nozick, Robert | — | 罗伯特·诺齐克 | 美国 | 1938–2002 | ethics-deontological | 学界通行汉译（《无政府、国家与乌托邦》作者）；籍属/生卒联网查证：GND 规范标目 gnd 118588974（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Numenius | — | 努梅尼乌斯 | 古希腊（阿帕梅亚） | — | neoplatonism | 学界通行汉译（阿帕梅亚的努梅尼乌斯，2 世纪中期柏拉图主义者）；籍属/生卒联网查证：GND 规范标目 gnd 118786563（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
-| Nurī, Mullā ʿAlī | — | 穆拉·阿里·努里 | — | — | arabic-islamic-mysticism | 德黑兰学派通行音译 | 2026-11-07 |
+| Nurī, Mullā ʿAlī | — | 穆拉·阿里·努里 | — | –1830/31 | arabic-islamic-mysticism | 德黑兰学派通行音译；原文 en/arabic-islamic-mysticism 作“Mullā ʿAlī Nurī (d. 1830–1 CE)”，即伊斯法罕的努里（AH 1246 卒），非德黑兰学派创始人（2026-11-22 查，凭证 arabic-batch3-2026-11-22.tsv） | 2026-11-22 |
 | Nussbaum, Martha | — | 玛莎·努斯鲍姆 | 美国 | 1947– | erotic-art | 学界通行（哲学家）；籍属/生卒联网查证：GND 规范标目 gnd 119546213（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Nyerere, Julius | — | 朱利叶斯·尼雷尔 | 坦桑尼亚 | 1922–1999 | african-ethics | 学界通行音译（坦桑尼亚首任总统）；凭证 2026-11-09 | 2026-11-09 |
 | Nylan, Michael | — | 戴梅可 | 美国 | 1950– | chinese-phil-science | 学界通行（汉名戴梅可，早期中国经典研究）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 1046435825（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -3463,7 +3460,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Qāḍī Abū Naṣr | — | 卡迪·阿布·纳斯尔 | 设拉子／政治家、学者 | — | umar-khayyam | 音译（向海亚姆提出神义论问题者，学界无统一汉名） | 2026-11-14 |
 | Qāḍī Nasawī | — | 卡迪·纳斯维 | 纳沙布尔／卡迪 | — | umar-khayyam | 音译（《对立性之必然》答问对象，学界无统一汉名） | 2026-11-14 |
-| Qayṣarī, Dāwūd al- | — | 凯萨里 | — | — | al-qudat | 学界惯例（伊本·阿拉比后学，通行音译） | 2026-11-06 |
+| Qayṣarī, Dāwūd al- | — | 凯萨里 | — | –1350 | al-qudat | 学界惯例（伊本·阿拉比后学，通行音译）；原文 en/al-qudat 作“Dāwūd al-Qayṣarī (d. 1350)”（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
 | Qian Daxin | — | 钱大昕 | 中国（清） | 1728–1804 | dai-zhen | 上游自带汉字；学界通行（乾嘉考据名家）；凭证 2026-11-07；籍属/生卒联网查证：SEP 原文 en/qing-philosophy:1666（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Qian Mu | 钱穆 | 钱穆 | 中国 | 1895–1990 | zhu-xi | 学界通行汉译（汉字本名；《朱子新学案》作者）；凭证 2026-11-15 | 2026-11-15 |
 | Qin Shi Huang | — | 秦始皇 | 中国（秦） | 前259–前210 | chinese-phil-science | 上游自带汉字（秦朝建立者嬴政，上游作 Qin Shi Huang秦始皇）；凭证 2026-11-13；籍属/生卒联网查证：Wikidata Q7192（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
@@ -3475,8 +3472,7 @@
 | Quine, W.V.O. | — | Quine | 美国 | 1908–2000 | logical-consequence | 本库惯例保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 118641824（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Quinn, Warren | — | 沃伦·奎因 | 美国 | 1945–1991 | ethics-deontological | 学界通行汉译（义务论伦理学家；与逻辑学家 Quine 蒯因异人）；籍属/生卒联网查证：Wikidata Q112432739（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Quintilian | — | 昆体良 | 古罗马（西班牙） | 约35–96 | erasmus | 学界惯例（《演说术原理》作者千年通行译名）；籍属/生卒联网查证：Wikidata Q193769（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
-| Qummī, Qāḍī Saʿīd | — | 卡迪·赛义德·库米 | — | 1640–1696 | arabic-islamic-mysticism | 萨德拉学派通行音译；籍属/生卒联网查证：GND 规范标目 1169061214（Qāḍī Saʿīd Qummī，2026-11-22 查；单源，已人工过目，凭证 gnd-verdict-2026-11-22.tsv） | 2026-11-22 |
-| Qummī, Saʿīd | — | 赛义德·库米 | — | — | theology-aristotle | 照文音译（十七世纪萨法维注释者）；凭证 2026-11-08 | 2026-11-08 |
+| Qummī, Qāḍī Saʿīd | Saʿīd al-Qummī；Saʿīd Qummī | 卡迪·赛义德·库米 | — | 1640–1696 | arabic-islamic-mysticism；theology-aristotle | 萨德拉学派通行音译；籍属/生卒联网查证：GND 规范标目 1169061214（Qāḍī Saʿīd Qummī，2026-11-22 查；单源，已人工过目，凭证 gnd-verdict-2026-11-22.tsv）；合并：原“Qummī, Saʿīd（首现 theology-aristotle）”同指；原文作“Sa‘id al-Qummi (for the latter see Rizvi 2007)”（2026-11-22 查，凭证 arabic-batch1-2026-11-22.tsv） | 2026-11-22 |
 | Qūnawī, Ṣadr al-Dīn | صدر الدین قونوی | 库纳维 | 波斯／苏菲 | 1209–1274 | al-qudat | 学界惯例（伊本·阿拉比后学，通行音译）；籍属/生卒联网查证：Wikidata Q770298（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Qusta Ibn Luqa | Qusta Ibn Luqa | 库斯塔·伊本·卢卡 | 叙利亚／拜占庭医学 | 约820–912 | israeli | 阿拉伯医学史通行汉译；籍属/生卒联网查证：SEP 原文 en/israeli:667（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 
@@ -3527,7 +3523,7 @@
 | Raymundus Lullus | — | 拉蒙·卢尔 | 西班牙 | 1232–1315 | leibniz-logic-influence | 学界通行汉译（中世纪加泰罗尼亚哲人，通行“卢尔”）；审定库无相关命中（termonline-all 凭证 2026-11-14）；籍属/生卒联网查证：GND 规范标目 gnd 118575279（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Raynal, Guillaume-Thomas | — | 雷纳尔 | 法国 | 1713–1796 | godwin | 学界通行汉译（法国启蒙史家）；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：Wikidata Q727782（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Raz, Joseph / Joseph Raz | — | 约瑟夫·拉兹 | 以色列／英国 | 1939–2022 | lawphil-theory；ethics-deontological | 学界通行汉译（法哲学界通行）；2026-11-13 重复行合并（旧键 `Joseph Raz`）；籍属/生卒联网查证：Wikidata Q1380371（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
-| Rāzī, Abū Ḥātim | — | 阿布·哈提姆·拉齐 | — | — | arabic-islamic-mysticism | 伊斯玛仪哲学通行音译（与医学家拉齐分立） | 2026-11-07 |
+| Rāzī, Abū Ḥātim | — | 阿布·哈提姆·拉齐 | — | –934 | arabic-islamic-mysticism | 伊斯玛仪哲学通行音译（与医学家拉齐分立）；原文 en/abu-bakr-al-razi 作“Abū Ḥātim al-Rāzī (d. 934)”（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
 | Read, Stephen | — | Stephen Read（现代学者，保留英文） | 英国 | 1947– | buridan | ADR-0022：无通行汉名者保留英文（布里丹《论后承》英译者）；凭证 2026-11-08；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：GND 规范标目 gnd 1065014112（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Regiomontanus | — | 雷吉奥蒙塔努斯 | 神圣罗马帝国（柯尼斯堡） | 1436–1476 | bessarion | 学界通行音译（15 世纪天文学家、数学家，本名 Johannes Müller；源文生卒同） | 2026-11-10 |
 | Regius | — | 雷吉乌斯 | 荷兰 | 1598–1679 | descartes-works | 学界通行（亨利·雷吉乌斯，乌得勒支医生，笛卡尔助手）；籍属/生卒联网查证：GND 规范标目 gnd 119026074（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -3680,7 +3676,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Sa'id al-Andalusi | Sa'id al-Andalusi | 赛义德·安达卢西（亦作“萨伊德·安达卢西”） | 西班牙（安达卢斯）／科学史家 | 1029–1070 | israeli | 阿拉伯科学史通行汉译（《诸民族分类书》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Saadya Gaon | — | 萨阿迪亚·加昂（Saadya ben Joseph al-Fayyumi） | 埃及（法尤姆）／犹太哲学 | 882–942 | israeli | 犹太哲学研究通行汉译（Gaon 职衔“加昂”）；2026-11-11 全库统一，SUMMARY 旧形“果昂”已改 | 2026-11-11 |
-| Sabziwārī, Ḥājj Mullā Hādī | — | 萨布扎瓦里 | — | — | arabic-islamic-mysticism | 德黑兰学派通行音译 | 2026-11-07 |
+| Sabziwārī, Ḥājj Mullā Hādī | — | 萨布扎瓦里 | — | –1873 | arabic-islamic-mysticism | 德黑兰学派通行音译；原文 en/suhrawardi 作“Hadi Sabzawari (d.1873)”（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
 | Sabʿīn, Ibn | — | 伊本·萨宾 | 安达卢斯／伊斯兰神秘主义 | 1217–1270 | arabic-islamic-mysticism | 西班牙苏非哲学通行音译；籍属/生卒联网查证：Wikidata Q2719051（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Saccheri, Girolamo | — | 吉罗拉莫·萨凯里 | 意大利 | 1667–1733 | geometry-19th | 非欧几何先驱，数学史通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 101231687（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Sade, Marquis de | — | 萨德 | 法国 | 1740–1814 | erotic-art | 学界通行（萨德侯爵）；籍属/生卒联网查证：GND 规范标目 gnd 118604759（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -3733,7 +3729,7 @@
 | Savonarola, Girolamo | — | 吉罗拉莫·萨伏那洛拉 | 意大利 | 1452–1498 | gianfrancesco-pico | 学界通行汉译（多明我会修士，1498 火刑）；籍属/生卒联网查证：GND 规范标目 gnd 118605933（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Savulescu, Julian | — | 朱利安·萨武列斯库 | 英国 | 1963– | disability | 学界惯例音译（生物伦理学，牛津；正文首现括注）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1163621471（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Saxton, Marsha | — | 玛莎·萨克斯顿 | — | — | genetics | 残障权利活动家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11 | 2026-11-11 |
-| Sayyid al-Sharīf al-Jurjānī | — | 赛义德·谢里夫·朱尔加尼 | 波斯（朱尔扬）／教义学与语义学 | 1340–1413 | arabic-islamic-phil-math | 音译（学界无统一汉名） | 2026-11-08 |
+| Sayyid al-Sharīf al-Jurjānī | — | 谢里夫·朱尔贾尼 | 波斯（朱尔扬）／教义学与语义学 | 1340–1413 | arabic-islamic-phil-math | 音译（学界无统一汉名）；同一 nisba 表内两写（朱尔贾尼／朱尔加尼），统一为学界通行“朱尔贾尼”；原文 suhrawardi 作“Sayyid Sharif al-Jurjani (d.1414)”（2026-11-22 查，凭证 arabic-batch1-2026-11-22.tsv） | 2026-11-22 |
 | Scaliger, Julius Caesar | — | 尤利乌斯·凯撒·斯卡利杰 | 意大利／文艺复兴哲学家与医学家 | 1484–1558 | johann-sturm | 学界通行汉译（勿与 Joseph Justus Scaliger 相混）；凭证 2026-11-10 | 2026-11-10 |
 | Scanlon, T. M. | — | 托马斯·M. 斯坎伦 | 美国／哲学家 | 1940– | reflective-equilibrium | 学界通行汉译（《我们彼此负有什么义务》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Scanu, Maria | — | 玛丽亚·斯坎努 | — | — | erotic-art | 学界惯例音译（雕塑家） | 2026-11-08 |
@@ -3856,7 +3852,7 @@
 | Shields, Allen | — | Shields | 美国 | 1927–1989 | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1049522079（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Shiffman, Yair | — | 希夫曼 | — | — | f/falaquera | 音译（《迷途指津之指引》研究者）；凭证 2026-11-11 | 2026-11-11 |
 | Shiner, Roger A. | — | 夏纳 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
-| Shīrāzī, Quṭb al-Dīn | — | 库特卜丁·设拉子 | 波斯 | 1236–1311 | arabic-islamic-mysticism | 设拉子学派通行音译；籍属/生卒联网查证：Wikidata Q729903（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
+| Shīrāzī, Quṭb al-Dīn | قطب الدين الشيرازي；古特布丁·设拉子（旧译）；库特卜丁·设拉子（旧形） | 库特布丁·设拉子 | 波斯 | 1236–1311 | arabic-islamic-mysticism；copernicus | 设拉子学派通行音译；籍属/生卒联网查证：Wikidata Q729903（2026-11-21 查，凭证 verify-2026-11-20-people.tsv）；合并：原“al-Shīrāzī, Quṭb al-Dīn（首现 copernicus）”同指 1236–1311；译名统一为“库特布丁·设拉子”，旧译“古特布丁”入别名（2026-11-22 查，凭证 arabic-batch1-2026-11-22.tsv）；上一批合并时漏改主译：同人旧译“库特卜丁／古特布丁”并存，统一为学界通行“库特布丁·设拉子”（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
 | Shlomi Segall | — | 什洛米·塞加尔 | 以色列 | 1970– | justice-healthcareaccess | 学界惯例（健康正义理论通行译法）；籍属/生卒联网查证：Wikidata Q59611088（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Shoemaker, Sydney | — | 悉尼·舒梅克 | 美国 | 1931– | bodily-awareness | 学界通行汉译（自我知识哲学家）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 124515576（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Shoenfield, Joseph R. | — | 约瑟夫·舍恩菲尔德 | 美国 | 1927–2000 | axiom-choice | 学界通行汉译（数理逻辑，《数理逻辑》作者）；凭证 2026-11-13 | 2026-11-13 |
@@ -3874,7 +3870,7 @@
 | Siger of Courtrai | — | 库特赖的西格尔 | — | 约1280–1341 | autrecourt | 学界通行（模态语义学家）；生卒据 SEP 原文 en/erfurt 括注：原文括注 ca. 1280–1341，与 Brito 对举（2026-11-22 回读，凭证 en-harvest-2026-11-22.tsv） | 2026-11-22 |
 | Sigmund Freud | — | 弗洛伊德 | 奥地利 | 1856–1939 | leibniz-mind | 学界通行汉译；审定库无相关命中（termonline-all 凭证 2026-11-14）；籍属/生卒联网查证：Wikidata Q9215（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Sigwart, Christoph | — | Sigwart | 德国 | 1830–1905 | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 118614258（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Sijistānī, Abū Yaʿqub | أبو يعقوب إسحاق بن أحمد السجستاني | 阿布·雅库布·西吉斯塔尼 | — | — | arabic-islamic-mysticism | 伊斯玛仪哲学通行音译 | 2026-11-07 |
+| Sijistānī, Abū Yaʿqub | أبو يعقوب إسحاق بن أحمد السجستاني | 阿布·雅库布·西吉斯塔尼 | — | –971后 | arabic-islamic-mysticism | 伊斯玛仪哲学通行音译；原文 en/suhrawardi 作“Sijistani (d. after 971)”（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
 | Sikorski, Roman | — | 罗曼·西科尔斯基 | 波兰 | 1900–1983 | axiom-choice | 学界通行汉译（西科尔斯基扩张定理）；凭证 2026-11-13 | 2026-11-13 |
 | Silva Filho, Waldomiro José da | — | 瓦尔多米罗·若泽·达·席尔瓦·菲略 | 巴西 | 1966– | epistemology-latin-america | 音译（葡萄牙语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
 | Silvers, Anita | — | 安妮塔·西尔弗斯 | 美国 | 1940–2019 | genetics | 残障哲学家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 1210270773（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -4679,8 +4675,8 @@
 | Zou Yan | — | 邹衍 | 中国（战国·齐） | 约前305–前240 | chinese-phil-science | 上游自带汉字（鄒衍，阴阳家）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q227022（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Zuckerberg, Mark | — | 马克·扎克伯格 | 美国 | 1984– | it-moral-values | 新闻与商业通行汉译（脸书创办人）；凭证 2026-11-10 | 2026-11-10 |
 | Zuluaga, Mauricio | — | 毛里西奥·苏卢阿加 | 哥伦比亚 | 1967– | epistemology-latin-america | 音译（西班牙语译名惯例）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 1146949650（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Zunuzī, Mullā ʿAbdallāh | — | 穆拉·阿卜杜拉·祖努齐 | — | — | arabic-islamic-mysticism | 德黑兰学派通行音译 | 2026-11-07 |
-| Zunuzī, Mullā ʿAlī | — | 穆拉·阿里·祖努齐 | — | — | arabic-islamic-mysticism | 德黑兰学派通行音译 | 2026-11-07 |
+| Zunuzī, Mullā ʿAbdallāh | — | 穆拉·阿卜杜拉·祖努齐 | — | –1841/42 | arabic-islamic-mysticism | 德黑兰学派通行音译；原文 en/arabic-islamic-mysticism 作“Mullā ʿAbdallāh Zunuzī (d. 1841–42 CE)”（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
+| Zunuzī, Mullā ʿAlī | — | 穆拉·阿里·祖努齐 | — | –1889/1900 | arabic-islamic-mysticism | 德黑兰学派通行音译；原文同上作“his son, Mullā ʿAlī Zunuzī (d. 1889–1900 CE)”（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
 | Zurbaran, Francisco de | — | 苏巴朗 | 西班牙 | 1598–1664 | erotic-art | 学界通行（西班牙画家）；籍属/生卒联网查证：GND 规范标目 gnd 118808672（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Zürn, Michael | — | 米夏埃尔·聚恩 | 德国 | 1959– | global-democracy | 音译（国际权威研究）；亦作“苏恩”；籍属/生卒联网查证：GND 规范标目 gnd 124798160（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Zvi, Shabbatai | — | 沙巴泰·茨维 | 奥斯曼帝国（士麦那生） | 1626–1676 | scholem | 学界通行汉译（十七世纪假弥赛亚）；凭证 2026-11-08 | 2026-11-08 |
@@ -4695,10 +4691,9 @@
 | von Plato, Jan | — | von Plato | 芬兰 | 1951– | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 171423615（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | al-Juwaynī | أبو المعالي الجويني | 朱韦尼 | 波斯（尼沙普尔）／伊斯兰教义学 | 1028–1085 | al-din-al-razi | 学界通行（艾什尔里派神学家） | 2026-11-09 |
 | al-Jīlī, Majd al-Dīn | مجد الدين الجيلي | 麦吉德丁·吉里 | 波斯（吉兰）／伊斯兰教义学 | d. after 1175 | al-din-al-razi | 音译（学界无通行汉名） | 2026-11-09 |
-| al-Farghānī | الفرغاني | 阿尔-法尔加尼 | 中亚（法拉干）／天文学 | c. 798–c. 870 | copernicus | 学界通行音译（9 世纪天文学家，拉丁名 Alfraganus）；凭证 2026-11-13 | 2026-11-13 |
-| al-Battānī | البتاني | 阿尔-巴塔尼 | 美索不达米亚（哈兰）／天文学 | c. 858–929 | copernicus | 学界通行音译（萨比天文家，拉丁名 Albategnius）；凭证 2026-11-13 | 2026-11-13 |
+| al-Farghānī | الفرغاني；阿尔-法尔加尼（旧形） | 法尔加尼 | 中亚（法拉干）／天文学 | c. 798–c. 870 | copernicus | 学界通行音译（9 世纪天文学家，拉丁名 Alfraganus）；凭证 2026-11-13；冠词 al- 不音译，与表内法拉比／比鲁尼／花拉子米一体例（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
+| al-Battānī | البتاني；阿尔-巴塔尼（旧形） | 巴塔尼 | 美索不达米亚（哈兰）／天文学 | c. 858–929 | copernicus | 学界通行音译（萨比天文家，拉丁名 Albategnius）；凭证 2026-11-13；冠词 al- 不音译，与表内同例；旧形“阿尔-巴塔尼”入别名（2026-11-22 查，凭证 arabic-batch2-2026-11-22.tsv） | 2026-11-22 |
 | al-ʿUrḍī, Muʾayyad al-Dīn | مؤيد الدين العردي | 穆阿亚德·丁·乌尔迪 | 叙利亚（大马士革）／天文学 | d. 1266 | copernicus | 学界通行音译（马拉盖天文台仪器制作师）；凭证 2026-11-13 | 2026-11-13 |
-| al-Shīrāzī, Quṭb al-Dīn | قطب الدين الشيرازي | 古特布丁·设拉子 | 波斯（设拉子）／天文学 | 1236–1311 | copernicus | 学界通行音译（马拉盖学派天文学家）；凭证 2026-11-13 | 2026-11-13 |
 | Ibn al-Shāṭir | ابن الشاطر | 伊本·沙提尔 | 叙利亚（大马士革）／天文学 | 1304–1375 | copernicus | 学界通行音译（马拉盖传统天文家，哥白尼模型近亲）；凭证 2026-11-13 | 2026-11-13 |
 | Jābir ibn Aflaḥ | جابر بن أفلاح | 贾比尔·伊本·阿弗拉赫 | 安达卢西亚（塞维利亚）／天文学 | 12 世纪 | copernicus | 学界通行音译（《天文学》作者，拉丁名 Geber，与炼金家 Jābir ibn Ḥayyān 异人）；凭证 2026-11-13 | 2026-11-13 |
 | ʿAlī ibn Abī l-Rijāl | علي بن أبي الريجال | 阿里·伊本·阿比尔-里贾勒 | 的黎波里／占星术 | 10–11 世纪 | copernicus | 上游自带形（占星家，拉丁名 Abenragel）；凭证 2026-11-13 | 2026-11-13 |

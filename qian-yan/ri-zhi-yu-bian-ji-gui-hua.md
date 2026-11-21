@@ -234,12 +234,23 @@
 * **结论**：这条欠账**大部分无法由权威库自动清偿**——现代学者多无规范档，古人生卒本就无确证，同名污染又使单源不可直接写回。剩余 922 条只能逐条人工研究（回所属词条原文定人），自动化通道到此为止。
 * **教训**：①同名误并的第一道闸必须是**词集等值**而非包含（Alan 包含于 Pritchard, Alan 即典型漏口）；②泛名闸与职业闸是必要的第二、三道，缺一则存疑池被污染；③单源接受一律走人工白名单并落盘复查，不凭临时判断直接写表。
 
-## 2026-11-22 人名缺项再清：回读原文括注 41 条＋GND→Wikidata P227 桥 6 条（缺项 922→881）
+## 2026-11-22 人名缺项再清：回读原文括注 41 条＋GND→Wikidata P227 桥 6 条（缺项 922→902）
 
 * **通道甲（原文括注，零信任回源）**：按“首现”逐条读 en/<slug>/index.html，抽 “Name (生卒)” 紧括号式；只认含间隔号或带 c./d./b./fl. 标记者（单裸年几乎都是出版年，“Name (2005) … 111–120” 一类书目页码串占首版假阳性绝大多数）。逐条过目后写 35 条、弃 4（David／Hippo／Moses／Shakespeare 命中皆同名异人：Hartley 之子、Augustine of Hippo、《提本》之子、Schlegel 译事年代）。
-* **正则修正**：助词分支 `\s+of\s+` 未接本体，导致 “Dietrich of Freiberg (…)”“Alexander of Aphrodisias (…)” 整串失配、退化为只抓末词；补上助词后本体落位，另放行 “1240/1250–1318/1320” 式斜杠年。第二批新增 6 条（Alexander of Aphrodisias fl. 约200／Dietrich 约1250–1310／Electress Sophie 1630–1714／Nicholas of Otranto –1235／Siger of Courtrai 约1280–1341／Zeno (of Citium) 前335–前263），弃 1（Solomon 命中的是 Ibn Gabirol）。合计 41 条，缺生卒 855→814。
+* **正则修正**：助词分支 `\s+of\s+` 未接本体，导致 “Dietrich of Freiberg (…)”“Alexander of Aphrodisias (…)” 整串失配、退化为只抓末词；补上助词后本体落位，另放行 “1240/1250–1318/1320” 式斜杠年。第二批新增 6 条（Alexander of Aphrodisias fl. 约200／Dietrich 约1250–1310／Electress Sophie 1630–1714／Nicholas of Otranto –1235／Siger of Courtrai 约1280–1341／Zeno (of Citium) 前335–前263），弃 1（Solomon 命中的是 Ibn Gabirol）。合计 41 条，缺生卒 855→814（P227 批再降至 811）。
 * **通道乙（P227 桥）**：GND 已按规范名等值锚定、惟规范档无年份的 121 键，以 haswbstatement:P227=<gndId> 反查 Wikidata，取同一实体生卒。准入四闸：恰一命中／精度不低于年／生卒不同值（剔除活跃期代理）／职业不涉可疑族。判定：接受 9／存疑 30／查无 82。
 * **接受集逐条再核（本人履历与双向国别栏）**：Matthen（本人 CV“Born Bangalore, India on 2nd April, 1948… Citizen of Canada”）、Solère（IdRef 069192642：1960，法国，CNRS）、Melia（fr.wikipedia 1935／英国籍）、Forsythe（维基：美国实验经济学家）、Squatrito（1979，与其 LSE 履历 2001 年本科毕业相符）、Song Xing（宋钘 前370–前291）。拒 3：Batterman（Q89298775 记 1900，与本行所引当代物理哲学家不合，疑 GND 并档）、Meskin（ORCID 自动条目同挂 1950 与 1934）、Platek（描述 Canadian statistician，与递归论学者不符）。
-* **写回**：生卒 6＋籍属 4（Matthen 加拿大（生于班加罗尔）／Solère 法国／Forsythe 美国／Melia 英国）。缺生卒 814→811，缺籍属 727→723，任一缺 922→881。门禁 check_all 17 项全绿。
+* **写回**：生卒 6＋籍属 4（Matthen 加拿大（生于班加罗尔）／Solère 法国／Forsythe 美国／Melia 英国）。缺生卒 814→811，缺籍属 727→723；合并后缺生卒 808、缺籍属 720，任一缺 899。门禁 check_all 17 项全绿。
 * **负结果（判为不可自动化）**：①“<国别形容词> philosopher <人名>”同位语全库仅 1 处可得（hegel 的 Klaus Hartmann），通道作废；②GND 等值多候选细分筛 116 键只出 18 条，逐看 10 条是泛名单词、其余职业明显不合，机械收窄不可采；③剩余 811 条中 92 条依据已注明“现代学者”（在世或当代，生卒本无），其余多为当代学者与无规范档的古代小人物。
 * **教训**：①正则助词分支必须自带本体，否则整串退化为只抓末词；②单裸年、斜杠年、fl. 三种式样须分别判；③规范库并档会把错年份带进 P227 桥，故身份闸之外还必须看人的描述，接受集一律逐条过目。
+
+## 2026-11-22 阿拉伯语人名全量重判（用户指令“有大量重名现象”）
+
+* **队列**：两路口径取并集——结构路（mu-lu-s 伊斯兰哲学一节 39 篇条目首现）125 行＋词形路（al-／ibn／Abū／ʿAbd／Mullā 等阿语专名元素）209 行，并集 233 行；再以严格词形剔除梵巴日名误入，收窄为 **127 行**。碰撞扫描：同主译 1 组（且系梵名误入）、同词干 13 组、重复键 0、裸单名 64 行（其中阿语仅 5）。
+* **四处同人重复登记，已合并**：①Dashtakī, Ghiyāt al-Dīn ≡ Dashtakī, Ghiyāth al-Dīn Manṣur（原文 medieval-philosophy 明言“the al-Dashtakīs, father and son (d. 1498, d. 1542)”，父 Ṣadr al-Dīn d.1498／子 Ghiyāth al-Dīn d.1541–42）；②al-Kirmānī ≡ Kirmānī, Ḥamīd al-Dīn；③Qummī, Saʿīd ≡ Qummī, Qāḍī Saʿīd；④al-Shīrāzī, Quṭb al-Dīn ≡ Shīrāzī, Quṭb al-Dīn（均 1236–1311）。另 Abd al-Latif ≡ ʿAbd al-Laṭīf al-Baghdādī（词汇表并网旧形）。
+* **同一 nisba 两写，已统一**：朱尔加尼→朱尔贾尼；库特卜丁／古特布丁→库特布丁·设拉子（中文维基与金宜久《伊斯兰教辞典》均作库特布丁）；阿尔-法尔加尼→法尔加尼、阿尔-巴塔尼→巴塔尼（冠词不音译，与表内法拉比／比鲁尼同例）。
+* **原文回读补生卒 15 条**（另撤回 1、改格式 1）：Fanārī –1430、Qayṣarī –1350、Nasafī –1300 前、Sabziwārī –1873、Zunūzī ʿAbdallāh –1841/42 与 ʿAlī –1889/1900、Dargazīnī –1133、Abū Ḥātim al-Rāzī –934、Sijistānī Abū Yaʿqub –971 后、al-Ṭabarī fl. 9 世纪（原文指名 ʿAlī ibn Sahl Rabban al-Ṭabarī）、Ibn Tibbon Moses fl. 1244–1283、Nūrī –1830/31、Ibn Daud c. 1110–1180、Dashtakī Ṣadr al-Dīn –1498、Iblīs 不适用。
+* **同名陷阱两处**：①mysticism 句“Taftazānī (c. 1322–1390 CE) and Jurjānī (1097–1127 CE) went to India”，括注与句内蒙古期年代冲突，疑赛义德·谢里夫·朱尔贾尼（1340–1413）之讹——撤回上轮所填 fl. 1097–1127，改记存疑并注“译文该处须加译注”；②Mullā ʿAlī Nūrī 系伊斯法罕师（d. 1830–1），拒赴德黑兰，德黑兰学派创始者实为其徒 Zunūzī 之子 Āqā ʿAlī Mudarris（d. 1889）——表内 Nurī 与 Zunuzī 两代三行分立无误（Nūrī → ʿAbdallāh → ʿAlī）。
+* **未采、留待人工**：Josef Ibn Haviva／Josef Ibn Shem Tov 原文无生卒（已在依据注明存缺）；籍属 25 行仍缺（原文少明言，nisba 只能推地域，按零信任不作推定填表）；ʿAbd al-Qāhir al-Jurjānī（d. 1078）与 Abū al-Ḥakam ʿAmr al-Kirmānī（d. 1066）原文有出现而表内无行，属“表未收”，非重名。
+* **门禁**：行 4594→4589（合并 5 行）；重复键 0；check_all 17 项全绿。
+* **教训**：①尼萨巴（nisba）族最易误判的不是两个人写重，而是一行同时罩着几个人——合并前必须回原文看“父／子”“师／徒”的代词链；②同一人名元素在表内两写（加尼／贾尼、布丁／卜丁）比错译更难发现，须按 nisba 归族比对；③原文括注本身也会讹（Jurjānī 1097–1127），照录即错，须与句内年代互校。
