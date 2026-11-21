@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 891，FLAG 633，FIX 19，MERGE 7
+判定分布：KEEP 886，FLAG 637，FIX 20，MERGE 7
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -181,7 +181,7 @@
 - **Consistent Histories**（行 1200，现译「一致性历史」）｜ MERGE ｜ 与 Consistent Histories Approach 为同一量子力学诠释的两行；合为一行，旧形入亦作
 - **constructible universe**（行 1216，现译「可构造宇宙（亦作“可构成集”）」）｜ FLAG ｜ 亦作列“可构成集”与 universe（宇宙／类）不同层次，哥德尔 L 通作“可构造宇宙”；删该亦作
 - **construction**（行 1217，现译「构式」）｜ FLAG ｜ 一行跨两义：构造主义数学的“构造”（constructions of a certain kind）与构式语法的“构式”；译法只落后者，须按同形不同义分行
-- **content internalism**（行 1232，现译「内容内在论」）｜ FLAG ｜ 译“内容内在论”与 Content Externalism“内容外在主义（亦作内容外在论）”不对称；两头按同一词族统一（内在主义／外在主义）
+- **content internalism**（行 1232，现译「内容内在论」）｜ FLAG ｜ 同族译法不对称：content internalism＝内容内在论、Content Externalism＝内容外在主义；通行“内在论／外在论”或“内在主义／外在主义”两族各成一系，须统一口径（与 content externalism 行联动）
 - **continuity principle**（行 1247，现译「连续性原理」）｜ FLAG ｜ 主译撞形：“连续性原理”同时对应 principle of continuity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **continuum**（行 1251，现译「连续体」）｜ FLAG ｜ 译法“连续体”用于数学 continuum（实数连续统）不合，且与本表 Continuum Hypothesis“连续统假设”不一致；数学义应作“连续统”
 - **contractarianism**（行 1257，现译「自利契约论（正文亦作“契约主义”）」）｜ FLAG ｜ 译法“自利契约论”把学说限定写进译名（contractualism 行对称作“非自利契约论”），两个译名都不是通行形；通例作“契约论／契约主义”，区别应在依据列说明
@@ -189,12 +189,17 @@
 - **contractualism**（行 1260，现译「非自利契约论」）｜ FLAG ｜ 同上：译法“非自利契约论”非通行形，且与 contractarianism 译名构成自造对举
 - **contrapositive proposition**（行 1264，现译「换质位命题」）｜ MERGE ｜ 与 contrapositive（逆否命题）同概念，译法却作“换质位命题”（换质位是 obversion/contraposition 的另一操作）；合为一行
 - **Conventionality**（行 1273，现译「约定性；约定性的」）｜ FLAG ｜ 译法列作“约定性；约定性的”把名词与形容词两形并列，属列内冗余；保留“约定性”
+- **converso**（行 1284，现译「改宗者（converso）」）｜ FLAG ｜ 与 conversos 行系同一概念单复数两行，译法不一（改宗者／改宗犹太人）；须合键统一，归合键队列
 - **copulation (copulatio)**（行 1294，现译「结合」）｜ FLAG ｜ 主译撞形：“结合”同时对应 sunkrisis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **correct / incorrect conventional**（行 1309，现译「正世俗／倒世俗」）｜ FLAG ｜ 首现 epistemology-language（印度语言哲学），译法“正世俗／倒世俗”与英文形无对应，疑误；须回源核（或为 sad/asat 系术语）
+- **corporations**（行 1303，现译「团体（社团主义意义的等级团体）」）｜ FLAG ｜ 登记译法“团体（社团主义意义的等级团体）”按 schlegel 语文学语境，但原典三处用语（ethics-business:298 等）均为现代公司义；须按用语改译“公司”或分行
+- **correct / incorrect conventional**（行 1309，现译「正世俗／倒世俗」）｜ FLAG ｜ 键疑截断（应作 correct/incorrect conventional truths，正世俗／倒世俗，藏传量论二谛义）；用语列三处均为泛 correct 语境非本术语；须回原典核对后正键
 - **correlation**（行 1312，现译「相关性」）｜ FLAG ｜ 主译撞形：“相关性”同时对应 relevance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **correlative cosmology**（行 1314，现译「关联性宇宙论」）｜ FLAG ｜ 原文列误填中文译文“关联性宇宙论”，应填英文原词 correlative cosmology；数据缺陷正列
 - **correspondence theory**（行 1316，现译「符合论（亦作“真理的符合论”）」）｜ MERGE ｜ 与 correspondence theory of truth 为同一理论的两行（后者 IS 前者）；合为一行，旧形入亦作
 - **corroboration**（行 1318，现译「确证」）｜ FLAG ｜ 译“确证”与 confirmation theory 的“确证”撞形（corroboration 波普尔义通译“佐证／验证”）；须查证后分形
 - **cost-effective／cost-effectiveness**（行 1331，现译「成本效益」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Creationism**（行 1359，现译「神创论」）｜ FLAG ｜ 同形异义：augustine:1224 之 Creationism 为灵魂受造论（与 traducianism 遗传论相对），非“神创论”义；须分行或加义注
+- **Curry-Howard isomorphism**（行 1404，现译「柯里-霍华德同构（亦作“柯里-霍华德对应”）」）｜ FIX ｜ 连接号按 ADR-0041 一字线裁定统一：柯里-霍华德 → 柯里—霍华德（与玻尔—爱因斯坦频率条件行一致）
 - **definition**（行 1502，现译「定义」）｜ FLAG ｜ 主译撞形：“定义”同时对应 ḥadd、lakṣaṇa、taʿārīf；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **deontological**（行 1545，现译「义务论」）｜ FLAG ｜ 主译撞形：“义务论”同时对应 Deontology；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Deontology**（行 1546，现译「义务论」）｜ FLAG ｜ 主译撞形：“义务论”同时对应 deontological；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
