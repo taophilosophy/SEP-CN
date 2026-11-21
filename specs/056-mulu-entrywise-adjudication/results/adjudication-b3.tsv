@@ -1,0 +1,189 @@
+seq	slug	裁定	新节	依据	凭证
+377	kant-moral	KEEP		康德分支随簇	题名自释
+378	kant-social-political	KEEP		康德分支随簇	题名自释
+379	kant-aesthetics	KEEP		康德分支随簇	题名自释
+380	kant-religion	KEEP		康德分支随簇	题名自释
+381	practical-reason	MOVE	形而上学与认识论／行动哲学／行动哲学与理由论	实践理性系当代行动哲学-理由论通题条目（康德簇仅为其历史渊源）	本地摘要（general human capacity）＋PP噪音注记
+382	schema	MOVE	科学、逻辑与数学／逻辑学与逻辑哲学	图式条目论逻辑-语言学模板概念，非康德图式论（先验感性论），康德簇错位	本地摘要（linguistic template/frame）＋PP噪音注记
+383	persons-means	KEEP		康德伦理学分支随簇（人性公式）	本地摘要
+384	friedrich-jacobi	MOVE	西方哲学史／近代哲学／德国古典哲学／费希特	雅可比系康德-费希特时代反观念论批评者，其论战轴线系对费希特体系的批判；黑格尔节错位	本地摘要＋PP同域
+385	hegel	KEEP		黑格尔随节	本地摘要
+386	hegel-dialectics	KEEP		黑格尔分支随簇	题名自释
+387	hegel-social-political	KEEP		黑格尔分支随簇	题名自释
+388	hegel-aesthetics	KEEP		黑格尔分支随簇	题名自释
+389	august-rehberg	KEEP		经典德国哲学期外围人物随节（安提法国革命保守派，贝瑟定位 Kant-to-Hegel 时代）	本地摘要
+390	johann-fichte	KEEP		费希特随节	本地摘要
+391	karl-reinhold	KEEP		康德批判哲学传播者随节	本地摘要
+392	schelling	KEEP		谢林随节	本地摘要
+393	schleiermacher	KEEP		浪漫主义诠释学家随节	本地摘要
+394	schiller	KEEP		浪漫主义人物随节	本地摘要
+395	schlegel	KEEP		浪漫主义人物随节	本地摘要
+396	schlegel-aw	KEEP		浪漫主义人物随节	本地摘要
+397	novalis	KEEP		浪漫主义人物随节	本地摘要
+398	vico	KEEP		历史主义与人文科学谱系先驱随节（维柯，就近原则），PP 子类噪音	本地摘要＋PP噪音注记
+399	herder	KEEP		赫尔德随节	本地摘要
+400	personalism	MOVE	西方哲学史／现代哲学／英国观念论与实在论	人格主义系 19–20 世纪观念论-有神论谱系运动（德法美），就近挂观念论与实在论节；浪漫主义与人文科学节错位	本地摘要＋PP同域
+401	wilhelm-humboldt	KEEP		人文科学与语言哲学人物随节	本地摘要
+402	russell	KEEP		罗素随节（早期分析哲学）	本地摘要
+403	logical-atomism	KEEP		罗素分支随簇	本地摘要
+404	logical-construction	KEEP		罗素分支随簇	本地摘要
+405	principia-mathematica	KEEP		罗素分支随簇	本地摘要
+406	pm-notation	KEEP		罗素分支随簇	本地摘要
+407	russell-moral	KEEP		罗素分支随簇	本地摘要
+408	russell-paradox	KEEP		罗素分支随簇	本地摘要
+409	descriptions	KEEP		罗素分支随簇（摹状词理论论域）	本地摘要
+410	emily-elizabeth-constance-jones	KEEP		早期分析同期人物随节	本地摘要
+411	ramsey	KEEP		早期分析人物随节	本地摘要
+412	ramsey-economics	KEEP		拉姆齐分支随簇	本地摘要
+413	moore	KEEP		摩尔随节	本地摘要
+414	moore-moral	KEEP		摩尔分支随簇	本地摘要
+415	frege	KEEP		弗雷格随节（分析哲学奠基人，通例挂早期分析）	本地摘要
+416	frege-logic	KEEP		弗雷格分支随簇	本地摘要
+417	frege-hilbert	KEEP		弗雷格分支随簇	本地摘要
+418	frege-theorem	KEEP		弗雷格分支随簇	本地摘要
+419	wilson	KEEP		牛津实在论创始人，与剑桥分析同期同域（就近原则），PP 冲突系噪音	本地摘要＋PP噪音注记
+420	wittgenstein	KEEP		维特根斯坦随节	本地摘要
+421	reism	KEEP		利沃夫-华沙学派论题随节（早期分析域）	本地摘要
+422	ruth-barcan-marcus	KEEP		早期分析-模态逻辑人物随节	本地摘要
+423	stebbing	KEEP		早期分析人物随节	本地摘要
+424	wittgenstein-aesthetics	KEEP		维特根斯坦分支随簇	本地摘要
+425	wittgenstein-atomism	KEEP		维特根斯坦分支随簇	本地摘要
+426	wittgenstein-mathematics	KEEP		维特根斯坦分支随簇	本地摘要
+427	broad	KEEP		20 世纪形而上学家随节	本地摘要
+428	david-lewis	KEEP		刘易斯随节，PP 子类噪音	本地摘要＋PP噪音注记
+429	lewis-metaphysics	KEEP		刘易斯分支随簇	本地摘要
+430	williams-dc	KEEP		20 世纪形而上学家随节	本地摘要
+431	price	KEEP		牛津逻辑学家随节，PP 子类噪音	本地摘要＋PP噪音注记
+432	findlay	KEEP		20 世纪形而上学家随节	本地摘要
+433	chisholm	KEEP		20 世纪形而上学家随节	本地摘要
+434	williams-bernard	MOVE	西方哲学史／现代哲学／分析哲学／分析伦理学与政治哲学	威廉姆斯系 20 世纪后半伦理学核心人物（反规范道德理论），非语言哲学	本地摘要＋PP同域
+435	davidson	KEEP		语言哲学人物随节（真与意义核心）	本地摘要
+436	goodman	KEEP		语言-逻辑-归纳人物随节	本地摘要
+437	sylvan-routley	KEEP		逻辑学家随节	本地摘要
+438	sellars	KEEP		语言-心灵-科学实在论人物随节	本地摘要
+439	quine	KEEP		蒯因随节	本地摘要
+440	quine-nf	KEEP		蒯因分支随簇	本地摘要
+441	stevenson	KEEP		元伦理学人物随节	本地摘要
+442	anscombe	KEEP		分析伦理学人物随节	本地摘要
+443	prichard	KEEP		牛津伦理学派人物随节	本地摘要
+444	murdoch	KEEP		伦理学人物随节	本地摘要
+445	berlin	KEEP		政治哲学人物随节	本地摘要
+446	philippa-foot	KEEP		伦理学人物随节	本地摘要
+447	hare	KEEP		伦理学人物随节	本地摘要
+448	william-david-ross	KEEP		伦理学人物随节	本地摘要
+449	ryle	KEEP		日常语言哲学人物随节	本地摘要
+450	austin-jl	KEEP		日常语言哲学人物随节	本地摘要
+451	grice	KEEP		日常语言哲学人物随节	本地摘要
+452	strawson	KEEP		日常语言哲学人物随节	本地摘要
+453	meinong	KEEP		布伦塔诺-迈农谱系随节（现象学运动域）	本地摘要
+454	schutz	KEEP		现象学社会学人物随节	本地摘要
+455	marty	KEEP		布伦塔诺谱系随节	本地摘要
+456	stumpf	KEEP		现象学先声人物随节	本地摘要
+457	ehrenfels	KEEP		布伦塔诺谱系随节	本地摘要
+458	landmann-kalischer	KEEP		布伦塔诺谱系随节，PP 冲突系噪音	本地摘要＋PP噪音注记
+459	stein	KEEP		现象学人物随节	本地摘要
+460	husserl	KEEP		胡塞尔随节	本地摘要
+461	brentano	KEEP		布伦塔诺随节（现象学运动先声）	本地摘要
+462	brentano-judgement	KEEP		布伦塔诺分支随簇	本地摘要
+463	twardowski	KEEP		布伦塔诺谱系随节	本地摘要
+464	heidegger	KEEP		海德格尔随节	本地摘要
+465	heidegger-aesthetics	KEEP		海德格尔分支随簇	本地摘要
+466	merleau-ponty	KEEP		梅洛-庞蒂随节	本地摘要
+467	scheler	KEEP		舍勒随节	本地摘要
+468	michel-henry	KEEP		现象学人物随节	本地摘要
+469	phenomenology	KEEP		现象学主题条目节主题直配	本地摘要
+470	ingarden	KEEP		现象学人物随节	本地摘要
+471	phenomenology-mg	KEEP		现象学学派史随节	本地摘要
+472	reinach	KEEP		现象学人物随节	本地摘要
+473	camus	KEEP		存在主义人物随节	本地摘要
+474	authenticity	KEEP		存在主义论题随节	本地摘要
+475	yorck	KEEP		狄尔泰-海德格尔圈人物随节	本地摘要
+476	levinas	KEEP		存在主义-现象学人物随节	本地摘要
+477	rosenstock-huessy	KEEP		对话哲学人物随节（对话主义域），PP 冲突系噪音	本地摘要＋PP噪音注记
+478	existentialism	KEEP		存在主义主题条目节主题直配	本地摘要
+479	marcel	KEEP		存在主义人物随节	本地摘要
+480	gadamer	KEEP		伽达默尔随节	本地摘要
+481	gadamer-aesthetics	KEEP		伽达默尔分支随簇	本地摘要
+482	bergson	KEEP		存在主义-生命哲学谱系人物随节（就近原则）	本地摘要
+483	hermeneutics	KEEP		诠释学主题条目节主题直配	本地摘要
+484	sartre	KEEP		萨特随节	本地摘要
+485	gasset	KEEP		奥尔特加随节（perspectivism，存在主义域）	本地摘要
+486	jaspers	KEEP		雅斯贝尔斯随节	本地摘要
+487	susman-margarete	KEEP		德国女性哲学家随节（存在主义-文化批判域）	本地摘要
+488	ricoeur	KEEP		利科随节	本地摘要
+489	beauvoir	KEEP		波伏娃随节	本地摘要
+490	simone-weil	KEEP		薇依随节	本地摘要
+491	dilthey	KEEP		狄尔泰随节（人文科学-诠释学）	本地摘要
+492	whitehead	KEEP		怀特海随节	本地摘要
+493	hartshorne	KEEP		过程哲学人物随节	本地摘要
+494	peirce	KEEP		皮尔士随节	本地摘要
+495	peirce-logic	KEEP		皮尔士分支随簇	本地摘要
+496	peirce-benjamin	KEEP		皮尔士家族随簇	本地摘要
+497	peirce-semiotics	KEEP		皮尔士分支随簇	本地摘要
+498	wright	KEEP		实用主义先驱随节	本地摘要
+499	lewis-ci	KEEP		实用主义-概念实用主义者随节	本地摘要
+500	mead	KEEP		实用主义人物随节	本地摘要
+501	santayana	KEEP		美国古典哲学人物随节	本地摘要
+502	thoreau	KEEP		美国超验主义-实用主义谱系随节	本地摘要
+503	dewey	KEEP		杜威随节	本地摘要
+504	dewey-moral	KEEP		杜威分支随簇	本地摘要
+505	dewey-political	KEEP		杜威分支随簇	本地摘要
+506	dewey-aesthetics	KEEP		杜威分支随簇	本地摘要
+507	royce	KEEP		美国观念论人物随节（实用主义域）	本地摘要
+508	fuller-margaret	KEEP		超验主义人物随节	本地摘要
+509	pragmatism	KEEP		实用主义主题条目节主题直配	本地摘要
+510	process-philosophy	KEEP		过程哲学主题条目节主题直配	本地摘要
+511	emerson	KEEP		超验主义人物随节	本地摘要
+512	rorty	KEEP		新实用主义者随节	本地摘要
+513	sidney-hook	KEEP		杜威系实用主义者随节	本地摘要
+514	transcendentalism	KEEP		超验主义主题条目节主题直配	本地摘要
+515	james	KEEP		詹姆斯随节	本地摘要
+516	engels	KEEP		恩格斯随节	本地摘要
+517	marx	KEEP		马克思随节	本地摘要
+518	bauer	KEEP		青年黑格尔派人物随节，PP 子类噪音	本地摘要＋PP噪音注记
+519	ludwig-feuerbach	KEEP		青年黑格尔派人物随节，PP 子类噪音	本地摘要＋PP噪音注记
+520	max-stirner	KEEP		青年黑格尔派人物随节，PP 子类噪音	本地摘要＋PP噪音注记
+521	alienation	MOVE	西方哲学史／现代哲学／后黑格尔与马克思主义／马克思与恩格斯	异化条目系马克思概念（1844 手稿）通览，属马克思恩格斯节；西方马克思主义节系 20 世纪流派	本地摘要＋PP噪音注记
+522	marxism-analytical	KEEP		西方马克思主义流派随节	本地摘要
+523	gramsci	KEEP		西方马克思主义人物随节	本地摘要
+524	bloch	KEEP		西方马克思主义人物随节	本地摘要
+525	lukacs	KEEP		西方马克思主义人物随节	本地摘要
+526	althusser	KEEP		西方马克思主义人物随节	本地摘要
+527	luxemburg	KEEP		马克思主义人物随节	本地摘要
+528	nietzsche	KEEP		尼采随节	本地摘要
+529	nietzsche-life-works	KEEP		尼采分支随簇	本地摘要
+530	nietzsche-moral-political	KEEP		尼采分支随簇	本地摘要
+531	nietzsche-aesthetics	KEEP		尼采分支随簇	本地摘要
+532	schopenhauer	KEEP		叔本华随节	本地摘要
+533	schopenhauer-aesthetics	KEEP		叔本华分支随簇	本地摘要
+534	kierkegaard	KEEP		克尔凯郭尔随节	本地摘要
+535	alexander-humboldt	MOVE	西方哲学史／近代哲学／浪漫主义与人文科学	亚历山大·冯·洪堡系浪漫主义自然哲学者（洪堡兄弟，威廉已在浪人文节），非实证主义者	本地摘要＋PP同域
+536	comte	KEEP		孔德随节（实证主义创始人）	本地摘要
+537	george-eliot	KEEP		维多利亚期哲学小说家随节（与实证主义圈刘易斯同代就近），PP 子类噪音	本地摘要＋PP噪音注记
+538	spencer	KEEP		斯宾塞随节	本地摘要
+539	whewell	KEEP		维多利亚科学哲学家随节	本地摘要
+540	ernst-mach	KEEP		马赫随节	本地摘要
+541	ayer	KEEP		逻辑实证主义人物随节	本地摘要
+542	hempel	KEEP		逻辑实证主义人物随节	本地摘要
+543	reichenbach	KEEP		逻辑实证主义人物随节	本地摘要
+544	physics-Rpcc	KEEP		赖兴巴赫分支随簇	本地摘要
+545	poincare	KEEP		科学革命人物随节（约定论，维也纳圈先声），PP 冲突系噪音	本地摘要＋PP噪音注记
+546	feigl	KEEP		逻辑经验主义人物随节	本地摘要
+547	schlick	KEEP		石里克随节	本地摘要
+548	neurath	KEEP		纽拉特随节	本地摘要
+549	carnap	KEEP		卡尔纳普随节	本地摘要
+550	vienna-circle	KEEP		维也纳学派主题条目节主题直配	本地摘要
+551	harriet-mill	KEEP		功利主义人物随节	本地摘要
+552	sidgwick	KEEP		功利主义人物随节	本地摘要
+553	james-mill	KEEP		功利主义人物随节	本地摘要
+554	bentham	KEEP		边沁随节	本地摘要
+555	mill	KEEP		穆勒随节	本地摘要
+556	mill-moral-political	KEEP		穆勒分支随簇	本地摘要
+557	utilitarianism-history	KEEP		功利主义史随节	本地摘要
+558	godwin	KEEP		哲学无政府主义者随节（古典自由主义谱系）	本地摘要
+559	william-jevons	KEEP		功利主义经济学家随节（边际革命），PP 冲突系噪音	本地摘要＋PP噪音注记
+560	cassirer	KEEP		新康德主义人物随节	本地摘要
+561	friedrich-lange	KEEP		新康德主义人物随节	本地摘要
+562	vaihinger	KEEP		新康德主义人物随节	本地摘要
+563	heinrich-rickert	KEEP		新康德主义人物随节	本地摘要
+564	cohen	KEEP		新康德主义人物随节	本地摘要
