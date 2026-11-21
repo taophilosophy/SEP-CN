@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 4076，FLAG 729，FIX 38，MERGE 14
+判定分布：KEEP 4256，FLAG 729，FIX 39，MERGE 15
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -659,6 +659,7 @@
 - **scheme**（行 5681，现译「图式（英文 scheme，与 schema 同指；正文保留原词括注）」）｜ FLAG ｜ 主译撞形：“图式”同时对应 schema；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **scholastic quaestio**（行 5682，现译「经院问题」）｜ FLAG ｜ 与 quaestio 行（行 5197，经院论辩）同词两译：本行作“经院问题”；两行皆称学界通行，须统一（建议 quaestio／scholastic quaestio 同作“经院论辩”，或说明“问题”为其体裁义）
 - **scientia**（行 5691，现译「知识（经院拉丁术语）」）｜ FLAG ｜ 主译撞形：“知识”同时对应 epistêmê；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Scott isomorphism theorem**（行 5711，现译「Scott 同构定理」）｜ FIX ｜ 人名按人名表音译：Scott 同构定理 → 斯科特同构定理（人名表 Dana Scott＝达纳·斯科特）；与全库人名译形一致
 - **secondary causes**（行 5724，现译「次级原因」）｜ FLAG ｜ 主译撞形：“次级原因”同时对应 sabab；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Sefer ha-Zohar**（行 5731，现译「《光辉之书》」）｜ FLAG ｜ 主译撞形：“《光辉之书》”同时对应 Zohar；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **selection function**（行 5738，现译「选择函数」）｜ FLAG ｜ 主译撞形：“选择函数”同时对应 choice function；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
@@ -667,7 +668,7 @@
 - **self-preservation**（行 5774，现译「自我保存」）｜ FLAG ｜ 主译撞形：“自我保存”同时对应 conservatio sui；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **self-reliance**（行 5777，现译「自立（亦作“自助”）」）｜ FLAG ｜ 主译撞形：“自立”同时对应 standing-in-itself；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **self-renewal**（行 5778，现译「自我更新」）｜ FLAG ｜ 主译撞形：“自我更新”同时对应 self-renewing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **self-renewing**（行 5779，现译「自我更新」）｜ FLAG ｜ 主译撞形：“自我更新”同时对应 self-renewal；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **self-renewing**（行 5779，现译「自我更新」）｜ MERGE ｜ 与 self-renewal 行（行 5778）同一概念（干细胞／癌细胞的自我更新能力）仅词形不同、同译“自我更新”；并入 self-renewal 行
 - **Sensation**（行 5798，现译「感觉」）｜ FLAG ｜ 主译撞形：“感觉”同时对应 aisthêseis、Empfindung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **sensus communis**（行 5814，现译「共同感（亦作“通感”）」）｜ FLAG ｜ 主译撞形：“共同感”同时对应 ḥiss mushtarak；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **sentiment**（行 5820，现译「情感」）｜ FLAG ｜ 主译撞形：“情感”同时对应 emotion、Gefühl；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
@@ -675,8 +676,9 @@
 - **shi (timeliness)**（行 5866，现译「时」）｜ FLAG ｜ 主译撞形：“时”同时对应 kāla；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **shishi wu’ai（事事無礙）**（行 5874，现译「事事无碍」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **shu (number)**（行 5885，现译「数（number/probability/ratio 数）」）｜ FLAG ｜ 主译撞形：“数”同时对应 aʿdād、saṃkhyā（数目）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Siddhānta-muktāvalī**（行 5895，现译「《宗义摩尼鬘》」）｜ FLAG ｜ 主译撞形：“《宗义摩尼鬘》”同时对应 Nyāyasiddhāntamañjarī；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Siddhānta-muktāvalī**（行 5895，现译「《宗义摩尼鬘》」）｜ FLAG ｜ 与 Nyāyasiddhāntamañjarī 行（行 4362）同译《宗义摩尼鬘》撞形，两原典不同（muktāvalī＝珠鬘／宝鬘，mañjarī＝花鬘）；须分行定名（建议 muktāvalī《宗义宝鬘》、mañjarī《宗义花鬘》），勿共用一名
 - **ṣifāt**（行 5899，现译「属性」）｜ FLAG ｜ 主译撞形：“属性”同时对应 Attributes、property；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **significatio**（行 5902，现译「意涵（阿伯拉尔）」）｜ FLAG ｜ 与 signification 行（行 5903，意谓）族内不一：本行取“意涵”（阿伯拉尔）；同一拉丁词根两译并存，且与 modi significandi／modes of signifying 的“意指样式”同族，须统一（建议全族作“意谓”，作者义随文括注）
 - **Silhak（實學）**（行 5913，现译「实学」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **simulacra**（行 5922，现译「影像」）｜ FLAG ｜ 主译撞形：“影像”同时对应 eidôla、idola、phantasmata；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **sine qua non**（行 5928，现译「拉丁原文保留（缺之不然的原因）」）｜ FLAG ｜ 主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、respublica、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
