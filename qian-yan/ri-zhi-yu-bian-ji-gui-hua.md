@@ -216,3 +216,13 @@
 * **门禁**：`person_review_flags.py` 复扫 flagged 0／重复 0；`check_terms` 退出 0；`check_all` 17 项全绿。
 * **结论**：这条欠账**大部分无法由权威库自动清偿**——现代学者多无规范档，古人生卒本就无确证，同名污染又使单源不可直接写回。剩余 922 条只能逐条人工研究（回所属词条原文定人），自动化通道到此为止。
 * **教训**：①同名误并的第一道闸必须是**词集等值**而非包含（Alan 包含于 Pritchard, Alan 即典型漏口）；②泛名闸与职业闸是必要的第二、三道，缺一则存疑池被污染；③单源接受一律走人工白名单并落盘复查，不凭临时判断直接写表。
+
+## 2026-11-22 人名缺项再清：回读原文括注 41 条＋GND→Wikidata P227 桥 6 条（缺项 922→881）
+
+* **通道甲（原文括注，零信任回源）**：按“首现”逐条读 en/<slug>/index.html，抽 “Name (生卒)” 紧括号式；只认含间隔号或带 c./d./b./fl. 标记者（单裸年几乎都是出版年，“Name (2005) … 111–120” 一类书目页码串占首版假阳性绝大多数）。逐条过目后写 35 条、弃 4（David／Hippo／Moses／Shakespeare 命中皆同名异人：Hartley 之子、Augustine of Hippo、《提本》之子、Schlegel 译事年代）。
+* **正则修正**：助词分支 `\s+of\s+` 未接本体，导致 “Dietrich of Freiberg (…)”“Alexander of Aphrodisias (…)” 整串失配、退化为只抓末词；补上助词后本体落位，另放行 “1240/1250–1318/1320” 式斜杠年。第二批新增 6 条（Alexander of Aphrodisias fl. 约200／Dietrich 约1250–1310／Electress Sophie 1630–1714／Nicholas of Otranto –1235／Siger of Courtrai 约1280–1341／Zeno (of Citium) 前335–前263），弃 1（Solomon 命中的是 Ibn Gabirol）。合计 41 条，缺生卒 855→814。
+* **通道乙（P227 桥）**：GND 已按规范名等值锚定、惟规范档无年份的 121 键，以 haswbstatement:P227=<gndId> 反查 Wikidata，取同一实体生卒。准入四闸：恰一命中／精度不低于年／生卒不同值（剔除活跃期代理）／职业不涉可疑族。判定：接受 9／存疑 30／查无 82。
+* **接受集逐条再核（本人履历与双向国别栏）**：Matthen（本人 CV“Born Bangalore, India on 2nd April, 1948… Citizen of Canada”）、Solère（IdRef 069192642：1960，法国，CNRS）、Melia（fr.wikipedia 1935／英国籍）、Forsythe（维基：美国实验经济学家）、Squatrito（1979，与其 LSE 履历 2001 年本科毕业相符）、Song Xing（宋钘 前370–前291）。拒 3：Batterman（Q89298775 记 1900，与本行所引当代物理哲学家不合，疑 GND 并档）、Meskin（ORCID 自动条目同挂 1950 与 1934）、Platek（描述 Canadian statistician，与递归论学者不符）。
+* **写回**：生卒 6＋籍属 4（Matthen 加拿大（生于班加罗尔）／Solère 法国／Forsythe 美国／Melia 英国）。缺生卒 814→811，缺籍属 727→723，任一缺 922→881。门禁 check_all 17 项全绿。
+* **负结果（判为不可自动化）**：①“<国别形容词> philosopher <人名>”同位语全库仅 1 处可得（hegel 的 Klaus Hartmann），通道作废；②GND 等值多候选细分筛 116 键只出 18 条，逐看 10 条是泛名单词、其余职业明显不合，机械收窄不可采；③剩余 811 条中 92 条依据已注明“现代学者”（在世或当代，生卒本无），其余多为当代学者与无规范档的古代小人物。
+* **教训**：①正则助词分支必须自带本体，否则整串退化为只抓末词；②单裸年、斜杠年、fl. 三种式样须分别判；③规范库并档会把错年份带进 P227 桥，故身份闸之外还必须看人的描述，接受集一律逐条过目。
