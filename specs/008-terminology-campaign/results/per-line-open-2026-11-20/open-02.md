@@ -1,7 +1,5 @@
-# 待处置清单 open-02（行 1993–2984，120 条）
+# 待处置清单 open-02（行 1999–3092，120 条）
 
-- **equipollence**（行 1993，现译“等势（亦作“等数”）”）｜ FLAG ｜ 与 equinumerous 行同译“等势”撞形；quipollence（布尔查诺／阿塞西劳斯语境）或作“等数（一一对应）”，须区分性译法
-- **equity**（行 1994，现译“公平”）｜ FLAG ｜ 主译撞形：“公平”同时对应 fairness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **equivocation**（行 1999，现译“歧义（同名异义）”）｜ FLAG ｜ 主译撞形：“歧义”同时对应 ambiguity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Erfahrung**（行 2002，现译“经验（伽达默尔语境；与 Erlebnis 体验相区分）”）｜ FLAG ｜ 主译撞形：“经验”同时对应 Experience；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Erfahrung-Ästhetik**（行 2003，现译“经验美学”）｜ FLAG ｜ 主译撞形：“经验美学”同时对应 empirical aesthetics；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
@@ -45,7 +43,6 @@
 - **filtration**（行 2286，现译“滤化”）｜ FLAG ｜ 用语两处均为“过滤”义（河流侵蚀／口罩过滤），首现 logic-dynamic 滤化（模型滤化）语境未抓到；须重抓用语或加义注
 - **finality**（行 2288，现译“合目的性”）｜ FLAG ｜ 主译撞形：“合目的性”同时对应 purposiveness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **first mover**（行 2300，现译“第一推动者”）｜ FLAG ｜ 主译撞形：“第一推动者”同时对应 prime mover；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Fischer-Ladner closure**（行 2308，现译“Fischer–Ladner 闭包”）｜ FIX ｜ 人名连接号按 ADR-0041 一字线统一：Fischer–Ladner → Fischer—Ladner（与 Curry—Howard、Einstein—Podolsky—Rosen、Gale—Shapley 一致）
 - **Formal Approaches**（行 2345，现译“形式化方法”）｜ FLAG ｜ 主译撞形：“形式化方法”同时对应 formal methods；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **formal methods**（行 2354，现译“形式化方法”）｜ FLAG ｜ 主译撞形：“形式化方法”同时对应 Formal Approaches；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Four-Seven Debate（四端七情論爭）**（行 2374，现译“四端七情之辩”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
@@ -75,7 +72,6 @@
 - **ḥaqīqa**（行 2669，现译“终极实在”）｜ FLAG ｜ 主译撞形：“终极实在”同时对应 ultimate reality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **hatsuboku**（行 2680，现译“泼墨”）｜ FLAG ｜ 主译撞形：“泼墨”同时对应 haboku；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **hegemonikon**（行 2694，现译“灵魂的主导部分（斯多葛）（亦作“统治部分”）”）｜ FLAG ｜ 亦作“统治部分”与 pars principans 的主译撞形；删该亦作或改主译
-- **Heine-Borel property**（行 2696，现译“海涅-博莱尔性质（亦作“海涅-博雷尔”）”）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：海涅-博莱尔 → 海涅—博莱尔
 - **Heracles**（行 2699，现译“《赫拉克勒斯》”）｜ FLAG ｜ 现译加书名号作剧作《赫拉克勒斯》，但首现与三处用语均为英雄／神赫拉克勒斯（xenophanes:661 神殿语境）；须去书名号改“赫拉克勒斯”或分行
 - **ḥikma**（行 2738，现译“智慧目的”）｜ FLAG ｜ 与 Ḥikmah 行（行 2740）同词 حكمة 两行：智慧目的（taymiyya 神目的义）／智慧（通行义）；须分行设计核对或合键
 - **Ḥikmah**（行 2740，现译“智慧（另译希克玛）”）｜ FLAG ｜ 同 ḥikma 行族问题（同词两行智慧目的／智慧），须分行设计核对或合键
@@ -83,13 +79,11 @@
 - **historicism**（行 2750，现译“历史主义”）｜ FLAG ｜ 主译撞形：“历史主义”同时对应 historism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **historicity**（行 2751，现译“历史性”）｜ FLAG ｜ 与 Geschichtlichkeit 行（行 2532）同指德文 Geschichtlichkeit、同译“历史性”撞形（本行原文列亦填 Geschichtlichkeit）；须合键或分行（历史性／历史处境性）
 - **historicization**（行 2752，现译“历史化”）｜ FLAG ｜ 主译撞形：“历史化”同时对应 Vergeschichtlichung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **historico-critical method**（行 2753，现译“历史-批判方法”）｜ FIX ｜ 连接号按 ADR-0041 一字线：历史-批判方法 → 历史—批判方法
 - **historiê**（行 2754，现译“探究”）｜ FLAG ｜ 主译撞形：“探究”同时对应 skeptosunê；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **historism**（行 2757，现译“历史主义”）｜ FLAG ｜ 与 historicism 行同译“历史主义”撞形；曼海姆 historism（历史主义传统义）有别于波普尔 historicism（历史决定论批判义），须区分性译法或分行
 - **homogeneity**（行 2772，现译“齐一性（亦作“同质性”）”）｜ FLAG ｜ 主译撞形：“齐一性”同时对应 Uniformity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **homunculus**（行 2780，现译“侏儒图”）｜ FLAG ｜ 族内不一：homunculus＝侏儒图、homunculus-head＝小人儿头；通行“小人（谬误）”系，须查证统一
 - **homunculus-head**（行 2781，现译“小人儿头”）｜ FLAG ｜ 同 homunculus 族问题（侏儒图／小人儿头不一），须查证统一
-- **honesty-humility**（行 2782，现译“诚实-谦逊”）｜ FIX ｜ 连接号按 ADR-0041 一字线：诚实-谦逊 → 诚实—谦逊（HEXACO 维度名）
 - **Horak（湖洛）**（行 2787，现译“湖洛之辩”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **hosshin / dharmakāya**（行 2794，现译“法身”）｜ FLAG ｜ hosshin＝発心（发心），现译“法身”仅合 dharmakāya 半边；japanese-zen:354 用语（悟的经验义）为发心义；须译“发心／法身”双义或核对空海语境后裁定
 - **host（圣体）**（行 2795，现译“圣体”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
@@ -99,7 +93,6 @@
 - **hypostatisation**（行 2849，现译“实体化”）｜ FLAG ｜ 与 hypostasized 行（行 2848）同词根同译“实体化”撞形；须合键或分行设计
 - **hypothetico-deductive**（行 2855，现译“假设演绎”）｜ FLAG ｜ 族内不一：hypothetico-deductive＝假设演绎而 hypothetico-deductivism＝假说—演绎主义；通行“假设演绎（法）／假说演绎”，须族内统一
 - **hypothetico-deductivism**（行 2856，现译“假说—演绎主义”）｜ FLAG ｜ 同 hypothetico-deductive 族问题（假设演绎／假说—演绎主义不一），须族内统一
-- **idea**（行 2867，现译“理念（柏拉图-黑格尔传统）；观念（经验论语境）”）｜ FIX ｜ 括注连接号按 ADR-0041 一字线：柏拉图-黑格尔传统 → 柏拉图—黑格尔传统
 - **ideal element**（行 2870，现译“理想元素”）｜ FLAG ｜ 与 ideal elements 行（行 2871）单复数两行同译“理想元素”（均 hilbert-program 语境）；须合键
 - **ideal elements**（行 2871，现译“理想元素”）｜ FLAG ｜ 同 ideal element 行问题（单复数两行同译），须合键
 - **identity theory**（行 2894，现译“同一论”）｜ FLAG ｜ 主译撞形：“同一论”同时对应 identity theory (of truth)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
@@ -120,3 +113,10 @@
 - **incommensurability**（行 2972，现译“不可通约性”）｜ FLAG ｜ 主译撞形：“不可通约性”同时对应 Incommensurable；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Incommensurable**（行 2973，现译“不可通约性”）｜ FLAG ｜ 与 incommensurability 行同译“不可通约性”撞形；本行应作形容词义“不可通约的（价值）”，须分行区分
 - **Indalmoi**（行 2984，现译“《影像》”）｜ FLAG ｜ Indalmoi 系希腊词（皮浪派幻象／影像义，timon-phlius 语境），非著作名；现译加书名号《影像》疑误，须核对后去书名号或改译
+- **indeterminism**（行 2994，现译“非决定论”）｜ FLAG ｜ 主译撞形：“非决定论”同时对应 non-determinism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **index number**（行 2996，现译“指数”）｜ FLAG ｜ 主译撞形：“指数”同时对应 exponential；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **individualism**（行 3007，现译“个人主义”）｜ FLAG ｜ 主译撞形：“个人主义”同时对应 personalist；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **individualist**（行 3008，现译“个体主义者”）｜ FLAG ｜ 族内不一：individualism＝个人主义而 individualist＝个体主义者；通行 individualist 个人主义者，须统一“个人”系或按域
+- **infinite regress**（行 3049，现译“无穷倒退（亦作“无限倒退”“无限回溯”）”）｜ FLAG ｜ 主译撞形：“无穷倒退”同时对应 anavasthā；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **influx (celestial)**（行 3053，现译“流入（天体）”）｜ FLAG ｜ 主译撞形：“流入”同时对应 āsrava；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **insolubilia**（行 3092，现译“不可解问题（亦作“不可解命题”）”）｜ FLAG ｜ 与 insolubles 行（行 3093）同词两形译法不一：不可解问题／不可解命题；中世纪逻辑通行“不可解命题”，须统一

@@ -1,4 +1,4 @@
-# 待处置清单 open-01（行 17–1992，120 条）
+# 待处置清单 open-01（行 17–1994，120 条）
 
 - **A New Elucidation of the First Principles of Metaphysical Cognition**（行 17，现译“《形而上学认识诸第一原则的新阐明》（简称《新阐明》）”）｜ FLAG ｜ 康德 nova dilucidatio 通行中译（李秋零等）作《形而上学认识诸首要原则的新阐明》，现译“诸第一原则”与通行译本用词有出入；须联网查通行译本后裁定改否
 - **abhāva（胜论句义）**（行 30，现译“非存在（无）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
@@ -64,7 +64,6 @@
 - **corroboration**（行 1318，现译“确证”）｜ FLAG ｜ 译“确证”与 confirmation theory 的“确证”撞形（corroboration 波普尔义通译“佐证／验证”）；须查证后分形
 - **cost-effective／cost-effectiveness**（行 1331，现译“成本效益”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **Creationism**（行 1359，现译“神创论”）｜ FLAG ｜ 同形异义：augustine:1224 之 Creationism 为灵魂受造论（与 traducianism 遗传论相对），非“神创论”义；须分行或加义注
-- **Curry-Howard isomorphism**（行 1404，现译“柯里-霍华德同构（亦作“柯里-霍华德对应”）”）｜ FIX ｜ 连接号按 ADR-0041 一字线裁定统一：柯里-霍华德 → 柯里—霍华德（与玻尔—爱因斯坦频率条件行一致）
 - **das Umgreifende**（行 1431，现译“包摄者”）｜ FLAG ｜ 雅斯贝尔斯 das Umgreifende 中译学界通行作“大全”（《生存哲学》译本）或“包容者”，现译“包摄者”须查证后裁定
 - **definition**（行 1502，现译“定义”）｜ FLAG ｜ 主译撞形：“定义”同时对应 ḥadd、lakṣaṇa、taʿārīf；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **denotation**（行 1535，现译“外延”）｜ FLAG ｜ denotation 通行作“指称／所指”，现译“外延”恐与 extension 行撞形；须查证后裁定（若改，联动 denotational semantics 已作“指称语义”恰一致）
@@ -100,7 +99,6 @@
 - **Dutch Book Arguments**（行 1782，现译“大弃赌论证”）｜ FLAG ｜ 主译撞形：“大弃赌论证”同时对应 Dutch book (argument)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **egocentrism**（行 1830，现译“自我中心”）｜ FLAG ｜ 主译撞形：“自我中心”同时对应 self-centredness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **eidôla**（行 1835，现译“影像（亦作“偶象”）”）｜ FLAG ｜ 主译撞形：“影像”同时对应 idola、phantasmata、simulacra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Einstein-Podolsky-Rosen**（行 1842，现译“爱因斯坦-波多尔斯基-罗森”）｜ FIX ｜ 连接号按 ADR-0041 一字线裁定统一（与 Curry—Howard 同族）：爱因斯坦-波多尔斯基-罗森 → 爱因斯坦—波多尔斯基—罗森
 - **emanation**（行 1862，现译“流溢”）｜ FLAG ｜ 主译撞形：“流溢”同时对应 fayd、prohodos；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **emotion**（行 1868，现译“情感”）｜ FLAG ｜ 主译撞形：“情感”同时对应 Gefühl、sentiment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Empfindung**（行 1872，现译“感觉”）｜ FLAG ｜ 主译撞形：“感觉”同时对应 aisthêseis、Sensation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
@@ -120,3 +118,5 @@
 - **epistrophe**（行 1985，现译“回返”）｜ FLAG ｜ 主译撞形：“回返”同时对应 reversion；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **equality**（行 1989，现译“平等”）｜ FLAG ｜ 主译撞形：“平等”同时对应 isonomia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **equinumerous**（行 1992，现译“等势”）｜ FLAG ｜ 主译撞形：“等势”同时对应 equipollence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **equipollence**（行 1993，现译“等势（亦作“等数”）”）｜ FLAG ｜ 与 equinumerous 行同译“等势”撞形；quipollence（布尔查诺／阿塞西劳斯语境）或作“等数（一一对应）”，须区分性译法
+- **equity**（行 1994，现译“公平”）｜ FLAG ｜ 主译撞形：“公平”同时对应 fairness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并

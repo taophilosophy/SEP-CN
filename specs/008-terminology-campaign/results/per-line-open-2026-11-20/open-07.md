@@ -1,26 +1,5 @@
-# 待处置清单 open-07（行 1191–381，80 条）
+# 待处置清单 open-07（行 318–381，59 条）
 
-- **Conservativeness**（行 1191，现译“保守性”）｜ FLAG ｜ 主译撞形：“保守性”同时对应 conservativity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Consistent Histories**（行 1200，现译“一致性历史”）｜ MERGE ｜ 与 Consistent Histories Approach 为同一量子力学诠释的两行；合为一行，旧形入亦作
-- **congruence**（行 1157，现译“一致（吻合）”）｜ FLAG ｜ 主译撞形：“一致”同时对应 consistent；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **al-lays**（行 216，现译“非存在”）｜ FLAG ｜ 主译撞形：“非存在”同时对应 abhāva（胜论句义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Abhidhamma**（行 31，现译“阿毗达磨（巴利语拼形，与梵语 Abhidharma 同指；古译传统作“阿毗昙”）”）｜ FLAG ｜ 主译撞形：“阿毗达磨”同时对应 Abhidharma；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Abhidharma**（行 32，现译“阿毗达磨”）｜ FLAG ｜ 主译撞形：“阿毗达磨”同时对应 Abhidhamma；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Abhidharmakośabhāṣya**（行 34，现译“《阿毗达磨俱舍论》”）｜ FLAG ｜ 主译撞形：“《阿毗达磨俱舍论》”同时对应 Abhidharmakośa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **accidents**（行 85，现译“偶性”）｜ FLAG ｜ 主译撞形：“偶性”同时对应 aʿrāḍ；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **acquaintance**（行 95，现译“亲知”）｜ FLAG ｜ 主译撞形：“亲知”同时对应 acquaintance knowledge；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **adharma**（行 129，现译“非功德”）｜ FLAG ｜ 主译撞形：“非功德”同时对应 adharma（胜论业报义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **admissible set**（行 135，现译“可容许集（亦作“容许集”）”）｜ FLAG ｜ 主译撞形：“可容许集”同时对应 admissible set (set theory)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **akrasia**（行 211，现译“意志薄弱（akrasia；亦作“不能自制”）”）｜ FLAG ｜ 主译撞形：“意志薄弱”同时对应 weakness of will；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **ambiguity**（行 254，现译“歧义（决策论：结果概率未知或仅部分已知）”）｜ FLAG ｜ 主译撞形：“歧义”同时对应 equivocation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Analects / Lun yu / Lunyu**（行 266，现译“《论语》”）｜ FLAG ｜ 主译撞形：“《论语》”同时对应 Lunyu；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **analogical inference**（行 270，现译“类比推理”）｜ FLAG ｜ 主译撞形：“类比推理”同时对应 analogical reasoning、qiyās；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **analogical reasoning**（行 272，现译“类比推理（亦作“类推推理”）”）｜ FLAG ｜ 主译撞形：“类比推理”同时对应 analogical inference、qiyās；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **anamnesis**（行 283，现译“回忆（anamnesis）”）｜ FLAG ｜ 主译撞形：“回忆”同时对应 commemorari；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **commemorari**（行 1018，现译“回忆”）｜ FLAG ｜ 主译撞形：“回忆”同时对应 anamnesis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **animadversio**（行 302，现译“注意”）｜ FLAG ｜ 主译撞形：“注意”同时对应 attention；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **attention**（行 492，现译“注意”）｜ FLAG ｜ 主译撞形：“注意”同时对应 animadversio；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **anitya**（行 310，现译“无常”）｜ FLAG ｜ 主译撞形：“无常”同时对应 impermanence、mujō；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Anschauung**（行 318，现译“直观”）｜ FLAG ｜ 主译撞形：“直观”同时对应 intuition；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **apparentia**（行 372，现译“显现（事物呈现自身的方式）”）｜ FLAG ｜ 主译撞形：“显现”同时对应 manifestation、to phainomenon；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **apretado**（行 390，现译“保留原文（复数 apretados）”）｜ FLAG ｜ 主译撞形：“保留原文”同时对应 nepantla、relajiento、relajo、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并

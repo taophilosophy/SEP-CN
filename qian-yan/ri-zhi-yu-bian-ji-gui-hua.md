@@ -424,9 +424,10 @@
 
 ## 2026-11-21 术语表逐行研判收官（r18–r31，全表 6,109 行判毕）
 
-* **进度**：r01–r31 三十二批简报逐批判毕、逐批 pathspec 提交推送；台账 `per-line-adjudication-2026-11-20.jsonl` 6,240 条（含漂移补录 131 键），非 KEEP 800＝FLAG 726／FIX 40／MERGE 34，KEEP 5,440。
+* **进度**：r01–r31 三十二批简报逐批判毕、逐批 pathspec 提交推送；台账 `per-line-adjudication-2026-11-20.jsonl` 6,240 条（含漂移补录 131 键），非 KEEP 779＝FLAG 726／FIX 19／MERGE 34，KEEP 5,461（FIX 40→19 见下条连接号更正）。
 * **账闭合**：登记册现 7,109 行＝r 系简报 6,109 行＋开工前既有判定种子 1,000 行（`state/term-judged-seed.txt`，简报生成即以此排除）；补账核验“缺号 869 全部属种子”，非漏判。
 * **实质发现举例**：pramāṇa 现译“量论”与 pramāṇavāda 撞形且失“量”义；skeptical theism 译“怀疑论神学”（theism 系有神论非神学）；syncretism“折中主义”与 eclecticism“折衷主义”同词形撞；vyatireka 现译“同无”与自注“异品无”矛盾（疑“异无”之误）；wujūb 原文列误填 وجود；Siddhānta-muktāvalī 与 Nyāyasiddhāntamañjarī 共用《宗义摩尼鬘》；Scott 未按人名表音译；site 直译“站点”；samudghāta 自拟“灭除投射”超出源文 extermination；polarity 三义（太极／极性项／两极性）单行不能覆盖；population thinking 宜“种群思维”；non-singular term“单数”误植（应“单称”）。
 * **维持原判两例**：pakṣatā“宗未决性”经联网核证（Gangesa／Annambhaṭṭa 定义含“未确定所立”）成立；Pyrrhus et Cinéas 书名《皮瑞斯与辛尼阿斯》合中文维基既有形（Pyrrhus 通译“皮洛士”已注于行内）。
 * **MERGE 族**：同键变体与单复数／拼式重复（scepticism／skepticism、singleton set、possible worlds、poverty of stimulus、QFT／Quantum Field Theory、relevant logic、true class→proper class、units of selection、sophismata 两件、place (topos) 等）均并入主行，留变体注。
+* **连接号方向更正（自首）**：r02–r31 有 21 条 FIX 把“人名／概念复合短横线”判改一字线，方向判反——ADR-0041／rules/02 §连接号明定短横线＝复合名词与外来语内部分合（盎格鲁-撒克逊、让-雅克），一字线仅用于时间与地域起止，且 Tier 3 未批禁铺量；经复核 ADR 原文后 21 条全部撤回为 KEEP（Curry-Howard、Einstein-Podolsky-Rosen、Fischer-Ladner、Heine-Borel、historico-critical、honesty-humility、柏拉图-黑格尔、Kleene–Mostowski、知识-如何／那、科亨-施佩克尔×2、林登鲍姆–塔尔斯基、勒文海姆-斯科伦、手段-目的、米勒-莱尔、突变-选择平衡、正理-胜论、沃尔夫-鲍姆嘉通、波尔-罗亚尔、策梅洛-弗兰克尔），更正注已入台账。教训：连接号三形先按 ADR-0041 逐形核分工，不得以“统一方向”一句话概括全部连接号。
 * **待收口**：FLAG 726 键走 termonline-batch 联网核证通道裁定；FIX 40／MERGE 34 写回 `shu-yu-biao.md`（修弱势方，须凭证）并联动 m 系撞形 620／键形 84 队列。

@@ -1,25 +1,5 @@
-# 待处置清单 open-05（行 5301–6390，120 条）
+# 待处置清单 open-05（行 5506–6633，120 条）
 
-- **re-experiencing**（行 5301，现译“再体验”）｜ FLAG ｜ 主译撞形：“再体验”同时对应 nacherleben；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **reaction norm**（行 5302，现译“反应规范”）｜ FLAG ｜ 主译撞形：“反应规范”同时对应 norm of reaction；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **recognition (Ricoeur)**（行 5336，现译“承认”）｜ FLAG ｜ 主译撞形：“承认”同时对应 acknowledgement (Anerkennung)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **reference class problem**（行 5362，现译“参考类问题”）｜ FLAG ｜ 与 reference class 行（行 5361，参照类）族内不一：同行作“参考类问题”而主词行作“参照类”（两行皆称学界通行）；须统一（建议一并作“参照类”）
-- **reflexive awareness**（行 5371，现译“自证”）｜ FLAG ｜ 主译撞形：“自证”同时对应 svasaṃvedana；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **regress problem**（行 5387，现译“回溯问题”）｜ FLAG ｜ 与 Regress 行（行 5385，倒退）及 regress argument 行（行 5386，倒退论证）族内不一：同行作“回溯问题”，同属知识论语境两译并存；须统一（通行“倒退／无穷倒退”，回溯可作亦作）
-- **reify**（行 5396，现译“实体化”）｜ FLAG ｜ 主译撞形：“实体化”同时对应 hypostasized、hypostatisation、substantialization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **relajiento**（行 5402，现译“保留原文（复数 relajientos）”）｜ FLAG ｜ 主译撞形：“保留原文”同时对应 apretado、nepantla、relajo、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **relajo**（行 5403，现译“保留原文（严肃性之悬置）”）｜ FLAG ｜ 主译撞形：“保留原文”同时对应 apretado、nepantla、relajiento、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **relationalism（space and time）**（行 5411，现译“关系论”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
-- **relevance**（行 5420，现译“相关性”）｜ FLAG ｜ 主译撞形：“相关性”同时对应 correlation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **relevance logic**（行 5421，现译“相干逻辑”）｜ FLAG ｜ 主译撞形：“相干逻辑”同时对应 relevant logic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **relevant logic**（行 5425，现译“相干逻辑”）｜ MERGE ｜ 与 relevance logic 行（行 5421）同一逻辑的两种英文名、同译“相干逻辑”；并入 relevance logic 行（相关亦作另注）
-- **reliability**（行 5429，现译“可靠性”）｜ FLAG ｜ 主译撞形：“可靠性”同时对应 soundness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **reliable cognition（tshad ma）**（行 5431，现译“可靠认知（即“量”；藏文 tshad ma 本词条通译作“量”）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
-- **representationalist**（行 5457，现译“表象论的”）｜ FLAG ｜ 与 representationalism 行（行 5456，表征主义，A 档裁定）族内不一：本行作“表象论”（该行仅列“亦作”）；须统一为“表征主义的／表征论者”，或按本行语境说明分域
-- **resiliency**（行 5482，现译“弹性”）｜ FLAG ｜ 主译撞形：“弹性”同时对应 sthitisthāpaka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **responsibility**（行 5488，现译“责任”）｜ FLAG ｜ 主译撞形：“责任”同时对应 liability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **respublica**（行 5490，现译“拉丁原文保留（公共关切/共同善）”）｜ FLAG ｜ 主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **restriction**（行 5495，现译“限缩”）｜ FLAG ｜ 主译撞形：“限缩”同时对应 circumscription (of sovereignty)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **reversion**（行 5506，现译“回返”）｜ FLAG ｜ 主译撞形：“回返”同时对应 epistrophe；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **right of nature**（行 5522，现译“自然权利”）｜ FLAG ｜ 主译撞形：“自然权利”同时对应 natural right / Natural Rights；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **risk affine**（行 5531，现译“风险偏好（亦作“风险爱好”）”）｜ FLAG ｜ 现译“风险偏好／风险爱好”把 risk affine（对概率呈仿射性的风险态度）与 risk-loving／risk-seeking（风险爱好）混同；risk:1141 语境为 risk affine behaviour 的仿射表示，宜作“风险仿射”；须查证后改译
@@ -120,3 +100,23 @@
 - **symphilosophy**（行 6379，现译“共思（Symphilosophie）（亦作“共哲学”）”）｜ MERGE ｜ 与 Symphilosophie 行（行 6378）同词（德／英两形）而两译（共思／共同哲学）；合并为一行并统一译名（建议“共思（Symphilosophie）”，亦作注“共同哲学”）
 - **syncategorematic**（行 6381，现译“非范畴式”）｜ FLAG ｜ 族内三形并存：本行“非范畴式”、syncategorematic word 行（行 6382）“非范畴词”、syncategorematic word / syncategorema 行（行 6383）“助范畴词”；须统一（建议形容词“非范畴的”、名词“非范畴词”，《助范畴词》书名作为专名保留）
 - **syncretism**（行 6390，现译“折中主义”）｜ FLAG ｜ 现译“折中主义”与 eclecticism 行（行 1806，折衷主义）仅异形字之差、实为同一汉词，两英文概念撞形无别；syncretism 通行“融合主义／混合主义”，须改译分行
+- **synthesis**（行 6397，现译“综合”）｜ FLAG ｜ 主译撞形：“综合”同时对应 tarkīb；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **tafsīr**（行 6420，现译“解释（经注）”）｜ FLAG ｜ 主译撞形：“解释”同时对应 Account、interpretation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **taiji**（行 6426，现译“太极（supreme polarity 太极）”）｜ FLAG ｜ 主译撞形：“太极”同时对应 Supreme Ultimate；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **taklīf**（行 6435，现译“义务（taklīf 诫命义）”）｜ FLAG ｜ 主译撞形：“义务”同时对应 obligation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **tarka**（行 6446，现译“保留原文（直观辨相）”）｜ FLAG ｜ 主译撞形：“保留原文”同时对应 apretado、nepantla、relajiento、relajo、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **tarkīb**（行 6449，现译“综合（synthesis；图像构造语境亦作“组合”）”）｜ FLAG ｜ 主译撞形：“综合”同时对应 synthesis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **taṣawwur**（行 6450，现译“概念化”）｜ FLAG ｜ 主译撞形：“概念化”同时对应 Conceptualization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **tashbīh**（行 6452，现译“同化”）｜ FLAG ｜ 主译撞形：“同化”同时对应 assimilation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **tattva**（行 6459，现译“范畴（谛）”）｜ FLAG ｜ 主译撞形：“范畴”同时对应 category；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **taʿārīf**（行 6470，现译“定义（definitions；与 ḥudūd 界定同义连用）”）｜ FLAG ｜ 主译撞形：“定义”同时对应 definition、ḥadd、lakṣaṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **technê**（行 6473，现译“技艺（亦作“技术”）”）｜ FLAG ｜ 亦作“技术”与 technology 的主译撞形；删该亦作或改主译
+- **Teleological**（行 6478，现译“目的论”）｜ MERGE ｜ 词汇表并网遗留的形容词片段键，与 teleology 行（行 6483，目的论）同源同译；并入 teleology 行（目的论论证另由 Teleological Arguments 行承担）
+- **teleology**（行 6483，现译“目的论”）｜ FLAG ｜ 主译撞形：“目的论”同时对应 Teleological；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **test (dynamic semantics)**（行 6519，现译“测试”）｜ FLAG ｜ 主译撞形：“测试”同时对应 test (program)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **test (program)**（行 6520，现译“测试”）｜ FLAG ｜ 主译撞形：“测试”同时对应 test (dynamic semantics)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **testimony**（行 6524，现译“证言（亦作“证词”）”）｜ FLAG ｜ 主译撞形：“证言”同时对应 śabda；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **tetralemma**（行 6525，现译“四句”）｜ FLAG ｜ 主译撞形：“四句”同时对应 catuṣ-koṭi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **the numinous**（行 6540，现译“努秘（保留原词，随文括注；本册既有行复核一致）”）｜ FLAG ｜ 主译撞形：“努秘”同时对应 numinous；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **to phainomenon**（行 6628，现译“显现”）｜ FLAG ｜ 主译撞形：“显现”同时对应 apparentia、manifestation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **token（令牌环语境）**（行 6633，现译“令牌”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）

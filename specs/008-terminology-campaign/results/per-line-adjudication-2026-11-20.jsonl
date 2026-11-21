@@ -509,7 +509,7 @@
 {"key": "curiosity", "line": 1401, "v": "KEEP", "zh": "好奇心", "orig": "—", "note": null, "sheet": "s02"}
 {"key": "current self", "line": 1402, "v": "KEEP", "zh": "当前自我", "orig": "—", "note": null, "sheet": "s02"}
 {"key": "Curry's paradox", "line": 1403, "v": "KEEP", "zh": "柯里悖论", "orig": "—", "note": null, "sheet": "s02"}
-{"key": "Curry-Howard isomorphism", "line": 1404, "v": "FIX", "zh": "柯里-霍华德同构（亦作“柯里-霍华德对应”）", "orig": "—", "note": "连接号按 ADR-0041 一字线裁定统一：柯里-霍华德 → 柯里—霍华德（与玻尔—爱因斯坦频率条件行一致）", "sheet": "s02"}
+{"key": "Curry-Howard isomorphism", "line": 1404, "v": "KEEP", "zh": "柯里-霍华德同构（亦作“柯里-霍华德对应”）", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "s02"}
 {"key": "curse of dimensionality", "line": 1405, "v": "KEEP", "zh": "维数灾难", "orig": "—", "note": null, "sheet": "s02"}
 {"key": "cut elimination", "line": 1406, "v": "KEEP", "zh": "切割消除（亦作“切消”）", "orig": "—", "note": null, "sheet": "s02"}
 {"key": "Cut rule", "line": 1407, "v": "KEEP", "zh": "切规则（亦作“截规则”）", "orig": "—", "note": null, "sheet": "s02"}
@@ -937,7 +937,7 @@
 {"key": "eigenvector", "line": 1839, "v": "KEEP", "zh": "本征矢量", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "eight difficult points", "line": 1840, "v": "KEEP", "zh": "八大难题", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "Einfühlung", "line": 1841, "v": "KEEP", "zh": "移情", "orig": "Einfühlung", "note": null, "sheet": "s05"}
-{"key": "Einstein-Podolsky-Rosen", "line": 1842, "v": "FIX", "zh": "爱因斯坦-波多尔斯基-罗森", "orig": "—", "note": "连接号按 ADR-0041 一字线裁定统一（与 Curry—Howard 同族）：爱因斯坦-波多尔斯基-罗森 → 爱因斯坦—波多尔斯基—罗森", "sheet": "s05"}
+{"key": "Einstein-Podolsky-Rosen", "line": 1842, "v": "KEEP", "zh": "爱因斯坦-波多尔斯基-罗森", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "s05"}
 {"key": "Eleatic / Eleatics", "line": 1843, "v": "KEEP", "zh": "爱利亚学派", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "electric shock", "line": 1844, "v": "KEEP", "zh": "电击", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "electromagnetic radiation", "line": 1845, "v": "KEEP", "zh": "电磁辐射", "orig": "—", "note": null, "sheet": "s05"}
@@ -1398,7 +1398,7 @@
 {"key": "first-order ethics", "line": 2305, "v": "KEEP", "zh": "第一阶伦理学", "orig": "—", "note": null, "sheet": "r07"}
 {"key": "first-order formula", "line": 2306, "v": "KEEP", "zh": "一阶公式", "orig": "—", "note": null, "sheet": "r07"}
 {"key": "first-order logic", "line": 2307, "v": "KEEP", "zh": "一阶逻辑", "orig": "—", "note": null, "sheet": "r07"}
-{"key": "Fischer-Ladner closure", "line": 2308, "v": "FIX", "zh": "Fischer–Ladner 闭包", "orig": "—", "note": "人名连接号按 ADR-0041 一字线统一：Fischer–Ladner → Fischer—Ladner（与 Curry—Howard、Einstein—Podolsky—Rosen、Gale—Shapley 一致）", "sheet": "r07"}
+{"key": "Fischer-Ladner closure", "line": 2308, "v": "KEEP", "zh": "Fischer–Ladner 闭包", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r07"}
 {"key": "Fisher information", "line": 2309, "v": "KEEP", "zh": "费希尔信息", "orig": "—", "note": null, "sheet": "r07"}
 {"key": "fission", "line": 2310, "v": "KEEP", "zh": "分裂", "orig": "—", "note": null, "sheet": "r07"}
 {"key": "fitness", "line": 2311, "v": "KEEP", "zh": "适合度", "orig": "—", "note": null, "sheet": "r07"}
@@ -1776,7 +1776,7 @@
 {"key": "Hegelianism", "line": 2693, "v": "KEEP", "zh": "黑格尔主义", "orig": "—", "note": null, "sheet": "r09"}
 {"key": "hegemonikon", "line": 2694, "v": "FLAG", "zh": "灵魂的主导部分（斯多葛）（亦作“统治部分”）", "orig": "ἡγεμονικόν", "note": "亦作“统治部分”与 pars principans 的主译撞形；删该亦作或改主译", "sheet": "r09"}
 {"key": "hegemony", "line": 2695, "v": "KEEP", "zh": "霸权", "orig": "—", "note": null, "sheet": "r09"}
-{"key": "Heine-Borel property", "line": 2696, "v": "FIX", "zh": "海涅-博莱尔性质（亦作“海涅-博雷尔”）", "orig": "—", "note": "人名连接号按 ADR-0041 一字线：海涅-博莱尔 → 海涅—博莱尔", "sheet": "r09"}
+{"key": "Heine-Borel property", "line": 2696, "v": "KEEP", "zh": "海涅-博莱尔性质（亦作“海涅-博雷尔”）", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r09"}
 {"key": "hen esti", "line": 2697, "v": "KEEP", "zh": "“一存在”（hen esti）", "orig": "—", "note": null, "sheet": "r09"}
 {"key": "Henkin-style", "line": 2698, "v": "KEEP", "zh": "Henkin 式", "orig": "—", "note": null, "sheet": "r09"}
 {"key": "Heracles", "line": 2699, "v": "FLAG", "zh": "《赫拉克勒斯》", "orig": "—", "note": "现译加书名号作剧作《赫拉克勒斯》，但首现与三处用语均为英雄／神赫拉克勒斯（xenophanes:661 神殿语境）；须去书名号改“赫拉克勒斯”或分行", "sheet": "r09"}
@@ -1833,7 +1833,7 @@
 {"key": "historicism", "line": 2750, "v": "FLAG", "zh": "历史主义", "orig": "—", "note": "主译撞形：“历史主义”同时对应 historism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r09"}
 {"key": "historicity", "line": 2751, "v": "FLAG", "zh": "历史性", "orig": "Geschichtlichkeit", "note": "与 Geschichtlichkeit 行（行 2532）同指德文 Geschichtlichkeit、同译“历史性”撞形（本行原文列亦填 Geschichtlichkeit）；须合键或分行（历史性／历史处境性）", "sheet": "r09"}
 {"key": "historicization", "line": 2752, "v": "FLAG", "zh": "历史化", "orig": "Vergeschichtlichung", "note": "主译撞形：“历史化”同时对应 Vergeschichtlichung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r09"}
-{"key": "historico-critical method", "line": 2753, "v": "FIX", "zh": "历史-批判方法", "orig": "—", "note": "连接号按 ADR-0041 一字线：历史-批判方法 → 历史—批判方法", "sheet": "r09"}
+{"key": "historico-critical method", "line": 2753, "v": "KEEP", "zh": "历史-批判方法", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r09"}
 {"key": "historiê", "line": 2754, "v": "FLAG", "zh": "探究", "orig": "ἱστορίη", "note": "主译撞形：“探究”同时对应 skeptosunê；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r09"}
 {"key": "historiographical operation", "line": 2755, "v": "KEEP", "zh": "历史编纂操作", "orig": "—", "note": null, "sheet": "r09"}
 {"key": "historiography of logic", "line": 2756, "v": "KEEP", "zh": "逻辑史编纂学（亦作“逻辑史学”）", "orig": "—", "note": null, "sheet": "r09"}
@@ -1862,7 +1862,7 @@
 {"key": "homosexuality", "line": 2779, "v": "KEEP", "zh": "同性恋", "orig": "—", "note": null, "sheet": "r09"}
 {"key": "homunculus", "line": 2780, "v": "FLAG", "zh": "侏儒图", "orig": "—", "note": "族内不一：homunculus＝侏儒图、homunculus-head＝小人儿头；通行“小人（谬误）”系，须查证统一", "sheet": "r09"}
 {"key": "homunculus-head", "line": 2781, "v": "FLAG", "zh": "小人儿头", "orig": "—", "note": "同 homunculus 族问题（侏儒图／小人儿头不一），须查证统一", "sheet": "r09"}
-{"key": "honesty-humility", "line": 2782, "v": "FIX", "zh": "诚实-谦逊", "orig": "—", "note": "连接号按 ADR-0041 一字线：诚实-谦逊 → 诚实—谦逊（HEXACO 维度名）", "sheet": "r09"}
+{"key": "honesty-humility", "line": 2782, "v": "KEEP", "zh": "诚实-谦逊", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r09"}
 {"key": "hongaku / honkyō", "line": 2783, "v": "KEEP", "zh": "本学/本教（大国隆正）", "orig": "本学 / 本教", "note": null, "sheet": "r09"}
 {"key": "hongaku hosshin", "line": 2784, "v": "KEEP", "zh": "本觉法身", "orig": "本覚法身", "note": null, "sheet": "r09"}
 {"key": "honpushō / ādyanutpāda", "line": 2785, "v": "KEEP", "zh": "本不生", "orig": "本不生", "note": null, "sheet": "r09"}
@@ -1942,7 +1942,7 @@
 {"key": "icchā", "line": 2864, "v": "KEEP", "zh": "欲", "orig": "इच्छा", "note": null, "sheet": "r10"}
 {"key": "icchantika", "line": 2865, "v": "KEEP", "zh": "一阐提", "orig": "इच्छन्तिक", "note": null, "sheet": "r10"}
 {"key": "icon veneration", "line": 2866, "v": "KEEP", "zh": "圣像崇拜", "orig": "—", "note": null, "sheet": "r10"}
-{"key": "idea", "line": 2867, "v": "FIX", "zh": "理念（柏拉图-黑格尔传统）；观念（经验论语境）", "orig": "—", "note": "括注连接号按 ADR-0041 一字线：柏拉图-黑格尔传统 → 柏拉图—黑格尔传统", "sheet": "r10"}
+{"key": "idea", "line": 2867, "v": "KEEP", "zh": "理念（柏拉图-黑格尔传统）；观念（经验论语境）", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r10"}
 {"key": "idea of being", "line": 2868, "v": "KEEP", "zh": "存在观念", "orig": "—", "note": null, "sheet": "r10"}
 {"key": "ideal character", "line": 2869, "v": "KEEP", "zh": "理想性格（亦作“理想性质”）", "orig": "—", "note": null, "sheet": "r10"}
 {"key": "ideal element", "line": 2870, "v": "FLAG", "zh": "理想元素", "orig": "—", "note": "与 ideal elements 行（行 2871）单复数两行同译“理想元素”（均 hilbert-program 语境）；须合键", "sheet": "r10"}
@@ -2446,7 +2446,7 @@
 {"key": "kishin", "line": 3378, "v": "FLAG", "zh": "鬼神（平田学派：有意志与力量的灵）", "orig": "鬼神", "note": "主译撞形：“鬼神”同时对应 gui-shen；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
 {"key": "Kitāb al-ḥurūf", "line": 3379, "v": "KEEP", "zh": "《字母之书》（法拉比著；亦译《论字母》）", "orig": "كتاب الحروف", "note": null, "sheet": "r12"}
 {"key": "KK principle", "line": 3380, "v": "KEEP", "zh": "KK 原则", "orig": "—", "note": null, "sheet": "r12"}
-{"key": "Kleene–Mostowski hierarchy", "line": 3381, "v": "FIX", "zh": "Kleene–Mostowski 层级", "orig": "—", "note": "人名连接号按 ADR-0041 一字线：Kleene–Mostowski → Kleene—Mostowski", "sheet": "r12"}
+{"key": "Kleene–Mostowski hierarchy", "line": 3381, "v": "KEEP", "zh": "Kleene–Mostowski 层级", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r12"}
 {"key": "Kleinstaat", "line": 3382, "v": "KEEP", "zh": "小邦国", "orig": "Kleinstaat", "note": null, "sheet": "r12"}
 {"key": "kleśa", "line": 3383, "v": "KEEP", "zh": "烦恼", "orig": "क्लेश", "note": null, "sheet": "r12"}
 {"key": "kliṣṭamanas", "line": 3384, "v": "KEEP", "zh": "染污意（末那识）", "orig": "—", "note": null, "sheet": "r12"}
@@ -2461,10 +2461,10 @@
 {"key": "knowledge graph", "line": 3393, "v": "KEEP", "zh": "知识图谱", "orig": "—", "note": null, "sheet": "r12"}
 {"key": "knowledge representation", "line": 3394, "v": "KEEP", "zh": "知识表示", "orig": "—", "note": null, "sheet": "r12"}
 {"key": "knowledge-conferring situation", "line": 3395, "v": "KEEP", "zh": "授知情境", "orig": "—", "note": null, "sheet": "r12"}
-{"key": "knowledge-how", "line": 3396, "v": "FIX", "zh": "知识-如何", "orig": "—", "note": "连接号按 ADR-0041 一字线：知识-如何 → 知识—如何（与 knowledge—that 联动）", "sheet": "r12"}
-{"key": "knowledge-that", "line": 3397, "v": "FIX", "zh": "知识-那", "orig": "—", "note": "连接号按 ADR-0041 一字线：知识-那 → 知识—那", "sheet": "r12"}
-{"key": "Kochen-Specker", "line": 3398, "v": "FIX", "zh": "科亨-施佩克尔", "orig": "—", "note": "人名连接号按 ADR-0041 一字线：科亨-施佩克尔 → 科亨—施佩克尔（与 KS Theorem 行联动）", "sheet": "r12"}
-{"key": "Kochen-Specker theorem", "line": 3399, "v": "FIX", "zh": "科亨-施佩克尔定理", "orig": "—", "note": "人名连接号按 ADR-0041 一字线：科亨-施佩克尔定理 → 科亨—施佩克尔定理", "sheet": "r12"}
+{"key": "knowledge-how", "line": 3396, "v": "KEEP", "zh": "知识-如何", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r12"}
+{"key": "knowledge-that", "line": 3397, "v": "KEEP", "zh": "知识-那", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r12"}
+{"key": "Kochen-Specker", "line": 3398, "v": "KEEP", "zh": "科亨-施佩克尔", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r12"}
+{"key": "Kochen-Specker theorem", "line": 3399, "v": "KEEP", "zh": "科亨-施佩克尔定理", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r12"}
 {"key": "koinai ennoiai (common notions)", "line": 3400, "v": "FLAG", "zh": "共同观念（首现括注原文）（亦作“常识”）", "orig": "κοιναὶ ἔννοιαι", "note": "亦作“常识”与 common sense 的主译撞形；删该亦作或改主译", "sheet": "r12"}
 {"key": "kokugaku", "line": 3401, "v": "KEEP", "zh": "国学（日本本土研究传统）", "orig": "国学", "note": null, "sheet": "r12"}
 {"key": "Kokugakusha", "line": 3402, "v": "KEEP", "zh": "国学者", "orig": "国学者", "note": null, "sheet": "r12"}
@@ -2592,7 +2592,7 @@
 {"key": "Liji", "line": 3529, "v": "KEEP", "zh": "《礼记》", "orig": "禮記", "note": null, "sheet": "r13"}
 {"key": "likelihood ratio", "line": 3530, "v": "KEEP", "zh": "似然比", "orig": "—", "note": null, "sheet": "r13"}
 {"key": "limit-case", "line": 3531, "v": "KEEP", "zh": "极限情形", "orig": "—", "note": null, "sheet": "r13"}
-{"key": "Lindenbaum–Tarski algebra", "line": 3532, "v": "FIX", "zh": "林登鲍姆–塔尔斯基代数", "orig": "—", "note": "人名连接号按 ADR-0041 一字线：林登鲍姆–塔尔斯基代数 → 林登鲍姆—塔尔斯基代数", "sheet": "r13"}
+{"key": "Lindenbaum–Tarski algebra", "line": 3532, "v": "KEEP", "zh": "林登鲍姆–塔尔斯基代数", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r13"}
 {"key": "line of nodes", "line": 3533, "v": "KEEP", "zh": "交点线", "orig": "—", "note": null, "sheet": "r13"}
 {"key": "line segment", "line": 3534, "v": "KEEP", "zh": "线段", "orig": "—", "note": null, "sheet": "r13"}
 {"key": "linear affine logic", "line": 3535, "v": "KEEP", "zh": "线性仿射逻辑", "orig": "—", "note": null, "sheet": "r13"}
@@ -2679,7 +2679,7 @@
 {"key": "Lord Keeper of the Seal", "line": 3616, "v": "KEEP", "zh": "掌玺大臣", "orig": "—", "note": null, "sheet": "r13"}
 {"key": "Lorik（blo rigs）", "line": 3617, "v": "FLAG", "zh": "心类学（blo rigs）", "orig": "བློ་རིགས་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r13"}
 {"key": "Lowell Lectures", "line": 3618, "v": "KEEP", "zh": "洛厄尔讲座", "orig": "—", "note": null, "sheet": "r13"}
-{"key": "Löwenheim-Skolem theorem", "line": 3619, "v": "FIX", "zh": "勒文海姆–斯科伦定理（亦作“L-S定理”）", "orig": "Löwenheim-Skolem theorem", "note": "人名连接号按 ADR-0041 一字线：勒文海姆–斯科伦定理 → 勒文海姆—斯科伦定理（与 Löwenheim—Skolem—Tarski 行、r06 Heine—Borel 等联动）", "sheet": "r13"}
+{"key": "Löwenheim-Skolem theorem", "line": 3619, "v": "KEEP", "zh": "勒文海姆–斯科伦定理（亦作“L-S定理”）", "orig": "Löwenheim-Skolem theorem", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r13"}
 {"key": "Löwenheim–Skolem–Tarski theorem", "line": 3620, "v": "KEEP", "zh": "勒文海姆—斯科伦—塔斯基定理（亦作“司寇伦”）", "orig": "—", "note": null, "sheet": "r13"}
 {"key": "lower envelope / upper envelope", "line": 3621, "v": "KEEP", "zh": "下包络／上包络（亦作“下／上概率”）", "orig": "—", "note": null, "sheet": "r13"}
 {"key": "Lucasian Professor of Mathematics", "line": 3622, "v": "KEEP", "zh": "卢卡斯数学教授", "orig": "—", "note": null, "sheet": "r13"}
@@ -2826,7 +2826,7 @@
 {"key": "mean speed theorem", "line": 3768, "v": "KEEP", "zh": "平均速度定理", "orig": "—", "note": null, "sheet": "r14"}
 {"key": "meaning-formation", "line": 3769, "v": "KEEP", "zh": "意义构形", "orig": "Gebilde", "note": null, "sheet": "r14"}
 {"key": "meaning-rule", "line": 3770, "v": "KEEP", "zh": "意义规则", "orig": "—", "note": null, "sheet": "r14"}
-{"key": "means-end coherence", "line": 3771, "v": "FIX", "zh": "手段-目的融贯", "orig": "—", "note": "连接号按 ADR-0041 一字线：手段-目的融贯 → 手段—目的融贯", "sheet": "r14"}
+{"key": "means-end coherence", "line": 3771, "v": "KEEP", "zh": "手段-目的融贯", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r14"}
 {"key": "measurable cardinal", "line": 3772, "v": "KEEP", "zh": "可测基数", "orig": "—", "note": null, "sheet": "r14"}
 {"key": "measure function", "line": 3773, "v": "KEEP", "zh": "度量函数", "orig": "—", "note": null, "sheet": "r14"}
 {"key": "measure problem", "line": 3774, "v": "KEEP", "zh": "测度问题", "orig": "—", "note": null, "sheet": "r14"}
@@ -3126,7 +3126,7 @@
 {"key": "mujarrad", "line": 4068, "v": "KEEP", "zh": "抽离的（abstract 于质料）", "orig": "مجرد", "note": null, "sheet": "r15"}
 {"key": "mujō", "line": 4069, "v": "FLAG", "zh": "无常（無常）", "orig": "無常", "note": "主译撞形：“无常”同时对应 anitya、impermanence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r15"}
 {"key": "Mūlamadhyamakakārikā", "line": 4070, "v": "FLAG", "zh": "《中论》", "orig": "—", "note": "主译撞形：“《中论》”同时对应 Zhonglun；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r15"}
-{"key": "Müller-Lyer illusion", "line": 4071, "v": "FIX", "zh": "米勒-莱尔错觉", "orig": "Müller-Lyer illusion", "note": "人名连接号按 ADR-0041 一字线：米勒-莱尔错觉 → 米勒—莱尔错觉", "sheet": "r15"}
+{"key": "Müller-Lyer illusion", "line": 4071, "v": "KEEP", "zh": "米勒-莱尔错觉", "orig": "Müller-Lyer illusion", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r15"}
 {"key": "multi-agent system", "line": 4072, "v": "KEEP", "zh": "多智能体系统", "orig": "—", "note": null, "sheet": "r15"}
 {"key": "multi-location", "line": 4073, "v": "KEEP", "zh": "多重定位", "orig": "multiple location", "note": null, "sheet": "r15"}
 {"key": "multicellularity", "line": 4074, "v": "KEEP", "zh": "多细胞性", "orig": "—", "note": null, "sheet": "r16"}
@@ -3161,7 +3161,7 @@
 {"key": "mutaḥayyiz", "line": 4103, "v": "KEEP", "zh": "空间延展的", "orig": "متحيز", "note": null, "sheet": "r16"}
 {"key": "mutakallimūn", "line": 4104, "v": "KEEP", "zh": "凯拉姆学者（亦作“教义学家”）", "orig": "مُتَكَلِّمُون", "note": null, "sheet": "r16"}
 {"key": "mutakhayyila", "line": 4105, "v": "KEEP", "zh": "想象力（阿维森纳 cogitative 官能；与 takhayyul 想象官能相区分）", "orig": "متخیلة", "note": null, "sheet": "r16"}
-{"key": "mutation-selection balance", "line": 4106, "v": "FIX", "zh": "突变-选择平衡", "orig": "—", "note": "连接号按 ADR-0041 一字线：突变-选择平衡 → 突变—选择平衡", "sheet": "r16"}
+{"key": "mutation-selection balance", "line": 4106, "v": "KEEP", "zh": "突变-选择平衡", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r16"}
 {"key": "mutawātir", "line": 4107, "v": "KEEP", "zh": "大量传递的", "orig": "متواتر", "note": null, "sheet": "r16"}
 {"key": "mutual acceptance", "line": 4108, "v": "KEEP", "zh": "相互接受", "orig": "—", "note": null, "sheet": "r16"}
 {"key": "mutual information", "line": 4109, "v": "KEEP", "zh": "互信息", "orig": "—", "note": null, "sheet": "r16"}
@@ -3410,7 +3410,7 @@
 {"key": "nutation", "line": 4357, "v": "KEEP", "zh": "章动", "orig": "—", "note": null, "sheet": "r17"}
 {"key": "Nyāya", "line": 4358, "v": "KEEP", "zh": "正理派", "orig": "न्याय", "note": null, "sheet": "r17"}
 {"key": "Nyāya-sūtra", "line": 4359, "v": "KEEP", "zh": "《逻辑经》", "orig": "न्यायसूत्र", "note": null, "sheet": "r17"}
-{"key": "Nyāya-Vaiśeṣika", "line": 4360, "v": "FIX", "zh": "正理-胜论派", "orig": "Nyāya-Vaiśeṣika", "note": "连接号按 ADR-0041 一字线：正理-胜论派 → 正理—胜论派", "sheet": "r17"}
+{"key": "Nyāya-Vaiśeṣika", "line": 4360, "v": "KEEP", "zh": "正理-胜论派", "orig": "Nyāya-Vaiśeṣika", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r17"}
 {"key": "Nyāyabindu", "line": 4361, "v": "KEEP", "zh": "《正理滴论》", "orig": "न्यायबिन्दु", "note": null, "sheet": "r17"}
 {"key": "Nyāyasiddhāntamañjarī", "line": 4362, "v": "FLAG", "zh": "《宗义摩尼鬘》", "orig": "न्यायसिद्धान्तमञ्जरी", "note": "主译撞形：“《宗义摩尼鬘》”同时对应 Siddhānta-muktāvalī；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r17"}
 {"key": "obex gratiae", "line": 4368, "v": "KEEP", "zh": "恩典障碍", "orig": "obex gratiae", "note": null, "sheet": "r17"}
@@ -3695,7 +3695,7 @@
 {"key": "perfect goodness", "line": 4652, "v": "KEEP", "zh": "完美善", "orig": "—", "note": null, "sheet": "r18"}
 {"key": "perfect number", "line": 4653, "v": "KEEP", "zh": "完全数（亦作“完满数”）", "orig": "—", "note": null, "sheet": "r18"}
 {"key": "perfection (perfectio)", "line": 4654, "v": "KEEP", "zh": "完满性", "orig": "—", "note": null, "sheet": "r18"}
-{"key": "perfection (Vollkommenheit)", "line": 4655, "v": "FIX", "zh": "完善（沃尔夫-鲍姆嘉通语境；与既有行 moral perfection=道德完善、perfectionism=至善论相衔接）", "orig": "—", "note": "人名连接号按 ADR-0041 一字线：沃尔夫-鲍姆嘉通 → 沃尔夫—鲍姆嘉通", "sheet": "r18"}
+{"key": "perfection (Vollkommenheit)", "line": 4655, "v": "KEEP", "zh": "完善（沃尔夫-鲍姆嘉通语境；与既有行 moral perfection=道德完善、perfectionism=至善论相衔接）", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r18"}
 {"key": "perfectionism", "line": 4656, "v": "KEEP", "zh": "至善论", "orig": "—", "note": null, "sheet": "r18"}
 {"key": "Peri phuseôs (On Nature)", "line": 4657, "v": "KEEP", "zh": "《论自然》", "orig": "Περὶ φύσεως", "note": null, "sheet": "r18"}
 {"key": "Peripatetics", "line": 4658, "v": "KEEP", "zh": "逍遥学派", "orig": "—", "note": null, "sheet": "r18"}
@@ -3870,7 +3870,7 @@
 {"key": "pornographic art", "line": 4827, "v": "KEEP", "zh": "色情艺术", "orig": "—", "note": null, "sheet": "r19"}
 {"key": "pornography", "line": 4828, "v": "KEEP", "zh": "色情", "orig": "—", "note": null, "sheet": "r19"}
 {"key": "poroi", "line": 4829, "v": "KEEP", "zh": "通道", "orig": "πόροι", "note": null, "sheet": "r19"}
-{"key": "Port-Royal Logic", "line": 4830, "v": "FIX", "zh": "《波尔-罗亚尔逻辑》（国内亦称“王港逻辑”）", "orig": "La Logique ou l’Art de penser", "note": "连接号按 ADR-0041 一字线：《波尔-罗亚尔逻辑》→《波尔—罗亚尔逻辑》", "sheet": "r19"}
+{"key": "Port-Royal Logic", "line": 4830, "v": "KEEP", "zh": "《波尔-罗亚尔逻辑》（国内亦称“王港逻辑”）", "orig": "La Logique ou l’Art de penser", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r19"}
 {"key": "portfolio analysis", "line": 4831, "v": "KEEP", "zh": "组合分析", "orig": "—", "note": null, "sheet": "r19"}
 {"key": "positing (Setzung)", "line": 4832, "v": "FLAG", "zh": "设定", "orig": "Setzung", "note": "主译撞形：“设定”同时对应 positio；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
 {"key": "positio", "line": 4833, "v": "FLAG", "zh": "设定（保留拉丁原词）", "orig": "—", "note": "主译撞形：“设定”同时对应 positing (Setzung)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
@@ -6213,7 +6213,7 @@
 {"key": "Zahlfiguren", "line": 7220, "v": "KEEP", "zh": "数的图形", "orig": "Zahlenfiguren", "note": null, "sheet": "r31"}
 {"key": "Zechariah", "line": 7221, "v": "KEEP", "zh": "《撒迦利亚书》", "orig": "—", "note": null, "sheet": "r31"}
 {"key": "zeitgeist", "line": 7222, "v": "KEEP", "zh": "时代精神", "orig": "—", "note": null, "sheet": "r31"}
-{"key": "Zermelo-Fraenkel", "line": 7223, "v": "FIX", "zh": "策梅洛-弗兰克尔", "orig": "—", "note": "连接号按 ADR-0041 一字线：策梅洛-弗兰克尔 → 策梅洛—弗兰克尔（双人名连用，与勒文海姆—斯科伦、科亨—施佩克尔同规）", "sheet": "r31"}
+{"key": "Zermelo-Fraenkel", "line": 7223, "v": "KEEP", "zh": "策梅洛-弗兰克尔", "orig": "—", "note": "连接号方向更正：原短横线合 ADR-0041／rules/02 §连接号（短横线＝复合名词、外来语内部分合，如盎格鲁-撒克逊、让-雅克），一字线“—”仅用于时间与地域起止；此前按“一字线”判 FIX 系方向误判，现撤回为 KEEP。Tier 3 未批，禁铺量改。", "sheet": "r31"}
 {"key": "zero-sum game", "line": 7224, "v": "KEEP", "zh": "零和博弈", "orig": "—", "note": null, "sheet": "r31"}
 {"key": "Zhonglun", "line": 7225, "v": "FLAG", "zh": "《中论》（徐干）", "orig": "中論", "note": "主译撞形：“《中论》”同时对应 Mūlamadhyamakakārikā；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r31"}
 {"key": "Zhongyong", "line": 7226, "v": "KEEP", "zh": "《中庸》", "orig": "《中庸》", "note": null, "sheet": "r31"}

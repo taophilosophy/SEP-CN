@@ -1,12 +1,5 @@
-# 待处置清单 open-03（行 2994–4106，120 条）
+# 待处置清单 open-03（行 3093–4279，120 条）
 
-- **indeterminism**（行 2994，现译“非决定论”）｜ FLAG ｜ 主译撞形：“非决定论”同时对应 non-determinism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **index number**（行 2996，现译“指数”）｜ FLAG ｜ 主译撞形：“指数”同时对应 exponential；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **individualism**（行 3007，现译“个人主义”）｜ FLAG ｜ 主译撞形：“个人主义”同时对应 personalist；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **individualist**（行 3008，现译“个体主义者”）｜ FLAG ｜ 族内不一：individualism＝个人主义而 individualist＝个体主义者；通行 individualist 个人主义者，须统一“个人”系或按域
-- **infinite regress**（行 3049，现译“无穷倒退（亦作“无限倒退”“无限回溯”）”）｜ FLAG ｜ 主译撞形：“无穷倒退”同时对应 anavasthā；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **influx (celestial)**（行 3053，现译“流入（天体）”）｜ FLAG ｜ 主译撞形：“流入”同时对应 āsrava；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **insolubilia**（行 3092，现译“不可解问题（亦作“不可解命题”）”）｜ FLAG ｜ 与 insolubles 行（行 3093）同词两形译法不一：不可解问题／不可解命题；中世纪逻辑通行“不可解命题”，须统一
 - **insolubles**（行 3093，现译“不可解命题”）｜ FLAG ｜ 同 insolubilia 族问题（不可解问题／不可解命题不一），须统一
 - **instantiation rule**（行 3098，现译“例示规则”）｜ FLAG ｜ 族内不一：instantiation＝实例化而 instantiation rule＝例示规则；通行两形均有（例示规则／实例化规则），须族内统一
 - **intellectualist**（行 3122，现译“主智论者”）｜ FLAG ｜ 族内不一：intellectualism＝理智主义而 intellectualist＝主智论者；通行“理智主义者”，须统一
@@ -49,11 +42,6 @@
 - **kata**（行 3350，现译“型（形）”）｜ FLAG ｜ 用语三处为希腊语介词 kata／人名 Katarzyna，非首现 japanese-aesthetic 之日语“型”义；须重抓用语
 - **kinêsis**（行 3372，现译“运动（希腊语境）”）｜ FLAG ｜ 主译撞形：“运动”同时对应 karma（胜论句义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **kishin**（行 3378，现译“鬼神（平田学派：有意志与力量的灵）”）｜ FLAG ｜ 主译撞形：“鬼神”同时对应 gui-shen；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Kleene–Mostowski hierarchy**（行 3381，现译“Kleene–Mostowski 层级”）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：Kleene–Mostowski → Kleene—Mostowski
-- **knowledge-how**（行 3396，现译“知识-如何”）｜ FIX ｜ 连接号按 ADR-0041 一字线：知识-如何 → 知识—如何（与 knowledge—that 联动）
-- **knowledge-that**（行 3397，现译“知识-那”）｜ FIX ｜ 连接号按 ADR-0041 一字线：知识-那 → 知识—那
-- **Kochen-Specker**（行 3398，现译“科亨-施佩克尔”）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：科亨-施佩克尔 → 科亨—施佩克尔（与 KS Theorem 行联动）
-- **Kochen-Specker theorem**（行 3399，现译“科亨-施佩克尔定理”）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：科亨-施佩克尔定理 → 科亨—施佩克尔定理
 - **koinai ennoiai (common notions)**（行 3400，现译“共同观念（首现括注原文）（亦作“常识”）”）｜ FLAG ｜ 亦作“常识”与 common sense 的主译撞形；删该亦作或改主译
 - **kongjŏk yŏngji（空寂靈知）**（行 3406，现译“空寂灵知”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **lakṣaṇa**（行 3429，现译“定义（相）”）｜ FLAG ｜ 主译撞形：“定义”同时对应 definition、ḥadd、taʿārīf；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
@@ -66,7 +54,6 @@
 - **Leib**（行 3484，现译“活的身体”）｜ FLAG ｜ 用语一处为人名引用（contract-law:1042 Leib 2015），非身体义；另两处（existentialism:592、phenomenology:1540）为“活的身体”义 ✓；须换用第一条用语
 - **lex**（行 3501，现译“拉丁原文保留（法律）”）｜ FLAG ｜ 主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、respublica、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **liability**（行 3508，现译“责任”）｜ FLAG ｜ 主译撞形：“责任”同时对应 responsibility；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Lindenbaum–Tarski algebra**（行 3532，现译“林登鲍姆–塔尔斯基代数”）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：林登鲍姆–塔尔斯基代数 → 林登鲍姆—塔尔斯基代数
 - **lived experience**（行 3553，现译“体验（亦作“生命体验”）”）｜ FLAG ｜ 主译撞形：“体验”同时对应 Erlebnis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **living organism**（行 3557，现译“生物体”）｜ FLAG ｜ 主译撞形：“生物体”同时对应 organism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **lo mexicano**（行 3563，现译“墨西哥性（墨西哥的东西）”）｜ FLAG ｜ 主译撞形：“墨西哥性”同时对应 Mexicanness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
@@ -74,7 +61,6 @@
 - **logica moderna**（行 3579，现译“现代逻辑（中世纪语境）”）｜ FLAG ｜ 现译“现代逻辑”与 20 世纪 modern logic 大撞形；中世纪通行 logica moderna 作“新逻辑”，与 logica vetus/nova/modernorum 行（旧逻辑／新逻辑／现代人的逻辑）联动统一
 - **logistic**（行 3606，现译“逻辑斯蒂（20 世纪早期对符号逻辑/数理逻辑的旧称）（亦作“逻辑斯提”）”）｜ FLAG ｜ 三义分行候选：希腊计算术（archytas:166 logistic [arithmetic]）、20 世纪符号逻辑旧称（现译）、逻辑斯蒂方程（microbiology:1003 logistic equation）；现译仅合第二义，须分行
 - **Lorik（blo rigs）**（行 3617，现译“心类学（blo rigs）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
-- **Löwenheim-Skolem theorem**（行 3619，现译“勒文海姆–斯科伦定理（亦作“L-S定理”）”）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：勒文海姆–斯科伦定理 → 勒文海姆—斯科伦定理（与 Löwenheim—Skolem—Tarski 行、r06 Heine—Borel 等联动）
 - **Lunyu**（行 3627，现译“《论语》”）｜ FLAG ｜ 主译撞形：“《论语》”同时对应 Analects / Lun yu / Lunyu；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **mabādiʾ**（行 3644，现译“本原（mabdaʾ 复数；principles）”）｜ FLAG ｜ 主译撞形：“本原”同时对应 arché；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **makān**（行 3674，现译“位置”）｜ FLAG ｜ 主译撞形：“位置”同时对应 place (topos)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
@@ -91,7 +77,6 @@
 - **Māturīdī**（行 3752，现译“马图里迪派”）｜ FLAG ｜ 与 Maṭurīdiyya 行（行 3753）同译“马图里迪派”撞形；本行系教义学家人名义，须分行（马图里迪／马图里迪派）
 - **Maṭurīdiyya**（行 3753，现译“马图里迪派”）｜ FLAG ｜ 同 Māturīdī 行族问题（两行同译撞形），须分行区分（学派义保留现译）
 - **maʿnā**（行 3763，现译“意义”）｜ FLAG ｜ 主译撞形：“意义”同时对应 Bedeutung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **means-end coherence**（行 3771，现译“手段-目的融贯”）｜ FIX ｜ 连接号按 ADR-0041 一字线：手段-目的融贯 → 手段—目的融贯
 - **mechanism**（行 3785，现译“机械论”）｜ FLAG ｜ mechanism 族混用：mechanism＝机械论（首现语料回收）而 mechanism design theory＝机制设计理论、mechanism model＝机制模型；哲学 mechanical 义通行“机械论”、生物学／经济学通行“机制”，须族内统一或按域分行
 - **mental episodes（blo）**（行 3806，现译“心识事件（blo）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **mental proposition / ideal proposition**（行 3813，现译“心理命题／理想命题”）｜ FLAG ｜ 族内不一：mental proposition＝心灵命题（行 3812）而本行＝心理命题／理想命题；mental 系通行“心理”（mental act 心理行为等），须族内统一
@@ -117,6 +102,21 @@
 - **mortalist**（行 4055，现译“必死论”）｜ FLAG ｜ 族内不一：mortalism＝灵魂有死论而 mortalist＝必死论；gomez-pereira 语境 mortalist 即灵魂有死论者，须族内统一
 - **mujō**（行 4069，现译“无常（無常）”）｜ FLAG ｜ 主译撞形：“无常”同时对应 anitya、impermanence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Mūlamadhyamakakārikā**（行 4070，现译“《中论》”）｜ FLAG ｜ 主译撞形：“《中论》”同时对应 Zhonglun；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Müller-Lyer illusion**（行 4071，现译“米勒-莱尔错觉”）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：米勒-莱尔错觉 → 米勒—莱尔错觉
 - **multiplicity**（行 4086，现译“杂多”）｜ FLAG ｜ 现译“杂多”与 manifold (Kantian) 行（行 3689）撞形；德勒兹 multiplicity 通行“繁复性／多样性”，须分行区分
-- **mutation-selection balance**（行 4106，现译“突变-选择平衡”）｜ FIX ｜ 连接号按 ADR-0041 一字线：突变-选择平衡 → 突变—选择平衡
+- **nacherleben**（行 4128，现译“再体验（nacherleben；狄尔泰）”）｜ FLAG ｜ 主译撞形：“再体验”同时对应 re-experiencing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **nafs al-ʾamr**（行 4129，现译“事情本身（字面义；技术义指事物自在之所是；与 die Sache selbst 行同形异源，勿混）”）｜ FLAG ｜ 主译撞形：“事情本身”同时对应 Sache selbst；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **naimittikī**（行 4130，现译“自然种类词”）｜ FLAG ｜ 现译“自然种类词”存疑：弥曼差语境 naimittika 通常指约定／偶成（与 svabhāva 自性相对），与“自然种类”义相反；须回原典核对
+- **nairātmya**（行 4131，现译“无我”）｜ FLAG ｜ 主译撞形：“无我”同时对应 anātman；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **natural law**（行 4159，现译“自然法”）｜ FLAG ｜ 主译撞形：“自然法”同时对应 laws of nature；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **natural right / Natural Rights**（行 4168，现译“自然权利（亦作“天赋人权”）”）｜ FLAG ｜ 主译撞形：“自然权利”同时对应 right of nature；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **necessary being**（行 4182，现译“必然存在者”）｜ FLAG ｜ 主译撞形：“必然存在者”同时对应 wājib al-wujūd；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **necromancy / geomancy / divination**（行 4189，现译“死灵术／地占术／占卜”）｜ FLAG ｜ geomancy 两行译法不一：本行“地占术”vs 行 2523“土占术”；须统一（通行“地占术”）
+- **Needham problem**（行 4191，现译“李约瑟问题”）｜ FLAG ｜ 原文列误填中文“李约瑟问题”，应填英文原词 Needham problem；数据缺陷正列（与 correlative cosmology 同族）
+- **neighborhood function**（行 4204，现译“邻域函数”）｜ FLAG ｜ 主译撞形：“邻域函数”同时对应 neighborhood functions；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **neighborhood functions**（行 4205，现译“邻域函数”）｜ FLAG ｜ 与 neighborhood function 行（行 4204）单复数两行同译“邻域函数”，须合键（neighbourhood semantics 英拼系源词异拼，登记即可）
+- **nepantla**（行 4222，现译“保留原文（纳瓦特尔语“之间”）”）｜ FLAG ｜ 主译撞形：“保留原文”同时对应 apretado、relajiento、relajo、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **niche**（行 4239，现译“龛”）｜ FLAG ｜ 生态学通行“生态位”，cancer 语境 tumor niche 通行“肿瘤龛／生态位”；现译“龛”须查证裁定
+- **nirvikalpaka**（行 4253，现译“无分别（现量）”）｜ FLAG ｜ 与 niṣprakāraka 行（行 4254，注同义）两转写异词同译“无分别”；须合键或分行设计核对（因明两词义有细微别）
+- **niṣprakāraka**（行 4254，现译“无分别（同义）”）｜ FLAG ｜ 同 nirvikalpaka 行族问题（同义两行），须合键或分行设计核对
+- **niyata**（行 4255，现译“恒常（恒常伴随）”）｜ FLAG ｜ 主译撞形：“恒常”同时对应 permanence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **nomos**（行 4279，现译“约定（亦作“习俗”）”）｜ FLAG ｜ 主译撞形：“约定”同时对应 saṅketa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
