@@ -34,5 +34,47 @@ class TestEntryBase(unittest.TestCase):
             "https://plato.stanford.edu/archives/spr2017/entries/pineal-gland/")
 
 
+class TestJournalLock(unittest.TestCase):
+    """钉前移须落 journal lock 事件（ADR-0068 W1 事件族；2026-11-21 形式化审视补缺）。"""
+
+    def test_main_sha_of(self):
+        from tools.fetch_entry import _main_sha_of
+        self.assertIsNone(_main_sha_of([]))
+        self.assertIsNone(_main_sha_of(None))
+        self.assertIsNone(_main_sha_of([{"sha256": "a", "kind": "notes"}]))
+        self.assertEqual(_main_sha_of([{"sha256": "a", "kind": "notes"},
+                                       {"sha256": "b", "kind": "main"}]), "b")
+
+    def test_lock_event_written_and_idempotent(self):
+        import tempfile
+        from tools import journal_lib
+        from tools.fetch_entry import _journal_lock
+        rec = {"fetched_at": "2026-11-21T00:00:00Z",
+               "pubinfo": {"first_published": "Feb 8, 2006",
+                           "substantive_revision": "Nov 20, 2026"},
+               "source_url": "https://plato.stanford.edu/entries/x/"}
+        with tempfile.TemporaryDirectory() as td:
+            journal_lib.JOURNAL_DIR = td
+            try:
+                ev = _journal_lock("x", None, "shaA", rec)
+                self.assertIsNotNone(ev)
+                self.assertEqual(ev["type"], "lock")
+                self.assertEqual(ev["sha256"], "shaA")
+                self.assertEqual(ev["seq"], 1)
+                self.assertEqual(ev["actor"], "fetch_entry")
+                self.assertEqual(ev["pubinfo_date"], "Nov 20, 2026")
+                # 幂等：sha 相同不落（重抓同内容零事件）
+                self.assertIsNone(_journal_lock("x", "shaA", "shaA", rec))
+                self.assertEqual(len(journal_lib.read_events("x")), 1)
+                # sha 再变更 → 新事件，seq 递增
+                _journal_lock("x", "shaA", "shaB", rec)
+                events = journal_lib.read_events("x")
+                self.assertEqual(len(events), 2)
+                self.assertEqual(events[-1]["seq"], 2)
+                self.assertEqual(events[-1]["sha256"], "shaB")
+            finally:
+                journal_lib.JOURNAL_DIR = None
+
+
 if __name__ == "__main__":
     unittest.main()

@@ -185,20 +185,42 @@ def fetch_one(slug, force, archive_edition=None):
     return rec
 
 
+def _main_sha_of(files):
+    """files[] 中 kind=main 的 sha256；无则 None。"""
+    return next((f["sha256"] for f in (files or []) if f.get("kind") == "main"), None)
+
+
+def _journal_lock(slug, old_main_sha, new_main_sha, rec):
+    """主钉字节事实变更时落 journal lock 事件（ADR-0068 W1 事件族）；
+    幂等：sha 相同（含重抓同内容）不落。"""
+    if old_main_sha == new_main_sha:
+        return None
+    from tools.journal_lib import append_event
+    return append_event(slug, {
+        "type": "lock", "at": rec.get("fetched_at"), "actor": "fetch_entry",
+        "sha256": new_main_sha,
+        "pubinfo_date": (rec.get("pubinfo") or {}).get("substantive_revision"),
+        "source_url": rec.get("source_url")})
+
+
 def upsert_baseline(rec):
     from tools.common import BASELINE_LOCK
     path = repo_path("baseline", "entries.json")
+    old_main_sha = None
     with BASELINE_LOCK:
         if os.path.exists(path):
             base = load_json(path)
         else:
             base = {"schema": "sep-cn-baseline/1", "entries": []}
+        old_main_sha = _main_sha_of(next(
+            (e for e in base["entries"] if e["slug"] == rec["slug"]), {}).get("files"))
         entries = [e for e in base["entries"] if e["slug"] != rec["slug"]]
         entries.append(rec)
         entries.sort(key=lambda e: e["slug"])
         base["entries"] = entries
         base["updated_at"] = utcnow_iso()
         write_json_verified(path, base)
+    _journal_lock(rec["slug"], old_main_sha, _main_sha_of(rec.get("files")), rec)
 
 
 def main(argv=None):

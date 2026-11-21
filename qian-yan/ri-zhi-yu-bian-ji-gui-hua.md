@@ -346,3 +346,9 @@
 * **workflow 名 emoji 清零**：八个 workflows 全部纯文字（catalog-drift 上一轮已改；本轮 checks/Auto-Assign/links/create-pdf/en-roundtrip/render-artifact-audit/format 七个；sed 对四字节 emoji 失败，改用 Python 按 Unicode 码点替换）。
 * **PROGRESS 刷新**：journal 派生读数（正式词条 1873、已建任务 1199、账外 674）。
 * **未动项**：两条重译仍待用户派工（上轮边界“不进行实际翻译”继续有效）；specs/008、specs/053、assembly-patches 仍为其他会话工作面。
+
+## 2026-11-21 形式化完备性证明（issue #51 类处置线，用户指令“进行形式化完备性证明”）
+
+* **落档**：`specs/054-catalog-network-replay/results/formal-proof-update-line.md`——续 044/053 家法（A/T 编号顺延，T9–T12）：T9 B 系列触发判定（挂载集交集空＋机检定义域覆盖＋三道显形面＋残差边界）、T10 变动标记完备性（九类变动→存储账→判官映射，“变动未记账即红灯”逐行构造）、T11 检测完备性（四路检测＋漏报面如实列出）、T12 流程保证（前置校验/机检/CI 终审/append-only 审计四层串联）。四问逐一对应定理，附可复算实证数据点。
+* **证明期发现与处置（形式化的直接收益）**：journal lock 事件 schema 已定义但 fetch_entry 钉前移未落事件——T10 第 1 行审计缺口。补实现（upsert_baseline 尾部 _journal_lock，sha 同幂等不落）＋单测 2 项（test_fetch_entry 6/6 绿），三账（entries.json/upstream-snapshots/journal）齐备。
+* **验证**：check_all 17 项全绿（含管线单测）；提交推送后 CI 终审。
