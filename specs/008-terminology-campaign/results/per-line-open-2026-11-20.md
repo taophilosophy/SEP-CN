@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 4976，FLAG 727，FIX 39，MERGE 27
+判定分布：KEEP 5163，FLAG 726，FIX 39，MERGE 30
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -759,14 +759,16 @@
 - **transcendence (Jaspers)**（行 6665，现译「超越者」）｜ FLAG ｜ 主译撞形：“超越者”同时对应 transcendentals；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **transcendentals**（行 6679，现译「超越者」）｜ FLAG ｜ 与 transcendence (Jaspers) 行（行 6665）同译“超越者”撞形：雅斯贝尔斯 Transzendenz 作“超越者”，经院 transcendentalia（ens/aliquid/res 等）通行“超越者”亦作“超越属性”；建议本行作“超越属性（transcendentalia）”，与 transcendental term 行“超越词项”同族对齐
 - **Treasure of Reasoning（Tshad ma rigs gter）**（行 6700，现译「《量理宝藏》」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
-- **true class**（行 6720，现译「真类」）｜ FLAG ｜ 主译撞形：“真类”同时对应 proper class；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **true class**（行 6720，现译「真类」）｜ MERGE ｜ 登记自注“学界通行（proper class）”，与 proper class 行（行 5086，真类）同义同译；按登记意图并入 proper class 行，不另立键
 - **truth-bearer**（行 6735，现译「真值承担者」）｜ FLAG ｜ 主译撞形：“真值承担者”同时对应 bearer of truth values；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Truthlikeness**（行 6743，现译「似真性（亦作“逼真性”）」）｜ FLAG ｜ 亦作“逼真性”与 verisimilitude 的主译撞形；删该亦作或改主译
+- **truthmaker theory**（行 6744，现译「真值制造理论」）｜ FLAG ｜ 族内两形并存：truth-maker 行（行 6741）“真值制造者”、truthmaker theory 行“真值制造理论”为一系，truthmakers 行（行 6745，词汇表并网）“使真者”为另一系；须统一（建议全族取“使真者／使真者理论”，与 truth-bearer 真值承担者风貌相协）
 - **ultimate reality**（行 6790，现译「终极实在」）｜ FLAG ｜ 主译撞形：“终极实在”同时对应 ḥaqīqa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Uniformity**（行 6828，现译「齐一性」）｜ FLAG ｜ 主译撞形：“齐一性”同时对应 homogeneity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **units of selection**（行 6838，现译「选择的单位」）｜ MERGE ｜ 与 unit of selection 行（行 6832，审定库“选择单位”）同概念仅单复数之别、译法不一（选择的单位）；并入 unit of selection 行并统一“选择单位”
 - **universal / universals**（行 6842，现译「共相（中世纪-黑格尔传统）」）｜ FLAG ｜ 主译撞形：“共相”同时对应 general characteristic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **universal gravitation**（行 6851，现译「万有引力」）｜ FLAG ｜ 主译撞形：“万有引力”同时对应 universal gravity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **universal gravity**（行 6852，现译「万有引力」）｜ FLAG ｜ 主译撞形：“万有引力”同时对应 universal gravitation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **universal gravity**（行 6852，现译「万有引力」）｜ MERGE ｜ 与 universal gravitation 行（行 6851）同指牛顿万有引力、同译“万有引力”（gravity／gravitation 两形）；并入 universal gravitation 行
 - **universitas**（行 6868，现译「拉丁原文保留」）｜ FLAG ｜ 主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、respublica、sine qua non、societas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **upādhi**（行 6878，现译「假立（名义属性）」）｜ FLAG ｜ 主译撞形：“假立”同时对应 prajñapti；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **urelemente**（行 6886，现译「本元（亦作“原子”）」）｜ FLAG ｜ 亦作“原子”与 atom (of a Boolean algebra) 的主译撞形；删该亦作或改主译

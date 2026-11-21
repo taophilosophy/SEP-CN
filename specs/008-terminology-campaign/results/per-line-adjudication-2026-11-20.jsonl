@@ -5729,17 +5729,206 @@
 {"key": "triggering cause / structural cause", "line": 6706, "v": "KEEP", "zh": "触发原因／结构原因", "orig": "—", "note": null, "sheet": "r28"}
 {"key": "Triṃśikā", "line": 6707, "v": "KEEP", "zh": "《唯识三十颂》", "orig": "त्रिंशिका", "note": null, "sheet": "r28"}
 {"key": "Trinity", "line": 6708, "v": "KEEP", "zh": "三位一体", "orig": "—", "note": null, "sheet": "r28"}
-{"key": "true class", "line": 6720, "v": "FLAG", "zh": "真类", "orig": "—", "note": "主译撞形：“真类”同时对应 proper class；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "truth-bearer", "line": 6735, "v": "FLAG", "zh": "真值承担者", "orig": "—", "note": "主译撞形：“真值承担者”同时对应 bearer of truth values；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Truthlikeness", "line": 6743, "v": "FLAG", "zh": "似真性（亦作“逼真性”）", "orig": "—", "note": "亦作“逼真性”与 verisimilitude 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
-{"key": "ultimate reality", "line": 6790, "v": "FLAG", "zh": "终极实在", "orig": "—", "note": "主译撞形：“终极实在”同时对应 ḥaqīqa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Uniformity", "line": 6828, "v": "FLAG", "zh": "齐一性", "orig": "—", "note": "主译撞形：“齐一性”同时对应 homogeneity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "universal / universals", "line": 6842, "v": "FLAG", "zh": "共相（中世纪-黑格尔传统）", "orig": "—", "note": "主译撞形：“共相”同时对应 general characteristic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "universal gravitation", "line": 6851, "v": "FLAG", "zh": "万有引力", "orig": "—", "note": "主译撞形：“万有引力”同时对应 universal gravity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "universal gravity", "line": 6852, "v": "FLAG", "zh": "万有引力", "orig": "—", "note": "主译撞形：“万有引力”同时对应 universal gravitation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "universitas", "line": 6868, "v": "FLAG", "zh": "拉丁原文保留", "orig": "universitas", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、respublica、sine qua non、societas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "upādhi", "line": 6878, "v": "FLAG", "zh": "假立（名义属性）", "orig": "उपाधि", "note": "主译撞形：“假立”同时对应 prajñapti；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "urelemente", "line": 6886, "v": "FLAG", "zh": "本元（亦作“原子”）", "orig": "—", "note": "亦作“原子”与 atom (of a Boolean algebra) 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
+{"key": "Trinity College (Cambridge)", "line": 6709, "v": "KEEP", "zh": "三一学院", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "tripartite analysis of knowledge", "line": 6710, "v": "KEEP", "zh": "知识的三元分析", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Tripod", "line": 6711, "v": "KEEP", "zh": "《三脚架》", "orig": "Τρίπους", "note": null, "sheet": "r29"}
+{"key": "trisvabhāva", "line": 6712, "v": "KEEP", "zh": "三性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Trisvabhāvanirdeśa", "line": 6713, "v": "KEEP", "zh": "《三自性论》", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "tritheism", "line": 6714, "v": "KEEP", "zh": "三神论", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Trolley Problem", "line": 6715, "v": "KEEP", "zh": "电车难题", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "trope / tropes", "line": 6716, "v": "KEEP", "zh": "特普", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "trophectoderm", "line": 6717, "v": "KEEP", "zh": "滋养外胚层", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "trophoblast", "line": 6718, "v": "KEEP", "zh": "滋养层", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Trotskyism", "line": 6719, "v": "KEEP", "zh": "托洛茨基主义", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "true class", "line": 6720, "v": "MERGE", "zh": "真类", "orig": "—", "note": "登记自注“学界通行（proper class）”，与 proper class 行（行 5086，真类）同义同译；按登记意图并入 proper class 行，不另立键", "sheet": "r29"}
+{"key": "true physics", "line": 6721, "v": "KEEP", "zh": "真正的物理学", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "true sentence", "line": 6722, "v": "KEEP", "zh": "真语句", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "trust", "line": 6723, "v": "KEEP", "zh": "信任", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Truth", "line": 6724, "v": "KEEP", "zh": "真理", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Truth and Method", "line": 6725, "v": "KEEP", "zh": "《真理与方法》（伽达默尔）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth candidate", "line": 6726, "v": "KEEP", "zh": "真理候选者", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth condition / truth conditions", "line": 6727, "v": "KEEP", "zh": "真值条件", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth conducive", "line": 6728, "v": "KEEP", "zh": "导向真理的（亦作“真理导向的”）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth content", "line": 6729, "v": "KEEP", "zh": "真理内容", "orig": "Wahrheitsgehalt", "note": null, "sheet": "r29"}
+{"key": "truth definition / truth definitions", "line": 6730, "v": "KEEP", "zh": "真之定义（亦作“真理定义”）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth function", "line": 6731, "v": "KEEP", "zh": "真值函数", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth in a model", "line": 6732, "v": "KEEP", "zh": "模型中的真", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth predicate", "line": 6733, "v": "KEEP", "zh": "真谓词", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth value / truth values", "line": 6734, "v": "KEEP", "zh": "真值（亦作“真假值”）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth-bearer", "line": 6735, "v": "FLAG", "zh": "真值承担者", "orig": "—", "note": "主译撞形：“真值承担者”同时对应 bearer of truth values；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r29"}
+{"key": "truth-completeness", "line": 6736, "v": "KEEP", "zh": "真值完全性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth-constant", "line": 6737, "v": "KEEP", "zh": "真常项", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth-determination", "line": 6738, "v": "KEEP", "zh": "真理判定", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth-functional", "line": 6739, "v": "KEEP", "zh": "真值函项的", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth-functionality", "line": 6740, "v": "KEEP", "zh": "真值函项性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth-maker", "line": 6741, "v": "KEEP", "zh": "真值制造者（亦作“真理制造者”）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "truth-tracking properties", "line": 6742, "v": "KEEP", "zh": "求真性质（亦作“追踪真理”）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Truthlikeness", "line": 6743, "v": "FLAG", "zh": "似真性（亦作“逼真性”）", "orig": "—", "note": "亦作“逼真性”与 verisimilitude 的主译撞形；删该亦作或改主译", "sheet": "r29"}
+{"key": "truthmaker theory", "line": 6744, "v": "FLAG", "zh": "真值制造理论", "orig": "—", "note": "族内两形并存：truth-maker 行（行 6741）“真值制造者”、truthmaker theory 行“真值制造理论”为一系，truthmakers 行（行 6745，词汇表并网）“使真者”为另一系；须统一（建议全族取“使真者／使真者理论”，与 truth-bearer 真值承担者风貌相协）", "sheet": "r29"}
+{"key": "truthmakers", "line": 6745, "v": "KEEP", "zh": "使真者", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "tryaṇuka", "line": 6746, "v": "KEEP", "zh": "三微", "orig": "त्र्यणुक", "note": null, "sheet": "r29"}
+{"key": "tuistic / non-tuistic", "line": 6747, "v": "KEEP", "zh": "利他的／非利他的", "orig": "tuism", "note": null, "sheet": "r29"}
+{"key": "tulyatva", "line": 6748, "v": "KEEP", "zh": "等同", "orig": "तुल्यत्व", "note": null, "sheet": "r29"}
+{"key": "tumor microenvironment", "line": 6749, "v": "KEEP", "zh": "肿瘤微环境", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "tumor organismal environment", "line": 6750, "v": "KEEP", "zh": "肿瘤机体环境", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "tumor suppressor", "line": 6751, "v": "KEEP", "zh": "抑癌基因", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "tumorigenicity", "line": 6752, "v": "KEEP", "zh": "致瘤性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "tuphos", "line": 6753, "v": "KEEP", "zh": "虚妄", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Turing machines", "line": 6754, "v": "KEEP", "zh": "图灵机", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Turing reducibility", "line": 6755, "v": "KEEP", "zh": "图灵归约", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Turing test", "line": 6756, "v": "KEEP", "zh": "图灵测试", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Tusculan Disputations", "line": 6757, "v": "KEEP", "zh": "《图斯库鲁姆论辩集》", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Twin Earth", "line": 6758, "v": "KEEP", "zh": "孪生地球", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "two truths", "line": 6759, "v": "KEEP", "zh": "二谛（佛教；犹太哲学语境亦作“两种真理”）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Two Visual Systems Model", "line": 6760, "v": "KEEP", "zh": "双视觉系统模型", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Two-Dimensional", "line": 6761, "v": "KEEP", "zh": "二维", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "two-dimensional semantics", "line": 6762, "v": "KEEP", "zh": "二维语义学", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "two-layer structure", "line": 6763, "v": "KEEP", "zh": "双层结构", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "two-term dependent sum", "line": 6764, "v": "KEEP", "zh": "二项依赖和", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Tychonoff theorem", "line": 6765, "v": "KEEP", "zh": "吉洪诺夫定理", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "type", "line": 6766, "v": "KEEP", "zh": "类型", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "type exponentiation", "line": 6767, "v": "KEEP", "zh": "类型指数运算", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "type I error", "line": 6768, "v": "KEEP", "zh": "第一类错误", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "type II error", "line": 6769, "v": "KEEP", "zh": "第二类错误", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Type Theory", "line": 6770, "v": "KEEP", "zh": "类型论", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "type-form", "line": 6771, "v": "KEEP", "zh": "类型形式", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "typed logic", "line": 6772, "v": "KEEP", "zh": "类型化逻辑", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "typical ambiguity", "line": 6773, "v": "KEEP", "zh": "典型歧义", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "typology", "line": 6774, "v": "KEEP", "zh": "预表论（type 预表；antitype 所预表者）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "T’ong Pulgyo", "line": 6775, "v": "KEEP", "zh": "统一佛教", "orig": "통불교", "note": null, "sheet": "r29"}
+{"key": "U.S. Coast Survey", "line": 6781, "v": "KEEP", "zh": "美国海岸测量局", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Überlieferung", "line": 6782, "v": "KEEP", "zh": "传承（伽达默尔语境）", "orig": "Überlieferung", "note": null, "sheet": "r29"}
+{"key": "ubhayābhāva", "line": 6783, "v": "KEEP", "zh": "二者皆无（双无非存在）", "orig": "उभयाभाव", "note": null, "sheet": "r29"}
+{"key": "ubiquity", "line": 6784, "v": "KEEP", "zh": "遍在性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Udasi", "line": 6785, "v": "KEEP", "zh": "乌达西派", "orig": "Udāsī", "note": null, "sheet": "r29"}
+{"key": "uddeśa", "line": 6786, "v": "KEEP", "zh": "列举", "orig": "उद्देश", "note": null, "sheet": "r29"}
+{"key": "udvāpa", "line": 6787, "v": "KEEP", "zh": "摒除", "orig": "उद्वाप", "note": null, "sheet": "r29"}
+{"key": "ultimate control", "line": 6788, "v": "KEEP", "zh": "终极控制", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "ultimate felicity", "line": 6789, "v": "KEEP", "zh": "终极幸福", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "ultimate reality", "line": 6790, "v": "FLAG", "zh": "终极实在", "orig": "—", "note": "主译撞形：“终极实在”同时对应 ḥaqīqa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r29"}
+{"key": "ultimatum game", "line": 6791, "v": "KEEP", "zh": "最后通牒博弈（亦作“最后通牒游戏”）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "ultimism", "line": 6792, "v": "KEEP", "zh": "终极主义", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Ultimum", "line": 6793, "v": "KEEP", "zh": "终极（Ultimum）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "ultra-intuitionism", "line": 6794, "v": "KEEP", "zh": "超直觉主义", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "ultrafilter", "line": 6795, "v": "KEEP", "zh": "超滤子", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "ulūhiyya / ilāhiyya", "line": 6796, "v": "KEEP", "zh": "神性", "orig": "ألوهية / إلهية", "note": null, "sheet": "r29"}
+{"key": "umbrella view", "line": 6797, "v": "KEEP", "zh": "伞状观", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unanimity preservation", "line": 6798, "v": "KEEP", "zh": "全体一致保持", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unavailability pessimism", "line": 6799, "v": "KEEP", "zh": "不可得悲观论", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unbiasedness", "line": 6800, "v": "KEEP", "zh": "无偏性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unbounded iteration", "line": 6801, "v": "KEEP", "zh": "无界迭代", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "uncertainty", "line": 6802, "v": "KEEP", "zh": "不确定性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "uncertainty relation", "line": 6803, "v": "KEEP", "zh": "不确定性关系", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unconcealment", "line": 6804, "v": "KEEP", "zh": "无蔽", "orig": "Unverborgenheit", "note": null, "sheet": "r29"}
+{"key": "unconditional competence", "line": 6805, "v": "KEEP", "zh": "无条件胜任度", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unconditional independence", "line": 6806, "v": "KEEP", "zh": "无条件独立", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unconditional probabilities", "line": 6807, "v": "KEEP", "zh": "无条件概率", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unconditional security", "line": 6808, "v": "KEEP", "zh": "无条件安全", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "uncosmopolitan", "line": 6809, "v": "KEEP", "zh": "非世界主义（的）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Unde malum?", "line": 6810, "v": "KEEP", "zh": "恶从何来？", "orig": "unde malum?", "note": null, "sheet": "r29"}
+{"key": "undecidability", "line": 6811, "v": "KEEP", "zh": "不可判定性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "undefinability", "line": 6812, "v": "KEEP", "zh": "不可定义性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "underdetermination", "line": 6813, "v": "KEEP", "zh": "不完全决定（亦作“非充分决定性”“不充分决定性”）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "underlying situation (Tatbestand)", "line": 6814, "v": "KEEP", "zh": "底层事况", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "underpervades", "line": 6815, "v": "KEEP", "zh": "周遍不足", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "understanding", "line": 6816, "v": "KEEP", "zh": "知性（康德 Verstand；日常语境译“理解”）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "understanding (faculty)", "line": 6817, "v": "KEEP", "zh": "理智", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "undo the done", "line": 6818, "v": "KEEP", "zh": "取消已成之事（亦作“使已成之事未成”）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "undue inducement", "line": 6819, "v": "KEEP", "zh": "不当诱导", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unfairness", "line": 6820, "v": "KEEP", "zh": "不公", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unfused union (asynchytos henōsis)", "line": 6821, "v": "KEEP", "zh": "不融合的联合", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unicity", "line": 6822, "v": "KEEP", "zh": "独一性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unidimensionally aligned", "line": 6823, "v": "KEEP", "zh": "单维对齐（的）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unification", "line": 6824, "v": "KEEP", "zh": "统一", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unificationist account", "line": 6825, "v": "KEEP", "zh": "统一论说明", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unified theory of punishment", "line": 6826, "v": "KEEP", "zh": "惩罚统一论", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "uniformitarianism", "line": 6827, "v": "KEEP", "zh": "均变论", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Uniformity", "line": 6828, "v": "FLAG", "zh": "齐一性", "orig": "—", "note": "主译撞形：“齐一性”同时对应 homogeneity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r29"}
+{"key": "uninorm", "line": 6829, "v": "KEEP", "zh": "uninorm", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "uninstantiated", "line": 6830, "v": "KEEP", "zh": "未被实例化", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Uniqueness", "line": 6831, "v": "KEEP", "zh": "唯一性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unit of selection", "line": 6832, "v": "KEEP", "zh": "选择单位", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Unitarianism", "line": 6833, "v": "KEEP", "zh": "一位论（亦作“唯一神论”；勿与 monotheism 一神论相混）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unitary", "line": 6834, "v": "KEEP", "zh": "幺正的", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unitary complex (Einheitskomplex)", "line": 6835, "v": "KEEP", "zh": "统一的复合体", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unitary evolution", "line": 6836, "v": "KEEP", "zh": "幺正演化", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "united front", "line": 6837, "v": "KEEP", "zh": "统一战线", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "units of selection", "line": 6838, "v": "MERGE", "zh": "选择的单位", "orig": "—", "note": "与 unit of selection 行（行 6832，审定库“选择单位”）同概念仅单复数之别、译法不一（选择的单位）；并入 unit of selection 行并统一“选择单位”", "sheet": "r29"}
+{"key": "unity of intellect", "line": 6839, "v": "KEEP", "zh": "理智统一性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unity of opposites", "line": 6840, "v": "KEEP", "zh": "对立统一（亦作“对立面的统一”）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Unity of Science", "line": 6841, "v": "KEEP", "zh": "统一科学（亦作“科学的统一性”）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal / universals", "line": 6842, "v": "FLAG", "zh": "共相（中世纪-黑格尔传统）", "orig": "—", "note": "主译撞形：“共相”同时对应 general characteristic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r29"}
+{"key": "universal affirmative predication", "line": 6843, "v": "KEEP", "zh": "全称肯定谓述", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal benevolence", "line": 6844, "v": "KEEP", "zh": "普遍仁爱", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal characteristic", "line": 6845, "v": "KEEP", "zh": "普遍文字", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal closure", "line": 6846, "v": "KEEP", "zh": "全称闭包", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Universal Declaration of Human Rights", "line": 6847, "v": "KEEP", "zh": "《世界人权宣言》", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal domain", "line": 6848, "v": "KEEP", "zh": "普遍域", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal flux", "line": 6849, "v": "KEEP", "zh": "普遍流变", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Universal Grammar", "line": 6850, "v": "KEEP", "zh": "普遍语法", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal gravitation", "line": 6851, "v": "FLAG", "zh": "万有引力", "orig": "—", "note": "主译撞形：“万有引力”同时对应 universal gravity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r29"}
+{"key": "universal gravity", "line": 6852, "v": "MERGE", "zh": "万有引力", "orig": "—", "note": "与 universal gravitation 行（行 6851）同指牛顿万有引力、同译“万有引力”（gravity／gravitation 两形）；并入 universal gravitation 行", "sheet": "r29"}
+{"key": "universal hylomorphism", "line": 6853, "v": "KEEP", "zh": "普遍的形质论", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal Leibniz language", "line": 6854, "v": "KEEP", "zh": "普遍莱布尼茨语言", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal modality", "line": 6855, "v": "KEEP", "zh": "全称模态", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal proposition", "line": 6856, "v": "KEEP", "zh": "全称命题", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal quantification", "line": 6857, "v": "KEEP", "zh": "全称量化", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal quantifier", "line": 6858, "v": "KEEP", "zh": "全称量词", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal relation", "line": 6859, "v": "KEEP", "zh": "普适关系", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal suspension", "line": 6860, "v": "KEEP", "zh": "普遍悬置", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal time", "line": 6861, "v": "KEEP", "zh": "普适时间", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal validity", "line": 6862, "v": "KEEP", "zh": "普遍有效性", "orig": "allgemeingültig", "note": null, "sheet": "r29"}
+{"key": "universal wave function", "line": 6863, "v": "KEEP", "zh": "普遍波函数", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universal-man", "line": 6864, "v": "KEEP", "zh": "共相之人", "orig": "homo communis / homo universalis", "note": null, "sheet": "r29"}
+{"key": "universalism", "line": 6865, "v": "KEEP", "zh": "普遍主义", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universality", "line": 6866, "v": "KEEP", "zh": "普遍性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universalizability", "line": 6867, "v": "KEEP", "zh": "可普遍化", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "universitas", "line": 6868, "v": "FLAG", "zh": "拉丁原文保留", "orig": "universitas", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、respublica、sine qua non、societas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r29"}
+{"key": "univocal", "line": 6869, "v": "KEEP", "zh": "单义的", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "univocity", "line": 6870, "v": "KEEP", "zh": "单义性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "univocity of the concept of being", "line": 6871, "v": "KEEP", "zh": "存在概念的单义性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Unjigi", "line": 6872, "v": "KEEP", "zh": "《吽字义》", "orig": "吽字義", "note": null, "sheet": "r29"}
+{"key": "unknown correlations", "line": 6873, "v": "KEEP", "zh": "未知相关性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unspecific", "line": 6874, "v": "KEEP", "zh": "不具体的", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unum per accidens", "line": 6875, "v": "KEEP", "zh": "偶性统一", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unusability pessimism", "line": 6876, "v": "KEEP", "zh": "不可用悲观论", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "unwritten doctrines", "line": 6877, "v": "KEEP", "zh": "口传学说（亦作“不成文学说”）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "upādhi", "line": 6878, "v": "FLAG", "zh": "假立（名义属性）", "orig": "उपाधि", "note": "主译撞形：“假立”同时对应 prajñapti；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r29"}
+{"key": "upalabdhi", "line": 6879, "v": "KEEP", "zh": "领受", "orig": "उपलब्धि", "note": null, "sheet": "r29"}
+{"key": "upamāna", "line": 6880, "v": "KEEP", "zh": "譬喻量", "orig": "उपमान", "note": null, "sheet": "r29"}
+{"key": "Upaniṣad", "line": 6881, "v": "KEEP", "zh": "《奥义书》", "orig": "उपनिषद्", "note": null, "sheet": "r29"}
+{"key": "update semantics", "line": 6882, "v": "KEEP", "zh": "更新语义", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "upper ontology", "line": 6883, "v": "KEEP", "zh": "上层本体论", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "upright walk", "line": 6884, "v": "KEEP", "zh": "直立行走", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "urbanism", "line": 6885, "v": "KEEP", "zh": "城市主义", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "urelemente", "line": 6886, "v": "FLAG", "zh": "本元（亦作“原子”）", "orig": "—", "note": "亦作“原子”与 atom (of a Boolean algebra) 的主译撞形；删该亦作或改主译", "sheet": "r29"}
+{"key": "Urim and Tumim", "line": 6887, "v": "KEEP", "zh": "乌陵与土明", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Urphänomen", "line": 6888, "v": "KEEP", "zh": "原初现象", "orig": "Urphänomen", "note": null, "sheet": "r29"}
+{"key": "Urtheilung", "line": 6889, "v": "KEEP", "zh": "原初划分", "orig": "Urtheil 或 Urtheilung", "note": null, "sheet": "r29"}
+{"key": "usage-based", "line": 6890, "v": "KEEP", "zh": "基于用法", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "usury", "line": 6891, "v": "KEEP", "zh": "高利贷", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "utilitarianism", "line": 6892, "v": "KEEP", "zh": "功利主义", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "utility", "line": 6893, "v": "KEEP", "zh": "效用", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "utility function", "line": 6894, "v": "KEEP", "zh": "效用函数", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "utility maximization", "line": 6895, "v": "KEEP", "zh": "效用最大化", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "utility scale", "line": 6896, "v": "KEEP", "zh": "效用尺度", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "utility theory", "line": 6897, "v": "KEEP", "zh": "效用理论", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "utopia", "line": 6898, "v": "KEEP", "zh": "乌托邦", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "utopian function", "line": 6899, "v": "KEEP", "zh": "乌托邦功能", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "utopian hermeneutics", "line": 6900, "v": "KEEP", "zh": "乌托邦诠释学", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "utopian socialism", "line": 6901, "v": "KEEP", "zh": "空想社会主义", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "utopianism", "line": 6902, "v": "KEEP", "zh": "乌托邦思想", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Uttaratantra", "line": 6903, "v": "KEEP", "zh": "《究竟一乘宝性论》（简称《宝性论》）", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Vādanyāya", "line": 6909, "v": "KEEP", "zh": "《诤理论》", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "vague predicate", "line": 6910, "v": "KEEP", "zh": "模糊谓词", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "vagueness", "line": 6911, "v": "KEEP", "zh": "模糊性", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "Vaibhāṣika", "line": 6912, "v": "KEEP", "zh": "毗婆沙宗", "orig": "वैभाषिक", "note": null, "sheet": "r29"}
+{"key": "vainglory", "line": 6913, "v": "KEEP", "zh": "虚荣", "orig": "—", "note": null, "sheet": "r29"}
+{"key": "vaiśeṣika", "line": 6914, "v": "KEEP", "zh": "胜论派", "orig": "वैशेषिक", "note": null, "sheet": "r29"}
+{"key": "Vaiśeṣika-sūtra", "line": 6915, "v": "KEEP", "zh": "《胜论经》", "orig": "वैशेषिकसूत्र", "note": null, "sheet": "r29"}
+{"key": "vajra", "line": 6916, "v": "KEEP", "zh": "金刚（杵）", "orig": "金剛杵", "note": null, "sheet": "r29"}
+{"key": "Vajrasattva / Kongō-satta", "line": 6917, "v": "KEEP", "zh": "金刚萨埵", "orig": "金剛薩埵", "note": null, "sheet": "r29"}
+{"key": "vākya", "line": 6918, "v": "KEEP", "zh": "句", "orig": "वाक्य", "note": null, "sheet": "r29"}
 {"key": "Validation", "line": 6921, "v": "FLAG", "zh": "确证", "orig": "—", "note": "主译撞形：“确证”同时对应 corroboration；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "vega", "line": 6945, "v": "FLAG", "zh": "冲力", "orig": "वेग", "note": "主译撞形：“冲力”同时对应 impetus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "verbal object（sgra don，śabdārtha）", "line": 6954, "v": "FLAG", "zh": "声义", "orig": "शब्दार्थ", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
