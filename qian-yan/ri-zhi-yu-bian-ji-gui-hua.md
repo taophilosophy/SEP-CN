@@ -206,3 +206,13 @@
 * **例外 KEEP**：人物条不在库（Butler／Adam Smith／Nozick／Croce／Beardsley／Shaaban Robert）与定理/悖论/问题类（Bell、Skolem、Curry、Fitch、Gödel、Molyneux、囚徒困境、Hilbert 纲领、Arrow）留学科节；`schema`／`practical-reason`／`dualism`／`personalism` 经原文复核确为通题，b1–b11 搬出裁定不变。
 * **门禁**：守恒 1883；check_mulu_s 六项 0 硬错；G1–G4 全绿（mulu-map 重建）；check_all 17 项全绿。
 * **教训**：簇化与移节是两种动作（缩进即归类），应用器须分开（b12 单列批次，b1–b11 覆盖校验排除之）；“属人物”判据只在标题层可机械判定（所有格/中文明示），内容层判据（学派/主义通题）必须回原文。
+
+## 2026-11-22 人名表缺项清偿：GND＋Wikidata 双通道（924 条欠账的可自动化边界）
+
+* **口径**：924 行为“缺籍属或生卒”的存量。GND 规范档全查 924/924（`gnd_person_fetch.py`）；Wikidata 全查 924/924（`wd_person_fetch.py`，wbsearchentities＋wbgetentities，取 P569／P570／P27／P106），另对“Last, First”复合键 141 条以“First Last”回查（`wd_recheck2.py`，等值命中 45）。
+* **判定谓词四级收紧**（`gnd_adjudicate.py`）：词集等值（非包含）→ 泛名闸（去冠词介词后显著词少于 2 判存疑）→ 职业闸（Missionar／Holzbildhauer／Drehbuchautor 等非哲学家职业）→ 仅规范名等值（婚姻名、异体名只判存疑）。收紧由三例同名误并逼出：An Hyang（朝鲜儒者安珦）配到现代编剧；Alan Macdonald 配到 Pritchard, Alan；Kratz／Lekebusch 配到 Gadamer 家属。
+* **判定分布**：GND 接受 10／佐证 22／存疑 492／查无 400；Wikidata 接受 24／佐证 13／存疑 81（其余行非缺项队列或无等值候选）。双源交叉（GND∩WD 同起始年）仅 1 条，单源 32 条。
+* **写回**（`apply_person_debt2.py` → `results/debt-fill-2026-11-22.tsv`，45 项）：生卒 9（双源一致 1＋GND 单源人工白名单 8）、籍属 1（P27 中文国名唯一）、佐证 35（不改值，只在依据列记标目）。缺项 924→922。另将 Wikidata 取回的繁体“法國”改简体 1 处。
+* **门禁**：`person_review_flags.py` 复扫 flagged 0／重复 0；`check_terms` 退出 0；`check_all` 17 项全绿。
+* **结论**：这条欠账**大部分无法由权威库自动清偿**——现代学者多无规范档，古人生卒本就无确证，同名污染又使单源不可直接写回。剩余 922 条只能逐条人工研究（回所属词条原文定人），自动化通道到此为止。
+* **教训**：①同名误并的第一道闸必须是**词集等值**而非包含（Alan 包含于 Pritchard, Alan 即典型漏口）；②泛名闸与职业闸是必要的第二、三道，缺一则存疑池被污染；③单源接受一律走人工白名单并落盘复查，不凭临时判断直接写表。
