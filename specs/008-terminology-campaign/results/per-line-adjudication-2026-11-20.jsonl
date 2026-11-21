@@ -2729,20 +2729,206 @@
 {"key": "majority preservation", "line": 3671, "v": "KEEP", "zh": "多数保持", "orig": "—", "note": null, "sheet": "r13"}
 {"key": "majority rule", "line": 3672, "v": "KEEP", "zh": "多数规则", "orig": "—", "note": null, "sheet": "r13"}
 {"key": "majority voting", "line": 3673, "v": "KEEP", "zh": "多数表决", "orig": "—", "note": null, "sheet": "r13"}
-{"key": "makān", "line": 3674, "v": "FLAG", "zh": "位置", "orig": "مكان", "note": "主译撞形：“位置”同时对应 place (topos)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "manifestation", "line": 3687, "v": "FLAG", "zh": "显现", "orig": "—", "note": "主译撞形：“显现”同时对应 apparentia、to phainomenon；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "manifold (Kantian)", "line": 3689, "v": "FLAG", "zh": "杂多", "orig": "—", "note": "主译撞形：“杂多”同时对应 multiplicity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "manovijñāna", "line": 3693, "v": "FLAG", "zh": "意识", "orig": "मनोविज्ञान", "note": "主译撞形：“意识”同时对应 consciousness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "maqādīr", "line": 3699, "v": "FLAG", "zh": "量（几何对象；与 aʿdād 数相对）", "orig": "مقادیر", "note": "主译撞形：“量”同时对应 quantity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "mark (Merkmal)", "line": 3705, "v": "FLAG", "zh": "标记", "orig": "Merkmal", "note": "主译撞形：“标记”同时对应 marker (DMG)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "marker (DMG)", "line": 3708, "v": "FLAG", "zh": "标记", "orig": "—", "note": "主译撞形：“标记”同时对应 mark (Merkmal)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "master of arts", "line": 3725, "v": "FLAG", "zh": "艺学硕士", "orig": "magister in artibus", "note": "主译撞形：“艺学硕士”同时对应 arts master；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "matter", "line": 3749, "v": "FLAG", "zh": "质料（亚里士多德 hylê 语境；近代物理语境译“物质”）", "orig": "—", "note": "主译撞形：“质料”同时对应 pudgala（耆那教物质义）、stuff；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Māturīdī", "line": 3752, "v": "FLAG", "zh": "马图里迪派", "orig": "ماتريدي", "note": "主译撞形：“马图里迪派”同时对应 Maṭurīdiyya；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Maṭurīdiyya", "line": 3753, "v": "FLAG", "zh": "马图里迪派", "orig": "المَاتُريدِيَّةُ", "note": "主译撞形：“马图里迪派”同时对应 Māturīdī；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "maʿnā", "line": 3763, "v": "FLAG", "zh": "意义", "orig": "معنى", "note": "主译撞形：“意义”同时对应 Bedeutung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "mental episodes（blo）", "line": 3806, "v": "FLAG", "zh": "心识事件（blo）", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "Mexicanness", "line": 3869, "v": "FLAG", "zh": "墨西哥性", "orig": "—", "note": "主译撞形：“墨西哥性”同时对应 lo mexicano；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "makān", "line": 3674, "v": "FLAG", "zh": "位置", "orig": "مكان", "note": "主译撞形：“位置”同时对应 place (topos)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r14"}
+{"key": "maker’s knowledge", "line": 3675, "v": "KEEP", "zh": "制作者知识", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "makoto no shintō", "line": 3676, "v": "KEEP", "zh": "真神道", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "malapropism", "line": 3677, "v": "KEEP", "zh": "词语误用", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "male gaze", "line": 3678, "v": "KEEP", "zh": "男性凝视", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "malware", "line": 3679, "v": "KEEP", "zh": "恶意软件", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Man and the State", "line": 3680, "v": "KEEP", "zh": "《人和国家》（马里坦 1951）", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mañana paradox", "line": 3681, "v": "KEEP", "zh": "明天悖论", "orig": "mañana paradox", "note": null, "sheet": "r14"}
+{"key": "manas", "line": 3682, "v": "KEEP", "zh": "意", "orig": "मनस्", "note": null, "sheet": "r14"}
+{"key": "mandala", "line": 3683, "v": "KEEP", "zh": "曼荼罗", "orig": "曼荼羅", "note": null, "sheet": "r14"}
+{"key": "mandated choice", "line": 3684, "v": "KEEP", "zh": "强制选择", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "manerial supposition", "line": 3685, "v": "KEEP", "zh": "manerial 指代", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Manichaeism", "line": 3686, "v": "KEEP", "zh": "摩尼教", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "manifestation", "line": 3687, "v": "FLAG", "zh": "显现", "orig": "—", "note": "主译撞形：“显现”同时对应 apparentia、to phainomenon；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r14"}
+{"key": "manifold", "line": 3688, "v": "KEEP", "zh": "流形", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "manifold (Kantian)", "line": 3689, "v": "FLAG", "zh": "杂多", "orig": "—", "note": "主译撞形：“杂多”同时对应 multiplicity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r14"}
+{"key": "manifold of events", "line": 3690, "v": "KEEP", "zh": "事件流形", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "manipulated memory", "line": 3691, "v": "KEEP", "zh": "被操纵的记忆", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "manipulation", "line": 3692, "v": "KEEP", "zh": "操纵", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "manovijñāna", "line": 3693, "v": "FLAG", "zh": "意识", "orig": "मनोविज्ञान", "note": "主译撞形：“意识”同时对应 consciousness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r14"}
+{"key": "Mantrayāna", "line": 3694, "v": "KEEP", "zh": "真言乘", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "many-valued hybrid logic", "line": 3695, "v": "KEEP", "zh": "多值混合逻辑", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "many-valued logic", "line": 3696, "v": "KEEP", "zh": "多值逻辑", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "many-worlds interpretation", "line": 3697, "v": "KEEP", "zh": "多世界诠释", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mapping degree", "line": 3698, "v": "KEEP", "zh": "映射度", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "maqādīr", "line": 3699, "v": "FLAG", "zh": "量（几何对象；与 aʿdād 数相对）", "orig": "مقادیر", "note": "主译撞形：“量”同时对应 quantity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r14"}
+{"key": "maqāmah", "line": 3700, "v": "KEEP", "zh": "玛卡梅（保留音译，首现括注）", "orig": "maqâmah", "note": null, "sheet": "r14"}
+{"key": "marginal revolution", "line": 3701, "v": "KEEP", "zh": "边际革命", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "marginal utility", "line": 3702, "v": "KEEP", "zh": "边际效用", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "marginal well-being", "line": 3703, "v": "KEEP", "zh": "边际福祉", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "marginalized functioning", "line": 3704, "v": "KEEP", "zh": "边缘化功能", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mark (Merkmal)", "line": 3705, "v": "FLAG", "zh": "标记", "orig": "Merkmal", "note": "主译撞形：“标记”同时对应 marker (DMG)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r14"}
+{"key": "mark transmission", "line": 3706, "v": "KEEP", "zh": "标记传递", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mark-recapture method", "line": 3707, "v": "FIX", "zh": "标记-重捕法", "orig": "—", "note": "改“标记重捕法”：生态学通行连写无连接号（标志重捕法／标记重捕法），现译半字线不合通行形", "sheet": "r14"}
+{"key": "marker (DMG)", "line": 3708, "v": "FLAG", "zh": "标记", "orig": "—", "note": "主译撞形：“标记”同时对应 mark (Merkmal)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r14"}
+{"key": "market economy", "line": 3709, "v": "KEEP", "zh": "市场经济", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Markov's principle", "line": 3710, "v": "KEEP", "zh": "马尔可夫原则", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Markov's rule", "line": 3711, "v": "KEEP", "zh": "马尔可夫规则", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Marmakaumudī", "line": 3712, "v": "KEEP", "zh": "《要义月光》", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Marxism", "line": 3713, "v": "KEEP", "zh": "马克思主义", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Marxist theory", "line": 3714, "v": "KEEP", "zh": "马克思主义理论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "masculinity", "line": 3715, "v": "KEEP", "zh": "男性气质", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "maṣlaḥa", "line": 3716, "v": "KEEP", "zh": "利益（公共福利）", "orig": "مصلحة", "note": null, "sheet": "r14"}
+{"key": "masochism", "line": 3717, "v": "KEEP", "zh": "受虐症", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mass expression", "line": 3718, "v": "KEEP", "zh": "物质名词表达", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mass noun", "line": 3719, "v": "KEEP", "zh": "物质名词", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mass predication", "line": 3720, "v": "KEEP", "zh": "物质述谓", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mass-energy equivalence", "line": 3721, "v": "KEEP", "zh": "质能等价性", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "massive modularity", "line": 3722, "v": "KEEP", "zh": "大规模模块性", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Massive Modularity Hypothesis", "line": 3723, "v": "KEEP", "zh": "大规模模块性假说", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Master Argument", "line": 3724, "v": "KEEP", "zh": "主论证", "orig": "kyrieuon logos", "note": null, "sheet": "r14"}
+{"key": "master of arts", "line": 3725, "v": "FLAG", "zh": "艺学硕士", "orig": "magister in artibus", "note": "主译撞形：“艺学硕士”同时对应 arts master；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r14"}
+{"key": "Master of the Mint", "line": 3726, "v": "KEEP", "zh": "造币局局长", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Master of Theology", "line": 3727, "v": "KEEP", "zh": "神学硕士", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "master-slave dialectic", "line": 3728, "v": "KEEP", "zh": "主奴辩证法", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Masters texts", "line": 3729, "v": "KEEP", "zh": "诸子文本", "orig": "諸子", "note": null, "sheet": "r14"}
+{"key": "matching", "line": 3730, "v": "KEEP", "zh": "匹配", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "material / formal analogy", "line": 3731, "v": "KEEP", "zh": "实质类比／形式类比", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "material adequacy", "line": 3732, "v": "KEEP", "zh": "实质恰当性", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "material cause", "line": 3733, "v": "KEEP", "zh": "质料因", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "material consequence", "line": 3734, "v": "KEEP", "zh": "实质后承", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "material implication", "line": 3735, "v": "KEEP", "zh": "实质蕴涵", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "material inference", "line": 3736, "v": "FLAG", "zh": "材料推理", "orig": "—", "note": "material 族译法五形混乱：material adequacy/consequence/implication＝实质、material cause＝质料、material inference＝材料推理、materialism＝物质主义／唯物论；布兰顿 material inference 通行“实质推理”，须族内统一或按域分行（质料〔亚氏〕／实质〔逻辑〕／物质〔物理〕）", "sheet": "r14"}
+{"key": "material intellect", "line": 3737, "v": "KEEP", "zh": "质料理智", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "material monism", "line": 3738, "v": "KEEP", "zh": "物质一元论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "material monist", "line": 3739, "v": "KEEP", "zh": "物质一元论者", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "material principles", "line": 3740, "v": "KEEP", "zh": "质料原则（克鲁修斯；与形式原则 formal principle 相对）", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "material supposition", "line": 3741, "v": "KEEP", "zh": "质料指代", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "materialism", "line": 3742, "v": "KEEP", "zh": "物质主义；唯物论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mathematical experiment", "line": 3743, "v": "KEEP", "zh": "数学实验", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mathematical fuzzy logic", "line": 3744, "v": "KEEP", "zh": "数学模糊逻辑", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mathematical induction", "line": 3745, "v": "KEEP", "zh": "数学归纳法", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mathematical logic", "line": 3746, "v": "KEEP", "zh": "数理逻辑", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mathematical pluralism", "line": 3747, "v": "KEEP", "zh": "数学多元主义", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mātra", "line": 3748, "v": "KEEP", "zh": "唯", "orig": "मात्र", "note": null, "sheet": "r14"}
+{"key": "matter", "line": 3749, "v": "FLAG", "zh": "质料（亚里士多德 hylê 语境；近代物理语境译“物质”）", "orig": "—", "note": "主译撞形：“质料”同时对应 pudgala（耆那教物质义）、stuff；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r14"}
+{"key": "matter field", "line": 3750, "v": "KEEP", "zh": "物质场", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "matter theory (of evil)", "line": 3751, "v": "KEEP", "zh": "质料论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Māturīdī", "line": 3752, "v": "FLAG", "zh": "马图里迪派", "orig": "ماتريدي", "note": "与 Maṭurīdiyya 行（行 3753）同译“马图里迪派”撞形；本行系教义学家人名义，须分行（马图里迪／马图里迪派）", "sheet": "r14"}
+{"key": "Maṭurīdiyya", "line": 3753, "v": "FLAG", "zh": "马图里迪派", "orig": "المَاتُريدِيَّةُ", "note": "同 Māturīdī 行族问题（两行同译撞形），须分行区分（学派义保留现译）", "sheet": "r14"}
+{"key": "maximal act-set", "line": 3754, "v": "KEEP", "zh": "极大行动集", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "maximal element", "line": 3755, "v": "KEEP", "zh": "极大元", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "maximal principles", "line": 3756, "v": "KEEP", "zh": "极大原理", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Maximalism", "line": 3757, "v": "KEEP", "zh": "极大主义", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "maximality thesis", "line": 3758, "v": "KEEP", "zh": "极大性论题", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "maximin", "line": 3759, "v": "KEEP", "zh": "最大化最小值（亦作“最大最小”）", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "maximum entropy", "line": 3760, "v": "KEEP", "zh": "最大熵", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "maximum likelihood", "line": 3761, "v": "KEEP", "zh": "最大似然法", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "maʿānī", "line": 3762, "v": "KEEP", "zh": "意涵属性（maʿnā 意涵之复数；物理对象的非感性属性）", "orig": "معانی", "note": null, "sheet": "r14"}
+{"key": "maʿnā", "line": 3763, "v": "FLAG", "zh": "意义", "orig": "معنى", "note": "主译撞形：“意义”同时对应 Bedeutung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r14"}
+{"key": "maʿqūl", "line": 3764, "v": "KEEP", "zh": "可智识的（intelligible）", "orig": "معقول", "note": null, "sheet": "r14"}
+{"key": "McCarthyism", "line": 3765, "v": "KEEP", "zh": "麦卡锡主义", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mean", "line": 3766, "v": "KEEP", "zh": "均值", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mean preserving spread", "line": 3767, "v": "KEEP", "zh": "均值保持扩散（亦作“均值保持展开”）", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mean speed theorem", "line": 3768, "v": "KEEP", "zh": "平均速度定理", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "meaning-formation", "line": 3769, "v": "KEEP", "zh": "意义构形", "orig": "Gebilde", "note": null, "sheet": "r14"}
+{"key": "meaning-rule", "line": 3770, "v": "KEEP", "zh": "意义规则", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "means-end coherence", "line": 3771, "v": "FIX", "zh": "手段-目的融贯", "orig": "—", "note": "连接号按 ADR-0041 一字线：手段-目的融贯 → 手段—目的融贯", "sheet": "r14"}
+{"key": "measurable cardinal", "line": 3772, "v": "KEEP", "zh": "可测基数", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "measure function", "line": 3773, "v": "KEEP", "zh": "度量函数", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "measure problem", "line": 3774, "v": "KEEP", "zh": "测度问题", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "measurement", "line": 3775, "v": "KEEP", "zh": "测量", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "measurement error", "line": 3776, "v": "KEEP", "zh": "测量误差", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "measurement problem", "line": 3777, "v": "KEEP", "zh": "测量问题", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "measurement process", "line": 3778, "v": "KEEP", "zh": "测量过程", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "measurement result", "line": 3779, "v": "KEEP", "zh": "测量结果", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "measurement standard", "line": 3780, "v": "KEEP", "zh": "测量标准", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "measurement theory", "line": 3781, "v": "KEEP", "zh": "测量理论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "measuring instrument", "line": 3782, "v": "KEEP", "zh": "测量仪器", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mechanical materialism", "line": 3783, "v": "KEEP", "zh": "机械唯物主义", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mechanical philosophy", "line": 3784, "v": "KEEP", "zh": "机械哲学（亦作“机械论哲学”）", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mechanism", "line": 3785, "v": "FLAG", "zh": "机械论", "orig": "—", "note": "mechanism 族混用：mechanism＝机械论（首现语料回收）而 mechanism design theory＝机制设计理论、mechanism model＝机制模型；哲学 mechanical 义通行“机械论”、生物学／经济学通行“机制”，须族内统一或按域分行", "sheet": "r14"}
+{"key": "mechanism design theory", "line": 3786, "v": "KEEP", "zh": "机制设计理论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mechanism model", "line": 3787, "v": "KEEP", "zh": "机制模型", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mechanistic explanation", "line": 3788, "v": "KEEP", "zh": "机械论解释（亦作“机制说明”）", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mediated appreciation", "line": 3789, "v": "KEEP", "zh": "中介化欣赏", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mediation", "line": 3790, "v": "KEEP", "zh": "中介", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Medical Argument", "line": 3791, "v": "KEEP", "zh": "医学论证", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "medical model", "line": 3792, "v": "KEEP", "zh": "医学模型", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "medicalization", "line": 3793, "v": "KEEP", "zh": "医学化", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "medically assisted death", "line": 3794, "v": "KEEP", "zh": "医学协助死亡", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "meditation", "line": 3795, "v": "KEEP", "zh": "冥想", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Megaric questions", "line": 3796, "v": "KEEP", "zh": "麦加拉问题", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Megaric School", "line": 3797, "v": "KEEP", "zh": "麦加拉学派", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "meibutsu", "line": 3798, "v": "KEEP", "zh": "名物", "orig": "名物", "note": null, "sheet": "r14"}
+{"key": "melancholy", "line": 3799, "v": "KEEP", "zh": "忧郁", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Mencius / Mengzi", "line": 3800, "v": "KEEP", "zh": "《孟子》", "orig": "孟子", "note": null, "sheet": "r14"}
+{"key": "mendicant orders / mendicant", "line": 3801, "v": "KEEP", "zh": "托钵修会／托钵修士", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mental act", "line": 3802, "v": "KEEP", "zh": "心理行为", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mental activity", "line": 3803, "v": "KEEP", "zh": "心理活动", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mental causation", "line": 3804, "v": "KEEP", "zh": "心灵因果", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mental content", "line": 3805, "v": "KEEP", "zh": "心理内容", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mental episodes（blo）", "line": 3806, "v": "FLAG", "zh": "心识事件（blo）", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r14"}
+{"key": "mental events", "line": 3807, "v": "KEEP", "zh": "心理事件（戴维森语境）", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mental illness", "line": 3808, "v": "KEEP", "zh": "精神疾病", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mental language", "line": 3809, "v": "KEEP", "zh": "心理语言", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mental phenomenalism", "line": 3810, "v": "KEEP", "zh": "心灵现象主义", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mental processes", "line": 3811, "v": "KEEP", "zh": "心理过程", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mental proposition", "line": 3812, "v": "KEEP", "zh": "心灵命题", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mental proposition / ideal proposition", "line": 3813, "v": "FLAG", "zh": "心理命题／理想命题", "orig": "—", "note": "族内不一：mental proposition＝心灵命题（行 3812）而本行＝心理命题／理想命题；mental 系通行“心理”（mental act 心理行为等），须族内统一", "sheet": "r14"}
+{"key": "mental state (divine)", "line": 3814, "v": "KEEP", "zh": "心灵状态", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mental states", "line": 3815, "v": "KEEP", "zh": "心理状态（亦作“精神状态”“心灵状态”，按语境）", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mentalism", "line": 3816, "v": "KEEP", "zh": "心灵主义", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mercantilism", "line": 3817, "v": "KEEP", "zh": "重商主义", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mere addition", "line": 3818, "v": "KEEP", "zh": "纯粹增加（亦作“单纯增加”）", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mere addition paradox", "line": 3819, "v": "KEEP", "zh": "纯粹增加悖论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mere conservationism", "line": 3820, "v": "KEEP", "zh": "单纯保存论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "merely confused supposition", "line": 3821, "v": "KEEP", "zh": "纯混淆指代", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "merely conventional", "line": 3822, "v": "KEEP", "zh": "唯世俗", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mereological nominalism", "line": 3823, "v": "KEEP", "zh": "分体论唯名论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mereology", "line": 3824, "v": "KEEP", "zh": "分体论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "merge-then-project", "line": 3825, "v": "KEEP", "zh": "先合并后投影", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "merging operator", "line": 3826, "v": "KEEP", "zh": "合并算子", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "meritocracy", "line": 3827, "v": "KEEP", "zh": "贤能政治", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Merton theorem", "line": 3828, "v": "KEEP", "zh": "默顿定理", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mesenchymal", "line": 3829, "v": "KEEP", "zh": "间充质", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "mesh theory", "line": 3830, "v": "KEEP", "zh": "网合理论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "messianism", "line": 3831, "v": "KEEP", "zh": "弥赛亚主义", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "meta-aesthetic", "line": 3832, "v": "KEEP", "zh": "元审美", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "meta-analysis", "line": 3833, "v": "KEEP", "zh": "元分析", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "meta-belief", "line": 3834, "v": "KEEP", "zh": "元信念", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "meta-inference", "line": 3835, "v": "KEEP", "zh": "元推理", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metabasis", "line": 3836, "v": "KEEP", "zh": "跨类论证", "orig": "μετάβασις", "note": null, "sheet": "r14"}
+{"key": "metabolism", "line": 3837, "v": "KEEP", "zh": "代谢", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metacognitive agency", "line": 3838, "v": "KEEP", "zh": "元认知能动性", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metacritique", "line": 3839, "v": "KEEP", "zh": "元批判", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metalanguage", "line": 3840, "v": "KEEP", "zh": "元语言", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metalinguistic nominalism", "line": 3841, "v": "KEEP", "zh": "元语言唯名论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metamathematical", "line": 3842, "v": "KEEP", "zh": "元数学的", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metamathematics", "line": 3843, "v": "KEEP", "zh": "元数学", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metamerism", "line": 3844, "v": "KEEP", "zh": "同色异谱", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metanormative", "line": 3845, "v": "KEEP", "zh": "元规范性", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metaontology", "line": 3846, "v": "KEEP", "zh": "元本体论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metaphorical twist", "line": 3847, "v": "KEEP", "zh": "隐喻的转折", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Metaphysical Deduction", "line": 3848, "v": "KEEP", "zh": "形而上学演绎", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metaphysical evil", "line": 3849, "v": "KEEP", "zh": "形而上学之恶", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Metaphysical Foundations of Natural Science", "line": 3850, "v": "KEEP", "zh": "《自然科学的形而上学基础》（简称《形而上学基础》）", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metaphysical guilt", "line": 3851, "v": "KEEP", "zh": "形而上学罪责（亦作“形而上学罪感”）", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metaphysical necessity", "line": 3852, "v": "KEEP", "zh": "形而上学必然性", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Metaphysics", "line": 3853, "v": "KEEP", "zh": "形而上学", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metapopulation", "line": 3854, "v": "KEEP", "zh": "集合种群", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metasomatosis", "line": 3855, "v": "KEEP", "zh": "易体", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metemsomatosis", "line": 3856, "v": "KEEP", "zh": "灵魂转生", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Meteorology", "line": 3857, "v": "KEEP", "zh": "《气象学》", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "method of exhaustion", "line": 3858, "v": "KEEP", "zh": "穷竭法", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "method of hypotheses", "line": 3859, "v": "KEEP", "zh": "假设方法", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "method of least squares", "line": 3860, "v": "KEEP", "zh": "最小二乘法", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "methodological anarchism", "line": 3861, "v": "KEEP", "zh": "方法论无政府主义", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "methodological solipsism", "line": 3862, "v": "KEEP", "zh": "方法论唯我论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "methodology", "line": 3863, "v": "KEEP", "zh": "方法论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Methodology of Scientific Research Programmes (MSRP)", "line": 3864, "v": "KEEP", "zh": "科学研究纲领方法论", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Methods", "line": 3865, "v": "KEEP", "zh": "方法", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metric", "line": 3866, "v": "KEEP", "zh": "度规", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metric field", "line": 3867, "v": "KEEP", "zh": "度规场", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "metriopatheia", "line": 3868, "v": "KEEP", "zh": "适度情感", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "Mexicanness", "line": 3869, "v": "FLAG", "zh": "墨西哥性", "orig": "—", "note": "与 lo mexicano 行（行 3563）同译“墨西哥性”撞形；前者系西语原词义，须分行设计（保留原词 lo mexicano 括注）或合键", "sheet": "r14"}
+{"key": "Mezzogiorno", "line": 3870, "v": "KEEP", "zh": "梅佐焦尔诺", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "microbiome", "line": 3871, "v": "KEEP", "zh": "微生物组", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "microbiota", "line": 3872, "v": "KEEP", "zh": "微生物群", "orig": "—", "note": null, "sheet": "r14"}
+{"key": "microcanonical distribution", "line": 3873, "v": "KEEP", "zh": "微正则分布", "orig": "—", "note": null, "sheet": "r14"}
 {"key": "mimesis", "line": 3891, "v": "FLAG", "zh": "模仿（亦作“摹仿”）", "orig": "μίμησις", "note": "主译撞形：“模仿”同时对应 imitation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "mistaken cognition（log shes）", "line": 3915, "v": "FLAG", "zh": "颠倒识（log shes）", "orig": "ལོག་ཤེས་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
 {"key": "mixed state", "line": 3919, "v": "FLAG", "zh": "混合态", "orig": "—", "note": "主译撞形：“混合态”同时对应 mixture；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}

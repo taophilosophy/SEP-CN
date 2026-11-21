@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 2283，FLAG 706，FIX 31，MERGE 4
+判定分布：KEEP 2464，FLAG 709，FIX 33，MERGE 4
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -458,14 +458,19 @@
 - **manovijñāna**（行 3693，现译「意识」）｜ FLAG ｜ 主译撞形：“意识”同时对应 consciousness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **maqādīr**（行 3699，现译「量（几何对象；与 aʿdād 数相对）」）｜ FLAG ｜ 主译撞形：“量”同时对应 quantity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **mark (Merkmal)**（行 3705，现译「标记」）｜ FLAG ｜ 主译撞形：“标记”同时对应 marker (DMG)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **mark-recapture method**（行 3707，现译「标记-重捕法」）｜ FIX ｜ 改“标记重捕法”：生态学通行连写无连接号（标志重捕法／标记重捕法），现译半字线不合通行形
 - **marker (DMG)**（行 3708，现译「标记」）｜ FLAG ｜ 主译撞形：“标记”同时对应 mark (Merkmal)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **master of arts**（行 3725，现译「艺学硕士」）｜ FLAG ｜ 主译撞形：“艺学硕士”同时对应 arts master；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **material inference**（行 3736，现译「材料推理」）｜ FLAG ｜ material 族译法五形混乱：material adequacy/consequence/implication＝实质、material cause＝质料、material inference＝材料推理、materialism＝物质主义／唯物论；布兰顿 material inference 通行“实质推理”，须族内统一或按域分行（质料〔亚氏〕／实质〔逻辑〕／物质〔物理〕）
 - **matter**（行 3749，现译「质料（亚里士多德 hylê 语境；近代物理语境译“物质”）」）｜ FLAG ｜ 主译撞形：“质料”同时对应 pudgala（耆那教物质义）、stuff；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Māturīdī**（行 3752，现译「马图里迪派」）｜ FLAG ｜ 主译撞形：“马图里迪派”同时对应 Maṭurīdiyya；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Maṭurīdiyya**（行 3753，现译「马图里迪派」）｜ FLAG ｜ 主译撞形：“马图里迪派”同时对应 Māturīdī；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Māturīdī**（行 3752，现译「马图里迪派」）｜ FLAG ｜ 与 Maṭurīdiyya 行（行 3753）同译“马图里迪派”撞形；本行系教义学家人名义，须分行（马图里迪／马图里迪派）
+- **Maṭurīdiyya**（行 3753，现译「马图里迪派」）｜ FLAG ｜ 同 Māturīdī 行族问题（两行同译撞形），须分行区分（学派义保留现译）
 - **maʿnā**（行 3763，现译「意义」）｜ FLAG ｜ 主译撞形：“意义”同时对应 Bedeutung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **means-end coherence**（行 3771，现译「手段-目的融贯」）｜ FIX ｜ 连接号按 ADR-0041 一字线：手段-目的融贯 → 手段—目的融贯
+- **mechanism**（行 3785，现译「机械论」）｜ FLAG ｜ mechanism 族混用：mechanism＝机械论（首现语料回收）而 mechanism design theory＝机制设计理论、mechanism model＝机制模型；哲学 mechanical 义通行“机械论”、生物学／经济学通行“机制”，须族内统一或按域分行
 - **mental episodes（blo）**（行 3806，现译「心识事件（blo）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
-- **Mexicanness**（行 3869，现译「墨西哥性」）｜ FLAG ｜ 主译撞形：“墨西哥性”同时对应 lo mexicano；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **mental proposition / ideal proposition**（行 3813，现译「心理命题／理想命题」）｜ FLAG ｜ 族内不一：mental proposition＝心灵命题（行 3812）而本行＝心理命题／理想命题；mental 系通行“心理”（mental act 心理行为等），须族内统一
+- **Mexicanness**（行 3869，现译「墨西哥性」）｜ FLAG ｜ 与 lo mexicano 行（行 3563）同译“墨西哥性”撞形；前者系西语原词义，须分行设计（保留原词 lo mexicano 括注）或合键
 - **mimesis**（行 3891，现译「模仿（亦作“摹仿”）」）｜ FLAG ｜ 主译撞形：“模仿”同时对应 imitation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **mistaken cognition（log shes）**（行 3915，现译「颠倒识（log shes）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **mixed state**（行 3919，现译「混合态」）｜ FLAG ｜ 主译撞形：“混合态”同时对应 mixture；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
