@@ -1,0 +1,166 @@
+# 撞形残余队列（2026-11-21 复算）
+
+口径：主译（去括注、去分号后段）规范化后同形的不同键；依据列已记“撞形豁免”的组不再列。
+
+## 残余 64 组（145 键）
+- **《中论》** ← Mūlamadhyamakakārikā｜《中论》；Zhonglun｜《中论》（徐干）
+- **《宗义摩尼鬘》** ← Nyāyasiddhāntamañjarī｜《宗义摩尼鬘》；Siddhānta-muktāvalī｜《宗义摩尼鬘》
+- **《阿毗达磨俱舍论》** ← Abhidharmakośa｜《阿毗达磨俱舍论》；Abhidharmakośabhāṣya｜《阿毗达磨俱舍论》
+- **一致** ← congruence｜一致（吻合）；consistent｜一致（的）（逻辑语境；区别于 coherence 融贯）
+- **三段论** ← qiyāsāt｜三段论（syllogisms 复数；与 qiyās 类比推理行按语境区分）；syllogism｜三段论
+- **三级会议** ← Estates General｜三级会议；States General｜三级会议
+- **不变性** ← immutability｜不变性；invariance｜不变性
+- **个人主义** ← individualism｜个人主义；personalist｜个人主义
+- **义** ← artha｜义；yi｜义（appropriateness 义；宜）
+- **义务论** ← deontological｜义务论；Deontology｜义务论
+- **事情本身** ← nafs al-ʾamr｜事情本身（字面义；技术义指事物自在之所是；与 die Sache selbst 行同形异源，勿混）；Sache selbst｜事情本身（die Sache selbst；亦作“事情自身”）
+- **保留原文** ← apretado｜保留原文（复数 apretados）；nepantla｜保留原文（纳瓦特尔语“之间”）；relajiento｜保留原文（复数 relajientos）；relajo｜保留原文（严肃性之悬置）；tarka｜保留原文（直观辨相）；zozobra｜保留原文（忧悬）
+- **保证** ← assurance｜保证；warrant｜保证（普兰丁格认识论语境；勿译“担保”）
+- **倾向** ← inclination｜倾向；propensity (interpretation of fitness)｜倾向
+- **假立** ← prajñapti｜假立（施设）；upādhi｜假立（名义属性）
+- **先天性** ← apriority｜先天性；innateness｜先天性
+- **公平** ← equity｜公平；fairness｜公平
+- **公理化** ← axiomatic｜公理化；axiomatization｜公理化
+- **历史主义** ← historicism｜历史主义；historism｜历史主义
+- **可分离性** ← detachability｜可分离性；separability｜可分离性
+- **可靠性** ← reliability｜可靠性；soundness｜可靠性
+- **合目的性** ← finality｜合目的性；purposiveness｜合目的性
+- **基数** ← cardinal｜基数；cardinality｜基数
+- **处所** ← pakṣa｜处所（所别）；place (Aristotelian topos)｜处所
+- **实体化** ← hypostasized｜实体化；reify｜实体化；substantialization｜实体化（实体性）
+- **实践哲学** ← philosophy of praxis｜实践哲学；practical philosophy｜实践哲学
+- **属性** ← Attributes｜属性；property｜属性；性质；ṣifāt｜属性
+- **幻象** ← illusion｜幻象；phantasm｜幻象
+- **弹性** ← resiliency｜弹性；sthitisthāpaka｜弹性（复性力）
+- **恒常** ← niyata｜恒常（恒常伴随）；permanence｜恒常
+- **意义** ← Bedeutung｜意义（弗雷格语境；亦作“意谓”）；maʿnā｜意义
+- **所有权** ← dominium｜所有权（财产支配权）；ownership｜所有权
+- **扩展** ← ampliation (ampliatio)｜扩展（指代的扩展）；ampliative (inference)｜扩展（推理）／扩展性
+- **承诺** ← Bindung｜承诺（约束）；promises｜承诺
+- **拉丁原文保留** ← causa secundum esse｜拉丁原文保留（就存在而言的原因）；cives｜拉丁原文保留（公民）；civitas｜拉丁原文保留（国家）；esse｜拉丁原文保留（存在）；ignoratio elenchi｜拉丁原文保留（不相干谬误）；jus｜拉丁原文保留（法律的正当性）；lex｜拉丁原文保留（法律）；respublica｜拉丁原文保留（公共关切/共同善）；sine qua non｜拉丁原文保留（缺之不然的原因）；societas｜拉丁原文保留；universitas｜拉丁原文保留
+- **指数** ← exponential｜指数；index number｜指数
+- **排除词** ← exceptive term｜排除词；exclusive word｜排除词
+- **探究** ← historiê｜探究；skeptosunê｜探究
+- **收缩** ← belief contraction｜收缩（亦作“信念收缩”）；contraction｜收缩
+- **杂多** ← manifold (Kantian)｜杂多；multiplicity｜杂多
+- **标记** ← mark (Merkmal)｜标记；marker (DMG)｜标记
+- **模态主义** ← modalism｜模态主义；modism｜模态主义
+- **歧义** ← ambiguity｜歧义（决策论：结果概率未知或仅部分已知）；equivocation｜歧义（同名异义）
+- **混合态** ← mixed state｜混合态；mixture｜混合态
+- **病因学** ← etiological (aspect of explanation)｜病因学；etiology｜病因学（亦作“病因”）
+- **相关性** ← correlation｜相关性；relevance｜相关性
+- **确证** ← corroboration｜确证；Validation｜确证
+- **等势** ← equinumerous｜等势；equipollence｜等势（亦作“等数”）
+- **自然法** ← laws of nature｜自然法（亦作“自然律”）；natural law｜自然法
+- **蕴涵** ← entailment｜蕴涵；implication｜蕴涵
+- **融贯论** ← coherence theory｜融贯论（亦作“真理的融贯论”）；coherentism｜融贯论
+- **解释** ← Account｜解释；说明；原理；interpretation｜解释；tafsīr｜解释（经注）
+- **论证** ← Argument｜论证；argumentation｜论证
+- **论辩问题** ← dialectical question｜论辩问题；quaestio disputata｜论辩问题
+- **责任** ← liability｜责任；responsibility｜责任
+- **质料** ← matter｜质料（亚里士多德 hylê 语境；近代物理语境译“物质”）；pudgala(耆那教物质义)｜质料；stuff｜质料
+- **超越者** ← transcendence (Jaspers)｜超越者；transcendentals｜超越者
+- **选择函数** ← choice function｜选择函数；selection function｜选择函数
+- **道德情感** ← moral emotion｜道德情感；moral sentiment｜道德情感
+- **量论** ← pramāṇa｜量论；pramāṇavāda｜量论
+- **限缩** ← circumscription (of sovereignty)｜限缩（对主权的限缩）；restriction｜限缩
+- **非决定论** ← indeterminism｜非决定论；non-determinism｜非决定论
+- **马图里迪派** ← Māturīdī｜马图里迪派；Maṭurīdiyya｜马图里迪派
+- **齐一性** ← homogeneity｜齐一性（亦作“同质性”）；Uniformity｜齐一性
+
+## 已豁免 95 组
+- 义务 ← obligation；taklīf
+- 仁爱 ← benevolence；caritas；Wohlwollen
+- 伴随项 ← concomitant；lawāzim
+- 体验 ← Erlebnis；lived experience
+- 倾向属性 ← dispositional property；saṃskāra
+- 偶性 ← accidents；aʿrāḍ
+- 共同感 ← ḥiss mushtarak；sensus communis
+- 共相 ← general characteristic；universal / universals
+- 内涵 ← connotation；Gehalt；intension
+- 再体验 ← nacherleben；re-experiencing
+- 冲力 ← impetus；vega
+- 历史化 ← historicization；Vergeschichtlichung
+- 历史性 ← Geschichtlichkeit；historicity
+- 同化 ← assimilation；tashbīh
+- 四句 ← catuṣ-koṭi；tetralemma
+- 回忆 ← anamnesis；commemorari
+- 回返 ← epistrophe；reversion
+- 图式 ← schema；scheme
+- 墨西哥性 ← lo mexicano；Mexicanness
+- 存在 ← being；bhāva；existence
+- 定义 ← definition；ḥadd；lakṣaṇa；taʿārīf
+- 实体 ← dravya；entity；jawhar；substance
+- 实践智慧 ← phronêsis；practical wisdom
+- 平等 ← equality；isonomia
+- 幸福 ← eudaimonia；Happiness
+- 影像 ← eidôla；idola；phantasmata；simulacra
+- 德性 ← aretê；virtue
+- 心 ← citta；qalb
+- 必然存在者 ← necessary being；wājib al-wujūd
+- 性质 ← guṇa；quality
+- 情感 ← emotion；Gefühl；sentiment
+- 想象 ← Imagination；phantasia(经院内感官语境)
+- 意志薄弱 ← akrasia；weakness of will
+- 意识 ← consciousness；manovijñāna
+- 感觉 ← aisthêseis；Empfindung；Sensation
+- 承认 ← acknowledgement (Anerkennung)；recognition (Ricoeur)
+- 数 ← aʿdād；saṃkhyā(数目)；shu (number)
+- 无分别 ← nirvikalpaka；niṣprakāraka
+- 无常 ← anitya；impermanence；mujō
+- 无我 ← anātman；nairātmya
+- 无穷倒退 ← anavasthā；infinite regress
+- 时 ← kāla；shi (timeliness)
+- 明证性 ← evidence (Evidenz)；evidentness
+- 显现 ← apparentia；manifestation；to phainomenon
+- 智慧 ← Ḥikmah；Wisdom
+- 本体论 ← ontology；ontology (Leśniewski)
+- 本原 ← arché；mabādiʾ
+- 本质 ← essence；quiddity
+- 样态 ← condicio (condiciones)；mode；paryāya
+- 概念化 ← Conceptualization；taṣawwur
+- 模仿 ← imitation；mimesis
+- 次级原因 ← sabab；secondary causes
+- 殊相 ← particular；singularia
+- 注意 ← animadversio；attention
+- 泼墨 ← haboku；hatsuboku
+- 流入 ← āsrava；influx (celestial)
+- 流溢 ← emanation；fayd；prohodos
+- 测试 ← test (dynamic semantics)；test (program)
+- 灵魂 ← psuchê (ψυχή)；soul
+- 疑 ← doubt(the tshom)；saṃśaya
+- 直观 ← Anschauung；intuition
+- 直觉 ← ḥads；intuition (ethical)
+- 相称性 ← proportionality (double effect)；proportionality (of blame)
+- 知觉 ← perception；pratyakṣa(感官知觉义)
+- 知识 ← epistêmê；scientia
+- 社会建构论 ← social constructionism；social constructivism
+- 类比推理 ← analogical reasoning；qiyās
+- 精气 ← spirits；spiritus
+- 精神 ← Geist；jingshen
+- 约定 ← nomos；saṅketa
+- 终极实在 ← ḥaqīqa；ultimate reality
+- 经验 ← Erfahrung；Experience
+- 经验美学 ← empirical aesthetics；Erfahrung-Ästhetik
+- 结合 ← copulation (copulatio)；sunkrisis
+- 综合 ← synthesis；tarkīb
+- 能别 ← prakāra；viśeṣaṇa
+- 自我 ← ātman；jīva
+- 自我保存 ← conservatio sui；self-preservation
+- 自我认识 ← autognosis；self-knowledge
+- 自然 ← phusis；ziran
+- 自立 ← self-reliance；standing-in-itself
+- 自证 ← reflexive awareness；svasaṃvedana
+- 范畴 ← category；tattva
+- 茶道 ← chadō；sadō
+- 虚空 ← ākāśa；void
+- 表象 ← phantasia；Vorstellung
+- 认知 ← buddhi；cognitio；cognition；cognizing (Erkennen)；jñāna
+- 设定 ← positing (Setzung)；positio
+- 证言 ← śabda；testimony
+- 词 ← kalima；pada
+- 运动 ← karma(胜论句义)；kinêsis
+- 量 ← maqādīr；quantity
+- 阿毗达磨 ← Abhidhamma；Abhidharma
+- 非存在 ← abhāva(胜论句义)；al-lays
+- 鬼神 ← gui-shen；kishin

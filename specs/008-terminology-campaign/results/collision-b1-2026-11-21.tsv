@@ -1,0 +1,58 @@
+处置	键	主键	旧译法／理由	处置后	说明
+MERGE	Computing	computation	计算	计算	结构重复并键
+MERGE	Incommensurable	incommensurability	不可通约性	不可通约性	结构重复并键
+MERGE	Intuitionistic	intuitionism	直觉主义	直觉主义	结构重复并键
+MERGE	adharma(胜论业报义)	adharma	非功德	非功德	结构重复并键
+MERGE	consecrated host	host(圣体)	圣体	圣体	结构重复并键
+MERGE	ideal elements	ideal element	理想元素	理想元素	结构重复并键
+MERGE	immediate perception	direct perception	直接知觉	直接知觉	结构重复并键
+MERGE	karma(佛教业报义)	karma	业	业	结构重复并键
+MERGE	moral judgments	moral judgment	道德判断	道德判断	结构重复并键
+MERGE	normal functioning	normal function	正常功能	正常功能	结构重复并键
+MERGE	perspectivalism	perspectivism	视角主义	视角主义	结构重复并键
+MERGE	right of nature	natural right / Natural Rights	自然权利	自然权利（亦作“自然权利”）	结构重复并键
+MERGE	supposit for	supposition (suppositio)	指代（某物）	指代（亦作“指代（某物）”）	结构重复并键
+EXEMPT	Conceptualization		与 taṣawwur 同概念异语（伊斯兰逻辑构想）	概念化	撞形豁免
+EXEMPT	Erfahrung-Ästhetik		与 empirical aesthetics 同概念异语	经验美学	撞形豁免
+EXEMPT	Happiness		希腊语 eudaimonia 与英语 Happiness 同概念异语	幸福	撞形豁免
+EXEMPT	Imagination		与 phantasia 同概念异语（经院想象能力）	想象	撞形豁免
+EXEMPT	Mexicanness		西语 lo mexicano 与英语 Mexicanness 同概念异语	墨西哥性	撞形豁免
+EXEMPT	Vergeschichtlichung		德语 Vergeschichtlichung 同概念异语	历史化	撞形豁免
+EXEMPT	Vorstellung		德语 Vorstellung 与 phantasia 同概念异语	表象（康德/叔本华）	撞形豁免
+EXEMPT	Wisdom		与 Ḥikmah 同概念异语	智慧	撞形豁免
+EXEMPT	abhāva(胜论句义)		与阿拉伯语 al-lays 同概念异语（非存在）	非存在（无）	撞形豁免
+EXEMPT	accidents		亚里士多德 accident 与阿维森纳 aʿrāḍ 同概念异语	偶性	撞形豁免
+EXEMPT	aisthêseis		与 Empfindung、Sensation 同概念异语（希腊语）	感觉	撞形豁免
+EXEMPT	al-lays		与 abhāva 同概念异语（非存在）	非存在	撞形豁免
+EXEMPT	analogical reasoning		与 qiyās 同概念异语（伊斯兰法源类比）	类比推理（亦作“类比推理”）	撞形豁免
+EXEMPT	aʿdād		阿拉伯语 aʿdād 与 saṃkhyā、shu 同概念异语（数）	数（算术对象；与 maqādīr 量相对）	撞形豁免
+EXEMPT	aʿrāḍ		亚里士多德 accident 与阿维森纳 aʿrāḍ 同概念异语	偶性（亚里士多德-阿维森纳 accident）	撞形豁免
+EXEMPT	doubt(the tshom)		藏语 tshom 与梵语 saṃśaya 同概念异语	疑（the tshom）	撞形豁免
+EXEMPT	empirical aesthetics		与 Erfahrung-Ästhetik 同概念异语	经验美学	撞形豁免
+EXEMPT	eudaimonia		希腊语 eudaimonia 与英语 Happiness 同概念异语	幸福（亦作“繁盛”）	撞形豁免
+EXEMPT	general characteristic		佛教 sāmānyalakṣaṇa（共相）与西方 universals 同形异语	共相	撞形豁免
+EXEMPT	historicization		德语 Vergeschichtlichung 同概念异语	历史化	撞形豁免
+EXEMPT	karma(胜论句义)		胜论句义 karma＝运动，与希腊 kinêsis 同概念异语	运动（业）	撞形豁免
+EXEMPT	kinêsis		与胜论句义 karma＝运动 同概念异语	运动（希腊语境）	撞形豁免
+EXEMPT	lo mexicano		西语 lo mexicano 与英语 Mexicanness 同概念异语	墨西哥性（墨西哥的东西）	撞形豁免
+EXEMPT	nirvikalpaka		与 niṣprakāraka 同概念异形（佛教认识论无分别）	无分别（现量）	撞形豁免
+EXEMPT	niṣprakāraka		与 nirvikalpaka 同概念异形	无分别（同义）	撞形豁免
+EXEMPT	perception		与 pratyakṣa 同概念异语	知觉	撞形豁免
+EXEMPT	phantasia		与 Imagination、Vorstellung 同概念异语	表象	撞形豁免
+EXEMPT	phantasia(经院内感官语境)		与 Imagination 同概念异语（经院语境）	想象（能力）	撞形豁免
+EXEMPT	prakāra		与 viśeṣaṇa 同形异角色（能别方式／限定词）	能别（特征）	撞形豁免
+EXEMPT	pratyakṣa(感官知觉义)		与 perception 同概念异语（现量）	知觉（现量）	撞形豁免
+EXEMPT	qiyās		与 analogical reasoning 同概念异语（伊斯兰法源类比）	类比推理（基亚斯）	撞形豁免
+EXEMPT	sabab		阿拉伯语 sabab 与 secondary causes 语境对应（偶因论）	次级原因	撞形豁免
+EXEMPT	saṃkhyā(数目)		梵语 saṃkhyā 与 aʿdād、shu 同概念异语（数）	数	撞形豁免
+EXEMPT	saṃśaya		与藏语 tshom 同概念异语	疑	撞形豁免
+EXEMPT	secondary causes		与 sabab 语境对应（偶因论）	次级原因	撞形豁免
+EXEMPT	self-reliance		爱默生 self-reliance 与 standing-in-itself 同形异源	自立（亦作“自助”）	撞形豁免
+EXEMPT	shu (number)		汉语 shu 与 aʿdād、saṃkhyā 同概念异语（数）	数（number/probability/ratio 数）	撞形豁免
+EXEMPT	social constructionism		建构论与建构主义两派名称并存，按条目语境区分	社会建构论	撞形豁免
+EXEMPT	social constructivism		建构论与建构主义两派名称并存，按条目语境区分	社会建构论	撞形豁免
+EXEMPT	standing-in-itself		与爱默生 self-reliance 同形异源	自立（standing-in-itself；亦作“自身站立”）	撞形豁免
+EXEMPT	taṣawwur		与 Conceptualization 同概念异语（伊斯兰逻辑构想）	概念化	撞形豁免
+EXEMPT	universal / universals		与佛教 general characteristic 同形异语	共相（中世纪-黑格尔传统）	撞形豁免
+EXEMPT	viśeṣaṇa		与 prakāra 同形异角色（能别方式／限定词）	能别（限定）	撞形豁免
+EXEMPT	Ḥikmah		阿拉伯语 Ḥikmah 与 Wisdom 同概念异语	智慧（另译希克玛）	撞形豁免
