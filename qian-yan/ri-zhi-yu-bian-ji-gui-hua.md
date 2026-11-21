@@ -197,3 +197,12 @@
 * **应用阶段反检**：①b1 台账 slug 笔误 2 处（`pseudo-dionysius`→`pseudo-dionysius-areopagite`、`james-of-viterbo`→`james-viterbo`），seq↔slug 全量对账后修正；②`skepticism` 由 KEEP 改判 MOVE——`skepticism-medieval` 迁出后“怀疑论”节成空壳（门禁第 [6] 项硬拦反检），总条自元认识论归位，一改两得。
 * **门禁**：check_mulu_s 六项 0 硬错；catalog-net G1–G4 全绿（mulu-map 重建 rows=links=1883，G3 重放全等）；check_all 17 项全绿。
 * **教训**：①台账入库前必须与文档序全量对账 seq↔slug，笔误到应用阶段才暴露则返工面更大；②应用器要原生支持簇搬运与幂等重放（嵌套成员单列 MOVE 行＝随簇达成，重放跳过而非报错）；③结构判定不重复实现——应用器自带“空节预警”因区间语义与门禁“整子树”语义不同漂移出 42 条误报，最终仍交权威门禁。
+
+## 2026-11-22 概念属人物者归人物簇（specs/056 b12，用户指令“概念属于人物的应归类到人物，有问题读取原文”）
+
+* **判定法（三路定向扫描）**：①`en/<slug>/index.html` 标题英文所有格（129 条命中）；②mu-lu-s 中文侧“某某的…”结构（57 条，交叉验证）；③“Person on/in X”模式（143 条，确认史区人物簇已完备）。广谱“标题含人物姓氏”（488 条）因单名误配过多、多为“X in 领域”正确形态，按“漏报好于误报”不采。
+* **原文核实**：19 条候选逐条读 `en/` 首段，全部确属对应人物学说条目（如 Bolzano 条自指 “see the general entry on Bolzano”、Goodman 条首段点名 Nelson Goodman、newton-stm 首段即绝对时空奠基）。
+* **落地（`results/adjudication-b12.tsv`，17 行／19 行移动）**：CLUS 同节簇化 14 条（wittgenstein ×3、lewis-metaphysics、al-farabi ×4、ibn-rushd、ibn-sina ×3、bolzano、mally）；MOVECLUS 跨节移簇 3 条（church 类型论→逻辑史簇、goodman 美学→分析语言哲学簇、newton-stm＋2 子条→史区牛顿簇）。新应用器 `bin/apply_clusters.py`：删块→定位母条→插簇末尾、统一缩进 2、守恒断言。
+* **例外 KEEP**：人物条不在库（Butler／Adam Smith／Nozick／Croce／Beardsley／Shaaban Robert）与定理/悖论/问题类（Bell、Skolem、Curry、Fitch、Gödel、Molyneux、囚徒困境、Hilbert 纲领、Arrow）留学科节；`schema`／`practical-reason`／`dualism`／`personalism` 经原文复核确为通题，b1–b11 搬出裁定不变。
+* **门禁**：守恒 1883；check_mulu_s 六项 0 硬错；G1–G4 全绿（mulu-map 重建）；check_all 17 项全绿。
+* **教训**：簇化与移节是两种动作（缩进即归类），应用器须分开（b12 单列批次，b1–b11 覆盖校验排除之）；“属人物”判据只在标题层可机械判定（所有格/中文明示），内容层判据（学派/主义通题）必须回原文。
