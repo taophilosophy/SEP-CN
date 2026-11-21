@@ -3529,20 +3529,206 @@
 {"key": "ordinal definable sets", "line": 4481, "v": "KEEP", "zh": "序数可定义集", "orig": "—", "note": null, "sheet": "r17"}
 {"key": "ordinal sum", "line": 4482, "v": "KEEP", "zh": "序和", "orig": "—", "note": null, "sheet": "r17"}
 {"key": "ordinary beings", "line": 4483, "v": "KEEP", "zh": "凡夫（佛教）", "orig": "—", "note": null, "sheet": "r17"}
-{"key": "organ retrieval／organ procurement", "line": 4490, "v": "FLAG", "zh": "器官获取", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "organism", "line": 4496, "v": "FLAG", "zh": "生物体", "orig": "—", "note": "主译撞形：“生物体”同时对应 living organism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "ou mallon", "line": 4514, "v": "FLAG", "zh": "并不更", "orig": "οὐ μᾶλλον", "note": "主译撞形：“并不更”同时对应 ouden mallon；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "ouden mallon", "line": 4515, "v": "FLAG", "zh": "并不更", "orig": "—", "note": "主译撞形：“并不更”同时对应 ou mallon；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "ownership", "line": 4526, "v": "FLAG", "zh": "所有权", "orig": "—", "note": "主译撞形：“所有权”同时对应 dominium；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "pada", "line": 4538, "v": "FLAG", "zh": "词", "orig": "पद", "note": "主译撞形：“词”同时对应 kalima；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "pakṣa", "line": 4541, "v": "FLAG", "zh": "处所（所别）", "orig": "पक्ष", "note": "主译撞形：“处所”同时对应 place (Aristotelian topos)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "particular", "line": 4605, "v": "FLAG", "zh": "殊相；特殊", "orig": "—", "note": "主译撞形：“殊相”同时对应 singularia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "paryāya", "line": 4612, "v": "FLAG", "zh": "样态", "orig": "पर्याय", "note": "主译撞形：“样态”同时对应 condicio (condiciones)、mode；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "perception", "line": 4644, "v": "FLAG", "zh": "知觉", "orig": "—", "note": "主译撞形：“知觉”同时对应 pratyakṣa（感官知觉义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "permanence", "line": 4659, "v": "FLAG", "zh": "恒常", "orig": "—", "note": "主译撞形：“恒常”同时对应 niyata；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "personalist", "line": 4677, "v": "FLAG", "zh": "个人主义", "orig": "—", "note": "主译撞形：“个人主义”同时对应 individualism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "perspectivalism", "line": 4682, "v": "FLAG", "zh": "视角主义", "orig": "—", "note": "主译撞形：“视角主义”同时对应 perspectivism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "perspectivism", "line": 4685, "v": "FLAG", "zh": "视角主义", "orig": "—", "note": "主译撞形：“视角主义”同时对应 perspectivalism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "ordinary language", "line": 4484, "v": "KEEP", "zh": "日常语言", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "ordinary object", "line": 4485, "v": "KEEP", "zh": "日常对象", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "ordo (of presentation)", "line": 4486, "v": "KEEP", "zh": "呈现秩序（ordo；与狭义 methodus 方法对举）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "ordo doctrinae", "line": 4487, "v": "KEEP", "zh": "教学秩序（保留拉丁，首现括注）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "organ donation", "line": 4488, "v": "KEEP", "zh": "器官捐献（词条标题用 SUMMARY 既定名“人体器官捐献”）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "organ failure", "line": 4489, "v": "KEEP", "zh": "器官衰竭", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "organ retrieval／organ procurement", "line": 4490, "v": "FLAG", "zh": "器官获取", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r18"}
+{"key": "organ transplantation", "line": 4491, "v": "KEEP", "zh": "器官移植", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "organic intellectual", "line": 4492, "v": "KEEP", "zh": "有机知识分子", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "organic state", "line": 4493, "v": "KEEP", "zh": "有机国家", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "organicism", "line": 4494, "v": "FLAG", "zh": "机体论", "orig": "—", "note": "族内不一：本行“机体论”（审定名词库 JWT 凭证）vs organicist thinking 行（行 4495）“有机论思维”（学界通行）；须按域分行登记（生物学哲学机体论／中国科学思想有机论）或统一", "sheet": "r18"}
+{"key": "organicist thinking", "line": 4495, "v": "KEEP", "zh": "有机论思维", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "organism", "line": 4496, "v": "FLAG", "zh": "生物体", "orig": "—", "note": "主译撞形：“生物体”同时对应 living organism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r18"}
+{"key": "organized skepticism", "line": 4497, "v": "KEEP", "zh": "有组织的怀疑", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "organized sound", "line": 4498, "v": "KEEP", "zh": "组织化的声音", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "organoid", "line": 4499, "v": "KEEP", "zh": "类器官", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Organon", "line": 4500, "v": "KEEP", "zh": "《工具论》", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Orientalism", "line": 4501, "v": "KEEP", "zh": "东方主义（书名《东方学》）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Origenism", "line": 4502, "v": "KEEP", "zh": "奥利金主义", "orig": "Origenist doctrine", "note": null, "sheet": "r18"}
+{"key": "original position", "line": 4503, "v": "KEEP", "zh": "原初状态", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "original sin", "line": 4504, "v": "KEEP", "zh": "原罪", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "originality", "line": 4505, "v": "KEEP", "zh": "独创性", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Orphic", "line": 4506, "v": "KEEP", "zh": "俄耳甫斯教的", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "orthodox proof-rule", "line": 4507, "v": "KEEP", "zh": "正统证明规则", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "orthonormal basis", "line": 4508, "v": "KEEP", "zh": "规范正交基", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "ostensive definition", "line": 4509, "v": "KEEP", "zh": "实指定义", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "ostrich nominalism", "line": 4510, "v": "KEEP", "zh": "鸵鸟式唯名论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "other minds", "line": 4511, "v": "KEEP", "zh": "他心问题", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "otherness", "line": 4512, "v": "KEEP", "zh": "他性", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "otherworldliness", "line": 4513, "v": "KEEP", "zh": "出世性（亦作“出世倾向”）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "ou mallon", "line": 4514, "v": "FLAG", "zh": "并不更", "orig": "οὐ μᾶλλον", "note": "主译撞形：“并不更”同时对应 ouden mallon；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r18"}
+{"key": "ouden mallon", "line": 4515, "v": "MERGE", "zh": "并不更", "orig": "—", "note": "与 ou mallon 行（行 4514）同一“无差异”论证式的两个希腊形（οὐ μᾶλλον／οὐδὲν μᾶλλον），同译“并不更”重复登记；并入 ou mallon 主行作异形附注", "sheet": "r18"}
+{"key": "Outline of Pyrrhonism", "line": 4516, "v": "KEEP", "zh": "《皮浪主义纲要》", "orig": "Πυρρώνειοι ὑποτυπώσεις", "note": null, "sheet": "r18"}
+{"key": "outside option", "line": 4517, "v": "KEEP", "zh": "外部选项", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Over-Soul", "line": 4518, "v": "KEEP", "zh": "超灵", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "overdetermination", "line": 4519, "v": "KEEP", "zh": "过度决定（因果过度决定）", "orig": "causal overdetermination", "note": null, "sheet": "r18"}
+{"key": "overdiagnosis", "line": 4520, "v": "KEEP", "zh": "过度诊断", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "overimitation", "line": 4521, "v": "KEEP", "zh": "过度模仿", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "overlapping consensus", "line": 4522, "v": "KEEP", "zh": "重叠共识", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "overpervades", "line": 4523, "v": "KEEP", "zh": "周遍过宽", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "overtaking criterion", "line": 4524, "v": "KEEP", "zh": "赶超标准", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "overtone", "line": 4525, "v": "KEEP", "zh": "泛音", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "ownership", "line": 4526, "v": "FLAG", "zh": "所有权", "orig": "—", "note": "主译撞形：“所有权”同时对应 dominium；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r18"}
+{"key": "Oxford Calculators", "line": 4527, "v": "KEEP", "zh": "牛津计算者", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Oxford Realists", "line": 4528, "v": "KEEP", "zh": "牛津实在论者", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "ω-consistency", "line": 4529, "v": "KEEP", "zh": "ω-一致性（亦作“ω-相容性”）", "orig": "ω-consistency", "note": null, "sheet": "r18"}
+{"key": "ω-provability", "line": 4530, "v": "KEEP", "zh": "ω-可证性", "orig": "ω-provability", "note": null, "sheet": "r18"}
+{"key": "p-hacking", "line": 4536, "v": "KEEP", "zh": "p 值操纵", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pacifism", "line": 4537, "v": "KEEP", "zh": "和平主义", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pada", "line": 4538, "v": "FLAG", "zh": "词", "orig": "पद", "note": "主译撞形：“词”同时对应 kalima；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r18"}
+{"key": "padārtha", "line": 4539, "v": "KEEP", "zh": "句义", "orig": "पदार्थ", "note": null, "sheet": "r18"}
+{"key": "paideia", "line": 4540, "v": "KEEP", "zh": "文化教养（首现括注 *paideia*）（亦作“教化/人文教育”）", "orig": "παιδεία", "note": null, "sheet": "r18"}
+{"key": "pakṣa", "line": 4541, "v": "FLAG", "zh": "处所（所别）", "orig": "पक्ष", "note": "主译“处所”系源文 locus 随文义，因明通行“所别／宗”（本行注已含“所别”）；且与 Aristotle topos 行“处所”撞形；建议主译改“所别”，locus 随文义移注", "sheet": "r18"}
+{"key": "pakṣadharmatā", "line": 4542, "v": "KEEP", "zh": "宗法性", "orig": "पक्षधर्मता", "note": null, "sheet": "r18"}
+{"key": "pakṣaṭā", "line": 4543, "v": "KEEP", "zh": "宗未决性", "orig": "पक्षता", "note": null, "sheet": "r18"}
+{"key": "palatine count", "line": 4544, "v": "KEEP", "zh": "宫廷伯爵（palatine count）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "palliative care", "line": 4545, "v": "KEEP", "zh": "姑息治疗", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Pañcaskandhaka", "line": 4546, "v": "KEEP", "zh": "《大乘五蕴论》", "orig": "पञ्चस्कन्धक", "note": null, "sheet": "r18"}
+{"key": "panentheism", "line": 4547, "v": "KEEP", "zh": "万有在神论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "panhellenism", "line": 4548, "v": "KEEP", "zh": "泛希腊主义", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "panpsychism", "line": 4549, "v": "KEEP", "zh": "泛心论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pansensism", "line": 4550, "v": "KEEP", "zh": "泛感觉论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pansomatism", "line": 4551, "v": "KEEP", "zh": "泛躯体主义（正文保留拉丁，首现括注）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Panth", "line": 4552, "v": "KEEP", "zh": "Panth（锡克社群共同体；保留原文）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pantheism", "line": 4553, "v": "KEEP", "zh": "泛神论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pantheism controversy", "line": 4554, "v": "KEEP", "zh": "泛神论之争", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "PAPA (privacy, accuracy, property, accessibility)", "line": 4555, "v": "KEEP", "zh": "隐私、准确性、财产、可及性", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "papal bull", "line": 4556, "v": "KEEP", "zh": "教皇诏书", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "papal supremacy", "line": 4557, "v": "KEEP", "zh": "教皇至上权", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "parabolic geometry", "line": 4558, "v": "KEEP", "zh": "抛物几何", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "paraconsistency", "line": 4559, "v": "FLAG", "zh": "弗协调性（亦作“次协调”）", "orig": "—", "note": "族内主译不一：本行“弗协调性”vs paraconsistent logic 行（行 4560）“次协调逻辑（亦作超协调逻辑）”，三形并存（弗协调／次协调／超协调）；须全库统一主译（通行“次协调”，弗协调亦通行）", "sheet": "r18"}
+{"key": "paraconsistent logic", "line": 4560, "v": "KEEP", "zh": "次协调逻辑（亦作“超协调逻辑”）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "paradeigma / homoiotes", "line": 4561, "v": "KEEP", "zh": "例证论证（paradeigma）／例似论证（homoiotes）", "orig": "παράδειγμα / ὁμοιότης", "note": null, "sheet": "r18"}
+{"key": "paradigm", "line": 4562, "v": "KEEP", "zh": "范式", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "paradigm shift", "line": 4563, "v": "KEEP", "zh": "范式转换（亦作“范式转移”）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Paradise Lost", "line": 4564, "v": "KEEP", "zh": "《失乐园》", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "paradox of fiction", "line": 4565, "v": "KEEP", "zh": "虚构悖论（亦作“虚构的悖论”）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "paradox of negative emotion", "line": 4566, "v": "KEEP", "zh": "负面情感悖论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "paradox of suspense", "line": 4567, "v": "KEEP", "zh": "悬念悖论（亦作“悬疑悖论”）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "paradox of tragedy", "line": 4568, "v": "KEEP", "zh": "悲剧悖论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "paradoxes of implication", "line": 4569, "v": "KEEP", "zh": "蕴涵悖论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "parallelism", "line": 4570, "v": "KEEP", "zh": "平行论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "paramadīrgha", "line": 4571, "v": "KEEP", "zh": "极大长度", "orig": "परमदीर्घ", "note": null, "sheet": "r18"}
+{"key": "paramāṇu", "line": 4572, "v": "KEEP", "zh": "极微（耆那教原子）", "orig": "परमाणु", "note": null, "sheet": "r18"}
+{"key": "parāmarśa", "line": 4573, "v": "KEEP", "zh": "省察", "orig": "परामर्श", "note": null, "sheet": "r18"}
+{"key": "paramātman", "line": 4574, "v": "KEEP", "zh": "最高我／神的自我", "orig": "परमात्मन्", "note": null, "sheet": "r18"}
+{"key": "paraphrase", "line": 4575, "v": "KEEP", "zh": "改写", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "parārdha", "line": 4576, "v": "KEEP", "zh": "极大数", "orig": "परार्ध", "note": null, "sheet": "r18"}
+{"key": "parārtha", "line": 4577, "v": "FLAG", "zh": "为他推理", "orig": "परार्थ", "note": "族内不一：因明 anumāna 系主译“比量”（anumāna 行 352 比量、parārthānumāna 行 4578 为他比量、svārthānumāna 行 6357 为己比量），本行与 svārtha 行（行 6356）却作“为他推理／自为推理”；须统一（建议为他比量／自为比量，或全族统一作“推理”）", "sheet": "r18"}
+{"key": "parārthānumāna", "line": 4578, "v": "KEEP", "zh": "为他比量", "orig": "परार्थानुमान", "note": null, "sheet": "r18"}
+{"key": "parasitism", "line": 4579, "v": "KEEP", "zh": "寄生", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "paratantra-svabhāva", "line": 4580, "v": "KEEP", "zh": "依他起性", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "paratva", "line": 4581, "v": "KEEP", "zh": "远性", "orig": "परत्व", "note": null, "sheet": "r18"}
+{"key": "Pareto condition", "line": 4582, "v": "KEEP", "zh": "帕累托条件", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "parikalpita-svabhāva", "line": 4583, "v": "KEEP", "zh": "遍计所执性", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "parīkṣā", "line": 4584, "v": "KEEP", "zh": "考察", "orig": "परीक्षा", "note": null, "sheet": "r18"}
+{"key": "pariniṣpanna-svabhāva", "line": 4585, "v": "KEEP", "zh": "圆成实性", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "parity", "line": 4586, "v": "KEEP", "zh": "产次", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "parity thesis", "line": 4587, "v": "KEEP", "zh": "对等论题", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "parochialism", "line": 4588, "v": "KEEP", "zh": "偏狭主义", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pars principans", "line": 4589, "v": "KEEP", "zh": "统治部分（政府）", "orig": "pars principans", "note": null, "sheet": "r18"}
+{"key": "parsimony", "line": 4590, "v": "KEEP", "zh": "简约法", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "part-whole relation", "line": 4591, "v": "KEEP", "zh": "部分—整体关系（亦作“整体—部分关系”）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "partial coherentism", "line": 4592, "v": "KEEP", "zh": "局部融贯论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "partial correctness", "line": 4593, "v": "KEEP", "zh": "部分正确性", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "partial definition", "line": 4594, "v": "KEEP", "zh": "部分定义", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "partial finitism", "line": 4595, "v": "KEEP", "zh": "部分有限主义", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "partial isomorphism", "line": 4596, "v": "KEEP", "zh": "部分同构", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "partial occasionalism", "line": 4597, "v": "KEEP", "zh": "部分偶因论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "partial order", "line": 4598, "v": "KEEP", "zh": "偏序", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "partial propositional calculus", "line": 4599, "v": "KEEP", "zh": "部分命题演算", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "partial support", "line": 4600, "v": "KEEP", "zh": "部分支持", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "partial valuation", "line": 4601, "v": "KEEP", "zh": "部分赋值", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "partialism", "line": 4602, "v": "KEEP", "zh": "偏私主义", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "participation", "line": 4603, "v": "KEEP", "zh": "分有", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "participatory realism", "line": 4604, "v": "KEEP", "zh": "参与式实在论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "particular", "line": 4605, "v": "FLAG", "zh": "殊相；特殊", "orig": "—", "note": "主译撞形：“殊相”同时对应 singularia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r18"}
+{"key": "particular volition", "line": 4606, "v": "KEEP", "zh": "个别意志", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "particularity", "line": 4607, "v": "KEEP", "zh": "特殊性", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "partinost", "line": 4608, "v": "KEEP", "zh": "党性", "orig": "партийность", "note": null, "sheet": "r18"}
+{"key": "Parts of Animals", "line": 4609, "v": "KEEP", "zh": "《动物的部分》", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "parva naturalia", "line": 4610, "v": "KEEP", "zh": "自然短篇", "orig": "parva naturalia", "note": null, "sheet": "r18"}
+{"key": "paryāpti", "line": 4611, "v": "KEEP", "zh": "圆足", "orig": "पर्याप्ति", "note": null, "sheet": "r18"}
+{"key": "paryāya", "line": 4612, "v": "FLAG", "zh": "样态", "orig": "पर्याय", "note": "主译撞形：“样态”同时对应 condicio (condiciones)、mode；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r18"}
+{"key": "Pascal’s Wager", "line": 4613, "v": "KEEP", "zh": "帕斯卡尔赌注（亦作“帕斯卡赌注”）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "passing theory", "line": 4614, "v": "KEEP", "zh": "当下理论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "passion", "line": 4615, "v": "KEEP", "zh": "激情（阿奎那 passiones：人与动物共有的感官欲求之感受反应）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "passional choices", "line": 4616, "v": "KEEP", "zh": "情感抉择", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "passive intellect", "line": 4617, "v": "KEEP", "zh": "被动理智", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "passive nature argument", "line": 4618, "v": "KEEP", "zh": "被动本性论证", "orig": "PN", "note": null, "sheet": "r18"}
+{"key": "passive revolution", "line": 4619, "v": "KEEP", "zh": "被动革命", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "paternalism", "line": 4620, "v": "KEEP", "zh": "家长主义（亦作“家长作风”）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pathê", "line": 4621, "v": "KEEP", "zh": "感受", "orig": "πάθη", "note": null, "sheet": "r18"}
+{"key": "pathology", "line": 4622, "v": "KEEP", "zh": "病理", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pathos", "line": 4623, "v": "KEEP", "zh": "情致", "orig": "πάθος", "note": null, "sheet": "r18"}
+{"key": "patient-derived xenograft", "line": 4624, "v": "KEEP", "zh": "患者来源异种移植", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "patriarchalism", "line": 4625, "v": "KEEP", "zh": "家长制主义", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "patriotism", "line": 4626, "v": "KEEP", "zh": "爱国主义", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pattern formation", "line": 4627, "v": "KEEP", "zh": "模式形成", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pattern recognition", "line": 4628, "v": "KEEP", "zh": "模式识别", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "payoff function", "line": 4629, "v": "KEEP", "zh": "支付函数", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Peace of Augsburg", "line": 4630, "v": "KEEP", "zh": "奥格斯堡和约", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Peace of Westphalia", "line": 4631, "v": "KEEP", "zh": "威斯特伐利亚和约（和会语境作“威斯特伐利亚和会”）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "peaceful coexistence", "line": 4632, "v": "KEEP", "zh": "和平共处", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Peano arithmetic", "line": 4633, "v": "KEEP", "zh": "佩亚诺算术（亦作“皮亚诺算术”）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pedagogical goals", "line": 4634, "v": "KEEP", "zh": "教学意图", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pedigree", "line": 4635, "v": "KEEP", "zh": "系谱", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "peer disagreement", "line": 4636, "v": "KEEP", "zh": "同侪分歧", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Pelagianism", "line": 4637, "v": "KEEP", "zh": "佩拉纠主义", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Pensées philosophiques", "line": 4638, "v": "KEEP", "zh": "《哲学思想录》（狄德罗）", "orig": "Pensées philosophiques", "note": null, "sheet": "r18"}
+{"key": "pensionary", "line": 4639, "v": "KEEP", "zh": "议政官", "orig": "pensionaris", "note": null, "sheet": "r18"}
+{"key": "per prius et posterius", "line": 4640, "v": "KEEP", "zh": "在先与在后意义上（保留拉丁）", "orig": "per prius et posterius", "note": null, "sheet": "r18"}
+{"key": "per se accidents", "line": 4641, "v": "KEEP", "zh": "自身偶性", "orig": "kath’ hauto sembebêkôs", "note": null, "sheet": "r18"}
+{"key": "per se predication", "line": 4642, "v": "KEEP", "zh": "自身谓述", "orig": "per se predication", "note": null, "sheet": "r18"}
+{"key": "peras", "line": 4643, "v": "KEEP", "zh": "限（peras）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perception", "line": 4644, "v": "FLAG", "zh": "知觉", "orig": "—", "note": "主译撞形：“知觉”同时对应 pratyakṣa（感官知觉义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r18"}
+{"key": "perceptual beliefs", "line": 4645, "v": "KEEP", "zh": "知觉信念", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perceptual cognition", "line": 4646, "v": "KEEP", "zh": "知觉认知", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perceptual sensitivity", "line": 4647, "v": "KEEP", "zh": "知觉敏感度", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perdurantism", "line": 4648, "v": "KEEP", "zh": "持续论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perennial philosophy", "line": 4649, "v": "KEEP", "zh": "永恒哲学", "orig": "philosophia perennis", "note": null, "sheet": "r18"}
+{"key": "perfect being theology", "line": 4650, "v": "KEEP", "zh": "完满存在神学", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perfect cosmological principle", "line": 4651, "v": "KEEP", "zh": "完美宇宙学原理", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perfect goodness", "line": 4652, "v": "KEEP", "zh": "完美善", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perfect number", "line": 4653, "v": "KEEP", "zh": "完全数（亦作“完满数”）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perfection (perfectio)", "line": 4654, "v": "KEEP", "zh": "完满性", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perfection (Vollkommenheit)", "line": 4655, "v": "FIX", "zh": "完善（沃尔夫-鲍姆嘉通语境；与既有行 moral perfection=道德完善、perfectionism=至善论相衔接）", "orig": "—", "note": "人名连接号按 ADR-0041 一字线：沃尔夫-鲍姆嘉通 → 沃尔夫—鲍姆嘉通", "sheet": "r18"}
+{"key": "perfectionism", "line": 4656, "v": "KEEP", "zh": "至善论", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "Peri phuseôs (On Nature)", "line": 4657, "v": "KEEP", "zh": "《论自然》", "orig": "Περὶ φύσεως", "note": null, "sheet": "r18"}
+{"key": "Peripatetics", "line": 4658, "v": "KEEP", "zh": "逍遥学派", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "permanence", "line": 4659, "v": "FLAG", "zh": "恒常", "orig": "—", "note": "主译撞形：“恒常”同时对应 niyata；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r18"}
+{"key": "permission", "line": 4660, "v": "KEEP", "zh": "许可", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "permutation", "line": 4661, "v": "KEEP", "zh": "置换", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "permutation invariance", "line": 4662, "v": "KEEP", "zh": "置换不变性", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "permutation model", "line": 4663, "v": "KEEP", "zh": "置换模型", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perpetual motion", "line": 4664, "v": "KEEP", "zh": "永动机", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perpetual peace", "line": 4665, "v": "KEEP", "zh": "永久和平", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "persistence", "line": 4666, "v": "KEEP", "zh": "持续存在", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "person-affecting restriction", "line": 4667, "v": "KEEP", "zh": "影响个人的限制", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "personal common ground", "line": 4668, "v": "KEEP", "zh": "个人共同基础", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "personal identity", "line": 4669, "v": "KEEP", "zh": "人格同一性", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "personal integrity", "line": 4670, "v": "KEEP", "zh": "人格完整", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "personal justification", "line": 4671, "v": "KEEP", "zh": "个人证成", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "personal presence", "line": 4672, "v": "KEEP", "zh": "位格临在", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "personal projects", "line": 4673, "v": "KEEP", "zh": "个人计划", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "personal relativism", "line": 4674, "v": "KEEP", "zh": "个人相对主义", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "personal responsibility", "line": 4675, "v": "KEEP", "zh": "个人责任", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "personal supposition", "line": 4676, "v": "KEEP", "zh": "人称指代", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "personalist", "line": 4677, "v": "FLAG", "zh": "个人主义", "orig": "—", "note": "与 individualism 行（行 3007）同译“个人主义”撞形；本行系概率哲学 personalist interpretation（de Finetti 系），宜作“私人主义的／个人主义（概率）解释”并与政治哲学 individualism 分行；QBism 语境“个人主义”须查证", "sheet": "r18"}
+{"key": "personalities of higher order", "line": 4678, "v": "KEEP", "zh": "高阶人格", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "personality", "line": 4679, "v": "KEEP", "zh": "人格", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "personalized medicine", "line": 4680, "v": "KEEP", "zh": "个性化医疗", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perspectival modelling", "line": 4681, "v": "KEEP", "zh": "视角建模", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perspectivalism", "line": 4682, "v": "FLAG", "zh": "视角主义", "orig": "—", "note": "与 perspectivism 行（行 4685）同译“视角主义”撞形；perspectivalism（qm-relational 建模语境）与 perspectivism（尼采／科学哲学）是不同概念，须分行（建议本行作“视角论”）", "sheet": "r18"}
+{"key": "perspective (RQM)", "line": 4683, "v": "KEEP", "zh": "视角", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perspective taking", "line": 4684, "v": "KEEP", "zh": "观点采择", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perspectivism", "line": 4685, "v": "FLAG", "zh": "视角主义", "orig": "—", "note": "主译撞形：“视角主义”同时对应 perspectivalism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r18"}
+{"key": "pertension", "line": 4686, "v": "KEEP", "zh": "pertension（保留英文；分体延展备查）", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "perturbation", "line": 4687, "v": "KEEP", "zh": "摄动", "orig": "—", "note": null, "sheet": "r18"}
+{"key": "pessimism", "line": 4688, "v": "KEEP", "zh": "悲观主义", "orig": "—", "note": null, "sheet": "r18"}
 {"key": "phantasia", "line": 4696, "v": "FLAG", "zh": "表象", "orig": "—", "note": "主译撞形：“表象”同时对应 Vorstellung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "phantasia（经院内感官语境）", "line": 4697, "v": "FLAG", "zh": "想象（能力）", "orig": "phantasia", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
 {"key": "phantasm", "line": 4698, "v": "FLAG", "zh": "幻象", "orig": "phantasma", "note": "主译撞形：“幻象”同时对应 illusion、phantasma；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
