@@ -1715,6 +1715,7 @@ outline: [1, 6]
 * [溯因 Abduction (Igor Douven)](a/abduction.md)
 * [认识语境论 Epistemic Contextualism (Patrick Rysiew)](c/contextualism-epistemology.md)
 * [归纳问题 The Problem of Induction (Leah Henderson)](i/induction-problem.md)
+* [探究 Inquiry (Arianna Falbo、David Thorstad、Dennis Whitcomb)](i/inquiry.md)
 * [关于如何做某事的知识 Knowledge How (Carlotta Pavese)](k/knowledge-how.md)
 * [理解 Understanding (Stephen Grimm)](u/understanding.md)
 * [认知闭合 Epistemic Closure (Steven Luper)](c/closure-epistemic.md)
