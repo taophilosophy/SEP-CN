@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 2824，FLAG 716，FIX 35，MERGE 4
+判定分布：KEEP 3000，FLAG 723，FIX 36，MERGE 4
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -514,18 +514,26 @@
 - **nomos**（行 4279，现译「约定（亦作“习俗”）」）｜ FLAG ｜ 主译撞形：“约定”同时对应 saṅketa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **non-ascertaining perception（snang la ma nges pa）**（行 4283，现译「显而未定识」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **non-determinism**（行 4291，现译「非决定论」）｜ FLAG ｜ 主译撞形：“非决定论”同时对应 indeterminism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **non-singular term**（行 4306，现译「非单数词项」）｜ FLAG ｜ “单数”系语法数范畴误用；逻辑学 singular term 通行“单称词项”，现译“非单数词项”须查证改“非单称词项”（logic-massexpress 语境为非单称词项）
 - **non-understanding（ma rtogs）**（行 4311，现译「不解知（ma rtogs）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **norm of reaction**（行 4322，现译「反应规范」）｜ FLAG ｜ 主译撞形：“反应规范”同时对应 reaction norm；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **normal function**（行 4324，现译「正常功能」）｜ FLAG ｜ 主译撞形：“正常功能”同时对应 normal functioning；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **normal functioning**（行 4325，现译「正常功能」）｜ FLAG ｜ 主译撞形：“正常功能”同时对应 normal function；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **normal function**（行 4324，现译「正常功能」）｜ FLAG ｜ 与 normal functioning 行（行 4325）同译“正常功能”，两行皆为布尔斯（Boorse）健康哲学同一概念（本行 2026-11-19 已研判、彼行 2026-11-09 已登记，互不知情）；须合键或分行（normal functioning 可作“正常运作”）
+- **normal functioning**（行 4325，现译「正常功能」）｜ FLAG ｜ 同 normal function 行族问题（同译“正常功能”撞形，同属布尔斯语境），须合键或分行
+- **notio**（行 4337，现译「观念」）｜ FLAG ｜ 现译“观念”与 idea 行（行 2867 亦作“观念”）撞形，且 notio 通行“概念”；本行用语仅标题／导航（gomez-pereira），须回原文核对后定（若为苏亚雷斯 notio 宜作“概念”）
+- **notiones secundae**（行 4338，现译「第二概念（即 second intentions 第二意向）」）｜ FLAG ｜ 行内译名自相不一：正译“第二概念”而括注 second intentions 作“第二意向”；中世纪逻辑 primary/second intention 通行“第一／第二意向”，须统一（notiones secundae 即第二意向）
 - **numinous**（行 4355，现译「努秘（奥托 das Heilige 语境）」）｜ FLAG ｜ 主译撞形：“努秘”同时对应 the numinous；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Nyāya-Vaiśeṣika**（行 4360，现译「正理-胜论派」）｜ FIX ｜ 连接号按 ADR-0041 一字线：正理-胜论派 → 正理—胜论派
 - **Nyāyasiddhāntamañjarī**（行 4362，现译「《宗义摩尼鬘》」）｜ FLAG ｜ 主译撞形：“《宗义摩尼鬘》”同时对应 Siddhānta-muktāvalī；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **objectification**（行 4372，现译「对象化（亦作“物化”）」）｜ FLAG ｜ 亦作“物化”与 reification 的主译撞形；删该亦作或改主译
+- **obligatio / obligationes**（行 4386，现译「义务论辩（正文保留拉丁原词，首现括注）」）｜ FLAG ｜ 与 obligationes 行（行 4388）同词两行两译：本行“义务论辩”／彼行“义务理论”（两行分别于 2026-11-04、2026-11-07 登记，互不知情）；中世纪逻辑 obligationes 通行“义务论辩”，须合键或统一
 - **obligation**（行 4387，现译「义务」）｜ FLAG ｜ 主译撞形：“义务”同时对应 taklīf；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **obligationes**（行 4388，现译「义务理论（保留拉丁原词 *Obligationes*）」）｜ FLAG ｜ 同 obligatio / obligationes 行族问题（同一拉丁词两行两译），须合键或统一为“义务论辩”
+- **offerer**（行 4409，现译「提议者」）｜ FLAG ｜ 登记（2026-11-10）仅覆盖最后通牒博弈“提议者”；atonement:840 为献祭语境（offerer as a sinner，即献祭者），同词两义须分行或登记豁免
 - **One Mind（yixin/ilsim）**（行 4432，现译「一心」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **one nature and distinct exclusions（ngo bo gcig la ldog pa tha dad）**（行 4433，现译「体一而反体异」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **ontology**（行 4447，现译「本体论（通行；亦作“存在论”）」）｜ FLAG ｜ 主译撞形：“本体论”同时对应 ontology (Leśniewski)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **ontology (Leśniewski)**（行 4448，现译「本体论」）｜ FLAG ｜ 主译撞形：“本体论”同时对应 ontology；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **operational semantics**（行 4462，现译「算子语义」）｜ FLAG ｜ 现登记（2026-11-09）仅覆盖 Fine 相关逻辑义（算子语义，与计算机科学分义）；然 computer-science:1187、games-abstraction:156 两处为计算机科学义，通行“操作语义”，须分行登记（同一英文词两义两行）
 - **opt-out／opt-in**（行 4469，现译「选择退出／选择加入（亦作“退出制／加入制”）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **organ retrieval／organ procurement**（行 4490，现译「器官获取」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **organism**（行 4496，现译「生物体」）｜ FLAG ｜ 主译撞形：“生物体”同时对应 living organism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并

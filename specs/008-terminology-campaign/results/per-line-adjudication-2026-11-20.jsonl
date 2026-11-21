@@ -3329,22 +3329,206 @@
 {"key": "nominatio", "line": 4276, "v": "KEEP", "zh": "指称（阿伯拉尔；与 significatio 意涵相对）", "orig": "nominatio", "note": null, "sheet": "r16"}
 {"key": "nomological", "line": 4277, "v": "KEEP", "zh": "律则的／律则必然性", "orig": "nomological necessity", "note": null, "sheet": "r16"}
 {"key": "nomological necessitation", "line": 4278, "v": "KEEP", "zh": "律则性必然化", "orig": "—", "note": null, "sheet": "r16"}
-{"key": "nomos", "line": 4279, "v": "FLAG", "zh": "约定（亦作“习俗”）", "orig": "νόμος", "note": "主译撞形：“约定”同时对应 saṅketa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "non-ascertaining perception（snang la ma nges pa）", "line": 4283, "v": "FLAG", "zh": "显而未定识", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "non-determinism", "line": 4291, "v": "FLAG", "zh": "非决定论", "orig": "—", "note": "主译撞形：“非决定论”同时对应 indeterminism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "non-understanding（ma rtogs）", "line": 4311, "v": "FLAG", "zh": "不解知（ma rtogs）", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "norm of reaction", "line": 4322, "v": "FLAG", "zh": "反应规范", "orig": "—", "note": "主译撞形：“反应规范”同时对应 reaction norm；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "normal function", "line": 4324, "v": "FLAG", "zh": "正常功能", "orig": "—", "note": "主译撞形：“正常功能”同时对应 normal functioning；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "normal functioning", "line": 4325, "v": "FLAG", "zh": "正常功能", "orig": "—", "note": "主译撞形：“正常功能”同时对应 normal function；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "numinous", "line": 4355, "v": "FLAG", "zh": "努秘（奥托 das Heilige 语境）", "orig": "—", "note": "主译撞形：“努秘”同时对应 the numinous；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Nyāyasiddhāntamañjarī", "line": 4362, "v": "FLAG", "zh": "《宗义摩尼鬘》", "orig": "न्यायसिद्धान्तमञ्जरी", "note": "主译撞形：“《宗义摩尼鬘》”同时对应 Siddhānta-muktāvalī；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "objectification", "line": 4372, "v": "FLAG", "zh": "对象化（亦作“物化”）", "orig": "—", "note": "亦作“物化”与 reification 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
-{"key": "obligation", "line": 4387, "v": "FLAG", "zh": "义务", "orig": "—", "note": "主译撞形：“义务”同时对应 taklīf；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "One Mind（yixin/ilsim）", "line": 4432, "v": "FLAG", "zh": "一心", "orig": "一心", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "one nature and distinct exclusions（ngo bo gcig la ldog pa tha dad）", "line": 4433, "v": "FLAG", "zh": "体一而反体异", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "ontology", "line": 4447, "v": "FLAG", "zh": "本体论（通行；亦作“存在论”）", "orig": "—", "note": "主译撞形：“本体论”同时对应 ontology (Leśniewski)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "ontology (Leśniewski)", "line": 4448, "v": "FLAG", "zh": "本体论", "orig": "—", "note": "主译撞形：“本体论”同时对应 ontology；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "opt-out／opt-in", "line": 4469, "v": "FLAG", "zh": "选择退出／选择加入（亦作“退出制／加入制”）", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
+{"key": "nomos", "line": 4279, "v": "FLAG", "zh": "约定（亦作“习俗”）", "orig": "νόμος", "note": "主译撞形：“约定”同时对应 saṅketa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r17"}
+{"key": "nomothetic", "line": 4280, "v": "KEEP", "zh": "法则论的（与表意论的/ideographic 对举）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-action", "line": 4281, "v": "KEEP", "zh": "非行动", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-anthropocentrism", "line": 4282, "v": "KEEP", "zh": "非人类中心主义", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-ascertaining perception（snang la ma nges pa）", "line": 4283, "v": "FLAG", "zh": "显而未定识", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r17"}
+{"key": "non-at-issue content", "line": 4284, "v": "KEEP", "zh": "非议题内容", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-belying", "line": 4285, "v": "KEEP", "zh": "不欺诳", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-bivalent world", "line": 4286, "v": "KEEP", "zh": "非二值世界", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-coding RNA", "line": 4287, "v": "KEEP", "zh": "非编码 RNA", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-cognitivism", "line": 4288, "v": "KEEP", "zh": "非认知主义", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-consequentialism", "line": 4289, "v": "KEEP", "zh": "非后果主义", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-contemporaneity (Ungleichzeitigkeit)", "line": 4290, "v": "KEEP", "zh": "非同时性", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-determinism", "line": 4291, "v": "FLAG", "zh": "非决定论", "orig": "—", "note": "主译撞形：“非决定论”同时对应 indeterminism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r17"}
+{"key": "non-deterministic choice", "line": 4292, "v": "KEEP", "zh": "非确定选择", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-domination", "line": 4293, "v": "KEEP", "zh": "无支配", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-doxastic", "line": 4294, "v": "KEEP", "zh": "非信念性的", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-Euclidean geometry", "line": 4295, "v": "KEEP", "zh": "非欧几何", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-identity problem", "line": 4296, "v": "KEEP", "zh": "非同一性问题", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-implicative negation", "line": 4297, "v": "KEEP", "zh": "无遮", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-instrumental ethical idealism", "line": 4298, "v": "KEEP", "zh": "非工具性伦理观念论", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-intervention", "line": 4299, "v": "KEEP", "zh": "不干涉", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-model organism", "line": 4300, "v": "KEEP", "zh": "非模式生物", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-monotonic reasoning", "line": 4301, "v": "KEEP", "zh": "非单调推理", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-naturalism", "line": 4302, "v": "KEEP", "zh": "非自然主义", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-normal world", "line": 4303, "v": "KEEP", "zh": "非正规世界", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-object", "line": 4304, "v": "KEEP", "zh": "非对象", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-reductive physicalism", "line": 4305, "v": "KEEP", "zh": "非还原物理主义", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-singular term", "line": 4306, "v": "FLAG", "zh": "非单数词项", "orig": "—", "note": "“单数”系语法数范畴误用；逻辑学 singular term 通行“单称词项”，现译“非单数词项”须查证改“非单称词项”（logic-massexpress 语境为非单称词项）", "sheet": "r17"}
+{"key": "non-sortal essence", "line": 4307, "v": "KEEP", "zh": "非类别本质", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-standard analysis", "line": 4308, "v": "KEEP", "zh": "非标准分析", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-transfer argument", "line": 4309, "v": "KEEP", "zh": "不可转移论证", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-transitive consequence", "line": 4310, "v": "KEEP", "zh": "非传递后承", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-understanding（ma rtogs）", "line": 4311, "v": "FLAG", "zh": "不解知（ma rtogs）", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r17"}
+{"key": "non-voluntary euthanasia", "line": 4312, "v": "KEEP", "zh": "非自愿安乐死", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "non-wellfounded", "line": 4313, "v": "KEEP", "zh": "非良基", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "nonconceptualism", "line": 4314, "v": "KEEP", "zh": "非概念主义（亦作非概念论）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "nonconditional conditional", "line": 4315, "v": "KEEP", "zh": "非条件性条件句", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "nondirectiveness", "line": 4316, "v": "KEEP", "zh": "非指导性原则", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "noninstrumental", "line": 4317, "v": "KEEP", "zh": "非工具性", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "nonlocality", "line": 4318, "v": "KEEP", "zh": "非定域性", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "nonsectarian movement", "line": 4319, "v": "KEEP", "zh": "无派别运动", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "nonstandard model", "line": 4320, "v": "KEEP", "zh": "非标准模型", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "norm", "line": 4321, "v": "KEEP", "zh": "模", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "norm of reaction", "line": 4322, "v": "FLAG", "zh": "反应规范", "orig": "—", "note": "主译撞形：“反应规范”同时对应 reaction norm；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r17"}
+{"key": "norm-prior", "line": 4323, "v": "KEEP", "zh": "规范优先", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "normal function", "line": 4324, "v": "FLAG", "zh": "正常功能", "orig": "—", "note": "与 normal functioning 行（行 4325）同译“正常功能”，两行皆为布尔斯（Boorse）健康哲学同一概念（本行 2026-11-19 已研判、彼行 2026-11-09 已登记，互不知情）；须合键或分行（normal functioning 可作“正常运作”）", "sheet": "r17"}
+{"key": "normal functioning", "line": 4325, "v": "FLAG", "zh": "正常功能", "orig": "—", "note": "同 normal function 行族问题（同译“正常功能”撞形，同属布尔斯语境），须合键或分行", "sheet": "r17"}
+{"key": "normal modal logic", "line": 4326, "v": "KEEP", "zh": "正规模态逻辑", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "normal science", "line": 4327, "v": "KEEP", "zh": "常规科学", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "normal world", "line": 4328, "v": "KEEP", "zh": "正规世界", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "normative force", "line": 4329, "v": "KEEP", "zh": "规范性力量", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "normativity", "line": 4330, "v": "KEEP", "zh": "规范性", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "norms of use", "line": 4331, "v": "KEEP", "zh": "使用规范", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "Not-Yet (das Noch-Nicht)", "line": 4332, "v": "KEEP", "zh": "尚未", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "Not-Yet-Conscious (das Noch-Nicht-Bewusste)", "line": 4333, "v": "KEEP", "zh": "尚未意识", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "nota illationis", "line": 4334, "v": "KEEP", "zh": "推断标记", "orig": "nota illationis", "note": null, "sheet": "r17"}
+{"key": "notational relativity", "line": 4335, "v": "KEEP", "zh": "记法相对性", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "Notes from the Underground", "line": 4336, "v": "KEEP", "zh": "《地下室手记》", "orig": "Записки из подполья", "note": null, "sheet": "r17"}
+{"key": "notio", "line": 4337, "v": "FLAG", "zh": "观念", "orig": "notio", "note": "现译“观念”与 idea 行（行 2867 亦作“观念”）撞形，且 notio 通行“概念”；本行用语仅标题／导航（gomez-pereira），须回原文核对后定（若为苏亚雷斯 notio 宜作“概念”）", "sheet": "r17"}
+{"key": "notiones secundae", "line": 4338, "v": "FLAG", "zh": "第二概念（即 second intentions 第二意向）", "orig": "—", "note": "行内译名自相不一：正译“第二概念”而括注 second intentions 作“第二意向”；中世纪逻辑 primary/second intention 通行“第一／第二意向”，须统一（notiones secundae 即第二意向）", "sheet": "r17"}
+{"key": "nous", "line": 4339, "v": "KEEP", "zh": "努斯（亦作“理智”“智性”）", "orig": "νοῦς", "note": null, "sheet": "r17"}
+{"key": "Nova Atlantis", "line": 4340, "v": "KEEP", "zh": "《新大西岛》", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "novelty", "line": 4341, "v": "KEEP", "zh": "新得", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "novum", "line": 4342, "v": "KEEP", "zh": "新奇者（novum）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "Novum Organum", "line": 4343, "v": "KEEP", "zh": "《新工具》（培根）", "orig": "Novum Organum", "note": null, "sheet": "r17"}
+{"key": "NP-complete", "line": 4344, "v": "KEEP", "zh": "NP 完全", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "nude mice", "line": 4345, "v": "KEEP", "zh": "裸鼠", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "Nüjie", "line": 4346, "v": "KEEP", "zh": "《女诫》", "orig": "女誡", "note": null, "sheet": "r17"}
+{"key": "null cone", "line": 4347, "v": "KEEP", "zh": "零锥（亦作“类光锥”）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "nulliparity", "line": 4348, "v": "KEEP", "zh": "未产", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "numbsense", "line": 4349, "v": "KEEP", "zh": "无感症", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "numerals", "line": 4350, "v": "KEEP", "zh": "数词", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "numerical existence property", "line": 4351, "v": "KEEP", "zh": "数值存在性质（亦作“数字存在性”）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "numerical identity", "line": 4352, "v": "KEEP", "zh": "数值同一（亦作“数的同一性”）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "numerical taxonomy", "line": 4353, "v": "KEEP", "zh": "数值分类学", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "numerical unity", "line": 4354, "v": "KEEP", "zh": "数值统一性", "orig": "unitas numeralis", "note": null, "sheet": "r17"}
+{"key": "numinous", "line": 4355, "v": "FLAG", "zh": "努秘（奥托 das Heilige 语境）", "orig": "—", "note": "主译撞形：“努秘”同时对应 the numinous；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r17"}
+{"key": "Nuptials", "line": 4356, "v": "KEEP", "zh": "《婚礼集》", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "nutation", "line": 4357, "v": "KEEP", "zh": "章动", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "Nyāya", "line": 4358, "v": "KEEP", "zh": "正理派", "orig": "न्याय", "note": null, "sheet": "r17"}
+{"key": "Nyāya-sūtra", "line": 4359, "v": "KEEP", "zh": "《逻辑经》", "orig": "न्यायसूत्र", "note": null, "sheet": "r17"}
+{"key": "Nyāya-Vaiśeṣika", "line": 4360, "v": "FIX", "zh": "正理-胜论派", "orig": "Nyāya-Vaiśeṣika", "note": "连接号按 ADR-0041 一字线：正理-胜论派 → 正理—胜论派", "sheet": "r17"}
+{"key": "Nyāyabindu", "line": 4361, "v": "KEEP", "zh": "《正理滴论》", "orig": "न्यायबिन्दु", "note": null, "sheet": "r17"}
+{"key": "Nyāyasiddhāntamañjarī", "line": 4362, "v": "FLAG", "zh": "《宗义摩尼鬘》", "orig": "न्यायसिद्धान्तमञ्जरी", "note": "主译撞形：“《宗义摩尼鬘》”同时对应 Siddhānta-muktāvalī；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r17"}
+{"key": "obex gratiae", "line": 4368, "v": "KEEP", "zh": "恩典障碍", "orig": "obex gratiae", "note": null, "sheet": "r17"}
+{"key": "object", "line": 4369, "v": "KEEP", "zh": "对象", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "object language", "line": 4370, "v": "KEEP", "zh": "对象语言", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "object of thought", "line": 4371, "v": "KEEP", "zh": "思想的对象", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "objectification", "line": 4372, "v": "FLAG", "zh": "对象化（亦作“物化”）", "orig": "—", "note": "亦作“物化”与 reification 的主译撞形；删该亦作或改主译", "sheet": "r17"}
+{"key": "Objections and Replies", "line": 4373, "v": "KEEP", "zh": "《诘难与答辩》", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "objective chance", "line": 4374, "v": "KEEP", "zh": "客观机遇", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "objective having", "line": 4375, "v": "KEEP", "zh": "客观拥有", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "objective homogeneity", "line": 4376, "v": "KEEP", "zh": "客观齐一性", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "objective idealism", "line": 4377, "v": "KEEP", "zh": "客观观念论（亦作“客观唯心主义”）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "objective probability", "line": 4378, "v": "KEEP", "zh": "客观概率", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "objective reality", "line": 4379, "v": "KEEP", "zh": "客观实在", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "objective spirit", "line": 4380, "v": "KEEP", "zh": "客观精神", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "objective validity", "line": 4381, "v": "KEEP", "zh": "客观有效性", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "objectivism", "line": 4382, "v": "KEEP", "zh": "客观主义", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "objectivity", "line": 4383, "v": "KEEP", "zh": "客观性", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "oblateness", "line": 4384, "v": "KEEP", "zh": "扁率", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "obligated memory", "line": 4385, "v": "KEEP", "zh": "受义务约束的记忆", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "obligatio / obligationes", "line": 4386, "v": "FLAG", "zh": "义务论辩（正文保留拉丁原词，首现括注）", "orig": "obligatio / obligationes", "note": "与 obligationes 行（行 4388）同词两行两译：本行“义务论辩”／彼行“义务理论”（两行分别于 2026-11-04、2026-11-07 登记，互不知情）；中世纪逻辑 obligationes 通行“义务论辩”，须合键或统一", "sheet": "r17"}
+{"key": "obligation", "line": 4387, "v": "FLAG", "zh": "义务", "orig": "—", "note": "主译撞形：“义务”同时对应 taklīf；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r17"}
+{"key": "obligationes", "line": 4388, "v": "FLAG", "zh": "义务理论（保留拉丁原词 *Obligationes*）", "orig": "obligationes", "note": "同 obligatio / obligationes 行族问题（同一拉丁词两行两译），须合键或统一为“义务论辩”", "sheet": "r17"}
+{"key": "obscenity", "line": 4389, "v": "KEEP", "zh": "淫秽", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "obscurantism", "line": 4390, "v": "KEEP", "zh": "蒙昧主义", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "observable", "line": 4391, "v": "KEEP", "zh": "可观测量", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "observation", "line": 4392, "v": "KEEP", "zh": "观察", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "observation sentences", "line": 4393, "v": "KEEP", "zh": "观察句", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "observer", "line": 4394, "v": "KEEP", "zh": "观察者", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "obsession", "line": 4395, "v": "KEEP", "zh": "执念", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "obtain (of states of affairs)", "line": 4396, "v": "KEEP", "zh": "成立", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "Occam’s razor", "line": 4397, "v": "KEEP", "zh": "奥卡姆剃刀", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "occasional causation", "line": 4398, "v": "KEEP", "zh": "偶因因果", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "occasional cause", "line": 4399, "v": "KEEP", "zh": "偶因", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "occasionalism", "line": 4400, "v": "KEEP", "zh": "偶因论", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "occult qualities", "line": 4401, "v": "KEEP", "zh": "隐秘的质", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "occult sciences", "line": 4402, "v": "KEEP", "zh": "秘术", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "occurrent", "line": 4403, "v": "KEEP", "zh": "当下的", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "occurrent (knowledge)", "line": 4404, "v": "KEEP", "zh": "现时性的", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "occurring desire", "line": 4405, "v": "KEEP", "zh": "偶发欲望", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ochlocracy", "line": 4406, "v": "KEEP", "zh": "暴民政治", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "Ockhamism", "line": 4407, "v": "KEEP", "zh": "奥卡姆主义", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "Odyssey", "line": 4408, "v": "KEEP", "zh": "《奥德赛》", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "offerer", "line": 4409, "v": "FLAG", "zh": "提议者", "orig": "—", "note": "登记（2026-11-10）仅覆盖最后通牒博弈“提议者”；atonement:840 为献祭语境（offerer as a sinner，即献祭者），同词两义须分行或登记豁免", "sheet": "r17"}
+{"key": "Okularität", "line": 4410, "v": "KEEP", "zh": "目视性", "orig": "Okularität", "note": null, "sheet": "r17"}
+{"key": "old evidence", "line": 4411, "v": "KEEP", "zh": "旧证据（贝叶斯旧证据问题）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "old quantum theory", "line": 4412, "v": "KEEP", "zh": "旧量子理论", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "Olympiad", "line": 4413, "v": "KEEP", "zh": "奥林匹亚德", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "omega-rule", "line": 4414, "v": "KEEP", "zh": "omega 规则", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "omission", "line": 4415, "v": "KEEP", "zh": "遗漏", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "omnipotence", "line": 4416, "v": "KEEP", "zh": "全能", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "omnipresence", "line": 4417, "v": "KEEP", "zh": "全在", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "omnipresent", "line": 4418, "v": "KEEP", "zh": "全在的", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "omniscience", "line": 4419, "v": "KEEP", "zh": "全知", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "omniscient", "line": 4420, "v": "KEEP", "zh": "全知的（omniscience=全知）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "omniscient interpreter", "line": 4421, "v": "KEEP", "zh": "全知解释者", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "omnisubjectivity", "line": 4422, "v": "KEEP", "zh": "全主体性", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "On Choices and Avoidances", "line": 4423, "v": "KEEP", "zh": "《论选择与回避》", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "On Generation and Corruption", "line": 4424, "v": "KEEP", "zh": "《论生灭》", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "On Incredible Tales", "line": 4425, "v": "KEEP", "zh": "《论不可信的故事》", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "On Interpretation", "line": 4426, "v": "KEEP", "zh": "《解释篇》", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "On Melissus, Xenophanes, Gorgias", "line": 4427, "v": "KEEP", "zh": "《论麦里梭、克塞诺芬尼与高尔吉亚》", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "On Moral Ends (De finibus)", "line": 4428, "v": "KEEP", "zh": "《论至善与至恶》", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "On Noble Families", "line": 4429, "v": "KEEP", "zh": "《论高贵家族》", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "On the Heavens", "line": 4430, "v": "KEEP", "zh": "《论天》", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "oncogene", "line": 4431, "v": "KEEP", "zh": "癌基因", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "One Mind（yixin/ilsim）", "line": 4432, "v": "FLAG", "zh": "一心", "orig": "一心", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r17"}
+{"key": "one nature and distinct exclusions（ngo bo gcig la ldog pa tha dad）", "line": 4433, "v": "FLAG", "zh": "体一而反体异", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r17"}
+{"key": "one-time pad", "line": 4434, "v": "KEEP", "zh": "一次性密码本（亦作“一次一密”）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "one-to-one correspondence", "line": 4435, "v": "KEEP", "zh": "一一对应", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "one-way speed of light", "line": 4436, "v": "KEEP", "zh": "单向光速", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "onomatoid", "line": 4437, "v": "KEEP", "zh": "似名称（正文保留 onomatoid，首现括注）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ontic state", "line": 4438, "v": "KEEP", "zh": "本体态", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ontic structural realism", "line": 4439, "v": "KEEP", "zh": "本体的结构实在论（亦作“存在结构实在论”）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ontological", "line": 4440, "v": "KEEP", "zh": "存在论的", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ontological argument", "line": 4441, "v": "KEEP", "zh": "本体论论证", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ontological commitment / ontological commitments", "line": 4442, "v": "KEEP", "zh": "本体论承诺（亦作“存在论承诺”）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ontological deflationism", "line": 4443, "v": "KEEP", "zh": "本体论紧缩主义", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ontological models framework", "line": 4444, "v": "KEEP", "zh": "本体论模型框架", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ontological naturalism", "line": 4445, "v": "KEEP", "zh": "本体论自然主义", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ontological question", "line": 4446, "v": "KEEP", "zh": "本体论问题", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ontology", "line": 4447, "v": "FLAG", "zh": "本体论（通行；亦作“存在论”）", "orig": "—", "note": "主译撞形：“本体论”同时对应 ontology (Leśniewski)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r17"}
+{"key": "ontology (Leśniewski)", "line": 4448, "v": "FLAG", "zh": "本体论", "orig": "—", "note": "主译撞形：“本体论”同时对应 ontology；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r17"}
+{"key": "ontology of the unfinished", "line": 4449, "v": "KEEP", "zh": "未完成者本体论", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "oocyte", "line": 4450, "v": "KEEP", "zh": "卵母细胞", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "opacity", "line": 4451, "v": "KEEP", "zh": "不透明性", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "open borders", "line": 4452, "v": "KEEP", "zh": "开放边界", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "open sentence", "line": 4453, "v": "KEEP", "zh": "开语句（亦作“开放语句”）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "open set logic/closed set logic", "line": 4454, "v": "KEEP", "zh": "开集逻辑／闭集逻辑", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "open term", "line": 4455, "v": "KEEP", "zh": "开词项", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "open theism", "line": 4456, "v": "KEEP", "zh": "开放神论", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "openness", "line": 4457, "v": "KEEP", "zh": "开放性", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "Opera logica", "line": 4458, "v": "KEEP", "zh": "《逻辑著作》（*Opera logica*）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "operant conditioning", "line": 4459, "v": "KEEP", "zh": "操作性条件作用", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "operational definition", "line": 4460, "v": "KEEP", "zh": "操作定义", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "operational rule", "line": 4461, "v": "KEEP", "zh": "运算规则", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "operational semantics", "line": 4462, "v": "FLAG", "zh": "算子语义", "orig": "—", "note": "现登记（2026-11-09）仅覆盖 Fine 相关逻辑义（算子语义，与计算机科学分义）；然 computer-science:1187、games-abstraction:156 两处为计算机科学义，通行“操作语义”，须分行登记（同一英文词两义两行）", "sheet": "r17"}
+{"key": "operationalism", "line": 4463, "v": "KEEP", "zh": "操作主义", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "opinio communis", "line": 4464, "v": "KEEP", "zh": "共同意见", "orig": "opinio communis", "note": null, "sheet": "r17"}
+{"key": "opinion aggregation", "line": 4465, "v": "KEEP", "zh": "意见聚合", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "opponent", "line": 4466, "v": "KEEP", "zh": "提问者", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "opportunism", "line": 4467, "v": "KEEP", "zh": "机会主义", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "opprobrium", "line": 4468, "v": "KEEP", "zh": "谴责", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "opt-out／opt-in", "line": 4469, "v": "FLAG", "zh": "选择退出／选择加入（亦作“退出制／加入制”）", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r17"}
+{"key": "optimal reduction", "line": 4470, "v": "KEEP", "zh": "最优归约", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "optimality model", "line": 4471, "v": "KEEP", "zh": "最优性模型", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "optimism concerning aesthetic testimony", "line": 4472, "v": "KEEP", "zh": "审美证言乐观论（optimist 乐观论者）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "optogenetics", "line": 4473, "v": "KEEP", "zh": "光遗传学", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "Opus postumum", "line": 4474, "v": "KEEP", "zh": "《遗著》（*Opus postumum*）", "orig": "Opus postumum", "note": null, "sheet": "r17"}
+{"key": "Or Hashem", "line": 4475, "v": "KEEP", "zh": "《上主之光》", "orig": "אור השם", "note": null, "sheet": "r17"}
+{"key": "oracle", "line": 4476, "v": "KEEP", "zh": "预言机", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "Oral Law", "line": 4477, "v": "KEEP", "zh": "口传律法", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ordered pair", "line": 4478, "v": "KEEP", "zh": "有序对（亦作“序偶”）", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ordinal", "line": 4479, "v": "KEEP", "zh": "序数", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ordinal analysis", "line": 4480, "v": "KEEP", "zh": "序数分析", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ordinal definable sets", "line": 4481, "v": "KEEP", "zh": "序数可定义集", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ordinal sum", "line": 4482, "v": "KEEP", "zh": "序和", "orig": "—", "note": null, "sheet": "r17"}
+{"key": "ordinary beings", "line": 4483, "v": "KEEP", "zh": "凡夫（佛教）", "orig": "—", "note": null, "sheet": "r17"}
 {"key": "organ retrieval／organ procurement", "line": 4490, "v": "FLAG", "zh": "器官获取", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
 {"key": "organism", "line": 4496, "v": "FLAG", "zh": "生物体", "orig": "—", "note": "主译撞形：“生物体”同时对应 living organism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "ou mallon", "line": 4514, "v": "FLAG", "zh": "并不更", "orig": "οὐ μᾶλλον", "note": "主译撞形：“并不更”同时对应 ouden mallon；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
