@@ -377,3 +377,13 @@
 * **共用工作树 checkout 误收事故（登记）**：重放用 `git checkout 00ee29e44^ -- mu-lu-s.md` 污染暂存区，被并行会话 s25 提交（ca31f15d8）扫入，分支 mu-lu-s 一度回退、G3 变红；原子修复提交 6e701789b 恢复新结构＋mulu-map 同步，已推送复绿。防线登记：共用工作树禁按路径 checkout 旧版，重放一律临时 worktree；已补录并行危害记忆。
 * **门禁分工**：本线 mulu_s 五项＋catalog-net G1–G4 全绿；`check_all` 仅 `管线单元测试` 一红——系并行会话 specs/053 线在途 `tools/yuanwen.py` 转换器改动（test_em_with_trailing_star_escaped），由其线收口，本线不越权。
 * **PROGRESS 阻塞 2 件核实**（haecceitism/hamann 逐段对齐未配对）：属翻译战役待派工项（两件均为仅标题骨架、未开工），非清理类可解项，维持登记不动。
+
+## 2026-11-21 人名表逐行研判全表收官（specs/013，用户指令“所有无法判断的和已经判断的术语，人名都必须逐个结合不同原文研判”）
+
+* **终态**：4,594 行（26 张简报 s01–s26）逐行显式判定收官，判定台账零缺；凭证账 1,117 行；缺项告警 2,696 → 924（余量为合规留空，非漏判）。26 批每批覆盖核对＋写回＋对账＋推送，`origin/main..main` 恒零。
+* **取证道**：简报（原典语境＋GND／WD 候选）→ marks 全行判定（KEEP/FILL/FIX/NOSOURCE，note 留痕）→ marks_to_ledger（--check＋再生）→ apply_person_meta 写回第 4/5/7/8 列 → check_terms 汇总对账。DEFER 定点补查五轮（wd_defer.py，130 键，约 40 键转 FILL）。
+* **误配防线战果**：机采误配改判 13 件（林奈／Partee／Arthur Pap／Boyd／Price／Porzio／A. G. Walker／王莽／Eric Williams／左拉／扬雄／Searle／Hippolytus），拒绝误配 20 余件（建筑师／卡巴莱艺人／足球员／昆虫学家／贵族谱系库等）；日期错列族 15 件归正（权日身／白颐正／白文宝／朴世堂／愼後聃／李齐贤／李穑／朝鲜太祖／尹鑴／李kan／李震相／李恒老／李檗／李睟光／李承薰，凭韩国学典八条目＋WD）；混指键 13 族登记拆键队列（Leland／Cosimo／Crates／Nicholas V／Philip II／Pythodorus／Radcliff／Sotion／Vacca／Wimsatt／Sherman 伪人等）。明细见 specs/013 execution-log 2026-11-21 节。
+* **管线修正**：marks_to_ledger 三处（defer 载序最后载入——修正五轮补查静默失效的关键 bug；nat/life 缺列回退现值防误抹；expand_src 进凭证行）；check_coverage.py 新增；fix_quotes.py 全库引号清洗 10,258 处。
+* **门禁**：本线范围 16/17 绿；唯一红项“管线单元测试”系并行会话 specs/053 线在途 tools/yuanwen.py 改动（test_em_with_trailing_star_escaped），非本线产物，由其线收口。
+* **事故对账（与 specs/055 线互相印证）**：s25 提交（ca31f15d8）扫入并行会话经 checkout 污染的暂存 mu-lu-s.md——我侧系 git commit 未带 pathspec 卷入整个暂存区；对方已于 6e701789b 原子修复并复绿。防线登记：共用工作树提交一律 `git commit -- <路径>`（只提交指定路径，无视暂存区残留），checkout 旧版一律临时 worktree。
+* **下步**：术语表 r02–r31 逐行研判（约 6,100 行）＋待处置队列（拆键 13 族／键形全角 84／撞形 538）。

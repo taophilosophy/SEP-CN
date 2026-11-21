@@ -292,3 +292,21 @@
 
 **日期口径修正**：surname 三批的产物与写回一度全部误标 `2026-11-21`，且 `bin/apply_person_meta.py` 的 `DATE` 默认值仍是 `2026-11-14` 旧值，致 816 行依据列查证日期与末列日期列双双失实。实证判据：lobid 响应头 `Date: Fri, 20 Nov 2026 12:51:08 GMT` 与本机时钟（20:51 CST）双侧一致，取证与写回发生在 2026-11-20。修正内容：登记册 816 行“（2026-11-14 查，凭证 verify-2026-11-21-gnd-a.tsv）”→“（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）”＋同行末列日期改 11-20；另 7 行撤回注记与术语表 109 处同批改期；产物文件与 `state/` 原始取证目录一并更名（`-2026-11-21` → `-2026-11-20`，原始 jsonl 移出 `results/` 入 `state/gnd-2026-11-20/` 不入库）；`apply_person_meta.py` 的 `DATE` 改为 `datetime.date.today()`，取消硬编码默认值。脚本 `script/tmp/fix_dates_1121.py`（本地工具，ADR-0027 不入库），前置门＝命中 816、逐行列数不变、改写后零残余。已推送的历史提交信息中的 2026-11-21 字样无法追改，以本节为口径准据。
 
+### 逐行研判全表收官（2026-11-21）
+
+**终态（以 `results/verify-2026-11-20-people.tsv` 与 `per-line-adjudication-2026-11-20.jsonl` 为准）**：人名表 4,594 行逐行研判**全部完成**（简报 s01–s26 共 26 张，26×180＋94）；判定台账 4,594 键零缺；凭证账 1,117 行；缺项告警 2,696 → **924**（`person-missing.txt` 汇总行口径）。剩余告警为“取不到权威来源留空并登记”的合规留空（NOSOURCE／半缺族），非漏判。
+
+**工作线**：每张简报全读 → `script/tmp/person-dossier/marks/sNN.json` 全行显式判定（KEEP／FILL／FIX／NOSOURCE，note 留痕）→ 覆盖核对（`check_coverage.py`，键一一对应）→ `marks_to_ledger.py --check`（判定合法性）→ 再生凭证账 → `apply_person_meta.py --apply` 写回第 4/5/7/8 列（幂等跳过已回填行）→ `check_terms.py` 汇总对账 → pathspec 提交推送。DEFER 定点补查五轮（`wd_defer.py`，130 键收割、约 40 键转 FILL，含 Maimonides／Popper／Hegel／Curie 等名人回补）；本会话 s19–s26 八批新增凭证 1,045 → 1,117。
+
+**误配防线战果（零信任试金石，逐件联网取凭证改判）**：林奈 1977–（GND 误配，改 WD Q1043 1707–1778）、权日身 1736 系其兄生年误配＋日期错列（改 1742–1791 凭韩国学典）、Partee 俄罗斯（改美国 1940– 凭 WD Q450773）、Arthur Pap 1912–1951 两项皆误（改 1921–1959 凭 WD Q4799915）、Richard Boyd 1970–（政治学者误配，改 1942–2021 凭 WD Q974723）、Richard Price 1947–（改 1723–1791 凭 WD Q561101）、Simone Porzio 卒年（从原文 1496–1544）、A. G. Walker 德国 1949–（改英国 1909–2001 凭 WD Q222988）、王莽 -004（机采丢位，改前 45–23 凭 WD Q7250）、Eric Williams 英国（改特立尼达 1911–1981 凭 WD Q1338879）、Zola 英国（改法国 1840–1902 凭 WD Q504）、扬雄 fl. 2024（引文年份污染，改前 53–18 从 laozi 原文）、Searle 卒年 2025 从原文补足、Steinem／Posner 2026 卒年联网复核属实。**拒绝机采误配 20 余件**（建筑师／作曲家／卡巴莱艺人／足球运动员／昆虫学家／政客／自行车手／贵族谱系库／语法学家等），逐件留 note。
+
+**日期错列族归正（15 件）**：日期误置进籍属列而生卒列空——Kwŏn Ilsin、Paek I-jŏng、Paek Munbo、Pak Sedang、Sin Hudam、Yi Che-hyŏn、Yi Chin-sang、Yi Hangno、Yi Kan、Yi Pyŏk、Yi Saek、Yi Sŏnggye、Yi Sugwang、Yi Sŭnghun、Yun Hyu，逐一凭韩国学典（encykorea E0022282／E0020803／E0033596／E0046116／E0046426／E0044377／E0044818／E0044963）或 WD 实体号归正＋证实；其中李震相卒年 1885→1886 系改从学典。
+
+**混指键登记（拆键归待处置队列）**：Leland John（古物学家／18 世纪神学家）、Cosimo de' Medici（老科西莫／科西莫一世）、Crates（三语境）、Nicholas V（教宗／对位教宗／文献作者）、Philip II（西班牙／马其顿）、Pythodorus（东道主／弟子）、Radcliff（工程师／政治学者／Radcliffe College 误录）、Sotion（三索提翁）、Vacca（医生／数学家）、William Wimsatt（文学批评家 W. K.／生物哲学家 William C.）、Sherman Benjamin（Roger Sherman＋Benjamin Franklin 拆分伪人）、Hippolytus（悲剧人物误标，实为基督教作家，已就地 FIX）、Marcella（波菲利之妻／细胞学者／译者）。
+
+**管线修正（本段）**：`marks_to_ledger.py` 三处——defer-r*.json 载序最后载入（改判覆盖批次文件，修正五轮补查静默失效）、nat/life 缺列回退现值（防 FILL 缺列抹掉既有籍属）、expand_src 进凭证行；`check_coverage.py` 新增（简报键 vs marks 键一一对应）；`fix_quotes.py` 全库直角引号清洗一次性工具（10,258 处／131 文件，script/tmp 与 specs/008、013 results）。
+
+**单测口径**：收工 `check_all` 16/17 绿；唯一红项“管线单元测试”系并行会话**未提交的 `tools/yuanwen.py` 在途改动**（`test_em_with_trailing_star_escaped` 逃逸行为变化），非本段产物，按共树纪律不代改，留并行会话提交前自证。
+
+**开放项**：缺项告警 924 之中 961 期合规留空待后续定点补查；拆键队列（上文 13 族）待处置；同义键合键（键形异形家族）与术语侧（specs/008 逐行研判）另行推进。
+
