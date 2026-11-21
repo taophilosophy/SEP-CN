@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 3182，FLAG 725，FIX 37，MERGE 5
+判定分布：KEEP 3357，FLAG 725，FIX 38，MERGE 9
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -556,20 +556,25 @@
 - **phantasia**（行 4696，现译「表象」）｜ FLAG ｜ 主译撞形：“表象”同时对应 Vorstellung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **phantasia（经院内感官语境）**（行 4697，现译「想象（能力）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **phantasm**（行 4698，现译「幻象」）｜ FLAG ｜ 主译撞形：“幻象”同时对应 illusion、phantasma；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **phantasma**（行 4699，现译「幻象」）｜ FLAG ｜ 主译撞形：“幻象”同时对应 illusion、phantasm；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **phantasma**（行 4699，现译「幻象」）｜ MERGE ｜ 与 phantasm 行（行 4698，原文 phantasma）同词异形、同译“幻象”；并入 phantasm 行（phantasmata 行 4700 之“影像”系希腊复数伊壁鸠鲁义，分域保留）
 - **phantasmata**（行 4700，现译「影像」）｜ FLAG ｜ 主译撞形：“影像”同时对应 eidôla、idola、simulacra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **philosophy of praxis**（行 4731，现译「实践哲学」）｜ FLAG ｜ 主译撞形：“实践哲学”同时对应 practical philosophy；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **phronêsis**（行 4742，现译「实践智慧（亦作“明智”）」）｜ FLAG ｜ 主译撞形：“实践智慧”同时对应 practical wisdom；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **phusis**（行 4743，现译「自然」）｜ FLAG ｜ 主译撞形：“自然”同时对应 ziran；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **place (Aristotelian topos)**（行 4764，现译「处所」）｜ FLAG ｜ 主译撞形：“处所”同时对应 pakṣa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **place (topos)**（行 4765，现译「位置」）｜ FLAG ｜ 主译撞形：“位置”同时对应 makān；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **place (Aristotelian topos)**（行 4764，现译「处所」）｜ FLAG ｜ 与 place (topos) 行（行 4765）同为亚里士多德 topos，却分译“处所／位置”；须合键并统一主译（通行“处所”，与 Physics 卷四语境一致）
+- **place (topos)**（行 4765，现译「位置」）｜ MERGE ｜ 与 place (Aristotelian topos) 行（行 4764）重复登记（同为 topos，crescas 语境亦系亚里士多德传统）；并入该行并统一作“处所”
+- **polarity**（行 4804，现译「两极」）｜ FLAG ｜ 用语三义混杂：zhu-xi:519 为 supreme polarity（太极，现译“两极”不达）、linguistics（montague-semantics:501、disjunction:1761）为 polarity items（极性项）、辩证论／美学为两极（对偶）；单行“两极”不能覆盖，须分行登记
 - **pollae myŏnmok（本來面目）**（行 4811，现译「本来面目」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **polyadic**（行 4813，现译「多元逻辑（与 monadic=一元逻辑配对）」）｜ FLAG ｜ 现译“多元逻辑”仅覆盖 polyadic logic（kant-mathematics:796）；另两处用语为 polyadic relations（peirce-logic:233，多元关系）与 polyadic quantifier（generalized-quantifiers:591，多元量词），须改主译“多元的”或按义分行
+- **polytheism**（行 4819，现译「多神教」）｜ FLAG ｜ 与 monotheism 行（行 3990，一神论）族内不一：现译“多神教”落宗教形态义，宜作“多神论”与一神论对齐（或两行同改 -教 形并全族登记）
+- **population thinking**（行 4825，现译「群体思维」）｜ FLAG ｜ 进化生物学 Mayr 语境界通行“种群思维”（population 生物学作“种群”），现译“群体思维”与 population health 行（行 4824，群体健康，公共卫生义）撞形且失生物义；须分行并改译
+- **Port-Royal Logic**（行 4830，现译「《波尔-罗亚尔逻辑》（国内亦称“王港逻辑”）」）｜ FIX ｜ 连接号按 ADR-0041 一字线：《波尔-罗亚尔逻辑》→《波尔—罗亚尔逻辑》
 - **positing (Setzung)**（行 4832，现译「设定」）｜ FLAG ｜ 主译撞形：“设定”同时对应 positio；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **positio**（行 4833，现译「设定（保留拉丁原词）」）｜ FLAG ｜ 主译撞形：“设定”同时对应 positing (Setzung)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **possible world**（行 4847，现译「可能世界」）｜ FLAG ｜ 主译撞形：“可能世界”同时对应 possible worlds / possible world；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **possible worlds / possible world**（行 4848，现译「可能世界」）｜ FLAG ｜ 主译撞形：“可能世界”同时对应 possible world；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **possible worlds / possible world**（行 4848，现译「可能世界」）｜ MERGE ｜ 与 possible world 行（行 4847）同一概念、同译“可能世界”，仅复数形重复登记；并入 possible world 行
 - **post-knowledge cognition（bcad shes）**（行 4854，现译「已决识（bcad shes）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
-- **poverty of stimulus**（行 4871，现译「刺激贫乏」）｜ FLAG ｜ 主译撞形：“刺激贫乏”同时对应 poverty of the stimulus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **poverty of stimulus**（行 4871，现译「刺激贫乏」）｜ MERGE ｜ 与 poverty of the stimulus 行（行 4872）同一概念（标准式含 the），同译“刺激贫乏”；并入该行（保留“亦作刺激贫乏论”）
 - **poverty of the stimulus**（行 4872，现译「刺激贫乏（亦作“刺激贫乏论”）」）｜ FLAG ｜ 主译撞形：“刺激贫乏”同时对应 poverty of stimulus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **practical philosophy**（行 4884，现译「实践哲学」）｜ FLAG ｜ 主译撞形：“实践哲学”同时对应 philosophy of praxis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **practical wisdom**（行 4888，现译「实践智慧」）｜ FLAG ｜ 主译撞形：“实践智慧”同时对应 phronêsis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并

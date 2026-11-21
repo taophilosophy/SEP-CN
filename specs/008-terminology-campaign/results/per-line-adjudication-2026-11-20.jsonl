@@ -3729,26 +3729,206 @@
 {"key": "pertension", "line": 4686, "v": "KEEP", "zh": "pertension（保留英文；分体延展备查）", "orig": "—", "note": null, "sheet": "r18"}
 {"key": "perturbation", "line": 4687, "v": "KEEP", "zh": "摄动", "orig": "—", "note": null, "sheet": "r18"}
 {"key": "pessimism", "line": 4688, "v": "KEEP", "zh": "悲观主义", "orig": "—", "note": null, "sheet": "r18"}
-{"key": "phantasia", "line": 4696, "v": "FLAG", "zh": "表象", "orig": "—", "note": "主译撞形：“表象”同时对应 Vorstellung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "phantasia（经院内感官语境）", "line": 4697, "v": "FLAG", "zh": "想象（能力）", "orig": "phantasia", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "phantasm", "line": 4698, "v": "FLAG", "zh": "幻象", "orig": "phantasma", "note": "主译撞形：“幻象”同时对应 illusion、phantasma；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "phantasma", "line": 4699, "v": "FLAG", "zh": "幻象", "orig": "—", "note": "主译撞形：“幻象”同时对应 illusion、phantasm；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "phantasmata", "line": 4700, "v": "FLAG", "zh": "影像", "orig": "φαντάσματα", "note": "主译撞形：“影像”同时对应 eidôla、idola、simulacra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "philosophy of praxis", "line": 4731, "v": "FLAG", "zh": "实践哲学", "orig": "—", "note": "主译撞形：“实践哲学”同时对应 practical philosophy；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "phronêsis", "line": 4742, "v": "FLAG", "zh": "实践智慧（亦作“明智”）", "orig": "φρόνησις", "note": "主译撞形：“实践智慧”同时对应 practical wisdom；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "phusis", "line": 4743, "v": "FLAG", "zh": "自然", "orig": "φύσις", "note": "主译撞形：“自然”同时对应 ziran；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "place (Aristotelian topos)", "line": 4764, "v": "FLAG", "zh": "处所", "orig": "—", "note": "主译撞形：“处所”同时对应 pakṣa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "place (topos)", "line": 4765, "v": "FLAG", "zh": "位置", "orig": "—", "note": "主译撞形：“位置”同时对应 makān；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "pollae myŏnmok（本來面目）", "line": 4811, "v": "FLAG", "zh": "本来面目", "orig": "本來面目", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "positing (Setzung)", "line": 4832, "v": "FLAG", "zh": "设定", "orig": "Setzung", "note": "主译撞形：“设定”同时对应 positio；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "positio", "line": 4833, "v": "FLAG", "zh": "设定（保留拉丁原词）", "orig": "—", "note": "主译撞形：“设定”同时对应 positing (Setzung)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "possible world", "line": 4847, "v": "FLAG", "zh": "可能世界", "orig": "—", "note": "主译撞形：“可能世界”同时对应 possible worlds / possible world；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "possible worlds / possible world", "line": 4848, "v": "FLAG", "zh": "可能世界", "orig": "—", "note": "主译撞形：“可能世界”同时对应 possible world；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "post-knowledge cognition（bcad shes）", "line": 4854, "v": "FLAG", "zh": "已决识（bcad shes）", "orig": "བཅད་ཤེས་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "poverty of stimulus", "line": 4871, "v": "FLAG", "zh": "刺激贫乏", "orig": "—", "note": "主译撞形：“刺激贫乏”同时对应 poverty of the stimulus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "poverty of the stimulus", "line": 4872, "v": "FLAG", "zh": "刺激贫乏（亦作“刺激贫乏论”）", "orig": "—", "note": "主译撞形：“刺激贫乏”同时对应 poverty of stimulus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "practical philosophy", "line": 4884, "v": "FLAG", "zh": "实践哲学", "orig": "—", "note": "主译撞形：“实践哲学”同时对应 philosophy of praxis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "practical wisdom", "line": 4888, "v": "FLAG", "zh": "实践智慧", "orig": "—", "note": "主译撞形：“实践智慧”同时对应 phronêsis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "pessimism concerning aesthetic testimony", "line": 4689, "v": "KEEP", "zh": "审美证言悲观论（pessimist 悲观论者）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "petites perceptions", "line": 4690, "v": "KEEP", "zh": "微知觉", "orig": "petites perceptions", "note": null, "sheet": "r19"}
+{"key": "petitionary prayer", "line": 4691, "v": "KEEP", "zh": "祈求式祷告", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "petitioner", "line": 4692, "v": "KEEP", "zh": "祈求者", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Petőfi Circle", "line": 4693, "v": "KEEP", "zh": "裴多菲俱乐部", "orig": "Petőfi Circle", "note": null, "sheet": "r19"}
+{"key": "Petrine mandate", "line": 4694, "v": "KEEP", "zh": "彼得托付", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Phaedo", "line": 4695, "v": "KEEP", "zh": "《斐多篇》", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phantasia", "line": 4696, "v": "FLAG", "zh": "表象", "orig": "—", "note": "主译撞形：“表象”同时对应 Vorstellung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
+{"key": "phantasia（经院内感官语境）", "line": 4697, "v": "FLAG", "zh": "想象（能力）", "orig": "phantasia", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r19"}
+{"key": "phantasm", "line": 4698, "v": "FLAG", "zh": "幻象", "orig": "phantasma", "note": "主译撞形：“幻象”同时对应 illusion、phantasma；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
+{"key": "phantasma", "line": 4699, "v": "MERGE", "zh": "幻象", "orig": "—", "note": "与 phantasm 行（行 4698，原文 phantasma）同词异形、同译“幻象”；并入 phantasm 行（phantasmata 行 4700 之“影像”系希腊复数伊壁鸠鲁义，分域保留）", "sheet": "r19"}
+{"key": "phantasmata", "line": 4700, "v": "FLAG", "zh": "影像", "orig": "φαντάσματα", "note": "主译撞形：“影像”同时对应 eidôla、idola、simulacra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
+{"key": "phantasy", "line": 4701, "v": "KEEP", "zh": "幻想", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phantom limb", "line": 4702, "v": "KEEP", "zh": "幻肢", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phase semantics", "line": 4703, "v": "KEEP", "zh": "相语义", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phase space", "line": 4704, "v": "KEEP", "zh": "相空间", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phenomenal concept", "line": 4705, "v": "KEEP", "zh": "现象概念", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phenomenal concept strategy", "line": 4706, "v": "KEEP", "zh": "现象概念策略", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phenomenal consciousness", "line": 4707, "v": "KEEP", "zh": "现象意识", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Phenomenal Conservatism", "line": 4708, "v": "KEEP", "zh": "现象保守主义（亦作“现象保守论”）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phenomenal information", "line": 4709, "v": "KEEP", "zh": "现象信息", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phenomenalism", "line": 4710, "v": "KEEP", "zh": "现象主义", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Phenomenological Approaches", "line": 4711, "v": "KEEP", "zh": "现象学方法", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phenomenological puzzle", "line": 4712, "v": "KEEP", "zh": "现象学谜题", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phenomenology", "line": 4713, "v": "KEEP", "zh": "现象学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phenomenology of mind", "line": 4714, "v": "KEEP", "zh": "《精神现象学》（黑格尔）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phenotype", "line": 4715, "v": "KEEP", "zh": "表型", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Phenotypic plasticity", "line": 4716, "v": "KEEP", "zh": "表型可塑性", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phenotypic variation", "line": 4717, "v": "KEEP", "zh": "表型变异", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Philebus", "line": 4718, "v": "KEEP", "zh": "《斐莱布篇》（亦作“菲莱布篇”）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "philia", "line": 4719, "v": "KEEP", "zh": "友爱（亦作“爱”）", "orig": "φιλία", "note": null, "sheet": "r19"}
+{"key": "philology", "line": 4720, "v": "KEEP", "zh": "语文学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "philonikia", "line": 4721, "v": "KEEP", "zh": "好胜（philonikia，φιλονικία）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "philosophia perennis", "line": 4722, "v": "KEEP", "zh": "常青哲学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "philosophical anarchism", "line": 4723, "v": "KEEP", "zh": "哲学无政府主义", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Philosophical anthropology", "line": 4724, "v": "KEEP", "zh": "哲学人类学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "philosophical faith", "line": 4725, "v": "KEEP", "zh": "哲学信仰", "orig": "philosophischer Glaube", "note": null, "sheet": "r19"}
+{"key": "philosophical hermeneutics", "line": 4726, "v": "KEEP", "zh": "哲学诠释学（亦作“哲学解释学”）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "philosophical psychology", "line": 4727, "v": "KEEP", "zh": "哲学心理学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Philosophy and Logical Syntax", "line": 4728, "v": "KEEP", "zh": "《哲学与逻辑句法》", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Philosophy and the Physicists", "line": 4729, "v": "KEEP", "zh": "《哲学与物理学家》", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "philosophy of life", "line": 4730, "v": "KEEP", "zh": "生命哲学", "orig": "Lebensphilosophie", "note": null, "sheet": "r19"}
+{"key": "philosophy of praxis", "line": 4731, "v": "FLAG", "zh": "实践哲学", "orig": "—", "note": "主译撞形：“实践哲学”同时对应 practical philosophy；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
+{"key": "philosophy of reflection", "line": 4732, "v": "KEEP", "zh": "反思哲学", "orig": "Reflexionsphilosophie", "note": null, "sheet": "r19"}
+{"key": "philosophy of right", "line": 4733, "v": "KEEP", "zh": "法哲学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Philosophy of Sport", "line": 4734, "v": "KEEP", "zh": "体育哲学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Philosophy of Statistical Mechanics", "line": 4735, "v": "KEEP", "zh": "统计力学哲学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Philosophy of Statistics", "line": 4736, "v": "KEEP", "zh": "统计学哲学（亦作“统计哲学”）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Philosophy of Technology", "line": 4737, "v": "KEEP", "zh": "技术哲学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "philosophy of the will", "line": 4738, "v": "KEEP", "zh": "意志哲学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phlogiston", "line": 4739, "v": "KEEP", "zh": "燃素", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Phoronomy", "line": 4740, "v": "KEEP", "zh": "运动学（康德《形而上学基础》首章章名；源文本章即以 kinematics 释之）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phosphene", "line": 4741, "v": "KEEP", "zh": "光幻视", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phronêsis", "line": 4742, "v": "FLAG", "zh": "实践智慧（亦作“明智”）", "orig": "φρόνησις", "note": "主译撞形：“实践智慧”同时对应 practical wisdom；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
+{"key": "phusis", "line": 4743, "v": "FLAG", "zh": "自然", "orig": "φύσις", "note": "主译撞形：“自然”同时对应 ziran；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
+{"key": "phylogenetic relatedness", "line": 4744, "v": "KEEP", "zh": "系统发生亲缘关系", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "phylogeny", "line": 4745, "v": "KEEP", "zh": "系统发生", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "physical influx", "line": 4746, "v": "KEEP", "zh": "物理流入（说）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "physical information", "line": 4747, "v": "KEEP", "zh": "物理信息", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Physical Monadology", "line": 4748, "v": "KEEP", "zh": "《物理单子论》", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "physical quantity", "line": 4749, "v": "KEEP", "zh": "物理量", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "physical states", "line": 4750, "v": "KEEP", "zh": "物理状态（与 mental states 相对）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "physicalism", "line": 4751, "v": "KEEP", "zh": "物理主义", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "physician-assisted suicide", "line": 4752, "v": "KEEP", "zh": "医师协助自杀", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Physics", "line": 4753, "v": "KEEP", "zh": "《物理学》", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "physiocracy", "line": 4754, "v": "KEEP", "zh": "重农学派（重农主义）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "physiognomy", "line": 4755, "v": "KEEP", "zh": "相面术", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "physiologos / physiologoi", "line": 4756, "v": "KEEP", "zh": "论自然者（前苏格拉底自然哲学家）", "orig": "φυσιολόγος / φυσιολόγοι", "note": null, "sheet": "r19"}
+{"key": "pia philosophia", "line": 4757, "v": "KEEP", "zh": "虔敬哲学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "piagnoni", "line": 4758, "v": "KEEP", "zh": "痛哭者（亦作“悲叹派”）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "picturesque", "line": 4759, "v": "KEEP", "zh": "如画（亦作“如画性”）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Pietism", "line": 4760, "v": "KEEP", "zh": "虔敬派", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pietist", "line": 4761, "v": "KEEP", "zh": "虔信者", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pivotal", "line": 4762, "v": "KEEP", "zh": "关键性的", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pixelation", "line": 4763, "v": "KEEP", "zh": "像素化", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "place (Aristotelian topos)", "line": 4764, "v": "FLAG", "zh": "处所", "orig": "—", "note": "与 place (topos) 行（行 4765）同为亚里士多德 topos，却分译“处所／位置”；须合键并统一主译（通行“处所”，与 Physics 卷四语境一致）", "sheet": "r19"}
+{"key": "place (topos)", "line": 4765, "v": "MERGE", "zh": "位置", "orig": "—", "note": "与 place (Aristotelian topos) 行（行 4764）重复登记（同为 topos，crescas 语境亦系亚里士多德传统）；并入该行并统一作“处所”", "sheet": "r19"}
+{"key": "placebo effect", "line": 4766, "v": "KEEP", "zh": "安慰剂效应", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "placeholder", "line": 4767, "v": "KEEP", "zh": "占位符", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "plagiarism", "line": 4768, "v": "KEEP", "zh": "剽窃", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Plague", "line": 4769, "v": "KEEP", "zh": "《鼠疫》", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Plastic Nature", "line": 4770, "v": "KEEP", "zh": "塑形自然", "orig": "the Plastick Life of Nature", "note": null, "sheet": "r19"}
+{"key": "plasticity", "line": 4771, "v": "KEEP", "zh": "可塑性", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Platonic ideas", "line": 4772, "v": "KEEP", "zh": "柏拉图式理念", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Platonism", "line": 4773, "v": "KEEP", "zh": "柏拉图主义", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Platonists", "line": 4774, "v": "KEEP", "zh": "柏拉图主义者", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "plausibility", "line": 4775, "v": "KEEP", "zh": "可信性（prima facie plausibility → 初步可信性）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "play", "line": 4776, "v": "KEEP", "zh": "游戏（伽达默尔/美学语境；Spiel）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pleasure in beauty", "line": 4777, "v": "KEEP", "zh": "对美的愉悦", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "plenists", "line": 4778, "v": "KEEP", "zh": "充盈论者", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "plenitude of power", "line": 4779, "v": "KEEP", "zh": "权力充盈（教皇全权）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "plenum", "line": 4780, "v": "KEEP", "zh": "充实", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "plenum theory", "line": 4781, "v": "KEEP", "zh": "充实论", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pleonexia", "line": 4782, "v": "KEEP", "zh": "贪得（亦作“攫取过度”）", "orig": "πλεονεξία", "note": null, "sheet": "r19"}
+{"key": "plural anaphora", "line": 4783, "v": "KEEP", "zh": "复数回指", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "plural logic", "line": 4784, "v": "KEEP", "zh": "复数逻辑", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pluralism", "line": 4785, "v": "KEEP", "zh": "多元主义", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pluralist", "line": 4786, "v": "KEEP", "zh": "多元论者", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pluralist theories", "line": 4787, "v": "KEEP", "zh": "多元论", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pluralistic ignorance", "line": 4788, "v": "KEEP", "zh": "多元无知", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "plurality of forms", "line": 4789, "v": "KEEP", "zh": "形式的多样性", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "plurality rule", "line": 4790, "v": "KEEP", "zh": "相对多数规则", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pluripotent stem cell", "line": 4791, "v": "KEEP", "zh": "多能干细胞", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pneuma", "line": 4792, "v": "KEEP", "zh": "普纽玛", "orig": "πνεῦμα", "note": null, "sheet": "r19"}
+{"key": "poetic discourse", "line": 4793, "v": "KEEP", "zh": "诗性话语", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "poetic wisdom", "line": 4794, "v": "KEEP", "zh": "诗性智慧（维柯）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "poetics", "line": 4795, "v": "KEEP", "zh": "诗学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "poetics of the will", "line": 4796, "v": "KEEP", "zh": "意志的诗学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Poincaré transformations", "line": 4797, "v": "KEEP", "zh": "庞加莱变换", "orig": "Poincaré transformations", "note": null, "sheet": "r19"}
+{"key": "point-coincidence argument", "line": 4798, "v": "KEEP", "zh": "点重合论证", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "point-mass", "line": 4799, "v": "KEEP", "zh": "质点", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pointed model", "line": 4800, "v": "KEEP", "zh": "点模型（亦作“带点模型”）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pointer basis", "line": 4801, "v": "KEEP", "zh": "指针基", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pointer observable", "line": 4802, "v": "KEEP", "zh": "指针可观测量", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pointer variable", "line": 4803, "v": "KEEP", "zh": "指针变量", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "polarity", "line": 4804, "v": "FLAG", "zh": "两极", "orig": "—", "note": "用语三义混杂：zhu-xi:519 为 supreme polarity（太极，现译“两极”不达）、linguistics（montague-semantics:501、disjunction:1761）为 polarity items（极性项）、辩证论／美学为两极（对偶）；单行“两极”不能覆盖，须分行登记", "sheet": "r19"}
+{"key": "polarization", "line": 4805, "v": "KEEP", "zh": "偏振", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "polis", "line": 4806, "v": "KEEP", "zh": "城邦", "orig": "πόλις", "note": null, "sheet": "r19"}
+{"key": "Polish notation", "line": 4807, "v": "KEEP", "zh": "波兰记法", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "political philosophy", "line": 4808, "v": "KEEP", "zh": "政治哲学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "political self-determination", "line": 4809, "v": "KEEP", "zh": "政治自决", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "politics of recognition", "line": 4810, "v": "KEEP", "zh": "承认政治", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pollae myŏnmok（本來面目）", "line": 4811, "v": "FLAG", "zh": "本来面目", "orig": "本來面目", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r19"}
+{"key": "polumathiê", "line": 4812, "v": "KEEP", "zh": "博闻多识", "orig": "polumathiê", "note": null, "sheet": "r19"}
+{"key": "polyadic", "line": 4813, "v": "FLAG", "zh": "多元逻辑（与 monadic=一元逻辑配对）", "orig": "—", "note": "现译“多元逻辑”仅覆盖 polyadic logic（kant-mathematics:796）；另两处用语为 polyadic relations（peirce-logic:233，多元关系）与 polyadic quantifier（generalized-quantifiers:591，多元量词），须改主译“多元的”或按义分行", "sheet": "r19"}
+{"key": "polyadic algebra", "line": 4814, "v": "KEEP", "zh": "多元代数", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "polycentric", "line": 4815, "v": "KEEP", "zh": "多中心", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "polymorphism", "line": 4816, "v": "KEEP", "zh": "多态性", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "polyp", "line": 4817, "v": "KEEP", "zh": "息肉", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "polyphony", "line": 4818, "v": "KEEP", "zh": "复调", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "polytheism", "line": 4819, "v": "FLAG", "zh": "多神教", "orig": "—", "note": "与 monotheism 行（行 3990，一神论）族内不一：现译“多神教”落宗教形态义，宜作“多神论”与一神论对齐（或两行同改 -教 形并全族登记）", "sheet": "r19"}
+{"key": "pooled sovereignty", "line": 4820, "v": "KEEP", "zh": "汇集主权", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pooling", "line": 4821, "v": "KEEP", "zh": "权能汇集（亦作“权力池化”）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Popularphilosophie", "line": 4822, "v": "KEEP", "zh": "大众哲学（通俗哲学）", "orig": "Popularphilosophie", "note": null, "sheet": "r19"}
+{"key": "population ethics", "line": 4823, "v": "KEEP", "zh": "人口伦理学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "population health", "line": 4824, "v": "KEEP", "zh": "群体健康", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "population thinking", "line": 4825, "v": "FLAG", "zh": "群体思维", "orig": "—", "note": "进化生物学 Mayr 语境界通行“种群思维”（population 生物学作“种群”），现译“群体思维”与 population health 行（行 4824，群体健康，公共卫生义）撞形且失生物义；须分行并改译", "sheet": "r19"}
+{"key": "populism", "line": 4826, "v": "KEEP", "zh": "民粹主义", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pornographic art", "line": 4827, "v": "KEEP", "zh": "色情艺术", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "pornography", "line": 4828, "v": "KEEP", "zh": "色情", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "poroi", "line": 4829, "v": "KEEP", "zh": "通道", "orig": "πόροι", "note": null, "sheet": "r19"}
+{"key": "Port-Royal Logic", "line": 4830, "v": "FIX", "zh": "《波尔-罗亚尔逻辑》（国内亦称“王港逻辑”）", "orig": "La Logique ou l’Art de penser", "note": "连接号按 ADR-0041 一字线：《波尔-罗亚尔逻辑》→《波尔—罗亚尔逻辑》", "sheet": "r19"}
+{"key": "portfolio analysis", "line": 4831, "v": "KEEP", "zh": "组合分析", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "positing (Setzung)", "line": 4832, "v": "FLAG", "zh": "设定", "orig": "Setzung", "note": "主译撞形：“设定”同时对应 positio；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
+{"key": "positio", "line": 4833, "v": "FLAG", "zh": "设定（保留拉丁原词）", "orig": "—", "note": "主译撞形：“设定”同时对应 positing (Setzung)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
+{"key": "positional duties", "line": 4834, "v": "KEEP", "zh": "岗位职责", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "positive aesthetics", "line": 4835, "v": "KEEP", "zh": "肯定美学", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "positive correlation", "line": 4836, "v": "KEEP", "zh": "正相关", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "positive heuristic", "line": 4837, "v": "KEEP", "zh": "正面启发法", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "positive law", "line": 4838, "v": "KEEP", "zh": "实在法（亦作“实定法”；与自然法相对）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "positive/negative/neutral/hypothetical analogy", "line": 4839, "v": "KEEP", "zh": "正类比／负类比／中性类比／假说类比", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "positivism", "line": 4840, "v": "KEEP", "zh": "实证主义", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "positivism dispute", "line": 4841, "v": "KEEP", "zh": "实证主义论争", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "possibilia", "line": 4842, "v": "KEEP", "zh": "可能物", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Possibilism", "line": 4843, "v": "KEEP", "zh": "可能论（模态形而上学；伦理学语境词条定名作“可能性主义”）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "possibilist", "line": 4844, "v": "KEEP", "zh": "可能论者", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "possible intellect", "line": 4845, "v": "KEEP", "zh": "可能理智", "orig": "intellectus possibilis", "note": null, "sheet": "r19"}
+{"key": "possible object", "line": 4846, "v": "KEEP", "zh": "可能对象", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "possible world", "line": 4847, "v": "FLAG", "zh": "可能世界", "orig": "—", "note": "主译撞形：“可能世界”同时对应 possible worlds / possible world；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
+{"key": "possible worlds / possible world", "line": 4848, "v": "MERGE", "zh": "可能世界", "orig": "—", "note": "与 possible world 行（行 4847）同一概念、同译“可能世界”，仅复数形重复登记；并入 possible world 行", "sheet": "r19"}
+{"key": "post market surveillance", "line": 4849, "v": "KEEP", "zh": "上市后监管", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "post rem universals", "line": 4850, "v": "KEEP", "zh": "后于事物的共相", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "post-colonial theory", "line": 4851, "v": "KEEP", "zh": "后殖民理论", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Post-colonialism", "line": 4852, "v": "KEEP", "zh": "后殖民主义", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "post-critical period", "line": 4853, "v": "KEEP", "zh": "后批判时期", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "post-knowledge cognition（bcad shes）", "line": 4854, "v": "FLAG", "zh": "已决识（bcad shes）", "orig": "བཅད་ཤེས་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r19"}
+{"key": "Post-Newtonian", "line": 4855, "v": "KEEP", "zh": "后牛顿（亦作“后牛顿近似”）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Posterior Analytics", "line": 4856, "v": "KEEP", "zh": "《后分析篇》（亚里士多德）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "posterior probability", "line": 4857, "v": "KEEP", "zh": "后验概率", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "postgenomic", "line": 4858, "v": "KEEP", "zh": "后基因组的", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "posthumous interests", "line": 4859, "v": "KEEP", "zh": "身后利益（亦作“死后利益”）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Postmodernism", "line": 4860, "v": "KEEP", "zh": "后现代主义", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "postnational", "line": 4861, "v": "KEEP", "zh": "后民族", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "postulate", "line": 4862, "v": "KEEP", "zh": "公设", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "postulate system", "line": 4863, "v": "KEEP", "zh": "公设系统", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "postulational analysis", "line": 4864, "v": "KEEP", "zh": "公设式分析", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "potentia coactiva", "line": 4865, "v": "KEEP", "zh": "强制权力", "orig": "potentia coactiva", "note": null, "sheet": "r19"}
+{"key": "potentia dei absoluta / ordinata", "line": 4866, "v": "KEEP", "zh": "上帝绝对能力/有序能力", "orig": "potentia dei absoluta / ordinata", "note": null, "sheet": "r19"}
+{"key": "potential choice function", "line": 4867, "v": "KEEP", "zh": "潜在选择函数", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "potential falsifier", "line": 4868, "v": "KEEP", "zh": "潜在证伪者", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "potential infinity", "line": 4869, "v": "KEEP", "zh": "潜无限（亦作“潜无穷”）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "potentiality", "line": 4870, "v": "KEEP", "zh": "潜能", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "poverty of stimulus", "line": 4871, "v": "MERGE", "zh": "刺激贫乏", "orig": "—", "note": "与 poverty of the stimulus 行（行 4872）同一概念（标准式含 the），同译“刺激贫乏”；并入该行（保留“亦作刺激贫乏论”）", "sheet": "r19"}
+{"key": "poverty of the stimulus", "line": 4872, "v": "FLAG", "zh": "刺激贫乏（亦作“刺激贫乏论”）", "orig": "—", "note": "主译撞形：“刺激贫乏”同时对应 poverty of stimulus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
+{"key": "POVM", "line": 4873, "v": "KEEP", "zh": "正算子值测度", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "power set", "line": 4874, "v": "KEEP", "zh": "幂集", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "powerful qualities", "line": 4875, "v": "KEEP", "zh": "力量性质（亦作“有力性质”）", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "Prābhākara", "line": 4876, "v": "KEEP", "zh": "钵罗跋迦罗派", "orig": "प्राभाकर", "note": null, "sheet": "r19"}
+{"key": "practical commitment", "line": 4877, "v": "KEEP", "zh": "实践承诺", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "practical faith", "line": 4878, "v": "KEEP", "zh": "实践信仰", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "practical identity", "line": 4879, "v": "KEEP", "zh": "实践同一性", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "practical know-how", "line": 4880, "v": "KEEP", "zh": "实践诀窍", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "practical knowledge", "line": 4881, "v": "KEEP", "zh": "实践知识", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "practical mode of presentation", "line": 4882, "v": "KEEP", "zh": "实践呈现方式", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "practical past", "line": 4883, "v": "KEEP", "zh": "实践过去", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "practical philosophy", "line": 4884, "v": "FLAG", "zh": "实践哲学", "orig": "—", "note": "主译撞形：“实践哲学”同时对应 philosophy of praxis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
+{"key": "practical rationality", "line": 4885, "v": "KEEP", "zh": "实践合理性", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "practical reason", "line": 4886, "v": "KEEP", "zh": "实践理性", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "practical reasoning", "line": 4887, "v": "KEEP", "zh": "实践推理", "orig": "—", "note": null, "sheet": "r19"}
+{"key": "practical wisdom", "line": 4888, "v": "FLAG", "zh": "实践智慧", "orig": "—", "note": "主译撞形：“实践智慧”同时对应 phronêsis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
 {"key": "prajñapti", "line": 4900, "v": "FLAG", "zh": "假立（施设）", "orig": "प्रज्ञप्ति", "note": "主译撞形：“假立”同时对应 upādhi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "prakāra", "line": 4901, "v": "FLAG", "zh": "能别（特征）", "orig": "प्रकार", "note": "主译撞形：“能别”同时对应 viśeṣaṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "pramāṇa", "line": 4903, "v": "FLAG", "zh": "量论", "orig": "प्रमाण", "note": "主译撞形：“量论”同时对应 pramāṇavāda；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
