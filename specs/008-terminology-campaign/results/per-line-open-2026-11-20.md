@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 1584，FLAG 686，FIX 23，MERGE 4
+判定分布：KEEP 1754，FLAG 689，FIX 24，MERGE 4
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -351,13 +351,15 @@
 - **hwajaeng（和諍）**（行 2832，现译「和诤」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **hypersequent**（行 2842，现译「超矢列」）｜ FLAG ｜ 矢列／序列族混用：hypersequent＝超矢列而 sequent（r06）＝序列；联动 r06 sequent FLAG，统一为矢列系或序列系
 - **hypostasized**（行 2848，现译「实体化」）｜ FLAG ｜ 主译撞形：“实体化”同时对应 hypostatisation、reify、substantialization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **hypostatisation**（行 2849，现译「实体化」）｜ FLAG ｜ 主译撞形：“实体化”同时对应 hypostasized、reify、substantialization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **idea**（行 2867，现译「理念（柏拉图-黑格尔传统）；观念（经验论语境）」）｜ FLAG ｜ 亦作“观念”与 notio 的主译撞形；删该亦作或改主译
-- **ideal element**（行 2870，现译「理想元素」）｜ FLAG ｜ 主译撞形：“理想元素”同时对应 ideal elements；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **ideal elements**（行 2871，现译「理想元素」）｜ FLAG ｜ 主译撞形：“理想元素”同时对应 ideal element；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **hypostatisation**（行 2849，现译「实体化」）｜ FLAG ｜ 与 hypostasized 行（行 2848）同词根同译“实体化”撞形；须合键或分行设计
+- **hypothetico-deductive**（行 2855，现译「假设演绎」）｜ FLAG ｜ 族内不一：hypothetico-deductive＝假设演绎而 hypothetico-deductivism＝假说—演绎主义；通行“假设演绎（法）／假说演绎”，须族内统一
+- **hypothetico-deductivism**（行 2856，现译「假说—演绎主义」）｜ FLAG ｜ 同 hypothetico-deductive 族问题（假设演绎／假说—演绎主义不一），须族内统一
+- **idea**（行 2867，现译「理念（柏拉图-黑格尔传统）；观念（经验论语境）」）｜ FIX ｜ 括注连接号按 ADR-0041 一字线：柏拉图-黑格尔传统 → 柏拉图—黑格尔传统
+- **ideal element**（行 2870，现译「理想元素」）｜ FLAG ｜ 与 ideal elements 行（行 2871）单复数两行同译“理想元素”（均 hilbert-program 语境）；须合键
+- **ideal elements**（行 2871，现译「理想元素」）｜ FLAG ｜ 同 ideal element 行问题（单复数两行同译），须合键
 - **identity theory**（行 2894，现译「同一论」）｜ FLAG ｜ 主译撞形：“同一论”同时对应 identity theory (of truth)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **identity theory (of truth)**（行 2895，现译「同一论」）｜ FLAG ｜ 主译撞形：“同一论”同时对应 identity theory；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **idola**（行 2900，现译「影像」）｜ FLAG ｜ 主译撞形：“影像”同时对应 eidôla、phantasmata、simulacra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **identity theory (of truth)**（行 2895，现译「同一论」）｜ FLAG ｜ 与 identity theory 行（行 2894）同译“同一论”主译撞形：mind-identity 心灵义 vs truth-identity 真理义异域分行；须分行区分性译法（心灵同一论／真理同一论），归撞形队列
+- **idola**（行 2900，现译「影像」）｜ FLAG ｜ 通行作“偶像”（培根四偶像 idola fori 等，lvov-warsaw:1077 用语即 idola fori），现译“影像”与 eidôla 行撞形；须查证裁定
 - **ignoratio elenchi**（行 2905，现译「拉丁原文保留（不相干谬误）」）｜ FLAG ｜ 主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、jus、lex、respublica、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **illusion**（行 2917，现译「幻象」）｜ FLAG ｜ 主译撞形：“幻象”同时对应 phantasm、phantasma；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Imagination**（行 2918，现译「想象」）｜ FLAG ｜ 主译撞形：“想象”同时对应 phantasia（经院内感官语境）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
@@ -371,10 +373,12 @@
 - **imprecise probability (IP) models**（行 2957，现译「非精确概率（IP）模型」）｜ FLAG ｜ 主译撞形：“非精确概率”同时对应 imprecise probabilities；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **inclination**（行 2968，现译「倾向」）｜ FLAG ｜ 主译撞形：“倾向”同时对应 propensity (interpretation of fitness)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **incommensurability**（行 2972，现译「不可通约性」）｜ FLAG ｜ 主译撞形：“不可通约性”同时对应 Incommensurable；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Incommensurable**（行 2973，现译「不可通约性」）｜ FLAG ｜ 主译撞形：“不可通约性”同时对应 incommensurability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Incommensurable**（行 2973，现译「不可通约性」）｜ FLAG ｜ 与 incommensurability 行同译“不可通约性”撞形；本行应作形容词义“不可通约的（价值）”，须分行区分
+- **Indalmoi**（行 2984，现译「《影像》」）｜ FLAG ｜ Indalmoi 系希腊词（皮浪派幻象／影像义，timon-phlius 语境），非著作名；现译加书名号《影像》疑误，须核对后去书名号或改译
 - **indeterminism**（行 2994，现译「非决定论」）｜ FLAG ｜ 主译撞形：“非决定论”同时对应 non-determinism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **index number**（行 2996，现译「指数」）｜ FLAG ｜ 主译撞形：“指数”同时对应 exponential；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **individualism**（行 3007，现译「个人主义」）｜ FLAG ｜ 主译撞形：“个人主义”同时对应 personalist；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **individualist**（行 3008，现译「个体主义者」）｜ FLAG ｜ 族内不一：individualism＝个人主义而 individualist＝个体主义者；通行 individualist 个人主义者，须统一“个人”系或按域
 - **infinite regress**（行 3049，现译「无穷倒退（亦作“无限倒退”“无限回溯”）」）｜ FLAG ｜ 主译撞形：“无穷倒退”同时对应 anavasthā；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **influx (celestial)**（行 3053，现译「流入（天体）」）｜ FLAG ｜ 主译撞形：“流入”同时对应 āsrava；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **insolubilia**（行 3092，现译「不可解问题（亦作“不可解命题”）」）｜ FLAG ｜ 亦作“不可解命题”与 insolubles 的主译撞形；删该亦作或改主译

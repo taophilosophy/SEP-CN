@@ -1929,32 +1929,206 @@
 {"key": "hypocycloidal pendulum", "line": 2846, "v": "KEEP", "zh": "内摆线摆", "orig": "—", "note": null, "sheet": "r09"}
 {"key": "hypostasis", "line": 2847, "v": "KEEP", "zh": "位格（神学语境）；本体／实体（哲学语境）", "orig": "—", "note": null, "sheet": "r09"}
 {"key": "hypostasized", "line": 2848, "v": "FLAG", "zh": "实体化", "orig": "—", "note": "主译撞形：“实体化”同时对应 hypostatisation、reify、substantialization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r09"}
-{"key": "hypostatisation", "line": 2849, "v": "FLAG", "zh": "实体化", "orig": "—", "note": "主译撞形：“实体化”同时对应 hypostasized、reify、substantialization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "idea", "line": 2867, "v": "FLAG", "zh": "理念（柏拉图-黑格尔传统）；观念（经验论语境）", "orig": "—", "note": "亦作“观念”与 notio 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
-{"key": "ideal element", "line": 2870, "v": "FLAG", "zh": "理想元素", "orig": "—", "note": "主译撞形：“理想元素”同时对应 ideal elements；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "ideal elements", "line": 2871, "v": "FLAG", "zh": "理想元素", "orig": "—", "note": "主译撞形：“理想元素”同时对应 ideal element；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "identity theory", "line": 2894, "v": "FLAG", "zh": "同一论", "orig": "—", "note": "主译撞形：“同一论”同时对应 identity theory (of truth)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "identity theory (of truth)", "line": 2895, "v": "FLAG", "zh": "同一论", "orig": "—", "note": "主译撞形：“同一论”同时对应 identity theory；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "idola", "line": 2900, "v": "FLAG", "zh": "影像", "orig": "idola", "note": "主译撞形：“影像”同时对应 eidôla、phantasmata、simulacra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "ignoratio elenchi", "line": 2905, "v": "FLAG", "zh": "拉丁原文保留（不相干谬误）", "orig": "ignoratio elenchi", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、jus、lex、respublica、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "illusion", "line": 2917, "v": "FLAG", "zh": "幻象", "orig": "—", "note": "主译撞形：“幻象”同时对应 phantasm、phantasma；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Imagination", "line": 2918, "v": "FLAG", "zh": "想象", "orig": "—", "note": "主译撞形：“想象”同时对应 phantasia（经院内感官语境）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "imitation", "line": 2922, "v": "FLAG", "zh": "模仿", "orig": "—", "note": "主译撞形：“模仿”同时对应 mimesis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "immediate perception", "line": 2930, "v": "FLAG", "zh": "直接知觉", "orig": "—", "note": "主译撞形：“直接知觉”同时对应 direct perception；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "immutability", "line": 2936, "v": "FLAG", "zh": "不变性", "orig": "—", "note": "主译撞形：“不变性”同时对应 invariance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "impermanence", "line": 2945, "v": "FLAG", "zh": "无常", "orig": "—", "note": "主译撞形：“无常”同时对应 anitya、mujō；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "impetus", "line": 2946, "v": "FLAG", "zh": "冲力", "orig": "—", "note": "主译撞形：“冲力”同时对应 vega；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "implication", "line": 2948, "v": "FLAG", "zh": "蕴涵", "orig": "—", "note": "主译撞形：“蕴涵”同时对应 entailment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "imprecise probabilities", "line": 2956, "v": "FLAG", "zh": "非精确概率（SUMMARY 定名沿用；学界亦作“不精确概率”）", "orig": "—", "note": "主译撞形：“非精确概率”同时对应 imprecise probability (IP) models；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "imprecise probability (IP) models", "line": 2957, "v": "FLAG", "zh": "非精确概率（IP）模型", "orig": "—", "note": "主译撞形：“非精确概率”同时对应 imprecise probabilities；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "inclination", "line": 2968, "v": "FLAG", "zh": "倾向", "orig": "—", "note": "主译撞形：“倾向”同时对应 propensity (interpretation of fitness)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "incommensurability", "line": 2972, "v": "FLAG", "zh": "不可通约性", "orig": "—", "note": "主译撞形：“不可通约性”同时对应 Incommensurable；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Incommensurable", "line": 2973, "v": "FLAG", "zh": "不可通约性", "orig": "—", "note": "主译撞形：“不可通约性”同时对应 incommensurability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "indeterminism", "line": 2994, "v": "FLAG", "zh": "非决定论", "orig": "—", "note": "主译撞形：“非决定论”同时对应 non-determinism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "index number", "line": 2996, "v": "FLAG", "zh": "指数", "orig": "—", "note": "主译撞形：“指数”同时对应 exponential；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "individualism", "line": 3007, "v": "FLAG", "zh": "个人主义", "orig": "—", "note": "主译撞形：“个人主义”同时对应 personalist；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "infinite regress", "line": 3049, "v": "FLAG", "zh": "无穷倒退（亦作“无限倒退”“无限回溯”）", "orig": "—", "note": "主译撞形：“无穷倒退”同时对应 anavasthā；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "influx (celestial)", "line": 3053, "v": "FLAG", "zh": "流入（天体）", "orig": "influxus", "note": "主译撞形：“流入”同时对应 āsrava；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "hypostatisation", "line": 2849, "v": "FLAG", "zh": "实体化", "orig": "—", "note": "与 hypostasized 行（行 2848）同词根同译“实体化”撞形；须合键或分行设计", "sheet": "r10"}
+{"key": "hypothetical certainty", "line": 2850, "v": "KEEP", "zh": "假设的确定性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "hypothetical consent", "line": 2851, "v": "KEEP", "zh": "假设同意", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "hypothetical judgement", "line": 2852, "v": "KEEP", "zh": "假言判断", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "hypothetical necessity", "line": 2853, "v": "KEEP", "zh": "假言必然性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Hypothetical Reasoning", "line": 2854, "v": "KEEP", "zh": "假说推理", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "hypothetico-deductive", "line": 2855, "v": "FLAG", "zh": "假设演绎", "orig": "—", "note": "族内不一：hypothetico-deductive＝假设演绎而 hypothetico-deductivism＝假说—演绎主义；通行“假设演绎（法）／假说演绎”，须族内统一", "sheet": "r10"}
+{"key": "hypothetico-deductivism", "line": 2856, "v": "FLAG", "zh": "假说—演绎主义", "orig": "—", "note": "同 hypothetico-deductive 族问题（假设演绎／假说—演绎主义不一），须族内统一", "sheet": "r10"}
+{"key": "hysteria", "line": 2857, "v": "KEEP", "zh": "癔症", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "I-language", "line": 2863, "v": "KEEP", "zh": "I-语言（亦作“内化语言”）", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "icchā", "line": 2864, "v": "KEEP", "zh": "欲", "orig": "इच्छा", "note": null, "sheet": "r10"}
+{"key": "icchantika", "line": 2865, "v": "KEEP", "zh": "一阐提", "orig": "इच्छन्तिक", "note": null, "sheet": "r10"}
+{"key": "icon veneration", "line": 2866, "v": "KEEP", "zh": "圣像崇拜", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "idea", "line": 2867, "v": "FIX", "zh": "理念（柏拉图-黑格尔传统）；观念（经验论语境）", "orig": "—", "note": "括注连接号按 ADR-0041 一字线：柏拉图-黑格尔传统 → 柏拉图—黑格尔传统", "sheet": "r10"}
+{"key": "idea of being", "line": 2868, "v": "KEEP", "zh": "存在观念", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "ideal character", "line": 2869, "v": "KEEP", "zh": "理想性格（亦作“理想性质”）", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "ideal element", "line": 2870, "v": "FLAG", "zh": "理想元素", "orig": "—", "note": "与 ideal elements 行（行 2871）单复数两行同译“理想元素”（均 hilbert-program 语境）；须合键", "sheet": "r10"}
+{"key": "ideal elements", "line": 2871, "v": "FLAG", "zh": "理想元素", "orig": "—", "note": "同 ideal element 行问题（单复数两行同译），须合键", "sheet": "r10"}
+{"key": "ideal language", "line": 2872, "v": "KEEP", "zh": "理想语言", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "ideal morality", "line": 2873, "v": "KEEP", "zh": "理想道德", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "ideal objects", "line": 2874, "v": "KEEP", "zh": "观念对象", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "ideal observer", "line": 2875, "v": "KEEP", "zh": "理想观察者", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Ideal Philosophy", "line": 2876, "v": "KEEP", "zh": "观念哲学", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "ideal proposition", "line": 2877, "v": "KEEP", "zh": "理想命题", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "ideal self", "line": 2878, "v": "KEEP", "zh": "理想自我", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "idealised evidential position", "line": 2879, "v": "KEEP", "zh": "理想化证据位置", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "idealism", "line": 2880, "v": "KEEP", "zh": "唯心论；观念论", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "idealism of freedom", "line": 2881, "v": "KEEP", "zh": "自由观念论", "orig": "Idealismus der Freiheit", "note": null, "sheet": "r10"}
+{"key": "idealistic positivism", "line": 2882, "v": "KEEP", "zh": "唯心论实证主义", "orig": "idealistischer Positivismus", "note": null, "sheet": "r10"}
+{"key": "ideality", "line": 2883, "v": "KEEP", "zh": "理想性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "idealization", "line": 2884, "v": "KEEP", "zh": "理想化", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Ideals and Illusions", "line": 2885, "v": "KEEP", "zh": "《理想与幻象》", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "idempotent", "line": 2886, "v": "KEEP", "zh": "幂等", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "identical by descent", "line": 2887, "v": "KEEP", "zh": "同源同一", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Identity", "line": 2888, "v": "KEEP", "zh": "同一性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "identity function", "line": 2889, "v": "KEEP", "zh": "恒等函数", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "identity of indiscernibles", "line": 2890, "v": "KEEP", "zh": "不可分辨者的同一", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "identity politics", "line": 2891, "v": "KEEP", "zh": "身份政治", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "identity relation", "line": 2892, "v": "KEEP", "zh": "同一关系", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "identity rule", "line": 2893, "v": "KEEP", "zh": "同一性规则", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "identity theory", "line": 2894, "v": "FLAG", "zh": "同一论", "orig": "—", "note": "主译撞形：“同一论”同时对应 identity theory (of truth)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "identity theory (of truth)", "line": 2895, "v": "FLAG", "zh": "同一论", "orig": "—", "note": "与 identity theory 行（行 2894）同译“同一论”主译撞形：mind-identity 心灵义 vs truth-identity 真理义异域分行；须分行区分性译法（心灵同一论／真理同一论），归撞形队列", "sheet": "r10"}
+{"key": "identity thinking", "line": 2896, "v": "KEEP", "zh": "同一性思维", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "ideographic", "line": 2897, "v": "KEEP", "zh": "表意论的（与法则论的/nomothetic 对举）", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "ideology", "line": 2898, "v": "KEEP", "zh": "意识形态", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "idiolect", "line": 2899, "v": "KEEP", "zh": "个人方言（亦作“个人语”）", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "idola", "line": 2900, "v": "FLAG", "zh": "影像", "orig": "idola", "note": "通行作“偶像”（培根四偶像 idola fori 等，lvov-warsaw:1077 用语即 idola fori），现译“影像”与 eidôla 行撞形；须查证裁定", "sheet": "r10"}
+{"key": "idolatry", "line": 2901, "v": "KEEP", "zh": "偶像崇拜", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "if-thenism", "line": 2902, "v": "KEEP", "zh": "如果—那么主义", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Igbo", "line": 2903, "v": "KEEP", "zh": "伊博语", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Ignorantia legis neminem excusat", "line": 2904, "v": "KEEP", "zh": "不知法不免责（拉丁原词保留斜体）", "orig": "Ignorantia legis neminem excusat", "note": null, "sheet": "r10"}
+{"key": "ignoratio elenchi", "line": 2905, "v": "FLAG", "zh": "拉丁原文保留（不相干谬误）", "orig": "ignoratio elenchi", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、jus、lex、respublica、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "ijmāʿ", "line": 2906, "v": "KEEP", "zh": "公议（伊智玛尔）", "orig": "إجماع", "note": null, "sheet": "r10"}
+{"key": "ijtihād", "line": 2907, "v": "KEEP", "zh": "创制（伊智提哈德）", "orig": "اجتهاد", "note": null, "sheet": "r10"}
+{"key": "ikebana", "line": 2908, "v": "KEEP", "zh": "插花（生け花）", "orig": "生け花", "note": null, "sheet": "r10"}
+{"key": "Ikhwān al-Ṣafāʾ", "line": 2909, "v": "KEEP", "zh": "精诚兄弟社（亦作“精诚兄弟会”“纯洁兄弟会”；组织名）", "orig": "إخوان الصفاء", "note": null, "sheet": "r10"}
+{"key": "iki", "line": 2910, "v": "KEEP", "zh": "意气（いき）", "orig": "いき", "note": null, "sheet": "r10"}
+{"key": "ikiji", "line": 2911, "v": "KEEP", "zh": "意地", "orig": "意地", "note": null, "sheet": "r10"}
+{"key": "Iliad", "line": 2912, "v": "KEEP", "zh": "《伊利亚特》", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "ill will", "line": 2913, "v": "KEEP", "zh": "恶意", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "illocutionary negation", "line": 2914, "v": "KEEP", "zh": "施行性否定（亦作“语用否定”）", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "illumination (model of abstraction)", "line": 2915, "v": "KEEP", "zh": "光照说", "orig": "illuminatio", "note": null, "sheet": "r10"}
+{"key": "illuminationist", "line": 2916, "v": "KEEP", "zh": "照明论", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "illusion", "line": 2917, "v": "FLAG", "zh": "幻象", "orig": "—", "note": "主译撞形：“幻象”同时对应 phantasm、phantasma；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "Imagination", "line": 2918, "v": "FLAG", "zh": "想象", "orig": "—", "note": "主译撞形：“想象”同时对应 phantasia（经院内感官语境）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "imaginative metamorphosis", "line": 2919, "v": "KEEP", "zh": "想象变形", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "imaginative puzzle", "line": 2920, "v": "KEEP", "zh": "想象谜题", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "imaginative resistance", "line": 2921, "v": "KEEP", "zh": "想象性抗拒", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "imitation", "line": 2922, "v": "FLAG", "zh": "模仿", "orig": "—", "note": "主译撞形：“模仿”同时对应 mimesis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "Immaculate Conception", "line": 2923, "v": "KEEP", "zh": "无染原罪", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "immanence", "line": 2924, "v": "KEEP", "zh": "内在性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "immanent critique", "line": 2925, "v": "KEEP", "zh": "内在批判", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "immanent teleology", "line": 2926, "v": "KEEP", "zh": "内在目的论", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "immanent universal", "line": 2927, "v": "KEEP", "zh": "内在共相", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "immaterial substance", "line": 2928, "v": "KEEP", "zh": "非物质实体", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "immediate intuition", "line": 2929, "v": "KEEP", "zh": "直接直觉", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "immediate perception", "line": 2930, "v": "FLAG", "zh": "直接知觉", "orig": "—", "note": "主译撞形：“直接知觉”同时对应 direct perception；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "immortality of the soul", "line": 2931, "v": "KEEP", "zh": "灵魂不朽", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "immune recognition", "line": 2932, "v": "KEEP", "zh": "免疫识别", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Immunity", "line": 2933, "v": "KEEP", "zh": "免疫", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "immunity to error through misidentification", "line": 2934, "v": "KEEP", "zh": "免于误认错误", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "immunorejection", "line": 2935, "v": "KEEP", "zh": "免疫排斥", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "immutability", "line": 2936, "v": "FLAG", "zh": "不变性", "orig": "—", "note": "主译撞形：“不变性”同时对应 invariance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "impaired control", "line": 2937, "v": "KEEP", "zh": "受损的控制", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "impairment", "line": 2938, "v": "KEEP", "zh": "损伤", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "impartial spectator", "line": 2939, "v": "KEEP", "zh": "公正旁观者", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "impartiality", "line": 2940, "v": "KEEP", "zh": "公正性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "impassibility", "line": 2941, "v": "KEEP", "zh": "不动情性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "imperative content", "line": 2942, "v": "KEEP", "zh": "命令式内容", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "imperfectivity", "line": 2943, "v": "KEEP", "zh": "不完全性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "imperialism", "line": 2944, "v": "KEEP", "zh": "帝国主义", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "impermanence", "line": 2945, "v": "FLAG", "zh": "无常", "orig": "—", "note": "主译撞形：“无常”同时对应 anitya、mujō；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "impetus", "line": 2946, "v": "FLAG", "zh": "冲力", "orig": "—", "note": "主译撞形：“冲力”同时对应 vega；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "impetus theory", "line": 2947, "v": "KEEP", "zh": "冲力说", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "implication", "line": 2948, "v": "FLAG", "zh": "蕴涵", "orig": "—", "note": "主译撞形：“蕴涵”同时对应 entailment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "implicationism", "line": 2949, "v": "KEEP", "zh": "蕴涵主义", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "implicit bias", "line": 2950, "v": "KEEP", "zh": "内隐偏见", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "implicit definition", "line": 2951, "v": "KEEP", "zh": "隐定义", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "import", "line": 2952, "v": "KEEP", "zh": "意蕴（阿多诺美学语境；与 Hegel Gehalt 意蕴一脉）", "orig": "Gehalt", "note": null, "sheet": "r10"}
+{"key": "imposition", "line": 2953, "v": "KEEP", "zh": "命名（词项施加；亦作“设定”）", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "impossibility theorem", "line": 2954, "v": "KEEP", "zh": "不可能性定理", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "impossible worlds", "line": 2955, "v": "KEEP", "zh": "不可能世界", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "imprecise probabilities", "line": 2956, "v": "FLAG", "zh": "非精确概率（SUMMARY 定名沿用；学界亦作“不精确概率”）", "orig": "—", "note": "主译撞形：“非精确概率”同时对应 imprecise probability (IP) models；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "imprecise probability (IP) models", "line": 2957, "v": "FLAG", "zh": "非精确概率（IP）模型", "orig": "—", "note": "主译撞形：“非精确概率”同时对应 imprecise probabilities；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "imprescriptible", "line": 2958, "v": "KEEP", "zh": "不可追诉者", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "impressed force", "line": 2959, "v": "KEEP", "zh": "外加力", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "impression management", "line": 2960, "v": "KEEP", "zh": "印象管理", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "improvisation", "line": 2961, "v": "KEEP", "zh": "即兴", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "imputation", "line": 2962, "v": "KEEP", "zh": "归责", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "in vitro fertilization (IVF)", "line": 2963, "v": "KEEP", "zh": "体外受精", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inaccessible cardinal", "line": 2964, "v": "KEEP", "zh": "不可达基数", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Inaugural Dissertation", "line": 2965, "v": "KEEP", "zh": "《就职论文》", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "incentive sensitivity", "line": 2966, "v": "KEEP", "zh": "激励敏感性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "incipit/desinit", "line": 2967, "v": "KEEP", "zh": "开始存在／停止存在", "orig": "incipit/desinit", "note": null, "sheet": "r10"}
+{"key": "inclination", "line": 2968, "v": "FLAG", "zh": "倾向", "orig": "—", "note": "主译撞形：“倾向”同时对应 propensity (interpretation of fitness)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "inclusion axioms", "line": 2969, "v": "KEEP", "zh": "包含公理", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inclusion criteria", "line": 2970, "v": "KEEP", "zh": "纳入标准", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inclusive fitness", "line": 2971, "v": "KEEP", "zh": "包容适合度（亦作“广义适合度”）", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "incommensurability", "line": 2972, "v": "FLAG", "zh": "不可通约性", "orig": "—", "note": "主译撞形：“不可通约性”同时对应 Incommensurable；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "Incommensurable", "line": 2973, "v": "FLAG", "zh": "不可通约性", "orig": "—", "note": "与 incommensurability 行同译“不可通约性”撞形；本行应作形容词义“不可通约的（价值）”，须分行区分", "sheet": "r10"}
+{"key": "incomplete information", "line": 2974, "v": "KEEP", "zh": "不完全信息", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "incompleteness / incomparability", "line": 2975, "v": "KEEP", "zh": "不完备性／不可比性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "incompleteness theorems", "line": 2976, "v": "KEEP", "zh": "（哥德尔）不完备定理；叙述通译“不完全性定理”", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inconsistent triad", "line": 2977, "v": "KEEP", "zh": "不一致三元组", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inconsistent world", "line": 2978, "v": "KEEP", "zh": "不一致世界", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inconstruable question", "line": 2979, "v": "KEEP", "zh": "不可建构的问题", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "incontinence", "line": 2980, "v": "KEEP", "zh": "不自制", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "incorporeal substance", "line": 2981, "v": "KEEP", "zh": "无形实体", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "increasing function", "line": 2982, "v": "KEEP", "zh": "增函数", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "increasing reliability", "line": 2983, "v": "KEEP", "zh": "可靠性递增", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Indalmoi", "line": 2984, "v": "FLAG", "zh": "《影像》", "orig": "—", "note": "Indalmoi 系希腊词（皮浪派幻象／影像义，timon-phlius 语境），非著作名；现译加书名号《影像》疑误，须核对后去书名号或改译", "sheet": "r10"}
+{"key": "indefinite", "line": 2985, "v": "KEEP", "zh": "不定的", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Indefinite Dyad", "line": 2986, "v": "KEEP", "zh": "不定的二（亦作“不定之二”）", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "independence", "line": 2987, "v": "KEEP", "zh": "独立性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "independence constraint", "line": 2988, "v": "KEEP", "zh": "独立性约束", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "independence friendly logic", "line": 2989, "v": "KEEP", "zh": "独立友好逻辑", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indeterminacy", "line": 2990, "v": "KEEP", "zh": "非确定性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indeterminacy of translation", "line": 2991, "v": "KEEP", "zh": "翻译的非确定性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indeterminate adjective", "line": 2992, "v": "KEEP", "zh": "不确定形容词", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indeterminate dimensions", "line": 2993, "v": "KEEP", "zh": "不确定量度", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indeterminism", "line": 2994, "v": "FLAG", "zh": "非决定论", "orig": "—", "note": "主译撞形：“非决定论”同时对应 non-determinism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "index", "line": 2995, "v": "KEEP", "zh": "索引", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "index number", "line": 2996, "v": "FLAG", "zh": "指数", "orig": "—", "note": "主译撞形：“指数”同时对应 exponential；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "index set", "line": 2997, "v": "KEEP", "zh": "索引集", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indexed family", "line": 2998, "v": "KEEP", "zh": "索引集族", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indexical", "line": 2999, "v": "KEEP", "zh": "索引性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indexing problem", "line": 3000, "v": "KEEP", "zh": "标引问题", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indicator function", "line": 3001, "v": "KEEP", "zh": "指示函数", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Indigenous futurity", "line": 3002, "v": "KEEP", "zh": "原住民未来性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indiscernibility of identicals", "line": 3003, "v": "KEEP", "zh": "同一者的不可分辨", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indispensability argument", "line": 3004, "v": "KEEP", "zh": "不可或缺性论证", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "individual differences", "line": 3005, "v": "KEEP", "zh": "个体差异", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "individual preference", "line": 3006, "v": "KEEP", "zh": "个体偏好", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "individualism", "line": 3007, "v": "FLAG", "zh": "个人主义", "orig": "—", "note": "主译撞形：“个人主义”同时对应 personalist；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "individualist", "line": 3008, "v": "FLAG", "zh": "个体主义者", "orig": "—", "note": "族内不一：individualism＝个人主义而 individualist＝个体主义者；通行 individualist 个人主义者，须统一“个人”系或按域", "sheet": "r10"}
+{"key": "individuality", "line": 3009, "v": "KEEP", "zh": "个体性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Individuals", "line": 3010, "v": "KEEP", "zh": "个体", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "individuation", "line": 3011, "v": "KEEP", "zh": "个体化", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indivisibility", "line": 3012, "v": "KEEP", "zh": "不可分", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indivisible lines", "line": 3013, "v": "KEEP", "zh": "不可分线", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "indolent", "line": 3014, "v": "KEEP", "zh": "惰性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "induced pluripotent stem cell (iPSC)", "line": 3015, "v": "KEEP", "zh": "诱导多能干细胞", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "induction", "line": 3016, "v": "KEEP", "zh": "归纳", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Induction axiom", "line": 3017, "v": "KEEP", "zh": "归纳公理", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "induction hypothesis", "line": 3018, "v": "KEEP", "zh": "归纳假设", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "induction principle", "line": 3019, "v": "KEEP", "zh": "归纳原则（亦作“归纳原理”）", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inductive consequence", "line": 3020, "v": "KEEP", "zh": "归纳后承", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inductive empiricism", "line": 3021, "v": "KEEP", "zh": "归纳经验主义", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inductive generalization", "line": 3022, "v": "KEEP", "zh": "归纳概括", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inductive inference", "line": 3023, "v": "KEEP", "zh": "归纳推理", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inductive risk", "line": 3024, "v": "KEEP", "zh": "归纳风险", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inductive validity", "line": 3025, "v": "KEEP", "zh": "归纳有效性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inductive-statistical (IS) explanation", "line": 3026, "v": "KEEP", "zh": "归纳—统计解释", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inductivism", "line": 3027, "v": "KEEP", "zh": "归纳主义", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "industrial revolution", "line": 3028, "v": "KEEP", "zh": "工业革命", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Inequality", "line": 3029, "v": "KEEP", "zh": "不平等", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inequality aversion", "line": 3030, "v": "KEEP", "zh": "不平等厌恶", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inertia", "line": 3031, "v": "KEEP", "zh": "惯性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inertial frame / Inertial Frames", "line": 3032, "v": "KEEP", "zh": "惯性系（亦作“惯性参考系”）", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inertial observer", "line": 3033, "v": "KEEP", "zh": "惯性观察者", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "infallibility", "line": 3034, "v": "KEEP", "zh": "无误性", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "infallible", "line": 3035, "v": "KEEP", "zh": "不会出错的", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "infectious agent", "line": 3036, "v": "KEEP", "zh": "传染因子", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inference rule", "line": 3037, "v": "KEEP", "zh": "推理规则", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Inference to the Best Explanation", "line": 3038, "v": "KEEP", "zh": "最佳说明推理（亦作“最佳解释推理”）", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "Inference to the Worst Explanation (IWE)", "line": 3039, "v": "KEEP", "zh": "最差解释推理", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inference-ticket", "line": 3040, "v": "KEEP", "zh": "推理许可证", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inferentialism", "line": 3041, "v": "KEEP", "zh": "推理主义", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inferentialist pragmatism", "line": 3042, "v": "KEEP", "zh": "推理主义实用主义", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inferiority complex", "line": 3043, "v": "KEEP", "zh": "自卑情结", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "infimum", "line": 3044, "v": "KEEP", "zh": "下确界", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "infinitary language", "line": 3045, "v": "KEEP", "zh": "无穷语言", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "infinitary logic", "line": 3046, "v": "KEEP", "zh": "无穷逻辑", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "infinite", "line": 3047, "v": "KEEP", "zh": "无限的", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "infinite analysis", "line": 3048, "v": "KEEP", "zh": "无穷分析", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "infinite regress", "line": 3049, "v": "FLAG", "zh": "无穷倒退（亦作“无限倒退”“无限回溯”）", "orig": "—", "note": "主译撞形：“无穷倒退”同时对应 anavasthā；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
+{"key": "infinite space", "line": 3050, "v": "KEEP", "zh": "无限空间", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "infinity", "line": 3051, "v": "KEEP", "zh": "无穷", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "inflammation", "line": 3052, "v": "KEEP", "zh": "炎症", "orig": "—", "note": null, "sheet": "r10"}
+{"key": "influx (celestial)", "line": 3053, "v": "FLAG", "zh": "流入（天体）", "orig": "influxus", "note": "主译撞形：“流入”同时对应 āsrava；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
 {"key": "insolubilia", "line": 3092, "v": "FLAG", "zh": "不可解问题（亦作“不可解命题”）", "orig": "insolubilia", "note": "亦作“不可解命题”与 insolubles 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
 {"key": "intelligent（奥克肖特历史范畴）", "line": 3125, "v": "FLAG", "zh": "有智力的", "orig": "intelligent", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
 {"key": "intension", "line": 3132, "v": "FLAG", "zh": "内涵", "orig": "—", "note": "主译撞形：“内涵”同时对应 connotation、Gehalt；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
