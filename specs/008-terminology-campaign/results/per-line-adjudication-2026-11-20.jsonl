@@ -937,7 +937,7 @@
 {"key": "eigenvector", "line": 1839, "v": "KEEP", "zh": "本征矢量", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "eight difficult points", "line": 1840, "v": "KEEP", "zh": "八大难题", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "Einfühlung", "line": 1841, "v": "KEEP", "zh": "移情", "orig": "Einfühlung", "note": null, "sheet": "s05"}
-{"key": "Einstein-Podolsky-Rosen", "line": 1842, "v": "KEEP", "zh": "爱因斯坦-波多尔斯基-罗森", "orig": "—", "note": null, "sheet": "s05"}
+{"key": "Einstein-Podolsky-Rosen", "line": 1842, "v": "FIX", "zh": "爱因斯坦-波多尔斯基-罗森", "orig": "—", "note": "连接号按 ADR-0041 一字线裁定统一（与 Curry—Howard 同族）：爱因斯坦-波多尔斯基-罗森 → 爱因斯坦—波多尔斯基—罗森", "sheet": "s05"}
 {"key": "Eleatic / Eleatics", "line": 1843, "v": "KEEP", "zh": "爱利亚学派", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "electric shock", "line": 1844, "v": "KEEP", "zh": "电击", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "electromagnetic radiation", "line": 1845, "v": "KEEP", "zh": "电磁辐射", "orig": "—", "note": null, "sheet": "s05"}
@@ -1001,7 +1001,7 @@
 {"key": "endophenotype", "line": 1903, "v": "KEEP", "zh": "内表型", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "endoxa", "line": 1904, "v": "KEEP", "zh": "公认意见（endoxa）", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "endurance", "line": 1905, "v": "KEEP", "zh": "持存", "orig": "—", "note": null, "sheet": "s05"}
-{"key": "endurantism", "line": 1906, "v": "KEEP", "zh": "延存论", "orig": "—", "note": null, "sheet": "s05"}
+{"key": "endurantism", "line": 1906, "v": "FLAG", "zh": "延存论", "orig": "—", "note": "族内不一：endurance＝持存而 endurantism＝延存论；通行或作“持存论”（与 perdurantism 分存论／贯穿论对举）；须查证后族内统一", "sheet": "s05"}
 {"key": "energy density", "line": 1907, "v": "KEEP", "zh": "能量密度", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "engaged object（'jug yul）", "line": 1908, "v": "FLAG", "zh": "趣入境（'jug yul）", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "s05"}
 {"key": "engi", "line": 1909, "v": "FLAG", "zh": "缘起（縁起）", "orig": "縁起", "note": "主译撞形：“缘起”同时对应 dependent origination、engi / pratītya-samutpāda；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "s05"}
@@ -1037,7 +1037,7 @@
 {"key": "epidemic constitution", "line": 1939, "v": "KEEP", "zh": "疫病体质", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epidemiology", "line": 1940, "v": "KEEP", "zh": "流行病学", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epigenetic inheritance", "line": 1941, "v": "KEEP", "zh": "表观遗传", "orig": "—", "note": null, "sheet": "s05"}
-{"key": "epigenetic primordia", "line": 1942, "v": "KEEP", "zh": "表观遗传原基", "orig": "—", "note": null, "sheet": "s05"}
+{"key": "epigenetic primordia", "line": 1942, "v": "FLAG", "zh": "表观遗传原基", "orig": "—", "note": "epigenetic 疑指渐成论（epigenesis）而非表观遗传学（epigenetics）：stem-cells:279、natural-law-theories:809 语境为胚胎发育原基；现译“表观遗传原基”恐系误读，须回原典核对裁定", "sheet": "s05"}
 {"key": "epigenomics", "line": 1943, "v": "KEEP", "zh": "表观基因组学", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epiphenomenal", "line": 1944, "v": "KEEP", "zh": "副现象的（副现象主义）", "orig": "epiphenomenalism", "note": null, "sheet": "s05"}
 {"key": "epiphenomenalism", "line": 1945, "v": "KEEP", "zh": "副现象主义（亦作“副现象论”）", "orig": "—", "note": null, "sheet": "s05"}
@@ -1048,7 +1048,7 @@
 {"key": "epistemic accuracy", "line": 1950, "v": "KEEP", "zh": "认知准确", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epistemic aggregation", "line": 1951, "v": "KEEP", "zh": "认知聚合", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epistemic arrogance", "line": 1952, "v": "KEEP", "zh": "认知傲慢", "orig": "—", "note": null, "sheet": "s05"}
-{"key": "epistemic blame", "line": 1953, "v": "KEEP", "zh": "认识论责备", "orig": "—", "note": null, "sheet": "s05"}
+{"key": "epistemic blame", "line": 1953, "v": "FLAG", "zh": "认识论责备", "orig": "—", "note": "族内不一：epistemic 通译“认知”（认知运气／认知不义），本行作“认识论责备”；通行或作“认知责备”，须统一或登记例外", "sheet": "s05"}
 {"key": "epistemic closure", "line": 1954, "v": "KEEP", "zh": "认知闭合（亦作“认知封闭”）", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epistemic community", "line": 1955, "v": "KEEP", "zh": "认知共同体", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epistemic constraint", "line": 1956, "v": "KEEP", "zh": "认知约束", "orig": "—", "note": null, "sheet": "s05"}
@@ -1059,7 +1059,7 @@
 {"key": "epistemic humility", "line": 1961, "v": "KEEP", "zh": "认知谦逊", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epistemic injustice", "line": 1962, "v": "KEEP", "zh": "认知不义（亦作“认知不公正”）", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epistemic justice", "line": 1963, "v": "KEEP", "zh": "认知正义", "orig": "—", "note": null, "sheet": "s05"}
-{"key": "epistemic justification", "line": 1964, "v": "KEEP", "zh": "知识证成", "orig": "—", "note": null, "sheet": "s05"}
+{"key": "epistemic justification", "line": 1964, "v": "FLAG", "zh": "知识证成", "orig": "—", "note": "族内不一：本行“知识证成”vs 族通“认知”；通行或作“认知证成”；须查证统一", "sheet": "s05"}
 {"key": "epistemic logic", "line": 1965, "v": "KEEP", "zh": "认知逻辑", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epistemic luck", "line": 1966, "v": "KEEP", "zh": "认知运气", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epistemic parity", "line": 1967, "v": "KEEP", "zh": "认知对等", "orig": "—", "note": null, "sheet": "s05"}
@@ -1069,8 +1069,8 @@
 {"key": "epistemic realism about truth", "line": 1971, "v": "KEEP", "zh": "真理实在论", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epistemic risk", "line": 1972, "v": "KEEP", "zh": "认知风险", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epistemic self-confidence", "line": 1973, "v": "KEEP", "zh": "认知自信", "orig": "—", "note": null, "sheet": "s05"}
-{"key": "epistemic state", "line": 1974, "v": "KEEP", "zh": "认识状态", "orig": "—", "note": null, "sheet": "s05"}
-{"key": "Epistemic Structural Realism", "line": 1975, "v": "KEEP", "zh": "认识论的结构实在论", "orig": "—", "note": null, "sheet": "s05"}
+{"key": "epistemic state", "line": 1974, "v": "FLAG", "zh": "认识状态", "orig": "—", "note": "族内不一：本行“认识状态”vs 族通“认知”；通行“认知状态”较常见，须统一", "sheet": "s05"}
+{"key": "Epistemic Structural Realism", "line": 1975, "v": "FLAG", "zh": "认识论的结构实在论", "orig": "—", "note": "通行作“认识论结构实在论”（与 OSR 本体结构实在论对举），与族内 epistemic＝认知口径冲突；须裁定（通行占优则登记例外）", "sheet": "s05"}
 {"key": "epistemic thing", "line": 1976, "v": "KEEP", "zh": "认知物", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epistemic transparency", "line": 1977, "v": "KEEP", "zh": "认知透明性", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "epistemic voluntarism", "line": 1978, "v": "KEEP", "zh": "认知意志主义", "orig": "—", "note": null, "sheet": "s05"}
@@ -1088,7 +1088,7 @@
 {"key": "equation of time", "line": 1990, "v": "KEEP", "zh": "时差", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "equational logic", "line": 1991, "v": "KEEP", "zh": "等式逻辑", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "equinumerous", "line": 1992, "v": "FLAG", "zh": "等势", "orig": "—", "note": "主译撞形：“等势”同时对应 equipollence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "s05"}
-{"key": "equipollence", "line": 1993, "v": "FLAG", "zh": "等势（亦作“等数”）", "orig": "—", "note": "主译撞形：“等势”同时对应 equinumerous；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "s05"}
+{"key": "equipollence", "line": 1993, "v": "FLAG", "zh": "等势（亦作“等数”）", "orig": "—", "note": "与 equinumerous 行同译“等势”撞形；quipollence（布尔查诺／阿塞西劳斯语境）或作“等数（一一对应）”，须区分性译法", "sheet": "s05"}
 {"key": "equity", "line": 1994, "v": "FLAG", "zh": "公平", "orig": "—", "note": "主译撞形：“公平”同时对应 fairness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "s05"}
 {"key": "equity theory", "line": 1995, "v": "KEEP", "zh": "公平理论", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "equivalence class", "line": 1996, "v": "KEEP", "zh": "等价类", "orig": "—", "note": null, "sheet": "s05"}

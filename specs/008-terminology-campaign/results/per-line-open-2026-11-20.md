@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 878，FLAG 651，FIX 17，MERGE 4
+判定分布：KEEP 871，FLAG 657，FIX 18，MERGE 4
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -235,20 +235,27 @@
 - **Dutch Book Arguments**（行 1782，现译「大弃赌论证」）｜ FLAG ｜ 主译撞形：“大弃赌论证”同时对应 Dutch book (argument)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **egocentrism**（行 1830，现译「自我中心」）｜ FLAG ｜ 主译撞形：“自我中心”同时对应 self-centredness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **eidôla**（行 1835，现译「影像（亦作“偶象”）」）｜ FLAG ｜ 主译撞形：“影像”同时对应 idola、phantasmata、simulacra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Einstein-Podolsky-Rosen**（行 1842，现译「爱因斯坦-波多尔斯基-罗森」）｜ FIX ｜ 连接号按 ADR-0041 一字线裁定统一（与 Curry—Howard 同族）：爱因斯坦-波多尔斯基-罗森 → 爱因斯坦—波多尔斯基—罗森
 - **emanation**（行 1862，现译「流溢」）｜ FLAG ｜ 主译撞形：“流溢”同时对应 fayd、prohodos；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **emotion**（行 1868，现译「情感」）｜ FLAG ｜ 主译撞形：“情感”同时对应 Gefühl、sentiment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Empfindung**（行 1872，现译「感觉」）｜ FLAG ｜ 主译撞形：“感觉”同时对应 aisthêseis、Sensation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **empirical aesthetics**（行 1876，现译「经验美学」）｜ FLAG ｜ 主译撞形：“经验美学”同时对应 Erfahrung-Ästhetik；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **endurantism**（行 1906，现译「延存论」）｜ FLAG ｜ 族内不一：endurance＝持存而 endurantism＝延存论；通行或作“持存论”（与 perdurantism 分存论／贯穿论对举）；须查证后族内统一
 - **engaged object（'jug yul）**（行 1908，现译「趣入境（'jug yul）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **engi**（行 1909，现译「缘起（縁起）」）｜ FLAG ｜ 主译撞形：“缘起”同时对应 dependent origination、engi / pratītya-samutpāda；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **engi / pratītya-samutpāda**（行 1910，现译「缘起」）｜ FLAG ｜ 主译撞形：“缘起”同时对应 dependent origination、engi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **entailment**（行 1918，现译「蕴涵」）｜ FLAG ｜ 主译撞形：“蕴涵”同时对应 implication；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **entity**（行 1929，现译「实体」）｜ FLAG ｜ 主译撞形：“实体”同时对应 dravya、jawhar、substance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **epigenetic primordia**（行 1942，现译「表观遗传原基」）｜ FLAG ｜ epigenetic 疑指渐成论（epigenesis）而非表观遗传学（epigenetics）：stem-cells:279、natural-law-theories:809 语境为胚胎发育原基；现译“表观遗传原基”恐系误读，须回原典核对裁定
 - **epistêmê**（行 1948，现译「知识（与 doxa 意见相对）」）｜ FLAG ｜ 主译撞形：“知识”同时对应 scientia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **epistemic blame**（行 1953，现译「认识论责备」）｜ FLAG ｜ 族内不一：epistemic 通译“认知”（认知运气／认知不义），本行作“认识论责备”；通行或作“认知责备”，须统一或登记例外
+- **epistemic justification**（行 1964，现译「知识证成」）｜ FLAG ｜ 族内不一：本行“知识证成”vs 族通“认知”；通行或作“认知证成”；须查证统一
+- **epistemic state**（行 1974，现译「认识状态」）｜ FLAG ｜ 族内不一：本行“认识状态”vs 族通“认知”；通行“认知状态”较常见，须统一
+- **Epistemic Structural Realism**（行 1975，现译「认识论的结构实在论」）｜ FLAG ｜ 通行作“认识论结构实在论”（与 OSR 本体结构实在论对举），与族内 epistemic＝认知口径冲突；须裁定（通行占优则登记例外）
 - **epistrophe**（行 1985，现译「回返」）｜ FLAG ｜ 主译撞形：“回返”同时对应 reversion；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **equality**（行 1989，现译「平等」）｜ FLAG ｜ 主译撞形：“平等”同时对应 isonomia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **equinumerous**（行 1992，现译「等势」）｜ FLAG ｜ 主译撞形：“等势”同时对应 equipollence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **equipollence**（行 1993，现译「等势（亦作“等数”）」）｜ FLAG ｜ 主译撞形：“等势”同时对应 equinumerous；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **equipollence**（行 1993，现译「等势（亦作“等数”）」）｜ FLAG ｜ 与 equinumerous 行同译“等势”撞形；quipollence（布尔查诺／阿塞西劳斯语境）或作“等数（一一对应）”，须区分性译法
 - **equity**（行 1994，现译「公平」）｜ FLAG ｜ 主译撞形：“公平”同时对应 fairness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **equivocation**（行 1999，现译「歧义（同名异义）」）｜ FLAG ｜ 主译撞形：“歧义”同时对应 ambiguity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Erfahrung**（行 2002，现译「经验（伽达默尔语境；与 Erlebnis 体验相区分）」）｜ FLAG ｜ 主译撞形：“经验”同时对应 Experience；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
