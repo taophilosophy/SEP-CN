@@ -4329,23 +4329,206 @@
 {"key": "Rationalist", "line": 5296, "v": "KEEP", "zh": "理性主义者", "orig": "—", "note": null, "sheet": "r21"}
 {"key": "rationality", "line": 5297, "v": "KEEP", "zh": "合理性", "orig": "—", "note": null, "sheet": "r21"}
 {"key": "rationes seminales", "line": 5298, "v": "KEEP", "zh": "种子理性", "orig": "rationes seminales", "note": null, "sheet": "r21"}
-{"key": "re-experiencing", "line": 5301, "v": "FLAG", "zh": "再体验", "orig": "—", "note": "主译撞形：“再体验”同时对应 nacherleben；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "reaction norm", "line": 5302, "v": "FLAG", "zh": "反应规范", "orig": "—", "note": "主译撞形：“反应规范”同时对应 norm of reaction；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "recognition (Ricoeur)", "line": 5336, "v": "FLAG", "zh": "承认", "orig": "—", "note": "主译撞形：“承认”同时对应 acknowledgement (Anerkennung)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "reflexive awareness", "line": 5371, "v": "FLAG", "zh": "自证", "orig": "—", "note": "主译撞形：“自证”同时对应 svasaṃvedana；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "reify", "line": 5396, "v": "FLAG", "zh": "实体化", "orig": "—", "note": "主译撞形：“实体化”同时对应 hypostasized、hypostatisation、substantialization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "relajiento", "line": 5402, "v": "FLAG", "zh": "保留原文（复数 relajientos）", "orig": "—", "note": "主译撞形：“保留原文”同时对应 apretado、nepantla、relajo、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "relajo", "line": 5403, "v": "FLAG", "zh": "保留原文（严肃性之悬置）", "orig": "—", "note": "主译撞形：“保留原文”同时对应 apretado、nepantla、relajiento、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "relationalism（space and time）", "line": 5411, "v": "FLAG", "zh": "关系论", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "relevance", "line": 5420, "v": "FLAG", "zh": "相关性", "orig": "—", "note": "主译撞形：“相关性”同时对应 correlation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "relevance logic", "line": 5421, "v": "FLAG", "zh": "相干逻辑", "orig": "—", "note": "主译撞形：“相干逻辑”同时对应 relevant logic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "relevant logic", "line": 5425, "v": "FLAG", "zh": "相干逻辑", "orig": "—", "note": "主译撞形：“相干逻辑”同时对应 relevance logic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "reliability", "line": 5429, "v": "FLAG", "zh": "可靠性", "orig": "—", "note": "主译撞形：“可靠性”同时对应 soundness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "reliable cognition（tshad ma）", "line": 5431, "v": "FLAG", "zh": "可靠认知（即“量”；藏文 tshad ma 本词条通译作“量”）", "orig": "ཚད་མ་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "resiliency", "line": 5482, "v": "FLAG", "zh": "弹性", "orig": "—", "note": "主译撞形：“弹性”同时对应 sthitisthāpaka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "responsibility", "line": 5488, "v": "FLAG", "zh": "责任", "orig": "—", "note": "主译撞形：“责任”同时对应 liability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "respublica", "line": 5490, "v": "FLAG", "zh": "拉丁原文保留（公共关切/共同善）", "orig": "respublica", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "restriction", "line": 5495, "v": "FLAG", "zh": "限缩", "orig": "—", "note": "主译撞形：“限缩”同时对应 circumscription (of sovereignty)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "rationing", "line": 5299, "v": "KEEP", "zh": "配给", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Ratnagotravibhāga", "line": 5300, "v": "KEEP", "zh": "《宝性论》", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "re-experiencing", "line": 5301, "v": "FLAG", "zh": "再体验", "orig": "—", "note": "主译撞形：“再体验”同时对应 nacherleben；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "reaction norm", "line": 5302, "v": "FLAG", "zh": "反应规范", "orig": "—", "note": "主译撞形：“反应规范”同时对应 norm of reaction；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "reactive attitudes", "line": 5303, "v": "KEEP", "zh": "反应性态度", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "readiness potential", "line": 5304, "v": "KEEP", "zh": "预备电位", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "real definition", "line": 5305, "v": "KEEP", "zh": "实在定义", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "real distinction", "line": 5306, "v": "KEEP", "zh": "实在区分", "orig": "distinctio realis", "note": null, "sheet": "r22"}
+{"key": "real identity", "line": 5307, "v": "KEEP", "zh": "实在同一", "orig": "identitas realis", "note": null, "sheet": "r22"}
+{"key": "real numbers", "line": 5308, "v": "KEEP", "zh": "实数", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "real objects", "line": 5309, "v": "KEEP", "zh": "实在对象", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "real possibility", "line": 5310, "v": "KEEP", "zh": "实在可能性", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "real property theory (of evil)", "line": 5311, "v": "KEEP", "zh": "实在属性论", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "real proposition", "line": 5312, "v": "KEEP", "zh": "实在命题", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "real-soundness", "line": 5313, "v": "KEEP", "zh": "实在可靠性", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "real-valued function", "line": 5314, "v": "KEEP", "zh": "实值函数", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "realism", "line": 5315, "v": "KEEP", "zh": "实在论（亦作“唯实论”；限中世纪共相语境）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "realist phenomenology", "line": 5316, "v": "KEEP", "zh": "实在论现象学", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reality", "line": 5317, "v": "KEEP", "zh": "实在", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "realizability", "line": 5318, "v": "KEEP", "zh": "可实现性", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "realization", "line": 5319, "v": "KEEP", "zh": "实现（亦作“翻译”）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Reaper Argument", "line": 5320, "v": "KEEP", "zh": "收割者论证", "orig": "θερίζων λόγος", "note": null, "sheet": "r22"}
+{"key": "reason", "line": 5321, "v": "KEEP", "zh": "理性", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reason for thinking", "line": 5322, "v": "KEEP", "zh": "证据性理由（据以认定的理由）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reason why", "line": 5323, "v": "KEEP", "zh": "原因性理由（何以如此的理由）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reasoner", "line": 5324, "v": "KEEP", "zh": "推理机", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Rebel", "line": 5325, "v": "KEEP", "zh": "《反抗者》", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "receiver", "line": 5326, "v": "KEEP", "zh": "接收者", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Receptivity", "line": 5327, "v": "KEEP", "zh": "接受性", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Rechtschaffenheit", "line": 5328, "v": "KEEP", "zh": "追求正当", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "recidivist suspense", "line": 5329, "v": "KEEP", "zh": "重看者的悬念", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "recipient", "line": 5330, "v": "KEEP", "zh": "受赠者", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reciprocal altruism", "line": 5331, "v": "KEEP", "zh": "互惠利他", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reciprocity", "line": 5332, "v": "KEEP", "zh": "互反性", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reciprocity thesis", "line": 5333, "v": "KEEP", "zh": "互惠论题", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reclusion", "line": 5334, "v": "KEEP", "zh": "隐逸", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "recognition", "line": 5335, "v": "KEEP", "zh": "再认识（Wiedererkennung；亦作“认出”）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "recognition (Ricoeur)", "line": 5336, "v": "FLAG", "zh": "承认", "orig": "—", "note": "主译撞形：“承认”同时对应 acknowledgement (Anerkennung)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "recognition-transcendent", "line": 5337, "v": "KEEP", "zh": "超越识别的", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "recombination fraction", "line": 5338, "v": "KEEP", "zh": "重组率", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "recompense", "line": 5339, "v": "KEEP", "zh": "报偿", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reconciliation", "line": 5340, "v": "KEEP", "zh": "调和", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reconstruction", "line": 5341, "v": "KEEP", "zh": "重构", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "recurrence time", "line": 5342, "v": "KEEP", "zh": "回归时间", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "recursion", "line": 5343, "v": "KEEP", "zh": "递归", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Recursion Theorem", "line": 5344, "v": "KEEP", "zh": "递归定理", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "recursion theory", "line": 5345, "v": "KEEP", "zh": "递归论", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "recursive definition", "line": 5346, "v": "KEEP", "zh": "递归定义", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "recursive function", "line": 5347, "v": "KEEP", "zh": "递归函数", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "recursively axiomatizable", "line": 5348, "v": "KEEP", "zh": "递归可公理化", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "red shift", "line": 5349, "v": "KEEP", "zh": "红移", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "red-figure", "line": 5350, "v": "KEEP", "zh": "红绘式（陶绘）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Redemption through Sin", "line": 5351, "v": "KEEP", "zh": "《以罪救赎》", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "redescription", "line": 5352, "v": "KEEP", "zh": "重新描述", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "redistribution", "line": 5353, "v": "KEEP", "zh": "再分配", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "redistribution game", "line": 5354, "v": "KEEP", "zh": "再分配博弈", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "redness", "line": 5355, "v": "KEEP", "zh": "红色", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reductio", "line": 5356, "v": "KEEP", "zh": "归谬法", "orig": "reductio", "note": null, "sheet": "r22"}
+{"key": "reduction", "line": 5357, "v": "KEEP", "zh": "还原", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reduction per impossibile", "line": 5358, "v": "KEEP", "zh": "归谬还原", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reductionism", "line": 5359, "v": "KEEP", "zh": "还原论", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "redundancy biconditional", "line": 5360, "v": "KEEP", "zh": "冗余双条件句", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reference class", "line": 5361, "v": "KEEP", "zh": "参照类", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reference class problem", "line": 5362, "v": "FLAG", "zh": "参考类问题", "orig": "—", "note": "与 reference class 行（行 5361，参照类）族内不一：同行作“参考类问题”而主词行作“参照类”（两行皆称学界通行）；须统一（建议一并作“参照类”）", "sheet": "r22"}
+{"key": "reference frame", "line": 5363, "v": "KEEP", "zh": "参考系", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reference sequence", "line": 5364, "v": "KEEP", "zh": "参照序列", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "refiguration", "line": 5365, "v": "KEEP", "zh": "再塑形", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reflecting telescope", "line": 5366, "v": "KEEP", "zh": "反射望远镜", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Reflection Principle", "line": 5367, "v": "KEEP", "zh": "反思原则", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reflective equilibrium", "line": 5368, "v": "KEEP", "zh": "反思平衡", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reflective judgment", "line": 5369, "v": "KEEP", "zh": "反思判断（力）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reflex reaction", "line": 5370, "v": "KEEP", "zh": "反射反应", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reflexive awareness", "line": 5371, "v": "FLAG", "zh": "自证", "orig": "—", "note": "主译撞形：“自证”同时对应 svasaṃvedana；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "reflexive philosophy", "line": 5372, "v": "KEEP", "zh": "反省哲学", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reflexive pronoun", "line": 5373, "v": "KEEP", "zh": "反身代词", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reflexivity", "line": 5374, "v": "KEEP", "zh": "自反性", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reflexivity axioms", "line": 5375, "v": "KEEP", "zh": "自反性公理", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reform conservatism", "line": 5376, "v": "KEEP", "zh": "改革保守主义", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reformed epistemology", "line": 5377, "v": "KEEP", "zh": "改革宗认识论", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reformism", "line": 5378, "v": "KEEP", "zh": "改良主义", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "refugee", "line": 5379, "v": "KEEP", "zh": "难民", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "refutation", "line": 5380, "v": "KEEP", "zh": "反驳", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Refutation of Idealism", "line": 5381, "v": "KEEP", "zh": "驳斥唯心论", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "refuting the arising of something existent or nonexistent", "line": 5382, "v": "KEEP", "zh": "破有无生因", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "refuting the four possibilities of arising", "line": 5383, "v": "KEEP", "zh": "破四句生因", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Regionalism", "line": 5384, "v": "KEEP", "zh": "地域主义", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Regress", "line": 5385, "v": "KEEP", "zh": "倒退", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "regress argument", "line": 5386, "v": "KEEP", "zh": "倒退论证", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "regress problem", "line": 5387, "v": "FLAG", "zh": "回溯问题", "orig": "—", "note": "与 Regress 行（行 5385，倒退）及 regress argument 行（行 5386，倒退论证）族内不一：同行作“回溯问题”，同属知识论语境两译并存；须统一（通行“倒退／无穷倒退”，回溯可作亦作）", "sheet": "r22"}
+{"key": "regressus", "line": 5388, "v": "KEEP", "zh": "回归（正文保留拉丁原词 *regressus*；*regressus* 方法译“回归法”）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "regular cardinal", "line": 5389, "v": "KEEP", "zh": "正则基数", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "regularity", "line": 5390, "v": "KEEP", "zh": "规则性", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "regulative desire", "line": 5391, "v": "KEEP", "zh": "规约性欲望", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "regulative development", "line": 5392, "v": "KEEP", "zh": "调整型发育", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "regulative ideal", "line": 5393, "v": "KEEP", "zh": "范导性理想", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "regulatory network", "line": 5394, "v": "KEEP", "zh": "调控网络", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reification", "line": 5395, "v": "KEEP", "zh": "物化", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reify", "line": 5396, "v": "FLAG", "zh": "实体化", "orig": "—", "note": "主译撞形：“实体化”同时对应 hypostasized、hypostatisation、substantialization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "reinforcement", "line": 5397, "v": "KEEP", "zh": "强化", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reinforcement learning", "line": 5398, "v": "KEEP", "zh": "强化学习", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reism", "line": 5399, "v": "KEEP", "zh": "事物论", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reistic nominalism", "line": 5400, "v": "KEEP", "zh": "事物论唯名论", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "rejection rule", "line": 5401, "v": "KEEP", "zh": "拒斥规则", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relajiento", "line": 5402, "v": "FLAG", "zh": "保留原文（复数 relajientos）", "orig": "—", "note": "主译撞形：“保留原文”同时对应 apretado、nepantla、relajo、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "relajo", "line": 5403, "v": "FLAG", "zh": "保留原文（严肃性之悬置）", "orig": "—", "note": "主译撞形：“保留原文”同时对应 apretado、nepantla、relajiento、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "relation", "line": 5404, "v": "KEEP", "zh": "关系", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relation noun", "line": 5405, "v": "KEEP", "zh": "关系名词", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Relational", "line": 5406, "v": "KEEP", "zh": "关系性", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relational facts", "line": 5407, "v": "KEEP", "zh": "关系性事实（亦作“关系事实”）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relational ontology", "line": 5408, "v": "KEEP", "zh": "关系性本体论", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relational quantum mechanics", "line": 5409, "v": "KEEP", "zh": "关系性量子力学", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relationalism (RQM)", "line": 5410, "v": "KEEP", "zh": "关系主义", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relationalism（space and time）", "line": 5411, "v": "FLAG", "zh": "关系论", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r22"}
+{"key": "relative adjectives", "line": 5412, "v": "KEEP", "zh": "相对形容词", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relative consistency", "line": 5413, "v": "KEEP", "zh": "相对相容性", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relative frequency", "line": 5414, "v": "KEEP", "zh": "相对频率", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relative state", "line": 5415, "v": "KEEP", "zh": "相对态", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relative-state formulation", "line": 5416, "v": "KEEP", "zh": "相对态表述", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Relativism", "line": 5417, "v": "KEEP", "zh": "相对主义", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relativistic cosmology", "line": 5418, "v": "KEEP", "zh": "相对论宇宙学", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relativity", "line": 5419, "v": "KEEP", "zh": "相对性", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relevance", "line": 5420, "v": "FLAG", "zh": "相关性", "orig": "—", "note": "主译撞形：“相关性”同时对应 correlation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "relevance logic", "line": 5421, "v": "FLAG", "zh": "相干逻辑", "orig": "—", "note": "主译撞形：“相干逻辑”同时对应 relevant logic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "relevance relation", "line": 5422, "v": "KEEP", "zh": "相关性关系", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relevant alternatives", "line": 5423, "v": "KEEP", "zh": "相关替代项", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relevant entailment", "line": 5424, "v": "KEEP", "zh": "相干衍推", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relevant logic", "line": 5425, "v": "MERGE", "zh": "相干逻辑", "orig": "—", "note": "与 relevance logic 行（行 5421）同一逻辑的两种英文名、同译“相干逻辑”；并入 relevance logic 行（相关亦作另注）", "sheet": "r22"}
+{"key": "relevant modal logic", "line": 5426, "v": "KEEP", "zh": "相干模态逻辑", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "relevant predication", "line": 5427, "v": "KEEP", "zh": "相干谓述", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reliabilism", "line": 5428, "v": "KEEP", "zh": "可靠论（亦作“可靠主义”）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reliability", "line": 5429, "v": "FLAG", "zh": "可靠性", "orig": "—", "note": "主译撞形：“可靠性”同时对应 soundness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "reliability index", "line": 5430, "v": "KEEP", "zh": "可靠性指数", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reliable cognition（tshad ma）", "line": 5431, "v": "FLAG", "zh": "可靠认知（即“量”；藏文 tshad ma 本词条通译作“量”）", "orig": "ཚད་མ་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r22"}
+{"key": "reliable tradition", "line": 5432, "v": "KEEP", "zh": "可靠传统", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Religion within the Bounds of Reason Alone", "line": 5433, "v": "KEEP", "zh": "《纯然理性界限内的宗教》", "orig": "Die Religion innerhalb der Grenzen der bloßen Vernunft", "note": null, "sheet": "r22"}
+{"key": "religious belief", "line": 5434, "v": "KEEP", "zh": "宗教信念", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "religious community", "line": 5435, "v": "KEEP", "zh": "宗教共同体", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "religious epistemology", "line": 5436, "v": "KEEP", "zh": "宗教认识论", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "religious exceptionalism", "line": 5437, "v": "KEEP", "zh": "宗教例外论", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Remonstrants", "line": 5438, "v": "KEEP", "zh": "抗辩派", "orig": "Remonstranten", "note": null, "sheet": "r22"}
+{"key": "remote inherence", "line": 5439, "v": "KEEP", "zh": "远距离内属", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "ren", "line": 5440, "v": "KEEP", "zh": "仁（humaneness 仁爱冲动／humanity 仁之主题；视语境）", "orig": "仁", "note": null, "sheet": "r22"}
+{"key": "Renaissance", "line": 5441, "v": "KEEP", "zh": "文艺复兴", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "renormalization group", "line": 5442, "v": "KEEP", "zh": "重正化群", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Renshuo", "line": 5443, "v": "KEEP", "zh": "《仁说》", "orig": "《仁说》", "note": null, "sheet": "r22"}
+{"key": "repeater", "line": 5444, "v": "KEEP", "zh": "重看者", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "repertoire", "line": 5445, "v": "KEEP", "zh": "本领库", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "repetition", "line": 5446, "v": "KEEP", "zh": "重复", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "replacement", "line": 5447, "v": "KEEP", "zh": "替换", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "replacement site", "line": 5448, "v": "KEEP", "zh": "替换位点", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "replication", "line": 5449, "v": "KEEP", "zh": "复制", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "replicator", "line": 5450, "v": "KEEP", "zh": "复制者（亦作“复制因子”）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reportationes", "line": 5451, "v": "KEEP", "zh": "听课记录", "orig": "reportationes", "note": null, "sheet": "r22"}
+{"key": "Representation", "line": 5452, "v": "KEEP", "zh": "表征", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "representation theorem", "line": 5453, "v": "KEEP", "zh": "表征定理", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "representational scope", "line": 5454, "v": "KEEP", "zh": "表征范围", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "representational target", "line": 5455, "v": "KEEP", "zh": "表征目标", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "representationalism", "line": 5456, "v": "KEEP", "zh": "表征主义（亦作“表象主义”“表象论”）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "representationalist", "line": 5457, "v": "FLAG", "zh": "表象论的", "orig": "—", "note": "与 representationalism 行（行 5456，表征主义，A 档裁定）族内不一：本行作“表象论”（该行仅列“亦作”）；须统一为“表征主义的／表征论者”，或按本行语境说明分域", "sheet": "r22"}
+{"key": "representative agents / representative individuals", "line": 5458, "v": "KEEP", "zh": "代表性行为者／代表性个体", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "representor", "line": 5459, "v": "KEEP", "zh": "表征集", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reprobation", "line": 5460, "v": "KEEP", "zh": "弃绝（亦作“遗弃”）", "orig": "reprobatio", "note": null, "sheet": "r22"}
+{"key": "reproducibility", "line": 5461, "v": "KEEP", "zh": "可重复性", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reproduction", "line": 5462, "v": "KEEP", "zh": "生殖", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reproductive cloning", "line": 5463, "v": "KEEP", "zh": "生殖性克隆", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "reproductive fitness", "line": 5464, "v": "KEEP", "zh": "繁殖适合度", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Republic", "line": 5465, "v": "KEEP", "zh": "《理想国》", "orig": "Πολιτεία", "note": null, "sheet": "r22"}
+{"key": "republic of letters", "line": 5466, "v": "KEEP", "zh": "文人共和国", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "republican cosmopolitanism", "line": 5467, "v": "KEEP", "zh": "共和主义世界主义", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "republicanism", "line": 5468, "v": "KEEP", "zh": "共和主义", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "repugnant conclusion", "line": 5469, "v": "KEEP", "zh": "令人反感的结论", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "repulsion", "line": 5470, "v": "KEEP", "zh": "排斥", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "res considerata", "line": 5471, "v": "KEEP", "zh": "所考虑之物（保留拉丁）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Research", "line": 5472, "v": "KEEP", "zh": "研究", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "research participant", "line": 5473, "v": "KEEP", "zh": "研究参与者", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "research programme", "line": 5474, "v": "KEEP", "zh": "研究纲领", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "research tradition", "line": 5475, "v": "KEEP", "zh": "研究传统", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "resemblance nominalism", "line": 5476, "v": "KEEP", "zh": "相似唯名论", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "resemblance theory", "line": 5477, "v": "KEEP", "zh": "相似论", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "resentment", "line": 5478, "v": "KEEP", "zh": "怨恨", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "residuated lattice", "line": 5479, "v": "KEEP", "zh": "剩余格", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "residuation condition", "line": 5480, "v": "KEEP", "zh": "剩余条件", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "residuum", "line": 5481, "v": "KEEP", "zh": "剩余", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "resiliency", "line": 5482, "v": "FLAG", "zh": "弹性", "orig": "—", "note": "主译撞形：“弹性”同时对应 sthitisthāpaka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "resolutio", "line": 5483, "v": "KEEP", "zh": "分解（ordo resolutivus 分解秩序；resolutive method 分解法）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "resource allocation", "line": 5484, "v": "KEEP", "zh": "资源配置", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "respondent", "line": 5485, "v": "KEEP", "zh": "应答者", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "responder", "line": 5486, "v": "KEEP", "zh": "回应者", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "response condition", "line": 5487, "v": "KEEP", "zh": "反应条件", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "responsibility", "line": 5488, "v": "FLAG", "zh": "责任", "orig": "—", "note": "主译撞形：“责任”同时对应 liability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "Responsibility to Protect", "line": 5489, "v": "KEEP", "zh": "保护的责任", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "respublica", "line": 5490, "v": "FLAG", "zh": "拉丁原文保留（公共关切/共同善）", "orig": "respublica", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "restitution", "line": 5491, "v": "KEEP", "zh": "返还", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "Restoration Argument", "line": 5492, "v": "KEEP", "zh": "恢复论证", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "restoration of virginity", "line": 5493, "v": "KEEP", "zh": "恢复贞洁（亦作“贞洁的恢复”）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "restricted quantification", "line": 5494, "v": "KEEP", "zh": "受限量化", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "restriction", "line": 5495, "v": "FLAG", "zh": "限缩", "orig": "—", "note": "主译撞形：“限缩”同时对应 circumscription (of sovereignty)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r22"}
+{"key": "restrictor", "line": 5496, "v": "KEEP", "zh": "限制域（亦作“限制词”）", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "resurrection", "line": 5497, "v": "KEEP", "zh": "复活", "orig": "—", "note": null, "sheet": "r22"}
+{"key": "retentive faculty", "line": 5498, "v": "KEEP", "zh": "保留官能", "orig": "—", "note": null, "sheet": "r22"}
 {"key": "reversion", "line": 5506, "v": "FLAG", "zh": "回返", "orig": "—", "note": "主译撞形：“回返”同时对应 epistrophe；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "right of nature", "line": 5522, "v": "FLAG", "zh": "自然权利", "orig": "—", "note": "主译撞形：“自然权利”同时对应 natural right / Natural Rights；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "sabab", "line": 5577, "v": "FLAG", "zh": "次级原因", "orig": "سبب", "note": "主译撞形：“次级原因”同时对应 secondary causes；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}

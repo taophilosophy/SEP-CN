@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 3720，FLAG 724，FIX 38，MERGE 11
+判定分布：KEEP 3900，FLAG 726，FIX 38，MERGE 12
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -618,16 +618,19 @@
 - **re-experiencing**（行 5301，现译「再体验」）｜ FLAG ｜ 主译撞形：“再体验”同时对应 nacherleben；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **reaction norm**（行 5302，现译「反应规范」）｜ FLAG ｜ 主译撞形：“反应规范”同时对应 norm of reaction；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **recognition (Ricoeur)**（行 5336，现译「承认」）｜ FLAG ｜ 主译撞形：“承认”同时对应 acknowledgement (Anerkennung)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **reference class problem**（行 5362，现译「参考类问题」）｜ FLAG ｜ 与 reference class 行（行 5361，参照类）族内不一：同行作“参考类问题”而主词行作“参照类”（两行皆称学界通行）；须统一（建议一并作“参照类”）
 - **reflexive awareness**（行 5371，现译「自证」）｜ FLAG ｜ 主译撞形：“自证”同时对应 svasaṃvedana；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **regress problem**（行 5387，现译「回溯问题」）｜ FLAG ｜ 与 Regress 行（行 5385，倒退）及 regress argument 行（行 5386，倒退论证）族内不一：同行作“回溯问题”，同属知识论语境两译并存；须统一（通行“倒退／无穷倒退”，回溯可作亦作）
 - **reify**（行 5396，现译「实体化」）｜ FLAG ｜ 主译撞形：“实体化”同时对应 hypostasized、hypostatisation、substantialization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **relajiento**（行 5402，现译「保留原文（复数 relajientos）」）｜ FLAG ｜ 主译撞形：“保留原文”同时对应 apretado、nepantla、relajo、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **relajo**（行 5403，现译「保留原文（严肃性之悬置）」）｜ FLAG ｜ 主译撞形：“保留原文”同时对应 apretado、nepantla、relajiento、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **relationalism（space and time）**（行 5411，现译「关系论」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **relevance**（行 5420，现译「相关性」）｜ FLAG ｜ 主译撞形：“相关性”同时对应 correlation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **relevance logic**（行 5421，现译「相干逻辑」）｜ FLAG ｜ 主译撞形：“相干逻辑”同时对应 relevant logic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **relevant logic**（行 5425，现译「相干逻辑」）｜ FLAG ｜ 主译撞形：“相干逻辑”同时对应 relevance logic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **relevant logic**（行 5425，现译「相干逻辑」）｜ MERGE ｜ 与 relevance logic 行（行 5421）同一逻辑的两种英文名、同译“相干逻辑”；并入 relevance logic 行（相关亦作另注）
 - **reliability**（行 5429，现译「可靠性」）｜ FLAG ｜ 主译撞形：“可靠性”同时对应 soundness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **reliable cognition（tshad ma）**（行 5431，现译「可靠认知（即“量”；藏文 tshad ma 本词条通译作“量”）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **representationalist**（行 5457，现译「表象论的」）｜ FLAG ｜ 与 representationalism 行（行 5456，表征主义，A 档裁定）族内不一：本行作“表象论”（该行仅列“亦作”）；须统一为“表征主义的／表征论者”，或按本行语境说明分域
 - **resiliency**（行 5482，现译「弹性」）｜ FLAG ｜ 主译撞形：“弹性”同时对应 sthitisthāpaka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **responsibility**（行 5488，现译「责任」）｜ FLAG ｜ 主译撞形：“责任”同时对应 liability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **respublica**（行 5490，现译「拉丁原文保留（公共关切/共同善）」）｜ FLAG ｜ 主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
