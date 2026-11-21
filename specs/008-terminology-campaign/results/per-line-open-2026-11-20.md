@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 4428，FLAG 727，FIX 39，MERGE 21
+判定分布：KEEP 4612，FLAG 727，FIX 39，MERGE 24
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -708,17 +708,20 @@
 - **spacetime geometry**（行 6081，现译「时空几何」）｜ FLAG ｜ 主译撞形：“时空几何”同时对应 chronogeometry；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **species（经院认识论）**（行 6097，现译「种相（首现括注 *species*）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **spirits**（行 6116，现译「精气」）｜ FLAG ｜ 主译撞形：“精气”同时对应 spiritus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **spiritualism**（行 6120，现译「唯灵论（≠唯心论 idealism；hartshorne 实抓误译）」）｜ FLAG ｜ 译名“唯灵论”本身可，但登记自注“hartshorne 实抓误译”——该处用语系 idealism 的误译，属用语抓错族；须重抓该条用语（改取唯灵论实指语境），并核对全库其余用语
 - **spiritus**（行 6122，现译「精气」）｜ FLAG ｜ 主译撞形：“精气”同时对应 spirits；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **spontaneous acts**（行 6126，现译「自发行为」）｜ FLAG ｜ 主译撞形：“自发行为”同时对应 spontaneous conduct；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **spontaneous conduct**（行 6127，现译「自发行为」）｜ FLAG ｜ 主译撞形：“自发行为”同时对应 spontaneous acts；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **spontaneous conduct**（行 6127，现译「自发行为」）｜ MERGE ｜ 与 spontaneous acts 行（行 6126）同译“自发行为”（spontane Akte／spontaneous conduct 近义）；合并为一行，conduct 义注于行内
+- **square of contraries**（行 6135，现译「对立方阵」）｜ MERGE ｜ 登记自注“即对当方阵”，与 square of opposition 行（行 6136，对当方阵）同一图示；并入该行（SUMMARY 题名“传统逻辑方阵”注于行内）
 - **standing-in-itself**（行 6163，现译「自立（standing-in-itself；亦作“自身站立”）」）｜ FLAG ｜ 主译撞形：“自立”同时对应 self-reliance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **state of affairs**（行 6173，现译「事态」）｜ FLAG ｜ 主译撞形：“事态”同时对应 states of affairs；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **States General**（行 6178，现译「三级会议」）｜ FLAG ｜ 主译撞形：“三级会议”同时对应 Estates General；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **states of affairs**（行 6179，现译「事态」）｜ FLAG ｜ 主译撞形：“事态”同时对应 state of affairs；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **states of affairs**（行 6179，现译「事态」）｜ MERGE ｜ 与 state of affairs 行（行 6173）同译“事态”（单复数两键），单数行已注“单数形不另立译名”；按该登记意图合并（SUMMARY 词条名 s/states-of-affairs.md 另行保留）
 - **sthitisthāpaka**（行 6196，现译「弹性（复性力）」）｜ FLAG ｜ 主译撞形：“弹性”同时对应 resiliency；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **stuff**（行 6235，现译「质料」）｜ FLAG ｜ 主译撞形：“质料”同时对应 matter、pudgala（耆那教物质义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **substance**（行 6268，现译「实体（黑格尔/伽达默尔语境）」）｜ FLAG ｜ 主译撞形：“实体”同时对应 dravya、entity、jawhar；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **substantialization**（行 6274，现译「实体化（实体性）」）｜ FLAG ｜ 主译撞形：“实体化”同时对应 hypostasized、hypostatisation、reify；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **substitution instance**（行 6278，现译「替换实例」）｜ FLAG ｜ 族内不一：substitution 行（行 6277）与 substitution rule 行（行 6280）皆作“代入”，本行独作“替换实例”；证明论汉译“代入实例”与“替换实例”并用，同一术语表宜择一（建议“代入实例”），登记分域理由另注
 - **Summaries of epistemology（tshad ma'i bsdus pa）**（行 6300，现译「量论撮要（tshad ma'i bsdus pa）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **sunkrisis**（行 6306，现译「结合」）｜ FLAG ｜ 主译撞形：“结合”同时对应 copulation (copulatio)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **supposit for**（行 6329，现译「指代（某物）」）｜ FLAG ｜ 主译撞形：“指代”同时对应 supposition (suppositio)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并

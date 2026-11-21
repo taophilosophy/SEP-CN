@@ -5129,19 +5129,206 @@
 {"key": "specific gravity", "line": 6101, "v": "KEEP", "zh": "比重", "orig": "—", "note": null, "sheet": "r25"}
 {"key": "specification objection", "line": 6102, "v": "KEEP", "zh": "指定诘难", "orig": "—", "note": null, "sheet": "r25"}
 {"key": "specified set", "line": 6103, "v": "KEEP", "zh": "指定集", "orig": "—", "note": null, "sheet": "r25"}
-{"key": "spirits", "line": 6116, "v": "FLAG", "zh": "精气", "orig": "—", "note": "主译撞形：“精气”同时对应 spiritus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "spiritus", "line": 6122, "v": "FLAG", "zh": "精气", "orig": "—", "note": "主译撞形：“精气”同时对应 spirits；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "spontaneous acts", "line": 6126, "v": "FLAG", "zh": "自发行为", "orig": "—", "note": "主译撞形：“自发行为”同时对应 spontaneous conduct；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "spontaneous conduct", "line": 6127, "v": "FLAG", "zh": "自发行为", "orig": "—", "note": "主译撞形：“自发行为”同时对应 spontaneous acts；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "standing-in-itself", "line": 6163, "v": "FLAG", "zh": "自立（standing-in-itself；亦作“自身站立”）", "orig": "—", "note": "主译撞形：“自立”同时对应 self-reliance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "state of affairs", "line": 6173, "v": "FLAG", "zh": "事态", "orig": "—", "note": "主译撞形：“事态”同时对应 states of affairs；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "States General", "line": 6178, "v": "FLAG", "zh": "三级会议", "orig": "Staten-Generaal", "note": "主译撞形：“三级会议”同时对应 Estates General；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "states of affairs", "line": 6179, "v": "FLAG", "zh": "事态", "orig": "—", "note": "主译撞形：“事态”同时对应 state of affairs；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "sthitisthāpaka", "line": 6196, "v": "FLAG", "zh": "弹性（复性力）", "orig": "स्थितिस्थापक", "note": "主译撞形：“弹性”同时对应 resiliency；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "stuff", "line": 6235, "v": "FLAG", "zh": "质料", "orig": "—", "note": "主译撞形：“质料”同时对应 matter、pudgala（耆那教物质义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "substance", "line": 6268, "v": "FLAG", "zh": "实体（黑格尔/伽达默尔语境）", "orig": "—", "note": "主译撞形：“实体”同时对应 dravya、entity、jawhar；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "substantialization", "line": 6274, "v": "FLAG", "zh": "实体化（实体性）", "orig": "sustancialidad", "note": "主译撞形：“实体化”同时对应 hypostasized、hypostatisation、reify；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Summaries of epistemology（tshad ma'i bsdus pa）", "line": 6300, "v": "FLAG", "zh": "量论撮要（tshad ma'i bsdus pa）", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
+{"key": "specimen", "line": 6104, "v": "KEEP", "zh": "标本", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "spectator blame", "line": 6105, "v": "KEEP", "zh": "旁观者责备", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "speculative", "line": 6106, "v": "KEEP", "zh": "思辨的（speculative dimension 思辨维度）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "speculative materialism", "line": 6107, "v": "KEEP", "zh": "思辨唯物主义", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "speech acts", "line": 6108, "v": "KEEP", "zh": "言语行为", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "speech perception", "line": 6109, "v": "KEEP", "zh": "言语知觉", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "speech production", "line": 6110, "v": "KEEP", "zh": "言语生成", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "sphoṭa", "line": 6111, "v": "KEEP", "zh": "迸发说", "orig": "स्फोट", "note": null, "sheet": "r26"}
+{"key": "spin", "line": 6112, "v": "KEEP", "zh": "自旋", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "spinor", "line": 6113, "v": "KEEP", "zh": "旋量", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Spinozism", "line": 6114, "v": "KEEP", "zh": "斯宾诺莎主义", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "spirit-seer", "line": 6115, "v": "KEEP", "zh": "视灵者", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "spirits", "line": 6116, "v": "FLAG", "zh": "精气", "orig": "—", "note": "主译撞形：“精气”同时对应 spiritus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r26"}
+{"key": "spiritual matter", "line": 6117, "v": "KEEP", "zh": "精神质料", "orig": "materia spiritualis", "note": null, "sheet": "r26"}
+{"key": "spiritual matter / corporeal matter", "line": 6118, "v": "KEEP", "zh": "精神的质料／有形的质料", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "spiritual sense", "line": 6119, "v": "KEEP", "zh": "灵性感官", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "spiritualism", "line": 6120, "v": "FLAG", "zh": "唯灵论（≠唯心论 idealism；hartshorne 实抓误译）", "orig": "—", "note": "译名“唯灵论”本身可，但登记自注“hartshorne 实抓误译”——该处用语系 idealism 的误译，属用语抓错族；须重抓该条用语（改取唯灵论实指语境），并核对全库其余用语", "sheet": "r26"}
+{"key": "Spirituals", "line": 6121, "v": "KEEP", "zh": "属灵派（亦作“灵修派”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "spiritus", "line": 6122, "v": "FLAG", "zh": "精气", "orig": "—", "note": "主译撞形：“精气”同时对应 spirits；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r26"}
+{"key": "spiritus e semine eductus", "line": 6123, "v": "KEEP", "zh": "由种子导出的精气", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "spiritus naturalis / vitalis / animalis", "line": 6124, "v": "KEEP", "zh": "自然精气／活力精气／动物精气", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "spontaneity", "line": 6125, "v": "KEEP", "zh": "自发性", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "spontaneous acts", "line": 6126, "v": "FLAG", "zh": "自发行为", "orig": "—", "note": "主译撞形：“自发行为”同时对应 spontaneous conduct；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r26"}
+{"key": "spontaneous conduct", "line": 6127, "v": "MERGE", "zh": "自发行为", "orig": "—", "note": "与 spontaneous acts 行（行 6126）同译“自发行为”（spontane Akte／spontaneous conduct 近义）；合并为一行，conduct 义注于行内", "sheet": "r26"}
+{"key": "spontaneous generation", "line": 6128, "v": "KEEP", "zh": "自然发生说（亦作“自然发生”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "spooky non-agential (origin)", "line": 6129, "v": "KEEP", "zh": "鬼魅式非人格（起源）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "sprachloses Denken", "line": 6130, "v": "KEEP", "zh": "无语言的思维", "orig": "sprachloses Denken", "note": null, "sheet": "r26"}
+{"key": "Sprachnot", "line": 6131, "v": "KEEP", "zh": "语言之匮乏", "orig": "Sprachnot", "note": null, "sheet": "r26"}
+{"key": "spread (intuitionism)", "line": 6132, "v": "KEEP", "zh": "展形（亦作“展开”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "spreading activation", "line": 6133, "v": "KEEP", "zh": "激活扩散", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "spyware", "line": 6134, "v": "KEEP", "zh": "间谍软件", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "square of contraries", "line": 6135, "v": "MERGE", "zh": "对立方阵", "orig": "—", "note": "登记自注“即对当方阵”，与 square of opposition 行（行 6136，对当方阵）同一图示；并入该行（SUMMARY 题名“传统逻辑方阵”注于行内）", "sheet": "r26"}
+{"key": "square of opposition", "line": 6136, "v": "KEEP", "zh": "对当方阵（亦作“逻辑方阵”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "squeezing argument", "line": 6137, "v": "KEEP", "zh": "挤压论证", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "śramana", "line": 6138, "v": "KEEP", "zh": "沙门", "orig": "śramaṇa", "note": null, "sheet": "r26"}
+{"key": "śrāvaka", "line": 6139, "v": "KEEP", "zh": "声闻", "orig": "श्रावक", "note": null, "sheet": "r26"}
+{"key": "Śrāvakabhūmi", "line": 6140, "v": "KEEP", "zh": "《声闻地》", "orig": "श्रावकभूमि", "note": null, "sheet": "r26"}
+{"key": "Śrāvakayāna", "line": 6141, "v": "KEEP", "zh": "声闻乘", "orig": "श्रावकयान", "note": null, "sheet": "r26"}
+{"key": "St. Petersburg", "line": 6142, "v": "KEEP", "zh": "圣彼得堡（地名）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "St. Petersburg paradox", "line": 6143, "v": "KEEP", "zh": "圣彼得堡悖论", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stability", "line": 6144, "v": "KEEP", "zh": "稳定性", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stable marriage (problem)", "line": 6145, "v": "KEEP", "zh": "稳定婚姻（问题）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stable match", "line": 6146, "v": "KEEP", "zh": "稳定匹配", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stack semantics", "line": 6147, "v": "KEEP", "zh": "栈语义", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stadial theory", "line": 6148, "v": "KEEP", "zh": "阶段论（四阶段理论）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Stadium (paradox)", "line": 6149, "v": "KEEP", "zh": "运动场（悖论名）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stakeholder model", "line": 6150, "v": "KEEP", "zh": "利益相关方模式", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stand-in model", "line": 6151, "v": "KEEP", "zh": "替身模型", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "standard account", "line": 6152, "v": "KEEP", "zh": "标准说明", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "standard deviation", "line": 6153, "v": "KEEP", "zh": "标准差", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "standard synchrony", "line": 6154, "v": "KEEP", "zh": "标准同步（亦作“标准同时性”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "standard theory (of conditions)", "line": 6155, "v": "KEEP", "zh": "标准理论", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "standard translation", "line": 6156, "v": "KEEP", "zh": "标准翻译", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Stände", "line": 6157, "v": "KEEP", "zh": "等级（邦等级）", "orig": "Stände", "note": null, "sheet": "r26"}
+{"key": "Ständesstaat", "line": 6158, "v": "KEEP", "zh": "等级国家", "orig": "Ständesstaat", "note": null, "sheet": "r26"}
+{"key": "standing armies", "line": 6159, "v": "KEEP", "zh": "常备军", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "standing desire", "line": 6160, "v": "KEEP", "zh": "常驻欲望", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "standing to blame", "line": 6161, "v": "KEEP", "zh": "责备资格", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "standing variation", "line": 6162, "v": "KEEP", "zh": "存量变异", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "standing-in-itself", "line": 6163, "v": "FLAG", "zh": "自立（standing-in-itself；亦作“自身站立”）", "orig": "—", "note": "主译撞形：“自立”同时对应 self-reliance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r26"}
+{"key": "Star of Redemption", "line": 6164, "v": "KEEP", "zh": "《救赎之星》", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "star operator", "line": 6165, "v": "KEEP", "zh": "星号算子", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stare decisis / ratio decidendi", "line": 6166, "v": "KEEP", "zh": "遵循先例（stare decisis）／判决理由（ratio decidendi）", "orig": "stare decisis / ratio decidendi", "note": null, "sheet": "r26"}
+{"key": "starting theory", "line": 6167, "v": "KEEP", "zh": "起始理论", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "startle response", "line": 6168, "v": "KEEP", "zh": "惊跳反应", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "state (of the world)", "line": 6169, "v": "KEEP", "zh": "世界状态", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "state capitalism", "line": 6170, "v": "KEEP", "zh": "国家资本主义", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "state gratitude", "line": 6171, "v": "KEEP", "zh": "状态感恩", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "state intervention", "line": 6172, "v": "KEEP", "zh": "国家干预", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "state of affairs", "line": 6173, "v": "FLAG", "zh": "事态", "orig": "—", "note": "主译撞形：“事态”同时对应 states of affairs；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r26"}
+{"key": "state of nature", "line": 6174, "v": "KEEP", "zh": "自然状态", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "state of war", "line": 6175, "v": "KEEP", "zh": "战争状态", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "state space", "line": 6176, "v": "KEEP", "zh": "状态空间", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "state transition", "line": 6177, "v": "KEEP", "zh": "状态转移（亦作“状态转换”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "States General", "line": 6178, "v": "FLAG", "zh": "三级会议", "orig": "Staten-Generaal", "note": "主译撞形：“三级会议”同时对应 Estates General；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r26"}
+{"key": "states of affairs", "line": 6179, "v": "MERGE", "zh": "事态", "orig": "—", "note": "与 state of affairs 行（行 6173）同译“事态”（单复数两键），单数行已注“单数形不另立译名”；按该登记意图合并（SUMMARY 词条名 s/states-of-affairs.md 另行保留）", "sheet": "r26"}
+{"key": "states of peace", "line": 6180, "v": "KEEP", "zh": "和平状态", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stationary state", "line": 6181, "v": "KEEP", "zh": "定态", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "statistical inference", "line": 6182, "v": "KEEP", "zh": "统计推断", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "statistical learning", "line": 6183, "v": "KEEP", "zh": "统计学习", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "statistical physics", "line": 6184, "v": "KEEP", "zh": "统计物理学", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "statistical relevance (SR) model", "line": 6185, "v": "KEEP", "zh": "统计相关性（SR）模型", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "statistical significance", "line": 6186, "v": "KEEP", "zh": "统计显著性", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "steady-state cosmology", "line": 6187, "v": "KEEP", "zh": "稳恒态宇宙学", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "steady-state theory", "line": 6188, "v": "KEEP", "zh": "稳恒态理论", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "steering", "line": 6189, "v": "KEEP", "zh": "操控", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stem cell", "line": 6190, "v": "KEEP", "zh": "干细胞", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stem cell bank", "line": 6191, "v": "KEEP", "zh": "干细胞库", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stem cell line", "line": 6192, "v": "KEEP", "zh": "干细胞系", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stemness", "line": 6193, "v": "KEEP", "zh": "干性", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Sterblichkeitsgefühl", "line": 6194, "v": "KEEP", "zh": "有死感", "orig": "Sterblichkeitsgefühl", "note": null, "sheet": "r26"}
+{"key": "stereoscope", "line": 6195, "v": "KEEP", "zh": "立体镜", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "sthitisthāpaka", "line": 6196, "v": "FLAG", "zh": "弹性（复性力）", "orig": "स्थितिस्थापक", "note": "主译撞形：“弹性”同时对应 resiliency；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r26"}
+{"key": "stipulative", "line": 6197, "v": "KEEP", "zh": "规定性的", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stipulative definition", "line": 6198, "v": "KEEP", "zh": "规定性定义", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stock centre", "line": 6199, "v": "KEEP", "zh": "种质资源中心", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Stoic", "line": 6200, "v": "KEEP", "zh": "斯多葛（斯多葛学派；亦作“斯多亚”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Stoicism", "line": 6201, "v": "KEEP", "zh": "斯多葛主义", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Stone representation theorem", "line": 6202, "v": "KEEP", "zh": "斯通表示定理", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Stranger", "line": 6203, "v": "KEEP", "zh": "局外人", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "strategic voting", "line": 6204, "v": "KEEP", "zh": "策略性投票", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "strategy-proof", "line": 6205, "v": "KEEP", "zh": "防策略（的）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stratification", "line": 6206, "v": "KEEP", "zh": "分层", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stratified", "line": 6207, "v": "KEEP", "zh": "分层的", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stratified comprehension", "line": 6208, "v": "KEEP", "zh": "分层概括", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stratified semantics", "line": 6209, "v": "KEEP", "zh": "分层语义", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "strict finitism", "line": 6210, "v": "KEEP", "zh": "严格有穷论（亦作“严格有限主义”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "strict implication", "line": 6211, "v": "KEEP", "zh": "严格蕴涵", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "strict preference", "line": 6212, "v": "KEEP", "zh": "严格偏好", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "strict/tolerant validity", "line": 6213, "v": "KEEP", "zh": "严格/宽容有效性", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "string", "line": 6214, "v": "KEEP", "zh": "字符串", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stringency (of an argument pattern)", "line": 6215, "v": "KEEP", "zh": "严格度", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "striving possibles", "line": 6216, "v": "KEEP", "zh": "力求存在的可能者（亦作“力争存在的可能者”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "strong completeness", "line": 6217, "v": "KEEP", "zh": "强完全性", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "strong conjunction", "line": 6218, "v": "KEEP", "zh": "强合取", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "strong counterexample", "line": 6219, "v": "KEEP", "zh": "强反例", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "strong loop", "line": 6220, "v": "KEEP", "zh": "强循环", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "strongly actualize", "line": 6221, "v": "KEEP", "zh": "强现实化", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "strongly inductive", "line": 6222, "v": "KEEP", "zh": "强归纳的", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "strongly reductive", "line": 6223, "v": "KEEP", "zh": "强归约的", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "structural equation", "line": 6224, "v": "KEEP", "zh": "结构方程", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "structural nexus", "line": 6225, "v": "KEEP", "zh": "结构关联", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "structural realism", "line": 6226, "v": "KEEP", "zh": "结构实在论（“结构现实主义”是国际关系理论译名，勿混）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "structural relations", "line": 6227, "v": "KEEP", "zh": "结构关系", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "structural rule / structural rules", "line": 6228, "v": "KEEP", "zh": "结构规则", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "structural uniformities", "line": 6229, "v": "KEEP", "zh": "结构齐一性", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "structuralism", "line": 6230, "v": "KEEP", "zh": "结构主义", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Structure", "line": 6231, "v": "KEEP", "zh": "结构", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "structure group", "line": 6232, "v": "KEEP", "zh": "结构群", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "structure-mapping theory", "line": 6233, "v": "KEEP", "zh": "结构映射理论", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Struggle for Existence", "line": 6234, "v": "KEEP", "zh": "生存竞争", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "stuff", "line": 6235, "v": "FLAG", "zh": "质料", "orig": "—", "note": "主译撞形：“质料”同时对应 matter、pudgala（耆那教物质义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r26"}
+{"key": "Stutthof", "line": 6236, "v": "KEEP", "zh": "施图特霍夫", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Stuxnet", "line": 6237, "v": "KEEP", "zh": "震网", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "sub specie aeternitatis", "line": 6238, "v": "KEEP", "zh": "永恒之相", "orig": "sub specie aeternitatis", "note": null, "sheet": "r26"}
+{"key": "subalgebra", "line": 6239, "v": "KEEP", "zh": "子代数", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Subaltern Studies", "line": 6240, "v": "KEEP", "zh": "庶民研究（subaltern 庶民）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subalternated science", "line": 6241, "v": "KEEP", "zh": "从属科学（subalternari 从属）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subalternation", "line": 6242, "v": "KEEP", "zh": "从属（科学间的从属）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subdirect product", "line": 6243, "v": "KEEP", "zh": "次直积", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subformula", "line": 6244, "v": "KEEP", "zh": "子公式", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subformula property", "line": 6245, "v": "KEEP", "zh": "子公式性质", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subgame perfect Nash equilibrium", "line": 6246, "v": "KEEP", "zh": "子博弈完美纳什均衡", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subject-matter", "line": 6247, "v": "KEEP", "zh": "主题（伽达默尔/艺术语境；Gadamer 的 Sache）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subjectedness", "line": 6248, "v": "KEEP", "zh": "受治", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subjective probability", "line": 6249, "v": "KEEP", "zh": "主观概率", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subjective right", "line": 6250, "v": "KEEP", "zh": "主观权利", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subjective well-being", "line": 6251, "v": "KEEP", "zh": "主观幸福感（亦作“主观幸福”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subjectivism", "line": 6252, "v": "KEEP", "zh": "主观主义", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subjectivist", "line": 6253, "v": "KEEP", "zh": "主观主义的", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subjectivity", "line": 6254, "v": "KEEP", "zh": "主体性", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Subjekt-Objekt-Spaltung", "line": 6255, "v": "KEEP", "zh": "主客分裂", "orig": "Subjekt-Objekt-Spaltung", "note": null, "sheet": "r26"}
+{"key": "subjunctive conditional", "line": 6256, "v": "KEEP", "zh": "虚拟条件句", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subjunctive conditional of freedom", "line": 6257, "v": "KEEP", "zh": "自由之虚拟条件句", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subjunctive hypocrisy", "line": 6258, "v": "KEEP", "zh": "反事实伪善", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "sublime", "line": 6259, "v": "KEEP", "zh": "崇高", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subliminal reasons", "line": 6260, "v": "KEEP", "zh": "阈下理由", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "sublunar world", "line": 6261, "v": "KEEP", "zh": "月下世界", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "sublunary beings", "line": 6262, "v": "KEEP", "zh": "月下存在者", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subpersonal", "line": 6263, "v": "KEEP", "zh": "亚个人的", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subsentential schema", "line": 6264, "v": "KEEP", "zh": "次语句图式", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subset view", "line": 6265, "v": "KEEP", "zh": "子集观", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subsidiarity", "line": 6266, "v": "KEEP", "zh": "辅助原则（亦作“辅助性原则”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subsistence", "line": 6267, "v": "KEEP", "zh": "自存", "orig": "subsistentia", "note": null, "sheet": "r26"}
+{"key": "substance", "line": 6268, "v": "FLAG", "zh": "实体（黑格尔/伽达默尔语境）", "orig": "—", "note": "主译撞形：“实体”同时对应 dravya、entity、jawhar；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r26"}
+{"key": "substance dualism", "line": 6269, "v": "KEEP", "zh": "实体二元论", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "substantial concept", "line": 6270, "v": "KEEP", "zh": "实体概念", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "substantial form", "line": 6271, "v": "KEEP", "zh": "实体形式", "orig": "forma substantialis", "note": null, "sheet": "r26"}
+{"key": "substantial union", "line": 6272, "v": "KEEP", "zh": "实体性结合", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "substantiality", "line": 6273, "v": "KEEP", "zh": "实体性", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "substantialization", "line": 6274, "v": "FLAG", "zh": "实体化（实体性）", "orig": "sustancialidad", "note": "主译撞形：“实体化”同时对应 hypostasized、hypostatisation、reify；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r26"}
+{"key": "substituend", "line": 6275, "v": "KEEP", "zh": "代入项", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "substituted judgment", "line": 6276, "v": "KEEP", "zh": "替代判断（亦作“替代决策”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "substitution", "line": 6277, "v": "KEEP", "zh": "代入", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "substitution instance", "line": 6278, "v": "FLAG", "zh": "替换实例", "orig": "—", "note": "族内不一：substitution 行（行 6277）与 substitution rule 行（行 6280）皆作“代入”，本行独作“替换实例”；证明论汉译“代入实例”与“替换实例”并用，同一术语表宜择一（建议“代入实例”），登记分域理由另注", "sheet": "r26"}
+{"key": "substitution of similars", "line": 6279, "v": "KEEP", "zh": "相似替换", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "substitution rule", "line": 6280, "v": "KEEP", "zh": "代入规则", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "substitutional load", "line": 6281, "v": "KEEP", "zh": "置换负荷（亦作“替换负荷”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "substratum", "line": 6282, "v": "KEEP", "zh": "基质", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "substructural logic", "line": 6283, "v": "KEEP", "zh": "子结构逻辑", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subsumption", "line": 6284, "v": "KEEP", "zh": "包摄（亦作“包含”）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subtraction", "line": 6285, "v": "KEEP", "zh": "相减", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "subvariety", "line": 6286, "v": "KEEP", "zh": "子簇", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "successive approximations", "line": 6287, "v": "KEEP", "zh": "逐次逼近", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "successor function", "line": 6288, "v": "KEEP", "zh": "后继函数", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "sufficient cause model", "line": 6289, "v": "KEEP", "zh": "充分原因模型", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "sufficient condition", "line": 6290, "v": "KEEP", "zh": "充分条件", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "sufficient reason", "line": 6291, "v": "KEEP", "zh": "充足理由", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "sufficientarian", "line": 6292, "v": "KEEP", "zh": "充足主义的", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "suffrage", "line": 6293, "v": "KEEP", "zh": "选举权", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Sufism", "line": 6294, "v": "KEEP", "zh": "苏非主义", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Sugatamatavibhaṅgakārikā", "line": 6295, "v": "KEEP", "zh": "《善逝意分别颂》", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "sukha", "line": 6296, "v": "KEEP", "zh": "乐", "orig": "सुख", "note": null, "sheet": "r26"}
+{"key": "sukiya", "line": 6297, "v": "KEEP", "zh": "数寄屋（茶室）", "orig": "数寄屋", "note": null, "sheet": "r26"}
+{"key": "Summa contra Gentiles", "line": 6298, "v": "KEEP", "zh": "《反异教大全》", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "Summa of Logic / Summa Logicae", "line": 6299, "v": "KEEP", "zh": "《逻辑大全》", "orig": "Summa Logicae", "note": null, "sheet": "r26"}
+{"key": "Summaries of epistemology（tshad ma'i bsdus pa）", "line": 6300, "v": "FLAG", "zh": "量论撮要（tshad ma'i bsdus pa）", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r26"}
+{"key": "summary function", "line": 6301, "v": "KEEP", "zh": "汇总函数", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "summum bonum", "line": 6302, "v": "KEEP", "zh": "至善（summum bonum）", "orig": "—", "note": null, "sheet": "r26"}
+{"key": "sumset", "line": 6303, "v": "KEEP", "zh": "并集", "orig": "—", "note": null, "sheet": "r26"}
 {"key": "sunkrisis", "line": 6306, "v": "FLAG", "zh": "结合", "orig": "σύγκρισις", "note": "主译撞形：“结合”同时对应 copulation (copulatio)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "supposit for", "line": 6329, "v": "FLAG", "zh": "指代（某物）", "orig": "—", "note": "主译撞形：“指代”同时对应 supposition (suppositio)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "supposition (suppositio)", "line": 6334, "v": "FLAG", "zh": "指代", "orig": "—", "note": "主译撞形：“指代”同时对应 supposit for；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
