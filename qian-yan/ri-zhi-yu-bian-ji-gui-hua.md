@@ -431,3 +431,10 @@
 * **MERGE 族**：同键变体与单复数／拼式重复（scepticism／skepticism、singleton set、possible worlds、poverty of stimulus、QFT／Quantum Field Theory、relevant logic、true class→proper class、units of selection、sophismata 两件、place (topos) 等）均并入主行，留变体注。
 * **连接号方向更正（自首）**：r02–r31 有 21 条 FIX 把“人名／概念复合短横线”判改一字线，方向判反——ADR-0041／rules/02 §连接号明定短横线＝复合名词与外来语内部分合（盎格鲁-撒克逊、让-雅克），一字线仅用于时间与地域起止，且 Tier 3 未批禁铺量；经复核 ADR 原文后 21 条全部撤回为 KEEP（Curry-Howard、Einstein-Podolsky-Rosen、Fischer-Ladner、Heine-Borel、historico-critical、honesty-humility、柏拉图-黑格尔、Kleene–Mostowski、知识-如何／那、科亨-施佩克尔×2、林登鲍姆–塔尔斯基、勒文海姆-斯科伦、手段-目的、米勒-莱尔、突变-选择平衡、正理-胜论、沃尔夫-鲍姆嘉通、波尔-罗亚尔、策梅洛-弗兰克尔），更正注已入台账。教训：连接号三形先按 ADR-0041 逐形核分工，不得以“统一方向”一句话概括全部连接号。
 * **待收口**：FLAG 726 键走 termonline-batch 联网核证通道裁定；FIX 40／MERGE 34 写回 `shu-yu-biao.md`（修弱势方，须凭证）并联动 m 系撞形 620／键形 84 队列。
+
+## 2026-11-21 术语表写回：FIX 19、MERGE 34（修弱势方）
+
+* **写回口径**：按 r 系逐行研判台账（2026-11-20）修弱势方——登记册行为弱势方者定值，依据列留凭证（逐行研判 2026-11-21）；吸收行删除，主行依据记“旧键并入”并录旧键首现。凭证表 `specs/008-terminology-campaign/results/writeback-2026-11-21.tsv`（类型／键／原文旧新／译法旧新／理由）。
+* **FIX 19 分型**：改译 8（后验必然性、现实论者、先天性、经典极限、坍缩模型、范畴的、能取所取、标记重捕法）、人名音译 1（斯科特同构定理）、删除跨行重复亦作 1（comprehension axiom）、原文列正列 8（Aufbau 补全、Bayes’／blob／Calvinism／causal closure／conceivability 归“—”、causa secundum esse 补录、acquired psychic nexus 去尾随空格）、译法列去释义 1（飞矢不动）。
+* **MERGE 34**：同键变体／单复数／拼式／首字母重复各行并入主键（scepticism、singleton set、possible worlds、poverty of stimulus、QFT、relevant logic、place (topos)、sophismata 两件、states of affairs、units of selection、true class、wu xing、yì 等），主行译法按需补亦作（correspondence theory of truth、Symphilosophie）。
+* **账**：登记册 7,109→7,075 数据行；`check_terms` 退出 0（无硬错误，余 924 条人名缺籍属／生卒告警为既有账）。台账文件系 2026-11-20 快照，写回后 34 键已离册——收集器已加缺键告警，后续勿盲目重生成以免丢 MERGE 记录。

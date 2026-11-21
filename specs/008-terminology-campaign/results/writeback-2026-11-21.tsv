@@ -1,0 +1,54 @@
+类型	键	原文旧	原文新	译法旧	译法新	理由
+FIX	a posteriori necessity	—	—	后天必然性	后验必然性	与本表 a posteriori＝后验 对齐；克里普克通译“后验必然性”
+FIX	acquired psychic nexus	erworbener Zusammenhang des Seelenlebens	erworbener Zusammenhang	获得的心理联系	获得的心理联系	原文列去尾随空格（内容不变）
+FIX	actualist	—	—	实际论	现实论者	词族对齐 actualism＝现实论
+FIX	apriority	—	—	先验性	先天性	a priori＝先天；先验属 transcendental
+FIX	Arrow (paradox)	—	—	飞矢不动（悖论名）	飞矢不动	译法列只收译名，释义移入依据
+FIX	Aufbau	Der logische Aufbau der Welt	Der logische Aufbau der Welt	《构造》	《构造》	补全书名（卡尔纳普），原列截断且带尾随空格
+FIX	Bayes’ Theorem	Bayes’ Theorem	—	贝叶斯定理	贝叶斯定理	英语术语不收原文列（ADR-0030 只收非汉语原生文字）
+FIX	blob	objects as blobs	—	团块	团块	原列“objects as blobs”为句段非术语原词
+FIX	Calvinism	Calvinistic scholasticism	—	加尔文主义	加尔文主义	原列拉丁形容词短语且截断，与键不对应
+FIX	categorematic	—	—	范畴式	范畴的	形容词形作“范畴的”；名词行保留“范畴词”
+FIX	causa secundum esse	—	causa secundum esse	拉丁原文保留（就存在而言的原因）	拉丁原文保留（就存在而言的原因）	译法列已明拉丁原词，原文列补录
+FIX	causal closure	closed under causation	—	因果闭合	因果闭合	原列“closed under causation”为短语非原词
+FIX	classical limit	—	—	古典极限	经典极限	词族对齐 classical logic＝经典逻辑
+FIX	collapse model	—	—	塌缩模型	坍缩模型	词族对齐 collapse＝坍缩
+FIX	comprehension axiom	—	—	概括公理（亦作“内涵公理”）	概括公理	删“亦作内涵公理”，避免与 comprehension principle 行跨行重复
+FIX	conceivability	conceivable	—	可设想性／可设想	可设想性／可设想	原列形容词形与名词键不符
+FIX	grāhaka-grāhya	—	—	能取-所取	能取所取	唯识通行连写，不用连接号
+FIX	mark-recapture method	—	—	标记-重捕法	标记重捕法	生态学通行连写
+FIX	Scott isomorphism theorem	—	—	Scott 同构定理	斯科特同构定理	人名按人名表音译（Dana Scott＝达纳·斯科特）
+MERGE	common sensible → common sensibles	—	—	共同可感性质	共通可感物	并入主键
+MERGE	Consistent Histories → Consistent Histories Approach	—	—	一致性历史	一致性历史方法	并入主键
+MERGE	contrapositive proposition → contrapositive	—	—	换质位命题	逆否命题	并入主键
+MERGE	correspondence theory → correspondence theory of truth	—	—	符合论（亦作“真理的符合论”）	真理符合论（亦作“符合论”）	并入主键
+MERGE	ouden mallon → ou mallon	—	οὐ μᾶλλον	并不更	并不更	并入主键
+MERGE	phantasma → phantasm	—	phantasma	幻象	幻象	并入主键
+MERGE	place (topos) → place (Aristotelian topos)	—	—	位置	处所	并入主键
+MERGE	possible worlds / possible world → possible world	—	—	可能世界	可能世界	并入主键
+MERGE	poverty of stimulus → poverty of the stimulus	—	—	刺激贫乏	刺激贫乏（亦作“刺激贫乏论”）	并入主键
+MERGE	Proof-Theoretic → proof-theoretic semantics	—	—	证明论	证明论语义	并入主键
+MERGE	QFT → Quantum Field Theory	—	—	量子场论	量子场论	并入主键
+MERGE	relevant logic → relevance logic	—	—	相干逻辑	相干逻辑	并入主键
+MERGE	sāṃkarya → saṃkara	सांकर्य	संकर	交叠（同键变体）	交叠	并入主键
+MERGE	saprakāraka → savikalpaka	सप्रकारक	सविकल्पक	有分别（同义）	有分别（现量）	并入主键
+MERGE	scepticism → skepticism	—	—	怀疑论	怀疑论	并入主键
+MERGE	self-renewing → self-renewal	—	—	自我更新	自我更新	并入主键
+MERGE	singleton set → singleton	—	—	单元素集	单元素集（亦作“单点集”）	并入主键
+MERGE	Singularities → singularity (cosmological)	—	—	奇点	奇点（宇宙论）	并入主键
+MERGE	Social Institutions → social institution	—	—	社会制度	社会制度	并入主键
+MERGE	sophisma-sentence → sophism（sophisma）	—	sophisma	诡辩句	诡辩句	并入主键
+MERGE	sophismata → sophisma/sophismata	sophisma	sophisma/sophismata	诡辩题	诡辩题	并入主键
+MERGE	spontaneous conduct → spontaneous acts	—	—	自发行为	自发行为	并入主键
+MERGE	square of contraries → square of opposition	—	—	对立方阵	对当方阵（亦作“逻辑方阵”）	并入主键
+MERGE	states of affairs → state of affairs	—	—	事态	事态	并入主键
+MERGE	suspending judgement → suspension of judgment	—	—	悬置判断	悬置判断	并入主键
+MERGE	symphilosophy → Symphilosophie	—	Symphilosophie	共思（Symphilosophie）（亦作“共哲学”）	共思（亦作“共同哲学”）	并入主键
+MERGE	Teleological → teleology	—	—	目的论	目的论	并入主键
+MERGE	true class → proper class	—	—	真类	真类	并入主键
+MERGE	units of selection → unit of selection	—	—	选择的单位	选择单位	并入主键
+MERGE	universal gravity → universal gravitation	—	—	万有引力	万有引力	并入主键
+MERGE	Venerable Inceptor → Venerabilis Inceptor	Venerable Inceptor	Venerabilis Inceptor	可敬的开端者	可敬的开创者（奥卡姆别号）	并入主键
+MERGE	world-view → Weltanschauung	Weltanschauung	Weltanschauung	世界观	世界观	并入主键
+MERGE	wu xing → wuxing	—	五行	五行	五行（five phases 五行；不取“五元素”）	并入主键
+MERGE	yì → yi	義	义	义（義）	义（appropriateness 义；宜）	并入主键
