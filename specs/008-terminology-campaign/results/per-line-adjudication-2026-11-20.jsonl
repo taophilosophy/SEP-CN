@@ -1729,23 +1729,206 @@
 {"key": "haecceity", "line": 2646, "v": "KEEP", "zh": "此性（haecceity）", "orig": "—", "note": null, "sheet": "r08"}
 {"key": "haiku", "line": 2647, "v": "KEEP", "zh": "俳句", "orig": "俳句", "note": null, "sheet": "r08"}
 {"key": "hairesis", "line": 2648, "v": "KEEP", "zh": "宗派", "orig": "αἵρεσις", "note": null, "sheet": "r08"}
-{"key": "Happiness", "line": 2668, "v": "FLAG", "zh": "幸福", "orig": "—", "note": "主译撞形：“幸福”同时对应 eudaimonia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "ḥaqīqa", "line": 2669, "v": "FLAG", "zh": "终极实在", "orig": "حقيقة", "note": "主译撞形：“终极实在”同时对应 ultimate reality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "hatsuboku", "line": 2680, "v": "FLAG", "zh": "泼墨", "orig": "泼墨", "note": "主译撞形：“泼墨”同时对应 haboku；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "hegemonikon", "line": 2694, "v": "FLAG", "zh": "灵魂的主导部分（斯多葛）（亦作“统治部分”）", "orig": "ἡγεμονικόν", "note": "亦作“统治部分”与 pars principans 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
-{"key": "Ḥikmah", "line": 2740, "v": "FLAG", "zh": "智慧（另译希克玛）", "orig": "حكمة", "note": "主译撞形：“智慧”同时对应 Wisdom；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "ḥiss mushtarak", "line": 2744, "v": "FLAG", "zh": "共同感（阿维森纳内感官；与 Sensus Communis 行同译异源）", "orig": "الحس المشترك", "note": "主译撞形：“共同感”同时对应 sensus communis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "historicism", "line": 2750, "v": "FLAG", "zh": "历史主义", "orig": "—", "note": "主译撞形：“历史主义”同时对应 historism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "historicity", "line": 2751, "v": "FLAG", "zh": "历史性", "orig": "Geschichtlichkeit", "note": "主译撞形：“历史性”同时对应 Geschichtlichkeit；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "historicization", "line": 2752, "v": "FLAG", "zh": "历史化", "orig": "Vergeschichtlichung", "note": "主译撞形：“历史化”同时对应 Vergeschichtlichung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "historiê", "line": 2754, "v": "FLAG", "zh": "探究", "orig": "ἱστορίη", "note": "主译撞形：“探究”同时对应 skeptosunê；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "historism", "line": 2757, "v": "FLAG", "zh": "历史主义", "orig": "—", "note": "主译撞形：“历史主义”同时对应 historicism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "homogeneity", "line": 2772, "v": "FLAG", "zh": "齐一性（亦作“同质性”）", "orig": "—", "note": "主译撞形：“齐一性”同时对应 Uniformity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Horak（湖洛）", "line": 2787, "v": "FLAG", "zh": "湖洛之辩", "orig": "湖洛", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "hosshin / dharmakāya", "line": 2794, "v": "FLAG", "zh": "法身", "orig": "法身", "note": "主译撞形：“法身”同时对应 dharmakāya；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "host（圣体）", "line": 2795, "v": "FLAG", "zh": "圣体", "orig": "host", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "hwajaeng（和諍）", "line": 2832, "v": "FLAG", "zh": "和诤", "orig": "和諍", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "hypostasized", "line": 2848, "v": "FLAG", "zh": "实体化", "orig": "—", "note": "主译撞形：“实体化”同时对应 hypostatisation、reify、substantialization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "Halakhah / Halakhist", "line": 2649, "v": "KEEP", "zh": "哈拉哈／哈拉哈学者", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Half-Bildung", "line": 2650, "v": "KEEP", "zh": "半教育", "orig": "Halbbildung", "note": null, "sheet": "r09"}
+{"key": "half-fiction", "line": 2651, "v": "KEEP", "zh": "半虚构", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "half-life", "line": 2652, "v": "KEEP", "zh": "半衰期", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "half-null-cone", "line": 2653, "v": "KEEP", "zh": "半零锥", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hall of Mirrors", "line": 2654, "v": "KEEP", "zh": "镜厅", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hallmark", "line": 2655, "v": "KEEP", "zh": "标志性特征", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hallucination", "line": 2656, "v": "KEEP", "zh": "幻觉", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hamiltonian", "line": 2657, "v": "KEEP", "zh": "哈密顿量", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hamming distance", "line": 2658, "v": "KEEP", "zh": "汉明距离", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hamming rule", "line": 2659, "v": "KEEP", "zh": "汉明规则", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Han Dynasty philosophy", "line": 2660, "v": "KEEP", "zh": "中国汉代哲学", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Han Feizi", "line": 2661, "v": "KEEP", "zh": "《韩非子》", "orig": "韓非子", "note": null, "sheet": "r09"}
+{"key": "Han Shu", "line": 2662, "v": "KEEP", "zh": "《汉书》", "orig": "漢書", "note": null, "sheet": "r09"}
+{"key": "Ḥanbalī", "line": 2663, "v": "KEEP", "zh": "罕百里派", "orig": "حنبلي", "note": null, "sheet": "r09"}
+{"key": "Hanf number", "line": 2664, "v": "KEEP", "zh": "Hanf 数", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hannoverian Whigs", "line": 2665, "v": "KEEP", "zh": "汉诺威辉格党人", "orig": "Hannoverian Whigs", "note": null, "sheet": "r09"}
+{"key": "hannya / prajñā", "line": 2666, "v": "KEEP", "zh": "般若", "orig": "般若", "note": null, "sheet": "r09"}
+{"key": "haplodiploidy", "line": 2667, "v": "KEEP", "zh": "单倍二倍体（亦作“单倍二倍性”）", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Happiness", "line": 2668, "v": "FLAG", "zh": "幸福", "orig": "—", "note": "主译撞形：“幸福”同时对应 eudaimonia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r09"}
+{"key": "ḥaqīqa", "line": 2669, "v": "FLAG", "zh": "终极实在", "orig": "حقيقة", "note": "主译撞形：“终极实在”同时对应 ultimate reality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r09"}
+{"key": "hard core", "line": 2670, "v": "KEEP", "zh": "硬核", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hard facts", "line": 2671, "v": "KEEP", "zh": "硬事实", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hard problem", "line": 2672, "v": "KEEP", "zh": "难问题（困难问题）", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hard problem of consciousness", "line": 2673, "v": "KEEP", "zh": "意识难题", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "harm aversion", "line": 2674, "v": "KEEP", "zh": "伤害厌恶", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "harmonic", "line": 2675, "v": "KEEP", "zh": "谐波", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "harmonic series", "line": 2676, "v": "KEEP", "zh": "调和级数", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Harmony of the Two Sages, Plato and Aristotle", "line": 2677, "v": "KEEP", "zh": "《两圣（柏拉图与亚里士多德）之和合》", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "haruspicy", "line": 2678, "v": "KEEP", "zh": "肠卜术（亦作“脏卜术”）", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hasidism", "line": 2679, "v": "KEEP", "zh": "哈西德主义", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hatsuboku", "line": 2680, "v": "FLAG", "zh": "泼墨", "orig": "泼墨", "note": "主译撞形：“泼墨”同时对应 haboku；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r09"}
+{"key": "ḥawādith", "line": 2681, "v": "KEEP", "zh": "时间性生起事件", "orig": "حوادث", "note": null, "sheet": "r09"}
+{"key": "Hawking radiation", "line": 2682, "v": "KEEP", "zh": "霍金辐射", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Ḥayy ibn Yaqẓān", "line": 2683, "v": "KEEP", "zh": "《哈义·本·叶格赞》（伊本·图斐利著；亦译《觉民之子》）", "orig": "حي بن يقظان", "note": null, "sheet": "r09"}
+{"key": "ḥayyiz", "line": 2684, "v": "KEEP", "zh": "空间", "orig": "حيز", "note": null, "sheet": "r09"}
+{"key": "health equity", "line": 2685, "v": "KEEP", "zh": "健康公平", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "health inequality", "line": 2686, "v": "KEEP", "zh": "健康不平等", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "health insurance", "line": 2687, "v": "KEEP", "zh": "医疗保险", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hêdonê", "line": 2688, "v": "KEEP", "zh": "快乐", "orig": "ἡδονή", "note": null, "sheet": "r09"}
+{"key": "hedonic", "line": 2689, "v": "KEEP", "zh": "享乐的", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hedonic reversal", "line": 2690, "v": "KEEP", "zh": "快乐逆转", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hedonic Utilitarianism", "line": 2691, "v": "KEEP", "zh": "快乐论功利主义", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hedonism", "line": 2692, "v": "KEEP", "zh": "快乐主义", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hegelianism", "line": 2693, "v": "KEEP", "zh": "黑格尔主义", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hegemonikon", "line": 2694, "v": "FLAG", "zh": "灵魂的主导部分（斯多葛）（亦作“统治部分”）", "orig": "ἡγεμονικόν", "note": "亦作“统治部分”与 pars principans 的主译撞形；删该亦作或改主译", "sheet": "r09"}
+{"key": "hegemony", "line": 2695, "v": "KEEP", "zh": "霸权", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Heine-Borel property", "line": 2696, "v": "FIX", "zh": "海涅-博莱尔性质（亦作“海涅-博雷尔”）", "orig": "—", "note": "人名连接号按 ADR-0041 一字线：海涅-博莱尔 → 海涅—博莱尔", "sheet": "r09"}
+{"key": "hen esti", "line": 2697, "v": "KEEP", "zh": "“一存在”（hen esti）", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Henkin-style", "line": 2698, "v": "KEEP", "zh": "Henkin 式", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Heracles", "line": 2699, "v": "FLAG", "zh": "《赫拉克勒斯》", "orig": "—", "note": "现译加书名号作剧作《赫拉克勒斯》，但首现与三处用语均为英雄／神赫拉克勒斯（xenophanes:661 神殿语境）；须去书名号改“赫拉克勒斯”或分行", "sheet": "r09"}
+{"key": "hereditarily ordinal definable sets", "line": 2700, "v": "KEEP", "zh": "遗传序数可定义集", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hereditary finite set", "line": 2701, "v": "KEEP", "zh": "遗传有穷集合", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "heredity", "line": 2702, "v": "KEEP", "zh": "遗传", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "heresy", "line": 2703, "v": "KEEP", "zh": "异端", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "heritability", "line": 2704, "v": "KEEP", "zh": "遗传力", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "heritage", "line": 2705, "v": "KEEP", "zh": "遗产", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hermaphroditism", "line": 2706, "v": "KEEP", "zh": "雌雄同体", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hermeneutic circle", "line": 2707, "v": "KEEP", "zh": "诠释学循环", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hermeneutic field", "line": 2708, "v": "KEEP", "zh": "诠释学场域", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hermeneutic identity", "line": 2709, "v": "KEEP", "zh": "诠释学同一性", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hermeneutic phenomenology", "line": 2710, "v": "KEEP", "zh": "诠释学现象学", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hermeneutical aesthetics", "line": 2711, "v": "KEEP", "zh": "诠释学美学", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hermeneutical situation", "line": 2712, "v": "KEEP", "zh": "诠释学处境", "orig": "hermeneutische Situation", "note": null, "sheet": "r09"}
+{"key": "hermeneutical sublime", "line": 2713, "v": "KEEP", "zh": "诠释学的崇高", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hermeneutics", "line": 2714, "v": "KEEP", "zh": "诠释学（亦作“解释学”）", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hermeneutics of suspicion", "line": 2715, "v": "KEEP", "zh": "怀疑的诠释学", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hermitian operator", "line": 2716, "v": "KEEP", "zh": "厄米算符", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hesitation", "line": 2717, "v": "KEEP", "zh": "犹豫", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hesychast", "line": 2718, "v": "KEEP", "zh": "静修派（亦作“静默派”）", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "heterogeneity", "line": 2719, "v": "KEEP", "zh": "异质性", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "heteronomy", "line": 2720, "v": "KEEP", "zh": "他律", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "heterosexism", "line": 2721, "v": "KEEP", "zh": "异性恋主义", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "heterozygosity", "line": 2722, "v": "KEEP", "zh": "杂合度", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "heterozygote advantage", "line": 2723, "v": "KEEP", "zh": "杂合子优势", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hetu", "line": 2724, "v": "KEEP", "zh": "因（证因）", "orig": "हेतु", "note": null, "sheet": "r09"}
+{"key": "Hetubindu", "line": 2725, "v": "KEEP", "zh": "《因滴论》", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hetvābhāsa", "line": 2726, "v": "KEEP", "zh": "推理谬误（似因）", "orig": "हेत्वाभास", "note": null, "sheet": "r09"}
+{"key": "hexagon of opposition", "line": 2727, "v": "KEEP", "zh": "对当六角形", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hexis", "line": 2728, "v": "KEEP", "zh": "习性状态", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Heyting arithmetic", "line": 2729, "v": "KEEP", "zh": "海廷算术", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hidden variables", "line": 2730, "v": "KEEP", "zh": "隐变量", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hierarchy of values", "line": 2731, "v": "KEEP", "zh": "价值层级", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Higgs mechanism", "line": 2732, "v": "KEEP", "zh": "希格斯机制", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "high-throughput sequencing", "line": 2733, "v": "KEEP", "zh": "高通量测序", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "higher education", "line": 2734, "v": "KEEP", "zh": "高等教育", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "higher understanding", "line": 2735, "v": "KEEP", "zh": "高级理解", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "higher-order logic", "line": 2736, "v": "KEEP", "zh": "高阶逻辑", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "higher-order type", "line": 2737, "v": "KEEP", "zh": "高阶类型", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "ḥikma", "line": 2738, "v": "FLAG", "zh": "智慧目的", "orig": "حكمة", "note": "与 Ḥikmah 行（行 2740）同词 حكمة 两行：智慧目的（taymiyya 神目的义）／智慧（通行义）；须分行设计核对或合键", "sheet": "r09"}
+{"key": "ḥikma dhawqiyya", "line": 2739, "v": "KEEP", "zh": "品味智慧", "orig": "حكمة ذوقية", "note": null, "sheet": "r09"}
+{"key": "Ḥikmah", "line": 2740, "v": "FLAG", "zh": "智慧（另译希克玛）", "orig": "حكمة", "note": "同 ḥikma 行族问题（同词两行智慧目的／智慧），须分行设计核对或合键", "sheet": "r09"}
+{"key": "Hilbert space", "line": 2741, "v": "KEEP", "zh": "希尔伯特空间", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hilbert's Program", "line": 2742, "v": "KEEP", "zh": "希尔伯特纲领", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hinge commitment", "line": 2743, "v": "KEEP", "zh": "枢轴承诺", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "ḥiss mushtarak", "line": 2744, "v": "FLAG", "zh": "共同感（阿维森纳内感官；与 Sensus Communis 行同译异源）", "orig": "الحس المشترك", "note": "主译撞形：“共同感”同时对应 sensus communis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r09"}
+{"key": "histopathology", "line": 2745, "v": "KEEP", "zh": "组织病理学", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "historical bloc", "line": 2746, "v": "KEEP", "zh": "历史集团", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "historical individual", "line": 2747, "v": "KEEP", "zh": "历史个体", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "historical school of law", "line": 2748, "v": "KEEP", "zh": "历史法学派", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "historically-effected consciousness", "line": 2749, "v": "KEEP", "zh": "效果历史意识", "orig": "wirkungsgeschichtliches Bewußtsein", "note": null, "sheet": "r09"}
+{"key": "historicism", "line": 2750, "v": "FLAG", "zh": "历史主义", "orig": "—", "note": "主译撞形：“历史主义”同时对应 historism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r09"}
+{"key": "historicity", "line": 2751, "v": "FLAG", "zh": "历史性", "orig": "Geschichtlichkeit", "note": "与 Geschichtlichkeit 行（行 2532）同指德文 Geschichtlichkeit、同译“历史性”撞形（本行原文列亦填 Geschichtlichkeit）；须合键或分行（历史性／历史处境性）", "sheet": "r09"}
+{"key": "historicization", "line": 2752, "v": "FLAG", "zh": "历史化", "orig": "Vergeschichtlichung", "note": "主译撞形：“历史化”同时对应 Vergeschichtlichung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r09"}
+{"key": "historico-critical method", "line": 2753, "v": "FIX", "zh": "历史-批判方法", "orig": "—", "note": "连接号按 ADR-0041 一字线：历史-批判方法 → 历史—批判方法", "sheet": "r09"}
+{"key": "historiê", "line": 2754, "v": "FLAG", "zh": "探究", "orig": "ἱστορίη", "note": "主译撞形：“探究”同时对应 skeptosunê；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r09"}
+{"key": "historiographical operation", "line": 2755, "v": "KEEP", "zh": "历史编纂操作", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "historiography of logic", "line": 2756, "v": "KEEP", "zh": "逻辑史编纂学（亦作“逻辑史学”）", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "historism", "line": 2757, "v": "FLAG", "zh": "历史主义", "orig": "—", "note": "与 historicism 行同译“历史主义”撞形；曼海姆 historism（历史主义传统义）有别于波普尔 historicism（历史决定论批判义），须区分性译法或分行", "sheet": "r09"}
+{"key": "History (Herodotus)", "line": 2758, "v": "KEEP", "zh": "《历史》", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "History of Animals", "line": 2759, "v": "KEEP", "zh": "《动物志》", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "history of religion school", "line": 2760, "v": "KEEP", "zh": "宗教史学派", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "HLA types", "line": 2761, "v": "KEEP", "zh": "HLA 型", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hōjōki", "line": 2762, "v": "KEEP", "zh": "《方丈记》", "orig": "方丈記", "note": null, "sheet": "r09"}
+{"key": "holding responsible", "line": 2763, "v": "KEEP", "zh": "追究责任", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "holding true", "line": 2764, "v": "KEEP", "zh": "视为真", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hole argument", "line": 2765, "v": "KEEP", "zh": "空穴论证", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hole transformation", "line": 2766, "v": "KEEP", "zh": "洞变换", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "holes", "line": 2767, "v": "KEEP", "zh": "洞", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "holism", "line": 2768, "v": "KEEP", "zh": "整体论", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Holy Spirit", "line": 2769, "v": "KEEP", "zh": "圣灵", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "homeostasis", "line": 2770, "v": "KEEP", "zh": "内稳态", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "homeostatic property cluster", "line": 2771, "v": "KEEP", "zh": "稳态属性簇", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "homogeneity", "line": 2772, "v": "FLAG", "zh": "齐一性（亦作“同质性”）", "orig": "—", "note": "主译撞形：“齐一性”同时对应 Uniformity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r09"}
+{"key": "homogeneous", "line": 2773, "v": "KEEP", "zh": "齐次的", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "homogeneous partition", "line": 2774, "v": "KEEP", "zh": "齐一划分", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "homogeneous predicate", "line": 2775, "v": "KEEP", "zh": "齐性谓词", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "homology", "line": 2776, "v": "KEEP", "zh": "同源性", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "homomorphism", "line": 2777, "v": "KEEP", "zh": "同态", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "homophily", "line": 2778, "v": "KEEP", "zh": "同质性偏好", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "homosexuality", "line": 2779, "v": "KEEP", "zh": "同性恋", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "homunculus", "line": 2780, "v": "FLAG", "zh": "侏儒图", "orig": "—", "note": "族内不一：homunculus＝侏儒图、homunculus-head＝小人儿头；通行“小人（谬误）”系，须查证统一", "sheet": "r09"}
+{"key": "homunculus-head", "line": 2781, "v": "FLAG", "zh": "小人儿头", "orig": "—", "note": "同 homunculus 族问题（侏儒图／小人儿头不一），须查证统一", "sheet": "r09"}
+{"key": "honesty-humility", "line": 2782, "v": "FIX", "zh": "诚实-谦逊", "orig": "—", "note": "连接号按 ADR-0041 一字线：诚实-谦逊 → 诚实—谦逊（HEXACO 维度名）", "sheet": "r09"}
+{"key": "hongaku / honkyō", "line": 2783, "v": "KEEP", "zh": "本学/本教（大国隆正）", "orig": "本学 / 本教", "note": null, "sheet": "r09"}
+{"key": "hongaku hosshin", "line": 2784, "v": "KEEP", "zh": "本觉法身", "orig": "本覚法身", "note": null, "sheet": "r09"}
+{"key": "honpushō / ādyanutpāda", "line": 2785, "v": "KEEP", "zh": "本不生", "orig": "本不生", "note": null, "sheet": "r09"}
+{"key": "hook operator", "line": 2786, "v": "KEEP", "zh": "蹄铁算子（⊃）", "orig": "hook", "note": null, "sheet": "r09"}
+{"key": "Horak（湖洛）", "line": 2787, "v": "FLAG", "zh": "湖洛之辩", "orig": "湖洛", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r09"}
+{"key": "horizon", "line": 2788, "v": "KEEP", "zh": "视域", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "horizontal / vertical relations", "line": 2789, "v": "KEEP", "zh": "水平关系／垂直关系", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hormone", "line": 2790, "v": "KEEP", "zh": "激素", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Horned Man argument", "line": 2791, "v": "KEEP", "zh": "有角人论证", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "horoscope", "line": 2792, "v": "KEEP", "zh": "占星命盘", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hospice care", "line": 2793, "v": "KEEP", "zh": "临终关怀", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hosshin / dharmakāya", "line": 2794, "v": "FLAG", "zh": "法身", "orig": "法身", "note": "hosshin＝発心（发心），现译“法身”仅合 dharmakāya 半边；japanese-zen:354 用语（悟的经验义）为发心义；须译“发心／法身”双义或核对空海语境后裁定", "sheet": "r09"}
+{"key": "host（圣体）", "line": 2795, "v": "FLAG", "zh": "圣体", "orig": "host", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r09"}
+{"key": "Hou Han Shu", "line": 2796, "v": "KEEP", "zh": "《后汉书》", "orig": "後漢書", "note": null, "sheet": "r09"}
+{"key": "householder", "line": 2797, "v": "KEEP", "zh": "在家众", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hrasva", "line": 2798, "v": "KEEP", "zh": "短", "orig": "ह्रस्व", "note": null, "sheet": "r09"}
+{"key": "hua", "line": 2799, "v": "KEEP", "zh": "华（浮华）", "orig": "花", "note": null, "sheet": "r09"}
+{"key": "Hua-yen / Huayan / Kegon", "line": 2800, "v": "KEEP", "zh": "华严", "orig": "華厳", "note": null, "sheet": "r09"}
+{"key": "Huainanzi", "line": 2801, "v": "KEEP", "zh": "《淮南子》", "orig": "淮南子", "note": null, "sheet": "r09"}
+{"key": "huaisheng weisi", "line": 2802, "v": "KEEP", "zh": "怀生畏死", "orig": "懷生畏死", "note": null, "sheet": "r09"}
+{"key": "Huang Di neijing / Huangdi Neijing", "line": 2803, "v": "KEEP", "zh": "《黄帝内经》", "orig": "黃帝內經", "note": null, "sheet": "r09"}
+{"key": "Huang-Lao", "line": 2804, "v": "KEEP", "zh": "黄老", "orig": "黃老", "note": null, "sheet": "r09"}
+{"key": "Huayan Buddhism", "line": 2805, "v": "KEEP", "zh": "华严宗", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "human action", "line": 2806, "v": "KEEP", "zh": "人类行动（action 哲学语境定译“行动”）", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "human agency", "line": 2807, "v": "KEEP", "zh": "人类能动性", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "human embryonic stem cell (HESC)", "line": 2808, "v": "KEEP", "zh": "人类胚胎干细胞", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "human essence", "line": 2809, "v": "KEEP", "zh": "人的本质", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Human Genome Project", "line": 2810, "v": "KEEP", "zh": "人类基因组计划", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "human good", "line": 2811, "v": "KEEP", "zh": "人的善", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "human legislator", "line": 2812, "v": "KEEP", "zh": "人类立法者", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "human nature", "line": 2813, "v": "KEEP", "zh": "人性", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "human physiology", "line": 2814, "v": "KEEP", "zh": "人体生理学", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "human rationality", "line": 2815, "v": "KEEP", "zh": "人类理性", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "human rights", "line": 2816, "v": "KEEP", "zh": "人权", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "human sciences", "line": 2817, "v": "KEEP", "zh": "人文科学", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "human variation model", "line": 2818, "v": "KEEP", "zh": "人类变异模型", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "humanism", "line": 2819, "v": "KEEP", "zh": "人文主义（非洲伦理学语境作“人本主义”，见下条）", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "humanism (African ethics)", "line": 2820, "v": "KEEP", "zh": "人本主义", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "humanistic ethics", "line": 2821, "v": "KEEP", "zh": "人本主义伦理", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "humanitarian intervention", "line": 2822, "v": "KEEP", "zh": "人道主义干预", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Humean mosaic", "line": 2823, "v": "KEEP", "zh": "休谟式马赛克", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "humility", "line": 2824, "v": "KEEP", "zh": "谦卑", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "humility theory of wisdom", "line": 2825, "v": "KEEP", "zh": "智慧的谦逊理论", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Humorism", "line": 2826, "v": "KEEP", "zh": "四体液说", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "humours", "line": 2827, "v": "KEEP", "zh": "体液", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hungarian Uprising", "line": 2828, "v": "KEEP", "zh": "匈牙利起义", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Huntington's disease", "line": 2829, "v": "KEEP", "zh": "亨廷顿病", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hupatuphos", "line": 2830, "v": "KEEP", "zh": "半脱虚妄", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "husbandry", "line": 2831, "v": "KEEP", "zh": "饲养管理", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hwajaeng（和諍）", "line": 2832, "v": "FLAG", "zh": "和诤", "orig": "和諍", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r09"}
+{"key": "hwalgu/sagu", "line": 2833, "v": "KEEP", "zh": "活句/死句", "orig": "活句 / 死句", "note": null, "sheet": "r09"}
+{"key": "hybrid logic", "line": 2834, "v": "KEEP", "zh": "混合逻辑", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hybrid theory of wisdom", "line": 2835, "v": "KEEP", "zh": "智慧的混合理论", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "Hylarchic Principle", "line": 2836, "v": "KEEP", "zh": "质料统辖原则", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hylomorphism", "line": 2837, "v": "KEEP", "zh": "质形论", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hylozoism", "line": 2838, "v": "KEEP", "zh": "物活论", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hypatos tōn philosophōn", "line": 2839, "v": "KEEP", "zh": "哲学家执政", "orig": "ὕπατος τῶν φιλοσόφων", "note": null, "sheet": "r09"}
+{"key": "hyperbolic geometry", "line": 2840, "v": "KEEP", "zh": "双曲几何", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hyperrationalism", "line": 2841, "v": "KEEP", "zh": "过度理性主义", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hypersequent", "line": 2842, "v": "FLAG", "zh": "超矢列", "orig": "—", "note": "矢列／序列族混用：hypersequent＝超矢列而 sequent（r06）＝序列；联动 r06 sequent FLAG，统一为矢列系或序列系", "sheet": "r09"}
+{"key": "hyperset", "line": 2843, "v": "KEEP", "zh": "超集合", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hypnotism", "line": 2844, "v": "KEEP", "zh": "催眠术", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hypocrisy", "line": 2845, "v": "KEEP", "zh": "伪善", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hypocycloidal pendulum", "line": 2846, "v": "KEEP", "zh": "内摆线摆", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hypostasis", "line": 2847, "v": "KEEP", "zh": "位格（神学语境）；本体／实体（哲学语境）", "orig": "—", "note": null, "sheet": "r09"}
+{"key": "hypostasized", "line": 2848, "v": "FLAG", "zh": "实体化", "orig": "—", "note": "主译撞形：“实体化”同时对应 hypostatisation、reify、substantialization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r09"}
 {"key": "hypostatisation", "line": 2849, "v": "FLAG", "zh": "实体化", "orig": "—", "note": "主译撞形：“实体化”同时对应 hypostasized、reify、substantialization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "idea", "line": 2867, "v": "FLAG", "zh": "理念（柏拉图-黑格尔传统）；观念（经验论语境）", "orig": "—", "note": "亦作“观念”与 notio 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
 {"key": "ideal element", "line": 2870, "v": "FLAG", "zh": "理想元素", "orig": "—", "note": "主译撞形：“理想元素”同时对应 ideal elements；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
