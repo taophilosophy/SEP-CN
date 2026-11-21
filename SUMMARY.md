@@ -2,6 +2,8 @@
 * [分类目录](mu-lu-s.md)
 * [版权说明](qian-yan/ban-quan-shuo-ming.md)
 * [日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)
+  * [项目日志（卷一：2026-11-15 及以前）](qian-yan/ri-zhi-yu-bian-ji-gui-hua-1.md)
+  * [项目日志（卷二：2026-11-16 至 2026-11-20）](qian-yan/ri-zhi-yu-bian-ji-gui-hua-2.md)
 * [术语表](shu-yu-biao.md)
 * [人名表](ren-ming-biao.md)
 * [编辑信息](guan-yu/bian-ji-xin-xi.md)

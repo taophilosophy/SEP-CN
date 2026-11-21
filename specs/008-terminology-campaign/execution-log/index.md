@@ -12,6 +12,7 @@
 | 人名表分段长跑 | 2026-11-13 起 | TL-main-20261113 首段 0–200 | [ren-ming-biao-fen-duan.md](ren-ming-biao-fen-duan.md) |
 | 两册去重 | 2026-11-13 | 人名 156 组 / 术语 22 组纯变体 | [liang-ce-qu-zhong.md](liang-ce-qu-zhong.md) |
 | 权威译本联网复核 | 2026-11-14 | M1-nonTL-20261114：非术语在线通道（档②③）裁定 10 行 + 工具修复三项 | [quan-wei-yiben-fu-he.md](quan-wei-yiben-fu-he.md) |
+| 逐行研判收口（撞形与 FLAG） | 2026-11-21 | 撞形三批 + FLAG 151 键（批 A–G）+ m 系结案 | [zhu-xing-pan-ding-shou-guan.md](zhu-xing-pan-ding-shou-guan.md) |
 
 * 拆分依据：ADR-0004（单体文件治理）；门禁 `tools/check_doc_size.py` 实拦，拆分后各文件均在阈值内。
 * 历史追溯：`git log --follow specs/008-terminology-campaign/execution-log/index.md` 可追至拆分前的单文件历史。
