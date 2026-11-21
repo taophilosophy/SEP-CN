@@ -321,3 +321,11 @@
 * **验证**：本地离线（--latest 快照）render_md/render_queue_md/摘要提取行全验；yml yaml.safe_load 校验；check_all 17 项全绿；提交 12bca3c62 后手动触发真实运行 success，日志三摘要行与 issue #49 新评论均达标（无裸 JSON、无空节刷屏、无 emoji）。
 * **教训**：bash 双引号内反引号是命令替换，CI echo 里包命令必须防替换（已在 yml 头部立日志纪律注释）；--quiet 语义要覆盖全部 print 路径——import 调用的子函数 print 会直通 stdout。
 * **收尾（用户批准关旧开新）**：旧 issue #49 已关闭（留说明：缺陷根因＋修复提交＋验证运行号）；重触发运行 44833333086 success，新建 issue #51 即新格式产出（无裸 JSON、无空节刷屏）。
+
+## 2026-11-21 issue #51 落地：目录账补 inquiry＋两条上游修订钉前移置空待译（用户指令“全量进行，不进行实际翻译，既有存量 reopen --clear”）
+
+* **mu-lu-s 补 inquiry**：认识论总论节“归纳问题”与 Knowledge How 之间补行；G3 门禁红暴露正确落法——mu-lu-s.md 由 baseline/mulu-map.json ⊕ SUMMARY 重放重建，手改文件属改弱势方，走 `check_catalog_network.py --build-mulu` 抽账收编（inquiry 入账 order 1172、后续顺延），重放全等。
+* **modality-varieties／type-theory 上游修订（2026-11-20）**：compare.py 产变更文件（前者 7 节 8 处含 EpiMetMod/MetNomMod/StrModRea 新增节，后者仅导言 pubinfo 更新）；fetch_entry.py 钉前移（557ef0da／f289038b，pubinfo substantive_revision Nov 20 2026）；yuanwen.py 重转；分歧账两条均无存量登记，干净替换无 carry。
+* **建账置空（ADR-0050 存量等价链）**：task_ops create --kind retranslate --from 变更文件 → clear（仅留 H1，旧文 git 历史保留）→ advance s0（挂 en_integrity＋en_source_audit，evidence changes: 开头）→ 停在 draft 前。关键发现：**update kind 已死**（create 拒收，ADR-0068 W5 pipeline.json 收编，cli.md 78 行文档过时待修）；ORDER[retranslate] 序列 pending→cleared→s0→draft…。
+* **B 系列覆盖确认**：钉前移＋重转后 I2（check_all 第 14 项）与 en-roundtrip B3.1/B3.2 差集巡检自然覆盖这两条，变动按基线差集显形，基线重冻归 053 线（其会话同窗在动 reassemble＋scan 基线，已避开不碰）。
+* **收尾**：check_all 17 项全绿，两笔提交（88b76c5ca 目录账／c68a7020b update 链）推送，issue #51 回帖关闭。待办：cli.md 的 --kind 文档修正、两条重译（用户后续派工）。
