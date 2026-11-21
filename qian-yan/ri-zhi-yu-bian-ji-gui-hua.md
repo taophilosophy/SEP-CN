@@ -449,3 +449,13 @@
 * **直角引号违例（自首）**：写回与撞形脚本的注记模板用了直角引号（U+300E／U+300F），共 192 处落进登记册依据列；13a7c177a、0df7301de 两次提交未复跑门禁，故 check_quotes 一直是红的而我未报。已全量改弯引号（`check_quotes` 违例 0），`check_all` 复绿。防线：生成脚本的字符串模板同受 rules/02 §11 约束，提交前必跑 check_all 而非只跑 check_terms。
 * **数字更正**：0df7301de 提交信息写“7,109→7,065”，实为写回后 7,075、撞形首批并键后 7,031；以本条与凭证表为准。
 * **未决**：tashkīk 现译“调节（等级单义）”与阿维森纳—苏赫拉瓦迪“等级歧义”义不合，留待 ① 查证批裁定；撞形豁免 227 键的标记（marks）状态待与 FLAG 台账对齐。
+
+## 2026-11-21 FLAG 查证首轮（①）：活队列 151 键，落定 113、未决 38
+
+* **活队列口径**：2026-11-20 台账 FLAG 726 键扣除已离册（并键，141）、已随撞形处置（317）、已有 ok 凭证（261）后，撞形类以外待裁定 151 键（`results/flag-live-2026-11-21.tsv`、`flag-review-2026-11-21/vol-01..02`）。判据同撞形批：分行已成立者维持并登记凭证，实为同概念者合键，译法失准者改定，数据缺陷者正列。
+* **取证通道**：术语在线 JWT 直连（`tools/tl_jwt_crawl.py`，恢复他队列断点后跑 147＋48 词，凭证入 `queries/termonline-all/`）、中国大百科条目标题探针（`script/tmp/zgbk_probe.py`，18 词，`results/zgbk-probe-2026-11-21.txt`）、`en/` 原文回读（`script/tmp/ctx_en.py`）。MCP 检索通道（exa／research search）本会话连接失败，必应直连结果噪声大，故以审定库＋大百科＋原文三源为主。
+* **批 A／B／C 落定 113 键**：改定 90（如 anomalous monism→异常一元论、deterritorialization→解辖域化、continuum→连续统、anupalabdhi→不可得、Gentzen sequent→根岑矢列式、etiological→发生学的、vyatireka→异无 等，明细见 `flag-fix-a／b` TSV）、合键 12（future contingents、converso、ḥikma、insolubilia、lawlike／lawfulness、obligatio／obligationes、truthmakers、problem of universals／universals、parārtha、notiones secundae、scholastic quaestio、svārtha）、删行 1（abilities 普通词复数）、补登 3（corporation 公司、operational semantics (program theory) 操作语义、rabbāniyya 养育性）、另补豁免 1（Indalmoi）、维持 26（附审定库或语境凭证，`flag-keep` TSV）。
+* **实质判例**：anupalabdhi 依大百科“不可得比量因”定“不可得”（原“未觉”）；continuum 依大百科“连续统假设”定“连续统”；deterritorialization 依审定“解辖域化和再辖域化”；sequent 依审定定“矢列式”（Gentzen sequent→根岑矢列式、hypersequent→超矢列式）；psychometric 族按审定“辨别效度”维持；epistemic 族 18/26 行作“认知”，三处例外（认识论责备／知识证成／认识状态）统一为“认知～”，ESR 保留“认识论结构实在论”并登记族内例外。
+* **数据缺陷正列**：Needham problem 原文列中文→英文原词；wujūb 原文列 وجود→وجوب；correlative cosmology 原文列中文→英文；autexousion 原文列补同文异形 autoexousy；al-kabar 键形与出处更正（khabar，ibn-taymiyya 认识论四源，原误记 saadya）后并入既有 khabar 行；ḥikma→Ḥikmah 合键。
+* **每次改定后复算撞形**（`collision_live.py`）：批 A 引出 2 组（khabar 重复、契约论），批 B 引出 6 组，均当轮合键／再改定／补豁免收净；终态残余 0 组，已豁免 114 组，登记册 7,013→7,002 数据行，`check_terms` 退出 0，`check_all` 17 项全绿。
+* **未决 38 键**（`results/flag-open-2026-11-21.md`）分四类：译名查证 15（a fortiori argument、A New Elucidation、anyāpoha、aṣālat al-wujūd／māhiyyah、bhāvanā、das Umgreifende、significatio、naimittikī 等，需权威译本或研究文献）、用语重抓 12（expansion coefficient、Garden、general characteristic、Guelph、jing、kata、Leib、filtration、corporations、spiritualism 等，属证据列缺陷、不动译法）、回源核对 6（correct/incorrect conventional 键截断、expanded… 等）、分域登记 5。

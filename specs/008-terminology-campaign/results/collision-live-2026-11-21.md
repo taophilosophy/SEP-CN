@@ -40,7 +40,7 @@
 - 平等 ← equality；isonomia
 - 幸福 ← eudaimonia；Happiness
 - 弹性 ← resiliency；sthitisthāpaka
-- 影像 ← eidôla；idola；phantasmata；simulacra
+- 影像 ← eidôla；idola；Indalmoi；phantasmata；simulacra
 - 德性 ← aretê；virtue
 - 心 ← citta；qalb
 - 必然存在者 ← necessary being；wājib al-wujūd
