@@ -4129,25 +4129,206 @@
 {"key": "proper class", "line": 5086, "v": "FLAG", "zh": "真类", "orig": "—", "note": "主译撞形：“真类”同时对应 true class；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r20"}
 {"key": "proper function", "line": 5087, "v": "KEEP", "zh": "专有功能", "orig": "—", "note": null, "sheet": "r20"}
 {"key": "proper function（普兰丁格认识论）", "line": 5088, "v": "FLAG", "zh": "恰当功能", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r20"}
-{"key": "property", "line": 5093, "v": "FLAG", "zh": "属性；性质", "orig": "—", "note": "主译撞形：“属性”同时对应 Attributes、ṣifāt；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "proportionality (double effect)", "line": 5097, "v": "FLAG", "zh": "相称性（好效果对坏效果的补偿权衡）", "orig": "—", "note": "主译撞形：“相称性”同时对应 proportionality (of blame)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "proportionality (of blame)", "line": 5098, "v": "FLAG", "zh": "相称性", "orig": "—", "note": "主译撞形：“相称性”同时对应 proportionality (double effect)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "providence", "line": 5126, "v": "FLAG", "zh": "神意（亦作“天命”）", "orig": "—", "note": "主译撞形：“神意”同时对应 divine providence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "psuchê (ψυχή)", "line": 5142, "v": "FLAG", "zh": "灵魂（保留希腊原词括注）", "orig": "ψυχή", "note": "主译撞形：“灵魂”同时对应 soul；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "pudgala（佛教补特伽罗义）", "line": 5161, "v": "FLAG", "zh": "补特伽罗（人我）", "orig": "पुद्गल", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "pudgala（耆那教物质义）", "line": 5162, "v": "FLAG", "zh": "质料", "orig": "पुद्गल", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "purposiveness", "line": 5175, "v": "FLAG", "zh": "合目的性", "orig": "—", "note": "主译撞形：“合目的性”同时对应 finality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "qalb", "line": 5188, "v": "FLAG", "zh": "心", "orig": "قلب", "note": "主译撞形：“心”同时对应 citta；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "QFT", "line": 5190, "v": "FLAG", "zh": "量子场论", "orig": "—", "note": "主译撞形：“量子场论”同时对应 Quantum Field Theory；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "qiyās", "line": 5194, "v": "FLAG", "zh": "类比推理（基亚斯）", "orig": "قياس", "note": "主译撞形：“类比推理”同时对应 analogical inference、analogical reasoning；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "qiyāsāt", "line": 5195, "v": "FLAG", "zh": "三段论（syllogisms 复数；与 qiyās 类比推理行按语境区分）", "orig": "قیاسات", "note": "主译撞形：“三段论”同时对应 syllogism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "quaestio disputata", "line": 5198, "v": "FLAG", "zh": "论辩问题", "orig": "quaestio disputata", "note": "主译撞形：“论辩问题”同时对应 dialectical question；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "quality", "line": 5204, "v": "FLAG", "zh": "性质", "orig": "—", "note": "主译撞形：“性质”同时对应 guṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "quantity", "line": 5212, "v": "FLAG", "zh": "量", "orig": "—", "note": "主译撞形：“量”同时对应 maqādīr；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Quantum Field Theory", "line": 5223, "v": "FLAG", "zh": "量子场论", "orig": "—", "note": "主译撞形：“量子场论”同时对应 QFT；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "quiddity", "line": 5248, "v": "FLAG", "zh": "本质（quiddity，阿拉伯语 māhiyya）", "orig": "—", "note": "主译撞形：“本质”同时对应 essence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "quiddity（与 essence 并置时）", "line": 5249, "v": "FLAG", "zh": "什么性", "orig": "quidditas", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "Quodlibets（奥卡姆）", "line": 5252, "v": "FLAG", "zh": "《自由论题》（Seven Quodlibets 作《七个自由论题》）", "orig": "Quodlibeta Septem", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
+{"key": "proper name", "line": 5089, "v": "KEEP", "zh": "专名", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "proper proportionality", "line": 5090, "v": "KEEP", "zh": "严格比例（analogia proprie）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "properly basic", "line": 5091, "v": "KEEP", "zh": "恰当基本的（properly basic belief → 恰当基本信念）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "properties of terms", "line": 5092, "v": "KEEP", "zh": "词项属性", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "property", "line": 5093, "v": "FLAG", "zh": "属性；性质", "orig": "—", "note": "主译撞形：“属性”同时对应 Attributes、ṣifāt；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r21"}
+{"key": "property discourse", "line": 5094, "v": "KEEP", "zh": "属性话语", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "prophecy", "line": 5095, "v": "KEEP", "zh": "预言", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "prophet", "line": 5096, "v": "KEEP", "zh": "先知", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "proportionality (double effect)", "line": 5097, "v": "FLAG", "zh": "相称性（好效果对坏效果的补偿权衡）", "orig": "—", "note": "主译撞形：“相称性”同时对应 proportionality (of blame)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r21"}
+{"key": "proportionality (of blame)", "line": 5098, "v": "FLAG", "zh": "相称性", "orig": "—", "note": "主译撞形：“相称性”同时对应 proportionality (double effect)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r21"}
+{"key": "proposition", "line": 5099, "v": "KEEP", "zh": "命题", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "propositional attitude", "line": 5100, "v": "KEEP", "zh": "命题态度", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "propositional content", "line": 5101, "v": "KEEP", "zh": "命题内容", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "propositional dynamic logic", "line": 5102, "v": "KEEP", "zh": "命题动态逻辑", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "propositional faith", "line": 5103, "v": "KEEP", "zh": "命题性信仰", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "propositional function", "line": 5104, "v": "KEEP", "zh": "命题函项（亦作“命题函数”）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "propositions-as-monotypes", "line": 5105, "v": "KEEP", "zh": "命题即单型", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "propositions-as-types", "line": 5106, "v": "KEEP", "zh": "命题即类型", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "proprioception", "line": 5107, "v": "KEEP", "zh": "本体感觉", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "propter quid", "line": 5108, "v": "KEEP", "zh": "证明其为何如此（原因证明）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Proslogion", "line": 5109, "v": "KEEP", "zh": "《宣讲》（安瑟伦）", "orig": "Proslogion", "note": null, "sheet": "r21"}
+{"key": "prosocial behavior", "line": 5110, "v": "KEEP", "zh": "亲社会行为", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "prospect", "line": 5111, "v": "KEEP", "zh": "前景", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "prospect emotion", "line": 5112, "v": "KEEP", "zh": "预期情绪", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "prospect theory", "line": 5113, "v": "KEEP", "zh": "前景理论（亦作“展望理论”）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "prospective intention", "line": 5114, "v": "KEEP", "zh": "面向未来的意图", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "protectionism", "line": 5115, "v": "KEEP", "zh": "贸易保护主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "protective agency", "line": 5116, "v": "KEEP", "zh": "保护性能动", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "protective belt", "line": 5117, "v": "KEEP", "zh": "保护带", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "proteomics", "line": 5118, "v": "KEEP", "zh": "蛋白质组学", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Protestant Reformation", "line": 5119, "v": "KEEP", "zh": "新教改革", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Protestantism", "line": 5120, "v": "KEEP", "zh": "新教", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "protophenomenal", "line": 5121, "v": "KEEP", "zh": "原现象的", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "protothetic", "line": 5122, "v": "KEEP", "zh": "原理论", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "provability", "line": 5123, "v": "KEEP", "zh": "可证性", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "provability logic", "line": 5124, "v": "KEEP", "zh": "可证性逻辑", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "provability predicate", "line": 5125, "v": "KEEP", "zh": "可证性谓词", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "providence", "line": 5126, "v": "FLAG", "zh": "神意（亦作“天命”）", "orig": "—", "note": "主译撞形：“神意”同时对应 divine providence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r21"}
+{"key": "providential control", "line": 5127, "v": "KEEP", "zh": "神意控制", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "providential plan", "line": 5128, "v": "KEEP", "zh": "神意计划", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Provincial Letters", "line": 5129, "v": "KEEP", "zh": "《外省书札》（帕斯卡；亦译“致外省人信札”）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "proxy agency", "line": 5130, "v": "KEEP", "zh": "代理行为", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "proxy consent", "line": 5131, "v": "KEEP", "zh": "代理同意", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "prudence (Hobbes)", "line": 5132, "v": "KEEP", "zh": "明智", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pseudepigraphic", "line": 5133, "v": "KEEP", "zh": "托名的（伪托作者）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pseudo-activity", "line": 5134, "v": "KEEP", "zh": "伪行动", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pseudo-overdeterminant", "line": 5135, "v": "KEEP", "zh": "伪过度决定者", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pseudo-performance (Scheinvollzug)", "line": 5136, "v": "KEEP", "zh": "伪施行", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pseudo-process", "line": 5137, "v": "KEEP", "zh": "伪过程", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pseudo-Riemannian", "line": 5138, "v": "KEEP", "zh": "伪黎曼", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Pseudo-Science", "line": 5139, "v": "KEEP", "zh": "伪科学", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pseudoforce", "line": 5140, "v": "KEEP", "zh": "赝力（亦作“伪力”）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pseudogene", "line": 5141, "v": "KEEP", "zh": "假基因", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "psuchê (ψυχή)", "line": 5142, "v": "FLAG", "zh": "灵魂（保留希腊原词括注）", "orig": "ψυχή", "note": "主译撞形：“灵魂”同时对应 soul；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r21"}
+{"key": "psychical distance", "line": 5143, "v": "KEEP", "zh": "心理距离", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "psychological egoism", "line": 5144, "v": "KEEP", "zh": "心理利己主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "psychological functionalism", "line": 5145, "v": "KEEP", "zh": "心理学功能主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "psychological mechanism", "line": 5146, "v": "KEEP", "zh": "心理机制", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "psychologism", "line": 5147, "v": "KEEP", "zh": "心理主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "psychosocial harms", "line": 5148, "v": "KEEP", "zh": "心理社会伤害", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "public announcement", "line": 5149, "v": "KEEP", "zh": "公共宣告", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "public bad", "line": 5150, "v": "KEEP", "zh": "公共恶", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "public education", "line": 5151, "v": "KEEP", "zh": "公共教育", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "public goods game", "line": 5152, "v": "KEEP", "zh": "公共物品博弈", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "public information", "line": 5153, "v": "KEEP", "zh": "公开信息", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Public Justification", "line": 5154, "v": "KEEP", "zh": "公共证成", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "public key cryptography", "line": 5155, "v": "KEEP", "zh": "公钥密码学（亦作“公钥密码”）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "public philosophy", "line": 5156, "v": "KEEP", "zh": "公共哲学", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "public power", "line": 5157, "v": "KEEP", "zh": "公共权力", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "public reflective equilibrium", "line": 5158, "v": "KEEP", "zh": "公共反思平衡", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "publicity", "line": 5159, "v": "KEEP", "zh": "公开性", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Publikationsverbot", "line": 5160, "v": "KEEP", "zh": "出版禁令", "orig": "Publikationsverbot", "note": null, "sheet": "r21"}
+{"key": "pudgala（佛教补特伽罗义）", "line": 5161, "v": "FLAG", "zh": "补特伽罗（人我）", "orig": "पुद्गल", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r21"}
+{"key": "pudgala（耆那教物质义）", "line": 5162, "v": "FLAG", "zh": "质料", "orig": "पुद्गल", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r21"}
+{"key": "pulsific faculty", "line": 5163, "v": "KEEP", "zh": "搏动官能", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Punishment", "line": 5164, "v": "KEEP", "zh": "惩罚", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pure formula", "line": 5165, "v": "KEEP", "zh": "纯公式", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pure intellect", "line": 5166, "v": "KEEP", "zh": "纯粹理智", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Pure Land", "line": 5167, "v": "KEEP", "zh": "净土（佛教）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pure reason", "line": 5168, "v": "KEEP", "zh": "纯粹理性（康德）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pure sonicist", "line": 5169, "v": "KEEP", "zh": "纯声音论者", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pure state", "line": 5170, "v": "KEEP", "zh": "纯态", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "pure testimony", "line": 5171, "v": "KEEP", "zh": "纯粹证言", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "purifying selection", "line": 5172, "v": "KEEP", "zh": "净化选择（亦作“负选择”）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "purposive enterprise", "line": 5173, "v": "KEEP", "zh": "目的性事业", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "purposive thinking", "line": 5174, "v": "KEEP", "zh": "有目的的思维", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "purposiveness", "line": 5175, "v": "FLAG", "zh": "合目的性", "orig": "—", "note": "主译撞形：“合目的性”同时对应 finality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r21"}
+{"key": "Pyrrhonism", "line": 5176, "v": "KEEP", "zh": "皮浪主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Pyrrhonist", "line": 5177, "v": "KEEP", "zh": "皮浪派者", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Pyrrhus and Cinéas", "line": 5178, "v": "KEEP", "zh": "《皮瑞斯与辛尼阿斯》", "orig": "Pyrrhus and Cinéas", "note": null, "sheet": "r21"}
+{"key": "Pythagorean", "line": 5179, "v": "KEEP", "zh": "毕达哥拉斯派的", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Pythagoreanism", "line": 5180, "v": "KEEP", "zh": "毕达哥拉斯主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Pytho", "line": 5181, "v": "KEEP", "zh": "《皮同》", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "qadariyya", "line": 5187, "v": "KEEP", "zh": "自由意志论（qadarī 自由意志论者）", "orig": "قدرية", "note": null, "sheet": "r21"}
+{"key": "qalb", "line": 5188, "v": "FLAG", "zh": "心", "orig": "قلب", "note": "主译撞形：“心”同时对应 citta；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r21"}
+{"key": "QBism", "line": 5189, "v": "KEEP", "zh": "QBism（保留原名）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "QFT", "line": 5190, "v": "MERGE", "zh": "量子场论", "orig": "—", "note": "与 Quantum Field Theory 行（行 5223）同译“量子场论”，两键皆词汇表并网迁移、同指一概念；建议以全称行为主键，缩写 QFT 并入并注“缩写”", "sheet": "r21"}
+{"key": "qi", "line": 5191, "v": "KEEP", "zh": "气（拼音转写，汉字即译名）", "orig": "氣", "note": null, "sheet": "r21"}
+{"key": "Qianfulun", "line": 5192, "v": "KEEP", "zh": "《潜夫论》", "orig": "潛夫論", "note": null, "sheet": "r21"}
+{"key": "Qingtan", "line": 5193, "v": "KEEP", "zh": "清谈", "orig": "清談", "note": null, "sheet": "r21"}
+{"key": "qiyās", "line": 5194, "v": "FLAG", "zh": "类比推理（基亚斯）", "orig": "قياس", "note": "主译撞形：“类比推理”同时对应 analogical inference、analogical reasoning；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r21"}
+{"key": "qiyāsāt", "line": 5195, "v": "FLAG", "zh": "三段论（syllogisms 复数；与 qiyās 类比推理行按语境区分）", "orig": "قیاسات", "note": "以单复数分词义无语言依据：qiyās 在阿拉伯逻辑学即“三段论”（qiyāsāt 为其复数），在教法学为“类比”；本行按复数取“三段论”、qiyās 行（行 5194）按单数取“类比推理”，同一词靠数分义不可靠；须按域分行（逻辑义／教法义）并各括注语境，不宜以数区义", "sheet": "r21"}
+{"key": "qizhi", "line": 5196, "v": "KEEP", "zh": "气质（qi endowment 气质禀赋）", "orig": "气质", "note": null, "sheet": "r21"}
+{"key": "quaestio", "line": 5197, "v": "KEEP", "zh": "经院论辩（quaestio）", "orig": "quaestio", "note": null, "sheet": "r21"}
+{"key": "quaestio disputata", "line": 5198, "v": "FLAG", "zh": "论辩问题", "orig": "quaestio disputata", "note": "主译撞形：“论辩问题”同时对应 dialectical question；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r21"}
+{"key": "quaestiones", "line": 5199, "v": "KEEP", "zh": "问题集", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "qualia", "line": 5200, "v": "KEEP", "zh": "感质（亦作“感受质”）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "qualitative (of properties)", "line": 5201, "v": "KEEP", "zh": "质性的", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "qualitative nature", "line": 5202, "v": "KEEP", "zh": "质性本性", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "qualitative probability ordering", "line": 5203, "v": "KEEP", "zh": "定性概率排序", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quality", "line": 5204, "v": "FLAG", "zh": "性质", "orig": "—", "note": "主译撞形：“性质”同时对应 guṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r21"}
+{"key": "quality of life", "line": 5205, "v": "KEEP", "zh": "生活质量", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quality-adjusted life year", "line": 5206, "v": "KEEP", "zh": "质量调整生命年", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quan (discretion)", "line": 5207, "v": "KEEP", "zh": "权（weighing things up/expedient means 权；经权）", "orig": "权", "note": null, "sheet": "r21"}
+{"key": "quantificational subordination", "line": 5208, "v": "KEEP", "zh": "量化从属", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantifier elimination", "line": 5209, "v": "KEEP", "zh": "量词消去", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantifier variance", "line": 5210, "v": "KEEP", "zh": "量词变异", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantitas materiae", "line": 5211, "v": "KEEP", "zh": "质料之量", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantity", "line": 5212, "v": "FLAG", "zh": "量", "orig": "—", "note": "主译撞形：“量”同时对应 maqādīr；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r21"}
+{"key": "quantity of matter", "line": 5213, "v": "KEEP", "zh": "物质的量", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantity of motion", "line": 5214, "v": "KEEP", "zh": "运动量", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantization", "line": 5215, "v": "KEEP", "zh": "量化", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Quantum Approaches", "line": 5216, "v": "KEEP", "zh": "量子研究方法", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum Bayesianism", "line": 5217, "v": "KEEP", "zh": "量子贝叶斯主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum channel", "line": 5218, "v": "KEEP", "zh": "量子信道", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum computation", "line": 5219, "v": "KEEP", "zh": "量子计算", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum condition", "line": 5220, "v": "KEEP", "zh": "量子条件", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum cryptography", "line": 5221, "v": "KEEP", "zh": "量子密码学", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum entanglement", "line": 5222, "v": "KEEP", "zh": "量子纠缠", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Quantum Field Theory", "line": 5223, "v": "FLAG", "zh": "量子场论", "orig": "—", "note": "主译撞形：“量子场论”同时对应 QFT；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r21"}
+{"key": "quantum gate", "line": 5224, "v": "KEEP", "zh": "量子门（亦作“量子逻辑门”）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum gravity", "line": 5225, "v": "KEEP", "zh": "量子引力", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum information", "line": 5226, "v": "KEEP", "zh": "量子信息", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum information theory", "line": 5227, "v": "KEEP", "zh": "量子信息论", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum jump", "line": 5228, "v": "KEEP", "zh": "量子跳跃", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum logic", "line": 5229, "v": "KEEP", "zh": "量子逻辑", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Quantum measurement", "line": 5230, "v": "KEEP", "zh": "量子测量", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum mechanics", "line": 5231, "v": "KEEP", "zh": "量子力学", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum number", "line": 5232, "v": "KEEP", "zh": "量子数", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum probability", "line": 5233, "v": "KEEP", "zh": "量子概率", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum state", "line": 5234, "v": "KEEP", "zh": "量子态", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum teleportation", "line": 5235, "v": "KEEP", "zh": "量子隐形传态", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quantum theory", "line": 5236, "v": "KEEP", "zh": "量子理论", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Quantum-Bayesian", "line": 5237, "v": "KEEP", "zh": "量子贝叶斯模型", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quasi-being", "line": 5238, "v": "KEEP", "zh": "准存在", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quasi-emotion", "line": 5239, "v": "KEEP", "zh": "准情绪", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quasi-empiricism", "line": 5240, "v": "KEEP", "zh": "准经验主义（亦作“数学拟经验论”）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quasi-fideism", "line": 5241, "v": "KEEP", "zh": "准信仰主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quasi-merging operator", "line": 5242, "v": "KEEP", "zh": "准合并算子", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quaternion", "line": 5243, "v": "KEEP", "zh": "四元数", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "qubit", "line": 5244, "v": "KEEP", "zh": "量子比特", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "qubit register", "line": 5245, "v": "KEEP", "zh": "量子比特寄存器", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quia", "line": 5246, "v": "KEEP", "zh": "证明其为如此（事实证明）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quiddative", "line": 5247, "v": "KEEP", "zh": "什么性的", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quiddity", "line": 5248, "v": "FLAG", "zh": "本质（quiddity，阿拉伯语 māhiyya）", "orig": "—", "note": "主译撞形：“本质”同时对应 essence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r21"}
+{"key": "quiddity（与 essence 并置时）", "line": 5249, "v": "FLAG", "zh": "什么性", "orig": "quidditas", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r21"}
+{"key": "quietism", "line": 5250, "v": "KEEP", "zh": "寂静主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "quodlibetal questions", "line": 5251, "v": "KEEP", "zh": "自由论题（亦作“自由论辩问题”）", "orig": "quaestiones quodlibetales", "note": null, "sheet": "r21"}
+{"key": "Quodlibets（奥卡姆）", "line": 5252, "v": "FLAG", "zh": "《自由论题》（Seven Quodlibets 作《七个自由论题》）", "orig": "Quodlibeta Septem", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r21"}
+{"key": "Rabbanites", "line": 5258, "v": "KEEP", "zh": "拉比派", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rabble", "line": 5259, "v": "KEEP", "zh": "贱民", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "racial capitalism", "line": 5260, "v": "KEEP", "zh": "种族资本主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "racism", "line": 5261, "v": "KEEP", "zh": "种族主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "radical Aristotelianism", "line": 5262, "v": "KEEP", "zh": "激进亚里士多德主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "radical conventionalism", "line": 5263, "v": "KEEP", "zh": "激进约定论", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "radical democracy", "line": 5264, "v": "KEEP", "zh": "激进民主", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "radical evil", "line": 5265, "v": "KEEP", "zh": "根本恶（亦作“根本的恶”）", "orig": "radix / Hang zum Bösen", "note": null, "sheet": "r21"}
+{"key": "radical interpretation", "line": 5266, "v": "KEEP", "zh": "彻底解释", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "radical minimalism", "line": 5267, "v": "KEEP", "zh": "激进最小主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "radical preference upgrade", "line": 5268, "v": "KEEP", "zh": "激进偏好升级", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "radicalism", "line": 5269, "v": "KEEP", "zh": "激进主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "raffle ticket", "line": 5270, "v": "KEEP", "zh": "抽奖券", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Rahit Maryada", "line": 5271, "v": "KEEP", "zh": "拉希特（行为准则）", "orig": "rahit maryada", "note": null, "sheet": "r21"}
+{"key": "raison d’état", "line": 5272, "v": "KEEP", "zh": "国家理性（法文原词保留斜体）", "orig": "raison d’état", "note": null, "sheet": "r21"}
+{"key": "Raku", "line": 5273, "v": "KEEP", "zh": "乐烧（楽焼）", "orig": "楽焼", "note": null, "sheet": "r21"}
+{"key": "Ramsey Rule", "line": 5274, "v": "KEEP", "zh": "拉姆齐规则", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "random element", "line": 5275, "v": "KEEP", "zh": "随机因素", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "random genetic drift", "line": 5276, "v": "KEEP", "zh": "随机遗传漂变", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "random reset", "line": 5277, "v": "KEEP", "zh": "随机重置", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "random sequence", "line": 5278, "v": "KEEP", "zh": "随机序列", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rank", "line": 5279, "v": "KEEP", "zh": "秩", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rank reversal", "line": 5280, "v": "KEEP", "zh": "地位逆转", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rank-dependent utility", "line": 5281, "v": "KEEP", "zh": "秩依效用（亦作“秩依概率效用”）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Rasâ’il", "line": 5282, "v": "KEEP", "zh": "《论文集》", "orig": "Rasâ’il", "note": null, "sheet": "r21"}
+{"key": "ratiocinari", "line": 5283, "v": "KEEP", "zh": "理性推论", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rational beings", "line": 5284, "v": "KEEP", "zh": "理性存在者（康德语境）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rational constructivism", "line": 5285, "v": "KEEP", "zh": "理性建构主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rational generalization", "line": 5286, "v": "KEEP", "zh": "合理推广", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rational love (vernünftige Liebe)", "line": 5287, "v": "KEEP", "zh": "合理的爱（德文原词保留斜体）", "orig": "vernünftige Liebe", "note": null, "sheet": "r21"}
+{"key": "rational nature", "line": 5288, "v": "KEEP", "zh": "理性本性", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rational psychology", "line": 5289, "v": "KEEP", "zh": "理性心理学", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rational realism", "line": 5290, "v": "KEEP", "zh": "理性实在论（巴尔迪利/莱因霍尔德）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rational reconstruction", "line": 5291, "v": "KEEP", "zh": "合理重构（亦作“理性重建”）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Rational Ritual", "line": 5292, "v": "KEEP", "zh": "《理性的仪式》（Chwe 2001）", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rational soul", "line": 5293, "v": "KEEP", "zh": "理性灵魂", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rational theology", "line": 5294, "v": "KEEP", "zh": "理性神学", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rationalism", "line": 5295, "v": "KEEP", "zh": "唯理论；理性主义", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "Rationalist", "line": 5296, "v": "KEEP", "zh": "理性主义者", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rationality", "line": 5297, "v": "KEEP", "zh": "合理性", "orig": "—", "note": null, "sheet": "r21"}
+{"key": "rationes seminales", "line": 5298, "v": "KEEP", "zh": "种子理性", "orig": "rationes seminales", "note": null, "sheet": "r21"}
 {"key": "re-experiencing", "line": 5301, "v": "FLAG", "zh": "再体验", "orig": "—", "note": "主译撞形：“再体验”同时对应 nacherleben；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "reaction norm", "line": 5302, "v": "FLAG", "zh": "反应规范", "orig": "—", "note": "主译撞形：“反应规范”同时对应 norm of reaction；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "recognition (Ricoeur)", "line": 5336, "v": "FLAG", "zh": "承认", "orig": "—", "note": "主译撞形：“承认”同时对应 acknowledgement (Anerkennung)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
