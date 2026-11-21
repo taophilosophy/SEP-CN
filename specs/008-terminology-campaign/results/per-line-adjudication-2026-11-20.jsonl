@@ -2929,24 +2929,206 @@
 {"key": "microbiome", "line": 3871, "v": "KEEP", "zh": "微生物组", "orig": "—", "note": null, "sheet": "r14"}
 {"key": "microbiota", "line": 3872, "v": "KEEP", "zh": "微生物群", "orig": "—", "note": null, "sheet": "r14"}
 {"key": "microcanonical distribution", "line": 3873, "v": "KEEP", "zh": "微正则分布", "orig": "—", "note": null, "sheet": "r14"}
-{"key": "mimesis", "line": 3891, "v": "FLAG", "zh": "模仿（亦作“摹仿”）", "orig": "μίμησις", "note": "主译撞形：“模仿”同时对应 imitation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "mistaken cognition（log shes）", "line": 3915, "v": "FLAG", "zh": "颠倒识（log shes）", "orig": "ལོག་ཤེས་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "mixed state", "line": 3919, "v": "FLAG", "zh": "混合态", "orig": "—", "note": "主译撞形：“混合态”同时对应 mixture；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "mixture", "line": 3922, "v": "FLAG", "zh": "混合态", "orig": "—", "note": "主译撞形：“混合态”同时对应 mixed state；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "modalism", "line": 3932, "v": "FLAG", "zh": "模态主义", "orig": "—", "note": "主译撞形：“模态主义”同时对应 modism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "mode", "line": 3934, "v": "FLAG", "zh": "样态", "orig": "—", "note": "主译撞形：“样态”同时对应 condicio (condiciones)、paryāya；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "modes of signifying", "line": 3950, "v": "FLAG", "zh": "意指样式（modi significandi）", "orig": "—", "note": "主译撞形：“意指样式”同时对应 modi significandi、modus significandi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "mode（奥克肖特经验范畴）", "line": 3952, "v": "FLAG", "zh": "模式", "orig": "mode", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "modi significandi", "line": 3955, "v": "FLAG", "zh": "意指样式（摩迪斯泰语法）", "orig": "modi significandi", "note": "主译撞形：“意指样式”同时对应 modes of signifying、modus significandi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "modism", "line": 3956, "v": "FLAG", "zh": "模态主义", "orig": "—", "note": "主译撞形：“模态主义”同时对应 modalism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "modus significandi", "line": 3964, "v": "FLAG", "zh": "意指样式", "orig": "modus significandi", "note": "主译撞形：“意指样式”同时对应 modes of signifying、modi significandi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "mood（syllogistic）", "line": 3996, "v": "FLAG", "zh": "式", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "moral emotion", "line": 4010, "v": "FLAG", "zh": "道德情感", "orig": "—", "note": "主译撞形：“道德情感”同时对应 moral sentiment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "moral judgment", "line": 4021, "v": "FLAG", "zh": "道德判断", "orig": "—", "note": "主译撞形：“道德判断”同时对应 moral judgments；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "moral judgments", "line": 4022, "v": "FLAG", "zh": "道德判断", "orig": "—", "note": "主译撞形：“道德判断”同时对应 moral judgment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "moral sentiment", "line": 4043, "v": "FLAG", "zh": "道德情感", "orig": "—", "note": "主译撞形：“道德情感”同时对应 moral emotion；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "mujō", "line": 4069, "v": "FLAG", "zh": "无常（無常）", "orig": "無常", "note": "主译撞形：“无常”同时对应 anitya、impermanence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Mūlamadhyamakakārikā", "line": 4070, "v": "FLAG", "zh": "《中论》", "orig": "—", "note": "主译撞形：“《中论》”同时对应 Zhonglun；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "microcephaly", "line": 3874, "v": "KEEP", "zh": "小头畸形", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "microcosm", "line": 3875, "v": "KEEP", "zh": "小宇宙", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "microorganism", "line": 3876, "v": "KEEP", "zh": "微生物", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "microworld", "line": 3877, "v": "KEEP", "zh": "微世界", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "middle commentary", "line": 3878, "v": "KEEP", "zh": "中等评注", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "middle knowledge", "line": 3879, "v": "FLAG", "zh": "中知识", "orig": "—", "note": "莫利纳 middle knowledge（scientia media）通行作“中间知识”，现译“中知识”须查证", "sheet": "r15"}
+{"key": "Middle Platonism", "line": 3880, "v": "KEEP", "zh": "中期柏拉图主义", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "middle term", "line": 3881, "v": "KEEP", "zh": "中项", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "middle way", "line": 3882, "v": "KEEP", "zh": "中道", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mikunigokoro", "line": 3883, "v": "KEEP", "zh": "御国心", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "milieu", "line": 3884, "v": "KEEP", "zh": "环境（正文以原文括注，与 environment 分列）", "orig": "milieu", "note": null, "sheet": "r15"}
+{"key": "militarism", "line": 3885, "v": "KEEP", "zh": "军国主义", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "millenarianism", "line": 3886, "v": "KEEP", "zh": "千禧年论", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "millet seed", "line": 3887, "v": "KEEP", "zh": "黍粒（悖论名；亦作“谷粒”）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Mīmāṃsā", "line": 3888, "v": "KEEP", "zh": "弥曼差（亦作“弥曼沙”）", "orig": "मीमांसा", "note": null, "sheet": "r15"}
+{"key": "Mīmāṃsā / Pūrva Mīmāṃsā", "line": 3889, "v": "KEEP", "zh": "弥曼差／前弥曼差", "orig": "मीमांसा / पूर्वमीमांसा", "note": null, "sheet": "r15"}
+{"key": "mimar", "line": 3890, "v": "KEEP", "zh": "米马尔（叙利亚语'章'）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mimesis", "line": 3891, "v": "FLAG", "zh": "模仿（亦作“摹仿”）", "orig": "μίμησις", "note": "主译撞形：“模仿”同时对应 imitation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r15"}
+{"key": "mina", "line": 3892, "v": "KEEP", "zh": "米那（古希腊货币单位）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mind", "line": 3893, "v": "KEEP", "zh": "心灵（当代心灵哲学；审定库作“心智”，自然辩证法·科学哲学；黑格尔 Geist 语境译“精神”）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mind-independent", "line": 3894, "v": "KEEP", "zh": "独立于心灵的", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "ming (allotment)", "line": 3895, "v": "KEEP", "zh": "命", "orig": "命", "note": null, "sheet": "r15"}
+{"key": "ming (name)", "line": 3896, "v": "KEEP", "zh": "名", "orig": "名", "note": null, "sheet": "r15"}
+{"key": "minima (Epicurean)", "line": 3897, "v": "KEEP", "zh": "最小量", "orig": "ἐλάχιστα", "note": null, "sheet": "r15"}
+{"key": "minima naturalia", "line": 3898, "v": "KEEP", "zh": "自然最小体", "orig": "minima naturalia", "note": null, "sheet": "r15"}
+{"key": "minimal model organism", "line": 3899, "v": "KEEP", "zh": "最低限度模式生物", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "minimal risk", "line": 3900, "v": "KEEP", "zh": "最小风险", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "minimalism", "line": 3901, "v": "KEEP", "zh": "极简主义", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "minimax", "line": 3902, "v": "KEEP", "zh": "最小最大算子（亦作“极小化极大”）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "minimax relative concession", "line": 3903, "v": "KEEP", "zh": "最小最大相对让步", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "minisum", "line": 3904, "v": "KEEP", "zh": "最小和算子", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Minjung Buddhism", "line": 3905, "v": "KEEP", "zh": "民众佛教", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Minkowski spacetime", "line": 3906, "v": "KEEP", "zh": "闵可夫斯基时空", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "minor premise", "line": 3907, "v": "KEEP", "zh": "小前提", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "minority group model", "line": 3908, "v": "KEEP", "zh": "少数群体模型", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mirror of princes", "line": 3909, "v": "KEEP", "zh": "君主宝鉴", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Mirror of Production", "line": 3910, "v": "KEEP", "zh": "《生产之镜》", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Miscellanies", "line": 3911, "v": "KEEP", "zh": "《杂录》", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Mishneh Torah", "line": 3912, "v": "KEEP", "zh": "《重述托拉》", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mismatch", "line": 3913, "v": "KEEP", "zh": "失配", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "misrepresentation", "line": 3914, "v": "KEEP", "zh": "误表征", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mistaken cognition（log shes）", "line": 3915, "v": "FLAG", "zh": "颠倒识（log shes）", "orig": "ལོག་ཤེས་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r15"}
+{"key": "Mitleid", "line": 3916, "v": "KEEP", "zh": "共受苦", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mitzvot", "line": 3917, "v": "KEEP", "zh": "诫命", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mixed mathematics", "line": 3918, "v": "KEEP", "zh": "混合数学", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mixed state", "line": 3919, "v": "FLAG", "zh": "混合态", "orig": "—", "note": "与 mixture 行（行 3922）同译“混合态”撞形（QM 同义术语）；须合键或分行（混合态／混合物）", "sheet": "r15"}
+{"key": "mixed statement", "line": 3920, "v": "KEEP", "zh": "混合语句", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mixed trait", "line": 3921, "v": "KEEP", "zh": "混合特质", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mixture", "line": 3922, "v": "FLAG", "zh": "混合态", "orig": "—", "note": "同 mixed state 行族问题（同译“混合态”撞形），须合键或分行", "sheet": "r15"}
+{"key": "modal abstraction", "line": 3923, "v": "KEEP", "zh": "样态抽象", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modal analysis", "line": 3924, "v": "KEEP", "zh": "模态分析", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modal collapse", "line": 3925, "v": "KEEP", "zh": "模态坍塌", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modal interpretation / Modal Interpretations", "line": 3926, "v": "KEEP", "zh": "模态解释", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modal logic", "line": 3927, "v": "KEEP", "zh": "模态逻辑", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modal metaphysics", "line": 3928, "v": "KEEP", "zh": "模态形而上学", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modal soundness/completeness", "line": 3929, "v": "KEEP", "zh": "模态可靠性／模态完全性", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modal subordination", "line": 3930, "v": "KEEP", "zh": "情态从属", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modal μ-calculus", "line": 3931, "v": "KEEP", "zh": "模态 μ-演算", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modalism", "line": 3932, "v": "FLAG", "zh": "模态主义", "orig": "—", "note": "主译撞形：“模态主义”同时对应 modism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r15"}
+{"key": "Modality", "line": 3933, "v": "KEEP", "zh": "模态", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mode", "line": 3934, "v": "FLAG", "zh": "样态", "orig": "—", "note": "主译撞形：“样态”同时对应 condicio (condiciones)、paryāya；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r15"}
+{"key": "Mode from Hypothesis", "line": 3935, "v": "KEEP", "zh": "基于假设的论式", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "model carrier", "line": 3936, "v": "KEEP", "zh": "模型载体", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "model checking", "line": 3937, "v": "KEEP", "zh": "模型检验（亦作“模型检测”“模型检查”）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "model organism", "line": 3938, "v": "KEEP", "zh": "模式生物", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "model surrogate", "line": 3939, "v": "KEEP", "zh": "替代模型（亦作“代理模型”）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "model system", "line": 3940, "v": "KEEP", "zh": "模式系统", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "model theory", "line": 3941, "v": "KEEP", "zh": "模型论", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "model-based fusion", "line": 3942, "v": "KEEP", "zh": "基于模型的融合", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "model-finder", "line": 3943, "v": "KEEP", "zh": "模型发现器", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "model-free reinforcement learning", "line": 3944, "v": "KEEP", "zh": "无模型强化学习", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modern science", "line": 3945, "v": "KEEP", "zh": "近代科学", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modern synthesis", "line": 3946, "v": "KEEP", "zh": "现代综合（亦作“现代综合论”）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modernism", "line": 3947, "v": "KEEP", "zh": "现代主义", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Modernity", "line": 3948, "v": "KEEP", "zh": "现代性", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modernization", "line": 3949, "v": "KEEP", "zh": "现代化", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modes of signifying", "line": 3950, "v": "FLAG", "zh": "意指样式（modi significandi）", "orig": "—", "note": "与 modi significandi 行（行 3964）同译“意指样式”撞形（复数／单数两行）；须合键或分行设计", "sheet": "r15"}
+{"key": "modesty", "line": 3951, "v": "KEEP", "zh": "谦逊", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mode（奥克肖特经验范畴）", "line": 3952, "v": "FLAG", "zh": "模式", "orig": "mode", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r15"}
+{"key": "modi intelligendi", "line": 3953, "v": "KEEP", "zh": "理解样式", "orig": "modi intelligendi", "note": null, "sheet": "r15"}
+{"key": "modi praedicandi", "line": 3954, "v": "KEEP", "zh": "述谓样式", "orig": "modi praedicandi", "note": null, "sheet": "r15"}
+{"key": "modi significandi", "line": 3955, "v": "FLAG", "zh": "意指样式（摩迪斯泰语法）", "orig": "modi significandi", "note": "同 modes of signifying 行族问题（同译撞形），须合键或分行设计", "sheet": "r15"}
+{"key": "modism", "line": 3956, "v": "FLAG", "zh": "模态主义", "orig": "—", "note": "与 modalism 行（行 3932）同译“模态主义”大撞形；modism（摩迪斯泰语法派）通行作“摩迪斯泰主义”，须改译分行", "sheet": "r15"}
+{"key": "modist", "line": 3957, "v": "FLAG", "zh": "模态主义者", "orig": "modista", "note": "同 modism 族问题：modist（modista）通行“摩迪斯泰学者”，现译“模态主义者”与 modalism 系混，须改译", "sheet": "r15"}
+{"key": "modistic logic", "line": 3958, "v": "KEEP", "zh": "摩迪斯泰逻辑", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modularity", "line": 3959, "v": "KEEP", "zh": "模块性", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modularity thesis", "line": 3960, "v": "KEEP", "zh": "模块性论题", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modus considerandi", "line": 3961, "v": "KEEP", "zh": "考虑方式（保留拉丁）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "modus ponens", "line": 3962, "v": "KEEP", "zh": "肯定前件", "orig": "modus ponens", "note": null, "sheet": "r15"}
+{"key": "modus se habendi", "line": 3963, "v": "KEEP", "zh": "情状（modus se habendi）", "orig": "modus se habendi", "note": null, "sheet": "r15"}
+{"key": "modus significandi", "line": 3964, "v": "FLAG", "zh": "意指样式", "orig": "modus significandi", "note": "主译撞形：“意指样式”同时对应 modes of signifying、modi significandi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r15"}
+{"key": "modus tollens", "line": 3965, "v": "KEEP", "zh": "否定后件式", "orig": "modus tollens", "note": null, "sheet": "r15"}
+{"key": "mōgo", "line": 3966, "v": "KEEP", "zh": "妄语", "orig": "妄語", "note": null, "sheet": "r15"}
+{"key": "Mohism", "line": 3967, "v": "KEEP", "zh": "墨家", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mokṣa", "line": 3968, "v": "KEEP", "zh": "解脱", "orig": "मोक्ष", "note": null, "sheet": "r15"}
+{"key": "molecular evolution", "line": 3969, "v": "KEEP", "zh": "分子进化", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "molecular genetics", "line": 3970, "v": "KEEP", "zh": "分子遗传学", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Molinism", "line": 3971, "v": "KEEP", "zh": "莫利纳主义", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Molyneux's problem", "line": 3972, "v": "KEEP", "zh": "莫利纽克斯问题", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moment-by-moment forgetting", "line": 3973, "v": "KEEP", "zh": "逐刻遗忘", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "momentariness", "line": 3974, "v": "KEEP", "zh": "刹那灭（亦作“刹那生灭”）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moments (Reinach/Husserl)", "line": 3975, "v": "KEEP", "zh": "环节", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "momentum", "line": 3976, "v": "KEEP", "zh": "动量", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "monad", "line": 3977, "v": "KEEP", "zh": "单子", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "monadology", "line": 3978, "v": "KEEP", "zh": "单子论", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "monarchia", "line": 3979, "v": "KEEP", "zh": "专权（与 isonomia 相对的独大状态）", "orig": "monarchia", "note": null, "sheet": "r15"}
+{"key": "monasticism", "line": 3980, "v": "KEEP", "zh": "修道制度", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "monē / proodos / epistrophē", "line": 3981, "v": "KEEP", "zh": "静驻／流出／回返", "orig": "μονή / πρόοδος / ἐπιστροφή", "note": null, "sheet": "r15"}
+{"key": "monetarism", "line": 3982, "v": "KEEP", "zh": "货币主义", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "monetization", "line": 3983, "v": "KEEP", "zh": "货币化", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "money-pump", "line": 3984, "v": "KEEP", "zh": "抽钱机", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "monism", "line": 3985, "v": "KEEP", "zh": "一元论", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mono no aware", "line": 3986, "v": "KEEP", "zh": "物哀（物の哀れ）", "orig": "物の哀れ", "note": null, "sheet": "r15"}
+{"key": "mono-object", "line": 3987, "v": "KEEP", "zh": "单对象", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "monogamy of entanglement", "line": 3988, "v": "KEEP", "zh": "纠缠的单配性", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "monophyletic group", "line": 3989, "v": "KEEP", "zh": "单系群", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "monotheism", "line": 3990, "v": "KEEP", "zh": "一神论", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "monotonicity axioms", "line": 3991, "v": "KEEP", "zh": "单调性公理", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "monotype", "line": 3992, "v": "KEEP", "zh": "单型", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "monozygotic twinning", "line": 3993, "v": "KEEP", "zh": "同卵孪生（亦作“单卵孪生”）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "monster-barring (definition)", "line": 3994, "v": "KEEP", "zh": "排除妖怪（定义）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Montague grammar", "line": 3995, "v": "KEEP", "zh": "蒙塔古语法", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mood（syllogistic）", "line": 3996, "v": "FLAG", "zh": "式", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r15"}
+{"key": "Moore's paradox", "line": 3997, "v": "KEEP", "zh": "摩尔悖论", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral address", "line": 3998, "v": "KEEP", "zh": "道德致意", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral alphabet", "line": 3999, "v": "KEEP", "zh": "道德字母表", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral certainty", "line": 4000, "v": "KEEP", "zh": "道德确定性", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral character", "line": 4001, "v": "KEEP", "zh": "道德品格", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral cognition", "line": 4002, "v": "KEEP", "zh": "道德认知", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral community", "line": 4003, "v": "KEEP", "zh": "道德共同体", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral conscience", "line": 4004, "v": "KEEP", "zh": "道德良心", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral conversion", "line": 4005, "v": "KEEP", "zh": "道德改宗", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral cultivation", "line": 4006, "v": "KEEP", "zh": "道德修养（修身）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral desert", "line": 4007, "v": "KEEP", "zh": "道德应得", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral development", "line": 4008, "v": "KEEP", "zh": "道德发展", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral education", "line": 4009, "v": "KEEP", "zh": "道德教育", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral emotion", "line": 4010, "v": "FLAG", "zh": "道德情感", "orig": "—", "note": "与 moral sentiment 行（行 4043）同译“道德情感”撞形；须分行区分（emotion 情感／sentiment 情操）或登记撞形豁免", "sheet": "r15"}
+{"key": "moral epistemology", "line": 4011, "v": "KEEP", "zh": "道德认识论", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral evaluation", "line": 4012, "v": "KEEP", "zh": "道德评价", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral evil", "line": 4013, "v": "KEEP", "zh": "道德之恶", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral experience", "line": 4014, "v": "KEEP", "zh": "道德经验", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral fact", "line": 4015, "v": "KEEP", "zh": "道德事实", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral hypocrisy", "line": 4016, "v": "KEEP", "zh": "道德伪善", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral ideal", "line": 4017, "v": "KEEP", "zh": "道德理想", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral ignorance", "line": 4018, "v": "KEEP", "zh": "道德无知", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral integrity", "line": 4019, "v": "KEEP", "zh": "道德完整性（亦作“德操”）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral intuition", "line": 4020, "v": "KEEP", "zh": "道德直觉", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral judgment", "line": 4021, "v": "FLAG", "zh": "道德判断", "orig": "—", "note": "与 moral judgments 行（行 4022）单复数两行同译“道德判断”，须合键", "sheet": "r15"}
+{"key": "moral judgments", "line": 4022, "v": "FLAG", "zh": "道德判断", "orig": "—", "note": "同 moral judgment 行族问题（单复数两行同译），须合键", "sheet": "r15"}
+{"key": "moral justification", "line": 4023, "v": "KEEP", "zh": "道德辩护", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral knowledge", "line": 4024, "v": "KEEP", "zh": "道德知识", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral law", "line": 4025, "v": "KEEP", "zh": "道德法则（康德；亦作“道德律”）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral luck", "line": 4026, "v": "KEEP", "zh": "道德运气", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral motivation", "line": 4027, "v": "KEEP", "zh": "道德动机", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral neutrality", "line": 4028, "v": "KEEP", "zh": "道德中性", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral norm", "line": 4029, "v": "KEEP", "zh": "道德规范", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral obligation", "line": 4030, "v": "KEEP", "zh": "道德义务", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral particularism", "line": 4031, "v": "KEEP", "zh": "道德特殊主义", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral perfection", "line": 4032, "v": "KEEP", "zh": "道德完善（康德语境）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral personhood", "line": 4033, "v": "KEEP", "zh": "道德人格", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral philosophy", "line": 4034, "v": "KEEP", "zh": "道德哲学", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral pluralism", "line": 4035, "v": "KEEP", "zh": "道德多元论（亦作“道德多元化”）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral property", "line": 4036, "v": "KEEP", "zh": "道德属性", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral psychology", "line": 4037, "v": "KEEP", "zh": "道德心理学（亦作“道德心理”）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral quality", "line": 4038, "v": "KEEP", "zh": "道德品质", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral realism", "line": 4039, "v": "KEEP", "zh": "道德实在论", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral responsibility", "line": 4040, "v": "KEEP", "zh": "道德责任", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral self", "line": 4041, "v": "KEEP", "zh": "道德自我", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral sense", "line": 4042, "v": "KEEP", "zh": "道德感", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral sentiment", "line": 4043, "v": "FLAG", "zh": "道德情感", "orig": "—", "note": "同 moral emotion 行族问题（同译“道德情感”撞形；休谟—斯密 moral sentiment 通行“道德情感／道德情操”），须分行区分", "sheet": "r15"}
+{"key": "moral status", "line": 4044, "v": "KEEP", "zh": "道德地位", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral taint", "line": 4045, "v": "KEEP", "zh": "道德污点", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Moral Vegetarianism", "line": 4046, "v": "KEEP", "zh": "伦理素食主义", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral virtue", "line": 4047, "v": "KEEP", "zh": "道德德性", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral worth", "line": 4048, "v": "KEEP", "zh": "道德价值（康德语境）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral-legal self-understanding", "line": 4049, "v": "KEEP", "zh": "道德—法律自我理解", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moral/conventional distinction", "line": 4050, "v": "KEEP", "zh": "道德/习俗区分", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "morality", "line": 4051, "v": "KEEP", "zh": "道德", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "morality system", "line": 4052, "v": "KEEP", "zh": "道德体系", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moralization", "line": 4053, "v": "KEEP", "zh": "道德化", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mortalism", "line": 4054, "v": "KEEP", "zh": "灵魂有死论", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "mortalist", "line": 4055, "v": "FLAG", "zh": "必死论", "orig": "—", "note": "族内不一：mortalism＝灵魂有死论而 mortalist＝必死论；gomez-pereira 语境 mortalist 即灵魂有死论者，须族内统一", "sheet": "r15"}
+{"key": "mortality", "line": 4056, "v": "KEEP", "zh": "有死性", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "motherhood", "line": 4057, "v": "KEEP", "zh": "母职", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "motivation", "line": 4058, "v": "KEEP", "zh": "动机", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "motivational state", "line": 4059, "v": "KEEP", "zh": "动机状态", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "motive force", "line": 4060, "v": "KEEP", "zh": "运动的力", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "motive utilitarianism", "line": 4061, "v": "KEEP", "zh": "动机功利主义", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "motor intentionality", "line": 4062, "v": "KEEP", "zh": "运动意向性", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Mount Meru", "line": 4063, "v": "KEEP", "zh": "须弥山", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "moves to innocence", "line": 4064, "v": "KEEP", "zh": "脱罪之举（moves to innocence）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Moving Rows", "line": 4065, "v": "KEEP", "zh": "运动队列（悖论名；亦作“两列物体”）", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "Mozi", "line": 4066, "v": "KEEP", "zh": "《墨子》", "orig": "墨子", "note": null, "sheet": "r15"}
+{"key": "mufāriq", "line": 4067, "v": "KEEP", "zh": "分离的（非物质分离；separate/immaterial）", "orig": "مفارق", "note": null, "sheet": "r15"}
+{"key": "mujarrad", "line": 4068, "v": "KEEP", "zh": "抽离的（abstract 于质料）", "orig": "مجرد", "note": null, "sheet": "r15"}
+{"key": "mujō", "line": 4069, "v": "FLAG", "zh": "无常（無常）", "orig": "無常", "note": "主译撞形：“无常”同时对应 anitya、impermanence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r15"}
+{"key": "Mūlamadhyamakakārikā", "line": 4070, "v": "FLAG", "zh": "《中论》", "orig": "—", "note": "主译撞形：“《中论》”同时对应 Zhonglun；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r15"}
+{"key": "Müller-Lyer illusion", "line": 4071, "v": "FIX", "zh": "米勒-莱尔错觉", "orig": "Müller-Lyer illusion", "note": "人名连接号按 ADR-0041 一字线：米勒-莱尔错觉 → 米勒—莱尔错觉", "sheet": "r15"}
+{"key": "multi-agent system", "line": 4072, "v": "KEEP", "zh": "多智能体系统", "orig": "—", "note": null, "sheet": "r15"}
+{"key": "multi-location", "line": 4073, "v": "KEEP", "zh": "多重定位", "orig": "multiple location", "note": null, "sheet": "r15"}
 {"key": "multiplicity", "line": 4086, "v": "FLAG", "zh": "杂多", "orig": "—", "note": "主译撞形：“杂多”同时对应 manifold (Kantian)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "nacherleben", "line": 4128, "v": "FLAG", "zh": "再体验（nacherleben；狄尔泰）", "orig": "nacherleben", "note": "主译撞形：“再体验”同时对应 re-experiencing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "nafs al-ʾamr", "line": 4129, "v": "FLAG", "zh": "事情本身（字面义；技术义指事物自在之所是；与 die Sache selbst 行同形异源，勿混）", "orig": "نفس الأمر", "note": "主译撞形：“事情本身”同时对应 Sache selbst；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}

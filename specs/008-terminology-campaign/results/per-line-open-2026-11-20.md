@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 2464，FLAG 709，FIX 33，MERGE 4
+判定分布：KEEP 2642，FLAG 712，FIX 34，MERGE 4
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -471,24 +471,28 @@
 - **mental episodes（blo）**（行 3806，现译「心识事件（blo）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **mental proposition / ideal proposition**（行 3813，现译「心理命题／理想命题」）｜ FLAG ｜ 族内不一：mental proposition＝心灵命题（行 3812）而本行＝心理命题／理想命题；mental 系通行“心理”（mental act 心理行为等），须族内统一
 - **Mexicanness**（行 3869，现译「墨西哥性」）｜ FLAG ｜ 与 lo mexicano 行（行 3563）同译“墨西哥性”撞形；前者系西语原词义，须分行设计（保留原词 lo mexicano 括注）或合键
+- **middle knowledge**（行 3879，现译「中知识」）｜ FLAG ｜ 莫利纳 middle knowledge（scientia media）通行作“中间知识”，现译“中知识”须查证
 - **mimesis**（行 3891，现译「模仿（亦作“摹仿”）」）｜ FLAG ｜ 主译撞形：“模仿”同时对应 imitation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **mistaken cognition（log shes）**（行 3915，现译「颠倒识（log shes）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
-- **mixed state**（行 3919，现译「混合态」）｜ FLAG ｜ 主译撞形：“混合态”同时对应 mixture；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **mixture**（行 3922，现译「混合态」）｜ FLAG ｜ 主译撞形：“混合态”同时对应 mixed state；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **mixed state**（行 3919，现译「混合态」）｜ FLAG ｜ 与 mixture 行（行 3922）同译“混合态”撞形（QM 同义术语）；须合键或分行（混合态／混合物）
+- **mixture**（行 3922，现译「混合态」）｜ FLAG ｜ 同 mixed state 行族问题（同译“混合态”撞形），须合键或分行
 - **modalism**（行 3932，现译「模态主义」）｜ FLAG ｜ 主译撞形：“模态主义”同时对应 modism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **mode**（行 3934，现译「样态」）｜ FLAG ｜ 主译撞形：“样态”同时对应 condicio (condiciones)、paryāya；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **modes of signifying**（行 3950，现译「意指样式（modi significandi）」）｜ FLAG ｜ 主译撞形：“意指样式”同时对应 modi significandi、modus significandi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **modes of signifying**（行 3950，现译「意指样式（modi significandi）」）｜ FLAG ｜ 与 modi significandi 行（行 3964）同译“意指样式”撞形（复数／单数两行）；须合键或分行设计
 - **mode（奥克肖特经验范畴）**（行 3952，现译「模式」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
-- **modi significandi**（行 3955，现译「意指样式（摩迪斯泰语法）」）｜ FLAG ｜ 主译撞形：“意指样式”同时对应 modes of signifying、modus significandi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **modism**（行 3956，现译「模态主义」）｜ FLAG ｜ 主译撞形：“模态主义”同时对应 modalism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **modi significandi**（行 3955，现译「意指样式（摩迪斯泰语法）」）｜ FLAG ｜ 同 modes of signifying 行族问题（同译撞形），须合键或分行设计
+- **modism**（行 3956，现译「模态主义」）｜ FLAG ｜ 与 modalism 行（行 3932）同译“模态主义”大撞形；modism（摩迪斯泰语法派）通行作“摩迪斯泰主义”，须改译分行
+- **modist**（行 3957，现译「模态主义者」）｜ FLAG ｜ 同 modism 族问题：modist（modista）通行“摩迪斯泰学者”，现译“模态主义者”与 modalism 系混，须改译
 - **modus significandi**（行 3964，现译「意指样式」）｜ FLAG ｜ 主译撞形：“意指样式”同时对应 modes of signifying、modi significandi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **mood（syllogistic）**（行 3996，现译「式」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
-- **moral emotion**（行 4010，现译「道德情感」）｜ FLAG ｜ 主译撞形：“道德情感”同时对应 moral sentiment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **moral judgment**（行 4021，现译「道德判断」）｜ FLAG ｜ 主译撞形：“道德判断”同时对应 moral judgments；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **moral judgments**（行 4022，现译「道德判断」）｜ FLAG ｜ 主译撞形：“道德判断”同时对应 moral judgment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **moral sentiment**（行 4043，现译「道德情感」）｜ FLAG ｜ 主译撞形：“道德情感”同时对应 moral emotion；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **moral emotion**（行 4010，现译「道德情感」）｜ FLAG ｜ 与 moral sentiment 行（行 4043）同译“道德情感”撞形；须分行区分（emotion 情感／sentiment 情操）或登记撞形豁免
+- **moral judgment**（行 4021，现译「道德判断」）｜ FLAG ｜ 与 moral judgments 行（行 4022）单复数两行同译“道德判断”，须合键
+- **moral judgments**（行 4022，现译「道德判断」）｜ FLAG ｜ 同 moral judgment 行族问题（单复数两行同译），须合键
+- **moral sentiment**（行 4043，现译「道德情感」）｜ FLAG ｜ 同 moral emotion 行族问题（同译“道德情感”撞形；休谟—斯密 moral sentiment 通行“道德情感／道德情操”），须分行区分
+- **mortalist**（行 4055，现译「必死论」）｜ FLAG ｜ 族内不一：mortalism＝灵魂有死论而 mortalist＝必死论；gomez-pereira 语境 mortalist 即灵魂有死论者，须族内统一
 - **mujō**（行 4069，现译「无常（無常）」）｜ FLAG ｜ 主译撞形：“无常”同时对应 anitya、impermanence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Mūlamadhyamakakārikā**（行 4070，现译「《中论》」）｜ FLAG ｜ 主译撞形：“《中论》”同时对应 Zhonglun；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Müller-Lyer illusion**（行 4071，现译「米勒-莱尔错觉」）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：米勒-莱尔错觉 → 米勒—莱尔错觉
 - **multiplicity**（行 4086，现译「杂多」）｜ FLAG ｜ 主译撞形：“杂多”同时对应 manifold (Kantian)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **nacherleben**（行 4128，现译「再体验（nacherleben；狄尔泰）」）｜ FLAG ｜ 主译撞形：“再体验”同时对应 re-experiencing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **nafs al-ʾamr**（行 4129，现译「事情本身（字面义；技术义指事物自在之所是；与 die Sache selbst 行同形异源，勿混）」）｜ FLAG ｜ 主译撞形：“事情本身”同时对应 Sache selbst；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
