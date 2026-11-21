@@ -49,3 +49,23 @@ seq｜slug｜题名｜现节｜裁定｜新节｜依据｜凭证
 - **应用阶段反检**（详见 summary）：b1 slug 笔误 2 处已修；`skepticism` 由 KEEP 改判 MOVE（结构门禁反检出空节与错位双缺陷）。
 - **卡钉达成**：全部满足；无 HOLD，无需呈报裁定项。
 - 增量教训（已记 summary）：台账入库前须与文档序全量对账；应用器原生支持簇与幂等；结构判定交权威门禁、不重复实现。
+
+## 追加批次 b12：概念属人物者归人物簇（2026-11-22 用户新裁定）
+
+**指令**："概念属于人物的应归类到人物，有问题读取原文。"
+
+**判定方法（三路定向扫描，漏报好于误报）**：
+1. `en/<slug>/index.html` 标题英文所有格（129 条命中）；
+2. mu-lu-s 中文侧"某某的…"结构（57 条命中，交叉验证）；
+3. "Person on/in X" 模式（143 条，确认史区人物簇已完备）。
+广谱"标题含人物姓氏"（488 条）因单名误配过多、多为"X in 领域"正确形态，按漏报好于误报不采。
+
+**原文核实**：19 条候选逐条读 `en/` 首段（`results/` 凭证列记要点），全部确属对应人物学说条目。
+
+**落地（`results/adjudication-b12.tsv`，17 行／19 行移动）**：
+- `CLUS` 同节簇化（缩进 2、移入母条簇末尾）14 条：wittgenstein ×3、lewis-metaphysics、al-farabi ×4、ibn-rushd-natural、ibn-sina ×3、bolzano-logic、mally-deontic；
+- `MOVECLUS` 跨节移入簇 3 条：type-theory-church（数理逻辑→逻辑史 church 簇）、goodman-aesthetics（艺术哲学→分析语言哲学 goodman 簇）、newton-stm＋随簇 2 子条（物理科学哲学→史区近代哲学 newton 簇）。
+
+**刻意 KEEP 的例外**（人物条不在库、或为定理/悖论/问题类）：Butler、Adam Smith、Nozick、Croce、Beardsley、Shaaban Robert；Bell 定理、Skolem／Curry／Fitch 悖论、Gödel 不完备定理、Molyneux 问题、囚徒困境、Hilbert 纲领、Arrow 定理等——非人物学说条目，留学科节。`schema`／`practical-reason`／`dualism`／`personalism` 原文均为通题（已核实），b1–b11 搬出人物簇的裁定不变。
+
+**验收**：守恒 1883；check_mulu_s 六项 0 硬错；G1–G4 全绿（mulu-map 重建）；check_all 17 项全绿。

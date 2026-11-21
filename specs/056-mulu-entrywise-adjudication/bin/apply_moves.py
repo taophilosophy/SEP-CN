@@ -95,6 +95,8 @@ moves = {}
 seen = set()
 n_move_rows = 0
 for f in sorted(RES.glob("adjudication-b*.tsv")):
+    if f.name == "adjudication-b12.tsv":
+        continue  # b12 为簇化批次（CLUS/MOVECLUS），由 apply_clusters.py 处理
     with f.open(encoding="utf-8", newline="") as fh:
         for row in csv.DictReader(fh, delimiter="\t"):
             seq = int(row["seq"])

@@ -74,3 +74,30 @@
 2. **应用器要原生支持簇与幂等**：嵌套成员单列 MOVE 行时，母簇搬动即达成，重放需跳过而非报错。
 3. **结构判定不重复实现**：应用器自带的"空节预警"因区间语义（下一标题即边界）与门禁"整子树"语义不同而漂移出 42 条误报，最终交权威门禁；重复实现判定逻辑弊大于利。
 
+## 追加批次 b12：概念属人物者归人物簇（2026-11-22 用户裁定）
+
+用户指令："概念属于人物的应归类到人物，有问题读取原文。"三路定向扫描（英文所有格 129／中文"X的"57／"Person on-in" 143），19 条候选逐条读 `en/` 首段核实，17 条落地（19 行移动）：
+
+| seq | slug | 裁定 | 母条 | 依据（原文首段要点） |
+| ---- | ---- | ---- | ---- | ---- |
+| 424 | `wittgenstein-aesthetics` | CLUS | wittgenstein | 其美学讲演与笔记 |
+| 425 | `wittgenstein-atomism` | CLUS | wittgenstein | 逻辑原子主义维特根斯坦版 |
+| 426 | `wittgenstein-mathematics` | CLUS | wittgenstein | 数学哲学（1929–1944 著作过半涉数学） |
+| 429 | `lewis-metaphysics` | CLUS | david-lewis | David Lewis 形上学最集中 |
+| 717 | `al-farabi-logic` | CLUS | al-farabi | 毕生引介亚里士多德逻辑 |
+| 718 | `al-farabi-soc-rel` | CLUS | al-farabi | falsafa madaniyya |
+| 719 | `al-farabi-psych` | CLUS | al-farabi | 阿拉伯传统"第二导师" |
+| 720 | `al-farabi-metaphysics` | CLUS | al-farabi | 重建形而上学为科学之计划 |
+| 725 | `ibn-rushd-natural` | CLUS | ibn-rushd | 理论哲学中的自然研究 |
+| 727 | `ibn-sina-logic` | CLUS | ibn-sina | 阿拉伯传统最重要逻辑学家 |
+| 728 | `ibn-sina-metaphysics` | CLUS | ibn-sina | metaphysics 作为 ilm 之科学 |
+| 729 | `ibn-sina-natural` | CLUS | ibn-sina | falsafa 最重要代表 |
+| 1502 | `bolzano-logic` | CLUS | bolzano | 原文自指 "see the general entry on Bolzano" |
+| 1511 | `mally-deontic` | CLUS | mally | 1926 首个道义逻辑形式系统 |
+| 1578 | `type-theory-church` | MOVECLUS | church | Church's type theory／simple type theory |
+| 1443 | `goodman-aesthetics` | MOVECLUS | goodman | Nelson Goodman 当代美学领军 |
+| 1684 | `newton-stm`（＋2 子条随簇） | MOVECLUS | newton | 绝对空间与绝对时间之奠基 |
+
+**例外 KEEP**：人物条不在库（Butler／Adam Smith／Nozick／Croce／Beardsley／Shaaban Robert）；定理/悖论/问题类（Bell、Skolem、Curry、Fitch、Gödel、Molyneux、囚徒困境、Hilbert 纲领、Arrow 等）留学科节。另有 4 条经原文复核确认为通题、b1–b11 搬出人物簇的裁定不变：`schema`、`practical-reason`、`dualism`、`personalism`。
+
+**验收**：守恒 1883；check_mulu_s 六项 0 硬错；G1–G4 全绿；check_all 17 项全绿。
