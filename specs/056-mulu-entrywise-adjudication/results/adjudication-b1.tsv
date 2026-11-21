@@ -1,0 +1,189 @@
+seq	slug	裁定	新节	依据	凭证
+1	ri-zhi-yu-bian-ji-gui-hua	KEEP		站点导航行（前言），设计归属	导航
+2	shu-yu-biao	KEEP		站点导航行（前言），设计归属	导航
+3	ren-ming-biao	KEEP		站点导航行（前言），设计归属	导航
+4	bian-ji-xin-xi	KEEP		站点导航行（关于），设计归属	导航
+5	guan-yu-sep	KEEP		站点导航行（关于），设计归属	导航
+6	bian-wei-hui	KEEP		站点导航行（关于），设计归属	导航
+7	ru-he-yin-yong-sep	KEEP		站点导航行（关于），设计归属	导航
+8	te-shu-zi-fu	KEEP		站点导航行（关于），设计归属	导航
+9	gao-ji-gong-ju	KEEP		站点导航行（关于），设计归属	导航
+10	lian-xi-xin-xi	KEEP		站点导航行（关于），设计归属	导航
+11	plato	KEEP		人物主条目随簇（柏拉图与学园），题名自释	题名自释＋PP同域
+12	plato-cratylus	KEEP		柏拉图对话分支随簇，题名自释	题名自释
+13	plato-sophstate	KEEP		柏拉图对话分支随簇	题名自释
+14	plato-metaphysics	KEEP		柏拉图分支随簇	题名自释
+15	plato-parmenides	KEEP		柏拉图对话分支随簇	题名自释
+16	plato-theaetetus	KEEP		柏拉图分支随簇	题名自释
+17	plato-timaeus	KEEP		柏拉图对话分支随簇	题名自释
+18	plato-ethics	KEEP		柏拉图分支随簇	题名自释
+19	plato-ethics-politics	KEEP		柏拉图分支随簇	题名自释
+20	plato-ethics-shorter	KEEP		柏拉图分支随簇	题名自释
+21	plato-friendship	KEEP		柏拉图分支随簇	题名自释
+22	plato-laws	KEEP		柏拉图对话分支随簇	题名自释
+23	plato-aesthetics	KEEP		柏拉图分支随簇	题名自释
+24	plato-rhetoric	KEEP		柏拉图分支随簇	题名自释
+25	plato-myths	KEEP		柏拉图分支随簇	题名自释
+26	speusippus	KEEP		学园谱系人物随簇（柏拉图与学园）	本地摘要＋PP同域
+27	xenocrates	KEEP		学园谱系人物随簇	本地摘要＋PP同域
+28	aristotle	KEEP		人物主条目随簇（亚里士多德与逍遥学派）	题名自释＋PP同域
+29	aristotle-categories	KEEP		亚里士多德分支随簇	题名自释
+30	aristotle-logic	KEEP		亚里士多德分支随簇	题名自释
+31	aristotle-metaphysics	KEEP		亚里士多德分支随簇	题名自释
+32	aristotle-noncontradiction	KEEP		亚里士多德分支随簇	题名自释
+33	aristotle-causality	KEEP		亚里士多德分支随簇	题名自释
+34	aristotle-natphil	KEEP		亚里士多德分支随簇	题名自释
+35	aristotle-mathematics	KEEP		亚里士多德分支随簇	题名自释
+36	aristotle-biology	KEEP		亚里士多德分支随簇	题名自释
+37	aristotle-psychology	KEEP		亚里士多德分支随簇	题名自释
+38	aristotle-de-motu	KEEP		亚里士多德分支随簇	题名自释
+39	aristotle-ethics	KEEP		亚里士多德分支随簇	题名自释
+40	aristotle-politics	KEEP		亚里士多德分支随簇	题名自释
+41	aristotle-rhetoric	KEEP		亚里士多德分支随簇	题名自释
+42	aristotle-aesthetics	KEEP		亚里士多德分支随簇	题名自释
+43	aristotle-text	KEEP		亚里士多德文本传承随簇	本地摘要
+44	aristotle-commentators	KEEP		逍遥派评注传统随簇	本地摘要
+45	theophrastus	KEEP		逍遥派人物随簇	本地摘要＋PP同域
+46	socrates	KEEP		人物主条目随节（苏格拉底）	题名自释
+47	callicles-thrasymachus	KEEP		智者谱系人物随簇（智者运动）	本地摘要
+48	sophists	KEEP		学派主题条目节主题直配	本地摘要
+49	protagoras	KEEP		智者谱系人物随簇	本地摘要
+50	dialectical-school	KEEP		小苏格拉底学派主题条目节主题直配	本地摘要
+51	diodorus-cronus	KEEP		麦加拉-辩证谱系人物随簇	本地摘要
+52	cyrenaics	KEEP		小苏格拉底学派主题条目节主题直配	本地摘要
+53	doxography-ancient	MOVE	西方哲学史／古代哲学／古代哲学专题	学述为跨学派文献史学专题，非伊奥尼亚学派学说；专题节专收此类跨派条目	本地摘要（希腊罗马著作散佚与引文传承）＋PP同域
+54	heraclitus	KEEP		伊奥尼亚人物随节	本地摘要＋PP同域
+55	presocratics	MOVE	西方哲学史／古代哲学／早期希腊自然哲学	前苏格拉底通览条目跨伊奥尼亚与南意大利两派，挂早期希腊节首（通览位）而非伊奥尼亚一派	本地摘要（6–5世纪希腊思想家通览）＋PP同域
+56	alcmaeon	KEEP		南意大利人物随节	本地摘要＋PP同域
+57	archytas	KEEP		南意大利毕达哥拉斯谱系随节	本地摘要
+58	parmenides	KEEP		南意大利人物随节	本地摘要
+59	philolaus	KEEP		南意大利毕达哥拉斯谱系随节	本地摘要
+60	pythagoras	KEEP		南意大利人物随节	本地摘要
+61	pythagoreanism	KEEP		学派主题条目节主题直配	本地摘要
+62	xenophanes	KEEP		南意大利人物随节	本地摘要
+63	zeno-elea	KEEP		南意大利人物随节	本地摘要
+64	paradox-zeno	KEEP		芝诺分支词条随簇（爱利亚的芝诺）	本地摘要
+65	anaxagoras	KEEP		多元论人物随节	本地摘要
+66	atomism-ancient	KEEP		学派主题条目节主题直配	本地摘要
+67	democritus	KEEP		原子论人物随簇（古代原子论）	本地摘要
+68	leucippus	KEEP		原子论人物随簇	本地摘要
+69	empedocles	KEEP		多元论人物随节	本地摘要
+70	epicurus	KEEP		伊壁鸠鲁主义人物随节	本地摘要
+71	lucretius	KEEP		伊壁鸠鲁主义人物随节	本地摘要
+72	philodemus	KEEP		伊壁鸠鲁主义人物随节	本地摘要
+73	epictetus	KEEP		斯多亚人物随节	本地摘要
+74	marcus-aurelius	KEEP		斯多亚人物随节	本地摘要
+75	seneca	KEEP		斯多亚人物随节	本地摘要
+76	stoicism	KEEP		学派主题条目节主题直配	本地摘要
+77	arcesilaus	KEEP		学园怀疑派人物随节	本地摘要
+78	carneades	KEEP		学园怀疑派人物随节	本地摘要
+79	philo-larissa	KEEP		学园怀疑派人物随节	本地摘要
+80	pyrrho	KEEP		怀疑派人物随节	本地摘要
+81	sextus-empiricus	KEEP		怀疑派人物随节	本地摘要
+82	timon-phlius	KEEP		怀疑派人物随节	本地摘要
+83	antiochus-ascalon	MOVE	西方哲学史／古代哲学／希腊化与罗马哲学／怀疑主义与新学园	安提库斯为学园派反怀疑复兴者（老学园），属学园谱系而非新柏拉图主义（早普罗提诺三百年）	本地摘要（Academy 成员、弃怀疑立场）＋PP同域
+84	david	KEEP		亚历山大里亚评注传统随簇（新柏拉图主义节含晚期评注家）	本地摘要
+85	elias	KEEP		亚历山大里亚评注传统随簇	本地摘要
+86	iamblichus	KEEP		新柏拉图主义人物随节	本地摘要
+87	neoplatonism	KEEP		学派主题条目节主题直配	本地摘要
+88	numenius	KEEP		柏拉图主义谱系随节（中期柏拉图主义先声）	本地摘要
+89	olympiodorus	KEEP		亚历山大里亚评注传统随簇	本地摘要
+90	plotinus	KEEP		新柏拉图主义人物随节	本地摘要
+91	plutarch	KEEP		柏拉图主义谱系随节（中期柏拉图主义）	本地摘要
+92	porphyry	KEEP		新柏拉图主义人物随节	本地摘要
+93	proclus	KEEP		新柏拉图主义人物随节	本地摘要
+94	ammonius	KEEP		亚历山大里亚评注传统随簇	本地摘要
+95	simplicius	KEEP		新柏拉图主义评注家随节	本地摘要
+96	syrianus	KEEP		新柏拉图主义人物随节	本地摘要
+97	alexander-aphrodisias	KEEP		罗马帝国期逍遥派评注家随节（罗马哲学与拜占庭）	本地摘要
+98	cicero	KEEP		罗马人物随节	本地摘要
+99	galen	KEEP		罗马人物随节	本地摘要
+100	ethics-ancient	KEEP		史区专题设计归属（016 定制：断代内跨派专题留史区），PP 区域冲突系方案差异非错位	PP映射＋方案定案
+101	logic-ancient	KEEP		史区专题设计归属，PP 冲突系方案差异	PP映射＋方案定案
+102	ancient-political	KEEP		史区专题设计归属，PP 冲突系方案差异	PP映射＋方案定案
+103	skepticism-ancient	KEEP		史区专题设计归属，PP 冲突系方案差异	PP映射＋方案定案
+104	freedom-ancient	KEEP		史区专题设计归属，PP 冲突系方案差异	PP映射＋方案定案
+105	ancient-soul	KEEP		史区专题设计归属，PP 冲突系方案差异	PP映射＋方案定案
+106	episteme-techne	KEEP		史区专题设计归属，PP 冲突系方案差异	PP映射＋方案定案
+107	intentionality-ancient	KEEP		史区专题设计归属，PP 冲突系方案差异	PP映射＋方案定案
+108	origen	KEEP		教父人物随节	本地摘要
+109	augustine	KEEP		教父人物随节	本地摘要
+110	boethius	KEEP		波爱修随节	本地摘要
+111	pseudo-dionysius	KEEP		伪狄奥尼修斯随节	本地摘要
+112	scottus-eriugena	KEEP		爱留根纳随节	本地摘要
+113	anselm	KEEP		安瑟伦随节（理性神学）	本地摘要
+114	peter-damian	KEEP		反辩证法一极随节	本地摘要
+115	alberic-paris	KEEP		共相之争人物随节	本地摘要
+116	abelard	KEEP		阿伯拉尔随节	本地摘要
+117	universals-medieval	KEEP		共相之争主题随簇（阿伯拉尔与共相之争）	本地摘要
+118	william-champeaux	KEEP		共相之争人物随节	本地摘要
+119	john-salisbury	KEEP		12 世纪人物随节	本地摘要
+120	lambert-auxerre	KEEP		中世纪逻辑学家随节	本地摘要
+121	richard-sophister	KEEP		中世纪逻辑学家随节	本地摘要
+122	peter-spain	KEEP		逻辑教科书传统随节	本地摘要
+123	william-sherwood	KEEP		中世纪逻辑学家随节	本地摘要
+124	boethius-dacia	KEEP		拉丁阿维罗伊主义人物随节	本地摘要
+125	albert-great	KEEP		大阿尔伯特随节	本地摘要
+126	giles	KEEP		托马斯主义谱系随节（吉尔斯承阿奎那）	本地摘要
+127	aquinas	KEEP		托马斯·阿奎那随节	本地摘要
+128	aquinas-moral-political	KEEP		阿奎那分支随簇	本地摘要
+129	bonaventure	KEEP		波纳文图拉随节	本地摘要
+130	olivi	KEEP		方济各传统人物随节	本地摘要
+131	roger-bacon	KEEP		方济各传统人物随节	本地摘要
+132	henry-ghent	KEEP		奥古斯丁主义复兴人物随节	本地摘要
+133	william-auvergne	KEEP		奥古斯丁主义复兴人物随节	本地摘要
+134	sharpe	KEEP		经院逻辑与自然哲学随节	本地摘要
+135	paul-venice	KEEP		经院逻辑随节	本地摘要
+136	philip-chancellor	KEEP		经院人物随节	本地摘要
+137	radulphus-brito	KEEP		摩迪斯泰派随节	本地摘要
+138	llull	KEEP		经院逻辑随节	本地摘要
+139	alyngton	KEEP		牛津实在论随节	本地摘要
+140	grosseteste	KEEP		经院人物随节	本地摘要
+141	simon-faversham	KEEP		摩迪斯泰派随节	本地摘要
+142	erfurt	KEEP		思辨语法学家随节	本地摘要
+143	burley	KEEP		经院逻辑随节	本地摘要
+144	penbygull	KEEP		牛津实在论随节	本地摘要
+145	condemnation	KEEP		1277 谴责事件条目节主题直配	本地摘要
+146	godfrey	KEEP		1277 时代巴黎大师随节	本地摘要
+147	robert-kilwardby	KEEP		1277 时代人物随节	本地摘要
+148	duns-scotus	KEEP		司各脱随节	本地摘要
+149	modality-medieval	KEEP		中世纪模态专题随簇（司各脱主义，此系该论题史核心）	本地摘要
+150	medieval-haecceity	KEEP		此性理论随簇（司各脱首创此性）	本地摘要
+151	wodeham	KEEP		奥康后学随节	本地摘要
+152	francis-marchia	KEEP		奥康系人物随节	本地摘要
+153	gregory-rimini	KEEP		奥康系人物随节	本地摘要
+154	autrecourt	KEEP		唯名论人物随节	本地摘要
+155	auriol	KEEP		奥康系人物随节	本地摘要
+156	holkot	KEEP		奥康后学随节	本地摘要
+157	walter-chatton	KEEP		奥康同代论敌随节	本地摘要
+158	crathorn	KEEP		奥康后学随节	本地摘要
+159	ockham	KEEP		奥卡姆的威廉随节	本地摘要
+160	albert-saxony	KEEP		牛津计算学派人物随节	本地摘要
+161	buridan	KEEP		计算学派人物随节	本地摘要
+162	marsilius-inghen	KEEP		计算学派人物随节	本地摘要
+163	nicole-oresme	KEEP		计算学派人物随节	本地摘要
+164	kilvington	KEEP		计算学派人物随节	本地摘要
+165	heytesbury	KEEP		计算学派人物随节	本地摘要
+166	james-of-viterbo	MOVE	西方哲学史／中世纪哲学／经院哲学的兴盛／奥古斯丁主义复兴	维泰博的詹姆斯系 13 世纪末奥斯定会神学家，属奥古斯丁主义复兴谱系（与根特亨利等同代），非威克里夫前夜（14 世纪后半）	本地摘要（与 Godfrey、Henry、Giles 同列）＋PP同域
+167	wyclif	KEEP		威克里夫随节	本地摘要
+168	fitzralph	KEEP		威克里夫前夜人物随节	本地摘要
+169	dietrich-freiberg	KEEP		德意志多明我系随节	本地摘要
+170	meister-eckhart	KEEP		埃克哈特随节	本地摘要
+171	byzantine-philosophy	KEEP		拜占庭哲学主题条目节主题直配	本地摘要
+172	joane-petrizi	KEEP		拜占庭圈人物随节（格鲁吉亚柏拉图主义者）	本地摘要
+173	john-italos	KEEP		拜占庭人物随节	本地摘要
+174	philoponus	KEEP		希腊语晚期评注传统随节（拜占庭哲学节含 Alexandria 晚期）	本地摘要
+175	binarium	KEEP		中世纪专题随节（普遍形质论对）	本地摘要
+176	illumination	KEEP		中世纪专题随节	本地摘要
+177	insolubles	KEEP		中世纪专题随节	本地摘要
+178	medieval-literary	KEEP		中世纪专题随节	本地摘要
+179	marsilius-padua	KEEP		中世纪政治理论家随节（专题）	本地摘要
+180	medieval-philosophy	KEEP		中世纪通览条目随节	本地摘要
+181	medieval-political	KEEP		中世纪专题随节	本地摘要
+182	semiotics-medieval	KEEP		中世纪专题随节	本地摘要
+183	analogy-medieval	KEEP		中世纪专题随节	本地摘要
+184	causation-medieval	KEEP		中世纪专题随节	本地摘要
+185	conscience-medieval	KEEP		中世纪专题随节	本地摘要
+186	consequence-medieval	KEEP		中世纪专题随节	本地摘要
+187	demonstration-medieval	KEEP		中世纪专题随节	本地摘要
+188	medieval-futcont	KEEP		中世纪专题随节	本地摘要
