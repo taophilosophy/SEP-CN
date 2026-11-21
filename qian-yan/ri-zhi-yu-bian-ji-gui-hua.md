@@ -421,3 +421,12 @@
 * **六源检索**：PhilPapers 七类（Arabic-Islamic 挂 Asian 内）／IEP 四轴（科学哲学挂 M&E、逻辑数学与伦理同域）／REP 主题·地区·时期·宗教四轴／LCC B 类（BC 逻辑·BH 美学·BJ 伦理·BL-BP 宗教独立）／人大复印 B1–B9（逻辑·美学·宗教·科技哲学独立）／大百科「史＋分支」二分。
 * **四问裁定（全选推荐项）**：顶层维持六区（甲）；西史区名保留＋内部断代制维持；逻辑维持科学、逻辑与数学内；宗教哲学维持形上认识论内、传统区维持八区域平列；元哲学不增设（M&E Misc 13 条就近安放，PP 杂类两区本库不设）。
 * **落点**：specs/055 spec §Assumptions 定案登记；mu-lu-s.md 零改动；现行体系经六源比对后维持原判。
+
+## 2026-11-21 术语表逐行研判收官（r18–r31，全表 6,109 行判毕）
+
+* **进度**：r01–r31 三十二批简报逐批判毕、逐批 pathspec 提交推送；台账 `per-line-adjudication-2026-11-20.jsonl` 6,240 条（含漂移补录 131 键），非 KEEP 800＝FLAG 726／FIX 40／MERGE 34，KEEP 5,440。
+* **账闭合**：登记册现 7,109 行＝r 系简报 6,109 行＋开工前既有判定种子 1,000 行（`state/term-judged-seed.txt`，简报生成即以此排除）；补账核验“缺号 869 全部属种子”，非漏判。
+* **实质发现举例**：pramāṇa 现译“量论”与 pramāṇavāda 撞形且失“量”义；skeptical theism 译“怀疑论神学”（theism 系有神论非神学）；syncretism“折中主义”与 eclecticism“折衷主义”同词形撞；vyatireka 现译“同无”与自注“异品无”矛盾（疑“异无”之误）；wujūb 原文列误填 وجود；Siddhānta-muktāvalī 与 Nyāyasiddhāntamañjarī 共用《宗义摩尼鬘》；Scott 未按人名表音译；site 直译“站点”；samudghāta 自拟“灭除投射”超出源文 extermination；polarity 三义（太极／极性项／两极性）单行不能覆盖；population thinking 宜“种群思维”；non-singular term“单数”误植（应“单称”）。
+* **维持原判两例**：pakṣatā“宗未决性”经联网核证（Gangesa／Annambhaṭṭa 定义含“未确定所立”）成立；Pyrrhus et Cinéas 书名《皮瑞斯与辛尼阿斯》合中文维基既有形（Pyrrhus 通译“皮洛士”已注于行内）。
+* **MERGE 族**：同键变体与单复数／拼式重复（scepticism／skepticism、singleton set、possible worlds、poverty of stimulus、QFT／Quantum Field Theory、relevant logic、true class→proper class、units of selection、sophismata 两件、place (topos) 等）均并入主行，留变体注。
+* **待收口**：FLAG 726 键走 termonline-batch 联网核证通道裁定；FIX 40／MERGE 34 写回 `shu-yu-biao.md`（修弱势方，须凭证）并联动 m 系撞形 620／键形 84 队列。
