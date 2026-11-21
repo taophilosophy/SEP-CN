@@ -1,0 +1,229 @@
+{
+  "entries_total": 1883,
+  "conserved_ok": true,
+  "empty_headings": [
+    "西方哲学史",
+    "西方哲学史/古代哲学",
+    "西方哲学史/古代哲学/早期希腊自然哲学",
+    "西方哲学史/古代哲学/古典希腊哲学",
+    "西方哲学史/古代哲学/希腊化与罗马哲学",
+    "西方哲学史/中世纪哲学",
+    "西方哲学史/中世纪哲学/思想来源与教父哲学",
+    "西方哲学史/中世纪哲学/奥古斯丁主义与黑暗时代",
+    "西方哲学史/中世纪哲学/经院哲学的诞生",
+    "西方哲学史/中世纪哲学/亚里士多德主义的传播",
+    "西方哲学史/中世纪哲学/经院哲学的兴盛",
+    "西方哲学史/中世纪哲学/经院哲学的分裂",
+    "西方哲学史/中世纪哲学/中世纪晚期",
+    "西方哲学史/文艺复兴与宗教改革",
+    "西方哲学史/文艺复兴与宗教改革/古典哲学的复兴",
+    "西方哲学史/近代哲学",
+    "西方哲学史/近代哲学/唯理论",
+    "西方哲学史/近代哲学/经验论",
+    "西方哲学史/近代哲学/启蒙运动",
+    "西方哲学史/近代哲学/德国古典哲学",
+    "西方哲学史/现代哲学",
+    "西方哲学史/现代哲学/后黑格尔与马克思主义",
+    "西方哲学史/现代哲学/非理性主义与生存哲学",
+    "西方哲学史/现代哲学/实证主义与科学主义",
+    "西方哲学史/现代哲学/分析哲学",
+    "西方哲学史/犹太哲学",
+    "世界哲学（欧洲以外）",
+    "世界哲学（欧洲以外）/中国哲学",
+    "世界哲学（欧洲以外）/印度哲学",
+    "世界哲学（欧洲以外）/日本哲学",
+    "世界哲学（欧洲以外）/韩国哲学",
+    "世界哲学（欧洲以外）/伊斯兰哲学",
+    "世界哲学（欧洲以外）/非洲与非裔哲学",
+    "世界哲学（欧洲以外）/拉丁美洲哲学",
+    "科学哲学",
+    "科学哲学/一般科学哲学",
+    "哲学通论",
+    "哲学通论/认识论",
+    "哲学通论/语言哲学与逻辑学",
+    "哲学通论/心灵哲学",
+    "哲学通论/伦理学",
+    "哲学通论/政治哲学",
+    "哲学通论/法哲学",
+    "哲学通论/宗教哲学",
+    "哲学通论/女性主义哲学"
+  ],
+  "unmapped_after_manual": [
+    "shu-yu-biao",
+    "ren-ming-biao",
+    "bessarion",
+    "gianfrancesco-pico",
+    "cardano",
+    "shaftesbury",
+    "novalis",
+    "lukacs",
+    "ibn-gabirol",
+    "privacy-health",
+    "inquiry",
+    "bioethics-moral-reasoning"
+  ],
+  "s1_h1_counts": {
+    "价值理论": 324,
+    "关于": 7,
+    "前言": 3,
+    "哲学传统": 180,
+    "形而上学与认识论": 387,
+    "科学、逻辑与数学": 388,
+    "西方哲学史": 594
+  },
+  "s2_h1_counts": {
+    "世界哲学（欧洲以外）": 154,
+    "关于": 7,
+    "前言": 3,
+    "哲学通论": 832,
+    "科学哲学": 267,
+    "西方哲学史": 620
+  },
+  "small_nodes": [
+    [
+      "科学哲学",
+      "一般科学哲学",
+      "科学实验与测量"
+    ],
+    [
+      "哲学通论",
+      "形而上学",
+      "哲学中的神秘传统"
+    ],
+    [
+      "哲学通论",
+      "认识论",
+      "怀疑论"
+    ],
+    [
+      "哲学通论",
+      "心灵哲学",
+      "他心问题"
+    ]
+  ],
+  "misplaced_top": {
+    "哲学通论/女性主义哲学/女性主义理论": 27,
+    "科学哲学/医学哲学": 17,
+    "哲学通论/心灵哲学/心理现象与认知科学": 15,
+    "科学哲学/科学哲学史与学派": 7,
+    "哲学通论/女性主义哲学/性别与酷儿哲学": 7,
+    "哲学通论/出生与死亡哲学": 7,
+    "哲学通论/经济哲学": 6,
+    "哲学通论/语言哲学与逻辑学/逻辑史与逻辑学家": 5,
+    "哲学通论/认识论/信念与证成": 4,
+    "科学哲学/信息与计算科学哲学": 3,
+    "哲学通论/形而上学/因果关系": 3,
+    "哲学通论/伦理学/行动哲学与理由论": 3,
+    "哲学通论/宗教哲学/神学与教义": 3,
+    "哲学通论/女性主义哲学/性哲学": 3,
+    "哲学通论/文化哲学": 3,
+    "科学哲学/一般科学哲学/科学方法与推理": 2,
+    "科学哲学/一般科学哲学/科学实在论与反实在论": 2,
+    "哲学通论/政治哲学/政治理论": 2,
+    "哲学通论/宗教哲学/宗教与科学": 2,
+    "哲学通论/美学/艺术哲学": 2
+  },
+  "add_candidates": [
+    {
+      "sub": "Social and Political Philosophy",
+      "total": 108,
+      "spread": 11
+    },
+    {
+      "sub": "Metaphysics",
+      "total": 107,
+      "spread": 7
+    },
+    {
+      "sub": "Logic and Philosophy of Logic",
+      "total": 105,
+      "spread": 8
+    },
+    {
+      "sub": "Philosophy of Language",
+      "total": 85,
+      "spread": 3
+    },
+    {
+      "sub": "Normative Ethics",
+      "total": 74,
+      "spread": 4
+    },
+    {
+      "sub": "Philosophy of Mind",
+      "total": 69,
+      "spread": 4
+    },
+    {
+      "sub": "Philosophy of Religion",
+      "total": 62,
+      "spread": 6
+    },
+    {
+      "sub": "General Philosophy of Science",
+      "total": 61,
+      "spread": 17
+    },
+    {
+      "sub": "Philosophy of Biology",
+      "total": 59,
+      "spread": 4
+    },
+    {
+      "sub": "Epistemology",
+      "total": 52,
+      "spread": 8
+    },
+    {
+      "sub": "Philosophy of Physical Science",
+      "total": 44,
+      "spread": 6
+    },
+    {
+      "sub": "Aesthetics",
+      "total": 38,
+      "spread": 3
+    },
+    {
+      "sub": "Philosophy of Cognitive Science",
+      "total": 31,
+      "spread": 6
+    },
+    {
+      "sub": "Philosophy of Mathematics",
+      "total": 30,
+      "spread": 3
+    },
+    {
+      "sub": "Philosophy of Computing and Information",
+      "total": 30,
+      "spread": 4
+    },
+    {
+      "sub": "Philosophy of Social Science",
+      "total": 27,
+      "spread": 5
+    },
+    {
+      "sub": "Philosophy of Law",
+      "total": 27,
+      "spread": 3
+    },
+    {
+      "sub": "Applied Ethics",
+      "total": 24,
+      "spread": 3
+    },
+    {
+      "sub": "Philosophy, Miscellaneous",
+      "total": 16,
+      "spread": 3
+    },
+    {
+      "sub": "Philosophy of Gender, Race, and Sexuality",
+      "total": 15,
+      "spread": 3
+    }
+  ],
+  "me_misc_entries": []
+}
