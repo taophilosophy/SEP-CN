@@ -75,13 +75,42 @@ for plist in by_node.values():
         st.append(e)
 
 def en_key(text):
-    m = re.search(r"[A-Za-z]", text)
+    """英文题排序键：①跳过中文字题与全角括号注记段（如“科亨-施佩克尔定理（KS 定理）”）
+    从真正的英文题起算；②作者段＝串尾最外层尾部括号组（反向扫描最后一次 depth 由 1→0
+    的“ (”，兼容作者名内嵌括号，如 Rineke (L.C.) Verbrugge）。
+    2026-11-22 修正：旧 rfind(" (") 在作者名含内嵌括号时截断、在全角注记段内 ASCII 字母
+    处误起算（specs/055 误报归因更正，见 execution-log.md）。"""
+    s = text
+    i = 0
+    n = len(s)
+    while i < n:
+        ch = s[i]
+        if ch == "（":
+            j = s.find("）", i)
+            if j == -1:
+                break
+            i = j + 1
+        elif ord(ch) > 127 or ch in " -—–·":
+            i += 1
+        else:
+            break
+    s = s[i:]
+    m = re.search(r"[A-Za-z]", s)
     if not m:
         return text.strip()
-    s = text[m.start():]
-    i = s.rfind(" (")
-    if i > 0:
-        s = s[:i]
+    s = s[m.start():]
+    depth = 0
+    author_start = None
+    for idx in range(len(s) - 1, -1, -1):
+        c = s[idx]
+        if c == ")":
+            depth += 1
+        elif c == "(":
+            depth -= 1
+            if depth == 0 and author_start is None:
+                author_start = idx
+    if author_start is not None and author_start >= 1 and s[author_start - 1] == " ":
+        s = s[:author_start]
     s = s.replace("’", "'").replace("‘", "'")
     s = re.sub(r"\\\[|\\\]|\[|\]", "", s)
     return s.strip().lower()
