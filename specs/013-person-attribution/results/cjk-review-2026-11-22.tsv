@@ -1,0 +1,11 @@
+处置	原文	旧	新	理由
+FIX	Morrison, Robert	罗伯特·莫里森｜中国｜1782–1834	Robert Morrison（现代学者，保留英文）｜美国／科学史｜1969–	身份正列：首现 copernicus 之 Morrison, R. 2014（Isis 105: 32–57）系鲍登学院 Robert G. Morrison（b. 1969，伊斯兰天文学史），非来华传教士马礼逊（1782–1834，GND 119420953）；原行误并二人。现代学者无通行汉名保留英文（ADR-0022）；联网凭证 exa（journals.uchicago.edu doi 10.1086/675550、bowdoin.edu 官网页）
+FIX	Ichikawa Kon	市川昆｜日本｜1915–2008	市川崑｜日本｜1915–2008	用字正列：市川崑（1915–2008）官方网页用“崑”；原“市川昆”系简化误写
+FIX	Huan Tan	桓谭｜中国（汉）｜fl. 2023	桓谭｜中国（汉）｜前43–28	生卒正列：SEP 原文“Huan Tan (43 BCE–28 CE)”；原“fl. 2023”系录入缺陷
+FIX	Liu Bei	刘备｜中国｜0161–0223	刘备｜中国｜161–223	生卒去零填充（0161–0223 → 161–223，格式归一）
+FIX	Murasaki Shikibu	紫式部｜日本｜0978–1016	紫式部｜日本｜978–1016	生卒去零填充（0978–1016 → 978–1016，格式归一）
+FIX	Bodhidharma	菩提达摩｜中国｜470–543	菩提达摩｜印度（南天竺）／中国（来华僧）｜470–543	籍属正列：SEP en/buddhism-chan“an Indian monk named Bodhidharma…arrived in southeast China”，原“中国”漏源
+FIX	Paek Munbo	白文宝｜高丽｜1303–1374	白文宝｜高丽｜1303–1374	依据换源：撤回韩国维基百科凭证（ADR-0012 禁维基），改录韩国学典 encykorea E0022117 与韩国历代人物综合信息 PPL_5COc_A9999_1_0005046（白文寶 1303–1374，字和父，号淡庵，上疏斥崇佛之弊；exa 检索 2026-11-22）
+FIX	Parreut, John	约翰·帕勒特｜语料回收（marsilius-inghen 首译）｜—	约翰·帕勒特｜—｜—	列位移正列：籍属列误载“语料回收（marsilius-inghen 首译）”，改“—”；首现列补 marsilius-inghen（SEP 原文“the Nominalist John Parreut”）
+FIX	Paek Munbo	维基依据	韩国学典 E0022117／人物综合 PPL_5COc	撤维基（ADR-0012），改权威源；另删《斥佛疏》书名（AKS 只载上疏内容）
+FIX	Parreut, John	首现空	marsilius-inghen	列位移正列后补首现

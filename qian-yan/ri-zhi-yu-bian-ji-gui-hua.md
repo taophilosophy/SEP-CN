@@ -172,3 +172,11 @@
 * **确认同形异域豁免**：corroboration（波普尔）与 ascertainment（nges pa，藏传量论）同译“确认”，按条区分不合并。
 * **m 系结案**：m1000（10 键）与 m1200（5 键）逐条对账，15 键全部已在前批落定（改定 8、写回 MERGE 2、批 E 维持／正列 3、并入 1、改定 Arrow 1），结案表 `results/m-batch-close-2026-11-21.tsv`；m-collision（538 FLAG）与 m-keyform（84 FLAG）已分别由撞形三批与键形归一覆盖。
 * **终态**：登记册 7,001 数据行；撞形残余 0 组、已豁免 115 组；`check_terms` 退出 0；`check_all` 17 项全绿。
+
+## 2026-11-22 人名表 CJK 全量复核（用户指令“继续复核 summary 条目的中日韩人名，以及全量复核人名表整体”）
+
+* **SUMMARY 条目侧**：SUMMARY 里以人名为条目名的中日韩条目共 12 个（孔子、老子、庄子、荀子、朱熹、王阳明、戴震、空海、西田几多郎、和辻哲郎、日常美学之斋藤百合子，及诸“见……”别名行），条目定名逐一与人名表译法对账一致；人名表→SUMMARY 无漂移。
+* **CJK 行全量**：按籍属筛出中日韩台（含高丽）行 224 条逐行过目，并以既有凭证（韩国学典／Wikidata／GND／上游自带汉字）核底；源文回读确认 SEP 词条全文罗马化、不含汉字，汉字回译只能靠外部权威，无“原文对照”可走。
+* **实体修复 8 行**（凭证 `specs/013-person-attribution/results/cjk-review-2026-11-22.tsv`）：Morrison, Robert 身份正列——首现实为 Isis 105（2014）论文作者 Robert G. Morrison（b. 1969，鲍登学院，伊斯兰天文学史；exa 凭证 uchicago doi／Bowdoin 官网页），原行误并 1782–1834 年来华传教士马礼逊（GND 119420953），改“保留英文＋美国／科学史＋1969–”（ADR-0022）；Ichikawa Kon 市川昆→市川崑（官方网页用字）；Huan Tan 生卒 fl. 2023→前43–28（SEP 原文 43 BCE–28 CE）；Liu Bei 0161–0223→161–223；Murasaki Shikibu 0978–1016→978–1016（零填充格式归一）；Bodhidharma 籍属 中国→印度（南天竺）／中国（来华僧）（SEP“an Indian monk”）；Paek Munbo 依据换源（撤不合格引用，改韩国学典 E0022117＋人物综合库）；Parreut, John 列位移正列并补首现。
+* **机检复扫**：person_review_flags 全表 4,594 行——flagged 0（上一轮 2 项已修）、重复组 0、保留英文形 41；缺籍属／生卒 924 为既存欠账（668 缺两项／60 缺籍属／196 缺生卒）。
+* **欠账清偿开线**：`person-missing.txt` 924 键的 GND（lobid）批量取证已在后台续跑（`gnd-raw-2026-11-20.jsonl` 逐键候选＋断点，礼貌间隔 5s）；判定器 `gnd_adjudicate.py` 已备（严谓词：Person 型＋同名严格＋生卒不矛盾，同名多候选一律降存疑；古人生卒纪元码不自动填），吸取 Huan Tan 误并教训，自动接受名单仍须人工过目后才写回。
