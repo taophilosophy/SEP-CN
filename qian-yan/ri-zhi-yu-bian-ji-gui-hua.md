@@ -458,4 +458,12 @@
 * **实质判例**：anupalabdhi 依大百科“不可得比量因”定“不可得”（原“未觉”）；continuum 依大百科“连续统假设”定“连续统”；deterritorialization 依审定“解辖域化和再辖域化”；sequent 依审定定“矢列式”（Gentzen sequent→根岑矢列式、hypersequent→超矢列式）；psychometric 族按审定“辨别效度”维持；epistemic 族 18/26 行作“认知”，三处例外（认识论责备／知识证成／认识状态）统一为“认知～”，ESR 保留“认识论结构实在论”并登记族内例外。
 * **数据缺陷正列**：Needham problem 原文列中文→英文原词；wujūb 原文列 وجود→وجوب；correlative cosmology 原文列中文→英文；autexousion 原文列补同文异形 autoexousy；al-kabar 键形与出处更正（khabar，ibn-taymiyya 认识论四源，原误记 saadya）后并入既有 khabar 行；ḥikma→Ḥikmah 合键。
 * **每次改定后复算撞形**（`collision_live.py`）：批 A 引出 2 组（khabar 重复、契约论），批 B 引出 6 组，均当轮合键／再改定／补豁免收净；终态残余 0 组，已豁免 114 组，登记册 7,013→7,002 数据行，`check_terms` 退出 0，`check_all` 17 项全绿。
-* **未决 38 键**（`results/flag-open-2026-11-21.md`）分四类：译名查证 15（a fortiori argument、A New Elucidation、anyāpoha、aṣālat al-wujūd／māhiyyah、bhāvanā、das Umgreifende、significatio、naimittikī 等，需权威译本或研究文献）、用语重抓 12（expansion coefficient、Garden、general characteristic、Guelph、jing、kata、Leib、filtration、corporations、spiritualism 等，属证据列缺陷、不动译法）、回源核对 6（correct/incorrect conventional 键截断、expanded… 等）、分域登记 5。
+* **未决 38 键**（`results/flag-open-2026-11-21.md`）分四类：译名查证 15（a fortiori argument、A New Elucidation、anyāpoha、aṣālat al-wujūd／māhiyyah、bhāvanā、das Umgreifende、significatio、naimittikī 等，需权威译本或研究文献）、用语重抓 12（expansion coefficient、Garden、general characteristic、Guelph、jing、kata、Leib、filtration、corporations、spiritualism 等，属证据列缺陷、不动译法）、回源核对 6（correct／incorrect conventional 键截断疑虑、aṣālat 两行等）、分域登记 5。
+
+### 同轮续：批 D／E（用语归属回核与既有解决结案）
+
+* **批 D 回核六项用语**：expansion coefficient（qm 三见）、filtration（logic-dynamic 六见）、general characteristic（abhidharma 原文 sāmānyalakṣaṇa 共相义确证）、kata（japanese-aesthetics “a form ( kata )”确证）、jing（zhu-xi 首译成立）、Garden（epicurus “the Garden”学派别称确证）——登记册用语列本无错，FLAG 所指系 dossier 证据行误选，六项维持结案。
+* **批 D 正列两项**：Guelph 用语由 marsilius-padua 改 dante（SEP 全库无 Guelph 拼形，党派通作 Guelfs，dante 六见、humanism-civic 一见）；spiritualism 撤回“hartshorne 实抓误译”自注——原文“a scientific sort of spiritualism”确是唯灵论义，译法列去释义。
+* **批 E**：既有解决的主行结案 17（binarium／ideal element／Kabbalah／moral judgment／normal function／place (Aristotelian topos)／Ḥikmah／qiyāsāt 按域分义／operational semantics 分行／geomancy 族／Sortals／content internalism／exceptive word／nirvikalpaka 族／corporations 分域／intension and remission 孤行）；改定 2（rubūbiyya 主性单列；correct／incorrect conventional 补藏语原文列，回读原文证键未截断）。
+* **终态**：151 键落定 140，未决 11（a fortiori argument、A New Elucidation、anarchic hand、anyāpoha、aṣālat al-wujūd、aṣālat al-māhiyyah、bhāvanā、das Umgreifende、Leib、naimittikī、significatio），缺口一律为“需权威译本／研究文献”，而本会话检索通道不可用（exa／research MCP 连接失败，必应直连把多词中文查询退化为单字词条，仅能作单点验证），故按 rules/03 不猜、如实留白。
+* **门禁**：`check_terms` 退出 0、撞形残余 0 组；`check_all` 17 项中 16 绿，唯一红项“转换保真”系 `yuanwen/b/bodin.md` 于 22:20 被并行会话改动（工作区 M，非本线文件），按并行纪律不修不提交。
