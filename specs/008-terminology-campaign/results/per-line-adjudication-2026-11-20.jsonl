@@ -5929,22 +5929,206 @@
 {"key": "vajra", "line": 6916, "v": "KEEP", "zh": "金刚（杵）", "orig": "金剛杵", "note": null, "sheet": "r29"}
 {"key": "Vajrasattva / Kongō-satta", "line": 6917, "v": "KEEP", "zh": "金刚萨埵", "orig": "金剛薩埵", "note": null, "sheet": "r29"}
 {"key": "vākya", "line": 6918, "v": "KEEP", "zh": "句", "orig": "वाक्य", "note": null, "sheet": "r29"}
-{"key": "Validation", "line": 6921, "v": "FLAG", "zh": "确证", "orig": "—", "note": "主译撞形：“确证”同时对应 corroboration；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "vega", "line": 6945, "v": "FLAG", "zh": "冲力", "orig": "वेग", "note": "主译撞形：“冲力”同时对应 impetus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "verbal object（sgra don，śabdārtha）", "line": 6954, "v": "FLAG", "zh": "声义", "orig": "शब्दार्थ", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "Vergeschichtlichung", "line": 6955, "v": "FLAG", "zh": "历史化", "orig": "Vergeschichtlichung", "note": "主译撞形：“历史化”同时对应 historicization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "virtue", "line": 6989, "v": "FLAG", "zh": "德性（古希腊伦理学传统；亦作“美德”）", "orig": "—", "note": "主译撞形：“德性”同时对应 aretê；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "viśeṣaṇa", "line": 7004, "v": "FLAG", "zh": "能别（限定）", "orig": "विशेषण", "note": "主译撞形：“能别”同时对应 prakāra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "viśeṣa（胜论句义）", "line": 7006, "v": "FLAG", "zh": "异（特殊／基本别异）", "orig": "विशेष", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "void", "line": 7022, "v": "FLAG", "zh": "虚空", "orig": "—", "note": "主译撞形：“虚空”同时对应 ākāśa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Vorstellung", "line": 7036, "v": "FLAG", "zh": "表象（康德/叔本华）", "orig": "Vorstellung", "note": "主译撞形：“表象”同时对应 phantasia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "wājib al-wujūd", "line": 7063, "v": "FLAG", "zh": "必然存在者", "orig": "واجب الوجود", "note": "主译撞形：“必然存在者”同时对应 necessary being；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "warrant", "line": 7069, "v": "FLAG", "zh": "保证（普兰丁格认识论语境；勿译“担保”）", "orig": "—", "note": "主译撞形：“保证”同时对应 assurance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "weakness of will", "line": 7081, "v": "FLAG", "zh": "意志薄弱", "orig": "—", "note": "主译撞形：“意志薄弱”同时对应 akrasia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Weltanschauung", "line": 7097, "v": "FLAG", "zh": "世界观", "orig": "Weltanschauung", "note": "主译撞形：“世界观”同时对应 world-view；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "what expresses / what is expressed（rjod byed / brjod bya）", "line": 7102, "v": "FLAG", "zh": "能诠／所诠", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "Wisdom", "line": 7116, "v": "FLAG", "zh": "智慧", "orig": "—", "note": "主译撞形：“智慧”同时对应 Ḥikmah；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Wohlwollen", "line": 7123, "v": "FLAG", "zh": "仁爱", "orig": "—", "note": "主译撞形：“仁爱”同时对应 benevolence、caritas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "valence", "line": 6919, "v": "KEEP", "zh": "效价", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "valid consent", "line": 6920, "v": "KEEP", "zh": "有效同意", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Validation", "line": 6921, "v": "FLAG", "zh": "确证", "orig": "—", "note": "主译撞形：“确证”同时对应 corroboration；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
+{"key": "validity", "line": 6922, "v": "KEEP", "zh": "有效性", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "valuation", "line": 6923, "v": "KEEP", "zh": "赋值", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "valuation function", "line": 6924, "v": "KEEP", "zh": "估值函数", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "value", "line": 6925, "v": "KEEP", "zh": "价值", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "value function", "line": 6926, "v": "KEEP", "zh": "价值函数", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "value judgment", "line": 6927, "v": "KEEP", "zh": "价值判断", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "value of statistical life", "line": 6928, "v": "KEEP", "zh": "统计生命价值", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "value theory", "line": 6929, "v": "KEEP", "zh": "价值论", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "value-like imagining", "line": 6930, "v": "KEEP", "zh": "价值式想象", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "values of democratization", "line": 6931, "v": "KEEP", "zh": "民主化的价值", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "variable element", "line": 6932, "v": "KEEP", "zh": "变元元素", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "variable set", "line": 6933, "v": "KEEP", "zh": "变元集", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "variable sharing principle", "line": 6934, "v": "KEEP", "zh": "变量共享原则", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "variable value principle", "line": 6935, "v": "KEEP", "zh": "可变价值原则", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "variance", "line": 6936, "v": "KEEP", "zh": "方差", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "variation", "line": 6937, "v": "KEEP", "zh": "变异", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "variation (lunar)", "line": 6938, "v": "KEEP", "zh": "二均差", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "varietas / falsitas", "line": 6939, "v": "KEEP", "zh": "多样性／虚假性", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vāsanā", "line": 6940, "v": "KEEP", "zh": "习气（熏习）", "orig": "वासना", "note": null, "sheet": "r30"}
+{"key": "Vatican Sayings", "line": 6941, "v": "KEEP", "zh": "《梵蒂冈格言》", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vector", "line": 6942, "v": "KEEP", "zh": "矢量", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vector space", "line": 6943, "v": "KEEP", "zh": "矢量空间", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Veda", "line": 6944, "v": "KEEP", "zh": "《吠陀》", "orig": "वेद", "note": null, "sheet": "r30"}
+{"key": "vega", "line": 6945, "v": "FLAG", "zh": "冲力", "orig": "वेग", "note": "主译撞形：“冲力”同时对应 impetus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
+{"key": "Vegetarianism", "line": 6946, "v": "KEEP", "zh": "素食主义", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "veil of ignorance", "line": 6947, "v": "KEEP", "zh": "无知之幕", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Veiled Man argument", "line": 6948, "v": "KEEP", "zh": "蒙面人论证", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "velle / nolle / non-velle", "line": 6949, "v": "KEEP", "zh": "意愿/不意愿/不愿", "orig": "velle / nolle / non-velle", "note": null, "sheet": "r30"}
+{"key": "velocity", "line": 6950, "v": "KEEP", "zh": "速度", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Venerabilis Inceptor", "line": 6951, "v": "KEEP", "zh": "可敬的开创者（奥卡姆别号）", "orig": "Venerabilis Inceptor", "note": null, "sheet": "r30"}
+{"key": "Venerable Inceptor", "line": 6952, "v": "MERGE", "zh": "可敬的开端者", "orig": "Venerable Inceptor", "note": "与 Venerabilis Inceptor 行（行 6951）同指奥卡姆别号（拉丁／英译两形），却分译“可敬的开创者／可敬的开端者”；合并为一行并统一主译（建议“可敬的开创者”，英译形注于行内）", "sheet": "r30"}
+{"key": "venesection", "line": 6953, "v": "KEEP", "zh": "静脉切开放血", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "verbal object（sgra don，śabdārtha）", "line": 6954, "v": "FLAG", "zh": "声义", "orig": "शब्दार्थ", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r30"}
+{"key": "Vergeschichtlichung", "line": 6955, "v": "FLAG", "zh": "历史化", "orig": "Vergeschichtlichung", "note": "主译撞形：“历史化”同时对应 historicization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
+{"key": "verification", "line": 6956, "v": "KEEP", "zh": "证实", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "verificationism", "line": 6957, "v": "KEEP", "zh": "证实主义（亦作“可证实主义”）", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "verisimilitude", "line": 6958, "v": "KEEP", "zh": "逼真性", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Verräumlichung", "line": 6959, "v": "KEEP", "zh": "空间化", "orig": "Verräumlichung", "note": null, "sheet": "r30"}
+{"key": "Verstehen", "line": 6960, "v": "KEEP", "zh": "理解", "orig": "Verstehen", "note": null, "sheet": "r30"}
+{"key": "Verstehende Psychologie", "line": 6961, "v": "KEEP", "zh": "理解心理学", "orig": "Verstehende Psychologie", "note": null, "sheet": "r30"}
+{"key": "Versuch theory", "line": 6962, "v": "KEEP", "zh": "《尝试》理论（洛伦兹 1895 论文 Versuch 简称）", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vertical transmission", "line": 6963, "v": "KEEP", "zh": "垂直传递", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "very repugnant conclusion", "line": 6964, "v": "KEEP", "zh": "极令人反感的结论", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vestibular system", "line": 6965, "v": "KEEP", "zh": "前庭系统", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "via affirmativa", "line": 6966, "v": "KEEP", "zh": "肯定之路", "orig": "via affirmativa", "note": null, "sheet": "r30"}
+{"key": "via Gregorii", "line": 6967, "v": "KEEP", "zh": "格里高利之道", "orig": "via Gregorii", "note": null, "sheet": "r30"}
+{"key": "via moderna", "line": 6968, "v": "KEEP", "zh": "现代路线（亦作“近代之路”）", "orig": "via moderna", "note": null, "sheet": "r30"}
+{"key": "vibhu", "line": 6969, "v": "KEEP", "zh": "遍在", "orig": "विभु", "note": null, "sheet": "r30"}
+{"key": "vicarious harm", "line": 6970, "v": "KEEP", "zh": "替代性伤害", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Vienna Circle", "line": 6971, "v": "KEEP", "zh": "维也纳学派", "orig": "Wiener Kreis", "note": null, "sheet": "r30"}
+{"key": "vijñāna", "line": 6972, "v": "KEEP", "zh": "识（佛教）", "orig": "विज्ञान", "note": null, "sheet": "r30"}
+{"key": "vijñānavāda", "line": 6973, "v": "KEEP", "zh": "唯识论", "orig": "विज्ञानवाद", "note": null, "sheet": "r30"}
+{"key": "vijñapti", "line": 6974, "v": "KEEP", "zh": "了别", "orig": "विज्ञप्ति", "note": null, "sheet": "r30"}
+{"key": "vijñaptimātra", "line": 6975, "v": "KEEP", "zh": "唯识", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vikalpa", "line": 6976, "v": "KEEP", "zh": "分别（虚妄分别）", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Viṃśikā", "line": 6977, "v": "KEEP", "zh": "《唯识二十论》", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vinaya", "line": 6978, "v": "KEEP", "zh": "毗奈耶", "orig": "विनय", "note": null, "sheet": "r30"}
+{"key": "violation", "line": 6979, "v": "KEEP", "zh": "违反", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "violence", "line": 6980, "v": "KEEP", "zh": "暴力", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "violinist case", "line": 6981, "v": "KEEP", "zh": "小提琴家案例", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vipāka", "line": 6982, "v": "KEEP", "zh": "异熟", "orig": "विपाक", "note": null, "sheet": "r30"}
+{"key": "vipakṣa", "line": 6983, "v": "KEEP", "zh": "异品", "orig": "विपक्ष", "note": null, "sheet": "r30"}
+{"key": "viparyaya", "line": 6984, "v": "KEEP", "zh": "假（颠倒）", "orig": "विपर्यय", "note": null, "sheet": "r30"}
+{"key": "Vipassana", "line": 6985, "v": "KEEP", "zh": "内观（保留拉丁 vipassanā）", "orig": "विपस्सना", "note": null, "sheet": "r30"}
+{"key": "virile selection", "line": 6986, "v": "KEEP", "zh": "男性选择", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "virtual reality", "line": 6987, "v": "KEEP", "zh": "虚拟现实", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "virtuality", "line": 6988, "v": "KEEP", "zh": "虚拟性", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "virtue", "line": 6989, "v": "FLAG", "zh": "德性（古希腊伦理学传统；亦作“美德”）", "orig": "—", "note": "主译撞形：“德性”同时对应 aretê；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
+{"key": "virtue epistemology", "line": 6990, "v": "KEEP", "zh": "德性知识论", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "virtue ethics", "line": 6991, "v": "KEEP", "zh": "德性伦理学（亦作“美德论”）", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "virtue of fairness", "line": 6992, "v": "KEEP", "zh": "公平之德", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "virtue of justice", "line": 6993, "v": "KEEP", "zh": "正义之德", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "virtue theory", "line": 6994, "v": "KEEP", "zh": "德性论（亦作“美德论”）", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "virtue-prior", "line": 6995, "v": "KEEP", "zh": "德性优先", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "virtuous city", "line": 6996, "v": "KEEP", "zh": "完善城", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "virtuous person", "line": 6997, "v": "KEEP", "zh": "有德之人（德性伦理学；亦作“有德者”“德性之人”）", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vis aestimativa", "line": 6998, "v": "KEEP", "zh": "估量力（亦作“评判力”）", "orig": "vis aestimativa", "note": null, "sheet": "r30"}
+{"key": "vis copulativa", "line": 6999, "v": "KEEP", "zh": "连接力", "orig": "vis copulativa", "note": null, "sheet": "r30"}
+{"key": "vis inertiae", "line": 7000, "v": "KEEP", "zh": "惰性力", "orig": "vis inertiae", "note": null, "sheet": "r30"}
+{"key": "vis viva", "line": 7001, "v": "KEEP", "zh": "活力（vis viva）", "orig": "vis viva", "note": null, "sheet": "r30"}
+{"key": "viscosity", "line": 7002, "v": "KEEP", "zh": "黏滞性", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "viśeṣābhāva", "line": 7003, "v": "KEEP", "zh": "特定非存在", "orig": "विशेषाभाव", "note": null, "sheet": "r30"}
+{"key": "viśeṣaṇa", "line": 7004, "v": "FLAG", "zh": "能别（限定）", "orig": "विशेषण", "note": "主译撞形：“能别”同时对应 prakāra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
+{"key": "viśeṣaṇa-viśeṣya-bhāva", "line": 7005, "v": "KEEP", "zh": "能别—所别关系", "orig": "विशेषणविशेष्यभाव", "note": null, "sheet": "r30"}
+{"key": "viśeṣa（胜论句义）", "line": 7006, "v": "FLAG", "zh": "异（特殊／基本别异）", "orig": "विशेष", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r30"}
+{"key": "viśeṣya", "line": 7007, "v": "KEEP", "zh": "所别（所限定）", "orig": "विशेष्य", "note": null, "sheet": "r30"}
+{"key": "Vision in God", "line": 7008, "v": "KEEP", "zh": "在上帝中看见", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vision-for-action", "line": 7009, "v": "KEEP", "zh": "行动视觉", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vision-for-recognition", "line": 7010, "v": "KEEP", "zh": "识别视觉", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "viśiṣṭābhāva", "line": 7011, "v": "KEEP", "zh": "有定限的非存在（别有所无）", "orig": "विशिष्टाभाव", "note": null, "sheet": "r30"}
+{"key": "visual landscape quality assessment", "line": 7012, "v": "KEEP", "zh": "视觉景观质量评估（VLQA）", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "visual perception", "line": 7013, "v": "KEEP", "zh": "视知觉（审定；亦作“视觉感知”“视觉知觉”）", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "visual prosthesis", "line": 7014, "v": "KEEP", "zh": "视觉假体", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "visual thinking in mathematics", "line": 7015, "v": "KEEP", "zh": "数学中的视觉思维", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vital import", "line": 7016, "v": "KEEP", "zh": "生命意蕴", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vital movement", "line": 7017, "v": "KEEP", "zh": "生命运动", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vital reason", "line": 7018, "v": "KEEP", "zh": "生命理性", "orig": "razón vital", "note": null, "sheet": "r30"}
+{"key": "vital spirit", "line": 7019, "v": "FLAG", "zh": "生命精气", "orig": "—", "note": "与 spiritus naturalis / vitalis / animalis 行（行 6124，活力精气）族内不一：同一 vitalis 精气本行作“生命精气”；盖伦三精气通译既定“活力精气”，须统一（或说明分域）", "sheet": "r30"}
+{"key": "vitalism", "line": 7020, "v": "KEEP", "zh": "活力论", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vitaṇḍā", "line": 7021, "v": "KEEP", "zh": "只破不立之辩", "orig": "वितण्डा", "note": null, "sheet": "r30"}
+{"key": "void", "line": 7022, "v": "FLAG", "zh": "虚空", "orig": "—", "note": "主译撞形：“虚空”同时对应 ākāśa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
+{"key": "void space", "line": 7023, "v": "KEEP", "zh": "虚空空间", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "volatilization", "line": 7024, "v": "KEEP", "zh": "挥发", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "volitional choice", "line": 7025, "v": "KEEP", "zh": "意愿选择", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Volksgeist", "line": 7026, "v": "KEEP", "zh": "民族精神", "orig": "Volksgeist", "note": null, "sheet": "r30"}
+{"key": "Volksseele", "line": 7027, "v": "KEEP", "zh": "民族灵魂", "orig": "Volksseele", "note": null, "sheet": "r30"}
+{"key": "Vollkommenheit", "line": 7028, "v": "KEEP", "zh": "完善自身", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "voltage clamp", "line": 7029, "v": "KEEP", "zh": "电压钳", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "voluntariness", "line": 7030, "v": "KEEP", "zh": "自愿性", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "voluntarism", "line": 7031, "v": "KEEP", "zh": "意志主义", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "voluntarist", "line": 7032, "v": "KEEP", "zh": "意志论者", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "voluntary euthanasia", "line": 7033, "v": "KEEP", "zh": "自愿安乐死", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "von Neumann entropy", "line": 7034, "v": "KEEP", "zh": "冯·诺依曼熵", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Vor-Schein", "line": 7035, "v": "KEEP", "zh": "前现（先行照亮）", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Vorstellung", "line": 7036, "v": "FLAG", "zh": "表象（康德/叔本华）", "orig": "Vorstellung", "note": "主译撞形：“表象”同时对应 phantasia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
+{"key": "vortex", "line": 7037, "v": "KEEP", "zh": "涡旋", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Voting", "line": 7038, "v": "KEEP", "zh": "投票", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "voting semantics", "line": 7039, "v": "KEEP", "zh": "投票语义", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vox populi", "line": 7040, "v": "KEEP", "zh": "人民之声（拉丁原词保留斜体）", "orig": "vox populi", "note": null, "sheet": "r30"}
+{"key": "voyeurism", "line": 7041, "v": "KEEP", "zh": "窥视", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Vulgate", "line": 7042, "v": "KEEP", "zh": "武加大译本", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vulnerability", "line": 7043, "v": "KEEP", "zh": "脆弱性", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vyāpaka", "line": 7044, "v": "KEEP", "zh": "能遍充", "orig": "व्यापक", "note": null, "sheet": "r30"}
+{"key": "vyāpāra", "line": 7045, "v": "KEEP", "zh": "作用条件", "orig": "व्यापार", "note": null, "sheet": "r30"}
+{"key": "vyāpti", "line": 7046, "v": "KEEP", "zh": "遍充", "orig": "व्याप्ति", "note": null, "sheet": "r30"}
+{"key": "vyāpti-pañcaka", "line": 7047, "v": "KEEP", "zh": "遍充五定义", "orig": "व्याप्तिपञ्चक", "note": null, "sheet": "r30"}
+{"key": "vyāpya", "line": 7048, "v": "KEEP", "zh": "所遍充", "orig": "व्याप्य", "note": null, "sheet": "r30"}
+{"key": "vyāsajya-vṛtti-dharma", "line": 7049, "v": "KEEP", "zh": "共转属性", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "vyatireka", "line": 7050, "v": "FLAG", "zh": "同无", "orig": "व्यतिरेक", "note": "译法与自注矛盾：现译“同无”，而登记依据写“因明‘异品无’通行（agreement in absence）”，且 anvaya 行为“同有（同品有）”；疑“同无”系“异无”之误，须改“异无（异品无）”与 anvaya 同有 对举", "sheet": "r30"}
+{"key": "wabi", "line": 7056, "v": "KEEP", "zh": "侘（侘び）", "orig": "侘", "note": null, "sheet": "r30"}
+{"key": "wabi-sabi", "line": 7057, "v": "KEEP", "zh": "侘寂", "orig": "侘寂", "note": null, "sheet": "r30"}
+{"key": "wabicha", "line": 7058, "v": "KEEP", "zh": "侘茶", "orig": "侘茶", "note": null, "sheet": "r30"}
+{"key": "waḥdat al-shuhūd", "line": 7059, "v": "KEEP", "zh": "见证单一论", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "waḥdat al-wujūd", "line": 7060, "v": "KEEP", "zh": "存在单一论（亦作“存在统一论”）", "orig": "وحدة الوجود", "note": null, "sheet": "r30"}
+{"key": "wahm", "line": 7061, "v": "KEEP", "zh": "估量（阿维森纳内感官 estimative faculty；与 vis aestimativa 估量力行相区分）", "orig": "وهم", "note": null, "sheet": "r30"}
+{"key": "wahmī / mawhūm", "line": 7062, "v": "KEEP", "zh": "估量性的／被想象物（estimative/imagined；估量性科学）", "orig": "وهمي／موهوم", "note": null, "sheet": "r30"}
+{"key": "wājib al-wujūd", "line": 7063, "v": "FLAG", "zh": "必然存在者", "orig": "واجب الوجود", "note": "主译撞形：“必然存在者”同时对应 necessary being；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
+{"key": "Walden", "line": 7064, "v": "KEEP", "zh": "《瓦尔登湖》", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "War", "line": 7065, "v": "KEEP", "zh": "战争", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "war of manoeuvre", "line": 7066, "v": "KEEP", "zh": "运动战", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "war of position", "line": 7067, "v": "KEEP", "zh": "阵地战", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Warden of the Mint", "line": 7068, "v": "KEEP", "zh": "造币局督办", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "warrant", "line": 7069, "v": "FLAG", "zh": "保证（普兰丁格认识论语境；勿译“担保”）", "orig": "—", "note": "主译撞形：“保证”同时对应 assurance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
+{"key": "wave function", "line": 7070, "v": "KEEP", "zh": "波函数", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "weak continuity axiom", "line": 7071, "v": "KEEP", "zh": "弱连续性公理", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "weak counterexample", "line": 7072, "v": "KEEP", "zh": "弱反例", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "weak extensional selection principle", "line": 7073, "v": "KEEP", "zh": "弱外延选择原理", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "weak foundationalism", "line": 7074, "v": "KEEP", "zh": "弱基础主义", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "weak stratification", "line": 7075, "v": "KEEP", "zh": "弱分层", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "weakening", "line": 7076, "v": "KEEP", "zh": "弱化", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "weakest precondition", "line": 7077, "v": "KEEP", "zh": "最弱前置条件", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "weakly actualize", "line": 7078, "v": "KEEP", "zh": "弱现实化", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "weakly compact cardinal", "line": 7079, "v": "KEEP", "zh": "弱紧致基数", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "weakly inaccessible cardinal", "line": 7080, "v": "KEEP", "zh": "弱不可达基数", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "weakness of will", "line": 7081, "v": "FLAG", "zh": "意志薄弱", "orig": "—", "note": "主译撞形：“意志薄弱”同时对应 akrasia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
+{"key": "web of belief", "line": 7082, "v": "KEEP", "zh": "信念之网", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Wechselerweis", "line": 7083, "v": "KEEP", "zh": "交替证明（亦作“交互证明”）", "orig": "Wechselerweis", "note": null, "sheet": "r30"}
+{"key": "weighing relation", "line": 7084, "v": "KEEP", "zh": "权衡关系", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "weight of evidence", "line": 7085, "v": "KEEP", "zh": "证据权重", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "WEIRD", "line": 7086, "v": "KEEP", "zh": "WEIRD 样本", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "welfare economics", "line": 7087, "v": "KEEP", "zh": "福利经济学", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "welfare rights", "line": 7088, "v": "KEEP", "zh": "福利权利", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "welfare state game", "line": 7089, "v": "KEEP", "zh": "福利国家博弈", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "welfarism", "line": 7090, "v": "KEEP", "zh": "福利主义", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "welfarist", "line": 7091, "v": "KEEP", "zh": "福利主义的", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "well-being", "line": 7092, "v": "KEEP", "zh": "福祉", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "well-formed", "line": 7093, "v": "KEEP", "zh": "合式的", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "well-founded", "line": 7094, "v": "KEEP", "zh": "良基", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "well-ordering theorem", "line": 7095, "v": "KEEP", "zh": "良序定理", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "wellformed formula", "line": 7096, "v": "KEEP", "zh": "合式公式", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Weltanschauung", "line": 7097, "v": "FLAG", "zh": "世界观", "orig": "Weltanschauung", "note": "主译撞形：“世界观”同时对应 world-view；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
+{"key": "Weltfreiheit", "line": 7098, "v": "KEEP", "zh": "脱离世界", "orig": "Weltfreiheit", "note": null, "sheet": "r30"}
+{"key": "Weltorientierung", "line": 7099, "v": "KEEP", "zh": "世界定向", "orig": "Weltorientierung", "note": null, "sheet": "r30"}
+{"key": "wen nan", "line": 7100, "v": "KEEP", "zh": "问难", "orig": "問難", "note": null, "sheet": "r30"}
+{"key": "Werden", "line": 7101, "v": "KEEP", "zh": "生成（Werden）", "orig": "Werden", "note": null, "sheet": "r30"}
+{"key": "what expresses / what is expressed（rjod byed / brjod bya）", "line": 7102, "v": "FLAG", "zh": "能诠／所诠", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r30"}
+{"key": "what it is like", "line": 7103, "v": "KEEP", "zh": "是什么样子", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Whig history", "line": 7104, "v": "KEEP", "zh": "辉格史", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "whiggish", "line": 7105, "v": "KEEP", "zh": "辉格式的（史学术语，指以今度旧的进步史观）", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "whiteness", "line": 7106, "v": "KEEP", "zh": "白人性", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "whole of ends", "line": 7107, "v": "KEEP", "zh": "目的整体", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "wholly present", "line": 7108, "v": "KEEP", "zh": "整个地临在", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "wide reflective equilibrium", "line": 7109, "v": "KEEP", "zh": "广义反思平衡", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Wigner’s friend", "line": 7110, "v": "KEEP", "zh": "维格纳朋友", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "wilāyah", "line": 7111, "v": "KEEP", "zh": "精神监护（圣品）", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Wild Fruits", "line": 7112, "v": "KEEP", "zh": "《野果》", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "wilderness", "line": 7113, "v": "KEEP", "zh": "荒野", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "willingness to pay", "line": 7114, "v": "KEEP", "zh": "支付意愿", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "winning strategy", "line": 7115, "v": "KEEP", "zh": "制胜策略（亦作“赢取策略”）", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Wisdom", "line": 7116, "v": "FLAG", "zh": "智慧", "orig": "—", "note": "主译撞形：“智慧”同时对应 Ḥikmah；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
+{"key": "wisdom of crowds", "line": 7117, "v": "KEEP", "zh": "群体的智慧", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Wissenschaftslehre", "line": 7118, "v": "KEEP", "zh": "知识学", "orig": "Wissenschaftslehre", "note": null, "sheet": "r30"}
+{"key": "Wistar Institute", "line": 7119, "v": "KEEP", "zh": "威斯塔研究所", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "wit", "line": 7120, "v": "KEEP", "zh": "机智", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "witchcraft", "line": 7121, "v": "KEEP", "zh": "巫术", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Wittgensteinian Fideism", "line": 7122, "v": "KEEP", "zh": "维特根斯坦式信仰主义", "orig": "—", "note": null, "sheet": "r30"}
+{"key": "Wohlwollen", "line": 7123, "v": "FLAG", "zh": "仁爱", "orig": "—", "note": "主译撞形：“仁爱”同时对应 benevolence、caritas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
 {"key": "world-view", "line": 7149, "v": "FLAG", "zh": "世界观", "orig": "Weltanschauung", "note": "主译撞形：“世界观”同时对应 Weltanschauung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "wu xing", "line": 7152, "v": "FLAG", "zh": "五行", "orig": "—", "note": "主译撞形：“五行”同时对应 wuxing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "wuxing", "line": 7157, "v": "FLAG", "zh": "五行（five phases 五行；不取“五元素”）", "orig": "五行", "note": "主译撞形：“五行”同时对应 wu xing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
