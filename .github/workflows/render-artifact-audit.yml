@@ -1,4 +1,4 @@
-name: 🔍 渲染产物残留审计（矩阵：四片）
+name: 渲染产物残留审计（矩阵：四片）
 
 # 最小权限（CodeQL actions/missing-workflow-permissions）：只读检出＋构建＋上传运行工件
 permissions:

@@ -1,4 +1,4 @@
-name: 📄 导出本项目中文 PDF/EPUB
+name: 导出本项目中文 PDF/EPUB
 
 # 最小权限（CodeQL actions/missing-workflow-permissions）：只检出（含外部工具仓）与上传运行工件
 permissions:

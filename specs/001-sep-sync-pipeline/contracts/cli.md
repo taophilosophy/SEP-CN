@@ -75,7 +75,10 @@
 ```text
 用法: python tools/task_ops.py <命令> <slug> [参数]
 命令: show <slug>                          查任务状态
-      create <slug> --kind retranslate|update [--zh-doc <路径>] [--from <change 文件>]
+      create <slug> --kind retranslate [--zh-doc <路径>] [--from <change 文件>]
+                                            # kind 仅 retranslate：update 死序列已删（ADR-0068 W5），
+                                            # 上游修订件用 --from 引变更清单建账（done 件走 reopen --clear、
+                                            # 在途件走 reopen --upstream-sync，ADR-0050/0051）
       advance <slug> --step s0|draft|s1|s2|s24|s25|s3|r1|r2|r3|done --actor <名> --evidence <引用> [--unblock]
                                             # r3 须加 --mandate <用户指定记录>（终审会话用户指定，ADR-0054；
                                             # 缺失即拒，未指定时条目停 r2_reviewed、不进行 R3）
@@ -92,7 +95,8 @@
                                             # 无 flag 维持仅 done；pending/cleared/done 不适用）
 输出: 操作后的任务 JSON 全文
 行为: 任务文件 tasks/<首字母>/<slug>.json；状态迁移合法性由本工具校验，
-      禁止跳步（update 类 s0/s1/s2/s24/s25 证据必须以 changes: 开头引用变更清单；
+      禁止跳步（上游修订件（--from 建账）的 s0/s1/s2/s24/s25 证据约定以
+      changes: 开头引用变更清单；
       s0 挂 en_integrity＋en_source_audit（ADR-0052）、s24 挂 check_terms --docs、
       s25 挂 check_math_zh 默认档，ADR-0040/0043；进 s3 前历史须有 s0 记录；
       r3 须 --mandate 用户指定终审会话（ADR-0054，缺失即拒，step 留 mandate 字段））；

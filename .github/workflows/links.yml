@@ -1,4 +1,4 @@
-name: 🔗 链接检查（lychee）
+name: 链接检查（lychee）
 
 # 最小权限（CodeQL actions/missing-workflow-permissions）：检出后跑链接检查，报告以 issue 反馈
 permissions:

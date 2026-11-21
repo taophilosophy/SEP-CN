@@ -1,4 +1,4 @@
-name: 🧹 Markdown 格式（矩阵：检查 / 自动修复开 PR）
+name: Markdown 格式（矩阵：检查 / 自动修复开 PR）
 
 # 最小权限（CodeQL actions/missing-workflow-permissions）：格式化作业需写分支开 PR，
 # PR 只读检查作业在 job 级收窄为 contents: read。

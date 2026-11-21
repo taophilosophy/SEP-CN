@@ -337,3 +337,12 @@
 * **同批回退记录**：嵌套星对三轮判据（歧义预模拟／括号收紧／贪心残留）B3.1 净退化 3→7 件均大于收益（+1），全部回退。根因：C 对嵌套 em 转不出外层星（外层整个丢失），H0 字面星残留与真嵌套在 md 扁平形态上不可区分——专项开放。
 * **实测**：池 **1,274（68.0%）／缺口 599／stale 0**（第四批 1,272／601）；池占页 **31.79%**；chrome 1,873/1,873 不变；B3.1 **1,452/1,873 持平、集合级 0 退化**；africana 转池（269 补丁）。
 * **教训**：①分诊先行——172/172 全 r_pair 直接推翻“H0 字面星为主”的猜测，主力从不可解问题转到可修问题；②普查锚坐标系必须与判定坐标系一致（首轮 118/172 noanchor 全是 ukey 流与原文的坐标错位）；③“replace 窗口原段拼接”是判定 H0 标签形态的最短路径；④判据迭代以 B3.1 净退化数做止损线，止损要果断。
+
+## 2026-11-21 遗留问题清扫（用户指令“解决所有遗留问题”）
+
+* **事实修正**：modality-varieties／type-theory 置空前仅 H1 一行——实为存根件（从未翻译），上轮“存量直译”系误判；compare.py“译文存根”判定正确，无缺陷。置空路径对存根件语义无伤（结果等价：留 H1 待译）。
+* **sync_guard 误拦修复**：`pre` 为空分支原先只打印不返回，继续走 rebase 被工作区未提交改动误拦；改为 HEAD==origin/main 时“已是最新”即返、远端有新提交时走 `merge --ff-only`（对工作区宽容，撞文件才拒），复现场景验证 exit 0。
+* **update 死表述跟进（ADR-0050/0051/0068 文档对齐）**：cli.md 两处（create 的 --kind 仅 retranslate、行为段“update 类”改“上游修订件（--from 建账）”）；rules/04 五处（状态机表 update 行改写为按件况建账走 retranslate 链、s0 位置括注、s24/s25/不复查旧错三处字样）；AGENTS.md 两处（必读表与硬约束表“转 update 任务”改“建账置空待译”）。
+* **workflow 名 emoji 清零**：八个 workflows 全部纯文字（catalog-drift 上一轮已改；本轮 checks/Auto-Assign/links/create-pdf/en-roundtrip/render-artifact-audit/format 七个；sed 对四字节 emoji 失败，改用 Python 按 Unicode 码点替换）。
+* **PROGRESS 刷新**：journal 派生读数（正式词条 1873、已建任务 1199、账外 674）。
+* **未动项**：两条重译仍待用户派工（上轮边界“不进行实际翻译”继续有效）；specs/008、specs/053、assembly-patches 仍为其他会话工作面。

@@ -1,4 +1,4 @@
-name: ✅ 仓库一致性门禁（矩阵）
+name: 仓库一致性门禁（矩阵）
 
 # 最小权限（CodeQL actions/missing-workflow-permissions）：只读检出后跑检查器，不回写
 permissions:

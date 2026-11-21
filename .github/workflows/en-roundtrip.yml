@@ -1,4 +1,4 @@
-name: 🔁 EN 互转漂移巡检（HTML ↔ markdown）
+name: EN 互转漂移巡检（HTML ↔ markdown）
 
 # 每日三次核验“本地 HTML 目录（en/）↔ 英文 markdown（yuanwen/）”双向互转，
 # 相对已提交基线检测变动，有变动时开/更新 issue（specs/053 B3 系列运营化）。
