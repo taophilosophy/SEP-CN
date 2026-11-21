@@ -1100,7 +1100,7 @@
 | Diodorus Cronus | Diodorus of Iasos | 狄奥多罗斯·克罗诺斯（正文简作“狄奥多罗斯”；SUMMARY 题名作“卡里亚雅苏斯的狄奥多罗斯”） | 古希腊（伊阿索斯） | — | dialectical-school | 词汇表既有裁定：Cronus 承自其师 Apollonius Cronus 之绰号，勿以出生地替代；题名与正文人名并用并存；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q715478（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Diogenes Laertius | — | 第欧根尼·拉尔修 | 古罗马 | 约180–约240 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）；籍属/生卒联网查证：Wikidata Q59138（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Diogenes of Babylon | — | 巴比伦的第欧根尼 | 巴比伦／雅典 | fl. 公元前 2 世纪 | carneades | 学界通行汉译（斯多葛学派第五任主持人；与第欧根尼·拉尔修异人）；凭证 2026-11-10 | 2026-11-09 |
-| Dionysius of Chalcedon | — | 卡尔克顿的狄奥尼修斯 | 古希腊（卡尔西顿） | — | dialectical-school | 学界通行汉译（“辩证学派”命名者，DL 2.106；与亚略巴古的狄奥尼修斯异人）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q4354636（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Dionysius of Chalcedon | — | 卡尔克顿的狄奥尼修斯 | 古希腊（卡尔西顿） | fl. 约前320 | dialectical-school | 学界通行汉译（“辩证学派”命名者，DL 2.106；与亚略巴古的狄奥尼修斯异人）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q4354636（2026-11-20 查，凭证 verify-2026-11-20-people.tsv）；生卒据 SEP 原文括注／叙述：原文 en/dialectical-school：“Dionysius of Chalcedon, active around 320 BC”（2026-11-22 查，凭证 en-prose-2026-11-22.tsv） | 2026-11-22 |
 | Dionysius the Areopagite | — | 亚略巴古的狄奥尼修斯（伪狄奥尼修斯） | 叙利亚／基督教新柏拉图主义 | — | abner-burgos | 教父学界通行汉译；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01）；籍属/生卒联网查证：SEP 原文 en/scottus-eriugena:174（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Dioscorides | — | 迪奥斯科里德斯 | 古希腊 | 约 40–约 90 | natphil-ren | 学界千年通行（《药物论》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Dirac, Paul | — | 狄拉克 | 英国／物理学 | 1902–1984 | 语料回收（mathematics-inconsistent 首译） | 物理学界千年通行汉译；审定库无相关命中（凭证 2026-11-06）；籍属/生卒联网查证：GND 规范标目 gnd 118679775（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
@@ -1267,7 +1267,7 @@
 | Euhemerus | — | 欧赫墨罗斯 | 古希腊（墨西拿） | — | bayle | 学界通行汉译（神话解释论作者）；籍属/生卒联网查证：Wikidata Q317942（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Euler, Leonhard | — | 莱昂哈德·欧拉 | 瑞士 | 1707–1783 | emilie-du-chatelet | 学界通行汉译；籍属/生卒联网查证：GND 规范标目 gnd 118531379（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Eunapius | — | 欧纳皮乌斯 | 萨迪斯（罗马帝国）／修辞学家与传记作家 | c. 346–414 年后 | porphyry | 学界通行汉译（《哲人与智者传》作者）；凭证 2026-11-11 | 2026-11-11 |
-| Euphantus of Olyntus | — | 奥林托斯的欧凡托斯 | — | — | dialectical-school | 学界通行汉译（欧布里德门生，或为学派最早成员）；凭证 2026-11-07 | 2026-11-07 |
+| Euphantus of Olyntus | — | 奥林托斯的欧凡托斯 | — | 生年早于前349 | dialectical-school | 学界通行汉译（欧布里德门生，或为学派最早成员）；凭证 2026-11-07；生卒据 SEP 原文括注／叙述：原文同篇：“Euphantus of Olyntus, another pupil of Eubulides, probably born before 349 BC”（2026-11-22 查，凭证 en-prose-2026-11-22.tsv） | 2026-11-22 |
 | Eusebius | — | 优西比乌 | — | — | timon-phlius | 学界通行汉译（凯撒利亚主教，《福音准备》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Eustachius a Sancto Paulo | — | 尤斯塔修斯（圣保罗的；亦作“欧斯塔基乌斯”） | 法国 | 1575–1640 | descartes-ethics；descartes-works | 学界惯例（经院哲学家 Eustachius，通行音译；2026-11-09 反向校对合并同人异形行）；籍属/生卒联网查证：Wikidata Q3061037（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Eustochium | — | 欧斯托基乌姆 | 罗马 | 约 368–419/420 | peter-damian | 教父学通行音译（哲罗姆书信受信人）；凭证 2026-11-09 | 2026-11-09 |
@@ -3206,7 +3206,7 @@
 | Pankenier, David W. | — | 班大伟 | — | — | chinese-phil-science | 学界通行（汉名班大伟，中国考古天文学）；凭证 2026-11-07 | 2026-11-07 |
 | Panofsky, Erwin | — | 欧文·潘诺夫斯基 | 德国／美国 | 1892–1968 | cassirer | 艺术史家（《图像学研究》作者），学界通行汉译；凭证 2026-11-12 r2 | 2026-11-12 |
 | Pantacleia | — | 潘塔克莱娅 | — | — | dialectical-school | 学界通行汉译（狄奥多罗斯之女，据称逻辑学家）；凭证 2026-11-07 | 2026-11-07 |
-| Panthoides | — | 潘托伊得斯 | 古希腊 | — | dialectical-school | 学界通行汉译（辩证家，约前280–275年）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q4354547（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
+| Panthoides | — | 潘托伊得斯 | 古希腊 | fl. 约前280–前275 | dialectical-school | 学界通行汉译（辩证家，约前280–275年）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q4354547（2026-11-21 查，凭证 verify-2026-11-20-people.tsv）；生卒据 SEP 原文括注／叙述：原文同篇：“the dialectician Panthoides flourished c.280–275 BC”（2026-11-22 查，凭证 en-prose-2026-11-22.tsv） | 2026-11-22 |
 | Pantoja, Diego de | 龐迪我 | 庞迪我 | 西班牙 | 1571–1618 | korean-confucianism | 耶稣会士汉名（《七克》作者）；籍属/生卒联网查证：GND 规范标目 gnd 128437391（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Pap, Arthur | — | 阿瑟·帕普 | 美国 | 1921–1959 | cassirer | 科学哲学家（《物理理论中的先验》作者），学界通行音译；与 Pap, Endre 异人分立；凭证 2026-11-12 r2；籍属/生卒联网查证：Wikidata Q4799915（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Pap, Endre | — | Pap | 塞尔维亚 | 1947– | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 140687572（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
