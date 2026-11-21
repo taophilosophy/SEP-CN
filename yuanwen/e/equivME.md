@@ -65,7 +65,7 @@ Henceforth, we will adopt the accepted convention, though it is admittedly not u
 | $E_o$ | The rest energy of a physical system or an amount of energy as measured in the rest frame of an object (typically energy that is emitted or absorbed by an object) |
 | $m$ | The mass (i.e., rest-mass) of a physical system |
 
-\*Table 1.\* Notation used in this entry
+*Table 1.* Notation used in this entry
 
 We will first focus on the mechanics of idealized point particles in special relativity. Regardless of the macroscopic objects they represent, we shall treat such particles, and by extension the corresponding physical objects, as un-analyzable wholes. We will then separately discuss “composite systems” or systems composed of such particles. Physicists use composite systems to approximate physical objects when they are interested in examining the “inner workings” of such objects, such as when they treat a gas as a collection of idealized particles.
 
@@ -226,7 +226,7 @@ The only combination of answers to questions (1) and (2) that is inconsistent is
 | *Same Property* | X | Torretti (1996)[^torretti-1996], Eddington (1929)[^eddington-1929] |
 | *Different Properties* | Rindler (1977)[^rindler-1977] (conversion is *possible*) | Bondi & Spurgin (1987) |
 
-\*Table 2.\* Interpretations of mass-energy equivalence
+*Table 2.* Interpretations of mass-energy equivalence
 
 In this section, we will describe the merits and demerits of each of the interpretations in Table 2. Beyond these interpretations, we will also discuss two other types of interpretations of mass-energy equivalence that do not fit neatly in Table 2. First, we will discuss Lange’s (2001, 2002)[^lange-2001][^lange-2002] interpretation, which holds that only mass is a *real* property of physical systems and that *we* convert mass into energy when we shift the level at which we analyze physical systems. Second, we will discuss two interpretations (one by Einstein and Infeld, 1938 and the other by Zahar, 1989)[^einstein-1989][^einstein-1938][^zahar-1989], which we will call *ontological* interpretations, that attempt to answer question (3) above affirmatively. However, we begin this section by addressing what has formerly been a fairly common misconception concerning mass-energy equivalence.
 

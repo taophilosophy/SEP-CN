@@ -29,7 +29,7 @@ Keynes’ *Theory of Probability* contains the diagram reproduced in Figure H1, 
 
 ![[A line with endpoints 'O' and 'I' and a point about two-thirds of the way from 'O' to 'I' labeled 'A'. A wide curve above the line goes from 'O' to 'I' with a point partway labeled 'U'. A second curve below the first also goes from 'O' to 'I' and has points 'V', 'W', and 'X' marked on it. A third curve initial starts between the first and second curves at 'O' but intersects the second curve at 'W' and goes below before ending also at 'I'; a point 'Z' is marked on the first part of this curve and a point 'X' on the second part. A last curve connects points 'V' on the second curve and point 'A' on the line.]](../assets/imprecise-probabilities/keynes.png)
 
-\*Figure H1:\* Keynes’ view of probability
+*Figure H1:* Keynes’ view of probability
 
 Weatherson (2002) interprets Keynes as favouring some sort of IP view since sets of functions (or intervals of values) naturally give rise to the sorts of incomparabilities that Keynes takes to be features of belief. Keynes took (conditional) probability to be a sort of logical relationship that held between propositions (Hájek 2011: 3.2), rather than as strength of belief. So whether Keynes would have approved of IP models is unclear. See Kyburg (2003) for a discussion of Keynes’ view by someone sympathetic to IP, and see Brady and Arthmar (2012) for further discussion of Kaynes’ view.
 
@@ -129,6 +129,6 @@ Gärdenfors and Sahlin (1982) don’t really discuss this measure of reliability
 
 ![[three graphs each showing just the first quadrant. The first labeled 'A' has a dotted line depicting a bell curve, the second labeled 'B' has a dotted straight horizontal line, and the third labeled 'C' has an upside down bell curve.]](../assets/imprecise-probabilities/unreliable-graphs.png)
 
-\*Figure H2:\* Graphs of reliability against probability server wins point
+*Figure H2:* Graphs of reliability against probability server wins point
 
 In summary, the unreliable probabilities approach enriches a credal set with a *reliability index*. See Levi (1982) for a critical discussion of unreliable probabilities. Cattaneo (2008) gives some content to the reliability index of a probability by interpreting it in terms of the likelihood of the evidence given by that probability. Another formal theory that seems inspired by the reliability approach is that of Brian Hill (2013).

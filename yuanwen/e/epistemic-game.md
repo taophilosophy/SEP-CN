@@ -31,7 +31,7 @@ Figure 1 is an example of a game in strategic form. There are two players, Ann a
 | Ann | *u* | 1,1 | 0,0 |
 | *d* | 0,0 | 1,1 |   |
 
-\*Figure 1:\* A coordination game
+*Figure 1:* A coordination game
 
 The game displayed in Figure 1 is called a *pure coordination game*: the players have a common interest in coordinating their choices on $(u, l)$ or $(d, r)$ and they are both indifferent about which way they coordinate their choices.
 
@@ -90,7 +90,7 @@ The defining feature of a game in strategic form is that the players choose thei
 
 ![a diagram: link to extended description below](../assets/epistemic-game/fig2.png)
 
-\*Figure 2\* [An extended description of figure 2 is in the supplement.]
+*Figure 2* [An extended description of figure 2 is in the supplement.]
 
 The interpretation is that the decision made at the first node ($d_0$) is forgotten or not observed, and so the second decision is made under uncertainty about whether the decision maker is at node $d_1$ or $d_2$. See Osborne (2004: ch. 9 & 10) for the general theory of games with imperfect information. Allowing imperfect information in a game raises an interesting question about whether players may be imperfectly informed about their own past decisions.
 
@@ -106,7 +106,7 @@ The decision tree for the absent-minded driver is depicted below:
 
 ![a diagram: link to extended description below](../assets/epistemic-game/fig3.png)
 
-\*Figure 3\* [An extended description of figure 3 is in the supplement.]
+*Figure 3* [An extended description of figure 3 is in the supplement.]
 
 This problem shows that there may be a conflict between what the decision maker commits to do while planning at the bar and what he thinks is best at the first intersection:
 
@@ -168,7 +168,7 @@ To illustrate an epistemic model of a game, consider the following coordination 
 | *a* | *u* | 3,3 | 0,0 |
 | *d* | 0,0 | 1,1 |   |
 
-\*Figure 4:\* A strategic coordination game between two players *a* and *b*.
+*Figure 4:* A strategic coordination game between two players *a* and *b*.
 
 The set of strategy profiles is $S=\{(u,l),(d,l),(u,r),(d,l)\}$ and the set of players is $N =\{a, b\}$. To complete the description of the game model we must specify the set $W$ of possible worlds and a partition on $W$.
 
@@ -189,7 +189,7 @@ It is standard to use the following diagrammatic representation of an epistemic 
 
 ![a diagram: link to extended description below](../assets/epistemic-game/fig5.png)
 
-\*Figure 5\* [An extended description of figure 5 is in the supplement.]
+*Figure 5* [An extended description of figure 5 is in the supplement.]
 
 Notice that the following events are true at all states:
 
@@ -201,7 +201,7 @@ In particular, these events are true at state $w_1$ where *a* has chosen $u$ (i.
 
 ![a diagram: link to extended description below](../assets/epistemic-game/fig6.png)
 
-\*Figure 6\* [An extended description of figure 6 is in the supplement.]
+*Figure 6* [An extended description of figure 6 is in the supplement.]
 
 Notice that since $\Pi_b(w')=\{w'\}\subseteq U$ we have $w'\in K_b(U)$. That is, *b* knows that *a* chooses $u$ at state $w'$. Finally, a simple calculation shows that $w_1\in -K_a(-K_b(U))$, as desired. Of course, there are other substantive assumptions built-in to this new model (e.g., at $w_1$, *b* knows that *a* does not know he will choose $l$) which may require additional modifications (cf. Roy & Pacuit 2013)[^roy-2013]. This raises a number of interesting conceptual and technical issues which we discuss in Section 2.4.
 
@@ -263,7 +263,7 @@ We conclude this section with an example of an epistemic-probability model. Reca
 
 ![a diagram: link to extended description below](../assets/epistemic-game/fig7.png)
 
-\*Figure 7\* [An extended description of figure 7 is in the supplement.]
+*Figure 7* [An extended description of figure 7 is in the supplement.]
 
 The solid lines represent Ann’s partition and the dashed lines represent Bob’s partition. We further assume there is a common prior $p: W\rightarrow [0, 1]$ with the probabilities assigned to each state written to the right of the state (e.g., $p(w_2)=\frac{1}{8}$). Let $E=\{w_2,w_5,w_6\}$ be an event. Then, we have
 
@@ -393,7 +393,7 @@ A convenient way to represent these functions is as follows:
 | $\lambda_b(t'_{2})$ | $t_1$ | 0 | 0 |
 | $t_2$ | 0 | 1 |   |
 
-\*Figure 8\*
+*Figure 8*
 
 where for each $i\in \{a, b\}$ and for each $t\in T_i$, a 1 in the $(t',s)$ entry of the above matrices means that $(t',s)\in\lambda_i(t)$. Before giving the formal definition of beliefs in a qualitative type space, we make the following observations about the above type structure:
 
@@ -434,7 +434,7 @@ Returning again to our running example games where Ann (*a*) has two available a
 | $\lambda_a(t_1)$ | $t^\prime_1$ | 0.5 | 0 |
 | $t^\prime_2$ | 0.4 | 0.1 |   |
 
-\*Figure 9:\* Ann’s beliefs about Bob
+*Figure 9:* Ann’s beliefs about Bob
 
 |   |   | *u* | *d* |
 | --- | --- | --- | --- |
@@ -444,7 +444,7 @@ Returning again to our running example games where Ann (*a*) has two available a
 | --- | --- | --- | --- |
 | $\lambda_b(t^\prime_2)$ | $t_1$ | 0.2 | 0.8 |
 
-\*Figure 10:\* Bob’s belief about Ann
+*Figure 10:* Bob’s belief about Ann
 
 The first- and second-order beliefs for the players encoded in the above type space are:
 
@@ -466,7 +466,7 @@ It is immediate that $\cT$ and $\cM^\cT$ are equivalent game models in the sense
 
 ![a diagram: link to extended description below](../assets/epistemic-game/fig11.png)
 
-\*Figure 11\* [An extended description of figure 11 is in the supplement.]
+*Figure 11* [An extended description of figure 11 is in the supplement.]
 
 Some simple (but instructive!) calculations shows that the above epistemic-probability model describes the same beliefs as the type space from the above Example 2.8. Constructing and equivalent type space from an epistemic-probability model is more complicated. See Galeazzi & Lorini 2016 and Bjorndahl & Halpern 2017 for a discussion (cf. also Fagin, Geanakoplos, et al. 1999; Brandenburger & Dekel 1993; Heifetz & Samet 1998; and Klein & Pacuit 2014 for further discussions about the relationship between type spaces and epistemic-probability models)[^brandenburger-1993][^fagin-1999][^heifetz-1998][^klein-2014].
 
@@ -650,7 +650,7 @@ For example, consider the following strategic game:
 | *y* | 1,1 | 3,3 | 1,0 |   |
 | *z* | 0,4 | 0,0 | 4,0 |   |
 
-\*Figure 12\*
+*Figure 12*
 
 Strategy $r$ is strictly dominated by $l$ for Bob. Once $r$ is removed from the game, $z$ becomes strictly dominated for Ann. Thus, $\{(x,l), (x,c), (y,l), (y,c)\}$ are iteratively undominated. That is, iteratively removing strictly dominated strategies generates the following sequence of games:
 
@@ -675,7 +675,7 @@ $\ \rightarrowtail\ $
 | *x* | 3,3 | 1,1 |
 | *y* | 1,1 | 3,3 |
 
-\*Figure 13\*
+*Figure 13*
 
 For arbitrary large (finite) strategic games, if all players are *rational* and there is **common belief that all players are rational**, then the players’ choices will be a strategy profile that is iteratively non-dominated. Before stating the formal result, we illustrate it with an example. Consider a type space
 
@@ -710,7 +710,7 @@ where $N=\{a, b\}$ is the set of players (*a* for Ann and *b* for Bob) and $S$ i
 | $\lambda_b(b_3)$ | $a_1$ | 0.5 | 0 | 0 |
 | $a_2$ | 0 | 0 | 0.5 |   |
 
-\*Figure 14\*
+*Figure 14*
 
 We then consider the pairs $(s,t)$ where $s\in S_i$ and $t\in T_i$ and identify all the rational pairs as in Section 2.2.4 (i.e., where $s$ is a best response to $\lambda_i(t)$).
 
@@ -757,7 +757,7 @@ There are two crucial assumptions needed for the proof of Lemma 3.2. The first a
 | Ann | *c* | 3,3 | 0,4 |
 | *d* | 4,0 | 1,1 |   |
 
-\*Figure 15:\* A Prisoner’s Dilemma
+*Figure 15:* A Prisoner’s Dilemma
 
 In the Prisoner’s Dilemma, $c$ is strictly dominated by $d$ for both players. According to Lemma 3.2, there is no probability over the choices of the Bob that makes $c$ a best response. However, if Ann believes that the Bob’s choice is correlated with her choice (i.e., Bob will match her choice by choosing $c$ if she does and choosing $d$ if she does) and that her choice is *transparent* to Bob, then $c$ may be a rational choice with respect to this belief (cf. Brams 1975; Davis 1977; Capraro & Halpern 2016; Halpern & Pass 2018)[^brams-1975][^capraro-2016][^davis-1977][^halpern-2018]. Thus, Lemma 3.2 only holds when it is assumed that each player believes that the choices of the other players do not depend on the player’s own choice.[^note-13]
 
@@ -784,7 +784,7 @@ The second assumption needed for the proof of Lemma 3.2 involves games with more
 | *u* | 1,1,0 | 1,0,0 |
 | *d* | 0,1,3 | 0,0,3 |
 
-\*Figure 16\*
+*Figure 16*
 
 Note that $y$ is not strictly dominated for Charles. As expected from Lemma 3.2, it is easy to find a probability measure $p\in\Delta(S_a\times S_b)$ such that $y$ is a best response to $p$. Suppose that $p(u,l)=p(d,r)=0.5$. Then,
 
@@ -834,7 +834,7 @@ Figure 17 shows an example of a game in extensive form (this game from Rosenthal
 
 ![a diagram: link to extended description below](../assets/epistemic-game/fig17.png)
 
-\*Figure 17:\* A centipede game [An extended description of figure 17 is in the supplement.]
+*Figure 17:* A centipede game [An extended description of figure 17 is in the supplement.]
 
 The decision nodes for *a* and *b* are $V_A=\{v_1, v_3\}$ and $V_B=\{v_2\}$; and the terminal nodes are $O=\{o_1, o_2, o_3, o_4\}$. The labels of the edges are the actions of each player. For instance, $\Act(v_1)=\{O_1, I_1\}$. There are four strategies for *a* and two strategies for *b*. To simplify notation, we denote the players’ strategies by the sequence of choices at each of their decision nodes. For example, *a*’s strategy $s_A^1$ defined as $s_A^1(v_1)=O_1$ and $s_A^1(v_3)=O_3$ is denoted by the sequence $O_1O_3$. Thus, *a*’s strategies are:
 
@@ -912,7 +912,7 @@ These impossibility results can, however, be re-interpreted in a way that has al
 
 ![a diagram: link to extended description below](../assets/epistemic-game/fig18.png)
 
-\*Figure 18:\* An extensive game [An extended description of figure 18 is in the supplement.]
+*Figure 18:* An extensive game [An extended description of figure 18 is in the supplement.]
 
 **Example 3.11 (Epistemic model for the game in Figure 18)** Suppose that the set of states is $\{w_1, w_2, w_3, w_4, w_5\}$ with *σ* defined as follows:
 
@@ -972,7 +972,7 @@ Many authors have observed that equilibrium play involve the players having *cor
 | *A* | *u* | 2,2 | 0,0 |
 | *d* | 0,0 | 1,1 |   |
 
-\*Figure 19\*
+*Figure 19*
 
 The game has two pure-strategy Nash equilibria: $(u,l)$ and $(d,r)$, where $(u, l)$ Parteo-dominates $(d, r)$ (both players strictly prefer the outcome $(u,l)$ to the outcome $(d, r)$). There is also a mixed-strategy equilibrium where *a* and *b* play, respectively, $u$ and $l$ with probability 1/3 (we denote this mixed-strategy for *a* by $(1/3u, 2/3d)$ and for *b* by $(1/3l, 2/3r)$). Suppose that $\cT$ is a type space for the game with three types for each player $T_A=\{a_1,a_2, a_3\}$ and $T_B=\{b_1,b_2,b_3\}$ with the following type functions:
 
@@ -1024,7 +1024,7 @@ The game has two pure-strategy Nash equilibria: $(u,l)$ and $(d,r)$, where $(u, 
 | $a_2$ | 0 | 0.5 |
 | $a_3$ | 0 | 0.5 |
 
-\*Figure 20\*
+*Figure 20*
 
 Consider the state $(d,r,a_3,b_3)$. Both $a_3$ and $b_3$ correctly believe (i.e., assign probability 1 to) that the outcome is $(d,r)$ (we have $\lambda_A(a_3)(r)=\lambda_B(b_3)(d)=1$). This fact is not common knowledge. Type $a_3$ of *a* assigns a 0.5 probability to *b* being of type $b_2$, and type $b_2$ of *b* assigns a 0.5 probability to *a* playing $l$. Thus, *a* is not certain whether *b* is certain that she is playing $r$. Furthermore, while it is true that both *a* and *b* are rational, it is not common knowledge that they are rational. Indeed, the type $a_3$ assigns a 0.5 probability to *b* being of type $b_2$ and choosing $r$. However, this is an irrational type-strategy pair, since $b_2$ believes that both of *a*’s options are equally probable.
 
@@ -1052,7 +1052,7 @@ A seminal result in game theory is that every finite game in strategic form has 
 | *A* | *u* | 1,−1 | −1,1 |
 | *d* | −1,1 | 1,−1 |   |
 
-\*Figure 21:\* The matching pennies game
+*Figure 21:* The matching pennies game
 
 It is not hard to see that the mixed strategy profile in which *a* adopts the mixed-strategy that assigns probability 0.5 to $u$ and *b* adopts the mixed strategy that assigns probability 0.5 to $l$ is a Nash equilibrium: Neither *a* nor *b* has an incentive to unilaterally deviate from their mixed strategy.[^note-15]
 
@@ -1128,7 +1128,7 @@ Many authors have pointed out that these differences between weak and strict dom
 | Ann | *u* | 1,1 | 1,0 |
 | *d* | 1,0 | 0,1 |   |
 
-\*Figure 22\*: Game from Samuelson (1992)[^samuelson-1992].
+*Figure 22*: Game from Samuelson (1992)[^samuelson-1992].
 
 In this game $d$ is weakly dominated by $u$ for Ann. If Bob knows that she does not choose weakly dominated strategies, then he can rule out her playing $d$. In the smaller game, $r$ is now strictly dominated by $l$ for Bob. If Ann knows that Bob is rational and that Bob knows that she does not choose weakly dominated strategies (and so, rules out option $d$), then she can rule out option $r$. Assuming that the above reasoning is transparent to both Ann and Bob, it is common knowledge that Ann will play $u$ and Bob will play $l$. But now, what is the reason for Bob to rule out the possibility that Ann will play $d$? He knows that Ann knows that he is going to play $l$ and both $u$ and $d$ are best responses to $l$. The problem is that assuming that the players’ beliefs are cautious conflicts with the logic of iteratively removing weakly dominated strategies. This issue is nicely described in a well-known microeconomics textbook:
 
@@ -1158,7 +1158,7 @@ The core idea of extensive form rationalizability is that players should try, as
 
 ![a diagram: link to extended description below](../assets/epistemic-game/fig23.png)
 
-\*Figure 23\* [An extended description of figure 23 is in the supplement.]
+*Figure 23* [An extended description of figure 23 is in the supplement.]
 
 In the game in Figure 23, *a* first chooses between playing normal form game with *b*, or choosing an “outside option” and ending the game at the first node. *a* cannot rationally choose $I$ unless she assigns a probability of at least 2/3 that *b* will choose $l$. Otherwise, whatever she chooses in the normal form game, her expected utility is lower than the guaranteed 2 that she gets from the outside option $O$. So, if *b* observes *a* choosing $I$ and he believes that this was a rational choice, then he must conclude that *a* believes with degree at least 2/3 that he will choose $l$. Then, he also concludes that the only rational choice in the normal form game for *a* is $u$, leading him to choose $l$ (assuming that he is rational). In other words, extensive-form rationalizability requires *b* to rule out certain beliefs of *a* after he observes her choosing $I$, from which he can conclude that she must choose $u$ in the normal form game. If this reasoning is transparent to both players, then *a* will choose $I$ followed by $u$ and *b* will choose $l$.
 

@@ -77,13 +77,13 @@ And from here, Sanches, with more than a touch irony, similar to that exhibited 
 
 ![a diagram consisting of an origin, C, with lines to B at -90 degrees, to A at 90 degrees, D at 0 degrees, E at 45 degrees, and F at -45 degrees](../assets/francisco-sanches/figure1.svg)
 
-\*Figure 1\*
+*Figure 1*
 
 Here we witness Sanches turning to the etymology of *geometry* (*γεω μετρία*), meaning: the measurement of the land or earth (*terrae mensura*), followed by a second example, which much like the first is based on a pragmatist view of mathematics [figure 2].
 
 ![a diagram consisting of two lines, one above the other. The top line is labeled A on the left and B on the right. The bottom line is two thirds the length of the top line and is labeled C on the left and D on the right and the midpoint is labeled E.](../assets/francisco-sanches/figure2.svg)
 
-\*Figure 2\*
+*Figure 2*
 
 > If you were to purchase a piece of cloth of the length AB, in order to make a jacket, and the merchant were to give you a piece of cloth of size CD alleging that that CD and CE were equivalent to AB, don’t you think the jacket would come out too short? (LC: 301: #12, my translation).
 

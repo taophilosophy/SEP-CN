@@ -45,7 +45,7 @@ The same relations obtain for modal propositions, for propositions involving bin
 
 ![A square with the upper-left point A labeled 'a must F'/Box-Phi, the upper-right point E labeled 'a cant F'/Box-Not-Phi-iff-Not-Diamond-Phi, the lower-left point I labeled 'a may F'/Diamond-Phi, and the lower-right point O labeled 'a neednt F'/Not-Box-Phi-iff-Diamond-Not-Phi. A bidirectional arrow between A and E is labeled 'contraries'; a bidirectional arrow between I and O is labeled 'subcontraries'. An arrow down from A to I is labeled 'entails'; and arrow down from E to O is labeled 'entails'. Undirected line segments from A to O and from E to I cross in the center of the square and are labeled 'contradictories'.](../assets/contradiction/modal.jpg)
 
-\*Figure 1.\* Modal Square
+*Figure 1.* Modal Square
 
 In the twelfth century, Peter of Spain (1972: 7) offers a particularly elegant formulation in his *Tractatus*; it will be seen that these apply to the modal propositions in Figure 1 as well as to the quantificational statements in the original square:
 
@@ -121,7 +121,7 @@ In addition to predicate denial, in which a predicate $F$ is denied of a subject
 
 ![A square with the upper-left point A labeled 'S is P', the upper-right point E labeled 'S is not-P', the lower-left point I labeled 'S isnt not-P', and the lower-right point O labeled 'S isnt P'. A bidirectional arrow between A and E is labeled 'contraries'; a bidirectional arrow between I and O is labeled 'subcontraries'. An arrow down from A to I is labeled 'entails'; and arrow down from E to O is labeled 'entails'. Undirected line segments from A to O and from E to I cross in the center of the square and are labeled 'contradictories'.](../assets/contradiction/negation-square.jpg)
 
-\*Figure 2.\* Negation Square
+*Figure 2.* Negation Square
 
 If Socrates doesn’t exist, “Socrates is wise” $(A)$ and its contrary “Socrates is not-wise” $(E)$ are both automatically false (since nothing—positive or negative—can be truly affirmed of a non-existent subject), while their respective contradictories “Socrates is not wise” $(O)$ and “Socrates is not not-wise” $(I)$ are both true. Similarly, for any object $x$, either $x$ is red or $x$ is not red—but $x$ may be neither red nor not-red; if, for instance, $x$ is a unicorn or a prime number.
 

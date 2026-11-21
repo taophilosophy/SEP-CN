@@ -24,7 +24,7 @@ The brain can be divided into the cerebral *cortex* and the *subcortex*. The cor
 
 ![a diagram of the brain. Major clockwise sections labeled are the 'Frontal Lobe' with the PFC marked in it. 'Parietal Lobe' with S1 between it and the Frontal Lobe; also includes the SPL and IPL. 'Dorsal Stream' with, in a circle, MST and MT, V6, V3A. 'Occipital Lobe' with V1 and then in concentric circles around V1 are V2 then V3. 'Ventral Stream' with V4. 'Temporal Lobe' with IT. V1 has an arrow pointing to V4 then IT. V1 also has an arrow pointing to V3A which in turn has arrows pointing to V6 and MST/MT. V6 has arrows pointing to SPL and MST/MT. MST/MT has an arrow pointing to IPL.](../assets/consciousness-neuroscience/figure1.png)
 
-\*Figure 1. The Cerebral Cortex and Salient Areas\*
+*Figure 1. The Cerebral Cortex and Salient Areas*
 
 Figure Legend: The four lobes of the primate brain, shown for the left hemisphere. Some areas of interest are highlighted. Abbreviations: PFC: prefrontal cortex; IT: inferotemporal cortex; S1: primary somatosensory cortex; IPL and SPL: Inferior and Superior Parietal Lobule; MST: medial superior temporal visual area; MT: middle temporal visual area (also called V5 in humans); V1: primary visual cortex; V2-V6 consist of additional visual areas.
 
@@ -198,7 +198,7 @@ The *accessibility* of information is then defined as its potential access by ot
 
 ![see legend. The top figure is a series of dotted concentric circles with a network of lines and nodes imposed on top; the innermost circle is labeled 'Global Workspace'. The circles are divided into five sectors [except the sector radii don't cross the innermost circle]; each sector has a labels in an arrow pointing in [unless otherwise noted] clockwise from the top as, 'Evaluative Systems (VALUE)', 'Attentional Systems (FOCUSING)', 'Motor systems (FUTURE)' [the only one with an arrow pointing out], 'Perceptual systems (PRESENT)', 'Long-Term Memory (PAST)'. The bottom figure is the same network of lines and nodes (minus circles, arrows, and labels but with on the left a picture labeled 'frontal' and on the right a picture labeled 'sensory'. ](../assets/consciousness-neuroscience/figure2.png)
 
-\*Figure 2. The Global Neuronal Workspace\*
+*Figure 2. The Global Neuronal Workspace*
 
 Figure Legend: The top figure provides a neural architecture for the workspace, indicating the systems that can be involved. The lower figure sets the architecture within the six layers of the cortex spanning frontal and sensory areas, with emphasis on neurons in layers 2 and 3. Figure reproduced from Dehaene, Kerszberg, and Changeux 1998. Copyright (1998) National Academy of Sciences.
 
@@ -283,7 +283,7 @@ The neuroanatomical basis of blindsight capacities remains unclear. Certainly, t
 
 ![see legend, to the left is a collection of 5 ovals labeled 'retina', 'LGN', 'pulvinar', 'SC', 'amygdala'; to the right are 5 rectangles labeled 'V1' through 'V5'. Above V3 and to its left, V5, which are on the top is a black arrow going right to left labeled 'dorsal stream'; below V1 and to its left V4 is a black arrow going right to left labeled 'ventral stream'. A thick orange arrow connects retina to LGN to V1 and thick blue arrows connect V1 to V2 then from V2 to both V3 and V4 and from V3 to V5. Thin blue arrows connect V1 to V4, V5, and V3 and well as V2 to V5. Thin orange arrows connect retina to pulvinar and SC ; LGN to SC, V5, V2, and V4; SC to LGN, pulvinar, and amygdala; pulvinar to V5, V2, and amygdala.](../assets/consciousness-neuroscience/figure3.png)
 
-\*Figure 3. Subcortical Pathways and their Connection to Cortical Vision (from Urbanski, Coubard, & Bourlon 2014)[^urbanski-2014]\*
+*Figure 3. Subcortical Pathways and their Connection to Cortical Vision (from Urbanski, Coubard, & Bourlon 2014)[^urbanski-2014]*
 
 Figure Legend: The front of the head is to the left, the back of the head is to the right. One should imagine that the blue-linked regions are above the orange-linked regions, cortex above subcortex. V4 is assigned to the base of the ventral stream; V5, called area MT in nonhuman primates, is assigned to the base of the dorsal stream.
 
@@ -349,7 +349,7 @@ A different approach begins with a more detailed understanding of underlying neu
 
 ![See legend. The cortex picture is labeled at the top as 'Anterior' and the bottom as 'Posterior', the left is labeled 'RH' and the right is labeled 'LH'. A picture of a face is labeled 'FFA' in red with and arrow to a region in red of the cortex picture on the far left and about a third up from the bottom, other regions in red are on both sides of the cortex and to the top and about half way up on the left. A picture of a cup is labeled 'LO' in blue and points to a largish blue region in the lower right hand side of the cortex picture; another largish blue region is on the lower left hand side of the picture. A picture of a house is labeled 'PPA' in green with arrows pointing to two smallish green regions above and slightly overlapping the two blue regions](../assets/consciousness-neuroscience/figure4.png)
 
-\*Figure 4. Ventral Stream Areas\*
+*Figure 4. Ventral Stream Areas*
 
 A view from the bottom of cortex with location of areas FFA, PPA and LO identified. Occipital cortex is on the bottom. LO is lesioned in the visual agnosic patient, DF (see section 4.1). This figure is modified from figure 1 of Behrmann and Plaut 2013, kindly provided by Marlene Behrmann and used with her permission.
 
@@ -375,7 +375,7 @@ The work we shall discuss was done in awake behaving macaque monkeys. Visual are
 
 ![a graph with a y-axis going from 0 to 120 and labeled 'Responses (spikes/s) and a x-axis from -180 to 180 labeled 'Directions of motion (deg)'. There are three lines on the graph: a horizontal dot-dash line almost at the 0 point of the y-axis; a solid line starting about the 15 point of the y-axis rising in a curve to about 90 at the 0 point of the x-axis before symmetrically falling back to 15 at the 180 point of the x-axis; a dashed line that starts and and ends at the same points as the solid line but rises higher to about 110 at the 0 point of x-axis.](../assets/consciousness-neuroscience/figure5.png)
 
-\*Figure 5.\* MT Neuron Tuning Curve
+*Figure 5.* MT Neuron Tuning Curve
 
 Figure Legend: Tuning of a neuron in MT showing a peak response in spiking rate at 0 degrees of motion. The dashed curve is generated when the animal is attending to the motion stimulus while it is in the receptive field (we shall not discuss the neural basis of attention, but see Wu 2014b: chap. 2 for a summary of the neuroscience of attention). The solid curve shows MT response when the animal is not attending to the motion stimulus in the receptive field. Figure from (Lee & Maunsell 2009)[^lee-2009].
 
@@ -389,7 +389,7 @@ The experimentalist’s window onto conscious experience is through behavior, th
 
 ![A graph labeled 'Neurometric and psychometric curves' with a y-axis going from 0.5 to 1 and labeled 'Proposition correct' and a x-axis labeled 'Motion coherence (%)' going from an unknown point to 10 at the halfway point and 100 at the far right. An elongated S curve goes from the lower left (about 0.5 on the y and a quarter of the way from the origin to 10 on the x) to 1 on the y-axis and 100 on the x-axis. A close look shows there are two lines, one black which seems to end before the other, gray, line. The legend says the black line is 'psychometric' and the gray line 'neurometric'.](../assets/consciousness-neuroscience/figure6.png)
 
-\*Figure 6. Psychometric and Neurometric Curves\*
+*Figure 6. Psychometric and Neurometric Curves*
 
 Figure Legend: Psychometric and neurometric curves for a single MT neuron during performance of a motion direction detection task. Percent correct performance is plotted on the y-axis while percent motion coherence is plotted in a log scale on the x-axis. Figure modified from Ruff & Cohen 2014 and kindly provided by Doug Ruff.
 

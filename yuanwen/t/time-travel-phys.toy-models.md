@@ -12,7 +12,7 @@ Consider a slight modification of the first simple model proposed to us by Adam 
 
 ![a diagram: link to extended description below](../assets/time-travel-phys/figure-s1.svg)
 
-\*Figure S1:\* Set-up for Elga’s Paradox. [An extended description of figure S1 is in the supplement.]
+*Figure S1:* Set-up for Elga’s Paradox. [An extended description of figure S1 is in the supplement.]
 
 The dotted line indicates the path the particle will follow if no forces act upon it. The point labeled *P* is the left edge of the time-travel region; the two labels are a reminder that the point at the bottom and the point at the top are one and the same.
 
@@ -30,7 +30,7 @@ Suppose that, instead of being concentrated at a point, the incoming object is a
 
 ![a diagram: link to extended description below](../assets/time-travel-phys/figure-s2.svg)
 
-\*Figure S2:\* Elga’s Paradox with a Charged Bar. [An extended description of figure S2 is in the supplement.]
+*Figure S2:* Elga’s Paradox with a Charged Bar. [An extended description of figure S2 is in the supplement.]
 
 Once again, we set things up so that if there are no forces on the bar, it will be completely absorbed at $L+$. But we now postulate that if the bar should *hit* the point *P*, it will fracture: part of it (the part that hits $L+)$ will be sent back in time and the rest will continue on above $L+$. So continuity of a sort is restored: now we have not just the possibility of the whole charge being sent back or nothing, we have the continuum degrees of charge in between.
 
@@ -38,7 +38,7 @@ It is not hard to see that the restoration of continuity restores the existence 
 
 ![a diagram: link to extended description below](../assets/time-travel-phys/figure-s3.svg)
 
-\*Figure S3:\* Solution to Elga’s Paradox with a Charged Bar. [An extended description of figure S3 is in the supplement.]
+*Figure S3:* Solution to Elga’s Paradox with a Charged Bar. [An extended description of figure S3 is in the supplement.]
 
 Our problem about conservation of momentum is also solved: the piece of the bar that does not time travel has lower momentum to the right at the end than it had initially, but the piece that does time travel has a higher momentum (due to the Coulomb forces), and everything balances out.
 

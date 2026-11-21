@@ -198,7 +198,7 @@ The previous section touched on the fact that judgments about the relative contr
 
 ![Graph of P vs E with two straight horizontal lines labeled G1 and G2. G1 is above G2.](../assets/innate-acquired/figure1.png)
 
-\*Figure 1\*. A norm of reaction in which the phenotype P is ‘genetically determined’
+*Figure 1*. A norm of reaction in which the phenotype P is ‘genetically determined’
 
 If a norm of reaction has this shape, we can say that P is ‘genetically determined’ even though it has an environmental factor as one of its causes. Philip Kitcher suggests that some norms of reaction may have this form, but only in some limited, but perhaps contextually important, range of environments (Kitcher 2001)[^kitcher-2001]. For example, a disease caused by the loss of one or both normal copies of a gene might develop in *every* environment except those specifically structured as clinical interventions to cure the disease.
 
@@ -206,13 +206,13 @@ Another norm of reaction is one in which genetic and environmental factors inter
 
 ![Graph of P vs E with two straight parallel lines angled up to the right labeled G1 and G2. G1 is above G2.](../assets/innate-acquired/figure2.png)
 
-\*Figure 2\*. Purely additive interaction between genotype and environment
+*Figure 2*. Purely additive interaction between genotype and environment
 
 In perhaps the most famous paper on this topic the geneticist Richard Lewontin (1974)[^lewontin-1974] argued that actual norms of reaction are likely to be non-additive (Figure 3). In that case, it makes no sense to talk of a particular genotype ‘determining’ a phenotypic difference. Genotype and environment *jointly* determine the outcome in the straightforward sense that the effect of each factor on the outcome is a function of the particular value taken by the other factor. Whether norms of reaction are typically non-additive and exactly what this implies is the subject of an extensive scientific and philosophical literature on ‘gene-environment interaction’, as discussed in the previous section.
 
 ![Graph of P vs E with two straight lines. G1 goes up to the right, starts below G2, and ends above G2. G2 goes down to the right, starts above G1, and ends below G1.](../assets/innate-acquired/figure3.png)
 
-\*Figure 3\*. Non-additive interaction between genotype and environment
+*Figure 3*. Non-additive interaction between genotype and environment
 
 Kitcher (2001)[^kitcher-2001] argues that ‘genetic determinism’ should be understood as the claim that many norms of reaction have roughly the ‘determinist’ shapes depicted in Figures 1 and 2.
 
@@ -234,7 +234,7 @@ André Ariew (1996; 1999; 2007)[^ariew-1996][^ariew-1999][^ariew-2007] has devel
 
 ![figure4a](../assets/innate-acquired/figure4A.jpg) ![figure4b](../assets/innate-acquired/figure4B.jpg)
 
-\*Figure 4.\* Waddington’s developmental landscape (A). Figure B shows the underside of the landscape with points on the surface anchored to loci in the genome, representing the idea that genetic mutations will affect the shape of the landscape. (Waddington 1957, 29 & 36, reproduced with permission)[^waddington-1957]
+*Figure 4.* Waddington’s developmental landscape (A). Figure B shows the underside of the landscape with points on the surface anchored to loci in the genome, representing the idea that genetic mutations will affect the shape of the landscape. (Waddington 1957, 29 & 36, reproduced with permission)[^waddington-1957]
 
 Notice that Ariew’s proposal hinges on a particular view of Waddington’s metaphor and its cognitive status. Ariew takes this metaphor to provide a mechanistic explanation of developmental invariance. This is the purported benefit of Ariew’s canalization account over the invariance proposal. As he explains, “It is this sense of [environmental] canalization that accounts for the invariance effect that is central to Sober’s account of biological innateness. But better than a mere invariance account, the effect is grounded in a real developmental pathway” (Ariew 2007, 579)[^ariew-2007]. Linquist (2018)[^linquist-2018] raises doubts about this claim. When we think carefully about Waddington’s landscape metaphor, he argues, it is difficult to see how it could be regarded as an actual causal mechanism or even an idealized a model of a mechanism. Instead, most molecular biologists view canalization as a phenomenon to be explained rather than as a mechanism that does any explaining. As Greg Gibson and Günter Wagner note, “There are likely to be many molecular mechanisms involved [in canalization], including genetic redundancy, feedback regulation, and cooperative biochemical interactions” (2000, 373–74). They go on to state that “[t]hese are more phenomenological descriptions, however, than quantitative explanations of buffering.” If these more specific proposals are regarded by developmental biologists as “merely phenomenological descriptions” and thus fall short of explaining canalization, where does this leave Waddington’s broader and less specific landscape metaphor? Linquist’s (2018)[^linquist-2018] contention is that any explanatory insight provided by Waddington’s metaphor is merely apparent. Much like the norm of reaction, this metaphor merely describes the phenomenon of environmental invariance without explaining it.
 

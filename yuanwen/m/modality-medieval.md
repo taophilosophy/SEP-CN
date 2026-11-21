@@ -87,7 +87,7 @@ Modifying Boethius’s systematization of Aristotle’s remarks in *De interpret
 
 ![square](../assets/modality-medieval/square.png)
 
-\*Figure 1.\*
+*Figure 1.*
 
 The square could be taken to refer to modals *de dicto* or singular modals *de re* (see below.) Abelard tried to define the opposed relations between quantified *de re* modals as well, mistakenly thinking that these were the same as those between singular modal propositions (*Glossae super Perihermeneias* XII, 468–471, 530–544). This question was not much discussed before its satisfactory solution in fourteenth-century modal semantics. (See Hughes 1989 and his description of Buridan’s octagon of modal opposites and equipollences.)[^hughes-1989] While *possibile* and *contingens* are treated as synonyms in the figure, it became more usual to associate the former with one-sided possibility (not impossible) and the latter with two-sided possibility (neither necessary nor impossible).
 

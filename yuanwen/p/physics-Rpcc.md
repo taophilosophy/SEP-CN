@@ -29,7 +29,7 @@ It will often be helpful to represent such a common cause structure diagrammatic
 
 ![on the left the word 'time' with an arrow pointing up; on the right the letter C with an arrow pointing from it up and to the left to the letter A and another arrow pointing from C up and to the right to the letter B](../assets/physics-Rpcc/figure1.svg)
 
-\*Figure 1:\* A common cause structure. *C* occurs earlier than *A* and *B*, and *C* is a cause of *A* and *B*.
+*Figure 1:* A common cause structure. *C* occurs earlier than *A* and *B*, and *C* is a cause of *A* and *B*.
 
 RCCP says that probabilistic correlations are ultimately derived from causal relationships. That is, if $p(A\cap B)>p(A)p(B)$, that is either because one of these events causes the other, or else the inequality can be derived from other inequalities $p(A|C) > p(A|\overline{C})$ and $p(B|C) > p(B|\overline{C})$ where *C* is a cause of *A* and *B*. The principle is significant because it posits a connection between causal structure and probabilistic correlations that licenses inferences to causal relationships from empirically observable correlations.
 
@@ -59,7 +59,7 @@ RCCP connects with a number of threads in Reichenbach’s thought. Reichenbach h
 
 ![The letter A with an arrow pointing from it up and to the left to the letter B and another arrow pointing from A up and to the right to the letter S](../assets/physics-Rpcc/figure2.svg)
 
-\*Figure 2:\* The barometer and the storm. $A =$ drop in atmospheric pressure; $B =$ drop in mercury level in barometer; $S =$ storm.
+*Figure 2:* The barometer and the storm. $A =$ drop in atmospheric pressure; $B =$ drop in mercury level in barometer; $S =$ storm.
 
 A drop in the level of mercury in a barometer is frequently followed by a storm. Call these events *B* and *S*, respectively. Since storms in general are not so frequent, these events are probabilistically correlated: $p(B \cap S) > p(B)p(S)$. The behavior of one barometer doesn’t affect the weather, so *B* is not a cause of *S*; rather, *B* and *S* have a common cause: a drop in atmospheric pressure *A* (see Figure 2). *A* increases the probability of both *B* and *S*:
 
@@ -81,7 +81,7 @@ A small theatre troupe travels around the country putting on performances. Occas
 
 ![The letter T with an arrow pointing from it up and to the left to the letter L and another arrow pointing from T up and to the right to the letter M](../assets/physics-Rpcc/figure3.svg)
 
-\*Figure 3:\* The theatre troupe. $T =$ food tainted at restaurant patronized by actors; $L =$ leading lady gets sick; $M =$ leading man gets sick.
+*Figure 3:* The theatre troupe. $T =$ food tainted at restaurant patronized by actors; $L =$ leading lady gets sick; $M =$ leading man gets sick.
 
 Suppose the probabilities are as follows:
 
@@ -115,7 +115,7 @@ The explanation for this correlation is that English and Spanish are descended f
 
 ![The phrase 'PIE[P/F]' with an arrow pointing from it up and to the left to the phrase 'English F' and another arrow pointing up and to the right to the phrase 'Spanish P'](../assets/physics-Rpcc/figure4.svg)
 
-\*Figure 4:\* The descent of words with initial consonant ‘F’ in English and initial consonant ‘P’ in Spanish, from words with initial consonant [P/F] in Proto-Indo-European.
+*Figure 4:* The descent of words with initial consonant ‘F’ in English and initial consonant ‘P’ in Spanish, from words with initial consonant [P/F] in Proto-Indo-European.
 
 Note that the evidence of common descent between the two languages is the *correlation* between the two sounds, rather than any phonetic similarity between them. For example, there is a recognized correlation between the Latin ‘du’ and Armenian ‘erk’, as in ‘duo’/‘erku’ (‘two’). Despite the differences in these sounds, the correlation is evidence of common descent (both are also Indo-European languages).
 
@@ -157,7 +157,7 @@ This follows because $A \cap B = A$ and $p(B) < 1$. While the throw of the dart 
 
 ![Two large circles, the dartboards, one is (a) and the other (b). Dartboard (a), has two concentric circles in it with the inner labeled 'A' and the outer labeled 'B'. Dartboard (b) has two mostly overlapping circles in it with the left one labeled 'A' and the right one 'B'.](../assets/physics-Rpcc/figure5.svg)
 
-\*Figure 5:\* The large circle represents the dart board. Circles A and B are regions of the dartboard. In (a) the region A is entirely contained in the region B. In (b) the regions almost (but not quite) completely overlap.
+*Figure 5:* The large circle represents the dart board. Circles A and B are regions of the dartboard. In (a) the region A is entirely contained in the region B. In (b) the regions almost (but not quite) completely overlap.
 
 David Lewis famously tried to analyze causation in terms of counterfactuals (Lewis 1973)[^lewis-1973]. He recognized that in order for his theory to succeed, he needed to restrict the analysis to counterfactual relations among *distinct* events (see especially Lewis 1986)[^lewis-1986]. For instance, we typed the word “Lewis” near the beginning of this paragraph. If we had not typed the letters L-e-w, then we would not have typed the word “Lewis”. But typing the letters L-e-w did not *cause* us to type “Lewis”. Typing L-e-w was *part* of the act of typing “Lewis”. The events *typing L-e-w* and *typing “Lewis”* are not *distinct* from one another in the right kind of way to stand in causal relations to each other. Lewis’s account of distinctness is somewhat involved, but it specifically excludes relations of logical entailment and spatiotemporal inclusion.
 
@@ -189,7 +189,7 @@ Reichenbach’s *Direction of Time* (1956) was centrally concerned with temporal
 
 ![a diagram: link to extended description below](../assets/physics-Rpcc/figure6.svg)
 
-\*Figure 6:\* (a) Conjunctive fork open to the future. (b) Conjunctive fork open to the past. (c) Closed fork. [An extended description of figure 6 is in the supplement.]
+*Figure 6:* (a) Conjunctive fork open to the future. (b) Conjunctive fork open to the past. (c) Closed fork. [An extended description of figure 6 is in the supplement.]
 
 Analogously, if there is a later event satisfying (2)–(5), but no earlier event, we have a conjunctive fork *open to the past* (Figure 6(b)). If an earlier event *C* and a later event *D* both satisfy (2)–(5), then *ACBD* forms a *closed fork* (Figure 6(c)). Reichenbach claimed that in our world, there are a great many forks open to the future, but few or none open to the past. Moreover, he proposed that the direction from cause to effect could be grounded in this statistical asymmetry.
 
@@ -201,7 +201,7 @@ Reichenbach’s fork asymmetry has been subjected to numerous criticisms. Horwic
 
 ![a diagram: link to extended description below](../assets/physics-Rpcc/figure7.svg)
 
-\*Figure 7:\* $\mathcal{S}$ is the entire state space. Three copies of $\mathcal{S}$ are shown, corresponding to times 0, *t*, and $t^\prime > t$. If the system is in state *s* at time 0, it will be in state $U_t(s)$ at time *t*, and state $U_{t^\prime}(s)$ at time $t^\prime$. The set of states corresponding to event *C* will evolve into $U_t(C)$ and $U_{t^\prime}(C)$. [An extended description of figure 7 is in the supplement.]
+*Figure 7:* $\mathcal{S}$ is the entire state space. Three copies of $\mathcal{S}$ are shown, corresponding to times 0, *t*, and $t^\prime > t$. If the system is in state *s* at time 0, it will be in state $U_t(s)$ at time *t*, and state $U_{t^\prime}(s)$ at time $t^\prime$. The set of states corresponding to event *C* will evolve into $U_t(C)$ and $U_{t^\prime}(C)$. [An extended description of figure 7 is in the supplement.]
 
 Arntzenius (1990)[^arntzenius-1990] points out that the fork asymmetry is highly problematic in the context of classical statistical mechanics within which Reichenbach was working. Let $\mathcal{S}$ be a state-space containing all possible states of a physical system (see Figure 7). The state of a system *s* at a particular time *t* will involve the specification of parameters, such as the positions and momenta of all the particles in the system. The system evolves deterministically, so that for every time time *t*, if the system was in state *s* at time 0, it will be in state $U_t(s)$ at time *t*, where each $U_t$ is a one-one function from $\mathcal{S}$ into itself. An event such as *C* corresponds to a subset of $\mathcal{S}$: the set of states in which *C* occurs. We can then define $U_t(C)$ to be the set of states of the form $U_t(s)$, where $s \in C$.
 
@@ -211,7 +211,7 @@ Suppose that *C* occurs at time 0, and *A* and *B* occur at later time *t*. Supp
 
 ![a diagram: link to extended description below](../assets/physics-Rpcc/figure8.svg)
 
-\*Figure 8:\* Event *D* at time $t^\prime$ results from evolving *C* forward from time 0 to $t^\prime$. It will stand in the same probabilistic relationship to events *A* and *B* at time *t* that *C* did at time 0. [An extended description of figure 8 is in the supplement.]
+*Figure 8:* Event *D* at time $t^\prime$ results from evolving *C* forward from time 0 to $t^\prime$. It will stand in the same probabilistic relationship to events *A* and *B* at time *t* that *C* did at time 0. [An extended description of figure 8 is in the supplement.]
 
 A natural response to this worry is to propose that the earlier set of states *C* will be sufficiently coherent to form a natural event, while the later set of states *D* will be a heterogeneous collection, having nothing in common except for the fact that they all evolved states in *C*. Such a heterogeneous collection of states would not qualify as an *event*—see, e.g., Lewis (1986)[^lewis-1986] for discussion of what qualifies as a genuine event. Hence, there is an earlier event that screens off *A* and *B*, but no later event that does so. However, the framework of statistical mechanics gives us no principled reason for thinking that in all such cases, the earlier screening off event will be coherent enough to be a proper event, while the later screener will not be. Moreover, Arntzenius (1990)[^arntzenius-1990] offers a counterexample to one way of making this proposal precise.
 
@@ -229,7 +229,7 @@ A DAG represents the qualitative causal structure among the set of variables in 
 
 ![a diagram: link to extended description below](../assets/physics-Rpcc/figure9.svg)
 
-\*Figure 9:\* A DAG on the variable set $\{U, V, W, X, Y, Z\}$. $\PA(W) = \{U, V\}$ is the set of parents of *W* and $\ND(W) = \{U, V, X\}$ is the set of non-descendants of *W*. [An extended description of figure 9 is in the supplement.]
+*Figure 9:* A DAG on the variable set $\{U, V, W, X, Y, Z\}$. $\PA(W) = \{U, V\}$ is the set of parents of *W* and $\ND(W) = \{U, V, X\}$ is the set of non-descendants of *W*. [An extended description of figure 9 is in the supplement.]
 
 The Causal Markov Condition connects the graph $\mathcal{G}$ with the probability distribution *p* over the algebra generated by the variables. It says that *p* must exhibit specific relations of conditional probabilistic independence that are implied by the graph. In the special case where $\mathcal{G}$ is a DAG, the following three formulations of the Causal Markov Condition are equivalent:
 

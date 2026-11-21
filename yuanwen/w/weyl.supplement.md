@@ -82,7 +82,7 @@ $$\begin{align} u_{q} - v_{q} &= v^{\,i}_{p} + \delta v^{\,i}_{p} - [v^{\,i}_{p}
 
 ![figure](../assets/weyl/fig16.png)
 
-\*Figure 16:\* Covariant differentiation
+*Figure 16:* Covariant differentiation
 
 The covariant derivative can now be defined by the limiting process
 
@@ -96,7 +96,7 @@ Weyl (1918b, §3.I.B) also provided a more synthetic argument to establish the s
 
 ![figure](../assets/weyl/fig17.png)
 
-\*Figure 17:\* Symmetry of Parallel Transport
+*Figure 17:* Symmetry of Parallel Transport
 
 The condition imposed on parallel transport is that the four vectors $\overline{PP}_{1}$, $\overline{P_{1}P}_{12}$, $\overline{PP}_{2}$ and $\overline{P_{2}P}_{21}$ form a closed parallelogram; that is, the points $P_{12}$ and $P_{21}$ coincide. It follows that
 

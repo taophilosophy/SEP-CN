@@ -145,7 +145,7 @@ which is invariant under rotation of the $x$ and $y$ axes in the plane perpendic
 
 ![Schematic diagram of the experimental set-up, indicating particle pairs emitted at a source, and impinging on analyzers, from which they are deflected into one of two outgoing rays.](../assets/bell-theorem/image1.jpg)
 
-\*Figure 1\* (*reprinted with permission*)
+*Figure 1* (*reprinted with permission*)
 
 Photon pairs are emitted from the source, each pair quantum mechanically described by $\ket{\Phi}$ of Eq. (15). I and II are polarization analyzers, with outcomes $s=1$ and $t=1$ designating emergence in the ordinary ray, while $s = -1$ and $t = -1$ designate emergence in the extraordinary ray. The crystals are also idealized by assuming that no incident photon is absorbed, but each emerges in either the ordinary or the extraordinary ray.
 
@@ -207,7 +207,7 @@ A theory will be said to be locally causal if the probabilities attached to valu
 
 ![Spacetime diagram depicting two regions, labelled 1 and 2, at spacelike separation from each other, and a third region, labelled 3, which is such that any timelike path that goes from the intersection of the past light cones of 1 and 2 to region 1 must go through region 3.](../assets/bell-theorem/image2.jpg)
 
-\*Figure 2\*
+*Figure 2*
 
 In Bell’s terminology, a *beable* is any element of a physical theory that is taken to correspond to something physically real, and *local beables* pertaining to a space-time region are those contained within that region.
 

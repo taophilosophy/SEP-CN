@@ -788,20 +788,29 @@ def figure_to_md(inner, slug):
     out = []
     fl = re.search(r'<span class="figlabel">(.*?)</span>', inner, re.S | re.I)
     cap = inline_to_md(fl.group(1), slug) if fl else ''
+    labels = []
     if fl:
         # 2026-11-14 全量回归（缺陷三）：图注 span 旧式被摘出到块首另行成行，
         # 而原 <p> 里的同一段文字仍留在正文，致图注成对重复（*Figure 3.* 与
         # 其后正文里的 Figure 3.；198 词条 903 处）。改为就地转斜体，按源序
         # 只出现一次；块未保留 span 时下面兜底仍补图注行。
-        inner = re.sub(r'<span class="figlabel">(.*?)</span>',
-                       lambda m: '*%s*' % inline_to_md(m.group(1), slug),
-                       inner, flags=re.S | re.I)
+        # 2026-11-21：注入的定界星不能走后面的 inline_to_md（文本层全转义会
+        # 把它写成 `\*Figure 1:\*` 字面星，B3.2 逐字比对失败，action-perception
+        # 等 204 件判例）——先占位、渲染后还原为真定界星。
+        def _lab(m):
+            labels.append(inline_to_md(m.group(1), slug))
+            return '\x17%d\x17' % (len(labels) - 1)
+
+        inner = re.sub(r'<span class="figlabel">(.*?)</span>', _lab, inner,
+                       flags=re.S | re.I)
     # 图注与其余内容不再丢弃（2026-10-27 数学保真裁定：SEP 常把表格、公式
     # 段落整个包进 <div class="figure">）；图片统一由 inline_to_md 接线
     # （2026-10-28 D15：不再单独挑首图、不再剥除其余 <img>）
     sub = Ctx(slug)
     render_blocks(extract_blocks_raw(inner), sub)
     body = '\n'.join(sub.out).strip()
+    for i, lab in enumerate(labels):
+        body = body.replace('\x17%d\x17' % i, '*%s*' % lab)
     if cap and cap not in body:
         out.append('*%s*' % cap)
     if body:

@@ -30,7 +30,7 @@ Logical positivism affirmed that, given a language $\mathbf{L}$, all *a priori* 
 | Synthetic Sentences | No | Yes |
 | Analytic Sentences | Yes | ? |
 
-\*Figure 1.\* The Empiricist Position
+*Figure 1.* The Empiricist Position
 
 The category for sentences that are analytic and yet represent *a posteriori* knowledge deserves discussion. The empirical study of the use of language within language-using communities by field linguists involves establishing the grammar and the vocabulary employed within each such community. Their empirical research yields theories of the languages, $\mathbf{L}$, used in those communities and affords a basis for distinguishing between which sentences are analytic-in-$\mathbf{L}$ and which are synthetic-in-$\mathbf{L}$. The kind of knowledge they acquire about specific sentences based on empirical procedures thus assumes the form, “Sentence $S$ is analytic-in-$\mathbf{L}$”, when that is true of sentence $S$, which is *a posteriori*.
 
@@ -161,7 +161,7 @@ Hempel implemented the conception of subsumption by presuming that explanations 
 | $C_1, C_2,\ldots C_r$ |   |
 | Conclusion: | $E$ |
 
-\*Figure 2.\* An Explanation Schema
+*Figure 2.* An Explanation Schema
 
 Thus, in relation to Figure 2, $C_1$, $C_2$,…, $C_r$ describe specific conditions (referred to as “initial” or “antecedent”) and $L_1$, $L_2$,…, $L_k$ general laws, where “$E$” describes the event to be explained. The explanation takes the form of an inductive or deductive argument, where the premises are called the “explanans” and the conclusion the “explanandum”.
 
@@ -176,7 +176,7 @@ A potentially even more illuminating comparison emerges from the perspective of 
 | *The Efficient Cause:* | The Initial Conditions | *The Formal Cause* |
 | *The Final Cause:* | The Explanandum |   |
 
-\*Figure 3.\* Hempelian Explanation in Aristotelian Perspective
+*Figure 3.* Hempelian Explanation in Aristotelian Perspective
 
 In the above figure, the use of the dotted line is meant to convey that the analogy applies equally to deductive arguments (which would be represented by a solid line) and inductive arguments (which would be represented by a double line with a probability value attached).
 
@@ -253,7 +253,7 @@ Students of Hempel have found it very difficult to avoid the impression that Hem
 > | $Rc$ |   |
 > | $Bc$ | Explanandum |
 >
-> \*Figure 4.\* A Covering-Law Explanation
+> *Figure 4.* A Covering-Law Explanation
 >
 > … While explanation, prediction, and postdiction are alike in their logical structure, they differ in certain other respects. For example, an argument [like Figure 4 above] will qualify as a prediction only if [its explanandum] refers to an occurrence at a time later than that at which the argument is offered; in the case of postdiction, the event must occur before the presentation of the argument. These differences, however, require no further study here, for the purpose of the preceding discussion was simply to point out the role of general laws in scientific explanation, prediction, and postdiction (Hempel 1958: 37–38)[^hempel-1958].
 
@@ -269,7 +269,7 @@ Insofar as Hempel focused on logically equivalent formulations of lawlike senten
 
 $$ \frac{\begin{gathered} (x)(\neg Bx \supset \neg Rx)\\ \neg Bc \end{gathered}}{\neg Rc} $$
 
-\*Figure 5.\* The Transposition Paradox
+*Figure 5.* The Transposition Paradox
 
 Even if we accept the transposed form of “$(x)(Rx \supset Bx)$” as the basis for an answer to a reason-seeking why-question—in this case, *how we know* *that* $c$ is no raven—Figure 5 surely does not explain *why that is the case*, which presumably has to do with the genes of entity $c$ and its developmental history as a living thing. If logically equivalent forms equally qualify as lawlike—there’s no basis in extensional logic to deny it—then Hempel confronts a dilemma. In fact, by his own conditions of adequacy, this argument is not only explanatory but also predictive. It is *not* a “postdiction” as he has defined it above, but it appears to qualify as a “retrodiction” that does not explain its explanandum event.
 
@@ -277,7 +277,7 @@ Suppose Hempel were to resort to Goodman’s approach and deny that the negation
 
 $$\frac{\begin{gathered} (x)(Rx \supset Bx)\\ \neg Bc \end{gathered}} {\neg Rc} $$
 
-\*Figure 6.\* The Modus Tollens Paradox
+*Figure 6.* The Modus Tollens Paradox
 
 Here we have a more threatening problem, since there is no apparent basis for denying that an argument having this form satisfies Hempel’s criteria and therefore ought to be *both explanatory and predictive*. Similarly for temporally quantified arguments, where the fact that a match of kind $K$ has not lighted at $t^*$ would certainly not be adequate to explain *why it was not struck at t*, even though every match of kind $K$ will light when it is struck, under suitable conditions! Something serious thus appears to be wrong (Fetzer 2000a)[^fetzer-2000a].
 
@@ -326,7 +326,7 @@ Hempel referred to statistical explanations as “inductive-statistical” in co
 | $Fc$ | $[r]$ |
 | $Gc$ |   |
 
-\*Figure 7.\* An I-S Explanation Schema
+*Figure 7.* An I-S Explanation Schema
 
 While Hempel initially interpreted the bracketed variable [$r$] as the measure of inductive support which the explanans confers upon the explanandum, $Gi$, (in conformity with the requirement of total evidence)—where the value of [$r$] equals that of $r$—it occurred to him that, since inductive and deductive explanations are typically offered on the basis of the knowledge that their explanandum events have already occurred, viewing statistical explanations as inductive arguments whose purpose is to establish how we know that they have occurred (or that they will occur) is not the correct perspective for understanding them:
 

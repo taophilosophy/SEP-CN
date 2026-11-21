@@ -161,7 +161,7 @@ Non-deterministic machines are sometimes described as making undetermined ‘cho
 
 ![figure 1](../assets/computational-complexity/fig1.png)
 
-\*Figure 1.\* A potential computation tree $\mathcal{T}^N_{C_0(x)}$ for a non-deterministic Turing machine $N$ starting from the initial configuration $C_0(x)$. Accepting states are labeled $\odot$ and rejecting states $\circ$. Note that although this tree contains an accepting computation sequence of length 4, its maximum depth of 5 still counts towards the determination of $time_N(n) = \max \{\text{depth}(\mathcal{T}^N_{C_0(x)})\ :\ \lvert x\rvert = n$}.
+*Figure 1.* A potential computation tree $\mathcal{T}^N_{C_0(x)}$ for a non-deterministic Turing machine $N$ starting from the initial configuration $C_0(x)$. Accepting states are labeled $\odot$ and rejecting states $\circ$. Note that although this tree contains an accepting computation sequence of length 4, its maximum depth of 5 still counts towards the determination of $time_N(n) = \max \{\text{depth}(\mathcal{T}^N_{C_0(x)})\ :\ \lvert x\rvert = n$}.
 
 The time complexity $t_N(n)$ of a non-deterministic machine $N$ is the maximum of the depths of the computation trees $\mathcal{T}^N_{C_0(x)}$ for all inputs $x$ such that $\lvert x\rvert = n$. Relative to this definition, non-deterministic machines can be used to implement many brute force algorithms in time polynomial in $n$. For instance the $\sc{SAT}$ problem can be solved by a non-deterministic machine which on input *φ* uses part of its tape to non-deterministically construct (or ‘guess’) a string representing a valuation $v$ assigning a truth value to each of *φ*’s $n$ propositional variables and then computes $\llbracket \phi \rrbracket_v$ using the method of truth tables (which is polynomial in $n$). As $\phi \in \sc{SAT}$ just in case a satisfying valuation exists, this is a correct method for deciding $\sc{SAT}$ relative to conventions (i)–(iii) from above. This means that $\sc{SAT}$ can be solved in polynomial time relative to $\mathfrak{N}$.
 
@@ -220,7 +220,7 @@ As we have seen, it is a consequence of Theorem 3.1 that $\textbf{L} \subsetneq 
 
 ![figure 2](../assets/computational-complexity/fig2.png)
 
-\*Figure 2.\* Inclusion relationships among major complexity classes. The only depicted inclusions which are currently known to be proper are $\textbf{L} \subsetneq \textbf{PSPACE}$ and $\textbf{P} \subsetneq \textbf{EXP}$.
+*Figure 2.* Inclusion relationships among major complexity classes. The only depicted inclusions which are currently known to be proper are $\textbf{L} \subsetneq \textbf{PSPACE}$ and $\textbf{P} \subsetneq \textbf{EXP}$.
 
 At the moment, however, this is *all* that is currently known – i.e. although various heuristic arguments can be cited in favor of the properness of the other displayed inclusions, none of them has been proven to hold. Providing unconditional proofs of these claims remains a major unfulfilled goal of complexity theory. For instance, the following is often described as the single most important open question in all of theoretical computer science:
 
@@ -278,7 +278,7 @@ where each $\ell^i_j$ is a *literal* – i.e. $\ell^i_j = p_k$ or $\ell^i_j = \n
 
 ![figure 3](../assets/computational-complexity/fig3.png)
 
-\*Figure 3.\* The graph $G_{\phi}$ for the formula $(p_1 \vee p_2 \vee p_3) \wedge (\neg p_1 \vee p_2 \vee \neg p_3) \wedge (p_1 \vee \neg p_2 \vee \neg p_3)$.
+*Figure 3.* The graph $G_{\phi}$ for the formula $(p_1 \vee p_2 \vee p_3) \wedge (\neg p_1 \vee p_2 \vee \neg p_3) \wedge (p_1 \vee \neg p_2 \vee \neg p_3)$.
 
 A reduction of $3\text{-}\sc{SAT}$ to $\sc{INDEPENDENT}\ \sc{SET}$ can now be described as follows:
 
@@ -349,7 +349,7 @@ It follows immediately from Proposition 3.1 that $\Sigma^P_1 = \textbf{NP}$ and 
 
 ![figure 4](../assets/computational-complexity/fig4.png)
 
-\*Figure 4.\* The Polynomial Hierarchy.
+*Figure 4.* The Polynomial Hierarchy.
 
 To better understand why Open Questions 3a,b) are also expected to be decided positively, it will be useful to further explore the relationship between $\textbf{PSPACE}$ and the characterization of $\textbf{PH}$ in terms of quantifier alternations. To this end, we first show that the problem $\sc{TQBF}$ may be redefined in terms of a game between a player called *Verifier*– who can be thought of as attempting to demonstrate that a QBF-formula *φ* is true – and another player called *Falsifier*– who can be thought of as attempting to demonstrate that *φ* is not true.[^note-29] Supposing that *φ* is of the form $\exists x_1 \forall x_2 \ldots Q_n \psi$, a play of the *verification game* for *φ* is defined as follows:
 
@@ -543,7 +543,7 @@ The problems $\sc{SATISFIABILITY}_{\mathcal{L}}$, $\sc{VALIDITY}_{\mathcal{L}}$,
 | $\textsf{LL}$ |   | $\textbf{RE}$-complete |   |
 | (Lincoln 1995)[^lincoln-1995] |   |   |   |
 
-\*Table 1.\* The complexity of the satisfiability, validity, and model checking problems for some common logics.
+*Table 1.* The complexity of the satisfiability, validity, and model checking problems for some common logics.
 
 ### 4.3 Proof complexity
 
@@ -615,7 +615,7 @@ $$ \sc{PARITY} = \{w \in \{0,1\}^* : w \text{ contains an odd number of 1s}\} $$
 | $\textbf{PSPACE}$ | $\textsf{SO}(\texttt{TC})$ | (Immerman 1987)[^immerman-1987] |
 | $\textbf{EXP}$ | $\textsf{SO}(\texttt{LFP})$ | (Immerman 1999)[^immerman-1999] |
 
-\*Table 2.\* Descriptive characterization of complexity classes.
+*Table 2.* Descriptive characterization of complexity classes.
 
 ### 4.5 Bounded arithmetic
 

@@ -255,7 +255,7 @@ Vardi and the author of this entry later independently proved that P = FO(LFP): 
 
 ![descriptiveWorld](../assets/computability/descriptiveWorld2015.jpg)
 
-\*The World of Computability and Complexity\*
+*The World of Computability and Complexity*
 
 The top right of the diagram shows the recursively enumerable (r.e.) problems; this includes r.e.-complete problems such as the halting problem (Halt). On the left is the set of co-r.e. problems including the co-r.e.-complete problem $\overline{{\rm Halt}}$ -- the set of Turing Machines that never halt on a given input. We mentioned at the end of Section 2.3 that the intersection of the set of r.e problems and the set of co-r.e problems is equal to the set of Recursive problems. The set of Primitive Recursive problems is a strict subset of the Recursive problems.
 

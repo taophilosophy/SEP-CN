@@ -27,19 +27,19 @@ In the literature, “implicit” is used to refer to at least four distinct thi
 
 ![[a black box in the center is the word 'Michelle' in white, on the top left are the words 'Female or [in white] Family [in green]', on the top right are the words 'Male or [in white] Career [in green]']](../assets/implicit-bias/image1.png)
 
-\*Image 1\*
+*Image 1*
 
 ![[a black box in the center is the word 'Michelle' in white, on the top left are the words 'Male or [in white] Family [in green]', on the top right are the words 'Female or [in white] Career [in green]']](../assets/implicit-bias/image2.png)
 
-\*Image 2\*
+*Image 2*
 
 ![[a black box in the center is the word 'Business' in green, on the top left are the words 'Male or [in white] Career [in green]', on the top right are the words 'Female or [in white] Family [in green]']](../assets/implicit-bias/image3.png)
 
-\*Image 3\*
+*Image 3*
 
 ![[a black box in the center is the word 'Business' in green, on the top left are the words 'Male or [in white] Family [in green]', on the top right are the words 'Female or [in white] Career [in green]']](../assets/implicit-bias/image4.png)
 
-\*Image 4\*
+*Image 4*
 
 All images are copyright of [Project Implicit](http://projectimplicit.net/) and reproduced here with permission.
 

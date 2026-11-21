@@ -223,7 +223,7 @@ Finally, the alphabet is used, above all, in the Ternary Period, and it is forme
 
 ![[Almost all the pictures in this article are from manuscripts and the text is not English and not always legible. A large circle divided into 16 parts at the rim, each labeled with a name]](../assets/llull/image001.png)
 
-\*Figure A.\* *Ars compendiosa inveniendi veritatem* XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
+*Figure A.* *Ars compendiosa inveniendi veritatem* XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
 
 The first figure of the *Ars* is Figure A, composed by 16 terms that correspond to the Dignities: Goodness, Wisdom, Glory, Simplicity, Greatness, Will, Perfection, Nobility, Eternity, Virtue, Justice, Mercy, Power, Truth, Generosity, Dominion.
 
@@ -233,7 +233,7 @@ Each one of these combinations would form a compartment, and its set, a table wi
 
 ![[a 15 by 15 table with the upper left half cells containing text]](../assets/llull/image002.png)
 
-\*The Second Figure of A.\* *Ars compendiosa inveniendi veritatem* XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
+*The Second Figure of A.* *Ars compendiosa inveniendi veritatem* XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
 
 The second figure of the *Ars* is called Figure S, where the rational soul is represented, following St. Augustine, as formed by Memory, Intellect, and Will. The representation is, however, not according to the faculties, but to their acts and their combinations.
 
@@ -241,7 +241,7 @@ The acts of the faculties of the soul are found in the compartments of Figure S:
 
 ![[two concentric circles with the rims divided evenly into 16 sectors. The inner circle's sectors are all labelled. Four squares connect connect the sectors (e.g., 1st, 5th, 9th, 13th and 2nd, 6th, 10th, 14th...)]. The points of each square are labelled with a letter](../assets/llull/image003.png)
 
-\*Figure S.\* *Ars compendiosa inveniendi veritatem XV* Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
+*Figure S.* *Ars compendiosa inveniendi veritatem XV* Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
 
 The species not only organize certain acts of the faculties of the soul. Additionally, they also represent certain conducts. Thus, species E, for example, which is formed by the intellect that understands, the memory that remembers, and the will that loves, corresponds to the attitude of someone who affirms a proposition with arguments. I, formed by the intellect that understands, the memory that remembers, and the will that hates, represents the attitude of someone that denies a proposition with arguments.
 
@@ -265,7 +265,7 @@ Figure T is crucial because it is used to build solutions through its combinatio
 
 ![[3 concentric circles with the rims divided into 15 even sectors. 5 equilateral triangles each a different color connect the sectors. Sectors and points of the triangles are labelled.]](../assets/llull/image004.png)
 
-\*Figure T.\* *Ars compendiosa inveniendi veritatem* XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
+*Figure T.* *Ars compendiosa inveniendi veritatem* XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
 
 #### 5.2.2 Figure V
 
@@ -275,7 +275,7 @@ The figure reflects Llull’s ethical ideas. The system is based on the antithes
 
 ![[a circle divided on the rim into 14 sectors with the sectors labelled alternatively in red and black ink. The red sectors are all connected by lines as are the black sectors.]](../assets/llull/image005.png)
 
-\*Figure V.\* *Ars compendiosa inveniendi veritatem* XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
+*Figure V.* *Ars compendiosa inveniendi veritatem* XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
 
 #### 5.2.3 Figures X, Y and Z
 
@@ -283,13 +283,13 @@ Figure X, or “Figure of Opposites” or “Figure of contraries and concordanc
 
 ![[a circle divided on the rim into 8 labelled sectors. A square for the even sectors and another the odd sectors. The points of the squares are labelled.]](../assets/llull/image006.png)
 
-\*Figure X.\* *Ars compendiosa inveniendi veritatem* XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
+*Figure X.* *Ars compendiosa inveniendi veritatem* XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
 
 Finally, Figures Y and Z are formed by only one concept: Truth Y and Falsehood Z. The *Ars* leads to these two directions, represented by the two concepts: towards the definition of the truth or falsehood of certain propositions.
 
 ![[two disjoint circles, one labelled Y and veritas and one Z and falsitas(?)]](../assets/llull/image007.png)
 
-\*Figure Y and Figure Z.\* *Ars compendiosa inveniendi veritatem* XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
+*Figure Y and Figure Z.* *Ars compendiosa inveniendi veritatem* XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
 
 ### 5.3 The Application of the *Ars*
 
@@ -305,13 +305,13 @@ In *Ars demostrativa* (1283), Llull introduces two important variations. The fir
 
 ![[four tables of 4 by 4 cells. The tables are labeled Figura Ignis, Figura Aëris, Figura Aquae, and Figura Terrae]](../assets/llull/image008.png)
 
-\*Figura Elementalis.\* *Ars demostrativa*. *Beati Raymundi Lulli Opera*, ed. Ivo Salzinger i Franz Philipp Wolff, III (Magúncia: Häffner, 1722. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
+*Figura Elementalis.* *Ars demostrativa*. *Beati Raymundi Lulli Opera*, ed. Ivo Salzinger i Franz Philipp Wolff, III (Magúncia: Häffner, 1722. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
 
 Nevertheless, the introduction of the Demonstrative Figure in *Ars demostrativa* is particularly meaningful, for it synthesizes the other figures and makes their relationship dynamic. The Demonstrative Figure is formed by six circles, and it includes a mechanism that allows the circles to rotate. At the center, Llull places a triangle, as those found in Figure T. The first two circles correspond to the Elemental Figure, the following two, with seven letters, represent Figures A, S, T, V, X, Y, Z. The last two circles have the letters B–R that are the terms of Figure S, but Figures A, T, V, X as well, and other two figures, the Principles of Theology and the Principles of Philosophy, which are introduced when the operation of the Art is extended to both fields.
 
 ![[line drawing, 7 concentric circles. The innermost circumscribes an equaliteral triangle. The second is divided on the rim into four sectors labelled: Ignis, Terra, Aqua, and Aer. The third is also divided into 4 with the same labels as the second. The fourth is divided into 7 sectors labelled: A, Z, Y, X, V, T, S. The fifth is also divided into 7 with the same labels as the fourth. The sixth is divided into 16 sectors labelled: F, E, D, C, B, R, Q, P, O, N, M, L, K, I, H, G. The seventh is also divided into 16 with the same labels as the sixth.]](../assets/llull/image009.png)
 
-\*Demonstrative Figure\*
+*Demonstrative Figure*
 
 The importance of the Demonstrative Figure resides in its being a step towards the universalization of the *Ars*, for it initiates a process of greater abstraction of the principles. Even though the terms used in the original figures are kept, they, as well as the figures themselves, have been substituted for letters. At the same time, it is a figure that rotates, which evidently shows the combining character of the *Ars.* Finally, it opens up the *Ars* beyond its own principles, to be used in other fields, such as theology, philosophy, and law.
 
@@ -345,7 +345,7 @@ The First Figure is formed by a sole circle of nine elements, whose letters corr
 
 ![[This is a figure from an illustrated manuscript. A circle divided into 9 even sectors each labelled with a letter and word.]](../assets/llull/image010.png)
 
-\*First Figure.\* *Ars brevis* XVIII Century. Palma de Mallorca BP MS998. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
+*First Figure.* *Ars brevis* XVIII Century. Palma de Mallorca BP MS998. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
 
 #### 5.6.2 The Second Figure
 
@@ -357,7 +357,7 @@ Bonner (2007)[^bonner-2007] has argued that in this section Llull introduces the
 
 ![[A circle divided into 9 with each sector labeled by a letter and three phrases. The sectors are connected by three equilateral triangles, the points of each are also labelled.]](../assets/llull/image011.png)
 
-\*Second Figure.\* *Ars brevis* XVIII Century. Palma de Mallorca BP MS998. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
+*Second Figure.* *Ars brevis* XVIII Century. Palma de Mallorca BP MS998. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
 
 #### 5.6.3 The Third and Fourth Figure
 
@@ -365,11 +365,11 @@ The Third and Fourth Figure of the new formulation of the Art have a similar fun
 
 ![[An 8 by 8 table with the upper left cells labelled. The lower right has running text.]](../assets/llull/image012.png)
 
-\*Third Figure.\* *Ars brevis* XVIII Century. Palma de Mallorca BP MS998. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
+*Third Figure.* *Ars brevis* XVIII Century. Palma de Mallorca BP MS998. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
 
 ![[Three concentric circles. The innermost one divided into 9 sectors labelled: B, C, D, E, F, G, H, I, K. The middle also into 9 sectors with the same labels. The outermost also into 9 sectors.]](../assets/llull/image013.png)
 
-\*Fourth Figure.\* *Ars brevis* XVIII Century. Palma de Mallorca BP MS998. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
+*Fourth Figure.* *Ars brevis* XVIII Century. Palma de Mallorca BP MS998. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
 
 Unlike the two first figures, whose letters refer to the terms of the first and second signification given in the alphabet, in the Third and Fourth Figures the letters can be substituted by any of the six meanings presented in the alphabet. For example, the combination BC can mean “goodness is great”—the terms are taken from the first meaning of the alphabet—but it can also mean “difference is great”, when the first term is taken from the second meaning, and the second term is taken from the first meaning. Likewise, its sense can be “goodness is concordant”, when the first term is taken from the first meaning, and the second term is taken from the second meaning. Some authors use capital letters when the first sense is used and lowercase letters when the second sense is used to facilitate the understanding and use of the Art. Thus, the given examples could be expressed as BC, bC, Bc.
 
@@ -377,7 +377,7 @@ Llull introduces a table, originated from the Fourth Figure, in which all the co
 
 ![[table from a manuscript. not very legible.]](../assets/llull/image014.png)
 
-\*Table of the Fourth Figure (fragment).\* *Ars brevis* XVIII Century. Palma de Mallorca BP MS998. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
+*Table of the Fourth Figure (fragment).* *Ars brevis* XVIII Century. Palma de Mallorca BP MS998. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.
 
 In this table, the letter T is introduced with a syntactic function to state what terms are taken from the first meaning and which are taken from the second. The rule is that the letters found before letter T use the first of the meanings of the alphabet, and the ones found after, the second.
 

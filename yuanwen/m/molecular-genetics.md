@@ -35,7 +35,7 @@ The first stage accounts for the transmission of genes and goes as follows (Figu
 | offspring genotype | + / *pr* |   |   |
 | offspring phenotype | red eyes |   |   |
 
-\*Figure 1.\* Cross of true breeding red-eyed females and purple-eyed males
+*Figure 1.* Cross of true breeding red-eyed females and purple-eyed males
 
 Notice that the reasoning here does not depend on identifying the material make-up, mode of action, or general function of the underlying gene. It depends only on the ideas that copies of the gene are distributed from generation to generation and that the difference in the gene (i.e., the difference between *pr* and *+*), whatever this difference is, causes the phenotypic difference. The idea that the gene is the difference maker needs to be qualified: differences in the gene cause phenotypic differences in particular genetic and environmental contexts. This idea is so crucial and so often overlooked that it merits articulation as a principle (Waters 1994)[^waters-1994]:
 

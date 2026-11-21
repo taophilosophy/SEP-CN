@@ -224,7 +224,7 @@ In particular, in the pointed model $(M,w)$ pictured in Figure 1, the formula $\
 
 *M*
 
-\*Figure 1:\* The pointed Kripke model $(M,w)$.
+*Figure 1:* The pointed Kripke model $(M,w)$.
 
 However, the formula $[p!]\lnot[\{a,b\}*][a]p$ is false at $(M,w)$ because, after the announcement of *p*, the model $M[p!]$ pictured in Figure 2 obtains, and all worlds in this model are $[a]p$-worlds. In fact, whenever *p* is true, the formula $[p!]\lnot[\{a,b\}*][a]p$ is *always* false: after the announcement of *p*, all that remains are *p*-worlds, and therefore every world is an $[a]p$-world.
 
@@ -232,7 +232,7 @@ However, the formula $[p!]\lnot[\{a,b\}*][a]p$ is false at $(M,w)$ because, afte
 
 $M[p!]$
 
-\*Figure 2:\* The pointed Kripke model $(M[p!],w)$.
+*Figure 2:* The pointed Kripke model $(M[p!],w)$.
 
 The axiomatic theories of relativized common knowledge with and without public announcements along with expressivity results for the corresponding languages are detailed in [Appendix F](dynamic-epistemic.appendix-F-RCK.md).
 
@@ -293,7 +293,7 @@ To begin, let us consider a specific example of a more complex communicative act
 
 $\Pri_a(p)$
 
-\*Figure 3:\* The pointed action model $(\Pri_a(p),e)$ for the completely private announcement of *p* to agent *a*.
+*Figure 3:* The pointed action model $(\Pri_a(p),e)$ for the completely private announcement of *p* to agent *a*.
 
 In the figure, our two events *e* and *f* are pictured as rectangles (to distinguish these from the circled worlds of a Kripke model). The formula appearing inside an event’s rectangle is what is announced when the event occurs. So event *e* represents the announcement of *p*, and event *f* represents the announcement of $\top$. The event that actually occurs, called the “point”, is indicated using a double rectangle; in this case, the point is *e*. The only event that *a* considers possible is *e* because the only *a*-arrow leaving *e* loops right back to *e*. But all of the agents in our agent set $\sA$ other than *a* mistakenly consider the alternative event *f* as the only possibility: all non–*a*-arrows leaving *e* point to *f*. Furthermore, from the perspective of event *f*, it is common knowledge that event *f* (and its announcement of $\top$) is the only event that occurs: every agent has exactly one arrow leaving *f* and this arrow loops right back to *f*. Accordingly, the structure pictured above describes the following action: *p* is to be announced, agent *a* is to know this, and all other agents are to mistakenly believe it is common knowledge that $\top$ is announced. Structures like those pictured in Figure 3 are called *action models*.
 
@@ -350,7 +350,7 @@ We saw the example of a completely private announcement in Figure 3, a complex a
 
 $\Pub(p)$
 
-\*Figure 4:\* The pointed action model $(\Pub(p),e)$ for the public announcement of *p*.
+*Figure 4:* The pointed action model $(\Pub(p),e)$ for the public announcement of *p*.
 
 It is not difficult to see that $\Pub(p)$ is just what we want: event *e* conveys the desired announcement and the reflexive arrows for each agent make it so that this event is common knowledge. It is important to note that in virtue of the fact that we can construct an action model for public announcements, it follows that action models are a generalization of public announcements.
 
@@ -360,7 +360,7 @@ We now turn to a more complicated action: the semi-private announcement of *p* t
 
 $\frac12\Pri_a(p)$
 
-\*Figure 5:\* The pointed action model $(\frac12\Pri_a(p),e)$ for the semi-private announcement of *p* to agent *a*.
+*Figure 5:* The pointed action model $(\frac12\Pri_a(p),e)$ for the semi-private announcement of *p* to agent *a*.
 
 We see that $\frac12\Pri_a(p)$ satisfies just what we want: the actual event that occurs is the point *e* (the announcement of the precondition *p*), agent *a* knows this, but all other agents consider it possible that either *e* (the announcement of *p*) or *f* (the announcement of $\lnot p$) occurred. Furthermore, the other agents know that *a* knows which event was the case (since at each of the events *e* and *f* that they consider possible, agent *a* knows the event that occurs). This is just what we want of a semi-private announcement.
 
@@ -376,7 +376,7 @@ Since the other agents are to believe that the above action occurs, they should 
 
 $\MPri_a(p)$
 
-\*Figure 6:\* The pointed action model $(\MPri_a(p),g)$ for the misleading private announcement of *p* to agent *a*.
+*Figure 6:* The pointed action model $(\MPri_a(p),g)$ for the misleading private announcement of *p* to agent *a*.
 
 Looking at $\MPri_a(p)$, we see that if we were to to delete event *g* (and all arrows to and from *g*), then we would obtain $\Pri_a(\lnot p)$. So events *e* and *f* in $\MPri_a(p)$ play the role of representing the “misdirection” the non-*a* agents experience: the private announcement of $\lnot p$ to agent *a*. However, it is event *g* that actually occurs: this event conveys to *a* that *p* is true while misleading the other agents into believing that it is event *e*, the event corresponding to the private announcement of $\lnot p$ to *a*, that occurs. In sum, *a* receives the information that *p* is true while the other agents are mislead into believing that *a* received the private announcement of $\lnot p$. One consequence of this is that non-*a* agents come to hold the following beliefs: $\lnot p$ is true, agent *a* knows this, and agent *a* believes the others believe that no new propositional information was provided. These beliefs are all incorrect. The non-*a* agents are therefore highly mislead.
 
@@ -558,7 +558,7 @@ To see how all of this works, let us consider a simple example scenario in which
 
 *N*
 
-\*Figure 8:\* The pointed plausibility model $(N,w_1)$.
+*Figure 8:* The pointed plausibility model $(N,w_1)$.
 
 It is easy to see that the pointed plausibility model $(N,w_1)$ clearly satisfies the property of local connectedness, so this is an allowable picture. To see that this picture reasonably represents the above-describe example scenario, first notice that we have one world for each of the four possible truth assignments to the two letters *p* and *q*. At the actual world $w_1$, the letter *p* is false and the letter *q* is true. Agent *a* considers each of the four worlds to be informationally equivalent (since she does not know with certainty which world is the actual one); however, she considers the *p*-worlds to be strictly more plausible than the $\lnot p$-worlds. This represents her belief that *p* is true: each of the worlds she considers to be most plausible overall satisfies *p*. Further, if she is told that *p* is in fact false, she will restrict her attention to the next-most-plausible $\lnot p$-worlds, thereby statically revising her belief. It is in this sense that she trusts *b* (and so believes *p* is true) but does not completely rule out the possibility that he is incorrect or deceptive. Since *a* has no information about *q*, each of her spheres—the inner *p*-sphere and the outer $\lnot p$-sphere—contains both a world at which *q* is true and a world at which *q* is false.
 
@@ -680,7 +680,7 @@ As expected, the main difference between plausibility action models and basic ac
 
 $\rPub_G(q)$
 
-\*Figure 9:\* The pointed plausibility action model $(\rPub(q),e)$ for the revisable public announcement of *q* (also called the “lexicographic upgrade by *q*” by van Benthem 2007)[^benthem-2007][^benthem-2007-2][^benthem-2007-3].
+*Figure 9:* The pointed plausibility action model $(\rPub(q),e)$ for the revisable public announcement of *q* (also called the “lexicographic upgrade by *q*” by van Benthem 2007)[^benthem-2007][^benthem-2007-2][^benthem-2007-3].
 
 Figure 9 depicts $(\rPub(q),e)$, a pointed plausibility action model consisting of two events: the event *f* in which $\lnot q$ is announced and the event *e* in which *q* is announced. Event *e* is the event that actually occurs. For each agent *a* (coming from the full set of agents $\sA$), event *e* is strictly more plausible. We adopt the same drawing conventions for plausibility action models that we did for plausibility models: one- and two-way arrows, reflexive and transitive closures, and the requirement of local connectedness. (Well-foundedness follows because the set *E* of events is finite.) Accordingly, Figure 9 implicitly contains reflexive dashed arrows for each agent at each event.
 
@@ -712,7 +712,7 @@ In addition to the revisable public announcement (Figure 9), there are a number 
 
 $\rPri_G(q)$
 
-\*Figure 11:\* The pointed plausibility action model $(\rPri_G(q),e)$ for the private announcement of *q* to the group of agents *G*.
+*Figure 11:* The pointed plausibility action model $(\rPri_G(q),e)$ for the private announcement of *q* to the group of agents *G*.
 
 Figure 11 depicts the private announcement of *q* to a group of agents *G*. This consists of two events: the event *e* in which *q* is announced and the event *f* in which the propositional constant for truth $\top$ is announced. For agents outside the group *G*, the most plausible event is the one in which the $\top$ is announced; for agents in the group, the most plausible event is the one in which *q* is announced. In reality, the announcement of *q* (i.e., event *e*) occurs. Since the propositional constant for truth $\top$ is uninformative, the agents outside of *G* will come to believe that the situation is as it was before. The agents inside *G*, however, will come to believe *q*.
 

@@ -488,7 +488,7 @@ In the previous section, we saw that recent semantic work has argued that disjun
 
 (b) inquisitive
 
-\*Figure 1.\* $(p \vee q)$ in classical logic and in inquisitive logic.
+*Figure 1.* $(p \vee q)$ in classical logic and in inquisitive logic.
 
 ### 7.1 Inquisitive semantics
 

@@ -210,7 +210,7 @@ Many of those engaged in this debate focus on cases such as the edges in Kaniza�
 
 ![[three solid black circles arranged in an equilateral triangle each with 60 degree sector cut out so that if edges of the sectors were lines and extended an equilateral triangle would be formed. Three pairs of lines also exist where if the lines were extended another equilateral triangle would exist.]](../assets/idiolects/Kanizsa_triangle.svg)
 
-\*Figure 1.\* Kanizsa’s Triange (from [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=1788215), by User:Fibonacci)
+*Figure 1.* Kanizsa’s Triange (from [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=1788215), by User:Fibonacci)
 
 ### 3.3 Second Response to the I-language Perspective: Psycholinguistics
 

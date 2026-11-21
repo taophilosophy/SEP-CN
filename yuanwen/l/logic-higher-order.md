@@ -131,7 +131,7 @@ where each $Q_i$ is either $\exists$ or $\forall$ and *φ* is first order. That 
 | $\Delta^1_2$ | Both $\Sigma^1_2$ and $\Pi^1_2$ formulas |
 | $\vdots$ | $\vdots$ |
 
-\*Table 1:\* The hierarchy of second-order formulas.
+*Table 1:* The hierarchy of second-order formulas.
 
 By restricting what kind of quantifiers the sequence $Q_1X_1\ldots Q_nX_n$ of the Prenex Normal Form (\\ref{qqq}) can contain we obtain the classes of $\Sigma^1_n$-, $\Pi^1_n$- and $\Delta^1_n$-formulas, as indicated in Table 1. For example, the second-order formulas (1) and (2) are $\Pi^1_1$-formulas.
 

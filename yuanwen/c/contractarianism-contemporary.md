@@ -166,7 +166,7 @@ Let 3 be the best outcome, and let 1 be the worst in each person’s ranking (Al
 | BETTY | *Hunt Stag* | 3,3 | 2,1 |
 | *Hunt Hare* | 1,2 | 2,2 |   |
 
-\*Figure 1:\* A Stag Hunt
+*Figure 1:* A Stag Hunt
 
 The Stag Hunt, Skyrms argues, “should be a focal point for social contract theory” (2004, 4). The issue in the Stag Hunt is not whether we fight or not, but whether we cooperate and gain, or each go our separate ways. There are two Nash equilibria in this game: both hunting stag and both hunting hare. Alf and Betty, should they find themselves at one of these equilibria, will stick to it if each consults only his or her own ranking of options. In a Nash equilibrium, no individual has a reason to defect. Of course, the contract in which they both hunt stag is a better contract: it is Pareto superior to that in which they both hunt hare. The Hare equilibrium is, however, risk superior in that it is a safer bet. Skyrms argues that the theory of iterated games can show not simply that our parties will arrive at a social contract, but how they can come to arrive at the cooperative, mutually beneficial contract. If we have a chance to play repeated games, Skyrms holds, we can learn from Hume about the “shadow of the future”: “I learn to do a service to another, without bearing him any real kindness; because I foresee, that he will return my service, in expectation of another of the same kind, and in order to maintain the same correspondence of good offices with me and with others” (Skyrms 2004, 5)[^skyrms-2004]. Sugden, along different lines, also suggests that repeated interactions, what he calls “experience” is essential to the determination of which norms of social interaction actually hold over time (1986).
 

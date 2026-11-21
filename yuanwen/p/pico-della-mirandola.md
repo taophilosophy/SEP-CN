@@ -128,7 +128,7 @@ Books of Kabbalah were being read by the twelfth century, but Christians knew al
 
 ![link to extended description below](../assets/pico-della-mirandola/sefirot.svg)
 
-\*Figure 1:\* *Sefirot* in the Standard Array. [An extended description of figure 1 is in the supplement.]
+*Figure 1:* *Sefirot* in the Standard Array. [An extended description of figure 1 is in the supplement.]
 
 The Bible’s Hebrew text was God’s speech, infinite in meaning. Kabbalists took their bearings even from its smallest particles—not only the sacred words but also their letters (which were also numbers) and even the shapes of letters. God’s names were the most potent words; the holiest of them, the Tetragrammaton, could not be spoken. Written as יהוה (yhwh), the unutterable Name was read aloud as *Adonai*, a speakable name like *Elohim*, *Ehyeh*, *El Shaddai*, and others used of God in the Hebrew Bible. Names of the *sefirot*, unknown as such to scripture, were also words of power. They were names not of God, however, but of God’s manifestations, some more remote than others.
 

@@ -25,7 +25,7 @@ Emphasizing multiple targets and species thus explains what is epistemically dis
 
 ![A large ellipse, drawn with a solid line, labelled 'Experimental Organisms'; inside the large ellipse, on the left is the label 'Non-Models', to the right there is a smaller ellipse, drawn with a dashed line; inside the small ellipse is the label 'Models'; there is a gradient from white to black going from left to right within the small ellipse; on the left is the word 'minimal', on the right is the word 'complex'.](../assets/model-organisms/organisms-figure.jpeg)
 
-\*Figure 1.\* Experimental Organisms and Model Organisms
+*Figure 1.* Experimental Organisms and Model Organisms
 
 Experimental organisms are divided into those that are not used as models and those that are. The boundary between models and non-models is represented as permeable because an organism can serve as a model at one point in time and as non-model at some other point in time depending on its research context. Among model organisms, some meet only minimal criteria for use as a model, while others meet more complex criteria involving a wider array of targets and a wider scope which in turn require, for instance, standardization and the development of community resources that support its use as a model. This is represented as a gradient of complexity for model organism criteria.
 
@@ -137,7 +137,7 @@ Each model organism has its own unique repertoire, even if they share some commo
 | *Intellectual property regime* | Free or otherwise well-regulated exchange of materials, techniques, and data |
 | *Institutional buy-in* | Existence of institutions willing to invest in model organism research |
 
-\*Table 1a,b,c.\* Components of the Model Organisms Repertoire (After Ankeny and Leonelli 2020, 43–44)[^ankeny-2020].
+*Table 1a,b,c.* Components of the Model Organisms Repertoire (After Ankeny and Leonelli 2020, 43–44)[^ankeny-2020].
 
 ## 4. The Multi-faceted Justification of Organism Choice
 
@@ -171,7 +171,7 @@ This mix of practical and biological reasons for organism choice is very common 
 | (D) Economies | (13) Institutional Support (14) Financial Considerations (15) Community Support (16) Affective and Cultural Attributes |
 | (E) Promise | (17) Commercial and Other Applications (18) Comparative Potential (19) Translational Potential (20) Novelty |
 
-\*Table 2.\* Criteria for Organismal Choice (From Dietrich et al. 2020)[^dietrich-2020]
+*Table 2.* Criteria for Organismal Choice (From Dietrich et al. 2020)[^dietrich-2020]
 
 While these criteria were proposed as generally applicable to all organism choices, the decision to use a model organism is often justified by invoking a narrower set of similar features. For instance, according to Hans-Jörg Rheinberger, “the operative criteria for selection of a model organism are the ease with which it can be maintained and handled, the quantity and quality of the knowledge already accumulated about it, and the ease of access to the phenomenon under investigation” (Rheinberger 2010, 7)[^rheinberger-2010]. Love and Yoshida (2026) further another perspective from evolutionary developmental biology, where model species are chosen to balance experimental tractability with the ability to integrate developmental conservation and evolutionary change, highlighting how organism choice can serve both practical and theoretical aims. Ankeny and Leonelli provide a more extensive set of criteria that include ease of breeding and maintenance in the laboratory, standardization of the organism, accumulation of resources including database infrastructures, conferences, training workshops, and systems for the distribution of organismal stocks. These last kinds of features are important to them because they argue that one of the aims of model organism research includes the creation of “a platform for interdisciplinary integration across biological disciplines and a reference point for comparative research across species” (Ankeny and Leonelli 2020, 3)[^ankeny-2020]. Ease of phenomenal access is included in Ankeny and Leonelli’s account when they speak of the recognized usefulness of model organisms as tool for biological research. Of course, they also require that a model organism be capable of being applied to a broad set of representational targets.
 

@@ -15,7 +15,7 @@ Qualia (singular ‘quale’), in a common modern usage, are properties of exper
 
 ![figure 1](../assets/qualia-inverted/figure1.gif)
 
-\*Figure 1:\* vermilion, crimson, and turquoise patches
+*Figure 1:* vermilion, crimson, and turquoise patches
 
 Three experiences of the imagined sort differ in their phenomenology, or in “what it’s like” to undergo them. What it’s like to see the crimson patch is not the same as what it’s like to see the turquoise patch, for example. Further—assuming you have normal color vision—seeing the crimson patch is more similar, in phenomenological respects, to seeing the vermilion patch than it is to seeing the turquoise patch.
 
@@ -47,19 +47,19 @@ Consider the hue circle in figure 2, taken from the Natural Color System color s
 
 ![figure 2](../assets/qualia-inverted/figure2.gif)
 
-\*Figure 2:\* NCS hue circle[^note-9]
+*Figure 2:* NCS hue circle[^note-9]
 
 Let $I$ be the function that takes each shade to its opposing shade, thus rotating the hue circle 180°. $I$ maps reds to greens, blues to yellows, bluish-greens to yellowish-reds, and so on (see figure 3).
 
 ![figure 3](../assets/qualia-inverted/figure3.gif)
 
-\*Figure 3:\* the function $I$
+*Figure 3:* the function $I$
 
 Introduce another perceiver, Invert (you are Nonvert). Imagine you are looking at scene $S$: an arrangement of some fruits (see the left-hand part of figure 4). Now take the apparent hues of objects in $S$, and transform them using the function $I$. Use this transformation to create a new scene $S_{I}$, exactly like the old scene $S$ except that it looks to have differently colored “inverted” fruits (etc.). That is, if a banana originally looks to have hue $h$, in $S_{I}$ it looks to have hue *I*(*h*). (See the right-hand part of figure 4; notice that the greens in $S$ are rather yellowish, and hence get mapped to bluish-reds.) Then one simple inverted qualia scenario is this: what it’s like for Invert to look at $S$ is exactly the same as what it’s like for Nonvert (i.e., you) to look at $S_{I}$, and similarly for all other scenes that Invert encounters. According to this scenario, if you look at the right-hand part of figure 4, your experience is phenomenologically the same as Invert’s experience when she looks at the left-hand part of figure 4. In qualia terminology: if an object $O_{1}$ looks to have hue $h$ to Nonvert (with $Q$ being the corresponding quale of her experience), and $O_{2}$ looks to have hue *I*(*h*) (with corresponding quale $Q^*$), then Invert’s experience of $O_{1}$ has quale $Q^*$ and her experience of $O_{2}$ has quale $Q$. In this sense Invert’s qualia are ‘inverted’ with respect to Nonvert’s.
 
 ![figure 4](../assets/qualia-inverted/figure4.gif)
 
-\*Figure 4:\* 180° hue inversion
+*Figure 4:* 180° hue inversion
 
 Because the example concerns color qualia, this sort of inverted qualia scenario is usually described as a case of “spectrum inversion”. (Note that the 180° inversion takes unique hues to unique hues, and binary hues to binary hues. An inversion scenario produced by a rotation of 45° would take the unique hue red to the binary hue orange; and so presumably would be behaviorally detectable: see subsection 2.3.1 below.)
 
@@ -81,7 +81,7 @@ If we assume that Invert is otherwise like a normal human perceiver, then a majo
 
 ![figure 5](../assets/qualia-inverted/figure5.gif)
 
-\*Figure 5:\* 3D color space: the Munsell color solid[^note-15]
+*Figure 5:* 3D color space: the Munsell color solid[^note-15]
 
 The lightness dimension corresponds to the central vertical axis, with white at the top. The hue and saturation dimensions correspond, respectively, to the angle around the vertical axis, and to the distance from it. Thus the shades of maximum saturation are on the outside of the solid. Notice that the yellows have their maximum saturation at higher levels of lightness than the reds and the blues. So, assuming that Invert’s judgments of the relations between colors are—modulo the inversion—normal, a possible Lockean 180° hue rotation scenario would be behaviorally detectable. Invert would judge the maximally saturated colors she calls ‘shades of blue’ to be lighter than the maximally saturated colors she calls ‘shades of yellow’. Further, there are more distinguishable hue steps between blue and red than there are between yellow and green—a fact that is reflected in the Munsell space, whose hue circle has five hues equally spaced: red, yellow, green, blue, purple. (Contrast the NCS space mentioned in the previous subsection.) Hence the Lockean inversion function $I$, assuming it is defined on all hues, would map some distinct hues (in particular, some bluish reds) to the same hue (in particular, the same yellowish green). The range of $I$ would therefore contain fewer hues than its domain. Invert would not be able to distinguish some stimuli (those she calls ‘bluish red’) that Nonvert could tell apart, and so again the inversion would be behaviorally detectable.
 
@@ -95,7 +95,7 @@ Suppose we stay with the full range of normal human color experience, and so wit
 
 ![figure 6](../assets/qualia-inverted/figure6.gif)
 
-\*Figure 6:\* three inversions: red-green (top right); blue-yellow/black-white (bottom left); red-green/blue-yellow/black-white (bottom right)
+*Figure 6:* three inversions: red-green (top right); blue-yellow/black-white (bottom left); red-green/blue-yellow/black-white (bottom right)
 
 As noted in the previous subsection, there are more perceptually distinguishable shades between red and blue than there are between green and yellow, which would make red-green inversion behaviorally detectable.[^note-16] And there are yet further asymmetries. Dark yellow is brown (qualitatively different from yellow), whereas dark blue is blue (see figure 6). Similarly, desaturated bluish-red is pink (qualitatively different from saturated bluish-red), whereas desaturated greenish-yellow is similar to saturated greenish-yellow. Again, red is a “warm” color, whereas blue is “cool”—and perhaps this is not a matter of learned associations with temperature (see Hardin 1997, 297–7). In any event, there is clearly scope to resist the claim that one of Palmer’s three inversions would be behaviorally undetectable.[^note-17]
 
@@ -153,7 +153,7 @@ The shifted qualia scenario that is usually discussed concerns—unsurprisingly�
 
 ![figure 7](../assets/qualia-inverted/figure7.gif)
 
-\*Figure 7:\* five patches: yellowish-green to bluish-green
+*Figure 7:* five patches: yellowish-green to bluish-green
 
 Notice that if a behaviorally undetectable scenario is wanted, an actual case of shifted spectra will not fit the bill.
 

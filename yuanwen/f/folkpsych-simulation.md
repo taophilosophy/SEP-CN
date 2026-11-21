@@ -137,7 +137,7 @@ To sum up, RES+REU captures many of the crucial features that Simulation Theoris
 
 ![[a diagram consisting of a hexagon labelled 'C' with an arrow labeled 'use' pointing to a diamond labeled 'P' on the upper left, an arrow points from this diamond up to a rectangle labeled 'M'. From the hexagon is also an arrow labeled 're-use' pointing to a diamond labeled 'P*' on the upper right, an arrow points from this diamond up to a rectangle labeled 'M*'. The two rectangles are connected by a dashed double-headed arrow labeled 'resemblance']](../assets/folkpsych-simulation/figure1.svg)
 
-\*Figure 1\*
+*Figure 1*
 
 The hexagon at the bottom depicts a cognitive mechanism *C* (it could be, say, the visual mechanism). When *C* is used (arrow on the left), it implements cognitive process *P* (say, seeing); when it is re-used (arrow on the right), it implements cognitive process *P*\* (say, visualizing). *P* generates mental state *M* (say, a visual experience of a red tomato), while *P*\* generates mental state *M*\* (say, a visual image of a red tomato). These two mental states (*M* and *M*\*) resemble one another. Given this: *M*\* is a *mental simulation of* *M*; *M*\* is a *simulated mental state*; and *P*\* is a *simulation process*.[^note-3]
 

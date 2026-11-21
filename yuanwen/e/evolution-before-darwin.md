@@ -181,7 +181,7 @@ The complex arrangement and ordering of groups envisioned by Lamarck was a branc
 
 ![a diagram: link to extended description below](../assets/evolution-before-darwin/lamarck-tableau-2-crop.jpg)
 
-\*Figure 1:\* Lamarck Diagram from “Additions” to the *Philosophie zoologique*, first edition (1809), (page 463). [An extended description of figure 1 is in the supplement.]
+*Figure 1:* Lamarck Diagram from “Additions” to the *Philosophie zoologique*, first edition (1809), (page 463). [An extended description of figure 1 is in the supplement.]
 
 This issue was not, however, developed in any theoretical elaboration by Lamarck himself. The complexity of these issues in the subsequent interpretations of Lamarck by his successors is an area of active research (Corsi, 2021, 2012; Jenkins 2019)[^corsi-2012][^corsi-2021][^jenkins-2019].
 
@@ -221,7 +221,7 @@ In addition to French-inspired developments of transformism that Lyell focused o
 
 ![a diagram: link to extended description below](../assets/evolution-before-darwin/Green27-scale.jpg)
 
-\*Figure 2:\* Joseph Henry Green’s diagram of the relations of the invertebrate and vertebrate groups in 1827 as represented in the notes of Richard Owen. [An extended description of figure 2 is in the supplement.]
+*Figure 2:* Joseph Henry Green’s diagram of the relations of the invertebrate and vertebrate groups in 1827 as represented in the notes of Richard Owen. [An extended description of figure 2 is in the supplement.]
 
 These themes would be continued in the major series of lectures delivered by Green’s protégé at the College of Surgeons, the comparative anatomist, Richard Owen (1804–92), who was named to the prestigious Hunterian Chair in Comparative Anatomy 1837 and remained in that position until 1856 (Rupke 1994, 1993; Sloan 1992b)[^rupke-1993][^rupke-1994][^sloan-1992b]
 
@@ -229,13 +229,13 @@ Owen’s widely-attended London lectures delivered between 1837 and 1856 brought
 
 ![a diagram: link to extended description below](../assets/evolution-before-darwin/Owen27-scale.jpg)
 
-\*Figure 3:\* Richard Owen’s representation of the relation of the main animal groups in February, 1837. [An extended description of figure 3 is in the supplement.]
+*Figure 3:* Richard Owen’s representation of the relation of the main animal groups in February, 1837. [An extended description of figure 3 is in the supplement.]
 
 As a solution to the Cuvier-Geoffroy issues, Owen subsequently developed in his Hunterian lectures in 1845 the theory of the archetypal vertebrate that connected the anatomical relations of all the vertebrates, a theme he then elaborated in an important set of publications in 1847 and 1849 (Owen, 1847, 1849 [2007])[^owen-1849]. Employing aspects of William Whewell’s philosophy of science to develop these arguments, Owen expounded the theory of the unity of type in relation to the Cuvierian analysis of the relation of form and function. In his argument, the archetype, functioning both as a transcendental ideal form and also as an immanent law working in the material history of life, explained the progression and differentiation of the vertebrates in historical time ((Sloan 2003; R. J. Richards 2002: chp. 14; Rupke 1993)[^richards-2002][^rupke-1993][^sloan-2003].
 
 ![line drawing: link to extended description below](../assets/evolution-before-darwin/archetype.jpg)
 
-\*Figure 4:\* Richard Owen’s depiction of the Archetypal Vertebrate, composed of a series of ideal vertebrae as in his *On the Nature of the Limbs* (1849), “Appendix”. [An extended description of figure 4 is in the supplement.]
+*Figure 4:* Richard Owen’s depiction of the Archetypal Vertebrate, composed of a series of ideal vertebrae as in his *On the Nature of the Limbs* (1849), “Appendix”. [An extended description of figure 4 is in the supplement.]
 
 By means of this theory, Owen claimed he could coherently explain both the deep resemblance of forms in their internal anatomy—the theme emphasized by Geoffroy St. Hilaire—, and also the close fitting of structure and function to the organism’s “conditions of existence”, the insight emphasized by Cuvier.
 

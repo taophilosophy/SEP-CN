@@ -236,7 +236,7 @@ One simple principle that has been invoked to capture moral representations is k
 
 ![a large square with the number 10 inside it; nested inside is a smaller square with the number 4 inside it; the bottom- and left-side of the smaller square overlap with the bottom- and left-side of the larger square.](../assets/moral-learning/image001.png)
 
-\*Figure 1:\* The numbers represent the highest denomination of the die; the rectangles represent the relative sizes of the hypotheses
+*Figure 1:* The numbers represent the highest denomination of the die; the rectangles represent the relative sizes of the hypotheses
 
 The size principle states that when the evidence is consistent with the “smaller hypothesis” (in this case that is the hypothesis that it’s the 4-sided die), that hypothesis is the one that should be favored.
 
@@ -248,7 +248,7 @@ As with the hypotheses about the dice, hypotheses about the range of a rule can 
 
 ![a large rectangle with the label 'consequences' inside it; nested inside is a smaller rectangle with the label 'Consequences produced by agent' inside it.](../assets/moral-learning/image002.png)
 
-\*Figure 2\*: The potential scope of rules. A rule confined to the smaller box (e.g., “it is wrong for an agent to make a mess”) is act-based. In contrast, a rule that spans the larger box (e.g., “it is wrong for an agent to make a mess or allow a mess to remain”) is consequence-based.
+*Figure 2*: The potential scope of rules. A rule confined to the smaller box (e.g., “it is wrong for an agent to make a mess”) is act-based. In contrast, a rule that spans the larger box (e.g., “it is wrong for an agent to make a mess or allow a mess to remain”) is consequence-based.
 
 Children are rarely given explicit instruction about the difference between *doing* and *allowing*, yet they may still infer the distinction from the evidence they encounter. If all of the sample violations they encounter involve an agent intentionally producing an outcome, this pattern can suggest that the operative rule is not meant to forbid merely allowing that outcome to occur. This reasoning follows from the size principle (section 6.1). When none of the observed violations are “allowings” this would be a suspicious coincidence if the rule prohibited allowings. The absence of evidence is itself evidence.
 

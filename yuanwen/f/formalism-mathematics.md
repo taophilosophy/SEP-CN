@@ -283,13 +283,13 @@ The simplest proof of A $\rightarrow$ (B $\rightarrow$ A) in T$_{\rightarrow}$ i
 
 $$ \dfrac{\dfrac{\dfrac{}{A}\scriptsize{1}}{B \to A}}{A \to (B \to A)}\scriptsize{1} $$
 
-\*Figure 1\*
+*Figure 1*
 
 in which the second step, to the intermediate conclusion B $\rightarrow$ A, is an instance of $\rightarrow$I(ntroduction) with vacuous discharge of the unassumed antecedent B (in a sequent calculus version, the rule of thinning, adding extra assumptions in the sequent antecedent, would be used). The type theoretic proof in type theory TT[^note-6] of the construction of a term “inhabiting” the type $\alpha \Rightarrow(\beta \Rightarrow \alpha)$ takes the form:
 
 $$ \dfrac{\dfrac{\dfrac{}{x:\alpha}\scriptsize{x}}{\lambda y.x:\beta \Rightarrow \alpha}}{\lambda xy.x:\alpha \Rightarrow (\beta \Rightarrow \alpha)}\scriptsize{x} $$
 
-\*Figure 2\*
+*Figure 2*
 
 Here *λ* abstraction, the introduction of *λ* terms, corresponds to $\rightarrow$I, so the *λ* term $\lambda xy.x$ which is shown to have type $\alpha \Rightarrow (\beta \Rightarrow \alpha)$ ‘codes’ two steps of the type correlate of $\rightarrow$I, namely the rule $\Rightarrow$I introducing function types (the first application an example of vacuous discharge) and we can recover the above proof of the propositional theorem. Moreover given the tight connection between type theoretical calculi and programs in certain types of programming languages, we can also see the TT proof as a program of steps in the construction of a certain type of computational object.
 

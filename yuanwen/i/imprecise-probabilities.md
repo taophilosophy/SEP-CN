@@ -99,7 +99,7 @@ Consider the indicator gambles for various events in this scenario. Consider a c
 | III | 1 | 0 | 1 |
 | IV | 0 | 1 | 1 |
 
-\*Table 1:\* The Ellsberg bets. The urn contains 30 red marbles and 60 blue/yellow marbles
+*Table 1:* The Ellsberg bets. The urn contains 30 red marbles and 60 blue/yellow marbles
 
 Let the probabilities for red, blue and yellow marbles be $r$, $b$ and $y$ respectively. If you were an expected utility maximiser and preferred I to II, then $r > b$ and a preference for IV over III entails that $r+y < y +b$. No numbers can jointly satisfy these two constraints. Therefore, no probability function is such that an expected utility maximiser with that probability would choose in the way described above. While by no means universal, these preferences are a robust feature of many experimental subjects’ response to this sort of example (Camerer and Weber 1992; Fox and Tversky 1995)[^camerer-1992][^fox-1995]. Some experiments suggest that Ellsberg-type patterns of preference are rarer than normally recognised (Binmore et al. 2012; Voorhoeve et al. 2016)[^binmore-2012][^voorhoeve-2016]. For more on ambiguity attitudes, see Trautmann and van der Kuilen (2016).
 
@@ -231,7 +231,7 @@ Consider two logically unrelated propositions $H$ and $X$. Now consider the four
 
 ![[A square with four quadrants, first column is labeled 'H' and second 'not H'; first row is labeled 'X' and second 'not X'. First quadrant (first column/first row) is shaded and has an 'a' on it; second quadrant (second column, first row) is not shaded and has a 'b' on it; third quadrant (first column, second row) is unshaded and has a 'c' on it; and last quadrant (second column, second row) is shaded and has a 'd' on it.]](../assets/imprecise-probabilities/two-by-two.png)
 
-\*Figure 1:\* A diagram of the relationships after Seidenfeld (1994)[^seidenfeld-1994]; $Y$ is the shaded area
+*Figure 1:* A diagram of the relationships after Seidenfeld (1994)[^seidenfeld-1994]; $Y$ is the shaded area
 
 Further imagine that $p(H\mid X) = p(H) = 1/2$. No other relationships between the propositions hold except those required by logic and probability theory. It is straightforward to verify that the above constraints require that $p(Y) = 1/2$. The probability for $X$, however, is unconstrained.
 
@@ -247,7 +247,7 @@ White considers dilation to be a problem since learning $Y$ doesn’t *seem* to 
 
 ![[A square with two columns labeled 'H' and 'not H' and two rows, a narrow one labeled 'X' and a wide one labeled 'not X'. The first quadrant (first column, first row) is shaded and has a 'Y' on it; second quadrant (second column, first row) is not shaded and has a 'not Y' on it; third quadrant (first column, second row) is unshaded with a 'not Y' on it and the fourth quadrant (second column, second row) is shaded and has a 'Y' on it.]](../assets/imprecise-probabilities/joyces-diagram.png)
 
-\*Figure 2:\* A member of the credal committee (after Joyce (2011)[^joyce-2011])
+*Figure 2:* A member of the credal committee (after Joyce (2011)[^joyce-2011])
 
 Consider a group of agents who each had precise credences in the above coin case and differed in their priors on $X$. They would all start out with prior of a half in $H$. After learning $Y$, these agents would differ in their posterior opinions about $H$ based on their differing dispositions to update. The group belief would dilate. However, no agent in the group has acted in any way unreasonably. If we take Levi’s suggestion that individuals can be conflicted just like groups can, then it seems that individual agents can have their beliefs dilate just like groups can.
 

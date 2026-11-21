@@ -81,7 +81,7 @@ Sripada and Stich provide an initial pictorial representation:
 
 ![a diagram: link to extended description below](../assets/psychology-normative-cognition/drawing-plain.svg)
 
-\*Figure:\* Sripada & Stich 2007: 290, figure redrawn. [An extended description of the figure is in the supplement.]
+*Figure:* Sripada & Stich 2007: 290, figure redrawn. [An extended description of the figure is in the supplement.]
 
 The acquisition and execution mechanisms themselves are posited as innate, but are highly sensitive to the local social setting in which an individual develops. On this account, this bifurcation into innate psychological architecture, on the one hand, and socially learned normative content, on the other, helps to explain why the presence of norms is culturally universal, whereas the behaviors, roles, and social arrangements governed by those norms exhibit variation. In addition, the model depicts the operation of many components of the norm system as “automatic and involuntary” (Sripada & Stich 2007: 290)[^sripada-2007], but takes no stand on particular processes or more granular characteristics associated with dual processing. Finally, the model is designed to accommodate evidence suggesting that when a norm is acquired and represented in the database it thereby gains a distinctive kind of motivational profile. Specifically, this profile construes normative motivation as
 

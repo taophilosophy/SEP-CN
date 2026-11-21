@@ -49,7 +49,7 @@ It should be noted that the two approaches are not equivalent. Consider the foll
 
 ![a diagram: link to extended description below](../assets/phil-multimodallogic/figure1.svg)
 
-\*Figure 1\* [An extended description of figure 1 is in the supplement.]
+*Figure 1* [An extended description of figure 1 is in the supplement.]
 
 Note how the agent believes *p* on every world in the model, $\llbracket \oB{}p \rrbracket^{M} = \left\{ {w_1, w_2, w_3} \right\}$; then, as the syntactic approach states that ${K'\varphi}$ holds in those worlds in which $B\varphi \land \varphi$ is the case, we have
 
@@ -239,7 +239,7 @@ The suspicions are correct: the formula is not valid, and the model below on the
 
 ![a diagram: link to extended description below](../assets/phil-multimodallogic/figure2.svg)
 
-\*Figure 2\* [An extended description of figure 2 is in the supplement.]
+*Figure 2* [An extended description of figure 2 is in the supplement.]
 
 In $(M, w)$, the atomic proposition *p* is the case, but the agent does not know it: $(M, w) \Vdash p \land \lnot Kp$. Thus, $p \land \lnot Kp$ can be truthfully announced, which produces the pointed model $(M_{(p \land \lnot Kp){!}}, w)$ on the right. Note how *w* has survived the operation (it satisfies $p \land \lnot Kp)$, but *u* has not (it does not satisfy $p \land \lnot Kp$, as it makes *p* false). In the resulting pointed model, the agent indeed knows that *p* is the case: $(M_{(p \land \lnot Kp){!}}, w) \Vdash Kp$. Nevertheless, she does not know that she does not know *p*: $(M_{(p \land \lnot Kp){!}}, w) \not\Vdash K\lnot Kp$; in fact, she knows that she knows *p*: $(M_{(p \land \lnot Kp){!}}, w) \Vdash KKp$.[^note-12]
 

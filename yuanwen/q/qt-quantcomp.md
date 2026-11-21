@@ -60,7 +60,7 @@ The qubit is the quantum analogue of the bit, the classical fundamental unit of 
 | ![](../assets/qt-quantcomp/Blochsphere.png) at the north pole and \|1> at the south pole; from the center of the sphere there are 3 axes shown labelled x, y, and z. The x-y plan is horizontal intersects the equator of the sphere. An arbitrary point on the surface of the sphere is noted by going angle phi horizontally from the x axis towards the y axis and then angle psi up towards the z axis." /> |
 | $\lvert 1\rangle$ |
 
-\*The Bloch Sphere\*
+*The Bloch Sphere*
 
 Since *α* and *β* are complex and therefore continuous variables one might think that a single qubit is capable of storing an infinite amount of information. When measured, however, it yields only the classical result (0 or 1) with certain probabilities specified by the quantum state. In other words, the measurement *changes* the state of the qubit, “collapsing” it from a superposition to one of its terms. In fact one can prove (Holevo 1973)[^holevo-1973] that the amount of information actually retrievable from a single qubit (what Timpson (2013, 47ff.) calls its “accessible information”) is no more than one bit. If the qubit is *not* measured, however, the amount of “hidden” information it “stores” (what Timpson calls its “specification information”) is conserved under its (unitary) dynamical evolution. This feature of quantum mechanics allows one to manipulate the information stored in unmeasured qubits with quantum gates (i.e. unitary transformations), and is one of the sources for the putative power of quantum computers.
 
@@ -72,7 +72,7 @@ Classical computational gates are Boolean logic gates that manipulate informatio
 
 $$ \textrm{CNOT} = \left[ \begin{array}{cccc} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1 \\ 0 & 0 & 1 & 0 \end{array} \right]. $$ ![Two horizontal lines; the upper line has a filled-in black circle in the middle; on the far left it is labelled ket(x) and the far right is labelled ket(x); the lower line has an open circle in the middle; on the far left it is labelled ket(y) and the far right is labelled ket(x circle-plus y); ther is a vertical line from the closed black circle all the way through to the bottom of the open circle.](../assets/qt-quantcomp/cnot1.jpg)
 
-\*The CNOT Gate\*
+*The CNOT Gate*
 
 Unitary gates manipulate information stored in the “quantum register”—a quantum system—and in this sense ordinary (unitary) quantum evolution can be regarded as a computation. In order to read the result of this computation, however, the quantum register must be measured. Measurement is represented as a non-unitary gate that “collapses” the quantum superposition in the register onto one of its terms with a probability corresponding to that term’s complex coefficient. Usually this is described with respect to the computational basis, but in principle a measurement could be carried out in any of the infinitely many possible orthonormal bases with respect to which a given state $| \psi \rangle$ can be expressed as a linear combination of basis states. It so happens that some such measurements are more difficult to implement than others.
 
@@ -90,7 +90,7 @@ What about probabilistic computation? Not surprisingly, a quantum computer can a
 
 $$ H = \frac{1}{\sqrt{2}}\left[ \begin{array}{cc} 1 & 1 \\ 1 & -1 \end{array}\right] $$ ![A circle is shown in the x-y plane; on the positive x-axis, the circle point is labelled ket(0); on the positive y-axis, the circle point is labelled ket(1); dashed lines go from the origin up 45 degrees to the right and down 45 degress to the right; the point where the upper dashed line hits the circle is labelled (ket(0) + ket(1))/sqrt(2) and the point where the lower dashed line hits the circle is labelled (ket(0) - ket(1))/sqrt(2).](../assets/qt-quantcomp/Had1.png)
 
-\*The Hadamard Gate\*
+*The Hadamard Gate*
 
 Obviously, if quantum algorithms could be used only to simulate classical algorithms the interest in them would be far more limited than it currently is. But while there may always be some computational problems that resist quantum speed-up (see Myers 1997 and Linden & Popescu 1998 [Other Internet Resources])[^myers-1997], there is a general confidence in the community that quantum algorithms may not only simulate classical ones, but that they will actually *outperform* the latter in some cases, with debatable (Cuffaro 2018b; Hagar 2007)[^cuffaro-2018b][^hagar-2007][^hagar-2007-2] implications for our abstract notions of tractability and intractability.
 
@@ -106,7 +106,7 @@ Deutsch (1989)[^deutsch-1989] asks the following question: Suppose we have a fun
 
 ![Two horizontal parallel lines are shown; on the left each one is labelled ket(0); from the left to the right, each has a box on top labelled 'X' and then a box labelled 'H'; continuing to the left there is a single box covering both lines labelled 'U_f'; thereafter the lower line has no labels and the upper line has a box labelled 'H' and ends with a box labelled with an arc crossed by a diagonal line.](../assets/qt-quantcomp/djalgo.png)
 
-\*A Schematic Representation of Deutsch’s Algorithm\*
+*A Schematic Representation of Deutsch’s Algorithm*
 
 After initially preparing (Mermin 2007, ch. 2)[^mermin-2007] the first and second qubits of the computer in the state $\lvert 0\rangle\lvert 0\rangle$, one then “flips” both qubits (see the Figure above) using “NOT” gates (i.e. Pauli *X* transformations) to $\lvert 1 \rangle$, and then subjects each qubit to a Hadamard gate. One then sends the two qubits through an oracle or ‘black box’ which one imagines as a unitary gate, $\mathbf{U}_f$, representative of the function whose character (of being either constant or balanced) we wish to determine, where we define $\mathbf{U}_f$ so that it takes inputs like $\lvert x,y\rangle$ to $\lvert x, y\oplus f (x)\rangle$, such that $\oplus$ is addition modulo two (i.e. exclusive-or). The first qubit is then fed into a further Hadamard gate, and the final output of the algorithm (prior to measurement) is the state:
 

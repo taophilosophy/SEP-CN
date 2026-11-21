@@ -85,7 +85,7 @@ There will be much more to be said about backward induction and its properties i
 
 ![Figure 1](../assets/game-theory/figure1.svg)
 
-\*Figure 1\*
+*Figure 1*
 
 The point of representing games using trees can best be grasped by visualizing the use of them in supporting backward-induction reasoning. Just imagine the player (or analyst) beginning at the end of the tree, where outcomes are displayed, and then working backwards from these, looking for sets of strategies that describe paths leading to them. Since a player’s utility function indicates which outcomes she prefers to which, we also know which paths she will prefer. Of course, not all paths will be possible because the other player has a role in selecting paths too, and won’t take actions that lead to less preferred outcomes for her. We will present some examples of this interactive path selection, and detailed techniques for reasoning through these examples, after we have described a situation we can use a tree to model.
 
@@ -98,7 +98,7 @@ Trees are used to represent *sequential* games, because they show the order in w
 | *Rocky Bridge* | ? | 0,1 | ? |   |
 | *Cobra Bridge* | ? | ? | 0,1 |   |
 
-\*Figure 2\*
+*Figure 2*
 
 The fugitive’s three possible strategies—cross at the safe bridge, risk the rocks, or risk the cobras—form the rows of the matrix. Similarly, the hunter’s three possible strategies—waiting at the safe bridge, waiting at the rocky bridge and waiting at the cobra bridge—form the columns of the matrix. Each cell of the matrix shows—or, rather *would* show if our matrix was complete—an *outcome* defined in terms of the players’ *payoffs*. A player’s payoff is simply the number assigned by her ordinal utility function to the state of affairs corresponding to the outcome in question. For each outcome, Row’s payoff is always listed first, followed by Column’s. Thus, for example, the upper left-hand corner above shows that when the fugitive crosses at the safe bridge and the hunter is waiting there, the fugitive gets a payoff of 0 and the hunter gets a payoff of 1. We interpret these by reference to the two players’ utility functions, which in this game are very simple. If the fugitive gets safely across the river he receives a payoff of 1; if he doesn’t he gets 0. If the fugitive doesn’t make it, either because he’s shot by the hunter or hit by a rock or bitten by a cobra, then the hunter gets a payoff of 1 and the fugitive gets a payoff of 0.
 
@@ -124,7 +124,7 @@ The numbers in the function above are now used to express each player’s *payof
 | Player I | *Confess* | 2,2 | 4,0 |
 | *Refuse* | 0,4 | 3,3 |   |
 
-\*Figure 3\*
+*Figure 3*
 
 Each cell of the matrix gives the payoffs to both players for each combination of actions. Player I’s payoff appears as the first number of each pair, Player II’s as the second. So, if both players confess then they each get a payoff of 2 (5 years in prison each). This appears in the upper-left cell. If neither of them confess, they each get a payoff of 3 (2 years in prison each). This appears as the lower-right cell. If Player I confesses and Player II doesn’t then Player I gets a payoff of 4 (going free) and Player II gets a payoff of 0 (ten years in prison). This appears in the upper-right cell. The reverse situation, in which Player II confesses and Player I refuses, appears in the lower-left cell.
 
@@ -164,7 +164,7 @@ To make this exercise maximally instructive, let’s suppose that Players I and 
 
 ![Figure 4](../assets/game-theory/figure4.svg)
 
-\*Figure 4\*
+*Figure 4*
 
 Look first at each of the terminal nodes (those along the bottom). These represent possible outcomes. Each is identified with an assignment of payoffs, just as in the strategic-form game, with Player I’s payoff appearing first in each set and Player II’s appearing second. Each of the structures descending from the nodes 1, 2 and 3 respectively is a subgame. We begin our backward-induction analysis—using a technique called *Zermelo’s algorithm*—with the sub-games that arise last in the sequence of play. If the subgame descending from node 3 is played, then Player II will face a choice between a payoff of 4 and a payoff of 3. (Consult the second number, representing her payoff, in each set at a terminal node descending from node 3.) II earns her higher payoff by playing D. We may therefore replace the entire subgame with an assignment of the payoff (0,4) directly to node 3, since this is the outcome that will be realized if the game reaches that node. Now consider the subgame descending from node 2. Here, II faces a choice between a payoff of 2 and one of 0. She obtains her higher payoff, 2, by playing D. We may therefore assign the payoff (2,2) directly to node 2. Now we move to the subgame descending from node 1. (This subgame is, of course, identical to the whole game; all games are subgames of themselves.) Player I now faces a choice between outcomes (2,2) and (0,4). Consulting the first numbers in each of these sets, he sees that he gets his higher payoff—2—by playing D. D is, of course, the option of confessing. So Player I confesses, and then Player II also confesses, yielding the same outcome as in the strategic-form representation.
 
@@ -176,7 +176,7 @@ As noted earlier in this section, sometimes we must represent simultaneous moves
 
 ![Figure 5](../assets/game-theory/figure5.svg)
 
-\*Figure 5\*
+*Figure 5*
 
 The oval drawn around nodes $b$ and $c$ indicates that they lie within a common information set. This means that at these nodes players cannot infer back up the path from whence they came; Player II does not know, in choosing her strategy, whether she is at $b$ or $c$. (For this reason, what properly bear numbers in extensive-form games are information sets, conceived as ‘action points’, rather than nodes themselves; this is why the nodes inside the oval are labelled with letters rather than numbers.) Put another way, Player II, when choosing, does not know what Player I has done at node $a$. But you will recall from earlier in this section that this is just what defines two moves as simultaneous. We can thus see that the method of representing games as trees is entirely general. If no node after the initial node is alone in an information set on its tree, so that the game has only one subgame (itself), then the whole game is one of simultaneous play. If at least one node shares its information set with another, while others are alone, the game involves both simultaneous and sequential play, and so is still a game of imperfect information. Only if all information sets are inhabited by just one node do we have a game of perfect information.
 
@@ -198,7 +198,7 @@ First, there is the problem that in most non-zero-sum games, there is more than 
 | I | $s_1$ | 10,10 | 0,0 |
 | $s_2$ | 0,0 | 1,1 |   |
 
-\*Figure 6\*
+*Figure 6*
 
 This game has two NE: $s_1$-$t_1$ and $s_2$-$t_2$. (Note that no rows or columns are strictly dominated here. But if Player I is playing $s_1$ then Player II can do no better than $t_1,$ and vice-versa; and similarly for the $s_2$-$t_2$ pair.) If NE is our only solution concept, then we shall be forced to say that either of these outcomes is equally persuasive as a solution. However, if game theory is regarded as an explanatory and/or normative theory of strategic reasoning, this seems to be leaving something out: surely sensible players with perfect information would converge on $s_1$-$t_1$? (Note that this is *not* like the situation in the PD, where the socially superior situation is unachievable because it is not a NE. In the case of the game above, both players have every reason to try to converge on the NE in which they are better off.)
 
@@ -210,7 +210,7 @@ This illustrates the fact that NE is a relatively (logically) *weak* solution co
 | I | $s_1$ | 10,0 | 5,2 |
 | $s_2$ | 10,1 | 2,0 |   |
 
-\*Figure 7\*
+*Figure 7*
 
 Here, no strategy strictly dominates another. However, Player I’s top row, $s_1,$ *weakly* dominates $s_2,$ since I does *at least as well* using $s_1$ as $s_2$ for any reply by Player II, and on one reply by II ($t_2$), I does better. So should not the players (and the analyst) delete the weakly dominated row $s_2$? When they do so, column $t_1$ is then strictly dominated, and the NE $s_1$-$t_2$ is selected as the unique solution. However, as Kreps goes on to show using this example, the idea that weakly dominated strategies should be deleted just like strict ones has odd consequences. Suppose we change the payoffs of the game just a bit, as follows:
 
@@ -220,7 +220,7 @@ Here, no strategy strictly dominates another. However, Player I’s top row, $s_
 | I | $s_1$ | 10,10 | 5,2 |
 | $s_2$ | 10,11 | 2,0 |   |
 
-\*Figure 8\*
+*Figure 8*
 
 $s_2$ is still weakly dominated as before; but of our two NE, $s_2$-$t_1$ is now the most attractive for both players; so why should the analyst eliminate its possibility? (Note that this game, again, does *not* replicate the logic of the PD. There, it makes sense to eliminate the most attractive outcome, joint refusal to confess, because both players have incentives to unilaterally deviate from it, so it is not an NE. This is not true of $s_2$-$t_1$ in the present game. You should be starting to clearly see why we called the PD game ‘atypical’.) The argument *for* eliminating weakly dominated strategies is that Player 1 may be nervous, fearing that Player II is not completely *sure* to be economically rational (or that Player II fears that Player I isn’t completely reliably economically rational, or that Player II fears that Player I fears that Player II isn’t completely reliably economically rational, and so on ad infinitum) and so might play $t_2$ with some positive probability. If the possibility of departures from reliable economic rationality is taken seriously, then we have an argument for eliminating weakly dominated strategies: Player I thereby insures herself against her worst outcome, $s_2$-$t_2$. Of course, she pays a cost for this insurance, reducing her expected payoff from 10 to 5. On the other hand, we might imagine that the players could communicate before playing the game and agree to *coordinate* on $s_2$-$t_1$, thereby removing some, most or all of the uncertainty that encourages elimination of the weakly dominated row $s_1$, and eliminating $s_1$-$t_2$ as a viable solution instead!
 
@@ -244,7 +244,7 @@ Consider the game described by this tree:
 
 ![Figure 9](../assets/game-theory/figure9.svg)
 
-\*Figure 9\*
+*Figure 9*
 
 This game is not intended to fit any preconceived situation; it is simply a mathematical object in search of an application. (L and R here just denote ‘left’ and ‘right’ respectively.)
 
@@ -258,7 +258,7 @@ Now consider the strategic form of this game:
 | RL | −1,0 | 4,5 | −1,0 | 4,5 |   |
 | RR | −1,0 | 5,−1 | −1,0 | 5,−1 |   |
 
-\*Figure 10\*
+*Figure 10*
 
 If you are confused by this, remember that a strategy must tell a player what to do at *every* information set where that player has an action. Since each player chooses between two actions at each of two information sets here, each player has four strategies in total. The first letter in each strategy designation tells each player what to do if he or she reaches their first information set, the second what to do if their second information set is reached. I.e., LR for Player II tells II to play L if information set 5 is reached and R if information set 6 is reached.
 
@@ -292,7 +292,7 @@ Our last point above opens the way to a philosophical puzzle, one of several tha
 
 ![Figure 11](../assets/game-theory/figure11.svg)
 
-\*Figure 11\*
+*Figure 11*
 
 The NE outcome here is at the single leftmost node descending from node 8. To see this, backward induct again. At node 10, I would play L for a payoff of 3, giving II a payoff of 1. II can do better than this by playing L at node 9, giving I a payoff of 0. I can do better than this by playing L at node 8; so that is what I does, and the game terminates without II getting to move. A puzzle is then raised by Bicchieri (along with other authors, including Binmore (1987)[^binmore-1987] and Pettit and Sugden (1989)) by way of the following reasoning. Player I plays L at node 8 because she knows that Player II is economically rational, and so would, at node 9, play L because Player II knows that Player I is economically rational and so would, at node 10, play L. But now we have the following paradox: Player I must suppose that Player II, at node 9, would predict Player I’s economically rational play at node 10 despite having arrived at a node (9) that could only be reached if Player I is not economically rational! If Player I is not economically rational then Player II is not justified in predicting that Player I will not play R at node 10, in which case it is not clear that Player II shouldn’t play R at 9; and if Player II plays R at 9, then Player I is guaranteed of a better payoff then she gets if she plays L at node 8. Both players use backward induction to solve the game; backward induction requires that Player I know that Player II knows that Player I is economically rational; but Player II can solve the game only by using a backward induction argument that takes as a premise the failure of Player I to behave in accordance with economic rationality. This is the *paradox of backward induction*.
 
@@ -385,7 +385,7 @@ We can now fill in the rest of the matrix for the bridge-crossing game that we s
 | *Rocky Bridge* | 0.9,0.1 | 0,1 | 0.9,0.1 |   |
 | *Cobra Bridge* | 0.8,0.2 | 0.8,0.2 | 0,1 |   |
 
-\*Figure 12\*
+*Figure 12*
 
 We can now read the following facts about the game directly from the matrix. No pair of pure strategies is a pair of best replies to the other. Therefore, the game’s only NE require at least one player to use a mixed strategy.
 
@@ -399,7 +399,7 @@ Consider the three-player imperfect-information game below known as ‘Selten’
 
 ![Figure 13](../assets/game-theory/figure13.svg)
 
-\*Figure 13\*
+*Figure 13*
 
 This game has four NE: $(\mathrm{L}, l_2, l_3),$ $(\mathrm{L}, r_2, l_3),$ $(\mathrm{R}, r_2, l_3)$ and $(\mathrm{R}, r_2, r_3).$ Consider the fourth of these NE. It arises because when Player I plays R and Player II plays $r_2$, Player III’s entire information set is off the path of play, and it doesn’t matter to the outcome what Player III does. But Player I would not play R if Player III could tell the difference between being at node 13 and being at node 14. The structure of the game incentivizes efforts by Player I to supply Player III with information that would open up her closed information set. Player III should believe this information because the structure of the game shows that Player I has incentive to communicate it truthfully. The game’s solution would then be the SPE of the (now) perfect information game: $(\mathrm{L}, r_2, l_3).$
 
@@ -425,7 +425,7 @@ The use of the consistency requirement in this example is somewhat trivial, so c
 
 ![Figure 14](../assets/game-theory/figure14.svg)
 
-\*Figure 14\*
+*Figure 14*
 
 Suppose that Player I plays L, Player II plays $l_2$ and Player III plays $l_3$. Suppose also that $\mu$(II) assigns $pr(.3)$ to node 16. In that case, $l_2$ is not a SE strategy for Player II, since $l_2$ returns an expected payoff of $.3(4) + .7(2) = 2.6,$ while $r_2$ brings an expected payoff of 3.1. Notice that if we fiddle the strategy profile for player III while leaving everything else fixed, $l_2$ could *become* a SE strategy for Player II. If §(III) yielded a play of $l_3$ with $pr(.5)$ and $r_3$ with $pr(.5),$ then if Player II plays $r_2$ his expected payoff would now be 2.2, so $(\mathrm{L},l_2,l_3)$ would be a SE. Now imagine setting $\mu$(III) back as it was, but change $\mu$(II) so that Player II thinks the conditional probability of being at node 16 is greater than .5; in that case, $l_2$ is again not a SE strategy.
 
@@ -727,19 +727,19 @@ A more serious threat to the usefulness of game theory is evidence of systematic
 
 ![Figure 15](../assets/game-theory/figure15.svg)
 
-\*Figure 15\*
+*Figure 15*
 
 A result of this is that, as later prospects come closer to the point of possible consumption, people and other animals will sometimes spend resources undoing the consequences of previous actions that also cost them resources. For example: deciding today whether to mark a pile of undergraduate essays or watch a baseball game, I procrastinate, despite knowing that by doing so I put out of reach some even more fun possibility that might come up for tomorrow (when there’s an equally attractive ball game on if the better option doesn’t arise). So far, this can be accounted for in a way that preserves consistency of preferences: if the world might end tonight, with a tiny but nonzero probability, then there’s some level of risk aversion at which I’d rather leave the essays unmarked. The figure below compares two exponential discount curves, the lower one for the value of the game I watch before finishing my marking, and the higher one for the more valuable game I enjoy after completing the job. Both have higher value from the reference point the closer they are to it; but the curves do not cross, so my revealed preferences are consistent over time no matter how impatient I might be.
 
 ![Figure 16](../assets/game-theory/figure16.svg)
 
-\*Figure 16\*
+*Figure 16*
 
 However, if I bind myself against procrastination by buying a ticket for tomorrow’s game, when in the absence of the awful task I wouldn’t have done so, then I’ve violated intertemporal preference consistency. More vividly, had I been in a position to choose last week whether to procrastinate today, I’d have chosen not to. In this case, my discount curve drawn from the reference point of last week crosses the curve drawn from the perspective of today, and my preferences reverse. The figure below shows this situation.
 
 ![Figure 17](../assets/game-theory/figure17.svg)
 
-\*Figure 17\*
+*Figure 17*
 
 This phenomenon complicates applications of classical game theory to intelligent animals. However, it clearly doesn’t vitiate it altogether, since people (and other animals) often *don’t* reverse their preferences. (If this weren’t true, the successful auction models and other s-called ‘mechanism designs’ would be mysterious.) Interestingly, the leading theories that aim to explain why hyperbolic discounters might often behave in accordance with RPT themselves appeal to game theoretic principles. Ainslie (1992, 2001)[^ainslie-1992][^ainslie-2001] has produced an account of people as communities of internal bargaining interests, in which subunits based on short-term, medium-term and long-term interests face conflict that they must resolve because if they don’t, and instead generate an internal Hobbesian breakdown (Section 1), outside agents who avoid the Hobbesian outcome can ruin them all. The device of the Hobbesian tyrant is unavailable to the brain. Therefore, its behavior (when system-level insanity is avoided) is a sequence of self-enforcing equilibria of the sort studied by game-theoretic public choice literature on coalitional bargaining in democratic legislatures. That is, the internal politics of the brain consists in ‘logrolling’ (Stratmann 1997)[^stratmann-1997]. These internal dynamics are then partly regulated and stabilized by the wider social games in which coalitions (people as wholes over temporal subparts of their biographies) are embedded (Ross 2005a , pp. 334–353)[^ross-2005a]. (For example: social expectations about someone’s role as a salesperson set behavioral equilibrium targets for the logrolling processes in their brain.) This potentially adds further relevant elements to the explanation of why and how stable institutions with relatively transparent rules are key conditions that help people more closely resemble straightforward economic agents, such that classical game theory finds reliable application to them as entire units.
 

@@ -251,7 +251,7 @@ The calculuses $\text{CL}_\triangleright$ and $\text{CL}_=$ of the previous sect
 
 ![figure 1](../assets/logic-combinatory/figure1.jpg)
 
-\*Figure 1.\* Illustration for the Church–Rosser theorem (I)
+*Figure 1.* Illustration for the Church–Rosser theorem (I)
 
 If we think that reduction is like computing the value of a function, then the Church–Rosser theorem—in a first approximation—can be thought to state that the final result of a series of calculations with a term is unique—independently of the order of the steps. This is a slight overstatement though, because uniqueness implies that each series of calculations ends (or “loops” on a term). That is, if there is a unique final term, then only finitely many distinct consecutive calculation steps are possible.
 
@@ -265,7 +265,7 @@ The Church–Rosser theorem is often stated as follows.
 
 ![figure 2](../assets/logic-combinatory/figure2.jpg)
 
-\*Figure 2.\* Illustration for the Church–Rosser theorem (II)
+*Figure 2.* Illustration for the Church–Rosser theorem (II)
 
 The second form of the Church–Rosser theorem differs from the first in its *assumption*. From the definition of equality as a superset of reduction, it is obvious that the first form of the theorem is implied by the second. However, despite the weaker assumption in the second formulation of the Church–Rosser theorem, the two theorems are *equivalent*. Equality is the transitive, symmetric closure of reduction, which means that if two terms are equal then there is a finite path comprising reduction and expansion steps (which decompose into one-step reductions and one-step expansions, respectively). Then by finitely many applications of the first Church–Rosser theorem (i.e., by induction on the length of the path connecting $N$ and $P$), the first Church–Rosser theorem implies the second formulation.
 

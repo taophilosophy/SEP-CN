@@ -50,7 +50,7 @@ Whereas the first six of the above sequents correspond with the listed purely st
 
 ![[A kite diagram, upper vertex is 'classical'; lines down to 'De Morgan' on the left and 'intuitionistic' on the right; from 'De Morgan', line straight down to 'Ockham'; then to bottom vertex 'preminimal'; from 'intuitionistic', line straight down to 'minimal', then 'quasi-minimal', and finally to the bottom vertex 'preminimal'.]](../assets/negation/figure5.png)
 
-\*Figure 5\*
+*Figure 5*
 
 Onishi then defines a dualization function, $(\cdot )^t$ (notation adjusted), that maps formulas from the language with $\rhd$ and $\lhd$ into formulas from the language with $\blacktriangleright$ and $\blacktriangleleft$, and vice versa. In particular,
 
@@ -64,7 +64,7 @@ With the identification of negation as impossibility and negation as unnecessity
 
 ![[A kite digram: upper vertex 'classical' line down-left to 'dual int.', down to 'De Morgan', and down-right to 'intuitionistic'; from 'dual int.', line down to 'dual min.' then down to 'dual quasi-min' then down to left bottom vertex 'dual premin.'; from 'De Morgan' line down to 'Ockham' then lines to the left bottom vertex 'dual premin.' and to the right bottom vertex 'preminimal'; from 'intuitionistic', line down to 'minimal' then line down to 'quasi-minimal' then down to right bottom vertex 'preminimal']](../assets/negation/figure6.png)
 
-\*Figure 6\*
+*Figure 6*
 
 Note that in the presence of the axioms for identifying negation as impossibility and negation as unnecessity and their frame conditions, every negation from the united kite emerges as substructural because both double negation elimination for $\blacktriangleright$ and double negation introduction for $\rhd$ do correspond with a structural sequent rule.
 

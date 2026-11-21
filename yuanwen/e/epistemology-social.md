@@ -186,7 +186,7 @@ In these diffusion/contagion models, though, the individuals do not gather evide
 
 ![a diagram: link to extended description below](../assets/epistemology-social/fig2.png)
 
-\*Figure 1:\* Agents in a network epistemology model use their credences to guide theory testing. Their results change their credences, and those of their neighbors. [An extended description of figure 1 is in the supplement.]
+*Figure 1:* Agents in a network epistemology model use their credences to guide theory testing. Their results change their credences, and those of their neighbors. [An extended description of figure 1 is in the supplement.]
 
 Communities in this model can develop beliefs that the better theory (vaccines are safe) is indeed better, or else they can pre-emptively settle on the worse theory (vaccines cause autism) as a result of misleading evidence. Generally, since networks of agents are sensitive to the evidence they gather, they are more likely to figure out the “truth” of which is best (Zollman 2013; Rosenstock et al. 2017)[^rosenstock-2017][^zollman-2013].
 
@@ -210,7 +210,7 @@ Weisberg and Muldoon (2009) introduce a model where actors investigate an “epi
 
 ![3-d depiction of a surface with multiple peaks and valleys](../assets/epistemology-social/fig3.png)
 
-\*Figure 2:\* An epistemic landscape. Location represents problem choice, and height represents epistemic significance.
+*Figure 2:* An epistemic landscape. Location represents problem choice, and height represents epistemic significance.
 
 Weisberg and Muldoon argue that a combination of “followers” (who work on problems similar to other individuals) and “mavericks” (who prefer to explore new terrain) do better than either group alone; i.e., there is a benefit to cognitive diversity. Their modeling choices and main result have been convincingly criticized (Alexander et al. 2015; Thoma 2015; Poyhönen 2017; Fernández Pinto and Fernández Pinto 2018)[^alexander-2015][^fernández-2018][^thoma-2015], but the framework has been co-opted by other philosophers to useful ends. Thoma (2015)[^thoma-2015] and Poyhönen (2017), for instance, show that in modified versions of the model, cognitive diversity indeed provides the sort of benefit Weisberg and Muldoon hypothesize.
 

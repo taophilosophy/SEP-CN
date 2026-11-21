@@ -181,7 +181,7 @@ The gist of the problem can be illustrated with a simple example. Consider a lan
 
 ![an alternative question with three disjuncts](../assets/questions/figure-1-three-ovals.png)
 
-\*Figure 1:\* An issue that cannot be represented in the pair-semantics.
+*Figure 1:* An issue that cannot be represented in the pair-semantics.
 
 The problem with the system of Groenendijk (2009)[^groenendijk-2009][^groenendijk-2009-2] and Mascarenhas (2009)[^mascarenhas-2009] is manifested by the fact that this issue cannot be represented by means of an indifference relation. An indifference relation over the information state $\{w_{pq},w_{qr},w_{pr}\}$ necessarily contains all reflexive world-pairs, and possibly one, two, or three non-reflexive pairs. In either case, however, the resulting issue does not correspond to the one depicted in Figure 1.
 

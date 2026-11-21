@@ -17,7 +17,7 @@ As the basic programme of Ptolemy and Copernicus gave way to that of early class
 
 ![figure 1](../assets/spacetime-iframes/Fig1.png)
 
-\*Figure 1: Galileo’s Argument\* If the earth is rotating sufficiently uniformly, a stone dropped from the tower will fall straight to the base, just as a stone dropped from the mast of a uniformly moving ship will fall to the foot of the mast. In both cases the stone’s vertical motion will be smoothly composed with its horizontal motion. Hence a sufficiently uniform motion will be indistinguishable from rest.
+*Figure 1: Galileo’s Argument* If the earth is rotating sufficiently uniformly, a stone dropped from the tower will fall straight to the base, just as a stone dropped from the mast of a uniformly moving ship will fall to the foot of the mast. In both cases the stone’s vertical motion will be smoothly composed with its horizontal motion. Hence a sufficiently uniform motion will be indistinguishable from rest.
 
 ### 1.2 Philosophical controversy over absolute and relative motion
 
@@ -109,11 +109,11 @@ Neumann’s definition of a time-scale directly inspired Ludwig Lange’s concep
 | --- | --- |
 | (a) | (b) |
 
-\*Figure 2: Neumann’s Time-Scale\* By Newton’s first law, a particle not subject to forces travels equal distances in equal times. But which particles are free of forces? This might appear to be a matter of convention. (a) Either $P_1$ or $P_2$ can be arbitrarily stipulated to be at the origin of a system of coordinates, and to serve as the measure of equal times (b) But one can say of two particles with different velocities: in intervals of time in which one moves a given distance $d_1$, the other moves a proportional distance $d_2 = kd_1$ (where *k* is a constant; i.e., $d_1/d_2 = k$). Or one can compare a particle to a freely rotating planet: in intervals of time through which the planet rotates through equal angles, the particle moves equal distances.
+*Figure 2: Neumann’s Time-Scale* By Newton’s first law, a particle not subject to forces travels equal distances in equal times. But which particles are free of forces? This might appear to be a matter of convention. (a) Either $P_1$ or $P_2$ can be arbitrarily stipulated to be at the origin of a system of coordinates, and to serve as the measure of equal times (b) But one can say of two particles with different velocities: in intervals of time in which one moves a given distance $d_1$, the other moves a proportional distance $d_2 = kd_1$ (where *k* is a constant; i.e., $d_1/d_2 = k$). Or one can compare a particle to a freely rotating planet: in intervals of time through which the planet rotates through equal angles, the particle moves equal distances.
 
 ![Figure 3](../assets/spacetime-iframes/Fig3.png)
 
-\*Figure 3: Lange’s Definition of ‘inertial system’ (1885)\* An inertial system is a coordinate system with respect to which three free particles, projected from a single point and moving in non-coplanar directions, move in straight lines and travel mutually-proportional distances. The law of inertia then states that relative to any inertial system, any fourth free particle will move uniformly.
+*Figure 3: Lange’s Definition of ‘inertial system’ (1885)* An inertial system is a coordinate system with respect to which three free particles, projected from a single point and moving in non-coplanar directions, move in straight lines and travel mutually-proportional distances. The law of inertia then states that relative to any inertial system, any fourth free particle will move uniformly.
 
 At about the same time, apparently unaware of the work of Mach, Neumann, and Lange, James Thomson—older brother of William Thomson, Lord Kelvin—expressed the content of the law of inertia, and the appropriate frame of reference and time-scale (“dial-traveller”), in a somewhat simpler manner:
 
@@ -189,19 +189,19 @@ The lack of a privileged spatial frame, combined with the obvious existence of p
 
 ![Figure 4](../assets/spacetime-iframes/Fig4.png)
 
-\*Figure 4:\* Inertial Trajectories as Straight Lines of Space-time
+*Figure 4:* Inertial Trajectories as Straight Lines of Space-time
 
 That is, space-time is a structure whose automorphisms—the Galilean transformations that relate one inertial frame to another—are affine transformations: they take straight lines into straight lines, and parallel lines into parallel lines. The former condition implies that an inertial motion in one frame will be an inertial motion in any other frame, and likewise for an accelerating or rotational motion. The latter implies that uniformly-moving particles or observers who are relatively at rest in one frame will also be relatively at rest in another. An inertial frame can be characterized as a family of parallel straight lines “filling” space-time, representing the possible trajectories of a family of free particles that are relatively at rest. See Figure 5. Therefore, to assert that an inertial frame exists is to impose a global structure on space-time; it is equivalent to the assertion that space-time is an affine space that is flat.
 
 ![Figure 5](../assets/spacetime-iframes/Fig5.png)
 
-\*Figure 5:\* Each of these families of straight lines, $F_1$ and $F_2$, represents the trajectories of a family of free particles that are relatively at rest, and therefore each defines an inertial frame. Relative to each other, the frames defined by $F_1$ and $F_2$ are in uniform motion. Each of the surfaces *S* is a “hypersurface of absolute simultaneity” representing all of space at a given moment; evidently (given the Galilean transformations) two inertial frames will agree on which events in space-time are simultaneous.
+*Figure 5:* Each of these families of straight lines, $F_1$ and $F_2$, represents the trajectories of a family of free particles that are relatively at rest, and therefore each defines an inertial frame. Relative to each other, the frames defined by $F_1$ and $F_2$ are in uniform motion. Each of the surfaces *S* is a “hypersurface of absolute simultaneity” representing all of space at a given moment; evidently (given the Galilean transformations) two inertial frames will agree on which events in space-time are simultaneous.
 
 The form of the Galilean transformations shows that, in addition to being affine transformations, they also preserve metrical relations on time and space. Distinct inertial frames will agree on simultaneity, and on (ratios of) time-intervals; they will also agree on the spatial distance between points at a given moment of time. Therefore, in the four-dimensional picture, the decomposition of space-time into hypersurfaces of absolute simultaneity is independent of the choice of inertial frame. Another way of putting this is that Newtonian space-time is endowed with a *projection* of space onto time, i.e. a function that identifies space-time points that have the same time-coordinate. Similarly, absolute space arises from a projection of space-time onto space, i.e. a function that identifies space-time points that have the same spatial coordinates. See Figure 6.
 
 ![Figure 6](../assets/spacetime-iframes/Fig6aandb.png)
 
-\*Figure 6\*
+*Figure 6*
 
 But Galilean relativity implies that this latter projection is arbitrary. While it assumes that we can identify the same time at different spatial locations, Newtonian mechanics provides no physical way of identifying the same spatial point at different times. Thus the equivalence of inertial frames can be thought of as the arbitrariness of the projection of space-time onto space. Any such projection is, essentially, the arbitrary choice of some particular inertial frame as a rest-frame. In the relativized version of Newton’s theory, then, the class of inertial frames replaces absolute space, while absolute time remains. The structure of Newtonian space-time (also known as Galilean space-time, or neo-Newtonian space-time) expresses this fact in a direct and obvious way. (See Stein 1967 and Ehlers 1973 for further explanation.)[^ehlers-1973][^stein-1967]
 
@@ -209,7 +209,7 @@ But Galilean relativity implies that this latter projection is arbitrary. While 
 | --- | --- |
 | (a) | (b) |
 
-\*Figure 7:\* (a) Here is a space-time diagram of motions relative to the inertial frame in which $O_1$, $O_2$, and $P_1$ are at rest. This can be seen as arising from the projection of each of their inertial trajectories onto a single point of space. $O_3$ is in uniform motion. $O_4$ is accelerating any old way. $O_5$ and $O_6$ are revolving around their common center of gravity $P_1$, which (as noted above) is at rest. $O_7$ and $O_8$ are revolving around their center of gravity $P_2$, which is in uniform motion. (b) Here is the same situation viewed from an inertial frame in which $O_3$ and $P_2$ are at rest. Now $O_1,$ $O_2,$ and $P_1$ are in uniform motion. $O_4$ is accelerating any old way. $O_5$ and $O_6$ are revolving around their common center of gravity $P_1$, which is in uniform motion. $O_7$ and $O_8$ are revolving around their center of gravity $P_2$, which (as noted above) is at rest.
+*Figure 7:* (a) Here is a space-time diagram of motions relative to the inertial frame in which $O_1$, $O_2$, and $P_1$ are at rest. This can be seen as arising from the projection of each of their inertial trajectories onto a single point of space. $O_3$ is in uniform motion. $O_4$ is accelerating any old way. $O_5$ and $O_6$ are revolving around their common center of gravity $P_1$, which (as noted above) is at rest. $O_7$ and $O_8$ are revolving around their center of gravity $P_2$, which is in uniform motion. (b) Here is the same situation viewed from an inertial frame in which $O_3$ and $P_2$ are at rest. Now $O_1,$ $O_2,$ and $P_1$ are in uniform motion. $O_4$ is accelerating any old way. $O_5$ and $O_6$ are revolving around their common center of gravity $P_1$, which is in uniform motion. $O_7$ and $O_8$ are revolving around their center of gravity $P_2$, which (as noted above) is at rest.
 
 ### 2.2 The conflict between Galilean relativity and modern electrodynamics
 
@@ -229,7 +229,7 @@ The space-time structure of special relativity thus differs essentially from New
 
 ![Figure 8](../assets/spacetime-iframes/Fig8.png)
 
-\*Figure 8:\* The inertial frames $F$ and $F'$ are in relative motion, and therefore, as the Lorentz transformations indicate, they disagree on simultaneity. $F$ and $F'$ thus determine distinct decompositions of space-time into instantaneous spaces, $S$ and $S'$, respectively
+*Figure 8:* The inertial frames $F$ and $F'$ are in relative motion, and therefore, as the Lorentz transformations indicate, they disagree on simultaneity. $F$ and $F'$ thus determine distinct decompositions of space-time into instantaneous spaces, $S$ and $S'$, respectively
 
 ### 2.4 Simultaneity and reference-frames
 

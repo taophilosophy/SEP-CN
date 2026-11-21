@@ -218,7 +218,7 @@ When the discussion of tachyons began to appear in physics in the 1960s, it was 
 
 ![[Three diagrams each with a vertical axis labelled ‘time’ and an arrow pointing up and two horizontal perpendicular axes labelled ‘space’]](../assets/causation-backwards/tachyon.svg)
 
-\*Figure 1:\* Spacetime diagram of tachyon
+*Figure 1:* Spacetime diagram of tachyon
 
 In Figure 1 the planes represent the hypersurfaces of simultaneity. In relation to frame $S$ the tachyon source is at rest, and a tachyon is emitted at event $A$, with a superluminal but finite velocity. The absorption of the tachyon, event $B$, will accordingly occur later than $A$ in relation to the observer in $S$, and the arrow of trajectory is for that reason pointing into the future above the hypersurface passing through $A$ and standing perpendicular to the world-line of the source. But neither with respect to the frame $S^*$ nor $S^{**}$ is the tachyon source at rest and the hypersurfaces are therefore tilted in relation to the arrow of trajectory. An observer in $S^*$ observes the tachyon to have infinite speed, and therefore the hypersurface is tilted so much that it coincides with the arrow. The observer in $S^{**}$ is moving so fast with respect to the tachyon source that the hypersurface becomes titled so much that the arrow points into the past below the hypersurface.
 

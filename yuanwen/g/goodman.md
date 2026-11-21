@@ -151,13 +151,13 @@ Carnap tries to show that by using the method of “quasi-analysis” all the st
 
 ![[6 vertical colored bars, labeled A through F, A bar is green on the top half and black on the bottom half, B bar is all black, C bar is black on top half and red on bottom half, D bar is all red, E bar is all green, F bar is green on top third, black in middle third, and red on bottom third]](../assets/goodman/fig1a.png)
 
-\*Figure 1a.\*
+*Figure 1a.*
 
 However, we do not yet know that there are such things as colors. In fact the only thing we know about the erlebs (*A*–*F*) is that they are part similar as displayed in the following graph (where part-similarity between erlebs is indicated by a line):
 
 ![[Graph: A and E on first row (2nd and 4th columns respectively), B and F on second row (1st and 3rd columns respectively), C and D on third row (2nd and 4th columns respectively). A has lines connecting it to B, C, F, and E. B has lines connecting it to A, F, and C. C has lines connecting it to B, A, D, and F. D has lines connecting it to C and F. E has lines connecting it to A and F F has lines connecting it to all others.]](../assets/goodman/fig1b.png)
 
-\*Figure 1b.\*
+*Figure 1b.*
 
 If we take the graph and now group exactly those erlebs together that are mutually part-similar, we get the following sets:
 
@@ -169,13 +169,13 @@ Goodman observes, however, that in unfavorable circumstances quasi-analysis will
 
 ![[6 vertical colored bars, labeled A through F, A bar is green on the top half and black on the bottom half, B bar is all black, C bar is black on top half and red on bottom half, D bar is all red, E bar is black on the top half and green on the bottom half, F bar is green on top third, black in middle third, and red on bottom third]](../assets/goodman/fig2a.png)
 
-\*Figure 2a.\*
+*Figure 2a.*
 
 This corresponds to the following graph:
 
 ![[Graph: A on first row 3rd column, B and F on second row (1st and 5th columns respectively), D on third row, 6th column, E and C on fourth row (2nd and 4th columns respectively). A has lines connecting it to B, C, F, and E. B has lines connecting it to A, F, C, and E. C has lines connecting it to all others. D has lines connecting it to C and F. E has lines connecting it to B, A, F, and C F has lines connecting it to all others.]](../assets/goodman/fig2b.png)
 
-\*Figure 2b.\*
+*Figure 2b.*
 
 If we use Carnap’s rule for quasi-analysis, we will obtain all color classes except $\{A, E, F\}$, the color class for “green”, because green only occurs in “constant companionship” with the color “black”. Goodman calls this the “constant companionship difficulty”.
 
@@ -183,13 +183,13 @@ A second problem can be illustrated with the following example of erlebs:
 
 ![[6 vertical colored bars, labeled A through F, A bar is green on the top half and black on the bottom half, B bar is all black, C bar is black on top half and red on bottom half, D bar is all red, E bar is all green, F bar is green on top half and red on the bottom half]](../assets/goodman/fig3a.png)
 
-\*Figure 3a.\*
+*Figure 3a.*
 
 This corresponds to this graph:
 
 ![[Graph: A and E on first row (2nd and 4th columns respectively), B and F on second row (1st and 3rd columns respectively), C and D on third row (2nd and 4th columns respectively). A has lines connecting it to B, C, F, and E. B has lines connecting it to A and C. C has lines connecting it to B, A, D, and F. D has lines connecting it to C and F. E has lines connecting it to A and F F has lines connecting it to A, C, E, and D.]](../assets/goodman/fig3b.png)
 
-\*Figure 3b.\*
+*Figure 3b.*
 
 But here $\{A,C,F\}$ should be a color class resulting from quasi-analysis, although $A$, $C$, and $F$ have in fact no color in common. Goodman calls this problem “the difficulty of imperfect community”. It is controversial to what extent these problems are devastating for Carnap’s project, but Goodman considered them to be serious.
 

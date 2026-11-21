@@ -136,7 +136,7 @@ To put the idea succinctly, “X” means, or refers to, those things that are t
 | K₃ |   | 1 |   |   |   |
 | K₃ | 1 |   |   |   |   |
 
-\*Figure 1.\* A spreadsheet biography
+*Figure 1.* A spreadsheet biography
 
 Consider an organism S that (a) causally interacts with three different natural kinds, K₁-K₃, in its environment and (b) has a language of thought with five terms “X₁”-“X₅”. Further, suppose that each time S interacts with an individual of kind Kᵢ this causes an occurrence of one or more of “X₁”-“X₅”. We can then create a kind of “spreadsheet biography” or “log of mental activity” for S in which there is a column for each of “X₁”-“X₅” and a row for each instance in which a member of K₁-K₃ causes one or more instances of “X₁”-“X₅”. Each mental representation “Xᵢ” that Kᵢ triggers receives a “1” in its column. Thus, a single spreadsheet biography might look like that shown in Figure 1.
 

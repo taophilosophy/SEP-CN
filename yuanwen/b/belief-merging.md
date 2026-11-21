@@ -24,7 +24,7 @@ In Kornhauser and Sager’s court example (1993), a three-member court has to re
 | Judge 3 | False | True | False |
 | Majority | True | True | False |
 
-\*Table 1:\* The doctrinal paradox
+*Table 1:* The doctrinal paradox
 
 Proposition *r* is the *conclusion*, whereas *p* and *q* are the *premises*. The legal doctrine can thus be logically expressed as $(p\land q)\leftrightarrow r$, stating that premises *p* and *q* are both necessary and sufficient for the conclusion *r*. Table 1 shows that each judge respects the given legal doctrine, by declaring the conclusion to be true if and only if she deems both premises true. If the judges aggregate their individual opinions using majority rule on the judgments on each proposition, the resulting judgment set is {*p*, *q*, not *r*}, which constitutes a violation of the legal doctrine. This is an instance of the doctrinal paradox: despite the individuals being logically consistent, the group’s judgment on the propositions is not consistent with the legal doctrine. In the example above, the judges cannot declare the defendant not liable and, at the same time, state that both conditions for her liability apply. Thus, the court faces a dilemma. Either judges are asked to express judgments on the premises only, and the court’s decision on *r* is logically derived from the majority on the premises (the *premise-based* or *issue-by-issue procedure*), or the verdict is decided by the majority judgment on *r* (the *conclusion-based* or *case-by-case procedure*) ignoring the opinions on the premises. Instances such as that in Table 1 illustrate that the two procedures may give opposite results. In the court example the issues on which the judges have to express a position are distinguished into premises and conclusion. We should note, however, that the theory of judgment aggregation does not require such a distinction. The court decision of declaring the defendant not liable (despite a majority in favour of the two criteria to declare her liability) would be inconsistent with the decision rule $(p \land q) \leftrightarrow r$ even without a distinction between premises and conclusion.
 
@@ -196,7 +196,7 @@ Table 2 shows the result for the majority operator that minimizes the sum of the
 | $(0,0,1)$ | 2 | 2 | 2 | 6 |
 | $(0,0,0)$ | 3 | 1 | 1 | 5 |
 
-\*Table 2\*
+*Table 2*
 
 We see that, without *IC*, the distance-based majority operator would select the same (inconsistent) outcome as proposition-wise majority voting, that is, $(1,1,0)$. This is the outcome that is at the minimum distance from *E*. However, the merging operator cannot select $(1,1,0)$ as that outcome violates the IC. Neglecting the shaded rows, only four interpretations are candidates to be selected as collective judgment sets, that is, $(1,1,1)$, $(1,0,0)$, $(0,1,0)$, and $(0,0,0)$. Of those, three are the ones that minimize the distances. Thus, collective inconsistency is avoided when a distance-based aggregation is used. However, this method does not always guarantee a unique outcome. In the court example, this aggregation selects the three models $(1,1,1)$, $(1,0,0)$ and $(0,1,0)$ as group positions. Technically, this is said to be an *irresolute* procedure, and a tie-breaking rule needs to be combined if we wish to ensure a unique result (as common in social choice theory).
 

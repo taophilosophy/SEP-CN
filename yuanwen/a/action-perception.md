@@ -133,7 +133,7 @@ It is only when the displacement of the retinal image differs from the displacem
 
 ![[Three parts to the image, the first, labeled 'a.', has at the top an apple and at the bottom an eyeball looking straight up with an arrow going from the bottom of the eyeball to the apple; the arrow is labeled EC=0 and the eyeball, A=0. The second, labeled 'b.', is like the first except the eyeball is looking slightly clockwise of straight up and the arrow follows the line of sight; a second arrow goes from the apple to the bottom of the eyeball; the eyeball is labeled A=-10; the first arrow, EC=+10 (there two equations line up horizontally with A=0 and EC=0 respectively from the first part). The third part is not labeled and consists of a circle divided into quarters with a '+' in the top quarter and a '-' in the bottom quarter. The equation 'EC=+10' in part b has an arrow going from it to the '+' quadrant of the circle. The equation 'A=-10' from part b has an arrow going from it to the '-' quadrant of the circle. From the right side of the circle is an arrow that points to an equation 'EA=EC+A=0'; the arrow is labeled 'Comparator'. ]](../assets/action-perception/fig1.png)
 
-\*Figure 1:\* (a) When the eye is stationary, both efference copy (EC) and afference produced by displacement of the retinal image (A) are absent. (b) Turning the eye 10° to the right results in a corresponding shift of the retinal image. Since the magnitude of the eye movement specified by EC and the magnitude of retinal image displacement cancel out, no movement in the world or “exafference” (EA) is registered.
+*Figure 1:* (a) When the eye is stationary, both efference copy (EC) and afference produced by displacement of the retinal image (A) are absent. (b) Turning the eye 10° to the right results in a corresponding shift of the retinal image. Since the magnitude of the eye movement specified by EC and the magnitude of retinal image displacement cancel out, no movement in the world or “exafference” (EA) is registered.
 
 #### 2.1.1 Objections to the Efference Copy Theory
 
@@ -161,7 +161,7 @@ Stratton conducted two dramatic experiments using a lens system that effected an
 
 ![[a line drawing of a man standing and looking up at about a 45 degree angle. Above him is a horizontal line labeled at the left end 'A' and right end 'B'. A second line goes from the 'B' end at about a -60 degree angle to point approximately horizontal to the man's neck that point is labeled 'D'. To the right of D is the dotted line drawing of a horizontal man, head closest to D; feet labeled 'E'. Fromt the first man's eyes is a short line, labeled 'C', going up at about a 45 degree angle approximately in the direction of the point labeled 'B'.]](../assets/action-perception/fig2.png)
 
-\*Figure 2:\* The apparatus designed by Stratton (1899)[^stratton-1899]. Stratton saw a view of his own body from the perspective of mirror AB, worn above his head.
+*Figure 2:* The apparatus designed by Stratton (1899)[^stratton-1899]. Stratton saw a view of his own body from the perspective of mirror AB, worn above his head.
 
 In both experiments, Stratton reported a brief period of initial visual confusion and breakdown in visuomotor skill:
 
@@ -319,7 +319,7 @@ The COG bias is illustrated in Figure 3. In the **first row (top)**, there are n
 
 ![[Two columns of 4 dots each, each pair of dots on the same horizontal. The left column has the words 'Fixation Point' at the top and a blue arrow pointing from those words to the top of the column. The right column has the words 'Saccade Target' and a similar blue arrow. The top (or first) pair of dots has an arrow curving from the left dot to the right dot. The second pair as a 'x' to the left of the right dot and an arrow curving from the left dot to a point between the 'x' and the right dot. The third pair has a 'x' to the right of the right dot and an arrow curving from the left dot to a point between the right dot and the 'x'. The fourth pair as a 'x' to the left of the left dot and an arrow curving from the left dot to the right dot.]](../assets/action-perception/fig3.png)
 
-\*Figure 3:\* The effect of starting eye position on saccade programming (after Coren 1986: 405)[^coren-1986]
+*Figure 3:* The effect of starting eye position on saccade programming (after Coren 1986: 405)[^coren-1986]
 
 The COG bias is evolutionarily adaptive: eye movements will bring both the saccade target as well as nearby objects into high acuity vision, thereby maximizing the amount of information obtained with each saccade. Motor preparation or “efferent readiness” to execute an undershooting or overshooting saccade, Coren found, however, can also give rise to a corresponding *illusion of extent* (1986: 404–406). Observers, e.g., will perceptually underestimate the length of the distance between the point of fixation and the saccade target when there is an extraneous stimulus on the near side of the target (as in the second row of Figure 3) and will perceptually overestimate the length of the distance when there is an extraneous stimulus on the far side of the target (as in the third row of Figure 3).
 

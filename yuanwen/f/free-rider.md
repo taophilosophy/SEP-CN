@@ -29,7 +29,7 @@ The free rider problem can be defined as that particular kind of collective acti
 
 ![a strategic game: link to extended description below](../assets/free-rider/fig1.svg)
 
-\*Figure 1\* [An extended description of figure 1 is in the supplement.]
+*Figure 1* [An extended description of figure 1 is in the supplement.]
 
 In a chicken game, conflicting interests jeopardize the attainment of a mutually advantageous outcome, so it is a collective action problem; but it is not a free rider problem, since it is not a situation in which the efficient collective production of a good is jeopardized by each agent’s incentive not to contribute.
 
@@ -40,7 +40,7 @@ One common way in which free rider problems commonly arise is through strategic 
 | cooperates | rank $r$ $(r > 1)$ | $> s_m$ (but not worst) | worst |
 | does not cooperate | 1 | rank $s_m$ $(s_m > 1)$ | $> r$ (but not worst) |
 
-\*Figure 2\*
+*Figure 2*
 
 When everyone has this preference-structure, three significant consequences follow. First, non-cooperation dominates: each agent prefers non-cooperation, whatever the others do. (In each column, the bottom cell is ranked higher than the top.) Second, each prefers everyone’s cooperating to everyone’s not cooperating. (The top left cell is ranked higher than the bottom right cell.) And third, for each agent the highest-ranked outcome is the one where that agent is the only non-cooperator and the lowest ranked outcome is the one where they are the only cooperator. (These are the bottom left and top right cells.) While sharing these three features in common, different *n*-party Prisoner’s Dilemmas can have different rankings of the other possible outcomes. In some *n*-party Prisoner’s Dilemmas, the outcome in which everyone cooperates (rank *r*) is ranked higher than every outcome in which there is an intermediate number *m* of others who cooperate (rank $s_m$); in some, *r* is ranked lower than $s_m$ for every intermediate number *m*; and in others, there is some number of cooperators for which $r > s_m$ when *m* is greater than that number and otherwise $r < s_m$.
 
@@ -76,7 +76,7 @@ Given this, it is not mysterious on Hobbes’s view why there should be a state:
 
 ![a strategic game: link to extended description below](../assets/free-rider/fig2.svg)
 
-\*Figure 3\* [An extended description of figure 3 is in the supplement.]
+*Figure 3* [An extended description of figure 3 is in the supplement.]
 
 Here, there is a mixture of coordination problem and conflicting interests. It is better for each of us to coordinate with the other than to miss out on the benefits of coordination, but we have competing interests regarding the available coordination points. As applied to Hobbes’s case, it is better for each person that we coordinate on a sovereign; but some of the different possible sovereigns are better for some citizens; others for others. Warring over this can then threaten to leave us without a state altogether (giving us a free rider problem in its non-production manifestation).
 

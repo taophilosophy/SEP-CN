@@ -82,7 +82,7 @@ Later, Lothar Meyer (1830–95) and Dmitrij Mendeleev (1834–1907) independentl
 
 ![periodic table](../assets/chemistry/periodic-table.png)
 
-\*Figure 1.\* The International Union of Pure and Applied Chemistry’s Periodic Table of the Elements.
+*Figure 1.* The International Union of Pure and Applied Chemistry’s Periodic Table of the Elements.
 
 The modern Periodic Table depicted in Figure 1 is based on Mendeleev’s table, but now includes 92 naturally occurring elements and some dozen artificial elements (see Scerri 2006)[^scerri-2006]. The lightest element, hydrogen, is difficult to place, but is generally placed at the top of the first group. Next comes helium, the lightest of the noble gases, which were not discovered until the end of the 19ᵗʰ century. Then the second period begins with lithium, the first of the group 1 (alkali metal) elements. As we cross the second period, successively heavier elements are first members of other groups until we reach neon, which is a noble gas like helium. Then with the next heaviest element sodium we return to the group 1 alkali metals and begin the third period, and so on.
 
@@ -156,7 +156,7 @@ Isomers may differ radically in “physical” properties such as melting points
 
 ![tartaric acid](../assets/chemistry/tartaric-acid.png)
 
-\*Figure 2.\* The enantiomers of tartaric acid. D-tartaric acid is on the left and L-tartaric acid is on the right. The dotted vertical line represents a mirror plane. The solid wedges represent bonds coming out of the plane, while the dashed wedges represent bonds going behind the plane. These molecular structures are mirror images of one another.
+*Figure 2.* The enantiomers of tartaric acid. D-tartaric acid is on the left and L-tartaric acid is on the right. The dotted vertical line represents a mirror plane. The solid wedges represent bonds coming out of the plane, while the dashed wedges represent bonds going behind the plane. These molecular structures are mirror images of one another.
 
 Although these discoveries are often presented as having been explained by the atomic or molecular hypothesis, skepticism about the status of atomism persisted throughout the 19th century. Late 19th century skeptics such as Ernst Mach, Georg Helm, Wilhelm Ostwald, and Pierre Duhem did not see atomism as an adequate explanation of these phenomena, nor did they believe that there was sufficient evidence to accept the existence of atoms. Instead, they advocated non-atomistic theories of chemical change grounded in thermodynamics (on Helm and Ostwald, see the introduction to Deltete 2000)[^deltete-2000].
 
@@ -208,7 +208,7 @@ Kekulé’s ideas about bonding between atoms were important steps toward unders
 
 ![Ethane and Formic Acid](../assets/chemistry/ethane-formic-acid.png)
 
-\*Figure 3.\* Depictions of ethane and formic acid in Crum Brown’s graphic notation. (1864 [1865], 232)
+*Figure 3.* Depictions of ethane and formic acid in Crum Brown’s graphic notation. (1864 [1865], 232)
 
 Edward Frankland (1825–1899) simplified and popularized Crum Brown’s notation in successive editions of his *Lecture Notes for Chemical Students* (Russell 1971; Ritter 2001)[^ritter-2001][^russell-1971]. Frankland was also the first to introduce the term ‘bond’ for the linkages between atoms (Ramberg 2003)[^ramberg-2003].
 
@@ -226,7 +226,7 @@ van ’t Hoff and Le Bel provided no account of the mechanism by which chiral mo
 
 ![tetrahedral carbon diagram](../assets/chemistry/tetrahedracarbon.png)
 
-\*Figure 4.\* A schematic representation of the tetrahedral arrangement of substituents around the carbon atom. Compare the positions of substituents Y and Z.
+*Figure 4.* A schematic representation of the tetrahedral arrangement of substituents around the carbon atom. Compare the positions of substituents Y and Z.
 
 Given that these theories were intrinsically spatial, traditional questions about chemical combination and valency took a new direction: What is it that holds the atoms together in a particular spatial arrangement? The answer, of course, is the *chemical bond*.
 
@@ -266,7 +266,7 @@ Finally, the “Atoms in Molecules” program (Bader 1991; see Gillespie and Pop
 
 ![Argon in Buckyball diagram](../assets/chemistry/ArC60.png)
 
-\*Figure 5.\* Too many bonds? 60 bond paths from each carbon atom in C₆₀ to a trapped Ar atom in the interior.
+*Figure 5.* Too many bonds? 60 bond paths from each carbon atom in C₆₀ to a trapped Ar atom in the interior.
 
 Unfortunately, Bader’s approach does not necessarily save the day for the structural conception of the bond. His critics point out that his account is extremely permissive and puts bond paths in places that seem chemically suspect. For example, his account says that when you take the soccer-ball shaped buckminster fullerene molecule (C₆₀) and trap an argon atom inside it, there are 60 bonds between the carbon atoms and the argon atom as depicted in Figure 5 (Cerpa et al. 2008)[^cerpa-2008]. Most chemists would think this implausible because one of the most basic principles of chemical combination is the fact that argon almost never forms bonds (see Bader 2009 for a response)[^bader-2009].
 
@@ -322,7 +322,7 @@ In contrast, the *thin* notion of a reaction mechanism focuses on a discrete set
 
 ![Broman SN2 reaction](../assets/chemistry/BromoethaneSN2reaction.png)
 
-\*Figure 6.\* Thin reaction mechanism for the S_{N}2 reaction.
+*Figure 6.* Thin reaction mechanism for the S_{N}2 reaction.
 
 While most textbook treatments of reaction mechanisms begin by mentioning the thick notion, the details nearly always turn to thin notions of mechanism. At the same time, formal theoretical treatments of reaction mechanisms deal exclusively with the thick notion. Such treatments often attempt to calculate the potential energy function for the reaction from quantum mechanics. Given the importance of the thick notion to formal chemical theorizing, why does the thin notion dominate the practice of chemistry and find expression in textbooks and research articles?
 

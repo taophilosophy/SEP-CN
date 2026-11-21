@@ -31,7 +31,7 @@ A **vector** $A$, written ‘$\ket{A}$’, is a mathematical object characterize
 
 ![vector addition](../assets/qm/figure1.gif)
 
-\*Figure 1\*. Vector Addition
+*Figure 1*. Vector Addition
 
 Multiplying a vector $\ket{A}$ by $n$, where $n$ is a constant, gives a vector which is the same direction as $\ket{A}$ but whose length is $n$ times $\ket{A}$’s length.
 
@@ -47,7 +47,7 @@ For example, here is a graph which shows how $\ket{B}$ can be represented as the
 
 ![figure2](../assets/qm/figure2.gif)
 
-\*Figure 2\*. Representing $\ket{B}$ by Vector Addition of Unit Vectors
+*Figure 2*. Representing $\ket{B}$ by Vector Addition of Unit Vectors
 
 Now the definition of the inner product $\braket{A}{B}$ has to be modified to apply to complex spaces. Let $c^*$ be the complex conjugate of $c$. (When $c$ is a complex number of the form $a \pm bi$, then the complex conjugate $c^*$ of $c$ is defined as follows:
 

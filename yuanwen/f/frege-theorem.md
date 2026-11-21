@@ -394,7 +394,7 @@ To see that Frege’s definition of equinumerosity works correctly, consider the
 
 ![representation of two equinumerous concepts](../assets/frege-theorem/1-1.png)
 
-\*Figure 1\*
+*Figure 1*
 
 Although there are several different relations $R$ which demonstrate the equinumerosity of $F$ and $G$, the particular relation used in Figure 1 is:
 
@@ -406,7 +406,7 @@ In Figure 2, we have two concepts that are not equinumerous:
 
 ![graphic of non-equinumerous concepts](../assets/frege-theorem/not-1-1.png)
 
-\*Figure 2\*
+*Figure 2*
 
 In this example, no relation $R$ can satisfy the definition of equinumerosity.
 
@@ -624,7 +624,7 @@ In other words, this theorem asserts that predecessor is a one-to-one relation o
 
 ![graphic illustrating Equinumerosity Lemma](../assets/frege-theorem/equinlem.png)
 
-\*Figure 3\*
+*Figure 3*
 
 In terms of Figure 3, the Equinumerosity Lemma tells us that if there is a relation $R$ which is a witness to the equinumerosity of $ F$ and $G$, then there is a relation $R'$ which is a witness to the equinumerosity of the concepts that result when you restrict $ F$ and $G$ to the objects other than $x$ and $y$, respectively.
 

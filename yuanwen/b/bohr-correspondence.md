@@ -67,7 +67,7 @@ According to the *selection rule interpretation*, Bohr’s correspondence princi
 
 ![sum of harmonics](../assets/bohr-correspondence/Figure1.png)
 
-\*Figure 1.\* A classical periodic orbit, $x(t)$, can be represented as a Fourier sum of “harmonics” which are integer multiples of the fundamental frequency, *ω*, representing the periodicity of the motion. According to the selection rule interpretation, the correspondence principle is Bohr’s insight that each allowed transition between stationary states corresponds to one harmonic component of the classical motion. (Based on Fig. 3 of Fedak and Prentis 2002)[^fedak-2002]
+*Figure 1.* A classical periodic orbit, $x(t)$, can be represented as a Fourier sum of “harmonics” which are integer multiples of the fundamental frequency, *ω*, representing the periodicity of the motion. According to the selection rule interpretation, the correspondence principle is Bohr’s insight that each allowed transition between stationary states corresponds to one harmonic component of the classical motion. (Based on Fig. 3 of Fedak and Prentis 2002)[^fedak-2002]
 
 Bohr’s selection rule can be illustrated by the following simplified example.[^note-5] Suppose that the solution to Newton’s equation, $F = m d^2 x/dt^2$, and the quantum condition $\oint pdx = nh$ is[^note-6]
 
@@ -111,7 +111,7 @@ In his 1922 lectures on atomic theory in Göttingen, Bohr again emphasizes that 
 
 ![missing text, please inform](../assets/bohr-correspondence/Figure2a.png) ![missing text, please inform](../assets/bohr-correspondence/Figure2b.png)
 
-\*Figure 2.\* Red and green spectral lines of the Balmer series in the visible part of the hydrogen atom
+*Figure 2.* Red and green spectral lines of the Balmer series in the visible part of the hydrogen atom
 
 Regarding these low-quantum-number transitions Bohr writes,
 

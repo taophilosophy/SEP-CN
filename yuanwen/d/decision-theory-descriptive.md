@@ -82,7 +82,7 @@ Indeed, the above principle follows from Independence and is in fact *equivalent
 
 ![right triangle with the with the 90 degree angle on the bottom left and labeled '0'. The other two angles are each labeled '1'. The vertical side is labeled 'P(x_3)' and the horizontal side labeled 'P(x_1)'. Five parallel diagonal lines in the triangle from the bottom left to top right.](../assets/decision-theory-descriptive/fig1.svg)
 
-\*Figure 1\*
+*Figure 1*
 
 Although SEU continues to enjoy widespread support as a normative model of choice behaviour (though see Section 5 below), it is no longer generally taken to be descriptively adequate. A number of substantial deviations from its predictions were noted as early as the 1950s and early 1960s by the likes of Allais (1953a,b) and Ellsberg (1961)[^ellsberg-1961] and further investigated in the 1970s. These observations led to the development of alternative models whose own predictive consequences have become the focus of extensive testing in the past three decades or so.[^note-3]
 
@@ -108,7 +108,7 @@ Allais (1953a: 527)[^allais-1953a] considered hypothetical preferences revealed 
 
 (d)
 
-\*Figure 2\*
+*Figure 2*
 
 He claimed that, for a substantial proportion of agents, one would find that $P_{1}\succ P_{2}$ and $P_{4}\succ P_{3}$ (call these the “*Allais preferences*”). However, on the assumptions that (i) the subjects’ degrees of belief align themselves with the objective probabilities given and (ii) the outcomes can be adequately characterised entirely in terms of the associated changes in level of wealth, such a combination of preferences runs contrary to Independence. More specifically, it runs counter to the special case of the principle, according to which the substitution of a common “consequence”, i.e., lottery, in a pair of mixtures leave the order of preference unchanged:
 
@@ -134,7 +134,7 @@ To see why, let $\lambda=0.11$, $Q_1$ (the “consequence” common to $P_1$ and
 
 (d)
 
-\*Figure 3\*
+*Figure 3*
 
 The upshot of this, by Common Consequence, is then that $P_1\succeq P_2$ iff $P_3\succeq P_4$.[^note-4]
 
@@ -142,7 +142,7 @@ The probability triangle affords a helpful illustration of the incompatibility o
 
 ![Similar to figure 1 except no diagonal lines and the vertical side is labeled 'P(x_1)' and the horizontal 'P(x_3)'. In addition a short vertical segment starts at the right angle vertice and is labeled 'P_1' at the bottom and 'P_2' at the top. Another short vertical segment that seems to be the same length is on the right connecting the horizontal line of the triangle to its hypotenuse; it is labeled 'P_3' on the bottom and 'P_4' on the top.](../assets/decision-theory-descriptive/fig4.svg)
 
-\*Figure 4\*
+*Figure 4*
 
 In addition to the above, which has come to be known as the *Common Consequence* problem, a further issue, the *Common Ratio* problem, was suggested by Allais (1953a: 529–530)[^allais-1953a]. The difficulty this time concerned a further consequence of Independence, which tells us that the order of preference between two identically-weighted mixtures that share a common component lottery is unaffected by a change in the mixture weight:
 

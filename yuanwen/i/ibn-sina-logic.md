@@ -190,13 +190,13 @@ Below is a summary of the relations of entailment (including subalternation) and
 
 ![a diamond shape with 4 items on each side, for each side arrows point from the first item to the second, second to third, third to fourth. First side (upper middle to middle left): La, Aa, X1a, M1a. Second side (lower middle to middle left): Li, Ai, X1i, M1i. An arrow points from each item in the first side to the corresponding item on the second side (e.g., La to Li). Third side (upper middle to middle right): Le, Ae, X1e, M1e. Fourth side (lower middle to middle right): Lo, Ao, X1o, M1o. An arrow points from each item in the third side to the corresponding item on the fourth side (e.g., Le to Lo). Dotted lines connect the first item of the first side to the fouth item of the fourth side, second item of the first side to the third item of the fourth side (and so on). Similarly for the first item of the third side to the fourth item of the second side and so on. A legend explains that the arrows mean 'entails' and the dotted lines 'contradicts'](../assets/ibn-sina-logic/fig1.svg)
 
-\*Figure 1:\* Referential/substantial necessity, perpetuity, general absoluteness, and general possibility: entailment and contradiction
+*Figure 1:* Referential/substantial necessity, perpetuity, general absoluteness, and general possibility: entailment and contradiction
 
 The following are analogous relations among propositions in the descriptional reading:
 
 ![very similar to figure 1, except that the side items are different. A diamond shape with 4 items on each side, for each side arrows point from the first item to the second, second to third, third to fourth. First side (upper middle to middle left): Ld1a, Ad1a, Xd1a, Md1a. Second side (lower middle to middle left): Ld1i, Ad1i, Xd1i, Md1i. An arrow points from each item in the first side to the corresponding item on the second side (e.g., Ld1a to Ld1i). Third side (upper middle to middle right): Ld1e, Ad1e, Xd1e, Md1e. Fourth side (lower middle to middle right): Ld1o, Ad1o, Xd1o, Md1o. An arrow points from each item in the third side to the corresponding item on the fourth side (e.g., Ld1e to Ld1o). Dotted lines connect the first item of the first side to the fourth item of the fourth side, second item of the first side to the third item of the fourth side (and so on). Similarly for the first item of the third side to the fourth item of the second side and so on.](../assets/ibn-sina-logic/fig2.svg)
 
-\*Figure 2:\* Descriptional necessity, perpetuity, general absoluteness, and general possibility: entailment and contradiction
+*Figure 2:* Descriptional necessity, perpetuity, general absoluteness, and general possibility: entailment and contradiction
 
 The above relations are central in syllogistic proofs by *reductio*.
 
@@ -208,7 +208,7 @@ Avicenna is keen to point out on various occasions throughout the treatment of c
 
 ![An 8 sided diagram. On the left side the vertices are (a-$\mathbb{C}$)aa, (e0c)ao, (o-$\mathbb{C}$)ao, (i-$\mathbb{C}$)aa with double headed arrows connecting the first two items to each other and also the last two items to each other, a single arrow points from the second item to the third to make up three of the sides of the diagram. In addition the first item has an arrow pointing to the fourth item. Similary on the right side except the vertices are (e-$\mathbb{C}$)aa, (a-$\mathbb{C}$ao), (i-$\mathbb{C}$)ao and (o-$\mathbb{C}$)aa. Between the first item of the left side and the first item of the right side is the word 'contraries' and between the last item of the left side and the last item of the right side is the word 'subcontraries'. Dotted lines connect the first item of one side to the third and fourth items of the second side and also from the second item of each side to the third and fourth of the other.](../assets/ibn-sina-logic/fig3.svg)
 
-\*Figure 3:\* Relations among conditionals: mutual implication, subalternation, contrariety, and contradiction)
+*Figure 3:* Relations among conditionals: mutual implication, subalternation, contrariety, and contradiction)
 
 ### 4.3 Conversion of Categorical Propositions
 

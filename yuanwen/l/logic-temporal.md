@@ -80,7 +80,7 @@ In an influential early work on interval-based temporal ontology and reasoning i
 | ├╊╉┤ | *contains* $\{di\}$ / *during* $\{d\}$ | $\langle D\rangle\:/\:\langle\overline{D}\rangle$ *During* |
 | ┣╉─┤ | *started-by* $\{si\}$ / *starts* $\{s\}$ | $\langle B\rangle\:/\:\langle\overline{B}\rangle$ *Begins* |
 
-\*Table 1:\* Allen relations between time intervals and the corresponding Halpern-Shoham modal operators (see Section 6).
+*Table 1:* Allen relations between time intervals and the corresponding Halpern-Shoham modal operators (see Section 6).
 
 More abstract questions can also be posed: assume, for example, that we are provided with a structure defined by a set of interval relations (of arbitrary arity) that are required to fulfill certain conditions. Can this structure be represented by a concrete interval-based model over linear time? Answers are provided by various representation theorems, see e.g. van Benthem (1983)[^benthem-1983]; Ladkin (1987)[^ladkin-1987]; and Venema (1990)[^venema-1990].
 

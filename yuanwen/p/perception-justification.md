@@ -165,7 +165,7 @@ Our thesis does need to be qualified. For example, suppose that you gain convinc
 
 ![[A set of three horizontal lines vertically aligned with the first and third having simple two line arrow heads at each end and the middle having inverted arrow heads. Sighted people tend to perceive the middle line as longer in this set. Below is the same set with the horizontal lines in red and a dashed line on each side showing that the lines are actually identical in length. ]](../assets/perception-justification/figure1.png)
 
-\*Figure 1.\* Müller-Lyer illusion[^note-1]
+*Figure 1.* Müller-Lyer illusion[^note-1]
 
 Your experience does not give you justification to believe that the lines are different in length once you have gain the evidence they are the same in length. Such cases are ones of “defeat”, where further evidence opposes or otherwise disrupts your receipt of justification from your experience (some cases may be like someone writing over the graffiti drawn by experience, other cases may be like someone erasing the graffiti drawn by experience, and perhaps there are further variants of defeat as well). To take account of such cases, the fan of Sufficiency can say that
 
@@ -187,7 +187,7 @@ To get a feel for our problem, suppose you get a look at a speckled hen in good 
 
 ![[A Speckled Sussex chicken mostly black with lots of white speckles.]](../assets/perception-justification/figure2.jpg)
 
-\*Figure 2.\* “Speckled Sussex Hen named Mata Hari”[^note-2]
+*Figure 2.* “Speckled Sussex Hen named Mata Hari”[^note-2]
 
 The objection to Sufficiency can be put as follows. First, your experience does have a verdict about how many spots face you—say to the effect that $H$ has 17 spots. Second, your experience does not justify you in believing that $H$ has 17 spots. After all, forming a belief that $H$ has 17 spots without carefully counting might manifestly seem no more likely to be right than a guess. So, the critic concludes, some experiences have the content that $p$ without giving you justification to believe that $p$.
 
@@ -313,7 +313,7 @@ In cases of perceptual error, we form a false belief on the basis of a misleadin
 
 ![[A visual illusion. The object looks like 18 overlapping circles with an intricate repeating pattern. For most sighted people the circles seem to rotate.]](../assets/perception-justification/figure3.png)
 
-\*Figure 3.\* “Rotating snakes”[^note-3]
+*Figure 3.* “Rotating snakes”[^note-3]
 
 This is a paradigm case of an illusion, where you do see a scene, but misperceive what the scene is like. In a paradigm case of hallucination, you have a perceptual experience, but do not perceive anything in the scene before you.
 
@@ -418,7 +418,7 @@ One potential source of examples comes from ambiguous figures such as the Necker
 
 ![[two identical squares overlapping and with lines connecting the four vertices of one to the equivalent vertex of the other]](../assets/perception-justification/figure4.png)
 
-\*Figure 4.\* Necker Cube[^note-4]
+*Figure 4.* Necker Cube[^note-4]
 
 You can see this figure as a downward-tilted cube with the left face closest to you, or as an upward-tilted cube with the right face closest to you. Critics dispute whether such examples support any thesis of *theory*-dependence of observation. An alternative response is that you experience the figure in different ways merely because you attend to different parts of the figure at different times. Here the difference in your experience is not explained by differences in what theory you hold (Fodor 1984)[^fodor-1984].
 
@@ -426,7 +426,7 @@ Theorists such as Hanson, Kuhn and Churchland also made much of work by so-calle
 
 ![[The 6 Spades playing card but red instead of the normal black]](../assets/perception-justification/figure5.png)
 
-\*Figure 5\*
+*Figure 5*
 
 What did you just see? When subjects were exposed to this sort of card, many reported it to be a six of hearts. The card is actually a red six of spades.
 

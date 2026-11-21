@@ -19,7 +19,7 @@ It is easy to see how the problem of universals emerges, if we consider a geomet
 
 ![Points A, B, and D are on a circle with center C. Line AB is a horizontal diameter through C. Lines AD, CD, and BD are also drawn forming 3 triangles: ABD, ACD, and DCB](../assets/universals-medieval/image1.gif)
 
-\*Figure 1.\* Thales’ theorem
+*Figure 1.* Thales’ theorem
 
 Looking at this diagram, we can see that all we need to prove is that the angle at vertex D of triangle ABD is a right angle. The proof is easy once we realize that since lines AC, DC, and BC are the radii of a circle, the triangles ACD and DCB are isosceles triangles, whence their base angles are equal. For then, if we denote the angles of ABD by the names of their vertices, this fact entails that D=A + B; and so, since A + B + D=180ᵒ, it follows that 2A + 2B=180ᵒ; therefore, A + B=90ᵒ, that is, D=90ᵒ, **q. e. d.**
 
@@ -29,7 +29,7 @@ If we take a closer look at the diagram, we can easily see the appeal of the Pla
 
 ![Figure 1 magnified. The straight and circular lines of Figure 1 are no longer smooth; under increased magnification, they now appear as 'jagged' lines](../assets/universals-medieval/image2.gif)
 
-\*Figure 2.\* The result of zooming in on Figure 1.
+*Figure 2.* The result of zooming in on Figure 1.
 
 The demonstration was certainly not about the collection of jagged black surfaces that we can see here. Rather, the demonstration concerned something we did not see with our bodily eyes, but what we had in mind all along, understanding it to be a triangle, with perfectly straight edges, touching a perfect circle in three unextended points, which are all perfectly equidistant from the center of the circle. The figure we could see was only a convenient “reminder” of what we are supposed to have in mind when we want to prove that a certain property, namely, that it is a right triangle, has to belong to the object in our mind in virtue of what it is, namely, a triangle inscribed in a semicircle. Obviously, the conclusion applies perfectly only to the perfect triangle we had in mind, whereas it holds for the visible figure only insofar as, and to the extent that, this figure resembles the object we had in mind. But this figure fails to have this property precisely insofar as, and to the extent that, it falls short of the object in our mind.
 
@@ -65,7 +65,7 @@ This can easily be visualized in the following diagram, where the tiny lightning
 
 ![Consists of three 'matchstick human' characters (as on public bathroom doors), a bigger one on the top, drawn in dashed lines, representing the universal humanity, a female on the lower left and a male character on the lower right, representing individual humans. Each has a lightning bolt symbol next to it, representing their acts of being, showing that the acts of being of the individuals are not identical, while the act of being of the universal would have to be identical with these distinct acts of being, which is impossible.](../assets/universals-medieval/image3.gif)
 
-\*Figure 3.\* Illustration of the first part of Boethius’ argument
+*Figure 3.* Illustration of the first part of Boethius’ argument
 
 But then, Boethius goes on, we should perhaps say that the universal is not one being, but rather many beings, that is, [the collection of][^note-9] those constituents of the individual essences of its particulars on account of which they all fall under the same universal predicable. For example, on this conception, the genus ‘animal’ would not be some one entity, a universal animality over and above the individual animals, yet somehow sharing its being with them all (since, as we have just seen, that is impossible), but rather [the collection of] the individual animalities of all animals.
 
@@ -293,7 +293,7 @@ The items thus distinguished and their interconnections can be represented by th
 
 ![A box labeled (1) 'common term' has arrows pointing to boxes labeled (2) 'individual natures', (3) 'singulars', (4) 'absolute nature', (5) 'objective concept', and (6) 'subjective concept'. The arrow from (1) to (2) is labeled 'signification', the arrow from (1) to (3) is dashed and labeled 'supposition', the arrow from (1) to (6) is labeled 'subordination'. Boxes (2) and (3) share a side. Boxes (4) and (5) share a side and have dashed frames. Box (3) has an arrow to box (7) 'phantasms' which has an arrow to box (8) 'intelligible species' which has an arrow to box (9) 'subjective concept' which has an arrow to box (5). Boxes (7),(8), and (9) are inside a large box (10) labeled 'MIND'.](../assets/universals-medieval/image4.gif)
 
-\*Figure 4.\* The *via antiqua* conception
+*Figure 4.* The *via antiqua* conception
 
 Obviously, this is a rather complicated picture. However, its complexity itself should not be regarded as problematic or even surprising, for that matter. After all, this diagram merely summarizes, and distinguishes the main stages of, how the human mind processes the intelligible, universal information received from a multitude of singular experiences, and then again, how it applies this information in classifying further experiences. This process may reasonably be expected to be complex, and should not be expected to involve fewer stages than, e.g., setting up, and retrieving information from, a computer database.
 
@@ -319,7 +319,7 @@ To be sure, as the very debates within the *via antiqua* framework concerning th
 
 ![shows the simplified version of Figure 4, what we get as a result of the nominalist reductions. It consists of three main boxes, labeled 'common term' on the top, 'singulars' on the lower left, and 'mind' on the lower right. The 'mind' box contains two sub-boxes, labeled 'phantasms' and 'common concepts', with an arrow pointing from the former to the latter, indicating the flow of information, as does the arrow pointing from the box 'singulars' to the box 'phantasms'. The rest of the arrows indicate semantic relations: the full arrow pointing from the box 'common term' to 'singulars' is labeled 'signification', the dashed arrow is labeled 'supposition'. The full arrow pointing from 'common term' to 'common concept' is labeled 'subordination'. Finally, the unlabeled full arrow pointing from 'common concept' to 'singulars' represents natural signification or signification, as is clear from the text.](../assets/universals-medieval/image5.gif)
 
-\*Figure 5.\* The *via moderna* conception
+*Figure 5.* The *via moderna* conception
 
 Without a doubt, it is the captivating simplicity of this picture, especially as compared with the complexity of the *via antiqua* picture, that was the major appeal of the Ockhamist approach. There are fewer items here, equally on the same ontological footing, distinguished from one another in terms of the same unambiguous distinction, the numerical distinction between individual real entities.
 

@@ -109,7 +109,7 @@ However, a crucial feature of chaos is the presence of “stretching and folding
 
 ![A closed yellow curve on a plain black backround. The curve spirals around and around into two large sets of concentric ovals that connect to each other at the bottom and angle away from each other at the top.](../assets/chaos/lorenz.svg)
 
-\*Figure 1.\* The Lorenz Attractor.
+*Figure 1.* The Lorenz Attractor.
 
 Stretching of trajectories is associated with the explosive growth in uncertainties, folding with confinement to a region of state space. The presence of appropriate stretching and folding mechanisms in the dynamics, Batterman argues, is a necessary condition for chaos. Such behavior is associated with nonlinearities. As such, this defining characteristic could be applied to both mathematical models and actual-world systems, though the identification of such mechanisms in target systems may be rather tricky: When dealing with a fluid system, say, we have several nonlinear mechanisms that have been well explored as sources for stretching and folding. In contrast, when we only have time series data (e.g., the hourly price of Chicago Board of Trade hog futures), identifying possible nonlinear mechanisms is difficult.
 

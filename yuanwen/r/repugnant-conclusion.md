@@ -20,7 +20,7 @@ How, if at all, should a change in the identity of the involved parties in the c
 
 ![Figure 1](../assets/repugnant-conclusion/fig1.png)
 
-\*Figure 1\*
+*Figure 1*
 
 The blocks above represent two populations, *A* and *Z*. The width of each block shows the number of people in the corresponding population, the height shows their quality of life or lifetime welfare. All the lives in the above diagram have lives worth living. People’s quality of life is much lower in *Z* than in *A* but, since there are many more people in *Z*, there is a greater quantity of welfare in *Z* as compared to *A*. Consequently, although the people in *A* lead very good lives and the people in *Z* have lives only barely worth living, *Z* is nevertheless better than *A* according to total utilitarianism. Thus, the attempt to provide a plausible solution to the Non-Identity Problem has led to a seemingly unacceptable conclusion.
 
@@ -28,7 +28,7 @@ Leaving the Non-Identity Problem aside, there are other arguments establishing t
 
 ![Figure 2](../assets/repugnant-conclusion/fig2.png)
 
-\*Figure 2\*
+*Figure 2*
 
 In population *A*, everybody enjoys a very high quality of life. In population *A*+ there is one group of people as large as the group in *A* and with the same high quality of life. But *A*+ also contains a number of people with a somewhat lower quality of life. In Parfit’s terminology *A*+ is generated from *A* by “mere addition”. Comparing *A* and *A*+ it is reasonable to hold that *A*+ is better than *A* or, at least, not worse. The idea is that an addition of lives worth living cannot make a population worse. Consider the next population *B* with the same number of people as *A*+, all leading lives worth living and at an average welfare level slightly above the average in *A*+, but lower than the average in *A*. It is hard to deny that *B* is better than *A*+ since it is better in regard to both average welfare (and thus also total welfare) and equality. However, if *A*+ is at least not worse than *A*, and if *B* is better than *A*+, then *B* is also better than *A* given full comparability among populations (i.e., setting aside possible incomparabilities among populations). By parity of reasoning (scenario *B*+ and *C*, *C*+ etc.), we end up with a population *Z* in which all lives have a very low positive welfare. Thus, the final conclusion is that *Z* is better than *A*, which is the Repugnant Conclusion. By what apparently constitute sound steps of reasoning we have arrived at an absurd conclusion. This is paradoxical. Thus, is ‘mere’ addition innocuous, as is here assumed? Well, if it is thought to be suspicious, there is a way of avoiding it by starting with a population like the one in *A* and adding new people living at a slightly lower level than the people in *A* in a manner that *increases* the well-being of existing people. You then proceed down the moral alphabet by levelling out the well-being between the best and worst off in a manner that gives more to those who are worst off than you take from those who are best off; in each step new people are added, in order to make this change of the situation possible (Parfit 1984; Tännsjö 2002)[^parfit-1984][^tännsjö-2002]. Moreover, there are other abstract arguments leading in the same direction, some of them presented by Parfit himself (see section 2.5 and 2.7). It seems then that the Repugnant Conclusion is very hard to get around.
 

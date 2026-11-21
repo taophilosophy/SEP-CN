@@ -21,7 +21,7 @@ Unfortunately, the catchy characterization of QFT as the successful merging of Q
 
 ![theory diagram](../assets/quantum-field-theory/cm-qm-qft.png)
 
-\*Figure 1.\*
+*Figure 1.*
 
 The diagram depicts the relations between different theories, where Non-Relativistic Quantum Field Theory is not a historical theory but rather an ex post construction that is illuminating for conceptual purposes. Theoretically, [(i), (ii), (iii)], [(ii), (i), (iii)] and [(ii), (iii), (i)] are three possible ways to get from Classical Mechanics to Relativistic Quantum Field Theory. But note that this is meant as a conceptual decomposition; history didn’t go all these steps separately. On the one hand, by good luck, so to say, Maxwell’s equations of classical electrodynamics were relativistically covariant from inception. The successful quantization of that theory lead directly to the early Relativistic Quantum Field Theories. On the other hand, some would argue (e.g., Malament 1996)[^malament-1996] that the only way to reconcile QM and SRT is in terms of a field theory, so that (ii) and (iii) would coincide. Note that the steps (i), (ii) and (iii), i.e., quantization, transition to an infinite number of degrees of freedom, and reconciliation with SRT, are all ontologically relevant. In other words, by these steps the nature of the physical entities the theories talk about may change fundamentally. See Huggett 2003 for an alternative three-dimensional “map of theories”.
 

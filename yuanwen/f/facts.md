@@ -241,7 +241,7 @@ B1 and B3 together entail B4. Assuming B1 and B4, B2 is equivalent to B3. Notice
 
 ![Node and arrow diagram: B1+B3 arrow to B4; B2 arrow to and from B3 with arrow marked [B1,B4]; B3 arrow to B4 marked [Plenitude] ; B1 arrow to Plenitude ; B4 arrow to Plenitude.](../assets/facts/fig1.svg)
 
-\*Figure 1.\*
+*Figure 1.*
 
 It is tempting to adopt the principle:
 
@@ -291,13 +291,13 @@ W4 entails both W2 and W3, and in turn each of them entails W1. All the same, W$
 
 ![Node and arrow diagram: Wi arrow to Wi'; Wi arrow to/from Wi' marked No Twins; W1 arrow to No Twins; W2 arrows to W3 and W2; W3 arrow to W1 ; W2 arrow to W1 ; W4' arrows to W3', W2', and B1+B2+B3+B4 ; W2' arrow to W1' ; W3' arrow to W1' ; W1' arrow to Plenitude](../assets/facts/fig2.svg)
 
-\*Figure 2.\*
+*Figure 2.*
 
 W$4'$ is equivalent to B$2 +$ W$3'$, W$2'$ plus B3 yields W$4'$, W$1'$ plus B2 yields W$2'$. B1 yields W$1'$. See Figure 3.
 
 ![Node and arrow diagram: B2+W3 arrow to/from W4 ; B2+W3' arrow to/from W4' ; B3+W2 arrow to W4 ; B3+W2' arrow to W4' ; B2+W1 arrow W2 ; B2+W1' arrow to W2' ; B1+No Twins arrow to W1 ; B1 arrow to W1'](../assets/facts/fig3.svg)
 
-\*Figure 3.\*
+*Figure 3.*
 
 All the previous principles are compatible with there being distinct facts existing at exactly the very same worlds. One may wish to deny that this is possible, and adopt:
 

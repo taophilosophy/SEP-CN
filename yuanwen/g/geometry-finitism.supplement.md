@@ -57,7 +57,7 @@ A graphical representation could look like this:
 
 ![[a 3 by 3 grid dots with the lower left one labeled (0,0) and the upper right one (2,2). The dots labeled (0,0), (1,2), and (2,1) are circled. A straight solid line goes throught dots (0,0), (1,1), and (2,2) and on both sides extends beyond. The letter 'A' is by the lower left end of this line.]](../assets/geometry-finitism/figure-sup.jpg)
 
-\*Figure 5.\*
+*Figure 5.*
 
 The line indicated by $A$ corresponds to $x = y$. This seems to correspond nicely to the classical Euclidean case. However something strange happens with the linear equation $x + y = 0$. In the drawing the 3 points that are on this line have been circled. As must be clear these lines are “bad” and should be "ignored" in the model.
 

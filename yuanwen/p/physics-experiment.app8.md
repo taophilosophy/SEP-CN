@@ -18,7 +18,7 @@ The presence of either the $T$ or $A$ form of the interaction in at least part o
 
 ![Figure 16](../assets/physics-experiment/figure16.jpg)
 
-\*Figure 16.\* The unique, once-forbidden spectrum of $\ce{^{91}Y}$. The best theoretical fit is that which gives a straight line. The Fermi theory alone, $a_1=1$, does not give a straight line. The correction factor $a_1 = C[(W^2 - m_o c^2) + (W_o - W)^2]$, does give a linear plot. From Konopinski and Langer (1953).
+*Figure 16.* The unique, once-forbidden spectrum of $\ce{^{91}Y}$. The best theoretical fit is that which gives a straight line. The Fermi theory alone, $a_1=1$, does not give a straight line. The correction factor $a_1 = C[(W^2 - m_o c^2) + (W_o - W)^2]$, does give a linear plot. From Konopinski and Langer (1953).
 
 Evidence in favor of the presence of either the $S$ or $V$ forms of the interaction was provided by Sherr, Muether, and White (1949) and by Sherr and Gerhart (1952). They observed the decay of $\ce{^{14}O}$ to an excited state of $\ce{^{14}N}$, $\ce{^{14}N^{\ast}}$. They argued that both $\ce{^{14}O}$ and $\ce{^{14}N^{\ast}}$ had spin 0. This required the presence of either $S$ or $V$ because the decay was forbidden by $A$ and $T$. (Recall that the Gamow-Teller selection rules specified no 0 to 0 transitions).
 
@@ -36,23 +36,23 @@ The demise of the RaE evidence removed the necessity of including the $P$ intera
 
 ![Figure 17](../assets/physics-experiment/figure17.jpg)
 
-\*Figure 17.\* Schematic view of the experimental apparatus for the $\ce{^{6}He}$ angular correlation experiment of Rustad and Ruby (1953; 1955).
+*Figure 17.* Schematic view of the experimental apparatus for the $\ce{^{6}He}$ angular correlation experiment of Rustad and Ruby (1953; 1955).
 
 The most important of the experiments performed at this time was the measurement of the angular correlation in the decay of $\ce{^{6}He}$. This decay was a pure Gamow-Teller transition and thus was sensitive to the amounts of $A$ and $T$ present in the decay interaction. The decisive experiment was that of Rustad and Ruby (1953; 1955). This experiment was regarded as establishing that the Gamow-Teller part of the interaction was predominantly tensor. This was the conclusion reached in several review papers on the nature of *β*-decay. (Ridley 1954; Kofoed-Hansen 1955; Wu 1955). The experimental apparatus is shown in Figure 17. The definition of the decay volume was extremely important. In order to measure the angular correlation one must know the position of the decay so that one can measure the angle between the electron and the recoil nucleus. The decay volume for the helium gas in this experiment was defined by a 180 microgram/cm² aluminum hemisphere and the pumping diaphragm. Rustad and Ruby (1953) presented two experimental results. The first was the coincidence rate as a function of the angle between the electron and the recoil nucleus for electrons in the energy range (2.5–4.0) mc². The second was the energy spectrum of the decay electrons with the angle between the electron and the recoil nucleus fixed at 180°. Both results are shown in Figure 18 along with the predicted results for $A$ and $T$, respectively. The dominance of the tensor interaction is clear. This conclusion was made more emphatic in their 1955 paper which included more details of the experiment and even more data. The later results, shown in Figure 19, clearly demonstrate the superior fit of the tensor interaction.
 
 ![Figure 18](../assets/physics-experiment/figure18.gif)
 
-\*Figure 18.\* (a) Coincidence counting rate versus angle between the electron and the recoil nucleus, for electrons in the energy range 2.5–4.0 mc². (b) Coincidence counting rate versus electron energy for an angle of 180° between the electron and the recoil nucleus. From Rustad and Ruby (1953).
+*Figure 18.* (a) Coincidence counting rate versus angle between the electron and the recoil nucleus, for electrons in the energy range 2.5–4.0 mc². (b) Coincidence counting rate versus electron energy for an angle of 180° between the electron and the recoil nucleus. From Rustad and Ruby (1953).
 
 ![Figure 19](../assets/physics-experiment/figure19.gif)
 
-\*Figure 19.\* Coincidence counting rate versus angle between the electron and the recoil nucleus for (a) electrons in the energy range 4.5–5.5 mc² and (b) electrons in the energy range 5.5–7.5 mc². From Rustad and Ruby (1955).
+*Figure 19.* Coincidence counting rate versus angle between the electron and the recoil nucleus for (a) electrons in the energy range 4.5–5.5 mc² and (b) electrons in the energy range 5.5–7.5 mc². From Rustad and Ruby (1955).
 
 The Rustad-Ruby result, along with several others, established that the Gamow-Teller part of the decay interaction was tensor and that the decay interaction was $STP$, or $ST$, rather than $VA$. We have seen clearly in this episode the fruitful interaction between experiment and theory. Theoretical predictions became more precise and were tested experimentally until the form of the weak interaction was found. Fermi’s theory of *β*-decay had been confirmed. It had also been established that the interaction was a combination of scalar, tensor, and pseudoscalar $(STP)$.
 
 ![Figure 20](../assets/physics-experiment/figure20.jpg)
 
-\*Figure 20.\* Energy spectrum of recoil ions from $\ce{^{35}A}$ decay. From (Hermannsfeldt et al. 1958).
+*Figure 20.* Energy spectrum of recoil ions from $\ce{^{35}A}$ decay. From (Hermannsfeldt et al. 1958).
 
 **(b) Epilogue**. It would be nice to report that such a simple, satisfying story, with its happy ending was the last word. It wasn’t. Work continued on angular correlation experiments and the happy agreement was soon destroyed (Franklin 1990, Chapter 3). Things became more complex with the discovery of parity nonconservation in the weak interactions, including *β*-decay. Sudarshan and Marshak (1958) and Feynman and Gell-Mann (1958) showed that only a $V-A$ interaction was compatible with parity nonconservation. If there was to be a single interaction describing all the weak interactions then there was a serious conflict between this work and the Rustad-Ruby result. This led Wu and Schwarzschild (1958) to reexamine and reanalyze the Rustad-Ruby experiment. They found, by calculation and by constructing a physical analogue of the gas system, that a considerable fraction of the helium gas (approximately 12%) was not in the decay volume. This changed the result for the angular correlation considerably and cast doubt on the Rustad-Ruby result.[^note-A8-7] The ⁶He angular correlation experiment was redone, correcting the problem with the gas target, and the new result is shown in Figure 20 (Hermannsfeldt et al. 1958). It clearly favors A, the axial vector interaction. Once again, physics was both fallible and corrigible. This new result on $\ce{^{6}He}$ combined with the discovery of parity nonconservation established that the form of the weak interaction was $V-A$.
 

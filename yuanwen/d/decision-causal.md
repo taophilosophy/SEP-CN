@@ -56,7 +56,7 @@ Figure 1 displays the agent’s options and their outcomes. A row represents an 
 | Take one box | $\$1{,}000{,}000$ | $\$0$ |
 | Take two boxes | $\$1{,}001{,}000$ | $\$1{,}000$ |
 
-\*Figure 1.\* Newcomb’s Problem
+*Figure 1.* Newcomb’s Problem
 
 Because the outcome of two-boxing is better by $\$1{,}000$ than the outcome of one-boxing given each prediction, two-boxing dominates one-boxing. Two-boxing is the rational choice according to the principle of dominance. Because the prediction is reliable, a prediction of one-boxing has a high probability given one-boxing. Similarly, a prediction of two-boxing has a high probability given two-boxing. Hence, using conditional probabilities to compute expected utilities, one-boxing’s expected utility exceeds two-boxing’s expected utility. One-boxing is the rational choice according to the principle of expected-utility maximization.
 
@@ -163,7 +163,7 @@ Partition invariance ensures that various representations of the same decision p
 | Take only one box | $\$1{,}000{,}000$ | \$0 |
 | Take two boxes | $\$1{,}000$ | $\$1{,}001{,}000$ |
 
-\*Figure 2.\* New States for Newcomb’s Problem
+*Figure 2.* New States for Newcomb’s Problem
 
 Dominance does not apply to this representation. It nonetheless settles the problem’s solution because it applies to a decision problem if it applies to any accurate representation of the problem, such as Figure 1’s representation of the problem. If expected utilities are partition-sensitive, then acts that maximize expected utility may be partition-sensitive. The principle of expected utility does not yield a decision problem’s solution, however, if acts of maximum expected-utility change from one partition to another. In that case an act is not a solution to a decision problem simply because it maximizes expected utility under some accurate representation of the problem. Too many acts have the same credential.
 

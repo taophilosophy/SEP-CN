@@ -652,7 +652,7 @@ We have seen some reasons to think that the resolutely anti-phenomenalist readin
 | **Phenomenalist** | Aquila (1983)[^aquila-1983], Van Cleve (1999)[^van-1999], cf. section 3 | N/A | Adickes (1924)[^adickes-1924], Westphal (1968)[^westphal-1968] |
 | **Anti-phenomenalist** | Alternate version of Langton | Allison (1983/2004), Bird (1962)[^bird-1962], Prauss (1974)[^prauss-1974] | Langton (1998)[^langton-1998], Allais (2006)[^allais-2006] |
 
-\*Table 1\*
+*Table 1*
 
 But the distinction between the two different versions of Langton, and between the non-identity version of phenomenalism (Aquila 1983; Van Cleve 1999)[^aquila-1983][^van-1999] and the identity version of phenomenalism (Adickes 1924; Westphal 1968)[^adickes-1924][^westphal-1968] is relatively recondite. It depends on the controversial assumption that assertions of identity between appearances and things in themselves, outside of practical contexts, have a content.
 
@@ -668,7 +668,7 @@ Allison’s idea is that the distinction between the empirical and the transcend
 | **Phenomenalist** | N/A | Aquila (1983)[^aquila-1983], Van Cleve (1999)[^van-1999], cf. section 3 | N/A | Adickes (1924)[^adickes-1924], Westphal (1968)[^westphal-1968] |
 | **Anti-phenomenalist** | Allison (1983/2004) | Alternate version of Langton | Bird (1962)[^bird-1962], Prauss (1974)[^prauss-1974], alternate version of Allison (1983/2004), | Langton (1998)[^langton-1998], Allais (2006)[^allais-2006] |
 
-\*Table 2\*
+*Table 2*
 
 But notice we now have doubling of interpretations: identity and non-identity versions of Langton (1998)[^langton-1998], identity and non-identity versions of phenomenalist views, and identity and “neither identity nor non-identity” versions of Allison.
 
@@ -679,7 +679,7 @@ However, if one thinks that claims of identity between appearances and things in
 | **Epistemic** | **Metaphysical** |   |
 | Aquila (1983)[^aquila-1983], Van Cleve (1999)[^van-1999], Adickes (1924)[^adickes-1924], Westphal (1968)[^westphal-1968], cf. section 3 | Allison (1983/2004), Bird (1962)[^bird-1962], Prauss (1974)[^prauss-1974] | Langton (1998)[^langton-1998], Allais (2006)[^allais-2006] |
 
-\*Table 3\*
+*Table 3*
 
 On such a reading, there is no substance, outside of the practical context, to the question of whether an appearance is *numerically identical* to a thing in itself, so the identity and non-identity versions of, e.g., phenomenalism, are equivalent.[^note-63] If one holds instead that these identity claims have a content but that we cannot know them on theoretical grounds alone (see section 5.1) then one will likewise see these interpretive options as so constrained, because, although there is a difference in content between, say, the identity and non-identity versions of phenomenalism, Kant must be agnostic as to which is true.
 

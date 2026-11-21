@@ -667,7 +667,7 @@ Suppose we have three kinds of actions/events—*Load*, *Smoke* and *Shoot*—an
 | *HoldsAt*$(\beta , \tau)$ | Fluent *β* holds at time *τ* |
 | *Clipped*$(\tau_1,\beta ,\tau_2)$ | Fluent *β* is terminated between times $\tau_1$ and $\tau_2$ |
 
-\*Table 4.\* Predicates of the simple event calculus (from Shanahan 1999)
+*Table 4.* Predicates of the simple event calculus (from Shanahan 1999)
 
 The predicates are related to each other by a set of four simple axioms (53)–(56). In these axioms, all variables are assumed to be universally quantified with maximal scope. We will come to the semantics of the implication when we have introduced the complete scenario.
 
@@ -798,7 +798,7 @@ In the following, we will analyze the imperfective paradox as an instance of the
 | *Releases*$(e, f, t)$ | Fluent $f$ starts to change due to event $e$ at time $t$ |
 | *Trajectory*$(f_1, t, f_2, d)$ | If fluent $f_1$ holds from t until $t + d$, then $f_2$ holds at $t + d$ |
 
-\*Table 5.\* Predicates for continuous change
+*Table 5.* Predicates for continuous change
 
 $$\begin{align} \tag*{A1.} & Initially(f) \rightarrow HoldsAt(f, 0) \\ \tag*{A2.} & HoldsAt(f, r) \wedge r \lt t\ \wedge \\ &\ \ \neg \exists s \lt r HoldsAt(f,s) \wedge \neg Clipped(r, f, t) \rightarrow HoldsAt(f, t) \\ \tag*{A3.} & Happens(e, t) \wedge Initiates(e, f, t) \wedge t \lt t'\ \wedge \\ &\ \ \neg Clipped(t, f, t') \rightarrow HoldsAt(f, t') \\ \tag*{A4.} & Happens(e, t) \wedge Initiates(e, f_1, t) \wedge t \lt t'\ \wedge \\ &\ \ t' = t + d \wedge Trajectory(f_1, t, f_2, d) \wedge \neg Clipped(t, f_1, t') \rightarrow HoldsAt(f_2, t') \\ \tag*{A5.} & Happens(e, s) \wedge t \lt s \lt t'\ \wedge \\ &\ \ (Terminates(e, f, s) \vee Releases(e, f, s)) \rightarrow Clipped(t, f, t') \end{align}$$
 

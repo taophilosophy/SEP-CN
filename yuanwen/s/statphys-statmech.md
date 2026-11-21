@@ -27,7 +27,7 @@ Let us illustrate the core questions concerning equilibrium with a standard exam
 
 (d)
 
-\*Figure 1\* [An extended description of figure 1 is in the supplement.]
+*Figure 1* [An extended description of figure 1 is in the supplement.]
 
 While equilibrium occupies centre stage, SM of course also deals with other issues such as phase transitions, the entropy costs of computation, and the process of mixing substances, and in philosophical contexts SM has also been employed to shed light on the nature of the direction of time, the interpretation of probabilities in deterministic theories, the state of the universe shortly after the big bang, and the possibility of knowledge about the past. We will touch on all these below, but in keeping with the centrality of equilibrium in SM, the bulk of this entry is concerned with an analysis of the conceptual underpinnings of both equilibrium and non-equilibrium SM.
 
@@ -45,7 +45,7 @@ Before delving into the discussion of SM, some attention needs to be paid to the
 
 ![A green rectangle, link to extended description below](../assets/statphys-statmech/figure2.svg)
 
-\*Figure 2\* [An extended description of figure 2 is in the supplement.]
+*Figure 2* [An extended description of figure 2 is in the supplement.]
 
 It is standard to assume that *φ* is deterministic, meaning, that every state $x$ has exactly one past and exactly one future, or, in geometrical terms, that trajectories cannot intersect (for a discussion of determinism see Earman (1986)[^earman-1986]). The systems studied in BSM are such that the volume of “blobs” in the state space is conserved: if we follow the time evolution of a “blob” in state space, this blob can change its shape but not its volume. From a mathematical point of view, this amounts to saying that the dynamics is *measure-preserving*: $\mu(A) = \mu(\phi_{t}(A))$ for all subsets $A$ of $X$ and for all times $t$. Systems in SM are often assumed to be governed by Hamilton’s equations of motion, and it is a consequence of Liouville’s theorem that the time evolution of a Hamiltonian system is measure-preserving.
 
@@ -67,7 +67,7 @@ Now consider a complete set of macro-states (i.e., a set that contains every mac
 
 ![A more complex diagram containing elements of figures 1 and 2, link to extended description below](../assets/statphys-statmech/figure3.svg)
 
-\*Figure 3\* [An extended description of figure 3 is in the supplement.]
+*Figure 3* [An extended description of figure 3 is in the supplement.]
 
 The figure also indicates that if the system under study is a gas, then the macro-states correspond to different states of the gas we have seen in Section 1. Specifically, one of the macro-states corresponds to the initial state of the gas, and another one corresponds to its final equilibrium state.
 

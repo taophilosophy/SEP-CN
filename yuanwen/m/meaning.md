@@ -161,7 +161,7 @@ The existence of such expressions shows that a semantic theory must do more than
 
 ![diagram with text: link to extended description below](../assets/meaning/character-content.gif)
 
-\*Figure 1.\* [An extended description of figure 1 is in the supplement.]
+*Figure 1.* [An extended description of figure 1 is in the supplement.]
 
 Here we face another potentially misleading ambiguity in “meaning”. What is the real *meaning* of an expression—its character, or its content (in the relevant context)? The best answer here is a pluralist one. Expressions have characters which, given a context, determine a content. We can talk about either character or content, and both are important. The important thing is to be clear on the distinction, and to see the reasons for thinking that expressions have both a character and (relative to a context) a content.
 
@@ -201,7 +201,7 @@ What examples like (12) are often taken to show is that the reference of an expr
 
 ![diagram with text: link to extended description below](../assets/meaning/2-index.gif)
 
-\*Figure 2.\* [An extended description of figure 2 is in the supplement.]
+*Figure 2.* [An extended description of figure 2 is in the supplement.]
 
 The kind of theory which results is sometimes called a *double-indexing semantics*—the two indices being contexts of utterance and circumstances of evaluation. (See figure 2.)
 
@@ -219,7 +219,7 @@ These functions, or rules, are called (following Carnap (1947)[^carnap-1947]) *i
 
 ![diagram with text: link to extended description below](../assets/meaning/pws.gif)
 
-\*Figure 3.\* [An extended description of figure 3 is in the supplement.]
+*Figure 3.* [An extended description of figure 3 is in the supplement.]
 
 The intension of a sentence—i.e., the proposition that sentence expresses, on the present view—will then be a function from worlds to truth-values. In particular, it will be that function which returns the truth-value true for every world with respect to which that sentence is true, and false otherwise. The intension of a simple predicate like “is red” will be a function from worlds to the function from objects to truth-values which, for each world, returns the truth-value true if the thing in question is red, and returns the truth-value false otherwise. In effect, possible worlds semantics takes the meanings of expressions to be functions from worlds to the values which would be assigned by a theory of reference to those expressions at the relevant world: in that sense, intensions are a kind of “extra layer” on top of the theory of reference. A classic discussion of the application of the framework of possible world semantics to natural language is Lewis (1970)[^lewis-1970]; see also von Fintel & Heim (2020 [Other Internet Resources]).
 
@@ -317,7 +317,7 @@ Indeed, we can think of our three classical semantic theories, along with the th
 
 ![diagram: link to extended description below](../assets/meaning/levels.jpg)
 
-\*Figure 4.\* [An extended description of figure 4 is in the supplement.]
+*Figure 4.* [An extended description of figure 4 is in the supplement.]
 
 The principal argument for Fregean semantics (which also motivated Frege himself) is the neat solution the view offers to Frege’s puzzle: the view says that, in cases like (19) and (20) in which there seems to be a difference in content, there really is a difference in content: the names share a reference, but differ in their sense, because they differ in their mode of presentation of their shared reference.
 

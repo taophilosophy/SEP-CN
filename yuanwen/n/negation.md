@@ -225,7 +225,7 @@ In some cases, the strengthened or neg-raised contrary reading may become salien
 
 ![[A square diagram, upper left vertex is 'A' and labeled 'box phi'; upper right vertex is 'E' and labeled 'box not phi equivalent not diamond phi'; lower left vertex is 'I' and labeled 'diamond phi'; lower right vertex is 'O' and labeled 'not box phi equivalent diamond not phi'. 'A' and 'E' are connected by a double headed arrow labeled 'contraries'; 'A' and 'I' are connect by an arrow pointing to 'I' and labeled 'entails'. 'E' connects to 'O' with an arrow pointing to 'O' labeled 'entails'. 'I' and 'O' are connected by a double headed arrow labeled 'subcontraries'. In the center of the square is a label, 'contradictories' with lines from all four vertices to it. The line from 'A' is labeled 'a must F'; the line from 'E' is labeled 'a can't F'; the line from 'I' is labeled 'a may F' and the line from 'O' is labeled 'a needn't F']](../assets/negation/figure1-newsquare.png)
 
-\*Figure 1\*
+*Figure 1*
 
 $\mathbf{O}>\mathbf{E}$ drift is attested cross-linguistically in the meaning shift of lexical items like Old English *nealles* (lit. “NEG all”) = “not at all”, Dutch *nimmer* (lit., “NEG always”) = “never”, or Russian *nel’zja* (lit. “NEG must”) = “mustn’t”, and in words like *unlikely, inadvisable*, or *disbelieve*, whose prefixal negations yield only contrary, not contradictory, interpretations. The reverse shift, in which apparent **E** forms develop **O** meanings, appears to be unattested (cf. Horn 2015)[^horn-2015].
 
@@ -287,7 +287,7 @@ In ordinary language, semantic double negation (as opposed to negative concord a
 
 ![[a square with diagonal lines and the vertices labeled: top left as 'A' and 'it's possible that A'; top right with 'E' and 'it's impossible that A' and 'copyright sign [it's possible that A]'; bottom left with 'I' and 'it isn't impossible that A' and 'negation sign copyright sign[it's possible that A]'; bottom right with 'O' and 'it isn't possible that A' and 'negation sign[it's possible that A].']](../assets/negation/figure2-square.png)
 
-\*Figure 2\*
+*Figure 2*
 
 #### 1.8.2 Negative concord and its relations
 
@@ -497,7 +497,7 @@ As noted in Dunn 1993, 1996, if contraposition is assumed, double negation intro
 
 ![[a diagram of 6 points, 5 connected with lines in a loose pentagon and one below connected by a line to the pentagon. The points are labeled in clockwise order: 'De Morgan \sim \sim A \vdash A', 'ortho', 'intuitionistic A \vdash B, A \vdash \sim B/A \vdash C', 'minimal A \vdash B, A \vdash \sim B/A \vdash \sim C', 'quasi-minimal A \vdash \sim B/B \vdash \sim A', and the solo point connected to the last is labeled 'preminimal A \vdash B/\sim B \vdash \sim A'.]](../assets/negation/figure3-kite.png)
 
-\*Figure 3\*
+*Figure 3*
 
 The graphical arrangement in this diagram is to be understood as follows: If a sequent or sequent rule is assigned to a node $n$ and node $n'$ is placed below $n$, then the sequent or sequent rule assigned to $n'$ is derivable with the aid of the sequent or sequent rule assigned to $n$.
 
@@ -513,7 +513,7 @@ We may observe that Dunn and Zhou’s lopsided kite of negations can be equilibr
 
 ![[a diagram of 7 points, 6 connected with lines in a hexagon and one below connected by a line to the hexagon. The points are labeled in clockwise order: 'weak De Morgan \sim\sim\sim A \vdash \sim A', 'De Morgan \sim \sim A \vdash A', 'ortho', 'intuitionistic A \vdash B, A \vdash \sim B/A \vdash C', 'minimal A \vdash B, A \vdash \sim B/A \vdash \sim C', 'quasi-minimal A \vdash \sim B/B \vdash \sim A', and the solo point connected to the last is labeled 'preminimal A \vdash B/\sim B \vdash \sim A'.]](../assets/negation/figure4-kite.png)
 
-\*Figure 4\*
+*Figure 4*
 
 Negation as unnecessity gives rise to a dual lopsided kite of negations that can be combined with the lopsided kite into a “united” kite of negations, see Shramko 2005, Dunn and Zhou 2005, and Section 2.4. An even richer inclusion diagram of negations can be found in Ripley 2009.
 

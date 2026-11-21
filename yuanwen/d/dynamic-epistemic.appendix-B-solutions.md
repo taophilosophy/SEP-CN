@@ -48,7 +48,7 @@ We represent Albert’s and Bernard’s knowledge just after Cheryl asks “Can 
 
 $ M_{cb} $
 
-\*Figure B1.\* The Kripke model $M_{cb}$: the situation just after Cheryl asks “Can you figure it out now?” but before Albert and Bernard have their conversation. Red *a*-arrows represent Albert’s uncertainty, and blue *b*-arrows represent Bernard’s uncertainty. For simplicity, the picture omits reflexive arrows for each agent at each date (i.e., to complete the picture, we must add at each world both an *a*-arrow and a *b*-arrow pointing in a loop from the date in question back to itself).
+*Figure B1.* The Kripke model $M_{cb}$: the situation just after Cheryl asks “Can you figure it out now?” but before Albert and Bernard have their conversation. Red *a*-arrows represent Albert’s uncertainty, and blue *b*-arrows represent Bernard’s uncertainty. For simplicity, the picture omits reflexive arrows for each agent at each date (i.e., to complete the picture, we must add at each world both an *a*-arrow and a *b*-arrow pointing in a loop from the date in question back to itself).
 
 In this model, we have one possible world for each date. A red *a*-arrow pointing from date *D* to date $D'$ tells us the following: “If Cheryl’s birthday is in fact *D*, then Albert considers it possible that her birthday might be $D'$”. For example, there is a red *a*-arrow pointing from June 17 to June 18: assuming Cheryl’s birthday is in fact June 17, then Albert will consider it possible that her birthday is June 18 because he was told the month—here assumed to be June—so if the date is actually June 17, then he considers June 18 a possibility. Note that there should also be a red *a*-arrow from June 17 to itself; indeed, if the actual date is June 17, then Albert should consider both June 18 and June 17 to be possible. However, to simplify the picture, we have omitted such “reflexive” arrows (i.e., arrows pointing in a loop from one date back to that very same date). Properly speaking, these arrows should be added in order to complete the picture: every date should have a reflexive red *a*-arrow.
 
@@ -83,7 +83,7 @@ These are the dates we should eliminate. All other dates should remain: at these
 
 $M_{cb}[A_1]$
 
-\*Figure B2.\* The model $M_{cb}[A_1]$ obtained from $M_{cb}$ (Figure B1) after Albert’s first public announcement $A_1$. Eliminated worlds and arrows from the model $M_{cb}$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, as with Figure B1, reflexive arrows for each agent at each world have been omitted for simplicity.
+*Figure B2.* The model $M_{cb}[A_1]$ obtained from $M_{cb}$ (Figure B1) after Albert’s first public announcement $A_1$. Eliminated worlds and arrows from the model $M_{cb}$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, as with Figure B1, reflexive arrows for each agent at each world have been omitted for simplicity.
 
 Now let us consider the effect of Bernard’s first announcement, which we label as $B_1$:
 
@@ -97,7 +97,7 @@ How about the second part (“now I do [know Cheryl’s birthday]”)? For this,
 
 $M_{cb}[A_1][B_1]$
 
-\*Figure B3.\* The model $M_{cb}[A_1][B_1]$ obtained from $M_{cb}[A_1]$ (Figure B2) after Bernard’s first public announcement $B_1$. Eliminated worlds and arrows from the models $M_{cb}$ and $M_{cb}[A_1]$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, reflexive arrows for each agent at each world have been omitted for simplicity.
+*Figure B3.* The model $M_{cb}[A_1][B_1]$ obtained from $M_{cb}[A_1]$ (Figure B2) after Bernard’s first public announcement $B_1$. Eliminated worlds and arrows from the models $M_{cb}$ and $M_{cb}[A_1]$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, reflexive arrows for each agent at each world have been omitted for simplicity.
 
 Now let us look at the effect of Albert’s second announcement, which we label as $A_2$:
 
@@ -109,7 +109,7 @@ This public announcement has us eliminate from $M_{cb}[A_1][B_1]$ of Figure B3 a
 
 $M_{cb}[A_1][B_1][A_2]$
 
-\*Figure B4.\* The model $M_{cb}[A_1][B_1][A_2]$ obtained from $M_{cb}[A_1][B_1]$ (Figure B3) after Albert’s second public announcement $A_2$. Eliminated worlds and arrows from the models $M_{cb}$, $M_{cb}[A_1]$, and $M_{cb}[A_1][B_1]$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, reflexive arrows for each agent at each world have been omitted for simplicity.
+*Figure B4.* The model $M_{cb}[A_1][B_1][A_2]$ obtained from $M_{cb}[A_1][B_1]$ (Figure B3) after Albert’s second public announcement $A_2$. Eliminated worlds and arrows from the models $M_{cb}$, $M_{cb}[A_1]$, and $M_{cb}[A_1][B_1]$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, reflexive arrows for each agent at each world have been omitted for simplicity.
 
 So we obtain the solution: the only possible date that is consistent with the information provided in the problem statement is July 16.
 
@@ -227,7 +227,7 @@ Each of the three children has a forehead that is either dirty or clean. Using *
 
 $M_{mc}$
 
-\*Figure B5.\* Initial setup for the Muddy Children Puzzle. Red 1-arrows indicate the first child’s uncertainty, blue 2-arrows indicate the second child’s uncertainty, and green 3-arrows indicate the third child’s uncertainty. For simplicity, the picture omits reflexive arrows (i.e., to complete the picture, one must add for each child and each world an arrow for that child pointing in a loop from that world right back to that same world).
+*Figure B5.* Initial setup for the Muddy Children Puzzle. Red 1-arrows indicate the first child’s uncertainty, blue 2-arrows indicate the second child’s uncertainty, and green 3-arrows indicate the third child’s uncertainty. For simplicity, the picture omits reflexive arrows (i.e., to complete the picture, one must add for each child and each world an arrow for that child pointing in a loop from that world right back to that same world).
 
 In the model $M_{mc}$ of Figure B5, we see that each child knows the status of the other children’s forehead but not that of his own: at each world, the only worlds a child considers possible are those in which the status of the other children’s foreheads is the same but the status of his own forehead might be different. For example, at world $ddc$, the only possibilities the first child entertains are $ddc$ itself (via the non-drawn reflexive 1-arrow) and the world $cdc$. Since the status of the other children’s foreheads is the same at worlds $ddc$ and $cdc$ (i.e., 2’s forehead is dirty and 3’s is clean) but the status of the first child’s forehead is not the same (i.e., 1’s forehead is dirty in $ddc$ but clean in $cdc$), we can say the following: at world $ddc$, the first child knows whether the other children’s foreheads are dirty but does not know whether his own is dirty. We can show that this is so at every world and for every child. Therefore, $M_{mc}$ indeed models the initial situation of the Muddy Children Puzzle.
 
@@ -241,7 +241,7 @@ The effect of this public announcement is to eliminate all those worlds at which
 
 $M_{mc}[F]$
 
-\*Figure B6.\* The model $M_{mc}[F]$ obtained from $M_{mc}$ (Figure B5) by the public announcement of *F*. Worlds and arrows from $M_{mc}$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F]$. Also, the picture omits reflexive arrows for each agent at each world.
+*Figure B6.* The model $M_{mc}[F]$ obtained from $M_{mc}$ (Figure B5) by the public announcement of *F*. Worlds and arrows from $M_{mc}$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F]$. Also, the picture omits reflexive arrows for each agent at each world.
 
 Father then says, “If you know whether your forehead is dirty, then step forward now”. This is the first time he says this and no child steps forward. We take Father’s statement followed by no child stepping forward to be equivalent to the following public announcement, which we denote by *N*:
 
@@ -259,7 +259,7 @@ The result of the announcement of *N* is the model $M_{mc}[F][N]$ pictured in Fi
 
 $M_{mc}[F][N]$
 
-\*Figure B7.\* The model $M_{mc}[F][N]$ obtained from $M_{mc}[F]$ (Figure B6) after the public announcement of *N*. Worlds and arrows from $M_{mc}$ and $M_{mc}[F]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N]$. Also, the picture omits reflexive arrows for each agent at each world.
+*Figure B7.* The model $M_{mc}[F][N]$ obtained from $M_{mc}[F]$ (Figure B6) after the public announcement of *N*. Worlds and arrows from $M_{mc}$ and $M_{mc}[F]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N]$. Also, the picture omits reflexive arrows for each agent at each world.
 
 Father now makes his announcement for the second time (“If you know whether your forehead is dirty, then step forward now”). But this time some children step forward, thereby conveying that these children know whether their foreheads are dirty. We therefore interpret Father’s statement followed by the actions of the children as a single announcement of the negation $\lnot N$ of our statement *N* from before. That is, we take the net result to be equivalent to the following public announcement:
 
@@ -271,7 +271,7 @@ The effect of this announcement is to delete all those worlds at which the state
 
 $M_{mc}[F][N][\lnot N]$
 
-\*Figure B8.\* The model $M_{mc}[F][N][\lnot N]$ obtained from $M_{mc}[F][N]$ (Figure B7) after the public announcement of $\lnot N$. Worlds and arrows from $M_{mc}$, $M_{mc}[F]$, and $M_{mc}[F][N]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N][\lnot N]$. Also, the picture omits reflexive arrows for each agent at each world.
+*Figure B8.* The model $M_{mc}[F][N][\lnot N]$ obtained from $M_{mc}[F][N]$ (Figure B7) after the public announcement of $\lnot N$. Worlds and arrows from $M_{mc}$, $M_{mc}[F]$, and $M_{mc}[F][N]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N][\lnot N]$. Also, the picture omits reflexive arrows for each agent at each world.
 
 Father now makes his announcement for the third time (“If you know whether your forehead is dirty, then step forward now”). Now, we are told, the remaining children step forward. We again take this to be equivalent to the announcement of $\lnot N$ (“Some child knows whether his forehead is dirty”). As before, the effect of this announcement is to delete any worlds at which the announcement is false: these are the worlds at which no child knows whether his forehead is dirty, which are the worlds at which every child entertains a possibility at which his forehead is dirty and a possibility at which his forehead is clean. Examining Figure B8, we see that none of the worlds satisfy these requirements: at each world, each child only entertains that very world, and therefore each child knows whether his forehead is dirty. So the result of the second public announcement of $\lnot N$ is the model $M_{mc}[F][N][\lnot N][\lnot N]$ pictured in Figure B9.
 
@@ -279,7 +279,7 @@ Father now makes his announcement for the third time (“If you know whether you
 
 $M_{mc}[F][N][\lnot N][\lnot N]$
 
-\*Figure B9.\* The model $M_{mc}[F][N][\lnot N][\lnot N]$ obtained from $M_{mc}[F][N]$ (Figure B8) after the public announcement of $\lnot N$. Worlds and arrows from $M_{mc}$, $M_{mc}[F]$, and $M_{mc}[F][N]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N][\lnot N][\lnot N]$. Also, the picture omits reflexive arrows for each agent at each world.
+*Figure B9.* The model $M_{mc}[F][N][\lnot N][\lnot N]$ obtained from $M_{mc}[F][N]$ (Figure B8) after the public announcement of $\lnot N$. Worlds and arrows from $M_{mc}$, $M_{mc}[F]$, and $M_{mc}[F][N]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N][\lnot N][\lnot N]$. Also, the picture omits reflexive arrows for each agent at each world.
 
 Obviously, since the second announcement of $\lnot N$ did not delete any worlds, the models of Figures B8 and B9 are the same: $$ M_{mc}[F][N][\lnot N] = M_{mc}[F][N][\lnot N][\lnot N] . $$ Looking now to this model, we obtain the solution: two children are dirty and one is clean.
 
@@ -311,7 +311,7 @@ Referee must choose two different integers in range $[2,7]$. Since the order the
 
 $M_{s\ell}$
 
-\*Figure B10.\* The model $M_{s\ell}$ depicting the initial setup for the Sum and Least Common Multiple Puzzle. Each of the circles depicts a possible choice by Referee: the pair of numbers in parenthesis above the horizontal line are the numbers chosen by Referee; below the line, the number on the left in red is the sum of the chosen numbers and the number on the right in blue is the least common multiple of the chosen numbers. Red arrows labeled by *s* represent Mr. S’s uncertainties, and blue arrows labeled by $\ell$ represent Mr. L’s uncertainties. For simplicity, reflexive arrows have been omitted (i.e., to complete the picture, one should add for each agent at each world an arrow for that agent pointing in a loop from the world in question back to that same world).
+*Figure B10.* The model $M_{s\ell}$ depicting the initial setup for the Sum and Least Common Multiple Puzzle. Each of the circles depicts a possible choice by Referee: the pair of numbers in parenthesis above the horizontal line are the numbers chosen by Referee; below the line, the number on the left in red is the sum of the chosen numbers and the number on the right in blue is the least common multiple of the chosen numbers. Red arrows labeled by *s* represent Mr. S’s uncertainties, and blue arrows labeled by $\ell$ represent Mr. L’s uncertainties. For simplicity, reflexive arrows have been omitted (i.e., to complete the picture, one should add for each agent at each world an arrow for that agent pointing in a loop from the world in question back to that same world).
 
 In Figure B10, we see that Mr. S has uncertainty between worlds having the same sum and Mr. L has uncertainty between worlds having the same LCM. Mr. S then makes his first statement, which we denote by $S_1$:
 
@@ -340,7 +340,7 @@ The result is the model $M[S_1]$ pictured in Figure B11.
 
 $M_{s\ell}[S_1]$
 
-\*Figure B11.\* The model $M_{s\ell}[S_1]$ obtained from $M_{s\ell}$ (Figure B10) after the public announcement of $S_1$. The picture omits reflexive arrows for each agent at each world.
+*Figure B11.* The model $M_{s\ell}[S_1]$ obtained from $M_{s\ell}$ (Figure B10) after the public announcement of $S_1$. The picture omits reflexive arrows for each agent at each world.
 
 Note that in the model $M_{s\ell}[S_1]$, both agents know the numbers: each of the agents only considers one pair of numbers to be possible. From here we have Mr. L’s first announcement, which we label as *L*:
 

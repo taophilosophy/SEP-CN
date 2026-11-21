@@ -91,7 +91,7 @@ These kinds of moral skepticism can be diagrammed as follows:
 
 ![diagram](../assets/skepticism-moral/graph.jpg)
 
-\*Figure 1.\*
+*Figure 1.*
 
 Skepticism about justified moral belief will be the primary topic for the rest of this entry, and I will refer to it henceforth simply as moral skepticism.
 

@@ -45,7 +45,7 @@ The geometrical structure of Newtonian spacetime reflects the way we ordinarily 
 
 ![Figure 1](../assets/spacetime-bebecome/3metaphysics.jpg)
 
-\*Figure 1\*. Three Metaphysics of Time
+*Figure 1*. Three Metaphysics of Time
 
 The first view, represented on the left, is the ontologically austere view called *presentism*, the view that only the present exists. The past has been but is no longer, while the future will come to be but is not yet. Note that it is the convention of these diagrams that one spatial dimension is suppressed. The present is actually a three dimensional global slice of the spacetime. Moreover, the illustration necessarily represents the spatial extent of the present as finite and may suggest that time also has a beginning and/or end. These views are, however, merely artifacts of the representation and not integral to presentism, possibilism, or eternalism. The diagram illustrating presentism also has four arrows pointing towards the top of the page (conventionally taken to represent the future direction) attached to the plane representing the present. These arrows are meant to indicate something that is integral to presentism, the idea that the present (and hence the existent) constantly shifts or changes. These arrows represent, then, the dynamic aspect of time called *temporal becoming* or *passage.* It is widely thought that the deepest problems in the metaphysics of time concern the understanding of passage or temporal becoming and its relation to existence.
 
@@ -193,7 +193,7 @@ Imagine that the Andromeda galaxy, which is about two million light years or $2\
 
 ![image](../assets/spacetime-bebecome/andromedeans.jpg)
 
-\*Figure 2\*. The Andromedean Invasion
+*Figure 2*. The Andromedean Invasion
 
 The launch of the invading fleet is prior to $\mathbf{A}$ and so *in some sense* in Alice’s past. But since the launch is after $\mathbf{B}$, it is in that same sense in Bob’s future. Penrose comments:
 
@@ -255,7 +255,7 @@ Light cones exist at each point of the spacetime and are invariant structures. S
 
 ![lightcone](../assets/spacetime-bebecome/lightcone.gif)
 
-\*Figure 3\*. The Light Cone
+*Figure 3*. The Light Cone
 
 First, there are the points from which a photon (travelling at speed $c$, of course) may reach $\mathbf{O}$ or which (like $\mathbf{A})$ may be reached by a photon from $\mathbf{O}$. We say that these points are *lightlike separated* from $\mathbf{O}$.
 

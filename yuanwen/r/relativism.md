@@ -39,7 +39,7 @@ The *co-variance definition* proceeds by asking the dual questions: (i) what is 
 | (D) Thoughts, Perception | Thought/percept Subjectivism | Thought/percept Historicism | Thought/percept Cultural/Social Relativism | Thought/percept Conceptual Relativism, Linguistic Relativity | N/A |
 | (E) Propositions or tokens of utterances expressing personal preferences, future contingents, epistemic models, aesthetic and moral predicates | N/A | N/A | N/A | N/A | New Relativism |
 
-\*Table 1:\* Domains of Relativization (*y*)
+*Table 1:* Domains of Relativization (*y*)
 
 Table 1 reflects the availability of fine-grained distinctions between different forms of relativism as functions of both objects (*x*) and domains (*y*) of relativization. In practice, however, much contemporary discussions of relativism focus on subjectivism, historicism, cultural relativism and conceptual relativism, along the axis of *y*, and cognitive/epistemic relativism, ethical or moral relativism and aesthetic relativism, along the axis of *x*. As we shall see in §5, New Relativism, where the *objects of relativization* (in the left column) are utterance tokens expressing claims *about* cognitive norms, moral values, etc. and the domain of relativization is the standards of an assessor, has also been the focus of much recent discussion.
 

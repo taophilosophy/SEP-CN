@@ -75,7 +75,7 @@ The first-order aim of interpreters of this body of evidence is to create a mode
 
 ![diagram of participant response](../assets/experimental-moral/fig1.png)
 
-\*Figure 1.\* Model of Participant Response to Experimental Philosophy Vignettes
+*Figure 1.* Model of Participant Response to Experimental Philosophy Vignettes
 
 In this model, the boxes represent constructs, the arrows represent causal or functional influences, and the area in grey represents the mind of the participant, which is not directly observable but is the target of investigation. In broad strokes, the idea is that a participant first reads the text of the vignette and forms a mental model of what happens in the story. On the basis of this model (and almost certainly while the vignette is still being read), the participant begins to interpret, i.e., to make both descriptive and normative judgments about the scenario, especially about the mental states and character traits of the people in it. The participant then reads the experimenter’s question, forms a mental model of what is being asked, and—based on her judgments about the scenario—forms an answer to that question. That answer may then be pragmatically revised (to avoid unwanted implications, to bring it more into accord with what the participant thinks the experimenter wants to hear, etc.) and is finally recorded as an explicit response to a statement about the protagonist’s attitudes (e.g., “he brought about the side effect intentionally,” graded on a Likert scale).[^note-5]
 

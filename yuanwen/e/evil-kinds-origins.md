@@ -71,7 +71,7 @@ Three further preliminary notes:
 | *Metaphysical* | The finitude, susceptibility to pain and disease, and other incapacities essential to the coachman and the horse and that are ultimately based in facts about natures | The finitude, susceptibility to pain and disease, and the inclination to cruelty that are essential to the man and the result of damage to his nature and/or that of his species, which damage is ultimately based in facts about immoral acts and intentions (e.g., Original Sin) | The finitude, and susceptibility to pain and disease in the coachman and the horse, and the corruption in the coachman’s nature and/or that of his species, and that are ultimately based in facts about a dark force or shadow-side principle in reality |
 | *Empirical* | The cancer of the coachman, whose ultimate explanation consists in causal facts about natural phenomena | The cruelty of the coachman and the suffering of the horse, whose ultimate explanation consists in facts about the man’s immoral acts and intentions. | The cancer, anger, cruelty, and suffering of the coachman and the horse whose ultimate explanation is based in facts about a dark force or shadow-side principle in reality. |
 
-\*Figure 1.\* The Table of Evils, applied to Nietzsche case
+*Figure 1.* The Table of Evils, applied to Nietzsche case
 
 The distinctions represented in the Table of Evil are the topics of Sections 3 and 4. Sections 5 through 7 look at three varieties of evil (systemic, symbolic, and radical) whose positions within the Table are more difficult to discern.
 
@@ -199,7 +199,7 @@ Here again is our Table of Evils, now with more examples that go beyond Nietzsch
 | *Metaphysical* | The finitude and other limitations that are essential to an individual or species-nature and that are ultimately based in facts about natures. | The finitude, limitations, and corruption that are essential to an individual or species-nature and the result of damage to natures, which damage is ultimately based in facts about immoral acts and intentions (e.g., Original Sin) | The finitude, limitations, and corruption that are essential to an individual or species-nature and are ultimately based in facts about a dark force or shadow-side principle in reality. |
 | *Empirical* | Pain, suffering, and illness (including mental) whose ultimate explanation consists in causal facts (e.g., aging, accidents, genetic defects, disasters and other natural phenomena). | Pain, suffering, and illness (including mental) whose ultimate explanation consists in facts about immoral acts and intentions (e.g., interpersonal violence, social ills, self-harm) | Pain, suffering, and illness (including mental) whose ultimate explanation consists in facts about a dark force or shadow-side principle in reality. |
 
-\*Figure 2.\* The Table of Evils, with general examples
+*Figure 2.* The Table of Evils, with general examples
 
 Some types of evil do not seem to fit nicely in the Table of Evils. The three dealt with in what follows are *systemic evil, symbolic evil*, and *radical evil*. The nature and the origins of such evils are difficult to discern, and may require an expansion of the Table.
 

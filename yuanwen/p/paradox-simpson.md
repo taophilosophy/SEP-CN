@@ -17,7 +17,7 @@ We begin with an illustration of the paradox with concrete data. The numbers in 
 | Treatment (T) | 20 | 20 | 50% | 8 | 5 | ≈ 61% | 12 | 15 | ≈ 44% |
 | Control (¬T) | 6 | 6 | 50% | 4 | 3 | ≈ 57% | 2 | 3 | ≈ 40% |
 
-\*Table 1:\* Simpson’s Paradox: the type of association at the population level (positive, negative, independent) changes at the level of subpopulations. Numbers taken from Simpson’s original example (1951).
+*Table 1:* Simpson’s Paradox: the type of association at the population level (positive, negative, independent) changes at the level of subpopulations. Numbers taken from Simpson’s original example (1951).
 
 For matters of exposition, we assume that these frequencies are unbiased estimates of the underlying probabilities. The treatment looks ineffective at the level of the overall population, but it leads to higher success percentages than the control both for men and for women (61% vs. 57% for men and 44% vs. 40% for women). Writing these proportions as conditional probabilities, with $\r{T}$=treatment, $\r{S}$=success/recovery, and $\r{M}$=male subpopulation, we obtain
 
@@ -67,7 +67,7 @@ be the aggregate data set over $N$ subpopulations. These data should be read as 
 | Treatment ($\bf \i{T}$) | $a_1 + a_2$ | $b_1 + b_2$ | $a_1$ | $b_1$ | $a_2$ | $b_2$ |
 | No Treatment ($\bf\neg \i{T}$) | $c_1 + c_2$ | $d_1 + d_2$ | $c_1$ | $d_1$ | $c_2$ | $d_2$ |
 
-\*Table 2:\* Abstract representation of a $2 \times 2$ contingency table with subpopulations $D_1$ and $D_2$.
+*Table 2:* Abstract representation of a $2 \times 2$ contingency table with subpopulations $D_1$ and $D_2$.
 
 Let $\alpha (D_i)$ be a measure the strength of the probabilistic association between $T$ and $S$ in population $D_i$.[^note-1] By convention, $\alpha (D_i) = 0$ corresponds to no association between the variables, $\alpha (D_i) \gt 0$ indicates a positive association, and $\alpha (D_i) < 0$ a negative one. This can best be translated into the condition
 
@@ -135,7 +135,7 @@ Also then $\r{M}$ is independent of $\r{S}$. Column uniformity can occur in case
 | Column-uniform design | no | no | no | yes | no | no |
 | Both | yes | yes | yes | yes | yes | yes |
 
-\*Table 3:\* An overview of how row- and column-uniform design avoid the amalgamation paradox for various association measures.
+*Table 3:* An overview of how row- and column-uniform design avoid the amalgamation paradox for various association measures.
 
 Table 3 summarizes the properties of all association measures with respect to the AMP and the different forms of experimental design. The behavior of the log-odds measure $\pi_O$, where neither row- nor column-uniform design suffices to rule out the AMP, will be discussed in Section 5.2.
 
@@ -143,7 +143,7 @@ We now identify one last fundamental condition for when data exhibit association
 
 ![a diagram: link to extended description below](../assets/paradox-simpson/figgeom1.svg)
 
-\*Figure 1:\* A geometrical representation of a necessary condition for the occurrence of Association Reversal. The paradox can occur if the proportions are ordered like in the left graph; it cannot occur if they are ordered like in the right graph. [An extended description of figure 1 is in the supplement.]
+*Figure 1:* A geometrical representation of a necessary condition for the occurrence of Association Reversal. The paradox can occur if the proportions are ordered like in the left graph; it cannot occur if they are ordered like in the right graph. [An extended description of figure 1 is in the supplement.]
 
 In both examples, the treatment success rate is for both subpopulations greater than the control success rate. When will this order be preserved at the overall level? We know that the overall success rate *for each condition* (treatment/control) is constrained by the success rates in the subpopulations:
 
@@ -215,7 +215,7 @@ DAGs enable one to systematically map the relationship between causal hypotheses
 
 ![two diagrams: first has three ovals labeled, Gender, Treatment, and Success. The Gender oval has arrows pointing to the other two and the Treatment oval has an arrow pointing to Success. Second is a duplicate of the first except the arrow from Gender to Treatment is dotted and a fourth oval, Intervention, also points to Treatment.](../assets/paradox-simpson/figdag.svg)
 
-\*Figure 2:\* The relationship between the variables *Treatment*, *Gender*, and *Success* represented in a DAG, without and with an intervention on Treatment.
+*Figure 2:* The relationship between the variables *Treatment*, *Gender*, and *Success* represented in a DAG, without and with an intervention on Treatment.
 
 Figure 2 (left part) presents a plausible DAG for our running example, including the variables *Treatment*, *Gender*, and *Success*. There are two ways in which *Treatment* provides information about *Success*. One is that people who take the treatment may be more (or less) likely to recover as a result of having taken it. The other is that learning that someone took the treatment provides information about whether they are likely to be male or female, and this information is relevant to determining whether they will recover regardless of whether they took the treatment.
 
@@ -258,7 +258,7 @@ In our original example, the treatment increased the probability of recovery in 
 
 ![two diagrams: first has three ovals labeled Gender, Treatment, and Success. The Gender oval has arrows pointing to the other two and the Treatment oval has an arrow pointing to Success. Second has three ovals labeled Birth Control, Pregnancy, and Thrombosis. The Birth Control oval has arrows pointing to the other two and the Pregnancy oval has an arrow pointing to the Thrombosis oval.](../assets/paradox-simpson/figint.svg)
 
-\*Figure 3:\* The DAG for the variables *Treatment*, *Gender* and *Success* (third variable = confounding factor), contrasted with the DAG for the variables *Birth Control*, *Pregnancy*, and *Thrombosis* (third variable = mediator).
+*Figure 3:* The DAG for the variables *Treatment*, *Gender* and *Success* (third variable = confounding factor), contrasted with the DAG for the variables *Birth Control*, *Pregnancy*, and *Thrombosis* (third variable = mediator).
 
 Thus, whether one should partition the population based on a factor in order to identify a particular causal relationship does not depend only on the statistical distribution, but crucially on one’s causal background assumptions. Suppose that one was considering an intermediate variable such as *Pregnancy* in Hesslow’s (1976)[^hesslow-1976] example. Recall that in the example birth control influences thrombosis both positively via a blood chemical and negatively by reducing one’s chance of getting pregnant. This case is shown in Figure 3 and contrasted with our running example where the third variable is a confounding factor. In order to identify the effect of birth control on thrombosis, it is crucial that one does *not* condition on pregnancy. If there are no unmeasured common causes of birth control and thrombosis, then a probability-raising relationship between birth control and thrombosis in the population as a whole would reliably indicate that taking birth control pills promotes thrombosis.
 
@@ -342,13 +342,13 @@ Spanos’ argument critically depends on how one determines whether a variable i
 | C | 17% | 11% | 434 | 424 |
 | All grades | 100% | 100% | 501 | 516 |
 
-\*Table 4:\* Verbal SAT score data for American high schools, taken from Rinott & Tam (2003).
+*Table 4:* Verbal SAT score data for American high schools, taken from Rinott & Tam (2003).
 
 Simpson’s Paradox is not limited to categorical data: it can occur for cardinal data as well and show up in standard models for quantitative analysis. A famous example is the analysis of SAT scores—the results of college admission tests—in the United States as a function of the high school grade point average (GPA) of students. The data are given in Table 4: the overall SAT average rises from 1992 to 2002, but for each GPA group (A+/A/…), SAT averages are falling. This phenomenon is, however, very natural. As soon as there is a bit of grade inflation at high schools, each group loses their best students to the next higher group, lowering the SAT average per group. But this is of course consistent with the overall SAT average remaining equal, or even rising from 501 to 516, like in our dataset. A conclusion from the stratified data that “students are getting more stupid” would be mistaken. Since societal developments such as grade inflation affect both the grade distribution and the SAT scores, one should *not* condition on the GPA of a student when studying SAT scores over time (compare the back-door criterion from Section 3.4).[^note-11]
 
 ![a graph with a y-axis of IQ score ranging from 70 to 130 and an x-axis of cups of coffee on test day ranging from 0 to 5. A dashed line goes from a point of about 0 cups and 75 IQ to 5 cups and 130 IQ. 8 clusters of dots appear along the line.](../assets/paradox-simpson/CoffeeIQ.png)
 
-\*Figure 4:\* A linear regression model that illustrates Simpson’s Paradox for bivariate cardinal data. Each cluster of values corresponds to a single person (repeated measurement).
+*Figure 4:* A linear regression model that illustrates Simpson’s Paradox for bivariate cardinal data. Each cluster of values corresponds to a single person (repeated measurement).
 
 A similar example is presented in Figure 4, adapted from Kievit, Frankenhuis, Waldorp, and Borsboom (2013). The figure shows the results of coffee intake on performance on an IQ test. Suppose that coffee actually decreases performance slightly because it makes drinkers more nervous and less focused. At the same time, coffee intake co-varies with education level (construction workers are too busy for drinking coffee all the time!) and education level co-varies with test performance. When we measure performance repeatedly for different individuals, we see that their performance is slightly negatively affected by their coffee intake. However, the (unconditional) regression model of performance as a function of coffee intake suggests misleadingly that coffee consumption strongly improves performance! The reason for the confounding is the causal impact of the hidden covariate, education level, on both coffee consumption and performance. Similar to the results from section 2, Simpson’s Paradox in linear models can be characterized formally by means of inequalities among regression coefficients (e.g., Pearl 2013)[^pearl-2013], and its occurrence depends on the nature of the causal interaction between the involved variables.
 

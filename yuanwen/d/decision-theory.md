@@ -117,7 +117,7 @@ Independence seems a compelling requirement of rationality, when considered in t
 | $L_3$ | \$0 | \$2500 | \$0 |
 | $L_4$ | \$2400 | \$2400 | \$0 |
 
-\*Table 1.\* Allais’ paradox
+*Table 1.* Allais’ paradox
 
 In this situation, many people strictly prefer $L_2$ over $L_1$ but also $L_3$ over $L_4$ (as evidenced by their choice behaviour, as well as their testimony), a pair of preferences which will be referred to as *Allais’ preferences*.[^note-3] A common way to rationalise Allais’ preferences is that in the first choice situation, the risk of ending up with nothing when one could have had \$2400 for sure does not justify the increased chance of a higher prize. In the second choice situation, however, the minimum one stands to gain is \$0 no matter which choice one makes. Therefore, in that case many people do think that the slight extra risk of \$0 is worth the chance of a better prize.
 
@@ -155,7 +155,7 @@ Savage’s act/state(event)/outcome distinction can be naturally represented in 
 | stroll with umbrella | comfortable stroll | comfortable stroll |
 | constant act | miserable wet stroll | miserable wet stroll |
 
-\*Table 2.\* Savage-style decision table
+*Table 2.* Savage-style decision table
 
 Before discussing Savage’s axioms, let us state the result that they give rise to. The following notation will be used: $f$, $g$, etc, are various acts, i.e., functions from the set $\bS$ of states of the world to the set $\bO$ of outcomes, with $\bF$ the set of these functions. $f(s_i)$ denotes the outcome of $f$ when state $s_i\in\bS$ is actual. The expected utility of $f$, according to Savage’s theory, denoted $U(f)$, is given by:
 
@@ -402,7 +402,7 @@ The Allais paradox, discussed in Section 2.3 above, is a classic example where t
 | $L_3$ | \$0 | \$2500 | \$0 |
 | $L_4$ | \$2400 | \$2400 | \$0 |
 
-\*Table 3.\* Allais’ paradox
+*Table 3.* Allais’ paradox
 
 Various attempts have been made to make Allais’ preferences compatible with some version of expected utility theory. A common response is to suggest that the choice problem has been incorrectly described. If it really is rational to evaluate \$0 differently depending on which lottery it is part of, then perhaps this should be accounted for in the description of the outcomes (Broome 1991a)[^broome-1991a]. For instance, we could add a variable to the \$0 outcome that $L_1$ might result in to represent the extra regret or risk associate with that outcome compared to the \$0 outcomes from the other lotteries (as done in Table 4). If we do that, Allais’ preferences are no longer inconsistent with EU theory. The simplest way to see this is to note that when we ignore the state of the world where the options that are being compared have the same outcome (i.e., when we ignore the last column in Table 4), $L_1$ is no longer identical to $L_3$, which means that the Independence axiom of von Neumann and Morgenstern (and Savage’s Sure Thing Principle) no longer requires that one prefer $L_2$ over $L_1$ only if one prefers $L_4$ over $L_3$.
 
@@ -416,7 +416,7 @@ Various attempts have been made to make Allais’ preferences compatible with so
 | $L_3$ | \$0 | \$2500 | \$0 |
 | $L_4$ | \$2400 | \$2400 | \$0 |
 
-\*Table 4.\* Allais’ paradox re-described
+*Table 4.* Allais’ paradox re-described
 
 The above “re-description strategy” could be employed whenever the value and/or contribution of an outcome depends on other possible outcomes: just describe the outcomes in a way that accounts for this dependency. But more worryingly, the strategy could be employed whenever one comes across *any* violation of expected utility theory or other theories of rationality (as discussed in Section 4.2).
 
@@ -487,7 +487,7 @@ A well-known sequential decision problem is the one facing Ulysses on his journe
 
 ![Tree diagram; from initial root options are: 'Tied to the mast' which leads to 'Reach Ithaca (humiliation)' and 'Sail unconstrained' which leads to a further choice between 'Stay with sirens' which leads to 'Stay on island' and 'Continue sailing home' which leads to 'Reach Ithaca (no humiliation)'](../assets/decision-theory/dt-fig1.png)
 
-\*Figure 1.\* Ulysses’ decision problem
+*Figure 1.* Ulysses’ decision problem
 
 We are told that, before embarking, Ulysses would most prefer to freely hear the sirens and return home to Ithaca. The problem is that Ulysses predicts his future self will not comply: if he sails unrestrained, he will later be seduced by the sirens and will not in fact continue home to Ithaca but will rather remain on the island indefinitely. Ulysses therefore reasons that it would be better to be tied to the mast, because he would prefer the shame and discomfort of being tied to the mast and making it home to remaining on the sirens’ island forever.
 
@@ -503,7 +503,7 @@ The so-called naïve approach to negotiating sequential decisions serves as a us
 | sail unconstrained then stay with sirens | life with sirens |
 | sail unconstrained then home to Ithaca | reach home, no humiliation |
 
-\*Table 5.\* Naïve Ulysses’ decision problem
+*Table 5.* Naïve Ulysses’ decision problem
 
 There is no need to labour the point that the naïve approach to sequential choice is aptly named. The hallmark of the sophisticated approach, by contrast, is its emphasis on backwards planning: the sophisticated chooser does not assume that all paths through the decision tree, or in other words, all possible combinations of choices at the various choice nodes, will be possible. The agent considers, rather, what they will be inclined to choose at later choice nodes when they get to the temporal position in question. Sophisticated Ulysses would take note of the fact that, if he reaches the island of the sirens unrestrained, he will want to stop there indefinitely, due to the transformative effect of the sirens’ song on his preferences. This is then reflected in the static representation of the decision problem, as per Table 6. The states here concern Ulysses’ future preferences, once he reaches the island. Since the second state has (by assumption) probability zero, the acts are decided on the basis of the first state, so Ulysses wisely chooses to be tied to the mast.
 
@@ -512,7 +512,7 @@ There is no need to labour the point that the naïve approach to sequential choi
 | order tying to mast | home, some humiliation | home, some humiliation |
 | sail unconstrained | life with sirens | home, no humiliation |
 
-\*Table 6.\* Sophisticated Ulysses’ decision problem
+*Table 6.* Sophisticated Ulysses’ decision problem
 
 Resolute choice deviates from sophisticated choice only under certain conditions that are not fulfilled by Ulysses, given his change in attitudes. Defenders of resolute choice typically defend decision theories and associated preferences that violate the Independence axiom/Sure-Thing Principle (notably McClennen 1990 and Machina 1989; see also Rabinowicz 1995 and Buchak 2013 for discussion)[^buchak-2013][^machina-1989][^mcclennen-1990][^rabinowicz-1995], and appeal to resolute choice to make these preferences more palatable in the sequential-decision context (to be discussed further in Section 6.2 below). According to resolute choice, in appropriate contexts, the agent should at all choice points stick to the strategy that was initially deemed best. The question is whether this advice makes sense, given the standard interpretation of a sequential decision model. What would it mean for an agent to choose against her preferences in order to fulfill a previously-selected plan? That would seem to defy the very notion of preference. Of course, an agent may place considerable importance on honouring previous commitments. Any such integrity concerns, however, should arguably be reflected in the specification of outcomes and thus in the agent’s preferences at the time in question. This is quite different from choosing out of step with one’s all-things-considered preferences at a time.
 

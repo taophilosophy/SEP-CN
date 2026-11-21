@@ -84,7 +84,7 @@ Values of *ι* range from 0 to 1 and are mapped along the y-axis of the Cartesia
 
 ![A graph with a curve starting at (-1,0), labelled necessarily false, rising to (0,1) then falling to (1,0), labelled necessarily true; the quadrant for x less than 0 is labelled inaccuracy; the quadrant for x greater than 0 is labelled vacuity. The rest is explained above](../assets/information-semantic/informativeness.svg)
 
-\*Figure 1\*
+*Figure 1*
 
 #### Responses and extensions
 

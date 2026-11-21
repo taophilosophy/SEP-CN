@@ -153,7 +153,7 @@ In our discussion in section 1.2 about alternatives to the Independence Axiom, (
 
 ![two graphs, a and b](../assets/bounded-rationality/fig1.svg)
 
-\*Figure 1:\* (a) plots the value function $v(\cdot)$ applied to consequences of a prospect; (b) plots the median value of the probability weighting function $w(\cdot)$ applied to positive prospects of the form $(x, p; 0, 1-p)$ with probability *p*. [An extended description of this figure is in the supplement.]
+*Figure 1:* (a) plots the value function $v(\cdot)$ applied to consequences of a prospect; (b) plots the median value of the probability weighting function $w(\cdot)$ applied to positive prospects of the form $(x, p; 0, 1-p)$ with probability *p*. [An extended description of this figure is in the supplement.]
 
 Prospect theory incorporates these components into models of human choice under risk by first identifying a reference point that either refers to the status quo or some other aspiration level. The consequences of the options under consideration then are framed in terms of deviations from this reference point. Extreme probabilities are simplified by rounding off, which yields miscalibration of the given, exogenous probabilities. Dominance reasoning is then applied, where dominated alternatives are eliminated from choice, along with additional steps to separate options without risk, probabilities associated with a specific outcome are combined, and a version of eliminating irrelevant alternatives is applied (Kahneman & Tversky 1979: 284–285)[^kahneman-1979].
 
@@ -192,7 +192,7 @@ The accuracy of the subject’s judgment $Y_s$ about the target criterion value 
 
 ![a complex diagram described in full in the next link](../assets/bounded-rationality/LensModel.png)
 
-\*Figure 2:\* Brunswik’s Lens Model [An extended description of this figure is in the supplement.]
+*Figure 2:* Brunswik’s Lens Model [An extended description of this figure is in the supplement.]
 
 With this formulation of the lens model in mind, return to Simon’s remarks above concerning the classification of environmental affordance versus behavioral constraint. The lens models conception as a linear model is influenced by signal detection theory, originally developed to improve the accuracy of early radar systems. Thus, the model inherits from engineering a clean division between subject and environment. However, suppose for a moment that both the environmental mechanism producing the criterion value and the subject’s predicted response are linear. Now consider the error-term, $\epsilon_s$. That term may refer to biological constraints that are responses to adaptive pressures on the whole organism. If so, ought $\epsilon_s$ be classified as an environmental constraint rather than a behavioral constraint? The answer will depend on what follows from the reclassification, which will depend on the model and the goal of inquiry (section 7). If we were using the lens model to understand the ecological validity of an organism’s judgment, then reclassifying $\epsilon_s$ as an environmental constraint would only introduce confusion; If instead our focus was to distinguish between behavior that is subject to choice and behavior that is precluded from choice, then the proposed reclassification may herald clarity—but then we would surely abandon the lens model for something else, or in any case would no longer be referring to the parameter $\epsilon_s$ in Figure 2.
 
@@ -220,7 +220,7 @@ The *bias-variance trade-off* refers to a particular decomposition of overall pr
 
 ![four targets further described in the next link](../assets/bounded-rationality/fig3.svg)
 
-\*Figure 3\* [An extended description of this figure is in the supplement.]
+*Figure 3* [An extended description of this figure is in the supplement.]
 
 Ideally, you would prefer a procedure for delivering your “shots” that had both a low bias and low variance. Given the choice between a low bias and high variance procedure versus a high bias and low variance procedure, you would presumably prefer the latter procedure if it returned a lower overall error. Although a decision maker’s learning algorithm ideally will have low bias and low variance, in practice, reducing one type of error often increases the other.
 

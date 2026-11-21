@@ -199,7 +199,7 @@ But why take the prior probability $\Pr(\textsf{father})$ to be .01 and not some
 
 ![graph titled Sensitivity analysis for a paternity case: x-axis is labeled P(father) and goes from 0 to 1; y-axis is labeled P(father|match) and goes from 0 to 1. The line goes sharply up from 0,0 to almost 0,1 then almost horizontal to 1,1](../assets/legal-probabilism/sensitivity.png)
 
-\*Figure 1\*
+*Figure 1*
 
 The posterior surpasses .9 once the prior is above approximately .008. In a paternity case, given the mother’s testimony and other evidence, it is clear that the probability of fatherhood before the expert testimony is taken into account should be higher than that, no matter what the prior probability should exactly be. Without settling on an exact value, the interval of values above .008 would guarantee a posterior probability of paternity to be at least .9. This is amply sufficient to meet the preponderance standard that governs civil cases such as paternity disputes (on standards of proof, see later in Section 5.)
 
@@ -381,7 +381,7 @@ The idea that Bayesian networks can be used for probabilistic reasoning in legal
 
 ![three circles labeled 'H', 'BT', and 'W'; arrows go from 'H' to 'BT' and to 'W'](../assets/legal-probabilism/fig2.svg)
 
-\*Figure 2\*
+*Figure 2*
 
 The *ancestors* of a node $X$ are all those nodes from which we can reach $X$ by following the arrows going forwards. The *parents* of a node $X$ are those for which we can do this in one step. The *descendants* of $X$ are all which can be reached from $X$ by following the arrows going forward. The *children* are those for which we can do this in one step. In the example, $H$ is the parent (and ancestor) of both $W$ and *BT*, which are its children (and descendants). There are no non-parent ancestors or non-children descendants.
 
@@ -440,7 +440,7 @@ The *evidence idiom* is the most basic graphical representation of the relation 
 
 ![two circles labeled 'Hypothesis' and 'Evidence' and arrow goes from the first to the second.](../assets/legal-probabilism/fig3.svg)
 
-\*Figure 3\*
+*Figure 3*
 
 This directed graph suggests that the direction of influence—which could, but need not, be interpreted as causal influence—goes from hypothesis to evidence (though the probabilistic dependence goes both ways). The hypothesis node and the evidence node can be binary variables, such as “The defendant was the source of the crime scene traces” (hypothesis) and “The defendant genetically matches the crime traces” (evidence). But the variables need not be binary. The hypothesis node might take values from the range of 1–40, say the distance in meters from which the gun was shot, and the evidence node might be a continuous variable representing the density of gun shot residues (Taroni et al. 2014)[^taroni-2014].
 
@@ -448,7 +448,7 @@ A more complex idiom, called the *evidence accuracy idiom*, consists of two arro
 
 ![Three nodes labeled 'Accuracy of Evidence', 'Excess alcohol level', and 'Evidence for excess'. An arrow points from each of the first two to the third.](../assets/legal-probabilism/fig4.svg)
 
-\*Figure 4\*
+*Figure 4*
 
 The directions of the arrows indicate that the accuracy of the evidence (accuracy node) and the alcohol level (hypothesis node) influence the outcome of the test (evidence node). The graphical model represents different sources of uncertainty. The uncertainty associated with the sensitivity and specificity of the test—that is, the probability that the tests reports excessive alcohol level when the level is excessive (sensitivity) and the probability that the test reports normal alcohol level when the level is normal (specificity)—is captured by the arrow going from the hypothesis node (Excess alcohol level) to the evidence node (Evidence for excess). Other sources of uncertainty comprise the possibility that the police officer lied about the test report or the possibility that the driver took medications which then affected the alcohol level. These possibilities can be taken into consideration by adding an accuracy node (or multiple accuracy nodes, if each factor is kept separate from the other).
 
@@ -463,7 +463,7 @@ When multiple items of evidence depend on one another—as may happen in many le
 | C2 | Camera 2 captures image of a matching person |
 | D | What cameras capture is dependent |
 
-\*Figure 5\*
+*Figure 5*
 
 The network structure is quite natural. The truth of the hypothesis, say, the defendant was present at the crime scene, influences whether the cameras capture an image of someone who looks like the defendant. However, if the two camera recordings are dependent on one another (for instance, they are directed at the same spot with a similar angle), the fact that the second camera captured the same image as the first does not make the hypothesis more likely once the first camera recording is known.
 
@@ -471,7 +471,7 @@ Finally, the *scenario idiom* can model complex hypotheses, consisting of a sequ
 
 ![a diagram: link to extended description below](../assets/legal-probabilism/fig6.svg)
 
-\*Figure 6\* [An extended description of figure 6 is in the supplement.]
+*Figure 6* [An extended description of figure 6 is in the supplement.]
 
 The scenario node unifies the different events and states. Because of this unifying role, increasing the probability of one part of the scenario (say State/event 2) will also increase the probability of the other parts (State/event 1 and State/event 3). This captures the fact that the different components of a scenario form an interconnected sequence of events.
 
@@ -483,7 +483,7 @@ Kadane and Schum (2011) made one of the first attempts to model an entire crimin
 
 ![a diagram: link to extended description below](../assets/legal-probabilism/fig7.svg)
 
-\*Figure 7\* [An extended description of figure 7 is in the supplement.]
+*Figure 7* [An extended description of figure 7 is in the supplement.]
 
 The arrows depict relationships of influence between variables. Whether Sally Clark’s sons, call them $A$ and $B$, died by SIDS or murder (A.cause and B.cause) influences whether signs of disease (A.disease and B.disease) and bruising (A.bruising and B.bruising) were present. Since son $A$ died first, whether $A$ was murdered or died by SIDS (A.cause) influences how son $B$ died (B.cause). How the sons died determines how many sons were murdered (No.murdered), and how many sons were murdered decides whether Sally Clark is guilty (Guilty).
 
@@ -576,7 +576,7 @@ This inequality serves to identify the probability threshold that should be met 
 
 ![first graph: link to extended description below](../assets/legal-probabilism/civil2.png) ![second graph: link to extended description below](../assets/legal-probabilism/criminal4.png)
 
-\*Figure 8\* [An extended description of figure 8 is in the supplement.]
+*Figure 8* [An extended description of figure 8 is in the supplement.]
 
 This analysis only considers the costs of mistaken decisions, but leaves out the benefits associated with correct decisions. More comprehensive analyses would consider both (Lillquist 2002; Laudan and Saunders 2009)[^laudan-2009][^lillquist-2002], but the basic insight would remain the same. Trial decision-making is viewed as one instrument among others for maximizing overall social welfare (Posner 1973)[^posner-1973]. On this account of proof standards, the stringency of the threshold depends on costs and benefits, and thus different cases may require different thresholds. Cases in which the charge is more serious than others—say, murder compared to petty theft—may require higher thresholds so long as the cost of a mistaken decision against the defendant is more significant. Whether or not standards of proof should vary in this way is debated (Kaplow 2012; Picinali 2013; see also the entry on the legal concept of evidence)[^kaplow-2012][^picinali-2013].
 

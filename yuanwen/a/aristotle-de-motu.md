@@ -81,7 +81,7 @@ After this remarkable statement Aristotle goes on to introduce his first mechani
 
 ![a circle bisected by line D-B and with a line going from the center point, A, to point C on the circle](../assets/aristotle-de-motu/fig1.svg)
 
-\*Figure 1\*
+*Figure 1*
 
 Here, point *A* is a single point on the line *D*-*B* (is “one”). However, if the line *A*-*C* folds at point *A* when it bends to *A*-*C*, *A* becomes “two”. The reason is that *A* is then at the same time both the end point of line *D*-*A* and the starting point of line *A*-*C*. According to Aristotle, joints behave analogously to point *A* (living beings “use their joints like the center of a circle”, a18). For example, in an outstretched arm, the elbow joint is “one” because it is part of the arm as a whole as it is formed by the upper and the lower arm. Once the elbow joint bends, however, it becomes “two” because it now forms both the end point of the upper arm and the starting point of the bent forearm. In this way, joints viz. the point in the joint become “both one and two” and “straight and bent” and “beginning and end” (*Metaph.* IV 6, 1016a9–16; *Phys.* VIII 8, 263a23–25; *An.* II 2, 427a9–14; *De Incessu Animalium* 9, 708b21–27). In this sense, joints have the peculiarity of being able to change into their respective opposites (*Mot. An.* 1, 698a20; 8, 702a22–26): When they are stretched, they are one in actuality, but two in potentiality, because they *can* bend, while conversely, when they are bent, they are two in actuality and one in potentiality (a18–21). Without some such internal supporting point animal motion is impossible. (For more on the functioning of joints see Primavesi & Corcilius 2018: 73–77 and Rapp 2020: 230–238, who also discusses the geometrical example)[^primavesi-2018][^rapp-2020][^corcilius-2020][^rapp-2020-2].
 
@@ -127,7 +127,7 @@ Next comes Aristotle’s description of the second, the moved-mover stage of the
 
 ![a diagram: link to extended description below](../assets/aristotle-de-motu/fig2.svg)
 
-\*Figure 2:\* illustration taken from Corcilius & Gregoric 2013: 73 (redrawn) [An [extended description of Figure 2](https://plato.stanford.edu/entries/aristotle-de-motu/figdesc.html#fig2) is in the supplement.]
+*Figure 2:* illustration taken from Corcilius & Gregoric 2013: 73 (redrawn) [An [extended description of Figure 2](https://plato.stanford.edu/entries/aristotle-de-motu/figdesc.html#fig2) is in the supplement.]
 
 ### 3.3 Mechanics of animal self-motion. The perceptual soul as the unmoved mover of the animal and its position in the body
 
@@ -135,7 +135,7 @@ At this point, Aristotle returns to the mechanics of animal self-motion that he 
 
 ![two line segments C-A and B-A which meet at point A](../assets/aristotle-de-motu/fig3.svg)
 
-\*Figure 3\*
+*Figure 3*
 
 All of this strongly suggests that Aristotle’s proof of the function of the perceptual soul as the mechanical supporting point and thus the unmoved mover of the animal is his answer to a problem he identified already in his *Physics* VIII 4, 254b28–22:
 
@@ -169,7 +169,7 @@ The treatise ends with a highly informative schematic description of the animal 
 
 ![two line segments that cross at point A. One line segment goes from point E on the upper left to point C on the lower right and other from point D on the lower left to point B on the upper right.](../assets/aristotle-de-motu/fig4.svg)
 
-\*Figure 4\*
+*Figure 4*
 
 Two scenarios that may occur in this system are distinguished. In one scenario the motion originates in *A* and moves in direction of *B* and *C*. This is the good case of voluntary animal self-motion in which cognition leads to desire which in turn leads to the self-motion of the animal as a whole. In the other scenario the motions originate not in the center but in the peripheral sense organs *D* and *E.* In that case they merely *pass through* the center in the direction of the active extremities *B* and *C*. In that latter case, the motions have both their origin and their destination in the extremities, which is to say that the motions of the parts arrive at each other, with *A* functioning as a mere passing station. This double role of *A* is possible for Aristotle because the heart is “potentially many”, i.e., it can function as the place of origin of motion or as a mere passing station. The difference between these two scenarios lies in whether the soul’s cognition leads to a desire for the cognized object in the animal or not. In the former case the resulting movement will be the movement of the animal as a whole because it takes its origin in the soul, whereas in the latter case the movement will not be the animal’s motion but the (involuntary) motion of one of its parts. Here, the origin of the resulting motion, then, will not be the animal’s soul but the peripheral parts of the body *D* and *E*. In that bad case they will run from *D* or *E* to *A* only “as if to an origin (*hôs ep’ archên*)” and from *A* to *B* or to *C* only “as if from an origin” (*hôs ap’ archên*, *Mot. An.* 11, 703 b 34–36). This is the subtle difference between voluntary and involuntary motions: namely whether or not the cognitive soul acts “as an origin”. It only does so when the animal’s cognition leads to a desire for the object of cognition. Neither cognition without a corresponding desire for the cognized object (as in the case of involuntary motions) nor a mere “passing through” the place of the psychic origin in the heart without perception will do. The soul only becomes a starting point of self-motion if the animal’s desire is triggered by its cognition in the way described in the “practical syllogism” (on the place of chapter 11 in the *Mot. An.* see also Morel 2020)[^morel-2020].
 

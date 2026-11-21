@@ -45,7 +45,7 @@ Figure 1 illustrates cases of these four relations.
 
 ![a box diagram of regions and objects: link to extended description below](../assets/location-mereology/figure01.svg)
 
-\*Figure 1:\* The dashed lines indicate regions $(r_1$–$r_6)$. The two shaded squares indicate two square objects, $o_1$ and $o_2$, that compose a larger rectangular object, $o_3$. [An extended description of figure 1 is in the supplement.]
+*Figure 1:* The dashed lines indicate regions $(r_1$–$r_6)$. The two shaded squares indicate two square objects, $o_1$ and $o_2$, that compose a larger rectangular object, $o_3$. [An extended description of figure 1 is in the supplement.]
 
 The table (Figure 2) indicates, incompletely, which objects bear which relations to which regions.
 
@@ -55,7 +55,7 @@ The table (Figure 2) indicates, incompletely, which objects bear which relations
 | $o_2$ |   | exactly weakly entirely pervasively | weakly entirely |   |   | weakly entirely |
 | $o_3$ | weakly   pervasively | weakly   pervasively | exactly weakly entirely pervasively | weakly | weakly   pervasively | weakly entirely |
 
-\*Figure 2\*
+*Figure 2*
 
 Intuitively, $o_1$ is exactly located at one and only one region, $r_1$, which has the same size and shape, and stands in the same spatial relations to other things, as $o_1$. However, $o_1$ is entirely located at each region that it lies within, such as $r_1, r_3$, and $r_6$. It is pervasively located at each region that it completely fills, such as $r_1$ and $r_5$. It is weakly located at each region that is not completely free from it, such as $r_1, r_3, r_5, r_6$, as well as $r_4$, at which it is neither entirely nor pervasively located. Region $r_2$, however, is completely free from $o_1$, so $o_1$ is not even weakly located at $r_2$. Likewise, $o_2$ is not even weakly located at $r_1$. This should be enough for a pre-theoretic grasp of our four target relations.
 
@@ -197,7 +197,7 @@ Roughly, Expansivity says that an object must extend out at least as far as its 
 
 ![a 2 by 3 box diagram: link to extended description below](../assets/location-mereology/figure03.svg)
 
-\*Figure 3:\* The object $a$ is part of the object $o$, but $a$’s exact location $r_a$ is not a part of $o$’s exact location, $r$. *Ruled out by Expansitivity*. [An extended description of figure 3 is in the supplement.]
+*Figure 3:* The object $a$ is part of the object $o$, but $a$’s exact location $r_a$ is not a part of $o$’s exact location, $r$. *Ruled out by Expansitivity*. [An extended description of figure 3 is in the supplement.]
 
 The idea behind Delegation, in slightly different terms, is that a complex entity cannot be weakly located at a certain region unless one of its proper parts—a ‘delegate’—is also weakly located there. Regarding the formal statement of Delegation, one might wonder why it is not formulated with ‘$\PP(u, z)$’ in place of ‘$O(u, z)$’ in the consequent. The reason for this is that Delegation is meant to be friendly to extended simples. Suppose that a complex, spherical object, $c$, is exactly located a spherical region, $r$. Suppose that $c$ is composed of two hemispherical simples, $h$ and $h*$, and that $r$ is composed of continuum-many simple points, each plurality of which composes a region that is a part of $r$. Then, contrary to the proposed revision, it will not be true that for every part $y$ of $r$, some proper part of $c$ is exactly located at a region that has $y$ as a proper part. Consider, for example, the spherical region $r*$ with the same center point as, but half the volume as, $r$ itself. $c$ does not have a proper part that is exactly located at $r*$, nor does it have a proper part whose exact location has $r*$ as a proper part. But, as Delegation requires, $c$ does have a proper part $(h$, for example) that has an exact location that overlaps $r*$.
 
@@ -205,7 +205,7 @@ Delegation rules out cases like the following (Figure 4), in which $o^*$ is a co
 
 ![a 2 by 3 box diagram minus box a: link to extended description below](../assets/location-mereology/figure04.svg)
 
-\*Figure 4:\* The region $r_a$ is a part of object $o^*$’s exact location, and object $o^*$ is complex, but no proper part of $o$ has an exact location that overlaps $r_a$. *Ruled out by Delegation*. [An extended description of figure 4 is in the supplement.]
+*Figure 4:* The region $r_a$ is a part of object $o^*$’s exact location, and object $o^*$ is complex, but no proper part of $o$ has an exact location that overlaps $r_a$. *Ruled out by Delegation*. [An extended description of figure 4 is in the supplement.]
 
 Neither interpenetration nor extended simples threaten Expansivity or Delegation. One threat to Delegation comes from Pickup (2016: 260)[^pickup-2016], who considers the possibility of a complex entity that is exactly located somewhere despite the fact that none of its proper parts is exactly (or weakly) located anywhere. One route to such entities (not Pickup’s) runs as follows:
 
@@ -445,7 +445,7 @@ To clarify the idea of multilocation in an informal way, it may be useful to con
 
 (b) A non-scattered, multilocated object
 
-\*Figure 5:\* [An extended description of figures 5a and 5b are in the supplement.]
+*Figure 5:* [An extended description of figures 5a and 5b are in the supplement.]
 
 The object $o_1$ is scattered: its shape is that of the sum of two non-overlapping circles. It is not multilocated. Rather, it has just one exact location: the scattered region $r_3$. It is not exactly located at any proper part of that region, such as $r_1$ or $r_2$.
 
@@ -499,7 +499,7 @@ Philosophers on both sides of this dispute can agree about which spacetime regio
 
 ![Four complex diagrams in a 2 by 2 layout: link to extended description below](../assets/location-mereology/figure06.svg)
 
-\*Figure 6:\* Persistence, the locational and mereological disputes. [An extended description of figure 6 is in the supplement.]
+*Figure 6:* Persistence, the locational and mereological disputes. [An extended description of figure 6 is in the supplement.]
 
 Locational endurance entails multilocation: it says that some material objects are exactly located at many different regions (for a locational characterization of endurantism that does not entail multilocation see Garcia forthcoming). Mereological endurance, which merely rejects temporal parts, does not entail multilocation. Thus, one might reject temporal parts while retaining Functionality. This is the position of Parsons (2000, 2007)[^parsons-2000][^parsons-2007]. It corresponds to the lower left-hand box in Figure 6.[^note-14]
 
@@ -644,7 +644,7 @@ It is easy to see how this handles the Minimal Mereology argument. In effect, Ef
 
 ![a 2 by 3 box diagram: link to extended description below](../assets/location-mereology/figure07.svg)
 
-\*Figure 7\* [An extended description of figure 7 is in the supplement.]
+*Figure 7* [An extended description of figure 7 is in the supplement.]
 
 Here, *Brick* at $r_1$ is a part of *Wall* at $r_w$. Moreover, *Brick* at $r_1$ is, in the relevant sense, a ‘proper part’ of *Wall* at $r_w$, since either $\textit{Brick}_1 \ne \textit{Wall}$ or $r_1 \ne r_w$—in fact, both disjuncts hold. So, we have a case in which Weak Supplementation_{4P} applies: its antecedent is satisfied. Accordingly, that principle tells us that there must be an $\langle x, r\rangle$ pair such that $x$ at $r$ is a part *Wall* at $r_w$ but does not overlap $\textit{Brick}_1$ at $r_1$. One such pair is $\langle\textit{Brick}_1, r_3\rangle$: $\textit{Brick}_1$ at $r_3$ is a part of *Wall* at $r_w$, but $\textit{Brick}_1$ at $r_3$ does not overlap $\textit{Brick}_1$ at $r_1$. There is no $\langle x, r\rangle$ pair such that $x$ at $r$ is a part *both* of $\textit{Brick}_1$ at $r_1$ *and* of $\textit{Brick}_1$ at $r_3$. Hence the consequent is satisfied as well.
 

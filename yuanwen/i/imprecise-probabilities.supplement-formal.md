@@ -68,7 +68,7 @@ Now, here is the punchline: if we restrict attention to linear previsions of ind
 
 ![[complex diagram consisting of 9 expressions (which we'll give letters R-Z to though the diagram doesn't use them) on 5 levels. On the highest level the expressions are '\overline{P}(A) + \overline{P}(B)' [R] and '\overline{P}(A \cup B) + \overline{P}(A\cap B)' [S]. On the second level down is '\overline{P}(A\cup B) + \underline{P}(A\cap B)' [T]. On the third level down is '\underline{P}(A)+\overline{P}(B)' [U] and '\underline{P}(A\cup B)+\overline{P}(A\cap B)' [V]. On the fouth level down is '\underline{P}(A\cup B)+\underline{P}(A\cap B)' [W] and '\overline{P}(A\cup B)' [X]. On the lowest level is '\underline{P}(A)+\underline{P}(B)' [Y] and '\underline{P}(A\cup B)' [Z]. Solid arrows go from [R] to [T], [R] to [V], [S] to [U], [T] to [Y], [U] to [W], and [V] to [Y]. Dotted arrows go from [R] to [U], [S] to [V], [S] to [T], [T] to [W], [T] to [X], [V] to [W], [U] to [Y], [W] to [Z], and [X] to [Z]. ]](../assets/imprecise-probabilities/diagram.png)
 
-\*Figure F1:\* Relationships between upper and lower probabilities
+*Figure F1:* Relationships between upper and lower probabilities
 
 An arrow between two expressions means that the higher one is greater than or equal to the lower one. The solid lines highlight the nontrivial inequalities. If $A$ and $B$ are incompatible, it is clear that this tangle of inequalities simplifies to: $$ \overline{P}(A) + \overline{P}(B) \ge \overline{P}(A\cup B) \ge \overline{P}(A) + \underline{P}(B) \ge \underline{P}(A\cup B) \ge \underline{P}(A) + \underline{P}(B) $$
 

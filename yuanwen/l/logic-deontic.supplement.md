@@ -52,7 +52,7 @@ We now provide a counter-model to show that $\OB$-U, $\OB (\OB p \rightarrow p)$
 
 ![](../assets/logic-deontic/fig-graph-b.svg)
 
-\*Fig. D.1\* [An extended description of figure D.1.]
+*Fig. D.1* [An extended description of figure D.1.]
 
 Here, seriality holds, since each of the three worlds has at least one world acceptable to it (in fact, exactly one), but *secondary* seriality fails, since although $j$ is acceptable to $i, j$ is not acceptable to itself. Now look at the top annotations regarding the assignment of truth or falsity to $p$ at $j$ and $k$. The lower deontic formulae derive from this assignment and the accessibility relations. (The value of $p$ at $i$ won’t matter.) Since $p$ holds at $k$, which exhausts the worlds acceptable to $j, \OB p$ must hold at $j$, but then, since $p$ itself is false at $j$, $(\OB p \rightarrow p)$ must be false at $j$. But $j$ is acceptable to $i$, so not all $i$-acceptable worlds are ones where $(\OB p \rightarrow p)$ holds, so $\OB (\OB p \rightarrow p)$ must be false at $i$.[^note-102] We have already proven that seriality, which holds in this model, automatically validates NC. It is easy to show that the remaining ingredients of SDL hold here as well.[^note-103]
 
@@ -60,7 +60,7 @@ We proved above that $(\OB \OB p \rightarrow \OB p)$ is derivable from $\OB$-U. 
 
 ![](../assets/logic-deontic/fig-graph-c.svg)
 
-\*Fig. D.2\* [An extended description of figure D.2.]
+*Fig. D.2* [An extended description of figure D.2.]
 
 It is left to the reader to verify that given the accessibility relations and indicated assignments to $p$ at $j$ and $k, \OB \OB p \rightarrow \OB p$ must be (vacuously) true at $i$, while $\OB (\OB p \rightarrow p)$ must be false at $i$.
 

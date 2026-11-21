@@ -10,7 +10,7 @@ As mentioned in section 2.4, the distributed knowledge modality *D* is not synta
 
 ![a diagram: link to extended description below](../assets/phil-multimodallogic/figure3.svg)
 
-\*Figure 3\* [An extended description of figure 3 is in the supplement.]
+*Figure 3* [An extended description of figure 3 is in the supplement.]
 
 Similarly, the common knowledge modality *C* is not syntactically definable in $\cL_{\left\{ \oK{1}, \ldots, \oK{n} \right\}}$. Intuitively, this is because, even when the set of agents is finite, its intuitive definition requires an *infinite* sequence
 
