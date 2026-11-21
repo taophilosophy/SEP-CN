@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 1229，FLAG 677，FIX 19，MERGE 4
+判定分布：KEEP 1409，FLAG 681，FIX 20，MERGE 4
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -306,15 +306,20 @@
 - **Four-Seven Debate（四端七情論爭）**（行 2374，现译「四端七情之辩」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **fundamental attribution error**（行 2424，现译「基本归因误差」）｜ FLAG ｜ 社会心理学通行“基本归因错误／偏差”，现译“基本归因误差”须查证
 - **future contingents**（行 2434，现译「未来偶然后件」）｜ FLAG ｜ 行 2434 译“未来偶然后件”疑误：通行作“未来偶然事件／未来偶然事件命题”（auriol:387 为未来偶然事件理论）；与行 2433 同概念译法不一，须合键统一
+- **Garden**（行 2454，现译「花园」）｜ FLAG ｜ 用语三处均为普通 garden／出版地名义（园冶、引文、Garden City），非伊壁鸠鲁学派花园（Κῆπος）语境；须重抓用语
 - **Gefühl**（行 2461，现译「情感」）｜ FLAG ｜ 主译撞形：“情感”同时对应 emotion、sentiment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Gehalt**（行 2463，现译「内涵」）｜ FLAG ｜ 主译撞形：“内涵”同时对应 connotation、intension；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Geist**（行 2467，现译「精神」）｜ FLAG ｜ 主译撞形：“精神”同时对应 jingshen；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Geisteswissenschaften**（行 2468，现译「精神科学（亦作“人文科学”）」）｜ FLAG ｜ 亦作“人文科学”与 human sciences 的主译撞形；删该亦作或改主译
-- **general characteristic**（行 2480，现译「共相」）｜ FLAG ｜ 主译撞形：“共相”同时对应 universal / universals；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **general characteristic**（行 2480，现译「共相」）｜ FLAG ｜ 用语三处均为普通“一般特征”义，首现 gelukpa 藏传“共相”义语境（与 particular characteristic 对举）未抓到；须重抓用语
 - **generic word / generic object（sgra spyi / don spyi）**（行 2500，现译「声总／义共相」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Gentzen sequent**（行 2519，现译「Gentzen 序列」）｜ FLAG ｜ sequent 逻辑通行作“矢列／相继式”，现译“序列”恐与普通序列混；须查证统一（与 sequent 族联动）
 - **Geschichtlichkeit**（行 2532，现译「历史性」）｜ FLAG ｜ 主译撞形：“历史性”同时对应 historicity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Gorgias**（行 2570，现译「《高尔吉亚篇》」）｜ FLAG ｜ 双指：柏拉图《高尔吉亚篇》（篇名，首现 epicurus）与修辞家高尔吉亚（intentionality-ancient:177、presocratics:1548 用语所抓）；须分行
+- **grāhaka-grāhya**（行 2580，现译「能取-所取」）｜ FIX ｜ 改“能取所取”：佛教唯识通行连写无连接号（能取所取），现译“能取-所取”的半字线不合 ADR-0041 与通行形
 - **Great Learning（王阳明《大学问》）**（行 2585，现译「《大学问》」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **greatest lower bound**（行 2589，现译「最大下界（亦作“下确界”）」）｜ FLAG ｜ 亦作“下确界”与 infimum 的主译撞形；删该亦作或改主译
+- **Guelph**（行 2618，现译「归尔甫派」）｜ FLAG ｜ 用语抓错（genomics:2638 University of Guelph 大学名，非圭尔夫派语境）；且 Guelph 与 Guelf 异拼同党（dante:239 Guelfs），须合键或统一键形并重抓用语
 - **gui-shen**（行 2620，现译「鬼神（ghosts and spirits 鬼神）」）｜ FLAG ｜ 主译撞形：“鬼神”同时对应 kishin；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **guṇa**（行 2626，现译「性质（德）」）｜ FLAG ｜ 主译撞形：“性质”同时对应 quality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **guṇa（认识论善德义）**（行 2627，现译「善德」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）

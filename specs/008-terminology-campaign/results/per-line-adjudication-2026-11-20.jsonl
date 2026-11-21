@@ -1529,21 +1529,206 @@
 {"key": "fuzzy set", "line": 2436, "v": "KEEP", "zh": "模糊集合", "orig": "—", "note": null, "sheet": "r07"}
 {"key": "Gale-Shapley algorithm", "line": 2442, "v": "KEEP", "zh": "盖尔—沙普利算法", "orig": "—", "note": null, "sheet": "r07"}
 {"key": "Galilean invariance", "line": 2443, "v": "KEEP", "zh": "伽利略不变性", "orig": "—", "note": null, "sheet": "r07"}
-{"key": "Gefühl", "line": 2461, "v": "FLAG", "zh": "情感", "orig": "Gefühl", "note": "主译撞形：“情感”同时对应 emotion、sentiment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Gehalt", "line": 2463, "v": "FLAG", "zh": "内涵", "orig": "Gehalt", "note": "主译撞形：“内涵”同时对应 connotation、intension；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Geist", "line": 2467, "v": "FLAG", "zh": "精神", "orig": "—", "note": "主译撞形：“精神”同时对应 jingshen；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Geisteswissenschaften", "line": 2468, "v": "FLAG", "zh": "精神科学（亦作“人文科学”）", "orig": "Geisteswissenschaften", "note": "亦作“人文科学”与 human sciences 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
-{"key": "general characteristic", "line": 2480, "v": "FLAG", "zh": "共相", "orig": "—", "note": "主译撞形：“共相”同时对应 universal / universals；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "generic word / generic object（sgra spyi / don spyi）", "line": 2500, "v": "FLAG", "zh": "声总／义共相", "orig": "དོན་སྤྱི་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "Geschichtlichkeit", "line": 2532, "v": "FLAG", "zh": "历史性", "orig": "Geschichtlichkeit", "note": "主译撞形：“历史性”同时对应 historicity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Great Learning（王阳明《大学问》）", "line": 2585, "v": "FLAG", "zh": "《大学问》", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "greatest lower bound", "line": 2589, "v": "FLAG", "zh": "最大下界（亦作“下确界”）", "orig": "—", "note": "亦作“下确界”与 infimum 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
-{"key": "gui-shen", "line": 2620, "v": "FLAG", "zh": "鬼神（ghosts and spirits 鬼神）", "orig": "鬼神", "note": "主译撞形：“鬼神”同时对应 kishin；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "guṇa", "line": 2626, "v": "FLAG", "zh": "性质（德）", "orig": "गुण", "note": "主译撞形：“性质”同时对应 quality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "guṇa（认识论善德义）", "line": 2627, "v": "FLAG", "zh": "善德", "orig": "गुण", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "haboku", "line": 2639, "v": "FLAG", "zh": "泼墨（破墨）", "orig": "破墨", "note": "主译撞形：“泼墨”同时对应 hatsuboku；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "ḥadd", "line": 2641, "v": "FLAG", "zh": "定义", "orig": "حد", "note": "主译撞形：“定义”同时对应 definition、lakṣaṇa、taʿārīf；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "ḥads", "line": 2643, "v": "FLAG", "zh": "直觉", "orig": "حدس", "note": "主译撞形：“直觉”同时对应 intuition (ethical)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "Galilean transformations", "line": 2444, "v": "KEEP", "zh": "伽利略变换", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "galvanism", "line": 2445, "v": "KEEP", "zh": "伽伐尼电", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gamble", "line": 2446, "v": "KEEP", "zh": "赌局", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "game logic", "line": 2447, "v": "KEEP", "zh": "博弈逻辑", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "game semantics", "line": 2448, "v": "KEEP", "zh": "博弈语义", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "game theory", "line": 2449, "v": "KEEP", "zh": "博弈论（亦作“对策论”）", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "game-theoretic semantics", "line": 2450, "v": "KEEP", "zh": "博弈论语义", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gamete", "line": 2451, "v": "KEEP", "zh": "配子", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gamete donation", "line": 2452, "v": "KEEP", "zh": "配子捐赠", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "ganying", "line": 2453, "v": "KEEP", "zh": "感应（stimulus-response 感应）", "orig": "感应", "note": null, "sheet": "r08"}
+{"key": "Garden", "line": 2454, "v": "FLAG", "zh": "花园", "orig": "Κῆπος", "note": "用语三处均为普通 garden／出版地名义（园冶、引文、Garden City），非伊壁鸠鲁学派花园（Κῆπος）语境；须重抓用语", "sheet": "r08"}
+{"key": "gastrulation", "line": 2455, "v": "KEEP", "zh": "原肠胚形成", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gastruloid", "line": 2456, "v": "KEEP", "zh": "类原肠胚", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gauge freedom", "line": 2457, "v": "KEEP", "zh": "规范自由度", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gauge invariance", "line": 2458, "v": "KEEP", "zh": "规范不变性", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gauge transformation", "line": 2459, "v": "KEEP", "zh": "规范变换", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gaussian curvature", "line": 2460, "v": "KEEP", "zh": "高斯曲率", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gefühl", "line": 2461, "v": "FLAG", "zh": "情感", "orig": "Gefühl", "note": "主译撞形：“情感”同时对应 emotion、sentiment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r08"}
+{"key": "Gefühl der Vergänglichkeit", "line": 2462, "v": "KEEP", "zh": "无常感", "orig": "Gefühl der Vergänglichkeit", "note": null, "sheet": "r08"}
+{"key": "Gehalt", "line": 2463, "v": "FLAG", "zh": "内涵", "orig": "Gehalt", "note": "主译撞形：“内涵”同时对应 connotation、intension；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r08"}
+{"key": "Geheime Ratskollegium", "line": 2464, "v": "KEEP", "zh": "枢密院（保留德文）", "orig": "Geheime Ratskollegium", "note": null, "sheet": "r08"}
+{"key": "gehin", "line": 2465, "v": "KEEP", "zh": "下品", "orig": "下品", "note": null, "sheet": "r08"}
+{"key": "geidō", "line": 2466, "v": "KEEP", "zh": "艺道", "orig": "芸道", "note": null, "sheet": "r08"}
+{"key": "Geist", "line": 2467, "v": "FLAG", "zh": "精神", "orig": "—", "note": "主译撞形：“精神”同时对应 jingshen；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r08"}
+{"key": "Geisteswissenschaften", "line": 2468, "v": "FLAG", "zh": "精神科学（亦作“人文科学”）", "orig": "Geisteswissenschaften", "note": "亦作“人文科学”与 human sciences 的主译撞形；删该亦作或改主译", "sheet": "r08"}
+{"key": "gelukpa", "line": 2469, "v": "KEEP", "zh": "格鲁派", "orig": "དགེ་ལུགས་པ", "note": null, "sheet": "r08"}
+{"key": "Gemeinschaft", "line": 2470, "v": "KEEP", "zh": "共同体", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gender equality", "line": 2471, "v": "KEEP", "zh": "性别平等", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gender identity", "line": 2472, "v": "KEEP", "zh": "性别认同", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gene", "line": 2473, "v": "KEEP", "zh": "基因", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gene concept", "line": 2474, "v": "KEEP", "zh": "基因概念", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gene editing", "line": 2475, "v": "KEEP", "zh": "基因编辑", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gene expression", "line": 2476, "v": "KEEP", "zh": "基因表达", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gene's-eye view", "line": 2477, "v": "KEEP", "zh": "基因之眼", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genealogy", "line": 2478, "v": "KEEP", "zh": "谱系", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "general ability", "line": 2479, "v": "KEEP", "zh": "一般能力", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "general characteristic", "line": 2480, "v": "FLAG", "zh": "共相", "orig": "—", "note": "用语三处均为普通“一般特征”义，首现 gelukpa 藏传“共相”义语境（与 particular characteristic 对举）未抓到；须重抓用语", "sheet": "r08"}
+{"key": "general competence", "line": 2481, "v": "KEEP", "zh": "一般胜任度", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "general consent", "line": 2482, "v": "KEEP", "zh": "概括同意", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "general covariance", "line": 2483, "v": "KEEP", "zh": "广义协变性", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "general education", "line": 2484, "v": "KEEP", "zh": "通识教育", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "general idea", "line": 2485, "v": "KEEP", "zh": "一般观念", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "general relativity", "line": 2486, "v": "KEEP", "zh": "广义相对论", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "General Scholium", "line": 2487, "v": "KEEP", "zh": "总释", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "general volition", "line": 2488, "v": "KEEP", "zh": "一般意志", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "general will", "line": 2489, "v": "KEEP", "zh": "公意", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "generalist", "line": 2490, "v": "KEEP", "zh": "通才", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "generality problem", "line": 2491, "v": "KEEP", "zh": "一般性问题", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "generalization", "line": 2492, "v": "KEEP", "zh": "概括", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "generalization rule", "line": 2493, "v": "KEEP", "zh": "概括规则", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "generalized completeness theorem", "line": 2494, "v": "KEEP", "zh": "广义完全性定理", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "generalized correspondence principle", "line": 2495, "v": "KEEP", "zh": "广义对应原理", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "generalized probability theory", "line": 2496, "v": "KEEP", "zh": "广义概率论", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "generalized quantification", "line": 2497, "v": "KEEP", "zh": "广义量化", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "generalized quantifier", "line": 2498, "v": "KEEP", "zh": "广义量词", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "generic sentence", "line": 2499, "v": "KEEP", "zh": "类属句", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "generic word / generic object（sgra spyi / don spyi）", "line": 2500, "v": "FLAG", "zh": "声总／义共相", "orig": "དོན་སྤྱི་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r08"}
+{"key": "generosity game", "line": 2501, "v": "KEEP", "zh": "慷慨博弈", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Genesis", "line": 2502, "v": "KEEP", "zh": "《创世记》", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genetic assimilation", "line": 2503, "v": "KEEP", "zh": "遗传同化", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genetic code", "line": 2504, "v": "KEEP", "zh": "遗传密码", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genetic counseling", "line": 2505, "v": "KEEP", "zh": "遗传咨询", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genetic determinism", "line": 2506, "v": "KEEP", "zh": "遗传决定论", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genetic drift", "line": 2507, "v": "KEEP", "zh": "遗传漂变", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genetic essentialism", "line": 2508, "v": "KEEP", "zh": "基因本质主义（亦作“遗传本质主义”）", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genetic information", "line": 2509, "v": "KEEP", "zh": "遗传信息", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genetic polymorphism", "line": 2510, "v": "KEEP", "zh": "遗传多态性", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genetic variation", "line": 2511, "v": "KEEP", "zh": "遗传变异", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genetics", "line": 2512, "v": "KEEP", "zh": "遗传学", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Genocide Convention", "line": 2513, "v": "KEEP", "zh": "《灭绝种族罪公约》（正式名《防止及惩治灭绝种族罪公约》）", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genome mapping", "line": 2514, "v": "KEEP", "zh": "基因组作图", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genome sequencing", "line": 2515, "v": "KEEP", "zh": "基因组测序", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genome-wide association study", "line": 2516, "v": "KEEP", "zh": "全基因组关联研究（亦作“全基因组关联分析”）", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genomics", "line": 2517, "v": "KEEP", "zh": "基因组学", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genotype", "line": 2518, "v": "KEEP", "zh": "基因型", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gentzen sequent", "line": 2519, "v": "FLAG", "zh": "Gentzen 序列", "orig": "—", "note": "sequent 逻辑通行作“矢列／相继式”，现译“序列”恐与普通序列混；须查证统一（与 sequent 族联动）", "sheet": "r08"}
+{"key": "genuine cause", "line": 2520, "v": "KEEP", "zh": "真正原因", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "genuine fiction", "line": 2521, "v": "KEEP", "zh": "真虚构", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "geodesic", "line": 2522, "v": "KEEP", "zh": "测地线", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "geomancy", "line": 2523, "v": "KEEP", "zh": "土占术", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "geometry of interaction", "line": 2524, "v": "KEEP", "zh": "交互几何", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "George-Kreis", "line": 2525, "v": "KEEP", "zh": "格奥尔格圈（亦作“格奥尔格派”）", "orig": "George-Kreis", "note": null, "sheet": "r08"}
+{"key": "germ cell", "line": 2526, "v": "KEEP", "zh": "生殖细胞", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "German Ethics", "line": 2527, "v": "KEEP", "zh": "《德语伦理学》（沃尔夫 1720，缩写 GE）", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "German Idealism", "line": 2528, "v": "KEEP", "zh": "德国观念论", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "German Logic", "line": 2529, "v": "KEEP", "zh": "《德语逻辑学》（沃尔夫 1713，缩写 GL）", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "German Metaphysics", "line": 2530, "v": "KEEP", "zh": "《德语形而上学》（沃尔夫 1719，缩写 GM）", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "german philosophy", "line": 2531, "v": "KEEP", "zh": "德国哲学", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Geschichtlichkeit", "line": 2532, "v": "FLAG", "zh": "历史性", "orig": "Geschichtlichkeit", "note": "主译撞形：“历史性”同时对应 historicity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r08"}
+{"key": "Gesellschaft", "line": 2533, "v": "KEEP", "zh": "社会", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gestalt", "line": 2534, "v": "KEEP", "zh": "格式塔", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gestalt psychology", "line": 2535, "v": "KEEP", "zh": "格式塔心理学", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gestalt quality", "line": 2536, "v": "KEEP", "zh": "格式塔质", "orig": "Gestaltqualität", "note": null, "sheet": "r08"}
+{"key": "Gestalt switch", "line": 2537, "v": "KEEP", "zh": "格式塔转换", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gestaltlichkeit", "line": 2538, "v": "KEEP", "zh": "形态性", "orig": "Gestaltlichkeit", "note": null, "sheet": "r08"}
+{"key": "Gettier cases", "line": 2539, "v": "KEEP", "zh": "盖梯尔案例", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gettierization", "line": 2540, "v": "KEEP", "zh": "盖梯尔化", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gewissenstrieb", "line": 2541, "v": "KEEP", "zh": "良知驱力（德文原词保留斜体；即 conscience 良知）", "orig": "Gewissenstrieb", "note": null, "sheet": "r08"}
+{"key": "gewu", "line": 2542, "v": "KEEP", "zh": "格物（investigating things 格物）", "orig": "格物", "note": null, "sheet": "r08"}
+{"key": "gewu zhizhi", "line": 2543, "v": "KEEP", "zh": "格物致知（investigating things to attain/extend knowledge 格物致知）", "orig": "格物致知", "note": null, "sheet": "r08"}
+{"key": "Ghibelline", "line": 2544, "v": "KEEP", "zh": "吉伯林派", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "giftedness of life", "line": 2545, "v": "KEEP", "zh": "生命的馈赠性（亦作“生命的赠予性”）", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "global civil society", "line": 2546, "v": "KEEP", "zh": "全球公民社会", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "global coherentism", "line": 2547, "v": "KEEP", "zh": "全局融贯论", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "global democracy", "line": 2548, "v": "KEEP", "zh": "全球民主", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "global democratic deficit", "line": 2549, "v": "KEEP", "zh": "全球民主赤字", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "global distributive justice", "line": 2550, "v": "KEEP", "zh": "全球分配正义", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "global integration", "line": 2551, "v": "KEEP", "zh": "全球整合", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "global occasionalism", "line": 2552, "v": "KEEP", "zh": "全局偶因论", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "global workspace theory", "line": 2553, "v": "KEEP", "zh": "全局工作空间理论", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "globalism", "line": 2554, "v": "KEEP", "zh": "全球主义", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gnosis", "line": 2555, "v": "KEEP", "zh": "灵知", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gnosticism", "line": 2556, "v": "KEEP", "zh": "诺斯替主义", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "goal-directed agency", "line": 2557, "v": "KEEP", "zh": "目标导向的能动性", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gödel encoding", "line": 2558, "v": "KEEP", "zh": "哥德尔编码", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gödel number", "line": 2559, "v": "KEEP", "zh": "哥德尔数（亦作“哥德尔编号”）", "orig": "Gödel number", "note": null, "sheet": "r08"}
+{"key": "Gödel sentence", "line": 2560, "v": "KEEP", "zh": "哥德尔句（亦作“哥德尔语句”）", "orig": "Gödel sentence", "note": null, "sheet": "r08"}
+{"key": "Gödel’s theorem", "line": 2561, "v": "KEEP", "zh": "哥德尔定理", "orig": "Gödel’s theorem", "note": null, "sheet": "r08"}
+{"key": "Godwinism", "line": 2562, "v": "KEEP", "zh": "戈德温主义", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "God’s Existence", "line": 2563, "v": "KEEP", "zh": "上帝存在", "orig": "God’s Existence", "note": null, "sheet": "r08"}
+{"key": "golden rule", "line": 2564, "v": "KEEP", "zh": "金规则", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gongsun Long (zi)", "line": 2565, "v": "KEEP", "zh": "《公孙龙子》", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gongyang Zhuan", "line": 2566, "v": "KEEP", "zh": "《公羊传》", "orig": "公羊傳", "note": null, "sheet": "r08"}
+{"key": "good sense", "line": 2567, "v": "KEEP", "zh": "良识", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "good will", "line": 2568, "v": "KEEP", "zh": "善良意志", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "goods of fortune", "line": 2569, "v": "KEEP", "zh": "幸运之善", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gorgias", "line": 2570, "v": "FLAG", "zh": "《高尔吉亚篇》", "orig": "—", "note": "双指：柏拉图《高尔吉亚篇》（篇名，首现 epicurus）与修辞家高尔吉亚（intentionality-ancient:177、presocratics:1548 用语所抓）；须分行", "sheet": "r08"}
+{"key": "governance", "line": 2571, "v": "KEEP", "zh": "治理", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Government House Utilitarianism", "line": 2572, "v": "KEEP", "zh": "官邸功利主义", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "governmentality", "line": 2573, "v": "KEEP", "zh": "治理术", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "grace", "line": 2574, "v": "KEEP", "zh": "恩典（神学语境；divine grace 上帝的恩典）", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gradability", "line": 2575, "v": "KEEP", "zh": "可分级性", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gradable adjectives", "line": 2576, "v": "KEEP", "zh": "可分级形容词", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gradualism", "line": 2577, "v": "KEEP", "zh": "渐变论", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "graft survival", "line": 2578, "v": "KEEP", "zh": "移植物存活", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "graft-versus-host disease", "line": 2579, "v": "KEEP", "zh": "移植物抗宿主病", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "grāhaka-grāhya", "line": 2580, "v": "FIX", "zh": "能取-所取", "orig": "—", "note": "改“能取所取”：佛教唯识通行连写无连接号（能取所取），现译“能取-所取”的半字线不合 ADR-0041 与通行形", "sheet": "r08"}
+{"key": "granularity", "line": 2581, "v": "KEEP", "zh": "粒度", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gravity", "line": 2582, "v": "KEEP", "zh": "引力", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Great Awakening", "line": 2583, "v": "KEEP", "zh": "大觉醒运动", "orig": "Great Awakening", "note": null, "sheet": "r08"}
+{"key": "great chain of being", "line": 2584, "v": "KEEP", "zh": "存在巨链", "orig": "scala naturae", "note": null, "sheet": "r08"}
+{"key": "Great Learning（王阳明《大学问》）", "line": 2585, "v": "FLAG", "zh": "《大学问》", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r08"}
+{"key": "Great Panathenaea", "line": 2586, "v": "KEEP", "zh": "大泛雅典娜节", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Great Schism", "line": 2587, "v": "KEEP", "zh": "教会大分裂", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "great-making property", "line": 2588, "v": "KEEP", "zh": "增益伟大性的属性", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "greatest lower bound", "line": 2589, "v": "FLAG", "zh": "最大下界（亦作“下确界”）", "orig": "—", "note": "亦作“下确界”与 infimum 的主译撞形；删该亦作或改主译", "sheet": "r08"}
+{"key": "greed avoidance", "line": 2590, "v": "KEEP", "zh": "厌贪", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Greek mythology", "line": 2591, "v": "KEEP", "zh": "希腊神话", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Greek sources", "line": 2592, "v": "KEEP", "zh": "希腊文献", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "green screen", "line": 2593, "v": "KEEP", "zh": "“绿屏”（支付能力筛查）", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Gregoriistae", "line": 2594, "v": "KEEP", "zh": "格里高利派", "orig": "Gregoriistae", "note": null, "sheet": "r08"}
+{"key": "Grenze", "line": 2595, "v": "KEEP", "zh": "界限", "orig": "Grenze", "note": null, "sheet": "r08"}
+{"key": "Grenzsituation", "line": 2596, "v": "KEEP", "zh": "界限处境", "orig": "Grenzsituation", "note": null, "sheet": "r08"}
+{"key": "Gresham's Law", "line": 2597, "v": "KEEP", "zh": "格雷欣法则", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Greyfriars", "line": 2598, "v": "KEEP", "zh": "灰衣修士（首现括注，方济各会俗称）", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "ground and consequent", "line": 2599, "v": "KEEP", "zh": "根据与后承", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "ground state", "line": 2600, "v": "KEEP", "zh": "基态", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "ground term", "line": 2601, "v": "KEEP", "zh": "基项", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "grounded normativity", "line": 2602, "v": "KEEP", "zh": "扎根规范性", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "grounding", "line": 2603, "v": "KEEP", "zh": "奠基", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "grounding nominalism", "line": 2604, "v": "KEEP", "zh": "奠基唯名论", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "grounding objection", "line": 2605, "v": "KEEP", "zh": "根据反驳", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "group agent", "line": 2606, "v": "KEEP", "zh": "群体行动者", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "group belief", "line": 2607, "v": "KEEP", "zh": "群体信念", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "group homomorphism", "line": 2608, "v": "KEEP", "zh": "群同态", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "group identity", "line": 2609, "v": "KEEP", "zh": "群体认同", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "group knowledge", "line": 2610, "v": "KEEP", "zh": "群体知识", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "group membership", "line": 2611, "v": "KEEP", "zh": "群体成员身份", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "group polarization", "line": 2612, "v": "KEEP", "zh": "群体极化", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "group selection", "line": 2613, "v": "KEEP", "zh": "群体选择", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "grue paradox", "line": 2614, "v": "KEEP", "zh": "绿蓝悖论", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "Grundsatzkritik", "line": 2615, "v": "KEEP", "zh": "原理批判", "orig": "Grundsatzkritik", "note": null, "sheet": "r08"}
+{"key": "grupo Hiperión", "line": 2616, "v": "KEEP", "zh": "许珀里翁小组", "orig": "grupo Hiperión", "note": null, "sheet": "r08"}
+{"key": "Guanzi", "line": 2617, "v": "KEEP", "zh": "《管子》", "orig": "管子", "note": null, "sheet": "r08"}
+{"key": "Guelph", "line": 2618, "v": "FLAG", "zh": "归尔甫派", "orig": "—", "note": "用语抓错（genomics:2638 University of Guelph 大学名，非圭尔夫派语境）；且 Guelph 与 Guelf 异拼同党（dante:239 Guelfs），须合键或统一键形并重抓用语", "sheet": "r08"}
+{"key": "guest worker", "line": 2619, "v": "KEEP", "zh": "客籍工人", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gui-shen", "line": 2620, "v": "FLAG", "zh": "鬼神（ghosts and spirits 鬼神）", "orig": "鬼神", "note": "主译撞形：“鬼神”同时对应 kishin；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r08"}
+{"key": "Guide of the Perplexed", "line": 2621, "v": "KEEP", "zh": "《迷途指津》", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "guiding desire", "line": 2622, "v": "KEEP", "zh": "引导性欲求", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "guise of the good", "line": 2623, "v": "KEEP", "zh": "善的外观", "orig": "sub ratione boni", "note": null, "sheet": "r08"}
+{"key": "gulag", "line": 2624, "v": "KEEP", "zh": "古拉格", "orig": "ГУЛАГ", "note": null, "sheet": "r08"}
+{"key": "Guliang Zhuan", "line": 2625, "v": "KEEP", "zh": "《穀梁传》", "orig": "穀梁傳", "note": null, "sheet": "r08"}
+{"key": "guṇa", "line": 2626, "v": "FLAG", "zh": "性质（德）", "orig": "गुण", "note": "主译撞形：“性质”同时对应 quality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r08"}
+{"key": "guṇa（认识论善德义）", "line": 2627, "v": "FLAG", "zh": "善德", "orig": "गुण", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r08"}
+{"key": "Guru Granth Sahib", "line": 2628, "v": "KEEP", "zh": "《古鲁·格兰特·萨希卜》", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "gurutva", "line": 2629, "v": "KEEP", "zh": "重性", "orig": "गुरुत्व", "note": null, "sheet": "r08"}
+{"key": "Gymnosophists", "line": 2630, "v": "KEEP", "zh": "裸形智者", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "habitual desire", "line": 2636, "v": "KEEP", "zh": "习惯性欲望", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "habituation", "line": 2637, "v": "KEEP", "zh": "习惯化", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "habitus", "line": 2638, "v": "KEEP", "zh": "习性（instrumental habitus 工具性习性）", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "haboku", "line": 2639, "v": "FLAG", "zh": "泼墨（破墨）", "orig": "破墨", "note": "主译撞形：“泼墨”同时对应 hatsuboku；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r08"}
+{"key": "hacktivism", "line": 2640, "v": "KEEP", "zh": "黑客行动主义", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "ḥadd", "line": 2641, "v": "FLAG", "zh": "定义", "orig": "حد", "note": "主译撞形：“定义”同时对应 definition、lakṣaṇa、taʿārīf；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r08"}
+{"key": "hadé", "line": 2642, "v": "KEEP", "zh": "华丽", "orig": "派手", "note": null, "sheet": "r08"}
+{"key": "ḥads", "line": 2643, "v": "FLAG", "zh": "直觉", "orig": "حدس", "note": "主译撞形：“直觉”同时对应 intuition (ethical)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r08"}
+{"key": "ḥadsiyyāt", "line": 2644, "v": "KEEP", "zh": "直觉判断", "orig": "حدسيات", "note": null, "sheet": "r08"}
+{"key": "haecceitism", "line": 2645, "v": "KEEP", "zh": "此性论", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "haecceity", "line": 2646, "v": "KEEP", "zh": "此性（haecceity）", "orig": "—", "note": null, "sheet": "r08"}
+{"key": "haiku", "line": 2647, "v": "KEEP", "zh": "俳句", "orig": "俳句", "note": null, "sheet": "r08"}
+{"key": "hairesis", "line": 2648, "v": "KEEP", "zh": "宗派", "orig": "αἵρεσις", "note": null, "sheet": "r08"}
 {"key": "Happiness", "line": 2668, "v": "FLAG", "zh": "幸福", "orig": "—", "note": "主译撞形：“幸福”同时对应 eudaimonia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "ḥaqīqa", "line": 2669, "v": "FLAG", "zh": "终极实在", "orig": "حقيقة", "note": "主译撞形：“终极实在”同时对应 ultimate reality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "hatsuboku", "line": 2680, "v": "FLAG", "zh": "泼墨", "orig": "泼墨", "note": "主译撞形：“泼墨”同时对应 haboku；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
