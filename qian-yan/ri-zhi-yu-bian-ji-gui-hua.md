@@ -387,3 +387,11 @@
 * **门禁**：本线范围 16/17 绿；唯一红项“管线单元测试”系并行会话 specs/053 线在途 tools/yuanwen.py 改动（test_em_with_trailing_star_escaped），非本线产物，由其线收口。
 * **事故对账（与 specs/055 线互相印证）**：s25 提交（ca31f15d8）扫入并行会话经 checkout 污染的暂存 mu-lu-s.md——我侧系 git commit 未带 pathspec 卷入整个暂存区；对方已于 6e701789b 原子修复并复绿。防线登记：共用工作树提交一律 `git commit -- <路径>`（只提交指定路径，无视暂存区残留），checkout 旧版一律临时 worktree。
 * **下步**：术语表 r02–r31 逐行研判（约 6,100 行）＋待处置队列（拆键 13 族／键形全角 84／撞形 538）。
+
+## 2026-11-22 阻塞清零与两条重译转入正常翻译频道（用户指令“解决阻塞，重译的进入正常翻译频道”）
+
+* **事实**：PROGRESS 阻塞 2 件（haecceitism／hamann）即此前“待用户派工”的两条重译——ADR-0075 §5 跨机收编的截断中间态稿（EN 块配对仅 50/249、68/263），当时裁定“停 s0_source_checked 并 block，修复属后续批次”。
+* **解除**：`task_ops advance --unblock` 两件（actor 主会话-20261122，证据引用户指令＋边界语义）；steps append-only 留史，ADR-0075 的“待派工”边界就此解除，两件沿 retranslate 状态机正常推进（现态 s0_source_checked，下一节点 drafted）。
+* **频道语义**：旧稿为截断中间态，重译时整体置换，逐段对齐由 LQ 段落账本（specs/006）按 EN 块重建——无需对旧稿做对齐修复；blockers 为调度侧字段（ADR-0068，journal 未迁移），unblock 步不入 journal（与 block 同族跳过）。
+* **计数**：PROGRESS 重生成——阻塞 2→0，在途 55→57，journal 分母 1197→1199，未开工 748 不变。
+* **下步**：两件按正常频道排队待起草（与 748 未开工件同队列，无特殊派工边界）；拾起时按 ABCDE 全周期 SOP 走 drafted→…→done。

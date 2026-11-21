@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md（结构）、baseline/entries.json（基线）、journal/（进度事实）、tasks/（仅调度侧阻塞）。 -->
 
-生成时间：2026-11-21 00:44（UTC）
+生成时间：2026-11-21 02:49（UTC）
 
 ## 总览
 
@@ -26,7 +26,7 @@
 |完整饱和（16 节点全过）|0|
 |在途（已开工未走完核心段）|57|
 |未开工（journal 内无 pass 事件）|748|
-|阻塞（调度侧，journal 未迁移）|2|
+|阻塞（调度侧，journal 未迁移）|0|
 
 > **分母口径**：完成／强制集／饱和／在途／未开工五项的分母是 **journal 词条 1199 件**，不是全库正式词条 1873 件。差额 674 件无 journal 记录（全部为仅标题骨架，`rules/01` 约定未翻译条目为仅含 H1 的骨架）；骨架合计 1443 件（账内 769 ＋ 账外 674），这些页已随 SUMMARY 上站但对读者为空。要把账外件计入进度，须先建任务（`task_ops.py create`）。
 
@@ -145,10 +145,3 @@
 |yorck|6|R1 S3 draft s0 s1 s2|
 |zhu-xi|9|R1 R2 S3 draft global s0 s1 s2 s2.4|
 |zombies|7|R1 R2 S3 draft s0 s1 s2|
-
-## 阻塞任务（调度侧，journal 未迁移 blockers）
-
-|slug|阻塞原因|
-|---|---|
-|haecceitism|逐段对齐：EN 块 199/249 未配对（详情 specs/044 results）|
-|hamann|逐段对齐：EN 块 195/263 未配对（详情 specs/044 results）|

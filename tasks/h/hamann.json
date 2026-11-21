@@ -24,11 +24,16 @@
       "actor": "task_ops",
       "at": "2026-11-18T17:25:13Z",
       "evidence": "逐段对齐：EN 块 195/263 未配对（详情 specs/044 results）"
+    },
+    {
+      "step": "unblock",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-21T02:48:05Z",
+      "evidence": "用户 2026-11-22 指令「解决阻塞，重译的进入正常翻译频道」：ADR-0075 §5 截断件阻塞解除，重译沿 retranslate 状态机正常推进；旧稿系跨机收编截断中间态（68/263 EN 块配对），重译将整体置换，逐段对齐由 LQ 段落账本重建立（specs/006），无需旧稿对齐修复"
     }
   ],
-  "blockers": [
-    "逐段对齐：EN 块 195/263 未配对（详情 specs/044 results）"
-  ],
+  "blockers": [],
   "created_at": "2026-11-01T10:36:15Z",
   "version_pin": {
     "pubinfo_date": "Sep 23, 2026",
