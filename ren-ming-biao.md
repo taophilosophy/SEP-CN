@@ -1732,14 +1732,14 @@
 | Hamacher, Elisabeth | — | 伊丽莎白·哈马赫 | 德国 | 1966– | scholem | 德语名音译（朔勒姆与宗教学）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q110916557（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hamacher, Werner | — | 维尔纳·哈马赫 | 德国 | 1948–2024 | scholem | 学界通行汉译（解构批评）；凭证 2026-11-08 | 2026-11-08 |
 | Hamann, Johann Georg | — | 约翰·格奥尔格·哈曼 | 德国 | 1730–1788 | novalis | 学界通行汉译；凭证 2026-11-11 | 2026-11-11 |
-| Hamhŏ Kihwa | 涵虛己和 | 涵虚己和 | 1376–1433 | — | korean-confucianism | 汉文传统写法（与已登记 Hamhŏ Tŭkt’ong 涵虛得通 为同一人：己和其名、得通其字、涵虚其号） | 2026-11-08 |
+| Hamhŏ Kihwa | 涵虛己和 | 涵虚己和 | 高丽／朝鲜 | — | korean-confucianism | 汉文传统写法（与已登记 Hamhŏ Tŭkt’ong 涵虛得通 为同一人：己和其名、得通其字、涵虚其号）；籍属/生卒联网查证：Wikidata Q5560381（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Hamhŏ Tŭkt’ong | 涵虛得通 | 涵虚得通 | 朝鲜 | 1376–1433 | korean-buddhism | 汉文传统写法（源文汉字 涵虛得通；朝鲜僧，《显正论》，亦号己和）；籍属/生卒联网查证：Wikidata Q5560381（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hamilton, William / William Hamilton | — | 威廉·汉密尔顿（亦作“哈密顿爵士”） | — | — | antonio-rosmini；语料回收（全目录） | 苏格兰哲学家通行音译（与联邦党人汉密尔顿分立）；2026-11-13 重复行合并（旧键 `William Hamilton`）；2026-11-15 补亦作（日志形） | 2026-11-15 |
 | Hamilton, William D. | — | 威廉·D. 汉密尔顿 | 英国 | 1936–2000 | altruism-biological | 学界通行音译（亲缘选择理论；与苏格兰哲学家 William Hamilton 分立）；凭证 2026-11-12 | 2026-11-12 |
 | Hamilton, William Rowan | — | 威廉·罗恩·哈密顿 | 爱尔兰 | 1805–1865 | peirce-benjamin | 数学物理学通行“哈密顿”（四元数、哈密顿力学；与苏格兰哲学家威廉·汉密尔顿分立）；凭证 2026-11-09 | 2026-11-09 |
 | Hamlet | — | 哈姆雷特 | — | — | ingarden | 文学千年通行汉译（莎士比亚剧作主人公，作品义）；凭证 2026-11-08 | 2026-11-08 |
 | Hamlin, J. Kiley | — | 基利·哈姆林 | 美国 | — | innateness-cognition | 音译（道德认知发展）；凭证 2026-11-12 | 2026-11-12 |
-| Hammerstaedt, Jürgen | — | 于尔根·哈默施泰特 | 德国 | — | epicurus | 音译（俄诺安达铭文研究） | 2026-11-12 |
+| Hammerstaedt, Jürgen | — | 于尔根·哈默施泰特 | 德国 | 1960– | epicurus | 音译（俄诺安达铭文研究）；籍属/生卒联网查证：Wikidata Q1262649（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Hampshire, Stuart / Stuart Hampshire | — | 斯图尔特·汉普希尔 | 英国 | 1914–2004 | intention；语料回收（全目录） | 学界通行音译（《思想与行动》）；凭证 2026-11-12；2026-11-13 重复行合并（旧键 `Stuart Hampshire`） | 2026-11-13 |
 | Han Chengdi | — | 汉成帝 | 中国（西汉） | 前51–前7 | chinese-phil-science | 通行史称（西汉皇帝刘骜，上游作 Han Chengdi）；凭证 2026-11-13；籍属/生卒联网查证：Wikidata Q7234（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Han Fei | — | 韩非 | 中国（战国） | 约前 280–前 233 | xunzi | 上游自带汉字（法家集大成者，荀子门人） | 2026-11-14 |
@@ -1776,7 +1776,7 @@
 | Harrison, John | — | 约翰·哈里森 | 英国 | 19 世纪 | cudworth | 学界通行音译（1845 年《TISU》版本编者，伦敦出版商 Thomas Tegg 版）；凭证 2026-11-10 | 2026-11-09 |
 | Harrod, Roy / Roy Harrod | — | 罗伊·哈罗德 | 英国／经济学家 | 1900–1978 | ramsey-economics；reasoning-analogy | 学界通行音译（哈罗德—多马模型）；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `Roy Harrod`） | 2026-11-13 |
 | Harsanyi, John / John Harsanyi | — | 约翰·海萨尼 | 美国／经济学 | 1920–2000 | ethics-deontological；语料回收（全目录） | 学界通行汉译（诺贝尔经济学奖得主）；2026-11-13 重复行合并（旧键 `John Harsanyi`）；籍属/生卒联网查证：GND 规范标目 gnd 119059037（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv） | 2026-11-14 |
-| Hartlib, Samuel | — | 塞缪尔·哈特利布 | 德国／通学 | 1600–1670 | descartes-works | 音译（17 世纪通信网中枢，学院运动推手）；籍属/生卒联网查证：GND 规范标目 gnd 119261863（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv） | 2026-11-14 |
+| Hartlib, Samuel | — | 塞缪尔·哈特利布 | 英国／德国 | 约1600–1670 | descartes-works | 音译（17 世纪通信网中枢，学院运动推手）；籍属/生卒联网查证：GND 规范标目 gnd 119261863（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv）；籍属/生卒联网查证：SEP 原文 en/francis-bacon:1683（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Hartmann, Eduard von | — | 爱德华·冯·哈特曼 | 德国 | 1842–1906 | langer | 学界通行汉译（《无意识哲学》）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118546252（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv） | 2026-11-14 |
 | Hartmann, Emma von | — | 埃玛·冯·哈特曼 | 奥地利 | — | ehrenfels | 音译（厄棱费尔之妻；与 Eduard／Nicolai Hartmann 异人）；凭证 2026-11-13 | 2026-11-13 |
 | Hartmann, Nicolai | — | 尼古拉·哈特曼 | 德国 | 1882–1950 | gadamer | 学界通行汉译（本体论与伦理学）；凭证 2026-11-10 | 2026-11-10 |
@@ -1791,7 +1791,7 @@
 | Hawthorne, John | — | 约翰·霍桑 | 英国 | 1964– | closure-epistemic | 学界通行音译（《知识与彩票》作者，单前提闭合）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 1022879391（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Hay, Louise | — | Louise Hay | 美国／文学 | 1926–2017 | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 129224588（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv） | 2026-11-14 |
 | Haynes, Johana | — | 乔安娜·海恩斯 | 英国 | 当代 | children | 学界通行音译（图画书哲学研究者，与 Murris 合著）；凭证 2026-11-10 | 2026-11-09 |
-| Haynes, John-Dylan | — | 约翰-迪伦·海因斯 | 德国 | — | epiphenomenalism | 音译（正文作“海因斯”；与既有 Haynes, Johana 同姓异人）；凭证 2026-11-12 | 2026-11-12 |
+| Haynes, John-Dylan | — | 约翰-迪伦·海因斯 | 德国 | 1971– | epiphenomenalism | 音译（正文作“海因斯”；与既有 Haynes, Johana 同姓异人）；凭证 2026-11-12；籍属/生卒联网查证：Wikidata Q1535366（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Ḥazm, Ibn / Ibn Hazm | Ibn Hazm | 伊本·哈兹姆 | 安达卢斯／伊斯兰哲学 | 994–1064 | arabic-islamic-mysticism；arabic-islamic-* 集群 | 阿拉伯哲学通行汉译；2026-11-13 重复行合并（旧键 `Ibn Hazm`）；籍属/生卒联网查证：Wikidata Q317787（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | He Yan | — | 何晏 | 中国（曹魏） | 195–249 | han-dynasty | 上游自带汉字（曹魏玄学家）；籍属/生卒联网查证：Wikidata Q1156713（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Heal, Jane | — | 简·希尔 | 英国 | 1946– | f/frame-problem | 学界惯例（音译，心灵哲学家）；籍属/生卒联网查证：Wikidata Q6152369（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -1922,7 +1922,7 @@
 | Hönigswald, Richard | — | 理查德·赫尼希斯瓦尔德 | 德国 | 1875–1947 | gadamer | 新康德主义通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Honneth, Axel | — | 阿克塞尔·霍耐特 | 德国 | 1949– | economic-democracy | 学界通行汉译（法兰克福学派）；籍属/生卒联网查证：GND 规范标目 gnd 123138647（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv） | 2026-11-14 |
 | Honoré Fabri | Honoré Fabri | 奥诺雷·法布里 | 法国／意大利／数学 | 1607–1688 | legrand | 学界通行汉译（耶稣会士-自然哲学家）；籍属/生卒联网查证：GND 规范标目 gnd 117497541（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-14 |
-| Honsell, Furio | — | Honsell | 意大利 | — | quine-nf | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Honsell, Furio | — | Honsell | 意大利 | 1958– | quine-nf | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q3548127（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Hoogerbeets, Rombout | — | 隆布特·霍赫贝茨 | 荷兰／法学家 | 1561–1625 | grotius | 音译（莱顿议政官，与格劳秀斯同案受审）；凭证 2026-11-12 | 2026-11-12 |
 | Hook, Sidney | — | 悉尼·胡克 | 美国 | 1902–1989 | dewey-political | 学界通行汉译（杜威弟子）；籍属/生卒联网查证：GND 规范标目 gnd 118987755（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv） | 2026-11-14 |
 | Hooke, Robert / Robert Hooke | — | 罗伯特·胡克 | 英国 | 1635–1703 | 语料回收（全目录）；nicole-oresme | 学界惯例（通行汉译）；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Robert Hooke`）；籍属/生卒联网查证：Wikidata Q46830（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -1945,7 +1945,7 @@
 | Hu Hong | 胡宏 | 胡宏 | 中国／南宋 | 1105–1161 | zhu-xi | 学界通行汉译（湖湘学派；汉字本名）；凭证 2026-11-15 | 2026-11-15 |
 | Hu Shih | 胡适 | 胡适 | 中国 | 1891–1962 | zhu-xi | 学界通行汉译（汉字本名；Hu Shih 为其自用拼法）；凭证 2026-11-15 | 2026-11-15 |
 | Huan Kuan | — | 桓宽 | — | — | han-dynasty | 上游自带汉字（《盐铁论》编者） | 2026-11-10 |
-| Huan Tan | — | 桓谭 | 中国 | fl. 2023 | han-dynasty | 上游自带汉字（两汉之际思想家）；2026-11-20 复核：GND 同名者非本项，撤回该批自动采纳；籍属/生卒联网查证：GND 规范标目 gnd 1311410295（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
+| Huan Tan | — | 桓谭 | 中国（汉） | fl. 2023 | han-dynasty | 上游自带汉字（两汉之际思想家）；2026-11-20 复核：GND 同名者非本项，撤回该批自动采纳；籍属/生卒联网查证：GND 规范标目 gnd 1311410295（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；籍属/生卒联网查证：SEP 原文 en/han-dynasty（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Huang Chun-chieh | 黄俊杰 | 黄俊杰 | 中国／台湾 | 1946– | zhu-xi | 学界通行汉译（东亚儒学研究者；汉字本名）；凭证 2026-11-15 | 2026-11-15 |
 | Huang Yong | 黄勇 | 黄勇 | 中国／美国 | — | zhu-xi | 学界通行汉译（儒学美德伦理研究者；汉字本名）；凭证 2026-11-15 | 2026-11-15 |
 | Huang, Xu | — | Xu Huang（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（正义敏感性研究）；凭证 2026-11-10 | 2026-11-10 |
@@ -1963,7 +1963,7 @@
 | Hügli, Anton | — | Anton Hügli（现代学者，保留英文） | 德国／瑞士 | 1939– | jaspers | ADR-0022：无通行汉名者保留英文（KJG 协作）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 120431483（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv） | 2026-11-14 |
 | Hugo Grotius | Hugo Grotius | 胡果·格劳秀斯 | 荷兰／法学家、哲学家 | 1583–1645 | grotius；SUMMARY 定名 | 学界通行汉译（国际法之父）；SUMMARY 定名作“胡果”，与 l/leibniz-ethics 行“雨果”并见，2026-11-12 以 SUMMARY 定名为主形（旧行标注废弃） | 2026-11-12 |
 | Hugo Münsterberg | Hugo Münsterberg | 雨果·明斯特伯格 | 德国／美国 | 1863–1916 | landmann-kalischer | 学界通行汉译（新康德主义心理学家）；籍属/生卒联网查证：GND 规范标目 gnd 118785281（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-14 |
-| Hugolino of Orvieto | — | 奥尔维耶托的乌戈利诺 | 意大利 | — | gregory-rimini | 依驻地冠称（Ugolino da Orvieto，奥古斯丁会）；凭证 2026-11-10 | 2026-11-10 |
+| Hugolino of Orvieto | — | 奥尔维耶托的乌戈利诺 | 意大利 | 1350–1373 | gregory-rimini | 依驻地冠称（Ugolino da Orvieto，奥古斯丁会）；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q26896768（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Hui Shi | — | 惠施 | 中国（战国） | 前369–前309 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：Wikidata Q943012（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hui-kuo | 惠果 | 惠果 | 唐 | 746–805 | kukai | 佛学界千年传统译名（青龙寺阿阇黎，空海之师） | 2026-11-09 |
 | Huike | — | 慧可 | 中国（北魏） | 487–593 | buddhism-chan | 佛学界通行汉译（二祖）；籍属/生卒联网查证：SEP 原文 en/buddhism-chan:429（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
