@@ -1,0 +1,122 @@
+# 待处置清单 open-04（行 4128–5252，120 条）
+
+- **nacherleben**（行 4128，现译“再体验（nacherleben；狄尔泰）”）｜ FLAG ｜ 主译撞形：“再体验”同时对应 re-experiencing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **nafs al-ʾamr**（行 4129，现译“事情本身（字面义；技术义指事物自在之所是；与 die Sache selbst 行同形异源，勿混）”）｜ FLAG ｜ 主译撞形：“事情本身”同时对应 Sache selbst；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **naimittikī**（行 4130，现译“自然种类词”）｜ FLAG ｜ 现译“自然种类词”存疑：弥曼差语境 naimittika 通常指约定／偶成（与 svabhāva 自性相对），与“自然种类”义相反；须回原典核对
+- **nairātmya**（行 4131，现译“无我”）｜ FLAG ｜ 主译撞形：“无我”同时对应 anātman；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **natural law**（行 4159，现译“自然法”）｜ FLAG ｜ 主译撞形：“自然法”同时对应 laws of nature；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **natural right / Natural Rights**（行 4168，现译“自然权利（亦作“天赋人权”）”）｜ FLAG ｜ 主译撞形：“自然权利”同时对应 right of nature；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **necessary being**（行 4182，现译“必然存在者”）｜ FLAG ｜ 主译撞形：“必然存在者”同时对应 wājib al-wujūd；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **necromancy / geomancy / divination**（行 4189，现译“死灵术／地占术／占卜”）｜ FLAG ｜ geomancy 两行译法不一：本行“地占术”vs 行 2523“土占术”；须统一（通行“地占术”）
+- **Needham problem**（行 4191，现译“李约瑟问题”）｜ FLAG ｜ 原文列误填中文“李约瑟问题”，应填英文原词 Needham problem；数据缺陷正列（与 correlative cosmology 同族）
+- **neighborhood function**（行 4204，现译“邻域函数”）｜ FLAG ｜ 主译撞形：“邻域函数”同时对应 neighborhood functions；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **neighborhood functions**（行 4205，现译“邻域函数”）｜ FLAG ｜ 与 neighborhood function 行（行 4204）单复数两行同译“邻域函数”，须合键（neighbourhood semantics 英拼系源词异拼，登记即可）
+- **nepantla**（行 4222，现译“保留原文（纳瓦特尔语“之间”）”）｜ FLAG ｜ 主译撞形：“保留原文”同时对应 apretado、relajiento、relajo、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **niche**（行 4239，现译“龛”）｜ FLAG ｜ 生态学通行“生态位”，cancer 语境 tumor niche 通行“肿瘤龛／生态位”；现译“龛”须查证裁定
+- **nirvikalpaka**（行 4253，现译“无分别（现量）”）｜ FLAG ｜ 与 niṣprakāraka 行（行 4254，注同义）两转写异词同译“无分别”；须合键或分行设计核对（因明两词义有细微别）
+- **niṣprakāraka**（行 4254，现译“无分别（同义）”）｜ FLAG ｜ 同 nirvikalpaka 行族问题（同义两行），须合键或分行设计核对
+- **niyata**（行 4255，现译“恒常（恒常伴随）”）｜ FLAG ｜ 主译撞形：“恒常”同时对应 permanence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **nomos**（行 4279，现译“约定（亦作“习俗”）”）｜ FLAG ｜ 主译撞形：“约定”同时对应 saṅketa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **non-ascertaining perception（snang la ma nges pa）**（行 4283，现译“显而未定识”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **non-determinism**（行 4291，现译“非决定论”）｜ FLAG ｜ 主译撞形：“非决定论”同时对应 indeterminism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **non-singular term**（行 4306，现译“非单数词项”）｜ FLAG ｜ “单数”系语法数范畴误用；逻辑学 singular term 通行“单称词项”，现译“非单数词项”须查证改“非单称词项”（logic-massexpress 语境为非单称词项）
+- **non-understanding（ma rtogs）**（行 4311，现译“不解知（ma rtogs）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **norm of reaction**（行 4322，现译“反应规范”）｜ FLAG ｜ 主译撞形：“反应规范”同时对应 reaction norm；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **normal function**（行 4324，现译“正常功能”）｜ FLAG ｜ 与 normal functioning 行（行 4325）同译“正常功能”，两行皆为布尔斯（Boorse）健康哲学同一概念（本行 2026-11-19 已研判、彼行 2026-11-09 已登记，互不知情）；须合键或分行（normal functioning 可作“正常运作”）
+- **normal functioning**（行 4325，现译“正常功能”）｜ FLAG ｜ 同 normal function 行族问题（同译“正常功能”撞形，同属布尔斯语境），须合键或分行
+- **notio**（行 4337，现译“观念”）｜ FLAG ｜ 现译“观念”与 idea 行（行 2867 亦作“观念”）撞形，且 notio 通行“概念”；本行用语仅标题／导航（gomez-pereira），须回原文核对后定（若为苏亚雷斯 notio 宜作“概念”）
+- **notiones secundae**（行 4338，现译“第二概念（即 second intentions 第二意向）”）｜ FLAG ｜ 行内译名自相不一：正译“第二概念”而括注 second intentions 作“第二意向”；中世纪逻辑 primary/second intention 通行“第一／第二意向”，须统一（notiones secundae 即第二意向）
+- **numinous**（行 4355，现译“努秘（奥托 das Heilige 语境）”）｜ FLAG ｜ 主译撞形：“努秘”同时对应 the numinous；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Nyāya-Vaiśeṣika**（行 4360，现译“正理-胜论派”）｜ FIX ｜ 连接号按 ADR-0041 一字线：正理-胜论派 → 正理—胜论派
+- **Nyāyasiddhāntamañjarī**（行 4362，现译“《宗义摩尼鬘》”）｜ FLAG ｜ 主译撞形：“《宗义摩尼鬘》”同时对应 Siddhānta-muktāvalī；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **objectification**（行 4372，现译“对象化（亦作“物化”）”）｜ FLAG ｜ 亦作“物化”与 reification 的主译撞形；删该亦作或改主译
+- **obligatio / obligationes**（行 4386，现译“义务论辩（正文保留拉丁原词，首现括注）”）｜ FLAG ｜ 与 obligationes 行（行 4388）同词两行两译：本行“义务论辩”／彼行“义务理论”（两行分别于 2026-11-04、2026-11-07 登记，互不知情）；中世纪逻辑 obligationes 通行“义务论辩”，须合键或统一
+- **obligation**（行 4387，现译“义务”）｜ FLAG ｜ 主译撞形：“义务”同时对应 taklīf；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **obligationes**（行 4388，现译“义务理论（保留拉丁原词 *Obligationes*）”）｜ FLAG ｜ 同 obligatio / obligationes 行族问题（同一拉丁词两行两译），须合键或统一为“义务论辩”
+- **offerer**（行 4409，现译“提议者”）｜ FLAG ｜ 登记（2026-11-10）仅覆盖最后通牒博弈“提议者”；atonement:840 为献祭语境（offerer as a sinner，即献祭者），同词两义须分行或登记豁免
+- **One Mind（yixin/ilsim）**（行 4432，现译“一心”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **one nature and distinct exclusions（ngo bo gcig la ldog pa tha dad）**（行 4433，现译“体一而反体异”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **ontology**（行 4447，现译“本体论（通行；亦作“存在论”）”）｜ FLAG ｜ 主译撞形：“本体论”同时对应 ontology (Leśniewski)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **ontology (Leśniewski)**（行 4448，现译“本体论”）｜ FLAG ｜ 主译撞形：“本体论”同时对应 ontology；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **operational semantics**（行 4462，现译“算子语义”）｜ FLAG ｜ 现登记（2026-11-09）仅覆盖 Fine 相关逻辑义（算子语义，与计算机科学分义）；然 computer-science:1187、games-abstraction:156 两处为计算机科学义，通行“操作语义”，须分行登记（同一英文词两义两行）
+- **opt-out／opt-in**（行 4469，现译“选择退出／选择加入（亦作“退出制／加入制”）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **organ retrieval／organ procurement**（行 4490，现译“器官获取”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **organicism**（行 4494，现译“机体论”）｜ FLAG ｜ 族内不一：本行“机体论”（审定名词库 JWT 凭证）vs organicist thinking 行（行 4495）“有机论思维”（学界通行）；须按域分行登记（生物学哲学机体论／中国科学思想有机论）或统一
+- **organism**（行 4496，现译“生物体”）｜ FLAG ｜ 主译撞形：“生物体”同时对应 living organism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **ou mallon**（行 4514，现译“并不更”）｜ FLAG ｜ 主译撞形：“并不更”同时对应 ouden mallon；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **ouden mallon**（行 4515，现译“并不更”）｜ MERGE ｜ 与 ou mallon 行（行 4514）同一“无差异”论证式的两个希腊形（οὐ μᾶλλον／οὐδὲν μᾶλλον），同译“并不更”重复登记；并入 ou mallon 主行作异形附注
+- **ownership**（行 4526，现译“所有权”）｜ FLAG ｜ 主译撞形：“所有权”同时对应 dominium；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **pada**（行 4538，现译“词”）｜ FLAG ｜ 主译撞形：“词”同时对应 kalima；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **pakṣa**（行 4541，现译“处所（所别）”）｜ FLAG ｜ 主译“处所”系源文 locus 随文义，因明通行“所别／宗”（本行注已含“所别”）；且与 Aristotle topos 行“处所”撞形；建议主译改“所别”，locus 随文义移注
+- **paraconsistency**（行 4559，现译“弗协调性（亦作“次协调”）”）｜ FLAG ｜ 族内主译不一：本行“弗协调性”vs paraconsistent logic 行（行 4560）“次协调逻辑（亦作超协调逻辑）”，三形并存（弗协调／次协调／超协调）；须全库统一主译（通行“次协调”，弗协调亦通行）
+- **parārtha**（行 4577，现译“为他推理”）｜ FLAG ｜ 族内不一：因明 anumāna 系主译“比量”（anumāna 行 352 比量、parārthānumāna 行 4578 为他比量、svārthānumāna 行 6357 为己比量），本行与 svārtha 行（行 6356）却作“为他推理／自为推理”；须统一（建议为他比量／自为比量，或全族统一作“推理”）
+- **particular**（行 4605，现译“殊相；特殊”）｜ FLAG ｜ 主译撞形：“殊相”同时对应 singularia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **paryāya**（行 4612，现译“样态”）｜ FLAG ｜ 主译撞形：“样态”同时对应 condicio (condiciones)、mode；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **perception**（行 4644，现译“知觉”）｜ FLAG ｜ 主译撞形：“知觉”同时对应 pratyakṣa（感官知觉义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **perfection (Vollkommenheit)**（行 4655，现译“完善（沃尔夫-鲍姆嘉通语境；与既有行 moral perfection=道德完善、perfectionism=至善论相衔接）”）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：沃尔夫-鲍姆嘉通 → 沃尔夫—鲍姆嘉通
+- **permanence**（行 4659，现译“恒常”）｜ FLAG ｜ 主译撞形：“恒常”同时对应 niyata；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **personalist**（行 4677，现译“个人主义”）｜ FLAG ｜ 与 individualism 行（行 3007）同译“个人主义”撞形；本行系概率哲学 personalist interpretation（de Finetti 系），宜作“私人主义的／个人主义（概率）解释”并与政治哲学 individualism 分行；QBism 语境“个人主义”须查证
+- **perspectivalism**（行 4682，现译“视角主义”）｜ FLAG ｜ 与 perspectivism 行（行 4685）同译“视角主义”撞形；perspectivalism（qm-relational 建模语境）与 perspectivism（尼采／科学哲学）是不同概念，须分行（建议本行作“视角论”）
+- **perspectivism**（行 4685，现译“视角主义”）｜ FLAG ｜ 主译撞形：“视角主义”同时对应 perspectivalism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **phantasia**（行 4696，现译“表象”）｜ FLAG ｜ 主译撞形：“表象”同时对应 Vorstellung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **phantasia（经院内感官语境）**（行 4697，现译“想象（能力）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **phantasm**（行 4698，现译“幻象”）｜ FLAG ｜ 主译撞形：“幻象”同时对应 illusion、phantasma；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **phantasma**（行 4699，现译“幻象”）｜ MERGE ｜ 与 phantasm 行（行 4698，原文 phantasma）同词异形、同译“幻象”；并入 phantasm 行（phantasmata 行 4700 之“影像”系希腊复数伊壁鸠鲁义，分域保留）
+- **phantasmata**（行 4700，现译“影像”）｜ FLAG ｜ 主译撞形：“影像”同时对应 eidôla、idola、simulacra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **philosophy of praxis**（行 4731，现译“实践哲学”）｜ FLAG ｜ 主译撞形：“实践哲学”同时对应 practical philosophy；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **phronêsis**（行 4742，现译“实践智慧（亦作“明智”）”）｜ FLAG ｜ 主译撞形：“实践智慧”同时对应 practical wisdom；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **phusis**（行 4743，现译“自然”）｜ FLAG ｜ 主译撞形：“自然”同时对应 ziran；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **place (Aristotelian topos)**（行 4764，现译“处所”）｜ FLAG ｜ 与 place (topos) 行（行 4765）同为亚里士多德 topos，却分译“处所／位置”；须合键并统一主译（通行“处所”，与 Physics 卷四语境一致）
+- **place (topos)**（行 4765，现译“位置”）｜ MERGE ｜ 与 place (Aristotelian topos) 行（行 4764）重复登记（同为 topos，crescas 语境亦系亚里士多德传统）；并入该行并统一作“处所”
+- **polarity**（行 4804，现译“两极”）｜ FLAG ｜ 用语三义混杂：zhu-xi:519 为 supreme polarity（太极，现译“两极”不达）、linguistics（montague-semantics:501、disjunction:1761）为 polarity items（极性项）、辩证论／美学为两极（对偶）；单行“两极”不能覆盖，须分行登记
+- **pollae myŏnmok（本來面目）**（行 4811，现译“本来面目”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **polyadic**（行 4813，现译“多元逻辑（与 monadic=一元逻辑配对）”）｜ FLAG ｜ 现译“多元逻辑”仅覆盖 polyadic logic（kant-mathematics:796）；另两处用语为 polyadic relations（peirce-logic:233，多元关系）与 polyadic quantifier（generalized-quantifiers:591，多元量词），须改主译“多元的”或按义分行
+- **polytheism**（行 4819，现译“多神教”）｜ FLAG ｜ 与 monotheism 行（行 3990，一神论）族内不一：现译“多神教”落宗教形态义，宜作“多神论”与一神论对齐（或两行同改 -教 形并全族登记）
+- **population thinking**（行 4825，现译“群体思维”）｜ FLAG ｜ 进化生物学 Mayr 语境界通行“种群思维”（population 生物学作“种群”），现译“群体思维”与 population health 行（行 4824，群体健康，公共卫生义）撞形且失生物义；须分行并改译
+- **Port-Royal Logic**（行 4830，现译“《波尔-罗亚尔逻辑》（国内亦称“王港逻辑”）”）｜ FIX ｜ 连接号按 ADR-0041 一字线：《波尔-罗亚尔逻辑》→《波尔—罗亚尔逻辑》
+- **positing (Setzung)**（行 4832，现译“设定”）｜ FLAG ｜ 主译撞形：“设定”同时对应 positio；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **positio**（行 4833，现译“设定（保留拉丁原词）”）｜ FLAG ｜ 主译撞形：“设定”同时对应 positing (Setzung)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **possible world**（行 4847，现译“可能世界”）｜ FLAG ｜ 主译撞形：“可能世界”同时对应 possible worlds / possible world；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **possible worlds / possible world**（行 4848，现译“可能世界”）｜ MERGE ｜ 与 possible world 行（行 4847）同一概念、同译“可能世界”，仅复数形重复登记；并入 possible world 行
+- **post-knowledge cognition（bcad shes）**（行 4854，现译“已决识（bcad shes）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **poverty of stimulus**（行 4871，现译“刺激贫乏”）｜ MERGE ｜ 与 poverty of the stimulus 行（行 4872）同一概念（标准式含 the），同译“刺激贫乏”；并入该行（保留“亦作刺激贫乏论”）
+- **poverty of the stimulus**（行 4872，现译“刺激贫乏（亦作“刺激贫乏论”）”）｜ FLAG ｜ 主译撞形：“刺激贫乏”同时对应 poverty of stimulus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **practical philosophy**（行 4884，现译“实践哲学”）｜ FLAG ｜ 主译撞形：“实践哲学”同时对应 philosophy of praxis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **practical wisdom**（行 4888，现译“实践智慧”）｜ FLAG ｜ 主译撞形：“实践智慧”同时对应 phronêsis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **prajñapti**（行 4900，现译“假立（施设）”）｜ FLAG ｜ 主译撞形：“假立”同时对应 upādhi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **prakāra**（行 4901，现译“能别（特征）”）｜ FLAG ｜ 主译撞形：“能别”同时对应 viśeṣaṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **pramāṇa**（行 4903，现译“量论”）｜ FLAG ｜ 现译“量论”与 pramāṇavāda 行（行 4905，量论）同译撞形，且“量论”为学说名而非认知手段名；pramāṇa 通行“量”（现量／比量之“量”，与 pramā 真认知 对举，本表 4902、4909 行已用此义）；须改译“量”并理顺与 pramāṇavāda 的分工
+- **pramāṇavāda**（行 4905，现译“量论”）｜ FLAG ｜ 主译撞形：“量论”同时对应 pramāṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **pramāṇa（认知凭据义）**（行 4909，现译“认知凭据”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **pratyakṣa（感官知觉义）**（行 4915，现译“知觉（现量）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **predestination**（行 4933，现译“预定（亦作“预定论”）”）｜ FLAG ｜ 亦作“预定论”与 predestinarianism 的主译撞形；删该亦作或改主译
+- **prime mover**（行 4982，现译“第一推动者”）｜ FLAG ｜ 主译撞形：“第一推动者”同时对应 first mover；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **principle of bivalence**（行 4991，现译“二值原则”）｜ FLAG ｜ 主译撞形：“二值原则”同时对应 bivalence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **principle of continuity**（行 4994，现译“连续性原理”）｜ FLAG ｜ 主译撞形：“连续性原理”同时对应 continuity principle；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **problem of universals / universals**（行 5043，现译“共相问题／共相（与“殊相”相对；勿译“普遍性问题”）”）｜ FLAG ｜ 一行兼载两概念（problem of universals 与 universals），且与 problem of universals 行（行 5042）首项重复；三处用语（metaphysics:437、perception-india:169、nominalism-metaphysics:153）皆为 universals“共相”义；须拆键（universals＝共相 独立成行，问题义归 5042）
+- **prohodos**（行 5061，现译“流溢（进程）”）｜ FLAG ｜ 主译撞形：“流溢”同时对应 emanation、fayd；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **promises**（行 5073，现译“承诺”）｜ FLAG ｜ 主译撞形：“承诺”同时对应 Bindung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **proof theory**（行 5079，现译“证明论”）｜ FLAG ｜ 主译撞形：“证明论”同时对应 Proof-Theoretic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Proof-Theoretic**（行 5081，现译“证明论”）｜ MERGE ｜ 形容词片段键（词汇表并网遗留），用语一处（natural-deduction:1863）实为 Proof-Theoretic Semantics；并入 proof-theoretic semantics 行（行 5083），不独立成行
+- **propensity (interpretation of fitness)**（行 5085，现译“倾向”）｜ FLAG ｜ 主译撞形：“倾向”同时对应 inclination；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **proper class**（行 5086，现译“真类”）｜ FLAG ｜ 主译撞形：“真类”同时对应 true class；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **proper function（普兰丁格认识论）**（行 5088，现译“恰当功能”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **property**（行 5093，现译“属性；性质”）｜ FLAG ｜ 主译撞形：“属性”同时对应 Attributes、ṣifāt；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **proportionality (double effect)**（行 5097，现译“相称性（好效果对坏效果的补偿权衡）”）｜ FLAG ｜ 主译撞形：“相称性”同时对应 proportionality (of blame)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **proportionality (of blame)**（行 5098，现译“相称性”）｜ FLAG ｜ 主译撞形：“相称性”同时对应 proportionality (double effect)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **providence**（行 5126，现译“神意（亦作“天命”）”）｜ FLAG ｜ 主译撞形：“神意”同时对应 divine providence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **psuchê (ψυχή)**（行 5142，现译“灵魂（保留希腊原词括注）”）｜ FLAG ｜ 主译撞形：“灵魂”同时对应 soul；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **pudgala（佛教补特伽罗义）**（行 5161，现译“补特伽罗（人我）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **pudgala（耆那教物质义）**（行 5162，现译“质料”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **purposiveness**（行 5175，现译“合目的性”）｜ FLAG ｜ 主译撞形：“合目的性”同时对应 finality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **qalb**（行 5188，现译“心”）｜ FLAG ｜ 主译撞形：“心”同时对应 citta；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **QFT**（行 5190，现译“量子场论”）｜ MERGE ｜ 与 Quantum Field Theory 行（行 5223）同译“量子场论”，两键皆词汇表并网迁移、同指一概念；建议以全称行为主键，缩写 QFT 并入并注“缩写”
+- **qiyās**（行 5194，现译“类比推理（基亚斯）”）｜ FLAG ｜ 主译撞形：“类比推理”同时对应 analogical inference、analogical reasoning；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **qiyāsāt**（行 5195，现译“三段论（syllogisms 复数；与 qiyās 类比推理行按语境区分）”）｜ FLAG ｜ 以单复数分词义无语言依据：qiyās 在阿拉伯逻辑学即“三段论”（qiyāsāt 为其复数），在教法学为“类比”；本行按复数取“三段论”、qiyās 行（行 5194）按单数取“类比推理”，同一词靠数分义不可靠；须按域分行（逻辑义／教法义）并各括注语境，不宜以数区义
+- **quaestio disputata**（行 5198，现译“论辩问题”）｜ FLAG ｜ 主译撞形：“论辩问题”同时对应 dialectical question；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **quality**（行 5204，现译“性质”）｜ FLAG ｜ 主译撞形：“性质”同时对应 guṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **quantity**（行 5212，现译“量”）｜ FLAG ｜ 主译撞形：“量”同时对应 maqādīr；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Quantum Field Theory**（行 5223，现译“量子场论”）｜ FLAG ｜ 主译撞形：“量子场论”同时对应 QFT；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **quiddity**（行 5248，现译“本质（quiddity，阿拉伯语 māhiyya）”）｜ FLAG ｜ 主译撞形：“本质”同时对应 essence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **quiddity（与 essence 并置时）**（行 5249，现译“什么性”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Quodlibets（奥卡姆）**（行 5252，现译“《自由论题》（Seven Quodlibets 作《七个自由论题》）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）

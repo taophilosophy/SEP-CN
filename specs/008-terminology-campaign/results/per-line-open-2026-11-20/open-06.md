@@ -1,0 +1,122 @@
+# 待处置清单 open-06（行 6397–1139，120 条）
+
+- **synthesis**（行 6397，现译“综合”）｜ FLAG ｜ 主译撞形：“综合”同时对应 tarkīb；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **tafsīr**（行 6420，现译“解释（经注）”）｜ FLAG ｜ 主译撞形：“解释”同时对应 Account、interpretation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **taiji**（行 6426，现译“太极（supreme polarity 太极）”）｜ FLAG ｜ 主译撞形：“太极”同时对应 Supreme Ultimate；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **taklīf**（行 6435，现译“义务（taklīf 诫命义）”）｜ FLAG ｜ 主译撞形：“义务”同时对应 obligation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **tarka**（行 6446，现译“保留原文（直观辨相）”）｜ FLAG ｜ 主译撞形：“保留原文”同时对应 apretado、nepantla、relajiento、relajo、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **tarkīb**（行 6449，现译“综合（synthesis；图像构造语境亦作“组合”）”）｜ FLAG ｜ 主译撞形：“综合”同时对应 synthesis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **taṣawwur**（行 6450，现译“概念化”）｜ FLAG ｜ 主译撞形：“概念化”同时对应 Conceptualization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **tashbīh**（行 6452，现译“同化”）｜ FLAG ｜ 主译撞形：“同化”同时对应 assimilation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **tattva**（行 6459，现译“范畴（谛）”）｜ FLAG ｜ 主译撞形：“范畴”同时对应 category；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **taʿārīf**（行 6470，现译“定义（definitions；与 ḥudūd 界定同义连用）”）｜ FLAG ｜ 主译撞形：“定义”同时对应 definition、ḥadd、lakṣaṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **technê**（行 6473，现译“技艺（亦作“技术”）”）｜ FLAG ｜ 亦作“技术”与 technology 的主译撞形；删该亦作或改主译
+- **Teleological**（行 6478，现译“目的论”）｜ MERGE ｜ 词汇表并网遗留的形容词片段键，与 teleology 行（行 6483，目的论）同源同译；并入 teleology 行（目的论论证另由 Teleological Arguments 行承担）
+- **teleology**（行 6483，现译“目的论”）｜ FLAG ｜ 主译撞形：“目的论”同时对应 Teleological；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **test (dynamic semantics)**（行 6519，现译“测试”）｜ FLAG ｜ 主译撞形：“测试”同时对应 test (program)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **test (program)**（行 6520，现译“测试”）｜ FLAG ｜ 主译撞形：“测试”同时对应 test (dynamic semantics)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **testimony**（行 6524，现译“证言（亦作“证词”）”）｜ FLAG ｜ 主译撞形：“证言”同时对应 śabda；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **tetralemma**（行 6525，现译“四句”）｜ FLAG ｜ 主译撞形：“四句”同时对应 catuṣ-koṭi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **the numinous**（行 6540，现译“努秘（保留原词，随文括注；本册既有行复核一致）”）｜ FLAG ｜ 主译撞形：“努秘”同时对应 numinous；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **to phainomenon**（行 6628，现译“显现”）｜ FLAG ｜ 主译撞形：“显现”同时对应 apparentia、manifestation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **token（令牌环语境）**（行 6633，现译“令牌”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Tonghak（東學）**（行 6638，现译“东学”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **transcendence (Jaspers)**（行 6665，现译“超越者”）｜ FLAG ｜ 主译撞形：“超越者”同时对应 transcendentals；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **transcendentals**（行 6679，现译“超越者”）｜ FLAG ｜ 与 transcendence (Jaspers) 行（行 6665）同译“超越者”撞形：雅斯贝尔斯 Transzendenz 作“超越者”，经院 transcendentalia（ens/aliquid/res 等）通行“超越者”亦作“超越属性”；建议本行作“超越属性（transcendentalia）”，与 transcendental term 行“超越词项”同族对齐
+- **Treasure of Reasoning（Tshad ma rigs gter）**（行 6700，现译“《量理宝藏》”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **true class**（行 6720，现译“真类”）｜ MERGE ｜ 登记自注“学界通行（proper class）”，与 proper class 行（行 5086，真类）同义同译；按登记意图并入 proper class 行，不另立键
+- **truth-bearer**（行 6735，现译“真值承担者”）｜ FLAG ｜ 主译撞形：“真值承担者”同时对应 bearer of truth values；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Truthlikeness**（行 6743，现译“似真性（亦作“逼真性”）”）｜ FLAG ｜ 亦作“逼真性”与 verisimilitude 的主译撞形；删该亦作或改主译
+- **truthmaker theory**（行 6744，现译“真值制造理论”）｜ FLAG ｜ 族内两形并存：truth-maker 行（行 6741）“真值制造者”、truthmaker theory 行“真值制造理论”为一系，truthmakers 行（行 6745，词汇表并网）“使真者”为另一系；须统一（建议全族取“使真者／使真者理论”，与 truth-bearer 真值承担者风貌相协）
+- **ultimate reality**（行 6790，现译“终极实在”）｜ FLAG ｜ 主译撞形：“终极实在”同时对应 ḥaqīqa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Uniformity**（行 6828，现译“齐一性”）｜ FLAG ｜ 主译撞形：“齐一性”同时对应 homogeneity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **units of selection**（行 6838，现译“选择的单位”）｜ MERGE ｜ 与 unit of selection 行（行 6832，审定库“选择单位”）同概念仅单复数之别、译法不一（选择的单位）；并入 unit of selection 行并统一“选择单位”
+- **universal / universals**（行 6842，现译“共相（中世纪-黑格尔传统）”）｜ FLAG ｜ 主译撞形：“共相”同时对应 general characteristic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **universal gravitation**（行 6851，现译“万有引力”）｜ FLAG ｜ 主译撞形：“万有引力”同时对应 universal gravity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **universal gravity**（行 6852，现译“万有引力”）｜ MERGE ｜ 与 universal gravitation 行（行 6851）同指牛顿万有引力、同译“万有引力”（gravity／gravitation 两形）；并入 universal gravitation 行
+- **universitas**（行 6868，现译“拉丁原文保留”）｜ FLAG ｜ 主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、respublica、sine qua non、societas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **upādhi**（行 6878，现译“假立（名义属性）”）｜ FLAG ｜ 主译撞形：“假立”同时对应 prajñapti；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **urelemente**（行 6886，现译“本元（亦作“原子”）”）｜ FLAG ｜ 亦作“原子”与 atom (of a Boolean algebra) 的主译撞形；删该亦作或改主译
+- **Validation**（行 6921，现译“确证”）｜ FLAG ｜ 主译撞形：“确证”同时对应 corroboration；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **vega**（行 6945，现译“冲力”）｜ FLAG ｜ 主译撞形：“冲力”同时对应 impetus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Venerable Inceptor**（行 6952，现译“可敬的开端者”）｜ MERGE ｜ 与 Venerabilis Inceptor 行（行 6951）同指奥卡姆别号（拉丁／英译两形），却分译“可敬的开创者／可敬的开端者”；合并为一行并统一主译（建议“可敬的开创者”，英译形注于行内）
+- **verbal object（sgra don，śabdārtha）**（行 6954，现译“声义”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Vergeschichtlichung**（行 6955，现译“历史化”）｜ FLAG ｜ 主译撞形：“历史化”同时对应 historicization；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **virtue**（行 6989，现译“德性（古希腊伦理学传统；亦作“美德”）”）｜ FLAG ｜ 主译撞形：“德性”同时对应 aretê；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **viśeṣaṇa**（行 7004，现译“能别（限定）”）｜ FLAG ｜ 主译撞形：“能别”同时对应 prakāra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **viśeṣa（胜论句义）**（行 7006，现译“异（特殊／基本别异）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **vital spirit**（行 7019，现译“生命精气”）｜ FLAG ｜ 与 spiritus naturalis / vitalis / animalis 行（行 6124，活力精气）族内不一：同一 vitalis 精气本行作“生命精气”；盖伦三精气通译既定“活力精气”，须统一（或说明分域）
+- **void**（行 7022，现译“虚空”）｜ FLAG ｜ 主译撞形：“虚空”同时对应 ākāśa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Vorstellung**（行 7036，现译“表象（康德/叔本华）”）｜ FLAG ｜ 主译撞形：“表象”同时对应 phantasia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **vyatireka**（行 7050，现译“同无”）｜ FLAG ｜ 译法与自注矛盾：现译“同无”，而登记依据写“因明‘异品无’通行（agreement in absence）”，且 anvaya 行为“同有（同品有）”；疑“同无”系“异无”之误，须改“异无（异品无）”与 anvaya 同有 对举
+- **wājib al-wujūd**（行 7063，现译“必然存在者”）｜ FLAG ｜ 主译撞形：“必然存在者”同时对应 necessary being；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **warrant**（行 7069，现译“保证（普兰丁格认识论语境；勿译“担保”）”）｜ FLAG ｜ 主译撞形：“保证”同时对应 assurance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **weakness of will**（行 7081，现译“意志薄弱”）｜ FLAG ｜ 主译撞形：“意志薄弱”同时对应 akrasia；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Weltanschauung**（行 7097，现译“世界观”）｜ FLAG ｜ 主译撞形：“世界观”同时对应 world-view；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **what expresses / what is expressed（rjod byed / brjod bya）**（行 7102，现译“能诠／所诠”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Wisdom**（行 7116，现译“智慧”）｜ FLAG ｜ 主译撞形：“智慧”同时对应 Ḥikmah；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Wohlwollen**（行 7123，现译“仁爱”）｜ FLAG ｜ 主译撞形：“仁爱”同时对应 benevolence、caritas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **world-view**（行 7149，现译“世界观”）｜ MERGE ｜ 与 Weltanschauung 行（行 7097）同词（本行原文列即 Weltanschauung）、同译“世界观”；合并为一行（Weltanschauung 为主键，world-view 注英译形）
+- **wu xing**（行 7152，现译“五行”）｜ MERGE ｜ 与 wuxing 行（行 7157）同一汉字词的两式罗马化键、同译“五行”；并入 wuxing 行（该行 2026-11-15 登记含 five phases 释义）
+- **wujūb**（行 7154，现译“必然化”）｜ FLAG ｜ 原文列误填：wujūb 应为 وجوب，现填 وجود（wujūd 存在，系 wujūdī 行 7155 之原词）；数据缺陷正列，须改原文列并核对全键
+- **wuxing**（行 7157，现译“五行（five phases 五行；不取“五元素”）”）｜ FLAG ｜ 主译撞形：“五行”同时对应 wu xing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Xingqi（性起）**（行 7170，现译“性起”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **yì**（行 7198，现译“义（義）”）｜ MERGE ｜ 与 yi 行（行 7199）同汉字“义”仅带调号之别、同译“义”；并入 yi 行（该行注 appropriateness 义并别于 yi (arts) 艺）
+- **yi**（行 7199，现译“义（appropriateness 义；宜）”）｜ FLAG ｜ 主译撞形：“义”同时对应 artha、yì；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **yielding（虚空）**（行 7201，现译“让与”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Zermelo-Fraenkel**（行 7223，现译“策梅洛-弗兰克尔”）｜ FIX ｜ 连接号按 ADR-0041 一字线：策梅洛-弗兰克尔 → 策梅洛—弗兰克尔（双人名连用，与勒文海姆—斯科伦、科亨—施佩克尔同规）
+- **Zhonglun**（行 7225，现译“《中论》（徐干）”）｜ FLAG ｜ 主译撞形：“《中论》”同时对应 Mūlamadhyamakakārikā；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **ziran**（行 7234，现译“自然（self-so）”）｜ FLAG ｜ 主译撞形：“自然”同时对应 phusis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Zohar**（行 7236，现译“《光辉之书》”）｜ FLAG ｜ 主译撞形：“《光辉之书》”同时对应 Sefer ha-Zohar；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **zozobra**（行 7242，现译“保留原文（忧悬）”）｜ FLAG ｜ 主译撞形：“保留原文”同时对应 apretado、nepantla、relajiento、relajo、tarka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **a fortiori argument**（行 14，现译“强化论证”）｜ FLAG ｜ 译法“强化论证”非学界通行形（通常作“更强理由论证”“当然论证”）；表内无同族行可对照，须联网查证后裁定（rules/03 术语纠正通道）
+- **a posteriori necessity**（行 19，现译“后天必然性”）｜ FIX ｜ 译法“后天必然性”与本表 a posteriori＝后验 自相矛盾，且克里普克 a posteriori necessity 通译“后验必然性”；改后验必然性
+- **absolutism（space and time）**（行 57，现译“绝对论”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Academy（Plato's）**（行 71，现译“学园”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **acquaintance knowledge**（行 96，现译“亲知”）｜ FLAG ｜ 主译撞形：“亲知”同时对应 acquaintance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **acquired psychic nexus**（行 98，现译“获得的心理联系”）｜ FIX ｜ 原文列“erworbener Zusammenhang”尾部带两个多余空格，去空格（内容不变）
+- **Account**（行 87，现译“解释；说明；原理”）｜ FLAG ｜ 主译撞形：“解释”同时对应 interpretation、tafsīr；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **abilities**（行 41，现译“能力”）｜ FLAG ｜ 普通词复数作术语行（能力），与 ability 无区分；建议并入 ability 或删行
+- **actualist**（行 116，现译“实际论”）｜ FIX ｜ 译法“实际论”与 Actualism“现实论／现实主义”不一致（表内自相矛盾）；按词族一致改“现实论者”
+- **anarchy（国际关系）**（行 289，现译“无政府状态（国际关系语境；与 anarchism 无政府主义分义）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **apriority**（行 391，现译“先验性”）｜ FIX ｜ 译法“先验性”与本表 a priori＝先天 自相矛盾（先验＝transcendental）；改“先天性”
+- **anomalism of the mental**（行 314，现译“心理的变异性”）｜ FLAG ｜ 戴维森术语，译“心理的变异性”不合通行理解（anomalism＝无严格定律性，通译“心理的异常性／无定律性”）；须查证后改
+- **anomalous monism**（行 315，现译“变异一元论（亦作“异常一元论”）”）｜ FLAG ｜ 主译“变异一元论”非通行形，“异常一元论”被降为亦作；建议主译改“异常一元论”（学界通行），旧形入亦作
+- **anarchic hand**（行 287，现译“无政府手”）｜ FLAG ｜ 神经心理学症状，中文文献通作“异己手（综合征）”；“无政府手”为直译，须查证后定
+- **ancilla**（行 294，现译“辅助系统”）｜ FLAG ｜ 一行涵盖两义：彼得·达米安的神学“婢女”义与量子信息“辅助系统”义；译法只落后者，应按同形不同义分行或补亦作
+- **anupalabdhi**（行 353，现译“未觉”）｜ FLAG ｜ 印度正理／佛教因明术语，玄奘系译“不可得”，今译“非认知／未觉”；“未觉”非通行形，须查证
+- **ascertainment（nges pa）**（行 440，现译“决定（nges pa）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **aspect（rnam pa）**（行 447，现译“行相（aspect）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Aufbau**（行 500，现译“《构造》”）｜ FIX ｜ 原文列作“Der logische Aufbau der ”既截断又带尾随空格，应作 Der logische Aufbau der Welt（卡尔纳普书名）
+- **autexousion**（行 503，现译“自主能力（autexousion）”）｜ FLAG ｜ 原文列作 autoexousy，与希腊语 αὐτεξούσιον 的拉丁转写形（autexousion）不合，疑误须核
+- **Aspect**（行 446，现译“体（体貌）”）｜ FLAG ｜ 首字母大写普通词，语境命中全为“Theoretical Aspects of…”会议名，非术语；建议删行或降观察项
+- **artha**（行 425，现译“义”）｜ FLAG ｜ 主译撞形：“义”同时对应 yì、yi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Banach–Tarski paradox**（行 578，现译“球体悖论分解”）｜ FLAG ｜ 译法“球体悖论分解”非名词短语形，学界通作“巴拿赫–塔斯基悖论”或“分球悖论”；须查证后改
+- **Bayes’ Theorem**（行 606，现译“贝叶斯定理”）｜ FIX ｜ 原文列填英文 Bayes’ Theorem，与键重复；英语术语原文列应作“—”（ADR-0030 只收非汉语原生文字）
+- **Bell’s Theorem**（行 636，现译“贝尔定理”）｜ FLAG ｜ 主译撞形：“贝尔定理”同时对应 Bell theorem；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **axiom scheme**（行 543，现译“公理图式”）｜ FLAG ｜ 主译撞形：“公理图式”同时对应 axiom schema；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **belief merging**（行 628，现译“信念合并（亦作“信念融合”）”）｜ FLAG ｜ 亦作“信念融合”与 belief fusion 的主译撞形；删该亦作或改主译
+- **awareness**（行 533，现译“觉知；觉察（亦作“身体意识”）”）｜ FLAG ｜ 亦作“身体意识”与 bodily awareness 的主译撞形；删该亦作或改主译
+- **blob**（行 697，现译“团块”）｜ FIX ｜ 原文列作“objects as blobs”为句段而非原词，应作 blob 或“—”
+- **Bohmian**（行 719，现译“玻姆”）｜ FLAG ｜ 形容词形（Bohmian mechanics），译法作名词“玻姆”不成词；应作“玻姆的／玻姆式”
+- **Bedeutung**（行 610，现译“意义（弗雷格语境；亦作“意谓”）”）｜ FLAG ｜ 主译撞形：“意义”同时对应 maʿnā；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **binarium famosissimum**（行 665，现译“最著名的一对”）｜ FLAG ｜ 与 most famous pair（最著名的一对）同概念，前轮已裁定并入，此行为重复登记，须核并删
+- **Calvinism**（行 778，现译“加尔文主义”）｜ FIX ｜ 原文列作“Calvinistic scholasticis”为拉丁形容词短语且截断，与键（Calvinism）不对应；应作“—”（英语术语不收原文）
+- **canon**（行 783，现译“咏礼司铎”）｜ FLAG ｜ 一行两义：教会法职“咏礼司铎／座堂司铎”与人文“正典／经典（canon of philosophy）”；译法只落前者，须按同形不同义分行或补亦作
+- **Cantian**（行 788，现译“不能论”）｜ FLAG ｜ 首现 imaginative-resistance／fiction-emotion-response，译法“不能论”与英文形 Cantian 无对应，疑为 Kantian 或 Cantor 系词误录，须回源核
+- **categorematic**（行 811，现译“范畴式”）｜ FIX ｜ 与 categorematic / autosemantic、categorematic word 三行同概念且译形不一（范畴式／范畴词／范畴词）；保留 categorematic word 作主行，余并入亦作
+- **causal closure**（行 832，现译“因果闭合”）｜ FIX ｜ 原文列作“closed under causation”为短语，非术语原词形；应作“—”
+- **Chancellor**（行 872，现译“总务长”）｜ FLAG ｜ 中世纪教会／大学职衔，通译“总学监／校长／掌玺大臣”；“总务长”为现代行政译名，与菲利普总学监等首现语境不合，须查证
+- **chimera（生物医学语境）**（行 892，现译“嵌合体”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **classical limit**（行 955，现译“古典极限”）｜ FIX ｜ 译“古典极限”与本表 classical logic＝经典逻辑、classical information＝经典信息 不一致（物理界通作“经典极限”）；改经典极限
+- **coherence theory**（行 997，现译“融贯论（亦作“真理的融贯论”）”）｜ FLAG ｜ 主译撞形：“融贯论”同时对应 coherentism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **collapse model**（行 1005，现译“塌缩模型”）｜ FIX ｜ 译“塌缩”与本表 collapse／collapse postulate／collapse theories 的“坍缩”不一致（同一物理概念）；统一作坍缩
+- **common sensible**（行 1036，现译“共同可感性质”）｜ MERGE ｜ 与 common sensibles（共通可感物）为同一亚里士多德术语的单复数异形，两行且译法不同（共同可感性质／共通可感物）；合为一行
+- **competence（医疗与法律语境）**（行 1057，现译“行为能力”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **conceivability**（行 1099，现译“可设想性／可设想”）｜ FIX ｜ 原文列作形容词形“conceivable”，与名词键 conceivability 不符；应作“—”
+- **comprehension axiom**（行 1083，现译“概括公理（亦作“内涵公理”）”）｜ FIX ｜ 亦作列“内涵公理”与本行 comprehension principle→“概括原则（亦作概括公理）”互撞；两行按 axiom／principle 分列，亦作不得跨行重复
+- **Computing**（行 1095，现译“计算”）｜ FLAG ｜ 主译撞形：“计算”同时对应 computation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **common ground**（行 1029，现译“共同基础（亦作“共同地基”）”）｜ FLAG ｜ 语用学 common ground 通译“共同知识／共识背景”；亦作“共同地基”为生造形，须查证后定
+- **configuration**（行 1149，现译“塑形”）｜ FLAG ｜ 一行跨两义：里柯“塑形”义与物理／计算“位形、格局”义（Turing machine configurations、Bohr 位形）；按同形不同义分行
+- **conscription（of organs）**（行 1177，现译“征用（器官）”）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **conditional probabilities**（行 1139，现译“条件概率”）｜ FLAG ｜ 主译撞形：“条件概率”同时对应 conditional probability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
