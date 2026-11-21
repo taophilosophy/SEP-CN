@@ -2129,20 +2129,206 @@
 {"key": "infinity", "line": 3051, "v": "KEEP", "zh": "无穷", "orig": "—", "note": null, "sheet": "r10"}
 {"key": "inflammation", "line": 3052, "v": "KEEP", "zh": "炎症", "orig": "—", "note": null, "sheet": "r10"}
 {"key": "influx (celestial)", "line": 3053, "v": "FLAG", "zh": "流入（天体）", "orig": "influxus", "note": "主译撞形：“流入”同时对应 āsrava；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r10"}
-{"key": "insolubilia", "line": 3092, "v": "FLAG", "zh": "不可解问题（亦作“不可解命题”）", "orig": "insolubilia", "note": "亦作“不可解命题”与 insolubles 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
-{"key": "intelligent（奥克肖特历史范畴）", "line": 3125, "v": "FLAG", "zh": "有智力的", "orig": "intelligent", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "intension", "line": 3132, "v": "FLAG", "zh": "内涵", "orig": "—", "note": "主译撞形：“内涵”同时对应 connotation、Gehalt；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "intentional object / conceived object（zhen yul）", "line": 3145, "v": "FLAG", "zh": "意向境（zhen yul，亦作“所执境”）", "orig": "ཞེན་ཡུལ་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "interpretation", "line": 3176, "v": "FLAG", "zh": "解释", "orig": "—", "note": "主译撞形：“解释”同时对应 Account、tafsīr；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "intuition", "line": 3198, "v": "FLAG", "zh": "直观（康德传统；审定库作“直觉”，自然辩证法·科学哲学；日常语境亦作“直觉”）", "orig": "—", "note": "主译撞形：“直观”同时对应 Anschauung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "intuition (ethical)", "line": 3199, "v": "FLAG", "zh": "直觉（伦理学语境；与康德传统的“直观”分列）", "orig": "—", "note": "主译撞形：“直觉”同时对应 ḥads；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "intuitionism", "line": 3201, "v": "FLAG", "zh": "直觉主义", "orig": "—", "note": "主译撞形：“直觉主义”同时对应 Intuitionistic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "intuitionist logic", "line": 3202, "v": "FLAG", "zh": "直觉主义逻辑", "orig": "—", "note": "主译撞形：“直觉主义逻辑”同时对应 intuitionistic logic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Intuitionistic", "line": 3203, "v": "FLAG", "zh": "直觉主义", "orig": "—", "note": "主译撞形：“直觉主义”同时对应 intuitionism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "intuitionistic logic", "line": 3205, "v": "FLAG", "zh": "直觉主义逻辑", "orig": "—", "note": "主译撞形：“直觉主义逻辑”同时对应 intuitionist logic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "invariance", "line": 3211, "v": "FLAG", "zh": "不变性", "orig": "—", "note": "主译撞形：“不变性”同时对应 immutability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "irwŏnsang（一圓相）", "line": 3229, "v": "FLAG", "zh": "一圆相", "orig": "一圓相", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "isonomia", "line": 3239, "v": "FLAG", "zh": "平等（政治隐喻中指各种力量的均等）", "orig": "ἰσονομία", "note": "主译撞形：“平等”同时对应 equality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "informal/absolute provability", "line": 3054, "v": "KEEP", "zh": "非形式可证性／绝对可证性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "informatio", "line": 3055, "v": "KEEP", "zh": "充灌", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "information", "line": 3056, "v": "KEEP", "zh": "信息", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "information content", "line": 3057, "v": "KEEP", "zh": "信息量", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "information dissolution", "line": 3058, "v": "KEEP", "zh": "信息消散", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "information ethics", "line": 3059, "v": "KEEP", "zh": "信息伦理学", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "information flow", "line": 3060, "v": "KEEP", "zh": "信息流", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "information link", "line": 3061, "v": "KEEP", "zh": "信息联系", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "information model", "line": 3062, "v": "KEEP", "zh": "信息模型", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "information philosophy", "line": 3063, "v": "KEEP", "zh": "信息哲学", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "information set", "line": 3064, "v": "KEEP", "zh": "信息集", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "information state", "line": 3065, "v": "KEEP", "zh": "信息状态", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "information theory", "line": 3066, "v": "KEEP", "zh": "信息论", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "information warfare", "line": 3067, "v": "KEEP", "zh": "信息战", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "informational content", "line": 3068, "v": "KEEP", "zh": "信息内容", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "informational unencapsulation", "line": 3069, "v": "KEEP", "zh": "信息非封装性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "informed consent", "line": 3070, "v": "KEEP", "zh": "知情同意", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "informed consent form", "line": 3071, "v": "KEEP", "zh": "知情同意书", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "Ingsoc", "line": 3072, "v": "KEEP", "zh": "英社", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "inherence", "line": 3073, "v": "KEEP", "zh": "依存；寓存", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "inherent safety", "line": 3074, "v": "KEEP", "zh": "固有安全（亦作“本质安全”）", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "inherent stability", "line": 3075, "v": "KEEP", "zh": "内在稳定性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "inhomogeneous Lorentz transformations", "line": 3076, "v": "KEEP", "zh": "非齐次洛伦兹变换", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "initial condition", "line": 3077, "v": "KEEP", "zh": "初始条件", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "initial judgment", "line": 3078, "v": "KEEP", "zh": "初始判断", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "initial segment", "line": 3079, "v": "KEEP", "zh": "初始片段（亦作“初始段”）", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "injection", "line": 3080, "v": "KEEP", "zh": "单射", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "innate ideas", "line": 3081, "v": "KEEP", "zh": "天赋观念", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "innate knowledge", "line": 3082, "v": "KEEP", "zh": "天赋知识", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "innateness", "line": 3083, "v": "KEEP", "zh": "先天性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "inner cell mass", "line": 3084, "v": "KEEP", "zh": "内细胞团", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "inner perception", "line": 3085, "v": "KEEP", "zh": "内知觉", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "inner product", "line": 3086, "v": "KEEP", "zh": "内积", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "inner speech", "line": 3087, "v": "KEEP", "zh": "内部言语", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "innerworldly", "line": 3088, "v": "KEEP", "zh": "世内的", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "Innewerden", "line": 3089, "v": "KEEP", "zh": "内觉", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "input resolution", "line": 3090, "v": "KEEP", "zh": "输入归结", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "inseparability", "line": 3091, "v": "KEEP", "zh": "不可分离性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "insolubilia", "line": 3092, "v": "FLAG", "zh": "不可解问题（亦作“不可解命题”）", "orig": "insolubilia", "note": "与 insolubles 行（行 3093）同词两形译法不一：不可解问题／不可解命题；中世纪逻辑通行“不可解命题”，须统一", "sheet": "r11"}
+{"key": "insolubles", "line": 3093, "v": "FLAG", "zh": "不可解命题", "orig": "—", "note": "同 insolubilia 族问题（不可解问题／不可解命题不一），须统一", "sheet": "r11"}
+{"key": "inspiration", "line": 3094, "v": "KEEP", "zh": "灵感", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "instance", "line": 3095, "v": "KEEP", "zh": "实例", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "instantiae naturae", "line": 3096, "v": "KEEP", "zh": "自然实例", "orig": "instantiae naturae", "note": null, "sheet": "r11"}
+{"key": "instantiation", "line": 3097, "v": "KEEP", "zh": "实例化", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "instantiation rule", "line": 3098, "v": "FLAG", "zh": "例示规则", "orig": "—", "note": "族内不一：instantiation＝实例化而 instantiation rule＝例示规则；通行两形均有（例示规则／实例化规则），须族内统一", "sheet": "r11"}
+{"key": "Institute for Social Research", "line": 3099, "v": "KEEP", "zh": "社会研究所", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "institution", "line": 3100, "v": "KEEP", "zh": "制度", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "institutional neutrality", "line": 3101, "v": "KEEP", "zh": "机构中立", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "institutionalism", "line": 3102, "v": "KEEP", "zh": "制度主义", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "instrumental agency", "line": 3103, "v": "KEEP", "zh": "工具性能动", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "instrumental ethical idealism", "line": 3104, "v": "KEEP", "zh": "工具性伦理观念论", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "instrumental reason", "line": 3105, "v": "KEEP", "zh": "工具理性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "instrumentalism", "line": 3106, "v": "KEEP", "zh": "工具主义", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "instrumentalist (musical ontology)", "line": 3107, "v": "KEEP", "zh": "乐器论者", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "insufficiency argument", "line": 3108, "v": "KEEP", "zh": "不充分性论证", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "integral wholes", "line": 3109, "v": "KEEP", "zh": "整全整体", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "integrated information", "line": 3110, "v": "KEEP", "zh": "整合信息", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "Integrationism", "line": 3111, "v": "KEEP", "zh": "整合主义", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "integrity", "line": 3112, "v": "KEEP", "zh": "诚信", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "integrity constraints", "line": 3113, "v": "KEEP", "zh": "完整性约束", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intellection", "line": 3114, "v": "KEEP", "zh": "理智活动", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intellective faculty", "line": 3115, "v": "KEEP", "zh": "理智官能", "orig": "potentia intellectiva", "note": null, "sheet": "r11"}
+{"key": "intellectual humility", "line": 3116, "v": "KEEP", "zh": "智识谦卑", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intellectual intuition", "line": 3117, "v": "KEEP", "zh": "智性直观", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intellectual memory", "line": 3118, "v": "KEEP", "zh": "理智记忆", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intellectual property", "line": 3119, "v": "KEEP", "zh": "知识产权", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intellectual seeming", "line": 3120, "v": "KEEP", "zh": "理智显似", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intellectualism", "line": 3121, "v": "KEEP", "zh": "理智主义", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intellectualist", "line": 3122, "v": "FLAG", "zh": "主智论者", "orig": "—", "note": "族内不一：intellectualism＝理智主义而 intellectualist＝主智论者；通行“理智主义者”，须统一", "sheet": "r11"}
+{"key": "intelligences (separate substances)", "line": 3123, "v": "KEEP", "zh": "诸理智（分离实体）", "orig": "intelligentiae", "note": null, "sheet": "r11"}
+{"key": "intelligent design", "line": 3124, "v": "KEEP", "zh": "智能设计论（亦作“智能设计”）", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intelligent（奥克肖特历史范畴）", "line": 3125, "v": "FLAG", "zh": "有智力的", "orig": "intelligent", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r11"}
+{"key": "intelligere", "line": 3126, "v": "FLAG", "zh": "理智直观", "orig": "—", "note": "与 intellectual intuition 行（行 3117）译法近撞（理智直观／智性直观）；异域分行（拉丁词 vs 康德术语）可保留，但须区分性译法或登记撞形豁免", "sheet": "r11"}
+{"key": "intelligibility", "line": 3127, "v": "KEEP", "zh": "可理解性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intelligible forms", "line": 3128, "v": "FLAG", "zh": "可理知形式", "orig": "—", "note": "族内不一：intelligible forms＝可理知形式而 intelligible species／intelligible world＝可理解；须统一“可理知”或“可理解”系", "sheet": "r11"}
+{"key": "intelligible species", "line": 3129, "v": "KEEP", "zh": "可理解种相", "orig": "species intelligibilis", "note": null, "sheet": "r11"}
+{"key": "intelligible world", "line": 3130, "v": "FLAG", "zh": "可理解世界", "orig": "—", "note": "同 intelligible forms 族问题（可理知／可理解不一），须族内统一", "sheet": "r11"}
+{"key": "intensio / remissio", "line": 3131, "v": "KEEP", "zh": "强度／减弱", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intension", "line": 3132, "v": "FLAG", "zh": "内涵", "orig": "—", "note": "主译撞形：“内涵”同时对应 connotation、Gehalt；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r11"}
+{"key": "intension and remission of forms", "line": 3133, "v": "FLAG", "zh": "形式的增强与减弱", "orig": "intensio et remissio formarum", "note": "与 intensio / remissio 行（行 3131）同族两行译法不一（强度／减弱 vs 形式的增强与减弱）；中世纪 intensio/remissio 同一概念，须统一或分行设计", "sheet": "r11"}
+{"key": "intensional entity", "line": 3134, "v": "KEEP", "zh": "内涵性实体", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intensional logic", "line": 3135, "v": "KEEP", "zh": "内涵逻辑", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intensionality", "line": 3136, "v": "KEEP", "zh": "内涵性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intensity", "line": 3137, "v": "KEEP", "zh": "强度", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intensity interpretation", "line": 3138, "v": "KEEP", "zh": "强度解释", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intention", "line": 3139, "v": "KEEP", "zh": "意图", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intention in action", "line": 3140, "v": "KEEP", "zh": "行动中的意图", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intention-with-which", "line": 3141, "v": "KEEP", "zh": "行动所带的意图", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intentional action", "line": 3142, "v": "KEEP", "zh": "意向行动", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intentional agency", "line": 3143, "v": "KEEP", "zh": "意向性能动性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intentional inexistence", "line": 3144, "v": "KEEP", "zh": "意向内的存在（布伦塔诺）", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intentional object / conceived object（zhen yul）", "line": 3145, "v": "FLAG", "zh": "意向境（zhen yul，亦作“所执境”）", "orig": "ཞེན་ཡུལ་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r11"}
+{"key": "intentional species", "line": 3146, "v": "KEEP", "zh": "意向种相", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intentional states", "line": 3147, "v": "KEEP", "zh": "意向状态", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intentionalism", "line": 3148, "v": "KEEP", "zh": "意向主义", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intentionality", "line": 3149, "v": "KEEP", "zh": "意向性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interaction axioms", "line": 3150, "v": "KEEP", "zh": "交互公理", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interaction network", "line": 3151, "v": "FLAG", "zh": "互动网络", "orig": "—", "note": "interaction 族“交互／互动”混用：interaction axioms/theory/ism＝交互系而 interaction network＝互动网络；须族内统一“交互”或按域例外", "sheet": "r11"}
+{"key": "interaction theory", "line": 3152, "v": "KEEP", "zh": "交互理论", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interactionism", "line": 3153, "v": "KEEP", "zh": "交互作用论（笛卡尔式交互作用论）", "orig": "Cartesian interactionism", "note": null, "sheet": "r11"}
+{"key": "interactivity", "line": 3154, "v": "KEEP", "zh": "交互性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interactor", "line": 3155, "v": "KEEP", "zh": "交互者（亦作“互动子”）", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intercessory prayer", "line": 3156, "v": "KEEP", "zh": "代祷", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interconnectedness", "line": 3157, "v": "KEEP", "zh": "互联性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interdefinable", "line": 3158, "v": "KEEP", "zh": "相互可定义", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interdemic selection", "line": 3159, "v": "KEEP", "zh": "群间选择", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interesse (Kant)", "line": 3160, "v": "KEEP", "zh": "保留原词（不意译；十八世纪德语特殊用法）", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intergenerational equity", "line": 3161, "v": "KEEP", "zh": "代际公平", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intergenerational well-being", "line": 3162, "v": "KEEP", "zh": "代际福祉", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intergovernmental democratic states", "line": 3163, "v": "KEEP", "zh": "政府间民主国家", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "internal language", "line": 3164, "v": "KEEP", "zh": "内部语言", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "internal representation", "line": 3165, "v": "KEEP", "zh": "内部表征", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "internal sensation", "line": 3166, "v": "KEEP", "zh": "内部感觉", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "internal senses", "line": 3167, "v": "KEEP", "zh": "内感官", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "internal/external history", "line": 3168, "v": "KEEP", "zh": "内部史／外部史", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "internalism", "line": 3169, "v": "FLAG", "zh": "内在主义", "orig": "—", "note": "internalism 族“内在主义／内在论”混用：internalism/externalism＝内在主义/外在主义（本行）而 content internalism＝内容内在论（r02 行 1232 已 FLAG）；须族内统一，两处联动", "sheet": "r11"}
+{"key": "international justice", "line": 3170, "v": "KEEP", "zh": "国际正义", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "internationalism", "line": 3171, "v": "KEEP", "zh": "国际主义", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interoception", "line": 3172, "v": "KEEP", "zh": "内感受", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interpolation", "line": 3173, "v": "KEEP", "zh": "插值", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interpretability", "line": 3174, "v": "KEEP", "zh": "可解释性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interpretability logic", "line": 3175, "v": "KEEP", "zh": "可解释性逻辑", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interpretation", "line": 3176, "v": "FLAG", "zh": "解释", "orig": "—", "note": "主译撞形：“解释”同时对应 Account、tafsīr；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r11"}
+{"key": "interpretation function", "line": 3177, "v": "KEEP", "zh": "解释函数", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interpretive key", "line": 3178, "v": "KEEP", "zh": "解释键", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intersubjectivity", "line": 3179, "v": "KEEP", "zh": "主体间性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intertheoretic reduction", "line": 3180, "v": "KEEP", "zh": "理论间还原", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intertumor heterogeneity", "line": 3181, "v": "KEEP", "zh": "肿瘤间异质性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interval algebra", "line": 3182, "v": "KEEP", "zh": "区间代数", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intervention ladder", "line": 3183, "v": "KEEP", "zh": "干预阶梯", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "interventionism", "line": 3184, "v": "KEEP", "zh": "干预主义", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intratumor heterogeneity", "line": 3185, "v": "KEEP", "zh": "肿瘤内异质性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "Intrinsic", "line": 3186, "v": "KEEP", "zh": "内在", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intrinsic cause", "line": 3187, "v": "KEEP", "zh": "本然原因", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intrinsic characteristic", "line": 3188, "v": "KEEP", "zh": "自相（佛教因明 rang mtshan；笛卡尔物理语境指“内在特性”，勿混）", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intrinsic function", "line": 3189, "v": "KEEP", "zh": "内在功能", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intrinsic motivation", "line": 3190, "v": "KEEP", "zh": "内在动机", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intrinsic power", "line": 3191, "v": "KEEP", "zh": "内在力量", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intrinsic property", "line": 3192, "v": "KEEP", "zh": "内在属性（亦作“内禀属性”）", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intrinsic value", "line": 3193, "v": "KEEP", "zh": "内在价值", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intrinsic/extrinsic preference", "line": 3194, "v": "KEEP", "zh": "内在偏好／外在偏好", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "introgression", "line": 3195, "v": "KEEP", "zh": "基因渗入", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intron", "line": 3196, "v": "KEEP", "zh": "内含子", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "introspection", "line": 3197, "v": "KEEP", "zh": "内省", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intuition", "line": 3198, "v": "FLAG", "zh": "直观（康德传统；审定库作“直觉”，自然辩证法·科学哲学；日常语境亦作“直觉”）", "orig": "—", "note": "主译撞形：“直观”同时对应 Anschauung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r11"}
+{"key": "intuition (ethical)", "line": 3199, "v": "FLAG", "zh": "直觉（伦理学语境；与康德传统的“直观”分列）", "orig": "—", "note": "主译撞形：“直觉”同时对应 ḥads；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r11"}
+{"key": "intuition of being", "line": 3200, "v": "KEEP", "zh": "对存在的直观", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intuitionism", "line": 3201, "v": "FLAG", "zh": "直觉主义", "orig": "—", "note": "主译撞形：“直觉主义”同时对应 Intuitionistic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r11"}
+{"key": "intuitionist logic", "line": 3202, "v": "FLAG", "zh": "直觉主义逻辑", "orig": "—", "note": "主译撞形：“直觉主义逻辑”同时对应 intuitionistic logic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r11"}
+{"key": "Intuitionistic", "line": 3203, "v": "FLAG", "zh": "直觉主义", "orig": "—", "note": "主译撞形：“直觉主义”同时对应 intuitionism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r11"}
+{"key": "intuitionistic analysis", "line": 3204, "v": "KEEP", "zh": "直觉主义分析", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intuitionistic logic", "line": 3205, "v": "FLAG", "zh": "直觉主义逻辑", "orig": "—", "note": "主译撞形：“直觉主义逻辑”同时对应 intuitionist logic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r11"}
+{"key": "intuitive cognition", "line": 3206, "v": "KEEP", "zh": "直观认知（亦作“直观认识”）", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intuitive continuum", "line": 3207, "v": "KEEP", "zh": "直观连续统", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intuitive knowledge", "line": 3208, "v": "KEEP", "zh": "直觉知识", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "intuitive understanding", "line": 3209, "v": "KEEP", "zh": "直观知性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "INUS condition", "line": 3210, "v": "KEEP", "zh": "INUS 条件（不充分但必要的部分，属于本身不必要却充分的条件）", "orig": "INUS", "note": null, "sheet": "r11"}
+{"key": "invariance", "line": 3211, "v": "FLAG", "zh": "不变性", "orig": "—", "note": "主译撞形：“不变性”同时对应 immutability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r11"}
+{"key": "inverse method", "line": 3212, "v": "KEEP", "zh": "逆方法", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "inverse-square (central force)", "line": 3213, "v": "KEEP", "zh": "平方反比（中心力）", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "inverse-square law", "line": 3214, "v": "KEEP", "zh": "反平方定律（亦作“平方反比定律”）", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "inverted spectrum", "line": 3215, "v": "KEEP", "zh": "颠倒光谱", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "involuntary euthanasia", "line": 3216, "v": "KEEP", "zh": "不自愿安乐死", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "involutive negation", "line": 3217, "v": "KEEP", "zh": "对合否定", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "irony", "line": 3218, "v": "KEEP", "zh": "反讽", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "irrealism", "line": 3219, "v": "KEEP", "zh": "非实在论", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "irredentism", "line": 3220, "v": "KEEP", "zh": "民族统一主义（亦作“领土收复主义”）", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "irreducible representation", "line": 3221, "v": "KEEP", "zh": "不可约表示", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "irreflexivity", "line": 3222, "v": "KEEP", "zh": "非自反性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "irregular migrant", "line": 3223, "v": "KEEP", "zh": "非正规移民", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "irregularity", "line": 3224, "v": "KEEP", "zh": "不规则性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "irrelevance of syntax (principle of)", "line": 3225, "v": "KEEP", "zh": "句法无涉原则", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "irresistible desire", "line": 3226, "v": "KEEP", "zh": "不可抗拒的欲望", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "irresolute", "line": 3227, "v": "KEEP", "zh": "无决断的", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "irreversibility", "line": 3228, "v": "KEEP", "zh": "不可逆性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "irwŏnsang（一圓相）", "line": 3229, "v": "FLAG", "zh": "一圆相", "orig": "一圓相", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r11"}
+{"key": "Isaiah", "line": 3230, "v": "FLAG", "zh": "《以赛亚书》", "orig": "—", "note": "双指：《以赛亚书》（首现 saadya）与以赛亚·伯林（三处用语皆 Isaiah Berlin 人名）；须分行", "sheet": "r11"}
+{"key": "ishrāq / ishrāqī", "line": 3231, "v": "KEEP", "zh": "照明（照明学派）", "orig": "إشراق", "note": null, "sheet": "r11"}
+{"key": "Islamicization", "line": 3232, "v": "KEEP", "zh": "伊斯兰化", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "isolation objection", "line": 3233, "v": "KEEP", "zh": "孤立性反驳", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "isolationism", "line": 3234, "v": "KEEP", "zh": "孤立主义", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "isomerism", "line": 3235, "v": "KEEP", "zh": "同分异构", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "isometry", "line": 3236, "v": "KEEP", "zh": "等距（映射）（亦作“等度规”）", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "isomorphism", "line": 3237, "v": "KEEP", "zh": "同构", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "isomorphism class", "line": 3238, "v": "KEEP", "zh": "同构类", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "isonomia", "line": 3239, "v": "FLAG", "zh": "平等（政治隐喻中指各种力量的均等）", "orig": "ἰσονομία", "note": "主译撞形：“平等”同时对应 equality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r11"}
+{"key": "isotakheia", "line": 3240, "v": "KEEP", "zh": "等速性", "orig": "ἰσοτάχεια", "note": null, "sheet": "r11"}
+{"key": "isotropy", "line": 3241, "v": "KEEP", "zh": "各向同性", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "īśvara", "line": 3242, "v": "KEEP", "zh": "自在天（亦作“自在”）", "orig": "ईश्वर", "note": null, "sheet": "r11"}
+{"key": "itarānvita", "line": 3243, "v": "KEEP", "zh": "与另一物相连者（连他）", "orig": "इतरान्वित", "note": null, "sheet": "r11"}
+{"key": "item", "line": 3244, "v": "KEEP", "zh": "项", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "ius ad bellum", "line": 3245, "v": "KEEP", "zh": "开战正义", "orig": "ius ad bellum", "note": null, "sheet": "r11"}
+{"key": "ius in bello", "line": 3246, "v": "KEEP", "zh": "交战正义", "orig": "ius in bello", "note": null, "sheet": "r11"}
+{"key": "ius ubique docendi", "line": 3247, "v": "KEEP", "zh": "普遍教学权", "orig": "ius ubique docendi", "note": null, "sheet": "r11"}
+{"key": "iʿtibārī", "line": 3248, "v": "KEEP", "zh": "依赖心灵的（iʿtibār 考虑之属；mind-dependent 意译）", "orig": "اعتباری", "note": null, "sheet": "r11"}
+{"key": "ʿilla", "line": 3249, "v": "KEEP", "zh": "原因（法理因）", "orig": "علة", "note": null, "sheet": "r11"}
+{"key": "ʿilm al-ḥuḍurī", "line": 3250, "v": "KEEP", "zh": "在场之知", "orig": "—", "note": null, "sheet": "r11"}
+{"key": "ʿilm al-nafs", "line": 3251, "v": "KEEP", "zh": "灵魂之学", "orig": "علم النفس", "note": null, "sheet": "r11"}
+{"key": "ʿirfān", "line": 3252, "v": "KEEP", "zh": "灵知论", "orig": "عرفان", "note": null, "sheet": "r11"}
+{"key": "jabr", "line": 3258, "v": "KEEP", "zh": "前定论（jabrī 前定论者）", "orig": "جبر", "note": null, "sheet": "r11"}
 {"key": "jawhar", "line": 3268, "v": "FLAG", "zh": "实体（凯拉姆原子实体）", "orig": "جوهر", "note": "主译撞形：“实体”同时对应 dravya、entity、substance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "jingshen", "line": 3274, "v": "FLAG", "zh": "精神", "orig": "精神", "note": "主译撞形：“精神”同时对应 Geist；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "jīva", "line": 3278, "v": "FLAG", "zh": "自我（命我）", "orig": "जीव", "note": "主译撞形：“自我”同时对应 ātman；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}

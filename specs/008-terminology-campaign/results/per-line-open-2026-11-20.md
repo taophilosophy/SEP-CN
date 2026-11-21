@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 1754，FLAG 689，FIX 24，MERGE 4
+判定分布：KEEP 1930，FLAG 699，FIX 24，MERGE 4
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -381,10 +381,19 @@
 - **individualist**（行 3008，现译「个体主义者」）｜ FLAG ｜ 族内不一：individualism＝个人主义而 individualist＝个体主义者；通行 individualist 个人主义者，须统一“个人”系或按域
 - **infinite regress**（行 3049，现译「无穷倒退（亦作“无限倒退”“无限回溯”）」）｜ FLAG ｜ 主译撞形：“无穷倒退”同时对应 anavasthā；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **influx (celestial)**（行 3053，现译「流入（天体）」）｜ FLAG ｜ 主译撞形：“流入”同时对应 āsrava；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **insolubilia**（行 3092，现译「不可解问题（亦作“不可解命题”）」）｜ FLAG ｜ 亦作“不可解命题”与 insolubles 的主译撞形；删该亦作或改主译
+- **insolubilia**（行 3092，现译「不可解问题（亦作“不可解命题”）」）｜ FLAG ｜ 与 insolubles 行（行 3093）同词两形译法不一：不可解问题／不可解命题；中世纪逻辑通行“不可解命题”，须统一
+- **insolubles**（行 3093，现译「不可解命题」）｜ FLAG ｜ 同 insolubilia 族问题（不可解问题／不可解命题不一），须统一
+- **instantiation rule**（行 3098，现译「例示规则」）｜ FLAG ｜ 族内不一：instantiation＝实例化而 instantiation rule＝例示规则；通行两形均有（例示规则／实例化规则），须族内统一
+- **intellectualist**（行 3122，现译「主智论者」）｜ FLAG ｜ 族内不一：intellectualism＝理智主义而 intellectualist＝主智论者；通行“理智主义者”，须统一
 - **intelligent（奥克肖特历史范畴）**（行 3125，现译「有智力的」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **intelligere**（行 3126，现译「理智直观」）｜ FLAG ｜ 与 intellectual intuition 行（行 3117）译法近撞（理智直观／智性直观）；异域分行（拉丁词 vs 康德术语）可保留，但须区分性译法或登记撞形豁免
+- **intelligible forms**（行 3128，现译「可理知形式」）｜ FLAG ｜ 族内不一：intelligible forms＝可理知形式而 intelligible species／intelligible world＝可理解；须统一“可理知”或“可理解”系
+- **intelligible world**（行 3130，现译「可理解世界」）｜ FLAG ｜ 同 intelligible forms 族问题（可理知／可理解不一），须族内统一
 - **intension**（行 3132，现译「内涵」）｜ FLAG ｜ 主译撞形：“内涵”同时对应 connotation、Gehalt；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **intension and remission of forms**（行 3133，现译「形式的增强与减弱」）｜ FLAG ｜ 与 intensio / remissio 行（行 3131）同族两行译法不一（强度／减弱 vs 形式的增强与减弱）；中世纪 intensio/remissio 同一概念，须统一或分行设计
 - **intentional object / conceived object（zhen yul）**（行 3145，现译「意向境（zhen yul，亦作“所执境”）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **interaction network**（行 3151，现译「互动网络」）｜ FLAG ｜ interaction 族“交互／互动”混用：interaction axioms/theory/ism＝交互系而 interaction network＝互动网络；须族内统一“交互”或按域例外
+- **internalism**（行 3169，现译「内在主义」）｜ FLAG ｜ internalism 族“内在主义／内在论”混用：internalism/externalism＝内在主义/外在主义（本行）而 content internalism＝内容内在论（r02 行 1232 已 FLAG）；须族内统一，两处联动
 - **interpretation**（行 3176，现译「解释」）｜ FLAG ｜ 主译撞形：“解释”同时对应 Account、tafsīr；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **intuition**（行 3198，现译「直观（康德传统；审定库作“直觉”，自然辩证法·科学哲学；日常语境亦作“直觉”）」）｜ FLAG ｜ 主译撞形：“直观”同时对应 Anschauung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **intuition (ethical)**（行 3199，现译「直觉（伦理学语境；与康德传统的“直观”分列）」）｜ FLAG ｜ 主译撞形：“直觉”同时对应 ḥads；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
@@ -394,6 +403,7 @@
 - **intuitionistic logic**（行 3205，现译「直觉主义逻辑」）｜ FLAG ｜ 主译撞形：“直觉主义逻辑”同时对应 intuitionist logic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **invariance**（行 3211，现译「不变性」）｜ FLAG ｜ 主译撞形：“不变性”同时对应 immutability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **irwŏnsang（一圓相）**（行 3229，现译「一圆相」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Isaiah**（行 3230，现译「《以赛亚书》」）｜ FLAG ｜ 双指：《以赛亚书》（首现 saadya）与以赛亚·伯林（三处用语皆 Isaiah Berlin 人名）；须分行
 - **isonomia**（行 3239，现译「平等（政治隐喻中指各种力量的均等）」）｜ FLAG ｜ 主译撞形：“平等”同时对应 equality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **jawhar**（行 3268，现译「实体（凯拉姆原子实体）」）｜ FLAG ｜ 主译撞形：“实体”同时对应 dravya、entity、substance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **jingshen**（行 3274，现译「精神」）｜ FLAG ｜ 主译撞形：“精神”同时对应 Geist；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
