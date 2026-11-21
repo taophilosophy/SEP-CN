@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 4787，FLAG 727，FIX 39，MERGE 27
+判定分布：KEEP 4976，FLAG 727，FIX 39，MERGE 27
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -757,7 +757,7 @@
 - **token（令牌环语境）**（行 6633，现译「令牌」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **Tonghak（東學）**（行 6638，现译「东学」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **transcendence (Jaspers)**（行 6665，现译「超越者」）｜ FLAG ｜ 主译撞形：“超越者”同时对应 transcendentals；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **transcendentals**（行 6679，现译「超越者」）｜ FLAG ｜ 主译撞形：“超越者”同时对应 transcendence (Jaspers)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **transcendentals**（行 6679，现译「超越者」）｜ FLAG ｜ 与 transcendence (Jaspers) 行（行 6665）同译“超越者”撞形：雅斯贝尔斯 Transzendenz 作“超越者”，经院 transcendentalia（ens/aliquid/res 等）通行“超越者”亦作“超越属性”；建议本行作“超越属性（transcendentalia）”，与 transcendental term 行“超越词项”同族对齐
 - **Treasure of Reasoning（Tshad ma rigs gter）**（行 6700，现译「《量理宝藏》」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **true class**（行 6720，现译「真类」）｜ FLAG ｜ 主译撞形：“真类”同时对应 proper class；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **truth-bearer**（行 6735，现译「真值承担者」）｜ FLAG ｜ 主译撞形：“真值承担者”同时对应 bearer of truth values；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并

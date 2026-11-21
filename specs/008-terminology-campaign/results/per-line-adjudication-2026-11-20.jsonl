@@ -5529,17 +5529,206 @@
 {"key": "tensor field", "line": 6506, "v": "KEEP", "zh": "张量场", "orig": "—", "note": null, "sheet": "r27"}
 {"key": "tensor product", "line": 6507, "v": "KEEP", "zh": "张量积", "orig": "—", "note": null, "sheet": "r27"}
 {"key": "term", "line": 6508, "v": "KEEP", "zh": "词项", "orig": "—", "note": null, "sheet": "r27"}
-{"key": "test (dynamic semantics)", "line": 6519, "v": "FLAG", "zh": "测试", "orig": "—", "note": "主译撞形：“测试”同时对应 test (program)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "test (program)", "line": 6520, "v": "FLAG", "zh": "测试", "orig": "—", "note": "主译撞形：“测试”同时对应 test (dynamic semantics)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "testimony", "line": 6524, "v": "FLAG", "zh": "证言（亦作“证词”）", "orig": "—", "note": "主译撞形：“证言”同时对应 śabda；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "tetralemma", "line": 6525, "v": "FLAG", "zh": "四句", "orig": "—", "note": "主译撞形：“四句”同时对应 catuṣ-koṭi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "the numinous", "line": 6540, "v": "FLAG", "zh": "努秘（保留原词，随文括注；本册既有行复核一致）", "orig": "—", "note": "主译撞形：“努秘”同时对应 numinous；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "to phainomenon", "line": 6628, "v": "FLAG", "zh": "显现", "orig": "—", "note": "主译撞形：“显现”同时对应 apparentia、manifestation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "token（令牌环语境）", "line": 6633, "v": "FLAG", "zh": "令牌", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "Tonghak（東學）", "line": 6638, "v": "FLAG", "zh": "东学", "orig": "東學", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "transcendence (Jaspers)", "line": 6665, "v": "FLAG", "zh": "超越者", "orig": "—", "note": "主译撞形：“超越者”同时对应 transcendentals；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "transcendentals", "line": 6679, "v": "FLAG", "zh": "超越者", "orig": "transcendentalia", "note": "主译撞形：“超越者”同时对应 transcendence (Jaspers)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Treasure of Reasoning（Tshad ma rigs gter）", "line": 6700, "v": "FLAG", "zh": "《量理宝藏》", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
+{"key": "terminal sedation", "line": 6509, "v": "KEEP", "zh": "终末镇静（亦作“临终镇静”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "terminism", "line": 6510, "v": "KEEP", "zh": "词项主义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "terminist logic", "line": 6511, "v": "KEEP", "zh": "词项主义逻辑", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "ternary relation", "line": 6512, "v": "KEEP", "zh": "三元关系", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "ternary relation semantics", "line": 6513, "v": "KEEP", "zh": "三元关系语义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "terra nullius", "line": 6514, "v": "KEEP", "zh": "无主地", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Territorial Justice", "line": 6515, "v": "KEEP", "zh": "领土正义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Territorial Rights", "line": 6516, "v": "KEEP", "zh": "领土权利", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "territoriality", "line": 6517, "v": "KEEP", "zh": "领土性", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Terrorism", "line": 6518, "v": "KEEP", "zh": "恐怖主义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "test (dynamic semantics)", "line": 6519, "v": "FLAG", "zh": "测试", "orig": "—", "note": "主译撞形：“测试”同时对应 test (program)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r28"}
+{"key": "test (program)", "line": 6520, "v": "FLAG", "zh": "测试", "orig": "—", "note": "主译撞形：“测试”同时对应 test (dynamic semantics)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r28"}
+{"key": "testimonia", "line": 6521, "v": "KEEP", "zh": "转述", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "testimonial learning", "line": 6522, "v": "KEEP", "zh": "证言学习", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "testimonial system", "line": 6523, "v": "KEEP", "zh": "证言系统", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "testimony", "line": 6524, "v": "FLAG", "zh": "证言（亦作“证词”）", "orig": "—", "note": "主译撞形：“证言”同时对应 śabda；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r28"}
+{"key": "tetralemma", "line": 6525, "v": "FLAG", "zh": "四句", "orig": "—", "note": "主译撞形：“四句”同时对应 catuṣ-koṭi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r28"}
+{"key": "tetraploid complementation", "line": 6526, "v": "KEEP", "zh": "四倍体补偿", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "text's world", "line": 6527, "v": "KEEP", "zh": "文本的世界", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "textual lineage", "line": 6528, "v": "KEEP", "zh": "文本谱系", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "the all (to pan)", "line": 6529, "v": "KEEP", "zh": "万有（亦作“宇宙整体”）", "orig": "τὸ πᾶν", "note": null, "sheet": "r28"}
+{"key": "the Autonomy Principle", "line": 6530, "v": "KEEP", "zh": "自主性原则", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "The Beginning of Philosophy", "line": 6531, "v": "KEEP", "zh": "《哲学的开端》", "orig": "Der Anfang der Philosophie", "note": null, "sheet": "r28"}
+{"key": "The Cyrenaics", "line": 6532, "v": "KEEP", "zh": "昔勒尼学派（亦作“昔兰尼派”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "The Elements", "line": 6533, "v": "KEEP", "zh": "《几何原本》", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "the First", "line": 6534, "v": "KEEP", "zh": "第一者", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "the Good", "line": 6535, "v": "KEEP", "zh": "善", "orig": "τὸ ἀγαθόν", "note": null, "sheet": "r28"}
+{"key": "The Hermeneutics of Facticity", "line": 6536, "v": "KEEP", "zh": "《实际性的诠释学》", "orig": "Hermeneutik der Faktizität", "note": null, "sheet": "r28"}
+{"key": "The King’s Two Bodies", "line": 6537, "v": "KEEP", "zh": "《国王的两个身体》（康托洛维茨 1957）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "The Nature of the Physical World", "line": 6538, "v": "KEEP", "zh": "《物理世界的本性》", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "the nonidentical / non-identity", "line": 6539, "v": "KEEP", "zh": "非同一性（亦作“非同一之物”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "the numinous", "line": 6540, "v": "FLAG", "zh": "努秘（保留原词，随文括注；本册既有行复核一致）", "orig": "—", "note": "主译撞形：“努秘”同时对应 numinous；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r28"}
+{"key": "the One", "line": 6541, "v": "KEEP", "zh": "太一（普罗提诺 to hen）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "The Only Possible Basis for a Demonstration of the Existence of God", "line": 6542, "v": "KEEP", "zh": "《上帝存在证明的唯一可能根据》", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "The Origin of the Work of Art", "line": 6543, "v": "KEEP", "zh": "《艺术作品的本源》", "orig": "Der Ursprung des Kunstwerkes", "note": null, "sheet": "r28"}
+{"key": "The Relevance of the Beautiful", "line": 6544, "v": "KEEP", "zh": "《美的现实性》", "orig": "Die Aktualität des Schönen", "note": null, "sheet": "r28"}
+{"key": "the Requirement", "line": 6545, "v": "KEEP", "zh": "要求", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "The Right of Sovereignty", "line": 6546, "v": "KEEP", "zh": "《主权之权利》（丹尼尔·李 2021）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "the Table of Evils", "line": 6547, "v": "KEEP", "zh": "恶之表", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "the ultimate that is realized", "line": 6548, "v": "KEEP", "zh": "所证胜义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "the ultimate that is taught", "line": 6549, "v": "KEEP", "zh": "所教胜义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "The Will to Believe", "line": 6550, "v": "KEEP", "zh": "《信仰的意志》", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "the Woman Question", "line": 6551, "v": "KEEP", "zh": "妇女问题", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theistic activism", "line": 6552, "v": "KEEP", "zh": "有神论能动论", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theistic emanationism", "line": 6553, "v": "KEEP", "zh": "有神论流溢论", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theistic mentalism", "line": 6554, "v": "KEEP", "zh": "有神论心理主义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theistic Platonism", "line": 6555, "v": "KEEP", "zh": "有神论柏拉图主义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theistic voluntarism", "line": 6556, "v": "KEEP", "zh": "有神论意志主义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theodicy", "line": 6557, "v": "KEEP", "zh": "神义论", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Theodicy (Leibniz)", "line": 6558, "v": "KEEP", "zh": "《神义论》", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Theogony", "line": 6559, "v": "KEEP", "zh": "《神谱》", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Theological Declaration of Scientific Man", "line": 6560, "v": "KEEP", "zh": "科学人的神学宣言", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theological determinism", "line": 6561, "v": "KEEP", "zh": "神学决定论", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Theological Voluntarism", "line": 6562, "v": "KEEP", "zh": "神学意志主义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Theological-Political Treatise", "line": 6563, "v": "KEEP", "zh": "《神学政治论》", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Theology", "line": 6564, "v": "KEEP", "zh": "神学", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Theology of Aristotle", "line": 6565, "v": "KEEP", "zh": "《亚里士多德的神学》", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theology of crisis", "line": 6566, "v": "KEEP", "zh": "危机神学", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theorem", "line": 6567, "v": "KEEP", "zh": "定理", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theoretical science", "line": 6568, "v": "KEEP", "zh": "理论科学", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Theoretical Terms", "line": 6569, "v": "KEEP", "zh": "理论术语", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theoretical virtues", "line": 6570, "v": "KEEP", "zh": "理论美德（亦作“理论德性”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theoretical wisdom", "line": 6571, "v": "KEEP", "zh": "理论智慧", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theoretically/empirically progressive", "line": 6572, "v": "KEEP", "zh": "理论上／经验上进步", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theōria", "line": 6573, "v": "KEEP", "zh": "静观（亦作“沉思”）", "orig": "θεωρία", "note": null, "sheet": "r28"}
+{"key": "theoros", "line": 6574, "v": "KEEP", "zh": "观礼者", "orig": "theoros", "note": null, "sheet": "r28"}
+{"key": "Theory", "line": 6575, "v": "KEEP", "zh": "理论", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theory of deduction (Schlußlehre)", "line": 6576, "v": "KEEP", "zh": "推论学说", "orig": "Schlußlehre", "note": null, "sheet": "r28"}
+{"key": "theory of judgement", "line": 6577, "v": "KEEP", "zh": "判断理论", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theory of mind", "line": 6578, "v": "KEEP", "zh": "心理理论（亦作“心智理论”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theory of play", "line": 6579, "v": "KEEP", "zh": "对局理论（亦作“博弈过程理论”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theory of principle", "line": 6580, "v": "KEEP", "zh": "原理理论", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theory of rays", "line": 6581, "v": "KEEP", "zh": "光线说", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theory theory", "line": 6582, "v": "KEEP", "zh": "理论论", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theory-mediated", "line": 6583, "v": "KEEP", "zh": "受理论中介的", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theosophy", "line": 6584, "v": "KEEP", "zh": "神智学", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "therapeutic cloning / research cloning", "line": 6585, "v": "KEEP", "zh": "治疗性克隆／研究性克隆", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "therapeutic misconception", "line": 6586, "v": "KEEP", "zh": "治疗性误解", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "therapeutic privilege", "line": 6587, "v": "KEEP", "zh": "治疗特权", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "thermodynamic time asymmetry", "line": 6588, "v": "KEEP", "zh": "热力学时间非对称性", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "theurgy", "line": 6589, "v": "KEEP", "zh": "通神术（亦作“神术”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "thick concept", "line": 6590, "v": "KEEP", "zh": "厚概念", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Thick Ethical Concepts", "line": 6591, "v": "KEEP", "zh": "厚伦理概念", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "thin", "line": 6592, "v": "KEEP", "zh": "薄（的）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "thin concept", "line": 6593, "v": "KEEP", "zh": "薄概念", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "thin particular", "line": 6594, "v": "KEEP", "zh": "薄殊相", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "thing-in-itself", "line": 6595, "v": "KEEP", "zh": "物自体（康德；亦作“自在之物”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Thinking Dispositions", "line": 6596, "v": "KEEP", "zh": "思维倾向", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "thinking matter", "line": 6597, "v": "KEEP", "zh": "思想物质（亦作“会思想物质”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Thinking to Some Purpose", "line": 6598, "v": "KEEP", "zh": "《思维要有目的》", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Thomasian", "line": 6599, "v": "KEEP", "zh": "托马修斯学派的（Thomasian-Pietist tradition 托马修斯—虔敬派传统；破折号体例对齐 Leibnizian-Wolffian 主形）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "thought experiment / Thought Experiments", "line": 6600, "v": "KEEP", "zh": "思想实验", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "thought insertion", "line": 6601, "v": "KEEP", "zh": "思维插入", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "thought police", "line": 6602, "v": "KEEP", "zh": "思想警察", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "thought theory", "line": 6603, "v": "KEEP", "zh": "思想理论", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "three-valued semantics", "line": 6604, "v": "KEEP", "zh": "三值语义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "threnody", "line": 6605, "v": "KEEP", "zh": "挽歌", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "thrownness", "line": 6606, "v": "KEEP", "zh": "被抛性", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Thubten Namgyal Ling", "line": 6607, "v": "KEEP", "zh": "土丹南嘉林寺", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "tian", "line": 6608, "v": "KEEP", "zh": "天", "orig": "天", "note": null, "sheet": "r28"}
+{"key": "tianli", "line": 6609, "v": "KEEP", "zh": "天理", "orig": "天理", "note": null, "sheet": "r28"}
+{"key": "Tianwen", "line": 6610, "v": "KEEP", "zh": "《天文》（《淮南子》篇名）", "orig": "天文", "note": null, "sheet": "r28"}
+{"key": "tiaoli", "line": 6611, "v": "KEEP", "zh": "条理", "orig": "條理", "note": null, "sheet": "r28"}
+{"key": "tides", "line": 6612, "v": "KEEP", "zh": "潮汐", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "tie-breaking rule", "line": 6613, "v": "KEEP", "zh": "决胜规则", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "timbral sonicist", "line": 6614, "v": "KEEP", "zh": "音色声音论者", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Time", "line": 6615, "v": "KEEP", "zh": "时间", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "time complexity", "line": 6616, "v": "KEEP", "zh": "时间复杂性", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "time dilation", "line": 6617, "v": "KEEP", "zh": "时间延缓（亦作“时间膨胀”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "time discount rate", "line": 6618, "v": "KEEP", "zh": "时间贴现率", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Time Machines", "line": 6619, "v": "KEEP", "zh": "时间机器", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Time Travel", "line": 6620, "v": "KEEP", "zh": "时间旅行", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "time-orthogonal coordinates", "line": 6621, "v": "KEEP", "zh": "时间正交坐标", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "timeless eternity", "line": 6622, "v": "KEEP", "zh": "超时间的永恒", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "timelike trajectory", "line": 6623, "v": "KEEP", "zh": "类时轨迹", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "tīrthaṅkara", "line": 6624, "v": "KEEP", "zh": "造渡者（亦作“渡津者”）", "orig": "तीर्थंकर", "note": null, "sheet": "r28"}
+{"key": "tissue organization field theory", "line": 6625, "v": "KEEP", "zh": "组织场论", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Tit-for-Tat", "line": 6626, "v": "KEEP", "zh": "一报还一报", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "to apeiron", "line": 6627, "v": "KEEP", "zh": "无定（to apeiron；亦作“无限定”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "to phainomenon", "line": 6628, "v": "FLAG", "zh": "显现", "orig": "—", "note": "主译撞形：“显现”同时对应 apparentia、manifestation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r28"}
+{"key": "togetherness principle", "line": 6629, "v": "KEEP", "zh": "共同性原则", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Token / type", "line": 6630, "v": "KEEP", "zh": "殊例／类型（type-token 即“类型—殊例”之分；勿用“个体”，避免与 individual 碰撞）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "token ring", "line": 6631, "v": "KEEP", "zh": "令牌环", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "token-based semantics", "line": 6632, "v": "KEEP", "zh": "基于殊例的语义学", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "token（令牌环语境）", "line": 6633, "v": "FLAG", "zh": "令牌", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r28"}
+{"key": "tokonoma", "line": 6634, "v": "KEEP", "zh": "床之间（壁龛）", "orig": "床の間", "note": null, "sheet": "r28"}
+{"key": "toleration", "line": 6635, "v": "KEEP", "zh": "宽容", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "tonal Gestalt", "line": 6636, "v": "KEEP", "zh": "音调格式塔", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "tonality", "line": 6637, "v": "KEEP", "zh": "调性", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Tonghak（東學）", "line": 6638, "v": "FLAG", "zh": "东学", "orig": "東學", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r28"}
+{"key": "top-down argument", "line": 6639, "v": "KEEP", "zh": "自上而下的论证", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "topic-neutral", "line": 6640, "v": "KEEP", "zh": "中立于主题", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Topics", "line": 6641, "v": "KEEP", "zh": "《论题篇》", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "topology", "line": 6642, "v": "KEEP", "zh": "拓扑学", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "topos", "line": 6643, "v": "KEEP", "zh": "拓扑斯", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Torah", "line": 6644, "v": "KEEP", "zh": "托拉（亦作“妥拉”“律法”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "total correctness", "line": 6645, "v": "KEEP", "zh": "完全正确性", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "total evidence", "line": 6646, "v": "KEEP", "zh": "总证据", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "total significate", "line": 6647, "v": "KEEP", "zh": "总意谓", "orig": "total significate", "note": null, "sheet": "r28"}
+{"key": "total utilitarianism", "line": 6648, "v": "KEEP", "zh": "总体功利主义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "total utility", "line": 6649, "v": "KEEP", "zh": "总效用", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "totality", "line": 6650, "v": "KEEP", "zh": "总体性", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "totemism", "line": 6651, "v": "KEEP", "zh": "图腾崇拜", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "tracking (belief tracking)", "line": 6652, "v": "KEEP", "zh": "追踪（信念追踪）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "tractability", "line": 6653, "v": "KEEP", "zh": "可操作性", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Tractatus (Summule logicales)", "line": 6654, "v": "KEEP", "zh": "《逻辑纲要》", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Tractatus Politicus", "line": 6655, "v": "KEEP", "zh": "《政治论》", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Trade liberalization", "line": 6656, "v": "KEEP", "zh": "贸易自由化", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "traditional intellectual", "line": 6657, "v": "KEEP", "zh": "传统知识分子", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "tragic choice", "line": 6658, "v": "KEEP", "zh": "悲剧性选择", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "trait", "line": 6659, "v": "KEEP", "zh": "特质", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "trait (biological)", "line": 6660, "v": "KEEP", "zh": "性状", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "trait gratitude", "line": 6661, "v": "KEEP", "zh": "特质感恩", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "trans-specific polymorphism", "line": 6662, "v": "KEEP", "zh": "跨种多态性", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transaction cost", "line": 6663, "v": "KEEP", "zh": "交易成本", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transcendence", "line": 6664, "v": "KEEP", "zh": "超越", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transcendence (Jaspers)", "line": 6665, "v": "FLAG", "zh": "超越者", "orig": "—", "note": "主译撞形：“超越者”同时对应 transcendentals；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r28"}
+{"key": "transcendence objection", "line": 6666, "v": "KEEP", "zh": "超越诘难", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transcendence of knowing", "line": 6667, "v": "KEEP", "zh": "认识的超越", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transcendent universal", "line": 6668, "v": "KEEP", "zh": "超越共相", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transcendental", "line": 6669, "v": "KEEP", "zh": "先验（康德术语 transzendental）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Transcendental Aesthetic", "line": 6670, "v": "KEEP", "zh": "先验感性论", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transcendental analysis", "line": 6671, "v": "KEEP", "zh": "先验分析", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transcendental argument / Transcendental Arguments", "line": 6672, "v": "KEEP", "zh": "先验论证", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transcendental content", "line": 6673, "v": "KEEP", "zh": "先验内容", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Transcendental Deduction", "line": 6674, "v": "KEEP", "zh": "先验演绎", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transcendental element", "line": 6675, "v": "KEEP", "zh": "先验要素", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transcendental philosophy", "line": 6676, "v": "KEEP", "zh": "先验哲学", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transcendental term / transcendental terms", "line": 6677, "v": "KEEP", "zh": "超越词项", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transcendentalism", "line": 6678, "v": "KEEP", "zh": "超验主义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transcendentals", "line": 6679, "v": "FLAG", "zh": "超越者", "orig": "transcendentalia", "note": "与 transcendence (Jaspers) 行（行 6665）同译“超越者”撞形：雅斯贝尔斯 Transzendenz 作“超越者”，经院 transcendentalia（ens/aliquid/res 等）通行“超越者”亦作“超越属性”；建议本行作“超越属性（transcendentalia）”，与 transcendental term 行“超越词项”同族对齐", "sheet": "r28"}
+{"key": "transcriptomics", "line": 6680, "v": "KEEP", "zh": "转录组学", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transfinite induction", "line": 6681, "v": "KEEP", "zh": "超限归纳（亦作“超穷归纳法”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transformation rule", "line": 6682, "v": "KEEP", "zh": "变换规则", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Transformative Experience", "line": 6683, "v": "KEEP", "zh": "变革性体验", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transhumanism", "line": 6684, "v": "KEEP", "zh": "超人类主义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transient polymorphism", "line": 6685, "v": "KEEP", "zh": "过渡性多态性（亦作“暂态多态性”）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Transition; elementary system of the moving forces", "line": 6686, "v": "KEEP", "zh": "过渡（Übergang）；运动力的初阶系统（Elementarsystem）", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transitional justice", "line": 6687, "v": "KEEP", "zh": "转型正义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transitive closure", "line": 6688, "v": "KEEP", "zh": "传递闭包", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transitive set", "line": 6689, "v": "KEEP", "zh": "传递集", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transitivity", "line": 6690, "v": "KEEP", "zh": "传递性", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Transmission", "line": 6691, "v": "KEEP", "zh": "传递", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transmutation", "line": 6692, "v": "KEEP", "zh": "嬗变", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transnationalism", "line": 6693, "v": "KEEP", "zh": "跨国主义", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Transoxania", "line": 6694, "v": "KEEP", "zh": "河中地区", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transscalarity", "line": 6695, "v": "KEEP", "zh": "跨尺度性", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Transsexualism", "line": 6696, "v": "KEEP", "zh": "易性", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transversality condition", "line": 6697, "v": "KEEP", "zh": "横截条件", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "transworld identity", "line": 6698, "v": "KEEP", "zh": "跨界同一性", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Träume eines Geistersehers", "line": 6699, "v": "KEEP", "zh": "《视灵者的梦》（康德）", "orig": "Träume eines Geistersehers", "note": null, "sheet": "r28"}
+{"key": "Treasure of Reasoning（Tshad ma rigs gter）", "line": 6700, "v": "FLAG", "zh": "《量理宝藏》", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r28"}
+{"key": "treatment as an equal", "line": 6701, "v": "KEEP", "zh": "平等待人", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "tree algebra", "line": 6702, "v": "KEEP", "zh": "树代数", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Tree of Porphyry", "line": 6703, "v": "KEEP", "zh": "波菲利之树", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "triangular norm", "line": 6704, "v": "KEEP", "zh": "三角范数", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "triangulation", "line": 6705, "v": "KEEP", "zh": "三角测量", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "triggering cause / structural cause", "line": 6706, "v": "KEEP", "zh": "触发原因／结构原因", "orig": "—", "note": null, "sheet": "r28"}
+{"key": "Triṃśikā", "line": 6707, "v": "KEEP", "zh": "《唯识三十颂》", "orig": "त्रिंशिका", "note": null, "sheet": "r28"}
+{"key": "Trinity", "line": 6708, "v": "KEEP", "zh": "三位一体", "orig": "—", "note": null, "sheet": "r28"}
 {"key": "true class", "line": 6720, "v": "FLAG", "zh": "真类", "orig": "—", "note": "主译撞形：“真类”同时对应 proper class；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "truth-bearer", "line": 6735, "v": "FLAG", "zh": "真值承担者", "orig": "—", "note": "主译撞形：“真值承担者”同时对应 bearer of truth values；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "Truthlikeness", "line": 6743, "v": "FLAG", "zh": "似真性（亦作“逼真性”）", "orig": "—", "note": "亦作“逼真性”与 verisimilitude 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
