@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 2098，FLAG 702，FIX 29，MERGE 4
+判定分布：KEEP 2283，FLAG 706，FIX 31，MERGE 4
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -438,12 +438,18 @@
 - **lawlike / lawfulness**（行 3463，现译「律性的／律性」）｜ FLAG ｜ 与 lawlike 行（行 3462）同词两行译法不一（合规律的／律性的）；lawfulness 通行“合律性”，须合键或统一
 - **laws of nature**（行 3464，现译「自然法（亦作“自然律”）」）｜ FLAG ｜ 现译“自然法”与法哲学 natural law（自然法）大撞形；科学哲学通行作“自然律／自然法则”，须改译并联动排查相关行
 - **least upper bound**（行 3472，现译「最小上界（亦作“上确界”）」）｜ FLAG ｜ 亦作“上确界”与 supremum 的主译撞形；删该亦作或改主译
+- **Leib**（行 3484，现译「活的身体」）｜ FLAG ｜ 用语一处为人名引用（contract-law:1042 Leib 2015），非身体义；另两处（existentialism:592、phenomenology:1540）为“活的身体”义 ✓；须换用第一条用语
 - **lex**（行 3501，现译「拉丁原文保留（法律）」）｜ FLAG ｜ 主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、respublica、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **liability**（行 3508，现译「责任」）｜ FLAG ｜ 主译撞形：“责任”同时对应 responsibility；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Lindenbaum–Tarski algebra**（行 3532，现译「林登鲍姆–塔尔斯基代数」）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：林登鲍姆–塔尔斯基代数 → 林登鲍姆—塔尔斯基代数
 - **lived experience**（行 3553，现译「体验（亦作“生命体验”）」）｜ FLAG ｜ 主译撞形：“体验”同时对应 Erlebnis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **living organism**（行 3557，现译「生物体」）｜ FLAG ｜ 主译撞形：“生物体”同时对应 organism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **lo mexicano**（行 3563，现译「墨西哥性（墨西哥的东西）」）｜ FLAG ｜ 主译撞形：“墨西哥性”同时对应 Mexicanness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **local sign theory**（行 3568，现译「本地符号理论」）｜ FLAG ｜ Lotze local sign 心理学史通行作“局部符号说／部位符号说”，现译“本地符号理论”须查证
+- **logica moderna**（行 3579，现译「现代逻辑（中世纪语境）」）｜ FLAG ｜ 现译“现代逻辑”与 20 世纪 modern logic 大撞形；中世纪通行 logica moderna 作“新逻辑”，与 logica vetus/nova/modernorum 行（旧逻辑／新逻辑／现代人的逻辑）联动统一
+- **logistic**（行 3606，现译「逻辑斯蒂（20 世纪早期对符号逻辑/数理逻辑的旧称）（亦作“逻辑斯提”）」）｜ FLAG ｜ 三义分行候选：希腊计算术（archytas:166 logistic [arithmetic]）、20 世纪符号逻辑旧称（现译）、逻辑斯蒂方程（microbiology:1003 logistic equation）；现译仅合第二义，须分行
 - **Lorik（blo rigs）**（行 3617，现译「心类学（blo rigs）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Löwenheim-Skolem theorem**（行 3619，现译「勒文海姆–斯科伦定理（亦作“L-S定理”）」）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：勒文海姆–斯科伦定理 → 勒文海姆—斯科伦定理（与 Löwenheim—Skolem—Tarski 行、r06 Heine—Borel 等联动）
 - **Lunyu**（行 3627，现译「《论语》」）｜ FLAG ｜ 主译撞形：“《论语》”同时对应 Analects / Lun yu / Lunyu；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **mabādiʾ**（行 3644，现译「本原（mabdaʾ 复数；principles）」）｜ FLAG ｜ 主译撞形：“本原”同时对应 arché；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **makān**（行 3674，现译「位置」）｜ FLAG ｜ 主译撞形：“位置”同时对应 place (topos)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并

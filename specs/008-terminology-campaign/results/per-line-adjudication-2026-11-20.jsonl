@@ -2529,15 +2529,206 @@
 {"key": "laws of revelation", "line": 3466, "v": "KEEP", "zh": "启示律法", "orig": "—", "note": null, "sheet": "r12"}
 {"key": "Laws of Thought", "line": 3467, "v": "KEEP", "zh": "思维规律", "orig": "—", "note": null, "sheet": "r12"}
 {"key": "Lazy Argument", "line": 3468, "v": "KEEP", "zh": "懒惰论证", "orig": "—", "note": null, "sheet": "r12"}
-{"key": "least upper bound", "line": 3472, "v": "FLAG", "zh": "最小上界（亦作“上确界”）", "orig": "—", "note": "亦作“上确界”与 supremum 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
-{"key": "lex", "line": 3501, "v": "FLAG", "zh": "拉丁原文保留（法律）", "orig": "lex", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、respublica、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "liability", "line": 3508, "v": "FLAG", "zh": "责任", "orig": "—", "note": "主译撞形：“责任”同时对应 responsibility；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "lived experience", "line": 3553, "v": "FLAG", "zh": "体验（亦作“生命体验”）", "orig": "Erlebnis", "note": "主译撞形：“体验”同时对应 Erlebnis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "living organism", "line": 3557, "v": "FLAG", "zh": "生物体", "orig": "—", "note": "主译撞形：“生物体”同时对应 organism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "lo mexicano", "line": 3563, "v": "FLAG", "zh": "墨西哥性（墨西哥的东西）", "orig": "—", "note": "主译撞形：“墨西哥性”同时对应 Mexicanness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Lorik（blo rigs）", "line": 3617, "v": "FLAG", "zh": "心类学（blo rigs）", "orig": "བློ་རིགས་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "Lunyu", "line": 3627, "v": "FLAG", "zh": "《论语》", "orig": "《论语》", "note": "主译撞形：“《论语》”同时对应 Analects / Lun yu / Lunyu；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "mabādiʾ", "line": 3644, "v": "FLAG", "zh": "本原（mabdaʾ 复数；principles）", "orig": "مبادئ", "note": "主译撞形：“本原”同时对应 arché；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "leader election problem", "line": 3469, "v": "KEEP", "zh": "首领选举问题", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "league of nations", "line": 3470, "v": "KEEP", "zh": "国联（诸国联盟）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "learnedness", "line": 3471, "v": "KEEP", "zh": "学识（托马修斯 Gelahrheit／Gelehrsamkeit）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "least upper bound", "line": 3472, "v": "FLAG", "zh": "最小上界（亦作“上确界”）", "orig": "—", "note": "亦作“上确界”与 supremum 的主译撞形；删该亦作或改主译", "sheet": "r13"}
+{"key": "Lebendigkeit", "line": 3473, "v": "KEEP", "zh": "生命性", "orig": "Lebendigkeit", "note": null, "sheet": "r13"}
+{"key": "Lebensbezüge", "line": 3474, "v": "KEEP", "zh": "生命关切", "orig": "Lebensbezüge", "note": null, "sheet": "r13"}
+{"key": "Lebensgefühl", "line": 3475, "v": "KEEP", "zh": "生命情感", "orig": "Lebensgefühl", "note": null, "sheet": "r13"}
+{"key": "Lebensmanifestation", "line": 3476, "v": "KEEP", "zh": "生命显现", "orig": "Lebensmanifestation", "note": null, "sheet": "r13"}
+{"key": "Lebensstellung", "line": 3477, "v": "KEEP", "zh": "生活态度", "orig": "Lebensstellung", "note": null, "sheet": "r13"}
+{"key": "left-continuous", "line": 3478, "v": "KEEP", "zh": "左连续", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "legal authority", "line": 3479, "v": "KEEP", "zh": "法律权威", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Legalism", "line": 3480, "v": "KEEP", "zh": "法家", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "legality", "line": 3481, "v": "KEEP", "zh": "合法性", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "legitimate authority", "line": 3482, "v": "KEEP", "zh": "合法权威", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lehrfreiheit", "line": 3483, "v": "KEEP", "zh": "教学自由", "orig": "Lehrfreiheit", "note": null, "sheet": "r13"}
+{"key": "Leib", "line": 3484, "v": "FLAG", "zh": "活的身体", "orig": "Leib", "note": "用语一处为人名引用（contract-law:1042 Leib 2015），非身体义；另两处（existentialism:592、phenomenology:1540）为“活的身体”义 ✓；须换用第一条用语", "sheet": "r13"}
+{"key": "Leibniz Equivalence", "line": 3485, "v": "KEEP", "zh": "莱布尼茨等价", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Leibniz language", "line": 3486, "v": "KEEP", "zh": "莱布尼茨语言", "orig": "Leibniz language", "note": null, "sheet": "r13"}
+{"key": "Leibniz Theorem", "line": 3487, "v": "KEEP", "zh": "莱布尼茨定理", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Leibnizian-Wolffian", "line": 3488, "v": "KEEP", "zh": "莱布尼茨—沃尔夫学派的", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "lekton (lekta)", "line": 3489, "v": "KEEP", "zh": "可说者", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Leninism", "line": 3490, "v": "KEEP", "zh": "列宁主义", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lernfreiheit", "line": 3491, "v": "KEEP", "zh": "学习自由（亦作“学的自由”）", "orig": "Lernfreiheit", "note": null, "sheet": "r13"}
+{"key": "Letter on Divine Science", "line": 3492, "v": "KEEP", "zh": "《论神圣科学书简》", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Letter to Herodotus", "line": 3493, "v": "KEEP", "zh": "《致希罗多德书》", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Letter to Menoeceus", "line": 3494, "v": "KEEP", "zh": "《致美诺寇书》", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Letter to Pythocles", "line": 3495, "v": "KEEP", "zh": "《致皮托克勒斯书》", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Letters on Aesthetic Education", "line": 3496, "v": "KEEP", "zh": "《审美教育书简》（席勒）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "leukemic stem cell", "line": 3497, "v": "KEEP", "zh": "白血病干细胞", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "level of skepticism", "line": 3498, "v": "KEEP", "zh": "怀疑水平", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "levels of selection", "line": 3499, "v": "KEEP", "zh": "选择层次", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Leviathan", "line": 3500, "v": "KEEP", "zh": "利维坦", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "lex", "line": 3501, "v": "FLAG", "zh": "拉丁原文保留（法律）", "orig": "lex", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、respublica、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r13"}
+{"key": "lex regia de imperio", "line": 3502, "v": "KEEP", "zh": "王权法", "orig": "lex regia de imperio", "note": null, "sheet": "r13"}
+{"key": "lexicographic order", "line": 3503, "v": "KEEP", "zh": "字典序（亦作“词典序”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "leximax", "line": 3504, "v": "KEEP", "zh": "字典最大算子（亦作“词典最大算子”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "li", "line": 3505, "v": "KEEP", "zh": "理（pattern/patterning；条理）", "orig": "理", "note": null, "sheet": "r13"}
+{"key": "li (establish)", "line": 3506, "v": "KEEP", "zh": "立", "orig": "立", "note": null, "sheet": "r13"}
+{"key": "Li Sao", "line": 3507, "v": "KEEP", "zh": "《离骚》", "orig": "離騷", "note": null, "sheet": "r13"}
+{"key": "liability", "line": 3508, "v": "FLAG", "zh": "责任", "orig": "—", "note": "主译撞形：“责任”同时对应 responsibility；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r13"}
+{"key": "Liar Paradox", "line": 3509, "v": "KEEP", "zh": "说谎者悖论（亦作“说谎者佯谬”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Liber de mente agente", "line": 3510, "v": "KEEP", "zh": "《论能动心智》（*Liber de mente agente*）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "liberal education", "line": 3511, "v": "KEEP", "zh": "自由教育", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "liberal eugenics", "line": 3512, "v": "KEEP", "zh": "自由优生学", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "liberal nationalism", "line": 3513, "v": "KEEP", "zh": "自由民族主义", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "liberalism", "line": 3514, "v": "KEEP", "zh": "自由主义", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "liberation", "line": 3515, "v": "KEEP", "zh": "解放", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "libertarianism", "line": 3516, "v": "KEEP", "zh": "自由至上主义（政治语境；自由意志之争语境留给“自由意志论”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Libertas philosophandi", "line": 3517, "v": "KEEP", "zh": "哲学思考自由（亦作“哲思自由”“哲学自由”，拉丁原词保留斜体）", "orig": "Libertas philosophandi", "note": null, "sheet": "r13"}
+{"key": "licit/illicit", "line": 3518, "v": "KEEP", "zh": "合法／非法（绝对意义）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lie algebra", "line": 3519, "v": "KEEP", "zh": "李代数", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lie bracket", "line": 3520, "v": "KEEP", "zh": "李括号", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lie group", "line": 3521, "v": "KEEP", "zh": "李群", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lienü Zhuan", "line": 3522, "v": "KEEP", "zh": "《列女传》", "orig": "列女傳", "note": null, "sheet": "r13"}
+{"key": "Liezi", "line": 3523, "v": "KEEP", "zh": "《列子》", "orig": "列子", "note": null, "sheet": "r13"}
+{"key": "life worth living", "line": 3524, "v": "KEEP", "zh": "值得过的生活", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "life-manifestation", "line": 3525, "v": "KEEP", "zh": "生命表现", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "light cone", "line": 3526, "v": "KEEP", "zh": "光锥", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "light linear logic", "line": 3527, "v": "KEEP", "zh": "轻线性逻辑", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "light-signal method", "line": 3528, "v": "KEEP", "zh": "光信号法", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Liji", "line": 3529, "v": "KEEP", "zh": "《礼记》", "orig": "禮記", "note": null, "sheet": "r13"}
+{"key": "likelihood ratio", "line": 3530, "v": "KEEP", "zh": "似然比", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "limit-case", "line": 3531, "v": "KEEP", "zh": "极限情形", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lindenbaum–Tarski algebra", "line": 3532, "v": "FIX", "zh": "林登鲍姆–塔尔斯基代数", "orig": "—", "note": "人名连接号按 ADR-0041 一字线：林登鲍姆–塔尔斯基代数 → 林登鲍姆—塔尔斯基代数", "sheet": "r13"}
+{"key": "line of nodes", "line": 3533, "v": "KEEP", "zh": "交点线", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "line segment", "line": 3534, "v": "KEEP", "zh": "线段", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "linear affine logic", "line": 3535, "v": "KEEP", "zh": "线性仿射逻辑", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "linear associative algebra", "line": 3536, "v": "KEEP", "zh": "线性结合代数", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "linear implication", "line": 3537, "v": "KEEP", "zh": "线性蕴涵", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "linear logic", "line": 3538, "v": "KEEP", "zh": "线性逻辑", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "linear operator", "line": 3539, "v": "KEEP", "zh": "线性算符", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "linear pooling", "line": 3540, "v": "KEEP", "zh": "线性池化", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "linear resolution", "line": 3541, "v": "KEEP", "zh": "线性归结", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "linear superposition", "line": 3542, "v": "KEEP", "zh": "线性叠加", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "linear transformation", "line": 3543, "v": "KEEP", "zh": "线性变换", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "linguistic competence", "line": 3544, "v": "KEEP", "zh": "语言能力", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Linguistic determinism", "line": 3545, "v": "KEEP", "zh": "语言决定论", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "linguistic turn", "line": 3546, "v": "KEEP", "zh": "语言学转向", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "linguisticality", "line": 3547, "v": "KEEP", "zh": "语言性", "orig": "Sprachlichkeit", "note": null, "sheet": "r13"}
+{"key": "literal interpretation", "line": 3548, "v": "KEEP", "zh": "字面解释", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "little ethics", "line": 3549, "v": "KEEP", "zh": "小伦理学", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Liu yi / Liu jing", "line": 3550, "v": "KEEP", "zh": "六艺/六经", "orig": "六藝/六經", "note": null, "sheet": "r13"}
+{"key": "Liujing zaidao", "line": 3551, "v": "KEEP", "zh": "六经载道", "orig": "六經載道", "note": null, "sheet": "r13"}
+{"key": "live metaphor", "line": 3552, "v": "KEEP", "zh": "活的隐喻", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "lived experience", "line": 3553, "v": "FLAG", "zh": "体验（亦作“生命体验”）", "orig": "Erlebnis", "note": "主译撞形：“体验”同时对应 Erlebnis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r13"}
+{"key": "Lives of Eminent Philosophers", "line": 3554, "v": "KEEP", "zh": "《名哲言行录》", "orig": "Βίοι φιλοσόφων", "note": null, "sheet": "r13"}
+{"key": "living assay", "line": 3555, "v": "KEEP", "zh": "活体测定", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "living donor", "line": 3556, "v": "KEEP", "zh": "活体捐献者（亦作“活体供者”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "living organism", "line": 3557, "v": "FLAG", "zh": "生物体", "orig": "—", "note": "主译撞形：“生物体”同时对应 organism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r13"}
+{"key": "living past", "line": 3558, "v": "KEEP", "zh": "活的过去", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "living well", "line": 3559, "v": "KEEP", "zh": "过好生活", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "living will", "line": 3560, "v": "KEEP", "zh": "生前预嘱", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "liyi", "line": 3561, "v": "KEEP", "zh": "理义", "orig": "理義", "note": null, "sheet": "r13"}
+{"key": "lizhi", "line": 3562, "v": "KEEP", "zh": "立志（sincere determination 立志）", "orig": "立志", "note": null, "sheet": "r13"}
+{"key": "lo mexicano", "line": 3563, "v": "FLAG", "zh": "墨西哥性（墨西哥的东西）", "orig": "—", "note": "主译撞形：“墨西哥性”同时对应 Mexicanness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r13"}
+{"key": "Lobachevskian geometry", "line": 3564, "v": "KEEP", "zh": "罗巴切夫斯基几何", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Löb’s theorem", "line": 3565, "v": "KEEP", "zh": "勒布定理", "orig": "Löb’s theorem", "note": null, "sheet": "r13"}
+{"key": "local occasionalism", "line": 3566, "v": "KEEP", "zh": "局部偶因论", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "local reduction", "line": 3567, "v": "KEEP", "zh": "局部还原", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "local sign theory", "line": 3568, "v": "FLAG", "zh": "本地符号理论", "orig": "—", "note": "Lotze local sign 心理学史通行作“局部符号说／部位符号说”，现译“本地符号理论”须查证", "sheet": "r13"}
+{"key": "local time", "line": 3569, "v": "KEEP", "zh": "地方时", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "localism", "line": 3570, "v": "KEEP", "zh": "局部主义", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "locality", "line": 3571, "v": "KEEP", "zh": "定域性", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "locative art", "line": 3572, "v": "KEEP", "zh": "定位艺术", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "locative media", "line": 3573, "v": "KEEP", "zh": "定位媒体", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lockean proviso", "line": 3574, "v": "KEEP", "zh": "洛克式限制条款（亦作“洛克式但书”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logic fiction", "line": 3575, "v": "KEEP", "zh": "逻辑虚构", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Logic in Practice", "line": 3576, "v": "KEEP", "zh": "《逻辑在实践中》", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logic objection", "line": 3577, "v": "KEEP", "zh": "逻辑诘难", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logic of programs", "line": 3578, "v": "KEEP", "zh": "程序逻辑", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logica moderna", "line": 3579, "v": "FLAG", "zh": "现代逻辑（中世纪语境）", "orig": "—", "note": "现译“现代逻辑”与 20 世纪 modern logic 大撞形；中世纪通行 logica moderna 作“新逻辑”，与 logica vetus/nova/modernorum 行（旧逻辑／新逻辑／现代人的逻辑）联动统一", "sheet": "r13"}
+{"key": "logica vetus / logica nova / logica modernorum", "line": 3580, "v": "KEEP", "zh": "旧逻辑／新逻辑／现代人的逻辑", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical abacus", "line": 3581, "v": "KEEP", "zh": "逻辑算盘", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical alphabet", "line": 3582, "v": "KEEP", "zh": "逻辑字母表", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical atomism", "line": 3583, "v": "KEEP", "zh": "逻辑原子主义（亦作“逻辑原子论”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical consequence", "line": 3584, "v": "KEEP", "zh": "逻辑后承", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical constants", "line": 3585, "v": "KEEP", "zh": "逻辑常项", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical contextualism", "line": 3586, "v": "KEEP", "zh": "逻辑语境论", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical empiricism", "line": 3587, "v": "KEEP", "zh": "逻辑经验主义（亦作“逻辑经验论”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical form", "line": 3588, "v": "KEEP", "zh": "逻辑形式", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical forms of judgment", "line": 3589, "v": "KEEP", "zh": "判断的逻辑形式", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical implication", "line": 3590, "v": "KEEP", "zh": "逻辑蕴涵", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical intention", "line": 3591, "v": "KEEP", "zh": "逻辑意向", "orig": "intentio logica", "note": null, "sheet": "r13"}
+{"key": "logical matrix", "line": 3592, "v": "KEEP", "zh": "逻辑矩阵", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical monism", "line": 3593, "v": "KEEP", "zh": "逻辑一元主义（亦作“逻辑一元论”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical operation", "line": 3594, "v": "KEEP", "zh": "逻辑运算", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical pluralism", "line": 3595, "v": "KEEP", "zh": "逻辑多元主义（亦作“逻辑多元论”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical positivism", "line": 3596, "v": "KEEP", "zh": "逻辑实证主义（亦作“逻辑实证论”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical relation", "line": 3597, "v": "KEEP", "zh": "逻辑关系", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical relativism", "line": 3598, "v": "KEEP", "zh": "逻辑相对主义", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Logical slate", "line": 3599, "v": "KEEP", "zh": "逻辑石板", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical truth", "line": 3600, "v": "KEEP", "zh": "逻辑真理", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logical type", "line": 3601, "v": "KEEP", "zh": "逻辑类型", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logically constructed system", "line": 3602, "v": "KEEP", "zh": "逻辑构造系统", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logicism", "line": 3603, "v": "KEEP", "zh": "逻辑主义", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logicist reduction", "line": 3604, "v": "KEEP", "zh": "逻辑主义还原", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logismos", "line": 3605, "v": "KEEP", "zh": "推理（计算）", "orig": "λογισμός", "note": null, "sheet": "r13"}
+{"key": "logistic", "line": 3606, "v": "FLAG", "zh": "逻辑斯蒂（20 世纪早期对符号逻辑/数理逻辑的旧称）（亦作“逻辑斯提”）", "orig": "logistic", "note": "三义分行候选：希腊计算术（archytas:166 logistic [arithmetic]）、20 世纪符号逻辑旧称（现译）、逻辑斯蒂方程（microbiology:1003 logistic equation）；现译仅合第二义，须分行", "sheet": "r13"}
+{"key": "logistic regression", "line": 3607, "v": "KEEP", "zh": "逻辑斯蒂回归", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "logos", "line": 3608, "v": "KEEP", "zh": "逻各斯", "orig": "λόγος", "note": null, "sheet": "r13"}
+{"key": "lokottaramārga", "line": 3609, "v": "KEEP", "zh": "出世间道", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Long March", "line": 3610, "v": "KEEP", "zh": "长征", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "long trip criterion", "line": 3611, "v": "KEEP", "zh": "长途判据", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "long-branch attraction", "line": 3612, "v": "KEEP", "zh": "长枝吸引", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Longer Version", "line": 3613, "v": "KEEP", "zh": "长版本", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "loop invariance", "line": 3614, "v": "KEEP", "zh": "循环不变", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "loop quantum gravity", "line": 3615, "v": "KEEP", "zh": "圈量子引力", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lord Keeper of the Seal", "line": 3616, "v": "KEEP", "zh": "掌玺大臣", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lorik（blo rigs）", "line": 3617, "v": "FLAG", "zh": "心类学（blo rigs）", "orig": "བློ་རིགས་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r13"}
+{"key": "Lowell Lectures", "line": 3618, "v": "KEEP", "zh": "洛厄尔讲座", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Löwenheim-Skolem theorem", "line": 3619, "v": "FIX", "zh": "勒文海姆–斯科伦定理（亦作“L-S定理”）", "orig": "Löwenheim-Skolem theorem", "note": "人名连接号按 ADR-0041 一字线：勒文海姆–斯科伦定理 → 勒文海姆—斯科伦定理（与 Löwenheim—Skolem—Tarski 行、r06 Heine—Borel 等联动）", "sheet": "r13"}
+{"key": "Löwenheim–Skolem–Tarski theorem", "line": 3620, "v": "KEEP", "zh": "勒文海姆—斯科伦—塔斯基定理（亦作“司寇伦”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "lower envelope / upper envelope", "line": 3621, "v": "KEEP", "zh": "下包络／上包络（亦作“下／上概率”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lucasian Professor of Mathematics", "line": 3622, "v": "KEEP", "zh": "卢卡斯数学教授", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "luck egalitarianism", "line": 3623, "v": "KEEP", "zh": "运气平等主义", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "luminosity (nitzutz)", "line": 3624, "v": "KEEP", "zh": "发光性", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "lunar inequality", "line": 3625, "v": "KEEP", "zh": "月球不等项（亦作“月行差”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lunheng", "line": 3626, "v": "KEEP", "zh": "《论衡》", "orig": "論衡", "note": null, "sheet": "r13"}
+{"key": "Lunyu", "line": 3627, "v": "FLAG", "zh": "《论语》", "orig": "《论语》", "note": "主译撞形：“《论语》”同时对应 Analects / Lun yu / Lunyu；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r13"}
+{"key": "Lunyu Jijie", "line": 3628, "v": "KEEP", "zh": "《论语集解》", "orig": "論語集解", "note": null, "sheet": "r13"}
+{"key": "Lunyu yizhu", "line": 3629, "v": "KEEP", "zh": "《论语译注》", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lurianic Kabbalah", "line": 3630, "v": "KEEP", "zh": "卢里亚卡巴拉", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lüshi chunqiu", "line": 3631, "v": "KEEP", "zh": "《吕氏春秋》", "orig": "呂氏春秋", "note": null, "sheet": "r13"}
+{"key": "Lutheranism", "line": 3632, "v": "KEEP", "zh": "路德宗", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lvov-Warsaw School", "line": 3633, "v": "KEEP", "zh": "利沃夫—华沙学派（亦作“华沙学派”）", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Lyceum", "line": 3634, "v": "KEEP", "zh": "吕克昂", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "lymph", "line": 3635, "v": "KEEP", "zh": "淋巴", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Ł-modal system", "line": 3636, "v": "KEEP", "zh": "Ł-模态系统", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Łukasiewicz logic", "line": 3637, "v": "KEEP", "zh": "卢卡西维茨逻辑", "orig": "Łukasiewicz logic", "note": null, "sheet": "r13"}
+{"key": "M-belief", "line": 3643, "v": "KEEP", "zh": "M-信念", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "mabādiʾ", "line": 3644, "v": "FLAG", "zh": "本原（mabdaʾ 复数；principles）", "orig": "مبادئ", "note": "主译撞形：“本原”同时对应 arché；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r13"}
+{"key": "Machiavellianism", "line": 3645, "v": "KEEP", "zh": "马基雅维利主义", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "machine ethics", "line": 3646, "v": "KEEP", "zh": "机器伦理", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "machine model", "line": 3647, "v": "KEEP", "zh": "机器模型", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "macrocosm", "line": 3648, "v": "KEEP", "zh": "大宇宙", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "madhyamaka", "line": 3649, "v": "KEEP", "zh": "中观（亦作“中观派”）", "orig": "मध्यमक", "note": null, "sheet": "r13"}
+{"key": "Madhyamakālaṃkāra", "line": 3650, "v": "KEEP", "zh": "《中观庄严论》", "orig": "मध्यमकालंकार", "note": null, "sheet": "r13"}
+{"key": "Madhyamakāloka", "line": 3651, "v": "KEEP", "zh": "《中观光明论》", "orig": "मध्यमकालोक", "note": null, "sheet": "r13"}
+{"key": "Madhyamakāvatāra", "line": 3652, "v": "KEEP", "zh": "《入中论》", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Madhyāntavibhāga", "line": 3653, "v": "KEEP", "zh": "《辩中边论》", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "magic", "line": 3654, "v": "KEEP", "zh": "魔法", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "magical idealism", "line": 3655, "v": "KEEP", "zh": "魔法唯心论", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Magna Charta Universitatum", "line": 3656, "v": "KEEP", "zh": "《大学大宪章》", "orig": "Magna Charta Universitatum", "note": null, "sheet": "r13"}
+{"key": "Magna Graecia", "line": 3657, "v": "KEEP", "zh": "大希腊", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "magnetism", "line": 3658, "v": "KEEP", "zh": "磁性", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Magnitude estimation", "line": 3659, "v": "KEEP", "zh": "量值估算", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "magokoro", "line": 3660, "v": "KEEP", "zh": "真心", "orig": "真心", "note": null, "sheet": "r13"}
+{"key": "Mahāvairocana", "line": 3661, "v": "KEEP", "zh": "大毗卢遮那（大日如来）", "orig": "महावैरोचन", "note": null, "sheet": "r13"}
+{"key": "Mahāyāna", "line": 3662, "v": "KEEP", "zh": "大乘", "orig": "महायान", "note": null, "sheet": "r13"}
+{"key": "Mahāyānasaṃgraha", "line": 3663, "v": "KEEP", "zh": "《摄大乘论》", "orig": "महायानसंग्रह", "note": null, "sheet": "r13"}
+{"key": "Mahāyānasūtrālaṃkāra", "line": 3664, "v": "KEEP", "zh": "《大乘庄严经论》", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "maieutic reflection", "line": 3665, "v": "KEEP", "zh": "助产式反思", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "major premise", "line": 3666, "v": "KEEP", "zh": "大前提", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Major Transitions", "line": 3667, "v": "KEEP", "zh": "大跃迁", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "Major Trends of Jewish Mysticism", "line": 3668, "v": "KEEP", "zh": "《犹太神秘主义主流》", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "majority decision", "line": 3669, "v": "KEEP", "zh": "多数决", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "majority operator", "line": 3670, "v": "KEEP", "zh": "多数算子", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "majority preservation", "line": 3671, "v": "KEEP", "zh": "多数保持", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "majority rule", "line": 3672, "v": "KEEP", "zh": "多数规则", "orig": "—", "note": null, "sheet": "r13"}
+{"key": "majority voting", "line": 3673, "v": "KEEP", "zh": "多数表决", "orig": "—", "note": null, "sheet": "r13"}
 {"key": "makān", "line": 3674, "v": "FLAG", "zh": "位置", "orig": "مكان", "note": "主译撞形：“位置”同时对应 place (topos)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "manifestation", "line": 3687, "v": "FLAG", "zh": "显现", "orig": "—", "note": "主译撞形：“显现”同时对应 apparentia、to phainomenon；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "manifold (Kantian)", "line": 3689, "v": "FLAG", "zh": "杂多", "orig": "—", "note": "主译撞形：“杂多”同时对应 multiplicity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
