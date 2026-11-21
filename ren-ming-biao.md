@@ -2405,7 +2405,7 @@
 | Kusunoki Masashige | — | 楠木正成 | 日本 | 1294–1336 | kokugaku-school | 学界通行汉译；凭证 2026-11-04；籍属/生卒联网查证：SEP 原文 en/kokugaku-school:1093（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Kuyper, Jonathan | — | 乔纳森·凯珀 | 澳大利亚 | fl. 2019 | global-democracy | 音译（本词条作者，全球民主研究）；籍属/生卒联网查证：GND 规范标目 gnd 1192823451（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Kvanvig, Jonathan | — | 乔纳森·克万维格 | 美国 | 1954– | omniscience | 学界惯例音译；凭证 2026-11-09 | 2026-11-09 |
-| Kwŏn Ilsin | 權日身 | 权日身 | 1736–1791 | — | korean-confucianism | 汉文传统写法（朝鲜早期天主教徒，安鼎福女婿） | 2026-11-08 |
+| Kwŏn Ilsin | 權日身 | 权日身 | 朝鲜 | 1742–1791 | korean-confucianism | 汉文传统写法（朝鲜早期天主教徒，安鼎福女婿）；籍属/生卒联网查证：韩国学典（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Kwŏn Kŭn | 權近 | 权近 | 朝鲜／儒学 | 1352–1409 | korean-philosophy | 汉文传统写法（源文汉字 權近；朝鲜初性理学者，阳村）；籍属/生卒联网查证：GND 规范标目 gnd 1055691723（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kyburg, Henry | — | 亨利·基伯格 | 美国 | 1928–2007 | closure-epistemic | 学界通行音译（彩票悖论）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 128490950（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Kydones, Demetrios | Demetrios Kydones | 德米特里奥斯·基多内斯 | 拜占庭 | c. 1324–1397 | bessarion | 本词条首译（拜占庭政治家、翻译家，阿奎那两部《大全》希腊译者；学界通行音译） | 2026-11-10 |
@@ -2420,7 +2420,7 @@
 | La Mettrie, Julien Offray de | — | 拉美特利 | 法国 | 1709–1751 | 语料回收（molyneux-problem 首译） | 学界通行汉译（法国启蒙唯物主义者，学界惯例省略教名）；审定库无相关命中（凭证 2026-11-06）；籍属/生卒联网查证：GND 规范标目 gnd 118726102（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | La Palme-Reyes, Gonzalo | — | Gonzalo La Palme-Reyes | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | La Rochefoucauld | La Rochefoucauld | 拉罗什富科 | 法国 | 1613–1680 | schlegel | 学界通行汉译（法国箴言作家）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q273708（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Laborde, Cécile | — | 塞西尔·拉博德 | 法国 | — | cosmopolitanism | 学界通行汉译（共和主义政治理论）；凭证 2026-11-09 | 2026-11-09 |
+| Laborde, Cécile | — | 塞西尔·拉博德 | 法国 | 1971– | cosmopolitanism | 学界通行汉译（共和主义政治理论）；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q24055317（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Labriola, Antonio | — | 安东尼奥·拉布里奥拉 | 意大利 | 1843–1904 | gramsci | 意大利马克思主义哲学家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 118725777（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Labrousse, Elisabeth | — | 伊丽莎白·拉布鲁斯 | 法国 | 1914–2000 | bayle | 学界通行汉译（培尔研究奠基学者）；籍属/生卒联网查证：GND 规范标目 gnd 119332353（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Lachelier, Jules | — | 儒勒·拉舍利耶 | 法国 | 1832–1918 | bergson | 法国唯灵论哲学家，柏格森之师；学界通行音译；籍属/生卒联网查证：GND 规范标目 gnd 11856854X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -2444,7 +2444,7 @@
 | Landau, Lev | — | 列夫·朗道 | 苏联／物理学家 | 1908–1968 | quantum-bayesian | 学界通行汉译（《量子力学》教科书第一作者，诺贝尔物理学奖）；凭证 2026-11-12 | 2026-11-12 |
 | Landemore, Hélène | Hélène Landemore | Hélène Landemore | 法国 | 1976– | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0022）；籍属/生卒联网查证：Wikidata Q58146490（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Landman, Fred | — | Fred Landman | 以色列 | 1956– | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1215931913（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Landulph Caracciolo | — | 兰杜尔夫·卡拉乔洛 | 意大利 | — | gregory-rimini | 音译（14 世纪方济各会神学家）；凭证 2026-11-10 | 2026-11-10 |
+| Landulph Caracciolo | — | 兰杜尔夫·卡拉乔洛 | 意大利 | 1300–1351 | gregory-rimini | 音译（14 世纪方济各会神学家）；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q55226508（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Lang, Matthew | — | 马修·朗 | — | — | gianfrancesco-pico | 音译（古尔克主教、帝国代牧） | 2026-11-09 |
 | Lange, Marc | — | 马克·朗格 | 美国 | 1963– | fitness | 学界通行音译（科学哲学家；与 logic-dynamic 的 Martin Lange、18thGerman-preKant 的 Joachim Lange 异人）；凭证 2026-11-13；籍属/生卒联网查证：Wikidata Q1707725（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Lange, Martin | — | Martin Lange | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
@@ -2461,7 +2461,7 @@
 | Las Casas, Bartolomé de | Bartolomé de Las Casas | 巴托洛梅·德·拉斯·卡萨斯 | 西班牙 | 1484–1566 | colonialism | 学界通行汉译（《西印度毁灭述略》署名）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118726625（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Lasersohn, Peter | — | Peter Lasersohn | 美国 | fl. 1990 | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1219913626（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Lau, D.C. | 刘殿爵 | 刘殿爵 | 中国／香港 | 1921–2010 | zhu-xi | 学界通行汉译（《论语》《孟子》英译者；汉字本名）；凭证 2026-11-15 | 2026-11-15 |
-| Lau, Joe Y. F. | — | 刘彦方 | 中国香港 | — | content-externalism | 本人汉名（香港大学哲学系副教授；港大哲学系个人页、《批判性思维与创新导论》中文版署名）；凭证 2026-11-12 | 2026-11-12 |
+| Lau, Joe Y. F. | — | 刘彦方 | 中国香港 | 1968– | content-externalism | 本人汉名（香港大学哲学系副教授；港大哲学系个人页、《批判性思维与创新导论》中文版署名）；凭证 2026-11-12；籍属/生卒联网查证：Wikidata Q112474034（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Laurent, Olivier | — | Olivier Laurent | 法国 | 1977– | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q102349220（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Lavallee, Marie | — | 拉瓦莱 | 加拿大 | fl. 2018 | erotic-art | 学界惯例音译（本词条引用文献作者）；籍属/生卒联网查证：GND 规范标目 gnd 1174815663（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Lavater, Johann Caspar | — | 约翰·卡斯帕·拉瓦特尔 | 瑞士 | 1741–1801 | natphil-ren | 学界通行音译（相面术著作家）；凭证 2026-11-10 | 2026-11-10 |
@@ -2485,7 +2485,7 @@
 | Lee, Kibeom | — | Kibeom Lee（现代学者，保留英文） | 韩国 | 1966– | justice-moral-psych | ADR-0022：无通行汉名者保留英文（HEXACO 模型提出者）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1015213421（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Leeuwenhoek, Antonie Philips van | — | 安东尼·菲利普斯·范·列文虎克 | 荷兰／显微镜学家 | 1632–1723 | johann-sturm | 学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Lefèvre d'Étaples, Jacques | Jacques Lefèvre d'Étaples | 雅克·勒费弗尔·戴塔普勒 | 法国 | 约 1450–1536 | agrippa-nettesheim；bessarion | 学界惯例（法国文艺复兴研究通行汉译）；2026-11-12 bessarion r1 校正：戴塔普尔→戴塔普勒（d'Étaples 音节完整，与 SUMMARY 词条定名尾节一致） | 2026-11-06 |
-| Leftow, Brian / Brian Leftow | — | 布莱恩·莱夫托 | 美国 | — | 语料回收（全目录）；omniscience | 学界惯例音译；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Brian Leftow`） | 2026-11-13 |
+| Leftow, Brian / Brian Leftow | — | 布莱恩·莱夫托 | 美国 | 1956– | 语料回收（全目录）；omniscience | 学界惯例音译；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Brian Leftow`）；籍属/生卒联网查证：Wikidata Q4964473（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Lehrer, Keith | — | 基思·莱勒 | 美国 | 1936– | basing-epistemic | 学界惯例（音译，知识论家，“迷信律师”反例提出者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118937413（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Leibniz, Gottfried Wilhelm / Gottfried Wilhelm Leibniz | — | 戈特弗里德·威廉·莱布尼茨 | 德国 | 1646–1716 | lady-masham；亦见 scholz（2026-11-07 重复行合并）；emilie-du-chatelet | 学界千年通行译名（SUMMARY 定名沿用）；2026-11-13 重复行合并（旧键 `Gottfried Wilhelm Leibniz`）；籍属/生卒联网查证：SEP 原文 en/malebranche:362（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Lejeune, Martine | — | 玛蒂娜·勒热纳 | 比利时 | 当代 | croce-aesthetics | 学界通行音译（根特学院应用语言学系，本词条致谢）；凭证 2026-11-10 | 2026-11-09 |
@@ -2556,7 +2556,7 @@
 | Ling, Cho-Hsin | — | Ling | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Linji Yixuan | — | 临济义玄 | 中国（唐） | –866 | buddhism-chan | 佛学界通行汉译（临济宗开祖）；籍属/生卒联网查证：SEP 原文 en/buddhism-chan:524（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Linklater, Andrew | — | 安德鲁·林克莱特 | 英国 | 1949– | global-democracy | 音译（国际关系理论家）；籍属/生卒联网查证：GND 规范标目 gnd 129179485（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Linnaeus, Carl | Linnaean | 林奈 | 瑞典 | 1977– | origin-descent | 学界通行汉译（“林奈式”作形容词）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 1038265339（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
+| Linnaeus, Carl | Linnaean | 林奈 | 瑞典 | 1707–1778 | origin-descent | 学界通行汉译（“林奈式”作形容词）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 1038265339（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；籍属/生卒联网查证：Wikidata Q1043（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Linnebo, Øystein / Øystein Linnebo | Øystein Linnebo | Øystein Linnebo | 挪威 | 1971– | logic-massexpress；abstract-objects | 无通行汉名，保留英文原名（复数逻辑）；凭证 2026-11-10；2026-11-13 重复行合并（旧键 `Øystein Linnebo`）；籍属/生卒联网查证：Wikidata Q8079328（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Linser, Katrin | — | 卡特琳·林泽 | 奥地利 | 1974– | epiphenomenalism | 音译（正文作“林泽”）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 133089207（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Lipman, Matthew | — | 马修·李普曼 | 美国 | 1923–2010 | children | 学界通行汉译（IAPC 创始人，儿童哲学运动发起者；与沃尔特·李普曼 Walter Lippmann 异人）；凭证 2026-11-10 | 2026-11-09 |
@@ -2630,7 +2630,7 @@
 | Luo Guanzhong | — | 罗贯中 | 中国（元末明初） | 约1330–1400 | han-dynasty | 上游自带汉字（《三国演义》作者）；籍属/生卒联网查证：Wikidata Q264517（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Luo Qinshun | — | 罗钦顺 | 中国（明） | 1465–1547 | dai-zhen | 上游自带汉字；学界通行（明代气学家）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q1877544（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Luper, Steven | — | 史蒂文·卢珀 | 美国 | 1956– | closure-epistemic | 学界通行音译（本词条作者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 139815147（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Luppicini, Rocci | — | 罗基·卢皮奇尼 | 加拿大 | — | it-moral-values | 学界通行音译（技术伦理）；凭证 2026-11-10 | 2026-11-10 |
+| Luppicini, Rocci | — | 罗基·卢皮奇尼 | 加拿大 | 1970– | it-moral-values | 学界通行音译（技术伦理）；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q93238524（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Luria, Isaac | — | 以撒·卢里亚 | 奥斯曼帝国（萨法德） | 1534–1572 | scholem | 学界通行汉译（萨法德卡巴拉；与 Luria, Solomon 异人）；凭证 2026-11-08 | 2026-11-08 |
 | Luria, Solomon | — | 卢里亚 | 波兰／犹太哲学 | 1510–1573 | democritus | 学界通例（俄国古典学者；正文以姓行文）；籍属/生卒联网查证：Wikidata Q83960（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Luther, Martin | — | 马丁·路德 | 德国 | 1483–1546 | erasmus | 学界惯例（宗教改革研究通行汉译）；籍属/生卒联网查证：Wikidata Q9554（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -2657,7 +2657,7 @@
 | MacColl, Hugh | — | Hugh MacColl | 英国（苏格兰） | 1837–1909 | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q3709817（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Macdonald, Kate | — | 凯特·麦克唐纳 | 英国 | 1964– | global-democracy | 音译（全球治理研究）；籍属/生卒联网查证：GND 规范标目 gnd 1033272663（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Macdonald, Terry | — | 特里·麦克唐纳 | — | — | global-democracy | 音译（全球治理研究）；与 Kate Macdonald 分列 | 2026-11-12 |
-| Macedo, Stephen | — | 斯蒂芬·马塞多 | 美国 | — | global-democracy | 音译（政治理论家） | 2026-11-12 |
+| Macedo, Stephen | — | 斯蒂芬·马塞多 | 美国 | 1957– | global-democracy | 音译（政治理论家）；籍属/生卒联网查证：Wikidata Q7609872（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | MacFarlane, John / John MacFarlane | — | John MacFarlane | 美国 | 1967– | 语料回收（全目录）；logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `John MacFarlane`）；籍属/生卒联网查证：Wikidata Q15821559（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Mach, Ernst | — | 恩斯特·马赫 | 奥地利 | 1838–1916 | bodily-awareness | 学界千年通行汉译（物理学家、哲学家）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118575767（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Machiavelli, Niccolò | Niccolò Machiavelli | 尼科洛·马基雅维利 | 意大利（佛罗伦萨） | 1469–1527 | justus-lipsius | 学界千年通行；籍属/生卒联网查证：Wikidata Q1399（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
