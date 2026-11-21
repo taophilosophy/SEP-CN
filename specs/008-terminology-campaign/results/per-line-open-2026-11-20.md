@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 1930，FLAG 699，FIX 24，MERGE 4
+判定分布：KEEP 2098，FLAG 702，FIX 29，MERGE 4
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -406,29 +406,37 @@
 - **Isaiah**（行 3230，现译「《以赛亚书》」）｜ FLAG ｜ 双指：《以赛亚书》（首现 saadya）与以赛亚·伯林（三处用语皆 Isaiah Berlin 人名）；须分行
 - **isonomia**（行 3239，现译「平等（政治隐喻中指各种力量的均等）」）｜ FLAG ｜ 主译撞形：“平等”同时对应 equality；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **jawhar**（行 3268，现译「实体（凯拉姆原子实体）」）｜ FLAG ｜ 主译撞形：“实体”同时对应 dravya、entity、substance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **jing**（行 3273，现译「敬（reverence 敬；涵主一无适、警觉专注；学界亦建议 mindfulness 正念）」）｜ FLAG ｜ 用语抓错：daoism-religion:182 为 Daode jing 之“经”，非朱熹主敬之“敬”（首现 zhu-xi 义）；须重抓用语
 - **jingshen**（行 3274，现译「精神」）｜ FLAG ｜ 主译撞形：“精神”同时对应 Geist；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **jīva**（行 3278，现译「自我（命我）」）｜ FLAG ｜ 主译撞形：“自我”同时对应 ātman；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **jñāna**（行 3279，现译「认知」）｜ FLAG ｜ 主译撞形：“认知”同时对应 buddhi、cognitio、cognition、cognizing (Erkennen)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **jus**（行 3301，现译「拉丁原文保留（法律的正当性）」）｜ FLAG ｜ 主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、lex、respublica、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **justified true belief**（行 3309，现译「被证成的真信念（亦作“证成的真信念”）」）｜ FLAG ｜ 主译撞形：“被证成的真信念”同时对应 justified true belief（JTB）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **justified true belief（JTB）**（行 3310，现译「被证成的真信念」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **justified true belief（JTB）**（行 3310，现译「被证成的真信念」）｜ FLAG ｜ 与 justified true belief 行（行 3309）同概念两行（有无 JTB 括注），须合键
 - **Kabbala**（行 3316，现译「卡巴拉」）｜ FLAG ｜ 主译撞形：“卡巴拉”同时对应 Kabbalah；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Kabbalah**（行 3317，现译「卡巴拉」）｜ FLAG ｜ 主译撞形：“卡巴拉”同时对应 Kabbala；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Kabbalah**（行 3317，现译「卡巴拉」）｜ FLAG ｜ 与 Kabbala 行（行 3316）异拼同译“卡巴拉”，须合键
 - **kāla**（行 3323，现译「时（时间）」）｜ FLAG ｜ 主译撞形：“时”同时对应 shi (timeliness)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **kalima**（行 3325，现译「词（逻各斯）」）｜ FLAG ｜ 主译撞形：“词”同时对应 pada；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Kanhwa Sŏn（看話禪）**（行 3327，现译「看话禅」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **karma**（行 3340，现译「业」）｜ FLAG ｜ 主译撞形：“业”同时对应 karma（佛教业报义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **karma（佛教业报义）**（行 3343，现译「业」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **karma（胜论句义）**（行 3344，现译「运动（业）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **kata**（行 3350，现译「型（形）」）｜ FLAG ｜ 用语三处为希腊语介词 kata／人名 Katarzyna，非首现 japanese-aesthetic 之日语“型”义；须重抓用语
 - **kinêsis**（行 3372，现译「运动（希腊语境）」）｜ FLAG ｜ 主译撞形：“运动”同时对应 karma（胜论句义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **kishin**（行 3378，现译「鬼神（平田学派：有意志与力量的灵）」）｜ FLAG ｜ 主译撞形：“鬼神”同时对应 gui-shen；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Kleene–Mostowski hierarchy**（行 3381，现译「Kleene–Mostowski 层级」）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：Kleene–Mostowski → Kleene—Mostowski
+- **knowledge-how**（行 3396，现译「知识-如何」）｜ FIX ｜ 连接号按 ADR-0041 一字线：知识-如何 → 知识—如何（与 knowledge—that 联动）
+- **knowledge-that**（行 3397，现译「知识-那」）｜ FIX ｜ 连接号按 ADR-0041 一字线：知识-那 → 知识—那
+- **Kochen-Specker**（行 3398，现译「科亨-施佩克尔」）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：科亨-施佩克尔 → 科亨—施佩克尔（与 KS Theorem 行联动）
+- **Kochen-Specker theorem**（行 3399，现译「科亨-施佩克尔定理」）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：科亨-施佩克尔定理 → 科亨—施佩克尔定理
 - **koinai ennoiai (common notions)**（行 3400，现译「共同观念（首现括注原文）（亦作“常识”）」）｜ FLAG ｜ 亦作“常识”与 common sense 的主译撞形；删该亦作或改主译
 - **kongjŏk yŏngji（空寂靈知）**（行 3406，现译「空寂灵知」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **lakṣaṇa**（行 3429，现译「定义（相）」）｜ FLAG ｜ 主译撞形：“定义”同时对应 definition、ḥadd、taʿārīf；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **law of excluded middle**（行 3454，现译「排中律」）｜ FLAG ｜ 主译撞形：“排中律”同时对应 law of the excluded middle；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **law of the excluded middle**（行 3458，现译「排中律」）｜ FLAG ｜ 主译撞形：“排中律”同时对应 law of excluded middle；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **law of the excluded middle**（行 3458，现译「排中律」）｜ FLAG ｜ 与 law of excluded middle 行（行 3454）同译“排中律”（the 有无两形），须合键
 - **lawāzim**（行 3460，现译「伴随项（必然非本质谓项）」）｜ FLAG ｜ 主译撞形：“伴随项”同时对应 concomitant；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **laws of nature**（行 3464，现译「自然法（亦作“自然律”）」）｜ FLAG ｜ 主译撞形：“自然法”同时对应 natural law；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **lawlike / lawfulness**（行 3463，现译「律性的／律性」）｜ FLAG ｜ 与 lawlike 行（行 3462）同词两行译法不一（合规律的／律性的）；lawfulness 通行“合律性”，须合键或统一
+- **laws of nature**（行 3464，现译「自然法（亦作“自然律”）」）｜ FLAG ｜ 现译“自然法”与法哲学 natural law（自然法）大撞形；科学哲学通行作“自然律／自然法则”，须改译并联动排查相关行
 - **least upper bound**（行 3472，现译「最小上界（亦作“上确界”）」）｜ FLAG ｜ 亦作“上确界”与 supremum 的主译撞形；删该亦作或改主译
 - **lex**（行 3501，现译「拉丁原文保留（法律）」）｜ FLAG ｜ 主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、respublica、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **liability**（行 3508，现译「责任」）｜ FLAG ｜ 主译撞形：“责任”同时对应 responsibility；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并

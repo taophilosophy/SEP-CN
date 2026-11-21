@@ -2329,30 +2329,206 @@
 {"key": "ʿilm al-nafs", "line": 3251, "v": "KEEP", "zh": "灵魂之学", "orig": "علم النفس", "note": null, "sheet": "r11"}
 {"key": "ʿirfān", "line": 3252, "v": "KEEP", "zh": "灵知论", "orig": "عرفان", "note": null, "sheet": "r11"}
 {"key": "jabr", "line": 3258, "v": "KEEP", "zh": "前定论（jabrī 前定论者）", "orig": "جبر", "note": null, "sheet": "r11"}
-{"key": "jawhar", "line": 3268, "v": "FLAG", "zh": "实体（凯拉姆原子实体）", "orig": "جوهر", "note": "主译撞形：“实体”同时对应 dravya、entity、substance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "jingshen", "line": 3274, "v": "FLAG", "zh": "精神", "orig": "精神", "note": "主译撞形：“精神”同时对应 Geist；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "jīva", "line": 3278, "v": "FLAG", "zh": "自我（命我）", "orig": "जीव", "note": "主译撞形：“自我”同时对应 ātman；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "jñāna", "line": 3279, "v": "FLAG", "zh": "认知", "orig": "ज्ञान", "note": "主译撞形：“认知”同时对应 buddhi、cognitio、cognition、cognizing (Erkennen)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "jus", "line": 3301, "v": "FLAG", "zh": "拉丁原文保留（法律的正当性）", "orig": "jus", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、lex、respublica、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "justified true belief", "line": 3309, "v": "FLAG", "zh": "被证成的真信念（亦作“证成的真信念”）", "orig": "—", "note": "主译撞形：“被证成的真信念”同时对应 justified true belief（JTB）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "justified true belief（JTB）", "line": 3310, "v": "FLAG", "zh": "被证成的真信念", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "Kabbala", "line": 3316, "v": "FLAG", "zh": "卡巴拉", "orig": "—", "note": "主译撞形：“卡巴拉”同时对应 Kabbalah；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Kabbalah", "line": 3317, "v": "FLAG", "zh": "卡巴拉", "orig": "—", "note": "主译撞形：“卡巴拉”同时对应 Kabbala；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "kāla", "line": 3323, "v": "FLAG", "zh": "时（时间）", "orig": "काल", "note": "主译撞形：“时”同时对应 shi (timeliness)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "kalima", "line": 3325, "v": "FLAG", "zh": "词（逻各斯）", "orig": "—", "note": "主译撞形：“词”同时对应 pada；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Kanhwa Sŏn（看話禪）", "line": 3327, "v": "FLAG", "zh": "看话禅", "orig": "看話禪", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "karma", "line": 3340, "v": "FLAG", "zh": "业", "orig": "कर्म", "note": "主译撞形：“业”同时对应 karma（佛教业报义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "karma（佛教业报义）", "line": 3343, "v": "FLAG", "zh": "业", "orig": "कर्म", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "karma（胜论句义）", "line": 3344, "v": "FLAG", "zh": "运动（业）", "orig": "कर्म", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "kinêsis", "line": 3372, "v": "FLAG", "zh": "运动（希腊语境）", "orig": "κίνησις", "note": "主译撞形：“运动”同时对应 karma（胜论句义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "kishin", "line": 3378, "v": "FLAG", "zh": "鬼神（平田学派：有意志与力量的灵）", "orig": "鬼神", "note": "主译撞形：“鬼神”同时对应 gui-shen；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "koinai ennoiai (common notions)", "line": 3400, "v": "FLAG", "zh": "共同观念（首现括注原文）（亦作“常识”）", "orig": "κοιναὶ ἔννοιαι", "note": "亦作“常识”与 common sense 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
-{"key": "kongjŏk yŏngji（空寂靈知）", "line": 3406, "v": "FLAG", "zh": "空寂灵知", "orig": "空寂靈知", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "lakṣaṇa", "line": 3429, "v": "FLAG", "zh": "定义（相）", "orig": "लक्षण", "note": "主译撞形：“定义”同时对应 definition、ḥadd、taʿārīf；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "law of excluded middle", "line": 3454, "v": "FLAG", "zh": "排中律", "orig": "—", "note": "主译撞形：“排中律”同时对应 law of the excluded middle；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "law of the excluded middle", "line": 3458, "v": "FLAG", "zh": "排中律", "orig": "—", "note": "主译撞形：“排中律”同时对应 law of excluded middle；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "lawāzim", "line": 3460, "v": "FLAG", "zh": "伴随项（必然非本质谓项）", "orig": "لوازم", "note": "主译撞形：“伴随项”同时对应 concomitant；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "laws of nature", "line": 3464, "v": "FLAG", "zh": "自然法（亦作“自然律”）", "orig": "—", "note": "主译撞形：“自然法”同时对应 natural law；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "Jacobi identity", "line": 3259, "v": "KEEP", "zh": "雅可比恒等式", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Jacobin", "line": 3260, "v": "KEEP", "zh": "雅各宾（亦作“雅各宾派”）", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "jāhiliyya", "line": 3261, "v": "KEEP", "zh": "蒙昧", "orig": "جاهلية", "note": null, "sheet": "r12"}
+{"key": "Jalali calendar", "line": 3262, "v": "KEEP", "zh": "贾拉利历", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "janamsakhi", "line": 3263, "v": "KEEP", "zh": "生平传", "orig": "janamsākhī", "note": null, "sheet": "r12"}
+{"key": "Japanese aesthetics", "line": 3264, "v": "KEEP", "zh": "日本美学", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "jāti", "line": 3265, "v": "KEEP", "zh": "类（普遍）", "orig": "जाति", "note": null, "sheet": "r12"}
+{"key": "jāti-bādhaka", "line": 3266, "v": "KEEP", "zh": "类障", "orig": "जातिबाधक", "note": null, "sheet": "r12"}
+{"key": "jāti-viśiṣṭa-vyakti", "line": 3267, "v": "KEEP", "zh": "被类所限定的个体（类所限个体）", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "jawhar", "line": 3268, "v": "FLAG", "zh": "实体（凯拉姆原子实体）", "orig": "جوهر", "note": "主译撞形：“实体”同时对应 dravya、entity、substance；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "Jeffrey conditionalization", "line": 3269, "v": "KEEP", "zh": "杰弗里条件化", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Jian An", "line": 3270, "v": "KEEP", "zh": "建安", "orig": "建安", "note": null, "sheet": "r12"}
+{"key": "jimi", "line": 3271, "v": "KEEP", "zh": "素雅", "orig": "地味", "note": null, "sheet": "r12"}
+{"key": "Jina", "line": 3272, "v": "KEEP", "zh": "耆那（胜者）", "orig": "जिन", "note": null, "sheet": "r12"}
+{"key": "jing", "line": 3273, "v": "FLAG", "zh": "敬（reverence 敬；涵主一无适、警觉专注；学界亦建议 mindfulness 正念）", "orig": "敬", "note": "用语抓错：daoism-religion:182 为 Daode jing 之“经”，非朱熹主敬之“敬”（首现 zhu-xi 义）；须重抓用语", "sheet": "r12"}
+{"key": "jingshen", "line": 3274, "v": "FLAG", "zh": "精神", "orig": "精神", "note": "主译撞形：“精神”同时对应 Geist；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "Jinsilu", "line": 3275, "v": "KEEP", "zh": "《近思录》", "orig": "《近思录》", "note": null, "sheet": "r12"}
+{"key": "jishō hosshin", "line": 3276, "v": "KEEP", "zh": "自证法身", "orig": "自証法身", "note": null, "sheet": "r12"}
+{"key": "jism", "line": 3277, "v": "KEEP", "zh": "物体", "orig": "جسم", "note": null, "sheet": "r12"}
+{"key": "jīva", "line": 3278, "v": "FLAG", "zh": "自我（命我）", "orig": "जीव", "note": "主译撞形：“自我”同时对应 ātman；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "jñāna", "line": 3279, "v": "FLAG", "zh": "认知", "orig": "ज्ञान", "note": "主译撞形：“认知”同时对应 buddhi、cognitio、cognition、cognizing (Erkennen)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "jñāna-lakṣaṇā-pratyāsatti", "line": 3280, "v": "KEEP", "zh": "识相连接", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Jñānasārasamuccaya", "line": 3281, "v": "KEEP", "zh": "《智心髓集》", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Job", "line": 3282, "v": "KEEP", "zh": "《约伯记》", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "jocular conditional", "line": 3283, "v": "KEEP", "zh": "玩笑式条件句", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "jōhin", "line": 3284, "v": "KEEP", "zh": "上品", "orig": "上品", "note": null, "sheet": "r12"}
+{"key": "Johns Hopkins University", "line": 3285, "v": "KEEP", "zh": "约翰斯·霍普金斯大学", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "join semi-lattice", "line": 3286, "v": "KEEP", "zh": "并半格", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "joint intention", "line": 3287, "v": "KEEP", "zh": "联合意图", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "joint intentionality", "line": 3288, "v": "KEEP", "zh": "共同意向性", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "joint probability", "line": 3289, "v": "KEEP", "zh": "联合概率", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Judaism", "line": 3290, "v": "KEEP", "zh": "犹太教", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "judgment aggregation", "line": 3291, "v": "KEEP", "zh": "判断聚合", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "judgment of beauty", "line": 3292, "v": "KEEP", "zh": "美的判断", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "judgment of taste", "line": 3293, "v": "KEEP", "zh": "趣味判断", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "judgment set", "line": 3294, "v": "KEEP", "zh": "判断集", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "judicial astrology", "line": 3295, "v": "KEEP", "zh": "判命占星术", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "jūdō", "line": 3296, "v": "KEEP", "zh": "柔道", "orig": "柔道", "note": null, "sheet": "r12"}
+{"key": "junzi", "line": 3297, "v": "KEEP", "zh": "君子", "orig": "君子", "note": null, "sheet": "r12"}
+{"key": "jural", "line": 3298, "v": "KEEP", "zh": "法权的", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "juridicalisation of politics", "line": 3299, "v": "KEEP", "zh": "政治的司法化", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "jury theorem", "line": 3300, "v": "KEEP", "zh": "陪审团定理", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "jus", "line": 3301, "v": "FLAG", "zh": "拉丁原文保留（法律的正当性）", "orig": "jus", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、lex、respublica、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "Just Assassins", "line": 3302, "v": "KEEP", "zh": "《正义者》", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "just distance", "line": 3303, "v": "KEEP", "zh": "公正距离", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "just war doctrine", "line": 3304, "v": "KEEP", "zh": "正义战争学说", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "justice sensitivity", "line": 3305, "v": "KEEP", "zh": "正义敏感性", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "justicism", "line": 3306, "v": "KEEP", "zh": "公正主义", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Justification", "line": 3307, "v": "KEEP", "zh": "证成（认识论语境）；辩护（行动语境）", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "justificatory device", "line": 3308, "v": "KEEP", "zh": "证成装置", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "justified true belief", "line": 3309, "v": "FLAG", "zh": "被证成的真信念（亦作“证成的真信念”）", "orig": "—", "note": "主译撞形：“被证成的真信念”同时对应 justified true belief（JTB）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "justified true belief（JTB）", "line": 3310, "v": "FLAG", "zh": "被证成的真信念", "orig": "—", "note": "与 justified true belief 行（行 3309）同概念两行（有无 JTB 括注），须合键", "sheet": "r12"}
+{"key": "Kabbala", "line": 3316, "v": "FLAG", "zh": "卡巴拉", "orig": "—", "note": "主译撞形：“卡巴拉”同时对应 Kabbalah；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "Kabbalah", "line": 3317, "v": "FLAG", "zh": "卡巴拉", "orig": "—", "note": "与 Kabbala 行（行 3316）异拼同译“卡巴拉”，须合键", "sheet": "r12"}
+{"key": "Kaddish", "line": 3318, "v": "KEEP", "zh": "卡杜什（Kaddish）", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kadō", "line": 3319, "v": "KEEP", "zh": "花道", "orig": "華道", "note": null, "sheet": "r12"}
+{"key": "kakemono", "line": 3320, "v": "KEEP", "zh": "挂轴（掛物）", "orig": "掛物", "note": null, "sheet": "r12"}
+{"key": "kakology", "line": 3321, "v": "KEEP", "zh": "恶论", "orig": "κακολογία", "note": null, "sheet": "r12"}
+{"key": "kakuriyo / yūmeikai", "line": 3322, "v": "KEEP", "zh": "隐世/幽冥界", "orig": "幽り世", "note": null, "sheet": "r12"}
+{"key": "kāla", "line": 3323, "v": "FLAG", "zh": "时（时间）", "orig": "काल", "note": "主译撞形：“时”同时对应 shi (timeliness)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "kalām", "line": 3324, "v": "KEEP", "zh": "凯拉姆；伊斯兰教义学（直音译与意译并存；勿泛译“神学”）", "orig": "كلام", "note": null, "sheet": "r12"}
+{"key": "kalima", "line": 3325, "v": "FLAG", "zh": "词（逻各斯）", "orig": "—", "note": "主译撞形：“词”同时对应 pada；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "kalokagathos", "line": 3326, "v": "KEEP", "zh": "美善合一（亦作“美且善者”）", "orig": "καλοκἀγαθός", "note": null, "sheet": "r12"}
+{"key": "Kanhwa Sŏn（看話禪）", "line": 3327, "v": "FLAG", "zh": "看话禅", "orig": "看話禪", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r12"}
+{"key": "kannagara", "line": 3328, "v": "KEEP", "zh": "随神而行", "orig": "随神", "note": null, "sheet": "r12"}
+{"key": "Kanon (Epicurus)", "line": 3329, "v": "KEEP", "zh": "《规范》", "orig": "Κανών", "note": null, "sheet": "r12"}
+{"key": "Kantianism", "line": 3330, "v": "KEEP", "zh": "康德主义", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kaozhengxue", "line": 3331, "v": "KEEP", "zh": "考证学", "orig": "考證學", "note": null, "sheet": "r12"}
+{"key": "kapi-samyoga", "line": 3332, "v": "KEEP", "zh": "与猴相触", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kara-e", "line": 3333, "v": "KEEP", "zh": "唐绘", "orig": "唐絵", "note": null, "sheet": "r12"}
+{"key": "karagokoro", "line": 3334, "v": "KEEP", "zh": "汉意", "orig": "漢意（からごころ）", "note": null, "sheet": "r12"}
+{"key": "Karaite", "line": 3335, "v": "KEEP", "zh": "卡拉派", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kāraka", "line": 3336, "v": "KEEP", "zh": "作业格", "orig": "कारक", "note": null, "sheet": "r12"}
+{"key": "karaṇa", "line": 3337, "v": "KEEP", "zh": "特殊工具因", "orig": "करण", "note": null, "sheet": "r12"}
+{"key": "kare", "line": 3338, "v": "KEEP", "zh": "枯（枯萎）", "orig": "枯", "note": null, "sheet": "r12"}
+{"key": "karesansui", "line": 3339, "v": "KEEP", "zh": "枯山水", "orig": "枯山水", "note": null, "sheet": "r12"}
+{"key": "karma", "line": 3340, "v": "FLAG", "zh": "业", "orig": "कर्म", "note": "主译撞形：“业”同时对应 karma（佛教业报义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "karman", "line": 3341, "v": "KEEP", "zh": "所作业", "orig": "कर्मन्", "note": null, "sheet": "r12"}
+{"key": "Karmasiddhiprakaraṇa", "line": 3342, "v": "KEEP", "zh": "《大乘成业论》", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "karma（佛教业报义）", "line": 3343, "v": "FLAG", "zh": "业", "orig": "कर्म", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r12"}
+{"key": "karma（胜论句义）", "line": 3344, "v": "FLAG", "zh": "运动（业）", "orig": "कर्म", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r12"}
+{"key": "Karp partial isomorphism theorem", "line": 3345, "v": "KEEP", "zh": "Karp 部分同构定理", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Karrāmite", "line": 3346, "v": "KEEP", "zh": "卡拉米派", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kartṛ", "line": 3347, "v": "KEEP", "zh": "作业者", "orig": "कर्तृ", "note": null, "sheet": "r12"}
+{"key": "kartṛ-janyatva", "line": 3348, "v": "KEEP", "zh": "有作者性", "orig": "कर्तृजन्यत्व", "note": null, "sheet": "r12"}
+{"key": "kāryatva", "line": 3349, "v": "KEEP", "zh": "果性", "orig": "कार्यत्व", "note": null, "sheet": "r12"}
+{"key": "kata", "line": 3350, "v": "FLAG", "zh": "型（形）", "orig": "型", "note": "用语三处为希腊语介词 kata／人名 Katarzyna，非首现 japanese-aesthetic 之日语“型”义；须重抓用语", "sheet": "r12"}
+{"key": "katanakake", "line": 3351, "v": "KEEP", "zh": "刀挂", "orig": "刀掛け", "note": null, "sheet": "r12"}
+{"key": "kayfiyya", "line": 3352, "v": "KEEP", "zh": "样式", "orig": "كيفية", "note": null, "sheet": "r12"}
+{"key": "Kemeny rule", "line": 3353, "v": "KEEP", "zh": "凯梅尼规则", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kenodoxia", "line": 3354, "v": "KEEP", "zh": "空洞信念（亦作“虚妄意见”）", "orig": "κενοδοξία", "note": null, "sheet": "r12"}
+{"key": "kenon", "line": 3355, "v": "KEEP", "zh": "空腔", "orig": "κενόν", "note": null, "sheet": "r12"}
+{"key": "kensho", "line": 3356, "v": "KEEP", "zh": "见性（保留拉丁 kensho）", "orig": "見性", "note": null, "sheet": "r12"}
+{"key": "kernel function", "line": 3357, "v": "KEEP", "zh": "核函数", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kerygmatic theology", "line": 3358, "v": "KEEP", "zh": "宣道神学", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kevala-vyatirekin", "line": 3359, "v": "KEEP", "zh": "全异转", "orig": "केवलव्यतिरेकिन्", "note": null, "sheet": "r12"}
+{"key": "kevalābhāva", "line": 3360, "v": "KEEP", "zh": "纯非存在（唯无）", "orig": "केवलाभाव", "note": null, "sheet": "r12"}
+{"key": "kevalānvayin", "line": 3361, "v": "KEEP", "zh": "全同转（亦作“纯同”）", "orig": "केवलान्वयिन्", "note": null, "sheet": "r12"}
+{"key": "key distribution", "line": 3362, "v": "KEEP", "zh": "密钥分发", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "khabar", "line": 3363, "v": "KEEP", "zh": "传述", "orig": "خبر", "note": null, "sheet": "r12"}
+{"key": "khamr", "line": 3364, "v": "KEEP", "zh": "酒（葡萄酒）", "orig": "خمر", "note": null, "sheet": "r12"}
+{"key": "khara", "line": 3365, "v": "KEEP", "zh": "喜", "orig": "χαρά", "note": null, "sheet": "r12"}
+{"key": "Khwārazm-Shāh", "line": 3366, "v": "KEEP", "zh": "花剌子模沙（亦作“花拉子模沙”）", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kidney exchange", "line": 3367, "v": "KEEP", "zh": "肾脏交换（亦作“配对交换”）", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kin selection", "line": 3368, "v": "KEEP", "zh": "亲缘选择", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kindness", "line": 3369, "v": "KEEP", "zh": "善意", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kinêmata", "line": 3370, "v": "KEEP", "zh": "跳跃", "orig": "κινήματα", "note": null, "sheet": "r12"}
+{"key": "kinematic relativity", "line": 3371, "v": "KEEP", "zh": "运动学相对论", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kinêsis", "line": 3372, "v": "FLAG", "zh": "运动（希腊语境）", "orig": "κίνησις", "note": "主译撞形：“运动”同时对应 karma（胜论句义）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "kinetic energy", "line": 3373, "v": "KEEP", "zh": "动能", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "kinetic pleasure", "line": 3374, "v": "KEEP", "zh": "动态快乐", "orig": "κινητικὴ ἡδονή", "note": null, "sheet": "r12"}
+{"key": "kire", "line": 3375, "v": "KEEP", "zh": "切（きれ）", "orig": "切", "note": null, "sheet": "r12"}
+{"key": "kire-tsuzuki", "line": 3376, "v": "KEEP", "zh": "切续", "orig": "切れ続き", "note": null, "sheet": "r12"}
+{"key": "kireji", "line": 3377, "v": "KEEP", "zh": "切字", "orig": "切字", "note": null, "sheet": "r12"}
+{"key": "kishin", "line": 3378, "v": "FLAG", "zh": "鬼神（平田学派：有意志与力量的灵）", "orig": "鬼神", "note": "主译撞形：“鬼神”同时对应 gui-shen；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "Kitāb al-ḥurūf", "line": 3379, "v": "KEEP", "zh": "《字母之书》（法拉比著；亦译《论字母》）", "orig": "كتاب الحروف", "note": null, "sheet": "r12"}
+{"key": "KK principle", "line": 3380, "v": "KEEP", "zh": "KK 原则", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Kleene–Mostowski hierarchy", "line": 3381, "v": "FIX", "zh": "Kleene–Mostowski 层级", "orig": "—", "note": "人名连接号按 ADR-0041 一字线：Kleene–Mostowski → Kleene—Mostowski", "sheet": "r12"}
+{"key": "Kleinstaat", "line": 3382, "v": "KEEP", "zh": "小邦国", "orig": "Kleinstaat", "note": null, "sheet": "r12"}
+{"key": "kleśa", "line": 3383, "v": "KEEP", "zh": "烦恼", "orig": "क्लेश", "note": null, "sheet": "r12"}
+{"key": "kliṣṭamanas", "line": 3384, "v": "KEEP", "zh": "染污意（末那识）", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "knack", "line": 3385, "v": "KEEP", "zh": "诀窍", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Knobe effect", "line": 3386, "v": "KEEP", "zh": "诺布效应（亦作“副作用效应”）", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "knockout", "line": 3387, "v": "KEEP", "zh": "敲除", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "knowledge acquisition", "line": 3388, "v": "KEEP", "zh": "知识获取", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "knowledge argument", "line": 3389, "v": "KEEP", "zh": "知识论证", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "knowledge base", "line": 3390, "v": "KEEP", "zh": "知识库", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "knowledge first", "line": 3391, "v": "KEEP", "zh": "知识优先", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "knowledge fusion", "line": 3392, "v": "KEEP", "zh": "知识融合", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "knowledge graph", "line": 3393, "v": "KEEP", "zh": "知识图谱", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "knowledge representation", "line": 3394, "v": "KEEP", "zh": "知识表示", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "knowledge-conferring situation", "line": 3395, "v": "KEEP", "zh": "授知情境", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "knowledge-how", "line": 3396, "v": "FIX", "zh": "知识-如何", "orig": "—", "note": "连接号按 ADR-0041 一字线：知识-如何 → 知识—如何（与 knowledge—that 联动）", "sheet": "r12"}
+{"key": "knowledge-that", "line": 3397, "v": "FIX", "zh": "知识-那", "orig": "—", "note": "连接号按 ADR-0041 一字线：知识-那 → 知识—那", "sheet": "r12"}
+{"key": "Kochen-Specker", "line": 3398, "v": "FIX", "zh": "科亨-施佩克尔", "orig": "—", "note": "人名连接号按 ADR-0041 一字线：科亨-施佩克尔 → 科亨—施佩克尔（与 KS Theorem 行联动）", "sheet": "r12"}
+{"key": "Kochen-Specker theorem", "line": 3399, "v": "FIX", "zh": "科亨-施佩克尔定理", "orig": "—", "note": "人名连接号按 ADR-0041 一字线：科亨-施佩克尔定理 → 科亨—施佩克尔定理", "sheet": "r12"}
+{"key": "koinai ennoiai (common notions)", "line": 3400, "v": "FLAG", "zh": "共同观念（首现括注原文）（亦作“常识”）", "orig": "κοιναὶ ἔννοιαι", "note": "亦作“常识”与 common sense 的主译撞形；删该亦作或改主译", "sheet": "r12"}
+{"key": "kokugaku", "line": 3401, "v": "KEEP", "zh": "国学（日本本土研究传统）", "orig": "国学", "note": null, "sheet": "r12"}
+{"key": "Kokugakusha", "line": 3402, "v": "KEEP", "zh": "国学者", "orig": "国学者", "note": null, "sheet": "r12"}
+{"key": "kokutai", "line": 3403, "v": "KEEP", "zh": "国体", "orig": "国体", "note": null, "sheet": "r12"}
+{"key": "Kolmogorov complexity", "line": 3404, "v": "KEEP", "zh": "柯尔莫哥洛夫复杂性", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Kong Congzi", "line": 3405, "v": "KEEP", "zh": "《孔丛子》", "orig": "孔叢子", "note": null, "sheet": "r12"}
+{"key": "kongjŏk yŏngji（空寂靈知）", "line": 3406, "v": "FLAG", "zh": "空寂灵知", "orig": "空寂靈知", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r12"}
+{"key": "Kongōchōgyō", "line": 3407, "v": "KEEP", "zh": "《金刚顶经》", "orig": "金剛頂経", "note": null, "sheet": "r12"}
+{"key": "Kongōkai mandara / Vajradhātu", "line": 3408, "v": "KEEP", "zh": "金刚界曼荼罗", "orig": "金剛界曼荼羅", "note": null, "sheet": "r12"}
+{"key": "Kongzi Jiayu", "line": 3409, "v": "KEEP", "zh": "《孔子家语》", "orig": "孔子家語", "note": null, "sheet": "r12"}
+{"key": "kosmos", "line": 3410, "v": "KEEP", "zh": "世界秩序（宇宙）", "orig": "kosmos", "note": null, "sheet": "r12"}
+{"key": "Kraftübertragung", "line": 3411, "v": "KEEP", "zh": "力量传递", "orig": "Kraftübertragung", "note": null, "sheet": "r12"}
+{"key": "Krein–Milman theorem", "line": 3412, "v": "KEEP", "zh": "克莱因—米尔曼定理", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Kripke model", "line": 3413, "v": "KEEP", "zh": "克里普克模型", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Kripke structure", "line": 3414, "v": "KEEP", "zh": "克里普克结构", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Kripke's schema", "line": 3415, "v": "KEEP", "zh": "克里普克图式（亦作“克里普克模式”）", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Krogh organism", "line": 3416, "v": "KEEP", "zh": "Krogh 生物", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "KS Theorem", "line": 3417, "v": "KEEP", "zh": "KS 定理", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Kuriai Doxai (Principal Doctrines)", "line": 3418, "v": "KEEP", "zh": "《主要学说》（亦作“主要原理”）", "orig": "Κύριαι Δόξαι", "note": null, "sheet": "r12"}
+{"key": "kuzah", "line": 3419, "v": "KEEP", "zh": "陶壶", "orig": "كوزه", "note": null, "sheet": "r12"}
+{"key": "kyūdō", "line": 3420, "v": "KEEP", "zh": "弓道", "orig": "弓道", "note": null, "sheet": "r12"}
+{"key": "La Géométrie", "line": 3426, "v": "KEEP", "zh": "《几何学》（笛卡尔）", "orig": "La Géométrie", "note": null, "sheet": "r12"}
+{"key": "labeled transition system", "line": 3427, "v": "KEEP", "zh": "标记转移系统", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "laissez-faire", "line": 3428, "v": "KEEP", "zh": "自由放任", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "lakṣaṇa", "line": 3429, "v": "FLAG", "zh": "定义（相）", "orig": "लक्षण", "note": "主译撞形：“定义”同时对应 definition、ḥadd、taʿārīf；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "Lamarckism", "line": 3430, "v": "KEEP", "zh": "拉马克主义", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Lambek calculus", "line": 3431, "v": "KEEP", "zh": "Lambek 演算", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Lamdre", "line": 3432, "v": "KEEP", "zh": "道果", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "lamina", "line": 3433, "v": "KEEP", "zh": "薄膜", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "landscape model", "line": 3434, "v": "KEEP", "zh": "景观模式", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Landstandschaft", "line": 3435, "v": "KEEP", "zh": "邦等级权（保留德文）", "orig": "Landstandschaft", "note": null, "sheet": "r12"}
+{"key": "language acquisition", "line": 3436, "v": "KEEP", "zh": "语言习得", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "language-game", "line": 3437, "v": "KEEP", "zh": "语言游戏", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Laṅkāvatāra Sūtra", "line": 3438, "v": "KEEP", "zh": "《楞伽经》", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Laozi / Lao Tzu", "line": 3439, "v": "KEEP", "zh": "《老子》", "orig": "老子", "note": null, "sheet": "r12"}
+{"key": "large cardinal / Large Cardinals", "line": 3440, "v": "KEEP", "zh": "大基数", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "large number argument", "line": 3441, "v": "KEEP", "zh": "大数论证", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "late capitalism", "line": 3442, "v": "KEEP", "zh": "晚期资本主义", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "latency", "line": 3443, "v": "KEEP", "zh": "潜隐", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Latin America", "line": 3444, "v": "KEEP", "zh": "拉丁美洲", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Latin Averroism", "line": 3445, "v": "KEEP", "zh": "拉丁阿威罗伊主义", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Latin Logic", "line": 3446, "v": "KEEP", "zh": "《拉丁逻辑学》（沃尔夫 1728 Philosophia rationalis sive logica）", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Latin West", "line": 3447, "v": "KEEP", "zh": "拉丁西方", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "latitude of forms", "line": 3448, "v": "KEEP", "zh": "形式的纬度", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "latitudo / longitudo", "line": 3449, "v": "KEEP", "zh": "纬度／经度（强度／延展）", "orig": "latitudo / longitudo", "note": null, "sheet": "r12"}
+{"key": "lattice", "line": 3450, "v": "KEEP", "zh": "格", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "latus rectum", "line": 3451, "v": "KEEP", "zh": "通径", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "law of commutativeness", "line": 3452, "v": "KEEP", "zh": "交换律", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Law of Contradiction", "line": 3453, "v": "KEEP", "zh": "矛盾律", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "law of excluded middle", "line": 3454, "v": "FLAG", "zh": "排中律", "orig": "—", "note": "主译撞形：“排中律”同时对应 law of the excluded middle；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "Law of Identity", "line": 3455, "v": "KEEP", "zh": "同一律", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "law of nations", "line": 3456, "v": "KEEP", "zh": "万民法", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Law of Simplicity", "line": 3457, "v": "KEEP", "zh": "简单律", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "law of the excluded middle", "line": 3458, "v": "FLAG", "zh": "排中律", "orig": "—", "note": "与 law of excluded middle 行（行 3454）同译“排中律”（the 有无两形），须合键", "sheet": "r12"}
+{"key": "law of the least means", "line": 3459, "v": "KEEP", "zh": "最小手段律", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "lawāzim", "line": 3460, "v": "FLAG", "zh": "伴随项（必然非本质谓项）", "orig": "لوازم", "note": "主译撞形：“伴随项”同时对应 concomitant；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r12"}
+{"key": "lawless sequence", "line": 3461, "v": "KEEP", "zh": "无规律序列（亦作“无反射序列”）", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "lawlike", "line": 3462, "v": "KEEP", "zh": "合规律的", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "lawlike / lawfulness", "line": 3463, "v": "FLAG", "zh": "律性的／律性", "orig": "—", "note": "与 lawlike 行（行 3462）同词两行译法不一（合规律的／律性的）；lawfulness 通行“合律性”，须合键或统一", "sheet": "r12"}
+{"key": "laws of nature", "line": 3464, "v": "FLAG", "zh": "自然法（亦作“自然律”）", "orig": "—", "note": "现译“自然法”与法哲学 natural law（自然法）大撞形；科学哲学通行作“自然律／自然法则”，须改译并联动排查相关行", "sheet": "r12"}
+{"key": "laws of reason", "line": 3465, "v": "KEEP", "zh": "理性律法", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "laws of revelation", "line": 3466, "v": "KEEP", "zh": "启示律法", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Laws of Thought", "line": 3467, "v": "KEEP", "zh": "思维规律", "orig": "—", "note": null, "sheet": "r12"}
+{"key": "Lazy Argument", "line": 3468, "v": "KEEP", "zh": "懒惰论证", "orig": "—", "note": null, "sheet": "r12"}
 {"key": "least upper bound", "line": 3472, "v": "FLAG", "zh": "最小上界（亦作“上确界”）", "orig": "—", "note": "亦作“上确界”与 supremum 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
 {"key": "lex", "line": 3501, "v": "FLAG", "zh": "拉丁原文保留（法律）", "orig": "lex", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、respublica、sine qua non、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "liability", "line": 3508, "v": "FLAG", "zh": "责任", "orig": "—", "note": "主译撞形：“责任”同时对应 responsibility；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
