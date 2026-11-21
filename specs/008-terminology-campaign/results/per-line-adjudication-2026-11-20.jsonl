@@ -6129,14 +6129,112 @@
 {"key": "witchcraft", "line": 7121, "v": "KEEP", "zh": "巫术", "orig": "—", "note": null, "sheet": "r30"}
 {"key": "Wittgensteinian Fideism", "line": 7122, "v": "KEEP", "zh": "维特根斯坦式信仰主义", "orig": "—", "note": null, "sheet": "r30"}
 {"key": "Wohlwollen", "line": 7123, "v": "FLAG", "zh": "仁爱", "orig": "—", "note": "主译撞形：“仁爱”同时对应 benevolence、caritas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r30"}
-{"key": "world-view", "line": 7149, "v": "FLAG", "zh": "世界观", "orig": "Weltanschauung", "note": "主译撞形：“世界观”同时对应 Weltanschauung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "wu xing", "line": 7152, "v": "FLAG", "zh": "五行", "orig": "—", "note": "主译撞形：“五行”同时对应 wuxing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "wuxing", "line": 7157, "v": "FLAG", "zh": "五行（five phases 五行；不取“五元素”）", "orig": "五行", "note": "主译撞形：“五行”同时对应 wu xing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Xingqi（性起）", "line": 7170, "v": "FLAG", "zh": "性起", "orig": "性起", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "yì", "line": 7198, "v": "FLAG", "zh": "义（義）", "orig": "義", "note": "主译撞形：“义”同时对应 artha、yi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "yi", "line": 7199, "v": "FLAG", "zh": "义（appropriateness 义；宜）", "orig": "义", "note": "主译撞形：“义”同时对应 artha、yì；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "yielding（虚空）", "line": 7201, "v": "FLAG", "zh": "让与", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "Zhonglun", "line": 7225, "v": "FLAG", "zh": "《中论》（徐干）", "orig": "中論", "note": "主译撞形：“《中论》”同时对应 Mūlamadhyamakakārikā；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "ziran", "line": 7234, "v": "FLAG", "zh": "自然（self-so）", "orig": "自然", "note": "主译撞形：“自然”同时对应 phusis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Zohar", "line": 7236, "v": "FLAG", "zh": "《光辉之书》", "orig": "—", "note": "主译撞形：“《光辉之书》”同时对应 Sefer ha-Zohar；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "zozobra", "line": 7242, "v": "FLAG", "zh": "保留原文（忧悬）", "orig": "—", "note": "主译撞形：“保留原文”同时对应 apretado、nepantla、relajiento、relajo、tarka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "Wolffianism", "line": 7124, "v": "KEEP", "zh": "沃尔夫主义", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "Wollen", "line": 7125, "v": "KEEP", "zh": "意愿", "orig": "Wollen", "note": null, "sheet": "r31"}
+{"key": "women’s experiences", "line": 7126, "v": "KEEP", "zh": "女性经验", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "Women’s Liberation", "line": 7127, "v": "KEEP", "zh": "妇女解放", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "Wontian", "line": 7128, "v": "KEEP", "zh": "不愿论", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "word association", "line": 7129, "v": "KEEP", "zh": "词语联想", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "words of first imposition", "line": 7130, "v": "KEEP", "zh": "第一重命名词", "orig": "voces primae impositionis", "note": null, "sheet": "r31"}
+{"key": "words of second imposition", "line": 7131, "v": "KEEP", "zh": "第二重命名词", "orig": "voces secundae impositionis", "note": null, "sheet": "r31"}
+{"key": "Work of Ninety Days / Opus nonaginta dierum", "line": 7132, "v": "KEEP", "zh": "《九十日之作》（首现括注拉丁名）", "orig": "Opus nonaginta dierum", "note": null, "sheet": "r31"}
+{"key": "workers (social insects)", "line": 7133, "v": "KEEP", "zh": "职虫", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "working memory", "line": 7134, "v": "KEEP", "zh": "工作记忆", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "World 2/World 3", "line": 7135, "v": "KEEP", "zh": "世界 2／世界 3", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "world citizen", "line": 7136, "v": "KEEP", "zh": "世界公民", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "world citizenship", "line": 7137, "v": "KEEP", "zh": "世界公民身份", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "world community", "line": 7138, "v": "KEEP", "zh": "世界共同体", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "world government", "line": 7139, "v": "KEEP", "zh": "世界政府", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "World Health Organization", "line": 7140, "v": "KEEP", "zh": "世界卫生组织", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "world picture", "line": 7141, "v": "KEEP", "zh": "世界图景", "orig": "Weltbild", "note": null, "sheet": "r31"}
+{"key": "world soul", "line": 7142, "v": "KEEP", "zh": "世界灵魂", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "world state", "line": 7143, "v": "KEEP", "zh": "世界国家", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "world to come", "line": 7144, "v": "KEEP", "zh": "来世", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "world-geometry", "line": 7145, "v": "KEEP", "zh": "世界几何", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "world-systems theory", "line": 7146, "v": "KEEP", "zh": "世界体系论", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "world-type", "line": 7147, "v": "KEEP", "zh": "世界类型", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "world-unity", "line": 7148, "v": "KEEP", "zh": "世界统一性", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "world-view", "line": 7149, "v": "MERGE", "zh": "世界观", "orig": "Weltanschauung", "note": "与 Weltanschauung 行（行 7097）同词（本行原文列即 Weltanschauung）、同译“世界观”；合并为一行（Weltanschauung 为主键，world-view 注英译形）", "sheet": "r31"}
+{"key": "worldline", "line": 7150, "v": "KEEP", "zh": "世界线", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "wu lun", "line": 7151, "v": "KEEP", "zh": "五伦", "orig": "五倫", "note": null, "sheet": "r31"}
+{"key": "wu xing", "line": 7152, "v": "MERGE", "zh": "五行", "orig": "—", "note": "与 wuxing 行（行 7157）同一汉字词的两式罗马化键、同译“五行”；并入 wuxing 行（该行 2026-11-15 登记含 five phases 释义）", "sheet": "r31"}
+{"key": "wuji", "line": 7153, "v": "KEEP", "zh": "无极（free of polarity 无极）", "orig": "无极", "note": null, "sheet": "r31"}
+{"key": "wujūb", "line": 7154, "v": "FLAG", "zh": "必然化", "orig": "وجود", "note": "原文列误填：wujūb 应为 وجوب，现填 وجود（wujūd 存在，系 wujūdī 行 7155 之原词）；数据缺陷正列，须改原文列并核对全键", "sheet": "r31"}
+{"key": "wujūdī", "line": 7155, "v": "KEEP", "zh": "实在的（属性义，in re）", "orig": "وجودی", "note": null, "sheet": "r31"}
+{"key": "wuwei", "line": 7156, "v": "KEEP", "zh": "无为（無爲）", "orig": "無爲", "note": null, "sheet": "r31"}
+{"key": "wuxing", "line": 7157, "v": "FLAG", "zh": "五行（five phases 五行；不取“五元素”）", "orig": "五行", "note": "主译撞形：“五行”同时对应 wu xing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r31"}
+{"key": "xenomelia", "line": 7163, "v": "KEEP", "zh": "异己肢体症", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "xenotransplantation", "line": 7164, "v": "KEEP", "zh": "异种移植", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "xian ren hou ji", "line": 7165, "v": "KEEP", "zh": "先人后己", "orig": "先人後己", "note": null, "sheet": "r31"}
+{"key": "xiang", "line": 7166, "v": "KEEP", "zh": "象（images；卦象/物象）", "orig": "象", "note": null, "sheet": "r31"}
+{"key": "Xiaojing", "line": 7167, "v": "KEEP", "zh": "《孝经》", "orig": "《孝经》", "note": null, "sheet": "r31"}
+{"key": "xing", "line": 7168, "v": "KEEP", "zh": "性（人性/禀赋）", "orig": "性", "note": null, "sheet": "r31"}
+{"key": "xing er shang / xing er xia", "line": 7169, "v": "KEEP", "zh": "形而上／形而下（above forms／within forms）", "orig": "形而上／形而下", "note": null, "sheet": "r31"}
+{"key": "Xingqi（性起）", "line": 7170, "v": "FLAG", "zh": "性起", "orig": "性起", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r31"}
+{"key": "Xinshu", "line": 7171, "v": "KEEP", "zh": "《新书》", "orig": "新書", "note": null, "sheet": "r31"}
+{"key": "Xinyu", "line": 7172, "v": "KEEP", "zh": "《新语》", "orig": "新語", "note": null, "sheet": "r31"}
+{"key": "xinzhi", "line": 7173, "v": "KEEP", "zh": "心知", "orig": "心知", "note": null, "sheet": "r31"}
+{"key": "xiu", "line": 7174, "v": "KEEP", "zh": "宿", "orig": "宿", "note": null, "sheet": "r31"}
+{"key": "xu", "line": 7175, "v": "KEEP", "zh": "虚", "orig": "虛", "note": null, "sheet": "r31"}
+{"key": "Xuanxue", "line": 7176, "v": "KEEP", "zh": "玄学", "orig": "玄學", "note": null, "sheet": "r31"}
+{"key": "xueqi", "line": 7177, "v": "KEEP", "zh": "血气", "orig": "血氣", "note": null, "sheet": "r31"}
+{"key": "Xunzi", "line": 7178, "v": "KEEP", "zh": "《荀子》", "orig": "荀子", "note": null, "sheet": "r31"}
+{"key": "Yale shooting problem", "line": 7184, "v": "KEEP", "zh": "耶鲁射击问题", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "Yamato gokoro / damashii", "line": 7185, "v": "KEEP", "zh": "大和心/大和魂", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "yamato-e", "line": 7186, "v": "KEEP", "zh": "大和绘", "orig": "大和絵", "note": null, "sheet": "r31"}
+{"key": "Yan Buke", "line": 7187, "v": "KEEP", "zh": "阎步克", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "yang", "line": 7188, "v": "KEEP", "zh": "阳", "orig": "陽", "note": null, "sheet": "r31"}
+{"key": "Yang Bojun", "line": 7189, "v": "KEEP", "zh": "杨伯峻", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "yang sheng", "line": 7190, "v": "KEEP", "zh": "养生", "orig": "養生", "note": null, "sheet": "r31"}
+{"key": "Yantielun", "line": 7191, "v": "KEEP", "zh": "《盐铁论》", "orig": "鹽鐵論", "note": null, "sheet": "r31"}
+{"key": "yaqīnī", "line": 7192, "v": "KEEP", "zh": "确然的（yaqīn 确信；certain）", "orig": "یقینی", "note": null, "sheet": "r31"}
+{"key": "yathārtha", "line": 7193, "v": "KEEP", "zh": "如实", "orig": "यथार्थ", "note": null, "sheet": "r31"}
+{"key": "yathārtha-yogyatā-jñāna", "line": 7194, "v": "KEEP", "zh": "对语义适切的如实认知（如实的语义适切之知）", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "yathārthavaktā", "line": 7195, "v": "KEEP", "zh": "说真话者（依实言者）", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "Yellow Emperor", "line": 7196, "v": "KEEP", "zh": "黄帝", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "yeshiva", "line": 7197, "v": "KEEP", "zh": "经学院（yeshiva）", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "yì", "line": 7198, "v": "MERGE", "zh": "义（義）", "orig": "義", "note": "与 yi 行（行 7199）同汉字“义”仅带调号之别、同译“义”；并入 yi 行（该行注 appropriateness 义并别于 yi (arts) 艺）", "sheet": "r31"}
+{"key": "yi", "line": 7199, "v": "FLAG", "zh": "义（appropriateness 义；宜）", "orig": "义", "note": "主译撞形：“义”同时对应 artha、yì；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r31"}
+{"key": "yi (arts)", "line": 7200, "v": "KEEP", "zh": "艺", "orig": "藝", "note": null, "sheet": "r31"}
+{"key": "yielding（虚空）", "line": 7201, "v": "FLAG", "zh": "让与", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r31"}
+{"key": "Yijing / I Ching", "line": 7202, "v": "KEEP", "zh": "《周易》（亦作“《易经》”）", "orig": "易經", "note": null, "sheet": "r31"}
+{"key": "yin", "line": 7203, "v": "KEEP", "zh": "阴", "orig": "陰", "note": null, "sheet": "r31"}
+{"key": "yin-yang", "line": 7204, "v": "KEEP", "zh": "阴阳", "orig": "陰陽", "note": null, "sheet": "r31"}
+{"key": "Yishuv", "line": 7205, "v": "KEEP", "zh": "伊舒夫（巴勒斯坦犹太社群）", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "Yogācāra", "line": 7206, "v": "KEEP", "zh": "瑜伽行派", "orig": "योगाचार", "note": null, "sheet": "r31"}
+{"key": "Yogācārabhūmi", "line": 7207, "v": "KEEP", "zh": "《瑜伽师地论》", "orig": "योगाचारभूमि", "note": null, "sheet": "r31"}
+{"key": "yogyatā", "line": 7208, "v": "KEEP", "zh": "语义适切（义适）", "orig": "योग्यता", "note": null, "sheet": "r31"}
+{"key": "Yoruba", "line": 7209, "v": "KEEP", "zh": "约鲁巴语", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "yuanqi", "line": 7210, "v": "KEEP", "zh": "元气（primordial qi 元气）", "orig": "元气", "note": null, "sheet": "r31"}
+{"key": "Yueling", "line": 7211, "v": "KEEP", "zh": "《月令》", "orig": "月令", "note": null, "sheet": "r31"}
+{"key": "yūgen", "line": 7212, "v": "KEEP", "zh": "幽玄", "orig": "幽玄", "note": null, "sheet": "r31"}
+{"key": "ψ-ontic", "line": 7213, "v": "KEEP", "zh": "ψ-本体论的", "orig": "ψ-ontic", "note": null, "sheet": "r31"}
+{"key": "ẓāhir", "line": 7219, "v": "KEEP", "zh": "字面意义", "orig": "ظاهر", "note": null, "sheet": "r31"}
+{"key": "Zahlfiguren", "line": 7220, "v": "KEEP", "zh": "数的图形", "orig": "Zahlenfiguren", "note": null, "sheet": "r31"}
+{"key": "Zechariah", "line": 7221, "v": "KEEP", "zh": "《撒迦利亚书》", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "zeitgeist", "line": 7222, "v": "KEEP", "zh": "时代精神", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "Zermelo-Fraenkel", "line": 7223, "v": "FIX", "zh": "策梅洛-弗兰克尔", "orig": "—", "note": "连接号按 ADR-0041 一字线：策梅洛-弗兰克尔 → 策梅洛—弗兰克尔（双人名连用，与勒文海姆—斯科伦、科亨—施佩克尔同规）", "sheet": "r31"}
+{"key": "zero-sum game", "line": 7224, "v": "KEEP", "zh": "零和博弈", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "Zhonglun", "line": 7225, "v": "FLAG", "zh": "《中论》（徐干）", "orig": "中論", "note": "主译撞形：“《中论》”同时对应 Mūlamadhyamakakārikā；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r31"}
+{"key": "Zhongyong", "line": 7226, "v": "KEEP", "zh": "《中庸》", "orig": "《中庸》", "note": null, "sheet": "r31"}
+{"key": "Zhuangzi", "line": 7227, "v": "KEEP", "zh": "《庄子》", "orig": "莊子", "note": null, "sheet": "r31"}
+{"key": "zhuzai", "line": 7228, "v": "KEEP", "zh": "主宰（self-mastery/master will 主宰）", "orig": "主宰", "note": null, "sheet": "r31"}
+{"key": "Zhuzi wenji", "line": 7229, "v": "KEEP", "zh": "《朱子文集》", "orig": "《朱子文集》", "note": null, "sheet": "r31"}
+{"key": "Zhuzi yulei", "line": 7230, "v": "KEEP", "zh": "《朱子语类》", "orig": "《朱子语类》", "note": null, "sheet": "r31"}
+{"key": "Zika virus", "line": 7231, "v": "KEEP", "zh": "寨卡病毒", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "Zimzum", "line": 7232, "v": "KEEP", "zh": "齐姆祖姆（神性收缩）", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "Zionism", "line": 7233, "v": "KEEP", "zh": "锡安主义（犹太复国主义）", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "ziran", "line": 7234, "v": "FLAG", "zh": "自然（self-so）", "orig": "自然", "note": "主译撞形：“自然”同时对应 phusis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r31"}
+{"key": "zodiac (galgal hamazalot)", "line": 7235, "v": "KEEP", "zh": "黄道", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "Zohar", "line": 7236, "v": "FLAG", "zh": "《光辉之书》", "orig": "—", "note": "主译撞形：“《光辉之书》”同时对应 Sefer ha-Zohar；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r31"}
+{"key": "zombie", "line": 7237, "v": "KEEP", "zh": "哲学僵尸", "orig": "philosophical zombie", "note": null, "sheet": "r31"}
+{"key": "zombie twin", "line": 7238, "v": "KEEP", "zh": "僵尸孪生者", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "zombie world", "line": 7239, "v": "KEEP", "zh": "僵尸世界", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "Zorn's lemma", "line": 7240, "v": "KEEP", "zh": "佐恩引理", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "Zoroastrianism", "line": 7241, "v": "KEEP", "zh": "琐罗亚斯德教", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "zozobra", "line": 7242, "v": "FLAG", "zh": "保留原文（忧悬）", "orig": "—", "note": "主译撞形：“保留原文”同时对应 apretado、nepantla、relajiento、relajo、tarka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r31"}
+{"key": "zuo", "line": 7243, "v": "KEEP", "zh": "作", "orig": "作", "note": null, "sheet": "r31"}
+{"key": "Zuo Zhuan", "line": 7244, "v": "KEEP", "zh": "《左氏传》", "orig": "左傳", "note": null, "sheet": "r31"}
+{"key": "Zusätze", "line": 7245, "v": "KEEP", "zh": "补充", "orig": "Zusätze", "note": null, "sheet": "r31"}
+{"key": "zygote", "line": 7246, "v": "KEEP", "zh": "受精卵", "orig": "—", "note": null, "sheet": "r31"}
+{"key": "*-autonomous category", "line": 7252, "v": "KEEP", "zh": "*-自治范畴", "orig": "—", "note": null, "sheet": "r31"}
