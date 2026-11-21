@@ -12,6 +12,12 @@ name: SEP 上游目录漂移巡检
 # $RUNNER_TEMP 文件进 artifact，不直接刷进 Actions 日志。
 # 注意：issue 组装 step 的 echo 一律不用反引号包命令——bash 双引号内反引号
 # 是命令替换，会把工具真跑一遍并把 JSON 拼进 issue 正文（2026-11-21 修复）。
+#
+# 顺序门（2026-11-22 用户裁定）：每日三班（b1/b2/b3＝UTC 01/09/17）一律先做目录
+# 差异比较（四方漂移＋装配核验），且仅当目录干净（changed=false 显式成立）才继续
+# 上游正文比较（detect_updates：new.html＋archinfo 版次核对）；目录有漂移或抓取/
+# 结论不可得时正文比较跳过（fail-closed），issue 正文注明跳过原因，下轮恢复。
+# 理由：目录未同步时正文比较的增删改名基线失真，结果不可采。
 
 on:
   workflow_dispatch:
@@ -56,9 +62,9 @@ jobs:
           python -c "import json;d=json.load(open('$RUNNER_TEMP/drift.json',encoding='utf-8'));print('changed=%s' % str(d['changed']).lower())" >> "$GITHUB_OUTPUT"
           python -c "import json;d=json.load(open('$RUNNER_TEMP/drift.json',encoding='utf-8'));c=d['catalog'];l=d['local'];a=d.get('assembly') or {};print('目录漂移：%s（新增 %d／删除 %d／改名 %d／作者 %d／别名＋%d－%d；SUMMARY 缺 %d 多 %d；mu-lu-s 缺 %d 多 %d；装配核验：%s）' % ('有' if d['changed'] else '无', len(c['added']), len(c['removed']), len(c['renamed']), len(c['authors_changed']), len(c['alias_added']), len(c['alias_removed']), len(l['upstream_missing_in_summary']), len(l['summary_only_upstream']), len(l['upstream_missing_in_mulu']), len(l['mulu_only_upstream']), '全等' if a.get('ok') else '不等'))"
 
-      - name: 上游变更检测（new.html ＋ 版次核对）
+      - name: 上游变更检测（new.html ＋ 版次核对；仅目录干净时执行）
         id: updates
-        if: always()
+        if: always() && steps.drift.outputs.changed == 'false'
         continue-on-error: true
         run: |
           set -o pipefail
@@ -70,6 +76,16 @@ jobs:
           else
             echo "count=unknown" >> "$GITHUB_OUTPUT"
             echo "变更队列：检测中断，queue.json 未生成（见上方日志）"
+          fi
+
+      - name: 正文比较跳过标记（目录漂移未清或结论不可得）
+        id: updates-skip
+        if: always() && steps.drift.outputs.changed != 'false'
+        run: |
+          if [ "${{ steps.drift.outputs.changed }}" = "true" ]; then
+            echo "正文比较跳过：目录漂移未清，须先按巡检报告落地目录同步（specs/054 §3），下轮恢复"
+          else
+            echo "正文比较跳过：上游抓取失败或目录比较未得出结论，本轮不比较正文"
           fi
 
       - name: 归档报告
@@ -99,7 +115,9 @@ jobs:
           else
             DRIFT_TXT="无"
           fi
-          if [ "$QCOUNT" = "unknown" ]; then
+          if [ -z "$QCOUNT" ]; then
+            QCOUNT_TXT="跳过（目录漂移未清，先落地目录同步，下轮巡检恢复）"
+          elif [ "$QCOUNT" = "unknown" ]; then
             QCOUNT_TXT="数未知（检测中断，见运行日志）"
           else
             QCOUNT_TXT="${QCOUNT} 条"
@@ -117,6 +135,8 @@ jobs:
             echo
             if [ -f "$RUNNER_TEMP/queue.md" ]; then
               cat "$RUNNER_TEMP/queue.md"
+            elif [ "$CHANGED" = "true" ]; then
+              echo "（正文变更检测本次跳过：目录漂移未清，先落地目录同步；下轮巡检恢复）"
             else
               echo "（变更检测报告见运行工件 queue.json）"
             fi
