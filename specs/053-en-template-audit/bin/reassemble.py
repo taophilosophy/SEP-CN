@@ -354,15 +354,14 @@ def _intra_word_open(parts, i):
             # 松左星＝新强调的开星（C 的 em 定界符恒紧）——本星对的闭星
             # 不可能在它之后，放弃开星（actualism `(G*1)…*em*` 同段判例）
             return False
-        if not after[:1].isalnum() or after[:1].isdigit():
+        if not after[:1].isdigit():
             # 第一个紧闭星即决断点：右邻数字 ⇒ `(G*1) … (G*2)` 型记号星对
-            # （actualism-possibilism-ethics 判例；注意 `(G*2)` 的星紧邻
-            # 左字符是 G，只有右邻数字能识别），整次开星放弃；其余按文字
-            # 形态判定（多词含空白／单词内全字母）
+            # （actualism-possibilism-ethics 判例），整次开星放弃；右邻
+            # 字母（词内闭星，africana 判例：`Chang*e,` 的 e）与非字母
+            # （标点/空白）都进文字形态判定（多词含空白／单词内全字母）
             joined = "".join(text).strip()
-            return (not after[:1].isdigit()
-                    and ((" " in joined)
-                         or (joined.isalpha() and len(joined) > 1)))
+            return ((" " in joined)
+                    or (joined.isalpha() and len(joined) > 1))
         text.append(run)
         if k + 1 < len(parts):
             text.append(parts[k + 1])

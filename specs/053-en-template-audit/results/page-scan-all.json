@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1272,
-  "gap": 601,
+  "pool": 1274,
+  "gap": 599,
   "stale": 0
  },
- "page_bytes": 235939619,
- "pool_bytes": 74817541,
+ "page_bytes": 235952045,
+ "pool_bytes": 75005671,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -278,12 +278,9 @@
   {
    "slug": "africana",
    "page_len": 303442,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 269,
+   "pool_bytes": 143648
   },
   {
    "slug": "africana-contemporary",
@@ -3394,9 +3391,12 @@
   {
    "slug": "derrida",
    "page_len": 106613,
-   "status": "pool",
-   "n_patches": 88,
-   "pool_bytes": 83348
+   "status": "gap",
+   "why": "unaligned text units",
+   "sample": {
+    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
+    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
+   }
   },
   {
    "slug": "descartes",
@@ -3537,12 +3537,9 @@
   {
    "slug": "dewey",
    "page_len": 165549,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 289,
+   "pool_bytes": 93007
   },
   {
    "slug": "dewey-aesthetics",
@@ -9486,7 +9483,7 @@
   },
   {
    "slug": "modality-varieties",
-   "page_len": 98348,
+   "page_len": 99414,
    "status": "gap",
    "why": "unaligned text units",
    "sample": {
@@ -14289,12 +14286,9 @@
   {
    "slug": "thomas-kuhn",
    "page_len": 116582,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 110,
+   "pool_bytes": 34823
   },
   {
    "slug": "thomas-more",
@@ -14672,7 +14666,7 @@
   },
   {
    "slug": "type-theory",
-   "page_len": 83047,
+   "page_len": 94407,
    "status": "gap",
    "why": "unaligned text units",
    "sample": {
