@@ -1,0 +1,14 @@
+处置	键	旧	新	理由
+FIX	A New Elucidation of the First Principles of Metaphysical Cognition	《形而上学认识诸第一原则的新阐明》（简称《新阐明》）｜kant-science	《形而上学认识各首要原则的新说明》｜kant-science	李秋零译《康德著作全集》《康德认识论文集》目录作“各首要原则的新说明”，改从通行译本（原“诸第一原则的新阐明”系自拟）
+FIX	a fortiori argument	强化论证｜ibn-taymiyya	当然论证（a fortiori）｜ibn-taymiyya	法律论证与逻辑文献通行 argumentum a fortiori＝当然论证／当然解释；伊斯兰法源 qiyās al-awlā 义在依据列另注
+FIX	anarchic hand	无政府手｜bodily-awareness 首译	异己手（anarchic hand）｜bodily-awareness 首译	中文神经科学文献通作“异己手（综合征）”，anarchic hand 为其额叶型变体；删直译“无政府手”
+FIX	anyāpoha（gzhan sel）	遮他（anyāpoha，Tib. gzhan sel）｜epistemology-language-tibetan	遣他（亦作“遮诠”）｜epistemology-language-tibetan	法尊译《集量论》卷五《观遣他品》作“遣他”；华文哲学百科述陈那遮诠理论作“遮诠”
+FIX	aṣālat al-wujūd	存在的实在性（principality of existence）｜umar-khayyam	存在的优先性（亦作“存在的首要性”）｜umar-khayyam	王希《伊斯兰哲学中的“是”、“存在”和“本质”》述穆拉·萨德拉“存在具有优先性”；SEP mulla-sadra 作 principality of existence
+FIX	aṣālat al-māhiyyah	本质的实在性（principality of essence）｜umar-khayyam	本质的优先性（亦作“本质的首要性”）｜umar-khayyam	与 aṣālat al-wujūd 存在优先性 同族对称；光照学派主张本质优先
+FIX	bhāvanā	心习｜early-modern-india 首译	修习（亦作“熏习”）｜early-modern-india 首译	《佛光大辞典》【修习】：“梵语 bhāvanā……数数薰习之意”；原“心习”系自拟，撤回
+FIX	das Umgreifende	包摄者｜jaspers 首译	大全（亦作“统摄”）｜jaspers 首译	王玖兴译雅斯贝斯《生存哲学》第一讲作“对于大全的体验”“大全的几种样式”；研究文献亦作“统摄（又译大全）”
+FIX	Leib	活的身体｜yorck 首译	活的身体｜existentialism；phenomenology	用语列删人名引用（contract-law:1042 Leib 2015），取 existentialism:592 与 phenomenology:1540 “活的身体”义；译法维持
+FIX	naimittikī	自然种类词｜early-modern-india	缘发的（依缘而起）｜early-modern-india	弥曼差 naimittika-karman＝occasional sacrifices（依 nimitta 缘而起），与“自然种类”义相反，原译系误；Freschi & Pascucci 2021 术语表
+FIX	significatio	意涵（阿伯拉尔）｜首现（abelard）	意谓（亦作“意涵”）｜首现（abelard）	中文中世纪逻辑研究以“意谓”译 significatio（与“指代”对举），与 signification 行统一；作者义随文括注
+FIX	tashkīk	调节（等级单义）｜ibn-taymiyya	等级性（分级述谓）｜ibn-taymiyya	SEP mulla-sadra 述 tashkik 为存在按强度分级（graded），与一义／多义对举；原译“调节（等级单义）”不合，更正
+MERGE	signification	signification→significatio	意谓	意谓	拉丁形为主键

@@ -13,10 +13,10 @@
 | rabbāniyya | ربانية | 养育性（主属性） | ibn-taymiyya | 伊本·泰米叶 tawḥīd 三分中 rabbāniyya（神性）与 rubūbiyya（主性）分列；原两词一译“主性”，2026-11-21 FLAG 裁定分行；撞形改定 2026-11-21：与 ulūhiyya／ilāhiyya＝神性 分词；rabbānī 主所养育义 | 2026-11-21 |
 | 键 | 原文 | 译法 | 首现（slug 或书目） | 依据 | 裁定日期 |
 | --- | --- | --- | --- | --- | --- |
-| a fortiori argument | — | 强化论证 | ibn-taymiyya | 首译（qiyās al-awlā 之英译；与类比、三段论对举） | 2026-11-12 |
+| a fortiori argument | — | 当然论证（a fortiori） | ibn-taymiyya | 首译（qiyās al-awlā 之英译；与类比、三段论对举）；FLAG 裁定 2026-11-21（联网凭证）：法律论证与逻辑文献通行 argumentum a fortiori＝当然论证／当然解释；伊斯兰法源 qiyās al-awlā 义在依据列另注 | 2026-11-21 |
 | A Modern Elementary Logic | — | 《逻辑学现代基础》 | 首译（stebbing） | 斯泰宾著作（1943）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A Modern Introduction to Logic | — | 《逻辑学现代导论》 | 首译（stebbing） | 斯泰宾著作（1930）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
-| A New Elucidation of the First Principles of Metaphysical Cognition | — | 《形而上学认识诸第一原则的新阐明》（简称《新阐明》） | kant-science | 学界通行；kant-leibniz 短形先例 | 2026-11-05 |
+| A New Elucidation of the First Principles of Metaphysical Cognition | — | 《形而上学认识各首要原则的新说明》 | kant-science | 学界通行；kant-leibniz 短形先例；FLAG 裁定 2026-11-21（联网凭证）：李秋零译《康德著作全集》《康德认识论文集》目录作“各首要原则的新说明”，改从通行译本（原“诸第一原则的新阐明”系自拟） | 2026-11-21 |
 | a posteriori | a posteriori | 后验 | logical-consequence | 哲学通行译法；凭证 2026-11-09；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-09 |
 | a posteriori necessity | — | 后验必然性 | 首现（zombies） | 学界惯例（同上）；凭证 2026-11-10；逐行研判 2026-11-21：与本表 a posteriori＝后验 对齐；克里普克通译“后验必然性” | 2026-11-21 |
 | a priori | a priori | 先天（康德传统；与“先验”transzendental 相区分） | logical-consequence；语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
@@ -280,7 +280,7 @@
 | ananyathāsiddha | अनन्यथासिद्ध | 不由他立 | early-modern-india | 因明“不离他立/不由他立”传统义（causal relevance 条件）；凭证 2026-11-10 | 2026-11-10 |
 | anaphora | — | 回指 | dynamic-semantics | 学界通行；凭证 2026-11-12 | 2026-11-12 |
 | anaphoric index | — | 回指索引 | dynamic-semantics | 学界通行（DMG/ITL 形式语义）；凭证 2026-11-12 | 2026-11-12 |
-| anarchic hand | — | 无政府手 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| anarchic hand | — | 异己手（anarchic hand） | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07；FLAG 裁定 2026-11-21（联网凭证）：中文神经科学文献通作“异己手（综合征）”，anarchic hand 为其额叶型变体；删直译“无政府手” | 2026-11-21 |
 | anarchism | — | 无政府主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | anarchy(国际关系) | — | 无政府状态（国际关系语境；与 anarchism 无政府主义分义） | s/sovereignty 首译 | 学界通行译法（国际关系理论通行）；凭证 2026-11-07；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 anarchy（国际关系） | 2026-11-21 |
 | anātman | अनात्मन् | 无我 | yogacara 首译 | 汉传佛典千年通行译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》an-ātman 条（2026-11-13 查，凭证 orig-verify-2026-11-13.tsv）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
@@ -353,7 +353,7 @@
 | anuśaya | अनुशय | 随眠 | yogacara 首译 | 汉传阿毗达磨与唯识学通行译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》anu-śaya 条（p. 39 col. 2，Cologne 词条页（2026-11-13 查，凭证 orig-verify-2026-11-13-b3.tsv） | 2026-11-13 |
 | anvaya | अन्वय | 同有 | early-modern-india | 因明“同品有”通行（agreement in presence；与 vyatireka 同无对举）；凭证 2026-11-10 | 2026-11-10 |
 | anvaya-vyatirekin | अन्वयव्यतिरेकिन् | 同有同无（推理） | early-modern-india | 印度逻辑三分推理之一（positive-and-negative）；凭证 2026-11-11 | 2026-11-11 |
-| anyāpoha（gzhan sel） | གཞན་སེལ་ | 遮他（anyāpoha，Tib. gzhan sel） | epistemology-language-tibetan | 佛学界通行；原文列联网查证：Monlam 藏英词典 gzhan sel 条（“other exclusion; other-eliminat（2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv） | 2026-11-14 |
+| anyāpoha（gzhan sel） | གཞན་སེལ་ | 遣他（亦作“遮诠”） | epistemology-language-tibetan | 佛学界通行；原文列联网查证：Monlam 藏英词典 gzhan sel 条（“other exclusion; other-eliminat（2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv）；FLAG 裁定 2026-11-21（联网凭证）：法尊译《集量论》卷五《观遣他品》作“遣他”；华文哲学百科述陈那遮诠理论作“遮诠” | 2026-11-21 |
 | anyatarābhāva | अन्यतराभाव | 任一皆无（任一非存在） | early-modern-india | 否定语义译（absence of either A or B）；凭证 2026-11-10；正文作“任一皆无”（校 2026-11-11）| 2026-11-10 |
 | anyathākhyāti | अन्यथाख्याति | 错置他相 | early-modern-india 首译 | 印度哲学史通行义译（错误论“误认作他物”说）；凭证 2026-11-10 | 2026-11-10 |
 | anyonyābhāva | अन्योन्याभाव | 互无（别异非存在） | early-modern-india | 胜论四种非存在义译（difference；相互否定）；凭证 2026-11-10 | 2026-11-10 |
@@ -429,8 +429,8 @@
 | artistae | — | 艺学家 | condemnation 首译 | 依 Faculty of Arts 定名（中世纪大学艺学院教师/学生）；凭证 2026-11-08 | 2026-11-08 |
 | as if | das Als Ob | 仿佛 | vaihinger 首译 | 费英格核心概念通行译法（《仿佛的哲学》通行书名从之）；凭证 2026-11-14 | 2026-11-14 |
 | asādhāraṇa | असाधारण | 特殊（非共） | early-modern-india | 新正理因果义译（'special'；karaṇa 之性）；凭证 2026-11-10 | 2026-11-10 |
-| aṣālat al-māhiyyah | اصالة الماهية | 本质的实在性（principality of essence） | umar-khayyam | 伊斯兰哲学通行（asāla 实在性义；伊斯法罕学派论争术语；与 aṣālat al-wujūd 对举） | 2026-11-14 |
-| aṣālat al-wujūd | اصالة الوجود | 存在的实在性（principality of existence） | umar-khayyam | 伊斯兰哲学通行（毛拉·萨德拉立场；与 aṣālat al-māhiyyah 对举）；2026-11-14 联网复核保留（萨德拉研究文献另见“存在优先/存在的优先性”形（SEP Rizvi 作 ontological primacy of existence），中文学界译名未统一，实在性义译在列） | 2026-11-14 |
+| aṣālat al-māhiyyah | اصالة الماهية | 本质的优先性（亦作“本质的首要性”） | umar-khayyam | 伊斯兰哲学通行（asāla 实在性义；伊斯法罕学派论争术语；与 aṣālat al-wujūd 对举）；FLAG 裁定 2026-11-21（联网凭证）：与 aṣālat al-wujūd 存在优先性 同族对称；光照学派主张本质优先 | 2026-11-21 |
+| aṣālat al-wujūd | اصالة الوجود | 存在的优先性（亦作“存在的首要性”） | umar-khayyam | 伊斯兰哲学通行（毛拉·萨德拉立场；与 aṣālat al-māhiyyah 对举）；2026-11-14 联网复核保留（萨德拉研究文献另见“存在优先/存在的优先性”形（SEP Rizvi 作 ontological primacy of existence），中文学界译名未统一，实在性义译在列）；FLAG 裁定 2026-11-21（联网凭证）：王希《伊斯兰哲学中的“是”、“存在”和“本质”》述穆拉·萨德拉“存在具有优先性”；SEP mulla-sadra 作 principality of existence | 2026-11-21 |
 | ascertainment | — | 确认 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学·医学遗传学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | ascertainment(nges pa) | — | 决定（nges pa） | epistemology-language-tibetan | 量论通行（nges pa=决定知）；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 ascertainment（nges pa） | 2026-11-21 |
 | asceticism | — | 禁欲主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·古代中世纪·西欧文化、文艺复兴与宗教改革，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -638,7 +638,7 @@
 | bhājana | भाजन | 器世间 | yogacara 首译 | 汉传唯识学通行（bhājanaloka 器世间）；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》bhājana 条（Cologne 数字词典天城体词头渲染）（2026-11-13 查，凭证 orig-verify-2026-11-13-b4.tsv） | 2026-11-13 |
 | Bhāṭṭa | भाट्ट | 跋吒派 | early-modern-india 首译 | 弥曼差两支派通行音译（Kumārila 一系）；凭证 2026-11-10 | 2026-11-10 |
 | bhāva | भाव | 存在（有） | early-modern-india | 与 abhāva 非存在对举（positive being）；凭证 2026-11-11；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
-| bhāvanā | भावना | 心习 | early-modern-india 首译 | 记忆论义译（mental disposition；佛典“修习”为禅定义不取）；凭证 2026-11-10 | 2026-11-10 |
+| bhāvanā | भावना | 修习（亦作“熏习”） | early-modern-india 首译 | 记忆论义译（mental disposition；佛典“修习”为禅定义不取）；凭证 2026-11-10；FLAG 裁定 2026-11-21（联网凭证）：《佛光大辞典》【修习】：“梵语 bhāvanā……数数薰习之意”；原“心习”系自拟，撤回 | 2026-11-21 |
 | bhūta | भूत | 大种（物理实体） | early-modern-india | 源文自注 'physical substance'；佛典“四大种”古译通例；凭证 2026-11-10 | 2026-11-10 |
 | bianhua | 变化 | 变化（transformation 渐化／change 骤变；依源文渐骤之分） | zhu-xi 首译 | 学界通行（《内经》物生谓之化、物极谓之变之渐骤传统；汉字回译）；凭证 2026-11-15 | 2026-11-15 |
 | Bibliographic Treatise | 艺文志 | 《艺文志》 | chinese-phil-science | 学界通行（《汉书》卷三十）；凭证 2026-11-07 | 2026-11-07 |
@@ -1403,7 +1403,7 @@
 | Darstellung | Darstellung | 呈现（伽达默尔/美学语境；darstellen 呈现的） | gadamer-aesthetics | 学界惯例（美学/德国古典哲学通行） | 2026-11-01 |
 | ḍarūrī | ضروري | 必然的 | ibn-taymiyya | 阿拉伯逻辑学通行（与 badīhī 并列） | 2026-11-12 |
 | Darwinism | — | 达尔文主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
-| das Umgreifende | das Umgreifende | 包摄者 | jaspers 首译 | 学界通行（雅斯贝尔斯《论真理》；中译亦见“大全”，本册定“包摄者”一形）；凭证 2026-11-09 | 2026-11-09 |
+| das Umgreifende | das Umgreifende | 大全（亦作“统摄”） | jaspers 首译 | 学界通行（雅斯贝尔斯《论真理》；中译亦见“大全”，本册定“包摄者”一形）；凭证 2026-11-09；FLAG 裁定 2026-11-21（联网凭证）：王玖兴译雅斯贝斯《生存哲学》第一讲作“对于大全的体验”“大全的几种样式”；研究文献亦作“统摄（又译大全）” | 2026-11-21 |
 | das Unbedingte | das Unbedingte | 无条件者 | jaspers 首译 | 学界通行（承康德“无条件者”，雅斯贝尔斯转用为理性之活力冲动）；凭证 2026-11-09 | 2026-11-09 |
 | Dasam Granth | — | 《达萨姆·格兰特》 | 首译（sikh-philosophy） | 学界通行（第十位古鲁之书；DG）；凭证 2026-11-09 | 2026-11-09 |
 | Dasein | Dasein | 此在（海德格尔；亦作“缘在”） | 语料回收 | 学界惯例（海德格尔《存在与时间》陈嘉映译本）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -3427,7 +3427,7 @@
 | legality | — | 合法性 | 语料回收（specs/050 候选池） | 条目语境研判（法哲学通行合法性（legality/legitimacy 对偶）；审定“合法律性”非通行形）；审定名词库（termonline-all·社会学名词·分支社会学·法律社会学，2026-11-18 JWT 直连凭证，审定作“合法律性”） | 2026-11-19 |
 | legitimate authority | — | 合法权威 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·管理科学技术·公共管理·基本概念，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Lehrfreiheit | Lehrfreiheit | 教学自由 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
-| Leib | Leib | 活的身体 | yorck 首译 | 学界通行（现象学 Leib 与 Körper 躯体相对；本册定“活的身体”一形）；凭证 2026-11-11 | 2026-11-11 |
+| Leib | Leib | 活的身体 | existentialism；phenomenology | 学界通行（现象学 Leib 与 Körper 躯体相对；本册定“活的身体”一形）；凭证 2026-11-11；FLAG 裁定 2026-11-21（联网凭证）：用语列删人名引用（contract-law:1042 Leib 2015），取 existentialism:592 与 phenomenology:1540 “活的身体”义；译法维持 | 2026-11-21 |
 | Leibniz Equivalence | — | 莱布尼茨等价 | spacetime-holearg | B 档（学界通行译名） | 2026-10-28 |
 | Leibniz language | Leibniz language | 莱布尼茨语言 | 首现（scholz） | 学界惯例（肖尔兹研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | Leibniz Theorem | — | 莱布尼茨定理 | 首现（scholz） | 学界惯例（肖尔兹术语）；凭证 2026-11-07 | 2026-11-07 |
@@ -4068,7 +4068,7 @@
 | nabīdh | نبيذ | 椰枣酒 | ibn-taymiyya | 学界惯例（教法案例术语） | 2026-11-12 |
 | nacherleben | nacherleben | 再体验（nacherleben；狄尔泰） | gadamer-aesthetics | 学界惯例（狄尔泰研究通行）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | nafs al-ʾamr | نفس الأمر | 事情本身（字面义；技术义指事物自在之所是；与 die Sache selbst 行同形异源，勿混） | arabic-islamic-phil-math | 译名裁定（the thing itself 直译；图西技术化首用）；撞形豁免 2026-11-21：阿拉伯语与德语 die Sache selbst 同形异源，按条目语境区分，不合并 | 2026-11-21 |
-| naimittikī | नैमित्तिकी | 自然种类词 | early-modern-india | 词义学义译（basis for application is a universal）；凭证 2026-11-10 | 2026-11-10 |
+| naimittikī | नैमित्तिकी | 缘发的（依缘而起） | early-modern-india | 词义学义译（basis for application is a universal）；凭证 2026-11-10；FLAG 裁定 2026-11-21（联网凭证）：弥曼差 naimittika-karman＝occasional sacrifices（依 nimitta 缘而起），与“自然种类”义相反，原译系误；Freschi & Pascucci 2021 术语表 | 2026-11-21 |
 | nairātmya | नैरात्म्य | 无我 | yogacara 首译 | 汉传佛典千年通行译名（人无我、法无我）；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》与 Monier-Williams、Böhtlingk–Roth 各条（wi（2026-11-13 查，凭证 orig-verify-2026-11-13-b3.tsv）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | naive comprehension | — | 朴素概括公理 | logic-relevance | 集合论通行译法（naïve comprehension axiom）；凭证 2026-11-09 | 2026-11-09 |
 | naïve realism | naïve realism | 朴素实在论 | 语料回收 | 审定名词库（termonline-all·自然辩证法名词·科学哲学，2026-10-30 浏览器通道凭证） | 2026-10-30 |
@@ -5816,8 +5816,7 @@
 | ṣifāt | صفات | 属性 | 首现（theology-aristotle） | 学界惯例（伊斯兰神学'神之属性'，正文保留原词）；凭证 2026-11-08；原文列取证：GND 规范档（lobid）条目变体形 检索 2026-11-20（2026-11-20 查）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | signal | — | 信号 | information-biological | 学界通行（与线索对举）；凭证 2026-11-12 | 2026-11-12 |
 | significant form | — | 有意味的形式 | 首现（erotic-art） | 美学通行（Clive Bell 术语；旧译“有意义的形式”） | 2026-11-08 |
-| significatio | significatio | 意涵（阿伯拉尔） | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
-| signification | — | 意谓 | richard-sophister | 学界通行汉译（中世纪语义理论） | 2026-11-04 |
+| significatio | significatio | 意谓（亦作“意涵”） | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29；FLAG 裁定 2026-11-21（联网凭证）：中文中世纪逻辑研究以“意谓”译 significatio（与“指代”对举），与 signification 行统一；作者义随文括注；旧键“signification”并入（2026-11-21 FLAG 裁定：同一中世纪语义概念，拉丁形为主键） | 2026-11-21 |
 | significatum / res significata / suppositum | — | 意谓对象／所意指之物／所指 | analogy-medieval 首译 | 学界通行（中世纪语义三层区分）；凭证 2026-11-08 | 2026-11-08 |
 | significatum totale / significatum adaequatum | significatum totale / significatum adaequatum | 总体意谓／充分意谓 | nicole-oresme | 中世纪语义学通行译法（与 total significate 总意谓同族）；凭证 2026-11-08 | 2026-11-08 |
 | significs | — | 意义学 | 首现（brouwer） | 学界通行（曼努里学派交往行为分析；与语义学 semantics 分立）；凭证 2026-11-12 | 2026-11-12 |
@@ -6353,7 +6352,7 @@
 | taṣawwur | تصور | 概念化 | ibn-taymiyya | 学界惯例（阿拉伯逻辑学；与 taṣdīq 断定对举）；撞形豁免 2026-11-21：与 Conceptualization 同概念异语（伊斯兰逻辑构想），不合并 | 2026-11-21 |
 | taṣdīq | تصديق | 断定（阿拉伯逻辑学；与 taṣawwur 概念相对） | 语料回收 | 学界惯例（阿拉伯逻辑学）；审定库仅模糊噪声命中（凭证 2026-10-31） | 2026-10-31 |
 | tashbīh | تشبيه | 同化 | ibn-taymiyya | 学界惯例（与 tanzīh 对举）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
-| tashkīk | تشكيك | 调节（等级单义） | ibn-taymiyya | 学界惯例（阿维森纳—苏赫拉瓦迪术语；与单义对举） | 2026-11-12 |
+| tashkīk | تشكيك | 等级性（分级述谓） | ibn-taymiyya | 学界惯例（阿维森纳—苏赫拉瓦迪术语；与单义对举）；FLAG 裁定 2026-11-21（联网凭证）：SEP mulla-sadra 述 tashkik 为存在按强度分级（graded），与一义／多义对举；原译“调节（等级单义）”不合，更正 | 2026-11-21 |
 | tathāgatagarbha | तथागतगर्भ | 如来藏 | 语料回收 | 审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | Tathandlung | Tathandlung | 事行（费希特：自我的自身设定） | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
 | tathatā | तथाता | 真如 | yogacara 首译 | 汉传佛典千年通行（suchness／thusness）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》tathātā 条（Cologne 数字词典天城体词头渲染）（2026-11-13 查，凭证 orig-verify-2026-11-13-b4.tsv） | 2026-11-13 |

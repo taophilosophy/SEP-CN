@@ -467,3 +467,10 @@
 * **批 E**：既有解决的主行结案 17（binarium／ideal element／Kabbalah／moral judgment／normal function／place (Aristotelian topos)／Ḥikmah／qiyāsāt 按域分义／operational semantics 分行／geomancy 族／Sortals／content internalism／exceptive word／nirvikalpaka 族／corporations 分域／intension and remission 孤行）；改定 2（rubūbiyya 主性单列；correct／incorrect conventional 补藏语原文列，回读原文证键未截断）。
 * **终态**：151 键落定 140，未决 11（a fortiori argument、A New Elucidation、anarchic hand、anyāpoha、aṣālat al-wujūd、aṣālat al-māhiyyah、bhāvanā、das Umgreifende、Leib、naimittikī、significatio），缺口一律为“需权威译本／研究文献”，而本会话检索通道不可用（exa／research MCP 连接失败，必应直连把多词中文查询退化为单字词条，仅能作单点验证），故按 rules/03 不猜、如实留白。
 * **门禁**：`check_terms` 退出 0、撞形残余 0 组；`check_all` 17 项中 16 绿，唯一红项“转换保真”系 `yuanwen/b/bodin.md` 于 22:20 被并行会话改动（工作区 M，非本线文件），按并行纪律不修不提交。
+
+### 同轮续二：联网恢复后未决 11 键清零（批 F）
+
+* **通道恢复**：exa MCP 恢复后以英文／中文实词查询直取权威页，替代此前退化的必应直连；全部 12 条改定（含 tashkīk）逐条留联网凭证。
+* **判例与凭证**：A New Elucidation→《形而上学认识各首要原则的新说明》（李秋零译《康德著作全集》《康德认识论文集》目录）；a fortiori argument→当然论证（法律论证文献 argumentum a fortiori 通行“当然论证／当然解释”）；anarchic hand→异己手（清华长庚医院、华艺《異己手徵候群》）；anyāpoha→遣他（法尊译《集量论》卷五《观遣他品》，华文哲学百科作遮诠）；aṣālat al-wujūd／al-māhiyyah→存在的优先性／本质的优先性（王希《伊斯兰哲学中的“是”、“存在”和“本质”》，SEP mulla-sadra 作 principality of existence／essence）；bhāvanā→修习（《佛光大辞典》【修习】：“梵语 bhāvanā……数数薰习之意”，撤回自拟“心习”）；das Umgreifende→大全（王玖兴译《生存哲学》“对于大全的体验”“大全的几种样式”）；naimittikī→缘发的（弥曼差 naimittika-karman＝occasional sacrifices，原“自然种类词”义反）；significatio→意谓（中文中世纪逻辑研究，与指代对举），signification 并入；Leib 用语删人名引用改取 existentialism／phenomenology 两处“活的身体”义。
+* **tashkīk 更正**：原“调节（等级单义）”改“等级性（分级述谓）”——SEP mulla-sadra 述 tashkik 为存在按强度分级（graded），与 accommodation 行的撞形随之解除。
+* **终态**：151／151 落定，未决 0；登记册 7,002→7,001 数据行；撞形残余 0 组；`check_terms` 退出 0；`check_all` 17 项全绿（并行会话 bodin 改动已完成，转换保真项回绿）。
