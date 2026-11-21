@@ -122,7 +122,23 @@ def cmd_pull():
         return EXIT_GIT
     pre = [(sha, s) for sha, s in parse_oneline(log)]
     if not pre:
-        print("[sync_guard] 本地无积压，直接 fast-forward。")
+        # 无本地积压：判弃自检无对象，fast-forward 即可（比 rebase 宽容，
+        # 仅当工作区未提交改动与被更新文件相撞时才拒）。此前该分支只打印
+        # 不返回，继续走 rebase 被工作区改动误拦（2026-11-21 修复）。
+        tip, err = git("rev-parse", "origin/main")
+        if tip is None:
+            print(f"[sync_guard] rev-parse 失败：{err}")
+            return EXIT_GIT
+        if pre_head == tip.strip():
+            print("[sync_guard] 本地与远端一致，已是最新。")
+            return EXIT_OK
+        out2, err2 = git("merge", "--ff-only", "origin/main")
+        if out2 is None:
+            print(f"[sync_guard] fast-forward 失败（工作区改动可能与之相撞）：{err2}")
+            print("[sync_guard] 先提交或 stash 工作区改动再同步（本工具不做自动 stash）。")
+            return EXIT_GIT
+        print("[sync_guard] fast-forward 完成。")
+        return EXIT_OK
     cherry, err = git("cherry", "origin/main", "HEAD")
     if cherry is None:
         print(f"[sync_guard] cherry 失败：{err}")
