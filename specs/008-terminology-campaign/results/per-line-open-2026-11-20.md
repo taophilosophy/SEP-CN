@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 1043，FLAG 670，FIX 18，MERGE 4
+判定分布：KEEP 1229，FLAG 677，FIX 19，MERGE 4
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -292,12 +292,20 @@
 - **factive assessment（yid dpyod）**（行 2213，现译「伺察识（yid dpyod）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **fairness**（行 2221，现译「公平」）｜ FLAG ｜ 主译撞形：“公平”同时对应 equity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Fajie yuanqi（法界緣起）**（行 2226，现译「法界缘起」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Fayan**（行 2247，现译「《法言》」）｜ FLAG ｜ 双指：扬雄《法言》（首现 han-dynasty）与禅宗法眼宗（buddhism-chan:534 Fayan lineage 用语所抓）；须分行
 - **fayd**（行 2248，现译「流溢」）｜ FLAG ｜ 主译撞形：“流溢”同时对应 emanation、prohodos；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **ferment**（行 2263，现译「酵素（亦作“发酵原”）」）｜ FLAG ｜ 双义：locke-on-medicine 医学史义“酵素／发酵原”（现译）与泛用“激荡、骚动”义（三处用语皆此义）；须分行或加义注
+- **fiducial**（行 2276，现译「信任型的」）｜ FLAG ｜ 族内不一：fiducial＝信任型的（meritocracy 义）而 fiducial measurement＝基准测量；QM fiducial state 通行“基准态”；须族内统一或分行
+- **fiducial measurement**（行 2277，现译「基准测量」）｜ FLAG ｜ 同 fiducial 族问题（信任型／基准两义），须族内统一或分行
+- **filtration**（行 2286，现译「滤化」）｜ FLAG ｜ 用语两处均为“过滤”义（河流侵蚀／口罩过滤），首现 logic-dynamic 滤化（模型滤化）语境未抓到；须重抓用语或加义注
 - **finality**（行 2288，现译「合目的性」）｜ FLAG ｜ 主译撞形：“合目的性”同时对应 purposiveness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **first mover**（行 2300，现译「第一推动者」）｜ FLAG ｜ 主译撞形：“第一推动者”同时对应 prime mover；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Fischer-Ladner closure**（行 2308，现译「Fischer–Ladner 闭包」）｜ FIX ｜ 人名连接号按 ADR-0041 一字线统一：Fischer–Ladner → Fischer—Ladner（与 Curry—Howard、Einstein—Podolsky—Rosen、Gale—Shapley 一致）
 - **Formal Approaches**（行 2345，现译「形式化方法」）｜ FLAG ｜ 主译撞形：“形式化方法”同时对应 formal methods；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **formal methods**（行 2354，现译「形式化方法」）｜ FLAG ｜ 主译撞形：“形式化方法”同时对应 Formal Approaches；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Four-Seven Debate（四端七情論爭）**（行 2374，现译「四端七情之辩」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **fundamental attribution error**（行 2424，现译「基本归因误差」）｜ FLAG ｜ 社会心理学通行“基本归因错误／偏差”，现译“基本归因误差”须查证
+- **future contingents**（行 2434，现译「未来偶然后件」）｜ FLAG ｜ 行 2434 译“未来偶然后件”疑误：通行作“未来偶然事件／未来偶然事件命题”（auriol:387 为未来偶然事件理论）；与行 2433 同概念译法不一，须合键统一
 - **Gefühl**（行 2461，现译「情感」）｜ FLAG ｜ 主译撞形：“情感”同时对应 emotion、sentiment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Gehalt**（行 2463，现译「内涵」）｜ FLAG ｜ 主译撞形：“内涵”同时对应 connotation、intension；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Geist**（行 2467，现译「精神」）｜ FLAG ｜ 主译撞形：“精神”同时对应 jingshen；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并

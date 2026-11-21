@@ -1329,12 +1329,206 @@
 {"key": "falsifiability", "line": 2236, "v": "KEEP", "zh": "可证伪性", "orig": "—", "note": null, "sheet": "r06"}
 {"key": "falsification", "line": 2237, "v": "KEEP", "zh": "证伪", "orig": "—", "note": null, "sheet": "r06"}
 {"key": "falsificationism", "line": 2238, "v": "KEEP", "zh": "证伪主义", "orig": "—", "note": null, "sheet": "r06"}
-{"key": "fayd", "line": 2248, "v": "FLAG", "zh": "流溢", "orig": "—", "note": "主译撞形：“流溢”同时对应 emanation、prohodos；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "finality", "line": 2288, "v": "FLAG", "zh": "合目的性", "orig": "—", "note": "主译撞形：“合目的性”同时对应 purposiveness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "first mover", "line": 2300, "v": "FLAG", "zh": "第一推动者", "orig": "—", "note": "主译撞形：“第一推动者”同时对应 prime mover；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Formal Approaches", "line": 2345, "v": "FLAG", "zh": "形式化方法", "orig": "—", "note": "主译撞形：“形式化方法”同时对应 formal methods；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "formal methods", "line": 2354, "v": "FLAG", "zh": "形式化方法", "orig": "—", "note": "主译撞形：“形式化方法”同时对应 Formal Approaches；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Four-Seven Debate（四端七情論爭）", "line": 2374, "v": "FLAG", "zh": "四端七情之辩", "orig": "四端七情論爭", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
+{"key": "familism", "line": 2239, "v": "KEEP", "zh": "家族主义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "family resemblance", "line": 2240, "v": "KEEP", "zh": "家族相似性", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fan principle", "line": 2241, "v": "KEEP", "zh": "扇原则", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fan theorem", "line": 2242, "v": "KEEP", "zh": "扇定理", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fanaticism", "line": 2243, "v": "KEEP", "zh": "狂热主义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fang ji", "line": 2244, "v": "KEEP", "zh": "方技", "orig": "方技", "note": null, "sheet": "r07"}
+{"key": "fang shi", "line": 2245, "v": "KEEP", "zh": "方士", "orig": "方士", "note": null, "sheet": "r07"}
+{"key": "fatalism", "line": 2246, "v": "KEEP", "zh": "宿命论", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Fayan", "line": 2247, "v": "FLAG", "zh": "《法言》", "orig": "法言", "note": "双指：扬雄《法言》（首现 han-dynasty）与禅宗法眼宗（buddhism-chan:534 Fayan lineage 用语所抓）；须分行", "sheet": "r07"}
+{"key": "fayd", "line": 2248, "v": "FLAG", "zh": "流溢", "orig": "—", "note": "主译撞形：“流溢”同时对应 emanation、prohodos；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r07"}
+{"key": "Federalism", "line": 2249, "v": "KEEP", "zh": "联邦主义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Federalist", "line": 2250, "v": "KEEP", "zh": "联邦党人", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "federation", "line": 2251, "v": "KEEP", "zh": "联邦", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "feedback loop", "line": 2252, "v": "KEEP", "zh": "反馈回路", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "feeling", "line": 2253, "v": "KEEP", "zh": "感情", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "feeling of absolute dependence", "line": 2254, "v": "KEEP", "zh": "绝对依赖感（施莱尔马赫 schlechthinnige Abhängigkeitsgefühl）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "feeling-towards", "line": 2255, "v": "KEEP", "zh": "朝向感受（戈尔迪）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fellow feeling", "line": 2256, "v": "KEEP", "zh": "同感", "orig": "Mitgefühl", "note": null, "sheet": "r07"}
+{"key": "felt contradiction", "line": 2257, "v": "KEEP", "zh": "感受到的矛盾", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "femininity", "line": 2258, "v": "KEEP", "zh": "女性气质", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "feminism", "line": 2259, "v": "KEEP", "zh": "女性主义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "feminist epistemology", "line": 2260, "v": "KEEP", "zh": "女性主义认识论", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "feminist pornography", "line": 2261, "v": "KEEP", "zh": "女性主义色情", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "feminist theory", "line": 2262, "v": "KEEP", "zh": "女性主义理论", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "ferment", "line": 2263, "v": "FLAG", "zh": "酵素（亦作“发酵原”）", "orig": "—", "note": "双义：locke-on-medicine 医学史义“酵素／发酵原”（现译）与泛用“激荡、骚动”义（三处用语皆此义）；须分行或加义注", "sheet": "r07"}
+{"key": "fermentation", "line": 2264, "v": "KEEP", "zh": "发酵", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "ferromagnetism", "line": 2265, "v": "KEEP", "zh": "铁磁性", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "festival", "line": 2266, "v": "KEEP", "zh": "节日（节庆；festive celebration 节庆）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fetishism", "line": 2267, "v": "KEEP", "zh": "拜物教", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "feudalism", "line": 2268, "v": "KEEP", "zh": "封建主义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fiber bundle", "line": 2269, "v": "KEEP", "zh": "纤维丛", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fictionalism", "line": 2270, "v": "KEEP", "zh": "虚构主义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fictionality", "line": 2271, "v": "KEEP", "zh": "虚构性", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fictionality puzzle", "line": 2272, "v": "KEEP", "zh": "虚构性谜题", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fictitious mean", "line": 2273, "v": "KEEP", "zh": "虚构均值", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fideism", "line": 2274, "v": "KEEP", "zh": "信仰主义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fidelity", "line": 2275, "v": "KEEP", "zh": "忠实", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fiducial", "line": 2276, "v": "FLAG", "zh": "信任型的", "orig": "—", "note": "族内不一：fiducial＝信任型的（meritocracy 义）而 fiducial measurement＝基准测量；QM fiducial state 通行“基准态”；须族内统一或分行", "sheet": "r07"}
+{"key": "fiducial measurement", "line": 2277, "v": "FLAG", "zh": "基准测量", "orig": "—", "note": "同 fiducial 族问题（信任型／基准两义），须族内统一或分行", "sheet": "r07"}
+{"key": "fiduciary relationship", "line": 2278, "v": "KEEP", "zh": "信义关系", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fifth element / aether", "line": 2279, "v": "KEEP", "zh": "第五元素／以太（首现括注）", "orig": "αἰθήρ", "note": null, "sheet": "r07"}
+{"key": "figural moment", "line": 2280, "v": "KEEP", "zh": "形象环节", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "figure of the Earth", "line": 2281, "v": "KEEP", "zh": "地球形状", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fikr", "line": 2282, "v": "KEEP", "zh": "思虑", "orig": "فكر", "note": null, "sheet": "r07"}
+{"key": "file change semantics (FCS)", "line": 2283, "v": "KEEP", "zh": "文件变化语义学", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Filioque", "line": 2284, "v": "KEEP", "zh": "“和子”句", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "filling instructions", "line": 2285, "v": "KEEP", "zh": "填充指令", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "filtration", "line": 2286, "v": "FLAG", "zh": "滤化", "orig": "—", "note": "用语两处均为“过滤”义（河流侵蚀／口罩过滤），首现 logic-dynamic 滤化（模型滤化）语境未抓到；须重抓用语或加义注", "sheet": "r07"}
+{"key": "final cause", "line": 2287, "v": "KEEP", "zh": "目的因", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "finality", "line": 2288, "v": "FLAG", "zh": "合目的性", "orig": "—", "note": "主译撞形：“合目的性”同时对应 purposiveness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r07"}
+{"key": "finitary", "line": 2289, "v": "KEEP", "zh": "有穷的", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "finitary standpoint", "line": 2290, "v": "KEEP", "zh": "有穷立场", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "finite differentiation", "line": 2291, "v": "KEEP", "zh": "有限分立", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "finite model property", "line": 2292, "v": "KEEP", "zh": "有穷模型性质", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "finitism", "line": 2293, "v": "KEEP", "zh": "有穷主义（亦作“有限主义”）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "First / Later Diffusion of Buddhism", "line": 2294, "v": "KEEP", "zh": "前弘期／后弘期", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "First Analogy", "line": 2295, "v": "KEEP", "zh": "第一类比", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "first cause", "line": 2296, "v": "KEEP", "zh": "第一因", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "First Degree Entailment (FDE)", "line": 2297, "v": "KEEP", "zh": "FDE（First Degree Entailment）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "first intention", "line": 2298, "v": "KEEP", "zh": "第一意向", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "first meaning", "line": 2299, "v": "KEEP", "zh": "第一意义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "first mover", "line": 2300, "v": "FLAG", "zh": "第一推动者", "orig": "—", "note": "主译撞形：“第一推动者”同时对应 prime mover；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r07"}
+{"key": "first person authorization", "line": 2301, "v": "KEEP", "zh": "第一人称授权", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "first philosophy", "line": 2302, "v": "KEEP", "zh": "第一哲学", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "first principle", "line": 2303, "v": "KEEP", "zh": "第一原理", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "First Separate Intellect", "line": 2304, "v": "KEEP", "zh": "第一独立理智", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "first-order ethics", "line": 2305, "v": "KEEP", "zh": "第一阶伦理学", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "first-order formula", "line": 2306, "v": "KEEP", "zh": "一阶公式", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "first-order logic", "line": 2307, "v": "KEEP", "zh": "一阶逻辑", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Fischer-Ladner closure", "line": 2308, "v": "FIX", "zh": "Fischer–Ladner 闭包", "orig": "—", "note": "人名连接号按 ADR-0041 一字线统一：Fischer–Ladner → Fischer—Ladner（与 Curry—Howard、Einstein—Podolsky—Rosen、Gale—Shapley 一致）", "sheet": "r07"}
+{"key": "Fisher information", "line": 2309, "v": "KEEP", "zh": "费希尔信息", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fission", "line": 2310, "v": "KEEP", "zh": "分裂", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fitness", "line": 2311, "v": "KEEP", "zh": "适合度", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fitra", "line": 2312, "v": "KEEP", "zh": "天性（菲特拉；亦作“自然禀赋”）", "orig": "فطرة", "note": null, "sheet": "r07"}
+{"key": "fiṭrīyāt", "line": 2313, "v": "KEEP", "zh": "天性命题（有中项而三段论至简；fitra 天性同根）", "orig": "فطریات", "note": null, "sheet": "r07"}
+{"key": "fittingness", "line": 2314, "v": "KEEP", "zh": "适宜性", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "five classes of sentient beings", "line": 2315, "v": "KEEP", "zh": "五性各别", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Five Classics", "line": 2316, "v": "KEEP", "zh": "《五经》", "orig": "五經", "note": null, "sheet": "r07"}
+{"key": "Five Madhyamaka Reasonings", "line": 2317, "v": "KEEP", "zh": "中观五大因", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Five Modes", "line": 2318, "v": "KEEP", "zh": "五式", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Five Modes of Agrippa", "line": 2319, "v": "KEEP", "zh": "阿格里帕五式", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Five-Factor Model", "line": 2320, "v": "KEEP", "zh": "五因素模型", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fixed point theorem", "line": 2321, "v": "KEEP", "zh": "不动点定理", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fixed stars", "line": 2322, "v": "KEEP", "zh": "恒星", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fixed-point", "line": 2323, "v": "KEEP", "zh": "不动点", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "flattering ethics", "line": 2324, "v": "KEEP", "zh": "谄媚伦理学（鲍姆嘉通；指把德性境况说得轻易可得的伦理体系）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "flexibility", "line": 2325, "v": "KEEP", "zh": "灵活性", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fluid", "line": 2326, "v": "KEEP", "zh": "流体", "orig": "une liqueur", "note": null, "sheet": "r07"}
+{"key": "flux", "line": 2327, "v": "KEEP", "zh": "流变", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fluxus", "line": 2328, "v": "KEEP", "zh": "流（fluxus）", "orig": "fluxus", "note": null, "sheet": "r07"}
+{"key": "Flynn effect", "line": 2329, "v": "KEEP", "zh": "弗林效应", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "focal meaning / pros hen", "line": 2330, "v": "KEEP", "zh": "焦点意义／面向一（pros hen）（亦作“指向一”）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "focused proof", "line": 2331, "v": "KEEP", "zh": "聚焦证明", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "foliation", "line": 2332, "v": "KEEP", "zh": "叶状剖分", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "folk psychology", "line": 2333, "v": "KEEP", "zh": "民间心理学", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "footprint of selection", "line": 2334, "v": "KEEP", "zh": "选择足迹", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "force field", "line": 2335, "v": "KEEP", "zh": "力场", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "forced loan", "line": 2336, "v": "KEEP", "zh": "强制借款", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "forcing", "line": 2337, "v": "KEEP", "zh": "力迫", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fore-structure", "line": 2338, "v": "KEEP", "zh": "前结构", "orig": "Vorstruktur", "note": null, "sheet": "r07"}
+{"key": "foreknowledge", "line": 2339, "v": "KEEP", "zh": "预知", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "forgiveness", "line": 2340, "v": "KEEP", "zh": "宽恕", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "form", "line": 2341, "v": "KEEP", "zh": "形式（亚里士多德 eidos 语境）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "form of corporeity", "line": 2342, "v": "KEEP", "zh": "形体性形式", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Form-Number", "line": 2343, "v": "KEEP", "zh": "形式数（亦作“理念数”）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "forma corporis", "line": 2344, "v": "KEEP", "zh": "身体之形式", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Formal Approaches", "line": 2345, "v": "FLAG", "zh": "形式化方法", "orig": "—", "note": "主译撞形：“形式化方法”同时对应 formal methods；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r07"}
+{"key": "formal cause", "line": 2346, "v": "KEEP", "zh": "形式因", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formal concept / objective concept", "line": 2347, "v": "KEEP", "zh": "形式概念／对象概念", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formal consequence", "line": 2348, "v": "KEEP", "zh": "形式后承", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formal correctness", "line": 2349, "v": "KEEP", "zh": "形式正确性", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formal distinction", "line": 2350, "v": "KEEP", "zh": "形式区分", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formal identity", "line": 2351, "v": "KEEP", "zh": "形式同一", "orig": "identitas formalis", "note": null, "sheet": "r07"}
+{"key": "formal language", "line": 2352, "v": "KEEP", "zh": "形式语言", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formal logic", "line": 2353, "v": "KEEP", "zh": "形式逻辑", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formal methods", "line": 2354, "v": "FLAG", "zh": "形式化方法", "orig": "—", "note": "主译撞形：“形式化方法”同时对应 Formal Approaches；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r07"}
+{"key": "formal mode of speech", "line": 2355, "v": "KEEP", "zh": "形式说话方式", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formal object", "line": 2356, "v": "KEEP", "zh": "形式对象", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formal predication", "line": 2357, "v": "KEEP", "zh": "形式谓述", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formal supposition", "line": 2358, "v": "KEEP", "zh": "形式指代", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formalism", "line": 2359, "v": "KEEP", "zh": "形式主义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formality", "line": 2360, "v": "KEEP", "zh": "形式性", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formalization", "line": 2361, "v": "KEEP", "zh": "形式化", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "formative drive", "line": 2362, "v": "KEEP", "zh": "形成驱力（Bildungstrieb）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "forms of life", "line": 2363, "v": "KEEP", "zh": "生活形式", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Formula of Universal Law", "line": 2364, "v": "KEEP", "zh": "普遍法则公式", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "foundation (Gestalt theory)", "line": 2365, "v": "KEEP", "zh": "基础", "orig": "Grundlage", "note": null, "sheet": "r07"}
+{"key": "foundational consciousness", "line": 2366, "v": "KEEP", "zh": "基识", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "foundational research", "line": 2367, "v": "KEEP", "zh": "基础研究", "orig": "Grundlagenforschung", "note": null, "sheet": "r07"}
+{"key": "foundationalism", "line": 2368, "v": "KEEP", "zh": "基础主义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "founded contents", "line": 2369, "v": "KEEP", "zh": "奠定内容", "orig": "fundierte Inhalte", "note": null, "sheet": "r07"}
+{"key": "four causes", "line": 2370, "v": "KEEP", "zh": "四因说", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Four Dimensionalism", "line": 2371, "v": "KEEP", "zh": "四维主义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "four kinds of inquiry", "line": 2372, "v": "KEEP", "zh": "四类探究", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "four noble truths", "line": 2373, "v": "KEEP", "zh": "四圣谛（亦作“四谛”）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Four-Seven Debate（四端七情論爭）", "line": 2374, "v": "FLAG", "zh": "四端七情之辩", "orig": "四端七情論爭", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r07"}
+{"key": "four-valued semantics", "line": 2375, "v": "KEEP", "zh": "四值语义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Fourier decomposition", "line": 2376, "v": "KEEP", "zh": "傅里叶分解", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Fourier series", "line": 2377, "v": "KEEP", "zh": "傅里叶级数", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fragment", "line": 2378, "v": "KEEP", "zh": "断片", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fragmentation", "line": 2379, "v": "KEEP", "zh": "碎片化", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "frame", "line": 2380, "v": "KEEP", "zh": "框架", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "frame axiom", "line": 2381, "v": "KEEP", "zh": "框架公理", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "frame of reference", "line": 2382, "v": "KEEP", "zh": "参照系", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "frame problem", "line": 2383, "v": "KEEP", "zh": "框架问题", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Frankfurt School", "line": 2384, "v": "KEEP", "zh": "法兰克福学派", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "free algebra", "line": 2385, "v": "KEEP", "zh": "自由代数", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "free choice", "line": 2386, "v": "KEEP", "zh": "自由选择", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "free first actions", "line": 2387, "v": "KEEP", "zh": "自由的第一行动（克鲁修斯；first 亦通“首要的”）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "free knowledge", "line": 2388, "v": "KEEP", "zh": "自由知识", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "free logic", "line": 2389, "v": "KEEP", "zh": "自由逻辑", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "free play (of cognitive faculties)", "line": 2390, "v": "KEEP", "zh": "自由游戏（认识能力；想象力与知性）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "free speech", "line": 2391, "v": "KEEP", "zh": "言论自由", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "free trade", "line": 2392, "v": "KEEP", "zh": "自由贸易", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "free variables", "line": 2393, "v": "KEEP", "zh": "自由变元", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "free will", "line": 2394, "v": "KEEP", "zh": "自由意志", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "free-rider", "line": 2395, "v": "KEEP", "zh": "搭便车者（亦作“免费搭车者”）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Freedom", "line": 2396, "v": "KEEP", "zh": "自由", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "freedom from conceptual proliferations", "line": 2397, "v": "KEEP", "zh": "离戏论", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "freedom of association", "line": 2398, "v": "KEEP", "zh": "结社自由", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "freedom of conscience", "line": 2399, "v": "KEEP", "zh": "良心自由", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "freedom of movement", "line": 2400, "v": "KEEP", "zh": "迁徙自由（亦作“行动自由”）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "frequency interpretation", "line": 2401, "v": "KEEP", "zh": "频率解释", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Freudianism", "line": 2402, "v": "KEEP", "zh": "弗洛伊德主义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fridgeon", "line": 2403, "v": "KEEP", "zh": "冰箱子", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "front (Front)", "line": 2404, "v": "KEEP", "zh": "前线", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fruition", "line": 2405, "v": "KEEP", "zh": "享用", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fu (poetry)", "line": 2406, "v": "KEEP", "zh": "赋", "orig": "賦", "note": null, "sheet": "r07"}
+{"key": "fulfilled moment", "line": 2407, "v": "KEEP", "zh": "充实的瞬间", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "full employment", "line": 2408, "v": "KEEP", "zh": "充分就业", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "full moral status", "line": 2409, "v": "KEEP", "zh": "完全道德地位", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "full reflective equilibrium", "line": 2410, "v": "KEEP", "zh": "完全反思平衡", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "full topos", "line": 2411, "v": "KEEP", "zh": "满拓扑斯", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fullness", "line": 2412, "v": "KEEP", "zh": "充实性", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fullness of language", "line": 2413, "v": "KEEP", "zh": "语言的充实（亦作“语言的丰满”）", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fullness of power / plenitudo potestatis", "line": 2414, "v": "KEEP", "zh": "完全的权力（首现括注拉丁名）", "orig": "plenitudo potestatis", "note": null, "sheet": "r07"}
+{"key": "fully abstract", "line": 2415, "v": "KEEP", "zh": "完全抽象", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fully interpreted", "line": 2416, "v": "KEEP", "zh": "完全解释的", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "function problem", "line": 2417, "v": "KEEP", "zh": "函数问题", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "functional organization", "line": 2418, "v": "KEEP", "zh": "功能组织", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "functional reference", "line": 2419, "v": "KEEP", "zh": "功能指称", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "functional specification", "line": 2420, "v": "KEEP", "zh": "功能刻画", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "functionalism", "line": 2421, "v": "KEEP", "zh": "功能主义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "functionally complete", "line": 2422, "v": "KEEP", "zh": "函项完全", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fundamental", "line": 2423, "v": "KEEP", "zh": "基本的", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fundamental attribution error", "line": 2424, "v": "FLAG", "zh": "基本归因误差", "orig": "—", "note": "社会心理学通行“基本归因错误／偏差”，现译“基本归因误差”须查证", "sheet": "r07"}
+{"key": "fundamental feeling", "line": 2425, "v": "KEEP", "zh": "基本感觉", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fundamental frequency", "line": 2426, "v": "KEEP", "zh": "基频", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fundamental ontology", "line": 2427, "v": "KEEP", "zh": "基础存在论", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Fundamental Theorem of Prevision", "line": 2428, "v": "KEEP", "zh": "预现基本定理", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fundamentalism", "line": 2429, "v": "KEEP", "zh": "基要主义", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fundamentalist debate", "line": 2430, "v": "KEEP", "zh": "基础主义之争", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fusion of horizons", "line": 2431, "v": "KEEP", "zh": "视域融合", "orig": "Horizontverschmelzung", "note": null, "sheet": "r07"}
+{"key": "fusion operator", "line": 2432, "v": "KEEP", "zh": "融合算子", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "future contingent event / future contingents", "line": 2433, "v": "KEEP", "zh": "未来偶然事件", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "future contingents", "line": 2434, "v": "FLAG", "zh": "未来偶然后件", "orig": "—", "note": "行 2434 译“未来偶然后件”疑误：通行作“未来偶然事件／未来偶然事件命题”（auriol:387 为未来偶然事件理论）；与行 2433 同概念译法不一，须合键统一", "sheet": "r07"}
+{"key": "fuzzy logic", "line": 2435, "v": "KEEP", "zh": "模糊逻辑", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "fuzzy set", "line": 2436, "v": "KEEP", "zh": "模糊集合", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Gale-Shapley algorithm", "line": 2442, "v": "KEEP", "zh": "盖尔—沙普利算法", "orig": "—", "note": null, "sheet": "r07"}
+{"key": "Galilean invariance", "line": 2443, "v": "KEEP", "zh": "伽利略不变性", "orig": "—", "note": null, "sheet": "r07"}
 {"key": "Gefühl", "line": 2461, "v": "FLAG", "zh": "情感", "orig": "Gefühl", "note": "主译撞形：“情感”同时对应 emotion、sentiment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "Gehalt", "line": 2463, "v": "FLAG", "zh": "内涵", "orig": "Gehalt", "note": "主译撞形：“内涵”同时对应 connotation、intension；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "Geist", "line": 2467, "v": "FLAG", "zh": "精神", "orig": "—", "note": "主译撞形：“精神”同时对应 jingshen；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
