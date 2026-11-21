@@ -403,7 +403,7 @@ assert not bad, f"归类待裁 {len(bad)}"
 
 # ---------- 输出 ----------
 with (OUT / "mapping.tsv").open("w", encoding="utf-8", newline="") as fh:
-    w = csv.writer(fh, delimiter="\t")
+    w = csv.writer(fh, delimiter="\t", lineterminator="\n")
     w.writerow(["slug", "题名", "现节", "新节", "档", "en_key", "母条slug", "依据"])
     for e in entries:
         w.writerow([e["slug"], e["text"], "／".join(e["path"]), "／".join(e["new_path"]),
@@ -431,7 +431,7 @@ for nd in seq_nodes:
         prev.append(a)
 (OUT / "write-preview.md").write_text("\n".join(prev) + "\n", encoding="utf-8", newline="\n")
 
-with (OUT / "review-clusters.txt").open("w", encoding="utf-8", newline="") as fh:
+with (OUT / "review-clusters.txt").open("w", encoding="utf-8", newline="\n") as fh:
     for nd in seq_nodes:
         el = nd.get("entries", [])
         if len(el) >= 5:
