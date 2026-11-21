@@ -4529,25 +4529,206 @@
 {"key": "restrictor", "line": 5496, "v": "KEEP", "zh": "限制域（亦作“限制词”）", "orig": "—", "note": null, "sheet": "r22"}
 {"key": "resurrection", "line": 5497, "v": "KEEP", "zh": "复活", "orig": "—", "note": null, "sheet": "r22"}
 {"key": "retentive faculty", "line": 5498, "v": "KEEP", "zh": "保留官能", "orig": "—", "note": null, "sheet": "r22"}
-{"key": "reversion", "line": 5506, "v": "FLAG", "zh": "回返", "orig": "—", "note": "主译撞形：“回返”同时对应 epistrophe；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "right of nature", "line": 5522, "v": "FLAG", "zh": "自然权利", "orig": "—", "note": "主译撞形：“自然权利”同时对应 natural right / Natural Rights；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "sabab", "line": 5577, "v": "FLAG", "zh": "次级原因", "orig": "سبب", "note": "主译撞形：“次级原因”同时对应 secondary causes；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "śabda", "line": 5580, "v": "FLAG", "zh": "证言（亦作“声量/圣言量”）", "orig": "शब्द", "note": "主译撞形：“证言”同时对应 testimony；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Sache selbst", "line": 5586, "v": "FLAG", "zh": "事情本身（die Sache selbst；亦作“事情自身”）", "orig": "Sache selbst", "note": "主译撞形：“事情本身”同时对应 nafs al-ʾamr；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "sadō", "line": 5592, "v": "FLAG", "zh": "茶道", "orig": "茶道", "note": "主译撞形：“茶道”同时对应 chadō；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "saṃkara", "line": 5625, "v": "FLAG", "zh": "交叠", "orig": "संकर", "note": "主译撞形：“交叠”同时对应 sāṃkarya；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "sāṃkarya", "line": 5626, "v": "FLAG", "zh": "交叠（同键变体）", "orig": "सांकर्य", "note": "主译撞形：“交叠”同时对应 saṃkara；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "saṃkhyā（数目）", "line": 5627, "v": "FLAG", "zh": "数", "orig": "संख्या", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "saṃśaya", "line": 5631, "v": "FLAG", "zh": "疑", "orig": "संशय", "note": "主译撞形：“疑”同时对应 doubt（the tshom）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "saṃskāra", "line": 5632, "v": "FLAG", "zh": "倾向属性", "orig": "संस्कार", "note": "主译撞形：“倾向属性”同时对应 dispositional property；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "saṅketa", "line": 5646, "v": "FLAG", "zh": "约定", "orig": "संकेत", "note": "主译撞形：“约定”同时对应 nomos；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "saprakāraka", "line": 5652, "v": "FLAG", "zh": "有分别（同义）", "orig": "सप्रकारक", "note": "主译撞形：“有分别”同时对应 savikalpaka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "savikalpaka", "line": 5668, "v": "FLAG", "zh": "有分别（现量）", "orig": "सविकल्पक", "note": "主译撞形：“有分别”同时对应 saprakāraka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "scepticism", "line": 5674, "v": "FLAG", "zh": "怀疑论", "orig": "—", "note": "主译撞形：“怀疑论”同时对应 skepticism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "schema", "line": 5676, "v": "FLAG", "zh": "图式", "orig": "—", "note": "主译撞形：“图式”同时对应 scheme；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "schema T／T-schema", "line": 5678, "v": "FLAG", "zh": "图式 T／T 图式", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "scheme", "line": 5681, "v": "FLAG", "zh": "图式（英文 scheme，与 schema 同指；正文保留原词括注）", "orig": "—", "note": "主译撞形：“图式”同时对应 schema；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "scientia", "line": 5691, "v": "FLAG", "zh": "知识（经院拉丁术语）", "orig": "scientia", "note": "主译撞形：“知识”同时对应 epistêmê；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "retinal image", "line": 5499, "v": "KEEP", "zh": "视网膜像", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "retributive justice", "line": 5500, "v": "KEEP", "zh": "报应正义", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Retrocausality", "line": 5501, "v": "KEEP", "zh": "逆因果关系", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "retrocognition", "line": 5502, "v": "KEEP", "zh": "宿命智（亦作“宿命通”）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Revelation", "line": 5503, "v": "KEEP", "zh": "启示", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "reverse discrimination", "line": 5504, "v": "KEEP", "zh": "反向歧视", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "reverse mathematics", "line": 5505, "v": "KEEP", "zh": "反推数学（亦作“逆向数学”）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "reversion", "line": 5506, "v": "FLAG", "zh": "回返", "orig": "—", "note": "主译撞形：“回返”同时对应 epistrophe；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "revision theory", "line": 5507, "v": "KEEP", "zh": "修正论", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "revisionary", "line": 5508, "v": "KEEP", "zh": "修正式", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Revisionism", "line": 5509, "v": "KEEP", "zh": "修正主义", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Revolutions", "line": 5510, "v": "KEEP", "zh": "革命", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "reward system", "line": 5511, "v": "KEEP", "zh": "奖赏系统", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rewilding", "line": 5512, "v": "KEEP", "zh": "再野化（亦作“野化”）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rhapsode", "line": 5513, "v": "KEEP", "zh": "诵诗人", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Rhetoric", "line": 5514, "v": "KEEP", "zh": "《修辞学》", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rhythm", "line": 5515, "v": "KEEP", "zh": "韵律（黑尔《一元论论纲》核心词）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "ri / chi (mandalic)", "line": 5516, "v": "KEEP", "zh": "理/智", "orig": "理・智", "note": null, "sheet": "r23"}
+{"key": "ri-hosshin / rishin", "line": 5517, "v": "KEEP", "zh": "理法身", "orig": "理法身", "note": null, "sheet": "r23"}
+{"key": "richi funi", "line": 5518, "v": "KEEP", "zh": "理智不二", "orig": "理智不二", "note": null, "sheet": "r23"}
+{"key": "Riemann tensor", "line": 5519, "v": "KEEP", "zh": "黎曼张量", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Riemannian geometry", "line": 5520, "v": "KEEP", "zh": "黎曼几何", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "right inverse", "line": 5521, "v": "KEEP", "zh": "右逆", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "right of nature", "line": 5522, "v": "FLAG", "zh": "自然权利", "orig": "—", "note": "主译撞形：“自然权利”同时对应 natural right / Natural Rights；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "right to life", "line": 5523, "v": "KEEP", "zh": "生命权", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rightness", "line": 5524, "v": "KEEP", "zh": "正当性", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rights-based moral theory", "line": 5525, "v": "KEEP", "zh": "权利论道德理论", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Rigor", "line": 5526, "v": "KEEP", "zh": "严谨性", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rigorism", "line": 5527, "v": "KEEP", "zh": "严格主义", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rigorous science", "line": 5528, "v": "KEEP", "zh": "严格科学", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Rinzai", "line": 5529, "v": "KEEP", "zh": "临济（临济禅）", "orig": "臨済", "note": null, "sheet": "r23"}
+{"key": "risk (decision theory)", "line": 5530, "v": "KEEP", "zh": "风险", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "risk affine", "line": 5531, "v": "FLAG", "zh": "风险偏好（亦作“风险爱好”）", "orig": "—", "note": "现译“风险偏好／风险爱好”把 risk affine（对概率呈仿射性的风险态度）与 risk-loving／risk-seeking（风险爱好）混同；risk:1141 语境为 risk affine behaviour 的仿射表示，宜作“风险仿射”；须查证后改译", "sheet": "r23"}
+{"key": "risk assessment", "line": 5532, "v": "KEEP", "zh": "风险评估", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "risk aversion", "line": 5533, "v": "KEEP", "zh": "风险厌恶", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "risk factor", "line": 5534, "v": "KEEP", "zh": "风险因素", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "risk function", "line": 5535, "v": "KEEP", "zh": "风险函数", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "risk management", "line": 5536, "v": "KEEP", "zh": "风险管理", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "risk neutral", "line": 5537, "v": "KEEP", "zh": "风险中性", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "risk perception", "line": 5538, "v": "KEEP", "zh": "风险感知（亦作“风险认知”）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "risk value", "line": 5539, "v": "KEEP", "zh": "风险值", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "risk-benefit analysis", "line": 5540, "v": "KEEP", "zh": "风险—收益分析（亦作“风险获益分析”）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Risorgimento", "line": 5541, "v": "KEEP", "zh": "意大利复兴运动", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Ritterakademie", "line": 5542, "v": "KEEP", "zh": "骑士学院（保留德文）", "orig": "Ritterakademie", "note": null, "sheet": "r23"}
+{"key": "river fragments", "line": 5543, "v": "KEEP", "zh": "河流残篇", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Robbins conjecture", "line": 5544, "v": "KEEP", "zh": "罗宾斯猜想", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Robertson-Walker metric", "line": 5545, "v": "KEEP", "zh": "罗伯逊—沃克度规", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "roboethics", "line": 5546, "v": "KEEP", "zh": "机器人伦理（亦作“机器人伦理学”）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "robustness", "line": 5547, "v": "KEEP", "zh": "稳健性", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Romans", "line": 5548, "v": "KEEP", "zh": "《罗马书》", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "romanticism", "line": 5549, "v": "KEEP", "zh": "浪漫主义", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rough hero", "line": 5550, "v": "KEEP", "zh": "粗粝英雄", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rough heroine", "line": 5551, "v": "KEEP", "zh": "粗粝女主角", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Routley star", "line": 5552, "v": "KEEP", "zh": "Routley 星号", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Routley-Meyer model", "line": 5553, "v": "KEEP", "zh": "Routley–Meyer 模型", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Royal Society (of London)", "line": 5554, "v": "KEEP", "zh": "皇家学会", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Rubā‘iyyāt", "line": 5555, "v": "KEEP", "zh": "《鲁拜集》（海亚姆四行诗）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rubber hand illusion", "line": 5556, "v": "KEEP", "zh": "橡胶手错觉", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rubūbiyya / rabbāniyya", "line": 5557, "v": "FLAG", "zh": "主性", "orig": "ربوبية / ربانية", "note": "两词一译“主性”：伊本·泰米叶 tawḥīd 三分中 rubūbiyya（主性／养育性）与 rabbāniyya（神性／主属性）为不同术语，须分行（建议 rubūbiyya＝主性，rabbāniyya＝神性）", "sheet": "r23"}
+{"key": "Rule Consequentialism", "line": 5558, "v": "KEEP", "zh": "规则后果论（亦作“规则后果主义”）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rule egoism", "line": 5559, "v": "KEEP", "zh": "规则利己主义", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rule of composition", "line": 5560, "v": "KEEP", "zh": "合成规则", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rule of consequence", "line": 5561, "v": "KEEP", "zh": "后承规则", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rule of iteration", "line": 5562, "v": "KEEP", "zh": "迭代规则", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rule of law", "line": 5563, "v": "KEEP", "zh": "法治", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rule of recognition", "line": 5564, "v": "KEEP", "zh": "承认规则", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rule of rescue", "line": 5565, "v": "KEEP", "zh": "救助规则", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rule utilitarianism", "line": 5566, "v": "KEEP", "zh": "规则功利主义", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "rule-circularity", "line": 5567, "v": "KEEP", "zh": "规则循环（premise-circularity 前提循环）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Rules of Reasoning in Philosophy", "line": 5568, "v": "KEEP", "zh": "哲学推理法则", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Russellian monism", "line": 5569, "v": "KEEP", "zh": "罗素式一元论", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "ryōbu mandara", "line": 5570, "v": "KEEP", "zh": "两部曼荼罗", "orig": "両部曼荼羅", "note": null, "sheet": "r23"}
+{"key": "sa-viṣayaka", "line": 5576, "v": "KEEP", "zh": "意向性的（有境）", "orig": "सविषयक", "note": null, "sheet": "r23"}
+{"key": "sabab", "line": 5577, "v": "FLAG", "zh": "次级原因", "orig": "سبب", "note": "主译撞形：“次级原因”同时对应 secondary causes；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "Sabbath", "line": 5578, "v": "KEEP", "zh": "安息日", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Sabbatianism", "line": 5579, "v": "KEEP", "zh": "沙巴泰主义", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "śabda", "line": 5580, "v": "FLAG", "zh": "证言（亦作“声量/圣言量”）", "orig": "शब्द", "note": "同一词两行两译：本行“证言”（从全库 testimony），śabda / āgama 行（行 5581）“声量／圣典量”；须统一或明确分行标准（认识论义证言／量论义声量），不能靠两行自注并存", "sheet": "r23"}
+{"key": "śabda / āgama", "line": 5581, "v": "KEEP", "zh": "声量／圣典量", "orig": "शब्द / आगम", "note": null, "sheet": "r23"}
+{"key": "Sabellianism", "line": 5582, "v": "KEEP", "zh": "撒伯里乌主义", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "sabi", "line": 5583, "v": "KEEP", "zh": "寂（さび）", "orig": "さび", "note": null, "sheet": "r23"}
+{"key": "sabireru", "line": 5584, "v": "KEEP", "zh": "荒废（さびれる）", "orig": "さびれる", "note": null, "sheet": "r23"}
+{"key": "sabishii", "line": 5585, "v": "KEEP", "zh": "孤寂（さびしい）", "orig": "さびしい", "note": null, "sheet": "r23"}
+{"key": "Sache selbst", "line": 5586, "v": "FLAG", "zh": "事情本身（die Sache selbst；亦作“事情自身”）", "orig": "Sache selbst", "note": "主译撞形：“事情本身”同时对应 nafs al-ʾamr；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "Sachlichkeit", "line": 5587, "v": "KEEP", "zh": "实事性", "orig": "Sachlichkeit", "note": null, "sheet": "r23"}
+{"key": "sacraments", "line": 5588, "v": "KEEP", "zh": "圣事", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "sādhya", "line": 5589, "v": "KEEP", "zh": "宗（所立）", "orig": "साध्य", "note": null, "sheet": "r23"}
+{"key": "sādhyābhāvavad-avṛttitvam", "line": 5590, "v": "KEEP", "zh": "于所立之无处不转", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "sadistic conclusion", "line": 5591, "v": "KEEP", "zh": "施虐结论", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "sadō", "line": 5592, "v": "FLAG", "zh": "茶道", "orig": "茶道", "note": "主译撞形：“茶道”同时对应 chadō；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "sadomasochism", "line": 5593, "v": "KEEP", "zh": "施虐受虐症", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "safety", "line": 5594, "v": "KEEP", "zh": "安全性（知识的安全性条件）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "safety barrier", "line": 5595, "v": "KEEP", "zh": "安全屏障", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "safety factor", "line": 5596, "v": "KEEP", "zh": "安全系数", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "sage philosophy", "line": 5597, "v": "KEEP", "zh": "智者哲学（非洲语境）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "sahopalambhaniyama", "line": 5598, "v": "KEEP", "zh": "俱缘定", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "saisei itchi", "line": 5599, "v": "KEEP", "zh": "祭政一致", "orig": "祭政一致", "note": null, "sheet": "r23"}
+{"key": "sākāra", "line": 5600, "v": "KEEP", "zh": "有相", "orig": "साकार", "note": null, "sheet": "r23"}
+{"key": "Sākārasaṃgrahasūtra", "line": 5601, "v": "KEEP", "zh": "《有相集论》", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Sākārasiddhiśāstra", "line": 5602, "v": "KEEP", "zh": "《有相成就论》", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "śaktaṃ padam", "line": 5603, "v": "KEEP", "zh": "有语义能力者（有语义能力之词）", "orig": "शक्तं पदम्", "note": null, "sheet": "r23"}
+{"key": "śakti-jñāna", "line": 5604, "v": "KEEP", "zh": "词义知识（词力知）", "orig": "शक्तिज्ञान", "note": null, "sheet": "r23"}
+{"key": "salaf", "line": 5605, "v": "KEEP", "zh": "早期穆斯林", "orig": "سلف", "note": null, "sheet": "r23"}
+{"key": "ṣalāh", "line": 5606, "v": "KEEP", "zh": "礼拜", "orig": "صلاة", "note": null, "sheet": "r23"}
+{"key": "salami tactics", "line": 5607, "v": "KEEP", "zh": "萨拉米战术", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "salience", "line": 5608, "v": "KEEP", "zh": "凸显性", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "sallekhana", "line": 5609, "v": "KEEP", "zh": "绝食至死", "orig": "सल्लेखना", "note": null, "sheet": "r23"}
+{"key": "salonnière", "line": 5610, "v": "KEEP", "zh": "沙龙女主人（法文原词保留斜体）", "orig": "salonnière", "note": null, "sheet": "r23"}
+{"key": "salto mortale", "line": 5611, "v": "KEEP", "zh": "纵身一跃（保留拉丁）", "orig": "salto mortale", "note": null, "sheet": "r23"}
+{"key": "samadhi", "line": 5612, "v": "KEEP", "zh": "三昧", "orig": "三昧", "note": null, "sheet": "r23"}
+{"key": "sāmagrī", "line": 5613, "v": "KEEP", "zh": "因缘总集", "orig": "सामग्री", "note": null, "sheet": "r23"}
+{"key": "sāmānādhikaraṇya", "line": 5614, "v": "KEEP", "zh": "同所依", "orig": "सामानाधिकरण्य", "note": null, "sheet": "r23"}
+{"key": "sāmānya", "line": 5615, "v": "KEEP", "zh": "普遍（同）", "orig": "सामान्य", "note": null, "sheet": "r23"}
+{"key": "sāmānyābhāva", "line": 5616, "v": "KEEP", "zh": "通类非存在", "orig": "सामान्याभाव", "note": null, "sheet": "r23"}
+{"key": "sāmānyalakṣaṇa", "line": 5617, "v": "KEEP", "zh": "总相连接", "orig": "सामान्यलक्षण", "note": null, "sheet": "r23"}
+{"key": "samavāya", "line": 5618, "v": "KEEP", "zh": "和合", "orig": "समवाय", "note": null, "sheet": "r23"}
+{"key": "samavāyi-kāraṇa", "line": 5619, "v": "KEEP", "zh": "和合因（亦作“依处因”）", "orig": "समवायिकारण", "note": null, "sheet": "r23"}
+{"key": "samaveta-samavāya", "line": 5620, "v": "KEEP", "zh": "和合者中的和合（和合内之和合）", "orig": "समवेतसमवाय", "note": null, "sheet": "r23"}
+{"key": "Sambandhaparīkṣā", "line": 5621, "v": "KEEP", "zh": "《观相属论》", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "sambhāva", "line": 5622, "v": "KEEP", "zh": "相等量", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Saṃdhinirmocana Sūtra", "line": 5623, "v": "KEEP", "zh": "《解深密经》", "orig": "संधिनिर्मोचन", "note": null, "sheet": "r23"}
+{"key": "Same Numbers Choices", "line": 5624, "v": "KEEP", "zh": "同数选择", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "saṃkara", "line": 5625, "v": "FLAG", "zh": "交叠", "orig": "संकर", "note": "主译撞形：“交叠”同时对应 sāṃkarya；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "sāṃkarya", "line": 5626, "v": "MERGE", "zh": "交叠（同键变体）", "orig": "सांकर्य", "note": "登记自注“saṃkara 第三障碍之变体写法（同一概念）”，两行同译“交叠”；并入 saṃkara 行（行 5625）作变体写法", "sheet": "r23"}
+{"key": "saṃkhyā（数目）", "line": 5627, "v": "FLAG", "zh": "数", "orig": "संख्या", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r23"}
+{"key": "sampling", "line": 5628, "v": "KEEP", "zh": "采样", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "sampling distribution", "line": 5629, "v": "KEEP", "zh": "抽样分布", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "saṃsāra", "line": 5630, "v": "KEEP", "zh": "轮回", "orig": "संसार", "note": null, "sheet": "r23"}
+{"key": "saṃśaya", "line": 5631, "v": "FLAG", "zh": "疑", "orig": "संशय", "note": "主译撞形：“疑”同时对应 doubt（the tshom）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "saṃskāra", "line": 5632, "v": "FLAG", "zh": "倾向属性", "orig": "संस्कार", "note": "主译撞形：“倾向属性”同时对应 dispositional property；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "saṃtāna", "line": 5633, "v": "KEEP", "zh": "相续", "orig": "संतान", "note": null, "sheet": "r23"}
+{"key": "Saṃtānāntarasiddhi", "line": 5634, "v": "KEEP", "zh": "《成立他相续论》", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "samudghāta", "line": 5635, "v": "FLAG", "zh": "灭除投射", "orig": "समुद्घात", "note": "本库自拟“灭除投射”，而源文自注仅 extermination（灭除）；“投射”无源文依据，耆那教 karma 语境通行义为（业原子）散出／灭除；须删“投射”或回原文核对后改译", "sheet": "r23"}
+{"key": "saṃvara", "line": 5636, "v": "KEEP", "zh": "遮止", "orig": "संवर", "note": null, "sheet": "r23"}
+{"key": "samyak carita", "line": 5637, "v": "KEEP", "zh": "正行", "orig": "सम्यक् चरित", "note": null, "sheet": "r23"}
+{"key": "saṃyoga", "line": 5638, "v": "KEEP", "zh": "连合（亦作“合”）", "orig": "संयोग", "note": null, "sheet": "r23"}
+{"key": "saṃyukta-samavāya", "line": 5639, "v": "KEEP", "zh": "连合者中的和合（连合中之和合）", "orig": "संयुक्तसमवाय", "note": null, "sheet": "r23"}
+{"key": "saṃyukta-samaveta-samavāya", "line": 5640, "v": "KEEP", "zh": "连合者中和合者中的和合", "orig": "संयुक्तसमवेतसमवाय", "note": null, "sheet": "r23"}
+{"key": "Sanbu-sho", "line": 5641, "v": "KEEP", "zh": "三部书", "orig": "三部書", "note": null, "sheet": "r23"}
+{"key": "sanctified reason", "line": 5642, "v": "KEEP", "zh": "成圣的理性", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "sanction", "line": 5643, "v": "KEEP", "zh": "制裁", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Sandemanianism", "line": 5644, "v": "KEEP", "zh": "Sandeman 主义", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Sanguo Yanyi", "line": 5645, "v": "KEEP", "zh": "《三国演义》", "orig": "三國演義", "note": null, "sheet": "r23"}
+{"key": "saṅketa", "line": 5646, "v": "FLAG", "zh": "约定", "orig": "संकेत", "note": "主译撞形：“约定”同时对应 nomos；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "sannidhi", "line": 5647, "v": "KEEP", "zh": "亲邻", "orig": "सन्निधि", "note": null, "sheet": "r23"}
+{"key": "sannikarṣa", "line": 5648, "v": "KEEP", "zh": "感官连接（亦作“接触”）", "orig": "सन्निकर्ष", "note": null, "sheet": "r23"}
+{"key": "sansui", "line": 5649, "v": "KEEP", "zh": "山水", "orig": "山水", "note": null, "sheet": "r23"}
+{"key": "Santānāntaradūṣaṇa", "line": 5650, "v": "KEEP", "zh": "《破他相续论》", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "sapakṣa", "line": 5651, "v": "KEEP", "zh": "同品", "orig": "सपक्ष", "note": null, "sheet": "r23"}
+{"key": "saprakāraka", "line": 5652, "v": "MERGE", "zh": "有分别（同义）", "orig": "सप्रकारक", "note": "登记自注“savikalpaka 同义形”，两行同译“有分别”；并入 savikalpaka 行（行 5668）作同义形（与 r16 nirvikalpaka／niṣprakāraka 同族处置一致）", "sheet": "r23"}
+{"key": "satisfaction", "line": 5653, "v": "KEEP", "zh": "满足", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "satisfaction operator", "line": 5654, "v": "KEEP", "zh": "满足算子", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "satisfaction relation", "line": 5655, "v": "KEEP", "zh": "满足关系", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "satisfaction statement", "line": 5656, "v": "KEEP", "zh": "满足陈述", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "satisfiability", "line": 5657, "v": "KEEP", "zh": "可满足性", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "satisfiability problem", "line": 5658, "v": "KEEP", "zh": "可满足性问题", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "satisficing futures", "line": 5659, "v": "KEEP", "zh": "满意化未来", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "sattā", "line": 5660, "v": "KEEP", "zh": "存在性", "orig": "सत्ता", "note": null, "sheet": "r23"}
+{"key": "sattvānumāna", "line": 5661, "v": "KEEP", "zh": "存在因（由存在为因之论证）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "saturation", "line": 5662, "v": "KEEP", "zh": "饱和", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Satyadvayavibhaṅga", "line": 5663, "v": "KEEP", "zh": "《二谛分别论》", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "satyagraha", "line": 5664, "v": "KEEP", "zh": "萨蒂亚格拉哈（坚持真理）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Satyākāravāda", "line": 5665, "v": "KEEP", "zh": "行相真实派（有相派）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Satz des Bewusstseins", "line": 5666, "v": "KEEP", "zh": "意识命题（莱因霍尔德第一原则）", "orig": "Satz des Bewusstseins", "note": null, "sheet": "r23"}
+{"key": "Sautrāntika", "line": 5667, "v": "KEEP", "zh": "经量部", "orig": "सौत्रान्तिक", "note": null, "sheet": "r23"}
+{"key": "savikalpaka", "line": 5668, "v": "FLAG", "zh": "有分别（现量）", "orig": "सविकल्पक", "note": "主译撞形：“有分别”同时对应 saprakāraka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "saving rate", "line": 5669, "v": "KEEP", "zh": "储蓄率", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "saviour sibling", "line": 5670, "v": "KEEP", "zh": "救命同胞", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scale transformation", "line": 5671, "v": "KEEP", "zh": "标度变换", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scattered", "line": 5672, "v": "KEEP", "zh": "散布的", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scenic aesthetic", "line": 5673, "v": "KEEP", "zh": "风景美学", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scepticism", "line": 5674, "v": "FLAG", "zh": "怀疑论", "orig": "—", "note": "主译撞形：“怀疑论”同时对应 skepticism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "Scheitern", "line": 5675, "v": "KEEP", "zh": "挫折（亦作“失败”）", "orig": "Scheitern", "note": null, "sheet": "r23"}
+{"key": "schema", "line": 5676, "v": "FLAG", "zh": "图式", "orig": "—", "note": "主译撞形：“图式”同时对应 scheme；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "schêma (Kant)", "line": 5677, "v": "KEEP", "zh": "图型（康德；亦作“图式”）", "orig": "σχῆμα", "note": null, "sheet": "r23"}
+{"key": "schema T／T-schema", "line": 5678, "v": "FLAG", "zh": "图式 T／T 图式", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r23"}
+{"key": "schematic sentence", "line": 5679, "v": "FLAG", "zh": "模式句", "orig": "—", "note": "族内不一：本行“模式句”（本库首译）而 schema 行（行 5676）“图式”、schema T 行“图式 T”；须统一（建议“图式句”），或登记分域理由", "sheet": "r23"}
+{"key": "schematization", "line": 5680, "v": "KEEP", "zh": "图型化", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scheme", "line": 5681, "v": "FLAG", "zh": "图式（英文 scheme，与 schema 同指；正文保留原词括注）", "orig": "—", "note": "主译撞形：“图式”同时对应 schema；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "scholastic quaestio", "line": 5682, "v": "FLAG", "zh": "经院问题", "orig": "—", "note": "与 quaestio 行（行 5197，经院论辩）同词两译：本行作“经院问题”；两行皆称学界通行，须统一（建议 quaestio／scholastic quaestio 同作“经院论辩”，或说明“问题”为其体裁义）", "sheet": "r23"}
+{"key": "scholastic realism", "line": 5683, "v": "KEEP", "zh": "经院实在论", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scholasticism", "line": 5684, "v": "KEEP", "zh": "经院哲学", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Scholium", "line": 5685, "v": "KEEP", "zh": "附释", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "school divinity", "line": 5686, "v": "KEEP", "zh": "经院神学", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Science", "line": 5687, "v": "KEEP", "zh": "科学", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "science denial", "line": 5688, "v": "KEEP", "zh": "否认科学", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "science education", "line": 5689, "v": "KEEP", "zh": "科学教育", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Science of Judaism", "line": 5690, "v": "KEEP", "zh": "犹太学（Wissenschaft des Judentums）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scientia", "line": 5691, "v": "FLAG", "zh": "知识（经院拉丁术语）", "orig": "scientia", "note": "主译撞形：“知识”同时对应 epistêmê；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "scientia civilis", "line": 5692, "v": "KEEP", "zh": "公民科学（保留拉丁，首现括注）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scientia necessaria / ad utrumlibet", "line": 5693, "v": "KEEP", "zh": "必然知识/两可知识", "orig": "scientia necessaria / ad utrumlibet", "note": null, "sheet": "r23"}
+{"key": "scientiae mediae", "line": 5694, "v": "KEEP", "zh": "中间科学（middle (mixed) sciences 中间（混合）科学）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scientific cognitivism", "line": 5695, "v": "KEEP", "zh": "科学认知主义", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scientific community", "line": 5696, "v": "KEEP", "zh": "科学共同体", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scientific corpus", "line": 5697, "v": "KEEP", "zh": "科学知识库", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scientific experience", "line": 5698, "v": "KEEP", "zh": "科学经验", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scientific explanation", "line": 5699, "v": "KEEP", "zh": "科学解释（亦作“科学说明”）", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scientific humanism", "line": 5700, "v": "KEEP", "zh": "科学人文主义", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scientific knowledge", "line": 5701, "v": "KEEP", "zh": "科学知识", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "Scientific Method", "line": 5702, "v": "KEEP", "zh": "科学方法", "orig": "—", "note": null, "sheet": "r23"}
+{"key": "scientific methodology", "line": 5703, "v": "KEEP", "zh": "科学方法论", "orig": "—", "note": null, "sheet": "r23"}
 {"key": "secondary causes", "line": 5724, "v": "FLAG", "zh": "次级原因", "orig": "—", "note": "主译撞形：“次级原因”同时对应 sabab；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "Sefer ha-Zohar", "line": 5731, "v": "FLAG", "zh": "《光辉之书》", "orig": "ספר הזוהר", "note": "主译撞形：“《光辉之书》”同时对应 Zohar；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "selection function", "line": 5738, "v": "FLAG", "zh": "选择函数", "orig": "—", "note": "主译撞形：“选择函数”同时对应 choice function；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
