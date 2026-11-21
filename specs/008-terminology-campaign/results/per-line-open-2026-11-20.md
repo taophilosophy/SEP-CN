@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 2642，FLAG 712，FIX 34，MERGE 4
+判定分布：KEEP 2824，FLAG 716，FIX 35，MERGE 4
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -493,18 +493,23 @@
 - **mujō**（行 4069，现译「无常（無常）」）｜ FLAG ｜ 主译撞形：“无常”同时对应 anitya、impermanence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Mūlamadhyamakakārikā**（行 4070，现译「《中论》」）｜ FLAG ｜ 主译撞形：“《中论》”同时对应 Zhonglun；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Müller-Lyer illusion**（行 4071，现译「米勒-莱尔错觉」）｜ FIX ｜ 人名连接号按 ADR-0041 一字线：米勒-莱尔错觉 → 米勒—莱尔错觉
-- **multiplicity**（行 4086，现译「杂多」）｜ FLAG ｜ 主译撞形：“杂多”同时对应 manifold (Kantian)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **multiplicity**（行 4086，现译「杂多」）｜ FLAG ｜ 现译“杂多”与 manifold (Kantian) 行（行 3689）撞形；德勒兹 multiplicity 通行“繁复性／多样性”，须分行区分
+- **mutation-selection balance**（行 4106，现译「突变-选择平衡」）｜ FIX ｜ 连接号按 ADR-0041 一字线：突变-选择平衡 → 突变—选择平衡
 - **nacherleben**（行 4128，现译「再体验（nacherleben；狄尔泰）」）｜ FLAG ｜ 主译撞形：“再体验”同时对应 re-experiencing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **nafs al-ʾamr**（行 4129，现译「事情本身（字面义；技术义指事物自在之所是；与 die Sache selbst 行同形异源，勿混）」）｜ FLAG ｜ 主译撞形：“事情本身”同时对应 Sache selbst；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **naimittikī**（行 4130，现译「自然种类词」）｜ FLAG ｜ 现译“自然种类词”存疑：弥曼差语境 naimittika 通常指约定／偶成（与 svabhāva 自性相对），与“自然种类”义相反；须回原典核对
 - **nairātmya**（行 4131，现译「无我」）｜ FLAG ｜ 主译撞形：“无我”同时对应 anātman；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **natural law**（行 4159，现译「自然法」）｜ FLAG ｜ 主译撞形：“自然法”同时对应 laws of nature；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **natural right / Natural Rights**（行 4168，现译「自然权利（亦作“天赋人权”）」）｜ FLAG ｜ 主译撞形：“自然权利”同时对应 right of nature；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **necessary being**（行 4182，现译「必然存在者」）｜ FLAG ｜ 主译撞形：“必然存在者”同时对应 wājib al-wujūd；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **necromancy / geomancy / divination**（行 4189，现译「死灵术／地占术／占卜」）｜ FLAG ｜ geomancy 两行译法不一：本行“地占术”vs 行 2523“土占术”；须统一（通行“地占术”）
+- **Needham problem**（行 4191，现译「李约瑟问题」）｜ FLAG ｜ 原文列误填中文“李约瑟问题”，应填英文原词 Needham problem；数据缺陷正列（与 correlative cosmology 同族）
 - **neighborhood function**（行 4204，现译「邻域函数」）｜ FLAG ｜ 主译撞形：“邻域函数”同时对应 neighborhood functions；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **neighborhood functions**（行 4205，现译「邻域函数」）｜ FLAG ｜ 主译撞形：“邻域函数”同时对应 neighborhood function；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **neighborhood functions**（行 4205，现译「邻域函数」）｜ FLAG ｜ 与 neighborhood function 行（行 4204）单复数两行同译“邻域函数”，须合键（neighbourhood semantics 英拼系源词异拼，登记即可）
 - **nepantla**（行 4222，现译「保留原文（纳瓦特尔语“之间”）」）｜ FLAG ｜ 主译撞形：“保留原文”同时对应 apretado、relajiento、relajo、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **nirvikalpaka**（行 4253，现译「无分别（现量）」）｜ FLAG ｜ 主译撞形：“无分别”同时对应 niṣprakāraka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **niṣprakāraka**（行 4254，现译「无分别（同义）」）｜ FLAG ｜ 主译撞形：“无分别”同时对应 nirvikalpaka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **niche**（行 4239，现译「龛」）｜ FLAG ｜ 生态学通行“生态位”，cancer 语境 tumor niche 通行“肿瘤龛／生态位”；现译“龛”须查证裁定
+- **nirvikalpaka**（行 4253，现译「无分别（现量）」）｜ FLAG ｜ 与 niṣprakāraka 行（行 4254，注同义）两转写异词同译“无分别”；须合键或分行设计核对（因明两词义有细微别）
+- **niṣprakāraka**（行 4254，现译「无分别（同义）」）｜ FLAG ｜ 同 nirvikalpaka 行族问题（同义两行），须合键或分行设计核对
 - **niyata**（行 4255，现译「恒常（恒常伴随）」）｜ FLAG ｜ 主译撞形：“恒常”同时对应 permanence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **nomos**（行 4279，现译「约定（亦作“习俗”）」）｜ FLAG ｜ 主译撞形：“约定”同时对应 saṅketa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **non-ascertaining perception（snang la ma nges pa）**（行 4283，现译「显而未定识」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）

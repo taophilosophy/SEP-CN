@@ -3129,19 +3129,206 @@
 {"key": "Müller-Lyer illusion", "line": 4071, "v": "FIX", "zh": "米勒-莱尔错觉", "orig": "Müller-Lyer illusion", "note": "人名连接号按 ADR-0041 一字线：米勒-莱尔错觉 → 米勒—莱尔错觉", "sheet": "r15"}
 {"key": "multi-agent system", "line": 4072, "v": "KEEP", "zh": "多智能体系统", "orig": "—", "note": null, "sheet": "r15"}
 {"key": "multi-location", "line": 4073, "v": "KEEP", "zh": "多重定位", "orig": "multiple location", "note": null, "sheet": "r15"}
-{"key": "multiplicity", "line": 4086, "v": "FLAG", "zh": "杂多", "orig": "—", "note": "主译撞形：“杂多”同时对应 manifold (Kantian)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "nacherleben", "line": 4128, "v": "FLAG", "zh": "再体验（nacherleben；狄尔泰）", "orig": "nacherleben", "note": "主译撞形：“再体验”同时对应 re-experiencing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "nafs al-ʾamr", "line": 4129, "v": "FLAG", "zh": "事情本身（字面义；技术义指事物自在之所是；与 die Sache selbst 行同形异源，勿混）", "orig": "نفس الأمر", "note": "主译撞形：“事情本身”同时对应 Sache selbst；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "nairātmya", "line": 4131, "v": "FLAG", "zh": "无我", "orig": "नैरात्म्य", "note": "主译撞形：“无我”同时对应 anātman；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "natural law", "line": 4159, "v": "FLAG", "zh": "自然法", "orig": "—", "note": "主译撞形：“自然法”同时对应 laws of nature；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "natural right / Natural Rights", "line": 4168, "v": "FLAG", "zh": "自然权利（亦作“天赋人权”）", "orig": "—", "note": "主译撞形：“自然权利”同时对应 right of nature；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "necessary being", "line": 4182, "v": "FLAG", "zh": "必然存在者", "orig": "—", "note": "主译撞形：“必然存在者”同时对应 wājib al-wujūd；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "neighborhood function", "line": 4204, "v": "FLAG", "zh": "邻域函数", "orig": "—", "note": "主译撞形：“邻域函数”同时对应 neighborhood functions；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "neighborhood functions", "line": 4205, "v": "FLAG", "zh": "邻域函数", "orig": "—", "note": "主译撞形：“邻域函数”同时对应 neighborhood function；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "nepantla", "line": 4222, "v": "FLAG", "zh": "保留原文（纳瓦特尔语“之间”）", "orig": "—", "note": "主译撞形：“保留原文”同时对应 apretado、relajiento、relajo、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "nirvikalpaka", "line": 4253, "v": "FLAG", "zh": "无分别（现量）", "orig": "निर्विकल्पक", "note": "主译撞形：“无分别”同时对应 niṣprakāraka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "niṣprakāraka", "line": 4254, "v": "FLAG", "zh": "无分别（同义）", "orig": "निष्प्रकारक", "note": "主译撞形：“无分别”同时对应 nirvikalpaka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "niyata", "line": 4255, "v": "FLAG", "zh": "恒常（恒常伴随）", "orig": "नियत", "note": "主译撞形：“恒常”同时对应 permanence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
+{"key": "multicellularity", "line": 4074, "v": "KEEP", "zh": "多细胞性", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multiculturalism", "line": 4075, "v": "KEEP", "zh": "多元文化主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multifactorial disease", "line": 4076, "v": "KEEP", "zh": "多因子疾病", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multimodal Kripke models", "line": 4077, "v": "KEEP", "zh": "多模态克里普克模型", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multimodality", "line": 4078, "v": "KEEP", "zh": "多模态性", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multiple conclusion", "line": 4079, "v": "KEEP", "zh": "多结论", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multiple realizability", "line": 4080, "v": "KEEP", "zh": "多重可实现性（亦作“多重实现性”）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multiplication", "line": 4081, "v": "KEEP", "zh": "乘法", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multiplicative additive linear logic", "line": 4082, "v": "KEEP", "zh": "乘法加性线性逻辑", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multiplicative disturbances", "line": 4083, "v": "KEEP", "zh": "乘性扰动", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multiplicative exponential linear logic", "line": 4084, "v": "KEEP", "zh": "乘法指数线性逻辑", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multiplicative linear logic", "line": 4085, "v": "KEEP", "zh": "乘法线性逻辑", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multiplicity", "line": 4086, "v": "FLAG", "zh": "杂多", "orig": "—", "note": "现译“杂多”与 manifold (Kantian) 行（行 3689）撞形；德勒兹 multiplicity 通行“繁复性／多样性”，须分行区分", "sheet": "r16"}
+{"key": "multisensory integration", "line": 4087, "v": "KEEP", "zh": "多感官整合", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multiset", "line": 4088, "v": "KEEP", "zh": "多重集", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multiset rewriting", "line": 4089, "v": "KEEP", "zh": "多重集重写", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multispecies", "line": 4090, "v": "KEEP", "zh": "多物种", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "multistage theory", "line": 4091, "v": "KEEP", "zh": "多阶段理论", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Mündigkeit", "line": 4092, "v": "KEEP", "zh": "成熟（康德启蒙语境“自行成熟”；阿多诺政治语境“政治成熟”）", "orig": "Mündigkeit", "note": null, "sheet": "r16"}
+{"key": "Munimatālaṃkāra", "line": 4093, "v": "KEEP", "zh": "《牟尼意庄严》", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "muqaddamāt fiṭrīyāt al-qiyās", "line": 4094, "v": "KEEP", "zh": "内置三段论的天性前提（Gutas 2012 英译 data with built-in syllogisms；本条照译“内置三段论的资料”）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "murajjiḥ", "line": 4095, "v": "KEEP", "zh": "偏重者", "orig": "مرجح", "note": null, "sheet": "r16"}
+{"key": "Muromachi", "line": 4096, "v": "KEEP", "zh": "室町（室町时代）", "orig": "室町", "note": null, "sheet": "r16"}
+{"key": "mushakkik", "line": 4097, "v": "KEEP", "zh": "调节的", "orig": "مشكك", "note": null, "sheet": "r16"}
+{"key": "music alone", "line": 4098, "v": "KEEP", "zh": "纯音乐（music alone）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "musical ontology", "line": 4099, "v": "KEEP", "zh": "音乐本体论", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "musical understanding", "line": 4100, "v": "KEEP", "zh": "音乐理解", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "musical work", "line": 4101, "v": "KEEP", "zh": "音乐作品", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Must We Burn Sade", "line": 4102, "v": "KEEP", "zh": "《要焚毁萨德吗》", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "mutaḥayyiz", "line": 4103, "v": "KEEP", "zh": "空间延展的", "orig": "متحيز", "note": null, "sheet": "r16"}
+{"key": "mutakallimūn", "line": 4104, "v": "KEEP", "zh": "凯拉姆学者（亦作“教义学家”）", "orig": "مُتَكَلِّمُون", "note": null, "sheet": "r16"}
+{"key": "mutakhayyila", "line": 4105, "v": "KEEP", "zh": "想象力（阿维森纳 cogitative 官能；与 takhayyul 想象官能相区分）", "orig": "متخیلة", "note": null, "sheet": "r16"}
+{"key": "mutation-selection balance", "line": 4106, "v": "FIX", "zh": "突变-选择平衡", "orig": "—", "note": "连接号按 ADR-0041 一字线：突变-选择平衡 → 突变—选择平衡", "sheet": "r16"}
+{"key": "mutawātir", "line": 4107, "v": "KEEP", "zh": "大量传递的", "orig": "متواتر", "note": null, "sheet": "r16"}
+{"key": "mutual acceptance", "line": 4108, "v": "KEEP", "zh": "相互接受", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "mutual information", "line": 4109, "v": "KEEP", "zh": "互信息", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "mutual recognition", "line": 4110, "v": "KEEP", "zh": "相互承认", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "mutualism", "line": 4111, "v": "KEEP", "zh": "互利共生", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "muʿjiza", "line": 4112, "v": "KEEP", "zh": "奇迹", "orig": "معجزة", "note": null, "sheet": "r16"}
+{"key": "Muʿtazila / Muʿtazilism", "line": 4113, "v": "KEEP", "zh": "穆尔太齐赖派", "orig": "مُعْتَزِلَة", "note": null, "sheet": "r16"}
+{"key": "my station and its duties", "line": 4114, "v": "KEEP", "zh": "我的岗位及其职责", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "myeloproliferative neoplasms", "line": 4115, "v": "KEEP", "zh": "骨髓增殖性肿瘤", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "myness", "line": 4116, "v": "KEEP", "zh": "我的性", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "mysterium tremendum et fascinans", "line": 4117, "v": "KEEP", "zh": "令人战栗又令人迷恋的奥秘（拉丁原文保留斜体）", "orig": "mysterium tremendum et fascinans", "note": null, "sheet": "r16"}
+{"key": "mystical experience", "line": 4118, "v": "KEEP", "zh": "神秘经验", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "mysticism", "line": 4119, "v": "KEEP", "zh": "神秘主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Myth of Sisyphus", "line": 4120, "v": "KEEP", "zh": "《西西弗神话》", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Myths", "line": 4121, "v": "KEEP", "zh": "神话", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nabīdh", "line": 4127, "v": "KEEP", "zh": "椰枣酒", "orig": "نبيذ", "note": null, "sheet": "r16"}
+{"key": "nacherleben", "line": 4128, "v": "FLAG", "zh": "再体验（nacherleben；狄尔泰）", "orig": "nacherleben", "note": "主译撞形：“再体验”同时对应 re-experiencing；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r16"}
+{"key": "nafs al-ʾamr", "line": 4129, "v": "FLAG", "zh": "事情本身（字面义；技术义指事物自在之所是；与 die Sache selbst 行同形异源，勿混）", "orig": "نفس الأمر", "note": "主译撞形：“事情本身”同时对应 Sache selbst；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r16"}
+{"key": "naimittikī", "line": 4130, "v": "FLAG", "zh": "自然种类词", "orig": "नैमित्तिकी", "note": "现译“自然种类词”存疑：弥曼差语境 naimittika 通常指约定／偶成（与 svabhāva 自性相对），与“自然种类”义相反；须回原典核对", "sheet": "r16"}
+{"key": "nairātmya", "line": 4131, "v": "FLAG", "zh": "无我", "orig": "नैरात्म्य", "note": "主译撞形：“无我”同时对应 anātman；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r16"}
+{"key": "naive comprehension", "line": 4132, "v": "KEEP", "zh": "朴素概括公理", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "naïve realism", "line": 4133, "v": "KEEP", "zh": "朴素实在论", "orig": "naïve realism", "note": null, "sheet": "r16"}
+{"key": "naive set theory", "line": 4134, "v": "KEEP", "zh": "朴素集合论", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Nalendra monastery", "line": 4135, "v": "KEEP", "zh": "那烂陀寺（Nalendra；西藏萨迦派寺院，与印度那烂陀同名异寺，故附英文名防混）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "narcissism", "line": 4136, "v": "KEEP", "zh": "自恋", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Narration", "line": 4137, "v": "KEEP", "zh": "叙述", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "narrative identity", "line": 4138, "v": "KEEP", "zh": "叙事同一性", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "narrative view of desire", "line": 4139, "v": "KEEP", "zh": "欲望叙事观", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "narrow reflective equilibrium", "line": 4140, "v": "KEEP", "zh": "狭义反思平衡", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Nash equilibrium", "line": 4141, "v": "KEEP", "zh": "纳什均衡", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "National Academy of Sciences", "line": 4142, "v": "KEEP", "zh": "美国国家科学院", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "national identity", "line": 4143, "v": "KEEP", "zh": "国家认同", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "National Institutes of Health", "line": 4144, "v": "KEEP", "zh": "美国国立卫生研究院", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "national self-determination", "line": 4145, "v": "KEEP", "zh": "民族自决", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "national-popular", "line": 4146, "v": "KEEP", "zh": "民族—人民的", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nationalism", "line": 4147, "v": "KEEP", "zh": "民族主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nativism", "line": 4148, "v": "KEEP", "zh": "先天论（亦作“天赋论”）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natura naturans", "line": 4149, "v": "KEEP", "zh": "能生的自然", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural astrology", "line": 4150, "v": "KEEP", "zh": "自然占星术", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural deduction", "line": 4151, "v": "KEEP", "zh": "自然演绎", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural environmental model", "line": 4152, "v": "KEEP", "zh": "自然环境模式（亦作“自然主义模式”）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural evil", "line": 4153, "v": "KEEP", "zh": "自然之恶", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural history", "line": 4154, "v": "KEEP", "zh": "自然史", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural instinct", "line": 4155, "v": "KEEP", "zh": "自然本能", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural kind", "line": 4156, "v": "KEEP", "zh": "自然种类（亦作“自然类”）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural knowledge", "line": 4157, "v": "KEEP", "zh": "自然知识", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural language", "line": 4158, "v": "KEEP", "zh": "自然语言", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural law", "line": 4159, "v": "FLAG", "zh": "自然法", "orig": "—", "note": "主译撞形：“自然法”同时对应 laws of nature；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r16"}
+{"key": "natural law ethics", "line": 4160, "v": "KEEP", "zh": "自然法伦理学", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural law internalism", "line": 4161, "v": "KEEP", "zh": "自然法内在主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural light", "line": 4162, "v": "KEEP", "zh": "自然之光（心灵的）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural magic", "line": 4163, "v": "KEEP", "zh": "自然魔法（亦作“自然巫术”）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural number / natural numbers", "line": 4164, "v": "KEEP", "zh": "自然数", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural philosophy", "line": 4165, "v": "KEEP", "zh": "自然哲学", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural place", "line": 4166, "v": "KEEP", "zh": "自然位置", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural religion", "line": 4167, "v": "KEEP", "zh": "自然宗教", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural right / Natural Rights", "line": 4168, "v": "FLAG", "zh": "自然权利（亦作“天赋人权”）", "orig": "—", "note": "主译撞形：“自然权利”同时对应 right of nature；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r16"}
+{"key": "natural selection", "line": 4169, "v": "KEEP", "zh": "自然选择", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural slavery", "line": 4170, "v": "KEEP", "zh": "自然奴隶制", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "natural theology", "line": 4171, "v": "KEEP", "zh": "自然神学", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "naturalism", "line": 4172, "v": "KEEP", "zh": "自然主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Naturalistic Approaches", "line": 4173, "v": "KEEP", "zh": "自然主义方法", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "naturalization of human / humanization of nature", "line": 4174, "v": "KEEP", "zh": "人的自然化／自然的人化", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "naturalness", "line": 4175, "v": "KEEP", "zh": "自然性", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Naturboden", "line": 4176, "v": "KEEP", "zh": "自然基地", "orig": "Naturboden", "note": null, "sheet": "r16"}
+{"key": "nature-subject (Natursubjekt)", "line": 4177, "v": "KEEP", "zh": "自然主体", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Navya-Nyāya", "line": 4178, "v": "KEEP", "zh": "新正理", "orig": "नव्यन्याय", "note": null, "sheet": "r16"}
+{"key": "nayavāda", "line": 4179, "v": "KEEP", "zh": "诸视角说（亦作“观点论”）", "orig": "नयवाद", "note": null, "sheet": "r16"}
+{"key": "nebular hypothesis", "line": 4180, "v": "KEEP", "zh": "星云假说", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "necessarianism", "line": 4181, "v": "KEEP", "zh": "必然论", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "necessary being", "line": 4182, "v": "FLAG", "zh": "必然存在者", "orig": "—", "note": "主译撞形：“必然存在者”同时对应 wājib al-wujūd；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r16"}
+{"key": "Necessary Existent / Necessary Existence", "line": 4183, "v": "KEEP", "zh": "必然存在者／必然存在", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Necessary Truths", "line": 4184, "v": "KEEP", "zh": "必然真理", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "necessitarianism", "line": 4185, "v": "KEEP", "zh": "必然主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "necessitation rule", "line": 4186, "v": "KEEP", "zh": "必然化规则", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "necessity", "line": 4187, "v": "KEEP", "zh": "必然性", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "necessity ex suppositione", "line": 4188, "v": "KEEP", "zh": "依假设的必然性", "orig": "necessitas ex suppositione", "note": null, "sheet": "r16"}
+{"key": "necromancy / geomancy / divination", "line": 4189, "v": "FLAG", "zh": "死灵术／地占术／占卜", "orig": "—", "note": "geomancy 两行译法不一：本行“地占术”vs 行 2523“土占术”；须统一（通行“地占术”）", "sheet": "r16"}
+{"key": "need of being heard (Vernehmungsbedürftigkeit)", "line": 4190, "v": "KEEP", "zh": "需被听闻性", "orig": "Vernehmungsbedürftigkeit", "note": null, "sheet": "r16"}
+{"key": "Needham problem", "line": 4191, "v": "FLAG", "zh": "李约瑟问题", "orig": "李约瑟问题", "note": "原文列误填中文“李约瑟问题”，应填英文原词 Needham problem；数据缺陷正列（与 correlative cosmology 同族）", "sheet": "r16"}
+{"key": "Negation", "line": 4192, "v": "KEEP", "zh": "否定", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "negative attributes", "line": 4193, "v": "KEEP", "zh": "否定属性", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "negative dialectics", "line": 4194, "v": "KEEP", "zh": "否定的辩证法", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "negative heuristic", "line": 4195, "v": "KEEP", "zh": "反面启发法", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "negative identity", "line": 4196, "v": "KEEP", "zh": "否定性同一", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Negative Magnitudes", "line": 4197, "v": "KEEP", "zh": "负量（康德《负量概念试论》）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "negative metaphysics", "line": 4198, "v": "KEEP", "zh": "否定性形而上学", "orig": "negative Metaphysik", "note": null, "sheet": "r16"}
+{"key": "negative model", "line": 4199, "v": "KEEP", "zh": "负模型", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "negative theology", "line": 4200, "v": "KEEP", "zh": "否定神学", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "negative virtue", "line": 4201, "v": "KEEP", "zh": "消极德性", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "negativism", "line": 4202, "v": "KEEP", "zh": "否定论", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "negotiatio intellectus", "line": 4203, "v": "KEEP", "zh": "智性运作（保留拉丁；源文自释 intellectual consideration，随文译“智性考量”）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neighborhood function", "line": 4204, "v": "FLAG", "zh": "邻域函数", "orig": "—", "note": "主译撞形：“邻域函数”同时对应 neighborhood functions；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r16"}
+{"key": "neighborhood functions", "line": 4205, "v": "FLAG", "zh": "邻域函数", "orig": "—", "note": "与 neighborhood function 行（行 4204）单复数两行同译“邻域函数”，须合键（neighbourhood semantics 英拼系源词异拼，登记即可）", "sheet": "r16"}
+{"key": "neighbourhood semantics", "line": 4206, "v": "KEEP", "zh": "邻域语义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neither one nor many", "line": 4207, "v": "KEEP", "zh": "离一多因", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Neo-Confucianism", "line": 4208, "v": "KEEP", "zh": "新儒家（daoxue 道学）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neo-conservatism", "line": 4209, "v": "KEEP", "zh": "新保守主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neo-Darwinism", "line": 4210, "v": "KEEP", "zh": "新达尔文主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Neo-Fregeanism", "line": 4211, "v": "KEEP", "zh": "新弗雷格主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neo-Kantianism", "line": 4212, "v": "KEEP", "zh": "新康德主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neo-positivism", "line": 4213, "v": "KEEP", "zh": "新实证主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neo-Pyrrhonism", "line": 4214, "v": "KEEP", "zh": "新皮浪主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neocolonialism", "line": 4215, "v": "KEEP", "zh": "新殖民主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Neoliberalism", "line": 4216, "v": "KEEP", "zh": "新自由主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Neologicism", "line": 4217, "v": "KEEP", "zh": "新逻辑主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Neoplatonism", "line": 4218, "v": "KEEP", "zh": "新柏拉图主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Neoplatonism: in the Renaissance", "line": 4219, "v": "KEEP", "zh": "文艺复兴时期的新柏拉图主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neopragmatism", "line": 4220, "v": "KEEP", "zh": "新实用主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Neostoicism", "line": 4221, "v": "KEEP", "zh": "新斯多葛主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nepantla", "line": 4222, "v": "FLAG", "zh": "保留原文（纳瓦特尔语“之间”）", "orig": "—", "note": "主译撞形：“保留原文”同时对应 apretado、relajiento、relajo、tarka、zozobra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r16"}
+{"key": "nepotism", "line": 4223, "v": "KEEP", "zh": "任人唯亲", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Ner Elohim", "line": 4224, "v": "KEEP", "zh": "《上帝之灯》", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nest", "line": 4225, "v": "KEEP", "zh": "巢", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "net art", "line": 4226, "v": "KEEP", "zh": "网络艺术", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neuro-symbolic", "line": 4227, "v": "KEEP", "zh": "神经—符号", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neurodynamics", "line": 4228, "v": "KEEP", "zh": "神经动力学", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neuroscience", "line": 4229, "v": "KEEP", "zh": "神经科学", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neuroticism", "line": 4230, "v": "KEEP", "zh": "神经质", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neutral monism", "line": 4231, "v": "KEEP", "zh": "中立一元论", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neutral theory of molecular evolution", "line": 4232, "v": "KEEP", "zh": "（分子进化）中性理论（亦作“分子进化中性学说”）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "neutralism", "line": 4233, "v": "KEEP", "zh": "中立主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "new mechanists", "line": 4234, "v": "KEEP", "zh": "新机械论者", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "newly sighted", "line": 4235, "v": "KEEP", "zh": "新近复明者", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Newspeak", "line": 4236, "v": "KEEP", "zh": "新话", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Newtonianism", "line": 4237, "v": "KEEP", "zh": "牛顿主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Ngor subsect", "line": 4238, "v": "KEEP", "zh": "俄尔支派", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "niche", "line": 4239, "v": "FLAG", "zh": "龛", "orig": "—", "note": "生态学通行“生态位”，cancer 语境 tumor niche 通行“肿瘤龛／生态位”；现译“龛”须查证裁定", "sheet": "r16"}
+{"key": "Nicomachean Ethics", "line": 4240, "v": "KEEP", "zh": "《尼各马可伦理学》（亚里士多德；廖申白译本）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nigoda", "line": 4241, "v": "KEEP", "zh": "群聚生", "orig": "निगोद", "note": null, "sheet": "r16"}
+{"key": "nihilism", "line": 4242, "v": "KEEP", "zh": "虚无主义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Nihonjinron", "line": 4243, "v": "KEEP", "zh": "日本人论", "orig": "日本人論", "note": null, "sheet": "r16"}
+{"key": "niḥsvabhāvatā", "line": 4244, "v": "KEEP", "zh": "无自性性", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nijiriguchi", "line": 4245, "v": "KEEP", "zh": "躙口", "orig": "躙口", "note": null, "sheet": "r16"}
+{"key": "nilpotent", "line": 4246, "v": "KEEP", "zh": "幂零", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nimitta-kāraṇa", "line": 4247, "v": "KEEP", "zh": "工具因", "orig": "निमित्तकारण", "note": null, "sheet": "r16"}
+{"key": "nirākāra", "line": 4248, "v": "KEEP", "zh": "无相", "orig": "निराकार", "note": null, "sheet": "r16"}
+{"key": "nirjarā", "line": 4249, "v": "KEEP", "zh": "灭除", "orig": "निर्जरा", "note": null, "sheet": "r16"}
+{"key": "Nirmala", "line": 4250, "v": "KEEP", "zh": "尼尔马拉派", "orig": "Nirmalā", "note": null, "sheet": "r16"}
+{"key": "nirodhasamāpatti", "line": 4251, "v": "KEEP", "zh": "灭尽定", "orig": "निरोधसमापत्ति", "note": null, "sheet": "r16"}
+{"key": "nirvāṇa", "line": 4252, "v": "KEEP", "zh": "涅槃", "orig": "निर्वाण", "note": null, "sheet": "r16"}
+{"key": "nirvikalpaka", "line": 4253, "v": "FLAG", "zh": "无分别（现量）", "orig": "निर्विकल्पक", "note": "与 niṣprakāraka 行（行 4254，注同义）两转写异词同译“无分别”；须合键或分行设计核对（因明两词义有细微别）", "sheet": "r16"}
+{"key": "niṣprakāraka", "line": 4254, "v": "FLAG", "zh": "无分别（同义）", "orig": "निष्प्रकारक", "note": "同 nirvikalpaka 行族问题（同义两行），须合键或分行设计核对", "sheet": "r16"}
+{"key": "niyata", "line": 4255, "v": "FLAG", "zh": "恒常（恒常伴随）", "orig": "नियत", "note": "主译撞形：“恒常”同时对应 permanence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r16"}
+{"key": "Nō", "line": 4256, "v": "KEEP", "zh": "能剧（能楽）", "orig": "能", "note": null, "sheet": "r16"}
+{"key": "no false lemmas", "line": 4257, "v": "KEEP", "zh": "无假前提", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "no knowledge argument", "line": 4258, "v": "KEEP", "zh": "无知论证", "orig": "NK", "note": null, "sheet": "r16"}
+{"key": "No Man argument", "line": 4259, "v": "KEEP", "zh": "无人论证", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "no necessary connection argument", "line": 4260, "v": "KEEP", "zh": "无必然联系论证", "orig": "NNC", "note": null, "sheet": "r16"}
+{"key": "no signaling", "line": 4261, "v": "KEEP", "zh": "无信号传递", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "no-cloning theorem", "line": 4262, "v": "KEEP", "zh": "不可克隆定理", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "no-difference view", "line": 4263, "v": "KEEP", "zh": "无差别观点", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "no-go theorem", "line": 4264, "v": "KEEP", "zh": "不可行定理（亦作“止步定理”）", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nocebo effect", "line": 4265, "v": "KEEP", "zh": "反安慰剂效应", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nociceptor", "line": 4266, "v": "KEEP", "zh": "伤害感受器", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "noetic", "line": 4267, "v": "KEEP", "zh": "理智的", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nomic condition", "line": 4268, "v": "KEEP", "zh": "律则条件", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nomic expectability", "line": 4269, "v": "KEEP", "zh": "律则可期待性", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nomic isomorphism", "line": 4270, "v": "KEEP", "zh": "律则同构", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nominal", "line": 4271, "v": "KEEP", "zh": "名项", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nominal definition", "line": 4272, "v": "KEEP", "zh": "名义定义", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Nominalism", "line": 4273, "v": "KEEP", "zh": "唯名论", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "Nominalism in Metaphysics", "line": 4274, "v": "KEEP", "zh": "形而上学中的唯名论", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nominalization", "line": 4275, "v": "KEEP", "zh": "名词化", "orig": "—", "note": null, "sheet": "r16"}
+{"key": "nominatio", "line": 4276, "v": "KEEP", "zh": "指称（阿伯拉尔；与 significatio 意涵相对）", "orig": "nominatio", "note": null, "sheet": "r16"}
+{"key": "nomological", "line": 4277, "v": "KEEP", "zh": "律则的／律则必然性", "orig": "nomological necessity", "note": null, "sheet": "r16"}
+{"key": "nomological necessitation", "line": 4278, "v": "KEEP", "zh": "律则性必然化", "orig": "—", "note": null, "sheet": "r16"}
 {"key": "nomos", "line": 4279, "v": "FLAG", "zh": "约定（亦作“习俗”）", "orig": "νόμος", "note": "主译撞形：“约定”同时对应 saṅketa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "non-ascertaining perception（snang la ma nges pa）", "line": 4283, "v": "FLAG", "zh": "显而未定识", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
 {"key": "non-determinism", "line": 4291, "v": "FLAG", "zh": "非决定论", "orig": "—", "note": "主译撞形：“非决定论”同时对应 indeterminism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
