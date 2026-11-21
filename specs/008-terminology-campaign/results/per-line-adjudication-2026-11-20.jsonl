@@ -3929,23 +3929,206 @@
 {"key": "practical reason", "line": 4886, "v": "KEEP", "zh": "实践理性", "orig": "—", "note": null, "sheet": "r19"}
 {"key": "practical reasoning", "line": 4887, "v": "KEEP", "zh": "实践推理", "orig": "—", "note": null, "sheet": "r19"}
 {"key": "practical wisdom", "line": 4888, "v": "FLAG", "zh": "实践智慧", "orig": "—", "note": "主译撞形：“实践智慧”同时对应 phronêsis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r19"}
-{"key": "prajñapti", "line": 4900, "v": "FLAG", "zh": "假立（施设）", "orig": "प्रज्ञप्ति", "note": "主译撞形：“假立”同时对应 upādhi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "prakāra", "line": 4901, "v": "FLAG", "zh": "能别（特征）", "orig": "प्रकार", "note": "主译撞形：“能别”同时对应 viśeṣaṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "pramāṇa", "line": 4903, "v": "FLAG", "zh": "量论", "orig": "प्रमाण", "note": "主译撞形：“量论”同时对应 pramāṇavāda；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "pramāṇavāda", "line": 4905, "v": "FLAG", "zh": "量论", "orig": "—", "note": "主译撞形：“量论”同时对应 pramāṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "pramāṇa（认知凭据义）", "line": 4909, "v": "FLAG", "zh": "认知凭据", "orig": "प्रमाण", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "pratyakṣa（感官知觉义）", "line": 4915, "v": "FLAG", "zh": "知觉（现量）", "orig": "प्रत्यक्ष", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "predestination", "line": 4933, "v": "FLAG", "zh": "预定（亦作“预定论”）", "orig": "praedestinatio", "note": "亦作“预定论”与 predestinarianism 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
-{"key": "prime mover", "line": 4982, "v": "FLAG", "zh": "第一推动者", "orig": "primum movens", "note": "主译撞形：“第一推动者”同时对应 first mover；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "principle of bivalence", "line": 4991, "v": "FLAG", "zh": "二值原则", "orig": "—", "note": "主译撞形：“二值原则”同时对应 bivalence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "principle of continuity", "line": 4994, "v": "FLAG", "zh": "连续性原理", "orig": "—", "note": "主译撞形：“连续性原理”同时对应 continuity principle；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "prohodos", "line": 5061, "v": "FLAG", "zh": "流溢（进程）", "orig": "πρόοδος", "note": "主译撞形：“流溢”同时对应 emanation、fayd；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "promises", "line": 5073, "v": "FLAG", "zh": "承诺", "orig": "—", "note": "主译撞形：“承诺”同时对应 Bindung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "proof theory", "line": 5079, "v": "FLAG", "zh": "证明论", "orig": "—", "note": "主译撞形：“证明论”同时对应 Proof-Theoretic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Proof-Theoretic", "line": 5081, "v": "FLAG", "zh": "证明论", "orig": "—", "note": "主译撞形：“证明论”同时对应 proof theory；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "propensity (interpretation of fitness)", "line": 5085, "v": "FLAG", "zh": "倾向", "orig": "—", "note": "主译撞形：“倾向”同时对应 inclination；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "proper class", "line": 5086, "v": "FLAG", "zh": "真类", "orig": "—", "note": "主译撞形：“真类”同时对应 true class；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "proper function（普兰丁格认识论）", "line": 5088, "v": "FLAG", "zh": "恰当功能", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
+{"key": "practicalism", "line": 4889, "v": "KEEP", "zh": "实践主义", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "praedicamentum signi", "line": 4890, "v": "KEEP", "zh": "符号范畴", "orig": "praedicamentum signi", "note": null, "sheet": "r20"}
+{"key": "Praepositinianism", "line": 4891, "v": "KEEP", "zh": "普雷波西提尼主义", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prāgabhāva", "line": 4892, "v": "KEEP", "zh": "先无", "orig": "प्रागभाव", "note": null, "sheet": "r20"}
+{"key": "pragmatic", "line": 4893, "v": "KEEP", "zh": "语用（的）；实用（的）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "pragmatic encroachment", "line": 4894, "v": "KEEP", "zh": "实用侵入（亦作“语用侵入”）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "pragmatics", "line": 4895, "v": "KEEP", "zh": "语用学", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "pragmatism", "line": 4896, "v": "KEEP", "zh": "实用主义", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "Pragmatist", "line": 4897, "v": "KEEP", "zh": "实用主义者", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "Prajñāpāramitā", "line": 4898, "v": "KEEP", "zh": "《般若波罗蜜多经》", "orig": "प्रज्ञापारमिता", "note": null, "sheet": "r20"}
+{"key": "Prajñāpradīpa", "line": 4899, "v": "KEEP", "zh": "《般若灯论》", "orig": "प्रज्ञाप्रदीप", "note": null, "sheet": "r20"}
+{"key": "prajñapti", "line": 4900, "v": "FLAG", "zh": "假立（施设）", "orig": "प्रज्ञप्ति", "note": "主译撞形：“假立”同时对应 upādhi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r20"}
+{"key": "prakāra", "line": 4901, "v": "FLAG", "zh": "能别（特征）", "orig": "प्रकार", "note": "主译撞形：“能别”同时对应 viśeṣaṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r20"}
+{"key": "pramā", "line": 4902, "v": "KEEP", "zh": "真认知（正智）", "orig": "प्रमा", "note": null, "sheet": "r20"}
+{"key": "pramāṇa", "line": 4903, "v": "FLAG", "zh": "量论", "orig": "प्रमाण", "note": "现译“量论”与 pramāṇavāda 行（行 4905，量论）同译撞形，且“量论”为学说名而非认知手段名；pramāṇa 通行“量”（现量／比量之“量”，与 pramā 真认知 对举，本表 4902、4909 行已用此义）；须改译“量”并理顺与 pramāṇavāda 的分工", "sheet": "r20"}
+{"key": "Pramāṇasamuccaya", "line": 4904, "v": "KEEP", "zh": "《集量论》", "orig": "प्रमाणसमुच्चय", "note": null, "sheet": "r20"}
+{"key": "pramāṇavāda", "line": 4905, "v": "FLAG", "zh": "量论", "orig": "—", "note": "主译撞形：“量论”同时对应 pramāṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r20"}
+{"key": "Pramāṇavārttika", "line": 4906, "v": "KEEP", "zh": "《释量论》", "orig": "प्रमाणवार्त्तिक", "note": null, "sheet": "r20"}
+{"key": "Pramāṇavārttikālaṃkāra", "line": 4907, "v": "KEEP", "zh": "《释量论庄严》", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "Pramāṇaviniścaya", "line": 4908, "v": "KEEP", "zh": "《量抉择论》", "orig": "प्रमाणविनिश्चय", "note": null, "sheet": "r20"}
+{"key": "pramāṇa（认知凭据义）", "line": 4909, "v": "FLAG", "zh": "认知凭据", "orig": "प्रमाण", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r20"}
+{"key": "prasaṅga", "line": 4910, "v": "KEEP", "zh": "归谬论式", "orig": "प्रसङ्ग", "note": null, "sheet": "r20"}
+{"key": "prāsaṅgika", "line": 4911, "v": "KEEP", "zh": "应成派", "orig": "प्रासङ्गिक", "note": null, "sheet": "r20"}
+{"key": "pratiyogin", "line": 4912, "v": "KEEP", "zh": "所遮（亦作“遮表者”）", "orig": "प्रतियोगिन्", "note": null, "sheet": "r20"}
+{"key": "pratiyogitāvacchedaka", "line": 4913, "v": "KEEP", "zh": "限定所遮性的属性（所遮限界者）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "pratyakṣa", "line": 4914, "v": "KEEP", "zh": "现量（印度量论）", "orig": "प्रत्यक्ष", "note": null, "sheet": "r20"}
+{"key": "pratyakṣa（感官知觉义）", "line": 4915, "v": "FLAG", "zh": "知觉（现量）", "orig": "प्रत्यक्ष", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r20"}
+{"key": "pratyāsatti", "line": 4916, "v": "KEEP", "zh": "连接", "orig": "प्रत्यासत्ति", "note": null, "sheet": "r20"}
+{"key": "pravṛttivijñāna", "line": 4917, "v": "KEEP", "zh": "转识", "orig": "प्रवृत्तिविज्ञान", "note": null, "sheet": "r20"}
+{"key": "praxis / theôria / lexis", "line": 4918, "v": "KEEP", "zh": "讲授次第／要义通观／文辞疏解（首现各括注原文）", "orig": "πρᾶξις / θεωρία / λέξις", "note": null, "sheet": "r20"}
+{"key": "pre-critical period", "line": 4919, "v": "KEEP", "zh": "前批判时期", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "pre-established harmony", "line": 4920, "v": "KEEP", "zh": "前定和谐（亦作“预定和谐”）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "pre-hermeneutic anthropology", "line": 4921, "v": "KEEP", "zh": "前诠释学的人类学", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "pre-humanist", "line": 4922, "v": "KEEP", "zh": "前人文主义", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "pre-order", "line": 4923, "v": "KEEP", "zh": "预序", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "precancerous lesion", "line": 4924, "v": "KEEP", "zh": "癌前病变", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "precautionary principle", "line": 4925, "v": "KEEP", "zh": "预防原则（亦作“预警原则”“谨慎原则”）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "preceding necessity / subsequent necessity", "line": 4926, "v": "KEEP", "zh": "在先必然性／在后必然性", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "precession", "line": 4927, "v": "KEEP", "zh": "进动", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "precession of the equinoxes", "line": 4928, "v": "KEEP", "zh": "岁差（亦作“分点岁差”）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "precisification", "line": 4929, "v": "KEEP", "zh": "精确化", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "precision language", "line": 4930, "v": "KEEP", "zh": "精确语言", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "precision medicine", "line": 4931, "v": "KEEP", "zh": "精准医学", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predestinarianism", "line": 4932, "v": "KEEP", "zh": "预定论", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predestination", "line": 4933, "v": "FLAG", "zh": "预定（亦作“预定论”）", "orig": "praedestinatio", "note": "亦作“预定论”与 predestinarianism 的主译撞形；删该亦作或改主译", "sheet": "r20"}
+{"key": "predicables", "line": 4934, "v": "KEEP", "zh": "谓词（五谓词，praedicabilia）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predicate calculus", "line": 4935, "v": "KEEP", "zh": "谓词演算", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predicate letter", "line": 4936, "v": "KEEP", "zh": "谓词字母", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predicate logic", "line": 4937, "v": "KEEP", "zh": "谓词逻辑", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predicates of personal taste", "line": 4938, "v": "KEEP", "zh": "个人品味谓词（亦作“个人趣味谓词”）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predication", "line": 4939, "v": "KEEP", "zh": "谓述", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predication by essence", "line": 4940, "v": "KEEP", "zh": "本质谓述", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predication by relation", "line": 4941, "v": "KEEP", "zh": "关系谓述", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predicative", "line": 4942, "v": "KEEP", "zh": "直谓的", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predicative component", "line": 4943, "v": "KEEP", "zh": "述谓成分", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predicative comprehension", "line": 4944, "v": "KEEP", "zh": "直谓概括", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predicativity", "line": 4945, "v": "KEEP", "zh": "直谓性", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "predictability", "line": 4946, "v": "KEEP", "zh": "可预测性", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "Predominance Argument", "line": 4947, "v": "KEEP", "zh": "优势论证", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "preemption", "line": 4948, "v": "KEEP", "zh": "抢先", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "preference", "line": 4949, "v": "KEEP", "zh": "偏好", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "preference change", "line": 4950, "v": "KEEP", "zh": "偏好改变（亦作“偏好变化”）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "preference lifting", "line": 4951, "v": "KEEP", "zh": "偏好提升", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "preference logic", "line": 4952, "v": "KEEP", "zh": "偏好逻辑", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "preference ordering", "line": 4953, "v": "KEEP", "zh": "偏好排序", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "preference relation", "line": 4954, "v": "KEEP", "zh": "偏好关系", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "preformula", "line": 4955, "v": "KEEP", "zh": "前公式", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prehension", "line": 4956, "v": "KEEP", "zh": "摄受（怀特海术语；与本仓既有“摄受”归一）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "preimplantation genetic diagnosis (PGD)", "line": 4957, "v": "KEEP", "zh": "植入前遗传学诊断", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prejudice", "line": 4958, "v": "KEEP", "zh": "偏见", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "premise-based procedure", "line": 4959, "v": "KEEP", "zh": "基于前提的程序（亦称逐议题程序）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "preparation", "line": 4960, "v": "KEEP", "zh": "制备", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prescind / precision", "line": 4961, "v": "KEEP", "zh": "抽象分离（prescindere）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prescriptivism", "line": 4962, "v": "KEEP", "zh": "规定主义", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "presentational symbolization", "line": 4963, "v": "KEEP", "zh": "表现性符号化", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "presentism", "line": 4964, "v": "KEEP", "zh": "现在主义", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "preservation", "line": 4965, "v": "KEEP", "zh": "保存", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "Presocratic", "line": 4966, "v": "KEEP", "zh": "前苏格拉底（的）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prêstêr", "line": 4967, "v": "KEEP", "zh": "火旋", "orig": "prêstêr", "note": null, "sheet": "r20"}
+{"key": "presumed consent", "line": 4968, "v": "KEEP", "zh": "推定同意", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "presupposition", "line": 4969, "v": "KEEP", "zh": "预设（亦作“前提”）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "presupposition projection", "line": 4970, "v": "KEEP", "zh": "预设投射", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "previsions", "line": 4971, "v": "KEEP", "zh": "预现", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prima facie", "line": 4972, "v": "KEEP", "zh": "初显的（亦作“初步的”）", "orig": "prima facie", "note": null, "sheet": "r20"}
+{"key": "prima facie duty", "line": 4973, "v": "KEEP", "zh": "初显义务", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prima facie evidence", "line": 4974, "v": "KEEP", "zh": "初步证据", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "primary beauty / secondary beauty", "line": 4975, "v": "KEEP", "zh": "首要之美／次要之美", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "primary quality", "line": 4976, "v": "KEEP", "zh": "第一性质", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "primary reason", "line": 4977, "v": "KEEP", "zh": "首要理由", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "primary signification / secondary signification", "line": 4978, "v": "KEEP", "zh": "首要意谓／次生意谓", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "primary/secondary intention", "line": 4979, "v": "KEEP", "zh": "第一意向／第二意向", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prime ideal theorem", "line": 4980, "v": "KEEP", "zh": "素理想定理", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prime matter", "line": 4981, "v": "KEEP", "zh": "第一质料", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prime mover", "line": 4982, "v": "FLAG", "zh": "第一推动者", "orig": "primum movens", "note": "主译撞形：“第一推动者”同时对应 first mover；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r20"}
+{"key": "primeval waters", "line": 4983, "v": "KEEP", "zh": "洪荒之水（亦作“原初之水”）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "primitive (relation)", "line": 4984, "v": "KEEP", "zh": "原始的（关系）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "primitive recursive", "line": 4985, "v": "KEEP", "zh": "原始递归", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "primitive recursive function", "line": 4986, "v": "KEEP", "zh": "原始递归函数", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principal fiber bundle", "line": 4987, "v": "KEEP", "zh": "主纤维丛", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "Principia (Newton)", "line": 4988, "v": "KEEP", "zh": "《原理》", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "Principia Mathematica", "line": 4989, "v": "KEEP", "zh": "《数学原理》（罗素、怀特海著）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of apperception", "line": 4990, "v": "KEEP", "zh": "统觉原理", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of bivalence", "line": 4991, "v": "FLAG", "zh": "二值原则", "orig": "—", "note": "主译撞形：“二值原则”同时对应 bivalence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r20"}
+{"key": "principle of causality", "line": 4992, "v": "KEEP", "zh": "因果性原理", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of charity", "line": 4993, "v": "KEEP", "zh": "慈善原则（亦作“宽容原则”）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of continuity", "line": 4994, "v": "FLAG", "zh": "连续性原理", "orig": "—", "note": "主译撞形：“连续性原理”同时对应 continuity principle；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r20"}
+{"key": "Principle of Credulity", "line": 4995, "v": "KEEP", "zh": "轻信原则", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of determining reason", "line": 4996, "v": "KEEP", "zh": "决定理由原则（克鲁修斯 principium rationis determinantis，以别于充足理由律）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of duality", "line": 4997, "v": "KEEP", "zh": "对偶原理", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of identity of indiscernibles", "line": 4998, "v": "KEEP", "zh": "不可分辨者同一律（亦作“不可分辨者的同一性原理”）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of incombinability", "line": 4999, "v": "KEEP", "zh": "不可组合原则（克鲁修斯）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of indifference", "line": 5000, "v": "KEEP", "zh": "无差别原则（亦作“不充分理由原则”）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of individuation", "line": 5001, "v": "KEEP", "zh": "个体化原理（亦作“个体化原则”）", "orig": "principium individuationis", "note": null, "sheet": "r20"}
+{"key": "principle of inseparability", "line": 5002, "v": "KEEP", "zh": "不可分离原则（克鲁修斯）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of least action", "line": 5003, "v": "KEEP", "zh": "最小作用量原理", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of non-contradiction", "line": 5004, "v": "KEEP", "zh": "不矛盾律", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of sufficient reason", "line": 5005, "v": "KEEP", "zh": "充足理由律", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principle of transcendence", "line": 5006, "v": "KEEP", "zh": "超越原则", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principles of number", "line": 5007, "v": "KEEP", "zh": "数的原则", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "principles of taste", "line": 5008, "v": "KEEP", "zh": "鉴赏原则", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "Prior Analytics", "line": 5009, "v": "KEEP", "zh": "《前分析篇》（亚里士多德）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prior association / potential for generalization", "line": 5010, "v": "KEEP", "zh": "先行关联／概括潜力", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prior probability", "line": 5011, "v": "KEEP", "zh": "先验概率", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prior theory", "line": 5012, "v": "KEEP", "zh": "先在理论", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prioritarian", "line": 5013, "v": "KEEP", "zh": "优先主义", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "priority base", "line": 5014, "v": "KEEP", "zh": "优先基", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "priority map", "line": 5015, "v": "KEEP", "zh": "优先图", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "priority method", "line": 5016, "v": "KEEP", "zh": "优先方法", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "priority monism", "line": 5017, "v": "KEEP", "zh": "优先一元论", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "priority rule", "line": 5018, "v": "KEEP", "zh": "优先规则", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prisca theologia", "line": 5019, "v": "KEEP", "zh": "远古神学", "orig": "prisca theologia", "note": null, "sheet": "r20"}
+{"key": "Prison Notebooks", "line": 5020, "v": "KEEP", "zh": "《狱中札记》", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "Prisoner’s Dilemma", "line": 5021, "v": "KEEP", "zh": "囚徒困境", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "privacy", "line": 5022, "v": "KEEP", "zh": "隐私", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "private information", "line": 5023, "v": "KEEP", "zh": "私人信息", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "private judgment", "line": 5024, "v": "KEEP", "zh": "私人判断", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "private language argument", "line": 5025, "v": "KEEP", "zh": "私人语言论证", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "privation", "line": 5026, "v": "KEEP", "zh": "缺失", "orig": "privatio", "note": null, "sheet": "r20"}
+{"key": "privation theory (of evil)", "line": 5027, "v": "KEEP", "zh": "褫夺论", "orig": "privatio boni", "note": null, "sheet": "r20"}
+{"key": "pro tanto", "line": 5028, "v": "KEEP", "zh": "就某一方面而言（pro tanto）", "orig": "pro tanto", "note": null, "sheet": "r20"}
+{"key": "pro-attitude", "line": 5029, "v": "KEEP", "zh": "肯定态度", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "probabilism", "line": 5030, "v": "KEEP", "zh": "或然论（伦理学/学园派通行；概率义随词条语境）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "probabilistic independence", "line": 5031, "v": "KEEP", "zh": "概率独立（性）", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "probabilistic orthodoxy", "line": 5032, "v": "KEEP", "zh": "概率论正统", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "probability aggregation", "line": 5033, "v": "KEEP", "zh": "概率聚合", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "probability density", "line": 5034, "v": "KEEP", "zh": "概率密度", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "probability distribution", "line": 5035, "v": "KEEP", "zh": "概率分布", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "probability function", "line": 5036, "v": "KEEP", "zh": "概率函数", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "Probability Logic", "line": 5037, "v": "KEEP", "zh": "概率逻辑", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "probability measure", "line": 5038, "v": "KEEP", "zh": "概率测度", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "probability model", "line": 5039, "v": "KEEP", "zh": "概率模型", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "probability space", "line": 5040, "v": "KEEP", "zh": "概率空间", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "probability theory", "line": 5041, "v": "KEEP", "zh": "概率论", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "problem of universals", "line": 5042, "v": "KEEP", "zh": "共相问题", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "problem of universals / universals", "line": 5043, "v": "FLAG", "zh": "共相问题／共相（与“殊相”相对；勿译“普遍性问题”）", "orig": "—", "note": "一行兼载两概念（problem of universals 与 universals），且与 problem of universals 行（行 5042）首项重复；三处用语（metaphysics:437、perception-india:169、nominalism-metaphysics:153）皆为 universals“共相”义；须拆键（universals＝共相 独立成行，问题义归 5042）", "sheet": "r20"}
+{"key": "problem-shift", "line": 5044, "v": "KEEP", "zh": "问题转换", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "problematic idealism", "line": 5045, "v": "KEEP", "zh": "问题性唯心论", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "procedural norm", "line": 5046, "v": "KEEP", "zh": "程序性规范", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "process philosophy", "line": 5047, "v": "KEEP", "zh": "过程哲学", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "productive imagination", "line": 5048, "v": "KEEP", "zh": "生产性想象力", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "productive misunderstanding", "line": 5049, "v": "KEEP", "zh": "生产性误解", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "productive nexus / productive system", "line": 5050, "v": "KEEP", "zh": "作用关联／作用系统", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "productivism", "line": 5051, "v": "KEEP", "zh": "生产主义", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "productivity theory", "line": 5052, "v": "KEEP", "zh": "多产论", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "professionalism", "line": 5053, "v": "KEEP", "zh": "专业主义", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "profile", "line": 5054, "v": "KEEP", "zh": "剖面", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "progenitor", "line": 5055, "v": "KEEP", "zh": "祖细胞", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prognosis", "line": 5056, "v": "KEEP", "zh": "预后", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "program music", "line": 5057, "v": "KEEP", "zh": "标题音乐", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "Progress", "line": 5058, "v": "KEEP", "zh": "进步", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "progressive universal poetry", "line": 5059, "v": "KEEP", "zh": "渐进的总汇诗", "orig": "progressive Universalpoesie", "note": null, "sheet": "r20"}
+{"key": "progressus ad infinitum", "line": 5060, "v": "KEEP", "zh": "无限进展", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prohodos", "line": 5061, "v": "FLAG", "zh": "流溢（进程）", "orig": "πρόοδος", "note": "主译撞形：“流溢”同时对应 emanation、fayd；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r20"}
+{"key": "project-then-aggregate", "line": 5062, "v": "KEEP", "zh": "先投影后聚合", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "projectable predicate", "line": 5063, "v": "KEEP", "zh": "可投射谓词", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "projectile motion", "line": 5064, "v": "KEEP", "zh": "抛体运动", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "projection", "line": 5065, "v": "KEEP", "zh": "投射", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "projection function", "line": 5066, "v": "KEEP", "zh": "投影函数", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "projection postulate", "line": 5067, "v": "KEEP", "zh": "投影公设", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "projective geometry", "line": 5068, "v": "KEEP", "zh": "射影几何", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "projective sets", "line": 5069, "v": "KEEP", "zh": "射影集合", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "projectivism", "line": 5070, "v": "KEEP", "zh": "投射主义", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "Prolegomena", "line": 5071, "v": "KEEP", "zh": "序言", "orig": "Prolegomena", "note": null, "sheet": "r20"}
+{"key": "promiscuous realism", "line": 5072, "v": "KEEP", "zh": "混杂实在论", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "promises", "line": 5073, "v": "FLAG", "zh": "承诺", "orig": "—", "note": "主译撞形：“承诺”同时对应 Bindung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r20"}
+{"key": "promissory obligation", "line": 5074, "v": "KEEP", "zh": "承诺性义务", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "promotion", "line": 5075, "v": "KEEP", "zh": "提升", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "proof net", "line": 5076, "v": "KEEP", "zh": "证明网", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "proof normalization", "line": 5077, "v": "KEEP", "zh": "证明规范化", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "proof search", "line": 5078, "v": "KEEP", "zh": "证明搜索", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "proof theory", "line": 5079, "v": "FLAG", "zh": "证明论", "orig": "—", "note": "主译撞形：“证明论”同时对应 Proof-Theoretic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r20"}
+{"key": "proof-generated concept", "line": 5080, "v": "KEEP", "zh": "证明生成的概念", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "Proof-Theoretic", "line": 5081, "v": "MERGE", "zh": "证明论", "orig": "—", "note": "形容词片段键（词汇表并网遗留），用语一处（natural-deduction:1863）实为 Proof-Theoretic Semantics；并入 proof-theoretic semantics 行（行 5083），不独立成行", "sheet": "r20"}
+{"key": "proof-theoretic ordinal", "line": 5082, "v": "KEEP", "zh": "证明论序数", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "proof-theoretic semantics", "line": 5083, "v": "KEEP", "zh": "证明论语义", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "prooftext", "line": 5084, "v": "KEEP", "zh": "经文引证", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "propensity (interpretation of fitness)", "line": 5085, "v": "FLAG", "zh": "倾向", "orig": "—", "note": "主译撞形：“倾向”同时对应 inclination；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r20"}
+{"key": "proper class", "line": 5086, "v": "FLAG", "zh": "真类", "orig": "—", "note": "主译撞形：“真类”同时对应 true class；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r20"}
+{"key": "proper function", "line": 5087, "v": "KEEP", "zh": "专有功能", "orig": "—", "note": null, "sheet": "r20"}
+{"key": "proper function（普兰丁格认识论）", "line": 5088, "v": "FLAG", "zh": "恰当功能", "orig": "—", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r20"}
 {"key": "property", "line": 5093, "v": "FLAG", "zh": "属性；性质", "orig": "—", "note": "主译撞形：“属性”同时对应 Attributes、ṣifāt；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "proportionality (double effect)", "line": 5097, "v": "FLAG", "zh": "相称性（好效果对坏效果的补偿权衡）", "orig": "—", "note": "主译撞形：“相称性”同时对应 proportionality (of blame)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "proportionality (of blame)", "line": 5098, "v": "FLAG", "zh": "相称性", "orig": "—", "note": "主译撞形：“相称性”同时对应 proportionality (double effect)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}

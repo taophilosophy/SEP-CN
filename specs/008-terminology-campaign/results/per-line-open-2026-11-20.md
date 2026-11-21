@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 3357，FLAG 725，FIX 38，MERGE 9
+判定分布：KEEP 3539，FLAG 725，FIX 38，MERGE 10
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -580,7 +580,7 @@
 - **practical wisdom**（行 4888，现译「实践智慧」）｜ FLAG ｜ 主译撞形：“实践智慧”同时对应 phronêsis；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **prajñapti**（行 4900，现译「假立（施设）」）｜ FLAG ｜ 主译撞形：“假立”同时对应 upādhi；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **prakāra**（行 4901，现译「能别（特征）」）｜ FLAG ｜ 主译撞形：“能别”同时对应 viśeṣaṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **pramāṇa**（行 4903，现译「量论」）｜ FLAG ｜ 主译撞形：“量论”同时对应 pramāṇavāda；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **pramāṇa**（行 4903，现译「量论」）｜ FLAG ｜ 现译“量论”与 pramāṇavāda 行（行 4905，量论）同译撞形，且“量论”为学说名而非认知手段名；pramāṇa 通行“量”（现量／比量之“量”，与 pramā 真认知 对举，本表 4902、4909 行已用此义）；须改译“量”并理顺与 pramāṇavāda 的分工
 - **pramāṇavāda**（行 4905，现译「量论」）｜ FLAG ｜ 主译撞形：“量论”同时对应 pramāṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **pramāṇa（认知凭据义）**（行 4909，现译「认知凭据」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **pratyakṣa（感官知觉义）**（行 4915，现译「知觉（现量）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
@@ -588,10 +588,11 @@
 - **prime mover**（行 4982，现译「第一推动者」）｜ FLAG ｜ 主译撞形：“第一推动者”同时对应 first mover；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **principle of bivalence**（行 4991，现译「二值原则」）｜ FLAG ｜ 主译撞形：“二值原则”同时对应 bivalence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **principle of continuity**（行 4994，现译「连续性原理」）｜ FLAG ｜ 主译撞形：“连续性原理”同时对应 continuity principle；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **problem of universals / universals**（行 5043，现译「共相问题／共相（与“殊相”相对；勿译“普遍性问题”）」）｜ FLAG ｜ 一行兼载两概念（problem of universals 与 universals），且与 problem of universals 行（行 5042）首项重复；三处用语（metaphysics:437、perception-india:169、nominalism-metaphysics:153）皆为 universals“共相”义；须拆键（universals＝共相 独立成行，问题义归 5042）
 - **prohodos**（行 5061，现译「流溢（进程）」）｜ FLAG ｜ 主译撞形：“流溢”同时对应 emanation、fayd；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **promises**（行 5073，现译「承诺」）｜ FLAG ｜ 主译撞形：“承诺”同时对应 Bindung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **proof theory**（行 5079，现译「证明论」）｜ FLAG ｜ 主译撞形：“证明论”同时对应 Proof-Theoretic；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Proof-Theoretic**（行 5081，现译「证明论」）｜ FLAG ｜ 主译撞形：“证明论”同时对应 proof theory；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Proof-Theoretic**（行 5081，现译「证明论」）｜ MERGE ｜ 形容词片段键（词汇表并网遗留），用语一处（natural-deduction:1863）实为 Proof-Theoretic Semantics；并入 proof-theoretic semantics 行（行 5083），不独立成行
 - **propensity (interpretation of fitness)**（行 5085，现译「倾向」）｜ FLAG ｜ 主译撞形：“倾向”同时对应 inclination；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **proper class**（行 5086，现译「真类」）｜ FLAG ｜ 主译撞形：“真类”同时对应 true class；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **proper function（普兰丁格认识论）**（行 5088，现译「恰当功能」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
