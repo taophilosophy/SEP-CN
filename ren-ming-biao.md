@@ -2717,12 +2717,12 @@
 | Mannoury, Gerrit | — | 赫里特·曼努里 | 荷兰 | 1867–1956 | brouwer | 学界通行音译（荷兰意义学派创始人、布劳威尔之师）；r2 复核补登（s2 凭证称补 16 行，实缺此行）；凭证 2026-11-12 | 2026-11-14 |
 | Manutius, Aldus | — | 阿尔杜斯·马努提乌斯 | 意大利（威尼斯） | 1449–1515 | gianfrancesco-pico | 学界通行汉译（威尼斯印刷家）；籍属/生卒联网查证：Wikidata Q213220（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Mao Heng | — | 毛亨 | 中国（汉） | — | xunzi | 上游自带汉字（《毛诗》传人）；籍属/生卒联网查证：Wikidata Q10370954（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
-| Maquet, J. J. | — | J. J. 马凯 | 比利时 | — | african-ethics | 学界通行音译（卢旺达民族志）；凭证 2026-11-09 | 2026-11-09 |
+| Maquet, J. J. | — | J. J. 马凯 | 比利时 | 1919–2013 | african-ethics | 学界通行音译（卢旺达民族志）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 132556111（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Marazia, Chantal | — | Chantal Marazia（现代学者，保留英文） | 德国 | 1978– | jaspers | ADR-0022：无通行汉名者保留英文（KJG 卷次编者）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1186096616（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Marcel Proust | — | 马塞尔·普鲁斯特 | 法国／小说家 | 1871–1922 | adorno | 学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Marcel, Gabriel | — | 加布里埃尔·马塞尔 | 法国 | 1889–1973 | ricoeur | 学界通行汉译（存在主义/现象学）；凭证 2026-11-11 | 2026-11-11 |
 | Marcella | — | 玛尔凯拉 | 罗马（波菲利之妻） | 3 世纪末—4 世纪初在世 | porphyry | 学界通行音译（《致玛尔凯拉》受函人）；凭证 2026-11-11 | 2026-11-11 |
-| Marcus Aurelius | — | 马可·奥勒留 | 瑞士 | 1984– | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；2026-11-20 复核：GND 同名者非本项，撤回该批自动采纳；籍属/生卒联网查证：GND 规范标目 gnd 126661012X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
+| Marcus Aurelius | — | 马可·奥勒留 | 古罗马 | 121–180 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；2026-11-20 复核：GND 同名者非本项，撤回该批自动采纳；籍属/生卒联网查证：GND 规范标目 gnd 126661012X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；籍属/生卒联网查证：SEP 原文 en/moral-character:866（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Marcus Garvey | — | 马库斯·加维 | 牙买加 | 1887–1940 | alexander-crummell | 学界通行汉译；籍属/生卒联网查证：GND 规范标目 gnd 118716468（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Marenbon, John | — | 马伦邦 | 英国 | 1955– | boethius | 学界惯例音译（本词条作者，剑桥中世纪哲学史家，波爱修斯研究权威）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 1028168616（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Mares, Edwin | — | Edwin Mares | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
@@ -2735,10 +2735,10 @@
 | Marguerite of Navarre | — | 纳瓦拉的玛格丽特 | 法国 | 1492–1549 | erasmus | 学界惯例（法国文艺复兴通译）；籍属/生卒联网查证：SEP 原文 en/lefevre-etaples:2080（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Margutti Pinto, Paulo Roberto | — | 保罗·罗贝托·马尔古蒂·平托 | 巴西 | — | epistemology-latin-america | 音译（葡萄牙语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
 | Marheineke | — | 马海内克 | 德国 | 1780–1846 | bauer | 学界通行音译（柏林神学家 P. Marheineke）；籍属/生卒联网查证：Wikidata Q65786（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Maria Calvelli-Adorno | — | 玛丽亚·卡尔维利-阿多诺 | 科西嘉裔，德国／歌唱家（阿多诺之母） | — | adorno | 学界通行音译；凭证 2026-11-10；生卒未详（2026-11-20 复核） | 2026-11-10 |
+| Maria Calvelli-Adorno | — | 玛丽亚·卡尔维利-阿多诺 | 科西嘉裔，德国／歌唱家（阿多诺之母） | 1865–1952 | adorno | 学界通行音译；凭证 2026-11-10；生卒未详（2026-11-20 复核）；籍属/生卒联网查证：Wikidata Q18024939（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Marie Curie | — | 玛丽·居里 | 法国／俄国（波兰裔） | 1867–1934 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：Wikidata Q7186（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Marinus | — | 马里努斯 | — | — | olympiodorus | 新柏拉图主义者、《普罗克洛斯传》作者；学界音译；凭证 2026-11-08 | 2026-11-08 |
-| Marion, Mathieu | — | Marion（现代学者，保留英文） | 加拿大 | — | intuitionism | ADR-0022：无通行汉名者保留英文；凭证 2026-11-10 | 2026-11-10 |
+| Marion, Mathieu | — | Marion（现代学者，保留英文） | 加拿大 | 1962– | intuitionism | ADR-0022：无通行汉名者保留英文；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q102341254（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Mariotte, Edme | — | 埃德姆·马略特 | 法国／物理学家 | c. 1620–1684 | johann-sturm | 学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Marker, David | — | David Marker | 美国 | 1958– | logic-infinitary | 无通行汉名，保留英文原名（美国模型论学家，1958– ）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 172949866（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Markov, A. A. | — | 安德烈·马尔可夫 | 苏联 | 1903–1979 | computability | 学界通行汉译（苏联数学家，马尔可夫算法与马尔可夫链；与概率论马尔可夫同人）；凭证 2026-11-10 | 2026-11-09 |
@@ -2759,7 +2759,7 @@
 | Martin, Scott | — | Martin, Scott | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Martin-Löf, Per | — | 佩尔·马丁-洛夫 | 瑞典 | 1942– | logic-linear；intuitionism | 学界通行汉译（直觉主义类型论，马丁-洛夫类型论）；2026-11-12 同键变体合并（原 2026-11-09 logic-linear 保留英文行并入） | 2026-11-10 |
 | Martineau, Harriet | — | 哈丽雅特·马蒂诺 | 英国 | 1802–1876 | f/fuller-margaret | 音译（英国社会学家与女权主义者）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 118578375（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Martini, Simone | — | Simone Martini | 意大利 | 1283–1344 | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 118731394（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
+| Martini, Simone | — | Simone Martini | 意大利 | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 118731394（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；籍属/生卒联网查证：SEP 原文 en/logic-linear:1661（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Marušić, Berislav | — | 贝里斯拉夫·马鲁希奇 | — | — | intention | 音译（实践信念）；凭证 2026-11-12 | 2026-11-12 |
 | Marx, Karl / Karl Marx | — | 卡尔·马克思 | 德国 | 1818–1883 | law-ideology；hegel-social-political | 学界通行汉译；2026-11-13 重复行合并（旧键 `Karl Marx`）；籍属/生卒联网查证：Wikidata Q9061（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Mary Hesse | — | 玛丽·赫西 | 英国 | 1924–2016 | reasoning-analogy | 学界通行汉译（科学哲学家）；籍属/生卒联网查证：Wikidata Q164161（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
@@ -2864,7 +2864,7 @@
 | Mercator, Nicolaus | — | 尼古劳斯·梅卡托 | 德国／英国 | 1620–1687 | newton-principia | 数学史通行音译；凭证 2026-11-11 | 2026-11-11 |
 | Meredith, George | — | 乔治·梅瑞狄斯 | 英国／小说家、诗人 | 1828–1909 | umar-khayyam | 学界通行汉译 | 2026-11-14 |
 | Merleau-Ponty, Maurice / Maurice Merleau-Ponty | — | 莫里斯·梅洛-庞蒂 | 法国 | 1908–1961 | landmann-kalischer；environmental-aesthetics | 学界千年通行汉译；2026-11-13 重复行合并（旧键 `Maurice Merleau-Ponty`）；籍属/生卒联网查证：GND 规范标目 gnd 118818619（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
-| Merricks, Trenton | — | Trenton Merricks（现代学者，保留英文） | 美国 | — | prophecy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-09 | 2026-11-09 |
+| Merricks, Trenton | — | Trenton Merricks（现代学者，保留英文） | 美国 | 1950– | prophecy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q4356592（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Merrim, Stephanie | — | 斯蒂芬妮·梅里姆 | 美国 | 1951– | existentialism-mexican | 音译；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 1056252669（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Mersenne, Marin / Marin Mersenne | — | 马兰·梅森 | 法国 | 1588–1648 | 语料回收（全目录）；descartes-works | 学界通行（最小兄弟会修士，梅森素数命名源）；2026-11-13 重复行合并（旧键 `Marin Mersenne`）；籍属/生卒联网查证：SEP 原文 en/descartes-works:259（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Mesiar, Radko | — | Mesiar | 斯洛伐克 | 1951– | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1223987647（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -2881,7 +2881,7 @@
 | Michael Marmot | — | 迈克尔·马莫特 | 英国 | 1945– | justice-healthcareaccess | 学界惯例（公共卫生/健康不平等通行译法）；籍属/生卒联网查证：GND 规范标目 gnd 132751623（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Michael of Cesena | — | 切塞纳的迈克尔 | 意大利／方济各会 | 约1270–1342 | ockham | 方济各会总会长；城名 Cesena 通行汉译“切塞纳”（亦作塞萨纳/切泽纳）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q1352704（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Michael of Marbais | — | 马尔拜的米迦勒 | — | — | boethius-dacia | 学界惯例（13 世纪模态主义者，《意指样式大全》作者）；凭证 2026-11-08 | 2026-11-08 |
-| Michael of Massa | — | 马萨的米凯莱 | 意大利 | — | gregory-rimini | 依驻地冠称，意大利名音译（Michele da Massa，奥古斯丁会）；凭证 2026-11-10 | 2026-11-10 |
+| Michael of Massa | — | 马萨的米凯莱 | 意大利 | 卒于 1337 | gregory-rimini | 依驻地冠称，意大利名音译（Michele da Massa，奥古斯丁会）；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q6835563（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Michael Psellos | — | 米海尔·普塞洛斯 | 拜占庭 | 约1018–1078 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：Wikidata Q294109（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Michael Redhead | — | 雷德黑德（Michael Redhead） | 英国 | 1929–2020 | spacetime-convensimul | 学界惯例（科学哲学通行汉译）；籍属/生卒联网查证：GND 规范标目 gnd 122318854（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Michael Slote | — | 迈克尔·斯洛特 | 美国 | 1941– | justice-virtue | 学界通行汉译（德性/关怀伦理）；凭证 2026-11-02；籍属/生卒联网查证：Wikidata Q6834452（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
