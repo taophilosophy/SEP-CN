@@ -4699,7 +4699,7 @@
 {"key": "scale transformation", "line": 5671, "v": "KEEP", "zh": "标度变换", "orig": "—", "note": null, "sheet": "r23"}
 {"key": "scattered", "line": 5672, "v": "KEEP", "zh": "散布的", "orig": "—", "note": null, "sheet": "r23"}
 {"key": "scenic aesthetic", "line": 5673, "v": "KEEP", "zh": "风景美学", "orig": "—", "note": null, "sheet": "r23"}
-{"key": "scepticism", "line": 5674, "v": "FLAG", "zh": "怀疑论", "orig": "—", "note": "主译撞形：“怀疑论”同时对应 skepticism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
+{"key": "scepticism", "line": 5674, "v": "MERGE", "zh": "怀疑论", "orig": "—", "note": "与 skepticism 行（行 5957）同词异拼、同译“怀疑论”；两键并存系拼式重复登记，合并为一行（skepticism 保留主行，scepticism 注英式拼法）", "sheet": "r23"}
 {"key": "Scheitern", "line": 5675, "v": "KEEP", "zh": "挫折（亦作“失败”）", "orig": "Scheitern", "note": null, "sheet": "r23"}
 {"key": "schema", "line": 5676, "v": "FLAG", "zh": "图式", "orig": "—", "note": "主译撞形：“图式”同时对应 scheme；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r23"}
 {"key": "schêma (Kant)", "line": 5677, "v": "KEEP", "zh": "图型（康德；亦作“图式”）", "orig": "σχῆμα", "note": null, "sheet": "r23"}
@@ -4929,30 +4929,206 @@
 {"key": "significant form", "line": 5901, "v": "KEEP", "zh": "有意味的形式", "orig": "—", "note": null, "sheet": "r24"}
 {"key": "significatio", "line": 5902, "v": "FLAG", "zh": "意涵（阿伯拉尔）", "orig": "significatio", "note": "与 signification 行（行 5903，意谓）族内不一：本行取“意涵”（阿伯拉尔）；同一拉丁词根两译并存，且与 modi significandi／modes of signifying 的“意指样式”同族，须统一（建议全族作“意谓”，作者义随文括注）", "sheet": "r24"}
 {"key": "signification", "line": 5903, "v": "KEEP", "zh": "意谓", "orig": "—", "note": null, "sheet": "r24"}
-{"key": "Silhak（實學）", "line": 5913, "v": "FLAG", "zh": "实学", "orig": "實學", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "simulacra", "line": 5922, "v": "FLAG", "zh": "影像", "orig": "—", "note": "主译撞形：“影像”同时对应 eidôla、idola、phantasmata；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "sine qua non", "line": 5928, "v": "FLAG", "zh": "拉丁原文保留（缺之不然的原因）", "orig": "—", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、respublica、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "singleton", "line": 5935, "v": "FLAG", "zh": "单元素集（亦作“单点集”）", "orig": "—", "note": "主译撞形：“单元素集”同时对应 singleton set；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "singleton set", "line": 5936, "v": "FLAG", "zh": "单元素集", "orig": "—", "note": "主译撞形：“单元素集”同时对应 singleton；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "singularia", "line": 5939, "v": "FLAG", "zh": "殊相（保留拉丁，首现括注）", "orig": "singularia", "note": "主译撞形：“殊相”同时对应 particular；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Singularities", "line": 5941, "v": "FLAG", "zh": "奇点", "orig": "—", "note": "主译撞形：“奇点”同时对应 singularity (cosmological)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "singularity (cosmological)", "line": 5942, "v": "FLAG", "zh": "奇点（宇宙论）", "orig": "—", "note": "主译撞形：“奇点”同时对应 Singularities；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "skepticism", "line": 5957, "v": "FLAG", "zh": "怀疑论", "orig": "—", "note": "主译撞形：“怀疑论”同时对应 scepticism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "skeptosunê", "line": 5958, "v": "FLAG", "zh": "探究", "orig": "—", "note": "主译撞形：“探究”同时对应 historiê；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "social constructionism", "line": 5978, "v": "FLAG", "zh": "社会建构论", "orig": "—", "note": "主译撞形：“社会建构论”同时对应 social constructivism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "social constructivism", "line": 5979, "v": "FLAG", "zh": "社会建构论", "orig": "—", "note": "主译撞形：“社会建构论”同时对应 social constructionism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "social institution", "line": 5995, "v": "FLAG", "zh": "社会制度", "orig": "—", "note": "主译撞形：“社会制度”同时对应 Social Institutions；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Social Institutions", "line": 5996, "v": "FLAG", "zh": "社会制度", "orig": "—", "note": "主译撞形：“社会制度”同时对应 social institution；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "societas", "line": 6029, "v": "FLAG", "zh": "拉丁原文保留", "orig": "societas", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、respublica、sine qua non、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "sŏngjŏk tŭngji（惺寂等持）", "line": 6051, "v": "FLAG", "zh": "惺寂等持", "orig": "惺寂等持", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "sophisma-sentence", "line": 6052, "v": "FLAG", "zh": "诡辩句", "orig": "—", "note": "主译撞形：“诡辩句”同时对应 sophism（sophisma）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "sophisma/sophismata", "line": 6053, "v": "FLAG", "zh": "诡辩题", "orig": "sophisma/sophismata", "note": "主译撞形：“诡辩题”同时对应 sophismata；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "sophismata", "line": 6054, "v": "FLAG", "zh": "诡辩题", "orig": "sophisma", "note": "主译撞形：“诡辩题”同时对应 sophisma/sophismata；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "sophism（sophisma）", "line": 6055, "v": "FLAG", "zh": "诡辩句", "orig": "sophisma", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "soul", "line": 6066, "v": "FLAG", "zh": "灵魂", "orig": "—", "note": "主译撞形：“灵魂”同时对应 psuchê (ψυχή)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "soundness", "line": 6068, "v": "FLAG", "zh": "可靠性", "orig": "—", "note": "主译撞形：“可靠性”同时对应 reliability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "spacetime geometry", "line": 6081, "v": "FLAG", "zh": "时空几何", "orig": "—", "note": "主译撞形：“时空几何”同时对应 chronogeometry；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "species（经院认识论）", "line": 6097, "v": "FLAG", "zh": "种相（首现括注 *species*）", "orig": "species", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
+{"key": "significatum / res significata / suppositum", "line": 5904, "v": "KEEP", "zh": "意谓对象／所意指之物／所指", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "significatum totale / significatum adaequatum", "line": 5905, "v": "KEEP", "zh": "总体意谓／充分意谓", "orig": "significatum totale / significatum adaequatum", "note": null, "sheet": "r25"}
+{"key": "significs", "line": 5906, "v": "KEEP", "zh": "意义学", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "signified", "line": 5907, "v": "KEEP", "zh": "所指", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "signifier", "line": 5908, "v": "KEEP", "zh": "能指", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Sikh / sikhī", "line": 5909, "v": "KEEP", "zh": "锡克／锡克之道（sikhī 字面义“学习之道”）", "orig": "sikhī", "note": null, "sheet": "r25"}
+{"key": "Sikorski extension theorem", "line": 5910, "v": "KEEP", "zh": "西科尔斯基扩张定理", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Sikorski's extension criterion", "line": 5911, "v": "KEEP", "zh": "西科尔斯基扩张判准", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "silent site", "line": 5912, "v": "KEEP", "zh": "沉默位点", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Silhak（實學）", "line": 5913, "v": "FLAG", "zh": "实学", "orig": "實學", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r25"}
+{"key": "Silloi", "line": 5914, "v": "KEEP", "zh": "《讽刺诗》", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "similarity", "line": 5915, "v": "KEEP", "zh": "相似性", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "simple supposition", "line": 5916, "v": "KEEP", "zh": "简单指代", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Simple View", "line": 5917, "v": "KEEP", "zh": "简单观点", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "simples", "line": 5918, "v": "KEEP", "zh": "单纯者", "orig": "amerē", "note": null, "sheet": "r25"}
+{"key": "simplicity (of properties)", "line": 5919, "v": "KEEP", "zh": "单纯性", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "simplification", "line": 5920, "v": "KEEP", "zh": "简化", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "simply fair", "line": 5921, "v": "KEEP", "zh": "简单公平", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "simulacra", "line": 5922, "v": "FLAG", "zh": "影像", "orig": "—", "note": "主译撞形：“影像”同时对应 eidôla、idola、phantasmata；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "simulation", "line": 5923, "v": "KEEP", "zh": "模拟", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "simulation theory", "line": 5924, "v": "KEEP", "zh": "模拟论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "simultaneity", "line": 5925, "v": "KEEP", "zh": "同时性", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sincere voting", "line": 5926, "v": "KEEP", "zh": "真诚投票", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sincerity", "line": 5927, "v": "KEEP", "zh": "真诚", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sine qua non", "line": 5928, "v": "FLAG", "zh": "拉丁原文保留（缺之不然的原因）", "orig": "—", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、respublica、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "sine qua non cause", "line": 5929, "v": "KEEP", "zh": "必要条件因（sine qua non；正文保留拉丁语）", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Singh Sabha", "line": 5930, "v": "KEEP", "zh": "辛格大会", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "single premise closure / multiple premise closure", "line": 5931, "v": "KEEP", "zh": "单前提闭合／多前提闭合", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "single-case induction / sampling argument", "line": 5932, "v": "KEEP", "zh": "单例归纳／抽样论证", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "single-peakedness", "line": 5933, "v": "KEEP", "zh": "单峰性", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "single-substantive-premise interpretation", "line": 5934, "v": "KEEP", "zh": "单一实质前提解读", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "singleton", "line": 5935, "v": "FLAG", "zh": "单元素集（亦作“单点集”）", "orig": "—", "note": "主译撞形：“单元素集”同时对应 singleton set；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "singleton set", "line": 5936, "v": "MERGE", "zh": "单元素集", "orig": "—", "note": "与 singleton 行（行 5935）同概念同译“单元素集”，该行登记已自注“与 singleton set 同形并入”；按登记意图合并（singleton 为主行）", "sheet": "r25"}
+{"key": "singly-located", "line": 5937, "v": "KEEP", "zh": "单处定位", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "singular causal explanation", "line": 5938, "v": "KEEP", "zh": "单称因果解释", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "singularia", "line": 5939, "v": "FLAG", "zh": "殊相（保留拉丁，首现括注）", "orig": "singularia", "note": "主译撞形：“殊相”同时对应 particular；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "singularism (causation)", "line": 5940, "v": "KEEP", "zh": "单一论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Singularities", "line": 5941, "v": "MERGE", "zh": "奇点", "orig": "—", "note": "词汇表并网遗留的复数泛指键，与 singularity (cosmological) 行（行 5942，奇点（宇宙论））同指，且后者已限定键义；并入该行", "sheet": "r25"}
+{"key": "singularity (cosmological)", "line": 5942, "v": "FLAG", "zh": "奇点（宇宙论）", "orig": "—", "note": "主译撞形：“奇点”同时对应 Singularities；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "Sishu", "line": 5943, "v": "KEEP", "zh": "四书（Four Books）", "orig": "四书", "note": null, "sheet": "r25"}
+{"key": "site", "line": 5944, "v": "FLAG", "zh": "站点", "orig": "—", "note": "现译“站点”系直译，但汉语言语中“站点”（网站／车站）误导；相干逻辑 Routley–Meyer 语义的 site 实为情境／场所（与 situation 同域），宜作“场所（site）”或“位点”；须查证改译", "sheet": "r25"}
+{"key": "site-specificity", "line": 5945, "v": "KEEP", "zh": "特定场域性", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Sittlichkeit", "line": 5946, "v": "KEEP", "zh": "伦理（黑格尔语境；亦作“伦理生活”）", "orig": "Sittlichkeit", "note": null, "sheet": "r25"}
+{"key": "situated implication", "line": 5947, "v": "KEEP", "zh": "情境化蕴涵", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "situated robotics", "line": 5948, "v": "KEEP", "zh": "情境机器人学", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "situatedness", "line": 5949, "v": "KEEP", "zh": "处境性", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "situation", "line": 5950, "v": "KEEP", "zh": "情境", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "situation calculus", "line": 5951, "v": "FLAG", "zh": "情景演算", "orig": "—", "note": "与 situation 行（行 5950，情境；情境语义学同族）族内不一：本行作“情景演算”；“情境演算”与“情景演算”两形并用，同一术语表内宜择一（建议“情境演算”与 situation 对齐）", "sheet": "r25"}
+{"key": "situationism", "line": 5952, "v": "KEEP", "zh": "情境主义", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "size principle", "line": 5953, "v": "KEEP", "zh": "规模原则", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "skandha", "line": 5954, "v": "KEEP", "zh": "蕴", "orig": "स्कन्ध", "note": null, "sheet": "r25"}
+{"key": "skeptical hypothesis", "line": 5955, "v": "KEEP", "zh": "怀疑论假设", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "skeptical theism", "line": 5956, "v": "FLAG", "zh": "怀疑论神学", "orig": "—", "note": "theism 系“有神论”而非“神学”（theology）：本行译“怀疑论神学”与 theism 族（一神论、开放神论、万有在神论）不一致，宜作“怀疑论有神论”；须查证后改译", "sheet": "r25"}
+{"key": "skepticism", "line": 5957, "v": "FLAG", "zh": "怀疑论", "orig": "—", "note": "主译撞形：“怀疑论”同时对应 scepticism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "skeptosunê", "line": 5958, "v": "FLAG", "zh": "探究", "orig": "—", "note": "主译撞形：“探究”同时对应 historiê；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "skilled action", "line": 5959, "v": "KEEP", "zh": "熟练行动", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Skolem function", "line": 5960, "v": "KEEP", "zh": "斯科伦函数", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "skopos", "line": 5961, "v": "KEEP", "zh": "论旨（首现括注原文）", "orig": "σκοπός", "note": null, "sheet": "r25"}
+{"key": "Sleeping Beauty", "line": 5962, "v": "KEEP", "zh": "睡美人问题", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sleeping dog strategy", "line": 5963, "v": "KEEP", "zh": "“睡狗”策略", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "slippery slope", "line": 5964, "v": "KEEP", "zh": "滑坡（论证）", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "slow clock transport", "line": 5965, "v": "KEEP", "zh": "慢钟搬移（slow-transport 缓慢搬移）", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "small model property", "line": 5966, "v": "KEEP", "zh": "小模型性质", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "smooth manifold", "line": 5967, "v": "KEEP", "zh": "光滑流形", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "smoothness", "line": 5968, "v": "KEEP", "zh": "平滑性", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "smṛti", "line": 5969, "v": "KEEP", "zh": "忆（念）", "orig": "स्मृति", "note": null, "sheet": "r25"}
+{"key": "Sōan", "line": 5970, "v": "KEEP", "zh": "草庵", "orig": "草庵", "note": null, "sheet": "r25"}
+{"key": "sociability", "line": 5971, "v": "KEEP", "zh": "合群性", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social acceleration", "line": 5972, "v": "KEEP", "zh": "社会加速", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social acts", "line": 5973, "v": "KEEP", "zh": "社会行为", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social choice theory", "line": 5974, "v": "KEEP", "zh": "社会选择理论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Social Cognition", "line": 5975, "v": "KEEP", "zh": "社会认知", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social cohesion", "line": 5976, "v": "KEEP", "zh": "社会凝聚力", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social construction", "line": 5977, "v": "KEEP", "zh": "社会建构", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social constructionism", "line": 5978, "v": "FLAG", "zh": "社会建构论", "orig": "—", "note": "主译撞形：“社会建构论”同时对应 social constructivism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "social constructivism", "line": 5979, "v": "FLAG", "zh": "社会建构论", "orig": "—", "note": "与 social constructionism 行（行 5978）同译“社会建构论”撞形，二者为不同学说；宜分行（本行作“社会建构主义”，与 constructionism“社会建构论”区分）", "sheet": "r25"}
+{"key": "social contract", "line": 5980, "v": "KEEP", "zh": "社会契约论（亦作“社会契约”）", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social conventions", "line": 5981, "v": "KEEP", "zh": "社会约定", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social cooperation", "line": 5982, "v": "KEEP", "zh": "社会合作", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social cost-benefit analysis", "line": 5983, "v": "KEEP", "zh": "社会成本—收益分析", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social criticism", "line": 5984, "v": "KEEP", "zh": "社会批评", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social Darwinism", "line": 5985, "v": "KEEP", "zh": "社会达尔文主义", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social democracy", "line": 5986, "v": "KEEP", "zh": "社会民主主义", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social dilemma", "line": 5987, "v": "KEEP", "zh": "社会困境", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Social Dimensions", "line": 5988, "v": "KEEP", "zh": "社会维度", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social epistemology", "line": 5989, "v": "KEEP", "zh": "社会认识论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social facts", "line": 5990, "v": "KEEP", "zh": "社会事实（涂尔干）", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social formation", "line": 5991, "v": "KEEP", "zh": "社会形态", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social function", "line": 5992, "v": "KEEP", "zh": "社会功能", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social identity", "line": 5993, "v": "KEEP", "zh": "社会认同", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social inequality", "line": 5994, "v": "KEEP", "zh": "社会不平等", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social institution", "line": 5995, "v": "FLAG", "zh": "社会制度", "orig": "—", "note": "主译撞形：“社会制度”同时对应 Social Institutions；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "Social Institutions", "line": 5996, "v": "MERGE", "zh": "社会制度", "orig": "—", "note": "与 social institution 行（行 5995）同概念同译“社会制度”，首字母大写系词汇表并网遗留；并入小写主行", "sheet": "r25"}
+{"key": "social integration", "line": 5997, "v": "KEEP", "zh": "社会整合", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social interaction", "line": 5998, "v": "KEEP", "zh": "社会交往", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social justice", "line": 5999, "v": "KEEP", "zh": "社会正义（亦作“社会公正”）", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social mechanism", "line": 6000, "v": "KEEP", "zh": "社会机制", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social media", "line": 6001, "v": "KEEP", "zh": "社交媒体", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social minimum", "line": 6002, "v": "KEEP", "zh": "社会最低保障", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social model", "line": 6003, "v": "KEEP", "zh": "社会模型", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social monad", "line": 6004, "v": "KEEP", "zh": "社会单子", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social movement", "line": 6005, "v": "KEEP", "zh": "社会运动", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Social Networking", "line": 6006, "v": "KEEP", "zh": "网络社交", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social normativity", "line": 6007, "v": "KEEP", "zh": "社会规范性", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Social Norms", "line": 6008, "v": "KEEP", "zh": "社会规范", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social ontology", "line": 6009, "v": "KEEP", "zh": "社会本体论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social organization", "line": 6010, "v": "KEEP", "zh": "社会组织", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social procedures", "line": 6011, "v": "KEEP", "zh": "社会程序", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social psychology", "line": 6012, "v": "KEEP", "zh": "社会心理学", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social rate of discount", "line": 6013, "v": "KEEP", "zh": "社会贴现率", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social reality", "line": 6014, "v": "KEEP", "zh": "社会实在", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social recognition", "line": 6015, "v": "KEEP", "zh": "社会承认", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social relation", "line": 6016, "v": "KEEP", "zh": "社会关系", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social reproduction", "line": 6017, "v": "KEEP", "zh": "社会再生产", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social responsibility", "line": 6018, "v": "KEEP", "zh": "社会责任", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social science", "line": 6019, "v": "KEEP", "zh": "社会科学", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social security", "line": 6020, "v": "KEEP", "zh": "社会保障", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social situation", "line": 6021, "v": "KEEP", "zh": "社会情境", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social software", "line": 6022, "v": "KEEP", "zh": "社会软件", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social solidarity", "line": 6023, "v": "KEEP", "zh": "社会团结", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social transformation", "line": 6024, "v": "KEEP", "zh": "社会转型", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social utility", "line": 6025, "v": "KEEP", "zh": "社会效用", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social value", "line": 6026, "v": "KEEP", "zh": "社会价值", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "social welfare function", "line": 6027, "v": "KEEP", "zh": "社会福利函数", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Socialism", "line": 6028, "v": "KEEP", "zh": "社会主义", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "societas", "line": 6029, "v": "FLAG", "zh": "拉丁原文保留", "orig": "societas", "note": "主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、respublica、sine qua non、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "sociobiology", "line": 6030, "v": "KEEP", "zh": "社会生物学", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sociolinguistics", "line": 6031, "v": "KEEP", "zh": "社会语言学", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sociological legitimacy", "line": 6032, "v": "KEEP", "zh": "社会学合法性", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sociology", "line": 6033, "v": "KEEP", "zh": "社会学", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "soft facts", "line": 6034, "v": "KEEP", "zh": "软事实", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "soft information", "line": 6035, "v": "KEEP", "zh": "软信息", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "soft linear logic", "line": 6036, "v": "KEEP", "zh": "软线性逻辑", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sokushinjōbutsu", "line": 6037, "v": "KEEP", "zh": "即身成佛", "orig": "即身成仏", "note": null, "sheet": "r25"}
+{"key": "Sokushinjōbutsugi", "line": 6038, "v": "KEEP", "zh": "《即身成佛义》", "orig": "即身成仏義", "note": null, "sheet": "r25"}
+{"key": "sola fide", "line": 6039, "v": "KEEP", "zh": "仅凭信仰", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "solicitude", "line": 6040, "v": "KEEP", "zh": "关切", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "solidarity", "line": 6041, "v": "KEEP", "zh": "团结", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Solidity", "line": 6042, "v": "KEEP", "zh": "坚固性", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "solipsism", "line": 6043, "v": "KEEP", "zh": "唯我论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "solotheism", "line": 6044, "v": "KEEP", "zh": "独神论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "somaesthetics", "line": 6045, "v": "KEEP", "zh": "身体美学", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "somatic cell nuclear transfer (SCNT)", "line": 6046, "v": "KEEP", "zh": "体细胞核移植", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "somatic marker", "line": 6047, "v": "KEEP", "zh": "躯体标记（达马西奥）", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "somatic mutation", "line": 6048, "v": "KEEP", "zh": "体细胞突变", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "somatic mutation theory", "line": 6049, "v": "KEEP", "zh": "体细胞突变学说（亦作“体细胞突变论”）", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "somatoparaphrenia", "line": 6050, "v": "KEEP", "zh": "躯体妄想", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sŏngjŏk tŭngji（惺寂等持）", "line": 6051, "v": "FLAG", "zh": "惺寂等持", "orig": "惺寂等持", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r25"}
+{"key": "sophisma-sentence", "line": 6052, "v": "MERGE", "zh": "诡辩句", "orig": "—", "note": "与 sophism（sophisma）行（行 6055）同指 sophisma 语句、同译“诡辩句”，重复登记；并入该行（“诡辩题”义另由 sophisma/sophismata 行承担）", "sheet": "r25"}
+{"key": "sophisma/sophismata", "line": 6053, "v": "FLAG", "zh": "诡辩题", "orig": "sophisma/sophismata", "note": "主译撞形：“诡辩题”同时对应 sophismata；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "sophismata", "line": 6054, "v": "MERGE", "zh": "诡辩题", "orig": "sophisma", "note": "与 sophisma/sophismata 行（行 6053）同词同译“诡辩题”，重复登记；并入该行（sophismata 为复数形，注于行内）", "sheet": "r25"}
+{"key": "sophism（sophisma）", "line": 6055, "v": "FLAG", "zh": "诡辩句", "orig": "sophisma", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r25"}
+{"key": "Sophist", "line": 6056, "v": "KEEP", "zh": "《智者》（柏拉图；台译《智士》已归一）", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sophists", "line": 6057, "v": "KEEP", "zh": "智者", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sophrosune", "line": 6058, "v": "KEEP", "zh": "节制（亦作“自制”“适度”）", "orig": "σωφροσύνη", "note": null, "sheet": "r25"}
+{"key": "sorites", "line": 6059, "v": "KEEP", "zh": "堆垛论证", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sorites paradox", "line": 6060, "v": "KEEP", "zh": "堆垛悖论（亦作“连锁悖论”）", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sortal essence", "line": 6061, "v": "KEEP", "zh": "类别本质", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Sortals", "line": 6062, "v": "FLAG", "zh": "种类词", "orig": "—", "note": "与 sortal essence 行（行 6061，类别本质）族内不一：本行作“种类词”；同一 sortal 两译（种类／类别），须统一（建议“种类词／种类本质”）或登记分域理由", "sheet": "r25"}
+{"key": "sortition", "line": 6063, "v": "KEEP", "zh": "抽签", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "soteriology", "line": 6064, "v": "KEEP", "zh": "救度论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "soteriology (Christian)", "line": 6065, "v": "KEEP", "zh": "救恩论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "soul", "line": 6066, "v": "FLAG", "zh": "灵魂", "orig": "—", "note": "主译撞形：“灵魂”同时对应 psuchê (ψυχή)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "soul-making", "line": 6067, "v": "KEEP", "zh": "灵魂塑造", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "soundness", "line": 6068, "v": "FLAG", "zh": "可靠性", "orig": "—", "note": "主译撞形：“可靠性”同时对应 reliability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "Sounds", "line": 6069, "v": "KEEP", "zh": "声音", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "source coding theorem", "line": 6070, "v": "KEEP", "zh": "信源编码定理", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "source domain / target domain", "line": 6071, "v": "KEEP", "zh": "源域／目标域", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "South Sotho", "line": 6072, "v": "KEEP", "zh": "南索托语", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sovereign state", "line": 6073, "v": "KEEP", "zh": "主权国家", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sovereign states system", "line": 6074, "v": "KEEP", "zh": "主权国家体系", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sovereignty", "line": 6075, "v": "KEEP", "zh": "主权", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sovereignty by acquisition", "line": 6076, "v": "KEEP", "zh": "取得主权", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sovereignty by institution", "line": 6077, "v": "KEEP", "zh": "建制主权", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "Sovereignty: An Inquiry Into the Political Good", "line": 6078, "v": "KEEP", "zh": "《主权：对政治善的探究》（茹弗内尔 1957）", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "spacelike / lightlike", "line": 6079, "v": "KEEP", "zh": "类空／类光", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "spacelike separation", "line": 6080, "v": "KEEP", "zh": "类空间隔", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "spacetime geometry", "line": 6081, "v": "FLAG", "zh": "时空几何", "orig": "—", "note": "主译撞形：“时空几何”同时对应 chronogeometry；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r25"}
+{"key": "spacetime substantivalism", "line": 6082, "v": "KEEP", "zh": "时空实体论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "spare embryos", "line": 6083, "v": "KEEP", "zh": "剩余胚胎", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "sparse ontology", "line": 6084, "v": "KEEP", "zh": "稀疏本体论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "speaker's meaning", "line": 6085, "v": "KEEP", "zh": "说话者意义", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "special composition question", "line": 6086, "v": "KEEP", "zh": "特殊组合问题", "orig": "SCQ", "note": null, "sheet": "r25"}
+{"key": "Special Relativity", "line": 6087, "v": "KEEP", "zh": "狭义相对论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "special sciences", "line": 6088, "v": "KEEP", "zh": "特殊科学", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "species", "line": 6089, "v": "KEEP", "zh": "种（正文用形“种”，首现括注；康威三元 species 语境）", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "species concept", "line": 6090, "v": "KEEP", "zh": "物种概念", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "species monism", "line": 6091, "v": "KEEP", "zh": "物种一元论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "species pluralism", "line": 6092, "v": "KEEP", "zh": "物种多元论", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "species richness", "line": 6093, "v": "KEEP", "zh": "物种丰富度", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "species selection", "line": 6094, "v": "KEEP", "zh": "物种选择", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "species specialissima", "line": 6095, "v": "KEEP", "zh": "最狭义的种", "orig": "species specialissima", "note": null, "sheet": "r25"}
+{"key": "speciesism", "line": 6096, "v": "KEEP", "zh": "物种主义", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "species（经院认识论）", "line": 6097, "v": "FLAG", "zh": "种相（首现括注 *species*）", "orig": "species", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r25"}
+{"key": "specific ability", "line": 6098, "v": "KEEP", "zh": "特殊能力（亦作“特定能力”）", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "specific competence", "line": 6099, "v": "KEEP", "zh": "具体胜任度", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "specific consent", "line": 6100, "v": "KEEP", "zh": "具体同意", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "specific gravity", "line": 6101, "v": "KEEP", "zh": "比重", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "specification objection", "line": 6102, "v": "KEEP", "zh": "指定诘难", "orig": "—", "note": null, "sheet": "r25"}
+{"key": "specified set", "line": 6103, "v": "KEEP", "zh": "指定集", "orig": "—", "note": null, "sheet": "r25"}
 {"key": "spirits", "line": 6116, "v": "FLAG", "zh": "精气", "orig": "—", "note": "主译撞形：“精气”同时对应 spiritus；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "spiritus", "line": 6122, "v": "FLAG", "zh": "精气", "orig": "—", "note": "主译撞形：“精气”同时对应 spirits；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "spontaneous acts", "line": 6126, "v": "FLAG", "zh": "自发行为", "orig": "—", "note": "主译撞形：“自发行为”同时对应 spontaneous conduct；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}

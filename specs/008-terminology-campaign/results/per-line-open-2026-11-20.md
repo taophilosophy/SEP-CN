@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 4256，FLAG 729，FIX 39，MERGE 15
+判定分布：KEEP 4428，FLAG 727，FIX 39，MERGE 21
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -652,7 +652,7 @@
 - **saṅketa**（行 5646，现译「约定」）｜ FLAG ｜ 主译撞形：“约定”同时对应 nomos；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **saprakāraka**（行 5652，现译「有分别（同义）」）｜ MERGE ｜ 登记自注“savikalpaka 同义形”，两行同译“有分别”；并入 savikalpaka 行（行 5668）作同义形（与 r16 nirvikalpaka／niṣprakāraka 同族处置一致）
 - **savikalpaka**（行 5668，现译「有分别（现量）」）｜ FLAG ｜ 主译撞形：“有分别”同时对应 saprakāraka；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **scepticism**（行 5674，现译「怀疑论」）｜ FLAG ｜ 主译撞形：“怀疑论”同时对应 skepticism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **scepticism**（行 5674，现译「怀疑论」）｜ MERGE ｜ 与 skepticism 行（行 5957）同词异拼、同译“怀疑论”；两键并存系拼式重复登记，合并为一行（skepticism 保留主行，scepticism 注英式拼法）
 - **schema**（行 5676，现译「图式」）｜ FLAG ｜ 主译撞形：“图式”同时对应 scheme；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **schema T／T-schema**（行 5678，现译「图式 T／T 图式」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **schematic sentence**（行 5679，现译「模式句」）｜ FLAG ｜ 族内不一：本行“模式句”（本库首译）而 schema 行（行 5676）“图式”、schema T 行“图式 T”；须统一（建议“图式句”），或登记分域理由
@@ -683,22 +683,26 @@
 - **simulacra**（行 5922，现译「影像」）｜ FLAG ｜ 主译撞形：“影像”同时对应 eidôla、idola、phantasmata；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **sine qua non**（行 5928，现译「拉丁原文保留（缺之不然的原因）」）｜ FLAG ｜ 主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、respublica、societas、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **singleton**（行 5935，现译「单元素集（亦作“单点集”）」）｜ FLAG ｜ 主译撞形：“单元素集”同时对应 singleton set；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **singleton set**（行 5936，现译「单元素集」）｜ FLAG ｜ 主译撞形：“单元素集”同时对应 singleton；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **singleton set**（行 5936，现译「单元素集」）｜ MERGE ｜ 与 singleton 行（行 5935）同概念同译“单元素集”，该行登记已自注“与 singleton set 同形并入”；按登记意图合并（singleton 为主行）
 - **singularia**（行 5939，现译「殊相（保留拉丁，首现括注）」）｜ FLAG ｜ 主译撞形：“殊相”同时对应 particular；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Singularities**（行 5941，现译「奇点」）｜ FLAG ｜ 主译撞形：“奇点”同时对应 singularity (cosmological)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Singularities**（行 5941，现译「奇点」）｜ MERGE ｜ 词汇表并网遗留的复数泛指键，与 singularity (cosmological) 行（行 5942，奇点（宇宙论））同指，且后者已限定键义；并入该行
 - **singularity (cosmological)**（行 5942，现译「奇点（宇宙论）」）｜ FLAG ｜ 主译撞形：“奇点”同时对应 Singularities；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **site**（行 5944，现译「站点」）｜ FLAG ｜ 现译“站点”系直译，但汉语言语中“站点”（网站／车站）误导；相干逻辑 Routley–Meyer 语义的 site 实为情境／场所（与 situation 同域），宜作“场所（site）”或“位点”；须查证改译
+- **situation calculus**（行 5951，现译「情景演算」）｜ FLAG ｜ 与 situation 行（行 5950，情境；情境语义学同族）族内不一：本行作“情景演算”；“情境演算”与“情景演算”两形并用，同一术语表内宜择一（建议“情境演算”与 situation 对齐）
+- **skeptical theism**（行 5956，现译「怀疑论神学」）｜ FLAG ｜ theism 系“有神论”而非“神学”（theology）：本行译“怀疑论神学”与 theism 族（一神论、开放神论、万有在神论）不一致，宜作“怀疑论有神论”；须查证后改译
 - **skepticism**（行 5957，现译「怀疑论」）｜ FLAG ｜ 主译撞形：“怀疑论”同时对应 scepticism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **skeptosunê**（行 5958，现译「探究」）｜ FLAG ｜ 主译撞形：“探究”同时对应 historiê；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **social constructionism**（行 5978，现译「社会建构论」）｜ FLAG ｜ 主译撞形：“社会建构论”同时对应 social constructivism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **social constructivism**（行 5979，现译「社会建构论」）｜ FLAG ｜ 主译撞形：“社会建构论”同时对应 social constructionism；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **social constructivism**（行 5979，现译「社会建构论」）｜ FLAG ｜ 与 social constructionism 行（行 5978）同译“社会建构论”撞形，二者为不同学说；宜分行（本行作“社会建构主义”，与 constructionism“社会建构论”区分）
 - **social institution**（行 5995，现译「社会制度」）｜ FLAG ｜ 主译撞形：“社会制度”同时对应 Social Institutions；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **Social Institutions**（行 5996，现译「社会制度」）｜ FLAG ｜ 主译撞形：“社会制度”同时对应 social institution；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Social Institutions**（行 5996，现译「社会制度」）｜ MERGE ｜ 与 social institution 行（行 5995）同概念同译“社会制度”，首字母大写系词汇表并网遗留；并入小写主行
 - **societas**（行 6029，现译「拉丁原文保留」）｜ FLAG ｜ 主译撞形：“拉丁原文保留”同时对应 causa secundum esse、cives、civitas、esse、ignoratio elenchi、jus、lex、respublica、sine qua non、universitas；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **sŏngjŏk tŭngji（惺寂等持）**（行 6051，现译「惺寂等持」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
-- **sophisma-sentence**（行 6052，现译「诡辩句」）｜ FLAG ｜ 主译撞形：“诡辩句”同时对应 sophism（sophisma）；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **sophisma-sentence**（行 6052，现译「诡辩句」）｜ MERGE ｜ 与 sophism（sophisma）行（行 6055）同指 sophisma 语句、同译“诡辩句”，重复登记；并入该行（“诡辩题”义另由 sophisma/sophismata 行承担）
 - **sophisma/sophismata**（行 6053，现译「诡辩题」）｜ FLAG ｜ 主译撞形：“诡辩题”同时对应 sophismata；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **sophismata**（行 6054，现译「诡辩题」）｜ FLAG ｜ 主译撞形：“诡辩题”同时对应 sophisma/sophismata；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **sophismata**（行 6054，现译「诡辩题」）｜ MERGE ｜ 与 sophisma/sophismata 行（行 6053）同词同译“诡辩题”，重复登记；并入该行（sophismata 为复数形，注于行内）
 - **sophism（sophisma）**（行 6055，现译「诡辩句」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Sortals**（行 6062，现译「种类词」）｜ FLAG ｜ 与 sortal essence 行（行 6061，类别本质）族内不一：本行作“种类词”；同一 sortal 两译（种类／类别），须统一（建议“种类词／种类本质”）或登记分域理由
 - **soul**（行 6066，现译「灵魂」）｜ FLAG ｜ 主译撞形：“灵魂”同时对应 psuchê (ψυχή)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **soundness**（行 6068，现译「可靠性」）｜ FLAG ｜ 主译撞形：“可靠性”同时对应 reliability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **spacetime geometry**（行 6081，现译「时空几何」）｜ FLAG ｜ 主译撞形：“时空几何”同时对应 chronogeometry；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
