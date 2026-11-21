@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 886，FLAG 643，FIX 17，MERGE 4
+判定分布：KEEP 878，FLAG 651，FIX 17，MERGE 4
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -200,21 +200,29 @@
 - **cost-effective／cost-effectiveness**（行 1331，现译「成本效益」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **Creationism**（行 1359，现译「神创论」）｜ FLAG ｜ 同形异义：augustine:1224 之 Creationism 为灵魂受造论（与 traducianism 遗传论相对），非“神创论”义；须分行或加义注
 - **Curry-Howard isomorphism**（行 1404，现译「柯里-霍华德同构（亦作“柯里-霍华德对应”）」）｜ FIX ｜ 连接号按 ADR-0041 一字线裁定统一：柯里-霍华德 → 柯里—霍华德（与玻尔—爱因斯坦频率条件行一致）
+- **das Umgreifende**（行 1431，现译「包摄者」）｜ FLAG ｜ 雅斯贝尔斯 das Umgreifende 中译学界通行作“大全”（《生存哲学》译本）或“包容者”，现译“包摄者”须查证后裁定
 - **definition**（行 1502，现译「定义」）｜ FLAG ｜ 主译撞形：“定义”同时对应 ḥadd、lakṣaṇa、taʿārīf；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **denotation**（行 1535，现译「外延」）｜ FLAG ｜ denotation 通行作“指称／所指”，现译“外延”恐与 extension 行撞形；须查证后裁定（若改，联动 denotational semantics 已作“指称语义”恰一致）
 - **deontological**（行 1545，现译「义务论」）｜ FLAG ｜ 主译撞形：“义务论”同时对应 Deontology；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Deontology**（行 1546，现译「义务论」）｜ FLAG ｜ 主译撞形：“义务论”同时对应 deontological；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **dependent arising**（行 1547，现译「缘起因」）｜ FLAG ｜ 与 dependent origination 行同指 pratītyasamutpada，通行皆作“缘起”；现两行译“缘起因／缘起”不一，须合键或统一译法
 - **dependent origination**（行 1549，现译「缘起」）｜ FLAG ｜ 主译撞形：“缘起”同时对应 engi、engi / pratītya-samutpāda；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **desert pragmatism**（行 1561，现译「荒漠实用主义」）｜ FLAG ｜ quantum-bayesian 首现且无语境；desert 系“应得”义或“荒漠”义不明，键疑截断或误配，须回原典核对
 - **detachability**（行 1570，现译「可分离性」）｜ FLAG ｜ 主译撞形：“可分离性”同时对应 separability；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **deterritorialization**（行 1576，现译「去地域化」）｜ FLAG ｜ 德勒兹 deterritorialization 通行译“解域化／去疆域化”，现译“去地域化”；须查证后裁定是否改通行
+- **developmental system**（行 1582，现译「发展系统」）｜ FLAG ｜ 族内译法不一：developmental system＝发展系统、developmental systems theory＝发育系统论、developmental constraint＝发育约束；biology 语境通行“发育系统”，须统一
 - **dharmakāya**（行 1590，现译「法身」）｜ FLAG ｜ 主译撞形：“法身”同时对应 hosshin / dharmakāya；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **dharma（胜论性质）**（行 1592，现译「功德」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **dharma（运动媒介）**（行 1593，现译「运动之媒介」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
+- **Dialectica interpretation**（行 1603，现译「辩证法解释」）｜ FLAG ｜ Dialectica 系刊物专名（Gödel–Gentzen 解释），通行作“Dialectica 解释”，现译“辩证法解释”恐与 dialectic 辩证法混淆；查证后定
 - **dialectical question**（行 1604，现译「论辩问题」）｜ FLAG ｜ 主译撞形：“论辩问题”同时对应 quaestio disputata；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **direct / indirect realization（dngos rtogs / shugs rtogs）**（行 1641，现译「直证／间接证」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **direct inference**（行 1642，现译「直接推理」）｜ FLAG ｜ 主译撞形：“直接推理”同时对应 direct inference / immediate inference；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **direct inference / immediate inference**（行 1643，现译「直接推理」）｜ FLAG ｜ 主译撞形：“直接推理”同时对应 direct inference；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **direct perception**（行 1644，现译「直接知觉」）｜ FLAG ｜ 主译撞形：“直接知觉”同时对应 immediate perception；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Discourse Representation Theory**（行 1663，现译「话语表现理论」）｜ FLAG ｜ 主译撞形：“话语表现理论”同时对应 discourse representation theory (DRT)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **discourse representation theory (DRT)**（行 1664，现译「话语表现理论（DRT）（亦作“话语表征理论”“话语表示理论”）」）｜ FLAG ｜ 主译撞形：“话语表现理论”同时对应 Discourse Representation Theory；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **discourse representation theory (DRT)**（行 1664，现译「话语表现理论（DRT）（亦作“话语表征理论”“话语表示理论”）」）｜ FLAG ｜ 与上一行 Discourse Representation Theory（行 1663）同概念，仅大小写与 DRT 括注异；须合键（两行译法一致均“话语表现理论”，合并后保留亦作注记），归合键队列
+- **discriminant validity**（行 1667，现译「辨别效度」）｜ FLAG ｜ 心理测量学通行多作“区分效度／判别效度”，现译“辨别效度”须查证后裁定
 - **dispositional property**（行 1687，现译「倾向属性」）｜ FLAG ｜ 主译撞形：“倾向属性”同时对应 saṃskāra；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **divine providence**（行 1718，现译「神意」）｜ FLAG ｜ 主译撞形：“神意”同时对应 providence；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **dominium**（行 1742，现译「所有权（财产支配权）」）｜ FLAG ｜ 主译撞形：“所有权”同时对应 ownership；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
