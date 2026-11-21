@@ -1,0 +1,6 @@
+处置	键	旧	新	理由
+FIX	corroboration	确证	验证（degree of corroboration＝验证度）	波普尔《实在论与科学的目标：科学发现的逻辑后记》中译“验证度”一节：作者自述弃“确证度”改“验证度”，并把“确证”让给证实主义者；据此 corroboration＝验证，与 confirmation theory 确证理论 分形
+FIX	corroboration	验证（degree of corroboration＝验证度）	确认（亦作“验证”；degree of corroboration＝确认度）	波普尔中译两系并存（周煦良等译“确证”、后记中译“验证度”）；为避免与 validation＝验证（仿真 V&V 校核—验证—确认，GB/T 领域通行）及 confirmation＝确证 混同，主译取“确认”
+FIX	Validation	验证	验证	补注：仿真领域 verification／validation／accreditation＝校核／验证／确认 三分，本行取“验证”与国标用法一致；与 corroboration 确认、confirmation 确证、verification 证实 分形
+EXEMPT	corroboration	确认（亦作“验证”；degree of corroboration＝确认度）	确认（亦作“验证”；degree of corroboration＝确认度）	波普尔科学哲学义，与藏传量论 ascertainment（nges pa）确认 同形异域
+EXEMPT	ascertainment	确认	确认	藏传量论 nges pa 义，与波普尔 corroboration 确认 同形异域

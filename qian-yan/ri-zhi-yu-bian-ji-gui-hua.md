@@ -474,3 +474,10 @@
 * **判例与凭证**：A New Elucidation→《形而上学认识各首要原则的新说明》（李秋零译《康德著作全集》《康德认识论文集》目录）；a fortiori argument→当然论证（法律论证文献 argumentum a fortiori 通行“当然论证／当然解释”）；anarchic hand→异己手（清华长庚医院、华艺《異己手徵候群》）；anyāpoha→遣他（法尊译《集量论》卷五《观遣他品》，华文哲学百科作遮诠）；aṣālat al-wujūd／al-māhiyyah→存在的优先性／本质的优先性（王希《伊斯兰哲学中的“是”、“存在”和“本质”》，SEP mulla-sadra 作 principality of existence／essence）；bhāvanā→修习（《佛光大辞典》【修习】：“梵语 bhāvanā……数数薰习之意”，撤回自拟“心习”）；das Umgreifende→大全（王玖兴译《生存哲学》“对于大全的体验”“大全的几种样式”）；naimittikī→缘发的（弥曼差 naimittika-karman＝occasional sacrifices，原“自然种类词”义反）；significatio→意谓（中文中世纪逻辑研究，与指代对举），signification 并入；Leib 用语删人名引用改取 existentialism／phenomenology 两处“活的身体”义。
 * **tashkīk 更正**：原“调节（等级单义）”改“等级性（分级述谓）”——SEP mulla-sadra 述 tashkik 为存在按强度分级（graded），与 accommodation 行的撞形随之解除。
 * **终态**：151／151 落定，未决 0；登记册 7,002→7,001 数据行；撞形残余 0 组；`check_terms` 退出 0；`check_all` 17 项全绿（并行会话 bodin 改动已完成，转换保真项回绿）。
+
+### 同轮续三：批 G（corroboration 分形）＋ m 系 m1000／m1200 结案
+
+* **四词分形**（科学哲学高频族，历轮各批留下互相撞形）：verification＝证实、confirmation＝确证（确证理论）、validation＝验证（仿真 V&V 校核／验证／确认三分）、corroboration＝确认（degree of corroboration＝确认度，亦作“验证”）。凭证：波普尔《实在论与科学的目标：科学发现的逻辑后记》中译“验证度”一节（作者自述弃“确证度”改“验证度”，并把“确证”让给证实主义者）；周煦良等译《科学：猜想和反驳》用“确证”。为避免与 validation 验证、confirmation 确证混同，corroboration 主译取“确认”。
+* **确认同形异域豁免**：corroboration（波普尔）与 ascertainment（nges pa，藏传量论）同译“确认”，按条区分不合并。
+* **m 系结案**：m1000（10 键）与 m1200（5 键）逐条对账，15 键全部已在前批落定（改定 8、写回 MERGE 2、批 E 维持／正列 3、并入 1、改定 Arrow 1），结案表 `results/m-batch-close-2026-11-21.tsv`；m-collision（538 FLAG）与 m-keyform（84 FLAG）已分别由撞形三批与键形归一覆盖。
+* **终态**：登记册 7,001 数据行；撞形残余 0 组、已豁免 115 组；`check_terms` 退出 0；`check_all` 17 项全绿。

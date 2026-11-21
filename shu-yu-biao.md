@@ -431,7 +431,7 @@
 | asādhāraṇa | असाधारण | 特殊（非共） | early-modern-india | 新正理因果义译（'special'；karaṇa 之性）；凭证 2026-11-10 | 2026-11-10 |
 | aṣālat al-māhiyyah | اصالة الماهية | 本质的优先性（亦作“本质的首要性”） | umar-khayyam | 伊斯兰哲学通行（asāla 实在性义；伊斯法罕学派论争术语；与 aṣālat al-wujūd 对举）；FLAG 裁定 2026-11-21（联网凭证）：与 aṣālat al-wujūd 存在优先性 同族对称；光照学派主张本质优先 | 2026-11-21 |
 | aṣālat al-wujūd | اصالة الوجود | 存在的优先性（亦作“存在的首要性”） | umar-khayyam | 伊斯兰哲学通行（毛拉·萨德拉立场；与 aṣālat al-māhiyyah 对举）；2026-11-14 联网复核保留（萨德拉研究文献另见“存在优先/存在的优先性”形（SEP Rizvi 作 ontological primacy of existence），中文学界译名未统一，实在性义译在列）；FLAG 裁定 2026-11-21（联网凭证）：王希《伊斯兰哲学中的“是”、“存在”和“本质”》述穆拉·萨德拉“存在具有优先性”；SEP mulla-sadra 作 principality of existence | 2026-11-21 |
-| ascertainment | — | 确认 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学·医学遗传学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
+| ascertainment | — | 确认 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学·医学遗传学，2026-11-18 JWT 直连凭证）；撞形豁免 2026-11-21：藏传量论 nges pa 义，与波普尔 corroboration 确认 同形异域，不合并 | 2026-11-21 |
 | ascertainment(nges pa) | — | 决定（nges pa） | epistemology-language-tibetan | 量论通行（nges pa=决定知）；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 ascertainment（nges pa） | 2026-11-21 |
 | asceticism | — | 禁欲主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·古代中世纪·西欧文化、文艺复兴与宗教改革，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | aseity | — | 自存性 | descartes-ontological | 学界通行（a se esse，由自身而存在；神学术语） | 2026-11-06 |
@@ -1290,7 +1290,7 @@
 | correlative cosmology | correlative cosmology | 关联性宇宙论 | chinese-phil-science | 学界通行（参 Graham《阴阳与关联思维》）；凭证 2026-11-07；FLAG 裁定 2026-11-21：原文列误填中文译文，正列为英文原词（Graham 关联性思维） | 2026-11-21 |
 | correspondence principle | — | 对应原理 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | correspondence theory of truth | — | 真理符合论（亦作“符合论”） | 首现（truth-coherence） | 学界通行（与 truth-coherence 词条配对；SUMMARY 定名）；凭证 2026-11-07；2026-11-15 补亦作（审定形）；旧键“correspondence theory”并入（2026-11-21 逐行研判；旧键首现：语料回收（词汇表并网）） | 2026-11-21 |
-| corroboration | — | 确证 | 语料回收（lakatos 首译） | 波普尔研究通行译法（已在册佐证，批6 正文使用）；凭证 2026-11-06 | 2026-11-06 |
+| corroboration | — | 确认（亦作“验证”；degree of corroboration＝确认度） | 语料回收（lakatos 首译） | 波普尔研究通行译法（已在册佐证，批6 正文使用）；凭证 2026-11-06；FLAG 裁定 2026-11-21（联网凭证）：波普尔《实在论与科学的目标：科学发现的逻辑后记》中译“验证度”一节：作者自述弃“确证度”改“验证度”，并把“确证”让给证实主义者；据此 corroboration＝验证，与 confirmation theory 确证理论 分形；撞形改定 2026-11-21：波普尔中译两系并存（周煦良等译“确证”、后记中译“验证度”）；为避免与 validation＝验证（仿真 V&V 校核—验证—确认，GB/T 领域通行）及 confirmation＝确证 混同，主译取“确认”；撞形豁免 2026-11-21：波普尔科学哲学义，与藏传量论 ascertainment（nges pa）确认 同形异域，不合并 | 2026-11-21 |
 | corvée | — | 劳役制 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·古代中世纪·东欧，2026-11-18 JWT 直连凭证）；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-19 |
 | cosmogony | — | 宇宙生成论 | peirce-benjamin | 哲学通行译名（与“宇宙论”cosmology 分列）；凭证 2026-11-09 | 2026-11-09 |
 | cosmological principle | — | 宇宙学原理 | cosmology-30s 首译 | 宇宙学通行（Milne 1933 提出；de Sitter 论战核心）；凭证 2026-11-08 | 2026-11-08 |
@@ -6814,7 +6814,7 @@
 | vākya | वाक्य | 句 | early-modern-india | 印度语义学通行（sentence；佛典“句”古译）；凭证 2026-11-10 | 2026-11-10 |
 | valence | — | 效价 | paradox-of-tragedy | 学界惯例（心理学情绪研究通行：正/负效价；与 bivalence 二值无关）；凭证 2026-11-10 | 2026-11-10 |
 | valid consent | — | 有效同意 | informed-consent | 学界惯例（与 invalid consent 无效同意对举） | 2026-11-12 |
-| Validation | — | 验证 | 语料回收（specs/050 候选池） | 条目语境研判（模拟哲学固定词（verification/validation 验证/确证对偶）；审定“验证”为食品管理义）；审定名词库（termonline-all·食品科学技术·食品安全·食品安全管理·过程控制，2026-11-18 JWT 直连凭证，审定作“验证”）；撞形改定 2026-11-21：审定验证；确证归 corroboration | 2026-11-21 |
+| Validation | — | 验证 | 语料回收（specs/050 候选池） | 条目语境研判（模拟哲学固定词（verification/validation 验证/确证对偶）；审定“验证”为食品管理义）；审定名词库（termonline-all·食品科学技术·食品安全·食品安全管理·过程控制，2026-11-18 JWT 直连凭证，审定作“验证”）；撞形改定 2026-11-21：审定验证；确证归 corroboration；撞形改定 2026-11-21：补注：仿真领域 verification／validation／accreditation＝校核／验证／确认 三分，本行取“验证”与国标用法一致；与 corroboration 确认、confirmation 确证、verification 证实 分形 | 2026-11-21 |
 | validity | — | 有效性 | logic-hybrid | 逻辑学通行；凭证 2026-11-09 | 2026-11-09 |
 | valuation | — | 赋值 | logic-fuzzy | 逻辑学通行译法；凭证 2026-11-09 | 2026-11-09 |
 | valuation function | — | 估值函数 | s/social-procedures 首译 | 学界通行译法（社会选择理论通行）；凭证 2026-11-07 | 2026-11-07 |

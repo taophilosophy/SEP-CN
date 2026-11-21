@@ -4,7 +4,7 @@
 
 ## 残余 0 组（0 键）
 
-## 已豁免 114 组
+## 已豁免 115 组
 - 《中论》 ← Mūlamadhyamakakārikā；Zhonglun
 - 《宗义摩尼鬘》 ← Nyāyasiddhāntamañjarī；Siddhānta-muktāvalī
 - 三段论 ← qiyāsāt；syllogism
@@ -84,6 +84,7 @@
 - 相称性 ← proportionality (double effect)；proportionality (of blame)
 - 知觉 ← perception；pratyakṣa(感官知觉义)
 - 知识 ← epistêmê；scientia
+- 确认 ← ascertainment；corroboration
 - 社会建构论 ← social constructionism；social constructivism
 - 类比推理 ← analogical reasoning；qiyās
 - 精气 ← spirits；spiritus
