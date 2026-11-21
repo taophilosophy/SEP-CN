@@ -207,6 +207,16 @@
 * **门禁**：守恒 1883；check_mulu_s 六项 0 硬错；G1–G4 全绿（mulu-map 重建）；check_all 17 项全绿。
 * **教训**：簇化与移节是两种动作（缩进即归类），应用器须分开（b12 单列批次，b1–b11 覆盖校验排除之）；“属人物”判据只在标题层可机械判定（所有格/中文明示），内容层判据（学派/主义通题）必须回原文。
 
+## 2026-11-22 mu-lu-s 几方互转检查（用户指令“mu-lu-s的几方互转，检查”）
+
+* **检查器**：`specs/056/bin/check_mulus_interplay.py`（只读，可复跑）；报告 `results/interplay-check-2026-11-22.md`。几方＝mu-lu-s.md（正文）／baseline/mulu-map.json（归类账＋骨架）／SUMMARY.md（路径与文字源）／上游目录（G1–G2）。
+* **I1 往返恒等**：磁盘账重放＝文件（逐字节）、现抽账重放＝文件、磁盘账＝现抽账（rows＋skeleton 全等）——三等式全真。
+* **I2 账内一致**：1883 行、order 连续 0..1882、路径零重复、骨架锚合法且单调；indent 仅 0／2（1712 独立＋171 簇成员）。
+* **I3 文字跟随**：账内文字 ≡ SUMMARY 文字（转义归一）0 不一致、路径 0 缺失。
+* **I4 负向探针（判据有效性反证）**：text／indent／swap／skeleton／delete 五种单点微扰全部被重放捕获——G3 判据非空转。
+* **结构不变量**：59 簇／171 成员，缩进成员无孤儿（向上必达 ind=0 母条）、无深度>2；跨字母目录簇成员 28 条属正常（概念随主题母条，如 protagoras→sophists）。
+* **门禁**：G1–G4、check_mulu_s 六项、check_all 17 项全绿。
+
 ## 2026-11-22 EN 逆向装配第七批：图注定界修正（池 1,359→1,483，79.2%）
 
 * **定位**：第六批后 514 件缺口族普查（star 204／md_extra 156／h0_extra 59／text 37／digit 34／math 19）。star 族主流是图注标签——H0 `<span class="figlabel">Figure 1:</span>`，C `figure_to_md` 注入的 `*Figure 1:*` 定界星被第六批的文本层全转义写成字面 `\*Figure 1:\*`（判例 action-perception／animal-social-cognition 等 204 件）。
