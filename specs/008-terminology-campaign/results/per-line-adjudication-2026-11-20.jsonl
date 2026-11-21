@@ -1129,21 +1129,206 @@
 {"key": "Estates Assembly", "line": 2031, "v": "KEEP", "zh": "等级议会", "orig": "—", "note": null, "sheet": "s05"}
 {"key": "Estates General", "line": 2032, "v": "FLAG", "zh": "三级会议", "orig": "—", "note": "主译撞形：“三级会议”同时对应 States General；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "s05"}
 {"key": "estimative faculty", "line": 2033, "v": "KEEP", "zh": "估算官能（亦作“估计官能”）", "orig": "—", "note": null, "sheet": "s05"}
-{"key": "Ethical Life", "line": 2042, "v": "FLAG", "zh": "伦理生活（亦作“伦理”）", "orig": "Sittlichkeit", "note": "亦作“伦理”与 Sittlichkeit 的主译撞形；删该亦作或改主译", "sheet": "m-collision"}
-{"key": "etiological (aspect of explanation)", "line": 2053, "v": "FLAG", "zh": "病因学", "orig": "—", "note": "主译撞形：“病因学”同时对应 etiology；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "etiology", "line": 2054, "v": "FLAG", "zh": "病因学（亦作“病因”）", "orig": "—", "note": "主译撞形：“病因学”同时对应 etiological (aspect of explanation)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "eudaimonia", "line": 2056, "v": "FLAG", "zh": "幸福（亦作“繁盛”）", "orig": "εὐδαιμονία", "note": "主译撞形：“幸福”同时对应 Happiness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "evidence (Evidenz)", "line": 2073, "v": "FLAG", "zh": "明证性（亦作“自明性”）", "orig": "Evidenz", "note": "主译撞形：“明证性”同时对应 evidentness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "evidentness", "line": 2081, "v": "FLAG", "zh": "明证性", "orig": "Evidenz", "note": "主译撞形：“明证性”同时对应 evidence (Evidenz)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "exceptive term", "line": 2098, "v": "FLAG", "zh": "排除词", "orig": "—", "note": "主译撞形：“排除词”同时对应 exclusive word；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "excess of meaning", "line": 2100, "v": "FLAG", "zh": "意义的盈余（亦作“意义盈余”）", "orig": "—", "note": "主译撞形：“意义的盈余”同时对应 surplus of meaning；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "exclusive word", "line": 2105, "v": "FLAG", "zh": "排除词", "orig": "—", "note": "主译撞形：“排除词”同时对应 exceptive term；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "existence", "line": 2113, "v": "FLAG", "zh": "存在", "orig": "—", "note": "主译撞形：“存在”同时对应 being、bhāva；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Experience", "line": 2141, "v": "FLAG", "zh": "经验；体验", "orig": "—", "note": "主译撞形：“经验”同时对应 Erfahrung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "exponential", "line": 2164, "v": "FLAG", "zh": "指数", "orig": "—", "note": "主译撞形：“指数”同时对应 index number；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "factive assessment（yid dpyod）", "line": 2213, "v": "FLAG", "zh": "伺察识（yid dpyod）", "orig": "ཡིད་དཔྱོད་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
-{"key": "fairness", "line": 2221, "v": "FLAG", "zh": "公平", "orig": "—", "note": "主译撞形：“公平”同时对应 equity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
-{"key": "Fajie yuanqi（法界緣起）", "line": 2226, "v": "FLAG", "zh": "法界缘起", "orig": "法界緣起", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "m-keyform"}
+{"key": "eternal now", "line": 2034, "v": "KEEP", "zh": "永恒的当下", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "eternal return", "line": 2035, "v": "KEEP", "zh": "永恒回归", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "eternal truths", "line": 2036, "v": "KEEP", "zh": "永恒真理（笛卡尔/莱布尼茨语境）", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "ether", "line": 2037, "v": "KEEP", "zh": "以太", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "ethical egoism", "line": 2038, "v": "KEEP", "zh": "伦理利己主义", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "ethical idealism", "line": 2039, "v": "KEEP", "zh": "伦理观念论", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "ethical intention", "line": 2040, "v": "KEEP", "zh": "伦理意图", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "ethical intuitionism", "line": 2041, "v": "KEEP", "zh": "伦理直觉主义", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Ethical Life", "line": 2042, "v": "FLAG", "zh": "伦理生活（亦作“伦理”）", "orig": "Sittlichkeit", "note": "亦作“伦理”与 Sittlichkeit 的主译撞形；删该亦作或改主译", "sheet": "r06"}
+{"key": "ethical naturalism", "line": 2043, "v": "KEEP", "zh": "伦理自然主义", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "ethical skill", "line": 2044, "v": "KEEP", "zh": "伦理技能", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "ethical state", "line": 2045, "v": "KEEP", "zh": "伦理国家", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Ethics", "line": 2046, "v": "KEEP", "zh": "伦理学", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Ethics of Ambiguity", "line": 2047, "v": "KEEP", "zh": "《模糊性的道德》", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "ethics of belief", "line": 2048, "v": "KEEP", "zh": "信念伦理学", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Ethnocentrism", "line": 2049, "v": "KEEP", "zh": "种族中心主义", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "ethnographic analogy", "line": 2050, "v": "KEEP", "zh": "民族志类比", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Ethology", "line": 2051, "v": "FLAG", "zh": "性格学", "orig": "Ethology", "note": "双义：Lewes／george-eliot 19 世纪义＝性格学（现译），现代义（sociobiology:1375 等）＝动物行为学；须分行或加义注", "sheet": "r06"}
+{"key": "etiamsi daremus", "line": 2052, "v": "KEEP", "zh": "即使我们承认（无神）", "orig": "etiamsi daremus", "note": null, "sheet": "r06"}
+{"key": "etiological (aspect of explanation)", "line": 2053, "v": "FLAG", "zh": "病因学", "orig": "—", "note": "科学解释语境 etiological 指追溯原因的发生学解释，非仅医学“病因学”义；现译过窄，须回原典核对裁定", "sheet": "r06"}
+{"key": "etiology", "line": 2054, "v": "FLAG", "zh": "病因学（亦作“病因”）", "orig": "—", "note": "主译撞形：“病因学”同时对应 etiological (aspect of explanation)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r06"}
+{"key": "Euclidean geometry", "line": 2055, "v": "KEEP", "zh": "欧几里得几何", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "eudaimonia", "line": 2056, "v": "FLAG", "zh": "幸福（亦作“繁盛”）", "orig": "εὐδαιμονία", "note": "主译撞形：“幸福”同时对应 Happiness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r06"}
+{"key": "eudaimonism", "line": 2057, "v": "KEEP", "zh": "幸福论", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "eugenics", "line": 2058, "v": "KEEP", "zh": "优生学", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "euphemism", "line": 2059, "v": "KEEP", "zh": "委婉语", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "European Coal and Steel Community", "line": 2060, "v": "KEEP", "zh": "欧洲煤钢共同体", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "European Convention for the Protection of Human Rights and Fundamental Freedoms", "line": 2061, "v": "KEEP", "zh": "《保护人权与基本自由公约》", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "European integration", "line": 2062, "v": "KEEP", "zh": "欧洲一体化", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "euthanasia", "line": 2063, "v": "KEEP", "zh": "安乐死", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "euthymia", "line": 2064, "v": "KEEP", "zh": "愉快（亦作“明朗”）", "orig": "εὐθυμία", "note": null, "sheet": "r06"}
+{"key": "Euthyphro dilemma", "line": 2065, "v": "KEEP", "zh": "欧绪弗洛两难", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evaluation system", "line": 2066, "v": "KEEP", "zh": "评价系统", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evaluative content", "line": 2067, "v": "KEEP", "zh": "评价性内容", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evangelical poverty", "line": 2068, "v": "KEEP", "zh": "福音贫穷", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evection", "line": 2069, "v": "KEEP", "zh": "出差", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Everettian", "line": 2070, "v": "KEEP", "zh": "埃弗雷特（形容词用法作“埃弗雷特式的”）", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "everyday aesthetics", "line": 2071, "v": "KEEP", "zh": "日常美学", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evidence", "line": 2072, "v": "KEEP", "zh": "证据", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evidence (Evidenz)", "line": 2073, "v": "FLAG", "zh": "明证性（亦作“自明性”）", "orig": "Evidenz", "note": "主译撞形：“明证性”同时对应 evidentness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r06"}
+{"key": "evidence-transcending", "line": 2074, "v": "KEEP", "zh": "越出证据的", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evidential (linguistics)", "line": 2075, "v": "KEEP", "zh": "示证语", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evidential ambiguity", "line": 2076, "v": "KEEP", "zh": "证据模糊", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evidential conditional", "line": 2077, "v": "KEEP", "zh": "证据条件句", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evidential support thesis", "line": 2078, "v": "KEEP", "zh": "证据支持论题", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evidentialism", "line": 2079, "v": "KEEP", "zh": "证据主义", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evidentialist reliabilism", "line": 2080, "v": "KEEP", "zh": "证据主义式可靠主义", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evidentness", "line": 2081, "v": "FLAG", "zh": "明证性", "orig": "Evidenz", "note": "与 evidence (Evidenz) 行同译“明证性”撞形（布伦塔诺／狄尔泰同族概念）；须合键或分行设计", "sheet": "r06"}
+{"key": "evil empire", "line": 2082, "v": "KEEP", "zh": "邪恶帝国", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evolution", "line": 2083, "v": "KEEP", "zh": "进化", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evolutionary developmental biology", "line": 2084, "v": "KEEP", "zh": "进化发育生物学", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evolutionary epistemology", "line": 2085, "v": "KEEP", "zh": "进化认识论", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "evolutionary game theory", "line": 2086, "v": "FLAG", "zh": "演化博弈论", "orig": "—", "note": "evolution 族“进化／演化”混用：evolutionary game theory＝演化博弈论、evolutionary medicine＝演化医学（数理通行“演化”），而 evolution／evo-devo＝进化（生物通行）；须族内统一或按域登记例外", "sheet": "r06"}
+{"key": "evolutionary medicine", "line": 2087, "v": "FLAG", "zh": "演化医学", "orig": "—", "note": "同 evolution 族“进化／演化”混用问题（见 evolutionary game theory 行 note），须族内统一或按域例外", "sheet": "r06"}
+{"key": "evolutionism", "line": 2088, "v": "KEEP", "zh": "进化论", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Ewam Choden", "line": 2089, "v": "KEEP", "zh": "俄旺秋丹寺", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Ewe", "line": 2090, "v": "KEEP", "zh": "埃维语", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "ex falso quodlibet", "line": 2091, "v": "KEEP", "zh": "ex falso quodlibet", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "ex nihilo", "line": 2092, "v": "KEEP", "zh": "从无中创生", "orig": "ex nihilo", "note": null, "sheet": "r06"}
+{"key": "ex-stasis", "line": 2093, "v": "KEEP", "zh": "出离（ex-stasis）", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exact science", "line": 2094, "v": "KEEP", "zh": "精密科学", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "examen mentale", "line": 2095, "v": "KEEP", "zh": "心智检验（保留拉丁；源文自释 mental examination）", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "excellency", "line": 2096, "v": "KEEP", "zh": "卓越（性）", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exceptionalism", "line": 2097, "v": "KEEP", "zh": "例外论", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exceptive term", "line": 2098, "v": "FLAG", "zh": "排除词", "orig": "—", "note": "exceptive term／exceptive word／exclusive word 三行译法交错（排除词／除外词／排除词）；传统逻辑 exceptive（排除）与 exclusive（排他）有别，须三分或统一区分", "sheet": "r06"}
+{"key": "exceptive word", "line": 2099, "v": "FLAG", "zh": "除外词", "orig": "—", "note": "同 exceptive term 族问题（排除词／除外词交错），须三分或统一区分", "sheet": "r06"}
+{"key": "excess of meaning", "line": 2100, "v": "FLAG", "zh": "意义的盈余（亦作“意义盈余”）", "orig": "—", "note": "主译撞形：“意义的盈余”同时对应 surplus of meaning；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r06"}
+{"key": "exchange principle", "line": 2101, "v": "KEEP", "zh": "交换原则", "orig": "Tauschprinzip", "note": null, "sheet": "r06"}
+{"key": "exchange society", "line": 2102, "v": "KEEP", "zh": "交换社会", "orig": "Tauschgesellschaft", "note": null, "sheet": "r06"}
+{"key": "excluded-middle sentence schema", "line": 2103, "v": "KEEP", "zh": "排中语句图式", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exclusive disjunction", "line": 2104, "v": "KEEP", "zh": "互斥析取", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exclusive word", "line": 2105, "v": "FLAG", "zh": "排除词", "orig": "—", "note": "同 exceptive term 族问题；现译“排除词”与 exceptive term 撞形，exclusive 通行“排他词”，须三分", "sheet": "r06"}
+{"key": "excommunication", "line": 2106, "v": "KEEP", "zh": "绝罚（亦作“开除教籍”）", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exemplar", "line": 2107, "v": "KEEP", "zh": "范例", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exemplarism", "line": 2108, "v": "KEEP", "zh": "范例论", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exemption", "line": 2109, "v": "KEEP", "zh": "豁免", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exemption problem", "line": 2110, "v": "KEEP", "zh": "豁免问题", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exhibitionism", "line": 2111, "v": "KEEP", "zh": "露阴症", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exile", "line": 2112, "v": "KEEP", "zh": "流亡（加路特 galut）", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "existence", "line": 2113, "v": "FLAG", "zh": "存在", "orig": "—", "note": "主译撞形：“存在”同时对应 being、bhāva；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r06"}
+{"key": "existence monism", "line": 2114, "v": "KEEP", "zh": "存在一元论", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "existence nihilism", "line": 2115, "v": "KEEP", "zh": "存在虚无主义", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "existence pluralism", "line": 2116, "v": "KEEP", "zh": "存在多元论", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "existent", "line": 2117, "v": "KEEP", "zh": "存在物", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "existential communication", "line": 2118, "v": "KEEP", "zh": "生存交往", "orig": "existenzielle Kommunikation", "note": null, "sheet": "r06"}
+{"key": "existential feelings", "line": 2119, "v": "KEEP", "zh": "生存感受", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "existential import", "line": 2120, "v": "KEEP", "zh": "存在蕴含（亦作“存在含义”）", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "existential judgement", "line": 2121, "v": "KEEP", "zh": "存在判断", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "existential phenomenology", "line": 2122, "v": "KEEP", "zh": "生存现象学", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "existential quantifier", "line": 2123, "v": "KEEP", "zh": "存在量词", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "existentialism", "line": 2124, "v": "KEEP", "zh": "存在主义", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "existentialist aesthetics", "line": 2125, "v": "KEEP", "zh": "存在主义美学", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Existenz", "line": 2126, "v": "KEEP", "zh": "生存", "orig": "Existenz", "note": null, "sheet": "r06"}
+{"key": "Existenzerhellung", "line": 2127, "v": "KEEP", "zh": "生存澄明", "orig": "Existenzerhellung", "note": null, "sheet": "r06"}
+{"key": "Existenzialfragen", "line": 2128, "v": "FLAG", "zh": "实存问题", "orig": "Existenzialfragen", "note": "Existenz 族内译法混用：Existenz／Existenzphilosophie＝生存，本行＝实存问题（yorck 首译）；海德格尔语境 Existenzial 系通行“生存论”；须族内统一或按哲学家分域", "sheet": "r06"}
+{"key": "Existenzphilosophie", "line": 2129, "v": "KEEP", "zh": "生存哲学", "orig": "Existenzphilosophie", "note": null, "sheet": "r06"}
+{"key": "existimari", "line": 2130, "v": "KEEP", "zh": "估断", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exit option", "line": 2131, "v": "KEEP", "zh": "退出选项", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exogenous", "line": 2132, "v": "KEEP", "zh": "外源的", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exon", "line": 2133, "v": "KEEP", "zh": "外显子", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exoteric", "line": 2134, "v": "KEEP", "zh": "显白的", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "expansion coefficient", "line": 2135, "v": "FLAG", "zh": "展开系数", "orig": "—", "note": "用语列抓取的是热膨胀系数语境（laws-of-nature:1089 thermal expansion coefficient），非首现 qm 的展开系数义；须回原典重抓用语或正键", "sheet": "r06"}
+{"key": "expectation value", "line": 2136, "v": "KEEP", "zh": "期望值", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "expected utility", "line": 2137, "v": "KEEP", "zh": "期望效用", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "expected utility maximiser", "line": 2138, "v": "KEEP", "zh": "期望效用最大化者", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "expected utility theory", "line": 2139, "v": "KEEP", "zh": "期望效用理论", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "expected value", "line": 2140, "v": "FLAG", "zh": "期望价值", "orig": "—", "note": "数理通行 expected value＝期望值，现译“期望价值”避撞形；expectation value（QM）亦通行“期望值”；两键须按域区分（物理／决策）或分行设计", "sheet": "r06"}
+{"key": "Experience", "line": 2141, "v": "FLAG", "zh": "经验；体验", "orig": "—", "note": "主译撞形：“经验”同时对应 Erfahrung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r06"}
+{"key": "experimental organism", "line": 2142, "v": "KEEP", "zh": "实验生物", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "experimental philosophy", "line": 2143, "v": "KEEP", "zh": "实验哲学", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "experimental psychology", "line": 2144, "v": "KEEP", "zh": "实验心理学", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "experimental science", "line": 2145, "v": "KEEP", "zh": "实验科学", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "experimental system", "line": 2146, "v": "KEEP", "zh": "实验系统", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "experimenter demand effect", "line": 2147, "v": "KEEP", "zh": "实验者需求效应", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "explanandum (that which is to be explained)", "line": 2148, "v": "KEEP", "zh": "被解释项", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "explanans", "line": 2149, "v": "KEEP", "zh": "解释项", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "explanation", "line": 2150, "v": "FLAG", "zh": "说明", "orig": "Erklären", "note": "族内“说明／解释”混用：explanation＝说明（狄尔泰 Erklären 对照义首译）、explanatory gap＝解释鸿沟、explanatory power／store／realism／understanding 交错；科学哲学通行“解释”，狄尔泰对照义“说明”；须按域分行或统一", "sheet": "r06"}
+{"key": "explanationism", "line": 2151, "v": "KEEP", "zh": "解释主义（explanationist 解释主义者）", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "explanatory coherence", "line": 2152, "v": "KEEP", "zh": "解释性融贯", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "explanatory framework", "line": 2153, "v": "KEEP", "zh": "解释框架", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "explanatory gap", "line": 2154, "v": "KEEP", "zh": "解释鸿沟", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "explanatory power", "line": 2155, "v": "FLAG", "zh": "说明力", "orig": "—", "note": "同 explanation 族“说明／解释”混用问题，须族内统一或按域分行", "sheet": "r06"}
+{"key": "explanatory realism", "line": 2156, "v": "FLAG", "zh": "说明性实在论", "orig": "—", "note": "同 explanation 族“说明／解释”混用问题，须族内统一或按域分行", "sheet": "r06"}
+{"key": "explanatory store", "line": 2157, "v": "FLAG", "zh": "解释库", "orig": "—", "note": "同 explanation 族“说明／解释”混用问题，须族内统一或按域分行", "sheet": "r06"}
+{"key": "explanatory understanding", "line": 2158, "v": "FLAG", "zh": "解释性理解", "orig": "—", "note": "同 explanation 族“说明／解释”混用问题（本行与解释性理解义交叠），须族内统一或按域分行", "sheet": "r06"}
+{"key": "explication", "line": 2159, "v": "KEEP", "zh": "阐释（亦作“阐明”）", "orig": "Explikation", "note": null, "sheet": "r06"}
+{"key": "explicit definition", "line": 2160, "v": "KEEP", "zh": "显式定义", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exploitation", "line": 2161, "v": "KEEP", "zh": "剥削", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exploratory model", "line": 2162, "v": "KEEP", "zh": "探索性模型", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "explosion", "line": 2163, "v": "KEEP", "zh": "爆炸", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "exponential", "line": 2164, "v": "FLAG", "zh": "指数", "orig": "—", "note": "主译撞形：“指数”同时对应 index number；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r06"}
+{"key": "exponible (exponibile)", "line": 2165, "v": "KEEP", "zh": "可展开句", "orig": "exponibilia", "note": null, "sheet": "r06"}
+{"key": "express consent", "line": 2166, "v": "KEEP", "zh": "明示同意", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "expression", "line": 2167, "v": "KEEP", "zh": "表现（美学/阿多诺语境；与 expression 普通用法“表达”随文区分）", "orig": "Ausdruck", "note": null, "sheet": "r06"}
+{"key": "expression meaning", "line": 2168, "v": "KEEP", "zh": "表达式意义", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "expression theory", "line": 2169, "v": "KEEP", "zh": "表现论", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "expressionism", "line": 2170, "v": "KEEP", "zh": "表现主义", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "expressive power", "line": 2171, "v": "KEEP", "zh": "表达力", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "expressiveness", "line": 2172, "v": "KEEP", "zh": "表现力（音乐的情感表现）", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "expressivism", "line": 2173, "v": "KEEP", "zh": "表达主义（expressivist 表达主义者）", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "expulsive faculty", "line": 2174, "v": "KEEP", "zh": "排出官能", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extended cognition", "line": 2175, "v": "KEEP", "zh": "延展认知", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extended discourse", "line": 2176, "v": "KEEP", "zh": "扩展话语", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extended fiction", "line": 2177, "v": "KEEP", "zh": "扩展虚构", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extended replicator", "line": 2178, "v": "KEEP", "zh": "扩展复制子", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extension", "line": 2179, "v": "FLAG", "zh": "广延", "orig": "—", "note": "双义：笛卡尔语境 body 的 extension＝广延（现译），逻辑语境（quine-nf）＝外延；须分行（广延／外延）", "sheet": "r06"}
+{"key": "extension question", "line": 2180, "v": "KEEP", "zh": "外延问题", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extensionality", "line": 2181, "v": "KEEP", "zh": "外延性", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extensionality of functions", "line": 2182, "v": "KEEP", "zh": "函数的外延性", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extent of meaning / intent of meaning", "line": 2183, "v": "KEEP", "zh": "意义的外延／意义的内涵", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "external / internal sovereignty", "line": 2184, "v": "KEEP", "zh": "对外主权／对内主权", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "external contraction", "line": 2185, "v": "KEEP", "zh": "外收缩", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "external organization of society", "line": 2186, "v": "KEEP", "zh": "社会的外部组织", "orig": "äußere Organisation der Gesellschaft", "note": null, "sheet": "r06"}
+{"key": "external validity", "line": 2187, "v": "KEEP", "zh": "外部效度", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "external weakening", "line": 2188, "v": "KEEP", "zh": "外弱化", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "external world", "line": 2189, "v": "KEEP", "zh": "外部世界", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "external-realist", "line": 2190, "v": "KEEP", "zh": "外境实在论的", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "externalism", "line": 2191, "v": "KEEP", "zh": "外在主义", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "externality", "line": 2192, "v": "KEEP", "zh": "外在性", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Externalization", "line": 2193, "v": "KEEP", "zh": "外化", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extinction", "line": 2194, "v": "KEEP", "zh": "灭绝", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extracellular matrix", "line": 2195, "v": "KEEP", "zh": "细胞外基质", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extramission theory of vision", "line": 2196, "v": "KEEP", "zh": "视觉外射说", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extramural speech", "line": 2197, "v": "KEEP", "zh": "校外言论", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extrapolation", "line": 2198, "v": "KEEP", "zh": "外推", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extraversion", "line": 2199, "v": "KEEP", "zh": "外向性", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Extrinsic", "line": 2200, "v": "KEEP", "zh": "外在", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extrinsic motivation", "line": 2201, "v": "KEEP", "zh": "外在动机", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "extrinsic teleology", "line": 2202, "v": "KEEP", "zh": "外在目的论", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "ε-notation", "line": 2203, "v": "KEEP", "zh": "ε 记号", "orig": "ε-notation", "note": null, "sheet": "r06"}
+{"key": "Fabianism", "line": 2209, "v": "KEEP", "zh": "费边主义", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "facet", "line": 2210, "v": "KEEP", "zh": "层面（人格子维度）", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "facticity", "line": 2211, "v": "KEEP", "zh": "事实性", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "factive", "line": 2212, "v": "KEEP", "zh": "事实性的", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "factive assessment（yid dpyod）", "line": 2213, "v": "FLAG", "zh": "伺察识（yid dpyod）", "orig": "ཡིད་དཔྱོད་", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r06"}
+{"key": "factorization", "line": 2214, "v": "KEEP", "zh": "因式分解", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "factory council", "line": 2215, "v": "KEEP", "zh": "工厂委员会", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "faculty", "line": 2216, "v": "KEEP", "zh": "官能", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "faculty of arts", "line": 2217, "v": "KEEP", "zh": "艺学院", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "faculty psychology", "line": 2218, "v": "KEEP", "zh": "官能心理学", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "failed erotic art", "line": 2219, "v": "KEEP", "zh": "失败的情色艺术", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "fair division", "line": 2220, "v": "KEEP", "zh": "公平分配", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "fairness", "line": 2221, "v": "FLAG", "zh": "公平", "orig": "—", "note": "主译撞形：“公平”同时对应 equity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "r06"}
+{"key": "fairness norm", "line": 2222, "v": "KEEP", "zh": "公平规范", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "fairness postulate", "line": 2223, "v": "KEEP", "zh": "公平公设", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "faith", "line": 2224, "v": "KEEP", "zh": "信仰", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Faith in a Seed", "line": 2225, "v": "KEEP", "zh": "《种子的信仰》", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Fajie yuanqi（法界緣起）", "line": 2226, "v": "FLAG", "zh": "法界缘起", "orig": "法界緣起", "note": "键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）", "sheet": "r06"}
+{"key": "fake barn cases", "line": 2227, "v": "KEEP", "zh": "假谷仓案例", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "falâsifa", "line": 2228, "v": "KEEP", "zh": "法拉西法（亚里士多德派哲学家）", "orig": "falâsifa", "note": null, "sheet": "r06"}
+{"key": "Fall", "line": 2229, "v": "KEEP", "zh": "堕落", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "Fallacie maiores", "line": 2230, "v": "KEEP", "zh": "《大谬误》", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "fallacy of equivocation", "line": 2231, "v": "KEEP", "zh": "歧义谬误", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "fallibilism", "line": 2232, "v": "KEEP", "zh": "可错论", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "fallibility", "line": 2233, "v": "KEEP", "zh": "易错性", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "falsafa", "line": 2234, "v": "KEEP", "zh": "法尔萨法；哲学（按语境：术语名音译，行文通译“哲学”）", "orig": "فلسفة", "note": null, "sheet": "r06"}
+{"key": "false-belief", "line": 2235, "v": "KEEP", "zh": "错误信念", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "falsifiability", "line": 2236, "v": "KEEP", "zh": "可证伪性", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "falsification", "line": 2237, "v": "KEEP", "zh": "证伪", "orig": "—", "note": null, "sheet": "r06"}
+{"key": "falsificationism", "line": 2238, "v": "KEEP", "zh": "证伪主义", "orig": "—", "note": null, "sheet": "r06"}
 {"key": "fayd", "line": 2248, "v": "FLAG", "zh": "流溢", "orig": "—", "note": "主译撞形：“流溢”同时对应 emanation、prohodos；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "finality", "line": 2288, "v": "FLAG", "zh": "合目的性", "orig": "—", "note": "主译撞形：“合目的性”同时对应 purposiveness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}
 {"key": "first mover", "line": 2300, "v": "FLAG", "zh": "第一推动者", "orig": "—", "note": "主译撞形：“第一推动者”同时对应 prime mover；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并", "sheet": "m-collision"}

@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 871，FLAG 657，FIX 18，MERGE 4
+判定分布：KEEP 1043，FLAG 670，FIX 18，MERGE 4
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -265,17 +265,30 @@
 - **essence**（行 2022，现译「本质」）｜ FLAG ｜ 主译撞形：“本质”同时对应 quiddity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Estates General**（行 2032，现译「三级会议」）｜ FLAG ｜ 主译撞形：“三级会议”同时对应 States General；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Ethical Life**（行 2042，现译「伦理生活（亦作“伦理”）」）｜ FLAG ｜ 亦作“伦理”与 Sittlichkeit 的主译撞形；删该亦作或改主译
-- **etiological (aspect of explanation)**（行 2053，现译「病因学」）｜ FLAG ｜ 主译撞形：“病因学”同时对应 etiology；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Ethology**（行 2051，现译「性格学」）｜ FLAG ｜ 双义：Lewes／george-eliot 19 世纪义＝性格学（现译），现代义（sociobiology:1375 等）＝动物行为学；须分行或加义注
+- **etiological (aspect of explanation)**（行 2053，现译「病因学」）｜ FLAG ｜ 科学解释语境 etiological 指追溯原因的发生学解释，非仅医学“病因学”义；现译过窄，须回原典核对裁定
 - **etiology**（行 2054，现译「病因学（亦作“病因”）」）｜ FLAG ｜ 主译撞形：“病因学”同时对应 etiological (aspect of explanation)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **eudaimonia**（行 2056，现译「幸福（亦作“繁盛”）」）｜ FLAG ｜ 主译撞形：“幸福”同时对应 Happiness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **evidence (Evidenz)**（行 2073，现译「明证性（亦作“自明性”）」）｜ FLAG ｜ 主译撞形：“明证性”同时对应 evidentness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **evidentness**（行 2081，现译「明证性」）｜ FLAG ｜ 主译撞形：“明证性”同时对应 evidence (Evidenz)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **exceptive term**（行 2098，现译「排除词」）｜ FLAG ｜ 主译撞形：“排除词”同时对应 exclusive word；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **evidentness**（行 2081，现译「明证性」）｜ FLAG ｜ 与 evidence (Evidenz) 行同译“明证性”撞形（布伦塔诺／狄尔泰同族概念）；须合键或分行设计
+- **evolutionary game theory**（行 2086，现译「演化博弈论」）｜ FLAG ｜ evolution 族“进化／演化”混用：evolutionary game theory＝演化博弈论、evolutionary medicine＝演化医学（数理通行“演化”），而 evolution／evo-devo＝进化（生物通行）；须族内统一或按域登记例外
+- **evolutionary medicine**（行 2087，现译「演化医学」）｜ FLAG ｜ 同 evolution 族“进化／演化”混用问题（见 evolutionary game theory 行 note），须族内统一或按域例外
+- **exceptive term**（行 2098，现译「排除词」）｜ FLAG ｜ exceptive term／exceptive word／exclusive word 三行译法交错（排除词／除外词／排除词）；传统逻辑 exceptive（排除）与 exclusive（排他）有别，须三分或统一区分
+- **exceptive word**（行 2099，现译「除外词」）｜ FLAG ｜ 同 exceptive term 族问题（排除词／除外词交错），须三分或统一区分
 - **excess of meaning**（行 2100，现译「意义的盈余（亦作“意义盈余”）」）｜ FLAG ｜ 主译撞形：“意义的盈余”同时对应 surplus of meaning；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **exclusive word**（行 2105，现译「排除词」）｜ FLAG ｜ 主译撞形：“排除词”同时对应 exceptive term；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **exclusive word**（行 2105，现译「排除词」）｜ FLAG ｜ 同 exceptive term 族问题；现译“排除词”与 exceptive term 撞形，exclusive 通行“排他词”，须三分
 - **existence**（行 2113，现译「存在」）｜ FLAG ｜ 主译撞形：“存在”同时对应 being、bhāva；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Existenzialfragen**（行 2128，现译「实存问题」）｜ FLAG ｜ Existenz 族内译法混用：Existenz／Existenzphilosophie＝生存，本行＝实存问题（yorck 首译）；海德格尔语境 Existenzial 系通行“生存论”；须族内统一或按哲学家分域
+- **expansion coefficient**（行 2135，现译「展开系数」）｜ FLAG ｜ 用语列抓取的是热膨胀系数语境（laws-of-nature:1089 thermal expansion coefficient），非首现 qm 的展开系数义；须回原典重抓用语或正键
+- **expected value**（行 2140，现译「期望价值」）｜ FLAG ｜ 数理通行 expected value＝期望值，现译“期望价值”避撞形；expectation value（QM）亦通行“期望值”；两键须按域区分（物理／决策）或分行设计
 - **Experience**（行 2141，现译「经验；体验」）｜ FLAG ｜ 主译撞形：“经验”同时对应 Erfahrung；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **explanation**（行 2150，现译「说明」）｜ FLAG ｜ 族内“说明／解释”混用：explanation＝说明（狄尔泰 Erklären 对照义首译）、explanatory gap＝解释鸿沟、explanatory power／store／realism／understanding 交错；科学哲学通行“解释”，狄尔泰对照义“说明”；须按域分行或统一
+- **explanatory power**（行 2155，现译「说明力」）｜ FLAG ｜ 同 explanation 族“说明／解释”混用问题，须族内统一或按域分行
+- **explanatory realism**（行 2156，现译「说明性实在论」）｜ FLAG ｜ 同 explanation 族“说明／解释”混用问题，须族内统一或按域分行
+- **explanatory store**（行 2157，现译「解释库」）｜ FLAG ｜ 同 explanation 族“说明／解释”混用问题，须族内统一或按域分行
+- **explanatory understanding**（行 2158，现译「解释性理解」）｜ FLAG ｜ 同 explanation 族“说明／解释”混用问题（本行与解释性理解义交叠），须族内统一或按域分行
 - **exponential**（行 2164，现译「指数」）｜ FLAG ｜ 主译撞形：“指数”同时对应 index number；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **extension**（行 2179，现译「广延」）｜ FLAG ｜ 双义：笛卡尔语境 body 的 extension＝广延（现译），逻辑语境（quine-nf）＝外延；须分行（广延／外延）
 - **factive assessment（yid dpyod）**（行 2213，现译「伺察识（yid dpyod）」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
 - **fairness**（行 2221，现译「公平」）｜ FLAG ｜ 主译撞形：“公平”同时对应 equity；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Fajie yuanqi（法界緣起）**（行 2226，现译「法界缘起」）｜ FLAG ｜ 键含全角标点（中文括注），违键形规范（键须为源语形，域限定语应作半角括注或移入译法/依据列）
