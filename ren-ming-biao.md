@@ -3060,7 +3060,7 @@
 | Nevo, Eviatar | — | 埃维亚塔尔·内沃 | 以色列 | 1941– | ecological-genetics | 学界通行汉译（进化遗传学家，Haifa 大学）；凭证 2026-11-10 | 2026-11-10 |
 | Newman, John Henry | — | 约翰·亨利·纽曼 | 英国 | 1801–1890 | origin-descent | 学界通行汉译（《大学的理念》中译本）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 11858751X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Newton, Isaac | — | 艾萨克·牛顿 | 英国 | 1643–1727 | emilie-du-chatelet | 学界千年通行译名；籍属/生卒联网查证：GND 规范标目 gnd 118587544（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Ng, On-cho | — | 伍安祖 | 美国（华裔） | — | qing-philosophy | 本人汉名（宾夕法尼亚州立大学亚洲研究系与哲学系教授；豆瓣人物页、海外中国研究学者英汉名对照表）；凭证 2026-11-12 | 2026-11-12 |
+| Ng, On-cho | — | 伍安祖 | 美国（华裔） | 1953– | qing-philosophy | 本人汉名（宾夕法尼亚州立大学亚洲研究系与哲学系教授；豆瓣人物页、海外中国研究学者英汉名对照表）；凭证 2026-11-12；籍属/生卒联网查证：Wikidata Q112407966（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Ng, Yew-Kwang | — | 黄有光 | 澳大利亚（华裔） | 1942– | repugnant-conclusion | 华裔经济学家本人汉名（Yew-Kwang Ng）；凭证 2026-11-11 | 2026-11-11 |
 | Ngawang Chödrak | — | 阿旺却扎 | — | — | epistemology-language-tibetan | 佛学界通行（Ngag dbang chos grags） | 2026-11-04 |
 | Ngok Loden Shérap | — | 俄·罗丹喜饶 | — | — | epistemology-language-tibetan | 佛学界通行（rNgog Blo ldan shes rab） | 2026-11-04 |
@@ -3073,7 +3073,7 @@
 | Nicholas of Otranto | — | 奥特朗托的尼古拉 | — | — | john-italos | 学界通行汉译（13 世纪抄手）；凭证 2026-11-06 | 2026-11-06 |
 | Nicholas of Paris | — | 巴黎的尼古拉 | 法国／经院逻辑 | 13 世纪 | analogy-medieval；peter-spain | 中世纪逻辑研究通行汉译；凭证 2026-11-08；2026-11-20 复核：合并（同键变体，来源列并双 slug） | 2026-11-09 |
 | Nicholas V / Nicholas V (antipope) | — | 尼古拉五世 | 意大利 | 1397–1455 | bessarion；marsilius-padua | 教宗名通译惯例（1447–1455 在位；与 1328 年对立教皇尼古拉五世别为一人，见上）；2026-11-13 重复行合并（旧键 `Nicholas V (antipope)`） | 2026-11-13 |
-| Nichols, Shaun / Shaun Nichols | — | 肖恩·尼科尔斯 | 美国 | — | imaginative-resistance；语料回收（全目录） | 音译（想象与信念）；凭证 2026-11-12；2026-11-13 重复行合并（旧键 `Shaun Nichols`） | 2026-11-13 |
+| Nichols, Shaun / Shaun Nichols | — | 肖恩·尼科尔斯 | 美国 | 1950– | imaginative-resistance；语料回收（全目录） | 音译（想象与信念）；凭证 2026-11-12；2026-11-13 重复行合并（旧键 `Shaun Nichols`）；籍属/生卒联网查证：Wikidata Q7490928（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Nicolas Bonet | — | 尼古拉·博内 | 法国／方济各会 | 约1280–1343 | crathorn | 学界惯例（巴黎方济各会士，音译）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q3340115（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Nicolas Dessaux | — | 尼古拉·德索 | — | — | bauer | 学界通行音译（法方编者，正文方括号原文照录） | 2026-11-08 |
 | Nicolas Steno | — | 尼古拉·斯滕诺 | 丹麦 | 1638–1686 | leibniz-evil | 学界通行汉译（丹麦科学家-主教，亦作斯特诺）；审定库无相关命中（termonline-all 凭证 2026-11-14）；籍属/生卒联网查证：Wikidata Q151722（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
@@ -3154,7 +3154,7 @@
 | Oppy, Graham | — | 格雷厄姆·奥皮 | 澳大利亚 | 1960– | omniscience | 学界通行音译；凭证 2026-11-09 | 2026-11-09 |
 | Orbán, Viktor | — | 欧尔班·维克托 | 匈牙利 | 1963– | globalization | 时事通行汉译（匈牙利总理；匈语姓名序）；籍属/生卒联网查证：GND 规范标目 gnd 12402064X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Oresme, Nicole | — | 尼科尔·奥雷斯姆（正文简作“奥雷斯姆”；亦作“奥雷姆”） | 法国 | 约1320–1382 | duhem；nicole-oresme | 学界惯例（中世纪哲学家通行汉译；2026-11-08 名形统一：妮可→尼科尔、“奥雷姆”补“斯”，与 SUMMARY/已译语料归一，用户裁定）；凭证 2026-11-06；籍属/生卒联网查证：Wikidata Q310777（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
-| Orey, Steven | — | Orey | 美国 | — | quine-nf | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Orey, Steven | — | Orey | 美国 | 1928– | quine-nf | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 141827335（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Oria, Juan de | — | 胡安·德·奥里亚 | 西班牙／逻辑学家 | fl. 1510s–1540s | gomez-pereira | 音译（萨拉曼卡大学逻辑学教授，后遭宗教裁判所判罪）；凭证 2026-11-12 | 2026-11-12 |
 | Origen | — | 奥利金 | 古罗马（亚历山大里亚） | 约184–254 | erasmus | 学界惯例（教父通译）；籍属/生卒联网查证：Wikidata Q170472（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Orikuchi Shinobu | — | 折口信夫 | 日本 | 1887–1953 | kokugaku-school | 学界通行汉译；凭证 2026-11-04；籍属/生卒联网查证：Wikidata Q3482286（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
@@ -3190,15 +3190,15 @@
 | Pace, Giulio | — | 朱利奥·帕切 | 意大利／文艺复兴亚里士多德学者 | 1550–1635 | johann-sturm | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Pacuit, Eric | — | 埃里克·帕奎特 | 美国 | 1976– | social-procedures | 学界通行汉译（逻辑与博弈论）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 1252364482（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Padma, T. V. | — | T. V. 帕德玛 | — | — | social-procedures | 印度名音译（科普作者）；凭证 2026-11-07 | 2026-11-07 |
-| Paek I-jŏng | 白頤正 | 白颐正 | 1247–1323 | — | korean-confucianism | 汉文传统写法（高丽性理学者，万卷堂与元儒往还） | 2026-11-08 |
-| Paek Munbo | 白文寶 | 白文宝 | 1303–1374 | — | korean-confucianism | 汉文传统写法（高丽末儒者，《斥佛疏》作者） | 2026-11-08 |
+| Paek I-jŏng | 白頤正 | 白颐正 | 高丽 | 1247–1323 | korean-confucianism | 汉文传统写法（高丽性理学者，万卷堂与元儒往还）；籍属/生卒联网查证：韩国学典（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
+| Paek Munbo | 白文寶 | 白文宝 | 高丽 | 1303–1374 | korean-confucianism | 汉文传统写法（高丽末儒者，《斥佛疏》作者）；籍属/生卒联网查证：韩国维基百科白文宝条目（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Paek Sŏnguk | 백성욱 | 白性郁 | — | — | korean-philosophy | 源文汉字 白性郁（近代佛教哲学家；korean-buddhism 条目无汉字暂保留罗马字，此处据源文补录） | 2026-11-05 |
 | Páez, Andrés | — | 安德烈斯·帕埃斯 | 哥伦比亚 | — | epistemology-latin-america | 音译（西班牙语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
 | Pak Cheka | — | 朴齐家 | — | — | korean-philosophy | 汉文传统写法（源文汉字 朴齊家；北学派，楚亭） | 2026-11-05 |
 | Pak Chiwon | — | 朴趾源 | 朝鲜 | 1737–1805 | korean-philosophy | 汉文传统写法（北学派，燕岩）；籍属/生卒联网查证：Wikidata Q495720（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
-| Pak Sedang | 朴世堂 | 朴世堂 | 1629–1703 | — | korean-confucianism | 汉文传统写法（朝鲜性理学者，号西溪） | 2026-11-08 |
+| Pak Sedang | 朴世堂 | 朴世堂 | 朝鲜 | 1629–1703 | korean-confucianism | 汉文传统写法（朝鲜性理学者，号西溪）；籍属/生卒联网查证：韩国学典（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Palacios, Miguel de | — | 米格尔·德·帕拉西奥斯 | 西班牙／神学家 | fl. 1555 | gomez-pereira | 音译（萨拉曼卡大学神学教授，为《安东尼娅》作诘难）；凭证 2026-11-12 | 2026-11-12 |
-| Palaephatus | Παλαίφατος | 帕莱法托斯 | 希腊 | — | epicurus | 音译（《论不可信的故事》作者） | 2026-11-12 |
+| Palaephatus | Παλαίφατος | 帕莱法托斯 | 希腊 | 约前 400–前 360 | epicurus | 音译（《论不可信的故事》作者）；籍属/生卒联网查证：Wikidata Q580565（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Palaiologos, John VIII | John VIII Palaiologos | 约翰八世·帕列奥列格 | 拜占庭 | 1392–1448 | bessarion | 本词条首译（拜占庭皇帝，1425–1448 在位；学界通行音译） | 2026-11-10 |
 | Palamedes | Eleatic Palamedes | 帕拉墨得斯 | 希腊神话 | — | zeno-elea | 学界通行汉译（希腊神话英雄，雄辩术发明者；《斐德罗篇》以“爱利亚的帕拉墨得斯”称芝诺）；凭证 2026-11-09；2026-11-20 并入术语表同指行（旧键 `Eleatic Palamedes`，绰号形） | 2026-11-09 |
 | Palingenio Stellato | — | 帕林杰尼奥·斯特拉托 | 意大利 | 1500/3–约 1543 | natphil-ren | 本词条首译（《生命黄道》作者，本名 Pierangelo Manzolli 皮耶兰杰洛·曼佐利）；凭证 2026-11-10 | 2026-11-10 |
@@ -3211,7 +3211,7 @@
 | Pantacleia | — | 潘塔克莱娅 | — | — | dialectical-school | 学界通行汉译（狄奥多罗斯之女，据称逻辑学家）；凭证 2026-11-07 | 2026-11-07 |
 | Panthoides | — | 潘托伊得斯 | 古希腊 | — | dialectical-school | 学界通行汉译（辩证家，约前280–275年）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q4354547（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Pantoja, Diego de | 龐迪我 | 庞迪我 | 西班牙 | 1571–1618 | korean-confucianism | 耶稣会士汉名（《七克》作者）；籍属/生卒联网查证：GND 规范标目 gnd 128437391（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Pap, Arthur | — | 阿瑟·帕普 | 美国 | 1912–1951 | cassirer | 科学哲学家（《物理理论中的先验》作者），学界通行音译；与 Pap, Endre 异人分立；凭证 2026-11-12 r2 | 2026-11-12 |
+| Pap, Arthur | — | 阿瑟·帕普 | 美国 | 1921–1959 | cassirer | 科学哲学家（《物理理论中的先验》作者），学界通行音译；与 Pap, Endre 异人分立；凭证 2026-11-12 r2；籍属/生卒联网查证：Wikidata Q4799915（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Pap, Endre | — | Pap | 塞尔维亚 | 1947– | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 140687572（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Papineau, David | — | 大卫·帕皮诺 | 英国 | 1947– | closure-epistemic | 学界通行音译（《哲学自然主义》）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q329264（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Papini, Giovanni | — | 帕皮尼 | 意大利 | 1881–1956 | duhem | 学界惯例（意大利哲学家通行汉译）；凭证 2026-11-06；籍属/生卒联网查证：GND 规范标目 gnd 118739239（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -3235,7 +3235,7 @@
 | Parry, William | — | William Parry | 英国 | 1934–2006 | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 122162374（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Parsons, Charles | — | Charles Parsons（现代学者，保留英文） | 美国 | 1933–2024 | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q5081510（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Parsons, Terence | — | Terence Parsons | 美国 | 1939– | logic-massexpress | 无通行汉名，保留英文原名（1970 论物质名词；与 Charles Parsons 分列）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1069691178（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Partee, Barbara | — | 帕蒂 | 俄罗斯 | 1940– | tarski-truth | 学界通行汉译（形式语义学家）；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：GND 规范标目 gnd 132229129（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
+| Partee, Barbara | — | 帕蒂 | 美国 | 1940– | tarski-truth | 学界通行汉译（形式语义学家）；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：GND 规范标目 gnd 132229129（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；籍属/生卒联网查证：Wikidata Q450773（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Pascal, Blaise / Blaise Pascal | Blaise Pascal | 布莱兹·帕斯卡 | 法国 | 1623–1662 | schlegel；geometry-19th | 数学家、哲学家，学界千年通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `Blaise Pascal`）；籍属/生卒联网查证：Wikidata Q1290（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Pasch, Moritz | — | 莫里茨·帕施 | 德国 | 1843–1930 | deductivism-mathematics | 学界通行汉译（几何公理化先驱）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118789775（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Pascoe, Peggy | — | 佩吉·帕斯科 | 美国 | 1954–2010 | genetics | 种族与婚姻史家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：Wikidata Q7160715（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
@@ -3267,7 +3267,7 @@
 | Pecquet, Jean | — | 让·佩凯 | 法国／解剖学家 | 1622–1674 | johann-sturm | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Pedro IV | — | 佩德罗四世 | 阿拉贡 | 1319–1387 | crescas | 学界惯例（阿拉贡国王，1349–1387 在位）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 11879051X（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Peirce, Benjamin | — | 本杰明·皮尔斯 | 美国 | 1809–1880 | peirce-benjamin | SUMMARY 定名沿用（数学家；须与实用主义者查尔斯·桑德斯·皮尔士〔其子，“皮尔士”形〕分立）；凭证 2026-11-09 | 2026-11-09 |
-| Pelacani, Biagio | — | 比亚焦·佩拉卡尼 | 意大利（帕多瓦） | — | natphil-ren | 本词条首译（中世纪自然哲学家，源文无生卒，无通行汉名）；凭证 2026-11-10 | 2026-11-10 |
+| Pelacani, Biagio | — | 比亚焦·佩拉卡尼 | 意大利（帕多瓦） | 1355–1416 | natphil-ren | 本词条首译（中世纪自然哲学家，源文无生卒，无通行汉名）；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q855257（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Pelczynski, Z. A. | — | 佩尔钦斯基 | — | — | hegel-social-political | 黑格尔政治哲学研究者（学界通行汉译） | 2026-11-10 |
 | Peleg, David | — | David Peleg | 以色列 | 1957– | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q5238487（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Peliš, Michal | — | Michal Peliš | — | 1976– | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q95180135（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
