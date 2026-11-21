@@ -1,6 +1,6 @@
 # 术语逐行研判：待处置清单（2026-11-20）
 
-判定分布：KEEP 4612，FLAG 727，FIX 39，MERGE 24
+判定分布：KEEP 4787，FLAG 727，FIX 39，MERGE 27
 
 记号：FIX＝确定缺陷待改；FLAG＝存疑待联网查证或专项裁定；MERGE＝应并入他行；DELETE＝应删行。
 
@@ -728,10 +728,13 @@
 - **supposition (suppositio)**（行 6334，现译「指代」）｜ FLAG ｜ 主译撞形：“指代”同时对应 supposit for；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **Supreme Ultimate**（行 6339，现译「太极」）｜ FLAG ｜ 主译撞形：“太极”同时对应 taiji；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **surplus of meaning**（行 6344，现译「意义的盈余」）｜ FLAG ｜ 主译撞形：“意义的盈余”同时对应 excess of meaning；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
-- **suspending judgement**（行 6351，现译「悬置判断」）｜ FLAG ｜ 主译撞形：“悬置判断”同时对应 suspension of judgment；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **suspending judgement**（行 6351，现译「悬置判断」）｜ MERGE ｜ 与 suspension of judgment 行（行 6353）同概念同译“悬置判断”（动名词／名词两键）；并入名词主行
 - **suspension of judgment**（行 6353，现译「悬置判断」）｜ FLAG ｜ 主译撞形：“悬置判断”同时对应 suspending judgement；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **svasaṃvedana**（行 6358，现译「自证」）｜ FLAG ｜ 主译撞形：“自证”同时对应 reflexive awareness；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **syllogism**（行 6363，现译「三段论」）｜ FLAG ｜ 主译撞形：“三段论”同时对应 qiyāsāt；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **symphilosophy**（行 6379，现译「共思（Symphilosophie）（亦作“共哲学”）」）｜ MERGE ｜ 与 Symphilosophie 行（行 6378）同词（德／英两形）而两译（共思／共同哲学）；合并为一行并统一译名（建议“共思（Symphilosophie）”，亦作注“共同哲学”）
+- **syncategorematic**（行 6381，现译「非范畴式」）｜ FLAG ｜ 族内三形并存：本行“非范畴式”、syncategorematic word 行（行 6382）“非范畴词”、syncategorematic word / syncategorema 行（行 6383）“助范畴词”；须统一（建议形容词“非范畴的”、名词“非范畴词”，《助范畴词》书名作为专名保留）
+- **syncretism**（行 6390，现译「折中主义」）｜ FLAG ｜ 现译“折中主义”与 eclecticism 行（行 1806，折衷主义）仅异形字之差、实为同一汉词，两英文概念撞形无别；syncretism 通行“融合主义／混合主义”，须改译分行
 - **synthesis**（行 6397，现译「综合」）｜ FLAG ｜ 主译撞形：“综合”同时对应 tarkīb；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **tafsīr**（行 6420，现译「解释（经注）」）｜ FLAG ｜ 主译撞形：“解释”同时对应 Account、interpretation；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **taiji**（行 6426，现译「太极（supreme polarity 太极）」）｜ FLAG ｜ 主译撞形：“太极”同时对应 Supreme Ultimate；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
@@ -743,7 +746,7 @@
 - **tattva**（行 6459，现译「范畴（谛）」）｜ FLAG ｜ 主译撞形：“范畴”同时对应 category；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **taʿārīf**（行 6470，现译「定义（definitions；与 ḥudūd 界定同义连用）」）｜ FLAG ｜ 主译撞形：“定义”同时对应 definition、ḥadd、lakṣaṇa；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **technê**（行 6473，现译「技艺（亦作“技术”）」）｜ FLAG ｜ 亦作“技术”与 technology 的主译撞形；删该亦作或改主译
-- **Teleological**（行 6478，现译「目的论」）｜ FLAG ｜ 主译撞形：“目的论”同时对应 teleology；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
+- **Teleological**（行 6478，现译「目的论」）｜ MERGE ｜ 词汇表并网遗留的形容词片段键，与 teleology 行（行 6483，目的论）同源同译；并入 teleology 行（目的论论证另由 Teleological Arguments 行承担）
 - **teleology**（行 6483，现译「目的论」）｜ FLAG ｜ 主译撞形：“目的论”同时对应 Teleological；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **test (dynamic semantics)**（行 6519，现译「测试」）｜ FLAG ｜ 主译撞形：“测试”同时对应 test (program)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
 - **test (program)**（行 6520，现译「测试」）｜ FLAG ｜ 主译撞形：“测试”同时对应 test (dynamic semantics)；须按同形不同义分行（各给区分性译法）或判定为重复登记后合并
