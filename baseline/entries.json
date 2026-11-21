@@ -95964,7 +95964,7 @@
     },
     {
       "slug": "modality-varieties",
-      "fetched_at": "2026-10-26T20:42:57Z",
+      "fetched_at": "2026-11-20T23:42:25Z",
       "source_url": "https://plato.stanford.edu/entries/modality-varieties/",
       "title": "Varieties of Modality",
       "authors": [
@@ -95972,14 +95972,19 @@
       ],
       "pubinfo": {
         "first_published": "Nov 27, 2012",
-        "substantive_revision": "Mar 15, 2021"
+        "substantive_revision": "Nov 20, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "m/modality-varieties.md",
       "archinfo": {
-        "latest_edition": "Spring 2021",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
+        "pending_change_type": "substantive content change",
         "history": [
+          {
+            "edition": "Spring 2021",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Spring 2017",
             "change_type": "substantive content change"
@@ -95990,29 +95995,35 @@
           }
         ]
       },
-      "archive_edition": "Spring 2021",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/modality-varieties/index.html",
-          "sha256": "76078abfa7c504eb6a1906f7730ed8ccdef0041982d16e67136c169bfb6137f1",
-          "bytes": 98348,
+          "sha256": "557ef0da98937a116853da9b90c9e9a2fefb930147fea5982a975bf6db229b21",
+          "bytes": 99414,
           "kind": "main"
         },
         {
           "path": "en/modality-varieties/notes.html",
-          "sha256": "b7b2a6d5a9ef9d598900b7788b0ef54274c50c8a208264c8a764fc56f6101872",
-          "bytes": 19006,
+          "sha256": "e9c5244f0634b00895e2164babeb0cce110775f334de158057e91fc4114f8667",
+          "bytes": 19186,
           "kind": "notes"
+        },
+        {
+          "path": "en/modality-varieties/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/m/modality-varieties.md",
-        "sha256": "f1b69197bc1789682188af55876dd9d0fb9052673d5909ee949e35eb6867c055",
-        "source_sha256": "76078abfa7c504eb6a1906f7730ed8ccdef0041982d16e67136c169bfb6137f1",
-        "converted_at": "2026-11-16T15:28:50Z",
-        "cite_markers": 109,
-        "cite_defs": 125,
+        "sha256": "ca88fc5071693e0772879a5a816cb173dfa7b3fd538e88e65f46ee9956aff77d",
+        "source_sha256": "557ef0da98937a116853da9b90c9e9a2fefb930147fea5982a975bf6db229b21",
+        "converted_at": "2026-11-20T23:44:38Z",
+        "cite_markers": 113,
+        "cite_defs": 129,
         "supplements": [],
         "images": [],
         "notes": 10
@@ -146475,7 +146486,7 @@
     },
     {
       "slug": "type-theory",
-      "fetched_at": "2026-10-26T21:18:33Z",
+      "fetched_at": "2026-11-20T23:42:29Z",
       "source_url": "https://plato.stanford.edu/entries/type-theory/",
       "title": "Type Theory",
       "authors": [
@@ -146483,14 +146494,19 @@
       ],
       "pubinfo": {
         "first_published": "Feb 8, 2006",
-        "substantive_revision": "Sep 6, 2022"
+        "substantive_revision": "Nov 20, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "t/type-theory.md",
       "archinfo": {
-        "latest_edition": "Fall 2026",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
+        "pending_change_type": "substantive content change",
         "history": [
+          {
+            "edition": "Fall 2026",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Fall 2022",
             "change_type": "substantive content change"
@@ -146545,23 +146561,29 @@
           }
         ]
       },
-      "archive_edition": "Fall 2026",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/type-theory/index.html",
-          "sha256": "844ac67edde52500f040b8308ef428044e8d849b98ebf839a0c8f4bb7df65cb3",
-          "bytes": 83047,
+          "sha256": "f289038b214af59b0cc930f3f7bdd540784ec8915d20203a8aac933627684347",
+          "bytes": 94407,
           "kind": "main"
+        },
+        {
+          "path": "en/type-theory/local.js",
+          "sha256": "ebb2c3fde81b9fef47c1807139efd50df034792243245e56a14743ed556b2a38",
+          "bytes": 241,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/t/type-theory.md",
-        "sha256": "b3d014913fedf84e8c393375091321b7c9cbd9de312ff69ada0565edfcae0c76",
-        "source_sha256": "844ac67edde52500f040b8308ef428044e8d849b98ebf839a0c8f4bb7df65cb3",
-        "converted_at": "2026-11-16T15:32:49Z",
-        "cite_markers": 42,
-        "cite_defs": 75,
+        "sha256": "c44624ef6260d6161df40b5dc064b57b90f3f6f4d43a566607d4d333cde8e443",
+        "source_sha256": "f289038b214af59b0cc930f3f7bdd540784ec8915d20203a8aac933627684347",
+        "converted_at": "2026-11-20T23:44:39Z",
+        "cite_markers": 88,
+        "cite_defs": 103,
         "supplements": [],
         "images": [],
         "notes": 0
@@ -151737,5 +151759,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-19T04:31:21Z"
+  "updated_at": "2026-11-20T23:44:39Z"
 }

@@ -1,0 +1,29 @@
+{
+  "slug": "modality-varieties",
+  "kind": "retranslate",
+  "zh_doc": "m/modality-varieties.md",
+  "state": "s0_source_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-20T23:53:12Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "ykla",
+      "at": "2026-11-20T23:55:37Z",
+      "evidence": "changes:specs/001-sep-sync-pipeline/compare/modality-varieties.json 钉前移 557ef0da（pubinfo substantive_revision Nov 20 2026）、en/ 三件替换、yuanwen 重转、clear 置空仅留 H1"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-20T23:52:43Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 20, 2026",
+    "archive_edition": null,
+    "sha256": "557ef0da98937a116853da9b90c9e9a2fefb930147fea5982a975bf6db229b21"
+  }
+}

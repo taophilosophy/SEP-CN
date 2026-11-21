@@ -1,0 +1,27 @@
+{
+ "slug": "type-theory",
+ "changed": true,
+ "compared_at": "2026-11-20T23:38:37Z",
+ "new_snapshot": "script\\tmp\\compare-type-theory.html",
+ "sections_changed": 1,
+ "changes": [
+  {
+   "type": "removed",
+   "anchor": "(intro)",
+   "title": "导言",
+   "excerpt": "Type Theory First published Wed Feb 8, 2006; substantive revision Tue Sep 6, 2022 The topic of type theory is fundamental both in logic and computer science. We",
+   "zh_doc": "t/type-theory.md",
+   "zh_section": "译文存根（未翻译），翻译后按节插入该变更",
+   "zh_line": null
+  },
+  {
+   "type": "added",
+   "anchor": "(intro)",
+   "title": "导言",
+   "excerpt": "Type Theory First published Wed Feb 8, 2006; substantive revision Fri Nov 20, 2026 First published Wed Feb 8, 2006; substantive revision Tue Sep 6, 2022 The top",
+   "zh_doc": "t/type-theory.md",
+   "zh_section": "译文存根（未翻译），翻译后按节插入该变更",
+   "zh_line": null
+  }
+ ]
+}
