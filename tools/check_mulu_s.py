@@ -96,8 +96,37 @@ print('\n[5] mu-lu-s 重复收录路径: %d' % len(dup))
 for p, n in dup[:20]:
     print('    %s x%d' % (p, n))
 
-# 门禁：坏链 / 路径不在 SUMMARY / 标题不一致为硬错误（非零退出）；
+# 6. 空节检查：整子树无任何条目的标题（specs/055 渲染缺陷教训，2026-11-22：
+#    旧版四区空壳骨架曾被整树渲染进重排文件，链接行门禁不拦，故单列此检查）
+H_RE = re.compile(r'^(#{1,6}) (.+?)\s*$')
+E_RE = re.compile(r'^\s*\* \[')
+heads = []
+entry_linenos = []
+with open(os.path.join(root, 'mu-lu-s.md'), encoding='utf-8') as f:
+    for i, line in enumerate(f, 1):
+        m = H_RE.match(line)
+        if m:
+            heads.append((len(m.group(1)), unescape(m.group(2)), i))
+        if E_RE.match(line):
+            entry_linenos.append(i)
+import bisect
+empty_secs = []
+for idx, (lv, t, ln) in enumerate(heads):
+    end = None
+    for lv2, t2, ln2 in heads[idx + 1:]:
+        if lv2 <= lv:
+            end = ln2
+            break
+    lo = bisect.bisect_right(entry_linenos, ln)
+    hi = bisect.bisect_left(entry_linenos, end) if end is not None else len(entry_linenos)
+    if lo >= hi:
+        empty_secs.append((lv, t, ln))
+print('\n[6] 空节（整子树无条目的标题）: %d' % len(empty_secs))
+for lv, t, ln in empty_secs[:30]:
+    print('    行 %d: %s %s' % (ln, '#' * lv, t))
+
+# 门禁：坏链 / 路径不在 SUMMARY / 标题不一致 / 空节为硬错误（非零退出）；
 # 覆盖缺口与重复收录为报告项，人工裁决
-hard = len(broken) + len(not_in_summary) + len(diff)
+hard = len(broken) + len(not_in_summary) + len(diff) + len(empty_secs)
 print('HARD ERRORS: %d' % hard)
 sys.exit(1 if hard else 0)

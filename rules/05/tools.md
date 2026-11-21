@@ -16,7 +16,7 @@
 | `check_render_artifacts.py` | 渲染产物残留物扫描（ADR-0019）：对构建产物 HTML 做文本级检查——裸 `**`（星内空格粗体永不渲染）、字面 `[^`（脚注配对失效）、`](`链接残留、数学哨兵 `@@M`；代码块/预排块内字面量豁免。分期转硬门禁（`raw[^` 待镜像脚注修复后纳入） |
 | `check_images.py` | 图片引用检查（rules/01 图片三条硬性要求）：悬空引用、大小写不符（Windows 不敏感/CI 404）、外部地址、`assets/` 未引用资产；`/...` 站点绝对路径单列**告警**（非本仓相对引用，多来自抄录的上游 HTML，不入硬门）；跳过代码块与行内代码，`yuanwen/` 缺位（CI）时跳过镜像引用；报告写 `state/image-report.md`（本地）或 `image-report.md`（CI 开 issue 用），无问题即清除旧报告，默认退出码 0；`--gate` 时悬空/大小写/外链任一 >0 退出 1（check_all 与 CI 门禁用） |
 | `check_summary.py` | SUMMARY.md 结构审计（条目解析、缺失文件、孤儿文件、命名、重复）＋ H1 一致性硬门禁（SUMMARY 条目文字 ↔ 文件 H1，ADR-0024）＋ 别名行英文完整标题硬门禁（`alias fragment`，ADR-0024）；硬错误退出码 1；`--headers` 只查标题（CI 用），`--sync-headers` 按 SUMMARY 同步 H1（本地用，写回后跑残差门） |
-| `check_mulu_s.py` | 分类目录 ↔ SUMMARY 对应性检测（坏链、覆盖缺口、标题不一致、重复收录）；坏链/路径错/标题不一致为硬错误，退出码 1 |
+| `check_mulu_s.py` | 分类目录 ↔ SUMMARY 对应性检测（坏链、覆盖缺口、标题不一致、重复收录、空节——2026-11-22 增：整子树无条目的标题为硬错误，specs/055 空壳骨架教训）；坏链/路径错/标题不一致/空节为硬错误，退出码 1 |
 | `rebuild_catalog.py` / `check_catalog_network.py` | 目录域装配器＋四向重放门（specs/054）：`--build` 产骨架账＋噪声池（A5 四类准入，建池冻结）；重放＝账⊕规则⊕池，`--check` sha256 对钉存快照（B3.2 全等）；`--gate`＝G1 装配等值（两时点）/G2 en-SUMMARY 重放/G3 mu-lu 重放（＋文字跟随）/G4 目录↔SUMMARY 对账；禁写回 `en/_catalog/`（oracle 只读） |
 | `check_junk.py` | 垃圾/产物入库门禁（ADR-0003 + ADR-0023 + ADR-0027）：缓存、构建产物、系统杂物命中即退出码 1（`en/`、`yuanwen/` 已入库，不再判违规）；根目录白名单对跟踪清单与工作区双向核对，根级散件无论是否入库一律红灯 |
 | `catalog_drift.py` | 上游目录四方漂移巡检（specs/054 运营化，`catalog-drift.yml` 调用）：上游 contents.html ↔ catalog 账／SUMMARY／mu-lu-s，报增删、改名、作者变、别名变与两向覆盖缺口；`--assembly` 加做 B3.2 装配核验（残差超 A5 四类即格式层漂移）；`--latest` 取最新快照；只报告，退出码 1＝有漂移 |

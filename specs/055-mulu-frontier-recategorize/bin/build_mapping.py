@@ -13,11 +13,13 @@
 import csv
 import json
 import re
+import sys
 from collections import OrderedDict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
-MULUS = ROOT / "mu-lu-s.md"
+# 可选 argv[1]＝输入文件（重放历史版本时用快照副本，禁对共享工作树 checkout 旧版）
+MULUS = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else ROOT / "mu-lu-s.md"
 OUT = ROOT / "specs/055-mulu-frontier-recategorize/results"
 OUT.mkdir(parents=True, exist_ok=True)
 
@@ -277,6 +279,7 @@ for e in entries:
 
 # ---------- 标题节点重要性排序（显式子序表；未列出的父节保持现行次序） ----------
 NODE_ORDER = {
+    (): ["西方哲学史", "哲学传统", "形而上学与认识论", "价值理论", "科学、逻辑与数学"],
     ("西方哲学史", "古代哲学"): ["古典希腊哲学", "早期希腊自然哲学", "希腊化与罗马哲学", "古代哲学专题"],
     ("西方哲学史", "古代哲学", "古典希腊哲学"): ["柏拉图与学园", "亚里士多德与逍遥学派", "苏格拉底", "智者运动", "小苏格拉底学派"],
     ("西方哲学史", "近代哲学", "唯理论"): ["唯理论总论", "笛卡尔与笛卡尔学派", "莱布尼茨-沃尔夫学派", "斯宾诺莎", "剑桥柏拉图学派"],
@@ -312,16 +315,11 @@ def order_children(parent_path, child_nodes):
     return sorted(child_nodes, key=keyf)
 
 # ---------- 计划树装配 ----------
-# 新树节点集合：全部条目 new_path 前缀 + 现行标题树中仍存在的节点（以 new_path 前缀形式出现）
+# 新树节点集合＝条目 new_path 全集；纯父节（无直接条目）由 ordered_nodes 的祖先合成
+# 补齐。2026-11-22 修正：旧版此处把现行标题路径整树播种进 new_tree，导致迁移区域的
+# 空壳骨架（138 个无条目标题）被渲染进 mu-lu-s.md（00ee29e44 起，门禁只验链接行未拦）。
 new_tree = OrderedDict()  # path -> {"anno": [...], "entries": [...], "order": int}
 order_counter = 0
-for n in nodes:
-    p = n["path"]
-    if p and p[0] in ("前言", "关于"):
-        continue  # 前言/关于整段原样保留
-    if p not in new_tree:
-        new_tree[p] = {"anno": [], "entries": [], "order": order_counter}
-        order_counter += 1
 for e in entries:
     p = e["new_path"]
     if p[0] in ("前言", "关于"):
@@ -366,26 +364,43 @@ hist_line = next(i for i, line in enumerate(raw_lines) if line == "# 西方哲�
 FOREWORD_LINES = raw_lines[fw_start:hist_line]
 
 def ordered_nodes():
-    """返回深度优先排序后的节点列表（含合成父节点）。"""
-    # 合成缺失的中间节点（含四个新设 H1）
+    """返回深度优先排序后的节点列表（含合成父节点）。
+
+    2026-11-22 序键修正：合成节点此前按码点序插入 new_tree，导致纯父节层级的
+    子序被码点序打乱（根层五区因此乱序）。改为：实节点序键＝首现 counter；
+    合成节点序键＝其子树最小实节点首现序（文档序回归）。"""
     all_paths = set(new_tree)
     for p in list(new_tree):
         for i in range(1, len(p)):
             all_paths.add(p[:i])
-    synth = []
     for p in sorted(all_paths):
         if p not in new_tree:
-            new_tree[p] = {"anno": [], "entries": [], "order": 10_000 + len(synth), "synth": True}
-            synth.append(p)
+            new_tree[p] = {"anno": [], "entries": [], "order": 10 ** 9, "synth": True}
     for p, nd in new_tree.items():
         nd["path"] = p
-    # 子节点索引在合成之后构建，保证新设 H1 子树可达
     children_map = {}
     for p, nd in new_tree.items():
         children_map.setdefault(p[:-1], []).append(nd)
+    key = {}
+    def calc(p):
+        if p in key:
+            return key[p]
+        nd = new_tree[p]
+        if nd["entries"]:
+            # 有直接条目：序＝路径首现（即首条目）位置
+            key[p] = nd["order"]
+            return key[p]
+        # 纯父节（含节注 setdefault 伪实节点）：序＝子树最小首现序（文档序回归）
+        kids = children_map.get(p, [])
+        vals = [calc(tuple(list(p) + [c["path"][-1]])) for c in kids]
+        key[p] = min(vals) if vals else 10 ** 9
+        return key[p]
+    for p in list(new_tree):
+        calc(tuple(p))
     root_key = ()
     def walk(parent):
-        ch = children_map.get(parent, [])
+        ch = sorted(children_map.get(parent, []),
+                    key=lambda c: key[tuple(c["path"])])
         ch = order_children(parent, ch)
         out = []
         for c in ch:
