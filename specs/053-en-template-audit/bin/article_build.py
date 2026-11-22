@@ -424,9 +424,30 @@ def _render_bib(bib, hid_map, ledger):
     if not bib:
         return ""
     ledger = ledger or {}
-    parts = ['\n<div id="bibliography">\n\n%s\n\n' % heading_tag(
-        2, hid_map.get(id(bib[0])) or "Bib",
-        head_of(bib[0]).group(2).strip())]
+    # 书目区标题：R 侧恒发“Bibliography”（源自 `## References（引用注释）`），
+    # H0 的 bibliograph div 首题未必是它（aristotle-ethics：div 首题 Further
+    # Reading，其后才是 h2 Bibliography）。故取 bib_heads 中**与 R 侧同名**的
+    # 那一项作区标题（找不到退回首项），并在 seq 中跳过同一项，避免重复。
+    _rname = head_of(bib[0]).group(2).strip()
+    _bh = ledger.get("bib_heads") or []
+    _skip_h = None
+    _bh_sel = None
+    for _k, _h in enumerate(_bh):
+        if (_h[1] or "").strip() == _rname:
+            _skip_h, _bh_sel = _k, _h
+            break
+    if _bh_sel is None and _bh:
+        _skip_h, _bh_sel = 0, _bh[0]
+    if _bh_sel and _bh_sel[1]:
+        _hlv = _bh_sel[0] or 2
+        _hname = _bh_sel[1]
+        _hhid = _bh_sel[2] if len(_bh_sel) > 2 else None
+    else:
+        _hlv = 2
+        _hname = _rname
+        _hhid = hid_map.get(id(bib[0])) or "Bib"
+    parts = ['\n<div id="bibliography">\n\n%s\n\n'
+             % heading_tag(_hlv, _hhid, _hname)]
     body = bib[1:]
     items = []
     for b in body:
@@ -505,6 +526,7 @@ def _render_bib(bib, hid_map, ledger):
         for kind, idx in seq:
             if kind == "h":
                 lv = name = hid = None
+                _pos = bhi[0]
                 if isinstance(idx, int) and idx < len(subs):
                     lv, name, hid = subs[idx]
                 if bhi[0] < len(bh):
@@ -518,9 +540,13 @@ def _render_bib(bib, hid_map, ledger):
                     if not hid and i2:
                         hid = i2
                 bhi[0] += 1
-                # seq 首项即 H0 的 `<h2>Bibliography</h2>`（区标题已由本函数
-                # 开头预发，勿重复；abstract-objects 判例）
-                if lv == 2 and name == "Bibliography":
+                # 区标题已由本函数开头预发（按 bib_heads 中与 R 同名项即
+                # “Bibliography”），该项及其之前的 H0 标题一律跳过：H0 的
+                # bibliograph div 可能包含 md 已排进正文的前置节
+                # （aristotle-ethics：div 首题 Further Reading 在 md 正文里），
+                # 再发一遍就成了重复标题；其文字已在正文出现，div 边界差交池
+                if (bh and _skip_h is not None and _pos <= _skip_h) or (
+                        not bh and lv == 2 and name == "Bibliography"):
                     continue
                 if lv and name:
                     parts.append("%s\n\n" % heading_tag(lv, hid, name))

@@ -324,6 +324,18 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：R 与账**分工要核到底**——账记位形（行列/colspan/thead），而“表格块内还有什么”（题注）是 R 的事，重建时不能只按账发；凡是 `re.sub` 重建整块的地方，先问“原块里被丢弃的还有哪些”。
 
+## 10.14 B3.2 第十五批实施记（2026-11-22，书目区标题与 R 同名项对齐）
+
+**缺陷**：`_render_bib` 的区标题恒取 `bib[0]`（R 侧“Bibliography”），而 H0 的 bibliograph div 首题未必同名（epistemology-latin-america：首题 `7. Religious Epistemology`，`Bibliography` 在第二项）——预发标题与 seq 跳过的标题不是同一项，标题重复/错位。
+
+**修复**：区标题取 `bib_heads` 中**与 R 同名**的项（`_skip_h` 记其位次，找不到退回首项），seq 中该项**及其之前**的 H0 标题一律跳过（H0 的 bibliograph div 可能包含 md 已排进正文的前置节，再发即重复；div 边界差交池）。
+
+**影响面实测**（账普查）：1,869 件 `bib_heads[0]=="Bibliography"`（`_skip_h=0`，行为与旧法恒等）、1 件同名项在第 2 位（epistemology-latin-america，转池）、2 件无 `bib_heads`（旧路径）——**改动面可证极窄**。
+
+**实测**：池 **1,615→1,616（86.3%）／缺口 257／stale 0**，池占页 **42.45%**。aristotle-ethics 仍 gap：其 `bib_heads` 只抽到 3 项（`extract` 的 `m1` 非贪婪正则遇嵌套 div 早断），且 C 侧 `in_bib` 按标题文本置位（首题 Further Reading 不置位→该节排进正文），两条都需专项（账 `bib_heads` 用 `_bib_region` 同源 ＋ C 按 `div#bibliography` 置位），本轮未动。
+
+**教训**：①“预发的标题”与“跳过的标题”必须是**同一个账项**，否则重复/错位；判断同名要用账的事实（`bib_heads`），不是约定（“恒为 Bibliography”）；②改动影响面要用账普查**证明**窄（1,869+1+2=1,872 全分类），而不是抽样相信。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
@@ -331,7 +343,7 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
 | B3.1 往返不动点 | **1,616/1,873（86.3%）**，集合级 +24／转红 3（W8 键名漂移，见 §10.12） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,615（86.2%）／gap 258／stale 0**，池占页 42.43% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.2 页面装配 | **pool 1,616（86.3%）／gap 257／stale 0**，池占页 42.45% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 

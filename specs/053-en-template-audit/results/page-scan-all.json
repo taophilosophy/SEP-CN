@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1615,
-  "gap": 258,
+  "pool": 1616,
+  "gap": 257,
   "stale": 0
  },
  "page_bytes": 235952045,
- "pool_bytes": 100114074,
+ "pool_bytes": 100153205,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -3941,13 +3941,10 @@
   },
   {
    "slug": "epistemology-latin-america",
-   "status": "gap",
-   "why": "unaligned text units",
    "page_len": 95134,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 122,
+   "pool_bytes": 39131
   },
   {
    "slug": "epistemology-naturalized",
