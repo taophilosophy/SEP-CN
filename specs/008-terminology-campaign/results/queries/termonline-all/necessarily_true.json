@@ -1,0 +1,752 @@
+{
+ "key": "necessarily true",
+ "term": "necessarily true",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T10:02:59+00:00",
+ "status": "ok",
+ "note": "variant=necessarily true; 审定公布名词库=718; 海峡两岸名词对照库=216; 其他来源数据库=35; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "真位置",
+   "en": "true place; true position",
+   "source": "天文学名词",
+   "wordNumber": "02.142",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "天体在真赤道和真春分点构成的天球坐标系中的坐标。"
+  },
+  {
+   "cn": "真鲕",
+   "en": "true oolite",
+   "source": "地质学名词",
+   "wordNumber": "05.03.195",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "具有放射状或同心层状包壳，包壳厚度通常远大于核心半径的鲕粒。"
+  },
+  {
+   "cn": "真性动脉瘤",
+   "en": "true aneurysm",
+   "source": "普通外科学名词",
+   "wordNumber": "25.122",
+   "subjectFullName": "医学_普通外科学_血管外科",
+   "subjectName": "血管外科",
+   "publishYear": "2026",
+   "definition": "瘤壁完整、保留血管壁各层结构的动脉瘤。可以发生在动脉系统的任何部位。"
+  },
+  {
+   "cn": "真缝",
+   "en": "true joint",
+   "source": "风景园林名词",
+   "wordNumber": "08.0470",
+   "subjectFullName": "风景园林_风景园林工程_风景园林铺装",
+   "subjectName": "风景园林铺装",
+   "publishYear": "2025",
+   "definition": "在水泥混凝土路面板上做成贯通整个板厚的缝隙。"
+  },
+  {
+   "cn": "真赤道",
+   "en": "true equator",
+   "source": "天文学名词",
+   "wordNumber": "02.139",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "天赤道的瞬时位置，其变化包括岁差和章动的影响。"
+  },
+  {
+   "cn": "真天极",
+   "en": "true pole",
+   "source": "天文学名词",
+   "wordNumber": "02.140",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "对应于真赤道的天极。"
+  },
+  {
+   "cn": "真春分点",
+   "en": "true equinox",
+   "source": "天文学名词",
+   "wordNumber": "02.141",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "黄道对真赤道的升交点。"
+  },
+  {
+   "cn": "真赤纬",
+   "en": "true declination",
+   "source": "天文学名词",
+   "wordNumber": "02.303",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "天体在真赤道和真春分点构成的天球坐标系中的纬向坐标。"
+  },
+  {
+   "cn": "真近点角",
+   "en": "true anomaly",
+   "source": "天文学名词",
+   "wordNumber": "03.077",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "天体从近点起沿轨道运动时其向径扫过的角度。"
+  },
+  {
+   "cn": "真密度",
+   "en": "true density",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0165",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "颗粒组成材料本身的密度，等于颗粒质量除以不包括所有内孔在内的颗粒体积。"
+  },
+  {
+   "cn": "真性腹痛",
+   "en": "true celialgia",
+   "source": "兽医学名词",
+   "wordNumber": "13.350",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "由胃肠疾病引起的腹痛。常见于肠痉挛、肠臌胀、肠便秘、肠变位、肠结石、肠积沙、胃扩张等疾病。"
+  },
+  {
+   "cn": "真速度",
+   "en": "true velocity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0646",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "波在介质内沿射线方向传播的速度。 "
+  },
+  {
+   "cn": "报对",
+   "en": "true alarm",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2226",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "报有地震，实际确实发生了地震；报无地震，实际没有发生地震。 "
+  },
+  {
+   "cn": "真高",
+   "en": "true height",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0118",
+   "subjectFullName": "地球物理学_空间物理学_电离层",
+   "subjectName": "电离层",
+   "publishYear": "2022",
+   "definition": "电离层测高仪测量的真实的电子密度高度剖面。 "
+  },
+  {
+   "cn": "真骨盆",
+   "en": "true pelvis",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "2.121",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤学基础_妇科解剖学_骨盆",
+   "subjectName": "骨盆",
+   "publishYear": "2022",
+   "definition": "位于骨盆分界以下的部分。内腔即盆腔，前壁是耻骨联合和耻骨支，后壁是骶尾骨，两侧是坐骨、坐骨棘和骶棘韧带，容纳子宫、卵巢、输卵管、阴道及邻近的输尿管、膀胱、尿道、直肠等结构。是胎儿娩出的骨产道。"
+  },
+  {
+   "cn": "真骨盆",
+   "en": "true pelvis",
+   "source": "生殖医学名词",
+   "wordNumber": "2.126",
+   "subjectFullName": "生殖医学_生殖系统解剖_女性生殖系统解剖",
+   "subjectName": "女性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "由耻骨联合上缘、髂耻缘及骶岬上缘的连线组成界线的下方，由骶骨、尾骨、髂骨、坐骨及耻骨构成的结构。可分为骨盆上口、骨盆腔及骨盆下口。"
+  },
+  {
+   "cn": "真体腔",
+   "en": "true coelom",
+   "source": "动物学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "动物学_无脊椎动物学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "动物胚胎发育时由中胚层的脏壁与体壁分离后其间所形成的空腔。体腔被完整的体腔膜包裹，体壁和消化管壁皆有中胚层起源的肌肉层参与。存在于环节动物、软体动物、脊索动物中。低等脊椎动物的体腔不另分隔为其他腔室，"
+  },
+  {
+   "cn": "真实应力",
+   "en": "true stress",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0012",
+   "subjectFullName": "机械工程（一）_机械强度_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "载荷除以受载后实际的横截面面积得到的应力。"
+  },
+  {
+   "cn": "真实应变",
+   "en": "true strain",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0022",
+   "subjectFullName": "机械工程（一）_机械强度_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "考虑受载过程中应变增量而得到的应变。"
+  },
+  {
+   "cn": "真误差",
+   "en": "true error",
+   "source": "测绘学名词",
+   "wordNumber": "02.355",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "观测值与其真值之差。"
+  },
+  {
+   "cn": "真位置",
+   "en": "true position\",\"true place",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "真位置",
+   "en": "true position\",\"true place",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "真肋",
+   "en": "true rib",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "真两性畸形",
+   "en": "true hermaphroditism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "真毛细血管",
+   "en": "true capillary",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "真草原",
+   "en": "true steppe",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "真果",
+   "en": "true fruit",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "真正光合作用",
+   "en": "true photosynthesis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实平均",
+   "en": "true mean",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真密度",
+   "en": "true density",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真分数",
+   "en": "true score",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "真密度",
+   "en": "true density",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "真赤道",
+   "en": "true equator",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "真赤纬",
+   "en": "true declination",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "真春分点",
+   "en": "true equinox",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "真地平",
+   "en": "true horizon",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "真近点角",
+   "en": "true anomaly",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "真天极",
+   "en": "true pole",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "真天平动",
+   "en": "true libration",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "真值",
+   "en": "true value",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "至情",
+   "en": "True Passion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "真风",
+   "en": "true wind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正腿跑步",
+   "en": "true canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实相",
+   "en": "Bhūtatathatā / True Suchness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“真、实、亲、诚”理念",
+   "en": "the philosophy of “true, practicability,",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "知足者富",
+   "en": "Being Contented Means True Wealth.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独抒性灵，不拘格套",
+   "en": "Bold Expression of One’s True Self",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "沧海横流，方显英雄本色",
+   "en": "True heroes arise in times of hardship.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "止戈为武",
+   "en": "Stopping War Is a True Craft of War.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常快活便是功夫",
+   "en": "To Stay Constantly Joyful Is a True Attainment.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知言养气",
+   "en": "Understanding True Meanings of Statements and Cultivating Uprightness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "但见性情，不睹文字",
+   "en": "To Impress Readers with True Feelings Oblivious of Its Wording",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "繁采寡情，味之必厌",
+   "en": "Excessive Adornment and Lack of True Feeling Make One’s Writing Dull.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鞍架",
+   "en": "tree",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "遍历树",
+   "en": "tree traversal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "真价值",
+   "en": "true value",
+   "source": "马克思主义",
+   "wordNumber": "05.0119",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "森岛通夫（M.Morishima）和凯特福斯（G.Catephores）认为，价值应被定义为最少劳动量的耗费。而这种最少劳动量的耗费不能用联立方程去求出，而应用线性规划去解，这时所得到的价值才是“真价"
+  },
+  {
+   "cn": "约定真值",
+   "en": "conventional true value",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "对于给定目的具有适当不确定度的、赋予特定量的值。有时该值是约定采用的。如：在给定地点，取由参考标准复现而赋予该量的值。常用某量的多次测量结果来确定。"
+  },
+  {
+   "cn": "真正的对立与矛盾的对立",
+   "en": "true opposite and contradictory opposite",
+   "source": "马克思主义",
+   "wordNumber": "05.0077",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "科莱蒂（Lucio Colletti），在《矛盾和对立：马克思主义和辩证法》一文中用康德的“真正的对立”来反对黑格尔的“矛盾的对立”，提出要捍卫马克思的科学性就必须与黑格尔的矛盾辩证法决裂。"
+  },
+  {
+   "cn": "女童真性性早熟",
+   "en": "true precocious puberty of female child",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.1.3.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_女童期保健",
+   "subjectName": "女童期保健",
+   "publishYear": "2025",
+   "definition": "由于下丘脑-垂体-卵巢轴的功能过早发动引起促性腺激素和性激素的分泌，导致女童8岁前出现任何一种第二性征发育或月经来潮的发育异常。"
+  },
+  {
+   "cn": "被测量真值最佳估计",
+   "en": "best estimate of the true quantity value of the measurand",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.16",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "给定实验结果和被测量的所有先验信息，被测量真值概率分布的期望值。"
+  },
+  {
+   "cn": "必要劳动",
+   "en": "necessary labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0113",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“剩余劳动”相对应。必要劳动作为一般的经济范畴，是指劳动者满足本人及其家庭需要所耗费的劳动，即维持和再生产劳动力所消耗的生活资料的劳动。以劳动时间来衡量，其长短主要取决于劳动生产率的高低，与劳动生产"
+  },
+  {
+   "cn": "必需成分",
+   "en": "necessary components",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.5",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在产品中必须添加、且添加量应当达到标准限定量的营养成分，能够满足特定适用人群的基本营养需求。"
+  },
+  {
+   "cn": "社会必要劳动时间",
+   "en": "socially necessary labortime",
+   "source": "马克思主义",
+   "wordNumber": "02.0040",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在现有的社会正常生产条件下（现时某一生产部门大多数产品生产已经达到的生产资料状况和技术装备水平），在社会平均的劳动熟练程度和劳动强度下，制造某种使用价值所需要的劳动时间。"
+  },
+  {
+   "cn": "必要劳动时间",
+   "en": "necessary labor time",
+   "source": "马克思主义",
+   "wordNumber": "02.0114",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动者为了满足本人及其家庭生活需要所耗费的劳动叫必要劳动，从事这种劳动所占用的时间叫必要劳动时间。必要劳动时间内所生产的价值是劳动力的价值。"
+  },
+  {
+   "cn": "必要资本量壁垒",
+   "en": "necessary capital quantity barrier",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.5.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "由于必要资本形成的进入壁垒。生产过程的资本密集程度越高，必要资本量越大，新企业筹措资金越困难，其资本费用就比在位企业高，因此新企业进入市场的难度也就越大。"
+  },
+  {
+   "cn": "故障树",
+   "en": "fault tree",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.12",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "一种用来描述特定故障的树形图表说明。该树形图具有可选择的特性。"
+  },
+  {
+   "cn": "事件树",
+   "en": "event tree",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.13",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "一种用来描述特定事件的树形图表说明。该树形图表具有可选择的特性。"
+  },
+  {
+   "cn": "家谱",
+   "en": "genealogical tree",
+   "source": "社会学名词",
+   "wordNumber": "3.1.2.4",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_世系",
+   "subjectName": "世系",
+   "publishYear": "2025",
+   "definition": "以表谱形式记载一个血缘关系为主体的家族世系繁衍和重要人物事迹的特殊文献，是谱牒的一种形式。家谱以家族的世系为脉络，把包括名人和非名人的所有族众贯穿起来，注明他们之间的血缘关系。是一个家族的生命史，记录"
+  },
+  {
+   "cn": "树葬",
+   "en": "tree burial",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0271",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "葬式之一，指把死者尸体放置于深山或野外的大树上的传统丧葬习俗。古代树葬在中国东北和西南的少数民族地区颇为常见。现代树葬是生态殡葬的一种新形式，就是人们以认养绿地的办法，植一些树木，将亲人的骨灰撒在树下"
+  },
+  {
+   "cn": "事件树",
+   "en": "event tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.25",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "由起始事件、中间事件和最终事件组成的树形结构决策方法。起始事件表示最初的事件或条件，中间事件表示在起始事件后可能出现的事件路径，最终事件表示可能的结果。事件之间的关系通过连接不同节点来表示，并标注相应"
+  },
+  {
+   "cn": "结果树",
+   "en": "outcome tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.24",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "由根节点、决策节点、概率节点和结果节点组成，连接不同节点，并标注相应的概率或结果值的方法。根节点表示决策问题起始点，决策节点表示不同决策选项，概率节点表示不同决策选项可能性，结果节点表示每个决策路径结"
+  },
+  {
+   "cn": "决策树分析",
+   "en": "decision tree analysis",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "将决策过程各个阶段之间的结构绘制成树状箭线图，利用其进行选择、分割分析。"
+  },
+  {
+   "cn": "决策树模型",
+   "en": "decision tree model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种描述在不确定性情况下进行选择的逻辑结构的静态决策分析模型，包括所有相关的决策选择、对应结果及其概率。"
+  },
+  {
+   "cn": "关键控制点判断树",
+   "en": "critical control point decision tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.6",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用来确定某个控制点是否是关键控制点的方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

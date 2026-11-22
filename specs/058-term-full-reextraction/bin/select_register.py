@@ -91,6 +91,12 @@ def main():
         pool[norm_key(c['en'])] = st
         pool.setdefault(norm_key_quote(c['en']), st)
     terms = {norm_key_quote(r[0]) for r in parse_registry_full(term_path())[0]}
+    # 登记册允许 "A / B" 合写；拆成别名，防同一概念换形重复入队
+    alias = set()
+    for k in terms:
+        for part in k.split('/'):
+            alias.add(part.strip())
+    terms |= alias
     persons = {norm_key_quote(r[0]) for r in parse_registry2_full(person_path())[0]}
 
     picked = []

@@ -1,0 +1,752 @@
+{
+ "key": "computer science",
+ "term": "computer science",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T10:02:32+00:00",
+ "status": "ok",
+ "note": "variant=computer science; 审定公布名词库=1525; 海峡两岸名词对照库=449; 其他来源数据库=252; 预公布名词数据库=75; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "计算机科学",
+   "en": "computer science",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0069",
+   "subjectFullName": "计算机科学技术_通论_计算机与社会",
+   "subjectName": "计算机与社会",
+   "publishYear": "2018",
+   "definition": "在电子计算机上实行计算所涉及的数学理论和逻辑方法体系，以及其应用于解决实际问题的方法和技术。"
+  },
+  {
+   "cn": "计算科学",
+   "en": "computing science,computational science",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0069",
+   "subjectFullName": "计算机科学技术_通论_计算机与社会",
+   "subjectName": "计算机与社会",
+   "publishYear": "2018",
+   "definition": "（1）“计算机科学”的又称。（2）用计算的方法研究（物理、化学、生物等）其他学科领域的科学，如计算物理学、计算化学、计算生物学等。"
+  },
+  {
+   "cn": "计算社会科学",
+   "en": "computational social science",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1257",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "使用密集演算的方法来分析与模拟社会现象的一个社会学分支。计算社会学使用计算机模拟、人工智能、复杂统计等方法，以及社会性网络分析等新的途径，由下而上地塑造社会互动的模型，来发展与测试复杂社会过程的理论。"
+  },
+  {
+   "cn": "计算材料学",
+   "en": "computational material science",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1192",
+   "subjectFullName": "计算机科学技术_计算机应用_科学与工程计算",
+   "subjectName": "科学与工程计算",
+   "publishYear": "2018",
+   "definition": "关于材料组成、结构、性能、服役性能的计算机模拟与设计的学科。"
+  },
+  {
+   "cn": "计算材料学",
+   "en": "computational material science,CMS",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0810",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料设计、模拟与计算",
+   "subjectName": "材料设计、模拟与计算",
+   "publishYear": "2011",
+   "definition": "综合材料科学、计算机科学技术、数学、物理学、化学以及机械工程等学科而发展起来的，对材料的组织结构和性能进行建模、模拟[仿真]计算和预测预报的一门学科。"
+  },
+  {
+   "cn": "计算的科学哲学",
+   "en": "computational philosophy of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.627",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "在科学哲学的研究中，将计算机工具和方法应用于科学发现、理论评价和理论理解等领域的思路。其采用的计算方法包括认知建模、工程型人工智能和计算理论。"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer ",
+   "source": "草学名词",
+   "wordNumber": "3.0416",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "计算机科学技术_通论_计算机系统组成",
+   "subjectName": "计算机系统组成",
+   "publishYear": "2018",
+   "definition": "采用机械、机电、电子等方式实现的自动解算装置。主要指电子计算机。"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "资源科学技术名词",
+   "wordNumber": "06.118",
+   "subjectFullName": "资源科学技术_资源信息学",
+   "subjectName": "资源信息学",
+   "publishYear": "2008",
+   "definition": "一种用于高速计算的电子计算机器，可以进行数值计算，又可以进行逻辑计算，还具有存储记忆功能。"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0110",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "按照一组给定的指令对数据进行处理的过程。"
+  },
+  {
+   "cn": "可计算性",
+   "en": "computability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0918",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "针对某个问题类，存在一个可在有限步内结束的能行计算过程。"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "数学名词",
+   "wordNumber": "02.0262",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可计算性",
+   "en": "computability",
+   "source": "数学名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自然计算",
+   "en": "natural computing,natural computation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.205",
+   "subjectFullName": "生物物理学_生物控制论_仿生学",
+   "subjectName": "仿生学",
+   "publishYear": "2018",
+   "definition": "由自然界得到启发开发出新的解决问题方法，或应用计算机综合自然现象的方法，或利用天然材料(如生物大分子)进行计算的方法。"
+  },
+  {
+   "cn": "普适计算",
+   "en": "ubiquitous computing,pervasive computing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0064",
+   "subjectFullName": "计算机科学技术_通论_计算模式",
+   "subjectName": "计算模式",
+   "publishYear": "2018",
+   "definition": "由计算机提供的计算功能无处不在并与环境融为一体，使人们可在任何时间、任何地点、以任何方式进行信息的获取与处理的方法和技术。"
+  },
+  {
+   "cn": "计算机编译器",
+   "en": "computer compiler",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.052",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "将某种编程语言写成的源代码（原始语言）转换成另一种编程语言（目标语言）的一种计算机程序。"
+  },
+  {
+   "cn": "计算机视觉",
+   "en": "computer vision",
+   "source": "农学名词",
+   "wordNumber": "16.217",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "使用计算机及相关设备对生物视觉进行模拟，通过对采集的图片或视频进行处理以实现对相应场景多维理解的方法。"
+  },
+  {
+   "cn": "计算机模拟",
+   "en": "computer simulation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.051",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "建立研究对象的数学模型或描述模型并在计算机上加以体现和试验的研究方法。"
+  },
+  {
+   "cn": "计算机文件",
+   "en": "computer file",
+   "source": "档案学名词",
+   "wordNumber": "06.01.008",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "为操作系统所知的、已命名的、有序的字节序列。"
+  },
+  {
+   "cn": "计算机仿真",
+   "en": "computer simulation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.619",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "通过建立某一过程或某一系统的模式，来描述该过程或该系统，然后用一系列有目的、有条件的计算机仿真实验来刻画系统的特征，为决策者提供关于这一过程或系统的定量分析结果的定量分析方法。"
+  },
+  {
+   "cn": "计算机科学",
+   "en": "computer science",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算材料学",
+   "en": "computational materials science",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概算，初算",
+   "en": "field computation\",\"preliminary  computation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "计算机模拟",
+   "en": "computer simulation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算机",
+   "en": "analog computer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电子计算机",
+   "en": "electronic computer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "计算机程序",
+   "en": "computer program",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数字计算机",
+   "en": "digital computer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "计算机控制",
+   "en": "computer control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合计算机",
+   "en": "hybrid computer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "计算机模拟",
+   "en": "computer simulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算机视觉",
+   "en": "computer vision",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算机建模",
+   "en": "computer modeling",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "计算机模拟",
+   "en": "computer simulation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "计算机断层扫描术",
+   "en": "computer tomography",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "计算机地图制图",
+   "en": "computer cartography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "集群计算机",
+   "en": "cluster computer",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "计算机法医学",
+   "en": "computer forensic science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算社会科学",
+   "en": "computational social science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算科学范式",
+   "en": "computational science paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人计算机",
+   "en": "Personal Computer",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机网",
+   "en": "Computer Network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机系统",
+   "en": "Computer System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字计算机",
+   "en": "digital computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算机",
+   "en": "analog computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合计算机",
+   "en": "hybrid computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "便携式计算机",
+   "en": "portable computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大型计算机",
+   "en": "mainframe computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机软件",
+   "en": "Computer Software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机硬件",
+   "en": "Computer Hardware",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机工程",
+   "en": "computer engineering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电脑组件",
+   "en": "computer components",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "组合计算机以及便于使用者采用良好的操作姿势所需要的硬件。包括电脑桌椅、显示器、键盘、鼠标等。"
+  },
+  {
+   "cn": "电脑桌面",
+   "en": "computer desktop",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "放置电脑显示器的平面。"
+  },
+  {
+   "cn": "科学学",
+   "en": "science of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "20世纪30、40年代兴起的一门以科学本身为研究对象的跨学科研究，目的在于认识科学的性质特点、关系结构、运动规律和社会功能，并在认识的基础上研究促进科学发展的一般原理、原则和方法。"
+  },
+  {
+   "cn": "电脑椅座面",
+   "en": "computer chair seat",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑椅与人体臀部接触，承载使用者体重的部分。"
+  },
+  {
+   "cn": "电脑椅靠背",
+   "en": "computer chair back",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑椅与人体背部接触，能够有效支撑使用者腰部的部分。"
+  },
+  {
+   "cn": "计算机X射线摄影",
+   "en": "computed radiography，CR",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.3",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "以成像板为载体，经X射线曝光及信息读出处理后形成数字影像的一种X射线摄影技术。"
+  },
+  {
+   "cn": "计算机体层成像",
+   "en": "computed tomography，CT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.10",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "利用精确准直的成像媒介（如X射线、γ射线、超声波等）与高灵敏度的探测器，围绕人体的某一部位采集数据，并根据需要重建出断面影像的一种成像方法。根据照射源不同可分为X射线计算机体层成像（X-CT）、超声计"
+  },
+  {
+   "cn": "工业计算机断层成像",
+   "en": "industrial computed tomography",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.2.5",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用",
+   "subjectName": "工业探伤应用",
+   "publishYear": "2025",
+   "definition": "采用计算机断层扫描技术对产品进行无损检测和无损评价的仪器。"
+  },
+  {
+   "cn": "计算暴露评估",
+   "en": "computational exposure assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.36",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "将化学、计算机科学、数学、统计学、社会和行为科学等领域的先进技术与新出现的高效模型和数据收集方法相结合，以预测外源化学物的真实暴露情况的方法。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "用科学的方法，研究人类社会种种现象或事物的构成、本质及其变化规律的学科总和。"
+  },
+  {
+   "cn": "科学伦理学",
+   "en": "ethicsof science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从伦理学角度考察科学的一门学科。主要研究科学技术活动领域道德规范之形成和变化规律，分析科学技术与社会道德的相互关系和相互作用，跨越科学学和伦理学，处于哲学、科学社会学、伦理学、科学心理学、科学经济学和"
+  },
+  {
+   "cn": "大科学",
+   "en": "big science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要指具有投资强度大、多学科交叉、研究目标宏大、需要昂贵且复杂的实验设备等特征的规模比较大的科学研究，既包括巨额投资的“工程式”研究，也包括跨学科合作的大规模、大尺度的前沿性科学研究项目。"
+  },
+  {
+   "cn": "小科学",
+   "en": "little science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要以科学家个人或科学小团体的兴趣为主，凭借个人或小团体努力来追求科学真理的科学研究，这种研究往往集中在某个学科内部，是比较典型的传统的科学研究模式。"
+  },
+  {
+   "cn": "硬科学",
+   "en": "hard science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与技术科学两大系统学科与其交叉学科的统称。因借用电子计算机的“硬件”而得名。其研究内容包括数学、物理学、化学、天文学、地理学、生物科学以及技术工程等学科。"
+  },
+  {
+   "cn": "软科学",
+   "en": "soft science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与社会科学相结合的交叉科学。主要研究决策和管理实践中提出的复杂性、系统性课题，其目的是为解决各类复杂社会问题提出可供选择的各种途径、方案、措施和对策。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "牢固地建立在一种或多种过去科学成就基础上的研究。这些科学成就为某个科学共同体在一段时期内公认为是进一步实践的基础。"
+  },
+  {
+   "cn": "民族科学",
+   "en": "ethno-science",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "关于原住民人文（属地语言学、历史学、宗教学、经济学等）地理（属地生态学、植物学、动物学、色彩）等方面的文化分类知识体系的研究，目前被延伸至文化遗产的应用性研究。"
+  },
+  {
+   "cn": "自然科学",
+   "en": "natural science",
+   "source": "马克思主义",
+   "wordNumber": "01.0217",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究自然界各门科学的总和，研究对象是自然界各种各样的现象，其目的是认识这些现象的规律，并运用它们开发和改造自然界。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "马克思主义",
+   "wordNumber": "01.0218",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究社会现象的科学，包括经济学、政治学、法学、文学、民族学、史学、语言学、社会学等。广义的社会科学还包括哲学。社会科学除具有科学性质外，还具有上层建筑、意识形态的性质。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家们不质疑范式本身，而是在范式的指导下通过解谜活动扩大范式的应用范围。在常规科学中存在着明晰的合理性规则，常规科学的研究因其成果的积累而不断进步。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

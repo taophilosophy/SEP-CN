@@ -1,0 +1,772 @@
+{
+ "key": "scientific inquiry",
+ "term": "scientific inquiry",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T10:03:08+00:00",
+ "status": "ok",
+ "note": "variant=scientific inquiry; 审定公布名词库=1042; 海峡两岸名词对照库=53; 其他来源数据库=45; 预公布名词数据库=118; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "问诊",
+   "en": "inquiry",
+   "source": "兽医学名词",
+   "wordNumber": "13.003",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "以询问的方式，向动物主人或饲养管理人员了解患病动物的饲养管理情况以及现病史和既往史的诊断方法。"
+  },
+  {
+   "cn": "问诊",
+   "en": "inquiry",
+   "source": "兽医学名词",
+   "wordNumber": "19.122",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "通过询问动物主人及有关人员，了解疾病的发生、发展、治疗经过、现有症状及其他与疾病有关的情况，以诊察疾病的方法。"
+  },
+  {
+   "cn": "询价",
+   "en": "inquiry",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.579",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "对合格供货商（通常至少三家）发出招标邀请，并对其报价进行比较，以确保价格具有竞争性的一种采购方式。"
+  },
+  {
+   "cn": "问诊",
+   "en": "inquiry",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.055",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "医师通过对患者或相关人员的系统询问，获取病史资料，再经过综合分析做出初步判断的一种诊断方法。"
+  },
+  {
+   "cn": "问诊",
+   "en": "inquiry",
+   "source": "中医药学名词",
+   "wordNumber": "04.258",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "医生通过询问病人或陪诊者，了解疾病的发生、发展、治疗经过、现在症状和其他与疾病有关的情况，以诊察疾病的方法。"
+  },
+  {
+   "cn": "规划查询",
+   "en": "planning inquiry",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.072",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划监督检查与评估",
+   "subjectName": "城乡规划监督检查与评估",
+   "publishYear": "2021",
+   "definition": "公民依照法律法规的规定，就涉及自身利害关系的规划制定情况和具体建设活动是否符合规划要求向规划主管部门查询、了解情况的行为和过程。"
+  },
+  {
+   "cn": "结算质疑",
+   "en": "settlement inquiry",
+   "source": "电力名词",
+   "wordNumber": "06.339",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "各市场主体在收到市场运营机构出具的结算清单以后,有权对结算清单的内容进行查询和质疑,并要求市场运营机构就结算内容做出解释说明的过程。"
+  },
+  {
+   "cn": "询问站",
+   "en": "inquiry station",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1187",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机维护",
+   "subjectName": "计算机维护",
+   "publishYear": "2018",
+   "definition": "主要用途是用于查询信息的用户终端设备。"
+  },
+  {
+   "cn": "政策质询",
+   "en": "policy inquiry",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0238",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "决策组织对公共政策领域中某些议题或判断向有关方面机构与人员进行质疑与问询的活动。"
+  },
+  {
+   "cn": "探究学习",
+   "en": "inquiry learning",
+   "source": "心理学名词",
+   "wordNumber": "09.032",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "要求学生通过搜集资料、提出猜想、运用科学方法进行检验、进而解决问题并建构知识的一种教学方式。"
+  },
+  {
+   "cn": "科学探究",
+   "en": "science inquiry",
+   "source": "教育学名词",
+   "wordNumber": "07.169",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "学生围绕科学问题，运用已经获取的知识，体验科学过程、领悟科学思想、学习科学方法、理解科学的发现和发展进程的各种活动的总称。"
+  },
+  {
+   "cn": "图形查询",
+   "en": "graphic inquiry",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.551",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "根据对象的空间位置查询有关属性信息的方法。"
+  },
+  {
+   "cn": "询标",
+   "en": "bid inquiry",
+   "source": "水利科学技术名词",
+   "wordNumber": "09.195",
+   "subjectFullName": "水利科学技术_水利工程施工_施工管理（水利）",
+   "subjectName": "施工管理（水利）",
+   "publishYear": "1997",
+   "definition": "多用于机械设备采购、制造以及专业性较强的施工项目招标。"
+  },
+  {
+   "cn": "问鼻涕",
+   "en": "inquiry of snivel",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.091",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问流涕的时间长短，涕量的多少，鼻涕的质地、色泽，有无异味或带血丝，流涕方式等的诊断方法。"
+  },
+  {
+   "cn": "问耳鸣",
+   "en": "inquiry of tinnitus",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.086",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问耳鸣的发作时间、响度、音调，诱发加重的因素以及有无听力下降等的诊断方法。"
+  },
+  {
+   "cn": "问眩晕",
+   "en": "inquiry of vertigo",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.087",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问眩晕发作的特点，眩晕发作时是否伴有耳鸣耳聋，过去有无类似的发作史等的诊断方法。"
+  },
+  {
+   "cn": "问发音",
+   "en": "inquiry of phonation",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.096",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问声音变化的时间，声嘶加重或减轻的诱因，发音时是否伴有喉痛，患者是否从事与嗓音有关的职业等的诊断方法。"
+  },
+  {
+   "cn": "问耳聋",
+   "en": "inquiry of deafness",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.085",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问耳聋的起病诱因、时间长短、程度、治疗经过及相关全身性疾病等的诊断方法。"
+  },
+  {
+   "cn": "问呼吸",
+   "en": "inquiry of breath",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.098",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问有无气急、气促、气短，呼吸时有无喉鸣音，呼吸困难与活动、体位的关系等的诊断方法。"
+  },
+  {
+   "cn": "问耳痛",
+   "en": "inquiry of earache",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.088",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问耳痛的时间长短、性质，是否伴有耳漏，有无挖耳、污水入耳、外感、外伤史等的诊断方法。"
+  },
+  {
+   "cn": "[贸易]询价",
+   "en": "trade inquiry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定询价",
+   "en": "definite inquiry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定询价",
+   "en": "firm inquiry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "询价单",
+   "en": "inquiry list",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "图形查询",
+   "en": "graphics inquiry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "询问站",
+   "en": "inquiry station",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远程查询",
+   "en": "remote inquiry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "查询，检索",
+   "en": "query\",\"inquiry\",\"search",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "商品询价",
+   "en": "inquiry for merchandise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "询价函件",
+   "en": "letter of inquiry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "前科学",
+   "en": "pre-scientific",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据库",
+   "en": "scientific database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "学名",
+   "en": "scientific name",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "学名",
+   "en": "scientific name",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "学名",
+   "en": "scientific name",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "科学计算可视化",
+   "en": "visualization in scientific computing",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "调查委员会",
+   "en": "board of investigation\",\"board of inquiry",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "科学计算可视化",
+   "en": "visualization in scientific computing\",\"VISC",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际科学联盟理事会",
+   "en": "International Council of Scientific Unions\",\"ICSU",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海洋研究科学委员会",
+   "en": "Scientific Committee on Oceanic Research\",\"SCOR",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "质询",
+   "en": "inquiry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "科学可视化",
+   "en": "scientific visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据",
+   "en": "scientific data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学发现",
+   "en": "scientific discovery",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学共同体",
+   "en": "scientific community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学计算",
+   "en": "scientific computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据库",
+   "en": "scientific databases",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线问诊",
+   "en": "online medical inquiries",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数字探究实验室",
+   "en": "inquiry-oriented digital laboratory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据查询权",
+   "en": "right to data inquiry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学大数据",
+   "en": "Scientific Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科研众筹",
+   "en": "scientific research crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国科学数据》",
+   "en": "China Scientific Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据行动",
+   "en": "Scientific Data Movement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据引用",
+   "en": "scientific data citation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据密集型科学范式",
+   "en": "data-intensive scientific paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "询问法",
+   "en": "inquiry dietary survey",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.3.1.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队营养调查与评价",
+   "subjectName": "军队营养调查与评价",
+   "publishYear": "2025",
+   "definition": "向被调查者或了解情况者询问某一段时间内食物摄入量，然后计算能量和各种营养素摄入量的调查方法，适用于病人及营养咨询时个人膳食情况的调查。"
+  },
+  {
+   "cn": "学会",
+   "en": "scientific society",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "从事某一学科的人组成的、便于进行学术交流，开展学术活动和进行友好交往的群众性学术研究团体。"
+  },
+  {
+   "cn": "科学争论",
+   "en": "scientific debate",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.13",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "因概念、方法、解释和应用等方面出现分歧而发生的论争，是科学知识集体生产的一个重要组成部分，也是科学发展最重要的创造性因素之一。"
+  },
+  {
+   "cn": "科学激励",
+   "en": "scientific inspiration",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.16",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "促成科学的兴起与发展的重要因素之一，分为外在因素和内在因素：前者包括社会经济、军事等实用的需要以及宗教、文化等价值因素；后者指科学的内在激励方式，比如对科学发现优先权的竞争。"
+  },
+  {
+   "cn": "科学范式",
+   "en": "scientific paradigm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "某一段时期内公认的科学模型或模式，并在此期间为实践共同体提供了典型问题和解答。通常表现为处于该模型或模式下的研究者都承诺同样的规则和标准来从事科学实践。"
+  },
+  {
+   "cn": "科学生产率",
+   "en": "scientific productivity",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "描述科学家的科学成果的产出率的指标。"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "科学共同体做出的一系列新的承诺或共识，并建立一个科学实践的新基础，即科学共同体专业承诺发生了转移，打破了传统的活动，实现从一个范式到另一个范式的转变过程。"
+  },
+  {
+   "cn": "科学必然性",
+   "en": "scientific inevitability",
+   "source": "马克思主义",
+   "wordNumber": "01.0054",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与哲学必然性相区别。是科学研究的对象。是指事物内部、现象背后的不依赖于人的意识而存在的事物联系与发展过程的本质，是自然、社会和人类思维所固有的客观规律性。科学的任务就是要透过复杂的偶然现象来揭露事物发"
+  },
+  {
+   "cn": "科学社会主义",
+   "en": "scientific socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0003",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由马克思、恩格斯为无产阶级和全人类解放而创立和不断发展的科学，是由资本主义社会转向社会主义社会和社会主义、共产主义社会发展规律的科学。科学社会主义有广义和狭义两种理解∶广义上，科学社会主义即共产主义学"
+  },
+  {
+   "cn": "科学执政",
+   "en": "scientific governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0678",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "结合中国实际不断探索和遵循共产党执政规律、社会主义建设规律、人类社会发展规律，以科学的理论、科学的思想、科学的制度、科学的方式组织和带领人民共同建设中国特色社会主义。"
+  },
+  {
+   "cn": "科学辩证法",
+   "en": "scientific dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0076",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代德拉·沃尔佩（Galvano DellaVolpe）提出“新实证主义的马克思主义”，认为马克思的辩证法，其本质是“科学的辩证法”，是对客观事物本质和规律的揭示，是一种实证的逻辑，而非抽"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "大多数科学家们放弃旧范式而接受新方案时，实现范式转换的过程。在这一过程中，往往社会性因素起主要作用，而非遵守普遍适用的合理性规则。"
+  },
+  {
+   "cn": "科学研究纲领",
+   "en": "scientific research program",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "典型的描述重大科学成就的单位，由硬核、与之相关的由辅助假说构成的“保护带”和启发法构成。"
+  },
+  {
+   "cn": "非洲科学社会主义",
+   "en": "African scientific socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0259",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "非洲社会主义的一个重要流派，宣称奉行马克思主义的科学社会主义，是一种自称的“科学社会主义”。该模式认为马克思主义普遍适用于非洲地区，提出以社会主义、共产主义为最终目标，并在执政时期实行了一系列激进措施"
+  },
+  {
+   "cn": "科学知识社会学",
+   "en": "sociology of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "一种以科学知识本身作为学术考察对象而形成的包括科学哲学、科学史、科学社会学和科学文化的批判性研究领域，认为科学知识的构成完全是社会性的，主张将科学知识纳入到社会学分析之中，探讨社会因素对科学知识形成的"
+  },
+  {
+   "cn": "科学知识的体系化",
+   "en": "systematic of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "把科学知识加以整理，转变为简洁的和相互关联的系统的理论阐述。"
+  },
+  {
+   "cn": "科学知识的积累",
+   "en": "accumulation of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "在科学领域中，经验—实证性知识和理论知识逐步累积和增长的过程。科学社会学认为，科学知识是经过社会与文化环境诸因素的影响，选择性积累的结果。"
+  },
+  {
+   "cn": "科学发现的优先权",
+   "en": "priorities in scientific discovery",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.14",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家在科学研究中对某一重大科学发现或发明所起到的首要作用，往往表现为某（些）科学家率先发现或发明了某项科学知识或技术，开创了某种新的研究领域等。"
+  },
+  {
+   "cn": "科学贡献的知名度",
+   "en": "visibility of scientific contributions",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.20",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家的科学成果受到同行关注和社会承认的程度。"
+  },
+  {
+   "cn": "科学发展观",
+   "en": "scientific outlook on development",
+   "source": "马克思主义",
+   "wordNumber": "03.0661",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持以人为本，全面、协调、可持续的发展观，是中国特色社会主义理论体系最新成果。科学发展观同马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想一道，是党必须长期坚持的指导思想。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

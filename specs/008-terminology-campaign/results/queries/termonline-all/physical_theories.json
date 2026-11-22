@@ -1,0 +1,702 @@
+{
+ "key": "physical theories",
+ "term": "physical theories",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T10:04:05+00:00",
+ "status": "ok",
+ "note": "variant=physical theories; 审定公布名词库=2646; 海峡两岸名词对照库=877; 其他来源数据库=175; 预公布名词数据库=376; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "身体理论",
+   "en": "physical theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.130",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "关于人和身体关系、身体与社会相互作用的理论。自然主义身体观，强调人的生物性身体生成了各种社会关系；社会建构论身体观，强调身体在一定程度上被社会形塑、约束甚至创造。代表人物有福柯、戈夫曼、特纳和弗兰克。"
+  },
+  {
+   "cn": "物理学理论的完备性",
+   "en": "completeness of physical theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.319",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "对于一个完备的物理学理论，物理实在的每一元素都能在物理学理论中有相应的全面反映。"
+  },
+  {
+   "cn": "物理[学]",
+   "en": "physics",
+   "source": "物理学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "物理学_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "物理模拟的相似性理论",
+   "en": "theory of similarity in physical simulation",
+   "source": "地球物理学名词",
+   "wordNumber": "10.0019",
+   "subjectFullName": "地球物理学_地球物理信息学_地球物理观测技术",
+   "subjectName": "地球物理观测技术",
+   "publishYear": "2022",
+   "definition": "论述物理模拟的物理现象相似条件和相似现象性质的理论。 "
+  },
+  {
+   "cn": "物理归档",
+   "en": "physical filing；physical archiving",
+   "source": "档案学名词",
+   "wordNumber": "06.03.011",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "将电子文件通过网络或者脱机载体保存进电子文件管理系统的归档方式。电子文件的管理权限同步向档案部门移交。"
+  },
+  {
+   "cn": "物理双星",
+   "en": "physical double; physical pair",
+   "source": "天文学名词",
+   "wordNumber": "08.334",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "互绕公共质量中心做周期性轨道运动的两个恒星级天体系统。"
+  },
+  {
+   "cn": "海洋物理学",
+   "en": "marine physics,ocean physics",
+   "source": "海洋科技名词",
+   "wordNumber": "01.0004",
+   "subjectFullName": "海洋科学技术_总论_一级分支学科名词",
+   "subjectName": "一级分支学科名词",
+   "publishYear": "2007",
+   "definition": "研究海洋的声、光、电、磁学现象及其变化规律的学科。"
+  },
+  {
+   "cn": "物理风化作用",
+   "en": "physical weathering",
+   "source": "地质学名词",
+   "wordNumber": "05.01.013",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "主要使岩石发生机械破碎，而不改变其化学成分的风化作用。主要作用趋势是使母岩崩解产生碎屑物质，包括岩石碎屑和矿物碎屑等。"
+  },
+  {
+   "cn": "物理地球化学",
+   "en": "physical geochemistry",
+   "source": "地质学名词",
+   "wordNumber": "13.01.039",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "研究地质体的地球物理特征与地球化学特征的相关关系的地球化学分支学科。"
+  },
+  {
+   "cn": "物理年代",
+   "en": "physical time",
+   "source": "地质学名词",
+   "wordNumber": "13.03.040",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "利用矿物、岩石等天然物质的物理性质(热、电、磁等)测定的形成年龄。"
+  },
+  {
+   "cn": "物理灭菌",
+   "en": "physical sterilization",
+   "source": "普通外科学名词",
+   "wordNumber": "02.003",
+   "subjectFullName": "医学_普通外科学_无菌术",
+   "subjectName": "无菌术",
+   "publishYear": "2026",
+   "definition": "通过物理手段（如加热或射线照射）进行灭菌的方法。"
+  },
+  {
+   "cn": "物理消毒",
+   "en": "physical disinfection",
+   "source": "普通外科学名词",
+   "wordNumber": "02.012",
+   "subjectFullName": "医学_普通外科学_无菌术",
+   "subjectName": "无菌术",
+   "publishYear": "2026",
+   "definition": "通过机械（如流动水冲洗）、热、光、电、微波和辐射（如射线）等物理学手段对某些污染物品进行消毒的方法。"
+  },
+  {
+   "cn": "实物管理",
+   "en": "physical management",
+   "source": "风景园林名词",
+   "wordNumber": "03.0365",
+   "subjectFullName": "风景园林_风景园林管理_经济管理",
+   "subjectName": "经济管理",
+   "publishYear": "2025",
+   "definition": "在产品生产过程中，对物资流动情况的管理，即对原材料、半成品以及成品的数量、存放、运输、保管所进行的管理。是生产调度人员常用的一种调控方法。"
+  },
+  {
+   "cn": "物理控制",
+   "en": "physical management",
+   "source": "农学名词",
+   "wordNumber": "10.397",
+   "subjectFullName": "植物保护_鼠害",
+   "subjectName": "鼠害",
+   "publishYear": "2025",
+   "definition": "采用鼠夹、鼠笼、弓箭、粘鼠板和围栏捕鼠系统等各种物理器械控制害鼠数量的方法。"
+  },
+  {
+   "cn": "物理消光",
+   "en": "physical extinction",
+   "source": "精细化工名词",
+   "wordNumber": "05.0218",
+   "subjectFullName": "精细化工_涂料_涂料调色与制备",
+   "subjectName": "涂料调色与制备",
+   "publishYear": "2025",
+   "definition": "通过物理方法降低涂膜表面的平整度，从而降低涂膜表面光泽的技术。"
+  },
+  {
+   "cn": "物理图谱",
+   "en": "physical map",
+   "source": "农学名词",
+   "wordNumber": "15.034",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "通过基因克隆、原位杂交或测序等方法将基因或分子标记锚定在染色体的确定位置而绘制的连锁图。通常用碱基对数目表示物理距离。"
+  },
+  {
+   "cn": "物理诱变剂",
+   "en": "physical mutagen",
+   "source": "农学名词",
+   "wordNumber": "15.115",
+   "subjectFullName": "农业生物技术_细胞工程",
+   "subjectName": "细胞工程",
+   "publishYear": "2025",
+   "definition": "能够诱导生物的遗传物质产生变异的核物理诱变因素。包括伽马射线、中子、质子和离子束等。"
+  },
+  {
+   "cn": "物理净化",
+   "en": "physical purification",
+   "source": "风景园林名词",
+   "wordNumber": "08.0655",
+   "subjectFullName": "风景园林_风景园林工程_风景园林水景",
+   "subjectName": "风景园林水景",
+   "publishYear": "2025",
+   "definition": "水体中污染物经稀释、扩散和沉降等物理作用使浓度逐渐降低的过程。"
+  },
+  {
+   "cn": "物理增效剂",
+   "en": "physical synergist",
+   "source": "农学名词",
+   "wordNumber": "09.330",
+   "subjectFullName": "土壤肥料_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2025",
+   "definition": "加入肥料中以防止或减少肥料吸湿结块，改善肥料物理性能，提高肥料效果的物质。"
+  },
+  {
+   "cn": "物理防治",
+   "en": "physical control",
+   "source": "农学名词",
+   "wordNumber": "10.007",
+   "subjectFullName": "植物保护_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2025",
+   "definition": "利用人工清除、器具、光、电、温度、湿度、射能、声波等物理手段来防治有害生物的措施。"
+  },
+  {
+   "cn": "海洋物理学",
+   "en": "marine physics\",\"ocean physics",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "物理图[谱]",
+   "en": "physical map",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物理障碍",
+   "en": "physical barrier",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "形态学个体",
+   "en": "physical individual",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物理模[态]",
+   "en": "physical mode",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物理气候",
+   "en": "physical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物理气候学",
+   "en": "physical climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物理气象[学]",
+   "en": "physical meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然地理学",
+   "en": "physical geography",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然环境",
+   "en": "physical environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物理吸收",
+   "en": "physical absorption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理处理",
+   "en": "physical treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理常数",
+   "en": "physical constant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理分离",
+   "en": "physical separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理示踪剂",
+   "en": "physical tracer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理性质",
+   "en": "physical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理试验",
+   "en": "physical test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理定律",
+   "en": "physical law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理㶲",
+   "en": "physical exergy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理化学",
+   "en": "physical chemistry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物色",
+   "en": "Physical Features",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理模型",
+   "en": "physical model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理结构",
+   "en": "physical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理数据",
+   "en": "physical data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实体场景",
+   "en": "physical scenario",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "陆上训练",
+   "en": "physical training",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "physical trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "physical trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体格发育",
+   "en": "physical development, physical growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "人体外部形态、身体比例和体型等方面随年龄而发生变化的过程。"
+  },
+  {
+   "cn": "物理监测",
+   "en": "physical monitoring",
+   "source": "消毒学",
+   "wordNumber": "1.2.3.1",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "使用内置或外配记录仪对灭菌器压力、温度等物理参数进行的监测。"
+  },
+  {
+   "cn": "物理消毒",
+   "en": "physical disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.2",
+   "subjectFullName": "消毒学_消毒技术",
+   "subjectName": "消毒技术",
+   "publishYear": "2025",
+   "definition": "利用热、辐射、紫外线、静电等物理因子或过滤方式杀灭或清除有害微生物的消毒处理。"
+  },
+  {
+   "cn": "实体防护",
+   "en": "physical protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.7.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_设施防护安全",
+   "subjectName": "设施防护安全",
+   "publishYear": "2025",
+   "definition": "保护核材料或授权设施的措施，旨在防止未经授权获取或移除裂变材料或破坏保障措施。"
+  },
+  {
+   "cn": "物理去污",
+   "en": "physical decontamination",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.10",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "利用机械方法去除或降低物体表面放射性污染的过程。"
+  },
+  {
+   "cn": "体力劳动",
+   "en": "physical labor",
+   "source": "马克思主义",
+   "wordNumber": "01.0126",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“脑力劳动”相对。以消耗体力为主的劳动，脑力劳动在其中起辅助作用。体力劳动与脑力劳动的分离是历史的产物，随着生产力的发展，体力劳动和脑力劳动的对立差别将逐渐缩小、消除。"
+  },
+  {
+   "cn": "物理治疗",
+   "en": "physical therapy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "应用力、电、光、声、磁、冷、热、水等方法对疾病进行预防、治疗和康复的方法。是物理医学与康复的一个重要组成部分。通常分运动疗法和物理因子疗法。"
+  },
+  {
+   "cn": "体能",
+   "en": "physical fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体具备的能胜任日常工作和学习而不感到疲劳，同时有余力能充分享受休闲娱乐生活，又可应付突发紧急状况的能力。"
+  },
+  {
+   "cn": "身体活动",
+   "en": "physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "由骨骼肌收缩引起的，导致机体能量消耗增加的一切活动，包括职业性、交通性、日常生活体力活动及闲暇时的体育锻炼。"
+  },
+  {
+   "cn": "生理自我",
+   "en": "physical self",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个人对自己身躯的认识。是自我意识最原始形态。"
+  },
+  {
+   "cn": "物质环境因素",
+   "en": "physical environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "人类赖以生存的物质基础。其与社会环境、生产生活方式共同决定儿童青少年生长发育的可实现性。"
+  },
+  {
+   "cn": "物理性环境污染",
+   "en": "physical pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "现代工业生产、通信信息生产使用、现代生活等过程中由物理因素引起的环境污染。包括噪声污染、电磁辐射污染、放射性污染等。"
+  },
+  {
+   "cn": "体育锻炼",
+   "en": "physical exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "以身体练习和运动负荷为手段 ,以健身健美、娱乐休闲、保健康复、心理智能锻炼为活动内容 ,为增强体质、增进身心健康 ,提高和保持机体能力而进行的一类体育运动。"
+  },
+  {
+   "cn": "物理性污染",
+   "en": "physical pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "食品中杂质超过规定的含量，或食品吸附、吸收外来的放射性核素引起的食品污染。"
+  },
+  {
+   "cn": "体育课",
+   "en": "physical education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_体力活动与体育锻炼",
+   "subjectName": "体力活动与体育锻炼",
+   "publishYear": "2025",
+   "definition": "在一定单位时间内，使学生能在身体、运动认知、运动技能、情感和社会方面和谐发展的教学活动。"
+  },
+  {
+   "cn": "健康体检",
+   "en": "physical examination",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学生体质与健康状况监测",
+   "subjectName": "学生体质与健康状况监测",
+   "publishYear": "2025",
+   "definition": "学校组织开展的为维护学生身体健康从而达到预防保健的目的而进行的体格检查。"
+  },
+  {
+   "cn": "肢体残疾",
+   "en": "physical disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "人体运动系统的结构、功能损伤造成四肢残缺或四肢、躯干麻痹（瘫痪）、畸形等而致人体运动功能不同程度的丧失以及活动受限或参与的局限。"
+  },
+  {
+   "cn": "身体活动不足",
+   "en": "physical inactivity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.2.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_儿童青少年身体活动指南",
+   "subjectName": "儿童青少年身体活动指南",
+   "publishYear": "2025",
+   "definition": "描述个体体力活动水平未达到《体力活动指南》推荐的中高强度体力活动水平的一种分类。"
+  },
+  {
+   "cn": "身体素养",
+   "en": "physical literacy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_身体素养",
+   "subjectName": "身体素养",
+   "publishYear": "2025",
+   "definition": "个体能维持终身体力活动参与的能力。需要的因素包括动机、信心、知识理解以及价值观和责任心。"
+  },
+  {
+   "cn": "躯体惩罚",
+   "en": "physical punishment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.3.3",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力",
+   "subjectName": "针对儿童的暴力",
+   "publishYear": "2025",
+   "definition": "父母或保护人或其他成人利用体力对儿童实施身体上的责罚，并引起儿童躯体疼痛或不适的行为，表现为各式殴打、罚站、罚跪等。这种违反儿童人权的行为会对儿童身体、心理、认知、社会情感发育、教育等方面产生不良影响"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

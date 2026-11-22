@@ -20,3 +20,12 @@
   1. 人名 21,986 条、著作 4,701 条只入总表，未落册；`register-queue-persons.json`／`register-queue-works.json` 已生成，需逐条核籍属/生卒与中译本，works 队列当前混入术语（feminist ethics／informal logic 类），下批须先分型。
   2. 本轮新增 198,622 条中，句级长词条 45,970 条多为引文，不属登记对象；其余按 T1/T2 逐批裁定。
   3. `candidates.json.gz`（8 MB，机器索引）未入库，保留在 `results/` 本地；全量 TSV 已入库。
+
+## 2026-11-22 续：术语在线优先（用户裁定）
+
+* 口径变更：登记一律先查审定名词库（allSearch），命中学科对口即采审定译名；查无或仅他义命中才走 A 档直裁，并写明原因。`termonline-standard` 实测为模糊检索（多词查询返回电力标准等无关命中），降为参考，不作优先通道。
+* 首批依据复核：对 102 条逐条按“英文形一致或单复数变体＋学科对口”重扫凭证，14 条译名一致的命中升级依据为审定名词库（decision theory、moral beliefs、mental representations、field theory、artificial intelligence、cognitive processes、modal operators、moral values、inductive logic、machine learning、social structures、scientific progress、political economy、evolutionary biology），译名与日期不动。
+* 首批未改采的审定异形命中及理由：perceptual experience 审定作“感性经验”（马克思主义语境，与知觉现象学非同概念）、moral agents 审定作“道德行为者”（语料通行“道德行动者”20 篇 vs 1 篇）、legal rights 审定作“法权”（马克思政治经济学义）、empirical research 审定作“经验性研究”（语料“经验研究”27 篇）、religious experience 审定作“宗教体验”（语料“宗教经验”10 篇）。
+* 第二批：人工圈定 61 条，与总表求交得 59 条；全部先查审定库（48 条实查 ok、10 条已有凭证跳过）。按术语在线优先生成清单：5 条采审定译名（moral theories、number theory、empirical content、moral principle、logically equivalent→逻辑等值），54 条审定无对口命中后 A 档直裁。两条审定异形命中判定他义未采：physical theories→身体理论（自然辩证法·理论方法，身体义）、moral concepts→道德观念（医学伦理学，观念≠概念）。
+* 落册：`term_flow` 干跑 59/0，实写 59；`registry_azsort --apply` 术语表 7161 行守恒；`check_terms` 硬错误 0。
+* 当日累计：术语表新增 161 行（首批 102＋第二批 59），其中审定名词库依据 19 行。
