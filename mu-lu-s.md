@@ -22,7 +22,67 @@ outline: [1, 6]
 
 ## 古代哲学
 
+### 早期希腊自然哲学
+* [前苏格拉底哲学 Presocratic Philosophy (Patricia Curd)](p/presocratics.md)
+
+#### 伊奥尼亚哲学
+
+* [赫拉克利特 Heraclitus (Daniel W. Graham)](h/heraclitus.md)
+
+#### 南意大利哲学
+
+##### 爱利亚学派
+
+* [巴门尼德 Parmenides (John Palmer)](p/parmenides.md)
+* [克塞诺芬尼 Xenophanes (James Lesher)](x/xenophanes.md)
+* [爱利亚的芝诺 Zeno of Elea (John Palmer)](z/zeno-elea.md)
+  * [芝诺悖论 Zeno’s Paradoxes (Nick Huggett)](p/paradox-zeno.md)
+
+##### 毕达哥拉斯主义
+
+###### 总论与创始人
+
+* [毕达哥拉斯 Pythagoras (Carl Huffman)](p/pythagoras.md)
+* [毕达哥拉斯主义 Pythagoreanism (Carl Huffman)](p/pythagoreanism.md)
+
+###### 学派传承与晚期
+
+* [菲洛劳斯 Philolaus (Carl Huffman)](p/philolaus.md)
+* [阿尔库塔斯 Archytas (Carl Huffman)](a/archytas.md)
+
+##### 早期医学与自然哲学
+
+* [克罗顿的阿尔克迈翁 Alcmaeon (Carl Huffman)](a/alcmaeon.md)
+
+#### 多元论与原子论
+
+##### 多元论
+
+* [阿那克萨哥拉 Anaxagoras (John Sisko、Patricia Curd)](a/anaxagoras.md)
+* [恩培多克勒 Empedocles (K. Scarlett Kingsley、Richard Parry)](e/empedocles.md)
+
+##### 原子论
+
+* [古代原子论 Ancient Atomism (Sylvia Berryman)](a/atomism-ancient.md)
+  * [德谟克利特 Democritus (Sylvia Berryman)](d/democritus.md)
+  * [留基伯 Leucippus (Sylvia Berryman)](l/leucippus.md)
+
 ### 古典希腊哲学
+
+#### 智者运动
+
+##### 智者总论
+
+* [智者 The Sophists (C.C.W. Taylor、Mi-Kyoung Lee)](s/sophists.md)
+  * [普罗塔戈拉 Protagoras (Mauro Bonazzi)](p/protagoras.md)
+
+##### 修辞与政治论辩
+
+* [卡利克勒斯和塞拉西马柯 Callicles and Thrasymachus (Rachel Barney)](c/callicles-thrasymachus.md)
+
+#### 苏格拉底
+
+* [苏格拉底 Socrates (Debra Nails、S. Sara Monoson)](s/socrates.md)
 
 #### 柏拉图与学园
 
@@ -75,21 +135,6 @@ outline: [1, 6]
 
 * [泰奥弗拉斯特 Theophrastus (Katerina Ierodiakonou)](t/theophrastus.md)
 
-#### 苏格拉底
-
-* [苏格拉底 Socrates (Debra Nails、S. Sara Monoson)](s/socrates.md)
-
-#### 智者运动
-
-##### 智者总论
-
-* [智者 The Sophists (C.C.W. Taylor、Mi-Kyoung Lee)](s/sophists.md)
-  * [普罗塔戈拉 Protagoras (Mauro Bonazzi)](p/protagoras.md)
-
-##### 修辞与政治论辩
-
-* [卡利克勒斯和塞拉西马柯 Callicles and Thrasymachus (Rachel Barney)](c/callicles-thrasymachus.md)
-
 #### 小苏格拉底学派
 
 ##### 辩证学派
@@ -100,51 +145,6 @@ outline: [1, 6]
 ##### 昔勒尼学派
 
 * [昔勒尼学派 The Cyrenaics (Voula Tsouna)](c/cyrenaics.md)
-
-### 早期希腊自然哲学
-* [前苏格拉底哲学 Presocratic Philosophy (Patricia Curd)](p/presocratics.md)
-
-#### 伊奥尼亚哲学
-
-* [赫拉克利特 Heraclitus (Daniel W. Graham)](h/heraclitus.md)
-
-#### 南意大利哲学
-
-##### 爱利亚学派
-
-* [巴门尼德 Parmenides (John Palmer)](p/parmenides.md)
-* [克塞诺芬尼 Xenophanes (James Lesher)](x/xenophanes.md)
-* [爱利亚的芝诺 Zeno of Elea (John Palmer)](z/zeno-elea.md)
-  * [芝诺悖论 Zeno’s Paradoxes (Nick Huggett)](p/paradox-zeno.md)
-
-##### 毕达哥拉斯主义
-
-###### 总论与创始人
-
-* [毕达哥拉斯 Pythagoras (Carl Huffman)](p/pythagoras.md)
-* [毕达哥拉斯主义 Pythagoreanism (Carl Huffman)](p/pythagoreanism.md)
-
-###### 学派传承与晚期
-
-* [菲洛劳斯 Philolaus (Carl Huffman)](p/philolaus.md)
-* [阿尔库塔斯 Archytas (Carl Huffman)](a/archytas.md)
-
-##### 早期医学与自然哲学
-
-* [克罗顿的阿尔克迈翁 Alcmaeon (Carl Huffman)](a/alcmaeon.md)
-
-#### 多元论与原子论
-
-##### 多元论
-
-* [阿那克萨哥拉 Anaxagoras (John Sisko、Patricia Curd)](a/anaxagoras.md)
-* [恩培多克勒 Empedocles (K. Scarlett Kingsley、Richard Parry)](e/empedocles.md)
-
-##### 原子论
-
-* [古代原子论 Ancient Atomism (Sylvia Berryman)](a/atomism-ancient.md)
-  * [德谟克利特 Democritus (Sylvia Berryman)](d/democritus.md)
-  * [留基伯 Leucippus (Sylvia Berryman)](l/leucippus.md)
 
 ### 希腊化与罗马哲学
 
@@ -718,6 +718,31 @@ outline: [1, 6]
 * [17 世纪和 18 世纪的情感理论 17th and 18th Century Theories of Emotions (Amy M. Schmitter)](e/emotions-17th18th.md)
 * [约翰·诺里斯 John Norris (June Yang)](j/john-norris.md)
 
+#### 剑桥柏拉图学派
+
+##### 总论
+
+* [剑桥柏拉图学派 The Cambridge Platonists (Sarah Hutton)](c/cambridge-platonists.md)
+
+##### 库德沃斯与莫尔
+
+* [拉尔夫·库德沃斯 Ralph Cudworth (Sarah Hutton)](c/cudworth.md)
+* [亨利·莫尔 Henry More (John Henry)](h/henry-more.md)
+
+##### 康威
+
+* [安妮·康威 Lady Anne Conway (Sarah Hutton)](c/conway.md)
+
+#### 斯宾诺莎
+
+* [巴鲁赫·斯宾诺莎 Baruch Spinoza (Steven Nadler)](s/spinoza.md)
+  * [斯宾诺莎的属性理论 Spinoza’s Theory of Attributes (Noa Shein)](s/spinoza-attributes.md)
+  * [斯宾诺莎的模态形而上学 Spinoza’s Modal Metaphysics (Samuel Newlands)](s/spinoza-modal.md)
+  * [斯宾诺莎的认识论和心灵哲学 Spinoza’s Epistemology and Philosophy of Mind (Karolina Hübner)](s/spinoza-epistemology-mind.md)
+  * [斯宾诺莎的物理理论 Spinoza’s Physical Theory (Richard Manning)](s/spinoza-physics.md)
+  * [斯宾诺莎的心理学理论 Spinoza’s Psychological Theory (Michael LeBuffe)](s/spinoza-psychological.md)
+  * [斯宾诺莎的政治哲学 Spinoza’s Political Philosophy (Justin Steinberg)](s/spinoza-political.md)
+
 #### 莱布尼茨-沃尔夫学派
 
 ##### 莱布尼茨
@@ -741,58 +766,7 @@ outline: [1, 6]
 
 * [夏特莱侯爵夫人 Émilie du Châtelet (Karen Detlefsen)](e/emilie-du-chatelet.md)
 
-#### 斯宾诺莎
-
-* [巴鲁赫·斯宾诺莎 Baruch Spinoza (Steven Nadler)](s/spinoza.md)
-  * [斯宾诺莎的属性理论 Spinoza’s Theory of Attributes (Noa Shein)](s/spinoza-attributes.md)
-  * [斯宾诺莎的模态形而上学 Spinoza’s Modal Metaphysics (Samuel Newlands)](s/spinoza-modal.md)
-  * [斯宾诺莎的认识论和心灵哲学 Spinoza’s Epistemology and Philosophy of Mind (Karolina Hübner)](s/spinoza-epistemology-mind.md)
-  * [斯宾诺莎的物理理论 Spinoza’s Physical Theory (Richard Manning)](s/spinoza-physics.md)
-  * [斯宾诺莎的心理学理论 Spinoza’s Psychological Theory (Michael LeBuffe)](s/spinoza-psychological.md)
-  * [斯宾诺莎的政治哲学 Spinoza’s Political Philosophy (Justin Steinberg)](s/spinoza-political.md)
-
-#### 剑桥柏拉图学派
-
-##### 总论
-
-* [剑桥柏拉图学派 The Cambridge Platonists (Sarah Hutton)](c/cambridge-platonists.md)
-
-##### 库德沃斯与莫尔
-
-* [拉尔夫·库德沃斯 Ralph Cudworth (Sarah Hutton)](c/cudworth.md)
-* [亨利·莫尔 Henry More (John Henry)](h/henry-more.md)
-
-##### 康威
-
-* [安妮·康威 Lady Anne Conway (Sarah Hutton)](c/conway.md)
-
 ### 经验论
-
-#### 洛克
-
-##### 洛克
-
-* [约翰·洛克 John Locke (William Uzgalis)](l/locke.md)
-  * [洛克论实在本质 Locke on Real Essence (Jan-Erik Jones)](r/real-essence.md)
-  * [洛克论人格同一性 Locke on Personal Identity (Jessica Gordon-Roth)](l/locke-personal-identity.md)
-  * [洛克的科学哲学 Locke’s Philosophy of Science (Hylarie Kochiras)](l/locke-philosophy-science.md)
-  * [洛克论医学 Locke on Medicine (Jonathan Craig Walmsley)](l/locke-on-medicine.md)
-  * [洛克的伦理学 Locke’s Moral Philosophy (Patricia Sheridan)](l/locke-moral.md)
-  * [洛克论自由 Locke On Freedom (Samuel Rickless)](l/locke-freedom.md)
-  * [洛克的政治哲学 Locke’s Political Philosophy (Alex Tuckness)](l/locke-political.md)
-
-##### 早期女性哲学
-
-* [达玛里斯·库德沃斯·马沙姆 Lady Damaris Masham (Sarah Hutton)](l/lady-masham.md)
-
-#### 休谟
-
-* [大卫·休谟 David Hume (Hsueh Qu、Elizabeth S. Radcliffe)](h/hume.md)
-  * [休谟论自由意志 Hume on Free Will (Paul Russell)](h/hume-freewill.md)
-  * [休谟的牛顿主义与反牛顿主义 Hume’s Newtonianism and Anti-Newtonianism (Eric Schliesser、Tamás Demeter)](h/hume-newton.md)
-  * [休谟的伦理学 Hume’s Moral Philosophy (Rachel Cohon)](h/hume-moral.md)
-  * [休谟的美学 Hume’s Aesthetics (Theodore Gracyk)](h/hume-aesthetics.md)
-  * [休谟论宗教 Hume on Religion (Paul Russell、Anders Kraal)](h/hume-religion.md)
 
 #### 培根与霍布斯
 
@@ -815,9 +789,35 @@ outline: [1, 6]
 
 * [玛格丽特·卢卡斯·卡文迪许 Margaret Lucas Cavendish (David Cunning)](m/margaret-cavendish.md)
 
+#### 洛克
+
+##### 洛克
+
+* [约翰·洛克 John Locke (William Uzgalis)](l/locke.md)
+  * [洛克论实在本质 Locke on Real Essence (Jan-Erik Jones)](r/real-essence.md)
+  * [洛克论人格同一性 Locke on Personal Identity (Jessica Gordon-Roth)](l/locke-personal-identity.md)
+  * [洛克的科学哲学 Locke’s Philosophy of Science (Hylarie Kochiras)](l/locke-philosophy-science.md)
+  * [洛克论医学 Locke on Medicine (Jonathan Craig Walmsley)](l/locke-on-medicine.md)
+  * [洛克的伦理学 Locke’s Moral Philosophy (Patricia Sheridan)](l/locke-moral.md)
+  * [洛克论自由 Locke On Freedom (Samuel Rickless)](l/locke-freedom.md)
+  * [洛克的政治哲学 Locke’s Political Philosophy (Alex Tuckness)](l/locke-political.md)
+
+##### 早期女性哲学
+
+* [达玛里斯·库德沃斯·马沙姆 Lady Damaris Masham (Sarah Hutton)](l/lady-masham.md)
+
 #### 贝克莱
 
 * [乔治·贝克莱 George Berkeley (Lisa Downing、David Hilbert)](b/berkeley.md)
+
+#### 休谟
+
+* [大卫·休谟 David Hume (Hsueh Qu、Elizabeth S. Radcliffe)](h/hume.md)
+  * [休谟论自由意志 Hume on Free Will (Paul Russell)](h/hume-freewill.md)
+  * [休谟的牛顿主义与反牛顿主义 Hume’s Newtonianism and Anti-Newtonianism (Eric Schliesser、Tamás Demeter)](h/hume-newton.md)
+  * [休谟的伦理学 Hume’s Moral Philosophy (Rachel Cohon)](h/hume-moral.md)
+  * [休谟的美学 Hume’s Aesthetics (Theodore Gracyk)](h/hume-aesthetics.md)
+  * [休谟论宗教 Hume on Religion (Paul Russell、Anders Kraal)](h/hume-religion.md)
 
 #### 苏格兰常识学派
 
@@ -951,13 +951,6 @@ outline: [1, 6]
 
 * [把人当作手段 Treating Persons as Means (Samuel Kerstein)](p/persons-means.md)
 
-#### 黑格尔
-
-* [格奥尔格·威廉·弗里德里希·黑格尔 Georg Wilhelm Friedrich Hegel (Paul Redding)](h/hegel.md)
-  * [黑格尔的辩证法 Hegel’s Dialectics (Julie E. Maybee)](h/hegel-dialectics.md)
-  * [黑格尔的社会与政治哲学 Hegel’s Social and Political Philosophy (Thom Brooks)](h/hegel-social-political.md)
-  * [黑格尔的美学 Hegel’s Aesthetics (Stephen Houlgate)](h/hegel-aesthetics.md)
-
 #### 费希特
 
 ##### 费希特
@@ -980,7 +973,18 @@ outline: [1, 6]
 
 * [弗里德里希·威廉·约瑟夫·冯·谢林 Friedrich Wilhelm Joseph von Schelling (Andrew Bowie)](s/schelling.md)
 
+#### 黑格尔
+
+* [格奥尔格·威廉·弗里德里希·黑格尔 Georg Wilhelm Friedrich Hegel (Paul Redding)](h/hegel.md)
+  * [黑格尔的辩证法 Hegel’s Dialectics (Julie E. Maybee)](h/hegel-dialectics.md)
+  * [黑格尔的社会与政治哲学 Hegel’s Social and Political Philosophy (Thom Brooks)](h/hegel-social-political.md)
+  * [黑格尔的美学 Hegel’s Aesthetics (Stephen Houlgate)](h/hegel-aesthetics.md)
+
 ### 浪漫主义与人文科学
+
+#### 维柯
+
+* [詹巴蒂斯塔·维柯 Giambattista Vico (Timothy Costelloe)](v/vico.md)
 
 #### 赫尔德与浪漫派
 
@@ -998,10 +1002,6 @@ outline: [1, 6]
 
 * [威廉·冯·洪堡 Wilhelm von Humboldt (Kurt Mueller-Vollmer、Markus Messling)](w/wilhelm-humboldt.md)
 * [亚历山大·冯·洪堡 Alexander von Humboldt (Dalia Nassar)](a/alexander-humboldt.md)
-
-#### 维柯
-
-* [詹巴蒂斯塔·维柯 Giambattista Vico (Timothy Costelloe)](v/vico.md)
 
 ## 现代哲学
 
@@ -1138,11 +1138,6 @@ outline: [1, 6]
 
 * [现象学 Phenomenology (David Woodruff Smith)](p/phenomenology.md)
 
-#### 慕尼黑与哥廷根学派
-
-* [慕尼黑学派和哥廷根学派的现象学 The Phenomenology of the Munich and Göttingen Circles (Alessandro Salice)](p/phenomenology-mg.md)
-  * [阿道夫·莱纳赫 Adolf Reinach (Alessandro Salice、James DuBois、Barry Smith)](r/reinach.md)
-
 #### 布伦塔诺学派与早期现象学
 
 ##### 布伦塔诺
@@ -1163,6 +1158,11 @@ outline: [1, 6]
 ##### 特瓦尔多夫斯基
 
 * [卡齐米日·特瓦尔多夫斯基 Kazimierz Twardowski (Arianna Betti)](t/twardowski.md)
+
+#### 慕尼黑与哥廷根学派
+
+* [慕尼黑学派和哥廷根学派的现象学 The Phenomenology of the Munich and Göttingen Circles (Alessandro Salice)](p/phenomenology-mg.md)
+  * [阿道夫·莱纳赫 Adolf Reinach (Alessandro Salice、James DuBois、Barry Smith)](r/reinach.md)
 
 #### 胡塞尔
 
