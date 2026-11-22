@@ -236,7 +236,7 @@ def main():
         if need_dates and dates:
             cells[4] = dates
         ev = '籍属/生卒联网查证：Wikidata %s（2026-11-23 查，凭证 %s）' % (
-            qid, 'people-wikidata-2026-11-23-auto.tsv')
+            qid, 'backfill-auto-2026-11-23.tsv')
         if ev not in cells[6]:
             cells[6] = cells[6].rstrip('|') + '；' + ev
         lines[i] = '| ' + ' | '.join(cells) + ' |'

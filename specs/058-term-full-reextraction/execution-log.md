@@ -75,3 +75,4 @@
 * 实写 22 行（Abizadeh、Aldrich、Apollonius Cronus、Aristides、Axiothea、Barnes、Başkent、Boxer、Brady、Bridgeman、Buddhaghosa、Carugo、Chaerephon、Cintula、Costelloe、Cratylus、Dal Lago、De Giacomo、Della Rocca、Epimenides、Falk、Finsen）；其中 Buddhaghosa、Cratylus 两行人工把世纪改写为“约5世纪／约前5世纪（活动期）”，防止把世纪区间当生卒。
 * 证据：`results/backfill-auto-2026-11-23.tsv`（227＋201 行，含两次运行全记录与排除理由）。
 * `registry_azsort` 守恒 4597；`check_terms` 硬错误 0；`check_all` 17 项全绿。
+* 事后更正（2026-11-23）：22 行依据列原引用 `people-wikidata-2026-11-23-auto.tsv`（不存在的文件名），实际凭证为 `backfill-auto-2026-11-23.tsv`；已批量改名（仅凭证文件名，译法/日期不动），脚本常量同步修正。`check_terms` 复跑硬错误 0。
