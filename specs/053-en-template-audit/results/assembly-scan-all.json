@@ -2,8 +2,8 @@
  "schema": "sep-cn-b31-assembly/1",
  "generated_by": "specs/053 bin/reassemble.py",
  "total": 1873,
- "ok": 1617,
- "fail": 256,
+ "ok": 1623,
+ "fail": 250,
  "skipped": 0,
  "entries": [
   {
@@ -1373,18 +1373,13 @@
   },
   {
    "slug": "aristotle-politics",
-   "ok": false,
+   "ok": true,
    "md_len": 86925,
    "b0_mini": {
     "sections": true,
     "parses": true
    },
-   "first_diff": {
-    "op": "replace",
-    "md": "number with column letter in the margin followed by every fifth line number.\n\n[^dreizehnter-1970]: Dreizehnter, Alois, *Aristoteles’ Politik",
-    "asm": ": ethics | Aristotle, Special Topics: natural philosophy\n\n[^dreizehnter-1970]: Dreizehnter, Alois, *Aristoteles’ Politik"
-   },
-   "sec": 0.414
+   "sec": 0.482
   },
   {
    "slug": "aristotle-psychology",
@@ -8403,18 +8398,13 @@
   },
   {
    "slug": "hutcheson",
-   "ok": false,
+   "ok": true,
    "md_len": 77170,
    "b0_mini": {
     "sections": true,
     "parses": true
    },
-   "first_diff": {
-    "op": "replace",
-    "md": " the *System*, the pagination of the 2005 text is identical to the original.\n\n[^albee-1896]: Albee, Ernest, 1896, “The Relation of Shaftesbu",
-    "asm": "gic-metaphysics-and-the-natural-sociability-of-mankind)]\n\n[^albee-1896]: Albee, Ernest, 1896, “The Relation of Shaftesbu"
-   },
-   "sec": 0.144
+   "sec": 0.153
   },
   {
    "slug": "hyperintensionality",
@@ -8486,10 +8476,10 @@
    },
    "first_diff": {
     "op": "replace",
-    "md": "main bibliography: Cole 2001, Gluck 2003, Lewis 1961, Scheindlin 1986 and 1991.)\n\n[^bialik-1924]: Bialik and Ravnitsky, eds. 1924/1925. *Shi",
-    "asm": ". Arabic text and English translation of Gabirol's *Sefer Tiqun Midot ha-Nefesh*\n\n[^bialik-1924]: Bialik and Ravnitsky, eds. 1924/1925. *Shi"
+    "md": "-On translation; pagination starts again from p. 1; see pp. 1–85.\n\n[^ibn-gabirol-1966]: 1966. *The Improvement of the Moral Qualities*, Colu",
+    "asm": "e Bar-On translation; pagination starts again from p. 1; see pp. 1–85.\n\n[^mibhar-1966]: 1966. *The Improvement of the Moral Qualities*, Colu"
    },
-   "sec": 0.286
+   "sec": 0.33
   },
   {
    "slug": "ibn-kammuna",
@@ -16348,18 +16338,13 @@
   },
   {
    "slug": "relations-medieval",
-   "ok": false,
+   "ok": true,
    "md_len": 133179,
    "b0_mini": {
     "sections": true,
     "parses": true
    },
-   "first_diff": {
-    "op": "replace",
-    "md": "e Campbell 1990, Fisk 1973, Mulligan 1998, Parsons 2008, and Schaffer 2010.]\n\n[^albert-1960]: Albert the Great, *Metaphysica* in *Alberti Ma",
-    "asm": "974; cf. also Klima’s discussion in Spade 1999, 118–142.\n\n[^albert-1960]: Albert the Great, *Metaphysica* in *Alberti Ma"
-   },
-   "sec": 0.246
+   "sec": 0.262
   },
   {
    "slug": "relativism",
@@ -16963,18 +16948,13 @@
   },
   {
    "slug": "schlick",
-   "ok": false,
+   "ok": true,
    "md_len": 118890,
    "b0_mini": {
     "sections": true,
     "parses": true
    },
-   "first_diff": {
-    "op": "replace",
-    "md": "r 2009–) and *Schlickiana* (Berlin: Parerga 2008–) should also be mentioned.\n\n[^schlick-1904]: Schlick, Moritz, 1904 [2006], *Über die Refle",
-    "asm": "o bring on a coauthor to maintain and update this entry.\n\n[^schlick-1904]: Schlick, Moritz, 1904 [2006], *Über die Refle"
-   },
-   "sec": 0.23
+   "sec": 0.26
   },
   {
    "slug": "schmitt",
@@ -19298,18 +19278,13 @@
   },
   {
    "slug": "universals-medieval",
-   "ok": false,
+   "ok": true,
    "md_len": 152145,
    "b0_mini": {
     "sections": true,
     "parses": true
    },
-   "first_diff": {
-    "op": "replace",
-    "md": "sals are provided in Spade 1985 [Other Internet Resources] and Libera 1996.]\n\n[^aquinas-1980]: Aquinas, *Opera Omnia*, R. Busa (ed.), Stuttg",
-    "asm": "tion in Vives, J. L., *Against the Pseudodialecticians*.\n\n[^aquinas-1980]: Aquinas, *Opera Omnia*, R. Busa (ed.), Stuttg"
-   },
-   "sec": 0.291
+   "sec": 0.27
   },
   {
    "slug": "utilitarianism-history",
@@ -19418,18 +19393,13 @@
   },
   {
    "slug": "vienna-circle",
-   "ok": false,
+   "ok": true,
    "md_len": 237430,
    "b0_mini": {
     "sections": true,
     "parses": true
    },
-   "first_diff": {
-    "op": "replace",
-    "md": "s are given, along with short biographies, in Stadler 1997 [2015b: 397–592].\n\n[^achinstein-1969]: Achinstein, Peter and Stephen Francis Bark",
-    "asm": " listed here, but I wish to thank all of them sincerely.\n\n[^achinstein-1969]: Achinstein, Peter and Stephen Francis Bark"
-   },
-   "sec": 0.869
+   "sec": 0.95
   },
   {
    "slug": "vives",

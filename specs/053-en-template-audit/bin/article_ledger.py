@@ -29,6 +29,15 @@ B1 = "<!-- BEGIN ARTICLE HTML -->"
 E1 = "<!-- END ARTICLE HTML -->"
 LEDGER_PATH = ("baseline", "en-template", "article-ledger.json")
 HEAD_RE = re.compile(r"<h([2-6])((?:\s[^>]*)?)>(.*?)</h\1>", re.S)
+# 脚注键判定：`note-<id>`（数字/字母/混合，来自 notes.html）。例外——后缀是四位
+# 年份者（`note-2005`、`note-1831`）不是脚注：那是书目区散文段被 C 当条目建键
+# （首词 Note + 年份，hutcheson／schlick 判例）。按书目定义处理，pd 才能定位
+# 并原位发 <p>；误当脚注则整段丢（R 侧同判据，账与 R 必须同语料）。
+_NOTE_KEY_RE = re.compile(r"^note-(?!1[5-9]\d\d\b|20\d\d\b)\S+$")
+
+
+def _is_note_key(key):
+    return bool(_NOTE_KEY_RE.match(key))
 
 
 def read(p):
@@ -516,7 +525,7 @@ def extract_bib_seq(art_inner, md):
             continue
         md_prose.append(norm_md(s2))
     defs = [m.group(2).strip() for m in MD_DEF_RE.finditer(md)
-            if not m.group(1).startswith("note-")]
+            if not _is_note_key(m.group(1))]
     defs_plain = [norm_md(t) for t in defs]
     used, seq = set(), []
     dls = []
@@ -696,7 +705,7 @@ def extract(art_inner, md=None):
         led["bib_groups"] = [x[1] for x in secs]
         if md:
             defs = [m.group(2).strip() for m in MD_DEF_RE.finditer(md)
-                    if not m.group(1).startswith("note-")]
+                    if not _is_note_key(m.group(1))]
             got = extract_bib_indices(art_inner, defs)
             if got:
                 idx, ids = got

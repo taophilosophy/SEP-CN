@@ -390,18 +390,30 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①布局记录是**派生基线**，上游重发（版权年／勘误／骨架换代）后须定点刷新，否则壳差整页错；②md 的 `> >` 双源（嵌套 vs 字面 `>`）以“标记后空白”区分——与 `\$`、书目标题尾字同属“md 同形多源”，凡遇之先找可判据的书写差异，找不到则入账；③B3.1 止损可只跑受影响子集（本批 31 件），前提是改动的作用域能被结构谓词界死。
 
+## 10.20 B3.2 第二十批实施记（2026-11-22，书目散文的 `note-<年>` 键归位）
+
+**缺陷**：书目区顶层 `<p>` 散文段若含四位年份，C 仍把它当书目条目建键（首词＋年份 → `note-2005`、`note-1831` 等伪键）；而账的 `defs` 与 R 的 `bib_defs` 一律以 `note-` 前缀判脚注并**排除**——该段遂既不在书目定义、也不是脚注，`pd` 定位得到 `null`，页面整段丢。全库 7 件（aristotle-politics／hutcheson／ibn-gabirol／relations-medieval／schlick／universals-medieval／vienna-circle），全 gap。
+
+**修法**：脚注判据改为「`note-<id>` 且后缀**不是**四位年份」——`note-2005` 属书目定义（账 `_is_note_key` 与 R 的 `NOTEDEF_KEY_RE` 同判据，账与 R 必须同语料）。伪键本身仍是 C 的既有行为（首词语义），不改 C、不需重转：账里有了该定义，`pd` 即可按可见文定位并原位发 `<p>`。
+
+**判据取证**：全库 `[^note-…]` 键 176 个，非纯数字后缀 27 个（`note-S1`／`note-rs-1`／`note-DeWulfList` 等真脚注），四位年份后缀恰 7 个（即本族）；数字后缀最大值 2024（本族之一），故用「年份词边界」而非「号段」区分，另用 `\b` 防 `note-2005-2` 这类冲突序号误判。
+
+**实测**：账重抽变更恰 7 件（`bib_indices`／`bib_seq`／`bib_tree`，vienna-circle 另涉 `bib_ids`）；7 件重建 → 池 **1,685→1,692（90.3%）／缺口 181／stale 0**，转池 7、失池 0，池占页 **45.25%**；**B3.1 +6（1,617→1,623，ibn-gabirol 仍红属他病）**；check_all 17 项全绿。
+
+**教训**：①“排除某类键”的判据要与**产生方的语义**对齐——`note-` 前缀既承载真脚注也承载伪键，须用可判据的后缀形态区分，不能按前缀一刀切；②同一判据在账与 R 两处必须同步（否则账有、R 无，或反之）；③修 md 侧缺陷不一定动 C——只要账能定位，`pd` 机制即可原位发出。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
 
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
-| B3.1 往返不动点 | **1,617/1,873（86.3%）**，第十九批 +1（ceteris-paribus）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,685（89.9%）／gap 188／stale 0**，池占页 44.98% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.1 往返不动点 | **1,623/1,873（86.7%）**，第二十批 +6（书目散文 `note-<年>` 归位）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
+| B3.2 页面装配 | **pool 1,692（90.3%）／gap 181／stale 0**，池占页 45.25% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 188 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：最近一次普查（214 件）为 md_extra 146／h0_extra 16／math 16／text 14／ok? 13／star 4／digit 3／entity 2；第十九批解掉其中嵌套引块 26 件，**须重跑再定**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）。
+**缺口 181 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：最近一次普查（188 件）为 md_extra 120／h0_extra 17／math 15／text 14／ok? 13／star 4／digit 3／entity 2；本批解掉 `note-<年>` 伪键 7 件，**须重跑再定**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）。
 
 - **md_extra（146）**：实为分类启发式的兜底——抽样诊断（`script/tmp/md_extra_diag.py`）显示 144/146 的 u 键流**不等**，多为引块/表格/图片/公式的版式错位被误判“文字多出”；其中 26 件属嵌套引块族（第十九批已解），其余逐件取证。**不是** specs/001 同步漂移。
 - **h0_extra 余件**：书目题后尾字（hobbes-science 的 `</h3> Works by Hobbes`、boethius-dacia 的 `See section 2, above.`、gregory-rimini 的题内注）与裸名条目（leibniz-ethics `Descartes, René`）；两者都属“H0 事项未入 md／账”。
@@ -410,9 +422,9 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 **B3.1 转红 3 件（W8）——定案：接受残留，不修**。取证：engels 实际漂移 22 条定义（`engels-*→marx-*`）、foucault 1 条（`foucault-2018→cours-2018`）、kant-religion 2 条（`kant-religion-*→kant’s-*`）。根因：R 把全部文献定义放在 References 区**最后一个标题之后**的单 `<ul>` 里，C 的 `build_cite_keys` 按 section 邻接继承姓氏，年份起首条目因而继承前一节末条（Marx）。候选修法成本实测：①年份起首不继承、统一 fallback → 改判 **1,580 条／121 件**键名（含把合法的 `lewis/Church` 类换成 slug 键，且影响译注标记），需全量重转；②同小节换 `<ul>` 重置 prev → 19 件（30 处）现有键被改判；③R 按键姓段切 ul → 账与补丁全量重算。收益 3 件（0.16%）且仅键名标签、定义文字与顺序全等（三件 B3.2 均 pool）。故**不修**，登记为已知残留。
 
 **下一批入口**（按收益排序）：
-1. **md_extra 余件归族**：第十九批解掉嵌套引块 26 件后，重跑分族普查（`b32_families2.py`）再定；现有 144 件不等流按「表格／图片题注／公式版式」三面再分子族。
+1. **md_extra 余件（120）**：由分类启发式兜底而来（u 键流实测不等），按「表格／图片题注／公式版式」三面再分子族；嵌套引块族已解。
 2. **`math_dollar` 按位账**：数学体 `\$` 双源（裸 `$` vs 原文 `\$`）不可反演，逐 span 记源形后可解 dutch-book／formal-epistemology／recursive-functions 等（8 件）。
-3. **题后散字与裸名条目入账**：见上 h0_extra 条——账记「题后尾字」（按标题位次）与「被跳过条目」，渲染侧发裸文字/裸 li。
+3. **题后散字与裸名条目入账（h0_extra 余 17）**：账记「题后尾字」（按标题位次）与「被跳过条目」，渲染侧发裸文字/裸 li。
 4. **`apply verify failed` 族**（common-knowledge、bayes-theorem 等）：`u` 补丁在合并块的空白/实体计账（`tx` 切片失配、`&nbsp;` 差异），属补丁模型专项。
 5. **sup 上标字形**（logic-connexive 等）：`^{−}` vs 原生 `⁻` 的双向映射。
 

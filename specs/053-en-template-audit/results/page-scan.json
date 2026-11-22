@@ -2,22 +2,64 @@
  "schema": "sep-cn-b32-page/2",
  "generated_by": "specs/053 bin/page_assemble.py",
  "mode": "build-pool",
- "total": 1,
+ "total": 7,
  "counts": {
   "rule": 0,
-  "pool": 1,
+  "pool": 7,
   "gap": 0,
   "stale": 0
  },
- "page_bytes": 149971,
- "pool_bytes": 60926,
+ "page_bytes": 1033327,
+ "pool_bytes": 637232,
  "entries": [
   {
-   "slug": "scientific-representation",
+   "slug": "aristotle-politics",
    "status": "pool",
-   "n_patches": 196,
-   "page_len": 149971,
-   "pool_bytes": 60926
+   "n_patches": 274,
+   "page_len": 111667,
+   "pool_bytes": 65667
+  },
+  {
+   "slug": "hutcheson",
+   "status": "pool",
+   "n_patches": 264,
+   "page_len": 98716,
+   "pool_bytes": 58200
+  },
+  {
+   "slug": "ibn-gabirol",
+   "status": "pool",
+   "n_patches": 190,
+   "page_len": 117366,
+   "pool_bytes": 102105
+  },
+  {
+   "slug": "relations-medieval",
+   "status": "pool",
+   "n_patches": 148,
+   "page_len": 142462,
+   "pool_bytes": 104332
+  },
+  {
+   "slug": "schlick",
+   "status": "pool",
+   "n_patches": 135,
+   "page_len": 138731,
+   "pool_bytes": 69050
+  },
+  {
+   "slug": "universals-medieval",
+   "status": "pool",
+   "n_patches": 166,
+   "page_len": 153326,
+   "pool_bytes": 105405
+  },
+  {
+   "slug": "vienna-circle",
+   "status": "pool",
+   "n_patches": 398,
+   "page_len": 271059,
+   "pool_bytes": 132473
   }
  ]
 }

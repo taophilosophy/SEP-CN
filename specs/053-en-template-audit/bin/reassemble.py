@@ -53,7 +53,9 @@ TRIAL = ["leucippus", "david", "elias", "peirce-benjamin", "evolution",
 
 MD_HEAD_RE = re.compile(r"^(#{1,6})\s+(.*?)\s*$")
 MD_DEF_RE = re.compile(r"^\[\^([^\]\s]+)\]:(.*)$", re.S)
-NOTEDEF_KEY_RE = re.compile(r"^note-\d+$")
+# 脚注键：`note-<id>`，例外＝后缀四位年份者（书目区散文段被 C 当条目建键，
+# `note-2005` 判例）——与 article_ledger._is_note_key 同判据（账与 R 同语料）
+NOTEDEF_KEY_RE = re.compile(r"^note-(?!1[5-9]\d\d\b|20\d\d\b)\S+$")
 MD_LIST_RE = re.compile(r"^(\s*)([-*+]|\d+[.])\s+(.*)$")
 OL_ITEM_RE = re.compile(r"^(\d+)\.\s+(.*)$")
 UL_ITEM_RE = re.compile(r"^[-*+]\s+(.*)$")
@@ -759,8 +761,7 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
     bib_defs = []     # 文献定义（非 note-*），两遍扫描：先收集
     for ln in lines:
         dm = MD_DEF_RE.match(ln)
-        if dm and not (NOTEDEF_KEY_RE.match(dm.group(1))
-                       or dm.group(1).startswith("note-")):
+        if dm and not NOTEDEF_KEY_RE.match(dm.group(1)):
             bib_defs.append(dm.group(2).strip())
     bib_ul_emitted = False
     while i < n:
