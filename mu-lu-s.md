@@ -17,7 +17,6 @@ outline: [1, 6]
 * [高级工具](guan-yu/gao-ji-gong-ju.md)
 * [联系信息](guan-yu/lian-xi-xin-xi.md)
 
-
 # 西方哲学史
 
 ## 古代哲学
@@ -1376,12 +1375,12 @@ outline: [1, 6]
 
 * [现象学 Phenomenology (David Woodruff Smith)](p/phenomenology.md)
 
-#### 布伦塔诺学派与早期现象学
-
-##### 布伦塔诺
+#### 现象学前驱
 
 * [弗朗兹·布伦塔诺 Franz Brentano (Wolfgang Huemer)](b/brentano.md)
   * [布伦塔诺的判断理论 Brentano’s Theory of Judgement (Johannes L. Brandl、Mark Textor)](b/brentano-judgement.md)
+
+#### 布伦塔诺学派与早期现象学
 
 ##### 斯图姆夫与马蒂
 
