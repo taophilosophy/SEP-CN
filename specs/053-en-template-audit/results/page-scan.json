@@ -2,64 +2,50 @@
  "schema": "sep-cn-b32-page/2",
  "generated_by": "specs/053 bin/page_assemble.py",
  "mode": "build-pool",
- "total": 7,
+ "total": 5,
  "counts": {
   "rule": 0,
-  "pool": 7,
+  "pool": 5,
   "gap": 0,
   "stale": 0
  },
- "page_bytes": 1033327,
- "pool_bytes": 637232,
+ "page_bytes": 506807,
+ "pool_bytes": 251190,
  "entries": [
   {
-   "slug": "aristotle-politics",
+   "slug": "abduction",
    "status": "pool",
-   "n_patches": 274,
-   "page_len": 111667,
-   "pool_bytes": 65667
+   "n_patches": 115,
+   "page_len": 95709,
+   "pool_bytes": 38360
   },
   {
-   "slug": "hutcheson",
+   "slug": "abhidharma",
    "status": "pool",
-   "n_patches": 264,
-   "page_len": 98716,
-   "pool_bytes": 58200
+   "n_patches": 120,
+   "page_len": 110791,
+   "pool_bytes": 72738
   },
   {
-   "slug": "ibn-gabirol",
+   "slug": "abilities",
    "status": "pool",
-   "n_patches": 190,
-   "page_len": 117366,
-   "pool_bytes": 102105
+   "n_patches": 117,
+   "page_len": 110344,
+   "pool_bytes": 46430
   },
   {
-   "slug": "relations-medieval",
+   "slug": "adaptationism",
    "status": "pool",
-   "n_patches": 148,
-   "page_len": 142462,
-   "pool_bytes": 104332
+   "n_patches": 129,
+   "page_len": 84741,
+   "pool_bytes": 58584
   },
   {
-   "slug": "schlick",
+   "slug": "addams-jane",
    "status": "pool",
-   "n_patches": 135,
-   "page_len": 138731,
-   "pool_bytes": 69050
-  },
-  {
-   "slug": "universals-medieval",
-   "status": "pool",
-   "n_patches": 166,
-   "page_len": 153326,
-   "pool_bytes": 105405
-  },
-  {
-   "slug": "vienna-circle",
-   "status": "pool",
-   "n_patches": 398,
-   "page_len": 271059,
-   "pool_bytes": 132473
+   "n_patches": 123,
+   "page_len": 105222,
+   "pool_bytes": 35078
   }
  ]
 }
