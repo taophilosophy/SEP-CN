@@ -50,3 +50,6 @@
 * 取证：Wikidata 逐人查（限流退避；凭证 `results/people-wikidata-2026-11-22-b3.tsv`）。Stephen Davies 首检命中英国法官，改查 Q7609025（新西兰美学家，1950–）；公孙龙生卒取 Wikidata 前325／前250 约数，记“约前325–前250”。
 * 落册：`term_flow` 干跑 10/0，实写 10；人名表 4583 数据行守恒；`check_terms` 硬错误 0；`check_all` 17 项全绿。
 * 当日累计：术语表 246 行；人名表 38 行（13＋15＋10）。
+* 著作名第三批：7 部：Port Royal Logic、Outlines of Pyrrhonism、Considerations on Representative Government、Lectures on Ethics、Book of Changes、Enquiry concerning Human Understanding、Thoughts Concerning Education。先查审定库（命中“图书／讲师／理解／教育思想”等他义），转权威译本登记：《波尔·罗亚尔逻辑》《皮浪主义纲要》《代议制政府》《伦理学讲座》《易经》《人类理解研究》《教育漫话》。
+* 落册：`term_flow` 干跑 7/0，实写 7；`registry_azsort` 术语表 7254 行守恒；`check_terms` 硬错误 0。
+* 当日累计：术语表 253 行（246＋7）；人名表 38 行。

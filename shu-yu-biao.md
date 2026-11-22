@@ -717,6 +717,7 @@
 | bona fide | bona fide | 真实的 | justep-coherence | 学界惯例（哲学通译“真正的/bona fide”） | 2026-11-02 |
 | Boniform Faculty | — | 善形官能 | cambridge-platonists 首译 | 莫尔自铸术语（bonum 善 + forma 形，领会“善”的特殊官能）；直译，学界暂无通行汉译 | 2026-11-08 |
 | Book of Causes (Liber de Causis) | — | 《原因之书》 | 首现（theology-aristotle） | 学界通行（拉丁题名 Liber de Causis 通译原因之书）；凭证 2026-11-08 | 2026-11-08 |
+| Book of Changes | — | 《易经》 | 语料回收（specs/058 全库提取） | 权威译本（中国经典通行译名；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
 | Book of Common Prayer | — | 《公祷书》 | 首现（emotion-Christian-tradition） | 学界惯例（安立甘宗通行）；凭证 2026-11-04 | 2026-11-04 |
 | Book of Doctrines and Beliefs | — | 《教义与信仰之书》 | 首译（saadya） | 学界通行（Saadya, Kitâb al-Amânât wal-'I‘tiqâdât 书名汉译；正文简称《阿玛纳特》）；凭证 2026-11-09 | 2026-11-09 |
 | Book on the Pure Good | — | 《论纯善之书》 | 首现（theology-aristotle） | 照题直译（伪亚氏著作，阿拉伯文原本题名）；凭证 2026-11-08 | 2026-11-08 |
@@ -1205,6 +1206,7 @@
 | conservatism | — | 保守主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Conservativeness | — | 保守性 | 语料回收（specs/050 候选池） | 条目语境研判（证明论固定词（保守扩张保守性）；审定“守恒性”为 Petri 网义）；审定名词库（termonline-all·计算机科学技术·理论计算机科学·佩特里网，2026-11-18 JWT 直连凭证，审定作“守恒性”）；旧键“conservativity”并入（2026-11-21 撞形处置；旧键首现：hilbert-program 首译） | 2026-11-21 |
 | conserved quantity | — | 守恒量 | scientific-explanation-20th | 学界通行（物理学既有译名；Dowe 2000 守恒过程理论）；凭证 2026-11-10 | 2026-11-10 |
+| Considerations on Representative Government | — | 《代议制政府》 | 语料回收（specs/058 全库提取） | 权威译本（密尔著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
 | considered judgment | — | 深思熟虑的判断 | reflective-equilibrium | 学界惯例（Rawls《正义论》汉译通行）；凭证 2026-11-11 | 2026-11-11 |
 | consignificatio | — | 共意谓 | peter-spain | 构词直译（本册 signification=意谓 派生）；凭证 2026-11-09 | 2026-11-09 |
 | consilience | — | 汇归一致 | 首译（scientific-explanation-20th） | 学界通行（Whewell 1840；亦译“归并”“辐合”）；凭证 2026-11-10 | 2026-11-10 |
@@ -1927,6 +1929,7 @@
 | Enlightenment | — | 启蒙（时代名，视语境亦作“启蒙运动”） | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
 | Enneads | Ἐννεάδες | 《九章集》 | evil-kinds-origins（theology-aristotle 同条） | 学界通行（普罗提诺著作标准汉译）；凭证 2026-11-08；2026-11-12 合并重复行 | 2026-11-12 |
 | ennoēma | ἐννόημα | 内在思想对象 | intentionality-ancient | 斯多葛术语（en+noēma“在思想中者”）；随文保留拉丁；原文列联网查证：LSJ《希腊英语大辞典》ἐννόημα 条（2026-11-13 查，凭证 orig-verify-2026-11-13-b2.tsv） | 2026-11-13 |
+| Enquiry concerning Human Understanding | — | 《人类理解研究》 | 语料回收（specs/058 全库提取） | 权威译本（休谟著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
 | ens inquantum ens | ens inquantum ens | 作为存在的存在 | 语料回收（marsilius-inghen 首译） | 形而上学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | ens simpliciter / ens quodammodo | — | 绝对意义的存在者／某种意义的存在者 | peter-spain | 学界通行（中世纪存在论）；凭证 2026-11-09 | 2026-11-09 |
 | ensemble | — | 系综 | qm | 审定名词库（化工名词 02.103；物理学统计力学通行）；凭证 2026-11-10 | 2026-11-11 |
@@ -3518,6 +3521,7 @@
 | Lebensgefühl | Lebensgefühl | 生命情感 | dilthey 首译 | 狄尔泰术语（卡尔纳普《作为生命情感之表达的形而上学》所引）；学界通行；凭证 2026-11-11；原文列联网查证：012 B1 拉丁原拼写先例：德语原词原文即键（证据=键列本体＋SEP 书目同形）（2026-11-13 查，凭证 orig-verify-2026-11-13-b2.tsv） | 2026-11-13 |
 | Lebensmanifestation | Lebensmanifestation | 生命显现 | yorck 首译 | B 档：词面直译（作者英译 a manifestation of life）；凭证 2026-11-11 | 2026-11-11 |
 | Lebensstellung | Lebensstellung | 生活态度 | yorck 首译 | B 档：词面直译（作者英译 stance towards life）；凭证 2026-11-11 | 2026-11-11 |
+| Lectures on Ethics | — | 《伦理学讲座》 | 语料回收（specs/058 全库提取） | 权威译本（康德著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
 | left-continuous | — | 左连续 | logic-fuzzy | 数学通行译法；凭证 2026-11-09 | 2026-11-09 |
 | legal authority | — | 法律权威 | 语料回收（specs/050 候选池） | 条目语境研判（语境为法律权威（aquinas/causation-law）；审定“法理型权威”系韦伯 legal-rational authority 义）；审定名词库（termonline-all·管理科学技术·一般管理理论·管理思想史，2026-11-18 JWT 直连凭证，审定作“法理型权威”） | 2026-11-19 |
 | legal rights | — | 法定权利 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
@@ -4612,6 +4616,7 @@
 | otherworldliness | — | 出世性（亦作“出世倾向”） | george-eliot 首译 | 学界通行（与 worldliness 入世对举） | 2026-11-12 |
 | ou mallon | οὐ μᾶλλον | 并不更 | democritus | 学界通行（原子论—怀疑论“无差异”论证式；正文完整式作“并不比…更”）；旧键“ouden mallon”并入（2026-11-21 逐行研判；旧键首现：首现（timon-phlius）） | 2026-11-21 |
 | Outline of Pyrrhonism | Πυρρώνειοι ὑποτυπώσεις | 《皮浪主义纲要》 | epicurus | 学界通行（塞克斯都·恩披里柯） | 2026-11-12 |
+| Outlines of Pyrrhonism | — | 《皮浪主义纲要》 | 语料回收（specs/058 全库提取） | 权威译本（塞克斯都·恩披里柯著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
 | outside option | — | 外部选项 | justice-moral-psych | 博弈论通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Over-Soul | — | 超灵 | emerson | 学界通行（爱默生《论超灵》） | 2026-11-07 |
 | overdetermination | causal overdetermination | 过度决定（因果过度决定） | occasionalism 首译 | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
@@ -4940,6 +4945,7 @@
 | pornographic art | — | 色情艺术 | 首现（erotic-art） | 学界通行（pornographic 译“色情的”） | 2026-11-08 |
 | pornography | — | 色情 | 首现（erotic-art） | 学界通行 | 2026-11-08 |
 | poroi | πόροι | 通道 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
+| Port Royal Logic | — | 《波尔·罗亚尔逻辑》 | 语料回收（specs/058 全库提取） | 权威译本（阿尔诺与尼科尔著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
 | Port-Royal Logic | La Logique ou l’Art de penser | 《波尔-罗亚尔逻辑》（国内亦称“王港逻辑”） | journal 2024-05-27 | 《波尔-罗亚尔逻辑》国内译名考（zhexueshi.com，日志 2024-05-27 引；书名行 ADR-0011）；2026-11-15 日志增补 | 2026-11-15 |
 | portfolio analysis | — | 组合分析 | risk | 学界惯例（Markowitz 1952 以来金融经济学通行）；凭证 2026-11-09 | 2026-11-09 |
 | positing (Setzung) | Setzung | 设定 | brentano-judgement 首译 | 布伦塔诺/斯图姆夫术语通行译法；凭证 2026-11-09；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
@@ -6739,6 +6745,7 @@
 | thought insertion | — | 思维插入 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·精神医学·症状与体征·思维障碍症状，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | thought police | — | 思想警察 | 语料回收（lakatos 首译） | 《一九八四》通行译法；凭证 2026-11-06 | 2026-11-06 |
 | thought theory | — | 思想理论 | paradox-suspense | 分析美学通行（Carroll 的情绪反应思想理论）；凭证 2026-11-09 | 2026-11-09 |
+| Thoughts Concerning Education | — | 《教育漫话》 | 语料回收（specs/058 全库提取） | 权威译本（洛克著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
 | three-valued semantics | — | 三值语义 | logic-substructural | 多值逻辑通行译法；凭证 2026-11-10 | 2026-11-09 |
 | threnody | — | 挽歌 | paradox-of-tragedy | 学界惯例（诗体/音乐通行）；凭证 2026-11-10 | 2026-11-10 |
 | thrownness | — | 被抛性 | existentialism-mexican | 海德格尔 Geworfenheit 通行汉译；源文 thrown/thrownness；凭证 2026-11-12 | 2026-11-12 |

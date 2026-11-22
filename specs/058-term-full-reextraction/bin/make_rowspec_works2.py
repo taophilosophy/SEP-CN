@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-"""著作名第二批 rowspec：包含式查重 + 权威译本依据。"""
+"""著作名 rowspec：包含式查重 + 权威译本依据（可传 --tsv/--out/--batch）。"""
+import argparse
 import json
 import os
 import re
@@ -32,25 +33,36 @@ def dupe(k):
     return None
 
 
-rows, skipped = [], []
-for line in open(os.path.join(RES, 'curated-works2.tsv'), encoding='utf-8'):
-    if not line.strip():
-        continue
-    en, rest = line.rstrip('\n').split('\t')
-    zh, note = rest.split('|', 1)
-    hit = dupe(en.casefold())
-    if hit:
-        skipped.append('%s（已登记：%s）' % (en, hit))
-        continue
-    rows.append({'en': en, 'zh': zh, 'table': 'term',
-                 'first_seen': '语料回收（specs/058 全库提取）',
-                 'basis': '权威译本（%s；审定库无对口条目，2026-11-22）；凭证 2026-11-22' % note,
-                 'date': '2026-11-22'})
-json.dump({'batch': '058-batch4-works', 'date': '2026-11-22',
-           'scope': '著作名第二批（术语在线无对口命中，依据权威译本）',
-           'rows': rows},
-          open(os.path.join(RES, 'rowspec-batch4-works.json'), 'w',
-               encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
-print('rows=%d skipped=%d' % (len(rows), len(skipped)))
-for s in skipped:
-    print('  skip', s)
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--tsv', default='curated-works2.tsv')
+    ap.add_argument('--out', default='rowspec-batch4-works.json')
+    ap.add_argument('--batch', default='058-batch4-works')
+    ap.add_argument('--scope', default='著作名批次（术语在线无对口命中，依据权威译本）')
+    args = ap.parse_args()
+    rows, skipped = [], []
+    for line in open(os.path.join(RES, args.tsv), encoding='utf-8'):
+        if not line.strip():
+            continue
+        en, rest = line.rstrip('\n').split('\t')
+        zh, note = rest.split('|', 1)
+        hit = dupe(en.casefold())
+        if hit:
+            skipped.append('%s（已登记：%s）' % (en, hit))
+            continue
+        rows.append({'en': en, 'zh': zh, 'table': 'term',
+                     'first_seen': '语料回收（specs/058 全库提取）',
+                     'basis': ('权威译本（%s；审定库无对口条目，2026-11-22）；'
+                               '凭证 2026-11-22' % note),
+                     'date': '2026-11-22'})
+    json.dump({'batch': args.batch, 'date': '2026-11-22', 'scope': args.scope,
+               'rows': rows},
+              open(os.path.join(RES, args.out), 'w',
+                   encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
+    print('rows=%d skipped=%d' % (len(rows), len(skipped)))
+    for s in skipped:
+        print('  skip', s)
+
+
+if __name__ == '__main__':
+    main()
