@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 299099,
-  "pool_bytes": 153551,
-  "n_patches": 512
+  "pool_bytes": 153428,
+  "n_patches": 509
  },
  "patches": [
   {
@@ -101742,75 +101742,9 @@
    ]
   },
   {
-   "u": 162404,
-   "len": 92,
-   "sha": "a604f54e1867b1b7",
-   "items": [
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     13,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     15,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     18,
-     15
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     33,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     35,
-     11
-    ]
-   ]
-  },
-  {
-   "u": 162506,
-   "len": 485,
-   "sha": "687be7bc4308e87c",
+   "u": 162466,
+   "len": 525,
+   "sha": "45a1428b5435e841",
    "items": [
     [
      "mk",
@@ -111448,82 +111382,7 @@
    "after": "</li>\n"
   },
   {
-   "u": 181691,
-   "len": 93,
-   "sha": "5046a4c656934a01",
-   "items": [
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     13,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     24,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     27,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     30,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     40,
-     7
-    ]
-   ]
-  },
-  {
-   "u": 182537,
+   "u": 182498,
    "len": 198,
    "sha": "2efc927fa3413e16",
    "items": [
@@ -111799,9 +111658,9 @@
    ]
   },
   {
-   "u": 185176,
-   "len": 239,
-   "sha": "379b922afdf2f4cd",
+   "u": 185137,
+   "len": 278,
+   "sha": "f8a25bb9bd04b5cd",
    "items": [
     [
      "mk",
@@ -126851,37 +126710,7 @@
    ]
   },
   {
-   "u": 205456,
-   "len": 66,
-   "sha": "c2612c52368faf06",
-   "items": [
-    [
-     "tx",
-     0,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     5,
-     13
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     18,
-     10
-    ]
-   ]
-  },
-  {
-   "u": 205532,
+   "u": 205496,
    "len": 245,
    "sha": "0e15bd5469bb9609",
    "items": [
@@ -127160,7 +126989,7 @@
    ]
   },
   {
-   "u": 206428,
+   "u": 206392,
    "len": 1450,
    "sha": "85f3203fb464d184",
    "items": [
@@ -129320,15 +129149,15 @@
    ]
   },
   {
-   "r": 207884,
+   "r": 207848,
    "len": 913,
    "sha": "312333faf1d6396d",
    "after": "<div class=\"figure\">\n<img alt=\"Illustration showing one of three different surfaces (a sphere, a plane, and a saddle) representing the notion of curvature of a surface at a point p of the surface. The illustration displays how the three surfaces can be used to to model various geometries (elliptic, euclidean, and hyperbolic) each of which is characterized by a different curvature of the surface, positive for elliptic, null for Euclidean, and negative for hyperbolic geometry. Here, a triangle is shown on a sphere surface and the sum of the interior angles of the triangle is larger than 180 degrees.\" src=\"spherical.png\" style=\"width:300px\" />\n<br />\n<img alt=\"Here, a triangle is shown on a plane and the sum of the interior angles of the triangle is 180 degrees.\" src=\"euclidean.png\" style=\"width:450px\" />\n<br />\n<img alt=\"Here, a triangle is shown on a saddle surface and the sum of the interior angles of the triangle is less than 180 degrees.\" src=\"hyperbolic.png\" style=\"width:400px\" />\n</div>\n\n"
   },
   {
-   "u": 209403,
-   "len": 1136,
-   "sha": "18063b18b6cc96b1",
+   "u": 209367,
+   "len": 1172,
+   "sha": "1abad970c9c17db6",
    "items": [
     [
      "mk",

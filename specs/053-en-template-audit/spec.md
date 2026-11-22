@@ -274,30 +274,54 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①“账记逐字”的区间必须**整体退出**后续文本处理器——折行器作用于全页时，逐字承诺即作废，且破坏的是文字段对齐（后果是整页 gap，不是局部补丁）；②列表类结构（ol/ul/dl）在 C 侧一律降级为散文，右逆要还原就必须把“哪些散文属于该结构”记进账：账记**索引与属性**，文字仍归 md，才是单一事实源；③配对失败要**回落**而非硬发，宁可留格式层差不制造文字层缺失。
 
+## 10.10 B3.2 第十一批实施记（2026-11-22，链接落位守卫组与账归一化转义还原）
+
+**缺陷一（链接挂到标题上，bruno 判例）**：内文“见下文 Other Internet Resources 一节”的散文链接与标题同文，游标前置失配时链接被挂到 `<h2 id="Oth">` 上，标题 `txt` 带标签致 `REGION_HEADS` 认不出，整个 OIR 节并进 main-text。修法：标题行不消费链接（全库正文标题内 href 链接 0 件，跳过安全；`<a name>` 形不入账不受影响）。该族 133 件预检：97 pool→pool、3 gap→pool、0 退化。
+
+**缺陷二（链接落进数学体／列表标记，infinity／trinity 判例）**：短锚文（`1`）在词界匹配后落进 `$…=1$`（右逆发 `\(…=1\)` 破坏公式）或有序列表 `1. ` 标记上（行首成 `[1](…)`，列表解析失效）。修法：候选位先过数学区间（`_math_spans`，与 `_scan_stash_math` 同判据）与列表标记区间守卫。
+
+**缺陷三（锚文跨强调定界星，infinity 判例）**：锚文可见跨度可跨过闭星（`*interpretations* of probability` 取后半句），直接插入使 `<a>` 跨 `<em>` 边界。修法：跨度内定界星不配对时**就地**扩展（只认紧邻星，最多 4 步；不能就地配平则弃此候选，绝不向远处吞字），产出 `[*interpretations* of probability](…)`。同时撤除锚文 `replace("*", "\\*")` 旧法——字面星 C 侧已转义为 `\*`（第六批文本层全转义），旧法反把强调定界星打成字面星。
+
+**缺陷四（账归一化不认 C 的转义，heidegger 判例）**：`norm_md` 只去星不去反斜杠，C 第六/九批起写入的 `1\.`、`(\*)` 在可见文等值上全部失配，书目 `dl` 配对失败回落散文。修法：`\*` 先占位、其余 `\x` 还原为字面字符（`\*` 占位须先于去星，否则字面星被当强调星删掉）。
+
+**实测**：池 **1,529→1,567（83.7%）／缺口 306／stale 0**，转池 38、失池 0，池占页 **41.00%**；B3.1 1,585 持平（本批 R 改动只在 links 非空路径生效）。
+
+**教训**：①链接落位守卫是**组合**而非单条——标题／数学／列表／强调四类位置互不包含，缺一即从别处漏出；②首版守卫单独上线时全库 −2（infinity／trinity 转红），按失池件逆向定位才见裸星与数学体两处真因——**净值为正不等于无损，失池件必须逐件定性**；③扩展必须“就地或弃”，远处吞字会把锚文语义搞坏（读者可见错误比 gap 更糟）。
+
+## 10.11 B3.2 第十二批实施记（2026-11-22，行首列表标记转义与书目引块位次账）
+
+**缺陷一（行首 `+ ` 被当无序列表，berkeley 判例）**：H0 引块首行 `+ Mind is a congeries…`，md `> + Mind …` 的 `+` 成列表标记，符号丢失且体例失真。修法：C 侧 `_escape_leading_hash` 增行首 `[-+] ` → `\-`／`\+`，R 侧 `\x19`／`\x1a` 占位还原（全库仅 1 件）。
+
+**缺陷二（上游断锚成空键引用，ratnakirti 判例）**：H0 `<a href="notes.html#">note 20</a>` 空片段，C 生成 `[^note-]` 空键（无定义、右逆无从还原）。修法：空片段按纯文字照录（链接形态交池）。
+
+**缺陷三（书目区内容引块整块丢失，20 件有账）**：`scan_bib` 的 `BI_START` 不含 `<blockquote>`，账无位次；R 的 References 区分支又把区内所有 `>` 行一律跳过（原意只是跳过 C 注入的“原文参考文献已转为脚注引用”固定注，已在区首消费）——H0 用引块排的版本条目（berkeley 的 `[W]`）两侧同丢。修法：账增 `bq` 位次（`["bq", n]`，只记位次不记文字），R 抽出 `_render_bq`（主循环与 References 区共用），区内内容引块按位次取 md 的 `>` 块发射。
+
+**实测**：B3.1 **1,585→1,592（+7，转红 0）**（转绿 aquinas／hamann／hume-religion／justice-distributive／leibniz-mind／scheler／theophrastus）；受影响 21 件定点重建 → 池 **1,567→1,578（84.3%）／缺口 295／stale 0**，11 件 gap→pool（aquinas／berkeley／feminism-femhist／frege／hamann／hume-religion／justice-distributive／leibniz／leibniz-mind／scheler／theophrastus）、0 反退，池占页 **41.34%**。
+
+**教训**：①“跳过某类行”的规则要写明**跳过谁**——按前缀一刀切（区内所有 `>`）会把同形的正文内容一并吞掉，正确判据是固定注的精确前缀；②同一渲染分支出现在两处时先抽函数再改（`_render_bq`），否则一处修、一处漏；③账记位次而非文字，R 侧按位次取 md 块，仍然是单一事实源。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
 
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
-| B3.1 往返不动点 | **1,585/1,873（84.6%）**，集合级 0 退化（对 `results/assembly-scan-all.json`） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,529（81.6%）／gap 344／stale 0**，池占页 39.65% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.1 往返不动点 | **1,592/1,873（85.0%）**，集合级 0 退化（对 `results/assembly-scan-all.json`） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
+| B3.2 页面装配 | **pool 1,578（84.3%）／gap 295／stale 0**，池占页 41.34% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 344 分族**（`script/tmp/b32_families2.py <scan-json>`，读 gap 件）：md_extra 173／text 41／h0_extra 40／star 39／math 23／digit 19／ok? 6／entity 3。
+**缺口 295 分族**（`script/tmp/b32_families2.py <scan-json>`）：现查 `script/tmp/gap-families2.json`（最近一轮：md_extra 173 居首）。
 
-- **md_extra 173**：md 有而 H0 无＝md 与 en 版本差／译注污染，属 specs/001 同步线（`compare` 漂移），**不修规则**。这是当前最大族，B3.2 分母的收敛上限由它决定。
-- **h0_extra 40**：H0 文字层有、md 无的残留——本批已修书目 `<dl>` 缩写键块（`bib_dl`）；剩余按 §10.9 残留族：dd 内嵌 `<ol>`（heidegger）、书目区说明段（leibniz-exoteric）、书目区整节位置漂移（bruno）、交叉引用注 → 空键 `[^note-]`（ratnakirti／boethius-dacia）、dl 折进脚注定义（leibniz-ethics／levinas）、手排号与分节标题的漏网件。
-- **text 41／digit 19／star 39／math 23**：逐件仍待定位。
-- **ok? 6**：逐件判定器未报出可定位首差的件（多为区间合并到末尾仍不等，属多族叠加）。
+- **md_extra**：md 有而 H0 无＝md 与 en 版本差／译注污染，属 specs/001 同步线（`compare` 漂移），**不修规则**。这是最大族，B3.2 分母的收敛上限由它决定。
+- **书目区散文折叠进脚注定义**（leibniz-exoteric／ratnakirti／augustine 等）：C 把书目区 `<p>` 无作者年份散文也建成 `-nd` 伪键定义（首词成“作者名”，leibniz-exoteric 的键竟是 `note-nd`），而账侧 `defs` 列表排除 `note-` 前缀，`pd` 定位失败整段不发射。候选修法＝C 侧定案：书目区无年份散文直接落段（影响 ~265 件 579 段的定义改段落），须全量重转＋B3.1 止损。
+- **text／digit／star／math 残余**：逐件定位用 `script/tmp/probe_align2.py <slug>`（打印拒录块首差）。
 
-**已修复（第九、十批，见 §10.8／§10.9）**：①字面编号段落转义（C `N\.`＋R 还原，B3.1 +16）；②导航区 toc 退出折行链＋`wrap_html` 连续空格保真；③`bib_dl` 结构账（书目区 dl 的 dt/dd→md 散文段索引，文字仍取自 md）。
+**已修复（第九至十二批）**：①字面编号段落转义（C `N\.`，B3.1 +16）；②toc 退出折行链＋双空格保真＋`bib_dl` 账；③链接落位守卫组（标题／数学体／列表标记／强调就地配平）＋`norm_md` 转义还原；④行首 `[-+] ` 转义＋空锚按文字＋书目引块 `bq` 位次账＋`_render_bq` 抽出。
 
 **下一批入口**（按收益排序）：
-1. **分节标题与书目区位置**——bruno（Bibliography 应在 Other Internet Resources 之前）、leibniz-exoteric（书目区首段说明文字）、文献分节标题漏网件：查 `_render_bib`/`article_build` 的区序与 seq 覆盖。
-2. **交叉引用注空键**——`see note 20` → md `[^note-]`（ratnakirti／boethius-dacia）：属 C 侧注释键生成（`note-` 前缀空键），修 yuanwen.py 须全量重转＋B3.1 止损。
-3. **dd 内嵌 `<ol>`**——heidegger 判例：dt/dd 配对模型只支持并列段落，dd 内的有序列表被 C 折成多段后配对错位；候选＝`bib_dl` 的 pairs 扩为「dt + dd 多段」。
-4. **text/digit/star/math 逐件定位**（用 `script/tmp/probe_align2.py <slug>` 看拒录块首差）。
+1. **书目区散文定义化**（上述 C 侧定案）——同时解 md 里的 `[^x-nd]` 伪定义污染与 `pd` 定位失败族。
+2. **dl 的 dd 内嵌 `<ol>`**（heidegger 已转池但 ibn-rushd 等仍有版次差）与 bruno／burke／analysis／nicolai-hartmann 等逐件定位。
+3. **md_extra 173**：转 specs/001 同步线（`compare` 漂移清单核对），不属本线规则。
 
-**流程提醒**：动 C 必全量重转（`python -B tools/yuanwen.py --all-baselined`，约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；**账（article_ledger）重抽约 7 分钟，重抽后必须 diff 校验变更范围只含预期件与预期键**；基线 `results/assembly-scan-all.json` 与 `results/page-scan-all.json` 只在收敛后人工更新并提交。
+**流程提醒**：动 C 必全量重转（约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；**小改动可走定点重建＋judge 拼接**（受影响件集＝账 diff 的 slug 集＋md 变件，见 `script/tmp/splice_b12.py`）；基线只在收敛后人工更新并提交。

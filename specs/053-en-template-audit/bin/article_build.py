@@ -491,6 +491,7 @@ def _render_bib(bib, hid_map, ledger):
         bh = ledger.get("bib_heads") or []
         bhi = [0]
         tables = [b for b in body if b.startswith("<table")]
+        bqs = [b for b in body if b.startswith("<blockquote")]
         tb_i = [0]
         for kind, idx in seq:
             if kind == "h":
@@ -525,6 +526,11 @@ def _render_bib(bib, hid_map, ledger):
                 # 散文被 C 折成定义行（`[^following-nd]:` 判例）：原位发 <p>
                 if isinstance(idx, int) and idx < len(items):
                     parts.append("<p>\n%s</p>\n\n" % items[idx])
+            elif kind == "bq":
+                # 书目区引块（berkeley 的 `[W]` 版本条目）：R 侧 body 内对应位次
+                # 的 blockquote 块原样发（文本取自 md `>` 块，账只记位次）
+                if isinstance(idx, int) and idx < len(bqs):
+                    parts.append("%s\n\n" % bqs[idx])
             elif kind == "dl":
                 # 定义表（缩写键块）：dt/dd 文字从 md 段取，属性由账记
                 # （alain-locke 判例：旧实现整块漏发，23 件书目区 dl 全 gap）

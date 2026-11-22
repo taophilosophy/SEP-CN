@@ -224,13 +224,22 @@ SUB_MAP = getattr(__import__("yuanwen"), "SUB_MAP", {})
 
 
 def norm_md(s):
-    """md 定义行 → 可见文（去链接包裹/星号/上下标字形）。
+    """md 定义行 → 可见文（去链接包裹/星号/上下标字形/反斜杠转义）。
 
     URL 可含一级圆括号（`ERInt.2013(1(2)).pdf` 实证，al-farabi-logic 文献
-    条目匹配失败判例），故 URL 组允许括号对。"""
+    条目匹配失败判例），故 URL 组允许括号对。
+
+    转义还原（2026-11-22，heidegger 判例）：C 自第六/九批起对字面 `*`／`$`／
+    `\\`／行首 `N.`／`#` 逐字转义，md 侧 `1\\.` 与 H0 `1.`、`(\\*)` 与 `(*)`
+    本应等值；旧实现只去星不去反斜杠，含转义的条目在可见文等值上全部失配
+    （书目 dl 配对失败回落散文 → 整块结构差）。`\\*` 须先占位再移除强调星，
+    否则字面星被当强调星删掉（dilthey `(*)` 判例）。"""
+    t = s.replace("\\*", "\x01")
     t = re.sub(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]"
-               r"\(((?:[^()\s]|\([^()]*\))*)\)", r"\1", s)
+               r"\(((?:[^()\s]|\([^()]*\))*)\)", r"\1", t)
     t = t.replace("*", "")
+    t = t.replace("\x01", "*")
+    t = re.sub(r"\\(.)", r"\1", t)
     rev = {v: k for k, v in list(SUP_MAP.items()) + list(SUB_MAP.items())}
     if rev:
         cls = "".join(__import__("re").escape(c) for c in rev)
@@ -249,7 +258,7 @@ def norm_html(s):
 
 
 BI_START = re.compile(r"<h([2-6])[^>]*>|<ul[^>]*>|<ol[^>]*>|<table[^>]*>"
-                      r"|<dl[^>]*>|<p>", re.S)
+                      r"|<dl[^>]*>|<blockquote[^>]*>|<p>", re.S)
 
 
 def _match_close(region, start, open_pat, close_pat):
@@ -297,7 +306,8 @@ def split_items(inner):
 
 def scan_bib(region):
     """文献区按文档序解析 → [("h", level, inner) | ("ul", [(attrs, inner)])
-    | ("dl", attrs, [(dt_attrs, dt_inner, dd_attrs, dd_inner)]) | ("p", inner)]"""
+    | ("dl", attrs, [(dt_attrs, dt_inner, dd_attrs, dd_inner)]) | ("p", inner)
+    | ("bq", inner)]"""
     out = []
     i = 0
     while i < len(region):
@@ -338,6 +348,15 @@ def scan_bib(region):
                          r"<dt([^>]*)>(.*?)</dt>\s*<dd([^>]*)>(.*?)</dd>",
                          inner, re.S)]
             out.append(("dl", m.group(0)[len("<dl"):-len(">")], pairs))
+            i = t.end()
+        elif m.group(0).startswith("<blockquote"):
+            # 文献区引块（berkeley 的 `[W]` 版本条目以 <blockquote> 排）：旧
+            # BI_START 不含 blockquote，整块漏扫→装配时被丢（22 件有此类块）
+            t = _match_close(region, m.end(), r"<blockquote[^>]*>",
+                             r"</blockquote>")
+            if not t:
+                break
+            out.append(("bq", region[m.start():t.end()]))
             i = t.end()
         else:
             e = region.find("</p>", m.end())
@@ -490,6 +509,7 @@ def extract_bib_seq(art_inner, md):
     defs_plain = [norm_md(t) for t in defs]
     used, seq = set(), []
     dls = []
+    n_bq = 0
     hi = pi = 0
     for blk in scan_bib(bib_region):
         if blk[0] == "h":
@@ -511,6 +531,11 @@ def extract_bib_seq(art_inner, md):
         elif blk[0] == "table":
             # 表格块按原样发（R 侧 md 表格已渲染 HTML；位形差由标记层补丁吸收）
             seq.append(["table", None])
+        elif blk[0] == "bq":
+            # 引块记文档序位次（文本取自 md 的 `>` 块，R 侧按位次取 body 内
+            # 的 blockquote 块原样发；位次不匹配时 R 侧跳过不硬发）
+            seq.append(["bq", n_bq])
+            n_bq += 1
         elif blk[0] == "dl":
             # dt/dd 逐对定位 md 散文段（文字只从 md 取；属性只记结构）
             rec = {"attrs": blk[1], "pairs": []}

@@ -494,6 +494,10 @@ def inline_to_md(html, slug=None):
             return text
         if href.startswith('notes.html#'):
             ref = re.sub('^note-', '', href.split('#')[1].split('&')[0])
+            if not ref:
+                # 上游断锚（`notes.html#` 空片段，ratnakirti 判例）：纯文字照录，
+                # 不留空键 `[^note-]`（无定义、右逆也还原不出链接）
+                return text
             return '[^note-%s]' % ref
         if slug and re.fullmatch(r'[A-Za-z0-9._%+-]+\.(?:png|jpe?g|gif|svg|webp|pdf)', href):
             # 点图放大链（<a href="X-large.gif"> 包 <img src="X.gif">）：本地化引用，
@@ -846,6 +850,10 @@ def _escape_leading_hash(text):
     有序列表，右逆发 `<ol>` 丢掉数字、文字层不等。转义点为 `N\\.`，右逆按
     字面 `N.` 还原并发 `<p>`。"""
     if text.startswith('#'):
+        return '\\' + text
+    if re.match(r'^[-+] ', text):
+        # 行首列表标记形（berkeley 判例：H0 引块首行 `+ Mind is a congeries…`）：
+        # 不转义则被当无序列表，符号丢失且体例失真
         return '\\' + text
     return re.sub(r'^(\d+)\.', r'\1\\.', text)
 

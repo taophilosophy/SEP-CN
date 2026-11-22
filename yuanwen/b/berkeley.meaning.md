@@ -22,9 +22,9 @@ For our purposes here, we will set aside the question of whether Locke actually 
 
 The earliest records of Berkeley’s philosophical thought show that his ideas about language and meaning were initially completely Lockean.[^note-36] In his philosophical notebooks, one finds statements such as these:
 
-> + 1 All significant words stand for Ideas (PC 378)
+> \+ 1 All significant words stand for Ideas (PC 378)
 >
-> + I affirm ‘tis manifestly absurd. no excuse in ye world can be given why a man should use a word without an idea. Certainly we shall find that wtever word we make use of in matter of pure reasoning has or ought to have a compleat Idea annext to it. (PC 638)
+> \+ I affirm ‘tis manifestly absurd. no excuse in ye world can be given why a man should use a word without an idea. Certainly we shall find that wtever word we make use of in matter of pure reasoning has or ought to have a compleat Idea annext to it. (PC 638)
 
 That Berkeley was not merely toying with the Lockean theory in the notebooks, that he actually accepted the doctrine, is confirmed by an early paper, “Of Infinities,” which Berkeley read before the Dublin Philosophical Society in 1707. In that paper Berkeley decrees that “we ought to use no sign without an idea answering it.”[^note-37]
 

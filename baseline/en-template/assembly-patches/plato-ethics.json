@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 155885,
-  "pool_bytes": 153637,
-  "n_patches": 265
+  "pool_bytes": 153610,
+  "n_patches": 264
  },
  "patches": [
   {
@@ -16,54 +16,15 @@
    "after": "<!--DO NOT MODIFY THIS LINE AND ABOVE-->\n\r\n"
   },
   {
-   "u": 7800,
-   "len": 57,
-   "sha": "c56b1ad0dc41b9c2",
-   "items": [
-    [
-     "tx",
-     0,
-     13
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     13,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     20,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     22,
-     8
-    ]
-   ]
-  },
-  {
-   "r": 7959,
+   "r": 7935,
    "len": 29,
    "sha": "5b0d0ae8bb18e258",
    "after": "</div>\n\r\n<div id=\"preamble\">\r\n\r\n"
   },
   {
-   "u": 7991,
-   "len": 2654,
-   "sha": "341380e03242b3d1",
+   "u": 7967,
+   "len": 2678,
+   "sha": "c8629cc775010e6a",
    "items": [
     [
      "mk",

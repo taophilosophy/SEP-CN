@@ -251,11 +251,11 @@ The second response would be to explain why spiritual substances are better posi
 
 To the main point of Hylas’ attack, Philonous replies that each of us has, in our own case, an immediate intuition of ourselves, that is, we know our own minds through reflection (3D 231–233). Berkeley’s considered position, that we gain access to ourselves as thinking things through conscious awareness, is surely an intuitive one. Nevertheless, it is disappointing that he never gave an explicit response to the Humean challenge he entertained in his notebooks:
 
-> + Mind is a congeries of Perceptions. Take away Perceptions & you take away the Mind put the Perceptions & you put the mind. (PC 580)
+> \+ Mind is a congeries of Perceptions. Take away Perceptions & you take away the Mind put the Perceptions & you put the mind. (PC 580)
 
 A closely related problem which confronts Berkeley is how to make sense of the causal powers that he ascribes to spirits. Here again, the notebooks suggest a surprisingly Humean view:
 
-> + The simple idea call’d Power seems obscure or rather none at all. but onely the relation ’twixt cause & Effect. Wn I ask whether A can move B. if A be an intelligent thing. I mean no more than whether the volition of A that B move be attended with the motion of B, if A be senseless whether the impulse of A against B be follow’d by ye motion of B. 461[^note-26]
+> \+ The simple idea call’d Power seems obscure or rather none at all. but onely the relation ’twixt cause & Effect. Wn I ask whether A can move B. if A be an intelligent thing. I mean no more than whether the volition of A that B move be attended with the motion of B, if A be senseless whether the impulse of A against B be follow’d by ye motion of B. 461[^note-26]
 >
 > S What means Cause as distinguish’d from Occasion? nothing but a Being wch wills wn the Effect follows the volition. Those things that happen from without we are not the Cause of therefore there is some other Cause of them i.e., there is a being that wills these perceptions in us. 499
 >

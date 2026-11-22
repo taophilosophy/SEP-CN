@@ -111,6 +111,34 @@ def _occ_positions(flat, t):
     return [m.start() for m in re.finditer(pat, flat)]
 
 
+def _math_spans(s):
+    """行内数学区间 [(起, 止)]（与 _scan_stash_math 同判据、不占有）。"""
+    spans = []
+    i, n = 0, len(s)
+    while i < n:
+        c = s[i]
+        if c == "\\" and i + 1 < n:
+            i += 2
+            continue
+        if c != "$":
+            i += 1
+            continue
+        if s.startswith("$$", i):
+            j = _display_end(s, i + 2)
+            if j >= 0:
+                spans.append((i, j + 2))
+                i = j + 2
+                continue
+        else:
+            j = _inline_end(s, i + 1)
+            if j >= 0:
+                spans.append((i, j + 1))
+                i = j + 1
+                continue
+        i += 1
+    return spans
+
+
 def restore_links(line):
     """按账还原内部链接：**文档序游标**（账序＝H0 文档序）。
 
@@ -129,6 +157,12 @@ def restore_links(line):
     global _LINK_IDX
     if not _LINKS:
         return line
+    if re.match(r"\s*#{1,6}\s", line):
+        # 标题行不消费链接：C 的标题一律无链接，而内文“见下文 Other Internet
+        # Resources 一节”这类散文链接与标题同文，游标前置失配时会把链接挂到
+        # 标题上（bruno 判例：`<h2><a href="#Oth">` 使区段切分认不出 OIR 头，
+        # 整节并进 main-text）。全库正文标题内 href 链接 0 件，跳安全。
+        return line
     flat, pos = _stripped_map(line)
     is_caption = bool(re.match(r"\s*\*[^*\n]", line))
     picks = []
@@ -141,25 +175,52 @@ def restore_links(line):
             j += 1
             continue
         st = None
+        mspans = _math_spans(line)
+        mk = re.match(r"\s*\d+[.)] ", line)
+        mk_end = mk.end() if mk else 0
         for cand in _occ_positions(flat, t):
             if cand < ceiling:
                 continue
             if (is_caption and cand == 0
                     and flat[len(t):len(t) + 1] == ":"):
                 continue          # 题注标签位（`*Table 1:*`）：链接在正文
+            a0 = pos[cand]
+            if any(s0 <= a0 < e0 for s0, e0 in mspans):
+                continue          # 数学体内不挂链接（infinity 判例：锚文 `1`
+            #                   在 `$…=1$` 里被吃，右逆发 `\(…=1\)` 破坏公式）
+            if a0 < mk_end:
+                continue          # 有序列表标记位（trinity 判例：锚文 `1` 落在
+            #                   `1. ` 标记上，行首成 `[1](…)`，列表解析失效）
+            # 跨度内定界星不配对时就地扩展（只认紧邻星）：可见跨度可跨过强调
+            # 闭星（`*interpretations* of probability`），直接插入会让 <a> 跨
+            # <em> 边界；扩展成 `[*interpretations* of probability](…)` 两边
+            # 都合法。不能就地配平则弃此候选，绝不向远处吞字。
+            b0 = pos[cand + len(t) - 1] + 1
+            ok = True
+            for _ in range(4):
+                if len(re.findall(r"(?<!\\)\*", line[a0:b0])) % 2 == 0:
+                    break
+                if (a0 > 0 and line[a0 - 1] == "*"
+                        and (a0 < 2 or line[a0 - 2] != chr(92))):
+                    a0 -= 1
+                elif line[b0:b0 + 1] == "*" and line[b0 - 1:b0] != chr(92):
+                    b0 += 1
+                else:
+                    ok = False
+                    break
+            if not ok:
+                continue
             st = cand
             break
         if st is None:
             break  # 本条不在本行（或在已消费区之前）——留待后续行
-        picks.append((st, st + len(t), j, lk))
+        picks.append((a0, b0, j, lk))
         ceiling = st + len(t)
         j += 1
     _LINK_IDX = j
-    for st, en, idx, lk in sorted(picks, key=lambda x: -x[0]):
-        a, b = pos[st], pos[en - 1] + 1
-        # 锚文里的字面星须转义：H0 有锚文 `(*)`／`(*) in Section 5 above`
-        # （al-farabi-logic 判例），裸星会被星解析器当强调吃掉
-        seg = line[a:b].replace("*", "\\*")
+    for a, b, idx, lk in sorted(picks, key=lambda x: -x[0]):
+        # 锚文原样搬入（字面星在 C 侧已转义为 `\*`）；跨度已含就地配平的定界星
+        seg = line[a:b]
         line = line[:a] + "[" + seg + "](" + lk["href"] + ")" + line[b:]
         _LINKS_USED[idx] = True
     return line
@@ -335,6 +396,9 @@ def _inline_md_to_html(text):
     # C 侧字面编号段落 `1\.`（H0 `<p>\n1. …`，alyngton 判例）：点号转义防
     # 被 markdown 当有序列表；此处还原字面 `1.`，行首 `N.` 不再触发列表分支
     s = s.replace("\\.", "\x18")
+    # C 侧行首列表标记形 `\+ `/`\- `（berkeley 判例：引块首行 `+ Mind is…`）
+    s = s.replace("\\+", "\x19")
+    s = s.replace("\\-", "\x1a")
     # 原生上/下标 Unicode 字形 → <sup>/<sub>：C 的 _subsup_md 在“整段可映射”
     # 时直接产 Unicode 字形（6<sup>th</sup> → 6ᵗʰ），右逆须还原为标签段
     s = _unsubsup(s, SUP_REV, "sup")
@@ -411,6 +475,9 @@ def _inline_md_to_html(text):
     s = s.replace("\x13", "#")
     # 字面编号段落的点号还原（`1\.` → `1.`）
     s = s.replace("\x18", ".")
+    # 行首列表标记形还原（`\+ `/`\- ` → 裸 `+ `/`- `）
+    s = s.replace("\x19", "+")
+    s = s.replace("\x1a", "-")
     # 图片占位还原（alt 内已有文本层转义，不再加工）
     for idx, tag in enumerate(img_store):
         s = s.replace("\x03%d\x03" % idx, tag)
@@ -552,6 +619,61 @@ def _td(cell):
     return "<td>%s</td>" % _inline_md_to_html(cell.strip())
 
 
+def _render_bq(q):
+    """`>` 行（已剥一层前缀）→ 引块 HTML。主循环与 References 区共用。
+
+    空 `>` 行＝段落分隔；连续非空行＝同段内 <br>（richard-sophister 判例：
+    C 侧块内 BR_MARK 恢复为 \n 后每行加 '> '，无空行分隔）。
+    注意：调用方只剥一层——`> > x` 是嵌套引块，剥成单层会破坏 B3.1
+    不动点（abrabanel/heraclitus/evil 等 20 件实测回退）。"""
+    paras = []
+    cur = []
+    for line in q:
+        if line.strip():
+            cur.append(line)
+        elif cur:
+            paras.append(cur)
+            cur = []
+    if cur:
+        paras.append(cur)
+    if not paras:
+        return ""
+    if len(paras) == 1 and paras[0][0].strip().startswith("|"):
+        rows = _pipe_rows("\n".join(paras[0]))
+        cells = [[_td(c) for c in r] for r in rows]
+        trs = "".join("<tr>%s</tr>" % "".join(cs) for cs in cells)
+        return "<blockquote><table>%s</table></blockquote>" % trs
+    inner = ""
+    for p in paras:
+        if p[0].strip().startswith("|"):
+            rows = _pipe_rows("\n".join(p))
+            cells = [[_td(c) for c in r] for r in rows]
+            trs = "".join("<tr>%s</tr>" % "".join(cs) for cs in cells)
+            inner += "<table>%s</table>" % trs
+        elif p and all(OL_ITEM_RE.match(x.strip()) for x in p if x.strip()):
+            # 引块内有序列表（C 把 H0 的 <ol> 转成 `> 1. …` 行，bodin 判例）：
+            # 整段全为列表项才转 <ol>，且序号必须从 1 起——start≠1 时 C 的
+            # ol→md 不认 start（W9 残差），回写 `> 1.` 破坏 B3.1 不动点
+            # （boole 等 10 件判例），此时维持旧 <p>
+            items = [OL_ITEM_RE.match(x.strip()) for x in p if x.strip()]
+            if int(items[0].group(1)) == 1:
+                lis = "".join("<li>%s</li>" % _inline_md_to_html(m.group(2))
+                              for m in items)
+                inner += "<ol>%s</ol>" % lis
+            else:
+                inner += "<p>%s</p>" % "<br>".join(
+                    _inline_md_to_html(x) for x in p)
+        elif p and all(UL_ITEM_RE.match(x.strip()) for x in p if x.strip()):
+            lis = "".join("<li>%s</li>" % _inline_md_to_html(
+                UL_ITEM_RE.match(x.strip()).group(1))
+                for x in p if x.strip())
+            inner += "<ul>%s</ul>" % lis
+        else:
+            inner += "<p>%s</p>" % "<br>".join(
+                _inline_md_to_html(x) for x in p)
+    return "<blockquote>%s</blockquote>" % inner
+
+
 # ------------------------------------------------------------ 块级逆写 ----
 
 def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
@@ -641,7 +763,17 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
                         i += 1
                         continue
                     if s2.startswith("> ") or s2 == ">":
-                        i += 1
+                        # 区内容引块（berkeley 判例：`### Berkeley's Works` 下
+                        # 的 `[W]` 版本条目以 `>` 块排）。旧实现把区内所有 `>`
+                        # 行一律跳过——原意只是跳过 C 注入的“原文参考文献已转
+                        # 为脚注引用”固定注（已在区首 while 消费）
+                        q = []
+                        while i < n and lines[i].startswith(">"):
+                            q.append(lines[i][1:].lstrip(" "))
+                            i += 1
+                        bq = _render_bq(q)
+                        if bq:
+                            out.append(bq)
                         continue
                     mh = MD_HEAD_RE.match(lines[i])
                     if mh:
@@ -686,58 +818,9 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
             while i < n and lines[i].startswith(">"):
                 q.append(lines[i][1:].lstrip(" "))
                 i += 1
-            paras = []
-            cur = []
-            for line in q:
-                if line.strip():
-                    cur.append(line)
-                elif cur:
-                    paras.append(cur)
-                    cur = []
-            if cur:
-                paras.append(cur)
-            if not paras:
-                continue
-            if len(paras) == 1 and paras[0][0].strip().startswith("|"):
-                rows = _pipe_rows("\n".join(paras[0]))
-                cells = [[_td(c) for c in r] for r in rows]
-                trs = "".join("<tr>%s</tr>" % "".join(cs) for cs in cells)
-                out.append("<blockquote><table>%s</table></blockquote>" % trs)
-            else:
-                inner = ""
-                for p in paras:
-                    if p[0].strip().startswith("|"):
-                        rows = _pipe_rows("\n".join(p))
-                        cells = [[_td(c) for c in r] for r in rows]
-                        trs = "".join("<tr>%s</tr>" % "".join(cs) for cs in cells)
-                        inner += "<table>%s</table>" % trs
-                    elif p and all(OL_ITEM_RE.match(x.strip())
-                                   for x in p if x.strip()):
-                        # 引块内有序列表（C 把 H0 的 <ol> 转成 `> 1. …` 行，
-                        # bodin 判例：H0 是 <blockquote><ol type="I">）：整段
-                        # 全为列表项才转 <ol>，且序号必须从 1 起——start≠1 时
-                        # C 的 ol→md 不认 start（W9 残差），回写 `> 1.` 破坏
-                        # B3.1 不动点（boole 等 10 件判例），此时维持旧 <p>
-                        items = [OL_ITEM_RE.match(x.strip()) for x in p
-                                 if x.strip()]
-                        start = int(items[0].group(1))
-                        if start == 1:
-                            lis = "".join("<li>%s</li>" % _inline_md_to_html(
-                                m.group(2)) for m in items)
-                            inner += "<ol>%s</ol>" % lis
-                        else:
-                            inner += "<p>%s</p>" % "<br>".join(
-                                _inline_md_to_html(x) for x in p)
-                    elif p and all(UL_ITEM_RE.match(x.strip())
-                                   for x in p if x.strip()):
-                        lis = "".join("<li>%s</li>" % _inline_md_to_html(
-                            UL_ITEM_RE.match(x.strip()).group(1))
-                            for x in p if x.strip())
-                        inner += "<ul>%s</ul>" % lis
-                    else:
-                        inner += "<p>%s</p>" % "<br>".join(
-                            _inline_md_to_html(x) for x in p)
-                out.append("<blockquote>%s</blockquote>" % inner)
+            bq = _render_bq(q)
+            if bq:
+                out.append(bq)
             continue
         if MD_DEF_RE.match(ln):
             # 定义行已两遍扫描收集（note-* 由 convert_notes 再生，文献由
