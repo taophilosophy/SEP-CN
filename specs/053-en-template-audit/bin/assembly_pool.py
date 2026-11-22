@@ -117,7 +117,12 @@ def _tok_spans(s):
 
 
 def ent_spans(raw_a, raw_b):
-    """两段原文的实体形态差 → [[pos, 原形, 新形]]（解码后等值才可入账）。
+    """两段原文的实体形态差 → [[b_pos, 原形, 新形, a_pos]]（解码后等值才可入账）。
+
+    b_pos／a_pos 分别是差值在**目标侧**与**装配侧** plain 流中的起点：layout_items
+    走的是 b 流（pos 只计非空白非标签字符），此前只回传 a 侧位置当作 b 坐标用，
+    `before`/`after` 长度不等（`&nbsp;&nbsp;` 对 `&nbsp;`）时坐标漂移、tx 切片
+    越界取到后文，补丁自洽门即失败（bayes-theorem 判例）。
 
     返回 None 表示差值含真实文字（不可入池）。空白类差（&thinsp; 等）按
     排版空白等值处理，记入补丁由装配侧回写。"""
@@ -133,22 +138,21 @@ def ent_spans(raw_a, raw_b):
     for tag, i1, i2, j1, j2 in sm.get_opcodes():
         if tag == "equal":
             continue
-        pos = ta[i1][0] if i1 < len(ta) else len(raw_a)
+        b_pos = tb[j1][0] if j1 < len(tb) else len(raw_b)
+        a_pos = ta[i1][0] if i1 < len(ta) else len(raw_a)
         before = raw_a[ta[i1][0]:ta[i2 - 1][1]] if i2 > i1 else ""
         after = raw_b[tb[j1][0]:tb[j2 - 1][1]] if j2 > j1 else ""
         if _ws_decoded(before) != _ws_decoded(after):
             return None
-        out.append([pos, before, after])
+        out.append([b_pos, before, after, a_pos])
     return out
 
 
 def _ent_marks(es):
     """实体差 → b 流区间表 [(b_start, b_end, a_pos, len_before, after)]。"""
-    marks, acc = [], 0
-    for pos, before, after in sorted(es or [], key=lambda e: e[0]):
-        b_start = pos + acc
-        marks.append((b_start, b_start + len(after), pos, len(before), after))
-        acc += len(after) - len(before)
+    marks = []
+    for b_pos, before, after, a_pos in sorted(es or [], key=lambda e: e[0]):
+        marks.append((b_pos, b_pos + len(after), a_pos, len(before), after))
     return marks
 
 
@@ -189,13 +193,20 @@ def layout_items(text, es=None):
                     continue
                 if b_start >= y1:
                     break
-                seg_end = min(b_start, y1)
+                seg_end = max(y, min(b_start, y1))
                 if seg_end > y:
                     a0, a1 = _b_to_a(y, marks), _b_to_a(seg_end, marks)
                     if a1 > a0:
                         items.append(["tx", a0, a1 - a0])
-                items.append(["mk", after])
-                y = max(y, b_end)
+                    y = seg_end
+                # 标记只按**当前文字岛**裁剪落地：一处实体差可能跨 `</b>&nbsp;</td>
+                # <td>&nbsp;` 这类被 plain() 抹掉标签后相邻的两岛，整段 after
+                # 一次落地会把第二个实体重复写入（bayes-theorem 判例）。岛内
+                # b 原文与 plain 坐标一一对应，切片即 H0 原形。
+                cut = min(b_end, y1)
+                if cut > y:
+                    items.append(["mk", piece[y - y0:cut - y0]])
+                    y = cut
             if y < y1:
                 a0, a1 = _b_to_a(y, marks), _b_to_a(y1, marks)
                 if a1 > a0:

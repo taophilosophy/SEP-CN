@@ -66,8 +66,62 @@ GREEK_C_DEFER = getattr(yuanwen, "GREEK_C_DEFER", set())
 GREEK_REV = {}
 for _k, _v in GREEK_UNI.items():
     GREEK_REV.setdefault(_v, _k)  # 同形多宏取首名（phi 优先于 varphi）
-SUP_REV = {v: k for k, v in SUP_MAP.items()}
-SUB_REV = {v: k for k, v in SUB_MAP.items()}
+def _rev_pref_ascii(mp):
+    """字形 → 源字符：同形多源取 ASCII 源。
+
+    H0 的 sup/sub 内文零裸非 ASCII（全库普查），`⁻`/`₋` 只可能来自 ASCII
+    `-`；C 的 `−`（U+2212）键在 H0 无对应裸形（`&minus;` 走实体通道），
+    故取 ASCII 键才可逆（logic-connexive 判例）。
+    """
+    rev = {}
+    for k, v in mp.items():
+        if v not in rev or (ord(rev[v]) > 127 and ord(k) < 128):
+            rev[v] = k
+    return rev
+
+
+SUP_REV = _rev_pref_ascii(SUP_MAP)
+SUB_REV = _rev_pref_ascii(SUB_MAP)
+# sup/sub 内文的 H0 实体拼写表（全库普查 60 字符：一字符一拼、剥标签剥实体后
+# 零裸非 ASCII；含 `<sup><i>L</i>(&#8477;)</sup>` 一类带标签内文）。只收非 ASCII
+# 字符——`&`/`<`/`>` 在 `_inline_md_to_html` 入口（见上文转义行）已成实体形，
+# 与 H0 拼写一致，再映射会双转义（`&amp;gt;` 判例）。
+# 铁律：C 的 `_subsup_md` 跑在 `unescape` 之前，内文写裸字符会被折成原生字形
+# （B3.1 破）；写实体形则 C 视作“不可映射”保留 `^{…}`，解码后与 md 相等。
+SUPSUB_ENT = {
+    "\u00a9": "&copy;",
+    "\u00b7": "&middot;", "\u00e8": "&egrave;", "\u0242": "&#578;",
+    "\u0387": "&#903;", "\u0393": "&Gamma;", "\u0394": "&Delta;",
+    "\u0398": "&Theta;", "\u03a0": "&Pi;", "\u03a6": "&Phi;",
+    "\u03a9": "&Omega;", "\u03b1": "&alpha;", "\u03b2": "&beta;",
+    "\u03b3": "&gamma;", "\u03b4": "&delta;", "\u03b7": "&eta;",
+    "\u03b8": "&theta;", "\u03ba": "&kappa;", "\u03bb": "&lambda;",
+    "\u03bc": "&mu;", "\u03bd": "&nu;", "\u03be": "&xi;",
+    "\u03bf": "&omicron;", "\u03c0": "&pi;", "\u03c4": "&tau;",
+    "\u03c6": "&phi;", "\u03c8": "&psi;", "\u03c9": "&omega;",
+    "\u2009": "&thinsp;", "\u2013": "&ndash;", "\u201c": "&ldquo;",
+    "\u2020": "&dagger;", "\u2032": "&prime;", "\u2033": "&Prime;",
+    "\u2119": "&#8473;", "\u211d": "&#8477;", "\u2135": "&alefsym;",
+    "\u2192": "&rarr;", "\u2203": "&exist;", "\u2208": "&isin;",
+    "\u2212": "&minus;", "\u2217": "&lowast;", "\u221e": "&infin;",
+    "\u2227": "&and;", "\u2228": "&or;", "\u227c": "&#8828;",
+    "\u2283": "&sup;", "\u2295": "&oplus;", "\u2297": "&otimes;",
+    "\u2298": "&#8856;", "\u2308": "&lceil;", "\u2309": "&rceil;",
+    "\u25a1": "&#9633;", "\u25ca": "&loz;", "\u266f": "&#9839;",
+    "\u29b8": "&#10680;", "\ud835\udd39": "&#120121;",
+}
+
+
+def _supsub_inner(x):
+    """`^{…}`/`_{…}` 内文 → H0 拼写（命中实体表者写实体形，余者原样）。
+
+    表只含非 ASCII 字符，故 R 自己插入的标签（`<sub>`/`<em>`，如 `^{n₀}` ←
+    H0 `<sup>n<sub>0</sub></sup>` 的嵌套降级）天然不受影响。表外字符（`½`
+    等 H0 从不出现者）原样，交装配补集池吸收。
+    """
+    if not any(c in SUPSUB_ENT for c in x):
+        return x
+    return "".join(SUPSUB_ENT.get(c, c) for c in x)
 _EM = None  # 按件实体策略（codepoint → 实体串）；reassemble_article 入口设置
 _GREEK = None  # 按件希腊宏账（同形字 phi/varphi 按出现序），入口设置
 _GREEK_IDX = {}
@@ -439,8 +493,8 @@ def _inline_md_to_html(text):
     s = re.sub(r"`([^`]*)`", _stash_code, s)
     # sub/sup 记号（_{x}/^{x}）→ 标签；原生 Unicode 字形已由 C 直接产出，
     # R 不识别（原样文本，C 亦原样）。数学占位符内的记号不受影响。
-    s = re.sub(r"_\{([^}]*)\}", r"<sub>\1</sub>", s)
-    s = re.sub(r"\^\{([^}]*)\}", r"<sup>\1</sup>", s)
+    s = re.sub(r"_\{([^}]*)\}", lambda m: "<sub>" + _supsub_inner(m.group(1)) + "</sub>", s)
+    s = re.sub(r"\^\{([^}]*)\}", lambda m: "<sup>" + _supsub_inner(m.group(1)) + "</sup>", s)
     # 强调／粗体（单层；C 的 em 先于 strong，嵌套粗斜体在像内为 ***x***——
     # 简形词条未出现，残差清单登记）
     # 强调／粗体：小型星解析器——C 输出的强调定界符恒“紧”（内侧无空格，

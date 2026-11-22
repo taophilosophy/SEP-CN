@@ -403,6 +403,28 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①“排除某类键”的判据要与**产生方的语义**对齐——`note-` 前缀既承载真脚注也承载伪键，须用可判据的后缀形态区分，不能按前缀一刀切；②同一判据在账与 R 两处必须同步（否则账有、R 无，或反之）；③修 md 侧缺陷不一定动 C——只要账能定位，`pd` 机制即可原位发出。
 
+## 10.21 第二十一批（sup/sub 实体拼写与字形右逆）与第二十二批（补丁自洽：跨岛实体差）实施记（2026-11-23）
+
+### 第二十一批：`^{…}`/`_{…}` 的实体拼写（批准项⑤）
+
+**缺陷**：C 的 `_subsup_md` 跑在 `unescape` 之前，`<sup>&minus;</sup>`（内文是实体原文，不在 SUP_MAP）落 md 为 `^{&minus;}` → 解码 `^{−}`；而 R 侧 `^{…}` 一律原样发裸字符 `<sup>−</sup>`，C 再见裸 `−`（在 SUP_MAP）即折成原生字形 `⁻`——B3.1 破（logic-connexive 首差 `*v*^{−}` 对 `*v*⁻`）；页面侧也与 H0 的实体形不符。
+
+**取证（全库普查，`script/tmp/census_ent2.py`）**：H0 的 sup/sub 内文**零裸非 ASCII**（剥标签剥实体后为 0），实体拼写**一字符一拼、零歧义**（60 个字符）；`<sup>-</sup>`（ASCII，23 处）与 `<sup>&minus;</sup>`（76 页）双源可判——md 的 `⁻` 只能来自 ASCII `-`，md 的 `^{−}` 只能来自实体。
+
+**修法（纯 R 侧，不动 C、不重转）**：①`SUPSUB_ENT` 收 60 字符实体表（只收非 ASCII——`&`/`<`/`>` 在 `_inline_md_to_html` 入口已成实体形，再映射会双转义 `&amp;gt;`）；②`_supsub_inner` 对 `^{…}`/`_{…}` 内文逐字符写实体形，表外字符原样；③`SUP_REV`/`SUB_REV` 改「同形多源取 ASCII 键」（`⁻`→`-`）。嵌套降级形（`^{n₀}`←`<sup>n<sub>0</sub></sup>`）因 R 自插标签不含非 ASCII 而天然不受影响。
+
+**实测（定点）**：受影响集 67 件（`script/tmp/affected_supsub.py`）——**B3.1 +14 转绿／0 转红**（chemistry／geometry-19th／identity-relative／independence-large-cardinals／kant-development／kochen-specker／leibniz／mereology／natural-kinds／nonwellfounded-set-theory／physics-experiment／sign-language-semantics／speech-acts／zermelo-set-theory）；56 件可装配件重建 → **转池 10、失池 0**（池 1,696→1,706），且既有 33 件池文件**逐字节未变**（发射层改动未触及它们的页面字节）。
+
+### 第二十二批：`apply verify failed` 的跨岛实体差（批准项④）
+
+**缺陷**：9 件（bayes-theorem／common-knowledge／demonstration-medieval／early-modern-india／epistemic-game／game-ethics／location-mereology／pascal-wager／twotruths-india）补丁自洽门失败。两处坐标缺陷：①`ent_spans` 回传的是**装配侧（a）**位置，`_ent_marks` 却当**目标侧（b）**坐标用；`before`/`after` 长度不等（`&nbsp;&nbsp;` 对 `&nbsp;`）时位置漂移。②实体差区间可跨「文字岛」——`</b>&nbsp;</td>\n <td…>&nbsp;` 被 `plain()` 抹掉标签后并成一段 `&nbsp;&nbsp;`，旧码把整段 `after` 一次落地，第二个实体重复写入。
+
+**修法**：`ent_spans` 产出 `[b_pos, before, after, a_pos]` 四元组（两侧坐标各自明确）；`layout_items` 的标记**按当前文字岛裁剪落地**（岛内 b 原文与 plain 坐标一一对应，切片即 H0 原形）。
+
+**实测**：9 件全部通过自洽门并转池（`{'rule': 0, 'pool': 9, 'gap': 0}`），池占页 65.38%（这 9 件多为公式密集件）。
+
+**教训**：①「坐标系统一」不止一处——同一个函数里 a/b 两套坐标必须显式命名并各归其位；②`plain()` 抹标签是坐标系的边界，**任何跨岛区间操作都要先按岛裁剪**；③补丁自洽门（写盘前就地再生 H0）正是这类缺陷的唯一可靠拦截点。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
