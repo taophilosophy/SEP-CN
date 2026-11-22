@@ -191,6 +191,22 @@ outline: [1, 6]
 * [斐利亚修斯的第蒙 Timon of Phlius (Richard Bett)](t/timon-phlius.md)
 * [塞克斯都·恩披里克 Sextus Empiricus (Benjamin Morison)](s/sextus-empiricus.md)
 
+#### 罗马共和国哲学
+
+##### 罗马折衷主义
+
+* [西塞罗 Cicero (Raphael Woolf)](c/cicero.md)
+
+#### 罗马帝国学术与医学
+
+##### 逍遥派评注
+
+* [阿芙罗蒂西亚的亚历山大 Alexander of Aphrodisias (Dorothea Frede、Marije Martijn)](a/alexander-aphrodisias.md)
+
+##### 医学与哲学
+
+* [克劳迪亚斯·盖伦 Galen (P. N. Singer)](g/galen.md)
+
 #### 新柏拉图主义
 
 ##### 总论与先驱
@@ -222,20 +238,6 @@ outline: [1, 6]
 * [奥林匹奥多罗斯 Olympiodorus (Christian Wildberg)](o/olympiodorus.md)
 * [埃利亚斯 Elias (Christian Wildberg)](e/elias.md)
 * [大卫 David (Christian Wildberg)](d/david.md)
-
-#### 罗马哲学与拜占庭
-
-##### 逍遥派评注
-
-* [阿芙罗蒂西亚的亚历山大 Alexander of Aphrodisias (Dorothea Frede、Marije Martijn)](a/alexander-aphrodisias.md)
-
-##### 罗马折衷主义
-
-* [西塞罗 Cicero (Raphael Woolf)](c/cicero.md)
-
-##### 医学与哲学
-
-* [克劳迪亚斯·盖伦 Galen (P. N. Singer)](g/galen.md)
 
 ### 古代哲学专题
 
@@ -1005,6 +1007,242 @@ outline: [1, 6]
 
 ## 现代哲学
 
+### 非理性主义与生存哲学
+
+#### 尼采
+
+* [弗里德里希·尼采 Friedrich Nietzsche (R. Lanier Anderson)](n/nietzsche.md)
+  * [尼采的生平与著作 Nietzsche’s Life and Works (Robert Wicks)](n/nietzsche-life-works.md)
+  * [尼采的伦理与政治哲学 Nietzsche’s Moral and Political Philosophy (Brian Leiter)](n/nietzsche-moral-political.md)
+  * [尼采的美学 Nietzsche’s Aesthetics (Timothy Stoll)](n/nietzsche-aesthetics.md)
+
+#### 叔本华
+
+* [阿图尔·叔本华 Arthur Schopenhauer (Robert Wicks)](s/schopenhauer.md)
+  * [叔本华的美学 Schopenhauer’s Aesthetics (Sandra Shapshay)](s/schopenhauer-aesthetics.md)
+
+#### 克尔凯郭尔
+
+* [索伦·克尔凯郭尔 Søren Kierkegaard (John Lippitt、C. Stephen Evans)](k/kierkegaard.md)
+
+### 后黑格尔与马克思主义
+
+#### 马克思与恩格斯
+
+##### 马克思
+
+* [卡尔·马克思 Karl Marx (Jonathan Wolff、David Leopold)](m/marx.md)
+
+##### 恩格斯
+
+* [弗里德里希·恩格斯 Friedrich Engels (Matt Shafer)](e/engels.md)
+
+##### 异化
+
+* [异化 Alienation (David Leopold)](a/alienation.md)
+
+#### 青年黑格尔派
+
+##### 鲍威尔
+
+* [布鲁诺·鲍威尔 Bruno Bauer (Douglas Moggach、Gabriele Schimmenti)](b/bauer.md)
+
+##### 费尔巴哈
+
+* [路德维希·安德列斯·费尔巴哈 Ludwig Andreas Feuerbach (Todd Gooch)](l/ludwig-feuerbach.md)
+
+##### 施蒂纳
+
+* [麦克斯·施蒂纳 Max Stirner (David Leopold)](m/max-stirner.md)
+
+#### 西方马克思主义
+
+##### 西方马克思主义总论
+
+* [分析马克思主义 Analytical Marxism (David Leopold)](m/marxism-analytical.md)
+
+##### 卢卡奇与布洛赫
+
+* [格奥尔格·卢卡奇 Georg \[György\] Lukács (Titus Stahl)](l/lukacs.md)
+* [恩斯特·布洛赫 Ernst Bloch (Ivan Boldyrev)](b/bloch.md)
+
+##### 葛兰西与卢森堡
+
+* [安东尼奥·葛兰西 Antonio Gramsci (James Martin)](g/gramsci.md)
+* [罗莎·卢森堡 Rosa Luxemburg (Lea Ypi)](l/luxemburg.md)
+
+##### 阿尔都塞
+
+* [路易·阿尔都塞 Louis Althusser (William Lewis)](a/althusser.md)
+
+### 功利主义与古典自由主义
+
+#### 功利主义总论与史
+
+* [功利主义史 The History of Utilitarianism (Julia Driver)](u/utilitarianism-history.md)
+* [杰里米·边沁 Jeremy Bentham (James E. Crimmins)](b/bentham.md)
+
+#### 密尔父子与哈丽雅特
+
+* [约翰·斯图亚特·穆勒 John Stuart Mill (Christopher Macleod)](m/mill.md)
+  * [穆勒的伦理学和政治哲学 Mill’s Moral and Political Philosophy (David Brink)](m/mill-moral-political.md)
+* [詹姆斯·密尔 James Mill (Terence Ball、Antis Loizides)](j/james-mill.md)
+* [哈丽雅特·泰勒·密尔 Harriet Taylor Mill (Dale E. Miller)](h/harriet-mill.md)
+
+#### 西季威克
+
+* [亨利·西季威克 Henry Sidgwick (Barton Schultz)](s/sidgwick.md)
+
+#### 古典自由主义与政治经济学
+
+* [威廉·戈德温 William Godwin (Mark Philp)](g/godwin.md)
+* [威廉·斯坦利·杰文斯 William Stanley Jevons (Bert Mosselmans)](w/william-jevons.md)
+
+### 实证主义与科学主义
+
+#### 第一代实证主义
+
+##### 孔德
+
+* [奥古斯特·孔德 Auguste Comte (Michel Bourdeau)](c/comte.md)
+
+##### 斯宾塞
+
+* [赫伯特·斯宾塞 Herbert Spencer (David Weinstein)](s/spencer.md)
+
+##### 惠威尔
+
+* [威廉·惠威尔 William Whewell (Laura J. Snyder)](w/whewell.md)
+
+##### 艾略特
+
+* [乔治·艾略特 George Eliot (Clare Carlisle)](g/george-eliot.md)
+
+#### 马赫主义
+
+* [恩斯特·马赫 Ernst Mach (Pietro Gori、Luca Guzzardi)](e/ernst-mach.md)
+
+#### 维也纳学派与逻辑实证主义
+
+##### 维也纳学派总论
+
+* [维也纳学派 Vienna Circle (Thomas Uebel)](v/vienna-circle.md)
+
+##### 石里克与纽拉特
+
+* [莫里茨·石里克 Moritz Schlick (Thomas Oberdan、Friedrich Stadler)](s/schlick.md)
+* [奥托·纽拉特 Otto Neurath (Jordi Cat)](n/neurath.md)
+
+##### 卡尔纳普
+
+* [鲁道夫·卡尔纳普 Rudolf Carnap (Hannes Leitgeb、André Carus)](c/carnap.md)
+
+##### 亨普尔与费格尔
+
+* [卡尔·G·亨普尔 Carl Hempel (James Fetzer)](h/hempel.md)
+* [赫伯特·费格尔 Herbert Feigl (Matthias Neuber)](f/feigl.md)
+
+##### 艾耶尔
+
+* [阿尔弗雷德·朱尔斯·艾耶尔 Alfred Jules Ayer (Graham Macdonald、Ádám Tamás Tuboly、Nikhil Krishnan)](a/ayer.md)
+
+##### 赖兴巴赫
+
+* [汉斯·赖兴巴赫 Hans Reichenbach (Clark Glymour、Frederick Eberhardt)](r/reichenbach.md)
+  * [汉斯·赖兴巴赫的共同原因原理 Reichenbach’s Common Cause Principle (Christopher Hitchcock、Miklós Rédei)](p/physics-Rpcc.md)
+
+##### 庞加莱
+
+* [亨利·庞加莱 Henri Poincaré (Gerhard Heinzmann、David Stump)](p/poincare.md)
+
+### 新康德主义
+
+#### 新康德主义总论
+
+* [新康德主义 Neo-Kantianism (Jeremy Heis)](n/neo-kantianism.md)
+
+#### 马堡学派
+
+* [赫尔曼·科恩 Hermann Cohen (Scott Edgar)](c/cohen.md)
+* [保罗·那托普 Paul Natorp (Alan Kim)](n/natorp.md)
+* [恩斯特·卡西尔 Ernst Cassirer (Michael Friedman)](c/cassirer.md)
+
+#### 西南学派
+
+* [海因里希·李凯尔特 Heinrich Rickert (Andrea Staiti、Luca Oliva)](h/heinrich-rickert.md)
+* [威廉·文德尔班 Wilhelm Windelband (Katherina Kinzel)](w/wilhelm-windelband.md)
+
+#### 生命哲学与实证主义
+
+* [弗里德里希·阿尔贝特·朗格 Friedrich Albert Lange (Nadeem J. Z. Hussain、Lydia Patton、Elisabeth Widmer)](f/friedrich-lange.md)
+* [汉斯·费英格 Hans Vaihinger (Timothy Stoll)](v/vaihinger.md)
+* [赫尔曼·洛采 Hermann Lotze (David Sullivan)](h/hermann-lotze.md)
+
+### 英国观念论与实在论
+
+#### 英国观念论
+
+* [弗朗西斯·赫伯特·布拉德雷 Francis Herbert Bradley (Stewart Candlish、Pierfrancesco Basile)](b/bradley.md)
+  * [布拉德雷的伦理学 Bradley’s Moral Philosophy (Dina Babushkina、David Crossley)](b/bradley-moral.md)
+  * [布拉德雷倒退 Bradley’s Regress (Katarina Perovic)](b/bradley-regress.md)
+* [伯纳德·鲍桑葵 Bernard Bosanquet (William Sweet)](b/bosanquet.md)
+* [托马斯·希尔·格林 Thomas Hill Green (David Brink)](g/green.md)
+* [约翰·麦克塔格特 John M. E. McTaggart (Kris McDaniel)](m/mctaggart.md)
+* [罗宾·乔治·柯林武德 Robin George Collingwood (Giuseppina D’Oro、James Connelly)](c/collingwood.md)
+  * [罗宾·乔治·柯林武德的美学 Collingwood’s Aesthetics (Gary Kemp)](c/collingwood-aesthetics.md)
+
+#### 新实在论
+
+* [塞缪尔·亚历山大 Samuel Alexander (Emily A. E. Thomas)](a/alexander.md)
+* [詹姆斯·沃德 James Ward (Pierfrancesco Basile)](j/james-ward.md)
+* [约翰·安德森 John Anderson (Creagh McLean Cole)](a/anderson-john.md)
+
+#### 人格主义
+
+* [人格主义 Personalism (Thomas D. Williams、Jan Olof Bengtsson)](p/personalism.md)
+
+### 实用主义与过程哲学
+
+#### 过程哲学
+
+* [阿弗烈·诺夫·怀特海 Alfred North Whitehead (Ronald Desmet、Andrew David Irvine)](w/whitehead.md)
+* [查尔斯·哈茨霍恩 Charles Hartshorne (Dan Dombrowski)](h/hartshorne.md)
+* [过程哲学 Process Philosophy (Johanna Seibt)](p/process-philosophy.md)
+
+#### 古典实用主义
+
+* [查尔斯·桑德斯·皮尔士 Charles Sanders Peirce (Robert Burch)](p/peirce.md)
+  * [皮尔士的演绎逻辑 Peirce’s Deductive Logic (Sun-Joo Shin)](p/peirce-logic.md)
+  * [本杰明·皮尔斯 Benjamin Peirce (Ivor Grattan-Guinness、Alison Walsh)](p/peirce-benjamin.md)
+  * [皮尔士的符号学理论 Peirce’s Theory of Signs (Albert Atkin)](p/peirce-semiotics.md)
+* [威廉·詹姆斯 William James (Russell Goodman)](j/james.md)
+* [乔治·赫伯特·米德 George Herbert Mead (Mitchell Aboulafia、Scott Taylor)](m/mead.md)
+* [约翰·杜威 John Dewey (David Hildebrand)](d/dewey.md)
+  * [杜威的道德哲学 Dewey’s Moral Philosophy (Elizabeth Anderson)](d/dewey-moral.md)
+  * [杜威的政治哲学 Dewey’s Political Philosophy (Matthew Festenstein)](d/dewey-political.md)
+  * [杜威的美学 Dewey’s Aesthetics (Tom Leddy、Kalle Puolakka)](d/dewey-aesthetics.md)
+* [克拉伦斯·欧文·刘易斯 Clarence Irving Lewis (Bruce Hunter)](l/lewis-ci.md)
+
+#### 实用主义总论与新实用主义
+
+* [实用主义 Pragmatism (Catherine Legg、Christopher Hookway)](p/pragmatism.md)
+* [理查德·罗蒂 Richard Rorty (Bjørn Ramberg、Susan Dieleman)](r/rorty.md)
+* [悉尼·胡克 Sidney Hook (David Sidorsky、Robert Talisse)](s/sidney-hook.md)
+
+#### 美国文艺复兴与超验主义
+
+* [拉尔夫·沃尔多·爱默生 Ralph Waldo Emerson (Russell Goodman)](e/emerson.md)
+* [亨利·戴维·梭罗 Henry David Thoreau (Rick Anthony Furtak)](t/thoreau.md)
+* [玛格丽特·富勒 Margaret Fuller (Daniel Howe、Sonia Di Loreto)](f/fuller-margaret.md)
+* [简·亚当斯 Jane Addams (Maurice Hamington)](a/addams-jane.md)
+* [超验主义 Transcendentalism (Russell Goodman)](t/transcendentalism.md)
+
+#### 哈佛与观念论
+
+* [乔赛亚·罗伊斯 Josiah Royce (Kelly A. Parker、Scott Pratt)](r/royce.md)
+* [乔治·桑塔亚纳 George Santayana (Herman Saatkamp、Martin Coleman)](s/santayana.md)
+* [昌西·赖特 Chauncey Wright (Jean De Groot)](w/wright.md)
+
 ### 分析哲学
 
 #### 早期分析哲学
@@ -1274,242 +1512,6 @@ outline: [1, 6]
 
 * [保罗·利科 Paul Ricoeur (David Pellauer、Bernard Dauenhauer、Scott Davidson)](r/ricoeur.md)
 
-### 实用主义与过程哲学
-
-#### 过程哲学
-
-* [阿弗烈·诺夫·怀特海 Alfred North Whitehead (Ronald Desmet、Andrew David Irvine)](w/whitehead.md)
-* [查尔斯·哈茨霍恩 Charles Hartshorne (Dan Dombrowski)](h/hartshorne.md)
-* [过程哲学 Process Philosophy (Johanna Seibt)](p/process-philosophy.md)
-
-#### 古典实用主义
-
-* [查尔斯·桑德斯·皮尔士 Charles Sanders Peirce (Robert Burch)](p/peirce.md)
-  * [皮尔士的演绎逻辑 Peirce’s Deductive Logic (Sun-Joo Shin)](p/peirce-logic.md)
-  * [本杰明·皮尔斯 Benjamin Peirce (Ivor Grattan-Guinness、Alison Walsh)](p/peirce-benjamin.md)
-  * [皮尔士的符号学理论 Peirce’s Theory of Signs (Albert Atkin)](p/peirce-semiotics.md)
-* [威廉·詹姆斯 William James (Russell Goodman)](j/james.md)
-* [乔治·赫伯特·米德 George Herbert Mead (Mitchell Aboulafia、Scott Taylor)](m/mead.md)
-* [约翰·杜威 John Dewey (David Hildebrand)](d/dewey.md)
-  * [杜威的道德哲学 Dewey’s Moral Philosophy (Elizabeth Anderson)](d/dewey-moral.md)
-  * [杜威的政治哲学 Dewey’s Political Philosophy (Matthew Festenstein)](d/dewey-political.md)
-  * [杜威的美学 Dewey’s Aesthetics (Tom Leddy、Kalle Puolakka)](d/dewey-aesthetics.md)
-* [克拉伦斯·欧文·刘易斯 Clarence Irving Lewis (Bruce Hunter)](l/lewis-ci.md)
-
-#### 实用主义总论与新实用主义
-
-* [实用主义 Pragmatism (Catherine Legg、Christopher Hookway)](p/pragmatism.md)
-* [理查德·罗蒂 Richard Rorty (Bjørn Ramberg、Susan Dieleman)](r/rorty.md)
-* [悉尼·胡克 Sidney Hook (David Sidorsky、Robert Talisse)](s/sidney-hook.md)
-
-#### 美国文艺复兴与超验主义
-
-* [拉尔夫·沃尔多·爱默生 Ralph Waldo Emerson (Russell Goodman)](e/emerson.md)
-* [亨利·戴维·梭罗 Henry David Thoreau (Rick Anthony Furtak)](t/thoreau.md)
-* [玛格丽特·富勒 Margaret Fuller (Daniel Howe、Sonia Di Loreto)](f/fuller-margaret.md)
-* [简·亚当斯 Jane Addams (Maurice Hamington)](a/addams-jane.md)
-* [超验主义 Transcendentalism (Russell Goodman)](t/transcendentalism.md)
-
-#### 哈佛与观念论
-
-* [乔赛亚·罗伊斯 Josiah Royce (Kelly A. Parker、Scott Pratt)](r/royce.md)
-* [乔治·桑塔亚纳 George Santayana (Herman Saatkamp、Martin Coleman)](s/santayana.md)
-* [昌西·赖特 Chauncey Wright (Jean De Groot)](w/wright.md)
-
-### 后黑格尔与马克思主义
-
-#### 马克思与恩格斯
-
-##### 马克思
-
-* [卡尔·马克思 Karl Marx (Jonathan Wolff、David Leopold)](m/marx.md)
-
-##### 恩格斯
-
-* [弗里德里希·恩格斯 Friedrich Engels (Matt Shafer)](e/engels.md)
-
-##### 异化
-
-* [异化 Alienation (David Leopold)](a/alienation.md)
-
-#### 青年黑格尔派
-
-##### 鲍威尔
-
-* [布鲁诺·鲍威尔 Bruno Bauer (Douglas Moggach、Gabriele Schimmenti)](b/bauer.md)
-
-##### 费尔巴哈
-
-* [路德维希·安德列斯·费尔巴哈 Ludwig Andreas Feuerbach (Todd Gooch)](l/ludwig-feuerbach.md)
-
-##### 施蒂纳
-
-* [麦克斯·施蒂纳 Max Stirner (David Leopold)](m/max-stirner.md)
-
-#### 西方马克思主义
-
-##### 西方马克思主义总论
-
-* [分析马克思主义 Analytical Marxism (David Leopold)](m/marxism-analytical.md)
-
-##### 卢卡奇与布洛赫
-
-* [格奥尔格·卢卡奇 Georg \[György\] Lukács (Titus Stahl)](l/lukacs.md)
-* [恩斯特·布洛赫 Ernst Bloch (Ivan Boldyrev)](b/bloch.md)
-
-##### 葛兰西与卢森堡
-
-* [安东尼奥·葛兰西 Antonio Gramsci (James Martin)](g/gramsci.md)
-* [罗莎·卢森堡 Rosa Luxemburg (Lea Ypi)](l/luxemburg.md)
-
-##### 阿尔都塞
-
-* [路易·阿尔都塞 Louis Althusser (William Lewis)](a/althusser.md)
-
-### 非理性主义与生存哲学
-
-#### 尼采
-
-* [弗里德里希·尼采 Friedrich Nietzsche (R. Lanier Anderson)](n/nietzsche.md)
-  * [尼采的生平与著作 Nietzsche’s Life and Works (Robert Wicks)](n/nietzsche-life-works.md)
-  * [尼采的伦理与政治哲学 Nietzsche’s Moral and Political Philosophy (Brian Leiter)](n/nietzsche-moral-political.md)
-  * [尼采的美学 Nietzsche’s Aesthetics (Timothy Stoll)](n/nietzsche-aesthetics.md)
-
-#### 叔本华
-
-* [阿图尔·叔本华 Arthur Schopenhauer (Robert Wicks)](s/schopenhauer.md)
-  * [叔本华的美学 Schopenhauer’s Aesthetics (Sandra Shapshay)](s/schopenhauer-aesthetics.md)
-
-#### 克尔凯郭尔
-
-* [索伦·克尔凯郭尔 Søren Kierkegaard (John Lippitt、C. Stephen Evans)](k/kierkegaard.md)
-
-### 实证主义与科学主义
-
-#### 第一代实证主义
-
-##### 孔德
-
-* [奥古斯特·孔德 Auguste Comte (Michel Bourdeau)](c/comte.md)
-
-##### 斯宾塞
-
-* [赫伯特·斯宾塞 Herbert Spencer (David Weinstein)](s/spencer.md)
-
-##### 惠威尔
-
-* [威廉·惠威尔 William Whewell (Laura J. Snyder)](w/whewell.md)
-
-##### 艾略特
-
-* [乔治·艾略特 George Eliot (Clare Carlisle)](g/george-eliot.md)
-
-#### 马赫主义
-
-* [恩斯特·马赫 Ernst Mach (Pietro Gori、Luca Guzzardi)](e/ernst-mach.md)
-
-#### 维也纳学派与逻辑实证主义
-
-##### 维也纳学派总论
-
-* [维也纳学派 Vienna Circle (Thomas Uebel)](v/vienna-circle.md)
-
-##### 石里克与纽拉特
-
-* [莫里茨·石里克 Moritz Schlick (Thomas Oberdan、Friedrich Stadler)](s/schlick.md)
-* [奥托·纽拉特 Otto Neurath (Jordi Cat)](n/neurath.md)
-
-##### 卡尔纳普
-
-* [鲁道夫·卡尔纳普 Rudolf Carnap (Hannes Leitgeb、André Carus)](c/carnap.md)
-
-##### 亨普尔与费格尔
-
-* [卡尔·G·亨普尔 Carl Hempel (James Fetzer)](h/hempel.md)
-* [赫伯特·费格尔 Herbert Feigl (Matthias Neuber)](f/feigl.md)
-
-##### 艾耶尔
-
-* [阿尔弗雷德·朱尔斯·艾耶尔 Alfred Jules Ayer (Graham Macdonald、Ádám Tamás Tuboly、Nikhil Krishnan)](a/ayer.md)
-
-##### 赖兴巴赫
-
-* [汉斯·赖兴巴赫 Hans Reichenbach (Clark Glymour、Frederick Eberhardt)](r/reichenbach.md)
-  * [汉斯·赖兴巴赫的共同原因原理 Reichenbach’s Common Cause Principle (Christopher Hitchcock、Miklós Rédei)](p/physics-Rpcc.md)
-
-##### 庞加莱
-
-* [亨利·庞加莱 Henri Poincaré (Gerhard Heinzmann、David Stump)](p/poincare.md)
-
-### 功利主义与古典自由主义
-
-#### 功利主义总论与史
-
-* [功利主义史 The History of Utilitarianism (Julia Driver)](u/utilitarianism-history.md)
-* [杰里米·边沁 Jeremy Bentham (James E. Crimmins)](b/bentham.md)
-
-#### 密尔父子与哈丽雅特
-
-* [约翰·斯图亚特·穆勒 John Stuart Mill (Christopher Macleod)](m/mill.md)
-  * [穆勒的伦理学和政治哲学 Mill’s Moral and Political Philosophy (David Brink)](m/mill-moral-political.md)
-* [詹姆斯·密尔 James Mill (Terence Ball、Antis Loizides)](j/james-mill.md)
-* [哈丽雅特·泰勒·密尔 Harriet Taylor Mill (Dale E. Miller)](h/harriet-mill.md)
-
-#### 西季威克
-
-* [亨利·西季威克 Henry Sidgwick (Barton Schultz)](s/sidgwick.md)
-
-#### 古典自由主义与政治经济学
-
-* [威廉·戈德温 William Godwin (Mark Philp)](g/godwin.md)
-* [威廉·斯坦利·杰文斯 William Stanley Jevons (Bert Mosselmans)](w/william-jevons.md)
-
-### 新康德主义
-
-#### 新康德主义总论
-
-* [新康德主义 Neo-Kantianism (Jeremy Heis)](n/neo-kantianism.md)
-
-#### 马堡学派
-
-* [赫尔曼·科恩 Hermann Cohen (Scott Edgar)](c/cohen.md)
-* [保罗·那托普 Paul Natorp (Alan Kim)](n/natorp.md)
-* [恩斯特·卡西尔 Ernst Cassirer (Michael Friedman)](c/cassirer.md)
-
-#### 西南学派
-
-* [海因里希·李凯尔特 Heinrich Rickert (Andrea Staiti、Luca Oliva)](h/heinrich-rickert.md)
-* [威廉·文德尔班 Wilhelm Windelband (Katherina Kinzel)](w/wilhelm-windelband.md)
-
-#### 生命哲学与实证主义
-
-* [弗里德里希·阿尔贝特·朗格 Friedrich Albert Lange (Nadeem J. Z. Hussain、Lydia Patton、Elisabeth Widmer)](f/friedrich-lange.md)
-* [汉斯·费英格 Hans Vaihinger (Timothy Stoll)](v/vaihinger.md)
-* [赫尔曼·洛采 Hermann Lotze (David Sullivan)](h/hermann-lotze.md)
-
-### 英国观念论与实在论
-
-#### 英国观念论
-
-* [弗朗西斯·赫伯特·布拉德雷 Francis Herbert Bradley (Stewart Candlish、Pierfrancesco Basile)](b/bradley.md)
-  * [布拉德雷的伦理学 Bradley’s Moral Philosophy (Dina Babushkina、David Crossley)](b/bradley-moral.md)
-  * [布拉德雷倒退 Bradley’s Regress (Katarina Perovic)](b/bradley-regress.md)
-* [伯纳德·鲍桑葵 Bernard Bosanquet (William Sweet)](b/bosanquet.md)
-* [托马斯·希尔·格林 Thomas Hill Green (David Brink)](g/green.md)
-* [约翰·麦克塔格特 John M. E. McTaggart (Kris McDaniel)](m/mctaggart.md)
-* [罗宾·乔治·柯林武德 Robin George Collingwood (Giuseppina D’Oro、James Connelly)](c/collingwood.md)
-  * [罗宾·乔治·柯林武德的美学 Collingwood’s Aesthetics (Gary Kemp)](c/collingwood-aesthetics.md)
-
-#### 新实在论
-
-* [塞缪尔·亚历山大 Samuel Alexander (Emily A. E. Thomas)](a/alexander.md)
-* [詹姆斯·沃德 James Ward (Pierfrancesco Basile)](j/james-ward.md)
-* [约翰·安德森 John Anderson (Creagh McLean Cole)](a/anderson-john.md)
-
-#### 人格主义
-
-* [人格主义 Personalism (Thomas D. Williams、Jan Olof Bengtsson)](p/personalism.md)
-
 ### 法兰克福学派
 
 > 并见 美学／批判理论中的美学、社会伦理学／承认。SEP 未为霍耐特、弗洛姆等单设条目，故本节点以现存六条为限。
@@ -1528,34 +1530,6 @@ outline: [1, 6]
 #### 第二代
 
 * [尤尔根·哈贝马斯 Jürgen Habermas (James Gordon Finlayson、Dafydd Huw Rees)](h/habermas.md)
-
-### 现代政治哲学
-
-#### 自由主义与权利
-
-* [约翰·罗尔斯 John Rawls (Leif Wenar)](r/rawls.md)
-* [罗伯特·诺齐克的政治哲学 Robert Nozick’s Political Philosophy (Eric Mack)](n/nozick-political.md)
-* [安·兰德 Ayn Rand (Neera K. Badhwar、Roderick T. Long)](a/ayn-rand.md)
-
-#### 保守主义与法哲学
-
-* [卡尔·施米特 Carl Schmitt (Lars Vinx)](s/schmitt.md)
-* [列奥·施特劳斯 Leo Strauss (Leora Batnitzky)](s/strauss-leo.md)
-* [迈克尔·奥克肖特 Michael Oakeshott (Terry Nardin)](o/oakeshott.md)
-
-#### 基督教与社会思想
-
-* [雅克·马里坦 Jacques Maritain (William Sweet)](m/maritain.md)
-* [安东尼奥·罗斯米尼 Antonio Rosmini (Denis Cleary)](a/antonio-rosmini.md)
-
-#### 社会理论与历史
-
-* [马克斯·韦伯 Max Weber (Sung Ho Kim)](w/weber.md)
-* [汉娜·阿伦特 Hannah Arendt (Tatjana Tömmel、Maurizio Passerin d’Entreves)](a/arendt.md)
-
-#### 自由至上与市场
-
-* [弗里德里希·哈耶克 Friedrich Hayek (David Schmidtz、Peter Boettke)](f/friedrich-hayek.md)
 
 ### 结构主义与符号学
 
@@ -1585,6 +1559,34 @@ outline: [1, 6]
 > 并见 后结构主义（福柯、德勒兹、利奥塔、鲍德里亚）。SEP 无“解构”专条，德里达条为唯一入口。
 
 * [雅克·德里达 Jacques Derrida (Leonard Lawlor)](d/derrida.md)
+
+### 现代政治哲学
+
+#### 自由主义与权利
+
+* [约翰·罗尔斯 John Rawls (Leif Wenar)](r/rawls.md)
+* [罗伯特·诺齐克的政治哲学 Robert Nozick’s Political Philosophy (Eric Mack)](n/nozick-political.md)
+* [安·兰德 Ayn Rand (Neera K. Badhwar、Roderick T. Long)](a/ayn-rand.md)
+
+#### 保守主义与法哲学
+
+* [卡尔·施米特 Carl Schmitt (Lars Vinx)](s/schmitt.md)
+* [列奥·施特劳斯 Leo Strauss (Leora Batnitzky)](s/strauss-leo.md)
+* [迈克尔·奥克肖特 Michael Oakeshott (Terry Nardin)](o/oakeshott.md)
+
+#### 基督教与社会思想
+
+* [雅克·马里坦 Jacques Maritain (William Sweet)](m/maritain.md)
+* [安东尼奥·罗斯米尼 Antonio Rosmini (Denis Cleary)](a/antonio-rosmini.md)
+
+#### 社会理论与历史
+
+* [马克斯·韦伯 Max Weber (Sung Ho Kim)](w/weber.md)
+* [汉娜·阿伦特 Hannah Arendt (Tatjana Tömmel、Maurizio Passerin d’Entreves)](a/arendt.md)
+
+#### 自由至上与市场
+
+* [弗里德里希·哈耶克 Friedrich Hayek (David Schmidtz、Peter Boettke)](f/friedrich-hayek.md)
 
 # 哲学传统
 
