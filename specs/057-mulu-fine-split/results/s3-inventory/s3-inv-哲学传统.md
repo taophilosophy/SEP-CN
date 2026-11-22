@@ -1,30 +1,36 @@
-# s3 盘点 · 哲学传统（候选 42 节 / 条目 115）
+# s3 盘点 · 哲学传统（候选 49 节 / 条目 111）
 
 ## 哲学传统／犹太哲学／古代与中世纪犹太哲学／希腊化与加昂时期　[H4，3 条]
 - `philo`｜亚历山大里亚的斐洛 Philo of Alexandria (Carlos Lévy)
 - `saadya`｜萨阿迪亚·加昂 Saadya \[Saadiah\] (Sarah Pessin)
 - `israeli`｜伊萨克·伊斯拉埃利 Isaac Israeli (Leonard Levin、R. David Walker、Shalom Sadik)
 
-## 哲学传统／犹太哲学／古代与中世纪犹太哲学／安达卢西亚与迈蒙尼德　[H4，6 条]
+## 哲学传统／犹太哲学／古代与中世纪犹太哲学／安达卢西亚与迈蒙尼德／新柏拉图主义与护教　[H5，3 条]
 - `ibn-gabirol`｜所罗门·伊本·盖比鲁勒 Solomon Ibn Gabirol \[Avicebron\] (Sarah Pessin)
 - `ibn-ezra`｜亚伯拉罕·伊本·以斯拉 Abraham Ibn Ezra (Tzvi Langermann)
 - `halevi`｜犹大·哈列维 Judah Halevi (Ehud Krinis)
+
+## 哲学传统／犹太哲学／古代与中世纪犹太哲学／安达卢西亚与迈蒙尼德／亚里士多德主义　[H5，3 条]
 - `abraham-daud`｜亚伯拉罕·伊本·达乌德 Abraham Ibn Daud (Resianne Fontaine、Amira Eran)
 - `maimonides`｜迈蒙尼德 Maimonides (Kenneth Seeskin)　［簇：maimonides-islamic］
 - `ibn-kammuna`｜伊本·凯姆那 Ibn Kammūna (Tzvi Langermann)
 
-## 哲学传统／犹太哲学／古代与中世纪犹太哲学／13–14 世纪　[H4，5 条]
-- `albalag`｜以撒·阿尔巴拉格 Isaac Albalag (Bakinaz Abdalla)
+## 哲学传统／犹太哲学／古代与中世纪犹太哲学／13–14 世纪／翻译与百科全书　[H5，2 条]
 - `falaquera`｜闪-托夫·伊本·法拉奎拉 Shem Tov Ibn Falaquera (Steve Harvey)
 - `tibbon`｜撒母耳·伊本·提本 Samuel Ibn Tibbon (James T. Robinson)
+
+## 哲学传统／犹太哲学／古代与中世纪犹太哲学／13–14 世纪／亚里士多德主义及其批评　[H5，3 条]
+- `albalag`｜以撒·阿尔巴拉格 Isaac Albalag (Bakinaz Abdalla)
 - `gersonides`｜吉尔松尼德 Gersonides (Tamar Rudavsky)
 - `crescas`｜哈斯代·克雷斯卡斯 Hasdai Crescas (Shalom Sadik)
 
-## 哲学传统／犹太哲学／古代与中世纪犹太哲学／15 世纪　[H4，6 条]
+## 哲学传统／犹太哲学／古代与中世纪犹太哲学／15 世纪／伊比利亚的教义与论战　[H5，4 条]
 - `albo-joseph`｜约瑟夫·阿尔博 Joseph Albo (Dror Ehrlich、Shira Weiss)
 - `kaspi-joseph`｜约瑟夫·卡斯皮 Joseph Kaspi (Hannah Kasher、Moshe Kahan)
 - `polqar`｜以撒·波尔卡尔 Isaac Polqar (Racheli Haliva)
 - `abner-burgos`｜布尔戈斯的阿布内尔 Abner of Burgos (Shalom Sadik)
+
+## 哲学传统／犹太哲学／古代与中世纪犹太哲学／15 世纪／意大利文艺复兴　[H5，2 条]
 - `delmedigo`｜以利亚·德尔·梅第戈 Elijah Delmedigo (Michael Engel)
 - `abrabanel`｜犹大·莱昂·阿布拉瓦内尔 Judah Abrabanel (Aaron Hughes)
 
@@ -41,10 +47,9 @@
 - `laozi`｜老子 Laozi (Alan Chan)
 - `zhuangzi`｜庄子 Zhuangzi (Chad Hansen)
 
-## 哲学传统／中国哲学／先秦／墨家与名家　[H4，3 条]
+## 哲学传统／中国哲学／先秦／墨家与名家／墨家　[H5，2 条]
 - `mohism`｜墨家 Mohism (Chris Fraser)
 - `mohist-canons`｜墨经 Mohist Canons (Chris Fraser)
-- `school-names`｜名家 School of Names (Chris Fraser)
 
 ## 哲学传统／中国哲学／藏传佛教／格鲁派与宗喀巴　[H4，2 条]
 - `tsongkhapa`｜宗喀巴 Tsongkhapa (Gareth Sparham、Chandra Chiara Ehm)
@@ -62,19 +67,19 @@
 - `ethics-chinese`｜中国哲学中的伦理学 Chinese Ethics (David Wong)　［簇：confucian-gender］
 - `chinese-social-political`｜中国哲学中的社会与政治思想 Social and Political Thought in Chinese Philosophy (Stephen C. Angle)
 
-## 哲学传统／中国哲学／专题／形而上学与心灵　[H4，4 条]
+## 哲学传统／中国哲学／专题／形而上学与心灵／形而上学与变化　[H5，2 条]
 - `chinese-metaphysics`｜中国哲学中的形而上学 Metaphysics in Chinese Philosophy (Franklin Perkins)
-- `chinese-mind`｜中国哲学中的心 Mind (Heart-Mind) in Chinese Philosophy (David Wong)
-- `emotions-chinese`｜早期中国哲学中的情 The Emotions in Early Chinese Philosophy (Bongrae Seok)
 - `chinese-change`｜中国易经哲学 Chinese Philosophy of Change (Yijing) (Tze-Ki Hon)
 
-## 哲学传统／中国哲学／专题／认识论、逻辑与语言　[H4，3 条]
+## 哲学传统／中国哲学／专题／形而上学与心灵／心灵与情感　[H5，2 条]
+- `chinese-mind`｜中国哲学中的心 Mind (Heart-Mind) in Chinese Philosophy (David Wong)
+- `emotions-chinese`｜早期中国哲学中的情 The Emotions in Early Chinese Philosophy (Bongrae Seok)
+
+## 哲学传统／中国哲学／专题／认识论、逻辑与语言／认识论与逻辑语言　[H5，2 条]
 - `chinese-epistemology`｜中国哲学中的认识论 Epistemology in Chinese Philosophy (Jana Rošker)
 - `chinese-logic-language`｜早期中国哲学中的逻辑与语言 Logic and Language in Early Chinese Philosophy (Marshall D. Willman)
-- `chinese-translate-interpret`｜翻译和解释中国哲学 Translating and Interpreting Chinese Philosophy (Chad Hansen、David Wong、Henry Rosemont Jr.)
 
-## 哲学传统／中国哲学／专题／美学、医学与科学　[H4，3 条]
-- `chinese-painting-calligraphy`｜中国哲学中的美学：绘画与书法 Aesthetics in Chinese Philosophy: Painting and Calligraphy (Yolaine Escande)
+## 哲学传统／中国哲学／专题／美学、医学与科学／医学与科学　[H5，2 条]
 - `chinese-phil-medicine`｜中国哲学与中医 Chinese Philosophy and Chinese Medicine (Lisa Raphals)
 - `chinese-phil-science`｜中国哲学与科学 Science and Chinese Philosophy (Lisa Raphals)
 
@@ -82,22 +87,25 @@
 - `buddha`｜佛陀 Buddha (Mark Siderits)
 - `abhidharma`｜阿毗达磨 Abhidharma (Noa Ronkin)
 
-## 哲学传统／印度哲学／佛教／中观　[H4，4 条]
+## 哲学传统／印度哲学／佛教／中观／根本中观　[H5，2 条]
 - `nagarjuna`｜龙树 Nāgārjuna (Jan Christoph Westerhoff)
 - `madhyamaka`｜中观 Madhyamaka (Richard Hayes)
+
+## 哲学传统／印度哲学／佛教／中观／中观后续发展　[H5，2 条]
 - `srigupta`｜室利笈多 Śrīgupta (Allison Aitken)
 - `saantarak-sita`｜寂护 Śāntarakṣita (James Blumenthal、James Apple)
 
-## 哲学传统／印度哲学／佛教／瑜伽行与量论　[H4，4 条]
+## 哲学传统／印度哲学／佛教／瑜伽行与量论／瑜伽行派　[H5，2 条]
 - `vasubandhu`｜世亲 Vasubandhu (Jonathan C. Gold)
 - `yogacara`｜瑜伽行派 Yogācāra (Szilvia Szanyi)
+
+## 哲学传统／印度哲学／佛教／瑜伽行与量论／佛教量论　[H5，2 条]
 - `dharmakiirti`｜法称 Dharmakīrti (Tom Tillemans)
 - `ratnakirti`｜宝称 Ratnakīrti (Patrick McAllister)
 
-## 哲学传统／印度哲学／佛教／伦理学与二谛　[H4，4 条]
+## 哲学传统／印度哲学／佛教／伦理学与二谛／伦理与心灵　[H5，3 条]
 - `ethics-indian-buddhism`｜印度佛教中的伦理学 Ethics in Indian Buddhism (Charles Goodman、Aaron Schultz)
 - `mind-indian-buddhism`｜印度佛教哲学中的心灵 Mind in Indian Buddhist Philosophy (Christian Coseru)
-- `twotruths-india`｜印度的“二谛”理论 The Theory of Two Truths in India (Sonam Thakchoe)
 - `shantideva`｜寂天 Śāntideva (Charles Goodman)
 
 ## 哲学传统／印度哲学／专题／认识论与知觉　[H4，2 条]
@@ -153,9 +161,11 @@
 - `arabic-islamic-religion`｜阿拉伯和伊斯兰宗教哲学 Arabic and Islamic Philosophy of Religion (Jon McGinnis、Rahim Acar)
 - `arabic-islamic-mysticism`｜阿拉伯和伊斯兰哲学中的神秘主义 Mysticism in Arabic and Islamic Philosophy (Mehdi Aminrazavi)
 
-## 哲学传统／伊斯兰哲学／专题／人物与影响　[H4，4 条]
+## 哲学传统／伊斯兰哲学／专题／人物与影响／人物　[H5，2 条]
 - `abu-bakr-al-razi`｜拉齐 Abu Bakr al-Razi (Peter Adamson)
 - `umar-khayyam`｜欧玛尔·海亚姆 Umar Khayyam (Seyed N. Mousavian、Suzanne Sumner、Mehdi Aminrazavi、Glen Van Brummelen)
+
+## 哲学传统／伊斯兰哲学／专题／人物与影响／跨传统影响　[H5，2 条]
 - `arabic-islamic-judaic`｜阿拉伯和伊斯兰哲学对犹太思想的影响 Influence of Arabic and Islamic Philosophy on Judaic Thought (Mauro Zonta、Charles Manekin)
 - `arabic-islamic-influence`｜阿拉伯和伊斯兰哲学对西方拉丁世界的影响 Influence of Arabic and Islamic Philosophy on the Latin West (Dag Nikolaus Hasse)
 

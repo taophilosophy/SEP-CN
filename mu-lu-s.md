@@ -4135,28 +4135,44 @@ outline: [1, 6]
 
 #### 逻辑学家
 
+##### 数理逻辑与基础
+
 * [阿尔弗莱德·塔尔斯基 Alfred Tarski (Mario Gómez-Torrente)](t/tarski.md)
   * [塔尔斯基的真之定义 Tarski’s Truth Definitions (Wilfrid Hodges)](t/tarski-truth.md)
 * [库尔特·哥德尔 Kurt Gödel (Juliette Kennedy)](g/goedel.md)
 * [阿隆佐·邱奇 Alonzo Church (Harry Deutsch、Oliver Marshall)](c/church.md)
   * [丘奇类型论 Church’s Type Theory (Christoph Benzmüller、Peter Andrews)](t/type-theory-church.md)
-* [阿瑟·普赖尔 Arthur Prior (B. Jack Copeland)](p/prior.md)
 * [伯恩哈德·波尔查诺 Bernard Bolzano (Edgar Morscher)](b/bolzano.md)
   * [波尔查诺的逻辑学 Bolzano’s Logic (Paul Rusnock、Jan Šebestik)](b/bolzano-logic.md)
-* [恩斯特·马利 Ernst Mally (Alexander Hieke、Gerhard Zecha、Hamid Taieb)](m/mally.md)
-  * [恩斯特·马利的道义逻辑 Mally’s Deontic Logic (Gert-Jan Lokhorst、Stefania Centrone、Pierluigi Minari)](m/mally-deontic.md)
-* [乔治·布尔 George Boole (Stanley Burris、Marcel Jackson)](b/boole.md)
-* [海因里希·肖尔兹 Heinrich Scholz (Volker Peckhaus)](s/scholz.md)
-* [勒伊岑·艾赫贝特斯·扬·布劳威尔 Luitzen Egbertus Jan Brouwer (Mark van Atten)](b/brouwer.md)
 * [斯坦尼斯瓦夫·莱什涅夫斯基 Stanisław Leśniewski (Peter Simons)](l/lesniewski.md)
 
+##### 模态与道义逻辑
+
+* [阿瑟·普赖尔 Arthur Prior (B. Jack Copeland)](p/prior.md)
+* [恩斯特·马利 Ernst Mally (Alexander Hieke、Gerhard Zecha、Hamid Taieb)](m/mally.md)
+  * [恩斯特·马利的道义逻辑 Mally’s Deontic Logic (Gert-Jan Lokhorst、Stefania Centrone、Pierluigi Minari)](m/mally-deontic.md)
+
+##### 代数逻辑与学派
+
+* [乔治·布尔 George Boole (Stanley Burris、Marcel Jackson)](b/boole.md)
+* [海因里希·肖尔兹 Heinrich Scholz (Volker Peckhaus)](s/scholz.md)
+
+##### 直觉主义
+
+* [勒伊岑·艾赫贝特斯·扬·布劳威尔 Luitzen Egbertus Jan Brouwer (Mark van Atten)](b/brouwer.md)
+
 #### 逻辑史
+
+##### 学派与学科形成
 
 * [华沙学派 Lvov-Warsaw School (Jan Woleński)](l/lvov-warsaw.md)
   * [扬·武卡谢维奇 Jan Łukasiewicz (Peter Simons)](l/lukasiewicz.md)
 * [现代模态逻辑的起源 Modern Origins of Modal Logic (Roberta Ballarin)](l/logic-modal-origins.md)
 * [直觉主义逻辑的发展 The Development of Intuitionistic Logic (Mark van Atten)](i/intuitionistic-logic-development.md)
 * [一阶逻辑的出现 The Emergence of First-Order Logic (William Ewald)](l/logic-firstorder-emergence.md)
+
+##### 心理主义与条件句
+
 * [心理主义 Psychologism (Martin Kusch)](p/psychologism.md)
 * [直陈条件 Indicative Conditionals (Dorothy Edgington)](c/conditionals.md)
 * [反事实 Counterfactuals (Willow Starr、Alex Kocurek)](c/counterfactuals.md)
@@ -4168,83 +4184,149 @@ outline: [1, 6]
 
 #### 经典逻辑总论
 
+##### 经典逻辑与命题逻辑
+
 * [经典逻辑 Classical Logic (Stewart Shapiro、Teresa Kouri Kissel)](l/logic-classical.md)
 * [命题逻辑 Propositional Logic (Curtis Franks)](l/logic-propositional.md)
+
+##### 连接词、常项与演绎
+
 * [形式逻辑中的句子连接词 Sentence Connectives in Formal Logic (Lloyd Humberstone)](c/connectives-logic.md)
 * [逻辑常项 Logical Constants (John MacFarlane)](l/logical-constants.md)
   * [析取/逻辑或 Disjunction (Maria Aloni)](d/disjunction.md)
 * [逻辑学中的自然演绎系统 Natural Deduction Systems in Logic (Francis Jeffry Pelletier、Allen Hazen)](n/natural-deduction.md)
+
+##### 传统逻辑方阵
+
 * [传统逻辑方阵 The Traditional Square of Opposition (Terence Parsons、Graziana Ciola)](s/square.md)
 
 #### 量化与条件
 
+##### 量化与充分必要
+
 * [量词与量化 Quantifiers and Quantification (Gabriel Uzquiano)](q/quantification.md)
 * [必要条件和充分条件 Necessary and Sufficient Conditions (Andrew Brennan)](n/necessary-sufficient.md)
+
+##### 代数与无穷逻辑
+
 * [代数命题逻辑 Algebraic Propositional Logic (Ramon Jansana)](l/logic-algebraic-propositional.md)
 * [无穷逻辑 Infinitary Logic (John L. Bell)](l/logic-infinitary.md)
+
+##### 动态逻辑
+
 * [命题动态逻辑 Propositional Dynamic Logic (Nicolas Troquard、Philippe Balbiani)](l/logic-dynamic.md)
 
 ### 非经典逻辑
 
 #### 模态与时态
 
+##### 模态与时态逻辑
+
 * [模态逻辑 Modal Logic (James Garson)](l/logic-modal.md)
 * [时间逻辑 Temporal Logic (Valentin Goranko、Antje Rumberg)](l/logic-temporal.md)
+* [混合逻辑 Hybrid Logic (Torben Braüner)](l/logic-hybrid.md)
+
+##### 分支时间与未来偶然
+
 * [分支时间 Branching Time (Giuseppe Spolaore、Alberto Zanardo)](b/branching-time.md)
 * [未来偶然性 Future Contingents (Peter Øhrstrøm、Per Hasle)](f/future-contingents.md)
-* [混合逻辑 Hybrid Logic (Torben Braüner)](l/logic-hybrid.md)
+
+##### 多模态哲学
+
 * [多模态逻辑的哲学方向 Philosophical Aspects of Multi-Modal Logic (Sonja Smets、Fernando Velázquez-Quesada)](p/phil-multimodallogic.md)
 
 #### 直觉主义与构造
 
+##### 直觉主义与子结构
+
 * [直觉主义逻辑 Intuitionistic Logic (Joan Moschovakis)](l/logic-intuitionistic.md)
 * [子结构逻辑 Substructural Logics (Greg Restall)](l/logic-substructural.md)
 * [线性逻辑 Linear Logic (Roberto Di Cosmo、Dale Miller)](l/logic-linear.md)
+
+##### 多值与模糊
+
 * [多值逻辑 Many-Valued Logic (João Marcos、Adam Přenosil、Paul Egré)](l/logic-manyvalued.md)
 * [模糊逻辑 Fuzzy Logic (Petr Cintula、Christian G. Fermüller、Carles Noguera)](l/logic-fuzzy.md)
 
 #### 认识论与动态
 
+##### 认知与动态
+
 * [动态认知逻辑 Dynamic Epistemic Logic (Alexandru Baltag、Bryan Renne)](d/dynamic-epistemic.md)
 * [认知逻辑 Epistemic Logic (Rasmus Rendsvig、John Symons、Yanjing Wang)](l/logic-epistemic.md)
+
+##### 确证、可证性与对话
+
 * [确证逻辑 Justification Logic (Sergei Artemov、Melvin Fitting、Thomas Studer)](l/logic-justification.md)
 * [可证性逻辑 Provability Logic (Rineke (L.C.) Verbrugge)](l/logic-provability.md)
 * [对话逻辑 Dialogical Logic (Nicolas Clerbout、Zoe McConaughey)](l/logic-dialogical.md)
 
 #### 相干、次协调与依赖
 
+##### 相干与次协调
+
 * [相干逻辑 Relevance Logic (Edwin Mares)](l/logic-relevance.md)
 * [次协调逻辑 Paraconsistent Logic (Graham Priest、Koji Tanaka、Zach Weber)](l/logic-paraconsistent.md)
 * [连接逻辑 Connexive Logic (Heinrich Wansing)](l/logic-connexive.md)
+
+##### 依赖与友好逻辑
+
 * [依赖逻辑 Dependence Logic (Pietro Galliani)](l/logic-dependence.md)
 * [独立友好逻辑 Independence Friendly Logic (Tero Tulenheimo)](l/logic-if.md)
+
+##### 自由逻辑
+
 * [自由逻辑 Free Logic (Norbert Gratzl、Edi Pavlović、John Nolt)](l/logic-free.md)
 
 #### 量词与高阶
 
+##### 高阶与广义量词
+
 * [二阶逻辑与高阶逻辑 Second-order and Higher-order Logic (Jouko Väänänen)](l/logic-higher-order.md)
 * [广义量词 Generalized Quantifiers (Dag Westerståhl)](g/generalized-quantifiers.md)
 * [多元量化 Plural Quantification (Øystein Linnebo)](p/plural-quant.md)
+
+##### 多类与内涵
+
 * [多类逻辑 Many-Sorted Logic (María Manzano、Víctor Aranda)](l/logic-many-sorted.md)
 * [内涵逻辑 Intensional Logic (Melvin Fitting)](l/logic-intensional.md)
+
+##### 超内涵性
+
 * [超内涵性 Hyperintensionality (Francesco Berto、Daniel Nolan)](h/hyperintensionality.md)
 
 #### 游戏与语义
 
+##### 逻辑与博弈
+
 * [逻辑与游戏 Logic and Games (Wilfrid Hodges、Jouko Väänänen)](l/logic-games.md)
 * [分析游戏的逻辑 Logics for Analyzing Games (Johan van Benthem、Dominik Klein)](l/logics-for-games.md)
 * [用于分析标准形式博弈中权力的逻辑 Reasoning About Power in Games (Paolo Turrini、Thomas Ågotnes)](l/logic-power-games.md)
+
+##### 语义与语法
+
 * [自然语言语义学的情境 Situations in Natural Language Semantics (Angelika Kratzer)](s/situations-semantics.md)
 * [类型语法 Typelogical Grammar (Michael Moortgat)](t/typelogical-grammar.md)
+
+##### 合并逻辑
+
 * [合并逻辑 Combining Logics (Walter Carnielli、Marcelo Esteban Coniglio)](l/logic-combining.md)
 
 #### 专题
 
+##### 真值与真理
+
 * [真值 Truth Values (Yaroslav Shramko、Heinrich Wansing)](t/truth-values.md)
 * [逻辑真理 Logical Truth (Mario Gómez-Torrente)](l/logical-truth.md)
 * [逻辑多元主义 Logical Pluralism (Gillian Russell、Christopher Blake-Turner)](l/logical-pluralism.md)
+
+##### 非单调与行动
+
 * [非单调逻辑 Non-monotonic Logic (Christian Strasser、G. Aldo Antonelli)](l/logic-nonmonotonic.md)
 * [行动的逻辑 The Logic of Action (Krister Segerberg、John-Jules Meyer、Marcus Kracht)](l/logic-action.md)
+
+##### 条件、模糊与道义
+
 * [条件逻辑 The Logic of Conditionals (Paul Egré、Hans Rott)](l/logic-conditionals.md)
 * [模糊性 Vagueness (Roy Sorensen)](v/vagueness.md)
 * [道义逻辑 Deontic Logic (Paul McNamara、Frederik Van De Putte)](l/logic-deontic.md)
@@ -4253,62 +4335,103 @@ outline: [1, 6]
 
 #### 集合论
 
+##### 集合论总论与历史
+
 * [集合论 Set Theory (Joan Bagaria)](s/set-theory.md)
-* [替代性公理集合论 Alternative Axiomatic Set Theories (M. Randall Holmes)](s/settheory-alternative.md)
 * [集合论：集合论的早期发展 The Early Development of Set Theory (José Ferreirós)](s/settheory-early.md)
+* [策梅洛的公理化集合论 Zermelo’s Axiomatization of Set Theory (Michael Hallett)](z/zermelo-set-theory.md)
+
+##### 替代与构造集合论
+
+* [替代性公理集合论 Alternative Axiomatic Set Theories (M. Randall Holmes)](s/settheory-alternative.md)
 * [非良基集合论 Non-wellfounded Set Theory (Lawrence S. Moss)](n/nonwellfounded-set-theory.md)
 * [集合论：构造主义和直觉主义 Set Theory: Constructive and Intuitionistic ZF (Laura Crosilla)](s/set-theory-constructive.md)
-* [策梅洛的公理化集合论 Zermelo’s Axiomatization of Set Theory (Michael Hallett)](z/zermelo-set-theory.md)
+
+##### 连续统与大基数
+
 * [集合论：连续统假设 The Continuum Hypothesis (Peter Koellner)](c/continuum-hypothesis.md)
 * [大基数与独立性 Independence and Large Cardinals (Peter Koellner)](i/independence-large-cardinals.md)
 * [大基数与决定性 Large Cardinals and Determinacy (Peter Koellner)](l/large-cardinals-determinacy.md)
 
 #### 模型论与证明论
 
+##### 模型论
+
 * [模型论 Model Theory (Wilfrid Hodges)](m/model-theory.md)
 * [一阶模型论 First-order Model Theory (Wilfrid Hodges、Thomas Scanlon)](m/modeltheory-fo.md)
+
+##### 证明论与反推数学
+
 * [证明论 Proof Theory (Michael Rathjen、Wilfried Sieg)](p/proof-theory.md)
 * [证明论的发展 The Development of Proof Theory (Jan von Plato)](p/proof-theory-development.md)
 * [反推数学 Reverse Mathematics (Benedict Eastaugh)](r/reverse-mathematics.md)
 
 #### 类型论与计算
 
+##### 类型论
+
 * [类型论 Type Theory (Thierry Coquand)](t/type-theory.md)
 * [直觉主义类型论 Intuitionistic Type Theory (Peter Dybjer、Erik Palmgren)](t/type-theory-intuitionistic.md)
+
+##### λ 演算与组合逻辑
+
 * [λ 演算 The Lambda Calculus (Jesse Alama、Johannes Korbmacher)](l/lambda-calculus.md)
 * [组合逻辑 Combinatory Logic (Katalin Bimbó)](l/logic-combinatory.md)
+
+##### 递归与 ε 演算
+
 * [递归函数 Recursive Functions (Walter Dean、Alberto Naibo)](r/recursive-functions.md)
 * [ε 演算 The Epsilon Calculus (Jeremy Avigad、Richard Zach)](e/epsilon-calculus.md)
 
 #### 代数与基础
 
+##### 范畴论与逻辑代数
+
 * [范畴论 Category Theory (Jean-Pierre Marquis)](c/category-theory.md)
 * [逻辑代数的传统 The Algebra of Logic Tradition (Stanley Burris、Javier Legris)](a/algebra-logic-tradition.md)
 * [数学中的逻辑代数 The Mathematics of Boolean Algebra (J. Donald Monk)](b/boolalg-math.md)
+
+##### 逻辑主义
+
 * [逻辑主义和新逻辑主义 Logicism and Neologicism (Neil Tennant)](l/logicism.md)
 
 ### 悖论与非形式逻辑
 
 #### 推理与论证
 
+##### 论证与非形式逻辑
+
 * [论证与论辩 Argument and Argumentation (Catarina Dutilh Novaes、Marcin Lewiński)](a/argument.md)
-* [类比与类比推理 Analogy and Analogical Reasoning (Paul Bartha)](r/reasoning-analogy.md)
 * [非形式逻辑 Informal Logic (Leo Groarke)](l/logic-informal.md)
 * [谬误 Fallacies (Hans Hansen)](f/fallacies.md)
+
+##### 类比与无限倒退
+
+* [类比与类比推理 Analogy and Analogical Reasoning (Paul Bartha)](r/reasoning-analogy.md)
 * [无限倒退论证 Infinite Regress Arguments (Ross Cameron)](i/infinite-regress.md)
 
 #### 悖论
 
+##### 具体悖论
+
 * [柯里悖论 Curry’s Paradox (Lionel Shapiro、Jc Beall)](c/curry-paradox.md)
 * [斯科伦悖论 Skolem’s Paradox (Timothy Bays)](p/paradox-skolem.md)
+
+##### 悖论与矛盾总论
+
 * [悖论与现代逻辑 Paradoxes and Contemporary Logic (Andrea Cantini、Riccardo Bruni)](p/paradoxes-contemporary-logic.md)
 * [矛盾 Contradiction (Laurence R. Horn)](c/contradiction.md)
 
 #### 逻辑后承与概率
 
+##### 后承与概率
+
 * [逻辑后承 Logical Consequence (Jc Beall、Greg Restall、Gil Sagi)](l/logical-consequence.md)
-* [归纳逻辑 Inductive Logic (James Hawthorne)](l/logic-inductive.md)
 * [逻辑与概率 Logic and Probability (Lorenz Demey、Barteld Kooi、Joshua Sack)](l/logic-probability.md)
+
+##### 归纳与规范
+
+* [归纳逻辑 Inductive Logic (James Hawthorne)](l/logic-inductive.md)
 * [逻辑的规范地位 The Normative Status of Logic (Florian Steinberger)](l/logic-normative.md)
 
 ## 一般科学哲学
@@ -4342,16 +4465,29 @@ outline: [1, 6]
 
 #### 科学方法
 
+##### 方法与发现
+
 * [科学方法 Scientific Method (Brian Hepburn、Hanne Andersen)](s/scientific-method.md)
 * [科学发现 Scientific Discovery (Jutta Schickore)](s/scientific-discovery.md)
+
+##### 思想实验与图表
+
 * [思想实验 Thought Experiments (James Robert Brown、Yiftach Fehige)](t/thought-experiment.md)
 * [图表 Diagrams and Diagrammatical Reasoning (Sun-Joo Shin、Oliver Lemon、John Mumma)](d/diagrams.md)
+
+##### 操作主义
+
 * [操作主义 Operationalism (Hasok Chang)](o/operationalism.md)
 
 #### 确证与预测
 
+##### 确证与贝叶斯
+
 * [确证 Confirmation (Vincenzo Crupi)](c/confirmation.md)
 * [贝叶斯定理 Bayes’ Theorem (James Joyce)](b/bayes-theorem.md)
+
+##### 预测与简单性
+
 * [预测与迁就 Prediction versus Accommodation (Eric Christian Barnes)](p/prediction-accommodation.md)
 * [简单性 Simplicity (Alan Baker)](s/simplicity.md)
 
@@ -4500,104 +4636,180 @@ outline: [1, 6]
 
 ### 生物学哲学总论
 
+#### 生物学哲学与生命
+
 * [生物学哲学 Philosophy of Biology (Jay Odenbaugh、Paul Griffiths)](b/biology-philosophy.md)
 * [生命 Life (Carlos Mariscal)](l/life.md)
+
+#### 个体与层级
+
 * [生物学个体 Biological Individuals (Robert A. Wilson、Matthew J. Barker)](b/biology-individual.md)
 * [生物学中的组织层级 Levels of Organization in Biology (Markus I. Eronen、Daniel Stephen Brooks)](l/levels-org-biology.md)
 
 ### 进化与选择
 
+#### 进化与选择理论
+
 * [进化 Evolution (Roberta L. Millstein)](e/evolution.md)
 * [自然选择 Natural Selection (Peter Gildenhuys)](n/natural-selection.md)
 * [适应主义 Adaptationism (Steven Hecht Orzack、Patrick Forber)](a/adaptationism.md)
 * [适合度 Fitness (Alexander Rosenberg、Frederic Bouchard)](f/fitness.md)
+
+#### 漂变与选择层次
+
 * [遗传漂变 Genetic Drift (Roberta L. Millstein)](g/genetic-drift.md)
 * [选择的单位与层次 Units and Levels of Selection (Elisabeth Lloyd)](s/selection-units.md)
+
+#### 利他、社会生物学与物种
+
 * [生物利他主义 Biological Altruism (Samir Okasha)](a/altruism-biological.md)
 * [社会生物学 Sociobiology (Catherine Driscoll)](s/sociobiology.md)
 * [物种 Species (Marc Ereshefsky)](s/species.md)
 
 ### 进化史与达尔文
 
+#### 达尔文与前达尔文
+
 * [达尔文：从《物种起源》到《人类的由来》 Darwin: From the Origin of Species to the Descent of Man (Phillip Sloan)](o/origin-descent.md)
 * [达尔文主义 Darwinism (James Lennox、Charles H. Pence)](d/darwinism.md)
 * [达尔文之前的进化思想 Evolutionary Thought Before Darwin (Phillip Sloan)](e/evolution-before-darwin.md)
+
+#### 神创论
+
 * [神创论 Creationism (Michael Ruse)](c/creationism.md)
 
 ### 遗传学
 
+#### 基因与遗传学
+
 * [基因 Gene (Robert Meunier)](g/gene.md)
 * [遗传学 Genetics (James Tabery)](g/genetics.md)
 * [基因组学和后基因组学 Genomics and Postgenomics (Stephan Guttinger、John Dupré)](g/genomics.md)
+
+#### 分子遗传与遗传力
+
 * [分子遗传学 Molecular Genetics (Ken Waters、Marcel Weber)](m/molecular-genetics.md)
 * [遗传力 Heritability (Stephen M. Downes、Lucas Matthews)](h/heritability.md)
-* [遗传系统 Inheritance Systems (Ehud Lamm)](i/inheritance-systems.md)
 * [基因型/表现型的区别 The Genotype/Phenotype Distinction (Michael Dietrich、Marina DiMarco)](g/genotype-phenotype.md)
+
+#### 遗传系统与基因组计划
+
+* [遗传系统 Inheritance Systems (Ehud Lamm)](i/inheritance-systems.md)
 * [人类基因组计划 The Human Genome Project (Lisa Gannett)](h/human-genome.md)
 * [复制和繁殖 Replication and Reproduction (John S. Wilkins、Pierrick Bourrat)](r/replication.md)
 
 ### 发育与模式生物
 
+#### 发育与演化
+
 * [发育生物学 Developmental Biology (Alan Love、Yoshinari Yoshida)](b/biology-developmental.md)
 * [进化和发育 Evolution and Development (Jan Baedke、Scott F. Gilbert)](e/evolution-development.md)
 * [生物发育的理论 Theories of Biological Development (Melinda Bonnie Fagan、Jane Maienschein)](t/theories-biological-development.md)
+
+#### 模式生物
+
 * [模式生物 Model Organisms (Michael Dietrich、Nedah Nemati)](m/model-organisms.md)
 
 ### 生态与保育
 
+#### 生态与多样性
+
 * [生态学 Ecology (Alkistis Elliott-Graves)](e/ecology.md)
 * [生态遗传学 Ecological Genetics (Michael Wade)](e/ecological-genetics.md)
 * [生物多样性 Biodiversity (Daniel P. Faith)](b/biodiversity.md)
+
+#### 保育、宏观进化与系统发生
+
 * [保育生物学 Conservation Biology (Jay Odenbaugh)](c/conservation-biology.md)
 * [宏观进化哲学 Philosophy of Macroevolution (Derek Turner、Joyce C. Havstad)](m/macroevolution.md)
 * [系统发生推断 Phylogenetic Inference (Matt Haber、Joel Velasco)](p/phylogenetic-inference.md)
 
 ### 细胞、分子与微生物
 
+#### 细胞与分子生物学
+
 * [细胞生物学哲学 Philosophy of Cell Biology (William Bechtel、Andrew Bollhagen)](c/cell-biology.md)
 * [分子生物学 Molecular Biology (Tudor Baetu、Monika Piotrowska、James Tabery)](m/molecular-biology.md)
+
+#### 微生物与系统生物学
+
 * [微生物学哲学 Philosophy of Microbiology (Maureen A. O’Malley、Emily C. Parke)](m/microbiology.md)
 * [系统与合成生物哲学 Philosophy of Systems and Synthetic Biology (Sara Green)](s/systems-synthetic-biology.md)
 
 ### 动物认知
 
+#### 动物认知与社会认知
+
 * [动物认知 Animal Cognition (Kristin Andrews、Susana Monsó)](c/cognition-animal.md)
+* [动物社会认知 Animal Social Cognition (Cameron Buckner)](a/animal-social-cognition.md)
+
+#### 交流、规范与思维
+
 * [动物交流 Animal Communication (Richard Moore、Giulia Palazzolo)](a/animal-communication.md)
 * [动物规范性 Animal Normativity (Simon Fitzpatrick)](a/animal-normativity.md)
-* [动物社会认知 Animal Social Cognition (Cameron Buckner)](a/animal-social-cognition.md)
 * [动物思维 Animal Thought (Laura Danón)](a/animal-thought.md)
 
 ### 专题
 
+#### 实验、还原与目的论
+
 * [生物学实验 Experiment in Biology (Marcel Weber)](b/biology-experiment.md)
 * [生物学中的还原论 Reductionism in Biology (Ingo Brigandt、Alan Love)](r/reduction-biology.md)
 * [生物学中的目的论观念 Teleological Notions in Biology (Colin Allen、Jacob Neal)](t/teleology-biology.md)
+
+#### 先天后天与进化认识论
+
 * [先天性特征与后天获得性特征的区别 The Distinction Between Innate and Acquired Characteristics (Paul Griffiths、Stefan Linquist)](i/innate-acquired.md)
 * [进化认识论 Evolutionary Epistemology (Michael Bradie、William Harms)](e/epistemology-evolutionary.md)
+
+#### 群体遗传学
+
 * [群体遗传学 Population Genetics (Samir Okasha)](p/population-genetics.md)
 
 ## 数学哲学
 
 ### 总论与流派
 
+#### 总论与实在论
+
 * [数学哲学 Philosophy of Mathematics (Leon Horsten)](p/philosophy-mathematics.md)
 * [数学哲学中的柏拉图主义 Platonism in the Philosophy of Mathematics (Øystein Linnebo)](p/platonism-mathematics.md)
+
+#### 反实在论与虚构主义
+
 * [数学哲学中的虚构主义 Fictionalism in the Philosophy of Mathematics (Mark Balaguer)](f/fictionalism-mathematics.md)
-* [数学哲学中的形式主义 Formalism in the Philosophy of Mathematics (Alan Weir)](f/formalism-mathematics.md)
-* [数学哲学中的直觉主义 Intuitionism in the Philosophy of Mathematics (Rosalie Iemhoff)](i/intuitionism.md)
 * [数学哲学中的唯名论 Nominalism in the Philosophy of Mathematics (Otávio Bueno)](n/nominalism-mathematics.md)
+* [数学哲学中的形式主义 Formalism in the Philosophy of Mathematics (Alan Weir)](f/formalism-mathematics.md)
+
+#### 直觉主义与结构主义
+
+* [数学哲学中的直觉主义 Intuitionism in the Philosophy of Mathematics (Rosalie Iemhoff)](i/intuitionism.md)
 * [数学哲学中的结构主义 Structuralism in the Philosophy of Mathematics (Erich Reck、Georg Schiemer)](s/structuralism-mathematics.md)
+
+#### 演绎主义与自然主义
+
 * [数学哲学中的演绎主义 Deductivism in the Philosophy of Mathematics (Alexander Paseau、Fabian Pregel)](d/deductivism-mathematics.md)
 * [数学哲学中的自然主义 Naturalism in the Philosophy of Mathematics (Alexander Paseau、Marianna Antonutti Marfori)](n/naturalism-mathematics.md)
 
 ### 基础与无穷
 
+#### 无穷与连续
+
 * [无限 Infinity (Kenny Easwaran、Alan Hájek、Paolo Mancosu、Graham Oppy)](i/infinity.md)
 * [连续性与无穷小 Continuity and Infinitesimals (John L. Bell)](c/continuity.md)
+
+#### 构造与不一致数学
+
 * [构造数学 Constructive Mathematics (Douglas Bridges、Erik Palmgren、Hajime Ishihara)](m/mathematics-constructive.md)
 * [不一致数学 Inconsistent Mathematics (Chris Mortensen)](m/mathematics-inconsistent.md)
+
+#### 不完备性与希尔伯特纲领
+
 * [哥德尔不完备定理 Gödel’s Incompleteness Theorems (Panu Raatikainen)](g/goedel-incompleteness.md)
 * [希尔伯特纲领 Hilbert’s Program (Richard Zach)](h/hilbert-program.md)
+
+#### 戴德金、命题函项与选择公理
+
 * [理查德·戴德金对数学基础的贡献 Dedekind’s Contributions to the Foundations of Mathematics (Erich Reck)](d/dedekind-foundations.md)
 * [命题函项 Propositional Function (Edwin Mares)](p/propositional-function.md)
 * [选择公理 The Axiom of Choice (John L. Bell)](a/axiom-choice.md)
@@ -4610,17 +4822,27 @@ outline: [1, 6]
 
 ### 概率与统计
 
+#### 概率解释
+
 * [机会与随机性 Chance versus Randomness (Antony Eagle)](c/chance-randomness.md)
-* [非精确概率 Imprecise Probabilities (Seamus Bradley)](i/imprecise-probabilities.md)
 * [对概率的解释 Interpretations of Probability (Alan Hájek)](p/probability-interpret.md)
+* [非精确概率 Imprecise Probabilities (Seamus Bradley)](i/imprecise-probabilities.md)
+
+#### 统计与悖论
+
 * [统计学哲学 Philosophy of Statistics (Jan-Willem Romeijn)](s/statistics.md)
 * [荷兰赌论证 Dutch Book Arguments (Susan Vineberg)](d/dutch-book.md)
 * [辛普森悖论 Simpson’s Paradox (Jan Sprenger、Naftali Weinberger)](p/paradox-simpson.md)
 
 ### 数学实践与解释
 
+#### 实践与解释
+
 * [数学实践的哲学 The Philosophy of Mathematical Practice (Silvia De Toffoli、Paolo Mancosu)](m/mathematical-practice.md)
 * [数学解释 Mathematical Explanation (Paolo Mancosu、Francesca Poggiolesi、Christopher Pincock)](m/mathematics-explanation.md)
+
+#### 风格、非演绎与视觉思维
+
 * [数学风格 Mathematical Style (Paolo Mancosu)](m/mathematical-style.md)
 * [数学中的非演绎方法 Non-Deductive Methods in Mathematics (Alan Baker)](m/mathematics-nondeductive.md)
 * [数学中的视觉思维认识论 The Epistemology of Visual Thinking in Mathematics (Marcus Giaquinto)](e/epistemology-visual-thinking.md)
@@ -4699,45 +4921,76 @@ outline: [1, 6]
 
 #### 互联网伦理
 
+##### 研究、搜索与社交伦理
+
 * [互联网研究伦理 Internet Research Ethics (Elizabeth A. Buchanan、Michael Zimmer)](e/ethics-internet-research.md)
 * [搜索引擎伦理 Search Engines and Ethics (Herman Tavani、Michael Zimmer)](e/ethics-search.md)
 * [网络社交与伦理学 Social Networking and Ethics (Shannon Vallor)](e/ethics-social-networking.md)
+
+##### 现象学方法
+
 * [信息技术伦理学的现象学方法 Phenomenological Approaches to Ethics and Information Technology (Lucas Introna)](e/ethics-it-phenomenology.md)
 
 ## 医学哲学
 
 ### 医学哲学总论与概念
 
+#### 医学与健康概念
+
 * [医学哲学 Philosophy of Medicine (Julian Reiss、Rachel A. Ankeny)](m/medicine.md)
 * [疾病与健康的概念 Concepts of Disease and Health (Dominic Murphy)](h/health-disease.md)
+
+#### 生物医学、免疫与癌症
+
 * [生物医学哲学 Philosophy of Biomedicine (Sean Valles、Yael Friedman)](b/biomedicine.md)
 * [免疫学哲学 Philosophy of Immunology (Bartlomiej Swiatczak、Alfred I. Tauber)](i/immunology.md)
 * [癌症 Cancer (Anya Plutynski、Lucie Laplane)](c/cancer.md)
 
 ### 伦理与决策
 
+#### 知情同意与决策能力
+
 * [知情同意 Informed Consent (Nir Eyal)](i/informed-consent.md)
 * [决策能力 Decision-Making Capacity (Jennifer Hawkins、Louis C. Charland)](d/decision-capacity.md)
 * [预先指示和替代决策 Advance Directives and Substitute Decision-Making (Agnieszka Jaworska)](a/advance-directives.md)
+
+#### 临床研究与公共卫生
+
 * [临床研究伦理 The Ethics of Clinical Research (David Wendler)](c/clinical-research.md)
 * [公共卫生伦理 Public Health Ethics (Ruth Faden、Justin Bernstein、Sirine Shebaya)](p/publichealth-ethics.md)
 
 ### 增强与生殖
 
+#### 增强与嵌合体
+
 * [人类增强 Human Enhancement (Daniel Moseley、Eric Juengst)](e/enhancement.md)
 * [人类/非人类嵌合体 Human/Non-Human Chimeras (Robert Streiffer)](c/chimeras.md)
 * [克隆 Cloning (Katrien Devolder)](c/cloning.md)
+
+#### 干细胞与配子
+
 * [干细胞研究的伦理问题 Ethics of Stem Cell Research (Andrew Siegel)](s/stem-cells.md)
 * [人类卵子和精子的捐献与买卖 The Donation and Sale of Human Eggs and Sperm (Reuven Brandt、Stephen Wilkinson、Nicola Williams)](g/gametes-donation-sale.md)
+
+#### 器官捐献与买卖
+
 * [人体器官捐献 The Donation of Human Organs (Martin Wilkinson、Stephen Wilkinson)](o/organ-donation.md)
 * [人体器官买卖 The Sale of Human Organs (Stephen Wilkinson)](o/organs-sale.md)
 
 ### 正义与残疾
 
+#### 医疗正义与配给
+
 * [医疗保健的公正与获取 Justice and Access to Health Care (Norman Daniels)](j/justice-healthcareaccess.md)
 * [残疾与医疗卫生配给 Disability and Health Care Rationing (Jerome Bickenbach)](d/disability-care-rationing.md)
+
+#### 残疾与福祉
+
 * [残疾与福祉 Disability and Well-Being (Stephen M. Campbell、Joseph A. Stramondo、David Wasserman)](d/disability-well-being.md)
 * [残疾的定义与模型 Disability: Definitions and Models (David Wasserman、Sean Aas)](d/disability.md)
+
+#### 健康隐私
+
 * [健康照护与研究中的隐私 Privacy in Health Care and Research (Leslie Francis)](p/privacy-health.md)
 
 ### 心灵与神经

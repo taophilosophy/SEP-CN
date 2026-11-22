@@ -10517,64 +10517,64 @@
     },
     {
       "kind": "link",
-      "path": "p/prior.md",
-      "text": "阿瑟·普赖尔 Arthur Prior (B. Jack Copeland)",
-      "indent": 0,
-      "order": 1502
-    },
-    {
-      "kind": "link",
       "path": "b/bolzano.md",
       "text": "伯恩哈德·波尔查诺 Bernard Bolzano (Edgar Morscher)",
       "indent": 0,
-      "order": 1503
+      "order": 1502
     },
     {
       "kind": "link",
       "path": "b/bolzano-logic.md",
       "text": "波尔查诺的逻辑学 Bolzano’s Logic (Paul Rusnock、Jan Šebestik)",
       "indent": 2,
+      "order": 1503
+    },
+    {
+      "kind": "link",
+      "path": "l/lesniewski.md",
+      "text": "斯坦尼斯瓦夫·莱什涅夫斯基 Stanisław Leśniewski (Peter Simons)",
+      "indent": 0,
       "order": 1504
+    },
+    {
+      "kind": "link",
+      "path": "p/prior.md",
+      "text": "阿瑟·普赖尔 Arthur Prior (B. Jack Copeland)",
+      "indent": 0,
+      "order": 1505
     },
     {
       "kind": "link",
       "path": "m/mally.md",
       "text": "恩斯特·马利 Ernst Mally (Alexander Hieke、Gerhard Zecha、Hamid Taieb)",
       "indent": 0,
-      "order": 1505
+      "order": 1506
     },
     {
       "kind": "link",
       "path": "m/mally-deontic.md",
       "text": "恩斯特·马利的道义逻辑 Mally’s Deontic Logic (Gert-Jan Lokhorst、Stefania Centrone、Pierluigi Minari)",
       "indent": 2,
-      "order": 1506
+      "order": 1507
     },
     {
       "kind": "link",
       "path": "b/boole.md",
       "text": "乔治·布尔 George Boole (Stanley Burris、Marcel Jackson)",
       "indent": 0,
-      "order": 1507
+      "order": 1508
     },
     {
       "kind": "link",
       "path": "s/scholz.md",
       "text": "海因里希·肖尔兹 Heinrich Scholz (Volker Peckhaus)",
       "indent": 0,
-      "order": 1508
+      "order": 1509
     },
     {
       "kind": "link",
       "path": "b/brouwer.md",
       "text": "勒伊岑·艾赫贝特斯·扬·布劳威尔 Luitzen Egbertus Jan Brouwer (Mark van Atten)",
-      "indent": 0,
-      "order": 1509
-    },
-    {
-      "kind": "link",
-      "path": "l/lesniewski.md",
-      "text": "斯坦尼斯瓦夫·莱什涅夫斯基 Stanisław Leśniewski (Peter Simons)",
       "indent": 0,
       "order": 1510
     },
@@ -10734,22 +10734,22 @@
     },
     {
       "kind": "link",
-      "path": "b/branching-time.md",
-      "text": "分支时间 Branching Time (Giuseppe Spolaore、Alberto Zanardo)",
+      "path": "l/logic-hybrid.md",
+      "text": "混合逻辑 Hybrid Logic (Torben Braüner)",
       "indent": 0,
       "order": 1533
     },
     {
       "kind": "link",
-      "path": "f/future-contingents.md",
-      "text": "未来偶然性 Future Contingents (Peter Øhrstrøm、Per Hasle)",
+      "path": "b/branching-time.md",
+      "text": "分支时间 Branching Time (Giuseppe Spolaore、Alberto Zanardo)",
       "indent": 0,
       "order": 1534
     },
     {
       "kind": "link",
-      "path": "l/logic-hybrid.md",
-      "text": "混合逻辑 Hybrid Logic (Torben Braüner)",
+      "path": "f/future-contingents.md",
+      "text": "未来偶然性 Future Contingents (Peter Øhrstrøm、Per Hasle)",
       "indent": 0,
       "order": 1535
     },
@@ -11021,36 +11021,36 @@
     },
     {
       "kind": "link",
-      "path": "s/settheory-alternative.md",
-      "text": "替代性公理集合论 Alternative Axiomatic Set Theories (M. Randall Holmes)",
+      "path": "s/settheory-early.md",
+      "text": "集合论：集合论的早期发展 The Early Development of Set Theory (José Ferreirós)",
       "indent": 0,
       "order": 1574
     },
     {
       "kind": "link",
-      "path": "s/settheory-early.md",
-      "text": "集合论：集合论的早期发展 The Early Development of Set Theory (José Ferreirós)",
+      "path": "z/zermelo-set-theory.md",
+      "text": "策梅洛的公理化集合论 Zermelo’s Axiomatization of Set Theory (Michael Hallett)",
       "indent": 0,
       "order": 1575
+    },
+    {
+      "kind": "link",
+      "path": "s/settheory-alternative.md",
+      "text": "替代性公理集合论 Alternative Axiomatic Set Theories (M. Randall Holmes)",
+      "indent": 0,
+      "order": 1576
     },
     {
       "kind": "link",
       "path": "n/nonwellfounded-set-theory.md",
       "text": "非良基集合论 Non-wellfounded Set Theory (Lawrence S. Moss)",
       "indent": 0,
-      "order": 1576
+      "order": 1577
     },
     {
       "kind": "link",
       "path": "s/set-theory-constructive.md",
       "text": "集合论：构造主义和直觉主义 Set Theory: Constructive and Intuitionistic ZF (Laura Crosilla)",
-      "indent": 0,
-      "order": 1577
-    },
-    {
-      "kind": "link",
-      "path": "z/zermelo-set-theory.md",
-      "text": "策梅洛的公理化集合论 Zermelo’s Axiomatization of Set Theory (Michael Hallett)",
       "indent": 0,
       "order": 1578
     },
@@ -11189,22 +11189,22 @@
     },
     {
       "kind": "link",
-      "path": "r/reasoning-analogy.md",
-      "text": "类比与类比推理 Analogy and Analogical Reasoning (Paul Bartha)",
+      "path": "l/logic-informal.md",
+      "text": "非形式逻辑 Informal Logic (Leo Groarke)",
       "indent": 0,
       "order": 1598
     },
     {
       "kind": "link",
-      "path": "l/logic-informal.md",
-      "text": "非形式逻辑 Informal Logic (Leo Groarke)",
+      "path": "f/fallacies.md",
+      "text": "谬误 Fallacies (Hans Hansen)",
       "indent": 0,
       "order": 1599
     },
     {
       "kind": "link",
-      "path": "f/fallacies.md",
-      "text": "谬误 Fallacies (Hans Hansen)",
+      "path": "r/reasoning-analogy.md",
+      "text": "类比与类比推理 Analogy and Analogical Reasoning (Paul Bartha)",
       "indent": 0,
       "order": 1600
     },
@@ -11252,15 +11252,15 @@
     },
     {
       "kind": "link",
-      "path": "l/logic-inductive.md",
-      "text": "归纳逻辑 Inductive Logic (James Hawthorne)",
+      "path": "l/logic-probability.md",
+      "text": "逻辑与概率 Logic and Probability (Lorenz Demey、Barteld Kooi、Joshua Sack)",
       "indent": 0,
       "order": 1607
     },
     {
       "kind": "link",
-      "path": "l/logic-probability.md",
-      "text": "逻辑与概率 Logic and Probability (Lorenz Demey、Barteld Kooi、Joshua Sack)",
+      "path": "l/logic-inductive.md",
+      "text": "归纳逻辑 Inductive Logic (James Hawthorne)",
       "indent": 0,
       "order": 1608
     },
@@ -12113,15 +12113,15 @@
     },
     {
       "kind": "link",
-      "path": "i/inheritance-systems.md",
-      "text": "遗传系统 Inheritance Systems (Ehud Lamm)",
+      "path": "g/genotype-phenotype.md",
+      "text": "基因型/表现型的区别 The Genotype/Phenotype Distinction (Michael Dietrich、Marina DiMarco)",
       "indent": 0,
       "order": 1730
     },
     {
       "kind": "link",
-      "path": "g/genotype-phenotype.md",
-      "text": "基因型/表现型的区别 The Genotype/Phenotype Distinction (Michael Dietrich、Marina DiMarco)",
+      "path": "i/inheritance-systems.md",
+      "text": "遗传系统 Inheritance Systems (Ehud Lamm)",
       "indent": 0,
       "order": 1731
     },
@@ -12246,22 +12246,22 @@
     },
     {
       "kind": "link",
-      "path": "a/animal-communication.md",
-      "text": "动物交流 Animal Communication (Richard Moore、Giulia Palazzolo)",
+      "path": "a/animal-social-cognition.md",
+      "text": "动物社会认知 Animal Social Cognition (Cameron Buckner)",
       "indent": 0,
       "order": 1749
     },
     {
       "kind": "link",
-      "path": "a/animal-normativity.md",
-      "text": "动物规范性 Animal Normativity (Simon Fitzpatrick)",
+      "path": "a/animal-communication.md",
+      "text": "动物交流 Animal Communication (Richard Moore、Giulia Palazzolo)",
       "indent": 0,
       "order": 1750
     },
     {
       "kind": "link",
-      "path": "a/animal-social-cognition.md",
-      "text": "动物社会认知 Animal Social Cognition (Cameron Buckner)",
+      "path": "a/animal-normativity.md",
+      "text": "动物规范性 Animal Normativity (Simon Fitzpatrick)",
       "indent": 0,
       "order": 1751
     },
@@ -12337,22 +12337,22 @@
     },
     {
       "kind": "link",
-      "path": "f/formalism-mathematics.md",
-      "text": "数学哲学中的形式主义 Formalism in the Philosophy of Mathematics (Alan Weir)",
+      "path": "n/nominalism-mathematics.md",
+      "text": "数学哲学中的唯名论 Nominalism in the Philosophy of Mathematics (Otávio Bueno)",
       "indent": 0,
       "order": 1762
     },
     {
       "kind": "link",
-      "path": "i/intuitionism.md",
-      "text": "数学哲学中的直觉主义 Intuitionism in the Philosophy of Mathematics (Rosalie Iemhoff)",
+      "path": "f/formalism-mathematics.md",
+      "text": "数学哲学中的形式主义 Formalism in the Philosophy of Mathematics (Alan Weir)",
       "indent": 0,
       "order": 1763
     },
     {
       "kind": "link",
-      "path": "n/nominalism-mathematics.md",
-      "text": "数学哲学中的唯名论 Nominalism in the Philosophy of Mathematics (Otávio Bueno)",
+      "path": "i/intuitionism.md",
+      "text": "数学哲学中的直觉主义 Intuitionism in the Philosophy of Mathematics (Rosalie Iemhoff)",
       "indent": 0,
       "order": 1764
     },
@@ -12470,15 +12470,15 @@
     },
     {
       "kind": "link",
-      "path": "i/imprecise-probabilities.md",
-      "text": "非精确概率 Imprecise Probabilities (Seamus Bradley)",
+      "path": "p/probability-interpret.md",
+      "text": "对概率的解释 Interpretations of Probability (Alan Hájek)",
       "indent": 0,
       "order": 1781
     },
     {
       "kind": "link",
-      "path": "p/probability-interpret.md",
-      "text": "对概率的解释 Interpretations of Probability (Alan Hájek)",
+      "path": "i/imprecise-probabilities.md",
+      "text": "非精确概率 Imprecise Probabilities (Seamus Bradley)",
       "indent": 0,
       "order": 1782
     },
@@ -23746,6 +23746,50 @@
         ""
       ],
       [
+        1497,
+        "##### 数理逻辑与基础"
+      ],
+      [
+        1497,
+        ""
+      ],
+      [
+        1505,
+        ""
+      ],
+      [
+        1505,
+        "##### 模态与道义逻辑"
+      ],
+      [
+        1505,
+        ""
+      ],
+      [
+        1508,
+        ""
+      ],
+      [
+        1508,
+        "##### 代数逻辑与学派"
+      ],
+      [
+        1508,
+        ""
+      ],
+      [
+        1510,
+        ""
+      ],
+      [
+        1510,
+        "##### 直觉主义"
+      ],
+      [
+        1510,
+        ""
+      ],
+      [
         1511,
         ""
       ],
@@ -23755,6 +23799,26 @@
       ],
       [
         1511,
+        ""
+      ],
+      [
+        1511,
+        "##### 学派与学科形成"
+      ],
+      [
+        1511,
+        ""
+      ],
+      [
+        1516,
+        ""
+      ],
+      [
+        1516,
+        "##### 心理主义与条件句"
+      ],
+      [
+        1516,
         ""
       ],
       [
@@ -23790,6 +23854,38 @@
         ""
       ],
       [
+        1519,
+        "##### 经典逻辑与命题逻辑"
+      ],
+      [
+        1519,
+        ""
+      ],
+      [
+        1521,
+        ""
+      ],
+      [
+        1521,
+        "##### 连接词、常项与演绎"
+      ],
+      [
+        1521,
+        ""
+      ],
+      [
+        1525,
+        ""
+      ],
+      [
+        1525,
+        "##### 传统逻辑方阵"
+      ],
+      [
+        1525,
+        ""
+      ],
+      [
         1526,
         ""
       ],
@@ -23799,6 +23895,38 @@
       ],
       [
         1526,
+        ""
+      ],
+      [
+        1526,
+        "##### 量化与充分必要"
+      ],
+      [
+        1526,
+        ""
+      ],
+      [
+        1528,
+        ""
+      ],
+      [
+        1528,
+        "##### 代数与无穷逻辑"
+      ],
+      [
+        1528,
+        ""
+      ],
+      [
+        1530,
+        ""
+      ],
+      [
+        1530,
+        "##### 动态逻辑"
+      ],
+      [
+        1530,
         ""
       ],
       [
@@ -23822,6 +23950,38 @@
         ""
       ],
       [
+        1531,
+        "##### 模态与时态逻辑"
+      ],
+      [
+        1531,
+        ""
+      ],
+      [
+        1534,
+        ""
+      ],
+      [
+        1534,
+        "##### 分支时间与未来偶然"
+      ],
+      [
+        1534,
+        ""
+      ],
+      [
+        1536,
+        ""
+      ],
+      [
+        1536,
+        "##### 多模态哲学"
+      ],
+      [
+        1536,
+        ""
+      ],
+      [
         1537,
         ""
       ],
@@ -23831,6 +23991,26 @@
       ],
       [
         1537,
+        ""
+      ],
+      [
+        1537,
+        "##### 直觉主义与子结构"
+      ],
+      [
+        1537,
+        ""
+      ],
+      [
+        1540,
+        ""
+      ],
+      [
+        1540,
+        "##### 多值与模糊"
+      ],
+      [
+        1540,
         ""
       ],
       [
@@ -23846,6 +24026,26 @@
         ""
       ],
       [
+        1542,
+        "##### 认知与动态"
+      ],
+      [
+        1542,
+        ""
+      ],
+      [
+        1544,
+        ""
+      ],
+      [
+        1544,
+        "##### 确证、可证性与对话"
+      ],
+      [
+        1544,
+        ""
+      ],
+      [
         1547,
         ""
       ],
@@ -23855,6 +24055,38 @@
       ],
       [
         1547,
+        ""
+      ],
+      [
+        1547,
+        "##### 相干与次协调"
+      ],
+      [
+        1547,
+        ""
+      ],
+      [
+        1550,
+        ""
+      ],
+      [
+        1550,
+        "##### 依赖与友好逻辑"
+      ],
+      [
+        1550,
+        ""
+      ],
+      [
+        1552,
+        ""
+      ],
+      [
+        1552,
+        "##### 自由逻辑"
+      ],
+      [
+        1552,
         ""
       ],
       [
@@ -23870,6 +24102,38 @@
         ""
       ],
       [
+        1553,
+        "##### 高阶与广义量词"
+      ],
+      [
+        1553,
+        ""
+      ],
+      [
+        1556,
+        ""
+      ],
+      [
+        1556,
+        "##### 多类与内涵"
+      ],
+      [
+        1556,
+        ""
+      ],
+      [
+        1558,
+        ""
+      ],
+      [
+        1558,
+        "##### 超内涵性"
+      ],
+      [
+        1558,
+        ""
+      ],
+      [
         1559,
         ""
       ],
@@ -23882,6 +24146,38 @@
         ""
       ],
       [
+        1559,
+        "##### 逻辑与博弈"
+      ],
+      [
+        1559,
+        ""
+      ],
+      [
+        1562,
+        ""
+      ],
+      [
+        1562,
+        "##### 语义与语法"
+      ],
+      [
+        1562,
+        ""
+      ],
+      [
+        1564,
+        ""
+      ],
+      [
+        1564,
+        "##### 合并逻辑"
+      ],
+      [
+        1564,
+        ""
+      ],
+      [
         1565,
         ""
       ],
@@ -23891,6 +24187,38 @@
       ],
       [
         1565,
+        ""
+      ],
+      [
+        1565,
+        "##### 真值与真理"
+      ],
+      [
+        1565,
+        ""
+      ],
+      [
+        1568,
+        ""
+      ],
+      [
+        1568,
+        "##### 非单调与行动"
+      ],
+      [
+        1568,
+        ""
+      ],
+      [
+        1570,
+        ""
+      ],
+      [
+        1570,
+        "##### 条件、模糊与道义"
+      ],
+      [
+        1570,
         ""
       ],
       [
@@ -23914,6 +24242,38 @@
         ""
       ],
       [
+        1573,
+        "##### 集合论总论与历史"
+      ],
+      [
+        1573,
+        ""
+      ],
+      [
+        1576,
+        ""
+      ],
+      [
+        1576,
+        "##### 替代与构造集合论"
+      ],
+      [
+        1576,
+        ""
+      ],
+      [
+        1579,
+        ""
+      ],
+      [
+        1579,
+        "##### 连续统与大基数"
+      ],
+      [
+        1579,
+        ""
+      ],
+      [
         1582,
         ""
       ],
@@ -23923,6 +24283,26 @@
       ],
       [
         1582,
+        ""
+      ],
+      [
+        1582,
+        "##### 模型论"
+      ],
+      [
+        1582,
+        ""
+      ],
+      [
+        1584,
+        ""
+      ],
+      [
+        1584,
+        "##### 证明论与反推数学"
+      ],
+      [
+        1584,
         ""
       ],
       [
@@ -23938,6 +24318,38 @@
         ""
       ],
       [
+        1587,
+        "##### 类型论"
+      ],
+      [
+        1587,
+        ""
+      ],
+      [
+        1589,
+        ""
+      ],
+      [
+        1589,
+        "##### λ 演算与组合逻辑"
+      ],
+      [
+        1589,
+        ""
+      ],
+      [
+        1591,
+        ""
+      ],
+      [
+        1591,
+        "##### 递归与 ε 演算"
+      ],
+      [
+        1591,
+        ""
+      ],
+      [
         1593,
         ""
       ],
@@ -23947,6 +24359,26 @@
       ],
       [
         1593,
+        ""
+      ],
+      [
+        1593,
+        "##### 范畴论与逻辑代数"
+      ],
+      [
+        1593,
+        ""
+      ],
+      [
+        1596,
+        ""
+      ],
+      [
+        1596,
+        "##### 逻辑主义"
+      ],
+      [
+        1596,
         ""
       ],
       [
@@ -23970,6 +24402,26 @@
         ""
       ],
       [
+        1597,
+        "##### 论证与非形式逻辑"
+      ],
+      [
+        1597,
+        ""
+      ],
+      [
+        1600,
+        ""
+      ],
+      [
+        1600,
+        "##### 类比与无限倒退"
+      ],
+      [
+        1600,
+        ""
+      ],
+      [
         1602,
         ""
       ],
@@ -23982,6 +24434,26 @@
         ""
       ],
       [
+        1602,
+        "##### 具体悖论"
+      ],
+      [
+        1602,
+        ""
+      ],
+      [
+        1604,
+        ""
+      ],
+      [
+        1604,
+        "##### 悖论与矛盾总论"
+      ],
+      [
+        1604,
+        ""
+      ],
+      [
         1606,
         ""
       ],
@@ -23991,6 +24463,26 @@
       ],
       [
         1606,
+        ""
+      ],
+      [
+        1606,
+        "##### 后承与概率"
+      ],
+      [
+        1606,
+        ""
+      ],
+      [
+        1608,
+        ""
+      ],
+      [
+        1608,
+        "##### 归纳与规范"
+      ],
+      [
+        1608,
         ""
       ],
       [
@@ -24090,6 +24582,38 @@
         ""
       ],
       [
+        1618,
+        "##### 方法与发现"
+      ],
+      [
+        1618,
+        ""
+      ],
+      [
+        1620,
+        ""
+      ],
+      [
+        1620,
+        "##### 思想实验与图表"
+      ],
+      [
+        1620,
+        ""
+      ],
+      [
+        1622,
+        ""
+      ],
+      [
+        1622,
+        "##### 操作主义"
+      ],
+      [
+        1622,
+        ""
+      ],
+      [
         1623,
         ""
       ],
@@ -24099,6 +24623,26 @@
       ],
       [
         1623,
+        ""
+      ],
+      [
+        1623,
+        "##### 确证与贝叶斯"
+      ],
+      [
+        1623,
+        ""
+      ],
+      [
+        1625,
+        ""
+      ],
+      [
+        1625,
+        "##### 预测与简单性"
+      ],
+      [
+        1625,
         ""
       ],
       [
@@ -24362,6 +24906,26 @@
         ""
       ],
       [
+        1708,
+        "#### 生物学哲学与生命"
+      ],
+      [
+        1708,
+        ""
+      ],
+      [
+        1710,
+        ""
+      ],
+      [
+        1710,
+        "#### 个体与层级"
+      ],
+      [
+        1710,
+        ""
+      ],
+      [
         1712,
         ""
       ],
@@ -24371,6 +24935,38 @@
       ],
       [
         1712,
+        ""
+      ],
+      [
+        1712,
+        "#### 进化与选择理论"
+      ],
+      [
+        1712,
+        ""
+      ],
+      [
+        1716,
+        ""
+      ],
+      [
+        1716,
+        "#### 漂变与选择层次"
+      ],
+      [
+        1716,
+        ""
+      ],
+      [
+        1718,
+        ""
+      ],
+      [
+        1718,
+        "#### 利他、社会生物学与物种"
+      ],
+      [
+        1718,
         ""
       ],
       [
@@ -24386,6 +24982,26 @@
         ""
       ],
       [
+        1721,
+        "#### 达尔文与前达尔文"
+      ],
+      [
+        1721,
+        ""
+      ],
+      [
+        1724,
+        ""
+      ],
+      [
+        1724,
+        "#### 神创论"
+      ],
+      [
+        1724,
+        ""
+      ],
+      [
         1725,
         ""
       ],
@@ -24395,6 +25011,38 @@
       ],
       [
         1725,
+        ""
+      ],
+      [
+        1725,
+        "#### 基因与遗传学"
+      ],
+      [
+        1725,
+        ""
+      ],
+      [
+        1728,
+        ""
+      ],
+      [
+        1728,
+        "#### 分子遗传与遗传力"
+      ],
+      [
+        1728,
+        ""
+      ],
+      [
+        1731,
+        ""
+      ],
+      [
+        1731,
+        "#### 遗传系统与基因组计划"
+      ],
+      [
+        1731,
         ""
       ],
       [
@@ -24410,6 +25058,26 @@
         ""
       ],
       [
+        1734,
+        "#### 发育与演化"
+      ],
+      [
+        1734,
+        ""
+      ],
+      [
+        1737,
+        ""
+      ],
+      [
+        1737,
+        "#### 模式生物"
+      ],
+      [
+        1737,
+        ""
+      ],
+      [
         1738,
         ""
       ],
@@ -24419,6 +25087,26 @@
       ],
       [
         1738,
+        ""
+      ],
+      [
+        1738,
+        "#### 生态与多样性"
+      ],
+      [
+        1738,
+        ""
+      ],
+      [
+        1741,
+        ""
+      ],
+      [
+        1741,
+        "#### 保育、宏观进化与系统发生"
+      ],
+      [
+        1741,
         ""
       ],
       [
@@ -24434,6 +25122,26 @@
         ""
       ],
       [
+        1744,
+        "#### 细胞与分子生物学"
+      ],
+      [
+        1744,
+        ""
+      ],
+      [
+        1746,
+        ""
+      ],
+      [
+        1746,
+        "#### 微生物与系统生物学"
+      ],
+      [
+        1746,
+        ""
+      ],
+      [
         1748,
         ""
       ],
@@ -24446,6 +25154,26 @@
         ""
       ],
       [
+        1748,
+        "#### 动物认知与社会认知"
+      ],
+      [
+        1748,
+        ""
+      ],
+      [
+        1750,
+        ""
+      ],
+      [
+        1750,
+        "#### 交流、规范与思维"
+      ],
+      [
+        1750,
+        ""
+      ],
+      [
         1753,
         ""
       ],
@@ -24455,6 +25183,38 @@
       ],
       [
         1753,
+        ""
+      ],
+      [
+        1753,
+        "#### 实验、还原与目的论"
+      ],
+      [
+        1753,
+        ""
+      ],
+      [
+        1756,
+        ""
+      ],
+      [
+        1756,
+        "#### 先天后天与进化认识论"
+      ],
+      [
+        1756,
+        ""
+      ],
+      [
+        1758,
+        ""
+      ],
+      [
+        1758,
+        "#### 群体遗传学"
+      ],
+      [
+        1758,
         ""
       ],
       [
@@ -24478,6 +25238,50 @@
         ""
       ],
       [
+        1759,
+        "#### 总论与实在论"
+      ],
+      [
+        1759,
+        ""
+      ],
+      [
+        1761,
+        ""
+      ],
+      [
+        1761,
+        "#### 反实在论与虚构主义"
+      ],
+      [
+        1761,
+        ""
+      ],
+      [
+        1764,
+        ""
+      ],
+      [
+        1764,
+        "#### 直觉主义与结构主义"
+      ],
+      [
+        1764,
+        ""
+      ],
+      [
+        1766,
+        ""
+      ],
+      [
+        1766,
+        "#### 演绎主义与自然主义"
+      ],
+      [
+        1766,
+        ""
+      ],
+      [
         1768,
         ""
       ],
@@ -24487,6 +25291,50 @@
       ],
       [
         1768,
+        ""
+      ],
+      [
+        1768,
+        "#### 无穷与连续"
+      ],
+      [
+        1768,
+        ""
+      ],
+      [
+        1770,
+        ""
+      ],
+      [
+        1770,
+        "#### 构造与不一致数学"
+      ],
+      [
+        1770,
+        ""
+      ],
+      [
+        1772,
+        ""
+      ],
+      [
+        1772,
+        "#### 不完备性与希尔伯特纲领"
+      ],
+      [
+        1772,
+        ""
+      ],
+      [
+        1774,
+        ""
+      ],
+      [
+        1774,
+        "#### 戴德金、命题函项与选择公理"
+      ],
+      [
+        1774,
         ""
       ],
       [
@@ -24514,6 +25362,26 @@
         ""
       ],
       [
+        1780,
+        "#### 概率解释"
+      ],
+      [
+        1780,
+        ""
+      ],
+      [
+        1783,
+        ""
+      ],
+      [
+        1783,
+        "#### 统计与悖论"
+      ],
+      [
+        1783,
+        ""
+      ],
+      [
         1786,
         ""
       ],
@@ -24523,6 +25391,26 @@
       ],
       [
         1786,
+        ""
+      ],
+      [
+        1786,
+        "#### 实践与解释"
+      ],
+      [
+        1786,
+        ""
+      ],
+      [
+        1788,
+        ""
+      ],
+      [
+        1788,
+        "#### 风格、非演绎与视觉思维"
+      ],
+      [
+        1788,
         ""
       ],
       [
@@ -24650,6 +25538,26 @@
         ""
       ],
       [
+        1835,
+        "##### 研究、搜索与社交伦理"
+      ],
+      [
+        1835,
+        ""
+      ],
+      [
+        1838,
+        ""
+      ],
+      [
+        1838,
+        "##### 现象学方法"
+      ],
+      [
+        1838,
+        ""
+      ],
+      [
         1839,
         ""
       ],
@@ -24670,6 +25578,26 @@
         ""
       ],
       [
+        1839,
+        "#### 医学与健康概念"
+      ],
+      [
+        1839,
+        ""
+      ],
+      [
+        1841,
+        ""
+      ],
+      [
+        1841,
+        "#### 生物医学、免疫与癌症"
+      ],
+      [
+        1841,
+        ""
+      ],
+      [
         1844,
         ""
       ],
@@ -24679,6 +25607,26 @@
       ],
       [
         1844,
+        ""
+      ],
+      [
+        1844,
+        "#### 知情同意与决策能力"
+      ],
+      [
+        1844,
+        ""
+      ],
+      [
+        1847,
+        ""
+      ],
+      [
+        1847,
+        "#### 临床研究与公共卫生"
+      ],
+      [
+        1847,
         ""
       ],
       [
@@ -24694,6 +25642,38 @@
         ""
       ],
       [
+        1849,
+        "#### 增强与嵌合体"
+      ],
+      [
+        1849,
+        ""
+      ],
+      [
+        1852,
+        ""
+      ],
+      [
+        1852,
+        "#### 干细胞与配子"
+      ],
+      [
+        1852,
+        ""
+      ],
+      [
+        1854,
+        ""
+      ],
+      [
+        1854,
+        "#### 器官捐献与买卖"
+      ],
+      [
+        1854,
+        ""
+      ],
+      [
         1856,
         ""
       ],
@@ -24703,6 +25683,38 @@
       ],
       [
         1856,
+        ""
+      ],
+      [
+        1856,
+        "#### 医疗正义与配给"
+      ],
+      [
+        1856,
+        ""
+      ],
+      [
+        1858,
+        ""
+      ],
+      [
+        1858,
+        "#### 残疾与福祉"
+      ],
+      [
+        1858,
+        ""
+      ],
+      [
+        1860,
+        ""
+      ],
+      [
+        1860,
+        "#### 健康隐私"
+      ],
+      [
+        1860,
         ""
       ],
       [
