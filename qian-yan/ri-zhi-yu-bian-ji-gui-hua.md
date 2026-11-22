@@ -345,3 +345,10 @@
 * **历史人物六人**（逐人回原文核实体所指后联网查证）：Anne-Thérèse de Lambert 1647–1733／法国（巴黎）（IEP、BnF、Larousse；原文拼作 Anne-Thésèse，系 Thérèse 之误，原文列照录）；William Blount, Lord Mountjoy 约1478–1534／英国（德比郡·巴顿布卢特）（DNB）；Louis Bourguet 1678–1742／法国（尼姆；后归纳沙泰尔）（HLS、DSB）；Hendrik of Bergen 1449–1502／尼德兰（卑尔根 op Zoom）（nl 维基据 Contemporaries of Erasmus）；Sébastien Basson 约1573–（卒年不详）／法国（约 1573 生于梅斯一带，1625 离 Die 后无考）；Bernard of Arezzo fl. 1335–36／意大利（托斯卡纳）（SEP autrecourt 通信年代＋Courtenay 省籍考）。
 * **判据留空**：Boston Crummell（仅知其十三岁被卖、成年获自由，生卒无考）；Apollonius Cronus（仅知为狄奥多罗斯之师、昔兰尼人，无确年）；狄奥多罗斯五女 Argeia、Artemisia 等（仅知为逻辑学家，无确年）；Akṣapāda（传说人物，原文只给《正理经》约 100 CE，不给其人年代）。宁可空着，不凭印象填。
 * **计数**：缺生卒 763→757，缺籍属 695→690，任一缺 861→855。门禁 17 项全绿。
+
+## 2026-11-22 续二：键形归一补捞，批五批六共回收十七人
+
+* **键形归一补捞**（新通道）：缺生卒 750 键按去括注、逗号倒置、取末词等变体对全库括注再扫一遍（`script/tmp/variant_harvest.py`），得 52 命中；剔除页码、他人误配后回收 10 人——Gaozu (Han) 前256–前195（原文 “formerly Liu Bang, 256–195 BCE”）、Gedündrup（一世达赖）1391–1474、村田珠光 1423–1502、徐敬德 1489–1546、圆光 542–640、真谛 499–569、王符 82–167、矢野玄道 1823–1887、William Hamilton 1788–1856、Zygmunt Schmierer ?–1943。此前漏网主因是键形不一（如 “Emperor Wu of Han” 对 “Emperor Wu (Han)”）。
+* **批五七人**：二程（程颢 1032–1085／程颐 1033–1107，中国大百科全书）；忠宣王 1275–1325（原文只给在位 1308–1313，籍属随之由在位年改正为高丽）；崔汉绮 1803–1879（原文直给）；William Crathorn fl. 1330s（SEP 专条）；查理一世 1600–1649、二世 1630–1685（英国国王）、五世 1500–1558（首现 erasmus 语境＝神圣罗马皇帝；nicole-oresme、newton 语境为法王查理五世 1338–1380，同形异人，必要时另立条目）。
+* **假召回示例（不入表）**：Solomon 1021/2–57/8 系所罗门·伊本·盖比鲁勒；Philo 159/8–84/3 系拉里萨的斐洛；“Emperor Wu (Han) r. 502–549”系梁武帝；Aḥmad ibn al-Muʿtaṣim 条 833–842 系其父在位年，不可当生卒。
+* **计数**：缺生卒 763→740，缺籍属 695→675，任一缺 861→838。
