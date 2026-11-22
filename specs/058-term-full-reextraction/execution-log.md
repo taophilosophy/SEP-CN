@@ -66,3 +66,12 @@
 * 证据：`results/people-wikidata-2026-11-23-backfill.tsv`。`registry_azsort` 守恒 4597；`check_terms` 硬错误 0。
 * 门禁环境说明：本轮 `check_all` 本地红两项（单体文件大小、管线单元测试），根因均为 specs/057 会话未跟踪的新文件 s3u-audit.md（3343 行超限），不在本规格提交范围；已提交树不受影响，CI 为最终裁判。
 * 当日累计：人名表存量回填 5 行（含 4 行补齐籍属/生卒、全部 5 行补凭证）。
+
+## 2026-11-23：存量缺口自动回填（首批 200 条）
+
+* 工具：`bin/backfill_auto.py`——逐条查 Wikidata，唯一学术候选且国籍/生卒可得者回填；多候选/无候选/数据全缺留痕不写。国籍优先 P27 映射，缺则按描述民族形容词回退（限定两条）；生卒取 P569/P570。
+* 干跑暴露三类噪声并加守卫：① Wikidata 占位年 1900（Batterman、Brock 类）不给日期；② 生卒倒序（Epiphanius 600–501）不给；③ 同年占位（Albalag 1300–1300）不写。
+* 人工排除 7 条撞名/存疑：Charles Mills（命中 18 世纪英国史家）、Audrey、Batterman, Robert、Brock, Gillian、Epiphanius、della Valle, Paolo、Balog, Katalin（首检为 1935–2005 匈牙利作家，存疑）。
+* 实写 22 行（Abizadeh、Aldrich、Apollonius Cronus、Aristides、Axiothea、Barnes、Başkent、Boxer、Brady、Bridgeman、Buddhaghosa、Carugo、Chaerephon、Cintula、Costelloe、Cratylus、Dal Lago、De Giacomo、Della Rocca、Epimenides、Falk、Finsen）；其中 Buddhaghosa、Cratylus 两行人工把世纪改写为“约5世纪／约前5世纪（活动期）”，防止把世纪区间当生卒。
+* 证据：`results/backfill-auto-2026-11-23.tsv`（227＋201 行，含两次运行全记录与排除理由）。
+* `registry_azsort` 守恒 4597；`check_terms` 硬错误 0；`check_all` 17 项全绿。

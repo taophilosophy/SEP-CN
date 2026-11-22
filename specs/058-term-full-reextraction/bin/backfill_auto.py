@@ -129,6 +129,11 @@ def year(prop, cl):
 def year_or_fl(cl):
     b = year('P569', cl)
     d = year('P570', cl)
+    # Wikidata 占位年（1900-01-01 常表未知）与生卒倒序一律不给日期
+    if b in ('1900',) or d in ('1900',):
+        return ''
+    if b and d and int(b.lstrip('前')) >= int(d.lstrip('前')):
+        return ''
     if b and d and b != d:
         return '%s–%s' % (b, d)
     if b and not d:
@@ -152,6 +157,10 @@ def main():
     ap.add_argument('--limit', type=int, default=200)
     ap.add_argument('--apply', action='store_true')
     args = ap.parse_args()
+    # 检索撞名/身份存疑：本批人工排除（详见 execution-log）
+    EXCLUDE = {'Charles Mills', 'Audrey', 'Batterman, Robert',
+               'Brock, Gillian', 'Epiphanius', 'della Valle, Paolo',
+               'Balog, Katalin'}
     entries = []
     with io.open(MISSING, encoding='utf-8') as f:
         for line in f:
@@ -171,6 +180,9 @@ def main():
     todo = entries[args.start:args.start + args.limit]
     changed = 0
     for n, (key, miss) in enumerate(todo):
+        if key in EXCLUDE:
+            out_rows.append('%s\t\t\t%s\t\t\t身份存疑，人工排除' % (key, miss))
+            continue
         i = idx.get(norm_key_quote(key))
         if i is None:
             out_rows.append('%s\t\t\t%s\t\t\t登记行未找到' % (key, miss))
