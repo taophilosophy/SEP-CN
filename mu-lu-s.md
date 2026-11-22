@@ -1600,9 +1600,14 @@ outline: [1, 6]
 
 #### 安达卢西亚与迈蒙尼德
 
+##### 新柏拉图主义与护教
+
 * [所罗门·伊本·盖比鲁勒 Solomon Ibn Gabirol \[Avicebron\] (Sarah Pessin)](i/ibn-gabirol.md)
 * [亚伯拉罕·伊本·以斯拉 Abraham Ibn Ezra (Tzvi Langermann)](i/ibn-ezra.md)
 * [犹大·哈列维 Judah Halevi (Ehud Krinis)](h/halevi.md)
+
+##### 亚里士多德主义
+
 * [亚伯拉罕·伊本·达乌德 Abraham Ibn Daud (Resianne Fontaine、Amira Eran)](a/abraham-daud.md)
 * [迈蒙尼德 Maimonides (Kenneth Seeskin)](m/maimonides.md)
   * [伊斯兰思想对迈蒙尼德的影响 The Influence of Islamic Thought on Maimonides (Sarah Pessin)](m/maimonides-islamic.md)
@@ -1610,18 +1615,28 @@ outline: [1, 6]
 
 #### 13–14 世纪
 
-* [以撒·阿尔巴拉格 Isaac Albalag (Bakinaz Abdalla)](a/albalag.md)
+##### 翻译与百科全书
+
 * [闪-托夫·伊本·法拉奎拉 Shem Tov Ibn Falaquera (Steve Harvey)](f/falaquera.md)
 * [撒母耳·伊本·提本 Samuel Ibn Tibbon (James T. Robinson)](t/tibbon.md)
+
+##### 亚里士多德主义及其批评
+
+* [以撒·阿尔巴拉格 Isaac Albalag (Bakinaz Abdalla)](a/albalag.md)
 * [吉尔松尼德 Gersonides (Tamar Rudavsky)](g/gersonides.md)
 * [哈斯代·克雷斯卡斯 Hasdai Crescas (Shalom Sadik)](c/crescas.md)
 
 #### 15 世纪
 
+##### 伊比利亚的教义与论战
+
 * [约瑟夫·阿尔博 Joseph Albo (Dror Ehrlich、Shira Weiss)](a/albo-joseph.md)
 * [约瑟夫·卡斯皮 Joseph Kaspi (Hannah Kasher、Moshe Kahan)](k/kaspi-joseph.md)
 * [以撒·波尔卡尔 Isaac Polqar (Racheli Haliva)](p/polqar.md)
 * [布尔戈斯的阿布内尔 Abner of Burgos (Shalom Sadik)](a/abner-burgos.md)
+
+##### 意大利文艺复兴
+
 * [以利亚·德尔·梅第戈 Elijah Delmedigo (Michael Engel)](d/delmedigo.md)
 * [犹大·莱昂·阿布拉瓦内尔 Judah Abrabanel (Aaron Hughes)](a/abrabanel.md)
 
@@ -1667,8 +1682,13 @@ outline: [1, 6]
 
 #### 墨家与名家
 
+##### 墨家
+
 * [墨家 Mohism (Chris Fraser)](m/mohism.md)
 * [墨经 Mohist Canons (Chris Fraser)](m/mohist-canons.md)
+
+##### 名家
+
 * [名家 School of Names (Chris Fraser)](s/school-names.md)
 
 #### 法家
@@ -1764,20 +1784,35 @@ outline: [1, 6]
 
 #### 形而上学与心灵
 
+##### 形而上学与变化
+
 * [中国哲学中的形而上学 Metaphysics in Chinese Philosophy (Franklin Perkins)](c/chinese-metaphysics.md)
+* [中国易经哲学 Chinese Philosophy of Change (Yijing) (Tze-Ki Hon)](c/chinese-change.md)
+
+##### 心灵与情感
+
 * [中国哲学中的心 Mind (Heart-Mind) in Chinese Philosophy (David Wong)](c/chinese-mind.md)
 * [早期中国哲学中的情 The Emotions in Early Chinese Philosophy (Bongrae Seok)](e/emotions-chinese.md)
-* [中国易经哲学 Chinese Philosophy of Change (Yijing) (Tze-Ki Hon)](c/chinese-change.md)
 
 #### 认识论、逻辑与语言
 
+##### 认识论与逻辑语言
+
 * [中国哲学中的认识论 Epistemology in Chinese Philosophy (Jana Rošker)](c/chinese-epistemology.md)
 * [早期中国哲学中的逻辑与语言 Logic and Language in Early Chinese Philosophy (Marshall D. Willman)](c/chinese-logic-language.md)
+
+##### 翻译与解释
+
 * [翻译和解释中国哲学 Translating and Interpreting Chinese Philosophy (Chad Hansen、David Wong、Henry Rosemont Jr.)](c/chinese-translate-interpret.md)
 
 #### 美学、医学与科学
 
+##### 美学
+
 * [中国哲学中的美学：绘画与书法 Aesthetics in Chinese Philosophy: Painting and Calligraphy (Yolaine Escande)](c/chinese-painting-calligraphy.md)
+
+##### 医学与科学
+
 * [中国哲学与中医 Chinese Philosophy and Chinese Medicine (Lisa Raphals)](c/chinese-phil-medicine.md)
 * [中国哲学与科学 Science and Chinese Philosophy (Lisa Raphals)](c/chinese-phil-science.md)
 
@@ -1796,24 +1831,39 @@ outline: [1, 6]
 
 #### 中观
 
+##### 根本中观
+
 * [龙树 Nāgārjuna (Jan Christoph Westerhoff)](n/nagarjuna.md)
 * [中观 Madhyamaka (Richard Hayes)](m/madhyamaka.md)
+
+##### 中观后续发展
+
 * [室利笈多 Śrīgupta (Allison Aitken)](s/srigupta.md)
 * [寂护 Śāntarakṣita (James Blumenthal、James Apple)](s/saantarak-sita.md)
 
 #### 瑜伽行与量论
 
+##### 瑜伽行派
+
 * [世亲 Vasubandhu (Jonathan C. Gold)](v/vasubandhu.md)
 * [瑜伽行派 Yogācāra (Szilvia Szanyi)](y/yogacara.md)
+
+##### 佛教量论
+
 * [法称 Dharmakīrti (Tom Tillemans)](d/dharmakiirti.md)
 * [宝称 Ratnakīrti (Patrick McAllister)](r/ratnakirti.md)
 
 #### 伦理学与二谛
 
+##### 伦理与心灵
+
 * [印度佛教中的伦理学 Ethics in Indian Buddhism (Charles Goodman、Aaron Schultz)](e/ethics-indian-buddhism.md)
 * [印度佛教哲学中的心灵 Mind in Indian Buddhist Philosophy (Christian Coseru)](m/mind-indian-buddhism.md)
-* [印度的“二谛”理论 The Theory of Two Truths in India (Sonam Thakchoe)](t/twotruths-india.md)
 * [寂天 Śāntideva (Charles Goodman)](s/shantideva.md)
+
+##### 二谛理论
+
+* [印度的“二谛”理论 The Theory of Two Truths in India (Sonam Thakchoe)](t/twotruths-india.md)
 
 ### 耆那教
 
@@ -2022,8 +2072,13 @@ outline: [1, 6]
 
 #### 人物与影响
 
+##### 人物
+
 * [拉齐 Abu Bakr al-Razi (Peter Adamson)](a/abu-bakr-al-razi.md)
 * [欧玛尔·海亚姆 Umar Khayyam (Seyed N. Mousavian、Suzanne Sumner、Mehdi Aminrazavi、Glen Van Brummelen)](u/umar-khayyam.md)
+
+##### 跨传统影响
+
 * [阿拉伯和伊斯兰哲学对犹太思想的影响 Influence of Arabic and Islamic Philosophy on Judaic Thought (Mauro Zonta、Charles Manekin)](a/arabic-islamic-judaic.md)
 * [阿拉伯和伊斯兰哲学对西方拉丁世界的影响 Influence of Arabic and Islamic Philosophy on the Latin West (Dag Nikolaus Hasse)](a/arabic-islamic-influence.md)
 
