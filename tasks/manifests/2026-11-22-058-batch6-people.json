@@ -1,0 +1,173 @@
+{
+ "batch": "058-batch6-people",
+ "date": "2026-11-22",
+ "scope": "人名第二批：真缺项 15 人（合写键别名去重后）",
+ "evidence": "specs/058-term-full-reextraction/results/people-wikidata-2026-11-22-b2.tsv",
+ "rows": [
+  {
+   "en": "van Gelder, Tim / Tim van Gelder",
+   "alias": "Tim van Gelder",
+   "zh": "蒂姆·范海尔德",
+   "table": "person",
+   "affiliation": "澳大利亚／认知科学",
+   "dates": "—",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q7804551（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）；生卒未详（Wikidata 无生卒数据）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "van Lambalgen, Michiel / Michiel van Lambalgen",
+   "alias": "Michiel van Lambalgen",
+   "zh": "米希尔·范·兰巴尔根",
+   "table": "person",
+   "affiliation": "荷兰／逻辑与认知科学",
+   "dates": "1954–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q6837395（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Rosen, Gideon / Gideon Rosen",
+   "alias": "Gideon Rosen",
+   "zh": "吉迪恩·罗森",
+   "table": "person",
+   "affiliation": "美国／哲学",
+   "dates": "1962–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q20732338（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Darwall, Stephen / Stephen Darwall",
+   "alias": "Stephen Darwall",
+   "zh": "斯蒂芬·达沃尔",
+   "table": "person",
+   "affiliation": "美国／道德哲学",
+   "dates": "1946–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q7609017（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Price, Huw / Huw Price",
+   "alias": "Huw Price",
+   "zh": "休·普莱斯",
+   "table": "person",
+   "affiliation": "澳大利亚／哲学",
+   "dates": "1953–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q11710343（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Shelby, Tommie / Tommie Shelby",
+   "alias": "Tommie Shelby",
+   "zh": "汤米·谢尔比",
+   "table": "person",
+   "affiliation": "美国／政治哲学",
+   "dates": "1967–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q7819130（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Elster, Jon / Jon Elster",
+   "alias": "Jon Elster",
+   "zh": "约恩·埃尔斯特",
+   "table": "person",
+   "affiliation": "挪威／美国／政治哲学",
+   "dates": "1940–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q468043（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Schroeder, Mark / Mark Schroeder",
+   "alias": "Mark Schroeder",
+   "zh": "马克·施罗德",
+   "table": "person",
+   "affiliation": "美国／哲学",
+   "dates": "1977–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q93387536（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Barry, Brian / Brian Barry",
+   "alias": "Brian Barry",
+   "zh": "布赖恩·巴里",
+   "table": "person",
+   "affiliation": "英国／美国／政治哲学",
+   "dates": "1936–2009",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q911833（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Tye, Michael / Michael Tye",
+   "alias": "Michael Tye",
+   "zh": "迈克尔·泰",
+   "table": "person",
+   "affiliation": "美国／心灵哲学",
+   "dates": "1950–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q708836（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Lugones, María / María Lugones",
+   "alias": "María Lugones",
+   "zh": "玛丽亚·卢戈内斯",
+   "table": "person",
+   "affiliation": "阿根廷／美国／哲学",
+   "dates": "1944–2020",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q6761379（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Shafer-Landau, Russ / Russ Shafer-Landau",
+   "alias": "Russ Shafer-Landau",
+   "zh": "拉斯·谢弗-兰多",
+   "table": "person",
+   "affiliation": "美国／元伦理学",
+   "dates": "1963–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q7381231（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Boghossian, Paul / Paul Boghossian",
+   "alias": "Paul Boghossian",
+   "zh": "保罗·博格霍西安",
+   "table": "person",
+   "affiliation": "美国／亚美尼亚裔／哲学",
+   "dates": "1957–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q2625853（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Wolf, Susan / Susan Wolf",
+   "alias": "Susan Wolf",
+   "zh": "苏珊·沃尔夫",
+   "table": "person",
+   "affiliation": "美国／道德哲学",
+   "dates": "1952–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q7648308（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Martini Bonadeo, Cecilia / Cecilia Martini Bonadeo",
+   "alias": "Cecilia Martini Bonadeo",
+   "zh": "切契莉娅·马尔蒂尼·博纳代奥",
+   "table": "person",
+   "affiliation": "意大利／阿拉伯哲学",
+   "dates": "1973–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q109449315（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv）",
+   "date": "2026-11-22"
+  }
+ ]
+}

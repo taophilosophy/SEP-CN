@@ -100,6 +100,8 @@ def main():
     persons = set()
     PARTS = {'van', 'von', 'de', 'der', 'den', 'du', 'la', 'le', 'di', 'da',
              'del', 'della', 'ibn', 'bin', 'bint', 'al', 'el', 'abu', 'abd'}
+    HONOR = {'lady', 'sir', 'saint', 'st', 'pope', 'princess', 'king',
+             'queen', 'emperor', 'cardinal', 'bishop', 'father'}
     for r in parse_registry2_full(person_path())[0]:
         key = norm_key_quote(r[0])
         parts = [p.strip() for p in key.split('/')]
@@ -107,6 +109,10 @@ def main():
         for p in parts:
             persons.add(p)
             toks = p.split()
+            clean = [t for t in toks if t not in HONOR]
+            if clean and clean != toks:
+                persons.add(' '.join(clean))
+                toks = clean
             if len(toks) >= 2:
                 persons.add('%s %s' % (toks[-1], ' '.join(toks[:-1])))
                 persons.add('%s, %s' % (toks[-1], ' '.join(toks[:-1])))

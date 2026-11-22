@@ -41,3 +41,8 @@
 * 取证：逐一查 Wikidata（经代理，限流退避；凭证 `results/people-wikidata-2026-11-22.tsv`），取 QID／生卒／国籍；Van Cleve、Della Rocca 无生卒数据，按“生卒未详”留空；Miranda Fricker 与已登记的 Elizabeth Fricker 为异人，分行登记。
 * 落册：`term_flow` 干跑 13/0，实写 13；人名表 4558 行守恒；`check_terms` 硬错误 0。总表的状态判定同步支持人名合写键别名（`isaiah berlin` 等已标“已登记（人名表）”）。
 * 当日累计：术语表 246 行；人名表 13 行。
+* 人名第二批：再筛得 15 人：Tim van Gelder、Michiel van Lambalgen、Gideon Rosen、Stephen Darwall、Huw Price、Tommie Shelby、Jon Elster、Mark Schroeder、Brian Barry、Michael Tye、María Lugones、Russ Shafer-Landau、Paul Boghossian、Susan Wolf、Cecilia Martini Bonadeo。
+* Anne Conway 在别名检查中被识别为已登记（“Conway, Lady Anne / 安妮·康威”），剔除；据此给人名别名加敬称剥离（lady/sir/saint/pope 等），防同类重收。
+* 取证：Wikidata 逐人查（限流退避；凭证 `results/people-wikidata-2026-11-22-b2.tsv`）。Tim van Gelder 无生卒数据，留“—”；Mark Schroeder 首检命中篮球运动员，改查 Q93387536（1977–）。
+* 落册：`term_flow` 干跑 15/0，实写 15；人名表 4573 数据行守恒；`check_terms` 硬错误 0；`check_all` 17 项全绿。
+* 当日累计：术语表 246 行；人名表 28 行（13＋15）。
