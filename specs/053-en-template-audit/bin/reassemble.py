@@ -622,32 +622,69 @@ def _td(cell):
     return "<td>%s</td>" % _inline_md_to_html(cell.strip())
 
 
-def _render_bq(q):
+def _render_bq(q, _depth=0):
     """`>` 行（已剥一层前缀）→ 引块 HTML。主循环与 References 区共用。
 
     空 `>` 行＝段落分隔；连续非空行＝同段内 <br>（richard-sophister 判例：
     C 侧块内 BR_MARK 恢复为 \n 后每行加 '> '，无空行分隔）。
-    注意：调用方只剥一层——`> > x` 是嵌套引块，剥成单层会破坏 B3.1
-    不动点（abrabanel/heraclitus/evil 等 20 件实测回退）。"""
+    嵌套：调用方只剥一层，剥后仍以 `>` **加空白/行尾**起的行属内层引块（md
+    `> > x`），递归渲染成嵌套 `<blockquote>`——旧实现把 `>` 当字面文字留在
+    正文，u 键多出 `>` 整页错位（logic-connexive／abrabanel 等 29 件，
+    2026-11-22）。
+    歧义判据：H0 有正文以字面 `>` 起（`&gt;<em>…`，scientific-representation
+    判例），C 落 md 成 `> >*…`（标记后无空格）——与嵌套标记 `> > text`
+    （有空格）靠“标记后是否空白”区分，故 NEST_RE 要求 `>` 后为空白或行尾。"""
+    NEST_RE = re.compile(r"^>(?:\s|$)")
+
+    def _blocks(lines):
+        out, cur = [], []
+        for line in lines:
+            if line.strip():
+                cur.append(line)
+            elif cur:
+                out.append(cur)
+                cur = []
+        if cur:
+            out.append(cur)
+        return out
+
+    def _runs(block):
+        """块内按「嵌套行 / 普通行」切连续段，保序。"""
+        out, cur, isnest = [], [], None
+        for ln in block:
+            n = bool(NEST_RE.match(ln.lstrip()))
+            if isnest is None or n == isnest:
+                cur.append(ln)
+                isnest = n
+            else:
+                out.append((isnest, cur))
+                cur, isnest = [ln], n
+        if cur:
+            out.append((isnest, cur))
+        return out
+
     paras = []
-    cur = []
-    for line in q:
-        if line.strip():
-            cur.append(line)
-        elif cur:
-            paras.append(cur)
-            cur = []
-    if cur:
-        paras.append(cur)
+    for block in _blocks(q):
+        for isnest, run in _runs(block):
+            if isnest and _depth < 4:
+                sub = [NEST_RE.sub("", ln, count=1) if NEST_RE.match(ln.lstrip())
+                       else ln for ln in run]
+                paras.append(("__nested__", sub))
+            else:
+                paras.append(("p", run))
     if not paras:
         return ""
-    if len(paras) == 1 and paras[0][0].strip().startswith("|"):
-        rows = _pipe_rows("\n".join(paras[0]))
+    if (len(paras) == 1 and paras[0][0] == "p"
+            and paras[0][1][0].strip().startswith("|")):
+        rows = _pipe_rows("\n".join(paras[0][1]))
         cells = [[_td(c) for c in r] for r in rows]
         trs = "".join("<tr>%s</tr>" % "".join(cs) for cs in cells)
         return "<blockquote><table>%s</table></blockquote>" % trs
     inner = ""
-    for p in paras:
+    for kind, p in paras:
+        if kind == "__nested__":
+            inner += _render_bq(p, _depth + 1)
+            continue
         if p[0].strip().startswith("|"):
             rows = _pipe_rows("\n".join(p))
             cells = [[_td(c) for c in r] for r in rows]

@@ -2,8 +2,8 @@
  "schema": "sep-cn-b31-assembly/1",
  "generated_by": "specs/053 bin/reassemble.py",
  "total": 1873,
- "ok": 1616,
- "fail": 257,
+ "ok": 1617,
+ "fail": 256,
  "skipped": 0,
  "entries": [
   {
@@ -84,7 +84,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.149
+   "sec": 0.158
   },
   {
    "slug": "abraham-daud",
@@ -479,7 +479,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.312
+   "sec": 0.338
   },
   {
    "slug": "al-farabi-metaphysics",
@@ -1479,7 +1479,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.711
+   "sec": 0.811
   },
   {
    "slug": "assertion",
@@ -1709,7 +1709,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.131
+   "sec": 0.124
   },
   {
    "slug": "baudrillard",
@@ -2693,18 +2693,13 @@
   },
   {
    "slug": "ceteris-paribus",
-   "ok": false,
+   "ok": true,
    "md_len": 168677,
    "b0_mini": {
     "sections": true,
     "parses": true
    },
-   "first_diff": {
-    "op": "replace",
-    "md": "Tx \\amp Wx, Bx)$ |\n> > | --- | --- | --- |\n> > |   | b) | $Tx \\amp Wx$ |\n> > |   | c) | $Bx$ |\n>\n> where the function $L(Tx \\amp Wx, Bx)$ in",
-    "asm": " $L(Tx \\amp Wx, Bx)$ |\n> > | --- | --- | --- |\n> > | | b) | $Tx \\amp Wx$ |\n> > | | c) | $Bx$ |\n>\n> where the function $L(Tx \\amp Wx, Bx)$ in"
-   },
-   "sec": 0.613
+   "sec": 0.608
   },
   {
    "slug": "chance-randomness",
@@ -4564,7 +4559,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.157
+   "sec": 0.176
   },
   {
    "slug": "descartes-method",
@@ -6054,7 +6049,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.255
+   "sec": 0.285
   },
   {
    "slug": "evil-kinds-origins",
@@ -7129,7 +7124,7 @@
     "md": "rmann Pohle, volume 1 in 1893 and volume 2 in 1903. Translated in ER13.\n\n[^frege-1897]: 1897, “Über die Begriffsschrift des Herrn Peano und ",
     "asm": "Pohle, volume 1 in 1893 and volume 2 in 1903. Translated in ER13.\n\n[^frege-logic-1897]: 1897, “Über die Begriffsschrift des Herrn Peano und "
    },
-   "sec": 0.385
+   "sec": 0.35
   },
   {
    "slug": "frege-theorem",
@@ -8069,7 +8064,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.082
+   "sec": 0.091
   },
   {
    "slug": "herder",
@@ -8884,7 +8879,7 @@
     "md": "a non-trivial elementary embedding *j*: *V* → *M* such that crit(*j*)=κ and ^{γ}*M*⊆ *M*, that is, *M* is closed under γ-sequences. (It is s",
     "asm": "nd a non-trivial elementary embedding *j*: *V* → *M* such that crit(*j*)=κ and ᵞ*M*⊆ *M*, that is, *M* is closed under γ-sequences. (It is s"
    },
-   "sec": 0.081
+   "sec": 0.085
   },
   {
    "slug": "indexicals",
@@ -9069,7 +9064,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.299
+   "sec": 0.331
   },
   {
    "slug": "integrity",
@@ -9254,7 +9249,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.202
+   "sec": 0.294
   },
   {
    "slug": "james",
@@ -9974,7 +9969,7 @@
     "md": "e 0, then any other direction *x*′ which lies away from *x* by an angle cos^{−1}(1/3) must be assigned value 1, or, in symbols: If *v*(*S*_{",
     "asm": "alue 0, then any other direction *x*′ which lies away from *x* by an angle cos⁻¹(1/3) must be assigned value 1, or, in symbols: If *v*(*S*_{"
    },
-   "sec": 0.199
+   "sec": 0.265
   },
   {
    "slug": "kokugaku-school",
@@ -10944,7 +10939,7 @@
     "md": "CL** if <*W*, *R*, *P*> is a general frame for **CCL**, <*W*, *R*, *v*⁺, *v*^{−}> is a model for **CCL**, and for every propositional variab",
     "asm": "**CCL** if <*W*, *R*, *P*> is a general frame for **CCL**, <*W*, *R*, *v*⁺, *v*⁻> is a model for **CCL**, and for every propositional variab"
    },
-   "sec": 0.368
+   "sec": 0.408
   },
   {
    "slug": "logic-deontic",
@@ -11459,7 +11454,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.297
+   "sec": 0.328
   },
   {
    "slug": "logics-for-games",
@@ -13584,7 +13579,7 @@
     "md": "> | *V*_{α+1} | = | ℘*V*_{α} |\n> | *V*_{λ} | = | ∪_{β<λ} *V*_{β} for λ a limit ordinal |\n\n**The *ZFC* axioms**. We are not g",
     "asm": "> | *V*_{α+1} | = | ℘*V*_{α} |\n> | *V*_{λ} | = | ∪_{β<λ} *V*ᵦ for λ a limit ordinal |\n\n**The *ZFC* axioms**. We are not g"
    },
-   "sec": 0.28
+   "sec": 0.308
   },
   {
    "slug": "normativity-metaethics",
@@ -14859,7 +14854,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.118
+   "sec": 0.127
   },
   {
    "slug": "pomponazzi",
@@ -15009,7 +15004,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.128
+   "sec": 0.146
   },
   {
    "slug": "pragmatics",
@@ -15139,7 +15134,7 @@
     "md": "e*, New York: Institute of Electrical and Electronics Engineers.\n\n[^prior-2003-2]: Prior, M., 2003, ‘An Interview with Mary Prior’, in Prior",
     "asm": "nce*, New York: Institute of Electrical and Electronics Engineers.\n\n[^prior-2003]: Prior, M., 2003, ‘An Interview with Mary Prior’, in Prior"
    },
-   "sec": 0.298
+   "sec": 0.333
   },
   {
    "slug": "prioritarianism",
@@ -15309,7 +15304,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.411
+   "sec": 0.455
   },
   {
    "slug": "properties",
@@ -15759,7 +15754,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.193
+   "sec": 0.212
   },
   {
    "slug": "qt-uncertainty",
@@ -15899,7 +15894,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.312
+   "sec": 0.335
   },
   {
    "slug": "race",
@@ -17204,7 +17199,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.359
+   "sec": 0.398
   },
   {
    "slug": "scientific-reproducibility",
@@ -17404,7 +17399,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.287
+   "sec": 0.321
   },
   {
    "slug": "semiotics-medieval",
@@ -18444,7 +18439,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.204
+   "sec": 0.226
   },
   {
    "slug": "sufficient-reason",
@@ -18504,7 +18499,7 @@
     "md": "x*\\* in *w*_{1} to which *x* is *R*-related, there is something *y*\\* in *w*_{2} that is *R*-related to *y* and that is *A*-indiscernible fr",
     "asm": "hing *x*\\* in *w*₁ to which *x* is *R*-related, there is something *y*\\* in *w*₂ that is *R*-related to *y* and that is *A*-indiscernible fr"
    },
-   "sec": 0.304
+   "sec": 0.329
   },
   {
    "slug": "supervenience-ethics",
@@ -19059,7 +19054,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.45
+   "sec": 0.587
   },
   {
    "slug": "truth-identity",
@@ -19729,7 +19724,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.062
+   "sec": 0.074
   },
   {
    "slug": "williams-bernard",
@@ -19804,7 +19799,7 @@
     "md": "  [6] There is substance (that is, some things exist in every possible world).\n>\n\nOur [5] is the main suppressed premise. It means, simply, ",
     "asm": ">   [6] There is substance (that is, some things exist in every possible world).\n\nOur [5] is the main suppressed premise. It means, simply, "
    },
-   "sec": 0.146
+   "sec": 0.165
   },
   {
    "slug": "wittgenstein-mathematics",
@@ -19999,7 +19994,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.244
+   "sec": 0.278
   },
   {
    "slug": "zhuangzi",
@@ -20009,7 +20004,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.255
+   "sec": 0.282
   },
   {
    "slug": "zombies",
