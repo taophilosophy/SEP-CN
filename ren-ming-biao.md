@@ -2241,7 +2241,7 @@
 | Kamo no Chōmei | 鴨長明 | 鸭长明 | 日本／文学理论 | 1153–1216 | japanese-aesthetics | 学界惯例（日本文学史通行汉名）；籍属/生卒联网查证：GND 规范标目 gnd 118959883（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kamo no Mabuchi | — | 贺茂真渊 | 日本 | 1697–1769 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04；籍属/生卒联网查证：Wikidata Q1343397（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Kamp, Hans | — | 汉斯·坎普 | 荷兰 | 1940– | dynamic-semantics | 学界通行音译（DRT 创始者）；凭证 2026-11-12 | 2026-11-12 |
-| Kaṇāda | कणाद | 迦那陀 | 古印度／胜论派 | — | early-modern-india | 学界通行音译（《胜论经》托名作者；亦作“羯那陀”）；凭证 2026-11-10 | 2026-11-10 |
+| Kaṇāda | कणाद | 迦那陀 | 古印度／胜论派 | 2 世纪 | early-modern-india | 学界通行音译（《胜论经》托名作者；亦作“羯那陀”）；凭证 2026-11-10；生卒查证：原文 en/sriharsa 括注“Kaṇāda (2 nd century CE)”；断代诸说不一，照源录世纪（2026-11-22 查，凭证 en-century-2026-11-22.tsv） | 2026-11-22 |
 | Kang Chŏngildang | 姜靜一堂 | 姜静一堂 | — | — | korean-philosophy | 汉文传统写法（源文汉字 姜靜一堂；朝鲜女性儒者） | 2026-11-05 |
 | Kang Youwei | — | 康有为 | 中国（清） | 1858–1927 | xunzi | 上游自带汉字（戊戌变法领袖） | 2026-11-14 |
 | Kanizsa, Gaetano | — | 加埃塔诺·卡尼扎 | 意大利 | 1913–1993 | idiolects | 学界通行音译（卡尼扎三角形错觉）；凭证 2026-11-11 | 2026-11-11 |
@@ -3300,7 +3300,7 @@
 | Peterborough, Lord | — | 彼得伯勒勋爵 | 英国 | 1658–1735 | lady-masham | 学界通行汉译（以爵号行文）；籍属/生卒联网查证：Wikidata Q1065565（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Peters, Rik | — | 里克·彼得斯 | 荷兰 | 当代 | croce-aesthetics | 学界通行音译（柯林武德研究者，History as Thought and Action 作者）；凭证 2026-11-10 | 2026-11-09 |
 | Petreius, Johann | — | 约翰·彼得雷乌斯 | 德国 | 1497–1550 | copernicus | 出版史通行音译（《天体运行论》印行者）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
-| Petrizi, Joane | — | 乔安·佩特里齐 | 格鲁吉亚 | — | joane-petrizi；SUMMARY | SUMMARY 定名沿用；补登：joane-petrizi 定稿时漏登；凭证 2026-11-06；籍属/生卒联网查证：Wikidata Q2028047（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
+| Petrizi, Joane | — | 乔安·佩特里齐 | 格鲁吉亚 | 12 世纪 | joane-petrizi；SUMMARY | SUMMARY 定名沿用；补登：joane-petrizi 定稿时漏登；凭证 2026-11-06；籍属/生卒联网查证：Wikidata Q2028047（2026-11-21 查，凭证 verify-2026-11-20-people.tsv）；生卒查证：原文 en/joane-petrizi 括注“Joane Petrizi (12 th century)”（2026-11-22 查，凭证 en-century-2026-11-22.tsv） | 2026-11-22 |
 | Petrus Aureoli | — | 彼得鲁斯·奥雷奥利 | 法国 | 约1280–1322 | nicole-oresme | 中世纪哲学通行汉译（方济各会士）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q1383191（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Petrus Ferrandi Hispanus | — | 佩德鲁斯·费兰迪·希斯帕努斯 | 伊比利亚 | 卒于 1254–1259 间 | peter-spain | 本词条首译（西班牙的彼得候选作者之一；无通行汉名）；凭证 2026-11-09 | 2026-11-09 |
 | Pettit, Philip | — | 菲利普·佩蒂特 | 爱尔兰 | 1945– | economic-democracy | 学界通行汉译（新共和主义）；籍属/生卒联网查证：GND 规范标目 gnd 124973094（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
