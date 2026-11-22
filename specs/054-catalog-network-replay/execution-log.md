@@ -129,3 +129,12 @@ cron `0 1,9,17 * * *`（北京 09:00／17:00／次日 01:00）；抓 contents.ht
 3. **check_images 假阳性**：`/root/...` 站点绝对路径被判悬空（源自抄录的上游 HTML）。单列 `absolute` 告警类，不计硬门；补单测。
 
 结案后复跑：队列 0（synced_skipped 88、verified_same 1）；`check_all` 17 项全绿。
+
+## 2026-11-22 巡检 issue 口径：只报目录漂移，目录干净即关闭（用户裁定）
+
+- 起因：用户质疑 issue #52 在“目录无漂移”时仍发布。定位：旧触发条件是「目录漂移 或 正文队列非空」；#52 由 `culture-cogsci` 的 `new.html` 修订（2026-11-21）触发，其后 `delusion` 亦入队。16:40 班与 08:07 班队列同容仍追加评论——issue 是常驻追踪器、每班追加运行日志，且无指纹去重；本地未落地则 `baseline/entries.json` 不前移，队列逐班复现。
+- 裁定落地（`catalog-drift.yml`）：
+  1. issue 开关只看目录漂移——`changed == 'true'` 开/更新；`changed == 'false'` 显式成立时关闭打开中的 `sep-upstream-sync` issue（关闭附一行原因评论）。
+  2. 正文变更检测保留（顺序门不变：仅目录干净时执行），但结果只落运行工件；issue 不再报告“上游变更待办 N 条”，队列也不参与 issue 开关。
+  3. `sep-sync-broken` 不随目录干净自动关闭，留人工定性。
+- 同步更新 `rules/05/ci-workflows.md` 工作流表。当前无打开中的同步 issue；关闭路径待下一个目录干净班次实测。

@@ -1,8 +1,11 @@
 name: SEP 上游目录漂移巡检
 
 # 每日三次抓取 plato.stanford.edu/contents.html，与本地三账（baseline/catalog.json、
-# SUMMARY.md、mu-lu-s.md）四方对比，并做 B3.2 装配核验（specs/054）；有漂移或上游
-# 有 NEW/REVISED 条目时开/更新 issue。
+# SUMMARY.md、mu-lu-s.md）四方对比，并做 B3.2 装配核验（specs/054）。
+#
+# issue 口径（2026-11-22 用户裁定）：issue 只报目录漂移——有漂移时开/更新，目录
+# 四方全等（changed=false 显式成立）时关闭打开中的同名 issue。上游正文变更队列
+# 只落运行工件，不在 issue 报告，也不作为开关 issue 的依据。
 #
 # 原则（specs/054 §3 单向波纹）：本工作流只读、只报告。
 #   不写 baseline、不改 SUMMARY/mu-lu-s、不提交任何内容文件；落地由人工或本地会话做。
@@ -16,7 +19,7 @@ name: SEP 上游目录漂移巡检
 # 顺序门（2026-11-22 用户裁定）：每日三班（b1/b2/b3＝UTC 01/09/17）一律先做目录
 # 差异比较（四方漂移＋装配核验），且仅当目录干净（changed=false 显式成立）才继续
 # 上游正文比较（detect_updates：new.html＋archinfo 版次核对）；目录有漂移或抓取/
-# 结论不可得时正文比较跳过（fail-closed），issue 正文注明跳过原因，下轮恢复。
+# 结论不可得时正文比较跳过（fail-closed），下轮恢复。正文比较结果只进工件。
 # 理由：目录未同步时正文比较的增删改名基线失真，结果不可采。
 
 on:
@@ -62,7 +65,7 @@ jobs:
           python -c "import json;d=json.load(open('$RUNNER_TEMP/drift.json',encoding='utf-8'));print('changed=%s' % str(d['changed']).lower())" >> "$GITHUB_OUTPUT"
           python -c "import json;d=json.load(open('$RUNNER_TEMP/drift.json',encoding='utf-8'));c=d['catalog'];l=d['local'];a=d.get('assembly') or {};print('目录漂移：%s（新增 %d／删除 %d／改名 %d／作者 %d／别名＋%d－%d；SUMMARY 缺 %d 多 %d；mu-lu-s 缺 %d 多 %d；装配核验：%s）' % ('有' if d['changed'] else '无', len(c['added']), len(c['removed']), len(c['renamed']), len(c['authors_changed']), len(c['alias_added']), len(c['alias_removed']), len(l['upstream_missing_in_summary']), len(l['summary_only_upstream']), len(l['upstream_missing_in_mulu']), len(l['mulu_only_upstream']), '全等' if a.get('ok') else '不等'))"
 
-      - name: 上游变更检测（new.html ＋ 版次核对；仅目录干净时执行）
+      - name: 上游变更检测（new.html ＋ 版次核对；仅目录干净时执行，结果只落工件）
         id: updates
         if: always() && steps.drift.outputs.changed == 'false'
         continue-on-error: true
@@ -71,11 +74,9 @@ jobs:
           python tools/detect_updates.py --archinfo --archinfo-max 40 --verify-web \
             --out "$RUNNER_TEMP/queue.json" --md "$RUNNER_TEMP/queue.md" --quiet
           if [ -f "$RUNNER_TEMP/queue.json" ]; then
-            python -c "import json;d=json.load(open('$RUNNER_TEMP/queue.json',encoding='utf-8'));print('count=%d' % len(d['queue']))" >> "$GITHUB_OUTPUT"
-            python -c "import json;d=json.load(open('$RUNNER_TEMP/queue.json',encoding='utf-8'));q=d['queue'];s='、'.join('%s %s' % (x['slug'], x['action']) for x in q[:10]);print('变更队列 %d 条（窗口 %d 个月）%s' % (len(q), d['window_months'], '：' + s if q else ''))"
+            python -c "import json;d=json.load(open('$RUNNER_TEMP/queue.json',encoding='utf-8'));print('上游正文变更检测完成（窗口 %d 个月；结果仅落工件，不报告条数）' % d['window_months'])"
           else
-            echo "count=unknown" >> "$GITHUB_OUTPUT"
-            echo "变更队列：检测中断，queue.json 未生成（见上方日志）"
+            echo "上游正文变更检测中断，queue.json 未生成（见上方日志）"
           fi
 
       - name: 正文比较跳过标记（目录漂移未清或结论不可得）
@@ -100,55 +101,53 @@ jobs:
             ${{ runner.temp }}/snapshot-meta.json
           if-no-files-found: ignore
 
-      - name: 有漂移/变更时创建或更新 Issue
-        if: always() && (steps.drift.outputs.changed == 'true' || (steps.updates.outputs.count != '' && steps.updates.outputs.count != '0'))
+      - name: 有目录漂移时创建或更新 Issue
+        if: always() && steps.drift.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
-          CHANGED: ${{ steps.drift.outputs.changed }}
-          QCOUNT: ${{ steps.updates.outputs.count }}
         run: |
           set -euo pipefail
           TITLE="SEP 上游变化同步报告"
           LABEL="sep-upstream-sync"
-          if [ "$CHANGED" = "true" ]; then
-            DRIFT_TXT="有（详见下方巡检报告）"
-          else
-            DRIFT_TXT="无"
-          fi
-          if [ -z "$QCOUNT" ]; then
-            QCOUNT_TXT="跳过（目录漂移未清，先落地目录同步，下轮巡检恢复）"
-          elif [ "$QCOUNT" = "unknown" ]; then
-            QCOUNT_TXT="数未知（检测中断，见运行日志）"
-          else
-            QCOUNT_TXT="${QCOUNT} 条"
-          fi
           gh label create "$LABEL" --color 5319E6 \
             --description "SEP 官方目录与本地账存在差异" --force >/dev/null 2>&1 || true
           NUM=$(gh issue list --state open --search "in:title \"$TITLE\"" \
                  --json number --jq '.[0].number' 2>/dev/null || true)
           {
             echo "运行：[${GITHUB_RUN_ID}](https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID})"
-            echo "巡检：contents.html 四方（catalog 账／SUMMARY／mu-lu-s）＋B3.2 装配核验；变更检测：new.html＋archinfo"
-            echo "结果：目录漂移 ${DRIFT_TXT}；上游变更待办 ${QCOUNT_TXT}"
+            echo "巡检：contents.html 四方（catalog 账／SUMMARY／mu-lu-s）＋B3.2 装配核验"
+            echo "结果：目录漂移 有（详见下方巡检报告）"
             echo
             if [ -f "$RUNNER_TEMP/drift.md" ]; then cat "$RUNNER_TEMP/drift.md"; else echo "（无目录漂移报告）"; fi
             echo
-            if [ -f "$RUNNER_TEMP/queue.md" ]; then
-              cat "$RUNNER_TEMP/queue.md"
-            elif [ "$CHANGED" = "true" ]; then
-              echo "（正文变更检测本次跳过：目录漂移未清，先落地目录同步；下轮巡检恢复）"
-            else
-              echo "（变更检测报告见运行工件 queue.json）"
-            fi
-            echo
             echo "---"
             echo "**落地**：按上方处置路线在本地执行；本巡检只读不落地（specs/054 §3 单向波纹）。"
+            echo "**关闭**：下一班巡检若目录四方全等，本 issue 由工作流自动关闭。"
           } > "$RUNNER_TEMP/issue-body.md"
           if [ -n "$NUM" ]; then
             gh issue comment "$NUM" --body-file "$RUNNER_TEMP/issue-body.md"
             gh issue edit "$NUM" --add-label "$LABEL"
           else
             gh issue create --title "$TITLE" --body-file "$RUNNER_TEMP/issue-body.md" --label "$LABEL"
+          fi
+
+      - name: 目录无漂移时关闭 Issue
+        if: always() && steps.drift.outputs.changed == 'false'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          TITLE="SEP 上游变化同步报告"
+          NUMS=$(gh issue list --state open --label sep-upstream-sync \
+                   --search "in:title \"$TITLE\"" --json number --jq '.[].number' 2>/dev/null || true)
+          if [ -z "$NUMS" ]; then
+            echo "目录四方全等：无打开中的同步 issue，无需关闭"
+          else
+            for NUM in $NUMS; do
+              gh issue close "$NUM" --reason completed \
+                --comment "本轮巡检（run ${GITHUB_RUN_ID}）目录四方全等，按 2026-11-22 裁定自动关闭。"
+              echo "目录四方全等：已关闭 issue #$NUM"
+            done
           fi
 
       - name: 抓取/解析失败时另开问题
