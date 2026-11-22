@@ -325,23 +325,23 @@
     },
     {
       "kind": "link",
-      "path": "c/callicles-thrasymachus.md",
-      "text": "卡利克勒斯和塞拉西马柯 Callicles and Thrasymachus (Rachel Barney)",
-      "indent": 0,
-      "order": 46
-    },
-    {
-      "kind": "link",
       "path": "s/sophists.md",
       "text": "智者 The Sophists (C.C.W. Taylor、Mi-Kyoung Lee)",
       "indent": 0,
-      "order": 47
+      "order": 46
     },
     {
       "kind": "link",
       "path": "p/protagoras.md",
       "text": "普罗塔戈拉 Protagoras (Mauro Bonazzi)",
       "indent": 2,
+      "order": 47
+    },
+    {
+      "kind": "link",
+      "path": "c/callicles-thrasymachus.md",
+      "text": "卡利克勒斯和塞拉西马柯 Callicles and Thrasymachus (Rachel Barney)",
+      "indent": 0,
       "order": 48
     },
     {
@@ -381,30 +381,30 @@
     },
     {
       "kind": "link",
-      "path": "a/alcmaeon.md",
-      "text": "克罗顿的阿尔克迈翁 Alcmaeon (Carl Huffman)",
+      "path": "p/parmenides.md",
+      "text": "巴门尼德 Parmenides (John Palmer)",
       "indent": 0,
       "order": 54
     },
     {
       "kind": "link",
-      "path": "a/archytas.md",
-      "text": "阿尔库塔斯 Archytas (Carl Huffman)",
+      "path": "x/xenophanes.md",
+      "text": "克塞诺芬尼 Xenophanes (James Lesher)",
       "indent": 0,
       "order": 55
     },
     {
       "kind": "link",
-      "path": "p/parmenides.md",
-      "text": "巴门尼德 Parmenides (John Palmer)",
+      "path": "z/zeno-elea.md",
+      "text": "爱利亚的芝诺 Zeno of Elea (John Palmer)",
       "indent": 0,
       "order": 56
     },
     {
       "kind": "link",
-      "path": "p/philolaus.md",
-      "text": "菲洛劳斯 Philolaus (Carl Huffman)",
-      "indent": 0,
+      "path": "p/paradox-zeno.md",
+      "text": "芝诺悖论 Zeno’s Paradoxes (Nick Huggett)",
+      "indent": 2,
       "order": 57
     },
     {
@@ -423,23 +423,23 @@
     },
     {
       "kind": "link",
-      "path": "x/xenophanes.md",
-      "text": "克塞诺芬尼 Xenophanes (James Lesher)",
+      "path": "p/philolaus.md",
+      "text": "菲洛劳斯 Philolaus (Carl Huffman)",
       "indent": 0,
       "order": 60
     },
     {
       "kind": "link",
-      "path": "z/zeno-elea.md",
-      "text": "爱利亚的芝诺 Zeno of Elea (John Palmer)",
+      "path": "a/archytas.md",
+      "text": "阿尔库塔斯 Archytas (Carl Huffman)",
       "indent": 0,
       "order": 61
     },
     {
       "kind": "link",
-      "path": "p/paradox-zeno.md",
-      "text": "芝诺悖论 Zeno’s Paradoxes (Nick Huggett)",
-      "indent": 2,
+      "path": "a/alcmaeon.md",
+      "text": "克罗顿的阿尔克迈翁 Alcmaeon (Carl Huffman)",
+      "indent": 0,
       "order": 62
     },
     {
@@ -451,30 +451,30 @@
     },
     {
       "kind": "link",
+      "path": "e/empedocles.md",
+      "text": "恩培多克勒 Empedocles (K. Scarlett Kingsley、Richard Parry)",
+      "indent": 0,
+      "order": 64
+    },
+    {
+      "kind": "link",
       "path": "a/atomism-ancient.md",
       "text": "古代原子论 Ancient Atomism (Sylvia Berryman)",
       "indent": 0,
-      "order": 64
+      "order": 65
     },
     {
       "kind": "link",
       "path": "d/democritus.md",
       "text": "德谟克利特 Democritus (Sylvia Berryman)",
       "indent": 2,
-      "order": 65
+      "order": 66
     },
     {
       "kind": "link",
       "path": "l/leucippus.md",
       "text": "留基伯 Leucippus (Sylvia Berryman)",
       "indent": 2,
-      "order": 66
-    },
-    {
-      "kind": "link",
-      "path": "e/empedocles.md",
-      "text": "恩培多克勒 Empedocles (K. Scarlett Kingsley、Richard Parry)",
-      "indent": 0,
       "order": 67
     },
     {
@@ -500,57 +500,57 @@
     },
     {
       "kind": "link",
-      "path": "e/epictetus.md",
-      "text": "爱比克泰德 Epictetus (Margaret Graver)",
+      "path": "s/stoicism.md",
+      "text": "斯多葛主义 Stoicism (Marion Durand、Simon Shogry、Dirk Baltzly)",
       "indent": 0,
       "order": 71
-    },
-    {
-      "kind": "link",
-      "path": "m/marcus-aurelius.md",
-      "text": "马可·奥勒留 Marcus Aurelius (Rachana Kamtekar)",
-      "indent": 0,
-      "order": 72
     },
     {
       "kind": "link",
       "path": "s/seneca.md",
       "text": "塞涅卡 Seneca (Katja Vogt)",
       "indent": 0,
+      "order": 72
+    },
+    {
+      "kind": "link",
+      "path": "e/epictetus.md",
+      "text": "爱比克泰德 Epictetus (Margaret Graver)",
+      "indent": 0,
       "order": 73
     },
     {
       "kind": "link",
-      "path": "s/stoicism.md",
-      "text": "斯多葛主义 Stoicism (Marion Durand、Simon Shogry、Dirk Baltzly)",
+      "path": "m/marcus-aurelius.md",
+      "text": "马可·奥勒留 Marcus Aurelius (Rachana Kamtekar)",
       "indent": 0,
       "order": 74
-    },
-    {
-      "kind": "link",
-      "path": "a/antiochus-ascalon.md",
-      "text": "阿斯卡隆的安提库斯 Antiochus of Ascalon (James Allen)",
-      "indent": 0,
-      "order": 75
     },
     {
       "kind": "link",
       "path": "a/arcesilaus.md",
       "text": "阿尔凯西劳 Arcesilaus (Charles Brittain、Peter Osorio)",
       "indent": 0,
-      "order": 76
+      "order": 75
     },
     {
       "kind": "link",
       "path": "c/carneades.md",
       "text": "卡涅阿德斯 Carneades (James Allen)",
       "indent": 0,
-      "order": 77
+      "order": 76
     },
     {
       "kind": "link",
       "path": "p/philo-larissa.md",
       "text": "拉里萨的斐洛 Philo of Larissa (Charles Brittain、Peter Osorio)",
+      "indent": 0,
+      "order": 77
+    },
+    {
+      "kind": "link",
+      "path": "a/antiochus-ascalon.md",
+      "text": "阿斯卡隆的安提库斯 Antiochus of Ascalon (James Allen)",
       "indent": 0,
       "order": 78
     },
@@ -563,106 +563,106 @@
     },
     {
       "kind": "link",
-      "path": "s/sextus-empiricus.md",
-      "text": "塞克斯都·恩披里克 Sextus Empiricus (Benjamin Morison)",
+      "path": "t/timon-phlius.md",
+      "text": "斐利亚修斯的第蒙 Timon of Phlius (Richard Bett)",
       "indent": 0,
       "order": 80
     },
     {
       "kind": "link",
-      "path": "t/timon-phlius.md",
-      "text": "斐利亚修斯的第蒙 Timon of Phlius (Richard Bett)",
+      "path": "s/sextus-empiricus.md",
+      "text": "塞克斯都·恩披里克 Sextus Empiricus (Benjamin Morison)",
       "indent": 0,
       "order": 81
-    },
-    {
-      "kind": "link",
-      "path": "d/david.md",
-      "text": "大卫 David (Christian Wildberg)",
-      "indent": 0,
-      "order": 82
-    },
-    {
-      "kind": "link",
-      "path": "e/elias.md",
-      "text": "埃利亚斯 Elias (Christian Wildberg)",
-      "indent": 0,
-      "order": 83
-    },
-    {
-      "kind": "link",
-      "path": "i/iamblichus.md",
-      "text": "杨布里科斯 Iamblichus (Riccardo Chiaradonna、Adrien Lecerf)",
-      "indent": 0,
-      "order": 84
     },
     {
       "kind": "link",
       "path": "n/neoplatonism.md",
       "text": "新柏拉图主义 Neoplatonism (Christian Wildberg)",
       "indent": 0,
-      "order": 85
+      "order": 82
     },
     {
       "kind": "link",
       "path": "n/numenius.md",
       "text": "阿帕梅亚的努梅尼乌斯 Numenius (George Karamanolis)",
       "indent": 0,
-      "order": 86
-    },
-    {
-      "kind": "link",
-      "path": "o/olympiodorus.md",
-      "text": "奥林匹奥多罗斯 Olympiodorus (Christian Wildberg)",
-      "indent": 0,
-      "order": 87
-    },
-    {
-      "kind": "link",
-      "path": "p/plotinus.md",
-      "text": "普罗提诺 Plotinus (Paul Kalligas)",
-      "indent": 0,
-      "order": 88
+      "order": 83
     },
     {
       "kind": "link",
       "path": "p/plutarch.md",
       "text": "普鲁塔克 Plutarch (George Karamanolis)",
       "indent": 0,
-      "order": 89
+      "order": 84
+    },
+    {
+      "kind": "link",
+      "path": "p/plotinus.md",
+      "text": "普罗提诺 Plotinus (Paul Kalligas)",
+      "indent": 0,
+      "order": 85
     },
     {
       "kind": "link",
       "path": "p/porphyry.md",
       "text": "波菲利 Porphyry (Eyjólfur Emilsson)",
       "indent": 0,
-      "order": 90
+      "order": 86
+    },
+    {
+      "kind": "link",
+      "path": "i/iamblichus.md",
+      "text": "杨布里科斯 Iamblichus (Riccardo Chiaradonna、Adrien Lecerf)",
+      "indent": 0,
+      "order": 87
+    },
+    {
+      "kind": "link",
+      "path": "s/syrianus.md",
+      "text": "西里阿努斯 Syrianus (Roberto Granieri、Christian Wildberg)",
+      "indent": 0,
+      "order": 88
     },
     {
       "kind": "link",
       "path": "p/proclus.md",
       "text": "普罗克洛斯 Proclus (Christoph Helmig、Carlos Steel)",
       "indent": 0,
-      "order": 91
+      "order": 89
     },
     {
       "kind": "link",
       "path": "a/ammonius.md",
       "text": "赫尔米亚的阿莫尼俄斯 Ammonius (David Blank)",
       "indent": 2,
-      "order": 92
+      "order": 90
     },
     {
       "kind": "link",
       "path": "s/simplicius.md",
       "text": "辛普利修斯 Simplicius (Christoph Helmig)",
       "indent": 0,
+      "order": 91
+    },
+    {
+      "kind": "link",
+      "path": "o/olympiodorus.md",
+      "text": "奥林匹奥多罗斯 Olympiodorus (Christian Wildberg)",
+      "indent": 0,
+      "order": 92
+    },
+    {
+      "kind": "link",
+      "path": "e/elias.md",
+      "text": "埃利亚斯 Elias (Christian Wildberg)",
+      "indent": 0,
       "order": 93
     },
     {
       "kind": "link",
-      "path": "s/syrianus.md",
-      "text": "西里阿努斯 Syrianus (Roberto Granieri、Christian Wildberg)",
+      "path": "d/david.md",
+      "text": "大卫 David (Christian Wildberg)",
       "indent": 0,
       "order": 94
     },
@@ -696,57 +696,57 @@
     },
     {
       "kind": "link",
-      "path": "l/logic-ancient.md",
-      "text": "古代逻辑学 Ancient Logic (Susanne Bobzien)",
+      "path": "a/ancient-political.md",
+      "text": "古代政治哲学 Ancient Political Philosophy (Melissa Lane)",
       "indent": 0,
       "order": 99
     },
     {
       "kind": "link",
-      "path": "a/ancient-political.md",
-      "text": "古代政治哲学 Ancient Political Philosophy (Melissa Lane)",
+      "path": "l/logic-ancient.md",
+      "text": "古代逻辑学 Ancient Logic (Susanne Bobzien)",
       "indent": 0,
       "order": 100
-    },
-    {
-      "kind": "link",
-      "path": "s/skepticism-ancient.md",
-      "text": "古代怀疑论 Ancient Skepticism (Katja Vogt)",
-      "indent": 0,
-      "order": 101
-    },
-    {
-      "kind": "link",
-      "path": "f/freedom-ancient.md",
-      "text": "古代自由与决定论理论 Ancient Theories of Freedom and Determinism (Tim O’Keefe)",
-      "indent": 0,
-      "order": 102
-    },
-    {
-      "kind": "link",
-      "path": "a/ancient-soul.md",
-      "text": "古代灵魂理论 Ancient Theories of Soul (Hendrik Lorenz)",
-      "indent": 0,
-      "order": 103
-    },
-    {
-      "kind": "link",
-      "path": "d/doxography-ancient.md",
-      "text": "古代哲学学述 Doxography of Ancient Philosophy (Jaap Mansfeld、David Runia)",
-      "indent": 0,
-      "order": 104
     },
     {
       "kind": "link",
       "path": "e/episteme-techne.md",
       "text": "科学与技术 Episteme and Techne (Richard Parry)",
       "indent": 0,
-      "order": 105
+      "order": 101
+    },
+    {
+      "kind": "link",
+      "path": "a/ancient-soul.md",
+      "text": "古代灵魂理论 Ancient Theories of Soul (Hendrik Lorenz)",
+      "indent": 0,
+      "order": 102
+    },
+    {
+      "kind": "link",
+      "path": "f/freedom-ancient.md",
+      "text": "古代自由与决定论理论 Ancient Theories of Freedom and Determinism (Tim O’Keefe)",
+      "indent": 0,
+      "order": 103
     },
     {
       "kind": "link",
       "path": "i/intentionality-ancient.md",
       "text": "古代哲学的意向性 Intentionality in Ancient Philosophy (Victor Caston)",
+      "indent": 0,
+      "order": 104
+    },
+    {
+      "kind": "link",
+      "path": "s/skepticism-ancient.md",
+      "text": "古代怀疑论 Ancient Skepticism (Katja Vogt)",
+      "indent": 0,
+      "order": 105
+    },
+    {
+      "kind": "link",
+      "path": "d/doxography-ancient.md",
+      "text": "古代哲学学述 Doxography of Ancient Philosophy (Jaap Mansfeld、David Runia)",
       "indent": 0,
       "order": 106
     },
@@ -801,29 +801,29 @@
     },
     {
       "kind": "link",
-      "path": "a/alberic-paris.md",
-      "text": "巴黎的阿尔贝里克 Alberic of Paris (Heine Hansen、Boaz Faraday Schuman)",
-      "indent": 0,
-      "order": 114
-    },
-    {
-      "kind": "link",
       "path": "a/abelard.md",
       "text": "彼得·阿伯拉尔 Peter Abelard (Peter King、Andrew Arlig)",
       "indent": 0,
-      "order": 115
+      "order": 114
     },
     {
       "kind": "link",
       "path": "u/universals-medieval.md",
       "text": "中世纪的“普遍性”问题 The Medieval Problem of Universals (Gyula Klima)",
       "indent": 0,
-      "order": 116
+      "order": 115
     },
     {
       "kind": "link",
       "path": "w/william-champeaux.md",
       "text": "尚波的威廉 William of Champeaux (Kevin Guilfoy)",
+      "indent": 0,
+      "order": 116
+    },
+    {
+      "kind": "link",
+      "path": "a/alberic-paris.md",
+      "text": "巴黎的阿尔贝里克 Alberic of Paris (Heine Hansen、Boaz Faraday Schuman)",
       "indent": 0,
       "order": 117
     },
@@ -878,23 +878,23 @@
     },
     {
       "kind": "link",
-      "path": "g/giles.md",
-      "text": "罗马的吉尔斯 Giles of Rome (Roberto Lambertini)",
-      "indent": 0,
-      "order": 125
-    },
-    {
-      "kind": "link",
       "path": "a/aquinas.md",
       "text": "托马斯·阿奎那 Thomas Aquinas (Robert Pasnau)",
       "indent": 0,
-      "order": 126
+      "order": 125
     },
     {
       "kind": "link",
       "path": "a/aquinas-moral-political.md",
       "text": "托马斯·阿奎那的伦理学、政治哲学和法哲学 Aquinas’ Moral, Political, and Legal Philosophy (John Finnis)",
       "indent": 2,
+      "order": 126
+    },
+    {
+      "kind": "link",
+      "path": "g/giles.md",
+      "text": "罗马的吉尔斯 Giles of Rome (Roberto Lambertini)",
+      "indent": 0,
       "order": 127
     },
     {
@@ -927,15 +927,15 @@
     },
     {
       "kind": "link",
-      "path": "j/james-viterbo.md",
-      "text": "维泰博的詹姆斯 James of Viterbo (Antoine Côté)",
+      "path": "w/william-auvergne.md",
+      "text": "奥弗涅的威廉 William of Auvergne (Neil Lewis、Katrin Fischer)",
       "indent": 0,
       "order": 132
     },
     {
       "kind": "link",
-      "path": "w/william-auvergne.md",
-      "text": "奥弗涅的威廉 William of Auvergne (Neil Lewis、Katrin Fischer)",
+      "path": "j/james-viterbo.md",
+      "text": "维泰博的詹姆斯 James of Viterbo (Antoine Côté)",
       "indent": 0,
       "order": 133
     },
@@ -955,64 +955,64 @@
     },
     {
       "kind": "link",
-      "path": "p/philip-chancellor.md",
-      "text": "总务长菲利普 Philip the Chancellor (Colleen McCluskey、Anthony Celano)",
-      "indent": 0,
-      "order": 136
-    },
-    {
-      "kind": "link",
       "path": "r/radulphus-brito.md",
       "text": "拉杜尔弗斯·布里托 Radulphus Brito (Ana María Mora-Márquez、Iacopo Costa)",
       "indent": 0,
-      "order": 137
-    },
-    {
-      "kind": "link",
-      "path": "l/llull.md",
-      "text": "拉蒙·柳利 Ramon Llull (Ernesto Priani)",
-      "indent": 0,
-      "order": 138
+      "order": 136
     },
     {
       "kind": "link",
       "path": "a/alyngton.md",
       "text": "罗伯特·阿林顿 Robert Alyngton (Alessandro Conti)",
       "indent": 0,
-      "order": 139
-    },
-    {
-      "kind": "link",
-      "path": "g/grosseteste.md",
-      "text": "罗伯特·格罗斯泰斯特 Robert Grosseteste (Neil Lewis、Nicola Polloni)",
-      "indent": 0,
-      "order": 140
-    },
-    {
-      "kind": "link",
-      "path": "s/simon-faversham.md",
-      "text": "法弗舍姆的西蒙 Simon of Faversham (Ana María Mora-Márquez)",
-      "indent": 0,
-      "order": 141
-    },
-    {
-      "kind": "link",
-      "path": "e/erfurt.md",
-      "text": "埃尔福特的托马斯 Thomas of Erfurt (Jack Zupko)",
-      "indent": 0,
-      "order": 142
+      "order": 137
     },
     {
       "kind": "link",
       "path": "b/burley.md",
       "text": "沃尔特·伯利 Walter Burley (Alessandro Conti)",
       "indent": 0,
-      "order": 143
+      "order": 138
     },
     {
       "kind": "link",
       "path": "p/penbygull.md",
       "text": "威廉·彭比尔 William Penbygull (Alessandro Conti)",
+      "indent": 0,
+      "order": 139
+    },
+    {
+      "kind": "link",
+      "path": "s/simon-faversham.md",
+      "text": "法弗舍姆的西蒙 Simon of Faversham (Ana María Mora-Márquez)",
+      "indent": 0,
+      "order": 140
+    },
+    {
+      "kind": "link",
+      "path": "e/erfurt.md",
+      "text": "埃尔福特的托马斯 Thomas of Erfurt (Jack Zupko)",
+      "indent": 0,
+      "order": 141
+    },
+    {
+      "kind": "link",
+      "path": "g/grosseteste.md",
+      "text": "罗伯特·格罗斯泰斯特 Robert Grosseteste (Neil Lewis、Nicola Polloni)",
+      "indent": 0,
+      "order": 142
+    },
+    {
+      "kind": "link",
+      "path": "l/llull.md",
+      "text": "拉蒙·柳利 Ramon Llull (Ernesto Priani)",
+      "indent": 0,
+      "order": 143
+    },
+    {
+      "kind": "link",
+      "path": "p/philip-chancellor.md",
+      "text": "总务长菲利普 Philip the Chancellor (Colleen McCluskey、Anthony Celano)",
       "indent": 0,
       "order": 144
     },
@@ -1060,43 +1060,43 @@
     },
     {
       "kind": "link",
-      "path": "w/wodeham.md",
-      "text": "亚当·德·沃德汉姆 Adam de Wodeham (John T. Slotemaker、Jeffrey C. Witt)",
+      "path": "o/ockham.md",
+      "text": "奥卡姆的威廉 William of Ockham (Paul Vincent Spade、Claude Panaccio、Jenny Pelletier)",
       "indent": 0,
       "order": 151
     },
     {
       "kind": "link",
-      "path": "f/francis-marchia.md",
-      "text": "马尔基亚的弗朗西斯 Francis of Marchia (Christopher Schabel)",
+      "path": "w/wodeham.md",
+      "text": "亚当·德·沃德汉姆 Adam de Wodeham (John T. Slotemaker、Jeffrey C. Witt)",
       "indent": 0,
       "order": 152
+    },
+    {
+      "kind": "link",
+      "path": "h/holkot.md",
+      "text": "罗伯特·霍尔科特 Robert Holkot (Hester Gelber、John T. Slotemaker)",
+      "indent": 0,
+      "order": 153
+    },
+    {
+      "kind": "link",
+      "path": "c/crathorn.md",
+      "text": "威廉·克雷索恩 William Crathorn (Aurélien Robert)",
+      "indent": 0,
+      "order": 154
     },
     {
       "kind": "link",
       "path": "g/gregory-rimini.md",
       "text": "里米尼的格里高利 Gregory of Rimini (Christopher Schabel、Charles Girard)",
       "indent": 0,
-      "order": 153
-    },
-    {
-      "kind": "link",
-      "path": "a/autrecourt.md",
-      "text": "奥特古的尼克拉 Nicholas of Autrecourt (Hans Thijssen)",
-      "indent": 0,
-      "order": 154
+      "order": 155
     },
     {
       "kind": "link",
       "path": "a/auriol.md",
       "text": "彼得·奥雷奥利 Peter Auriol (Russell L. Friedman、Giacomo Fornasieri)",
-      "indent": 0,
-      "order": 155
-    },
-    {
-      "kind": "link",
-      "path": "h/holkot.md",
-      "text": "罗伯特·霍尔科特 Robert Holkot (Hester Gelber、John T. Slotemaker)",
       "indent": 0,
       "order": 156
     },
@@ -1109,29 +1109,29 @@
     },
     {
       "kind": "link",
-      "path": "c/crathorn.md",
-      "text": "威廉·克雷索恩 William Crathorn (Aurélien Robert)",
+      "path": "a/autrecourt.md",
+      "text": "奥特古的尼克拉 Nicholas of Autrecourt (Hans Thijssen)",
       "indent": 0,
       "order": 158
     },
     {
       "kind": "link",
-      "path": "o/ockham.md",
-      "text": "奥卡姆的威廉 William of Ockham (Paul Vincent Spade、Claude Panaccio、Jenny Pelletier)",
+      "path": "f/francis-marchia.md",
+      "text": "马尔基亚的弗朗西斯 Francis of Marchia (Christopher Schabel)",
       "indent": 0,
       "order": 159
     },
     {
       "kind": "link",
-      "path": "a/albert-saxony.md",
-      "text": "萨克森的阿尔伯特 Albert of Saxony (Joél Biard)",
+      "path": "b/buridan.md",
+      "text": "让·布里丹 John Buridan (Jack Zupko)",
       "indent": 0,
       "order": 160
     },
     {
       "kind": "link",
-      "path": "b/buridan.md",
-      "text": "让·布里丹 John Buridan (Jack Zupko)",
+      "path": "a/albert-saxony.md",
+      "text": "萨克森的阿尔伯特 Albert of Saxony (Joél Biard)",
       "indent": 0,
       "order": 161
     },
@@ -1144,8 +1144,8 @@
     },
     {
       "kind": "link",
-      "path": "n/nicole-oresme.md",
-      "text": "尼科尔·奥雷斯姆 Nicole Oresme (Stefan Kirschner)",
+      "path": "h/heytesbury.md",
+      "text": "威廉·海特斯伯里 William Heytesbury (Miroslav Hanke、Elzbieta Jung)",
       "indent": 0,
       "order": 163
     },
@@ -1158,8 +1158,8 @@
     },
     {
       "kind": "link",
-      "path": "h/heytesbury.md",
-      "text": "威廉·海特斯伯里 William Heytesbury (Miroslav Hanke、Elzbieta Jung)",
+      "path": "n/nicole-oresme.md",
+      "text": "尼科尔·奥雷斯姆 Nicole Oresme (Stefan Kirschner)",
       "indent": 0,
       "order": 165
     },
@@ -1179,15 +1179,15 @@
     },
     {
       "kind": "link",
-      "path": "d/dietrich-freiberg.md",
-      "text": "迪特里希·冯·弗赖贝格 Dietrich of Freiberg (Sylvain Roudaut、Véronique Decaix、Markus Führer)",
+      "path": "m/meister-eckhart.md",
+      "text": "埃克哈特大师 Meister Eckhart (Amber L. Griffioen)",
       "indent": 0,
       "order": 168
     },
     {
       "kind": "link",
-      "path": "m/meister-eckhart.md",
-      "text": "埃克哈特大师 Meister Eckhart (Amber L. Griffioen)",
+      "path": "d/dietrich-freiberg.md",
+      "text": "迪特里希·冯·弗赖贝格 Dietrich of Freiberg (Sylvain Roudaut、Véronique Decaix、Markus Führer)",
       "indent": 0,
       "order": 169
     },
@@ -1200,8 +1200,8 @@
     },
     {
       "kind": "link",
-      "path": "j/joane-petrizi.md",
-      "text": "乔安·佩特里齐 Joane Petrizi (Tengiz Iremadze)",
+      "path": "p/philoponus.md",
+      "text": "约翰·菲洛波诺斯 John Philoponus (Christian Wildberg、Tommaso De Robertis)",
       "indent": 0,
       "order": 171
     },
@@ -1214,204 +1214,204 @@
     },
     {
       "kind": "link",
-      "path": "p/philoponus.md",
-      "text": "约翰·菲洛波诺斯 John Philoponus (Christian Wildberg、Tommaso De Robertis)",
+      "path": "j/joane-petrizi.md",
+      "text": "乔安·佩特里齐 Joane Petrizi (Tengiz Iremadze)",
       "indent": 0,
       "order": 173
-    },
-    {
-      "kind": "link",
-      "path": "b/binarium.md",
-      "text": "最著名的一对 Binarium Famosissimum (Paul Vincent Spade)",
-      "indent": 0,
-      "order": 174
-    },
-    {
-      "kind": "link",
-      "path": "d/dante.md",
-      "text": "但丁·阿利吉耶里 Dante Alighieri (Jason Aleksander、Winthrop Wetherbee)",
-      "indent": 0,
-      "order": 175
-    },
-    {
-      "kind": "link",
-      "path": "i/illumination.md",
-      "text": "神圣光照论 Divine Illumination (Robert Pasnau)",
-      "indent": 0,
-      "order": 176
-    },
-    {
-      "kind": "link",
-      "path": "i/insolubles.md",
-      "text": "不可解命题 Insolubles (Stephen Read、Paul Vincent Spade)",
-      "indent": 0,
-      "order": 177
-    },
-    {
-      "kind": "link",
-      "path": "m/medieval-literary.md",
-      "text": "中世纪哲学的文学形式 Literary Forms of Medieval Philosophy (Eileen Sweeney)",
-      "indent": 0,
-      "order": 178
-    },
-    {
-      "kind": "link",
-      "path": "m/marsilius-padua.md",
-      "text": "帕多瓦的马西利乌斯 Marsilius of Padua (Alessandro Mulieri)",
-      "indent": 0,
-      "order": 179
     },
     {
       "kind": "link",
       "path": "m/medieval-philosophy.md",
       "text": "中世纪哲学 Medieval Philosophy (John Marenbon)",
       "indent": 0,
-      "order": 180
+      "order": 174
     },
     {
       "kind": "link",
-      "path": "m/medieval-political.md",
-      "text": "中世纪政治哲学 Medieval Political Philosophy (Cary Nederman、Alessandro Mulieri)",
+      "path": "m/medieval-literary.md",
+      "text": "中世纪哲学的文学形式 Literary Forms of Medieval Philosophy (Eileen Sweeney)",
       "indent": 0,
-      "order": 181
+      "order": 175
     },
     {
       "kind": "link",
-      "path": "s/semiotics-medieval.md",
-      "text": "中世纪符号学 Medieval Semiotics (Stephan Meier-Oeser)",
+      "path": "i/insolubles.md",
+      "text": "不可解命题 Insolubles (Stephen Read、Paul Vincent Spade)",
       "indent": 0,
-      "order": 182
-    },
-    {
-      "kind": "link",
-      "path": "s/skepticism-medieval.md",
-      "text": "中世纪怀疑论 Medieval Skepticism (Charles Bolyard)",
-      "indent": 0,
-      "order": 183
-    },
-    {
-      "kind": "link",
-      "path": "a/analogy-medieval.md",
-      "text": "中世纪的类比理论 Medieval Theories of Analogy (E. Jennifer Ashworth、Domenic D’Ettore)",
-      "indent": 0,
-      "order": 184
-    },
-    {
-      "kind": "link",
-      "path": "c/causation-medieval.md",
-      "text": "中世纪的因果理论 Medieval Theories of Causation (Graham White)",
-      "indent": 0,
-      "order": 185
-    },
-    {
-      "kind": "link",
-      "path": "c/conscience-medieval.md",
-      "text": "中世纪的良心理论 Medieval Theories of Conscience (Peter Eardley)",
-      "indent": 0,
-      "order": 186
-    },
-    {
-      "kind": "link",
-      "path": "c/consequence-medieval.md",
-      "text": "中世纪结果理论 Medieval Theories of Consequence (Catarina Dutilh Novaes、Milo Crimi)",
-      "indent": 0,
-      "order": 187
-    },
-    {
-      "kind": "link",
-      "path": "d/demonstration-medieval.md",
-      "text": "中世纪的证明理论 Medieval Theories of Demonstration (John Longeway)",
-      "indent": 0,
-      "order": 188
-    },
-    {
-      "kind": "link",
-      "path": "m/medieval-futcont.md",
-      "text": "中世纪的未来偶然性理论 Medieval Theories of Future Contingents (Gloria Frost、Simo Knuuttila)",
-      "indent": 0,
-      "order": 189
+      "order": 176
     },
     {
       "kind": "link",
       "path": "o/obligationes.md",
       "text": "中世纪的义务理论 Medieval Theories of Obligationes (Mikko Yrjönsuuri)",
       "indent": 0,
-      "order": 190
+      "order": 177
     },
     {
       "kind": "link",
-      "path": "p/practical-reason-med.md",
-      "text": "中世纪的实践理性 Medieval Theories of Practical Reason (Anthony Celano)",
+      "path": "s/sophismata.md",
+      "text": "诡辩 Sophismata (Fabienne Pironet、Joke Spruyt)",
       "indent": 0,
-      "order": 191
+      "order": 178
     },
     {
       "kind": "link",
-      "path": "r/relations-medieval.md",
-      "text": "中世纪关系理论 Medieval Theories of Relations (Jeffrey Brower)",
+      "path": "b/binarium.md",
+      "text": "最著名的一对 Binarium Famosissimum (Paul Vincent Spade)",
       "indent": 0,
-      "order": 192
+      "order": 179
     },
     {
       "kind": "link",
-      "path": "s/singular-terms-medieval.md",
-      "text": "中世纪的单称词项理论 Medieval Theories of Singular Terms (Julie Brumberg-Chaumont、E. Jennifer Ashworth)",
+      "path": "c/consequence-medieval.md",
+      "text": "中世纪结果理论 Medieval Theories of Consequence (Catarina Dutilh Novaes、Milo Crimi)",
       "indent": 0,
-      "order": 193
-    },
-    {
-      "kind": "link",
-      "path": "m/medieval-categories.md",
-      "text": "中世纪的范畴理论 Medieval Theories of the Categories (Jorge Gracia、Lloyd Newton)",
-      "indent": 0,
-      "order": 194
-    },
-    {
-      "kind": "link",
-      "path": "m/medieval-emotions.md",
-      "text": "中世纪情感理论 Medieval Theories of the Emotions (Simo Knuuttila)",
-      "indent": 0,
-      "order": 195
+      "order": 180
     },
     {
       "kind": "link",
       "path": "m/medieval-syllogism.md",
       "text": "中世纪的三段论理论 Medieval Theories of the Syllogism (Henrik Lagerlund)",
       "indent": 0,
-      "order": 196
-    },
-    {
-      "kind": "link",
-      "path": "t/transcendentals-medieval.md",
-      "text": "中世纪的超越理论 Medieval Theories of Transcendentals (Wouter Goris、Jan Aertsen)",
-      "indent": 0,
-      "order": 197
+      "order": 181
     },
     {
       "kind": "link",
       "path": "m/medieval-terms.md",
       "text": "中世纪词项属性理论 Medieval Theories: Properties of Terms (Stephen Read)",
       "indent": 0,
-      "order": 198
+      "order": 182
+    },
+    {
+      "kind": "link",
+      "path": "s/singular-terms-medieval.md",
+      "text": "中世纪的单称词项理论 Medieval Theories of Singular Terms (Julie Brumberg-Chaumont、E. Jennifer Ashworth)",
+      "indent": 0,
+      "order": 183
+    },
+    {
+      "kind": "link",
+      "path": "d/demonstration-medieval.md",
+      "text": "中世纪的证明理论 Medieval Theories of Demonstration (John Longeway)",
+      "indent": 0,
+      "order": 184
+    },
+    {
+      "kind": "link",
+      "path": "a/analogy-medieval.md",
+      "text": "中世纪的类比理论 Medieval Theories of Analogy (E. Jennifer Ashworth、Domenic D’Ettore)",
+      "indent": 0,
+      "order": 185
+    },
+    {
+      "kind": "link",
+      "path": "m/medieval-categories.md",
+      "text": "中世纪的范畴理论 Medieval Theories of the Categories (Jorge Gracia、Lloyd Newton)",
+      "indent": 0,
+      "order": 186
+    },
+    {
+      "kind": "link",
+      "path": "r/relations-medieval.md",
+      "text": "中世纪关系理论 Medieval Theories of Relations (Jeffrey Brower)",
+      "indent": 0,
+      "order": 187
+    },
+    {
+      "kind": "link",
+      "path": "t/transcendentals-medieval.md",
+      "text": "中世纪的超越理论 Medieval Theories of Transcendentals (Wouter Goris、Jan Aertsen)",
+      "indent": 0,
+      "order": 188
+    },
+    {
+      "kind": "link",
+      "path": "c/causation-medieval.md",
+      "text": "中世纪的因果理论 Medieval Theories of Causation (Graham White)",
+      "indent": 0,
+      "order": 189
+    },
+    {
+      "kind": "link",
+      "path": "m/medieval-futcont.md",
+      "text": "中世纪的未来偶然性理论 Medieval Theories of Future Contingents (Gloria Frost、Simo Knuuttila)",
+      "indent": 0,
+      "order": 190
+    },
+    {
+      "kind": "link",
+      "path": "c/conscience-medieval.md",
+      "text": "中世纪的良心理论 Medieval Theories of Conscience (Peter Eardley)",
+      "indent": 0,
+      "order": 191
+    },
+    {
+      "kind": "link",
+      "path": "m/medieval-emotions.md",
+      "text": "中世纪情感理论 Medieval Theories of the Emotions (Simo Knuuttila)",
+      "indent": 0,
+      "order": 192
+    },
+    {
+      "kind": "link",
+      "path": "p/practical-reason-med.md",
+      "text": "中世纪的实践理性 Medieval Theories of Practical Reason (Anthony Celano)",
+      "indent": 0,
+      "order": 193
+    },
+    {
+      "kind": "link",
+      "path": "s/skepticism-medieval.md",
+      "text": "中世纪怀疑论 Medieval Skepticism (Charles Bolyard)",
+      "indent": 0,
+      "order": 194
     },
     {
       "kind": "link",
       "path": "r/representation-medieval.md",
       "text": "中世纪哲学中的心理表征 Mental Representation in Medieval Philosophy (Henrik Lagerlund)",
       "indent": 0,
-      "order": 199
+      "order": 195
+    },
+    {
+      "kind": "link",
+      "path": "i/illumination.md",
+      "text": "神圣光照论 Divine Illumination (Robert Pasnau)",
+      "indent": 0,
+      "order": 196
     },
     {
       "kind": "link",
       "path": "p/probability-medieval-renaissance.md",
       "text": "中世纪和文艺复兴时期哲学中的概率 Probability in Medieval and Renaissance Philosophy (Rudolf Schuessler)",
       "indent": 0,
+      "order": 197
+    },
+    {
+      "kind": "link",
+      "path": "m/marsilius-padua.md",
+      "text": "帕多瓦的马西利乌斯 Marsilius of Padua (Alessandro Mulieri)",
+      "indent": 0,
+      "order": 198
+    },
+    {
+      "kind": "link",
+      "path": "m/medieval-political.md",
+      "text": "中世纪政治哲学 Medieval Political Philosophy (Cary Nederman、Alessandro Mulieri)",
+      "indent": 0,
+      "order": 199
+    },
+    {
+      "kind": "link",
+      "path": "d/dante.md",
+      "text": "但丁·阿利吉耶里 Dante Alighieri (Jason Aleksander、Winthrop Wetherbee)",
+      "indent": 0,
       "order": 200
     },
     {
       "kind": "link",
-      "path": "s/sophismata.md",
-      "text": "诡辩 Sophismata (Fabienne Pironet、Joke Spruyt)",
+      "path": "s/semiotics-medieval.md",
+      "text": "中世纪符号学 Medieval Semiotics (Stephan Meier-Oeser)",
       "indent": 0,
       "order": 201
     },
@@ -1424,169 +1424,169 @@
     },
     {
       "kind": "link",
-      "path": "l/lefevre-etaples.md",
-      "text": "雅克·勒菲弗·戴塔普勒 Jacques Lefèvre d’Étaples (Richard J. Oosterhoff)",
+      "path": "l/lorenzo-valla.md",
+      "text": "劳伦佐·瓦拉 Lorenzo Valla (Lodi Nauta)",
       "indent": 0,
       "order": 203
-    },
-    {
-      "kind": "link",
-      "path": "b/bodin.md",
-      "text": "让·博丹 Jean Bodin (Mario Turchetti)",
-      "indent": 0,
-      "order": 204
     },
     {
       "kind": "link",
       "path": "v/vives.md",
       "text": "胡安·路易斯·维夫斯 Juan Luis Vives \\[Joannes Ludovicus Vives\\] (Lorenzo Casini)",
       "indent": 0,
+      "order": 204
+    },
+    {
+      "kind": "link",
+      "path": "l/lefevre-etaples.md",
+      "text": "雅克·勒菲弗·戴塔普勒 Jacques Lefèvre d’Étaples (Richard J. Oosterhoff)",
+      "indent": 0,
       "order": 205
-    },
-    {
-      "kind": "link",
-      "path": "j/justus-lipsius.md",
-      "text": "尤斯图斯·利普修斯 Justus Lipsius (Jan Papy)",
-      "indent": 0,
-      "order": 206
-    },
-    {
-      "kind": "link",
-      "path": "l/lorenzo-valla.md",
-      "text": "劳伦佐·瓦拉 Lorenzo Valla (Lodi Nauta)",
-      "indent": 0,
-      "order": 207
-    },
-    {
-      "kind": "link",
-      "path": "l/lucrezia-marinella.md",
-      "text": "卢克雷齐娅·马里内拉 Lucrezia Marinella (Marguerite Deslauriers)",
-      "indent": 0,
-      "order": 208
-    },
-    {
-      "kind": "link",
-      "path": "m/madeleine-scudery.md",
-      "text": "玛德莱娜·德·斯居代里 Madeleine de Scudéry (John Conley)",
-      "indent": 0,
-      "order": 209
-    },
-    {
-      "kind": "link",
-      "path": "m/montaigne.md",
-      "text": "米歇尔·德·蒙田 Michel de Montaigne (Marc Foglia、Emiliano Ferrari)",
-      "indent": 0,
-      "order": 210
-    },
-    {
-      "kind": "link",
-      "path": "m/machiavelli.md",
-      "text": "尼科洛·马基雅维利 Niccolò Machiavelli (Cary Nederman)",
-      "indent": 0,
-      "order": 211
     },
     {
       "kind": "link",
       "path": "r/ramus.md",
       "text": "彼得吕斯·拉米斯 Petrus Ramus (Erland Sellberg)",
       "indent": 0,
-      "order": 212
+      "order": 206
+    },
+    {
+      "kind": "link",
+      "path": "m/machiavelli.md",
+      "text": "尼科洛·马基雅维利 Niccolò Machiavelli (Cary Nederman)",
+      "indent": 0,
+      "order": 207
+    },
+    {
+      "kind": "link",
+      "path": "b/bodin.md",
+      "text": "让·博丹 Jean Bodin (Mario Turchetti)",
+      "indent": 0,
+      "order": 208
     },
     {
       "kind": "link",
       "path": "t/thomas-more.md",
       "text": "托马斯·莫尔 Thomas More (Gerard B. Wegemer)",
       "indent": 0,
+      "order": 209
+    },
+    {
+      "kind": "link",
+      "path": "j/justus-lipsius.md",
+      "text": "尤斯图斯·利普修斯 Justus Lipsius (Jan Papy)",
+      "indent": 0,
+      "order": 210
+    },
+    {
+      "kind": "link",
+      "path": "l/lucrezia-marinella.md",
+      "text": "卢克雷齐娅·马里内拉 Lucrezia Marinella (Marguerite Deslauriers)",
+      "indent": 0,
+      "order": 211
+    },
+    {
+      "kind": "link",
+      "path": "m/madeleine-scudery.md",
+      "text": "玛德莱娜·德·斯居代里 Madeleine de Scudéry (John Conley)",
+      "indent": 0,
+      "order": 212
+    },
+    {
+      "kind": "link",
+      "path": "m/montaigne.md",
+      "text": "米歇尔·德·蒙田 Michel de Montaigne (Marc Foglia、Emiliano Ferrari)",
+      "indent": 0,
       "order": 213
-    },
-    {
-      "kind": "link",
-      "path": "b/bessarion.md",
-      "text": "枢机主教贝萨里翁 Basil \\[Cardinal\\] Bessarion (Eva Del Soldato)",
-      "indent": 0,
-      "order": 214
-    },
-    {
-      "kind": "link",
-      "path": "c/cusanus.md",
-      "text": "库萨的尼古拉 Cusanus, Nicolaus \\[Nicolas of Cusa\\] (Clyde Lee Miller)",
-      "indent": 0,
-      "order": 215
-    },
-    {
-      "kind": "link",
-      "path": "p/patrizi.md",
-      "text": "弗朗切斯科·帕特里齐 Francesco Patrizi (Fred Purnell)",
-      "indent": 0,
-      "order": 216
-    },
-    {
-      "kind": "link",
-      "path": "g/gianfrancesco-pico.md",
-      "text": "乔瓦尼·弗朗切斯科·皮科·德拉·米兰多拉 Giovanni Francesco \\[Gianfrancesco\\] Pico della Mirandola (Francesco Molinarolo)",
-      "indent": 0,
-      "order": 217
-    },
-    {
-      "kind": "link",
-      "path": "p/pico-della-mirandola.md",
-      "text": "乔瓦尼·皮科·德拉·米兰多拉 Giovanni Pico della Mirandola (Brian Copenhaver)",
-      "indent": 0,
-      "order": 218
     },
     {
       "kind": "link",
       "path": "f/ficino.md",
       "text": "马尔西利奥·费奇诺 Marsilio Ficino (Christopher S. Celenza)",
       "indent": 0,
+      "order": 214
+    },
+    {
+      "kind": "link",
+      "path": "p/pico-della-mirandola.md",
+      "text": "乔瓦尼·皮科·德拉·米兰多拉 Giovanni Pico della Mirandola (Brian Copenhaver)",
+      "indent": 0,
+      "order": 215
+    },
+    {
+      "kind": "link",
+      "path": "g/gianfrancesco-pico.md",
+      "text": "乔瓦尼·弗朗切斯科·皮科·德拉·米兰多拉 Giovanni Francesco \\[Gianfrancesco\\] Pico della Mirandola (Francesco Molinarolo)",
+      "indent": 0,
+      "order": 216
+    },
+    {
+      "kind": "link",
+      "path": "c/cusanus.md",
+      "text": "库萨的尼古拉 Cusanus, Nicolaus \\[Nicolas of Cusa\\] (Clyde Lee Miller)",
+      "indent": 0,
+      "order": 217
+    },
+    {
+      "kind": "link",
+      "path": "p/patrizi.md",
+      "text": "弗朗切斯科·帕特里齐 Francesco Patrizi (Fred Purnell)",
+      "indent": 0,
+      "order": 218
+    },
+    {
+      "kind": "link",
+      "path": "b/bessarion.md",
+      "text": "枢机主教贝萨里翁 Basil \\[Cardinal\\] Bessarion (Eva Del Soldato)",
+      "indent": 0,
       "order": 219
-    },
-    {
-      "kind": "link",
-      "path": "a/aristotelianism-renaissance.md",
-      "text": "文艺复兴时期的亚里士多德主义 Aristotelianism in the Renaissance (David Lines)",
-      "indent": 0,
-      "order": 220
-    },
-    {
-      "kind": "link",
-      "path": "s/suarez.md",
-      "text": "弗朗西斯科·苏亚雷斯 Francisco Suárez (Christopher Shields、Daniel Schwartz)",
-      "indent": 0,
-      "order": 221
-    },
-    {
-      "kind": "link",
-      "path": "z/zabarella.md",
-      "text": "贾科莫·萨巴雷拉 Giacomo Zabarella (Heikki Mikkeli、Tawrin Baker)",
-      "indent": 0,
-      "order": 222
-    },
-    {
-      "kind": "link",
-      "path": "g/gomez-pereira.md",
-      "text": "戈麦斯·佩雷拉 Gómez Pereira (José Manuel García Valverde)",
-      "indent": 0,
-      "order": 223
-    },
-    {
-      "kind": "link",
-      "path": "t/taurellus.md",
-      "text": "尼古拉斯·塔雷路斯 Nicolaus Taurellus (Andreas Blank)",
-      "indent": 0,
-      "order": 224
     },
     {
       "kind": "link",
       "path": "p/pomponazzi.md",
       "text": "彼得罗·彭波那齐 Pietro Pomponazzi (Craig Martin)",
       "indent": 0,
-      "order": 225
+      "order": 220
+    },
+    {
+      "kind": "link",
+      "path": "z/zabarella.md",
+      "text": "贾科莫·萨巴雷拉 Giacomo Zabarella (Heikki Mikkeli、Tawrin Baker)",
+      "indent": 0,
+      "order": 221
+    },
+    {
+      "kind": "link",
+      "path": "t/taurellus.md",
+      "text": "尼古拉斯·塔雷路斯 Nicolaus Taurellus (Andreas Blank)",
+      "indent": 0,
+      "order": 222
+    },
+    {
+      "kind": "link",
+      "path": "s/suarez.md",
+      "text": "弗朗西斯科·苏亚雷斯 Francisco Suárez (Christopher Shields、Daniel Schwartz)",
+      "indent": 0,
+      "order": 223
     },
     {
       "kind": "link",
       "path": "s/school-salamanca.md",
       "text": "萨拉曼卡学派 School of Salamanca (Thomas Izbicki、Matthias Kaufmann)",
+      "indent": 0,
+      "order": 224
+    },
+    {
+      "kind": "link",
+      "path": "g/gomez-pereira.md",
+      "text": "戈麦斯·佩雷拉 Gómez Pereira (José Manuel García Valverde)",
+      "indent": 0,
+      "order": 225
+    },
+    {
+      "kind": "link",
+      "path": "a/aristotelianism-renaissance.md",
+      "text": "文艺复兴时期的亚里士多德主义 Aristotelianism in the Renaissance (David Lines)",
       "indent": 0,
       "order": 226
     },
@@ -1606,22 +1606,22 @@
     },
     {
       "kind": "link",
-      "path": "t/telesio.md",
-      "text": "贝尔纳迪诺·特莱西奥 Bernardino Telesio (Michaela Boenke)",
+      "path": "n/natphil-ren.md",
+      "text": "文艺复兴时期的自然哲学 Natural Philosophy in the Renaissance (Eva Del Soldato)",
       "indent": 0,
       "order": 229
     },
     {
       "kind": "link",
-      "path": "f/francisco-sanches.md",
-      "text": "弗朗西斯科·桑切斯 Francisco Sanches (Rolando Pérez)",
+      "path": "t/telesio.md",
+      "text": "贝尔纳迪诺·特莱西奥 Bernardino Telesio (Michaela Boenke)",
       "indent": 0,
       "order": 230
     },
     {
       "kind": "link",
-      "path": "g/galileo.md",
-      "text": "伽利略·伽利莱 Galileo Galilei (David Marshall Miller)",
+      "path": "c/cardano.md",
+      "text": "吉罗拉莫·卡尔达诺 Girolamo \\[Geronimo\\] Cardano (Guido Giglioni、Jonathan Regier)",
       "indent": 0,
       "order": 231
     },
@@ -1634,50 +1634,50 @@
     },
     {
       "kind": "link",
-      "path": "b/bruno.md",
-      "text": "乔尔丹诺·布鲁诺 Giordano Bruno (Dilwyn Knox)",
+      "path": "c/campanella.md",
+      "text": "托马斯·康帕内拉 Tommaso Campanella (Germana Ernst、Jean-Paul De Lucca)",
       "indent": 0,
       "order": 233
-    },
-    {
-      "kind": "link",
-      "path": "c/cardano.md",
-      "text": "吉罗拉莫·卡尔达诺 Girolamo \\[Geronimo\\] Cardano (Guido Giglioni、Jonathan Regier)",
-      "indent": 0,
-      "order": 234
-    },
-    {
-      "kind": "link",
-      "path": "a/agrippa-nettesheim.md",
-      "text": "海因里希·阿格里帕·冯·内特斯海姆 Heinrich Cornelius Agrippa von Nettesheim (Vittoria Perrone Compagni)",
-      "indent": 0,
-      "order": 235
-    },
-    {
-      "kind": "link",
-      "path": "k/kepler.md",
-      "text": "约翰内斯·开普勒 Johannes Kepler (Daniel A. Di Liscia)",
-      "indent": 0,
-      "order": 236
-    },
-    {
-      "kind": "link",
-      "path": "n/natphil-ren.md",
-      "text": "文艺复兴时期的自然哲学 Natural Philosophy in the Renaissance (Eva Del Soldato)",
-      "indent": 0,
-      "order": 237
     },
     {
       "kind": "link",
       "path": "c/copernicus.md",
       "text": "尼古拉·哥白尼 Nicolaus Copernicus (Sheila Rabin)",
       "indent": 0,
+      "order": 234
+    },
+    {
+      "kind": "link",
+      "path": "k/kepler.md",
+      "text": "约翰内斯·开普勒 Johannes Kepler (Daniel A. Di Liscia)",
+      "indent": 0,
+      "order": 235
+    },
+    {
+      "kind": "link",
+      "path": "g/galileo.md",
+      "text": "伽利略·伽利莱 Galileo Galilei (David Marshall Miller)",
+      "indent": 0,
+      "order": 236
+    },
+    {
+      "kind": "link",
+      "path": "b/bruno.md",
+      "text": "乔尔丹诺·布鲁诺 Giordano Bruno (Dilwyn Knox)",
+      "indent": 0,
+      "order": 237
+    },
+    {
+      "kind": "link",
+      "path": "a/agrippa-nettesheim.md",
+      "text": "海因里希·阿格里帕·冯·内特斯海姆 Heinrich Cornelius Agrippa von Nettesheim (Vittoria Perrone Compagni)",
+      "indent": 0,
       "order": 238
     },
     {
       "kind": "link",
-      "path": "c/campanella.md",
-      "text": "托马斯·康帕内拉 Tommaso Campanella (Germana Ernst、Jean-Paul De Lucca)",
+      "path": "f/francisco-sanches.md",
+      "text": "弗朗西斯科·桑切斯 Francisco Sanches (Rolando Pérez)",
       "indent": 0,
       "order": 239
     },
@@ -1690,303 +1690,303 @@
     },
     {
       "kind": "link",
-      "path": "a/arnauld.md",
-      "text": "安托万·阿尔诺 Antoine Arnauld (Elmar Kremer)",
-      "indent": 0,
-      "order": 241
-    },
-    {
-      "kind": "link",
-      "path": "l/legrand.md",
-      "text": "安托万·勒·格兰德 Antoine Le Grand (Patricia Easton)",
-      "indent": 0,
-      "order": 242
-    },
-    {
-      "kind": "link",
-      "path": "p/pascal.md",
-      "text": "布莱士·帕斯卡 Blaise Pascal (Desmond Clarke、William Wood)",
-      "indent": 0,
-      "order": 243
-    },
-    {
-      "kind": "link",
-      "path": "p/pascal-wager.md",
-      "text": "帕斯卡的赌注 Pascal’s Wager (Alan Hájek)",
-      "indent": 2,
-      "order": 244
-    },
-    {
-      "kind": "link",
-      "path": "e/elisabeth-bohemia.md",
-      "text": "普法尔茨的伊丽莎白公主 Elisabeth, Princess of Bohemia (Lisa Shapiro)",
-      "indent": 0,
-      "order": 245
-    },
-    {
-      "kind": "link",
-      "path": "f/francois-barre.md",
-      "text": "弗朗索瓦·普兰·德拉巴尔 François Poulain de la Barre (Martina Reuter)",
-      "indent": 0,
-      "order": 246
-    },
-    {
-      "kind": "link",
-      "path": "c/cordemoy.md",
-      "text": "热罗·德·科尔德穆瓦 Géraud de Cordemoy (Fred Ablondi)",
-      "indent": 0,
-      "order": 247
-    },
-    {
-      "kind": "link",
-      "path": "h/henricus-regius.md",
-      "text": "亨利·雷吉乌斯 Henricus Regius (Desmond Clarke、Erik-Jan Bos)",
-      "indent": 0,
-      "order": 248
-    },
-    {
-      "kind": "link",
-      "path": "j/johann-sturm.md",
-      "text": "约翰·克里斯托夫·施图尔姆 Johann Sturm (Andrea Sangiacomo、Christian Henkel)",
-      "indent": 0,
-      "order": 249
-    },
-    {
-      "kind": "link",
-      "path": "c/clauberg.md",
-      "text": "约翰内斯·克劳伯格 Johannes Clauberg (Nabeel Hamid)",
-      "indent": 0,
-      "order": 250
-    },
-    {
-      "kind": "link",
-      "path": "j/john-norris.md",
-      "text": "约翰·诺里斯 John Norris (June Yang)",
-      "indent": 0,
-      "order": 251
-    },
-    {
-      "kind": "link",
-      "path": "l/la-forge.md",
-      "text": "路易·德·拉弗尔热 Louis de La Forge (Andrea Sangiacomo、Desmond Clarke)",
-      "indent": 0,
-      "order": 252
-    },
-    {
-      "kind": "link",
-      "path": "m/mersenne.md",
-      "text": "马兰·梅森 Marin Mersenne (Philippe Hamou)",
-      "indent": 0,
-      "order": 253
-    },
-    {
-      "kind": "link",
-      "path": "a/astell.md",
-      "text": "玛丽·阿斯特尔 Mary Astell (Alice Sowaal)",
-      "indent": 0,
-      "order": 254
-    },
-    {
-      "kind": "link",
-      "path": "m/malebranche.md",
-      "text": "尼古拉·马勒伯朗士 Nicolas Malebranche (Tad Schmaltz)",
-      "indent": 0,
-      "order": 255
-    },
-    {
-      "kind": "link",
-      "path": "m/malebranche-ideas.md",
-      "text": "马勒伯朗士论上帝的观念和视觉 Malebranche’s Theory of Ideas and Vision in God (Lawrence Nolan)",
-      "indent": 2,
-      "order": 256
-    },
-    {
-      "kind": "link",
-      "path": "o/occasionalism.md",
-      "text": "偶因论 Occasionalism (Sukjae Lee)",
-      "indent": 0,
-      "order": 257
-    },
-    {
-      "kind": "link",
-      "path": "p/port-royal-logic.md",
-      "text": "《波尔·罗亚尔逻辑》（《逻辑或思维的艺术》） Port Royal Logic (Alan Nelson、Jill Buroker)",
-      "indent": 0,
-      "order": 258
-    },
-    {
-      "kind": "link",
-      "path": "q/qualities-prim-sec.md",
-      "text": "早期现代哲学中的第一性质和第二性质 Primary and Secondary Qualities in Early Modern Philosophy (Martha Bolton)",
-      "indent": 0,
-      "order": 259
-    },
-    {
-      "kind": "link",
       "path": "d/descartes.md",
       "text": "勒内·笛卡尔 René Descartes (Gary Hatfield)",
       "indent": 0,
-      "order": 260
+      "order": 241
     },
     {
       "kind": "link",
       "path": "d/descartes-works.md",
       "text": "笛卡尔的生平及著作 Descartes’ Life and Works (Kurt Smith)",
       "indent": 2,
-      "order": 261
+      "order": 242
     },
     {
       "kind": "link",
       "path": "d/descartes-method.md",
       "text": "笛卡尔的方法 Descartes’ Method (Tarek R. Dika)",
       "indent": 2,
-      "order": 262
+      "order": 243
     },
     {
       "kind": "link",
       "path": "d/descartes-modal.md",
       "text": "笛卡尔的模态形而上学 Descartes’ Modal Metaphysics (David Cunning)",
       "indent": 2,
-      "order": 263
+      "order": 244
     },
     {
       "kind": "link",
       "path": "d/descartes-ontological.md",
       "text": "笛卡尔的本体论论证 Descartes’ Ontological Argument (Lawrence Nolan)",
       "indent": 2,
-      "order": 264
+      "order": 245
     },
     {
       "kind": "link",
       "path": "d/descartes-ideas.md",
       "text": "笛卡尔的观念论 Descartes’ Theory of Ideas (Kurt Smith)",
       "indent": 2,
-      "order": 265
+      "order": 246
     },
     {
       "kind": "link",
       "path": "d/descartes-epistemology.md",
       "text": "笛卡尔的认识论 Descartes’ Epistemology (Lex Newman)",
       "indent": 2,
-      "order": 266
+      "order": 247
     },
     {
       "kind": "link",
       "path": "d/descartes-mathematics.md",
       "text": "笛卡尔的数学 Descartes’ Mathematics (Mary Domski)",
       "indent": 2,
-      "order": 267
+      "order": 248
     },
     {
       "kind": "link",
       "path": "d/descartes-physics.md",
       "text": "笛卡尔的物理学 Descartes’ Physics (Edward Slowik)",
       "indent": 2,
-      "order": 268
+      "order": 249
     },
     {
       "kind": "link",
       "path": "d/descartes-ethics.md",
       "text": "笛卡尔的伦理学 Descartes’ Ethics (Denis Kambouchner、Louis Rouquayrol)",
       "indent": 2,
-      "order": 269
+      "order": 250
+    },
+    {
+      "kind": "link",
+      "path": "a/arnauld.md",
+      "text": "安托万·阿尔诺 Antoine Arnauld (Elmar Kremer)",
+      "indent": 0,
+      "order": 251
+    },
+    {
+      "kind": "link",
+      "path": "h/henricus-regius.md",
+      "text": "亨利·雷吉乌斯 Henricus Regius (Desmond Clarke、Erik-Jan Bos)",
+      "indent": 0,
+      "order": 252
+    },
+    {
+      "kind": "link",
+      "path": "l/la-forge.md",
+      "text": "路易·德·拉弗尔热 Louis de La Forge (Andrea Sangiacomo、Desmond Clarke)",
+      "indent": 0,
+      "order": 253
+    },
+    {
+      "kind": "link",
+      "path": "c/cordemoy.md",
+      "text": "热罗·德·科尔德穆瓦 Géraud de Cordemoy (Fred Ablondi)",
+      "indent": 0,
+      "order": 254
+    },
+    {
+      "kind": "link",
+      "path": "c/clauberg.md",
+      "text": "约翰内斯·克劳伯格 Johannes Clauberg (Nabeel Hamid)",
+      "indent": 0,
+      "order": 255
     },
     {
       "kind": "link",
       "path": "d/desgabets.md",
       "text": "罗伯特·戴加贝 Robert Desgabets (Patricia Easton)",
       "indent": 0,
-      "order": 270
+      "order": 256
+    },
+    {
+      "kind": "link",
+      "path": "l/legrand.md",
+      "text": "安托万·勒·格兰德 Antoine Le Grand (Patricia Easton)",
+      "indent": 0,
+      "order": 257
+    },
+    {
+      "kind": "link",
+      "path": "j/johann-sturm.md",
+      "text": "约翰·克里斯托夫·施图尔姆 Johann Sturm (Andrea Sangiacomo、Christian Henkel)",
+      "indent": 0,
+      "order": 258
+    },
+    {
+      "kind": "link",
+      "path": "p/port-royal-logic.md",
+      "text": "《波尔·罗亚尔逻辑》（《逻辑或思维的艺术》） Port Royal Logic (Alan Nelson、Jill Buroker)",
+      "indent": 0,
+      "order": 259
+    },
+    {
+      "kind": "link",
+      "path": "m/mersenne.md",
+      "text": "马兰·梅森 Marin Mersenne (Philippe Hamou)",
+      "indent": 0,
+      "order": 260
+    },
+    {
+      "kind": "link",
+      "path": "p/pascal.md",
+      "text": "布莱士·帕斯卡 Blaise Pascal (Desmond Clarke、William Wood)",
+      "indent": 0,
+      "order": 261
+    },
+    {
+      "kind": "link",
+      "path": "p/pascal-wager.md",
+      "text": "帕斯卡的赌注 Pascal’s Wager (Alan Hájek)",
+      "indent": 2,
+      "order": 262
+    },
+    {
+      "kind": "link",
+      "path": "m/malebranche.md",
+      "text": "尼古拉·马勒伯朗士 Nicolas Malebranche (Tad Schmaltz)",
+      "indent": 0,
+      "order": 263
+    },
+    {
+      "kind": "link",
+      "path": "m/malebranche-ideas.md",
+      "text": "马勒伯朗士论上帝的观念和视觉 Malebranche’s Theory of Ideas and Vision in God (Lawrence Nolan)",
+      "indent": 2,
+      "order": 264
+    },
+    {
+      "kind": "link",
+      "path": "o/occasionalism.md",
+      "text": "偶因论 Occasionalism (Sukjae Lee)",
+      "indent": 0,
+      "order": 265
+    },
+    {
+      "kind": "link",
+      "path": "e/elisabeth-bohemia.md",
+      "text": "普法尔茨的伊丽莎白公主 Elisabeth, Princess of Bohemia (Lisa Shapiro)",
+      "indent": 0,
+      "order": 266
+    },
+    {
+      "kind": "link",
+      "path": "a/astell.md",
+      "text": "玛丽·阿斯特尔 Mary Astell (Alice Sowaal)",
+      "indent": 0,
+      "order": 267
+    },
+    {
+      "kind": "link",
+      "path": "f/francois-barre.md",
+      "text": "弗朗索瓦·普兰·德拉巴尔 François Poulain de la Barre (Martina Reuter)",
+      "indent": 0,
+      "order": 268
+    },
+    {
+      "kind": "link",
+      "path": "q/qualities-prim-sec.md",
+      "text": "早期现代哲学中的第一性质和第二性质 Primary and Secondary Qualities in Early Modern Philosophy (Martha Bolton)",
+      "indent": 0,
+      "order": 269
     },
     {
       "kind": "link",
       "path": "c/consciousness-17th.md",
       "text": "17 世纪的意识理论 Seventeenth-Century Theories of Consciousness (Larry M. Jorgensen)",
       "indent": 0,
-      "order": 271
+      "order": 270
     },
     {
       "kind": "link",
       "path": "e/emotions-17th18th.md",
       "text": "17 世纪和 18 世纪的情感理论 17th and 18th Century Theories of Emotions (Amy M. Schmitter)",
       "indent": 0,
-      "order": 272
+      "order": 271
     },
     {
       "kind": "link",
-      "path": "w/wolff-christian.md",
-      "text": "克里斯蒂安·沃尔夫 Christian Wolff (Matt Hettche、Corey Dyck)",
+      "path": "j/john-norris.md",
+      "text": "约翰·诺里斯 John Norris (June Yang)",
       "indent": 0,
-      "order": 273
+      "order": 272
     },
     {
       "kind": "link",
       "path": "l/leibniz.md",
       "text": "戈特弗里德·威廉·莱布尼茨 Gottfried Wilhelm Leibniz (Brandon C. Look)",
       "indent": 0,
-      "order": 274
+      "order": 273
     },
     {
       "kind": "link",
       "path": "l/leibniz-exoteric.md",
       "text": "莱布尼茨的通俗哲学 Leibniz’s Exoteric Philosophy (John Whipple)",
       "indent": 2,
-      "order": 275
+      "order": 274
     },
     {
       "kind": "link",
       "path": "l/leibniz-modal.md",
       "text": "莱布尼茨的模态形而上学 Leibniz’s Modal Metaphysics (Brandon C. Look)",
       "indent": 2,
-      "order": 276
+      "order": 275
     },
     {
       "kind": "link",
       "path": "l/leibniz-causation.md",
       "text": "莱布尼茨论因果关系 Leibniz on Causation (Marc Bobro、Tobias Flattery)",
       "indent": 2,
-      "order": 277
+      "order": 276
     },
     {
       "kind": "link",
       "path": "s/sufficient-reason.md",
       "text": "充足理由律 Principle of Sufficient Reason (Yitzhak Y. Melamed、Martin Lin)",
       "indent": 2,
-      "order": 278
+      "order": 277
     },
     {
       "kind": "link",
       "path": "l/leibniz-mind.md",
       "text": "莱布尼茨的心灵哲学 Leibniz’s Philosophy of Mind (Mark Kulstad、Laurence Carlin)",
       "indent": 2,
-      "order": 279
+      "order": 278
     },
     {
       "kind": "link",
       "path": "l/leibniz-physics.md",
       "text": "莱布尼茨的物理哲学 Leibniz’s Philosophy of Physics (Jeffrey K. McDonough)",
       "indent": 2,
-      "order": 280
+      "order": 279
     },
     {
       "kind": "link",
       "path": "l/leibniz-ethics.md",
       "text": "莱布尼茨的伦理学 Leibniz’s Ethics (Andrew Youpa、Saja Parvizian)",
       "indent": 2,
-      "order": 281
+      "order": 280
     },
     {
       "kind": "link",
       "path": "l/leibniz-evil.md",
       "text": "莱布尼茨论恶的问题 Leibniz on the Problem of Evil (Thomas Feeney)",
       "indent": 2,
-      "order": 282
+      "order": 281
     },
     {
       "kind": "link",
       "path": "l/leibniz-logic-influence.md",
       "text": "莱布尼茨对 19 世纪逻辑学的影响 Leibniz’s Influence on 19th Century Logic (Volker Peckhaus)",
       "indent": 2,
+      "order": 282
+    },
+    {
+      "kind": "link",
+      "path": "w/wolff-christian.md",
+      "text": "克里斯蒂安·沃尔夫 Christian Wolff (Matt Hettche、Corey Dyck)",
+      "indent": 0,
       "order": 283
     },
     {
@@ -2047,29 +2047,29 @@
     },
     {
       "kind": "link",
-      "path": "h/henry-more.md",
-      "text": "亨利·莫尔 Henry More (John Henry)",
+      "path": "c/cambridge-platonists.md",
+      "text": "剑桥柏拉图学派 The Cambridge Platonists (Sarah Hutton)",
       "indent": 0,
       "order": 292
-    },
-    {
-      "kind": "link",
-      "path": "c/conway.md",
-      "text": "安妮·康威 Lady Anne Conway (Sarah Hutton)",
-      "indent": 0,
-      "order": 293
     },
     {
       "kind": "link",
       "path": "c/cudworth.md",
       "text": "拉尔夫·库德沃斯 Ralph Cudworth (Sarah Hutton)",
       "indent": 0,
+      "order": 293
+    },
+    {
+      "kind": "link",
+      "path": "h/henry-more.md",
+      "text": "亨利·莫尔 Henry More (John Henry)",
+      "indent": 0,
       "order": 294
     },
     {
       "kind": "link",
-      "path": "c/cambridge-platonists.md",
-      "text": "剑桥柏拉图学派 The Cambridge Platonists (Sarah Hutton)",
+      "path": "c/conway.md",
+      "text": "安妮·康威 Lady Anne Conway (Sarah Hutton)",
       "indent": 0,
       "order": 295
     },
@@ -2187,65 +2187,65 @@
     },
     {
       "kind": "link",
-      "path": "n/newton.md",
-      "text": "艾萨克·牛顿 Isaac Newton (George Smith)",
-      "indent": 0,
-      "order": 312
-    },
-    {
-      "kind": "link",
-      "path": "n/newton-stm.md",
-      "text": "牛顿对空间、时间和运动的观点 Newton’s Views on Space, Time, and Motion (Robert Rynasiewicz)",
-      "indent": 2,
-      "order": 313
-    },
-    {
-      "kind": "link",
-      "path": "n/newton-philosophy.md",
-      "text": "牛顿的哲学 Newton’s Philosophy (Andrew Janiak)",
-      "indent": 2,
-      "order": 314
-    },
-    {
-      "kind": "link",
-      "path": "n/newton-principia.md",
-      "text": "自然哲学的数学原理 Newton’s Philosophiae Naturalis Principia Mathematica (George Smith)",
-      "indent": 2,
-      "order": 315
-    },
-    {
-      "kind": "link",
-      "path": "m/margaret-cavendish.md",
-      "text": "玛格丽特·卢卡斯·卡文迪许 Margaret Lucas Cavendish (David Cunning)",
-      "indent": 0,
-      "order": 316
-    },
-    {
-      "kind": "link",
-      "path": "b/boyle.md",
-      "text": "罗伯特·波义耳 Robert Boyle (Peter Anstey、Jan-Erik Jones)",
-      "indent": 0,
-      "order": 317
-    },
-    {
-      "kind": "link",
       "path": "h/hobbes.md",
       "text": "托马斯·霍布斯 Thomas Hobbes (Stewart Duncan)",
       "indent": 0,
-      "order": 318
+      "order": 312
     },
     {
       "kind": "link",
       "path": "h/hobbes-science.md",
       "text": "霍布斯的科学哲学 Hobbes’ Philosophy of Science (Marcus P. Adams)",
       "indent": 2,
-      "order": 319
+      "order": 313
     },
     {
       "kind": "link",
       "path": "h/hobbes-moral.md",
       "text": "霍布斯的道德与政治哲学 Hobbes’s Moral and Political Philosophy (Sharon A. Lloyd、Susanne Sreedhar)",
       "indent": 2,
+      "order": 314
+    },
+    {
+      "kind": "link",
+      "path": "n/newton.md",
+      "text": "艾萨克·牛顿 Isaac Newton (George Smith)",
+      "indent": 0,
+      "order": 315
+    },
+    {
+      "kind": "link",
+      "path": "n/newton-stm.md",
+      "text": "牛顿对空间、时间和运动的观点 Newton’s Views on Space, Time, and Motion (Robert Rynasiewicz)",
+      "indent": 2,
+      "order": 316
+    },
+    {
+      "kind": "link",
+      "path": "n/newton-philosophy.md",
+      "text": "牛顿的哲学 Newton’s Philosophy (Andrew Janiak)",
+      "indent": 2,
+      "order": 317
+    },
+    {
+      "kind": "link",
+      "path": "n/newton-principia.md",
+      "text": "自然哲学的数学原理 Newton’s Philosophiae Naturalis Principia Mathematica (George Smith)",
+      "indent": 2,
+      "order": 318
+    },
+    {
+      "kind": "link",
+      "path": "b/boyle.md",
+      "text": "罗伯特·波义耳 Robert Boyle (Peter Anstey、Jan-Erik Jones)",
+      "indent": 0,
+      "order": 319
+    },
+    {
+      "kind": "link",
+      "path": "m/margaret-cavendish.md",
+      "text": "玛格丽特·卢卡斯·卡文迪许 Margaret Lucas Cavendish (David Cunning)",
+      "indent": 0,
       "order": 320
     },
     {
@@ -2257,71 +2257,71 @@
     },
     {
       "kind": "link",
-      "path": "s/scottish-19th.md",
-      "text": "19 世纪苏格兰哲学 Scottish Philosophy in the 19th Century (Gordon Graham)",
-      "indent": 0,
-      "order": 322
-    },
-    {
-      "kind": "link",
       "path": "r/reid.md",
       "text": "托马斯·里德 Thomas Reid (Ryan Nichols、Gideon Yaffe)",
       "indent": 0,
-      "order": 323
+      "order": 322
     },
     {
       "kind": "link",
       "path": "r/reid-ethics.md",
       "text": "里德的伦理学 Reid’s Ethics (Terence Cuneo)",
       "indent": 2,
-      "order": 324
+      "order": 323
     },
     {
       "kind": "link",
       "path": "r/reid-memory-identity.md",
       "text": "里德论记忆与人格同一性 Reid on Memory and Personal Identity (Rebecca Copenhaver)",
       "indent": 2,
-      "order": 325
+      "order": 324
     },
     {
       "kind": "link",
       "path": "s/scottish-18th.md",
       "text": "18 世纪苏格兰哲学 Scottish Philosophy in the 18th Century (Alexander Broadie、Craig Smith)",
       "indent": 2,
+      "order": 325
+    },
+    {
+      "kind": "link",
+      "path": "s/scottish-19th.md",
+      "text": "19 世纪苏格兰哲学 Scottish Philosophy in the 19th Century (Gordon Graham)",
+      "indent": 0,
       "order": 326
     },
     {
       "kind": "link",
-      "path": "c/collins.md",
-      "text": "安东尼·柯林斯 Anthony Collins (William Uzgalis)",
+      "path": "b/butler-moral.md",
+      "text": "约瑟夫·巴特勒的伦理学 Joseph Butler’s Moral Philosophy (Aaron Garrett)",
       "indent": 0,
       "order": 327
+    },
+    {
+      "kind": "link",
+      "path": "c/clarke.md",
+      "text": "塞缪尔·克拉克 Samuel Clarke (Timothy Yenter、Ezio Vailati)",
+      "indent": 0,
+      "order": 328
     },
     {
       "kind": "link",
       "path": "c/cockburn.md",
       "text": "凯瑟琳·特洛特·考克本 Catharine Trotter Cockburn (Patricia Sheridan)",
       "indent": 0,
-      "order": 328
-    },
-    {
-      "kind": "link",
-      "path": "h/hartley.md",
-      "text": "大卫·哈特利 David Hartley (Richard Allen)",
-      "indent": 0,
       "order": 329
     },
     {
       "kind": "link",
-      "path": "e/edwards.md",
-      "text": "乔纳森·爱德华兹 Jonathan Edwards (William Wainwright)",
+      "path": "c/collins.md",
+      "text": "安东尼·柯林斯 Anthony Collins (William Uzgalis)",
       "indent": 0,
       "order": 330
     },
     {
       "kind": "link",
-      "path": "b/butler-moral.md",
-      "text": "约瑟夫·巴特勒的伦理学 Joseph Butler’s Moral Philosophy (Aaron Garrett)",
+      "path": "e/edwards.md",
+      "text": "乔纳森·爱德华兹 Jonathan Edwards (William Wainwright)",
       "indent": 0,
       "order": 331
     },
@@ -2334,15 +2334,15 @@
     },
     {
       "kind": "link",
-      "path": "m/mary-shepherd.md",
-      "text": "玛丽·谢泼德 Mary Shepherd (Martha Bolton)",
+      "path": "h/hartley.md",
+      "text": "大卫·哈特利 David Hartley (Richard Allen)",
       "indent": 0,
       "order": 333
     },
     {
       "kind": "link",
-      "path": "c/clarke.md",
-      "text": "塞缪尔·克拉克 Samuel Clarke (Timothy Yenter、Ezio Vailati)",
+      "path": "m/mary-shepherd.md",
+      "text": "玛丽·谢泼德 Mary Shepherd (Martha Bolton)",
       "indent": 0,
       "order": 334
     },
@@ -2362,169 +2362,169 @@
     },
     {
       "kind": "link",
-      "path": "m/montesquieu.md",
-      "text": "夏尔·路易·德·塞贡达，拉布雷德与孟德斯鸠男爵 Baron de Montesquieu, Charles-Louis de Secondat (Hilary Bok)",
-      "indent": 0,
-      "order": 337
-    },
-    {
-      "kind": "link",
       "path": "d/diderot.md",
       "text": "德尼·狄德罗 Denis Diderot (Charles T. Wolfe、J.B. Shank)",
       "indent": 0,
-      "order": 338
-    },
-    {
-      "kind": "link",
-      "path": "r/rousseau.md",
-      "text": "让-雅克·卢梭 Jean Jacques Rousseau (Christopher Bertram)",
-      "indent": 0,
-      "order": 339
-    },
-    {
-      "kind": "link",
-      "path": "d/du-bos.md",
-      "text": "让·巴蒂斯特·杜博斯 Jean-Baptiste Du Bos (James O. Young、Margaret Cameron)",
-      "indent": 0,
-      "order": 340
+      "order": 337
     },
     {
       "kind": "link",
       "path": "h/holbach.md",
       "text": "保尔-亨利·提利·霍尔巴赫 Paul-Henri Thiry (Baron) d’Holbach (Michael LeBuffe)",
       "indent": 0,
-      "order": 341
-    },
-    {
-      "kind": "link",
-      "path": "b/bayle.md",
-      "text": "皮埃尔·培尔 Pierre Bayle (Michael Hickson)",
-      "indent": 0,
-      "order": 342
-    },
-    {
-      "kind": "link",
-      "path": "g/gassendi.md",
-      "text": "皮埃尔·伽桑狄 Pierre Gassendi (Saul Fisher)",
-      "indent": 0,
-      "order": 343
-    },
-    {
-      "kind": "link",
-      "path": "c/condillac.md",
-      "text": "艾蒂安·博诺·德·孔狄亚克 Étienne Bonnot de Condillac (Lorne Falkenstein、Giovanni Grandi)",
-      "indent": 0,
-      "order": 344
+      "order": 338
     },
     {
       "kind": "link",
       "path": "v/voltaire.md",
       "text": "伏尔泰 Voltaire (J.B. Shank)",
       "indent": 0,
+      "order": 339
+    },
+    {
+      "kind": "link",
+      "path": "m/montesquieu.md",
+      "text": "夏尔·路易·德·塞贡达，拉布雷德与孟德斯鸠男爵 Baron de Montesquieu, Charles-Louis de Secondat (Hilary Bok)",
+      "indent": 0,
+      "order": 340
+    },
+    {
+      "kind": "link",
+      "path": "r/rousseau.md",
+      "text": "让-雅克·卢梭 Jean Jacques Rousseau (Christopher Bertram)",
+      "indent": 0,
+      "order": 341
+    },
+    {
+      "kind": "link",
+      "path": "g/gassendi.md",
+      "text": "皮埃尔·伽桑狄 Pierre Gassendi (Saul Fisher)",
+      "indent": 0,
+      "order": 342
+    },
+    {
+      "kind": "link",
+      "path": "c/condillac.md",
+      "text": "艾蒂安·博诺·德·孔狄亚克 Étienne Bonnot de Condillac (Lorne Falkenstein、Giovanni Grandi)",
+      "indent": 0,
+      "order": 343
+    },
+    {
+      "kind": "link",
+      "path": "d/du-bos.md",
+      "text": "让·巴蒂斯特·杜博斯 Jean-Baptiste Du Bos (James O. Young、Margaret Cameron)",
+      "indent": 0,
+      "order": 344
+    },
+    {
+      "kind": "link",
+      "path": "b/bayle.md",
+      "text": "皮埃尔·培尔 Pierre Bayle (Michael Hickson)",
+      "indent": 0,
       "order": 345
-    },
-    {
-      "kind": "link",
-      "path": "s/smith-moral-political.md",
-      "text": "亚当·斯密的伦理学和政治哲学 Adam Smith’s Moral and Political Philosophy (Samuel Fleischacker)",
-      "indent": 0,
-      "order": 346
-    },
-    {
-      "kind": "link",
-      "path": "m/mandeville.md",
-      "text": "伯纳德·曼德维尔 Bernard Mandeville (Mikko Tolonen、Robin Douglass)",
-      "indent": 0,
-      "order": 347
-    },
-    {
-      "kind": "link",
-      "path": "h/hutcheson.md",
-      "text": "弗兰西斯·哈奇森 Francis Hutcheson (Dale Dorsey)",
-      "indent": 0,
-      "order": 348
     },
     {
       "kind": "link",
       "path": "s/shaftesbury.md",
       "text": "沙夫茨伯里伯爵（第三代沙夫茨伯里伯爵安东尼·阿什利-柯柏） Lord Shaftesbury \\[Anthony Ashley Cooper, 3rd Earl of Shaftesbury\\] (Michael B. Gill)",
       "indent": 0,
-      "order": 349
+      "order": 346
     },
     {
       "kind": "link",
-      "path": "h/hamann.md",
-      "text": "约翰·格奥尔格·哈曼 Johann Georg Hamann (Gwen Griffith-Dickson)",
+      "path": "h/hutcheson.md",
+      "text": "弗兰西斯·哈奇森 Francis Hutcheson (Dale Dorsey)",
       "indent": 0,
-      "order": 350
+      "order": 347
+    },
+    {
+      "kind": "link",
+      "path": "s/smith-moral-political.md",
+      "text": "亚当·斯密的伦理学和政治哲学 Adam Smith’s Moral and Political Philosophy (Samuel Fleischacker)",
+      "indent": 0,
+      "order": 348
+    },
+    {
+      "kind": "link",
+      "path": "m/mandeville.md",
+      "text": "伯纳德·曼德维尔 Bernard Mandeville (Mikko Tolonen、Robin Douglass)",
+      "indent": 0,
+      "order": 349
     },
     {
       "kind": "link",
       "path": "1/18thGerman-preKant.md",
       "text": "康德之前的 18 世纪德国哲学 18th Century German Philosophy Prior to Kant (Corey Dyck、Brigitte Sassen)",
       "indent": 0,
+      "order": 350
+    },
+    {
+      "kind": "link",
+      "path": "h/hamann.md",
+      "text": "约翰·格奥尔格·哈曼 Johann Georg Hamann (Gwen Griffith-Dickson)",
+      "indent": 0,
       "order": 351
-    },
-    {
-      "kind": "link",
-      "path": "c/catharine-macaulay.md",
-      "text": "凯瑟琳·麦考利 Catharine Macaulay (Karen Green)",
-      "indent": 0,
-      "order": 352
-    },
-    {
-      "kind": "link",
-      "path": "b/burke.md",
-      "text": "埃德蒙·伯克 Edmund Burke (Ian Harris)",
-      "indent": 0,
-      "order": 353
     },
     {
       "kind": "link",
       "path": "g/grotius.md",
       "text": "胡果·格劳秀斯 Hugo Grotius (Jon Miller)",
       "indent": 0,
-      "order": 354
-    },
-    {
-      "kind": "link",
-      "path": "w/wollstonecraft.md",
-      "text": "玛丽·沃斯通克拉夫特 Mary Wollstonecraft (Sylvana Tomaselli)",
-      "indent": 0,
-      "order": 355
-    },
-    {
-      "kind": "link",
-      "path": "r/richard-price.md",
-      "text": "理查德·普莱斯 Richard Price (David McNaughton)",
-      "indent": 0,
-      "order": 356
+      "order": 352
     },
     {
       "kind": "link",
       "path": "p/pufendorf.md",
       "text": "普芬道夫的伦理学和政治哲学 Samuel Freiherr von Pufendorf (Michael Seidler)",
       "indent": 0,
-      "order": 357
+      "order": 353
     },
     {
       "kind": "link",
-      "path": "s/sophie-de-grouchy.md",
-      "text": "索菲·德·格鲁希 Sophie de Grouchy (Sandrine Berges)",
+      "path": "b/burke.md",
+      "text": "埃德蒙·伯克 Edmund Burke (Ian Harris)",
       "indent": 0,
-      "order": 358
+      "order": 354
+    },
+    {
+      "kind": "link",
+      "path": "p/paine.md",
+      "text": "托马斯·潘恩 Thomas Paine (Mark Philp)",
+      "indent": 0,
+      "order": 355
     },
     {
       "kind": "link",
       "path": "j/jefferson.md",
       "text": "托马斯·杰斐逊 Thomas Jefferson (M. Andrew Holowchak)",
       "indent": 0,
+      "order": 356
+    },
+    {
+      "kind": "link",
+      "path": "w/wollstonecraft.md",
+      "text": "玛丽·沃斯通克拉夫特 Mary Wollstonecraft (Sylvana Tomaselli)",
+      "indent": 0,
+      "order": 357
+    },
+    {
+      "kind": "link",
+      "path": "c/catharine-macaulay.md",
+      "text": "凯瑟琳·麦考利 Catharine Macaulay (Karen Green)",
+      "indent": 0,
+      "order": 358
+    },
+    {
+      "kind": "link",
+      "path": "s/sophie-de-grouchy.md",
+      "text": "索菲·德·格鲁希 Sophie de Grouchy (Sandrine Berges)",
+      "indent": 0,
       "order": 359
     },
     {
       "kind": "link",
-      "path": "p/paine.md",
-      "text": "托马斯·潘恩 Thomas Paine (Mark Philp)",
+      "path": "r/richard-price.md",
+      "text": "理查德·普莱斯 Richard Price (David McNaughton)",
       "indent": 0,
       "order": 360
     },
@@ -2726,29 +2726,29 @@
     },
     {
       "kind": "link",
-      "path": "a/august-rehberg.md",
-      "text": "奥古斯特·威廉·雷贝格 August Wilhelm Rehberg (Frederick C. Beiser)",
+      "path": "j/johann-fichte.md",
+      "text": "约翰·戈特利布·费希特 Johann Gottlieb Fichte (Dan Breazeale)",
       "indent": 0,
       "order": 389
+    },
+    {
+      "kind": "link",
+      "path": "k/karl-reinhold.md",
+      "text": "卡尔·莱昂哈德·莱因霍尔德 Karl Leonhard Reinhold (Dan Breazeale、John Walsh)",
+      "indent": 0,
+      "order": 390
     },
     {
       "kind": "link",
       "path": "f/friedrich-jacobi.md",
       "text": "弗里德里希·海因里希·雅可比 Friedrich Heinrich Jacobi (Paolo Livieri、George di Giovanni)",
       "indent": 0,
-      "order": 390
-    },
-    {
-      "kind": "link",
-      "path": "j/johann-fichte.md",
-      "text": "约翰·戈特利布·费希特 Johann Gottlieb Fichte (Dan Breazeale)",
-      "indent": 0,
       "order": 391
     },
     {
       "kind": "link",
-      "path": "k/karl-reinhold.md",
-      "text": "卡尔·莱昂哈德·莱因霍尔德 Karl Leonhard Reinhold (Dan Breazeale、John Walsh)",
+      "path": "a/august-rehberg.md",
+      "text": "奥古斯特·威廉·雷贝格 August Wilhelm Rehberg (Frederick C. Beiser)",
       "indent": 0,
       "order": 392
     },
@@ -2761,379 +2761,379 @@
     },
     {
       "kind": "link",
-      "path": "a/alexander-humboldt.md",
-      "text": "亚历山大·冯·洪堡 Alexander von Humboldt (Dalia Nassar)",
+      "path": "h/herder.md",
+      "text": "约翰·戈特弗里德·冯·赫尔德 Johann Gottfried von Herder (Michael Forster)",
       "indent": 0,
       "order": 394
-    },
-    {
-      "kind": "link",
-      "path": "s/schleiermacher.md",
-      "text": "弗里德里希·丹尼尔·恩斯特·施莱尔马赫 Friedrich Daniel Ernst Schleiermacher (Michael Forster)",
-      "indent": 0,
-      "order": 395
-    },
-    {
-      "kind": "link",
-      "path": "s/schiller.md",
-      "text": "约翰·克里斯托弗·弗里德里希·冯·席勒 Friedrich Schiller (Lydia L. Moland)",
-      "indent": 0,
-      "order": 396
     },
     {
       "kind": "link",
       "path": "s/schlegel.md",
       "text": "弗里德里希·施莱格尔 Friedrich Schlegel (Allen Speight)",
       "indent": 0,
-      "order": 397
+      "order": 395
     },
     {
       "kind": "link",
       "path": "s/schlegel-aw.md",
       "text": "奥古斯特·威廉·冯·施莱格尔 August Wilhelm von Schlegel (Katia D. Hay)",
       "indent": 2,
-      "order": 398
+      "order": 396
     },
     {
       "kind": "link",
       "path": "n/novalis.md",
       "text": "格奥尔格·菲利普·弗里德里希·弗莱赫尔·冯·哈登贝格（诺瓦利斯） Georg Friedrich Philipp von Hardenberg \\[Novalis\\] (Kristin Gjesdal)",
       "indent": 0,
+      "order": 397
+    },
+    {
+      "kind": "link",
+      "path": "s/schiller.md",
+      "text": "约翰·克里斯托弗·弗里德里希·冯·席勒 Friedrich Schiller (Lydia L. Moland)",
+      "indent": 0,
+      "order": 398
+    },
+    {
+      "kind": "link",
+      "path": "s/schleiermacher.md",
+      "text": "弗里德里希·丹尼尔·恩斯特·施莱尔马赫 Friedrich Daniel Ernst Schleiermacher (Michael Forster)",
+      "indent": 0,
       "order": 399
-    },
-    {
-      "kind": "link",
-      "path": "v/vico.md",
-      "text": "詹巴蒂斯塔·维柯 Giambattista Vico (Timothy Costelloe)",
-      "indent": 0,
-      "order": 400
-    },
-    {
-      "kind": "link",
-      "path": "h/herder.md",
-      "text": "约翰·戈特弗里德·冯·赫尔德 Johann Gottfried von Herder (Michael Forster)",
-      "indent": 0,
-      "order": 401
     },
     {
       "kind": "link",
       "path": "w/wilhelm-humboldt.md",
       "text": "威廉·冯·洪堡 Wilhelm von Humboldt (Kurt Mueller-Vollmer、Markus Messling)",
       "indent": 0,
+      "order": 400
+    },
+    {
+      "kind": "link",
+      "path": "a/alexander-humboldt.md",
+      "text": "亚历山大·冯·洪堡 Alexander von Humboldt (Dalia Nassar)",
+      "indent": 0,
+      "order": 401
+    },
+    {
+      "kind": "link",
+      "path": "v/vico.md",
+      "text": "詹巴蒂斯塔·维柯 Giambattista Vico (Timothy Costelloe)",
+      "indent": 0,
       "order": 402
-    },
-    {
-      "kind": "link",
-      "path": "r/russell.md",
-      "text": "伯特兰·罗素 Bertrand Russell (Andrew David Irvine)",
-      "indent": 0,
-      "order": 403
-    },
-    {
-      "kind": "link",
-      "path": "l/logical-atomism.md",
-      "text": "罗素的逻辑原子主义 Russell’s Logical Atomism (Kevin Klement)",
-      "indent": 2,
-      "order": 404
-    },
-    {
-      "kind": "link",
-      "path": "l/logical-construction.md",
-      "text": "逻辑构造 Logical Constructions (Bernard Linsky)",
-      "indent": 2,
-      "order": 405
-    },
-    {
-      "kind": "link",
-      "path": "p/principia-mathematica.md",
-      "text": "《数学原理》 Principia Mathematica (Bernard Linsky、Andrew David Irvine)",
-      "indent": 2,
-      "order": 406
-    },
-    {
-      "kind": "link",
-      "path": "p/pm-notation.md",
-      "text": "《数学原理》中的符号 The Notation in Principia Mathematica (Bernard Linsky)",
-      "indent": 2,
-      "order": 407
-    },
-    {
-      "kind": "link",
-      "path": "r/russell-moral.md",
-      "text": "罗素的伦理学 Russell’s Moral Philosophy (Charles Pigden)",
-      "indent": 2,
-      "order": 408
-    },
-    {
-      "kind": "link",
-      "path": "r/russell-paradox.md",
-      "text": "罗素悖论 Russell’s Paradox (Harry Deutsch、Oliver Marshall、Andrew David Irvine)",
-      "indent": 2,
-      "order": 409
-    },
-    {
-      "kind": "link",
-      "path": "d/descriptions.md",
-      "text": "摹状词 Descriptions (Peter Ludlow)",
-      "indent": 2,
-      "order": 410
-    },
-    {
-      "kind": "link",
-      "path": "e/emily-elizabeth-constance-jones.md",
-      "text": "艾米莉·伊丽莎白·康斯坦茨·琼斯 Emily Elizabeth Constance Jones (Gary Ostertag)",
-      "indent": 0,
-      "order": 411
-    },
-    {
-      "kind": "link",
-      "path": "r/ramsey.md",
-      "text": "弗兰克·拉姆齐 Frank Ramsey (Fraser MacBride、Mathieu Marion、María José Frápolli、Dorothy Edgington、Edward Elliott、Sebastian Lutz、Jeffrey Paris)",
-      "indent": 0,
-      "order": 412
-    },
-    {
-      "kind": "link",
-      "path": "r/ramsey-economics.md",
-      "text": "拉姆齐与代际福利经济学 Ramsey and Intergenerational Welfare Economics (Partha Dasgupta)",
-      "indent": 2,
-      "order": 413
-    },
-    {
-      "kind": "link",
-      "path": "m/moore.md",
-      "text": "乔治·爱德华·摩尔 George Edward Moore (Tom Baldwin)",
-      "indent": 0,
-      "order": 414
-    },
-    {
-      "kind": "link",
-      "path": "m/moore-moral.md",
-      "text": "摩尔的伦理学 Moore’s Moral Philosophy (Thomas Hurka)",
-      "indent": 2,
-      "order": 415
     },
     {
       "kind": "link",
       "path": "f/frege.md",
       "text": "戈特洛布·弗雷格 Gottlob Frege (Edward N. Zalta)",
       "indent": 0,
-      "order": 416
+      "order": 403
     },
     {
       "kind": "link",
       "path": "f/frege-logic.md",
       "text": "弗雷格的逻辑学 Frege’s Logic (Roy Cook)",
       "indent": 2,
-      "order": 417
+      "order": 404
     },
     {
       "kind": "link",
       "path": "f/frege-hilbert.md",
       "text": "弗雷格-希尔伯特争论 The Frege-Hilbert Controversy (Patricia Blanchette)",
       "indent": 2,
-      "order": 418
+      "order": 405
     },
     {
       "kind": "link",
       "path": "f/frege-theorem.md",
       "text": "弗雷格定理和算术基础 Frege’s Theorem and Foundations for Arithmetic (Edward N. Zalta)",
       "indent": 2,
-      "order": 419
+      "order": 406
     },
     {
       "kind": "link",
-      "path": "w/wilson.md",
-      "text": "约翰·库克·威尔逊 John Cook Wilson (Mathieu Marion)",
+      "path": "r/russell.md",
+      "text": "伯特兰·罗素 Bertrand Russell (Andrew David Irvine)",
       "indent": 0,
-      "order": 420
+      "order": 407
+    },
+    {
+      "kind": "link",
+      "path": "l/logical-atomism.md",
+      "text": "罗素的逻辑原子主义 Russell’s Logical Atomism (Kevin Klement)",
+      "indent": 2,
+      "order": 408
+    },
+    {
+      "kind": "link",
+      "path": "l/logical-construction.md",
+      "text": "逻辑构造 Logical Constructions (Bernard Linsky)",
+      "indent": 2,
+      "order": 409
+    },
+    {
+      "kind": "link",
+      "path": "p/principia-mathematica.md",
+      "text": "《数学原理》 Principia Mathematica (Bernard Linsky、Andrew David Irvine)",
+      "indent": 2,
+      "order": 410
+    },
+    {
+      "kind": "link",
+      "path": "p/pm-notation.md",
+      "text": "《数学原理》中的符号 The Notation in Principia Mathematica (Bernard Linsky)",
+      "indent": 2,
+      "order": 411
+    },
+    {
+      "kind": "link",
+      "path": "r/russell-moral.md",
+      "text": "罗素的伦理学 Russell’s Moral Philosophy (Charles Pigden)",
+      "indent": 2,
+      "order": 412
+    },
+    {
+      "kind": "link",
+      "path": "r/russell-paradox.md",
+      "text": "罗素悖论 Russell’s Paradox (Harry Deutsch、Oliver Marshall、Andrew David Irvine)",
+      "indent": 2,
+      "order": 413
+    },
+    {
+      "kind": "link",
+      "path": "d/descriptions.md",
+      "text": "摹状词 Descriptions (Peter Ludlow)",
+      "indent": 2,
+      "order": 414
+    },
+    {
+      "kind": "link",
+      "path": "m/moore.md",
+      "text": "乔治·爱德华·摩尔 George Edward Moore (Tom Baldwin)",
+      "indent": 0,
+      "order": 415
+    },
+    {
+      "kind": "link",
+      "path": "m/moore-moral.md",
+      "text": "摩尔的伦理学 Moore’s Moral Philosophy (Thomas Hurka)",
+      "indent": 2,
+      "order": 416
     },
     {
       "kind": "link",
       "path": "w/wittgenstein.md",
       "text": "路德维希·维特根斯坦 Ludwig Wittgenstein (Anat Biletzki、Anat Matar)",
       "indent": 0,
-      "order": 421
+      "order": 417
     },
     {
       "kind": "link",
       "path": "w/wittgenstein-aesthetics.md",
       "text": "维特根斯坦的美学 Wittgenstein’s Aesthetics (Garry Hagberg)",
       "indent": 2,
-      "order": 422
+      "order": 418
     },
     {
       "kind": "link",
       "path": "w/wittgenstein-atomism.md",
       "text": "维特根斯坦的逻辑原子主义 Wittgenstein’s Logical Atomism (Ian Proops)",
       "indent": 2,
-      "order": 423
+      "order": 419
     },
     {
       "kind": "link",
       "path": "w/wittgenstein-mathematics.md",
       "text": "维特根斯坦的数学哲学 Wittgenstein’s Philosophy of Mathematics (Victor Rodych)",
       "indent": 2,
-      "order": 424
+      "order": 420
     },
     {
       "kind": "link",
-      "path": "r/reism.md",
-      "text": "事物论 Reism (Jan Woleński)",
+      "path": "r/ramsey.md",
+      "text": "弗兰克·拉姆齐 Frank Ramsey (Fraser MacBride、Mathieu Marion、María José Frápolli、Dorothy Edgington、Edward Elliott、Sebastian Lutz、Jeffrey Paris)",
       "indent": 0,
-      "order": 425
+      "order": 421
     },
     {
       "kind": "link",
-      "path": "r/ruth-barcan-marcus.md",
-      "text": "露丝·巴肯·马库斯 Ruth Barcan Marcus (Roberta Ballarin)",
+      "path": "r/ramsey-economics.md",
+      "text": "拉姆齐与代际福利经济学 Ramsey and Intergenerational Welfare Economics (Partha Dasgupta)",
+      "indent": 2,
+      "order": 422
+    },
+    {
+      "kind": "link",
+      "path": "e/emily-elizabeth-constance-jones.md",
+      "text": "艾米莉·伊丽莎白·康斯坦茨·琼斯 Emily Elizabeth Constance Jones (Gary Ostertag)",
       "indent": 0,
-      "order": 426
+      "order": 423
     },
     {
       "kind": "link",
       "path": "s/stebbing.md",
       "text": "苏珊·斯泰宾 Susan Stebbing (Michael Beaney、Siobhan Chapman)",
       "indent": 0,
-      "order": 427
+      "order": 424
     },
     {
       "kind": "link",
-      "path": "b/broad.md",
-      "text": "查理·邓巴·布罗德 Charlie Dunbar Broad (Kent Gustavsson)",
+      "path": "w/wilson.md",
+      "text": "约翰·库克·威尔逊 John Cook Wilson (Mathieu Marion)",
       "indent": 0,
-      "order": 428
+      "order": 425
+    },
+    {
+      "kind": "link",
+      "path": "r/reism.md",
+      "text": "事物论 Reism (Jan Woleński)",
+      "indent": 0,
+      "order": 426
+    },
+    {
+      "kind": "link",
+      "path": "r/ruth-barcan-marcus.md",
+      "text": "露丝·巴肯·马库斯 Ruth Barcan Marcus (Roberta Ballarin)",
+      "indent": 0,
+      "order": 427
     },
     {
       "kind": "link",
       "path": "d/david-lewis.md",
       "text": "大卫·刘易斯 David Lewis (Brian Weatherson)",
       "indent": 0,
-      "order": 429
+      "order": 428
     },
     {
       "kind": "link",
       "path": "l/lewis-metaphysics.md",
       "text": "大卫·刘易斯的形而上学 David Lewis’s Metaphysics (Ned Hall、Brian Rabern、Wolfgang Schwarz)",
       "indent": 2,
-      "order": 430
+      "order": 429
     },
     {
       "kind": "link",
-      "path": "w/williams-dc.md",
-      "text": "唐纳德·卡里·威廉姆斯 Donald Cary Williams (Keith Campbell、James Franklin、Douglas Ehring)",
+      "path": "b/broad.md",
+      "text": "查理·邓巴·布罗德 Charlie Dunbar Broad (Kent Gustavsson)",
       "indent": 0,
-      "order": 431
+      "order": 430
     },
     {
       "kind": "link",
       "path": "p/price.md",
       "text": "亨利·哈伯利·普莱斯 Henry Habberley Price (Arthur Schipper、Paul Snowdon)",
       "indent": 0,
-      "order": 432
+      "order": 431
     },
     {
       "kind": "link",
-      "path": "f/findlay.md",
-      "text": "J·N·芬德利 John Niemeyer Findlay (Douglas Lackey)",
+      "path": "w/williams-dc.md",
+      "text": "唐纳德·卡里·威廉姆斯 Donald Cary Williams (Keith Campbell、James Franklin、Douglas Ehring)",
       "indent": 0,
-      "order": 433
+      "order": 432
     },
     {
       "kind": "link",
       "path": "c/chisholm.md",
       "text": "罗德里克·齐硕姆 Roderick Chisholm (Richard Feldman、Fred Feldman)",
       "indent": 0,
+      "order": 433
+    },
+    {
+      "kind": "link",
+      "path": "f/findlay.md",
+      "text": "J·N·芬德利 John Niemeyer Findlay (Douglas Lackey)",
+      "indent": 0,
       "order": 434
-    },
-    {
-      "kind": "link",
-      "path": "d/davidson.md",
-      "text": "唐纳德·戴维森 Donald Davidson (Jeff Malpas)",
-      "indent": 0,
-      "order": 435
-    },
-    {
-      "kind": "link",
-      "path": "g/goodman.md",
-      "text": "纳尔逊·古德曼 Nelson Goodman (Daniel Cohnitz、Marcus Rossberg)",
-      "indent": 0,
-      "order": 436
-    },
-    {
-      "kind": "link",
-      "path": "g/goodman-aesthetics.md",
-      "text": "古德曼的美学 Goodman’s Aesthetics (Alessandro Giovannelli)",
-      "indent": 2,
-      "order": 437
-    },
-    {
-      "kind": "link",
-      "path": "s/sylvan-routley.md",
-      "text": "理查德·西尔万（理查德·劳特利） Richard Sylvan \\[Routley\\] (Dominic Hyde、Filippo Casati、Zach Weber)",
-      "indent": 0,
-      "order": 438
-    },
-    {
-      "kind": "link",
-      "path": "s/sellars.md",
-      "text": "威尔弗里德·塞拉斯 Wilfrid Sellars (Willem deVries、Carl Sachs)",
-      "indent": 0,
-      "order": 439
     },
     {
       "kind": "link",
       "path": "q/quine.md",
       "text": "威拉德·冯·奥曼·蒯因 Willard Van Orman Quine (Peter Hylton、Gary Kemp)",
       "indent": 0,
-      "order": 440
+      "order": 435
     },
     {
       "kind": "link",
       "path": "q/quine-nf.md",
       "text": "蒯因的新基础 Quine’s New Foundations (Thomas Forster)",
       "indent": 2,
-      "order": 441
+      "order": 436
     },
     {
       "kind": "link",
-      "path": "w/williams-bernard.md",
-      "text": "伯纳德·威廉斯 Bernard Williams (Sophie-Grace Chappell、Nicholas Smyth)",
+      "path": "d/davidson.md",
+      "text": "唐纳德·戴维森 Donald Davidson (Jeff Malpas)",
       "indent": 0,
-      "order": 442
+      "order": 437
+    },
+    {
+      "kind": "link",
+      "path": "s/sellars.md",
+      "text": "威尔弗里德·塞拉斯 Wilfrid Sellars (Willem deVries、Carl Sachs)",
+      "indent": 0,
+      "order": 438
+    },
+    {
+      "kind": "link",
+      "path": "g/goodman.md",
+      "text": "纳尔逊·古德曼 Nelson Goodman (Daniel Cohnitz、Marcus Rossberg)",
+      "indent": 0,
+      "order": 439
+    },
+    {
+      "kind": "link",
+      "path": "g/goodman-aesthetics.md",
+      "text": "古德曼的美学 Goodman’s Aesthetics (Alessandro Giovannelli)",
+      "indent": 2,
+      "order": 440
+    },
+    {
+      "kind": "link",
+      "path": "s/sylvan-routley.md",
+      "text": "理查德·西尔万（理查德·劳特利） Richard Sylvan \\[Routley\\] (Dominic Hyde、Filippo Casati、Zach Weber)",
+      "indent": 0,
+      "order": 441
     },
     {
       "kind": "link",
       "path": "s/stevenson.md",
       "text": "查尔斯·莱斯利·史蒂文森 Charles Leslie Stevenson (Daniel Boisvert、Teemu Toppinen)",
       "indent": 0,
-      "order": 443
-    },
-    {
-      "kind": "link",
-      "path": "a/anscombe.md",
-      "text": "格特鲁德·伊丽莎白·玛格丽特·安斯康姆 Gertrude Elizabeth Margaret Anscombe (Eric Wiland、Julia Driver)",
-      "indent": 0,
-      "order": 444
+      "order": 442
     },
     {
       "kind": "link",
       "path": "p/prichard.md",
       "text": "哈罗德·阿瑟·普里查德 Harold Arthur Prichard (Jonathan Dancy)",
       "indent": 0,
+      "order": 443
+    },
+    {
+      "kind": "link",
+      "path": "w/william-david-ross.md",
+      "text": "威廉·大卫·罗斯 William David Ross (Anthony Skelton)",
+      "indent": 0,
+      "order": 444
+    },
+    {
+      "kind": "link",
+      "path": "h/hare.md",
+      "text": "理查德·默尔文·黑尔 Richard Mervyn Hare (Anthony Price)",
+      "indent": 0,
       "order": 445
     },
     {
       "kind": "link",
-      "path": "m/murdoch.md",
-      "text": "艾丽丝·默多克 Iris Murdoch (Lawrence Blum)",
+      "path": "a/anscombe.md",
+      "text": "格特鲁德·伊丽莎白·玛格丽特·安斯康姆 Gertrude Elizabeth Margaret Anscombe (Eric Wiland、Julia Driver)",
       "indent": 0,
       "order": 446
     },
     {
       "kind": "link",
-      "path": "b/berlin.md",
-      "text": "以赛亚·伯林 Isaiah Berlin (Joshua L. Cherniss、Henry Hardy)",
+      "path": "m/murdoch.md",
+      "text": "艾丽丝·默多克 Iris Murdoch (Lawrence Blum)",
       "indent": 0,
       "order": 447
     },
@@ -3146,15 +3146,15 @@
     },
     {
       "kind": "link",
-      "path": "h/hare.md",
-      "text": "理查德·默尔文·黑尔 Richard Mervyn Hare (Anthony Price)",
+      "path": "b/berlin.md",
+      "text": "以赛亚·伯林 Isaiah Berlin (Joshua L. Cherniss、Henry Hardy)",
       "indent": 0,
       "order": 449
     },
     {
       "kind": "link",
-      "path": "w/william-david-ross.md",
-      "text": "威廉·大卫·罗斯 William David Ross (Anthony Skelton)",
+      "path": "w/williams-bernard.md",
+      "text": "伯纳德·威廉斯 Bernard Williams (Sophie-Grace Chappell、Nicholas Smyth)",
       "indent": 0,
       "order": 450
     },
@@ -3174,15 +3174,15 @@
     },
     {
       "kind": "link",
-      "path": "g/grice.md",
-      "text": "保罗·格莱斯 Paul Grice (Richard E. Grandy、Richard Warner)",
+      "path": "s/strawson.md",
+      "text": "彼得·弗雷德里克·斯特劳森 Peter Frederick Strawson (Paul Snowdon、Anil Gomes)",
       "indent": 0,
       "order": 453
     },
     {
       "kind": "link",
-      "path": "s/strawson.md",
-      "text": "彼得·弗雷德里克·斯特劳森 Peter Frederick Strawson (Paul Snowdon、Anil Gomes)",
+      "path": "g/grice.md",
+      "text": "保罗·格莱斯 Paul Grice (Richard E. Grandy、Richard Warner)",
       "indent": 0,
       "order": 454
     },
@@ -3405,15 +3405,15 @@
     },
     {
       "kind": "link",
-      "path": "g/gasset.md",
-      "text": "何塞·奥尔特加·伊·加塞特 José Ortega y Gasset (Oliver Holmes)",
+      "path": "r/rosenstock-huessy.md",
+      "text": "欧根·罗森斯托克-胡絮 Eugen Rosenstock-Huessy (Wayne Cristaudo)",
       "indent": 0,
       "order": 486
     },
     {
       "kind": "link",
-      "path": "r/rosenstock-huessy.md",
-      "text": "欧根·罗森斯托克-胡絮 Eugen Rosenstock-Huessy (Wayne Cristaudo)",
+      "path": "g/gasset.md",
+      "text": "何塞·奥尔特加·伊·加塞特 José Ortega y Gasset (Oliver Holmes)",
       "indent": 0,
       "order": 487
     },
@@ -3475,43 +3475,43 @@
     },
     {
       "kind": "link",
+      "path": "p/process-philosophy.md",
+      "text": "过程哲学 Process Philosophy (Johanna Seibt)",
+      "indent": 0,
+      "order": 496
+    },
+    {
+      "kind": "link",
       "path": "p/peirce.md",
       "text": "查尔斯·桑德斯·皮尔士 Charles Sanders Peirce (Robert Burch)",
       "indent": 0,
-      "order": 496
+      "order": 497
     },
     {
       "kind": "link",
       "path": "p/peirce-logic.md",
       "text": "皮尔士的演绎逻辑 Peirce’s Deductive Logic (Sun-Joo Shin)",
       "indent": 2,
-      "order": 497
+      "order": 498
     },
     {
       "kind": "link",
       "path": "p/peirce-benjamin.md",
       "text": "本杰明·皮尔斯 Benjamin Peirce (Ivor Grattan-Guinness、Alison Walsh)",
       "indent": 2,
-      "order": 498
+      "order": 499
     },
     {
       "kind": "link",
       "path": "p/peirce-semiotics.md",
       "text": "皮尔士的符号学理论 Peirce’s Theory of Signs (Albert Atkin)",
       "indent": 2,
-      "order": 499
-    },
-    {
-      "kind": "link",
-      "path": "w/wright.md",
-      "text": "昌西·赖特 Chauncey Wright (Jean De Groot)",
-      "indent": 0,
       "order": 500
     },
     {
       "kind": "link",
-      "path": "l/lewis-ci.md",
-      "text": "克拉伦斯·欧文·刘易斯 Clarence Irving Lewis (Bruce Hunter)",
+      "path": "j/james.md",
+      "text": "威廉·詹姆斯 William James (Russell Goodman)",
       "indent": 0,
       "order": 501
     },
@@ -3524,120 +3524,120 @@
     },
     {
       "kind": "link",
-      "path": "s/santayana.md",
-      "text": "乔治·桑塔亚纳 George Santayana (Herman Saatkamp、Martin Coleman)",
-      "indent": 0,
-      "order": 503
-    },
-    {
-      "kind": "link",
-      "path": "t/thoreau.md",
-      "text": "亨利·戴维·梭罗 Henry David Thoreau (Rick Anthony Furtak)",
-      "indent": 0,
-      "order": 504
-    },
-    {
-      "kind": "link",
-      "path": "a/addams-jane.md",
-      "text": "简·亚当斯 Jane Addams (Maurice Hamington)",
-      "indent": 0,
-      "order": 505
-    },
-    {
-      "kind": "link",
       "path": "d/dewey.md",
       "text": "约翰·杜威 John Dewey (David Hildebrand)",
       "indent": 0,
-      "order": 506
+      "order": 503
     },
     {
       "kind": "link",
       "path": "d/dewey-moral.md",
       "text": "杜威的道德哲学 Dewey’s Moral Philosophy (Elizabeth Anderson)",
       "indent": 2,
-      "order": 507
+      "order": 504
     },
     {
       "kind": "link",
       "path": "d/dewey-political.md",
       "text": "杜威的政治哲学 Dewey’s Political Philosophy (Matthew Festenstein)",
       "indent": 2,
-      "order": 508
+      "order": 505
     },
     {
       "kind": "link",
       "path": "d/dewey-aesthetics.md",
       "text": "杜威的美学 Dewey’s Aesthetics (Tom Leddy、Kalle Puolakka)",
       "indent": 2,
-      "order": 509
+      "order": 506
     },
     {
       "kind": "link",
-      "path": "r/royce.md",
-      "text": "乔赛亚·罗伊斯 Josiah Royce (Kelly A. Parker、Scott Pratt)",
+      "path": "l/lewis-ci.md",
+      "text": "克拉伦斯·欧文·刘易斯 Clarence Irving Lewis (Bruce Hunter)",
       "indent": 0,
-      "order": 510
-    },
-    {
-      "kind": "link",
-      "path": "f/fuller-margaret.md",
-      "text": "玛格丽特·富勒 Margaret Fuller (Daniel Howe、Sonia Di Loreto)",
-      "indent": 0,
-      "order": 511
+      "order": 507
     },
     {
       "kind": "link",
       "path": "p/pragmatism.md",
       "text": "实用主义 Pragmatism (Catherine Legg、Christopher Hookway)",
       "indent": 0,
-      "order": 512
-    },
-    {
-      "kind": "link",
-      "path": "p/process-philosophy.md",
-      "text": "过程哲学 Process Philosophy (Johanna Seibt)",
-      "indent": 0,
-      "order": 513
-    },
-    {
-      "kind": "link",
-      "path": "e/emerson.md",
-      "text": "拉尔夫·沃尔多·爱默生 Ralph Waldo Emerson (Russell Goodman)",
-      "indent": 0,
-      "order": 514
+      "order": 508
     },
     {
       "kind": "link",
       "path": "r/rorty.md",
       "text": "理查德·罗蒂 Richard Rorty (Bjørn Ramberg、Susan Dieleman)",
       "indent": 0,
-      "order": 515
+      "order": 509
     },
     {
       "kind": "link",
       "path": "s/sidney-hook.md",
       "text": "悉尼·胡克 Sidney Hook (David Sidorsky、Robert Talisse)",
       "indent": 0,
-      "order": 516
+      "order": 510
+    },
+    {
+      "kind": "link",
+      "path": "e/emerson.md",
+      "text": "拉尔夫·沃尔多·爱默生 Ralph Waldo Emerson (Russell Goodman)",
+      "indent": 0,
+      "order": 511
+    },
+    {
+      "kind": "link",
+      "path": "t/thoreau.md",
+      "text": "亨利·戴维·梭罗 Henry David Thoreau (Rick Anthony Furtak)",
+      "indent": 0,
+      "order": 512
+    },
+    {
+      "kind": "link",
+      "path": "f/fuller-margaret.md",
+      "text": "玛格丽特·富勒 Margaret Fuller (Daniel Howe、Sonia Di Loreto)",
+      "indent": 0,
+      "order": 513
+    },
+    {
+      "kind": "link",
+      "path": "a/addams-jane.md",
+      "text": "简·亚当斯 Jane Addams (Maurice Hamington)",
+      "indent": 0,
+      "order": 514
     },
     {
       "kind": "link",
       "path": "t/transcendentalism.md",
       "text": "超验主义 Transcendentalism (Russell Goodman)",
       "indent": 0,
+      "order": 515
+    },
+    {
+      "kind": "link",
+      "path": "r/royce.md",
+      "text": "乔赛亚·罗伊斯 Josiah Royce (Kelly A. Parker、Scott Pratt)",
+      "indent": 0,
+      "order": 516
+    },
+    {
+      "kind": "link",
+      "path": "s/santayana.md",
+      "text": "乔治·桑塔亚纳 George Santayana (Herman Saatkamp、Martin Coleman)",
+      "indent": 0,
       "order": 517
     },
     {
       "kind": "link",
-      "path": "j/james.md",
-      "text": "威廉·詹姆斯 William James (Russell Goodman)",
+      "path": "w/wright.md",
+      "text": "昌西·赖特 Chauncey Wright (Jean De Groot)",
       "indent": 0,
       "order": 518
     },
     {
       "kind": "link",
-      "path": "a/alienation.md",
-      "text": "异化 Alienation (David Leopold)",
+      "path": "m/marx.md",
+      "text": "卡尔·马克思 Karl Marx (Jonathan Wolff、David Leopold)",
       "indent": 0,
       "order": 519
     },
@@ -3650,8 +3650,8 @@
     },
     {
       "kind": "link",
-      "path": "m/marx.md",
-      "text": "卡尔·马克思 Karl Marx (Jonathan Wolff、David Leopold)",
+      "path": "a/alienation.md",
+      "text": "异化 Alienation (David Leopold)",
       "indent": 0,
       "order": 521
     },
@@ -3685,8 +3685,8 @@
     },
     {
       "kind": "link",
-      "path": "g/gramsci.md",
-      "text": "安东尼奥·葛兰西 Antonio Gramsci (James Martin)",
+      "path": "l/lukacs.md",
+      "text": "格奥尔格·卢卡奇 Georg \\[György\\] Lukács (Titus Stahl)",
       "indent": 0,
       "order": 526
     },
@@ -3699,22 +3699,22 @@
     },
     {
       "kind": "link",
-      "path": "l/lukacs.md",
-      "text": "格奥尔格·卢卡奇 Georg \\[György\\] Lukács (Titus Stahl)",
+      "path": "g/gramsci.md",
+      "text": "安东尼奥·葛兰西 Antonio Gramsci (James Martin)",
       "indent": 0,
       "order": 528
     },
     {
       "kind": "link",
-      "path": "a/althusser.md",
-      "text": "路易·阿尔都塞 Louis Althusser (William Lewis)",
+      "path": "l/luxemburg.md",
+      "text": "罗莎·卢森堡 Rosa Luxemburg (Lea Ypi)",
       "indent": 0,
       "order": 529
     },
     {
       "kind": "link",
-      "path": "l/luxemburg.md",
-      "text": "罗莎·卢森堡 Rosa Luxemburg (Lea Ypi)",
+      "path": "a/althusser.md",
+      "text": "路易·阿尔都塞 Louis Althusser (William Lewis)",
       "indent": 0,
       "order": 530
     },
@@ -3776,22 +3776,22 @@
     },
     {
       "kind": "link",
-      "path": "g/george-eliot.md",
-      "text": "乔治·艾略特 George Eliot (Clare Carlisle)",
+      "path": "s/spencer.md",
+      "text": "赫伯特·斯宾塞 Herbert Spencer (David Weinstein)",
       "indent": 0,
       "order": 539
     },
     {
       "kind": "link",
-      "path": "s/spencer.md",
-      "text": "赫伯特·斯宾塞 Herbert Spencer (David Weinstein)",
+      "path": "w/whewell.md",
+      "text": "威廉·惠威尔 William Whewell (Laura J. Snyder)",
       "indent": 0,
       "order": 540
     },
     {
       "kind": "link",
-      "path": "w/whewell.md",
-      "text": "威廉·惠威尔 William Whewell (Laura J. Snyder)",
+      "path": "g/george-eliot.md",
+      "text": "乔治·艾略特 George Eliot (Clare Carlisle)",
       "indent": 0,
       "order": 541
     },
@@ -3804,36 +3804,36 @@
     },
     {
       "kind": "link",
-      "path": "a/ayer.md",
-      "text": "阿尔弗雷德·朱尔斯·艾耶尔 Alfred Jules Ayer (Graham Macdonald、Ádám Tamás Tuboly、Nikhil Krishnan)",
+      "path": "v/vienna-circle.md",
+      "text": "维也纳学派 Vienna Circle (Thomas Uebel)",
       "indent": 0,
       "order": 543
     },
     {
       "kind": "link",
-      "path": "h/hempel.md",
-      "text": "卡尔·G·亨普尔 Carl Hempel (James Fetzer)",
+      "path": "s/schlick.md",
+      "text": "莫里茨·石里克 Moritz Schlick (Thomas Oberdan、Friedrich Stadler)",
       "indent": 0,
       "order": 544
     },
     {
       "kind": "link",
-      "path": "r/reichenbach.md",
-      "text": "汉斯·赖兴巴赫 Hans Reichenbach (Clark Glymour、Frederick Eberhardt)",
+      "path": "n/neurath.md",
+      "text": "奥托·纽拉特 Otto Neurath (Jordi Cat)",
       "indent": 0,
       "order": 545
     },
     {
       "kind": "link",
-      "path": "p/physics-Rpcc.md",
-      "text": "汉斯·赖兴巴赫的共同原因原理 Reichenbach’s Common Cause Principle (Christopher Hitchcock、Miklós Rédei)",
-      "indent": 2,
+      "path": "c/carnap.md",
+      "text": "鲁道夫·卡尔纳普 Rudolf Carnap (Hannes Leitgeb、André Carus)",
+      "indent": 0,
       "order": 546
     },
     {
       "kind": "link",
-      "path": "p/poincare.md",
-      "text": "亨利·庞加莱 Henri Poincaré (Gerhard Heinzmann、David Stump)",
+      "path": "h/hempel.md",
+      "text": "卡尔·G·亨普尔 Carl Hempel (James Fetzer)",
       "indent": 0,
       "order": 547
     },
@@ -3846,78 +3846,78 @@
     },
     {
       "kind": "link",
-      "path": "s/schlick.md",
-      "text": "莫里茨·石里克 Moritz Schlick (Thomas Oberdan、Friedrich Stadler)",
+      "path": "a/ayer.md",
+      "text": "阿尔弗雷德·朱尔斯·艾耶尔 Alfred Jules Ayer (Graham Macdonald、Ádám Tamás Tuboly、Nikhil Krishnan)",
       "indent": 0,
       "order": 549
     },
     {
       "kind": "link",
-      "path": "n/neurath.md",
-      "text": "奥托·纽拉特 Otto Neurath (Jordi Cat)",
+      "path": "r/reichenbach.md",
+      "text": "汉斯·赖兴巴赫 Hans Reichenbach (Clark Glymour、Frederick Eberhardt)",
       "indent": 0,
       "order": 550
     },
     {
       "kind": "link",
-      "path": "c/carnap.md",
-      "text": "鲁道夫·卡尔纳普 Rudolf Carnap (Hannes Leitgeb、André Carus)",
-      "indent": 0,
+      "path": "p/physics-Rpcc.md",
+      "text": "汉斯·赖兴巴赫的共同原因原理 Reichenbach’s Common Cause Principle (Christopher Hitchcock、Miklós Rédei)",
+      "indent": 2,
       "order": 551
     },
     {
       "kind": "link",
-      "path": "v/vienna-circle.md",
-      "text": "维也纳学派 Vienna Circle (Thomas Uebel)",
+      "path": "p/poincare.md",
+      "text": "亨利·庞加莱 Henri Poincaré (Gerhard Heinzmann、David Stump)",
       "indent": 0,
       "order": 552
     },
     {
       "kind": "link",
-      "path": "h/harriet-mill.md",
-      "text": "哈丽雅特·泰勒·密尔 Harriet Taylor Mill (Dale E. Miller)",
+      "path": "u/utilitarianism-history.md",
+      "text": "功利主义史 The History of Utilitarianism (Julia Driver)",
       "indent": 0,
       "order": 553
-    },
-    {
-      "kind": "link",
-      "path": "s/sidgwick.md",
-      "text": "亨利·西季威克 Henry Sidgwick (Barton Schultz)",
-      "indent": 0,
-      "order": 554
-    },
-    {
-      "kind": "link",
-      "path": "j/james-mill.md",
-      "text": "詹姆斯·密尔 James Mill (Terence Ball、Antis Loizides)",
-      "indent": 0,
-      "order": 555
     },
     {
       "kind": "link",
       "path": "b/bentham.md",
       "text": "杰里米·边沁 Jeremy Bentham (James E. Crimmins)",
       "indent": 0,
-      "order": 556
+      "order": 554
     },
     {
       "kind": "link",
       "path": "m/mill.md",
       "text": "约翰·斯图亚特·穆勒 John Stuart Mill (Christopher Macleod)",
       "indent": 0,
-      "order": 557
+      "order": 555
     },
     {
       "kind": "link",
       "path": "m/mill-moral-political.md",
       "text": "穆勒的伦理学和政治哲学 Mill’s Moral and Political Philosophy (David Brink)",
       "indent": 2,
+      "order": 556
+    },
+    {
+      "kind": "link",
+      "path": "j/james-mill.md",
+      "text": "詹姆斯·密尔 James Mill (Terence Ball、Antis Loizides)",
+      "indent": 0,
+      "order": 557
+    },
+    {
+      "kind": "link",
+      "path": "h/harriet-mill.md",
+      "text": "哈丽雅特·泰勒·密尔 Harriet Taylor Mill (Dale E. Miller)",
+      "indent": 0,
       "order": 558
     },
     {
       "kind": "link",
-      "path": "u/utilitarianism-history.md",
-      "text": "功利主义史 The History of Utilitarianism (Julia Driver)",
+      "path": "s/sidgwick.md",
+      "text": "亨利·西季威克 Henry Sidgwick (Barton Schultz)",
       "indent": 0,
       "order": 559
     },
@@ -3937,148 +3937,148 @@
     },
     {
       "kind": "link",
-      "path": "c/cassirer.md",
-      "text": "恩斯特·卡西尔 Ernst Cassirer (Michael Friedman)",
+      "path": "n/neo-kantianism.md",
+      "text": "新康德主义 Neo-Kantianism (Jeremy Heis)",
       "indent": 0,
       "order": 562
-    },
-    {
-      "kind": "link",
-      "path": "f/friedrich-lange.md",
-      "text": "弗里德里希·阿尔贝特·朗格 Friedrich Albert Lange (Nadeem J. Z. Hussain、Lydia Patton、Elisabeth Widmer)",
-      "indent": 0,
-      "order": 563
-    },
-    {
-      "kind": "link",
-      "path": "v/vaihinger.md",
-      "text": "汉斯·费英格 Hans Vaihinger (Timothy Stoll)",
-      "indent": 0,
-      "order": 564
-    },
-    {
-      "kind": "link",
-      "path": "h/heinrich-rickert.md",
-      "text": "海因里希·李凯尔特 Heinrich Rickert (Andrea Staiti、Luca Oliva)",
-      "indent": 0,
-      "order": 565
     },
     {
       "kind": "link",
       "path": "c/cohen.md",
       "text": "赫尔曼·科恩 Hermann Cohen (Scott Edgar)",
       "indent": 0,
-      "order": 566
-    },
-    {
-      "kind": "link",
-      "path": "h/hermann-lotze.md",
-      "text": "赫尔曼·洛采 Hermann Lotze (David Sullivan)",
-      "indent": 0,
-      "order": 567
-    },
-    {
-      "kind": "link",
-      "path": "n/neo-kantianism.md",
-      "text": "新康德主义 Neo-Kantianism (Jeremy Heis)",
-      "indent": 0,
-      "order": 568
+      "order": 563
     },
     {
       "kind": "link",
       "path": "n/natorp.md",
       "text": "保罗·那托普 Paul Natorp (Alan Kim)",
       "indent": 0,
-      "order": 569
+      "order": 564
+    },
+    {
+      "kind": "link",
+      "path": "c/cassirer.md",
+      "text": "恩斯特·卡西尔 Ernst Cassirer (Michael Friedman)",
+      "indent": 0,
+      "order": 565
+    },
+    {
+      "kind": "link",
+      "path": "h/heinrich-rickert.md",
+      "text": "海因里希·李凯尔特 Heinrich Rickert (Andrea Staiti、Luca Oliva)",
+      "indent": 0,
+      "order": 566
     },
     {
       "kind": "link",
       "path": "w/wilhelm-windelband.md",
       "text": "威廉·文德尔班 Wilhelm Windelband (Katherina Kinzel)",
       "indent": 0,
-      "order": 570
+      "order": 567
     },
     {
       "kind": "link",
-      "path": "b/bosanquet.md",
-      "text": "伯纳德·鲍桑葵 Bernard Bosanquet (William Sweet)",
+      "path": "f/friedrich-lange.md",
+      "text": "弗里德里希·阿尔贝特·朗格 Friedrich Albert Lange (Nadeem J. Z. Hussain、Lydia Patton、Elisabeth Widmer)",
       "indent": 0,
-      "order": 571
+      "order": 568
+    },
+    {
+      "kind": "link",
+      "path": "v/vaihinger.md",
+      "text": "汉斯·费英格 Hans Vaihinger (Timothy Stoll)",
+      "indent": 0,
+      "order": 569
+    },
+    {
+      "kind": "link",
+      "path": "h/hermann-lotze.md",
+      "text": "赫尔曼·洛采 Hermann Lotze (David Sullivan)",
+      "indent": 0,
+      "order": 570
     },
     {
       "kind": "link",
       "path": "b/bradley.md",
       "text": "弗朗西斯·赫伯特·布拉德雷 Francis Herbert Bradley (Stewart Candlish、Pierfrancesco Basile)",
       "indent": 0,
-      "order": 572
+      "order": 571
     },
     {
       "kind": "link",
       "path": "b/bradley-moral.md",
       "text": "布拉德雷的伦理学 Bradley’s Moral Philosophy (Dina Babushkina、David Crossley)",
       "indent": 2,
-      "order": 573
+      "order": 572
     },
     {
       "kind": "link",
       "path": "b/bradley-regress.md",
       "text": "布拉德雷倒退 Bradley’s Regress (Katarina Perovic)",
       "indent": 2,
+      "order": 573
+    },
+    {
+      "kind": "link",
+      "path": "b/bosanquet.md",
+      "text": "伯纳德·鲍桑葵 Bernard Bosanquet (William Sweet)",
+      "indent": 0,
       "order": 574
     },
     {
       "kind": "link",
-      "path": "j/james-ward.md",
-      "text": "詹姆斯·沃德 James Ward (Pierfrancesco Basile)",
+      "path": "g/green.md",
+      "text": "托马斯·希尔·格林 Thomas Hill Green (David Brink)",
       "indent": 0,
       "order": 575
-    },
-    {
-      "kind": "link",
-      "path": "a/anderson-john.md",
-      "text": "约翰·安德森 John Anderson (Creagh McLean Cole)",
-      "indent": 0,
-      "order": 576
     },
     {
       "kind": "link",
       "path": "m/mctaggart.md",
       "text": "约翰·麦克塔格特 John M. E. McTaggart (Kris McDaniel)",
       "indent": 0,
-      "order": 577
-    },
-    {
-      "kind": "link",
-      "path": "p/personalism.md",
-      "text": "人格主义 Personalism (Thomas D. Williams、Jan Olof Bengtsson)",
-      "indent": 0,
-      "order": 578
+      "order": 576
     },
     {
       "kind": "link",
       "path": "c/collingwood.md",
       "text": "罗宾·乔治·柯林武德 Robin George Collingwood (Giuseppina D’Oro、James Connelly)",
       "indent": 0,
-      "order": 579
+      "order": 577
     },
     {
       "kind": "link",
       "path": "c/collingwood-aesthetics.md",
       "text": "罗宾·乔治·柯林武德的美学 Collingwood’s Aesthetics (Gary Kemp)",
       "indent": 2,
-      "order": 580
+      "order": 578
     },
     {
       "kind": "link",
       "path": "a/alexander.md",
       "text": "塞缪尔·亚历山大 Samuel Alexander (Emily A. E. Thomas)",
       "indent": 0,
+      "order": 579
+    },
+    {
+      "kind": "link",
+      "path": "j/james-ward.md",
+      "text": "詹姆斯·沃德 James Ward (Pierfrancesco Basile)",
+      "indent": 0,
+      "order": 580
+    },
+    {
+      "kind": "link",
+      "path": "a/anderson-john.md",
+      "text": "约翰·安德森 John Anderson (Creagh McLean Cole)",
+      "indent": 0,
       "order": 581
     },
     {
       "kind": "link",
-      "path": "g/green.md",
-      "text": "托马斯·希尔·格林 Thomas Hill Green (David Brink)",
+      "path": "p/personalism.md",
+      "text": "人格主义 Personalism (Thomas D. Williams、Jan Olof Bengtsson)",
       "indent": 0,
       "order": 582
     },
@@ -4091,22 +4091,22 @@
     },
     {
       "kind": "link",
-      "path": "m/marcuse.md",
-      "text": "赫伯特·马尔库塞 Herbert Marcuse (Arnold Farr)",
+      "path": "h/horkheimer.md",
+      "text": "马克斯·霍克海默 Max Horkheimer (J.C. Berendzen)",
       "indent": 0,
       "order": 584
     },
     {
       "kind": "link",
-      "path": "h/habermas.md",
-      "text": "尤尔根·哈贝马斯 Jürgen Habermas (James Gordon Finlayson、Dafydd Huw Rees)",
+      "path": "a/adorno.md",
+      "text": "西奥多·W·阿多诺 Theodor W. Adorno (Henry Pickford、Lambert Zuidervaart)",
       "indent": 0,
       "order": 585
     },
     {
       "kind": "link",
-      "path": "h/horkheimer.md",
-      "text": "马克斯·霍克海默 Max Horkheimer (J.C. Berendzen)",
+      "path": "m/marcuse.md",
+      "text": "赫伯特·马尔库塞 Herbert Marcuse (Arnold Farr)",
       "indent": 0,
       "order": 586
     },
@@ -4119,64 +4119,64 @@
     },
     {
       "kind": "link",
-      "path": "a/adorno.md",
-      "text": "西奥多·W·阿多诺 Theodor W. Adorno (Henry Pickford、Lambert Zuidervaart)",
+      "path": "h/habermas.md",
+      "text": "尤尔根·哈贝马斯 Jürgen Habermas (James Gordon Finlayson、Dafydd Huw Rees)",
       "indent": 0,
       "order": 588
-    },
-    {
-      "kind": "link",
-      "path": "a/antonio-rosmini.md",
-      "text": "安东尼奥·罗斯米尼 Antonio Rosmini (Denis Cleary)",
-      "indent": 0,
-      "order": 589
-    },
-    {
-      "kind": "link",
-      "path": "a/ayn-rand.md",
-      "text": "安·兰德 Ayn Rand (Neera K. Badhwar、Roderick T. Long)",
-      "indent": 0,
-      "order": 590
-    },
-    {
-      "kind": "link",
-      "path": "s/schmitt.md",
-      "text": "卡尔·施米特 Carl Schmitt (Lars Vinx)",
-      "indent": 0,
-      "order": 591
-    },
-    {
-      "kind": "link",
-      "path": "f/friedrich-hayek.md",
-      "text": "弗里德里希·哈耶克 Friedrich Hayek (David Schmidtz、Peter Boettke)",
-      "indent": 0,
-      "order": 592
-    },
-    {
-      "kind": "link",
-      "path": "a/arendt.md",
-      "text": "汉娜·阿伦特 Hannah Arendt (Tatjana Tömmel、Maurizio Passerin d’Entreves)",
-      "indent": 0,
-      "order": 593
-    },
-    {
-      "kind": "link",
-      "path": "m/maritain.md",
-      "text": "雅克·马里坦 Jacques Maritain (William Sweet)",
-      "indent": 0,
-      "order": 594
     },
     {
       "kind": "link",
       "path": "r/rawls.md",
       "text": "约翰·罗尔斯 John Rawls (Leif Wenar)",
       "indent": 0,
-      "order": 595
+      "order": 589
+    },
+    {
+      "kind": "link",
+      "path": "n/nozick-political.md",
+      "text": "罗伯特·诺齐克的政治哲学 Robert Nozick’s Political Philosophy (Eric Mack)",
+      "indent": 0,
+      "order": 590
+    },
+    {
+      "kind": "link",
+      "path": "a/ayn-rand.md",
+      "text": "安·兰德 Ayn Rand (Neera K. Badhwar、Roderick T. Long)",
+      "indent": 0,
+      "order": 591
+    },
+    {
+      "kind": "link",
+      "path": "s/schmitt.md",
+      "text": "卡尔·施米特 Carl Schmitt (Lars Vinx)",
+      "indent": 0,
+      "order": 592
     },
     {
       "kind": "link",
       "path": "s/strauss-leo.md",
       "text": "列奥·施特劳斯 Leo Strauss (Leora Batnitzky)",
+      "indent": 0,
+      "order": 593
+    },
+    {
+      "kind": "link",
+      "path": "o/oakeshott.md",
+      "text": "迈克尔·奥克肖特 Michael Oakeshott (Terry Nardin)",
+      "indent": 0,
+      "order": 594
+    },
+    {
+      "kind": "link",
+      "path": "m/maritain.md",
+      "text": "雅克·马里坦 Jacques Maritain (William Sweet)",
+      "indent": 0,
+      "order": 595
+    },
+    {
+      "kind": "link",
+      "path": "a/antonio-rosmini.md",
+      "text": "安东尼奥·罗斯米尼 Antonio Rosmini (Denis Cleary)",
       "indent": 0,
       "order": 596
     },
@@ -4189,15 +4189,15 @@
     },
     {
       "kind": "link",
-      "path": "o/oakeshott.md",
-      "text": "迈克尔·奥克肖特 Michael Oakeshott (Terry Nardin)",
+      "path": "a/arendt.md",
+      "text": "汉娜·阿伦特 Hannah Arendt (Tatjana Tömmel、Maurizio Passerin d’Entreves)",
       "indent": 0,
       "order": 598
     },
     {
       "kind": "link",
-      "path": "n/nozick-political.md",
-      "text": "罗伯特·诺齐克的政治哲学 Robert Nozick’s Political Philosophy (Eric Mack)",
+      "path": "f/friedrich-hayek.md",
+      "text": "弗里德里希·哈耶克 Friedrich Hayek (David Schmidtz、Peter Boettke)",
       "indent": 0,
       "order": 599
     },
@@ -4210,36 +4210,36 @@
     },
     {
       "kind": "link",
-      "path": "d/deleuze.md",
-      "text": "吉尔·德勒兹 Gilles Deleuze (Daniel Smith、John Protevi、Daniela Voss)",
+      "path": "p/postmodernism.md",
+      "text": "后现代主义 Postmodernism (Gary Aylesworth)",
       "indent": 0,
       "order": 601
-    },
-    {
-      "kind": "link",
-      "path": "b/baudrillard.md",
-      "text": "让·鲍德里亚 Jean Baudrillard (Douglas Kellner)",
-      "indent": 0,
-      "order": 602
-    },
-    {
-      "kind": "link",
-      "path": "l/lyotard.md",
-      "text": "让-弗朗索瓦·利奥塔 Jean François Lyotard (Peter Gratton)",
-      "indent": 0,
-      "order": 603
     },
     {
       "kind": "link",
       "path": "f/foucault.md",
       "text": "米歇尔·福柯 Michel Foucault (Gary Gutting、Johanna Oksala)",
       "indent": 0,
+      "order": 602
+    },
+    {
+      "kind": "link",
+      "path": "d/deleuze.md",
+      "text": "吉尔·德勒兹 Gilles Deleuze (Daniel Smith、John Protevi、Daniela Voss)",
+      "indent": 0,
+      "order": 603
+    },
+    {
+      "kind": "link",
+      "path": "l/lyotard.md",
+      "text": "让-弗朗索瓦·利奥塔 Jean François Lyotard (Peter Gratton)",
+      "indent": 0,
       "order": 604
     },
     {
       "kind": "link",
-      "path": "p/postmodernism.md",
-      "text": "后现代主义 Postmodernism (Gary Aylesworth)",
+      "path": "b/baudrillard.md",
+      "text": "让·鲍德里亚 Jean Baudrillard (Douglas Kellner)",
       "indent": 0,
       "order": 605
     },
@@ -13258,6 +13258,26 @@
         ""
       ],
       [
+        10,
+        "##### 柏拉图"
+      ],
+      [
+        10,
+        ""
+      ],
+      [
+        25,
+        ""
+      ],
+      [
+        25,
+        "##### 学园后继者"
+      ],
+      [
+        25,
+        ""
+      ],
+      [
         27,
         ""
       ],
@@ -13267,6 +13287,26 @@
       ],
       [
         27,
+        ""
+      ],
+      [
+        27,
+        "##### 亚里士多德"
+      ],
+      [
+        27,
+        ""
+      ],
+      [
+        44,
+        ""
+      ],
+      [
+        44,
+        "##### 逍遥学派"
+      ],
+      [
+        44,
         ""
       ],
       [
@@ -13294,6 +13334,26 @@
         ""
       ],
       [
+        46,
+        "##### 智者总论"
+      ],
+      [
+        46,
+        ""
+      ],
+      [
+        48,
+        ""
+      ],
+      [
+        48,
+        "##### 修辞与政治论辩"
+      ],
+      [
+        48,
+        ""
+      ],
+      [
         49,
         ""
       ],
@@ -13303,6 +13363,26 @@
       ],
       [
         49,
+        ""
+      ],
+      [
+        49,
+        "##### 辩证学派"
+      ],
+      [
+        49,
+        ""
+      ],
+      [
+        51,
+        ""
+      ],
+      [
+        51,
+        "##### 昔勒尼学派"
+      ],
+      [
+        51,
         ""
       ],
       [
@@ -13338,6 +13418,38 @@
         ""
       ],
       [
+        54,
+        "##### 爱利亚学派"
+      ],
+      [
+        54,
+        ""
+      ],
+      [
+        58,
+        ""
+      ],
+      [
+        58,
+        "##### 毕达哥拉斯主义"
+      ],
+      [
+        58,
+        ""
+      ],
+      [
+        62,
+        ""
+      ],
+      [
+        62,
+        "##### 早期医学与自然哲学"
+      ],
+      [
+        62,
+        ""
+      ],
+      [
         63,
         ""
       ],
@@ -13347,6 +13459,26 @@
       ],
       [
         63,
+        ""
+      ],
+      [
+        63,
+        "##### 多元论"
+      ],
+      [
+        63,
+        ""
+      ],
+      [
+        65,
+        ""
+      ],
+      [
+        65,
+        "##### 原子论"
+      ],
+      [
+        65,
         ""
       ],
       [
@@ -13370,6 +13502,26 @@
         ""
       ],
       [
+        68,
+        "##### 伊壁鸠鲁"
+      ],
+      [
+        68,
+        ""
+      ],
+      [
+        69,
+        ""
+      ],
+      [
+        69,
+        "##### 罗马伊壁鸠鲁主义"
+      ],
+      [
+        69,
+        ""
+      ],
+      [
         71,
         ""
       ],
@@ -13379,6 +13531,26 @@
       ],
       [
         71,
+        ""
+      ],
+      [
+        71,
+        "##### 斯多葛主义总论"
+      ],
+      [
+        71,
+        ""
+      ],
+      [
+        72,
+        ""
+      ],
+      [
+        72,
+        "##### 罗马斯多亚"
+      ],
+      [
+        72,
         ""
       ],
       [
@@ -13394,6 +13566,26 @@
         ""
       ],
       [
+        75,
+        "##### 学园怀疑主义"
+      ],
+      [
+        75,
+        ""
+      ],
+      [
+        79,
+        ""
+      ],
+      [
+        79,
+        "##### 皮浪主义"
+      ],
+      [
+        79,
+        ""
+      ],
+      [
         82,
         ""
       ],
@@ -13403,6 +13595,38 @@
       ],
       [
         82,
+        ""
+      ],
+      [
+        82,
+        "##### 总论与先驱"
+      ],
+      [
+        82,
+        ""
+      ],
+      [
+        88,
+        ""
+      ],
+      [
+        88,
+        "##### 雅典学派"
+      ],
+      [
+        88,
+        ""
+      ],
+      [
+        92,
+        ""
+      ],
+      [
+        92,
+        "##### 亚历山大里亚与晚期评注"
+      ],
+      [
+        92,
         ""
       ],
       [
@@ -13418,6 +13642,38 @@
         ""
       ],
       [
+        95,
+        "##### 逍遥派评注"
+      ],
+      [
+        95,
+        ""
+      ],
+      [
+        96,
+        ""
+      ],
+      [
+        96,
+        "##### 罗马折衷主义"
+      ],
+      [
+        96,
+        ""
+      ],
+      [
+        97,
+        ""
+      ],
+      [
+        97,
+        "##### 医学与哲学"
+      ],
+      [
+        97,
+        ""
+      ],
+      [
         98,
         ""
       ],
@@ -13427,6 +13683,50 @@
       ],
       [
         98,
+        ""
+      ],
+      [
+        98,
+        "#### 伦理学与政治"
+      ],
+      [
+        98,
+        ""
+      ],
+      [
+        100,
+        ""
+      ],
+      [
+        100,
+        "#### 逻辑、科学与知识"
+      ],
+      [
+        100,
+        ""
+      ],
+      [
+        102,
+        ""
+      ],
+      [
+        102,
+        "#### 灵魂、自由与意向性"
+      ],
+      [
+        102,
+        ""
+      ],
+      [
+        105,
+        ""
+      ],
+      [
+        105,
+        "#### 怀疑论与学述"
+      ],
+      [
+        105,
         ""
       ],
       [
@@ -13498,6 +13798,26 @@
         ""
       ],
       [
+        109,
+        "##### 波爱修斯"
+      ],
+      [
+        109,
+        ""
+      ],
+      [
+        110,
+        ""
+      ],
+      [
+        110,
+        "##### 伪狄奥尼修斯"
+      ],
+      [
+        110,
+        ""
+      ],
+      [
         111,
         ""
       ],
@@ -13538,6 +13858,26 @@
         ""
       ],
       [
+        112,
+        "##### 安瑟伦"
+      ],
+      [
+        112,
+        ""
+      ],
+      [
+        113,
+        ""
+      ],
+      [
+        113,
+        "##### 辩证法之争"
+      ],
+      [
+        113,
+        ""
+      ],
+      [
         114,
         ""
       ],
@@ -13550,6 +13890,26 @@
         ""
       ],
       [
+        114,
+        "##### 阿伯拉尔"
+      ],
+      [
+        114,
+        ""
+      ],
+      [
+        115,
+        ""
+      ],
+      [
+        115,
+        "##### 共相之争"
+      ],
+      [
+        115,
+        ""
+      ],
+      [
         118,
         ""
       ],
@@ -13559,6 +13919,26 @@
       ],
       [
         118,
+        ""
+      ],
+      [
+        118,
+        "##### 12 世纪人文主义"
+      ],
+      [
+        118,
+        ""
+      ],
+      [
+        119,
+        ""
+      ],
+      [
+        119,
+        "##### 逻辑学派"
+      ],
+      [
+        119,
         ""
       ],
       [
@@ -13622,6 +14002,26 @@
         ""
       ],
       [
+        125,
+        "##### 托马斯·阿奎那"
+      ],
+      [
+        125,
+        ""
+      ],
+      [
+        127,
+        ""
+      ],
+      [
+        127,
+        "##### 托马斯学派"
+      ],
+      [
+        127,
+        ""
+      ],
+      [
         128,
         ""
       ],
@@ -13631,6 +14031,26 @@
       ],
       [
         128,
+        ""
+      ],
+      [
+        128,
+        "##### 波纳文图拉"
+      ],
+      [
+        128,
+        ""
+      ],
+      [
+        129,
+        ""
+      ],
+      [
+        129,
+        "##### 方济各传统"
+      ],
+      [
+        129,
         ""
       ],
       [
@@ -13646,6 +14066,26 @@
         ""
       ],
       [
+        131,
+        "##### 根特的亨利"
+      ],
+      [
+        131,
+        ""
+      ],
+      [
+        132,
+        ""
+      ],
+      [
+        132,
+        "##### 奥古斯丁主义复兴"
+      ],
+      [
+        132,
+        ""
+      ],
+      [
         134,
         ""
       ],
@@ -13655,6 +14095,26 @@
       ],
       [
         134,
+        ""
+      ],
+      [
+        134,
+        "##### 逻辑与语言"
+      ],
+      [
+        134,
+        ""
+      ],
+      [
+        142,
+        ""
+      ],
+      [
+        142,
+        "##### 自然哲学与百科"
+      ],
+      [
+        142,
         ""
       ],
       [
@@ -13675,6 +14135,26 @@
       ],
       [
         145,
+        ""
+      ],
+      [
+        145,
+        "##### 1277 年谴责"
+      ],
+      [
+        145,
+        ""
+      ],
+      [
+        146,
+        ""
+      ],
+      [
+        146,
+        "##### 谴责前后"
+      ],
+      [
+        146,
         ""
       ],
       [
@@ -13710,6 +14190,38 @@
         ""
       ],
       [
+        151,
+        "##### 奥卡姆"
+      ],
+      [
+        151,
+        ""
+      ],
+      [
+        152,
+        ""
+      ],
+      [
+        152,
+        "##### 奥康主义与唯名论"
+      ],
+      [
+        152,
+        ""
+      ],
+      [
+        156,
+        ""
+      ],
+      [
+        156,
+        "##### 批评者"
+      ],
+      [
+        156,
+        ""
+      ],
+      [
         160,
         ""
       ],
@@ -13730,6 +14242,26 @@
         ""
       ],
       [
+        160,
+        "##### 布里丹与巴黎"
+      ],
+      [
+        160,
+        ""
+      ],
+      [
+        163,
+        ""
+      ],
+      [
+        163,
+        "##### 牛津计算"
+      ],
+      [
+        163,
+        ""
+      ],
+      [
         166,
         ""
       ],
@@ -13739,6 +14271,26 @@
       ],
       [
         166,
+        ""
+      ],
+      [
+        166,
+        "##### 威克里夫"
+      ],
+      [
+        166,
+        ""
+      ],
+      [
+        167,
+        ""
+      ],
+      [
+        167,
+        "##### 宗教改革前夜"
+      ],
+      [
+        167,
         ""
       ],
       [
@@ -13754,6 +14306,26 @@
         ""
       ],
       [
+        168,
+        "##### 埃克哈特"
+      ],
+      [
+        168,
+        ""
+      ],
+      [
+        169,
+        ""
+      ],
+      [
+        169,
+        "##### 莱茵兰神秘主义"
+      ],
+      [
+        169,
+        ""
+      ],
+      [
         170,
         ""
       ],
@@ -13766,6 +14338,26 @@
         ""
       ],
       [
+        170,
+        "#### 拜占庭哲学总论"
+      ],
+      [
+        170,
+        ""
+      ],
+      [
+        171,
+        ""
+      ],
+      [
+        171,
+        "#### 拜占庭亚里士多德主义"
+      ],
+      [
+        171,
+        ""
+      ],
+      [
         174,
         ""
       ],
@@ -13775,6 +14367,62 @@
       ],
       [
         174,
+        ""
+      ],
+      [
+        174,
+        "#### 总论与文学形式"
+      ],
+      [
+        174,
+        ""
+      ],
+      [
+        176,
+        ""
+      ],
+      [
+        176,
+        "#### 逻辑与语言"
+      ],
+      [
+        176,
+        ""
+      ],
+      [
+        186,
+        ""
+      ],
+      [
+        186,
+        "#### 形而上学"
+      ],
+      [
+        186,
+        ""
+      ],
+      [
+        191,
+        ""
+      ],
+      [
+        191,
+        "#### 心灵与伦理"
+      ],
+      [
+        191,
+        ""
+      ],
+      [
+        198,
+        ""
+      ],
+      [
+        198,
+        "#### 政治、宗教与符号"
+      ],
+      [
+        198,
         ""
       ],
       [
@@ -13798,6 +14446,38 @@
         ""
       ],
       [
+        202,
+        "#### 人文主义"
+      ],
+      [
+        202,
+        ""
+      ],
+      [
+        207,
+        ""
+      ],
+      [
+        207,
+        "#### 政治哲学"
+      ],
+      [
+        207,
+        ""
+      ],
+      [
+        211,
+        ""
+      ],
+      [
+        211,
+        "#### 女性人文主义与怀疑论"
+      ],
+      [
+        211,
+        ""
+      ],
+      [
         214,
         ""
       ],
@@ -13818,6 +14498,38 @@
         ""
       ],
       [
+        214,
+        "##### 费奇诺与佛罗伦萨"
+      ],
+      [
+        214,
+        ""
+      ],
+      [
+        217,
+        ""
+      ],
+      [
+        217,
+        "##### 库萨与帕特里齐"
+      ],
+      [
+        217,
+        ""
+      ],
+      [
+        219,
+        ""
+      ],
+      [
+        219,
+        "##### 拜占庭流亡者"
+      ],
+      [
+        219,
+        ""
+      ],
+      [
         220,
         ""
       ],
@@ -13827,6 +14539,38 @@
       ],
       [
         220,
+        ""
+      ],
+      [
+        220,
+        "##### 意大利亚里士多德主义"
+      ],
+      [
+        220,
+        ""
+      ],
+      [
+        223,
+        ""
+      ],
+      [
+        223,
+        "##### 伊比利亚经院哲学"
+      ],
+      [
+        223,
+        ""
+      ],
+      [
+        226,
+        ""
+      ],
+      [
+        226,
+        "##### 总论"
+      ],
+      [
+        226,
         ""
       ],
       [
@@ -13851,6 +14595,50 @@
       ],
       [
         229,
+        ""
+      ],
+      [
+        229,
+        "#### 自然哲学总论与意大利自然主义"
+      ],
+      [
+        229,
+        ""
+      ],
+      [
+        234,
+        ""
+      ],
+      [
+        234,
+        "#### 天文学革命"
+      ],
+      [
+        234,
+        ""
+      ],
+      [
+        237,
+        ""
+      ],
+      [
+        237,
+        "#### 布鲁诺与秘传传统"
+      ],
+      [
+        237,
+        ""
+      ],
+      [
+        239,
+        ""
+      ],
+      [
+        239,
+        "#### 怀疑论与科学方法"
+      ],
+      [
+        239,
         ""
       ],
       [
@@ -13894,6 +14682,74 @@
         ""
       ],
       [
+        241,
+        "##### 笛卡尔"
+      ],
+      [
+        241,
+        ""
+      ],
+      [
+        251,
+        ""
+      ],
+      [
+        251,
+        "##### 笛卡尔学派"
+      ],
+      [
+        251,
+        ""
+      ],
+      [
+        261,
+        ""
+      ],
+      [
+        261,
+        "##### 帕斯卡"
+      ],
+      [
+        261,
+        ""
+      ],
+      [
+        263,
+        ""
+      ],
+      [
+        263,
+        "##### 马勒伯朗士与偶因论"
+      ],
+      [
+        263,
+        ""
+      ],
+      [
+        266,
+        ""
+      ],
+      [
+        266,
+        "##### 女性哲学与接受史"
+      ],
+      [
+        266,
+        ""
+      ],
+      [
+        269,
+        ""
+      ],
+      [
+        269,
+        "##### 17 世纪专题"
+      ],
+      [
+        269,
+        ""
+      ],
+      [
         273,
         ""
       ],
@@ -13903,6 +14759,38 @@
       ],
       [
         273,
+        ""
+      ],
+      [
+        273,
+        "##### 莱布尼茨"
+      ],
+      [
+        273,
+        ""
+      ],
+      [
+        283,
+        ""
+      ],
+      [
+        283,
+        "##### 沃尔夫与学派"
+      ],
+      [
+        283,
+        ""
+      ],
+      [
+        284,
+        ""
+      ],
+      [
+        284,
+        "##### 夏特莱"
+      ],
+      [
+        284,
         ""
       ],
       [
@@ -13930,6 +14818,38 @@
         ""
       ],
       [
+        292,
+        "##### 总论"
+      ],
+      [
+        292,
+        ""
+      ],
+      [
+        293,
+        ""
+      ],
+      [
+        293,
+        "##### 库德沃斯与莫尔"
+      ],
+      [
+        293,
+        ""
+      ],
+      [
+        295,
+        ""
+      ],
+      [
+        295,
+        "##### 康威"
+      ],
+      [
+        295,
+        ""
+      ],
+      [
         296,
         ""
       ],
@@ -13947,6 +14867,26 @@
       ],
       [
         296,
+        ""
+      ],
+      [
+        296,
+        "##### 洛克"
+      ],
+      [
+        296,
+        ""
+      ],
+      [
+        304,
+        ""
+      ],
+      [
+        304,
+        "##### 早期女性哲学"
+      ],
+      [
+        304,
         ""
       ],
       [
@@ -13974,6 +14914,38 @@
         ""
       ],
       [
+        311,
+        "##### 培根与霍布斯"
+      ],
+      [
+        311,
+        ""
+      ],
+      [
+        315,
+        ""
+      ],
+      [
+        315,
+        "##### 自然哲学家"
+      ],
+      [
+        315,
+        ""
+      ],
+      [
+        320,
+        ""
+      ],
+      [
+        320,
+        "##### 卡文迪许"
+      ],
+      [
+        320,
+        ""
+      ],
+      [
         321,
         ""
       ],
@@ -13998,6 +14970,26 @@
         ""
       ],
       [
+        322,
+        "##### 里德"
+      ],
+      [
+        322,
+        ""
+      ],
+      [
+        326,
+        ""
+      ],
+      [
+        326,
+        "##### 19 世纪苏格兰哲学"
+      ],
+      [
+        326,
+        ""
+      ],
+      [
         327,
         ""
       ],
@@ -14007,6 +14999,38 @@
       ],
       [
         327,
+        ""
+      ],
+      [
+        327,
+        "##### 道德感与理性主义伦理学"
+      ],
+      [
+        327,
+        ""
+      ],
+      [
+        330,
+        ""
+      ],
+      [
+        330,
+        "##### 宗教与自然神论"
+      ],
+      [
+        330,
+        ""
+      ],
+      [
+        333,
+        ""
+      ],
+      [
+        333,
+        "##### 联想主义与女性哲学"
+      ],
+      [
+        333,
         ""
       ],
       [
@@ -14030,6 +15054,38 @@
         ""
       ],
       [
+        337,
+        "##### 启蒙总论与百科全书派"
+      ],
+      [
+        337,
+        ""
+      ],
+      [
+        340,
+        ""
+      ],
+      [
+        340,
+        "##### 政治与社会理论"
+      ],
+      [
+        340,
+        ""
+      ],
+      [
+        342,
+        ""
+      ],
+      [
+        342,
+        "##### 感性主义与知识论"
+      ],
+      [
+        342,
+        ""
+      ],
+      [
         346,
         ""
       ],
@@ -14039,6 +15095,26 @@
       ],
       [
         346,
+        ""
+      ],
+      [
+        346,
+        "##### 道德感学派"
+      ],
+      [
+        346,
+        ""
+      ],
+      [
+        348,
+        ""
+      ],
+      [
+        348,
+        "##### 政治经济学与道德哲学"
+      ],
+      [
+        348,
         ""
       ],
       [
@@ -14054,6 +15130,26 @@
         ""
       ],
       [
+        350,
+        "##### 前康德德国哲学"
+      ],
+      [
+        350,
+        ""
+      ],
+      [
+        351,
+        ""
+      ],
+      [
+        351,
+        "##### 哈曼"
+      ],
+      [
+        351,
+        ""
+      ],
+      [
         352,
         ""
       ],
@@ -14063,6 +15159,38 @@
       ],
       [
         352,
+        ""
+      ],
+      [
+        352,
+        "##### 自然法"
+      ],
+      [
+        352,
+        ""
+      ],
+      [
+        354,
+        ""
+      ],
+      [
+        354,
+        "##### 社会契约与革命"
+      ],
+      [
+        354,
+        ""
+      ],
+      [
+        357,
+        ""
+      ],
+      [
+        357,
+        "##### 女性权利与共和主义"
+      ],
+      [
+        357,
         ""
       ],
       [
@@ -14083,6 +15211,26 @@
       ],
       [
         361,
+        ""
+      ],
+      [
+        361,
+        "##### 康德"
+      ],
+      [
+        361,
+        ""
+      ],
+      [
+        384,
+        ""
+      ],
+      [
+        384,
+        "##### 康德伦理学专题"
+      ],
+      [
+        384,
         ""
       ],
       [
@@ -14110,6 +15258,50 @@
         ""
       ],
       [
+        389,
+        "##### 费希特"
+      ],
+      [
+        389,
+        ""
+      ],
+      [
+        390,
+        ""
+      ],
+      [
+        390,
+        "##### 莱因霍尔德"
+      ],
+      [
+        390,
+        ""
+      ],
+      [
+        391,
+        ""
+      ],
+      [
+        391,
+        "##### 雅可比"
+      ],
+      [
+        391,
+        ""
+      ],
+      [
+        392,
+        ""
+      ],
+      [
+        392,
+        "##### 雷贝格"
+      ],
+      [
+        392,
+        ""
+      ],
+      [
         393,
         ""
       ],
@@ -14131,6 +15323,50 @@
       ],
       [
         394,
+        ""
+      ],
+      [
+        394,
+        "#### 赫尔德与浪漫派"
+      ],
+      [
+        394,
+        ""
+      ],
+      [
+        399,
+        ""
+      ],
+      [
+        399,
+        "#### 施莱尔马赫与诠释学"
+      ],
+      [
+        399,
+        ""
+      ],
+      [
+        400,
+        ""
+      ],
+      [
+        400,
+        "#### 洪堡与人文科学"
+      ],
+      [
+        400,
+        ""
+      ],
+      [
+        402,
+        ""
+      ],
+      [
+        402,
+        "#### 维柯"
+      ],
+      [
+        402,
         ""
       ],
       [
@@ -14162,6 +15398,86 @@
         ""
       ],
       [
+        403,
+        "##### 弗雷格"
+      ],
+      [
+        403,
+        ""
+      ],
+      [
+        407,
+        ""
+      ],
+      [
+        407,
+        "##### 罗素与逻辑原子主义"
+      ],
+      [
+        407,
+        ""
+      ],
+      [
+        415,
+        ""
+      ],
+      [
+        415,
+        "##### 摩尔"
+      ],
+      [
+        415,
+        ""
+      ],
+      [
+        417,
+        ""
+      ],
+      [
+        417,
+        "##### 维特根斯坦"
+      ],
+      [
+        417,
+        ""
+      ],
+      [
+        421,
+        ""
+      ],
+      [
+        421,
+        "##### 拉姆齐与剑桥"
+      ],
+      [
+        421,
+        ""
+      ],
+      [
+        425,
+        ""
+      ],
+      [
+        425,
+        "##### 牛津实在论"
+      ],
+      [
+        425,
+        ""
+      ],
+      [
+        427,
+        ""
+      ],
+      [
+        427,
+        "##### 逻辑与模态"
+      ],
+      [
+        427,
+        ""
+      ],
+      [
         428,
         ""
       ],
@@ -14171,6 +15487,50 @@
       ],
       [
         428,
+        ""
+      ],
+      [
+        428,
+        "##### 刘易斯"
+      ],
+      [
+        428,
+        ""
+      ],
+      [
+        430,
+        ""
+      ],
+      [
+        430,
+        "##### 剑桥与牛津"
+      ],
+      [
+        430,
+        ""
+      ],
+      [
+        432,
+        ""
+      ],
+      [
+        432,
+        "##### 澳洲实在论"
+      ],
+      [
+        432,
+        ""
+      ],
+      [
+        433,
+        ""
+      ],
+      [
+        433,
+        "##### 齐硕姆与芬德利"
+      ],
+      [
+        433,
         ""
       ],
       [
@@ -14186,6 +15546,62 @@
         ""
       ],
       [
+        435,
+        "##### 蒯因"
+      ],
+      [
+        435,
+        ""
+      ],
+      [
+        437,
+        ""
+      ],
+      [
+        437,
+        "##### 戴维森"
+      ],
+      [
+        437,
+        ""
+      ],
+      [
+        438,
+        ""
+      ],
+      [
+        438,
+        "##### 塞拉斯"
+      ],
+      [
+        438,
+        ""
+      ],
+      [
+        439,
+        ""
+      ],
+      [
+        439,
+        "##### 古德曼"
+      ],
+      [
+        439,
+        ""
+      ],
+      [
+        441,
+        ""
+      ],
+      [
+        441,
+        "##### 澳洲"
+      ],
+      [
+        441,
+        ""
+      ],
+      [
         442,
         ""
       ],
@@ -14198,6 +15614,38 @@
         ""
       ],
       [
+        442,
+        "##### 元伦理学"
+      ],
+      [
+        442,
+        ""
+      ],
+      [
+        446,
+        ""
+      ],
+      [
+        446,
+        "##### 德性伦理学"
+      ],
+      [
+        446,
+        ""
+      ],
+      [
+        449,
+        ""
+      ],
+      [
+        449,
+        "##### 政治哲学"
+      ],
+      [
+        449,
+        ""
+      ],
+      [
         451,
         ""
       ],
@@ -14207,6 +15655,26 @@
       ],
       [
         451,
+        ""
+      ],
+      [
+        451,
+        "##### 牛津日常语言"
+      ],
+      [
+        451,
+        ""
+      ],
+      [
+        454,
+        ""
+      ],
+      [
+        454,
+        "##### 语用学"
+      ],
+      [
+        454,
         ""
       ],
       [
@@ -14254,6 +15722,50 @@
         ""
       ],
       [
+        458,
+        "##### 布伦塔诺"
+      ],
+      [
+        458,
+        ""
+      ],
+      [
+        460,
+        ""
+      ],
+      [
+        460,
+        "##### 斯图姆夫与马蒂"
+      ],
+      [
+        460,
+        ""
+      ],
+      [
+        462,
+        ""
+      ],
+      [
+        462,
+        "##### 厄棱费尔与迈农"
+      ],
+      [
+        462,
+        ""
+      ],
+      [
+        464,
+        ""
+      ],
+      [
+        464,
+        "##### 特瓦尔多夫斯基"
+      ],
+      [
+        464,
+        ""
+      ],
+      [
         465,
         ""
       ],
@@ -14278,6 +15790,50 @@
         ""
       ],
       [
+        466,
+        "##### 舍勒与施泰因"
+      ],
+      [
+        466,
+        ""
+      ],
+      [
+        468,
+        ""
+      ],
+      [
+        468,
+        "##### 英伽登"
+      ],
+      [
+        468,
+        ""
+      ],
+      [
+        469,
+        ""
+      ],
+      [
+        469,
+        "##### 兰德曼-卡利舍尔"
+      ],
+      [
+        469,
+        ""
+      ],
+      [
+        470,
+        ""
+      ],
+      [
+        470,
+        "##### 舒茨"
+      ],
+      [
+        470,
+        ""
+      ],
+      [
         471,
         ""
       ],
@@ -14299,6 +15855,38 @@
       ],
       [
         473,
+        ""
+      ],
+      [
+        473,
+        "##### 梅洛-庞蒂"
+      ],
+      [
+        473,
+        ""
+      ],
+      [
+        474,
+        ""
+      ],
+      [
+        474,
+        "##### 米歇尔·亨利"
+      ],
+      [
+        474,
+        ""
+      ],
+      [
+        475,
+        ""
+      ],
+      [
+        475,
+        "##### 列维纳斯"
+      ],
+      [
+        475,
         ""
       ],
       [
@@ -14382,6 +15970,50 @@
         ""
       ],
       [
+        482,
+        "##### 柏格森"
+      ],
+      [
+        482,
+        ""
+      ],
+      [
+        483,
+        ""
+      ],
+      [
+        483,
+        "##### 马塞尔与薇依"
+      ],
+      [
+        483,
+        ""
+      ],
+      [
+        485,
+        ""
+      ],
+      [
+        485,
+        "##### 苏斯曼与罗森斯托克"
+      ],
+      [
+        485,
+        ""
+      ],
+      [
+        487,
+        ""
+      ],
+      [
+        487,
+        "##### 奥尔特加"
+      ],
+      [
+        487,
+        ""
+      ],
+      [
         488,
         ""
       ],
@@ -14411,6 +16043,26 @@
       ],
       [
         489,
+        ""
+      ],
+      [
+        489,
+        "##### 狄尔泰"
+      ],
+      [
+        489,
+        ""
+      ],
+      [
+        490,
+        ""
+      ],
+      [
+        490,
+        "##### 约克"
+      ],
+      [
+        490,
         ""
       ],
       [
@@ -14450,6 +16102,62 @@
         ""
       ],
       [
+        494,
+        "#### 过程哲学"
+      ],
+      [
+        494,
+        ""
+      ],
+      [
+        497,
+        ""
+      ],
+      [
+        497,
+        "#### 古典实用主义"
+      ],
+      [
+        497,
+        ""
+      ],
+      [
+        508,
+        ""
+      ],
+      [
+        508,
+        "#### 实用主义总论与新实用主义"
+      ],
+      [
+        508,
+        ""
+      ],
+      [
+        511,
+        ""
+      ],
+      [
+        511,
+        "#### 美国文艺复兴与超验主义"
+      ],
+      [
+        511,
+        ""
+      ],
+      [
+        516,
+        ""
+      ],
+      [
+        516,
+        "#### 哈佛与观念论"
+      ],
+      [
+        516,
+        ""
+      ],
+      [
         519,
         ""
       ],
@@ -14470,6 +16178,38 @@
         ""
       ],
       [
+        519,
+        "##### 马克思"
+      ],
+      [
+        519,
+        ""
+      ],
+      [
+        520,
+        ""
+      ],
+      [
+        520,
+        "##### 恩格斯"
+      ],
+      [
+        520,
+        ""
+      ],
+      [
+        521,
+        ""
+      ],
+      [
+        521,
+        "##### 异化"
+      ],
+      [
+        521,
+        ""
+      ],
+      [
         522,
         ""
       ],
@@ -14482,6 +16222,38 @@
         ""
       ],
       [
+        522,
+        "##### 鲍威尔"
+      ],
+      [
+        522,
+        ""
+      ],
+      [
+        523,
+        ""
+      ],
+      [
+        523,
+        "##### 费尔巴哈"
+      ],
+      [
+        523,
+        ""
+      ],
+      [
+        524,
+        ""
+      ],
+      [
+        524,
+        "##### 施蒂纳"
+      ],
+      [
+        524,
+        ""
+      ],
+      [
         525,
         ""
       ],
@@ -14491,6 +16263,50 @@
       ],
       [
         525,
+        ""
+      ],
+      [
+        525,
+        "##### 西方马克思主义总论"
+      ],
+      [
+        525,
+        ""
+      ],
+      [
+        526,
+        ""
+      ],
+      [
+        526,
+        "##### 卢卡奇与布洛赫"
+      ],
+      [
+        526,
+        ""
+      ],
+      [
+        528,
+        ""
+      ],
+      [
+        528,
+        "##### 葛兰西与卢森堡"
+      ],
+      [
+        528,
+        ""
+      ],
+      [
+        530,
+        ""
+      ],
+      [
+        530,
+        "##### 阿尔都塞"
+      ],
+      [
+        530,
         ""
       ],
       [
@@ -14558,6 +16374,50 @@
         ""
       ],
       [
+        538,
+        "##### 孔德"
+      ],
+      [
+        538,
+        ""
+      ],
+      [
+        539,
+        ""
+      ],
+      [
+        539,
+        "##### 斯宾塞"
+      ],
+      [
+        539,
+        ""
+      ],
+      [
+        540,
+        ""
+      ],
+      [
+        540,
+        "##### 惠威尔"
+      ],
+      [
+        540,
+        ""
+      ],
+      [
+        541,
+        ""
+      ],
+      [
+        541,
+        "##### 艾略特"
+      ],
+      [
+        541,
+        ""
+      ],
+      [
         542,
         ""
       ],
@@ -14582,6 +16442,86 @@
         ""
       ],
       [
+        543,
+        "##### 维也纳学派总论"
+      ],
+      [
+        543,
+        ""
+      ],
+      [
+        544,
+        ""
+      ],
+      [
+        544,
+        "##### 石里克与纽拉特"
+      ],
+      [
+        544,
+        ""
+      ],
+      [
+        546,
+        ""
+      ],
+      [
+        546,
+        "##### 卡尔纳普"
+      ],
+      [
+        546,
+        ""
+      ],
+      [
+        547,
+        ""
+      ],
+      [
+        547,
+        "##### 亨普尔与费格尔"
+      ],
+      [
+        547,
+        ""
+      ],
+      [
+        549,
+        ""
+      ],
+      [
+        549,
+        "##### 艾耶尔"
+      ],
+      [
+        549,
+        ""
+      ],
+      [
+        550,
+        ""
+      ],
+      [
+        550,
+        "##### 赖兴巴赫"
+      ],
+      [
+        550,
+        ""
+      ],
+      [
+        552,
+        ""
+      ],
+      [
+        552,
+        "##### 庞加莱"
+      ],
+      [
+        552,
+        ""
+      ],
+      [
         553,
         ""
       ],
@@ -14591,6 +16531,50 @@
       ],
       [
         553,
+        ""
+      ],
+      [
+        553,
+        "#### 功利主义总论与史"
+      ],
+      [
+        553,
+        ""
+      ],
+      [
+        555,
+        ""
+      ],
+      [
+        555,
+        "#### 密尔父子与哈丽雅特"
+      ],
+      [
+        555,
+        ""
+      ],
+      [
+        559,
+        ""
+      ],
+      [
+        559,
+        "#### 西季威克"
+      ],
+      [
+        559,
+        ""
+      ],
+      [
+        560,
+        ""
+      ],
+      [
+        560,
+        "#### 古典自由主义与政治经济学"
+      ],
+      [
+        560,
         ""
       ],
       [
@@ -14606,6 +16590,50 @@
         ""
       ],
       [
+        562,
+        "#### 新康德主义总论"
+      ],
+      [
+        562,
+        ""
+      ],
+      [
+        563,
+        ""
+      ],
+      [
+        563,
+        "#### 马堡学派"
+      ],
+      [
+        563,
+        ""
+      ],
+      [
+        566,
+        ""
+      ],
+      [
+        566,
+        "#### 西南学派"
+      ],
+      [
+        566,
+        ""
+      ],
+      [
+        568,
+        ""
+      ],
+      [
+        568,
+        "#### 生命哲学与实证主义"
+      ],
+      [
+        568,
+        ""
+      ],
+      [
         571,
         ""
       ],
@@ -14615,6 +16643,38 @@
       ],
       [
         571,
+        ""
+      ],
+      [
+        571,
+        "#### 英国观念论"
+      ],
+      [
+        571,
+        ""
+      ],
+      [
+        579,
+        ""
+      ],
+      [
+        579,
+        "#### 新实在论"
+      ],
+      [
+        579,
+        ""
+      ],
+      [
+        582,
+        ""
+      ],
+      [
+        582,
+        "#### 人格主义"
+      ],
+      [
+        582,
         ""
       ],
       [
@@ -14638,6 +16698,38 @@
         ""
       ],
       [
+        583,
+        "#### 批判理论总论"
+      ],
+      [
+        583,
+        ""
+      ],
+      [
+        584,
+        ""
+      ],
+      [
+        584,
+        "#### 第一代"
+      ],
+      [
+        584,
+        ""
+      ],
+      [
+        588,
+        ""
+      ],
+      [
+        588,
+        "#### 第二代"
+      ],
+      [
+        588,
+        ""
+      ],
+      [
         589,
         ""
       ],
@@ -14647,6 +16739,62 @@
       ],
       [
         589,
+        ""
+      ],
+      [
+        589,
+        "#### 自由主义与权利"
+      ],
+      [
+        589,
+        ""
+      ],
+      [
+        592,
+        ""
+      ],
+      [
+        592,
+        "#### 保守主义与法哲学"
+      ],
+      [
+        592,
+        ""
+      ],
+      [
+        595,
+        ""
+      ],
+      [
+        595,
+        "#### 基督教与社会思想"
+      ],
+      [
+        595,
+        ""
+      ],
+      [
+        597,
+        ""
+      ],
+      [
+        597,
+        "#### 社会理论与历史"
+      ],
+      [
+        597,
+        ""
+      ],
+      [
+        599,
+        ""
+      ],
+      [
+        599,
+        "#### 自由至上与市场"
+      ],
+      [
+        599,
         ""
       ],
       [
@@ -14671,6 +16819,50 @@
       ],
       [
         601,
+        ""
+      ],
+      [
+        601,
+        "#### 后结构主义总论"
+      ],
+      [
+        601,
+        ""
+      ],
+      [
+        602,
+        ""
+      ],
+      [
+        602,
+        "#### 福柯"
+      ],
+      [
+        602,
+        ""
+      ],
+      [
+        603,
+        ""
+      ],
+      [
+        603,
+        "#### 德勒兹"
+      ],
+      [
+        603,
+        ""
+      ],
+      [
+        604,
+        ""
+      ],
+      [
+        604,
+        "#### 利奥塔与鲍德里亚"
+      ],
+      [
+        604,
         ""
       ],
       [
