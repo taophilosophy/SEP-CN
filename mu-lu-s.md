@@ -1537,69 +1537,122 @@ outline: [1, 6]
 
 ### 古代与中世纪犹太哲学
 
-* [布尔戈斯的阿布内尔 Abner of Burgos (Shalom Sadik)](a/abner-burgos.md)
-* [亚伯拉罕·伊本·达乌德 Abraham Ibn Daud (Resianne Fontaine、Amira Eran)](a/abraham-daud.md)
-* [亚伯拉罕·伊本·以斯拉 Abraham Ibn Ezra (Tzvi Langermann)](i/ibn-ezra.md)
-* [以利亚·德尔·梅第戈 Elijah Delmedigo (Michael Engel)](d/delmedigo.md)
-* [吉尔松尼德 Gersonides (Tamar Rudavsky)](g/gersonides.md)
-* [哈斯代·克雷斯卡斯 Hasdai Crescas (Shalom Sadik)](c/crescas.md)
-* [伊本·凯姆那 Ibn Kammūna (Tzvi Langermann)](i/ibn-kammuna.md)
-* [以撒·阿尔巴拉格 Isaac Albalag (Bakinaz Abdalla)](a/albalag.md)
-* [伊萨克·伊斯拉埃利 Isaac Israeli (Leonard Levin、R. David Walker、Shalom Sadik)](i/israeli.md)
-* [以撒·波尔卡尔 Isaac Polqar (Racheli Haliva)](p/polqar.md)
-* [约瑟夫·阿尔博 Joseph Albo (Dror Ehrlich、Shira Weiss)](a/albo-joseph.md)
-* [约瑟夫·卡斯皮 Joseph Kaspi (Hannah Kasher、Moshe Kahan)](k/kaspi-joseph.md)
-* [犹大·莱昂·阿布拉瓦内尔 Judah Abrabanel (Aaron Hughes)](a/abrabanel.md)
-* [犹大·哈列维 Judah Halevi (Ehud Krinis)](h/halevi.md)
-* [迈蒙尼德 Maimonides (Kenneth Seeskin)](m/maimonides.md)
-  * [伊斯兰思想对迈蒙尼德的影响 The Influence of Islamic Thought on Maimonides (Sarah Pessin)](m/maimonides-islamic.md)
+#### 希腊化与加昂时期
+
 * [亚历山大里亚的斐洛 Philo of Alexandria (Carlos Lévy)](p/philo.md)
 * [萨阿迪亚·加昂 Saadya \[Saadiah\] (Sarah Pessin)](s/saadya.md)
-* [撒母耳·伊本·提本 Samuel Ibn Tibbon (James T. Robinson)](t/tibbon.md)
-* [闪-托夫·伊本·法拉奎拉 Shem Tov Ibn Falaquera (Steve Harvey)](f/falaquera.md)
+* [伊萨克·伊斯拉埃利 Isaac Israeli (Leonard Levin、R. David Walker、Shalom Sadik)](i/israeli.md)
+
+#### 安达卢西亚与迈蒙尼德
+
 * [所罗门·伊本·盖比鲁勒 Solomon Ibn Gabirol \[Avicebron\] (Sarah Pessin)](i/ibn-gabirol.md)
+* [亚伯拉罕·伊本·以斯拉 Abraham Ibn Ezra (Tzvi Langermann)](i/ibn-ezra.md)
+* [犹大·哈列维 Judah Halevi (Ehud Krinis)](h/halevi.md)
+* [亚伯拉罕·伊本·达乌德 Abraham Ibn Daud (Resianne Fontaine、Amira Eran)](a/abraham-daud.md)
+* [迈蒙尼德 Maimonides (Kenneth Seeskin)](m/maimonides.md)
+  * [伊斯兰思想对迈蒙尼德的影响 The Influence of Islamic Thought on Maimonides (Sarah Pessin)](m/maimonides-islamic.md)
+* [伊本·凯姆那 Ibn Kammūna (Tzvi Langermann)](i/ibn-kammuna.md)
+
+#### 13–14 世纪
+
+* [以撒·阿尔巴拉格 Isaac Albalag (Bakinaz Abdalla)](a/albalag.md)
+* [闪-托夫·伊本·法拉奎拉 Shem Tov Ibn Falaquera (Steve Harvey)](f/falaquera.md)
+* [撒母耳·伊本·提本 Samuel Ibn Tibbon (James T. Robinson)](t/tibbon.md)
+* [吉尔松尼德 Gersonides (Tamar Rudavsky)](g/gersonides.md)
+* [哈斯代·克雷斯卡斯 Hasdai Crescas (Shalom Sadik)](c/crescas.md)
+
+#### 15 世纪
+
+* [约瑟夫·阿尔博 Joseph Albo (Dror Ehrlich、Shira Weiss)](a/albo-joseph.md)
+* [约瑟夫·卡斯皮 Joseph Kaspi (Hannah Kasher、Moshe Kahan)](k/kaspi-joseph.md)
+* [以撒·波尔卡尔 Isaac Polqar (Racheli Haliva)](p/polqar.md)
+* [布尔戈斯的阿布内尔 Abner of Burgos (Shalom Sadik)](a/abner-burgos.md)
+* [以利亚·德尔·梅第戈 Elijah Delmedigo (Michael Engel)](d/delmedigo.md)
+* [犹大·莱昂·阿布拉瓦内尔 Judah Abrabanel (Aaron Hughes)](a/abrabanel.md)
 
 ### 近代犹太哲学
 
+#### 门德尔松
+
 * [摩西·门德尔松 Moses Mendelssohn (Daniel Dahlstrom)](m/mendelssohn.md)
+
+#### 迈蒙
+
 * [所罗门·迈蒙 Salomon Maimon (Peter Thielke、Yitzhak Y. Melamed)](m/maimon.md)
 
 ### 现代犹太哲学
 
-* [弗朗茨·罗森茨威格 Franz Rosenzweig (Benjamin Pollock)](r/rosenzweig.md)
-* [格肖姆·朔勒姆 Gershom Scholem (Daniel Weidner)](s/scholem.md)
+#### 布伯与罗森茨威格
+
 * [马丁·布伯 Martin Buber (Michael Zank、Zachary Braiterman)](b/buber.md)
+* [弗朗茨·罗森茨威格 Franz Rosenzweig (Benjamin Pollock)](r/rosenzweig.md)
+
+#### 朔勒姆
+
+* [格肖姆·朔勒姆 Gershom Scholem (Daniel Weidner)](s/scholem.md)
+
+#### 莱博维茨
+
 * [耶沙亚胡·莱博维茨 Yeshayahu Leibowitz (Daniel Rynhold)](l/leibowitz-yeshayahu.md)
 
 ## 中国哲学
 
 ### 先秦
 
+#### 儒家
+
 * [孔子 Confucius (Mark Csikszentmihalyi)](c/confucius.md)
-* [老子 Laozi (Alan Chan)](l/laozi.md)
-* [中国法家哲学 Legalism in Chinese Philosophy (Yuri Pines)](c/chinese-legalism.md)
 * [孟子 Mencius (Bryan Van Norden)](m/mencius.md)
+* [荀子 Xunzi (Paul R. Goldin)](x/xunzi.md)
+
+#### 道家
+
+* [老子 Laozi (Alan Chan)](l/laozi.md)
+* [庄子 Zhuangzi (Chad Hansen)](z/zhuangzi.md)
+
+#### 墨家与名家
+
 * [墨家 Mohism (Chris Fraser)](m/mohism.md)
 * [墨经 Mohist Canons (Chris Fraser)](m/mohist-canons.md)
 * [名家 School of Names (Chris Fraser)](s/school-names.md)
-* [荀子 Xunzi (Paul R. Goldin)](x/xunzi.md)
-* [庄子 Zhuangzi (Chad Hansen)](z/zhuangzi.md)
+
+#### 法家
+
+* [中国法家哲学 Legalism in Chinese Philosophy (Yuri Pines)](c/chinese-legalism.md)
 
 ### 汉唐
 
-* [玄学 Neo-Daoism (Alan Chan)](n/neo-daoism.md)
+#### 汉代哲学
+
 * [中国汉代哲学 Philosophy in Han Dynasty China (Alexus McLeod)](h/han-dynasty.md)
+
+#### 玄学
+
+* [玄学 Neo-Daoism (Alan Chan)](n/neo-daoism.md)
 
 ### 宋明
 
+#### 宋明理学总论
+
 * [宋明理学 Song-Ming Confucianism (Justin Tiwald)](s/song-ming-confucianism.md)
-* [王阳明 Wang Yangming (Bryan Van Norden)](w/wang-yangming.md)
+
+#### 朱熹
+
 * [朱熹 Zhu Xi (Kirill Thompson)](z/zhu-xi.md)
+
+#### 王阳明
+
+* [王阳明 Wang Yangming (Bryan Van Norden)](w/wang-yangming.md)
 
 ### 清代
 
-* [戴震 Dai Zhen (Frank Y. C. Chong、Chris Fraser)](d/dai-zhen.md)
+#### 清代哲学
+
 * [清代哲学 Qing Philosophy (On-cho Ng)](q/qing-philosophy.md)
+
+#### 戴震
+
+* [戴震 Dai Zhen (Frank Y. C. Chong、Chris Fraser)](d/dai-zhen.md)
 
 ### 现代
 
@@ -1607,59 +1660,105 @@ outline: [1, 6]
 
 ### 中国佛教
 
-* [中国禅宗 Chan Buddhism (Peter Hershock)](b/buddhism-chan.md)
-* [华严宗 Huayan Buddhism (Bryan Van Norden、Nicholaos Jones)](b/buddhism-huayan.md)
+#### 天台宗
+
 * [天台宗 Tiantai Buddhism (Brook Ziporyn)](b/buddhism-tiantai.md)
+
+#### 华严宗
+
+* [华严宗 Huayan Buddhism (Bryan Van Norden、Nicholaos Jones)](b/buddhism-huayan.md)
+
+#### 禅宗
+
+* [中国禅宗 Chan Buddhism (Peter Hershock)](b/buddhism-chan.md)
 
 ### 藏传佛教
 
-* [格鲁派 Gelukpa \[dge lugs pa\] (Douglas Duckworth)](g/gelukpa.md)
-* [果让巴·索南僧格 Gorampa \[go rams pa\] (Constance Kassor)](g/gorampa.md)
-* [萨迦·班智达·贡噶坚赞 Sakya Paṇḍita \[sa skya paṇ ḍi ta\] (Jonathan C. Gold)](s/sakya-pandita.md)
-* [西藏的“二谛”理论 The Theory of Two Truths in Tibet (Sonam Thakchoe)](t/twotruths-tibet.md)
-* [藏传认识论与语言哲学 Tibetan Epistemology and Philosophy of Language (Pascale Hugon)](e/epistemology-language-tibetan.md)
+#### 格鲁派与宗喀巴
+
 * [宗喀巴 Tsongkhapa (Gareth Sparham、Chandra Chiara Ehm)](t/tsongkhapa.md)
+* [格鲁派 Gelukpa \[dge lugs pa\] (Douglas Duckworth)](g/gelukpa.md)
+
+#### 萨迦派
+
+* [萨迦·班智达·贡噶坚赞 Sakya Paṇḍita \[sa skya paṇ ḍi ta\] (Jonathan C. Gold)](s/sakya-pandita.md)
+* [果让巴·索南僧格 Gorampa \[go rams pa\] (Constance Kassor)](g/gorampa.md)
+
+#### 藏传认识论与二谛
+
+* [藏传认识论与语言哲学 Tibetan Epistemology and Philosophy of Language (Pascale Hugon)](e/epistemology-language-tibetan.md)
+* [西藏的“二谛”理论 The Theory of Two Truths in Tibet (Sonam Thakchoe)](t/twotruths-tibet.md)
 
 ### 道教
 
+#### 道家哲学
+
 * [道家/道教 Daoism (Chad Hansen)](d/daoism.md)
+
+#### 道教宗教
+
 * [道教 Religious Daoism (Fabrizio Pregadio)](d/daoism-religion.md)
 
 ### 专题
 
-* [中国哲学中的美学：绘画与书法 Aesthetics in Chinese Philosophy: Painting and Calligraphy (Yolaine Escande)](c/chinese-painting-calligraphy.md)
+#### 伦理学与政治
+
 * [中国哲学中的伦理学 Chinese Ethics (David Wong)](e/ethics-chinese.md)
   * [儒学中的性别 Gender in Confucian Philosophy (Li-Hsiang Rosenlee)](c/confucian-gender.md)
-* [中国哲学与中医 Chinese Philosophy and Chinese Medicine (Lisa Raphals)](c/chinese-phil-medicine.md)
-* [中国易经哲学 Chinese Philosophy of Change (Yijing) (Tze-Ki Hon)](c/chinese-change.md)
-* [比较哲学：中西哲学 Comparative Philosophy: Chinese and Western (David Wong)](c/comparphil-chiwes.md)
-* [中国哲学中的认识论 Epistemology in Chinese Philosophy (Jana Rošker)](c/chinese-epistemology.md)
-* [早期中国哲学中的逻辑与语言 Logic and Language in Early Chinese Philosophy (Marshall D. Willman)](c/chinese-logic-language.md)
+* [中国哲学中的社会与政治思想 Social and Political Thought in Chinese Philosophy (Stephen C. Angle)](c/chinese-social-political.md)
+
+#### 形而上学与心灵
+
 * [中国哲学中的形而上学 Metaphysics in Chinese Philosophy (Franklin Perkins)](c/chinese-metaphysics.md)
 * [中国哲学中的心 Mind (Heart-Mind) in Chinese Philosophy (David Wong)](c/chinese-mind.md)
-* [中国哲学与科学 Science and Chinese Philosophy (Lisa Raphals)](c/chinese-phil-science.md)
-* [中国哲学中的社会与政治思想 Social and Political Thought in Chinese Philosophy (Stephen C. Angle)](c/chinese-social-political.md)
 * [早期中国哲学中的情 The Emotions in Early Chinese Philosophy (Bongrae Seok)](e/emotions-chinese.md)
+* [中国易经哲学 Chinese Philosophy of Change (Yijing) (Tze-Ki Hon)](c/chinese-change.md)
+
+#### 认识论、逻辑与语言
+
+* [中国哲学中的认识论 Epistemology in Chinese Philosophy (Jana Rošker)](c/chinese-epistemology.md)
+* [早期中国哲学中的逻辑与语言 Logic and Language in Early Chinese Philosophy (Marshall D. Willman)](c/chinese-logic-language.md)
 * [翻译和解释中国哲学 Translating and Interpreting Chinese Philosophy (Chad Hansen、David Wong、Henry Rosemont Jr.)](c/chinese-translate-interpret.md)
+
+#### 美学、医学与科学
+
+* [中国哲学中的美学：绘画与书法 Aesthetics in Chinese Philosophy: Painting and Calligraphy (Yolaine Escande)](c/chinese-painting-calligraphy.md)
+* [中国哲学与中医 Chinese Philosophy and Chinese Medicine (Lisa Raphals)](c/chinese-phil-medicine.md)
+* [中国哲学与科学 Science and Chinese Philosophy (Lisa Raphals)](c/chinese-phil-science.md)
+
+#### 比较哲学
+
+* [比较哲学：中西哲学 Comparative Philosophy: Chinese and Western (David Wong)](c/comparphil-chiwes.md)
 
 ## 印度哲学
 
 ### 佛教
 
-* [阿毗达磨 Abhidharma (Noa Ronkin)](a/abhidharma.md)
+#### 佛陀与阿毗达磨
+
 * [佛陀 Buddha (Mark Siderits)](b/buddha.md)
-* [法称 Dharmakīrti (Tom Tillemans)](d/dharmakiirti.md)
-* [印度佛教中的伦理学 Ethics in Indian Buddhism (Charles Goodman、Aaron Schultz)](e/ethics-indian-buddhism.md)
-* [中观 Madhyamaka (Richard Hayes)](m/madhyamaka.md)
-* [印度佛教哲学中的心灵 Mind in Indian Buddhist Philosophy (Christian Coseru)](m/mind-indian-buddhism.md)
-* [寂护 Śāntarakṣita (James Blumenthal、James Apple)](s/saantarak-sita.md)
-* [寂天 Śāntideva (Charles Goodman)](s/shantideva.md)
+* [阿毗达磨 Abhidharma (Noa Ronkin)](a/abhidharma.md)
+
+#### 中观
+
 * [龙树 Nāgārjuna (Jan Christoph Westerhoff)](n/nagarjuna.md)
-* [宝称 Ratnakīrti (Patrick McAllister)](r/ratnakirti.md)
+* [中观 Madhyamaka (Richard Hayes)](m/madhyamaka.md)
 * [室利笈多 Śrīgupta (Allison Aitken)](s/srigupta.md)
-* [印度的“二谛”理论 The Theory of Two Truths in India (Sonam Thakchoe)](t/twotruths-india.md)
+* [寂护 Śāntarakṣita (James Blumenthal、James Apple)](s/saantarak-sita.md)
+
+#### 瑜伽行与量论
+
 * [世亲 Vasubandhu (Jonathan C. Gold)](v/vasubandhu.md)
 * [瑜伽行派 Yogācāra (Szilvia Szanyi)](y/yogacara.md)
+* [法称 Dharmakīrti (Tom Tillemans)](d/dharmakiirti.md)
+* [宝称 Ratnakīrti (Patrick McAllister)](r/ratnakirti.md)
+
+#### 伦理学与二谛
+
+* [印度佛教中的伦理学 Ethics in Indian Buddhism (Charles Goodman、Aaron Schultz)](e/ethics-indian-buddhism.md)
+* [印度佛教哲学中的心灵 Mind in Indian Buddhist Philosophy (Christian Coseru)](m/mind-indian-buddhism.md)
+* [印度的“二谛”理论 The Theory of Two Truths in India (Sonam Thakchoe)](t/twotruths-india.md)
+* [寂天 Śāntideva (Charles Goodman)](s/shantideva.md)
 
 ### 耆那教
 
@@ -1675,7 +1774,12 @@ outline: [1, 6]
 
 ### 不二吠檀多
 
+#### 商羯罗
+
 * [商羯罗 Śaṅkara (Neil Dalal)](s/shankara.md)
+
+#### 曷利沙
+
 * [曷利沙 Śrīharṣa (Nilanjan Das)](s/sriharsa.md)
 
 ### 早期现代
@@ -1684,16 +1788,30 @@ outline: [1, 6]
 
 ### 专题
 
+#### 认识论与知觉
+
 * [古典印度哲学中的认识论 Epistemology in Classical Indian Philosophy (Stephen Phillips、Anand Vaidya)](e/epistemology-india.md)
-* [阇耶罗师·跋陀 Jayarāśi (Piotr Balcerowicz)](j/jayaraasi.md)
-* [古典印度哲学中的语言与证言 Language and Testimony in Classical Indian Philosophy (Madhav Deshpande)](l/language-india.md)
-* [古典印度哲学中的逻辑学 Logic in Classical Indian Philosophy (Brendan Gillon)](l/logic-india.md)
-* [古典印度哲学中的自然主义 Naturalism in Classical Indian Philosophy (Amita Chatterjee)](n/naturalism-india.md)
 * [古典印度哲学中的知觉经验与概念 Perceptual Experience and Concepts in Classical Indian Philosophy (Monima Chadha)](p/perception-india.md)
-* [古典印度哲学中的人格 Personhood in Classical Indian Philosophy (Monima Chadha)](p/personhood-india.md)
-* [锡克哲学 Sikh Philosophy (Arvind-Pal S. Mandair)](s/sikh-philosophy.md)
-* [古典印度哲学中的情感概念 The Concept of Emotion in Classical Indian Philosophy (Joerg Tuske)](c/concept-emotion-india.md)
+
+#### 逻辑、语言与解释
+
+* [古典印度哲学中的逻辑学 Logic in Classical Indian Philosophy (Brendan Gillon)](l/logic-india.md)
+* [古典印度哲学中的语言与证言 Language and Testimony in Classical Indian Philosophy (Madhav Deshpande)](l/language-india.md)
 * [古典印度哲学中的字面义与非字面义的区分 The Literal-Nonliteral Distinction in Classical Indian Philosophy (Malcolm Keating)](l/literal-nonliteral-india.md)
+
+#### 自然主义与唯物论
+
+* [古典印度哲学中的自然主义 Naturalism in Classical Indian Philosophy (Amita Chatterjee)](n/naturalism-india.md)
+* [阇耶罗师·跋陀 Jayarāśi (Piotr Balcerowicz)](j/jayaraasi.md)
+
+#### 人格与情感
+
+* [古典印度哲学中的人格 Personhood in Classical Indian Philosophy (Monima Chadha)](p/personhood-india.md)
+* [古典印度哲学中的情感概念 The Concept of Emotion in Classical Indian Philosophy (Joerg Tuske)](c/concept-emotion-india.md)
+
+#### 锡克哲学
+
+* [锡克哲学 Sikh Philosophy (Arvind-Pal S. Mandair)](s/sikh-philosophy.md)
 
 ## 日本哲学
 
@@ -1703,21 +1821,42 @@ outline: [1, 6]
 
 ### 近世
 
+#### 日本儒学
+
 * [日本儒学 Japanese Confucian Philosophy (John Tucker)](j/japanese-confucian.md)
+
+#### 国学
+
 * [日本国学 The Kokugaku (Native Japan Studies) School (Gideon Fujiwara、Peter Nosco)](k/kokugaku-school.md)
 
 ### 近代
 
+#### 西田几多郎
+
 * [西田几多郎 Nishida Kitarō (John C. Maraldo)](n/nishida-kitaro.md)
+
+#### 京都学派
+
 * [京都学派 The Kyoto School (Bret W. Davis)](k/kyoto-school.md)
+
+#### 和辻哲郎
+
 * [和辻哲郎 Watsuji Tetsurō (Robert Carter、Erin McCarthy)](w/watsuji-tetsuro.md)
 
 ### 专题
 
-* [日本美学 Japanese Aesthetics (Graham Parkes、Adam Loughnane)](j/japanese-aesthetics.md)
+#### 日本哲学总论
+
 * [日本哲学 Japanese Philosophy (Thomas Kasulis、Raquel Bouso)](j/japanese-philosophy.md)
-* [日本净土宗哲学 Japanese Pure Land Philosophy (Dennis Hirota)](j/japanese-pure-land.md)
+
+#### 美学
+
+* [日本美学 Japanese Aesthetics (Graham Parkes、Adam Loughnane)](j/japanese-aesthetics.md)
+
+#### 佛教哲学
+
 * [日本禅宗哲学 Japanese Zen Buddhist Philosophy (Shigenori Nagatomo)](j/japanese-zen.md)
+* [日本净土宗哲学 Japanese Pure Land Philosophy (Dennis Hirota)](j/japanese-pure-land.md)
 
 ## 韩国哲学
 
@@ -1737,19 +1876,35 @@ outline: [1, 6]
 
 ### 早期
 
+#### 肯迪
+
+* [肯迪 al-Kindi (Peter Adamson)](a/al-kindi.md)
+
+#### 法拉比
+
 * [法拉比 al-Farabi (Therese-Anne Druart)](a/al-farabi.md)
   * [法拉比的逻辑与语言哲学 al-Farabi’s Philosophy of Logic and Language (Wilfrid Hodges、Therese-Anne Druart)](a/al-farabi-logic.md)
   * [法拉比的社会与宗教哲学 al-Farabi’s Philosophy of Society and Religion (Nadja Germann)](a/al-farabi-soc-rel.md)
   * [法拉比的心理学与认识论 al-Farabi’s Psychology and Epistemology (Luis Xavier López-Farjeat)](a/al-farabi-psych.md)
   * [法拉比的形而上学 al-Fārābī’s Metaphysics (Stephen Menn)](a/al-farabi-metaphysics.md)
-* [肯迪 al-Kindi (Peter Adamson)](a/al-kindi.md)
 
 ### 黄金时代
 
+#### 安萨里
+
 * [安萨里 al-Ghazali (Frank Griffel)](a/al-ghazali.md)
+
+#### 伊本·巴哲
+
 * [伊本·巴哲 Ibn Bâjja \[Avempace\] (Josep Puig Montada)](i/ibn-bajja.md)
+
+#### 伊本·鲁世德
+
 * [伊本·鲁世德 Ibn Rushd \[Averroes\] (Fouad Ben Ahmed、Robert Pasnau)](i/ibn-rushd.md)
   * [伊本·鲁世德的自然哲学 Ibn Rushd’s Natural Philosophy (Josep Puig Montada)](i/ibn-rushd-natural.md)
+
+#### 伊本·西那
+
 * [伊本·西那（阿维森纳） Ibn Sina \[Avicenna\] (Dimitri Gutas)](i/ibn-sina.md)
   * [伊本·西那（阿维森纳）的逻辑学 Ibn Sina’s Logic (Riccardo Strobino)](i/ibn-sina-logic.md)
   * [伊本·西那（阿维森纳）的形而上学 Ibn Sina’s Metaphysics (Olga Lizzini)](i/ibn-sina-metaphysics.md)
@@ -1757,55 +1912,108 @@ outline: [1, 6]
 
 ### 后期
 
-* [阿卜杜勒·拉蒂夫·巴格达迪 ‘Abd al-Latif al-Baghdadi (Cecilia Martini Bonadeo)](a/al-baghdadi.md)
-* [阿夫扎勒丁·胡纳吉 Afḍal al-Dīn al-Khūnajī (Behnam Zolghadr)](a/al-khunaji.md)
-* [艾因·古达特 ʿAyn al-Qudat (Muhammad U. Faruque、Mohammed Rustom)](a/al-qudat.md)
-* [法赫尔丁·拉齐 Fakhr al-Din al-Razi (Peter Adamson、Fedor Benevich)](a/al-din-al-razi.md)
-* [伊本·阿拉比 Ibn ‘Arabī (William Chittick)](i/ibn-arabi.md)
-* [伊本·泰米叶 Ibn Taymiyya (Jon Hoover)](i/ibn-taymiyya.md)
-* [穆拉·萨德拉 Mulla Sadra (Sajjad Rizvi)](m/mulla-sadra.md)
+#### 苏哈拉瓦迪与照明学派
+
 * [苏哈拉瓦迪 Suhrawardi (Roxanne Marcotte)](s/suhrawardi.md)
+* [艾因·古达特 ʿAyn al-Qudat (Muhammad U. Faruque、Mohammed Rustom)](a/al-qudat.md)
+
+#### 伊本·阿拉比与苏非
+
+* [伊本·阿拉比 Ibn ‘Arabī (William Chittick)](i/ibn-arabi.md)
+
+#### 神学与逻辑
+
+* [法赫尔丁·拉齐 Fakhr al-Din al-Razi (Peter Adamson、Fedor Benevich)](a/al-din-al-razi.md)
+* [阿夫扎勒丁·胡纳吉 Afḍal al-Dīn al-Khūnajī (Behnam Zolghadr)](a/al-khunaji.md)
+* [阿卜杜勒·拉蒂夫·巴格达迪 ‘Abd al-Latif al-Baghdadi (Cecilia Martini Bonadeo)](a/al-baghdadi.md)
+
+#### 伊本·泰米叶
+
+* [伊本·泰米叶 Ibn Taymiyya (Jon Hoover)](i/ibn-taymiyya.md)
+
+#### 穆拉·萨德拉
+
+* [穆拉·萨德拉 Mulla Sadra (Sajjad Rizvi)](m/mulla-sadra.md)
 
 ### 专题
 
-* [拉齐 Abu Bakr al-Razi (Peter Adamson)](a/abu-bakr-al-razi.md)
-* [阿拉伯和伊斯兰形而上学 Arabic and Islamic Metaphysics (Amos Bertolacci)](a/arabic-islamic-metaphysics.md)
-* [阿拉伯和伊斯兰自然哲学与自然科学 Arabic and Islamic Natural Philosophy and Natural Science (Jon McGinnis)](a/arabic-islamic-natural.md)
-* [阿拉伯和伊斯兰语言哲学与逻辑学 Arabic and Islamic Philosophy of Language and Logic (Tony Street、Nadja Germann)](a/arabic-islamic-language.md)
-* [阿拉伯和伊斯兰数学哲学 Arabic and Islamic Philosophy of Mathematics (Mohammad Saleh Zarepour)](a/arabic-islamic-phil-math.md)
-* [阿拉伯和伊斯兰宗教哲学 Arabic and Islamic Philosophy of Religion (Jon McGinnis、Rahim Acar)](a/arabic-islamic-religion.md)
-* [阿拉伯和伊斯兰心理学与心灵哲学 Arabic and Islamic Psychology and Philosophy of Mind (Alfred Ivry)](a/arabic-islamic-mind.md)
-* [阿拉伯和伊斯兰思想中的因果关系 Causation in Arabic and Islamic Thought (Kara Richardson)](a/arabic-islamic-causation.md)
-* [阿拉伯和伊斯兰哲学中的本质与存在 Essence and Existence in Arabic and Islamic Philosophy (Fedor Benevich)](a/arabic-islamic-essence.md)
+#### 总论与希腊文献
+
 * [阿拉伯和伊斯兰哲学中的希腊文献 Greek Sources in Arabic and Islamic Philosophy (Cristina D’Ancona)](a/arabic-islamic-greek.md)
+* [亚里士多德的神学 The Theology of Aristotle (Peter Adamson)](t/theology-aristotle.md)
 * [精诚兄弟社 Ikhwān al-Safā’ (Carmela Baffioni)](i/ikhwan-al-safa.md)
+
+#### 形而上学与本质存在
+
+* [阿拉伯和伊斯兰形而上学 Arabic and Islamic Metaphysics (Amos Bertolacci)](a/arabic-islamic-metaphysics.md)
+* [阿拉伯和伊斯兰哲学中的本质与存在 Essence and Existence in Arabic and Islamic Philosophy (Fedor Benevich)](a/arabic-islamic-essence.md)
+* [阿拉伯和伊斯兰思想中的因果关系 Causation in Arabic and Islamic Thought (Kara Richardson)](a/arabic-islamic-causation.md)
+
+#### 自然哲学与数学
+
+* [阿拉伯和伊斯兰自然哲学与自然科学 Arabic and Islamic Natural Philosophy and Natural Science (Jon McGinnis)](a/arabic-islamic-natural.md)
+* [阿拉伯和伊斯兰数学哲学 Arabic and Islamic Philosophy of Mathematics (Mohammad Saleh Zarepour)](a/arabic-islamic-phil-math.md)
+
+#### 逻辑、语言与悖论
+
+* [阿拉伯和伊斯兰语言哲学与逻辑学 Arabic and Islamic Philosophy of Language and Logic (Tony Street、Nadja Germann)](a/arabic-islamic-language.md)
+* [阿拉伯与伊斯兰哲学中的说谎者悖论 The Liar Paradox in Arabic and Islamic Philosophy (Ahmed Alwishah、David Sanson)](a/arabic-islamic-liar.md)
+
+#### 心灵与宗教
+
+* [阿拉伯和伊斯兰心理学与心灵哲学 Arabic and Islamic Psychology and Philosophy of Mind (Alfred Ivry)](a/arabic-islamic-mind.md)
+* [阿拉伯和伊斯兰宗教哲学 Arabic and Islamic Philosophy of Religion (Jon McGinnis、Rahim Acar)](a/arabic-islamic-religion.md)
+* [阿拉伯和伊斯兰哲学中的神秘主义 Mysticism in Arabic and Islamic Philosophy (Mehdi Aminrazavi)](a/arabic-islamic-mysticism.md)
+
+#### 人物与影响
+
+* [拉齐 Abu Bakr al-Razi (Peter Adamson)](a/abu-bakr-al-razi.md)
+* [欧玛尔·海亚姆 Umar Khayyam (Seyed N. Mousavian、Suzanne Sumner、Mehdi Aminrazavi、Glen Van Brummelen)](u/umar-khayyam.md)
 * [阿拉伯和伊斯兰哲学对犹太思想的影响 Influence of Arabic and Islamic Philosophy on Judaic Thought (Mauro Zonta、Charles Manekin)](a/arabic-islamic-judaic.md)
 * [阿拉伯和伊斯兰哲学对西方拉丁世界的影响 Influence of Arabic and Islamic Philosophy on the Latin West (Dag Nikolaus Hasse)](a/arabic-islamic-influence.md)
-* [阿拉伯和伊斯兰哲学中的神秘主义 Mysticism in Arabic and Islamic Philosophy (Mehdi Aminrazavi)](a/arabic-islamic-mysticism.md)
-* [阿拉伯与伊斯兰哲学中的说谎者悖论 The Liar Paradox in Arabic and Islamic Philosophy (Ahmed Alwishah、David Sanson)](a/arabic-islamic-liar.md)
-* [亚里士多德的神学 The Theology of Aristotle (Peter Adamson)](t/theology-aristotle.md)
-* [欧玛尔·海亚姆 Umar Khayyam (Seyed N. Mousavian、Suzanne Sumner、Mehdi Aminrazavi、Glen Van Brummelen)](u/umar-khayyam.md)
 
 ## 非洲与非裔哲学
 
 ### 传统非洲哲学
 
+#### 非洲伦理学
+
 * [非洲伦理学 African Ethics (Kwame Gyekye)](a/african-ethics.md)
-* [非洲智者哲学 African Sage Philosophy (Dismas Masolo)](a/african-sage.md)
-* [阿坎哲学中的人格 Akan Philosophy of the Person (Ajume Wingo)](a/akan-person.md)
 * [沙班·罗伯特的德性伦理学 Shaaban Robert’s Virtue Ethics (Dismas Masolo)](s/shaaban-robert-ethics.md)
+
+#### 智者哲学
+
+* [非洲智者哲学 African Sage Philosophy (Dismas Masolo)](a/african-sage.md)
+
+#### 人格理论
+
+* [阿坎哲学中的人格 Akan Philosophy of the Person (Ajume Wingo)](a/akan-person.md)
 
 ### 非裔哲学
 
+#### 非裔哲学总论
+
 * [非裔哲学 Africana Philosophy (Lucius T. Outlaw Jr.)](a/africana.md)
-* [阿兰·勒罗伊·洛克 Alain LeRoy Locke (Jacoby Adeshei Carter、Corey Barnes)](a/alain-locke.md)
+
+#### 19 世纪先驱
+
 * [亚历山大·克鲁梅尔 Alexander Crummell (Stephen Thompson)](a/alexander-crummell.md)
-* [安娜·朱莉娅·库珀 Anna Julia Cooper (Kathryn Sophia Belle)](a/anna-julia-cooper.md)
-* [弗朗茨·法农 Frantz Fanon (John Drabinski)](f/frantz-fanon.md)
 * [弗雷德里克·道格拉斯 Frederick Douglass (Ronald Sundstrom)](f/frederick-douglass.md)
   * [双重意识 Double Consciousness (John P. Pittman)](d/double-consciousness.md)
-* [黑人性 Négritude (Souleymane Bachir Diagne)](n/negritude.md)
+
+#### 哈莱姆文艺复兴与女性
+
+* [阿兰·勒罗伊·洛克 Alain LeRoy Locke (Jacoby Adeshei Carter、Corey Barnes)](a/alain-locke.md)
+* [安娜·朱莉娅·库珀 Anna Julia Cooper (Kathryn Sophia Belle)](a/anna-julia-cooper.md)
+
+#### 杜波依斯与黑人性
+
 * [威廉·爱德华·伯格哈特·杜波依斯 W.E.B. Du Bois (Robert Gooding-Williams)](d/dubois.md)
+* [黑人性 Négritude (Souleymane Bachir Diagne)](n/negritude.md)
+
+#### 法农
+
+* [弗朗茨·法农 Frantz Fanon (John Drabinski)](f/frantz-fanon.md)
 
 ### 当代
 
@@ -1815,24 +2023,49 @@ outline: [1, 6]
 
 ### 19–20世纪
 
-* [拉丁美洲的分析哲学 Analytic Philosophy in Latin America (Diana Ines Perez、Santiago Echeverri)](l/latin-american-analytic.md)
-* [拉丁美洲的认识论 Epistemology in Latin America (Diego Machuca)](e/epistemology-latin-america.md)
+#### 拉美哲学总论与元哲学
+
 * [拉丁美洲哲学 Latin American Philosophy (Jorge Gracia、Manuel Vargas)](l/latin-american-philosophy.md)
 * [拉丁美洲哲学：元哲学基础 Latin American Philosophy: Metaphilosophical Foundations (Susana Nuccetelli)](l/latin-american-metaphilosophy.md)
-* [拉丁哲学 Latinx Philosophy (Manuel Vargas)](l/latinx.md)
+
+#### 分析哲学与认识论
+
+* [拉丁美洲的分析哲学 Analytic Philosophy in Latin America (Diana Ines Perez、Santiago Echeverri)](l/latin-american-analytic.md)
+* [拉丁美洲的认识论 Epistemology in Latin America (Diego Machuca)](e/epistemology-latin-america.md)
+
+#### 国别传统
+
 * [墨西哥哲学 Philosophy in Mexico (Guillermo Hurtado、Robert Eli Sanchez Jr.)](p/philosophy-mexico.md)
 * [19 和 20 世纪智利哲学 19th and 20th Century Chilean Philosophy (Ivan Jaksic)](p/philosophy-chile.md)
 
+#### Latinx
+
+* [拉丁哲学 Latinx Philosophy (Manuel Vargas)](l/latinx.md)
+
 ### 专题
 
-* [拉丁美洲的生命伦理学 Bioethics in Latin America (Gustavo Ortiz Millán、Florencia Luna、Eduardo Rivera López)](b/bioethics-latin-america.md)
-* [拉丁美洲女性主义 Latin American Feminism (Stephanie Rivera Berruz)](f/feminism-latin-america.md)
-* [拉丁美洲的自由主义 Liberalism in Latin America (Faviola Rivera)](l/liberalism-latin-america.md)
-* [墨西哥存在主义 Mexican Existentialism (Carlos Sánchez)](e/existentialism-mexican.md)
-* [拉丁美洲的生物学哲学 Philosophy of Biology in Latin America (Pablo Lorenzano)](p/phil-bio-latin-america.md)
+#### 解放哲学与政治
+
 * [解放哲学 Philosophy of Liberation (Eduardo Mendieta)](l/liberation.md)
+* [拉丁美洲的自由主义 Liberalism in Latin America (Faviola Rivera)](l/liberalism-latin-america.md)
+
+#### 女性主义
+
+* [拉丁美洲女性主义 Latin American Feminism (Stephanie Rivera Berruz)](f/feminism-latin-america.md)
+
+#### 科学哲学
+
+* [拉丁美洲的生物学哲学 Philosophy of Biology in Latin America (Pablo Lorenzano)](p/phil-bio-latin-america.md)
 * [拉丁美洲的科学哲学 Philosophy of Science in Latin America (Olimpia Lombardi、Alberto Cordero、Ana Rosa Pérez Ransanz)](p/phil-science-latin-america.md)
+
+#### 生命伦理与怀疑论
+
+* [拉丁美洲的生命伦理学 Bioethics in Latin America (Gustavo Ortiz Millán、Florencia Luna、Eduardo Rivera López)](b/bioethics-latin-america.md)
 * [拉丁美洲的怀疑论 Skepticism in Latin America (Plínio Junqueira Smith、Otávio Bueno)](s/skepticism-latin-america.md)
+
+#### 墨西哥存在主义
+
+* [墨西哥存在主义 Mexican Existentialism (Carlos Sánchez)](e/existentialism-mexican.md)
 
 # 形而上学与认识论
 
@@ -1851,100 +2084,137 @@ outline: [1, 6]
 
 ### 本体论
 
-* [抽象对象 Abstract Objects (José L. Falguera、Concha Martínez-Vidal、Gideon Rosen)](a/abstract-objects.md)
-* [事件 Events (Roberto Casati、Achille Varzi)](e/events.md)
+#### 范畴与存在方式
+
 * [存在 Existence (Michael Nelson)](e/existence.md)
-* [事实 Facts (Kevin Mulligan、Fabrice Correia)](f/facts.md)
-* [物质构成 Material Constitution (Ryan Wasserman)](m/material-constitution.md)
-* [分体论 Mereology (Achille Varzi)](m/mereology.md)
-* [自然类 Natural Kinds (Alexander Bird、Emma Tobin)](n/natural-kinds.md)
 * [对象 Object (Bradley Rettler、Andrew M. Bailey)](o/object.md)
-* [本体论承诺 Ontological Commitment (Phillip Bricker)](o/ontological-commitment.md)
-* [属性 Properties (Francesco Orilia、Michele Paolini Paoletti)](p/properties.md)
-* [事态 States of Affairs (Mark Textor)](s/states-of-affairs.md)
 * [实体 Substance (Howard Robinson、Ralph Weir)](s/substance.md)
-* [随附性 Supervenience (Brian McLaughlin、Karen Bennett)](s/supervenience.md)
-* [人造物 Artifact (Beth Preston)](a/artifact.md)
-* [边界 Boundary (Achille Varzi)](b/boundary.md)
 * [范畴 Categories (Amie Thomasson)](c/categories.md)
-* [对形而上学实在论的挑战 Challenges to Metaphysical Realism (Drew Khlentzos)](r/realism-sem-challenge.md)
-* [确定物与可确定物 Determinables and Determinates (Jessica Wilson)](d/determinate-determinables.md)
+* [类别 Sortals (Max A. Freund、Richard E. Grandy)](s/sortals.md)
+* [本体论承诺 Ontological Commitment (Phillip Bricker)](o/ontological-commitment.md)
+* [一元论 Monism (Jonathan Schaffer)](m/monism.md)
+* [虚无 Nothingness (Roy Sorensen)](n/nothingness.md)
+
+#### 对象、虚构与抽象
+
+* [日常对象 Ordinary Objects (Daniel Z. Korman、Jonathan Barker)](o/ordinary-objects.md)
+* [非存在对象 Nonexistent Objects (Maria Reicher)](n/nonexistent-objects.md)
 * [虚构实体 Fictional Entities (Fred Kroon、Alberto Voltolini)](f/fictional-entities.md)
 * [虚构主义 Fictionalism (Matti Eklund)](f/fictionalism.md)
-* [形式与质料 Form vs. Matter (Thomas Ainsworth)](f/form-matter.md)
-* [基础性 Fundamentality (Tuomas E. Tahko)](f/fundamentality.md)
-* [此性论 Haecceitism (Sam Cowling)](h/haecceitism.md)
-* [洞 Holes (Roberto Casati、Achille Varzi)](h/holes.md)
-* [逻辑与本体论 Logic and Ontology (Thomas Hofweber)](l/logic-ontology.md)
-* [中世纪分体论 Medieval Mereology (Andrew Arlig)](m/mereology-medieval.md)
-* [形而上学奠基 Metaphysical Grounding (Ricki Bliss、Kelly Trogdon)](g/grounding.md)
 * [模态虚构主义 Modal Fictionalism (Daniel Nolan)](f/fictionalism-modal.md)
-* [一元论 Monism (Jonathan Schaffer)](m/monism.md)
+* [抽象对象 Abstract Objects (José L. Falguera、Concha Martínez-Vidal、Gideon Rosen)](a/abstract-objects.md)
+* [自然类 Natural Kinds (Alexander Bird、Emma Tobin)](n/natural-kinds.md)
+
+#### 部分、构成与边界
+
+* [分体论 Mereology (Achille Varzi)](m/mereology.md)
+* [物质构成 Material Constitution (Ryan Wasserman)](m/material-constitution.md)
+* [边界 Boundary (Achille Varzi)](b/boundary.md)
+* [洞 Holes (Roberto Casati、Achille Varzi)](h/holes.md)
+* [人造物 Artifact (Beth Preston)](a/artifact.md)
+* [多的难题 The Problem of the Many (Brian Weatherson)](p/problem-of-many.md)
+* [堆垛悖论 Sorites Paradox (Diana Raffman、Dominic Hyde)](s/sorites-paradox.md)
+* [物质名词的形而上学 The Metaphysics of Mass Expressions (Mark Steen)](m/metaphysics-massexpress.md)
 * [自然语言本体论 Natural Language Ontology (Friederike Moltmann)](n/natural-language-ontology.md)
+* [形式与质料 Form vs. Matter (Thomas Ainsworth)](f/form-matter.md)
+* [中世纪分体论 Medieval Mereology (Andrew Arlig)](m/mereology-medieval.md)
+
+#### 属性、关系与依赖
+
+* [属性 Properties (Francesco Orilia、Michele Paolini Paoletti)](p/properties.md)
 * [自然属性 Natural Properties (Cian Dorr)](n/natural-properties.md)
-* [尼古拉·哈特曼 Nicolai Hartmann (Keith Peterson、Roberto Poli)](n/nicolai-hartmann.md)
-* [非存在对象 Nonexistent Objects (Maria Reicher)](n/nonexistent-objects.md)
-* [虚无 Nothingness (Roy Sorensen)](n/nothingness.md)
+* [确定物与可确定物 Determinables and Determinates (Jessica Wilson)](d/determinate-determinables.md)
+* [事态 States of Affairs (Mark Textor)](s/states-of-affairs.md)
+* [事实 Facts (Kevin Mulligan、Fabrice Correia)](f/facts.md)
+* [事件 Events (Roberto Casati、Achille Varzi)](e/events.md)
+* [特普 Tropes (Anna-Sofia Maurin)](t/tropes.md)
+* [随附性 Supervenience (Brian McLaughlin、Karen Bennett)](s/supervenience.md)
+* [使真者 Truthmakers (Fraser MacBride、Christopher Daly)](t/truthmakers.md)
 * [本体论依赖 Ontological Dependence (Tuomas E. Tahko、E. Jonathan Lowe)](d/dependence-ontological.md)
-* [日常对象 Ordinary Objects (Daniel Z. Korman、Jonathan Barker)](o/ordinary-objects.md)
+* [基础性 Fundamentality (Tuomas E. Tahko)](f/fundamentality.md)
+* [形而上学奠基 Metaphysical Grounding (Ricki Bliss、Kelly Trogdon)](g/grounding.md)
+* [逻辑与本体论 Logic and Ontology (Thomas Hofweber)](l/logic-ontology.md)
+* [此性论 Haecceitism (Sam Cowling)](h/haecceitism.md)
+
+#### 实在论与反实在论
+
 * [实在论 Realism (Alexander Miller)](r/realism.md)
 * [形而上学的实在论与反实在论 Realism and Anti-Realism about Metaphysics (Mark Balaguer)](r/realism-about-metaphysics.md)
-* [堆垛悖论 Sorites Paradox (Diana Raffman、Dominic Hyde)](s/sorites-paradox.md)
-* [类别 Sortals (Max A. Freund、Richard E. Grandy)](s/sortals.md)
-* [物质名词的形而上学 The Metaphysics of Mass Expressions (Mark Steen)](m/metaphysics-massexpress.md)
-* [多的难题 The Problem of the Many (Brian Weatherson)](p/problem-of-many.md)
-* [特普 Tropes (Anna-Sofia Maurin)](t/tropes.md)
-* [使真者 Truthmakers (Fraser MacBride、Christopher Daly)](t/truthmakers.md)
+* [对形而上学实在论的挑战 Challenges to Metaphysical Realism (Drew Khlentzos)](r/realism-sem-challenge.md)
+
+#### 人物
+
+* [尼古拉·哈特曼 Nicolai Hartmann (Keith Peterson、Roberto Poli)](n/nicolai-hartmann.md)
 
 ### 因果关系
 
+#### 因果理论
+
 * [因果反事实理论 Counterfactual Theories of Causation (Peter Menzies、Helen Beebee)](c/causation-counterfactual.md)
 * [形而上学中的因果关系 The Metaphysics of Causation (J. Dmitri Gallow)](c/causation-metaphysics.md)
-* [逆向因果关系 Backward Causation (Jan Faye)](c/causation-backwards.md)
-* [因果决定论 Causal Determinism (Carl Hoefer)](d/determinism-causal.md)
-* [因果模型 Causal Models (Christopher Hitchcock)](c/causal-models.md)
-* [因果关系与可操纵性 Causation and Manipulability (James Woodward)](c/causation-mani.md)
-* [概率因果关系 Probabilistic Causation (Christopher Hitchcock)](c/causation-probabilistic.md)
 * [因果的规律性和推理理论 Regularity and Inferential Theories of Causation (Holger Andreas、Mario Guenther)](c/causation-regularity.md)
+* [概率因果关系 Probabilistic Causation (Christopher Hitchcock)](c/causation-probabilistic.md)
+* [因果关系与可操纵性 Causation and Manipulability (James Woodward)](c/causation-mani.md)
+
+#### 因果模型与决定论
+
+* [因果模型 Causal Models (Christopher Hitchcock)](c/causal-models.md)
+* [因果决定论 Causal Determinism (Carl Hoefer)](d/determinism-causal.md)
+* [逆向因果关系 Backward Causation (Jan Faye)](c/causation-backwards.md)
 
 ### 同一性与变化
 
+#### 同一性与关系
+
 * [同一性 Identity (Harold Noonan、Ben Curtis)](i/identity.md)
-* [历时同一性 Identity Over Time (Andre Gallois、Irem Kurtsal)](i/identity-time.md)
-* [人格同一性 Personal Identity (Eric T. Olson)](i/identity-personal.md)
-* [动物主义 Animalism (Stephan Blatti)](a/animalism.md)
-* [变化与不一致 Change and Inconsistency (Chris Mortensen)](c/change.md)
-* [内在属性与外在属性 Intrinsic vs. Extrinsic Properties (Dan Marshall、Brian Weatherson)](i/intrinsic-extrinsic.md)
-* [人格同一性与伦理学 Personal Identity and Ethics (Annette Dufner)](i/identity-ethics.md)
-* [关系 Relations (Fraser MacBride)](r/relations.md)
 * [相对同一性 Relative Identity (Harry Deutsch、Pawel Garbacz)](i/identity-relative.md)
 * [不可分辨者的同一性 The Identity of Indiscernibles (Gonzalo Rodriguez-Pereyra)](i/identity-indiscernible.md)
-* [变革性体验 Transformative Experience (Rebecca Chan)](t/transformative-experience.md)
 * [跨界同一性 Transworld Identity (Penelope Mackie、Mark Jago)](i/identity-transworld.md)
 * [类型与个例 Types and Tokens (David Liebesman)](t/types-tokens.md)
+* [关系 Relations (Fraser MacBride)](r/relations.md)
+* [内在属性与外在属性 Intrinsic vs. Extrinsic Properties (Dan Marshall、Brian Weatherson)](i/intrinsic-extrinsic.md)
+* [变化与不一致 Change and Inconsistency (Chris Mortensen)](c/change.md)
+
+#### 人格同一性
+
+* [人格同一性 Personal Identity (Eric T. Olson)](i/identity-personal.md)
+* [动物主义 Animalism (Stephan Blatti)](a/animalism.md)
+* [人格同一性与伦理学 Personal Identity and Ethics (Annette Dufner)](i/identity-ethics.md)
+* [历时同一性 Identity Over Time (Andre Gallois、Irem Kurtsal)](i/identity-time.md)
+* [变革性体验 Transformative Experience (Rebecca Chan)](t/transformative-experience.md)
 
 ### 时间与空间哲学
 
-* [时间部分 Temporal Parts (Katherine Hawley)](t/temporal-parts.md)
+#### 时间与时间部分
+
 * [时间 Time (Nina Emery、Ned Markosian、Meghan Sullivan)](t/time.md)
-* [经典理论中的空间与运动的绝对性与相对性 Absolute and Relational Space and Motion: Classical Theories (Carl Hoefer、Nick Huggett、James Read)](s/spacetime-theories-classical.md)
-* [后牛顿理论中的空间与运动的绝对性与相对性 Absolute and Relational Space and Motion: Post-Newtonian Theories (Nick Huggett、Carl Hoefer、James Read)](s/spacetime-theories.md)
-* [现代物理学中的存在与变化 Being and Becoming in Modern Physics (Steven Savitt)](s/spacetime-bebecome.md)
-* [位置与分体论 Location and Mereology (Cody Gilmore、Claudio Calosi、Damiano Costa)](l/location-mereology.md)
+* [时间部分 Temporal Parts (Katherine Hawley)](t/temporal-parts.md)
 * [现在主义 Presentism (David Ingram、Jonathan Tallant)](p/presentism.md)
-* [奇点与黑洞 Singularities and Black Holes (Erik Curiel、Manus Visser、Juliusz Doboszewski)](s/spacetime-singularities.md)
-* [空间与时间：惯性系 Space and Time: Inertial Frames (Robert DiSalle)](s/spacetime-iframes.md)
-* [超级任务 Supertasks (JB Manchak、Bryan W. Roberts)](s/spacetime-supertasks.md)
 * [热力学时间非对称性 Thermodynamic Asymmetry in Time (Craig Callender)](t/time-thermo.md)
 * [时间机器 Time Machines (John Earman、Christian Wüthrich、JB Manchak)](t/time-machine.md)
 * [时间旅行 Time Travel (Nicholas J.J. Smith)](t/time-travel.md)
 * [时间旅行与现代物理学 Time Travel and Modern Physics (Christopher Smeenk、Frank Arntzenius、Tim Maudlin)](t/time-travel-phys.md)
+* [现代物理学中的存在与变化 Being and Becoming in Modern Physics (Steven Savitt)](s/spacetime-bebecome.md)
+* [超级任务 Supertasks (JB Manchak、Bryan W. Roberts)](s/spacetime-supertasks.md)
+
+#### 空间与时空
+
+* [经典理论中的空间与运动的绝对性与相对性 Absolute and Relational Space and Motion: Classical Theories (Carl Hoefer、Nick Huggett、James Read)](s/spacetime-theories-classical.md)
+* [后牛顿理论中的空间与运动的绝对性与相对性 Absolute and Relational Space and Motion: Post-Newtonian Theories (Nick Huggett、Carl Hoefer、James Read)](s/spacetime-theories.md)
+* [空间与时间：惯性系 Space and Time: Inertial Frames (Robert DiSalle)](s/spacetime-iframes.md)
+* [位置与分体论 Location and Mereology (Cody Gilmore、Claudio Calosi、Damiano Costa)](l/location-mereology.md)
+* [奇点与黑洞 Singularities and Black Holes (Erik Curiel、Manus Visser、Juliusz Doboszewski)](s/spacetime-singularities.md)
 
 ### 模态与可能世界
+
+#### 可能世界与模态
 
 * [可能世界 Possible Worlds (Christopher Menzel)](p/possible-worlds.md)
 * [模态的多样性 Varieties of Modality (Boris Kment)](m/modality-varieties.md)
 * [不可能世界 Impossible Worlds (Francesco Berto、Mark Jago)](i/impossible-worlds.md)
+
+#### 可能对象与实在论辩论
+
 * [可能对象 Possible Objects (Takashi Yagisawa)](p/possible-objects.md)
 * [可能性主义与实在主义辩论 The Possibilism-Actualism Debate (Christopher Menzel)](p/possibilism-actualism.md)
 
@@ -1956,50 +2226,77 @@ outline: [1, 6]
 
 ### 元认识论
 
-* [分歧 Disagreement (Bryan Frances、Jonathan Matheson)](d/disagreement.md)
-* [社会认识论 Social Epistemology (Cailin O’Connor、Sanford Goldberg、Alvin Goldman)](e/epistemology-social.md)
-* [知识证成的融贯论 Coherentist Theories of Epistemic Justification (Erik Olsson)](j/justep-coherence.md)
-* [认识论上的自我怀疑 Epistemic Self-Doubt (Sherrilyn Roush)](e/epistemic-self-doubt.md)
-* [知识证成的基础主义理论 Foundationalist Theories of Epistemic Justification (Ali Hasan、Richard Fumerton)](j/justep-foundational.md)
-* [知识证成的内在主义与外在主义观念 Internalist vs. Externalist Conceptions of Epistemic Justification (Clayton Littlejohn)](j/justep-intext.md)
+#### 元认识论与规范
+
 * [元认识论 Metaepistemology (J. Adam Carter、Ernest Sosa)](m/metaepistemology.md)
 * [结构理性 Structural Rationality (Benjamin Kiesewetter、Alex Worsnip)](r/rationality-structural.md)
 * [模态认识论 The Epistemology of Modality (Antonella Mallozzi、Anand Vaidya、Michael Wallner)](m/modality-epistemology.md)
 
+#### 证成理论
+
+* [知识证成的融贯论 Coherentist Theories of Epistemic Justification (Erik Olsson)](j/justep-coherence.md)
+* [知识证成的基础主义理论 Foundationalist Theories of Epistemic Justification (Ali Hasan、Richard Fumerton)](j/justep-foundational.md)
+* [知识证成的内在主义与外在主义观念 Internalist vs. Externalist Conceptions of Epistemic Justification (Clayton Littlejohn)](j/justep-intext.md)
+
+#### 社会与分歧
+
+* [社会认识论 Social Epistemology (Cailin O’Connor、Sanford Goldberg、Alvin Goldman)](e/epistemology-social.md)
+* [分歧 Disagreement (Bryan Frances、Jonathan Matheson)](d/disagreement.md)
+* [认识论上的自我怀疑 Epistemic Self-Doubt (Sherrilyn Roush)](e/epistemic-self-doubt.md)
+
 ### 认识论总论
 
+#### 知识与分析
+
 * [认识论 Epistemology (Matthias Steup、Ram Neta)](e/epistemology.md)
-* [亲知与摹状知识 Knowledge by Acquaintance vs. Description (Ali Hasan、Richard Fumerton)](k/knowledge-acquaindescrip.md)
-* [关于如何做某事的知识 Knowledge How (Carlotta Pavese)](k/knowledge-how.md)
 * [知识的分析 The Analysis of Knowledge (Jonathan Ichikawa、Matthias Steup)](k/knowledge-analysis.md)
-* [归纳问题 The Problem of Induction (Leah Henderson)](i/induction-problem.md)
-* [溯因 Abduction (Igor Douven)](a/abduction.md)
-* [古代和中世纪的经验主义 Ancient and Medieval Empiricism (Gregory W. Dawes)](e/empiricism-ancient-medieval.md)
-* [贝叶斯认识论 Bayesian Epistemology (Hanti Lin)](e/epistemology-bayesian.md)
-* [确定性 Certainty (Baron Reed)](c/certainty.md)
-* [共同知识 Common Knowledge (Peter Vanderschraaf、Giacomo Sillari)](c/common-knowledge.md)
-* [认知闭合 Epistemic Closure (Steven Luper)](c/closure-epistemic.md)
-* [认识语境论 Epistemic Contextualism (Patrick Rysiew)](c/contextualism-epistemology.md)
-* [认知悖论 Epistemic Paradoxes (Roy Sorensen)](e/epistemic-paradoxes.md)
-* [关于认知规范的认知效用论证 Epistemic Utility Arguments for Epistemic Norms (Richard Pettigrew)](e/epistemic-utility.md)
-* [记忆的认识论问题 Epistemological Problems of Memory (Matthew Frise)](m/memory-episprob.md)
-* [证言的认识论问题 Epistemological Problems of Testimony (Nick Leonard)](t/testimony-episprob.md)
-* [菲奇的可知性悖论 Fitch’s Paradox of Knowability (Berit Brogaard、Joe Salerno)](f/fitch-paradox.md)
-* [形式认识论 Formal Epistemology (Jonathan Weisberg)](f/formal-epistemology.md)
-* [探究 Inquiry (Arianna Falbo、David Thorstad、Dennis Whitcomb)](i/inquiry.md)
-* [自然主义认识论 Naturalism in Epistemology (Patrick Rysiew)](e/epistemology-naturalized.md)
-* [理性主义与经验主义 Rationalism vs. Empiricism (Peter Markie、M. Folescu)](r/rationalism-empiricism.md)
+* [关于如何做某事的知识 Knowledge How (Carlotta Pavese)](k/knowledge-how.md)
+* [亲知与摹状知识 Knowledge by Acquaintance vs. Description (Ali Hasan、Richard Fumerton)](k/knowledge-acquaindescrip.md)
 * [知识的价值 The Value of Knowledge (Duncan Pritchard、John Turri、J. Adam Carter)](k/knowledge-value.md)
 * [理解 Understanding (Stephen Grimm)](u/understanding.md)
+
+#### 怀疑论与确定性
+
+* [确定性 Certainty (Baron Reed)](c/certainty.md)
+* [认知闭合 Epistemic Closure (Steven Luper)](c/closure-epistemic.md)
+* [认知悖论 Epistemic Paradoxes (Roy Sorensen)](e/epistemic-paradoxes.md)
+* [菲奇的可知性悖论 Fitch’s Paradox of Knowability (Berit Brogaard、Joe Salerno)](f/fitch-paradox.md)
+* [认识语境论 Epistemic Contextualism (Patrick Rysiew)](c/contextualism-epistemology.md)
+
+#### 归纳、溯因与形式认识论
+
+* [归纳问题 The Problem of Induction (Leah Henderson)](i/induction-problem.md)
+* [溯因 Abduction (Igor Douven)](a/abduction.md)
+* [贝叶斯认识论 Bayesian Epistemology (Hanti Lin)](e/epistemology-bayesian.md)
+* [形式认识论 Formal Epistemology (Jonathan Weisberg)](f/formal-epistemology.md)
+* [关于认知规范的认知效用论证 Epistemic Utility Arguments for Epistemic Norms (Richard Pettigrew)](e/epistemic-utility.md)
+* [共同知识 Common Knowledge (Peter Vanderschraaf、Giacomo Sillari)](c/common-knowledge.md)
+
+#### 经验主义与自然主义
+
+* [古代和中世纪的经验主义 Ancient and Medieval Empiricism (Gregory W. Dawes)](e/empiricism-ancient-medieval.md)
+* [理性主义与经验主义 Rationalism vs. Empiricism (Peter Markie、M. Folescu)](r/rationalism-empiricism.md)
+* [自然主义认识论 Naturalism in Epistemology (Patrick Rysiew)](e/epistemology-naturalized.md)
 * [美德认识论 Virtue Epistemology (John Turri、Mark Alfano、John Greco)](e/epistemology-virtue.md)
+
+#### 记忆、证言与探究
+
+* [记忆的认识论问题 Epistemological Problems of Memory (Matthew Frise)](m/memory-episprob.md)
+* [证言的认识论问题 Epistemological Problems of Testimony (Nick Leonard)](t/testimony-episprob.md)
+* [探究 Inquiry (Arianna Falbo、David Thorstad、Dennis Whitcomb)](i/inquiry.md)
 
 ### 信念与证成
 
-* [可靠主义认识论 Reliabilist Epistemology (Alvin Goldman、Bob Beddor)](r/reliabilism.md)
+#### 信念
+
 * [信念 Belief (Eric Schwitzgebel)](b/belief.md)
 * [信念自愿论 Doxastic Voluntarism (Mark Boespflug、Elizabeth Jackson)](d/doxastic-voluntarism.md)
-* [认知基础关系 The Epistemic Basing Relation (Keith Allen Korcz)](b/basing-epistemic.md)
 * [信念伦理学 The Ethics of Belief (Andrew Chignell)](e/ethics-belief.md)
+
+#### 证成与传递
+
+* [可靠主义认识论 Reliabilist Epistemology (Alvin Goldman、Bob Beddor)](r/reliabilism.md)
+* [认知基础关系 The Epistemic Basing Relation (Keith Allen Korcz)](b/basing-epistemic.md)
 * [辩护与担保的传递 Transmission of Justification and Warrant (Luca Moretti、Tommaso Piazza)](t/transmission-justification-warrant.md)
 
 ### 怀疑论
@@ -2008,8 +2305,13 @@ outline: [1, 6]
 
 ### 证据与合理性
 
+#### 证据与高阶证据
+
 * [证据 Evidence (Thomas Kelly)](e/evidence.md)
 * [高阶证据 Higher-Order Evidence (Sophie Horowitz)](h/higher-order-evidence.md)
+
+#### 直觉与自我定位
+
 * [直觉 Intuition (Joel Pust)](i/intuition.md)
 * [自我定位信念 Self-Locating Beliefs (Andy Egan、Michael G. Titelbaum)](s/self-locating-beliefs.md)
 
@@ -2040,128 +2342,190 @@ outline: [1, 6]
 
 ### 语义学
 
-* [组合性 Compositionality (Bryan Pickel、Zoltán Gendler Szabó)](c/compositionality.md)
-* [指称 Reference (Eliot Michaelson)](r/reference.md)
+#### 意义与指称
+
 * [意义理论 Theories of Meaning (Jeff Speaks)](m/meaning.md)
-* [歧义 Ambiguity (Adam Sennet)](a/ambiguity.md)
-* [回指 Anaphora (Jeffrey C. King、Karen S. Lewis)](a/anaphora.md)
-* [断言 Assertion (Peter Pagin、Neri Marsili)](a/assertion.md)
-* [范畴错误 Category Mistakes (Ofra Magidor)](c/category-mistakes.md)
-* [语义和语用中的默认 Defaults in Semantics and Pragmatics (Katarzyna M. Jaszczolt)](d/defaults-semantics-pragmatics.md)
-* [定义 Definitions (Anil Gupta、Stephen Mackereth)](d/definitions.md)
-* [双面真理论 Dialetheism (Graham Priest、Francesco Berto、Zach Weber)](d/dialetheism.md)
-* [话语表征理论 Discourse Representation Theory (Bart Geurts、David I. Beaver、Emar Maier)](d/discourse-representation-theory.md)
-* [动态语义 Dynamic Semantics (Rick Nouwen、Adrian Brasoveanu、Jan van Eijck、Albert Visser)](d/dynamic-semantics.md)
-* [博弈、完全抽象与完全性 Games, Full Abstraction and Full Completeness (Felice Cardone)](g/games-abstraction.md)
-* [指代词 Indexicals (David Braun、Alexandru Radulescu)](i/indexicals.md)
-* [内涵及物动词 Intensional Transitive Verbs (Graeme Forbes)](i/intensional-trans-verbs.md)
-* [说谎者悖论 Liar Paradox (Jc Beall、Michael Glanzberg、Ellie Ripley、Lorenzo Rossi)](l/liar-paradox.md)
-* [意义整体论 Meaning Holism (Henry Jackman)](m/meaning-holism.md)
-* [隐喻 Metaphor (David Hills)](m/metaphor.md)
-* [蒙太古语义学 Montague Semantics (Theo M. V. Janssen、Thomas Ede Zimmermann)](m/montague-semantics.md)
-* [专名 Names (Sam Cumming)](n/names.md)
-* [否定 Negation (Laurence R. Horn、Heinrich Wansing)](n/negation.md)
-* [证明论语义 Proof-Theoretic Semantics (Peter Schroeder-Heister)](p/proof-theoretic-semantics.md)
-* [问题 Questions (Charles Cross、Floris Roelofsen)](q/questions.md)
-* [自我指涉 Self-Reference and Paradox (Thomas Bolander)](s/self-reference.md)
-* [手语语义学 Sign Language Semantics (Philippe Schlenker、Jonathan Lamberton、Jeremy Kuhn)](s/sign-language-semantics.md)
-* [时态与体态 Tense and Aspect (Friedrich Hamm、Oliver Bott)](t/tense-aspect.md)
-* [物质名词的逻辑 The Logic of Mass Expressions (David Nicolas)](l/logic-massexpress.md)
-* [意义与内容的规范性 The Normativity of Meaning and Content (Kathrin Glüer、Åsa Wikforss、Marianna Ganapini)](m/meaning-normativity.md)
-* [二维语义学 Two-Dimensional Semantics (Laura Schroeter)](t/two-dimensional-semantics.md)
+* [指称 Reference (Eliot Michaelson)](r/reference.md)
 * [词义 Word Meaning (Luca Gasparri、Diego Marconi)](w/word-meaning.md)
+* [组合性 Compositionality (Bryan Pickel、Zoltán Gendler Szabó)](c/compositionality.md)
+* [意义整体论 Meaning Holism (Henry Jackman)](m/meaning-holism.md)
+* [意义与内容的规范性 The Normativity of Meaning and Content (Kathrin Glüer、Åsa Wikforss、Marianna Ganapini)](m/meaning-normativity.md)
+* [定义 Definitions (Anil Gupta、Stephen Mackereth)](d/definitions.md)
+
+#### 名称与指代
+
+* [专名 Names (Sam Cumming)](n/names.md)
+* [指代词 Indexicals (David Braun、Alexandru Radulescu)](i/indexicals.md)
+* [回指 Anaphora (Jeffrey C. King、Karen S. Lewis)](a/anaphora.md)
+* [内涵及物动词 Intensional Transitive Verbs (Graeme Forbes)](i/intensional-trans-verbs.md)
+* [歧义 Ambiguity (Adam Sennet)](a/ambiguity.md)
+
+#### 语义理论
+
+* [动态语义 Dynamic Semantics (Rick Nouwen、Adrian Brasoveanu、Jan van Eijck、Albert Visser)](d/dynamic-semantics.md)
+* [话语表征理论 Discourse Representation Theory (Bart Geurts、David I. Beaver、Emar Maier)](d/discourse-representation-theory.md)
+* [蒙太古语义学 Montague Semantics (Theo M. V. Janssen、Thomas Ede Zimmermann)](m/montague-semantics.md)
+* [证明论语义 Proof-Theoretic Semantics (Peter Schroeder-Heister)](p/proof-theoretic-semantics.md)
+* [二维语义学 Two-Dimensional Semantics (Laura Schroeter)](t/two-dimensional-semantics.md)
+* [博弈、完全抽象与完全性 Games, Full Abstraction and Full Completeness (Felice Cardone)](g/games-abstraction.md)
+* [时态与体态 Tense and Aspect (Friedrich Hamm、Oliver Bott)](t/tense-aspect.md)
+* [否定 Negation (Laurence R. Horn、Heinrich Wansing)](n/negation.md)
+* [问题 Questions (Charles Cross、Floris Roelofsen)](q/questions.md)
+
+#### 悖论与自指
+
+* [说谎者悖论 Liar Paradox (Jc Beall、Michael Glanzberg、Ellie Ripley、Lorenzo Rossi)](l/liar-paradox.md)
+* [自我指涉 Self-Reference and Paradox (Thomas Bolander)](s/self-reference.md)
+* [双面真理论 Dialetheism (Graham Priest、Francesco Berto、Zach Weber)](d/dialetheism.md)
+* [范畴错误 Category Mistakes (Ofra Magidor)](c/category-mistakes.md)
+
+#### 断言与交叉
+
+* [断言 Assertion (Peter Pagin、Neri Marsili)](a/assertion.md)
+* [隐喻 Metaphor (David Hills)](m/metaphor.md)
+* [语义和语用中的默认 Defaults in Semantics and Pragmatics (Katarzyna M. Jaszczolt)](d/defaults-semantics-pragmatics.md)
+* [手语语义学 Sign Language Semantics (Philippe Schlenker、Jonathan Lamberton、Jeremy Kuhn)](s/sign-language-semantics.md)
+* [物质名词的逻辑 The Logic of Mass Expressions (David Nicolas)](l/logic-massexpress.md)
 
 ### 语用学
 
-* [含义 Implicature (Wayne Davis)](i/implicature.md)
+#### 语用总论
+
 * [语用学 Pragmatics (Kepa Korta、John Perry)](p/pragmatics.md)
+* [含义 Implicature (Wayne Davis)](i/implicature.md)
+* [预设 Presupposition (David I. Beaver、Bart Geurts、Kristie Denlinger)](p/presupposition.md)
+
+#### 言语行为与态度报告
+
 * [言语行为 Speech Acts (Mitchell Green)](s/speech-acts.md)
+* [命题态度报告 Propositional Attitude Reports (Michael Nelson)](p/prop-attitude-reports.md)
+* [引语 Quotation (Herman Cappelen、Ernest Lepore、Matthew McKeever)](q/quotation.md)
+
+#### 语用与认知
+
 * [语用学中的共同基础 Common Ground in Pragmatics (Bart Geurts)](c/common-ground-pragmatics.md)
 * [个人方言 Idiolects (Alex Barber、Eduardo Garcia Ramirez)](i/idiolects.md)
 * [优选论和博弈论对含义的研究方法 Optimality-Theoretic and Game-Theoretic Approaches to Implicature (Robert van Rooij、Michael Franke)](i/implicature-optimality-games.md)
-* [预设 Presupposition (David I. Beaver、Bart Geurts、Kristie Denlinger)](p/presupposition.md)
-* [命题态度报告 Propositional Attitude Reports (Michael Nelson)](p/prop-attitude-reports.md)
-* [引语 Quotation (Herman Cappelen、Ernest Lepore、Matthew McKeever)](q/quotation.md)
 
 ## 心灵哲学
 
 ### 心灵哲学总论
 
+#### 心理现象总论
+
 * [能力 Abilities (John Maier、Sophie Kikkert)](a/abilities.md)
-* [联想主义的思维理论 Associationist Theories of Thought (Eric Mandelbaum、Raphaël Millière)](a/associationist-thought.md)
 * [注意力 Attention (Christopher Mole)](a/attention.md)
+* [内省 Introspection (Eric Schwitzgebel)](i/introspection.md)
+* [联想主义的思维理论 Associationist Theories of Thought (Eric Mandelbaum、Raphaël Millière)](a/associationist-thought.md)
+
+#### 进化与偏见
+
 * [进化心理学 Evolutionary Psychology (Stephen M. Downes)](e/evolutionary-psychology.md)
 * [内隐偏见 Implicit Bias (Michael Brownstein)](i/implicit-bias.md)
-* [内省 Introspection (Eric Schwitzgebel)](i/introspection.md)
 
 ### 意识
 
+#### 意识总论与理论
+
 * [意识 Consciousness (Robert Van Gulick)](c/consciousness.md)
-* [梦与梦境 Dreams and Dreaming (Jennifer M. Windt)](d/dreams-dreaming.md)
 * [意识的高阶理论 Higher-Order Theories of Consciousness (Peter Carruthers、Rocco Gennaro)](c/consciousness-higher.md)
-* [想象 Imagination (Daniel Munro、Shen-yi Liao、Tamar Gendler)](i/imagination.md)
-* [中立一元论 Neutral Monism (Leopold Stubenberg、Donovan Wishon)](n/neutral-monism.md)
-* [疼痛 Pain (Murat Aydede)](p/pain.md)
-* [泛心论 Panpsychism (Philip Goff、William Seager、Sean Allen-Hermanson)](p/panpsychism.md)
-* [自我意识的现象学方法 Phenomenological Approaches to Self-Consciousness (Shaun Gallagher、Dan Zahavi)](s/self-consciousness-phenomenological.md)
 * [意识表征理论 Representational Theories of Consciousness (William Lycan)](c/consciousness-representational.md)
+* [中立一元论 Neutral Monism (Leopold Stubenberg、Donovan Wishon)](n/neutral-monism.md)
+* [泛心论 Panpsychism (Philip Goff、William Seager、Sean Allen-Hermanson)](p/panpsychism.md)
 * [罗素一元论 Russellian Monism (Torin Alter、Derk Pereboom)](r/russellian-monism.md)
+
+#### 自我意识
+
 * [自我意识 Self-Consciousness (Joel Smith)](s/self-consciousness.md)
+* [自我意识的现象学方法 Phenomenological Approaches to Self-Consciousness (Shaun Gallagher、Dan Zahavi)](s/self-consciousness-phenomenological.md)
 * [自我欺骗 Self-Deception (Ian Deweese-Boyd)](s/self-deception.md)
+
+#### 意识专题
+
+* [梦与梦境 Dreams and Dreaming (Jennifer M. Windt)](d/dreams-dreaming.md)
+* [想象 Imagination (Daniel Munro、Shen-yi Liao、Tamar Gendler)](i/imagination.md)
+* [疼痛 Pain (Murat Aydede)](p/pain.md)
 * [时间意识 Temporal Consciousness (Barry Dainton)](c/consciousness-temporal.md)
 * [意识的统一性 The Unity of Consciousness (Farid Masrour、Andrew Brook、Paul Raymont)](c/consciousness-unity.md)
 * [僵尸 Zombies (Robert Kirk)](z/zombies.md)
 
 ### 知觉
 
-* [颜色 Color (Barry Maund)](c/color.md)
-* [基于行动的知觉理论 Action-based Theories of Perception (Robert Briscoe、Rick Grush、Alison Springle)](a/action-perception.md)
-* [听知觉 Auditory Perception (Casey O’Callaghan)](p/perception-auditory.md)
-* [身体意识 Bodily Awareness (Frédérique de Vignemont)](b/bodily-awareness.md)
-* [知觉的认识论问题 Epistemological Problems of Perception (Jack Lyons)](p/perception-episprob.md)
-* [莫利纽克斯问题 Molyneux’s Problem (Brian Glenney、Gabriele Ferretti、Marjolein Degenaar)](m/molyneux-problem.md)
-* [知觉经验与知觉辩护 Perceptual Experience and Perceptual Justification (Nicholas Silins)](p/perception-justification.md)
-* [知觉学习 Perceptual Learning (Kevin Connolly、Adrienne Prettyman)](p/perceptual-learning.md)
-* [感觉材料 Sense Data (Gary Hatfield)](s/sense-data.md)
-* [声音 Sounds (Roberto Casati、Jerome Dokic、Elvira Di Bona)](s/sounds.md)
+#### 知觉总论与理论
+
+* [知觉问题 The Problem of Perception (Tim Crane、Craig French)](p/perception-problem.md)
 * [感知的内容 The Contents of Perception (Susanna Siegel)](p/perception-contents.md)
 * [感知的析取理论 The Disjunctive Theory of Perception (Matthew Soteriou)](p/perception-disjunctive.md)
-* [知觉问题 The Problem of Perception (Tim Crane、Craig French)](p/perception-problem.md)
+* [知觉的认识论问题 Epistemological Problems of Perception (Jack Lyons)](p/perception-episprob.md)
+* [知觉经验与知觉辩护 Perceptual Experience and Perceptual Justification (Nicholas Silins)](p/perception-justification.md)
+* [基于行动的知觉理论 Action-based Theories of Perception (Robert Briscoe、Rick Grush、Alison Springle)](a/action-perception.md)
+
+#### 感觉与感官
+
+* [颜色 Color (Barry Maund)](c/color.md)
+* [声音 Sounds (Roberto Casati、Jerome Dokic、Elvira Di Bona)](s/sounds.md)
 * [触觉 Touch (Matthew Fulkerson)](t/touch.md)
+* [听知觉 Auditory Perception (Casey O’Callaghan)](p/perception-auditory.md)
+* [身体意识 Bodily Awareness (Frédérique de Vignemont)](b/bodily-awareness.md)
+
+#### 专题
+
+* [莫利纽克斯问题 Molyneux’s Problem (Brian Glenney、Gabriele Ferretti、Marjolein Degenaar)](m/molyneux-problem.md)
+* [知觉学习 Perceptual Learning (Kevin Connolly、Adrienne Prettyman)](p/perceptual-learning.md)
+* [感觉材料 Sense Data (Gary Hatfield)](s/sense-data.md)
 
 ### 心理现象与认知科学
+
+#### 认知科学总论
 
 * [认知科学 Cognitive Science (Paul Thagard)](c/cognitive-science.md)
 * [概念 Concepts (Eric Margolis、Stephen Laurence)](c/concepts.md)
 * [意向性 Intentionality (Pierre Jacob)](i/intentionality.md)
-* [记忆 Memory (Kourken Michaelian、John Sutton)](m/memory.md)
 * [心理表征 Mental Representation (David Pitt)](m/mental-representation.md)
+* [记忆 Memory (Kourken Michaelian、John Sutton)](m/memory.md)
+* [自我认识 Self-Knowledge (Brie Gertler)](s/self-knowledge.md)
+
+#### 心理内容
+
 * [心理内容的因果理论 Causal Theories of Mental Content (Fred Adams、Ken Aizawa)](c/content-causal.md)
-* [集体意向性 Collective Intentionality (David P. Schweikard、Hans Bernhard Schmid)](c/collective-intentionality.md)
-* [意识与意向性 Consciousness and Intentionality (Charles Siewert)](c/consciousness-intentionality.md)
-* [文化与认知科学 Culture and Cognitive Science (Daniel Kelly、Andreas De Block)](c/culture-cogsci.md)
-* [妄想 Delusion (Lisa Bortolotti)](d/delusion.md)
-* [具身认知 Embodied Cognition (Lawrence Shapiro、Shannon Spaulding)](e/embodied-cognition.md)
-* [古斯塔夫·特奥多尔·费希纳 Gustav Theodor Fechner (Frederick C. Beiser)](f/fechner.md)
-* [先天性与当代认知理论 Innateness and Contemporary Theories of Cognition (Mark Cain)](i/innateness-cognition.md)
-* [先天与语言 Innateness and Language (Gabe Dupre)](i/innateness-language.md)
-* [内部言语 Inner Speech (Daniel Gregory、Peter Langland-Hassan)](i/inner-speech.md)
-* [意图 Intention (Kieran Setiya)](i/intention.md)
-* [心理意象 Mental Imagery (Bence Nanay)](m/mental-imagery.md)
-* [心理模块性 Modularity of Mind (Philip Robbins、Zoe Drayson)](m/modularity-mind.md)
 * [狭义心理内容 Narrow Mental Content (Curtis Brown)](c/content-narrow.md)
 * [非概念性心理内容 Nonconceptual Mental Content (José Bermúdez、Arnon Cahen)](c/content-nonconceptual.md)
-* [现象意向性 Phenomenal Intentionality (David Bourget、Angela Mendelovici)](p/phenomenal-intentionality.md)
-* [自我认识 Self-Knowledge (Brie Gertler)](s/self-knowledge.md)
 * [心理内容的目的论 Teleological Theories of Mental Content (Peter Schulte、Karen Neander)](c/content-teleological.md)
+* [现象意向性 Phenomenal Intentionality (David Bourget、Angela Mendelovici)](p/phenomenal-intentionality.md)
+* [意识与意向性 Consciousness and Intentionality (Charles Siewert)](c/consciousness-intentionality.md)
+
+#### 认知架构
+
+* [心理模块性 Modularity of Mind (Philip Robbins、Zoe Drayson)](m/modularity-mind.md)
 * [思维语言假说 The Language of Thought Hypothesis (Michael Rescorla)](l/language-thought.md)
+* [具身认知 Embodied Cognition (Lawrence Shapiro、Shannon Spaulding)](e/embodied-cognition.md)
+* [内部言语 Inner Speech (Daniel Gregory、Peter Langland-Hassan)](i/inner-speech.md)
+* [心理意象 Mental Imagery (Bence Nanay)](m/mental-imagery.md)
+* [先天性与当代认知理论 Innateness and Contemporary Theories of Cognition (Mark Cain)](i/innateness-cognition.md)
+* [先天与语言 Innateness and Language (Gabe Dupre)](i/innateness-language.md)
+
+#### 文化、规范与病理
+
+* [文化与认知科学 Culture and Cognitive Science (Daniel Kelly、Andreas De Block)](c/culture-cogsci.md)
+* [妄想 Delusion (Lisa Bortolotti)](d/delusion.md)
 * [规范认知的心理学 The Psychology of Normative Cognition (Daniel Kelly、Evan Westra、Stephen Setman)](p/psychology-normative-cognition.md)
+* [集体意向性 Collective Intentionality (David P. Schweikard、Hans Bernhard Schmid)](c/collective-intentionality.md)
+* [意图 Intention (Kieran Setiya)](i/intention.md)
+
+#### 人物
+
+* [古斯塔夫·特奥多尔·费希纳 Gustav Theodor Fechner (Frederick C. Beiser)](f/fechner.md)
 * [威廉·马克西米利安·冯特 Wilhelm Maximilian Wundt (Alan Kim)](w/wilhelm-wundt.md)
 
 ### 心灵因果性
 
+#### 民间心理学
+
 * [作为理论的民间心理学 Folk Psychology as a Theory (Daniel Hutto、Ian Ravenscroft)](f/folkpsych-theory.md)
 * [作为心理模拟的民间心理学 Folk Psychology as Mental Simulation (Luca Barlassina、Robert M. Gordon)](f/folkpsych-simulation.md)
+
+#### 心灵因果
+
 * [心灵因果 Mental Causation (David Robb、John Heil、Sophie Gibb)](m/mental-causation.md)
   * [副现象主义 Epiphenomenalism (William Robinson)](e/epiphenomenalism.md)
 
@@ -2170,26 +2534,39 @@ outline: [1, 6]
 >
 > 本节涵盖：物理主义的动机、佩尔、心灵随附性、先天物理主义与后天物理主义、行为主义、心脑同一论、功能主义、取消主义、自然科学的愿景
 
-* [功能主义 Functionalism (Janet Levin)](f/functionalism.md)
+#### 物理主义与功能主义
+
 * [物理主义 Physicalism (Daniel Stoljar)](p/physicalism.md)
-* [感质 Qualia (Michael Tye)](q/qualia.md)
+* [功能主义 Functionalism (Janet Levin)](f/functionalism.md)
+* [多重可实现性 Multiple Realizability (John Bickle)](m/multiple-realizability.md)
+* [取消唯物主义 Eliminative Materialism (William Ramsey)](m/materialism-eliminative.md)
+* [心脑同一论 The Mind/Brain Identity Theory (J. J. C. Smart)](m/mind-identity.md)
 * [变异一元论 Anomalous Monism (Steven Yalowitz)](a/anomalous-monism.md)
 * [行为主义 Behaviorism (George Graham)](b/behaviorism.md)
+
+#### 二元论
+
 * [二元论 Dualism (Howard Robinson、Ralph Weir)](d/dualism.md)
-* [取消唯物主义 Eliminative Materialism (William Ramsey)](m/materialism-eliminative.md)
+
+#### 感质
+
+* [感质 Qualia (Michael Tye)](q/qualia.md)
 * [感质倒转 Inverted Qualia (Alex Byrne)](q/qualia-inverted.md)
-* [多重可实现性 Multiple Realizability (John Bickle)](m/multiple-realizability.md)
 * [关于感质的知识论证 Qualia: The Knowledge Argument (Martine Nida-Rümelin、Donnchadh O Conaill)](q/qualia-knowledge.md)
-* [心脑同一论 The Mind/Brain Identity Theory (J. J. C. Smart)](m/mind-identity.md)
 
 ### 延展心灵与外在主义
 
 >
 > 本节涵盖：内容外在主义的动机、分身论证、心灵延展性、内在主义、载体外在主义与延展心灵
 
+#### 外在主义
+
+* [心灵外在主义 Externalism About the Mind (Mark Rowlands、Joe Lau、Max Deutsch)](c/content-externalism.md)
+
+#### 怀疑论与外在主义
+
 * [怀疑论和内容外在主义 Content Externalism and Skepticism (Gary Ebbs)](s/skepticism-content-externalism.md)
   * [外在主义与自我认识 Externalism and Self-Knowledge (T. Parent)](s/self-knowledge-externalism.md)
-* [心灵外在主义 Externalism About the Mind (Mark Rowlands、Joe Lau、Max Deutsch)](c/content-externalism.md)
 
 ### 他心问题
 
@@ -2197,8 +2574,13 @@ outline: [1, 6]
 
 ### 情感
 
+#### 情感总论
+
 * [情感 Emotion (Andrea Scarantino、Ronald de Sousa)](e/emotion.md)
 * [同理心 Empathy (Karsten Stueber)](e/empathy.md)
+
+#### 情感专题
+
 * [感恩 Gratitude (Tony Manela)](g/gratitude.md)
 * [希望 Hope (Claudia Bloeser、Titus Stahl)](h/hope.md)
 * [爱 Love (Bennett Helm)](l/love.md)
@@ -2207,28 +2589,44 @@ outline: [1, 6]
 
 ### 自由意志
 
+#### 自由意志总论
+
 * [自由意志 Free Will (Timothy O’Connor、Christopher Franklin)](f/freewill.md)
-* [相容论 Compatibilism (Michael McKenna、D. Justin Coates)](c/compatibilism.md)
-* [自由意志的不相容论论证 Arguments for Incompatibilism (Kadri Vihvelin)](i/incompatibilism-arguments.md)
 * [宿命论 Fatalism (Hugh Rice)](f/fatalism.md)
+
+#### 相容论
+
+* [相容论 Compatibilism (Michael McKenna、D. Justin Coates)](c/compatibilism.md)
+
+#### 不相容论
+
+* [自由意志的不相容论论证 Arguments for Incompatibilism (Kadri Vihvelin)](i/incompatibilism-arguments.md)
 * [自由意志的不相容主义（非决定性）理论 Incompatibilist (Nondeterministic) Theories of Free Will (Randolph Clarke、Justin Capes、Philip Swenson)](i/incompatibilism-theories.md)
 
 ### 决策与博弈论
 
+#### 决策理论
+
 * [决策理论 Decision Theory (Katie Steele、H. Orri Stefánsson)](d/decision-theory.md)
-* [博弈论 Game Theory (Don Ross)](g/game-theory.md)
 * [因果决策理论 Causal Decision Theory (Paul Weirich)](d/decision-causal.md)
 * [描述性决策理论 Descriptive Decision Theory (Jake Chandler)](d/decision-theory-descriptive.md)
 * [动态选择 Dynamic Choice (Chrisoula Andreou)](d/dynamic-choice.md)
-* [博弈论的认识论基础 Epistemic Foundations of Game Theory (Eric Pacuit、Olivier Roy)](e/epistemic-game.md)
-* [演化博弈论 Evolutionary Game Theory (J. McKenzie Alexander)](g/game-evolutionary.md)
-* [博弈论与伦理学 Game Theory and Ethics (Keith Hankins、Peter Vanderschraaf)](g/game-ethics.md)
 * [理性选择的规范理论：预期效用 Normative Theories of Rational Choice: Expected Utility (R. A. Briggs)](r/rationality-normative-utility.md)
 * [理性选择的规范理论：预期效用的替代理论 Normative Theories of Rational Choice: Rivals to Expected Utility (Lara Buchak)](r/rationality-normative-nonutility.md)
-* [偏好逻辑 Preference Logic (Fenrong Liu、Leon van der Torre)](l/logic-preference.md)
-* [偏好 Preferences (Sven Ove Hansson、Till Grüne-Yanoff)](p/preferences.md)
-* [囚徒困境 Prisoner’s Dilemma (Steven Kuhn)](p/prisoner-dilemma.md)
 * [风险 Risk (Sven Ove Hansson)](r/risk.md)
+
+#### 博弈论
+
+* [博弈论 Game Theory (Don Ross)](g/game-theory.md)
+* [演化博弈论 Evolutionary Game Theory (J. McKenzie Alexander)](g/game-evolutionary.md)
+* [博弈论的认识论基础 Epistemic Foundations of Game Theory (Eric Pacuit、Olivier Roy)](e/epistemic-game.md)
+* [博弈论与伦理学 Game Theory and Ethics (Keith Hankins、Peter Vanderschraaf)](g/game-ethics.md)
+* [囚徒困境 Prisoner’s Dilemma (Steven Kuhn)](p/prisoner-dilemma.md)
+
+#### 偏好与悖论
+
+* [偏好 Preferences (Sven Ove Hansson、Till Grüne-Yanoff)](p/preferences.md)
+* [偏好逻辑 Preference Logic (Fenrong Liu、Leon van der Torre)](l/logic-preference.md)
 * [圣彼得堡悖论 The St. Petersburg Paradox (Martin Peterson)](p/paradox-stpetersburg.md)
 
 ### 道德心理学
@@ -2236,107 +2634,163 @@ outline: [1, 6]
 >
 > 本节涵盖：道德决策、道德发展、道德学习、道德认知-判断决策推理、涉及欲望、意识、恶的概念
 
+#### 道德心理总论
+
+* [道德心理学的经验主义研究 Moral Psychology: Empirical Approaches (John Doris、Stephen Stich、Jonathan Phillips、Lachlan Walmsley)](m/moral-psych-emp.md)
+* [实验伦理学 Experimental Moral Philosophy (Mark Alfano、Edouard Machery、Alexandra Plakias、Don Loeb)](e/experimental-moral.md)
+* [道德学习 Moral Learning (Tamar Kushnir、Shaun Nichols)](m/moral-learning.md)
+* [人性 Human Nature (Neil Roughley)](h/human-nature.md)
+* [欲望 Desire (Tim Schroeder)](d/desire.md)
+
+#### 道德动机与推理
+
+* [道德动机 Moral Motivation (Connie S. Rosati)](m/moral-motivation.md)
+* [道德推理 Moral Reasoning (Henry S. Richardson)](r/reasoning-moral.md)
+* [道德困境 Moral Dilemmas (Terrance McConnell)](m/moral-dilemmas.md)
+* [不确定性下的道德决策 Moral Decision-Making Under Uncertainty (Christian Tarsney、Teruji Thomas、William MacAskill)](m/moral-decision-uncertainty.md)
+* [操纵的伦理 The Ethics of Manipulation (Robert Noggle)](e/ethics-manipulation.md)
+
+#### 责备、宽恕与良心
+
 * [责备 Blame (Neal Tognazzini、D. Justin Coates)](b/blame.md)
+* [宽恕 Forgiveness (Luke Russell、Brandon Warmke)](f/forgiveness.md)
 * [良心 Conscience (Alberto Giubilini)](c/conscience.md)
 * [非人化 Dehumanization (Ben Phillips)](d/dehumanization.md)
-* [欲望 Desire (Tim Schroeder)](d/desire.md)
+
+#### 利他主义
+
 * [利他主义的经验主义研究 Empirical Approaches to Altruism (John Doris、Stephen Stich、Lachlan Walmsley、Armin Schulz)](a/altruism-empirical.md)
-* [实验伦理学 Experimental Moral Philosophy (Mark Alfano、Edouard Machery、Alexandra Plakias、Don Loeb)](e/experimental-moral.md)
-* [宽恕 Forgiveness (Luke Russell、Brandon Warmke)](f/forgiveness.md)
-* [人性 Human Nature (Neil Roughley)](h/human-nature.md)
-* [不确定性下的道德决策 Moral Decision-Making Under Uncertainty (Christian Tarsney、Teruji Thomas、William MacAskill)](m/moral-decision-uncertainty.md)
-* [道德困境 Moral Dilemmas (Terrance McConnell)](m/moral-dilemmas.md)
-* [道德学习 Moral Learning (Tamar Kushnir、Shaun Nichols)](m/moral-learning.md)
-* [道德动机 Moral Motivation (Connie S. Rosati)](m/moral-motivation.md)
-* [道德心理学的经验主义研究 Moral Psychology: Empirical Approaches (John Doris、Stephen Stich、Jonathan Phillips、Lachlan Walmsley)](m/moral-psych-emp.md)
-* [道德推理 Moral Reasoning (Henry S. Richardson)](r/reasoning-moral.md)
-* [操纵的伦理 The Ethics of Manipulation (Robert Noggle)](e/ethics-manipulation.md)
 
 ### 行动哲学与理由论
 
+#### 行动与能动性
+
 * [行动 Action (Juan S. Piñeros Glasscock、Sergio Tenenbaum)](a/action.md)
 * [能动性 Agency (Markus Schlosser)](a/agency.md)
-* [工具理性 Instrumental Rationality (Niko Kolodny、John Brunero)](r/rationality-instrumental.md)
+* [共享能动性 Shared Agency (Abraham Sesshu Roth)](s/shared-agency.md)
+* [意志薄弱 Weakness of Will (Sarah Stroud、Larisa Svirsky)](w/weakness-will.md)
+
+#### 实践理性
+
 * [实践理性 Practical Reason (R. Jay Wallace、Benjamin Kiesewetter)](p/practical-reason.md)
 * [实践理性与行动结构 Practical Reason and the Structure of Actions (Elijah Millgram、Margaret Bowman)](p/practical-reason-action.md)
+* [工具理性 Instrumental Rationality (Niko Kolodny、John Brunero)](r/rationality-instrumental.md)
+
+#### 行动的理由
+
 * [行动的原因：行动者中立与行动者相关 Reasons for Action: Agent-Neutral vs. Agent-Relative (Michael Ridge)](r/reasons-agent.md)
 * [行动的理由：内在或外在 Reasons for Action: Internal vs. External (Stephen Finlay、Mark Schroeder)](r/reasons-internal-external.md)
 * [行动的理由：正当性、动机、解释 Reasons for Action: Justification, Motivation, Explanation (Maria Alvarez、Jonathan Way)](r/reasons-just-vs-expl.md)
-* [共享能动性 Shared Agency (Abraham Sesshu Roth)](s/shared-agency.md)
-* [意志薄弱 Weakness of Will (Sarah Stroud、Larisa Svirsky)](w/weakness-will.md)
 * [权衡理由 Weighing Reasons (Chris Tucker)](w/weighing-reasons.md)
 
 ## 宗教哲学
 
 ### 宗教哲学总论
 
+#### 宗教哲学总论
+
 * [宗教哲学 Philosophy of Religion (Charles Taliaferro)](p/philosophy-religion.md)
-* [来世 Afterlife (William Hasker、Charles Taliaferro)](a/afterlife.md)
-* [无神论和不可知论 Atheism and Agnosticism (Paul Draper)](a/atheism-agnosticism.md)
+* [宗教的定义 The Concept of Religion (Kevin Schilbrack)](c/concept-religion.md)
 * [比较宗教哲学 Comparative Philosophy of Religion (Mikel Burley)](r/religion-comparative.md)
-* [信仰主义 Fideism (Richard Amesbury)](f/fideism.md)
-* [自然神学与自然宗教 Natural Theology and Natural Religion (Andrew Chignell、Derk Pereboom)](n/natural-theology.md)
-* [超泛神论 Panentheism (John Culp)](p/panentheism.md)
-* [泛神论 Pantheism (William Mander)](p/pantheism.md)
 * [宗教现象学 Phenomenology of Religion (Mark Wynn)](p/phenomenology-religion.md)
+
+#### 有神论与无神论
+
+* [无神论和不可知论 Atheism and Agnosticism (Paul Draper)](a/atheism-agnosticism.md)
+* [自然神学与自然宗教 Natural Theology and Natural Religion (Andrew Chignell、Derk Pereboom)](n/natural-theology.md)
+* [泛神论 Pantheism (William Mander)](p/pantheism.md)
+* [超泛神论 Panentheism (John Culp)](p/panentheism.md)
+* [信仰主义 Fideism (Richard Amesbury)](f/fideism.md)
+
+#### 宗教认识论
+
+* [宗教认识论 The Epistemology of Religion (Peter Forrest)](r/religion-epistemology.md)
+* [宗教经验 Religious Experience (Mark Webb)](r/religious-experience.md)
+* [宗教语言 Religious Language (Michael Scott)](r/religious-language.md)
 * [理性与宗教承诺 Reason and Religious Commitment (J. L. Schellenberg)](r/religious-commitment-reason.md)
+* [怀疑论式有神论 Skeptical Theism (Timothy Perrine)](s/skeptical-theism.md)
+
+#### 宗教、道德与政治
+
 * [西方哲学中的宗教与道德 Religion and Morality in Western Philosophy (John Hare、Jennifer Herdt)](r/religion-morality.md)
 * [宗教与政治理论 Religion and Political Theory (Chris Eberle、Terence Cuneo)](r/religion-politics.md)
 * [宗教多样性 Religious Diversity (Pluralism) (David Basinger)](r/religious-pluralism.md)
-* [宗教经验 Religious Experience (Mark Webb)](r/religious-experience.md)
-* [宗教语言 Religious Language (Michael Scott)](r/religious-language.md)
-* [怀疑论式有神论 Skeptical Theism (Timothy Perrine)](s/skeptical-theism.md)
-* [宗教的定义 The Concept of Religion (Kevin Schilbrack)](c/concept-religion.md)
-* [宗教认识论 The Epistemology of Religion (Peter Forrest)](r/religion-epistemology.md)
+* [来世 Afterlife (William Hasker、Charles Taliaferro)](a/afterlife.md)
 
 ### 上帝存在的论证
+
+#### 论证
 
 * [宇宙论论证 Cosmological Argument (Bruce Reichenbach)](c/cosmological-argument.md)
 * [本体论论证 Ontological Arguments (Graham Oppy、Joshua Rasmussen、Joseph Schmid)](o/ontological-arguments.md)
 * [上帝存在的目的论论证 Teleological Arguments for God’s Existence (Del Ratzsch、Jeffrey Koperski)](t/teleological-arguments.md)
 * [上帝存在的道德论证 Moral Arguments for the Existence of God (C. Stephen Evans、David Baggett)](m/moral-arguments-god.md)
+
+#### 实用主义论证
+
 * [实用主义论证与上帝信仰 Pragmatic Arguments and Belief in God (Jeff Jordan)](p/pragmatic-belief-god.md)
 
 ### 神学与教义
 
-* [恶的问题 The Problem of Evil (Michael Tooley)](e/evil.md)
-* [预知与自由意志 Foreknowledge and Free Will (David Hunt、Linda Zagzebski)](f/free-will-foreknowledge.md)
-* [创造与保全 Creation and Conservation (David Vander Laan)](c/creation-conservation.md)
-* [神的自由 Divine Freedom (Klaas Kraay)](d/divine-freedom.md)
-* [神意 Divine Providence (Hugh J. McCann、Daniel M. Johnson)](p/providence-divine.md)
-* [神启 Divine Revelation (Mats Wahlberg)](d/divine-revelation.md)
+#### 神的属性
+
+* [全能 Omnipotence (Joshua Hoffman、Gary Rosenkrantz)](o/omnipotence.md)
+* [全知 Omniscience (Edward Wierenga)](o/omniscience.md)
+* [全在 Omnipresence (Edward Wierenga)](o/omnipresence.md)
+* [全善 Perfect Goodness (Mark Murphy)](p/perfect-goodness.md)
+* [不变性 Immutability (Brian Leftow)](i/immutability.md)
 * [神圣单纯性 Divine Simplicity (William F. Vallicella)](d/divine-simplicity.md)
-* [基督教思想中的永恒 Eternity in Christian Thought (Natalja Deng)](e/eternity.md)
-* [信仰 Faith (John Bishop、Daniel J. McKaughan)](f/faith.md)
 * [上帝和其他必然存在 God and Other Necessary Beings (Matthew Davidson)](g/god-necessary-being.md)
 * [上帝与其他终极存在 God and Other Ultimates (Jeanine Diller)](g/god-ultimates.md)
-* [神的隐藏性 Hiddenness of God (Daniel Howard-Snyder、Adam Green)](d/divine-hiddenness.md)
-* [不变性 Immutability (Brian Leftow)](i/immutability.md)
-* [奇迹 Miracles (Timothy McGrew、Robert Larmer)](m/miracles.md)
 * [一神论 Monotheism (William Wainwright)](m/monotheism.md)
-* [全能 Omnipotence (Joshua Hoffman、Gary Rosenkrantz)](o/omnipotence.md)
-* [全在 Omnipresence (Edward Wierenga)](o/omnipresence.md)
-* [全知 Omniscience (Edward Wierenga)](o/omniscience.md)
-* [全善 Perfect Goodness (Mark Murphy)](p/perfect-goodness.md)
-* [祈求式祷告 Petitionary Prayer (Scott A. Davison)](p/petitionary-prayer.md)
-* [哲学与基督教神学 Philosophy and Christian Theology (William Wood)](c/christiantheology-philosophy.md)
-* [过程神学 Process Theism (Donald Viney)](p/process-theism.md)
+
+#### 创造与神意
+
+* [创造与保全 Creation and Conservation (David Vander Laan)](c/creation-conservation.md)
+* [神意 Divine Providence (Hugh J. McCann、Daniel M. Johnson)](p/providence-divine.md)
+* [神的自由 Divine Freedom (Klaas Kraay)](d/divine-freedom.md)
+* [神启 Divine Revelation (Mats Wahlberg)](d/divine-revelation.md)
+* [奇迹 Miracles (Timothy McGrew、Robert Larmer)](m/miracles.md)
 * [预言 Prophecy (Scott A. Davison)](p/prophecy.md)
+* [祈求式祷告 Petitionary Prayer (Scott A. Davison)](p/petitionary-prayer.md)
+
+#### 恶与神义论
+
+* [恶的问题 The Problem of Evil (Michael Tooley)](e/evil.md)
 * [神义论 Theodicies (Laura W. Ekstrom)](t/theodicies.md)
+* [神的隐藏性 Hiddenness of God (Daniel Howard-Snyder、Adam Green)](d/divine-hiddenness.md)
+* [预知与自由意志 Foreknowledge and Free Will (David Hunt、Linda Zagzebski)](f/free-will-foreknowledge.md)
+
+#### 信仰与理性
+
+* [信仰 Faith (John Bishop、Daniel J. McKaughan)](f/faith.md)
+* [哲学与基督教神学 Philosophy and Christian Theology (William Wood)](c/christiantheology-philosophy.md)
 * [神学意志主义 Theological Voluntarism (Mark Murphy)](v/voluntarism-theological.md)
 * [三位一体 Trinity (Dale Tuggy)](t/trinity.md)
+* [基督教思想中的永恒 Eternity in Christian Thought (Natalja Deng)](e/eternity.md)
+* [过程神学 Process Theism (Donald Viney)](p/process-theism.md)
 
 ### 基督教神学
 
+#### 救赎与罪
+
 * [赎罪 Atonement (Joshua C. Thurow)](a/atonement.md)
+* [基督教思想中的罪 Sin in Christian Thought (Kevin Timpe)](s/sin-christian.md)
+
+#### 情感与终末
+
 * [基督教传统中的情感 Emotions in the Christian Tradition (Robert Roberts)](e/emotion-Christian-tradition.md)
 * [基督教思想中的天堂与地狱 Heaven and Hell in Christian Thought (Thomas Talbott)](h/heaven-hell.md)
-* [基督教思想中的罪 Sin in Christian Thought (Kevin Timpe)](s/sin-christian.md)
 
 ### 宗教与科学
 
+#### 宇宙学与演化
+
 * [宇宙学与神学 Cosmology and Theology (Hans Halvorson、Helge Kragh)](c/cosmology-theology.md)
 * [宗教的演化论进路 Evolutionary Approaches to Religion (Jason Marsh)](r/religion-evolutionary.md)
+
+#### 宗教与科学总论
+
 * [宗教与科学 Religion and Science (Helen De Cruz)](r/religion-science.md)
 
 # 价值理论
