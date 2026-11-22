@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""目录四方重放网络门禁（specs/054）：zh SUMMARY ／ en SUMMARY ／ contents.html ／ mu-lu-s。
+"""目录四方重放网络门禁＋官方基线快照（specs/054）：zh SUMMARY ／ en SUMMARY ／ contents.html ／ mu-lu-s。
 
 五子门（--gate，判官只读）：
   G1 装配等值：rebuild_catalog --check 对最新＋旧钉存快照 sha256 全等（B3.2 目录域）
