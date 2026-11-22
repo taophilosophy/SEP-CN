@@ -300,3 +300,12 @@
 * **落地**：今日快照 `20261122T021217Z` 经 `fetch_catalog --reparse` 重写 `baseline/catalog.json`；`summary_sync report` add 0／remove 0／mapped 1873；SUMMARY／mu-lu-s／H1 三处作者并列增补（H1 走 `check_summary --sync-headers`）；`mulu-map` 经 `--build-mulu` 跟随；`rebuild_catalog --build/--check` 逐字节全等（残差池仍 194）；`check_catalog_network --gate` G1–G4 全绿，本地漂移复算 `changed=false`。
 * **顺带发现（门禁缺口）**：`yuanwen/SUMMARY.md` 镜像自 11-19 落地后即 stale（argument／gadamer／hedonism 作者、privacy-health 标题、日志分卷行均未跟随）；现有门禁只查 `SUMMARY-en.md`（G2），不查中文镜像。已用 `yuanwen.py --summary` 重生成，但该缺口尚无门禁覆盖。
 * **教训**：作者变更没有专用 CLI，需手工改三处显示层并重建 `mulu-map`；镜像目录类派生物同样需要“生成器＋门禁”成对存在。
+
+## 2026-11-22 缺项逐条研究：三条新通道与古代中世纪逐人查证
+
+* **通道六（年份窗口）**：全库 1,873 篇取“人名 ±200 字内含年份”的窗口，命中 305 键／718 段；逐段判读后仅得 2 条可用——An Hyang（1243–1306，原文直给）与一条世纪式；其余绝大多数是书目页码／DOI。定为低精度通道，不再单独跑。
+* **通道七（世纪式括注）**：2 条——Kaṇāda（2 世纪 CE，照源）、Joane Petrizi（12 世纪）。
+* **通道八（断代标记式）**：姓名 20 词内须出现 died／fl.／flourished／active，且标记词后 60 字含年份；34 键命中，可采 7 条：Diodorus Cronus（–前284）、Euhemerus（fl. 约前300）、Eusebius（–约339）、Jaimini（fl. 约1千纪初）、Laozi（fl. 前6世纪，传统断代照源）、Richard Rufus（–约1260）、Alcmaeon（约前6世纪末–前5世纪初，原文自述学界分歧大）。精度明显高于窗口法。
+* **逐人查证 17 人**（原文＋LC 规范档／IEP／TDV／Provisionalia／A Companion to Philosophy in the Middle Ages／New Catholic Encyclopedia）：安珦 1243–1306；阿莫尼俄斯 约435/445–517/526（SEP 自条首句）；Stephanus of Alexandria fl. 约580–约640；Numenius fl. 约150（LC“active approximately 150”）；Eudorus fl. 约前50–前25；Lucian 约125–约200；Diagoras fl. 前5世纪；Durandus 约1270/75–1334；Gerald Odonis 约1285–1349；Stephen Tempier –1279；John of Dacia fl. 约1280；Alphonsus Vargas –1366；Gundissalinus 约1110–1190后；Joscelin of Soissons –1152；Robert Halifax 约1300–1350后；Aristoteles 与 Artemidorus fl. 约前250（原文“can be dated around 250 BC”）。
+* **判据留空**：Aëtius（作者身份与断代本身有争论）、Elias（SEP 专文即在讨论其人是否实有）、Hippo（同名数人未定）、Damon／Homer／Theocritus 等无权威确年者——宁可空着，不凭印象填。
+* **计数**：缺生卒 792→765，缺籍属 696，任一缺 876→863。门禁 17 项全绿（中途 catalog-net 因并行会话重生成英文目录短暂转红，其收口后自愈；本轮两次提交均只带自己路径）。
