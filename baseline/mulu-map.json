@@ -5694,22 +5694,22 @@
     },
     {
       "kind": "link",
-      "path": "m/material-constitution.md",
-      "text": "物质构成 Material Constitution (Ryan Wasserman)",
+      "path": "m/mereology-medieval.md",
+      "text": "中世纪分体论 Medieval Mereology (Andrew Arlig)",
       "indent": 0,
       "order": 813
     },
     {
       "kind": "link",
-      "path": "f/form-matter.md",
-      "text": "形式与质料 Form vs. Matter (Thomas Ainsworth)",
+      "path": "m/material-constitution.md",
+      "text": "物质构成 Material Constitution (Ryan Wasserman)",
       "indent": 0,
       "order": 814
     },
     {
       "kind": "link",
-      "path": "m/mereology-medieval.md",
-      "text": "中世纪分体论 Medieval Mereology (Andrew Arlig)",
+      "path": "f/form-matter.md",
+      "text": "形式与质料 Form vs. Matter (Thomas Ainsworth)",
       "indent": 0,
       "order": 815
     },
@@ -6492,57 +6492,57 @@
     },
     {
       "kind": "link",
-      "path": "t/truth-axiomatic.md",
-      "text": "公理化真理论 Axiomatic Theories of Truth (Volker Halbach、Graham E. Leigh、Mateusz Łełyk)",
+      "path": "t/truth-correspondence.md",
+      "text": "真理符合论 The Correspondence Theory of Truth (Marian David)",
       "indent": 0,
       "order": 927
-    },
-    {
-      "kind": "link",
-      "path": "t/truth-deflationary.md",
-      "text": "真理紧缩论 Deflationism About Truth (Bradley Armour-Garb、Daniel Stoljar、James Woodbridge)",
-      "indent": 0,
-      "order": 928
-    },
-    {
-      "kind": "link",
-      "path": "t/truth-pluralist.md",
-      "text": "多元真理论 Pluralist Theories of Truth (Nikolaj Jang Lee Linding Pedersen、Cory Wright)",
-      "indent": 0,
-      "order": 929
-    },
-    {
-      "kind": "link",
-      "path": "t/truth-primitivist.md",
-      "text": "真理的原始主义理论 Primitivist Theories of Truth (Jeremy Wyatt)",
-      "indent": 0,
-      "order": 930
     },
     {
       "kind": "link",
       "path": "t/truth-coherence.md",
       "text": "真理融贯论 The Coherence Theory of Truth (James O. Young)",
       "indent": 0,
-      "order": 931
-    },
-    {
-      "kind": "link",
-      "path": "t/truth-correspondence.md",
-      "text": "真理符合论 The Correspondence Theory of Truth (Marian David)",
-      "indent": 0,
-      "order": 932
+      "order": 928
     },
     {
       "kind": "link",
       "path": "t/truth-identity.md",
       "text": "真理同一论 The Identity Theory of Truth (Richard Gaskin)",
       "indent": 0,
-      "order": 933
+      "order": 929
     },
     {
       "kind": "link",
       "path": "t/truth-pragmatic.md",
       "text": "实用主义真理观 The Pragmatic Theory of Truth (John Capps)",
+      "indent": 0,
+      "order": 930
+    },
+    {
+      "kind": "link",
+      "path": "t/truth-primitivist.md",
+      "text": "真理的原始主义理论 Primitivist Theories of Truth (Jeremy Wyatt)",
+      "indent": 0,
+      "order": 931
+    },
+    {
+      "kind": "link",
+      "path": "t/truth-deflationary.md",
+      "text": "真理紧缩论 Deflationism About Truth (Bradley Armour-Garb、Daniel Stoljar、James Woodbridge)",
+      "indent": 0,
+      "order": 932
+    },
+    {
+      "kind": "link",
+      "path": "t/truth-pluralist.md",
+      "text": "多元真理论 Pluralist Theories of Truth (Nikolaj Jang Lee Linding Pedersen、Cory Wright)",
+      "indent": 0,
+      "order": 933
+    },
+    {
+      "kind": "link",
+      "path": "t/truth-axiomatic.md",
+      "text": "公理化真理论 Axiomatic Theories of Truth (Volker Halbach、Graham E. Leigh、Mateusz Łełyk)",
       "indent": 0,
       "order": 934
     },
@@ -6583,36 +6583,36 @@
     },
     {
       "kind": "link",
-      "path": "p/propositions.md",
-      "text": "命题 Propositions (Matthew McGrath、Devin Frank)",
+      "path": "c/convention.md",
+      "text": "约定 Convention (Michael Rescorla)",
       "indent": 0,
       "order": 940
     },
     {
       "kind": "link",
-      "path": "c/convention.md",
-      "text": "约定 Convention (Michael Rescorla)",
+      "path": "p/propositions.md",
+      "text": "命题 Propositions (Matthew McGrath、Devin Frank)",
       "indent": 0,
       "order": 941
     },
     {
       "kind": "link",
-      "path": "g/generics.md",
-      "text": "泛指概括 Generic Generalizations (Sarah-Jane Leslie、Adam Lerner)",
+      "path": "p/propositions-singular.md",
+      "text": "单称命题 Singular Propositions (Greg Fitch、Michael Nelson)",
       "indent": 0,
       "order": 942
     },
     {
       "kind": "link",
-      "path": "p/private-language.md",
-      "text": "私人语言 Private Language (Stewart Candlish、George Wrisley)",
+      "path": "p/propositions-structured.md",
+      "text": "结构化命题 Structured Propositions (Jeffrey C. King)",
       "indent": 0,
       "order": 943
     },
     {
       "kind": "link",
-      "path": "r/rigid-designators.md",
-      "text": "严格指示词 Rigid Designators (Joseph LaPorte)",
+      "path": "p/private-language.md",
+      "text": "私人语言 Private Language (Stewart Candlish、George Wrisley)",
       "indent": 0,
       "order": 944
     },
@@ -6625,15 +6625,15 @@
     },
     {
       "kind": "link",
-      "path": "p/propositions-singular.md",
-      "text": "单称命题 Singular Propositions (Greg Fitch、Michael Nelson)",
+      "path": "r/rigid-designators.md",
+      "text": "严格指示词 Rigid Designators (Joseph LaPorte)",
       "indent": 0,
       "order": 946
     },
     {
       "kind": "link",
-      "path": "p/propositions-structured.md",
-      "text": "结构化命题 Structured Propositions (Jeffrey C. King)",
+      "path": "g/generics.md",
+      "text": "泛指概括 Generic Generalizations (Sarah-Jane Leslie、Adam Lerner)",
       "indent": 0,
       "order": 947
     },
@@ -9922,22 +9922,22 @@
     },
     {
       "kind": "link",
-      "path": "a/aesthetic-judgment.md",
-      "text": "审美判断 Aesthetic Judgment (Nick Zangwill)",
+      "path": "a/aesthetic-concept.md",
+      "text": "美学的概念 The Concept of the Aesthetic (James Shelley)",
       "indent": 0,
       "order": 1417
     },
     {
       "kind": "link",
-      "path": "a/aesthetic-testimony.md",
-      "text": "审美证言 Aesthetic Testimony (Jon Robson、Rebecca Wallbank)",
+      "path": "a/aesthetic-judgment.md",
+      "text": "审美判断 Aesthetic Judgment (Nick Zangwill)",
       "indent": 0,
       "order": 1418
     },
     {
       "kind": "link",
-      "path": "a/aesthetic-concept.md",
-      "text": "美学的概念 The Concept of the Aesthetic (James Shelley)",
+      "path": "a/aesthetic-testimony.md",
+      "text": "审美证言 Aesthetic Testimony (Jon Robson、Rebecca Wallbank)",
       "indent": 0,
       "order": 1419
     },
@@ -10013,15 +10013,15 @@
     },
     {
       "kind": "link",
-      "path": "a/aesthetics-of-everyday.md",
-      "text": "日常美学 Aesthetics of the Everyday (Yuriko Saito)",
+      "path": "e/environmental-aesthetics.md",
+      "text": "环境美学 Environmental Aesthetics (Glenn Parsons、Allen Carlson)",
       "indent": 0,
       "order": 1430
     },
     {
       "kind": "link",
-      "path": "e/environmental-aesthetics.md",
-      "text": "环境美学 Environmental Aesthetics (Glenn Parsons、Allen Carlson)",
+      "path": "a/aesthetics-of-everyday.md",
+      "text": "日常美学 Aesthetics of the Everyday (Yuriko Saito)",
       "indent": 0,
       "order": 1431
     },
@@ -11623,162 +11623,162 @@
     },
     {
       "kind": "link",
-      "path": "q/qm-copenhagen.md",
-      "text": "量子力学的哥本哈根诠释 Copenhagen Interpretation of Quantum Mechanics (Jan Faye)",
-      "indent": 0,
-      "order": 1660
-    },
-    {
-      "kind": "link",
-      "path": "q/qm-collapse.md",
-      "text": "坍缩理论 Collapse Theories (Giancarlo Ghirardi、Angelo Bassi)",
-      "indent": 0,
-      "order": 1661
-    },
-    {
-      "kind": "link",
-      "path": "q/qm-manyworlds.md",
-      "text": "量子力学的多世界诠释 Many-Worlds Interpretation of Quantum Mechanics (Lev Vaidman)",
-      "indent": 0,
-      "order": 1662
-    },
-    {
-      "kind": "link",
-      "path": "q/qm-everett.md",
-      "text": "埃弗雷特量子力学 Everettian Quantum Mechanics (Jeffrey Barrett)",
-      "indent": 0,
-      "order": 1663
-    },
-    {
-      "kind": "link",
-      "path": "q/qm-bohm.md",
-      "text": "玻姆力学 Bohmian Mechanics (Sheldon Goldstein)",
-      "indent": 0,
-      "order": 1664
-    },
-    {
-      "kind": "link",
-      "path": "q/qm-modal.md",
-      "text": "量子力学的模态解释 Modal Interpretations of Quantum Mechanics (Olimpia Lombardi、Dennis Dieks)",
-      "indent": 0,
-      "order": 1665
-    },
-    {
-      "kind": "link",
-      "path": "q/qm-relational.md",
-      "text": "关系性量子力学 Relational Quantum Mechanics (Carlo Rovelli)",
-      "indent": 0,
-      "order": 1666
-    },
-    {
-      "kind": "link",
-      "path": "q/qm-consistent-histories.md",
-      "text": "量子力学中的一致性历史方法 The Consistent Histories Approach to Quantum Mechanics (Robert B. Griffiths)",
-      "indent": 0,
-      "order": 1667
-    },
-    {
-      "kind": "link",
-      "path": "q/qm-decoherence.md",
-      "text": "量子力学中退相干的作用 The Role of Decoherence in Quantum Mechanics (Guido Bacciagaluppi)",
-      "indent": 0,
-      "order": 1668
-    },
-    {
-      "kind": "link",
-      "path": "q/qt-quantlog.md",
-      "text": "量子逻辑和概率论 Quantum Logic and Probability Theory (Alexander Wilce)",
-      "indent": 0,
-      "order": 1669
-    },
-    {
-      "kind": "link",
       "path": "q/qt-issues.md",
       "text": "量子理论的哲学问题 Philosophical Issues in Quantum Theory (Wayne Myrvold)",
       "indent": 0,
-      "order": 1670
-    },
-    {
-      "kind": "link",
-      "path": "q/qt-epr.md",
-      "text": "量子理论中的爱因斯坦-波多尔斯基-罗森论证 The Einstein-Podolsky-Rosen Argument in Quantum Theory (Arthur Fine)",
-      "indent": 0,
-      "order": 1671
+      "order": 1660
     },
     {
       "kind": "link",
       "path": "q/qt-uncertainty.md",
       "text": "不确定性原理 The Uncertainty Principle (Jan Hilgevoord、Jos Uffink)",
       "indent": 0,
-      "order": 1672
+      "order": 1661
     },
     {
       "kind": "link",
       "path": "q/qt-nvd.md",
       "text": "量子理论与数学严谨性 Quantum Theory and Mathematical Rigor (Fred Kronz、Tracy Lupher)",
       "indent": 0,
-      "order": 1673
+      "order": 1662
+    },
+    {
+      "kind": "link",
+      "path": "q/qt-epr.md",
+      "text": "量子理论中的爱因斯坦-波多尔斯基-罗森论证 The Einstein-Podolsky-Rosen Argument in Quantum Theory (Arthur Fine)",
+      "indent": 0,
+      "order": 1663
     },
     {
       "kind": "link",
       "path": "b/bell-theorem.md",
       "text": "贝尔定理 Bell’s Theorem (Wayne Myrvold、Marco Genovese、Abner Shimony)",
       "indent": 0,
-      "order": 1674
+      "order": 1664
     },
     {
       "kind": "link",
       "path": "k/kochen-specker.md",
       "text": "科亨-施佩克尔定理（KS 定理） The Kochen-Specker Theorem (Carsten Held)",
       "indent": 0,
-      "order": 1675
+      "order": 1665
     },
     {
       "kind": "link",
-      "path": "q/qt-entangle.md",
-      "text": "量子纠缠与信息 Quantum Entanglement and Information (Jeffrey Bub)",
+      "path": "q/qm-copenhagen.md",
+      "text": "量子力学的哥本哈根诠释 Copenhagen Interpretation of Quantum Mechanics (Jan Faye)",
       "indent": 0,
-      "order": 1676
+      "order": 1666
     },
     {
       "kind": "link",
-      "path": "q/qt-quantcomp.md",
-      "text": "量子计算 Quantum Computing (Michael Cuffaro、Amit Hagar)",
+      "path": "q/qm-collapse.md",
+      "text": "坍缩理论 Collapse Theories (Giancarlo Ghirardi、Angelo Bassi)",
       "indent": 0,
-      "order": 1677
+      "order": 1667
     },
     {
       "kind": "link",
-      "path": "q/quantum-field-theory.md",
-      "text": "量子场论 Quantum Field Theory (Meinard Kuhlmann)",
+      "path": "q/qm-manyworlds.md",
+      "text": "量子力学的多世界诠释 Many-Worlds Interpretation of Quantum Mechanics (Lev Vaidman)",
       "indent": 0,
-      "order": 1678
+      "order": 1668
     },
     {
       "kind": "link",
-      "path": "q/quantum-gravity.md",
-      "text": "量子引力 Quantum Gravity (Steven Weinstein、Dean Rickles)",
+      "path": "q/qm-everett.md",
+      "text": "埃弗雷特量子力学 Everettian Quantum Mechanics (Jeffrey Barrett)",
       "indent": 0,
-      "order": 1679
+      "order": 1669
     },
     {
       "kind": "link",
-      "path": "q/qt-consciousness.md",
-      "text": "对意识的量子研究方法 Quantum Approaches to Consciousness (Harald Atmanspacher)",
+      "path": "q/qm-bohm.md",
+      "text": "玻姆力学 Bohmian Mechanics (Sheldon Goldstein)",
       "indent": 0,
-      "order": 1680
+      "order": 1670
+    },
+    {
+      "kind": "link",
+      "path": "q/qm-modal.md",
+      "text": "量子力学的模态解释 Modal Interpretations of Quantum Mechanics (Olimpia Lombardi、Dennis Dieks)",
+      "indent": 0,
+      "order": 1671
+    },
+    {
+      "kind": "link",
+      "path": "q/qm-relational.md",
+      "text": "关系性量子力学 Relational Quantum Mechanics (Carlo Rovelli)",
+      "indent": 0,
+      "order": 1672
+    },
+    {
+      "kind": "link",
+      "path": "q/qm-consistent-histories.md",
+      "text": "量子力学中的一致性历史方法 The Consistent Histories Approach to Quantum Mechanics (Robert B. Griffiths)",
+      "indent": 0,
+      "order": 1673
+    },
+    {
+      "kind": "link",
+      "path": "q/qm-decoherence.md",
+      "text": "量子力学中退相干的作用 The Role of Decoherence in Quantum Mechanics (Guido Bacciagaluppi)",
+      "indent": 0,
+      "order": 1674
     },
     {
       "kind": "link",
       "path": "q/quantum-bayesian.md",
       "text": "量子贝叶斯模型和实用主义的量子理论观点 Quantum-Bayesian and Pragmatist Views of Quantum Theory (Richard Healey)",
       "indent": 0,
-      "order": 1681
+      "order": 1675
     },
     {
       "kind": "link",
       "path": "q/qm-retrocausality.md",
       "text": "量子力学中的逆因果关系 Retrocausality in Quantum Mechanics (Simon Friederich、Peter W. Evans)",
+      "indent": 0,
+      "order": 1676
+    },
+    {
+      "kind": "link",
+      "path": "q/qt-entangle.md",
+      "text": "量子纠缠与信息 Quantum Entanglement and Information (Jeffrey Bub)",
+      "indent": 0,
+      "order": 1677
+    },
+    {
+      "kind": "link",
+      "path": "q/qt-quantcomp.md",
+      "text": "量子计算 Quantum Computing (Michael Cuffaro、Amit Hagar)",
+      "indent": 0,
+      "order": 1678
+    },
+    {
+      "kind": "link",
+      "path": "q/qt-quantlog.md",
+      "text": "量子逻辑和概率论 Quantum Logic and Probability Theory (Alexander Wilce)",
+      "indent": 0,
+      "order": 1679
+    },
+    {
+      "kind": "link",
+      "path": "q/quantum-field-theory.md",
+      "text": "量子场论 Quantum Field Theory (Meinard Kuhlmann)",
+      "indent": 0,
+      "order": 1680
+    },
+    {
+      "kind": "link",
+      "path": "q/quantum-gravity.md",
+      "text": "量子引力 Quantum Gravity (Steven Weinstein、Dean Rickles)",
+      "indent": 0,
+      "order": 1681
+    },
+    {
+      "kind": "link",
+      "path": "q/qt-consciousness.md",
+      "text": "对意识的量子研究方法 Quantum Approaches to Consciousness (Harald Atmanspacher)",
       "indent": 0,
       "order": 1682
     },
@@ -11798,15 +11798,15 @@
     },
     {
       "kind": "link",
-      "path": "i/information-entropy.md",
-      "text": "信息加工与热力学熵 Information Processing and Thermodynamic Entropy (Owen Maroney)",
+      "path": "e/ergodic-hierarchy.md",
+      "text": "遍历层次 The Ergodic Hierarchy (Roman Frigg、Joseph Berkovitz、Fred Kronz)",
       "indent": 0,
       "order": 1685
     },
     {
       "kind": "link",
-      "path": "e/ergodic-hierarchy.md",
-      "text": "遍历层次 The Ergodic Hierarchy (Roman Frigg、Joseph Berkovitz、Fred Kronz)",
+      "path": "i/information-entropy.md",
+      "text": "信息加工与热力学熵 Information Processing and Thermodynamic Entropy (Owen Maroney)",
       "indent": 0,
       "order": 1686
     },
@@ -11826,15 +11826,15 @@
     },
     {
       "kind": "link",
-      "path": "s/spacetime-convensimul.md",
-      "text": "同时性的约定性 Conventionality of Simultaneity (Allen Janis)",
+      "path": "e/equivME.md",
+      "text": "质能等价 The Equivalence of Mass and Energy (Francisco Fernflores)",
       "indent": 0,
       "order": 1689
     },
     {
       "kind": "link",
-      "path": "e/equivME.md",
-      "text": "质能等价 The Equivalence of Mass and Energy (Francisco Fernflores)",
+      "path": "s/spacetime-convensimul.md",
+      "text": "同时性的约定性 Conventionality of Simultaneity (Allen Janis)",
       "indent": 0,
       "order": 1690
     },
@@ -11924,22 +11924,22 @@
     },
     {
       "kind": "link",
-      "path": "s/spacetime-holearg.md",
-      "text": "空穴论证 The Hole Argument (John D. Norton、Oliver Pooley、James Read)",
+      "path": "a/atomism-modern.md",
+      "text": "17 至 20 世纪的原子论 Atomism from the 17th to the 20th Century (Alan Chalmers、Klodian Coko)",
       "indent": 0,
       "order": 1703
     },
     {
       "kind": "link",
-      "path": "e/einstein-philscience.md",
-      "text": "爱因斯坦的科学哲学 Einstein’s Philosophy of Science (Don A. Howard、Marco Giovanelli)",
+      "path": "s/spacetime-holearg.md",
+      "text": "空穴论证 The Hole Argument (John D. Norton、Oliver Pooley、James Read)",
       "indent": 0,
       "order": 1704
     },
     {
       "kind": "link",
-      "path": "a/atomism-modern.md",
-      "text": "17 至 20 世纪的原子论 Atomism from the 17th to the 20th Century (Alan Chalmers、Klodian Coko)",
+      "path": "e/einstein-philscience.md",
+      "text": "爱因斯坦的科学哲学 Einstein’s Philosophy of Science (Don A. Howard、Marco Giovanelli)",
       "indent": 0,
       "order": 1705
     },
@@ -12673,43 +12673,43 @@
     },
     {
       "kind": "link",
+      "path": "c/chinese-room.md",
+      "text": "中文房间论证 The Chinese Room Argument (David Cole)",
+      "indent": 0,
+      "order": 1810
+    },
+    {
+      "kind": "link",
       "path": "l/learning-formal.md",
       "text": "形式化学习理论 Formal Learning Theory (Oliver Schulte)",
       "indent": 0,
-      "order": 1810
+      "order": 1811
     },
     {
       "kind": "link",
       "path": "c/connectionism.md",
       "text": "联结主义 Connectionism (Cameron Buckner、James Garson)",
       "indent": 0,
-      "order": 1811
-    },
-    {
-      "kind": "link",
-      "path": "c/chinese-room.md",
-      "text": "中文房间论证 The Chinese Room Argument (David Cole)",
-      "indent": 0,
       "order": 1812
-    },
-    {
-      "kind": "link",
-      "path": "c/computational-mind.md",
-      "text": "心灵计算理论 The Computational Theory of Mind (Michael Rescorla)",
-      "indent": 0,
-      "order": 1813
     },
     {
       "kind": "link",
       "path": "f/frame-problem.md",
       "text": "框架问题 The Frame Problem (Murray Shanahan)",
       "indent": 0,
-      "order": 1814
+      "order": 1813
     },
     {
       "kind": "link",
       "path": "r/reasoning-defeasible.md",
       "text": "可辩驳推理 Defeasible Reasoning (Robert Koons)",
+      "indent": 0,
+      "order": 1814
+    },
+    {
+      "kind": "link",
+      "path": "c/computational-mind.md",
+      "text": "心灵计算理论 The Computational Theory of Mind (Michael Rescorla)",
       "indent": 0,
       "order": 1815
     },
@@ -12722,36 +12722,36 @@
     },
     {
       "kind": "link",
+      "path": "i/information-semantic.md",
+      "text": "语义概念的信息 Semantic Conceptions of Information (Sebastian Sequoiah-Grayson、Luciano Floridi)",
+      "indent": 0,
+      "order": 1817
+    },
+    {
+      "kind": "link",
+      "path": "o/ontology-is.md",
+      "text": "本体论与信息系统 Ontology and Information Systems (Adam Pease)",
+      "indent": 0,
+      "order": 1818
+    },
+    {
+      "kind": "link",
       "path": "l/logic-information.md",
       "text": "逻辑与信息 Logic and Information (Maricarmen Martinez、Sebastian Sequoiah-Grayson)",
       "indent": 0,
-      "order": 1817
+      "order": 1819
     },
     {
       "kind": "link",
       "path": "l/logic-belief-revision.md",
       "text": "信念修正的逻辑 Logic of Belief Revision (Sven Ove Hansson)",
       "indent": 0,
-      "order": 1818
+      "order": 1820
     },
     {
       "kind": "link",
       "path": "f/formal-belief.md",
       "text": "信念的形式化表述 Formal Representations of Belief (Konstantin Genin、Franz Huber)",
-      "indent": 0,
-      "order": 1819
-    },
-    {
-      "kind": "link",
-      "path": "i/information-semantic.md",
-      "text": "语义概念的信息 Semantic Conceptions of Information (Sebastian Sequoiah-Grayson、Luciano Floridi)",
-      "indent": 0,
-      "order": 1820
-    },
-    {
-      "kind": "link",
-      "path": "o/ontology-is.md",
-      "text": "本体论与信息系统 Ontology and Information Systems (Adam Pease)",
       "indent": 0,
       "order": 1821
     },
@@ -12764,44 +12764,44 @@
     },
     {
       "kind": "link",
-      "path": "c/computational-linguistics.md",
-      "text": "计算语言学 Computational Linguistics (Lenhart Schubert)",
-      "indent": 0,
-      "order": 1823
-    },
-    {
-      "kind": "link",
-      "path": "r/reasoning-automated.md",
-      "text": "自动推理 Automated Reasoning (Frederic Portoraro)",
-      "indent": 0,
-      "order": 1824
-    },
-    {
-      "kind": "link",
-      "path": "i/information-biological.md",
-      "text": "生物信息 Biological Information (Marc Artiga)",
-      "indent": 0,
-      "order": 1825
-    },
-    {
-      "kind": "link",
       "path": "t/turing.md",
       "text": "艾伦·图灵 Alan Turing (Andrew Hodges)",
       "indent": 0,
-      "order": 1826
+      "order": 1823
     },
     {
       "kind": "link",
       "path": "t/turing-test.md",
       "text": "图灵测试 The Turing Test (Graham Oppy、David Dowe)",
       "indent": 2,
-      "order": 1827
+      "order": 1824
     },
     {
       "kind": "link",
       "path": "t/turing-machine.md",
       "text": "图灵机 Turing Machines (Liesbeth De Mol)",
       "indent": 2,
+      "order": 1825
+    },
+    {
+      "kind": "link",
+      "path": "c/computational-linguistics.md",
+      "text": "计算语言学 Computational Linguistics (Lenhart Schubert)",
+      "indent": 0,
+      "order": 1826
+    },
+    {
+      "kind": "link",
+      "path": "r/reasoning-automated.md",
+      "text": "自动推理 Automated Reasoning (Frederic Portoraro)",
+      "indent": 0,
+      "order": 1827
+    },
+    {
+      "kind": "link",
+      "path": "i/information-biological.md",
+      "text": "生物信息 Biological Information (Marc Artiga)",
+      "indent": 0,
       "order": 1828
     },
     {
@@ -18782,6 +18782,26 @@
         ""
       ],
       [
+        787,
+        "#### 形而上学与解释"
+      ],
+      [
+        787,
+        ""
+      ],
+      [
+        789,
+        ""
+      ],
+      [
+        789,
+        "#### 立场"
+      ],
+      [
+        789,
+        ""
+      ],
+      [
         792,
         ""
       ],
@@ -18791,6 +18811,26 @@
       ],
       [
         792,
+        ""
+      ],
+      [
+        792,
+        "#### 属性理论"
+      ],
+      [
+        792,
+        ""
+      ],
+      [
+        795,
+        ""
+      ],
+      [
+        795,
+        "#### 立场"
+      ],
+      [
+        795,
         ""
       ],
       [
@@ -18819,6 +18859,26 @@
       ],
       [
         797,
+        ""
+      ],
+      [
+        797,
+        "###### 存在"
+      ],
+      [
+        797,
+        ""
+      ],
+      [
+        798,
+        ""
+      ],
+      [
+        798,
+        "###### 范畴与承诺"
+      ],
+      [
+        798,
         ""
       ],
       [
@@ -18866,6 +18926,26 @@
         ""
       ],
       [
+        805,
+        "###### 非存在对象"
+      ],
+      [
+        805,
+        ""
+      ],
+      [
+        806,
+        ""
+      ],
+      [
+        806,
+        "###### 虚构与虚构主义"
+      ],
+      [
+        806,
+        ""
+      ],
+      [
         809,
         ""
       ],
@@ -18910,6 +18990,26 @@
         ""
       ],
       [
+        812,
+        "###### 分体论"
+      ],
+      [
+        812,
+        ""
+      ],
+      [
+        814,
+        ""
+      ],
+      [
+        814,
+        "###### 构成与质料"
+      ],
+      [
+        814,
+        ""
+      ],
+      [
         816,
         ""
       ],
@@ -18919,6 +19019,26 @@
       ],
       [
         816,
+        ""
+      ],
+      [
+        816,
+        "###### 边界与洞"
+      ],
+      [
+        816,
+        ""
+      ],
+      [
+        818,
+        ""
+      ],
+      [
+        818,
+        "###### 模糊性"
+      ],
+      [
+        818,
         ""
       ],
       [
@@ -18966,6 +19086,26 @@
         ""
       ],
       [
+        823,
+        "###### 属性理论"
+      ],
+      [
+        823,
+        ""
+      ],
+      [
+        826,
+        ""
+      ],
+      [
+        826,
+        "###### 特普"
+      ],
+      [
+        826,
+        ""
+      ],
+      [
         827,
         ""
       ],
@@ -18999,6 +19139,26 @@
       ],
       [
         832,
+        ""
+      ],
+      [
+        832,
+        "###### 依赖与随附"
+      ],
+      [
+        832,
+        ""
+      ],
+      [
+        834,
+        ""
+      ],
+      [
+        834,
+        "###### 基础与奠基"
+      ],
+      [
+        834,
         ""
       ],
       [
@@ -19670,6 +19830,38 @@
         ""
       ],
       [
+        926,
+        "#### 真理总论与实质理论"
+      ],
+      [
+        926,
+        ""
+      ],
+      [
+        932,
+        ""
+      ],
+      [
+        932,
+        "#### 紧缩与多元"
+      ],
+      [
+        932,
+        ""
+      ],
+      [
+        934,
+        ""
+      ],
+      [
+        934,
+        "#### 形式与修正理论"
+      ],
+      [
+        934,
+        ""
+      ],
+      [
         937,
         ""
       ],
@@ -19679,6 +19871,58 @@
       ],
       [
         937,
+        ""
+      ],
+      [
+        937,
+        "#### 语言哲学与逻辑形式"
+      ],
+      [
+        937,
+        ""
+      ],
+      [
+        941,
+        ""
+      ],
+      [
+        941,
+        "#### 命题理论"
+      ],
+      [
+        941,
+        ""
+      ],
+      [
+        944,
+        ""
+      ],
+      [
+        944,
+        "#### 意义、规则与泛指"
+      ],
+      [
+        944,
+        ""
+      ],
+      [
+        944,
+        "##### 意义与规则"
+      ],
+      [
+        944,
+        ""
+      ],
+      [
+        947,
+        ""
+      ],
+      [
+        947,
+        "##### 泛指"
+      ],
+      [
+        947,
         ""
       ],
       [
@@ -21978,6 +22222,26 @@
         ""
       ],
       [
+        1232,
+        "#### 商业与财产"
+      ],
+      [
+        1232,
+        ""
+      ],
+      [
+        1234,
+        ""
+      ],
+      [
+        1234,
+        "#### 慈善与文化遗产"
+      ],
+      [
+        1234,
+        ""
+      ],
+      [
         1236,
         ""
       ],
@@ -23334,6 +23598,38 @@
         ""
       ],
       [
+        1415,
+        "#### 美与审美经验"
+      ],
+      [
+        1415,
+        ""
+      ],
+      [
+        1418,
+        ""
+      ],
+      [
+        1418,
+        "#### 审美判断与证言"
+      ],
+      [
+        1418,
+        ""
+      ],
+      [
+        1420,
+        ""
+      ],
+      [
+        1420,
+        "#### 想象、悲剧与幽默"
+      ],
+      [
+        1420,
+        ""
+      ],
+      [
         1423,
         ""
       ],
@@ -23346,6 +23642,26 @@
         ""
       ],
       [
+        1423,
+        "#### 18 世纪美学"
+      ],
+      [
+        1423,
+        ""
+      ],
+      [
+        1426,
+        ""
+      ],
+      [
+        1426,
+        "#### 19 世纪美学"
+      ],
+      [
+        1426,
+        ""
+      ],
+      [
         1427,
         ""
       ],
@@ -23355,6 +23671,46 @@
       ],
       [
         1427,
+        ""
+      ],
+      [
+        1427,
+        "#### 认知科学与种族"
+      ],
+      [
+        1427,
+        ""
+      ],
+      [
+        1429,
+        ""
+      ],
+      [
+        1429,
+        "#### 批判、日常与环境"
+      ],
+      [
+        1429,
+        ""
+      ],
+      [
+        1429,
+        "##### 批判与环境"
+      ],
+      [
+        1429,
+        ""
+      ],
+      [
+        1431,
+        ""
+      ],
+      [
+        1431,
+        "##### 日常与存在主义"
+      ],
+      [
+        1431,
         ""
       ],
       [
@@ -24986,6 +25342,62 @@
         ""
       ],
       [
+        1659,
+        "#### 量子力学基础"
+      ],
+      [
+        1659,
+        ""
+      ],
+      [
+        1666,
+        ""
+      ],
+      [
+        1666,
+        "#### 量子力学诠释"
+      ],
+      [
+        1666,
+        ""
+      ],
+      [
+        1677,
+        ""
+      ],
+      [
+        1677,
+        "#### 量子信息与计算"
+      ],
+      [
+        1677,
+        ""
+      ],
+      [
+        1680,
+        ""
+      ],
+      [
+        1680,
+        "#### 量子场论与引力"
+      ],
+      [
+        1680,
+        ""
+      ],
+      [
+        1682,
+        ""
+      ],
+      [
+        1682,
+        "#### 量子与意识"
+      ],
+      [
+        1682,
+        ""
+      ],
+      [
         1683,
         ""
       ],
@@ -24998,6 +25410,46 @@
         ""
       ],
       [
+        1683,
+        "#### 统计力学基础"
+      ],
+      [
+        1683,
+        ""
+      ],
+      [
+        1683,
+        "##### 统计力学"
+      ],
+      [
+        1683,
+        ""
+      ],
+      [
+        1685,
+        ""
+      ],
+      [
+        1685,
+        "##### 遍历理论"
+      ],
+      [
+        1685,
+        ""
+      ],
+      [
+        1686,
+        ""
+      ],
+      [
+        1686,
+        "#### 熵与混沌"
+      ],
+      [
+        1686,
+        ""
+      ],
+      [
         1688,
         ""
       ],
@@ -25007,6 +25459,46 @@
       ],
       [
         1688,
+        ""
+      ],
+      [
+        1688,
+        "#### 时空结构与约定"
+      ],
+      [
+        1688,
+        ""
+      ],
+      [
+        1688,
+        "##### 广义相对论与质能"
+      ],
+      [
+        1688,
+        ""
+      ],
+      [
+        1690,
+        ""
+      ],
+      [
+        1690,
+        "##### 约定与规范理论"
+      ],
+      [
+        1690,
+        ""
+      ],
+      [
+        1692,
+        ""
+      ],
+      [
+        1692,
+        "#### 跨理论关系与对称性"
+      ],
+      [
+        1692,
         ""
       ],
       [
@@ -25031,6 +25523,58 @@
       ],
       [
         1698,
+        ""
+      ],
+      [
+        1698,
+        "#### 物理哲学专题"
+      ],
+      [
+        1698,
+        ""
+      ],
+      [
+        1702,
+        ""
+      ],
+      [
+        1702,
+        "#### 物理史与人物"
+      ],
+      [
+        1702,
+        ""
+      ],
+      [
+        1702,
+        "##### 物理史"
+      ],
+      [
+        1702,
+        ""
+      ],
+      [
+        1704,
+        ""
+      ],
+      [
+        1704,
+        "##### 空穴论证与爱因斯坦"
+      ],
+      [
+        1704,
+        ""
+      ],
+      [
+        1706,
+        ""
+      ],
+      [
+        1706,
+        "#### 气候科学"
+      ],
+      [
+        1706,
         ""
       ],
       [
@@ -25662,6 +26206,26 @@
         ""
       ],
       [
+        1801,
+        "#### 可计算性与复杂度"
+      ],
+      [
+        1801,
+        ""
+      ],
+      [
+        1804,
+        ""
+      ],
+      [
+        1804,
+        "#### 计算模型与哲学"
+      ],
+      [
+        1804,
+        ""
+      ],
+      [
         1807,
         ""
       ],
@@ -25671,6 +26235,78 @@
       ],
       [
         1807,
+        ""
+      ],
+      [
+        1807,
+        "#### 人工智能与论证"
+      ],
+      [
+        1807,
+        ""
+      ],
+      [
+        1807,
+        "##### 人工智能基础"
+      ],
+      [
+        1807,
+        ""
+      ],
+      [
+        1810,
+        ""
+      ],
+      [
+        1810,
+        "##### 中文房间"
+      ],
+      [
+        1810,
+        ""
+      ],
+      [
+        1811,
+        ""
+      ],
+      [
+        1811,
+        "#### 学习、联结与推理"
+      ],
+      [
+        1811,
+        ""
+      ],
+      [
+        1811,
+        "##### 学习与联结"
+      ],
+      [
+        1811,
+        ""
+      ],
+      [
+        1813,
+        ""
+      ],
+      [
+        1813,
+        "##### 框架与可辩驳推理"
+      ],
+      [
+        1813,
+        ""
+      ],
+      [
+        1815,
+        ""
+      ],
+      [
+        1815,
+        "#### 心灵计算"
+      ],
+      [
+        1815,
         ""
       ],
       [
@@ -25686,6 +26322,26 @@
         ""
       ],
       [
+        1816,
+        "#### 信息概念"
+      ],
+      [
+        1816,
+        ""
+      ],
+      [
+        1819,
+        ""
+      ],
+      [
+        1819,
+        "#### 逻辑与信念"
+      ],
+      [
+        1819,
+        ""
+      ],
+      [
         1822,
         ""
       ],
@@ -25695,6 +26351,38 @@
       ],
       [
         1822,
+        ""
+      ],
+      [
+        1822,
+        "#### 计算史与人物"
+      ],
+      [
+        1822,
+        ""
+      ],
+      [
+        1826,
+        ""
+      ],
+      [
+        1826,
+        "#### 计算语言学与自动推理"
+      ],
+      [
+        1826,
+        ""
+      ],
+      [
+        1828,
+        ""
+      ],
+      [
+        1828,
+        "#### 生物信息"
+      ],
+      [
+        1828,
         ""
       ],
       [
@@ -25975,6 +26663,26 @@
       ],
       [
         1871,
+        ""
+      ],
+      [
+        1871,
+        "#### 方法论"
+      ],
+      [
+        1871,
+        ""
+      ],
+      [
+        1874,
+        ""
+      ],
+      [
+        1874,
+        "#### 文化演化与历史"
+      ],
+      [
+        1874,
         ""
       ],
       [

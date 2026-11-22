@@ -2184,17 +2184,27 @@ outline: [1, 6]
 
 ### 总论与解释
 
+#### 形而上学与解释
+
 * [形而上学 Metaphysics (Peter van Inwagen、Meghan Sullivan、Sara Bernstein)](m/metaphysics.md)
 * [形而上学解释 Metaphysical Explanation (Andrew Brenner、Anna-Sofia Maurin、Alexander Skiles、Robin Stenwall、Naomi Thompson)](m/metaphysical-explanation.md)
+
+#### 立场
+
 * [自然主义 Naturalism (David Papineau)](n/naturalism.md)
 * [唯心主义 Idealism (Paul Guyer、Rolf-Peter Horstmann)](i/idealism.md)
 * [相对主义 Relativism (Maria Baghramian、J. Adam Carter)](r/relativism.md)
 
 ### 属性与立场
 
+#### 属性理论
+
 * [倾向 Dispositions (Sungho Choi、Michael Fara)](d/dispositions.md)
 * [涌现属性 Emergent Properties (Timothy O’Connor)](p/properties-emergent.md)
 * [本质属性与偶然属性 Essential vs. Accidental Properties (Philip Atkins、Fabrice Correia、Teresa Robertson Ishii)](e/essential-accidental.md)
+
+#### 立场
+
 * [形而上学中的唯名论 Nominalism in Metaphysics (Sam Cowling、Daniel Giberman)](n/nominalism-metaphysics.md)
 * [形而上学中的柏拉图主义 Platonism in Metaphysics (Mark Balaguer)](p/platonism.md)
 
@@ -2204,7 +2214,12 @@ outline: [1, 6]
 
 ##### 存在与范畴
 
+###### 存在
+
 * [存在 Existence (Michael Nelson)](e/existence.md)
+
+###### 范畴与承诺
+
 * [范畴 Categories (Amie Thomasson)](c/categories.md)
 * [类别 Sortals (Max A. Freund、Richard E. Grandy)](s/sortals.md)
 * [本体论承诺 Ontological Commitment (Phillip Bricker)](o/ontological-commitment.md)
@@ -2223,7 +2238,12 @@ outline: [1, 6]
 
 ##### 虚构与非存在
 
+###### 非存在对象
+
 * [非存在对象 Nonexistent Objects (Maria Reicher)](n/nonexistent-objects.md)
+
+###### 虚构与虚构主义
+
 * [虚构实体 Fictional Entities (Fred Kroon、Alberto Voltolini)](f/fictional-entities.md)
 * [虚构主义 Fictionalism (Matti Eklund)](f/fictionalism.md)
 * [模态虚构主义 Modal Fictionalism (Daniel Nolan)](f/fictionalism-modal.md)
@@ -2241,15 +2261,25 @@ outline: [1, 6]
 
 ##### 分体论与构成
 
+###### 分体论
+
 * [分体论 Mereology (Achille Varzi)](m/mereology.md)
+* [中世纪分体论 Medieval Mereology (Andrew Arlig)](m/mereology-medieval.md)
+
+###### 构成与质料
+
 * [物质构成 Material Constitution (Ryan Wasserman)](m/material-constitution.md)
 * [形式与质料 Form vs. Matter (Thomas Ainsworth)](f/form-matter.md)
-* [中世纪分体论 Medieval Mereology (Andrew Arlig)](m/mereology-medieval.md)
 
 ##### 边界、洞与模糊性
 
+###### 边界与洞
+
 * [边界 Boundary (Achille Varzi)](b/boundary.md)
 * [洞 Holes (Roberto Casati、Achille Varzi)](h/holes.md)
+
+###### 模糊性
+
 * [堆垛悖论 Sorites Paradox (Diana Raffman、Dominic Hyde)](s/sorites-paradox.md)
 * [多的难题 The Problem of the Many (Brian Weatherson)](p/problem-of-many.md)
 
@@ -2266,9 +2296,14 @@ outline: [1, 6]
 
 ##### 属性与特普
 
+###### 属性理论
+
 * [属性 Properties (Francesco Orilia、Michele Paolini Paoletti)](p/properties.md)
 * [自然属性 Natural Properties (Cian Dorr)](n/natural-properties.md)
 * [确定物与可确定物 Determinables and Determinates (Jessica Wilson)](d/determinate-determinables.md)
+
+###### 特普
+
 * [特普 Tropes (Anna-Sofia Maurin)](t/tropes.md)
 
 ##### 事态、事实与事件
@@ -2284,8 +2319,13 @@ outline: [1, 6]
 
 ##### 依赖、基础与奠基
 
+###### 依赖与随附
+
 * [随附性 Supervenience (Brian McLaughlin、Karen Bennett)](s/supervenience.md)
 * [本体论依赖 Ontological Dependence (Tuomas E. Tahko、E. Jonathan Lowe)](d/dependence-ontological.md)
+
+###### 基础与奠基
+
 * [基础性 Fundamentality (Tuomas E. Tahko)](f/fundamentality.md)
 * [形而上学奠基 Metaphysical Grounding (Ricki Bliss、Kelly Trogdon)](g/grounding.md)
 
@@ -2545,31 +2585,52 @@ outline: [1, 6]
 
 ### 真理理论
 
+#### 真理总论与实质理论
+
 * [真理 Truth (Michael Glanzberg)](t/truth.md)
-* [公理化真理论 Axiomatic Theories of Truth (Volker Halbach、Graham E. Leigh、Mateusz Łełyk)](t/truth-axiomatic.md)
-* [真理紧缩论 Deflationism About Truth (Bradley Armour-Garb、Daniel Stoljar、James Woodbridge)](t/truth-deflationary.md)
-* [多元真理论 Pluralist Theories of Truth (Nikolaj Jang Lee Linding Pedersen、Cory Wright)](t/truth-pluralist.md)
-* [真理的原始主义理论 Primitivist Theories of Truth (Jeremy Wyatt)](t/truth-primitivist.md)
-* [真理融贯论 The Coherence Theory of Truth (James O. Young)](t/truth-coherence.md)
 * [真理符合论 The Correspondence Theory of Truth (Marian David)](t/truth-correspondence.md)
+* [真理融贯论 The Coherence Theory of Truth (James O. Young)](t/truth-coherence.md)
 * [真理同一论 The Identity Theory of Truth (Richard Gaskin)](t/truth-identity.md)
 * [实用主义真理观 The Pragmatic Theory of Truth (John Capps)](t/truth-pragmatic.md)
+* [真理的原始主义理论 Primitivist Theories of Truth (Jeremy Wyatt)](t/truth-primitivist.md)
+
+#### 紧缩与多元
+
+* [真理紧缩论 Deflationism About Truth (Bradley Armour-Garb、Daniel Stoljar、James Woodbridge)](t/truth-deflationary.md)
+* [多元真理论 Pluralist Theories of Truth (Nikolaj Jang Lee Linding Pedersen、Cory Wright)](t/truth-pluralist.md)
+
+#### 形式与修正理论
+
+* [公理化真理论 Axiomatic Theories of Truth (Volker Halbach、Graham E. Leigh、Mateusz Łełyk)](t/truth-axiomatic.md)
 * [修正真理论 The Revision Theory of Truth (Philip Kremer、Edoardo Rivello)](t/truth-revision.md)
 * [似真性 Truthlikeness (Graham Oddie、Gustavo Cevolani)](t/truthlikeness.md)
 
 ### 语言哲学总论与专题
 
+#### 语言哲学与逻辑形式
+
 * [语言哲学 Philosophy of Linguistics (Barbara C. Scholz、Francis Jeffry Pelletier、Geoffrey K. Pullum、Ryan Nefdt)](l/linguistics.md)
 * [分析 Analysis (Michael Beaney、Thomas Raysmith)](a/analysis.md)
 * [逻辑形式 Logical Form (Paul Pietroski)](l/logical-form.md)
-* [命题 Propositions (Matthew McGrath、Devin Frank)](p/propositions.md)
 * [约定 Convention (Michael Rescorla)](c/convention.md)
-* [泛指概括 Generic Generalizations (Sarah-Jane Leslie、Adam Lerner)](g/generics.md)
-* [私人语言 Private Language (Stewart Candlish、George Wrisley)](p/private-language.md)
-* [严格指示词 Rigid Designators (Joseph LaPorte)](r/rigid-designators.md)
-* [遵循规则与意向性 Rule-Following and Intentionality (Alexander Miller、Olivia Sultanescu)](r/rule-following.md)
+
+#### 命题理论
+
+* [命题 Propositions (Matthew McGrath、Devin Frank)](p/propositions.md)
 * [单称命题 Singular Propositions (Greg Fitch、Michael Nelson)](p/propositions-singular.md)
 * [结构化命题 Structured Propositions (Jeffrey C. King)](p/propositions-structured.md)
+
+#### 意义、规则与泛指
+
+##### 意义与规则
+
+* [私人语言 Private Language (Stewart Candlish、George Wrisley)](p/private-language.md)
+* [遵循规则与意向性 Rule-Following and Intentionality (Alexander Miller、Olivia Sultanescu)](r/rule-following.md)
+* [严格指示词 Rigid Designators (Joseph LaPorte)](r/rigid-designators.md)
+
+##### 泛指
+
+* [泛指概括 Generic Generalizations (Sarah-Jane Leslie、Adam Lerner)](g/generics.md)
 
 ### 语义学
 
@@ -3428,8 +3489,13 @@ outline: [1, 6]
 
 ### 商业、财产与慈善
 
+#### 商业与财产
+
 * [商业伦理学 Business Ethics (Jeffrey Moriarty)](e/ethics-business.md)
 * [知识产权 Intellectual Property (Adam Moore、Ken Himma)](i/intellectual-property.md)
+
+#### 慈善与文化遗产
+
 * [慈善 Philanthropy (Theodore M. Lechterman、Emma Saunders-Hastings、Rob Reich)](p/philanthropy.md)
 * [文化遗产伦理 The Ethics of Cultural Heritage (Erich Hatala Matthes)](e/ethics-cultural-heritage.md)
 
@@ -3950,29 +4016,52 @@ outline: [1, 6]
 
 ### 美学总论与理论
 
+#### 美与审美经验
+
 * [美 Beauty (Crispin Sartwell)](b/beauty.md)
 * [审美体验 Aesthetic Experience (Antonia Peacocke)](a/aesthetic-experience.md)
+* [美学的概念 The Concept of the Aesthetic (James Shelley)](a/aesthetic-concept.md)
+
+#### 审美判断与证言
+
 * [审美判断 Aesthetic Judgment (Nick Zangwill)](a/aesthetic-judgment.md)
 * [审美证言 Aesthetic Testimony (Jon Robson、Rebecca Wallbank)](a/aesthetic-testimony.md)
-* [美学的概念 The Concept of the Aesthetic (James Shelley)](a/aesthetic-concept.md)
+
+#### 想象、悲剧与幽默
+
 * [想象性抗拒 Imaginative Resistance (Emine Hande Tuna)](i/imaginative-resistance.md)
 * [悲剧悖论 Paradox of Tragedy (Jonathan Gilmore)](p/paradox-of-tragedy.md)
 * [幽默哲学 Philosophy of Humor (John Morreall)](h/humor.md)
 
 ### 美学史
 
+#### 18 世纪美学
+
 * [18 世纪的英国美学 18th Century British Aesthetics (James Shelley)](a/aesthetics-18th-british.md)
 * [18 世纪的法国美学 18th Century French Aesthetics (Jennifer Tsien、Jacques Morizot)](a/aesthetics-18th-french.md)
 * [18 世纪的德国美学 18th Century German Aesthetics (Paul Guyer)](a/aesthetics-18th-german.md)
+
+#### 19 世纪美学
+
 * [19 世纪浪漫主义美学 19th Century Romantic Aesthetics (Keren Gorodeisky)](a/aesthetics-19th-romantic.md)
 
 ### 跨学科美学
 
+#### 认知科学与种族
+
 * [美学与认知科学 Aesthetics and Cognitive Science (Jon Robson、Gregory Currie)](a/aesthetics-cogsci.md)
 * [美学与种族 Aesthetics and Race (Monique Roelofs)](a/aesthetics-race.md)
+
+#### 批判、日常与环境
+
+##### 批判与环境
+
 * [批判理论中的美学 Aesthetics in Critical Theory (Owen Hulatt)](a/aesthetics-critical-theory.md)
-* [日常美学 Aesthetics of the Everyday (Yuriko Saito)](a/aesthetics-of-everyday.md)
 * [环境美学 Environmental Aesthetics (Glenn Parsons、Allen Carlson)](e/environmental-aesthetics.md)
+
+##### 日常与存在主义
+
+* [日常美学 Aesthetics of the Everyday (Yuriko Saito)](a/aesthetics-of-everyday.md)
 * [存在主义美学 Existentialist Aesthetics (Jean-Philippe Deranty)](a/aesthetics-existentialist.md)
 
 ### 艺术哲学
@@ -4607,7 +4696,18 @@ outline: [1, 6]
 
 ### 量子力学与诠释
 
+#### 量子力学基础
+
 * [量子力学 Quantum Mechanics (Jenann Ismael)](q/qm.md)
+* [量子理论的哲学问题 Philosophical Issues in Quantum Theory (Wayne Myrvold)](q/qt-issues.md)
+* [不确定性原理 The Uncertainty Principle (Jan Hilgevoord、Jos Uffink)](q/qt-uncertainty.md)
+* [量子理论与数学严谨性 Quantum Theory and Mathematical Rigor (Fred Kronz、Tracy Lupher)](q/qt-nvd.md)
+* [量子理论中的爱因斯坦-波多尔斯基-罗森论证 The Einstein-Podolsky-Rosen Argument in Quantum Theory (Arthur Fine)](q/qt-epr.md)
+* [贝尔定理 Bell’s Theorem (Wayne Myrvold、Marco Genovese、Abner Shimony)](b/bell-theorem.md)
+* [科亨-施佩克尔定理（KS 定理） The Kochen-Specker Theorem (Carsten Held)](k/kochen-specker.md)
+
+#### 量子力学诠释
+
 * [量子力学的哥本哈根诠释 Copenhagen Interpretation of Quantum Mechanics (Jan Faye)](q/qm-copenhagen.md)
 * [坍缩理论 Collapse Theories (Giancarlo Ghirardi、Angelo Bassi)](q/qm-collapse.md)
 * [量子力学的多世界诠释 Many-Worlds Interpretation of Quantum Mechanics (Lev Vaidman)](q/qm-manyworlds.md)
@@ -4617,35 +4717,58 @@ outline: [1, 6]
 * [关系性量子力学 Relational Quantum Mechanics (Carlo Rovelli)](q/qm-relational.md)
 * [量子力学中的一致性历史方法 The Consistent Histories Approach to Quantum Mechanics (Robert B. Griffiths)](q/qm-consistent-histories.md)
 * [量子力学中退相干的作用 The Role of Decoherence in Quantum Mechanics (Guido Bacciagaluppi)](q/qm-decoherence.md)
-* [量子逻辑和概率论 Quantum Logic and Probability Theory (Alexander Wilce)](q/qt-quantlog.md)
-* [量子理论的哲学问题 Philosophical Issues in Quantum Theory (Wayne Myrvold)](q/qt-issues.md)
-* [量子理论中的爱因斯坦-波多尔斯基-罗森论证 The Einstein-Podolsky-Rosen Argument in Quantum Theory (Arthur Fine)](q/qt-epr.md)
-* [不确定性原理 The Uncertainty Principle (Jan Hilgevoord、Jos Uffink)](q/qt-uncertainty.md)
-* [量子理论与数学严谨性 Quantum Theory and Mathematical Rigor (Fred Kronz、Tracy Lupher)](q/qt-nvd.md)
-* [贝尔定理 Bell’s Theorem (Wayne Myrvold、Marco Genovese、Abner Shimony)](b/bell-theorem.md)
-* [科亨-施佩克尔定理（KS 定理） The Kochen-Specker Theorem (Carsten Held)](k/kochen-specker.md)
-* [量子纠缠与信息 Quantum Entanglement and Information (Jeffrey Bub)](q/qt-entangle.md)
-* [量子计算 Quantum Computing (Michael Cuffaro、Amit Hagar)](q/qt-quantcomp.md)
-* [量子场论 Quantum Field Theory (Meinard Kuhlmann)](q/quantum-field-theory.md)
-* [量子引力 Quantum Gravity (Steven Weinstein、Dean Rickles)](q/quantum-gravity.md)
-* [对意识的量子研究方法 Quantum Approaches to Consciousness (Harald Atmanspacher)](q/qt-consciousness.md)
 * [量子贝叶斯模型和实用主义的量子理论观点 Quantum-Bayesian and Pragmatist Views of Quantum Theory (Richard Healey)](q/quantum-bayesian.md)
 * [量子力学中的逆因果关系 Retrocausality in Quantum Mechanics (Simon Friederich、Peter W. Evans)](q/qm-retrocausality.md)
 
+#### 量子信息与计算
+
+* [量子纠缠与信息 Quantum Entanglement and Information (Jeffrey Bub)](q/qt-entangle.md)
+* [量子计算 Quantum Computing (Michael Cuffaro、Amit Hagar)](q/qt-quantcomp.md)
+* [量子逻辑和概率论 Quantum Logic and Probability Theory (Alexander Wilce)](q/qt-quantlog.md)
+
+#### 量子场论与引力
+
+* [量子场论 Quantum Field Theory (Meinard Kuhlmann)](q/quantum-field-theory.md)
+* [量子引力 Quantum Gravity (Steven Weinstein、Dean Rickles)](q/quantum-gravity.md)
+
+#### 量子与意识
+
+* [对意识的量子研究方法 Quantum Approaches to Consciousness (Harald Atmanspacher)](q/qt-consciousness.md)
+
 ### 统计物理与热力学
+
+#### 统计力学基础
+
+##### 统计力学
 
 * [玻尔兹曼在统计物理学方面的研究 Boltzmann’s Work in Statistical Physics (Jos Uffink)](s/statphys-Boltzmann.md)
 * [统计力学哲学 Philosophy of Statistical Mechanics (Roman Frigg、Charlotte Werndl)](s/statphys-statmech.md)
-* [信息加工与热力学熵 Information Processing and Thermodynamic Entropy (Owen Maroney)](i/information-entropy.md)
+
+##### 遍历理论
+
 * [遍历层次 The Ergodic Hierarchy (Roman Frigg、Joseph Berkovitz、Fred Kronz)](e/ergodic-hierarchy.md)
+
+#### 熵与混沌
+
+* [信息加工与热力学熵 Information Processing and Thermodynamic Entropy (Owen Maroney)](i/information-entropy.md)
 * [混沌 Chaos (Robert Bishop)](c/chaos.md)
 
 ### 时空与引力
 
+#### 时空结构与约定
+
+##### 广义相对论与质能
+
 * [广义相对论的早期哲学解释 Early Philosophical Interpretations of General Relativity (Thomas A. Ryckman)](g/genrel-early.md)
-* [同时性的约定性 Conventionality of Simultaneity (Allen Janis)](s/spacetime-convensimul.md)
 * [质能等价 The Equivalence of Mass and Energy (Francisco Fernflores)](e/equivME.md)
+
+##### 约定与规范理论
+
+* [同时性的约定性 Conventionality of Simultaneity (Allen Janis)](s/spacetime-convensimul.md)
 * [物理学中的规范理论 Gauge Theories in Physics (John Dougherty)](g/gauge-theories.md)
+
+#### 跨理论关系与对称性
+
 * [物理学中的跨理论关系 Intertheory Relations in Physics (Patricia Palacios)](p/physics-interrelate.md)
 * [物理学中的结构主义 Structuralism in Physics (Heinz-Juergen Schmidt)](p/physics-structuralism.md)
 * [对称性与对称性破缺 Symmetry and Symmetry Breaking (Katherine Brading、Elena Castellani、Nicholas Teh)](s/symmetry-breaking.md)
@@ -4658,14 +4781,27 @@ outline: [1, 6]
 
 ### 专题与人物
 
+#### 物理哲学专题
+
 * [物理学中的因果关系 Causation in Physics (Mathias Frisch、Thomas Blanchard)](c/causation-physics.md)
 * [物理学中的整体论和不可分离性 Holism and Nonseparability in Physics (Richard Healey、Henrique Gomes)](p/physics-holism.md)
 * [量子理论中的同一性和个体性 Identity and Individuality in Quantum Theory (Steven French、Tomasz Bigaj)](q/qt-idind.md)
 * [物理系统中的计算 Computation in Physical Systems (Gualtiero Piccinini)](c/computation-physicalsystems.md)
+
+#### 物理史与人物
+
+##### 物理史
+
 * [玻尔的对应原理 Bohr’s Correspondence Principle (Alisa Bokulich、Peter Bokulich)](b/bohr-correspondence.md)
+* [17 至 20 世纪的原子论 Atomism from the 17th to the 20th Century (Alan Chalmers、Klodian Coko)](a/atomism-modern.md)
+
+##### 空穴论证与爱因斯坦
+
 * [空穴论证 The Hole Argument (John D. Norton、Oliver Pooley、James Read)](s/spacetime-holearg.md)
 * [爱因斯坦的科学哲学 Einstein’s Philosophy of Science (Don A. Howard、Marco Giovanelli)](e/einstein-philscience.md)
-* [17 至 20 世纪的原子论 Atomism from the 17th to the 20th Century (Alan Chalmers、Klodian Coko)](a/atomism-modern.md)
+
+#### 气候科学
+
 * [气候科学 Climate Science (Wendy Parker)](c/climate-science.md)
 
 ### 化学哲学
@@ -4918,43 +5054,79 @@ outline: [1, 6]
 
 ### 计算理论
 
+#### 可计算性与复杂度
+
 * [可计算性与复杂度 Computability and Complexity (Neil Immerman)](c/computability.md)
 * [计算复杂性理论 Computational Complexity Theory (Walter Dean)](c/computational-complexity.md)
 * [邱奇-图灵论题 The Church-Turing Thesis (B. Jack Copeland)](c/church-turing.md)
+
+#### 计算模型与哲学
+
 * [元胞自动机 Cellular Automata (Francesco Berto、Jacopo Tagliabue)](c/cellular-automata.md)
 * [计算哲学 Computational Philosophy (Patrick Grim、Daniel Singer)](c/computational-philosophy.md)
 * [计算机科学哲学 The Philosophy of Computer Science (Nicola Angius、Giuseppe Primiero、Raymond Turner)](c/computer-science.md)
 
 ### 人工智能与认知
 
+#### 人工智能与论证
+
+##### 人工智能基础
+
 * [人工智能 Artificial Intelligence (Selmer Bringsjord、Naveen Sundar Govindarajulu)](a/artificial-intelligence.md)
 * [人工智能认识论 Epistemology of Artificial Intelligence (Claus Beisbart)](e/epistemology-ai.md)
 * [基于逻辑的人工智能 Logic-Based Artificial Intelligence (Richmond Thomason)](l/logic-ai.md)
+
+##### 中文房间
+
+* [中文房间论证 The Chinese Room Argument (David Cole)](c/chinese-room.md)
+
+#### 学习、联结与推理
+
+##### 学习与联结
+
 * [形式化学习理论 Formal Learning Theory (Oliver Schulte)](l/learning-formal.md)
 * [联结主义 Connectionism (Cameron Buckner、James Garson)](c/connectionism.md)
-* [中文房间论证 The Chinese Room Argument (David Cole)](c/chinese-room.md)
-* [心灵计算理论 The Computational Theory of Mind (Michael Rescorla)](c/computational-mind.md)
+
+##### 框架与可辩驳推理
+
 * [框架问题 The Frame Problem (Murray Shanahan)](f/frame-problem.md)
 * [可辩驳推理 Defeasible Reasoning (Robert Koons)](r/reasoning-defeasible.md)
 
+#### 心灵计算
+
+* [心灵计算理论 The Computational Theory of Mind (Michael Rescorla)](c/computational-mind.md)
+
 ### 信息与逻辑
 
+#### 信息概念
+
 * [信息 Information (Pieter Adriaans)](i/information.md)
-* [逻辑与信息 Logic and Information (Maricarmen Martinez、Sebastian Sequoiah-Grayson)](l/logic-information.md)
-* [信念修正的逻辑 Logic of Belief Revision (Sven Ove Hansson)](l/logic-belief-revision.md)
-* [信念的形式化表述 Formal Representations of Belief (Konstantin Genin、Franz Huber)](f/formal-belief.md)
 * [语义概念的信息 Semantic Conceptions of Information (Sebastian Sequoiah-Grayson、Luciano Floridi)](i/information-semantic.md)
 * [本体论与信息系统 Ontology and Information Systems (Adam Pease)](o/ontology-is.md)
 
+#### 逻辑与信念
+
+* [逻辑与信息 Logic and Information (Maricarmen Martinez、Sebastian Sequoiah-Grayson)](l/logic-information.md)
+* [信念修正的逻辑 Logic of Belief Revision (Sven Ove Hansson)](l/logic-belief-revision.md)
+* [信念的形式化表述 Formal Representations of Belief (Konstantin Genin、Franz Huber)](f/formal-belief.md)
+
 ### 计算史与专题
 
+#### 计算史与人物
+
 * [现代计算机发展史 The Modern History of Computing (B. Jack Copeland)](c/computing-history.md)
-* [计算语言学 Computational Linguistics (Lenhart Schubert)](c/computational-linguistics.md)
-* [自动推理 Automated Reasoning (Frederic Portoraro)](r/reasoning-automated.md)
-* [生物信息 Biological Information (Marc Artiga)](i/information-biological.md)
 * [艾伦·图灵 Alan Turing (Andrew Hodges)](t/turing.md)
   * [图灵测试 The Turing Test (Graham Oppy、David Dowe)](t/turing-test.md)
   * [图灵机 Turing Machines (Liesbeth De Mol)](t/turing-machine.md)
+
+#### 计算语言学与自动推理
+
+* [计算语言学 Computational Linguistics (Lenhart Schubert)](c/computational-linguistics.md)
+* [自动推理 Automated Reasoning (Frederic Portoraro)](r/reasoning-automated.md)
+
+#### 生物信息
+
+* [生物信息 Biological Information (Marc Artiga)](i/information-biological.md)
 
 ### 技术哲学
 
@@ -5067,9 +5239,14 @@ outline: [1, 6]
 
 ### 方法论与历史哲学
 
+#### 方法论
+
 * [社会科学中的整体主义方法论 Methodological Holism in the Social Sciences (Julie Zahle)](h/holism-social.md)
 * [方法论个人主义 Methodological Individualism (Joseph Heath)](m/methodological-individualism.md)
 * [社会程序的形式化进路 Formal Approaches to Social Procedures (Jan van Eijck、Rineke (L.C.) Verbrugge)](s/social-procedures.md)
+
+#### 文化演化与历史
+
 * [文化演化 Cultural Evolution (Tim Lewens、Andrew Buskell)](e/evolution-cultural.md)
 * [历史与史学史哲学 Philosophy of History and Historiography (Jouni-Matti Kuukkanen)](h/history.md)
 

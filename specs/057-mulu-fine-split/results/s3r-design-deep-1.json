@@ -1,0 +1,59 @@
+{
+  "科学、逻辑与数学／物理科学哲学／量子力学与诠释": [
+    ["量子力学基础", "qm,qt-issues,qt-uncertainty,qt-nvd,qt-epr,bell-theorem,kochen-specker"],
+    ["量子力学诠释", "qm-copenhagen,qm-collapse,qm-manyworlds,qm-everett,qm-bohm,qm-modal,qm-relational,qm-consistent-histories,qm-decoherence,quantum-bayesian,qm-retrocausality"],
+    ["量子信息与计算", "qt-entangle,qt-quantcomp,qt-quantlog"],
+    ["量子场论与引力", "quantum-field-theory,quantum-gravity"],
+    ["量子与意识", "qt-consciousness"]
+  ],
+  "形而上学与认识论／语言哲学／真理理论": [
+    ["真理总论与实质理论", "truth,truth-correspondence,truth-coherence,truth-identity,truth-pragmatic,truth-primitivist"],
+    ["紧缩与多元", "truth-deflationary,truth-pluralist"],
+    ["形式与修正理论", "truth-axiomatic,truth-revision,truthlikeness"]
+  ],
+  "形而上学与认识论／语言哲学／语言哲学总论与专题": [
+    ["语言哲学与逻辑形式", "linguistics,analysis,logical-form,convention"],
+    ["命题理论", "propositions,propositions-singular,propositions-structured"],
+    ["意义、规则与泛指", "private-language,rule-following,rigid-designators,generics"]
+  ],
+  "科学、逻辑与数学／计算与信息哲学／人工智能与认知": [
+    ["人工智能与论证", "artificial-intelligence,epistemology-ai,logic-ai,chinese-room"],
+    ["学习、联结与推理", "learning-formal,connectionism,frame-problem,reasoning-defeasible"],
+    ["心灵计算", "computational-mind"]
+  ],
+  "科学、逻辑与数学／物理科学哲学／专题与人物": [
+    ["物理哲学专题", "causation-physics,physics-holism,qt-idind,computation-physicalsystems"],
+    ["物理史与人物", "bohr-correspondence,spacetime-holearg,einstein-philscience,atomism-modern"],
+    ["气候科学", "climate-science"]
+  ],
+  "价值理论／美学／美学总论与理论": [
+    ["美与审美经验", "beauty,aesthetic-experience,aesthetic-concept"],
+    ["审美判断与证言", "aesthetic-judgment,aesthetic-testimony"],
+    ["想象、悲剧与幽默", "imaginative-resistance,paradox-of-tragedy,humor"]
+  ],
+  "科学、逻辑与数学／物理科学哲学／时空与引力": [
+    ["时空结构与约定", "genrel-early,spacetime-convensimul,equivME,gauge-theories"],
+    ["跨理论关系与对称性", "physics-interrelate,physics-structuralism,symmetry-breaking"]
+  ],
+  "价值理论／美学／跨学科美学": [
+    ["认知科学与种族", "aesthetics-cogsci,aesthetics-race"],
+    ["批判、日常与环境", "aesthetics-critical-theory,aesthetics-of-everyday,environmental-aesthetics,aesthetics-existentialist"]
+  ],
+  "科学、逻辑与数学／计算与信息哲学／计算理论": [
+    ["可计算性与复杂度", "computability,computational-complexity,church-turing"],
+    ["计算模型与哲学", "cellular-automata,computational-philosophy,computer-science"]
+  ],
+  "科学、逻辑与数学／计算与信息哲学／信息与逻辑": [
+    ["信息概念", "information,information-semantic,ontology-is"],
+    ["逻辑与信念", "logic-information,logic-belief-revision,formal-belief"]
+  ],
+  "科学、逻辑与数学／物理科学哲学／统计物理与热力学": [
+    ["统计力学基础", "statphys-Boltzmann,statphys-statmech,ergodic-hierarchy"],
+    ["熵与混沌", "information-entropy,chaos"]
+  ],
+  "科学、逻辑与数学／计算与信息哲学／计算史与专题": [
+    ["计算史与人物", "computing-history,turing"],
+    ["计算语言学与自动推理", "computational-linguistics,reasoning-automated"],
+    ["生物信息", "information-biological"]
+  ]
+}
