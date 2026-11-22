@@ -712,48 +712,99 @@ outline: [1, 6]
 
 ### 现象学运动
 
-* [亚历克修斯·迈农 Alexius Meinong (Johann Marek)](m/meinong.md)
-* [阿尔弗雷德·舒茨 Alfred Schutz (Michael Barber)](s/schutz.md)
-* [安东·马蒂 Anton Marty (Robin Rollinger、Hynek Janousek)](m/marty.md)
-* [卡尔·斯图姆夫 Carl Stumpf (Denis Fisette)](s/stumpf.md)
-* [克里斯蒂安·冯·厄棱费尔 Christian von Ehrenfels (Robin Rollinger、Carlo Ierna)](e/ehrenfels.md)
-* [伊迪丝·兰德曼-卡利舍尔 Edith Landmann-Kalischer (Daniel Dahlstrom)](l/landmann-kalischer.md)
-* [埃迪特·施泰因 Edith Stein (Thomas Szanto、Dermot Moran)](s/stein.md)
-* [埃德蒙德·胡塞尔 Edmund Husserl (Dan Zahavi)](h/husserl.md)
-* [弗朗兹·布伦塔诺 Franz Brentano (Wolfgang Huemer)](b/brentano.md)
-  * [布伦塔诺的判断理论 Brentano’s Theory of Judgement (Johannes L. Brandl、Mark Textor)](b/brentano-judgement.md)
-* [卡齐米日·特瓦尔多夫斯基 Kazimierz Twardowski (Arianna Betti)](t/twardowski.md)
-* [马丁·海德格尔 Martin Heidegger (Mark Wrathall)](h/heidegger.md)
-  * [海德格尔的美学 Heidegger’s Aesthetics (Iain Thomson)](h/heidegger-aesthetics.md)
-* [莫里斯·梅洛-庞蒂 Maurice Merleau-Ponty (Ted Toadvine)](m/merleau-ponty.md)
-* [马克斯·舍勒 Max Scheler (Zachary Davis、Anthony Steinbock)](s/scheler.md)
-* [米歇尔·亨利 Michel Henry (Frédéric Seyler)](m/michel-henry.md)
+#### 现象学总论
+
 * [现象学 Phenomenology (David Woodruff Smith)](p/phenomenology.md)
-* [罗曼·英伽登 Roman Ingarden (Amie Thomasson)](i/ingarden.md)
+
+#### 慕尼黑与哥廷根学派
+
 * [慕尼黑学派和哥廷根学派的现象学 The Phenomenology of the Munich and Göttingen Circles (Alessandro Salice)](p/phenomenology-mg.md)
   * [阿道夫·莱纳赫 Adolf Reinach (Alessandro Salice、James DuBois、Barry Smith)](r/reinach.md)
 
-### 存在主义与诠释学
+#### 布伦塔诺学派与早期现象学
+
+* [弗朗兹·布伦塔诺 Franz Brentano (Wolfgang Huemer)](b/brentano.md)
+  * [布伦塔诺的判断理论 Brentano’s Theory of Judgement (Johannes L. Brandl、Mark Textor)](b/brentano-judgement.md)
+* [卡尔·斯图姆夫 Carl Stumpf (Denis Fisette)](s/stumpf.md)
+* [安东·马蒂 Anton Marty (Robin Rollinger、Hynek Janousek)](m/marty.md)
+* [克里斯蒂安·冯·厄棱费尔 Christian von Ehrenfels (Robin Rollinger、Carlo Ierna)](e/ehrenfels.md)
+* [亚历克修斯·迈农 Alexius Meinong (Johann Marek)](m/meinong.md)
+* [卡齐米日·特瓦尔多夫斯基 Kazimierz Twardowski (Arianna Betti)](t/twardowski.md)
+
+#### 胡塞尔
+
+* [埃德蒙德·胡塞尔 Edmund Husserl (Dan Zahavi)](h/husserl.md)
+
+#### 经典现象学
+
+* [马克斯·舍勒 Max Scheler (Zachary Davis、Anthony Steinbock)](s/scheler.md)
+* [埃迪特·施泰因 Edith Stein (Thomas Szanto、Dermot Moran)](s/stein.md)
+* [罗曼·英伽登 Roman Ingarden (Amie Thomasson)](i/ingarden.md)
+* [伊迪丝·兰德曼-卡利舍尔 Edith Landmann-Kalischer (Daniel Dahlstrom)](l/landmann-kalischer.md)
+* [阿尔弗雷德·舒茨 Alfred Schutz (Michael Barber)](s/schutz.md)
+
+#### 海德格尔
+
+* [马丁·海德格尔 Martin Heidegger (Mark Wrathall)](h/heidegger.md)
+  * [海德格尔的美学 Heidegger’s Aesthetics (Iain Thomson)](h/heidegger-aesthetics.md)
+
+#### 法国现象学
+
+* [莫里斯·梅洛-庞蒂 Maurice Merleau-Ponty (Ted Toadvine)](m/merleau-ponty.md)
+* [米歇尔·亨利 Michel Henry (Frédéric Seyler)](m/michel-henry.md)
+* [伊曼纽尔·列维纳斯 Emmanuel Levinas (Bettina Bergo)](l/levinas.md)
+
+### 存在主义
+
+#### 存在主义总论
+
+* [存在主义 Existentialism (Kevin Aho)](e/existentialism.md)
+* [本真性 Authenticity (Somogy Varga、Charles Guignon)](a/authenticity.md)
+
+#### 萨特
+
+* [让-保罗·萨特 Jean-Paul Sartre (Jack Reynolds、Pierre-Jean Renaudie)](s/sartre.md)
+
+#### 波伏娃
+
+* [西蒙娜·德·波伏娃 Simone de Beauvoir (Debra Bergoffen、Megan Burke)](b/beauvoir.md)
+
+#### 加缪
 
 * [阿尔贝·加缪 Albert Camus (Ronald Aronson)](c/camus.md)
-* [本真性 Authenticity (Somogy Varga、Charles Guignon)](a/authenticity.md)
-* [保罗·约克·冯·瓦滕堡伯爵 Count Paul Yorck von Wartenburg (Ingo Farin)](y/yorck.md)
-* [伊曼纽尔·列维纳斯 Emmanuel Levinas (Bettina Bergo)](l/levinas.md)
-* [欧根·罗森斯托克-胡絮 Eugen Rosenstock-Huessy (Wayne Cristaudo)](r/rosenstock-huessy.md)
-* [存在主义 Existentialism (Kevin Aho)](e/existentialism.md)
+
+#### 雅斯贝尔斯
+
+* [卡尔·雅斯贝尔斯 Karl Jaspers (Chris Thornhill、Ronny Miron)](j/jaspers.md)
+
+#### 生命哲学与宗教实存主义
+
+* [亨利·柏格森 Henri Bergson (Leonard Lawlor、Valentine Moulard-Leonard)](b/bergson.md)
 * [加布里埃尔·马塞尔 Gabriel (-Honoré) Marcel (Brian Treanor、Brendan Sweetman)](m/marcel.md)
+* [西蒙娜·薇依 Simone Weil (A. Rebecca Rozelle-Stone、Benjamin P. Davis)](s/simone-weil.md)
+* [玛格丽特·苏斯曼 Margarete Susman (Willi Goetschel)](s/susman-margarete.md)
+* [何塞·奥尔特加·伊·加塞特 José Ortega y Gasset (Oliver Holmes)](g/gasset.md)
+* [欧根·罗森斯托克-胡絮 Eugen Rosenstock-Huessy (Wayne Cristaudo)](r/rosenstock-huessy.md)
+
+### 诠释学
+
+#### 诠释学总论
+
+* [诠释学 Hermeneutics (Theodore George)](h/hermeneutics.md)
+
+#### 狄尔泰与历史诠释学
+
+* [威廉·狄尔泰 Wilhelm Dilthey (Rudolf Makkreel)](d/dilthey.md)
+* [保罗·约克·冯·瓦滕堡伯爵 Count Paul Yorck von Wartenburg (Ingo Farin)](y/yorck.md)
+
+#### 伽达默尔
+
 * [汉斯-格奥尔格·伽达默尔 Hans-Georg Gadamer (Jeff Malpas、Niall Keane)](g/gadamer.md)
   * [伽达默尔的美学 Gadamer’s Aesthetics (Nicholas Davey、Cynthia Nielsen)](g/gadamer-aesthetics.md)
-* [亨利·柏格森 Henri Bergson (Leonard Lawlor、Valentine Moulard-Leonard)](b/bergson.md)
-* [诠释学 Hermeneutics (Theodore George)](h/hermeneutics.md)
-* [让-保罗·萨特 Jean-Paul Sartre (Jack Reynolds、Pierre-Jean Renaudie)](s/sartre.md)
-* [何塞·奥尔特加·伊·加塞特 José Ortega y Gasset (Oliver Holmes)](g/gasset.md)
-* [卡尔·雅斯贝尔斯 Karl Jaspers (Chris Thornhill、Ronny Miron)](j/jaspers.md)
-* [玛格丽特·苏斯曼 Margarete Susman (Willi Goetschel)](s/susman-margarete.md)
+
+#### 利科
+
 * [保罗·利科 Paul Ricoeur (David Pellauer、Bernard Dauenhauer、Scott Davidson)](r/ricoeur.md)
-* [西蒙娜·德·波伏娃 Simone de Beauvoir (Debra Bergoffen、Megan Burke)](b/beauvoir.md)
-* [西蒙娜·薇依 Simone Weil (A. Rebecca Rozelle-Stone、Benjamin P. Davis)](s/simone-weil.md)
-* [威廉·狄尔泰 Wilhelm Dilthey (Rudolf Makkreel)](d/dilthey.md)
 
 ### 实用主义与过程哲学
 
