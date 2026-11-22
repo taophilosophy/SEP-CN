@@ -1,0 +1,151 @@
+{
+ "batch": "058-batch5-people",
+ "date": "2026-11-22",
+ "scope": "人名专批：真缺项 13 人（合写键别名去重后）",
+ "evidence": "specs/058-term-full-reextraction/results/people-wikidata-2026-11-22.tsv",
+ "rows": [
+  {
+   "en": "Berlin, Isaiah / Isaiah Berlin",
+   "alias": "Isaiah Berlin",
+   "zh": "以赛亚·伯林",
+   "table": "person",
+   "affiliation": "拉脱维亚生，英国／政治哲学",
+   "dates": "1909–1997",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q205162（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Blackburn, Simon / Simon Blackburn",
+   "alias": "Simon Blackburn",
+   "zh": "西蒙·布莱克本",
+   "table": "person",
+   "affiliation": "英国／哲学",
+   "dates": "1944–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q287357（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Korsgaard, Christine / Christine Korsgaard",
+   "alias": "Christine Korsgaard",
+   "zh": "克里斯蒂娜·科尔斯戈德",
+   "table": "person",
+   "affiliation": "美国／哲学",
+   "dates": "1952–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q467518（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Strawson, Galen / Galen Strawson",
+   "alias": "Galen Strawson",
+   "zh": "盖伦·斯特劳森",
+   "table": "person",
+   "affiliation": "英国／哲学",
+   "dates": "1952–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q1491810（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Dancy, Jonathan / Jonathan Dancy",
+   "alias": "Jonathan Dancy",
+   "zh": "乔纳森·丹西",
+   "table": "person",
+   "affiliation": "英国／哲学",
+   "dates": "1946–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q2460022（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Fricker, Miranda / Miranda Fricker",
+   "alias": "Miranda Fricker",
+   "zh": "米兰达·弗里克",
+   "table": "person",
+   "affiliation": "英国／哲学",
+   "dates": "1966–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q13522475（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Feinberg, Joel / Joel Feinberg",
+   "alias": "Joel Feinberg",
+   "zh": "乔尔·范伯格",
+   "table": "person",
+   "affiliation": "美国／法律哲学",
+   "dates": "1926–2004",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q1691712（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Van Parijs, Philippe / Philippe Van Parijs",
+   "alias": "Philippe Van Parijs",
+   "zh": "菲利普·范帕里斯",
+   "table": "person",
+   "affiliation": "比利时／政治哲学",
+   "dates": "1951–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q1345191（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Van Cleve, James / James Van Cleve",
+   "alias": "James Van Cleve",
+   "zh": "詹姆斯·范·克利夫",
+   "table": "person",
+   "affiliation": "美国／哲学",
+   "dates": "—",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q133999881（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）；生卒未详（Wikidata 无生卒数据）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Della Rocca, Michael / Michael Della Rocca",
+   "alias": "Michael Della Rocca",
+   "zh": "迈克尔·德拉·罗卡",
+   "table": "person",
+   "affiliation": "美国／哲学",
+   "dates": "—",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q105592457（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）；生卒未详（Wikidata 无生卒数据）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Dutilh Novaes, Catarina / Catarina Dutilh Novaes",
+   "alias": "Catarina Dutilh Novaes",
+   "zh": "卡塔琳娜·杜蒂尔·诺瓦埃斯",
+   "table": "person",
+   "affiliation": "巴西／荷兰／哲学",
+   "dates": "1976–",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q93221508（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Barcan Marcus, Ruth / Ruth Barcan Marcus",
+   "alias": "Ruth Barcan Marcus",
+   "zh": "露丝·巴坎·马库斯",
+   "table": "person",
+   "affiliation": "美国／逻辑与哲学",
+   "dates": "1921–2012",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q437943（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "Suppes, Patrick / Patrick Suppes",
+   "alias": "Patrick Suppes",
+   "zh": "帕特里克·苏佩斯",
+   "table": "person",
+   "affiliation": "美国／科学哲学",
+   "dates": "1922–2014",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行音译；籍属/生卒联网查证：Wikidata Q323107（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）",
+   "date": "2026-11-22"
+  }
+ ]
+}

@@ -238,9 +238,26 @@ def load_registered():
     for r in rows:
         terms.add(norm_key_quote(r[0]))
     persons = set()
+    PARTS = {'van', 'von', 'de', 'der', 'den', 'du', 'la', 'le', 'di', 'da',
+             'del', 'della', 'ibn', 'bin', 'bint', 'al', 'el', 'abu', 'abd'}
     rows2, _ = parse_registry2_full(person_path())
     for r in rows2:
-        persons.add(norm_key_quote(r[0]))
+        key = norm_key_quote(r[0])
+        persons.add(key)
+        for p in key.split('/'):
+            p = p.strip()
+            persons.add(p)
+            toks = p.split()
+            if len(toks) >= 2:
+                persons.add('%s %s' % (toks[-1], ' '.join(toks[:-1])))
+                persons.add('%s, %s' % (toks[-1], ' '.join(toks[:-1])))
+            for i, t in enumerate(toks):
+                if t in PARTS and i > 0:
+                    persons.add(' '.join(toks[i:]))
+            if ',' in p:
+                last, first = [x.strip() for x in p.split(',', 1)]
+                persons.add('%s %s' % (first, last))
+                persons.add(last)
     return terms, persons
 
 
