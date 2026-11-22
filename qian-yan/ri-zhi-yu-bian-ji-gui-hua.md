@@ -261,3 +261,13 @@
 * **结果**：命中 6 键，可用 3 条——Dionysius of Chalcedon（fl. 约前320）、Euphantus of Olyntus（生年早于前349）、Panthoides（fl. 约前280–前275），皆 en/dialectical-school 原文；另 3 条（Francine／Helene／Johann Friedrich）系他人句中名字片段，弃。
 * **判读**：五条通道至此穷尽——GND 全查（接受 10／佐证 22）、Wikidata 全查（24／13）、P227 桥（121 键取 6）、原文括注（1,873 篇取 41＋6）、散文式（795 键取 3）。**剩余 792 条缺生卒基本上不在 SEP 文本与规范库中**：多数为当代学者（生年未刊），少数为无规范档的古代小人物；继续只能逐人查专门文献，命中率仅百分之几。
 * **门禁**：check_all 17 项全绿；缺生卒 795→792，缺籍属 720，任一缺 897。
+
+## 2026-11-22 阿语人名籍属逐人查证（用户指令“结合原文分析，不要机械判断，联网查证”）
+
+* **做法**：不以 nisba 机械推定。阿语子集 25 行缺籍属，逐行先回 en/ 原文取语境（查有无“Persian”“also from Rayy”“Saʿīd al-Qummi”一类明示），再按人物／学派查权威工具书（Encyclopaedia Iranica、EI2、TDV İslâm Ansiklopedisi、Oxford Encyclopedia、Encyclopaedia Judaica）。
+* **结果**：22 行落定，另 2 行（Josef Ibn Haviva／Josef Ibn Shem Tov）经 Judaica 补证，仅 Jurjānī 一行仍空（其人本身存疑，见上一段）。籍属 720→696。
+* **反例（机械推断必错）**：al-Dārimī 的 nisba 不是地名，而是 Tamīm 族 Dārim 支；据 TDV 实为锡吉斯坦人、居赫拉特。若照字面推作“达里姆（撒马尔罕一带）”即误。
+* **原文先于工具书的三处**：①Abū Ḥātim al-Rāzī 原文“also from Rayy”直接给地；②ʿAzīz al-Dīn Nasafī 原文“Persian Sufi authors”直接给族属；③Saʿīd al-Qummi 原文自带地名。三者不必外查即定，工具书仅作复核。
+* **两处生卒处置**：①Ghiyāth al-Dīn Dashtakī 1462–1542→**1462–1541**（原文 mulla-sadra 作 d. 948 AH/1541，Iranica 作 866–948/1462–1541；原值 1542 系 Wikidata，改从原文）；②Fanārī 保留 **–1430**（SEP），依据列注 TDV 作 1431，不擅改。
+* **工具书冲突不折中**：Joseph ibn Shem Tov 卒年 Encyclopaedia Judaica 作 c. 1460、Wikipedia 作 1480，取前者入表，异说写进依据；Haviva 生卒（约 1340–1420 一说）因无权威确年，生卒留空只填籍属。
+* **计数**：缺生卒 792→791，缺籍属 720→696，任一缺 897→876。门禁 17 项全绿。
