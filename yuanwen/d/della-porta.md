@@ -147,11 +147,17 @@ This topic of the marvellous (*meraviglia*), and of emotions elicited by attenda
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+For a most useful online resource on Porta consult the [ homepage of the *Centro Internazionale di Studi Giovan Battista della Porta* (in Italian)](https://centrostudigbdellaporta.altervista.org/).[Amongst other useful research tools the site provides links to historical editions of Porta’s published works as well as a cumulative bibliography of all the literature extant on Porta. The bibliography is constantly updated by the *spititus rector* of the *Centro*, Alfonso Paolella.]
+
 ### List of Porta’s Works
+
+The editors of the “Edizione Nazionale Delle Opere di Giovan Battista della Porta” (Naples: Edizioni Scientifiche Italiane, Raffaele Sirri, general editor) have so far printed an impressive number of Porta’s texts:
 
 ### Other editions
 
 ### Historic editions and translations
+
+To this date, there are still very few **English translations** of Porta’s works available. Especially the editions to Fratelli Rivali (Clubb) and Sorella (Beecher and Ferraro), two of Porta’s plays, contain highly readable and valuable introductions:
 
 ### Secondary Literature
 
@@ -174,10 +180,6 @@ Bacon, Francis | Bodin, Jean | Bruno, Giordano | Campanella, Tommaso | Cardano, 
 ### Acknowledgments
 
 The editors and the author would like to thank Emily Fox-Penner for her volunteer efforts the original version of this entry for the Encyclopedia.
-
-[^for-nd]: For a most useful online resource on Porta consult the [ homepage of the *Centro Internazionale di Studi Giovan Battista della Porta* (in Italian)](https://centrostudigbdellaporta.altervista.org/).[Amongst other useful research tools the site provides links to historical editions of Porta’s published works as well as a cumulative bibliography of all the literature extant on Porta. The bibliography is constantly updated by the *spititus rector* of the *Centro*, Alfonso Paolella.]
-
-[^edizione-nd]: The editors of the “Edizione Nazionale Delle Opere di Giovan Battista della Porta” (Naples: Edizioni Scientifiche Italiane, Raffaele Sirri, general editor) have so far printed an impressive number of Porta’s texts:
 
 [^ars-1602]: *Ars reminiscendi*, 1602 (1996).
 
@@ -216,8 +218,6 @@ The editors and the author would like to thank Emily Fox-Penner for her voluntee
 [^de-1609]: *De distillationibus libri IX*. Strasbourg: L. Zetzner, 1609.
 
 [^magiae-nd]: *Magiae naturalis, sive, De miraculis rerum naturalivm libri IIII*. Naples: Matthias Cancer, 1558.
-
-[^to-nd]: To this date, there are still very few **English translations** of Porta’s works available. Especially the editions to Fratelli Rivali (Clubb) and Sorella (Beecher and Ferraro), two of Porta’s plays, contain highly readable and valuable introductions:
 
 [^magia-1658]: *Magia Naturalis* [ed.1589]: *Natural magick*. London, 1658. [Anastatic reprint, New York: Basic Books, 1957]
 

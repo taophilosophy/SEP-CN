@@ -181,6 +181,8 @@ For further overviews of Descartes’ moral philosophy, see Rodis-Lewis 1957; Co
 
 ### Primary Works
 
+Note: Although the entry cites the pagination of Descartes’ works in the CSM(K) edition, all translations are by the authors or revised by them.
+
 ### Secondary Works
 
 ## Academic Tools
@@ -198,8 +200,6 @@ For further overviews of Descartes’ moral philosophy, see Rodis-Lewis 1957; Co
 ## Related Entries
 
 Descartes, René | Descartes, René: life and works | Descartes, René: method | Elisabeth, Princess of Bohemia | Epicurus | ethics: virtue | Stoicism
-
-[^note-nd]: Note: Although the entry cites the pagination of Descartes’ works in the CSM(K) edition, all translations are by the authors or revised by them.
 
 [^descartes-1964]: *Œuvres de Descartes*, 11 vols., edited by Charles Adam and Paul Tannery, new presentation by Bernard Rochot and Pierre Costabel, Paris: Vrin, 1964–1974. [Cited as AT followed by volume and page number.]
 

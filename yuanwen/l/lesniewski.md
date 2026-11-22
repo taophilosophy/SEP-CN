@@ -304,6 +304,8 @@ On the other hand, Leśniewski’s concerns for the proprieties of quotation and
 
 ### Selected Secondary Sources
 
+Secondary literature is mainly scattered across journals, but the most useful compact sources are three collections:
+
 #### Collections
 
 #### Individual Works
@@ -369,8 +371,6 @@ definitions | logic: classical | Lvov-Warsaw School | mereology | nominalism: in
 [^collected-1978]: *Collected Works*, ed. by S. J. Surma, J. T. J. Srzednicki, J. D. Barnett and V. F. Rickey. 2 vols., with an annotated bibliography to 1978 by V. F. Rickey. Dordrecht/Warszawa: Kluwer/Polish Scientific Publishers, 1992 .
 
 [^pisma-2015]: *Pisma zebrane* [*Collected Writings*], ed. by J. J. Jadacki. 2 vols., Warszawa: Semper, 2015.
-
-[^secondary-nd]: Secondary literature is mainly scattered across journals, but the most useful compact sources are three collections:
 
 [^srzednicki-1998]: Srzednicki, J. T. J. and Z. Stachniak (eds), 1998. *Leśniewski’s Systems: Protothetic*. Dordrecht: Kluwer. (Contains essays by Rickey, Simons, Słupecki, Sobociński, and Tarski.)
 

@@ -187,6 +187,8 @@ But philosophers far beyond the Marburg School were influenced by Cohen’s insi
 
 #### Cohen’s works in English
 
+A small number of Cohen’s writings are avilable in English. They can be found in:
+
 ### Selected Secondary Literature and Other Works Cited
 
 ## Academic Tools
@@ -241,9 +243,7 @@ Buber, Martin | Cassirer, Ernst | Helmholtz, Hermann von | Kant, Immanuel | Kant
 
 [^cohen-1971]: 1971 (1908), “Charakteristik der Ethik Maimunis,” in W. Bacher, M. Brann, D. Simonsen, and J. Guttman (eds.), *Moses ben Maimon: Sein Leben, seine Werke, und seine Einfluss*, Hildesheim: Georg Olms.
 
-[^cohen’s-nd]: A small number of Cohen’s writings are avilable in English. They can be found in:
-
-[^cohen’s-1971]: 1971, *Reason and Hope: Selections from the Jewish Writings of Hermann Cohen*, trans. Eva Jospe, New York: Norton and Norton. This volume contains selections from Cohen’s posthumously published *Jüdische Schriften* (1924), including:
+[^cohen-1971-2]: 1971, *Reason and Hope: Selections from the Jewish Writings of Hermann Cohen*, trans. Eva Jospe, New York: Norton and Norton. This volume contains selections from Cohen’s posthumously published *Jüdische Schriften* (1924), including:
 
 [^uniqueness-nd]: “Uniqueness Rather Than Unity of God”
 

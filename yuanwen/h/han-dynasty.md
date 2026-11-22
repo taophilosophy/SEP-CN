@@ -217,6 +217,8 @@ Moving into the Three Kingdoms and the Wei and Jin periods, we see the rise of B
 
 ### Primary Texts Cited
 
+All citations of Chinese texts follow the Chinese Text Project (CTP) ([https://ctext.org/](https://ctext.org/)) numbering. Note that translations of Chinese material are included in the Works Cited list where available. Translations are cited by name, CTP numbering, translator and year. While the texts here are broken into Pre-Han, Han, and Post-Han categories, for some of these texts dating is difficult and controversial. The categorization here is based on traditionally accepted dating.
+
 #### Pre-Han Texts
 
 #### Han Texts
@@ -244,8 +246,6 @@ Moving into the Three Kingdoms and the Wei and Jin periods, we see the rise of B
 ## Related Entries
 
 Chinese Philosophy: Chinese medicine | Chinese Philosophy: legalism in | Chinese Philosophy: science | Daoism | Laozi | Xunzi | Zhuangzi
-
-[^all-nd]: All citations of Chinese texts follow the Chinese Text Project (CTP) ([https://ctext.org/](https://ctext.org/)) numbering. Note that translations of Chinese material are included in the Works Cited list where available. Translations are cited by name, CTP numbering, translator and year. While the texts here are broken into Pre-Han, Han, and Post-Han categories, for some of these texts dating is difficult and controversial. The categorization here is based on traditionally accepted dating.
 
 [^analects-nd]: [Analects](https://ctext.org/analects) (*Lunyu*).
 

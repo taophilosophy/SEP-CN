@@ -178,11 +178,15 @@ Hence, through the concept of emanation, Avicenna explains the God-world relatio
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Roman ciphers after the title (e.g., *Ilāhiyyāt*) indicate the treatise/book; Arabic ciphers indicate the section/chapter, then the pages and finally the lines:
+
 ### Editions and translations of Avicenna’s metaphysical texts
 
 ### Other cited sources
 
 ### Secondary Literature
+
+Other important references can be found in the works cited.
 
 ## Academic Tools
 
@@ -239,8 +243,6 @@ Menn (2013: 144–147)[^menn-2013] highlights the points that Avicenna and Arist
 [^note-10]: In *Ilāhiyyāt*, VI, 3, 276, 12–14 one reads *fī ʿiddat aḥkām*; Marmura (*The Metaphysics of “The Healing”*, 213) translates it as «in terms of a number of [modes]»; a possible correction is *fī ṯalāṯati aḥkām* (see Avicenna, *Metafisica*, 613; *Le cose divine*, 121 and 535); the Latin text (*Liber de philosophia prima*, 317) has: «*tribus modis*»; cf. also *Išārāt*, III, ed. Dunyā, 118–127; Michot 1997: 186. The question cannot be resolved without a comparative examination of Avicenna’s writings (see e.g., the *Epistle on the divisions of the rational sciences*). To some extent, these distinctions are traditional; see al-Fārābī, who in his *Aims* (or *Scopes*, Arabic *Aġrāḍ*) *in each Book of the Treatise Designated by Letters* (*Maqāla… fī aġrāḍ*, see Dieterici 1890: 35, 8–11)[^dieterici-1890], asserts that metaphysics (the universal science) investigates existence and oneness, which are common to all beings, together with priority and posteriority (*al-taqaddum wa-l-taʾaḫḫur*), potency and act (or potentiality and actuality: *al-quwwa wa-l-fiʿl*), and perfection and deficiency (literally: the perfect and the deficient or defective: *al-tāmm wa-l-nāqiṣ*); these three are defined as both types (*anwāʿ*) and concomitants (*lawāḥiq*) of existence and oneness; on this, see Wisnovsky 2003a: Ch. 5, pp. 108 *et seq.*; and in chap. 11 Wisnovsky notes that necessity and possibility do not appear in al-Fārābī’s analysis.
 
 [^note-11]: Each status combines Neo-Platonic and religious usage. Anteriority and posteriority—which legitimate the idea of hierarchy—are clearly Neo-Platonic but also evoke some of the divine names of the Islamic tradition (the First—*al-awwal*—and the anterior or pre-eternal : *qadīm, mutaqaddim*); the term “rich” (*ġanī*) is to be found in both the Neo-Platonic texts and in the Qurʾanic lexicon.
-
-[^roman-nd]: Roman ciphers after the title (e.g., *Ilāhiyyāt*) indicate the treatise/book; Arabic ciphers indicate the section/chapter, then the pages and finally the lines:
 
 [^ilāhiyyāt-nd]: so *Ilāhiyyāt* I, 4, 26, 6–10 means: *Ilāhiyyāt*, treatise, I, section 4, page 26, lines 6–10.
 
@@ -305,8 +307,6 @@ Menn (2013: 144–147)[^menn-2013] highlights the points that Avicenna and Arist
 [^pormann-2012]: Pormann, P. and P. Adamson (eds.), *The Philosophical Works by al-Kindī*, Karachi: Oxford University Press, 2012.
 
 [^dieterici-1890]: [Dieterici 1890] al-Fārābī, *Maqāla fī aġrāḍ al-ḥakīm fī kulli maqālatin min al-kitāb al-mawsūm bi-l-ḥurūf*, F. Dieterici (ed.), *(Alfarabis philosophische Abhandlungen)*, Leiden 1890.
-
-[^other-nd]: Other important references can be found in the works cited.
 
 [^adamson-2013a]: Adamson, P., 2013a, “From the necessary existent to God”, in Adamson 2013b: 170–189.
 

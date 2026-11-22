@@ -159,6 +159,8 @@ Finally, it is interesting to note that many philosophers and other intellectual
 
 #### Hume, David
 
+Hume’s main works of moral philosophy are the following.
+
 **[EPM]**
 
 *An Enquiry concerning the Principles of Morals*, Tom L. Beauchamp (ed.), Oxford: Oxford University Press, 1998. [Originally published in 1751.] (Cited as according to section, part [if any], and paragraph number.)
@@ -166,6 +168,8 @@ Finally, it is interesting to note that many philosophers and other intellectual
 **[T]**
 
 *A Treatise of Human Nature: A Critical Edition*, David Fate Norton and Mary J. Norton (eds.), Oxford: Clarendon Press, 2007. [Originally published in 1739–1740.] (Cited according to book, part, section, and paragraph number.)
+
+Many of Hume’s other works are also relevant to his moral philosophy. We cite or discuss the following.
 
 **[DR]**
 
@@ -185,6 +189,8 @@ Finally, it is interesting to note that many philosophers and other intellectual
 
 #### Kant, Immanuel
 
+Kant’s main works of moral philosophy are the following.
+
 **[CPrR]**
 
 *Critique of Practical Reason*, in *Practical Philosophy*, Mary J. Gregor (trans., ed.), Cambridge: Cambridge University Press, 1996. [Originally published in 1788.]
@@ -196,6 +202,8 @@ Finally, it is interesting to note that many philosophers and other intellectual
 **[MM]**
 
 *The Metaphysics of Morals*, Second Edition, Lara Denis (ed.) and Mary J. Gregor (trans.), Cambridge: Cambridge University Press, 2017. [Originally published in 1797.]
+
+Many other works are also relevant to Kant’s moral philosophy. We cite or discuss the following.
 
 **[I]**
 
@@ -274,15 +282,7 @@ Finally, it is interesting to note that many philosophers and other intellectual
 
 Hume, David: moral philosophy | Hume, David: on religion | Hutcheson, Francis | justice: as a virtue | Kant, Immanuel: moral philosophy | Kant, Immanuel: philosophical development | Kant, Immanuel: philosophy of religion | Kant, Immanuel: social and political philosophy | Scottish Philosophy: in the 18th Century Scottish Philosophy: in the 18th Century |
 
-[^hume’s-nd]: Hume’s main works of moral philosophy are the following.
-
-[^many-nd]: Many of Hume’s other works are also relevant to his moral philosophy. We cite or discuss the following.
-
 [^unless-1900]: Unless noted otherwise, we cite the pagination (beginning with volume number) of the *Akademie Ausgabe* edition of *Kants Gesammelte Schriften*, Berlin: Walter de Gruyter, 1900–. This pagination can be found in the margins of most scholarly English translations, including *The Cambridge Edition of the Works of Immanuel Kant*, Paul Guyer and Allen W. Wood (eds.), Cambridge: Cambridge University Press, 1992–.
-
-[^kant’s-nd]: Kant’s main works of moral philosophy are the following.
-
-[^many-nd-2]: Many other works are also relevant to Kant’s moral philosophy. We cite or discuss the following.
 
 [^allison-1983]: Allison, Henry E., 1983, *Kant’s Transcendental Idealism: An Interpretation and Defense*, New Haven and London: Yale University Press.
 

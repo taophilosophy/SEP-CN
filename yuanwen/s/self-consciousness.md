@@ -307,6 +307,8 @@ The view that success on metacognitive opt-out tests is indicative of self-consc
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Where applicable, page references are to reprinted versions.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=self-consciousness). |
@@ -323,8 +325,6 @@ The view that success on metacognitive opt-out tests is indicative of self-consc
 ## Related Entries
 
 animal: cognition | animal: consciousness | bodily awareness | consciousness | consciousness: higher-order theories | consciousness: seventeenth-century theories of | consciousness: unity of | indexicals | introspection | Kant, Immanuel: view of mind and consciousness of self | memory | mental content: nonconceptual | personal identity | self-consciousness: phenomenological approaches to | self-knowledge [self-locating beliefs](https://plato.stanford.edu/entries/self-locating-beliefs/) | transcendental arguments
-
-[^where-nd]: Where applicable, page references are to reprinted versions.
 
 [^aboulafia-1986]: Aboulafia, Mitchell, 1986, “Mead, Sartre: Self, Object, and Reflection”, *Philosophy and Social Criticism*, 11(2): 63–86.
 

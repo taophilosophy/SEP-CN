@@ -249,6 +249,8 @@ Aristotle took the way of philosophy, and Abraham took the way of prophecy. From
 
 ### Primary Works
 
+Editions of the Original Text and Translations of *The Kuzari* from Arabic to English
+
 ### Secondary Sources
 
 #### Cited Works
@@ -270,8 +272,6 @@ Aristotle took the way of philosophy, and Abraham took the way of prophecy. From
 ## Related Entries
 
 Aristotle | cosmological argument | eternity, in Christian thought | fideism | God: and other ultimates | Ibn Bâjja [Avempace] | imagination | miracles | prophecy | skepticism: ancient
-
-[^editions-nd]: Editions of the Original Text and Translations of *The Kuzari* from Arabic to English
 
 [^das-1887]: *Das Buch Al-Chazari des Abû-l-Hasan Jehuda Hallewi im Arabischen Urtext sowie in der Hebräischen Ubersetzung des Jehuda Ibn Tibbon*, Hartwig Hirschfeld (ed.), Leipzig: Otto Schulze, 1887.
 

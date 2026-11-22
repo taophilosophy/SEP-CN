@@ -216,6 +216,8 @@ Starting in the 1930s, with the work of James Brown Scott and others, the School
 
 ### Primary Sources
 
+A large number of texts by authors of the School of Salamanca can be found in digital version on the homepage of the “School of Salamanca” project of the *Akademie der Wissenschaften und der Literatur* at Mainz https://www.salamanca.school/en/works.html
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -234,8 +236,6 @@ Starting in the 1930s, with the work of James Brown Scott and others, the School
 ## Related Entries
 
 Aquinas, Thomas | Aristotle | ethics: natural law tradition | free will | Grotius, Hugo | metaphysics | nature of law: natural law theories | nominalism: medieval versions of | Ockham [Occam], William | political philosophy: medieval | reasoning: moral | rights: human | semiotics: medieval | Suárez, Francisco | war
-
-[^school-nd]: A large number of texts by authors of the School of Salamanca can be found in digital version on the homepage of the “School of Salamanca” project of the *Akademie der Wissenschaften und der Literatur* at Mainz https://www.salamanca.school/en/works.html
 
 [^avendaño-1668]: Avendaño, Diego de, 1668–1686, *Thesaurus Indicus*, 6 volumes, Antwerp: Jacobus Meursius. Cited by volume (*Liber*), *Titulus*, and *Caput*. Spanish translation of Lib. I Tit I–III as *Thesaurus indicus (1668)*, Angel Muñoz García (trans.), (Colección de pensamiento medieval y renacentista, 16), Pamplona: Ediciones Universidad de Navarra, 2001.
 

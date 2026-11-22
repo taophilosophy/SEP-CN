@@ -109,6 +109,8 @@ Such issues of interpretation remain very much in dispute in studies of Godwin (
 
 #### Godwin’s Works
 
+A complete bibliography of Godwin’s work published in his lifetime is given in volume 1 of *The Collected Novels and Memoirs of William Godwin* and in volume 1 of *The Political and Philosophical works of William Godwin*; further information in the collected works section. These collections are referred to as, respectively *CNM* and *PPW*.
+
 #### Collected Works
 
 #### Manuscript Collections
@@ -140,8 +142,6 @@ Such issues of interpretation remain very much in dispute in studies of Godwin (
 ## Related Entries
 
 anarchism | consequentialism | impartiality | Wollstonecraft, Mary
-
-[^godwin’s-nd]: A complete bibliography of Godwin’s work published in his lifetime is given in volume 1 of *The Collected Novels and Memoirs of William Godwin* and in volume 1 of *The Political and Philosophical works of William Godwin*; further information in the collected works section. These collections are referred to as, respectively *CNM* and *PPW*.
 
 [^history-1783]: *History of the Life of William Pitt, Earl of Chatham* printed for the Author and sold by G. Kearsley, published anonymously, London, 1783. (See *PPW* I)
 
@@ -189,11 +189,11 @@ anarchism | consequentialism | impartiality | Wollstonecraft, Mary
 
 [^cnm-1992]: [*CNM*] *Collected Novels and Memoirs of William Godwin*, 8 volumes, Mark Philp (ed.), London, Pickering and Chatto Publishers Ltd., 1992.
 
-[^godwin’s-nd-2]: A complete scholarly edition of all Godwin’s published novels, his biography of Mary Wollstonecraft, and a range of previously unpublished autobiographical writings. Caleb Williams and Memoirs of the Author of the Vindication of the Rights of Woman are set in the first edition with variants from later editions (and, for Caleb Williams, the manuscript) given in an appendix. All other novels are set from the last edition published within the author’s lifetime.
+[^godwin’s-nd]: A complete scholarly edition of all Godwin’s published novels, his biography of Mary Wollstonecraft, and a range of previously unpublished autobiographical writings. Caleb Williams and Memoirs of the Author of the Vindication of the Rights of Woman are set in the first edition with variants from later editions (and, for Caleb Williams, the manuscript) given in an appendix. All other novels are set from the last edition published within the author’s lifetime.
 
 [^ppw-1993]: [*PPW*] *Political and Philosophical Writings of William Godwin*, 7 volumes, Mark Philp (ed.), London, Pickering and Chatto Publishers Ltd., 1993.
 
-[^godwin’s-nd-3]: A scholarly edition of Godwin’s principal writings in politics, philosophy, education and theology, including previously unpublished manuscript material. The edition is made up of two volumes of Godwin’s principal political essays, including a substantial unpublished essay; two volumes of his Enquiry Concerning Political Justice, which is set in the first edition (volume III) with variants from the manuscript and the second and third editions given in volume IV (volume IV also includes a previously undiscovered first draft of the Enquiry together with manuscript material relating to the publication of and revisions to the Enquiry); the three later volumes collect Godwin’s main educational and literary writings, with previously unpublished material (Volume V), his later essays (volume VI) and his religious writings, including unpublished material and a re-edited edition of Godwin’s last, unfinished work, The Genius of Christianity Unveiled (volume VII).
+[^godwin’s-nd-2]: A scholarly edition of Godwin’s principal writings in politics, philosophy, education and theology, including previously unpublished manuscript material. The edition is made up of two volumes of Godwin’s principal political essays, including a substantial unpublished essay; two volumes of his Enquiry Concerning Political Justice, which is set in the first edition (volume III) with variants from the manuscript and the second and third editions given in volume IV (volume IV also includes a previously undiscovered first draft of the Enquiry together with manuscript material relating to the publication of and revisions to the Enquiry); the three later volumes collect Godwin’s main educational and literary writings, with previously unpublished material (Volume V), his later essays (volume VI) and his religious writings, including unpublished material and a re-edited edition of Godwin’s last, unfinished work, The Genius of Christianity Unveiled (volume VII).
 
 [^letters-nd]: *The Letters of William Godwin*
 

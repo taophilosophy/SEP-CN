@@ -295,6 +295,8 @@ Without reducing creaturely possibilities to God’s actual perfections (as idea
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+[All references to Spinoza’s *Ethics* use the form of PartTypeNumberSubtype (so “EIp4d” means Part One, Proposition Four, Demonstration). Other variants of types include “d” for definition, “a” for axiom, and “le” for lemma. Other subtypes include “s” for scholium and “c” for corollary. Spinoza’s letters are cited as Ep, using their standard numbering. All other citations from Spinoza’s corpus are cited by volume/page of Edwin Curley’s *Collected Works*, from which all translations are also taken.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=spinoza-modal). |
@@ -344,8 +346,6 @@ Descartes, René | Leibniz, Gottfried Wilhelm | ontological arguments | possibil
 [^note-15]: Incidentally, this provides Spinoza a basis from which to criticize some forms of contemporary anti-essentialism, according to which cheaply made conceptual (or, more likely, analytical) connections between objects and properties are sufficient and jointly necessary for metaphysically determining modal facts (Newlands 2017)[^newlands-2017].
 
 [^note-16]: It also allows us to answer Bennett’s similar questions (Bennett 1984, 123)[^bennett-1984].
-
-[^all-nd]: [All references to Spinoza’s *Ethics* use the form of PartTypeNumberSubtype (so “EIp4d” means Part One, Proposition Four, Demonstration). Other variants of types include “d” for definition, “a” for axiom, and “le” for lemma. Other subtypes include “s” for scholium and “c” for corollary. Spinoza’s letters are cited as Ep, using their standard numbering. All other citations from Spinoza’s corpus are cited by volume/page of Edwin Curley’s *Collected Works*, from which all translations are also taken.
 
 [^bennett-1991]: Bennett, Jonathan, 1991. “Spinoza’s Monism: A Reply to Curley,” in *God and Nature: Spinoza’s Metaphysics*, Yirmiyahu Yovel (ed.), 53–60, Leiden: E.J. Brill.
 

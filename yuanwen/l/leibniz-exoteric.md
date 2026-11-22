@@ -210,6 +210,8 @@ Some work identifying particular exoteric strategies has been done in the second
 
 ### Primary Sources
 
+Note that all quotes from untranslated sources listed below are translated by the author of this entry.
+
 **[A]**
 
 *Sämtliche Schriften und Briefe*, Darmstadt and Berlin: Berlin Academy, 1923–, (cited by series, volume, and page).
@@ -279,8 +281,6 @@ Some work identifying particular exoteric strategies has been done in the second
 ## Related Entries
 
 Arnauld, Antoine | Bayle, Pierre | identity: of indiscernibles | Leibniz, Gottfried Wilhelm | Leibniz, Gottfried Wilhelm: on causation | metaphor
-
-[^note-nd]: Note that all quotes from untranslated sources listed below are translated by the author of this entry.
 
 [^adams-1994]: Adams, Robert Merrihew, 1994, *Leibniz: Determinist, Theist, Idealist*, New York: Oxford University Press. doi:10.1093/0195126491.001.0001
 

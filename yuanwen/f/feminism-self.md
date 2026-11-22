@@ -103,9 +103,17 @@ As this article attests, there is tremendous foment and variety within the field
 
 ### Comprehensive Bibliography
 
+In the interests of concision and readability, the present essay mentions only some of the representative works on the feminist literature on the self. These cited works are collated in the Bibliography which appears in the next section of this essay. However, the feminist literature on the self is vast. Lisa Cassidy, Diana Tietjens Meyers, and Ellie Anderson have put together a comprehensive bibliography of this literature; it attempts to cite all of the books and articles that are relevant to the present entry. This comprehensive bibliography is linked into the present essay as the following supplementary document:
+
+[Comprehensive Bibliography of Feminist Perspectives on the Self](feminism-self.bib.md)
+
+Readers are therefore encouraged to pursue additional references by following the above link.
+
 ### References（引用注释）
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+The following works are cited in the entry.
 
 ## Academic Tools
 
@@ -126,14 +134,6 @@ feminist philosophy, topics: perspectives on class and work | feminist philosoph
 ### Acknowledgments
 
 The authors would like to thank Noor Imran (Philosophy Ph.D. student, Emory University, as of September 2024) for proof-reading and copy-editing this entry.
-
-[^feminism-self-nd]: In the interests of concision and readability, the present essay mentions only some of the representative works on the feminist literature on the self. These cited works are collated in the Bibliography which appears in the next section of this essay. However, the feminist literature on the self is vast. Lisa Cassidy, Diana Tietjens Meyers, and Ellie Anderson have put together a comprehensive bibliography of this literature; it attempts to cite all of the books and articles that are relevant to the present entry. This comprehensive bibliography is linked into the present essay as the following supplementary document:
-
-[^comprehensive-nd]: [Comprehensive Bibliography of Feminist Perspectives on the Self](feminism-self.bib.md)
-
-[^readers-nd]: Readers are therefore encouraged to pursue additional references by following the above link.
-
-[^readers-nd-2]: The following works are cited in the entry.
 
 [^abramson-2014]: Abramson, Kate, 2014, “Turning Up the Lights on Gaslighting”, in *Philosophical Perspectives*, 28(1): 1–30.
 

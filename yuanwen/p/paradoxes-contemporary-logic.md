@@ -403,6 +403,8 @@ Notably, graph theory does not seem to be the only way by means of which a unifo
 
 ### Recent Sources
 
+This list contains (i) items cited in the final section; (ii) items related to developments of paradoxes after the Second World War; (iii) critical historical papers.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=paradoxes-contemporary-logic). |
@@ -573,8 +575,6 @@ For this edition of the entry, the authors were supported by the Italian Ministr
 [^zermelo-1908]: Zermelo, E., 1908, “Untersuchungen über die Grundlagen der Mengenlehre I”, *Mathematische Annalen*, 65: 261–281.
 
 [^zygmunt-1995]: Zygmunt, J. (ed.), 1995, *Alfred Tarski, Pisma Logiczno-Filozoficzne, 1 Prawda*, Warsaw: Wydawnictwo Naukowe PWN.
-
-[^this-nd]: This list contains (i) items cited in the final section; (ii) items related to developments of paradoxes after the Second World War; (iii) critical historical papers.
 
 [^aczel-1980]: Aczel, P., 1980, “Frege structures and the notion of proposition, truth and set”, *The Kleene Symposium*, J. Barwise et al. (eds.), Amsterdam: North-Holland, 31–59.
 

@@ -121,6 +121,8 @@ Whether this amounts to a normative ethics or only to a phenomenology of ethical
 
 #### Works in German
 
+Other works not included in the *Gesammelte Werke* or *Kleine Schriften*:
+
 #### Works in English
 
 ### Secondary Sources (in English)
@@ -150,21 +152,19 @@ Gadamer, Hans-Georg: aesthetics | Hartmann, Nicolai | Heidegger, Martin | hermen
 
 [^gadamer-1967]: 1967–1979, *Kleine Schriften*, 4 vols, Tübingen: Mohr.
 
-[^other-nd]: Other works not included in the *Gesammelte Werke* or *Kleine Schriften*:
+[^gadamer-1971]: 1971, *Hegels Dialektik*, Tübingen: Mohr, English trans. Gadamer 1976b.
 
-[^other-1971]: 1971, *Hegels Dialektik*, Tübingen: Mohr, English trans. Gadamer 1976b.
+[^gadamer-1976a]: 1976a, *Vernunft im Zeitalter der Wissenschaft: Aufsätze*, Frankfurt: Suhrkamp, English trans. Gadamer 1981.
 
-[^other-1976a]: 1976a, *Vernunft im Zeitalter der Wissenschaft: Aufsätze*, Frankfurt: Suhrkamp, English trans. Gadamer 1981.
+[^gadamer-1989a]: 1989a, *Das Erbe Europas: Beiträge*, Frankfurt: Suhrkamp, English translation in Gadamer 1992
 
-[^other-1989a]: 1989a, *Das Erbe Europas: Beiträge*, Frankfurt: Suhrkamp, English translation in Gadamer 1992
+[^gadamer-1993a]: 1993a, *Hermeneutik, Ästhetik, Praktische Philosophie: Hans-Georg Gadamer im Gespräch*, ed. by Carsten Dutt, Heidelberg: Universitätsverlag C. Winter, English trans. Gadamer 2001.
 
-[^other-1993a]: 1993a, *Hermeneutik, Ästhetik, Praktische Philosophie: Hans-Georg Gadamer im Gespräch*, ed. by Carsten Dutt, Heidelberg: Universitätsverlag C. Winter, English trans. Gadamer 2001.
+[^gadamer-1993b]: 1993b, *Über die Verborgenheit der Gesundheit: Aufsätze und Vorträge*, Frankfurt: Suhrkamp Verlag, English translation Gadamer 1996.
 
-[^other-1993b]: 1993b, *Über die Verborgenheit der Gesundheit: Aufsätze und Vorträge*, Frankfurt: Suhrkamp Verlag, English translation Gadamer 1996.
+[^gadamer-1997a]: 1997a, *Der Anfang der Philosophie*, Stuttgart: Reclam, English trans. Gadamer 1998a
 
-[^other-1997a]: 1997a, *Der Anfang der Philosophie*, Stuttgart: Reclam, English trans. Gadamer 1998a
-
-[^other-2000]: 2000, *Hermeneutische Entwürfe*, Tübingen: Mohr Siebeck.
+[^gadamer-2000]: 2000, *Hermeneutische Entwürfe*, Tübingen: Mohr Siebeck.
 
 [^gadamer-1976b]: 1976b, *Hegel’s Dialectic: Five Hermeneutical Studies*, trans. by P. Christopher Smith (from Gadamer 1971), New Haven: Yale University Press.
 

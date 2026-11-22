@@ -194,6 +194,8 @@ There is, however, reason to believe that this assumption is false, for investig
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The secondary literature on this topic is enormous. The following list is highly selective, and entries are included by meeting at least one of the following criteria: good representative of a standard reading of the argument; influential source, primary or secondary; useful collection of items meeting one or other of the previous two criteria; useful survey; item making recent and significant progress in the understanding and assessment of the argument; source drawn on in the writing of this article; item mentioned in the main text of this article.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=private-language). |
@@ -209,8 +211,6 @@ There is, however, reason to believe that this assumption is false, for investig
 ## Related Entries
 
 consciousness | language of thought hypothesis | other minds | Russell, Bertrand | self-knowledge | Wittgenstein, Ludwig
-
-[^private-language-nd]: The secondary literature on this topic is enormous. The following list is highly selective, and entries are included by meeting at least one of the following criteria: good representative of a standard reading of the argument; influential source, primary or secondary; useful collection of items meeting one or other of the previous two criteria; useful survey; item making recent and significant progress in the understanding and assessment of the argument; source drawn on in the writing of this article; item mentioned in the main text of this article.
 
 [^baker-1998]: Baker, G.P., 1998, ‘The private language argument’, *Language & Communication*, 18: 325–56.
 

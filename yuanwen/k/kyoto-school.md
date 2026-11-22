@@ -365,6 +365,8 @@ The degree to which the Kyoto School thinkers were successful in their boldly pa
 
 #### Anthologies Containing Works by More than One Kyoto School Author
 
+The texts contained in these anthologies are not listed here separately. (For a complete list of Western language translations of works by Nishida, Tanabe, Nishitani, Takeuchi, and Ueda, see the Nanzan Institute for Religion and Culture website linked to below.)
+
 #### Other Works by Kyoto School Philosophers
 
 ### Works on the Kyoto School
@@ -442,8 +444,6 @@ Daoism | existentialism | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | J
 [^thz-1964]: THZ *Tanabe Hajime zenshū* [Complete Works of Tanabe Hajime], Tokyo: Chikuma Shobō, 1964. (Volume numbers are given in Roman numerals.)
 
 [^uss-2001]: USS *Ueda Shizuteru shū* [Collected Writings of Ueda Shizuteru], Tokyo: Iwanami, 2001–2003. (Volume numbers are given in Roman numerals.)
-
-[^for-nd]: The texts contained in these anthologies are not listed here separately. (For a complete list of Western language translations of works by Nishida, Tanabe, Nishitani, Takeuchi, and Ueda, see the Nanzan Institute for Religion and Culture website linked to below.)
 
 [^calichman-2008]: Calichman, Richard F. (ed. and trans.), 2008, *Overcoming Modernity: Cultural Identity in Wartime Japan*, New York: Columbia University Press. (Contains an introduction to and translation of the 1942 symposium on “Overcoming Modernity” in which Nishitani Keiji, Suzuki Shigetaka and Shimomura Toratarō participated. The Japanese text of the symposium can be found in Kawakami et al. 1979.)
 

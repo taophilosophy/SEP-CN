@@ -208,6 +208,8 @@ We will leave aside, for reasons of space, further complications in Fechner’s 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+All translations are by the author of this entry, unless otherwise noted.
+
 ### Works by Fechner
 
 ### Other Primary Sources
@@ -261,8 +263,6 @@ Hegel, Georg Wilhelm Friedrich | Herbart, Johann Friedrich | Lotze, Hermann | me
 [^note-14]: The *locus classicus* of neutral monism is William James’ “Does ‘Consciousness’ Exist?” (1904 [1912]). The question of Fechner’s influence on James is complicated and cannot be investigated here. On this question, see Marilyn Marshall 1974a.
 
 [^note-15]: Heidelberger 2004: 112–115, considers Fechner’s relation to Schelling and comes to a very different conclusion from that stated here.
-
-[^all-nd]: All translations are by the author of this entry, unless otherwise noted.
 
 [^fechner-1821]: 1821 [1832], as Dr. Mises, *Beweis, daß der Mond aus Jodine bestehe*, Germanien: Penig. Zweite Auflage: Leipzig: Voß, 1832. Reprinted also in Fechner 1875: 1–20.
 

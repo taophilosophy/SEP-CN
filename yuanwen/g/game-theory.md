@@ -817,6 +817,8 @@ A range of further applications of both classical and evolutionary game theory h
 
 ### Annotations on General Sources
 
+In the following section, books and articles which no one seriously interested in game theory can afford to miss are marked with (\*\*).
+
 ### References（引用注释）
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
@@ -843,8 +845,6 @@ economics: philosophy of | game theory: and ethics | game theory: evolutionary |
 ### Acknowledgments
 
 I would like to thank James Joyce and Edward Zalta for their comments on various versions of this entry. I would also like to thank Sam Lazell for not only catching a nasty patch of erroneous analysis in the second version, but going to the supererogatory trouble of actually providing fully corrected reasoning. If there were many such readers, all authors in this project would become increasingly collective over time. One of my MBA students, Anthony Boting, noticed that my solution to an example I used in the second version rested on equivocating between relative-frequency and objective-chance interpretations of probability. Two readers, Brian Ballsun-Stanton and George Mucalov, spotted this too and were kind enough to write to me about it. Many thanks to them. Joel Guttman pointed out that I’d illustrated a few principles with some historical anecdotes that circulate in the game theory community, but told them in a way that was too credulous with respect to their accuracy. Michel Benaim and Mathius Grasselli noted that I’d identified the wrong Plato text as the source of Socrates’s reflections on soldiers’ incentives. Ken Binmore picked up another factual error while the third revision was in preparation, as a result of which no one else ever saw it. Not so for a mistake found by Bob Galesloot that survived in the article all the way into the third edition. (That error was corrected in July 2010.) Chris Judge spotted a slip in the historical attribution of the dawn of the mathematical analysis of games, which was corrected in 2019. Some other readers helpfully spotted typos: thanks to Fabian Ottjes, Brad Colbourne, Nicholas Dozet and Gustavo Narez. Finally, thanks go to Colin Allen for technical support (in the effort to deal with bandwidth problems to South Africa) prior to publication of the second version of this entry, to Daniel McKenzie for procedural advice on preparation of the third version, and to Uri Nodelman for helping with code for math notation and formatting of figures for the fifth, version published in 2014.
-
-[^game-theory-nd]: In the following section, books and articles which no one seriously interested in game theory can afford to miss are marked with (\*\*).
 
 [^dixit-2014]: The most accessible textbook that covers all of the main branches of game theory is Dixit, Skeath and Reiley (2014). A student entirely new to the field should work through this before moving on to anything else.
 

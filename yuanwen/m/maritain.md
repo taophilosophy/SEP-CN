@@ -279,9 +279,13 @@ Maritain’s work nevertheless remains influential. Since 1958 there has been a 
 
 ### Primary Literature: Maritain’s Principal Works
 
+Maritain’s principal works are listed below in chronological order: (Except where indicated otherwise, place of publication is Paris. English-language editions are noted as well.)
+
 ### Secondary Literature
 
 ### Collections
+
+Additional studies of Maritain’s work are available in such journals as [*Études Maritainiennes—Maritain Studies*](http://people.stfx.ca/wsweet/etudes.html), *Cahiers Jacques et Raïssa Maritain*, and *Notes et documents: pour une recherche personnaliste*.
 
 ## Academic Tools
 
@@ -302,8 +306,6 @@ Maritain’s work nevertheless remains influential. Since 1958 there has been a 
 Aquinas, Thomas | God: and other ultimates | liberalism | religion: philosophy of
 
 [^french-language-1986]: A French-language edition of the works of Maritain is available under the title *Oeuvres complètes de Jacques et Raïssa Maritain*, 16 vols., Fribourg (Switzerland): Éditions universitaires, 1986–2000. Volumes 14 and 15 contain the writings of Raïssa Maritain, and Volume 16 includes previously unpublished work. The publication of a 20 volume set, in English, of *The Collected Works of Jacques Maritain* (under the general editorship of Ralph McInerny) is currently underway under auspices of the University of Notre Dame Press. Summaries (in Italian) of Maritain’s major books are found in *Jacques Maritain: Dizionario delle Opere*, by Piero Viotto, Rome: Città Nuova, 2003.
-
-[^maritain’s-nd]: Maritain’s principal works are listed below in chronological order: (Except where indicated otherwise, place of publication is Paris. English-language editions are noted as well.)
 
 [^maritain-1910]: 1910, “La science moderne et la raison”, *Revue de Philosophie*, XVI/6 (1910), pp. 575–603. Reprinted in *Antimoderne*, Éditions de la Revue des Jeunes, 1922.
 
@@ -690,5 +692,3 @@ Aquinas, Thomas | God: and other ultimates | liberalism | religion: philosophy o
 [^maritain-1982]: 1982, *Maritain Centenary*, special issue of *The Review of Politics*, 44(4).
 
 [^maritain-1943-4]: 1943, Issue dedicated to Jacques Maritain of *The Thomist*, volume 5, New York: Sheed and Ward.
-
-[^additional-nd]: Additional studies of Maritain’s work are available in such journals as [*Études Maritainiennes—Maritain Studies*](http://people.stfx.ca/wsweet/etudes.html), *Cahiers Jacques et Raïssa Maritain*, and *Notes et documents: pour une recherche personnaliste*.

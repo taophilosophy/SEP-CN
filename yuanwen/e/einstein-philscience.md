@@ -236,8 +236,12 @@ Another explanation looks to the education of young physicists in Einstein’s d
 
 ### Primary Literature: Einstein’s Work
 
+Einstein’s letters and manuscripts, if unpublished, are cited by their numbers in the Einstein Archive (EA) control index and, if published, by volume, document number, and, if necessary, page number in:
+
 | [CPAE] | *The Collected Papers of Albert Einstein*, John Stachel, et al. (eds.), Princeton, NJ: Princeton University Press, 1987–present. |
 | --- | --- |
+
+Works by year
 
 | 1905a | “Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt”, *Annalen der Physik*, 17: 132–148; reprinted in CPAE, Vol. 2, Doc. 14. |
 | --- | --- |
@@ -292,10 +296,6 @@ Cassirer, Ernst | equivalence of mass and energy | general relativity: early phi
 [^note-3]: Arthur Fine (1986)[^fine-1986] characterizes such a move, this not the only instance in Einstein’s thinking, as the “entheorizing” of a methodological principle in the form of a physical postulate. Fine, however, argues that determinism is, for Einstein, the entheorized version of realism.
 
 [^note-4]: As Einstein himself seems to concede, principle theories are explanatory deficient, they *constrain* a range of phenomena that can occur, but they do not *explain* the phenomena that do occur. Therefore, it has been argued that relativity theory should ultimately take the form of a constructive theory, either as a theory about the material structure of rods and clocks (Brown 2005)[^brown-2005] or about the geometrical structure of space-time (Janssen 2009)[^janssen-2009]. The explanatory power of Einstein’s principle theories has been emphasized by Lange 2014.
-
-[^einstein’s-nd]: Einstein’s letters and manuscripts, if unpublished, are cited by their numbers in the Einstein Archive (EA) control index and, if published, by volume, document number, and, if necessary, page number in:
-
-[^works-nd]: Works by year
 
 [^bacciagaluppi-2024]: Bacciagaluppi, Guido, and Elise Crull, 2024. *The Einstein Paradox: The Debate on Nonlocality and Incompleteness in 1935*. Cambridge: Cambridge University Press
 

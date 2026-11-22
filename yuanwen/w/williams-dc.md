@@ -207,6 +207,8 @@ Williams’ defense of induction thus has resources to supply answers to the cri
 
 ### Primary literature
 
+The [Donald Williams papers](http://id.lib.harvard.edu/alma/990006048420203941/catalog), containing a substantial quantity of unpublished material, are in the archives of Harvard University. They include most of the text of a treatise on Logic, in the tradition of J. M. Keynes, expounding the various species of judgment and inference, rather than the systematic axiomatizations of deductive inference, and the metalogic, which superseded that tradition.
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -258,8 +260,6 @@ induction: problem of | naturalism | properties | realism | time | tropes
 [^williams-dc-1986]: 1986, “Universals and Existents,” *Australasian Journal of Philosophy*, 64(1): 1–14.
 
 [^williams-dc-2018]: 2018, *The Elements and Patterns of Being: Essays in Metaphysics*, A.R.J. Fisher (ed.), Oxford: Oxford University Press. [Twelve selected essays including the previously unpublished “Universal Concepts and Particular Processes” (1962), “The Duty of Philosophy” (c. 1965), “The Nature of Time” (1966), “The Shape of Time” (1968), “How Reality is Reasonable” (1974) and “The Bugbear of Fate” (1974), with a comprehensive introduction.]
-
-[^donald-nd]: The [Donald Williams papers](http://id.lib.harvard.edu/alma/990006048420203941/catalog), containing a substantial quantity of unpublished material, are in the archives of Harvard University. They include most of the text of a treatise on Logic, in the tradition of J. M. Keynes, expounding the various species of judgment and inference, rather than the systematic axiomatizations of deductive inference, and the metalogic, which superseded that tradition.
 
 [^armstrong-1978]: Armstrong, David Malet, 1978, *Universals and Scientific Realism* (I: *Nominalism and Realism*), Cambridge: Cambridge University Press.
 

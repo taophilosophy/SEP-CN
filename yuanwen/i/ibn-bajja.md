@@ -445,6 +445,10 @@ The objects of knowledge (*ma*‛*lumat*) fall into three categories: sensible, 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+For more information about the sources for (Ibn Bâjja) Avempace’s biography, see the supplement on “[Sources for Ibn Bâjja’s Biography](ibn-bajja.ibn-bajja-biography.md).”
+
+For more information on Aristotle’s on the Soul in the Arabic tradition see the supplement on “[Aristotle’s *On the Soul* in the Arabic tradition](ibn-bajja.aristotle-soul-arabic.md). ”
+
 ### A. Primary Literature
 
 #### 1. Cited Works by Ibn Bâjja
@@ -565,10 +569,6 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 [^note-31]: 31\. IB-coll-alawi: n° 12, pp. 197–202. Dunlop 1984, pp. 296–299. IB-danesh 1988, v. 3, p. 325–329.
 
 [^note-32]: 32\. His poetic activity may have been the cause for misattributing to him a whole diwan, see Dunlop 1952.
-
-[^for-nd]: For more information about the sources for (Ibn Bâjja) Avempace’s biography, see the supplement on “[Sources for Ibn Bâjja’s Biography](ibn-bajja.ibn-bajja-biography.md).”
-
-[^for-nd-2]: For more information on Aristotle’s on the Soul in the Arabic tradition see the supplement on “[Aristotle’s *On the Soul* in the Arabic tradition](ibn-bajja.aristotle-soul-arabic.md). ”
 
 [^for-2016]: For a complementing bibliography, see Rashaq 2016.
 

@@ -117,6 +117,14 @@ Butler’s Sermons were read in the eighteenth century, in particular after the 
 
 ### Primary Literature
 
+There is currently no up to date, complete, critical edition of Butler’s works. The relevant editions of Butler’s works discussed in this article are:
+
+I have cited these works from the most complete current edition, although the citations should allow for passages to be easily identified in other editions:
+
+I have cited the “Preface” to the 2ⁿᵈ edition of the Sermons as “Preface,” the Sermons by number (i.e. “Sermon VI”), the “Introduction” to the *Analogy of Religion* as “Introduction,” the main contents of the work by “Analogy” and chapter, the Dissertation of Virtue as “Dissertation,” the Six Sermons as “Six Sermons” and the Clarke/Butler correspondence as “Clarke/Butler.” All references are by paragraph, corresponding to the paragraphs in the White edition above.
+
+There is now an excellent and extremely informative reader’s edition of Butler’s *Sermons* and *Dissertation on Virtue* with the addition of *A Sermon Preached Before the House of Lords* and a selection from Butler’s correspondence with Clarke:
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -139,8 +147,6 @@ Clarke, Samuel | egoism | forgiveness | self-deception | Shaftesbury, Lord [Anth
 
 Thanks to Ian Blaustein, Roger Crisp, Charles Griswold, Knud Haakonssen, James Harris, Colin Heydt, David McNaughton, Amelie Rorty, Daniel Star, and Bob Tennant for extremely helpful comments and suggestions. Thanks to Stephen Darwall for suggesting the article, to Ray Frey for initiating my interest in Butler, and to the students in my Butler seminar for helping me think through the issues discussed in the article.
 
-[^there-nd]: There is currently no up to date, complete, critical edition of Butler’s works. The relevant editions of Butler’s works discussed in this article are:
-
 [^butler-1716]: Butler, J. and Clarke, S., 1716, *Several Letters from a Gentleman in Glocestershire*, London, J. Knapton.
 
 [^butler-1726]: Butler, J., 1726, *Fifteen Sermons Preached at the Rolls Chapel*, London: J. and J. Knapton.
@@ -151,13 +157,7 @@ Thanks to Ian Blaustein, Roger Crisp, Charles Griswold, Knud Haakonssen, James H
 
 [^butler-1749]: Butler, J., 1749, *Fifteen Sermons Preached at the Rolls Chapel… To which are added Six Sermons, Preached on Publick Occasions*, London: J. and P. Knapton, 4ᵗʰ edition. [This edition marked the appearance of the Six Sermons.]
 
-[^butler-nd]: I have cited these works from the most complete current edition, although the citations should allow for passages to be easily identified in other editions:
-
 [^white-2006]: White, D. (ed.), 2006, *The Works of Bishop Butler*, Rochester, NY: University of Rochester Press.
-
-[^preface-nd]: I have cited the “Preface” to the 2ⁿᵈ edition of the Sermons as “Preface,” the Sermons by number (i.e. “Sermon VI”), the “Introduction” to the *Analogy of Religion* as “Introduction,” the main contents of the work by “Analogy” and chapter, the Dissertation of Virtue as “Dissertation,” the Six Sermons as “Six Sermons” and the Clarke/Butler correspondence as “Clarke/Butler.” All references are by paragraph, corresponding to the paragraphs in the White edition above.
-
-[^there-nd-2]: There is now an excellent and extremely informative reader’s edition of Butler’s *Sermons* and *Dissertation on Virtue* with the addition of *A Sermon Preached Before the House of Lords* and a selection from Butler’s correspondence with Clarke:
 
 [^mcnaughton-2017]: McNaughton, D. (ed.), 2017, *Joseph Butler*: *Fifteen Sermons & other writings on ethics*, Oxford: Oxford University Press.
 

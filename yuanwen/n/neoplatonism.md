@@ -93,6 +93,8 @@ The history of Neoplatonism until the present day is much too diverse and comple
 
 ### Essential readings of late-antique Neoplatonic Works
 
+For further and more detailed information on the development of Neoplatonism in the history of Western philosophy, or on specific Neoplatonic doctrines, refer to the Related Entries section below.
+
 ### Selected Introductory Secondary Literature
 
 ## Academic Tools
@@ -153,8 +155,6 @@ al-Farabi | al-Kindi | Ammonius | Augustine of Hippo | Damascius | Iamblichus | 
 [^simplicius-nd]: Simplicius, *Commentary on Epictetus’ Handbook*
 
 [^john-nd]: John Philoponus, *On the Eternity of the World against Proclus*
-
-[^for-nd]: For further and more detailed information on the development of Neoplatonism in the history of Western philosophy, or on specific Neoplatonic doctrines, refer to the Related Entries section below.
 
 [^chiaradonna-2009]: Chiaradonna, Riccardo and Franco Trabattoni (eds.), 2009, *Physics and Philosophy of Nature in Greek Neoplatonism*, Leiden and Boston: Brill.
 

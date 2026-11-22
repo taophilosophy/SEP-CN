@@ -191,9 +191,13 @@ During the beginning of the Covid-19 pandemic in 2020, sales of *The Plague* exp
 
 ### Primary Works
 
+The abbreviations used to cite Camus’s work (*P*, *R*, *MS*, *RRD*, *N*, and *LCE*) are defined in the section ‘Works in English’ below.
+
 #### Collected Works in French
 
 #### Works in English
+
+Reference marks are given for cited English translations.
 
 #### Camus and Sartre
 
@@ -229,15 +233,11 @@ aesthetics: existentialist | existentialism | Husserl, Edmund | life: meaning of
 
 [^note-5]: The 2021 translation by Laura Marris says: “But still, I must tell you: there is no heroism in any of this. It’s about honesty. That idea might seem laughable, but the only way to fight the plague is with honesty.” (***P** *2021, 175). Stuart Gilbert’s 1948 translation of “honnêteté” as “decency” has been retained above.
 
-[^camus’s-nd]: The abbreviations used to cite Camus’s work (*P*, *R*, *MS*, *RRD*, *N*, and *LCE*) are defined in the section ‘Works in English’ below.
-
 [^théâtre-1962]: *Théâtre, Récits, Nouvelles*, R. Quilliot (ed.), Paris: Gallimard, 1962.
 
 [^essais-1965]: *Essais*, R. Quillot and L. Fauçon (eds.), Paris: Gallimard, 1965.
 
 [^complètes-2006]: *Œuvres Complètes*, Vols. I–IV, R. Gay-Crosier (ed.) Paris: Gallimard, 2006–09.
-
-[^reference-nd]: Reference marks are given for cited English translations.
 
 [^plague-1948]: *The Plague*, New York: Alfred A. Knopf, 1948 [***P***].
 

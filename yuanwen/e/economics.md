@@ -302,6 +302,8 @@ The frontiers between economics and philosophy concerned with methodology, ratio
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The following bibliography is not comprehensive. It generally avoids separate citations for methodological essays in collections. It does not list separately the essays on economic methodology from special issues on philosophy and economics. A large number of essays on philosophy of economics can be found in the journals, *Economics and Philosophy*, *The Journal of Economic Methodology* and the annual series *Research in the History of Economic Thought and Methodology*.
+
 ### Economic methodology
 
 ### Ethics and economics
@@ -341,8 +343,6 @@ There are now a large number of blogs by prominent economists. Though not predom
 ## Related Entries
 
 action | Bayes’ Theorem | economics [normative] and economic justice | epistemology: Bayesian | folk psychology: as a theory | game theory | game theory: and ethics | game theory: evolutionary | Hume, David | individualism, methodological | intentionality | Kuhn, Thomas | Lakatos, Imre | laws of nature: *ceteris paribus* | Mill, John Stuart | Popper, Karl | preferences | reasons for action: justification, motivation, explanation | risk | scientific explanation: 20th century theories | scientific realism | Smith, Adam: moral and political philosophy | social choice theory | socialism | well-being
-
-[^it-nd]: The following bibliography is not comprehensive. It generally avoids separate citations for methodological essays in collections. It does not list separately the essays on economic methodology from special issues on philosophy and economics. A large number of essays on philosophy of economics can be found in the journals, *Economics and Philosophy*, *The Journal of Economic Methodology* and the annual series *Research in the History of Economic Thought and Methodology*.
 
 [^readers-2001]: Readers may want to consult the *Journal of Economic Methodology*, Vol. 8, No. 1, March 2001 Millennium symposium on “The Past, Present and Future of Economic Methodology” the and Binder *et al.* 2016. For an encyclopedic overview of economic methodology, see the *Handbook of Economic Methodology* edited by Davis, Hands, and Mäki. For a comprehensive bibliography of works on economic methodology through 1988, see Redman 1989. Essays from economics journals are indexed in *The Journal of Economic Literature*, and the *Index of Economic Articles in Journal and Collective Volumes* also indexes collections. Since 1991, works on methodology can be found under the number B4. Works on ethics and economics can be found under the numbers A13, D6, and I3. Discussions of rationality and game theory can be found under A1, C7, D00, D7, D8, and D9.
 

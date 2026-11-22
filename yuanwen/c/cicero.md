@@ -219,6 +219,8 @@ It is an irony in the history of philosophy that Williams himself, during a disc
 
 ### Primary Literature
 
+All of Cicero’s works are available with Latin text and facing English translation in the *Loeb Classical Library* series. A selection of translations and commentaries on individual works is given below:
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -238,8 +240,6 @@ It is an irony in the history of philosophy that Williams himself, during a disc
 ## Related Entries
 
 Aristotle, General Topics: ethics | Carneades | Epicurus | ethics: ancient | ethics: natural law tradition | fideism | Hume, David | Plato | political philosophy: ancient | skepticism: ancient | Stoicism | Theophrastus | Williams, Bernard
-
-[^all-nd]: All of Cicero’s works are available with Latin text and facing English translation in the *Loeb Classical Library* series. A selection of translations and commentaries on individual works is given below:
 
 [^annas-2001]: Annas, Julia and Raphael Woolf, 2001, *Cicero, On Moral Ends*, Cambridge: Cambridge University Press.
 

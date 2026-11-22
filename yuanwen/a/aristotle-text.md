@@ -325,6 +325,8 @@ Other inauthentic works are further removed from the corresponding original anci
 
 ### A. Primary sources
 
+Standard abbreviations for Aristotle’s works used throughout this entry are listed in Section 1 above.
+
 ### B. Works cited
 
 ## Academic Tools
@@ -343,8 +345,6 @@ Other inauthentic works are further removed from the corresponding original anci
 ## Related Entries
 
 Alexander of Aphrodisias | Ammonius | Arabic and Islamic Philosophy, historical and methodological topics in: Greek sources | Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on the Latin West | Aristotelianism: in the Renaissance | Aristotle | Aristotle, commentators on | Aristotle, General Topics: biology | Aristotle, General Topics: categories | Aristotle, General Topics: ethics | Aristotle, General Topics: logic | Aristotle, General Topics: metaphysics | Aristotle, General Topics: political theory | Aristotle, General Topics: psychology | Aristotle, General Topics: rhetoric | Aristotle, Special Topics: natural philosophy | Byzantine Philosophy | medieval philosophy | Neoplatonism | Olympiodorus | Philoponus | Porphyry | Simplicius
-
-[^standard-nd]: Standard abbreviations for Aristotle’s works used throughout this entry are listed in Section 1 above.
 
 [^aristotelian-1831]: The starting point of modern Aristotelian philology is Bekker’s edition: Bekker, I. *Aristotelis Opera*, 2 volumes, Berlin: Royal Academy of Prussia, 1831.
 

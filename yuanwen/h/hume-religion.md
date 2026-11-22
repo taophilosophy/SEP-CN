@@ -353,6 +353,8 @@ The term irreligion has several other specific advantages. This term makes clear
 
 ### Hume’s Works
 
+In the entry above, we Follow the convention given in the Nortons’ *Treatise* and Beauchamp’s *Enquiries*: we cite Book . Part . Section . Paragraph; followed by *page* references to the Selby-Bigge/Nidditch editions. Thus T,1.2.3.4/ 34: will indicate *Treatise* Bk.1, Pt.2, Sec.3, Para.4/ Selby-Bigge pg.34. References to the *Abstract* [**TA**] are to the two editions of the *Treatise* mentioned above (paragraph/page). In the case of the *Enquiries* I cite Section and Paragraph; followed by *page* reference to the Selby-Bigge edition. Thus EU, 12.1/ 149 refers to *Enquiry Concerning Human Understanding*, Sect.12, Para. 1 / Selby-Bigge pg. 149.
+
 > | **T** | *A Treatise of Human Nature*, edited by L. A. Selby-Bigge, 2nd edition, revised by P.H. Nidditch, Oxford: Clarendon Press, 1975. |
 > | --- | --- |
 > |   | *A Treatise of Human Nature*, edited by David Fate Norton and Mary J. Norton, Oxford/New York: Oxford University Press, 2000. |
@@ -415,8 +417,6 @@ afterlife | atheism and agnosticism | Bayle, Pierre | Berkeley, George | Boyle, 
 ### Acknowledgments
 
 The author and editors are grateful to Doug Jesseph for comments on an earlier version of this article.
-
-[^follow-nd]: In the entry above, we Follow the convention given in the Nortons’ *Treatise* and Beauchamp’s *Enquiries*: we cite Book . Part . Section . Paragraph; followed by *page* references to the Selby-Bigge/Nidditch editions. Thus T,1.2.3.4/ 34: will indicate *Treatise* Bk.1, Pt.2, Sec.3, Para.4/ Selby-Bigge pg.34. References to the *Abstract* [**TA**] are to the two editions of the *Treatise* mentioned above (paragraph/page). In the case of the *Enquiries* I cite Section and Paragraph; followed by *page* reference to the Selby-Bigge edition. Thus EU, 12.1/ 149 refers to *Enquiry Concerning Human Understanding*, Sect.12, Para. 1 / Selby-Bigge pg. 149.
 
 [^baxter-1737]: Baxter, Andrew, *Enquiry into the Nature of the Human Soul*, 2ⁿᵈ edition, 2 Vols., London, 1737; reprinted, Bristol: Thoemmes, 1990.
 

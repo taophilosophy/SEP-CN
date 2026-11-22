@@ -701,6 +701,8 @@ At the beginning of the twenty-first century, however, idealism, understood as a
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+All translations are by the authors unless otherwise noted.
+
 ### Primary Literature
 
 ### Cited and Selected Further Secondary Literature
@@ -728,8 +730,6 @@ Bayle, Pierre | Berkeley, George | Bradley, Francis Herbert | Cambridge Platonis
 Guyer and Horstmann 2023 is an expansion of this entry that amplifies the account of idealism in the twentieth century offered here. The references and bibliography above have here been expanded beyond the 2020 update of this entry, and the bibliography is not identical to that in Guyer and Horstmann 2023.
 
 The authors owe thanks to a group that met in Berlin in July, 2014, to discuss a draft of the original version of this entry, including Dina Emundts, Eckart Förster, Gunnar Hindrichs, Charles Larmore, Paul Redding, Robert Stern, and Tobias Rosefeldt; we owe special thanks to Larmore for his numerous and detailed comments on that draft and to Stern for his generous assistance with the bibliography. We also owe thanks to Justin Broackes for his participation in the seminar we gave at Brown University in Spring and Fall 2013 where we also discussed much of this material. This revised version owes thanks to the participants of another seminar we gave at Brown in Spring 2020 and to helpful comments by Allen Wood.
-
-[^all-nd]: All translations are by the authors unless otherwise noted.
 
 [^baumgarten-1739]: Baumgarten, Alexander Gottlieb, 1739, *Metaphysics: A Critical Translation with Kant’s Elucidations, Selected Notes, and Related Materials*, translated and edited by Courtney J. Fugate and John Hymers, London: Bloomsbury, 2013.
 

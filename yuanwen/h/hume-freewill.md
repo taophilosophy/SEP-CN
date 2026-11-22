@@ -174,6 +174,8 @@ Suffice it to note, for our present purposes, that *throughout* his writings, Hu
 
 ### References to Hume’s Works
 
+In the entry above, we follow the convention given in the Nortons’ *Treatise* and Beauchamp’s *Enquiries*: we cite Book. Part. Section. Paragraph; followed by references to the Selby-Bigge/Nidditch editions. Thus T 1.2.3.4/34: will indicate *Treatise* Bk.1, Pt.2, Sec.3, Para.4/ Selby-Bigge pg.34. References to *Abstract* [TA] are to the two editions of the *Treatise* mentioned above (paragraph/page). In the case of the *Enquiries* we cite Section and Paragraph; followed by page reference to the Selby-Bigge edition. Thus EU 12.1/149 refers to *Enquiry Concerning Human Understanding*, Sect.12, Para. 1 / Selby-Bigge pg. 149.
+
 | **T** | *A Treatise of Human Nature*, edited by L. A. Selby-Bigge, 2nd ed. revised by P.H. Nidditch, Oxford: Clarendon Press, 1975. *A Treatise of Human Nature*, edited by David Fate Norton and Mary J. Norton, Oxford/New York: Oxford University Press, 2000. |
 | --- | --- |
 | **EU** | *Enquiry concerning Human Understanding*, in *Enquiries concerning Human Understanding and concerning the Principles of Morals*, edited by L. A. Selby-Bigge, 3rd edition revised by P. H. Nidditch, Oxford: Clarendon Press, 1975. *Enquiry concerning Human Understanding*, edited by Tom L. Beauchamp, Oxford/New York: Oxford University Press, 1999. |
@@ -209,8 +211,6 @@ Clarke, Samuel | compatibilism | determinism: causal | free will | Hume, David |
 ### Acknowledgments
 
 The editors would like to thank Sally Ferguson for noticing and reporting a number of typographical errors in this entry.
-
-[^nortons’-nd]: In the entry above, we follow the convention given in the Nortons’ *Treatise* and Beauchamp’s *Enquiries*: we cite Book. Part. Section. Paragraph; followed by references to the Selby-Bigge/Nidditch editions. Thus T 1.2.3.4/34: will indicate *Treatise* Bk.1, Pt.2, Sec.3, Para.4/ Selby-Bigge pg.34. References to *Abstract* [TA] are to the two editions of the *Treatise* mentioned above (paragraph/page). In the case of the *Enquiries* we cite Section and Paragraph; followed by page reference to the Selby-Bigge edition. Thus EU 12.1/149 refers to *Enquiry Concerning Human Understanding*, Sect.12, Para. 1 / Selby-Bigge pg. 149.
 
 [^árdal-1966]: Árdal, Pall, 1966. *Passion and Value in Hume’s Treatise*, Edinburgh: Edinburgh University Press, Chapter 4: Liberty.
 

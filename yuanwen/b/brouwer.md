@@ -165,7 +165,19 @@ The creating subject argument is, after the earlier introduction of choice seque
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+A full bibliography of Brouwer’s writings can be found in
+
+The Brouwer Papers are kept at Noord-Hollands Archief in Haarlem, the Netherlands.
+
 ### Availability of Brouwer’s writings
+
+Facsimiles of almost all of Brouwer’s published papers can be found in
+
+Full scans and transcriptions of Brouwer’s student notebooks (in Dutch) are [available online](https://www.cs.ru.nl/~freek/brouwer/index.html).
+
+In the *Collected Works*, papers in Dutch have been translated into English (without naming the translator(s)), but papers in French or German have not. English translations of several of them can be found in
+
+A selection of Brouwer’s correspondence has been published as
 
 ### Cited texts by Brouwer
 
@@ -197,21 +209,11 @@ Cantor, Georg | Frege, Gottlob: controversy with Hilbert | Hilbert, David | Hilb
 
 I thank Dirk van Dalen and the editors for their comments on earlier versions.
 
-[^brouwer’s-nd]: A full bibliography of Brouwer’s writings can be found in
-
 [^dalen-1997]: van Dalen, D., 1997, “A bibliography of L.E.J. Brouwer”, Utrecht Logic Group Preprint Series, no. 175 [[Available online]](https://dspace.library.uu.nl/bitstream/handle/1874/26868/preprint175.pdf). Updated version in van Atten, M., Boldini, P., Bourdeau, M., and Heinzmann, G. (eds.), 2008, *One Hundred Years of Intuitionism (1907–2007). The Cerisy Conference*, Basel: Birkhäuser, pp. 343–390.
-
-[^brouwer-nd]: The Brouwer Papers are kept at Noord-Hollands Archief in Haarlem, the Netherlands.
-
-[^facsimiles-nd]: Facsimiles of almost all of Brouwer’s published papers can be found in
 
 [^brouwer-1975]: Brouwer, L.E.J., 1975, *Collected Works 1. Philosophy and Foundations of Mathematics*, A. Heyting (ed.), Amsterdam: North-Holland.
 
 [^brouwer-1976]: Brouwer, L.E.J., 1976, *Collected Works 2. Geometry, Analysis, Topology and Mechanics*, H. Freudenthal (ed.), Amsterdam: North-Holland.
-
-[^full-nd]: Full scans and transcriptions of Brouwer’s student notebooks (in Dutch) are [available online](https://www.cs.ru.nl/~freek/brouwer/index.html).
-
-[^collected-nd]: In the *Collected Works*, papers in Dutch have been translated into English (without naming the translator(s)), but papers in French or German have not. English translations of several of them can be found in
 
 [^heijenoort-1967]: van Heijenoort, J., ed., 1967, *From Frege to Gödel*. A Sourcebook in Mathematical Logic, 1879–1931, Cambridge (MA): Harvard University Press.
 
@@ -228,8 +230,6 @@ I thank Dirk van Dalen and the editors for their comments on earlier versions.
 [^cambridge-1946]: The Cambridge lectures of 1946–1951, which are recommended as Brouwer’s own introduction to intuitionism, have been published as
 
 [^brouwer-1981]: Brouwer, L.E.J., 1981, *Brouwer’s Cambridge Lectures on Intuitionism*, D. van Dalen (ed.), Cambridge: Cambridge University Press.
-
-[^brouwer’s-nd-2]: A selection of Brouwer’s correspondence has been published as
 
 [^dalen-2011]: van Dalen, D., ed., 2011, *The Selected Correspondence of L.E.J. Brouwer*, London: Springer. An online supplement (link and password on the copyright page of the book) presents most of the extant correspondence, but without English translations.
 
@@ -305,7 +305,7 @@ I thank Dirk van Dalen and the editors for their comments on earlier versions.
 
 [^hesseling-2003]: Hesseling, D.E., 2003, *Gnomes in the Fog. The Reception of Brouwer’s Intuitionism in the 1920s*, Basel: Birkhauser.
 
-[^brouwer’s-nd-3]: A detailed historical discussion of the reactions to Brouwer’s mature intuitionism during the foundational debate.
+[^brouwer’s-nd]: A detailed historical discussion of the reactions to Brouwer’s mature intuitionism during the foundational debate.
 
 [^heyting-1956]: Heyting, A., 1956, *Intuitionism. An introduction*, Amsterdam: North-Holland. 2nd, revised edition, 1966. 3rd, revised edition, 1971.
 
@@ -313,7 +313,7 @@ I thank Dirk van Dalen and the editors for their comments on earlier versions.
 
 [^kirkels-2019]: Kirkels, M., 2019, *Gerrit Mannoury (1867–1956). Een Relativistisch Denker*, Rotterdam: Erasmus Universiteit.
 
-[^brouwer’s-nd-4]: A thorough biography of the remarkable man who was Brouwer’s teacher and then lifelong close friend; in Dutch.
+[^brouwer’s-nd-2]: A thorough biography of the remarkable man who was Brouwer’s teacher and then lifelong close friend; in Dutch.
 
 [^largeault-1993]: Largeault, J., 1993, *Intuition et Intuitionisme*, Paris: Vrin.
 
@@ -321,7 +321,7 @@ I thank Dirk van Dalen and the editors for their comments on earlier versions.
 
 [^placek-1999]: Placek, T., 1999, *Mathematical Intuitionism and Intersubjectivity*, Dordrecht: Kluwer.
 
-[^brouwer-nd-2]: A comparison of the arguments for intuitionism advanced by, respectively, Brouwer, Heyting, and Dummett, in particular with respect to the possibility of intersubjective validity of intuitionistic mathematics.
+[^brouwer-nd]: A comparison of the arguments for intuitionism advanced by, respectively, Brouwer, Heyting, and Dummett, in particular with respect to the possibility of intersubjective validity of intuitionistic mathematics.
 
 [^schmitz-1990]: Schmitz, H.W., 1990, *De Hollandse Significa. Een Reconstructie van de Geschiedenis van 1892 tot 1926*, Assen: van Gorcum.
 
@@ -337,11 +337,11 @@ I thank Dirk van Dalen and the editors for their comments on earlier versions.
 
 [^atten-2004]: van Atten, M., 2004, *On Brouwer*, Belmont (CA): Wadsworth.
 
-[^brouwer-nd-3]: A philosophical introduction to intuitionism as conceived by Brouwer, with extensive treatments of the proof of the bar theorem, the creating subject, and intersubjectivity.
+[^brouwer-nd-2]: A philosophical introduction to intuitionism as conceived by Brouwer, with extensive treatments of the proof of the bar theorem, the creating subject, and intersubjectivity.
 
 [^atten-2018]: van Atten, M., 2018, “The Creating Subject, the Brouwer-Kripke Schema, and infinite proofs”, *Indagationes Mathematicae*, 29(6): 1565–1636.
 
-[^brouwer’s-nd-5]: A discussion of philosophical, mathematical, and historical aspects of Brouwer’s Creating Subject arguments. Issues 29(1) and 29(6) of *Indagationes* make up a voluminous virtual special issue in commemoration of the 50th anniversary of Brouwer’s death.
+[^brouwer’s-nd-3]: A discussion of philosophical, mathematical, and historical aspects of Brouwer’s Creating Subject arguments. Issues 29(1) and 29(6) of *Indagationes* make up a voluminous virtual special issue in commemoration of the 50th anniversary of Brouwer’s death.
 
 [^atten-2008]: van Atten, M., Boldini, P., Bourdeau, M., and Heinzmann, G., eds., 2008, *One Hundred Years of Intuitionism (1907–2007). The Cerisy Conference*, Basel: Birkhäuser.
 
@@ -349,7 +349,7 @@ I thank Dirk van Dalen and the editors for their comments on earlier versions.
 
 [^atten-nd]: van Atten, M. and Tragesser, R., “Mysticism and Mathematics: Brouwer, Gödel and the Common Core Thesis”, in *Klarheit in Religionsdingen*, Deppert, W. & Rahnfeld, M., eds., Leipzig: Leipziger Universitatsverlag, 145–160.
 
-[^brouwer’s-nd-6]: A comparison of Brouwer’s and Gödel’s interest in mysticism and of their views on its relation to mathematics.
+[^brouwer’s-nd-4]: A comparison of Brouwer’s and Gödel’s interest in mysticism and of their views on its relation to mathematics.
 
 [^dalen-1999]: van Dalen, D., 1999/2005, *Mystic, Geometer, and Intuitionist*, 2 volumes, Oxford: Clarendon Press.
 

@@ -169,6 +169,8 @@ Everyday aesthetics began its task in the spirit of inclusivity by expanding the
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+This bibliography includes only contemporary works in English. For classical philosophical works and non-Western traditions, consult respective entries.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aesthetics-of-everyday). |
@@ -199,8 +201,6 @@ Everyday aesthetics began its task in the spirit of inclusivity by expanding the
 ## Related Entries
 
 Adorno, Theodor W. | aesthetics: aesthetic judgment | aesthetics: environmental | aesthetics: existentialist | art, definition of | Baudrillard, Jean | beauty | Benjamin, Walter | Chinese Philosophy: Chan Buddhism | Dewey, John: aesthetics | feminist philosophy, interventions: aesthetics | Foucault, Michel | Heidegger, Martin: aesthetics | Japanese Philosophy: aesthetics | Kant, Immanuel: aesthetics and teleology | Merleau-Ponty, Maurice | Schiller, Friedrich
-
-[^this-nd]: This bibliography includes only contemporary works in English. For classical philosophical works and non-Western traditions, consult respective entries.
 
 [^ackerman-1991]: Ackerman, Diane, 1991, *A Natural History of the Senses*, New York: Vintage Books.
 

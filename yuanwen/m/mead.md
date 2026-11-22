@@ -139,6 +139,8 @@ Throughout his writings, Mead often referred to the gradual development of a “
 
 ### Primary Sources
 
+(Abbreviations are noted for cited primary texts.)
+
 | [CP] | “Social Psychology as Counterpart to Physiological Psychology,” *Psychological Bulletin*, 6 (1909): 401–408. Page references are to the reprinted edition in [ESP] below. |
 | --- | --- |
 | [MSC] | “The Mechanism of Social Consciousness,” *The Journal of Philosophy, Psychology, and Scientific Methods*, IX (1912): 401–406. Page references are to the reprinted edition in [SW] below. |
@@ -195,8 +197,6 @@ See *Intelligent Philanthropy*, edited by Ellsworth Faris, Ferris Laune, and Art
 [^note-6]: What is also seldom noted is that had it not been for his untimely death in April of 1931, Mead was to again follow Dewey, securing a teaching position at Columbia University for the 1931-1932 academic year (Cook 1993, 191-193)[^cook-1993].
 
 [^note-7]: It is important to note this is also one of the first book-length studies on Mead’s philosophy in general. See also Renger 1980 for a discussion of the importance of Mead’s contributions to philosophy of education.
-
-[^abbreviations-nd]: (Abbreviations are noted for cited primary texts.)
 
 [^abbott-2020]: Abbott, Owen, 2020, “The self as the locus of morality: A comparison between Charles Taylor and George Herbert Mead’s theories of the moral constitution of the self,” *The Journal for the Theory of Social Behaviour*, 50(40): 516–533. [[Abbott 2020 available online](https://onlinelibrary.wiley.com/doi/full/10.1111/jtsb.12258)]
 

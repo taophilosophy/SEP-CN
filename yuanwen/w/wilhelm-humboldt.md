@@ -215,6 +215,8 @@ A comprehensive account and just assessment of Humboldt’s achievements in phil
 
 #### Correspondence
 
+There is as yet no complete edition of Humboldt’s correspondence.
+
 **1830**
 
 *Briefwechsel zwischen Schiller und Wilhelm von Humboldt Mit einer Vorerinnerung über Schiller und den Gang seiner Geistesentwicklung von Wilhelm von Humboldt*, Stuttgart and Tübingen: Cotta.
@@ -342,8 +344,6 @@ The editors would like to thank Cord-Friedrich Berghahn for working on the 2022 
 So far 6 volumes have appeared, see Works.
 
 The edition is published by the Schöningh Verlag, Paderborn, Wien, and Zürich and produced under the auspices of the Berlin-Brandenburg Academy of Sciences (Berlin-Brandenburgische Akademie der Wissenschaften). The project is sponsored by the Deutsche Forschungsgemeinschaft (German Research Council). See the Other Internet Resources for the website of the editorial working group.
-
-[^there-nd]: There is as yet no complete edition of Humboldt’s correspondence.
 
 [^goedeke-1959]: Goedeke, Karl, 1959, *Grundriss zur Geschichte der Deutschen Dichtunge*, Vol 14, 2ⁿᵈ revised edition, Dresden: Ehlermann, pp. 502–78, 1015–16.
 

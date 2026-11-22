@@ -131,6 +131,8 @@ In sum, the Abhidharma project, as evident by the *dharma* theory and its suppor
 
 ### Primary Sources
 
+The texts are ordered according to the Pali/Sanskrit alphabet. References to Pali texts are to the editions of the Pali Text Society unless noted otherwise.
+
 ### Secondary Sources
 
 ## Academic Tools
@@ -194,8 +196,6 @@ atomism: 17th to 20th century | atomism: ancient | Buddha | consciousness: and i
 [^note-16]: The following concise summary of the theory is based on its elucidation in Cousins 1981 and Gethin 1994, 17–22.
 
 [^note-17]: On the Buddha’s view of language see Gombrich 2009, Ch. 10, esp. pp. 144–155; Ronkin 2005, 244–250.
-
-[^pali-nd]: The texts are ordered according to the Pali/Sanskrit alphabet. References to Pali texts are to the editions of the Pali Text Society unless noted otherwise.
 
 [^aṅguttara-nikāya-nd]: [A] *Aṅguttara-nikāya*
 

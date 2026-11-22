@@ -1456,6 +1456,8 @@ Historical surveys of the early development of recursive functions and computabi
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Note: In cases where an English translation is available, page references in the main text and notes are to the indicated translations of the sources cited below.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=recursive-functions). |
@@ -1557,8 +1559,6 @@ This work has been partially supported by the ANR project *The Geometry of Algor
 [^note-38]: 38\. For instance, in order to compute the value of $\delta(2,1)$, we must first compute the values of $\delta(1, \gamma(1,0))$ and $\delta(2,0)$. These computations can be performed independently from one to another in the sense that it is possible to compute first $\delta(1, \gamma(1,0))$, and then $\delta(2,0)$, so as to respect the fact that the ordered pair $\langle 1, u \rangle$, where $u = \gamma(1,0)$, precedes the ordered pair $\langle 2,0 \rangle$ in the lexicographical order.
 
 [^note-39]: 39\. For in contrast to the computation of $\delta(2,1)$ described in the prior note, observe that $\pi(2,1) = \pi(1,\pi(2,0))$. Thus in order to compute its value we must first compute the value of $\pi(2,0)$—say that it is $u$—and then compute $\pi(1,u)$. Note, however, that $\langle 2,0 \rangle$ *follows* $\langle 1,u \rangle$ in the lexicographical ordering $\prec$. Thus in order to compute the value of $\pi(x + 1,y + 1)$ it is in general necessary to assume that this function is defined for pairs preceding $\langle x + 1,y + 1 \rangle$ defined in terms of *π* itself instead of those defined in terms of the known function in *γ* in the case of $\delta(x+1,y+1)$.
-
-[^note-nd]: Note: In cases where an English translation is available, page references in the main text and notes are to the indicated translations of the sources cited below.
 
 [^ackermann-1928a]: Ackermann, Wilhelm, 1928a, “Über die Erfüllbarkeit gewisser Zählausdrücke”, *Mathematische Annalen*, 100: 638–649. doi:10.1007/BF01448869
 

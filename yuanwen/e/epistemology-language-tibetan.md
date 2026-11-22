@@ -265,6 +265,8 @@ The second requirement underlines a difference between the definiens and the def
 
 ### A. Sources and translations
 
+In this section of the Bibliography, the order of the works listed is based on the alphabetical order of the root Tibetan letter of the first syllable of the author’s name.
+
 #### 1. Pre-classical period
 
 #### 2. Classical and post-classical period (selective list)
@@ -288,8 +290,6 @@ The second requirement underlines a difference between the definiens and the def
 ## Related Entries
 
 Dharmakīrti | Indian Philosophy (Classical): epistemology | Indian Philosophy (Classical): language and testimony | Madhyamaka | perception: the disjunctive theory of | properties | realism | reliabilist epistemology | Śāntarakṣita | Sakya Paṇḍita [sa skya paṇ ḍi ta] | Tsongkhapa | two truths in India, theory of
-
-[^bibliography-nd]: In this section of the Bibliography, the order of the works listed is based on the alphabetical order of the root Tibetan letter of the first syllable of the author’s name.
 
 [^ka’-2006]: The available resources for the pre-classical period currently consist of about 40 works. The majority of them were published as facsimile in the series *bKaʼ gdams gsung ʼbum* (4 sets of 30 volumes each), dPal brtsegs bod yig dpe rnying zhib ʼjug khang, Chengdu, 2006, 2007, 2009, 2015: Si khron mi rigs dpe skrun khang. A few additional ones appeared as typeset editions or are available as facsimile via the Buddhist Digital Resource Center (www.bdrc.io). These resources include the works by Ngok Loden Shérap, Chapa, Tsang Nakpa, Tsurtön Shönnu Senggé (*mTshur ston gZhon nu seng ge*, ca. 1150–1210) and Chumikpa, as well as several summaries and commentaries on Dharmakīrti’s *Pramāṇaviniścaya*. These available works are surveyed in Hugon (2021) (see B below). The translations currently available are limited to individual chapters and passages analyzed in the studies mentioned under B. This entry relied in particular on the following works:
 

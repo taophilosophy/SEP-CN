@@ -185,6 +185,8 @@ Unfortunately, this interpretation merely heightens the problem. What is it that
 
 ### Hume’s Works
 
+The abbreviations and texts cited above are as follows:
+
 | [T] | *A Treatise of Human Nature*, edited by L. A. Selby-Bigge, 2nd ed. revised by P.H. Nidditch, Oxford: Clarendon Press, 1975. [Page references above are to this edition.] |
 | --- | --- |
 |   | *A Treatise of Human Nature*, edited by David Fate Norton and Mary J. Norton, Oxford/New York: Oxford University Press, 2000. |
@@ -225,8 +227,6 @@ Unfortunately, this interpretation merely heightens the problem. What is it that
 ## Related Entries
 
 aesthetics: aesthetic judgment | aesthetics: British, in the 18th century | Aristotle, General Topics: aesthetics | beauty | Hume, David | Hume, David: moral philosophy | moral sentimentalism | Scottish Philosophy: in the 18th Century | Shaftesbury, Lord [Anthony Ashley Cooper, 3rd Earl of]
-
-[^hume-nd]: The abbreviations and texts cited above are as follows:
 
 [^baceski-2013]: Baceski, Tina, 2013. “Hume on Art Critics, Wise Men, and the Virtues of Taste,” *Hume Studies*, 39: 233–56.
 

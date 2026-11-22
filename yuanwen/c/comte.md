@@ -177,9 +177,15 @@ A sound assessment of Comte’s philosophy must also take into account the work 
 
 ### Primary Literature
 
+A new edition has yet to appear. For the time being, only three volumes have been issued:
+
+On the other hand, English positivists (Harriet Martineau, Richard Congreve, John H. Bridges, Edward S. Bessly, Frederic Harrison) translated in the second half of the 19th century the most important works. So, after the original text, we give the reference to these English translations, even if they are not easily accessible.
+
 #### Translations
 
 #### Works of Mill
+
+While reading Comte, it is useful to have continual reference to Mill, especially:
 
 ### Secondary literature
 
@@ -242,53 +248,47 @@ Of course, there may have been some flattery going on.
 
 [^auguste-1968]: Auguste Comte, *Œuvres*, Paris: Anthropos (11 vols.), 1968–1970.
 
-[^for-nd]: A new edition has yet to appear. For the time being, only three volumes have been issued:
-
 [^auguste-2012]: Auguste Comte, *Cours de philosophie positive, leçons 46–51*, Paris: Hermann, 2012; *Système de politique positive*, vol. I-2 and 2, Paris: Hermann, 2022.
 
-[^english-nd]: On the other hand, English positivists (Harriet Martineau, Richard Congreve, John H. Bridges, Edward S. Bessly, Frederic Harrison) translated in the second half of the 19th century the most important works. So, after the original text, we give the reference to these English translations, even if they are not easily accessible.
+[^auguste-1820]: 1820, “Sommaire appréciation de l’ensemble du passé moderne”, in *L’Organisateur*, 8^{ième} et 9^{ième} lettres; reprinted in 1851 (v. 4, appendix) and 1970; translated in 1974 and 1998.
 
-[^english-1820]: 1820, “Sommaire appréciation de l’ensemble du passé moderne”, in *L’Organisateur*, 8^{ième} et 9^{ième} lettres; reprinted in 1851 (v. 4, appendix) and 1970; translated in 1974 and 1998.
+[^auguste-1822]: 1822, “Plan des travaux scientifiques nécessaires pour réorganiser la société”, Bourdeau M. (ed.), Paris: Hermann, 2020; translated in 1974 and 1998.
 
-[^english-1822]: 1822, “Plan des travaux scientifiques nécessaires pour réorganiser la société”, Bourdeau M. (ed.), Paris: Hermann, 2020; translated in 1974 and 1998.
+[^auguste-1825]: 1825, “Considérations philosophiques sur la science et les savants”, in *Le Producteur*, n° 7, 8 et 10; reprinted in 1851 (v. 4, appendix) and 1970; translated in 1974 and 1998 [available on line: www.bibnum.education.fr/tags/auguste-comte]
 
-[^english-1825]: 1825, “Considérations philosophiques sur la science et les savants”, in *Le Producteur*, n° 7, 8 et 10; reprinted in 1851 (v. 4, appendix) and 1970; translated in 1974 and 1998 [available on line: www.bibnum.education.fr/tags/auguste-comte]
+[^auguste-1826]: 1826, “Considérations sur le pouvoir spirituel”, in *Le Producteur*, n° 13, 20 et 21; reprinted in 1851 (v. 4, appendix) and 1970; translated in 1974 and 1998.
 
-[^english-1826]: 1826, “Considérations sur le pouvoir spirituel”, in *Le Producteur*, n° 13, 20 et 21; reprinted in 1851 (v. 4, appendix) and 1970; translated in 1974 and 1998.
+[^auguste-1830]: 1830–1842: *Cours de philosophie positive*, Paris: Rouen first, then Bachelier (6 vols.); page reference is to the new edition, Paris: Hermann, 2 vols., 1975. Freely translated and condensed by Harriet Martineau: *The positive philosophy of Auguste Comte*, London: J. Chapman, 1853. Parsons (1961) gives some selections from the sociology lessons.
 
-[^english-1830]: 1830–1842: *Cours de philosophie positive*, Paris: Rouen first, then Bachelier (6 vols.); page reference is to the new edition, Paris: Hermann, 2 vols., 1975. Freely translated and condensed by Harriet Martineau: *The positive philosophy of Auguste Comte*, London: J. Chapman, 1853. Parsons (1961) gives some selections from the sociology lessons.
+[^auguste-1843]: 1843, *Traité élementaire de géométrie algébrique*, Paris: V. Dalmont.
 
-[^english-1843]: 1843, *Traité élementaire de géométrie algébrique*, Paris: V. Dalmont.
+[^auguste-1844a]: 1844a, *Discours sur l’esprit positif*, Paris: V. Dalmont; reprinted, Paris: Vrin, 1995 (introduction to 1844b, published separately). Translated as: A Discourse on the Positive Spirit, London: Reeves, 1903.
 
-[^english-1844a]: 1844a, *Discours sur l’esprit positif*, Paris: V. Dalmont; reprinted, Paris: Vrin, 1995 (introduction to 1844b, published separately). Translated as: A Discourse on the Positive Spirit, London: Reeves, 1903.
+[^auguste-1844b]: 1844b, *Traité philosophique d’astronomie populaire*, Paris: V. Dalmont; reprinted, Paris: Fayard, 1985.
 
-[^english-1844b]: 1844b, *Traité philosophique d’astronomie populaire*, Paris: V. Dalmont; reprinted, Paris: Fayard, 1985.
+[^auguste-1845]: 1845–1846, *Correspondance avec Clotilde de Vaux*, Guigue A. (ed.), Paris: Mercure de France, 2021.
 
-[^english-1845]: 1845–1846, *Correspondance avec Clotilde de Vaux*, Guigue A. (ed.), Paris: Mercure de France, 2021.
+[^auguste-1848]: 1848, *Discours sur l’ensemble du positivisme*, Paris: Mathias; reprinted, Paris: Garnier Freres, 1998 (introduction to 1851, published separately). Translated as: *General View of Positivism*, London: Trubner, 1865.
 
-[^english-1848]: 1848, *Discours sur l’ensemble du positivisme*, Paris: Mathias; reprinted, Paris: Garnier Freres, 1998 (introduction to 1851, published separately). Translated as: *General View of Positivism*, London: Trubner, 1865.
+[^auguste-1851]: 1851–1854, *Système de politique positive, ou traité de sociologie instituant la religion de l’Humanité* (4 vols.), Paris, Carilian-Goeury. Translated as: *System of Positive Polity*, London: Longmans, Green and co., 1875–1877. A new annotated edition is being published; some volumes are already available: v. I-2 (*Introduction fondamentale*) and v. 2 (*Statique sociale*), Paris: Hermann, 2022.
 
-[^english-1851]: 1851–1854, *Système de politique positive, ou traité de sociologie instituant la religion de l’Humanité* (4 vols.), Paris, Carilian-Goeury. Translated as: *System of Positive Polity*, London: Longmans, Green and co., 1875–1877. A new annotated edition is being published; some volumes are already available: v. I-2 (*Introduction fondamentale*) and v. 2 (*Statique sociale*), Paris: Hermann, 2022.
+[^auguste-1852]: 1852, *Catéchisme positiviste*, Paris: self-published; reprinted, Paris: Garnier Freres, 1966. Translated as: *The Catechism of Positive Religion*, London: Trubner, 1891.
 
-[^english-1852]: 1852, *Catéchisme positiviste*, Paris: self-published; reprinted, Paris: Garnier Freres, 1966. Translated as: *The Catechism of Positive Religion*, London: Trubner, 1891.
+[^auguste-1855]: 1855, *Appel aux conservateurs*, Paris: self-published. Translated as: *Appeal to Conservatives*, London: Trubner, 1889. New edition, Paris: Editions du Sandre, 2009.
 
-[^english-1855]: 1855, *Appel aux conservateurs*, Paris: self-published. Translated as: *Appeal to Conservatives*, London: Trubner, 1889. New edition, Paris: Editions du Sandre, 2009.
+[^auguste-1856]: 1856, *Synthèse subjective*, Paris: self-published. Translated as: *Subjective Synthesis*, London: Kegan Paul, 1891.
 
-[^english-1856]: 1856, *Synthèse subjective*, Paris: self-published. Translated as: *Subjective Synthesis*, London: Kegan Paul, 1891.
+[^auguste-1970]: 1970, *Ecrits de jeunesse: 1816–1828*, textes établis et présentés par P. Carneiro et P. Arnaud; Paris:École Pratique des Hautes Etudes.
 
-[^english-1970]: 1970, *Ecrits de jeunesse: 1816–1828*, textes établis et présentés par P. Carneiro et P. Arnaud; Paris:École Pratique des Hautes Etudes.
+[^auguste-1973]: 1973–1990, *Correspondance générale et confessions* (8 vols.), Paris: École Pratique des Hautes Etudes; La Haye: Mouton.
 
-[^english-1973]: 1973–1990, *Correspondance générale et confessions* (8 vols.), Paris: École Pratique des Hautes Etudes; La Haye: Mouton.
-
-[^english-2017]: 2017, *Cours sur l’histoire de l’humanité (1849–1851)*, texte établi et présenté par L. Fedi; Geneva: Droz.
+[^auguste-2017]: 2017, *Cours sur l’histoire de l’humanité (1849–1851)*, texte établi et présenté par L. Fedi; Geneva: Droz.
 
 [^comte-1974]: 1974, *The Crisis of Industrial Civilisation, The Early Essays of Auguste Comte*, R. Fletcher (ed.), London: Heinemann.
 
 [^comte-1995]: 1995, *The Correspondence of John Stuart Mill and Auguste Comte*, O. Haac (ed.), London: Transaction Publishers.
 
 [^comte-1998]: 1998, *Early Political Writings*, H. S. Jones (ed.), Cambridge: Cambridge University Press.
-
-[^while-nd]: While reading Comte, it is useful to have continual reference to Mill, especially:
 
 [^mill-1843]: 1843, *System of Logic*, Ratiocinative and Inductive, London: John Parker; reprinted in Mill 1963ff, vols. 7–8.
 

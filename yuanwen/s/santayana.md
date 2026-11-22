@@ -176,6 +176,8 @@ Consciousness essentially is only awareness, an attention to what is given, rath
 
 #### Complete Works
 
+*The Works of George Santayana*, Martin A. Coleman (Director and Editor), David Spiech (Textual Editor), Marianne S. Wokeck (Senior Editor), Herman J. Saatkamp, Jr. (Founding and Consulting Editor), Cambridge, MA and London: The MIT Press. The volumes are as follows:
+
 #### Individual Works
 
 #### Selected Translations
@@ -199,8 +201,6 @@ Consciousness essentially is only awareness, an attention to what is given, rath
 ## Related Entries
 
 Dewey, John | epiphenomenalism | James, William | Peirce, Charles Sanders
-
-[^works-nd]: *The Works of George Santayana*, Martin A. Coleman (Director and Editor), David Spiech (Textual Editor), Marianne S. Wokeck (Senior Editor), Herman J. Saatkamp, Jr. (Founding and Consulting Editor), Cambridge, MA and London: The MIT Press. The volumes are as follows:
 
 [^volume-1986]: Volume I (1986), *Persons and Places: Fragments of Autobiography*, edited by William G. Holzberger and Herman J. Saatkamp, Jr., Introduction by Richard C. Lyon.
 

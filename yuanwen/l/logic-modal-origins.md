@@ -310,6 +310,8 @@ The discussion of the Barcan Formula and its Converse has accompanied the develo
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Please note that the distinction in the bibliography between introductory texts, primary, and secondary literature is partially artificial.
+
 ### Introductory Texts
 
 ### Primary Literature
@@ -336,8 +338,6 @@ algebra of logic tradition | Boolean algebra: the mathematics of | logic: algebr
 ### Acknowledgments
 
 I would like to thank Max Weiss who has assisted me with the initial 2010 version of this entry and Harry Deutsch for constructive feedback on a previous version of the last section of this entry.
-
-[^please-nd]: Please note that the distinction in the bibliography between introductory texts, primary, and secondary literature is partially artificial.
 
 [^blackburn-2001]: Blackburn, Patrick, Maarten de Rijke, and Yde Venema, 2001, *Modal Logic*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107050884
 

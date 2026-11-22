@@ -187,6 +187,8 @@ So Grotius’ influence was felt on some of the major actors of his day. Natural
 
 ### Select Secondary Literature
 
+N.B.: In addition to the following (which emphasizes English-language literature), interested readers should also consult the scholarly journal *Grotiana* (new series), which regularly publishes articles in several languages on all aspects of Grotius’ thought and legacy.
+
 #### Anthologies
 
 #### Bibliographies
@@ -228,8 +230,6 @@ Aquinas, Thomas | ethics: natural law tradition | Leibniz, Gottfried Wilhelm: et
 [^grotius-1983]: *Grotius Reader: A Reader for Students of International Law and Legal History*, L.E. van Holk and C.G. Roelofsen (eds.), The Hague: T.M.C. Asser Instituut, 1983.
 
 [^de-2000]: *De antiquitate Reipublicae Batavicae*, Translated as *The Antiquity of the Batavian Republic*, Jan Waszink et al. (eds. and trans.), Assen: Royal van Gorcum, 2000.
-
-[^english-language-nd]: N.B.: In addition to the following (which emphasizes English-language literature), interested readers should also consult the scholarly journal *Grotiana* (new series), which regularly publishes articles in several languages on all aspects of Grotius’ thought and legacy.
 
 [^anonymous-1984]: [Anonymous] (ed.), 1984, *The World of Hugo Grotius: Proceedings of the international colloquium organized by the Grotius Committee of the Royal Netherlands Academy of Arts and Sciences, Rotterdam 6–9 April 1983*, Amsterdam and Maarssen: APA—Holland University Press.
 

@@ -153,6 +153,8 @@ Much more work needs to be done on the literary forms of medieval philosophy. Th
 
 ### Selected Primary Sources
 
+These are in English translation where available; see individual author entries for complete bibliographical information.
+
 ### Secondary Sources
 
 ## Academic Tools
@@ -190,8 +192,6 @@ Much more work needs to be done on the literary forms of medieval philosophy. Th
 ## Related Entries
 
 Abelard [Abailard], Peter | Anselm of Canterbury [Anselm of Bec] | Aquinas, Thomas | Augustine of Hippo | Boethius, Anicius Manlius Severinus | Bonaventure | Buridan, John [Jean] | Cusanus, Nicolaus [Nicolas of Cusa] | Halevi, Judah | Ibn Gabirol, Solomon [Avicebron] | insolubles [= *insolubilia*] | Kilvington, Richard | Maimonides | Ockham [Occam], William | Peter of Spain [= Petrus Hispanus] | *sophismata* [= sophisms]
-
-[^these-nd]: These are in English translation where available; see individual author entries for complete bibliographical information.
 
 [^abelard-2001]: Abelard, *Collationes* (*Dialogue Between a Philosopher, a Jew and a Christian*), John Marenbon and Giovanni Orlandi (eds. and trans.), Oxford: Clarendon Press, 2001.
 

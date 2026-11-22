@@ -320,6 +320,8 @@ Later, there would be even more qualifications of the split, and Kant’s return
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+References to Kant’s texts follow the Academy edition (*Gesammelte Schriften*, ed. Akademie der Wissenschaften, Berlin: Reimer, later DeGruyter, 1910ff.) by volume, page, and, if useful, by line. References to the *Critique of Pure Reason* are to the first (A) and second (B) editions.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-development). |
@@ -397,8 +399,6 @@ cf. *Zhongyong Jiyi* (Taibei: Sangyang 1985), 2 (my trans.). The text had been p
 [^note-25]: This very observation will have a significant impact on German Idealism as it develops after Kant’s body of work. See J.G. Fichte *Wissenschaflehre* (I, 420; I, 93; I, 109), also F.W.J. Schelling *System of Transcendental Idealism* (1800: 378–381).
 
 [^note-26]: Kant’s argument is as follows: something is possible only if it is thinkable; something is thinkable only if data are present to the mind; data can be present to the mind only if the complete set of thinkable data already exists; therefore something is possible only if something exists. Because negation of possibility is impossible, what is presupposed as existing must exist necessarily. Kant shows in summary form (2:84–9) that the complete set of thinkable data is the complete set of all positive properties, which is unified as a set, and divine in virtue of its completeness. For details, see Schönfeld 2000: 183–208 and 288–97.
-
-[^references-nd]: References to Kant’s texts follow the Academy edition (*Gesammelte Schriften*, ed. Akademie der Wissenschaften, Berlin: Reimer, later DeGruyter, 1910ff.) by volume, page, and, if useful, by line. References to the *Critique of Pure Reason* are to the first (A) and second (B) editions.
 
 [^adickes-1924a]: Adickes, Erich, 1924a, “Kant als Naturwissenschaftler”, *Kant-Studien*, 29: 70–97.
 

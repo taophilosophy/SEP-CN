@@ -209,6 +209,8 @@ It is difficult not to conclude that, despite his lifelong engagement with the t
 
 ### Editions of Nietzsche’s Texts
 
+The following editions of Nietzsche’s works have been referenced. Translations are the author’s own.
+
 **[KGA]**
 
 *Werke: kritische Gesamtausgabe*, 40 volumes, Colli, Montinari, Gerhardt, Miller, Müller-Lauter and Pestalozzi (eds.), Berlin: Walter de Gruyter, 1967ff.
@@ -230,6 +232,8 @@ It is difficult not to conclude that, despite his lifelong engagement with the t
 *Writings from the Early Notebooks*, Nehamas and Geuss (eds.), Löb (trans.), Cambridge: Cambridge University Press, 2009.
 
 ### Abbreviations of Nietzsche’s Works
+
+In citing Nietzsche’s published works, this article follows the North American Nietzsche Society’s system for abbreviations. Abbreviations referring to the titles of individual works are followed by section numbers in Arabic numerals. Where the work in question is divided into chapters or parts across which sections are not numbered consecutively, Roman numerals or abbreviations of chapter titles precede section numbers (e.g. *GM* III.5 = *On the Genealogy of Morals*, Third Essay, section 5).
 
 *A*
 
@@ -283,6 +287,8 @@ It is difficult not to conclude that, despite his lifelong engagement with the t
 
 *Thus Spoke Zarathustra: A Book for All and None*
 
+Where helpful for locating a particular passage, references have also been given to volume and page number of the KSA. Citations of Nietzsche’s unpublished notes [NF] refer to year, and notebook and fragment numbers as established in the critical edition.
+
 ### Other Primary Literature
 
 ### Secondary Literature
@@ -302,12 +308,6 @@ It is difficult not to conclude that, despite his lifelong engagement with the t
 ## Related Entries
 
 aesthetics: 19th Century Romantic | aesthetics: aesthetic judgment | Aristotle, General Topics: aesthetics | art and ethical value | Kant, Immanuel | music: history of western philosophy of, since 1800 | Nietzsche, Friedrich | paradox of tragedy | Plato | Schelling, Friedrich Wilhelm Joseph von | Schiller, Friedrich | Schlegel, Friedrich | Schopenhauer, Arthur | Schopenhauer, Arthur: aesthetics
-
-[^nietzsche’s-nd]: The following editions of Nietzsche’s works have been referenced. Translations are the author’s own.
-
-[^nietzsche’s-nd-2]: In citing Nietzsche’s published works, this article follows the North American Nietzsche Society’s system for abbreviations. Abbreviations referring to the titles of individual works are followed by section numbers in Arabic numerals. Where the work in question is divided into chapters or parts across which sections are not numbered consecutively, Roman numerals or abbreviations of chapter titles precede section numbers (e.g. *GM* III.5 = *On the Genealogy of Morals*, Third Essay, section 5).
-
-[^where-nd]: Where helpful for locating a particular passage, references have also been given to volume and page number of the KSA. Citations of Nietzsche’s unpublished notes [NF] refer to year, and notebook and fragment numbers as established in the critical edition.
 
 [^aristotle-1985]: Aristotle, [*CW*], *The Complete Works of Aristotle*, vol. 2, Barnes (ed.), Princeton, NJ: Princeton University Press, 1985.
 

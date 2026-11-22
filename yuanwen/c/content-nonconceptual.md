@@ -216,6 +216,8 @@ As we consider these applications, however, it should be reiterated that the not
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+An [enhanced copy of the bibliography for this entry with links at PhilPapers](http://philpapers.org/sep/content-nonconceptual/) is available.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=content-nonconceptual). |
@@ -249,8 +251,6 @@ animal: cognition | animal: consciousness | belief | concepts | consciousness: r
 [^note-7]: Chuard (2007)[^chuard-2007] warns against the inference from analog representation to nonconceptual content, suggesting that the analog/digital distinction might mark a distinction between two types of *conceptual content* or a distinction between *vehicles*, rather than between different types of content.
 
 [^note-8]: Following several objections (Peacocke 1998)[^peacocke-1998] regarding the general concepts involved in demonstrative concepts expressible by such phrases as ‘that shade’, McDowell revised his account of the demonstrative concepts involved in the contents of perception to be of the form …*is shaped thus*, or …*is colored thus* (McDowell 1998). Similar, and further, misgivings about the possibility of demonstrative concepts with such general terms are found in, for example, Kelly 2001a, Peacocke 2001a, Tye 2006, and Wright 2003.
-
-[^an-nd]: An [enhanced copy of the bibliography for this entry with links at PhilPapers](http://philpapers.org/sep/content-nonconceptual/) is available.
 
 [^many-2003]: Many of the papers listed below are reprinted in the anthology *Essays on Nonconceptual Content*, York Gunther (ed.), Cambridge, MA: MIT Press, 2003.
 

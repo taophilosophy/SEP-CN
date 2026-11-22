@@ -157,6 +157,10 @@ The new accessibility of art to the masses, as well as the increasing literacy a
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Many of the quotes in the text can be found in the following anthology:
+
+Other useful anthologies include:
+
 ### Primary Literature
 
 ### Secondary Literature
@@ -177,13 +181,9 @@ The new accessibility of art to the masses, as well as the increasing literacy a
 
 aesthetics: British, in the 18th century | aesthetics: German, in the 18th century | Aristotle, General Topics: aesthetics | Diderot, Denis | Enlightenment | Hume, David: aesthetics | Voltaire
 
-[^many-nd]: Many of the quotes in the text can be found in the following anthology:
-
 [^harrison-2000]: Harrison, Charles, Paul Wood, and Jason Gaiger (eds.), 2000, *Art in Theory, 1648–1815: An Anthology of Changing Ideas*, Oxford: Blackwell Publishers
 
 [^this-1715]: This is cited as [**AT**] in the text. In Section 3, the translations of the quotes from J.-P. de Crousaz 1715 (*Traité du beau*) are by Katerina Deligiorgi.
-
-[^other-nd]: Other useful anthologies include:
 
 [^elledge-1970]: Elledge, Scott and Donald Schier (eds.), 1970, *The Continental Model: Selected French Essays of the Seventeenth Century*, revised edition, Ithaca and London: Cornell University Press; original edition 1960.
 

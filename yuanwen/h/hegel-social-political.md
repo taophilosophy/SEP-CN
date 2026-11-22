@@ -199,6 +199,8 @@ The only judge of relative rights and wrongs in the international sphere is “w
 
 ### Primary Literature
 
+English Translations of Key Texts
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -217,8 +219,6 @@ The only judge of relative rights and wrongs in the international sphere is “w
 ## Related Entries
 
 Hegel, Georg Wilhelm Friedrich | Hegel, Georg Wilhelm Friedrich: dialectics | Kant, Immanuel
-
-[^english-nd]: English Translations of Key Texts
 
 [^el-1991]: [EL], *The Encyclopaedia Logic: Part 1 of the Encyclopaedia of Philosophical Sciences with the Zusätze*, translated by T. F. Geraets, W. A. Suchting and H. S. Harris. Indianapolis: Hackett, 1991.
 

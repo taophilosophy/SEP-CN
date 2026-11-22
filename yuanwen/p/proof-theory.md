@@ -765,6 +765,8 @@ It is clear to us, and it was clear to Hilbert, that mathematical thinking does 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The translations in this paper are ours, unless we explicitly refer to an English edition.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=proof-theory). |
@@ -944,8 +946,6 @@ If we try to achieve such a reduction to logic, Hilbert says at the very end of 
 [^note-59]: 59\. For extensions and reflections see Sieg 1991.
 
 [^note-60]: 60\. Theorem F.4 can be extracted from Kreisel, Mints and Simpson (1975), Lopez-Escobar (1976) or Schwichtenberg (1977)[^schwichtenberg-1977] and was certainly known to these authors.
-
-[^english-nd]: The translations in this paper are ours, unless we explicitly refer to an English edition.
 
 [^ackermann-1925]: Ackermann, Wilhelm, 1925, “Begründung des ‘tertium non datur’ mittels der Hilbertschen Theorie der Widerspruchsfreiheit”, *Mathematische Annalen*, 93: 1–36. doi:10.1007/BF01449946
 

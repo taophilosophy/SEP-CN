@@ -349,6 +349,12 @@ This article has examined the ongoing interpretive debate concerning Kant’s co
 
 ### Works of Kant
 
+Quotations from Kant’s work are from the German edition of Kant’s works, the *Akademie Ausgabe*, with the first *Critique* cited by the standard A/B edition pagination, and the other works by volume and page.
+
+The most authoritative English translation of Kant’s works is:
+
+English translations in most cases closely followed translations from the Cambridge Editions. Specific texts are abbreviated as follows:
+
 **An**
 
 *Anthropology from a Pragmatic Point of View*
@@ -389,7 +395,15 @@ This article has examined the ongoing interpretive debate concerning Kant’s co
 
 *Prolegomena to any Future Metaphysics*
 
+Individual volumes used in the preparation of this entry are:
+
 ### Other Primary Sources
+
+Hegel’s work cited in this entry (in translation):
+
+Solomon Maimon’s work cited in this entry (in translation):
+
+Johann Gottfried von Herder’s work cited in this entry (in translation):
 
 ### Secondary Literature
 
@@ -416,17 +430,9 @@ Kant, Immanuel | Kant, Immanuel: philosophy of mathematics | Kant, Immanuel: tra
 
 Thanks to Lucy Allais, Anil Gomes, Lisa Shabel, Nick Stang, Andrew Stephenson, Clinton Tolley, and the Kant subject editors for the SEP for helpful comments and discussion concerning the structure and content of this piece.
 
-[^quotations-nd]: Quotations from Kant’s work are from the German edition of Kant’s works, the *Akademie Ausgabe*, with the first *Critique* cited by the standard A/B edition pagination, and the other works by volume and page.
-
 [^ak-1900]: [Ak.] Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), 1900-, *Kants gesammelte Schriften*, Berlin: Georg Reimer (later Walter De Gruyter).
 
-[^english-nd]: The most authoritative English translation of Kant’s works is:
-
 [^guyer-1992]: Guyer, Paul and Allen W. Wood (eds.), 1992–, *The Cambridge Edition of the Works of Immanuel Kant*, Cambridge: Cambridge University Press.
-
-[^english-nd-2]: English translations in most cases closely followed translations from the Cambridge Editions. Specific texts are abbreviated as follows:
-
-[^individual-nd]: Individual volumes used in the preparation of this entry are:
 
 [^correspondence-1999]: *Correspondence*, Arnulf Zweig (ed.), Cambridge: Cambridge University Press, 1999.
 
@@ -448,8 +454,6 @@ Thanks to Lucy Allais, Anil Gomes, Lisa Shabel, Nick Stang, Andrew Stephenson, C
 
 [^theoretical-1781]: *Theoretical Philosophy after 1781*, Henry Allison and Peter Heath (eds.), Cambridge: Cambridge University Press, 2002
 
-[^hegel’s-nd]: Hegel’s work cited in this entry (in translation):
-
 [^difference-1977]: *The Difference Between Fichte’s and Schelling’s System of Philosophy*, translated by H.S. Harris and W. Cerf, Albany, NY: State University of New York Press, 1977.
 
 [^phenomenology-1977]: *Phenomenology of Spirit*, translated by A.V. Miller, Oxford: Oxford University Press, 1977.
@@ -458,11 +462,7 @@ Thanks to Lucy Allais, Anil Gomes, Lisa Shabel, Nick Stang, Andrew Stephenson, C
 
 [^encyclopaedia-1991]: The *Encyclopaedia Logic* (with the *Zusätze*), translated by T. F. Geraets, W. A. Suchting, and H. S. Harris, Indianapolis, IN: Hackett Press, 1991.
 
-[^solomon-nd]: Solomon Maimon’s work cited in this entry (in translation):
-
 [^essay-2010]: *Essay on Transcendental Philosophy*, New York: Continuum, 2010.
-
-[^johann-nd]: Johann Gottfried von Herder’s work cited in this entry (in translation):
 
 [^treatise-1772]: *Treatise on the Origin of Language* (1772), in *Herder: Philosophical Writings*, Michael Forster (ed.), Cambridge: Cambridge University Press, 2002.
 

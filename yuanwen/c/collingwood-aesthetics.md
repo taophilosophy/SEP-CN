@@ -143,6 +143,8 @@ Finally, it is hard to swallow whole Collingwood’s distinction between art and
 
 ### Primary Literature
 
+For a more complete bibliography of Collingwood’s writings, see the Bibliography in the entry on Collingwood.
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -166,8 +168,6 @@ Aristotle, General Topics: aesthetics | Collingwood, Robin George | Croce, Bened
 [^note-1]: Davidson (2001, 219)[^davidson-2001], in one of his famous discussions of ‘triangulation’, credits Collingwood with the idea that consciousness of self necessarily involves that of others. Obviously there also are hints here of Wittgenstein's discussion of ‘private language’ (1953, §201, §243, and *passim*). But there are limits; see Wollheim (1980 §§21–5, §§45–50), and Kemp (2003)[^kemp-2003].
 
 [^note-2]: See Ridley (2002)[^ridley-2002] for more on this theme.
-
-[^for-nd]: For a more complete bibliography of Collingwood’s writings, see the Bibliography in the entry on Collingwood.
 
 [^collingwood-1938]: Collingwood, R. G., 1938, *The Principles of Art*, London: Oxford University Press.
 

@@ -315,6 +315,8 @@ The pluralistic conception of morality in the field of force idea goes beyond th
 
 #### A.1 Books
 
+Only one of her 26 novels is listed: *A Fairly Honorable Defeat*.
+
 #### A.2 Articles
 
 #### A.3 Interviews
@@ -371,9 +373,7 @@ The use of “will” solidifies the agentic dimension of the creation of the pe
 
 [^note-9]: We're not speaking of the extent or full causal significance of unconscious bias, issues of some controversy (see Saul & Brownstein 2016)[^saul-2016].
 
-[^only-nd]: Only one of her 26 novels is listed: *A Fairly Honorable Defeat*.
-
-[^only-1953]: 1953 [1987], *Sartre: Romantic Rationalist*, New Haven, CT: Yale University Press. Reprinted with a new, substantial, introduction by Murdoch, New York: Penguin Books, 1987.
+[^murdoch-1953]: 1953 [1987], *Sartre: Romantic Rationalist*, New Haven, CT: Yale University Press. Reprinted with a new, substantial, introduction by Murdoch, New York: Penguin Books, 1987.
 
 [^fhd-1970]: [FHD] 1970, *A Fairly Honorable Defeat*, New York: Penguin, 1970.
 

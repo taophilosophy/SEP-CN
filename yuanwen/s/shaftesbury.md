@@ -369,11 +369,21 @@ Commentators have recently brought attention to issues of sex and gender in Shaf
 
 ### Primary Sources
 
+For detailed lists of all of Shaftesbury’s writings—published, unpublished and in translation—see:
+
 #### *Characteristicks of Men, Manners, Opinions, Times*
+
+Recent editions:
+
+*Characteristicks* comprises six works. Versions of the first five (but not of the concluding *Miscelleneous Reflections*) were published earlier:
 
 #### Other notable works by Shaftesbury
 
 ### Secondary Sources
+
+Extensive bibliographies of works on Shaftesbury can be found at:
+
+The following are works referenced in this entry:
 
 ## Academic Tools
 
@@ -396,21 +406,15 @@ aesthetics: British, in the 18th century | Cambridge Platonists | contractariani
 
 [^shaftesbury’s-1981]: The most comprehensive collection of Shaftesbury’s writings is *Standard Edition: Complete Works, Selected Letters and Posthumous Writings*, edited by Wolfram Benda et al., Stuttgard-Bad Cannstatt: Frommann-Holzboog, 1981–present. Information on the *Standard Edition* can be found at: http://www.dozenten.anglistik/phil.uni-erlangen.de/shaftesbury/standard.html.
 
-[^for-nd]: For detailed lists of all of Shaftesbury’s writings—published, unpublished and in translation—see:
-
 [^shaftesbury-nd]: [The Shaftesbury Project](https://www.anglistik.phil.fau.de/fields/enst/lit/shaftesbury/shaftesbury-bibliography/works-correspondence-editions-and-translations/)
 
 [^selected-nd]: [Selected Bibliography by Laurent Jaffro](http://jaffro.net/SelectedShaftesbury.htm)
-
-[^recent-nd]: Recent editions:
 
 [^characteristicks-1999]: *Characteristicks of Men, Manners, Opinions, Times*, edited and with an introduction by Philip Ayers (in two volumes), Oxford: Oxford University Press, 1999. This edition includes *A Notion of the Historical Draught or Tablature of the Judgment of Hercules* and *A Letter concerning Design*.
 
 [^characteristics-1999]: *Characteristics of Men, Manners, Opinions, Times*, edited and with an introduction by Laurence E. Klein (in one volume), Cambridge: Cambridge University Press, 1999.
 
 [^characteristicks-2001]: [C] *Characteristicks of Men, Manners, Opinions, Times*, with a forward by Douglas Den Uyl (in three volumes), Indianapolis: Liberty Fund, 2001. This edition includes *A Notion of the Historical Draught or Tablature of the Judgment of Hercules*. [Liberty Fund edition available online](http://oll.libertyfund.org/titles/shaftesbury-characteristicks-of-men-manners-opinions-times-3-vols)
-
-[^characteristicks-nd]: *Characteristicks* comprises six works. Versions of the first five (but not of the concluding *Miscelleneous Reflections*) were published earlier:
 
 [^an-1699]: *An Inquiry Concerning Virtue, in two Discourses*, 1699.
 
@@ -440,15 +444,11 @@ aesthetics: British, in the 18th century | Cambridge Platonists | contractariani
 
 [^life-1900]: *The Life, Unpublished Letters, and Philosophical Regimen of Anthony, Earl of Shaftesbury, Author of the “Characteristics”*, edited by Benjamin Rand, London/New York, 1900, 1–272.
 
-[^extensive-nd]: Extensive bibliographies of works on Shaftesbury can be found at:
-
 [^reception-1700]: [Reception of Shaftesbury’s Works 1700–1850](https://www.anglistik.phil.fau.de/fields/enst/lit/shaftesbury/shaftesbury-bibliography/reception-of-shaftesburys-works-1700-1850/)
 
 [^shaftesbury-1850]: [Shaftesbury Scholarship 1850 to present day](https://www.anglistik.phil.fau.de/fields/enst/lit/shaftesbury/shaftesbury-bibliography/shaftesbury-scholarship-1850-to-present-day/)
 
 [^bibliographie-nd]: [Bibliographie des études relatives](http://jaffro.net/Shaftesbury.htm)
-
-[^bibliographie-nd-2]: The following are works referenced in this entry:
 
 [^allen-2010]: Allen, Stuart, 2010, “Shaftesbury, Wordsworth and Affective Critique,” in S. Allen, *Wordsworth and the Passions of Critical Poetics*, New York: Palgrave Macmillan, 1–24
 

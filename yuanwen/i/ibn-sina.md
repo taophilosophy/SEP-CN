@@ -135,6 +135,8 @@ There is thus a deeply ethical aspect to Avicenna’s philosophical system. The 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Apart from the references in the text, the bibliography also lists several recent studies on Avicenna along with some reference works. For a full list of Avicenna’s works in Arabic and Persian, their editions, translations, and studies, see the inventory in Gutas 2014a, also for further bibliography.
+
 ### Works by Ibn Sina
 
 | GL 4 | *The Science of Logic, in verse* (*Urjūza fī ʿilm* *al-manṭiq*). Text in *Manṭiq* *al-mashriqiyyīn wa-l-Qaṣīda al-muzdawija, taṣnīf al-Raʾīs Abī* *ʿAlī Ibn Sīnā*, Cairo 1910, pp. 1–18. Modern Latin translation in Aug. Schmoelders, *Documenta philosophiae Arabum*, Bonn 1836, pp. 26–42. |
@@ -207,8 +209,6 @@ Arabic and Islamic Philosophy, historical and methodological topics in: Greek so
 [^note-9]: This is the author’s translation of the Arabic translation, since this is what Avicenna read, in Akasoy and Fidora, 2005, pp. 560–561. It follows, with slight amendments, D.M. Dunlop’s translation given there.
 
 [^note-10]: The Arabic in Avicenna’s text here, as in Usṭāth’s translation of the *Metaphysics*, which he follows, reads, *fa-in kāna l-ilāhu abadan ka-ḥālinā fī waqtin mā*, which must be supplemented as follows to make acceptable Arabic, as done in the translation: *fa-in kāna* <*ḥālu*> *l-ilāhi abadan ka-ḥālina fī waqtin mā* (without this supplement the Arabic would mean, “if the deity is always like our state sometimes,” which makes little sense literally). The addition of the word *ḥāl* stands for the Greek οὕτως ἔχει, and the sentence then corresponds perfectly with the original Greek, εἰ οὖν οὕτως [εὖ] ἔχει ὡς ἡμεῖς ποτὲ ὁ θεὸς ἀεί, and Themistius’s paraphrase, which Avicenna was following closely, *fa-in kāna mā huwa li-llāhi dāʾiman bi-manzilati mā huwa la-nā fī baʿḍi l-awqāti, (*Badawī 1947, pp. 17–18)[^badawī-1947] where the repeated *mā* corresponds to the repeated *ḥāl* in Usṭāth’s translation. Since the word *ḥāl* is missing from all the available witnesses of Usṭāth’s translation (assuming the available editions are accurate), it must have fallen out of the text very early in its transmission (as a primitive error). By contrast, the word εὖ in the Greek is not translated in the Arabic (and it is thus secluded in the text above) but this is due to its absence in the Greek manuscript used by Usṭāth, as it is also absent in the extant Greek manuscript J (and in Themistius’s paraphrase as well), in whose tradition the Greek exemplar for Usṭāth’s translation and the manuscripts of Themistius must have belonged. See Gutas 2022 for details.
-
-[^apart-2014a]: Apart from the references in the text, the bibliography also lists several recent studies on Avicenna along with some reference works. For a full list of Avicenna’s works in Arabic and Persian, their editions, translations, and studies, see the inventory in Gutas 2014a, also for further bibliography.
 
 [^adamson-2004]: Adamson, P., 2004, “Non-Discursive Thought in Avicenna’s Commentary on the Theology of Aristotle,” in *Interpreting Avicenna: Science and Philosophy in Medieval Islam*, J. McGinnis (ed.), Leiden: Brill, pp. 87–111.
 

@@ -271,6 +271,8 @@ In the second half of the twentieth century, literary formalism shaped scholarly
 
 #### A.1 Fiction by George Eliot
 
+Abbreviations to cited texts are as follows; where applicable the abbreviation is followed by the volume number:
+
 #### A.2 Essays, articles and reviews by George Eliot
 
 #### A.3 Correspondence
@@ -299,8 +301,6 @@ In the second half of the twentieth century, literary formalism shaped scholarly
 aesthetics: 19th Century Romantic | Aristotle | Beauvoir, Simone de | Comte, Auguste | consequentialism | feminist philosophy, interventions: aesthetics | Feuerbach, Ludwig Andreas | Hegel, Georg Wilhelm Friedrich | Mill, John Stuart | Nietzsche, Friedrich | Spencer, Herbert | Spinoza, Baruch | Spinoza, Baruch: psychological theory | Theophrastus | utilitarianism: history of | Wollstonecraft, Mary
 
 [^all-1878]: All references to George Eliot’s fictional works are to the Cabinet Edition of her works. These volumes were all published in 1878 by John Blackwood in Edinburgh, with the exception of *Impressions of Theophrastus Such* which was published in 1879.
-
-[^abbreviations-nd]: Abbreviations to cited texts are as follows; where applicable the abbreviation is followed by the volume number:
 
 [^scl-1858]: [SCL] 1858, [*Scenes of Clerical Life*](https://georgeeliotarchive.org/items/show/6) (two volumes), London/Edinburgh: William Blackwood and Sons. Collects three previously published stories including:
 

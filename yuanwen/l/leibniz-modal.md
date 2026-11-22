@@ -157,6 +157,8 @@ In conclusion, it has been claimed throughout this piece that Leibniz advances h
 
 ### Secondary Sources
 
+See also the main entry on Leibniz.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=leibniz-modal). |
@@ -172,8 +174,6 @@ In conclusion, it has been claimed throughout this piece that Leibniz advances h
 ## Related Entries
 
 Aristotle, General Topics: metaphysics | Descartes, René: modal metaphysics | evil: problem of | fictionalism: modal | identity: of indiscernibles | identity: transworld | Kant, Immanuel: and Leibniz | Leibniz, Gottfried Wilhelm | Leibniz, Gottfried Wilhelm: ethics | Leibniz, Gottfried Wilhelm: on causation | Leibniz, Gottfried Wilhelm: on the problem of evil | Leibniz, Gottfried Wilhelm: philosophy of mind | Leibniz, Gottfried Wilhelm: philosophy of physics | logic, history of: modal logic | logic: modal | metaphysics | modality: epistemology of | modality: medieval theories of | multi-modal logic, philosophical aspects of | Newton, Isaac: philosophy | possibilism-actualism debate | possible objects | quantum mechanics: modal interpretations of | rationalism, early modern | Spinoza, Baruch: modal metaphysics
-
-[^see-nd]: See also the main entry on Leibniz.
 
 [^adams-1974]: Adams, Robert Merrihew, 1974. “Theories of Actuality,” *Noûs*, 8(3): 211–31.
 

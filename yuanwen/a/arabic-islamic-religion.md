@@ -322,6 +322,8 @@ In light of their denial that there is any objective, God-independent standard o
 
 ### Primary Sources
 
+Selections from several of the above are translated in
+
 ### Secondary Sources
 
 ## Academic Tools
@@ -499,8 +501,6 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 [^tirmidhī-nd]: Tirmidhī, Muḥammad ibn ʿAlī Ḥakīm (d. ca. 869)
 
 [^kitāb-1998]: *Kitāb Ithbāt al-ʿilal*, Khālid Zahrī (ed.), Rabat: Jāmiʻat Muḥammad al-Khāmis, Kulliyyat al-Ādāb wa-l-ʿUlūm al-Insāniyya, 1998.
-
-[^selections-nd]: Selections from several of the above are translated in
 
 [^mr07-2007]: [MR07] McGinnis, Jon and David C. Reisman (eds.), 2007, *Classical Arabic Philosophy: An Anthology of Sources*, Indianapolis, IN: Hackett Publishing Company.
 

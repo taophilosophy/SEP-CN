@@ -125,6 +125,8 @@ Although there is no reason to be overly sceptical about possible lines of conti
 
 ### Primary Literature
 
+Available collections of fragments:
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -146,8 +148,6 @@ Academy, Plato’s | Alexander of Aphrodisias | Aristotle | doxography of ancien
 ### Acknowledgments
 
 As of the 2025 update, Giulia De Cesaris has taken responsibility for updating and maintaining this entry.
-
-[^available-nd]: Available collections of fragments:
 
 [^heinze-1892]: Heinze, R., 1892 [1965], *Xenocrates*, Stuttgart: Teubner, 1892; reprinted, Hildesheim: G. Olms, 1965.
 

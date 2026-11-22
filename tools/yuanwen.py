@@ -921,7 +921,17 @@ def render_blocks(blocks, ctx):
             if not text:
                 continue
             if ctx.in_bib:
-                ctx.bib_entries.append((text, ctx.bib_section))
+                # 书目区散文段与 li/dl 条目不同流：条目收口是脚注定义（R 再重排
+                # 成 ul），而 `<p>` 是散文——折进定义会失去段落身份，且无年份者
+                # 落到 `-nd` 伪键（首词当作者，leibniz-exoteric 的键成了
+                # `note-nd`），被 R 的 note- 前缀排除、账的 pd 也定位不到，装配
+                # 时整段消失（h0_extra 骨干，33 件）。
+                # 无四位年份＝不可能是可引用条目 → 直接落段（文字照录）；
+                # 含年份者维持定义流（可能被正文引用，键语义照旧）。
+                if re.search(r'\b(1[6-9]\d\d|20\d\d)\b', text):
+                    ctx.bib_entries.append((text, ctx.bib_section))
+                else:
+                    ctx.emit('', _escape_leading_hash(text))
             else:
                 ctx.emit('', _escape_leading_hash(text))
         elif t == 'blockquote':

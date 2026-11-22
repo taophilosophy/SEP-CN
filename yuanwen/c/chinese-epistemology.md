@@ -265,6 +265,8 @@ This all-embracing, specifically Chinese tendency towards transcending abstract 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+In the above, “CTP” refers to the Chinese Text Project.
+
 ### Chinese Text Project
 
 ### Works Cited
@@ -291,8 +293,6 @@ This all-embracing, specifically Chinese tendency towards transcending abstract 
 ## Related Entries
 
 Chinese Philosophy: ethics | Chinese Philosophy: metaphysics | Chinese Philosophy: mind (heart-mind) | Chinese Philosophy: Mohism | Chinese Philosophy: Mohist Canons | comparative philosophy: Chinese and Western | Confucius | Daoism | Laozi | Mencius | Neo-Daoism | School of Names | Xunzi | Zhuangzi
-
-[^ctp-nd]: In the above, “CTP” refers to the Chinese Text Project.
 
 [^gongsun-nd]: Gongsun Lonzi, *Pre-Qin and Han*, URL = <[http://ctext.org/gongsunlongzi](http://ctext.org/gongsunlongzi)>.
 

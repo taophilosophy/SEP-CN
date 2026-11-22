@@ -400,12 +400,16 @@ Bolzano had also effect upon some great figures of Bohemian cultural life such a
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+In this bibliography the following abbreviations will be used:
+
 | [BGA] | *Bernard-Bolzano-Gesamtausgabe*, with a Roman numeral for the series and Arabic numerals for the volumes; if a volume consists of two or more parts, the reference to them will appear after a dash in Arabic numerals. The BGA is published by Friedrich Frommann Verlag–Günther Holzboog in Stuttgart-Bad Cannstatt. |
 | --- | --- |
 | [RW] | Bolzano 1834, with Roman numerals for the volumes and Arabic numerals for the pages of the original edition. |
 | [WL] | Bolzano 1837, with Roman numerals for the volumes and Arabic numerals for the pages of the original edition. |
 | [BBF] | *Beiträge zur Bolzano-Forschung*, 28 volumes so far. The BBF are published by Academia Verlag in Sankt Augustin and edited by Edgar Morscher and Otto Neumaier; from vol.23 on: edited by Winfried Löffler and Otto Neumaier. |
 | [E] | English translation (or edition). |
+
+This bibliography is divided into two parts: Bolzano’s writings and Secondary literature.
 
 ### Bolzano’s Writings
 
@@ -472,10 +476,6 @@ analysis | Bolzano, Bernard: logic | Frege, Gottlob | Husserl, Edmund | logical 
 I am indebted to Maria Reicher, Robin Rollinger, Steve Russ, Peter Simons, and to Anneliese Mueller for their help in preparing this article, and in particular to the subject and administrative editors of Stanford Encyclopedia of Philosophy for their valuable corrections and improvements.
 
 [^bolzano’s-1969]: The complete edition of Bolzano’s works (*Bernard-Bolzano-Gesamtausgabe*) was founded by Jan Berg and Eduard Winter together with the publisher Günther Holzboog, and it started in 1969. Since then 99 volumes have already appeared, and about 37 more are forthcoming. The editors were, apart from Jan Berg and Eduard Winter, Friedrich Kambartel, Jaromir Loužíl, Edgar Morscher and Bob van Rootselaar. The acting editor is Edgar Morscher.
-
-[^bolzano’s-nd]: In this bibliography the following abbreviations will be used:
-
-[^this-nd]: This bibliography is divided into two parts: Bolzano’s writings and Secondary literature.
 
 [^benthem-1984]: Benthem, Johan van, 1984, *Lessons from Bolzano*, Stanford: Center for the Study of Language and Information [Series: *Report*, no. CSLI–84–6].
 

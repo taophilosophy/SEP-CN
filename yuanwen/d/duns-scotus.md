@@ -205,6 +205,8 @@ Where Scotus is not so consistent is in his use of Anselm’s theory of the two 
 
 ### Primary texts in English translation
 
+(See also Other Internet Resources, below.)
+
 ### Secondary literature
 
 ## Academic Tools
@@ -242,8 +244,6 @@ analogy: medieval theories of | Anselm of Canterbury [Anselm of Bec] | Aquinas, 
 [^reportatio-nd]: *Reportatio I-A. The Examined Report of the Paris Lecture*, ed. and trans. Allan B. Wolter and Oleg V. Bychkov. Franciscan Institute Publications. 2 vols., Latin and English on facing pages.
 
 [^reportatio-nd-2]: *Reportatio IV-A: The Report of the Paris Lecture*, ed. and trans. Oleg V. Bychkov and R. Trent Pomplun. Franciscan Institute Publications. 2 vols., Latin and English on facing pages.
-
-[^see-nd]: (See also Other Internet Resources, below.)
 
 [^buckner-2014]: Buckner, Edward, and Jack Zupko (trans., eds.), 2014. *Duns Scotus on Time and Existence: The Questions on* ‘De Interpretatione’, Washington, DC: Catholic University of America Press.
 

@@ -271,6 +271,8 @@ On the other hand, it also seems reasonable to argue that this conception of hum
 
 ### Primary sources
 
+Works by Dai Zhen 戴震.
+
 ### Secondary sources
 
 ## Academic Tools
@@ -298,8 +300,6 @@ Chinese Confucianism: Modern Confucianism | Chinese Philosophy: ethics | Chinese
 [^note-2]: The account in this section draws on Dai Zhen’s letters and Duan Yucai’s chronicle of Dai’s life, along with Yang’s supplementary notes on this chronicle. See DZQS 7, 132–190, and Cai 2006.
 
 [^note-3]: References to the *Mengzi Ziyi Shuzheng* (abbreviated “*Sz*”) give Dai’s section numbers in the work.
-
-[^works-nd]: Works by Dai Zhen 戴震.
 
 [^sz-1961]: [*Sz*] *Mengzi Ziyi Shuzheng* 孟子字義疏證 (*Evidential Commentary on the Meaning of Terms in the Mencius*), He Wenguang 何文光 (ed.), Bejing: Zhonghua, 1961.
 

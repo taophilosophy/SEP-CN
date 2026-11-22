@@ -253,6 +253,8 @@ Scholars have devoted little attention to William’s influence on later writers
 
 ### Primary Texts in Modern Translation
 
+The following books all contain useful detailed outlines of the contents of the works translated.
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -292,8 +294,6 @@ Arabic and Islamic Philosophy, historical and methodological topics in: influenc
 [^o’donnell-1954]: ––– (ed.), 1954, “Tractatus secundus Guillelmi Alvernensis *De bono et malo*”, *Mediaeval Studies*, 16: 219–271. This work is also known as *De paupertate spirituali*.
 
 [^switalski-1976]: Switalski, Bruno (ed.), 1976, *De Trinitate*, Toronto: Pontifical Institute of Mediaeval Studies.
-
-[^william-auvergne-nd]: The following books all contain useful detailed outlines of the contents of the works translated.
 
 [^brenet-1998]: Brenet, Jean-Baptiste (trans.), 1998, *De l’âme (VII, 1–9)*, Paris: Vrin. French translation of parts of *De anima*.
 

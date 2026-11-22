@@ -431,6 +431,8 @@ At the end of this passage, Nietzsche does hint at a role for morality as well �
 
 ### A. Nietzsche’s Writings and Key to Citations
 
+Nietzsche’s works are cited as follows, unless otherwise noted: roman numerals refer to major parts or chapters in Nietzsche’s works; Arabic numerals refer to sections, not pages.
+
 ### B. References and Works on Nietzsche’s Moral and Political Philosophy
 
 ## Academic Tools
@@ -456,8 +458,6 @@ At the end of this passage, Nietzsche does hint at a role for morality as well �
 ethics: virtue | free will | moral anti-realism | moral realism | moral sentimentalism | Nietzsche, Friedrich | Nietzsche, Friedrich: aesthetics | Nietzsche, Friedrich: life and works | Schopenhauer, Arthur | skepticism: about moral responsibility
 
 [^for-1980]: For untranslated material and emendations to existing translations, I have relied on Friedrich Nietzsche, *Sämtliche Werke: Kritische Studienausgabe in 15 Bänden*, ed. G. Colli & M. Montinari (Berlin: de Gruyter, 1980); this is cited as KSA, followed by the volume number, a colon, and the fragment number(s).
-
-[^nietzsche’s-nd]: Nietzsche’s works are cited as follows, unless otherwise noted: roman numerals refer to major parts or chapters in Nietzsche’s works; Arabic numerals refer to sections, not pages.
 
 [^antichrist-nd]: *The Antichrist*, in *The Portable Nietzsche* (below). Cited as A.
 

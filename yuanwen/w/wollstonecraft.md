@@ -109,9 +109,15 @@ Whether Wollstonecraft is best seen as belonging to one tradition or any other w
 
 #### Translations by Mary Wollstonecraft
 
+All three works are included in *Works*.
+
 #### Other works
 
+All included in *Works*.
+
 #### Posthumous publications
+
+All incomplete and in *Works*
 
 #### Other Primary Works of Relevance
 
@@ -119,11 +125,15 @@ Whether Wollstonecraft is best seen as belonging to one tradition or any other w
 
 #### Letters
 
+A selection:
+
 ### Bibliographies
 
 ### Biographies
 
 ### Studies
+
+The following is a selection. Note also, the introductions to the various editions of Wollstonecraft’s works listed above.
 
 ## Academic Tools
 
@@ -185,23 +195,17 @@ Burke, Edmund | feminist philosophy, interventions: ethics | feminist philosophy
 
 [^edited-1987]: Edited by Richard Holmes, in *Mary Wollstonecraft and William Godwin, A Short Residence in Sweden, Norway and Denmark and Memoirs of the Author of “The Rights of Woman”*, London: Penguin, 1987.
 
-[^all-nd]: All three works are included in *Works*.
-
 [^importance-1788]: *Of the Importance of Religious Opinions. Translated from the French of Mr*. *(Jacques) Necker*. London: Joseph Johnson, 1788; Dublin, 1788; Philadelphia, 1791.
 
 [^elements-1790]: *Elements of Morality for the use of children; with an Introductory Address to Parents. Translated from the German of the Rev. C(hristian) G(otthilf) Salzmann*. 2 vols., London: Joseph Johnson, 1790; 3 vols., 1792 with illustrations; first edition reprinted, 1793.
 
 [^young-1790]: *Young Grandison. A Series of Letters from Young Persons to their friends>. Translated from the Dutch of Madame (Maria Geertruida van de Werken) de Cambon. With Alterations and Improvements*. 2 vols. London: Joseph Johnson, 1790; Dublin, 1790.
 
-[^all-nd-2]: All included in *Works*.
-
 [^reviews-1788]: Reviews in *Analytical Review*, 1788–1792, 1796–1797.
 
 [^poetry-1797]: “On Poetry and Our Relish for the Beauties of Nature”, *Monthly Magazine*, April, 1797, pp. 279–82.
 
 [^posthumous-1798]: *Posthumous Works of the Author of a Vindication of the Rights of Woman*, William Godwin ed., London: Joseph Johnson, 1798.
-
-[^all-nd-3]: All incomplete and in *Works*
 
 [^wrongs-1796]: *The Wrongs of Woman, or Maria. A Fragment*. Begun in 1796.
 
@@ -227,8 +231,6 @@ Burke, Edmund | feminist philosophy, interventions: ethics | feminist philosophy
 
 [^wollstonecraft-1977]: *A Wollstonecraft Anthology*, Janet Todd (ed.), Bloomington, Indiana: Indiana University Press, 1977, 1989.
 
-[^wollstonecraft-nd]: A selection:
-
 [^todd-nd]: Todd, Janet and Marilyn Butler, eds., *Works*, cited above.
 
 [^wardle-1979]: Wardle, Ralph, M, ed. 1979, *Collected Letters of Mary Wollstonecraft, .* Ithaca: Cornell University Press.
@@ -250,8 +252,6 @@ Burke, Edmund | feminist philosophy, interventions: ethics | feminist philosophy
 [^todd-2000]: Todd, Janet, 2000, *Mary Wollstonecraft: a revolutionary life*, London: Weidenfel and Nicholson.
 
 [^tomalin-1992]: Tomalin, Claire, 1992, *The Life and Death of Mary Wollstonecraft*, revised edition, London: Penguin Books.
-
-[^note-nd]: The following is a selection. Note also, the introductions to the various editions of Wollstonecraft’s works listed above.
 
 [^abbey-1999]: Abbey, Ruth, 1999, “Back to the Future: Marriage as Friendship in the Thought of Mary Wollstonecraft”, *Hypatia*, 14(3): 78–95.
 

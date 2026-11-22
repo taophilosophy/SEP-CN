@@ -275,6 +275,10 @@ In the past three decades there has been a renewed interest in Bosanquet’s wor
 
 ### Primary Literature: Works by Bosanquet
 
+Two recent editions of Bosanquet’s work are:
+
+Several of Bosanquet’s undergraduate essays appear in:
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -339,13 +343,9 @@ Bradley, Francis Herbert | Croce, Benedetto | Green, Thomas Hill | idealism | id
 
 [^science-1927]: *Science and Philosophy and Other Essays by the Late Bernard Bosanquet*, J.H. Muirhead and R.C. Bosanquet (eds), London: Allen and Unwin, 1927.
 
-[^two-nd]: Two recent editions of Bosanquet’s work are:
-
 [^philosophical-2001]: *The Philosophical Theory of the State and Related Essays by Bernard Bosanquet*, with Introductions, notes, and annotations by William Sweet and Gerald F. Gaus (eds), Bristol, UK: Thoemmes Press/South Bend, IN: St Augustine’s Press [distributed by University of Chicago Press], 2001.
 
 [^essays-1883]: *Essays in Philosophy and Social Policy, 1883–1922*, William Sweet (ed.), 3 volumes, Bristol, UK: Thoemmes Press, 2003.
-
-[^several-nd]: Several of Bosanquet’s undergraduate essays appear in:
 
 [^unpublished-2005]: *Unpublished Manuscripts in British Idealism; Political Philosophy, Theology and Social Thought*, Colin Tyler (ed.), 2 vols. Bristol: Thoemmes Press, 2005; reprinted, Exeter: Imprint Academic, 2008.
 

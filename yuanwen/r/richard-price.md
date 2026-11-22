@@ -367,7 +367,13 @@ Interest in Price was to some degree revived by books by Roland Thomas (1924)[^t
 
 #### Works by Richard Price
 
+There is currently no up to date complete edition of Price’s works. The relevant historical editions of his works discussed in this article are:
+
+Modern Editions are:
+
 #### Influences on Price
+
+An extensive collection of extracts from the above authors can be found in:
 
 ### Secondary Literature
 
@@ -394,8 +400,6 @@ Butler, Joseph: moral philosophy | Cambridge Platonists | Clarke, Samuel | Hume,
 
 I am very grateful to Eve Garrard and John Roberts for their considerable help and encouragement.
 
-[^there-nd]: There is currently no up to date complete edition of Price’s works. The relevant historical editions of his works discussed in this article are:
-
 [^price-1759]: 1759, *Britain’s Happiness, and the Proper Improvement of it*, London: A. Millar and R. Griffiths.
 
 [^price-1768]: [D] 1768 [1777], *Four Dissertations*, London: A. Millar and T. Cadell. The fourth edition is 1777. [[D available online](https://archive.org/details/fourdissertatio00pricgoog/page/n7)]
@@ -411,8 +415,6 @@ I am very grateful to Eve Garrard and John Roberts for their considerable help a
 [^price-1787b]: 1787b, *Sermons on the Christian Doctrines as received by the different Denominations of Christians*, London. [[Price 1787b available online](https://archive.org/details/sermonsonchristlond00pric/page/n6)]
 
 [^price-1816]: 1816, *Sermons on Various Subjects*, in William Morgan (ed.), *The Works of Dr. Richard Price. With Memoirs of His Life*, London: R. Rees, [available online](https://books.google.com/books?id=sHz9iW9JgHkC&printsec=frontcover#v=onepage&q&f=false).
-
-[^modern-nd]: Modern Editions are:
 
 [^price-1948]: [R] 1948, *A Review of the Principal Questions in Morals*, D. D. Raphael (ed.), Oxford: Oxford University Press.
 
@@ -461,8 +463,6 @@ I am very grateful to Eve Garrard and John Roberts for their considerable help a
 [^smith-1759]: Smith, Adam, 1759 [2010], *The Theory of Moral Sentiments* in *Adam Smith: The Theory of Moral Sentiments*, Amartya Sen (ed.), Harmondsworth: Penguin Classics, 2010.
 
 [^wollaston-1724]: Wollaston, William, 1724 [1978],*The Religion of Nature Delineated* (New York & London: Garland Publishing, 1978).
-
-[^an-nd]: An extensive collection of extracts from the above authors can be found in:
 
 [^raphael-1969]: Raphael, D. Daiches, 1969, *British Moralists 1650–1800*, Oxford: Oxford University Press.
 

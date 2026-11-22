@@ -181,6 +181,10 @@ Although What Is in Parmenides has its nearest analogue in these divine principl
 
 ### Primary Sources
 
+The standard collection of the fragments of the Presocratics and sophists, together with testimonia pertaining to their lives and thought, remains:
+
+The principal editions or other presentations of the fragments of Parmenides’ poem and testimonia include:
+
 ### Secondary Sources
 
 ## Academic Tools
@@ -201,11 +205,7 @@ monism | Presocratic Philosophy | Xenophanes | Zeno of Elea
 
 [^references-1980]: References to items prior to 1980 are much more selective than those to more recent items. For a nearly exhaustive, annotated listing of Parmenidean scholarship down to 1980, consult L. Paquet, M. Roussel, and Y. Lafrance, *Les Présocratiques: Bibliographie analytique (1879–1980)*, vol. 2, Montreal: Bellarmin/Paris: Les Belles Lettres, 1989, pp. 19–104.
 
-[^presocratics-nd]: The standard collection of the fragments of the Presocratics and sophists, together with testimonia pertaining to their lives and thought, remains:
-
 [^diels-1951]: Diels, H., and W. Kranz, *Die Fragmente der Vorsokratiker*, 6th edn. Berlin: Weidmann, 1951–52.
-
-[^parmenides’-nd]: The principal editions or other presentations of the fragments of Parmenides’ poem and testimonia include:
 
 [^cassin-1998]: Cassin, B., 1998. *Parménide: Sur la nature ou sur l’Étant. La langue de l’étre*, Paris: Éditions de Seuil.
 

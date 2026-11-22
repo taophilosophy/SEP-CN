@@ -205,6 +205,8 @@ Of course, the question of what an outside observer may infer from another perso
 
 #### Spinoza’s Work
 
+Curley’s translation is used for the passages quoted here. Students of Spinoza in English should be especially attentive to the fact that different translators give widely different translations for Spinoza’s particular affects.
+
 #### Other Primary Literature
 
 ### Secondary Literature
@@ -224,8 +226,6 @@ Of course, the question of what an outside observer may infer from another perso
 ## Related Entries
 
 Descartes, René | emotion: 17th and 18th century theories of | Hobbes, Thomas | Spinoza, Baruch Spinoza-political |
-
-[^curley’s-nd]: Curley’s translation is used for the passages quoted here. Students of Spinoza in English should be especially attentive to the fact that different translators give widely different translations for Spinoza’s particular affects.
 
 [^spinoza-1925]: *Spinoza Opera*, Carl Gebhart (ed.), 4 volumes, Heidelberg: Carl Winter, 1925.
 

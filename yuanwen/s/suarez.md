@@ -391,6 +391,8 @@ For war to be morally permissible, is it necessary that, in addition to having a
 
 ### Suárez in English Translation
 
+See Sydney Penner’s excellent website: [Suarez in English Translation](http://www.sydneypenner.ca/SuarTr.shtml).
+
 ### Works Cited and Secondary Literature in English
 
 ## Academic Tools
@@ -476,8 +478,6 @@ Cited from Martini 1998: 489–490, with thanks to Luisa Paternicò for providin
 [^conselhos-1948]: *Conselhos e Pareceres*, 3 vols, Coimbra: Biblioteca Geral da Universidade de Coimbra, 1948–1952.
 
 [^opera-1856]: *Opera omnia*, M. André and C. Berton (eds.) 28 vols. Paris: Ludovicus Vivès, 1856–1878.
-
-[^see-nd]: See Sydney Penner’s excellent website: [Suarez in English Translation](http://www.sydneypenner.ca/SuarTr.shtml).
 
 [^agostini-2008]: Agostini, Igor, 2008, *L’infinità di Dio: Il Dibattito da Suárez a Caterus (1597–1641)*, Rome: Editori Riuniti.
 

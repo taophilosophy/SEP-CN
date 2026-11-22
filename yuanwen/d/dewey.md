@@ -470,6 +470,10 @@ Dewey thought his call for a common faith was deeply democratic. The idea of the
 
 #### Collections
 
+This critical edition was also published in electronic form as:
+
+In-text citations give the original publication date, series abbreviation, followed by volume and page number. For example LW10: 12 refers to page 12 of *Art as Experience*, which is published as volume 10 of *The Later Works*.
+
 #### Abbreviations of Dewey works frequently cited
 
 #### Individual works
@@ -723,11 +727,7 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 
 [^lw-1981]: [LW] 1981, *The Later Works*, 1925–1953, 17 volumes.
 
-[^this-nd]: This critical edition was also published in electronic form as:
-
 [^collected-1882]: *The Collected Works of John Dewey, 1882–1953: The Electronic Edition*, Larry A. Hickman (ed.), Charlottesville, Va.: InteLex Corporation, 1996, [available online](http://www.nlx.com/collections/133). To insure uniformity of citation, the electronic edition preserves the line and page breaks of the print edition.
-
-[^in-text-nd]: In-text citations give the original publication date, series abbreviation, followed by volume and page number. For example LW10: 12 refers to page 12 of *Art as Experience*, which is published as volume 10 of *The Later Works*.
 
 [^acf-1934a]: [*ACF*] 1934a, *A Common Faith*
 

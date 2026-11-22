@@ -139,6 +139,8 @@ This example shows that Fakhr al-Dīn was not simply reacting to Avicennan *fals
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+For a full bibliography see:
+
 ### Primary literature
 
 ### Secondary literature
@@ -163,8 +165,6 @@ Abū l-Barakāt | Aristotle, General Topics: logic | Ibn Sina [Avicenna] | Ibn S
 ### Acknowledgments
 
 Our thanks to Hanif Amin Beidokhti, Merve Boz, Damien Janos, Andreas Lammer, Michael Sebastian Noble, and Sarah Virgi for help with this article.
-
-[^for-nd]: For a full bibliography see:
 
 [^janos-2023]: Janos, Damien and Muhammad Fariduddin Attar, 2023, *A Comprehensive, Annotated, and Indexed Bibliography of the Modern Scholarship on Fakhr al-Dīn al-Rāzī*, (Handbook of Oriental Studies. Section 1 the Near and Middle East, 171), Leiden/Boston: Brill.
 

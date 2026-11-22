@@ -569,6 +569,8 @@ To sum up, though this entry provides just an overview of the theory of the two 
 
 ### Primary Literature
 
+Note: In the citations like *Mngon pa* khu 166b–167a), *Tshad ma* che 108b–109a) etc., *Mngon pa* and *Tshad ma* are the names of the classificatory disciplines and khu 166b–167a, che 108b–109a etc., are volume titles and numbers.
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -618,8 +620,6 @@ Indian Philosophy (Classical): perceptual experience and concepts | Madhyamaka |
 [^note-14]: An earlier version of the neither-one-nor many argument appears in the work of Śrigupta, Jñāgarbha’s teacher who is himself recognised to be Śāntarakṣita’s teacher. Śrigupta advances the argument as follows: “In reality everything, both inside and out, is empty, because it is neither one nor many, like a reflection.” See Eckel, (1987: 22). Similarly Jetāri, Dharmakīrti etc., also employs this argument. See Blumenthal (2004: 61).
 
 [^note-15]: Śāntarakṣita on the pervasion of the neither-one-nor-many argument, see Blumenthal (2004: 137-139).
-
-[^note-nd]: Note: In the citations like *Mngon pa* khu 166b–167a), *Tshad ma* che 108b–109a) etc., *Mngon pa* and *Tshad ma* are the names of the classificatory disciplines and khu 166b–167a, che 108b–109a etc., are volume titles and numbers.
 
 [^four-1998]: Āryadeva, *Four Hundred Verses* (*Catuḥśataka*, tsha 1b–18a), Sde dge edition of the Bstan ‘gyur, Dharmasala: Paljor Press, 1998. For Gyel-tsap’s full commentary in Enlish translation see:
 

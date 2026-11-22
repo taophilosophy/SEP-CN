@@ -369,6 +369,8 @@ According to some, rather than suggesting that humans are irrational, the releva
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Pagination of in-text citations follows that of the reprint, where page numbers for the latter are given below.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epistemology-naturalized). |
@@ -467,8 +469,6 @@ Cf. too Sosa, who is not usually thought of as a leading standard-bearer for NE:
 [^note-27]: Cf. Kappel (2011: 846)[^kappel-2011]: “…why pay so much attention to our actual considered set of epistemic judgments, or our actual epistemic concepts? Why not turn directly to the problem of devising better ways of reasoning and conducting inquiry?”
 
 [^note-28]: See Rysiew (2008)[^rysiew-2008], which surveys the rationality debate and its relation to epistemological theorizing; Rysiew (2012)[^rysiew-2012] provides an annotated bibliography of many of the relevant major works.
-
-[^pagination-nd]: Pagination of in-text citations follows that of the reprint, where page numbers for the latter are given below.
 
 [^alexander-2010]: Alexander, Joshua, Ronald Mallon, and Jonathan M. Weinberg, 2010, “Accentuate the Negative”, *Review of Philosophy and Psychology*, 1(2): 297–314.
 

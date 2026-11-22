@@ -639,6 +639,8 @@ Of course, the small sample presented here does not include every logical system
 
 ### Further Reading
 
+There are many fine textbooks on mathematical logic. A sample follows.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-classical). |
@@ -744,8 +746,6 @@ logic: free | logic: infinitary | logic: intuitionistic | logic: linear | logic:
 [^wang-1974]: Wang, Hao, 1974, *From Mathematics to Philosophy*, London: Routledge and Kegan Paul.
 
 [^williamson-2017]: Williamson, Timothy, 2017, “Semantic Paradoxes and Abductive Methodology”, in *Reflections on the liar*, Bradley Armour-Garb (ed.), Oxford: Oxford University Press, pp. 325–346.
-
-[^there-nd]: There are many fine textbooks on mathematical logic. A sample follows.
 
 [^boolos-2007]: Boolos, George S., John P. Burgess, and Richard C. Jeffrey, 2007, *Computability and Logic*, fifth edition, Cambridge, England: Cambridge University Press. Elementary and intermediate level.
 

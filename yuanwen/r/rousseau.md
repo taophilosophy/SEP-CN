@@ -127,6 +127,8 @@ In contemporary political philosophy, it is clear that the thinking of John Rawl
 
 ### Principal works by Rousseau
 
+Accessible English translations of major works include:
+
 ### Works about Rousseau
 
 ### Biographies of Rousseau
@@ -157,8 +159,6 @@ The author would like to thank Jason Swadley Canon, Robin Douglass, Charles Gris
 [^oeuvres-2008]: A major work that is not included in the *Oeuvres complètes* in a satisfactory form is *Principes du droit de la guerre* published together with *Écrits sur la paix perpetuelle*, Bruno Bernardi and Gabriella Silvestrini (eds), Paris: Vrin, 2008. (This volume is part of a series of texts, studies and commentaries that are invaluable for extending our understanding of Rousseau’s work.)
 
 [^english-1990]: The most comprehensive English edition of Rousseau’s works is *Collected Writings* (13 volumes), Roger Masters and Christopher Kelly (eds.), Dartmouth: University Press of New England, 1990–2010. The individual works below are included in each of these editions.
-
-[^accessible-nd]: Accessible English translations of major works include:
 
 [^discourses-1997]: *The Discourses and Other Early Political Writings*, Victor Gourevitch (ed. and trans.), Cambridge: Cambridge University Press, 1997.
 

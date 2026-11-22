@@ -167,6 +167,8 @@ It does not seem that Ratnakīrti resolves these contradictions explicitly. Yet 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Note: A systematic overview of research literature on Ratnakīrti’s works can be found on “EAST—Epistemology and Argumentation in South Asia and Tibet” (https://east.ikga.oeaw.ac.at/data/32/).
+
 ### Abbreviations
 
 **AS**
@@ -366,8 +368,6 @@ with a reading given in Bühnemann 1980: 98, n40: *nāpi saptamaḥ, duḥkhe vi
 > [Opponent:] If a *yogin* simultaneously sees [things] through both [faculties,] direct mental perception and direct sense perception, then would it not follow, [contrary to your principles,] that two cognitive forms are manifest [simultaneously]? [Proponent:] True! To begin with, the cognitive form belonging to the awareness of the [first noble] truth cannot be in a different location than the thing [being perceived through the senses,] because [otherwise] one awareness or the other would be erroneous. So who could determine in what manner these two cognitive forms, which do not oppose each other, appear? This was said [also by Dharmakīrti:] “The state of *yogin*-s is inconceivable”. (PV 3.530d)
 
 I follow the German translation in Bühnemann 1980: 66. SJS, 23, 3–6: *nanu yogino manovijñā nendriyajñānābhyāṃ paśyata ākāradvayasphuraṇaprasaṅga iti cet. satyam. satyajñānākāras tāvad vastuno na bhinnadeśo ’nyatarabhrāntiprasaṅgāt. atas tāv ākārāv apratighau kayā gatyā sphurata iti ko nirṇetuṃ kṣamaḥ. yad āha: “acintyā yogināṃ gatir” iti.*
-
-[^note-nd]: Note: A systematic overview of research literature on Ratnakīrti’s works can be found on “EAST—Epistemology and Argumentation in South Asia and Tibet” (https://east.ikga.oeaw.ac.at/data/32/).
 
 [^bühnemann-1980]: Bühnemann, Gudrun, 1980, *Der allwissende Buddha: ein Beweis und seine Probleme: Ratnakīrtis Sarvajñasiddhi* (Wiener Studien zur Tibetologie und Buddhismuskunde 4), Wien: Arbeitskreis für Tibetische und Buddhistische Studien, Universität Wien.
 

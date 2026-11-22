@@ -343,6 +343,8 @@ This entry will be supplemented by a further entry on axiomatizations of set the
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Most of the original sources surrounding Zermelo's work were written in German, and some in French; when translations of these works into English are available, bibliographic information for the translations follows the citation of the original text. Similarly for older, relatively inaccessible texts that have been republished in more current works.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=zermelo-set-theory). |
@@ -442,8 +444,6 @@ Russell’s paradox | set theory | set theory: alternative axiomatic theories | 
 [^note-37]: These lectures can be found in Chapter 2 of Ewald et al. 2013; see also the Introduction to this chapter, §4.2.
 
 [^note-38]: For an account of the Axiom of Replacement, and in particular von Neumann's work with it, see Kanamori 2012.
-
-[^most-nd]: Most of the original sources surrounding Zermelo's work were written in German, and some in French; when translations of these works into English are available, bibliographic information for the translations follows the citation of the original text. Similarly for older, relatively inaccessible texts that have been republished in more current works.
 
 [^bell-2009]: Bell, J., 2009, *The Axiom of Choice*, London: College Publications.
 

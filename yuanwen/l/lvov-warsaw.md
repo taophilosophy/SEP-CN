@@ -176,6 +176,8 @@ As far as the matter concerns international importance, one thing is clear. The 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The bibliography is divided into two sections. The first contains writings of the LWS in Western languages, the second writings on the LWS and its particular representatives.
+
 ### Works of the LWS
 
 #### A. Anthologies
@@ -220,8 +222,6 @@ logic: many-valued | mereology | Tarski, Alfred | Tarski, Alfred: truth definiti
 ### Acknowledgments
 
 The author and editors would like to thank Branden Fitelson for supplying a correction to this entry after publication.
-
-[^lws-nd]: The bibliography is divided into two sections. The first contains writings of the LWS in Western languages, the second writings on the LWS and its particular representatives.
 
 [^mccall-1967]: McCall, S. (ed.), 1967, *Polish Logic 1920–1939*, Oxford: Clarendon Press.
 

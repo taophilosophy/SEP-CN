@@ -129,9 +129,15 @@ Most scholars of Aristotle advisedly make no attempt to show that he is aligned 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Passages in Plato are cited in a similar fashion, except the line references are to the Stephanus edition of 1578 in which pages were divided into five parts (“a” through “e”).
+
+**Caveat on Bibliography.** Although fairly extensive, this bibliography represents only a fraction of the secondary literature in English. However, the items cited here contain many references to other valuable scholarly work in other languages as well as in English.
+
 ### A. Greek Text of Aristotle’s *Politics*
 
 ### B. English Translations of Aristotle’s *Politics*
+
+The Clarendon Aristotle Series (Oxford University Press) includes translation and commentary of the *Politics* in four volumes:
 
 ### C. Anthologies
 
@@ -181,10 +187,6 @@ Aristotle, General Topics: biology | Aristotle, General Topics: ethics | Aristot
 
 [^note-1831]: **Note on Citations**. Passages in Aristotle are cited as follows: title of treatise (italics), book (Roman numeral), chapter (Arabic numeral), line reference. Line references are keyed to the 1831 edition of Immanuel Bekker which had two columns (“a” and “b”) on each page. *Politics* is abbreviated as *Pol.* and *Nicomachean Ethics* as *NE*. In this article, “*Pol*. I.2.1252b27”, for example, refers to *Politics* book I, chapter 2, page 1252, column b, line 27. Most translations include the Bekker page number with column letter in the margin followed by every fifth line number.
 
-[^passages-nd]: Passages in Plato are cited in a similar fashion, except the line references are to the Stephanus edition of 1578 in which pages were divided into five parts (“a” through “e”).
-
-[^caveat-nd]: **Caveat on Bibliography.** Although fairly extensive, this bibliography represents only a fraction of the secondary literature in English. However, the items cited here contain many references to other valuable scholarly work in other languages as well as in English.
-
 [^dreizehnter-1970]: Dreizehnter, Alois, *Aristoteles’ Politik*, Munich: Wilhelm Fink, 1970 [generally the most reliable critical edition].
 
 [^ross-1957]: Ross, W. D., *Aristotelis Politica*, Oxford: Oxford University Press, 1957.
@@ -202,8 +204,6 @@ Aristotle, General Topics: biology | Aristotle, General Topics: ethics | Aristot
 [^simpson-1996]: Simpson, Peter L. P., Chapel Hill: University of North Carolina Press, 1996.
 
 [^sinclair-1983]: Sinclair, T. A., revised by Trevor J. Saunders, Harmondsworth: Penguin, 1983.
-
-[^clarendon-nd]: The Clarendon Aristotle Series (Oxford University Press) includes translation and commentary of the *Politics* in four volumes:
 
 [^trevor-1995]: Trevor J. Saunders, *Politics* I–II (1995).
 

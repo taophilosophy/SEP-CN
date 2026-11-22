@@ -99,6 +99,8 @@ There is no information concerning the impact of Alexander’s teaching in his l
 
 #### 2. English translations of the commentaries (with notes):
 
+Richard Sorabji (gen. ed.), London: Duckworth, Ithaca: Cornell University Press. Later: London: Bristol Classical Press. Presently: London: Bloomsbury Publishing.
+
 #### 3. Other translations of the commentaries (with notes)
 
 #### 4. Major Treatises
@@ -168,8 +170,6 @@ Aristotelianism: in the Renaissance | Aristotle | Aristotle, commentators on | E
 [^alexander-2008]: *Alexander Aphrodisias: Enarratio de anima ex Aristotelis institutione*, Hieronymus Donatus (trans.), reprint of first edition Brescia 1495 (with intr. by Eckard Kessler). *Commentaria in Aristotelem Graeca: Versiones latinae temporis resuctitatarum litterarum*, (CAGL.) 13, Stuttgart: Frommann-Holzboog, 2008.
 
 [^alexander-2010]: Alexander von Aphrodisias: *In libros meteorologicorum*, Alexander Piccolomineus (trans.), reprint of first edition Venice 1561, with introduction by Cristina Viano, Stuttgart: Frommann-Holzboog, 2010.
-
-[^richard-nd]: Richard Sorabji (gen. ed.), London: Duckworth, Ithaca: Cornell University Press. Later: London: Bristol Classical Press. Presently: London: Bloomsbury Publishing.
 
 [^alexander-1989]: *Alexander of Aphrodisias on Aristotle’s Metaphysics 1*, W.E. Dooley, 1989.
 

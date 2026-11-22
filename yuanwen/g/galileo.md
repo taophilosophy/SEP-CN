@@ -189,6 +189,12 @@ To read many of the documents of Galileo’s trial, see Finocchiaro 1989; Mayer 
 
 ### Primary Sources: Galileo’s Works
 
+The main body of Galileo’s work is collected in:
+
+English translations:
+
+Collections of primary sources in English:
+
 ### Secondary Sources
 
 ## Academic Tools
@@ -215,11 +221,7 @@ This entry was originally written by Peter Machamer. David Marshall Miller co-wr
 
 Thanks to Zvi Biener and Paolo Palmieri for commenting on earlier versions of this entry.
 
-[^galileo’s-nd]: The main body of Galileo’s work is collected in:
-
 [^favaro-1890]: Favaro, Antonio (ed.), 1890–1909, *Le Opere di Galileo Galilei*, Edizione Nazionale, 20 vols., Florence: Barbera; reprinted 1929–1939 and 1964–1966. [[available online](https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&collapsing=disabled&rk=64378;0&query=dc.relation%20all%20%22cb304760526%22)]
-
-[^english-nd]: English translations:
 
 [^little-nd]: 1586, *The Little Balance* (*La Bilancetta*)
 
@@ -270,8 +272,6 @@ Thanks to Zvi Biener and Paolo Palmieri for commenting on earlier versions of th
 [^crew-1954]: Crew, Henry, and de Salvio, Alfonso (trans.), 1954, *Dialogues Concerning Two New Sciences*, New York: Dover Publications. This inferior translation, first published in 1914, has been reprinted numerous times and is widely available.
 
 [^drake-1974]: Drake, Stillman (trans.), 1974, *Two New Sciences*, Madison: University of Wisconsin Press; 2nd edition, 1989, reprinted 2000, Toronto: Wall and Emerson.
-
-[^collections-nd]: Collections of primary sources in English:
 
 [^drake-1957]: Drake, Stillman (ed.), 1957, *The Discoveries and Opinions of Galileo*, New York: Anchor Books.
 

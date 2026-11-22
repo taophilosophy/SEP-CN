@@ -306,11 +306,15 @@ As Reginster (2006: 222–7)[^reginster-2006] observes, it is more difficult to 
 
 #### Nietzsche’s Works in German
 
+Nietzsche’s works have now been published in an outstanding critical edition (the *Kritische Gesamtausgabe*) under the general editorship of Giorgio Colli and Massimo Montinari. It is held in many university libraries and is typically cited by volume and page number using the abbreviation *KGA*. This entry cites published works in the English translations listed below, and for the unpublished writing, it cites the useful abridged version of the critical edition, prepared for students and scholars (the *Kritische Studienausgabe*, *KSA*) and widely available in paperback. Those references follow standard scholarly practice, providing volume and page numbers of the *KSA*, preceded by the notebook and fragment numbers established for the overall critical edition. English translations have now appeared containing selections from the unpublished writing included in *KSA*, and those volumes (*WEN*, *WLN*) are listed among the translations in the next section. The full bibliographical information for the German editions is
+
 | *KGA* | *Werke: Kritische Gesamtausgabe*, edited by G. Colli and M. Montinari. Berlin: W. de Gruyter, 1967 ff. |
 | --- | --- |
 | *KSA* | *Sämtliche Werke: Kritische Studienausgabe*, edited by G. Colli and M. Montinari. Berlin: W. de Gruyter, 1980 ff. |
 
 #### Nietzsche’s Works in English
+
+Nietzsche’s published works are cited by his original section numbers (or larger part plus section numbers together), which are the same in all editions. Citations follow the North American Nietzsche Society system of abbreviations for reference to English translations. For each work, the primary translation quoted in the entry is listed first, followed by other translations that were consulted. (N.B.: the entry occasionally departs from the quoted translation, usually in the direction of greater literalness, without separate notice.) Original date of German publication is given in parentheses at the end of each entry.
 
 | *BT* | *The Birth of Tragedy out of the Spirit of Music*, Walter Kaufmann (trans.), New York: Vintage, 1967 (1872). |
 | --- | --- |
@@ -359,10 +363,6 @@ desire | evil: concept of | existentialism | Lange, Friedrich Albert | Nietzsche
 ### Acknowledgments
 
 I am grateful to Rachel Cristy for exchanges that helped me work out basic ideas for the structure and contents of this entry. Joshua Landy, Andrew Huddleston, Christopher Janaway, and Elijah Millgram provided helpful feedback on a late draft, and each saved me from several errors. Later updates have benefitted from readers of the *SEP*, and from exchanges with Christopher Fowles, Andrew Huddleston, and Rachel Cristy.
-
-[^nietzsche’s-nd]: Nietzsche’s works have now been published in an outstanding critical edition (the *Kritische Gesamtausgabe*) under the general editorship of Giorgio Colli and Massimo Montinari. It is held in many university libraries and is typically cited by volume and page number using the abbreviation *KGA*. This entry cites published works in the English translations listed below, and for the unpublished writing, it cites the useful abridged version of the critical edition, prepared for students and scholars (the *Kritische Studienausgabe*, *KSA*) and widely available in paperback. Those references follow standard scholarly practice, providing volume and page numbers of the *KSA*, preceded by the notebook and fragment numbers established for the overall critical edition. English translations have now appeared containing selections from the unpublished writing included in *KSA*, and those volumes (*WEN*, *WLN*) are listed among the translations in the next section. The full bibliographical information for the German editions is
-
-[^nietzsche’s-nd-2]: Nietzsche’s published works are cited by his original section numbers (or larger part plus section numbers together), which are the same in all editions. Citations follow the North American Nietzsche Society system of abbreviations for reference to English translations. For each work, the primary translation quoted in the entry is listed first, followed by other translations that were consulted. (N.B.: the entry occasionally departs from the quoted translation, usually in the direction of greater literalness, without separate notice.) Original date of German publication is given in parentheses at the end of each entry.
 
 [^abel-1984]: Abel, Günther, 1984, *Nietzsche: die Dynamik der Willen zur Macht und die ewige Wiederkehr*, Berlin: W. de Gruyter.
 

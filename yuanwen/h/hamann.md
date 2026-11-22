@@ -159,13 +159,21 @@ One must also remember that Hamann confessed that he could not conceive of a Cre
 
 ### Hamann’s writings
 
+Hamann’s works, including those unpublished in his lifetime, were reprinted in a collection edited by Josef Nadler:
+
 > Hamann, Johann Georg, *Sämtliche Werken*, edited by Josef Nadler, 6 volumes, Vienna: Verlag Herder, 1949–1957; reprinted Wuppertal: Brockhaus, 1999.
+
+Citations from this source, in conformity with common practice for Hamann references, are given above as: N II, 13:10. This means “Nadler’s edition, volume two, page thirteen, line ten.” This same mode of reference also applies to the translations in Gwen Griffith Dickson (see below), wherein the pages are laid out in as close an approximation as possible to Nadler’s edition.
+
+However, Hamann researchers have subsequently established that the Nadler edition unfortunately is beset by a number of errors. New editorial activity is underway on Hamann’s writings and on his letters. Two volumes of his writings have appeared so far :
 
 > Johann Georg Hamann, *Sokratische Denkwürdigkeiten. Wolken* (Historisch-kritische Ausgabe) [Philosophische Bibliothek: 748], Leonard Keidel und Janina Reibold (eds.), Hamburg: Meiner, 2021.
 >
 > Johann Georg Hamann, *Fliegender Brief* (Historisch-kritische Ausgabe) [Philosophische Bibliothek 707], 2 volumes, Janina Reibold (ed.), Hamburg: Meiner, 2018.
 
 ### Hamann’s Letters
+
+A collected edition of Hamann’s letters by Ziesemer and Henkel has been the standard comprehensive reference. However, the new Hamann Edition (Hamann-Ausgabe) has also critically reworked the accepted texts; and moreover made this available online.
 
 > Hamann, Johann Georg, *Briefwechsel*, edited by Walther Ziesemer and Arthur Henkel (from volume 4 on, edited by Henkel alone). 8 volumes. Wiesbaden/ Frankfurt: Insel Verlag, 1955–1975. Citations from this source are given as: ZH 4 etc. as above.
 >
@@ -191,7 +199,11 @@ One must also remember that Hamann confessed that he could not conceive of a Cre
 
 ### Selected Other Translations
 
+Angelo Pupi, working in Italian, has also written a substantial series of biography with commentary, which also includes large passages of texts and letters translated into Italian, all published by Vita e Pensiero in Milan:
+
 ### The International Hamann-Colloquium
+
+The International Hamann-Colloquium meets every few years. Collections of its papers are some of the most important contributions to Hamann scholarship:
 
 ### Secondary Sources in English
 
@@ -216,14 +228,6 @@ One must also remember that Hamann confessed that he could not conceive of a Cre
 Berkeley, George | Hegel, Georg Wilhelm Friedrich | Herder, Johann Gottfried von | Hume, David | Jacobi, Friedrich Heinrich | Kant, Immanuel | Kierkegaard, Søren | Rorty, Richard
 
 [^all-1996]: All translations from Hamann’s works and letters in this entry are by Gwen Griffith Dickson in works cited below, except for the translation from the letter to Kraus, which is cited in the translation by Garrett Green, in James Schmidt (ed.), *What is Enlightenment? Eighteenth-Century Answers and Twentieth-Century Questions*, Berkeley and Los Angeles: University of California Press, 1996.
-
-[^hamann’s-nd]: Hamann’s works, including those unpublished in his lifetime, were reprinted in a collection edited by Josef Nadler:
-
-[^citations-nd]: Citations from this source, in conformity with common practice for Hamann references, are given above as: N II, 13:10. This means “Nadler’s edition, volume two, page thirteen, line ten.” This same mode of reference also applies to the translations in Gwen Griffith Dickson (see below), wherein the pages are laid out in as close an approximation as possible to Nadler’s edition.
-
-[^however-nd]: However, Hamann researchers have subsequently established that the Nadler edition unfortunately is beset by a number of errors. New editorial activity is underway on Hamann’s writings and on his letters. Two volumes of his writings have appeared so far :
-
-[^hamann’s-nd-2]: A collected edition of Hamann’s letters by Ziesemer and Henkel has been the standard comprehensive reference. However, the new Hamann Edition (Hamann-Ausgabe) has also critically reworked the accepted texts; and moreover made this available online.
 
 [^dickson-1995]: Dickson, Gwen Griffith [Griffith-Dickson, Gwen], *Johann Georg Hamann’s Relational Metacriticism*, Berlin: de Gruyter, 1995. [*Socratic Memorabilia*, *Aesthetica in Nuce*, a selection of essays on language, “Essay of a Sibyl on Marriage,” *Metacritique of the Purism of Reason*.]
 
@@ -277,8 +281,6 @@ Berkeley, George | Hegel, Georg Wilhelm Friedrich | Herder, Johann Gottfried von
 
 [^manegold-1963]: Manegold, Ingemarie, *Johann Georg Hamanns Schrift Konxompax*, Heidelberg: Carl Winter Universitätsverlag, 1963.
 
-[^angelo-nd]: Angelo Pupi, working in Italian, has also written a substantial series of biography with commentary, which also includes large passages of texts and letters translated into Italian, all published by Vita e Pensiero in Milan:
-
 [^vol-1730]: Vol. l. *Experimentum mundi*, 1730–1759, pub. 1991
 
 [^vol-1760]: Vol. 2. *In domo patris*, 1760–1763, pub. 1991
@@ -294,8 +296,6 @@ Berkeley, George | Hegel, Georg Wilhelm Friedrich | Herder, Johann Gottfried von
 [^italian-2024]: **Italian:** Raciti, Giuseppe, 2024, *Aesthetica in Nuce*, translation into Italian with introduction by G. Raciti, Italy: Aesthetica.
 
 [^french-2001]: **French:** Deygout, Romain and Stefan Majetschak, 2001, *Aesthetica in Nuce, Métacritique du Purisme de la Raison Pure et autres textes*, translation and notes by R. Deygout and preface by S. Majetschak, Paris: Librairie Philosophique J. Vrin.
-
-[^international-nd]: The International Hamann-Colloquium meets every few years. Collections of its papers are some of the most important contributions to Hamann scholarship:
 
 [^johann-1976]: *Johann Georg Hamann*, (Acta des Internationalen Hamann-Colloquiums in Luneberg 1976), ed. by Bernhard Gajek. Frankfurt am Main: Vittorio Klostermann, 1979.
 

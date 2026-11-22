@@ -388,6 +388,8 @@ The official conclusion of the *Theaetetus* is that we still do not know how to 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The bibliography also includes works not directly cited in the entry but useful for the study of the *Theaetetetus*.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=plato-theaetetus). |
@@ -407,8 +409,6 @@ Plato | Plato: method and metaphysics in the *Sophist* and *Statesman* | Plato: 
 ### Acknowledgments
 
 The authors and SEP editors would like to thank Branden Kosch for noticing a point of Greek grammar in need of correction.
-
-[^theaetetetus-nd]: The bibliography also includes works not directly cited in the entry but useful for the study of the *Theaetetetus*.
 
 [^references-1995]: References to Plato’s *Theaetetus* follow the pagination and lineation of E.A. Duke, W.F. Hicken, W.S.M. Nicholl, D.B. Robinson, J.C.G. Strachan (eds.), *Platonis Opera* (Volume 1), Oxford: Oxford University Press, 1995.
 

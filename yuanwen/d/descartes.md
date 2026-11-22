@@ -315,6 +315,8 @@ In the end, Descartes’ legacy partly consists of problems he raised, or brough
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+**Note on references and abbreviations:** References to Descartes’ works as found herein use the pagination of the Adam and Tannery volumes (AT), *Oeuvres de Descartes*, 11 vols. The citations give volume and page numbers only (dropping the abbreviation “AT”). Where possible, the Cottingham, Stoothoff, Murdoch, and Kenny translation, *The Philosophical Writings of Descartes*, 3 vols., has been used; it shows the AT pagination in the margins. The AT volume numbers provide a guide to which work is being cited in translation: vols. 1–5, 10, correspondence; vol. 6, *Discourse* and essays (including the *Dioptrics* and *Meteorology*); vol. 7, *Meditations*; vol. 10, *Rules*; vol. 11:1–118, *World, or Treatise on Light*; vol. 11:119–222, *Treatise on Man*; vol. 11:301–488, *Passions*. Where there is no accessible translation for a citation from AT, the citation is shown in *italics*. Works that are broken into parts and/or articles are cited by abbreviated title, part, and article: *Diop*. for *Dioptrics*, *Disc.* for *Discourse on the Method*, *Med*. for the *Meditations*, *Met*. for the *Meteorology*, *Pass*. for the *Passions*, and *Princ*. for the *Principles*. When context doesn’t show that Descartes’ letters are being referred to, *Correspondence*, abbreviated as *Corr*., is added.
+
 ### Primary Literature: Works by Descartes
 
 #### Original editions and early translations
@@ -327,7 +329,11 @@ In the end, Descartes’ legacy partly consists of problems he raised, or brough
 
 #### Some works known to Descartes (selected)
 
+Ordered alphabetically, translations shown where available.
+
 #### Early reactions to Descartes’ philosophy, favorable and unfavorable.
+
+Ordered chronologically. Not exhaustive.
 
 ### Secondary Literature
 
@@ -409,8 +415,6 @@ Arnauld, Antoine | Cordemoy, Géraud de | Descartes, René: epistemology | Desca
 ### Acknowledgments
 
 The author thanks Elle Kirsch, who served as research assistant and offered many useful suggestions, and Tiina Rosenqvist, who provided many helpful comments.
-
-[^note-nd]: **Note on references and abbreviations:** References to Descartes’ works as found herein use the pagination of the Adam and Tannery volumes (AT), *Oeuvres de Descartes*, 11 vols. The citations give volume and page numbers only (dropping the abbreviation “AT”). Where possible, the Cottingham, Stoothoff, Murdoch, and Kenny translation, *The Philosophical Writings of Descartes*, 3 vols., has been used; it shows the AT pagination in the margins. The AT volume numbers provide a guide to which work is being cited in translation: vols. 1–5, 10, correspondence; vol. 6, *Discourse* and essays (including the *Dioptrics* and *Meteorology*); vol. 7, *Meditations*; vol. 10, *Rules*; vol. 11:1–118, *World, or Treatise on Light*; vol. 11:119–222, *Treatise on Man*; vol. 11:301–488, *Passions*. Where there is no accessible translation for a citation from AT, the citation is shown in *italics*. Works that are broken into parts and/or articles are cited by abbreviated title, part, and article: *Diop*. for *Dioptrics*, *Disc.* for *Discourse on the Method*, *Med*. for the *Meditations*, *Met*. for the *Meteorology*, *Pass*. for the *Passions*, and *Princ*. for the *Principles*. When context doesn’t show that Descartes’ letters are being referred to, *Correspondence*, abbreviated as *Corr*., is added.
 
 [^see-2002]: See Otegem 2002 for a full bibliography.
 
@@ -504,8 +508,6 @@ The author thanks Elle Kirsch, who served as research assistant and offered many
 
 [^descartes-2015]: 2015, *The Passions of the Soul and Other Late Philosophical Writings*, Michael Moriarty (trans.), Oxford: Oxford University Press. Also includes the correspondence with Elisabeth and other letters.
 
-[^ordered-nd]: Ordered alphabetically, translations shown where available.
-
 [^alhazen-2001]: Alhazen, or Ibn al-Haytham, and Witelo. *Opticae thesaurus: Alhazeni Arabis libri septem nunc primum editi; ejusdem Liber de crepusculis et nubium ascensionibus. Item Vitellonis, libri X*, Friedrich Risner (ed.), Basel: Episcopius. DPR [online](https://gallica.bnf.fr/ark:/12148/bpt6k312873d?rk=21459;2) (pdf). Translation of Alhazen’s theory of vision: *Alhacen’s Theory of Visual Perception: A Critical Edition, with English Translation and Commentary, of the first three books of Alhacen’s De aspectibus, the medieval Latin version of Ibn al-Haytham’s Kitab al-Manazir*, A. Mark Smith (trans.), 2 vols., Philadelphia: American Philosophical Society, 2001. Descartes cites Witelo (10:8).
 
 [^coimbran-nd]: Coimbran Commentators, 1598, *Commentarium in tres libros De anima Aristotelis*, Coimbra: Antonio de Maris.
@@ -529,8 +531,6 @@ The author thanks Elle Kirsch, who served as research assistant and offered many
 [^toledo-nd]: Toledo, Francisco de, 1575, *Commentaria una cum quaestionibus in tres libros Aristotelis De anima*, Venice: Iuntas.
 
 [^for-1998]: For additional background sources, see *Descartes’ Meditations: Background Source Materials*, Roger Ariew, John Cottingham, and Tom Sorell (eds.), Cambridge: Cambridge University Press, 1998.
-
-[^ordered-nd-2]: Ordered chronologically. Not exhaustive.
 
 [^heereboord-1643]: Heereboord, Adrianus, 1643, *Parallelismus Aristotelicae et Cartesianae philosophiae naturalis*, Leiden. Reported to have been read at Harvard College in the seventeenth century (Morison 1936, 1:233).
 

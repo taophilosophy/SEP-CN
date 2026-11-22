@@ -41,7 +41,7 @@ The daughter of upper middle-class German immigrants to the United States, Lange
 
 Langer married historian William L. Langer in 1921. They spent that winter term in Vienna, where she studied with Victor Kraft (Lachmann 2000: 19)[^lachmann-2000] and probably read Wittgenstein’s *Tractatus* (1921). She studied the psychology of *Gestalt* theorists (Dengerink Chaplin 2020: 14; Verhaegh 2022: 219 n. 12)[^dengerink-2020][^verhaegh-2022][^verhaegh-2022-2]. Upon return to the United States in 1922 Langer had her first child and moved to Worcester, Massachusetts where her husband took up a position at Clark University. Her first book, *The Cruise of the Little Dipper and Other Fairy Tales* (1923), illustrated by her friend, the artist Helen Sewall, came out the year after her first child’s birth. Her (1924a) Radcliffe M.A. thesis treated the notion of the unconscious.
 
-Enrolling as a Radcliffe PhD student in 1924, Langer met Whitehead and attended his Harvard graduate seminar 1924–1925 during the period of her pregnancy with her second son (Lachmann 1997; Dryden 2003a,b)[^dryden-2003a][^lachmann-1997]; her notes of his lectures have been published (Langer 1924–1927 [1997])[^langer-1927]. They reveal Langer’s exposure to the history of philosophy and mathematics and physics, as well as Whitehead’s metaphysics of process and history, alongside several other ideas that would significantly influence her: the importance of the *potential* as something given with the actual; symbolism as an evolving framework for feeling and thought; the centrality of our aesthetic receptivity to perception; the fundamentality of relations; “givenness” as something relative to conceptual choice and occasion; and the centrality of process to metaphysics.
+Enrolling as a Radcliffe PhD student in 1924, Langer met Whitehead and attended his Harvard graduate seminar 1924–1925 during the period of her pregnancy with her second son (Lachmann 1997; Dryden 2003a,b)[^dryden-2003a][^lachmann-1997]; her notes of his lectures have been published (Langer 1924–1927 [1997])[^langer-1927-2]. They reveal Langer’s exposure to the history of philosophy and mathematics and physics, as well as Whitehead’s metaphysics of process and history, alongside several other ideas that would significantly influence her: the importance of the *potential* as something given with the actual; symbolism as an evolving framework for feeling and thought; the centrality of our aesthetic receptivity to perception; the fundamentality of relations; “givenness” as something relative to conceptual choice and occasion; and the centrality of process to metaphysics.
 
 Langer’s remarkable dissertation, entitled *A Logical Analysis of Meaning* (1926a), was written under the supervision of Whitehead, Sheffer, and C.I. Lewis and cataloged at Radcliffe, as Harvard did not grant women PhD’s until 1963; she published in logic and analytic philosophy through the 1930s (§3 below). She taught as a tutor in philosophy at Radcliffe 1927–1942, advising undergraduates for their general exams, and as a lecturer in logic at Wellesley College in 1934. In 1941 she accompanied her historian husband William L. Langer to Washington, D.C. when he joined the foreign intelligence service (W. Langer 1977)[^langer-1977]. In 1942, after publishing PNK, she and William Langer divorced. Her teaching relationship with Radcliffe ended in 1943, when she took the first of a series of temporary appointments that supported her over the next twelve years. Langer appears to have chosen to forego a permanent appointment at an undergraduate college in favor of a research appointment at a graduate institution. Peregrinating for a dozen years in temporary positions, she lectured widely, befriending artists and writing on education, the arts, philosophy and politics (Dengerink Chaplin 2020: 54)[^dengerink-2020]. She worked with Cassirer 1941–1945 after he emigrated to the United States, apparently influencing his *Essay on Man* (1944; Auxier 1997: 87n–88n; Guyer 2014: vol. III, 354)[^auxier-1997][^guyer-2014] and translating his *Language and Myth* (1925 [1946]). Tenured at Connecticut College in 1954 at age 58, she received a grant from the Kaufmann Charitable Trust (1956–1981) that freed her from teaching, allowing her time to write MEHF.
 
@@ -57,7 +57,7 @@ Following Whitehead (1926)[^whitehead-1926] Langer holds that each human “epoc
 
 Our time’s idea is *symbolism*, a ubiquitous mark of human mentality (Whitehead 1927; PNK 239)[^whitehead-1927]. The forms of meaning, even mind itself, are not entities, as they were conceived in the Cartesian era, but higher-order aspects of symbolic activity, itself an evolved set of human patterns and relations within nature. Experience, sensation, perception, thought, action and creation are phase-transitions of order among relations, realized in embodied processes, particular space-time events that “include facts, notions, feelings, qualities, etc. as well as *things*” (1926a: 107–8).
 
-For Langer the distinctions between form and content, substance and accident, and mind and body do not mark fundamental categorial divisions but are logical or “formal” (Langer 1924a, 1926a, 1926c). Her hermeneutics of “meaning”, inspired by American pragmatism and semiotics (Colapietro 1998; Innis 2009)[^colapietro-1998][^innis-2009], is supported by her studies of modern logic. She shared Cassirer’s neo-Kantian aspiration “‘to compile a grammar of the symbolic function as such’ for language, art, mythology and religion” (Langer 1926a: 170, quoting Cassirer 1923–1927 Vol. 1:86)[^langer-1927][^cassirer-1923][^cassirer-1923-2][^cassirer-1927] by stressing the importance—derived from Frege (1892a,b [1997], 1893/1903 [2013]), Whitehead and Russell (1910), and Sheffer (1921)[^sheffer-1921]—of generalizations in the theory of relations in modern logic that outstrip the older, static “substance/property” forms of Aristotelian logic (Langer 1926a: 36, 62, 55).
+For Langer the distinctions between form and content, substance and accident, and mind and body do not mark fundamental categorial divisions but are logical or “formal” (Langer 1924a, 1926a, 1926c). Her hermeneutics of “meaning”, inspired by American pragmatism and semiotics (Colapietro 1998; Innis 2009)[^colapietro-1998][^innis-2009], is supported by her studies of modern logic. She shared Cassirer’s neo-Kantian aspiration “‘to compile a grammar of the symbolic function as such’ for language, art, mythology and religion” (Langer 1926a: 170, quoting Cassirer 1923–1927 Vol. 1:86)[^langer-1927-2][^cassirer-1923][^cassirer-1923-2][^cassirer-1927] by stressing the importance—derived from Frege (1892a,b [1997], 1893/1903 [2013]), Whitehead and Russell (1910), and Sheffer (1921)[^sheffer-1921]—of generalizations in the theory of relations in modern logic that outstrip the older, static “substance/property” forms of Aristotelian logic (Langer 1926a: 36, 62, 55).
 
 As a philosopher of logic, Langer never tried to produce a metaphysics, although, like Whitehead, she took metaphysics to be necessary, a “study of basic assumptions … in terms of which every element of our experience can be interpreted” (Langer & Gadol 1950; Langer 1951a, 1962b: 6–7, 1967; Dengerink Chaplin 2020: ch. 6)[^dengerink-2020]. Whitehead (1929)[^whitehead-1929] inspired her conception of “organic form” as processual (Langer 1924–27 [1997]; Dryden 1997b; Dengerink Chaplin 2020: ch. 6)[^dengerink-2020][^dryden-1997b]. Reacting to Frege, Russell and Wittgenstein she developed an account of facts as immediate, yet never ultimate in form (Langer 1926c, 1933). Critical assessments of Langer’s “ontology” have produced little agreement about her ultimate stance, though authors note her engagement with conceptions of mind and reality (Lachmann 1997, 2000; Auxier 1997, 2008; Felappi 2017, 2024)[^auxier-1997][^auxier-2008][^felappi-2017][^felappi-2024][^lachmann-1997][^lachmann-2000], her anticipation of later “metaontological” themes (McDaniel 2017)[^mcdaniel-2017], (Dryden 1997a,b, 2001)[^dryden-1997a][^dryden-2001], and her conviction, later absorbed into systems biology and philosophy of mind, that consciousness is a substrate of human psychology, grounded in a feeling, thought, and emotion (Dryden 2007; Dengerink Chaplin 2020)[^dengerink-2020][^dryden-2007].
 
@@ -103,7 +103,7 @@ Langer’s earliest post-dissertation philosophical work consisted of a stream o
 
 Langer next introduced a “paradox” concerning the relation of form to content, emphasizing their ultimate inseparability for purposes of analysis (1926c). Recasting the more well-known logical paradoxes, she argues that there is neither an overarching totality of all forms nor just *one* form of an object or proposition, because each object and each proposition may be projected into many different systems, and a form always inheres in a system (1926c: 437; Felappi 2017, 2024)[^felappi-2017][^felappi-2024]. This pluralism, owing debts to James’s pragmatism, Russell and Wittgenstein’s conceptions of “form”, Sheffer’s theory of “notational relativity” and to C.I. Lewis’s conceptual pragmatism (Langer & Gadol 1950: 126), prefigures Carnap’s pluralistic “constructive” program in analytic philosophy (Verhaegh 2022: 221)[^verhaegh-2022][^verhaegh-2022-2].
 
-Langer’s pluralism is supported by her *Tractatus*-inspired analysis of meaning. The field of all possible analogies cannot be captured in a single proposition (1926a: 48, 88n, 92), though particular metaphors may be correct or incorrect, tight or loose, in a given context (1926a: 112, 159). In Langer (1927)[^langer-1927] she argues that Russell’s (1906)[^russell-1906] struggles with negative facts and the notion of “assertion” in the “verb” of a proposition may be resolved by taking propositions to express “inter-structural relations” of “analogy” and “projection” among systems (Felappi 2017)[^felappi-2017]. Langer’s 1929b argues that skeptical doubt is an inevitable result of making a demand for absolute truth, which is in turn driven by the refusal to admit that necessity is always relative to a system: the key flaw in traditional metaphysics lies in the tendency to treat concepts as entities and to begin with broad concepts (“cause”, etc.) instead of with systems (a point made also in the *Tractatus*). In asking whether consciousness *exists* (1904), for example, James should instead have asked, “Can we talk coherently about *consciousness*?” (Langer 1929b: 383).
+Langer’s pluralism is supported by her *Tractatus*-inspired analysis of meaning. The field of all possible analogies cannot be captured in a single proposition (1926a: 48, 88n, 92), though particular metaphors may be correct or incorrect, tight or loose, in a given context (1926a: 112, 159). In Langer (1927)[^langer-1927-2] she argues that Russell’s (1906)[^russell-1906] struggles with negative facts and the notion of “assertion” in the “verb” of a proposition may be resolved by taking propositions to express “inter-structural relations” of “analogy” and “projection” among systems (Felappi 2017)[^felappi-2017]. Langer’s 1929b argues that skeptical doubt is an inevitable result of making a demand for absolute truth, which is in turn driven by the refusal to admit that necessity is always relative to a system: the key flaw in traditional metaphysics lies in the tendency to treat concepts as entities and to begin with broad concepts (“cause”, etc.) instead of with systems (a point made also in the *Tractatus*). In asking whether consciousness *exists* (1904), for example, James should instead have asked, “Can we talk coherently about *consciousness*?” (Langer 1929b: 383).
 
 A founding member of *The Journal of Symbolic Logic*, from 1926 to 1939 Langer reviewed nineteen logic and philosophy books in German, French, English, and Italian. Her first philosophy book, *The Practice of Philosophy* (1930b), was an introduction to “analytic” philosophy, developing ideas in her dissertation and intended as an introduction to philosophy for a general audience. Situating her conception of the “logical basis of meaning” in historical terms, she argued that a “synoptic”, “bird’s-eye view of all things … cannot be established by direct preoccupation with the cosmos as such” (1930b: 215), but only through analysis. She defends her quest for the discovery of “general patterns” and the importance for philosophy of “a systematic view of possibilities”, i.e., a knowledge of forms which would yield the ability to swiftly, independently, and clear-sightedly understand meanings “in nature, in life, in ritual and art” (1930b: 218, 221). Invoking her reading of the *Tractatus*, she criticizes the idea of an absolute “first cause” as a “pseudo-concept” on grounds that the concept of a particular cause has a place only *within* nature, not outside of it (1930b: 61ff.; see Langer 1936). The book was taken in the United States to indicate Langer’s importance for the “new movement” in philosophy (Blumberg & Feigl 1931: 281)[^blumberg-1931] and was actively discussed in the Vienna Circle, praised especially by Schlick (Verhaegh 2022: 216ff.)[^verhaegh-2022][^verhaegh-2022-2].
 
@@ -233,6 +233,8 @@ MEHF was not nearly as influential as PNK. However, Langer anticipated subsequen
 
 ### A. Primary Literature
 
+Works by Susanne K. Langer.
+
 ### B. Translations by Langer
 
 ### C. Secondary Literature
@@ -254,75 +256,73 @@ MEHF was not nearly as influential as PNK. However, Langer anticipated subsequen
 
 aesthetic experience | analysis | architecture, philosophy of | Cassirer, Ernst | dance, philosophy of | depiction | Dewey, John: aesthetics | Jones, Emily Elizabeth Constance | music: history of western philosophy of, since 1800 | Stumpf, Carl
 
-[^works-nd]: Works by Susanne K. Langer.
+[^langer-1922]: 1922, “Deported”, *The New Republic*, 29(374/1 February 1922): 270. [[Langer 1922 available online](https://newrepublic.com/article/122998/deported)]
 
-[^works-1922]: 1922, “Deported”, *The New Republic*, 29(374/1 February 1922): 270. [[Langer 1922 available online](https://newrepublic.com/article/122998/deported)]
+[^langer-1923]: 1923, *The Cruise of the Little Dipper, and Other Fairy Tales*, Illustrated by Helen Sewell, New York: Norcross. [[Langer 2023 available online](https://www.gutenberg.org/ebooks/61294)]
 
-[^works-1923]: 1923, *The Cruise of the Little Dipper, and Other Fairy Tales*, Illustrated by Helen Sewell, New York: Norcross. [[Langer 2023 available online](https://www.gutenberg.org/ebooks/61294)]
+[^langer-1924a]: 1924a, *Eduard von Hartmann’s Notion of Unconscious Mind and its Metaphysical Implications*, MA Thesis, Philosophy, Radcliffe College. [[Langer 1924a available online](https://langercircle.sites.uu.nl/resources-2/)]
 
-[^works-1924a]: 1924a, *Eduard von Hartmann’s Notion of Unconscious Mind and its Metaphysical Implications*, MA Thesis, Philosophy, Radcliffe College. [[Langer 1924a available online](https://langercircle.sites.uu.nl/resources-2/)]
+[^langer-1924b]: 1924b, “Review of *Festschrift für Paul Natorp. Zum siebzigsten Geburtstage von Schülern und Freunden gewidmet*”, *The Journal of Philosophy*, 21(25): 695–697. doi:10.2307/2014054
 
-[^works-1924b]: 1924b, “Review of *Festschrift für Paul Natorp. Zum siebzigsten Geburtstage von Schülern und Freunden gewidmet*”, *The Journal of Philosophy*, 21(25): 695–697. doi:10.2307/2014054
+[^langer-1924c]: 1924c, “Review of *Theorie Der Dialektik. Formenlehre Der Philosophie*, by Jonas Cohn”, *The Journal of Philosophy*, 21(15): 412–415. doi:10.2307/2013928
 
-[^works-1924c]: 1924c, “Review of *Theorie Der Dialektik. Formenlehre Der Philosophie*, by Jonas Cohn”, *The Journal of Philosophy*, 21(15): 412–415. doi:10.2307/2013928
+[^langer-1924d]: 1924d, “Review of *Logik. Logische Elementarlehre*, by Benno Erdmann”, *The Journal of Philosophy*, 21(10): 275–277. doi:10.2307/2014841
 
-[^works-1924d]: 1924d, “Review of *Logik. Logische Elementarlehre*, by Benno Erdmann”, *The Journal of Philosophy*, 21(10): 275–277. doi:10.2307/2014841
+[^langer-1924]: 1924–1927 [1997], “Susanne K. Langer’s Notes on Whitehead’s Course on Philosophy of Nature”, Rolf Lachmann (ed.), *Process Studies*, 26(1/2): 126–150. doi:10.5840/process1997261/213
 
-[^works-1924]: 1924–1927 [1997], “Susanne K. Langer’s Notes on Whitehead’s Course on Philosophy of Nature”, Rolf Lachmann (ed.), *Process Studies*, 26(1/2): 126–150. doi:10.5840/process1997261/213
+[^langer-1926a]: 1926a *A Logical Analysis of Meaning*, PhD Dissertation, Philosophy, Radcliffe College. [[Langer 1926a available online](https://langercircle.sites.uu.nl/resources-2/)]
 
-[^works-1926a]: 1926a *A Logical Analysis of Meaning*, PhD Dissertation, Philosophy, Radcliffe College. [[Langer 1926a available online](https://langercircle.sites.uu.nl/resources-2/)]
+[^langer-1926b]: 1926b, “Confusion of Symbols and Confusion of Logical Types”, *Mind*, 35(138): 222–229. doi:10.1093/mind/XXXV.138.222
 
-[^works-1926b]: 1926b, “Confusion of Symbols and Confusion of Logical Types”, *Mind*, 35(138): 222–229. doi:10.1093/mind/XXXV.138.222
+[^langer-1926c]: 1926c, “Form and Content: A Study in Paradox”, *The Journal of Philosophy*, 23(16): 435–438. doi:10.2307/2014823
 
-[^works-1926c]: 1926c, “Form and Content: A Study in Paradox”, *The Journal of Philosophy*, 23(16): 435–438. doi:10.2307/2014823
+[^langer-1927]: 1927, “A Logical Study of Verbs”, *The Journal of Philosophy*, 24(5): 120–129. doi:10.2307/2015082
 
-[^works-1927]: 1927, “A Logical Study of Verbs”, *The Journal of Philosophy*, 24(5): 120–129. doi:10.2307/2015082
+[^langer-1929a]: 1929a, “A Set of Postulates for the Logical Structure of Music”:, *The Monist*, 39(4): 561–570. doi:10.5840/monist192939415
 
-[^works-1929a]: 1929a, “A Set of Postulates for the Logical Structure of Music”:, *The Monist*, 39(4): 561–570. doi:10.5840/monist192939415
+[^langer-1929b]: 1929b, “The Treadmill of Systematic Doubt”, *The Journal of Philosophy*, 26(14): 379–384. doi:10.2307/2014323
 
-[^works-1929b]: 1929b, “The Treadmill of Systematic Doubt”, *The Journal of Philosophy*, 26(14): 379–384. doi:10.2307/2014323
+[^langer-1930a]: 1930a, “Just Think”, *Atlantic Monthly*, May 1930: 588–593.
 
-[^works-1930a]: 1930a, “Just Think”, *Atlantic Monthly*, May 1930: 588–593.
+[^langer-1930b]: 1930b, *The Practice of Philosophy*, New York: H. Holt and Company.
 
-[^works-1930b]: 1930b, *The Practice of Philosophy*, New York: H. Holt and Company.
+[^langer-1930c]: 1930c, “Review of *Philosophie der Raum-Zeit-Lehre*, by Hans Reichenbach”, *The Journal of Philosophy*, 27(22): 609–611. doi:10.2307/2015990
 
-[^works-1930c]: 1930c, “Review of *Philosophie der Raum-Zeit-Lehre*, by Hans Reichenbach”, *The Journal of Philosophy*, 27(22): 609–611. doi:10.2307/2015990
+[^langer-1930d]: 1930d, “Review of *The Logic of Events. An Introduction to a Philosophy of Time*, by Andrew P. Uchenko”, *The Journal of Philosophy*, 27(13): 361–363. doi:10.2307/2015257
 
-[^works-1930d]: 1930d, “Review of *The Logic of Events. An Introduction to a Philosophy of Time*, by Andrew P. Uchenko”, *The Journal of Philosophy*, 27(13): 361–363. doi:10.2307/2015257
+[^langer-1930e]: 1930e, “Letter: Reply to Uchenko”, *The Journal of Philosophy*, 27(21): 586–588.
 
-[^works-1930e]: 1930e, “Letter: Reply to Uchenko”, *The Journal of Philosophy*, 27(21): 586–588.
+[^langer-1931a]: 1931a, “Algebra and the Development of Reason”, *The Mathematics Teacher*, 24(5): 285–297.
 
-[^works-1931a]: 1931a, “Algebra and the Development of Reason”, *The Mathematics Teacher*, 24(5): 285–297.
+[^langer-1931b]: 1931b, “Review of *Erkenntniskritische Grundprobleme der Relativitätstheorie, Quanten und Wellenmechanik*, by Erhard Brüll”, *The Journal of Philosophy*, 28(22): 610–612. doi:10.2307/2015829
 
-[^works-1931b]: 1931b, “Review of *Erkenntniskritische Grundprobleme der Relativitätstheorie, Quanten und Wellenmechanik*, by Erhard Brüll”, *The Journal of Philosophy*, 28(22): 610–612. doi:10.2307/2015829
+[^langer-1932]: 1932, “Review of *Introduction to Philosophical Analysis*, by James Burnham and Philip Wheelwright”, *The Journal of Philosophy*, 29(18): 495–498. doi:10.2307/2016211
 
-[^works-1932]: 1932, “Review of *Introduction to Philosophical Analysis*, by James Burnham and Philip Wheelwright”, *The Journal of Philosophy*, 29(18): 495–498. doi:10.2307/2016211
+[^langer-1933]: 1933, “Facts: The Logical Perspectives of the World”, *The Journal of Philosophy*, 30(7): 178–187. doi:10.2307/2015751
 
-[^works-1933]: 1933, “Facts: The Logical Perspectives of the World”, *The Journal of Philosophy*, 30(7): 178–187. doi:10.2307/2015751
+[^langer-1936]: 1936, “On a Fallacy in ‘Scientific Fatalism’”, *The International Journal of Ethics*, 46(4): 473–483. doi:10.1086/intejethi.46.4.2989285
 
-[^works-1936]: 1936, “On a Fallacy in ‘Scientific Fatalism’”, *The International Journal of Ethics*, 46(4): 473–483. doi:10.1086/intejethi.46.4.2989285
+[^langer-1937a]: 1937a [1953], *An Introduction to Symbolic Logic*, London: G. Allen & Unwin. Second revised edition, Boston and New York: Houghton Mifflin, 1953; Third revised edition, New York: Dover Publications, 1967. References are to the 1953 edition.
 
-[^works-1937a]: 1937a [1953], *An Introduction to Symbolic Logic*, London: G. Allen & Unwin. Second revised edition, Boston and New York: Houghton Mifflin, 1953; Third revised edition, New York: Dover Publications, 1967. References are to the 1953 edition.
+[^langer-1937b]: 1937b, “Review of ‘Logique mathématique et syllogisme’ (1937), by J. Cavaillès”, *Journal of Symbolic Logic*, 2(2): 92. doi:10.2307/2267389
 
-[^works-1937b]: 1937b, “Review of ‘Logique mathématique et syllogisme’ (1937), by J. Cavaillès”, *Journal of Symbolic Logic*, 2(2): 92. doi:10.2307/2267389
+[^langer-1937c]: 1937c, “Review of ‘Der wissenschaftliche Nachlass von Gottlob Frege’ (1936), by Heinrich Scholz and Friedrich Bachmann”, *Journal of Symbolic Logic*, 2(1): 56–57. doi:10.2307/2268843
 
-[^works-1937c]: 1937c, “Review of ‘Der wissenschaftliche Nachlass von Gottlob Frege’ (1936), by Heinrich Scholz and Friedrich Bachmann”, *Journal of Symbolic Logic*, 2(1): 56–57. doi:10.2307/2268843
+[^langer-1937d]: 1937d, “Review of ‘Non-Aristotelian Logic and the Crisis in Science’ (1937), by Oliver L. Reiser”, *Journal of Symbolic Logic*, 2(2): 88–89. doi:10.2307/2267382
 
-[^works-1937d]: 1937d, “Review of ‘Non-Aristotelian Logic and the Crisis in Science’ (1937), by Oliver L. Reiser”, *Journal of Symbolic Logic*, 2(2): 88–89. doi:10.2307/2267382
+[^langer-1937e]: 1937e, “Review of ‘Grundlegung der wissenschaftlichen Semantik’ (1936) by Alfred Tarski and ‘Sur la signification des symboles logiques’ (1936) by Thomas Greenwood”, *Journal of Symbolic Logic*, 2(2): 83. doi:10.2307/2267368
 
-[^works-1937e]: 1937e, “Review of ‘Grundlegung der wissenschaftlichen Semantik’ (1936) by Alfred Tarski and ‘Sur la signification des symboles logiques’ (1936) by Thomas Greenwood”, *Journal of Symbolic Logic*, 2(2): 83. doi:10.2307/2267368
+[^langer-1938a]: 1938a, “Review of ‘Modal Functions in Two-Valued Logic’ (1937) by Frederic B. Fitch”, *Journal of Symbolic Logic*, 3(1): 50. doi:10.2307/2267527
 
-[^works-1938a]: 1938a, “Review of ‘Modal Functions in Two-Valued Logic’ (1937) by Frederic B. Fitch”, *Journal of Symbolic Logic*, 3(1): 50. doi:10.2307/2267527
+[^langer-1938b]: 1938b, “Review of ‘The Method of Postulates’ (1937) by Edward V. Huntington”, *Journal of Symbolic Logic*, 3(1): 49. doi:10.2307/2267525
 
-[^works-1938b]: 1938b, “Review of ‘The Method of Postulates’ (1937) by Edward V. Huntington”, *Journal of Symbolic Logic*, 3(1): 49. doi:10.2307/2267525
+[^langer-1938c]: 1938c, “Review of *The Principles of Mathematics* (2nd Edition, 1937), by Bertrand Russell”, *Journal of Symbolic Logic*, 3(4): 156–157. doi:10.2307/2267779
 
-[^works-1938c]: 1938c, “Review of *The Principles of Mathematics* (2nd Edition, 1937), by Bertrand Russell”, *Journal of Symbolic Logic*, 3(4): 156–157. doi:10.2307/2267779
+[^langer-1939a]: 1939a, “Review of ‘Fondements et méthodes des mathématiques. Notes sur la réunion d’études de Zurich’ (1939) by Robert Feys”, *Journal of Symbolic Logic*, 4(2): 102. doi:10.2307/2269090
 
-[^works-1939a]: 1939a, “Review of ‘Fondements et méthodes des mathématiques. Notes sur la réunion d’études de Zurich’ (1939) by Robert Feys”, *Journal of Symbolic Logic*, 4(2): 102. doi:10.2307/2269090
+[^langer-1939b]: 1939b, “Review of *Nove lezioni di logica simbolica* (Angelicum, Rome 1938) by Innocenzo M. Bocheński”, *Journal of Symbolic Logic*, 4(1): 36. doi:10.2307/2266236
 
-[^works-1939b]: 1939b, “Review of *Nove lezioni di logica simbolica* (Angelicum, Rome 1938) by Innocenzo M. Bocheński”, *Journal of Symbolic Logic*, 4(1): 36. doi:10.2307/2266236
-
-[^works-1939c]: 1939c, “Review of *The Doctrine of Signatures: A Defense of Theory in Medicine*, by Scott Buchanan”, *Ethics*, 49(2): 236–237. doi:10.1086/290075
+[^langer-1939c]: 1939c, “Review of *The Doctrine of Signatures: A Defense of Theory in Medicine*, by Scott Buchanan”, *Ethics*, 49(2): 236–237. doi:10.1086/290075
 
 [^pnk-1942]: [PNK] 1942 [1957], *Philosophy in a New Key: A Study in the Symbolism of Reason, Rite and Art*, first edition, Cambridge, MA: Harvard University Press, 1942. Second edition, 1951. Third edition, 1957. [PNK references to 3rd edition, 1957.]
 
@@ -406,7 +406,7 @@ aesthetic experience | analysis | architecture, philosophy of | Cassirer, Ernst 
 
 [^langer-nd]: Langer, Susanne (trans.), “F. Kiesow”, 163–190, from the German original manuscript.
 
-[^langer-1927]: Langer, Susanne (trans.), “William Stern”, Raymund Schmidt (ed.), 335–388, from *Philosophie der Gegenwart in Selbstdarstellungen*, volume 6, Leipzig: Felix Meiner, 1927.
+[^langer-1927-2]: Langer, Susanne (trans.), “William Stern”, Raymund Schmidt (ed.), 335–388, from *Philosophie der Gegenwart in Selbstdarstellungen*, volume 6, Leipzig: Felix Meiner, 1927.
 
 [^hodge-1924]: Hodge, Thekla and Susanne Langer (trans.), “Carl Stumpf”, Raymund Schmidt (ed.), 389–441, from *Philosophie der Gegenwart in Selbstdarstellungen*, volume 5, Leipzig: Felix Meiner, 1924.
 

@@ -290,9 +290,15 @@ The interest of this “baroque scholasticism” is now beginning to be recogniz
 
 ### A. General Histories of Medieval Philosophy
 
+This list includes only those that cover more than one branch of the tradition. Those devoted to one branch exclusively are cited in the relevant sections, and their details are in the References section below.
+
 ### B. Useful Anthologies of Translated texts
 
 ### C. Bibliographies
+
+Marenbon, John, “[Medieval Philosophy](https://oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0172.xml)”, Oxford Bibliographies (abstract is freely available on-line, the rest of the content is available by subscription)
+
+There are many other bibliographies in this series relevant to the field: Ashworth, Jenny, “Medieval Logic”; Penner, Sidney, “Scholasticism and Aristotelianism: fourteenth to seventeenth centuries” and on Aquinas, Boethius, Dante, Duns Scotus, Pico della Mirandola, William of Ockham.
 
 ### D. References
 
@@ -427,8 +433,6 @@ Abelard [Abailard], Peter | Abner of Burgos | Abrabanel, Judah | Agrippa von Net
 
 and so maybe the suggestion is no longer *too* radical.
 
-[^this-nd]: This list includes only those that cover more than one branch of the tradition. Those devoted to one branch exclusively are cited in the relevant sections, and their details are in the References section below.
-
 [^adamson-2015]: Adamson, Peter, 2015–2022, *A History of Philosophy without any Gaps*, Oxford: Oxford University Press. [Jewish philosophy in Hebrew is considered briefly in volume 3, 249–91. Volume 4 stops just after 1400; Volume 3 continues to modern times. These books are based on a podcast ([https://historyofphilosophy.net/](https://historyofphilosophy.net/), which continues.]
 
 [^philosophy-2015]: volume 2, *Philosophy in the Hellenistic and Roman Worlds*, 2015
@@ -480,10 +484,6 @@ and so maybe the suggestion is no longer *too* radical.
 [^volume-2001]: *Volume 2: Ethics and Political Philosophy*, Arthur Stephen McGrade, John Kilcullen, and Matthew Kempshall (eds.), 2001. doi:10.1017/CBO9780511609183
 
 [^volume-2002]: *Volume 3: Mind and Knowledge*, Robert Pasnau (ed.), 2002. doi:10.1017/CBO9780511606243 [New translations of less well known but important material in the Latin tradition]
-
-[^marenbon-nd]: Marenbon, John, “[Medieval Philosophy](https://oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0172.xml)”, Oxford Bibliographies (abstract is freely available on-line, the rest of the content is available by subscription)
-
-[^there-nd]: There are many other bibliographies in this series relevant to the field: Ashworth, Jenny, “Medieval Logic”; Penner, Sidney, “Scholasticism and Aristotelianism: fourteenth to seventeenth centuries” and on Aquinas, Boethius, Dante, Duns Scotus, Pico della Mirandola, William of Ockham.
 
 [^al-ghazali-2000]: Al-Ghazali, *The Incoherence of the Philosophers: A Parallel English-Arabic Text* (*Tahāfut al-Falāsifah*), Michael E. Marmura (trans.), Provo, UT: Brigham Young University Press, 2000.
 

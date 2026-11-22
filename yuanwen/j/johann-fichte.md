@@ -147,6 +147,8 @@ In contrast, anglophone Fichte scholarship, which has also experienced quite a r
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Editions of Fichte’s Complete Works in German
+
 ### Individual Works and English translations
 
 ### Secondary Literature about Fichte and the *Wissenschaftslehre*
@@ -166,8 +168,6 @@ In contrast, anglophone Fichte scholarship, which has also experienced quite a r
 ## Related Entries
 
 Hegel, Georg Wilhelm Friedrich | Kant, Immanuel | Maimon, Salomon | Reinhold, Karl Leonhard | Schelling, Friedrich Wilhelm Joseph von
-
-[^editions-nd]: Editions of Fichte’s Complete Works in German
 
 [^johann-1834]: *Johann Gottlieb Fichtes nachgelassene Werke*, 3 volumes, I. H. Fichte (ed.), Bonn: Adolph-Marcus, 1834-35.
 

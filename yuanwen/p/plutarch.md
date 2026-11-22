@@ -135,6 +135,42 @@ Plutarch was much appreciated in the Italian Renaissance. Italian humanism of th
 
 ### Primary Sources
 
+Anonymous in Theaetetum
+
+Alcinous
+
+Aristotle
+
+Aspasius
+
+Atticus
+
+Basil of Caesarea
+
+Cicero
+
+Gregory of Nazianzus
+
+Numenius
+
+Plato
+
+Plotinus
+
+Plutarch
+
+Porphyry
+
+Proclus
+
+Seneca
+
+Sextus Empiricus
+
+Syrianus
+
+Stobaeus
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -153,15 +189,9 @@ Plutarch was much appreciated in the Italian Renaissance. Italian humanism of th
 
 Antiochus of Ascalon | Arcesilaus | Carneades | Numenius | Philo of Larissa | Plato | Pythagoreanism | skepticism
 
-[^anonymous-nd]: Anonymous in Theaetetum
-
 [^bastianini-1995]: Bastianini, G. and D. Sedley, Commentarium in Platonis “Theaetetum”, in *Corpus dei papyri filosofici greci e latini. Testo e lessico nei papyri di cultura greca e Latina*, Parte III: Commentari, Firenze 1995, 227–562.
 
-[^alcinous-nd]: Alcinous
-
 [^whittaker-1990]: Whittaker, J. (ed.) P. Louis (trans. in French), *Alcinoos, Enseignement des doctrines de Platon*, Paris 1990 (Les Belles Lettres).
-
-[^aristotle-nd]: Aristotle
 
 [^bywater-1894]: Bywater, I. (ed.), *Aristotelis Ethica Nicomachea*, Oxford 1894 (OCT).
 
@@ -171,31 +201,17 @@ Antiochus of Ascalon | Arcesilaus | Carneades | Numenius | Philo of Larissa | Pl
 
 [^ross-1956]: Ross, W.D. (ed.), *Aristotelis De anima*, Oxford 1956 (OCT).
 
-[^aspasius-nd]: Aspasius
-
 [^aristotelis-1889]: *In Aristotelis Ethica Nicomachea*, ed. G. Heylbut (CAG xix/i, Berlin 1889).
-
-[^atticus-nd]: Atticus
 
 [^des-1977]: Des Places, É. (ed. and trans. in French), *Atticus. Fragments*, Paris 1977 (Les Belles Lettres).
 
-[^basil-nd]: Basil of Caesarea
-
 [^deferrari-1934]: Deferrari, R. J. (ed. and transl. in English), *Basil On Greek Literature*, Cambridge Mass. and London 1934 (Loeb).
-
-[^cicero-nd]: Cicero
 
 [^rackham-1933]: Rackham, H. (ed. and transl. in English), *Cicero On the nature of the Gods, Academica*, Cambridge Mass. and London 1933 (Loeb).
 
-[^gregory-nd]: Gregory of Nazianzus
-
 [^moreschini-2000]: Moreschini, C. et al. (ed. and transl. in Italian), *Gregorio di Nazianzo. Tutte le orazioni*, Milano 2000 (Bompiani).
 
-[^numenius-nd]: Numenius
-
 [^des-1973]: Des Places, É. (ed. and trans. in French), *Numénius.* *Fragments*, Paris 1973 (Les Belles Lettres).
-
-[^plato-nd]: Plato
 
 [^duke-1995]: Duke, E. A., W.F. Hicken, W.S.M. Nicoll, D.B. Robinson, D. B., and J.C.G. Strachan (ed.), *Platonis Opera, tetralogiae I–II*, vol.I, Oxford 1995 (OCT).
 
@@ -203,13 +219,9 @@ Antiochus of Ascalon | Arcesilaus | Carneades | Numenius | Philo of Larissa | Pl
 
 [^cooper-1997]: Cooper, J. M. (ed.), *Plato Complete Works*, Indianapolis 1997 (Plato’s works in English translation).
 
-[^plotinus-nd]: Plotinus
-
 [^henry-1964]: Henry, P. and H.-R. Schwyzer (ed.) *Plotini Opera*, vols. I–III, Oxford 1964–1982 (OCT).
 
 [^armstrong-1966]: Armstrong, A. H. (ed. and trans. in English), *Plotinus*, vols. I–VII, Cambridge Mass. and London 1966–1988 (Loeb).
-
-[^plutarch-nd]: Plutarch
 
 [^babbitt-1936]: Babbitt, F. C. (ed. and trans. in English), *Plutarch’s Moralia*, vol. V, Cambridge Mass. and London 1936.
 
@@ -227,8 +239,6 @@ Antiochus of Ascalon | Arcesilaus | Carneades | Numenius | Philo of Larissa | Pl
 
 [^sandbach-1969]: Sandbach, F. H. (ed. and trans. in English), *Plutarch’s Fragmenta*, vol. XV, Cambridge Mass. and London 1969 (Loeb).
 
-[^porphyry-nd]: Porphyry
-
 [^bouffartique-1977]: Bouffartique, J. and M. Patillon (ed. and trans. in French), *Porphyre, De l’abstinence, Livre I*, Paris 1977; *Livre II–III*, Paris 1979; *Livre IV*, Paris 1995: (Les Belles Letters).
 
 [^des-1982]: Des Places, É. (ed. and trans. in French), *Porphyre Vie de Pythagore, Lettre à Marcella*, Paris 1982 (Les Belles Lettres).
@@ -237,25 +247,15 @@ Antiochus of Ascalon | Arcesilaus | Carneades | Numenius | Philo of Larissa | Pl
 
 [^smith-1993]: Smith, A. (ed.), *Porphyrius Fragmenta*, Stuttgart and Leipzig 1993 (Teubner).
 
-[^proclus-nd]: Proclus
-
 [^kroll-1899]: Kroll, G. (ed.), *In Platonis Rem Publicam Commentarii*, vols. I–II, Leipzig 1899–1901 (Teubner).
 
 [^diehl-1903]: Diehl, E. (ed.), *In Platonis Timaeum Commentarii*, vols. I–III, Leipzig 1903–6 (Teubner).
 
-[^seneca-nd]: Seneca
-
 [^reynolds-1965]: Reynolds, L. D. (ed.), *Seneca Ad Lucilium Epistulae Morales*, vols. I–II, Oxford 1965 (OCT).
-
-[^sextus-nd]: Sextus Empiricus
 
 [^bury-1935]: Bury, R. (ed. and trans. in English), *Against the Logicians* [*Adversus Mathematicos* 7–8], Cambridge Mass. and London 1935 (Loeb).
 
-[^syrianus-nd]: Syrianus
-
 [^kroll-1902]: Kroll, W. (ed.), *Syrianus*, *In Aristotelis Metaphysica Commentaria*, Berlin 1902 (CAG VI).
-
-[^stobaeus-nd]: Stobaeus
 
 [^wachsmuth-1884]: Wachsmuth, C., and O. Hense (ed.), *Ioannis Stobaei Anthologium*, vols. I–V, Berlin 1884–1923 (repr. 1974).
 

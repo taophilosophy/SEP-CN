@@ -299,13 +299,23 @@ Berlin himself insisted that political and ethical theories arise from a thinker
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Citations in the text start with the year of first publication or (when when the item was initially unpublished) creation, followed (when applicable) within [ ] by the acronym of the collection in which the item has subsequently been published, and the relevant page(s). For the meaning of the acronyms and the asterisk, see below.
+
+Dates preceded by an asterisk indicate the date when the work was first written or presented. They are followed by the date of first publication (which is sometimes online) in square brackets.
+
+The many works published in languages other than English are mostly excluded.
+
 ### A. Works by Berlin
+
+Page references in this article are to the latest editions of Berlin’s books. Links to concordances listing corresponding pages in earlier editions are provided on the [Published Works](https://berlin.wolf.ox.ac.uk/published_works/) page of the Isaiah Berlin Virtual Library, except in the case of PSM, whose pagination was not changed in the second edition.
 
 #### A.1 Collections
 
 #### A.2 Letters
 
 #### A.3 Individual Works
+
+Abbreviations in square brackets indicate that the item appears in the relevant collection/internet resource.
 
 ### B. Books about Berlin
 
@@ -447,15 +457,7 @@ The second form of (doctrinal or theoretical) ‘realism’, which is commonly f
 
 [^note-30]: These included Raymond Aron, Daniel Bell, Norberto Bobbio, Michael Oakeshott, Karl Popper and Arthur Schlesinger, Jr. For a synthetic study of these figures and of the ethic of moderation they championed see Craiutu 2017. For a survey of the liberalism of Berlin and some of his contemporaries see Cherniss 2021.
 
-[^citations-nd]: Citations in the text start with the year of first publication or (when when the item was initially unpublished) creation, followed (when applicable) within [ ] by the acronym of the collection in which the item has subsequently been published, and the relevant page(s). For the meaning of the acronyms and the asterisk, see below.
-
-[^dates-nd]: Dates preceded by an asterisk indicate the date when the work was first written or presented. They are followed by the date of first publication (which is sometimes online) in square brackets.
-
-[^english-nd]: The many works published in languages other than English are mostly excluded.
-
 [^berlin’s-2013]: The acronymic abbreviations used for Berlin’s collections are taken from [The Isaiah Berlin Virtual Library](https://berlin.wolf.ox.ac.uk/lists/abbrevs.html). The twelve new editions of Berlin’s works published by Princeton University Press in 2013 (AC, CC, CTH, HF, KM, POI, RR, TCE), 2014 (FIB, PI, PIRA) and 2019 (SR) all contain significant additional material and new forewords by experts in the relevant fields, and the Brookings Classics edition (2016) of *The Soviet Mind* was also expanded. A new foreword by Andrew Marr was added in the second edition (Vintage, 2014) of *The Proper Study of Mankind*. A complete list of Berlin’s works is available in [Isaiah Berlin Online](https://isaiah-berlin.wolf.ox.ac.uk/catalogues) and in the [The Isaiah Berlin Virtual Library](https://berlin.wolf.ox.ac.uk/lists/bibliography/index.html#list).
-
-[^page-nd]: Page references in this article are to the latest editions of Berlin’s books. Links to concordances listing corresponding pages in earlier editions are provided on the [Published Works](https://berlin.wolf.ox.ac.uk/published_works/) page of the Isaiah Berlin Virtual Library, except in the case of PSM, whose pagination was not changed in the second edition.
 
 [^ac-1979]: AC: *Against the Current: Essays in the History of Ideas*, Henry Hardy (ed.), London: Hogarth Press, 1979; New York: Viking, 1980; 2nd ed., Princeton and Oxford: Princeton University Press, 2013. doi:10.1515/9781400843237
 
@@ -519,103 +521,101 @@ The second form of (doctrinal or theoretical) ‘realism’, which is commonly f
 
 [^me-2014]: ME: [‘More Explaining: Isaiah Berlin on His Own Ideas’](https://berlin.wolf.ox.ac.uk/published_works/a/more-explaining.pdf), Oxford: Isaiah Berlin Literary Trust, 2014–21.
 
-[^abbreviations-nd]: Abbreviations in square brackets indicate that the item appears in the relevant collection/internet resource.
+[^berlin-1930]: 1930, ‘Some Procrustations’, *Oxford Outlook*, 10(52): 491–502. [[Berlin 1930 available online](https://berlin.wolf.ox.ac.uk/published_works/singles/bib3.pdf)]
 
-[^abbreviations-1930]: 1930, ‘Some Procrustations’, *Oxford Outlook*, 10(52): 491–502. [[Berlin 1930 available online](https://berlin.wolf.ox.ac.uk/published_works/singles/bib3.pdf)]
+[^berlin-1935]: 1935, ‘Impressionist Philosophy’, review of Henri Bergson, *The Two Sources of Morality and Religion*, trans. R. A. Andra and C. Brereton, *London Mercury*, 32: 489–90. [[Berlin 1935 available online](https://berlin.wolf.ox.ac.uk/published_works/singles/bib16a.pdf)]
 
-[^abbreviations-1935]: 1935, ‘Impressionist Philosophy’, review of Henri Bergson, *The Two Sources of Morality and Religion*, trans. R. A. Andra and C. Brereton, *London Mercury*, 32: 489–90. [[Berlin 1935 available online](https://berlin.wolf.ox.ac.uk/published_works/singles/bib16a.pdf)]
+[^berlin-1936a]: 1936a, ‘Plato’, review of G. M. A. Grube, *Plato’s Thought*, and Vladimir Solovyev, *Plato*, trans. Richard Gill, with a note on Solovev by Janko Lavrin, *London Mercury*, 33: 452–3. [[Berlin 1936a available online](https://berlin.wolf.ox.ac.uk/published_works/singles/bib19a.pdf)]
 
-[^abbreviations-1936a]: 1936a, ‘Plato’, review of G. M. A. Grube, *Plato’s Thought*, and Vladimir Solovyev, *Plato*, trans. Richard Gill, with a note on Solovev by Janko Lavrin, *London Mercury*, 33: 452–3. [[Berlin 1936a available online](https://berlin.wolf.ox.ac.uk/published_works/singles/bib19a.pdf)]
+[^berlin-1936b]: \*1936b [2002], ‘Utilitarianism, Measurement and Verification’. [[Berlin 1936b available only online](https://berlin.wolf.ox.ac.uk/lists/nachlass/u13/u13.pdf)]
 
-[^abbreviations-1936b]: \*1936b [2002], ‘Utilitarianism, Measurement and Verification’. [[Berlin 1936b available only online](https://berlin.wolf.ox.ac.uk/lists/nachlass/u13/u13.pdf)]
+[^berlin-1937]: 1937, ‘Induction and Hypothesis’, *Proceedings of the Aristotelian Society* (Supplementary Volume), 16: 63–102. [[Berlin 1937 available online](https://berlin.wolf.ox.ac.uk/published_works/singles/bib20.pdf)]
 
-[^abbreviations-1937]: 1937, ‘Induction and Hypothesis’, *Proceedings of the Aristotelian Society* (Supplementary Volume), 16: 63–102. [[Berlin 1937 available online](https://berlin.wolf.ox.ac.uk/published_works/singles/bib20.pdf)]
+[^berlin-1939]: 1939 [CC], ‘Verification’, *Proceedings of the Aristotelian Society*, 39: 225–48; reprinted in CC, 15–40. doi:10.1093/aristotelian/39.1.225 doi:10.1515/9781400848102-006
 
-[^abbreviations-1939]: 1939 [CC], ‘Verification’, *Proceedings of the Aristotelian Society*, 39: 225–48; reprinted in CC, 15–40. doi:10.1093/aristotelian/39.1.225 doi:10.1515/9781400848102-006
+[^berlin-1949]: \*1949 [POI], ‘Democracy, Communism and the Individual’, speech at the second annual session of the Mount Holyoke College Institute on the United Nations; reprinted in POI2, 273–84. [[Berlin 1949 available online](https://berlin.wolf.ox.ac.uk/lists/nachlass/demcomind.pdf)]
 
-[^abbreviations-1949]: \*1949 [POI], ‘Democracy, Communism and the Individual’, speech at the second annual session of the Mount Holyoke College Institute on the United Nations; reprinted in POI2, 273–84. [[Berlin 1949 available online](https://berlin.wolf.ox.ac.uk/lists/nachlass/demcomind.pdf)]
+[^berlin-1950a]: 1950a [CC], ‘Logical Translation’, *Proceedings of the Aristotelian Society*, 50: 157–88; reprinted in CC, 72–105. doi:10.1093/aristotelian/50.1.157
 
-[^abbreviations-1950a]: 1950a [CC], ‘Logical Translation’, *Proceedings of the Aristotelian Society*, 50: 157–88; reprinted in CC, 72–105. doi:10.1093/aristotelian/50.1.157
+[^berlin-1950b]: 1950b [L], ‘Political Ideas in the Twentieth Century’, *Foreign Affairs*, 28(3): 351–85; reprinted in FEL and in L, 55–93. doi:10.2307/20030256 doi:10.1093/019924989X.003.0002
 
-[^abbreviations-1950b]: 1950b [L], ‘Political Ideas in the Twentieth Century’, *Foreign Affairs*, 28(3): 351–85; reprinted in FEL and in L, 55–93. doi:10.2307/20030256 doi:10.1093/019924989X.003.0002
+[^berlin-1951a]: 1951a [L], ‘A Letter to George Kennan’, 13 February 1951, first published in L, 336–44.
 
-[^abbreviations-1951a]: 1951a [L], ‘A Letter to George Kennan’, 13 February 1951, first published in L, 336–44.
+[^berlin-1951b]: \*1951b [2002], ‘Synthetic *A Priori* Propositions’, American Philosophical Association, December 1951. [[Berlin 1951b available online](https://berlin.wolf.ox.ac.uk/lists/nachlass/synthetic.pdf)]
 
-[^abbreviations-1951b]: \*1951b [2002], ‘Synthetic *A Priori* Propositions’, American Philosophical Association, December 1951. [[Berlin 1951b available online](https://berlin.wolf.ox.ac.uk/lists/nachlass/synthetic.pdf)]
+[^berlin-1951c]: 1951c [HF], ‘Lev Tolstoy’s Historical Scepticism’, *Oxford Slavonic Papers*, 1951, 2: 17–54; reprinted with additions as *The Hedgehog and the Fox: An Essay on Tolstoy’s View of History*, London: Weidenfeld and Nicolson, and New York: Simon and Schuster, 1953; HF reprinted in RT, 24–92, and PSM, 436–98; 2nd edition of HF, Henry Hardy (ed.), Princeton and Oxford: Princeton University Press, 2013; London: Phoenix, 2014. doi:10.2307/j.ctt24hqz8
 
-[^abbreviations-1951c]: 1951c [HF], ‘Lev Tolstoy’s Historical Scepticism’, *Oxford Slavonic Papers*, 1951, 2: 17–54; reprinted with additions as *The Hedgehog and the Fox: An Essay on Tolstoy’s View of History*, London: Weidenfeld and Nicolson, and New York: Simon and Schuster, 1953; HF reprinted in RT, 24–92, and PSM, 436–98; 2nd edition of HF, Henry Hardy (ed.), Princeton and Oxford: Princeton University Press, 2013; London: Phoenix, 2014. doi:10.2307/j.ctt24hqz8
+[^berlin-1953]: \*1953 [SR], ‘Philosophy and Government Repression’, 1953; first published in SR, 67–95.
 
-[^abbreviations-1953]: \*1953 [SR], ‘Philosophy and Government Repression’, 1953; first published in SR, 67–95.
+[^berlin-1954a]: 1954a [L], *Historical Inevitability*, London: Oxford University Press; reprinted in FEL and in L, 94–165.
 
-[^abbreviations-1954a]: 1954a [L], *Historical Inevitability*, London: Oxford University Press; reprinted in FEL and in L, 94–165.
+[^berlin-1954b]: 1954b [POI], ‘Realism in Politics’, *The Spectator*, 17 December 1954, 193(6599): 774–6; reprinted in POI, 163–72. doi:10.1515/9781400848843-015
 
-[^abbreviations-1954b]: 1954b [POI], ‘Realism in Politics’, *The Spectator*, 17 December 1954, 193(6599): 774–6; reprinted in POI, 163–72. doi:10.1515/9781400848843-015
+[^berlin-1955a]: 1955a [RT], ‘Herzen and Bakunin on Individual Liberty’, in *Continuity and Change in Russian and Soviet Thought*, Ernest J. Simmons (ed.), Cambridge, MA: Harvard University Press; reprinted in RT, 93–129.
 
-[^abbreviations-1955a]: 1955a [RT], ‘Herzen and Bakunin on Individual Liberty’, in *Continuity and Change in Russian and Soviet Thought*, Ernest J. Simmons (ed.), Cambridge, MA: Harvard University Press; reprinted in RT, 93–129.
+[^berlin-1955b]: 1955b (with Stuart Hampshire, Iris Murdoch and Anthony Quinton), ‘Philosophy and Beliefs’, *Twentieth Century*, 157: 495–521. [[Berlin 1955b available online](https://berlin.wolf.ox.ac.uk/published_works/singles/bib59.pdf)]
 
-[^abbreviations-1955b]: 1955b (with Stuart Hampshire, Iris Murdoch and Anthony Quinton), ‘Philosophy and Beliefs’, *Twentieth Century*, 157: 495–521. [[Berlin 1955b available online](https://berlin.wolf.ox.ac.uk/published_works/singles/bib59.pdf)]
+[^berlin-1956a]: 1956a [2017; introduction in POI] (ed.), *The Age of Enlightenment: The Eighteenth-Century Philosophers*, Boston: Houghton Mifflin, New York: New American Library. 2nd edition, Henry Hardy (ed.), Oxford: The Isaiah Berlin Literary Trust, 2017. [[Berlin 1956 [2017] available only online](https://berlin.wolf.ox.ac.uk/published_works/ae/AE2.pdf)]
 
-[^abbreviations-1956a]: 1956a [2017; introduction in POI] (ed.), *The Age of Enlightenment: The Eighteenth-Century Philosophers*, Boston: Houghton Mifflin, New York: New American Library. 2nd edition, Henry Hardy (ed.), Oxford: The Isaiah Berlin Literary Trust, 2017. [[Berlin 1956 [2017] available only online](https://berlin.wolf.ox.ac.uk/published_works/ae/AE2.pdf)]
+[^berlin-1956b]: 1956b [CC], ‘Equality’, *Proceedings of the Aristotelian Society*, 56: 301–26; reprinted in CC, 106–34. doi:10.1515/9781400848102-009
 
-[^abbreviations-1956b]: 1956b [CC], ‘Equality’, *Proceedings of the Aristotelian Society*, 56: 301–26; reprinted in CC, 106–34. doi:10.1515/9781400848102-009
+[^berlin-1956c]: 1956c [RT], ‘Herzen and the Grand Inquisitors’, *Encounter*, 6(5): 20–34; reprinted as ‘A Remarkable Decade 4: Alexander Herzen’ in RT, 212–39.
 
-[^abbreviations-1956c]: 1956c [RT], ‘Herzen and the Grand Inquisitors’, *Encounter*, 6(5): 20–34; reprinted as ‘A Remarkable Decade 4: Alexander Herzen’ in RT, 212–39.
+[^berlin-1957]: \*1957 [SR], ‘Political Judgement’, BBC Third Programme talk; first published in SR, 50–66.
 
-[^abbreviations-1957]: \*1957 [SR], ‘Political Judgement’, BBC Third Programme talk; first published in SR, 50–66.
+[^berlin-1958]: 1958 [L], *Two Concepts of Liberty* (Inaugural Lecture as Chichele Professor of Social and Political Theory, Oxford), Oxford, Clarendon Press; reprinted in FEL and in L, 166–217.
 
-[^abbreviations-1958]: 1958 [L], *Two Concepts of Liberty* (Inaugural Lecture as Chichele Professor of Social and Political Theory, Oxford), Oxford, Clarendon Press; reprinted in FEL and in L, 166–217.
+[^berlin-1959]: 1959 [L], *John Stuart Mill and the Ends of Life* (Robert Waley Cohen Memorial Lecture), London: Council of Christians and Jews; reprinted in FEL and in L, 218–51.
 
-[^abbreviations-1959]: 1959 [L], *John Stuart Mill and the Ends of Life* (Robert Waley Cohen Memorial Lecture), London: Council of Christians and Jews; reprinted in FEL and in L, 218–51.
+[^berlin-1960]: 1960 [CC], ‘History and Theory: The Concept of Scientific History’, *History and Theory*, 1(1): 1–31; reprinted as ‘The Concept of Scientific History’ in CC, 135–86. doi:10.2307/2504255 doi:10.1515/9781400848102-010
 
-[^abbreviations-1960]: 1960 [CC], ‘History and Theory: The Concept of Scientific History’, *History and Theory*, 1(1): 1–31; reprinted as ‘The Concept of Scientific History’ in CC, 135–86. doi:10.2307/2504255 doi:10.1515/9781400848102-010
+[^berlin-1961a]: 1961a [CC], ‘La Théorie Politique Existe-t-elle?’, *Revue française de science politique*, 11(2): 309–37; reprinted as ‘Does Political Theory Still Exist?’ in CC, 187–225. doi:10.1515/9781400848102-011
 
-[^abbreviations-1961a]: 1961a [CC], ‘La Théorie Politique Existe-t-elle?’, *Revue française de science politique*, 11(2): 309–37; reprinted as ‘Does Political Theory Still Exist?’ in CC, 187–225. doi:10.1515/9781400848102-011
+[^berlin-1961b]: 1961b [RT], ‘Tolstoy and Enlightenment’, *Encounter*, 16(1): 29–40; reprinted in RT, 273–98.
 
-[^abbreviations-1961b]: 1961b [RT], ‘Tolstoy and Enlightenment’, *Encounter*, 16(1): 29–40; reprinted in RT, 273–98.
+[^berlin-1962a]: 1962a [CC, POI], ‘The Purpose of Philosophy’, *Insight* (Nigeria), 1(1): 12–15; reprinted in the *Sunday Times*, 4 November 1962, 7277: 23, 26; reprinted in CC, 1–14, and POI, 29–42.
 
-[^abbreviations-1962a]: 1962a [CC, POI], ‘The Purpose of Philosophy’, *Insight* (Nigeria), 1(1): 12–15; reprinted in the *Sunday Times*, 4 November 1962, 7277: 23, 26; reprinted in CC, 1–14, and POI, 29–42.
+[^berlin-1962b]: 1962b [L], ‘Three Turning-Points in Political Thought [1]: The Greeks’, the first of his three Storrs Lectures given at Yale University; first published in 1998 as ‘A Turning-Point in Political Thought’, *Common Knowledge*, 7(3): 186–214; reprinted as ‘The Birth of Greek Individualism: A Turning-Point in the History of Political Thought’, in L, 287–321. doi:10.1093/019924989X.003.0008
 
-[^abbreviations-1962b]: 1962b [L], ‘Three Turning-Points in Political Thought [1]: The Greeks’, the first of his three Storrs Lectures given at Yale University; first published in 1998 as ‘A Turning-Point in Political Thought’, *Common Knowledge*, 7(3): 186–214; reprinted as ‘The Birth of Greek Individualism: A Turning-Point in the History of Political Thought’, in L, 287–321. doi:10.1093/019924989X.003.0008
+[^berlin-1964]: 1964 [L], ‘From Hope and Fear Set Free’, *Proceedings of the Aristotelian Society*, 64: 1–30; reprinted in L, 252–80. doi:10.1093/aristotelian/64.1.1 doi:10.1093/019924989X.003.0006
 
-[^abbreviations-1964]: 1964 [L], ‘From Hope and Fear Set Free’, *Proceedings of the Aristotelian Society*, 64: 1–30; reprinted in L, 252–80. doi:10.1093/aristotelian/64.1.1 doi:10.1093/019924989X.003.0006
+[^berlin-1965]: 1965 [TCE], ‘Herder and the Enlightenment’, in Earl R. Wasserman (ed.), *Aspects of the Eighteenth Century*, Baltimore: Johns Hopkins Press, 47–104; revised and reprinted in VH and TCE, 208–300.
 
-[^abbreviations-1965]: 1965 [TCE], ‘Herder and the Enlightenment’, in Earl R. Wasserman (ed.), *Aspects of the Eighteenth Century*, Baltimore: Johns Hopkins Press, 47–104; revised and reprinted in VH and TCE, 208–300.
+[^berlin-1969a]: 1969a [FEL]: ‘Introduction’ to FEL, ix–lxiii; reprinted in L, 3–54.
 
-[^abbreviations-1969a]: 1969a [FEL]: ‘Introduction’ to FEL, ix–lxiii; reprinted in L, 3–54.
+[^berlin-1969b]: 1969b [2018], ‘The Hazards of Social Revolution’, in Aaron W. Warner, Dean Morse and Thomas E. Cooney (eds.), *The Environment of Change*, New York: Columbia University Press, 1–27; reprinted as ‘The Lessons of History’ in Cherniss and Smith 2018, 265–76 (ch.15).
 
-[^abbreviations-1969b]: 1969b [2018], ‘The Hazards of Social Revolution’, in Aaron W. Warner, Dean Morse and Thomas E. Cooney (eds.), *The Environment of Change*, New York: Columbia University Press, 1–27; reprinted as ‘The Lessons of History’ in Cherniss and Smith 2018, 265–76 (ch.15).
+[^berlin-1972a]: 1972a [RT], *Fathers and Children* (The Romanes Lecture, 1970), Oxford: Clarendon Press; reprinted in RT, 299–352.
 
-[^abbreviations-1972a]: 1972a [RT], *Fathers and Children* (The Romanes Lecture, 1970), Oxford: Clarendon Press; reprinted in RT, 299–352.
+[^berlin-1972b]: 1972b [AC], ‘The Originality of Machiavelli’, in *Studies on Machiavelli*, M. Gilmore (ed.), Florence: Sansoni; reprinted in AC, 33–100 and PSM, 269–325.
 
-[^abbreviations-1972b]: 1972b [AC], ‘The Originality of Machiavelli’, in *Studies on Machiavelli*, M. Gilmore (ed.), Florence: Sansoni; reprinted in AC, 33–100 and PSM, 269–325.
+[^berlin-1974]: 1974 [AC], ‘The Divorce between the Sciences and the Humanities’ (The Second Tykociner Memorial Lecture), Illinois: University of Illinois; reprinted in AC, 101–39.
 
-[^abbreviations-1974]: 1974 [AC], ‘The Divorce between the Sciences and the Humanities’ (The Second Tykociner Memorial Lecture), Illinois: University of Illinois; reprinted in AC, 101–39.
+[^berlin-1978]: 1978 [CC], ‘Is a Philosophy of History Possible?’, part of a panel discussion in *Philosophy of History and Action: Papers Presented at the First Jerusalem Philosophical Encounter* (Philosophical Studies Series in Philosophy 11), Yirmiyahu Yovel (ed.), Dordrecht/Boston: D. Reidel, 219–25; reprinted in CC, 318–25. doi:10.1515/9781400848102-018
 
-[^abbreviations-1978]: 1978 [CC], ‘Is a Philosophy of History Possible?’, part of a panel discussion in *Philosophy of History and Action: Papers Presented at the First Jerusalem Philosophical Encounter* (Philosophical Studies Series in Philosophy 11), Yirmiyahu Yovel (ed.), Dordrecht/Boston: D. Reidel, 219–25; reprinted in CC, 318–25. doi:10.1515/9781400848102-018
+[^berlin-1980]: 1980 [CTH], ‘Note on Alleged Relativism in Eighteenth Century European Thought’, *Journal for Eighteenth-Century Studies*, 3(2): 89–106; reprinted with revisions as ‘Alleged Relativism in Eighteenth-Century European Thought’ in CTH, 73–94. doi:10.1111/j.1754-0208.1980.tb00445.x
 
-[^abbreviations-1980]: 1980 [CTH], ‘Note on Alleged Relativism in Eighteenth Century European Thought’, *Journal for Eighteenth-Century Studies*, 3(2): 89–106; reprinted with revisions as ‘Alleged Relativism in Eighteenth-Century European Thought’ in CTH, 73–94. doi:10.1111/j.1754-0208.1980.tb00445.x
+[^berlin-1983a]: 1983a [CTH], ‘Giambattista Vico and Cultural History’, in Leigh S. Cauman and others (eds.), *How Many Questions? Essays in Honor of Sidney Morgenbesser*, Indianapolis: Hackett, 474–97; reprinted in CTH, 51–72.
 
-[^abbreviations-1983a]: 1983a [CTH], ‘Giambattista Vico and Cultural History’, in Leigh S. Cauman and others (eds.), *How Many Questions? Essays in Honor of Sidney Morgenbesser*, Indianapolis: Hackett, 474–97; reprinted in CTH, 51–72.
+[^berlin-1983b]: 1983b [CTH], ‘Reply to Robert Kocis’, *Political Studies*, 31(3): 388–93; reprinted in CTH, 303–13. doi:10.1111/j.1467-9248.1983.tb01770.x
 
-[^abbreviations-1983b]: 1983b [CTH], ‘Reply to Robert Kocis’, *Political Studies*, 31(3): 388–93; reprinted in CTH, 303–13. doi:10.1111/j.1467-9248.1983.tb01770.x
+[^berlin-1988]: 1988 [CTH], ‘On the Pursuit of the Ideal’, Turin: Giovanni Agnelli Foundation; reprinted as ‘The Pursuit of the Ideal’, CTH 1–20.
 
-[^abbreviations-1988]: 1988 [CTH], ‘On the Pursuit of the Ideal’, Turin: Giovanni Agnelli Foundation; reprinted as ‘The Pursuit of the Ideal’, CTH 1–20.
+[^berlin-1991]: 1991, ‘Two Concepts of Nationalism’ (interview with Nathan Gardels), *New York Review of Books*, 21 November, 38(19): 19–23 (corrections 5 December 1991, 58). [[Berlin 1991 available online](https://berlin.wolf.ox.ac.uk/lists/interviews/gardels.pdf)]
 
-[^abbreviations-1991]: 1991, ‘Two Concepts of Nationalism’ (interview with Nathan Gardels), *New York Review of Books*, 21 November, 38(19): 19–23 (corrections 5 December 1991, 58). [[Berlin 1991 available online](https://berlin.wolf.ox.ac.uk/lists/interviews/gardels.pdf)]
+[^berlin-1992]: 1992 [1998], ‘Isaiah Berlin in Conversation with Steven Lukes’, first published in Italian as ‘Isaiah Berlin: Tra la filosofia e la storia delle idee’ (‘Between Philosophy and the History of Ideas’), *Iride*, 8 (1992): 82–136; English original published in *Salmagundi*, 120 (Fall 1998): 52–134. [[English original of Berlin 1992 [1998] available online](https://stevenlukes.net/wp-content/uploads/2012/06/9-isaiah-berlin-in-conversation-with-steven-lukes.pdf)]
 
-[^abbreviations-1992]: 1992 [1998], ‘Isaiah Berlin in Conversation with Steven Lukes’, first published in Italian as ‘Isaiah Berlin: Tra la filosofia e la storia delle idee’ (‘Between Philosophy and the History of Ideas’), *Iride*, 8 (1992): 82–136; English original published in *Salmagundi*, 120 (Fall 1998): 52–134. [[English original of Berlin 1992 [1998] available online](https://stevenlukes.net/wp-content/uploads/2012/06/9-isaiah-berlin-in-conversation-with-steven-lukes.pdf)]
+[^berlin-1993]: 1993 [TCE], *The Magus of the North: J.G. Hamann and the Origins of Modern Irrationalism*, Henry Hardy (ed.), London: John Murray; reprinted in TCE, 301–452.
 
-[^abbreviations-1993]: 1993 [TCE], *The Magus of the North: J.G. Hamann and the Origins of Modern Irrationalism*, Henry Hardy (ed.), London: John Murray; reprinted in TCE, 301–452.
+[^berlin-1994a]: 1994a [CC] (with Bernard Williams), reply to Crowder 1994.
 
-[^abbreviations-1994a]: 1994a [CC] (with Bernard Williams), reply to Crowder 1994.
+[^berlin-1994b]: 1994b, unpublished letter to Fumiko Sasaki, 6 April 1994.
 
-[^abbreviations-1994b]: 1994b, unpublished letter to Fumiko Sasaki, 6 April 1994.
+[^berlin-1995]: 1995 [UD], interview with Beata Polanowska-Sygulska, 17 May.
 
-[^abbreviations-1995]: 1995 [UD], interview with Beata Polanowska-Sygulska, 17 May.
+[^berlin-1997]: 1997 [A], ‘Israel and the Palestinians’, published in A, 568. [[Berlin 1997 available online](https://berlin.wolf.ox.ac.uk/information/israelandthepalestinians.html)]
 
-[^abbreviations-1997]: 1997 [A], ‘Israel and the Palestinians’, published in A, 568. [[Berlin 1997 available online](https://berlin.wolf.ox.ac.uk/information/israelandthepalestinians.html)]
-
-[^abbreviations-1998]: 1998 [POI], ‘My Intellectual Path’, part of ‘The First and the Last’, *New York Review of Books*, 45(8), 14 May; reprinted in *The First and the Last*, New York: New York Review Books; London: Granta, 1999; reprinted in POI, 1–28.
+[^berlin-1998]: 1998 [POI], ‘My Intellectual Path’, part of ‘The First and the Last’, *New York Review of Books*, 45(8), 14 May; reprinted in *The First and the Last*, New York: New York Review Books; London: Granta, 1999; reprinted in POI, 1–28.
 
 [^aarsbergen-ligtvoet-2006]: Aarsbergen-Ligtvoet, Connie, 2006, *Isaiah Berlin: A Value Pluralist and Humanist View of Human Nature and the Meaning of Life*, Amsterdam, New York: Rodopi.
 

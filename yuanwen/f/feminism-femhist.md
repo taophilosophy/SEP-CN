@@ -199,6 +199,8 @@ Why is it that feminist philosophers have reached different, and even sometimes 
 
 ### Comprehensive Bibliography
 
+Supplementary Document:
+
 > [Bibliography of Feminist Philosophers Writing about the History of Philosophy](feminism-femhist.bib.md)
 > [by Abigail Gosselin, Rosalind Chaplin, and Emily Hodges]
 
@@ -260,8 +262,6 @@ The authors note that Sections 2.2 and 2.4 of the 2021 update was written by the
 [^note-14]: The ideas in this paragraph and the following paragraph on Harper, along with much of the argument undergirding this entire segment on Black women philosophers, not only comes out of the essay noted here, but also out of a larger research project on Harper well underway.
 
 [^note-15]: Atherton 1993. Celia Amorós has retrieved the arguments in support of the equality of the sexes made by the seventeenth century Cartesian philosopher Francois Poullain de la Barre (1647–1723). See Amorós 1994.
-
-[^supplementary-nd]: Supplementary Document:
 
 [^adamson-2019]: Adamson, Peter, 2019, *Medieval Philosophy* (A History of Philosophy without Any Gaps 4), Oxford: Oxford University Press.
 

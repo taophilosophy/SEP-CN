@@ -239,6 +239,8 @@ One of the first women distinguished as a philosopher and public intellectual in
 
 ### Susman’s Works
 
+Citations to Susman’s works given above reference the German editions and also, where possible, the English editions. But the translations provided are by the author of this entry.
+
 #### Edited volumes
 
 #### Translation
@@ -262,8 +264,6 @@ One of the first women distinguished as a philosopher and public intellectual in
 ## Related Entries
 
 Bloch, Ernst | Buber, Martin | Cohen, Hermann | Derrida, Jacques | Levinas, Emmanuel | Mendelssohn, Moses | Rosenzweig, Franz | Spinoza, Baruch
-
-[^citations-nd]: Citations to Susman’s works given above reference the German editions and also, where possible, the English editions. But the translations provided are by the author of this entry.
 
 [^juk-1907]: [JuK] 1907, “Judentum und Kultur” (Judaism and Culture), *Frankfurter Zeitung*, 16 May 1907, 1–2.
 

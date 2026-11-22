@@ -224,15 +224,25 @@ The publication of “The Relation of the Principles of Logic to the Foundations
 
 ### Primary Literature
 
+A collection of works relevant to Royce studies, including a growing critical edition of his works, is available online:
+
 > [The Josiah Royce Edition](https://hrc.csub.edu/josiah-royce-edition/). Historical Research Center, California State University, Bakersfield.
 
+The most complete bibliography of Royce’s published writings is:
+
 > Skrupskelis, I. K., “Annotated Bibliography of the Published Works of Josiah Royce,” in McDermott (1969 [2005, vol. 2: 1167–1226]).
+
+This bibliography, as well as a more recent one by André De Tienne, are available from the Royce Edition [website](https://hrc.csub.edu/josiah-royce-edition/royce-bibliographies/).
 
 #### Works by Royce
 
 #### Royce’s Unpublished Writings
 
+Royce’s papers can be found in:
+
 > Harvard University Archives, Royce Papers: 156 boxes: 98 folio boxes, 47 document boxes, 11 media boxes.
+
+Royce’s unpublished writings are indexed and described in the following two works:
 
 > Frank Oppenheim, with the assistance of Dawn Aberg and John Kaag, 2011, *Comprehensive Index of the Josiah Royce Papers in the Harvard University Archives*, Indiana University-Purdue University Indianapolis. [Oppenheim Comprehensive Index](https://hrc.csub.edu/josiah-royce-edition/oppenheim-comprehensive-index/)
 >
@@ -291,12 +301,6 @@ Editors Note: Kelly Parker contributed Sections 1 (“Life”) and 2 (“Philoso
 [^note-13]: Royce argued that the $F$-relation is simply an $O$-relation in another form (1905, 387). From an agency perspective, this seems incorrect since the $F$-relation also represents action carried out and alternative possibilities lost. It may be that Royce’s reductive view of $F$-relations is a claim about what is needed to produce action. $F$-relations, even as they mark actual accomplishments, arise on the basis of possibilities that are framed and known through O-relations. In the *Foundations* paper Royce noted that “logical relations can be indifferently stated as $O$-relations, or stated as $F$-relations … In fundamental meaning all these relations spring from a common root” (1905, 387). His student, Henry Sheffer challenged this conclusion (Sheffer, 1908; Scanlan, 2011; Pratt, 2011)[^pratt-2011][^scanlan-2011][^sheffer-1908].
 
 [^note-14]: While the strict conditional $\Box (\neg C \supset B)$ solves the shared parameter issue of the material conditional by asserting a necessary connection, the $\Sigma$ version links $\neg C$ and $B$ through the propositional parameter $A$ that must hold in whatever possible world where $\neg C \supset B$ is true. On this model, since each propositional parameter either holds or doesn’t in each world, when $A$ is a parameter, the $\neg C \supset B$ is true, but when $B$ is the shared parameter, it is not.
-
-[^royce-nd]: A collection of works relevant to Royce studies, including a growing critical edition of his works, is available online:
-
-[^royce’s-nd]: The most complete bibliography of Royce’s published writings is:
-
-[^this-nd]: This bibliography, as well as a more recent one by André De Tienne, are available from the Royce Edition [website](https://hrc.csub.edu/josiah-royce-edition/royce-bibliographies/).
 
 [^clendenning-1970]: Clendenning, J. (ed.), 1970, *The Letters of Josiah Royce*, Chicago: University of Chicago Press.
 
@@ -357,10 +361,6 @@ Editors Note: Kelly Parker contributed Sections 1 (“Life”) and 2 (“Philoso
 [^royce-1919]: –––, 1919, *Lectures on Modern Idealism*, J. Loewenberg (ed.), New Haven: Yale University Press.
 
 [^royce-1920]: –––, 1920, *Fugitive Essays*, J. Loewenberg (ed.), Cambridge, MA: Harvard University Press.
-
-[^royce’s-nd-2]: Royce’s papers can be found in:
-
-[^royce’s-nd-3]: Royce’s unpublished writings are indexed and described in the following two works:
 
 [^james-1985]: James, W., 1985 [1902], *The Varieties of Religious Experience* (The Works of William James), Frederick Burkhardt (ed.), Cambridge, Mass.: Harvard University Press.
 

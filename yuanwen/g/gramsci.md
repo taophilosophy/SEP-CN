@@ -233,6 +233,8 @@ Gramsci’s *Notebooks* continued to attract scholarly interest after the demise
 
 ### Primary Literature
 
+All works below are by Antonio Gramsci.
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -250,8 +252,6 @@ Gramsci’s *Notebooks* continued to attract scholarly interest after the demise
 ## Related Entries
 
 Croce, Benedetto: aesthetics | Hegel, Georg Wilhelm Friedrich | Marx, Karl | socialism
-
-[^all-nd]: All works below are by Antonio Gramsci.
 
 [^fspn-1995]: [FSPN] *Further Selections from the Prison Notebooks*, Derek Boothman (ed./tran.), Minneapolis, MN: University of Minnesota Press, 1995.
 

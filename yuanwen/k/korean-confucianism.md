@@ -295,6 +295,8 @@ Recent scholarship reinforces this vision. Yao’s edited volume, *Reconceptuali
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+See the supplementary document [ (Figures and their Works)](korean-confucianism.supplement.md) for a list of figures and works discussed in the entry.
+
 ### Primary Literature
 
 ### Secondary Literature
@@ -319,8 +321,6 @@ Recent scholarship reinforces this vision. Yao’s edited volume, *Reconceptuali
 ## Related Entries
 
 Chinese Philosophy: Song-Ming Confucianism | Confucius | Korean Philosophy | Korean Philosophy: Buddhism | Mencius | Xunzi | Zhu Xi
-
-[^see-nd]: See the supplementary document [ (Figures and their Works)](korean-confucianism.supplement.md) for a list of figures and works discussed in the entry.
 
 [^book-nd]: Book of Rites, Li Yun 禮運, [[Book of Rites available online](https://ctext.org/liji/li-yun)].
 

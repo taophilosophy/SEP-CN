@@ -99,6 +99,8 @@ The following texts are critical editions, using all known manuscript witnesses.
 
 ### Secondary Literature
 
+Note: unless they are cited in the text, the individual studies in the six volumes of Appignano Acts are not listed below. Free access is [available online](http://francescodappignano.com/).
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=francis-marchia). |
@@ -158,8 +160,6 @@ Auriol [Aureol, Aureoli], Peter | Buridan, John [Jean] | Duns Scotus, John | Gre
 [^marchia-2013b]: ––– 2013b: *Francisci de Marchia Quaestiones in secundum librum Sententiarum (Reportatio IIA). Quaestiones 28–49*, ed. T. Suarez-Nani, W.O. Duba, D. Carron, G.J. Etzkorn (Leuven 2013).
 
 [^nicolaus-1996]: Nicolaus Minorita 1996: *Nicolaus Minorita: Chronica. Documentation on Pope John XXII, Michael of Cesena and the Poverty of Christ with Summaries in English. A Sources Book*, eds. G. Gal and D. Flood (St. Bonaventure, NY, 1996).
-
-[^note-nd]: Note: unless they are cited in the text, the individual studies in the six volumes of Appignano Acts are not listed below. Free access is [available online](http://francescodappignano.com/).
 
 [^aertsen-2012]: Aertsen, J. 2012: *Medieval Philosophy as Transcendental Thought. From Philip the Chancellor (ca. 1225) to Francisco Suárez* (Leiden 2012).
 

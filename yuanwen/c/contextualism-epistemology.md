@@ -383,6 +383,8 @@ The various strengths and weakness of each of these views — considered both on
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+[Pagination of in-text citations follows that of the reprint, where given.]
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=contextualism-epistemology). |
@@ -449,8 +451,6 @@ epistemic closure | epistemic paradoxes | epistemology | epistemology: social | 
 [^note-23]: The idea can be found, in various forms, in, e.g., Austin 1946, 77; Moore 1993, 277; Williams 2001, 149; Recanati 1986, 219; Alston 2000, esp. 63; Brandom 1994, 203-204; Unger 1975, 252ff; and DeRose 2002. See too the further references given in the latter’s note 20, as well as Section 3 of Adler 2017.
 
 [^note-24]: One issue on which subsequent discussion has focused is whether objectivization would require that the relevant stable standards be very high, as Craig in some places seems to suggest (see Feldman 1997, 211; Schmitt 1992, 558; Kelp 2011, 65, n. 2; Rysiew 2012, 273)[^feldman-1997][^kelp-2011][^schmitt-1992]. Another is whether Craig is correct that ‘knowledge’ serves uniquely, or most especially, to flag reliable informants. As against Craig, a number of alternative suggestions have been made, often with the *proviso* that knowledge attributions, or the concept of knowledge, may well serve more than one role (see, e.g., Kappel 2010; Kelp 2011; Beebe 2012; Lackey 2012; Rysiew 2012, 2020, 2025; Gerken 2015, 2017; Lawlor 2013, 2021)[^beebe-2012][^gerken-2015][^gerken-2017][^kappel-2010][^kelp-2011][^lackey-2012][^lawlor-2013][^lawlor-2021][^rysiew-2020][^rysiew-2025].
-
-[^pagination-nd]: [Pagination of in-text citations follows that of the reprint, where given.]
 
 [^adler-2006]: Adler, J., 2006, “Withdrawal and Contextualism”, *Analysis*, 66(4): 280–285.
 

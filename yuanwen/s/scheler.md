@@ -205,6 +205,8 @@ Many of the differences between Scheler and his fellow phenomenologists, whether
 
 ### A. Collected Works
 
+The collected works of Max Scheler are published as *Gesammelte Werke*, in volumes as follows:
+
 > 1. *Frühe Schriften*, 1971, Maria Scheler and Manfred S. Frings (eds.), Bern: Francke Verlag.
 > 2. *Der Formalismus in der Ethik und die matierale Wertethik. Neuer Versuch der Grundlegung eines ethischen Personalismus*, 1980, Maria Scheler (ed. 1ˢᵗ to 5ᵗʰ Edition), Manfred S. Frings (ed. 6ᵗʰ Edition), Bern: Francke Verlag.
 > 3. *Vom Umsturz der Werte*, 1972, Maria Scheler (ed.). Bern: Francke Verlag.
@@ -250,8 +252,6 @@ Brentano, Franz | Heidegger, Martin | Husserl, Edmund | Kant, Immanuel | metaphy
 ## Notes（原文脚注）
 
 [^note-1]: The intuition of oneself as a person is given in the act of self-love. There are other types of experiences, according to Scheler, where we are given to ourselves as persons, i.e., experiences that demonstrate that we are not merely living beings. Such experiences are shame (GW X, 65–148), wonder (GW IX, 68), and a sense of the afterlife (GW X, 36–49).
-
-[^max-nd]: The collected works of Max Scheler are published as *Gesammelte Werke*, in volumes as follows:
 
 [^cognition-2021]: *Cognition and Work: A Study Concerning the Value and Limits of the Pragmatic Motifs in the Cognition of the World*, 2021 Zachary Davis (tr.), Evanston, IL: Northwestern University Press.
 

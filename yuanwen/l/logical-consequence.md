@@ -174,6 +174,8 @@ We all agree that there are many different formal techniques for studying logica
 
 ### Philosophy of Logical Consequence
 
+There are many (many) other works on this topic, but the bibliographies of the following will serve as a suitable resource for exploring the field.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logical-consequence). |
@@ -227,8 +229,6 @@ Aristotle, General Topics: logic | Bolzano, Bernard | Carnap, Rudolf | Frege, Go
 [^tarski-1936]: –––, 1936, “On The Concept of Logical Consequence,” J.H. Woodger (trans.), in Tarski 1983, pp. 409–420.
 
 [^tarski-1983]: –––, 1983, *Logic, Semantics, Metamathematics: papers from 1923 to 1938*, second edition, J. H. Woodger (trans.), J. Corcoran (ed.), Indianapolis, IN: Hackett.
-
-[^there-nd]: There are many (many) other works on this topic, but the bibliographies of the following will serve as a suitable resource for exploring the field.
 
 [^avron-1994]: Avron, Arnon, 1994, “What is a Logical System?” in *What is a Logical System?*, D.M. Gabbay (ed.), Oxford: Clarendon Press (Studies in Logic and Computation: Volume 4), pp. 217–238.
 

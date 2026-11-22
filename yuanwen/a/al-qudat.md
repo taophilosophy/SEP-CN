@@ -195,6 +195,8 @@ As far as ʿAyn al-Quḍāt’s Arabic writings go, shortly after his death *Ess
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+For a full bibliography, see:
+
 ### A. Primary Literature
 
 ### B. Secondary Literature
@@ -214,8 +216,6 @@ As far as ʿAyn al-Quḍāt’s Arabic writings go, shortly after his death *Ess
 ## Related Entries
 
 al-Farabi | al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines in: philosophy of religion | Arabic and Islamic Philosophy, special topics in: mysticism | Ibn ‘Arabī | Ibn Sina [Avicenna] | Mulla Sadra | Plato: middle period metaphysics and epistemology | Plato: *Parmenides* | Plotinus | Suhrawardi | Umar Khayyam
-
-[^for-nd]: For a full bibliography, see:
 
 [^rustom-2023]: Rustom, Mohammed, 2023, *Inrushes of the Heart: The Sufi Philosophy of ʿAyn al-Quḍāt*, Albany, NY: State University of New York Press.
 

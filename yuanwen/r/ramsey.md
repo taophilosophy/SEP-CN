@@ -540,6 +540,8 @@ In addition to these contributions to mathematics Frank Ramsey (1925a)[^ramsey-1
 
 #### 4. Other Posthumously Published Works
 
+Other short, posthumously-published works, all of which are reprinted in the collections listed in Subsection A.1 above:
+
 ### B. Secondary Sources
 
 ## Academic Tools
@@ -648,8 +650,6 @@ Since it is assumed that $des$ represents the subject’s utilities, it follows 
 [^foundations-1929]: “Foundations of Mathematics”, *The Encyclopædia Britannica*, 14th edition, volume 15 (1929), 82–4.
 
 [^bertrand-1929]: “Bertrand Arthur William Russell” (coauthor), *The Encyclopædia Britannica*, 14th edition, volume 19 (1929), 678.
-
-[^other-nd]: Other short, posthumously-published works, all of which are reprinted in the collections listed in Subsection A.1 above:
 
 [^american-1987]: “The ‘long’ and ‘short’ of it or a failure of logic”, *American Philosophical Quarterly*, 24(4) (1987): 357–59; reprinted in [OT], p. 125–127.
 

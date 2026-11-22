@@ -259,6 +259,8 @@ Carnap acknowledges the independent nature of spiritual (*geistigen*) or intersu
 
 #### Original Works Cited
 
+An asterisk (\*) on a date indicates the work was published posthumously.
+
 | 1860\* | *Schleiermacher’s Hermeneutical System in Relation to Earlier Protestant Hermeneutics*, in SW.IV, 33–227. |
 | --- | --- |
 | 1864\* | “Versuch einer Analyse des moralischen Bewußtseins”, in GS.VI, 1–28. |
@@ -302,8 +304,6 @@ Carnap acknowledges the independent nature of spiritual (*geistigen*) or intersu
 ## Related Entries
 
 Gadamer, Hans-Georg | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | hermeneutics | history, philosophy of | Kant, Immanuel | Schleiermacher, Friedrich Daniel Ernst
-
-[^an-nd]: An asterisk (\*) on a date indicates the work was published posthumously.
 
 [^briefwechsel-1877]: *Briefwechsel zwischen Wilhelm Dilthey und dem Grafen Paul Yorck von Wartenburg, 1877–1897*, Halle (Saale), Germany: M. Niemeyer, 1922.
 

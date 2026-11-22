@@ -610,6 +610,8 @@ We can think of each hyperreal probability function $\bp$ as an iceberg, with th
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Citations annotated in smaller text refer to books or articles that are recommended for further introductory reading.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-belief-revision). |
@@ -625,8 +627,6 @@ We can think of each hyperreal probability function $\bp$ as an iceberg, with th
 ## Related Entries
 
 logic: conditionals | logic: dynamic epistemic | logic: non-monotonic | reasoning: defeasible
-
-[^citations-nd]: Citations annotated in smaller text refer to books or articles that are recommended for further introductory reading.
 
 [^alchourrón-1985]: Alchourrón, C.E., P. Gärdenfors, and D. Makinson, 1985, “On the Logic of Theory Change: Partial Meet Contraction and Revision Functions”, *Journal of Symbolic Logic*, 50: 510–530. [The starting-point for all subsequent studies of belief revision.]
 

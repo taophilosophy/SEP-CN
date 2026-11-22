@@ -136,15 +136,31 @@ Whatever may have spurred Zeno’s development of his collection of paradoxes, h
 
 ### Further Reading
 
+Comprehensive accounts of Zeno and his arguments may be found in:
+
 ### Primary Sources
 
 #### Zeno of Elea
+
+The long standard collection of the fragments of the Presocratics and sophists, together with testimonia pertaining to their lives and thought, has been:
+
+For the English reader, the fragments and testimonia of the Presocratics and sophists are now most usefully presented in:
+
+See also:
+
+The following works also remain useful, despite some outmoded interpretations:
 
 #### Other Ancient Authors
 
 #### English Translations
 
+Aristotle discusses Zeno’s paradoxes at some length in *Physics* VI. His treatment may be usefully approached with the aid of Simplicius’s commentary and that in:
+
+A plate of the red-figure drinking cup, Mus. Villa Giulia inv. 3591, accompanies:
+
 ### Secondary Literature
+
+Studies of particular paradoxes and of issues bearing upon Zeno’s broader purposes and influence on ancient philosophy include:
 
 ## Academic Tools
 
@@ -163,8 +179,6 @@ Whatever may have spurred Zeno’s development of his collection of paradoxes, h
 Aristotle | change: and inconsistency | Parmenides | Presocratic Philosophy | Pythagoras | Simplicius | Zeno of Elea: Zeno’s paradoxes
 
 [^references-1980]: References in this bibliography to items prior to 1980 are more selective than those to more recent items. For a nearly exhaustive and annotated listing of Zenonian scholarship down to 1980, consult L. Paquet, M. Roussel, and Y. Lafrance, *Les Présocratiques: Bibliographie analytique (1879–1980)*, Volume 2, Montreal: Bellarmin/Paris: Les Belles Lettres, 1989, pp. 105–32.
-
-[^comprehensive-nd]: Comprehensive accounts of Zeno and his arguments may be found in:
 
 [^barnes-1982]: Barnes, J., *The Presocratic Philosophers*, 2nd edition, London: Routledge & Kegan Paul, 1982. Chapters 12 and 13.
 
@@ -186,23 +200,15 @@ Aristotle | change: and inconsistency | Parmenides | Presocratic Philosophy | Py
 
 [^waterfield-2000]: Waterfield, R., *The First Philosophers: The Presocratics and Sophists*, Oxford: Oxford World’s Classics, 2000, pp. 69–81.
 
-[^presocratics-nd]: The long standard collection of the fragments of the Presocratics and sophists, together with testimonia pertaining to their lives and thought, has been:
-
 [^diels-1951]: Diels, H., and W. Kranz, *Die Fragmente der Vorsokratiker* [DK], 6th edition, Berlin: Weidmann, 1951–52.
 
-[^for-nd]: For the English reader, the fragments and testimonia of the Presocratics and sophists are now most usefully presented in:
-
 [^laks-2016]: Laks, A., and Most, G. W., 2016, *Early Greek Philosophy*, 9 vols., Cambridge, MA, and London: Harvard University Press. (Texts pertaining to Zeno in vol. 5, pt. 2, §20.)
-
-[^see-nd]: See also:
 
 [^gemelli-2011]: Gemelli Marciano, M. L., *Die Vorsokratiker*, 3 vols., Berlin: De Gruyter, 2011–13. (Texts pertaining to Zeno in Volume 2, pp. 96–137).
 
 [^graham-2010]: Graham, D. W., *The Texts of Early Greek Philosophy*, 2 vols., Cambridge: Cambridge University Press, 2010. (Texts pertaining to Zeno in Part I, Chapter 7.)
 
 [^palpacelli-2022]: Palpacelli, Lucia, *Zenone di Elea: Frammenti e testimonianze*, Brescia: Scholé, 2022.
-
-[^palpacelli-nd]: The following works also remain useful, despite some outmoded interpretations:
 
 [^lee-1936]: Lee, H. D. P., *Zeno of Elea: A Text with Translation and Notes*, Cambridge: Cambridge University Press, 1936. Reprinted, Amsterdam: Hakkert, 1967.
 
@@ -256,15 +262,9 @@ Aristotle | change: and inconsistency | Parmenides | Presocratic Philosophy | Py
 
 [^simplicius-1994]: –––, *On Aristotle’s* Physics *7*, C. Hagen (trans.), London: Duckworth, and Ithaca, NY: Cornell University Press, 1994.
 
-[^aristotle-nd]: Aristotle discusses Zeno’s paradoxes at some length in *Physics* VI. His treatment may be usefully approached with the aid of Simplicius’s commentary and that in:
-
 [^ross-1936]: Ross, W. D. (ed.), *Aristotle*: Physics, Oxford: Clarendon Press, 1936.
 
-[^mus-nd]: A plate of the red-figure drinking cup, Mus. Villa Giulia inv. 3591, accompanies:
-
 [^hoffman-2004]: Hoffman, H., 2004, “Zeno’s tortoise,” *Antike Kunst*, 47: 5–9.
-
-[^studies-nd]: Studies of particular paradoxes and of issues bearing upon Zeno’s broader purposes and influence on ancient philosophy include:
 
 [^abraham-1972]: Abraham, W. E., 1972, “The nature of Zeno’s argument against plurality in DK 29 B 1,” *Phronesis*, 17: 40–53.
 

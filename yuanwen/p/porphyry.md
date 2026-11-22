@@ -201,6 +201,8 @@ Whereas for Alexander abstraction was an alternative to Platonic innatism, for P
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Porphyry’s works are available electronically in the original Greek in the *Thesaurus Linguae Graecae* collection. The following is a list of editions and translations of individual and fragmentary works, followed by a selection of secondary literature.
+
 ### Editions and Translations
 
 ### Other Primary Literature
@@ -229,8 +231,6 @@ Alexander of Aphrodisias | Arabic and Islamic Philosophy, historical and methodo
 ### Acknowledgments
 
 For the 2026 update, this entry was mostly rewritten by Riccardo Chiaradonna, who has taken responsibility for updating and maintaining this entry. Eyjólfur Emilsson is still listed as a coauthor because some material has been retained from the previous version.
-
-[^porphyry’s-nd]: Porphyry’s works are available electronically in the original Greek in the *Thesaurus Linguae Graecae* collection. The following is a list of editions and translations of individual and fragmentary works, followed by a selection of secondary literature.
 
 [^life-nd]: *Life of Plotinus*
 

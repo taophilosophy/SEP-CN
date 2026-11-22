@@ -747,6 +747,14 @@ This article has traced the meaning of transcendental idealism, sometimes referr
 
 ### Works of Kant
 
+The standard German edition of Kant’s works is:
+
+The most authoritative English translations of Kant’s works are in:
+
+Individual volumes used in the preparation of this entry are:
+
+We refer to certain Kantian works by the following abbreviations:
+
 ### Other Primary Sources
 
 ### Secondary Sources
@@ -938,23 +946,15 @@ But assuming that classes of properties are *entities* then “phenomena” and 
 
 [^note-71]: 71\. Cf. B71 and a long passage in the Pölitz lectures on theology (Ak. 28: 1053–4) where Kant expresses agnosticism about whether, after death, our separated souls might be able to cognize things in themselves.
 
-[^german-nd]: The standard German edition of Kant’s works is:
-
 [^ak-1900]: [Ak.] Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), 1900–, *Kants gesammelte Schriften*, Berlin: Georg Reimer (later Walter De Gruyter).
 
-[^english-nd]: The most authoritative English translations of Kant’s works are in:
-
 [^guyer-1992]: Guyer, P. and A. Wood (eds.), 1992–, *The Cambridge Edition of the Works of Immanuel Kant*, Cambridge: Cambridge University Press.
-
-[^individual-nd]: Individual volumes used in the preparation of this entry are:
 
 [^allison-2002]: Allison, H. and P. Heath (eds.), 2002, *Theoretical Philosophy after 1781*, Cambridge: Cambridge University Press.
 
 [^guyer-1998]: Guyer, P. and A. Wood (eds.), 1998, *Critique of Pure Reason*, Cambridge: Cambridge University Press.
 
 [^zweig-1999]: Zweig, A. (ed.), 1999, *Correspondence*, Cambridge: Cambridge University Press.
-
-[^we-nd]: We refer to certain Kantian works by the following abbreviations:
 
 [^prolegomena-1781]: [*Prolegomena*] *Prolegomena to any future metaphysics*. Translation by Gary Hatfield in *Theoretical Philosophy after 1781*.
 

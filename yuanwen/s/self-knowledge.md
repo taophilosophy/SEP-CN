@@ -296,6 +296,8 @@ This last point highlights an aspect of Campbell’s account that deserves furth
 
 ### Further Reading
 
+Anthologies on self-knowledge:
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=self-knowledge). |
@@ -652,8 +654,6 @@ Is Locke really saying that all of our thoughts and sensations are accompanied b
 [^wittgenstein-1953]: Wittgenstein, L., 1953, *Philosophical Investigations*, G.E.M. Anscombe (trans.), Oxford: Blackwell.
 
 [^wright-1989]: Wright, C., 1989, “Wittgenstein’s Later Philosophy of Mind: Sensation, Privacy, and Intention”, *Journal of Philosophy*, 86: 622–634.
-
-[^anthologies-nd]: Anthologies on self-knowledge:
 
 [^andreotta-2025-2]: Andreotta, A. and Winokur B, (eds.), 2025, *New Perspectives on Transparency and Self-Knowledge*, New York: Routledge.
 

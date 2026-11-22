@@ -83,6 +83,8 @@ New generations of scholars contribute to a lively, fertile and ongoing discussi
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+References to Kant’s texts follow the pagination of the Academy edition (*Gesammelte Schriften*, Akademie der Wissenschaften (ed.), Berlin: Reimer/DeGruyter, 1910ff.) References to the *Critique of Pure Reason* employ the usual A/B convention. Translations are from the Cambridge Edition of the Works of Immanuel Kant.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-mathematics). |
@@ -112,8 +114,6 @@ analysis | analytic/synthetic distinction | *a priori* justification and knowled
 [^note-4]: Indeed, the relevant passage from the Preamble to the *Prolegomena* about the synthetic apriority of mathematical judgments is added almost verbatim to the B-edition of the *Critique of Pure Reason*.
 
 [^note-5]: It is, of course, the *use* of such a science of arithmetic that is more general than a science of time. The individual propositions of arithmetic, or what Kant calls “numerical formulas,” are in fact singular, which is why he claims that arithmetic does not have axioms as geometry does. (A164/B205)
-
-[^references-nd]: References to Kant’s texts follow the pagination of the Academy edition (*Gesammelte Schriften*, Akademie der Wissenschaften (ed.), Berlin: Reimer/DeGruyter, 1910ff.) References to the *Critique of Pure Reason* employ the usual A/B convention. Translations are from the Cambridge Edition of the Works of Immanuel Kant.
 
 [^anderson-2004]: Anderson, R. L., 2004, “It Adds Up After All: Kant’s Philosophy of Arithmetic in Light of the Traditional Logic”, *Philosophy and Phenomenological Research*, 69 (3): 501–540.
 

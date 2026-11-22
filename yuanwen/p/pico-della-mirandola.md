@@ -223,11 +223,21 @@ The all too human protagonist of the *Life* was a Savonarolan saint who renounce
 
 ### A. Primary Literature
 
+In 1496, the Pico of the *Commentationes* (5) was his nephew’s creation. Now, more than five centuries later, Pico on the internet—even farther from his time and place—is an artifact of the last century’s scholarship, whose even older philosophical attitudes were shaped by Kant and Hegel. The *Commentationes*, edited posthumously by Gianfrancesco Pico, was the first printed collection of works by his uncle. Another early collection is (6)—often cited but not reliable. There is no complete modern set of vernacular translations based on trustworthy Latin texts.
+
+The first book that Pico had printed was his *900 Conclusions*, forthcoming in an *ITRL* edition (40); see other texts and translations in (20), (25), (26), (35), (36), and (38). Fornaciari’s Italian version (32) of Pico’s *Apology* (3)—which defended the condemned *Conclusions*—includes a Latin text. Along with the *Oration*, (14) provides English translations of *De ente et uno* and the *Heptaplus*, whose first edition was (4); see (15) for another English *Heptaplus*. Pico never finished *De ente et uno* or had it printed: Gianfrancesco published the Latin text in (5); Toussaint’s edition (21) provides a French translation; the translation by Bacchelli and Ebgi (33) is Italian. Eugenio Garin edited the large, unfinished and unpublished *Disputations* (12): better understanding of this consequential but bulky and difficult work awaits an improved edition and a vernacular translation.
+
+For the smaller *Commento*—a favorite today left unfinished by the author and unpublished—see (16), (17), (18), and (28). The Latin text of Pico’s early letter in defense of philosophical terminology is in (37): see (13) for an English rendering. Minor works unpublished in his lifetime are (19) and (24). The Latin text and an English translation of Gianfrancesco’s *Life* is in (39) and in (23), which also contains prayers and religious remarks by Giovanni.
+
 #### Other Primary Literature
 
 ### B. Bibliographies
 
+See the additions in:
+
 ### C. Secondary Literature
+
+For more recent items (and a few less recent) not mentioned in Quaquarelli and Zanardi, see the list that follows, also the on-line bibliography compiled and maintained by Michael Dougherty at [https://www.mvdougherty.com/pico.htm](https://www.mvdougherty.com/pico.htm).
 
 ## Academic Tools
 
@@ -245,13 +255,7 @@ The all too human protagonist of the *Life* was a Savonarolan saint who renounce
 
 Agrippa von Nettesheim, Heinrich Cornelius | Delmedigo, Elijah | Ficino, Marsilio | Pythagoreanism
 
-[^pico-nd]: In 1496, the Pico of the *Commentationes* (5) was his nephew’s creation. Now, more than five centuries later, Pico on the internet—even farther from his time and place—is an artifact of the last century’s scholarship, whose even older philosophical attitudes were shaped by Kant and Hegel. The *Commentationes*, edited posthumously by Gianfrancesco Pico, was the first printed collection of works by his uncle. Another early collection is (6)—often cited but not reliable. There is no complete modern set of vernacular translations based on trustworthy Latin texts.
-
 [^tatti-1905]: The I Tatti Renaissance Library (*ITRL*), edited by James Hankins for Harvard University Press, has begun filling this gap with the *Oration* (39) in an English translation of a Latin text indebted to Bausi’s Italian edition (27). While Pico lived the speech was never printed. The first translation (7)—into German—waited until 1905. Italian versions [(8), (9)] followed during the Fascist period, and then another one (22) in 1995 under Silvio Berlusconi’s imprint. Modern versions in other languages are (14), (31), and (34). But (11), an *Oration* translated by Elizabeth Forbes, has been Pico’s main vehicle in English. Introduced by Kristeller, this version has been in print for 76 years, a best seller in the North American textbook market after Burckhardt, Cassirer, and Giovanni Gentile had made the prince’s speech famous.
-
-[^pico-nd-2]: The first book that Pico had printed was his *900 Conclusions*, forthcoming in an *ITRL* edition (40); see other texts and translations in (20), (25), (26), (35), (36), and (38). Fornaciari’s Italian version (32) of Pico’s *Apology* (3)—which defended the condemned *Conclusions*—includes a Latin text. Along with the *Oration*, (14) provides English translations of *De ente et uno* and the *Heptaplus*, whose first edition was (4); see (15) for another English *Heptaplus*. Pico never finished *De ente et uno* or had it printed: Gianfrancesco published the Latin text in (5); Toussaint’s edition (21) provides a French translation; the translation by Bacchelli and Ebgi (33) is Italian. Eugenio Garin edited the large, unfinished and unpublished *Disputations* (12): better understanding of this consequential but bulky and difficult work awaits an improved edition and a vernacular translation.
-
-[^for-nd]: For the smaller *Commento*—a favorite today left unfinished by the author and unpublished—see (16), (17), (18), and (28). The Latin text of Pico’s early letter in defense of philosophical terminology is in (37): see (13) for an English rendering. Minor works unpublished in his lifetime are (19) and (24). The Latin text and an English translation of Gianfrancesco’s *Life* is in (39) and in (23), which also contains prayers and religious remarks by Giovanni.
 
 [^conclusiones-nd]: *Conclusiones dcccc publice disputandae*, Rome: Eucharius Silber, 1486.
 
@@ -341,11 +345,7 @@ Agrippa von Nettesheim, Heinrich Cornelius | Delmedigo, Elijah | Ficino, Marsili
 
 [^quaquarelli-2005]: Quaquarelli, Leonardo and Zita Zanardi, 2005, *Pichiana: Bibliografia delle edizioni e degli studi* (Studi pichiani 10), Florence: Olschki.
 
-[^see-nd]: See the additions in:
-
 [^quaquarelli-2007]: Quaquarelli, Leonardo and Michael Dougherty, 2007, *Pichiana: Bibliografia del xix e xx secolo*, Florence: Olschki.
-
-[^for-nd-2]: For more recent items (and a few less recent) not mentioned in Quaquarelli and Zanardi, see the list that follows, also the on-line bibliography compiled and maintained by Michael Dougherty at [https://www.mvdougherty.com/pico.htm](https://www.mvdougherty.com/pico.htm).
 
 [^bacchelli-2015]: Bacchelli, Franco, 2015, “Giovanni Pico, conte della Mirandola e Concordia”. *Dizionario Biografico degli Italiani*, vol. 83. [[Bacchelli 2015 available online](https://www.treccani.it/enciclopedia/pico-giovanni-conte-della-mirandola-e-concordia_(Dizionario-Biografico)/)]
 

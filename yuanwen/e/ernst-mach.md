@@ -173,6 +173,8 @@ The phenomenalist received view was challenged in the early 1970s, when the publ
 
 ### Works by Mach
 
+**Other Primary Sources:**
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ernst-mach). |
@@ -235,8 +237,6 @@ Carnap, Rudolf | Darwinism | Ehrenfels, Christian von | Einstein, Albert: philos
 [^mach-1910]: 1910, “Die Leitgedanken Meiner Naturwissenschaftlichen Erkenntnislehre Und Ihre Aufnahme Durch Die Zeitgenossen”, *Scientia*, 7: 225–240.
 
 [^mach-1921]: 1921 [2003], *Die Prinzipien der physikalischen Optik Historisch und erkenntnispsychologisch entwickelt​​​​​​*, ​Leipzig: Johann Ambrosius Barth Verlag; translated as *The Principles of Physical Optics: An Historical and Philosophical Treatment* by John S. Anderson and A. F. A. Young, New York: Dover.
-
-[^other-nd]: **Other Primary Sources:**
 
 [^agassi-1978]: Agassi, Joseph, 1978 [1988], “Mach on the Logic of Enquiry: Taste-Maker Philosopher of Science”, originally published as a review of Ernst Mach’s *Knowledge and Error* in *Philosophia*, 8: 485–496; reprinted in his *The Gentle Art of Philosophical Polemics: Selected Reviews and Comments*, La Salle, Illinois: Open Court, pp. 21–32, 1988.
 

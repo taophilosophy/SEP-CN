@@ -221,6 +221,8 @@ More recently, Daniel Luban (2020)[^luban-2020] has argued that an emerging orde
 
 ### Secondary Literature
 
+In addition to the sources below, as a general reference, see the *Review of Austrian Economics*.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=friedrich-hayek). |
@@ -292,8 +294,6 @@ Thanks to the Georgetown Institute for the Study of Markets and Ethics at George
 [^friedrich-hayek-1978b]: 1978b, *New Studies in Philosophy, Politics, Economics, and the History of Ideas*, London: Routledge.
 
 [^friedrich-hayek-1988]: 1988, *The Fatal Conceit: The Errors of Socialism*, W. W. Bartley III (ed.), Volume 1 of *The Collected Works of F. A. Hayek*, Chicago: University of Chicago Press.
-
-[^austrian-nd]: In addition to the sources below, as a general reference, see the *Review of Austrian Economics*.
 
 [^anderson-2017]: Anderson, Elizabeth. 2017. *Private Government: How Employers Rule Our Lives and Why We Don’t Talk about It*. Princeton University Press
 

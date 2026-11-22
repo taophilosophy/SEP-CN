@@ -389,6 +389,10 @@ Finally, for an account of the influence of Locke’s works, see the supplementa
 
 #### Locke’s Works
 
+The Clarendon Edition of the Works of John Locke, Oxford: Clarendon Press:
+
+In addition to the Oxford Press edition, there are a few editions of some of Locke’s works which are worth noting.
+
 #### Other Primary Sources
 
 ### Secondary Sources
@@ -434,8 +438,6 @@ The editors would like to thank Sally Ferguson for carefully proofreading the te
 
 [^oxford-1823]: Oxford University Press is in the process of producing a new edition of all of Locke’s works. This will supersede *The Works of John Locke* of which the 1823 edition is probably the most standard. The new Clarendon editions began with Peter Nidditch’s edition of *An Essay Concerning Human Understanding* in 1975. The Oxford Clarendon editions contain much of the material of the Lovelace collection, purchased and donated to Oxford by Paul Mellon. This treasure trove of Locke’s works and letters, which includes early drafts of the *Essay* and much other material, comes down from Peter King, Locke’s nephew, who inherited Locke’s papers. Access to these papers has given scholars in the twentieth century a much better view of Locke’s philosophical development and provided a window into the details of his activities which is truly remarkable. Hence the new edition of Locke’s works will very likely be definitive.
 
-[^clarendon-nd]: The Clarendon Edition of the Works of John Locke, Oxford: Clarendon Press:
-
 [^an-1975]: [N] *An Essay Concerning Human Understanding*, Peter H. Nidditch (ed.), 1975. doi:10.1093/actrade/9780198243861.book.1
 
 [^some-1989]: *Some Thoughts Concerning Education*, John W. Yolton and Jean S. Yolton (eds.), 1989. doi:10.1093/actrade/9780198245827.book.1
@@ -477,8 +479,6 @@ The editors would like to thank Sally Ferguson for carefully proofreading the te
 [^vol-1981]: *Vol. 7: Letters Nos. 2665–3286*, 1981. doi:10.1093/actrade/9780198245643.book.1
 
 [^vol-1989]: *Vol. 8: Letters Nos. 3287–3648*, 1989. doi:10.1093/actrade/9780198245650.book.1
-
-[^oxford-nd]: In addition to the Oxford Press edition, there are a few editions of some of Locke’s works which are worth noting.
 
 [^an-1936]: *An Early Draft of Locke’s Essay, Together with Excerpts from his Journal*, Richard I. Aaron and Jocelyn Gibb (eds.), Oxford: Clarendon Press, 1936.
 

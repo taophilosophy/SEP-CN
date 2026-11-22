@@ -153,6 +153,10 @@ There are a number of important correspondences between the description of the m
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+**Texts and Commentaries**
+
+**General Bibliography**
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=philolaus). |
@@ -169,15 +173,11 @@ There are a number of important correspondences between the description of the m
 
 Alcmaeon | Archytas | Aristotle | Plato | Pythagoras | Pythagoreanism
 
-[^texts-nd]: **Texts and Commentaries**
-
 [^diels-1952]: Diels, H. and W. Kranz, 1952, *Die Fragmente der Vorsokratiker* (in three volumes), 6ᵗʰ edition, Dublin and Zürich: Weidmann, Volume 1, Chapter 47, pp. 421–439. (Greek texts of the fragments and testimonia with translations in German. Referred to as DK.)
 
 [^huffman-1993]: Huffman, C. A., 1993, *Philolaus of Croton: Pythagorean and Presocratic*, Cambridge: Cambridge University Press. (Greek texts of the fragments and testimonia with translations and commentary in English.)
 
 [^timpanaro-1958]: Timpanaro Cardini, M., 1958–64, *Pitagorici, Testimonianze e frammenti*, 3 vols., Firenze: La Nuova Italia, Vol. 2, 262–385. (Greek texts of the fragments and testimonia with translations and commentary in Italian.)
-
-[^general-nd]: **General Bibliography**
 
 [^anatolius-1901]: Anatolius, 1901, *Sur les dix premiers nombres*, J. L. Heiberg (ed.), Paris: Libraire Colin.
 

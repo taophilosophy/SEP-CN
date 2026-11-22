@@ -204,6 +204,8 @@ Most importantly, Tsongkhapa provided an independent and innovative approach to 
 
 ### Primary Works
 
+Collected Works
+
 ### Secondary Works
 
 ## Academic Tools
@@ -266,8 +268,6 @@ Gelukpa [dge lugs pa] | Nāgārjuna | Śāntarakṣita | Tibetan epistemology an
 [^jinpa-2020]: Jinpa, Thupten (trans.), undated, “In Praise of Dependent Origination”. Available from [Jinpa undated available online (pdf)](https://tibetanclassics.org/wp-content/uploads/2020/09/In-Praise-of-Dependent-Origination.pdf).
 
 [^practical-2021]: *Practical Guide to the Five Stages of Guhyasamaja Completion Stage in a Single Sitting* *Blo bzang grags pa*, 2021, “rGyud kyi rgyal po dpal gsang ba ’dus pa’i rdzogs rim rim lnga gdan rdzogs kyi dmar khrud bzhigs so”, in *rJe tsong kha pa*’*i gsung* ’*bum bzhugs so*, second edition, nya:184–303. Bylakuppe: Ser byes rig mdzod chen mo’i rtsom sgrig khang.
-
-[^collected-nd]: Collected Works
 
 [^three-nd]: Three sets of Collected Works of Tsongkhapa are available at the Buddhist Digital Resource Center in Tibetan language.
 

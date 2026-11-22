@@ -169,7 +169,13 @@ In this specific sense, Schlegel could be understood as a thinker of difference 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+All references to or quotations of A.W. Schlegel are from one of the following six sources:
+
+In the case of a quotation from the German, the translation is mine.
+
 ### Works by A.W. Schlegel
+
+The abbreviations used for references to, or quotations of, A.W. Schlegel are indicated below, at the beginning of the bibliography entries for the cited editions. All translation from German are mine.
 
 #### Collected Works
 
@@ -205,25 +211,19 @@ In this specific sense, Schlegel could be understood as a thinker of difference 
 
 aesthetics: German, in the 18th century | Herder, Johann Gottfried von | Novalis [Georg Friedrich Philipp von Hardenberg] | Schelling, Friedrich Wilhelm Joseph von | Schlegel, Friedrich
 
-[^all-nd]: All references to or quotations of A.W. Schlegel are from one of the following six sources:
+[^schlegel-aw-1798]: 1798–1800, *Athenaeum* [**A**], 3 vols., co-edited with Friedrich Schlegel, Berlin: Vieweg (vol. 1), Berlin: Frölich (vols. 2 and 3); reprinted in 1989, Dortmund : Harenberg.
 
-[^all-1798]: 1798–1800, *Athenaeum* [**A**], 3 vols., co-edited with Friedrich Schlegel, Berlin: Vieweg (vol. 1), Berlin: Frölich (vols. 2 and 3); reprinted in 1989, Dortmund : Harenberg.
+[^schlegel-aw-1815]: 1815, *A Course of Lectures on Dramatic Art and Literature* [**LDA**], translated by John Black and A. J. W. Morrison, London: George Bell and Sons; reprinted in 1846, London: H.G. Bohn; revised edition in 1894, reprinted in 1973, New York: AMS Press and 2004, Whitefish, MT: Kessinger.
 
-[^all-1815]: 1815, *A Course of Lectures on Dramatic Art and Literature* [**LDA**], translated by John Black and A. J. W. Morrison, London: George Bell and Sons; reprinted in 1846, London: H.G. Bohn; revised edition in 1894, reprinted in 1973, New York: AMS Press and 2004, Whitefish, MT: Kessinger.
+[^schlegel-aw-1820]: 1820–30, Indische Bibliothek [**IB**], 3 vols., Bonn: Weber.
 
-[^all-1820]: 1820–30, Indische Bibliothek [**IB**], 3 vols., Bonn: Weber.
+[^schlegel-aw-1828]: 1828, *Kritische Schriften* [**KS**], 2 vols., Berlin: Reimer.
 
-[^all-1828]: 1828, *Kritische Schriften* [**KS**], 2 vols., Berlin: Reimer.
+[^schlegel-aw-1846]: 1846–1848, Sämtliche Werke [**SW**], 16 vols., edited by Edouard Böcking, Leipzig: Weidmann; reprinted in 1971–72, Hildesheim: Neudruck Verlag Olms.
 
-[^all-1846]: 1846–1848, Sämtliche Werke [**SW**], 16 vols., edited by Edouard Böcking, Leipzig: Weidmann; reprinted in 1971–72, Hildesheim: Neudruck Verlag Olms.
+[^schlegel-aw-1884]: 1884, Vorlesungen über schöne Literatur und Kunst [**VLK**], 3 vols., edited by Jakob Minor, Heilbronn: Henningen; reprinted in 1968, Nendeln; Liechtenstein: Kraus.
 
-[^all-1884]: 1884, Vorlesungen über schöne Literatur und Kunst [**VLK**], 3 vols., edited by Jakob Minor, Heilbronn: Henningen; reprinted in 1968, Nendeln; Liechtenstein: Kraus.
-
-[^german-nd]: In the case of a quotation from the German, the translation is mine.
-
-[^schlegel-nd]: The abbreviations used for references to, or quotations of, A.W. Schlegel are indicated below, at the beginning of the bibliography entries for the cited editions. All translation from German are mine.
-
-[^schlegel-aw-1846]: 1846–1848, *Sämtliche Werke* [**SW**], edited by Eduard Böcking, 16 vols., Leipzig: Weidmann; reprinted in 1971–72, Hildesheim: Neudruck Verlag Olms. Includes his works written in French (*Œuvres*, in 3 volumes, 1848) and in Latin (*Opuscula*, *quae Schlegelius latine scripta reliquit*, 1848).
+[^schlegel-aw-1846-2]: 1846–1848, *Sämtliche Werke* [**SW**], edited by Eduard Böcking, 16 vols., Leipzig: Weidmann; reprinted in 1971–72, Hildesheim: Neudruck Verlag Olms. Includes his works written in French (*Œuvres*, in 3 volumes, 1848) and in Latin (*Opuscula*, *quae Schlegelius latine scripta reliquit*, 1848).
 
 [^schlegel-aw-1962]: 1962–1974, *Kritische Schriften und Briefe*, edited by Edgar Lohner, Stuttgart: W. Kohlhammer.
 
@@ -235,7 +235,7 @@ aesthetics: German, in the 18th century | Herder, Johann Gottfried von | Novalis
 
 [^schlegel-aw-1811]: 1811, *Poetische Werke*, 2 vols., Heidelberg: Mohr & Zimmer.
 
-[^schlegel-aw-1798]: 1798–1800, *Athenaeum* [**A**], 3 vols., (Co-editor with Friedrich Schlegel), Berlin: Vieweg (vol. 1), Berlin: Frölich (vols. 2 and 3); reprinted in 1989, Dortmund: Harenberg.
+[^schlegel-aw-1798-2]: 1798–1800, *Athenaeum* [**A**], 3 vols., (Co-editor with Friedrich Schlegel), Berlin: Vieweg (vol. 1), Berlin: Frölich (vols. 2 and 3); reprinted in 1989, Dortmund: Harenberg.
 
 [^schlegel-aw-1801]: 1801, *Charakteristiken und Kritiken*, with Friedrich Schlegel, 2 vols., Königsberg: Nicolovius.
 
@@ -247,15 +247,15 @@ aesthetics: German, in the 18th century | Herder, Johann Gottfried von | Novalis
 
 [^schlegel-aw-1816]: 1816, *Der deutsche Mann und der Patriot im Streit*, Philadelphia: Spottvogel (i.e., Reutlingen: Mäken).
 
-[^schlegel-aw-1820]: 1820–30, *Indische Bibliothek* [**IB**], 3 vols., Bonn: Weber.
+[^schlegel-aw-1820-2]: 1820–30, *Indische Bibliothek* [**IB**], 3 vols., Bonn: Weber.
 
-[^schlegel-aw-1828]: 1828, *Kritische Schriften* [**KS**], 2 vols., Berlin: Reimer.
+[^schlegel-aw-1828-2]: 1828, *Kritische Schriften* [**KS**], 2 vols., Berlin: Reimer.
 
 [^schlegel-aw-1832]: 1832, *Réflexions sur l’étude des Langues Asiatiques suivies d’une lettre à M. Horace*, Hayman Wilson, Bonn: Edouard Weber.
 
 [^schlegel-aw-1842]: 1842, *Essais littéraires et historiques*, Bonn: Edouard Weber.
 
-[^schlegel-aw-1884]: 1884 (posthumous), *Vorlesungen über schöne Literatur und Kunst* [**VLK**], edited by Jakob Minor, 3 vols., Heilbronn: Henningen; reprinted in 1968, Nendeln; Liechtenstein: Kraus.
+[^schlegel-aw-1884-2]: 1884 (posthumous), *Vorlesungen über schöne Literatur und Kunst* [**VLK**], edited by Jakob Minor, 3 vols., Heilbronn: Henningen; reprinted in 1968, Nendeln; Liechtenstein: Kraus.
 
 [^schlegel-aw-1913]: 1913 (posthumous), *Geschichte der deutschen Sprache und Poesie*, (Lectures delivered at Bonn University between 1818–1819, edited by J. Körner, Berlin: Behr.
 
@@ -293,7 +293,7 @@ aesthetics: German, in the 18th century | Herder, Johann Gottfried von | Novalis
 
 [^schlegel-aw-1813-2]: 1813, *The Continental System, and its relations with Sweden*, London: J.J. Stockdale; anonymous translation.
 
-[^schlegel-aw-1815]: 1815, *A Course of Lectures on Dramatic Art and Literature* [**LDA**], translated by John Black and A.J.W. Morrison, London: George Bell and Sons; reprinted in 1846, London: H.G. Bohn; revised edition in 1894, reprinted in 1973, New York: AMS Press and 2004, Whitefish, MT: Kessinger.
+[^schlegel-aw-1815-2]: 1815, *A Course of Lectures on Dramatic Art and Literature* [**LDA**], translated by John Black and A.J.W. Morrison, London: George Bell and Sons; reprinted in 1846, London: H.G. Bohn; revised edition in 1894, reprinted in 1973, New York: AMS Press and 2004, Whitefish, MT: Kessinger.
 
 [^schlegel-aw-1944]: 1944 (1833), *A.W. Schlegel’s Lectures on German literature from Gottsched to Goethe*, Oxford: B. Blackwell (notes taken by George Toynbee).
 

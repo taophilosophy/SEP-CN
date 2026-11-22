@@ -241,6 +241,8 @@ It is hard to imagine a more passionate and reasoned defense of freedom and tole
 
 ### Recommended Secondary Literature in English
 
+Note: There is an enormous body of literature on Spinoza in many languages, especially French, Italian, Dutch and German. This is a highly selective list of books in English that are especially helpful for the study of Spinoza’s philosophy in general, as well as for learning more about particular dimensions of his thought. There is also the irregularly published series *Studia Spinozana*, each volume of which contains essays by scholars devoted to a particular theme. There is also the recently established *Journal of Spinoza Studies*.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=spinoza). |
@@ -265,8 +267,6 @@ Descartes, René | emotion: 17th and 18th century theories of | Leibniz, Gottfri
 [^spinoza-1985]: Spinoza, Benedictus, *The Collected Writings of Spinoza*, 2 vols., Edwin Curley, translator (Princeton: Princeton University Press, vol. 1: 1985; vol. 2: 2016). The *Ethics* is in vol. 1; the *Theological Political Treatise* is in vol. 2.
 
 [^spinoza-2002]: Spinoza, Baruch, *The Complete Works*, Samuel Shirley, translator (Indianapolis: Hackett Publishing, 2002).
-
-[^note-nd]: Note: There is an enormous body of literature on Spinoza in many languages, especially French, Italian, Dutch and German. This is a highly selective list of books in English that are especially helpful for the study of Spinoza’s philosophy in general, as well as for learning more about particular dimensions of his thought. There is also the irregularly published series *Studia Spinozana*, each volume of which contains essays by scholars devoted to a particular theme. There is also the recently established *Journal of Spinoza Studies*.
 
 [^allison-1987]: Allison, Henry, 1987. *Benedict de Spinoza: An Introduction*, New Haven: Yale University Press.
 

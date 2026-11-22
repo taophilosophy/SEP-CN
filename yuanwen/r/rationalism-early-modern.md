@@ -314,6 +314,8 @@ Much remains to be said about the history of early modern rationalism. No doubt,
 
 #### Baruch Spinoza
 
+All references to Spinoza’s *Ethics* start with *E* and the Part Numbers (1–5), followed by one or more of the following: ‘P’ for proposition, ‘L’ for lemma, ‘app’ for appendix, ‘ax’ for axiom, ‘c’ for corollary, ‘d’ for demonstration, ‘def’ for definition, and ‘s’ for scholium.
+
 #### Gottfried Wilhelm Leibniz
 
 #### Anton Wilhelm Amo
@@ -375,8 +377,6 @@ Cavendish, Margaret Lucas | Descartes, René | Descartes, René: epistemology | 
 [^csm-1984]: [CSM] *Philosophical Writings of Descartes*. 3 vols. Edited and translated by John Cottingham, Robert Stoothoff, Dugald Murdoch, and Anthony Kenny. Cambridge: Cambridge University Press, 1984–1991.
 
 [^rd-1983]: [RD] *Supplément à la Philosophie de Monsieur Descartes*, in *Robert Desgabets: Œuvres complètes*, 7 vols., A. Beaulieu and G. Rodis-Lewis (eds.), Amsterdam: APA-Holland University Press, 1983–1985.
-
-[^all-nd]: All references to Spinoza’s *Ethics* start with *E* and the Part Numbers (1–5), followed by one or more of the following: ‘P’ for proposition, ‘L’ for lemma, ‘app’ for appendix, ‘ax’ for axiom, ‘c’ for corollary, ‘d’ for demonstration, ‘def’ for definition, and ‘s’ for scholium.
 
 [^collected-1985]: *The Collected Writings of Spinoza*. Translated by Edwin Curley. Princeton: Princeton University Press, vol. 1: 1985; vol. 2: 2016.
 

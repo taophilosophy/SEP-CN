@@ -225,6 +225,8 @@ Bible, King James Version, as listed below.
 
 ##### Individual Works by Bruno
 
+The website *La biblioteca ideale di Giordano Bruno. Le opere e le fonti* (in the Other Internet Resources section below), includes lists of Bruno’s Italian and Latin works, with links to online versions of them.
+
 ##### English translations of Bruno’s works
 
 #### Documents relating to Bruno’s life and trial
@@ -277,8 +279,6 @@ My thanks to: Leen Spruit and Richard Blum for their comments on, and correction
 [^corpus-2001]: *Corpus iconographicum. Le incisioni nelle opere a stampa*, ed. Mino Gabriele, Milan: Adelphi, 2001.
 
 [^werke-2006]: *Werke*, 7 vols, general editor Thomas Leinkauf, Italian texts ed. Giovanni Aquilecchia and (vol. 7) Eugenio Canone, with German translations and commentaries by various authors, Hamburg: Felix Meiner, 2006–19.
-
-[^la-nd]: The website *La biblioteca ideale di Giordano Bruno. Le opere e le fonti* (in the Other Internet Resources section below), includes lists of Bruno’s Italian and Latin works, with links to online versions of them.
 
 [^works-1950]: 1950, *On the Infinite Universe and Worlds*, in Dorothea Waley Singer, *Giordano Bruno. His Life and Thought, with Annotated Translation of His Work* On the Infinite Universe and Worlds, New York: Schuman. (Translation of *De l’infinito, universo e mondi*, first published at London in 1584. Modern edition of the Italian text in BOI II, 7–167.)
 

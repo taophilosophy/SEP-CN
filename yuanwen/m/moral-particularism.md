@@ -123,6 +123,8 @@ What is really going on here is that we are appealing to principles to rectify a
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The bibliography presented here is a short list of pieces recommended as further reading along with those referred to in the text above. A more comprehensive bibliography is available in the entry on moral particularism and moral generalism.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=moral-particularism). |
@@ -138,8 +140,6 @@ What is really going on here is that we are appealing to principles to rectify a
 ## Related Entries
 
 Mencius | moral epistemology | moral motivation | moral particularism: and moral generalism | moral realism | moral relativism | moral responsibility | practical reason | reasoning: moral | reasons for action: justification, motivation, explanation
-
-[^moral-particularism-nd]: The bibliography presented here is a short list of pieces recommended as further reading along with those referred to in the text above. A more comprehensive bibliography is available in the entry on moral particularism and moral generalism.
 
 [^aristotle-2000]: Aristotle, *Nicomachean Ethics*, Roger Crisp (trans.), Cambridge: Cambridge University Press, 2000.
 

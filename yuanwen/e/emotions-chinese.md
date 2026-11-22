@@ -466,6 +466,8 @@ As Hansen describes in his comparison between Xunzi’s and Zhuangzi’s views, 
 
 ### B. Chinese Text Project
 
+The chapter and section numbers of the primary sources of early Chinese texts used in this essay follow the chapter and section numbers posted in the Chinese Text Project site ([https://ctext.org/](https://ctext.org/)). For example, the first section of the first chapter of the *Xunzi*, as posted in the Chinese Text Project, is notated as “*Xunzi*, 1.1” in this essay.
+
 ### C. Works Cited
 
 ## Academic Tools
@@ -545,8 +547,6 @@ Chinese Philosophy: epistemology | Chinese Philosophy: ethics | Chinese Philosop
 [^zhuangzi-nd]: [*Zhuangzi*](https://ctext.org/zhuangzi)
 
 [^zhong-nd]: [*Zhong Yong*](https://ctext.org/liji/zhong-yong)
-
-[^chinese-nd]: The chapter and section numbers of the primary sources of early Chinese texts used in this essay follow the chapter and section numbers posted in the Chinese Text Project site ([https://ctext.org/](https://ctext.org/)). For example, the first section of the first chapter of the *Xunzi*, as posted in the Chinese Text Project, is notated as “*Xunzi*, 1.1” in this essay.
 
 [^andreini-2006]: Andreini, Attilio, 2006, “The Meaning of *Qing* in Texts from Guodian Tomb no. 1”, in Paolo Santangelo and Donatella Guida (eds.), *Love, Hatred, and Other Passions: Questions and Themes on Emotions in Chinese Civilization*, Leiden: Brill, 149–165.
 

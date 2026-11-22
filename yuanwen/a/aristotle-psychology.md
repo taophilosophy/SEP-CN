@@ -148,6 +148,8 @@ Aristotle displays some hesitation in his discussion of desire and its relation 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+All of the translations of quotations from Aristotle’s work, in this main part of the entry and in the supplements, are by the author.
+
 ### Texts, Translations, and Commentaries of *De Anima*
 
 ### Anthologies and Monographs
@@ -183,8 +185,6 @@ Aristotle, General Topics: ethics | Aristotle, General Topics: metaphysics
 [^note-4]: 4\. The bracketed text recurs in its entirety at *DA* iii 7, 431a1–4. It seems likely that they were inserted by a scribe seeking to provide an explanation of the way in which the active is prior to the passive.
 
 [^note-5]: 5\. Hicks (1907, 509–510)[^hicks-1907] provides a succinct summary of the main approaches, before opting for a version of (ii) as his own preference. As he notes, most ancient commentators opted for (iv), because they took Aristotle to be explaining his otherwise obscure remark about memory in the previous line. See, e.g. Themistius *In de an*. 101.27 and Philoponus *In de an.* 62.1.
-
-[^all-nd]: All of the translations of quotations from Aristotle’s work, in this main part of the entry and in the supplements, are by the author.
 
 [^aquinas-1999]: Aquinas, Thomas, 1999, *A Commentary in Aristotle’s De anima*, tr. by Robert Pasnau, New Haven: Yale University Press.
 

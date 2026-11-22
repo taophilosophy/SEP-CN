@@ -187,6 +187,10 @@ Erasmus was a prolific writer. His works were translated into the vernacular and
 
 ### Erasmus’ Works
 
+Erasmus’ *Opera Omnia* were first published in Basel: Froben, 1540. The arrangement of works adopted there has become the model for later editions. An authoritative critical edition (ASD) and an English translation (CWE) of his works are ongoing.
+
+Texts not (or not yet) included in these editions:
+
 ### Other Primary Works
 
 ### Biographies
@@ -214,8 +218,6 @@ Aquinas, Thomas | Aristotle | Aristotle, General Topics: rhetoric | Augustine of
 
 [^for-1897]: For a repertory of individual works and their early editions, see Ferdinand Van der Haeghen, *Bibliotheca Erasmiana: Répertoire des oeuvres d’Erasme* (first published 1897, most recent reprinted Würzburg: Osthoff, 2005).
 
-[^erasmus’-nd]: Erasmus’ *Opera Omnia* were first published in Basel: Froben, 1540. The arrangement of works adopted there has become the model for later editions. An authoritative critical edition (ASD) and an English translation (CWE) of his works are ongoing.
-
 [^allen-1906]: [Allen] *Opus Epistolarum Des. Erasmi Roterodami*, 12 vols., edited by P.S. Allen and others, Oxford: Oxford University Press, 1906–1958. doi:10.1093/actrade/9780198203414.book.1
 
 [^asd-1969]: [ASD] *Opera Omnia Des. Erasmi Roterodami*, (no primary editor), Amsterdam: North Holland Press, 1969–. In 9 *ordines* or categories, each of which has multiple volumes.
@@ -223,8 +225,6 @@ Aquinas, Thomas | Aristotle | Aristotle, General Topics: rhetoric | Augustine of
 [^cwe-1974]: [CWE] *The Collected Works of Erasmus*, (no primary editor), Toronto: University of Toronto Press, 1974–.
 
 [^lb-1703]: [LB] *Opera Omnia Des. Erasmi Roterodami*, 10 vols. Leiden: Peter van der Aa, 1703–1706.
-
-[^texts-nd]: Texts not (or not yet) included in these editions:
 
 [^ferguson-1933]: Ferguson, Wallace K. (ed.), *Erasmi Opuscula. A Supplement to the Opera Omnia*, The Hague: Martinus Nijhoff, 1933.
 

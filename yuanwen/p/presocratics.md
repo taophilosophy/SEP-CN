@@ -201,6 +201,8 @@ The range of Presocratic thought shows that the first philosophers were not mere
 
 ### Secondary Literature
 
+Note: In order to be useful to readers, this bibliography includes both general accounts of and introductions to Presocratic philosophy, as well as more specialized material. Edited volumes contain collections of articles, not all of which are listed individually in this bibliography.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=presocratics). |
@@ -321,8 +323,6 @@ Anaxagoras | Anaximander | Anaximenes | atomism: ancient | Democritus | Diogenes
 [^tarán-1965]: Tarán, L., 1965, *Parmenides*, Princeton: Princeton University Press.
 
 [^wright-1981]: Wright, M. R., 1981, *Empedocles: The Extant Fragments*, New Haven: Yale University Press.
-
-[^note-nd]: Note: In order to be useful to readers, this bibliography includes both general accounts of and introductions to Presocratic philosophy, as well as more specialized material. Edited volumes contain collections of articles, not all of which are listed individually in this bibliography.
 
 [^augustin-2015]: Augustin, M. 2015, “Weight in Greek Atomism,” *Philosophia*, 45: 76–99.
 

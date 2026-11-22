@@ -157,6 +157,8 @@ Ontology, while a preface to rational theology, is also necessary for knowledge 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+References in this article to Rosmini’s works use the following abbreviations:
+
 *NE*
 
 *A New Essay concerning the Origin of Ideas*
@@ -176,6 +178,8 @@ Ontology, while a preface to rational theology, is also necessary for knowledge 
 *TH*
 
 *Theosophy*
+
+Other abbreviations:
 
 *Life*
 
@@ -235,7 +239,3 @@ Aquinas, Thomas | Augustine of Hippo | Hegel, Georg Wilhelm Friedrich | Kant, Im
 ### Acknowledgments
 
 The SEP editors updated this entry in 2015.
-
-[^references-nd]: References in this article to Rosmini’s works use the following abbreviations:
-
-[^other-nd]: Other abbreviations:

@@ -238,6 +238,8 @@ The *DRN* reached us through two 9ᵗʰ century Carolingian manuscripts both now
 
 ### B. Translations
 
+See Bailey and Smith, above. Also:
+
 ### C. Secondary Literature
 
 ### D. Influence and Reception
@@ -299,8 +301,6 @@ Empedocles | Epicurus | Gassendi, Pierre | Montaigne, Michel de | Philodemus
 [^piazzi-2005]: Piazzi, L., 2005, *Lucrezio e i Presocratici*. *Un commento a De rerum natura 1, 635–920*, Pisa: Edizioni della Normale.
 
 [^smith-1992]: Smith, M.F., 1992, *Lucretius, ‘De Rerum Natura’*, with an English translation by W.H.D. Rouse, 2ⁿᵈ edition, revised with new text, introduction, notes and index, London and Cambridge, Mass: Loeb Classical Library.
-
-[^see-nd]: See Bailey and Smith, above. Also:
 
 [^delattre-2010]: Delattre, D. and J. Pigeaud (eds.), 2010, *Les Épicuriens*, Paris: Gallimard. (Includes translations of many Herculaneum papyri, introductions and detailed notes.)
 

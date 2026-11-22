@@ -300,28 +300,42 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①“跳过某类行”的规则要写明**跳过谁**——按前缀一刀切（区内所有 `>`）会把同形的正文内容一并吞掉，正确判据是固定注的精确前缀；②同一渲染分支出现在两处时先抽函数再改（`_render_bq`），否则一处修、一处漏；③账记位次而非文字，R 侧按位次取 md 块，仍然是单一事实源。
 
+## 10.12 B3.2 第十三批实施记（2026-11-22，书目区无年份散文落段）
+
+**缺陷**：书目区 `<p>` 散文（作者说明、引用约定等）与 li/dl 条目同流进 `build_cite_keys`，无年份者落到以首词为“作者”的 `-nd` 伪键定义（leibniz-exoteric 键成 `note-nd`、dilthey 成 `an-nd`）；账侧 `defs` 列表排除 `note-` 前缀（真脚注判据），R 的 `bib_defs` 同样排除——散文段两侧同丢，装配页整段消失（h0_extra 骨干）。
+
+**修复**：C 侧 `p` 分支分流——书目区**无四位年份**的 `<p>` 直接落段（文字照录，不进 `build_cite_keys`）；含年份者维持定义流（可能被正文引用）。`-nd` 伪键全库普查：877 件 3,194 条，正文引用 **0**（无键语义损失）。全量重转 1,873 件，md 变更 292 件。
+
+**同批连带修两处账侧缺陷**：①**散文序与 `<p>` 块序错位**——`md_prose` 把书目区表格行也计入散文序，而 R 侧 `ps` 只收 `<p>` 块，含表格的件 `p` 索引越界被静默跳过（anselm 判据：`["p", 6]` 越界）。修法：`md_prose` 排除 `|` 行；②**可见文比较不认脚注标记**——书目散文带 `[^verbeek-1999a]` 标记，`norm_md` 未剥致 `pd` 定位失败（clauberg）。修法：`norm_md` 剥 `[^key]`。
+
+**实测**：B3.1 **1,592→1,616（+27，转红 3）**；B3.2 池 **1,578→1,602（85.5%）／缺口 271／stale 0**，转池 24、**失池 0**，池占页 **42.00%**。
+
+**转红 3 件定性（engels／foucault／kant-religion）**：书目区年份起首条目的**键名漂移**——H0 直接转出时 `prev_surnames` 取自同节前一条目（含被移除的散文），而 R 重建书目把全部定义并成一个 `<ul>`，邻接关系不同→键名不同（`engels-1895` vs `marx-1895`、`foucault-2018` vs `cours-2018`、`kant-religion-1821` vs `kant’s-1821`）。属 W8（文献分节作者键重建）族：正解是 R 按 `bib_groups` 分节重建多个 `<ul>`；本轮记为残留。
+
+**教训**：①**散文序与块序必须由同一谓词定义**——账侧“散文行”与 R 侧“`<p>` 块”是两个集合，任何一侧多收一类（表格行、列表行）就会静默越界；②可见文归一化要剥掉**全部非可见物**（脚注标记、链接包裹、强调星、转义符），漏一类就有一族条目定位失败；③注入式样本测试必须带全 `bib_*` 字段（`bib_tree` 节点索引错位会制造假反退）。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
 
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
-| B3.1 往返不动点 | **1,592/1,873（85.0%）**，集合级 0 退化（对 `results/assembly-scan-all.json`） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,578（84.3%）／gap 295／stale 0**，池占页 41.34% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.1 往返不动点 | **1,616/1,873（86.3%）**，集合级 +24／转红 3（W8 键名漂移，见 §10.12） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
+| B3.2 页面装配 | **pool 1,602（85.5%）／gap 271／stale 0**，池占页 42.00% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 295 分族**（`script/tmp/b32_families2.py <scan-json>`，2026-11-22 现查）：md_extra 168／text 37／h0_extra 33／math 24／digit 21／ok? 6／star 4／entity 2。
+**缺口 271 分族**（`script/tmp/b32_families2.py <scan-json>`，2026-11-22 现查）：md_extra 167／h0_extra 30／math 24／text 20／digit 17／ok? 7／star 4／entity 2。
 
-- **md_extra**：md 有而 H0 无＝md 与 en 版本差／译注污染，属 specs/001 同步线（`compare` 漂移），**不修规则**。这是最大族，B3.2 分母的收敛上限由它决定。
-- **书目区散文折叠进脚注定义**（leibniz-exoteric／ratnakirti／augustine 等）：C 把书目区 `<p>` 无作者年份散文也建成 `-nd` 伪键定义（首词成“作者名”，leibniz-exoteric 的键竟是 `note-nd`），而账侧 `defs` 列表排除 `note-` 前缀，`pd` 定位失败整段不发射。候选修法＝C 侧定案：书目区无年份散文直接落段（影响 ~265 件 579 段的定义改段落），须全量重转＋B3.1 止损。
-- **text／digit／star／math 残余**：逐件定位用 `script/tmp/probe_align2.py <slug>`（打印拒录块首差）。
+- **md_extra 167**：md 有而 H0 无＝md 与 en 版本差／译注污染，属 specs/001 同步线（`compare` 漂移），**不修规则**。这是最大族，B3.2 分母的收敛上限由它决定。
+- **h0_extra 30**：H0 文字层有、md 无的残留——本轮已解书目区无年份散文（`-nd` 伪键族）；余下按 §10.9／§10.12 残留族逐件定位（ratnakirti 的 Note 段仍属年份键间隙、burke／analysis／nicholai 等）。
+- **math 24／text 20／digit 17／star 4／ok? 7／entity 2**：逐件定位用 `script/tmp/probe_align2.py <slug>`。
 
-**已修复（第九至十二批）**：①字面编号段落转义（C `N\.`，B3.1 +16）；②toc 退出折行链＋双空格保真＋`bib_dl` 账；③链接落位守卫组（标题／数学体／列表标记／强调就地配平）＋`norm_md` 转义还原；④行首 `[-+] ` 转义＋空锚按文字＋书目引块 `bq` 位次账＋`_render_bq` 抽出。
+**B3.1 转红 3 件（W8）**：engels／foucault／kant-religion——书目区年份起首条目键名在“H0 直转”与“R 重建书目（单 ul）”两条路径下不同。正解＝R 按 `bib_groups` 分节重建多个 `<ul>`；须先量测对全库 B3.1／池的影响再动。
 
 **下一批入口**（按收益排序）：
-1. **书目区散文定义化**（上述 C 侧定案）——同时解 md 里的 `[^x-nd]` 伪定义污染与 `pd` 定位失败族。
-2. **dl 的 dd 内嵌 `<ol>`**（heidegger 已转池但 ibn-rushd 等仍有版次差）与 bruno／burke／analysis／nicolai-hartmann 等逐件定位。
-3. **md_extra 173**：转 specs/001 同步线（`compare` 漂移清单核对），不属本线规则。
+1. **W8 分节 ul 重建**（同时消 B3.1 转红 3 件）。
+2. **h0_extra 30 余件**逐件定位（`probe_align2.py`）。
+3. **md_extra 167**：转 specs/001 同步线（`compare` 漂移清单核对）。
 
-**流程提醒**：动 C 必全量重转（约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；**小改动可走定点重建＋judge 拼接**（受影响件集＝账 diff 的 slug 集＋md 变件，见 `script/tmp/splice_b12.py`）；基线只在收敛后人工更新并提交。
+**流程提醒**：动 C 必全量重转（约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；**小改动走定点重建＋judge 拼接**（受影响件集＝账 diff ∪ md 变件；`script/tmp/splice_b12.py`，须带全 `bib_*` 字段注入）；基线只在收敛后人工更新并提交。

@@ -131,21 +131,41 @@ Augustine’s impact on later philosophy is as enormous as it is ambivalent (for
 
 #### General:
 
+*Bulletin Augustinien*, included in the second issue of each year of the [Revue d’Études Augustiniennes et Patristiques.](https://www.brepolsonline.net/loi/rea) Reports and reviews all publications on Augustine that appeared during the year.
+
+[Finding Augustine](https://findingaugustine.org/), an open access bibliographical collection on Augustine and his legacy produced by the Augustinian Historical Institute (Leuven, Belgium) and Villanova University.
+
 #### More specialized:
+
+–––, 2021a, “Augustine”, in Duncan Pritchard (ed.), *Oxford Bibliographies Philosophy*, Oxford: Oxford University Press. doi:10.1093/obo/9780195396577-0422
 
 ### Editions
 
+Today critical editions of most of Augustine’s works are available. Almost all the books, the complete letters and a considerable portion of the sermons have been edited in the series
+
+For a full list of Augustine’s works and the standard critical editions see
+
 ### Translations
+
+The most famous works of Augustine, *Confessiones* and *De civitate dei*, have often been translated in various modern languages, but for many of the other works only dated translations or none at all are available. The *Zentrum für Augustinusforschung*, Würzburg, provides a list of (mostly older) translations that are [available online](https://www.augustinus.de/einfuehrung/uebersetzungen-im-www).
 
 #### English
 
+Two older series of Patristic writers in translation include selected works of Augustine:
+
 #### French
 
+The last complete translations of Augustine into French date from the nineteenth century. The—still incomplete—standard translation series is:
+
 #### German
+
+A bilingual edition of the anti-Pelagian treatises with full annotation is:
 
 #### Italian
 
 ### Commentaries
+
+Except for the *Confessiones* and the Cassiciacum dialogues, detailed commentaries on Augustine’s writings are rare, especially in English. Here is a selection:
 
 ### Reference Works
 
@@ -176,19 +196,11 @@ Augustine’s impact on later philosophy is as enormous as it is ambivalent (for
 
 Christian theology, philosophy and | divine: illumination | emotion: in the Christian tradition | ethics: virtue | free will | free will: divine foreknowledge and | medieval philosophy | moral responsibility | Neoplatonism | Plotinus | political philosophy: ancient | Porphyry | skepticism: ancient | Stoicism
 
-[^bulletin-nd]: *Bulletin Augustinien*, included in the second issue of each year of the [Revue d’Études Augustiniennes et Patristiques.](https://www.brepolsonline.net/loi/rea) Reports and reviews all publications on Augustine that appeared during the year.
-
-[^finding-nd]: [Finding Augustine](https://findingaugustine.org/), an open access bibliographical collection on Augustine and his legacy produced by the Augustinian Historical Institute (Leuven, Belgium) and Villanova University.
-
 [^catapano-2000]: Catapano, Giovanni, *L’idea di filosofia in Agostino. Guida bibliografica*, Padova: Il Poligrafo, 2000.
-
-[^catapano-2021a]: –––, 2021a, “Augustine”, in Duncan Pritchard (ed.), *Oxford Bibliographies Philosophy*, Oxford: Oxford University Press. doi:10.1093/obo/9780195396577-0422
 
 [^lazcano-2007]: Lazcano, Rafael, 2007, *Bibliografía de San Agustín en lengua española (1502–2006)*, Guadarrama (Madrid): Editorial Revista Agustiniana.
 
 [^lazcano-2021]: –––, 2021, “Boletín bibliográfico de San Agustín en castellano (2007–2020)”, *Ciudad de Dios*. *Revista Agustiniana*, 234: 1031–1077.
-
-[^today-nd]: Today critical editions of most of Augustine’s works are available. Almost all the books, the complete letters and a considerable portion of the sermons have been edited in the series
 
 [^csel-nd]: [*CSEL*] *Corpus Scriptorum Ecclesiasticorum Latinorum* (Wien: Holder, Pichler, Tempsky, latest volumes Berlin: De Gruyter) and
 
@@ -196,25 +208,17 @@ Christian theology, philosophy and | divine: illumination | emotion: in the Chri
 
 [^patrologia-1877]: The *Patrologia Latina* edition [*PL*] (Jacques-Paul Migne (ed.), Paris 1877), which used to be the standard edition, is a reprint of the edition of the Benedictines of St.-Maur in Paris from the seventeenth century and naturally does not meet modern critical standards; it remains necessary only for about a third of the sermons for which modern editions are still lacking.
 
-[^for-nd]: For a full list of Augustine’s works and the standard critical editions see
-
 [^augustinus-lexikon-2012]: *Augustinus-Lexikon* 4 (2012–2018), pp. XI–XXXIV ([available online](https://www.augustinus.de/einfuehrung/werke-mit-werkeliste?start=3)); Fitzgerald (ed.) 1999, xxxv–il.
 
 [^fuhrer-2018a]: A complete work list is also found in Fuhrer 2018a: 1680–1687.
-
-[^augustine-nd]: The most famous works of Augustine, *Confessiones* and *De civitate dei*, have often been translated in various modern languages, but for many of the other works only dated translations or none at all are available. The *Zentrum für Augustinusforschung*, Würzburg, provides a list of (mostly older) translations that are [available online](https://www.augustinus.de/einfuehrung/uebersetzungen-im-www).
 
 [^english-1999]: English translations of Augustine’s works down to 1999 are listed in Fitzgerald (ed.) 1999, xxxv–xlii. A nearly complete modern translation is:
 
 [^wsa-1991]: [*WSA*] *The Works of Saint Augustine. A Translation for the 21st Century*, 46 vols., John E. Rotelle et al. (eds.), New York: New City Press, 1991–2019. Reliable and modern, but almost without annotation.
 
-[^two-nd]: Two older series of Patristic writers in translation include selected works of Augustine:
-
 [^fc-nd]: [*FC*] *The Fathers of the Church*, Ludwig Schopp et al. (eds.), New York: Cima Publishing, 1947ff.
 
 [^acw-nd]: [*ACW*] *Ancient Christian Writers. The Works of the Fathers in Translation*, Johannes Quasten et al. (eds.), New York: Newman Press 1946ff.
-
-[^augustine-nd-2]: The last complete translations of Augustine into French date from the nineteenth century. The—still incomplete—standard translation series is:
 
 [^ba-nd]: [*BA*] *Bibliothèque Augustinienne. Œuvres de saint Augustin*, Paris: Études Augustiniennes 1936ff. Bilingual editions with rich annotation that often comes close to a commentary. Especially important are the volumes on
 
@@ -230,8 +234,6 @@ Christian theology, philosophy and | divine: illumination | emotion: in the Chri
 
 [^aow-nd]: [*AOW*] *Augustinus: Opera—Werke*, Wilhelm Geerlings, Johannes Brachtendorf, and Volker Henning Drecoll (eds.), Paderborn: Schöningh, 2002ff. 82 volumes planned, 14 completed.
 
-[^pelagian-nd]: A bilingual edition of the anti-Pelagian treatises with full annotation is:
-
 [^kopp-1955]: Kopp, Sebastian, Thomas Gerhard Ring, and Adolar Zumkeller (eds.), 1955–2005, *Sankt Augustinus—Der Lehrer der Gnade. Gesamtausgabe seiner antipelagianischen Schriften*, 8 vols. (5 completed) + 3 vols. Prolegomena, Würzburg: Augustinus-Verlag.
 
 [^nba-1965]: [*NBA*] *Nuova Biblioteca Agostiniana. Opere di Sant’Agostino. Edizione latino-italiana*, 44 vols., Agostino Trapé et al. (eds.), Roma: Città Nuova Editrice, 1965–2010. Complete.
@@ -239,8 +241,6 @@ Christian theology, philosophy and | divine: illumination | emotion: in the Chri
 [^spanish-nd]: Spanish
 
 [^bac-1946]: [*BAC*] *Obras completas de San Agustín. Edición bilingüe (Biblioteca de Autores Cristianos)*, 41 vols., Victorino Capánaga et al. (eds.), 1946–2002. Complete.
-
-[^except-nd]: Except for the *Confessiones* and the Cassiciacum dialogues, detailed commentaries on Augustine’s writings are rare, especially in English. Here is a selection:
 
 [^o’donnell-1992]: O’Donnell; James J., 1992, *Augustine: Confessions*, 3 vols., Oxford: Oxford University Press. Introduction, text and commentary. [[O’Donnell 1992 available online](https://faculty.georgetown.edu/jod/conf/)]
 

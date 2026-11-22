@@ -679,6 +679,8 @@ In conclusion, Kant occupied a central place in eighteenth-century German aesthe
 
 ### Secondary Literature: Individual Authors
 
+[See also works listed in the previous section. Where a work listed here covers several authors, it is usually listed under the first author it covers.]
+
 #### Leibniz:
 
 #### Wolff:
@@ -966,8 +968,6 @@ Work on this entry was facilitated by a Laurance S. Rockefeller Visiting Fellows
 [^wellek-1955]: Wellek, René, 1955, *A History of Modern Criticism: 1750–1950*, Volume I: *The Later Eighteenth Century*, New Haven: Yale University Press. Chapters 8–11.
 
 [^zelle-1995]: Zelle, Carsten, 1995, *Die doppelte Ästhetik: Revisionen des Schönen von Boileau bis Nietzsche*, Stuttgart: Verlag J.B. Metzler.
-
-[^see-nd]: [See also works listed in the previous section. Where a work listed here covers several authors, it is usually listed under the first author it covers.]
 
 [^tomasi-2002]: Tomasi, Gabriele, 2002, *La belleszzae la fabricca del mondo: Estetica e metafisica in G.W. Leibniz*, Pisa: Edizioni ETS.
 

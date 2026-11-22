@@ -163,6 +163,8 @@ As mentioned above, Hartmann’s philosophical style presented a strong contrast
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The following abbreviations were used:
+
 > Abbreviations for works in German
 >
 > | A | = | *Der Aufbau der realen Welt* |
@@ -184,9 +186,13 @@ As mentioned above, Hartmann’s philosophical style presented a strong contrast
 > | OLF | = | *Ontology: Laying the Foundations* |
 > | PA | = | *Possibility and Actuality* |
 
+The chapters of various *Introductions* were referred to as “Intro”. For example, “NIntro5” and “N3c” refer to Section 5 of the Introduction and Chapter 3, Section c of the *Philosophy of Nature*.
+
 ### Primary Sources
 
 #### Original Works in German
+
+For a complete list, see the [Bibliography of Hartmann’s Publications](http://nicolaihartmannsociety.org/hartmanns-works/) at the Nicolai Hartmann Society.
 
 #### English Translations
 
@@ -213,10 +219,6 @@ categories | epistemology | existence | Kant, Immanuel | modality: varieties of 
 ### Acknowledgments
 
 We thank Joachim Fischer, Eugene Kelly, and anonymous reviewers for their comments on a previous version of this article.
-
-[^nicolai-hartmann-nd]: The following abbreviations were used:
-
-[^introductions-nd]: The chapters of various *Introductions* were referred to as “Intro”. For example, “NIntro5” and “N3c” refer to Section 5 of the Introduction and Chapter 3, Section c of the *Philosophy of Nature*.
 
 [^nicolai-hartmann-1908]: 1908, *Über das Seinsproblem in der griechischen Philosophie vor Plato*, Dissertation, Marburg.
 
@@ -263,8 +265,6 @@ We thank Joachim Fischer, Eugene Kelly, and anonymous reviewers for their commen
 [^nicolai-hartmann-1950]: 1950, *Philosophie der Natur. Abriss der speziellen Kategorienlehre*, Berlin: De Gruyter.
 
 [^nicolai-hartmann-1953]: 1953, *Ästhetik*, Berlin: De Gruyter.
-
-[^for-nd]: For a complete list, see the [Bibliography of Hartmann’s Publications](http://nicolaihartmannsociety.org/hartmanns-works/) at the Nicolai Hartmann Society.
 
 [^nicolai-hartmann-1932]: 1932, *Ethics*, 3 vols., London: George Allen & Unwin; reprinted with new *Introductions*, by A. A. Kinneging, Transaction Press, 2002–2004.
 

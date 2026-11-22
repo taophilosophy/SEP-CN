@@ -253,6 +253,8 @@ The second and related methodological point is that the evaluation of alternate 
 
 ### Methodology and Empirical Beliefs about Distributive Justice
 
+For extensive further references on reflective equilibrium see the entry on reflective equilibrium.
+
 ### Further Theories and General Reference
 
 ### Extended Bibliography
@@ -477,8 +479,6 @@ consequentialism | desert | egalitarianism | feminist philosophy, interventions:
 [^swift-1995]: Swift, Adam, and Gordon Marshall, Carole Burgoyne, and David Routh, 1995, “Distributive justice: Does it matter what the people think?,” in *Social Justice and Political Change.*, D. Mason, J. Kluegel and B. Wegener (eds.), New York: Aldine De Gruyter, 15–47 .
 
 [^valentini-2012]: Valentini, Laura 2012, “Ideal vs. Non-ideal Theory: A Conceptual Map,” in *Philosophical Compass*, 7(9): 654–664.
-
-[^for-nd]: For extensive further references on reflective equilibrium see the entry on reflective equilibrium.
 
 [^ackerman-1980]: Ackerman, Bruce A., 1980, *Social Justice and the Liberal State*, New Haven: Yale University Press.
 

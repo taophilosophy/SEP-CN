@@ -409,6 +409,12 @@ The view that Kant’s theory is relevant to the contemporary debate about biolo
 
 ### A. Primary Sources
 
+The two most important sources for Kant’s views on aesthetics and teleology, *Critique of Judgment* and “First Introduction”, are both published in the standard German edition of Kant’s works, the so-called Academy edition:
+
+Page references given in this article follow the pagination of the Academy edition, which is indicated in the margins of the two most recent English-language editions (see below). Unless otherwise stated, all references are to the *Critique of Judgment*. References to the First Introduction are introduced by the abbreviation “FI”. Quotations follow the Cambridge translation (see below), with occasional divergences.
+
+The two most recent English-language editions of the *Critique of Judgment* are to be preferred over earlier translations. The recent translations are:
+
 ### B. Secondary Sources
 
 ## Academic Tools
@@ -437,15 +443,9 @@ Work on the original (2005) version of this article was supported by the America
 
 [^note-2]: The translation of *Zweck* and its cognates is not straightforward. The Meredith translation has “end” and “finality”, respectively, for *Zweck* and *Zweckmässigkeit*; the Pluhar translation has “purpose” and “purposiveness”,; and the Guyer and Matthews translation splits the difference with “end” and “purposiveness”. (For references to these translations, see the Primary Sources section of the Bibliography.) This entry follows Pluhar, which preserves the link between the various cognates of *Zweck* without introducing the neologism “finality”, although it has the disadvantage of obscuring the connection between Kant’s uses of *Zweck* in his moral philosophy, where *Zweck* is traditionally translated with “end”, and his uses of *Zweck* in the third Critique.
 
-[^kant’s-nd]: The two most important sources for Kant’s views on aesthetics and teleology, *Critique of Judgment* and “First Introduction”, are both published in the standard German edition of Kant’s works, the so-called Academy edition:
-
 [^kritik-1902]: *Kritik der Urteilskraft*, *Kants gesammelte Schriften*, Volume 5, Berlin: Walter de Gruyter, 1902–.
 
 [^erste-1902]: “Erste Einleitung”, *Kants gesammelte Schriften*, Volume 20, Berlin: Walter de Gruyter, 1902–.
-
-[^page-nd]: Page references given in this article follow the pagination of the Academy edition, which is indicated in the margins of the two most recent English-language editions (see below). Unless otherwise stated, all references are to the *Critique of Judgment*. References to the First Introduction are introduced by the abbreviation “FI”. Quotations follow the Cambridge translation (see below), with occasional divergences.
-
-[^english-language-nd]: The two most recent English-language editions of the *Critique of Judgment* are to be preferred over earlier translations. The recent translations are:
 
 [^critique-1987]: *Critique of Judgment*, Werner Pluhar (trans.), Indianapolis: Hackett, 1987.
 

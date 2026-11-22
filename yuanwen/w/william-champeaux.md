@@ -191,6 +191,8 @@ Whenever he discusses the Trinity, William associates the Father with power, the
 
 #### References to William in Contemporary Sources
 
+[The author would welcome additions and revisions to the above list.]
+
 ### Secondary Sources
 
 ## Academic Tools
@@ -250,8 +252,6 @@ Abelard [Abailard], Peter | John of Salisbury | syllogism: medieval theories of 
 [^references-1994]: References in Peter Abelard's Commentary on *Porphry's Isagoge*: 10-16, tr. Spade 1994: 29-37.
 
 [^fragments-1974]: Fragments from anonymous manuscripts are collected in Green-Pedersen 1974; Iwakuma 1992, 1999, 2004b, and forthcoming B; Marenbon 1997.
-
-[^fragments-nd]: [The author would welcome additions and revisions to the above list.]
 
 [^clanchy-1998]: Clanchy, M. *Abelard: A Medieval Life*. Oxford: Blackwell, 1998
 

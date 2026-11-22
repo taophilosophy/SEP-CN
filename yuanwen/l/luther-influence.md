@@ -149,7 +149,11 @@ Leaving aside Luther’s influence on individual philosophers, there has also be
 
 ### B. Useful collections of some of Luther’s main writings
 
+Translations have been modified where necessary.
+
 ### C. Primary texts
+
+References for Kant are to the Akademie edition given in the margins of most translations, by volume number and page number, except for references to the *Critique of Pure Reason*, which are given to the pages of the first (A) edition or second (B) edition, which are also given in the margins of translations of that text. Translations have been modified where necessary.
 
 ### D. Secondary texts
 
@@ -381,10 +385,6 @@ In the same passage, Adorno also calls Kierkegaard “the founder of inwardness�
 [^ninety-five-2017]: *The Ninety-Five Theses and Other Writings*, translated by William Russell, Harmondsworth: Penguin, 2017.
 
 [^annotated-2015]: *The Annotated Luther*, edited by Timothy J. Wengert et al, 6 vols. Minneapolis: Fortress Press, 2015–17.
-
-[^translations-nd]: Translations have been modified where necessary.
-
-[^references-nd]: References for Kant are to the Akademie edition given in the margins of most translations, by volume number and page number, except for references to the *Critique of Pure Reason*, which are given to the pages of the first (A) edition or second (B) edition, which are also given in the margins of translations of that text. Translations have been modified where necessary.
 
 [^bloch-1963]: Bloch Ernst, 1963, *Thomas Münzer als Theologe der Revolution*, Frankfurt: Suhrkamp.
 

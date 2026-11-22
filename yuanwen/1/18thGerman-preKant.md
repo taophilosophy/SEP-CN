@@ -211,6 +211,8 @@ In his principal philosophical work, the dissertation on *Impassivity*, he argue
 
 ### Secondary Literature
 
+Following is a general bibliography listing histories of philosophy and reference works focusing on this period. Subsequent bibliographies contain, for each section of the entry, works cited as well as additional recommended secondary literature in English and German.
+
 #### General
 
 #### Section 1: Christian Thomasius
@@ -353,8 +355,6 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | feminist philo
 [^schneewind-2003]: Schneewind, J. B. (ed. and trans.), 2003, *Moral Philosophy from Montaigne to Kant*, Cambridge: Cambridge University Press. Includes extracts from works by Christian Wolff and Christian August Crusius. doi:10.1017/CBO9780511811579
 
 [^watkins-2009]: Watkins, Eric (ed. and trans.), 2009, *Kant’s Critique of Pure Reason: Background Source Materials*, Cambridge: Cambridge University Press. Includes works by Christian Wolff, Alexander Baumgarten, and Christian August Crusius. doi:10.1017/CBO9780511809552
-
-[^following-nd]: Following is a general bibliography listing histories of philosophy and reference works focusing on this period. Subsequent bibliographies contain, for each section of the entry, works cited as well as additional recommended secondary literature in English and German.
 
 [^albrecht-1994]: Albrecht, Michael, 1994, *Eklektik. Eine Begriffsgeschichte mit Hinweisen auf die Philosophie- und Wissenschaftsgeschichte*, Stuttgart: frommann-holzboog.
 

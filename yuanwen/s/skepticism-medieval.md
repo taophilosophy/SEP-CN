@@ -245,6 +245,8 @@ For an overview of the later history of the skepticism, with a focus on canonica
 
 ### Primary Texts and Translations
 
+Note: Texts in this section are alphabetized according to the *first* name of later medieval Latin authors, according to scholarly convention. Hence “William of Ockham”, e.g., is listed in the Ws, not the Os.
+
 ### Secondary Sources
 
 ## Academic Tools
@@ -262,8 +264,6 @@ For an overview of the later history of the skepticism, with a focus on canonica
 ## Related Entries
 
 al-Ghazali | Augustine of Hippo | Auriol [Aureol, Aureoli], Peter | Buridan, John [Jean] | condemnation of 1277 | Duns Scotus, John | Halevi, Judah | Henry of Ghent | John of Salisbury | Nicholas of Autrecourt [de Altricuria, Autricuria, Ultricuria, Autricort] | Ockham [Occam], William | Pyrrho | skepticism | skepticism: ancient
-
-[^note-nd]: Note: Texts in this section are alphabetized according to the *first* name of later medieval Latin authors, according to scholarly convention. Hence “William of Ockham”, e.g., is listed in the Ws, not the Os.
 
 [^adam-2002]: Adam Wodeham, “The Objects of Knowledge,” in *The Cambridge Translations of Medieval Philosophical Texts, Volume 3: Mind and Knowldege*, R. Pasnau (ed. and trans.), Cambridge: Cambridge University Press, 2002, pp. 318–351.
 

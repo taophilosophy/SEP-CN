@@ -231,6 +231,14 @@ More recently, Spinoza’s political philosophy has figured prominently in post-
 
 #### Works by Spinoza
 
+All English quotations are to:
+
+References to the *Tractatus Theologico-Politicus* and *Tractatus Politicus*:
+
+All Latin passages refer to
+
+See also:
+
 #### Works by Others
 
 ### Secondary Sources
@@ -255,19 +263,11 @@ authority | contractarianism | democracy | Hobbes, Thomas: moral and political p
 
 I wish to thank Michael Della Rocca, Michael Rosenthal, Steven B. Smith for many helpful comments and suggestions.
 
-[^all-nd]: All English quotations are to:
-
 [^cws-1985]: [CWS], *The Collected Works of Spinoza*, Edwin Curley (ed./trans.), 2 volumes, Princeton, NJ: Princeton University Press, 1985–2016.
-
-[^references-nd]: References to the *Tractatus Theologico-Politicus* and *Tractatus Politicus*:
 
 [^ttp-nd]: [TTP] and [TP] refer to the chapter and section in [CWS] (e.g., TP 6.4 refers to TP chapter 6, section 4). The following abbreviations for the *Ethics* are used: Roman numerals refer to parts; “P” denotes proposition; “C” denotes corollary; “D” denotes definition; “dem.” denotes demonstration; “S” denotes scholium (e.g., *E*IIIP59S refers to *Ethics*, part III, proposition 59, scholium).
 
-[^all-nd-2]: All Latin passages refer to
-
 [^so-1925]: [SO], *Spinoza Opera*, Carl Gebhardt (ed.), 4 volumes, Heidelberg: Carl Winter, 1925.
-
-[^see-nd]: See also:
 
 [^pw-1958]: [PW], *The Political Works: The Tractatus Theologico-Politicus in Part, and the Tracatatus Politicus in Full*, A. G. Wernham (ed./tran.), Oxford: Clarendon Press, 1958.
 

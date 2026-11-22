@@ -822,6 +822,8 @@ So, for instance, *OL* I 11 refers to paragraph 11 of chapter I in *On Liberty* 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+This is a very select bibliography of other primary and secondary work relevant to the study of Mill’s moral and political philosophy. It is selective, because Mill scholarship is voluminous and my knowledge of it is limited. While it does include those works I have found especially interesting or useful, it is not intended to be comprehensive.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mill-moral-political). |
@@ -853,8 +855,6 @@ I would like to thank the Academic Senate of the University of California, San D
 ## Notes（原文脚注）
 
 [^note-1]: John Stuart Mill (JSM) credits Harriet Taylor Mill (HTM) with considerable influence on his views and his writings, especially the writing of *On Liberty* (see *Autobiography* 257–59 and Mill’s dedication to *On Liberty*). JSM’s relation to HTM is discussed in McCabe 2017 and Miller 2022. A stylometric analysis of HTM’s contributions to *On Liberty* is explored in Schmidt-Petri, Schefczyk, and Osburg 2022. On the basis of this information about JSM’s intellectual debts to HTM and the stylometric analysis, some scholars have concluded that HTM should be recognized as a co-author of *On Liberty*, and there is now a new edition that recognizes JSM and HTM as co-authors (John Stuart Mill and Harriet Taylor Mill, *On Liberty*, ed. P.N. Turner, J.E. Jacobs, H. McCabe, L. Osburg, M. Schefczyck, and C. Schmidt-Petri (Indianapolis: Hackett Publishing, 2026)). The co-authorship of *On Liberty* is a complicated issue, and these scholars have made a serious case for co-authorship. But I’m not yet convinced that the case is decisive. Philosophical friends, which JSM and HTM were, provide important feedback on each other’s ideas, including editorial feedback, which can influence the formulation of ideas. But that kind of feedback need not amount to co-authorship. Think about a mentor’s role in the formulation of a student’s own philosophical ideas. Moreover, in the dedication to HTM in *On Liberty* and his remarks in the *Autobiography*, JSM says that HTM played this sort of role in many of his most important works. But there is no suggestion, as of yet, that HTM deserves to be credited with co-authorship in these other works. Though the case for the co-authorship of *On Liberty* is interesting, I think that the co-authorship issue remains an open question.
-
-[^this-nd]: This is a very select bibliography of other primary and secondary work relevant to the study of Mill’s moral and political philosophy. It is selective, because Mill scholarship is voluminous and my knowledge of it is limited. While it does include those works I have found especially interesting or useful, it is not intended to be comprehensive.
 
 [^anderson-1991]: Anderson, E., 1991, “John Stuart Mill and Experiments in Living,” reprinted in Lyons 1997: 123–48.
 

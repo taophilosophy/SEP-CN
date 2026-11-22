@@ -505,6 +505,12 @@ To conclude, Reid's two substantive contributions to the subsequent development 
 
 ### Primary Works
 
+The Edinburgh Edition of Thomas Reid's works, a joint venture between Edinburgh University Press and Pennsylvania State University Press, has released the majority of volumes in its projected ten volume set. These books are now the definitive editions of Reid's works. We refer to this book by essay, chapter and (where applicable) section number, as well as by page number in Hamilton's *The Works of Thomas Reid*. The following major works are all included in this edition:
+
+Other works by Reid include:
+
+\* These collections are composed of manuscript writings that are not in Thomas Reid's handwriting; they represent student transcriptions of his lectures at University of Glasgow.
+
 ### Secondary Works
 
 #### Books and Collections
@@ -537,21 +543,17 @@ To conclude, Reid's two substantive contributions to the subsequent development 
 
 action | aesthetics: British, in the 18th century | Berkeley, George | causation: the metaphysics of | Collins, Anthony | free will | Gassendi, Pierre | Hobbes, Thomas | Hume, David | incompatibilism: (nondeterministic) theories of free will | legalpunishment | Locke, John | memory: epistemological problems of | Molyneux’s problem | ordinary language | perception: epistemological problems of | primary and secondary qualities in early modern philosophy | realism | Scottish Philosophy: in the 18th Century | skepticism
 
-[^edinburgh-nd]: The Edinburgh Edition of Thomas Reid's works, a joint venture between Edinburgh University Press and Pennsylvania State University Press, has released the majority of volumes in its projected ten volume set. These books are now the definitive editions of Reid's works. We refer to this book by essay, chapter and (where applicable) section number, as well as by page number in Hamilton's *The Works of Thomas Reid*. The following major works are all included in this edition:
+[^reid-1748]: [1748] *An Essay on Quantity; Occasioned by Reading a Treatise in which Simple and Compound Ratios are Applied to Virtue and Merit*
 
-[^edinburgh-1748]: [1748] *An Essay on Quantity; Occasioned by Reading a Treatise in which Simple and Compound Ratios are Applied to Virtue and Merit*
+[^reid-1764]: [1764] *An Inquiry into the Human Mind on the Principles of Common Sense*
 
-[^edinburgh-1764]: [1764] *An Inquiry into the Human Mind on the Principles of Common Sense*
+[^reid-1774]: [1774] *A Brief Account of Aristotle's Logic*
 
-[^edinburgh-1774]: [1774] *A Brief Account of Aristotle's Logic*
+[^reid-1785]: [1785] *Essays on the Intellectual Powers of Man*
 
-[^edinburgh-1785]: [1785] *Essays on the Intellectual Powers of Man*
+[^reid-1788]: [1788] *Essays on the Active Powers of Man*
 
-[^edinburgh-1788]: [1788] *Essays on the Active Powers of Man*
-
-[^edinburgh-1799]: [1799] *A Statistical Account of the University of Glasgow*
-
-[^other-nd]: Other works by Reid include:
+[^reid-1799]: [1799] *A Statistical Account of the University of Glasgow*
 
 [^reid-1736]: Reid, Thomas, 1736–1796/2002, *The Correspondence of Thomas Reid*, Paul Wood (ed.), University Park: Pennsylvania State University Press. [Abbreviated ‘Correspondence’]
 
@@ -561,13 +563,13 @@ action | aesthetics: British, in the 18th century | Berkeley, George | causation
 
 [^reid-1753-2]: –––, 1753–1762/1989, *Philosophical Orations of Thomas Reid, delivered at Graduation Ceremonies in King's College, Aberdeen, 1753, 1756, 1759, 1762*, D.D. Todd (ed.), S. Duncan (trans.), Carbondale: Southern Illinois University Press. [Abbreviated ‘Philosophical Orations’]
 
-[^reid-1764]: –––, 1764/1997, *An Inquiry into the Human Mind on the Principles of Common Sense*, Derek R. Brookes (ed.), University Park: Pennsylvania State University Press. [Abbreviated ‘IHM’]
+[^reid-1764-2]: –––, 1764/1997, *An Inquiry into the Human Mind on the Principles of Common Sense*, Derek R. Brookes (ed.), University Park: Pennsylvania State University Press. [Abbreviated ‘IHM’]
 
 [^reid-1780]: –––\*, 1780/1981, *Lectures on Natural Theology*, Elmer H. Duncan (ed.), Washington, D.C.: University Press of America.
 
-[^reid-1785]: –––, 1785/2002, *Essays on the Intellectual Powers of Man*, Derek Brookes (ed.), University Park: Pennsylvania State University Press. [Abbreviated ‘EIP’]
+[^reid-1785-2]: –––, 1785/2002, *Essays on the Intellectual Powers of Man*, Derek Brookes (ed.), University Park: Pennsylvania State University Press. [Abbreviated ‘EIP’]
 
-[^reid-1788]: –––. 1788/2010, *Essays on the Active Powers of Man*, Knud Haakonssen and James A. Harris (eds.), University Park: Pennsylvania State University Press. [Abbreviated ‘EAP’]
+[^reid-1788-2]: –––. 1788/2010, *Essays on the Active Powers of Man*, Knud Haakonssen and James A. Harris (eds.), University Park: Pennsylvania State University Press. [Abbreviated ‘EAP’]
 
 [^reid-1973]: –––\*, 1973, *Lectures on the Fine Arts*, Peter Kivy (ed.), The Hague: Martinus Nijhoff. [Abbreviated ‘Fine Arts’]
 
@@ -576,8 +578,6 @@ action | aesthetics: British, in the 18th century | Berkeley, George | causation
 [^reid-2001]: –––, 2001. “Of Power.” John Haldane (ed.), *The Philosophical Quarterly*, 51: 3–12.
 
 [^reid-2004]: –––, 2004, *Thomas Reid on Logic, Rhetoric and the Fine Arts*, Alexander Broadie (ed.), University Park: Pennsylvania State University Press.
-
-[^these-nd]: \* These collections are composed of manuscript writings that are not in Thomas Reid's handwriting; they represent student transcriptions of his lectures at University of Glasgow.
 
 [^barker-1976]: Barker, Stephen and Thomas Beauchamp (eds.), 1976, *Thomas Reid: Critical Interpretations*, Philadelphia: Philosophical Monographs.
 

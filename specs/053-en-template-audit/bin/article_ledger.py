@@ -237,6 +237,8 @@ def norm_md(s):
     t = s.replace("\\*", "\x01")
     t = re.sub(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]"
                r"\(((?:[^()\s]|\([^()]*\))*)\)", r"\1", t)
+    t = re.sub(r"\[\^[^\]\s]+\]", "", t)   # 脚注引用标记不是可见文字（clauberg 判例：
+    #   书目散文带 `[^verbeek-1999a]` 标记，与 H0 段可见文失配致 pd 定位失败）
     t = t.replace("*", "")
     t = t.replace("\x01", "*")
     t = re.sub(r"\\(.)", r"\1", t)
@@ -498,6 +500,11 @@ def extract_bib_seq(art_inner, md):
     for ln in reg.group(1).split(NL):
         s2 = ln.strip()
         if not s2 or s2.startswith(">") or MD_DEF_RE.match(ln):
+            continue
+        if s2.startswith("|"):
+            # 表格行归 table 块（R 侧发 <table>，不是 <p>）——散文序必须与
+            # R 侧 ps 块序一致，含表格行的文件旧索引会错位（anselm 判例：
+            # `["p", 6]` 越界被静默跳过，整段散文在装配页消失）
             continue
         m = re.match(r"^(#{3,6})\s+(.*)$", s2)
         if m:

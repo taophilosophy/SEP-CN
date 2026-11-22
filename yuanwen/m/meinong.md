@@ -341,6 +341,10 @@ Meinong calls the dignitatives and the desideratives that are of impersonal natu
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Throughout this article the consulted translations have been modified when necessary.[^note-4] German terms and page references to English translations are in square brackets and written in italics. Bibliographical references to Meinong’s work usually refer to the pagination of his original editions.
+
+See also the bibliographical entries in [Electronic Archives](meinong.electronic-archives.md).
+
 ### Primary Sources: Selected Works by Meinong
 
 | 1877 | “Hume-Studien I. Zur Geschichte und Kritik des modernen Nominalismus” [“*Hume Studies I. On the History and Criticism of Modern Nominalism*”] in *Sitzungsberichte der philosophisch-historischen Klasse der Kaiserlichen Akademie der Wissenschaften in Wien*, Band [*Vol.*] 87, Wien, 185–260. Separate Edition: Wien: Karl Gerold’s Sohn, 1877, 78 pp; reprinted in Meinong 1968–78, Vol. I: 1–76. Transl. in Barber 1966: 98–193. |
@@ -375,6 +379,8 @@ Meinong calls the dignitatives and the desideratives that are of impersonal natu
 | 1968–78 | *Alexius Meinong Gesamtausgabe* [*Complete Edition*], ed. by Rudolf Haller, Rudolf Kindinger in collaboration with Roderick M. Chisholm, 7 vols., Graz: Akademische Druck- u. Verlagsanstalt. See also Meinong 1978. |
 | 1978 | *Alexius Meinong Ergänzungsband zur Gesamtausgabe. Kolleghefte und Fragmente. Schriften aus dem Nachlaß*, ed. by Reinhard Fabian and Rudolf Haller, Graz: Akademische Druck- u. Verlagsanstalt. Suppl. Vol. of Meinong 1968–78. |
 | 1988 | *Über Gegenstandstheorie. Selbstdarstellung*, ed. with an intro by J. M. Werle, reprint of Meinong 1904b and 1921a. |
+
+A number of Meinong’s original works are available electronically. See the supplementary document: [Electronic Archives](meinong.electronic-archives.md).
 
 ### Secondary Sources: References and Further Reading
 
@@ -422,13 +428,7 @@ Gilbert Ryle’s “frank concession” (1972: 7) “that *Gegenstandstheorie* i
 
 [^note-4]: The German word “*Vorstellung*” is rendered as “representation”, its corresponding verb “*vorstellen*” as “represent”. Meinong’s use of “*Präsentation*” and “*präsentieren*” is translated as “presentation” and “present”. In English works on Meinong you can find as alternative translations of “*Vorstellung*” the expressions “idea” (sometimes in Findlay and Grossmann, for instance) and “presentation”.
 
-[^throughout-nd]: Throughout this article the consulted translations have been modified when necessary.[^note-4] German terms and page references to English translations are in square brackets and written in italics. Bibliographical references to Meinong’s work usually refer to the pagination of his original editions.
-
 [^alexius-1998]: Alexius Meinong’s Nachlass is at the Universitätsbibliothek Graz — Nachlass Sammlung. Meinong’s personal books and papers were acquired by the Philosophy Department at the University of Ljubljana, Slovenia (see Juvančič-Mehle 1998 below).
-
-[^see-nd]: See also the bibliographical entries in [Electronic Archives](meinong.electronic-archives.md).
-
-[^meinong’s-nd]: A number of Meinong’s original works are available electronically. See the supplementary document: [Electronic Archives](meinong.electronic-archives.md).
 
 [^albertazzi-2001]: Albertazzi, Liliana and Jacquette, Dale and Poli, Roberto, (eds.), 2001. *The School of Alexius Meinong*, Aldershot: Ashgate.
 

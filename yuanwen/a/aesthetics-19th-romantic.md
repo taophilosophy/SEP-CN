@@ -436,6 +436,8 @@ Arguably, romantic aesthetics is not of merely historical interest. This entry h
 
 #### German Romanticism
 
+All citations from these German editions are cited by these abbreviations, and are followed by the volume, page and, when relevant, fragment numbers.
+
 #### German Romanticism in English
 
 #### British Romanticism
@@ -493,8 +495,6 @@ Enlightenment | Kant, Immanuel | Novalis [Georg Friedrich Philipp von Hardenberg
 [^schelling-1856]: Schelling, F.W.J von, 1856–61, *Sämtliche Werke*, Schelling, K.F.A. (hrs.), Stuttgart: Cotta. **[SW]**
 
 [^schlegel-1958]: Schlegel, F., 1958–, *Kritische Friedrich-Schlegel-Ausgabe*, E. Behler, J.J. Anstett, and H. Eichner (hrs.), Paderborn: Ferdinand Schöningen. **[KA]**
-
-[^all-nd]: All citations from these German editions are cited by these abbreviations, and are followed by the volume, page and, when relevant, fragment numbers.
 
 [^behler-1968]: Behler E. and Struc R. (eds.)1968, *Friedrich Schlegel: Dialogue on Poetry and Literary Aphorisms*, University Park: Pennsylvania State University Press.
 

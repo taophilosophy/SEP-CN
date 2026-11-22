@@ -169,6 +169,8 @@ Early in his discussion of automatism, James (1890)[^james-1890] includes some r
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Two extensive bibliographies are available on line under entries for epiphenomenalism in (1) the PhilPapers’s bibliography (Other Internet Resources) and (2) *The Philosopher’s Index*. (The latter restricts entry to subscribers.) The following list contains all items referred to in the foregoing article, and a few other sources that offer particularly helpful discussions.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epiphenomenalism). |
@@ -188,8 +190,6 @@ consciousness | Descartes, René | dualism | emergent properties | functionalism
 ## Notes（原文脚注）
 
 [^note-1]: Strictly speaking, one can distinguish two versions of epiphenomenalism, (a) mental events have no effects; and (b) mental events may have effects on other mental events, so long as the latter do not have any physical effects, nor any effects on further mental events that eventually have any physical effects. Because observing this distinction would contribute nothing but a tedious duplication of arguments that would differ only trivially, it will be ignored in the remainder of the article.
-
-[^two-nd]: Two extensive bibliographies are available on line under entries for epiphenomenalism in (1) the PhilPapers’s bibliography (Other Internet Resources) and (2) *The Philosopher’s Index*. (The latter restricts entry to subscribers.) The following list contains all items referred to in the foregoing article, and a few other sources that offer particularly helpful discussions.
 
 [^antony-2010]: Antony, L., 2010, “Realization Theory and the Philosophy of Mind: Comments on Sydney Shoemaker’s *Physical Realization*”, *Philosophical Studies*, 148: 89–99.
 

@@ -127,6 +127,12 @@ Jacobi stresses the need for the understanding to acquire the content of knowled
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+An important development is the near completion of the critical editions of Jacobi’s Correspondence (Briefausgabe) and Works (Werke. Gesamtausgabe) which were initiated as far back as the early 1980s. All together, there will be forty-three volumes, thirteen of Works (texts and appendices) and thirty of Correspondence (texts and commentaries), all published by Meiner (Hamburg) and frommann–holzboog (Stuttgart-Bad Cannstatt).
+
+One more project, the *Jacobi-Wörterbuch-online* sponsored by Sächsische Akademie der Wissenschaft (Leipzig), offers a vivid picture of Jacobi’s intellectual profile.
+
+For more information see:
+
 ### Primary Literature
 
 ### Secondary Literature
@@ -157,17 +163,11 @@ This entry was rewritten by Paolo Livieri in 2023, but since it retains the enti
 
 [^note-2]: To mention only a few among the most relevant contributions that would connect with Jacobi’s arguments: Hilary Putnam, *Reason, Truth, and History*, Cambridge: Cambridge University Press, 1981, esp. chapter 1: 1–21; Crispin Wright, ‘Facts and Certainty’, *Proceedings of the British Academy*, 71 (1985): 429–472; Barry McLaughlin, ‘Self-Knowledge, Externalism, and Skepticism’, in *Proceedings of the Aristotelian Society* (Supplementary Volume), 74 (2000): 93–117.
 
-[^an-nd]: An important development is the near completion of the critical editions of Jacobi’s Correspondence (Briefausgabe) and Works (Werke. Gesamtausgabe) which were initiated as far back as the early 1980s. All together, there will be forty-three volumes, thirteen of Works (texts and appendices) and thirty of Correspondence (texts and commentaries), all published by Meiner (Hamburg) and frommann–holzboog (Stuttgart-Bad Cannstatt).
-
 [^friedrich-nd]: [Friedrich Heinrich Jacobi: Werke. Gesamtausgabe.](https://www.pe.ruhr-uni-bochum.de/philosophie/i/forschung_kdp/jacobi_edition/index.html.de)
 
 [^briefwechsel-nd]: [Briefwechsel — Nachlaß — Dokumente](https://www.frommann-holzboog.de/editionen/13?lang=en-gb)
 
-[^one-nd]: One more project, the *Jacobi-Wörterbuch-online* sponsored by Sächsische Akademie der Wissenschaft (Leipzig), offers a vivid picture of Jacobi’s intellectual profile.
-
 [^jacobi-nd]: [Jacobi–Wörterbuch–online.](https://jwo.saw-leipzig.de/)
-
-[^for-nd]: For more information see:
 
 [^friedrich-nd-2]: [Friedrich Heinrich Jacobi: Briefwechsel. Text — Kommentar — Wörterbuch-online](https://www.saw-leipzig.de/de/projekte/friedrich-heinrich-jacobi_briefwechsel_text_kommentar_woerterbuch_online)
 

@@ -287,6 +287,8 @@ In the nineteenth century, the rehabilitation of Scudéry’s intellectual reput
 
 #### Cited Works
 
+Citations are to the page numbers of the original French version. Passages from the French quoted in this entry are translated by John Conley.
+
 | [*CN*] | *Conversations nouvelles sur divers sujets*, 2 vols., Paris: C. Barbin, 1684. |
 | --- | --- |
 | [*CDS*] | *Conversations sur divers sujets*, 2 vols., Paris: C. Barbin, 1680. [Translated as *Conversations upon Several Subjects. Written in French by Mademoiselle de Scudéry. And done into English by Mr. Ferrand Spence. In Two Tomes*, London: H. Rhodes, 1683.] |
@@ -354,8 +356,6 @@ Descartes, René | ethics: virtue | feminist philosophy | Montaigne, Michel de |
 [^note-18]: The seventeenth-century term *précieuse* referred to a female member of Paris salons who stressed refinement in language and comportment. In her novels’ emphasis on Platonic love and polite manners, Mademoiselle de Scudéry was considered a paragon of preciosity. The term soon acquired a negative connotation. The *précieuse* was a *salonnière* whose euphemisms and overly refined politeness made her the object of satire.
 
 [^note-19]: Jacques-Bénigne Bossuet (1627–1704) was the bishop of Meaux and the preeminent preacher at the court of Louis XIV. In works such as *Politics Drawn from Holy Scripture* (1679), Bossuet defends a providentialist philosophy of history, closely tied to the divine right of kings. The archbishop of Cambrai, François de Salignac de la Mothe-Fénelon (1651–1715) was a prominent essayist, poet, and preacher. In works such as *Telemachus* (1694), Fénelon criticizes the abuses of power by monarchial authority. The longstanding political tension between Bossuet and Fénelon burst into theological controversy in the 1690s when the two prelates opposed each other during the Quietist controversy. This dispute concerned the orthodoxy of those who supported a spirituality of abandonment to God [Quietism], which certain ecclesiastics, led by Bossuet, condemned as destructive of free will and of the struggle to acquire the moral virtues.
-
-[^citations-nd]: Citations are to the page numbers of the original French version. Passages from the French quoted in this entry are translated by John Conley.
 
 [^discours-1671]: *Discours de la Gloire*, Paris: Pierre le Petit, 1671. [Translated as *Essay Upon Glory* by Elizabeth Elstob: J. Morphew, 1708.]
 

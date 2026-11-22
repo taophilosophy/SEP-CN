@@ -21,3 +21,5 @@ As Graham (1989) points out, however, despite the likely influence of the Mohist
 ### References（引用注释）
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+Return to Mohism

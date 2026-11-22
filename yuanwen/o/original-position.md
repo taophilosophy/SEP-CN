@@ -247,6 +247,8 @@ Additional topics concerining the original position are discussed in the followi
 
 ### Primary Sources
 
+The following works by John Rawls are cited above.
+
 ### Secondary Sources
 
 ## Academic Tools
@@ -264,8 +266,6 @@ Additional topics concerining the original position are discussed in the followi
 ## Related Entries
 
 ethics: deontological | justice: international distributive | justification, political: public | liberalism | Rawls, John | reflective equilibrium | social contract: contemporary approaches to
-
-[^john-nd]: The following works by John Rawls are cited above.
 
 [^tj-1999]: [TJ] *A Theory of Justice*, Cambridge, MA: Harvard University Press. Revised edition, 1999. The page citations refer first to the 1971 edition first, and the revised edition thereafter, as in (TJ 17/16 rev.).
 

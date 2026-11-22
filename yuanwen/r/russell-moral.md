@@ -644,11 +644,15 @@ Indeed, I should emphasize that, lengthy as this entry is, I have said virtually
 
 ### Primary Literature
 
+Note: Many of Russell’s books have been through several editions with different publishers and the consequence is that pagination is not always uniform. Page numbers cited above are from the editions listed below. For the original dates and places of publication, see the Bibliography attached to the entry on Bertrand Russell.
+
 #### Books by Russell
 
 #### Anthologies of Russell’s Writings
 
 #### The Collected Papers of Bertrand Russell
+
+Referred to as *Papers* in the text.
 
 ### Secondary Literature
 
@@ -673,8 +677,6 @@ Indeed, I should emphasize that, lengthy as this entry is, I have said virtually
 ## Related Entries
 
 analysis | Ayer, Alfred Jules | Bradley, Francis Herbert | cognitivism vs. non-cognitivism, moral | consequentialism | consequentialism: rule | descriptions | Hobbes, Thomas | Hume, David | Hume, David: moral philosophy | metaethics | Moore, George Edward | Moore, George Edward: moral philosophy | moral anti-realism | moral epistemology | moral motivation | moral non-naturalism | moral relativism | moral skepticism | realism | Reid, Thomas | Russell, Bertrand | Sidgwick, Henry
-
-[^note-nd]: Note: Many of Russell’s books have been through several editions with different publishers and the consequence is that pagination is not always uniform. Page numbers cited above are from the editions listed below. For the original dates and places of publication, see the Bibliography attached to the entry on Bertrand Russell.
 
 [^russell-2000]: 2000 [1896], *German Social Democracy*, Nottingham: Spokesman. Originally published 1896.
 
@@ -743,8 +745,6 @@ analysis | Ayer, Alfred Jules | Bradley, Francis Herbert | cognitivism vs. non-c
 [^why-1957]: *Why I am Not a Christian and Other Essays on Religion and Related Subjects*, edited by Paul Edwards, London: George Allen and Unwin, 1957.
 
 [^yours-2002]: *Yours Faitfully, Bertand Russell*: *A Lifelong fight for Peace, Justice and Truth in Letters to the Editor*, edited by Ray Perkins, Chicago and Lasalle: Open Court, 2002.
-
-[^referred-nd]: Referred to as *Papers* in the text.
 
 [^vol-1888]: Vol. 1: *Cambridge Essays, 1888–99*, London, Boston, Sydney: George Allen and Unwin, 1983.
 

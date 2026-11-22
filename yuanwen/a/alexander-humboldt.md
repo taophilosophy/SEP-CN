@@ -295,6 +295,8 @@ All in all, it is difficult to imagine the nineteenth century without Humboldt, 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+I have provided references to English translations of Humboldt’s works following reference to the French and (or) German original. As noted above, however, translators were often liberal with their translations. Thus, although I reference English translations, the translations of passages provided here are my largely my own. Accordingly, exact replicas of the English renditions provided here may not be found in the translations referred to (this is especially the case with Otté’s *Cosmos* [CO] which remains the most easily accessible version of the work). Furthermore, in cases where a passage only appears in the German edition, I have only referred to the German.
+
 ### Humboldt Primary Literature and Abbreviations
 
 #### Original German
@@ -328,8 +330,6 @@ colonialism | ecology | Hegel, Georg Wilhelm Friedrich | Humboldt, Wilhelm von |
 ## Notes（原文脚注）
 
 [^note-1]: Humboldt included it in volume one of *Kosmos* and in his 1827 essay on geographical differences in climate, “*Über die Haupt-Ursachen der Temperatur-Verschiedenheit auf dem Erdkörper*”. See *Kosmos* 1: 176; CO 1: 336. The *Edinburgh Encyclopedia*, for instance, references Humboldt’s description of cloud formation and electrical storms in its section on Physical Geography. See Brewster 1832: 589.
-
-[^english-nd]: I have provided references to English translations of Humboldt’s works following reference to the French and (or) German original. As noted above, however, translators were often liberal with their translations. Thus, although I reference English translations, the translations of passages provided here are my largely my own. Accordingly, exact replicas of the English renditions provided here may not be found in the translations referred to (this is especially the case with Otté’s *Cosmos* [CO] which remains the most easily accessible version of the work). Furthermore, in cases where a passage only appears in the German edition, I have only referred to the German.
 
 [^an-1808]: [AN] 1808, *Ansichten der Natur mit wissenschaftlichen Erläuterungen*, Tübingen: Cotta.
 

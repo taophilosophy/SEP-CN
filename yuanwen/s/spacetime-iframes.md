@@ -257,6 +257,8 @@ In empirical testing and measurement in general relativity, the treatment of ind
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Unless otherwise noted, translations are by the author of the entry.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=spacetime-iframes). |
@@ -276,8 +278,6 @@ Einstein, Albert: philosophy of science | general relativity: early philosophica
 ### Acknowledgments
 
 I am deeply grateful to Sona Ghosh for her invaluable assistance with philosophical, mathematical, and technical matters. I would also like to thank an anonymous referee for the SEP for very helpful comments on previous versions.
-
-[^unless-nd]: Unless otherwise noted, translations are by the author of the entry.
 
 [^berkeley-1721]: Berkeley, G., 1721 [1992], *De Motu*, in *De Motu* and *The Analyst*, D. Jesseph (ed. & trans.), The New Synthese Historical Library, vol. 41, Berlin: Springer.
 

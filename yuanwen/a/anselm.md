@@ -128,11 +128,15 @@ So the restoration of human beings to the justice they were intended to enjoy re
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+References in this article to Anselm’s works use the following abbreviations:
+
 | *DLA* | = | *De libertate arbitrii* |
 | --- | --- | --- |
 | *DV* | = | *De veritate* |
 | *M* | = | *Monologion* |
 | *P* | = | *Proslogion* |
+
+All translations are my own.
 
 ### Critical Editions
 
@@ -161,10 +165,6 @@ Augustine of Hippo | Duns Scotus, John | free will | medieval philosophy | ontol
 [^note-1]: 1\. The objection to this principle is usually expressed in a slogan deriving from Kant: ‘existence is not a predicate’ (or ‘existence is not a perfection’). Plantinga 1974 offers a classic discussion of Kant’s dictum, denying that it has any force against Anselm’s argument; Heathwood 2011 argues that it does. If the account of Anselm’s argument given here is correct, this dispute is beside the point, because Anselm – as he says himself – nowhere assumes that existence is a perfection.
 
 [^note-2]: 2\. Note that the Augustinian characterization of time as contrasted with eternity, which Anselm accepts, strongly suggests presentism. Rogers 2007 argues, however, that Anselm is an eternalist about time, and that he must be, given his view that God is timelessly eternal. Leftow 2009 responds on textual grounds that Anselm is a presentist, and on philosophical grounds that divine eternity does not entail eternalism. See also Visser and Williams 2008, 101–105, for a brief assessment of this debate and a defense of reading Anselm as a presentist.
-
-[^references-nd]: References in this article to Anselm’s works use the following abbreviations:
-
-[^all-nd]: All translations are my own.
 
 [^niskanen-2019]: Niskanen, Samu, 2019. *Letters of Anselm of Canterbury, Vol. I: The Bec Letters*, Oxford: Oxford University Press.
 

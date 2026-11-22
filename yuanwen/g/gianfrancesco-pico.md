@@ -91,6 +91,8 @@ In the body of Gianfrancesco’s theoretical writings, witchcraft played a cruci
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The complete works of Gianfrancesco Pico, including his correspondence, have been published in:
+
 ### Modern editions and translations of Gianfrancesco Pico’s works
 
 ### Modern edition of Giovanni Pico’s letters
@@ -161,8 +163,6 @@ Ficino, Marsilio | Pico della Mirandola, Giovanni | Sextus Empiricus | skepticis
 [^vita-nd-2]: 1530, *Vita Hieronymi Savonarolae*
 
 [^compendio-nd]: 1532, *Compendio delle cose admirabile di sor Caterina da Raconisio*
-
-[^gianfrancesco-nd]: The complete works of Gianfrancesco Pico, including his correspondence, have been published in:
 
 [^pico-1969]: Pico, Gianfrancesco, *Opera omnia*, Basel: Henricus Petri, 1573; repr. Hildesheim: Olms 1969, 2005
 

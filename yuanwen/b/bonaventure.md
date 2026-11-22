@@ -294,6 +294,8 @@ Bonaventure locates knowledge of God’s existence within all three parts of an 
 
 #### A.1 Bonaventure works
 
+The following works by Bonaventure are mentioned in this entry.
+
 #### A.2 Original Texts of Bonaventure
 
 #### A.3 Translations of Bonaventure
@@ -412,8 +414,6 @@ Much of Bonaventure’s argumentation here depends upon the teaching of Guibert 
 [^note-28]: “Sed hoc non est esse particulare, quod est esse arctatum, quia permixtum est cum potentia, nec esse analogum, quia minime habet de actu, eo quod minime est. Restat igitur, quod illud esse est esse divinum”.
 
 [^note-29]: Cf. J. Seifert 1992: 218, for whom the argument takes its “starting point in the *objective essence* and not in a *mere concept* of God”.
-
-[^bonaventure-nd]: The following works by Bonaventure are mentioned in this entry.
 
 [^commentaria-nd]: *Commentaria in Quattuor Libros Sententiarum* (*Commentary on the Sentences*), Quaracchi I–IV.
 

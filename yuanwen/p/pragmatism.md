@@ -224,9 +224,13 @@ The result is a ‘problem-centred pedagogy’ which looks to pragmatist epistem
 
 ### Primary Texts of Classical Pragmatists
 
+For reasons of space, preference is given to comprehensive collections and critical editions.
+
 ### Collections of Papers by Classic and Contemporary Pragmatists.
 
 ### Other References and Supplementary Reading
+
+For reasons of space, preference is given to monographs where possible.
 
 ## Academic Tools
 
@@ -245,8 +249,6 @@ The result is a ‘problem-centred pedagogy’ which looks to pragmatist epistem
 ## Related Entries
 
 Addams, Jane | children, philosophy for | Dewey, John | Dewey, John: aesthetics | Dewey, John: moral philosophy | Dewey, John: political philosophy | Du Bois, W.E.B. | education, philosophy of | feminist philosophy, approaches: pragmatism | Habermas, Jürgen | Hook, Sidney | James, William | Latinx Philosophy | Lewis, Clarence Irving | Locke, Alain LeRoy | Mead, George Herbert | Peirce, Charles Sanders | Peirce, Charles Sanders: theory of signs | pragmatic arguments and belief in God | Rorty, Richard | Royce, Josiah | Santayana, George | truth: pragmatic theory of | Wright, Chauncey
-
-[^for-nd]: For reasons of space, preference is given to comprehensive collections and critical editions.
 
 [^addams-1910]: Addams, J., 1910 [1990], *Twenty Years at Hull House, with Autobiographical Notes*, Urbana, IL: University of Illinois Press.
 
@@ -313,8 +315,6 @@ Addams, Jane | children, philosophy for | Dewey, John | Dewey, John: aesthetics 
 [^talisse-2011]: Talisse, R. and Aikin, S. (eds.), 2011. *The Pragmatism Reader: From Peirce through the Present*, Princeton: Princeton University Press.
 
 [^thayer-1982]: Thayer, H.S. (ed.), 1982. *Pragmatism: The Classic Writings*, Hackett.
-
-[^for-nd-2]: For reasons of space, preference is given to monographs where possible.
 
 [^aikin-2014]: Aikin, S., 2014. *Evidentialism and the Will to Believe*, London: Bloomsbury.
 

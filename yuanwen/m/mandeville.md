@@ -181,6 +181,8 @@ The final three decades of the twentieth century witnessed a significant increas
 
 ### A. Works by Mandeville
 
+Texts cited above and our abbreviations of them are as follows:
+
 ### B. Other Primary Literature
 
 ### C. Literature on Mandeville
@@ -205,8 +207,6 @@ Bayle, Pierre | Butler, Joseph: moral philosophy | economics: in early modern ph
 ### Acknowledgments
 
 We would like to thank Andrea Branchi and John Callanan for helpful feedback on a draft of this entry.
-
-[^texts-nd]: Texts cited above and our abbreviations of them are as follows:
 
 [^eft-1999]: [EFT] *By a Society of Ladies: Essays in the Female Tatler* (Primary sources in political thought), Maurice M. Goldsmith (ed.), Bristol: Thoemmes Press, 1999.
 

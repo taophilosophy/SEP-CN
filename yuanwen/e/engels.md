@@ -177,6 +177,8 @@ Several decades have passed since the end of the Cold War, and more of Engels’
 
 #### Specific Works
 
+All quotations from Engels in this article follow the translations compiled in the *Collected Works* (MECW) above. Individually cited works by Engels, other than letters, are listed below by date, with bibliographical information given for the original publication, followed by a crossreference to the MECW edition. (The MECW does not always identify the translator.) In the handful of cases where the standard text in the MECW is based on a later edition that was substantially revised by Engels himself, both the first publication date and the last revised edition are given. In cases where the work in question appeared only posthumously, the date of composition is listed (with an asterisk), instead of the date of first publication, followed by a crossreference to the volume of the *Gesamtausgabe* (MEGA) that includes a critical edition of the relevant manuscripts.
+
 ### Secondary sources
 
 ## Academic Tools
@@ -200,51 +202,49 @@ feminist philosophy, interventions: political philosophy | Feuerbach, Ludwig And
 
 [^marx-1975]: Marx, Karl and Frederick Engels, 1975–2004, *Collected Works* [“MECW”], New York: International Publishers / London: Lawrence & Wishart / Moscow: Progress Publishers.
 
-[^all-nd]: All quotations from Engels in this article follow the translations compiled in the *Collected Works* (MECW) above. Individually cited works by Engels, other than letters, are listed below by date, with bibliographical information given for the original publication, followed by a crossreference to the MECW edition. (The MECW does not always identify the translator.) In the handful of cases where the standard text in the MECW is based on a later edition that was substantially revised by Engels himself, both the first publication date and the last revised edition are given. In cases where the work in question appeared only posthumously, the date of composition is listed (with an asterisk), instead of the date of first publication, followed by a crossreference to the volume of the *Gesamtausgabe* (MEGA) that includes a critical edition of the relevant manuscripts.
+[^engels-1842]: 1842, *Schelling und die Offenbarung. Kritik des neuesten Reaktionsversuchs gegen die freie Philosophie*, Leipzig (published anonymously); translated as *Schelling and Revelation: Critique of the Latest Attempt of Reaction against the Free Philosophy*, by Barbara Ruhemann, in MECW 2: 189–240.
 
-[^all-1842]: 1842, *Schelling und die Offenbarung. Kritik des neuesten Reaktionsversuchs gegen die freie Philosophie*, Leipzig (published anonymously); translated as *Schelling and Revelation: Critique of the Latest Attempt of Reaction against the Free Philosophy*, by Barbara Ruhemann, in MECW 2: 189–240.
+[^engels-1842-2]: 1842, *Schelling, der Philosoph in Christo, oder die Verklärung der Weltweisheit zur Gottesweisheit*, Berlin (published anonymously); translated as *Schelling, Philosopher in Christ, or the Transfiguation of World Wisdowm into Divine Wisdom*, by Barbara Ruhemann, in MECW 2: 241–264.
 
-[^all-1842-2]: 1842, *Schelling, der Philosoph in Christo, oder die Verklärung der Weltweisheit zur Gottesweisheit*, Berlin (published anonymously); translated as *Schelling, Philosopher in Christ, or the Transfiguation of World Wisdowm into Divine Wisdom*, by Barbara Ruhemann, in MECW 2: 241–264.
+[^engels-1844]: 1844, “Umrisse zu einer Kritik der Nationalökonomie”, in *Deutsch-Französische Jahrbücher*, ed. Arnold Ruge and Karl Marx, Paris; translated as “Outlines of a Critique of Political Economy”, in MECW 3: 418–443.
 
-[^all-1844]: 1844, “Umrisse zu einer Kritik der Nationalökonomie”, in *Deutsch-Französische Jahrbücher*, ed. Arnold Ruge and Karl Marx, Paris; translated as “Outlines of a Critique of Political Economy”, in MECW 3: 418–443.
+[^engels-1845]: 1845 (coauthored with Marx), *Die heilige Familie, oder Kritik der kritischen Kritik. Gegen Bruno Bauer und Consorten*, Frankfurt am Main; translated as *The Holy Family, or Critique of Critical Criticism: Against Bruno Bauer and Company*, by Richard Dixon and Celemens Dutt, in MECW 4: 5–211.
 
-[^all-1845]: 1845 (coauthored with Marx), *Die heilige Familie, oder Kritik der kritischen Kritik. Gegen Bruno Bauer und Consorten*, Frankfurt am Main; translated as *The Holy Family, or Critique of Critical Criticism: Against Bruno Bauer and Company*, by Richard Dixon and Celemens Dutt, in MECW 4: 5–211.
+[^engels-1845-2]: 1845, *Die Lage der arbeitenden Klasse in England. Nach eigner Anschauung und authentischen Quellen*, Leipzig; translated as *The Condition of the Working-Class in England: From Personal Observation and Authentic Sources*, by Florence Kelley-Wischnewetzky, in MECW 4: 295–583.
 
-[^all-1845-2]: 1845, *Die Lage der arbeitenden Klasse in England. Nach eigner Anschauung und authentischen Quellen*, Leipzig; translated as *The Condition of the Working-Class in England: From Personal Observation and Authentic Sources*, by Florence Kelley-Wischnewetzky, in MECW 4: 295–583.
+[^engels-1845-3]: \*1845–46 (coauthored with Marx), *Die deutsche Ideologie. Kritik der neuesten deutschen Philosophie in ihren Repräsentanten Feuerbach, B. Bauer und Stirner, und des deutschen Sozialismus in seinen verschiedenen Propheten*, published only posthumously (see MEGA II/5); translated as *The German Ideology: Critique of Modern German Philosophy according to its Representatives Feuerbach, B. Bauer and Stirner, and of German Socialism According to its Various Prophets*, by Clemens Dutt, W. Lough, and C. P. Magill, in MECW 5: 19–539.
 
-[^all-1845-3]: \*1845–46 (coauthored with Marx), *Die deutsche Ideologie. Kritik der neuesten deutschen Philosophie in ihren Repräsentanten Feuerbach, B. Bauer und Stirner, und des deutschen Sozialismus in seinen verschiedenen Propheten*, published only posthumously (see MEGA II/5); translated as *The German Ideology: Critique of Modern German Philosophy according to its Representatives Feuerbach, B. Bauer and Stirner, and of German Socialism According to its Various Prophets*, by Clemens Dutt, W. Lough, and C. P. Magill, in MECW 5: 19–539.
+[^engels-1847]: \*1847, “Grundsätze des Kommunismus”, published only posthumously (see MEGA I/6); translated as “Principles of Communism”, in MECW 6: 341–357. [This is Engels’s substantial draft of what would become the coauthored *Manifesto of the Communist Party*, see next.]
 
-[^all-1847]: \*1847, “Grundsätze des Kommunismus”, published only posthumously (see MEGA I/6); translated as “Principles of Communism”, in MECW 6: 341–357. [This is Engels’s substantial draft of what would become the coauthored *Manifesto of the Communist Party*, see next.]
+[^engels-1848]: 1848 (coauthored with Marx), *Manifest der Kommunistischen Partei*, London; translated as *Manifesto of the Communist Party*, by Samuel Moore, in MECW 6: 477–517.
 
-[^all-1848]: 1848 (coauthored with Marx), *Manifest der Kommunistischen Partei*, London; translated as *Manifesto of the Communist Party*, by Samuel Moore, in MECW 6: 477–517.
+[^engels-1850]: 1850, “Der deutsche Bauernkrieg”, *Neue Rheinische Zeitung. Politisch-ökonomische Revue*, No. 5–6, ed. Karl Marx; translated as *The Peasant War in Germany*, in MECW 10: 397–482.
 
-[^all-1850]: 1850, “Der deutsche Bauernkrieg”, *Neue Rheinische Zeitung. Politisch-ökonomische Revue*, No. 5–6, ed. Karl Marx; translated as *The Peasant War in Germany*, in MECW 10: 397–482.
+[^engels-1852]: \*1852 (coauthored with Marx), *Der großen Männer des Exils*, published only posthumously (see MEGA I/11); translated as *The Great Men of the Exile*, by Rodney Livingstone, in MECW 11: 227–326.
 
-[^all-1852]: \*1852 (coauthored with Marx), *Der großen Männer des Exils*, published only posthumously (see MEGA I/11); translated as *The Great Men of the Exile*, by Rodney Livingstone, in MECW 11: 227–326.
+[^engels-1859]: 1859, [Review of] “Karl Marx, *Zur Kritik der politischen Oeconomie*”, [serialized in] *Das Volk*, Nos. 14 and 15; translated as [review of] “Karl Marx, *A Contribution to the Critique of Political Economy*”, by Salo Ryazanskaya, in MECW 16: 465–477.
 
-[^all-1859]: 1859, [Review of] “Karl Marx, *Zur Kritik der politischen Oeconomie*”, [serialized in] *Das Volk*, Nos. 14 and 15; translated as [review of] “Karl Marx, *A Contribution to the Critique of Political Economy*”, by Salo Ryazanskaya, in MECW 16: 465–477.
+[^engels-1870]: \*1870, *Geschichte Irlands*, published only posthumously (see MEGA I/21); translated as *The History of Ireland*, by Barrie Selman, in MECW 21: 145–185.
 
-[^all-1870]: \*1870, *Geschichte Irlands*, published only posthumously (see MEGA I/21); translated as *The History of Ireland*, by Barrie Selman, in MECW 21: 145–185.
+[^engels-1872]: 1872–73, “Zur Wohnungsfrage”, [serialized in] *Der Volksstaat*, Nos. 51, 52, 53, 103, and 104; second edition [as pamphlet], 1887, Hottingen-Zürich; translated as *The Housing Question*, in MECW 23: 315–391.
 
-[^all-1872]: 1872–73, “Zur Wohnungsfrage”, [serialized in] *Der Volksstaat*, Nos. 51, 52, 53, 103, and 104; second edition [as pamphlet], 1887, Hottingen-Zürich; translated as *The Housing Question*, in MECW 23: 315–391.
+[^engels-1873]: \*1873–82, *Dialektik der Natur*, published only posthumously (see MEGA I/26); translated as *Dialectics of Nature*, by Clemens Dutt, in MECW 25: 311–588.
 
-[^all-1873]: \*1873–82, *Dialektik der Natur*, published only posthumously (see MEGA I/26); translated as *Dialectics of Nature*, by Clemens Dutt, in MECW 25: 311–588.
+[^engels-1878]: 1878, *Herrn Eugen Dühring’s Umwälzung der Wissenschaft*, Leipzig [following serial publication in 1877–78 in numerous issues of *Vorwarts* and *Wissenschaftliche Beilage*]; third revised edition, 1894, Stuttgart; translated as *Herr Eugen Dühring’s Revolution in Science* [“*Anti-Dühring*”], by Emile Burns, in MECW 25: 1–312.
 
-[^all-1878]: 1878, *Herrn Eugen Dühring’s Umwälzung der Wissenschaft*, Leipzig [following serial publication in 1877–78 in numerous issues of *Vorwarts* and *Wissenschaftliche Beilage*]; third revised edition, 1894, Stuttgart; translated as *Herr Eugen Dühring’s Revolution in Science* [“*Anti-Dühring*”], by Emile Burns, in MECW 25: 1–312.
+[^engels-1878b]: 1878b, “Karl Marx”, in *Volks-Kalender*, ed. Wilhelm Bracke, Brunswick; translated as “Karl Marx”, in MECW 24: 183–195.
 
-[^all-1878b]: 1878b, “Karl Marx”, in *Volks-Kalender*, ed. Wilhelm Bracke, Brunswick; translated as “Karl Marx”, in MECW 24: 183–195.
+[^engels-1880]: 1880, *Socialisme utopique et Socialisme scientifique*, [serialized in] *La Revue socialiste*, Nos. 3, 4, and 5; translated as *Socialism: Utopian and Scientific*, by Edward Aveling, in MECW 24: 281–325. [This work was based on several chapters from *Anti-Dühring*, see above. It was first published in French, with the translation done by Paul Lafargue; in subsequent German editions it appeared under the title *Die Entwicklung des Sozialismus von der Utopie zur Wissenschaft.* The 1892 English translation by Aveling was from the fourth German edition of 1891.]
 
-[^all-1880]: 1880, *Socialisme utopique et Socialisme scientifique*, [serialized in] *La Revue socialiste*, Nos. 3, 4, and 5; translated as *Socialism: Utopian and Scientific*, by Edward Aveling, in MECW 24: 281–325. [This work was based on several chapters from *Anti-Dühring*, see above. It was first published in French, with the translation done by Paul Lafargue; in subsequent German editions it appeared under the title *Die Entwicklung des Sozialismus von der Utopie zur Wissenschaft.* The 1892 English translation by Aveling was from the fourth German edition of 1891.]
+[^engels-1884]: 1884, *Der Ursprung der Familie, des Privateigenthums und des Staats. Im Anschluss an Lewis H. Morgan’s Forschungen*, Hottingen-Zürich; fourth revised edition, 1891; translated as *The Origin of the Family, Private Property, and the State: In the Light of the Researches by Lewis H. Morgan*, in MECW 26: 129–276.
 
-[^all-1884]: 1884, *Der Ursprung der Familie, des Privateigenthums und des Staats. Im Anschluss an Lewis H. Morgan’s Forschungen*, Hottingen-Zürich; fourth revised edition, 1891; translated as *The Origin of the Family, Private Property, and the State: In the Light of the Researches by Lewis H. Morgan*, in MECW 26: 129–276.
+[^engels-1886]: 1886 *Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie*, [serialized in] *Die Neue Zeit*, Nos. 4 and 5; published as pamphlet, 1888, Stuttgart; translated as *Ludwig Feuerbach and the End of Classical German Philosophy* [“*Feuerbach*”], in MECW 26: 353–398.
 
-[^all-1886]: 1886 *Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie*, [serialized in] *Die Neue Zeit*, Nos. 4 and 5; published as pamphlet, 1888, Stuttgart; translated as *Ludwig Feuerbach and the End of Classical German Philosophy* [“*Feuerbach*”], in MECW 26: 353–398.
+[^engels-1887]: 1887, “Vorwort zur zweiten, durchgesehenen Auflage *Zur Wohnungsfrage*”, [serialized in] *Der Sozialdemokrat*, Nos. 3 and 4, and in Engels, *Zur Wohungsfrage*, Hottingen-Zürich; translated as “Preface [to the Second Edition of *The Housing Question*]”, in MECW 26: 424–433.
 
-[^all-1887]: 1887, “Vorwort zur zweiten, durchgesehenen Auflage *Zur Wohnungsfrage*”, [serialized in] *Der Sozialdemokrat*, Nos. 3 and 4, and in Engels, *Zur Wohungsfrage*, Hottingen-Zürich; translated as “Preface [to the Second Edition of *The Housing Question*]”, in MECW 26: 424–433.
+[^engels-1894]: 1894–95 “Zur Geschichte des Urchristentums”, [serialized in] *Die Neue Zeit*, Vol. 1, Nos. 1 and 2; translated as “On the History of Early Christianity”, in MECW 27: 445–469.
 
-[^all-1894]: 1894–95 “Zur Geschichte des Urchristentums”, [serialized in] *Die Neue Zeit*, Vol. 1, Nos. 1 and 2; translated as “On the History of Early Christianity”, in MECW 27: 445–469.
-
-[^all-1895]: \*1895, “Einleitung zu Marx’ *Klassenkämpfe in Frankreich 1848 bis 1850*”, first published in abridged form in *Die Neue Zeit*, Vol. 2, Nos. 27 and 28; full text published only posthumously (see MEGA I/32); translated as “Introduction [to Karl Marx’s *The Class Struggles in France 1848 to 1850*]”, in MECW 27: 506–524.
+[^engels-1895]: \*1895, “Einleitung zu Marx’ *Klassenkämpfe in Frankreich 1848 bis 1850*”, first published in abridged form in *Die Neue Zeit*, Vol. 2, Nos. 27 and 28; full text published only posthumously (see MEGA I/32); translated as “Introduction [to Karl Marx’s *The Class Struggles in France 1848 to 1850*]”, in MECW 27: 506–524.
 
 [^anderson-2010]: Anderson, Kevin, 2010 [2016], *Marx at the Margins: On Nationalism, Ethnicity, and Non-Western Societies*, Chicago: University of Chicago Press; expanded edition, 2016.
 

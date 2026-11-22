@@ -169,6 +169,8 @@ In closing, the reader may find it useful if we summarize the major differences�
 
 ### Primary Sources
 
+Works by Croce:
+
 ### Secondary Sources
 
 ## Academic Tools
@@ -191,35 +193,33 @@ art, definition of | Collingwood, Robin George: aesthetics | Dewey, John: aesthe
 
 Thanks to Dr. Martine Lejeune of the Department for Applied Linguistics, College Ghent, for bibliographical help and for pointing out certain errors in the original entry. The SEP editors would like to thank Filippo Contesi for notifying us of a number of typographical infelicities in this entry.
 
-[^works-nd]: Works by Croce:
+[^croce-aesthetics-1902]: 1902. *Estetica come scienza dell’espressione e linguistica generale*, Florence: Sandron.
 
-[^works-1902]: 1902. *Estetica come scienza dell’espressione e linguistica generale*, Florence: Sandron.
+[^croce-aesthetics-1909]: 1909 [1922]. *Aesthetic: As science of expression and general linguistic*, translated by Douglas Ainslie, New York: Noonday. Cited as *Aes*.
 
-[^works-1909]: 1909 [1922]. *Aesthetic: As science of expression and general linguistic*, translated by Douglas Ainslie, New York: Noonday. Cited as *Aes*.
+[^croce-aesthetics-1909-2]: 1909. *Logica come scienza del concetto puro*, Florence: Sandron.
 
-[^works-1909-2]: 1909. *Logica come scienza del concetto puro*, Florence: Sandron.
+[^croce-aesthetics-1909-3]: 1909. *Filosofia della practica, economica ed etica*, Florence: Sandron.
 
-[^works-1909-3]: 1909. *Filosofia della practica, economica ed etica*, Florence: Sandron.
+[^croce-aesthetics-1913]: 1913. *Breviario di estetica*, Naples: Laterza.
 
-[^works-1913]: 1913. *Breviario di estetica*, Naples: Laterza.
+[^croce-aesthetics-1917]: 1917. *Logic as the Science of the Pure Concept*, translated by Douglas Ainslie, London: Macmillan.
 
-[^works-1917]: 1917. *Logic as the Science of the Pure Concept*, translated by Douglas Ainslie, London: Macmillan.
+[^croce-aesthetics-1917-2]: 1917. *Philosophy of the Practical, Economic and Ethic*, translated by Douglas Ainslie, London: Macmillan.
 
-[^works-1917-2]: 1917. *Philosophy of the Practical, Economic and Ethic*, translated by Douglas Ainslie, London: Macmillan.
+[^croce-aesthetics-1921]: 1921. *The Essence of Aesthetic*, translated by Douglas Ainslie, London: Heinemann. Noted as *EA*. (Likely to be superseded by the 1992 translation below.)
 
-[^works-1921]: 1921. *The Essence of Aesthetic*, translated by Douglas Ainslie, London: Heinemann. Noted as *EA*. (Likely to be superseded by the 1992 translation below.)
+[^croce-aesthetics-1952]: 1952. ‘Dewey’s Aesthetics and Theory of Knowledge, translated by F. Simoni, *The Journal of Aesthetics and Art Criticism*, 11(1): 1–6.
 
-[^works-1952]: 1952. ‘Dewey’s Aesthetics and Theory of Knowledge, translated by F. Simoni, *The Journal of Aesthetics and Art Criticism*, 11(1): 1–6.
+[^croce-aesthetics-1995]: 1995 [1965]. *Guide to Aesthetics*, translated by Patrick Romanell, Indianapolis: Hackett.
 
-[^works-1995]: 1995 [1965]. *Guide to Aesthetics*, translated by Patrick Romanell, Indianapolis: Hackett.
+[^croce-aesthetics-1966]: 1966. *Philosophy, Poetry, History: An Anthology of Essays*, translated and introduced by Cecil Sprigge, London: Oxford University Press. Noted as *PPH*
 
-[^works-1966]: 1966. *Philosophy, Poetry, History: An Anthology of Essays*, translated and introduced by Cecil Sprigge, London: Oxford University Press. Noted as *PPH*
+[^croce-aesthetics-1992]: 1992. *The Aesthetic as the Science of Expression and of the Linguistic in General Part I: Theory*, translated by Colin Lyas, Cambridge: Cambridge University Press.
 
-[^works-1992]: 1992. *The Aesthetic as the Science of Expression and of the Linguistic in General Part I: Theory*, translated by Colin Lyas, Cambridge: Cambridge University Press.
+[^croce-aesthetics-2007]: 2007. *Breviary of Aesthetics: Four Lectures*, translated by Hiroko Fudemoto, Toronto: University of Toronto Press.
 
-[^works-2007]: 2007. *Breviary of Aesthetics: Four Lectures*, translated by Hiroko Fudemoto, Toronto: University of Toronto Press.
-
-[^works-2017]: 2017. *A Croce Reader: Aesthetics, Philosophy, History, and Literary Criticism*, Massimo Verdicchio (ed. and trans.), Ontario: University of Toronto Press.
+[^croce-aesthetics-2017]: 2017. *A Croce Reader: Aesthetics, Philosophy, History, and Literary Criticism*, Massimo Verdicchio (ed. and trans.), Ontario: University of Toronto Press.
 
 [^bosanquet-1919]: Bosanquet, B., 1919. ‘Croce’s Aesthetic’, *Proceedings of the British Academy*, IX: 261–288.
 

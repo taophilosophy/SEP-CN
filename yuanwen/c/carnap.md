@@ -352,6 +352,8 @@ Unfortunately, publication of the book was delayed by a series of mishaps, and b
 
 ### Carnap’s Works
 
+The two major collections of Carnap papers are at the Archive of Scientific Philosophy (Hillman Library, University of Pittsburgh) and at the Young Research Library (University of California at Los Angeles). Both of these collections have been used extensively in many of the publications cited.
+
 ### Other Works
 
 ## Academic Tools
@@ -372,8 +374,6 @@ Unfortunately, publication of the book was delayed by a series of mishaps, and b
 ## Related Entries
 
 analytic/synthetic distinction | constructive empiricism | epsilon calculus | learning theory, formal | mathematics, philosophy of | physics: structuralism in | probability, interpretations of | semantics: proof-theoretic | structural realism | theoretical terms in science
-
-[^carnap-nd]: The two major collections of Carnap papers are at the Archive of Scientific Philosophy (Hillman Library, University of Pittsburgh) and at the Young Research Library (University of California at Los Angeles). Both of these collections have been used extensively in many of the publications cited.
 
 [^carnap-1918a]: 1918a [2019], “Völkerbund—Staatenbund”, *Politische Rundbriefe*, 1: 4 and 4: 15–16. Translated into English in Carnap 2019: 3–10. [[Carnap 1918 available online](https://digital.library.pitt.edu/islandora/object/pitt%3A31735061812578)]
 

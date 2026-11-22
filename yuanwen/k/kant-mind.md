@@ -382,6 +382,10 @@ In short, the dominant model of the mind in contemporary cognitive science is Ka
 
 ### Works on Kant on the Mind and Consciousness
 
+Thanks to Julian Wuerth for help with this section.
+
+In the past two decades alone, of the order of 45,000 new books and new editions by or about Kant have been published. Thus, any bibliography is bound to be incomplete. In what follows, we have focused on books of the past ten years or so in English that are having an influence, along with a few important earlier commentaries. General bibliographies are readily available on the websites listed later.
+
 ### Other References
 
 ## Academic Tools
@@ -436,10 +440,6 @@ Thanks to Paul Guyer, Paul Raymont, Rick DeVidi, Julian Wuerth, Kirsta Anderson,
 [^kant-1786]: Kant, I. (1786) *The Metaphysical Foundations of Natural Science*, translated and with an Introduction by James Ellington, Indianapolis, IN: Library of Liberal Arts, 1970. (Ak. IV).
 
 [^kant-1798]: Kant, I. (1798) *Anthropology from a Pragmatic Point of View*, Mary Gregor (trans.), The Hague: Martinus Nijhoff, 1974 (Ak. VII).
-
-[^thanks-nd]: Thanks to Julian Wuerth for help with this section.
-
-[^kant-nd]: In the past two decades alone, of the order of 45,000 new books and new editions by or about Kant have been published. Thus, any bibliography is bound to be incomplete. In what follows, we have focused on books of the past ten years or so in English that are having an influence, along with a few important earlier commentaries. General bibliographies are readily available on the websites listed later.
 
 [^allais-2009]: Allais, Lucy, 2009. “Kant, Non-Conceptual Content and the Representation of Space”, *Journal of the History of Philosophy*, 47(3): 383–413.
 

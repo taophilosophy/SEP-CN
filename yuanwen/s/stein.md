@@ -382,6 +382,8 @@ The publication by Herder of the 28-volume *Edith Stein Gesamtausgabe* has confi
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Throughout this article the consulted English translations, which are often misleading and sometimes outright erroneous, or leave out relevant notions altogether, have been modified. Wherever relevant, original German terms are mentioned in brackets and italics. Wherever possible, both German and English references are provided: the first reference is to the pagination of the German edition of Stein’s collected works (*Edith Stein Gesamtausgabe*, ESGA, 28 volumes, Freiburg, Basel, Wein: Herder), followed by references in square brackets to the English translations in the *Collected Works of Edith Stein* (CWES, Washington, DC: ICS Publication).
+
 ### A. Stein’s Work (German and English)
 
 ### B. Other References and Secondary Literature
@@ -408,8 +410,6 @@ Aquinas, Thomas | emotion | Heidegger, Martin | Husserl, Edmund | Ingarden, Roma
 ### Acknowledgments
 
 We are very grateful to James Jardine, Lucy Osler, Alessandro Salice, and an anonymous reviewer for their comments and suggestions on earlier versions of this entry.
-
-[^throughout-nd]: Throughout this article the consulted English translations, which are often misleading and sometimes outright erroneous, or leave out relevant notions altogether, have been modified. Wherever relevant, original German terms are mentioned in brackets and italics. Wherever possible, both German and English references are provided: the first reference is to the pagination of the German edition of Stein’s collected works (*Edith Stein Gesamtausgabe*, ESGA, 28 volumes, Freiburg, Basel, Wein: Herder), followed by references in square brackets to the English translations in the *Collected Works of Edith Stein* (CWES, Washington, DC: ICS Publication).
 
 [^stein-1917]: 1917, *Zum Problem der Einfühlung*; reprinted ESGA, Volume 5, 2008; translated as *On the Problem of Empathy*, Waltraut Stein (trans.), CWES, Volume 3, 1989.
 

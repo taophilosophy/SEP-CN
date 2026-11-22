@@ -382,9 +382,19 @@ Further, though Kant sometimes describes God as an ideal or thought-object, he a
 
 ### Primary Literature
 
+Citations from Kant’s texts refer to volume and page numbers in the Akademie edition (AK),
+
+except for references to the *Critique of Pure Reason*, which is cited by page numbers in the original first (A) and second (B) editions. Some of the English language collections are:
+
 #### A. Pre-critical writings
 
+See also:
+
 #### B. Critical writings
+
+The following texts focus most directly on religion. They are all found in *Religion and Rational Theology* (RRT):
+
+Other writings from the critical period relevant to Kant’s view of God and religion:
 
 #### C. Other works
 
@@ -419,11 +429,7 @@ afterlife | evil: problem of | free will | German Philosophy: in the 18th centur
 
 The co-authors jointly authored Section 1 (“Overview”). Fugate wrote most of Section 2 (“Kant’s Pre-Critical Religious Thought”) and provided input on Sections 3 and 4. Pasternack wrote the remaining material. The authors would like to acknowledge the contributions of Rob Gressis, who spent time reading through various drafts and offered valuable input for Section 4 (“Religion in the *Opus Postumum*”).
 
-[^citations-nd]: Citations from Kant’s texts refer to volume and page numbers in the Akademie edition (AK),
-
 [^ak-1900]: [AK] Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), 1900–, Kants gesammelte Schriften, Berlin: Georg Reimer (later Walter De Gruyter).
-
-[^critique-nd]: except for references to the *Critique of Pure Reason*, which is cited by page numbers in the original first (A) and second (B) editions. Some of the English language collections are:
 
 [^correspondence-1999]: [C] *Correspondence*, Arnulf Zweig (trans. and ed.), Cambridge, Cambridge University Press, 1999. doi:10.1017/CBO9780511527289
 
@@ -443,57 +449,51 @@ The co-authors jointly authored Section 1 (“Overview”). Fugate wrote most of
 
 [^kant’s-1764]: 1764, *Inquiry Concerning the Distinctness of the Principles of Natural Theology and Morality*, TPpre: 243–286. [AK 2:273–301]
 
-[^see-nd]: See also:
+[^kant’s-1755b]: 1755b, *Universal Natural History and Theory of the Heavens or Essay on the Constitution and the Mechanical Origin of the whole Universe According to Newtonian Principles*, Olaf Reinhardt (trans.), in Immanuel Kant, *Natural Science*, Eric Watkins (ed.), Cambridge: Cambridge University Press, 2015, 182–308. [AK 1:215–368]
 
-[^see-1755b]: 1755b, *Universal Natural History and Theory of the Heavens or Essay on the Constitution and the Mechanical Origin of the whole Universe According to Newtonian Principles*, Olaf Reinhardt (trans.), in Immanuel Kant, *Natural Science*, Eric Watkins (ed.), Cambridge: Cambridge University Press, 2015, 182–308. [AK 1:215–368]
+[^kant-religion-1785a]: 1785a, *What Does It Mean to Orient Oneself in Thinking?* Allen W. Wood (trans.), RRT: 7–18. [AK 8:133–146] doi:10.1017/CBO9780511814433.003
 
-[^they-nd]: The following texts focus most directly on religion. They are all found in *Religion and Rational Theology* (RRT):
+[^kant-religion-1791]: 1791, *On the Miscarriage of All Philosophical Trials in Theodicy*, George Di Giovanni (trans.), RRT: 24–37. [AK 8:253–271] doi:10.1017/CBO9780511814433.004
 
-[^they-1785a]: 1785a, *What Does It Mean to Orient Oneself in Thinking?* Allen W. Wood (trans.), RRT: 7–18. [AK 8:133–146] doi:10.1017/CBO9780511814433.003
+[^kant-religion-1793]: 1793, *Religion within the Boundaries of Mere Reason*, George Di Giovanni (trans.), RRT: 57–215. [AK 6:1–202] doi:10.1017/CBO9780511814433.005
 
-[^they-1791]: 1791, *On the Miscarriage of All Philosophical Trials in Theodicy*, George Di Giovanni (trans.), RRT: 24–37. [AK 8:253–271] doi:10.1017/CBO9780511814433.004
+[^kant-religion-1794]: 1794, *The End of All Things*, Allen W. Wood (trans.), RRT: 221–31. [AK 8:327–339] doi:10.1017/CBO9780511814433.006
 
-[^they-1793]: 1793, *Religion within the Boundaries of Mere Reason*, George Di Giovanni (trans.), RRT: 57–215. [AK 6:1–202] doi:10.1017/CBO9780511814433.005
+[^kant-religion-1798]: 1798, *The Conflict of the Faculties*, Mary J. Gregor and Robert Anchor (trans.), RRT: 239–327. [AK 7:5–116] doi:10.1017/CBO9780511814433.007
 
-[^they-1794]: 1794, *The End of All Things*, Allen W. Wood (trans.), RRT: 221–31. [AK 8:327–339] doi:10.1017/CBO9780511814433.006
+[^kant-religion-1817]: 1817, *Lectures on the Philosophical Doctrine of Religion*, Allen W. Wood (trans.), RRT: 341–451. [AK 28:993–1126] doi:10.1017/CBO9780511814433.009
 
-[^they-1798]: 1798, *The Conflict of the Faculties*, Mary J. Gregor and Robert Anchor (trans.), RRT: 239–327. [AK 7:5–116] doi:10.1017/CBO9780511814433.007
+[^kant-religion-1781]: 1781 [1787], *Critique of Pure Reason*; second edition 1787, Paul Guyer and Allen W. Wood (trans.) Cambridge: Cambridge University Press, 1998.
 
-[^they-1817]: 1817, *Lectures on the Philosophical Doctrine of Religion*, Allen W. Wood (trans.), RRT: 341–451. [AK 28:993–1126] doi:10.1017/CBO9780511814433.009
+[^kant-religion-1783]: 1783, *Prolegomena to any Future Metaphysics That Will Be Able to Come Forward as a Science*, Gary Hatfield (trans.), in *Theoretical Philosophy after 1781*, Henry Allison and Peter Heath (eds), Cambridge: Cambridge University Press, 2002, 51–169. [AK 4:255–383]
 
-[^other-nd]: Other writings from the critical period relevant to Kant’s view of God and religion:
+[^kant-religion-1784a]: 1784a, *An Answer to the Question: What Is Enlightenment?* Mary J. Gregor (trans.), in PP: 17–22. [AK 8:35–42]
 
-[^other-1781]: 1781 [1787], *Critique of Pure Reason*; second edition 1787, Paul Guyer and Allen W. Wood (trans.) Cambridge: Cambridge University Press, 1998.
+[^kant-religion-1784b]: 1784b, *Idea for A Universal History from a Cosmopolitan Point of View*, Lewis White Beck (trans.). 1963, In *Kant: On History*. Lewis White Beck (ed.). Indianapolis and New York: Bobbs-Merrill, 11–26. [AK 8:17–31]
 
-[^other-1783]: 1783, *Prolegomena to any Future Metaphysics That Will Be Able to Come Forward as a Science*, Gary Hatfield (trans.), in *Theoretical Philosophy after 1781*, Henry Allison and Peter Heath (eds), Cambridge: Cambridge University Press, 2002, 51–169. [AK 4:255–383]
+[^kant-religion-1785b]: 1785b, *Groundwork of the Metaphysics of Morals*, Mary J. Gregor (trans.), in PP: 43–108. [AK 4:387–463]
 
-[^other-1784a]: 1784a, *An Answer to the Question: What Is Enlightenment?* Mary J. Gregor (trans.), in PP: 17–22. [AK 8:35–42]
+[^kant-religion-1786]: 1786, *The Conjectural Beginning of Human History*, Emil L. Fackenheim (trans.). 1963, In *Kant: On History*. Lewis White Beck (ed.). Indianapolis and New York: Bobbs-Merrill, 53–68. [AK 8:109–123]>
 
-[^other-1784b]: 1784b, *Idea for A Universal History from a Cosmopolitan Point of View*, Lewis White Beck (trans.). 1963, In *Kant: On History*. Lewis White Beck (ed.). Indianapolis and New York: Bobbs-Merrill, 11–26. [AK 8:17–31]
+[^kant-religion-1786-2]: 1786, *The Metaphysical Foundations of Natural Science*, Michael Friedman (trans.), in *Theoretical Philosophy after 1781*, 171–270. [AK 4:467–565]
 
-[^other-1785b]: 1785b, *Groundwork of the Metaphysics of Morals*, Mary J. Gregor (trans.), in PP: 43–108. [AK 4:387–463]
+[^kant-religion-1788]: 1788, *Critique of Practical Reason*, Mary J. Gregor (trans.), in PP: 139–271. [AK 5:3–163]
 
-[^other-1786]: 1786, *The Conjectural Beginning of Human History*, Emil L. Fackenheim (trans.). 1963, In *Kant: On History*. Lewis White Beck (ed.). Indianapolis and New York: Bobbs-Merrill, 53–68. [AK 8:109–123]>
+[^kant-religion-1790]: 1790, *Critique of the Power of Judgment*, Paul Guyer and Eric Matthews (trans.). 2000. Cambridge: Cambridge University Press. [AK 5:167–485]
 
-[^other-1786-2]: 1786, *The Metaphysical Foundations of Natural Science*, Michael Friedman (trans.), in *Theoretical Philosophy after 1781*, 171–270. [AK 4:467–565]
+[^kant-religion-1793-2]: 1793, *On the Common Saying: ‘This may be true in theory, but it does not apply in practice’*, Mary J. Gregor (trans.), in PP: 279–309. [AK 8:275–313]
 
-[^other-1788]: 1788, *Critique of Practical Reason*, Mary J. Gregor (trans.), in PP: 139–271. [AK 5:3–163]
+[^kant-religion-1795]: 1795, *Toward Perpetual Peace*, Mary J. Gregor (trans.), in PP: 317–351. [AK 8:343–86]
 
-[^other-1790]: 1790, *Critique of the Power of Judgment*, Paul Guyer and Eric Matthews (trans.). 2000. Cambridge: Cambridge University Press. [AK 5:167–485]
+[^kant-religion-1796]: 1796, *Proclamation of the Imminent Conclusion of a Treaty of Perpetual Peace in Philosophy*, Peter Heath (trans.), in *Theoretical Philosophy after 1781*, 453–460.
 
-[^other-1793]: 1793, *On the Common Saying: ‘This may be true in theory, but it does not apply in practice’*, Mary J. Gregor (trans.), in PP: 279–309. [AK 8:275–313]
+[^kant-religion-1797]: 1797, *The Metaphysics of Morals*, Mary J. Gregor (trans.), in PP: 365–603. [AK 6:205–493]
 
-[^other-1795]: 1795, *Toward Perpetual Peace*, Mary J. Gregor (trans.), in PP: 317–351. [AK 8:343–86]
+[^kant-religion-1804]: 1804, *What Real Progress Has Metaphysics Made in Germany since the Time of Leibniz and Wolff?* Peter Heath (trans.), in *Theoretical Philosophy after 1781*, 337–424. [AK 20:257–332]
 
-[^other-1796]: 1796, *Proclamation of the Imminent Conclusion of a Treaty of Perpetual Peace in Philosophy*, Peter Heath (trans.), in *Theoretical Philosophy after 1781*, 453–460.
+[^kant-religion-1821]: 1821, *Metaphysik L2*. [AK 28:525–610]
 
-[^other-1797]: 1797, *The Metaphysics of Morals*, Mary J. Gregor (trans.), in PP: 365–603. [AK 6:205–493]
-
-[^other-1804]: 1804, *What Real Progress Has Metaphysics Made in Germany since the Time of Leibniz and Wolff?* Peter Heath (trans.), in *Theoretical Philosophy after 1781*, 337–424. [AK 20:257–332]
-
-[^other-1821]: 1821, *Metaphysik L2*. [AK 28:525–610]
-
-[^other-1968]: 1968, *Metaphysik Volckmann*. [AK 28:355–459]
+[^kant-religion-1968]: 1968, *Metaphysik Volckmann*. [AK 28:355–459]
 
 [^op-1993]: [OP] *Opus Postumum*, unpublished at his death, Ekart Förster (ed.), Ekart Förster and Michael Rosen (trans.) Cambridge: Cambridge University Press, 1993. [AK 21 and AK 22] doi:10.1017/CBO9780511625169
 

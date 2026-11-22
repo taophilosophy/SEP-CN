@@ -159,6 +159,10 @@ Nicholas J.J. Smith (2005 and 2008) has argued that the so-called *closeness pri
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Supplementary document:
+
+[Bibliography Sorted by Topic](logic-fuzzy.readings-by-topic.md)
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-fuzzy). |
@@ -188,10 +192,6 @@ logic: algebraic propositional | logic: many-valued | logic: substructural | pro
 [^note-5]: This amounts to require that the formula $\varphi \mathbin{\&} (\varphi \to \psi) \to \psi$ is a tautology, which is actually the case in usual fuzzy logics.
 
 [^note-6]: This is in particular the case for formulations that are based on Łukasiewicz logic, where all connectives have continuous truth functions. Note, however, that the closeness principle arguably is not compatible with fuzzy logics like Gödel logic, that only refer to the relative *order* of truth values, but not to their metric distance.
-
-[^supplementary-nd]: Supplementary document:
-
-[^bibliography-nd]: [Bibliography Sorted by Topic](logic-fuzzy.readings-by-topic.md)
 
 [^aguzzoli-2011]: Aguzzoli, Stefano, Simone Bova, and Brunella Gerla, 2011, “Free algebras and functional representation for fuzzy logics”, in Cintula, Petr, Petr Hájek, and Carles Noguera (eds.), *Handbook of Mathematical Fuzzy Logic*, Volume 2, (Mathematical Logic and Foundations, Volume 38), London: College Publications, pages 713–791.
 

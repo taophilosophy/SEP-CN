@@ -239,6 +239,8 @@ A third argument finally confronts the fundamental issue of whether hope and hop
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The works of Thomas Aquinas are cited according to the Corpus Thomisticum ([available online](http://www.corpusthomisticum.org/)) as follows: SsS for *Scriptum super Sententiis*, and ST for *Summa Theologiae*.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=hope). |
@@ -258,8 +260,6 @@ Aquinas, Thomas | consciousness: seventeenth-century theories of | faith | Kant,
 ### Acknowledgments
 
 Work on an earlier version of this entry was supported by the Hope and Optimism Project at Notre Dame University.
-
-[^thomas-nd]: The works of Thomas Aquinas are cited according to the Corpus Thomisticum ([available online](http://www.corpusthomisticum.org/)) as follows: SsS for *Scriptum super Sententiis*, and ST for *Summa Theologiae*.
 
 [^kant’s-1900]: Kant’s works are cited according to the *Akademie* Edition (AE): Königliche Preußische (later Deutsche) Akademie der Wissenschaften (ed.), 1900–, *Kants gesammelte Schriften*, Berlin: Georg Reimer (later Walter De Gruyter), except for the *Critique of Pure Reason*. The latter is cited using the standard A- and B-edition pagination. Quoted translations of Kant are included in the list of sources below.
 

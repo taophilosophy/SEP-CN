@@ -348,9 +348,23 @@ Galen also claims to have had personal experience of interventions by individual
 
 ##### A.1.1 Original Greek Sources
 
+Page numbers given in references in the article are those of the translation or, in the absence of translation, of the Greek edition, cited here.
+
 ##### A.1.2 Collections of Translations
 
+N.B. In several cases, noted below, translations also appear alongside the Greek text in the CMG edition.
+
 #### A.2 Texts by Galen
+
+[***Dig. Puls.***] *The Distinction between Pulses* (*De dignoscendis pulsibus*), ed. Kühn VIII, pp. 766–961.
+
+[***Praes. Puls.***] *Prognosis by the Pulse* (*De praesagitione ex pulsibus*), ed. Kühn IX, pp. 205–430.
+
+[***SMT***] *The Powers of Simple Drugs* (*De simplicium medicamentorum temperamentis ac facultatibus*), ed. Kühn XI, pp. 379–892 and XII, pp. 1–377.
+
+[***Symp. Caus.***]
+
+*The Causes of Symptoms*, ed. Kühn VII, pp. 85–272.
 
 ### B. Secondary literature
 
@@ -374,8 +388,6 @@ Aristotle, General Topics: logic | atomism: ancient | form vs. matter | rational
 
 The author wishes to acknowledge the support of both the Wellcome Trust and the Alexander von Humboldt Foundation for funding of the research project in the course of which this article was written.
 
-[^page-nd]: Page numbers given in references in the article are those of the translation or, in the absence of translation, of the Greek edition, cited here.
-
 [^cmg-1914]: [**CMG**] *Corpus Medicorum Graecorum*, various editors, Leipzig: Teubner, and Berlin: Akademie Verlag, 1914– ; [CMG available online](http://cmg.bbaw.de/epubl/online/editionen.html).
 
 [^kühn-1821]: [**Kühn**] *C. Galeni Opera Omnia*, ed. C.G. Kühn, 20 volumes, Leipzig: C. Cnoblochii, 1821–33, repr. Hildesheim: Georg Olms, 1964–65; [Kühn available online](http://www.biusante.parisdescartes.fr/histoire/medica/resultats/?intro=galien&statut=charge&fille=o&cotemere=45674).
@@ -388,8 +400,6 @@ The author wishes to acknowledge the support of both the Wellcome Trust and the 
 
 [^walzer-1985]: Walzer, R. and M. Frede, 1985, *Galen: Three Treatises on the Nature of Science*, Indianapolis: Hackett.
 
-[^greek-nd]: N.B. In several cases, noted below, translations also appear alongside the Greek text in the CMG edition.
-
 [^aff-1937]: [***Aff. Pecc. Dig.***] *Affections and Errors of the Soul* (*De propriorum animi cuiuslibet affectuum et peccatorum dignotione et curatione*), ed. W. de Boer, CMG V 4.1.1, 1937; English trans. in Singer 1997a and 2013.
 
 [^cc-1969]: [***CC***] *Containing Causes* (*De causis contentivis*), ed. and English trans. M. Lyons, K. Kalbfleisch, J. Kollesch, D. Nickel, and G. Strohmaier, CMG, Supplementum Orientale II, 1969.
@@ -397,8 +407,6 @@ The author wishes to acknowledge the support of both the Wellcome Trust and the 
 [^cp-1998]: [***CP***] *Antecedent Causes* (*De causis procatarcticis*), ed. and English trans. R.J. Hankinson, *Galen on Antecedent Causes*, Cambridge: Cambridge University Press, 1998.
 
 [^di-2011]: [***Di. Dec.***] *Critical Days* (*De diebus decretoriis*), ed. and English trans. G. M. Cooper, *Galen, De diebus decretoriis, from Greek into Arabic*, Ashgate, 2011.
-
-[^dig-nd]: [***Dig. Puls.***] *The Distinction between Pulses* (*De dignoscendis pulsibus*), ed. Kühn VIII, pp. 766–961.
 
 [^foet-2001]: [***Foet. Form.***] *The Shaping of the Embryo* (*De foetuum formatione*), ed. and German trans. D. Nickel, CMG V 3.3, 2001; English trans. in Singer 1997a.
 
@@ -430,8 +438,6 @@ The author wishes to acknowledge the support of both the Wellcome Trust and the 
 
 [^praen-1979]: [***Praen.***] *Prognosis* (*De praenotione ad Epigenem*), ed. and English trans. V. Nutton, CMG V 8.1, 1979.
 
-[^praes-nd]: [***Praes. Puls.***] *Prognosis by the Pulse* (*De praesagitione ex pulsibus*), ed. Kühn IX, pp. 205–430.
-
 [^prop-1999]: [***Prop. Plac.***] *My Own Doctrines* (*De propriis placitis*), ed. and English trans. V. Nutton, CMG V 3.2, 1999 (ed. and French trans. of fuller Greek text V. Boudon-Millot and A. Pietrobelli, “Galien Ressuscité: Édition Princeps du Texte Grec du De Propriis Placitis”, *Revue des Études Grecques*, 118 (2005): 168–213).
 
 [^qam-1891]: [***QAM***] *The Capacities of the Soul Depend on the Mixture of the Body* (*Quod animi mores corporis temperamenta sequantur*), ed. I. Müller, SM II, 1891; English trans. in Singer 1997a and 2013.
@@ -441,12 +447,6 @@ The author wishes to acknowledge the support of both the Wellcome Trust and the 
 [^sem-1992]: [***Sem.***] *Semen* (*De semine*), ed. and English trans. P. de Lacy, CMG V 3.1, 1992.
 
 [^si-1893]: [***SI***] *Sects for Beginners* (*De sectis ad eos qui introducuntur*), ed. G. Helmreich, SM III, 1893; translation in Walzer and Frede 1985.
-
-[^smt-nd]: [***SMT***] *The Powers of Simple Drugs* (*De simplicium medicamentorum temperamentis ac facultatibus*), ed. Kühn XI, pp. 379–892 and XII, pp. 1–377.
-
-[^symp-nd]: [***Symp. Caus.***]
-
-[^causes-nd]: *The Causes of Symptoms*, ed. Kühn VII, pp. 85–272.
 
 [^temp-1904]: [***Temp.***] *Mixtures* (*De temperamentis*), ed. G. Helmreich, Teubner, 1904, [[*Temp.* available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben_galen.html)]. English trans. in Singer 1997a and Singer and van der Eijk 2013.
 

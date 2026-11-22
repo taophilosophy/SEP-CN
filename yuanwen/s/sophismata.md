@@ -151,6 +151,10 @@ Even if there are technical distinctions among these types of treatises, all of 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The medieval *sophismata*-literature is a vast and complex area of research. Many questions are still unsolved, especially about its historical origins and development. It is of importance for people interested in medieval logic, grammar, and physics, but also for those interested in the history of universities.
+
+The bibliography for this entry is far from exhaustive. Most of the logical and grammatical texts on *sophismata* have been edited by S. Ebbesen and his collaborators in the journal [*Cahiers de l’Institut du Moyen Age Grec et Latin*](https://cimagl.saxo.ku.dk), University of Copenhagen. The primary literature mentions books only.
+
 ### Primary Literature
 
 ### Secondary Literature
@@ -178,11 +182,7 @@ Even if there are technical distinctions among these types of treatises, all of 
 
 Buridan, John [Jean] | Burley [Burleigh], Walter | Heytesbury, William | insolubles [= *insolubilia*] | Kilvington, Richard | Richard the Sophister [*Ricardus Sophista, Magister abstractionum*] | terms, properties of: medieval theories of
 
-[^many-nd]: The medieval *sophismata*-literature is a vast and complex area of research. Many questions are still unsolved, especially about its historical origins and development. It is of importance for people interested in medieval logic, grammar, and physics, but also for those interested in the history of universities.
-
-[^many-1940]: The study of “sophismatic works” began around 1940 with Grabmann’s *Die Sophismatalitteratur des 12. und 13. Jahrhunderts*, and much research has been done in the last two decades. In 2010 *The Catalogue of 13th Century ‘sophismata’* (Ebbesen and Goubier) became available, which contains a host of information about recent scholarship in the field of *sophismata* (Ebbesen and Goubier 2010, vol. I, pp. 7–9). It also lists all the editions of *sophismata* literature available up to that date, as well as all the manuscripts the compilers had managed to investigate. It is an invaluable source of information for those wishing to continue the research of *sophismata*. There are still many texts to read, edit, and analyze.
-
-[^most-nd]: The bibliography for this entry is far from exhaustive. Most of the logical and grammatical texts on *sophismata* have been edited by S. Ebbesen and his collaborators in the journal [*Cahiers de l’Institut du Moyen Age Grec et Latin*](https://cimagl.saxo.ku.dk), University of Copenhagen. The primary literature mentions books only.
+[^sophismata-1940]: The study of “sophismatic works” began around 1940 with Grabmann’s *Die Sophismatalitteratur des 12. und 13. Jahrhunderts*, and much research has been done in the last two decades. In 2010 *The Catalogue of 13th Century ‘sophismata’* (Ebbesen and Goubier) became available, which contains a host of information about recent scholarship in the field of *sophismata* (Ebbesen and Goubier 2010, vol. I, pp. 7–9). It also lists all the editions of *sophismata* literature available up to that date, as well as all the manuscripts the compilers had managed to investigate. It is an invaluable source of information for those wishing to continue the research of *sophismata*. There are still many texts to read, edit, and analyze.
 
 [^boethius-2021]: Boethius of Dacia, *Boethii Daci aliorumque sophismata*, ed. Sten Ebbesen and Irène Rosier-Catach (Corpus philosophorum danicorum medii aevi, IX), Copenhague: Det danske sprog- og litteraturselskab – University Press of Southern Denmark, 2021.
 

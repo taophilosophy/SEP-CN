@@ -460,6 +460,8 @@ It will be clear from this description that the ACG architecture is closely rela
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Note: In addition to the regular text references, the bibliography contains some items that can place the entry in a broader context.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=typelogical-grammar). |
@@ -477,8 +479,6 @@ It will be clear from this description that the ACG architecture is closely rela
 ## Related Entries
 
 compositionality | logic: linear | logic: modal | logic: relevance | logic: substructural | type theory
-
-[^note-nd]: Note: In addition to the regular text references, the bibliography contains some items that can place the entry in a broader context.
 
 [^for-2007]: For general logical and mathematical background, see Galatos et al. 2007, Restall 2000, Sørensen and Urzyczyn 2006.
 

@@ -169,6 +169,8 @@ Looking beyond Leibniz, we can see some close connections between the work of Ho
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+References to *The Elements of Law*, *Leviathan*, and *De Corpore* are by chapter and paragraph number. This should enable readers to find references in editions other than the ones used here (even though most editions of *Leviathan* do not print paragraph numbers). All other references are given by volume and page number. Most works are referred to using their author’s name and their date of first publication. A few others — Hobbes’s *Elements of Law* and *Behemoth*, Aubrey’s *Brief Lives*, and some works of Leibniz — are referred to using their dates of composition, because they were published several years after they were written.
+
 ### Primary Literature
 
 ### Secondary Literature
@@ -205,8 +207,6 @@ Bacon, Francis | Boyle, Robert | Cambridge Platonists | Cavendish, Margaret Luca
 [^note-5]: For a longer recent discussion of many of the topics covered in this section, see Holden 2023.
 
 [^though-1986]: Though the vast majority of work on Hobbes looks at his political philosophy, there are general books on Hobbes that look at his non-political philosophy, such as Sorell 1986 and Martinich 2005. The best modern biography is Martinich 1999.
-
-[^references-nd]: References to *The Elements of Law*, *Leviathan*, and *De Corpore* are by chapter and paragraph number. This should enable readers to find references in editions other than the ones used here (even though most editions of *Leviathan* do not print paragraph numbers). All other references are given by volume and page number. Most works are referred to using their author’s name and their date of first publication. A few others — Hobbes’s *Elements of Law* and *Behemoth*, Aubrey’s *Brief Lives*, and some works of Leibniz — are referred to using their dates of composition, because they were published several years after they were written.
 
 [^aubrey-1696]: Aubrey, J., 1696, *Brief Lives*, in A. Clark (ed.), *‘Brief Lives’, Chiefly of Contemporaries, set down by John Aubrey, between the years 1669 & 1696*, Oxford: Clarendon, 1898.
 

@@ -141,6 +141,8 @@ The originality of Henry’s contribution to phenomenology is without a doubt hi
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Page indications refer to the English translations when available
+
 ### Works by Michel Henry
 
 #### Principal Works
@@ -168,8 +170,6 @@ The originality of Henry’s contribution to phenomenology is without a doubt hi
 ## Related Entries
 
 Heidegger, Martin | Husserl, Edmund | intentionality | Levinas, Emmanuel | Meister Eckhart | Merleau-Ponty, Maurice | phenomenology | Sartre, Jean-Paul
-
-[^page-nd]: Page indications refer to the English translations when available
 
 [^le-1943]: *Le bonheur de Spinoza*, mémoire de fin d’étude (1943) reprinted in *Le bonheur de Spinoza suivi de: J.-M. Longneaux, “Étude sur le spinozisme de Michel Henry”*, Paris: Presses Universitaires de France, 2004.
 

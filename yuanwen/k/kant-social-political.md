@@ -129,6 +129,8 @@ A third approach to social philosophy comes through Kant’s *Anthropology from 
 
 ### Primary Sources
 
+English translations of Kant’s primary works are numerous. *The Cambridge Edition of the Works of Immanuel Kant in English* includes critical translations of all of Kant’s published works and large selections of his correspondence, lectures, and literary remains. The following volumes of that series contain relevant material, some of which is also issued separately:
+
 ### Secondary Sources.
 
 ## Academic Tools
@@ -148,8 +150,6 @@ A third approach to social philosophy comes through Kant’s *Anthropology from 
 contractarianism | cosmopolitanism | democracy | Hobbes, Thomas | Kant, Immanuel | Kant, Immanuel: account of reason | Kant, Immanuel: moral philosophy | liberalism | liberty: positive and negative | Locke, John | nature of law: natural law theories | property and ownership | punishment, legal | Rousseau, Jean Jacques
 
 [^kant’s-1900]: Kant’s original German and Latin writings are collected in *Kants Gesammelte Schriften*, Berlin: Walter de Gruyter, 1900–. Most translations provide the pagination to this edition in the margins, often using volume and page number. All citations in this article use this method.
-
-[^english-nd]: English translations of Kant’s primary works are numerous. *The Cambridge Edition of the Works of Immanuel Kant in English* includes critical translations of all of Kant’s published works and large selections of his correspondence, lectures, and literary remains. The following volumes of that series contain relevant material, some of which is also issued separately:
 
 [^practical-1996]: *Practical Philosophy*, Mary Gregor (trans.), 1996. Relevant contents: “An Answer to the Question: What is Enlightenment?,” *Groundwork of the Metaphysics of Morals*, “On the Common Saying: That May Be Correct in Theory, But it is of No Use in Practice,” “Toward Perpetual Peace”, and the *Metaphysics of Morals*.
 

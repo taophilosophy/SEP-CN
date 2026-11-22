@@ -99,6 +99,8 @@ One could interpret the gradual dissociation between Regius and Descartes, and t
 
 ### Works by Regius
 
+Many of Regius’ disputations have survived and are scattered throughout libraries worldwide. Some of those kept in the British Library, London, are available online via Google Books. The University and State Library of Saxony-Anhalt in Halle, Germany, has an exceptional collection ([almost 60 disputations are available online](https://www.opendata.uni-halle.de)).
+
 ### Related Early Works
 
 ### Modern works
@@ -154,8 +156,6 @@ This entry was originally written by the late Desmond Clarke, but since October 
 [^regius-1687]: 1687. *Philosophie naturelle*, Utrecht: R. van Zyll (French translation of Regius 1661a). [[1687 available online](https://dspace.library.uu.nl/handle/1874/31207).]
 
 [^see-2002]: See also Erik-Jan Bos (ed.), *The Correspondence between Descartes and Henricus Regius*, Utrecht: ZENO, The Leiden-Utrecht Research Institute of Philosophy, 2002. This includes significant changes to the correspondence as published in Descartes 1964–76. [[Bos (ed.) 2002 available online](https://dspace.library.uu.nl/handle/1874/88).]
-
-[^many-nd]: Many of Regius’ disputations have survived and are scattered throughout libraries worldwide. Some of those kept in the British Library, London, are available online via Google Books. The University and State Library of Saxony-Anhalt in Halle, Germany, has an exceptional collection ([almost 60 disputations are available online](https://www.opendata.uni-halle.de)).
 
 [^andreae-1653]: Andreae, Tobias, 1653. *Brevis Replicatio Reposita Brevi Explicationi Mentis Humanae, sive animae Rationalis, D. Henrici Regii, Medici ac Philosophi Ultrajectini*, Amsterdam: L. Elzevier. [[Adreae 1653 available online](https://books.google.nl/books?id=P24PAAAAQAAJ).]
 

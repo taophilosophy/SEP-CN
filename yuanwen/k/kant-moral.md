@@ -267,7 +267,15 @@ The unfinished nature of Kant’s moral system along with our responsibility to 
 
 ### Recent Commentaries on Kant’s Ethical Writings
 
+There have been several comprehensive commentaries on the *Groundwork* that have been published recently, some of which also include new English translations.
+
+There are also recent commentaries on *The Metaphysics of Morals*:
+
+Commentaries on the *Critique of Practical Reason* :
+
 ### Other Secondary Sources
+
+(The secondary literature on Kant’s moral philosophy is vast, and there is much else worth reading beyond what we list here.)
 
 ## Academic Tools
 
@@ -298,8 +306,6 @@ autonomy: personal | character, moral | consequentialism | consequentialism: rul
 
 [^critique-1998]: *Critique of Pure Reason*, translated by Paul Guyer and Allen Wood, 1998.
 
-[^there-nd]: There have been several comprehensive commentaries on the *Groundwork* that have been published recently, some of which also include new English translations.
-
 [^allison-2011]: Allison, Henry, 2011, *Kant’s Groundwork for the Metaphysics of Morals: A Commentary*, Oxford: Oxford University Press.
 
 [^denis-2005]: Denis, Lara, 2005, *Groundwork for the Metaphysics of Morals*, Peterborough, Ontario: Broadview Press.
@@ -316,8 +322,6 @@ autonomy: personal | character, moral | consequentialism | consequentialism: rul
 
 [^wolff-1973]: Wolff, Robert Paul, 1973, *The Autonomy of Reason: A Commentary on Kant’s Groundwork of the Metaphysics of Morals*, New York: Harper & Row.
 
-[^there-nd-2]: There are also recent commentaries on *The Metaphysics of Morals*:
-
 [^andreas-2011]: Andreas Trampota, Andreas, Sensen, Oliver and Timmermann, Jens (eds.), 2011, *Kant’s “Tugendlehre”: A Commentary*, Berlin: Walter de Gruyter, 343–364.
 
 [^byrd-2010]: Byrd, Sharon and Hruschka, Joachim, 2010, *Kant’s Doctrine of Right: A Commentary*, Cambridge: Cambridge University Press.
@@ -326,8 +330,6 @@ autonomy: personal | character, moral | consequentialism | consequentialism: rul
 
 [^timmons-2021]: Timmons, Mark, 2021, *Kant’s Doctrine of Virtue*, New York: Oxford University Press.
 
-[^commentaries-nd]: Commentaries on the *Critique of Practical Reason* :
-
 [^beck-1960]: Beck, Lewis White, 1960, *A Commentary on Kant’s Critique of Practical Reason*, Chicago: University of Chicago Press.
 
 [^höffe-2011]: Höffe, Otfried, 2011, *Immanuel Kant: Kritik der praktischen Vernunft*, Akademie Verlag.
@@ -335,8 +337,6 @@ autonomy: personal | character, moral | consequentialism | consequentialism: rul
 [^höffe-2023]: Höffe, Otfried, and Manfred Weltecke, 2023, *Kant’s Critique of Practical Reason: A Philosophy of Freedom*, University of Wales Press.
 
 [^reath-2013]: Reath, Andrews, and Jens Timmermann (eds.), 2013, *Kant’s* “*Critique of Practical Reason*”*: A Critical Guide*, Cambridge University Press.
-
-[^kant’s-nd]: (The secondary literature on Kant’s moral philosophy is vast, and there is much else worth reading beyond what we list here.)
 
 [^allison-1990]: Allison, Henry, 1990, *Kant’s Theory of Freedom*, New York: Cambridge University Press.
 

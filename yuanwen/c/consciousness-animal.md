@@ -228,6 +228,8 @@ We can only hope that the 2050 version of this article will be able to report th
 
 ### B. Other Important Works
 
+The following works were cited in earlier versions of this entry. The list is not intended as a complete bibliography on the topic.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=consciousness-animal). |
@@ -796,8 +798,6 @@ Many thanks to Hannah Stockton for assistance in preparing the 2026 version of t
 [^woodruff-2017]: Woodruff, M.L. (2017). Consciousness in teleosts: There is something it feels like to be a fish. *Animal Sentience*, 2(13), 1.
 
 [^yoshimi-2016]: Yoshimi, J. (2016). *Husserlian phenomenology: A unifying interpretation*. Dordrecht, Holland: Springer.
-
-[^consciousness-animal-nd]: The following works were cited in earlier versions of this entry. The list is not intended as a complete bibliography on the topic.
 
 [^akins-1993]: Akins, K.A. (1993). A bat without qualities. In M. Davies & G. Humphreys (eds.), *Consciousness* (pp. 258–273), Oxford: Blackwell.
 

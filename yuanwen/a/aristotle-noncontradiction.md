@@ -163,6 +163,8 @@ There are difficulties with both interpretations. Aristotle starts by saying tha
 
 ### Selected Secondary Literature
 
+See also the bibliographies of the related entries on Aristotle’s Metaphysics Logic, and Plato on Knowledge in the *Theaetetus*.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aristotle-noncontradiction). |
@@ -411,5 +413,3 @@ Thanks to Evan Keeling, Anne Veenstra, Emily Fletcher, David Ebrey, and Graham P
 [^whitaker-1996]: Whitaker, C. W. A., 1996. *Aristotle’s De Interpretatione: Contradiction and Dialectic*, New York: Oxford University Press.
 
 [^ziglioli-2007]: Ziglioli, Ugo, 2007. *Protagoras and the Challenge of Relativism*, Aldershot: Ashgate.
-
-[^see-nd]: See also the bibliographies of the related entries on Aristotle’s Metaphysics Logic, and Plato on Knowledge in the *Theaetetus*.

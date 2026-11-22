@@ -351,6 +351,8 @@ Moreover, women of all estates, Christine maintains, have the capabilities neces
 
 ### A. Primary Sources
 
+Page numbers in the citations are to the translation unless otherwise stated.
+
 ### B. Anthologies of Translated Primary Sources
 
 ### C. General Surveys and Overviews
@@ -408,8 +410,6 @@ Moreover, women of all estates, Christine maintains, have the capabilities neces
 ## Related Entries
 
 al-Farabi | al-Farabi: philosophy of society and religion | Aquinas, Thomas | Aquinas, Thomas: moral, political, and legal philosophy | Arabic and Islamic Philosophy, historical and methodological topics in: Greek sources | Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on Judaic thought | Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on the Latin West | Aristotle, General Topics: political theory | Augustine of Hippo | Cusanus, Nicolaus [Nicolas of Cusa] | Dante Alighieri | ethics: natural law tradition | Giles of Rome | Ibn Rushd [Averroes] | Ibn Sina [Avicenna] | James of Viterbo | John of Salisbury | Maimonides | Maimonides: the influence of Islamic thought on | medieval philosophy | medieval philosophy: literary forms of | Ockham [Occam], William | Oresme, Nicole | political philosophy: ancient
-
-[^page-nd]: Page numbers in the citations are to the translation unless otherwise stated.
 
 [^al-fārābī-2001]: Al-Fārābī, *Book of Religion*, translated in Alfarabi 2001: 85–113.
 

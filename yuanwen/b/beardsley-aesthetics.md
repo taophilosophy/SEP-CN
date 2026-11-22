@@ -634,7 +634,11 @@ In the long run, the distinction will have to be drawn, just as the issue of the
 
 ### Primary Literature
 
+A much more comprehensive bibliography of Beardsley’s work is available upon request from the author.
+
 ### Secondary Literature
+
+This article has concentrated on only a few of the many topics that Beardsley wrote on. Among others are aesthetic experience, aesthetic properties (regional qualities), criteria of critical evaluation, metaphor, and the place of the arts in human life. The bibliography of secondary literature that follows is, in the main, restricted to the topics discussed in this entry, but a few important articles on other topics are also included.
 
 ## Academic Tools
 
@@ -673,10 +677,6 @@ Acknowledgement goes here.
 [^if-1946]: [IF] Wimsatt, William K. and Monroe C. Beardsley, 1946 [1987], “The Intentional Fallacy”, *The Sewanee Review*, 54(3): 468–488. Reprinted in *Philosophy Looks at the Arts*, third edition, Joseph Margolis (ed.), Philadelphia, PA: Temple University Press, 1987, pp. 367–380. Page numbers from 1946
 
 [^if-1949]: –––, 1949 [1971], “The Affective Fallacy”, *The Sewanee Review*, 57(1): 31–55. Reprinted in *Critical Theory since Plato*, Hazard Adams (ed.), New York: Harcourt Brace Jovanovich, 1971, pp. 1022–1031.
-
-[^beardsley’s-nd]: A much more comprehensive bibliography of Beardsley’s work is available upon request from the author.
-
-[^this-nd]: This article has concentrated on only a few of the many topics that Beardsley wrote on. Among others are aesthetic experience, aesthetic properties (regional qualities), criteria of critical evaluation, metaphor, and the place of the arts in human life. The bibliography of secondary literature that follows is, in the main, restricted to the topics discussed in this entry, but a few important articles on other topics are also included.
 
 [^carney-1983]: Carney, James D., 1983, “Interpreting Poetry”, *Journal of Aesthetic Education*, 17(3): 53–60. doi:10.2307/3332408
 

@@ -177,9 +177,17 @@ Burke’s thought is philosophical in at least two senses. One is that it is con
 > | [**TCD**] | Thoughts on the Cause of the Present Discontents. |
 > | [**TPL**] | Tracts relating to Popery Laws |
 
+Note also:
+
 #### Burke’s Correspondence
 
+There is further unprinted correspondence in various repositories. The primary collections of Burke manuscripts are at Sheffield City Archives and Northamptonshire Archives, both in the United Kingdom, but there is further material by Burke in a wider range of places; the material in manuscript bearing on him is extremely bulky, diverse and scattered.
+
 ### Secondary Literature
+
+For matters discussed here, the reader is referred to:
+
+More recently, other aspects of Burke’s thought that bear on his philosophy outside *Philosophical Enquiry* have attracted attention. See:
 
 ### Other works cited
 
@@ -224,8 +232,6 @@ Berkeley, George | conservatism | ethics: natural law tradition | ideas | Locke,
 
 [^there-1981]: There is no complete edition of Burke’s works: their quantity, the character of some of his manuscript materials and the manner in which many of his parliamentary speeches are preserved all make it very likely that this situation will continue. Neither have the editorial problems implied in his writings and speeches been overcome in the selections that have been published. For the present, there is, in nine, large substantive volumes,: *Writings and Speeches of Edmund Burke*, P. Langford (general editor), Oxford: Clarendon Press, 1981–2015. This, though not without further problems peculiar to itself, does at least provide a standard system reference for most of the items quoted here, and is cited above as **W & S**, and individual works are cited as follows:
 
-[^note-nd]: Note also:
-
 [^burke-1757]: [Burke, William, and Edmund Burke], 1757, *An Account of the European Settlements*, London (and later editions).
 
 [^somerset-1957]: Somerset, H.V.F, ed., 1957, *A Notebook of Edmund Burke*, Cambridge, Cambridge University Press.
@@ -240,11 +246,7 @@ Berkeley, George | conservatism | ethics: natural law tradition | ideas | Locke,
 
 [^walsh-2009]: Walsh, P., 2009 ‘A new Burke letter from 1778’, *Eighteenth-Century Ireland*, 24: 159–63.
 
-[^there-nd]: There is further unprinted correspondence in various repositories. The primary collections of Burke manuscripts are at Sheffield City Archives and Northamptonshire Archives, both in the United Kingdom, but there is further material by Burke in a wider range of places; the material in manuscript bearing on him is extremely bulky, diverse and scattered.
-
 [^there-1980]: There is relatively little recent literature primarily on Burke’s philosophical writings, however ‘philosophical’ is defined, though there is much that makes reference to or use of them: thus a bibliography of writings about his views on beauty, gender, and political organization, as well as his literary temper and practical activities would be disproportionately long. The reader is therefore invited to range freely. The secondary literature as a whole is listed up to about 1980 in Clara I. Gandy and Peter J. Stanlis, 1983, *Edmund Burke: A Bibliography of Secondary Studies to 1982*, New York, Garland. There are annual listings in the *Modern Humanities Research Association*’s volumes. The Royal Historical Society’s *Bibliography of British and Irish History* has recently become more useful for Burke than it was formerly.
-
-[^for-nd]: For matters discussed here, the reader is referred to:
 
 [^burke-1958]: Burke, Edmund, 1958, *Philosophical Enquiry*, ed. J.T. Boulton, London, Routledge (later edition, Oxford, Blackwell, 1987)
 
@@ -253,8 +255,6 @@ Berkeley, George | conservatism | ethics: natural law tradition | ideas | Locke,
 [^sewell-1938]: Sewell Jr, R.B., 1938, ‘Rousseau’s Second Discourse in England from 1755 to 1762’, *Philological Quarterly*, 17: 97–114.
 
 [^wecter-1940]: Wecter, D., 1940, ‘Burke’s Theory of Words, Images and Emotions’, *Publications of the Modern Language Association*, 55: 167–181.
-
-[^more-nd]: More recently, other aspects of Burke’s thought that bear on his philosophy outside *Philosophical Enquiry* have attracted attention. See:
 
 [^fives-2022]: Fives, Allyn, 2022, ‘Edmund Burke’s Value Pluralism’, *The European Legacy*, 27(6): 583–600.
 

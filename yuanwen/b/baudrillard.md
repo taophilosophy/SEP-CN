@@ -211,6 +211,8 @@ In the final analysis, Baudrillard is perhaps more useful as a provocateur who c
 
 ### Primary Literature
 
+Major Theoretical Works by Baudrillard:
+
 ## Secondary Literature
 
 - Best, Steven, and Kellner, Douglas, 1991, *Postmodern Theory: Critical Interrogations*, London and New York: MacMillan and Guilford Press.
@@ -310,64 +312,62 @@ For critical commentary that helped with the revision of this entry, I am gratef
 
 [^note-21]: Baudrillard distanced himself from the film and its vision of virtual reality in an interview by Aude Lancelin in *Le Nouvel Observateur*, June 2003; for a translation into English, see Baudrillard 2003 in the Other Internet Resources.
 
-[^major-nd]: Major Theoretical Works by Baudrillard:
+[^baudrillard-1968]: 1968 [1996c], *The System of Objects*, London: Verso.
 
-[^major-1968]: 1968 [1996c], *The System of Objects*, London: Verso.
+[^baudrillard-1970]: 1970 [1998], *The Consumer Society*, Paris: Gallimard.
 
-[^major-1970]: 1970 [1998], *The Consumer Society*, Paris: Gallimard.
+[^baudrillard-1973]: 1973 [1975], *The Mirror of Production*, St. Louis: Telos Press.
 
-[^major-1973]: 1973 [1975], *The Mirror of Production*, St. Louis: Telos Press.
+[^baudrillard-1973-2]: 1973 [1981], *For a Critique of the Political Economy of the Sign*, St. Louis: Telos Press.
 
-[^major-1973-2]: 1973 [1981], *For a Critique of the Political Economy of the Sign*, St. Louis: Telos Press.
+[^baudrillard-1983a]: 1983a, *Simulations*, New York: Semiotext(e).
 
-[^major-1983a]: 1983a, *Simulations*, New York: Semiotext(e).
+[^baudrillard-1983b]: 1983b, *In the Shadow of the Silent Majorities*, New York: Semiotext(e).
 
-[^major-1983b]: 1983b, *In the Shadow of the Silent Majorities*, New York: Semiotext(e).
+[^baudrillard-1983c]: 1983c, “The Ecstacy of Communication,” in *The Anti-Aesthetic*, Hal Foster (ed.), Washington: Bay Press.
 
-[^major-1983c]: 1983c, “The Ecstacy of Communication,” in *The Anti-Aesthetic*, Hal Foster (ed.), Washington: Bay Press.
+[^baudrillard-1987]: 1987, “When Bataille Attacked the Metaphysical Principle of Economy,” D.J. Miller (trans.), *Canadian Journal of Political and Social Theory*, 11: 57–62.
 
-[^major-1987]: 1987, “When Bataille Attacked the Metaphysical Principle of Economy,” D.J. Miller (trans.), *Canadian Journal of Political and Social Theory*, 11: 57–62.
+[^baudrillard-1988]: 1988, *America*, London: Verso.
 
-[^major-1988]: 1988, *America*, London: Verso.
+[^baudrillard-1990a]: 1990a, *Cool Memories*, London: Verso.
 
-[^major-1990a]: 1990a, *Cool Memories*, London: Verso.
+[^baudrillard-1990b]: 1990b, *Fatal Strategies*, New York: Semiotext(e).
 
-[^major-1990b]: 1990b, *Fatal Strategies*, New York: Semiotext(e).
+[^baudrillard-1993a]: 1993a, *Symbolic Exchange and Death*, London: Sage.
 
-[^major-1993a]: 1993a, *Symbolic Exchange and Death*, London: Sage.
+[^baudrillard-1993b]: 1993b, *The Transparency of Evil*, London: Verso.
 
-[^major-1993b]: 1993b, *The Transparency of Evil*, London: Verso.
+[^baudrillard-1994a]: 1994a, *Simulacra and Simulation*, Ann Arbor: The University of Michigan Press.
 
-[^major-1994a]: 1994a, *Simulacra and Simulation*, Ann Arbor: The University of Michigan Press.
+[^baudrillard-1994b]: 1994b, *The Illusion of the End*, Oxford: Polity Press.
 
-[^major-1994b]: 1994b, *The Illusion of the End*, Oxford: Polity Press.
+[^baudrillard-1995]: 1995, *The Gulf War Did Not Take Place*, P. Patton (trans.), Sydney: Power Publications, and Bloomington: Indiana University Press.
 
-[^major-1995]: 1995, *The Gulf War Did Not Take Place*, P. Patton (trans.), Sydney: Power Publications, and Bloomington: Indiana University Press.
+[^baudrillard-1996a]: 1996a, *Cool Memories II*, Oxford: Polity Press.
 
-[^major-1996a]: 1996a, *Cool Memories II*, Oxford: Polity Press.
+[^baudrillard-1996b]: 1996b, *The Perfect Crime*, London and New York: Verso Books.
 
-[^major-1996b]: 1996b, *The Perfect Crime*, London and New York: Verso Books.
+[^baudrillard-1997]: 1997, *Fragments: Cool Memories III, 1990–1995*, London and New York: Verso Books.
 
-[^major-1997]: 1997, *Fragments: Cool Memories III, 1990–1995*, London and New York: Verso Books.
+[^baudrillard-2000]: 2000, *The Vital Illusion*, New York: Columbia University Press.
 
-[^major-2000]: 2000, *The Vital Illusion*, New York: Columbia University Press.
+[^baudrillard-2001]: 2001, *Impossible Exchange*, London: Verso.
 
-[^major-2001]: 2001, *Impossible Exchange*, London: Verso.
+[^baudrillard-2002a]: 2002a, *The Spirit of Terrorism: And Requiem for the Twin Towers*, London: Verso.
 
-[^major-2002a]: 2002a, *The Spirit of Terrorism: And Requiem for the Twin Towers*, London: Verso.
+[^baudrillard-2002b]: 2002b, *Screened Out*, London: Verso.
 
-[^major-2002b]: 2002b, *Screened Out*, London: Verso.
+[^baudrillard-2005a]: 2005a, *The Intelligence of Evil or the Lucicity Pact*. London: Verson.
 
-[^major-2005a]: 2005a, *The Intelligence of Evil or the Lucicity Pact*. London: Verson.
+[^baudrillard-2005b]: 2005b, *The Conspiracy of Art*. New York: Semiotext(e).
 
-[^major-2005b]: 2005b, *The Conspiracy of Art*. New York: Semiotext(e).
+[^baudrillard-2006a]: 2006a, *Utopia Deferred. Writing from Utopie (1967–1978)*. New York: Semiotext(e).
 
-[^major-2006a]: 2006a, *Utopia Deferred. Writing from Utopie (1967–1978)*. New York: Semiotext(e).
+[^baudrillard-2006b]: 2006b, “The Pyres of Autumn”, *New Left Review* II (37), Jan/Feb. [[Baudrillard 2006b available online](http://newleftreview.org/II/37/jean-baudrillard-the-pyres-of-autumn)].
 
-[^major-2006b]: 2006b, “The Pyres of Autumn”, *New Left Review* II (37), Jan/Feb. [[Baudrillard 2006b available online](http://newleftreview.org/II/37/jean-baudrillard-the-pyres-of-autumn)].
+[^baudrillard-2010]: 2010, The Agony of Power. Semiotext(e) Intervention Series. Vol. 6. Cambridge, MA: Semiotext(e).
 
-[^major-2010]: 2010, The Agony of Power. Semiotext(e) Intervention Series. Vol. 6. Cambridge, MA: Semiotext(e).
+[^baudrillard-2015]: 2015, *Jean Baudrillard: From Hyperreality to Disappearance: Uncollected Interviews*, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.
 
-[^major-2015]: 2015, *Jean Baudrillard: From Hyperreality to Disappearance: Uncollected Interviews*, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.
-
-[^major-2017]: 2017, *Jean Baudrillard: The Disappearance of Culture: Uncollected Interviews*, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.
+[^baudrillard-2017]: 2017, *Jean Baudrillard: The Disappearance of Culture: Uncollected Interviews*, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.

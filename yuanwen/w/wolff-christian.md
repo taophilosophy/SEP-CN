@@ -259,6 +259,10 @@ Wolff's philosophy proved enormously influential, both within Germany and outsid
 
 ### Wolff’s Principal Works
 
+In the case of the *German Logic* and *German Metaphysics*, both of which saw numerous editions and significant changes throughout Wolff’s lifetime, references in this entry are to the later, reprinted editions.
+
+In the above entry, all translations are by the authors unless otherwise indicated.
+
 #### Wolff’s German Texts
 
 #### Wolff’s Latin Texts
@@ -301,10 +305,6 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 [^for-2018]: For a complete listing of Wolff’s works, see Theis & Aichele (2018: 20–27). Editions of all of Wolff’s works have been reprinted in the series:
 
 [^christian-1962]: *Christian Wolff: Gesammelte Werke*, 1962–, edited by Jean École, Hans Werner Arndt, Charles Anthony Corr, Joseph Ehrenfried Hofmann, M. Thoman, Hildesheim: Olms.
-
-[^german-nd]: In the case of the *German Logic* and *German Metaphysics*, both of which saw numerous editions and significant changes throughout Wolff’s lifetime, references in this entry are to the later, reprinted editions.
-
-[^wolff-nd]: In the above entry, all translations are by the authors unless otherwise indicated.
 
 [^wolff-christian-1710]: 1710, *Der Anfangs-Gründe aller mathematischen Wissenschafften* (Elements of All the Mathematical Sciences), Halle.
 

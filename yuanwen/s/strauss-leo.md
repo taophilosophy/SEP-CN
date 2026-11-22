@@ -181,6 +181,8 @@ In the end, how one evaluates the circular nature of Strauss’s questions and a
 | TM | *Thoughts on Machiavelli*, Chicago: University of Chicago Press, 1958. |
 | WPP | *What is Political Philosophy and Other Studies*, Glencoe, IL: The Free Press, 1959. |
 
+For a complete bibliography of Strauss’s writings see the [Leo Strauss Center website](http://leostrausscenter.uchicago.edu).
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -199,8 +201,6 @@ In the end, how one evaluates the circular nature of Strauss’s questions and a
 ## Related Entries
 
 al-Farabi | Aquinas, Thomas | Arendt, Hannah | Aristotle | Cassirer, Ernst | Cicero | Cohen, Hermann | Epicureanism | Gadamer, Hans-Georg | Halevi, Judah | Heidegger, Martin | Hobbes, Thomas | Husserl, Edmund | Jacobi, Friedrich Heinrich | Jacob Klein | Julius Guttmann | Karl Barth | Kierkegaard, Søren | Machiavelli, Niccolò | Maimonides | Mendelssohn, Moses | moral skepticism | nature of law: legal positivism | nature of law: natural law theories | Nietzsche, Friedrich | Plato | praxis | rationalism | rationality: historicist theories of | relativism | rights | Rosenzweig, Franz | Schmitt, Carl | Socrates | Spinoza, Baruch | Thucydides | Weber, Max | Xenophon
-
-[^for-nd]: For a complete bibliography of Strauss’s writings see the [Leo Strauss Center website](http://leostrausscenter.uchicago.edu).
 
 [^batnitzky-2006]: Batnitzky, Leora, 2006, *Leo Strauss and Emmanuel Levinas: Philosophy and the Politics of Revelation*, New York: Cambridge University Press.
 

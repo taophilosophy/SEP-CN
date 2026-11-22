@@ -465,6 +465,8 @@ Arnauld’s work between 1682 and 1694 is a testament to his intellectual vitali
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The citations abbreviation *OA* is identified below, in the first reference of Principle Editions. The citations abbreviations *LA* and *OM* are identified in the section Related Early Modern Works below.
+
 ### Arnauld’s Works
 
 #### Principal Editions
@@ -596,8 +598,6 @@ A translation of Arnauld’s Latin text, made by Pasquier Quesnel, is contained 
 [^note-42]: Arnauld takes up similar examples in his letters to Mackaire, Bossuet, adding examples of a highly just judge offered a bribe and an extremely chaste woman whom someone attempts to seduce.
 
 [^note-43]: Eric Stencil and Julie Walsh (2016) discuss our certainty about how the prince and the king will act, in the light of what Arnauld says about habit formation in his criticism of Nicole’s theory of *la gráce gßnßrale,* and his criticism of the Jesuit distinction between theological and philosophical sin.
-
-[^oa-nd]: The citations abbreviation *OA* is identified below, in the first reference of Principle Editions. The citations abbreviations *LA* and *OM* are identified in the section Related Early Modern Works below.
 
 [^arnauld-1775]: Arnauld, Antoine, *Oeuvres de Messire Antoine Arnauld* (43 vols.) (edited by G. Du Pac De Bellegarde and J. Hautefage, with a *Vie de Messire Antoine Arnauld by N. De Larrière)* Paris-Lausanne: Sigismond D’Arnay et Cie 1775-83. Cited as ***OA***.
 

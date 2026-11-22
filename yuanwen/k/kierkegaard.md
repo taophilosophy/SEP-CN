@@ -221,13 +221,23 @@ Second edition of *Either-Or* *The Lilies of the Field and the Birds of the Air:
 
 #### A.1 Kierkegaard’s Works in Danish
 
+The now definitive critical edition of Kierkegaard’s writings is:
+
 #### A.2 Kierkegaard’s Works in English
+
+The most used translations for most of Kierkegaard’s works is the *Kierkegaard’s Writings* series published by Princeton University Press under the general editorship of Howard V. and Edna. H. Hong. In citations above, we have followed the commonly used sigla of abbreviations of these titles, a more complete list of which is as follows. In some instances, we have cited alternative translations, which are listed here instead of the translations in the *Kierkegaard’s Writings* series.
 
 ##### Published works
 
 ##### Journals, Notebooks and Other Papers
 
+Two older selections from Kierkegaard’s unpublished works are:
+
+A more manageable introduction to Kierkegaard’s journals and unpublished papers is:
+
 ### B. Selected Secondary Literature and Other Works Referred To
+
+We have here focused on books: articles are only referenced if referred to in the above text.
 
 ## Academic Tools
 
@@ -251,11 +261,7 @@ Second edition of *Either-Or* *The Lilies of the Field and the Birds of the Air:
 
 authenticity | emotion: in the Christian tradition | existentialism | faith | fideism | Hegel, Georg Wilhelm Friedrich | hope | Kant, Immanuel | love | Luther, Martin: influence on philosophy | religion: and morality in western philosophy | Sartre, Jean-Paul
 
-[^kierkegaard’s-nd]: The now definitive critical edition of Kierkegaard’s writings is:
-
 [^sks-1997]: [SKS] Kierkegaard, Søren, *Søren Kierkegaard’s Skrifter*, N. J. Cappelørn et al. (eds), Copenhagen: Gad, 1997–2013, 55 volumes. Also available online at: [http://www.sks.dk/](http://www.sks.dk)
-
-[^kierkegaard’s-nd-2]: The most used translations for most of Kierkegaard’s works is the *Kierkegaard’s Writings* series published by Princeton University Press under the general editorship of Howard V. and Edna. H. Hong. In citations above, we have followed the commonly used sigla of abbreviations of these titles, a more complete list of which is as follows. In some instances, we have cited alternative translations, which are listed here instead of the translations in the *Kierkegaard’s Writings* series.
 
 [^ba-1997]: [BA] *The Book on Adler*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 24), Princeton, NJ: Princeton University Press, 1997. Published posthumously.
 
@@ -307,17 +313,11 @@ authenticity | emotion: in the Christian tradition | existentialism | faith | fi
 
 [^kjn-2007]: [KJN] *Kierkegaard’s Journals and Notebooks*, N. J. Cappelørn et al. (ed.), Princeton, NJ: Princeton University Press, 2007–2020. Multi-volume translation of all Kierkegaard’s journals, notebooks and miscellaneous papers, based on the relevant parts of SKS.
 
-[^two-nd]: Two older selections from Kierkegaard’s unpublished works are:
-
 [^jp-1967]: [JP] *Søren Kierkegaards Journals and Papers*, Howard V. and Edna H. Hong (ed. and trans.), Bloomington: Indiana University Press, 1967–78, 7 volumes.
 
 [^ld-1978]: [LD] *Letters and Documents*, Hendrik Rosenmeier (ed. and trans.), Princeton, NJ: Princeton University Press, 1978.
 
-[^kierkegaard’s-nd-3]: A more manageable introduction to Kierkegaard’s journals and unpublished papers is:
-
 [^pj-1996]: [PJ] *Papers and Journals: A Selection*, Alastair Hannay (trans. with introduction and notes), Harmondsworth: Penguin, 1996.
-
-[^we-nd]: We have here focused on books: articles are only referenced if referred to in the above text.
 
 [^adorno-1933]: Adorno, Theodor W., 1933 [1989], *Kierkegaard: Konstruktion des ästhetischen*, (Beiträge zur Philosophie und ihrer Geschichte 2), Tübingen: Mohr. Translated as *Kierkegaard: Construction of the Aesthetic*, Robert Hullot-Kentor (trans.), (Theory and History of Literature 61), Minneapolis, MN: University of Minnesota Press, 1989.
 

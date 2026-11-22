@@ -257,13 +257,19 @@ Plato and Aristotle can in many ways be seen as defending some fundamental tenet
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+This bibliography focuses on political philosophy rather than the entire corpus of an author’s work, and gives only an overview of some important sources for this vast field. Fuller bibliographies for most of the works and authors discussed can be found in the related articles listed below.
+
 ### Primary Literature
 
 #### Translations used
 
+The list below is arranged roughly chronologically in relation to the Greek or Latin texts that are translated in each case. In addition to those listed below, the Loeb Classical Library has been used herein for the English translations of Plutarch’s *Lives* (in eleven volumes, all translated by Bernadotte Perrin) and *Moralia* (in sixteen volumes, by various translators).
+
 ### Secondary Literature
 
 #### Reference Works
+
+This is a partial selection of useful reference works.
 
 ## Academic Tools
 
@@ -323,11 +329,7 @@ The author would like to acknowledge the research assistance by René de Nicolay
 
 [^note-17]: To be sure, this generalization, like many about ancient philosophy, leaves the ancient skeptics and Cynics aside.
 
-[^this-nd]: This bibliography focuses on political philosophy rather than the entire corpus of an author’s work, and gives only an overview of some important sources for this vast field. Fuller bibliographies for most of the works and authors discussed can be found in the related articles listed below.
-
 [^oxford-1951]: The Oxford Classical Text series has been used for citation of most classical texts. Other editions of reference for many texts include the series published respectively by Teubner in Germany and by Budé in France. Abbreviations are used for the following texts and translations: DK (for the Presocratics): Diels, H., and W. Kranz (eds.), 1951–2, *Die Fragmente der Vorsokratiker, griechisch und deutsch*, 6th edn, 3 vols., Berlin: Weidmann. SVF (for the Stoics): von Arnim, Hans von, 1903–21, *Stoicorum Veterum Fragmenta*, 4 vols., Leipzig: B.G. Teubner. LS (for translations of the Stoics): Long, A. A., and D. N. Sedley (eds.), 1987, *The Hellenistic Philosophers*, 2 vols. Cambridge: Cambridge University Press [Greek and Latin texts in vol.2], which is abbreviated LS in the body of this entry. Quotations from Plato are from the translations included in Cooper, John (ed.), *Plato. Complete Works* (Indianapolis: Hackett, 1993) (occasionally modified); quotations from Aristotle are from Barnes, Jonathan (ed.) *The Complete Works of Aristotle*, vol. 2 (Princeton: Princeton University Press, 1984) [this is known as the Revised Oxford Translation, consisting of Barnes’ revision of a complete series of translations published originally by the Oxford University Press between 1912 and 1954] (occasionally modified).
-
-[^greek-nd]: The list below is arranged roughly chronologically in relation to the Greek or Latin texts that are translated in each case. In addition to those listed below, the Loeb Classical Library has been used herein for the English translations of Plutarch’s *Lives* (in eleven volumes, all translated by Bernadotte Perrin) and *Moralia* (in sixteen volumes, by various translators).
 
 [^gagarin-1995]: Gagarin, M. and P. Woodruff, (eds.), 1995, *Early Greek Political Thought from Homer to the Sophists*, Cambridge: Cambridge University Press.
 
@@ -594,8 +596,6 @@ The author would like to acknowledge the research assistance by René de Nicolay
 [^woozley-1972]: Woozley, A.D., 1972, “Socrates on Disobeying the Law,” in *The Philosophy of Socrates: a collection of critical essays*, G. Vlastos (ed.), Garden City, NY: Anchor Books, pp. 299–318.
 
 [^yack-1993]: Yack, B., 1993, *The Problems of a Political Animal: community, justice, and conflict in Aristotelian political thought*, Berkeley: University of California Press.
-
-[^this-nd-2]: This is a partial selection of useful reference works.
 
 [^aalders-1975]: Aalders, G.J.D., 1975, *Political Thought in Hellenistic Times*, Amsterdam: H.M. Hakkert.
 

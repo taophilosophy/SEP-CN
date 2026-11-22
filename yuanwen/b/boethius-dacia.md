@@ -232,6 +232,8 @@ There is no book-length study of the philosophy of Boethius of Dacia. A comprehe
 
 ### Editions
 
+See section 2, above.
+
 ### Translations
 
 ### Secondary Literature
@@ -251,8 +253,6 @@ There is no book-length study of the philosophy of Boethius of Dacia. A comprehe
 ## Related Entries
 
 Albert the Great [= Albertus Magnus] | Aquinas, Thomas | condemnation of 1277 | existence | faith | free will | Godfrey of Fontaines | happiness | Ibn Rushd [Averroes] | Siger of Brabant | truthmakers
-
-[^see-nd]: See section 2, above.
 
 [^bianchi-2003]: Bianchi, Luca, 2003, *Boezio di Dacia: Sull’ eternità del mondo*, Milano: Unicopli.
 

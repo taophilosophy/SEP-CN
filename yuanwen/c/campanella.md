@@ -101,6 +101,10 @@ At the request of Cardinal Richelieu, Campanella wrote and dedicated to him a sh
 
 ### Primary Literature: Campanella’s Works
 
+The section ‘Testi’ in the online *[Archivio Tommaso Campanella](https://www.iliesi.cnr.it/ATC/intro.php?op=1)* offers access to digital facsimiles and/or transcriptions of most of Campanella’s works, with full bibliographical references for original and modern editions. An online catalogue of [The Correspondence of Tommaso Campanella](http://emlo-portal.bodleian.ox.ac.uk/collections/?catalogue=tommaso-campanella) is available through *Early Modern Letters Online* [EMLO].
+
+The most important editions of his writings are:
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -125,10 +129,6 @@ Ficino, Marsilio | Galileo Galilei | Machiavelli, Niccolò | natural philosophy:
 The author and principal editor would like to express their indebtedness to the subject editor, Jill Kraye, for translating Germana Ernst’s original version (2005) of this entry into English.
 
 [^there-1940]: There is no complete edition of Campanella’s works, and for many of them it is still necessary to consult early printed editions. The starting-point for a description of his writings remains Luigi Firpo, *Bibliografia degli scritti di Tommaso Campanella* (Turin: V. Bona, 1940), though it requires numerous additions and corrections. For Campanella editions published since 1990 see the journal *Bruniana & Campanelliana* (1995–).
-
-[^testi’-nd]: The section ‘Testi’ in the online *[Archivio Tommaso Campanella](https://www.iliesi.cnr.it/ATC/intro.php?op=1)* offers access to digital facsimiles and/or transcriptions of most of Campanella’s works, with full bibliographical references for original and modern editions. An online catalogue of [The Correspondence of Tommaso Campanella](http://emlo-portal.bodleian.ox.ac.uk/collections/?catalogue=tommaso-campanella) is available through *Early Modern Letters Online* [EMLO].
-
-[^campanella-nd]: The most important editions of his writings are:
 
 [^aforismi-1941]: *Aforismi politici*, ed. L. Firpo (Turin: Istituto Giuridico dell’Università, 1941).
 

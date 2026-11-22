@@ -409,7 +409,11 @@ He is thus in a position to back up his view that all physical things, since ide
 
 ### Berkeley’s Works
 
+The standard edition of Berkeley’s works is:
+
 > Berkeley, G., [W], *The Works of George Berkeley, Bishop of Cloyne*, A.A. Luce and T.E. Jessop (eds.), London: Thomas Nelson and Sons, 9 volumes, 1948–1957.
+
+The following abbreviations are used to reference Berkeley’s works:
 
 **[PC]**
 
@@ -446,6 +450,10 @@ He is thus in a position to back up his view that all physical things, since ide
 **[S]**
 
 *Siris: A Chain of Philosophical Reflexions and Inquiries, etc* ([W] 5:31–164)
+
+References to these works are by section numbers (or entry numbers, for PC), except for 3D, where they are by page number, and for A, where they are by dialogue, section, and page number.
+
+Other useful editions include:
 
 ### A collection, useful to students, of primary texts constituting background to Berkeley or early critical reactions to Berkeley:
 
@@ -587,14 +595,6 @@ Descartes, René | Hume, David | idealism | Locke, John | Malebranche, Nicolas |
 [^note-55]: 55\. As his proposal for enslaving the able-bodied poor in Ireland suggests, Berkeley’s advocacy for some forms of slavery and his acceptance of other forms does not have an obvious root in what we would now describe as racism. In a sermon he preached to the Society for the Propagation of the Gospel in 1732, Berkeley identifies “an irrational contempt of Blacks, as Creatures of another Species” on the part of British planters as one of the chief obstacles to converting them to Christianity. (Berkeley [W] 3:122)
 
 [^note-56]: 56\. Rozbicki (2001)[^rozbicki-2001] has a fascinating discussion of early modern advocacy of enslaving the poor in Great Britain.
-
-[^berkeley’s-nd]: The standard edition of Berkeley’s works is:
-
-[^berkeley’s-nd-2]: The following abbreviations are used to reference Berkeley’s works:
-
-[^references-nd]: References to these works are by section numbers (or entry numbers, for PC), except for 3D, where they are by page number, and for A, where they are by dialogue, section, and page number.
-
-[^other-nd]: Other useful editions include:
 
 [^philosophical-1944]: *Philosophical Commentaries, generally called the Commonplace book [of] George Berkeley, bishop of Cloyne*, A.A. Luce (ed.), London: Thomas Nelson and Sons, 1944.
 

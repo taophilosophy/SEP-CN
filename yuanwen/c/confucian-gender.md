@@ -251,6 +251,8 @@ The caricature of Confucianism as synonymous with patriarchy and a backwater ide
 
 ### Primary Sources
 
+All the Chinese texts cited can be found in the [*Chinese Text Project*](https://ctext.org/), an open sourced, internet search engine. All the Chinese translations are by the present author, unless noted otherwise.
+
 ### Secondary Sources
 
 ## Academic Tools
@@ -304,8 +306,6 @@ Chinese Philosophy: Mohism | Confucius | Mencius
 [^note-13]: For a brief discussion of Confucianism in the context of an array of ways in which care ethics has been linked and discussed, see Tronto (2013: 24)[^tronto-2013]; Collins (2015: 2, 6). For a rare lengthier discussion on Confucianism from a care ethicist outside the sino-comparative communities, see Groenhout (2014: 494–499)[^groenhout-2014].
 
 [^note-14]: Akin to the Greek concept of *philia*, the term *you* 友 is used to cover a wide range of associations from kinship, civil/political alliance, to erotic attachment in various classics; see for instance, *Shujing*, “*Dagao*”, “*Shaogao*”, “*Mushi*”, “*Kanggao*” and “*Junchen*” chapters; *Shijing*, Song 1 “*Guanju*” and Song 165 “*Famu*”.
-
-[^all-nd]: All the Chinese texts cited can be found in the [*Chinese Text Project*](https://ctext.org/), an open sourced, internet search engine. All the Chinese translations are by the present author, unless noted otherwise.
 
 [^baihutong-1949]: [*Baihutong*](https://ctext.org/bai-hu-tong) (白虎通) [The Comprehensive Discussions in the White Tiger Hall], [[ available online ](https://ctext.org/bai-hu-tong)], compiled by Ban Gu (32–92 CE). For a translation see Tjan 1949 [1952]*.*
 

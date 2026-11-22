@@ -271,9 +271,13 @@ Green was perhaps the most important figure within the tradition of British idea
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The references are divided into primary sources, including both Green’s writings and other relevant historical texts, and secondary sources. The division between other primary historical sources and secondary sources is sometimes somewhat arbitrary. Primary sources are cited using short titles or abbreviations, as indicated, and secondary sources are cited by year of publication.
+
 ### A. Primary Sources
 
 #### A.1 Green’s Writings
+
+This is a list of Green’s principal published and unpublished philosophical writings on which the present entry draws.
 
 #### A.2 Other Primary Sources
 
@@ -318,10 +322,6 @@ Bradley, Francis Herbert | common good | Hegel, Georg Wilhelm Friedrich | ideali
 [^note-9]: See the lay sermons in *Works* III and the theological essays in *Works* V.
 
 [^note-10]: It is significant that despite scattered references to Hegel in some of Green’s early lectures, there is no analysis of Hegel’s thought in Green’s mature writings comparable to his “Lectures on the Philosophy of Kant” (*Works* II), his discussion of Kantian themes in Book I of the *Prolegomena*, or his discussion of Greek ethics in Book III of the *Prolegomena*. A reasonable conclusion, supported by the reminiscences of Sidgwick and Caird (in Green’s papers at Balliol College), is that, while Green was influenced by Hegelian ideas early in his career, he became increasingly critical of Hegelianism and increasingly intent on developing his own views by engagement with other traditions.
-
-[^green’s-nd]: The references are divided into primary sources, including both Green’s writings and other relevant historical texts, and secondary sources. The division between other primary historical sources and secondary sources is sometimes somewhat arbitrary. Primary sources are cited using short titles or abbreviations, as indicated, and secondary sources are cited by year of publication.
-
-[^this-nd]: This is a list of Green’s principal published and unpublished philosophical writings on which the present entry draws.
 
 [^works-1885]: *Works of T.H. Green*, 3 vols., Richard Lewis Nettleship (ed.), London: Longmans, Green, and Co., 1885–1888. Nettleship’s edition contains Green’s main philosophical publications (except the *Prolegomena to Ethics*), miscellaneous lectures, and Nettleship’s memoir of Green.
 

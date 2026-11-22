@@ -846,6 +846,8 @@ We have surveyed the literature of Dynamic Epistemic Logic, from its early devel
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Please note that the [enhanced bibliography for this entry](http://philpapers.org/sep/dynamic-epistemic/) at PhilPapers includes direct links to those articles below that include digital object identifiers (DOIs).
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dynamic-epistemic). |
@@ -865,8 +867,6 @@ belief, formal representations of | common knowledge | epistemic paradoxes | epi
 ### Acknowledgments
 
 Bryan Renne was supported by Innovational Research Incentives Scheme Veni grant 275-20-030 from the Netherlands Organisation for Scientific Research (NWO). The grant was hosted by the Institute for Logic, Language, Information and Computation (ILLC) at the University of Amsterdam.
-
-[^please-nd]: Please note that the [enhanced bibliography for this entry](http://philpapers.org/sep/dynamic-epistemic/) at PhilPapers includes direct links to those articles below that include digital object identifiers (DOIs).
 
 [^ågotnes-2010]: Ågotnes, T., P. Balbiani, H. van Ditmarsch, and P. Seban, 2010, “Group announcement logic”, *Journal of Applied Logic*, 8(1): 62–81. doi:10.1016/j.jal.2008.12.002
 

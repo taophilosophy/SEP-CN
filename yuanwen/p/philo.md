@@ -232,6 +232,14 @@ Another long article would be necessary to address the Christian reception of Ph
 
 #### Philo: Editions, translations and commentaries
 
+The editors of Philo in the Loeb Classical Library (LCL), F.H. Colson, J.W. Earp, Ralph Marcus and G.H. Whitaker, sought mainly to provide a quality English translation.
+
+In the “Philo of Alexandria Commentary Series” (PACS), edited by G.E. Sterling, in Brill and Scholars Press are published the following English translations with commentary:
+
+Other isolated commentaries will be indicated in the following titles of the bibliography. Many interesting discussions can also be found in
+
+The abbreviations of our article are those of the *Studia Philonica Annual* (see the supplementary document [Abbreviations of the Philonian treatises](philo.supplement3.md)). The translations are those of the Loeb Classical Library, except for *De opificio* (On the Creation), for which we adopted Runia’s translation.
+
 #### Other primary literature
 
 ### Bibliographies
@@ -263,8 +271,6 @@ The author would like to thank Ada Browowski, Pr Phillip Mitsis and Lex Paulson,
 [^note-1]: In this article we use this term with a very general meaning: rejection and/or hatred of the Jews.
 
 [^leopald-1896]: The edition of reference is that of Leopald Cohn, Paulus Wendland and Siegfried Reiter, *Philonis Alexandri opera quae supersunt*, Berlin 1896–1915. It contains all the treatises in Greek (six volumes plus an index volume).
-
-[^philo-nd]: The editors of Philo in the Loeb Classical Library (LCL), F.H. Colson, J.W. Earp, Ralph Marcus and G.H. Whitaker, sought mainly to provide a quality English translation.
 
 [^philo-1929]: *Philo in Ten Volumes, and Two Supplementary Volumes*, Cambridge, MA: Harvard University Press, 1929–1962,
 
@@ -366,8 +372,6 @@ The author would like to thank Ada Browowski, Pr Phillip Mitsis and Lex Paulson,
 
 [^alexander-nd]: 36. *Alexander vel De animalibus*.
 
-[^philo-nd-2]: In the “Philo of Alexandria Commentary Series” (PACS), edited by G.E. Sterling, in Brill and Scholars Press are published the following English translations with commentary:
-
 [^creation-2001]: *On the Creation of the Cosmos According to Moses*, PACS 1, David T. Runia (tr.), Leiden: Brill, 2001.
 
 [^philo’s-2003]: *Philo’s Flaccus: The First Pogrom*, PACS 2, Pieter Willem van der Horst (tr.), Leiden: Brill, 2003.
@@ -378,11 +382,7 @@ The author would like to thank Ada Browowski, Pr Phillip Mitsis and Lex Paulson,
 
 [^spanish-2009]: A Spanish Translation, with introduction and notes, of the Philonian corpus, is edited under the responsibility of José Pablo Martín, by the Editorial Trotta in Madrid, under the title *Filón de Alejandría: Obras Completas*. Eight volumes are programmed in this series, five have been published, 2009–
 
-[^other-nd]: Other isolated commentaries will be indicated in the following titles of the bibliography. Many interesting discussions can also be found in
-
 [^anrw-1984]: [ANRW II.21.1] Haase Wolfgang (ed.), *Hellenistisches Judentum in römischer Zeit. Philon und Josephus*, (ANRW [Aufstieg und Niedergang der römischen Welt], II 21.1), Berlin: Walter de Gruyter, 1984.
-
-[^studia-nd]: The abbreviations of our article are those of the *Studia Philonica Annual* (see the supplementary document [Abbreviations of the Philonian treatises](philo.supplement3.md)). The translations are those of the Loeb Classical Library, except for *De opificio* (On the Creation), for which we adopted Runia’s translation.
 
 [^cicero-1841]: Cicero, circa 51 BCE, *De re publica*, 6 books, translated by Francis Barham as “Treatise on the Commonwealth”, in *The Political Works of Marcus Tullius Cicero*, volume 1, London: Edmund Spettigue, 1841. Elsewhere translated as “Treatise on the Republic”. [[Treatise on the Commonwealth available online](http://oll.libertyfund.org/titles/cicero-treatise-on-the-commonwealth--5)]
 

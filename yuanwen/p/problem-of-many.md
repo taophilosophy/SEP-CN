@@ -255,6 +255,8 @@ Neither of these points should be taken to be conclusive refutations. As things 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The numbers after each entry refer to the sections to which that book or article is relevant.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=problem-of-many). |
@@ -270,8 +272,6 @@ Neither of these points should be taken to be conclusive refutations. As things 
 ## Related Entries
 
 dialetheism | identity: relative | indexicals | intrinsic vs. extrinsic properties | logic: fuzzy | mereology | propositional attitude reports | propositions: singular | Sorites paradox | vagueness
-
-[^problem-of-many-nd]: The numbers after each entry refer to the sections to which that book or article is relevant.
 
 [^armstrong-1978]: Armstrong, D. M., 1978, *Universals and Scientific Realism*. 2 vols. Cambridge: Cambridge University Press. [6]
 

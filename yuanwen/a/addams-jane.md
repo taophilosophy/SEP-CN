@@ -133,6 +133,8 @@ Taken together, this literature suggests that Addams now functions in philosophy
 
 ### Primary Literature
 
+Abbreviations of Addams’ principal works referred to in this article appear in brackets.
+
 #### Books
 
 **[DSE]**
@@ -237,8 +239,6 @@ Dewey, John | Dewey, John: political philosophy | feminist philosophy, approache
 ## Notes（原文脚注）
 
 [^note-1]: Recent reprints of Addams’ work by the University of Illinois Press include: *Democracy and Social Ethics* (2002), *The Long Road of Woman’s Memory* (2002), *A New Conscience and an Ancient Evil* (2002), *My Friend, Julia Lathrop* (2004), *Newer Ideals of* Peace (2007), Peace *and Bread in Time of War* (2002), and *Women at The Hague: The International Congress Of Women And Its Results* with Emily G. Balch and Alice Hamilton (2003).
-
-[^abbreviations-nd]: Abbreviations of Addams’ principal works referred to in this article appear in brackets.
 
 [^bryan-1860]: Bryan, Mary Lynn McCree, Barbara Bair, and Maree De Angury (eds.), *The Selected Papers of Jane Addams* (Volume 1: Preparing to Lead, 1860–1881), Urbana, IL: University of Illinois Press, 2003.
 

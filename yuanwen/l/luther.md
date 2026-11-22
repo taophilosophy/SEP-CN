@@ -241,6 +241,8 @@ Luther’s thinking exerted a considerable influence not only on his own time an
 
 ### Useful collections of some of Luther’s main writings
 
+Translations have been modified where necessary.
+
 ### Luther’s Life and Work
 
 #### Primary texts
@@ -535,8 +537,6 @@ See also *Against the Heavenly Prophets*, 1525, WA 18:81/LW 40:98, where Luther 
 [^ninety-five-2017]: *The Ninety-Five Theses and Other Writings*, William Russell (trans.), Harmondsworth: Penguin, 2017.
 
 [^annotated-2015]: *The Annotated Luther*, edited by Timothy J. Wengert et al., 6 vols., Minneapolis, MN: Fortress Press, 2015–17.
-
-[^translations-nd]: Translations have been modified where necessary.
 
 [^luther-nd]: Luther, Martin, 1545, “Preface to the Complete Edition of Luther’s Latin Writings” (WA 54:179–87/LW 34:323–38).
 

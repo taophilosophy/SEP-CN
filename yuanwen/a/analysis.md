@@ -239,6 +239,8 @@ The history of philosophy reveals a rich source of conceptions of analysis. The 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+What follows here is a selection of forty classic and recent works published over the last half-century or so that offer representative cover of the range of different conceptions of analysis in the history of philosophy. A fuller bibliography, which includes all references cited, is provided as a set of supplementary documents, divided to correspond to the sections of this entry:
+
 > [Annotated Bibliography on Analysis](analysis.bib1.md)
 
 ## Academic Tools
@@ -262,8 +264,6 @@ abstract objects | analytic/synthetic distinction | Aristotle | Bolzano, Bernard
 ### Acknowledgments
 
 This entry was first composed by Michael Beaney in 2002–3 and updated in 2007 and 2014: acknowledgements for each of these can be found in the archived versions. The most substantial revision, with the help of Thomas Raysmith, has been made for this current version (2023), in covering many more philosophical traditions. Various people have made comments and suggestions over the years, and trying to name everyone would inevitably miss many out. So we just record our thanks here: we have tried to respond appropriately in all cases. For institutional support over the last six years, however, we would especially like to thank the Institut für Philosophie at the Humboldt-Universität zu Berlin. As we seek to broaden the account of analysis offered here, in seeking greater inclusivity to avoid Eurocentrism, which cannot be done in a single revision, we invite anyone who has further suggestions of what to cover or comments on the article itself to email us at the addresses given below.
-
-[^what-nd]: What follows here is a selection of forty classic and recent works published over the last half-century or so that offer representative cover of the range of different conceptions of analysis in the history of philosophy. A fuller bibliography, which includes all references cited, is provided as a set of supplementary documents, divided to correspond to the sections of this entry:
 
 [^anderson-2015]: Anderson, R. Lanier, 2015, *The Poverty of Conceptual Truth: Kant’s Analytic/Synthetic Distinction and the Limits of Metaphysics*, Oxford: Oxford University Press
 

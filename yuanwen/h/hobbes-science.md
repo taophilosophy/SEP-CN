@@ -155,6 +155,10 @@ The maker’s knowledge view of Hobbes’ civil philosophy draws insight from th
 
 ### Primary Literature
 
+Works by Hobbes
+
+Other Authors:
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -197,8 +201,6 @@ Boyle, Robert | Hobbes, Thomas | Hobbes, Thomas: moral and political philosophy 
 
 [^note-11]: For discussion and criticisms of the definitivist view, see Deigh (2003)[^deigh-2003], Hoekstra (2003)[^hoekstra-2003], Lloyd (2009: 151–210)[^lloyd-2009], and Murphy (2000)[^murphy-2000].
 
-[^works-nd]: Works by Hobbes
-
 [^ew-1839]: [EW] 1839–1845, *The English Works of Thomas Hobbes*, 11 volumes, William Molesworth (ed.), London: John Bohn. [[EW available online](http://onlinebooks.library.upenn.edu/webbin/metabook?id=hobbesworks)]
 
 [^ol-1839]: [OL] 1839–1845, *Thomæ Hobbes malmesburiensis opera philosophica*, 5 volumes, William Molesworth (ed.), London: John Bohn.
@@ -216,8 +218,6 @@ Boyle, Robert | Hobbes, Thomas | Hobbes, Thomas: moral and political philosophy 
 [^dp-1661]: [DP] 1661 [1985], *Dialogus Physicus*, translated by Simon Schaffer in Shapin and Schaffer 1985, 345–391.
 
 [^mc-1994]: [MC] 1994, *Man and Citizen*: (*De Homine and De Cive*), Bernard Gert (ed.), Indianapolis: Hackett Publishing. *De Homine* is 1658 and *De Cive* is 1642.
-
-[^other-nd]: Other Authors:
 
 [^sprat-1667]: Sprat, Thomas, 1667, *The History of the Royal-Society of London, For the Improving of Natural Knowledge*, London: Printed by T. R. for J. Martyn. [[Spratt 1667 available online](https://archive.org/details/b3032760x/page/n13)]
 

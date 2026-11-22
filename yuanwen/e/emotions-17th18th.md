@@ -119,19 +119,35 @@ Supplementary documents are available for the philosophers:
 
 #### Seventeenth Century
 
+[See sections below for Descartes, Hobbes, Malebranche, and Spinoza]
+
 #### Descartes
+
+[See remarks on citations.]
 
 #### Hobbes
 
+[All citations to works of Hobbes are given by chapter and paragraph.]
+
 #### Malebranche
+
+[All citations to *The Search after Truth* (ST) give the number of Book, chapter and page. Citations to the *Dialogues on Metaphysics and on Religion* (DMR) give the page number.]
 
 #### Spinoza
 
+[References to the *Ethics* are by part (I-V), definition, (D), proposition (P), or other subsection, and if applicable, to scholium (s), demonstration, or corollary (c).]
+
 #### Eighteenth Century
+
+[See below for sections on Hume, Hutcheson, and Shaftesbury.]
 
 #### Hume
 
+[See remarks on citations]
+
 #### Hutcheson
+
+[See remarks on citations]
 
 #### Shaftesbury
 
@@ -208,8 +224,6 @@ Initial work on these entries was supported by a fellowship from Stanford Humani
 
 [^vives-1990]: Vives, Juan Luis, *The Passions of the Soul: the Third Book of de Anima et Vita*, ed., C. Noreña, Lewiston, N.Y.: E. Mellen Press, 1990.
 
-[^see-nd]: [See sections below for Descartes, Hobbes, Malebranche, and Spinoza]
-
 [^anon-nd]: Anon, *Pathomachia; or the Battel of affections: Shadowed by a Feigned Siege of the City Pathopolis. Written some years since, and now first published by a friend of the deceased author*. London.
 
 [^arnauld-1996]: Arnauld, Antoine and Pierre Nicole, *Logic or the Art of Thinking*, tr. J.V. Buroker, Cambridge: Cambridge University Press, 1996.
@@ -260,15 +274,11 @@ Initial work on these entries was supported by a fellowship from Stanford Humani
 
 [^wright-1604]: Wright, Thomas, *The Passions of the Mind in General*, London, 1604.
 
-[^see-nd-2]: [See remarks on citations.]
-
 [^descartes-1996]: Descartes, René, *Oeuvres De Descartes*, 11 vol., ed. Ch. Adam and P. Tannery, Paris: Librairie Philosophique J. Vrin, 1996. [Cited by work, then AT followed by volume and page number.]
 
 [^descartes-1985]: Descartes, René, *The Philosophical Writings Of Descartes*, 3 vol., tr. J. Cottingham, R. Stoothoff, and D. Murdoch, volume 3 including A. Kenny, Cambridge: Cambridge University Press, 1985–8. [Cited by work, then as CSM(K) followed by volume and page number. All translations not my own are from this edition.]
 
 [^princess-2007]: Princess Elisabeth of Bohemia and René Descartes, *The Correspondence Between Princess Elisabeth of Bohemia and René Descartes*, ed and tr. L. Shapiro, Chicago: University of Chicago Press, 2007.
-
-[^all-nd]: [All citations to works of Hobbes are given by chapter and paragraph.]
 
 [^hobbes-1839]: Hobbes, Thomas, *The English Works of Thomas Hobbes of Malmesbury*, ed. Sir W. Molesworth, London: J. Bohn, 1839–45.
 
@@ -278,17 +288,11 @@ Initial work on these entries was supported by a fellowship from Stanford Humani
 
 [^hobbes-1994-2]: Hobbes, Thomas, *Elements of Law: Human Nature and de Corpore Politico with Three Lives* (with selections from *de Corpore*, chapters I, VI and XXV), ed. J.C.A. Gaskin, Oxford: Oxford University Press, 1994.
 
-[^all-nd-2]: [All citations to *The Search after Truth* (ST) give the number of Book, chapter and page. Citations to the *Dialogues on Metaphysics and on Religion* (DMR) give the page number.]
-
 [^malebranche-1997]: Malebranche, Nicolas, *The Search after Truth*, tr. T. Lennon and P. Olscamp, Cambridge: Cambridge University Press, 1997.
 
 [^malebranche-1997-2]: Malebranche, Nicolas, *Dialogues on Metaphysics and on Religion*, tr. N. Jolley and D. Scott, Cambridge: Cambridge University Press, 1997.
 
-[^references-nd]: [References to the *Ethics* are by part (I-V), definition, (D), proposition (P), or other subsection, and if applicable, to scholium (s), demonstration, or corollary (c).]
-
 [^spinoza-1985]: Spinoza, B., *Ethics* in *The Collected Works of Spinoza* vol. 1, tr. E. Curley, Princeton, N.J.: Princeton University Press, 1985.
-
-[^see-nd-3]: [See below for sections on Hume, Hutcheson, and Shaftesbury.]
 
 [^anon-1741]: Anon., *An Enquiry into the Origin of Human Appetites and Affections, Showing How Each Arises from Association: for the use of young gentlemen at the universities*, 1741. (Cited in Gardiner 1970, 221.)
 
@@ -336,8 +340,6 @@ Initial work on these entries was supported by a fellowship from Stanford Humani
 
 [^wollstonecraft-1792]: Wollstonecraft, Mary, *A Vindication of the Rights of Woman with Strictures on Political and Moral Subjects*, London: J. Johnson, 1792.
 
-[^see-nd-4]: [See remarks on citations]
-
 [^hume-1975]: Hume, David, *A Treatise of Human Nature*, ed. L.A. Selby-Bigge, rev. P.H. Nidditch, Oxford: Clarendon Press, 1975. [All citations to the Treatise refer to this edition, cited as T, followed by Book, Part, Section and then page number.] Selections available in Raphael, 1991, Vol. II.
 
 [^hume-1828]: Hume, David, “Dissertation on the Passions”, in *The Philosophical Works of David Hume*, vol. 4, Edinburgh, 1828.
@@ -349,8 +351,6 @@ Initial work on these entries was supported by a fellowship from Stanford Humani
 [^hume-1748]: Hume, David, *Enquiry Concerning Human Understanding*, 1748; selections in Raphael, 1991, Vol. II.
 
 [^hume-1991]: Hume, David, “Two letters to F. Hutcheson”, in Raphael 1991, Vol. II.
-
-[^see-nd-5]: [See remarks on citations]
 
 [^hutcheson-2002]: Hutcheson, Francis, *Essay on the Nature and Conduct of the Passions with Illustrations on the Moral Sense*, ed. A. Garrett, Indianapolis, IN: Liberty Fund, 2002. Selections available in Raphael, 1991, Vol. I. (henceforth *Essay*)
 

@@ -175,6 +175,8 @@ There is perhaps no better summary than this of Adorno’s view of the state of 
 
 ### A. Primary Literature
 
+References to the works by Adorno are listed in the following subsections:
+
 #### 1. Cited Works by Adorno
 
 #### 2. Works by Adorno Not in Either GS or NS
@@ -208,8 +210,6 @@ Benjamin, Walter | contradiction | critical theory | domination | Enlightenment 
 ### Acknowledgments
 
 As of the November 2024 update, Henry Pickford has taken over responsibility for updating and maintaing this entry.
-
-[^references-nd]: References to the works by Adorno are listed in the following subsections:
 
 [^cited-1970]: Cited Works by Adorno: lists works by Adorno that are cited in the essay, chronologically by date of original publication or, if published posthumously, date of transcript. The abbreviation “GS” or “NS” after an entry indicates where the text can be found in Adorno’s collected writings. “GS” indicates writings published during Adorno’s lifetime and collected in the 20 volumes of Theodor W. Adorno, *Gesammelte* *Schriften*, edited by Rolf Tiedemann in collaboration with Gretel Adorno, Susan Buck-Morss, and Klaus Schultz (Frankfurt am Main: Suhrkamp, 1970–1986). “NS” indicates posthumous works that are appearing as editions of the Theodor W. Adorno Archive in the collection *Nachgelassene* *Schriften* (Frankfurt am Main: Suhrkamp, 1993–).
 

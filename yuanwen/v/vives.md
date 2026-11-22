@@ -73,6 +73,8 @@ During the second half of the nineteenth century and the fist decades of the twe
 
 ### Primary Sources
 
+Citations by volume and page only are to the Mayans y Siscár edition of the *Opera Omnia*.
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -90,8 +92,6 @@ During the second half of the nineteenth century and the fist decades of the twe
 ## Related Entries
 
 Aristotelianism: in the Renaissance | Bacon, Francis | emotion: 17th and 18th century theories of | Erasmus, Desiderius | Gassendi, Pierre | humanism: in the Renaissance | More, Thomas | Peter of Spain [= Petrus Hispanus] | *sophismata* [= sophisms] | terms, properties of: medieval theories of
-
-[^citations-nd]: Citations by volume and page only are to the Mayans y Siscár edition of the *Opera Omnia*.
 
 [^fable-1948]: “A Fable about Man”, transl. Nancy Lenkeith, in *The Renaissance Philosophy of Man*, ed. by Ernst Cassirer et al., Chicago: University of Chicago Press, 1948, 387–93 [English translation of ‘Fabula de homine’].
 

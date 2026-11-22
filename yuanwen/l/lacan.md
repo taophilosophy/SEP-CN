@@ -153,6 +153,8 @@ Furthermore, there indeed is a thread of continuity between the *a* of the mirro
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+As regards secondary sources, I have been highly selective in compiling the list that follows. There are mountains of literature on Lacan in multiple languages. Moreover, these bodies of scholarship cover Lacan’s ideas from a vast array of disciplinary angles. Considering the context of this overview, the secondary sources listed below are, for the most part, books in English with more of a philosophical/theoretical focus.
+
 ### A. Primary Sources
 
 #### Work by Lacan in French
@@ -193,8 +195,6 @@ Furthermore, there indeed is a thread of continuity between the *a* of the mirro
 Althusser, Louis | desire | feminist philosophy, approaches: continental philosophy | feminist philosophy, approaches: psychoanalytic philosophy | Freud, Sigmund | Hegel, Georg Wilhelm Friedrich | Kant, Immanuel: critique of metaphysics | love | postmodernism
 
 [^several-2025]: Several remarks are warranted about the bibliographies of primary and secondary Lacanian literature below. As regards primary sources, nineteen of Lacan’s twenty-five annual seminars have been published by Jacques-Alain Miller through the Champ freudien series. As of 2025, the following seminars are available in official French editions: I, II, III, IV, V, VI, VII, VIII, X, XI, XII, XIV, XV, XVI, XVII, XVIII, XIX, XX, and XXIII (with XIII scheduled for release in early 2026 by Seuil). Of these, sixteen have been published as authorized English translations: I, II, III, IV, V, VI, VII, VIII, X, XI, XVI, XVII, XVIII, XIX, XX, and XXIII (with an English translation of XIV scheduled for publication in mid-2026). The primary sources listed below are the available book-length texts by Lacan. These lists do not include various separate essay-length pieces scattered across numerous places.
-
-[^as-nd]: As regards secondary sources, I have been highly selective in compiling the list that follows. There are mountains of literature on Lacan in multiple languages. Moreover, these bodies of scholarship cover Lacan’s ideas from a vast array of disciplinary angles. Considering the context of this overview, the secondary sources listed below are, for the most part, books in English with more of a philosophical/theoretical focus.
 
 [^lacan-2001]: 2001, *Autres écrits*, Jacques-Alain Miller (ed.), Paris: Éditions du Seuil. Includes:
 

@@ -645,6 +645,14 @@ At this point, many issues become relevant to further discussions of logical for
 
 ### Some Other Useful Works
 
+A few helpful overviews of the history and basic subject matter of logic:
+
+For introductions to Transformational Grammar and Chomsky’s conception of natural language:
+
+For discussions of work in linguistics bearing directly on issues of logical form:
+
+For discussions of the Davidsonian program (briefly described in section nine) and appeal to events:
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logical-form). |
@@ -801,8 +809,6 @@ The author would like to thank: Christopher Menzel for spotting an error in an e
 
 [^wittgenstein-1953]: –––, 1953. *Philosophical Investigations*, New York: Macmillan.
 
-[^logical-form-nd]: A few helpful overviews of the history and basic subject matter of logic:
-
 [^kneale-1962]: Kneale, W. & Kneale, M., 1962, *The Development of Logic*, Oxford: Oxford University Press; reprinted 1984.
 
 [^sainsbury-1991]: Sainsbury, M., 1991, *Logical Forms*, Oxford: Blackwell.
@@ -811,15 +817,11 @@ The author would like to thank: Christopher Menzel for spotting an error in an e
 
 [^for-1919]: For these purposes, Russell’s most important books are: *Introduction to Mathematical Philosophy*, London: George Allen and Unwin, 1919; *Our Knowledge of the External World*, New York: Norton, 1929; and *The Philosophy of Logical Atomism*, La Salle, Ill: Open Court, 1985. Stephen Neale’s book *Descriptions* (Cambridge, MA: MIT Press, 1990) is a recent development of Russell’s theory.
 
-[^for-nd]: For introductions to Transformational Grammar and Chomsky’s conception of natural language:
-
 [^radford-1988]: Radford, A., 1988, *Transformational Grammar*, Cambridge: Cambridge University Press.
 
 [^haegeman-1994]: Haegeman, L., 1994, *Introduction to Government & Binding Theory*, Oxford: Blackwell.
 
 [^lasnik-2000]: Lasnik, H. (with M. Depiante and A. Stepanov), 2000, *Syntactic Structures Revisited*, Cambridge, MA: MIT Press.
-
-[^for-nd-2]: For discussions of work in linguistics bearing directly on issues of logical form:
 
 [^higginbotham-1985]: Higginbotham, J., 1985, “On Semantics”, *Linguistic Inquiry*, 16: 547–93.
 
@@ -830,8 +832,6 @@ The author would like to thank: Christopher Menzel for spotting an error in an e
 [^may-1985-2]: May, R., 1985, *Logical Form: Its Structure and Derivation*, Cambridge, MA: MIT Press.
 
 [^neale-1993]: Neale, S., 1993, *Grammatical Form, Logical Form, and Incomplete Symbols*, in A. Irvine & G. Wedeking (eds.), *Russell and Analytic Philosophy*, Toronto: University of Toronto, pp. 97–139.
-
-[^for-nd-3]: For discussions of the Davidsonian program (briefly described in section nine) and appeal to events:
 
 [^davidson-1984-2]: Davidson, D., 1984, *Essays on Truth and Interpretation*, Oxford: OUP.
 

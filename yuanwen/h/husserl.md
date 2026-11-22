@@ -325,6 +325,8 @@ The same holds true for others, and so ultimately “Everybody is co-responsible
 
 ### A. Primary Literature
 
+References to the Husserliana, the text critical edition of Husserl’s work, are given by volume number, with the page number(s) following a slash (e.g., Hua 25/104–5). Most English translations include references to the Hua pagination in the margin or inserted into the text. Where translations lack such references, a parallel citation is provided to the translation.
+
 #### A.1 Husserliana (Cited Hua)
 
 #### A.2 Husserliana Materialenband (cited Hua Mat)
@@ -361,8 +363,6 @@ consciousness | consciousness: and intentionality | Heidegger, Martin | idealism
 [^note-1]: It has occasionally been claimed that it was Frege’s review of this work that made Husserl modify his view (Føllesdal 1958)[^føllesdal-1958]. But others have pointed to Husserl’s own studies of Lotze and Bolzano as being the decisive factor (Mohanty 1977; Bernet, Kern, & Marbach 1993)[^bernet-1993][^mohanty-1977].
 
 [^note-2]: For an alternative interpretation that considers phenomenology as merely one part of Husserl’s philosophical system, see D. W. Smith 2013.
-
-[^references-nd]: References to the Husserliana, the text critical edition of Husserl’s work, are given by volume number, with the page number(s) following a slash (e.g., Hua 25/104–5). Most English translations include references to the Hua pagination in the margin or inserted into the text. Where translations lack such references, a parallel citation is provided to the translation.
 
 [^husserliana-1950]: Husserliana 1: *Cartesianische Meditationen und Pariser Vorträge*, Stephan Strasser (ed.), The Hague: Martinus Nijhoff, 1950. Pages 3–39 translated as *The Paris Lectures*, Peter Koestenbaum (trans.), The Hague: M. Nijhoff, 1964. Pages 43–183 translated as *Cartesian Meditations: An Introduction to Phenomenology*, Dorion Cairns (trans.), The Hague: M. Nijhoff, 1960.
 

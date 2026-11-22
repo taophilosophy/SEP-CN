@@ -180,6 +180,8 @@ Many aspects of these questions have been addressed in vast body of commentarial
 
 ### Primary Literature
 
+[NB. Of the many different translations of Nāgārjuna’s works this list gives those English versions (often accompanied by a traditional or modern commentary) that are particularly accessible to philosophers without specialized training in Indology.]
+
 ### Secondary literature
 
 ## Academic Tools
@@ -204,8 +206,6 @@ Buddha | Early Modern India, analytic philosophy in | Indian Philosophy (Classic
 ### Acknowledgments
 
 The editors would like to thank Gintautas Miliauskas (Vilnius University) for notifying us about several typographical errors in this entry.
-
-[^nb-nd]: [NB. Of the many different translations of Nāgārjuna’s works this list gives those English versions (often accompanied by a traditional or modern commentary) that are particularly accessible to philosophers without specialized training in Indology.]
 
 [^garfield-2005]: Garfield, Jay, *The Fundamental Wisdom of the Middle Way. Translation and Commentary of Nāgārjuna’s Mūlamadhyamakakārikā*, Oxford: Oxford University Press, 2005.
 

@@ -131,6 +131,8 @@ Beyond these areas of focus, recent scholarship has examined Reinhold’s accoun
 
 ### Reinhold’s Works in German and English in Chronological Order
 
+(Note that almost all of Reinhold’s books consist of revised versions of material that originally appeared in the form of journal articles. For a complete listing of all of Reinhold’s writings, see the bibliography by Alexander von Schönborn.) In this entry, citations to Reinhold’s works refer to the original pagination along with the page number corresponding to *Karl Leonhard Reinhold: Gesammelte Schriften* (*RGS*). Where texts have not yet been published in the *RGS*, additional page numbers are given from the most recent edition.
+
 ### Selected Secondary Literature About Reinhold
 
 ### Journal
@@ -150,8 +152,6 @@ Beyond these areas of focus, recent scholarship has examined Reinhold’s accoun
 ## Related Entries
 
 Fichte, Johann Gottlieb | Hegel, Georg Wilhelm Friedrich | Kant, Immanuel
-
-[^note-nd]: (Note that almost all of Reinhold’s books consist of revised versions of material that originally appeared in the form of journal articles. For a complete listing of all of Reinhold’s writings, see the bibliography by Alexander von Schönborn.) In this entry, citations to Reinhold’s works refer to the original pagination along with the page number corresponding to *Karl Leonhard Reinhold: Gesammelte Schriften* (*RGS*). Where texts have not yet been published in the *RGS*, additional page numbers are given from the most recent edition.
 
 [^schriften-1782]: *Schriften zur Religionskritik und Aufklärung, 1782–1784*, ed. Zwi Batscha, Bremen: Jacobi-Verlag, 1977.
 

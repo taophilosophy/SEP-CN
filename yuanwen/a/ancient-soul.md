@@ -135,11 +135,15 @@ Ancient philosophy did not, of course, end with classical Stoicism, or indeed wi
 
 ### F. Aristotle’s Theory of Soul
 
+(cf. bibliography included in Christopher Shields’s article on Aristotle’s psychology)
+
 ### G. Epicurus’ Theory of Soul
 
 ### H. The Stoic Theory of Soul
 
 ### I. Other Ancient Theories of Soul
+
+(cf. bibliography included in Lloyd Gerson’s article on Plotinus)
 
 ## Academic Tools
 
@@ -237,8 +241,6 @@ Aristotle, General Topics: psychology | Plato: ethics | Plato: ethics and politi
 
 [^woods-1987]: Woods, M., 1987, “Plato’s Division of the Soul”, *Proceedings of the British Academy*, 73: 23–47.
 
-[^christopher-nd]: (cf. bibliography included in Christopher Shields’s article on Aristotle’s psychology)
-
 [^cohoe-2022]: Cohoe, C., 2022, “The Separability of *Nous*”, in Cohoe, *Aristotle’s On the Soul: A Critical Guide*, Cambridge: Cambridge University Press, 229–247.
 
 [^charles-2021]: Charles, D., 2021, *The Undivided Self: Aristotle and the Mind-Body Problem*, Oxford: Oxford University Press.
@@ -270,8 +272,6 @@ Aristotle, General Topics: psychology | Plato: ethics | Plato: ethics and politi
 [^long-1999-2]: Long, A. A., 1999, “Stoic Psychology”, in K. Algra, J. Barnes, J. Mansfeld & M. Schofield 1999 (Bibliography/Section B) Cambridge: 560–84.
 
 [^lorenz-2011]: Lorenz, H., 2011, “Posidonius on the Nature and Treatment of the Emotions”, in *Oxford Studies in Ancient Philosophy*, 40: 189–211
-
-[^lloyd-nd]: (cf. bibliography included in Lloyd Gerson’s article on Plotinus)
 
 [^armstrong-1967]: Armstrong, A. H., (ed.), 1967, *The Cambridge History of Later Greek and Early Medieval Philosophy*, Cambridge: Cambridge University Press.
 

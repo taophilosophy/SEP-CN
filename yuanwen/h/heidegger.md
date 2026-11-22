@@ -620,6 +620,8 @@ For a more detailed account of Heidegger’s “other beginning”, see [supplem
 
 #### A.1 *Gesamtausgabe* (Heidegger’s Collected Works)
 
+All volumes of Heidegger’s collected works or *Gesamtausgabe* (abbreviated *GA*) are published in Frankfurt am Main by Klostermann. Where available, information is included on English-language translations. Existing translations have been altered for consistency. Most translations include references to the GA pagination in the margin, in the header, or inserted into the text. Where translations lack such references, a parallel citation is provided to the translation.
+
 **GA3**
 
 *Kant und das Problem der Metaphysik*, first published 1929, published in GA 1991. Translated as: *Kant and the Problem of Metaphysics*, Richard Taft (trans.), Bloomington, IN: Indiana University Press, 1997.
@@ -1333,8 +1335,6 @@ One can detect in this passage from the late 1930s and early 1940s Heidegger’s
 [^note-110]: 110\. A poetic dwelling consists in “the way [mortals] preserve the fourfold in its essence” (GA7: 152 / PLT 148).
 
 [^note-111]: 111\. “[E]arth and sky, divinities and mortals, united to each other of their own accord, belong together by way of the simpleness of the united fourfold. Each of the four reflects in its own way the essence of the others. At the same time, each in its own way is reflected back into its own, within the simple onefold of the four…. None of the four insists on its own separate particularity”. (GA7: 171 / PLT 179).
-
-[^all-nd]: All volumes of Heidegger’s collected works or *Gesamtausgabe* (abbreviated *GA*) are published in Frankfurt am Main by Klostermann. Where available, information is included on English-language translations. Existing translations have been altered for consistency. Most translations include references to the GA pagination in the margin, in the header, or inserted into the text. Where translations lack such references, a parallel citation is provided to the translation.
 
 [^backman-2020]: Backman, Jussi, 2020, “Radical Contextuality in Heidegger’s Postmetaphysics”, in Figal, D’Angelo, Keiling, and Yang 2020: 191–192 (ch. 10).
 

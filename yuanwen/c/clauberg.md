@@ -9,7 +9,7 @@ In a brief but productive career, Clauberg wrote on all areas of theoretical phi
 
 ## 1. Life and Works
 
-Clauberg was born on 24 February 1622 in Solingen (now in North Rhine-Westphalia) to Calvinist parents of middle-class backgrounds. After spending two years at the gymnasium in Moers, he moved in 1639 to Bremen to complete his studies. The Bremen gymnasium enjoyed a particularly strong reputation in Northern European Reformed circles with an emphasis on classical and oriental languages, irenical theology, and humanist philosophy. The professors of philosophy, Balthasar Willius (1606–56) and Gérard de Neufville (1590–1648), would leave a lasting mark on Clauberg, especially with respect to their pupil’s lifelong appreciation of Aristotle and his profound interest in philosophy’s educational function (on de Neufville’s influence, see Collacciani 2020)[^collacciani-2020]. From Bremen, Clauberg moved to the University of Groningen in 1644, which had recently become the focus of Descartes’s efforts to have his works cleared of theological censure. It was during his two years at Groningen that Clauberg probably encountered Descartes’s philosophy for the first time, no doubt under the tutelage of a fellow Bremen alumnus, Tobias Andreae (1604–76), professor of History and Greek and Descartes’s main contact at the university. In 1646 Clauberg left to travel to France and England, including a year spent at the Huguenot academy in Saumur. During his absence, Andreae oversaw the publication of the first edition of Clauberg’s ontology, *Elementa philosophiae sive ontosophia* (1647), a work Clauberg had written while still at the Bremen gymnasium (Verbeek 1999a)[^verbeek-1999a][^verbeek-1999a-2].
+Clauberg was born on 24 February 1622 in Solingen (now in North Rhine-Westphalia) to Calvinist parents of middle-class backgrounds. After spending two years at the gymnasium in Moers, he moved in 1639 to Bremen to complete his studies. The Bremen gymnasium enjoyed a particularly strong reputation in Northern European Reformed circles with an emphasis on classical and oriental languages, irenical theology, and humanist philosophy. The professors of philosophy, Balthasar Willius (1606–56) and Gérard de Neufville (1590–1648), would leave a lasting mark on Clauberg, especially with respect to their pupil’s lifelong appreciation of Aristotle and his profound interest in philosophy’s educational function (on de Neufville’s influence, see Collacciani 2020)[^collacciani-2020]. From Bremen, Clauberg moved to the University of Groningen in 1644, which had recently become the focus of Descartes’s efforts to have his works cleared of theological censure. It was during his two years at Groningen that Clauberg probably encountered Descartes’s philosophy for the first time, no doubt under the tutelage of a fellow Bremen alumnus, Tobias Andreae (1604–76), professor of History and Greek and Descartes’s main contact at the university. In 1646 Clauberg left to travel to France and England, including a year spent at the Huguenot academy in Saumur. During his absence, Andreae oversaw the publication of the first edition of Clauberg’s ontology, *Elementa philosophiae sive ontosophia* (1647), a work Clauberg had written while still at the Bremen gymnasium (Verbeek 1999a)[^verbeek-1999a].
 
 Clauberg returned to the Netherlands in early 1648, and quickly became involved in the small but now established Dutch Cartesian circles. He was present in Amsterdam on 20 April 1648, where he either copied or helped to draft a report of Descartes’s conversation in Egmond four days earlier with Frans Burman, a theology student at Leiden. A copy of Clauberg’s manuscript of the “Conversation with Burman” was discovered in 1895 in Göttingen and published by Charles Adam, which secured Clauberg’s place in subsequent Cartesian studies (see Arndt 1982 for details of the editions of this text)[^arndt-1982]. After spending another year in Leiden attending lectures by Johannes de Raey (1622–1702), Clauberg embarked on his own professorial career, beginning in September 1649 at the famous Calvinist academy in Herborn. His two years there were less than satisfying, however, partly on account of the academy’s declared opposition to any approaches other than the Aristotelian and the Ramist. Around Christmas 1651 Clauberg left Herborn for Duisburg, initially to take up an appointment at the gymnasium, but within a few years to become the first rector of the town’s new university (see Hamid 2020 for details of the university’s founding)[^hamid-2020].
 
@@ -226,6 +226,12 @@ As for the referential character of sensations, Clauberg regards it as analogous
 
 ### Clauberg’s Works
 
+Verbeek (1999a: 187–94)[^verbeek-1999a] contains a comprehensive list of Clauberg’s works and their publication details (with some errors, corrected in the list below). Clauberg’s *Opera omnia* has been reprinted by Georg Olms as:
+
+Additionally, selections from various texts, including *Logica vetus et nova, Corporis et animae in homine conjunctio*, and *De cognitione Dei et nostri* exist in English, Italian, and German; for bibliographical details, see Ragni (2019a: 735–6)[^ragni-2019a]. In the entry above, references are to the *Opera omnia* edition, with the exception of *Elementa philosophiae*, which is not included in OO; *Unterscheid*, which appears in OO in a posthumously translated Latin version; and the “Prolegomena” and “Proemium” to *Logica*. All translations are my own.
+
+Below is a non-exhaustive list of Clauberg’s works published in his lifetime:
+
 ### Other Primary Sources
 
 ### Selected Secondary Literature
@@ -250,17 +256,11 @@ Descartes, René | Leibniz, Gottfried Wilhelm | occasionalism | Port Royal Logic
 
 The author would like to thank Adi Efal-Lautenschläger and Devin Curry for helpful comments on an earlier draft of this entry.
 
-[^verbeek-1999a]: Verbeek (1999a: 187–94) contains a comprehensive list of Clauberg’s works and their publication details (with some errors, corrected in the list below). Clauberg’s *Opera omnia* has been reprinted by Georg Olms as:
-
 [^opera-1968]: *Opera omnia philosophica*, 2 vols., Hildesheim: Georg Olms, 1968. [OO, cited by volume and page number]
 
 [^logica-1654]: *Logica vetus et nova* (1654) is the only work of Clauberg’s that exists in a complete modern translation:
 
 [^logique-2007]: *Logique ancienne et nouvelle*, Jacqueline Lagrée and Guillaume Coqui (eds. and trans.), Paris: Vrin, 2007.
-
-[^additionally-2019a]: Additionally, selections from various texts, including *Logica vetus et nova, Corporis et animae in homine conjunctio*, and *De cognitione Dei et nostri* exist in English, Italian, and German; for bibliographical details, see Ragni (2019a: 735–6). In the entry above, references are to the *Opera omnia* edition, with the exception of *Elementa philosophiae*, which is not included in OO; *Unterscheid*, which appears in OO in a posthumously translated Latin version; and the “Prolegomena” and “Proemium” to *Logica*. All translations are my own.
-
-[^below-nd]: Below is a non-exhaustive list of Clauberg’s works published in his lifetime:
 
 [^clauberg-1647]: 1647, *Elementa philosophiae sive ontosophia*, Groningen: Johann Nicolai. [*Elem. phil.*, by part and paragraph; and “Prolegomena”, by paragraph]
 
@@ -410,7 +410,7 @@ The author would like to thank Adi Efal-Lautenschläger and Devin Curry for help
 
 [^trevisani-1993]: –––, 1993, “Johannes Clauberg e l’Aristotele riformato”, in *L’interpretazione nei secoli XVI e XVII*, Guido Canziani (ed.), Milan: F. Angeli, 103–126.
 
-[^verbeek-1999a-2]: Verbeek, Theo, 1999a, “Johannes Clauberg: A Bio-Bibliographical Sketch”, in Verbeek 1999b: 181–199. doi:10.1007/978-94-015-9237-6_12
+[^verbeek-1999a]: Verbeek, Theo, 1999a, “Johannes Clauberg: A Bio-Bibliographical Sketch”, in Verbeek 1999b: 181–199. doi:10.1007/978-94-015-9237-6_12
 
 [^verbeek-1999b]: ––– (ed.), 1999b, *Johannes Clauberg (1622–1665): and Cartesian philosophy in the seventeenth century* (Archives internationales d’histoire des idées = International archives of the history of ideas 164), Dordrecht/Boston: Kluwer Academic Publishers. doi:10.1007/978-94-015-9237-6
 

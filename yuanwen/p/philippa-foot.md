@@ -227,6 +227,14 @@ These ongoing debates suggest that the position has come to occupy a significant
 
 ### Primary Sources
 
+When abbreviations are used to cite Foot’s works in the text, the abbreviation begins the bibliographic item below.
+
+Foot’s principal essays are collected in the following two volumes.
+
+Foot has one monograph:
+
+Individual papers cited in the text:
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -267,10 +275,6 @@ Parts of this entry are adapted with significant revisions from my book *Philipp
 
 [^note-8]: Portions of this section were published previously; see Hacker-Wright 2009 and see also 2012, 2013a.
 
-[^when-nd]: When abbreviations are used to cite Foot’s works in the text, the abbreviation begins the bibliographic item below.
-
-[^foot’s-nd]: Foot’s principal essays are collected in the following two volumes.
-
 [^md-2002]: [MD] *Moral Dilemmas and Other Topics in Moral Philosophy*, Oxford: Oxford University Press, 2002. doi:10.1093/019925284X.001.0001. Includes:
 
 [^md-1970]: 1970, “Morality and Art”, *Proceedings of the British Academy*, 56: 131–144; reprinted MD, 5–19.
@@ -301,11 +305,7 @@ Parts of this entry are adapted with significant revisions from my book *Philipp
 
 [^mshi-1978]: 1978, “Virtues and Vices”, essay for this volume, VV, 1–18.
 
-[^foot-nd]: Foot has one monograph:
-
 [^ng-2001]: [NG] *Natural Goodness*, Oxford: Oxford University Press, 2001. doi:10.1093/0198235089.001.0001
-
-[^individual-nd]: Individual papers cited in the text:
 
 [^rg-2004]: [RG] “Rationality and Goodness” in *Modern Moral Philosophy*, (*Royal Institute of Philosophy Supplement 54*), Anthony O’Hear (ed.), Cambridge: Cambridge University Press, 2004: 1–14. doi:10.1017/CBO9780511550836.002
 

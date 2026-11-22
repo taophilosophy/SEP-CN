@@ -424,6 +424,10 @@ The Indian Buddhist account of reflexive awareness has also been interpreted as 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Given the voluminous number of works that discuss consciousness, intentionality, perception, and related topics, the following list is confined to those especially relevant to the present article. The list of primary sources includes translations, mostly into English, French, and German of the works cited or mentioned above. Several works listed in the secondary bibliography also include substantive translations from primary sources.
+
+References in this article use the following abbreviations:
+
 ### A. Primary Sources
 
 ### B. Secondary Sources
@@ -451,10 +455,6 @@ Abhidharma | Asaṅga | Buddha | consciousness | consciousness: and intentionali
 [^note-2]: Abbreviation for Sanskrit. Unless otherwise specified, technical terms in parenthesis are given in their original Sanskrit form.
 
 [^note-3]: See Hattori (1968, 88f), for the Sanskrit *cakṣurvijñānasamangi nīlam vijānāti no tu nīlam iti. arthe arthasaṃjñī na tu arthe dharma-saṁjñīti*.
-
-[^given-nd]: Given the voluminous number of works that discuss consciousness, intentionality, perception, and related topics, the following list is confined to those especially relevant to the present article. The list of primary sources includes translations, mostly into English, French, and German of the works cited or mentioned above. Several works listed in the secondary bibliography also include substantive translations from primary sources.
-
-[^references-nd]: References in this article use the following abbreviations:
 
 [^apv-nd]: APV = *Ālambanaparīkṣā Vṛtti*.
 

@@ -799,6 +799,8 @@ Arguably, Descartes’ mind-*better*-known-than-body doctrine is intended as a *
 
 ### Primary Sources
 
+Abbreviations Used:
+
 | *Rules* | = | *Rules for the Direction of our Native Intelligence* |
 | --- | --- | --- |
 | *Discourse* | = | *Discourse on Method* |
@@ -811,6 +813,8 @@ Arguably, Descartes’ mind-*better*-known-than-body doctrine is intended as a *
 | *Search* | = | *The Search for Truth* |
 | AT | = | *Oeuvres de Descartes*, Adam, Charles, and Paul Tannery (eds.), 1904. Paris: J. Vrin. (References are to volume number and page.) |
 | CSM | = | *The Philosophical Writings of Descartes*, Cottingham, John, and Robert Stoothoff, and Dugald Murdoch. (eds.) 1984. Cambridge: Cambridge University Press. |
+
+Dates in parentheses indicate a reference to Descartes’ correspondence. All quoted texts are from CSM. For full bibliographic information on Descartes’ writings, see the entry on Descartes.
 
 ### Secondary Sources
 
@@ -835,10 +839,6 @@ Arguably, Descartes’ mind-*better*-known-than-body doctrine is intended as a *
 ### Acknowledgments
 
 Thanks to Robert Audi, Alan Nelson, Ram Neta, and Shaun Nichols, for helpful discussions about the ideas in this essay.
-
-[^abbreviations-nd]: Abbreviations Used:
-
-[^dates-nd]: Dates in parentheses indicate a reference to Descartes’ correspondence. All quoted texts are from CSM. For full bibliographic information on Descartes’ writings, see the entry on Descartes.
 
 [^adams-1975]: Adams, Robert, 1975. “Where Do Our Ideas Come From? – Descartes vs. Locke,” *Innate Ideas*, ed. Stephen P. Stich, Berkeley: University of California Press, 71–87.
 

@@ -97,6 +97,8 @@ The philosopher who probably did the most singlehandedly to promote the recrudes
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+As well as identifying sources for Dewey’s primary texts and listing works referred here, this bibliography also contains some books, articles and chapters which can be studied to supplement the current article.
+
 ### Works by Dewey
 
 ### Secondary Literature
@@ -117,8 +119,6 @@ The philosopher who probably did the most singlehandedly to promote the recrudes
 ## Related Entries
 
 Addams, Jane | democracy | Dewey, John | Dewey, John: moral philosophy | liberalism | pragmatism Rorty, Richard
-
-[^as-nd]: As well as identifying sources for Dewey’s primary texts and listing works referred here, this bibliography also contains some books, articles and chapters which can be studied to supplement the current article.
 
 [^early-1882]: *The Early Works, 1882–1898*, 5 volumes, ed. by JoAnn Boydston, Carbondale: Southern Illinois University Press, 1969–1975 (abbreviated here *EW*, followed by volume number).
 

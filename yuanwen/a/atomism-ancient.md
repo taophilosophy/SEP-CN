@@ -193,6 +193,8 @@ Jonardon Ganeri (2011)[^ganeri-2011] has argued for regarding the early modern p
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+For works on atomism in the Indian philosophical traditions, on Leucippus, Democritus, Epicurus, Lucretius, al-Rāzī, Islamic and Renaissance atomism, see primarily the relevant articles in this encyclopedia. This bibliography focuses on sources for alternative varieties of atomism, as well as sources that connect and compare different periods and traditions.
+
 ### General
 
 ### Atomism in Classical Indian Philosophy
@@ -239,8 +241,6 @@ al-Razi, Abu Bakr | Arabic and Islamic Philosophy, disciplines in: natural philo
 This attempt to survey address similarities and differences in atomist thought between different traditions and time periods would not have been possible without generous assistance from a number of scholars. I wish to thank John Cooper, Patrick O’Donnell, Tim O’Keefe and Ednaldo Silva for helpful comments and suggestions on older versions of this article, and Charles Taylor for offering a link to his website translation of Luria’s collection on Democritus.
 
 In expanding the article to a more comprehensive crosscultural treatment, I particularly thank Alnoor Dhanani and Robert Wisnovsky for helpful advice and comments on atomism in Islamic thought; Amber Carpenter, Jonardon Ganeri and Cat Prueitt for invaluable help in writing the sections on Indian atomism; William Newman and Christoph Lüthy for feedback and references on the transmission of Islamic atomism into medieval Europe; and Ted Slingerland for advice on atomism in Chinese philosophy.
-
-[^for-nd]: For works on atomism in the Indian philosophical traditions, on Leucippus, Democritus, Epicurus, Lucretius, al-Rāzī, Islamic and Renaissance atomism, see primarily the relevant articles in this encyclopedia. This bibliography focuses on sources for alternative varieties of atomism, as well as sources that connect and compare different periods and traditions.
 
 [^dijksterhuis-1961]: Dijksterhuis, E.J., 1961. *The Mechanization of the World Picture*, trans. C. Dikshoorn. Oxford: Oxford University Press.
 

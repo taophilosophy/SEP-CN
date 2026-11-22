@@ -222,6 +222,8 @@ As we have shown above, Mally’s logical as well as ontological ideas, concepts
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+All quotations originally in German were translated by the authors of the entry.
+
 ### Primary Literature: Selection of Mally’s Writings
 
 ### Secondary Literature
@@ -243,8 +245,6 @@ As we have shown above, Mally’s logical as well as ontological ideas, concepts
 Brentano, Franz | existence | intentionality | logic: deontic | Mally, Ernst: deontic logic | Meinong, Alexius | nonexistent objects | possible objects
 
 [^for-1971]: For a complete bibliography (including the unpublished work) of Mally’s writings, see Wolf/Weingartner 1971: 325–331.
-
-[^all-nd]: All quotations originally in German were translated by the authors of the entry.
 
 [^mally-1904]: (1904) “Untersuchungen zur Gegenstandstheorie des Messens”, in A. Meinong (ed.), *Untersuchungen zur Gegenstandstheorie und Psychologie* (Volume 3), Leipzig: Barth, 121–262.
 

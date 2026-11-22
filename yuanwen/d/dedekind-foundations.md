@@ -181,6 +181,8 @@ If we look at Dedekind’s contributions from such a perspective, the sum total 
 
 ### Primary Literature (German Editions, English Translations)
 
+Works listed in this section are by Richard Dedekind, unless otherwise specified.
+
 | 1854 | “Über die Einführung neuer Funktionen in der Mathematik; Habilitationsvortrag”; in Dedekind (1930–32), Vol. 3, pp. 428–438. |
 | --- | --- |
 | 1857 | “Abriß einer Theorie der höheren Kongruenzen in bezug auf einen reellen Primzahl-Modulus”; reprinted in Dedekind (1930–32), Vol. 1, pp. 40–67. |
@@ -253,8 +255,6 @@ algebra | Frege, Gottlob | Hilbert, David: program in the foundations of mathema
 ### Acknowledgments
 
 This entry has benefited from comments, criticisms, and other feedback by Jeremy Avigad, Hourya Benis-Sinaceur, Stanley Burris, William Demopoulos, Diego Fernandes, José Ferreirós, Jeremy Heis, Ansten Klev, Stephan Müller-Stach, Katrin Scheel, Georg Schiemer, Dirk Schlimm, Wilfried Sieg, and the editors. As I have not adopted all of their suggestions, the remaining inaccuracies should all be attributed to me.
-
-[^works-nd]: Works listed in this section are by Richard Dedekind, unless otherwise specified.
 
 [^alten-2003]: Alten, H.-W., et al. (eds.), 2003, *4000 Jahre Algebra*, Berlin: Springer; especially Chapter 9, “Algebra an der Wende zum 20. Jahrhundert”, by K.-H. Schlote *et al*., pp. 475–550.
 

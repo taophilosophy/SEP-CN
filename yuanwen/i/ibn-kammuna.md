@@ -149,6 +149,8 @@ Finally, the second Gulf War and its severe impact on the Iraqi cultural heritag
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Note: We cite here the most important works, mainly in English. Pourjavady & Schmidtke has a very extensive bibliography. Additional materials are found in the preceding section (Recent Editions) as well as the internet resources listed in the following section.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ibn-kammuna). |
@@ -180,8 +182,6 @@ Much of the research for this entry was carried out during tenure of a grant fro
 [^note-4]: For some examples of such snippets, as well as further discussion of the assimilation of Islamic piety among some Jews in the Yemen, see Langermann 2003.
 
 [^note-5]: Our account here is based upon the Arabic text of Ibn Kammūna transcribed in Pourjavady and Schmidtke 2006, 45, n. 201, and al-Tusi’s reply, 209–210. In addition to the manuscripts listed by Pourjavady and Schmidtke, interested readers can be referred now to an online resource, Manuscript 35 in the Minasian collection at UCLA, 160ff., digitized images of which have been made public.
-
-[^note-nd]: Note: We cite here the most important works, mainly in English. Pourjavady & Schmidtke has a very extensive bibliography. Additional materials are found in the preceding section (Recent Editions) as well as the internet resources listed in the following section.
 
 [^alwishah-2017]: Alwishah, Ahemd, 2017, “Suhrawardi and Ibn Kammuna on the Impossibility of Having Two Necessary Existents,” in *Illuminationst Texts and Textual Studies: Essays in Memory of Hossein Ziai*, Ali Gheissari, John Walbridge, and Ahmed Alwishah (eds.), Leiden: Brill, 115–134.
 

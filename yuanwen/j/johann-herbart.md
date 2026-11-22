@@ -573,6 +573,8 @@ We began by asking how moral character is to be formed. This question finally ca
 
 ### Editions of Herbart’s works
 
+The entirety of SW is available through the HathiTrust Digital Library at: <[http://catalog.hathitrust.org/Record/005758671](http://catalog.hathitrust.org/Record/005758671)>
+
 ### Herbart’s writings
 
 ### Other works
@@ -799,8 +801,6 @@ Because the possibility of confusion is more acute in the case of the temporal, 
 [^johann-nd]: ¹1851, ²1886, *Johann Friedrich Herbart’s* [*sic*] *Sämmtliche Werke* (*J.F. Herbart’s Complete Works*), G. Hartenstein (ed.), Leipzig: Voss.
 
 [^herbart-1906]: 1906, *Johann Friedrich Herbart’s* [*sic*] *Sämtliche Werke in chronologischer Reihenfolge* (*J.F. Herbart’s Complete Works in Chronological Order*), K. Kehrbach and O. Flügel, (eds.), 19 vols., Langensalza: Beyer.
-
-[^sw-nd]: The entirety of SW is available through the HathiTrust Digital Library at: <[http://catalog.hathitrust.org/Record/005758671](http://catalog.hathitrust.org/Record/005758671)>
 
 [^herbart-1804a]: 1804a, “Pestalozzi’s [*sic*] Idee eines A B C der Anschauung”, SW I: 151–274.
 

@@ -153,6 +153,8 @@ While Voltaire’s attacks on Maupertuis crossed the line into *ad hominem*, at 
 
 ### Primary Literature
 
+Because of Voltaire’s celebrity, efforts to collect and canonize his writings began immediately after his death, and still continue today. The result has been the production of three major collections of his writings including his vast correspondence, the last unfinished. Together these constitute the authoritative corpus of Voltaire’s written work.
+
 ### Primary Literature in Translation
 
 #### Collections of Writings
@@ -192,8 +194,6 @@ Châtelet, Émilie du | Clarke, Samuel | Descartes, René | hedonism | Hume, Dav
 ## Notes（原文脚注）
 
 [^note-1]: David Wooton has very recently assessed the current state of scholarly thinking on Voltaire’s understanding of human liberty. See Wooton (2022)[^wooton-2022]. As he notes, the foundational work of Peter Gay (1959 & 1969), René Pomeau (1963)[^pomeau-1963], and Ira Wade (1969)[^wade-1969] have otherwise not been replaced as scholarly foundations, nor have the collections edited by S. Harvey (1994) and D. Williams (1994). See also the work of E.D. James (1978; 1980; 1984; & 1987).
-
-[^because-nd]: Because of Voltaire’s celebrity, efforts to collect and canonize his writings began immediately after his death, and still continue today. The result has been the production of three major collections of his writings including his vast correspondence, the last unfinished. Together these constitute the authoritative corpus of Voltaire’s written work.
 
 [^oeuvres-1829]: *Oeuvres complètes de Voltaire*, edited by A. Beuchot. 72 vols. Paris: Lefevre, 1829–1840.
 

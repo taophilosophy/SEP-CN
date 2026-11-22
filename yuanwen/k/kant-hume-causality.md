@@ -429,6 +429,8 @@ We can only have objective experience of particular events, for Kant, in so far 
 
 ### Secondary Sources
 
+The relevant secondary literature is vast. We confine ourselves to English-language literature and, more specifically, to the works cited in the text. These works can be consulted, in turn, for extensive references to other secondary literature.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-hume-causality). |
@@ -654,8 +656,6 @@ In section 2 above we discussed in detail the relationship between the general c
 [^citations-1999-2]: Citations from Newton’s *Principia* are to *The Principia: Mathematical Principles of Natural Philosophy*, translated and edited by I. Bernard Cohen and Anne Whitman, assisted by Julia Budenz (Berkeley and Los Angeles: University of California Press, 1999), and are given in the form (*Principia*, page numbers).
 
 [^citations-1730]: Citations from Newton’s *Opticks* are to *Opticks: or A Treatise of the Reflections, Refractions, Inflections & Colours of Light*, based on the fourth edition, London 1730 (New York: Dover, 1979), and are given in the form (*Opticks*, page numbers).
-
-[^we-nd]: The relevant secondary literature is vast. We confine ourselves to English-language literature and, more specifically, to the works cited in the text. These works can be consulted, in turn, for extensive references to other secondary literature.
 
 [^allison-1983]: Allison, Henry E., 1983, *Kant’s Transcendental Idealism: An Interpretation and Defense*, New Haven: Yale University Press.
 

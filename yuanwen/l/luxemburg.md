@@ -113,6 +113,8 @@ While Luxemburg’s writings are scattered and sometimes difficult to read, this
 
 #### Translations and Collections
 
+The main sources for Luxemburg's work are as follows, where the abbreviations used for citations in the text are in bold:
+
 **[AK]**
 
 1913, *Die Akkumulation des Kapitals*, Berlin: Paul Singer; translated as *The Accumulation of Capital*, Agnes Schwarzschild (trans.), London: Routledge, 2003 [1951].
@@ -144,8 +146,6 @@ While Luxemburg’s writings are scattered and sometimes difficult to read, this
 ## Related Entries
 
 capitalism | colonialism | democracy | exploitation | feminist philosophy, topics: perspectives on class and work | markets | Marx, Karl | Marxism, analytical | nationalism | revolution | social democracy | socialism
-
-[^luxemburg’s-nd]: The main sources for Luxemburg's work are as follows, where the abbreviations used for citations in the text are in bold:
 
 [^luxemburg-1900]: 1900, “Social Reform or Revolution” [“*Sozialreform oder Revolution?*”], Dick Howard (trans.), in [RLR], pp. 128–167.
 

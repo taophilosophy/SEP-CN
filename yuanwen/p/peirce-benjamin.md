@@ -45,6 +45,8 @@ Thus Peirce maintained the position asserted by Boole that mathematics could be 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+This list includes some valuable items not cited in the text.
+
 ### Primary Sources
 
 ### Secondary Sources
@@ -65,8 +67,6 @@ Thus Peirce maintained the position asserted by Boole that mathematics could be 
 ## Related Entries
 
 Peirce, Charles Sanders
-
-[^this-nd]: This list includes some valuable items not cited in the text.
 
 [^peirce-nd]: Peirce Manuscripts: Houghton Library, Harvard University.
 

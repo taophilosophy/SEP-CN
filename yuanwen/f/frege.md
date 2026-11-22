@@ -494,6 +494,10 @@ Finally, it is important to mention that, whatever the connection is between Fre
 
 #### Works by Frege Cited in this Entry
 
+Two useful source books for translations of Frege’s Writings are:
+
+Many of the works listed below are translated and collected in the above.
+
 | 1873 | *Über eine geometrische Darstellung der imaginären Gebilde in der Ebene*, Inaugural-Dissertation der Philosophischen Fakultät zu Göttingen zur Erlangung der Doktorwürde, Jena: A. Neuenhann, 1873; translated by H. Kaal, *On a Geometrical Representation of the Imaginary Forms in the Plane*, in McGuinness (ed.) 1984, pp. 1–55. |
 | --- | --- |
 | 1874 | *Rechnungsmethoden, die sich auf eine Erweiterung des Grössenbegriffes gründen*, Dissertation zur Erlangung der Venia Docendi bei der Philosophischen Fakultät in Jena, Jena: Friedrich Frommann, 1874; translation by H. Kaal, *Methods of Calculation based on an Extension of the Concept of Quantity*, in McGuinness (ed.) 1984, pp. 56–92. |
@@ -566,13 +570,9 @@ where $0 < b < 1$, and $a$ is a positive odd integer, and $ab > 1 + (3/2)\pi $.
 
 [^note-9]: In footnote 16 of Bobzien 2021, the following works are cited: Łukasiewicz 1935, 125; Bochenski 1956, 127; Mates 1961, 19–26, 46–7; Kneale & Kneale 1962, 531; and Gabriel, Hülser, & Schlotter 2009, 375–77. But see also Mates 1953 [1973, 19ff], who compared Frege’s *Sinn* and *Gedanke* to the Stoics’ *lekta* and *axiomata*; and Nuchelmans 1973, p. 85, section 5.2.2.
 
-[^two-nd]: Two useful source books for translations of Frege’s Writings are:
-
 [^geach-1980]: Geach, P., and M. Black (eds. and trans.), 1980, *Translations from the Philosophical Writings of Gottlob Frege*, Oxford: Blackwell, third edition.
 
 [^mcguinness-1984]: McGuinness, B. (ed.), 1984, *Collected Papers on Mathematics, Logic, and Philosophy*, Oxford: Blackwell.
-
-[^many-nd]: Many of the works listed below are translated and collected in the above.
 
 [^anderson-2004]: Anderson, D., and Zalta, E., 2004, “Frege, Boolos, and Logical Objects”, *Journal of Philosophical Logic*, 33(1): 1–26.
 

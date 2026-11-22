@@ -405,6 +405,8 @@ The Ehrenfests’ reading of Boltzmann’s intentions has thus some undeniable a
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+In the foregoing and below, “**WA**” refers to:
+
 > Boltzmann, L., 1909, *Wissenschaftliche Abhandlungen*, Vol. I, II, and III, F. Hasenöhrl (ed.), Leipzig: Barth; reissued New York: Chelsea, 1969.
 
 ### Primary Sources
@@ -463,8 +465,6 @@ Another dispute has emerged concerning the etymology of the term. The common opi
 [^note-12]: The term “cyclic” is missing in Brush's translation.
 
 [^note-13]: Actually, as the Ehrenfests showed more clearly, there is also a third possible case, namely (c): *H*₀ lies on a local minimum of the curve. But that case is even more improbable than case (b) above.
-
-[^wa-nd]: In the foregoing and below, “**WA**” refers to:
 
 [^but-1981]: But see also, Roman U. Sexl (ed.), *Ludwig Boltzmann Gesamtausgabe*, Graz: Akademische Druck- und Verlagsanstalt, 1981; originally published Leipzig: Barth, 1891–1920.
 

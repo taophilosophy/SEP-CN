@@ -219,15 +219,21 @@ Eriugena is an original philosopher who articulates the relation between God and
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The Theory and History of Ontology website provides an almost exhaustive bibliography in two parts:
+
 ### Eriugena’s Works
 
 #### Collected works
 
 #### *Periphyseon*
 
+Also known as *De divisione naturae*.
+
 #### Other individual works
 
 ### Other Early Works Mentioned
+
+PL stands for *Patrologia Latina* (in Latin) and PG for *Patrologia Graeca* (Greek with Latin translation) both series edited by Jacques-Paul Migne and printed in Paris; note that citations to PL and PG use column number not page number.
 
 ### Secondary Literature
 
@@ -248,15 +254,11 @@ Eriugena is an original philosopher who articulates the relation between God and
 
 al-Kindi | Augustine of Hippo | Boethius, Anicius Manlius Severinus | Christian theology, philosophy and | existence | God: and other ultimates | idealism | Neoplatonism | Proclus | Pseudo-Dionysius the Areopagite | soul, ancient theories of
 
-[^theory-nd]: The Theory and History of Ontology website provides an almost exhaustive bibliography in two parts:
+[^scottus-eriugena-nd]: [https://www.ontology.co/biblio/eriugena-biblio-one.htm](https://www.ontology.co/biblio/eriugena-biblio-one.htm)
 
-[^theory-nd-2]: [https://www.ontology.co/biblio/eriugena-biblio-one.htm](https://www.ontology.co/biblio/eriugena-biblio-one.htm)
-
-[^theory-nd-3]: [https://www.ontology.co/biblio/eriugena-biblio-two.htm](https://www.ontology.co/biblio/eriugena-biblio-two.htm)
+[^scottus-eriugena-nd-2]: [https://www.ontology.co/biblio/eriugena-biblio-two.htm](https://www.ontology.co/biblio/eriugena-biblio-two.htm)
 
 [^pl-1853]: [PL 122] *Johannis Scoti Opera quae supersunt Omnia*, Henricus Josephus Floss (ed.), (Patrologia Latina 122), Paris, 1853. [[PL 122 available online](https://archive.org/details/operaquaesupers01flosgoog/page/n11)]
-
-[^also-nd]: Also known as *De divisione naturae*.
 
 [^gale-1681]: [Gale] *De divisione naturae libri quinque div desiderati*, Oxford: Theatro Sheldoniano, 1681. [[Gale edition available online](http://archive.org/details/bub_gb_hGQyB47F348C)]
 
@@ -311,8 +313,6 @@ al-Kindi | Augustine of Hippo | Boethius, Anicius Manlius Severinus | Christian 
 [^jean-1972]: *Jean Scot: Commentaire sur l’Evangile de Jean* (*Commentary on the Gospel of St. John*), Édouard Jeauneau (ed.), (Sources Chrétiennes 180), Paris: Cerf, 1972.
 
 [^jean-1969]: *Jean Scot: L’Homélie sur le Prologue de Jean* (*Sermon on the Prologue to St. John*), Édouard Jeauneau (ed.), (Sources Chrétiennes 151), Paris: Editions du Cerf, 1969.
-
-[^pl-nd]: PL stands for *Patrologia Latina* (in Latin) and PG for *Patrologia Graeca* (Greek with Latin translation) both series edited by Jacques-Paul Migne and printed in Paris; note that citations to PL and PG use column number not page number.
 
 [^athanasius-1857]: Athanasius, *De incarnatione*, PG, volume 25, 1857, 95–196. [[PG 25 available online](https://archive.org/details/patrologiae_cursus_completus_gr_vol_025/page/n7)]
 

@@ -397,6 +397,8 @@ It is sometimes suggested that Walter Chatton was not a very original philosophe
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The majority of secondary literature on Chatton is in English, Italian, and French, but some important work is in German as well.
+
 ### Chatton’s Works
 
 #### Genuine
@@ -451,8 +453,6 @@ Aquinas, Thomas | Auriol [Aureol, Aureoli], Peter | categories: medieval theorie
 [^note-11]: Like the early Wittgenstein, Chatton thinks a proposition has both a true and a false pole, or, as Chatton puts it, a proposition and its negation signify exactly the same *res*. If it were otherwise, then ‘Socrates is sitting’ and ‘Socrates is not sitting’ would not be contradictories, that is, they would not contradict each other over one and the same piece of reality.
 
 [^note-12]: Consequently, this summary relies on his writings from the late 30s, viz., his *Quodlibet*, especially questions 1, 12, and 16. There is no other scholarly literature on his ethical views.
-
-[^chatton-nd]: The majority of secondary literature on Chatton is in English, Italian, and French, but some important work is in German as well.
 
 [^de-1931]: *De paupertate evangelica*. A short treatise on the Franciscan poverty controversy. Edited in Decima L. Douie, “Three treatises on Evangelical Poverty,” *Archivum Franciscanum Historicum* 24 (1931): 341–69. Continued in 25 (1932): 36–58, and 26 (1932): 210–40.
 

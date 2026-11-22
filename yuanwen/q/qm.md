@@ -243,13 +243,21 @@ This should be all the initial preparation one needs to *approach* the philosoph
 
 ### Books Useful For Beginners
 
+Here are some recent books that will be especially useful to beginners.
+
 ### Helpful papers Deriving Quantum Mechanics from Simple Axioms
 
 ### Quantum Mechanics Textbooks
 
+There are a great many textbooks available for studying quantum mechanics. Here are a few especially important ones with some notes to guide choices among them. It is good to work with two or three texts when learning QM. No text is perfect and differences in approach can illuminate the subject from different angles.
+
 ### Useful General Texts in Mathematics and Physics
 
+Whether studying quantum mechanics on one’s own, or in a classroom setting, it is useful to have these books on hand as accompaniments. Even a seasoned teacher will find himself from time to time reaching for them:
+
 ### Books on Philosophy of QM
+
+The last three decades have been a golden age for studying foundations of quantum Mechanics. Most of the active research is published in journals. The discussion surrounding standard non-relativistic quantum mechanics has stabilized in a way that makes it possible to survey. Three recent books absorb and organize the work of these decades.
 
 ### General Texts on the Philosophy of QM
 
@@ -297,8 +305,6 @@ quantum mechanics: Bohmian mechanics | quantum mechanics: collapse theories | qu
 
 [^note-12]: It is inessential that the reduced state of $S$ after the interaction be what it was beforehand; that is so only in the special case of measurements that leave the value of the measured observable undisturbed.
 
-[^here-nd]: Here are some recent books that will be especially useful to beginners.
-
 [^norsen-2017]: Norsen, T., 2017, *Foundations of Quantum Mechanics: An Exploration of the Physical Meaning of Quantum Theory*, Cham: Springer. This is a textbook for students who want to learn quantum mechanics, but learn it in a way that emphasizes physical clarity. The book covers topics of a standard introduction to quantum physics, but focuses attention on questions of ontology often glossed over in standard texts. The physics student who wants to learn quantum mechanics either as preparation for studying foundations or simply in a way that looks for clear answers to questions like ‘What are the basic objects in the quantum world?’, ‘What kinds of configurations can they assume?’, ‘How do they move and interact with one another?’ can do no better than starting here.
 
 [^susskind-2014]: Susskind, L. and Friedman, A., 2014, *Quantum Mechanics: The Theoretical Minimum (2nd edition)*, New York: Basic Books. At 384 pages, this book isn’t as pithy as the title would suggest. It provides very clear presentation of the principles of quantum mechanics for the physics student without any previous background. This is how one would learn quantum mechanics in a standard university course.
@@ -308,8 +314,6 @@ quantum mechanics: Bohmian mechanics | quantum mechanics: collapse theories | qu
 [^schack-2002]: Schack, R., 2002 (v1), “[Quantum Theory from four of Hardy’s Axions](https://arxiv.org/abs/quant-ph/0210017)”, manuscript at arXiv.org.
 
 [^darrigol-2015]: Darrigol, O., 2015, “‘Shut up and contemplate!’: Lucien Hardy’s reasonable axioms for quantum theory”, *Studies in History and Philosophy of Science* (Part B: Studies in History and Philosophy of Modern Physics), 52(B): 328–342.
-
-[^there-nd]: There are a great many textbooks available for studying quantum mechanics. Here are a few especially important ones with some notes to guide choices among them. It is good to work with two or three texts when learning QM. No text is perfect and differences in approach can illuminate the subject from different angles.
 
 [^ballentine-1998]: Ballentine, L., 1998, *Quantum Mechanics: A Modern Approach*, Singapore: World Scientific Publishing Company. This book is not recommended for beginners, and not recommended as a textbook. It is recommended once one has some technical background to deepen understanding of the fundamental concepts of quantum mechanics.
 
@@ -335,8 +339,6 @@ quantum mechanics: Bohmian mechanics | quantum mechanics: collapse theories | qu
 
 [^zettili-2009]: Zettili, N., 2009, *Quantum Mechanics: Concepts and Applications*, Chichester: John Wiley & Sons, Ltd. This is a very good book as well. It covers theory and problem solving in an integrated way. It is easy to follow and full of problems and solutions that are related to the experimental basis of the theory.
 
-[^whether-nd]: Whether studying quantum mechanics on one’s own, or in a classroom setting, it is useful to have these books on hand as accompaniments. Even a seasoned teacher will find himself from time to time reaching for them:
-
 [^benenson-2006]: Benenson, W., J. Harris, H. Stoecker, , and H. Lutz, 2006, *Handbook of Physics* (2nd edition), Berlin: Springer.
 
 [^bronshtein-2007]: Bronshtein, I.N., and K.A. Semendyayev, 2007, *Handbook of Mathematics* (5th edition), Berlin: Springer.
@@ -344,8 +346,6 @@ quantum mechanics: Bohmian mechanics | quantum mechanics: collapse theories | qu
 [^halliday-2008]: Halliday, D., R. Resnick, and J. Walker, 2008, *Fundamentals of Physics* (8th edition), Hoboken, NJ: Wiley.
 
 [^halmos-1957]: Halmos, P., 1957, *Introduction to Hilbert Space* (2nd edition), Providence: AMS Chelsea Publishing.
-
-[^mechanics-nd]: The last three decades have been a golden age for studying foundations of quantum Mechanics. Most of the active research is published in journals. The discussion surrounding standard non-relativistic quantum mechanics has stabilized in a way that makes it possible to survey. Three recent books absorb and organize the work of these decades.
 
 [^barrett-2019]: Barrett, J., 2019, *The Conceptual Foundations of Quantum Mechanics*, New York: Oxford University Press. This is a recent text on the history and conceptual foundations of quantum mechanics. It will serve an excellent primary text on the foundations of quantum mechanics for philosophy students, and will also make an excellent supplement to the standard quantum physics texts of physics students.
 

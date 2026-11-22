@@ -189,6 +189,8 @@ Federations are often thought to be *sui generis*, one-of-a-kind deviations from
 
 ### Contemporary
 
+*Publius: The Journal of Federalism*, regularly publishes philosophical articles.
+
 #### Anthologies
 
 #### Books and Articles
@@ -282,8 +284,6 @@ This entry has benefited from suggestions by Andrea Carla, Federica Cittadino, P
 [^riley-1979]: –––, 1979, “Federalism in Kant’s Political Philosophy,” *Publius*, 9(4): 43–64.
 
 [^stoppenbrink-2016]: Stoppenbrink, Katja, 2016, “Representative Government and Federalism in John Stuart Mill,” in D. Heidemann and K. Stoppenbrink (eds.), *Join, or Die: Philosophical Foundations of Federalism*, Berlin: de Gruyter: 209–232.
-
-[^publius-nd]: *Publius: The Journal of Federalism*, regularly publishes philosophical articles.
 
 [^bakvis-1987]: Bakvis, Herman, and William M. Chandler (eds.), 1987, *Federalism and the Role of the State*, Toronto: Toronto University Press.
 

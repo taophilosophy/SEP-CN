@@ -102,6 +102,8 @@ This is also the challenge posed by the sophist Antiphon, in the surviving fragm
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+For general accounts of the *Republic*, see the Bibliography to the entry, Plato’s Ethics and Politics in the *Republic*. The following are works which are cited in or have particular relevance to the present entry:
+
 ### The immoralist challenge
 
 ### The Greek moral tradition and early immoralism (including Antiphon)
@@ -141,8 +143,6 @@ cognitivism vs. non-cognitivism, moral | ethics: ancient | Plato: ethics | Plato
 [^note-6]: For a classic discussion see Adkins 1960, though his terminology of ‘competitive’ and ‘cooperative’ virtues seems to me not quite right.
 
 [^note-7]: See Pendrick 2002 for the text, and Gagarin and Woodruff 1995 or Dillon and Gergel 2003 for translation; for discussion, see Barnes 2002, Riesbeck 2011, and Bonazzi 2020.
-
-[^for-nd]: For general accounts of the *Republic*, see the Bibliography to the entry, Plato’s Ethics and Politics in the *Republic*. The following are works which are cited in or have particular relevance to the present entry:
 
 [^foot-2003]: Foot, P., 2003, *Natural Goodness*, Oxford: Clarendon Press.
 

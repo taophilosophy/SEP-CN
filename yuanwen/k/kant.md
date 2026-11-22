@@ -293,6 +293,8 @@ Thus Kant argues that although theoretical and practical philosophy proceed from
 
 #### Works by Kant
 
+Individual works by Kant mentioned in this article (with their original publication year indicated) may be found in the following volumes of *The Cambridge Edition of the Works of Immanuel Kant*:
+
 #### Other Primary Sources
 
 ### Secondary Literature
@@ -376,8 +378,6 @@ aesthetics: German, in the 18th century | categories | Fichte, Johann Gottlieb |
 [^german-1900]: The standard German edition of Kant’s works is: Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), 1900–, Kants gesammelte Schriften, Berlin: Georg Reimer (later Walter De Gruyter).
 
 [^english-1992]: The best English edition of Kant’s works is: P. Guyer and A. Wood (eds.), 1992–, *The Cambridge Edition of the Works of Immanuel Kant*, Cambridge: Cambridge University Press.
-
-[^individual-nd]: Individual works by Kant mentioned in this article (with their original publication year indicated) may be found in the following volumes of *The Cambridge Edition of the Works of Immanuel Kant*:
 
 [^thoughts-1747]: *Thoughts on the True Estimation of Living Forces* (1747); in Watkins, E. (ed.), 2012, *Natural Science*, Cambridge: Cambridge University Press.
 

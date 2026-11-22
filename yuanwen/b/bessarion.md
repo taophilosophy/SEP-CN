@@ -75,6 +75,16 @@ The composite nature of the *In calumniatorem* allowed for divergent interpretat
 
 ### Primary Literature
 
+The *In calumniatorem Platonis* was originally printed in 1469 in Rome (by Schweynheym and Pannartz), and then again in 1503 and 1516 in Venice (by Manutius). Both Venetian editions—which slightly differ from one another—contain revisions suggested by Bessarion himself. Ludwig Mohler’s modern edition is based on the text printed by Manutius. See
+
+respectively the second and the third volume of his *Kardinal Bessarion als Theologe, Humanist und Staatsmann*. Mohler printed the Greek original text as well, but completely omitted the fifth book of the work. A large selection of the *In calumniatorem* has been translated into Italian, on the basis of Manutius 1516 edition, but taking into consideration other emendations as well:
+
+The sixth book of the *In calumniatorem* has been recently edited and translated into German:
+
+There also exists an Italian translation:
+
+Other works by Bessarion, including many of his letters, have been edited by Mohler in *Aus Bessarions Gelehrtenkreis: Abhandlungen, Reden, Briefe*.
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -93,21 +103,13 @@ The composite nature of the *In calumniatorem* allowed for divergent interpretat
 
 Aristotelianism: in the Renaissance | Byzantine Philosophy | Ficino, Marsilio | future contingents: medieval theories of | Lefèvre d’Étaples, Jacques | natural philosophy: in the Renaissance | Neoplatonism | Plato | Pomponazzi, Pietro | Proclus | Theophrastus
 
-[^platonis-nd]: The *In calumniatorem Platonis* was originally printed in 1469 in Rome (by Schweynheym and Pannartz), and then again in 1503 and 1516 in Venice (by Manutius). Both Venetian editions—which slightly differ from one another—contain revisions suggested by Bessarion himself. Ludwig Mohler’s modern edition is based on the text printed by Manutius. See
-
 [^bessarionis-1927]: *Bessarionis In Calumniatorem Platonis Libri IV*, Paderborn: Schöningh, 1927;
 
 [^aus-1942]: *Aus Bessarions Gelehrtenkreis: Abhandlungen, Reden, Briefe*, Paderborn: Schöningh, 1942, pp. 92–146 (book VI),
 
-[^kardinal-nd]: respectively the second and the third volume of his *Kardinal Bessarion als Theologe, Humanist und Staatsmann*. Mohler printed the Greek original text as well, but completely omitted the fifth book of the work. A large selection of the *In calumniatorem* has been translated into Italian, on the basis of Manutius 1516 edition, but taking into consideration other emendations as well:
-
 [^contro-2014]: *Contro il calunniatore di Platone*, Eva Del Soldato (ed.), with a bibliographical note by Ivanoe Privitera, Rome: Edizioni di Storia e Letteratura, 2014.
 
-[^german-nd]: The sixth book of the *In calumniatorem* has been recently edited and translated into German:
-
 [^über-2015]: *Über Natur und Kunst*, Sergei Mariev, Monica Marchetto, and Katharina Luchner (eds.), Hamburg: Felix Meiner, 2015.
-
-[^there-nd]: There also exists an Italian translation:
 
 [^la-2015]: *La natura delibera—La natura e l’arte*, Pier Davide Accendere and Ivanoe Privitera (eds.), Milan: Bompiani, 2015.
 
@@ -118,8 +120,6 @@ Aristotelianism: in the Renaissance | Byzantine Philosophy | Ficino, Marsilio | 
 [^bessarion-1958]: *Bessarion Nicaenus, S.R.E. Cardinalis: Oratio dogmatica de unione*, Emmanuel Candal (ed.), Rome: Pontificium institutum orientalium studiorum, 1958;
 
 [^orazione-2013]: *Orazione dogmatica sull’unione dei Greci e dei Latini*, Gianfrancesco Lusini (ed.), Naples: Vivarium, 2013.
-
-[^other-nd]: Other works by Bessarion, including many of his letters, have been edited by Mohler in *Aus Bessarions Gelehrtenkreis: Abhandlungen, Reden, Briefe*.
 
 [^an-2019]: An edition of the *Encomium of Trebizond* is in *Two Works on Trebizond*, Scott Kennedy (ed.), Cambridge, MA: Harvard University Press, 2019.
 

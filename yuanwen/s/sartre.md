@@ -206,6 +206,14 @@ We cannot neatly sum up a public intellectual and man of letters, like Sartre, t
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+This bibliography presents a selection of the works from Sartre and secondary literature that are relevant for this entry. For a complete annotated bibliography of Sartre’s works see
+
+Updated in
+
+and by Michel Sicard in
+
+Michel Rybalka and Michel Contat have complied an additional bibliography of primary and secondary sources published since Sartre’s death in
+
 ### A. Primary Literature
 
 #### A.1 Works by Sartre
@@ -213,6 +221,8 @@ We cannot neatly sum up a public intellectual and man of letters, like Sartre, t
 ##### A.1.1 Individual works published by Sartre
 
 ##### A.1.2 Collections of works by Sartre
+
+References to *Situations* will be abbreviated as *Sit.* followed by the volume, e.g., *Sit. V*.
 
 ##### A.1.3 Posthumous works by Sartre
 
@@ -260,19 +270,11 @@ It is an interesting question that Derrida poses, but it is also of its time (19
 
 [^note-5]: This method was partly borrowed from Henri Lefebvre (1959)[^lefebvre-1959], who subsequently claimed priority over Sartre’s formulation — a minor but frequently noted polemic in the secondary literature.
 
-[^this-nd]: This bibliography presents a selection of the works from Sartre and secondary literature that are relevant for this entry. For a complete annotated bibliography of Sartre’s works see
-
 [^contat-1974]: Contat, Michel and Michel Rybalka, 1974, *The Writings of Jean-Paul Sartre*, two volumes, Richard C. McCleary (trans.), (Northwestern University Studies in Phenomenology and Existential Philosophy), Evanston, IL: Northwestern University Press.
 
-[^updated-nd]: Updated in
+[^contat-1975]: 1975, *Magazine littéraire*, 103–4: 9–49,
 
-[^updated-1975]: 1975, *Magazine littéraire*, 103–4: 9–49,
-
-[^michel-nd]: and by Michel Sicard in
-
-[^michel-1979]: 1979, special issue on Sartre, *Obliques*, 18–19(May): 331–347.
-
-[^michel-nd-2]: Michel Rybalka and Michel Contat have complied an additional bibliography of primary and secondary sources published since Sartre’s death in
+[^contat-1979]: 1979, special issue on Sartre, *Obliques*, 18–19(May): 331–347.
 
 [^rybalka-1993]: Rybalka, Michel and Michel Contat, 1993, *Sartre: Bibliographie 1980–1992*, (CNRS Philosophie), Paris: CNRS and Bowling Green, OH: Philosophy Documentation Center, Bowling Green State University.
 
@@ -335,8 +337,6 @@ It is an interesting question that Derrida poses, but it is also of its time (19
 [^sartre-1971]: 1971–72 [1981–93], *L’Idiot de la famille. Gustave Flaubert de 1821 à 1857*, 3 volumes, Paris: Gallimard. Translated as *The Family Idiot: Gustave Flaubert, 1821–1857*, 5 volumes, Carol Cosman (trans.), Chicago: University of Chicago Press, 1981/1987/1989/1991/1993. *An Abridged Edition*, ed. and abridged by J. S. Catalano, tr. C. Cosman, Chicago: University of Chicago Press, 2023.
 
 [^sartre-1980]: 1980 [1996], “L’espoir, maintenant”, interview with Benny Lévy, *Le Nouvel observateur*, n° 800, 801, 802. Reprinted as *L’espoir maintenant: les entretiens de 1980*, Lagrasse: Verdier, 1991. Translated as *Hope Now: The 1980 Interviews*, Adrian van den Hoven (trans.), Chicago, IL: The University of Chicago Press, 1996.
-
-[^references-nd]: References to *Situations* will be abbreviated as *Sit.* followed by the volume, e.g., *Sit. V*.
 
 [^sartre-1947]: 1947, *Situations I: Critiques littéraires*, Paris: Gallimard. Partially translated in *Literary and Philosophical Essays*, Annette Michelson (trans.), London: Rider, 1955. Reprinted New York: Collier Books, 1962.
 

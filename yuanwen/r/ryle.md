@@ -352,6 +352,8 @@ This has been a short tour—concentrating on the philosophy of language and min
 
 ### Primary Literature
 
+Here is a list of Ryle’s works cited in this entry.
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -438,75 +440,73 @@ Note also Stanley’s (2011a, 207-208)[^stanley-2011a] description of Ryle’s p
 
 What is to count as manifesting knowledge-that? Is it that, for example, “[t]he intellectual state—a propositional attitude—is such that it is simply exercised, and its being exercised leads directly (non-Intelligently) to an Intelligent action” (Bengson and Moffett, 2012, p. 22)[^bengson-2012]? It is not clear either what explanatory work this accomplishes, or what would count as evidence for it. Perhaps Ginet’s example is illustrative instead, as suggested here, of nothing more than the unremarkable interchangeability of these expressions in certain contexts.
 
-[^here-nd]: Here is a list of Ryle’s works cited in this entry.
+[^ryle-1929]: 1929, “Negation”, *Proceedings of the Aristotelian Society*, Supplementary Volume IX: 80–96; reprinted in Ryle 1971b, pp. 1–11.
 
-[^here-1929]: 1929, “Negation”, *Proceedings of the Aristotelian Society*, Supplementary Volume IX: 80–96; reprinted in Ryle 1971b, pp. 1–11.
+[^ryle-1930a]: 1930a, “Are There Propositions”, *Proceedings of the Aristotelian Society*, XXX; reprinted in Ryle 1971b, pp. 12–38.
 
-[^here-1930a]: 1930a, “Are There Propositions”, *Proceedings of the Aristotelian Society*, XXX; reprinted in Ryle 1971b, pp. 12–38.
+[^ryle-1930b]: 1930b, “Are there Propositions?”, *Philosophical Papers* (Volume 2: Collected Essays), London and New York, Routledge, 2009, pp. 13–40.
 
-[^here-1930b]: 1930b, “Are there Propositions?”, *Philosophical Papers* (Volume 2: Collected Essays), London and New York, Routledge, 2009, pp. 13–40.
+[^ryle-1932]: 1932, “Systematically Misleading Expressions”, *Proceedings of the Aristotelian Society*, 32: 139–170; page references are to the reprint in Ryle 1971b, pp. 39–62.
 
-[^here-1932]: 1932, “Systematically Misleading Expressions”, *Proceedings of the Aristotelian Society*, 32: 139–170; page references are to the reprint in Ryle 1971b, pp. 39–62.
+[^ryle-1933a]: 1933a, “Imaginary Objects”, *Proceedings of the Aristotelian Society*, Supplementary Volume XII: 18–43; reprinted in Ryle 1971b, pp. 63–81.
 
-[^here-1933a]: 1933a, “Imaginary Objects”, *Proceedings of the Aristotelian Society*, Supplementary Volume XII: 18–43; reprinted in Ryle 1971b, pp. 63–81.
+[^ryle-1933b]: 1933b, “About”, *Analysis*, 1; reprinted in Ryle 1971b, pp. 82–84.
 
-[^here-1933b]: 1933b, “About”, *Analysis*, 1; reprinted in Ryle 1971b, pp. 82–84.
+[^ryle-1936]: 1936, “Unverifiability-By-Me”, *Analysis*, 4; reprinted in Ryle 1971b, pp. 121–130.
 
-[^here-1936]: 1936, “Unverifiability-By-Me”, *Analysis*, 4; reprinted in Ryle 1971b, pp. 121–130.
+[^ryle-1945]: 1945, “Philosophical Arguments”, originally delivered as the Inaugural Lecture as Waynflete Professor of Metaphysical Philosophy; reprinted in Ryle 1971b, pp. 194–211.
 
-[^here-1945]: 1945, “Philosophical Arguments”, originally delivered as the Inaugural Lecture as Waynflete Professor of Metaphysical Philosophy; reprinted in Ryle 1971b, pp. 194–211.
+[^ryle-1946a]: 1946a, “Knowing How and Knowing That”, *Proceedings of the Aristotelian Society*, XLVI; page references are to the reprint in Ryle 1971b, pp. 212–225.
 
-[^here-1946a]: 1946a, “Knowing How and Knowing That”, *Proceedings of the Aristotelian Society*, XLVI; page references are to the reprint in Ryle 1971b, pp. 212–225.
+[^ryle-1946b]: 1946b, “Why are the Calculuses of Logic and Arithmetic Applicable to Reality?”, *Proceedings of the Aristotelian Society* Supplementary Volume XX: 20–29; page references are to the reprint in Ryle 1971b, pp. 226–233.
 
-[^here-1946b]: 1946b, “Why are the Calculuses of Logic and Arithmetic Applicable to Reality?”, *Proceedings of the Aristotelian Society* Supplementary Volume XX: 20–29; page references are to the reprint in Ryle 1971b, pp. 226–233.
+[^ryle-1949a]: 1949a, *The Concept of Mind*, London: Hutchinson; page references are to the 2000 republication, London: Penguin Books.
 
-[^here-1949a]: 1949a, *The Concept of Mind*, London: Hutchinson; page references are to the 2000 republication, London: Penguin Books.
+[^ryle-1949b]: 1949b, “Discussion of Rudolf Carnap: ‘Meaning and Necessity’”, *Philosophy*, xxiv; page reference is to the reprint in Ryle 1971a, pp. 225–235.
 
-[^here-1949b]: 1949b, “Discussion of Rudolf Carnap: ‘Meaning and Necessity’”, *Philosophy*, xxiv; page reference is to the reprint in Ryle 1971a, pp. 225–235.
+[^ryle-1950]: 1950, “‘If’, ‘So’, and ‘Because’”, in *Philosophical Analysis*, M. Black (ed.), Ithaca: Cornell University Press; page references are to the reprint in Ryle 1971b, pp. 234–249.
 
-[^here-1950]: 1950, “‘If’, ‘So’, and ‘Because’”, in *Philosophical Analysis*, M. Black (ed.), Ithaca: Cornell University Press; page references are to the reprint in Ryle 1971b, pp. 234–249.
+[^ryle-1951a]: 1951a, “The Verification Principle”, published in French in *Revue Internationale de Philosophie*, V; translated in English in Ryle 1971b, pp. 287–293.
 
-[^here-1951a]: 1951a, “The Verification Principle”, published in French in *Revue Internationale de Philosophie*, V; translated in English in Ryle 1971b, pp. 287–293.
+[^ryle-1951b]: 1951b, “Thinking and Language”, *Proceedings of the Aristotelian Society*, Supplementary Volume XXV: 65–82; page references are to the reprint in Ryle 1971b, pp. 258–271.
 
-[^here-1951b]: 1951b, “Thinking and Language”, *Proceedings of the Aristotelian Society*, Supplementary Volume XXV: 65–82; page references are to the reprint in Ryle 1971b, pp. 258–271.
+[^ryle-1953]: 1953, “Ordinary Language”, *Philosophical Review*, LXII; page references are to the reprint in Ryle 1971b, pp. 301–318.
 
-[^here-1953]: 1953, “Ordinary Language”, *Philosophical Review*, LXII; page references are to the reprint in Ryle 1971b, pp. 301–318.
+[^ryle-1954]: 1954, *Dilemmas: The Tarner Lectures 1953*, Cambridge: Cambridge University Press.
 
-[^here-1954]: 1954, *Dilemmas: The Tarner Lectures 1953*, Cambridge: Cambridge University Press.
+[^ryle-1956]: 1956, “Sensation”, *Contemporary British Philosophy* (Third Series), edited by H.D. Lewis, London: George Allen & Unwin; reprinted in 1971b, pp. 336–349.
 
-[^here-1956]: 1956, “Sensation”, *Contemporary British Philosophy* (Third Series), edited by H.D. Lewis, London: George Allen & Unwin; reprinted in 1971b, pp. 336–349.
+[^ryle-1957]: 1957, “Theory of Meaning”, in *British Philosophy in Mid-Century*, C.A. Mace (ed.), London: George Allen & Unwin; page references are to the reprint in Ryle 1971b, pp. 350–372.
 
-[^here-1957]: 1957, “Theory of Meaning”, in *British Philosophy in Mid-Century*, C.A. Mace (ed.), London: George Allen & Unwin; page references are to the reprint in Ryle 1971b, pp. 350–372.
+[^ryle-1962a]: 1962a, “Abstractions”, *Dialogue* (*Canadian Philosophical Review*), 1; page references are to the reprint in Ryle 1971b, pp. 435–445.
 
-[^here-1962a]: 1962a, “Abstractions”, *Dialogue* (*Canadian Philosophical Review*), 1; page references are to the reprint in Ryle 1971b, pp. 435–445.
+[^ryle-1962b]: 1962b, “Phenomenology versus ‘The Concept of Mind’”, published in French in *La Philosophie Analytique*, *Cahiers de Royaumont Philosophie*, IV; page references are to the English translation in Ryle 1971a, pp. 179–196.
 
-[^here-1962b]: 1962b, “Phenomenology versus ‘The Concept of Mind’”, published in French in *La Philosophie Analytique*, *Cahiers de Royaumont Philosophie*, IV; page references are to the English translation in Ryle 1971a, pp. 179–196.
+[^ryle-1965]: 1965, “John Locke”, *Philosophical Papers* (Volume 1: Critical Essays), London and New York, Routledge, 2009, pp. 154–164.
 
-[^here-1965]: 1965, “John Locke”, *Philosophical Papers* (Volume 1: Critical Essays), London and New York, Routledge, 2009, pp. 154–164.
+[^ryle-1968]: 1968, “The Thinking of Thoughts: What is ‘Le Penseur’ Doing?”, *University Lectures, The University of Saskatchewan*; page references are to the reprint in Ryle 1971b, pp. 480–496.
 
-[^here-1968]: 1968, “The Thinking of Thoughts: What is ‘Le Penseur’ Doing?”, *University Lectures, The University of Saskatchewan*; page references are to the reprint in Ryle 1971b, pp. 480–496.
+[^ryle-1970]: 1970, “Autobiographical”, in Wood and Pitcher (eds.) 1970, pp. 1–15.
 
-[^here-1970]: 1970, “Autobiographical”, in Wood and Pitcher (eds.) 1970, pp. 1–15.
+[^ryle-1971a]: 1971a, *Collected Papers* (Volume 1), London: Hutchinson.
 
-[^here-1971a]: 1971a, *Collected Papers* (Volume 1), London: Hutchinson.
+[^ryle-1971b]: 1971b, *Collected Papers* (Volume 2), London: Hutchinson.
 
-[^here-1971b]: 1971b, *Collected Papers* (Volume 2), London: Hutchinson.
+[^ryle-1979a]: 1979a, “Adverbial Verbs and Verbs of Thinking”, in Ryle 1979d, pp. 17–32.
 
-[^here-1979a]: 1979a, “Adverbial Verbs and Verbs of Thinking”, in Ryle 1979d, pp. 17–32.
+[^ryle-1979b]: 1979b, “Thinking and Saying”, in Ryle 1979d, pp. 79–93.
 
-[^here-1979b]: 1979b, “Thinking and Saying”, in Ryle 1979d, pp. 79–93.
+[^ryle-1979c]: 1979c, “Negative ‘Actions’”, in Ryle 1979d, pp. 105–119.
 
-[^here-1979c]: 1979c, “Negative ‘Actions’”, in Ryle 1979d, pp. 105–119.
+[^ryle-1979d]: 1979d, *On Thinking*, K. Kolenda (ed.), Oxford: Blackwell.
 
-[^here-1979d]: 1979d, *On Thinking*, K. Kolenda (ed.), Oxford: Blackwell.
+[^ryle-1993a]: 1993a, “Privacy”, in Ryle 1993c pp. 184–214.
 
-[^here-1993a]: 1993a, “Privacy”, in Ryle 1993c pp. 184–214.
+[^ryle-1993b]: 1993b, “Avowals and Communication”, in Ryle 1993c, pp. 215–218.
 
-[^here-1993b]: 1993b, “Avowals and Communication”, in Ryle 1993c, pp. 215–218.
+[^ryle-1993c]: 1993c, *Aspects of Mind*, Meyer, R. (ed.), Oxford: Blackwell.
 
-[^here-1993c]: 1993c, *Aspects of Mind*, Meyer, R. (ed.), Oxford: Blackwell.
-
-[^here-2009]: In 2009, Routledge published the 60th anniversary edition of *The Concept of Mind* (including a critical commentary by the author of this entry), together with Ryle’s *Collected Papers* (Volumes 1 and 2, both of which include a preface by the author of this entry).
+[^ryle-2009]: In 2009, Routledge published the 60th anniversary edition of *The Concept of Mind* (including a critical commentary by the author of this entry), together with Ryle’s *Collected Papers* (Volumes 1 and 2, both of which include a preface by the author of this entry).
 
 [^ayer-1970]: Ayer, A.J., 1970, “An Honest Ghost?” in Wood & Pitcher (eds.) 1970, pp. 53–74.
 

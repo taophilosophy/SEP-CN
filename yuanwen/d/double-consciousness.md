@@ -380,6 +380,8 @@ This list, while including the sense of “double-consciousness” as Du Bois de
 
 ### Primary Literature: Works by W.E.B. Du Bois
 
+These works cited in this article (listed chronologically by original publication date)
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -402,8 +404,6 @@ Africana Philosophy | consciousness | Du Bois, W.E.B. | Fanon, Frantz | race rac
 ### Acknowledgments
 
 Thanks to Tommie Shelby, who originally commissioned this article, discussed it with me, and steadily, patiently encouraged its production. Thanks also to Martha Bragin. Shout out to Jonathan Buchsbaum, whose ‘hard reading’ and suggestions made this version considerably more readable and coherent than it would have been. And thanks to Shelly Botuck, whose encouragement and support have been sustaining and indispensable throughout.
-
-[^these-nd]: These works cited in this article (listed chronologically by original publication date)
 
 [^bois-1897]: 1897, “The Strivings of the Negro People”, *The Atlantic Monthly*, August: 194–197. [[Du Bois 1897 available online](http://www.theatlantic.com/past/unbound/flashbks/black/dubstriv.htm)]
 

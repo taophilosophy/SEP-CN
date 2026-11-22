@@ -279,9 +279,21 @@ In 1879, Pope Leo XIII called for a revival in the study and teaching of Aquinas
 
 ### A. Aquinas’s Works
 
+The definitive version of the original Latin, the Leonine edition, is slowly coming to completion:
+
 > Thomas Aquinas. *Opera omnia*, ed. Fratres Praedicatores (Rome: Commissio Leonina, 1882–), 50 vols.
 
+Recent volumes are particularly useful for the extensive scholarly notes, which trace in detail the antecedents to Aquinas’s thought.
+
+Readers satisfied with a roughly accurate Latin text may find it more convenient to consult online the searchable [Corpus Thomisticum](https://www.corpusthomisticum.org/). This essential resource also provides electronic versions of many of the Leonine volumes, information on the best editions of works not yet available in the Leonine edition, and Schütz’s very useful *Thomas-Lexikon*.
+
+Most of Aquinas is available in English translation, and is often available online. [Thérèse Bonin](https://aquinas-in-english.neocities.org/) maintains a comprehensive catalog. Listed here are only a few especially noteworthy translations.
+
+Given the size and range of the corpus, no single-volume anthology can be adequate. Among the many attempts is
+
 > Thomas Aquinas. *Basic Works*, ed. Jeffrey Hause and Robert Pasnau (Indianapolis: Hackett, 2014).
+
+This collection is based in part on a series of translations, the Hackett Aquinas, which offers a translation and commentary on key texts.
 
 #### A1. Encyclopedic Theological Treatises
 
@@ -291,9 +303,13 @@ In 1879, Pope Leo XIII called for a revival in the study and teaching of Aquinas
 
 #### A4. Philosophical Commentaries
 
+Aquinas left many of his commentaries unfinished. Published versions sometimes incorporate material added by disciples, intended to complete the work.
+
 #### A5. Biblical Commentaries
 
 ### B. Secondary Sources
+
+*Listed here are only works cited in the entry, which deliberately focuses on English-language sources. There are of course rich bodies of scholarship in many other languages.*
 
 ## Academic Tools
 
@@ -318,18 +334,6 @@ analogy: medieval theories of | Aquinas, Thomas: moral, political, and legal phi
 ### Acknowledgments
 
 Thanks for their help and advice to Jeffrey Brower, Jeffrey Hause, Scott MacDonald, John Martino, Matthew Minerd, Christopher Shields, Joseph Stenberg, Matthew Wennemann, and Thomas Williams. Special thanks to Ed Zalta, the unmovable prime mover behind it all.
-
-[^latin-nd]: The definitive version of the original Latin, the Leonine edition, is slowly coming to completion:
-
-[^recent-nd]: Recent volumes are particularly useful for the extensive scholarly notes, which trace in detail the antecedents to Aquinas’s thought.
-
-[^readers-nd]: Readers satisfied with a roughly accurate Latin text may find it more convenient to consult online the searchable [Corpus Thomisticum](https://www.corpusthomisticum.org/). This essential resource also provides electronic versions of many of the Leonine volumes, information on the best editions of works not yet available in the Leonine edition, and Schütz’s very useful *Thomas-Lexikon*.
-
-[^most-nd]: Most of Aquinas is available in English translation, and is often available online. [Thérèse Bonin](https://aquinas-in-english.neocities.org/) maintains a comprehensive catalog. Listed here are only a few especially noteworthy translations.
-
-[^given-nd]: Given the size and range of the corpus, no single-volume anthology can be adequate. Among the many attempts is
-
-[^this-nd]: This collection is based in part on a series of translations, the Hackett Aquinas, which offers a translation and commentary on key texts.
 
 [^what-1993]: What follows lists the principal works and those minor works that have special philosphical interest. Not all of the dates are certain. For further details see the “Brief Catalogue” in Torrell 1993 [2022].
 
@@ -374,8 +378,6 @@ Thanks for their help and advice to Jeffrey Brower, Jeffrey Hause, Scott MacDona
 [^hidden-nd]: *On the Hidden Workings of Nature (De occultis operationibus naturae)* (1268–72?)
 
 [^motion-nd]: *On the Motion of the Heart* (*De motu cordis*) (1273?)
-
-[^aquinas-nd]: Aquinas left many of his commentaries unfinished. Published versions sometimes incorporate material added by disciples, intended to complete the work.
 
 [^de-nd]: *De anima* (1267–68)
 
@@ -422,8 +424,6 @@ Thanks for their help and advice to Jeffrey Brower, Jeffrey Hause, Scott MacDona
 [^paul-nd]: *Paul* (1261?–73) — a sequence of commentaries covering all of the Pauline epistles
 
 [^psalms-nd]: *Psalms* (1272–73, unfinished after Psalm 54)
-
-[^listed-nd]: *Listed here are only works cited in the entry, which deliberately focuses on English-language sources. There are of course rich bodies of scholarship in many other languages.*
 
 [^adams-1987]: Adams, Marilyn McCord, 1987, *William Ockham*, 2 volumes, Notre Dame: University of Notre Dame Press.
 

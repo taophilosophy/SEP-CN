@@ -276,6 +276,8 @@ Recently, scholars of early Christianity have become interested in the ways Epic
 
 ### Primary Literature: Bibliographical Note
 
+The number of Philodemus’ philosophical books and the complexities of their preservation in papyri with multiple parts and, at times, in multiple copies, makes it impractical to give a complete list here. Luckily, there are now several fairly complete bibliographies online, to which the reader is referred below, with links. What follows here are notes intended to orient further reading on both general and particular topics, and a list of works referred to in the present article.
+
 ### Works cited: Secondary Literature
 
 ## Academic Tools
@@ -311,8 +313,6 @@ doxography of ancient philosophy | Epicurus | Lucretius | Sextus Empiricus
 ### Acknowledgments
 
 The author would like to thank Catherine Atherton for her advice in editing this article and for supplying material on Philodemus’ *On Signs* from her own ongoing work on that text.
-
-[^philodemus’-nd]: The number of Philodemus’ philosophical books and the complexities of their preservation in papyri with multiple parts and, at times, in multiple copies, makes it impractical to give a complete list here. Luckily, there are now several fairly complete bibliographies online, to which the reader is referred below, with links. What follows here are notes intended to orient further reading on both general and particular topics, and a list of works referred to in the present article.
 
 [^general-1995]: General accounts of Philodemus are given by Gigante 1995, Erler 1994 and, most recently, Longo Auricchio et al. 2011. All these works discuss Philodemus’ life and list his works, with extensive bibliography.
 

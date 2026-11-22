@@ -343,6 +343,8 @@ In later Mohist philosophy, we see ancient Chinese thinkers making remarkable ad
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+(Only works in English are listed.)
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mohist-canons). |
@@ -443,8 +445,6 @@ Canon and Explanation A74 read, “Disputation (*biàn* 辯) is contending over 
 [^note-36]: See John Knoblock, *Xunzi: A Translation and Study of the Complete Works*, Vol. 3 (Stanford: Stanford University Press, 1994), sections 18.9 and 22.2f. The reference to Xunzi in the next paragraph is also to section 22.2f.
 
 [^note-37]: The precise chronology of the Mohist *Dialectics* and the Xunzian theory of language is impossible to determine, as is whether Xunzi himself was directly responsible for formulating the theory of language that appears in the anthology bearing his name. However, since the claim “killing robbers isn’t killing people” is cited for criticism in the discourse on language in the *Xunzi* (Book 22), the Xunzian theory is probably later than the Mohist “Lesser Selection.”
-
-[^only-nd]: (Only works in English are listed.)
 
 [^brindley-2020]: Brindley, Erica F., 2020, “Capturing the World in Words: Later Mohist Hemeneutic Theories on Language and Disputation,” *Early China*, 43: 93–121.
 

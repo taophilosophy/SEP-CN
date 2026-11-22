@@ -471,6 +471,10 @@ Ergang 1931; Forster 1998, 2010, 2011a, 2011b, 2011c, 2012a, 2012b, 2012c, 2016,
 
 #### In German
 
+There are two main German editions of Herder’s works:
+
+The latter edition includes very helpful notes.
+
 #### Translations
 
 ### Primary Works by Others
@@ -493,13 +497,9 @@ Ergang 1931; Forster 1998, 2010, 2011a, 2011b, 2011c, 2012a, 2012b, 2012c, 2016,
 
 cosmopolitanism | Dilthey, Wilhelm | dualism | egalitarianism | Hamann, Johann Georg | Hegel, Georg Wilhelm Friedrich | hermeneutics | history, philosophy of | Humboldt, Wilhelm von | Kant, Immanuel | Kant, Immanuel: aesthetics and teleology | liberalism | Mill, John Stuart | nationalism | naturalism | Nietzsche, Friedrich | physicalism | rationalism vs. empiricism | relativism | religion: philosophy of | Schelling, Friedrich Wilhelm Joseph von | Schlegel, Friedrich | Schleiermacher, Friedrich Daniel Ernst | skepticism | Spinoza, Baruch | Wolff, Christian
 
-[^there-nd]: There are two main German editions of Herder’s works:
-
 [^johann-1877]: *Johann Gottfried Herder Sämtliche Werke*, B. Suphan et al. (eds.), Berlin: Weidmann, 1877–.
 
 [^johann-1985]: [**G**] *Johann Gottfried Herder Werke*, U. Gaier et al. (eds.), Frankfurt am Main: Deutscher Klassiker Verlag, 1985–.
-
-[^johann-nd]: The latter edition includes very helpful notes.
 
 [^johann-1977]: [**B**] *Johann Gottfried Herder Briefe*, W. Dobbek and G. Arnold (eds.), Weimar: Hermann Böhlaus Nachfolger, 1977.
 

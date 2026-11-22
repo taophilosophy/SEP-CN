@@ -97,6 +97,8 @@ In the case of Cassirer, by contrast, although he is certainly a follower and ch
 
 ### Selected works by Cassirer
 
+Note: Cassirer’s unpublished writings are now appearing in volumes edited by J. Krois and E. Schwemmer, *Nachgelassene Manuskripte und Texte*. Hamburg: Meiner.
+
 ### Secondary and Other Relevant Literature
 
 ## Academic Tools
@@ -158,8 +160,6 @@ Einstein, Albert: philosophy of science | general relativity: early philosophica
 [^cassirer-1944]: (1944) *An Essay on Man*. New Haven: Yale University Press.
 
 [^cassirer-1946]: (1946) *The Myth of the State*. New Haven: Yale University Press.
-
-[^note-nd]: Note: Cassirer’s unpublished writings are now appearing in volumes edited by J. Krois and E. Schwemmer, *Nachgelassene Manuskripte und Texte*. Hamburg: Meiner.
 
 [^aubenque-1992]: Aubenque, P., L. Ferry, E. Rudolf, J.-F. Courtine, F. Capeillières (1992) “Philosophie und Politik: Die Davoser Disputation zwischen Ernst Cassirer und Martin Heidegger in der Retrospektive.” *Internationale Zeitschrift für Philosophie*, 2: 290–312.
 

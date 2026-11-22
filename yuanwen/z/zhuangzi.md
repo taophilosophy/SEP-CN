@@ -445,7 +445,11 @@ The weak skeptical conclusion is most strikingly expressed in the observation th
 
 ### Primary Literature
 
+For the convenience of the internet reader, citations from classical texts are referenced to the chapter and paragraph number in [Online Original https://ctext.org](https://ctext.org/). Translations of the *Zhuangzi* in this article are those of its author. A public domain translation accompanies the Online Original on the site and the reader can easily access a character-by-character standard dictionary translation of the passages by clicking the blue “jump to dictionary” icon. Other tranlsations of the *Zhuangzi* include:
+
 ### Further Reading
+
+The number of philosophical articles published on Zhuangzi’s philosophy has grown exponentially in the years since the discovery of the Chinese philosophical tradition. The wide range of alternative views and approaches can only be hinted at in this bibliography. Particularly helpful are these collections of work dedicated to the understanding of Zhuangzi. They include (in order of publication):
 
 ### Secondary Literature
 
@@ -468,8 +472,6 @@ The weak skeptical conclusion is most strikingly expressed in the observation th
 
 Chinese Philosophy: epistemology | Chinese Philosophy: ethics | Chinese Philosophy: Mohism | Chinese Philosophy: Mohist Canons | Daoism | Laozi | Neo-Daoism | School of Names
 
-[^for-nd]: For the convenience of the internet reader, citations from classical texts are referenced to the chapter and paragraph number in [Online Original https://ctext.org](https://ctext.org/). Translations of the *Zhuangzi* in this article are those of its author. A public domain translation accompanies the Online Original on the site and the reader can easily access a character-by-character standard dictionary translation of the passages by clicking the blue “jump to dictionary” icon. Other tranlsations of the *Zhuangzi* include:
-
 [^graham-1981]: Graham, Angus C. (trans.), 1981, *Chuang-tzŭ: The Seven Inner Chapters and Other Writings from the Book Chuang-tzŭ*, Boston: Allen and Unwin.
 
 [^graham-1981-2]: ––– (trans.), 1981, *Chuang Tzŭ: The Inner Chapters*, London: Hackett Publishing Co. Inc.
@@ -483,8 +485,6 @@ Chinese Philosophy: epistemology | Chinese Philosophy: ethics | Chinese Philosop
 [^watson-1968]: ––– (trans.), 1968, *The Complete Works of Chuang Tzu*, New York: Columbia University Press.
 
 [^ziporyn-2009]: Ziporyn, Brook, 2009, *Zhuangzi: The Essential Writings (With Selections from Traditional Commentaries)*, Indianapolis, IN: Hackett Publishing.
-
-[^zhuangzi’s-nd]: The number of philosophical articles published on Zhuangzi’s philosophy has grown exponentially in the years since the discovery of the Chinese philosophical tradition. The wide range of alternative views and approaches can only be hinted at in this bibliography. Particularly helpful are these collections of work dedicated to the understanding of Zhuangzi. They include (in order of publication):
 
 [^mair-1983]: Mair, Victor H. (ed.), 1983, *Experimental Essays on Chuang-tzu*, Honolulu: [published for] Center for Asian and Pacific Studies [by] University of Hawai’i Press. [This was one of the earliest focused collections with several seminal papers that were pivotal in initiating the explosion in philosophical interest in the Zhuangzi.]
 

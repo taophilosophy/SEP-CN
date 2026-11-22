@@ -233,6 +233,10 @@ But it is an enigma to which the twenty-first century seems increasingly drawn. 
 
 ### Selected Works by Turing
 
+*The Collected Works of A. M. Turing* consists of 4 volumes:
+
+The following, single-volume work contains much of the *Collected Works* and adds extensive modern commentary:
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -270,8 +274,6 @@ Church-Turing Thesis | computing: modern history of | connectionism | quantum th
 
 [^turing-1952]: 1952, ‘The chemical basis of morphogenesis’, *Phil. Trans. R. Soc. London B* 237: 37–72; also in *The Collected Works of A. M. Turing: Morphogenesis*, P. T. Saunders (ed.), Amsterdam: North-Holland, 1992.
 
-[^collected-nd]: *The Collected Works of A. M. Turing* consists of 4 volumes:
-
 [^volume-1992]: Volume 1: *Mechanical Intelligence*, D.C. Ince (ed.), Amsterdam: North-Holland, 1992.
 
 [^volume-1992-2]: Volume 2: *Morphogenesis*, P. T. Saunders (ed.), Amsterdam: North-Holland, 1992.
@@ -279,8 +281,6 @@ Church-Turing Thesis | computing: modern history of | connectionism | quantum th
 [^volume-1992-3]: Volume 3: *Pure Mathematics*, J. L. Britton (ed.), Amsterdam: North-Holland, 1992.
 
 [^volume-2001]: Volume 4: *Mathematical Logic*, R. O. Gandy and C. E. M. Yates, Amsterdam: North-Holland, 2001.
-
-[^collected-nd-2]: The following, single-volume work contains much of the *Collected Works* and adds extensive modern commentary:
 
 [^alan-2013]: *Alan Turing, his work and impact,* S. B. Cooper and J. van Leeuwen (eds.), Amsterdam: Elsevier, 2013.
 

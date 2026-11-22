@@ -223,6 +223,8 @@ Finally, Aesthetics interweaves normative implications throughout. Poetry is not
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+See also the supplementary document on [Names and Dates of Cited Indian Philosophers](literal-nonliteral-india.supplement.md).
+
 ### Primary Sanskrit Texts Cited
 
 ### Secondary Literature Cited
@@ -250,8 +252,6 @@ defaults in semantics and pragmatics | Dharmakīrti | Early Modern India, analyt
 ### Acknowledgments
 
 The author wishes to thank Ben Blumson, Josh Dever, Jeremy Henkel, Ethan Mills, and Timothy Lubin for their helpful comments on drafts of this article.
-
-[^see-nd]: See also the supplementary document on [Names and Dates of Cited Indian Philosophers](literal-nonliteral-india.supplement.md).
 
 [^dl-1990]: Ānandavardhana, [DL], *The Dhvanyāloka of Ānandavardhana with the Locana of Abhinavagupta*, Daniel H.H. Ingalls (trans.), Number 49 in Harvard Oriental Series, Cambridge, MA: Harvard University Press, 1990.
 

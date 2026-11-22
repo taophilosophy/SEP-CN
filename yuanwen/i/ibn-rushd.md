@@ -256,6 +256,12 @@ For further information see the entry on the influence of Arabic and Islamic phi
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+For a brief narrative sketch of Ibn Rushd’s literary output, see §1.2. Here we provide bibliographical details regarding all of Ibn Rushd’s surviving work. In each case we list the best Arabic text where that is available, or otherwise the best surviving witnesses to the original, in Hebrew or Latin. In parentheses, where possible, we suggest dates of composition. Sometimes these are a matter of conjecture; in other cases, the text itself provides a precise date. (For a detailed inventory of texts and dating see Al-ʿAlawī 1986a.)[^al--1986a]
+
+Contrary to what is often said, most of Ibn Rushd’s work has survived in Arabic. (Of the 49 works listed below, 14 are not extant in Arabic.) Where the Arabic is available, we do not list the various medieval translations (Hebrew and Latin) that were made. We also do not provide a comprehensive list of all available modern translations outside of English. But, in cases where an English translation is not available, we list available translations in other European languages.
+
+Where the medieval Latin translation remains useful to consult, we refer to the most commonly used edition:
+
 ### A. Works of Ibn Rushd
 
 #### A1. Religious Treatises
@@ -382,6 +388,8 @@ Extant in Arabic: *Averrois in Galenum*, ed. Maria de la Conceptión Vázquez de
 
 #### A4. Brief Works
 
+Many brief treatises survive. The most prominent are these:
+
 ***Questions on Logic***
 
 Various questions are extant in Arabic: *Maqālāt fī l-manṭiq wa-l-ʿilm al-ṭabīʿī (Essais de logique et de physique d’Ibn Rochd)*, ed. Jamal al-Dīn al-ʿAlawī (Casablanca: Dār al-Nashr al-Maghribiyya, 1983), 71–221. The material on assertoric propositions has been translated: Nicholas Rescher, “Averroes’ *Quaesitum* on Assertoric (Absolute) Propositions,” *Journal of the History of Philosophy* 1 (1963) 80–93. A lengthy collection of these questions is also available in Latin, in Junta 1562 vol. 1 pt. 2b, ff. 75v–119v, [available online](https://drive.google.com/file/d/1B8oIaULcJFUNmjIyYCPrH4XxUxdYxXNH/view).
@@ -420,6 +428,12 @@ Extant in Arabic: Mauro Zonta, “La tradizione giudeo-araba ed ebraica del *De 
 
 ### B. Secondary Literature
 
+For recent bibliographies see Other Internet Resources. For comprehensive older bibliographies see
+
+For a good book-length summary of Ibn Rushd’s philosophy in English, see
+
+For a state-of-the-art recent study, in Italian, see
+
 #### Works Cited in this Entry
 
 ## Academic Tools
@@ -449,27 +463,13 @@ Arabic and Islamic Philosophy, disciplines in: metaphysics | Arabic and Islamic 
 
 Thanks for their help and advice to Peter Adamson, Matteo Di Giovanni, Stephen Ogden, Richard Taylor, and David Wirmer.
 
-[^for-1986a]: For a brief narrative sketch of Ibn Rushd’s literary output, see §1.2. Here we provide bibliographical details regarding all of Ibn Rushd’s surviving work. In each case we list the best Arabic text where that is available, or otherwise the best surviving witnesses to the original, in Hebrew or Latin. In parentheses, where possible, we suggest dates of composition. Sometimes these are a matter of conjecture; in other cases, the text itself provides a precise date. (For a detailed inventory of texts and dating see Al-ʿAlawī 1986a.)
-
-[^contrary-nd]: Contrary to what is often said, most of Ibn Rushd’s work has survived in Arabic. (Of the 49 works listed below, 14 are not extant in Arabic.) Where the Arabic is available, we do not list the various medieval translations (Hebrew and Latin) that were made. We also do not provide a comprehensive list of all available modern translations outside of English. But, in cases where an English translation is not available, we list available translations in other European languages.
-
-[^where-nd]: Where the medieval Latin translation remains useful to consult, we refer to the most commonly used edition:
-
 [^aristotelis-nd]: *Aristotelis opera cum Averrois commentariis* (Venice: Junta, 1562). [available online](https://siepm-digitalresources.bc.edu/books/#12).
-
-[^many-nd]: Many brief treatises survive. The most prominent are these:
-
-[^for-nd]: For recent bibliographies see Other Internet Resources. For comprehensive older bibliographies see
 
 [^georges-1978]: Georges C. Anawati, 1978, *Bibliographie d’Averroes (Ibn Rushd)*, Algiers: Jāmiʻat al-Duwal al-ʻArabīyah.
 
 [^philipp-1988]: Philipp W. Rosemann, 1988, “Averroes: A Catalogue of Editions and Writings from 1821 Onwards,” *Bulletin de philosophie médiévale*, 30: 153–221.
 
-[^for-nd-2]: For a good book-length summary of Ibn Rushd’s philosophy in English, see
-
 [^majid-2001]: Majid Fakhry, 2001, *Averroes (Ibn Rushd): His Life, Works and Influence*, Oxford: Oneworld.
-
-[^for-nd-3]: For a state-of-the-art recent study, in Italian, see
 
 [^matteo-2017]: Matteo Di Giovanni, 2017, *Averroè*, Rome: Carocci, 2017.
 

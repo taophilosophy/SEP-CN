@@ -175,6 +175,8 @@ The burgeoning literature on territorial rights demonstrates the way in which fo
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Historical political theorists are cited in a way that is accessible regardless of which edition one uses. Here are the references of the acronyms used in the citations above:
+
 ### Select Bibliography
 
 ## Academic Tools
@@ -195,8 +197,6 @@ The burgeoning literature on territorial rights demonstrates the way in which fo
 ## Related Entries
 
 Grotius, Hugo | justice: global | justice: international distributive | Kant, Immanuel: social and political philosophy | Locke, John: political philosophy | nationalism | property and ownership | Pufendorf, Samuel Freiherr von | rights: group | secession | sovereignty
-
-[^historical-nd]: Historical political theorists are cited in a way that is accessible regardless of which edition one uses. Here are the references of the acronyms used in the citations above:
 
 [^grotius-1609]: Grotius, [*ML*], *Mare Liberum*, 1609.
 

@@ -235,6 +235,8 @@ How far the textual evidence on the matter will prove decisive is unclear, espec
 
 ### Primary Literature
 
+(A note on references to Peirce’s work: All references to *The Writings of Charles S. Peirce: A Chronological Edition* Volumes 1–6, take the form W n. m. where n and m indicate volume and page number respectively. All references to *The Collected Papers of Charles Sanders Peirce* Volumes 1–8, take the form CP n. m where n and m indicate volume and paragraph number respectively. All references to *Semiotics and Significs* take the form SS followed by page numbers. All references to *The Essential Peirce* EP n. m where n and m refer to volume and page number respectively.)
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -266,8 +268,6 @@ Peirce, Charles Sanders | Peirce, Charles Sanders: logic | pragmatism | semiotic
 [^peirce-1982]: ––– 1982- *The Writings of Charles S. Peirce: A Chronological Edition*. Volumes 1–6. And 8. Eds. Peirce Edition Project. Bloomington I.N: Indiana University Press.
 
 [^peirce-1998]: ––– 1998. *The Essential Peirce*. Volume 2. Eds. Peirce edition Project. Bloomington I.N.: Indiana University Press.
-
-[^peirce’s-nd]: (A note on references to Peirce’s work: All references to *The Writings of Charles S. Peirce: A Chronological Edition* Volumes 1–6, take the form W n. m. where n and m indicate volume and page number respectively. All references to *The Collected Papers of Charles Sanders Peirce* Volumes 1–8, take the form CP n. m where n and m indicate volume and paragraph number respectively. All references to *Semiotics and Significs* take the form SS followed by page numbers. All references to *The Essential Peirce* EP n. m where n and m refer to volume and page number respectively.)
 
 [^agler-2010]: Agler, D., 2010. “Peirce’s Direct, Non-Reductive Contextual Theory of Names”. *Transactions of the Charles S. Peirce Society*. 46:4, 611–640.
 

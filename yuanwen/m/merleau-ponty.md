@@ -189,6 +189,8 @@ Recent English-language scholarship on Merleau-Ponty, inspired by the growing av
 
 ### Cited Works by Merleau-Ponty
 
+Citations of these texts list the French pagination first followed by that of the English translation.
+
 | [AdD] | 1955, *Les aventures de la dialectique*, Paris: Gallimard; *Adventures of the Dialectic*, Joseph Bien (trans.), Evanston: Northwestern University Press, 1973. |
 | --- | --- |
 | [HT] | 1947, *Humanisme et terreur. Essai sur le problème communiste*, Paris: Gallimard; *Humanism and Terror: An Essay on the Communist Problem*, John O’Neill (trans.), Boston: Beacon Press, 1969. |
@@ -248,8 +250,6 @@ The author would like to thank Corinne Lajoie for helpful suggestions on revisin
 [^note-7]: A selection of Merleau-Ponty's editorials and other contributions to *Les Temps Modernes* are included in Merleau-Ponty 2018.
 
 [^note-8]: An earlier draft of the third chapter, “Interrogation and Intuition”, was subsequently published as “Brouillon d’une rédaction” (Merleau-Ponty 1996a, 355–378)[^merleau-ponty-1996a].
-
-[^citations-nd]: Citations of these texts list the French pagination first followed by that of the English translation.
 
 [^merleau-ponty-1953]: 1953, *Éloge de la philosophie*, Paris: Gallimard; *In Praise of Philosophy*, John Wild and James Edie (trans.), Evanston: Northwestern University Press, 1963.
 

@@ -81,6 +81,8 @@ Mill also criticized Whewell’s claim that moral rules are necessary truths whi
 
 ### Secondary Literature
 
+In the past twenty years, Whewell’s name and ideas have appeared with much greater frequency in general works on nineteenth-century British science and philosophy, a sign that his importance in and influence upon these areas has been recognized. The list that follows is a selection of works focused more specifically on Whewell and his philosophy, and in which his ideas are closely examined.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=whewell). |
@@ -144,8 +146,6 @@ Bacon, Francis | confirmation | induction: problem of | Kant, Immanuel | Mill, J
 [^whewell-1864]: (1864) *The Elements of Morality, Including Polity*, 4th edition, with Supplement, Cambridge: The University Press.
 
 [^whewell-1866]: (1866) “Comte and Positivism,” *Macmillan’s Magazine*, 13: 353–62.
-
-[^whewell’s-nd]: In the past twenty years, Whewell’s name and ideas have appeared with much greater frequency in general works on nineteenth-century British science and philosophy, a sign that his importance in and influence upon these areas has been recognized. The list that follows is a selection of works focused more specifically on Whewell and his philosophy, and in which his ideas are closely examined.
 
 [^becher-1981]: Becher, H., 1981, “William Whewell and Cambridge Mathematics,” *Historical Studies in the Physical Sciences*, 11: 1–48.
 

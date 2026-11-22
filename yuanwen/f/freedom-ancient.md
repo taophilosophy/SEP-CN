@@ -231,6 +231,8 @@ Plotinus develops his theory of reincarnation as a reading of Plato’s Myth of 
 
 ### Primary texts cited
 
+The following ancient texts are cited (by abbreviation, where given):
+
 ### Secondary sources
 
 ## Academic Tools
@@ -278,8 +280,6 @@ I’d like to thank Anne Farrell and the SEP’s reviewer for their helpful comm
 [^sharples-1983]: Sharples, R. W. (ed. and trans.), 1983, *Alexander of Aphrodisias “On Fate”: text, translation, and commentary*, London: Duckworth.
 
 [^smith-2001]: Smith, Martin Ferguson (trans.), 2001, *Lucretius. On the Nature of Things*, Indianapolis, IN: Hackett.
-
-[^freedom-ancient-nd]: The following ancient texts are cited (by abbreviation, where given):
 
 [^alexander-nd]: Alexander of Aphrodisias
 

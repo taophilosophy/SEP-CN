@@ -115,6 +115,8 @@ In some of his works, it is evident that one of Plato’s goals is to create a s
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+The bibliography below is meant as a highly selective and limited guide for readers who want to learn more about the issues covered above. Further discussion of these and other issues regarding Plato’s philosophy, and far more bibliographical information, is available in the other entries on Plato.
+
 ### Primary Literature
 
 ### Secondary Literature
@@ -135,8 +137,6 @@ In some of his works, it is evident that one of Plato’s goals is to create a s
 ## Related Entries
 
 abstract objects | Aristotle | education, philosophy of | epistemology | metaphysics | Plato: *Cratylus* | Plato: ethics | Plato: ethics and politics in *The Republic* | Plato: method and metaphysics in the *Sophist* and *Statesman* | Plato: middle period metaphysics and epistemology | Plato: on knowledge in the *Theaetetus* | Plato: rhetoric and poetry | Plato: shorter ethical works | Plato: *Timaeus* | religion: and morality in western philosophy | Socrates
-
-[^plato-nd]: The bibliography below is meant as a highly selective and limited guide for readers who want to learn more about the issues covered above. Further discussion of these and other issues regarding Plato’s philosophy, and far more bibliographical information, is available in the other entries on Plato.
 
 [^cooper-1997]: Cooper, John M. (ed.), 1997, *Plato: Complete Works*, Indianapolis: Hackett. (Contains translations of all the works handed down from antiquity with attribution to Plato, some of which are universally agreed to be spurious, with explanatory footnotes and both a general Introduction to the study of the dialogues and individual Introductory Notes to each work translated.)
 

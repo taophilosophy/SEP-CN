@@ -179,6 +179,8 @@ But pleasure should also be of special interest even to philosophers of mind not
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+This will gradually be supplemented by linked lists of suggested readings divided by subject.
+
 ### Canonical Religious Texts, by Tradition
 
 ### References, by Author
@@ -370,8 +372,6 @@ Bertrand Russell, in his behaviorist-influenced 1921, also accomodates inactive 
 [^note-32]: Buddhist Canon, 1995 trans., *Majjhima Nikāya*, 39:¶¶16–18 (pp. 368–69), 111: ¶¶5–10 (pp. 899–900); 119:¶¶19–21 (pp. 953–54). Buddhist Canon, 1974/1900 trans: *Dhammasaṅgaṇi*, ¶¶9–10 (pp. 9–11). Buddhaghosa (using lost ancient commentaries) 1979, Ch. iv, pp. 90–197, especially pp. 148–75 and most particularly ¶¶94, 100, 139, 154, 182–83. The desert traveler example useful for understanding the distinction between *pīti* (joyful interest, rapture, zest, happiness – derived from *prī-*, the Indo-European origin of many words thematizing pleasure and love [see Watkins 2000, Monier-Williams 1899, Rhys Davids 1922–25] including the modern German *Freude* [joy], *Freund* [friend], and *Frau* [wife])[^monier-williams-1899][^watkins-2000] and *sukha* (used here in a narrow and contrastive sense: pleasure, bliss, or happiness) may be found in ¶100, and in the longer form I have mainly followed, in Buddhaghosa’s less widely available 1920–21, iv, 1 (vol. 1, pp. 154–56). Cf. the corresponding account from the northern Buddhist tradition, which likewise has *sukha* sometimes without joyful interest but not joyful interest without *sukha*, Vasubandhu, 1923–31, Ch. II, 8a (French trans.: “*plaisir*” without “*joie*”, vol. 1, pp. 114–15; Pruden English trans., vol. 1, p. 161).
 
 [^note-33]: These lines from Voznesensky’s “Oza”, quoted here in my own translation, may be conveniently found, in their Russian original with an English translation, in *Antiworlds and the Fifth Ace: Poetry by Andrei Voznesensky: A Bilingual Edition*, Patricia Blake and Max Hayward (eds.), New York: Basic Books, 1967, pp. 238–39.
-
-[^this-nd]: This will gradually be supplemented by linked lists of suggested readings divided by subject.
 
 [^buddhist-1974]: Buddhist Canon (Theravadin, Pali in original), 1974 translation, (1st ed. this trans., 1900), *A Buddhist Manual of Psychological Ethics, Being a Translation, now made for the First Time, from the Original Pali, of the First Book of the Abhidhamma Pitaka entitled Dhamma-sangani*, Caroline A.F. Rhys Davids (ed.) and Introductory Essay and Notes, 3rd ed., London and Boston: Routledge and Kegan Paul for the Pali Text Society.
 

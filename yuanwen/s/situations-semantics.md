@@ -643,6 +643,8 @@ The goal of bringing together situation semantics and Davidsonian event semantic
 
 ### References not mentioned in the text
 
+Additional suggestions are most welcome.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=situations-semantics). |
@@ -847,8 +849,6 @@ anaphora | Austin, John Langshaw | contextualism, epistemic | Davidson, Donald |
 [^zucchi-1988]: Zucchi, A., 1988, *The Language of Propositions and Events: Issues in the Syntax and Semantics of Nominalization*, (Ph.D. Thesis, Linguistics Department, University of Massachusetts/Amherst), Dordrecht: Kluwer, 1993.
 
 [^zucchi-2015]: –––, 2015, “Events and Situations,” *Annual Review of Linguistics*, 1: 85–106.
-
-[^additional-nd]: Additional suggestions are most welcome.
 
 [^alonso-ovalle-2002]: Alonso-Ovalle, L., 2002, “Aspect and Situations: a Situation Semantics Account of the Semantic Variability of Spanish *al*-clauses,” *From Words to Discourse*. *Trends in Spanish Semantics and Pragmatics*, J. Gutiérrez-Rexach (ed.), Amsterdam: Elsevier, 119-27.
 

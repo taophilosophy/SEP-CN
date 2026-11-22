@@ -267,6 +267,10 @@ Poincaré’s writings influenced artists (Henderson 1983)[^henderson-1983], esp
 
 ### Selected Works of Poincaré
 
+The Henri Poincaré Papers website at the University of Nantes gives a complete list of Poincaré’s works and makes his correspondence available open access, along with manuscripts and some articles: https://henripoincarepapers.univ-nantes.fr/
+
+An edition of Poincaré’s correspondance is published by Springer under the general editorship of Gerhard Heinzmann: https://link.springer.com/series/6872
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -332,10 +336,6 @@ Thanks go to Scott A. Walter and to an anonymous referee for helpful comments on
 [^poincaré-1963]: 1963, *Mathematics and Science: Last Essays*, translation of Poincaré 1913a, New York: Dover.
 
 [^poincaré-2017]: 2017, *Science and Hypothesis: The Complete Text*, translation of Poincaré 1902 by M. Frappier, A. Smith, and D. J. Stump, London and New York: Bloomsbury.
-
-[^henri-nd]: The Henri Poincaré Papers website at the University of Nantes gives a complete list of Poincaré’s works and makes his correspondence available open access, along with manuscripts and some articles: https://henripoincarepapers.univ-nantes.fr/
-
-[^an-nd]: An edition of Poincaré’s correspondance is published by Springer under the general editorship of Gerhard Heinzmann: https://link.springer.com/series/6872
 
 [^ajdukiewicz-1978]: Ajdukiewicz, K., 1978, *The Scientific World-Perspective and Other Essays, 1931–1963*, edited with an introduction by J. Giedymin, Dordrecht/Boston: Reidel.
 

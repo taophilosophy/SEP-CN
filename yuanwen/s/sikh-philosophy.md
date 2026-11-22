@@ -193,6 +193,10 @@ Clearly, Guru Nanak’s moral standard of egoloss, the *gurmukh*, takes us beyon
 
 ### Primary Sources:
 
+**Note**: On citing the Sri Guru Granth Sahib (SGGS):
+
+The main body of the SGGS (pp. 14–1353) is a vast collection of around 6000 hymns of variable length. Their primary arrangement is by the *raga* or musical measure in which they are performed. Within the primary category of the thirty-one main ragas which are distinguished as separate headings, the hymns of the Gurus are next organized by their poetic form, beginning with the shortest, which may occupy only a few lines of text, and gradually progressing to much longer compositions, which may each take up several pages. It is within these formal categories that authorship is finally distinguished, beginning with the hymns of Guru Nanak, followed by those of the other Gurus in chronological order. Since all the Gurus used the same poetic signature ‘Nanak’, their compositions are distinguished by the codeword *Mahala*, abbreviated as M, so that the hymns of Guru Nanak himself are labelled as M1, those of the third Guru Amar Das as M3, and so on. Citation of hymns or verses normally refer to the page number (*Ang* lit. body=part), but can also include the raga and/or Mahala. For example, the following verse can be cited either by page number (p.260), or by giving the raga and Mahala as follows (Gauri Bavan Akhari M5 50.1, p. 260):
+
 > *Hear, O mind, this truth I tell*:
 > *Seek refuge with the Lord*,
 > *Give up your tricks and cleverness*
@@ -297,10 +301,6 @@ culture | ethics: virtue
 [^varan-1988]: *Varan* of Bhai Gurdas, Amritsar: Chattar Singh, Jeevan Singh Publishers, 1988 edition.
 
 [^kabit-2007]: *Kabit Svayyai* of Bhai Gurdas, Amritsar: Singh Brothers, 2007 edition.
-
-[^note-nd]: **Note**: On citing the Sri Guru Granth Sahib (SGGS):
-
-[^sggs-nd]: The main body of the SGGS (pp. 14–1353) is a vast collection of around 6000 hymns of variable length. Their primary arrangement is by the *raga* or musical measure in which they are performed. Within the primary category of the thirty-one main ragas which are distinguished as separate headings, the hymns of the Gurus are next organized by their poetic form, beginning with the shortest, which may occupy only a few lines of text, and gradually progressing to much longer compositions, which may each take up several pages. It is within these formal categories that authorship is finally distinguished, beginning with the hymns of Guru Nanak, followed by those of the other Gurus in chronological order. Since all the Gurus used the same poetic signature ‘Nanak’, their compositions are distinguished by the codeword *Mahala*, abbreviated as M, so that the hymns of Guru Nanak himself are labelled as M1, those of the third Guru Amar Das as M3, and so on. Citation of hymns or verses normally refer to the page number (*Ang* lit. body=part), but can also include the raga and/or Mahala. For example, the following verse can be cited either by page number (p.260), or by giving the raga and Mahala as follows (Gauri Bavan Akhari M5 50.1, p. 260):
 
 [^ahluwalia-1985]: Ahluwalia, Jasbir Singh, 1985, *Sikh Chintan: Darshanik ate Sansthamik Vikas*, Chandigarh: Lokgeet Prakashan.
 

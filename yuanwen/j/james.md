@@ -164,6 +164,8 @@ James was still working on objections to his “pure experience” doctrine, rep
 
 ### Primary Literature: Works by William James
 
+The works that correspond to the abbreviations [PP], [WB], [TT], [V], [P], [PU], [MT], and [E] are referenced below -- the abbreviation is indicated occurs at the end of relevant reference.
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -182,8 +184,6 @@ James was still working on objections to his “pure experience” doctrine, rep
 ## Related Entries
 
 Dewey, John | Husserl, Edmund | pluralism | pragmatism | religious experience | Russell, Bertrand | Wittgenstein, Ludwig
-
-[^pp-nd]: The works that correspond to the abbreviations [PP], [WB], [TT], [V], [P], [PU], [MT], and [E] are referenced below -- the abbreviation is indicated occurs at the end of relevant reference.
 
 [^works-1975]: *The Works of William James*, Cambridge, MA and London: Harvard University Press, 17 vol., 1975–.
 

@@ -131,6 +131,8 @@ One final point. It is sometimes said that there can be no extrinsic value witho
 
 ### Cited works
 
+Note: Numbers in square brackets indicate to which of the above sections the following works are especially relevant.
+
 ### Other works
 
 ## Academic Tools
@@ -170,8 +172,6 @@ Many thanks to Fred Feldman, Noah Lemos, Terry McConnell, and Toni Rønnow-Rasmu
 [^note-7]: Geach 1956. Geach does not in fact identify Moore by name but aims his criticism at those he calls “moral philosophers known as Objectivists.”
 
 [^note-8]: This view is discussed but not endorsed in Rabinowicz and Rønnow-Rasmussen 2003.
-
-[^note-nd]: Note: Numbers in square brackets indicate to which of the above sections the following works are especially relevant.
 
 [^almotahari-2015]: Almotahari, Mahrad and Hosein, Adam, 2015, “Is Anything Just Plain Good?”, *Philosophical Studies*, 172: 1485–1508. [3]
 

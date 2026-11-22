@@ -217,6 +217,8 @@ During the Western Middle Ages, direct knowledge of Theophrastus’ writings was
 
 ### Primary Literature: Texts, Translations, Commentaries
 
+We use [FHS&G] to refer to:
+
 > Fortenbaugh, W.W., P.M. Huby, R.W. Sharples, and D. Gutas, 1992, *Theophrastus of Eresus. Sources for His Life, Writings, Thought and Influence*, 2 vols., Leiden/Boston: Brill; reprinted 1993 with corrections.
 
 ### Secondary Literature
@@ -236,8 +238,6 @@ During the Western Middle Ages, direct knowledge of Theophrastus’ writings was
 ## Related Entries
 
 Arabic and Islamic Philosophy, historical and methodological topics in: Greek sources | doxography of ancient philosophy | logic: ancient | Presocratic Philosophy
-
-[^we-nd]: We use [FHS&G] to refer to:
 
 [^battegazzore-2006]: Battegazzore, A.M., 2006, *Teofrasto. Il fuoco*, Sassari: Edizioni Gallizzi.
 

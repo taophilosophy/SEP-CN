@@ -425,6 +425,8 @@ Sellars’s philosophy is rich enough to provide a framework within which otherw
 
 ### Principal Works by Wilfrid Sellars
 
+There is an almost universally used standard citation format for Sellars’s works employing the abbreviations given below.
+
 #### Books
 
 | [EPH] | *Essays in Philosophy and Its History*, D. Reidel Publishing Co.; Dordrecht, Holland; 1975 |
@@ -500,8 +502,6 @@ Sellars’s philosophy is rich enough to provide a framework within which otherw
 ## Related Entries
 
 consciousness: and intentionality | empiricism: logical | folk psychology: as a theory | functionalism | justification, epistemic: foundationalist theories of | materialism: eliminative | Rorty, Richard | sense data | space and time: being and becoming in modern physics | types and tokens
-
-[^there-nd]: There is an almost universally used standard citation format for Sellars’s works employing the abbreviations given below.
 
 [^brandom-2015]: Brandom, Robert B., 2015, *From Empiricism to Expressivism: Brandom Reads Sellars*, Cambridge, MA, and London: Harvard University Press. [Brandom’s take on what is living and what is dead in Sellars’ philosophy.]
 

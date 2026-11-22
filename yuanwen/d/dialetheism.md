@@ -306,6 +306,8 @@ Since Aristotle, the assumption that consistency is a requirement for truth, val
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+We break up the references into sections corresponding to those of the text. Where a reference is not explicitly referred to in the text, we add a sentence concerning its relevance.
+
 ### Some Basic Concepts
 
 ### Dialetheism in the History of Philosophy
@@ -338,8 +340,6 @@ Aristotle, General Topics: metaphysics | Aristotle, Special Topics: on non-contr
 ### Acknowledgments
 
 The authors would like to thank Jc Beall, Max Carrara, David Ripley, Koji Tanaka, and three anonymous referees, for providing helpful comments and suggestions. The editors would like to thank Christopher von Bülow for pointing out a number of infelicities, including typos, formatting issues, etc.
-
-[^we-nd]: We break up the references into sections corresponding to those of the text. Where a reference is not explicitly referred to in the text, we add a sentence concerning its relevance.
 
 [^asmus-2012]: Asmus, C., 2012, “Paraconsistency on the Rocks of Dialetheism”, *Logique et Analyse*, 55(217): 3–21. [[Asmus 2012](http://virthost.vub.ac.be/lnaweb/ojs/index.php/LogiqueEtAnalyse/article/view/1812)]
 

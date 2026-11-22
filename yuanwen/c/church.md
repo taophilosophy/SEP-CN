@@ -95,7 +95,7 @@ for integers $m$ and $n$, then (in essence) $(*)$ is provable in the system; and
 
 ### 1.5 The Internal Evidence
 
-Mendelson challenged the view that CT1 is not subject to mathematical treatment by citing cases in which an intuitive concept has literally been *replaced* by a corresponding mathematically precise one. It is not a mere *thesis* that the limit concept, for example, is given by the familiar epsilon-delta definition. The definition replaces the intuitive concept (Mendelson 1990)[^mendelson-1990]. Others have gone further, arguing that computability may be taken as a primitive concept subject to an axiomatic treatment, as Gödel had once suggested (according to Church’s letter to Kleene, 1935d [BE: 1000])[^church’s-1935d]. Sieg proposes an axiomatization based on Turing’s analysis of a person who computes (“a computor”). In section 9 of his (1936), Turing argues (argument I) that the Turing machine is a good model of a computor, who, as such, is subject to certain constraints such as that
+Mendelson challenged the view that CT1 is not subject to mathematical treatment by citing cases in which an intuitive concept has literally been *replaced* by a corresponding mathematically precise one. It is not a mere *thesis* that the limit concept, for example, is given by the familiar epsilon-delta definition. The definition replaces the intuitive concept (Mendelson 1990)[^mendelson-1990]. Others have gone further, arguing that computability may be taken as a primitive concept subject to an axiomatic treatment, as Gödel had once suggested (according to Church’s letter to Kleene, 1935d [BE: 1000]). Sieg proposes an axiomatization based on Turing’s analysis of a person who computes (“a computor”). In section 9 of his (1936), Turing argues (argument I) that the Turing machine is a good model of a computor, who, as such, is subject to certain constraints such as that
 
 1. the behavior of the computor is completely determined by the symbols observed and the computor’s state of mind;
 2. that there is a finite bound on the number of symbols observed at any one time;
@@ -296,7 +296,7 @@ Columbus believed that the world is round.
 
 A natural analysis of such sentences is that they express a relation between Seneca or Columbus and the propositions that man is a rational animal or that the world is round, where such propositions are objective abstract entities that are the ultimate vehicles of truth and meaning. But there has been—and no doubt always will be—skepticism about the existence of such entities and this has motivated the view that sentences such as (1) and (2) express relations between agents and sentence types or even particular inscriptions (or other tokens) of sentences of a particular language, where sentences are assumed to be more concrete than propositions. While this assumption of concreteness seems highly questionable in the case of sentence types, Carnap and others nevertheless vigorously pursued the project of analyzing (1) and (2) in terms that relate agents to such types. (The theory that saying and believing are relations to particular physical tokens is obviously implausible. Contrary to what it predicts, the destruction of such tokens would not have voided Seneca’s belief.) In response, Church deployed his translation argument (CTA) that if we limit our ontology to sentence types, then our semantic theory will not be able to provide a true analysis of sentences like (1) and (2). (This is a crucial part of Church’s broader argument that no philosophical theory that is both true and humanly understandable can do without propositions. We return to the rest of the argument in §6.3.)
 
-CTA—as formulated in Church’s (1950a)[^church’s-1950a]—is specifically directed at Carnap’s (1947)[^carnap-1947] analysis of sentences like (1) and (2), which in turn appeals to a particular notion of synonymy. However, since Church has shown that Carnap’s notion of synonymy is incorrect (via an argument described in [supplement E](church.supplementE.md)), we can safely omit the details of Carnap’s notion for present purposes and speak simply in terms of synonymy. Now, according to Carnap’s analysis, (2) is synonymous with
+CTA—as formulated in Church’s (1950a)—is specifically directed at Carnap’s (1947)[^carnap-1947] analysis of sentences like (1) and (2), which in turn appeals to a particular notion of synonymy. However, since Church has shown that Carnap’s notion of synonymy is incorrect (via an argument described in [supplement E](church.supplementE.md)), we can safely omit the details of Carnap’s notion for present purposes and speak simply in terms of synonymy. Now, according to Carnap’s analysis, (2) is synonymous with
 
 **(3)**
 
@@ -374,7 +374,7 @@ In philosophy the correct analysis of the concept of knowledge has proved to be 
 
 ### 3.5 The Logic of Sense and Denotation
 
-Church’s (1943a)[^church’s-1943a] review of Carnap’s *Introduction to Semantics* (1942) constitutes an important early step in the application of the logistic method to the subject of semantics (see also Church 1943c, 1951b, 1952, 1956a). Like Frege, Church believed that the *Sinn* or sense of an expression is an *objective*—i.e., mind-and-language independent—abstract entity (cf. §3.3 and §6.3) and that senses are needed in semantics for their power to explain the informative nature of identity statements containing co-designating names, as well as to explain the failure of the substitutivity of co-designating names in intensional contexts (1943a; 1956a: §01). Moreover, Church also shared Frege’s highly controversial view that in addition to assigning senses to expressions in scientific language, one should also assign them to expressions in natural language. (See [supplement E](church.supplementE.md) for discussion.)
+Church’s (1943a) review of Carnap’s *Introduction to Semantics* (1942) constitutes an important early step in the application of the logistic method to the subject of semantics (see also Church 1943c, 1951b, 1952, 1956a). Like Frege, Church believed that the *Sinn* or sense of an expression is an *objective*—i.e., mind-and-language independent—abstract entity (cf. §3.3 and §6.3) and that senses are needed in semantics for their power to explain the informative nature of identity statements containing co-designating names, as well as to explain the failure of the substitutivity of co-designating names in intensional contexts (1943a; 1956a: §01). Moreover, Church also shared Frege’s highly controversial view that in addition to assigning senses to expressions in scientific language, one should also assign them to expressions in natural language. (See [supplement E](church.supplementE.md) for discussion.)
 
 However, given that senses and propositions are objective, one might wonder whether theorizing about them via the logistic method should *really* proceed *indirectly*, via the study of intensional semantic theories of possible languages (again, see [supplement E](church.supplementE.md)), or whether the logistic method should instead study senses *directly* by theorizing about how these entities are related to one another and to the *designata* that they determine. Church himself distinguishes these two approaches and claims that if a theory could be formulated in a satisfactory way using the direct method, then “it should be a comparatively simple matter to devise a language with the desired sort of semantics” (1979 [BE: 807]). He pursued this direct approach in his papers on the *Logic of Sense and Denotation* or “LSD” (1946b, 1951a, 1973b, 1974a, 1993).
 
@@ -681,6 +681,8 @@ Regarding the second premise, it remains to be shown that we need to take the st
 
 ### Primary Sources
 
+Church’s papers are located at the Princeton University Library
+
 ### Secondary Sources
 
 ## Academic Tools
@@ -705,141 +707,139 @@ The authors are grateful to C. Anthony Anderson, Allen Hazen, Hasen Khudairi, Ga
 
 [^be-2019]: [BE] Burge, Tyler and Herbert Enderton (eds), 2019, *The Collected Works of Alonzo Church*, Cambridge, MA: MIT Press.
 
-[^church’s-nd]: Church’s papers are located at the Princeton University Library
+[^be-1927]: 1927, “Alternatives to Zermelo’s Assumption”, *Transactions of the American Mathematical Society*, 29(1): 178–208. Reprinted in BE: 19–42. doi:10.2307/1989285
 
-[^church’s-1927]: 1927, “Alternatives to Zermelo’s Assumption”, *Transactions of the American Mathematical Society*, 29(1): 178–208. Reprinted in BE: 19–42. doi:10.2307/1989285
+[^be-1928a]: 1928a, “On the Law of Excluded Middle”, *Bulletin of the American Mathematical Society*, 34(1): 75–79. Reprinted in BE: 43–45. doi:10.1090/S0002-9904-1928-04516-0
 
-[^church’s-1928a]: 1928a, “On the Law of Excluded Middle”, *Bulletin of the American Mathematical Society*, 34(1): 75–79. Reprinted in BE: 43–45. doi:10.1090/S0002-9904-1928-04516-0
+[^be-1928b]: 1928b, “Review of *Principia Mathematica*, by Alfred North Whitehead and Bertrand Russell”, *Bulletin of the American Mathematical Society*, 34(2): 237–241. Reprinted in BE: 46–48. doi:10.1090/S0002-9904-1928-04525-1
 
-[^church’s-1928b]: 1928b, “Review of *Principia Mathematica*, by Alfred North Whitehead and Bertrand Russell”, *Bulletin of the American Mathematical Society*, 34(2): 237–241. Reprinted in BE: 46–48. doi:10.1090/S0002-9904-1928-04525-1
+[^be-1932]: 1932, “A Set of Postulates for the Foundation of Logic”, *The Annals of Mathematics*, 33(2): 346–366. Reprinted in BE: 51–67. doi:10.2307/1968337
 
-[^church’s-1932]: 1932, “A Set of Postulates for the Foundation of Logic”, *The Annals of Mathematics*, 33(2): 346–366. Reprinted in BE: 51–67. doi:10.2307/1968337
+[^be-1933]: 1933, “A Set of Postulates For the Foundation of Logic (2)”, *The Annals of Mathematics*, 34(4): 839–864. Reprinted in BE: 68–87. doi:10.2307/1968702
 
-[^church’s-1933]: 1933, “A Set of Postulates For the Foundation of Logic (2)”, *The Annals of Mathematics*, 34(4): 839–864. Reprinted in BE: 68–87. doi:10.2307/1968702
+[^be-1934]: 1934, “The Richard Paradox”, *The American Mathematical Monthly*, 41(6): 356–361. Reprinted in BE: 94–98. doi:10.1080/00029890.1934.11987569
 
-[^church’s-1934]: 1934, “The Richard Paradox”, *The American Mathematical Monthly*, 41(6): 356–361. Reprinted in BE: 94–98. doi:10.1080/00029890.1934.11987569
+[^be-1935a]: 1935a, “A Proof of Freedom from Contradiction”, *Proceedings of the National Academy of Sciences*, 21(5): 275–281. Reprinted in BE: 99–104. doi:10.1073/pnas.21.5.275
 
-[^church’s-1935a]: 1935a, “A Proof of Freedom from Contradiction”, *Proceedings of the National Academy of Sciences*, 21(5): 275–281. Reprinted in BE: 99–104. doi:10.1073/pnas.21.5.275
+[^be-1935b]: 1935b, “Review of *A System of Logistic*, by W. V. O. Quine”, *Bulletin of the American Mathematical Society*, 41(9): 598–604. Reprinted in BE: 105–109. doi:10.1090/S0002-9904-1935-06146-4
 
-[^church’s-1935b]: 1935b, “Review of *A System of Logistic*, by W. V. O. Quine”, *Bulletin of the American Mathematical Society*, 41(9): 598–604. Reprinted in BE: 105–109. doi:10.1090/S0002-9904-1935-06146-4
+[^be-1935c]: 1935c, “An Unsolvable Problem of Elementary Number Theory: Preliminary Report”, *Bulletin of the AMS*, 41(5): 332–333. Reprinted in BE: 110. doi:10.1090/S0002-9904-1935-06097-5
 
-[^church’s-1935c]: 1935c, “An Unsolvable Problem of Elementary Number Theory: Preliminary Report”, *Bulletin of the AMS*, 41(5): 332–333. Reprinted in BE: 110. doi:10.1090/S0002-9904-1935-06097-5
+[^be-1935d]: 1935d, “Letter to Kleene”. Printed in BE: 1000. November 15, 1935.
 
-[^church’s-1935d]: 1935d, “Letter to Kleene”. Printed in BE: 1000. November 15, 1935.
+[^be-1935e]: 1935e, “Letter to Bernays”. Printed in BE: 995–997. July 15, 1935.
 
-[^church’s-1935e]: 1935e, “Letter to Bernays”. Printed in BE: 995–997. July 15, 1935.
+[^be-1936a]: 1936a, “An Unsolvable Problem of Elementary Number Theory”, *American Journal of Mathematics*, 58(2): 345–363. Reprinted in BE: 111–125. doi:10.2307/2371045
 
-[^church’s-1936a]: 1936a, “An Unsolvable Problem of Elementary Number Theory”, *American Journal of Mathematics*, 58(2): 345–363. Reprinted in BE: 111–125. doi:10.2307/2371045
+[^be-1936b]: 1936b, “A Note on the Entscheidungsproblem”, *Journal of Symbolic Logic*, 1(1): 40–41. Reprinted in BE: 126–129. doi:10.2307/2269326
 
-[^church’s-1936b]: 1936b, “A Note on the Entscheidungsproblem”, *Journal of Symbolic Logic*, 1(1): 40–41. Reprinted in BE: 126–129. doi:10.2307/2269326
+[^be-1937a]: 1937a, “Review of ‘On Computable Numbers, with an Application to the Entscheidungsproblem’, by A. M. Turing”, *Journal of Symbolic Logic*, 2(1): 42–43. Reprinted in BE: 934. doi:10.1017/S002248120003958X
 
-[^church’s-1937a]: 1937a, “Review of ‘On Computable Numbers, with an Application to the Entscheidungsproblem’, by A. M. Turing”, *Journal of Symbolic Logic*, 2(1): 42–43. Reprinted in BE: 934. doi:10.1017/S002248120003958X
+[^be-1937b]: 1937b, “Review of ‘Finite Combinatory Processes—Formulation 1’, by Emil L. Post”, *Journal of Symbolic Logic*, 2(1): 43. doi:10.1017/S0022481200039591
 
-[^church’s-1937b]: 1937b, “Review of ‘Finite Combinatory Processes—Formulation 1’, by Emil L. Post”, *Journal of Symbolic Logic*, 2(1): 43. doi:10.1017/S0022481200039591
+[^be-1937c]: 1937c, “Review of ‘The Logic of Quantum Mechanics’, by Garrett Birkhoff and John von Neumann”, *Journal of Symbolic Logic*, 2(1): 44–45. doi:10.1017/S0022481200039633
 
-[^church’s-1937c]: 1937c, “Review of ‘The Logic of Quantum Mechanics’, by Garrett Birkhoff and John von Neumann”, *Journal of Symbolic Logic*, 2(1): 44–45. doi:10.1017/S0022481200039633
+[^be-1938]: 1938, “The Constructive Second Number Class”, *Bulletin of the American Mathematical Society*, 44: 224–232. Reprinted in BE: 148–154.
 
-[^church’s-1938]: 1938, “The Constructive Second Number Class”, *Bulletin of the American Mathematical Society*, 44: 224–232. Reprinted in BE: 148–154.
+[^be-1939a]: 1939a, “Review of *Foundations of Logic and Mathematics*, by Rudolf Carnap”, *Bulletin of the American Mathematical Society*, 45(11): 821–822. Reprinted in BE: 161–162. doi:10.1090/S0002-9904-1939-07085-7
 
-[^church’s-1939a]: 1939a, “Review of *Foundations of Logic and Mathematics*, by Rudolf Carnap”, *Bulletin of the American Mathematical Society*, 45(11): 821–822. Reprinted in BE: 161–162. doi:10.1090/S0002-9904-1939-07085-7
+[^be-1939b]: 1939b, “The Present Situation in the Foundations of Mathematics”, in *Philosophie mathématique*, by F. Gonseth, (Actualités scientifiques et industrielles 837), Paris: Hermann et Cie, pp. 67–72. Reprinted in BE: 155–160.
 
-[^church’s-1939b]: 1939b, “The Present Situation in the Foundations of Mathematics”, in *Philosophie mathématique*, by F. Gonseth, (Actualités scientifiques et industrielles 837), Paris: Hermann et Cie, pp. 67–72. Reprinted in BE: 155–160.
+[^be-1939c]: 1939c, “Review of ‘A Logistical Approach to the Ontological Problem’., by W. V. O. Quine”, *Journal of Symbolic Logic*, 4(4): 170. Reprinted in BE: 937–938. doi:10.2307/2268739
 
-[^church’s-1939c]: 1939c, “Review of ‘A Logistical Approach to the Ontological Problem’., by W. V. O. Quine”, *Journal of Symbolic Logic*, 4(4): 170. Reprinted in BE: 937–938. doi:10.2307/2268739
+[^be-1940]: 1940, “A Formulation of the Simple Theory of Types”, *Journal of Symbolic Logic*, 5(2): 56–68. Reprinted in BE: 171–183. doi:10.2307/2266170
 
-[^church’s-1940]: 1940, “A Formulation of the Simple Theory of Types”, *Journal of Symbolic Logic*, 5(2): 56–68. Reprinted in BE: 171–183. doi:10.2307/2266170
+[^be-1941]: 1941, *The Calculi of Lambda Conversion* (Annals of Mathematics Studies 6), Princeton, NJ: Princeton University Press. Reprinted in BE: 201–255.
 
-[^church’s-1941]: 1941, *The Calculi of Lambda Conversion* (Annals of Mathematics Studies 6), Princeton, NJ: Princeton University Press. Reprinted in BE: 201–255.
+[^be-1943a]: 1943a, “Carnap’s *Introduction to Semantics* (1942)”, *The Philosophical Review*, 52(3): 298–304. Reprinted in BE: 259–264. doi:10.2307/2180923
 
-[^church’s-1943a]: 1943a, “Carnap’s *Introduction to Semantics* (1942)”, *The Philosophical Review*, 52(3): 298–304. Reprinted in BE: 259–264. doi:10.2307/2180923
+[^be-1943b]: 1943b/1968, “Review of ‘Notes on Existence and Necessity’, by W. V. O. Quine”, *Journal of Symbolic Logic*, 8(2): 45–47. Postscript, 1968, originally published in 1973, *Semántica filosófica*, Thomas Moro Simpson (ed.). Reprinted with postscript in BE: 942–948. doi:10.2307/2267994
 
-[^church’s-1943b]: 1943b/1968, “Review of ‘Notes on Existence and Necessity’, by W. V. O. Quine”, *Journal of Symbolic Logic*, 8(2): 45–47. Postscript, 1968, originally published in 1973, *Semántica filosófica*, Thomas Moro Simpson (ed.). Reprinted with postscript in BE: 942–948. doi:10.2307/2267994
+[^be-1943c]: 1943c, “Correspondence with W. V. Quine”. Printed in BE: 1074–1090.
 
-[^church’s-1943c]: 1943c, “Correspondence with W. V. Quine”. Printed in BE: 1074–1090.
+[^be-1944a]: 1944a, “Review of *Formalization of Logic*, by Rudolf Carnap”, *The Philosophical Review*, 53(5): 493. Reprinted in BE: 265–269. doi:10.2307/2181359
 
-[^church’s-1944a]: 1944a, “Review of *Formalization of Logic*, by Rudolf Carnap”, *The Philosophical Review*, 53(5): 493. Reprinted in BE: 265–269. doi:10.2307/2181359
+[^be-1944b]: 1944b, *Introduction to Mathematical Logic, Part I*, (Annals of Mathematics Studies, 13), Princeton, NJ: Princeton University Press. Revised and enlarged in Church 1956a.
 
-[^church’s-1944b]: 1944b, *Introduction to Mathematical Logic, Part I*, (Annals of Mathematics Studies, 13), Princeton, NJ: Princeton University Press. Revised and enlarged in Church 1956a.
+[^be-1945a]: 1945a, “Review of ‘Logic without Ontology’, by Ernest Nagel”, *Journal of Symbolic Logic*, 10(1): 16–18; reprinted in BE: 951–953. doi:10.2307/2267202
 
-[^church’s-1945a]: 1945a, “Review of ‘Logic without Ontology’, by Ernest Nagel”, *Journal of Symbolic Logic*, 10(1): 16–18; reprinted in BE: 951–953. doi:10.2307/2267202
+[^be-1945b]: 1945b, “Referee Reports on Fitch’s ‘A Definition of Value’ ”, in J. Salerno (ed.) 2009, 13–20.
 
-[^church’s-1945b]: 1945b, “Referee Reports on Fitch’s ‘A Definition of Value’ ”, in J. Salerno (ed.) 2009, 13–20.
+[^be-1946a]: 1946a, “Review of ‘A Note on the Paradox of Analysis’, by Morton G. White; ‘The Paradox of Analysis Again: A Reply’, by Max Black; ‘Analysis and Identity: A Rejoinder’, by Morton G. White; ‘How Can Analysis Be Informative?’ by Max Black”, *Journal of Symbolic Logic*, 11(4): 132–133. Reprinted in BE: 956–957. doi:10.2307/2268327
 
-[^church’s-1946a]: 1946a, “Review of ‘A Note on the Paradox of Analysis’, by Morton G. White; ‘The Paradox of Analysis Again: A Reply’, by Max Black; ‘Analysis and Identity: A Rejoinder’, by Morton G. White; ‘How Can Analysis Be Informative?’ by Max Black”, *Journal of Symbolic Logic*, 11(4): 132–133. Reprinted in BE: 956–957. doi:10.2307/2268327
+[^be-1946b]: 1946b, “A Formulation of the Logic of Sense and Denotation”, Abstract from the Eighth Meeting of the Association for Symbolic Logic, *Journal of Symbolic Logic*, 11(1): 31. Reprinted in BE: 270–272. doi:10.2307/2269172
 
-[^church’s-1946b]: 1946b, “A Formulation of the Logic of Sense and Denotation”, Abstract from the Eighth Meeting of the Association for Symbolic Logic, *Journal of Symbolic Logic*, 11(1): 31. Reprinted in BE: 270–272. doi:10.2307/2269172
+[^be-1949a]: 1949a, “Review of *Language, Truth and Logic*, by Alfred Jules Ayer”, *Journal of Symbolic Logic*, 14(1): 52–53. Reprinted in BE: 963–964. doi:10.2307/2268980
 
-[^church’s-1949a]: 1949a, “Review of *Language, Truth and Logic*, by Alfred Jules Ayer”, *Journal of Symbolic Logic*, 14(1): 52–53. Reprinted in BE: 963–964. doi:10.2307/2268980
+[^be-1949b]: 1949b, “Grelling’s Antinomy for the System of *A Formulation of the Simple Theory of Types*”, previously unpublished manuscript. Printed in BE: 276–278.
 
-[^church’s-1949b]: 1949b, “Grelling’s Antinomy for the System of *A Formulation of the Simple Theory of Types*”, previously unpublished manuscript. Printed in BE: 276–278.
+[^be-1950a]: 1950a, “On Carnap’s Analysis of Statements of Assertion and Belief”, *Analysis*, 10(5): 97–99. Reprinted in BE: 279–281. doi:10.1093/analys/10.5.97
 
-[^church’s-1950a]: 1950a, “On Carnap’s Analysis of Statements of Assertion and Belief”, *Analysis*, 10(5): 97–99. Reprinted in BE: 279–281. doi:10.1093/analys/10.5.97
+[^be-1950b]: 1950b, “Letter to Carnap”. Printed in BE: 1063–1064. July 11, 1950.
 
-[^church’s-1950b]: 1950b, “Letter to Carnap”. Printed in BE: 1063–1064. July 11, 1950.
+[^be-1950c]: 1950c, “Review of ‘Modern Logic and the Synthetic A Priori’, by Irving M. Copi”, *Journal of Symbolic Logic*, 15(3): 221. doi:10.2307/2266825
 
-[^church’s-1950c]: 1950c, “Review of ‘Modern Logic and the Synthetic A Priori’, by Irving M. Copi”, *Journal of Symbolic Logic*, 15(3): 221. doi:10.2307/2266825
+[^be-1951a]: 1951a, “A Formulation of the Logic of Sense and Denotation”, in *Structure, Method and Meaning: Essays in Honor of Henry M. Sheffer*, Paul Henley, H. M. Kallen, and S. K. Langer (eds), New York: The Liberal Arts Press, pp. 3–24. Reprinted in BE: 292–306.
 
-[^church’s-1951a]: 1951a, “A Formulation of the Logic of Sense and Denotation”, in *Structure, Method and Meaning: Essays in Honor of Henry M. Sheffer*, Paul Henley, H. M. Kallen, and S. K. Langer (eds), New York: The Liberal Arts Press, pp. 3–24. Reprinted in BE: 292–306.
+[^be-1951b]: 1951b, “The Need for Abstract Entities in Semantic Analysis”, *Proceedings of the American Academy of Arts and Sciences*, 80(1): 100–112. Reprinted as “Intensional Semantics” in BE: 282–291. doi:10.2307/20023640
 
-[^church’s-1951b]: 1951b, “The Need for Abstract Entities in Semantic Analysis”, *Proceedings of the American Academy of Arts and Sciences*, 80(1): 100–112. Reprinted as “Intensional Semantics” in BE: 282–291. doi:10.2307/20023640
+[^be-1952]: 1952, “Review of ‘Introduction’ by A. G. N. Flew; ‘Systematically Misleading Expressions’ by Gilbert Ryle; and ‘Verifiability’ by Friedrich Waismann in *Essays on Logic and Language*”, *Journal of Symbolic Logic*, 17(4): 284–285. Reprinted in BE: 966–968. doi:10.2307/2266640
 
-[^church’s-1952]: 1952, “Review of ‘Introduction’ by A. G. N. Flew; ‘Systematically Misleading Expressions’ by Gilbert Ryle; and ‘Verifiability’ by Friedrich Waismann in *Essays on Logic and Language*”, *Journal of Symbolic Logic*, 17(4): 284–285. Reprinted in BE: 966–968. doi:10.2307/2266640
+[^be-1954]: 1954, “Intensional Isomorphism and Identity of Belief”, *Philosophical Studies*, 5(5): 65–73. Reprinted in BE: 349–355. doi:10.1007/BF02221771
 
-[^church’s-1954]: 1954, “Intensional Isomorphism and Identity of Belief”, *Philosophical Studies*, 5(5): 65–73. Reprinted in BE: 349–355. doi:10.1007/BF02221771
+[^be-1956a]: 1956a, *Introduction to Mathematical Logic, Volume I,*, Princeton, NJ: Princeton University Press. Revised and enlarged version of 1944b; the second volume was never published. Reprinted in BE: 372–425.
 
-[^church’s-1956a]: 1956a, *Introduction to Mathematical Logic, Volume I,*, Princeton, NJ: Princeton University Press. Revised and enlarged version of 1944b; the second volume was never published. Reprinted in BE: 372–425.
+[^be-1956b]: 1956b, “Propositions and Sentences”, in *The Problem of Universals: A Symposium*, I.M. Bochenski, Alonzo Church, and Nelson Goodman, Notre Dame, IN: University of Notre Dame Press pp. 1–12. Reprinted in BE: 356–361.
 
-[^church’s-1956b]: 1956b, “Propositions and Sentences”, in *The Problem of Universals: A Symposium*, I.M. Bochenski, Alonzo Church, and Nelson Goodman, Notre Dame, IN: University of Notre Dame Press pp. 1–12. Reprinted in BE: 356–361.
+[^be-1956]: 1956–72, Articles from *Encyclopedia Britannica*. Reprinted in BE: 692–746.
 
-[^church’s-1956]: 1956–72, Articles from *Encyclopedia Britannica*. Reprinted in BE: 692–746.
+[^be-1958a]: 1958a, “Ontological Commitment”, *The Journal of Philosophy*, 55(23): 1008–1014. Reprinted in BE: 356–361. doi:10.2307/2021909
 
-[^church’s-1958a]: 1958a, “Ontological Commitment”, *The Journal of Philosophy*, 55(23): 1008–1014. Reprinted in BE: 356–361. doi:10.2307/2021909
+[^be-1958b]: 1958b, “Misogyny and Ontological Commitment”. Printed in BE: 443–447.
 
-[^church’s-1958b]: 1958b, “Misogyny and Ontological Commitment”. Printed in BE: 443–447.
+[^be-1959]: 1959, Articles from *the Dictionary of Philosophy*, D. D. Runes (ed.), New York: Philosophical Library. Reprinted in BE: 448–530.
 
-[^church’s-1959]: 1959, Articles from *the Dictionary of Philosophy*, D. D. Runes (ed.), New York: Philosophical Library. Reprinted in BE: 448–530.
+[^be-1960]: 1960, “Application of Recursive Arithmetic to the Problem of Circuit Synthesis”, in *Summaries of Talks Presented at the Summer Institute for Symbolic Logic, CornellUniversity*, 1957, 2nd ed., Princeton, NJ: Communications Research Division, Institute for Defense Analyses, pp. 3–50.
 
-[^church’s-1960]: 1960, “Application of Recursive Arithmetic to the Problem of Circuit Synthesis”, in *Summaries of Talks Presented at the Summer Institute for Symbolic Logic, CornellUniversity*, 1957, 2nd ed., Princeton, NJ: Communications Research Division, Institute for Defense Analyses, pp. 3–50.
+[^be-1962a]: 1962a, “Logic, Arithmetic, and Automata”, *Proceedings of the International Congress of Mathematicians, 1962*, volume 1, pp. 23–35.
 
-[^church’s-1962a]: 1962a, “Logic, Arithmetic, and Automata”, *Proceedings of the International Congress of Mathematicians, 1962*, volume 1, pp. 23–35.
+[^be-1962b]: 1962b, “Mathematics and Logic”, *Logic, Methodology and Philosophy of Science: Proceedings of the 1960 International Congress*, Ernest Nagel, Patrick Suppes, and Alfred Tarski (eds), Stanford, CA: Stanford University Press, pp. 181–186. Reprinted in BE: 608–612.
 
-[^church’s-1962b]: 1962b, “Mathematics and Logic”, *Logic, Methodology and Philosophy of Science: Proceedings of the 1960 International Congress*, Ernest Nagel, Patrick Suppes, and Alfred Tarski (eds), Stanford, CA: Stanford University Press, pp. 181–186. Reprinted in BE: 608–612.
+[^be-1965]: 1965, “Review of ‘Existential Import Revisited’ by Karel Lambert”, *Journal of Symbolic Logic*, 30(1): 103–104.
 
-[^church’s-1965]: 1965, “Review of ‘Existential Import Revisited’ by Karel Lambert”, *Journal of Symbolic Logic*, 30(1): 103–104.
+[^be-1966]: 1966, “Paul J. Cohen and the Continuum Problem”, *Proceedings of the International Congress of Mathematicians 1966*, volume 1, pp. 15–20. Reprinted in BE: 675–679.
 
-[^church’s-1966]: 1966, “Paul J. Cohen and the Continuum Problem”, *Proceedings of the International Congress of Mathematicians 1966*, volume 1, pp. 15–20. Reprinted in BE: 675–679.
+[^be-1968]: 1968/1972/1976, “Partial Outline of *Introduction to Mathematical Logic* Chapter VIII”, unpublished manuscripts, printed BE: 889–927.
 
-[^church’s-1968]: 1968/1972/1976, “Partial Outline of *Introduction to Mathematical Logic* Chapter VIII”, unpublished manuscripts, printed BE: 889–927.
+[^be-1973a]: 1973a, “On Scheffler’s Approach to Indirect Quotation”, in *Sobre el análisis del discurso indirecto propuesto por Scheffler, Semántica filosófica: Problemas y discusiones*, Thomas Moro Simpson (ed.), Siglo XXI Argentina Editores S.A., Buenos Aires, pp. 363–369. Reprint in BE: 747–750.
 
-[^church’s-1973a]: 1973a, “On Scheffler’s Approach to Indirect Quotation”, in *Sobre el análisis del discurso indirecto propuesto por Scheffler, Semántica filosófica: Problemas y discusiones*, Thomas Moro Simpson (ed.), Siglo XXI Argentina Editores S.A., Buenos Aires, pp. 363–369. Reprint in BE: 747–750.
+[^be-1973b]: 1973b, “Outline of a Revised Formulation of the Logic of Sense and Denotation (Part I)”, *Noûs*, 7(1): 24–33. Reprinted in BE: 751–772. doi:10.2307/2216181
 
-[^church’s-1973b]: 1973b, “Outline of a Revised Formulation of the Logic of Sense and Denotation (Part I)”, *Noûs*, 7(1): 24–33. Reprinted in BE: 751–772. doi:10.2307/2216181
+[^be-1974a]: 1974a, “Outline of a Revised Formulation of the Logic of Sense and Denotation (Part II)”, *Noûs*, 8(2): 135–156. Reprinted in BE: 751–772. doi:10.2307/2214782
 
-[^church’s-1974a]: 1974a, “Outline of a Revised Formulation of the Logic of Sense and Denotation (Part II)”, *Noûs*, 8(2): 135–156. Reprinted in BE: 751–772. doi:10.2307/2214782
+[^be-1974b]: 1974b, “Russellian Simple Type Theory”, *Proceedings and Addresses of the American Philosophical Association*, 47: 21–33. Reprinted in BE: 773–783. doi:10.2307/3129899
 
-[^church’s-1974b]: 1974b, “Russellian Simple Type Theory”, *Proceedings and Addresses of the American Philosophical Association*, 47: 21–33. Reprinted in BE: 773–783. doi:10.2307/3129899
+[^be-1974c]: 1974c, “Set Theory with a Universal Set”, *Proceedings of the Tarski Symposium in American Mathematical Society: Proceedings of Symposia in Pure Mathematics*, volume 25: 297–308. Reprinted in BE: 784–793. doi:10.1090/pspum/025/0369069
 
-[^church’s-1974c]: 1974c, “Set Theory with a Universal Set”, *Proceedings of the Tarski Symposium in American Mathematical Society: Proceedings of Symposia in Pure Mathematics*, volume 25: 297–308. Reprinted in BE: 784–793. doi:10.1090/pspum/025/0369069
+[^be-1975]: 1975, “Review of ‘Realism as a Philosophy of Mathematics’ by Stephen F. Barker in *Foundations of mathematics, Symposium papers commemorating the sixtieth birthday of Kurt Godel*”, *Journal of Symbolic Logic*, 40: 593. Reprinted in BE: 983-984.
 
-[^church’s-1975]: 1975, “Review of ‘Realism as a Philosophy of Mathematics’ by Stephen F. Barker in *Foundations of mathematics, Symposium papers commemorating the sixtieth birthday of Kurt Godel*”, *Journal of Symbolic Logic*, 40: 593. Reprinted in BE: 983-984.
+[^be-1976]: 1976, “Comparison of Russell’s Resolution of the Semantical Antinomies with That of Tarski”, *Journal of Symbolic Logic*, 41(4): 747–760. Reprinted in BE: 794–806. doi:10.2307/2272393
 
-[^church’s-1976]: 1976, “Comparison of Russell’s Resolution of the Semantical Antinomies with That of Tarski”, *Journal of Symbolic Logic*, 41(4): 747–760. Reprinted in BE: 794–806. doi:10.2307/2272393
+[^be-1979]: 1979, “How Far Can Frege’s Intensional Logic be Reproduced Within Russell’s Theory of Descriptions”, previously unpublished abstract of a lecture. Printed in BE: 807–808.
 
-[^church’s-1979]: 1979, “How Far Can Frege’s Intensional Logic be Reproduced Within Russell’s Theory of Descriptions”, previously unpublished abstract of a lecture. Printed in BE: 807–808.
+[^be-1982]: 1982, “A Remark Concerning Quine’s Paradox About Modality”, *Una Observacion respecto a la Paradoja de Quine sobre la Modalidad*, special issue of *Análisis Filosófico*, 2(1/2): 25–32. Reprinted in BE: 809–814.
 
-[^church’s-1982]: 1982, “A Remark Concerning Quine’s Paradox About Modality”, *Una Observacion respecto a la Paradoja de Quine sobre la Modalidad*, special issue of *Análisis Filosófico*, 2(1/2): 25–32. Reprinted in BE: 809–814.
+[^be-1984]: 1984, “Russell’s Theory of Identity of Propositions”, *Philosophia Naturalis*, 21(2/4): 513–522. Reprinted in BE: 815–821.
 
-[^church’s-1984]: 1984, “Russell’s Theory of Identity of Propositions”, *Philosophia Naturalis*, 21(2/4): 513–522. Reprinted in BE: 815–821.
+[^be-1989]: 1989, “Intensionality and the Paradox of the Name Relation”, in Almog, Perry, and Wettstein 1989: 151–165. Reprinted in BE: 834–844.
 
-[^church’s-1989]: 1989, “Intensionality and the Paradox of the Name Relation”, in Almog, Perry, and Wettstein 1989: 151–165. Reprinted in BE: 834–844.
+[^be-1993]: 1993, “A Revised Formulation of the Logic of Sense and Denotation. Alternative (1)”, *Noûs*, 27(2): 141–157. Reprinted in BE: 845–859. doi:10.2307/2215752
 
-[^church’s-1993]: 1993, “A Revised Formulation of the Logic of Sense and Denotation. Alternative (1)”, *Noûs*, 27(2): 141–157. Reprinted in BE: 845–859. doi:10.2307/2215752
+[^be-1995a]: 1995a, “Grelling’s Antinomy”, printed BE: 929–931.
 
-[^church’s-1995a]: 1995a, “Grelling’s Antinomy”, printed BE: 929–931.
+[^be-1995b]: 1995b, “Corrections and Minor Comments Affecting Heyting’s *Intuitionism,* Edition of 1976”. Printed in BE: 932–933.
 
-[^church’s-1995b]: 1995b, “Corrections and Minor Comments Affecting Heyting’s *Intuitionism,* Edition of 1976”. Printed in BE: 932–933.
-
-[^church’s-1995c]: 1995c, “A Theory of the Meaning of Names”, in *The Heritage of Kazimierz Ajdukiewicz*, Vito Sinisi and Jan Woleński (eds), Amsterdam: Rodopi, 69–74. Reprinted in BE: 859–863.
+[^be-1995c]: 1995c, “A Theory of the Meaning of Names”, in *The Heritage of Kazimierz Ajdukiewicz*, Vito Sinisi and Jan Woleński (eds), Amsterdam: Rodopi, 69–74. Reprinted in BE: 859–863.
 
 [^resolution-nd]: n.d., “Resolution of Berry’s Antinomy by Ramified Type Theory”, printed in BE: 928.
 

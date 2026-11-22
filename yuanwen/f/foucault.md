@@ -173,9 +173,13 @@ Foucault never published any of the material developed in these two lecture seri
 
 #### 2. Shorter Writings and Interviews
 
+This section includes editorial collections published posthumously that gather texts originally published or publicly delivered during Foucault’s lifetime.
+
 #### 3. Posthumously Published Lectures
 
 #### 4. Posthumously Published Manuscripts and Archival Materials
+
+This section lists a selection of posthumously published manuscripts and archival texts that have played a significant role in recent interpretations of Foucault’s work.
 
 ### Secondary Sources
 
@@ -225,21 +229,17 @@ authenticity | biomedicine, philosophy of | feminist philosophy, topics: perspec
 
 [^histoire-1984-2]: 1984, *Le souci de soi*; translated as *Care of the Self*, 1986.
 
-[^this-nd]: This section includes editorial collections published posthumously that gather texts originally published or publicly delivered during Foucault’s lifetime.
-
 [^dits-1980]: *Dits et écrits*, Vol. I–IV, 1980–1988, Daniel Defert and François Ewald (eds.), Paris: Gallimard, 1994. These include virtually all Foucault’s previously published shorter writings and interviews. Some of the more important items are translated in *Essential Works of Foucault, 1954–1984*, Vol. I–III, Paul Rabinow (ed.), New York: The New Press, 1997–1999.
 
 [^this-1970]: This section refers primarily to the annual lecture courses delivered by Foucault at the Collège de France between 1970 and 1984, published posthumously from recordings and preparatory materials.
 
 [^cours-1970]: *Cours au Collège de France, 1970–1984*, François Ewald and Alessandro Fontana (eds.), Paris: Gallimard, 1997–2015; translated as *Lectures at the Collège de France*, Arnold Davidson (ed.), Graham Burchell (trans.), 2003ff.
 
-[^this-nd-2]: This section lists a selection of posthumously published manuscripts and archival texts that have played a significant role in recent interpretations of Foucault’s work.
+[^foucault-2008]: 2008, *Introduction à l’Anthropologie de Kant*, Paris: Vrin; translated as *Introduction to Kant’s Anthropology*, Roberto Nigro (ed.), Roberto Nigro and Kate Briggs (trans.), Los Angeles: Semiotext(e), 2008.
 
-[^this-2008]: 2008, *Introduction à l’Anthropologie de Kant*, Paris: Vrin; translated as *Introduction to Kant’s Anthropology*, Roberto Nigro (ed.), Roberto Nigro and Kate Briggs (trans.), Los Angeles: Semiotext(e), 2008.
+[^foucault-2016]: 2016, «*Discours et vérité» précédé de «La parrêsia*», Henri-Paul Fruchaud and Daniele Lorenzini (eds.), Paris: Vrin; translated as “*Discourse and Truth*” and “*Parresia*,” Henri-Paul Fruchaud and Daniele Lorenzini (eds.), Chicago: The University of Chicago Press, 2019.
 
-[^this-2016]: 2016, «*Discours et vérité» précédé de «La parrêsia*», Henri-Paul Fruchaud and Daniele Lorenzini (eds.), Paris: Vrin; translated as “*Discourse and Truth*” and “*Parresia*,” Henri-Paul Fruchaud and Daniele Lorenzini (eds.), Chicago: The University of Chicago Press, 2019.
-
-[^this-2018]: 2018, *Les aveux de la chair* (Histoire de la sexualité IV), Frédéric Gros (ed.), Paris: Gallimard.
+[^foucault-2018]: 2018, *Les aveux de la chair* (Histoire de la sexualité IV), Frédéric Gros (ed.), Paris: Gallimard.
 
 [^barry-1996]: Barry, Andrew, Thomas Osborne, and Nikolas Rose (eds.), 1996, *Foucault and Political Reason. Liberalism, Neo-Liberalism and Rationalities of Government*, Chicago: University of Chicago Press.
 

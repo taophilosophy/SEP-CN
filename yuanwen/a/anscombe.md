@@ -221,7 +221,17 @@ G. E. M. Anscombe’s work ranged over many years and many different areas in ph
 
 ### Primary Literature
 
+When abbreviations are used to cite Anscombe’s works in the text, the abbreviation begins the bibliographic item below.
+
+Anscombe’s monographs include the following:
+
+Anscombe’s principal essays are collected in the following seven volumes.
+
+Individual essays by Anscombe cited in the text, with page numbers referring to the reprinted version contained in the above collected volumes:
+
 ### Translations by Anscombe
+
+Major translations by Anscombe include:
 
 ### Secondary Literature
 
@@ -246,17 +256,11 @@ abortion, ethics of | action | consequentialism | Davidson, Donald | double effe
 
 We would like to thank an editor for the *Stanford Encyclopedia of Philosophy* for his or her extremely helpful comments on earlier drafts. We would also like to thank Simon Blackburn, Roger Crisp, and John Schwenkler for their very helpful feedback on this essay.
 
-[^when-nd]: When abbreviations are used to cite Anscombe’s works in the text, the abbreviation begins the bibliographic item below.
-
-[^anscombe’s-nd]: Anscombe’s monographs include the following:
-
 [^iwt-1959]: [IWT] *An Introduction to Wittgenstein’s Tractatus*, London: Hutchinson, 1959; 2nd edition, 1963; 3rd edition, 1971.
 
 [^int-1957]: [INT] *Intention*, Oxford: Basil Blackwell, 1957; 2nd edition, 1963; reprinted in 2000 by Harvard University Press.
 
 [^thp-2002]: [THP] *Three Philosophers: Aristotle, Aquinas, Frege*, with Peter Geach, Oxford: Basil Blackwell, 2002.
-
-[^anscombe’s-nd-2]: Anscombe’s principal essays are collected in the following seven volumes.
 
 [^fpw-1981]: [FPW] *From Parmenides to Wittgenstein (The Collected Philosophical Papers of G. E. M. Anscombe, Volume 1)*, Minneapolis, MN: University of Minnesota Press, 1981.
 
@@ -271,8 +275,6 @@ We would like to thank an editor for the *Stanford Encyclopedia of Philosophy* f
 [^fpw-2015]: [FPW] *From Plato to Wittgenstein: Essays by G. E. M. Anscombe*, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2015.
 
 [^ltm-2015]: [LTM] *Logic, Truth and Meaning: Writings by G. E. M. Anscombe*, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2015.
-
-[^individual-nd]: Individual essays by Anscombe cited in the text, with page numbers referring to the reprinted version contained in the above collected volumes:
 
 [^mtd-nd]: [MTD] “Mr. Truman’s Degree” (privately produced pamphlet); reprinted in [ERP], 62–71.
 
@@ -295,8 +297,6 @@ We would like to thank an editor for the *Stanford Encyclopedia of Philosophy* f
 [^wbs-1979]: [WBS] “What Is It to Believe Someone?” in *Rationality and Religious Belief*, C. F. Delaney (ed.), Notre Dame, IN: University of Notre Dame Press, 1979, 141–151; reprinted in [FHG], 1–10.
 
 [^aim-1962]: [AIM] “Authority in Morals” in *Problems of Authority*, J. Todd (ed.), London: Darton, Longman and Todd, 1962; reprinted in [ERP], 43–50.
-
-[^major-nd]: Major translations by Anscombe include:
 
 [^descartes-1954]: Descartes, René, *Philosophical Writings*, translated by G. E. M. Anscombe and Peter Geach, London: Thomas Nelson and Sons, 1954.
 

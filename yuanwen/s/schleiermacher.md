@@ -338,6 +338,12 @@ Brandt [1941] 1968; Lamm 1996; Niebuhr 1964. Also helpful is Richard Crouter’s
 
 #### In German
 
+There are two main German editions of Schleiermacher’s works:
+
+In addition, the following editions are especially useful for philosophers:
+
+A further useful resource is:
+
 #### Translations
 
 ### Primary Works by Others
@@ -360,15 +366,11 @@ Brandt [1941] 1968; Lamm 1996; Niebuhr 1964. Also helpful is Richard Crouter’s
 
 Hamann, Johann Georg | Hegel, Georg Wilhelm Friedrich: dialectics | Herder, Johann Gottfried von | hermeneutics | Jacobi, Friedrich Heinrich | Kant, Immanuel | Kant, Immanuel: moral philosophy | religion: philosophy of | Schlegel, Friedrich | Spinoza, Baruch
 
-[^there-nd]: There are two main German editions of Schleiermacher’s works:
-
 [^sw-1835]: [**SW**] *Gesamtausgabe der Werke Schleiermachers in drei Abteilungen* = *Friedrich Schleiermacher’s sämmtliche Werke*, Berlin: G. Reimer, 1835–62.
 
 [^kga-1980]: [**KGA**] *Kritische Gesamtausgabe*, Hans-Joachim Birkner et al. (eds.), Berlin/New York: de Gruyter, 1980–. (This edition should eventually supersede the former one, but it is still far from complete.)
 
 [^kga-1831]: The following are the locations in **KGA** for some of the less well known pieces referred to in this article (listed in the order in which they were mentioned in the article): *Spinozism* (**KGA** I.1, 513–557); *Brief Presentation of the Spinozistic System* (**KGA** I.1, 563–582); *Idea for a Catechism of Reason for Noble Ladies* (**KGA**, I.2, xxxviii, 153-154); *Letters on the Occasion of the Political-Theological Task and the Open Letter of Jewish Householders* (**KGA** I.2, lxxviii–lxxxv, 327–361); *Outlines of a Critique of Previous Ethical Theory* (**KGA** I.4, 27–357); *Confidential Letters Concerning Friedrich Schlegel’s Lucinde* (**KGA** I.3, xlviii–lxviii, 139–216); 1831 address on Leibniz’s idea of a universal language (**KGA** I.11, 707–717).
-
-[^kga-nd]: In addition, the following editions are especially useful for philosophers:
 
 [^friedrich-1959]: [**H**] *Friedrich Schleiermacher: Hermeneutik*, Heinz Kimmerle (ed.), 1959; second, revised edition, Heidelberg: Heidelberger Akademie der Wissenschaften, 1974.
 
@@ -383,8 +385,6 @@ Hamann, Johann Georg | Hegel, Georg Wilhelm Friedrich: dialectics | Herder, Joha
 [^platons-1804]: *Platons Werke* (translations of Plato’s dialogues by Schleiermacher), 1804–1828. Berlin: Realschulbuchhandlung.
 
 [^brouillon-1805]: *Brouillon zur Ethik* (1805/06), (*Draft of an Ethics*), Hans-Joachim Birkner (ed.), Hamburg: Meiner, 1981.
-
-[^brouillon-nd]: A further useful resource is:
 
 [^aus-1858]: *Aus Schleiermachers Leben in Briefen*, 4 vols., Ludwig Jonas and Wilhelm Dilthey (eds.), Berlin: Georg Reimer, 1858–1863.
 

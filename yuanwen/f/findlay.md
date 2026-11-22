@@ -289,6 +289,8 @@ One final surd remained: the dependence of thought on the brain, explored first 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Note: In this article, the following book abbreviations are employed (all by Findlay unless otherwise indicated):
+
 | AA | *Ascent to the Absolute*, 1970 |
 | --- | --- |
 | AE | *Axiological Ethics*, 1970 |
@@ -303,6 +305,8 @@ One final surd remained: the dependence of thought on the brain, explored first 
 | W | *Wittgenstein: A Critique*, 1984 |
 
 ### Primary Sources
+
+Note: archival materials including lecture notes, letters, and manuscripts are stored at the Howard Gotlieb Archival Research Center, Boston University.
 
 #### Books by Findlay
 
@@ -353,10 +357,6 @@ Brentano, Franz | Frege, Gottlob | Hegel, Georg Wilhelm Friedrich: dialectics | 
 [^note-8]: A point by point rebuttal by Findlay of the first 80 sections of Husserl’s *Ideen* was published in *The Philosophical Forum* in Fall 2018.
 
 [^note-9]: This argument is referred to in many places by Findlay as “the Platonic inversion.”
-
-[^note-nd]: Note: In this article, the following book abbreviations are employed (all by Findlay unless otherwise indicated):
-
-[^note-nd-2]: Note: archival materials including lecture notes, letters, and manuscripts are stored at the Howard Gotlieb Archival Research Center, Boston University.
 
 [^findlay-1933]: 1933, *Meinong’s Theory of Objects*, Oxford: Oxford University Press. (original title)
 

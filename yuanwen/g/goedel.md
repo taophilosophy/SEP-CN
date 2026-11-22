@@ -547,6 +547,8 @@ and
 
 #### Gödel’s Writings
 
+The Gödel Nachlass is located at Firestone Library of Princeton University with the exception of Gödel’s preprint collection, which is housed at the library of the Institute for Advanced Study. The Nachlass itself is the property of the Institute but a microfilm copy of it may be purchased from Brill. All of Gödel’s published work, together with a large number of the unpublished material from the Nachlass, together with a selection of Gödel’s correspondence is published in *Kurt Gödel, Collected Works, Volumes I-V*.
+
 #### The Collected Papers of Kurt Gödel
 
 #### Selected Works of Kurt Gödel
@@ -679,8 +681,6 @@ More recently, Curtis Franks takes up the issue of the second incompleteness the
 1\. Gödel readily drew philosophical conclusions from the First Incompleteness Theorem. He he seems to have been slower in applying the Second Theorem.
 
 2\. Regarding the acceptability of inductive methods Gödel remarks in the Gibbs lecture, for example, that, if one is a realist about mathematical objects then inductive methods become not less but more acceptable. See p. 313 of Gödel 1995.
-
-[^gödel-nd]: The Gödel Nachlass is located at Firestone Library of Princeton University with the exception of Gödel’s preprint collection, which is housed at the library of the Institute for Advanced Study. The Nachlass itself is the property of the Institute but a microfilm copy of it may be purchased from Brill. All of Gödel’s published work, together with a large number of the unpublished material from the Nachlass, together with a selection of Gödel’s correspondence is published in *Kurt Gödel, Collected Works, Volumes I-V*.
 
 [^gödel-1986]: 1986, *Collected Works. I: Publications 1929–1936*. S. Feferman, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
 

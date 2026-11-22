@@ -139,6 +139,10 @@ In this way Plotinus’ philosophy is revealed as a comprehensive conception of 
 
 ### A. Primary Literature
 
+There is an increasing number of Translations including Introductions and Commentaries on separate treatises of the *Enneads*:
+
+See further:
+
 ### B. Secondary Literature
 
 #### B.1 General
@@ -177,15 +181,11 @@ Aristotle, commentators on | Cambridge Platonists | Ficino, Marsilio | Iamblichu
 
 [^porphyry’s-1982]: On Porphyry’s *Life of Plotinus* see the two-volume collection of essays edited by L. Brisson, M.-O. Goulet-Cazé, R. Goulet, D. O’Brien et al., *Porphyre: La Vie de Plotin*, Paris: J. Vrin, 1982–1992.
 
-[^there-nd]: There is an increasing number of Translations including Introductions and Commentaries on separate treatises of the *Enneads*:
-
 [^french-1988]: A French collection of such volumes, following the chronological order of the treatises, was started in 1988 under the direction of Pierre Hadot: *Les écrits de Plotin*, Paris: Les editions du Cerf; it was continued after 2016 by the Librairie philosophique J. Vrin under the direction of Dominic O’Meara, Gwenaëlle Aubry, Anne-Lise Darras-Worms and François Balaudé. 18 volumes have appeared until now.
 
 [^an-2012]: An English collection named “The *Enneads* of Plotinus with Philosophical Commentaries”, comprising separate treatment of individual treatises, has been undertaken since 2012 by Parmenides Publishing, Las Vegas and Zurich, under the direction of John M. Dillon and Andrew Smith. 15 volumes are available so far.
 
 [^budé-2017]: A new Budé edition of Plotinus’ works has begun to appear in 2017 under the direction of L. Ferroni and J.-M. Narbonne, with two volumes available so far: *Plotin, Œuvres complètes*, Paris: Les Belles Lettres.
-
-[^see-nd]: See further:
 
 [^atkinson-1983]: Atkinson, Michael, 1983, *Plotinus, Ennead V. 1: On the Three Principal Hypostases: A Commentary with Translation* (Oxford Classical and Philosophical Monographs), New York: Oxford University Press.
 

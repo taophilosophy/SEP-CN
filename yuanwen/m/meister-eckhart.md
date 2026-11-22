@@ -253,6 +253,10 @@ Indeed, as has been shown repeatedly throughout this entry, Eckhart’s “philo
 
 ### Primary Literature
 
+N.B. It is no easy task to find a comprehensive list of Eckhart’s (confirmed) Latin and German works, and there is to date no complete English translation of the Latin works. Additionally, various editors and translators over the years have numbered the German sermons differently, often leading to confusion with regard to the ordering and cross-referencing of the sermons.
+
+Listed below is the information for the critical editions (LW and DW). Since these volumes are extremely expensive and few have been digitized, I have also listed the more recent, accessible, and affordable Latin-German study edition, as well as the re-release of DW and parts of LW from the Deutscher Klassiker Verlag, which includes extremely helpful commentaries (in German) by Niklaus Largier. This is followed by a list of Eckhart’s major works with their common abbreviations (in alphabetical order) and a list of the most commonly cited English translations.
+
 #### Critical Editions
 
 #### Latin Works
@@ -325,6 +329,8 @@ Indeed, as has been shown repeatedly throughout this entry, Eckhart’s “philo
 
 #### Meister Eckhart in English Translation
 
+Below are the most commonly cited Eckhart translations with their abbreviations. In recent years, new English translations of some of Eckhart’s German homilies have been published alongside their vernacular texts by Loris Sturlese and Markus Vinzent in the Peeters series, Eckhart Texts and Studies, and a further edition of the Latin homilies also appears to be in planning.
+
 **EE**
 
 *Meister Eckhart: The Essential Sermons, Commentaries, Treatises, and Defense*, translated with introductions by Edmund Colledge and Bernard McGinn, New York: Paulist Press, 1981.
@@ -364,11 +370,7 @@ Indeed, as has been shown repeatedly throughout this entry, Eckhart’s “philo
 
 Albert the Great [= Albertus Magnus] | analogy: medieval theories of | Aquinas, Thomas | Aristotle | Augustine of Hippo | hermeneutics | Maimonides | medieval philosophy | Neoplatonism
 
-[^it-nd]: N.B. It is no easy task to find a comprehensive list of Eckhart’s (confirmed) Latin and German works, and there is to date no complete English translation of the Latin works. Additionally, various editors and translators over the years have numbered the German sermons differently, often leading to confusion with regard to the ordering and cross-referencing of the sermons.
-
 [^for-2013]: For a complete list of Eckhart’s works with helpful cross-references across editions, see the extremely detailed (if somewhat outdated) [webpage at the Meister Eckhart website](http://www.eckhart.de/index.htm?werk.htm) (in German). See also Hackett (2013) for English-language overviews of Eckhart’s *Latin Works* (by Alessandra Beccarisi, pp. 85–123) and *German Works* (by Dagmar Gottschall, pp. 137–183), as well as a full list of the contents of LW I–VI and DW I–V (p.725).
-
-[^listed-nd]: Listed below is the information for the critical editions (LW and DW). Since these volumes are extremely expensive and few have been digitized, I have also listed the more recent, accessible, and affordable Latin-German study edition, as well as the re-release of DW and parts of LW from the Deutscher Klassiker Verlag, which includes extremely helpful commentaries (in German) by Niklaus Largier. This is followed by a list of Eckhart’s major works with their common abbreviations (in alphabetical order) and a list of the most commonly cited English translations.
 
 [^latin-german-1936]: **The Latin-German critical edition** (**LW**): *Die lateinischen Werke*, edited by E. Benz, C. Christ, B. Decker, H. Fischer, B. Geyer, J. Koch, E. Seeberg, L. Sturlese, K. Weiß, and A. Zimmermann, vols. I–V (Stuttgart: Kohlhammer, 1936–2007).
 
@@ -377,8 +379,6 @@ Albert the Great [= Albertus Magnus] | analogy: medieval theories of | Aquinas, 
 [^latin-german-2016]: **The Latin-German study edition** (**from LW I/2 and LW II**): *Studienausgabe der lateinischen Werke*, edited by L. Sturlese and E. Rubino, vols. 1–2 (Stuttgart: Kohlhammer, 2016–2018). Includes the *Prologi*, *In Gen. I*, and *In Gen. II* (vol. 1) and *In Exod.*, *In Eccli.*, *In Sap.*, and the *Expositio Cantici Canticorum* (vol. 2).
 
 [^meister-2008]: **The re-releases**: *Meister Eckhart, Werke I & II*, edited with commentaries by N. Largier. Deutscher Klassiker Verlag im Taschenbuch, vols. 24–25 (Frankfurt a.M.: DKV, 2008). Includes German Sermons 1–65 (vol. 24), German Sermons 66–86 (vol. 25), and selections from *Prol. gen.*, *In Ioh.*, *Qu. Par.*, and *Serm.* (vol. 25).
-
-[^below-nd]: Below are the most commonly cited Eckhart translations with their abbreviations. In recent years, new English translations of some of Eckhart’s German homilies have been published alongside their vernacular texts by Loris Sturlese and Markus Vinzent in the Peeters series, Eckhart Texts and Studies, and a further edition of the Latin homilies also appears to be in planning.
 
 [^ashworth-2021]: Ashworth, E. Jennifer, and Domenic D’Ettore, 2021, “Medieval Theories of Analogy”, in *The Stanford Encyclopedia of Philosophy* (Winter 2021 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2021/entries/analogy-medieval/](https://plato.stanford.edu/archives/win2021/entries/analogy-medieval/)>.
 

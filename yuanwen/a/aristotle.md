@@ -516,9 +516,17 @@ Today, philosophers of various stripes continue to look to Aristotle for guidanc
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+This bibliography limits itself to translations general works on Aristotle, and works cited in this entry. Please see the subjective-specific bibliographies in the entries under General and Special Topics for references to works pertinent to more specific areas of Aristotle’s philosophy.
+
 ### A. Translations
 
+The Standard English Translation of Aristotle’s Complete Works into English is:
+
+An excellent translation of selections of Aristotle’s works is:
+
 ### B. Translations with Commentaries
+
+The best set of English translations with commentaries is the Clarendon Aristotle Series:
 
 ### C. General Works
 
@@ -607,17 +615,9 @@ I thank Thomas Ainsworth, John Cooper, Fred Miller, Nathanael Stein, Edward Zalt
 
 [^note-27]: Halliwell (1986, 109–137)[^halliwell-1986] provides an excellent introduction to some of the scholarly and philosophical issues pertaining to Aristotle’s concept of *mimêsis*.
 
-[^this-nd]: This bibliography limits itself to translations general works on Aristotle, and works cited in this entry. Please see the subjective-specific bibliographies in the entries under General and Special Topics for references to works pertinent to more specific areas of Aristotle’s philosophy.
-
-[^standard-nd]: The Standard English Translation of Aristotle’s Complete Works into English is:
-
 [^barnes-1984]: Barnes, J., ed. *The Complete Works of Aristotle*, Volumes I and II, Princeton: Princeton University Press, 1984.
 
-[^an-nd]: An excellent translation of selections of Aristotle’s works is:
-
 [^irwin-1995]: Irwin, T. and Fine., G., *Aristotle: Selections, Translated with Introduction, Notes, and Glossary*, Indianapolis: Hackett, 1995.
-
-[^english-nd]: The best set of English translations with commentaries is the Clarendon Aristotle Series:
 
 [^ackrill-1963]: Ackrill, J., *Categories and De Interpretatione*, translated with notes, Oxford: Oxford University Press, 1963.
 

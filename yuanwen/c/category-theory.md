@@ -242,6 +242,12 @@ Category theory offers thus many philosophical challenges, challenges which will
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Readers may find the following useful:
+
+[Programmatic Reading Guide](category-theory.bib.md)
+
+The citations in this guide and in the text above can all be found in the list below.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=category-theory). |
@@ -264,12 +270,6 @@ Category theory offers thus many philosophical challenges, challenges which will
 ## Related Entries
 
 logic: classical | mathematics, philosophy of | set theory
-
-[^readers-nd]: Readers may find the following useful:
-
-[^programmatic-nd]: [Programmatic Reading Guide](category-theory.bib.md)
-
-[^programmatic-nd-2]: The citations in this guide and in the text above can all be found in the list below.
 
 [^abramsky-2006]: Abramsky, S. & Duncan, R., 2006, “A Categorical Quantum Logic”, *Mathematical Structures in Computer Science*, 16 (3): 469–489.
 

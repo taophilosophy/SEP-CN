@@ -129,6 +129,8 @@ Now that Gregory’s works are available in a reliable modern edition, he has be
 
 ### Secondary Works
 
+Note: The bibliography below is necessarily limited, given the large number of studies related to Gregory of Rimini’s thought.
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=gregory-rimini). |
@@ -154,8 +156,6 @@ The editors would like to thank Russell Friedman for his help in checking the 20
 [^gregory-1976]: Gregory of Rimini, *Gregorii de Arimino OSA Registrum Generalatus 1357–1358*, A. Maijer (ed.), Rome: Institutum Historicum Augustinianum 1976.
 
 [^gregory-1979]: Gregory of Rimini, *Gregorii Ariminensis Lectura super primum et secundum Sententiarum*, 6 vols. (= *Spätmittelalter und Reformation Texte und Untersuchungen*, 6–11), D. Trapp, V. Marcolino, W. Eckermann, M. Santos-Noya. W. Schulze, W. Simon, W. Urban, and V. Vendland (eds.), Berlin/New York: De Gruyter 1979–84.
-
-[^note-nd]: Note: The bibliography below is necessarily limited, given the large number of studies related to Gregory of Rimini’s thought.
 
 [^bermon-2002]: Bermon, Pascale, 2002, “La Lectura sur les deux premiers livres des Sentences de Grégoire de Rimini O.E.S.A. (1300–1358),” in G.R. Evans (ed.), *Medieval Commentaries on Peter Lombard’s Sentences* (Volume 1), Leiden: Brill, pp. 267–285.
 

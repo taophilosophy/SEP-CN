@@ -97,7 +97,15 @@ The great number of books that falsely circulated under Albert’s name soon aft
 
 ### Albert the Great’s Works
 
+There exist three comprehensive editions of Albert’s works:
+
+The second edition is largely based on the first one, and only the third one, led by the Albertus-Magnus-Institut in Bonn and nicknamed *Editio Coloniensis* because the Institut was initially located in Cologne, is a critical edition and contains no spurious works. It will include all extant works when completed. While we await said completion, some volumes from the Paris edition (*Editio Parisiensis*) and a few works edited individually in the last two centuries remain essential.
+
+Given the exceptionally high number of Albert’s extant works, the following is a list of only some of his most philosophically significant writings, which includes a few whose general intention is theological but which are filled with philosophical distinctions and developments. (For a truly exhaustive list of Albert’s works and editions and translations thereof, see Other Internet Resources, below.) Works are here named as and listed in the order in which the Institut has edited or plans to edit them, even when only another edition is available for now. Full English translations of the listed works are also mentioned.
+
 ### Secondary Sources
+
+*Works cited in the entry or of particular importance in the field*
 
 #### Anthologies
 
@@ -129,17 +137,11 @@ al-Farabi | Aquinas, Thomas | Arabic and Islamic Philosophy, historical and meth
 
 The author is indebted to Sylvia Terzian for identifying the most egregious lapses in English in the entry’s initial draft and to SEP’s anonymous referee for their many language- and content-related corrections and suggestions.
 
-[^there-nd]: There exist three comprehensive editions of Albert’s works:
-
 [^opera-1651]: • *Opera omnia*, ed. P. Jammy, Lyon: Claude Prost, 1651
 
 [^opera-1890]: • *Opera omnia*, ed. A. and É. Borgnet, Paris: Vivès, 1890–1899
 
 [^opera-1951]: • *Opera omnia*, ed. B. Geyer (and his successors over time), Münster: Aschendorff, 1951–ongoing
-
-[^albertus-magnus-institut-nd]: The second edition is largely based on the first one, and only the third one, led by the Albertus-Magnus-Institut in Bonn and nicknamed *Editio Coloniensis* because the Institut was initially located in Cologne, is a critical edition and contains no spurious works. It will include all extant works when completed. While we await said completion, some volumes from the Paris edition (*Editio Parisiensis*) and a few works edited individually in the last two centuries remain essential.
-
-[^given-nd]: Given the exceptionally high number of Albert’s extant works, the following is a list of only some of his most philosophically significant writings, which includes a few whose general intention is theological but which are filled with philosophical distinctions and developments. (For a truly exhaustive list of Albert’s works and editions and translations thereof, see Other Internet Resources, below.) Works are here named as and listed in the order in which the Institut has edited or plans to edit them, even when only another edition is available for now. Full English translations of the listed works are also mentioned.
 
 [^de-nd]: *De praedicamentis* (Editio Coloniensis, tomus I, pars IB): paraphrastic commentary on Aristotle’s *Categories*
 
@@ -192,8 +194,6 @@ The author is indebted to Sylvia Terzian for identifying the most egregious laps
 [^super-1988]: *Super Dionysii mysticam theologiam* (Editio Coloniensis, tomus XXXVII, pars II, pp.453–475): question commentary on Pseudo-Dionysius’ *Mystical Theology*. Translation: S. Tugwell, *Albert & Thomas: Selected Writings*, New York-Mahwah: Paulist Press, 1988, 650p.
 
 [^super-nd-6]: *Super Euclidem* (Editio Coloniensis, tomus XXXIX): extant part (Lib. I–IV) of a commentary on Euclid’s *Elements.*
-
-[^works-nd]: *Works cited in the entry or of particular importance in the field*
 
 [^bertolacci-2019]: Bertolacci, A. and Galluzzo, G. (eds.), 2019, dedicated issue of *Documenti e studi sulla tradizione filosofica medievale*, 30.
 

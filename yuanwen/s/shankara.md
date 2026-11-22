@@ -201,6 +201,8 @@ A lucid dream experience is an ideal illustration of Śaṅkara’s liberation, 
 | TaiU | *Taittirīya Upaniṣad* |
 | US | *Upadeśasāhasrī* |
 
+Note that ‘Bh’ is appended to the other abbreviations to indicate Śaṅkara’s commentary on that work (e.g., ‘TaiUBh’). The numbers following an abbreviation (e.g., "TaiU 2.1.1") indicate the chapter, section, and verse.
+
 ### Śaṅkara’s Texts in English Translation
 
 ### Secondary Literature
@@ -220,8 +222,6 @@ A lucid dream experience is an ideal illustration of Śaṅkara’s liberation, 
 ## Related Entries
 
 Indian Philosophy (Classical): epistemology | Indian Philosophy (Classical): literal-nonliteral distinction | Indian Philosophy (Classical): perceptual experience and concepts
-
-[^note-nd]: Note that ‘Bh’ is appended to the other abbreviations to indicate Śaṅkara’s commentary on that work (e.g., ‘TaiUBh’). The numbers following an abbreviation (e.g., "TaiU 2.1.1") indicate the chapter, section, and verse.
 
 [^gambhirananda-1992]: Gambhirananda, Swami, 1992, *Chāndogya Upaniṣad With the Commentary of Śaṅkarācārya*, Calcutta: Advaita Ashram.
 

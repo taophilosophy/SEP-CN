@@ -264,6 +264,10 @@ More was imprisoned for the last sixteen months of his life and was executed for
 
 ### A. Primary Sources
 
+Most citations are to *The Essential Works of Thomas More* [*EW*], which is cross-referenced to the fifteen volumes of *The Complete Works of St. Thomas More* [*CW*].
+
+Abbreviated citations used in the entry are given below.
+
 ### B. Selected Editions of More’s Works
 
 ### C. Contemporary Biographies
@@ -303,11 +307,7 @@ Aquinas, Thomas | Aristotle, General Topics: rhetoric | Augustine of Hippo | Cic
 
 [^note-2]: See More’s three additions ascribing “negligence” to Pico at *EW* 70.36, 40 and 73.32 (also 87.141).
 
-[^most-nd]: Most citations are to *The Essential Works of Thomas More* [*EW*], which is cross-referenced to the fifteen volumes of *The Complete Works of St. Thomas More* [*CW*].
-
 [^more’s-1978]: More’s execution discouraged publication of his work; in the Catholic interim under Mary I, however, his nephew William Rastell edited the vernacular writings, *The Works of Sir Thomas More in the Englysh tonge*, London, 1557 (reprinted with an introduction by K. J. Wilson, Menston: Scolar Press, 1978). His Latin works, *Opera omnia*, were printed at Louvain in 1565 and 1566, and at Frankfurt in 1689. Except for his complete correspondence, More’s extant works are now available in the Yale edition, which provides authoritative texts with comprehensive introductory material and annotation. Many of More’s letters were edited by Elizabeth F. Rogers in 1947, but she did not include his exchanges with Erasmus; for these the reader must consult *Opus epistolarum Des. Erasmi Roterodami*, ed. P.S. Allen et al., 12 vols., Oxford: Clarendon Press, 1906–58, or the correspondence volumes in the Toronto *Collected Works of Erasmus*. Rogers published in 1960 (revised in 1967) More’s *Selected Letters*—all these and fifty others by More are in *EW.* A critical edition of More’s correspondence (some 280 letters) was planned for Yale University’s *Complete Works,* but has not yet been completed.
-
-[^abbreviated-nd]: Abbreviated citations used in the entry are given below.
 
 [^cw-1963]: [*CW*] *The Complete Works of St. Thomas More*, 15 vols., New Haven, CT/London: Yale University Press, 1963–97:
 

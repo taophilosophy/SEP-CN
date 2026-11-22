@@ -111,6 +111,8 @@ While the Platonists of Late Antiquity put themselves in continuity with this tr
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Richard Sorabji has also produced a sourcebook in three volumes:
+
 ### A. Primary Sources
 
 ### B. Secondary Sources
@@ -142,8 +144,6 @@ Alexander of Aphrodisias | Ammonius | Aristotelianism: in the Renaissance | Aris
 Thanks to Christopher Shields for commenting on a draft of this entry.
 
 [^greek-1882]: The surviving ancient Greek commentaries on Aristotle are published in the series *Commentaria in Aristotelem Graeca*, H. Diels (ed.), Berlin: Reimer 1882–1909. These commentaries are being translated in the Ancient Commentators on Aristotle Project. The General Editor is Richard Sorabji. Co-editor: M. Griffin. Associate Editors: Pieter Adamson, Richard McKirahan, John Sellars.
-
-[^richard-nd]: Richard Sorabji has also produced a sourcebook in three volumes:
 
 [^sorabji-2005]: Sorabji, R., 2005, *The Philosophy of the Commentators 200–600* *AD*. *A Sourcebook*. (Volume 1: Psychology; Volume 2: Physics; Volume 3: Logic and Metaphysics), London, Ithaca, NY: Duckworth, Cornell University Press.
 

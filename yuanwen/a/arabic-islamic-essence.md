@@ -143,6 +143,8 @@ Mullā Ṣadrā’s doctrine of the primacy of existence signifies an important 
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+Note: The following sourcebook of translations was used for a wide selection of primary sources. The citations to [HA] reference the Chapter number and then the selection number(s), i.e., ‘[HA], 3: T3’ references Chapter 3, selection T3 in [HA]. This work is freely available online via the link below.]
+
 > | [HA] | Adamson, Peter and Fedor Benevich (eds.), 2023, *The Heirs of Avicenna: Philosophy in the Islamic East, 12–13th Centuries: Metaphysics and Theology* (Islamicate Intellectual History, 12.1), Leiden/Boston: Brill. doi:10.1163/9789004503991 [[Adamson & Benevich (eds.) 2023 available online](https://brill.com/display/title/61390)] |
 > | --- | --- |
 
@@ -161,8 +163,6 @@ Mullā Ṣadrā’s doctrine of the primacy of existence signifies an important 
 ## Related Entries
 
 al-Farabi: metaphysics | al-Kindi | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines in: metaphysics | Ibn Sina [Avicenna]: metaphysics | Mulla Sadra | Umar Khayyam
-
-[^note-nd]: Note: The following sourcebook of translations was used for a wide selection of primary sources. The citations to [HA] reference the Chapter number and then the selection number(s), i.e., ‘[HA], 3: T3’ references Chapter 3, selection T3 in [HA]. This work is freely available online via the link below.]
 
 [^acar-2005]: Acar, Rahim, 2005, *Talking about God and Talking about Creation: Avicenna’s and Thomas Aquinas’ Positions* (Islamic Philosophy, Theology, and Science 58), Leiden/Boston: Brill.
 

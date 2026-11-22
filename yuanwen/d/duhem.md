@@ -149,6 +149,8 @@ Koyré’s work influenced Thomas Kuhn and others who made “scientific revolut
 
 ### Primary Sources
 
+Duhem often first published his main works, such as *Les théories électriques de J. Clerk Maxwell*, *L’évolution de la mécanique*, *Les origines de la statique*, *La théorie physique*, *son objet et sa structure*, serially as articles in such journals as *Annales de la de la Société scientifique de Bruxelles*, *Revue Générale des Sciences pures et appliquées*, *Revue des Questions Scientifiques*, *Revue de Philosophie*, respectively.
+
 #### Compilations (with Abbreviations)
 
 | [LPD] | *Lettres de Pierre Duhem à sa fille Hélène*, Stanley L. Jaki (ed.), Paris: Beauchesne, 1994. |
@@ -207,8 +209,6 @@ Koyré’s work influenced Thomas Kuhn and others who made “scientific revolut
 ## Related Entries
 
 Albert of Saxony | analytic/synthetic distinction | atomism: 17th to 20th century | Bacon, Roger | Buridan, John [Jean] | condemnation of 1277 | Einstein, Albert: philosophy of science | fictionalism | Galileo Galilei | James, William | Kuhn, Thomas | logic: inductive | Mach, Ernst | Pascal, Blaise | physics: experiment in | Poincaré, Henri | Quine, Willard Van Orman | scientific progress | statistical physics: philosophy of statistical mechanics | thought experiments | underdetermination, of scientific theories | Vienna Circle | Whewell, William
-
-[^duhem-nd]: Duhem often first published his main works, such as *Les théories électriques de J. Clerk Maxwell*, *L’évolution de la mécanique*, *Les origines de la statique*, *La théorie physique*, *son objet et sa structure*, serially as articles in such journals as *Annales de la de la Société scientifique de Bruxelles*, *Revue Générale des Sciences pures et appliquées*, *Revue des Questions Scientifiques*, *Revue de Philosophie*, respectively.
 
 [^ariew-1984]: Ariew, Roger, 1984, “The Duhem Thesis,” *British Journal for the Philosophy of Science*, 35: 313–25.
 
