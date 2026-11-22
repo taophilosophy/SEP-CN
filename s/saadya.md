@@ -1,1 +1,1 @@
-# 萨阿迪亚·加昂 Saadya [Saadiah] (Sarah Pessin)
+# 萨阿迪亚·加昂 Saadya [Saadiah] (Gyongyi Hegedus)

@@ -497,3 +497,11 @@
 * **抽样判读**：20 组整子树（描述心理学、人格主义、结构主义与精神分析、女性人文主义、怀疑论与科学方法、罗马两节、早期影响与旁支、表达自由、立场、模糊性、宗教与科学、18 世纪美学、量子力学诠释、AI 论证、文化演化与历史、经典逻辑总论等）归类全部正确。
 * **结论：批准**。改判表无改判项；回退链 state/mulus-before-s3*.md。证据三件套与逐批表见 specs/057 results/s3t-final-review.md。
 * **门禁**：check_mulu_s 0、五子门 G1–G5 绿、check_all 17 项全绿。
+
+## 2026-11-23 specs/057 s3u：目录行逐条审计（翻译／分类／格式）
+
+* **工具**：`bin/audit_catalog_lines.py`（A 格式形态、B1 作者对照 catalog、B2 英文题名对照 entries.json 钉、D 全量清单按区分档 s3u-review/）。
+* **格式**：38 条异常全部为解析器误报或预期形态（站点页、`\[别名\]` 转义、题名内括号、罗马字长音、内嵌括号作者），无真实缺陷；行文字与 SUMMARY 逐字一致（G3）。
+* **翻译**：作者漂移 2 条已修（saadya Pessin→Hegedus、closure-epistemic Luper→Alspector-Kelly；SUMMARY/mu-lu-s/词条 H1 三处同步，en-SUMMARY 重生成）；英文题名 69 条低重合全部为倒装题名的既定展开，与 entries.json 逐一吻合，非缺陷。
+* **分类**：全量清单 1712 条逐条通读，修正 4 条错位（schema→连接词演绎、counterfactuals→非经典专题、reism→逻辑史学派、wesley-salmon→科学解释）；wilson（John Cook Wilson）核实维持；其余 1708 条正确。
+* **门禁**：check_mulu_s 0、mulu-map 重建 1883、五子门绿、check_all 17 项全绿；审计文件按 ADR-0004 分档。

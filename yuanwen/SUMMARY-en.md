@@ -790,7 +790,7 @@
 * [Epiphenomenalism (William Robinson)](e/epiphenomenalism.md)
 * [Episteme and Techne (Richard Parry)](e/episteme-techne.md)
 * epistemic basing relation — see The Epistemic Basing Relation
-* [Epistemic Closure (Steven Luper)](c/closure-epistemic.md)
+* [Epistemic Closure (Marc Alspector-Kelly)](c/closure-epistemic.md)
 * [Epistemic Paradoxes (Roy Sorensen)](e/epistemic-paradoxes.md)
 * epistemic self-doubt — see self-doubt, epistemic
 * [Epistemic Utility Arguments for Epistemic Norms (Richard Pettigrew)](e/epistemic-utility.md)
@@ -2315,7 +2315,7 @@
 * [Gilbert Ryle (Julia Tanney)](r/ryle.md)
 ## S
 
-* [Saadya \[Saadiah\] (Sarah Pessin)](s/saadya.md)
+* [Saadya \[Saadiah\] (Gyongyi Hegedus)](s/saadya.md)
 * [Śāntarakṣita (James Blumenthal, James Apple)](s/saantarak-sita.md)
 * [Śāntideva (Charles Goodman)](s/shantideva.md)
 * [Sakya Paṇḍita \[sa skya paṇ ḍi ta\] (Jonathan C. Gold)](s/sakya-pandita.md)

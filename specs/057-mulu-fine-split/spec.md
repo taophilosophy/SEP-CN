@@ -390,3 +390,26 @@ Spiegelberg “with Brentano we are not yet in the phenomenological movement its
 回退链 `state/mulus-before-s3{a,l,m,n,o,p,q,r,s}.md`（本地），回退须重建 mulu-map 并过五子门。
 后续入口：Latinx 中文译名属术语线；剩余 223 个 ≥3 条叶子节点为人物并列组与同族理论并列，维持不拆。
 
+### s3u 目录行逐条审计（2026-11-23，用户指令“逐条复核目录翻译、分类准确性、格式一致性”）
+
+工具 `bin/audit_catalog_lines.py`，四线审计：A 格式形态／B1 作者对照（vs baseline/catalog）／
+B2 英文题名对照（vs entries.json 钉）／D 全量清单（条目→节点，按区分档 `results/s3u-review/`）。
+判读结论与处置：
+
+- **格式（38 条全部为误报或预期）**：站点页无作者段 10 条为预期形态；其余为 `\[别名\]` 转义、
+  题名内括号（Critical Theory (Frankfurt School)）、罗马字长音（Nishida Kitarō）、内嵌括号作者
+  （Rineke (L.C.) Verbrugge）触发解析误报；无真实格式缺陷（行文字与 SUMMARY 逐字一致，G3 保证）。
+- **B1 作者漂移 2 条（真实，已修）**：`saadya`（Pessin→Hegedus）、`closure-epistemic`
+  （Luper→Alspector-Kelly）——entries.json 钉已为新作者而显示层未跟随；SUMMARY／mu-lu-s／
+  词条 H1 三处同步（`check_summary --sync-headers`），`yuanwen/SUMMARY-en.md` 重生成。
+- **B2 69 条低重合全部为合理改写**：SUMMARY 落地时把上游目录倒装题名（“ethics: ancient”／
+  “Findlay, J.N.”／“meaning: of words”）展开为正文全题名，与 entries.json 完整标题逐一吻合，非缺陷。
+- **C 弱信号弃用**（节点标题为中文，无词元可比）；分类判读改走全量清单人工通读（1712 条逐条），
+  发现并修正 4 条错位：`schema`→连接词、常项与演绎（误挂传统逻辑方阵）；`counterfactuals`→
+  非经典逻辑专题（误挂逻辑史）；`reism`→逻辑史·学派与学科形成（误挂牛津实在论）；
+  `wesley-salmon`→科学解释（误挂逻辑经验主义与先驱）。`wilson`（John Cook Wilson）核实为
+  牛津实在论创始人，维持原位。其余 1708 条归类正确。
+- 审计文件按 ADR-0004 分档（主报告＋8 个分区清单）。
+
+**验收**：check_mulu_s 六项 0 硬错；mulu-map 重建（1883）；五子门全绿；check_all 17 项全绿。
+

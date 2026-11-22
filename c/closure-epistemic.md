@@ -1,1 +1,1 @@
-# 认知闭合 Epistemic Closure (Steven Luper)
+# 认知闭合 Epistemic Closure (Marc Alspector-Kelly)

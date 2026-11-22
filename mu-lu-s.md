@@ -1286,7 +1286,6 @@ outline: [1, 6]
 ##### 牛津实在论
 
 * [约翰·库克·威尔逊 John Cook Wilson (Mathieu Marion)](w/wilson.md)
-* [事物论 Reism (Jan Woleński)](r/reism.md)
 
 ##### 逻辑与模态
 
@@ -1596,7 +1595,7 @@ outline: [1, 6]
 #### 希腊化与加昂时期
 
 * [亚历山大里亚的斐洛 Philo of Alexandria (Carlos Lévy)](p/philo.md)
-* [萨阿迪亚·加昂 Saadya \[Saadiah\] (Sarah Pessin)](s/saadya.md)
+* [萨阿迪亚·加昂 Saadya \[Saadiah\] (Gyongyi Hegedus)](s/saadya.md)
 * [伊萨克·伊斯拉埃利 Isaac Israeli (Leonard Levin、R. David Walker、Shalom Sadik)](i/israeli.md)
 
 #### 安达卢西亚与迈蒙尼德
@@ -2505,7 +2504,7 @@ outline: [1, 6]
 ##### 确定性与闭合
 
 * [确定性 Certainty (Baron Reed)](c/certainty.md)
-* [认知闭合 Epistemic Closure (Steven Luper)](c/closure-epistemic.md)
+* [认知闭合 Epistemic Closure (Marc Alspector-Kelly)](c/closure-epistemic.md)
 
 ##### 认知悖论
 
@@ -4284,11 +4283,12 @@ outline: [1, 6]
 * [直觉主义逻辑的发展 The Development of Intuitionistic Logic (Mark van Atten)](i/intuitionistic-logic-development.md)
 * [一阶逻辑的出现 The Emergence of First-Order Logic (William Ewald)](l/logic-firstorder-emergence.md)
 
+* [事物论 Reism (Jan Woleński)](r/reism.md)
+
 ##### 心理主义与条件句
 
 * [心理主义 Psychologism (Martin Kusch)](p/psychologism.md)
 * [直陈条件 Indicative Conditionals (Dorothy Edgington)](c/conditionals.md)
-* [反事实 Counterfactuals (Willow Starr、Alex Kocurek)](c/counterfactuals.md)
 
 ### 经典逻辑与传统逻辑
 
@@ -4309,11 +4309,11 @@ outline: [1, 6]
   * [析取/逻辑或 Disjunction (Maria Aloni)](d/disjunction.md)
 * [逻辑学中的自然演绎系统 Natural Deduction Systems in Logic (Francis Jeffry Pelletier、Allen Hazen)](n/natural-deduction.md)
 
+* [图式 Schema (John Corcoran、Idris Samawi Hamid)](s/schema.md)
+
 ##### 传统逻辑方阵
 
 * [传统逻辑方阵 The Traditional Square of Opposition (Terence Parsons、Graziana Ciola)](s/square.md)
-
-* [图式 Schema (John Corcoran、Idris Samawi Hamid)](s/schema.md)
 
 #### 量化与条件
 
@@ -4446,6 +4446,8 @@ outline: [1, 6]
 * [模糊性 Vagueness (Roy Sorensen)](v/vagueness.md)
 * [道义逻辑 Deontic Logic (Paul McNamara、Frederik Van De Putte)](l/logic-deontic.md)
 
+* [反事实 Counterfactuals (Willow Starr、Alex Kocurek)](c/counterfactuals.md)
+
 ### 数理逻辑与数学基础
 
 #### 集合论
@@ -4571,7 +4573,6 @@ outline: [1, 6]
 
 * [逻辑经验主义 Logical Empiricism (Richard Creath)](l/logical-empiricism.md)
 * [皮埃尔·迪昂 Pierre Duhem (Roger Ariew)](d/duhem.md)
-* [韦斯利·萨蒙 Wesley Salmon (Maria Carla Galavotti)](w/wesley-salmon.md)
 
 ### 科学方法与推理
 
@@ -4618,6 +4619,8 @@ outline: [1, 6]
 
 * [20 世纪的科学解释理论 20th Century Theories of Scientific Explanation (James Woodward、Lauren Ross)](s/scientific-explanation-20th.md)
 * [科学解释的因果方法 Causal Approaches to Scientific Explanation (Lauren Ross、James Woodward)](c/causal-explanation-science.md)
+
+* [韦斯利·萨蒙 Wesley Salmon (Maria Carla Galavotti)](w/wesley-salmon.md)
 
 #### 机制与定律
 
