@@ -124,7 +124,7 @@
 | Alexander V | — | 亚历山大五世 | 希腊（克里特）／意大利 | c. 1339–1410 | gregory-rimini | 教宗通译惯例（原名 Peter of Candia，方济各会士）；凭证 2026-11-10；籍属/生卒联网查证：Britannica“Alexander (V)”条：born c. 1339, Candia, Crete—died May 3, 1410, Bologna（2026-11-14 查，凭证 verify-2026-11-14-alt.tsv） | 2026-11-14 |
 | Alexander, Larry | — | 拉里·亚历山大 | 美国 | 1943– | ethics-deontological | 学界惯例（本词条作者，通行音译）；籍属/生卒联网查证：GND 规范标目 gnd 132836416，生 1943，地理区码 USA，职业 Jurist/Hochschullehrer，注记“Lehrt Verfassungsrecht und Moralphilosophie … Univ. of San Diego”（2026-11-14 查，凭证 verify-2026-11-14-alt.tsv） | 2026-11-14 |
 | Alexander, Samuel | — | 塞缪尔·亚历山大 | 澳大利亚／英国 | 1859–1938 | alexander | 学界通行音译（英国突现论者，本词条主词）；凭证 2026-11-12 | 2026-11-12 |
-| Alexinus | — | 阿勒克西努斯 | 古希腊（埃利斯） | –前264 | dialectical-school | 学界通行汉译（欧布里德门生，约前339–前265，或属辩证宗派）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q2617709（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Alexinus | — | 阿勒克西努斯 | 古希腊（埃利斯） | 约前339–前265 | dialectical-school | 学界通行汉译（欧布里德门生，约前339–前265，或属辩证宗派）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q2617709（2026-11-20 查，凭证 verify-2026-11-20-people.tsv）。生卒补齐 2026-11-22：SEP dialectical-school 作 c. 339–265（Dorandi 1999 断代），Wikipedia 从之；原表仅 –前264，卒年随之改 前265 | 2026-11-22 |
 | Alexios I Komnenos | — | 阿莱克修斯一世（科穆宁） | 拜占庭 | 1048–1118 | john-italos | 学界通行汉译（拜占庭皇帝）；凭证 2026-11-06；籍属/生卒联网查证：Wikidata Q41600（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Alexius Meinong | — | 亚历克修斯·迈农 | 奥地利／哲学 | 1853–1920 | landmann-kalischer | SUMMARY 定名沿用（对象理论、价值论）；籍属/生卒联网查证：GND 规范标目 gnd 118580213（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-08）| 2026-11-13 |
 | Alexy, Robert | — | 罗伯特·阿列克西 | 德国 | 1945– | habermas | 学界通行汉译（法哲学与商谈理论文献）；凭证 2026-11-12 | 2026-11-12 |
@@ -178,7 +178,7 @@
 | Annan, Kofi | — | 科菲·安南 | 加纳／瑞士／国际政治 | 1938–2018 | sovereignty | 学界惯例（国际政要通译）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 12296201X（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
 | Annas, Julia | — | 安纳斯 | 英国／美国／古代哲学 | 1946– | democritus | 学界通行（古希腊伦理学名家；正文以姓行文）；籍属/生卒联网查证：GND 规范标目 gnd 112065120（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
 | Anne Fadiman | — | 安妮·法迪曼 | 美国／文学 | 1953– | justice-healthcareaccess | 学界惯例（《神灵之箭》中译本通行）；籍属/生卒联网查证：GND 规范标目 gnd 12190864X（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
-| Anne-Thésèse, Marquise de Lambert | Anne-Thésèse, Marquise de Lambert | 安娜-泰蕾兹·德·朗贝尔侯爵夫人 | — | — | 18thGerman-preKant | 学界通行汉译（巴黎沙龙女主人；与 Johann Heinrich Lambert“兰伯特”区分）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-05 |
+| Anne-Thésèse, Marquise de Lambert | Anne-Thésèse, Marquise de Lambert | 安娜-泰蕾兹·德·朗贝尔侯爵夫人 | 法国（巴黎） | 1647–1733 | 18thGerman-preKant | 学界通行汉译（巴黎沙龙女主人；与 Johann Heinrich Lambert“兰伯特”区分）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-13）。生卒/籍属查证 2026-11-22：IEP、BnF 规范档、Larousse 均作 1647-09-25 生于巴黎、1733-07-12 卒于巴黎；上游原文拼作 Anne-Thésèse（Thérèse 之误），原文列照录以利检索，译文用通行拼法 | 2026-11-22 |
 | Anscombe, Elizabeth | — | 伊丽莎白·安斯康姆 | 爱尔兰／英国／哲学 | 1919–2001 | ethics-deontological | 学界通行汉译（《现代道德哲学》作者）；籍属/生卒联网查证：GND 规范标目 gnd 120712016（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
 | Anselm of Canterbury | — | 坎特伯雷的安瑟伦 | 意大利／英国／神学 | 1033–1109 | descartes-ontological | 学界千年通行（经院哲学之父；正文行文用“安瑟伦”）；籍属/生卒联网查证：GND 规范标目 gnd 118503278（2026-11-13 查，凭证 verify-2026-11-13-gnd-b.tsv） | 2026-11-13 |
 | Anthony Wood | — | 安东尼·伍德 | 英国／史学 | 1632–1695 | legrand | 学界通行汉译（牛津古史家）；籍属/生卒联网查证：GND 规范标目 gnd 124449697（2026-11-13 查，凭证 verify-2026-11-13-gnd-b.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
@@ -349,7 +349,7 @@
 | Bas van Fraassen | — | 范·弗拉森 | 荷兰／美国 | 1941– | reasoning-analogy | 学界通行汉译；籍属/生卒联网查证：Wikidata Q809744（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Basil | — | 巴西尔 | 罗马帝国（卡帕多西亚·该撒利亚） | 约330–379 | neoplatonism | 学界通行汉译（卡帕多西亚教父，该撒利亚主教；亦作“大巴西尔”）；查证：生卒：Oxford Classical Dictionary（Rousseau）“c. 330–79 ce (the dates are debated but not disproved)”，Catholic-Hierarchy 与通行传记作 330–379；籍属：生于卡帕多西亚该撒利亚（罗马帝国）；原文 en/neoplatonism 称卡帕多西亚教父 Basil 与 Gregory of Nazianzus 少年时代在雅典学哲学（2026-11-22 查，凭证 dates-batch9-2026-11-22.tsv） | 2026-11-22 |
 | Başkent, Can | Can Başkent | 詹·巴什肯特 | — | — | social-procedures | 土耳其名音译（社会软件逻辑研究）；凭证 2026-11-07 | 2026-11-07 |
-| Basson, Sebastian | — | 塞巴斯蒂安·巴松 | 法国 | — | natphil-ren | 本词条首译（《反亚里士多德的自然哲学》作者）；凭证 2026-11-10 | 2026-11-10 |
+| Basson, Sebastian | — | 塞巴斯蒂安·巴松 | 法国 | 约1573– | natphil-ren | 本词条首译（《反亚里士多德的自然哲学》作者）；凭证 2026-11-10。生卒查证 2026-11-22：Wikipedia 据近研究作约 1573 生于梅斯一带，1625 年离开 Die 后无考，卒年不详；《反亚里士多德自然哲学》（1621）作者 | 2026-11-22 |
 | Bataille, Georges | — | 乔治·巴塔耶 | 法国／文学 | 1897–1962 | erotic-art | 学界通行（法国思想家）；籍属/生卒联网查证：GND 规范标目 gnd 118507109（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv） | 2026-11-14 |
 | Bateson, William | — | 威廉·贝特森 | 英国／生物学 | 1861–1926 | genetics | 遗传学命名者，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 118653482（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv） | 2026-11-14 |
 | Batson, C. Daniel | — | C. Daniel Batson（现代学者，保留英文） | 美国／心理学 | 1943– | justice-moral-psych | ADR-0022：无通行汉名者保留英文（道德伪善实验研究者）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 139632115（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv） | 2026-11-14 |
@@ -412,13 +412,13 @@
 | Benussi, Vittorio | — | 维托里奥·贝努西 | 意裔奥地利 | 1878–1927 | ehrenfels | 学界通行音译（格拉茨—柏林格式塔心理学家）；凭证 2026-11-13 | 2026-11-13 |
 | Benveniste, Emile | — | 埃米尔·本韦尼斯特 | 法国 | 1902–1976 | ricoeur | 学界通行汉译（普通语言学）；凭证 2026-11-11 | 2026-11-11 |
 | Berenson, Bernard | — | 伯纳德·贝伦森 | 美国 | 1865–1959 | croce-aesthetics | 学界通行汉译（艺术史家，观念化感觉说）；凭证 2026-11-10 | 2026-11-09 |
-| Bergen, Hendrik of | — | 卑尔根的亨德里克 | — | — | erasmus | 学界惯例（人名+封地名结构通译） | 2026-11-04 |
+| Bergen, Hendrik of | — | 卑尔根的亨德里克 | 尼德兰（卑尔根 op Zoom） | 1449–1502 | erasmus | 学界惯例（人名+封地名结构通译）。生卒/籍属查证 2026-11-22：nl 维基据《Contemporaries of Erasmus》一系作 1449-07-20 生、1502-10-07 卒，康布雷主教（1480–1502）；1495 年资助伊拉斯谟入巴黎蒙太古学院 | 2026-11-22 |
 | Bergson, Henri | — | 亨利·柏格森 | 法国 | 1859–1941 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；籍属/生卒联网查证：GND 规范标目 gnd 118509578（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-14 |
 | Berkeley, George | — | 乔治·贝克莱 | 爱尔兰 | 1685–1753 | SUMMARY 定名（b/berkeley.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译，亦作“巴克莱”）；凭证 2026-11-06；籍属/生卒联网查证：GND 规范标目 gnd 118509616（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Berleant, Arnold | — | 阿诺德·伯林特 | 美国 | 1932– | environmental-aesthetics | 学界通行汉译（《艺术与介入》中译本作“伯林特”）；籍属/生卒联网查证：GND 规范标目 gnd 188476202（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv） | 2026-11-14 |
 | Berman, Piotr | — | Piotr Berman | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Bernard Matege | — | 贝尔纳·马特赫 | — | — | crescas | 学界通行中译（14 世纪加泰罗尼亚人文主义者）；凭证 2026-11-08 | 2026-11-08 |
-| Bernard of Arezzo | — | 阿雷佐的伯纳德 | — | — | autrecourt | 学界通行（方济各会神学家，奥特古通信对手） | 2026-11-06 |
+| Bernard of Arezzo | — | 阿雷佐的伯纳德 | 意大利（托斯卡纳） | fl. 1335–36 | autrecourt | 学界通行（方济各会神学家，奥特古通信对手）。断代/籍属查证 2026-11-22：SEP autrecourt 条作其与奥特朗库尔的通信 1335–1336（同在巴黎读《箴言》）；Courtenay 定为托斯卡纳省方济各会士；生卒无考 | 2026-11-22 |
 | Bernardino Telesio | — | 贝尔纳迪诺·特莱西奥 | 意大利 | 1509–1588 | lorenzo-valla | 学界通行汉译（文艺复兴自然哲学家）；籍属/生卒联网查证：GND 规范标目 gnd 119024470（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-14 |
 | Berners-Lee, Tim | — | 蒂姆·伯纳斯-李 | 英国 | 1955– | it-moral-values | 学界与新闻通行汉译（万维网发明者）；凭证 2026-11-10 | 2026-11-10 |
 | Bernier of Nivelles | — | 尼维尔的贝尔尼耶 | — | — | condemnation | 依地名冠称（列日圣马丁教堂议事司铎）；凭证 2026-11-08 | 2026-11-08 |
@@ -475,7 +475,7 @@
 | Blondel, Maurice | — | 莫里斯·布隆代尔 | 法国 | 1861–1949 | duhem | 学界惯例（法国哲学家，通行音译）；籍属/生卒联网查证：GND 规范标目 gnd 118511823（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv） | 2026-11-14 |
 | Bloom, Paul | — | 保罗·布鲁姆 | 美国 | 1963– | innateness-cognition | 音译（发展心理学）；凭证 2026-11-12 | 2026-11-12 |
 | Bloomfield, Leonard | — | 伦纳德·布龙菲尔德 | 美国 | 1887–1949 | idiolects | 学界通行汉译（结构主义语言学奠基者）；凭证 2026-11-11 | 2026-11-11 |
-| Blount, William (Lord Mountjoy) | — | 威廉·布朗特（蒙乔伊勋爵） | — | — | erasmus | 学界惯例（伊拉斯谟研究通行汉译） | 2026-11-04 |
+| Blount, William (Lord Mountjoy) | — | 威廉·布朗特（蒙乔伊勋爵） | 英国（德比郡·巴顿布卢特） | 约1478–1534 | erasmus | 学界惯例（伊拉斯谟研究通行汉译）。生卒/籍属查证 2026-11-22：Wikipedia 与 DNB 均作 c. 1478 生于巴顿布卢特、1534-11-08 卒；伊拉斯谟的学生与赞助人 | 2026-11-22 |
 | Blumberg, Albert E. | — | Blumberg（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Blumenberg, Hans | — | 汉斯·布卢门贝格 | 德国 | 1920–1996 | copernicus | 学界通行汉译（《哥白尼世界的起源》）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
 | Blumenthal, Otto | — | 奥托·布卢门塔尔 | 德国 | 1876–1944 | brouwer | 学界通行音译（《数学年刊》编辑、希尔伯特传记作者）；凭证 2026-11-12 | 2026-11-12 |
@@ -540,7 +540,7 @@
 | Bouchard, Frédéric | Frederic Bouchard | 弗雷德里克·布沙尔 | 加拿大 | 1975– | fitness | 本词条作者（H1 括注）；学界通行音译（生物学哲学文献）；凭证 2026-11-13；籍属/生卒联网查证：Wikidata Q83594225（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Boulliau, Ismaël | — | 伊丝玛埃尔·布利奥 | 法国 | 1605–1694 | newton-principia | 天文学史通行音译；凭证 2026-11-11 | 2026-11-11 |
 | Bourbaki | — | 布尔巴基 | 法国（集体笔名） | 1935– | axiom-choice | 学界通行（数学家集体笔名，仅叙述行）；凭证 2026-11-13 | 2026-11-13 |
-| Bourguet | — | 布尔盖 | — | — | leibniz-modal | 学界通行汉译（莱布尼茨通信者 Louis Bourguet）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-03 |
+| Bourguet | — | 布尔盖 | 法国（尼姆；后归纳沙泰尔） | 1678–1742 | leibniz-modal | 学界通行汉译（莱布尼茨通信者 Louis Bourguet）；审定库无相关命中（termonline-all 凭证 2026-11-13）。生卒/籍属查证 2026-11-22：HLS 与 DSB 均作 1678-04-23 生于尼姆、1742-12-31 卒于纳沙泰尔；胡格诺难民后裔，1731 年起任纳沙泰尔哲学与数学教授 | 2026-11-22 |
 | Bourrat, Pierrick | — | 皮埃里克·布拉 | — | — | fitness | 学界通行音译（生物学哲学文献）；凭证 2026-11-13 | 2026-11-13 |
 | Bousset, Wilhelm | — | 威廉·布塞 | 德国 | 1865–1920 | scholem | 学界通行汉译（宗教史学派）；凭证 2026-11-08 | 2026-11-08 |
 | Bouty, Edmond | — | 埃德蒙·布蒂 | 法国／物理学 | 1846–1922 | duhem | 学界惯例（物理学史通行汉译）；凭证 2026-11-06；籍属/生卒联网查证：GND 规范标目 gnd 116299754（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv） | 2026-11-14 |
@@ -3664,7 +3664,7 @@
 | Ruskin, John | — | 约翰·拉斯金 | 英国 | 1819–1900 | collingwood-aesthetics | 学界通行汉译（艺术评论家，本词条以“非美学家”身份提及）；凭证 2026-11-10 | 2026-11-09 |
 | Ruspini, Enrique | — | Ruspini | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Russell, Bertrand / Bertrand Russell | — | 罗素 | 英国 | 1872–1970 | 语料回收（全目录）；stebbing | 学界千年通行汉译；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Bertrand Russell`） | 2026-11-13 |
-| Rust, George | — | 乔治·拉斯特 | 爱尔兰 | 卒于 1670 | cambridge-platonists | 学界通行音译（都柏林大主教，剑桥柏拉图派圈内人）；凭证 2026-11-09 | 2026-11-09 |
+| Rust, George | — | 乔治·拉斯特 | 爱尔兰 | 约1628–1670 | cambridge-platonists | 学界通行音译（都柏林大主教，剑桥柏拉图派圈内人）；凭证 2026-11-09。生卒补齐 2026-11-22：SEP henry-more 作 George Rust (c. 1628–1670)，原表仅记卒年，生年依原文补 | 2026-11-22 |
 | Rutherford, Ernest | — | 欧内斯特·卢瑟福 | 新西兰 | 1871–1937 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118750488（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Rutherforth, Thomas | — | 托马斯·拉瑟福思 | 英国 | 1712–1771 | cockburn | 学界惯例（剑桥神学家与道德哲学家，音译转写；无通行汉名）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q7793697（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Ryan, Todd | — | 托德·瑞安 | 美国 | 1967– | bayle | 学界通行音译（培尔笛卡尔主义研究）；籍属/生卒联网查证：GND 规范标目 gnd 140053263（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -4319,7 +4319,7 @@
 | Villegas, Abelardo | — | 阿韦拉多·维列加斯 | 墨西哥 | 1934– | existentialism-mexican | 音译（正文作“维列加斯”）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 1056466995（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Villoro, Luis | — | 路易斯·比略罗 | 墨西哥 | 1922–2014 | epistemology-latin-america | 音译（西班牙语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
 | Vimalakīrti | विमलकीर्ति | 维摩诘 | 非历史人物（《维摩诘经》在家菩萨） | 不适用 | buddhism-chan | 佛学界通行汉译（居士） | 2026-11-05 |
-| Vimercato, Francesco | — | 弗朗切斯科·维梅尔卡托 | 意大利 | 卒于 1569 | bessarion | 本词条首译（文艺复兴亚里士多德主义者，源文 d. 1569；无通行汉名） | 2026-11-10 |
+| Vimercato, Francesco | — | 弗朗切斯科·维梅尔卡托 | 意大利 | 1512–1569 | bessarion | 本词条首译（文艺复兴亚里士多德主义者，源文 d. 1569；无通行汉名）。生卒补齐 2026-11-22：SEP natphil-ren 作 Francesco Vimercato (1512–1569)，bessarion 条作 d. 1569，生年依原文补 | 2026-11-22 |
 | Violant de Bar | — | 巴尔的维奥兰特 | 法国／阿拉贡 | 1365–1431 | crescas | 学界惯例（阿拉贡王后）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q259896（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Virgil | — | 维吉尔 | 古罗马 | 前70–前19 | erasmus | 学界惯例（千年通行译名）；籍属/生卒联网查证：Wikidata Q1398（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Virginia Held | — | 弗吉尼亚·赫尔德 | 美国 | 1929–2026 | justice-virtue | 学界通行汉译（关怀伦理）；凭证 2026-11-02；籍属/生卒联网查证：Wikidata Q16190540（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |

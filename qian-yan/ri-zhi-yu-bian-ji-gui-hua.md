@@ -338,3 +338,10 @@
 * **假分歧 27 条**：公元前记号跨括号 10、书目页码与通信年份等 17；学界异说 47 条（差多在 1–15 年，表值有据，不据单条括注改动）。
 * **计数**：人名表 4,589 行；缺生卒 763、缺籍属 695、任一缺 861（本批为值订正与勘误，不增减缺项）。上一批九（Basil 约330–379／罗马帝国（卡帕多西亚·该撒利亚）；Godfrey of Fontaines 约1250–1306（或1309）／布拉班特（方丹））并入本次提交。
 * **门禁**：`python tools/check_all.py` 17 项全绿。
+
+## 2026-11-22 续：反查余项补齐三人，历史人物逐人查证六人
+
+* **可补未补三人**（反查时见原文有据、表内缺项）：Alexinus –前264→约前339–前265（SEP dialectical-school c. 339–265，Dorandi 1999）；George Rust 卒于1670→约1628–1670（SEP henry-more 括注）；Francesco Vimercato 卒于1569→1512–1569（SEP natphil-ren 括注）。
+* **历史人物六人**（逐人回原文核实体所指后联网查证）：Anne-Thérèse de Lambert 1647–1733／法国（巴黎）（IEP、BnF、Larousse；原文拼作 Anne-Thésèse，系 Thérèse 之误，原文列照录）；William Blount, Lord Mountjoy 约1478–1534／英国（德比郡·巴顿布卢特）（DNB）；Louis Bourguet 1678–1742／法国（尼姆；后归纳沙泰尔）（HLS、DSB）；Hendrik of Bergen 1449–1502／尼德兰（卑尔根 op Zoom）（nl 维基据 Contemporaries of Erasmus）；Sébastien Basson 约1573–（卒年不详）／法国（约 1573 生于梅斯一带，1625 离 Die 后无考）；Bernard of Arezzo fl. 1335–36／意大利（托斯卡纳）（SEP autrecourt 通信年代＋Courtenay 省籍考）。
+* **判据留空**：Boston Crummell（仅知其十三岁被卖、成年获自由，生卒无考）；Apollonius Cronus（仅知为狄奥多罗斯之师、昔兰尼人，无确年）；狄奥多罗斯五女 Argeia、Artemisia 等（仅知为逻辑学家，无确年）；Akṣapāda（传说人物，原文只给《正理经》约 100 CE，不给其人年代）。宁可空着，不凭印象填。
+* **计数**：缺生卒 763→757，缺籍属 695→690，任一缺 861→855。门禁 17 项全绿。
