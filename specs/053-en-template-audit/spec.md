@@ -311,7 +311,7 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 295 分族**（`script/tmp/b32_families2.py <scan-json>`）：现查 `script/tmp/gap-families2.json`（最近一轮：md_extra 173 居首）。
+**缺口 295 分族**（`script/tmp/b32_families2.py <scan-json>`，2026-11-22 现查）：md_extra 168／text 37／h0_extra 33／math 24／digit 21／ok? 6／star 4／entity 2。
 
 - **md_extra**：md 有而 H0 无＝md 与 en 版本差／译注污染，属 specs/001 同步线（`compare` 漂移），**不修规则**。这是最大族，B3.2 分母的收敛上限由它决定。
 - **书目区散文折叠进脚注定义**（leibniz-exoteric／ratnakirti／augustine 等）：C 把书目区 `<p>` 无作者年份散文也建成 `-nd` 伪键定义（首词成“作者名”，leibniz-exoteric 的键竟是 `note-nd`），而账侧 `defs` 列表排除 `note-` 前缀，`pd` 定位失败整段不发射。候选修法＝C 侧定案：书目区无年份散文直接落段（影响 ~265 件 579 段的定义改段落），须全量重转＋B3.1 止损。
