@@ -326,3 +326,15 @@
 * **判据收紧**：并列人物组不再下钻（拆单人子节即“#### 名字 ＋ * 名字”双重列名，违母条独占）；节点名已表达二分且条目序即分组序者不拆；单条成节仅限独立类目。剩余 503 节（3 条 178、2 条 297）逐节复核后判定为语义最细单位（并列主题／并列人物／成对分类），清单留档。
 * **H6 落地**：H5 节点细分即 H6（史区毕达哥拉斯主义、学园怀疑主义、新柏拉图主义总论与先驱、笛卡尔学派四处）；check_mulu_s 与 mulu-map 重放均不假设层级上限，重放只存骨架标题行。
 * **门禁**：每批 check_mulu_s 六项 0 硬错（空节 0）、G1–G4 全绿、check_all 17 项全绿；五批各自提交推送。
+
+## 2026-11-22 生卒反查：表值回原文逐条比对，十二处订正、十三处上游笔误入勘误
+
+* **方法**：已有生卒的 3,826 行回 `en/` 逐条比对同名括注（`script/tmp/audit_dates_vs_en.py`），得分歧 102 条；每条回原句核实体所指，产物 `specs/013-person-attribution/results/date-audit-2026-11-22.tsv`，逐条判定台账 `date-audit-2026-11-22-verdicts.tsv`。
+* **表值订正 12 行**：Dong Zhongshu（源内两存，表留约前195–前104，依据注 han-dynasty 与另两条 179–104 BCE 两说）；Albo 1365→约1380（SEP 专条＋EJ＋NCE，GND 1365 为异说）；Bessarion 1408→1403（SEP 三处＋Britannica，GND 1408 为少数说）；Biel 1418→约1410；Kilwardby 1200→约1215（SEP 专条＋ODNB）；Porzio 1544→1554（SEP 源内矛盾，Treccani DBI 定卒于 1554-08-27）；Sebond c.1400→约1385；Samuel Ibn Tibbon 约1150–1230→约1165–1232（SEP 专条 tibbon）；Hartlib 约1600–1670→约1600–1662（GND 1670 系与同句 Comenius 混同）；Caterus 1657→约1590–1655（Verbeek／Wilson／Mori 三家＋SEP 正文）；Amo 1753→约1703–约1759（卒年无定说，1756/1758/1759 诸说并列）；Matsudaira 译名松平义悌→松平义建（Wikidata Q11530568 ja 标目松平義建，生卒 1800–1862；SEP 括注 1824–83 系 Walthall 1998 沿袭之误，属其子德川庆胜）。
+* **同名异人一处**：Friedrich Bachmann 原填 GND 117534706（神学家 1860–1947），SEP scholz 条实为朔尔茨门下数学家（1909–1982，GND 117707481），已改生卒与籍属；中文件 scholz.md 本就作 1909—1982，可互证。
+* **依据复核两行**：Nāgārjuna（twotruths-india 作 ca. 100 BCE–100 CE，专条与通行 c. 150–250）；Dietrich of Freiberg（专条 c. 1250–1310，albert-great 条作 1240/1250–1318/1320）。
+* **上游笔误 13 处／12 人入勘误表 §11**：Comte 1898、Figo 1547、Morgan 1856、Cooper 1954、Clauberg 1655、Pufendorf 1684、Francke 1723（两词条）、Ailly 1330、Algarotti 1721、Gresham 1597、Fourier 1873、松平义建 1824–83。均逐条联网取证；题名内年份（suarez 书目 Caterus 1597–1641、bodin 论文题名 Gentili 1522–1608）判为文献原样，不入表。
+* **在途译文勘误落地 5 件**（均 s2.4_termchecked）：natphil-ren、occasionalism（两处）、nicole-oresme、18thGerman-preKant、kokugaku-school——改正确读法并加句内译注，残余门（译注外错年）归零。
+* **假分歧 27 条**：公元前记号跨括号 10、书目页码与通信年份等 17；学界异说 47 条（差多在 1–15 年，表值有据，不据单条括注改动）。
+* **计数**：人名表 4,589 行；缺生卒 763、缺籍属 695、任一缺 861（本批为值订正与勘误，不增减缺项）。上一批九（Basil 约330–379／罗马帝国（卡帕多西亚·该撒利亚）；Godfrey of Fontaines 约1250–1306（或1309）／布拉班特（方丹））并入本次提交。
+* **门禁**：`python tools/check_all.py` 17 项全绿。

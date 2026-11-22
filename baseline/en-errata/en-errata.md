@@ -577,3 +577,27 @@
 | questions | §2 定义式 | `\(C\in X\)\(\{P\}\)` | —（判据歧义） | `\(` 为 LaTeX 换行命令 `\` + 字面 `(`（非定界符），MathJax 渲染为换行后接括号，**疑似合法** | 无需译注 | 全文 `\(`=324/`\)`=324 配对（简单计数）；`(?<!\)` 排除后差 1 源于该处 `\(` 的配对 `\)` 前为 `}`、无法对称排除；留待人审确认渲染 |
 
 **本节小结**：8 件入表（①类，均 en/ 冻结照录、译文按参考读法承载）；questions 判据歧义不入表（渲染验证后人审裁定）。math_brace 三词条（epistemic-game/goedel/logic-propositional）定界符计数配对、失败源为花括号嵌套/错位，已按公式级扫描凭证定位。
+
+## 十一、2026-11-22 生卒反查批（specs/013 人名表 × 原文逐条比对）
+
+**来源**：人名表已有生卒者 3,826 行回 `en/` 逐条比对同名括注（`script/tmp/audit_dates_vs_en.py`，产物 `specs/013-person-attribution/results/date-audit-2026-11-22.tsv`，102 条分歧），逐条判读（判定台账 `date-audit-2026-11-22-verdicts.tsv`）。定性：真缺陷 13 处／12 人入表，全部为 ①排印手误（数字倒置、脱字、同句他人年份串位）；其余为公元前记号跨括号、书目页码与通信年份误配、文献题名原样、SEP 源内两存与学界异说。
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| max-stirner | 正文（摘录句） | `Auguste Comte (1898–1857)` | ① | `1798–1857`（孔德生 1798-01-19；同库 comte 专条与 addams-jane 条均作 1798） | 中文件空白件，译注队列 | 库内多数形＋Britannica（2026-11-22） |
+| natphil-ren | 正文（菲戈句） | `Azariah Figo (1579–1547)` | ① | `1579–1647`（卒 1647-02-06，1547 系 1647 倒误） | n/natphil-ren.md 相应句，句内译注（已落） | 联网 Wikipedia Azaria Piccio（2026-11-22） |
+| gene | 正文（摩尔根句） | `Thomas Hunt Morgan (1856–1945)` | ① | `1866–1945`（生 1866-09-25） | 中文件空白件，译注队列 | 联网（2026-11-22） |
+| femapproach-pragmatism | 正文（库珀句） | `Anna Julia Cooper (1858–1954)` | ① | `1858–1964`（卒 1964-02-27；同库 anna-julia-cooper 条作 1858–1964） | 中文件空白件，译注队列 | 库内多数形（2026-11-22） |
+| occasionalism | 正文 §1.3 与后文两处 | `Johannes Clauberg (1622–1655)` | ① | `1622–1665`（卒 1665-09-20；同库 clauberg 专条作 1622–65） | o/occasionalism.md 两处已改，后一处句内译注（已落） | 库内专条对照（2026-11-22） |
+| federalism | 正文（普芬道夫句） | `Samuel Pufendorf (1632–1684)` | ① | `1632–1694`（卒 1694-10-13，1684 系 1694 倒误） | 中文件空白件，译注队列 | 联网（2026-11-22） |
+| 18thGerman-preKant | 正文（弗兰克句） | `August Hermann Francke (1663–1723)` | ① | `1663–1727`（卒 1727-06-08） | 1/18thGerman-preKant.md 相应句，句内译注（已落） | GND 118534688（2026-11-22） |
+| wolff-christian | 正文（同串） | `August Hermann Francke (1663–1723)` | ① | `1663–1727` | 中文件空白件，译注队列 | 同上（2026-11-22） |
+| semiotics-medieval | 正文（阿伊句） | `Peter of Ailly (1330–1421)` | ① | `1350/51–1420`（卒 1420-08-09；1330 系脱字，1421 为少数说） | 中文件空白件，译注队列 | Wikipedia＋DSB（2026-11-22） |
+| scientific-method | 正文（阿尔加罗蒂句） | `Francesco Algarotti (1721–1764)` | ① | `1712–1764`（生 1712-12-11，1721 系 1712 倒置） | 中文件空白件，译注队列 | GND 119086395（2026-11-22） |
+| nicole-oresme | 正文（格雷欣句） | `Thomas Gresham (1519–1597)` | ① | `1519–1579`（卒 1579-11-21，1597 系 1579 倒置） | n/nicole-oresme.md 相应句，句内译注（已落） | 联网（2026-11-22） |
+| latin-american-philosophy | 正文（傅立叶句） | `Charles Fourier (1772–1873)` | ① | `1772–1837`（卒 1837-10-10） | 中文件空白件，译注队列 | GND 118534572（2026-11-22） |
+| kokugaku-school | 正文 §4.3（松平句） | `Matsudaira Yoshitatsu (1824–83)` | ① | 名从美浓高须藩第十代藩主松平义建，生卒 `1800–1862`（Wikidata Q11530568：1800-01-07／1862-09-13）；1824–1883 属其子德川庆胜，上游沿袭 Walthall 1998 之误 | k/kokugaku-school.md 相应句，句内译注＋译名订正（已落） | 联网 Wikidata／ja 维基／名古屋市书道美术馆页（2026-11-22） |
+
+**不入表判定（留此备考）**：`Caterus (1597–1641)` 见 suarez 书目书名、`Alberico Gentili (1522–1608)` 见 bodin 论文题名——均系被引文献题名原样，非 SEP 文字缺陷；`Martin Buber (1878–1956)` 为 Łukasiewicz 生卒误配（同名邻近）；Dong Zhongshu、Candrakīrti、Nāgārjuna、Dietrich of Freiberg、Amo 属 SEP 源内两存（人名表依据列已注）；Figo/Morgan 等 12 处的表内值经核对本就正确，故本批只动勘误表与在途译文，不动人名表数值。
+
+**本节小结**：13 件入表（①类，en/ 冻结照录、译文按参考读法承载）；其中 5 件中文承载已落地（natphil-ren、occasionalism、nicole-oresme、18thGerman-preKant、kokugaku-school，均在 s2.4_termchecked 在途件），其余 8 件挂译注队列，待相应词条重译或回炉时落地。
